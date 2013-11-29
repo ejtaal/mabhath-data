@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+   <teiHeader type="text" status="new">
+      <fileDesc>
+         <titleStmt>
+            <title>An Arabic-English Lexicon</title>
+            <title>
+               <foreign lang="ar">ى</foreign>
+            </title>
+            <author>Edward William Lane</author>
+            <funder n="org:USDeptEd">The U.S. Department of Education</funder>
+            <funder n="org:MaxPlanck">The Max Planck Society</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Trustees of Tufts University</publisher>
+            <pubPlace>Medford, MA</pubPlace>
+            <authority>Perseus Project</authority>
+            <availability status="free">
+               <p>This text may be freely distributed, subject to the following
+                                            restrictions:</p>
+               <list>
+                  <item>You credit Perseus, as follows, whenever you use the document:
+                                                <quote>Text provided by Perseus Digital Library, with funding from The U.S. Department of Education and The Max Planck Society.</quote>
+                  </item>
+                  <item>You leave this availability statement intact.</item>
+                  <item>You offer Perseus any modifications you make.</item>
+               </list>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note anchored="yes" place="unspecified">Additional XML cleanup by Alpheios Technical Services, LLC.</note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct>
+                  <analytic/>
+                  <monogr>
+                     <title>An Arabic-English Lexicon</title>
+                     <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>Williams and Norgate</publisher>
+                        <date>1863</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <refsDecl doctype="TEI.2">
+            <state unit="entry"/>
+         </refsDecl>
+         <refsDecl doctype="TEI.2">
+            <state n="chunk" unit="root"/>
+            <state unit="entry"/>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage default="NO">
+            <language id="en">
+                                        English
+                                    </language>
+            <language id="ar">
+                                        Arabic
+                                    </language>
+            <language id="xlar">
+                                        Transliterated Arabic
+                                    </language>
+            <language id="greek">
+                                        Greek
+                                    </language>
+            <language id="la">
+                                        Latin
+                                    </language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 part="N" n="Y" org="uniform" sample="complete" type="alphabetical letter"
+               TEIform="div1"> 
+            <head lang="ar" TEIform="head">Y</head>   
+            <div2 type="root" part="N" n="Y" org="uniform" sample="complete" TEIform="div2">      
+               <entryFree id="n44783" key="Y" type="main">          
+                  <form>       
+                     <itype>alphabetical letter</itype>       
+                     <orth extent="full" lang="ar">Y</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>    
+               </entryFree> 
+            </div2> 
+            <div2 n="ytm" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">ytm</foreign>
+               </head>    
+               <entryFree id="n44784" key="A^ayotamahu" type="main">     
+                  <form>       
+                     <itype>4</itype>        
+                     <orth orig="" extent="full" lang="ar">A^ayotamahu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> [<hi rend="ital" TEIform="hi">He made him fatherless</hi>]. (TA in art. <foreign lang="ar" TEIform="foreign">Aym</foreign>.) See an ex. in art. <foreign lang="ar" TEIform="foreign">Aym</foreign>, conj. 2.   </entryFree> 
+            </div2> 
+            <div2 n="ytn" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">ytn</foreign>
+               </head>    
+               <entryFree id="n44785" key="waladatohu yatonA" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">waladatohu yatonA</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">She brought him forth feet foremost.</hi> (M.) In Fresnel's three copies of the Aghánee, (see his “ Seconde lettre sur l'Histoire des Arabes avant l'Islamisme, ” Journal Asiatique, 3rd Series, no. 16,) erroneously written <foreign lang="ar" TEIform="foreign">nynA</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yvm" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yvm</foreign>
+               </head>    
+               <entryFree id="n44786" key="A_iyvamu" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">A_iyvamu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> and <foreign lang="ar" TEIform="foreign">tiyvamu</foreign> [for <foreign lang="ar" TEIform="foreign">A=vamu</foreign> and <foreign lang="ar" TEIform="foreign">taA^ovamu</foreign>]: see <foreign lang="ar" TEIform="foreign">A^avima</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yd" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yd</foreign>
+               </head>    
+               <entryFree id="n44787" key="yadN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yadN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> The <hi rend="ital" TEIform="hi">arm, from the shoulder-joint to the extremities of the fingers.</hi> (Msb.) ―         -b2-  [The <hi rend="ital" TEIform="hi">foreleg</hi> of a horse, &amp;c.] ―         -b3-  <foreign lang="ar" TEIform="foreign">yadN bayoDaA='u</foreign>: see <foreign lang="ar" TEIform="foreign">A^aboyaDu</foreign>, in two places, near the end of the paragraph. ―         -b4-  <foreign lang="ar" TEIform="foreign">yadN</foreign> A <hi rend="ital" TEIform="hi">sleeve:</hi> see R. Q. 1 in art. <foreign lang="ar" TEIform="foreign">*b</foreign>. ―         -b5-  <foreign lang="ar" TEIform="foreign">yadu Alqawosi</foreign>: see <foreign lang="ar" TEIform="foreign">rijolN</foreign>, in two places. ―         -b6-  <foreign lang="ar" TEIform="foreign">TiwaAlu AlA^ayodi</foreign> for <foreign lang="ar" TEIform="foreign">AlA^ayodiY</foreign>: see <foreign lang="ar" TEIform="foreign">vamaAniyapN</foreign>. ―         -b7-  <foreign lang="ar" TEIform="foreign">A^aEoTaAhu</foreign> 
+                  <foreign lang="ar" TEIform="foreign">Eano yadK</foreign>, as occurring in the Kur, ix., 29, <hi rend="ital" TEIform="hi">He gave it in acknowledgement of the superiority of the receiver;</hi> that the power (<foreign lang="ar" TEIform="foreign">yado</foreign>) of the latter was superior to that of the giver: or, <hi rend="ital" TEIform="hi">because of favour received;</hi> or, <hi rend="ital" TEIform="hi">from subjection and abasement:</hi> (M:) or, <hi rend="ital" TEIform="hi">from compulsion:</hi> (A 'Obeyd, T:) or, <hi rend="ital" TEIform="hi">obediently:</hi> or, <hi rend="ital" TEIform="hi">walking with it; not riding, nor sending it:</hi> or, <hi rend="ital" TEIform="hi">in ready money.</hi> (TA.) ―         -b8-  <foreign lang="ar" TEIform="foreign">A^asolama EalaY yadaYo fulaAnK</foreign> 
+                  <hi rend="ital" TEIform="hi">He became a Muslim by the advice and persuasion of such a one.</hi> (Marg. note in a copy of the Jámi' es-Sagheer, on a trad. commencing <foreign lang="ar" TEIform="foreign">mano</foreign> 
+                  <foreign lang="ar" TEIform="foreign">A^asolama</foreign>.) ―         -b9-  <foreign lang="ar" TEIform="foreign">A^axa*t~u Einodahu yadFA</foreign>: see art. <foreign lang="ar" TEIform="foreign">Ax*</foreign>. ―         -b10-  <foreign lang="ar" TEIform="foreign">lifulaAnK EinodiY yadN</foreign> 
+                  <hi rend="ital" TEIform="hi">I owe such a one a benefit.</hi> ―         -b11-  <foreign lang="ar" TEIform="foreign">EalaY yadihi</foreign> 
+                  <hi rend="ital" TEIform="hi">By his agency,</hi> or <hi rend="ital" TEIform="hi">means.</hi> See the corresponding expression in Hebrew, in Ps. lxiii. 11, Jer. xviii. 21, and Ezek. xxxv. 5, in the phrase “ to pour out (the blood of) a person by means of the sword. ” ―         -b12-  <foreign lang="ar" TEIform="foreign">walaA tuloquwA biA^ayodiykumo A_ilaY Alt~aholukapi</foreign> (Kur, ii. 191): see <foreign lang="ar" TEIform="foreign">b</foreign> (used redundantly). ―         -b13-  <foreign lang="ar" TEIform="foreign">lA</foreign> 
+                  <foreign lang="ar" TEIform="foreign">A=tiyhi yada Ald~ahori</foreign>, and <foreign lang="ar" TEIform="foreign">yada Almusonadi</foreign> 
+                  <hi rend="ital" TEIform="hi">I will not come to him,</hi> or <hi rend="ital" TEIform="hi">do it, ever; I will never do it.</hi> (IAar, in I., voce <foreign lang="ar" TEIform="foreign">musonadN</foreign>.) See <foreign lang="ar" TEIform="foreign">A^abadN</foreign> and <foreign lang="ar" TEIform="foreign">jadFA</foreign>. ―         -b14-  <foreign lang="ar" TEIform="foreign">EalaY yadaYi</foreign> 
+                  <foreign lang="ar" TEIform="foreign">Alxayori waAlyumoni</foreign>: see <foreign lang="ar" TEIform="foreign">xayorN</foreign>. ―         -b15-  <foreign lang="ar" TEIform="foreign">biEotuhu yadFA biyadK</foreign>: see <foreign lang="ar" TEIform="foreign">naAjizN</foreign>. ―         -b16-  You say, also, <foreign lang="ar" TEIform="foreign">baAyaEotuhu yadFA biyadK</foreign>, the two nouns being only thus used, as a denotative of state, <hi rend="ital" TEIform="hi">I contracted a sale with him for ready money; i. q.</hi> 
+                  <foreign lang="ar" TEIform="foreign">biAlt~aEojiyli waAln~aqodi</foreign>. (Mgh.) ―         -b17-  <foreign lang="ar" TEIform="foreign">laka A^ano yakuwna ka*aA</foreign> [or <foreign lang="ar" TEIform="foreign">yadaY~a</foreign>?] <foreign lang="ar" TEIform="foreign">yadiY~a</foreign> is like <foreign lang="ar" TEIform="foreign">EalaY~a</foreign> 
+                  <foreign lang="ar" TEIform="foreign">lk An ykwn k*A</foreign>. (Aboo-Sahl El-Harawee, TA in art. <foreign lang="ar" TEIform="foreign">Hbq</foreign>.) ―         -b18-  <foreign lang="ar" TEIform="foreign">A^utiYa EalaY yadi fulaAnK</foreign>: see <foreign lang="ar" TEIform="foreign">A^ataY</foreign>. ―         -b19-  <foreign lang="ar" TEIform="foreign">A^aw~ala *iY yadayoni</foreign> and <foreign lang="ar" TEIform="foreign">*aAti yadayoni</foreign>: see art. <foreign lang="ar" TEIform="foreign">*w</foreign>. ―         -b20-  <foreign lang="ar" TEIform="foreign">taHota yadihi</foreign> 
+                  <hi rend="ital" TEIform="hi">Under his authority.</hi> ―         -b21-  <foreign lang="ar" TEIform="foreign">yadN</foreign> (assumed tropical:) <hi rend="ital" TEIform="hi">Generosity.</hi> (A, voce <foreign lang="ar" TEIform="foreign">$aborN</foreign>)    </entryFree> 
+               <entryFree id="n44788" key="mayodiY~N" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">mayodiY~N</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> A gazelle <hi rend="ital" TEIform="hi">whose fore-leg is caught in a snare:</hi> see <foreign lang="ar" TEIform="foreign">marojuwlN</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yrbE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yrbE</foreign>
+               </head>    
+               <entryFree id="n44789" key="AljaAru AlyarobuwEiY~u" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">AljaAru AlyarobuwEiY~u</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">AljAr AlbaraAqi$iY~u</foreign>, in art. <foreign lang="ar" TEIform="foreign">brq$</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yrE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yrE</foreign>
+               </head>    
+               <entryFree id="n44790" key="yaraAEN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yaraAEN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">A firefly:</hi> see <foreign lang="ar" TEIform="foreign">HubaAHibN</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yrq" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yrq</foreign>
+               </head>    
+               <entryFree id="n44791" key="yaraqaAnN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yaraqaAnN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">Saffron.</hi> (Sgh, in TA, art. <foreign lang="ar" TEIform="foreign">$Er</foreign>.) ―         -b2-  See <foreign lang="ar" TEIform="foreign">A^araqaAnN</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yrm" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yrm</foreign>
+               </head>    
+               <entryFree id="n44792" key="yaramiY~N" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yaramiY~N</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> and <foreign lang="ar" TEIform="foreign">A^ayoramiY~N</foreign> 
+                  <hi rend="ital" TEIform="hi">A sign-stone:</hi> see <foreign lang="ar" TEIform="foreign">A_iramN</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yzn" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yzn</foreign>
+               </head>    
+               <entryFree id="n44793" key="yazaniY~N" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yazaniY~N</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> and <foreign lang="ar" TEIform="foreign">A^ayozaniY~N</foreign>, applied to a spear: see <foreign lang="ar" TEIform="foreign">A^azoA^aniY</foreign>, in art. <foreign lang="ar" TEIform="foreign">zA^n</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="y$m" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">y$m</foreign>
+               </head>    
+               <entryFree id="n44794" key="maA A^ayo$amahu" type="main">     
+                  <form>       
+                     <itype>4</itype>        
+                     <orth orig="" extent="full" lang="ar">maA A^ayo$amahu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">How unlucky!</hi> a vulgarism: see 4 in art. <foreign lang="ar" TEIform="foreign">$A^m</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yfE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yfE</foreign>
+               </head>    
+               <entryFree id="n44795" key="yafaEN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yafaEN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">yaAfiEN</foreign>    
+               </entryFree> 
+               <entryFree id="n44796" key="yafaEapN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yafaEapN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">yaAfiEN</foreign>    
+               </entryFree> 
+               <entryFree id="n44797" key="yafaAEN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yafaAEN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">yaAfiEN</foreign>    
+               </entryFree> 
+               <entryFree id="n44798" key="yaAfiEN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yaAfiEN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> and ↓ 
+      <orth type="arrow" lang="ar">yafaEapN</orth> A boy <hi rend="ital" TEIform="hi">grown up,</hi> (Msb, TA,) <hi rend="ital" TEIform="hi">grown tall;</hi> (Ham, p. 354 et seq., Har, p. 189;) as also ↓ 
+      <orth type="arrow" lang="ar">yafaAEN</orth> and ↓ 
+      <orth type="arrow" lang="ar">yafaEN</orth>. (Ham, ibid.) See an ex. voce <foreign lang="ar" TEIform="foreign">xaboA^apN</foreign>; and <foreign lang="ar" TEIform="foreign">$aAdixN</foreign> and <foreign lang="ar" TEIform="foreign">muTab~ixN</foreign>.    </entryFree> 
+               <entryFree id="n44799" key="waladu AlmuyaAfaEapi" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">waladu AlmuyaAfaEapi</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> [<hi rend="ital" TEIform="hi">The offspring of fornication,</hi> or <hi rend="ital" TEIform="hi">adultery</hi>].   </entryFree> 
+            </div2> 
+            <div2 n="yqn" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yqn</foreign>
+               </head>    
+               <entryFree id="n44800" key="yaqinahu" type="main">     
+                  <form>       
+                     <itype>1</itype>        
+                     <orth orig="" extent="full" lang="ar">yaqinahu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>, (S, Msb, K,) and <foreign lang="ar" TEIform="foreign">yaqina bihi</foreign>; (Msb;) and ↓ 
+      <orth type="arrow" lang="ar">A^ayoqanahu</orth>, (S, K,) and <foreign lang="ar" TEIform="foreign">bihi</foreign> ↓ 
+      <orth type="arrow" lang="ar">Ayqn</orth>; (K;) and ↓ 
+      <orth type="arrow" lang="ar">tayaq~anahu</orth>; and ↓ 
+      <orth type="arrow" lang="ar">Aisotayoqanahu</orth>, (S, Msb, K,) and ↓ 
+      <orth type="arrow" lang="ar">Astyqn</orth> 
+                  <foreign lang="ar" TEIform="foreign">bihi</foreign>; (K;) all signify the same; (S;) <hi rend="ital" TEIform="hi">He knew it; he was,</hi> or <hi rend="ital" TEIform="hi">became, certain,</hi> or <hi rend="ital" TEIform="hi">sure,</hi> or <hi rend="ital" TEIform="hi">he made sure, of it;</hi> syn. <foreign lang="ar" TEIform="foreign">Ealimahu</foreign>; (Msb, K;) <hi rend="ital" TEIform="hi">intuitively,</hi> and <hi rend="ital" TEIform="hi">inferentially;</hi> (Msb;) [see 1 in art. <foreign lang="ar" TEIform="foreign">Elm</foreign>;] and <foreign lang="ar" TEIform="foreign">taHaqaq~ahu</foreign>. (K.)    </entryFree> 
+               <entryFree>     
+                  <form>       
+                     <itype>4</itype>        
+                     <orth lang="ar">A^ayoqana</orth>
+                  </form> see 1.    </entryFree> 
+               <entryFree>     
+                  <form>       
+                     <itype>5</itype>        
+                     <orth lang="ar">tayaq~ana</orth>
+                  </form> see 1.    </entryFree> 
+               <entryFree>     
+                  <form>       
+                     <itype>10</itype>        
+                     <orth lang="ar">A_isotayoqana</orth>
+                  </form> see 1.    </entryFree> 
+               <entryFree id="n44801" key="yaqiynN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yaqiynN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> is of the measure <foreign lang="ar" TEIform="foreign">faEiylN</foreign> in the sense of the measure <foreign lang="ar" TEIform="foreign">faAEilN</foreign>, signifying <hi rend="ital" TEIform="hi">Sure,</hi> or <hi rend="ital" TEIform="hi">certain,</hi> 
+                  <pb n="3064" TEIform="pb"/> and <hi rend="ital" TEIform="hi">manifest.</hi> (Msb.) ―         -b2-  And <hi rend="ital" TEIform="hi">knowledge,</hi> or <hi rend="ital" TEIform="hi">certainty;</hi> [see <foreign lang="ar" TEIform="foreign">Zan~N</foreign>;] <hi rend="ital" TEIform="hi">instinctive</hi> and <hi rend="ital" TEIform="hi">inferential.</hi> (Msb.) ―         -b3-  <foreign lang="ar" TEIform="foreign">Eayonu Alyaqiyni</foreign>: see <foreign lang="ar" TEIform="foreign">EayonN</foreign> (latter part). ―         -b4-  <foreign lang="ar" TEIform="foreign">AlHq~u Alyaqiynu</foreign> and <foreign lang="ar" TEIform="foreign">Haq~u Alyaqiyni</foreign>: see <foreign lang="ar" TEIform="foreign">jaAmiEN</foreign>; where the two words are said to have the same meaning: and Bd and Jel in lvi. 95; in the latter of which, <foreign lang="ar" TEIform="foreign">Alyqyn</foreign> in <foreign lang="ar" TEIform="foreign">Haq~u Alyaqiyni</foreign> is expressly said to be an epithet: see also Ham, p. 335.   </entryFree> 
+            </div2> 
+            <div2 n="ym" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">ym</foreign>
+               </head>    
+               <entryFree id="n44802" key="yam~ama" type="main">     
+                  <form>       
+                     <itype>2</itype>        
+                     <orth orig="" extent="full" lang="ar">yam~ama</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">A^am~ama</foreign>. And <foreign lang="ar" TEIform="foreign">yam~ama AlmariyDa</foreign> and <foreign lang="ar" TEIform="foreign">Almay~ita</foreign>: see Mgh in art. <foreign lang="ar" TEIform="foreign">A^am~a</foreign>.    </entryFree> 
+               <entryFree id="n44803" key="tayam~ama" type="main">     
+                  <form>       
+                     <itype>5</itype>        
+                     <orth orig="" extent="full" lang="ar">tayam~ama</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">SaEiydN</foreign> and art. <foreign lang="ar" TEIform="foreign">Am</foreign>. ―         -b2-  <foreign lang="ar" TEIform="foreign">tayam~ama</foreign> 
+                  <foreign lang="ar" TEIform="foreign">yamaAmapF</foreign> 
+                  <hi rend="ital" TEIform="hi">i. q.</hi> 
+                  <foreign lang="ar" TEIform="foreign">qaSada qaSodFA</foreign>. (TA in art. <foreign lang="ar" TEIform="foreign">Am</foreign>.)    </entryFree> 
+               <entryFree id="n44804" key="AlfariyDapu Alyam~iy~apu" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">AlfariyDapu Alyam~iy~apu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">Almu$ar~akapu</foreign>.    </entryFree> 
+               <entryFree id="n44805" key="yamaAmN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yamaAmN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">HamaAmN</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="ymr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">ymr</foreign>
+               </head>    
+               <entryFree id="n44806" key="yaAmurrN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yaAmurrN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> The <hi rend="ital" TEIform="hi">male of the</hi> 
+                  <foreign lang="ar" TEIform="foreign">A^ay~il</foreign> [or <hi rend="ital" TEIform="hi">mountain goat:</hi> not <foreign lang="ar" TEIform="foreign">l</foreign>: <foreign lang="ar" TEIform="foreign">A</foreign>]. (M, TT.)   </entryFree> 
+            </div2> 
+            <div2 n="ymn" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">ymn</foreign>
+               </head>    
+               <entryFree id="n44807" key="yumina" type="main">     
+                  <form>       
+                     <itype>1</itype>        
+                     <orth orig="" extent="full" lang="ar">yumina</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>, (T, M, K,) and <foreign lang="ar" TEIform="foreign">yamina</foreign>, (M, K,) <hi rend="ital" TEIform="hi">He was prosperous; fortunate; lucky.</hi> (T, M, K.)    </entryFree> 
+               <entryFree id="n44808" key="yaAmana" type="main">     
+                  <form>       
+                     <itype>3</itype>        
+                     <orth orig="" extent="full" lang="ar">yaAmana</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see 3 in art. <foreign lang="ar" TEIform="foreign">$A^m</foreign> in two places.    </entryFree> 
+               <entryFree id="n44809" key="A^ayomanahu" type="main">     
+                  <form>       
+                     <itype>4</itype>        
+                     <orth orig="" extent="full" lang="ar">A^ayomanahu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">He made it to incline towards the right:</hi> see an ex. voce <foreign lang="ar" TEIform="foreign">sin~N</foreign> (near the end of the paragraph). ―         -b2-  <foreign lang="ar" TEIform="foreign">A^ayomana</foreign>: see <foreign lang="ar" TEIform="foreign">A^a$oA^ama</foreign> in two places. ―         -b3-  <foreign lang="ar" TEIform="foreign">A^ayomanotu A_ibiliY</foreign>: see <foreign lang="ar" TEIform="foreign">A^ayosarotu</foreign>.    </entryFree> 
+               <entryFree id="n44810" key="tayam~ana" type="main">     
+                  <form>       
+                     <itype>5</itype>        
+                     <orth orig="" extent="full" lang="ar">tayam~ana</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">He was placed on his right side in the grave.</hi> (TA, voce <foreign lang="ar" TEIform="foreign">EalobaY</foreign>.) ―         -b2-  <foreign lang="ar" TEIform="foreign">tayam~ana bihi</foreign> 
+                  <hi rend="ital" TEIform="hi">i. q.</hi> 
+                  <foreign lang="ar" TEIform="foreign">tabar~aka bihi</foreign> [q. v.]. (S.) ―         -b3-  <foreign lang="ar" TEIform="foreign">fulaAnN yutayam~anu biraA^oyihi</foreign>, i. e. <foreign lang="ar" TEIform="foreign">yutabar~aku bihi</foreign>, (T,) app. <hi rend="ital" TEIform="hi">One is fortunate in, or derives a blessing from, his counsel.</hi> ―         -b4-  <hi rend="ital" TEIform="hi">He augured good by it,</hi> or <hi rend="ital" TEIform="hi">from it; or looked for good fortune, or a blessing, from it;</hi> syn. <foreign lang="ar" TEIform="foreign">tab~araka</foreign> 
+                  <foreign lang="ar" TEIform="foreign">bihi</foreign>: (Mgh, Msb, &amp;c:) opposed to <foreign lang="ar" TEIform="foreign">ta$aA^'ama bihi</foreign>, in the K, art. <foreign lang="ar" TEIform="foreign">Tyr</foreign>; and in Bd, xvii. 14; and well known. ―         -b5-  <foreign lang="ar" TEIform="foreign">tayam~ana bikalimapK</foreign> [<hi rend="ital" TEIform="hi">He augured good from the word</hi>], (Har, p. 488,) and <foreign lang="ar" TEIform="foreign">bikalaAmK</foreign>. (Msb. in art. <foreign lang="ar" TEIform="foreign">fA^l</foreign>.)    </entryFree> 
+               <entryFree id="n44811" key="tayaAmana" type="main">     
+                  <form>       
+                     <itype>6</itype>        
+                     <orth orig="" extent="full" lang="ar">tayaAmana</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">ta$a~aAma</foreign>. ―         -b2-  <foreign lang="ar" TEIform="foreign">tayaAmanuwA</foreign>: see 3 in art. <foreign lang="ar" TEIform="foreign">ysr</foreign>.    </entryFree> 
+               <entryFree id="n44812" key="yumonN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yumonN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">Prosperity; good fortune; good luck; auspiciousness;</hi> (T, S, M, K;) <hi rend="ital" TEIform="hi">contr. of</hi> 
+                  <foreign lang="ar" TEIform="foreign">$uw^omN</foreign>, (M,) and of <foreign lang="ar" TEIform="foreign">naHosN</foreign>. (L, art. <foreign lang="ar" TEIform="foreign">sEd</foreign>.)    </entryFree> 
+               <entryFree id="n44813" key="yumonapN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yumonapN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: its pl. seems to be <foreign lang="ar" TEIform="foreign">yumanN</foreign>. See <foreign lang="ar" TEIform="foreign">burodN</foreign>.    </entryFree> 
+               <entryFree id="n44814" key="Alyamiynu" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">Alyamiynu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">The location that is on the right.</hi> ―         -b2-  <foreign lang="ar" TEIform="foreign">yamiynN</foreign> also, The <hi rend="ital" TEIform="hi">south.</hi> See <foreign lang="ar" TEIform="foreign">saroHN</foreign>. ―         -b3-  <foreign lang="ar" TEIform="foreign">yamiynu</foreign> also signifies <hi rend="ital" TEIform="hi">A covenant</hi> (Bd, and Jel in lxviii. 39) <hi rend="ital" TEIform="hi">confirmed by an oath.</hi> (Bd, ibid.) <foreign lang="ar" TEIform="foreign">yamiynu A@ll~`hi</foreign> 
+                  <hi rend="ital" TEIform="hi">The oath by attestation of God:</hi> see <foreign lang="ar" TEIform="foreign">A^ayomu A@ll~`hi</foreign>, and <foreign lang="ar" TEIform="foreign">Eahodu A@ll~`hi</foreign>. ―         -b4-  <foreign lang="ar" TEIform="foreign">Halafotu yamiynFA</foreign> [<hi rend="ital" TEIform="hi">I swore,</hi> or <hi rend="ital" TEIform="hi">have sworn, an oath</hi>]. (T, S, M, voce <foreign lang="ar" TEIform="foreign">A^amiynN</foreign>, which see. You say, <foreign lang="ar" TEIform="foreign">yamiyna A@ll~`hi laA A^afoElu</foreign> (as in some copies of the S [meaning, <foreign lang="ar" TEIform="foreign">Halafotu yamiyna A@ll~`hi</foreign>]): or <foreign lang="ar" TEIform="foreign">yamiynu A@ll~`hi</foreign> (as in other copies [meaning, <foreign lang="ar" TEIform="foreign">yamiynu</foreign> 
+                  <foreign lang="ar" TEIform="foreign">A@ll~`hi qasamiY</foreign>]). See a similar form of oath voce <foreign lang="ar" TEIform="foreign">HaraAmN</foreign>. ―         -b5-  <foreign lang="ar" TEIform="foreign">yamiynFA SaAdiqapF laA^afoEalan~a</foreign>: see <foreign lang="ar" TEIform="foreign">zaEompN</foreign>.    </entryFree> 
+               <entryFree id="n44815" key="yamaAnK" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yamaAnK</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">A garment of Yemen:</hi> see a verse voce <foreign lang="ar" TEIform="foreign">tasohiymN</foreign>.    </entryFree> 
+               <entryFree id="n44816" key="yamaAniY~N" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yamaAniY~N</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> and <foreign lang="ar" TEIform="foreign">yamaAnuwna</foreign>: see <foreign lang="ar" TEIform="foreign">tihaAmiY~N</foreign>.    </entryFree> 
+               <entryFree id="n44817" key="yaAminN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yaAminN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">yaAsirN</foreign>.    </entryFree> 
+               <entryFree id="n44818" key="A^ayomanu" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">A^ayomanu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> [The <hi rend="ital" TEIform="hi">right, as opposed to</hi> the <hi rend="ital" TEIform="hi">left;</hi> see Kur, xix. 53, xx. 82, and xxviii. 30:] <hi rend="ital" TEIform="hi">contr. of</hi> 
+                  <foreign lang="ar" TEIform="foreign">A^ayosaru</foreign>; and [in like manner] ↓ 
+      <orth type="arrow" lang="ar">mayomanapN</orth> is <hi rend="ital" TEIform="hi">contr. of</hi> 
+                  <foreign lang="ar" TEIform="foreign">mayosarapN</foreign>. (S.) ―         -b2-  <foreign lang="ar" TEIform="foreign">A^ayomanu</foreign>, <hi rend="ital" TEIform="hi">contr. of</hi> 
+                  <foreign lang="ar" TEIform="foreign">A^a$oA^amu</foreign>, as signifying The <hi rend="ital" TEIform="hi">right,</hi> opposed to the <hi rend="ital" TEIform="hi">left:</hi> and as signifying <hi rend="ital" TEIform="hi">Lucky,</hi> or <hi rend="ital" TEIform="hi">auspicious:</hi> pl. <foreign lang="ar" TEIform="foreign">A^ayaAminu</foreign>. See <foreign lang="ar" TEIform="foreign">A^a$oA^amu</foreign>. ―         -b3-  It is also used in the sense of <foreign lang="ar" TEIform="foreign">yumonN</foreign>: see <foreign lang="ar" TEIform="foreign">A^a$oA^amu</foreign>. ―         -b4-  Also <hi rend="ital" TEIform="hi">More,</hi> and <hi rend="ital" TEIform="hi">most, lucky,</hi> or <hi rend="ital" TEIform="hi">auspicious,</hi> or <hi rend="ital" TEIform="hi">happy:</hi> see 8 in art. <foreign lang="ar" TEIform="foreign">fy^l</foreign>.    </entryFree> 
+               <entryFree id="n44819" key="A^ayomunN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">A^ayomunN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>, used only in swearing, is a sing. noun, not a particle, nor pl. of <foreign lang="ar" TEIform="foreign">yamiynN</foreign>: and is derived from <foreign lang="ar" TEIform="foreign">yumonN</foreign>. (Mughnee.)    </entryFree> 
+               <entryFree id="n44820" key="AlA^ayaAminu" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">AlA^ayaAminu</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see an ex. of this word, voce <foreign lang="ar" TEIform="foreign">vaAbirN</foreign>.    </entryFree> 
+               <entryFree id="n44821" key="mayomanapN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">mayomanapN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> The <hi rend="ital" TEIform="hi">right wing</hi> of an army. See <foreign lang="ar" TEIform="foreign">A^ayomanu</foreign>.    </entryFree> 
+               <entryFree id="n44822" key="mayomuwnN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">mayomuwnN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">Fortunate; happy;</hi> (T, M, MA, KL;) <hi rend="ital" TEIform="hi">blest.</hi> (T.) See an ex. voce <foreign lang="ar" TEIform="foreign">EariykapN</foreign>.    </entryFree> 
+               <entryFree id="n44823" key="tayam~unN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">tayam~unN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> The <hi rend="ital" TEIform="hi">having</hi> [or <hi rend="ital" TEIform="hi">receiving</hi>] a <hi rend="ital" TEIform="hi">blessing.</hi> (K L.)    </entryFree> 
+               <entryFree id="n44824" key="tiyman~aA" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">tiyman~aA</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> for <foreign lang="ar" TEIform="foreign">taA^oman~aA</foreign>: see <foreign lang="ar" TEIform="foreign">A^aminahu</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="ynm" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">ynm</foreign>
+               </head>    
+               <entryFree id="n44825" key="yanamapN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yanamapN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: see <foreign lang="ar" TEIform="foreign">HalamapN</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="ywm" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">ywm</foreign>
+               </head>    
+               <entryFree id="n44826" key="yawomN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yawomN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">A time, whether night or day;</hi> (Msb;) <hi rend="ital" TEIform="hi">time absolutely, whether night or not, little or not:</hi> this is the proper signification: (Kull, p. 390:) and <hi rend="ital" TEIform="hi">day,</hi> meaning the <hi rend="ital" TEIform="hi">period from the rising of the sun to its setting;</hi> (Lth, TA:) the <hi rend="ital" TEIform="hi">time when the sun is above the earth:</hi> this is the common conventional acceptation: (Kull, ubi suprà:) and the <hi rend="ital" TEIform="hi">period from the second</hi> [<hi rend="ital" TEIform="hi">or true</hi>] <hi rend="ital" TEIform="hi">dawn to sunset:</hi> (Msb, Kull:) this is the legal acceptation: (Kull:) and <hi rend="ital" TEIform="hi">a civil day:</hi> the <hi rend="ital" TEIform="hi">period of the revolution of the greatest firmament.</hi> (Kull) ―         -b2-  Also, <hi rend="ital" TEIform="hi">An accident,</hi> or <hi rend="ital" TEIform="hi">event;</hi> syn. <foreign lang="ar" TEIform="foreign">kawonN</foreign> and <foreign lang="ar" TEIform="foreign">kaAy^inapN</foreign>. Ex., <foreign lang="ar" TEIform="foreign">niEoma A@loA^axu fulaAnN fiY Alyawomi A_i*aA nazala binaA</foreign> 
+                  <hi rend="ital" TEIform="hi">Excellent is the brother, such a one, in the case of the accident, when it befalls us.</hi> (T.) ―         -b3-  See <foreign lang="ar" TEIform="foreign">nahaArN</foreign>. ―         -b4-  <foreign lang="ar" TEIform="foreign">yaA^otiynaA yawoma yawoma</foreign> 
+                  <hi rend="ital" TEIform="hi">He comes to us day after day,</hi> i. e., <hi rend="ital" TEIform="hi">every day:</hi> (Sharh esh-Shudhoor:) and <foreign lang="ar" TEIform="foreign">yawoma yawomK</foreign>. (In a verse cited by IJ. in Mz, sect. on the <foreign lang="ar" TEIform="foreign">Haqiyqap</foreign> and <foreign lang="ar" TEIform="foreign">majaAz</foreign>.) ―         -b5-  <foreign lang="ar" TEIform="foreign">yawomN</foreign> 
+                  <hi rend="ital" TEIform="hi">A dayjourney,</hi> or <hi rend="ital" TEIform="hi">day's journey.</hi> ―         -b6-  <hi rend="ital" TEIform="hi">A day,</hi> as in our phrase “ he won the day; ” meaning <hi rend="ital" TEIform="hi">contest, fight,</hi> or <hi rend="ital" TEIform="hi">battle:</hi> I render it <hi rend="ital" TEIform="hi">a day</hi> [<hi rend="ital" TEIform="hi">of conflict</hi>]. ―         -b7-  <foreign lang="ar" TEIform="foreign">A^ay~aAmu AlEarabi</foreign> 
+                  <hi rend="ital" TEIform="hi">The</hi> [<hi rend="ital" TEIform="hi">days,</hi> (agreeably with an English, as well as Arabian, usage,) meaning] <hi rend="ital" TEIform="hi">conflicts</hi> (<foreign lang="ar" TEIform="foreign">waqaAy^iE</foreign>) <hi rend="ital" TEIform="hi">of the Arabs.</hi> (ISk, T.) ―         -b8-  <foreign lang="ar" TEIform="foreign">Aibonu yawomihi</foreign> 
+                  <hi rend="ital" TEIform="hi">He who thinks</hi> [<hi rend="ital" TEIform="hi">only of the present day,</hi>] <hi rend="ital" TEIform="hi">not of the morrow.</hi> (Er-Rághib. in TA, art. <foreign lang="ar" TEIform="foreign">bnY</foreign>.) ―         -b9-  <foreign lang="ar" TEIform="foreign">yawomu Al$~ak~i</foreign>: see <foreign lang="ar" TEIform="foreign">$ak~N</foreign>. ―         -b10-  <foreign lang="ar" TEIform="foreign">bayon AlA^ay~aAmi</foreign> and <foreign lang="ar" TEIform="foreign">fiymaA bayona AlA^ay~aAmi</foreign>: see <foreign lang="ar" TEIform="foreign">nadorapN</foreign>, in two places.    </entryFree> 
+               <entryFree id="n44827" key="yawomiy~apN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">yawomiy~apN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> 
+                  <hi rend="ital" TEIform="hi">A day's wages.</hi>    
+               </entryFree> 
+               <entryFree id="n44828" key="muyaAwamapN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">muyaAwamapN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> from <foreign lang="ar" TEIform="foreign">Alyawomu</foreign> is like <foreign lang="ar" TEIform="foreign">mulaAyalapN</foreign> from <foreign lang="ar" TEIform="foreign">All~ayolu</foreign>, and <foreign lang="ar" TEIform="foreign">mu$aAharapN</foreign> from <foreign lang="ar" TEIform="foreign">Al$~ahoru</foreign>, &amp;c. (TA, in art. <foreign lang="ar" TEIform="foreign">rbE</foreign>.) See <foreign lang="ar" TEIform="foreign">musaAwaEap</foreign>.   </entryFree> 
+            </div2> 
+            <div2 n="yY" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">yY</foreign>
+               </head>    
+               <entryFree id="n44829" key="yay~ayotu yaA='F HasanapF" type="main">     
+                  <form>       
+                     <itype>2</itype>        
+                     <orth orig="" extent="full" lang="ar">yay~ayotu yaA='F HasanapF</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form> [<hi rend="ital" TEIform="hi">I wrote a beautiful</hi> 
+                  <foreign lang="ar" TEIform="foreign">Y</foreign>]. (TA, in art. <foreign lang="ar" TEIform="foreign">HY</foreign>.)                          </entryFree>                          
+            </div2>                        
+         </div1>
+      </body>
+   </text>
+</TEI.2>
