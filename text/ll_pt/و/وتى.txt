@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>وتى</em>            1                  وتى<br>\
+<b>وَاتَاهُ عَلَى الاَمْرِ</b>               1     <br>\
+                     وَاتَاهُ عَلَى الاَمْرِ<br>\
+                     ذ<br>\
+                  , inf. n. مُوَاتَاةٌ and وِتَا=ءٌ, <i>i. q.</i> <br>\
+                  طَاوَعَهُ; a dial. var. of the verb with ء [i. e. ا=تَاهُ, q. v., and of وَاطَاَهُ also]. (TA.) See 3 in art. عدو.    </entryFree> <br>\
+<b>اَوْتَى</b>               1     <br>\
+                     اَوْتَى<br>\
+                     ذ<br>\
+                  : see وَتٌّ.    </entryFree> <br>\
+<b>مستوتى</b>               1     <br>\
+                     مستوتى<br>\
+                     ذ<br>\
+                  , or مُسْتَوْتٍ <br>\
+                  <i>A mare desirous of the stallion:</i> see مُسْتَاْتٍ in art. اتى.   </entryFree> <br>\
+' } );

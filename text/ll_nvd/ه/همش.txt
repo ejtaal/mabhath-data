@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'همش8<br>\
+اِهْتِمَاشٌ<br>\
+The intermingling, or interpenetrating. (KL.) ―<br>\
+-b2-  And the proceeding slowly.<br>\
+(KL.) See قَرْتَنَ.<br>\
+' } );

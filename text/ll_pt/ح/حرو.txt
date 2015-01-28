@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>حرو</em>            1                  حرو<br>\
+<b>حَرْوَةٌ</b>               1     <br>\
+                     حَرْوَةٌ<br>\
+                     حروه<br>\
+                     حروة<br>\
+                  <i>A burning</i> (M, K) <i>which a man experiences</i> (M) <i>in the fauces</i> (الحَلْق) <i>and the chest and the head, by reason of anger, wrath, or rage, and of pain.</i> (M, K.) — <i>Acritude</i> (S, K) of food, (S,) or <i>in the taste</i> of mustard (K, TA) and the like; (TA;) as also ↓ <br>\
+      حَرَاوَةٌ. (S, K.) You say, اـِنِّى لَاَجِدُ لِهٰذَا الطَّعَامِ حَرْوَةً and ↓ <br>\
+      حَرَاوَةً <br>\
+                  <i>Verily I find that this food has an acrid quality,</i> (S,) or <i>a burning quality.</i> (TA.) [See also حِرَّةٌ, and حَرَارَةٌ.] And one says, ↓ <br>\
+      لِهْذَا الكُحْلِ حَرَاوَةٌ <br>\
+                  فِى العَيْنِ [<i>This collyrium has a burning effect in the eye</i>]. (TA.) — <i>A disagreeable odour, that has a sharpness,</i> or <i>pungency,</i> (M, K,) <i>in the</i> <br>\
+                  خَيَاشِيم [or <i>air-passages of the nose</i>]. (M.)    </entryFree> <br>\
+<b>حَرَاوَةٌ</b>               1     <br>\
+                     حَرَاوَةٌ<br>\
+                     حراوه<br>\
+                     حراوة<br>\
+                  : see above, in three places.   </entryFree> <br>\
+' } );

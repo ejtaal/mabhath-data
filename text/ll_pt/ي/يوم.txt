@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>يوم</em>            1                  يوم<br>\
+<b>يَوْمٌ</b>               1     <br>\
+                     يَوْمٌ<br>\
+                     ذ<br>\
+                  <i>A time, whether night or day;</i> (Msb;) <i>time absolutely, whether night or not, little or not:</i> this is the proper signification: (Kull, p. 390:) and <i>day,</i> meaning the <i>period from the rising of the sun to its setting;</i> (Lth, TA:) the <i>time when the sun is above the earth:</i> this is the common conventional acceptation: (Kull, ubi suprà:) and the <i>period from the second</i> [<i>or true</i>] <i>dawn to sunset:</i> (Msb, Kull:) this is the legal acceptation: (Kull:) and <i>a civil day:</i> the <i>period of the revolution of the greatest firmament.</i> (Kull) ―         -b2-  Also, <i>An accident,</i> or <i>event;</i> syn. كَوْنٌ and كَايِنَةٌ. Ex., نِعْمَ اْلْاَخُ فُلَانٌ فِى اليَوْمِ اـِذَا نَزَلَ بِنَا <br>\
+                  <i>Excellent is the brother, such a one, in the case of the accident, when it befalls us.</i> (T.) ―         -b3-  See نَهَارٌ. ―         -b4-  يَاْتِينَا يَوْمَ يَوْمَ <br>\
+                  <i>He comes to us day after day,</i> i. e., <i>every day:</i> (Sharh esh-Shudhoor:) and يَوْمَ يَوْمٍ. (In a verse cited by IJ. in Mz, sect. on the حَقِيقَة and مَجَاز.) ―         -b5-  يَوْمٌ <br>\
+                  <i>A dayjourney,</i> or <i>day&#39;s journey.</i> ―         -b6-  <i>A day,</i> as in our phrase “ he won the day; ” meaning <i>contest, fight,</i> or <i>battle:</i> I render it <i>a day</i> [<i>of conflict</i>]. ―         -b7-  اَيَّامُ العَرَبِ <br>\
+                  <i>The</i> [<i>days,</i> (agreeably with an English, as well as Arabian, usage,) meaning] <i>conflicts</i> (وَقَايِع) <i>of the Arabs.</i> (ISk, T.) ―         -b8-  اِبْنُ يَوْمِهِ <br>\
+                  <i>He who thinks</i> [<i>only of the present day,</i>] <i>not of the morrow.</i> (Er-Rághib. in TA, art. بنى.) ―         -b9-  يَوْمُ الشَّكِّ: see شَكٌّ. ―         -b10-  بَيْن الاَيَّامِ and فِيمَا بَيْنَ الاَيَّامِ: see نَدْرَةٌ, in two places.    </entryFree> <br>\
+<b>يَوْمِيَّةٌ</b>               1     <br>\
+                     يَوْمِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>A day&#39;s wages.</i>    <br>\
+<b>مُيَاوَمَةٌ</b>               1     <br>\
+                     مُيَاوَمَةٌ<br>\
+                     ذ<br>\
+                   from اليَوْمُ is like مُلَايَلَةٌ from اللَّيْلُ, and مُشَاهَرَةٌ from الشَّهْرُ, &amp;amp;c. (TA, in art. ربع.) See مُسَاوَعَة.   </entryFree> <br>\
+' } );

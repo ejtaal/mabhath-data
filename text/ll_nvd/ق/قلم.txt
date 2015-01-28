@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'قلمقَلَمٌ<br>\
+and ↓ قَلَمَانِ and ↓ قَلَمَانٌ: see جَلَمٌ. ―<br>\
+-b2-  A<br>\
+writing-reed prepared for writing; a reed-pen.<br>\
+قَلَمَانٌ<br>\
+: see قَلمٌ.<br>\
+مُقَلَّمُ الظُّفْرِ<br>\
+and الأَظْفَارِ: see ظُفرٌ.<br>\
+' } );

@@ -1,0 +1,260 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انس<br>\
+&lt;entryFree id=&quot;n1330&quot; key=&quot;اَنِسَ بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَنِسَ بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (AZ, S, M, A, Msb, K,) and اـِلَيْهِ, (A,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنَسَ<br>\
+                  &lt;/form&gt;; (Msb, TA;) and اَنَسَ, (S, M, A, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنِسَ<br>\
+                  &lt;/form&gt; (M, Msb, TA) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنُسَ<br>\
+                  &lt;/form&gt;; (M;) and اَنُسَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنُسَ<br>\
+                  &lt;/form&gt;; (M, Sgh, K;) inf. n. اَنَسٌ and اَنَسَةٌ, (S, K,) both of اَنِسَ, (S,) or اـِنَسٌ, (AZ, AHát, T, M, Msb,) also of اَنِسَ, (AZ, AHát, Msb, TA,) but this is rare, (T, TA,) and اُنْسٌ, (T, S, M, A, K,) which is the more common, (T, TA,) and is of اَنَسَ, (S,) or اُنْسٌ has a different signification from اـِنْسٌ the inf. n. of اَنِسَ, [see اُنْسٌ below,] (AZ, AHát,) or it is a subst. from اَنِسَ بِهِ, (Msb,) and اُنْسَةٌ; (M;) [but this also is probably a subst.;] one says اُنْسٌ and اُنْسَةٌ, like as one says بُعْدٌ and بُعْدَة; (Ham p. 768;) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, sociable, companionable, conversable, inclined to company or converse, friendly, amicable,&lt;/i&gt; or &lt;i&gt;familiar, with him,&lt;/i&gt; or &lt;i&gt;by means of him,&lt;/i&gt; and &lt;i&gt;to him:&lt;/i&gt; and [انس به] &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, cheered,&lt;/i&gt; or &lt;i&gt;gladdened, by his company&lt;/i&gt; or &lt;i&gt;converse,&lt;/i&gt; or &lt;i&gt;by his,&lt;/i&gt; or &lt;i&gt;its, presence;&lt;/i&gt; or &lt;i&gt;cheerful, gay,&lt;/i&gt; or &lt;i&gt;gladsome:&lt;/i&gt; the inf. n. signifying the &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  وَحْشَةٌ: (T, S, A, K:) or &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, at ease,&lt;/i&gt; or &lt;i&gt;tranquil, with him:&lt;/i&gt; (M:) or &lt;i&gt;his heart was,&lt;/i&gt; or &lt;i&gt;became, at ease,&lt;/i&gt; or &lt;i&gt;tranquil, with him; without shrinking,&lt;/i&gt; or &lt;i&gt;aversion:&lt;/i&gt; (Msb:) and بِهِ ↓ <br>\
+      استانس, (S, M, A, Msb,) and اـِلَيْهِ, (A,) and بِهِ ↓ <br>\
+      تانّس, signify the same, (S, M, Msb,) i. e., the same as اَنِسَ (M, A, Msb, TA) and اَنَسَ (M, Msb) and اُنُسَ: (M:) اَنِسَ بِفُلَانٍ is likewise explained as signifying &lt;i&gt;he delighted,&lt;/i&gt; or &lt;i&gt;rejoiced, in such a one; he was happy,&lt;/i&gt; or &lt;i&gt;pleased, with him:&lt;/i&gt; (IAar, TA:) [and ↓ <br>\
+      ا=نسهُ, a form of frequent occurrence, inf. n. مُوَانَسَةٌ, which occurs in this art. in the TA, also signifies &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, sociable,&lt;/i&gt; &amp;amp;c., &lt;i&gt;with him;&lt;/i&gt; like اَنِسَ بِهِ &amp;amp;c.: it is also said in the TA that اَنِسَ بِهِ and بِهِ ↓ <br>\
+      ا=نَسَ are syn., meaning, app., like استانس and تانّس به, and that ا=نس in this case is therefore of the measure فَاعَلَ; but this admits of some doubt, as it is said immediately after ا=نسهُ as meaning the contr. of اَوْحَشَهُ:] and ↓ <br>\
+      استانس, (K, TA,) said of a wild animal, (TA,) signifies [&lt;i&gt;he became familiar,&lt;/i&gt; or &lt;i&gt;tame,&lt;/i&gt; or &lt;i&gt;domesticated;&lt;/i&gt; or] &lt;i&gt;his wildness&lt;/i&gt; (تَوَحُّشُهُ) &lt;i&gt;departed:&lt;/i&gt; (K, TA:) you say اـِذَا جَا=ءَ اللَّيْلُ اْسْتَاْنَسَ <br>\
+                  كُلُّ وَحْشِىٍّ وَاْسْتَوْحَشَ كُلُّ اـِنْسِىٌ [&lt;i&gt;When the night comes, every wild animal becomes familiar with his kind, and every human being becomes shy of his kind,&lt;/i&gt; i. e., of such thereof as he does not know, when meeting them in the dark]. (A, TA, Msb in art. وحش.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَنَّسَ<br>\
+                  انّسهُ, inf. n. تَاْنِيسٌ, &lt;i&gt;He rendered him familiar;&lt;/i&gt; or &lt;i&gt;tame.&lt;/i&gt; (KL.)       -A2-  See also 4, in three places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     اَاْنَسَ<br>\
+                  &lt;/form&gt; see 1, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1331&quot; key=&quot;ا=نسهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=نسهُ<br>\
+                     ا=نسه<br>\
+                     ا=نسة<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. اـِينَاسٌ, (S,) &lt;i&gt;He behaved in a sociable, friendly,&lt;/i&gt; or &lt;i&gt;familiar, manner with him;&lt;/i&gt; [see 1, in two places;] &lt;i&gt;he,&lt;/i&gt; or &lt;i&gt;it, cheered him,&lt;/i&gt; or &lt;i&gt;gladdened him, by his company or converse,&lt;/i&gt; or &lt;i&gt;by his,&lt;/i&gt; or &lt;i&gt;its, presence; he,&lt;/i&gt; or &lt;i&gt;it, solaced,&lt;/i&gt; or &lt;i&gt;consoled, him; contr. of&lt;/i&gt; <br>\
+                  اَوْحَشَهُ; (S, * K;) as also ↓ <br>\
+      انّسهُ, (K,) inf. n. تَاْنِيسٌ: (S, K:) or &lt;i&gt;he,&lt;/i&gt; or &lt;i&gt;it, rendered him easy, at ease,&lt;/i&gt; or &lt;i&gt;tranquil;&lt;/i&gt; as also ↓ the latter verb, occurring in the following ex.: سَمَّاهَا <br>\
+                  بِاْلْمُوْنِسَاتِ لِاَنَّهُنَّ يُوَنِّسْنَهُ بِاَقْرَانِهِ فَيُوَمِّنَّهُ اَوْيُحَسِّنَّ <br>\
+                  ظَنِّهُ [&lt;i&gt;He has called them&lt;/i&gt; (referring to weapons) المونسات <br>\
+                  &lt;i&gt;because they render him at ease with his adversaries, and secure, or cause him to have a good opinion&lt;/i&gt; of his safety, and thus, cheer him, or solace him, by their presence]. (M: [and the like is said in the A.])       -A2-  &lt;i&gt;He perceived it;&lt;/i&gt; syn. of the inf. n. اـِدْرَاكٌ. (TA.) ―         -b2-  &lt;i&gt;He saw him,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt; (S, M, A, * Msb, K,) and &lt;i&gt;looked at him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; (M, TA;) as also ↓ <br>\
+      انّسهُ, inf. n.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1332&quot; key=&quot;تَاْنِيسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْنِيسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; (K;) and ↓ <br>\
+      استانسهُ: (M:) or &lt;i&gt;he saw it so that there was no doubt or uncertainty in it:&lt;/i&gt; or &lt;i&gt;he saw it,&lt;/i&gt; meaning a thing by the sight or presence of which he was cheered, gladdened, solaced, or consoled; اـِينَاسٌ signifying اـِبْصَارُ مَا <br>\
+                  يُوْنَسُ بِهِ: (Bd in xx. 9:) or &lt;i&gt;he saw it, not having before known it,&lt;/i&gt; or &lt;i&gt;been acquainted with it.&lt;/i&gt; (TA.) ―         -b2-  &lt;i&gt;He heard it;&lt;/i&gt; namely, a sound or voice. (S, K.) ―         -b3-  &lt;i&gt;He felt it; was sensible of it;&lt;/i&gt; (M, K, TA;) &lt;i&gt;experienced it in himself;&lt;/i&gt; (TA;) namely, [for instance,] fright, or fear. (A, TA.) ―         -b4-  &lt;i&gt;He knew it:&lt;/i&gt; (S, M, Msb, K:) &lt;i&gt;he was acquainted with it:&lt;/i&gt; (TA:) &lt;i&gt;he had certain knowledge of it; was certain of it.&lt;/i&gt; (M, TA.) You say, ا=نَسْتُ <br>\
+                  مِنْهُ رُشْدًا (S, A, TA) &lt;i&gt;I knew him to be characterized by&lt;/i&gt; <br>\
+                  رُشْد, (S, TA,) i. e., &lt;i&gt;maturity of intel-lect, and rectitude of actions, and good management of affairs.&lt;/i&gt; (TA.) [See Kur iv. 5.] And it is said in a prov., بَعْدَ اْطِّلَاعٍ اـِينَاسٌ, i. e. &lt;i&gt;After appearance&lt;/i&gt; [&lt;i&gt;is knowledge,&lt;/i&gt; or &lt;i&gt;certain knowledge&lt;/i&gt;]. (Fr, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1333&quot; key=&quot;تانّس بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تانّس بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1.       -A2-  تانّس البَازي <br>\
+                  &lt;i&gt;The falcon looked, raising his head&lt;/i&gt; (M, A, K) &lt;i&gt;and his eyes.&lt;/i&gt; (A.) ―         -b2-  تانّس لَهُ: see 10.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1334&quot; key=&quot;استانس&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استانس<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and استانس بِهِ and اـِلَيْهِ: see 1.       -A2-  استانس signifies also &lt;i&gt;He&lt;/i&gt; (a wild animal) &lt;i&gt;became sensible of the presence or nearness of a human being.&lt;/i&gt; (S, K.)       -A3-  &lt;i&gt;He looked;&lt;/i&gt; as in the phrase اِذْهَبْ فَاْسْتَاْنِسْ هَلْ تَرَى اَحَدًا [&lt;i&gt;Go thou and look if thou see any one&lt;/i&gt;]: (Fr, TA:) &lt;i&gt;he considered,&lt;/i&gt; or &lt;i&gt;examined, endeavouring to obtain a clear knowledge of a thing;&lt;/i&gt; (K, TA;) &lt;i&gt;and looked aside,&lt;/i&gt; or &lt;i&gt;about, to ascertain if he could see any one:&lt;/i&gt; (TA:) &lt;i&gt;he sought,&lt;/i&gt; or &lt;i&gt;asked for, knowledge,&lt;/i&gt; or &lt;i&gt;information; he inquired:&lt;/i&gt; (M, TA:) and hence, (Bd in xxiv. 27,) &lt;i&gt;he asked permission.&lt;/i&gt; (Fr, Zj, K, TA, and Bd ubi suprà.) It is said in the Kur [xxiv. 27], لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّي تَسْتَاْنِسُوا <br>\
+                  وَتُسَلِّمُوا [&lt;i&gt;Enter ye not houses other than your own houses&lt;/i&gt;] &lt;i&gt;until ye inquire&lt;/i&gt; whether its inhabitants desire that ye should enter or not; [&lt;i&gt;and salute:&lt;/i&gt;] (M:) or (which is essentially the same, M) &lt;i&gt;until ye ask permission:&lt;/i&gt; (Fr, Zj, M, TA:) but Fr says that the sentence presents an inversion, and that the meaning is, &lt;i&gt;until ye salute, and ask if ye shall enter or not:&lt;/i&gt; (TA:) I&#39;Ab says that تَستانسوا is a mistranscription; and he and Ubeí and Ibn-Mes&#39;ood read تَسْتَاْذِنُوا, which signifies the same: (Az, TA:) [it is said that] استانس also signifies &lt;i&gt;he made a reiterated hemming, like a slight coughing;&lt;/i&gt; [as a man does to notify his nearness;] syn. تَنَحْنَحَ: and so some explain it in the text of the Kur quoted above. (TA.) ―         -b2-  استانس لَهُ <br>\
+                  &lt;i&gt;He listened to,&lt;/i&gt; or &lt;i&gt;endeavoured&lt;/i&gt; or &lt;i&gt;sought to hear, him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; as also ↓ <br>\
+      تانّس. (A.) [See the Kur xxxiii. 53.]       -A4-  استانسهُ: see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1335&quot; key=&quot;اُنْسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُنْسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Sociableness; companionableness; conversableness; inclination to company&lt;/i&gt; or &lt;i&gt;converse; friendliness; amicableness; socialness; familiarity: cheerfulness; gayness; gladsomeness: contr. of&lt;/i&gt; <br>\
+                  وَحْشَةٌ: (T, S, A, K:) &lt;i&gt;joy; gladness; happiness:&lt;/i&gt; (Har p. 652:) or &lt;i&gt;ease,&lt;/i&gt; or &lt;i&gt;tranquillity:&lt;/i&gt; (M:) or &lt;i&gt;ease,&lt;/i&gt; or &lt;i&gt;tranquillity, of heart, and freedom from shrinking,&lt;/i&gt; or &lt;i&gt;from aversion:&lt;/i&gt; (Msb:) an inf. n. of 1, (S, M,) as are also ↓ <br>\
+      اَنَسٌ and ↓ <br>\
+      اَنَسَةٌ (S, K) and ↓ <br>\
+      اـِنْسٌ, (M,) but this is rare as signifying the contr. of وَحْشَةٌ: (T, TA:) or ↓ <br>\
+      اـِنْسٌ is the inf. n. of اَنِسَ بِهِ; but اُنُسٌ is not: (AZ, AHát, Msb, TA:) this latter is a subst. from that verb [signifying as explained above]: (Msb:) or only signifying &lt;i&gt;converse, and companionship,&lt;/i&gt; or &lt;i&gt;familiarity, with women;&lt;/i&gt; (AZ, AHát, TA;) or &lt;i&gt;amatory conversation and conduct;&lt;/i&gt; or the &lt;i&gt;talk of young men and young women:&lt;/i&gt; (Fr, TA:) [but of all the forms above, اُنْسٌ is that which is most commonly used, at least in post-classical works, as signifying the contr. of وَحْشَةٌ.] ―         -b2-  [Also (assumed tropical:)  &lt;i&gt;Delight,&lt;/i&gt; as meaning &lt;i&gt;a cause of delight,&lt;/i&gt; or &lt;i&gt;thing that gives delight.&lt;/i&gt;] A poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        يَا سَاكِنِى مَكَّةَ لَا زِلْتُمُ<br>\
+                     &lt;L&gt;<br>\
+                        اُنْسًا لَنَا اـِنِّىَ لَمْ اَنْسَكُمْ<br>\
+                     &lt;L&gt;<br>\
+                        مَا فِيكُمُ عَيْبٌ سِوَى قَوْلِكُمْ<br>\
+                     &lt;L&gt;<br>\
+                        عِنْدَ اللِّقَا اَوْحَشَنَا اُنْسُكُمْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;O inhabitants of Mekkeh, may ye not cease to be a delight to us: verily I have not forgotten you: there is in you no fault beside your saying, at meeting, Your sociableness,&lt;/i&gt; or &lt;i&gt;companiableness,&lt;/i&gt; &amp;amp;c., &lt;i&gt;has made us feel lonely and sad;&lt;/i&gt; meaning, in your absence]. (TA in art. وحش.) [See اَوْحَشَ. But this signification, though allowable as tropical, is perhaps post-classical.] ―         -b3-  اِبْنُ اُنْس: and فُلَانٌ اْبْنُ اُنْسِ فُلَانٍ: and كَيْفَ اْبْنُ اُنْسِكَ: and كَيْفَ تَرَى اْبْنَ اُنْسِكَ: see اـِنْسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1336&quot; key=&quot;اـِنْسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنْسٌ<br>\
+                     انس<br>\
+                     انسى<br>\
+                     اـنس<br>\
+                     انس<br>\
+                     ناس<br>\
+                     نسي<br>\
+                     آنس<br>\
+                  &lt;/form&gt;: see اُنْسٌ, in two places.       -A2-  (tropical:)  &lt;i&gt;A chosen, select, particular,&lt;/i&gt; or &lt;i&gt;special, friend&lt;/i&gt; or &lt;i&gt;companion;&lt;/i&gt; (S, K;) as also اِبْنُ اـِنْسٍ (S, K,) or ↓ <br>\
+      اِبْنُ اُنْسٍ. (So in a copy of the A.) You say, هٰذَا اـِنْسِى; (S;) and اـِنْسُكَ, and اْبْنُ اـِنْسِكَ; (K;) (tropical:)  &lt;i&gt;This is my chosen,&lt;/i&gt; or &lt;i&gt;particular, friend;&lt;/i&gt; (S;) and &lt;i&gt;thy chosen,&lt;/i&gt; or &lt;i&gt;particular, friend.&lt;/i&gt; (K.) And فُلَانٌ <br>\
+                  اْبْنُ اـِنْسِ فُلَانٍ (S,) or فلان ↓ <br>\
+      ابن اُنْسِ (A,) &lt;pb n=&quot;114&quot; TEIform=&quot;pb&quot;/&gt; (tropical:)  &lt;i&gt;Such a one is the chosen,&lt;/i&gt; or &lt;i&gt;particular, friend of such a one.&lt;/i&gt; (S, A.) One also says, كَيْفَ <br>\
+                  اْبْنُ اـِنْسِكَ and ↓ <br>\
+      اُنْسِكَ, (S, M,) or كَيْفَ تَرَي اْبْنَ <br>\
+                  اـِنْسِكَ (AZ, Fr, A) and ↓ <br>\
+      اُنْسِكَ, (A,) meaning himself, (AZ, Fr, S, S TA,) i. e., (assumed tropical:)  &lt;i&gt;How dost thou regard me in my companionship with thee?&lt;/i&gt; (S:) or the meaning is, (tropical:)  &lt;i&gt;how dost thou find thyself?&lt;/i&gt; (A:) or &lt;i&gt;how is thyself?&lt;/i&gt; (M, TA.)       -A3-  &lt;i&gt;Mankind;&lt;/i&gt; (S, M, A, K;) the &lt;i&gt;opposite of&lt;/i&gt; <br>\
+                  جِنٌّ; (Msb;) as also ↓ <br>\
+      اَنَسٌ, (Akh, S, TA,) and ↓ <br>\
+      اـِنْسَانٌ; (A, K;) the last being a gen. n., (Msb,) but applied to the male (S, * Msb) and female, (S, Msb, K,) and sing. and pl.: (Msb:) one is [also] termed ↓ <br>\
+      اـِنْسِىٌّ and ↓ <br>\
+      اَنَسِىٌّ; (S, K;) the former of which is a rel. n. from اـِنْسٌ; (M;) [and the latter, from اَنَسٌ: the fem. of each is with Bْ:] the vulgar apply to a woman, instead of ↓ <br>\
+      اـِنْسَانٌ, [which is the more approved,] ↓ <br>\
+      اـِنْسَانَةٌ: (S, K:) this latter [accord. to some] should not be used: (S:) but it is correct, though rare: it is said in the K to occur in poetry, but supposed to be post-classical: it occurs, however, in classical poetry, and has been transmitted by several authors: (MF:) the pl. (of اـِنْسٌ, M, TA) is ا=نَاسٌ; (M, K, TA;) and (of the same, K in art. نوس, or of ↓ <br>\
+      اـِنْسَانٌ, M) اُنَاسٌ, (M, K ubi suprà,) with which نَاسٌ is syn., (S, M, Msb, K,) being a contraction thereof; (Sb, S, M, Msb;) and (of ↓ <br>\
+      اـِنْسِىٌّ, S, M, or ↓ <br>\
+      اَنَسِىٌّ, S, or of ↓ <br>\
+      اـِنْسَانٌ, Lh, S, M, Msb) اَنَاسِىٌّ, (Lh, S, M, Msb, K,) like as كَرَاسِىُّ is pl. of كُرْسِىٌّ, or like as سَرَاحينُ is pl. of سِرحَانٌ, but ى being substituted for ن, (M, TA,) after the same manner as they say اَرَانٍ for اَرَانِبُ; (Fr, TA;) and اَنَاسٍ, (Lh, M,) in the accus. case اَنَاسِىَ, as the word is read in the Kur xxv. 51, by Ks, (TA,) and by Yahyà Ibn-El-Hárith, (K, TA,) dropping the ى between the second and last radical letters, [for, with some others, it seems, they held the word to be derived from the root نسى,] (TA,) and اَنَاسِيَةٌ, (S, M, K,) in which the ة is a substitute for one of the two yás in اَنَاسِىُّ, a pl. of اـِنْسَانٌ; or, accord. to Mbr, اَنَاسِيَةٌ is pl. of اـِنْسِىٌّ, [in the TA, of اـِنْسِيَّةٌ, which I regard as a mistranscription,] and is like زَنَادَقَةٌ for زَنَادِيقُ, and فَرَازِتَةٌ for فَرَازِينُ; (M, TA;) and you say also اـِنْسَيُّونَ. (TA.) نَاسٌ is masc., as in the Kur ii. 19, &amp;amp;c.; and sometimes fem., as meaning &lt;i&gt;A tribe,&lt;/i&gt; or &lt;i&gt;a body of men,&lt;/i&gt; <br>\
+                  قَبِيلَةٌ, or طَايِفَةٌ; as in the phrase, mentioned by Th, جَا=ءَتَْكَ النَّاسُ, meaning, &lt;i&gt;The tribe,&lt;/i&gt; or &lt;i&gt;portion of people&lt;/i&gt; (قِطْعَة), &lt;i&gt;came to thee.&lt;/i&gt; (M, TA.) ↓ <br>\
+      بَنُوالاـِنْسَانِ means &lt;i&gt;The sons of Adam.&lt;/i&gt; (M.) And النَّاسُ النَّاسُ, an expression mentioned by Sb, means, &lt;i&gt;Men in every place and in every state are men:&lt;/i&gt; a poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        بِلَادٌ بَهَا كُنَّا وَكُنَّا نُحِبُّهَا<br>\
+                     &lt;L&gt;<br>\
+                        اـِذِ النَّاسُ نَاسٌ وَالبِلَادُ بِلَادُ<br>\
+                  &lt;/quote&gt; meaning [&lt;i&gt;A country in which we were, and which we used to love,] since the men were ingenuous men, and the country was a fruitful country.&lt;/i&gt; (M.) The following trad., لَوْ اَطَاعَ اْللّٰهُ <br>\
+                  النَّاسَ فِى النَّاسِ لَمْ يَكُنْ نَاسٌ <br>\
+                  &lt;i&gt;If God complied with the prayer of men with respect to men there would be no men,&lt;/i&gt; is said to mean, that men love to have male children born to them, and not females, and if there were no females, or if the females were not, men would cease to be. (TA.) It is related that a party of the jinn, or genii, came to a company of men, and asked permission to go in to them, whereupon the latter said to them, Who are ye? and they answered, نَاسٌ مِنَ <br>\
+                  الجنِّ [&lt;i&gt;A people of the jinn&lt;/i&gt;], making their answer to accord. with common usage; for it is customary for men, when it is said to them, Who are ye? to answer, نَاسٌ مِنْ بَنِى فُلَانٍ [&lt;i&gt;Men of the sons of such a one&lt;/i&gt;]. (IJ, M, L: but in the L, for ناس, in both instances, we find اُنَاسٌ.) [See also نَاسٌ in art. نوس.] Respecting the derivation of ↓ <br>\
+      اـِنْسَانٌ, authors differ, though they agree that the final ن is augmentative: the Basrees say that it is from الاـِنْسُ; (Msb;) and its measure is فِعْلَانٌ; (S, Msb;) but an addition, of ى, is made in its dim., [which is اُنَيْسِيَانٌ,] like as an addition is made in رُوَيْجِلٌ, the dim. of رَجُلٌ: (S:) [but it should be observed that رُوَيْجِلٌ is more probably the dim. of رَاجِلٌ:] some say that it is from اـِينَاسٌ, signifying “perception,” or “sight,” and “knowledge,” and “sensation;” because man uses these faculties: (TA:) and Mohammad Ibn-&#39;Arafeh El-Wásitee says that men are called اـِنسِيُّونِ because they are seen (يُوْنَسُونَ, i. e.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1337&quot; key=&quot;يُرَوْنَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يُرَوْنَ<br>\
+                     راى<br>\
+                     ورى<br>\
+                     يرون<br>\
+                  &lt;/form&gt;), and that the jinn are called جِنّ because they are [ordinarily] concealed (مُجْتَنُّونَ, i. e. مُتَوَارُونَ,) from the sight of men: (TA:) [it is said in the B, as cited in the TA, that the form اَنِسَان is also used for اـِنْسَانٌ; as though it were a dual, meaning “a double associate,” i. e., an associate with the jinn and with his own kind; for it is added, اَنِسَ بِاْلا=ْجِنِّ وَاَنِسَ بِاْلا=ْخَلْقِ:] some derive the word from النَّوْسُ, signifying “motion:” (TA:) some (namely, the Koofees, Msb) say that it is originally اـِنسِيَانٌ, (S, Msb, TA,) of the measure اـِفْعِلَانٌ, (S, Msb,) from النِّسْيَانُ [“forgetfulness”], (Msb,) and contracted to make it more easy of pronunciation, because of its being so often used; (S;) but it is restored to its original in forming the dim., (S, Msb,) which is اُنَيْسِيَانٌ: (Msb, TA:) this form of the dim., they say, shows the original form of the word which is its source; (TA;) and they adduce as an indication of its derivation the saying of I&#39;Ab, اـِنَّمَا سُمِّيَ <br>\
+                  اـِنْسَانًا لِاَنَّهُ عُهِدَ اـِلَيْهِ فَنَسِىَ [&lt;i&gt;He&lt;/i&gt; (meaning the first man) &lt;i&gt;was only named&lt;/i&gt; <br>\
+                  انسان <br>\
+                  &lt;i&gt;because he was commanded and he forgot&lt;/i&gt;]: (S, TA:) [in like manner,] it is said that النَّاسُ is originally النَّاسِى; the former of these, accord. to one reading, and the latter accord. to another, occurs in the Kur ii. 195; the latter referring to Adam, and to the words of the Kur in xx. 114: (TA:) but Az holds that اـِنْسِيَانٌ is of the measure فِعْلِيَانٌ, from الاـِنْسُ, and similar to خِرْصِيَانٌ. (L, TA. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1338&quot; key=&quot;اَنَسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اُنْسٌ, q. v. (S, K.)       -A2-  Also &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اـِنْسٌ, q. v. (Akh, S, TA.) ―         -b2-  Also &lt;i&gt;A numerous company of men;&lt;/i&gt; (K, * TA;) &lt;i&gt;many men.&lt;/i&gt; (TA.) ―         -b3-  &lt;i&gt;A tribe&lt;/i&gt; (حَىُّ) &lt;i&gt;staying, residing, dwelling,&lt;/i&gt; or &lt;i&gt;abiding:&lt;/i&gt; (S, K:) the &lt;i&gt;people of a place of alighting or abode:&lt;/i&gt; (M, TA: [but in the latter, in one place, said to be اـِنْسٌ, with kesr; though a verse cited in both, as an ex., shows it to be اَنَسٌ:]) the &lt;i&gt;inhabitants of a house:&lt;/i&gt; (AA, TA:) pl. (of the word in the first sense, of these three, TA, and in the second, M, TA) ا=نَاسٌ. (M, TA.) ―         -b4-  &lt;i&gt;One with whom a person is sociable.&lt;/i&gt; (Ham p. 136.) You say also, هُمْ اَنَسُ فُلَانٍ <br>\
+                  &lt;i&gt;They are they with whom such a one is sociable&lt;/i&gt; (اَلَّذِينَ يَسْتَاْنِسُ اـِلَيْهِمْ). (Lh, M.) And هُوَ اَنَسُ فُلَانٍ <br>\
+                  &lt;i&gt;He is much accustomed to the serving of him.&lt;/i&gt; (Har p. 472.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1339&quot; key=&quot;اَنَسَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَسَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اُنْسٌ, q. v. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1340&quot; key=&quot;اـِنْسِىُّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنْسِىُّ<br>\
+                     انس<br>\
+                     انسى<br>\
+                     انسي<br>\
+                     اـنس<br>\
+                     اـنسي<br>\
+                     انسى<br>\
+                     انسي<br>\
+                     نسي<br>\
+                  &lt;i&gt;Of,&lt;/i&gt; or &lt;i&gt;belonging to, mankind; human;&lt;/i&gt; [as also ↓ <br>\
+      اَنَسِىٌّ, and ↓ <br>\
+      اـِنْسَانِىُّ;] a rel. n. from اـِنْسٌ. (M.) ―         -b2-  &lt;i&gt;A human being; a man;&lt;/i&gt; as also ↓ <br>\
+      اَنَسِىٌّ, (S, K,) and ↓ <br>\
+      اـِنْسَانٌ. (S, A, Msb, K.) See اـِنْسٌ, in two places. ―         -b3-  [&lt;i&gt;Domestic, as opposed to wild.&lt;/i&gt; Ex.] حُمُرٌ اـِنْسِيَّةٌ <br>\
+                  &lt;i&gt;Domestic asses; asses that are accustomed to the houses:&lt;/i&gt; commonly known as written with kesr to the اُنْسِيَّةٌ: but in the book of Aboo-Moosà is an indication of its being with damm to the ء [اَنَسِيَّةٌ]: and as some relate a trad. in which it occurs, اَنَسِيَّةٌ, which is said to be of no account. (TA.) ―         -b4-  The &lt;i&gt;left&lt;/i&gt; side (AZ, S, M, Msb, K) of an animal, (Msb,) or of a beast and of a man, (M,) or of anything: (AZ, S, K:) or the &lt;i&gt;right&lt;/i&gt; side: (As, S:) [but the latter seems to be a mistake:] Az says that Lth has well explained this term and its contrary وَحْشِىٌّ, saying that the latter is the right side of every beast; and the former, the &lt;i&gt;left&lt;/i&gt; side; agreeably with those of the first authority in sound learning; and [that] it is related of El-Mufaddal and As and AO, that all of them asserted the latter to be, of every animal except man, [the “far” side, or “off” side,] the side on which it is not milked nor mounted; and the former, [the &lt;i&gt;near&lt;/i&gt; side,] the side &lt;i&gt;on which the rider mounts and the milker milks:&lt;/i&gt; (TA in art.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1341&quot; key=&quot;وحش&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وحش<br>\
+                     ذ<br>\
+                  &lt;/form&gt;:) [and the like is said, as a citation from Az, in the Msb in art. وحش: but after this, in my copy of the Msb, there seems to be an omission; for it is immediately added, “But Az says, This is not correct in my opinion:”] it is said that everything that is frightened declines to its right side; for the beast is approached to be mounted and milked on the left side, and, fearing thereat, runs away from the place of fear, which is the left side, to the place of safety, which is the right side: (S, * IAmb in Msb; both in art. وحش:) [accordingly,] Er-Rá&#39;ee describes a beast as declining to the side termed الوحشى because frightened on the left side: (S and Msb in art. وحش:) and &#39;Antarah alludes to one&#39;s shrinking with the side so termed from the whip, [which he likens to a cat,] because the whip of the rider is in his right hand: (S in art. وحش:) but Abu-l-&#39;Abbás says that people differ respecting these two terms when relating to a man: that, accord. to some, they mean the same in this case as in the cases of horses &lt;pb n=&quot;115&quot; TEIform=&quot;pb&quot;/&gt; and other beasts of carriage, and of camels: but some say, that in the case of a man, the latter term means the part next the shoulder-blade; and the former, the &lt;i&gt;part next the arm-pit.&lt;/i&gt; (TA in art.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1342&quot; key=&quot;وحش&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وحش<br>\
+                     ذ<br>\
+                  &lt;/form&gt;.) Of every double member of a man, as the upper half of each arm, and the two fore arms, and the two feet, it means &lt;i&gt;That&lt;/i&gt; [side] &lt;i&gt;which is towards the man;&lt;/i&gt; and وحشىّ, that which turns away from him: (As, S:) or, of the foot, the former means &lt;i&gt;that&lt;/i&gt; [side] &lt;i&gt;which is towards the other foot;&lt;/i&gt; [i. e., the &lt;i&gt;inner&lt;/i&gt; side;] and the latter, the contrary of the former. (TA in art. وحش.) Of a bow, (S, M, K,) or of a Persian bow, (TA in art. وحش,) &lt;i&gt;That&lt;/i&gt; [side] &lt;i&gt;which is towards thee;&lt;/i&gt; (S, K;) and وحشىّ, the back: (S and K in art.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1343&quot; key=&quot;وحش&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وحش<br>\
+                     ذ<br>\
+                  &lt;/form&gt;:) or the former, &lt;i&gt;that&lt;/i&gt; [side] &lt;i&gt;which is next to the archer;&lt;/i&gt; and the latter, that which is next to the animal shot at: (M, TA:) or of a bow, whether Persian or not is not said, [the former means the side &lt;i&gt;against which the arrow lies;&lt;/i&gt; and] the latter, the side against which the arrow does not lie. (TA in art. وحش.) اَنَسِىٌّ: see اـِنْسٌ and اـِنْسِىٌّ, each in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1344&quot; key=&quot;اـِنْسَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنْسَانٌ<br>\
+                     اـنسان<br>\
+                     انسان<br>\
+                  &lt;/form&gt; and اـنْسَانَةٌ: see اـِنْسٌ, passim; and اـِنْسِىٌّ. ―         -b2-  اـِنْسَانُ العَيْنِ (tropical:)  &lt;i&gt;The image that is seen [reflected] in the black of the eye;&lt;/i&gt; (S, K;) &lt;i&gt;what is seen in the eye, like as is seen in a mirror, when a thing faces it:&lt;/i&gt; (Zj in his “Khalk el-Insán:”) or &lt;i&gt;the pupil,&lt;/i&gt; or &lt;i&gt;apple,&lt;/i&gt; (نَاظِر,) &lt;i&gt;of the eye:&lt;/i&gt; (M:) or &lt;i&gt;the black&lt;/i&gt; (حَدَقَة) &lt;i&gt;of the eye:&lt;/i&gt; (Msb:) pl. اَنَاسِىُّ, (S, Msb, K,) but not اُنَاسٌ. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1345&quot; key=&quot;اـِنْسَانِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنْسَانِىٌّ<br>\
+                     انس<br>\
+                     انساني<br>\
+                     انسى<br>\
+                     اـنسان<br>\
+                     اـنساني<br>\
+                     اـنسانيي<br>\
+                     انسانى<br>\
+                     انساني<br>\
+                     نسي<br>\
+                     آنس<br>\
+                     آنساني<br>\
+                  &lt;/form&gt;: see اـِنْسِىٌّ, first signification.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1346&quot; key=&quot;اـِنْسَانِيَّةٌ&quot; type=&quot;main&quot;&gt;               1[     <br>\
+                     اـِنْسَانِيَّةٌ<br>\
+                     اـنسان<br>\
+                     اـنساني<br>\
+                     اـنسانيه<br>\
+                     اـنسانية<br>\
+                     انسانيه<br>\
+                     انسانية<br>\
+                  &lt;i&gt;Human nature; humanity;&lt;/i&gt; as also نَاسُوتٌ, which is probably post-classical, opposed to لَاهُوتٌ, q. v., in art. ليه.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1347&quot; key=&quot;اَنُوسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنُوسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A &lt;i&gt;tame,&lt;/i&gt; or &lt;i&gt;gentle,&lt;/i&gt; dog; &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  عَقُورٌ: pl. اُنُسٌ. (M, A, K.) ―         -b2-  See also ا=نِسَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1348&quot; key=&quot;اَنِيسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنِيسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; ↓ <br>\
+      مُوَانِسٌ [generally used as an epithet in which the quality of a subst. is predominant, meaning, &lt;i&gt;A sociable, companionable, conversable, friendly,&lt;/i&gt; or &lt;i&gt;familiar, person; a cheerful companion&lt;/i&gt;]: (S, K:) &lt;i&gt;one with whom one is sociable, companionable, conversable, friendly, familiar,&lt;/i&gt; or &lt;i&gt;cheerful:&lt;/i&gt; (K:) &lt;i&gt;a person,&lt;/i&gt; (A,) or &lt;i&gt;anything,&lt;/i&gt; (S,) &lt;i&gt;by whose company,&lt;/i&gt; or &lt;i&gt;converse,&lt;/i&gt; or &lt;i&gt;presence, one is cheered, gladdened, solaced,&lt;/i&gt; or &lt;i&gt;consoled.&lt;/i&gt; (S, A.) You say, مَا بِالدَّارِ انِيسْ (or, as in some copies of the K, مِنْ اَنِيسٍ,) &lt;i&gt;There is not in the house any one by whose company,&lt;/i&gt; or &lt;i&gt;converse,&lt;/i&gt; or &lt;i&gt;presence, one is cheered, gladdened, solaced,&lt;/i&gt; or &lt;i&gt;consoled:&lt;/i&gt; (A:) or &lt;i&gt;there is not in the house any one.&lt;/i&gt; (S, M, K.) [See also ا=نِسَةٌ.] ―         -b2-  الاَنِيسُ (assumed tropical:)  &lt;i&gt;The domestic cock;&lt;/i&gt; (AA, K;) also called الشُّقَرُ. (TA.) ―         -b3-  الاَنِيسَةُ (tropical:)  &lt;i&gt;The fire;&lt;/i&gt; (IAar, A, K;) as also ↓ <br>\
+      مَاْنُوسَةُ, [imperfectly decl., being a proper name and of the fem. gender,] (M,) and ↓ <br>\
+      المَاْنُوسَةُ, (M, K,) of which [says ISd] I know no verb: (M:) because, when a man sees it in the night, he becomes cheerful and tranquil thereat, even if it be in a desert land. (TA.) You say, بَاتَتِ الاَنِيسَةُ <br>\
+                  اَنِيسَتَهُ (tropical:)  [&lt;i&gt;The fire was during night his cheerful companion,&lt;/i&gt; or &lt;i&gt;his cheerer by its presence&lt;/i&gt;]. (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1349&quot; key=&quot;ا=نَسُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=نَسُ<br>\
+                     ا=نس<br>\
+                  &lt;/form&gt; [&lt;i&gt;More,&lt;/i&gt; and &lt;i&gt;most, sociable,&lt;/i&gt; &amp;amp;c.]. Hence, ا=نَسُ مِنَ الحُمَّى (assumed tropical:)  [&lt;i&gt;A closer companion than fever&lt;/i&gt;]: a saying of the Arabs, meaning, that fever scarcely ever quits the patient; as though it were sociable with him. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1350&quot; key=&quot;جَارِيَةٌ ا=نِسَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَارِيَةٌ ا=نِسَةٌ<br>\
+                     جارية ا=نسه<br>\
+                     جارية ا=نسة<br>\
+                  &lt;i&gt;A girl of cheerful mind,&lt;/i&gt; (Lth, A, K, TA,) &lt;i&gt;whose nearness,&lt;/i&gt; and &lt;i&gt;conversation,&lt;/i&gt; or &lt;i&gt;discourse, thou lovest,&lt;/i&gt; (Lth, TA,) or &lt;i&gt;whose conversation,&lt;/i&gt; or &lt;i&gt;discourse, and nearness, are loved:&lt;/i&gt; (A:) or &lt;i&gt;a girl of pleasant conversation&lt;/i&gt; or &lt;i&gt;discourse;&lt;/i&gt; as also ↓ <br>\
+      اَنُوسٌ: (M:) and ا=نِسَةُ الحَدِيثِ <br>\
+                  &lt;i&gt;who becomes sociable, companionable, conversable, friendly, familiar,&lt;/i&gt; or &lt;i&gt;cheerful, by means of thy conversation&lt;/i&gt; or &lt;i&gt;discourse:&lt;/i&gt; it does not mean who cheers thee [by conversation or discourse]: (S:) pl. اَوَانِسُ (Lth, A, TA) and ا=نِسَاتٌ: (Lth, TA:) and the pl. of اَنُوسٌ is اُنُسٌ. (M, TA.) [See also اَنِيسٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1351&quot; key=&quot;مَاْنَسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْنَسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [app. &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَكَانٌ مَاْنُوسٌ, q. v.] (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1352&quot; key=&quot;مُوْنِس&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْنِس<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  A name which the Arabs, (S, M,) and the ancients, (M,) used to give to &lt;i&gt;Thursday;&lt;/i&gt; (S, M;) because on that day they used to incline to places of pleasure; and &#39;Alee is related to have said that God created &lt;i&gt;Paradise&lt;/i&gt; on Thursday, and named it thus. (M, TA.) ―         -b2-  المُوْنِسَاتُ (tropical:)  &lt;i&gt;Weapons:&lt;/i&gt; (M, A:) or &lt;i&gt;all weapons:&lt;/i&gt; (K:) or &lt;i&gt;the spear and the&lt;/i&gt; <br>\
+                  مِغْفَر <br>\
+                  &lt;i&gt;and the&lt;/i&gt; <br>\
+                  تِجْغَاف <br>\
+                  &lt;i&gt;and the&lt;/i&gt; <br>\
+                  تَسْبِغَة <br>\
+                  &lt;i&gt;and the&lt;/i&gt; <br>\
+                  تُرْس (Fr, K) &lt;i&gt;and the sword and the helmet:&lt;/i&gt; (IKtt, TA:) so called because they render their possessor at ease with his adversaries, and secure, or cause him to have a good opinion [of his safety, and thus, cheer him, or solace him, by their presence: see 4]. (M, A. *) ―         -b3-  See also بَابُونَجٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1353&quot; key=&quot;مَكَانٌ مَاْنُوسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَكَانٌ مَاْنُوسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M,) and مَحَلٌّ مَاْنُوسٌ, (A,) [&lt;i&gt;A place,&lt;/i&gt; and] &lt;i&gt;a place of alighting&lt;/i&gt; or &lt;i&gt;abode, in which is&lt;/i&gt; <br>\
+                  اُنْس [i. e. &lt;i&gt;sociableness,&lt;/i&gt; &amp;amp;c.]: (A:) مانوس is a kind of possessive noun, because they did not say اَنَسْتُ المَكَانَ, nor اَنِسْتُهُ. (M, L.) ―         -b2-  مَاْنُوسَةُ and المَاْنُوسَةُ: see اَنِيسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1354&quot; key=&quot;مُوَانِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَانِسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَنِيسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1355&quot; key=&quot;المُتَاَنِّسُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المُتَاَنِّسُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;The lion;&lt;/i&gt; (TS, K;) as also ↓ <br>\
+      المُسْتَاْنِسُ: (TS, TA:) or &lt;i&gt;he that is sensible of the prey from afar,&lt;/i&gt; (K, TA,) &lt;i&gt;and examines and looks about for it.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1356&quot; key=&quot;المُسْتَاْنِسُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المُسْتَاْنِسُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.   &lt;/entryFree&gt; <br>\
+' } );

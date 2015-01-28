@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'صهصىQ. 1<br>\
+صَهْصَيْتُ for صَهْصَهْتُ: see R. Q. 1 in art.<br>\
+صه.<br>\
+' } );

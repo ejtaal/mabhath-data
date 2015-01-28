@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'وحلوَحَلٌ<br>\
+(S. Msb, K) and وَحْلٌ (Msb, K) Slime,<br>\
+mire, or then mud, (S, Msb, K,) in which beast<br>\
+of carriage slick. (K.)<br>\
+' } );

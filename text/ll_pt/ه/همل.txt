@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>همل</em>            1                  همل<br>\
+<b>هَمَلَ</b>               1     <br>\
+                     هَمَلَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     هَمُلَ<br>\
+                  , inf. n. هَمَلاَنٌ; and ↓ <br>\
+      اِنْهَمَلَ; <i>It</i> (water) <i>overflowed, and poured forth.</i> (Mgh.) ―         -b2-  تُهْمَلُ عَلَى رُوُوسِهَا وَظَهُورِهَا; so in a copy of the K, voce وَسُوطٌ: in other copies of the K, تُحْمَلُ or يُحْمَلُ: if the first be correct, the meaning is probably Camels <i>left without rein and without burden;</i> and this is agreeable with the context.    </entryFree> <br>\
+<b>اَهْمَلَ المَاشِيَةَ</b>               1     <br>\
+                     اَهْمَلَ المَاشِيَةَ<br>\
+                     ذ<br>\
+                  <i>He sent</i> [or <i>left</i>] <i>the cattle to pasture</i> [<i>by themselves,</i>] <i>without a pastor, by night and by day.</i> (Msb.) ―         -b2-  اَهْمَلَهُ <br>\
+                  <i>He left it, let it alone,</i> or <i>neglected it, intentionally</i> or <i>from forgetting:</i> (Msb:) or <i>he left it,</i> or <i>let it alone,</i> expl. by خَلَّى بَيْنَهُ وَبَيْنَ نَفْسِهِ: (S, O, K:) or <i>he left it,</i> or <i>neglected it, and did not make use of it.</i> (K.) ―         -b3-  اَهْمَلَ عَبْدَهُ (S, K, in art. سبع) <i>He left his slave without work,</i> or <i>occupation:</i> (PS:) <i>he left him to himself, uncontrolled.</i>    <br>\
+<b>اِنْهَمَلَكَ فِى الاَمْرِ</b>               1     <br>\
+                     اِنْهَمَلَكَ فِى الاَمْرِ<br>\
+                     ذ<br>\
+                  <i>He exerted himself, strove,</i> or <i>laboured, in the affair,</i> (S, Msb,) <i>and persisted,</i> or <i>persevered, in it.</i> (S, Msb, K.) ―         -b2-  اِنْهَمَلَكَ فِى البَاطِلِ <br>\
+                  <i>He obstinately persevered in vain or false affairs.</i>    <br>\
+<b>هَمَّالَةٌ</b>               1     <br>\
+                     هَمَّالَةٌ<br>\
+                     ذ<br>\
+                   Applied to the eye or eyes, <i>Flowing abundantly with tears:</i> see a verse cited voce عَلَفَ.    </entryFree> <br>\
+<b>مُحْمَلٌ</b>               1     <br>\
+                     مُحْمَلٌ<br>\
+                     ذ<br>\
+                  <i>Having no government.</i> (TA, art. on the particle فَ.) ―         -b2-  لَفْظٌ مُحْمَلٌ <br>\
+                  <i>A word that has no grammatical government; contr. of</i> <br>\
+                  عَامِلٌ. (IbrD.)   </entryFree> <br>\
+' } );

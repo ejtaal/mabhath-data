@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'لثم1<br>\
+لَثَمَتِ الحِجَارَةُ خُفَّ البَعِيرِ The stones wounded<br>\
+the camel&#39;s foot, and made it bleed. (S.) ―<br>\
+-b2-<br>\
+لَثَمَتْ. She muffled herself with a لِثَام. (K.)<br>\
+لِثَامٌ A kind of muffler for the mouth.<br>\
+(K.)<br>\
+' } );

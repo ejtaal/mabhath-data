@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>عمش</em>            1                  عمش<br>\
+<b>عَمِشَ</b>               1     <br>\
+                     عَمِشَ<br>\
+                     ذ<br>\
+                  , (S, TA,) aor.      <br>\
+                     عَمَشَ<br>\
+                  , (TA,) inf. n. عَمَشٌ, (S, A, O, K,) <i>He</i> (a man, S, TA) <i>was weak in sight,</i> (S, A, O, K,) <i>and generally,</i> or <i>at most times, shedding tears.</i> (S, O, K.) And عَمِشَتِ <br>\
+                  العَيْنُ, aor. and inf. n. as above, <i>The eye was generally,</i> or <i>at most times, shedding tears, and weak in sight.</i> (Msb.) ―         -b2-  Hence, (A,) عَمِشَ فِيهِ, said of speech, (assumed tropical:)  <i>It produced a good effect upon him.</i> (A, O, K.) And فُلَانٌ لَا تَعْمَشُ فِيهِ المَوْعِظَةُ (assumed tropical:)  <i>Such a one, exhortation produces no good effect upon him.</i> (A, O.) Both of these are chaste phrases; for when exhortation produces an effect upon a man, it becomes as though it were weaksighted, seeing nothing to amend in him. (A.)    </entryFree> <br>\
+<b>تَعْمِيشٌ</b>               1     <br>\
+                     تَعْمِيشٌ<br>\
+                     ذ<br>\
+                   The <i>removing of</i> [<i>the weakness of sight termed</i>] عَمَش [inf. n. of عَمِشَ, q. v.]. (O, K.)    </entryFree> <br>\
+<b>استعمشهُ</b>               1     <br>\
+                     استعمشهُ<br>\
+                     ذ<br>\
+                  <i>He deemed him foolish,</i> or <i>stupid,</i> (O, K, TA,) or, as in the Tekmileh, <i>ignorant:</i> (TA:) but this is post-classical. (O, TA.)    </entryFree> <br>\
+<b>اَعْمَشُ</b>               1     <br>\
+                     اَعْمَشُ<br>\
+                     ذ<br>\
+                   A man <i>weak in sight, and generally,</i> or <i>at most times, shedding tears:</i> fem. عَمْشَا=ءُ: (S, Msb:) pl. عُمْشٌ; (Msb, TA;) which is also applied to camels: (TA:) or <i>disordered in the eye; whose eyes are dim,</i> or <i>watery;</i> and اَغْمَصُ signifies the like. (L, TA.)   </entryFree> <br>\
+' } );

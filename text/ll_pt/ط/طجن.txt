@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>طجن</em>            1                  طجن<br>\
+<b>طَجْنٌ</b>               1     <br>\
+                     طَجْنٌ<br>\
+                     ذ<br>\
+                   The act of <i>frying:</i> (K:) an adventitious word in the Arabic language. (TA.) You say, طَجَنَ الشَّىْءَ, aor.      <br>\
+                     طَجُنَ<br>\
+                  , inf. n. طَجْنٌ, <i>He fried the thing.</i> (TK.)    </entryFree> <br>\
+<b>طَاجَنٌ</b>               1     <br>\
+                     طَاجَنٌ<br>\
+                     ذ<br>\
+                  , (S,) or طَاجِنٌ, (T,) or both, (Msb, TA, and in a copy of the S written طَاجَنٌ,) and ↓ <br>\
+      طَيْجَنٌ, (S, Msb, K,) <i>A frying-pan;</i> syn. مِقْلًى; (Msb;) <i>a</i> <br>\
+                  طَابَق <br>\
+                  <i>upon which one fries:</i> (S, K:) arabicized words, (S, Msb, K,) because ط and ج do not occur in the original language of the Arabs: (S, TA:) [app. from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>τήγανον</orth>:] the pl. of طاجن is طَوَاجِنُ; (Msb, TA;) and that of ↓ <br>\
+      طيجن is طَيَاجِنُ, (Msb,) or طَيَاجِينُ. (MA, TA.)    </entryFree> <br>\
+<b>طَيْجَنٌ</b>               1     <br>\
+                     طَيْجَنٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, in two places.    </entryFree> <br>\
+<b>مُطَجَّنٌ</b>               1     <br>\
+                     مُطَجَّنٌ<br>\
+                     ذ<br>\
+                  <i>Fried in a</i> <br>\
+                  طَاجِن. (K.)   </entryFree> <br>\
+' } );

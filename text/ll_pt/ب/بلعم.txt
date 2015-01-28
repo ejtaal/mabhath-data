@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>بلعم</em>            1                  بلعم<br>\
+<b>بَلْعَمَ</b>               1     <br>\
+                     بَلْعَمَ<br>\
+                     بلعم<br>\
+                  : see بلع.    </entryFree> <br>\
+<b>بَلععَمٌ</b>               1     <br>\
+                     بَلععَمٌ<br>\
+                     بلععم<br>\
+                  : see بلع.    </entryFree> <br>\
+<b>بُلْعُمٌ</b>               1     <br>\
+                     بُلْعُمٌ<br>\
+                     بلعم<br>\
+                  : see بلع.    </entryFree> <br>\
+<b>بُلْعُومٌ</b>               1     <br>\
+                     بُلْعُومٌ<br>\
+                     بلعوم<br>\
+                  : see بلع.   </entryFree> <br>\
+' } );

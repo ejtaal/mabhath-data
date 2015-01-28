@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>خردل</em>            1                  خردل<br>\
+<b>خَرْدَلٌ</b>               1     <br>\
+                     خَرْدَلٌ<br>\
+                     خردل<br>\
+                  <i>[Mustard-seed;]</i> the <i>grain of a certain tree,</i> (K,) <i>well known;</i> (S, K;) <i>a species of</i> <br>\
+                  حُرْف [q. v.]; (JK;) <i>heating; emollient; drawing; a phlegmagogue; lenitive; digestive; used as a liniment, good for the</i> <br>\
+                  نِقْرِس <br>\
+                  <i>[or gout], and [especially] the</i> <br>\
+                  نَسَا [or <i>sciatica</i>], <i>and the [malignant species of leprosy termed]</i> <br>\
+                  بَرَص (K,) <i>and the [mild species thereof termed]</i> <br>\
+                  بَهَق; <i>clearing to the face; good for the alopecia, especially the wild sort thereof;</i> (TA;) <i>its smoke drives away serpents,</i> or, as in the Kánoon, <i>venomous or noxious reptiles or the like;</i> (TA;) <i>its juice, dropped, allays earache,</i> (K,) <i>and in like manner its oil;</i> (TA;) <i>and its powder, upon the aching tooth, is extremely efficacious,</i> (K,) <i>especially when</i> <br>\
+                  حِلْتِيت [or <i>assa</i>] <i>has been cooked with it:</i> (TA: [in which many other properties assigned to it are mentioned:]) n. un. with ة. (S.) ―         -b2-  الخَرْدَلُ <br>\
+                  الفَارِسِىُّ is <i>A certain plant in Egypt known by the name of</i> <br>\
+                  حَشِيشَةُ السُّلْطَانِ. (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,159 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;درا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  درا<br>\
+&lt;entryFree id=&quot;n12347&quot; key=&quot;دَرَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     دَرَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَرَاَ<br>\
+                  &lt;/form&gt;, (M, Msb, K,) inf. n. دَرْءٌ (S, M, Mgh, Msb, K) and دَرْاَةٌ; (K;) and ↓ <br>\
+      درّاهُ; (M, TA; [or this latter has probably an intensive signification;]) &lt;i&gt;He pushed it,&lt;/i&gt; or &lt;i&gt;thrust it;&lt;/i&gt; or &lt;i&gt;pushed it,&lt;/i&gt; or &lt;i&gt;thrust it, away,&lt;/i&gt; or &lt;i&gt;back; repelled&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;865&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;it;&lt;/i&gt; or &lt;i&gt;averted it;&lt;/i&gt; syn. دَفَعَهُ; (S, * M, Mgh, * Msb, K;) namely, a thing. (Msb.) Hence, كَانَ بَيْنَ عُمَرَ وَمُعَاذِ بْنِ عَفْرَا=ءَ دَرْءٌ <br>\
+                  &lt;i&gt;There was, between &#39;Omar and Mo&#39;ádh Ibn-&#39;Afrà, a contending, and a mutual pushing&lt;/i&gt; or &lt;i&gt;thrusting,&lt;/i&gt; &amp;amp;c. (Mgh.) And دَرَاَ عَنْهُمْ <br>\
+                  &lt;i&gt;He repelled from them,&lt;/i&gt; or &lt;i&gt;defended them;&lt;/i&gt; as also دَرَهَ, which is formed by substitution from the former, like هَرَاقَ from اَرَاقَ. (S in art. دره.) And دَرَاَ عَنْهُ الحَدَّ <br>\
+                  &lt;i&gt;He averted&lt;/i&gt; (دَفَعَ) &lt;i&gt;from him the prescribed castigation:&lt;/i&gt; (M, Mgh:) or &lt;i&gt;he deferred his prescribed castigation:&lt;/i&gt; and in like manner the verb is used in relation to other things. (AZ, T.) It is said in a trad., اِدْرَوُوا الحُدُودَ بِالشُّبُهَاتِ [&lt;i&gt;Avert ye,&lt;/i&gt; or &lt;i&gt;defer ye, the prescribed castigations on account of dubious circumstances&lt;/i&gt;]. (ISk, M, TA.) And اِدْرَوُوا الحُدُودَ <br>\
+                  مَا اْسْتَطَعْتُمْ [&lt;i&gt;Avert ye,&lt;/i&gt; or &lt;i&gt;defer ye, the prescribed castigations as long as ye are able&lt;/i&gt;]. (S, form a trad.) ―         -b2-  See also 5. ―         -b3-  دَرَاَ عَنِ البَعِيرِ الحَقَبَ is explained by Sh as meaning &lt;i&gt;He pushed back the kind girth of the camel:&lt;/i&gt; but AM says that the correct meaning is, &lt;i&gt;he spread the kind girth upon the ground, and made the camel to lie down upon it&lt;/i&gt; [in order that he might gird him]. (TA.) [For] دَرَاَ signifies also &lt;i&gt;He spread,&lt;/i&gt; or &lt;i&gt;laid flat,&lt;/i&gt; (K, TA,) a thing upon the ground. (TA.) ―         -b4-  دَرَاَ الشَّىْءَ بِالشَّىْءَ <br>\
+                  &lt;i&gt;He supported the thing by the thing; made the. thing to be a support to the thing.&lt;/i&gt; (TA.) [Hence,] دَرَاَ الحَايِطَ بِبِنَا=ءٍ <br>\
+                  &lt;i&gt;He conjoined the wall with a structure&lt;/i&gt; [&lt;i&gt;so as to support the former by the latter&lt;/i&gt;]. (TA.) ―         -b5-  دَرَاَ بِحَجَرٍ <br>\
+                  &lt;i&gt;He cast a stone;&lt;/i&gt; like رَدَاَ. (TA.) You say, دَرَاَهُ بِحَجَر and رَدَاَهُ بِهِ <br>\
+                  &lt;i&gt;He cast a stone at him.&lt;/i&gt; (M in art. ردا.) ―         -b6-  دَرَاَ said of a torrent, (K,) inf. n. دَرْءٌ, (TA,) (tropical:)  &lt;i&gt;It rushed,&lt;/i&gt; or &lt;i&gt;poured forth with vehemence;&lt;/i&gt; as also ↓ <br>\
+      اندرا. (K.) And دَرَاَ الوَادِى بِالسَّيْلِ (assumed tropical:)  &lt;i&gt;The valley poured along the torrent.&lt;/i&gt; (TA.) [See also دَرْءٌ, below.] ―         -b7-  دَرَاَ, (K,) inf. n. دُرُوْءٌ, (TA,) is syn. with طَرَاَ [&lt;i&gt;He came from a place,&lt;/i&gt; or &lt;i&gt;from a distant place, unexpectedly;&lt;/i&gt; &amp;amp;c.]. (K.) And you say, دَرَاَ عَلَيْنَا <br>\
+                  فُلَانٌ, (T, S, K, * TA,) inf. n. دُرُوْءٌ (S, TA) and دَرْءٌ; (TA;) and ↓ <br>\
+      اندرا (S, TA) and ↓ <br>\
+      تدرّا; (TA;) &lt;i&gt;Such a one came,&lt;/i&gt; or &lt;i&gt;came forth, upon us unexpectedly,&lt;/i&gt; (T, S, K, * TA,) or &lt;i&gt;whence we knew not;&lt;/i&gt; as also طَرَاَ, (T,) and دَرَهَ. (IAar, TA in art. دره.) And عَلَيْهِ بِشَرٍّ ↓ <br>\
+      اندرا, vulg. اندرى, &lt;i&gt;He came upon him suddenly with evil,&lt;/i&gt; or &lt;i&gt;mischief.&lt;/i&gt; (TA.) ―         -b8-  Hence, i. e. from دَرَاَ signifying “ he came, or came forth, unexpectedly, ” (T, S, TA,) دَرَاَ, inf. n. دُرُوْءٌ, said of a star, meaning (tropical:)  &lt;i&gt;It shone,&lt;/i&gt; or &lt;i&gt;glistened,&lt;/i&gt; (S, K, TA,) &lt;i&gt;intensely,&lt;/i&gt; (S, TA,) and &lt;i&gt;its light spread:&lt;/i&gt; (TA:) or, as some say, &lt;i&gt;it rose.&lt;/i&gt; (T.) [Hence also,] دَرَاَتِ النَّارُ (assumed tropical:)  &lt;i&gt;The fire gave light, shone, was bright,&lt;/i&gt; or &lt;i&gt;shone brightly.&lt;/i&gt; (Sh, K.)       -A2-  دَرَاَ, (T, S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَرَاَ<br>\
+                  &lt;/form&gt;, (T,) inf. n. دُرُوْءٌ, (T, S,) &lt;i&gt;He&lt;/i&gt; (a camel) &lt;i&gt;had what is termed the&lt;/i&gt; <br>\
+                  غُدَّة, (S, K,) i. e. &lt;i&gt;the plague,&lt;/i&gt; or &lt;i&gt;pestilence,&lt;/i&gt; (طَاعُون,) &lt;i&gt;of camels,&lt;/i&gt; (T,) &lt;i&gt;and had therewith a tumour in his back,&lt;/i&gt; (S, K,) or &lt;i&gt;in his&lt;/i&gt; <br>\
+                  نَحْر [or &lt;i&gt;stabbing-place, in the uppermost part of the breast&lt;/i&gt;]: but in a female, it is &lt;i&gt;in the udder:&lt;/i&gt; (TA:) or &lt;i&gt;had a tumour in his&lt;/i&gt; <br>\
+                  نَحْر. (IAar, T.) The epithet applied to the male is ↓ <br>\
+      دَارِيٌ: and so, accord. to ISk, to the female, (T, S,) meaning &lt;i&gt;Attacked by the&lt;/i&gt; <br>\
+                  غُدَّة <br>\
+                  &lt;i&gt;in her&lt;/i&gt; <br>\
+                  مَرَاق, (T, and so in a copy of the S,) thus, without teshdeed to the ق, signifying &lt;i&gt;the part, of her throat, which is the place of passage of the water,&lt;/i&gt; (T, TA,) or &lt;i&gt;in her&lt;/i&gt; <br>\
+                  مَرَاقّ [or &lt;i&gt;thin and soft parts&lt;/i&gt; of the belly], (so in one of my copies of the S,) &lt;i&gt;so that the protuberance of the&lt;/i&gt; <br>\
+                  غُدَّة [or &lt;i&gt;pestilential tumour&lt;/i&gt;] &lt;i&gt;is apparent:&lt;/i&gt; which protuberance is termed ↓ <br>\
+      دَرْءٌ. (T, S.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     دَرَّاَ<br>\
+                  &lt;/form&gt; see 1, first sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12348&quot; key=&quot;مُدَارَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     مُدَارَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, primarily, (TA,) signifies The act of &lt;i&gt;opposing;&lt;/i&gt; and &lt;i&gt;repelling,&lt;/i&gt; or &lt;i&gt;striving to repel:&lt;/i&gt; (S, TA:) or &lt;i&gt;treating in an evil,&lt;/i&gt; or &lt;i&gt;adverse, manner;&lt;/i&gt; and &lt;i&gt;opposing:&lt;/i&gt; (A &#39;Obeyd, TA:) or the &lt;i&gt;putting&lt;/i&gt; one &lt;i&gt;off in the matter of a right&lt;/i&gt; or &lt;i&gt;due, by promising to render it time after time;&lt;/i&gt; and &lt;i&gt;treating in an evil,&lt;/i&gt; or &lt;i&gt;adverse,&lt;/i&gt; and &lt;i&gt;a contrary, manner.&lt;/i&gt; (Mgh in arts. درى and شرى.) One says, دَرَاْتُهُ <br>\
+                  &lt;i&gt;I repelled him,&lt;/i&gt; or &lt;i&gt;strove to repel him.&lt;/i&gt; (T, Msb, K.) And فُلَانٌ لَا يُدَارِيُ وَ لَا يُمَارِى, (S, TA,) i. e. &lt;i&gt;Such a one does not act in an evil,&lt;/i&gt; or &lt;i&gt;adverse, manner, nor oppose,&lt;/i&gt; [&lt;i&gt;nor does he wrangle,&lt;/i&gt; or &lt;i&gt;dispute obstinately:&lt;/i&gt;] and لا يُدَارِى, meaning, accord. to Sgh, if for لا يُدَارِيُ, &lt;i&gt;does not repel,&lt;/i&gt; or &lt;i&gt;strive to repel, him who has a right from his right.&lt;/i&gt; (TA.) ―         -b2-  Accord. to El-Ahmar, in [the exercise of] good disposition, (T, S,) and in social intercourse, (S,) it is with and without ء; (T, S;) contr. to the assertion of A &#39;Obeyd, who says that in this case it is without ء. (T.) [F says,] دَارَاْتُهُ is &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  دَارَيْتُهُ and دَافَعْتُهُ and لَايَنْتُهُ [the second of which has a meaning explained above; the first and last meaning &lt;i&gt;I treated him with gentleness&lt;/i&gt; or &lt;i&gt;blandishment, soothed him, coaxed him,&lt;/i&gt; or &lt;i&gt;wheedled him;&lt;/i&gt; &amp;amp;c.]; thus bearing two contr. significations: (K:) [or] دَرَاْتُهُ and دَارَيْتُهُ both signify &lt;i&gt;I was fearful,&lt;/i&gt; or &lt;i&gt;cautious, of him; and treated him with gentleness&lt;/i&gt; or &lt;i&gt;blandishment,&lt;/i&gt; or &lt;i&gt;soothed him, coaxed him, wheedled him,&lt;/i&gt; or &lt;i&gt;cajoled him:&lt;/i&gt; (S:) [but Az says,] I say that the verb with ء means &lt;i&gt;I was fearful,&lt;/i&gt; or &lt;i&gt;cautious, of him,&lt;/i&gt; as says AZ; or &lt;i&gt;of his evil,&lt;/i&gt; or &lt;i&gt;mischief:&lt;/i&gt; and دَارَيْتُ signifies “ I deceived, deluded, beguiled, circumvented, or outwitted; ” as also دَرَيْتُ. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12349&quot; key=&quot;اَدْرَاَتْ بِضَرْعِهَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَدْرَاَتْ بِضَرْعِهَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (AZ, T, S,) inf. n. اـِدْرَا=ءٌ, (AZ, T,) [as also اذرات, with ذ,] &lt;i&gt;She&lt;/i&gt; (a camel) &lt;i&gt;excerned&lt;/i&gt; (اَنْزَلَتْ) &lt;i&gt;the milk,&lt;/i&gt; (AZ, T, S,) &lt;i&gt;and relaxed her udder, on the occasion of bringing forth.&lt;/i&gt; (AZ, S.) The epithet applied to the she-camel so doing is ↓ <br>\
+      مُدْرِيٌ. (AZ, T, S, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَدَرَّاَ<br>\
+                  &lt;/form&gt; see 1. ―         -b2-  تدرّا عَلَيْنَا <br>\
+                  &lt;i&gt;He domineered over us.&lt;/i&gt; (S.) And تدرّووا عَلَيْهِمْ <br>\
+                  &lt;i&gt;They domineered over them,&lt;/i&gt; (K, TA,) &lt;i&gt;and aided one another against them.&lt;/i&gt; (TA.) ―         -b3-  تدرّووا, (M, K, TA,) and ↓ <br>\
+      اِدَّرَوُوا <br>\
+                  دَرِيْيَةً, (TA,) &lt;i&gt;They concealed themselves from a thing in order to beguile it,&lt;/i&gt; or &lt;i&gt;circumvent it:&lt;/i&gt; (M, K, TA:) or &lt;i&gt;they made use of a&lt;/i&gt; <br>\
+                  ذَرِيعَة [or دَرِيْيَة] &lt;i&gt;for hunting and spearing or thrusting&lt;/i&gt; [&lt;i&gt;or shooting objects of the chase&lt;/i&gt;]: (TA:) and ↓ <br>\
+      ادّراتُ <br>\
+                  لِلصَّيْدِ, (S,) or الصَّيْدِ, (K,) &lt;i&gt;I prepared for myself a&lt;/i&gt; <br>\
+                  دَرِييَة <br>\
+                  &lt;i&gt;for the chase:&lt;/i&gt; (S, K:) and ↓ <br>\
+      دَرَاَ <br>\
+                  الدَّرِيْيَةَ لِلصَّيْدِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَرَاَ<br>\
+                  &lt;/form&gt;, inf. n. دَرْءٌ, &lt;i&gt;He drove the&lt;/i&gt; <br>\
+                  دريية <br>\
+                  &lt;i&gt;to the chase, and concealed himself by it.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12350&quot; key=&quot;تدارووا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تدارووا<br>\
+                     ذ<br>\
+                  &lt;i&gt;They repelled,&lt;/i&gt; or &lt;i&gt;strove to repel, one another&lt;/i&gt; (M, Msb, K) in contention, or altercation, (M, K,) and the like; and &lt;i&gt;disagreed.&lt;/i&gt; (M.) اِدَّارَاْتُمْ is originally تَدَارَاْتُمْ, (S, K,) the ت being incorporated into the د, (S, TA,) because they have the same place of utterance, (TA,) and the ا being added to commence the word: (S, TA:) the meaning is, &lt;i&gt;Ye disagreed;&lt;/i&gt; and &lt;i&gt;repelled,&lt;/i&gt; or &lt;i&gt;strove to repel, one another.&lt;/i&gt; (S.) فَاْدَّارَاْتُمْ فِيهَا, in the Kur ii. 67, means &lt;i&gt;And ye contended together respecting it;&lt;/i&gt; because those who contend repel one another: or &lt;i&gt;ye repelled,&lt;/i&gt; or &lt;i&gt;strove&lt;/i&gt; (??) &lt;i&gt;repel, one another, by each of you casting the slaughter upon his fellow.&lt;/i&gt; (Bd.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;7&lt;/itype&gt;        <br>\
+                     اـِنْدَرَاَ<br>\
+                  &lt;/form&gt; see 1, in three places. ―         -b2-  The phrase الحُدُودُ <br>\
+                  تَنْدَرِيُ بِالشُّبُهَاتِ [&lt;i&gt;The prescribed castigations shall be,&lt;/i&gt; or &lt;i&gt;are to be, averted,&lt;/i&gt; or &lt;i&gt;deferred, on account of dubious circumstances,&lt;/i&gt;] is agreeable with analogy, but has not been heard [from the Arabs of classical times]. (Mgh.) ―         -b3-  اندرا الحَرِيقُ <br>\
+                  &lt;i&gt;The fire&lt;/i&gt; [of a burning house &amp;amp;c.] &lt;i&gt;spread,&lt;/i&gt; (K, TA,) &lt;i&gt;and gave light, shone, was bright,&lt;/i&gt; or &lt;i&gt;shone brightly.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِدْتَرَاَ<br>\
+                  &lt;/form&gt; see 5, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12351&quot; key=&quot;دَرْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَرْءٌ<br>\
+                     درء<br>\
+                  &lt;/form&gt; and inf. n. of 1 in senses pointed out above. (S, M, &amp;amp;c.) So of that verb said of a torrent. (TA.) [Hence,] جَا=يَ السَّيْلُ دَرْءًا and ↓ <br>\
+      دُرْءًا <br>\
+                  &lt;i&gt;The torrent rushed,&lt;/i&gt; or &lt;i&gt;poured forth with vehemence,&lt;/i&gt; [or &lt;i&gt;came rushing,&lt;/i&gt; &amp;amp;c.,] &lt;i&gt;from a place,&lt;/i&gt; (M, K,) or &lt;i&gt;from a distant place,&lt;/i&gt; (TA,) &lt;i&gt;unknown:&lt;/i&gt; (M, K, TA:) or the latter signifies &lt;i&gt;the torrent came from a distant land&lt;/i&gt; or &lt;i&gt;tract.&lt;/i&gt; (S.) And جَا=ءَ ↓ <br>\
+      الوَادِى دُرْءًا <br>\
+                  &lt;i&gt;The valley flowed with the rain of another valley:&lt;/i&gt; if with its own rain, you say, سَالَ ظَهْرًا: (IAar, M; and the like is said in the TA in the present art. and in art. ظهر:) or سال <br>\
+                  دُرْءًا means &lt;i&gt;it flowed with other than its own rain;&lt;/i&gt; and ظَهْرًا, “ with its own rain. ” (TA in art. ظهر.) Hence ↓ <br>\
+      الدُّرْءُ has been metaphorically used by a rájiz to signify (tropical:)  &lt;i&gt;The flowing of water from the mouths of camels into their insides.&lt;/i&gt; (M.)       -A2-  &lt;i&gt;A bending;&lt;/i&gt; (TA;) &lt;i&gt;a crookedness,&lt;/i&gt; or &lt;i&gt;curvity;&lt;/i&gt; (S, M, K, TA;) in a cane, or spearshaft, and the like; (M, K;) or in a staff, and anything that is hard to straighten: (T, TA:) pl. دُرُوْءٌ. (M.) One says, اَقَمْتُ دَرْءٌ فُلَانٍ (assumed tropical:)  &lt;i&gt;I rectified the crookedness and opposition,&lt;/i&gt; or &lt;i&gt;resistance, of such a one.&lt;/i&gt; (S.) And hence, بِيْرٌ ذَاتُ دَرْءٍ <br>\
+                  &lt;i&gt;A well having a part&lt;/i&gt; [&lt;i&gt;of its shaft&lt;/i&gt;] &lt;i&gt;projecting,&lt;/i&gt; or &lt;i&gt;protuberant.&lt;/i&gt; (S, O.) And طَرِيقٌ ذُو دُرُوْءٍ <br>\
+                  &lt;i&gt;A road having furrows,&lt;/i&gt; (M, * K, *) or &lt;i&gt;abrupt, water-worn, ridges,&lt;/i&gt; (T, S, M,) &lt;i&gt;and protuberances, and the like.&lt;/i&gt; (T.) ―         -b2-  The &lt;i&gt;extremity,&lt;/i&gt; or &lt;i&gt;edge,&lt;/i&gt; of a thing; because it repels therewith. (Ham p. 213.) ―         -b3-  &lt;i&gt;A portion of a mountain that projects,&lt;/i&gt; or &lt;i&gt;juts out, from the rest,&lt;/i&gt; (M, K, TA, and Ham &lt;pb n=&quot;866&quot; TEIform=&quot;pb&quot;/&gt; p. 213 in explanation of the pl.,) &lt;i&gt;unexpectedly:&lt;/i&gt; (TA:) pl. as above. (M.) ―         -b4-  See also 1, last sentence. ―         -b5-  Also (assumed tropical:)  &lt;i&gt;Disobedience, and resistance, and hatred,&lt;/i&gt; or &lt;i&gt;dislike,&lt;/i&gt; (T, TA,) &lt;i&gt;and crookedness,&lt;/i&gt; (T,) &lt;i&gt;and disagreement, on the part of a wife.&lt;/i&gt; (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12352&quot; key=&quot;دُرْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دُرْءٌ<br>\
+                     درء<br>\
+                  &lt;/form&gt;: see دَرْءٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12353&quot; key=&quot;دَرِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَرِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A ring by aiming at which one learns to pierce&lt;/i&gt; or &lt;i&gt;thrust&lt;/i&gt; [&lt;i&gt;with the spear&lt;/i&gt;] (S, M, K) &lt;i&gt;and to shoot:&lt;/i&gt; (T, * M, K:) said by As to be with ء: (S:) and also called وَتِيرَةٌ. (S in art. وتر.) &#39;Amr Ibn-Maadee-Kerib says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        ظَلِلْتُ كَاَنِّى لِلرِّمَاحِ دَرِيْيَةٌ<br>\
+                     &lt;L&gt;<br>\
+                        اُقَاتِلُ عَنْ اَبْنَا=ءَ جَرْمٍ وَفَرَّتِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;I passed the day as though I were a ring for the spears to be aimed at, fighting in defence of the sons of Jarm, when they had fled&lt;/i&gt;]. (T, S, M. [See also Ham p. 75, where it is written دَرِيَّةٌ.]) ―         -b2-  Also &lt;i&gt;A camel,&lt;/i&gt; (T, S,) or &lt;i&gt;other thing,&lt;/i&gt; (S,) or &lt;i&gt;anything,&lt;/i&gt; (M, K,) &lt;i&gt;by which one conceals himself&lt;/i&gt; (T, S, M, K) &lt;i&gt;from the wild animals,&lt;/i&gt; (T,) or &lt;i&gt;from the objects of the chase,&lt;/i&gt; (S, * M, K,) &lt;i&gt;in order that they may be circumvented,&lt;/i&gt; (T, S, M, K,) &lt;i&gt;so that when the man is able to shoot,&lt;/i&gt; or &lt;i&gt;cast, he does so:&lt;/i&gt; (T, S:) like ذَرِيعَةٌ: (S in art. ذرع:) accord. to AZ, it is with ء, (S,) because the دريية is driven (تُدْرَاُ, i. e. تُدْفَعُ,) towards the objects of the chase: (T, * S:) but IAth says that it is دَرِيَّةٌ, without ء; and that it signifies &lt;i&gt;an animal by means of which the sportsman conceals himself, leaving it to pasture with the wild animals until they have become familiar with it and so rendered accessible to him, when he shoots,&lt;/i&gt; or &lt;i&gt;casts, at them:&lt;/i&gt; (TA:) the pl. of دَرِيْيَةٌ is دَرَايَا and دَرَاييُ with two hemzehs, each of them extr. [with respect to analogy]. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12354&quot; key=&quot;دَرِّىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَرِّىْءٌ<br>\
+                     درىء<br>\
+                     دريء<br>\
+                     دري<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12355&quot; key=&quot;دُرِّىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دُرِّىْءٌ<br>\
+                     درىء<br>\
+                     دريء<br>\
+                     دري<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12356&quot; key=&quot;كَوْكَبٌ دِرِّىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَوْكَبٌ دِرِّىْءٌ<br>\
+                     كوكب درىء<br>\
+                     كوكب دريء<br>\
+                     كوكب دري<br>\
+                  &lt;/form&gt;, (T, S, K, &amp;amp;c.,) like خِمِّيرٌ and سِكِّيرٌ (S) or سِكِّينٌ, (K,) from دَرَاَ عَلَيْنَا فُلَانٌ; (S;) and ↓ <br>\
+      دُرِّىْءٌ, (M, K,) the only instance of the measure فُعِّيلٌ except مُرِّيقٌ; (K;) [which latter word has been mistaken by Golius and Freytag for a noun qualified by the epithet درّىء;] but A&#39;Obeyd says that when it is pronounced with the first letter madmoomeh it is دُرِّىٌّ, without ء, a rel. n. from دُرٌّ, of the measure فُعْلِىٌّ, [and the like is said in the K, though دُرِّىْءٌ is also there mentioned as correct,] because there is not [to his knowledge] in the language of the Arabs any word of the measure فُعِّيلٌ; and that he who pronounces it [دُرِّىْءٌ] with ء means that it is [originally of the measure] فُعُّولٌ, like سُبُّوحٌ, and that one of its vowels is changed to kesr because it is deemed difficult of pronunciation; and Akh mentions also ↓ <br>\
+      دَرِّىْءٌ, with ء, of the measure فَعِّيلٌ, with fet-h to the first letter, (S, TA,) on the authority of Katádeh and AA; (TA;) (tropical:)  &lt;i&gt;A star that shines,&lt;/i&gt; or &lt;i&gt;glistens,&lt;/i&gt; (S, K, TA,) &lt;i&gt;intensely:&lt;/i&gt; (S:) or &lt;i&gt;a star that is impelled in its course from the east to the west:&lt;/i&gt; (M:) accord. to IAar, [&lt;i&gt;a shooting star;&lt;/i&gt;] &lt;i&gt;a star that is impelled&lt;/i&gt; (يُدْرَاُ) &lt;i&gt;against the devil&lt;/i&gt; [&lt;i&gt;or a devil;&lt;/i&gt; for the Arabs believed, and still believe, that a shooting star is one that is darted against a devil when he attempts to hear by stealth the discourse of the angels in the lowest heaven]: (T, TA:) and said by some to signify &lt;i&gt;one of the five planets:&lt;/i&gt; (TA in art. در:) pl. دَرَارِىْءُ; (T, S, M;) said by Fr to be applied by the Arabs to the &lt;i&gt;great stars of which the names are not known.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12357&quot; key=&quot;دَارِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَارِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Coming from a place,&lt;/i&gt; or &lt;i&gt;from a distant place, unexpectedly:&lt;/i&gt; (M, TA: but only the pls. of the word in this sense are there mentioned:) &lt;i&gt;an enemy showing open hostility,&lt;/i&gt; or &lt;i&gt;coming forth into the field to encounter another in battle:&lt;/i&gt; and &lt;i&gt;a stranger:&lt;/i&gt; (T:) pl. دُرَا=ءُ (T, M, TA) and دُرَّا=ءٌ. (M, TA.) People say, نَحْنُ فُقَرَا=ءُ دُرَا=ءُ [&lt;i&gt;We are poor men, come from a distant place,&lt;/i&gt; or &lt;i&gt;strangers&lt;/i&gt;]. (T, TA.)       -A2-  See also 1, last sentence. ―         -b2-  [Hence,] metaphorically used by Ru-beh as meaning (tropical:)  &lt;i&gt;Swollen with anger.&lt;/i&gt; (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12358&quot; key=&quot;السُّلْطَانُ ذُو تُدْرَاٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     السُّلْطَانُ ذُو تُدْرَاٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, * K,) and ↓ <br>\
+      تُدْرَاَةٍ, (K,) accord. to different relations of a trad. in which it occurs, (TA,) &lt;i&gt;The Sultán is possessed of apparatus&lt;/i&gt; [&lt;i&gt;of war&lt;/i&gt;], (عُدَّة, S, and so in some copies of the K,) or &lt;i&gt;might,&lt;/i&gt; (عِزّ, so in other copies of the K,) &lt;i&gt;and power, to repel his enemies:&lt;/i&gt; (S, M, * K: *) accord. to IAth, ذو تدرا signifies &lt;i&gt;impetuous, not fearing&lt;/i&gt; or &lt;i&gt;dreading;&lt;/i&gt; and so, &lt;i&gt;having power to repel his enemies:&lt;/i&gt; (TA:) it is used in relation to war and contention. (M.) You say also, هُوَ ذُو <br>\
+                  تُدْرَاٍ and تُدْرَهٍ: and هُوَ ذُو تُدْرَيِهِمْ and تُدْرَهَهِمْ (TA in art. دره, q. v.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12359&quot; key=&quot;تُدْرَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُدْرَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12360&quot; key=&quot;مُدْرِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُدْرِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12361&quot; key=&quot;مِدْرَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِدْرَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A thing with which one pushes,&lt;/i&gt; or &lt;i&gt;thrusts;&lt;/i&gt; or &lt;i&gt;pushes,&lt;/i&gt; or &lt;i&gt;thrusts, away,&lt;/i&gt; or &lt;i&gt;back.&lt;/i&gt; (TA.) [Applied in the present day, pronounced مِدْرَا, without ء, to &lt;i&gt;A boat-pole.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12362&quot; key=&quot;ذَاتُ المِدْرَاَةِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَاتُ المِدْرَاَةِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The she-camel of violent spirit.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

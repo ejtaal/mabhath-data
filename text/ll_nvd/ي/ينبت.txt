@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'ينبتيَنْبُوتٌ A certain thorny kind of tree, not of<br>\
+the kind called عِضَاه. Mentioned here by IM.<br>\
+See art. نبت. (TA.)<br>\
+' } );

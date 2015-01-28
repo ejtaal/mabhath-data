@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'بومبُومٌ and بُومَةٌ A certain bird; [namely, the<br>\
+owl;] each word applying to the male and the<br>\
+female: (S, K:) or the former signifies the male,<br>\
+or males, (so in different copies of the M,) of the<br>\
+هَام [or owl-kind]; and the latter is its n. un.:<br>\
+(M, TA:) said by Az to be genuine Arabic:<br>\
+(TA:) pl. of the former أَبْوَامٌ. (IB, TA.)<br>\
+بُومٌ بَوَّامٌ [An owl, or male owls,] that cries, or<br>\
+that cry, much. (TA.)<br>\
+' } );

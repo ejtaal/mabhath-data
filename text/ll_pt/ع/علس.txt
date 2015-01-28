@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>علس</em>            1                  علس<br>\
+<b>عَلَسٌ</b>               1     <br>\
+                     عَلَسٌ<br>\
+                     ذ<br>\
+                  <i>A certain kind of wheat, having two grains in one husk,</i> (S, O, Msb, K,) <i>and sometimes one grain,</i> or <i>three grains;</i> (Msb;) <i>it is found in the region of El-Yemen;</i> (TA;) <i>and is the wheat of San&#39;à:</i> (S, O, K:) or <i>a sort of wheat, of good quality, but difficult to cleanse, growing in the parts of El-Yemen:</i> (AHn, O:) or [<i>a kind of grain</i>] <i>like wheat, but difficult to cleanse,</i> (Mgh, Msb,) <i>having two grains in one envelope, and it is the corn of San&#39;à:</i> (Mgh:) or <i>a certain black grain, which people eat in times of dearth,</i> or <i>drought,</i> (Mgh, Msb,) <i>after grinding it:</i> (Mgh:) or, (Msb, in the K “ and, ”) accord. to IAar, (O,) <i>i. q.</i> <br>\
+                  عَدَسٌ [or <i>lentils</i>]. (O, Msb, K.)   </entryFree> <br>\
+' } );

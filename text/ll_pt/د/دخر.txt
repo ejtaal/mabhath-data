@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>دخر</em>            1                  دخر<br>\
+<b>دَخَرَ</b>               1     <br>\
+                     دَخَرَ<br>\
+                     دخر<br>\
+                  , (S, A, Msb, K,) aor.      <br>\
+                     دَخَرَ<br>\
+                  ; (Msb, K;) and دَخِرَ, aor.      <br>\
+                     دَخَرَ<br>\
+                  ; (K;) inf. n. of the former, دُخُورٌ, (S, A, Msb, K,) and (of the latter, TA) دَخَرٌ; (K, TA; in the CK دُخْرٌ;) <i>He was, or became, object, mean, contemptible,</i> or <i>despicable.</i> (S, A, Msb, K.)    </entryFree> <br>\
+<b>ادخرهُ</b>               1     <br>\
+                     ادخرهُ<br>\
+                     ادخره<br>\
+                     ادخره<br>\
+                     ادخرة<br>\
+                     ٱدخر<br>\
+                     ٱدخره<br>\
+                  <i>He</i> (God, A, or a man, Msb) <i>rendered him abject, mean, contemptible,</i> or <i>despicable.</i> (S, A, Msb, K.)    </entryFree> <br>\
+<b>ادّخر</b>               1     <br>\
+                     ادّخر<br>\
+                     ادخر<br>\
+                     ادخر<br>\
+                     ٱدخر<br>\
+                  : see art. ذخر.    </entryFree> <br>\
+<b>دَاخِرٌ</b>               1     <br>\
+                     دَاخِرٌ<br>\
+                     داخر<br>\
+                  , applied to a man, <i>Abject, mean, contemptible,</i> or <i>despicable.</i> (S, TA.)    </entryFree> <br>\
+<b>مُدَّخِرٌ</b>               1     <br>\
+                     مُدَّخِرٌ<br>\
+                     مدخر<br>\
+                  : see art. ذخر.   </entryFree> <br>\
+' } );

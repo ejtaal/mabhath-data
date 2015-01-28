@@ -1,0 +1,36 @@
+load_data( { book: 'll_nvd', text: 'حنأ1<br>\
+حَنَأَ, aor.<br>\
+حَنَاَ, It (a place) became green, and<br>\
+tangled, or luxuriant, or abundant and dense, in<br>\
+its herbage, or plants. (K.)<br>\
+-A2-  حَنَأَتْ يَدَهَا: see<br>\
+2. ―<br>\
+-b2-  حَنَأَهَا He lay with her. (K.)<br>\
+2<br>\
+حنّأ, inf. n. تَحْنِىْءٌ and تَحْنِئَةٌ He dyed (AZ,<br>\
+S, K) his head, (AZ, TA,) or his beard, (S,) with<br>\
+حِنَّآء: (AZ, S, K:) and حنّأت يَدَهَا She (a woman) dyed her hand therewith; as also ↓ حَنَأَتْهَا,<br>\
+aor.<br>\
+حَنَاَ. (Msb.)<br>\
+5<br>\
+تحنّأ It (his head, or his beard,) was dyed<br>\
+with حِنَّآء (AHn, K.)<br>\
+حِنَّآءٌ [A certain plant] well known; (S, K;)<br>\
+[the Lawsonia inermis, or Egyptian privet;]<br>\
+used for dyeing the extremities [i. e. the hands and<br>\
+feet and head]: (TA:) [in the present day, the<br>\
+plant itself is called ثَمَرُ الحِنَّآءِ, (vulgo تَمَرحِنَّا,)<br>\
+and its leaves, used for dyeing the hands &amp;c., are<br>\
+called حِنَّآء:] accord. to some, it is the pl. of حِنَّآءَةٌ;<br>\
+[or rather a coll. gen. n., of which حنّآءة is the<br>\
+n. un.;] but it is generally asserted that حنّآءة<br>\
+is a more special word than حنّآء, [as in the S and<br>\
+Msb,] and not the sing. of the latter: (TA:) pl.<br>\
+حُنْآنٌ. (K.) حُنَّآنٌ is said to be an anomalous pl.<br>\
+of حنّآء; or a dial. var. of the latter, and not a pl.:<br>\
+(TA:) and حِنَّانٌ is a dial. var. of حِنَّآءٌ. (Fr, Th,<br>\
+TA in art. حن.)<br>\
+حِنَّائِىٌّ A seller of حِنَّآء: pl. حِنَّائِيُّونَ. (K.)<br>\
+أَخْضَرُ حَانِئٌ Very green; intensely green. (K,<br>\
+TA.)<br>\
+' } );

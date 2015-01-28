@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>مهو</em>            1                  مهو<br>\
+<b>مَهْوٌ</b>               1     <br>\
+                     مَهْوٌ<br>\
+                     ذ<br>\
+                  , applied to a sword, <i>Thin edged:</i> see an ex. voce خَشِيبَةٌ. ―         -b2-  سَلْحٌ مَهْوٌ <br>\
+                  <i>Thin excrement.</i> (Skr in Carm. Huds. p. 15.)    </entryFree> <br>\
+<b>مَهًا</b>               1     <br>\
+                     مَهًا<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>Front teeth</i> (ثَغْرٌ) <i>that are clean, white, and lustrous</i> (<i>having much</i> <br>\
+                  ما=ء): so in a verse of El-Aashà [cited voce رَفَّ]. (TA.)    </entryFree> <br>\
+<b>مُمَهَّى</b>               1     <br>\
+                     مُمَهَّى<br>\
+                     ذ<br>\
+                   Beverage, or wine, (شَرَاب,) <i>mixed with much water.</i> (IAar, in TA, art. حنذ.)   </entryFree> <br>\
+' } );

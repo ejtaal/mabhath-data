@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'تلى1<br>\
+تَلَيْتُهُ: see تَلَوْتُهُ.<br>\
+تَلِىٌّ &amp;c.: see art. تلو.<br>\
+' } );

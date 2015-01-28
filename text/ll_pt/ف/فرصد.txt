@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>فرصد</em>            1                  فرصد<br>\
+<b>فِرْصِدٌ</b>               1     <br>\
+                     فِرْصِدٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      فِرْصِيْدٌ The <i>stones of raisins</i> and <i>of grapes;</i> (M, O, L, K;) as also ↓ <br>\
+      فِرْصَادٌ. (M, L, K.)    </entryFree> <br>\
+<b>فِرْصَادٌ</b>               1     <br>\
+                     فِرْصَادٌ<br>\
+                     ذ<br>\
+                   The [<i>mulberry called</i>] تُوت [q. v.]: (AO, AHn, O, Msb:) or the [<i>tree called</i>] تُوت: or <i>its fruit:</i> (M, K:) or the <i>red</i> <br>\
+                  توت: (S, Msb:) [or, accord. to Zeyn el-&#39;Attár, the <i>sweet and white mulberry:</i> so says Golius: see تُوتٌ:] Lth says that it is <i>a well-known tree;</i> that the people of ElBasrah call the tree thus, and call its fruit تُوتٌ: (T, O, * Msb:) and by فِرْصَادٌ the lawyers mean the <i>tree that bears the</i> [<i>fruit called</i>] تُوت. (Msb.) ―         -b2-  Also <i>A red dye;</i> (K:) or <i>redness.</i> (M, L.) ―         -b3-  See also فِرْصِدٌ.    </entryFree> <br>\
+<b>فِرْصِيدٌ</b>               1     <br>\
+                     فِرْصِيدٌ<br>\
+                     ذ<br>\
+                  : see فِرْصِدٌ.   </entryFree> <br>\
+' } );

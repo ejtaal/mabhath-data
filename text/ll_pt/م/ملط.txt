@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>ملط</em>            1                  ملط<br>\
+<b>مَلِطَ</b>               1     <br>\
+                     مَلِطَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَلَطَ<br>\
+                  , (K,) inf. n. مَلَطٌ (S, K) and  <br>\
+                  مُلْطَةٌ, (K,) <i>He</i> (a man) <i>had little, scanty,</i> or <i>thin, hair upon the sides of his face,</i> or <i>of his cheeks:</i> (S [which indicates that it is like مَرِطَ:]) or <i>had no hair upon his body,</i> (K, TA,) <i>but only upon his head and beard.</i> (TA.)       -A2-  See also 4.    </entryFree> <br>\
+<b>اَمْلَطَتْ</b>               1     <br>\
+                     اَمْلَطَتْ<br>\
+                     ذ<br>\
+                  , (S,) or املطت جَنِينَهَا, (K.) <i>She</i> (a camel) <i>cast her fœtus</i> (S, K) <i>before it had hair growing upon it;</i> (S;) <i>without any hair upon it:</i> (K:) [like اَمْرَطَتْهُ] and اُمُّهُ ↓ <br>\
+      مَلَطَتْهُ, (K,) aor.      <br>\
+                     مَلُطَ<br>\
+                  , (TA,) <i>she brought it forth in an imperfect state.</i> (K.) ―         -b2-  اَمْلَطَ [perhaps a mistake for اَبْلَطَ] <i>He became poor, needy,</i> or <i>indigent;</i> like اَمْلَصَ. [TA, art. ملص.]    </entryFree> <br>\
+<b>تملّط</b>               1     <br>\
+                     تملّط<br>\
+                     ذ<br>\
+                  <i>It</i> (an arrow) <i>was,</i> or <i>became, without feathers upon it.</i> (K.) ―         -b2-  <i>It</i> [a thing] <i>was,</i> or <i>became, made,</i> or <i>rendered, smooth;</i> syn. تملّص. (Sgh, K.)    </entryFree> <br>\
+<b>امتلطهُ</b>               1     <br>\
+                     امتلطهُ<br>\
+                     ذ<br>\
+                  <i>He seized it, took it hastily,</i> or <i>snatched it unawares,;</i> (Sgh, K;) like امترطهُ. (TA.)    </entryFree> <br>\
+<b>مِلَاطٌ</b>               1     <br>\
+                     مِلَاطٌ<br>\
+                     ذ<br>\
+                   [<i>gypsum</i>]: see شِيدٌ. ―         -b2-  <i>The shoulderblade;</i> syn. كَتِفٌ: (TA, art. سرح:) or <i>the humerus,</i> or <i>upper bone, of the arm;</i> syn. عَضُدٌ. (T, ibid.) of a camel. (ISh, ibid.)    </entryFree> <br>\
+<b>مَلِيطٌ</b>               1     <br>\
+                     مَلِيطٌ<br>\
+                     ذ<br>\
+                   The fœtus of a camel <i>having as yet no hair grown upon it:</i> (S, K:) or <i>that is cast prematurely;</i> as also مَلِيصٌ. (K, TA, in art. ملص.) ―         -b2-  Also, <i>A lamb</i> or <i>kid:</i> or <i>one just born.</i> (TA.) ―         -b3-  See also what next follows.    </entryFree> <br>\
+<b>اَمْلَطُ</b>               1     <br>\
+                     اَمْلَطُ<br>\
+                     ذ<br>\
+                   A man <i>having little,</i> or <i>scanty,</i> or <i>thin, hair upon the sides of his face,</i> or <i>of his cheeks;</i> like اَمْرَطُ: (S:) or <i>having no hair upon his body,</i> (Lth, K,) <i>except the head and beard.</i> (Lth.) ―         -b2-  An arrow <i>of which the feathers have fallen off;</i> like اَمْرَطُ: (S:) or an arrow <i>having no feathers upon it;</i> as also ↓ <br>\
+      مَلِيطٌ. (K.)    </entryFree> <br>\
+<b>مُمْلِطٌ</b>               1     <br>\
+                     مُمْلِطٌ<br>\
+                     ذ<br>\
+                   [like مُمْرِطٌ] A she-camel <i>casting her fœtus without any hair upon it:</i> pl. مَمَالِيطُ, (K, TA,) with ى. (TA.)    </entryFree> <br>\
+<b>مِمْلَاطٌ</b>               1     <br>\
+                     مِمْلَاطٌ<br>\
+                     ذ<br>\
+                   [like مِمْرَاطٌ] A she-camel <i>that usually casts her fœtus without any hair upon it.</i> (K.)   </entryFree> <br>\
+' } );

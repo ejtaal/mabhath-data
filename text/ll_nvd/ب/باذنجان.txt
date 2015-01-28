@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'باذنجانبَاذَنْجَانٌ, [or بَاذِنْجَانٌ, commonly pronounced<br>\
+in the present day بَادنْجَان and بَيْدِنْجَان and<br>\
+بِيدِنْجَان, from the Persian بَادِنْكَانْ,] a word of<br>\
+well-known meaning, often mentioned by the<br>\
+author of the K, [in explaining the words أَنَبٌ<br>\
+and حَدَقٌ and مَغْدٌ and وَغْدٌ,] but not in its proper<br>\
+place in the lexicon. (TA.) [It signifies The<br>\
+solanum melongena, mad-apple, or egg-plant; both<br>\
+the black, distinguished by the epithet أَسْوَدُ, and<br>\
+the white, distinguished by the epithet أَبْيَضُ.<br>\
+And the solanum lycopersicum, or solanum Aethiopicum; also called love-apple, and so by the<br>\
+Arabs, تُفَّاحٌ الحُبٌِّ; and golden apple, تُفَّاحٌ ذَهَبِىٌّ;<br>\
+and tomato; and distinguished from the former<br>\
+species by the epithet أَحْمَرُ, and by the appellation<br>\
+باذنجان قُوطَة.] ―<br>\
+-b2-  [بَاذَنْجَانٌ تِرْيَاقِىٌّ Xanthium.]<br>\
+' } );

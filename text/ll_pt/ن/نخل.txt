@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>نخل</em>            1                  نخل<br>\
+                     نَخڤلَ<br>\
+                   see 8.    </entryFree> <br>\
+                     تَنَخَّلَ<br>\
+                   see 8.    </entryFree> <br>\
+<b>اِنْنَخَلَهُ</b>               1     <br>\
+                     اِنْنَخَلَهُ<br>\
+                     ذ<br>\
+                  <i>He cleared it</i> [or <i>sifted it</i>]; as also  ↓ <br>\
+      نَخَلَهُ and ↓ <br>\
+      تَنَخَّلَهُ: (K [see سَفْسَفَهُ]:) or <i>he took the best of it</i> (S, Msb) <i>to the utmost:</i> (S:) or <i>he chose the best of it for himself.</i> (TA.)    </entryFree> <br>\
+<b>نَخْلِىٌّ</b>               1     <br>\
+                     نَخْلِىٌّ<br>\
+                     ذ<br>\
+                  <i>A cultivator of palm-trees:</i> see عَطَلٌ.    </entryFree> <br>\
+<b>نُخَالٌ</b>               1     <br>\
+                     نُخَالٌ<br>\
+                     ذ<br>\
+                  <i>Bran.</i>   <br>\
+' } );

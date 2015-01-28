@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'وسقوَسْقٌ<br>\
+A camel&#39;s load: see وِقْرٌ.<br>\
+وَسِيقَةٌ<br>\
+A mob of driven cattle: see سَيِّقَهٌ and<br>\
+مِعْتَاقٌ.<br>\
+' } );

@@ -1,0 +1,92 @@
+load_data( { book: 'll_nvd', text: 'هلك1<br>\
+هَلَكَ<br>\
+, inf. n. هَلَاكٌ &amp;c., (S, K, &amp;c.,) He, or<br>\
+it, perished, came to nought, came to an end,<br>\
+passed away, was not, was no more, or became<br>\
+non-existent or annihilated: (KL, PS in explanation of هَلاَكٌ, &amp;c.:) or fell: or became in a<br>\
+bad, or corrupt, state; became corrupted, vitiated,<br>\
+marred, or spoiled: or went away, no one knew<br>\
+whither: (Mgh in explanation of هَلاَكٌ:) he died.<br>\
+(K.) ―<br>\
+-b2-  هَلَكَتْ أَرْضُهُ<br>\
+His land had its herbage<br>\
+dried up by drought: see جَرِبَ.<br>\
+2<br>\
+وَادِى تُهُلِّكَ<br>\
+I. q.<br>\
+تُضُلِّل<br>\
+4<br>\
+أَهْلَكَهُ<br>\
+He destroyed, made an end of, or<br>\
+caused to perish or come to an end, made away,<br>\
+did away with, or brought to nought, him, or it;<br>\
+took away his life.<br>\
+6<br>\
+تَهَالَكَ غَمًّا<br>\
+[app. He perished gradually by<br>\
+reason of grief.] (A, art. سوس: see 1 in that<br>\
+art.) ―<br>\
+-b2-  تَهَالَكَ عَلَيْهِ<br>\
+He was vehemently eager for<br>\
+it. (TA.) ―<br>\
+-b3-  تَهَالَكَ فِيهِ<br>\
+He strove, laboured,<br>\
+toiled, or exerted himself, in it, namely in<br>\
+running; as also ↓ اِهْتَلَكَ. (TA.) He strove,<br>\
+laboured, toiled, or exerted himself, and<br>\
+hastened, in it, namely an affair; as also<br>\
+↓ استهلك فيه. (TA.) ―<br>\
+-b4-  تَهَالَكَتْ said of a<br>\
+she-camel, i. q.<br>\
+عَشِقَتْ [She vehemently desired<br>\
+the stallion]. (AA, TA in art. عشق.)<br>\
+8<br>\
+إِهْتَلَكَ<br>\
+see 6.<br>\
+10<br>\
+اِسْتَهْلَكَ<br>\
+properly signifies He sought, or<br>\
+courted, destruction; like اِسْتَمَاتَ: see مُسْتَمِيتَ:<br>\
+and see an ex. voce شَرْشَرَةٌ. ―<br>\
+-b2-  اِسْتَهْلَكَ فِى كَذَا<br>\
+He (a man) distressed, troubled, or fatigued,<br>\
+himself in, or respecting, such a thing. (TA.)<br>\
+See also 6.<br>\
+هَلَكَةٌ<br>\
+The drying up of the plants, or herbage.<br>\
+(AHn, TA.) See هَلاَكٌ.<br>\
+هَلاَكٌ<br>\
+[Perdition; destruction; a state of<br>\
+perdition or destruction: a lost state;] death.<br>\
+(K.) ―<br>\
+-b2-  هَلاَكٌ and ↓ هَلَكَةٌ are syn. (S, Msb, K.)<br>\
+―<br>\
+-b3-  اِرْتَبَكَ فِى اِنْهَلَكَاتِ<br>\
+He stuck fast in cases of<br>\
+perdition: see art. ربك.<br>\
+هَالِكٌ<br>\
+Dead; or dying. (Bd, Jel in xii. 85)<br>\
+―<br>\
+-b2-  هَالِكٌ sometimes means Subject to perish; as<br>\
+in the Kur, xxviii. last verse.<br>\
+مَهْلُكٌ<br>\
+: see أَلُوكٌ.<br>\
+مَهْلِكٌ<br>\
+Death: see a verse cited voce سَهُوٌ.<br>\
+مَهْلَِكَةٌ<br>\
+A cause of perdition, or of death. (TA<br>\
+in art. بخل.) ―<br>\
+-b2-  (tropical:)  A place of perdition or<br>\
+death: and a desert: (KL:) or a [desert, or<br>\
+such as is termed] مَفَازَة; (S, K, TA;) because<br>\
+persons perish therein; (Z, TA;) or because<br>\
+it urges [or leads] to perdition. (TA.) See<br>\
+جَادَّةٌ.<br>\
+هُوَ مُسْتَهْلِكٌ إِلَى كَذَا<br>\
+i. q.<br>\
+مُسْتَمِيتٌ [q. v.].<br>\
+(TA, art. موت, from the A.) ―<br>\
+-b2-  مُسْتَهْلِكُ الوِرْدِ A<br>\
+road that destroys him who seeks water, by<br>\
+reason of its far extent. (O.)<br>\
+' } );

@@ -1,0 +1,72 @@
+load_data( { book: 'll_nvd', text: 'قيا1<br>\
+قَآءَ, aor. يَقِىْءُ, inf. n. قَىْءٌ, (S, Mgh, O, Msb,<br>\
+K, &amp;c.,) He vomited (Mgh, TA) what he had<br>\
+eaten. (Mgh, Msb, TA.) ―<br>\
+-b2-  [Hence one says,]<br>\
+قَآءَ نَفْسَهُ [lit. He vomited his soul], meaning (assumed tropical:)  he<br>\
+died: like لَفَظَ نَفْسَهُ. (A, TA.) And قَآءَتِ الطَّعْنَةُ<br>\
+الدَّمَ (assumed tropical:)  [The wound made with a spear or the like<br>\
+spouted forth the blood]. (A, TA.) And ثَوْبٌ<br>\
+يَقِىْءُ الصِبْغَ (assumed tropical:)  A garment that is saturated with the<br>\
+dye. (S, A, O, K.) And تَقِىْءُ الأَرْضُ أَفْلَاذَ كَبِدِهَا<br>\
+[lit. The earth will vomit the pieces of her liver],<br>\
+meaning (tropical:)  the earth will cast forth upon her surface her treasures. (TA, from a trad.) And<br>\
+قَآءَتِ الأَرْضُ أُكُلَهَا [lit. the earth vomited her food],<br>\
+meaning (tropical:)  the earth disclosed her herbage and her<br>\
+treasures. (TA, from a saying of &#39;Áïsheh.) And<br>\
+الأَرْضُ تَقِىْءُ النَّدَى (tropical:)  [The earth exudes the moisture]. (TA.)<br>\
+2<br>\
+قيّأهُ He, (a man, S, Mgh, O, Msb,) or it,<br>\
+(medicine, K,) caused him to vomit; (S, * Mgh,<br>\
+O, * Msb, K; *) and ↓ اقآءهُ signifies the same.<br>\
+(S, O, K.)<br>\
+4<br>\
+أَقْيَاَ see what immediately precedes.<br>\
+5<br>\
+تقيّأ He constrained himself to vomit; (S,<br>\
+Mgh, O, Msb, TA;) and he vomited intentionally.<br>\
+(TA.) See also 10, in two places.<br>\
+-A2-  And<br>\
+تَقَيَّأَتْ She addressed, or presented, herself to her<br>\
+husband, and threw herself upon him: (K:) or,<br>\
+accord. to Lth, she affected languor, or languidness, to her husband, and threw herself upon him:<br>\
+but in the opinion of Az, the verb with ق in this<br>\
+sense is a mistranscription, and is correctly تفيّأت,<br>\
+[q. v.,] with ف. (TA.)<br>\
+10<br>\
+استقآء, (S, Mgh, Msb, K, TA,) or استقيَأَ,<br>\
+(thus in the O, in which the former is not mentioned, [and it seems from an ex. in a verse there<br>\
+cited that this may be a dial. var.,]) and ↓ تقيّأ,<br>\
+(S, Mgh, O, Msb, K, TA,) He constrained himself to vomit: (S, Mgh, O, Msb: [see the latter<br>\
+verb above: in the K neither is expl.:]) or the<br>\
+former is an instance of اِسْتَفْعَلَ from القَىْءُ [i. e.<br>\
+it signifies he desired to vomit]: and ↓ the latter<br>\
+signifies more than the former, i. e. he made what<br>\
+was in the جَوْف [here meaning stomach] to come<br>\
+forth, intentionally. (TA.) It is said in a trad.,<br>\
+لَوْ يَعْلَمُ الشَّارِبُ قَائِمًا مَا ذَا عَلَيْهِ لَاسْتَقَآءَ مَا شَرِبَ [If<br>\
+the person drinking in a standing posture knew<br>\
+what would be the effect upon him, he would desire<br>\
+to vomit what he had drunk: for the drinking<br>\
+and the eating in that posture are forbidden in<br>\
+more than one trad.]. (TA.)<br>\
+قَىْءٌ originally an inf. n.: then applied to signify<br>\
+Vomit; i. e. vomited food. (Msb.) It is said<br>\
+in a trad., الرَّاجِعُ فِى هِبَتِهِ كَالرَّاجِعِ فِى قَيْئِهِ [He<br>\
+who takes back his gift is like him who swallows<br>\
+back his vomit]. (S.)<br>\
+قُيَآءٌ a subst. (K, TA) similar to عُطَاسٌ and دُوَارٌ<br>\
+[and many other words of the same form applied<br>\
+to maladies; indicating that it signifies A complaint that causes much, or frequent, vomiting].<br>\
+(TA.) One says, بِهِ قُيَآءٌ, meaning [In him is a<br>\
+complaint in consequence of which] he is vomiting<br>\
+much, or frequently. (ISk, S, O.)<br>\
+قَيُوْءٌ One (a man, IAar) who vomits much, or<br>\
+frequently; as also قَيُوٌّ; (IAar, K, TA;) the<br>\
+latter formed from the former, like مَقْرُوٌّ from<br>\
+مَقْرُوْءٌ. (L, TA.) ―<br>\
+-b2-  Also, [دَوَآءٌ قَيُوْءٌ,] Medicine<br>\
+that is taken to cause vomiting; (ISk, S, O;)<br>\
+and so ↓ دَوَآءٌ مُقَيِّئٌ (K, TA) and ↓ مُقِىْءٌ. (TA.)<br>\
+مُقِىْءٌ and مُقَيِّئٌ: see what immediately precedes.<br>\
+' } );

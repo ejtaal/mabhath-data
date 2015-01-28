@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>شبق</em>            1                  شبق<br>\
+<b>شَبِقَ</b>               1     <br>\
+                     شَبِقَ<br>\
+                     ذ<br>\
+                  , (S, M, O, Msb, K,) aor.      <br>\
+                     شَبَقَ<br>\
+                  , (Msb, K,) inf. n. شَبَقٌ, (S, M, Mgh, O, Msb,) <i>He was,</i> or <i>became, affected with vehement lust,</i> or <i>carnal desire:</i> (S, M, Mgh, O, Msb, K:) said of a man; (M, Msb;) and in like manner one says of a woman; and also, sometimes, of other than human beings. (M, TA.) ―         -b2-  And شَبِقَ مِنَ اللَّحْمِ <br>\
+                  <i>He suffered indigestion,</i> or <i>turned away with disgust, from flesh-meat.</i> (Ibn-&#39;Abbád, O, K.)    </entryFree> <br>\
+<b>شَبِقٌ</b>               1     <br>\
+                     شَبِقٌ<br>\
+                     ذ<br>\
+                  <i>Affected with vehement lust</i> or <i>carnal desire;</i> (Msb, TA;) applied to a man; and sometimes to other than man: (Msb:) fem. with ة. (Msb, TA.)    </entryFree> <br>\
+<b>شُوبَقٌ</b>               1     <br>\
+                     شُوبَقٌ<br>\
+                     ذ<br>\
+                  <i>A certain wooden implement of the baker,</i> or <i>maker of bread;</i> (K;) <i>a baker&#39;s rolling-pin;</i> (MA;) [thus called, and also شُوبَك, in the present day;] an arabicized word, (Ibn-&#39;Abbád, O, K,) from [the Pers.] جُوبَه [or چُوبَهْ, or from the Pers. شُوبَجْ]. (TA.) [See also كَرِيبْ.]   </entryFree> <br>\
+' } );

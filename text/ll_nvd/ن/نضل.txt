@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'نضل1<br>\
+نَضَلَهُ<br>\
+He overcame him, or surpassed him,<br>\
+in shooting. (S, Msb, K.)<br>\
+3<br>\
+نَاضَلَهُ<br>\
+He vied, competed, or contended for<br>\
+superiority, with him in shooting. (S, Msb, K.)<br>\
+―<br>\
+-b2-  نَاضَلَهُ, inf. n. تِنْصَالٌ: see بَيَّنَهَ. ―<br>\
+-b3-  نَاضَل عَنْهُ<br>\
+(tropical:)  He defended him, pleaded in defence of him,<br>\
+or repelled from him; (K, TA;) spoke in his<br>\
+defence, excusing him; (S, TA;) defended him,<br>\
+&amp;c., as above; (S;) contended, or pleaded, in<br>\
+his defence; (TA;) defended him; and contended in his defence. (Msb.)<br>\
+' } );

@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>حلقم</em>            1                  حلقم<br>\
+<b>حَلْقَمَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     حَلْقَمَهُ<br>\
+                     حلقمه<br>\
+                     حلقمة<br>\
+                  , (S, K,) inf. n. حَلْقَمَةٌ, (TA,) <i>He cut,</i> or <i>severed, his</i> <br>\
+                  حُلْقُوم [or <i>windpipe</i>]; (S, K;) accord. to the K, meaning <i>his</i> <br>\
+                  حَلْق; but see the explanations of حلقوم below: (TA:) <i>he slaughtered him in the manner termed</i> <br>\
+                  ذَبْحٌ. (TA.) [Mentioned in the Msb in art. حلق.]       -A2-  حَلْقَمَ <br>\
+                  الرُّطَبُ [or rather البُسْرُ] (assumed tropical:)  <i>The dates began to be ripe next the base;</i> as also حَلْقَنَ, in which the ن is asserted by Yaakoob to be a substitute for م. (TA.)    </entryFree> <br>\
+<b>اْحْلَنْقَمَ</b>               1     <br>\
+                     <i>Q. 3</i>        <br>\
+                     اْحْلَنْقَمَ<br>\
+                     ذ<br>\
+                  <i>He left,</i> or <i>forsook, food;</i> expl. by تَرَكَ الطَّعَامَ. (K.)    </entryFree> <br>\
+<b>حُلْقُومٌ</b>               1     <br>\
+                     حُلْقُومٌ<br>\
+                     حلقوم<br>\
+                   The <i>windpipe,</i> or <i>passage of the breath;</i> (T, Mgh, TA;) by the cutting, or severing, of which, and of the مَرِىْء [or œsophagus] and وَدَجَانِ [or two external jugular veins], the lawful slaughtering of an animal is completed: (T, TA:) accord. to the S and K, [and to the Msb, in art. حلق, though it is there correctly and fully explained as meaning the <i>windpipe,</i>] <i>i. q.</i> <br>\
+                  حَلْقٌ: but in the M it is explained [agreeably with general usage] as the <i>passage of the breath, and of coughing, from the</i> <br>\
+                  جَوْف [or <i>chest</i>]; <i>consisting of a series of successively-superimposed cartilages</i> (اَطْبَاقُ غَرَاضِيفَ), <i>before which, in the exterior of the throat, is nothing but skin; having its lower extremity in the lungs, and its upper extremity at the root of the tongue: from it pass forth the breath and the wind and the saliva and the voice:</i> [see also another explanation voce حَلْقٌ, from Zj in his “ Khalk el-Insán, ” and the Msb:] pl. حَلَاقِمُ and حَلَاقِيمُ. (TA.) Accord. to some, the م is augmentative: accord. to others, radical. (TA.) ―         -b2-  [Hence,] they say, نَزَلْنَا مِثْلَ حُلْقُومِ <br>\
+                  النَّعَامَةِ, meaning (assumed tropical:)  <i>We alighted in a strait,</i> or <i>confined, place.</i> (TA.) And حَلَاقِيمُ البِلَادِ means (assumed tropical:)  <i>The strait,</i> or <i>confined, parts of the country,</i> or <i>of countries:</i> (Mgh:) or <i>the lateral,</i> and <i>extreme, parts thereof.</i> (TA.)    </entryFree> <br>\
+<b>حُلْقَامةٌ</b>               1     <br>\
+                     حُلْقَامةٌ<br>\
+                     حلقامه<br>\
+                     حلقامة<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>رُطَبٌ مُحَلْقِمٌ</b>               1     <br>\
+                     رُطَبٌ مُحَلْقِمٌ<br>\
+                     رطب محلقم<br>\
+                   [or rather بُسْرٌ محلقم] (assumed tropical:)  <i>Dates that have begun to be ripe next the base;</i> (K;) [or <i>that have become ripe to the extent of two thirds;</i> (see حُلْقَانٌ in art. حلق;)] as also مُحَلْقِنٌ: (TA:) and ↓ <br>\
+      رُطَبَةٌ حُلْقَامَةٌ [or rather بُسْرَةٌ حلقامة (in the CK حَلْقَامَةٌ)] is applied to a single date in this sense. (K, * TA.)   </entryFree> <br>\
+' } );

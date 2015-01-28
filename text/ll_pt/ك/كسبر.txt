@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>كسبر</em>            1                  كسبر<br>\
+<b>كُسْبُرَةٌ</b>               1     <br>\
+                     كُسْبُرَةٌ<br>\
+                     ذ<br>\
+                   and كُسْبَرَةٌ The <i>plant of the</i> <br>\
+                  جُلْجُلَان; (K;) [i. e., the <i>plant of which the fruit,</i> or <i>produce, is called</i> <br>\
+                  الجُلْجُلَان;] dial. forms of كُزْبُرَةٌ and كُزْبَرَةٌ, q. v. (TA.)   </entryFree> <br>\
+' } );

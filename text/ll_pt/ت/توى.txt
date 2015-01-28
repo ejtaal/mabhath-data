@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>توى</em>            1                  توى<br>\
+<b>تَوِىBَ</b>               1     <br>\
+                     تَوِىBَ<br>\
+                     تويB<br>\
+                  , (T, S, M, Mgh, K,) in the dial. of Teiyi تَوَى, (AAF, M,) aor.     <br>\
+                     تَوَىَ<br>\
+                  , (S, K,) inf. n. تَوًى, (T, S, M, Mgh, K,) <i>It perished; came to an end;</i> (S, Mgh, K;) <i>it passed away</i> (T, M, Mgh) <i>unhoped for:</i> (T, M:) said of property. (T, S, M, Mgh.) Hence the saying, in a trad., لَا تَوَى عَلَى مَالِ اْمْرِيٍ مُسْلِمٍ [<i>There shall be no perishing of the property of a man that is a Muslim</i>]: applied to the case of a man to whom is transferred the responsibility for a debt, and who dies insolvent; meaning that the responsibility shall return to him who transferred it. (Mgh.)    </entryFree> <br>\
+<b>اتواهُ</b>               1     <br>\
+                     اتواهُ<br>\
+                     اتواه<br>\
+                     اتواة<br>\
+                  <i>He</i> (God, M, K, or another, S) <i>destroyed it, made an end of it,</i> or <i>caused it to perish</i> or <i>come to an end;</i> (S, K;) <i>he made it away;</i> (T, M;) namely, property, (S, M,) or his property. (T.)       -A2-  See also art. تو.     <br>\
+<b>تَوٍ</b>               1     <br>\
+                     تَوٍ<br>\
+                     تو<br>\
+                   (S M, Mgh, K) and ↓ <br>\
+      تَاوٍ (Mgh) <i>Perishing; coming to an end;</i> (S, Mgh, K;) <i>passing away</i> (M, Mgh) <i>unhoped for:</i> (M:) applied to property. (S, M, Mgh.)    </entryFree> <br>\
+<b>تَوَا=ءٌ</b>               1     <br>\
+                     تَوَا=ءٌ<br>\
+                     توا=ء<br>\
+                  <i>A perishing</i> of property; its <i>coming to an end;</i> or <i>becoming lost.</i> (TA.)    </entryFree> <br>\
+<b>تَوِىٌّ</b>               1     <br>\
+                     تَوِىٌّ<br>\
+                     تو<br>\
+                     توى<br>\
+                     توي<br>\
+                  <i>Remaining, staying, dwelling,</i> or <i>abiding:</i> (IAar, M, K:) but ثَوِىٌّ, with ث, is better known in this sense. (M.)    </entryFree> <br>\
+<b>تَاوٍ</b>               1     <br>\
+                     تَاوٍ<br>\
+                     اوى<br>\
+                     تاو<br>\
+                     تاو<br>\
+                  : see تَوٍ.    </entryFree> <br>\
+<b>الشُّحُّ مَتْوَاةٌ</b>               1     <br>\
+                     الشُّحُّ مَتْوَاةٌ<br>\
+                     ذ<br>\
+                   [<i>Niggardliness,</i> or <i>avarice, is a cause of perishing</i> to property]: a saying of the Arabs, meaning, if thou withhold property from its right disposal, God will make it to pass away in that which is not its right disposal. (M.)   </entryFree> <br>\
+' } );

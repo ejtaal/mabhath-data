@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;شاهين&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  شاهين<br>\
+&lt;entryFree id=&quot;n21513&quot; key=&quot;شَاهِينٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَاهِينٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain well-known bird,&lt;/i&gt; (K, TA,) &lt;i&gt;of those that prey;&lt;/i&gt; (Msb, * TA;) it is &lt;i&gt;of the birds called&lt;/i&gt; <br>\
+                  صُقُور [pl. of صَقْرٌ], as are also the بَاشَق and the بَازِى and the زُرَّق and the يُوْيُو; (AHát in “ the Book of Birds, ” TA in art. بشق;) [said by Golius, on the authority of Dmr, to be the &lt;i&gt;white falcon;&lt;/i&gt; and to this bird it is perhaps applied by some of the Arabs; but some of them, I believe most of them, and I believe also that they do so most properly, apply this appellation in the present day to the &lt;i&gt;gerfalcon,&lt;/i&gt; which is not wholly white; and some, to the &lt;i&gt;falcon gentle:&lt;/i&gt;] the word is [of Pers. origin,] not genuine Arabio; (TA;) it is an arabicized word: the pl. is شَوَاهِينُ, and sometimes شَيَاهِينُ is used in its stead, formed by substituion [of ى for و] for facilitating the pronunciation. (Msb.) ―         -b2-  Also (assumed tropical:)  &lt;i&gt;The&lt;/i&gt; <br>\
+                  عَمُود [meaning &lt;i&gt;beam&lt;/i&gt;] &lt;i&gt;of the balance.&lt;/i&gt; (K.) ―         -b3-  And &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  صَنْجَةٌ [which signifies &lt;i&gt;A balance,&lt;/i&gt; and &lt;i&gt;a steelyard,&lt;/i&gt; and &lt;i&gt;a weight of a balance&lt;/i&gt;]: so in the Expos. of the “ Muwatta. ” (MF, TA.)   &lt;/entryFree&gt; <br>\
+' } );

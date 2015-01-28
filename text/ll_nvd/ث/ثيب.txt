@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ثيبFor several words mentioned in the M and K<br>\
+as belonging to this art., see art. ثوب.<br>\
+' } );

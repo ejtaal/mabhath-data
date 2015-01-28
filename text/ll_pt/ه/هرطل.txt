@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هرطل</em>            1                  هرطل<br>\
+<b>هِرْطَالٌ</b>               1     <br>\
+                     هِرْطَالٌ<br>\
+                     ذ<br>\
+                  <i>A large long-bodied</i> man. (Az, in TA, voce هِرْدَبَّةٌ.)   </entryFree> <br>\
+' } );

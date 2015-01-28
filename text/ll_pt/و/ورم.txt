@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>ورم</em>            1                  ورم<br>\
+<b>وَرِمَ اَنْفُهُ</b>               1     <br>\
+                     وَرِمَ اَنْفُهُ<br>\
+                     ذ<br>\
+                   (tropical:)  <i>He became enraged:</i> see اَنْفٌ.    </entryFree> <br>\
+<b>اَوْرَمَهُ</b>               1     <br>\
+                     اَوْرَمَهُ<br>\
+                     ذ<br>\
+                   meaning اَرْغَمَهُ <br>\
+                  <i>He angered him:</i> see شَرَاهُ.    </entryFree> <br>\
+<b>وَرَمٌ</b>               1     <br>\
+                     وَرَمٌ<br>\
+                     ذ<br>\
+                  , a coll. gen. n., <i>Swellings, or tumours:</i> n. un. with ة. The n. un. occurs in the TA, art. جدر, &amp;amp;c.   </entryFree> <br>\
+' } );

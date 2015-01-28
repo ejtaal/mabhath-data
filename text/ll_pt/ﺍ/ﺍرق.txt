@@ -1,0 +1,68 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ارق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ارق<br>\
+&lt;entryFree id=&quot;n604&quot; key=&quot;اَرِقَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرِقَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرَقَ<br>\
+                  &lt;/form&gt;, inf. n. اَرَقٌ, (T, S, K, &amp;amp;c.,) &lt;i&gt;He was sleepless,&lt;/i&gt; or &lt;i&gt;wakeful,&lt;/i&gt; or &lt;i&gt;sleep departed from him,&lt;/i&gt; (JK, T,) &lt;i&gt;by night;&lt;/i&gt; (T;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  سَهِرَ (S, Mgh, Sgh, K) بِاللَّيْلِ; (Sgh, K;) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  سَهِدَ: (S, and L and K in art. سهد:) or &lt;i&gt;sleep departed from him by reason of a malady,&lt;/i&gt; or &lt;i&gt;a distracting accident&lt;/i&gt; or &lt;i&gt;event:&lt;/i&gt; (M:) or &lt;i&gt;he was sleepless&lt;/i&gt; or &lt;i&gt;wakeful&lt;/i&gt; (سَهِرَ) &lt;i&gt;in a case that was disliked,&lt;/i&gt; or &lt;i&gt;evil;&lt;/i&gt; <br>\
+                  سَهِرَ having a general sense: (M, F:) or &lt;i&gt;he shut his eyes one while and opened them another,&lt;/i&gt; [&lt;i&gt;being unable to continue sleeping,&lt;/i&gt;] whereas سَهِرَ signifies he did not sleep at all: (Deewán of the Hudhalees, cited by Freytag in his Lex.:) or اَرَقٌ signifies &lt;i&gt;sleeplessness,&lt;/i&gt; or &lt;i&gt;wakefulness, engendered by anxiety and grief:&lt;/i&gt; (Har p. 162:) and ↓ <br>\
+      ايترق [with the disjunctive alif written اِيتَرَقَ] signifies the same as اَرِقَ. (S, K.)       -A2-  اُرِقَتِ النَّخْلَةُ [and اُرِقَ الزّرْعُ] &lt;i&gt;The palm-tree&lt;/i&gt; [and &lt;i&gt;the seed-produce&lt;/i&gt;] &lt;i&gt;was affected,&lt;/i&gt; or &lt;i&gt;smitten, by what is termed&lt;/i&gt; <br>\
+                  اَرَقَان. (JK.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n605&quot; key=&quot;اَرَّقَنِى كَذَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَرَّقَنِى كَذَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (JK, S, K, *) inf. n. تَاْرِيقٌ. (S, Mgh,) &lt;i&gt;Such a thing rendered me,&lt;/i&gt; or &lt;i&gt;caused me to be, sleepless&lt;/i&gt; or &lt;i&gt;wakeful;&lt;/i&gt; (JK, S, Mgh, * K; *) as also ↓ <br>\
+      ا=رقنى, (K,) inf. n. اـِيرَاقٌ. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=رَقَ<br>\
+                  &lt;/form&gt; see 2.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَرَقَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n606&quot; key=&quot;اَرْقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرَقَانٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n607&quot; key=&quot;اَرُقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرُقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n608&quot; key=&quot;اَرِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِقٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Sleepless&lt;/i&gt; or &lt;i&gt;wakeful&lt;/i&gt; (S, K) &lt;i&gt;by night&lt;/i&gt; (K) [&lt;i&gt;by reason of a malady,&lt;/i&gt; or &lt;i&gt;a distracting accident&lt;/i&gt; or &lt;i&gt;event,&lt;/i&gt; &amp;amp;c. (see 1)]; as also ↓ <br>\
+      ا=رِقٌ (IF, K) and ↓ <br>\
+      اَرُقٌ and ↓ <br>\
+      اُرُقٌ; or the last signifies &lt;i&gt;habitually so.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n609&quot; key=&quot;اُرُقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُرُقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n610&quot; key=&quot;اَرَقَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرَقَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (JK, S, K) and اَرُقَانٌ and اَرْقَانٌ and اـِرِقَانٌ and اـِرْقَانٌ and ↓ <br>\
+      اَرْقٌ and ↓ <br>\
+      اُرَاقٌ (K) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  يَرَقَانٌ; (JK, S, K;) ارَقَانٌ being a dial. var. of this last; (S;) or the hemzeh is a substitute for the ى; (L;) and يرقان is the word most commonly known; (K;) &lt;i&gt;A blight,&lt;/i&gt; or &lt;i&gt;disease, which affects,&lt;/i&gt; or &lt;i&gt;smites, seed-produce:&lt;/i&gt; (JK, S, K:) and &lt;i&gt;a disease&lt;/i&gt; [namely &lt;i&gt;jaundice&lt;/i&gt;] &lt;i&gt;which affects,&lt;/i&gt; or &lt;i&gt;smites, man,&lt;/i&gt; (S, K,) &lt;i&gt;causing the person to become yellow&lt;/i&gt; [or &lt;i&gt;blackish&lt;/i&gt;]; (TA;) it is &lt;i&gt;a disease which changes the colour of the person excessively to yellowness or blackness, by the flowing of the yellow or black humour to the skin and the part next thereto, without putridity.&lt;/i&gt; (Ibn-Seenà [Avicenna], K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n611&quot; key=&quot;اُرَاقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُرَاقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرَقَانٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n612&quot; key=&quot;ا=رِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=رِقٌ<br>\
+                     ا=رق<br>\
+                  &lt;/form&gt;: see اَرِقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n613&quot; key=&quot;زِرْعٌ مَاْرُوقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     زِرْعٌ مَاْرُوقٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Seed-produce affected,&lt;/i&gt; or &lt;i&gt;smitten, with a blight,&lt;/i&gt; or &lt;i&gt;disease,&lt;/i&gt; (JK, S, K,) &lt;i&gt;such as is termed&lt;/i&gt; <br>\
+                  اَرَقَان; (JK, S;) as also مَيْرُوقٌ [from يَرَقَان]: (S, K:) and نَخْلَةٌ مَاْرُوقَةٌ <br>\
+                  &lt;i&gt;a palm-tree affected,&lt;/i&gt; or &lt;i&gt;smitten, therewith.&lt;/i&gt; (JK, TA.)   &lt;/entryFree&gt; <br>\
+' } );

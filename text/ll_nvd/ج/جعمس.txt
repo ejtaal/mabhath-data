@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'جعمسQ. accord. to the K, but Q. Q. accord. to Sgh,<br>\
+جَعْمَسَ: see art. جعس.<br>\
+جُعْمُوسٌ: see art. جعس.<br>\
+جُعَامِسٌ: see art. جعس.<br>\
+مُجَعْمِسٌ: see art. جعس.<br>\
+' } );

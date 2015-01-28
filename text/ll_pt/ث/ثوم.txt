@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>ثوم</em>            1                  ثوم<br>\
+<b>ثُومٌ</b>               1     <br>\
+                     ثُومٌ<br>\
+                     ثوم<br>\
+                   [<i>Garlic;</i> the <i>allium sativum</i> of Linn.;] <i>a kind of</i> <br>\
+                  بَقْل, (AHn, M,) <i>well known,</i> (S,) <i>abundant in the country of the Arabs;</i> (AHn, M;) <i>of two sorts; wild,</i> (AHn, M, K,) and <i>growing in the cultivated tracts,</i> (AHn, M,) or <i>in gardens:</i> (K:) <i>the former sort is called</i> <br>\
+                  ثُومُ الحَيَّةِ, <i>and is the stronger,</i> (K,) <i>and is brought from Syria:</i> (TA:) <i>each of them is heating, expels flatulence and worms, and is strongly diuretic; and this is the most excellent</i> [<i>property</i>] <i>that is therein: it is good for obliviousness, and asthma, and chronic cough, and</i> [<i>pain in</i>] <i>the spleen and the flank, and colic, and sciatica,</i> &amp;amp;c.: (K: [in which are added many other supposed uses:]) n. un. with ة. (AHn, M, K.) ―         -b2-  Hence, as being likened thereto, (M,) ثُومَةٌ signifies also (tropical:) The <i>pommel of a sword.</i> (S, M, K.) Whence, اُمُّ ثُوْمَةَ, said to be the name of a certain woman, may mean (tropical:) <i>A sword.</i> (M.) ―         -b3-  [Hence, also,] ثُوْمَةُ ذَكَرِ رَجُلٍ (assumed tropical:)  [<i>The glans of a man&#39;s penis</i>]. (Az, in TA voce طُرْثُوثٌ.) ―         -b4-  الثُّومَةُ also signifies <i>The channel</i> [or <i>oblong depression</i>] <i>between the two mustaches, against the partition between the two nostrils;</i> (IAar, TA;) <i>i. q.</i> <br>\
+                  الخُنْعُبَةُ, &amp;amp;c. (TA in art. خنعب.)       -A2-  ثُومٌ is also a dial. var. of فُومٌ, meaning <i>Wheat.</i> (Lh, T, M.) And the latter is used in the [ordinary] sense of the former. (T.)   </entryFree> <br>\
+' } );

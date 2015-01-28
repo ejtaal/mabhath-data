@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>ملق</em>            1                  ملق<br>\
+<b>مَلَقَهُ</b>               1     <br>\
+                     مَلَقَهُ<br>\
+                     ذ<br>\
+                  <i>He flayed him</i> with a whip: like سَلَقَهُ. (TA in art. سلق.)    </entryFree> <br>\
+<b>تَمَلَّقَهُ</b>               1     <br>\
+                     تَمَلَّقَهُ<br>\
+                     ذ<br>\
+                  , (S, K,) and تَمَلَّقَ لَهُ, (S, Msb, K,) inf. n. تَمَلُّقٌ and تِمِلَّاقٌ, [like تِحِمَّالٌ and تِكِلَّامٌ, not تَمْلَاقٌ as in the CK,] <i>He behaved in a loving,</i> or <i>an affectionate, and a blandishing,</i> or <i>coaxing, manner to him.</i> (S, Msb, * K.) See a verse cited in art. رضو, conj. 5.    </entryFree> <br>\
+<b>مَلَقِيَّةٌ</b>               1     <br>\
+                     مَلَقِيَّةٌ<br>\
+                     ذ<br>\
+                   [A <i>swiftly-running mare</i>]. See عَبَّرَ بِهِ. مَلَّاقٌ <br>\
+                  <i>Vehement in journeying, or in his pace; i. q.</i> <br>\
+                  مَلَّاخٌ. (TA, voce مَلَّاخٌ.)    </entryFree> <br>\
+<b>مِمْلَقَةٌ</b>               1     <br>\
+                     مِمْلَقَةٌ<br>\
+                     ذ<br>\
+                  <i>A harrow:</i> see مَلَّسَ.   </entryFree> <br>\
+' } );

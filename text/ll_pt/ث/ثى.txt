@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>ثى</em>            1                  ثى<br>\
+<b>٢</b>               1     <br>\
+                     ثَيَّيْتُ ثَا=ءٌ حَسَنَةً<br>\
+                     ذ and        <br>\
+      حَسَنًا<br>\
+                   [<i>I made,</i> or <i>wrote, a beautiful</i> <br>\
+                  ث]. (TA in باب الالف الليّنة.)    </entryFree> <br>\
+<b>ثِيَّةٌ</b>               1     <br>\
+                     ثِيَّةٌ<br>\
+                     مثوى<br>\
+                     مثوي<br>\
+                   The <i>lodging-place,</i> or <i>nightly resting-place, of sheep</i> or <i>goats</i> [<i>when they have gone away to a distance in the pasture,</i> or <i>around the tents</i> or <i>houses</i>]; (IB, K;) a dial. var. of ثَايَةٌ [q. v. in art. ثوى]. (IB, TA.)    </entryFree> <br>\
+<b>ثَاىٌ</b>               1     <br>\
+                     ثَاىٌ<br>\
+                     ثاى<br>\
+                     ثاي<br>\
+                  : see art ثوى.    </entryFree> <br>\
+<b>ثَاىٌ</b>               1     <br>\
+                     ثَاىٌ<br>\
+                     ثاى<br>\
+                     ثاي<br>\
+                  : see art ثوى.    </entryFree> <br>\
+<b>ثَيَوِىٌّ</b>               1     <br>\
+                     ثَيَوِىٌّ<br>\
+                     ثيوى<br>\
+                     ثيوي<br>\
+                  : see ثَايِىٌّ, in art. ثوا.   </entryFree> <br>\
+' } );

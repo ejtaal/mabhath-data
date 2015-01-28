@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>بندر</em>            1                  بندر<br>\
+<b>بَنْدَرٌ</b>               1     <br>\
+                     بَنْدَرٌ<br>\
+                     بندر<br>\
+                     ندر<br>\
+                   [app. from the Persian بَنْدَرْ,] <i>A place where ships or boats anchor or moor; a port</i> [or <i>port-town:</i> pl. بَنَادِرُ]. (K, TA.)   </entryFree> <br>\
+' } );

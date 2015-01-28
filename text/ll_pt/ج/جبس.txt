@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>جبس</em>            1                  جبس<br>\
+<b>جِبْسٌ</b>               1     <br>\
+                     جِبْسٌ<br>\
+                     جبس<br>\
+                   [<i>Gypsum;</i>] <i>i. q.</i> <br>\
+                  جِصٌّ, or جَصٌّ, (K,) <i>with which one builds.</i> (Kr, TA. *)    </entryFree> <br>\
+<b>جَبَّاسَةٌ</b>               1     <br>\
+                     جَبَّاسَةٌ<br>\
+                     جباسه<br>\
+                     جباسة<br>\
+                   The <i>place of</i> <br>\
+                  جِبْس; [i. e., <i>in which gypsum is found,</i> or <i>prepared;</i>] as also مجبَّسة [i. e. ↓ <br>\
+      مُجَبَّسَةٌ, or, more probably, it is a mistranscription, for ↓ <br>\
+      مَجْبَسَةٌ, like مَحْصَاةٌ (originally مَحَصَيَةٌ) and مَبْقَلَةٌ &amp;amp;c.]. (TA.)    </entryFree> <br>\
+<b>مَجْبَسَةٌ</b>               1     <br>\
+                     مَجْبَسَةٌ<br>\
+                     مجبسه<br>\
+                     مجبسة<br>\
+                   or مُجَبَّسَةٌ: see جَبَّاسَةٌ.   </entryFree> <br>\
+' } );

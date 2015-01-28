@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هلجب</em>            1                  هلجب<br>\
+<b>هِلْجَابٌ</b>               1     <br>\
+                     هِلْجَابٌ<br>\
+                     ذ<br>\
+                  <i>A large cooking-pot.</i> (K.)   </entryFree> <br>\
+' } );

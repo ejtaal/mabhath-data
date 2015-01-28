@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>عندا</em>            1                  عندا<br>\
+<b>عِنْدَاْوٌ</b>               1     <br>\
+                     عِنْدَاْوٌ<br>\
+                     ذ<br>\
+                  <i>Bold,</i> or <i>daring,</i> (IDrd, O, K,) <i>to attempt,</i> or <i>undertake, things;</i> applied to a man; (IDrd, O;) as also ↓ <br>\
+      عِنْدَاْوَةٌ: (K:) which latter is [also] applied to a she-camel, as meaning <i>bold,</i> or <i>fearless.</i> (IAar, Sh.)    </entryFree> <br>\
+<b>عِنْدَاْوَةٌ</b>               1     <br>\
+                     عِنْدَاْوَةٌ<br>\
+                     ذ<br>\
+                  <i>Difficulty,</i> and <i>perverseness,</i> (Z, K, TA,) in a man: (Z, TA:) and <i>roughness,</i> or <i>hardness, of behaviour:</i> (K:) and <i>opposition,</i> and <i>wrongdoing:</i> (L, TA:) and <i>deceit,</i> or <i>guile:</i> (K, TA:) and pronounced by some without ء. (TA.) One says, تَحْتَ طِرِّيقَتِكَ لَعِنْدَاْوَةٌ <br>\
+                  <i>Beneath thy silence is deceit,</i> or <i>guile:</i> (K:) or <i>difficulty,</i> and <i>perverseness:</i> (Z, TA:) or <i>opposition,</i> and <i>wrongdoing.</i> (L, TA.) [See also طِرِّيقَةٌ.] ―         -b2-  And (accord. to Lh, TA) العِنْدَاْوَةُ signifies اَدْهَى الدَّوَاهِى [app. meaning <i>The greatest of calamities</i>]. (K, TA.)       -A2-  See also the former paragraph. [Accord. to some, the radical letters of عِنْدَاْوٌ and عِنْدَاَوَةٌ are عدا: accord. to some, عدو: and accord. to some, عندا.]   </entryFree> <br>\
+' } );

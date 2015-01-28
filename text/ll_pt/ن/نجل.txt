@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>نجل</em>            1                  نجل<br>\
+<b>طَعْنَةٌ نَجْلَا=ءُ</b>               1     <br>\
+                     طَعْنَةٌ نَجْلَا=ءُ<br>\
+                     ذ<br>\
+                  <i>A wide wound with a spear or the like.</i> (TA.) See an ex. in a verse cited voce رُبَّ. ―         -b2-  عَيْنٌ نَجْلَا=ءُ <br>\
+                  <i>A wide eye;</i> pl. عُيُونٌ نُجْلٌ. (TA.) See a verse in art. فرغ (conj. 4).    </entryFree> <br>\
+<b>مِنْجَلٌ</b>               1     <br>\
+                     مِنْجَلٌ<br>\
+                     ذ<br>\
+                  <i>A reaping-hook.</i> (Mgh; and S, K, voce مِحْصَدٌ.) <i>It has a toothed,</i> or <i>serrated, edge:</i> (A, art. حز; and K, art. اشر:) <i>and is sometimes plain.</i> (K, voce مِحَشٌّ, and M and L, voce سِنٌّ.) See مِخْلَبٌ and دَرَهْرَهَةٌ. ―         -b2-  [<i>A reaping-hook:</i> or <i>a pruning-hook:</i> sometimes signifying the latter:] <i>an iron implement, having teeth, with which seed-produce is cut:</i> or <i>one with which the wood,</i> or <i>branch, is cut off from the tree, and cast down,</i> or <i>away.</i> (TA.)    </entryFree> <br>\
+<b>نَجيلٌ</b>               1     <br>\
+                     نَجيلٌ<br>\
+                     ذ<br>\
+                  : see طَحْمَا=ءُ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,80 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;امل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  امل<br>\
+&lt;entryFree id=&quot;n1246&quot; key=&quot;اَمَلَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَمَلَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, &amp;amp;c.,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمُلَ<br>\
+                  &lt;/form&gt;, (T, S, M, Msb,) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمِلَ<br>\
+                  &lt;/form&gt;, (so in the M accord. to the TT,) inf. n. اَمَلٌ, (T, S, M, &amp;amp;c.,) this being the inf. n. accord. to IJ, [as distinguished from اَمْلٌ and اـِمْلٌ,] (M,) &lt;i&gt;He hoped it;&lt;/i&gt; or &lt;i&gt;hoped for it;&lt;/i&gt; syn. رَجَاهُ; (S, * M, * [see اَمَلٌ below,] K;) meaning, what was good for him; (S;) as also ↓ <br>\
+      امَلهُ, (T, * M, K,) inf. n. تَاميلٌ: (S, T:) or &lt;i&gt;he expected it;&lt;/i&gt; [or &lt;i&gt;had a distant,&lt;/i&gt; or &lt;i&gt;remote, expectation of it;&lt;/i&gt; for] it is mostly used in relation to that of which the occurrence, or coming to pass, is deemed remote; as in the saying of Zuheyr, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اَرْجُو وَا=مُلُ اَنْ تَدْنُو مَوَدَّتُهَا<br>\
+                  &lt;/quote&gt; [&lt;i&gt;I hope, and have a distant expectation, that her love may approach&lt;/i&gt;]: he who has determined upon a journey to a distant town or country says, اَمَلْتُ الوُصُولَ [&lt;i&gt;I have formed an expectation,&lt;/i&gt; or &lt;i&gt;a distant expectation, of arriving&lt;/i&gt;]; but he does not say, طَمِعْتُ until he has become near thereto; for طَمَعٌ relates only to that of which the occurrence, or coming to pass, is [deemed] near: and الرَّجَا=ءُ is between الاَمَلُ and الطَّمَعُ; for it is sometimes attended with fear that the thing expected may not come to pass, wherefore it is used in the sense of fear; and when the fear is strong, [lest the thing expected should not come to pass, it denotes distant expectation, and thus] it is used in the sense of الاَمَلُ; whence the usage in the verse of Zuheyr; but otherwise it is used in the sense of الطَّمَعُ: (Msb:) or الرجاء signifies the expectation of benefit, or advantage, from some preceding cause or means: so says El-Harállee: or it is properly syn. with الاَمَلُ; and in common conventional language, means the clinging of the heart to the coming to pass of a future desired event: so says Ibn-El-Kemál: or, accord. to Er-Rághib, an opinion requiring the coming to pass of an event in which will be a cause of happiness: (TA:) and ↓ <br>\
+      امّلهُ, inf. n. تَاْمِيلٌ, signifies &lt;i&gt;he expected it much;&lt;/i&gt; and is more commonly used than the form without teshdeed. (Msb.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَمَّلَ<br>\
+                  &lt;/form&gt; see 1, in two places.       -A2-  تَاْمِيلٌ also signifies The &lt;i&gt;inducing&lt;/i&gt; [one] &lt;i&gt;to hope&lt;/i&gt; or &lt;i&gt;expect.&lt;/i&gt; (KL.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1247&quot; key=&quot;تاملالشَّىءِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاملالشَّىءِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;He considered the thing,&lt;/i&gt; or &lt;i&gt;studied it,&lt;/i&gt; or &lt;i&gt;contemplated it, carefully,&lt;/i&gt; or &lt;i&gt;attentively, with investigation;&lt;/i&gt;] &lt;i&gt;he looked at the thing endeavouring to obtain a clear knowledge of it:&lt;/i&gt; (S:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تَدَبَّرَهُ; (Msb, TA;) i. e., (Msb,) &lt;i&gt;he looked into the thing, considered it, examined it,&lt;/i&gt; or &lt;i&gt;studied it, repeatedly,&lt;/i&gt; (Msb, TA,) &lt;i&gt;in order to know it,&lt;/i&gt; or &lt;i&gt;until he knew it,&lt;/i&gt; (Msb,) or &lt;i&gt;in order to ascertain its real case:&lt;/i&gt; (TA:) or &lt;i&gt;he looked intently,&lt;/i&gt; or &lt;i&gt;hardly, at,&lt;/i&gt; or &lt;i&gt;towards, the thing:&lt;/i&gt; (TA:) or تامّل signifies &lt;i&gt;he acted,&lt;/i&gt; or &lt;i&gt;proceeded, deliberately, not hastily,&lt;/i&gt; syn. تَثَبَّتَ, (T, M,) or &lt;i&gt;he paused,&lt;/i&gt; or &lt;i&gt;waited,&lt;/i&gt; syn. تَلَبِّثَ, (K,) &lt;i&gt;in an affair,&lt;/i&gt; and &lt;i&gt;in consideration;&lt;/i&gt; (M, K, TA;) &lt;i&gt;he paused, and acted with deliberation.&lt;/i&gt; (TA.) فِيهِ تَاَمُّلٌ [meaning &lt;i&gt;It requires careful,&lt;/i&gt; or &lt;i&gt;attentive, consideration,&lt;/i&gt; or simply &lt;i&gt;it requires consideration,&lt;/i&gt;] is a phrase [of frequent occurrence in the larger lexicons &amp;amp;c., used to imply doubt, and also to insinuate politely that the words to which it relates are false, or wrong,] like فِيهِ نَظَرٌ [q. v.]. (MF in art. صفح.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1248&quot; key=&quot;اَمْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمَلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1249&quot; key=&quot;اـِمْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمْلٌ<br>\
+                     امال<br>\
+                     امل<br>\
+                     املى<br>\
+                     امل<br>\
+                     مال<br>\
+                     مل<br>\
+                     ملا<br>\
+                     ملى<br>\
+                     آمل<br>\
+                  &lt;/form&gt;: see اَمَلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1250&quot; key=&quot;اَمَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, S, M, Msb, K) and ↓ <br>\
+      اـٍِمْلٌ (IJ, M, K) and ↓ <br>\
+      اَمْلٌ, (K,) the first of which is an inf. n., accord. to IJ, (M,) and is the form commonly known, (TA,) &lt;i&gt;Hope;&lt;/i&gt; syn. رَجَا=ءٌ: (S, M, K:) or &lt;i&gt;expectation;&lt;/i&gt; [or &lt;i&gt;distant,&lt;/i&gt; or &lt;i&gt;remote, expectation;&lt;/i&gt; being] mostly used in relation to that of which the occurrence, or coming to pass, is deemed remote: applied also to &lt;i&gt;an affection of the heart from some good to be attained:&lt;/i&gt; (Msb, TA: [in both of which are further explanations, for which see 1:]) ↓ <br>\
+      اـِمْلَةٌ, also, signifies the same as اَمَلٌ, &lt;pb n=&quot;100&quot; TEIform=&quot;pb&quot;/&gt; (S, M, K,) or تَاـْمِيلٌ; (Lh, M, K;) [or &lt;i&gt;a manner of hoping&lt;/i&gt; or &lt;i&gt;expecting;&lt;/i&gt; for J adds,] and it is like جِلْسَةٌ and رِكْبَةٌ: (S:) and ↓ <br>\
+      مُوَمَّلٌ, likewise, signifies the same as اـَمَلٌ: (TA:) the pl. of امَلٌ and اـَمْلٌ and اَمْلٌ is ا=مَلٌ. (M, * K, TA.) You say, خَابَ سَعْيُهُ وَاَمَلُهُ [&lt;i&gt;His labour, and his hope,&lt;/i&gt; or &lt;i&gt;expectation, were disappointed, frustrated,&lt;/i&gt; or &lt;i&gt;balked&lt;/i&gt;]. (A and TA in art. خيب.) And ↓ <br>\
+      مَا اَطْوَلَ اـَمْلَتَهُ <br>\
+                  &lt;i&gt;How far-reaching is his hope,&lt;/i&gt; or &lt;i&gt;expectation!&lt;/i&gt; (T, * S, M, K:) [or &lt;i&gt;his manner of hoping&lt;/i&gt; or &lt;i&gt;expecting!&lt;/i&gt;] from الاَمَلُ. (T.) ―         -b2-  Also, the first, &lt;i&gt;An object of hope.&lt;/i&gt; (Jel in xviii. 44.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1251&quot; key=&quot;اـِمْلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمْلَةٌ<br>\
+                     امل<br>\
+                     املى<br>\
+                     امله<br>\
+                     امله<br>\
+                     املة<br>\
+                     ملا<br>\
+                     ملى<br>\
+                     آمل<br>\
+                     آمله<br>\
+                     آملة<br>\
+                  &lt;/form&gt;: see اَمَلٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1252&quot; key=&quot;ا=مِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=مِلٌ<br>\
+                     ا=مل<br>\
+                  &lt;/form&gt; act. part. n. of 1; [&lt;i&gt;Hoping:&lt;/i&gt; or] &lt;i&gt;expecting.&lt;/i&gt; (Msb.) [See 1.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1253&quot; key=&quot;مُوَمَّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَمَّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;whose beneficence may be hoped for.&lt;/i&gt; (Har p. 183.) ―         -b2-  المُوَمَّلُ <br>\
+                  &lt;i&gt;The eighth of the horses that are started together in a race;&lt;/i&gt; (K;) these being ten: (TA:) or &lt;i&gt;the ninth thereof:&lt;/i&gt; (TA in explanation of السُّكَيْتُ:) or &lt;i&gt;the seventh thereof.&lt;/i&gt; (Ham p. 46.)       -A2-  See also اَمَلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1254&quot; key=&quot;مَاْمُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْمُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; pass. part. n. of 1; [&lt;i&gt;Hoped:&lt;/i&gt; or] &lt;i&gt;expected.&lt;/i&gt; (Msb.)   &lt;/entryFree&gt; <br>\
+' } );

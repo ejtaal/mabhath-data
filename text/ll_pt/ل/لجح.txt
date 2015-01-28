@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>لجح</em>            1                  لجح<br>\
+<b>لُجْحٌ</b>               1     <br>\
+                     لُجْحٌ<br>\
+                     ذ<br>\
+                  <i>A thing in the lower part of a well, and of a valley, like what is called a</i> <br>\
+                  دَحْل: (S, K:) or, <i>in the lower part of a well, and of a mountain, like a</i> <br>\
+                  نَقْب: (L:) originally لُحْجٌ, from which it is formed by transposition: (T:) pl. اَلْجَاحٌ. (L.)   </entryFree> <br>\
+            <div2 n=&quot;ljd: see lj*&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لجد: see لجذ<br>\
+' } );

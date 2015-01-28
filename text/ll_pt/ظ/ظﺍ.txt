@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ظا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ظا<br>\
+&lt;entryFree id=&quot;n27493&quot; key=&quot;ظَاْظَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     ظَاْظَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. ظَاْظَاَةٌ (L, K) and ظَاْظَا=ءٌ, (K, TA, [in the CK ظَاْواء,]) the latter allowable in the case of a R. Q. verb, as in the instances of وَسْوَاسٌ and the like, (MF, TA,) [accord. to some, but وسواس and the like are generally held to be inf. ns. if with kesr, and simple substs. if with fet-h,] &lt;i&gt;He&lt;/i&gt; (a goat) &lt;i&gt;made a&lt;/i&gt; [&lt;i&gt;rattling&lt;/i&gt;] &lt;i&gt;sound,&lt;/i&gt; or &lt;i&gt;cry, when excited by lust,&lt;/i&gt; or &lt;i&gt;at rutting-time;&lt;/i&gt; syn. نَبَّ. (AA, L, K.) ―         -b2-  And ظاظا, (M, K,) inf. n. ظَاْظَاَةٌ, (M,) &lt;i&gt;He&lt;/i&gt; (a person whose upper lip was slit, M, K, and one whose fore teeth were broken at the roots, K, * TA) &lt;i&gt;spoke unintelligible speech, and with a nasal sound.&lt;/i&gt; (M, K.)   &lt;/entryFree&gt; <br>\
+' } );

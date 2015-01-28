@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>وص</em>            1                  وص<br>\
+<b>وصّصت</b>               1     <br>\
+                     وصّصت<br>\
+                     ذ<br>\
+                  , (AZ, TA,) or ↓ <br>\
+      وَصْوَصَتْ, (M,) <i>She</i> (a girl, M,) <i>put on,</i> or <i>wore, her</i> <br>\
+                  نِقَاب [a kind of <i>fare-veil</i>], (AZ, TA,) or <i>her</i> <br>\
+                  قِنَاع [a kind of <i>head-covering</i>], (M,) <i>in such a manner that nothing was seen but her eyes:</i> (AZ, M, TA:) تَوْصِيصٌ and تَرْصِيصٌ signify the same: (AZ, S, CK:) the former is of the dial. of Temeem: (AZ, TA:) or both the above verbs signify <i>she</i> (a woman) <i>contracted her</i> <br>\
+                  نقاب (K, TA) <i>so that it shewed nothing but her eyes:</i> (TA:) or وصوصت signifies <i>she</i> (a woman) <i>put her</i> <br>\
+                  نقاب <br>\
+                  <i>near to her eyes.</i> (Fr. TA.)    </entryFree> <br>\
+<b>وَصْوَصَتْ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     وَصْوَصَتْ<br>\
+                     ذ<br>\
+                  : see 2, throughout. ―         -b2-  وَصْوَصَ <br>\
+                  <i>He looked through a hole such as is termed</i> <br>\
+                  وَصْوَصٌ. (K.) ―         -b3-  <i>He</i> (a whelp) <i>opened his eyes.</i> (K.)       -A2-  وَصْوَصَ عَيْنَهُ <br>\
+                  <i>He</i> (a man) <i>contracted his eye in order to obtain a sure view.</i> (IDrd, M.)    </entryFree> <br>\
+<b>وَصَايِصٌ</b>               1     <br>\
+                     وَصَايِصٌ<br>\
+                     ذ<br>\
+                  : see وَصْوَصٌ.    </entryFree> <br>\
+<b>وَصْوَصٌ</b>               1     <br>\
+                     وَصْوَصٌ<br>\
+                     ذ<br>\
+                  , (S,) or ↓ <br>\
+      وَصْوَاصٌ, (M,) or both, (K,) the latter on the authority of Lth, (TA,) <i>A hole in a veil</i> or <i>the like, of the size of the eye, through which one looks.</i> (S, M, K.) And وَصَاوِصُ, [the pl. of the former, or of either,] The <i>narrow parts of the apertures for the eyes of a</i> <br>\
+                  بُرْقُع [a kind of <i>woman&#39;s face-veil</i>]; (M, TA;) as also وَصَايِصُ. (TA.)    </entryFree> <br>\
+<b>وَصْوَاصٌ</b>               1     <br>\
+                     وَصْوَاصٌ<br>\
+                     ذ<br>\
+                  : see وَصْوَصٌ. ―         -b2-  <i>A small</i> <br>\
+                  بُرْقُع [a kind of <i>face-veil</i>]: (S, M:) pl وَصَاوِصُ (S,) signifying <i>small</i> <br>\
+                  بَرَاقِع <br>\
+                  <i>worn by a girl.</i> (K.) ―         -b3-  بُرْقُعٌ وَصْوَاصٌ <br>\
+                  <i>A</i> <br>\
+                  بُرْقُع <br>\
+                  <i>that is contracted</i> [<i>so as to show nothing but the eyes</i>]. (M, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'بيصوَقَعَ فِى حَاصِ بَاصِ, and حَيْصَ بَيْصَ, &amp;c.: see<br>\
+art. حيص<br>\
+بَيْصٌ Difficulty; straitness; (IAar, K;) as<br>\
+also ↓ بِيصٌ. (K.) See above.<br>\
+بِيصٌ: see above.<br>\
+' } );

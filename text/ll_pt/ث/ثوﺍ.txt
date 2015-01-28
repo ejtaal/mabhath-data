@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ثوا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ثوا<br>\
+&lt;entryFree id=&quot;n4792&quot; key=&quot;اَثَاْتُهُ بِسَهْمٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَثَاْتُهُ بِسَهْمٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S in art. ثا, [incorrectly there mentioned, as is said by IB and others and in the K,] and K in the present art. and in art. اثا,) inf. n. اـِثَا=ءَةٌ, (S,) &lt;i&gt;I shot him,&lt;/i&gt; or &lt;i&gt;shot at him, with an arrow;&lt;/i&gt; (S, K;) so says AA, and Ks says the like; (S;) as also اَثَوْتُهُ, and, accord. to As, اَثَيْتُهُ, (TA in art. ثا,) which is a strange word. (TA in the present art.) It is mentioned in the present art. by Sgh; (K in art. اثا;) and this is its proper place; (TA in the present art.;) the verb, accord. to him, being like اَقَامَ: (TA in art. اثا:) A &#39;Obeyd has mentioned it in art. اثا, (K in that art.,) as also Az; holding the verb to be like صَنَعَ; and so IKtt and IKoot assert it to be. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4793&quot; key=&quot;ثَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثَا=ءٌ<br>\
+                     ثا=ء<br>\
+                  &lt;i&gt;The name of the letter&lt;/i&gt; <br>\
+                  ث, q. v.; as also ثَا: pl. [of the former,] ثَا=ءَاتٌ; and [of the latter,] اَثْوَا=ءٌ and اَثْيَا=ءٌ. (TA in باب الالف الليّنة.)       -A2-  It also stands for ثَنَا=ءٌ, and ثَوَابٌ, and the like. (Idem ubi suprà.)       -A3-  Also The &lt;i&gt;best&lt;/i&gt; of anything; as, for instance, of wheat, and of flesh-meat, and of sugar. (Kh, TA ubi suprà.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4794&quot; key=&quot;ثَايِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثَايِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ثَاوِىٌّ rel. ns. of ثَا=ءٌ and ثَا, the names of the letter ث; as also ثَيَوِىٌّ. (TA ubi suprà.)   &lt;/entryFree&gt; <br>\
+' } );

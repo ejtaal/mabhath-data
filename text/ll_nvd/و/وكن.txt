@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'وكنوُكْنَةٌ<br>\
+certainly means, sometimes, A bird&#39;s<br>\
+nest, wherever it be: see an ex. in the first<br>\
+paragraph of art. غدو.<br>\
+' } );

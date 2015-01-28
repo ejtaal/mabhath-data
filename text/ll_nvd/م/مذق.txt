@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'مذقمَذُوقٌ<br>\
+Milk mixed with much water. (TA in<br>\
+art. فضخ.)<br>\
+مَمْذُوقُ النِّقْىِ<br>\
+[Having diluted marrow]; applied to a soft, or flabby, camel. (O, K in art.<br>\
+رك.) ―<br>\
+-b2-  عَيْشٌ مَمْذُوقٌ (assumed tropical:)  A turbid life. (TA in<br>\
+art. سمر.)<br>\
+' } );

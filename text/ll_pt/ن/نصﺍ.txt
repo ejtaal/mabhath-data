@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نصا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نصا<br>\
+&lt;entryFree id=&quot;n39855&quot; key=&quot;نَصَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَصَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَصَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He took him by the&lt;/i&gt; <br>\
+                  نَاصِيَة [or &lt;i&gt;forelock&lt;/i&gt;]: (K:) from نَاصِيَةٌ: and therefore regarded by some as improperly mentioned in the K in this art. (MF.) ―         -b2-  نَصَاَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَصَاَ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. نَصْءٌ, (TA,) &lt;i&gt;He chid,&lt;/i&gt; (a camel, TA, or she-camel, S); syn. زَجَرَ. (AZ, S, K.) ―         -b3-  نَصَاَ, (S, K,) inf. n. as above, (TA,) &lt;i&gt;He raised,&lt;/i&gt; or &lt;i&gt;elevated,&lt;/i&gt; a thing: (Ks, AA, S, K:) dial. form of نَصَّ. (S.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>موم</em>            1                  موم<br>\
+<b>مُومٌ</b>               1     <br>\
+                     مُومٌ<br>\
+                     ذ<br>\
+                   [<i>Pleurisy</i>]: see بِرْسَامٌ and حُمَامٌ.    </entryFree> <br>\
+<b>مَوَامِى</b>               1     <br>\
+                     مَوَامِى<br>\
+                     ذ<br>\
+                  <i>Lands wherein is nothing:</i> see بَلُّوقَةٌ.   </entryFree> <br>\
+' } );

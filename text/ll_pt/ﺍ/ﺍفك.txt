@@ -1,0 +1,106 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;افك&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  افك<br>\
+&lt;entryFree id=&quot;n952&quot; key=&quot;اَفَكَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَفَكَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِكَ<br>\
+                  &lt;/form&gt;, inf. n. اَفْكٌ, (with fet-h, S, TA, its only form, TA, [in the CK اِفْك,]) &lt;i&gt;He changed his,&lt;/i&gt; or &lt;i&gt;its, manner of being,&lt;/i&gt; or &lt;i&gt;state;&lt;/i&gt; (S, K;) and &lt;i&gt;he turned him,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt; (i. e., anything, Msb,) &lt;i&gt;away,&lt;/i&gt; or &lt;i&gt;back;&lt;/i&gt; (S, Msb, K;) عَنِ الشَّىْءِ [&lt;i&gt;from the thing&lt;/i&gt;]; (S;) or عَنْ وَجْهِهِ [&lt;i&gt;from his,&lt;/i&gt; or &lt;i&gt;its, mode,&lt;/i&gt; or &lt;i&gt;manner, of being,&lt;/i&gt; &amp;amp;c.]: (Msb:) so in the Kur xlvi. 21, اَجِيْتَنَا لِتَاْفِكَنَا عَنْ ا=لِهَتِنَا <br>\
+                  &lt;i&gt;Hast thou come to us to turn us away,&lt;/i&gt; or &lt;i&gt;back, from our gods?&lt;/i&gt; (Bd:) or &lt;i&gt;he turned him away,&lt;/i&gt; or &lt;i&gt;back, by lying:&lt;/i&gt; (TA:) or &lt;i&gt;he changed,&lt;/i&gt; or &lt;i&gt;perverted, his judgment,&lt;/i&gt; or &lt;i&gt;opinion:&lt;/i&gt; (K:) or &lt;i&gt;he deceived him,&lt;/i&gt; or &lt;i&gt;beguiled him, and so turned him away,&lt;/i&gt; or &lt;i&gt;back:&lt;/i&gt; and simply &lt;i&gt;he deceived him,&lt;/i&gt; or &lt;i&gt;beguiled him:&lt;/i&gt; and اُفِكَ signifies &lt;i&gt;he was turned from his judgment,&lt;/i&gt; or &lt;i&gt;opinion, by deceit,&lt;/i&gt; or &lt;i&gt;guile.&lt;/i&gt; (TA.) It is said in the Kur [li. 9], يُوْفَكُ عَنْهُ مَنْ <br>\
+                  اُفِكَ, i. e., &lt;i&gt;He will be turned away from it&lt;/i&gt; (namely, the truth,) &lt;i&gt;who is turned away&lt;/i&gt; in the foreknowledge of God: (TA:) or, accord. to Mujáhid, يُوْفَنُ عَنْهُ مَنْ اُفِنَ [&lt;i&gt;he will be weak in intellect and judgment so as to be thereby turned away from it who is weak in intellect and judgment&lt;/i&gt;]. (S, TA.) You say also, اُفِكَ الرَّجُلُ عَنِ <br>\
+                  الخَيْرِ <br>\
+                  &lt;i&gt;The man was turned away,&lt;/i&gt; or &lt;i&gt;back, from good,&lt;/i&gt; or &lt;i&gt;prosperity.&lt;/i&gt; (Sh.) And اَفَكَهُ, (K, TA,) inf. n. as above, (TA,) &lt;i&gt;He forbade him what he wished,&lt;/i&gt; (K, TA,) &lt;i&gt;and turned him away,&lt;/i&gt; or &lt;i&gt;back, from it.&lt;/i&gt; (TA.) ―         -b2-  اَفَكَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِكَ<br>\
+                  &lt;/form&gt;; (Msb, K;) and اَفِكَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفَكَ<br>\
+                  &lt;/form&gt;; (IAar, K;) inf. n. اـِفْكٌ (Msb, K) and اَفْكٌ and اَفَكٌ and اُفُوكٌ; (K;) &lt;i&gt;He lied; uttered a falsehood; said what was untrue;&lt;/i&gt; (Msb, K;) as also ↓ <br>\
+      افّك, (K,) inf. n. تَاْفِيكٌ: (TA:) because a lie is a saying that is turned from its proper way, or mode. (Bd in xxiv. 11.) ―         -b3-  اَفَكَ النَّاسَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِكَ<br>\
+                  &lt;/form&gt;, inf. n. اَفْكٌ, &lt;i&gt;He told the people what was false;&lt;/i&gt; <br>\
+                  اَفَكَ and اَفَكْتُهُ being like كَذَبَ and كَذَبْتُهُ. (Az, TA.) ―         -b4-  اَفَكَ <br>\
+                  فُلَانًا, (K,) inf. n. اَفْكٌ; (TA;) or the verb is ↓ <br>\
+      ا=فَكَ; (so in the printed edition of Bd, xlvi. 27;) &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, made such a one to lie,&lt;/i&gt; or &lt;i&gt;say what was untrue.&lt;/i&gt; (K.) ―         -b5-  اُفِكَ <br>\
+                  &lt;i&gt;He was weak&lt;/i&gt; [&lt;i&gt;as though perverted&lt;/i&gt;] &lt;i&gt;in his intellect and judgment&lt;/i&gt; or &lt;i&gt;opinion.&lt;/i&gt; (K,* TA.) But اَفَكَهُ اْللّٰهُ as meaning &lt;i&gt;God rendered weak his intellect&lt;/i&gt; is not used. (L, TA.) ―         -b6-  (tropical:) &lt;i&gt;It&lt;/i&gt; (a place) &lt;i&gt;was not rained upon, and had no vegetation,&lt;/i&gt; or &lt;i&gt;herbage.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَفَّكَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=فَكَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n953&quot; key=&quot;اْيْتَفَكَتِ البَلْدَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اْيْتَفَكَتِ البَلْدَةُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [written with the disjunctive alif اِيتَفَكَت], (S, K,) بِاَهْلِهَا, (S,) &lt;i&gt;The land,&lt;/i&gt; or &lt;i&gt;district,&lt;/i&gt; or &lt;i&gt;the town,&lt;/i&gt; or &lt;i&gt;the like, was,&lt;/i&gt; or &lt;i&gt;became, overturned,&lt;/i&gt; or &lt;i&gt;subverted,&lt;/i&gt; (S, K,) &lt;i&gt;with its inhabitants:&lt;/i&gt; (S:) as were the towns of the people of Lot. (TA.) ―         -b2-  Hence it is said of El-Basrah, قَدِ اْيْتَفَكَتْ بِاَهْلِهَا مَرَّتَيْنِ, meaning (tropical:) &lt;i&gt;It has been submerged with its inhabitants twice;&lt;/i&gt; as though subverted. (Sh.) ―         -b3-  You say also, اِيتَفَكَتْ تِلْكَ <br>\
+                  الاَرْضُ (tropical:) &lt;i&gt;That land has been burnt up by drought.&lt;/i&gt; (IAar.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n954&quot; key=&quot;اـِفْكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِفْكٌ<br>\
+                     افك<br>\
+                     اـفك<br>\
+                     افك<br>\
+                     فك<br>\
+                     وفى<br>\
+                  &lt;/form&gt; [an inf. n. used as a subst.;] &lt;i&gt;A lie; a falsehood;&lt;/i&gt; (S, TA;) as also ↓ <br>\
+      اَفِيكَةٌ: pl. (of the latter, K) اَفَايِكُ. (S, K.) You say, ↓ <br>\
+      يَا لَلْاَفِيكَةِ, and ↓ <br>\
+      يَا لِلْاَفِيكَةِ; [and ↓ <br>\
+      لَلْاَفَيِّكَةِ, using the dim. form for the purpose of enhancement; i. e. &lt;i&gt;O the lie!&lt;/i&gt; and &lt;i&gt;O the great lie!&lt;/i&gt;] the ل with fet-h denoting calling to aid; and with kesr denoting wonder, as though the meaning were, O man, wonder thou at this great lie. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n955&quot; key=&quot;افكة&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     افكة<br>\
+                     افك<br>\
+                     افكه<br>\
+                     اـفك<br>\
+                     اـفكه<br>\
+                     افكه<br>\
+                     افكة<br>\
+                     فك<br>\
+                     فكه<br>\
+                  &lt;/form&gt; [so in the TA, without any syll. signs; app. either اَفْكَةٌ, an inf. n. of un., or ↓ <br>\
+      ا=فِكَةٌ, like دَاهِيَةٌ;] &lt;i&gt;A punishment sent by God, whereby the dwellings of a people are overturned:&lt;/i&gt; occurring in a trad. relating to the story of the people of Lot. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n956&quot; key=&quot;سَنَةٌ اَفِكَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَنَةٌ اَفِكَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:) &lt;i&gt;A year of drought&lt;/i&gt; or &lt;i&gt;sterility:&lt;/i&gt; (K, &lt;pb n=&quot;70&quot; TEIform=&quot;pb&quot;/&gt; TA:) pl. اَوَافِكُ [contr. to rule, as though the sing. were ↓ <br>\
+      ا=فِكَةٌ]. (Z, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n957&quot; key=&quot;اَفُوكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفُوكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَفَّاكٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n958&quot; key=&quot;اَفِيكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفِيكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One who is &lt;i&gt;turned from his judgment,&lt;/i&gt; or &lt;i&gt;opinion, by deceit,&lt;/i&gt; or &lt;i&gt;guile;&lt;/i&gt; as also ↓ <br>\
+      مَاْفُوكٌ. (K.) ―         -b2-  &lt;i&gt;Lacking strength&lt;/i&gt; or &lt;i&gt;power&lt;/i&gt; or &lt;i&gt;ability, and having little prudence and artifice.&lt;/i&gt; (Lth, K.)       -A2-  See also اَفَّاكٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n959&quot; key=&quot;اُفَيِّكَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُفَيِّكَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِفْكٌ, in three places. ―         -b2-  Also &lt;i&gt;A severe,&lt;/i&gt; or &lt;i&gt;distressing, calamity.&lt;/i&gt; (Ibn-Abbád.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n960&quot; key=&quot;اُفَيِّكَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُفَيِّكَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِفْكٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n961&quot; key=&quot;اَفَّاكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفَّاكٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A great,&lt;/i&gt; or &lt;i&gt;habitual, liar;&lt;/i&gt; (S, Msb, K;) as also ↓ <br>\
+      اَفُوكُ, (Msb, K,) and ↓ <br>\
+      اَفِيكٌ: (K:) fem. of the first [and last] with ة: but the second is both masc. and fem.: (Msb:) the pl. of the second is افك with damm [i. e. اُفْكٌ, accord. to the rule of the K, but the TA seems to indicate that it is اُفُكٌ, by likening it to the pl. of صَبُورٌ]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n962&quot; key=&quot;ا=فِكَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=فِكَةٌ<br>\
+                     ا=فكه<br>\
+                     ا=فكة<br>\
+                  &lt;/form&gt;: see افكة: ―         -b2-  and see سَنَةٌ اَفِكةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n963&quot; key=&quot;اَفِيكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفِيكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Changed in his,&lt;/i&gt; or &lt;i&gt;its, manner of being,&lt;/i&gt; or &lt;i&gt;state: turned away,&lt;/i&gt; or &lt;i&gt;back, from a thing:&lt;/i&gt; &amp;amp;c.]: see مَاْفُونٌ. ―         -b2-  &lt;i&gt;Weak&lt;/i&gt; [&lt;i&gt;as though perverted&lt;/i&gt;] &lt;i&gt;in his intellect&lt;/i&gt; (AZ, S, K) &lt;i&gt;and judgment&lt;/i&gt; or &lt;i&gt;opinion;&lt;/i&gt; as also ة: (AZ, S:) accord. to A&#39;Obeyd, (or AA, as in one copy of the S,) a man &lt;i&gt;who does not attain,&lt;/i&gt; or &lt;i&gt;obtain, good,&lt;/i&gt; or &lt;i&gt;prosperity.&lt;/i&gt; (S.) ―         -b3-  Also, (K,) fem. with مَاْفُونٌ, (S, K,) (tropical:) A place, (K,) or land, (اَرْضٌ, S, Z,) &lt;i&gt;not rained upon, and having no vegetation,&lt;/i&gt; or &lt;i&gt;herbage.&lt;/i&gt; (S, Z, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n964&quot; key=&quot;المُوْتَفِكَاتُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المُوْتَفِكَاتُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, K) and المُوْتَفِكَةٌ, (TA,) both occurring in the Kur, [the former in ix. 71 and lxix. 9, and the latter in liii. 54,] &lt;i&gt;The cities overthrown,&lt;/i&gt; or &lt;i&gt;subverted, by God, upon the people of Lot.&lt;/i&gt; (S, K.) ―         -b2-  The former also signifies &lt;i&gt;The winds that turn over&lt;/i&gt; [&lt;i&gt;the surface of&lt;/i&gt;] &lt;i&gt;the earth,&lt;/i&gt; or &lt;i&gt;ground:&lt;/i&gt; (K:) or &lt;i&gt;the winds that blow from different quarters:&lt;/i&gt; it is said (by the Arabs, S) that when these winds blow much, the earth (i. e. its seed-produce, TA) thrives, or yields increase. (S, K, TA.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'لطح1<br>\
+لَطَحَهُ, aor.<br>\
+لَطَحَ, (inf. n. لَطْحٌ, S,) He struck<br>\
+him with the palm of his hand; (K;) as also<br>\
+لَطَخَهُ: or he struck him, not violently, with his<br>\
+open hand: (TA:) or he struck him, not<br>\
+violently, with the palm of his hand and the like:<br>\
+(T:) or he struck him gently on the back (S, K)<br>\
+with the palm of the hand; like حَطَأَهُ. (S.) ―<br>\
+-b2-<br>\
+لَطَحَ بِهِ He threw him, or cast him, upon the<br>\
+ground. (S, K.)<br>\
+لَطْحٌ A soil, or pollution, or taint, (like لَطْخٌ,)<br>\
+of which, when it is rubbed, there remains no<br>\
+sign. (T, M, K.)<br>\
+' } );

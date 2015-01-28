@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>كندر</em>            1                  كندر<br>\
+<b>كُنْدُرٌ</b>               1     <br>\
+                     كُنْدُرٌ<br>\
+                     ذ<br>\
+                   [Greek        <br>\
+      <orth lang=&quot;gr&quot;>χόνδρος λιβανωτοῦ</orth>, or <G>liba/nou xo/ndros</G>] <i>i. q.</i> <br>\
+                  لُبَانٌ [q. v., i. e. <i>Frankincense</i>], (S, in art. كدر; TA;) accord. to the physicians; (TA;) <i>a kind of</i> <br>\
+                  عِلْك [or <i>resin</i>], <i>very useful for stopping phlegm,</i> (K,) <i>and a dispeller of forgetfulness, and having other properties:</i> n. un. with ة. (TA.)   </entryFree> <br>\
+' } );

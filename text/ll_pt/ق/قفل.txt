@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>قفل</em>            1                  قفل<br>\
+<b>اَقْفَلَ البَابَ</b>               1     <br>\
+                     اَقْفَلَ البَابَ<br>\
+                     ذ<br>\
+                  <i>He locked the door.</i> (TK.) See also اَغْلَقَ.    </entryFree> <br>\
+<b>قَفْلٌ</b>               1     <br>\
+                     قَفْلٌ<br>\
+                     ذ<br>\
+                  : see فَرَاشٌ.    </entryFree> <br>\
+<b>قَافِلٌ</b>               1     <br>\
+                     قَافِلٌ<br>\
+                     ذ<br>\
+                   A <i>slender</i> horse. (TA, art. خشب.)    </entryFree> <br>\
+<b>قَافِلَةٌ</b>               1     <br>\
+                     قَافِلَةٌ<br>\
+                     ذ<br>\
+                  <i>A company, or an assemblage of persons, travelling together:</i> (El-Fárábee, Msb:) or <i>a company returning from a journey:</i> (S, K:) and <i>commencing a journey;</i> as auguring their return: (El-Fárábee, Msb, K:) he who restricts it to those returning from a journey errs: (ElFárábee, Msb, in which see more:) <i>a caravan.</i>   <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>درهره</em>            1                  درهره<br>\
+<b>دَرَهْرَهَةٌ</b>               1     <br>\
+                     دَرَهْرَهَةٌ<br>\
+                     درهرهه<br>\
+                     درهرهة<br>\
+                  : see the next preceding article.   </entryFree> <br>\
+' } );

@@ -1,0 +1,53 @@
+load_data( { book: 'll_pt', text: '<em>كلس</em>            1                  كلس<br>\
+<b>كَلَسَ</b>               1     <br>\
+                     كَلَسَ<br>\
+                     ذ<br>\
+                  : see 2.    </entryFree> <br>\
+<b>كلّس</b>               1     <br>\
+                     كلّس<br>\
+                     ذ<br>\
+                  , inf. n. تَكْلِيسٌ, <i>He plastered</i> (طَرَّ) a building <i>with</i> <br>\
+                  كِلْس; as also ↓ <br>\
+      كَلَسَ, inf. n. كَلْسٌ: <i>he made smooth</i> [<i>with plaster</i>]: when a thing is thickly plastered, it is termed مُقَرْمَدٌ. (TA.) See كِلْسٌ. ―         -b2-  As used by the alchemists, [<i>He calcined</i> a substance;] <i>he dissolved</i> a body <i>so that it became like</i> <br>\
+                  كِلْس. (TA.)    </entryFree> <br>\
+<b>كِلْسٌ</b>               1     <br>\
+                     كِلْسٌ<br>\
+                     ذ<br>\
+                   (S, K) and by poetic licence. ↓ <br>\
+      كِلِّسٌ (IJ) <i>i. q.</i> <br>\
+                  صَارُوجٌ [i. e. <i>Quick time, and the mixtures thereof, with which are plastered tanks,</i> or <i>cisterns, and baths, &amp;amp;c.</i>], (S, K.) or <i>the like thereof,</i> (TA,) <i>with which one builds:</i> (S, TA:) or <i>that with which a wall,</i> or <i>the inside of a palace</i> or <i>the like, is plastered, resembling</i> <br>\
+                  جِص [or <i>gypsum</i>], <i>without baked bricks.</i> (TA.) A poet says, (S,) namely &#39;Adee Ibn-Zeyd, describing El-Hadr, a city between the Tigris and Euphrates, (TA,) <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        شَادَهُ مَرْمَرًا وَجَلَّلَهُ كِلْ<br>\
+                     <L><br>\
+                        سًا فَلِلطَّيْرِ فِى ذُرَاهُ وُكُورُ<br>\
+                  </quote> [<i>He raised it high, of marble, and covered it with quick time, and there were nests for the birds in its tops</i>]: or, accord. to As, the right reading is وَخَلَّلَهُ كِلْسًا, with خ, meaning, <i>and put</i> <br>\
+                  صاروج <br>\
+                  <i>into the interstices of its stones;</i> and he used to laugh at him who related it in the former manner, with ج. (TA.) But see 2.    </entryFree> <br>\
+<b>كِلِّسٌ</b>               1     <br>\
+                     كِلِّسٌ<br>\
+                     ذ<br>\
+                  : see كِلْسٌ.    </entryFree> <br>\
+<b>كَلَّاسٌ</b>               1     <br>\
+                     كَلَّاسٌ<br>\
+                     ذ<br>\
+                  : see مُكَلِّسٌ.    </entryFree> <br>\
+<b>كَلَّاسَةٌ</b>               1[     <br>\
+                     كَلَّاسَةٌ<br>\
+                     ذ<br>\
+                  <i>A time-kiln:</i> so in the present day.]    </entryFree> <br>\
+<b>كَيْلُوسٌ</b>               1     <br>\
+                     كَيْلُوسٌ<br>\
+                     ذ<br>\
+                   [<i>Chyle;</i> from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>χυλός</orth>;] a term applied by the physicians to the <i>food when it is digested in the stomach before it departs thence and becomes blood;</i> also called كَيْمُوسٌ.  (L.) [But the latter word more properly signifies “ chyme, ” and in this sense is used by modern physicians.]    </entryFree> <br>\
+<b>مُكَلِّسٌ</b>               1     <br>\
+                     مُكَلِّسٌ<br>\
+                     ذ<br>\
+                  <i>A lime-burner;</i> (Golius, on the authority of Meyd;) [as also ↓ <br>\
+      كَلَّاسٌ: or this latter signifies <i>a seller of quick lime.</i>]   </entryFree> <br>\
+            <div2 n=&quot;klE klf klm klY km&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كلع كلف كلم كلى كم<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_nvd', text: 'طalphabetical letter<br>\
+ط<br>\
+The sixteenth letter of the alphabet; called طَآءٌ<br>\
+[and طَا]; the ا of which is reduced to ى [as its<br>\
+radical letter]: when you spell it, you make its<br>\
+final letter quiescent; but when you apply an<br>\
+epithet to it, and make it a noun, you decline it<br>\
+as a noun, saying, [for instance,] هٰذِهِ طَآءٌ طَوِيلَةٌ<br>\
+[This is a tall ط]: it is one of the letters termed<br>\
+مَجْهُورَة [or vocal, i. e. pronounced with the voice,<br>\
+and not with the breath only]; and of the letters<br>\
+termed نِطْعِيَّة, like ت and د, because originating<br>\
+from the نِطْع [q. v.] of the roof of the mouth.<br>\
+(TA.) It is substituted for the ت in the measure<br>\
+اِفْتَعَلَ and the forms inflected therefrom, and<br>\
+[sometimes] for the pronominal ت, when immediately following any of the palatal letters [ص<br>\
+and ض and ط and ظ]; (MF, TA;) as in<br>\
+[اِصْطَبَرَ and اِضْطَرَبَ and اِطَّبَعَ and اِظْطَلَمَ, for<br>\
+اِصْتَبَرَ and اِضْتَرَبَ and إِطْتَبَعَ and اِظْتَلَمَ; and in]<br>\
+فَحَصْطُ and حِضْطُ and خَبَطُّ and حَفِظْطُ, for<br>\
+فَحَصْتُ and حِضْتُ and خَبَطْتُ and حَفِظْتُ; but<br>\
+some of the grammarians say that this [latter]<br>\
+substitution is not to be made invariably; [nor is<br>\
+it common;] and it is said to be a dialectal<br>\
+peculiarity of some of the Benoo-Temeem.<br>\
+(TA.) It is also substituted for د: thus Yaakoob<br>\
+mentions, on the authority of As, مَطَّ الحُرُوفَ,<br>\
+for مَدَّ الحُرُوفَ: and AO, المَبْطَأُ, for المَبْدَأُ: and<br>\
+Aboo-&#39;Amr Ez-Záhid, in the Yawákeet, مَا أَبْعَدَ<br>\
+طَارَكَ, for مَا أَبْعَدَ دَارَكَ. (TA.)<br>\
+-A2-  [As a numeral,<br>\
+it denotes Nine.]<br>\
+' } );

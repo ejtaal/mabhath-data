@@ -1,0 +1,71 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;بطا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  بطا<br>\
+&lt;entryFree id=&quot;n2724&quot; key=&quot;بَطُوَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     بَطُوَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَطُاَ<br>\
+                  &lt;/form&gt;, inf. n. بُطْءٌ (S, Msb, K) and بَطَا=ءَةٌ, with fet-h and medd, (Msb,) or بِطَا=ءٌ, like كِتَابٌ; (K;) and ↓ <br>\
+      ابطا; (S, Msb, K;) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, slow, tardy, dilatory, late,&lt;/i&gt; or &lt;i&gt;backward; contr. of&lt;/i&gt; <br>\
+                  اَسْرَعَ; (K;) in his going or course, and in his gait [&amp;amp;c.]: (TA:) or the latter is said of a man; (S, Msb;) meaning [as above; or] &lt;i&gt;his coming was late,&lt;/i&gt; or &lt;i&gt;backward;&lt;/i&gt; (Msb;) [and is app. elliptical, for ابطا مَشْيَهُ <br>\
+                  &lt;i&gt;he made his pace,&lt;/i&gt; or &lt;i&gt;going, slow,&lt;/i&gt; &amp;amp;c.; or the like; see اسرع:] and بَطُوَ [denotes what is as it were an innate quality; see, again, اَسْرَعَ; or] is said of one&#39;s coming; [meaning &lt;i&gt;it was,&lt;/i&gt; or &lt;i&gt;became, slow,&lt;/i&gt; &amp;amp;c.;] (S, Msb;) بُطْءٌ being the &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  سُرْعَةٌ. (S.) One should not say ↓ <br>\
+      اَبْطَيْتَ for اَبْطَاْتَ. (S.) [See also 6.] ―         -b2-  بَطُءَ ذَا خُرُوجًا: see بُطْا=نَ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2725&quot; key=&quot;بطّابِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     بطّابِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [and بطّاهُ, inf. n. as below, &lt;i&gt;It made him slow, tardy, dilatory, late,&lt;/i&gt; or &lt;i&gt;backward;&lt;/i&gt;] &lt;i&gt;it kept him,&lt;/i&gt; or &lt;i&gt;held him, back;&lt;/i&gt; or &lt;i&gt;put him back,&lt;/i&gt; or &lt;i&gt;backward.&lt;/i&gt; (TA.) It is said in a trad., مَنْ بَطَّاَ بِهِ <br>\
+                  عَمَلُهُ لَمْ يُسْرِعْ بِهِ نَسَبُهُ <br>\
+                  &lt;i&gt;Him whom his&lt;/i&gt; evil &lt;i&gt;deeds keep,&lt;/i&gt; or &lt;i&gt;hold, back,&lt;/i&gt; or &lt;i&gt;put back,&lt;/i&gt; or &lt;i&gt;backward, his&lt;/i&gt; nobility of &lt;i&gt;lineage will not profit,&lt;/i&gt; [or &lt;i&gt;advance,&lt;/i&gt; or &lt;i&gt;put forward,&lt;/i&gt;] in the life to come, or in the world to come. (TA.) بِكَ ↓ <br>\
+      مَا اَبْطَاَ and مَا بَطَّاَ signify the same [&lt;i&gt;What made thee,&lt;/i&gt; or &lt;i&gt;hath made thee, slow?&lt;/i&gt; &amp;amp;c.]; (S, TA;) and so مَا بَطَّاَكَ. (TA.) And you say, بَطَّاَ عَلَيْهِ بِالاَمْرِ, inf. n. تَبْطِىْءٌ; and &lt;pb n=&quot;216&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  بِهِ ↓ <br>\
+      ابطا; &lt;i&gt;He delayed to him&lt;/i&gt; [&lt;i&gt;the doing of&lt;/i&gt;] &lt;i&gt;the thing,&lt;/i&gt; or &lt;i&gt;affair.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَبْطَاَ<br>\
+                  &lt;/form&gt; see 1 and 2; each in two places. ―         -b2-  اَبْطَوُوا <br>\
+                  &lt;i&gt;Their beasts on which they rode were,&lt;/i&gt; or &lt;i&gt;became, slow.&lt;/i&gt; (AZ, S, K.) ―         -b3-  مَا اَبْطَاَهُ <br>\
+                  &lt;i&gt;How slow,&lt;/i&gt; or &lt;i&gt;tardy, &amp;amp;c., is&lt;/i&gt; [&lt;i&gt;he,&lt;/i&gt; or] &lt;i&gt;it!&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2726&quot; key=&quot;تباطا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تباطا<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [accord. to general analogy, &lt;i&gt;He feigned,&lt;/i&gt; or &lt;i&gt;affected, to be slow, tardy,&lt;/i&gt; &amp;amp;c.: or] &lt;i&gt;he was slow,&lt;/i&gt; or &lt;i&gt;sluggish;&lt;/i&gt; or &lt;i&gt;he made delay;&lt;/i&gt; in going, or pace: and &lt;i&gt;he held back&lt;/i&gt; from work, or action. (KL.) You say of a man, تباطا فِى مَسِيرِهِ [&lt;i&gt;He feigned,&lt;/i&gt; or &lt;i&gt;affected, to be slow, &amp;amp;c., in his going, course,&lt;/i&gt; or &lt;i&gt;pace&lt;/i&gt;]. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2727&quot; key=&quot;استبطاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استبطاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, TA) &lt;i&gt;He deemed him,&lt;/i&gt; or &lt;i&gt;reckoned him, slow, tardy,&lt;/i&gt; &amp;amp;c. (KL.) You say, كَتَبَ اـِلَىَّ يَسْتَبْطِيُنِى [&lt;i&gt;He wrote to me, deeming me,&lt;/i&gt; or &lt;i&gt;reckoning me, slow,&lt;/i&gt; &amp;amp;c.]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2728&quot; key=&quot;بُطْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُطْءٌ<br>\
+                     بطء<br>\
+                  &lt;/form&gt; inf. n. of 1. (S, Msb, K.) ―         -b2-  One says, in the dial. of Benoo-Yarbooa, (TA,) لَمْ اَفْعَلْهُ بُطْءًا <br>\
+                  يَاهٰذَا, and ↓ <br>\
+      بُطْاَى, [&lt;i&gt;I never did it,&lt;/i&gt; lit.] &lt;i&gt;I did it not ever, O thou!&lt;/i&gt; i. e. الدَّهْرَ. (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2729&quot; key=&quot;بُطْاَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُطْاَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بُطْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2730&quot; key=&quot;بُطْا=نَ ذَا خُرُوجًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُطْا=نَ ذَا خُرُوجًا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and بَطْا=نَ, (S, K,) but the latter is extr., (TA,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  ذَا خُرُوجًا ↓ <br>\
+      بَطُوَ [&lt;i&gt;Slow,&lt;/i&gt; or &lt;i&gt;very slow,&lt;/i&gt; or &lt;i&gt;how slow, is this in coming forth!&lt;/i&gt;]; (S, K;) the fet-hah in [the last syllable of] بَطُوَ is transferred to the ن of بُطْا=ن, and the dammeh of the ط [in the former] to the ب [in the latter]; the meaning being one of wonder; i. e. مَا اَبْطَاَهُ. (S, TA.) [بطا=ن is an enunciative placed before its inchoative: and, being originally بَطُوَ, it may be a simple enunciative, or an enunciative having an intensive signification; as that verb signifies simply “ it was slow, ” &amp;amp;c., and may be used as co-ordinate to رَمُوَ, meaning “ excellent is he in his shooting! ” &amp;amp;c., and قَضُوَ “ excellent is he in his judging! ” &amp;amp;c.: or it may be equivalent to مَا اَبْطَاَ, as it is said to be in the S. See also سَرْعَانَ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2731&quot; key=&quot;بَطِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَطِىْءٌ<br>\
+                     بطىء<br>\
+                     بطيء<br>\
+                     بطي<br>\
+                  &lt;i&gt;Slow, tardy, dilatory, late,&lt;/i&gt; or &lt;i&gt;backward;&lt;/i&gt; applied to a man, (S, Msb, TA,) and to a horse or the like: (S, TA:) pl. بَطَا=ءٌ. (S, K, TA.) ―         -b2-  Also an imitative sequent to حَطِىْءٌ. (S in art. حطا.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2732&quot; key=&quot;اَبْطَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبْطَاُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;More,&lt;/i&gt; and &lt;i&gt;most, slow,&lt;/i&gt; &amp;amp;c. (Meyd, &amp;amp;c.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2733&quot; key=&quot;المَبْطَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المَبْطَاُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; for المَبْدَاُ is mentioned by AO. (TA on the letter ط.)   &lt;/entryFree&gt; <br>\
+' } );

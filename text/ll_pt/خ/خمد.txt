@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>خمد</em>            1                  خمد<br>\
+<b>خَمَدَتِ النَّارُ</b>               1     <br>\
+                     خَمَدَتِ النَّارُ<br>\
+                     خمدت النار<br>\
+                  , aor.      <br>\
+                     خَمُدَ<br>\
+                  ; (S, Msb, K;) and خَمِدَت, (A, K,) aor.      <br>\
+                     خَمَدَ<br>\
+                  ; (K;) inf. n. خُمُودٌ (S, A, Msb, K) and خَمْدٌ; (IKtt, K;) <i>The fire subsided; its flaming;</i> or <i>blazing, ceasing;</i> (S, A, Msb, K;) <i>but its embers remaining unextinguished:</i> (S, Msb, K:) when its embers have become extinguished, you say of it, هَمَدَت: (S:) or <i>it died away, and became utterly extinguished.</i> (Msb.) ―         -b2-  [Hence,] خَمَدَتِ الحُمَّى, (S, Msb, K,) or خَمِدَت, (A,) (tropical:)  <i>The fever became allayed:</i> (A, Msb:) or <i>the vehemence of the fever became allayed.</i> (S, K.) ―         -b3-  And خَمَدَ (tropical:)  <i>He</i> (a sick man, S) <i>fainted,</i> or <i>swooned:</i> (S, A, Msb, K:) or <i>he died.</i> (S, A, Msb.)    </entryFree> <br>\
+<b>اخمد النَّارَ</b>               1     <br>\
+                     اخمد النَّارَ<br>\
+                     اخمد النار<br>\
+                  <i>He allayed the flaming,</i> or <i>blazing, of the fire; leaving its embers unextinguished:</i> (S, Msb, K:) or <i>he extinguished the fire utterly.</i> (Msb.) And اخمدتها الرِّيحُ <br>\
+                  <i>The wind allayed its flaming,</i> or <i>blazing.</i> (A.)       -A2-  (tropical:)  <i>He was,</i> or <i>became, still,</i> or <i>motionless, and silent.</i> (K, TA.)    </entryFree> <br>\
+<b>خَمُّودٌ</b>               1     <br>\
+                     خَمُّودٌ<br>\
+                     خمود<br>\
+                  <i>A place in which fire is buried in order that its flaming,</i> or <i>blazing, may cease; its embers remaining unextinguished:</i> (S, K:) [or <i>in order that it may become utterly extinguished:</i> see 1.]    </entryFree> <br>\
+<b>خَامِدٌ</b>               1     <br>\
+                     خَامِدٌ<br>\
+                     خامد<br>\
+                   (tropical:)  <i>Silent; from whom no voice is heard:</i> and in like manner, ↓ <br>\
+      مُخْمِدٌ signifies <i>still,</i> or <i>motionless, and silent: still,</i> or <i>motionless; having disposed and submitted himself to an affair,</i> or <i>event.</i> (L.) خَامِدُونَ in the Kur xxxvi. 28 means (assumed tropical:)  <i>Silent and dead</i>: (Jel:) or <i>silent; having died, and become like extinguished ashes.</i> (Zj, Bd. *)    </entryFree> <br>\
+<b>مُخْمِدٌ</b>               1     <br>\
+                     مُخْمِدٌ<br>\
+                     مخمد<br>\
+                  : see the paragraph next preceding.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لط</em>            1                  لط<br>\
+<b>لِطْلِطٌ</b>               1     <br>\
+                     لِطْلِطٌ<br>\
+                     ذ<br>\
+                  : see دَلُوقٌ. ―         -b2-  لِطْلِطٌ A she-camel <i>far advanced in age, and having lost her teeth.</i> (T, in L, voce كُحْكُحٌ.)   </entryFree> <br>\
+' } );

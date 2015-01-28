@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>صندل</em>            1                  صندل<br>\
+<b>صَنْدَلَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     صَنْدَلَ<br>\
+                     ذ<br>\
+                  , said of a camel, (IAar, M, O, K,) and of an ass, (K,) <i>He was big in the head,</i> (IAar, M, O, K,) <i>and hard,</i> or <i>strong,</i> or <i>hardy, and large.</i> (K.)    </entryFree> <br>\
+<b>تَصَنْدَلَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَصَنْدَلَ<br>\
+                     ذ<br>\
+                  <i>He exerted himself in amatory conversation</i> or <i>dalliance with women.</i> (Ibn- &#39;Abbád, O, K.)       -A2-  And <i>He wore what is termed the</i> <br>\
+                  صَنْدَل, <i>a thing resembling the boot, with nails in the sole.</i> (Msb.)    </entryFree> <br>\
+<b>صَنْدَلٌ</b>               1     <br>\
+                     صَنْدَلٌ<br>\
+                     ذ<br>\
+                  , applied to an ass, (T, TA,) or to a camel, (S, O,) or to both, as also ↓ <br>\
+      صُنَادِلٌ, (M, K,) <i>Big in the head:</i> (S, O:) or <i>strong in make, big in the head:</i> (T, TA:) or <i>large, strong, big in the head:</i> (M:) or <i>big in the head, and hard,</i> or <i>strong,</i> or <i>hardy, and large:</i> (K:) or accord. to IDrd, ↓ <br>\
+      صُنَادِلٌ, applied to a camel, signifies <i>hard,</i> or <i>strong,</i> or <i>hardy:</i> (O:) the pl! of the former [or of each] is صَنَادِلَ. (S, O.)       -A2-  Also, i. e. صَنْدَلٌ, <i>A species of trees,</i> (S, O, Msb,) or <i>a kind of wood,</i> (M, K,) <i>well known,</i> (Msb,) <i>of sweet odour,</i> (S, M, O,) <i>and of several sorts;</i> (TA;) [i. e. <i>sandal-wood;</i>] <i>the best of which is the red,</i> or <i>the white,</i> (K, TA,) or <i>the yellow;</i> (TA;) <i>a discutient of tumours, beneficial as a remedy for palpitation and for the headache and for weakness of the hot stomach and for fevers:</i> (K, TA;) <i>the infusion of its sawdust and the continual smelling of it weaken the venereal faculty.</i> (TA.)       -A3-  It is also a Pers. word (كَلِمَةٌ اَعْجَمِيَّةٌ [or rather an arabicized word from the Pers. سَنْدَل]) signifying <i>A thing resembling the boot</i> (الخُفّ), <i>in the sole of which are nails:</i> pl. صَنَادِلُ. (Msb.)    </entryFree> <br>\
+<b>صَنْدَلَانِىٌّ</b>               1     <br>\
+                     صَنْدَلَانِىٌّ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  صَيْدَلَانِىٌّ. (O, K.) See the latter, in art. صدل.    </entryFree> <br>\
+<b>صُنَادِلٌ</b>               1     <br>\
+                     صُنَادِلٌ<br>\
+                     ذ<br>\
+                  : see صَنْدَلٌ, above, in two places.   </entryFree> <br>\
+' } );

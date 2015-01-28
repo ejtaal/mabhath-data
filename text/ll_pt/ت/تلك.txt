@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>تلك</em>            1                  تلك<br>\
+<b>تِلْكَ</b>               1     <br>\
+                     تِلْكَ<br>\
+                     ذٰلك<br>\
+                     لاك<br>\
+                     لك<br>\
+                     تل<br>\
+                     تلك<br>\
+                     ولي<br>\
+                   and تَلْكَ and تَالِكَ: see art. تا.   </entryFree> <br>\
+' } );

@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>قش</em>            1                  قش<br>\
+<b>قَشٌّ</b>               1     <br>\
+                     قَشٌّ<br>\
+                     ذ<br>\
+                  <i>Stubble; stalk of corn,</i> &amp;amp;c.; <i>straw.</i> <br>\
+                  قشّ <br>\
+                  البَحْر <br>\
+                  <i>Seaweed.</i> <br>\
+                  قَشٌّ <br>\
+                  <i>Rushes of which mats are made.</i> <br>\
+                  حَصِيرَة قشّ <br>\
+                  <i>A mat of rushes.</i>    <br>\
+<b>قَشَّاشٌ</b>               1     <br>\
+                     قَشَّاشٌ<br>\
+                     ذ<br>\
+                  : see رَمَّامٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قوف</em>            1                  قوف<br>\
+<b>قُوفٌ</b>               1     <br>\
+                     قُوفٌ<br>\
+                     ذ<br>\
+                   of the ear, The <i>upper part:</i> or the <i>helix:</i> see سَكَّ and اَسَكُّ and شَنْفٌ. Not to be confounded with فُوقٌ. ―         -b2-  قُوفٌ and قَافٌ: see صُوفٌ.   </entryFree> <br>\
+' } );

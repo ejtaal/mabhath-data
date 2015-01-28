@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'وحجمُوحَجٌ<br>\
+: transp. for مُوجِحٌ.<br>\
+' } );

@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>صهرج</em>            1                  صهرج<br>\
+<b>صَهْرَجُوا صِهْرِيجًا</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     صَهْرَجُوا صِهْرِيجًا<br>\
+                     ذ<br>\
+                  <i>They plastered a</i> <br>\
+                  صِهْرِيج <br>\
+                  <i>with</i> <br>\
+                  صَارُوج [or <i>plaster of quick lime</i>]. (L.)    </entryFree> <br>\
+<b>تَصَهْرَجُوا صِهْرِيًّا</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَصَهْرَجُوا صِهْرِيًّا<br>\
+                     ذ<br>\
+                   [<i>They made for themselves a</i> <br>\
+                  صِهْرِىّ, i. e. <i>a</i> <br>\
+                  صِهْرِيج]. (T and TA in art. صهر.)    </entryFree> <br>\
+<b>صِهْرِيجٌ</b>               1     <br>\
+                     صِهْرِيجٌ<br>\
+                     ذ<br>\
+                   (S, A, Msb, K) and صَهْرِيجٌ, but this latter is of weak authority, (Msb,) and ↓ <br>\
+      صُهَارِجٌ, (S, K,) as also صِهْرِىٌّ, by a change of the last letter, (ISd, TA,) <i>A</i> <br>\
+                  حَوْض [i. e. <i>watering-trough,</i> or <i>tank</i>], (K,) or <i>a thing like a</i> <br>\
+                  حَوْض, (S, A,) <i>in which water collects;</i> (S, A, K;) <i>a tank,</i> or <i>cistern, for rain-water:</i> (ISd, TA:) arabicized: (Msb:) originally Pers.: pl. صَهَارِيجُ. (S.) [See also صِهْرِىٌّ, in art. صهر.]    </entryFree> <br>\
+<b>صُهَارِجٌ</b>               1     <br>\
+                     صُهَارِجٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph: ―         -b2-  and also that here following.    </entryFree> <br>\
+<b>مُصَهْرَجٌ</b>               1     <br>\
+                     مُصَهْرَجٌ<br>\
+                     ذ<br>\
+                  <i>Made with</i> <br>\
+                  صَارُوج, (K,) i. e. نُورَة [or <i>plaster of quick lime</i>]. (TA.) One says بِرْكَةٌ <br>\
+                  مُصَهْرَجَةٌ [<i>A tank,</i> or <i>the like,</i>] <i>made with</i> <br>\
+                  صَارُوج. (S.) And in like manner, ↓ <br>\
+      حَوْضٌ صُهَارِجٌ [<i>A watering-trough,</i> or <i>tank,</i>] <i>plastered with</i> <br>\
+                  صاروج. (L.)   </entryFree> <br>\
+' } );

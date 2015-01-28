@@ -1,0 +1,54 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;از&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  از<br>\
+&lt;entryFree id=&quot;n645&quot; key=&quot;اَزَّتِ القِدْرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَزَّتِ القِدْرُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) or البُرْمَةُ, (A,) aor      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزُ٣َ<br>\
+                  &lt;/form&gt; (S, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِ٣َ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَزِيزٌ (S, A, K) and اَزٌّ and اَزَازٌ, (K,) &lt;i&gt;The cooking-pot made a sound in boiling:&lt;/i&gt; (S, accord. to an explanation there given of the inf. n.; and A:) or &lt;i&gt;boiled:&lt;/i&gt; (S:) or &lt;i&gt;boiled vehemently;&lt;/i&gt; (K;) as also ↓ <br>\
+      ايتزّت [written with the disjunctive alif اِيتَّزَّت], (S, K,) inf. n. اْيْتِزَازٌ; (S;) and ↓ <br>\
+      تازّت, (K,) inf. N. تَاَزُّزٌ: (TA:) or all signify &lt;i&gt;it boiled not vehemently.&lt;/i&gt; (K.) It is said in a trad., كَانَ يُصَلِّى وَ لِجَوْفِهِ اَزِيز كَاَزِيزِ اْلْمِرْجَلِ مِنَ اْلْبُكَا=ءِ (tropical:) [&lt;i&gt;He used to pray, his inside making a sound like the sound of the boiling of the cooking-pot, by reason of weeping&lt;/i&gt;]: (S, A, Mgh:) this is said of Mohammad: ازيز meaning &lt;i&gt;boiling,&lt;/i&gt; or the &lt;i&gt;sound thereof.&lt;/i&gt; (Mgh.) ―         -b2-  اَزَّتِ السَّحَابَةُ <br>\
+                  &lt;i&gt;The cloud made a sound from afar.&lt;/i&gt; (K.) [In this instance, the TA assigns only one form to the aor., namely      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِ٣َ<br>\
+                  &lt;/form&gt;, and gives only اَزٌّ and اَزِيزٌ as inf. ns.] اَزِيزٌ signifies The &lt;i&gt;sounding&lt;/i&gt; of thunder; (S, A;*) and of a millstone. (A.) You say, هَالَنِى اَزِيزُ الرَّعْدِ [&lt;i&gt;The sounding of the thunder terrified me&lt;/i&gt;]: and صَدَّعَنِى <br>\
+                  اَزِيزُ الرَّحَى [&lt;i&gt;The sounding of the mill-stone made my head to ache&lt;/i&gt;]. (A, TA.) ―         -b3-  Also, inf. n. اَزِيزٌ, &lt;i&gt;It flamed,&lt;/i&gt; or &lt;i&gt;blazed, like fire in firewood, and was in motion, or in a state of commotion.&lt;/i&gt; (AO.)       -A2-  اَزَّبِالقِدْرِ, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزُ٣َ<br>\
+                  &lt;/form&gt;,] inf. n. اَزٌّ, &lt;i&gt;He kindled a fire,&lt;/i&gt; or &lt;i&gt;made it to burn&lt;/i&gt; or &lt;i&gt;to burn fiercely, beneath the cooking-pot, in order that it might boil:&lt;/i&gt; or you say, اَزَّ القِدْرَ, inf. n. as above, meaning &lt;i&gt;he collected firewood beneath the cooking-pot so that the fire flamed,&lt;/i&gt; or &lt;i&gt;blazed:&lt;/i&gt; and &lt;i&gt;he made the fire to flame,&lt;/i&gt; or &lt;i&gt;blaze, beneath the cooking-pot.&lt;/i&gt; (TA.) And اَزَّ النَّارَ, (K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزُ٣َ<br>\
+                  &lt;/form&gt;, inf. n. اَزٌّ, (TA,) &lt;i&gt;He kindled the fire,&lt;/i&gt; or &lt;i&gt;made it to burn&lt;/i&gt; or &lt;i&gt;to burn fiercely.&lt;/i&gt; (K, TA.) ―         -b2-  اَزَّ الشَّىْءَ, (K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزُ٣َ<br>\
+                  &lt;/form&gt;, inf. n. اَزٌّ and اَزِيزٌ, (TA,) &lt;i&gt;He put the thing into a state of violent motion&lt;/i&gt; or &lt;i&gt;commotion:&lt;/i&gt; (ISd, K:) so accord. to IDrd: (ISd:) but Ibráheem El-Harbee explains اَزٌّ only as signifying the act of &lt;i&gt;moving.&lt;/i&gt; (TA.) ―         -b3-  اَزَّهُ, (A, TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزُ٣َ<br>\
+                  &lt;/form&gt;, (TA,) inf. n. اَزٌّ, (S, TA,) &lt;i&gt;He put him in motion; disquieted him;&lt;/i&gt; (A,* TA;) &lt;i&gt;stirred up, roused,&lt;/i&gt; or &lt;i&gt;provoked, him;&lt;/i&gt; and &lt;i&gt;incited, urged,&lt;/i&gt; or &lt;i&gt;instigated, him;&lt;/i&gt; (S,* A,* TA;) عَلَى كَذَا <br>\
+                  &lt;i&gt;to do such a thing.&lt;/i&gt; (A, TA.*) It is said in the Kur [xix. 86], اَلَمْ تَرَ اَنّا اَرْسَلْنَا الشَّيَاطِينَ عَلَى الكَافِرِينَ تَوُزُّهُمْ اَزَّا <br>\
+                  &lt;i&gt;Seest thou not that we have sent the devils against the unbelievers inciting them strongly&lt;/i&gt; to acts of disobedience? (S, TA.) Or اَزٌّ signifies The &lt;i&gt;inciting&lt;/i&gt; a man to do a thing &lt;i&gt;by artifice,&lt;/i&gt; or &lt;i&gt;cunning,&lt;/i&gt; and &lt;i&gt;gentleness.&lt;/i&gt; (El-Harbee.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n646&quot; key=&quot;تازّت القِدْرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تازّت القِدْرُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n647&quot; key=&quot;ايتزّت القِدْرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ايتزّت القِدْرُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1. ―         -b2-  هُوَ يَاْتَزُّ مِنْ كَذَا <br>\
+                  &lt;i&gt;He becomes angry, and distressed, and disquieted&lt;/i&gt; or &lt;i&gt;disturbed, by reason of such a thing.&lt;/i&gt; (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n648&quot; key=&quot;اَزَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزَّةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A sound,&lt;/i&gt; or &lt;i&gt;noise.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n649&quot; key=&quot;اَزِيزٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزِيزٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of 1.―         -b2-  &lt;i&gt;Sharpness;&lt;/i&gt; syn. حِدَّةٌ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

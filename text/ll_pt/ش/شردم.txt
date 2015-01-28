@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شردم</em>            1                  شردم<br>\
+<b>شِرْدِمَةٌ</b>               1     <br>\
+                     شِرْدِمَةٌ<br>\
+                     ذ<br>\
+                  : see the art. here following.   </entryFree> <br>\
+' } );

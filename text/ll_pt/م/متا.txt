@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>متا</em>            1                  متا<br>\
+<b>مَتَاَ</b>               1     <br>\
+                     مَتَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَتَاَ<br>\
+                  , <i>He beat</i> a person with a staff or stick. (S, K.) ―         -b2-  Also, inf. n. مَتْءٌ, (TA,) <i>He extended,</i> or <i>stretched out,</i> a rope: (S, K:) a dial. form of مَتَا. [See art. متو]. (S.)   </entryFree> <br>\
+' } );

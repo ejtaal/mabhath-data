@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>فندق</em>            1                  فندق<br>\
+<b>فُنْدُقٌ</b>               1     <br>\
+                     فُنْدُقٌ<br>\
+                     ذ<br>\
+                   The <i>fruit of a certain tree,</i> (Lth, O, K,) the <i>same as the</i> <br>\
+                  بُنْدُق, which has been mentioned before, [i. e. <i>hazel-nut,</i> or <i>hazel-nuts,</i>] (K,) or <i>round, like the</i> <br>\
+                  بُنْدُق, <i>having a covering which, being removed, discloses a kernel</i> (حَبّ), <i>like the</i> <br>\
+                  فُسْتُق. (Lth, O.)       -A2-  And, (Lth, O, K,) in the dial. of the people of Syria, <i>A</i> [<i>building of the kind called</i>] خَان [q. v.], <i>where men alight and lodge,</i> [<i>and in which they deposit their goods,</i>] <i>of the</i> <br>\
+                  خَانَات <br>\
+                  <i>that are in the roads,</i> (Lth, O, K, *) <i>and in the cities:</i> (Lth, O:) [said to be] a Pers. word, [app. from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>πανδοχεῖον</orth> occurring in Luke x. 34, as remarked by Golius,] mentioned by Sb: pl. فَنَادِقُ. (TA.)    </entryFree> <br>\
+<b>فُنْدَاقٌ</b>               1     <br>\
+                     فُنْدَاقٌ<br>\
+                     ذ<br>\
+                  <i>A register of accounts:</i> (O, K:) thought by As to be an arabicized word: but the word commonly known [in this sense] is with ق [i. e. قُنْدَاقٌ]. (TA.)   </entryFree> <br>\
+' } );

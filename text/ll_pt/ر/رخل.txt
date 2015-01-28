@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>رخل</em>            1                  رخل<br>\
+<b>رِخْلٌ</b>               1     <br>\
+                     رِخْلٌ<br>\
+                     ذ<br>\
+                  <i>A ewe-lamb;</i> (S, K;) as also ↓ <br>\
+      رِخْلَةٌ and ↓ <br>\
+      رَخِلٌ: (K:) the male is called حَمَلٌ: (S:) pl. [of pauc.] اَرْخُلٌ (K) and [of mult.] رِخَالٌ and رُخَالٌ (S, K,) which last is of an extr. form, (TA,) and رِخْلَانٌ and رَخَلَةٌ and رِخَلَةٌ. (K.)    </entryFree> <br>\
+<b>رَخِلٌ</b>               1     <br>\
+                     رَخِلٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.    </entryFree> <br>\
+<b>رِخْلَةٌ</b>               1     <br>\
+                     رِخْلَةٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.    </entryFree> <br>\
+<b>مُتَرَخِّلٌ</b>               1     <br>\
+                     مُتَرَخِّلٌ<br>\
+                     ذ<br>\
+                  <i>A possessor and rearer of ewe-lambs.</i> (S.)   </entryFree> <br>\
+' } );

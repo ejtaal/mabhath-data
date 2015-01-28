@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>كسل</em>            1                  كسل<br>\
+<b>كَسَّلَهُ</b>               1     <br>\
+                     كَسَّلَهُ<br>\
+                     ذ<br>\
+                  , inf. n. تَكْسِيلٌ, said of satiety, <i>It rendered him heavy, sluggish, lazy, indolent,</i> or <i>torpid.</i> (TA.)    </entryFree> <br>\
+<b>اَكْسَلَ عَنْهَا</b>               1     <br>\
+                     اَكْسَلَ عَنْهَا<br>\
+                     ذ<br>\
+                   signifies اَوْلَجَ وَلَمْ يُنْزِلْ; [<i>Inivit sed non emisit;</i>] (IAar, in TA, art. فهر;) [i. e., اَوْلَجَ ثُمَّ تَرَكَهَا وَلَمْ يُنْزِلْ].    </entryFree> <br>\
+<b>كَسْلَانٌ</b>               1     <br>\
+                     كَسْلَانٌ<br>\
+                     ذ<br>\
+                  <i>Heavy, sluggish, lazy, indolent, torpid.</i> (K.)    </entryFree> <br>\
+<b>مَكْسَلَةٌ</b>               1     <br>\
+                     مَكْسَلَةٌ<br>\
+                     ذ<br>\
+                  : see an ex. voce كِطَّةٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>جمش</em>            1                  جمش<br>\
+<b>جَمَشَهُ</b>               1     <br>\
+                     جَمَشَهُ<br>\
+                     ذ<br>\
+                  , (S, A, K,) aor.      <br>\
+                     جَمِشَ<br>\
+                   and      <br>\
+                     جَمُشَ<br>\
+                  , (TA,) inf. n. جَمْشٌ, (S,) <i>He shaved it,</i> or <i>removed its hair;</i> (S, A, K;) namely, his pubes; (S;) or his head. (A, K.) And جَمَشَتْهُ <br>\
+                  <i>She shaved it;</i> namely, her pudendum; or <i>removed its hair:</i> and <i>it</i> (نُورَة, q. v.) <i>removed it;</i> namely, hair. (A.)    </entryFree> <br>\
+<b>جَمُوشٌ</b>               1     <br>\
+                     جَمُوشٌ<br>\
+                     ذ<br>\
+                  , applied to نُورَة [q. v.], <i>That removes hair;</i> (S, K;) as also ↓ <br>\
+      جَمِيشٌ. (K.) ―         -b2-  Applied to a year (سَنَةٌ), (assumed tropical:)  <i>That shaves off,</i> (S,) or <i>nips, shrinks, shrivels,</i> or <i>blasts,</i> [lit., <i>burns,</i> see اَحْرَقَ,] (K,) <i>the plants,</i> or <i>herbage.</i> (S, K.)    </entryFree> <br>\
+<b>جَمِيشٌ</b>               1     <br>\
+                     جَمِيشٌ<br>\
+                     ذ<br>\
+                  , applied to the pubes, <i>Shaven,</i> or <i>having its hair removed,</i> (S, A, K, TA,) <i>by means of</i> <br>\
+                  نُورَة [q. v.]. (TA.) ―         -b2-  Applied to a place, (assumed tropical:)  [<i>Shorn of its plants,</i> or <i>herbage;</i> or] <i>having in it no plants,</i> or <i>herbage.</i> (S, K.)       -A2-  See also جَمُوشٌ.   </entryFree> <br>\
+' } );

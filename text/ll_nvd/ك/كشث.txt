@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'كشثكَشُوثٌ (S, K) and كُشُوثٌ and كَشُوثَى and<br>\
+كَشُوثَاءُ (of the fem. gender, Ibn-Buzruj, in TA,<br>\
+voce هِنْدَبٌ) and أُكْشُوثٌ but this last is a bad<br>\
+word, (K,) [as also شَكُوثَى and شَكُوثَاءُ,] [A<br>\
+species of cuscuta, or dodder;] a certain plant<br>\
+that clings to the branches of trees, having no<br>\
+root in the earth. (S, K.) [See also الشَّجَرَةُ<br>\
+الخَبِيثَةُ, in art. خبث. And see الفَقْدُ and سَكَرٌ.]<br>\
+―<br>\
+-b2-  A poet says,<br>\
+هُوَ الكَشُوثُ فَلَا أَصْلٌ وَلَا وَرَقٌ<br>\
+وَلَا نَسِيمٌ وَلَا ظِلٌّ وَلَا ثَمَرُ<br>\
+[He is the Kashooth: therefore (he has) no root<br>\
+nor leaves nor fragrance, nor shade nor fruit].<br>\
+(S.)<br>\
+' } );

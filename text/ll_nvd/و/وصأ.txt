@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'وصأ1<br>\
+وَصِئَ, as also صَئِئَ, (mentioned by Lb,<br>\
+TA,) It (a garment) was, or became, dirty. (K.)<br>\
+' } );

@@ -1,0 +1,30 @@
+load_data( { book: 'll_nvd', text: 'مح1<br>\
+مَحَّ, (S, K,) aor. يَمِحُّ and يَمُحُّ [the latter<br>\
+contr. to analogy] (K) and يَمَحُّ, (L,) inf. n.<br>\
+مَحٌّ and مَحَحٌ and مُحُوحٌ; (K;) and ↓ امحّ; (S;)<br>\
+It (a garment) became old and worn-out. (S,<br>\
+K.) ―<br>\
+-b2-  It (a dwelling) had its vestiges obliterated.<br>\
+(L.) ―<br>\
+-b3-  It (a writing) became obliterated. (L.)<br>\
+-A2-  مَحَّ الكَذَّابُ, aor. يَمُحُّ, inf. n. مَحَاحَةٌ, [The<br>\
+liar pleased, or contented, with his words, but<br>\
+did, or performed, nothing: or lied, from whatsoever place he came]. (L.)<br>\
+4<br>\
+أَمْحَ3َ see 1.<br>\
+مَحٌّ (S, K) and ↓ مَاحٌّ (TA) An old and wornout garment. (S, K.)<br>\
+مُحٌّ The purest, best, or choicest, part of<br>\
+anything. (K.) ―<br>\
+-b2-  The yolk of an egg; (S, K;)<br>\
+as also ↓ مُحَّةٌ: (ISh, K:) or the entire contents<br>\
+of an egg; (K;) the yolk and the white.<br>\
+(ISh.)<br>\
+مُحَّةٌ: see مُحٌّ.<br>\
+مَحَّاحٌ One who pleases or contents thee with<br>\
+his words, but who does, or performs, nothing:<br>\
+(T, S, K:) an habitual liar: (S, K:) one who<br>\
+will not tell thee truly whence he comes; who lies<br>\
+to thee even respecting the place whence he<br>\
+comes. (L.)<br>\
+مَاحٌّ: see مَحٌّ.<br>\
+' } );

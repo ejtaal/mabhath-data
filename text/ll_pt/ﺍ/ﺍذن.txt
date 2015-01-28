@@ -1,0 +1,197 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اذن&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اذن<br>\
+&lt;entryFree id=&quot;n480&quot; key=&quot;اَذِنَ لَهْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَذِنَ لَهْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, S, M, Msb, K) and اـِلَيْهِ, (M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَذَنَ<br>\
+                  &lt;/form&gt;, (T, Msb, K,) inf. n. اَذَنٌ, (T, S, Msb, K,) &lt;i&gt;He [gave ear&lt;/i&gt; or] &lt;i&gt;listened to it,&lt;/i&gt; (T, S, M, Msb, K,) or &lt;i&gt;him:&lt;/i&gt; (T, S, M, K: *) or it signifies, (K,) or signifies also, (M,) &lt;i&gt;he listened to it,&lt;/i&gt; or &lt;i&gt;him, pleased,&lt;/i&gt; or &lt;i&gt;being pleased.&lt;/i&gt; (M, K.) It is said in a trad., (T,) مَا اَذِنَ اْللّٰهِ لِشَىْءٍ لِنَبِىٍّ يَتَغَنَّى <br>\
+                  بالقُرا=نِ (T, S) &lt;i&gt;God hath not listened to anything&lt;/i&gt; [in a manner] &lt;i&gt;like his listening [to a prophet chanting the Kur-án&lt;/i&gt;]. (T.) And in the Kur [lxxxiv. 2 and 5], وَاَذِنَتْ لِرَبِّها <br>\
+                  &lt;i&gt;And shall listen to its Lord,&lt;/i&gt; (M, Bd, Jel,) &lt;i&gt;and obey;&lt;/i&gt; (Jel;) i. e., shall submit to the influence of his power as one listens to the commander and submits to him. (Bd.) And you say, اَذِنَ لِلَّهْوِ <br>\
+                  &lt;i&gt;He listened and inclined to sport,&lt;/i&gt; or &lt;i&gt;play.&lt;/i&gt; (M.) ―         -b2-  [Hence, perhaps,] اَذِنَ لِرَايِحَةِ الطَّعَامِ (assumed tropical:)  &lt;i&gt;He desired eagerly,&lt;/i&gt; or &lt;i&gt;longed for, the food, [perceiving its odour,&lt;/i&gt;] (ISh, K,) and &lt;i&gt;inclined to it.&lt;/i&gt; (ISh, TA.) ―         -b3-  [Hence also, app.,] اَذِنَ لَهُ فِى الشَّىء, (S, M, K,) or فِى اَمْرِ كَذَا, (T,) or فِى كَذَا, (Msb,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَذَنَ<br>\
+                  &lt;/form&gt;, (T, K,) inf. n. اـِذْنٌ, (T, S, M, K,) or this is a simple subst., (Msb,) and اَذِينٌ, (K,) [as though originally signifying &lt;i&gt;He gave ear to him in respect of such a thing;&lt;/i&gt; and then] &lt;i&gt;he permitted him, allowed him,&lt;/i&gt; or &lt;i&gt;gave him permission&lt;/i&gt; or &lt;i&gt;leave, to do the thing, or such a thing.&lt;/i&gt; (M, Msb, K.) [See also اـِذْنٌ, below.] You say, اَذِنْتُ لِلْعَبْدِ فَي التِّجَارَةِ [&lt;i&gt;I gave permission,&lt;/i&gt; or &lt;i&gt;leave, to the slave to traffic&lt;/i&gt;]. (Msb.) ―         -b4-  اَذِنَ <br>\
+                  &lt;pb n=&quot;42&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  لَهُ عَلَيْهِ <br>\
+                  &lt;i&gt;He took,&lt;/i&gt; or &lt;i&gt;got, permission,&lt;/i&gt; or &lt;i&gt;leave, for him from him.&lt;/i&gt; (M.) You say, اِيذَنْ لِى <br>\
+                  عَلَى الاَمِيرِ (S, TA) &lt;i&gt;Take thou,&lt;/i&gt; or &lt;i&gt;get thou, permission for me from the commander,&lt;/i&gt; or &lt;i&gt;governor,&lt;/i&gt; or &lt;i&gt;prince.&lt;/i&gt; (TA.) El-A&#39;azz Ibn-&#39;AbdAllah says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَ اـِنِّى اـِذَا ضَنَّ الاَمِيرُ باـِذْنِهِ<br>\
+                     &lt;L&gt;<br>\
+                        عَلَي الاـِذنِ مِنْ نَفْسِى اـِذا شِيْتٌ قَادِرٌ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And verily I, when the prince is niggardly of his permission, am able to take permission of myself when I will&lt;/i&gt;]. (TA.) And a poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        قُلْتُ لِبَوَّابٍ لَدَيْهِ دَارُهَا<br>\
+                     &lt;L&gt;<br>\
+                        تِيْذَنْ فَاـِنِّى حَيْوُهَا وَجَارُهَا<br>\
+                  &lt;/quote&gt; [&lt;i&gt;I said to a door-keeper, near by whom was her house, take thou,&lt;/i&gt; or &lt;i&gt;get thou, permission&lt;/i&gt; for me to enter, &lt;i&gt;for I am her husband&#39;s father, and her neighbour&lt;/i&gt;]: meaning, says Aboo-Jaafar, لِتَاْذَنْ; for the suppression of the ل is allowable in poetry, and the pronunciation with kesr to the ت is accord. to the dial. of him who says اَنْتَ <br>\
+                  تِعْلَمُ. (S.) ―         -b5-  اَذِنَ بِالشَّىءِ, (S, * M, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَذَنَ<br>\
+                  &lt;/form&gt;, (S, M, K,) inf. n. اـِذْنٌ and اَذَنٌ and اَذَانٌ and اَذَانَةٌ, (M, K,) &lt;i&gt;He knew the thing; knew of it; had knowledge of it; became informed,&lt;/i&gt; or &lt;i&gt;apprized, of it.&lt;/i&gt; (S, M, Msb, K.) It is said in the Kur [ii. 279], فَاْذَنُوا بِحَرْبٍ مِنَ اْللّٰهِ وَرَسُولِهِ (S, M, K) &lt;i&gt;Then be ye informed,&lt;/i&gt; or &lt;i&gt;apprized, of war&lt;/i&gt; [that shall come upon you] &lt;i&gt;from God and his apostle:&lt;/i&gt; (M, K:) or &lt;i&gt;then be ye sure,&lt;/i&gt; or &lt;i&gt;assured,&lt;/i&gt; &amp;amp;c. (T.) [See also اـِذْنٌ, below.]       -A2-  اَذَنَهُ, (T, S, M, K,) inf. n. اَذْنٌ, (T,) &lt;i&gt;He hit,&lt;/i&gt; or &lt;i&gt;hurt, his ear;&lt;/i&gt; (T, S, M, K;) or &lt;i&gt;struck his ear;&lt;/i&gt; (so in some copies of the S;) and ↓ <br>\
+      ا=ذَنَهُ signifies the same, (M, K,) inf. n. اـِيذَانٌ. (TA.) [See also 2.] ―         -b2-  اُذِنَ [as though originally signifying &lt;i&gt;He had his ear hit&lt;/i&gt; or &lt;i&gt;hurt;&lt;/i&gt;] &lt;i&gt;he complained,&lt;/i&gt; or &lt;i&gt;had a complaint, of his ear;&lt;/i&gt; (K;) said of a man. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n481&quot; key=&quot;اذّنهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اذّنهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) inf. n. تَاْذِينٌ, (K,) &lt;i&gt;He wrung,&lt;/i&gt; or &lt;i&gt;twisted,&lt;/i&gt; (عَرَكَ,) &lt;i&gt;his&lt;/i&gt; (a boy&#39;s, S) &lt;i&gt;ear:&lt;/i&gt; (S, K:) or &lt;i&gt;he struck,&lt;/i&gt; (ضَرَبَ, TA,) or &lt;i&gt;struck with his finger,&lt;/i&gt; or &lt;i&gt;fillipped,&lt;/i&gt; (نَقَرَ, M, TA,) &lt;i&gt;his ear.&lt;/i&gt; (M, TA.) [See also اَذَنَهُ.] They say, (in a prov., TA in art. جوز,) لِكُلِّ جَابِهٍ جَوْزَةٌ ثُمَّ يُوْذَّنُ, (M, TA,) i. e. &lt;i&gt;For every one that comes to water is a single watering&lt;/i&gt; for his family and his cattle; &lt;i&gt;then his ear is struck,&lt;/i&gt; to apprize him that he has nothing more to receive from them: (TA in the present art., and the like is said in the same in art. جوز:) or, (assumed tropical:)  &lt;i&gt;then he is repelled from the water:&lt;/i&gt; (TA in art. جوز:) [for اذّنهُ signifies also] ―         -b2-  (assumed tropical:)  &lt;i&gt;He repelled him,&lt;/i&gt; (IAar, T, M, K,) namely, a man, (IAar, T, M,) &lt;i&gt;from drinking,&lt;/i&gt; (K,) &lt;i&gt;and did not give him to drink.&lt;/i&gt; (M, K.) You say also, اَذِّنُوا عَنِّى اُوَلَهَا, [in which the pronoun appears, from the context, to relate to camels,] (assumed tropical:)  &lt;i&gt;Send ye away from me the first ones of them.&lt;/i&gt; (En-Nadr, T.)       -A2-  اذّن النَّعْلَ, (inf. n. as above, S,) &lt;i&gt;He put to the sandal what is termed&lt;/i&gt; <br>\
+                  اُذُنٌ, q. v. infrà: (S, M, K:) and in like manner one says with respect to other things. (S, K.)       -A3-  اذّن, (M, K,) inf. n. as above, (K,) also signifies &lt;i&gt;He made known,&lt;/i&gt; or &lt;i&gt;notified,&lt;/i&gt; a thing (بِشَىْءٍ) &lt;i&gt;much;&lt;/i&gt; (M, K; *) &lt;i&gt;he proclaimed,&lt;/i&gt; or &lt;i&gt;made proclamation;&lt;/i&gt; syn. نَادَى: (Jel in vii. 42, and Bd and Jel in xii. 70 and xxii. 28:) Sb says that some of the Arabs make اَذَّنَ and ↓ <br>\
+      ا=ذَنَ to be syn.: but some say that the former signifies &lt;i&gt;he called out publickly;&lt;/i&gt; and the latter, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَعْلَمَ [&lt;i&gt;he made to know,&lt;/i&gt; &amp;amp;c.: see 4]. (M, TA.) It is said in the Kur [xxii. 28], وَاَذِّنْ فِى <br>\
+                  النَّاسِ بِالحَجِّ (M) &lt;i&gt;And proclaim thou, among the people, the pilgrimage.&lt;/i&gt; (Bd, Jel.) ―         -b2-  Also, (S, K,) or اذّن بِالصَّلَاةِ, (Msb,) inf. n. as above, (M, K,) or اَذَانٌ, (S,) or both, (TA,) or the latter is [properly speaking] a simple subst. [used as an inf. n.], as in the instances of وَدَّعَ وَدَاعَّا and سَلَّمَ سَلَامًا and كَلَّمَ كَلَامًا &amp;amp;c., (Msb,) &lt;i&gt;He called to prayer;&lt;/i&gt; (M, K;) &lt;i&gt;he notified,&lt;/i&gt; or &lt;i&gt;made known,&lt;/i&gt; or &lt;i&gt;proclaimed,&lt;/i&gt; [i. e., &lt;i&gt;chanted,&lt;/i&gt; from the مِيْذَنَة,] &lt;i&gt;the time of prayer;&lt;/i&gt; (S, * Msb, * TA;) and ↓ <br>\
+      ا=ذَنَ signifies the same, (K,) inf. n. اـِيذَانٌ. (TA.) IB says, the phrase اَذَّنَ العَصْرُ, with the verb in the act. form, [a phrase commonly obtaining in the present day,] is wrong; the correct expression being اُذِّنَ بِالعَصْرِ [&lt;i&gt;The time of the prayer of afternoon was proclaimed,&lt;/i&gt; i. e., &lt;i&gt;chanted&lt;/i&gt;], with the verb in the pass. form, and with the preposition to connect it with its subject. (Msb.) ―         -b3-  You say also, اَذَّنَ بِاـِرْسَالِ اـِبِلِهِ <br>\
+                  &lt;i&gt;He spoke of sending away his camels.&lt;/i&gt; (En-Nadr, T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n482&quot; key=&quot;ا=ذنهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=ذنهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, last sentence but one. ―         -b2-  [Hence, app.,] inf. n. اـِيذَانٌ, (assumed tropical:)  &lt;i&gt;He prevented him,&lt;/i&gt; or &lt;i&gt;forbade him;&lt;/i&gt; (K;) and &lt;i&gt;repelled him.&lt;/i&gt; (TA.) [See also 2.] ―         -b3-  And (assumed tropical:)  &lt;i&gt;It&lt;/i&gt; (a thing, M) &lt;i&gt;pleased,&lt;/i&gt; or &lt;i&gt;rejoiced, him,&lt;/i&gt; (M, K,) &lt;i&gt;and he therefore listened to it.&lt;/i&gt; (M.)       -A2-  ا=ذَنْتُهُ, inf. n. اـِيذَانٌ, (T, Msb,) in the place of which the subst. اَذَانٌ is also used, (T,) signifies اَعْلَمْتُهُ [&lt;i&gt;I made him to know,&lt;/i&gt; or &lt;i&gt;have knowledge; informed, apprized, advertised,&lt;/i&gt; or &lt;i&gt;advised, him; gave him information, intelligence, notice,&lt;/i&gt; or &lt;i&gt;advice:&lt;/i&gt; and &lt;i&gt;I made it known, notified it,&lt;/i&gt; or &lt;i&gt;announced it&lt;/i&gt;]: (T, Msb:) and ↓ <br>\
+      تَاَذَّنْتُ, also, signifies اَعْلَمْتُ [as meaning &lt;i&gt;I made to know,&lt;/i&gt; &amp;amp;c.: and &lt;i&gt;I made known,&lt;/i&gt; &amp;amp;c.]. (Msb.) You say, ا=ذنهُ بِالاَمْرِ, (T, K, [in the CK, erroneously, اَذَنَهُ,]) or بِالشَّىْءِ, (S,) and ا=ذنهُ الاَمْرَ, (M, K,) inf. n. اـِيذَانٌ, (T,) meaning اَعْلَمَهُ [&lt;i&gt;He made him to know,&lt;/i&gt; or &lt;i&gt;have knowledge of, the thing; informed, apprized, advertised,&lt;/i&gt; or &lt;i&gt;advised, him of it; gave him information, intelligence, notice,&lt;/i&gt; or &lt;i&gt;advice, of it; made it known, notified it,&lt;/i&gt; or &lt;i&gt;announced it, to him&lt;/i&gt;]; (T, S, M, K;) as also الاَمْرَ ↓ <br>\
+      تاذّنهُ. (M.) So, accord. to one reading, in the Kur [ii. 279], فَا=ذِنُوا بِحَرْبٍ مِنَ اللّٰهِ <br>\
+                  &lt;i&gt;Then make ye known,&lt;/i&gt; or &lt;i&gt;notify ye,&lt;/i&gt; or &lt;i&gt;announce ye, war from God.&lt;/i&gt; (M. [For the more common reading, see 1, latter part.]) And so in the Kur [vii. 166], رَبُّكَ ↓ <br>\
+      وَ اـِذْ تَاَذَّنَ <br>\
+                  &lt;i&gt;And when thy Lord made known,&lt;/i&gt; or &lt;i&gt;notified,&lt;/i&gt; or &lt;i&gt;announced:&lt;/i&gt; (Zj, S, M, K: *) or the meaning here is, &lt;i&gt;swore:&lt;/i&gt; (M, K: *) [for] you say, لَيَفْعَدَنَ ↓ <br>\
+      تَاَذَّنَ, meaning &lt;i&gt;he swore that he would assuredly do&lt;/i&gt; [such a thing]: (M:) Lth says that لَاَ فْعَلَنَّ كَذَا وَ كَذَا ↓ <br>\
+      تَاَذَّنْتُ signifies the making the action obligatory. (T.) You say also, الاَمِيرُ فِى النَّاسِ ↓ <br>\
+      تَاَذَّنَ <br>\
+                  &lt;i&gt;The commander,&lt;/i&gt; or &lt;i&gt;governor,&lt;/i&gt; or &lt;i&gt;prince, proclaimed&lt;/i&gt; (نَادَى) &lt;i&gt;among the people, with threatening&lt;/i&gt; (S, K) &lt;i&gt;and prohibition;&lt;/i&gt; i. e. تَقَدَّمَ and اَعْلَمَ. (S.) And you say of a building that has cracked in its sides, ا=ذَنَ بِاْلِانْهِدَامِ <br>\
+                  وَالسُّقُوطِ (assumed tropical:)  [&lt;i&gt;It gave notice of becoming a ruin and of falling down&lt;/i&gt;]. (Msb in art. دعو.) [See also a similar ex. in a verse cited voce اَلَا. And hence,] ا=ذَنَ العُشْبُ [in the CK (erroneously) اَذَنَ] (tropical:)  &lt;i&gt;The herbage began to dry up; part of it being still succulent, and part already dried up.&lt;/i&gt; (M, K, TA.) And ا=ذَنَ الحُبُّ <br>\
+                  &lt;i&gt;The grain put forth its&lt;/i&gt; <br>\
+                  اَذَنَة, or &lt;i&gt;leaves.&lt;/i&gt; (TA.) See also 2, latter half, in two places.       -A3-  ا=ذَنَ and ↓ <br>\
+      تاذّن are [also] used in one and the same sense [as meaning &lt;i&gt;He knew; had knowledge;&lt;/i&gt; or &lt;i&gt;became informed, apprized, advertised,&lt;/i&gt; or &lt;i&gt;advised,&lt;/i&gt; of a thing]; like as one says اَيْقَنَ and تَيَقَّنَ. (S, TA.) You say, ↓ <br>\
+      تَاَذَّنْ, meaning اِعْلَمْ [&lt;i&gt;Know thou&lt;/i&gt;]; like as you say تَعَلَّمْ, meaning اِعْلَمْ. (M.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَذَّنَ<br>\
+                  &lt;/form&gt; see 4, in eight places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n483&quot; key=&quot;استاذنهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاذنهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He asked,&lt;/i&gt; or &lt;i&gt;demanded, of him permission,&lt;/i&gt; or &lt;i&gt;leave,&lt;/i&gt; (M, Msb, K,) فِى كَذَا <br>\
+                  &lt;i&gt;to do such a thing.&lt;/i&gt; (Msb.) [You say, استاذن meaning &lt;i&gt;He asked,&lt;/i&gt; or &lt;i&gt;demanded, permission,&lt;/i&gt; or &lt;i&gt;leave, to enter,&lt;/i&gt; or &lt;i&gt;to come into the presence of another;&lt;/i&gt; and &lt;i&gt;to go.&lt;/i&gt; And استاذن فِى الدُّخُولِ عليه, and, elliptically, استاذن عليه, &lt;i&gt;He asked,&lt;/i&gt; or &lt;i&gt;demanded, permission,&lt;/i&gt; or &lt;i&gt;leave, to go in to him.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n484&quot; key=&quot;اُذْنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُذْنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُذُنٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n485&quot; key=&quot;اـِذْنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِذْنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [is held by some to be an inf. n., like ↓ <br>\
+      اَذَيِنٌ: (see 1:) by others, to be] a simple subst.; (Msb;) signifying &lt;i&gt;Permission; leave;&lt;/i&gt; or &lt;i&gt;concession of liberty,&lt;/i&gt; to do a thing: and sometimes &lt;i&gt;command:&lt;/i&gt; and likewise &lt;i&gt;will;&lt;/i&gt; (Msb, TA;) as in the phrase بِاـِذْنِ اْللّٰهِ <br>\
+                  &lt;i&gt;by the will of God:&lt;/i&gt; (Msb:) or, accord. to El-Harállee, the &lt;i&gt;withdrawal,&lt;/i&gt; or &lt;i&gt;removal, of prevention&lt;/i&gt; or &lt;i&gt;prohibition,&lt;/i&gt; and the &lt;i&gt;giving of power&lt;/i&gt; or &lt;i&gt;ability, in respect of being and creation:&lt;/i&gt; or, accord. to Ibn-El-Kemál, the &lt;i&gt;rescission of prohibition, and concession of freedom of action, to him who has been prohibited by law:&lt;/i&gt; or, accord. to Er-Rághib, the &lt;i&gt;notification of the allowance&lt;/i&gt; or &lt;i&gt;permission of a thing, and of indulgence in respect of it;&lt;/i&gt; as in اـِلَّا لِيُطَاعَ بِاـِذْنِ <br>\
+                  اْللّٰهِ, [in the Kur iv. 67,] meaning [&lt;i&gt;but that he may be obeyed&lt;/i&gt;] &lt;i&gt;by the will of God,&lt;/i&gt; and [also] &lt;i&gt;by his command:&lt;/i&gt; (TA:) or, as explained in the Ksh, &lt;i&gt;facilitation;&lt;/i&gt; an explanation founded upon the opinion that the actions of men are by their own effective power, but facilitated by God; and in this sense, Esh-Shiháb regards it as a metaphor, or a non-metaphorical trope: (MF:) and &lt;i&gt;accommodation;&lt;/i&gt; syn. تَوْفِيقٌ; (Hr in explanation of a clause of iii. 139 of the Kur [which see below];) but Es-Semeen says that this requires consideration. (TA.) ―         -b2-  Also &lt;i&gt;Knowledge;&lt;/i&gt; syn. عِلْمٌ; (T, M, K;) and so ↓ <br>\
+      اَذِينٌ; (M, K;) as in the saying فَعَلَهُ بِاـِذْنِى (T, * M, K) and ↓ <br>\
+      بِاَذِينى (M, K) [&lt;i&gt;He did it with my knowledge&lt;/i&gt;]: or اـِذْنٌ has a &lt;pb n=&quot;43&quot; TEIform=&quot;pb&quot;/&gt; more particular signification than عِلْمٌ, being scarcely ever, or never, used save of that [&lt;i&gt;knowledge&lt;/i&gt;] &lt;i&gt;wherein is will, conjoined with command&lt;/i&gt; or &lt;i&gt;not conjoined therewith;&lt;/i&gt; for in the saying [in the Kur iii. 139, referred to above,] وَمَا كَانَ لِنَفْسٍ <br>\
+                  اَنْ تَمُوتَ اـِلَّا بِاـِذْنِ اْللّٰهِ [&lt;i&gt;And it is not for a soul to die save with the knowledge of God&lt;/i&gt;], it is known that there are will and command; and in the saying [in the Kur ii. 96], وَمَا هُمْ بِضَّارِينَ بِهِ مِنْ <br>\
+                  اَحَدٍ اـِلَّا باـِذْنِ اْللّٰهِ [&lt;i&gt;But they do not injure thereby any one save with the knowledge of God&lt;/i&gt;], there is will in one respect, for there is no difference of opinion as to the fact that God hath made to exist in man a faculty wherein is the power of injuring another: (Er-Rághib:) but Es-Semeen says that this plea is adduced by Er-Rághib because of his inclining to the persuasion of the Moatezileh. (TA.) You say also, فَعَلْتُ كَذَا بِاـِذْنِهِ meaning &lt;i&gt;I did thus by his command.&lt;/i&gt; (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n486&quot; key=&quot;اَذَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَذَنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَذَنَةٌ    <br>\
+&lt;entryFree id=&quot;n487&quot; key=&quot;اُذُنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُذُنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اُذْنٌ, (S, M, Msb, K,) the latter a contraction of the former, [which is the more common,] (Msb,) [The &lt;i&gt;ear;&lt;/i&gt;] &lt;i&gt;one of the organs of sense;&lt;/i&gt; (M, TA;) &lt;i&gt;well known:&lt;/i&gt; (M:) of the fem. gender: (S, M, Msb, K:) as also ↓ <br>\
+      اَذِينٌ: (K:) pl. ا=ذَانٌ, (S, M, Msb, K,) its only pl. form: (M:) dim. ↓ <br>\
+      اُذَيْنَةٌ; but when used as a proper name of a man, اُذَيْنُ, though اُذَيْنَةُ has been heard. (S.) You say, جَا=ءَ نَاشِرَّا اُذُنَيْهِ [&lt;i&gt;He came spreading,&lt;/i&gt; or, as we say, &lt;i&gt;pricking up, his ears:&lt;/i&gt; meaning] (tropical:)  &lt;i&gt;he came in a state of covetousness,&lt;/i&gt; or &lt;i&gt;eagerness.&lt;/i&gt; (T, K, TA. [See also نَشَرَ.]) And وَجَدْتُ فُلَانًا لَا بِسًا اُذُنَيْهِ (tropical:)  &lt;i&gt;I found such a one feigning himself inattentive,&lt;/i&gt; or &lt;i&gt;heedless.&lt;/i&gt; (T, TA.) And لَبِسْتُ اُذُنَىَّ لَهُ (tropical:)  &lt;i&gt;I turned away from him, avoided him,&lt;/i&gt; or &lt;i&gt;shunned him:&lt;/i&gt; or &lt;i&gt;I feigned myself inattentive,&lt;/i&gt; or &lt;i&gt;heedless, to him.&lt;/i&gt; (K, TA. [See also لَبِسَ.]) ―         -b2-  (tropical:)  A man &lt;i&gt;who listens to what is said to him:&lt;/i&gt; (M, K, TA:) or a man &lt;i&gt;who hears the speech of every one:&lt;/i&gt; (S:) or &lt;i&gt;who relies upon what is said to him;&lt;/i&gt; as also وَابِصَةُ السَّمْعِ: (M in art. وبص:) applied as an epithet to one and to a pl. number, (S, M, K,) alike, (S, M,) and to two, and to a woman; not being pluralized nor dualized [nor having the fem. form given to it]: (IB:) you say رَجُلٌ اٌذْنٌ (AZ, S, M) and اُذْنٌ, and رِجَالٌ اُذُنٌ and اُذْنٌ [&amp;amp;c.]: (AZ, M:) and sometimes it is applied to a man as a name of evil import. (M.) It is said in the Kur [ix. 61], وَيَقُولُونَ هُوَ اُذُنٌ قُلْ اُذُنُ خَيْرٍ لَكُمْ (T, M) &lt;i&gt;And they say, “He is one who hears and believes everything that is said to him:”&lt;/i&gt; as though, by reason of the excess of his listening, he were altogether the organ of hearing; like as a spy is termed عَيْنٌ; or اُذُن is here from اَذِنَ “he listened,” and is like اُنُفٌ and شُلُلٌ in its derivation: (Bd:) for among the hypocrites was he who found fault with the Prophet, saying, “If anything be told him from me, I swear to him, and he receives it from me, because he is an اُذُن:” (M:) therefore he is commanded to answer, &lt;i&gt;Say, “A hearer of good for you.”&lt;/i&gt; (T, M, Bd.) ―         -b3-  (assumed tropical:)  &lt;i&gt;A sincere,&lt;/i&gt; or &lt;i&gt;faithful, adviser&lt;/i&gt; of a people, &lt;i&gt;who counsels to obedience:&lt;/i&gt; (Msb:) a man&#39;s &lt;i&gt;intimate, and special,&lt;/i&gt; or &lt;i&gt;particular, friend.&lt;/i&gt; (TA.) ―         -b4-  (assumed tropical:)  &lt;i&gt;A certain appertenance&lt;/i&gt; of the heart; (M;) [i. e. either &lt;i&gt;auricle&lt;/i&gt; thereof;] اُذُنَا القَلْبِ signifying &lt;i&gt;two appendages&lt;/i&gt; (زَنَمَتَانِ) &lt;i&gt;in the upper part of the heart:&lt;/i&gt; (K:) and (tropical:)  of a نَصْل [or arrow-head or the like; i. e. either &lt;i&gt;wing&lt;/i&gt; thereof]: and (tropical:)  of an arrow; ا=ذَانُ السَّهْمِ signifying &lt;i&gt;the feathers of the arrow,&lt;/i&gt; as AHn says, when they are attached thereon; and ذُو ثَلَاثِ ا=ذَانٍ [&lt;i&gt;a thing having three such feathers&lt;/i&gt;] meaning &lt;i&gt;an arrow:&lt;/i&gt; all so called by way of comparison: (M:) and (assumed tropical:)  of a sandal; (S, M, K;) i. e. the &lt;i&gt;part&lt;/i&gt; thereof &lt;i&gt;that surrounds the&lt;/i&gt; <br>\
+                  قِبَال [q. v.]: (M:) or اُذُنَا النَّعْلِ signifies &lt;i&gt;the two parts,&lt;/i&gt; [or &lt;i&gt;loops,&lt;/i&gt;] &lt;i&gt;of the sandal, to which are tied the&lt;/i&gt; <br>\
+                  عَضُدَانِ <br>\
+                  &lt;i&gt;of the&lt;/i&gt; <br>\
+                  شِرَاك, [or &lt;i&gt;two branches of the thong that is attached to another thong between two of the toes, which two branches, however, sometimes pass through the&lt;/i&gt; <br>\
+                  اُذُنَانِ, &lt;i&gt;encompassing the heel,&lt;/i&gt;] &lt;i&gt;behind the narrow part (خَصْر) of the sole.&lt;/i&gt; (AO in an anonymous MS in my possession. See also خَصْرٌ.) ―         -b5-  (tropical:)  &lt;i&gt;A handle,&lt;/i&gt; (M,) or [&lt;i&gt;a loopshaped,&lt;/i&gt; or &lt;i&gt;an ear-shaped, handle, such as is termed&lt;/i&gt;] عُرْوَة, (T, K,) of anything; (M, K) as, for instance, (M,) of a كُوز [or mug]; (T, M;) and of a دَلْو [or bucket]: so called by way of comparison: and in all cases fem.: (M:) pl. as above. (T.) ―         -b6-  (assumed tropical:)  &lt;i&gt;What becomes sharp,&lt;/i&gt; or &lt;i&gt;pointed, and then falls off,&lt;/i&gt; or &lt;i&gt;out,&lt;/i&gt; of the plants called عَرْفَج and ثُمَام when they put forth their خُوص [q. v.], or when their خوص become perfect; because it has the shape of an ear. (AHn, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n488&quot; key=&quot;اـِذَنْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِذَنْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, also written اـِذًا: see art. اذا.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n489&quot; key=&quot;اَذَنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَذَنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;leaves of trees,&lt;/i&gt; (En-Nadr, T,) or &lt;i&gt;of grain.&lt;/i&gt; (K.) ―         -b2-  [The &lt;i&gt;kind of leaf called&lt;/i&gt; <br>\
+                  خُوصَة of the ثُمَام.] ―         -b3-  (tropical:)  The &lt;i&gt;young ones of camels&lt;/i&gt; and &lt;i&gt;of sheep&lt;/i&gt; or &lt;i&gt;goats;&lt;/i&gt; (En-Nadr, T, K;) as being likened to the خُوصَة of the ثُمَام. (TA.) ―         -b4-  &lt;i&gt;A piece of straw:&lt;/i&gt; pl. [or rather coll. gen. n.] ↓ <br>\
+      اَذَنٌ [in the CK اُذُنٌ]. (IAar, T, K.)       -A2-  &lt;i&gt;Appetite, appetency, longing, yearning,&lt;/i&gt; or &lt;i&gt;strong desire.&lt;/i&gt; (En-Nadr, T.) You say, هٰذِهِ بَقْلَةٌ تَجِدُ بِهَا الاـِبِلُ <br>\
+                  اَذَنَةَ شَدِيدَةً <br>\
+                  &lt;i&gt;This is a herb for which the camels feel a strong appetite &amp;amp;c.&lt;/i&gt; (En-Nadr, T.) And هٰذَا طَعَامٌ لَا اَذَنَةَ لَهُ <br>\
+                  &lt;i&gt;This is food for the odour of which there is no appetite.&lt;/i&gt; (K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n490&quot; key=&quot;اَذَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَذَانٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A making known; a notification; an announcement.&lt;/i&gt; (T, S, Mgh.) [See 4.] So in the Kur [ix. 3], وَ اَذَانٌ مِنَ اْللّٰهِ وَرَسُولِهِ اـِلَى النَّاسِ [&lt;i&gt;And a notification,&lt;/i&gt; or &lt;i&gt;an announcement, from God and his apostle to men,&lt;/i&gt; or &lt;i&gt;the people&lt;/i&gt;]. (T, Mgh.) ―         -b2-  Also, and ↓ <br>\
+      اَذِينٌ, (T, S, M, K,) and تَاْذِينٌ, [the last an inf. n. of 2, and the second a quasi-inf. n. of the same, which see,] (M, K,) The &lt;i&gt;notification,&lt;/i&gt; or &lt;i&gt;announcement, of prayer,&lt;/i&gt; and &lt;i&gt;of the time thereof;&lt;/i&gt; (T, S;) the &lt;i&gt;call to prayer.&lt;/i&gt; (M, K.) [The words of this call (which is usually chanted from the مِيْذَنَة, or turret of the mosque,) are اَللّٰهُ اَكْبَرْ (four times) اَشْهَدُ انْ لَا اـِلٰهَ <br>\
+                  اـِلَّا اْللّٰهْ (twice) اَشْهَدُ اَنَّ مُحَمَّدًا رَّسُولُ اْللّٰهُ (twice) حَيَّ عَلَى الصَّلَاهٌ (twice) حَىَّ عَلَى الفَلَاحْ (twice) اَللّٰهُ اَكْبَرٌ (twice) لَا اـِلٰهَ اـِلَّا اْللّٰهٌ.] ―         -b3-  الاَذَانُ also signifies &lt;i&gt;The [notification,&lt;/i&gt; or &lt;i&gt;announcement, called&lt;/i&gt;] اـِقَامَة; (M, K;) because it is a notification to be present at the performance of the divinelyordained prayers. (TA.) [This (which is chanted in the mosque) consists of the words of the former اَذَان with the addition of قَدْ قَامَتِ الصَّلَاهْ pronounced twice after حَىَ عَلَى الفَلَاحْ.] ―         -b4-  الاَذَانَانِ signifies &lt;i&gt;The&lt;/i&gt; <br>\
+                  اَذَانِ [&lt;i&gt;more commonly so called&lt;/i&gt;] &lt;i&gt;and the&lt;/i&gt; <br>\
+                  اـِقَامَة. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n491&quot; key=&quot;اَذُونٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَذُونٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [An animal &lt;i&gt;having an ear;&lt;/i&gt; as distinguished from صَمُوخٌ, which means “having merely an ear-hole”]. (Msb in art. بيض.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n492&quot; key=&quot;اَذِينٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَذِينٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُذُنٌ.       -A2-  See also اـِذْنٌ, in three places. ―         -b2-  And see اَذَانٌ.       -A3-  &lt;i&gt;I. q.&lt;/i&gt; ↓ <br>\
+      مُوْذِنٌ [&lt;i&gt;Making to know&lt;/i&gt; or &lt;i&gt;have knowledge, بِاَمْرٍ of a thing; informing, apprizing, advertising,&lt;/i&gt; or &lt;i&gt;advising; giving information, intelligence, notice,&lt;/i&gt; or &lt;i&gt;advice; making known, notifying,&lt;/i&gt; or &lt;i&gt;announcing&lt;/i&gt;]: like اَلِيمٌ and وَجِيعٌ as meaning مُوْلِمٌ and مُوجِعٌ. (M.) ―         -b2-  See also مُوَذِّنٌ.       -A4-  One who is &lt;i&gt;responsible, answerable, amenable,&lt;/i&gt; or &lt;i&gt;a surety;&lt;/i&gt; [بِاَمْرٍ <br>\
+                  &lt;i&gt;for a thing;&lt;/i&gt; and perhaps also بِغَيْرِهِ <br>\
+                  &lt;i&gt;for another person;&lt;/i&gt;] syn. كَفِيلٌ (S, M, K) and زَعِيمٌ [which signifies the same as كَفِيلٌ, and is plainly shown in the M to be here used as a syn. of this latter; but SM assigns to it here another meaning, namely رَيِيسٌ, in which sense I find no instance of the use of اَذِينٌ]; (AO, M;) and ↓ <br>\
+      ا=ذِنٌ also is syn. with اَذِينٌ in the sense of كَفِيلٌ. (K.)       -A5-  Also &lt;i&gt;A place to which the&lt;/i&gt; <br>\
+                  اَذَان [or &lt;i&gt;call to prayer&lt;/i&gt;] &lt;i&gt;comes&lt;/i&gt; [or &lt;i&gt;reaches&lt;/i&gt;] &lt;i&gt;from&lt;/i&gt; [or &lt;i&gt;on&lt;/i&gt;] &lt;i&gt;every side.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n493&quot; key=&quot;اُذَيْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُذَيْنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; dim. of اُذُنٌ, q. v. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n494&quot; key=&quot;اُذَانِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُذَانِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, M, Mgh, K) and ↓ <br>\
+      ا=ذَنُ (M, K) &lt;i&gt;Largeeared;&lt;/i&gt; (S, M, Mgh, K;) &lt;i&gt;long-eared;&lt;/i&gt; (M;) applied to a man, (S, M, K,) and to a camel, and to a sheep or goat: (M:) [or] the latter epithet is applied to a ram; and its fem. اَذْنَا=ءُ to a ewe. (T, S, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n495&quot; key=&quot;اُذَيْنِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُذَيْنِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;who hears everything that is said:&lt;/i&gt; but this is a vulgar word. (TA.) [See اُذُنٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n496&quot; key=&quot;ا=ذَنُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=ذَنُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُذَانِىٌّ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n497&quot; key=&quot;ا=ذِنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=ذِنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [act. part. n. of 1. As such, &lt;i&gt;Permitting,&lt;/i&gt; or &lt;i&gt;allowing;&lt;/i&gt; one &lt;i&gt;who permits,&lt;/i&gt; or &lt;i&gt;allows.&lt;/i&gt; And hence,] &lt;i&gt;A doorkeeper,&lt;/i&gt; or &lt;i&gt;chamberlain.&lt;/i&gt; (S, K.) ―         -b2-  See also اَذِينٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n498&quot; key=&quot;مُوْذَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْذَنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَاْذُونٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n499&quot; key=&quot;مُوْذِنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْذِنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَذِينٌ. You say, سِيمَاهُ بِالخَيْرِ مُوْذِنَةٌ <br>\
+                  &lt;i&gt;His impress notifies&lt;/i&gt; [or &lt;i&gt;is indicative of&lt;/i&gt;] &lt;i&gt;goodness.&lt;/i&gt; (TA.) ―         -b2-  مُوْذِنَاتٌ, signifying The &lt;i&gt;women who notify,&lt;/i&gt; or &lt;i&gt;announce, the times of festivity and rejoicing,&lt;/i&gt; [&lt;i&gt;particularly on the occasions of weddings,&lt;/i&gt;] is a vulgar word. (TA.)       -A2-  Herbage &lt;i&gt;beginning to dry up; part of it being still succulent, and part already dried up:&lt;/i&gt; and a branch, or wood, &lt;i&gt;that has dried, but has in it some succulency.&lt;/i&gt; (TA.) &lt;pb n=&quot;44&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n500&quot; key=&quot;مَاْذَنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْذَنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n501&quot; key=&quot;مُوْذَنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْذَنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n502&quot; key=&quot;مِيْذَنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْذَنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (which may also be pronounced مِيذَنَةٌ, Msb) The &lt;i&gt;place&lt;/i&gt; [generally &lt;i&gt;a turret of a mosque&lt;/i&gt;] &lt;i&gt;upon which the time of prayer is notified, made known,&lt;/i&gt; or &lt;i&gt;proclaimed;&lt;/i&gt; (T, M, * K; *) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَنَارَةٌ [which has this meaning and others also]; (AZ, T, S, Msb;) as also ↓ <br>\
+      مُوْذَنَةٌ: (AZ, T:) or it signifies, (as in some copies of the K,) or signifies also, (as in other copies of the same,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَنَارَةٌ: and صَوْمَعَةٌ: [see these two words:] (K:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَنَارَةٌ, meaning صَوْمَعَةٌ; (Lh, M, TA;) by way of comparison [to the turret first mentioned]: but as to ↓ <br>\
+      مَاْذَنَةٌ, it is a vulgar word: (TA:) the pl. is مَا=ذِنُ, agreeably with the original form of the sing. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n503&quot; key=&quot;مُوَذِّنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَذِّنٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;One who notifies, makes known,&lt;/i&gt; or &lt;i&gt;proclaims,&lt;/i&gt; [by a chant,] &lt;i&gt;the time of prayer;&lt;/i&gt; (M, * Msb, K; *) [i. e., &lt;i&gt;who chants the call to prayer;&lt;/i&gt;] as also ↓ <br>\
+      اَذِينٌ. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n504&quot; key=&quot;مَاْذُونٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْذُونٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, as meaning A slave &lt;i&gt;permitted,&lt;/i&gt; or &lt;i&gt;having leave given him, by his master, to traffic,&lt;/i&gt; is used for مَاْذُونٌ لَهُ, (Msb, TA,) by the lawyers. (Msb.)       -A2-  Also &lt;i&gt;Having his ear hit,&lt;/i&gt; or &lt;i&gt;hurt;&lt;/i&gt; and so ↓ <br>\
+      مُوْذَنٌ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

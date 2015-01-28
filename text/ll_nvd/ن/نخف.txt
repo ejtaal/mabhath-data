@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نخفنِخَافٌ<br>\
+A boot: (IAar, K, TA:) or a boot<br>\
+much patched. (Az, TA.)<br>\
+' } );

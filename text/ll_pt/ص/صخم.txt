@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>صخم</em>            1                  صخم<br>\
+<b>صَخَمَتْهُ الشَّمْسُ</b>               1     <br>\
+                     صَخَمَتْهُ الشَّمْسُ<br>\
+                     ذ<br>\
+                  <i>The sun smote,</i> or <i>hurt,</i> or <i>burned, him,</i> or <i>his face.</i> (K.)    </entryFree> <br>\
+<b>اصطخم</b>               1     <br>\
+                     اصطخم<br>\
+                     ذ<br>\
+                  , (S, K,) and اصطحم, (K,) <i>He stood erect,</i> (S, K, TA,) and El-&#39;Abbás adds, <i>silent, as though he were angry.</i> (TA.) [See also the part. n., below.]    </entryFree> <br>\
+<b>صَخْمَا=ءُ</b>               1     <br>\
+                     صَخْمَا=ءُ<br>\
+                     ذ<br>\
+                   A [stony tract such as is termed] حَرَّة <br>\
+                  <i>in which the plain is intermixed with the rugged.</i> (K.)    </entryFree> <br>\
+<b>مُصْطَخِمٌ</b>               1     <br>\
+                     مُصْطَخِمٌ<br>\
+                     ذ<br>\
+                   part. n. of 8. (S.) Applied to a chameleon, <i>Standing erect, towards the sun;</i> [app. on a branch;] as also مُصْطَخِدٌ. (L in art. صخد.)   </entryFree> <br>\
+' } );

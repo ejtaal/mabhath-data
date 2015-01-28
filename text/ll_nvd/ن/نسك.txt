@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'نسك1<br>\
+نَسَكَ<br>\
+He worshipped: used transitively.<br>\
+See an ex. in a verse of El-Aashà, in the S, art.<br>\
+نصب. See 5.<br>\
+4<br>\
+أَنْسَكَ<br>\
+[app. He washed and purified a<br>\
+garment]. (TA voce إِجْتَابَ.)<br>\
+5<br>\
+تَنَسَّكَ<br>\
+He devoted himself to religious exercises; applied himself to devotion; (S, Msb, K:)<br>\
+as also ↓ نَسَكَ (S, K) and ↓ نَسُكَ: (K:) or the last,<br>\
+he became a<br>\
+نَاسِك. (S.)<br>\
+نَسِيكَةٌ<br>\
+: see عَقِيقَةٌ.<br>\
+مَنَاسِكُ الحَجِّ<br>\
+The religious rites and ceremonies<br>\
+of the pilgrimage: or the places where those<br>\
+rites and ceremonies are performed. (Msb.)<br>\
+' } );

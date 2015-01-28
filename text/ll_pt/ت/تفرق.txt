@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>تفرق</em>            1                  تفرق<br>\
+<b>تُفْرُوقٌ</b>               1     <br>\
+                     تُفْرُوقٌ<br>\
+                     تفروق<br>\
+                   The قِمَع [or <i>base</i>] <i>of a date;</i> (Ibn- &#39;Abbád, K;) a dial. var. of ثُفْرُوقٌ [q. v.]: pl. تَفَارِيقُ. (TA.)   </entryFree> <br>\
+' } );

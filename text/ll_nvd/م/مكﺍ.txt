@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مكأمَكْءٌ The hole of a fox, or of a hare, or rabbit:<br>\
+or, accord. to Th, the hole of the kind of lizard<br>\
+called ضَبّ. (L.)<br>\
+' } );

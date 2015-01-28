@@ -1,0 +1,46 @@
+load_data( { book: 'll_pt', text: '<em>بطرك</em>            1                  بطرك<br>\
+<b>بَطْرَكٌ</b>               1     <br>\
+                     بَطْرَكٌ<br>\
+                     طر<br>\
+                     بطر<br>\
+                     بطرك<br>\
+                   and بِطَرْكٌ <br>\
+                  <i>i. q.</i> <br>\
+                  بِطْرِيقٌ, (As, K,) i. e. <i>A leader of the Christians:</i> (TA:) or the <i>chief of the Magians:</i> (K:) [in the present day, the former is applied to <i>a Patriarch of a Christian church;</i> as also ↓ <br>\
+      بِطْرِيكٌ: (see جَاثَلِيقٌ:) pl. بَطَارِكَةٌ and بَطَارِيكُ]: adventitious; not Arabic. (Az, TA.)    </entryFree> <br>\
+<b>بَطْرَكِىٌّ</b>               1[     <br>\
+                     بَطْرَكِىٌّ<br>\
+                     بطرك<br>\
+                     بطركى<br>\
+                     بطركي<br>\
+                     بطركيي<br>\
+                  <i>Patriarchal;</i> i. e. <i>of,</i> or <i>belonging to,</i> or <i>relating to, a Patriarch of a Christian church;</i> as also ↓ <br>\
+      بِطْرِيكِىٌّ: both modern terms.]    </entryFree> <br>\
+<b>بَطْرَكِيَّةٌ</b>               1[     <br>\
+                     بَطْرَكِيَّةٌ<br>\
+                     بطرك<br>\
+                     بطركيه<br>\
+                     بطركية<br>\
+                  <i>A patriarchate;</i> i. e. the <i>office,</i> or <i>jurisdiction, of a Patriarch of a Christian church;</i> as also ↓ <br>\
+      بِطْرِيكِيَّةٌ: both modern terms.]    </entryFree> <br>\
+<b>بِطْرِيكٌ</b>               1     <br>\
+                     بِطْرِيكٌ<br>\
+                     طري<br>\
+                     بطر<br>\
+                     بطرك<br>\
+                     بطريك<br>\
+                  : see بَطْرَكٌ.    </entryFree> <br>\
+<b>بِطْرِيِكىٌّ</b>               1     <br>\
+                     بِطْرِيِكىٌّ<br>\
+                     بطرك<br>\
+                     بطريكى<br>\
+                     بطريكي<br>\
+                     بطريكيي<br>\
+                  : see بَطْرَكِىٌّ.    </entryFree> <br>\
+<b>بِطْرِيِكيَّهُ</b>               1     <br>\
+                     بِطْرِيِكيَّهُ<br>\
+                     بطرك<br>\
+                     بطريكيه<br>\
+                     بطريكية<br>\
+                  : see بَطْرَكِيَّةٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'خزعبلخَزَعْبَلٌ Stories that are held to be clever, ingenious, or elegant, (IDrd, K,) and at which one<br>\
+laughs. (IDrd.)<br>\
+خُزَعْبَلٌ i. q. بَاطِلٌ [app. as a subst., meaning A<br>\
+false, or vain, saying or deed or affair or thing]; as<br>\
+also ↓ خُزَعْبِيلٌ: (K:) or, accord. to El-Jarmee, (S,<br>\
+TA,) the latter, (S,) or each, (TA,) false, or vain,<br>\
+sayings or deeds or affairs or things. (S, TA.)<br>\
+خُزَعْبَلَةٌ or خُزَعْبِلَةٌ (accord. to different copies of<br>\
+the K) A wonderful thing. (IAar, K.) And<br>\
+[the pls.] خُزَعْبِلَاتٌ and خُزَعْبَلَاتٌ False, or vain,<br>\
+stories. (Har p. 16.)<br>\
+خُزَعْبِيلٌ: see خُزَعْبَلٌ.<br>\
+خُزَعْبِيلَةٌ A laughable thing; a thing that makes<br>\
+people laugh. (S, K) One says, هَاتِ بَعْضَ<br>\
+خُزَعْبِيلَاتِكَ [Give me some of thy laughable thingsor stories]. (S.)<br>\
+' } );

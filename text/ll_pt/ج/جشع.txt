@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>جشع</em>            1                  جشع<br>\
+<b>جَشِعَ</b>               1     <br>\
+                     جَشِعَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     جَشَعَ<br>\
+                  , inf. n. جَشَعٌ, <i>He was,</i> or <i>became, affected with the most vehement desire, eagerness, avidity, cupidity,</i> or <i>hankering,</i> (S, O, K,) and, (O, K,) as explained by an Arab of the desert to As, (IDrd,) <i>with the worst kind thereof,</i> (IDrd, O, K,) for eating &amp;amp;c.: (TA:) or, as ex plained by another Arab of the desert to As, (IDrd,) <i>he took his own share, and coveted the share of another:</i> (IDrd, K:) and ↓ <br>\
+      تجشّع sig nifies the like; (S;) or <i>i. q.</i> <br>\
+                  تَحَرَّصَ, q. v. (K.) ―         -b2-  جَشَعٌ also signifies The <i>being impatient on account of separation from an associate.</i> (TA.) ―         -b3-  And The <i>being frightened, terrified,</i> or <i>afraid.</i> (TA.)    </entryFree> <br>\
+                     تَجَشَّعَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>تَجَاشَعَا المَا=ءَ</b>               1     <br>\
+                     تَجَاشَعَا المَا=ءَ<br>\
+                     ذ<br>\
+                  <i>They straitened each other in pressing to the water, and</i> [so I render تَعَاطَشَا] <i>vied, each with the other, in endeavouring to satisfy their thirst;</i> (K;) on the authority of an Arab of the desert. (TA.)    </entryFree> <br>\
+<b>جَشِعٌ</b>               1     <br>\
+                     جَشِعٌ<br>\
+                     ذ<br>\
+                   part. n. of جَشِعَ, <i>Affected with the most vehement desire,</i> &amp;amp;c.: pl. جَشِعُونَ, (S, K,) and جَشَاعَى and جُشَعَا=ءَ and جِشَاعٌ are also pls. [of the same]. (TA.) ―         -b2-  الجَشِعُ <br>\
+                  <i>The lion.</i> (TA.) ―         -b3-  رَجُلٌ جَشِعٌ بَشِعٌ, <i>A man in whom are combined impatience and fright and a heavy,</i> or <i>a heaving, state of the soul.</i> (TA.)    </entryFree> <br>\
+<b>جَشِيعٌ</b>               1     <br>\
+                     جَشِيعٌ<br>\
+                     ذ<br>\
+                   One <i>who assumes a false disposition, and that which is not in him.</i> (TA.)    </entryFree> <br>\
+<b>اَجْشَعُ</b>               1     <br>\
+                     اَجْشَعُ<br>\
+                     ذ<br>\
+                   [comparative and superlative of جَشِعٌ; <i>More,</i> and <i>most, affected with most vehement desire,</i> &amp;amp;c.]. (TA.)   </entryFree> <br>\
+' } );

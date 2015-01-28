@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كوى</em>            1                  كوى<br>\
+<b>كَوَاهُ</b>               1     <br>\
+                     كَوَاهُ<br>\
+                     ذ<br>\
+                  <i>He</i> (a veterinary, and any other, TA) <i>cauterized him;</i> i. e. <i>burned his skin; with an iron,</i> and <i>the like:</i> (K:) or <i>he burned him</i> with fire. (Mgh.)    <br>\
+' } );

@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>لغد</em>            1                  لغد<br>\
+<b>لَغَدَ</b>               1     <br>\
+                     لَغَدَ<br>\
+                     ذ<br>\
+                  , (aor.      <br>\
+                     لَغَدَ<br>\
+                  , T, L, K, inf. n. لَغْدٌ, T, L,) <i>He made</i> camels <i>to turn back to the right way,</i> or <i>road:</i> (S, L, K:) or <i>he made</i> camels <i>to keep to the road,</i> or, <i>to the right way.</i> (T, L.) ―         -b2-  لَغَدَهُ, inf. n. لَغْدٌ, He hit, or hurt, his لُغْدُود. (IKtt.)    </entryFree> <br>\
+<b>لُغْدٌ</b>               1     <br>\
+                     لُغْدٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      لُغْدُودٌ and ↓ <br>\
+      لِغْدِيدٌ <br>\
+                  <i>A certain portion of flesh in the</i> <br>\
+                  حَلْق [or <i>fauces</i>]: or <i>what resembles redundant portions of flesh within the ear</i> [more fully described below]: or the <i>flesh which surrounds the furthest part of the mouth, towards the</i> <br>\
+                  حَلْق [or <i>fauces</i>]: (K:) pl. (of لغد, S) اَلْغَادٌ; and (of لغدود, S, and لغديد, TA) لَغَادِيدُ: (S, K:) or the الغاد are <i>portions of flesh by the</i> <br>\
+                  لَهَاة; also called لَغَانِينُ [and لغاديد]: (A&#39;Obeyd, L:) or the ↓ <br>\
+      لغاديد are <i>what resemble redundant portions of flesh within the two ears, inside the mouth;</i> also called the نَغَانِغ, and the لَغَانِين: (Zj, in his Khalk el-Insán:) [see الفُنَدْبَةُ:] or the <i>portions of flesh that are between the</i> <br>\
+                  حَنَك [here app. signifying the <i>soft palate</i>] <i>and the side of the neck;</i> as also the الغاد: (S:) or <i>outer part of the</i> <br>\
+                  لغانين, which is a name given to the <i>flesh between the</i> <br>\
+                  نَكَفَتَانِ <br>\
+                  <i>and the tongue, internally:</i> (AZ, L:) or the لغد is <i>in the place of the</i> <br>\
+                  نكفتان, <i>at the root of the neck;</i> also called ↓ <br>\
+      لغدود and ↓ <br>\
+      لغديد: (TA:) or the <i>interior of the</i> <br>\
+                  نَصِيل [or <i>part between the neck and head, beneath the jaw-bone,</i>] <i>between the</i> <br>\
+                  حَنَك [here app. meaning as explained above] <i>and the side of the neck;</i> as also ↓ <br>\
+      لغديد, and ↓ <br>\
+      لغدودانِ, (JK,) for this description applies to two parts [corresponding each to the other, on the right and left]: (L:) [in the present day it is applied, with apparent correctness, to the <i>gill,</i> or <i>gills,</i> or <i>flesh beneath the lower jaw,</i> of a man or woman, <i>whether in the middle</i> or <i>on either side, and more especially when large:</i>] or the <i>place where ends, at its lower part, the lobe of the ear;</i> (AZ, L, K;) and also called the نَكَفَة: (AZ, L:) or the الغاد and ↓ <br>\
+      لغاديد are the <i>roots of the two jaw-bones.</i> (L.) ―         -b2-  عِلْجٌ ضَخْمُ <br>\
+                  اللَّغَادِيدِ, and الاَلْغَادِ, [<i>A sturdy, and big,</i> or <i>coarse, man, large in the gills</i>]. (A.) ―         -b3-  سَبَّنِى <br>\
+                  حَتَّى اَحْمَى لُغْدَهُ [<i>He reviled me until he heated his gills;</i> i. e.,] <i>until he became hot</i> (اِحْتَمَى) <i>by reason of anger.</i> (A.)    </entryFree> <br>\
+<b>لُغْدُودٌ</b>               1     <br>\
+                     لُغْدُودٌ<br>\
+                     ذ<br>\
+                   and لِغْدِيدٌ: see لُغْدٌ throughout.    </entryFree> <br>\
+<b>جَا=ءَ مُتَلَغِّدًا</b>               1     <br>\
+                     جَا=ءَ مُتَلَغِّدًا<br>\
+                     ذ<br>\
+                  <i>He came in a state of rage.</i> (S, K. *)   </entryFree> <br>\
+' } );

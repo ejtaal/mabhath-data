@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>هن</em>            1                  هن<br>\
+<b>هَنٌ</b>               1     <br>\
+                     هَنٌ<br>\
+                     ذ<br>\
+                   and هَنٌّ <br>\
+                  <i>A thing:</i> and <i>a penis:</i> and the <i>vulva</i> of a woman: (KL:) or the former is pl. [or coll. gen. n.] of ↓ <br>\
+      هَنَةٌ, which signifies <i>a small,</i> or <i>little, thing:</i> (MA:) or this last signifies <i>a thing,</i> (KL,) as does هَنٌ: (K, KL:) [but the former meaning I have found to be very common, and I think it the more approvable. ↓ <br>\
+      هَنَةٌ may be rendered <i>something, somewhat:</i>] it denotes anything. (TA.)    </entryFree> <br>\
+<b>هَنَةٌ</b>               1     <br>\
+                     هَنَةٌ<br>\
+                     ذ<br>\
+                  : see هَنٌ.   </entryFree> <br>\
+' } );

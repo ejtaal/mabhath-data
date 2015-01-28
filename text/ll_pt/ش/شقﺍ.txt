@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;شقا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  شقا<br>\
+&lt;entryFree id=&quot;n22720&quot; key=&quot;شَقَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     شَقَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     شَقَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. شَقْ ٌ and شُقُوْءٌ, said of the نَاب [or tush] (S, K) of a camel, (S,) &lt;i&gt;It grew forth;&lt;/i&gt; (S, K;) &lt;i&gt;it appeared;&lt;/i&gt; (TA;) as also شَكَاَ. (K in art. شكا.) [See also شَقَّ.] شَاقِى, with the ء softened [or changed into ى], occurs in a verse of Dhu-r-Rummeh [for the part. n. شاقي]. (TA.)       -A2-  شَقَاَ رَاْسَهُ <br>\
+                  &lt;i&gt;He divided his head;&lt;/i&gt; syn. شَقَّهُ: [meaning, &lt;i&gt;his hair:&lt;/i&gt;] or &lt;i&gt;he separated it&lt;/i&gt; (فَرَّقَهُ) [i. e. &lt;i&gt;his hair&lt;/i&gt;] &lt;i&gt;with the&lt;/i&gt; <br>\
+                  مِشْقَا=ء [or &lt;i&gt;comb&lt;/i&gt;]: (K:) or شَقَاَ شَعَرَهُ بِالمُشْطِ, inf. n. شَقْءٌ, &lt;i&gt;he separated his hair with the comb.&lt;/i&gt; (AZ, S.) ―         -b2-  And شَقَاَهُ, (S, K,) inf. n. شَقْءٌ, (S,) &lt;i&gt;He hit his&lt;/i&gt; <br>\
+                  مَشْقَا, i. e. &lt;i&gt;the place of the parting of the hair of his head,&lt;/i&gt; (S, K,) with a staff, or stick. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n22721&quot; key=&quot;اـِبِلٌ شُوَيْقِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبِلٌ شُوَيْقِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Camels of the age when the&lt;/i&gt; <br>\
+                  نَاب [or &lt;i&gt;tush&lt;/i&gt;] &lt;i&gt;grows forth:&lt;/i&gt; and so شُوَيْكِيَةٌ: (As, TA:) [or شُوَيْكِيَّةٌ, q. v. in art. شوك.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n22722&quot; key=&quot;مَشْقَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَشْقَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, K) and ↓ <br>\
+      مَشْقِيٌ, (Fr, O, TA,) like مَفْرَقٌ and مَفْرِقٌ, (O, TA,) The &lt;i&gt;place of the parting of the hair of the head.&lt;/i&gt; (Fr, S, O, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n22723&quot; key=&quot;مِشْقَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِشْقَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A comb;&lt;/i&gt; (IAar, S, K;) as also ↓ <br>\
+      مِشْقَا=ءٌ and ↓ <br>\
+      مشْقَاَةٌ, and مِشْقًا [or مِشْقًى]. (K: the last also mentioned in the K in art. شقو.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n22724&quot; key=&quot;مَشْقِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَشْقِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَشْقَاٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n22725&quot; key=&quot;مِشْقَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِشْقَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مِشْقَاٌ. ―         -b2-  Also &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مِدْرَاةٌ; (K;) [i. e. &lt;i&gt;A thing,&lt;/i&gt; or &lt;i&gt;an iron instrument, with which the head is scratched;&lt;/i&gt; or &lt;i&gt;a thing like a large needle, with which the female hair-dresser adjusts,&lt;/i&gt; or &lt;i&gt;puts in order, the locks of a woman&#39;s hair;&lt;/i&gt;] or &lt;i&gt;a piece of wood,&lt;/i&gt; or &lt;i&gt;stick,&lt;/i&gt; [&lt;i&gt;like a skewer,&lt;/i&gt;] &lt;i&gt;which a woman inserts in her hair;&lt;/i&gt; or &lt;i&gt;a horn prepared for that purpose&lt;/i&gt; (TA) [or &lt;i&gt;for adjusting the locks of a woman&#39;s hair:&lt;/i&gt; see مِدْرَاةٌ].    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n22726&quot; key=&quot;مِشْقَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِشْقَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مِشْقَاٌ.   &lt;/entryFree&gt; <br>\
+' } );

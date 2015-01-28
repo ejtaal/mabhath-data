@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ودك</em>            1                  ودك<br>\
+<b>وَدَكٌ</b>               1     <br>\
+                     وَدَكٌ<br>\
+                     ذ<br>\
+                  <i>Grease,</i> or <i>gravy:</i> i. e. the <i>oily matter that is produced from flesh-meat;</i> (TA;) or the <i>dripping that exudes from flesh-meat</i> and <i>from fat.</i> (Mgh, Msb.)   </entryFree> <br>\
+' } );

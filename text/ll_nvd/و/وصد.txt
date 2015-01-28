@@ -1,0 +1,68 @@
+load_data( { book: 'll_nvd', text: 'وصد4<br>\
+اوصد He closed, a door, or an entrance;<br>\
+syn. أَغْلَقَ; (S, M, A, L, K;) and أَطْبَقَ: (Msb,<br>\
+K:) as also آصَدَ. (S, L, K.) ―<br>\
+-b2-  See 10. ―<br>\
+-b3-<br>\
+أُوِصِدَ It (a door, or entrance) became closed.<br>\
+(S.) ―<br>\
+-b4-  اوصد He covered, or covered over, a<br>\
+cooking-pot. (M, A, L.) ―<br>\
+-b5-  وَقَعَ الجَبَلُ عَلَى<br>\
+بَابِ الكَهْفِ فَأَوْصَدَهُ The mountain fell upon the<br>\
+entrance of the cavern, and stopped it up. (L,<br>\
+from a trad.) See also أَوْطَدَ. ―<br>\
+-b6-  اوصدوا عَلَيْهِ<br>\
+(tropical:)  They straitened him, and imposed on him a<br>\
+difficulty which he was unable to bear. (A.)<br>\
+10<br>\
+استوصد (S, A, L, K) and ↓ اوصد (A, K)<br>\
+He made a fold, such as is called وَصِيدَة, (S, L,)<br>\
+or وَصِيد, (K,) or a حَظِيرَة, for his sheep or<br>\
+goats, (A,) in a mountain. (S, L.)<br>\
+وِصَادٌ (M, L,) as also إِصَادٌ, (L,) and ↓ وَصِيدٌ<br>\
+[see the Kur, xviii. 17,] (K,) i. q. مطبق: (M,<br>\
+L, K.:) [in a copy of the M written مَطْبَقٌ: in<br>\
+the L, without any syll. signs: in the CK,<br>\
+مُطْبَق: and in my MS. copy of the K, مُطْبِق:<br>\
+see the remarks on these words in art. أَصد:]) or<br>\
+وِصَادٌ and إِصَادٌ are like طِبَاقٌ. (O.)<br>\
+وَصِيدٌ A court, or an open or a wide space in<br>\
+front of a house or dwelling, or extending from<br>\
+its sides: (S, M, A, L, Msb, K:) as also أَصِيدٌ;<br>\
+q. v.: (L:) pl. وُصُدٌ and وَصَائِدُ. (TA.) ―<br>\
+-b2-  A<br>\
+threshold (Msb, K) of a door or entrance. (Msb.)<br>\
+―<br>\
+-b3-  A door, or entrance. (A.) See وِصَادٌ. ―<br>\
+-b4-<br>\
+It has the first of these meanings in the Kur,<br>\
+xviii. 17; (A, L, TA;) or the second: (TA:)<br>\
+or the third: (A, TA:) or it there means The<br>\
+cavern of the Asháb el-Kahf. (K *, TA.) ―<br>\
+-b5-  Also,<br>\
+وَصِيدٌ, (K,) or ↓ وَصِيدَةٌ, (S, A, L,) [as also<br>\
+أَصِيدَةٌ,] A fold (حَظِيرَة) for sheep or goats:<br>\
+(A:) or a house like a حظيرة, of stones, made<br>\
+in the mountains, for flocks or herds; (L, K;)<br>\
+i. e., for sheep or goats &amp;c.: (TA:) an enclosure<br>\
+like a حظيرة, made for flocks or herds, excepting<br>\
+that it is of stones, and a حظيرة [is] of branches<br>\
+of trees: (S, L:) F, misunderstanding this explanation, has erroneously said in the K, that<br>\
+وَصِيدٌ also signifies a حظيرة of branches of trees:<br>\
+(TA:) pl. وَصَائِدُ. (A.) ―<br>\
+-b6-  [Snares, or traps,<br>\
+for catching beasts of prey: see رَصَائِدُ in art.<br>\
+رصد.] ―<br>\
+-b7-  وَصِيدٌ Herbage having the roots near<br>\
+together. (S, L, K.) ―<br>\
+-b8-  وَصِيدٌ (tropical:)  Strait; straitened;<br>\
+(K, TA;) as also عَلَيْهِ ↓ مُوصَدٌ. (A, TA.)<br>\
+وَصِيدَةٌ: see وَصِيدٌ.<br>\
+مُوصَدٌ A door, or entrance, closed: (L:) or<br>\
+become closed. (S.) ―<br>\
+-b2-  In the Kur, eiv. 8, [and<br>\
+xc. 20,] مُوصَدَةٌ (as some read instead of مُؤْصَدَةٌ,<br>\
+L) signifies Closed over. (S, L.) ―<br>\
+-b3-  See وَصِيدٌ.<br>\
+' } );

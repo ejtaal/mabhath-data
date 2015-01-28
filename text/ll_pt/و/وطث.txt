@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وطث</em>            1                  وطث<br>\
+<b>وَطَثَ</b>               1     <br>\
+                     وَطَثَ<br>\
+                     ذ<br>\
+                  , (aor. يَطِثُ, K,) inf. n. وَطْثُ, <i>He struck the ground vehemently with his foot:</i> (S, K:) or <i>he</i> (a camel) <i>struck vehemently with his foot:</i> (TA:) a dial. form of وَطَسَ, or viciously pronounced for the latter word: (S:) or the ث of وطث is a substitute for the س of وطس; and the meaning is <i>he broke:</i> (Yaakoob:) or وَطَثَهُ, aor. يَطِثُهُ, inf. n. وَطْثٌ, signifies <i>he trod,</i> or <i>trampled, upon it so that he broke it.</i> (T.)   </entryFree> <br>\
+' } );

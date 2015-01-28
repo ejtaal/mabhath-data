@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>خنص</em>            1                  خنص<br>\
+<b>خِنْصِيصٌ</b>               1     <br>\
+                     خِنْصِيصٌ<br>\
+                     خنصيص<br>\
+                  : see خِنَّوْصَةٌ.    </entryFree> <br>\
+<b>خِنَوْصٌ</b>               1     <br>\
+                     خِنَوْصٌ<br>\
+                     خنوص<br>\
+                   The <i>young of the swine:</i> (Ibn-&#39;Abbád, S, K:) and the <i>young,</i> or <i>little,</i> of anything: (K:) pl. خَنَانِيصُ. (S, K.) [See also خِنَّوْسٌ.]    </entryFree> <br>\
+<b>خِنَّوْصَةٌ</b>               1     <br>\
+                     خِنَّوْصَةٌ<br>\
+                     خنوص<br>\
+                     خنوصه<br>\
+                     خنوصة<br>\
+                   The <i>young of the</i> <br>\
+                  بَبْر, q. v.; (K;) as also ↓ <br>\
+      خِنْصِيصٌ. (Sgh, K.) ―         -b2-  Also <i>A palm-tree which does not rise beyond reach of the hand.</i> (Ibn-&#39;Abbád, K.)   </entryFree> <br>\
+' } );

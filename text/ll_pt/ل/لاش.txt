@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لاًش</em>            1                  لاًش<br>\
+               </head> See art. لوش.   </div2> <br>\
+            <div2 n=&quot;lAT lAZ lAf&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لاط لاظ لاف<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

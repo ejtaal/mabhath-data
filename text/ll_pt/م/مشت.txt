@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مشت</em>            1                  مشت<br>\
+<b>مُشْتٌ</b>               1     <br>\
+                     مُشْتٌ<br>\
+                     ذ<br>\
+                   [The <i>fist;</i> the <i>hand clinched:</i> a Persian word arabicized]. (Mgh, in art. نشر.) [See an ex. voce تَوٌّ, where it has a redundant ن affixed to it.]   </entryFree> <br>\
+' } );

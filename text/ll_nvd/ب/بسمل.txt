@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'بسملQ. 1<br>\
+بَسْمَلَ, (T, S, &amp;c.,) inf. n. بَسْمَلَةٌ, (S,<br>\
+Msb,) He said, (S, Msb, K, KL,) or wrote, (T,<br>\
+Msb,) بِسْمِ اللّٰهِ [In, or with, the name of God I<br>\
+recite, or read, or I begin, &amp;c.]: (T, S, Msb, K,<br>\
+KL:) or بِسْمِ اللّٰهِ الرَّحْمَانِ الرَّحِيمِ [In, or with,<br>\
+the name of God, the Compassionate, the Merciful]: (KL:) a verb of the kind termed مَنْحُوت<br>\
+i. e. compounded of two [or more] words; like<br>\
+حَمْدَلَ and حَوْقَلَ and حَسْبَلَ &amp;c.: (Msb, TA:)<br>\
+said by some to be post-classical, not heard from<br>\
+the chaste Arabs; but authorized by many of the<br>\
+leading lexicologists, as ISk and Mtr; and occurring in the poetry of &#39;Omar Ibn-Abee-Rabee&#39;ah<br>\
+[who is said to have been born in the year of the<br>\
+Flight 23]. (TA.)<br>\
+مُبَسْمَلٌ Discourse, (TA,) or amorous behaviour,<br>\
+and coquettish boldness, (Msb,) accompanied by<br>\
+the saying بِسْمِ اللّٰهِ: (Msb, TA:) occurring in a<br>\
+verse of &#39;Omar Ibn-Abee-Rabee&#39;ah [referred to<br>\
+above]. (TA.)<br>\
+' } );

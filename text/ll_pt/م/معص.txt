@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>معص</em>            1                  معص<br>\
+<b>مَعِصَ</b>               1     <br>\
+                     مَعِصَ<br>\
+                     ذ<br>\
+                  : see مُغِصَ.   </entryFree> <br>\
+' } );

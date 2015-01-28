@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>مذقر</em>            1                  مذقر<br>\
+<b>اِمْذَقَرَّتِ الاـِبِلُ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اِمْذَقَرَّتِ الاـِبِلُ<br>\
+                     ذ<br>\
+                  <i>The camels became dispersed.</i> (TA in art. صعر.)   </entryFree> <br>\
+' } );

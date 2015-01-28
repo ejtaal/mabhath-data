@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>ناد</em>            1                  ناد<br>\
+<b>نَاَدَتْهُ دَاهِيَةٌ</b>               1     <br>\
+                     نَاَدَتْهُ دَاهِيَةٌ<br>\
+                     ذ<br>\
+                  , (aor.      <br>\
+                     نَاََ<br>\
+                  , A, inf. n. نَاْدٌ, L,) <i>A calamity befell him:</i> (K:) or <i>pressed heavily upon him, and distressed him.</i> (A.) ―         -b2-  See نَاَتَ.    </entryFree> <br>\
+<b>نَا=دٌ</b>               1     <br>\
+                     نَا=دٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      نَا=دَى (S, L. K) and ↓ <br>\
+      نَوُودٌ (L, K) <i>A calamity:</i> (S, L, K:) pl. of the second, ؟؟.  (L.) ―         -b2-  دَاهِيَةٌ نَا=دٌ, and ↓ <br>\
+      نَا=دَى, and ↓ <br>\
+      نَوُودٌ, (A, L,) <i>A calamity that presses heavily, and distresses.</i> (A.)    </entryFree> <br>\
+<b>نَا=دَى</b>               1     <br>\
+                     نَا=دَى<br>\
+                     ذ<br>\
+                  : see نَا=دٌ.    </entryFree> <br>\
+<b>نَوُودٌ</b>               1     <br>\
+                     نَوُودٌ<br>\
+                     ذ<br>\
+                  : see نَا=دٌ.   </entryFree> <br>\
+' } );

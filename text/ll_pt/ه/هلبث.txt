@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هلبث</em>            1                  هلبث<br>\
+<b>هِلْبَاثٌ</b>               1     <br>\
+                     هِلْبَاثٌ<br>\
+                     ذ<br>\
+                  <i>A kind of dates.</i> Said to be the only kind brought form El-Basrah to the Sultán. (AHn.)    </entryFree> <br>\
+<b>هِلْبَوْثٌ</b>               1     <br>\
+                     هِلْبَوْثٌ<br>\
+                     ذ<br>\
+                  <i>Stupid; foolish; of little sense:</i> or <i>dull of speech and understanding; doltish; heavy;</i> syn. فَدْمٌ. (S, and some copies of the K.)   </entryFree> <br>\
+' } );

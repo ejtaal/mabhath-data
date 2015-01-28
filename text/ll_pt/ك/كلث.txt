@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>كلث</em>            1                  كلث<br>\
+<b>انكلث</b>               1     <br>\
+                     انكلث<br>\
+                     ذ<br>\
+                  <i>He advanced: preceded:</i> syn. تَقَدَّمَ. (K.)    </entryFree> <br>\
+<b>مِكْلَثٌ</b>               1     <br>\
+                     مِكْلَثٌ<br>\
+                     ذ<br>\
+                   A man (TA) <i>penetrating</i> (مَاضٍ) <i>in affairs.</i> (K.) See مِكْلَتٌ.   </entryFree> <br>\
+' } );

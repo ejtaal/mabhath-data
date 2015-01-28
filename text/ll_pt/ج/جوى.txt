@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>جوى</em>            1                  جوى<br>\
+<b>جَوِىَ</b>               1     <br>\
+                     جَوِىَ<br>\
+                     جو<br>\
+                     جوى<br>\
+                     جوي<br>\
+                  , (S, K,) aor.      <br>\
+                     جَوَىَ<br>\
+                  , (TA,) inf. n. جَوًى, (K,) <i>He</i> (a man, S) <i>was,</i> or <i>became, affected with what is termed</i> ↓ <br>\
+      جَوًى, (S, K,) meaning <i>ardour:</i> and <i>violence of amorous desire;</i> or <i>of grief,</i> or <i>sorrow:</i> (S:) or <i>inward love:</i> (M, K:) and <i>grief,</i> or <i>sorrow:</i> (K, and so in a copy of the S:) and <i>ardour:</i> and <i>violence of love:</i> or <i>of grief,</i> or <i>sorrow:</i> (K:) [see حُبٌّ:] ―         -b2-  and also as meaning <i>consumption;</i> or <i>an ulcer in the lungs:</i> and <i>long continuance,</i> or <i>oppressiveness, of disease:</i> and <i>a disease in the chest:</i> (K:) or <i>any inward disease during which one does not find food to be wholesome:</i> (TA:) part. n. ↓ <br>\
+      جَوٍ; (S, K;) fem. جَوِيَةٌ. (TA.) ―         -b3-  You say also, جَوِيَتْ نَفْسِى, meaning <i>I found the country,</i> or <i>town, to disagree with me.</i> (S.) And جَوِيَتْ نَفْسُهُ مِنْهُ and عَنْهُ [<i>He found it to disagree with him:</i> a meaning indicated, but not expressed]. (K.) See also 8. ―         -b4-  And جَوِيَتِ <br>\
+                  الاَرْضُ <br>\
+                  <i>The land stank.</i> (TA.)    </entryFree> <br>\
+<b>اجتواهُ</b>               1     <br>\
+                     اجتواهُ<br>\
+                     اجتواه<br>\
+                     اجتواة<br>\
+                     ٱجتواه<br>\
+                     ٱجتوى<br>\
+                  <i>He disliked residing in it,</i> namely, a country, or town, <i>even if in the enjoyment of ease and plenty:</i> (S:) or <i>he disliked it,</i> (K, TA,) <i>and found it to disagree with him;</i> (TA;) as also ↓ <br>\
+      جَوِيَهُ: (K, TA:) or <i>he disliked it,</i> namely, a city, <i>and found it to be insalubrious:</i> or, as AZ says, <i>he disliked it,</i> namely, a country, <i>even if it agreed with him in respect of his body:</i> and he says, in his Nawádir, that اِجْتِوَا=ءٌ signifies the <i>yearning towards,</i> or <i>longing for, home, and disliking a place, even if in the enjoyment of ease and plenty:</i> and <i>disliking it without yearning towards,</i> or <i>longing for, home:</i> and also the <i>not finding the food nor the beverage in a land to be wholesome: but not when one likes the residing in it but its food and beverage do not agree with him.</i> (TA.)       -A2-  And اجتوى <br>\
+                  <i>His heart was burnt by the fire of enmity.</i> (Ham p. 219.)    </entryFree> <br>\
+<b>جَوًى</b>               1     <br>\
+                     جَوًى<br>\
+                     جو<br>\
+                     جوى<br>\
+                     جوي<br>\
+                  : see 1: ―         -b2-  and see what next follows, in two places.    </entryFree> <br>\
+<b>جَوٍ</b>               1     <br>\
+                     جَوٍ<br>\
+                     جو<br>\
+                   part. n. of 1, q. v.; (S, K;) and ↓ <br>\
+      جَوًى signifies the same, being an inf. n. used as an epithet. (K.) ―         -b2-  Hence, (S,) the former, (S, K,) as also ↓ the latter, (K, and so in a copy of the S,) signifies <i>Stinking</i> water; (K;) or water <i>that has become altered and stinking.</i> (S, TA.) ―         -b3-  اَرْضٌ <br>\
+                  جَوِيَةٌ and ↓ <br>\
+      جَوِيَّةٌ <br>\
+                  <i>A land that disagrees with one.</i> (K.)    </entryFree> <br>\
+<b>جَوِىٌّ</b>               1     <br>\
+                     جَوِىٌّ<br>\
+                     جو<br>\
+                     جوى<br>\
+                     جوي<br>\
+                  <i>Contracted in the bosom,</i> (K, TA,) <i>by reason of disease therein,</i> (TA,) <i>so that his tongue cannot explain for him,</i> (K,) or <i>so that his tongue can hardly,</i> or <i>not at all, explain for him.</i> (TA.) ―         -b2-  اَرْضٌ جَوِيَّةٌ: see جَوٍ.    <br>\
+' } );

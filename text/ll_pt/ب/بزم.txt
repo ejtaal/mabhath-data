@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>بزم</em>            1                  بزم<br>\
+<b>اـِبْزَامٌ</b>               1     <br>\
+                     اـِبْزَامٌ<br>\
+                     ابزام<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>اـِبْزِيمٌ</b>               1     <br>\
+                     اـِبْزِيمٌ<br>\
+                     اـبزيم<br>\
+                     ابزيم<br>\
+                   (S, Mgh, K, &amp;amp;c.) and ↓ <br>\
+      اـِبْزَامٌ (K) [<i>A buckle;</i>] the <i>thing that is at the head</i> [or <i>end</i>] <i>of the</i> [<i>zone,</i> or <i>waist-belt, called</i>] مِنْطَقَة (S, K) <i>and the like, and that has a tongue, into which</i> [<i>thing</i>] <i>the other extremity</i> [<i>of the</i> <br>\
+                  منطقة] <i>enters;</i> (K;) <i>a ring with a tongue, which is at the head of the</i> <br>\
+                  منطقة <br>\
+                  <i>and the like, and with which it is fastened;</i> (Mgh;) the <i>ring that has a tongue which enters into the hole in the lowest part of the shoulderbelt of the sword, and upon which the ring then bites,</i> or <i>presses;</i> the ring altogether [with the tongue] being termed ابزيم; (ISh, TA;) the <i>iron thing that is at the end of the girth of the horse&#39;s saddle, which is fastened therewith; and sometimes it is at the end of the</i> <br>\
+                  منطقة: (IB, TA:) pl. اَبَازِيمُ. (S.) ―         -b2-  Also <i>A lock;</i> and so اـِبْزِينٌ. (TA.) ―         -b3-  You say, اـِنَّ فُلَانًا لَاـِبْزِيمٌ, meaning (assumed tropical:)  <i>Verily such a one is a niggard.</i> (TA.)   </entryFree> <br>\
+' } );

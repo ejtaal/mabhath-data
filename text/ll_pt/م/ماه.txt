@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ماه</em>            1                  ماه<br>\
+<b>مَاهِيَّةٌ</b>               1     <br>\
+                     مَاهِيَّةٌ<br>\
+                     ذ<br>\
+                   [The <i>quiddity,</i> or <i>essence,</i> or <i>substance,</i> of a thing;] <i>that whereby a thing is what it is.</i> (KT.) See also حَقِيقَةٌ, and جَوْهَرٌ, and ذَاتِيَّةٌ, and مَعْنًى.    </entryFree> <br>\
+<b>مِيِينٌ</b>               1     <br>\
+                     مِيِينٌ<br>\
+                     ذ<br>\
+                  : see سِنِينٌ, voce سَنَةٌ, in art. سنه.   </entryFree> <br>\
+' } );

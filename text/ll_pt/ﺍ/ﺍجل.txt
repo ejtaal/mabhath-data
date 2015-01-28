@@ -1,0 +1,117 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اجل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اجل<br>\
+&lt;entryFree id=&quot;n295&quot; key=&quot;اَجِلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَجِلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجَلَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. اَجَلٌ, (Msb,) &lt;i&gt;It&lt;/i&gt; (a thing, Msb, [as, for instance, a thing purchased, and the price thereof, and a thing promised or threatened or foretold, and also payment for a thing purchased, and the fulfilment of a promise or threat or prediction, and any event,]) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, delayed, postponed, kept back;&lt;/i&gt; [and therefore, &lt;i&gt;future;&lt;/i&gt;] syn. تَاَخَّرَ; (K;) and اَجَلَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجُلَ<br>\
+                  &lt;/form&gt;, inf. n. اُجُولٌ, signifies the same. (Msb.) [See ا=جِلٌ and اَجَلٌ. The primary signification seems to be, &lt;i&gt;It had a term,&lt;/i&gt; or &lt;i&gt;period, appointed for it, at which it should fall due,&lt;/i&gt; or &lt;pb n=&quot;25&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;come to pass.&lt;/i&gt;]       -A2-  اَجَلَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجِلَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَجُلٌ; (TA;) and ↓ <br>\
+      اجّلهُ, (K,) inf. n. تَاْجِيلٌ; (TA;) and ↓ <br>\
+      ا=جلهُ, (K,) inf. n. مُوَاجَلَةٌ; (TK;) &lt;i&gt;He confined, restricted, restrained, withheld, debarred, hindered,&lt;/i&gt; or &lt;i&gt;prevented, him.&lt;/i&gt; (K, TA.) Hence the phrase, اَجَلُوا مَالَهُمْ <br>\
+                  &lt;i&gt;They confined, restricted,&lt;/i&gt; &amp;amp;c., &lt;i&gt;their cattle from the pasturage.&lt;/i&gt; (TA.)       -A3-  اَجَلَ عَلَيْهِمْ شَرًّا, (S, Msb,) or الشَّرَّ, (K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجُلَ<br>\
+                  &lt;/form&gt; (S, Msb, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجِلَ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. اَجْلٌ, (S, Msb,) &lt;i&gt;He committed against them evil,&lt;/i&gt; (S, Msb, K,) and &lt;i&gt;drew it,&lt;/i&gt; or &lt;i&gt;procured it, to them:&lt;/i&gt; (Msb:) and (S, in the K “ or ”) &lt;i&gt;he excited it, stirred it up,&lt;/i&gt; or &lt;i&gt;provoked it, against them:&lt;/i&gt; (S, K:) or, accord. to AZ, اَجَلْتُ عَلَيْهِمٌ, inf. n. as above, signifies &lt;i&gt;I committed a crime against them:&lt;/i&gt; and AA says that جَلَبْتُ عَلَيْهِمْ and جَرَرْتُ and اَجَلْتُ have one and the same signification. (TA.) ―         -b2-  And اَجَلَ لِاَهْلِهِ, (Lh, K,) inf. n. as above, (TA,) &lt;i&gt;He gained, acquired,&lt;/i&gt; or &lt;i&gt;earned,&lt;/i&gt; and &lt;i&gt;collected,&lt;/i&gt; and &lt;i&gt;brought,&lt;/i&gt; or &lt;i&gt;purveyed,&lt;/i&gt; and &lt;i&gt;exercised skill in the management of affairs, for his family.&lt;/i&gt; (Lh, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n296&quot; key=&quot;اَجَّلَ الاَجَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَجَّلَ الاَجَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (TA,) inf. n. تَاْجِيلٌ, (K, TA,) &lt;i&gt;He defined the term,&lt;/i&gt; or &lt;i&gt;period;&lt;/i&gt; (K, * TA;) &lt;i&gt;assigned, appointed,&lt;/i&gt; or &lt;i&gt;specified, it.&lt;/i&gt; (TA.) It is said in the Kur [vi. 128], وَ بَلَغْنَا اَجَلَنَا اْلَّذِي <br>\
+                  اَجَّلْتَ لَنَا [&lt;i&gt;And we have reached our term which Thou hast assigned,&lt;/i&gt; or &lt;i&gt;appointed, for us;&lt;/i&gt;] meaning, the day of resurrection; (Bd, * Jel;) or the term of death; or, as some say, the term of extreme old age. (TA.) And اَجَّلْتُهُ, inf. n. as above, signifies &lt;i&gt;I assigned,&lt;/i&gt; or &lt;i&gt;appointed, for him,&lt;/i&gt; or &lt;i&gt;it, a term,&lt;/i&gt; or &lt;i&gt;period.&lt;/i&gt; (Msb.) ―         -b2-  اَجَّلَنِى <br>\
+                  &lt;i&gt;He granted me a delay,&lt;/i&gt; or &lt;i&gt;postponement.&lt;/i&gt; (TA.) You say, فَاَجَّلَنِى اِلَي مُدَّةٍ ↓ <br>\
+      اِسْتَاْجَلْتُهُ (S, K, TA) &lt;i&gt;I desired, asked, demanded,&lt;/i&gt; or &lt;i&gt;requested, of him a term,&lt;/i&gt; or &lt;i&gt;period,&lt;/i&gt; [&lt;i&gt;of delay,&lt;/i&gt; or &lt;i&gt;postponement,&lt;/i&gt;] &lt;i&gt;and he granted me a delay,&lt;/i&gt; or &lt;i&gt;postponement, to a certain term,&lt;/i&gt; or &lt;i&gt;period.&lt;/i&gt; (TA.) ―         -b3-  See also 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n297&quot; key=&quot;ا=جلهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=جلهُ<br>\
+                     ا=جله<br>\
+                     ا=جلة<br>\
+                  &lt;/form&gt;, inf. n. مُوَاجَلَةٌ: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n298&quot; key=&quot;تاجّل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاجّل<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; ↓ <br>\
+      استاجل; (K, TA;) i. e. &lt;i&gt;He asked,&lt;/i&gt; or &lt;i&gt;requested, that a term,&lt;/i&gt; or &lt;i&gt;period, should be assigned, appointed,&lt;/i&gt; or &lt;i&gt;specified, for him.&lt;/i&gt; (TA.) It is said in a trad. of Mek-hool, كُنَّا <br>\
+                  مَرَابِطِينَ بِا لسَّاحِلِ فَتَاَجَّلَ مُتَاَجِّلٌ [&lt;i&gt;We were keeping post on the frontier of the enemy, in the tract on the sea-coast, and&lt;/i&gt;] &lt;i&gt;a person asked,&lt;/i&gt; or &lt;i&gt;requested, that a term,&lt;/i&gt; or &lt;i&gt;period, should be assigned,&lt;/i&gt; or &lt;i&gt;appointed,&lt;/i&gt; or &lt;i&gt;specified, for him,&lt;/i&gt; and that permission should be granted him to return to his family. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَاْجَلَ<br>\
+                  &lt;/form&gt; see 2 and 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n299&quot; key=&quot;اَجْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is originally the inf. n. of اَجَلَ شَرًّا “ he committed evil; ” and is used to indicate the causation of crimes; and afterwards, by extension of its application, to indicate any causation: (Bd in v. 35:) one says, فَعَلْتُهُ مِنْ اَجْلِكَ, and ↓ <br>\
+      من اـِجْلِكَ, (S, K,) and فَعَلْتُهُ اَجْلَكَ, and ↓ <br>\
+      اـِجْلَكَ, (so in some copies of the K,) and من اَجْلَالِكَ, and من اـِجْلَالِكَ, (K, [belonging to art. جلو, in which also they are mentioned,]) and من اَجْلالِكَ, and من اـِجْلَالِكَ, (so in some copies of the K and in the TA, [belonging to art. جل,]) i. e. [&lt;i&gt;I did it&lt;/i&gt;] مِنْ جَرَّاكَ, (S,) which means [originally] &lt;i&gt;in consequence of thy committing it:&lt;/i&gt; (Bd ubi suprà:) [and then, by extension of its application, as shown above, &lt;i&gt;because of thee,&lt;/i&gt; or &lt;i&gt;of thine act&lt;/i&gt; &amp;amp;c.; &lt;i&gt;on thine account; for thy sake;&lt;/i&gt; as also لِاَجْلِكَ, which is more common in the present day:] or منْ جَلَلِكَ: (K:) and مِنْ اَجْلِهِ كَانَ كَذَا, i. e. بِسَبَبِهِ [&lt;i&gt;Because of him,&lt;/i&gt; or &lt;i&gt;it, it was thus,&lt;/i&gt; or &lt;i&gt;such a thing was&lt;/i&gt;]. (Msb.) An instance of its occurrence without مِنْ [or لِ] is presented by the saying of &#39;Adee Ibn-Zeyd, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اَجْلَ اَنَّ اللّٰهَ قَدْ فَضَّلَكُمْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Because that God hath made you to have excel-lence,&lt;/i&gt; or &lt;i&gt;hath preferred you&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n300&quot; key=&quot;اـِجْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِجْلٌ<br>\
+                     اجال<br>\
+                     اجل<br>\
+                     اجلى<br>\
+                     اجل<br>\
+                     جال<br>\
+                     جل<br>\
+                     جلا<br>\
+                     جلى<br>\
+                     آجل<br>\
+                  &lt;/form&gt;, whence فَعَلْتُهُ مِنْ اـِجْلِكَ, and فَعَلْتُهُ اـِجْلَكَ: see اَجْلٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n301&quot; key=&quot;اَجَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجَلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Mughnee, K,) with the ل quiescent, (Mughnee,) is written with kesr and with fet-h [to the medial letter, i. e. ↓ <br>\
+      اَجِلْ as well as اَجَلْ] like نعم [which is written نَعِمٌ as well as نَعَمْ]: (TA:) it is a particle (Mughnee) denoting a reply; like نَعَمْ; (S, Mughnee, K;) importing acknowledgment of the truth of the speaker, to him who gives information; and the making a thing known, to him who asks information; and a promise, to him who seeks, or demands; (Mughnee;) i. e. &lt;i&gt;It is as thou sayest&lt;/i&gt; [in the first case; and &lt;i&gt;yes,&lt;/i&gt; or &lt;i&gt;yea,&lt;/i&gt; in the same, and in the other cases]; (K voce بَسَلٌ;) therefore it occurs after such sayings as “ Zeyd stood ” and “ did Zeyd stand? ” and “ beat thou Zeyd: ” but ElMálakee restricts the information to that which is affirmative, and the saying expressive of seeking or demanding to that which is without prohibition: and it is said by some that it does not occur after an interrogation: (Mughnee:) Er-Radee says, in the Expos. of the Káfiyeh, after Z and others, that it is to denote acknowledgment of the truth of information, and does not occur after a saying in which is the meaning of seeking, or demanding: (TA:) or, accord. to Z and Ibn-Málik and others, it relates particularly to information: and accord. to Ibn-Kharoof, it occurs mostly after information: (Mughnee:) in the Expos. of the Tes-heel, it is said to be for denoting acknowledgment of the truth of information, past or other, affirmative or negative, and not to occur after an interrogation: (TA:) Akh says that it is better than نَعَمْ (S, Mughnee, K *) after information, (Mughnee,) in acknowledging the truth of what is said; (S, Mughnee, K;) and نعم is better than it after an interrogation: (S, Mughnee, K:) so that when one says, سَوْفَ تَذْهَبُ [Thou wilt, or shalt, go away], thou sayest اَجَلْ [&lt;i&gt;Yes&lt;/i&gt;]; and it is better than نعم: but when one says, اَتَذْهَبُ [Wilt thou go away?], thou sayest نعم; and it is better than اجل. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n302&quot; key=&quot;اَجَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجَلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;term,&lt;/i&gt; or &lt;i&gt;period,&lt;/i&gt; of a thing: (S, K:) its &lt;i&gt;assigned, appointed,&lt;/i&gt; or &lt;i&gt;specified, term&lt;/i&gt; or &lt;i&gt;period:&lt;/i&gt; this is the primary signification: (TA:) or the &lt;i&gt;term,&lt;/i&gt; or &lt;i&gt;period,&lt;/i&gt; and &lt;i&gt;time of falling due,&lt;/i&gt; of a thing: (Msb:) pl. ا=جَالٌ. (Msb, K.) ―         -b2-  Hence, The &lt;i&gt;period of&lt;/i&gt; women&#39;s &lt;i&gt;waiting, before they may marry again, after divorce:&lt;/i&gt; as in the Kur ii. 231 and 232. (TA.) ―         -b3-  The &lt;i&gt;period,&lt;/i&gt; or &lt;i&gt;extremity of time, in which falls due a debt&lt;/i&gt; (K, TA) and &lt;i&gt;the like.&lt;/i&gt; (TA.) You say, بَاعَهُ اـِيَّاهُ اـِلَي اَجَلٍ [&lt;i&gt;He sold it to him for payment at an appointed period&lt;/i&gt;]: and سَلَّمَ الدَّارَاهِمَ فِى طَعَامٍ اـِلَي اَجَلٍ [&lt;i&gt;He delivered the money for wheat,&lt;/i&gt; or &lt;i&gt;the like, to be given at an appointed period&lt;/i&gt;]. (Msb in art. كلا.) ―         -b4-  The &lt;i&gt;term,&lt;/i&gt; or &lt;i&gt;period, of death;&lt;/i&gt; (K;) the &lt;i&gt;time in which God has eternally decreed the end of life by slaughter or otherwise:&lt;/i&gt; or, as some say, the &lt;i&gt;whole duration of life:&lt;/i&gt; and &lt;i&gt;its end:&lt;/i&gt; a man&#39;s &lt;i&gt;life&lt;/i&gt; being thus termed: and his &lt;i&gt;death, by which it terminates:&lt;/i&gt; (Kull p. 17:) the &lt;i&gt;assigned,&lt;/i&gt; or &lt;i&gt;appointed, duration of the life&lt;/i&gt; of a man. (TA.) One says, دَنَا اَجَلُهُ, meaning &lt;i&gt;His death drew near;&lt;/i&gt; originally, اْسْتِيفَا=ءُ الاَجَلِ <br>\
+                  &lt;i&gt;the completion of the duration of life.&lt;/i&gt; (TA.) In the Kur vi. 128, (see 2, above,) the meaning is, The &lt;i&gt;term of death:&lt;/i&gt; or, as some say, the &lt;i&gt;term of extreme old age:&lt;/i&gt; (TA:) or the &lt;i&gt;day of resurrection.&lt;/i&gt; (Bd, * Jel.) The words of the Kur [vi. 2] ثُمَّ قَضَى اَجَلًا وَ اَجَلٌ <br>\
+                  مَسَمَّى عِنْدَهُ mean [&lt;i&gt;Then He decreed a term,&lt;/i&gt;] &lt;i&gt;the term of death, and&lt;/i&gt; [&lt;i&gt;there is a term named with Him,&lt;/i&gt;] &lt;i&gt;the term of the resurrection:&lt;/i&gt; or &lt;i&gt;the period between the creation and death,&lt;/i&gt; and &lt;i&gt;the period between death and the resurrection;&lt;/i&gt; for اجل is applied to the &lt;i&gt;end of a space of time&lt;/i&gt; and to the &lt;i&gt;whole thereof:&lt;/i&gt; (Bd:) or the meaning is, &lt;i&gt;the period of sleep,&lt;/i&gt; and &lt;i&gt;the period of death:&lt;/i&gt; (Bd, TA:) or &lt;i&gt;the period of those who have passed away,&lt;/i&gt; and &lt;i&gt;the period of those who remain and those who are to come:&lt;/i&gt; (Bd:) or &lt;i&gt;the period of remaining in this world,&lt;/i&gt; and &lt;i&gt;the period of remaining in the world to come:&lt;/i&gt; or in both instances &lt;i&gt;death&lt;/i&gt; is meant; [&lt;i&gt;accidental,&lt;/i&gt; and &lt;i&gt;natural;&lt;/i&gt;] for the اجل of some is by accidental means, as the sword, and drowning, and burning, and eating what disagrees, and other means of destruction; while some have their full periods granted to them and are preserved in health until they die a natural death: or the اجل of some is that of him who dies in a state of happiness and enjoyment; and of others, that of him who reaches a limit beyond which God has no؟ appointed, in the natural course of this world, any one to remain therein; and to both of these, reference is made in the Kur [xvi. 72 and] xxii. 5. (TA.) ―         -b5-  Sometimes, also, it means &lt;i&gt;Destruction:&lt;/i&gt; and thus it has been explained as occurring in the Kur [vii. 184], where it is said, وَاَنْ عَسَى اَنْ يَكُونَ قَدِ اْ قْتَرَبَ اَجَلُهُمْ [&lt;i&gt;And that, may be, their destruction shall have drawn near&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n303&quot; key=&quot;اَجِلْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجِلْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَجَلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n304&quot; key=&quot;اَجِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=جِلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n305&quot; key=&quot;اَجِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجِيلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Having a delay,&lt;/i&gt; or &lt;i&gt;postponement, granted to him, to a certain time; i. q.&lt;/i&gt; <br>\
+                  اـِلَى وَقْتٍ ↓ <br>\
+      مُوَجَّلٌ. (Lth.) ―         -b2-  See also ا=جِلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n306&quot; key=&quot;ا=جِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=جِلٌ<br>\
+                     ا=جل<br>\
+                  &lt;i&gt;Delayed; postponed; kept back;&lt;/i&gt; syn. مُتَاَخِّرٌ; [but in some copies of the K, for ا=جِلٌ, we find ↓ <br>\
+      اَجِلٌ;] as also ↓ <br>\
+      اَجِيلٌ, of which the pl. is اُجْلٌ: (K:) and therefore, (TA,) &lt;i&gt;not present; future; to come; contr. of&lt;/i&gt; <br>\
+                  عَاجِلٌ: (S, Msb, TA:) &lt;pb n=&quot;26&quot; TEIform=&quot;pb&quot;/&gt; and ↓ <br>\
+      مُتَاَجِّلٌ, also, signifies &lt;i&gt;delayed, deferred,&lt;/i&gt; or &lt;i&gt;postponed, to the time of the end of a period;&lt;/i&gt; originally, &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  مُتَعَجِّلٌ. (Mgh.) [See also اَجِيلٌ.] ―         -b2-  [Hence,] الا=جِلَةُ <br>\
+                  &lt;i&gt;The&lt;/i&gt; [&lt;i&gt;future,&lt;/i&gt;] &lt;i&gt;latter, ultimate,&lt;/i&gt; or &lt;i&gt;last, dwelling,&lt;/i&gt; or &lt;i&gt;abode,&lt;/i&gt; or &lt;i&gt;life; the world to come;&lt;/i&gt; syn. الا=خِرَةُ; (K, TA;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  العَاجِلَةُ. (S, TA.)       -A2-  &lt;i&gt;Committing&lt;/i&gt; a crime; or &lt;i&gt;a committer&lt;/i&gt; of a crime. (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n307&quot; key=&quot;مُوَجَّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَجَّلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Determined, defined,&lt;/i&gt; or &lt;i&gt;limited, as to time;&lt;/i&gt; applied to a writing: so in the Kur iii. 139: (Bd, Jel, TA:) and to a debt; &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  حَالٌّ, q. v. (Mgh in art. حل.) ―         -b2-  See also اَجِيلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n308&quot; key=&quot;مُتَاَجِّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَجِّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=جِلٌ.   &lt;/entryFree&gt; <br>\
+' } );

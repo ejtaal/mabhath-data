@@ -1,0 +1,52 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ادى&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ادى<br>\
+&lt;entryFree id=&quot;n468&quot; key=&quot;ادّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ادّاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, &amp;amp;c.,) inf. n. تاٌدِيَةٌ (T, S, K) and اَدَا=ءٌ, (T,) or the latter is a simple subst., (S, M, Msb, K,) [and so, accord. to the Msb, is the former also, but this is a mistake,] &lt;i&gt;He made it,&lt;/i&gt; or &lt;i&gt;caused it, to reach, arrive,&lt;/i&gt; or &lt;i&gt;come&lt;/i&gt; [to the appointed person or place &amp;amp;c.]; &lt;i&gt;he brought, conveyed,&lt;/i&gt; or &lt;i&gt;delivered, it;&lt;/i&gt; syn. اَوْصَلَهُ; (M, Msb, K;) namely, a thing; (M;) as, for instance, الاَمَانَةَ اـِلَى اهْلِهَا [&lt;i&gt;the thing committed to his trust and care, to its owner&lt;/i&gt;]: (Msb:) &lt;i&gt;he delivered it, gave it up,&lt;/i&gt; or &lt;i&gt;surrendered it:&lt;/i&gt; (T:) &lt;i&gt;he payed it,&lt;/i&gt; or &lt;i&gt;discharged it;&lt;/i&gt; (S, K;) namely, his debt, (S,) a bloodwit, a responsibility, and the like; (Msb in art. غرم;) [and hence,] اَدَّى مَا <br>\
+                  عَلَيْهِ [&lt;i&gt;he acquitted himself of that which was incumbent on him;&lt;/i&gt; or &lt;i&gt;payed,&lt;/i&gt; or &lt;i&gt;discharged, what he owed&lt;/i&gt;]: (T:) &lt;i&gt;he performed, fulfilled,&lt;/i&gt; or &lt;i&gt;accomplished, it;&lt;/i&gt; namely, [for instance,] الحَجَّ [&lt;i&gt;the pilgrimage&lt;/i&gt;]; (Msb in art. قضى;) and in like manner, المَنَاسِكَ [&lt;i&gt;the religious rites and ceremonies of the pilgrimage&lt;/i&gt;]. (Jel in ii. 196, and Msb ubi suprà.) It is said in the Kur [xliv. 17], اَنْ اَدُّوا اـلَىَّ عِبَادَ اْللّٰهِ, meaning &lt;i&gt;Deliver ye to me&lt;/i&gt; [&lt;i&gt;the servants of God,&lt;/i&gt;] the children of Israel: or, as some say, the meaning is, اَدُّوا اـِلَىَّ <br>\
+                  مَا اَمَرَكُمُ اْللّٰهُ بِهِ يَا عِبَادَاْللّٰهِ [&lt;i&gt;perform ye to me that which God hath commanded you&lt;/i&gt; to do, &lt;i&gt;O servants of God&lt;/i&gt;]: or it may mean &lt;i&gt;listen ye,&lt;/i&gt; or &lt;i&gt;give ye ear, to me;&lt;/i&gt; as though the speaker said, اَدُّوا اـِلَىَّ سَمْعَكُمْ; the verb being used in this sense by the Arabs. (T.) And one says, لَهُ ↓ <br>\
+      تاَدَّيْتُ, مِنْ حَقِّهِ, (K, TA,) and اـلَيْهِ, in the place of لَهُ, meaning اَدَّيْتُهُ; (TA;) i. e. &lt;i&gt;I payed him his due,&lt;/i&gt; or &lt;i&gt;right.&lt;/i&gt; (K, TA.) And a man says, ↓ <br>\
+      مَا اَدْرِى كَيْفَ اَتَاَدَّى [&lt;i&gt;I know not how to pay&lt;/i&gt;]. (TA.) One says also, ادّى عَنْهُ [meaning &lt;i&gt;He payed,&lt;/i&gt; or &lt;i&gt;made satisfaction, for him&lt;/i&gt;]: and ادّى <br>\
+                  عَنْهُ الخَرَاجَ [&lt;i&gt;He payed for him,&lt;/i&gt; or &lt;i&gt;in his stead, the land-tax&lt;/i&gt;]. (Mgh in art. جزا.) [Hence,] El-Akhnas says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَاَدَّيْتُ عَنِّى مَا اْسْتَعَرتُ مِنَ الصِّبَا<br>\
+                     &lt;L&gt;<br>\
+                        وَ لِلْمَالِ عِنْدِىِ اليَوْمَ رَاعٍ وَ كَاسِبُ<br>\
+                  &lt;/quote&gt; i. e. &lt;i&gt;But I have put away from me&lt;/i&gt; [&lt;i&gt;what I had borrowed,&lt;/i&gt; or &lt;i&gt;assumed, of the folishness of youth, and amorous dalliance,&lt;/i&gt;] &lt;i&gt;and now I am&lt;/i&gt; [or &lt;i&gt;there is at my abode&lt;/i&gt;] &lt;i&gt;a keeper and collector to the camels,&lt;/i&gt; or &lt;i&gt;cattle,&lt;/i&gt; or &lt;i&gt;property.&lt;/i&gt; (Ham p. 346.) ―         -b2-  [اَدَّى اـِلى كَذَا is a phrase often used as meaning &lt;i&gt;It brought, conducted, led,&lt;/i&gt; or &lt;i&gt;conduced, to such a thing&lt;/i&gt; or &lt;i&gt;state;&lt;/i&gt; as, for instance, crime to punishment or to ignominy.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n469&quot; key=&quot;ا=دى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=دى<br>\
+                     ا=دى<br>\
+                     ا=دي<br>\
+                  &lt;/form&gt;, intrans. and trans.: see art. ادو.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n470&quot; key=&quot;تادّى اـِلَيْهِ الخَبَرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تادّى اـِلَيْهِ الخَبَرُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The information,&lt;/i&gt; or &lt;i&gt;news, reached him.&lt;/i&gt; (S.)       -A2-  See also 2, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n471&quot; key=&quot;استاداهُ مَالًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاداهُ مَالًا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He desired,&lt;/i&gt; or &lt;i&gt;sought, to obtain from him property,&lt;/i&gt; or &lt;i&gt;sued,&lt;/i&gt; or &lt;i&gt;prosecuted, him for it,&lt;/i&gt; or &lt;i&gt;demanded it of him,&lt;/i&gt; (S, K,) &lt;i&gt;and extracted it,&lt;/i&gt; (S,) or &lt;i&gt;took it,&lt;/i&gt; or &lt;i&gt;received it,&lt;/i&gt; (K,) &lt;i&gt;from him.&lt;/i&gt; (S, K.)       -A2-  See also art. ادو.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n472&quot; key=&quot;اَدَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a subst. from 2 [signifying The &lt;i&gt;act of making,&lt;/i&gt; or &lt;i&gt;causing, to reach, arrive,&lt;/i&gt; or &lt;i&gt;come&lt;/i&gt; to the appointed person or place &amp;amp;c.; &lt;i&gt;of bringing, conveying,&lt;/i&gt; or &lt;i&gt;delivering; of giving up,&lt;/i&gt; or &lt;i&gt;surrendering; payment,&lt;/i&gt; or &lt;i&gt;discharge,&lt;/i&gt; of a debt &amp;amp;c.; the &lt;i&gt;act of acquitting oneself&lt;/i&gt; of that which is incumbent on him; &lt;i&gt;performance, fulfilment,&lt;/i&gt; or &lt;i&gt;accomplishment&lt;/i&gt;]. (S, M, Msb, K.) ―         -b2-  [Hence,] هُوَ حَسَنُ الاَدَا=ءِ <br>\
+                  &lt;i&gt;He has a good manner of pronouncing,&lt;/i&gt; or &lt;i&gt;uttering, the letters.&lt;/i&gt; (TA.) ―         -b3-  اَدَا=ءٌ as a term of the law signifies The &lt;i&gt;performance&lt;/i&gt; of an act of religious service [such as prayer &amp;amp;c.] &lt;i&gt;at the appointed time:&lt;/i&gt; opposed to قَضَا=ءٌ, performance at a time other than that which is appointed. (Msb and TA in art. قضى.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n473&quot; key=&quot;اَدِىٌّ &quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدِىٌّ <br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. ادو.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n474&quot; key=&quot;ا=دَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=دَى<br>\
+                     ا=دى<br>\
+                     ا=دي<br>\
+                  &lt;/form&gt; [a noun denoting the comparative and superlative degrees, irregularly formed from the verb اَدّى; like as the noun ا=دَى mentioned in art. ادو is irregularly formed from the verb ا=دَى]. You say, هُوَ ا=دَى لِلاَمَانةِ [&lt;i&gt;He is more,&lt;/i&gt; or &lt;i&gt;better, disposed to deliver, give up,&lt;/i&gt; or &lt;i&gt;surrender, the thing committed to his trust and care&lt;/i&gt;] (T, S, M, K) مِنْكَ [&lt;i&gt;than thou&lt;/i&gt;], (S,) or مِنْ غَيْرِهِ [&lt;i&gt;than another than he&lt;/i&gt;]. (M, * K.) [Az says,] the vulgar say, اَدَّى لِلْاَمَانَةِ; but this is incorrect, and not allowable; and I have not known any one of the grammarians allow ا=دَى, because اَفْعَل denoting wonder [and the comparative and superlative degrees] is not formed but from the triliteral [verb], and one does not say, اَدَى in the sense of اَدَّى: the proper phrase is اَحْسَنُ اَدَا=ءً. (T.)       -A2-  See also art. ادو.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n475&quot; key=&quot;مُوْدٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْدٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. ادو.   &lt;/entryFree&gt; <br>\
+' } );

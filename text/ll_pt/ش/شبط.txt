@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>شبط</em>            1                  شبط<br>\
+<b>شُبَاطٌ</b>               1     <br>\
+                     شُبَاطٌ<br>\
+                     ذ<br>\
+                   (AA, K) and شُبَاطُ, being perfectly and imperfectly decl., (AA, TA,) <i>The name of a month in Greek;</i> (AA, K;) <i>i. q.</i> <br>\
+                  سُبَاط, q. v. (AA, TA.)    </entryFree> <br>\
+<b>شَبُّوطٌ</b>               1     <br>\
+                     شَبُّوطٌ<br>\
+                     ذ<br>\
+                   (S, K) and شُبُّوطٌ, (K,) the latter mentioned in the O on the authority of Lth, but in the L on the authority of Lh, and said by him to be a Greek word, (TA,) [a coll. gen. n.,] n. un. with ة, and sometimes that with fet-h is without teshdeed, (K,) i. e. شَبُوطَةٌ, mentioned by ISd, but with the expression of a doubt as to its correctness, (TA,) [now applied to <i>A species of cyprinus,</i> or <i>carp:</i> or, accord. to Golius, <i>a fish resembling the alosa,</i> or <i>shad, but three times larger; wont to be brought from the Euphrates to Aleppo:</i>] <i>a species of fish,</i> (Lth, S, K,) <i>slender in the tail, wide in the middle part, soft to the feel, small in the head, resembling a</i> <br>\
+                  بَرْبَط [or <i>Persian lute</i>]: (Lth, K:) the بربط when long, not broad, is likened to this fish; and this fish, to the بربط: the pl. is شَبَابِيطُ. (TA.) [See سُبُّوحٌ.]   </entryFree> <br>\
+' } );

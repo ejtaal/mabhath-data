@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>خوم</em>            1                  خوم<br>\
+<b>اخام</b>               1     <br>\
+                     اخام<br>\
+                     اخام<br>\
+                  : see art. خيم.    </entryFree> <br>\
+<b>خَامٌ</b>               1     <br>\
+                     خَامٌ<br>\
+                     خام<br>\
+                  : see art. خيم.    </entryFree> <br>\
+<b>خَامَةٌ</b>               1     <br>\
+                     خَامَةٌ<br>\
+                     خذامه<br>\
+                     خذامة<br>\
+                  : see art. خيم.   </entryFree> <br>\
+' } );

@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>قمل</em>            1                  قمل<br>\
+<b>قَمِلَ</b>               1     <br>\
+                     قَمِلَ<br>\
+                     ذ<br>\
+                  : see تِينٌ.    </entryFree> <br>\
+<b>اَقْمَلَ</b>               1     <br>\
+                     اَقْمَلَ<br>\
+                     ذ<br>\
+                  , said of the رِمْث: see حَنَطَ.    </entryFree> <br>\
+<b>قُمَّلٌ</b>               1     <br>\
+                     قُمَّلٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  سُوسٌ: or <i>a kind of</i> <br>\
+                  قُرَاد. (Jel, vii. 130.) See سَاسَ.    </entryFree> <br>\
+<b>مُقْمِلٌ</b>               1     <br>\
+                     مُقْمِلٌ<br>\
+                     ذ<br>\
+                  : see تِينٌ.   </entryFree> <br>\
+' } );

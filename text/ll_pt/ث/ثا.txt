@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>ثا</em>            1                  ثا<br>\
+<b>ثَا</b>               1     <br>\
+                     ثَا<br>\
+                     ثا<br>\
+                     ثاء<br>\
+                   and ثَا=ءٌ: see the letter ث, and arts. ثوا and ثى.   </entryFree> <br>\
+<em>ثا</em>            1<br>\
+                  ثا<br>\
+<b>ثَاْثَاَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     ثَاْثَاَ<br>\
+                     ذ<br>\
+                  <i>He watered camels to their satisfaction:</i> (S, M, K; but in some copies of the S, the verb is made trans. by means of بِ:) or <i>he watered</i> them (T, M) <i>so as to quench their thirst,</i> (T,) <i>but not so as to satisfy them.</i> (T, M.) ―         -b2-  Also, contr., <i>He kept camels thirsty;</i> i. e. <i>he did not water</i> them <i>at all;</i> or <i>he watered</i> them <i>little, so that they were not satisfied.</i> (K, * TA.) ―         -b3-  <i>He extinguished</i> fire. (Sgh, K.) ―         -b4-  <i>He stilled</i> another&#39;s anger. (TA.) And ثَاْثَاَ عَنْهُ غَضَبَهُ <br>\
+                  <i>He quenched his anger.</i> (M.) [Or this may be rendered <i>He dispelled from him his anger:</i> agreeably with what follows.] ―         -b5-  <i>He removed</i> (IDrd, M, K) a thing (M) <i>from its place.</i> (IDrd, M, K.) ―         -b6-  ثَاْثَاَ عَنِ القَوْمِ <br>\
+                  <i>He repelled from,</i> or <i>defended, the people,</i> or <i>company of men,</i> (As, S, K,) <i>and rendered them reciprocal aid.</i> (As, TA.) ―         -b7-  ثَاْثَاَ, (T, M, K,) inf. n. ثَاْثَاَةٌ, (T,) also signifies <i>He restrained,</i> or <i>withheld,</i> (T, M, K,) a man (T, M,) from (عَنْ) another man, (T,) or from (عَنْ) a thing, or an affair. (M.)       -A2-  ثَاْثَاَتِ الاـِبِلُ <br>\
+                  <i>The camels drank to their satisfaction:</i> (M, K:) or <i>drank, but not so as to satisfy themselves.</i> (M.) ―         -b2-  And, contr., <i>The camels thirsted.</i> (K.) ―         -b3-  And ثَاْثَاَ <br>\
+                  <i>It became stilled;</i> (K;) said of anger. (TA.) ―         -b4-  See also R. Q. 2.       -A3-  ثَاْتَاَ بِالتَّيْسِ, (AA, AZ, M, K,) inf. n. ثَاْثَا=ءٌ, (K,) like تَاْتَا=ءٌ, (TA,) <i>He called the he-goat</i> (AA, AZ, M, K) <i>to copulate.</i> (AA, K.)    </entryFree> <br>\
+<b>تَثَاْثَاَ</b>               1     <br>\
+                     <i>R. Q. 2</i>        <br>\
+                     تَثَاْثَاَ<br>\
+                     ذ<br>\
+                  <i>He deemed it right that he should abide,</i> or <i>remain, where he was,</i> (AZ, T, K,) <i>and abstain,</i> (AZ, TA,) <i>after he had desired to make a journey</i> (AZ, T, K) <i>to a country,</i> or <i>land.</i> (AZ, TA.) And تثا عَنِ الاَمْرِ, (M,) or عَنِ ↓ <br>\
+      ثاثا <br>\
+                  الشَّىْءِ, (TA,) <i>He deemed it right that he should abstain from the affair,</i> or <i>thing,</i> (M, TA,) or <i>that he should pause at it,</i> (M,) <i>after he had desired it.</i> (M, TA.) ―         -b2-  لَقِيتُ فُلَانًا فَتَثَاْثَاْتُ مِنْهُ <br>\
+                  <i>I met such a one, and feared him.</i> (As, S, K. *)   </entryFree> <br>\
+' } );

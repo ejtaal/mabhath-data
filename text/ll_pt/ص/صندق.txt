@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>صندق</em>            1                  صندق<br>\
+<b>صُنْدُوقٌ</b>               1     <br>\
+                     صُنْدُوقٌ<br>\
+                     ذ<br>\
+                  , (S and Msb in art. صدق, and K in a separate art.,) thus, with ص, accord. to ISk, (S,) and صَنْدُوقٌ, (K,) or the latter is vulgar, (Msb,) [<i>A chest, coffer,</i> or <i>trunk:</i> strangely expl. in the TA as meaning <i>a</i> <br>\
+                  جُوَالِق:] and زُنْدُوقٌ and سُنْدُوقٌ are dial. vars. thereof: (K:) pl. صَنَادِيقُ. (S, Msb, K.)    </entryFree> <br>\
+<b>صَنَادِيقِىٌّ</b>               1     <br>\
+                     صَنَادِيقِىٌّ<br>\
+                     ذ<br>\
+                  <i>A maker of</i> <br>\
+                  صَنَادِيق [or <i>chests, coffers,</i> or <i>trunks</i>]. (TA.)   </entryFree> <br>\
+' } );

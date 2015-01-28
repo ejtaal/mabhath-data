@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'شرقرقشِرِقْرَاقٌ and its vars.: see art. شقرق.<br>\
+' } );

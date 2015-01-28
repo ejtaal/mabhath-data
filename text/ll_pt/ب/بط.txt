@@ -1,0 +1,59 @@
+load_data( { book: 'll_pt', text: '<em>بط</em>            1                  بط<br>\
+<b>بَطَّ</b>               1     <br>\
+                     بَطَّ<br>\
+                     بط<br>\
+                  , (S, Mgh, Msb, K,) aor.      <br>\
+                     بَطُ٣َ<br>\
+                  , inf. n. بَطٌّ, (Mgh, Msb,) <i>He slit</i> a wound, (S, Mgh, Msb, K,) or an ulcer, (S,) and a purse, (K,) &amp;amp;c. (TA.) [See also R. Q. 1.]    </entryFree> <br>\
+<b>بِطّط</b>               1     <br>\
+                     بِطّط<br>\
+                     بطط<br>\
+                  , inf. n. تَبْطِيطٌ, <i>He trafficked in the birds called</i> <br>\
+                  بَطّ, q. v. (K.)    </entryFree> <br>\
+<b>ابطّ</b>               1     <br>\
+                     ابطّ<br>\
+                     ابط<br>\
+                     اـبط<br>\
+                     ابط<br>\
+                     بط<br>\
+                  , (IAar, K,) inf. n. اـِبْطَاطٌ, (IAar,) <i>He purchased</i> [or <i>became possessed of</i>] <i>a</i> <br>\
+                  بَطَّة [q. v.] <i>for oil,</i> or <i>of oil.</i> (IAar, K.)    </entryFree> <br>\
+<b>ضَرَبَهُ فَبَطْبَطَهُ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     ضَرَبَهُ فَبَطْبَطَهُ<br>\
+                     ضربه فبطبطه<br>\
+                     ضربه فبطبطة<br>\
+                  <i>He struck him and clave his skin,</i> or <i>his head.</i> (TA.) [See 1.]       -A2-  See also بَطْبَطَةٌ, below.    </entryFree> <br>\
+<b>بَطٌّ</b>               1     <br>\
+                     بَطٌّ<br>\
+                     بط<br>\
+                  <i>A kind of water-fowl;</i> (S, O, Msb;) [the <i>duck,</i> or <i>ducks;</i> and the <i>goose,</i> or <i>geese;</i> but generally the former of these birds; agreeably with a statement in the Jm, that بَطٌّ is applied by the Arabs to the <i>small,</i> and اـِوَزٌّ to the <i>large;</i>] <i>i. q.</i> <br>\
+                  اـِوَزٌّ, (K, TA,) both the <i>small thereof</i> and the <i>large:</i> (TA:) a Persian word (عَجَمِىٌّ), arabicized; [originally بَتْ, or بَطْ, or بَطّ;] or, accord. to IJ, an imitation of its cries: n. un. بَطَّةٌ, (S, Msb, K,) which is applied to the male and to the female, (S, Msb,) like حَمَامَةٌ and دَجَاجَةٌ: (S:) pl. بِطَاطٌ. (TA.)    </entryFree> <br>\
+<b>بَطَّةٌ</b>               1     <br>\
+                     بَطَّةٌ<br>\
+                     طٰه<br>\
+                     بط<br>\
+                     بطٰه<br>\
+                     بطه<br>\
+                     بطة<br>\
+                   n. un. of بَطٌّ, q. v. ―         -b2-  Also <i>A kind of bottle,</i> or <i>pot, of glass;</i> syn. دَبَّةٌ; (K, TA; [in the CK, erroneously, دُبَّة;]) in the dial. of the people of Mekkeh; so called because made in the form of a living بَطَّة: (Lth, TA:) or <i>a vessel like the</i> [<i>flask,</i> or <i>bottle, called</i>] قَارُورَة; (K;) [<i>a kind of leathern pot,</i> or <i>bottle, of which the body is nearly globular, with a short and wide neck;</i>] <i>in which oil &amp;amp;c. are put:</i> pl. بُطَطٌ. (TA.)    </entryFree> <br>\
+<b>بَطَّاطٌ</b>               1     <br>\
+                     بَطَّاطٌ<br>\
+                     بطاط<br>\
+                  <i>A maker of</i> <br>\
+                  بُطَط, pl. of بَطَّةٌ. (TA.)    </entryFree> <br>\
+<b>بَطْبَطَةٌ</b>               1     <br>\
+                     بَطْبَطَةٌ<br>\
+                     بطبط<br>\
+                     بطبطه<br>\
+                     بطبطة<br>\
+                   [app. an inf. n., of which the verb is ↓ <br>\
+      بَطْبَطَ,] The <i>crying,</i> or <i>cry, of the</i> <br>\
+                  بَطّ; (K;) after which it [the bird] is named, accord. to IJ, as mentioned above: (TA:) or its <i>diving in water.</i> (K.)    </entryFree> <br>\
+<b>مِبَطَّةٌ</b>               1     <br>\
+                     مِبَطَّةٌ<br>\
+                     مبط<br>\
+                     مبطه<br>\
+                     مبطة<br>\
+                   The مِبْضَع [or <i>scarifying instrument</i>] (K, TA) <i>with which a wound is slit.</i> (TA.)   </entryFree> <br>\
+' } );

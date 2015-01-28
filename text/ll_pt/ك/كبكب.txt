@@ -1,0 +1,4 @@
+load_data( { book: 'll_pt', text: '<em>كبكب</em>            1                  كبكب<br>\
+               </head> See art. كب. [كبل كبن كبو    <br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'كتفكَتِفٌ<br>\
+[The shoulder-blade;] a wide bone<br>\
+behind the shoulder-joint. (Mgh.) ―<br>\
+-b2-  [Hence,<br>\
+The shoulder itself.] See طُرَّةٌ and مُؤُرَّبٌ.<br>\
+كُِتْفاَنٌ<br>\
+, as an epithet applied to the locust, see<br>\
+in TA, voce مُسَيَّحٌ. See also جَرَادٌ.<br>\
+كِتَافٌ<br>\
+of a زَبِيل: see حَتِىٌّ.<br>\
+كَتِيفَةٌ<br>\
+i. q.<br>\
+ضَبَّةٌ<br>\
+A broad piece of iron. A<br>\
+poet speaks of a wooden vessel of which a<br>\
+fracture is mended with a كتيفة. (S.)<br>\
+' } );

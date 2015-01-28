@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>عرفط</em>            1                  عرفط<br>\
+<b>عُرْفُطٌ</b>               1     <br>\
+                     عُرْفُطٌ<br>\
+                     ذ<br>\
+                   [<i>A species of mimosa;</i> called by Forskål <i>mimosa örfota;</i> (see his Flora Ægypt. Arab., pp. cxxiii. and 177;)] <i>a sort of trees of the</i> [<i>description termed</i>] عِضَاه, (S, O, K,) <i>which exudes</i> [<i>the gum called</i>] مُغْفُور, <i>and of which the fruit</i> (بَرَمَة) <i>is white and round:</i> (S:) <i>it has a gum of disagreeable odour ; and when bees eat it, somewhat of its odour is found in their honey:</i> (TA:) AHn says that, accord. to Aboo-Ziyád, <i>it is of the</i> <br>\
+                  عضاه, <i>and spreads upon the ground, not rising towards the sky, and has a broad leaf, and a sharp, curved thorn; it is of those trees of which the bark is stripped off and made into well-ropes;</i> (O, TA;) <i>and there comes forth from its fruit</i> (بَرَم) <i>what is termed</i> <br>\
+                  عُلَّفَةٌ, [i. e. <i>a pod,</i>] <i>resembling a bean,</i> (O, * TA,) <i>which is eaten by the camels and the sheep</i> or <i>goats:</i> (O:) it is said by another, or others, that <i>its fruit</i> (بَرَمَة) <i>is called</i> <br>\
+                  فَتْلَة, <i>and is white, as though fringed with cotton;</i> (O, TA;) <i>like the button of the shirt,</i> or <i>somewhat larger:</i> (O:) Aboo-Ziyád [further] says, (TA,) <i>it is compact in its branches; has no wood that is useful like other wood; and has abundance of gum, which sometimes drops upon the ground until there are, beneath the trees, what resemble great mill-stones:</i> Sh says that <i>it is a short tree, the branches of which are near together, having many thorns; its height is like that of a camel lying down; it has a small, diminutive leaf; grows upon the mountains; and the camels eat it, particularly desiring the upper extremities of its branches:</i> (O, TA:) [the word is a coll. gen. n.:] the n. un. is with اـِبِلٌ عُرْفُطِيَّةٌ. (O, K.)    </entryFree> <br>\
+<b>عُرْفُط</b>               1     <br>\
+                     عُرْفُط<br>\
+                     ذ<br>\
+                  <i>Camels that eat the</i> [<i>kind of trees called</i>] عُرْفُط. (TA.)   </entryFree> <br>\
+' } );

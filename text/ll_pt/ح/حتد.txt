@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>حتد</em>            1                  حتد<br>\
+<b>حَتَدَ بِمَكَانٍ</b>               1     <br>\
+                     حَتَدَ بِمَكَانٍ<br>\
+                     حتد بمكان<br>\
+                  , aor.      <br>\
+                     حَتِدَ<br>\
+                  , (S, L, K,) inf. n. حَتْدٌ, (L,) <i>He remained, stayed, abode,</i> or <i>dwelt, in a place,</i> (S, L, K,) <i>and became fixed,</i> or <i>settled.</i> (S, L.)       -A2-  حَتِدَ, aor.      <br>\
+                     حَتَدَ<br>\
+                  , (L, K,) inf. n. حَتَدٌ, (L,) <i>It</i> (anything, L, K) <i>was pure,</i> (L,) or <i>pure in origin.</i> (K.)    </entryFree> <br>\
+<b>حتّدهُ</b>               1     <br>\
+                     حتّدهُ<br>\
+                     حتد<br>\
+                     حتده<br>\
+                     حتدة<br>\
+                  , inf. n. تَحْتِيدٌ, <i>He chose it for its purity and excellence.</i> (K.)    </entryFree> <br>\
+<b>حَتِدٌ</b>               1     <br>\
+                     حَتِدٌ<br>\
+                     حتد<br>\
+                   Anything (L, K) <i>pure,</i> (L,) or <i>pure in origin.</i> (K.)    </entryFree> <br>\
+<b>مَحِْتدٌ</b>               1     <br>\
+                     مَحِْتدٌ<br>\
+                     محتد<br>\
+                  <i>Origin;</i> syn. اَصْلٌ; (IAar, S, L, K;) app. <i>in respect of race,</i> or <i>lineage,</i> only, as several of the lexicologists have expressly asserted; (MF;) as also مَحْفِدٌ (S, L) and مَحْقِدٌ and مَحْكِدٌ: (IAar, L:) pl. مَحَاتِدُ. (A.) You say, فُلَانٌ مِنْ <br>\
+                  مَحْتِدِ صِدْقٍ, (S,) or فِى مَحْتِدِ صِدْقٍ, (A,) [<i>Such a one is of a good,</i> or <i>an excellent, origin.</i>] And هُوَ كَرِيمُ المَحْتِدِ [<i>He is generous in respect of origin</i>]. (A, L.) ―         -b2-  Also <i>Nature; natural,</i> or <i>native, disposition, temper,</i> or <i>the like.</i> (L, K.) You say, of a man who has done an act of kindness and reverted from it, رَجَعَ اـِلَى مَحْتِدِهِ <br>\
+                  <i>He returned to his natural disposition.</i> (L.)   </entryFree> <br>\
+' } );

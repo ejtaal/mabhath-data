@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'نمل2<br>\
+نَمَّلَ الثَّوْبَ<br>\
+[He mended a garment] i. q.<br>\
+رَفَأَهُ. (TA in art. لقط.)<br>\
+5<br>\
+تَنَمُّلٌ<br>\
+A formication or stinging, as of the<br>\
+torpedo fish: see “ Abdollatiphi Hist. Aeg.<br>\
+Comp.,” p. 82.<br>\
+نَمْلُ سُلَيْمَانَ<br>\
+Red ants: see أَحْوَى, in art. حو.<br>\
+أَنْمَلَةٌ<br>\
+(thus generally written, Msb) The head<br>\
+[or end] of a finger; (S, Msb;) i. e. (Msb) the<br>\
+joint (مَفْصِل) (Az, Msb) in which is the nail:<br>\
+(Az, Msb, K:) [i. e. the ungual phalanx, with,<br>\
+or without, the flesh upon it: (see قَصَبٌ:)] or<br>\
+a joint, or an articulation, (عُقْدَة) of the fingers.<br>\
+(Msb.)<br>\
+' } );

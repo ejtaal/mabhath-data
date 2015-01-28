@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لفع</em>            1                  لفع<br>\
+<b>التَّلَفُّعُ</b>               1     <br>\
+                     التَّلَفُّعُ<br>\
+                     ذ<br>\
+                  : see اشْتَمَلَ.   </entryFree> <br>\
+' } );

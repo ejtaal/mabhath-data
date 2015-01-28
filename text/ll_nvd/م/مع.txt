@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'معمَعَ<br>\
+[generally thus in all cases] is a word, or<br>\
+noun, (S, K,) or particle, (K,) denoting concomitance, (S, K,) &amp;c. (K.) It is said to<br>\
+denote the commencement of concomitance,<br>\
+though this is not invariably the case. (MF<br>\
+and TA, voce فِى.) ―<br>\
+-b2-  جِئْتُ مَعَ العَصْرِ means<br>\
+عِنْدَ العَصْرِ. (Mughnee.)<br>\
+' } );

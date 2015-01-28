@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>غرقل</em>            1                  غرقل<br>\
+<b>غَرْقَلَتِ البَيْضَةُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     غَرْقَلَتِ البَيْضَةُ<br>\
+                     ذ<br>\
+                  <i>The egg became rotten;</i> (S, O;) <i>the interior of the egg became corrupt:</i> and thus غَرْقَلَ signifies said of the بِطِّيخ [i. e. melon, or water-melon]: (K:) or, said of the بطّيخ, <i>it became hard.</i> (O.)       -A2-  And غَرْقَلَ <br>\
+                  <i>He poured water upon his head at once;</i> (IAar, O, K, TA;) inf. n. غَرْقَلَةٌ. (TA.)    </entryFree> <br>\
+<b>غِرْقِلٌ</b>               1     <br>\
+                     غِرْقِلٌ<br>\
+                     ذ<br>\
+                   The <i>white of an egg;</i> as also ↓ <br>\
+      غِرْقِيلٌ. (Az, TA.)    </entryFree> <br>\
+<b>غِرْقِيلٌ</b>               1     <br>\
+                     غِرْقِيلٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

@@ -1,0 +1,61 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اود&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اود<br>\
+&lt;entryFree id=&quot;n1480&quot; key=&quot;اَوِدَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَوِدَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَاْوَدُ, inf. n. اَوَدٌ, &lt;i&gt;It&lt;/i&gt; (a thing, T, S, M, or an arrow, AHn, M) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, of itself, crooked, curved,&lt;/i&gt; or &lt;i&gt;bent.&lt;/i&gt; (T, S, M, A, * K.) [See also 5.]       -A2-  ا=دَ, aor. يَوُودُ, inf. n. اَوْدٌ, &lt;i&gt;It&lt;/i&gt; (the day) &lt;i&gt;receded,&lt;/i&gt; in the evening. (T, L.) ―         -b2-  &lt;i&gt;It&lt;/i&gt; (the evening, T, S) &lt;i&gt;declined.&lt;/i&gt; (T, S, K.) ―         -b3-  &lt;i&gt;It&lt;/i&gt; (a thing, L) &lt;i&gt;returned.&lt;/i&gt; (M, L, K.) ―         -b4-  ا=دَتِ الظِّلَالِ <br>\
+                  &lt;i&gt;The shadows returned, and inclined towards the east.&lt;/i&gt; (L.) ―         -b5-  ا=دَ عَلَيْهِ <br>\
+                  &lt;i&gt;He inclined towards him;&lt;/i&gt; or &lt;i&gt;pitied him.&lt;/i&gt; (M.)       -A3-  ا=دَهُ, (T, S, Msb,) first pers. اُدْتُهُ, (M,) or اُدتُّهُ, (K, TA, [in the CK, erroneously, اِدتُّهُ,]) aor. يَوُودُ, inf. n. اَوْدٌ, (As, T, M, Msb,) &lt;i&gt;He crooked, curved,&lt;/i&gt; or &lt;i&gt;bent, it;&lt;/i&gt; (As, T, S, L, Msb, K;) i. e., a stick, (As, T, L,) or other thing; (L;) as also ↓ <br>\
+      اوّدهُ. (L, K.) ―         -b2-  ا=دَهُ, aor. يَوُودُ, (T, S, M, &amp;amp;c.,) inf. n. اَوْدٌ (S, M, K) and اُوُودٌ, (M, K,) &lt;i&gt;It&lt;/i&gt; (a load) &lt;i&gt;oppressed him by its weight; pressed heavily upon him; burdened him.&lt;/i&gt; (AZ, T, S, A, Msb.) And &lt;i&gt;It&lt;/i&gt; (a thing, or an affair,) &lt;i&gt;oppressed, distressed,&lt;/i&gt; or &lt;i&gt;afflicted, him:&lt;/i&gt; (M, L, K:) and [in like manner] ↓ <br>\
+      تاوّدهُ, (L, K,) &lt;pb n=&quot;125&quot; TEIform=&quot;pb&quot;/&gt; or ↓ <br>\
+      تا=ودهُ, (T,) as also تا=داهُ, (L, K,) the last formed by transposition (T, L) from the second, (T,) or first, (L,) said of an affair, &lt;i&gt;it pressed heavily upon him; oppressed him.&lt;/i&gt; (T, L, K.) You say, ↓ <br>\
+      مَا ا=دَكَ فَهْوَ لِى ا=يِدٌ <br>\
+                  &lt;i&gt;What hath burdened&lt;/i&gt; [or &lt;i&gt;distressed] thee, it&lt;/i&gt; (that thing) &lt;i&gt;is burdening&lt;/i&gt; [or &lt;i&gt;distressing&lt;/i&gt;] &lt;i&gt;to me.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَوَّدَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1481&quot; key=&quot;تاوّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاوّد<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a stick, T, L, or some other thing, L) &lt;i&gt;became, by an extraneous operation, crooked, curved,&lt;/i&gt; or &lt;i&gt;bent;&lt;/i&gt; (T, S, M, A, L, K;) as also ↓ <br>\
+      انا=د. (T, S, M, L, K: [in the CK فَاْتادَ is erroneously put for فَاْنْا=دَ.]) El-&#39;Ajjáj says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        لَمْ يَكُ يَنْا=دُ فَاَمْسَى اْنْا=دَا<br>\
+                  &lt;/quote&gt; [&lt;i&gt;He used not to become bent, and he has become bent&lt;/i&gt;], making the pret. to be a denotative of state because قَدْ is meant to be understood, as in the saying in the Kur [iv. 92], اَوْ جَاوُوكُمْ حَصِرَتْ <br>\
+                  صُدُورُهُمْ. (S.) You say also, تَاَوَّدَتْ فِى قِيَامِهَا <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;bent in her rising, by reason of her heaviness.&lt;/i&gt; (T and L in art. واد.)       -A2- : see ا=دَهُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1482&quot; key=&quot;تا=ودهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تا=ودهُ<br>\
+                     تا=وده<br>\
+                     تا=ودة<br>\
+                  &lt;/form&gt;: see ا=دَهُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1483&quot; key=&quot;انا=د&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;7&lt;/itype&gt;        <br>\
+                     انا=د<br>\
+                     انا=د<br>\
+                  &lt;/form&gt;: see 5, in two places. ―         -b2-  Also &lt;i&gt;He became oppressed,&lt;/i&gt; or &lt;i&gt;burdened&lt;/i&gt; [by a load]. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1484&quot; key=&quot;اَوِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوِدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; (T, M;) or ↓ <br>\
+      ا=وَدُ; fem. اَوْدَا=ءُ; (K;) &lt;i&gt;Crooked, curved,&lt;/i&gt; or &lt;i&gt;bent.&lt;/i&gt; (T, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1485&quot; key=&quot;ا=وَدُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=وَدُ<br>\
+                     ا=ود<br>\
+                  &lt;/form&gt;; fem. اَوْدَا=ءُ: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1486&quot; key=&quot;ا=يِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=يِدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Burdening&lt;/i&gt; [or &lt;i&gt;distressing&lt;/i&gt;]. (S.) See 1, last sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1487&quot; key=&quot;مَوُودٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَوُودٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Oppressed, pressed heavily upon,&lt;/i&gt; or &lt;i&gt;burdened,&lt;/i&gt; by a load. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1488&quot; key=&quot;مَا=وِدُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَا=وِدُ<br>\
+                     ما=ود<br>\
+                  &lt;i&gt;Calamities:&lt;/i&gt; (IAar, M, L, K:) as also مَوَايِدُ, which is app. formed by transposition. (M, L.) Some say that ما=ود is pl. of مُوْيِدٌ, and derive this word [which see in art. ايد] from ا=دَهُ, aor. يَوُودٌ, meaning “ it oppressed him by its weight: ” (T, L:) or it has no sing. (IAar, M.)   &lt;/entryFree&gt; <br>\
+' } );

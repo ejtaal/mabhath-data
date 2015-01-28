@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>غطم</em>            1                  غطم<br>\
+<b>غِطَمٌّ</b>               1     <br>\
+                     غِطَمٌّ<br>\
+                     ذ<br>\
+                   A <i>great</i> sea, (S, K, TA,) <i>abundant in water;</i> (S, TA;) and ↓ <br>\
+      غِطْيَمٌّ, (K, TA,) like قِرْشَبُّ, (TA,) [in the CK غَطِيْم,] signifies the same; as also ↓ <br>\
+      غَطَمْطَمٌ: (K, TA:) one says بَحْرٌ <br>\
+                  غِطَمٌّ. (S.) ―         -b2-  And (assumed tropical:)  A man <i>large</i> (S, K) <i>in disposition</i> (S) or <i>dispositions;</i> (K;) [i. e.] <i>liberal,</i> or <i>bountiful:</i> (TA:) one says رَجُلٌ غِطَمٌّ. (S.) ―         -b3-  And A <i>numerous</i> company, or collective body: (K, TA:) one says جَمْعٌ غِطَمٌّ. (S, TA.) And ↓ <br>\
+      عَدَدٌ غِطْيَمٌّ, like قِرْشَبٌّ, <i>A large number.</i> (TA.) [See also غُطَامِطٌ, in art. غطمط.]    </entryFree> <br>\
+<b>غِطْيَمٌّ</b>               1     <br>\
+                     غِطْيَمٌّ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph, in two places.    </entryFree> <br>\
+<b>غَطَمُطَمٌ</b>               1     <br>\
+                     غَطَمُطَمٌ<br>\
+                     ذ<br>\
+                  : see the first paragraph.    </entryFree> <br>\
+<b>غَيْطَمٌّ</b>               1     <br>\
+                     غَيْطَمٌّ<br>\
+                     ذ<br>\
+                  <i>Thick</i> milk. (K, TA.)   </entryFree> <br>\
+' } );

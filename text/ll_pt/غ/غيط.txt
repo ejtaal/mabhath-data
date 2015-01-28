@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>غيط</em>            1                  غيط<br>\
+<b>غَاطَ</b>               1     <br>\
+                     غَاطَ<br>\
+                     ذ<br>\
+                  , aor. يَغِيطُ, inf. n. غَيْطٌ: see غَاطَ, aor. يَغُوطُ, inf. n. غَوْطٌ, in art. غوط.    </entryFree> <br>\
+<b>غَيْطٌ</b>               1     <br>\
+                     غَيْطٌ<br>\
+                     ذ<br>\
+                  : see غَايِطٌ in art. غوط.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قصف</em>            1                  قصف<br>\
+<b>نَبَاتٌ قَصِيفٌ رَيّانُ</b>               1     <br>\
+                     نَبَاتٌ قَصِيفٌ رَيّانُ<br>\
+                     ذ<br>\
+                   [<i>A weak,</i> or <i>fragile, sappy plant</i>]. (TA, in art. خرع.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هجع</em>            1                  هجع<br>\
+<b>تَهَجَّعَ</b>               1     <br>\
+                     تَهَجَّعَ<br>\
+                     ذ<br>\
+                  <i>He slept.</i> (1001 Nights, ii. 321.)    </entryFree> <br>\
+<b>هَجْعَةٌ</b>               1     <br>\
+                     هَجْعَةٌ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  The <i>setting</i> of a star. (Sgh in TA, art. شرط.) See شَرَطٌ. ―         -b2-  <i>A light sleep in the first part of the night.</i> (S.)   </entryFree> <br>\
+' } );

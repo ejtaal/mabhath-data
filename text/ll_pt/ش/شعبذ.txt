@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>شعبذ</em>            1                  شعبذ<br>\
+<b>شَعْبَذَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     شَعْبَذَ<br>\
+                     ذ<br>\
+                  , and its inf. n. شَعْبَذَةٌ: see شَعْوَذَ and شَعْوَذَةٌ in art. شعذ.    </entryFree> <br>\
+<b>مُشَعْبِذٌ</b>               1     <br>\
+                     مُشَعْبِذٌ<br>\
+                     ذ<br>\
+                  : see مُشَعْوِذٌ in art. شعذ.   </entryFree> <br>\
+' } );

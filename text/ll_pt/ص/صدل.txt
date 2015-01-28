@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>صدل</em>            1                  صدل<br>\
+<b>صَيْدَلٌ</b>               1     <br>\
+                     صَيْدَلٌ<br>\
+                     ذ<br>\
+                  <i>Stones</i> [i. e. <i>pieces of ore</i>] <i>of silver:</i> mentioned by IB on the authority of IDrst: and he says that حِجَارَةُ العَقَاقِيرِ [meaning drugs resembling pieces of stone, such as pieces of gum &amp;amp;c.,] are likened thereto. (TA.)    </entryFree> <br>\
+<b>صَيْدَلَةٌ</b>               1     <br>\
+                     صَيْدَلَةٌ<br>\
+                     ذ<br>\
+                   [The <i>trade of the</i> <br>\
+                  صَيْدَلَانِىّ;] the <i>sale of</i> <br>\
+                  عِطَارَة [i. e. <i>drugs and perfumes</i>]. (K, * TA.)    </entryFree> <br>\
+<b>صَيْدَلَانِىٌّ</b>               1     <br>\
+                     صَيْدَلَانِىٌّ<br>\
+                     ذ<br>\
+                   (S, M, Mgh, Msb, K) a word of wellknown meaning: (M:) <i>A seller of medicines</i> (Mgh, Msb, TA) <i>and of drugs</i> (TA) <i>and of perfumes:</i> (K, TA:) a rel. n. from صَيْدَلَانُ, the name of a town or place, (K,) or from صَيْدَلٌ meaning as expl. above; (IB, TA;) or a Pers. word arabicized: (M:) and صَيْدَنَانِىٌّ signifies the same, (S, Msb, K, [in the CK, erroneously, صَنْدَنَانِىٌّ,]) and so صَنْدَلَانِىٌّ: (K in this art., and O and K in art. صندل:) the pl. of the first is صَيَادِلَةٌ. (M, Mgh, Msb, K.) ―         -b2-  Also <i>A king:</i> and so صَيْدَنَانِىٌّ. (M in art. صدن.)   </entryFree> <br>\
+' } );

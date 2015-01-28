@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>غلصم</em>            1                  غلصم<br>\
+<b>غَلْصَمَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     غَلْصَمَهُ<br>\
+                     ذ<br>\
+                  , (S, TA,) inf. n. غَلْصَمَةٌ, (K, TA,) <i>He cut,</i> or <i>severed, his</i> <br>\
+                  غَلْصَمَة [here app. meaning <i>larynx,</i> or <i>upper part of the windpipe:</i> compare حَلْقَمَهُ]. (S, K, * TA.) ―         -b2-  And <i>He took hold of,</i> or <i>laid hold upon,</i> or <i>seized, his</i> <br>\
+                  غَلْصَمَة [here, likewise, app. meaning as expl. above: see the pass. part. n., below]. (K, TA.)    </entryFree> <br>\
+<b>غَلْصَمٌ</b>               1     <br>\
+                     غَلْصَمٌ<br>\
+                     ذ<br>\
+                  : see the next paragraph.    </entryFree> <br>\
+<b>الغَلْصَمَةُ</b>               1     <br>\
+                     الغَلْصَمَةُ<br>\
+                     ذ<br>\
+                   [<i>The epiglottis:</i> and also, app. by extension of the primary signification, <i>the larynx,</i> or <i>upper part of the windpipe:</i>] <i>the thing that rises up in the uppermost part of the throat, and is said to throw the meat and drink into the œsophagus,</i> or <i>gullet:</i> (Zj, in his “ Khalk-el-Insán: ”) <i>the piece of flesh</i> [or <i>cartilage</i>] <i>that is between the head and the neck:</i> or <i>the</i> <br>\
+                  عُجْرَة [or <i>projecting thing</i>] <i>that is upon the place where the uvula and gullet meet:</i> (K:) or [by an extended application] <i>the head of the</i> <br>\
+                  حُلْقُوم [or <i>windpipe</i>], (S, Msb, K,) <i>with its</i> [<i>ducts called</i>] شَوَارِب [q. v. voce شَارِبٌ] <i>and its</i> <br>\
+                  حَرْقَدَة [app. meaning <i>pomum Adami</i>]; (K;) i. e. <i>the projecting place</i> [or <i>part</i>] <i>in the</i> <br>\
+                  حَلْق [here app. meaning, as it does in many cases, <i>throat</i>]: (S, Msb:) or <i>the root,</i> or <i>base, of the tongue:</i> (K:) or <i>the place where the</i> <br>\
+                  حُلْقُوم [or <i>windpipe,</i> i. e. <i>the head thereof,</i>] <i>becomes in conjunction with the</i> <br>\
+                  حَلْق [or <i>fauces</i>] <i>when the eater swallows a mouthful and it descends from</i> [<i>over</i>] <i>the</i> <br>\
+                  حُلْقُوم: (TA:) pl. غَلَاصِمُ. (Msb.) ―         -b2-  Also (assumed tropical:)  <i>The chiefs, lords, nobles,</i> or <i>men of distinction:</i> and <i>the congregated</i> or <i>collective body</i> [of a people], or <i>the mass</i> [thereof]; syn. الجَمَاعَةُ: (K:) pl. as above. (TA.) And [hence] one says, هُوَ فِى غَلْصَمَةٍ مِنْ قَوْمِهِ i. e. فِى <br>\
+                  شَرَفٍ وَعَدَدٍ [meaning (assumed tropical:)  <i>He is among</i> (<i>such as are distinguished by</i>) <i>nobility and number, of his</i> <br>\
+                  <i>people</i>], (ISk, K, TA,) [or] meaning, accord. to As, <i>he is among the chief portion of his people, and the nobility thereof:</i> (TA:) [and in the same sense ↓ <br>\
+      غَلْصَم is used, without ة, but perhaps only by poetic license:] Abu-n-Nejm says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَبِى لُجَيْمٌ وَاْسْمُهُ مِلْءُ الفَمِ<br>\
+                     <L><br>\
+                        فِى غَلْصَمِ الهَامِ وَهَامِ غَلْصَمِ<br>\
+                  </quote> [(assumed tropical:)  <i>My father is,</i> or <i>was, Lujeym, and his fame</i> (a tropical rendering) <i>is what fills the mouth;</i> one <i>among the chief portion and the nobility of the headmen, and</i> among <i>headmen of a chief portion and of nobility</i>]. (TA.)    </entryFree> <br>\
+<b>مُغَلْصَمٌ</b>               1     <br>\
+                     مُغَلْصَمٌ<br>\
+                     ذ<br>\
+                   pass. part. n. of Q. 1. ―         -b2-  مُغَلْصَمَاتٌ means Women <i>having the necks bound.</i> (K, TA.) A poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        غَدَاةَ عَهِدْتُهُنَّ مُغَلْصَمَاتٍ<br>\
+                     <L><br>\
+                        لَهُنَّ بِكُلِّ مَحْنِيَةٍ لَحِيمُ<br>\
+                  </quote> [<i>In the morning when I met with them having their necks bound,</i> (app. as captives,) <i>they having in every bend</i> of a valley or the like <i>some one slain</i>]. (TA.)   </entryFree> <br>\
+' } );

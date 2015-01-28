@@ -1,0 +1,47 @@
+load_data( { book: 'll_pt', text: '<em>رت</em>            1                  رت<br>\
+<b>رَتَّ</b>               1     <br>\
+                     رَتَّ<br>\
+                     ذ<br>\
+                  , (S, Msb, K,) aor.      <br>\
+                     رَتَ٣َ<br>\
+                  , (Msb,) inf. n. رَتَتٌ; (S, * Msb;) or رُتَّ, inf. n. رُتَّةٌ; (so in the M;) <i>He had, in his speech,</i> or <i>utterance, what is termed</i> <br>\
+                  رُتَّةٌ, expl. below. (S, M, Msb, K.)    </entryFree> <br>\
+<b>ارتّهُ</b>               1     <br>\
+                     ارتّهُ<br>\
+                     ذ<br>\
+                  <i>He</i> (God) <i>caused him to have, in his speech,</i> or <i>utterance, what is termed</i> <br>\
+                  رُتَّةٌ. (S, K.)    </entryFree> <br>\
+<b>رَتْرَتَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     رَتْرَتَ<br>\
+                     ذ<br>\
+                  <i>He reiterated, by reason of an impediment in his speech, in uttering the letter</i> <br>\
+                  ت (IAar, T, K) &amp;amp;c. (IAar, T.)    </entryFree> <br>\
+<b>رَتٌّ</b>               1     <br>\
+                     رَتٌّ<br>\
+                     ذ<br>\
+                   The <i>swine that assaults</i> or <i>attacks</i> [<i>men</i>]: (T, TA:) or <i>a thing</i> [meaning <i>an animal</i>] <i>resembling the wild swine:</i> (M, TA:) pl. رِتَّةٌ, (T,) or رِتَتَةٌ, (TA,) and رُتُوتٌ: (S, M, TA:) or رُتُوتٌ signifies [simply] <i>swine:</i> (S, K:) in some of the copies of the S, <i>wild swine:</i> (TA:) or <i>boars:</i> (M:) or <i>boars in which is strength and boldness:</i> (A:) it has been asserted that no one but Kh has mentioned it. (IDrd, M.) ―         -b2-  [Hence, (in the TA said to be بالضمّ, but this is a mistranscription for بِالفَتْحِ,]) (tropical:)  <i>A chief</i> (IAar, T, S, A, K) <i>in eminence,</i> or <i>nobility,</i> and <i>in bounty,</i> or <i>gifts:</i> (IAar, T:) pl. رُتُوتٌ (IAar, T, S, A, K) and رُتَّانٌ. (K.) You say, هُوَ مَنْ رُتُوتِ النَّاسِ (tropical:)  <i>He is of the lords of mankind.</i> (A.) And هٰوُلَا=ءِ رُتُوتُ البَلَدِ (tropical:)  <i>These are the lords of the town,</i> or <i>country.</i> (TA.)    </entryFree> <br>\
+<b>رُتَّةٌ</b>               1     <br>\
+                     رُتَّةٌ<br>\
+                     ذ<br>\
+                  <i>A vitiousness,</i> or <i>an impediment, in speech</i> or <i>utterance, so that one does not speak distinctly:</i> (S, A, K:) or <i>a hastiness therein,</i> (M, Mgh,) <i>and a want of distinctness:</i> or the <i>changing of</i> <br>\
+                  ل <br>\
+                  <i>into</i> <br>\
+                  ى: (M:) or <i>an impediment in speech</i> or <i>utterance:</i> (Msb:) or, accord. to Mbr, <i>what resembles wind, impeding the commencement of speech, until, when somewhat thereof comes forth, it becomes continuous:</i> it is an inborn habit, and is often found in persons of elevated, or noble, rank: (T, Mgh, Msb:) or, as some say, it is <i>a reiterating of a word, preceded by the breath:</i> or the <i>incorporating of one letter into another</i> (اـِدْغَامٌ) <i>when this should not be done:</i> (Msb:) or <i>a vitious and faulty kind of repetition, in the tongue.</i> (AA, TA.)    </entryFree> <br>\
+<b>رُتَّى</b>               1     <br>\
+                     رُتَّى<br>\
+                     ذ<br>\
+                   A woman <i>who changes, in pronunciation,</i> <br>\
+                  س <br>\
+                  <i>into</i> <br>\
+                  ث, or ر <br>\
+                  <i>into</i> <br>\
+                  غ <br>\
+                  <i>or</i> <br>\
+                  ل, <i>and the like;</i> or <i>who changes one letter into another;</i> syn. لَثْغَا=ءُ. (AA, T, K.) [See also what follows.]     <br>\
+<b>اَرَتُّ</b>               1     <br>\
+                     اَرَتُّ<br>\
+                     ذ<br>\
+                   A man <i>having in his speech,</i> or <i>utterance, what is termed</i> <br>\
+                  رُتَّةٌ: (T, S, A, Mgh, Msb:) accord. to &#39;Abd-Er-Rahmán, <i>whose word,</i> or <i>speech, is held back, and is preceded by his breath:</i> (Mgh:) or <i>having an impediment in his speech, so that his tongue will not obey his will:</i> (TA:) fem. رَتَّا=ءُ: (Msb:) and pl. رُتٌّ. (A, Msb.) [See also رُتَّى.]   </entryFree> <br>\
+' } );

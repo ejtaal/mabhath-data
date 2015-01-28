@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'ليأ4<br>\
+اليأت النَّاقَةُ The she-camel was slow. (K.)<br>\
+لِيَآءٌ A kind of white grain, resembling the<br>\
+حِمِّص [or cicer arietinum], (K,) intensely white,<br>\
+which is eaten. (AHn says, I know not whether<br>\
+it [the plant] have, or have not, قطنيّة [q. v.].<br>\
+(TA.)<br>\
+' } );

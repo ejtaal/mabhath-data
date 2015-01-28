@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>قسطس</em>            1                  قسطس<br>\
+<b>قُسْطَاسٌ</b>               1     <br>\
+                     قُسْطَاسٌ<br>\
+                     ذ<br>\
+                   and قِسْطَاسٌ <br>\
+                  <i>A balance,</i> or <i>instrument for weighing:</i> (S, Msb, K; and Bd in xvii. 37:) or <i>the most even and most just kind thereof:</i> or <i>such as is just, of whatever kind it be:</i> (K:) or <i>i. q.</i> <br>\
+                  قَبَّانٌ [<i>a steelyard</i>]: or, as Lth thinks, the <i>iron of the</i> <br>\
+                  قبّان: or <i>i. q.</i> <br>\
+                  شَاهِينٌ [the <i>beam of a balance</i>]: (TA:) or <i>i. q.</i> <br>\
+                  فَرَسْطُونٌ [an arabicized Persian word, signifying <i>a public standard of weights or measures</i>]: (Zj, TA:) also written قصطاس: (K:) said to be Arabic, from القِسْطُ, meaning “ justice: ” (Msb:) or a Greek word arabicized; (IDrd, Msb, K;) and its being so does not impugn the truth of the Kur-án&#39;s being [altogether] Arabic; for when a foreign word is used by the Arabs, and made by them conformable with their language in respect of desinential syntax and determinateness and indeterminateness and the like, it becomes Arabic: (Bd, ubi supra:) pl. قَسَاطِيسُ. (Msb.)   </entryFree> <br>\
+            <div2 n=&quot;qsm qsn qsw q$&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قسم قسن قسو قش<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

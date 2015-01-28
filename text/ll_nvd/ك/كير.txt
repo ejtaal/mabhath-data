@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'كيركِيرٌ [A blacksmith&#39;s bellows;] a blacksmith&#39;s<br>\
+[skin, of the kind called] زِقّ, into which he blows:<br>\
+(Mgh, K:) or a blacksmith&#39;s skin (زِقّ), with<br>\
+which he blows [his fire]: (Msb:) also, (Msb,)<br>\
+composed of a thick skin (جِلْد, S, Msb, or زِقّ,<br>\
+S), with حَافَات [or edges, forming a wide mouth,<br>\
+which being opened and closed by means of two<br>\
+pieces of wood to which the edges are sewed, the<br>\
+skin becomes filled with air, which is then forced<br>\
+out through a pipe at the end opposite the mouth:<br>\
+such, at least, is the most common kind of<br>\
+bellows used by the Arabs of the present day<br>\
+with which I am acquainted]: but the thing<br>\
+constructed of clay [in which the blacksmith<br>\
+kindles his fire] is called كُورٌ: (S, Msb:) so<br>\
+ISk says he heard AA say: (Msb:) [but see<br>\
+كُورٌ: and see a verse cited in the last paragraph<br>\
+of art. عور:] the pl. [of pauc.] is أَكْيَارٌ, and<br>\
+[of mult.] كِيَرَةٌ (Msb, K) and كِيرَانٌ; (K;)<br>\
+the last on the authority of Th; but doubtful;<br>\
+for it is not known in the lexicons, and is<br>\
+[properly] pl. of كُورٌ. (TA.)<br>\
+' } );

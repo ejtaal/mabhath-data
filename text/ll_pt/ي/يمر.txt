@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>يمر</em>            1                  يمر<br>\
+<b>يَامُررٌ</b>               1     <br>\
+                     يَامُررٌ<br>\
+                     ذ<br>\
+                   The <i>male of the</i> <br>\
+                  اَيِّل [or <i>mountain goat:</i> not ل: ا]. (M, TT.)   </entryFree> <br>\
+' } );

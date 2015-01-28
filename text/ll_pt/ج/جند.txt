@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>جند</em>            1                  جند<br>\
+<b>جنّد جُنُودًا</b>               1     <br>\
+                     جنّد جُنُودًا<br>\
+                     جند جنودا<br>\
+                   (S, A) <i>He collected,</i> or <i>assembled,</i> <br>\
+                  جنود [i. e. <i>armies, military forces,</i> &amp;amp;c.]. (A.)    </entryFree> <br>\
+<b>تجنّد</b>               1     <br>\
+                     تجنّد<br>\
+                     جند<br>\
+                     تجند<br>\
+                  <i>He took</i> or <i>prepared, for himself, a</i> <br>\
+                  جُنْد [i. e. <i>an army, a military force,</i> &amp;amp;c.]. (A, TA.)    </entryFree> <br>\
+<b>جُنْدٌ</b>               1     <br>\
+                     جُنْدٌ<br>\
+                     جند<br>\
+                   [a coll. gen. n.] <i>An army; a military force; a legion; a body of troops</i> or <i>soldiers;</i> (L, K;) <i>a collected body of men prepared for war:</i> (Mgh:) <i>auxiliaries:</i> (S, L, Msb, K:) n. un. ↓ <br>\
+      جُنْدِىٌّ [signifying <i>a trooper; a soldier; an auxiliary</i>]; like as رُومِىٌّ is n. un. of رُومٌ: (Msb:) pl. of the former, جُنُودٌ (S, A, Mgh, Msb) and [pl. of pauc.] اَجْنَادٌ. (Mgh, Msb.) It is said in a trad., ↓ <br>\
+      الاَرْوَاحُ جُنُودٌ مُجَنَّدَةٌ (S, A, L) <i>Souls are troops collected together:</i> meaning that they are created of two parties, each party agreeing together, and disagreeing with the other party, like two armies opposed, each to the other. (L.) ―         -b2-  Also <i>Any kind,</i> or <i>species, of creatures,</i> or <i>created things, regarded as alone, by itself,</i> or <i>apart from others.</i> (K, * TA.) It is said in a prov., اـِنَّ لِلّهِ جُنُودًا مِنْهَا العَسَلُ <br>\
+                  <i>Verily to God belong kinds,</i> or <i>species, of created things</i> [<i>by means of which He effects his purposes as by armies</i> or <i>auxiliaries</i>], <i>of which is honey:</i> (Z, K:) first said by Mo&#39;áwiyeh, when he heard that El-Ashtar had been given to drink some honey containing poison, in consequence of which he died: and used on the occasion of rejoicing at a misfortune that has befallen an enemy: it occurs in the history of El-Mes&#39;oodee thus; اـِنَّ لِلّهِ جُنْدًا <br>\
+                  فِى العَسَلِ. (MF.) ―         -b3-  Also, [as a term used in Syria, and afterwards by the Arabs from Syria in Spain,] <i>A city</i> [<i>with its territory;</i> i. e. <i>a</i> <br>\
+                  <i>province,</i> or <i>district</i>]: (K:) or particularly <i>a city of Syria</i> [<i>with its territory</i>]: (AO, TA:) pl. اَجْنَادٌ. (TA.) Syria consists of five اجناد; namely, Dimashk [or Damascus], Hims [or Emessa], Kinnesreen, El-Urdunn [or the Jordan], and Filasteen or Falasteen [or Palestine]: (S, M, A:) they were thus called because the military forces were thence collected. (A.) [See مِخْلَافٌ.]    </entryFree> <br>\
+<b>جُنْدِىٌّ</b>               1     <br>\
+                     جُنْدِىٌّ<br>\
+                     جند<br>\
+                     جندى<br>\
+                     جندي<br>\
+                  : see جُنْدٌ. ―         -b2-  Also <i>Of,</i> or <i>relating to, a</i> <br>\
+                  جُنْد <br>\
+                  <i>of Syria.</i> (A.)    </entryFree> <br>\
+<b>جُنْدٌ مُجَنَّدٌ</b>               1     <br>\
+                     جُنْدٌ مُجَنَّدٌ<br>\
+                     جند مجند<br>\
+                  <i>An army,</i> or <i>a military force, collected.</i> (TA.) See also جُنْدٌ.   </entryFree> <br>\
+' } );

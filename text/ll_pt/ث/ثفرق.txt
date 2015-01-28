@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>ثفرق</em>            1                  ثفرق<br>\
+<b>ثُفْرُوقٌ</b>               1     <br>\
+                     ثُفْرُوقٌ<br>\
+                     ثفروق<br>\
+                   The قِمَع [or <i>base</i>] of a date: (S, K:) or the قِمَع of a full-grown unripe date; i. e., the <i>round portion of its covering, surrounding the stalk, and adhering to the upper part</i> of the date: (Mgh:) or the <i>part</i> (El-&#39;Adebbes, A-&#39;Obeyd, S, K) of the date (El-&#39;Adebbes, A&#39;Obeyd, S) <i>to which the</i> <br>\
+                  قمع <br>\
+                  <i>adheres:</i> (El-&#39;Adebbes, A&#39;Obeyd, S, K:) or, accord. to Lth, the <i>connecting medium</i> (علاقة) <i>between the stone</i> of the date <i>and the</i> <br>\
+                  قمع; and AZ says the like: (TA: [see فَرضٌ as signifying a sort of dates of &#39;Omán:]) or <i>a raceme of which the dates have been eaten,</i> or <i>of which all the dates have been stripped off except one or two or three:</i> (ISh, TA:) pl. ثَفَارِيقُ; (S, K;) explained by Ks as meaning the اَقْمَاع of fullgrown unripe dates. (S.) تُفْرُوقٌ is a dial. var. thereof. (TA in art. تفرق.) The pl. also signifies The <i>bases</i> (اَقْمَاع) <i>of grapes:</i> (JK:) or the ثُفْرُوق of a grape is <i>what adheres to the raceme;</i> and <i>a closed perforation therein.</i> (Mgh.) ―         -b2-  [Hence,] مَا لَهُ ثُفْرُوقٌ (assumed tropical:)  <i>He possesses not anything.</i> (JK, Ibn-&#39;Abbád, K.)   </entryFree> <br>\
+' } );

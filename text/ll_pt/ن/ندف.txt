@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>ندف</em>            1                  ندف<br>\
+<b>نَدَفَ</b>               1     <br>\
+                     نَدَفَ<br>\
+                     ذ<br>\
+                   [<i>He separated and loosened</i> cotton <i>by means of a bow and a kind of wooden mallet, by striking the string of the bow with the mallet:</i> see حَلَجَ; and حَرَنَ] <i>he beat</i> cotton <i>with the</i> ↓ <br>\
+      مِنْدَف, (S, Msb, * K,) also called ↓ <br>\
+      مِنْدَفَة, i. e., <i>his wooden implement with which he strikes the bowstring, that it</i> [<i>the cotton</i>] <i>might become fine.</i> (K.)    </entryFree> <br>\
+<b>مِنْدَفٌ</b>               1     <br>\
+                     مِنْدَفٌ<br>\
+                     ذ<br>\
+                   and مِنْدَفَةٌ: see 1; and see مِحْرَنٌ and مِنْبَضٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>فكل</em>            1                  فكل<br>\
+<b>افتكل فِى فِعْلِهِ</b>               1     <br>\
+                     افتكل فِى فِعْلِهِ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اِحْتَفَلَ [<i>He strove, laboured,</i> or <i>exerted himself,</i> &amp;amp;c., <i>in his doing</i>]; (IAar, O, K;) said of a man. (IAar, O.)    </entryFree> <br>\
+<b>اَفْكَلُ</b>               1     <br>\
+                     اَفْكَلُ<br>\
+                     ذ<br>\
+                  <i>A tremour,</i> (S, O, K,) from cold or from fear: (S:) hence, in a trad., اَخَذَنِى اَفْكَلُ [<i>A tremour seized me</i>]: (S, * O:) and in another, فَبَاتَ وَلَهُ اَفْكَلُ [<i>And he passed the night having a</i> <br>\
+                  <i>tremour,</i> or <i>shivering</i>]: (O:) thus used, as indeterminate, it is perfectly decl.; but if used as a [proper] name of a man, it is imperfectly decl. because determinate and also of the measure of a verb: (S, O:) some say, (IF, O,) no verb is formed from it; (IF, S, O;) but such is not the case, for they said رَجُلٌ مَفْكُولٌ [which shows that it had a verb though none is known to have been in use]. (IF, O.) [اَخَذَتْ بِى نَاقَتِى اَفْكَلًا مِنَ <br>\
+                  السَّيْرِ is a saying mentioned in the O and K, (in the former as from Ibn-&#39;Abbád,) but the meaning is not expl., nor indicated by the context, in either of them; and the strangeness of its phraseology convinces me that it presents a mistranscription: I believe that the first word is mistranscribed for اَحْدَثَتْ, and, consequently, that the meaning is, <i>My she-camel produced in me a tremour arising from the</i> rate of <i>journeying:</i> some copies of the K, as is stated in the TA, for مِنَ السَّيْرِ, have من <br>\
+                  السَّبْقِ, <i>from the outstripping.</i>] ―         -b2-  Also The [<i>bird commonly called</i>] شِقِرَّاق [generally meaning the <i>green wood-pecker</i>]; (O, K;) because they regard it as of evil omen; so that when it presents itself to them, they are frightened at it, and tremble. (O.)       -A2-  And <i>A company,</i> or <i>collective body,</i> of men: one says, جَاوُوا بِاَفْكَلِهِمْ <br>\
+                  <i>They came with their company</i> [i. e. <i>all together</i>]. (Ibn-&#39;Abbád, O, K.) اَفَاكِيلُ [is app. a pl. thereof, and, as such,] signifies اَفْوَاجٌ [pl. of فَوْجٌ, q. v.]: thus in the phrase اَفَاكِيلُ مِنْ كَذَا [app. meaning <i>Multitudes of such a kind of thing</i>]: (K:) [or] thus in the saying, mentioned by Ibn-&#39;Abbád, عِنْدَهُ اَفَاكِيلُ <br>\
+                  مِنْ كَلَامٍ [app. meaning <i>He has multitudes of sayings,</i> or <i>words;</i> for كَلَامٌ (q. v.) is used in a pl. sense as well as in a sing. sense]. (O. [The difference of these two exs. in respect of the last word suggests that there may be in one of them a mistranscription.])    </entryFree> <br>\
+<b>مَفْكُولٌ</b>               1     <br>\
+                     مَفْكُولٌ<br>\
+                     ذ<br>\
+                   [the pass. part. n. of a verb which is not mentioned,] <i>Affected with a tremour.</i> (IF, O, K, TA. [See اَفْكَلُ, first sentence.])   </entryFree> <br>\
+' } );

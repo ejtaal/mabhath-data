@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>كدش</em>            1                  كدش<br>\
+<b>كَدَشَ لِعِيَالِهِ</b>               1     <br>\
+                     كَدَشَ لِعِيَالِهِ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَدِشَ<br>\
+                  , (S, K,) inf. n. كَدْشٌ, (TK,) <i>He sought, sought after,</i> or <i>sought to gain, sustenance;</i> or <i>he gained, acquired,</i> or <i>earned;</i> syn. كَدَحَ, (S, K,) and كَسَبَ; (K;) <i>and collected; and exercised art, cunning,</i> or <i>skill;</i> (TA;) <i>for his family,</i> or <i>household.</i> (S, K.) ―         -b2-  You say also, كَدَشْتُ مِنْ فُلَانٍ شَيْيًا, (&#39;Okbeh Es-Sulamee, TA,) or عَطَا=ءً, (S, K,) <i>I obtained from such a one</i> (&#39;Okbeh, S, K) <i>a thing,</i> (&#39;Okbeh,) or <i>a gift;</i> (S, K;) as also ↓ <br>\
+      اَكْدَشْتُ, (K, and so in a copy of the S,) or ↓ <br>\
+      اـِكْتَدَشْتُ. (&#39;Okbeh, as related by Aboo-Turáb; and so in two copies of the S.) And مَا كَدَشَ مِنْهُ شَيْيًا <br>\
+                  <i>He did not obtain, and did not take, of him anything.</i> (TA.)    </entryFree> <br>\
+                     اَكْدَشَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اـِكْتَدَشَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>كُدَاشَةٌ</b>               1     <br>\
+                     كُدَاشَةٌ<br>\
+                     ذ<br>\
+                   [app. <i>Gain,</i> or <i>earnings;</i>] a subst. [from كدش as first explained above, or] from كَدَّاشٌ in the first of the senses explained below. (TA.)    </entryFree> <br>\
+<b>كَدَّاشٌ</b>               1     <br>\
+                     كَدَّاشٌ<br>\
+                     ذ<br>\
+                   A man <i>who makes much gain.</i> (TA.) ―         -b2-  Also, <i>i. q.,</i> <br>\
+                  مُكَدٍّ; (K;) in the dial. of the people of El-&#39;Irák; meaning <i>An importunate beggar.</i> (TA.)   </entryFree> <br>\
+            <div2 n=&quot;kdm kdn kdh kdY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كدم كدن كده كدى<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

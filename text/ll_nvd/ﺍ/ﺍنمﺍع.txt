@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'انماعIt flowed. (Msb.)<br>\
+مَائِعٌ<br>\
+Anything in a melted state, fluid, or<br>\
+liquid: opposed to جَامِدٌ. (Msb.)<br>\
+مَيْعَةٌ<br>\
+Briskness, liveliness, or sprightliness.<br>\
+(S.) The prime, or first part, of youth, and of<br>\
+the day. (S, K.) The first part of the run of a<br>\
+horse: (S:) the first part, and the briskness,<br>\
+liveliness, or sprightliness, of a run, and of intoxication: or the main part of anything. (TA.)<br>\
+―<br>\
+-b2-  And The flowing of anything poured out.<br>\
+(TA.)<br>\
+' } );

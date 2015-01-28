@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;خرا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  خرا<br>\
+&lt;entryFree id=&quot;n10225&quot; key=&quot;خَرِيَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     خَرِيَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     خَرَاَ<br>\
+                  &lt;/form&gt;, (S, Mgh, Msb, K,) inf. n. خَرَا=ءَةٌ (S, Mgh, K) and ↓ <br>\
+      خِرَا=ءَةٌ, (K,) which is the more chaste form, (O,) or this may be a quasi-inf. n., (El-Khattábee, Msb,) and, accord. to some, ↓ <br>\
+      خِرَا=ءٌ, (MF,) or this is a quasi-inf. n., (Lth, * Msb, K, * MF,) like صِيَامٌ for صَوْمٌ, or, as some say, a pl. of خَرْءٌ, (Msb, MF,) and خَرْءٌ also is an inf. n., (S, K,) and خُرُوْءٌ, (K, TA,) like قُعُودٌ, (TA,) or خُرُوْءَةٌ, (so in a MS. copy of the K and in the CK,) &lt;i&gt;He voided his excrement,&lt;/i&gt; or &lt;i&gt;ordure:&lt;/i&gt; (S, Mgh, Msb, K:) or خِرَا=ءَةٌ signifies the &lt;i&gt;retiring alone, and sitting down, to satisfy a want&lt;/i&gt; [&lt;i&gt;of nature&lt;/i&gt;]. (IAth.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10226&quot; key=&quot;خَرْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَرْءٌ<br>\
+                     خرء<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10227&quot; key=&quot;خُرْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خُرْءٌ<br>\
+                     خرء<br>\
+                  &lt;i&gt;Human excrement,&lt;/i&gt; or &lt;i&gt;ordure:&lt;/i&gt; (S, Mgh, * Msb, K;) as also ↓ <br>\
+      خَرْءٌ: (Msb, TA:) and sometimes applied to the &lt;i&gt;dung&lt;/i&gt; of the dog, and of the field-rat, and of the ant, and of the fly: (TA:) pl. خُرُوْءٌ, (S, Mgh, Msb, K,) which is also a pl. of خَرْءٌ, (Msb, TA,) and خُرْا=نٌ, (K,) which is anomalous, and خُرُوٌ; (TA;) and some say that خِرَا=ءٌ is a pl. of خَرْءٌ. (Msb, MF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10228&quot; key=&quot;خِرَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خِرَا=ءٌ<br>\
+                     خرا=ء<br>\
+                  &lt;/form&gt;: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10229&quot; key=&quot;خِرَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خِرَا=ءَةٌ<br>\
+                     خرا=ءه<br>\
+                     خرا=ءة<br>\
+                  &lt;/form&gt;: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10230&quot; key=&quot;خَارِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَارِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; act. part. n. of 1. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10231&quot; key=&quot;مَخْرَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَخْرَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place where excrement,&lt;/i&gt; or &lt;i&gt;ordure,&lt;/i&gt; is &lt;i&gt;voided;&lt;/i&gt; [&lt;i&gt;a privy;&lt;/i&gt;] (S, K;) as also مَخْرَاةٌ, (K,) and ↓ <br>\
+      مَخْرُوَةٌ; (T, S, K, TA;) the last written in some copies of the K مَخْرِيَةٌ; and in one, مِخْرَاَةٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10232&quot; key=&quot;مَخْرُوَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَخْرُوَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.   &lt;/entryFree&gt; <br>\
+' } );

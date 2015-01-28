@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>فحس</em>            1                  فحس<br>\
+<b>فَحَسَ</b>               1     <br>\
+                     فَحَسَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     فَحَسَ<br>\
+                  , inf. n. فَحْسٌ, <i>He took</i> a thing <i>from his hand, with his tongue and his mouth;</i> such as water &amp;amp;c.: (Lth, T, O, K:) or <i>he licked up</i> a thing <i>with his tongue, from his hand.</i> (O: but only the inf. n. is mentioned.) ―         -b2-  And فَحَسَ <br>\
+                  السَّلْتَ, aor. as above, (O,) and so the inf. n., (O, K,) <i>He rubbed</i> [<i>the ears off</i>] <i>the</i> <br>\
+                  سلت, (O, K, TA,) a particular species of barley, (TA,) <i>so that the awn,</i> or <i>beard,</i> [<i>thereof</i>] <i>became removed</i> (O, K, TA) <i>and scattered.</i> (TA.)    </entryFree> <br>\
+<b>افحس</b>               1     <br>\
+                     افحس<br>\
+                     ذ<br>\
+                  <i>He</i> (a man) <i>abraded by degrees,</i> lit., <i>thing after thing.</i> (TA.)    </entryFree> <br>\
+<b>تَفَيْحَسَ</b>               1     <br>\
+                     <i>Q. Q. 2</i>        <br>\
+                     تَفَيْحَسَ<br>\
+                     ذ<br>\
+                  <i>He carried himself in an elegant and a proud and self-conceited manner, with an affected inclining of his body from side to side, in his gait:</i> (O, K: *) and so تَفَيْسَحَ. (O.)   </entryFree> <br>\
+' } );

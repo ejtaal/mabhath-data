@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>غرقد</em>            1                  غرقد<br>\
+<b>غَرْقَدٌ</b>               1     <br>\
+                     غَرْقَدٌ<br>\
+                     ذ<br>\
+                  <i>A species of tree,</i> (S, O, L, K,) <i>of large size,</i> (L, K,) <i>of the kind termed</i> <br>\
+                  عِضَاه, (L,) <i>said by some to grow in the ground termed</i> <br>\
+                  قُفّ: (O, L:) or the <i>species of tree called</i> <br>\
+                  عَوْسَج [or <i>boxthorn</i>], <i>when it has grown large:</i> (AHn, O, L, K:) <i>a species of thorny tree:</i> (L:) [a coll. gen. n.:] n. un. with ة. (L, O, K.)       -A2-  It is said in the K to signify also The <i>white of an egg:</i> but as thus expl., it is app. a mistake for غِرْقِيٌ. (TA.)   </entryFree> <br>\
+' } );

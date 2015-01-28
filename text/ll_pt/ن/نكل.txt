@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>نكل</em>            1                  نكل<br>\
+<b>نَكِلَ</b>               1     <br>\
+                     نَكِلَ<br>\
+                     ذ<br>\
+                  , aor. يَنْكُلُ, see 1 in art. فضل.    </entryFree> <br>\
+<b>النِّكْلُ</b>               1     <br>\
+                     النِّكْلُ<br>\
+                     ذ<br>\
+                   signifies اَلَّذِى يُنْكِلُ اَقْرَانَهُ. (A, art. عض.) ―         -b2-  See نَكَلٌ.    </entryFree> <br>\
+<b>نَكَلٌ</b>               1     <br>\
+                     نَكَلٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      نِكْلٌ: see بَدَلٌ.    </entryFree> <br>\
+<b>نَكَالٌ</b>               1     <br>\
+                     نَكَالٌ<br>\
+                     ذ<br>\
+                  <i>Any punishment serving to give warning to others than the sufferer:</i> (M, K, TA:) or <i>that restrains the offender from repeating the offence.</i> (Bd, ii. 6.)   </entryFree> <br>\
+' } );

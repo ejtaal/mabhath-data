@@ -1,0 +1,47 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اسك&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اسك<br>\
+&lt;entryFree id=&quot;n768&quot; key=&quot;اَسَكَهَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَسَكَهَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسِكَ<br>\
+                  &lt;/form&gt;, inf. n. اَسْكٌ, &lt;i&gt;He hit, hurt,&lt;/i&gt; or &lt;i&gt;wounded, her&lt;/i&gt; (a woman&#39;s) اـِسْكَتَانِ. (TA.) And اُسِكَتْ <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;was hurt,&lt;/i&gt; or &lt;i&gt;wounded, in a place not that of circumcision,&lt;/i&gt; [i.e., &lt;i&gt;in her&lt;/i&gt; <br>\
+                  اـِسْكَتَانِ,] &lt;i&gt;by the circumcising woman&#39;s missing the proper place.&lt;/i&gt; (Msb.) [See بَظْرق.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n769&quot; key=&quot;اَسْكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسْكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see الاـِسْكَتَانِ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n770&quot; key=&quot;اـِسْكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِسْكٌ<br>\
+                     اس<br>\
+                     اسك<br>\
+                     اسك<br>\
+                     ساك<br>\
+                     سك<br>\
+                     آس<br>\
+                     آسك<br>\
+                  &lt;/form&gt; see الاـِسْكَتَانِ.―         -b2-  Also The &lt;i&gt;side of the&lt;/i&gt; <br>\
+                  اِسْت [i. e., of the &lt;i&gt;podex,&lt;/i&gt; or of the &lt;i&gt;anus&lt;/i&gt;]. (Sh, TA.) [Hence,] one says of a man, اـِنَّمَا هُوَ اـِسْكُ اَمَةٍ, meaning &lt;i&gt;He is but a stinking fellow.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n771&quot; key=&quot;الاـِسْكَتَانِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الاـِسْكَتَانِ<br>\
+                     الاسكتان<br>\
+                  &lt;/form&gt; (T, S, M, Mgh, Sgh, Msb, K) and الاَسْكَتَانِ, (M, K,) The &lt;i&gt;two sides&lt;/i&gt; [or &lt;i&gt;labia majora&lt;/i&gt;] &lt;i&gt;of the vulva,&lt;/i&gt; or &lt;i&gt;external portion of the female organs of generation,&lt;/i&gt; (T, S, Mgh, Msb,) i. e., &lt;i&gt;of a woman, above&lt;/i&gt; [or rather &lt;i&gt;within&lt;/i&gt;] &lt;i&gt;the&lt;/i&gt; <br>\
+                  شُفْرَانِ; (Mgh; the شُفْرَانِ being the two borders thereof; T, Msb;) i. e. the قُذَّتَانِ <br>\
+                  &lt;i&gt;thereof;&lt;/i&gt; (S and M and L in art. قذ;) the &lt;i&gt;two sides, on the right and left, of the vulva,&lt;/i&gt; or &lt;i&gt;external portion of the organs of generation, of a woman, between which is the&lt;/i&gt; <br>\
+                  مَشَقّ: (Zj in his “ Khalk el-Insán ”) or [accord. to some, but incorrectly,] the شُفْرَانِ [in the CK the شَفْر] &lt;i&gt;of the&lt;/i&gt; <br>\
+                  رَحِم [here meaning, as in many other instances, the &lt;i&gt;vulva,&lt;/i&gt; i. e. فَرْج], (M, K,) or &lt;i&gt;of the&lt;/i&gt; <br>\
+                  حَيَا=ء [which also means the vulva, but seldom that of a woman]: (El-Khárzenjee:) or [agreeably with general usage, and with the explanations given before this last,] &lt;i&gt;its two sides, next to its&lt;/i&gt; <br>\
+                  شُفْرَانِ: (M, K:) or, [what is the same,] &lt;i&gt;its&lt;/i&gt; <br>\
+                  قُذَّتَانِ: (K:) pl. اـِسَكٌ (El-Khárzenjee, K) and [quasi-pl. ns.] ↓ <br>\
+      اـِسْكٌ and ↓ <br>\
+      اَسْكٌ. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n772&quot; key=&quot;مَاْسُوكَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْسُوكَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A woman &lt;i&gt;hit, hurt,&lt;/i&gt; or &lt;i&gt;wounded, in her&lt;/i&gt; <br>\
+                  اـِسْكَتَانِ: (TA:) a woman (Msb) &lt;i&gt;hurt,&lt;/i&gt; or &lt;i&gt;wounded, in a place not that of circumcision, by the circumcising woman&#39;s missing the proper place;&lt;/i&gt; (S Msb, K;) [i. e.,] &lt;i&gt;hurt,&lt;/i&gt; or &lt;i&gt;wounded, by that cause, in her&lt;/i&gt; <br>\
+                  اـِسْكَتَانِ. (T, TA.)   &lt;/entryFree&gt; <br>\
+' } );

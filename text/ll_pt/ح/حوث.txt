@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>حوث</em>            1                  حوث<br>\
+<b>حَوْثُ</b>               1     <br>\
+                     حَوْثُ<br>\
+                     حوث<br>\
+                   a dial. var. of حَيْثُ, (S, K,) of the dial. of Teiyi, (Lh, IHsh, K,) or of that of Temeem: (L:) some of the Arabs say حَوْثَ, like as some say حَيْثَ; (Ks, Lh, TA;) and some say حَوْثِ: (Mughnee and TA in art. حيث:) حَوْثُ is the original form; (ISd, TA;) but حَيْثُ is the more chaste of the two forms, and that used in the Kur-án; though both forms are good. (AZ, TA.) See art. حيث.   </entryFree> <br>\
+' } );

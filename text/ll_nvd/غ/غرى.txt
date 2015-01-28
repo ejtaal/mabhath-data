@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'غرى1<br>\
+غَرَيْتُ السَّهْمَ: see 1 in art. غرو.<br>\
+قَوْسٌ مَغْرِيَّةٌ: see مَغْرُوٌّ (last sentence) in<br>\
+art. غرو.<br>\
+' } );

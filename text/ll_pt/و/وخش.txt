@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>وخش</em>            1                  وخش<br>\
+<b>وَخُشَ</b>               1     <br>\
+                     وَخُشَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     وَخُشَ<br>\
+                  , inf. n. وَخَاشَةٌ and وُخُوشَةٌ (S, K) and وُخُوشٌ, (TA,) <i>It</i> (a thing, S, TA,) <i>became bad, vile,</i> or <i>base.</i> (S, K, TA.)    </entryFree> <br>\
+<b>وَخْشٌ</b>               1     <br>\
+                     وَخْشٌ<br>\
+                     ذ<br>\
+                  <i>Bad, vile,</i> or <i>base;</i> applied to anything: (K:) <i>low, ignoble, vile, base,</i> or <i>mean;</i> the <i>refuse,</i> or <i>lowest</i> or <i>basest</i> or <i>meanest sort,</i> of mankind; (Lth, Az, S, Msb, K;) the <i>abject, contemptible,</i> or <i>despicable,</i> thereof; (Lth, Az, Msb;) used as a pl., (S, Msb, K,) and dual, (Msb,) and sing., and masc. and fem., without variation: (Msb, K:) but sometimes it is made fem. by the addition of ة: (IAar, ISd:) and has the dual form: (S, K:) and has for its pl. اَوْخَاشٌ (S, K) and وِخَاشٌ; (K;) or the latter is pl. of وَخْشَةٌ. (TA.) You say, رَجُلٌ وَخْشٌ and اـِمْرَاَةٌ وَخْشٌ and قَوْمٌ وَخْشٌ [<i>A man,</i> and <i>a woman,</i> and <i>a company of men, low, ignoble,</i> &amp;amp;c.]. (TA.) And ذٰلِكَ رَجُلٌ مِنْ وَخْشِ <br>\
+                  النَّاسِ <br>\
+                  <i>That is a man of the low, ignoble, vile, base,</i> or <i>mean, of mankind.</i> (S.) And جَا=ءَنِى <br>\
+                  اَوْخَاشٌ مِنَ النَّاسِ <br>\
+                  <i>Some of the refuse,</i> or <i>lowest</i> or <i>basest</i> or <i>meanest sort, of mankind came to me.</i> (S.) And ↓ <br>\
+      وَخْشَنٌّ is the <i>same as</i> <br>\
+                  وَخْشٌ: (TA:) the rájiz (Dahlab, TA) says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        جَارِيَةٌ لَيْسَتْ مِنَ الوَخْشَنِّ<br>\
+                   [<i>A girl who is not of the low,</i> or <i>ignoble,</i> &amp;amp;c.]; meaning الوَخْشِ; adding a double ن. (S, TA.)    </entryFree> <br>\
+<b>وَخْشَنٌّ</b>               1     <br>\
+                     وَخْشَنٌّ<br>\
+                     ذ<br>\
+                  : see وَخْشٌ.   </entryFree> <br>\
+' } );

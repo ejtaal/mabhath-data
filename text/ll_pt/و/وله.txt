@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>وله</em>            1                  وله<br>\
+<b>وَلِهَ</b>               1     <br>\
+                     وَلِهَ<br>\
+                     ذ<br>\
+                  <i>His reason departed,</i> or <i>he became bereft of his reason</i> or <i>intellect, in consequence of grief;</i> (K;) or <i>of joy,</i> or <i>grief;</i> (Msb;) or <i>of intense grief;</i> (S, Mgh;) or <i>of the loss of the beloved:</i> (TA:) or <i>he grieved,</i> or <i>sorrowed:</i> (K:) and <i>he became confounded,</i> or <i>perplexed, and unable to see his right course,</i> (S, K, TA,) <i>by reason of intense grief:</i> (S, TA:) and <i>he feared.</i> (K.) See also اَلِهَ, in two places. ―         -b2-  وَلِهَ اـِلَى اُمِّه <br>\
+                  <i>He</i> (an infant) <i>yearned for his mother.</i> (TA.) And وَلِهَ اـِلَيْهِ is app. syn. with اَلِهَ اـِلَيْهِ, q. v.    </entryFree> <br>\
+<b>وَلَهٌ</b>               1     <br>\
+                     وَلَهٌ<br>\
+                     ذ<br>\
+                  <i>Distraction</i> in love: see حُبٌّ.    </entryFree> <br>\
+<b>وَالِهٌ</b>               1     <br>\
+                     وَالِهٌ<br>\
+                     ذ<br>\
+                   [<i>Bereft of the beloved:</i>] <i>i. q.</i> <br>\
+                  ثَاكِلٌ. (TA, art. طرب.) And <i>Distracted.</i>   <br>\
+' } );

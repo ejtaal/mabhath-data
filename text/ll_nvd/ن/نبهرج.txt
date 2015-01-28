@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'نبهرجنَبَهْرَجٌ i. q. بَهْرَجٌ, q. v. (TA). [The place in which<br>\
+it is mentioned in the K shows that F regards the<br>\
+ن as a radical letter; and though it is said in<br>\
+the TA that its being so is doubtful, he is right<br>\
+accord. to those who hold that every letter of an<br>\
+arabicized word is to be regarded as a radical if<br>\
+it, or a letter for which it is substituted, is found<br>\
+in the original.]<br>\
+' } );

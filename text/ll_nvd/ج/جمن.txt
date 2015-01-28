@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'جمنجُمَانٌ Beads made of silver, like pearls; (S;)<br>\
+things in the form of pearls, of silver; (K;) one<br>\
+of which is called جُمَانَةٌ, (S, K,) pl. جُمَانَاتٌ:<br>\
+(Har p. 181:) or pearls (K, TA) themselves:<br>\
+(TA:) or the first is the proper meaning, and<br>\
+this is metaphorical: (EM p. 161:) [said to be]<br>\
+a Persian word, arabicized. (TA.) Also A kind<br>\
+of belt (سَفِيفَة) woven of leather, in which are<br>\
+beads of every colour, worn by a woman as a<br>\
+وِشَاح [q. v.]: or silvered beads. (K.)<br>\
+' } );

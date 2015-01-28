@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'صمقرFor words mentioned under this head in the<br>\
+K, see art. صقر.<br>\
+' } );

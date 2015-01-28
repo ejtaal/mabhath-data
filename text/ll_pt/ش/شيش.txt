@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>شيش</em>            1                  شيش<br>\
+<b>اشاشت النَّخْلَةُ</b>               1     <br>\
+                     اشاشت النَّخْلَةُ<br>\
+                     ذ<br>\
+                  <i>The palm-tree produced dates such as are termed</i> <br>\
+                  شِيش. (O, K.)    </entryFree> <br>\
+<b>شِيشٌ</b>               1     <br>\
+                     شِيشٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      شِيشَا=ءٌ <br>\
+                  <i>A sort of dates which do not organize and compact stones;</i> (Fr, O, K;) <i>or, if they do so, they do not become hard; and when they dry, they become such as are termed</i> <br>\
+                  حَشَف, <i>not sweet:</i> (O, K:) dial. vars. of شِيصٌ and شِيصَا=ءٌ: (S:) accord. to AHn, (TA,) of Persian origin. (O, TA.)    </entryFree> <br>\
+<b>شِيشَا=ءٌ</b>               1     <br>\
+                     شِيشَا=ءٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.   </entryFree> <br>\
+' } );

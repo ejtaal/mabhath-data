@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>ذول</em>            1                  ذول<br>\
+<b>ذَوَّلْتُ ذَالًا</b>               1     <br>\
+                     ذَوَّلْتُ ذَالًا<br>\
+                     ذ<br>\
+                  <i>I wrote a</i> <br>\
+                  ذ; (Az, Sgh, K;) or ذَالًا حَسَنَةٌ [<i>a beautiful</i> <br>\
+                  ذ]. (B, TA.) [See also 2 in art. ذيل.]    </entryFree> <br>\
+<b>ذَالٌ</b>               1     <br>\
+                     ذَالٌ<br>\
+                     ذ<br>\
+                  <i>A certain letter of the alphabet,</i> (Lth, ISd, K,) [ذ,] <i>pronounced with the voice,</i> [not with the breath only,] <i>and always a radical, not a substitute for another letter, nor augmentative;</i> (ISd, TA;) <i>its place of utterance is at the roots of the teeth, near the place of utterance of</i> <br>\
+                  ت [or ث]; and it may be masc. and fem.; (B, TA;) [but generally it is fem.; and therefore] the dim. is ↓ <br>\
+      ذُوَيْلَةٌ: (K:) the pl. is اَذْوَالٌ and ذَالَاتٌ. (TA.)       -A2-  Also The <i>comb</i> of a cock. (Kh, TA.)    </entryFree> <br>\
+<b>ذَوِيلٌ</b>               1     <br>\
+                     ذَوِيلٌ<br>\
+                     ذ<br>\
+                  , explained by IDrd as signifying What is <i>dry,</i> of plants &amp;amp;c., and so in the K, is said by ISd to be correctly دَوِيلٌ [q. v.]. (TA.)    </entryFree> <br>\
+<b>ذُوَيْلَةٌ</b>               1     <br>\
+                     ذُوَيْلَةٌ<br>\
+                     ذ<br>\
+                  : see ذَالٌ, above.   </entryFree> <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'فيهجفَيْهَجٌ A wine-measure: (S, O, K:) a Pers. word<br>\
+arabicized [and therefore all its letters are regarded<br>\
+as radical]. (S.) ―<br>\
+-b2-  And A strainer (O, K, TA)<br>\
+for wine. (TA.) ―<br>\
+-b3-  And (sometimes, S, O) a<br>\
+name for Wine: (S, K:) or clear wine: (O, TA:)<br>\
+or an epithet applied to wine [app. signifying<br>\
+clear]: (TA:) or wine such as is مختلق [app. a<br>\
+mistranscription for مُخَلَّق, a word now used as<br>\
+signifying aromatized]; like قِنْدِيدٌ [q. v.] and أُمٌّ<br>\
+زَنْبَقٍ. (IAmb, TA.)<br>\
+-------------------------------------------------<br>\
+' } );

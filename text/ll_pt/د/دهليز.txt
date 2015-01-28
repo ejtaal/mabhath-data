@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>دهليز</em>            1                  دهليز<br>\
+<b>دِهْلِيزٌ</b>               1     <br>\
+                     دِهْلِيزٌ<br>\
+                     دهليز<br>\
+                   [<i>An entrance-passage</i> of a house; <i>an entrance-hall; a vestibule;</i>] <i>what is between the</i> [<i>outer</i>] <i>door or gate and the house;</i> (S, K;) the <i>place of entrance to a house:</i> (Msb:) a Persian word, (S, Msb,) originally داليج, and داليز, and دالان, and, as some say, دَلِيجٌ, (Lth,) arabicized: (Lth, S, Msb:) [also, in modern Arabic, <i>an ante-</i> <br>\
+                  <i>chamber:</i> and the <i>anterior apartment of a large tent</i> or <i>pavilion:</i> accord. to the MA, <i>a large tent:</i> accord. to some copies of the K, <i>i. q.</i> <br>\
+                  جَيْيَةٌ: accord. to some, خَنِيَّةٌ, which reading is preferred by the author of the TK, who explains دهليز, from the “Burhán,” as meaning “absurd words:” accord. to some, حَنِيَّةٌ, which I think the right reading, meaning <i>a bowed,</i> or <i>curved, structure:</i> Golius seems to have found another reading in the K, namely, حَيَّةٌ:] pl. دَهَالِيزُ. (S, Msb, K.) ―         -b2-  [Hence,] اَبْنَا=ءُ الدَّهَالِيزِ (assumed tropical:)  <i>Foundlings,</i> (K, * TA,) <i>whose fathers are unknown.</i> (TA.) [They are so called because they are generally abandoned at the entrances of mosques or private houses, whence they are usually taken by persons who adopt them.]   </entryFree> <br>\
+' } );

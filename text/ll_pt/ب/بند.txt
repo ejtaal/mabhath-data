@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>بند</em>            1                  بند<br>\
+<b>بَنْدٌ</b>               1     <br>\
+                     بَنْدٌ<br>\
+                     بند<br>\
+                     ند<br>\
+                   is a Persian word arabicized, originally signifying <i>A knot,</i> or <i>tie.</i> (TA.) ―         -b2-  Hence, (TA,) (tropical:)  [<i>Any of</i>] <i>the stops that are put between the beads of the</i> <br>\
+                  سُبْحَة <br>\
+                  <i>to mark the place where the performer of</i> <br>\
+                  تَسْبِيح <br>\
+                  <i>pauses on the occasion of a thing&#39;s diverting his attention:</i> so in the Comm. on the Tohfeh by the seyyid &#39;Omar El-Basree: (MF, TA:) app. post-classical and recent. (TA.) ―         -b3-  <i>A dam; a thing that stops,</i> or <i>dams,</i> [<i>water,</i> or] <i>from water</i> (الَّذِى يُسْكِرُ مِنَ المَا=ءِ). (K. [In the CK, يُسْكَرُ is put in the place of يُسْكِرُ. In this sense, also, it is of Persian origin.]) ―         -b4-  <i>A stratagem, a trick,</i> or <i>an expedient, of which one makes use:</i> (T, K:) <i>a snare by which one snares men:</i> (TA in art. قمط:) pl. بُنُودٌ. (T.) You say, فُلَانٌ <br>\
+                  كَثِيرٌ البُنُودِ <br>\
+                  <i>Such a one abounds in,</i> or <i>practises much, stratagems, tricks,</i> or <i>expedients,</i> (Lth, T, A,) <i>and mischievous,</i> or <i>calamitous, acts.</i> (A.) In this sense, also, it is an arabicized Persian word. (TA.) ―         -b5-  <i>An enigma.</i> (TA.) ―         -b6-  <i>A pawn that is tied</i> (مُنْعَقِدٌ, in the CK مُتَعَقِّدٌ,) <i>by a queen in the game of chess:</i> as though it confined and tied itself. (TA.) ―         -b7-  Also a Persian word, arabicized, (S, A,) signifying <i>A large banner, standard,</i> or <i>ensign:</i> (En-Nadr, S, A, K:) or <i>a banner,</i> or <i>standard,</i> or <i>an ensign, of a general,</i> or <i>leader,</i> (T, M,) <i>of the Greeks,</i> (M,) <i>under which are ten thousand men,</i> (T, M,) or <i>less,</i> or <i>more:</i> (T:) or <i>a banner,</i> or <i>standard,</i> or <i>an ensign, of horsemen:</i> (El-Hujeymee, T:) [in barbarous Latin <i>bandum;</i> and in Spanish, <i>bandera;</i> as mentioned by Golius; and in modern Arabic بَنْدِيرٌ:] pl. as above: (S, M:) it has no pl. of pauc. (M.) ―         -b8-  [The pl.] بُنُودٌ also signifies, in Greece, [<i>Provinces,</i> or <i>districts;</i>] <i>what are called</i> <br>\
+                  اَجْنَادٌ <br>\
+                  <i>in Syria, and</i> <br>\
+                  اَعْرَاضٌ <br>\
+                  <i>in El-Hijáz, and</i> <br>\
+                  كُوَرٌ <br>\
+                  <i>in El-&#39;Irak, and</i> <br>\
+                  مَخَالِيفٌ <br>\
+                  <i>in El-Yemen.</i> (Yákoot.)   </entryFree> <br>\
+' } );

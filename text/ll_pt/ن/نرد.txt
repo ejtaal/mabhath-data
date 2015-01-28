@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نرد</em>            1                  نرد<br>\
+<b>نَرْدٌ</b>               1     <br>\
+                     نَرْدٌ<br>\
+                     ذ<br>\
+                   [The <i>game of tricktrack, backgammon,</i> or <i>tables:</i> and, app., <i>a pair of tables and other apparatus with which that game is played:</i>] <i>a certain thing with which one plays;</i> (M, L;) <i>well known:</i> (M, L, K:) a Persian word, (M, L,) arabicized: (M, L:) also called نَرْدَشِيرٌ, (M, L, K,) because invented (as some say, TA) by Ardasheer the son of Bábak, (K,) a Persian king. (TA.) It is said in a trad., that he who plays at this game is as though he plunged his hand into the flesh and blood of the pig. (L.)   </entryFree> <br>\
+' } );

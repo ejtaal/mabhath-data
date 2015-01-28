@@ -1,0 +1,81 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ارم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ارم<br>\
+&lt;entryFree id=&quot;n626&quot; key=&quot;اَرَمَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرَمَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Har p. 99,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرِمَ<br>\
+                  &lt;/form&gt;, inf. n. اَرْمٌ, (S,) &lt;i&gt;He took away,&lt;/i&gt; or &lt;i&gt;removed, its&lt;/i&gt; <br>\
+                  اَرُومَةٌ, or اَصْل: (Har ubi suprà:) [&lt;i&gt;he extirpated it; eradicated it:&lt;/i&gt;] &lt;i&gt;he ate it.&lt;/i&gt; (S.) You say, اَرَمَتِ السَّايِمَةُ المَرْعَي, aor. as above, &lt;i&gt;The pasturing beasts consumed,&lt;/i&gt; or &lt;i&gt;made an end of, the pasturage, not leaving of it anything.&lt;/i&gt; (AHn, M.) And اَرَمَ مَا عَلَى <br>\
+                  الخِوَانِ, (T,) or المَايِدَةِ, (Th, M, K,) aor. as above, (M,) &lt;i&gt;He ate what was on the table,&lt;/i&gt; (Th, T, M, K,) &lt;i&gt;not leaving anything.&lt;/i&gt; (K.) And اَرَمَتْهُمُ السَّنَةُ, (AHeyth, T, M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرُمَ<br>\
+                  &lt;/form&gt;, (so in the T, as on the authority of AHeyth,) inf. n. as above, (M,) &lt;i&gt;The year of dearth,&lt;/i&gt; or &lt;i&gt;drought,&lt;/i&gt; or &lt;i&gt;sterility, extirpated them;&lt;/i&gt; (T;) or &lt;i&gt;devoured them;&lt;/i&gt; (AHeyth, T;) or &lt;i&gt;cut them off.&lt;/i&gt; (M, K.) And اَرَمَتِ السَّنَةُ <br>\
+                  بِاَمْوَالِنَا <br>\
+                  &lt;i&gt;The year of dearth,&lt;/i&gt; or &lt;i&gt;drought,&lt;/i&gt; or &lt;i&gt;sterility, devoured everything&lt;/i&gt; [&lt;i&gt;of our property&lt;/i&gt; or &lt;i&gt;cattle&lt;/i&gt;]. (S.) And اَرَمَتِ الاَرْضُ المَيِّتَ <br>\
+                  &lt;i&gt;The earth consumed the dead body.&lt;/i&gt; (T.)       -A2-  اَرِمَ المَالُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرَمَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;The property,&lt;/i&gt; or &lt;i&gt;cattle, perished,&lt;/i&gt; or &lt;i&gt;came to nought.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n627&quot; key=&quot;اـِرْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرْمٌ<br>\
+                     ارم<br>\
+                     اـرم<br>\
+                     ارم<br>\
+                     رام<br>\
+                     رم<br>\
+                     رمى<br>\
+                     ورم<br>\
+                  &lt;/form&gt;: see اـِرَمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n628&quot; key=&quot;اَرِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [part. n. of اَرِمَ]. You say اَرْضُ اَرِمَةٌ, meaning &lt;i&gt;Land upon which rain has not fallen for a long time:&lt;/i&gt; (T:) or &lt;i&gt;land which does not give growth to anything.&lt;/i&gt; (TA.) [Not to be confounded with ا=رِمَهٌ, q. v.]       -A2-  See also what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n629&quot; key=&quot;اـِرَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرَمٌ<br>\
+                     ارم<br>\
+                     اـرم<br>\
+                     ارم<br>\
+                     رام<br>\
+                     رم<br>\
+                     رمى<br>\
+                     ورم<br>\
+                  &lt;/form&gt; (T, S, M, K) and ↓ <br>\
+      اَرِمٌ, (M, K,) like كَتِفٌ, (K,) or ↓ <br>\
+      اـِرْمٌ, (so in a copy of the M,) and ↓ <br>\
+      اـِرَمِىٌّ and ↓ <br>\
+      اَرَمِىٌّ, (M, K,) from Lh, (TA,) or ↓ <br>\
+      اَرْمِىٌّ, from Lh, (so in a copy of the M,) and ↓ <br>\
+      اـِرْمِىٌّ, from Lh, (TA,) and يَرَمِىٌّ, (M, K,) from Lh, (TA,) and اَيْرَمِىٌّ, (T, K,) &lt;i&gt;A sign,&lt;/i&gt; or &lt;i&gt;mark, set up to show the way;&lt;/i&gt; (M, K;) &lt;i&gt;stones set up as a sign,&lt;/i&gt; or &lt;i&gt;mark, to show the way in the desert:&lt;/i&gt; (S:) or particularly &lt;i&gt;one belonging to&lt;/i&gt; [&lt;i&gt;the tribe of&lt;/i&gt;]&#39; &lt;i&gt;Ád:&lt;/i&gt; (M, K:) accord. to ISh, the اـِرَم is [&lt;i&gt;a thing&lt;/i&gt;] &lt;i&gt;like a man in a standing posture upon the head of a hill, whereby one is directed to the right way, and whereby the land is marked, composed of stones set one upon another, and is only the work of the Muslims, and such is made by people in the present day, upon the road:&lt;/i&gt; (T:) or &lt;i&gt;such as was made by the people in the time of ignorance, who were accustomed, when they found a thing in their way and could not take it with them, to leave upon it some stones, whereby to know it, until, when they returned, they took it:&lt;/i&gt; (TA:) the pl. [of pauc.] is ا=رَامٌ and [of mult.] اُرُومٌ (ISh, T, S, M, K:) or اُرُومٌ signifies the &lt;i&gt;graves,&lt;/i&gt; or &lt;i&gt;sepulchres, of&lt;/i&gt; [&lt;i&gt;the tribe of&lt;/i&gt;]&#39; &lt;i&gt;Ád.&lt;/i&gt; (M, K.)       -A2-  [اـِرَمٌ in the phrase اـِرَمُ ذَاتُ العِمَادِ (see art. عمد) is a proper name; but whether of a place, or a tribe, or an individual, is disputed: it is commonly believed to be the name of &lt;i&gt;The terrestrial paradise of Sheddád the son of &#39;Ád:&lt;/i&gt; see Bd lxxxix. 6.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n630&quot; key=&quot;اَرْضٌ اَرْمَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْضٌ اَرْمَا=ءُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Land in which there is not a root,&lt;/i&gt; or &lt;i&gt;stock, of a tree; as though it were&lt;/i&gt; ↓ <br>\
+      مَاْرُومَة [or &lt;i&gt;extirpated&lt;/i&gt;]: (O:) or &lt;i&gt;land in which neither root nor branch is left;&lt;/i&gt; as also ↓ <br>\
+      مَاْرُومَةٌ. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n631&quot; key=&quot;اَرْمِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْمِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and اـِرْمِىٌّ and اَرَمِىٌّ and اـِرَمِىٌّ: see اـِرَمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n632&quot; key=&quot;اَرُومٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرُومٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n633&quot; key=&quot;اَرُومَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرُومَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, M, K) and اُرُومَةٌ, (M, K,) the latter of the dial. of Temeem, (TA,) or this is not allowable, (T,) or ↓ <br>\
+      اَرُومٌ, (S,) or this is the pl., (M, K,) [or a coll. gen. n.,] The &lt;i&gt;root,&lt;/i&gt; or &lt;i&gt;base,&lt;/i&gt; or &lt;i&gt;lowest part,&lt;/i&gt; syn. اَصْل, (T, S, M, K,) of a tree (T, S) of any kind; (T;) and of a horn: (S:) or, of a tree, [or plant, the &lt;i&gt;root-stock,&lt;/i&gt; or &lt;i&gt;rhizoma,&lt;/i&gt; or] the &lt;i&gt;part from which branch off the&lt;/i&gt; <br>\
+                  عُرُوق [or &lt;i&gt;roots properly so called&lt;/i&gt;]. (K in art. عرق. [See an instance of its use voce جَنْبَةٌ; another, voce جِنْثٌ; and another, voce جَزَرٌ.]) ―         -b2-  And [hence,] (assumed tropical:)  The &lt;i&gt;origin,&lt;/i&gt; or &lt;i&gt;stock,&lt;/i&gt; of a man: (TA:) (tropical:)  The &lt;i&gt;origin&lt;/i&gt; of حَسَب [or grounds of pretension to respect or honour, &amp;amp;c.]. (Har p. 99.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n634&quot; key=&quot;سَنَةٌ ا=رِمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَنَةٌ ا=رِمَةٌ<br>\
+                     سنة ا=رمه<br>\
+                     سنة ا=رمة<br>\
+                  &lt;/form&gt; (S, K, TA [in the CK, erroneously, اَرِمَةٌ]) &lt;i&gt;An extirpating year of dearth&lt;/i&gt; or &lt;i&gt;drought&lt;/i&gt; or &lt;i&gt;sterility:&lt;/i&gt; (S:) or &lt;i&gt;a year of dearth&lt;/i&gt; &amp;amp;c. &lt;i&gt;cutting off people.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n635&quot; key=&quot;اَرْضٌ مَاْرُومَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْضٌ مَاْرُومَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرْمَا=ءُ, in two places.   &lt;/entryFree&gt; <br>\
+' } );

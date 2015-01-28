@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'نقفمنْقَافٌ<br>\
+A species of<br>\
+وَدَع [or cowry]; (S, K *;)<br>\
+pl. مَنَاقِفُ; (TA in art. ودع: and thus in the<br>\
+M in art. دمل: in the T in that art. مَنَاقِيف:<br>\
+see دَمَالٌ.) See بُوقٌ.<br>\
+' } );

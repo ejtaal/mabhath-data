@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'وضف4<br>\
+أَوْضَفَ النَّاقَةَ<br>\
+He made the she-camel to go<br>\
+the pace termed<br>\
+خَبَب; like أَوْفَضَهَا. (Khaleefeh<br>\
+El-Hoseynee, in TA, art. وفض.)<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>مر</em>            1                  مر<br>\
+<b>مَرٌّ</b>               1     <br>\
+                     مَرٌّ<br>\
+                     ذ<br>\
+                  <i>A spade;</i> [so in the present day;] syn. مِسْحَاةٌ; (M, K;) <i>with which one works in land of seed-produce:</i> (M and K, voce بَالٌ:) or the <i>handle thereof:</i> (M, K;) and in like manner, <i>of the</i> <br>\
+                  مِحْرَاث [app. here meaning <i>fire-shovel</i>]: (M:) [see سِخِّينٌ] the <i>thing with which one works in earth,</i> or <i>mud.</i> (Sgh, TA.)    </entryFree> <br>\
+<b>مُرَيْرَا=ءُ</b>               1     <br>\
+                     مُرَيْرَا=ءُ<br>\
+                     ذ<br>\
+                  <i>An anæsthetic herb:</i> see سَكَرَةٌ.    <br>\
+' } );

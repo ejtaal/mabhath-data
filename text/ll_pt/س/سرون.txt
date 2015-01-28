@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سرون</em>            1                  سرون<br>\
+<b>سَرَاوين</b>               1     <br>\
+                     سَرَاوين<br>\
+                     ذ<br>\
+                  : see سَرَاوِيل, in art. سرول.   </entryFree> <br>\
+' } );

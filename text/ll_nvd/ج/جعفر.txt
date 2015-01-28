@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'جعفرجَعْفَرٌ A small river; a rivulet, streamlet, or<br>\
+brook; (IAar, S, K;) or one that is larger than<br>\
+a جَدْوَلٌ: (K:) or, as in the Nawádir, a small<br>\
+river, larger than a جدول: (TA:) or a river,<br>\
+IDrd, IJ, TA,) absolutely: (TA:) if small, it<br>\
+is a فَلَج: (IDrd, TA:) or (TA, but in the K<br>\
+“ and ”) a large, wide river: (Ibn-El-Ajdábee,<br>\
+K:) [if so,] bearing two contr. significations:<br>\
+(K:) or (in some copies of the K “ and ”) a full<br>\
+river. (K.) ―<br>\
+-b2-  Also (from the last of these significations, TA) (tropical:)  A she-camel abounding with<br>\
+milk. (K, TA.)<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>كتب</em>            1                  كتب<br>\
+<b>كِتَابٌ</b>               1     <br>\
+                     كِتَابٌ<br>\
+                     ذ<br>\
+                   (same as عَقْدٌ) <i>The ceremony</i> (not certificate) <i>of a marriage-contract.</i> <br>\
+                  كَتَبُواكِتَابَهُ عَلَى <br>\
+                  فُلَانَةٍ <br>\
+                  <i>They performed the ceremony of the contract of his marriage to such a woman</i> (<i>same as</i> <br>\
+                  عقدوا عَقْدَهُ). ―         -b2-  اَهْلُ الكِتَابِ: see اَهْلٌ.   </entryFree> <br>\
+' } );

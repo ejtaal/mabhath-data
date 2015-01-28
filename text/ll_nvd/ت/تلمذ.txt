@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'تلمذQ. 1<br>\
+تَلْمَذَ He was, or became, a تِلْمِيذ [or<br>\
+disciple, &amp;c.], لِفُلَانٍ to such a one. (TA, passim.)<br>\
+تِلْمِيذٌ A disciple; a pupil; a learner: or a<br>\
+special servant of a teacher: so says &#39;Abd-El-<br>\
+Kádir El-Baghdádee, who composed a treatise<br>\
+solely on this word: (MF, TA:) or simply a<br>\
+servant; a follower; a dependant: pl. تَلَامِيذُ<br>\
+(L, TA) [and تَلَامِذَةٌ].<br>\
+' } );

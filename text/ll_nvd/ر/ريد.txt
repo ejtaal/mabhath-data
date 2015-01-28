@@ -1,0 +1,28 @@
+load_data( { book: 'll_nvd', text: 'ريد2<br>\
+تَرْيِيدٌ, in agriculture, The raising, with the<br>\
+[implement called] مِجْنَب, the ridges that form<br>\
+the borders of streamlets for irrigation. (M.)<br>\
+رَيْدٌ A ledge of a mountain, (T, S, M, * A, K,)<br>\
+in [any of] the sides thereof, (A,) resembling a<br>\
+wall; (M;) i. q. حَيْدٌ: (S, M, A:) pl. [of pauc.]<br>\
+أَرْيَادٌ (M) and (of mult., M) رُيُودٌ. (T, S, M, A,<br>\
+K.) تَهْوِيدٌ عَلَى رُيُودٍ, (Meyd, TA,) meaning A<br>\
+resting, or sleeping, upon ledges of mountains,<br>\
+(Meyd,) is a prov., applied to him who enters<br>\
+upon an affair [dangerous or] insalutary in its<br>\
+result. (Meyd, TA.)<br>\
+رِيدٌ: see art. رود.<br>\
+-A2-  Also An equal in age;<br>\
+syn. تِرْبٌ; for رِئْدٌ: so in a verse of Kutheiyir<br>\
+cited voce أُصْدَةٌ. (TA.)<br>\
+رِيحٌ رَادَةٌ: see what next follows: and see رَادٌ<br>\
+in art. رود.<br>\
+رِيحٌ رَيْدَةٌ A wind blowing gently; as also<br>\
+↓ رَيْدَانَةٌ (T, S, M, A, K) and ↓ رَادَةٌ: (S, M, A,<br>\
+K:) or the first, as some say, that blows much.<br>\
+(M.) [See also رَادٌ in art. رود.]<br>\
+رِيدَةٌ: see رِيدٌ, in art. رود.<br>\
+رِيحٌ رَيْدَانَةٌ: see رَيْدَةٌ.<br>\
+الرِّيَادُ: see art. رود.<br>\
+أَرْيَدُ: see art. رود.<br>\
+' } );

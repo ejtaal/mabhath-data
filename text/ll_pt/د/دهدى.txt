@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>دهدى</em>            1                  دهدى<br>\
+<b>دَهْدَى</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     دَهْدَى<br>\
+                     دهدى<br>\
+                     دهدي<br>\
+                  , inf. n. دَهْدَاةٌ: see R. Q. 1 in art. ده.    </entryFree> <br>\
+<b>تَدَهْدَى</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَدَهْدَى<br>\
+                     تدهدى<br>\
+                     تدهدي<br>\
+                  : see R. Q. 2 in art. ده.    </entryFree> <br>\
+<b>دَهْدَا=ءٌ</b>               1     <br>\
+                     دَهْدَا=ءٌ<br>\
+                     دهدا=ء<br>\
+                  : see دَهْدَاهٌ, in art. ده.    </entryFree> <br>\
+<b>دُهْدُوَّةٌ</b>               1     <br>\
+                     دُهْدُوَّةٌ<br>\
+                     دهدوه<br>\
+                     دهدوة<br>\
+                   [app. originally دُهْدُوْيَةٌ, like as قُوَّةٌ is held by some to be originally قُوْيَةٌ,] and دُهْدِيَّةٌ [likewise originally دُهْدُوْيَةٌ], and the latter also without teshdeed [for alleviation of the utterance]: see دُهْدُوهٌ, in art. ده.   </entryFree> <br>\
+' } );

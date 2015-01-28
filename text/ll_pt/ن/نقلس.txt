@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>نقلس</em>            1                  نقلس<br>\
+<b>اَنْقَلِيسٌ</b>               1     <br>\
+                     اَنْقَلِيسٌ<br>\
+                     ذ<br>\
+                   [<i>An eel</i>] <i>i. q.</i> [Pers.] مَارْ مَاهِى [<i>and</i> <br>\
+                  اَنْكَلِيسْ]. (En-Nadr, in TA, voce جِرِّيثٌ.)   </entryFree> <br>\
+' } );

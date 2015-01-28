@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مصلمَصْلٌ<br>\
+[A kind of<br>\
+اقط]: see كَثٌءٌ and عَبِيثٌ.<br>\
+' } );

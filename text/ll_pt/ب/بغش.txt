@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>بغش</em>            1                  بغش<br>\
+<b>بَغَشَتِ السَّمَا=ءُ</b>               1     <br>\
+                     بَغَشَتِ السَّمَا=ءُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     بَغَشَ<br>\
+                  , (S, K,) inf. n. بَغْشٌ, (S,) <i>The sky rained a rain such as is termed</i> <br>\
+                  بَغْشَةٌ, q. v. (S, K.) ―         -b2-  بُغِشَتُ الاَرْضُ <br>\
+                  <i>The land was watered by a rain such as is termed</i> <br>\
+                  بَغْشَةٌ, (S,) or بَغْشٌ. (TA.)    </entryFree> <br>\
+<b>بَغْشٌ</b>               1     <br>\
+                     بَغْشٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>بَغْشَةٌ</b>               1     <br>\
+                     بَغْشَةٌ<br>\
+                     ذ<br>\
+                  <i>A weak shower of rain;</i> (S, K:) <i>above what is called</i> <br>\
+                  طَشَّة: (S:) or <i>weak rain, small in its drops;</i> as also ↓ <br>\
+      بَغْشٌ [originally an inf. n.]: or both signify <i>a cloud that pours forth its rain in one shower:</i> As says that the lightest and weakest of rain is that called طَلّ; then, the رَذَاذ; then, the بَغْش: the dim. of the last is بُغَيْشٌ. (TA.)    </entryFree> <br>\
+<b>مَطَرٌ بَاغِشٌ</b>               1     <br>\
+                     مَطَرٌ بَاغِشٌ<br>\
+                     ذ<br>\
+                  <i>Weak rain.</i> (S, K.)    </entryFree> <br>\
+<b>اَرْضٌ مَبْغُوشَةٌ</b>               1     <br>\
+                     اَرْضٌ مَبْغُوشَةٌ<br>\
+                     ذ<br>\
+                  <i>Land watered by a rain such as is termed</i> <br>\
+                  بَغْشَةٌ, (S,) or بَغْشٌ. (TA.)   </entryFree> <br>\
+' } );

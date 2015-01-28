@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نسغمِنْسَغَةٌ<br>\
+An instrument for pricking bread: see<br>\
+مِرْقمٌ.<br>\
+' } );

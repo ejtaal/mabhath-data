@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ندس</em>            1                  ندس<br>\
+<b>تَنَدَّسَ عَنِ الاَحْبَارِ</b>               1     <br>\
+                     تَنَدَّسَ عَنِ الاَحْبَارِ<br>\
+                     ذ<br>\
+                  <i>He sought to learn the news privily:</i> see تَحَدَّسَ and تَحَسَّسَ.    </entryFree> <br>\
+<b>رِمَاحٌ نَوَادِسُ</b>               1     <br>\
+                     رِمَاحٌ نَوَادِسُ<br>\
+                     ذ<br>\
+                  <i>Piercing spurs:</i> see a verse of El-Kumeyt cited voce غَارَةٌ, in art. غور.   </entryFree> <br>\
+' } );

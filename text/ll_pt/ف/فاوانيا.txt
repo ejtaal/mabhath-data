@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>فاوانيا</em>            1                  فاوانيا<br>\
+<b>الفَاوَانِيَا</b>               1     <br>\
+                     الفَاوَانِيَا<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  عُودُ الصَّلِيبِ, [both of which appel-lations are now applied to <i>The common peony, pæonia officinalis,</i> and this is what is meant in what here follows,] i. e. <i>the</i> <br>\
+                  كهينا, [app. for كَهْيَانَا, which is a Pers. word, meaning the plant above-mentioned,] <i>a plant less than a cubit</i> [<i>in height</i>], <i>having a purple flower, not found except in the day of the sun&#39;s taking its abode in Libra;</i> (TA;) [its root has, from ancient times, and in various countries, been held in high repute for medicinal properties; and various fancied virtues (some of which are supposed to be partly dependant upon particular aspects of the moon and certain stars, and several of which are mentioned  in the TA,) are ascribed to it:] <i>it is hot, attenuant, resolutive, diuretic, has the property of stopping hæmorrhage, and is beneficial as a remedy against the</i> <br>\
+                  نِقْرِس [i. e. <i>gout,</i> or particularly <i>podagra,</i>] <i>and epilepsy</i> (الصَّرْع), <i>even by its being suspended</i> [<i>on the patient</i>]. (K.) [See also يَبْرُوحٌ, in art. برح.]   </entryFree> <br>\
+' } );

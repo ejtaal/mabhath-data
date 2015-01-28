@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'مشن1<br>\
+مَشَنَ الأَدِيمَ<br>\
+He pared, or removed the<br>\
+superficial part of, the hide. (TA in art. ادم.)<br>\
+6<br>\
+تَمَاشَنَ<br>\
+He wiped his hands together: see<br>\
+ظَرِبَانٌ.<br>\
+مُوشَانٌ<br>\
+: see جُرَذٌ.<br>\
+تِمْشَآءٌ<br>\
+: see تِبْيَانٌ, voce بَيَّنَ.<br>\
+' } );

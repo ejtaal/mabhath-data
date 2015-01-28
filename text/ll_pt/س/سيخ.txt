@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>سيخ</em>            1                  سيخ<br>\
+<b>سَاخَ</b>               1     <br>\
+                     سَاخَ<br>\
+                     ذ<br>\
+                  , aor. يَسِيخُ, inf. n. سَيْخٌ and سَيَخَانٌ, <i>i. q.</i> <br>\
+                  رَسَخَ and ثَاخَ [both app. as signifying <i>It sank into the ground:</i> or by the former may here be meant <i>it was,</i> or <i>became, firm, steady, steadfast, stable, fixed, fast, settled,</i> or <i>established</i>]. (K.) See also 1 in art. سوخ, in two places.    </entryFree> <br>\
+<b>سِيَاخٌ</b>               1     <br>\
+                     سِيَاخٌ<br>\
+                     ذ<br>\
+                  <i>A building of clay,</i> (JK, TK,) <i>of any kind:</i> (JK:) pl. سُيُوخٌ. (JK, TK.) In the copies of the K, بُنَاةُ الطِّينِ is erroneously put for بِنَا=ءُ الطِّينِ. (TK.)   </entryFree> <br>\
+' } );

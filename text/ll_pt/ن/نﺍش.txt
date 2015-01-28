@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ناش&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ناش<br>\
+&lt;entryFree id=&quot;n39127&quot; key=&quot;نَاَشَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَاَشَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاََ<br>\
+                  &lt;/form&gt;, (S,) inf. n. نَاْشٌ, (S, A, K,) &lt;i&gt;He postponed, delayed,&lt;/i&gt; or &lt;i&gt;retarded, it,&lt;/i&gt; syn. اَخَّرَهُ; (S, M, A, * K, *) namely, an affair. (S, M.) ―         -b2-  &lt;i&gt;He made it&lt;/i&gt; (a thing) &lt;i&gt;to be distant,&lt;/i&gt; or &lt;i&gt;remote; put it at a distance; put it,&lt;/i&gt; or &lt;i&gt;sent it, away,&lt;/i&gt; or &lt;i&gt;far away.&lt;/i&gt; (TA.)       -A2-  نَاْشٌ also signifies The &lt;i&gt;taking,&lt;/i&gt; or &lt;i&gt;reaching,&lt;/i&gt; [a thing,] &lt;i&gt;absolutely,&lt;/i&gt; or &lt;i&gt;with the hand,&lt;/i&gt; or &lt;i&gt;with the extended hand;&lt;/i&gt; (A, K;) and so ↓ <br>\
+      تَنَاوُشٌ, (Msb,) and تَنَاوُشٌ, (Msb, K,) and نَوْشٌ: (IDrd, TA:) or ↓ <br>\
+      تَنَاوُشٌ, with ء, signifies the &lt;i&gt;taking from a distant place;&lt;/i&gt; and without ء, the taking from a near place. (Th, TA.) You say, نَاَشْتُهُ, inf. n. نَاْشٌ, &lt;i&gt;I took it,&lt;/i&gt; or &lt;i&gt;reached it, absolutely,&lt;/i&gt; or &lt;i&gt;with my hand,&lt;/i&gt; or &lt;i&gt;with my extended hand.&lt;/i&gt; (TA.) And it is said in the Kur, [xxxiv. 51,] ↓ <br>\
+      وَاَنَّى لَهُمُ اْلتَّنَاوُشُ, and التَّنَاوُشُ, with and without ء, accord. to different readers: (TA:) with ء, the word is from النَّوْشُ, the و being changed to ء because of the dammeh; [so that the meaning is, &lt;i&gt;But how shall the attaining&lt;/i&gt; of belief &lt;i&gt;be&lt;/i&gt; possible &lt;i&gt;to them?&lt;/i&gt;] (Zj, Bd; *) or from نَاَشْتُ as signifying تَاَخَرْتُ [see 6 below]; so that the meaning is &lt;i&gt;the reaching&lt;/i&gt; [or &lt;i&gt;attaining&lt;/i&gt;] &lt;i&gt;from afar:&lt;/i&gt; (Bd:) or from نَيِيشٌ, meaning, “ motion in a state of slowness or tardiness: ” (Zj:) or it is from نَاَشْتُ الشَّىْءَ, (Bd,) inf. n. نَاْشٌ, (IB, TA,) signifying &lt;i&gt;I sought,&lt;/i&gt; or &lt;i&gt;sought for&lt;/i&gt; or &lt;i&gt;after, the thing:&lt;/i&gt; (IB, Bd:) [so that the above phrase in the Kur. may be rendered &lt;i&gt;But how shall the seeking&lt;/i&gt; of belief &lt;i&gt;be&lt;/i&gt; possible &lt;i&gt;to them?&lt;/i&gt;] ―         -b2-  It also signifies, (namely نَاْشٌ,) The &lt;i&gt;taking&lt;/i&gt; [a thing]: and &lt;i&gt;seizing violently:&lt;/i&gt; (A, K:) or &lt;i&gt;taking in a violent seizure:&lt;/i&gt; you say, نَاَشَهُ, inf. n. نَاْشٌ, &lt;i&gt;he took him,&lt;/i&gt; or &lt;i&gt;it, in a violent seizure.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39128&quot; key=&quot;تَنَا=ءَشَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَنَا=ءَشَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, became,&lt;/i&gt; or &lt;i&gt;remained, behind; became delayed,&lt;/i&gt; or &lt;i&gt;retarded; it became postponed;&lt;/i&gt; syn. تَاَخَّرَ; (S;) and so ↓ <br>\
+      نَاَشَ, said of a man; (Bd, xxxiv. 51;) and ↓ <br>\
+      انتاش, (S, TA,) said of an affair. (S.) ―         -b2-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, became distant,&lt;/i&gt; or &lt;i&gt;remote;&lt;/i&gt; or &lt;i&gt;he went, removed, retired,&lt;/i&gt; or &lt;i&gt;withdrew himself, to a distance,&lt;/i&gt; or &lt;i&gt;far away;&lt;/i&gt; (S, TA;) as also ↓ <br>\
+      انتاش. (TA.)       -A2-  See also 1, in three places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِنْتَاََ<br>\
+                  &lt;/form&gt; see 6, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39129&quot; key=&quot;نَوُوشٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَوُوشٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Strong; overcoming;&lt;/i&gt; or &lt;i&gt;prevailing;&lt;/i&gt; (K;) &lt;i&gt;possessing might&lt;/i&gt; or &lt;i&gt;strength, courage, valour,&lt;/i&gt; or &lt;i&gt;prowess.&lt;/i&gt; (TA.) You say also, قَدَرٌ نَوُوشٌ <br>\
+                  &lt;i&gt;An overcoming decree;&lt;/i&gt; as also نَوَّاشٌ. (TA.) See also art. نوش.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39130&quot; key=&quot;فَعَلَهُ نَيِيشًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَعَلَهُ نَيِيشًا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He did it lastly,&lt;/i&gt; or &lt;i&gt;latterly,&lt;/i&gt; or &lt;i&gt;last of all.&lt;/i&gt; (S, A, K.) And جَا=ءَ نَيِيشًا <br>\
+                  &lt;i&gt;He came lastly,&lt;/i&gt; or &lt;i&gt;latterly,&lt;/i&gt; or &lt;i&gt;last of all:&lt;/i&gt; (A:) or &lt;i&gt;slowly, tardily,&lt;/i&gt; or &lt;i&gt;late.&lt;/i&gt; (TA.) And لَحِقَنَا نَيِيشًا مِنَ النَّهَارِ <br>\
+                  &lt;i&gt;He overtook us after the day had declined;&lt;/i&gt; (Ibn- &#39;Abbád, K;) i. e., he held back from us, and then followed us in haste, fearing escape. (TA.) ―         -b2-  نَيِيشٌ also signifies &lt;i&gt;Motion in a state of slowness&lt;/i&gt; or &lt;i&gt;tardiness.&lt;/i&gt; (Zj.)       -A2-  Th also explains نَيِيشٌ as signifying &lt;i&gt;Distant&lt;/i&gt; or &lt;i&gt;remote.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+            &lt;div2 n=&quot;nAT &amp;amp;c.&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;&gt;<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ناط &amp;amp;c.&lt;/head&gt;    <br>\
+               &lt;entryFree&gt;See Supplement   &lt;/entryFree&gt; <br>\
+' } );

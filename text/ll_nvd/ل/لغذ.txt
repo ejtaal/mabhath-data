@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'لغذ3<br>\
+لَاغَذَهُ i. q. ضَايَقَهُ. (TA, voce ذَاقَنَهُ.)<br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كهبكُهْبَةٌ<br>\
+, accord. to Ibn El-Aarábee, Yellowness<br>\
+inclining to redness. (TA. voce حُسْبَة.)<br>\
+' } );

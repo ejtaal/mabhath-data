@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'وهت1<br>\
+وَهَتَهُ, aor. يَهِتُ, inf. n. وَهْتٌ, He trod, or<br>\
+stamped upon it vehemently. (L.) ―<br>\
+-b2-  He pressed,<br>\
+compressed, or pressed against, him; or it; syn.<br>\
+ضَغَطَهُ. (L, K.)<br>\
+4<br>\
+اوهت It (flesh-meat) became stinking: (S,<br>\
+K:) dial. form of ايهت. (TA.)<br>\
+وَهْتَةٌ A depressed, or low, piece of ground:<br>\
+(K:) pl. [or rather coll. gen. n. of which it is<br>\
+the n. un.] وَهْتٌ. (TA.)<br>\
+' } );

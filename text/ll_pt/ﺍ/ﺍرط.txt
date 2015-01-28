@@ -1,0 +1,53 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ارط&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ارط<br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرڤطَ<br>\
+                  &lt;/form&gt; [The unaugmented verb from this root seems to be unknown, if it were ever in use, for it is not mentioned, though the pass. part. n., مَاْرُوطٌ, is mentioned as having three significations, which see below.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَرَّطَ<br>\
+                  &lt;/form&gt; see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n592&quot; key=&quot;ا=رَطَتِ الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=رَطَتِ الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (AHeyth, K,) of the measure اَفْعَلَت, [originally] with two alifs, (TA,) [aor. يُوْرِطُ, inf. n. اـِيرَاطٌ,] &lt;i&gt;The land produced the kind of trees called&lt;/i&gt; <br>\
+                  اَرْطًى [or اَرْطَى]; (AHeyth, K;) as also اَرْطَت, inf. n. اـِرْطَا=ءٌ; or this is a corruption, attributable to J: so says the author of the K, following AHeyth: but it is no corruption, for it is mentioned by the authors on verbs and by ISd and others; (MF, TA;) for instance, by AHn, in his book on plants, and by IF, in the Mj: (TA:) [and J mentions it in its proper place, in art. رطى, as well as in the present art.:] ↓ <br>\
+      اَرَّطَت, with the ر musheddedeh, has also been found in the handwriting of certain of the men of letters; but this is a corruption. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n593&quot; key=&quot;اَرِطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِطٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A colour like that of the&lt;/i&gt; <br>\
+                  اَرْطًي [or اَرْطَي]. (Sgh, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n594&quot; key=&quot;اَرْطًي&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْطًي<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Mbr, S, K,) of the measure فَعْلًى, because you say اَدِيمٌ مَاْرُوطٌ, [explained below,] (Mbr, S,) the alif (Mbr, S, K) ending it (Mbr) [written ى] being a letter of quasi-coordination, (S, K,) not to denote the fem. gender, (Mbr, S,) its n. un. being اَرْطَاةٌ, (Mbr, S, K,) wherefore it is with tenween when indeterminate, but not when determinate: (S, K:) or it is of the measure اَفْعَلٌ, (Mbr, * S,) the last letter being radical, (Mbr,) because you say اَدِيمٌ مَرْطِيُّ, (Mbr, S,) and in this case it should be mentioned among words with an infirm letter [for the last radical], and is with tenween both when determinate and when indeterminate; (S;) [but this is a mistake, for when it is determinate, it can be with tenween only if used as a proper name; therefore,] IB observes, that if you make its last letter radical, its measure is اَفْعَل, and a word of this measure, if a subst., is imperfectly decl. when determinate, but perfectly decl. when indeterminate: (TA:) [the author of the K copies the error of the S, saying, “ or its alif is radical, ” (meaning its last letter,) “ and in this case it is always with tenween; ” and he adds, “ or, ” (for which he should have said “ and, ”) its measure is اَفْعَل: to all which it is necessary to add, that some of the grammarians hold it to be also of the measure فَعْلَى, ending with a fem. alif, and therefore assign to it no n. un.:] &lt;i&gt;A kind of tree,&lt;/i&gt; (S, K,) &lt;i&gt;of those growing in sands,&lt;/i&gt; (S, TA,) &lt;i&gt;resembling the kind called&lt;/i&gt; <br>\
+                  عِضَاه, &lt;i&gt;growing as a branch&lt;/i&gt; [in the TA عَصَبًا, for which I read غُضْنًا,] &lt;i&gt;from a single stem, to the height of the stature of a man, the leaves whereof are what are termed&lt;/i&gt; <br>\
+                  هَدَب [q. v., and are included among those termed خُوص], (AHn, TA,) &lt;i&gt;and its flower is like that of the&lt;/i&gt; <br>\
+                  خِلَاف [or &lt;i&gt;salix ægyptia&lt;/i&gt;], (AHn, K,) &lt;i&gt;save in being smaller, the colour being one; and the odour thereof is pleasant: it grows in sands, and therefore the poets make frequent mention of the wild bulls&#39; and cows&#39; taking refuge among this and other trees of the sands, burrowing at their roots to hide themselves there, and to protect themselves from the heat and cold and rain, but not among the trees in hard ground, for burrowing in the sand is easy:&lt;/i&gt; (AHn, TA:) &lt;i&gt;its fruit is like the&lt;/i&gt; <br>\
+                  عُنَّاب [or &lt;i&gt;jujube&lt;/i&gt;], &lt;i&gt;bitter, and is eaten by camels in its fresh moist state, and its roots are red,&lt;/i&gt; (AHn, K,) &lt;i&gt;intensely red:&lt;/i&gt; (AHn, TA:) AHn adds, a man of the Benoo-Asad informed me, that &lt;i&gt;the leaves&lt;/i&gt; (هَدَب) &lt;i&gt;of the&lt;/i&gt; <br>\
+                  ارطي <br>\
+                  &lt;i&gt;are red like the red pomegranate: its fruit also is red:&lt;/i&gt; (TA:) the dual is اَرْطَيَانِ: (AHn, TA:) and the pl. اَرْطَيَاتٌ and اَرَاطَيِ and اَرَاطٍ, (AHn, K,) in the accus. case ارَاطِي. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n595&quot; key=&quot;اَرْطَوِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْطَوِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n596&quot; key=&quot;اَرْطَاوِىُّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْطَاوِىُّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n597&quot; key=&quot;مَاْرُوطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْرُوطٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A hide &lt;i&gt;tanned with&lt;/i&gt; <br>\
+                  اَرْطًي; (S, K;) i. e. &lt;i&gt;with the leaves thereof;&lt;/i&gt; (S in art. رطي;) as also ↓ <br>\
+      مُوَرْطًي; (TA;) and so مَرْطِيٌّ. (S.) ―         -b2-  A camel &lt;i&gt;having a complaint from eating&lt;/i&gt; <br>\
+                  اَرْطًي: (L, K: *) and a camel &lt;i&gt;that eats&lt;/i&gt; <br>\
+                  اَرْطًي, (AZ, S, K,) &lt;i&gt;and keeps to it;&lt;/i&gt; (K;) as also ↓ <br>\
+      اَرْطَوِىُّ (AZ, S, K) and ↓ <br>\
+      اَرْطَاوِىٌّ. (Ibn-&#39;Abbád, Sgh, L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n598&quot; key=&quot;مُوَرْطًي&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَرْطًي<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.   &lt;/entryFree&gt; <br>\
+' } );

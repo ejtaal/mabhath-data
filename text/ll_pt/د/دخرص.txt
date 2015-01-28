@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>دخرص</em>            1                  دخرص<br>\
+<b>دِخْرِصٌ</b>               1     <br>\
+                     دِخْرِصٌ<br>\
+                     دخرص<br>\
+                  , and with ة: see what follows.    </entryFree> <br>\
+<b>دِخْرِيصٌ</b>               1     <br>\
+                     دِخْرِيصٌ<br>\
+                     دخريص<br>\
+                   (T, S, Mgh, Msb, K) and دِخْرِيصَةٌ, (TA voce تِخْرِيصٌ,) or ↓ <br>\
+      دِخْرِصٌ and ↓ <br>\
+      دِخْرِصَةٌ, (AA, TA,) or the last two are sometimes used, (Mgh,) and are dial. vars. of the first. (Msb,) [<i>A gore</i>] of a shirt, (S, Mgh, TA,) and of a coat of mail, (TA,) or [any] garment; (Msb;) <i>a piece with which it is widened;</i> (Mgh;) <i>that with which the body thereof is joined together to widen it;</i> (TA;) <i>i. q.</i> <br>\
+                  تِخْرِيصٌ, (K,) which is a dial. var.; (TA;) arabicized, (Lth, T, Msb,) from تِيرِيزٌ, (Lth, K voce تخريص,) which is Persian; (Lth;) <i>called by the Arabs</i> [<i>in their proper language</i>] بَنِيقَةٌ [q. v.]: (A&#39;Obeyd, IAar, Msb, TA:) or, as some say, Arabic: (Msb:) pl. دَخَارِيصُ. (AA, S, Mgh, Msb.)   </entryFree> <br>\
+' } );

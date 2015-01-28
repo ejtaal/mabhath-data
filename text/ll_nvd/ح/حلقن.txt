@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'حلقنQ., or Q. Q., 1.<br>\
+Q. 1<br>\
+حَلْقَنَ: see 2 in art. حلق.<br>\
+حُلْقَانٌ, n. un. with ة: see art. حلق.<br>\
+حُلْقَانِىٌّ: see art. حلق.<br>\
+مُحَلْقِنٌ: see art. حلق.<br>\
+' } );

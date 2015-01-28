@@ -1,0 +1,49 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ابق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ابق<br>\
+&lt;entryFree id=&quot;n58&quot; key=&quot;اَبَقَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَبَقَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبِقَ<br>\
+                  &lt;/form&gt;, (S, Mgh, Msb, K, &amp;amp;c.,) which is the most common form, (Msb,) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبُقَ<br>\
+                  &lt;/form&gt;, (S, TS, Mgh, Msb,) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبَقَ<br>\
+                  &lt;/form&gt;, (K,) so in the copies of the K in the place of      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبُقَ<br>\
+                  &lt;/form&gt;; (TA;) and اَبِقَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبَقَ<br>\
+                  &lt;/form&gt;; (IDrd, Msb, K;) inf. n. اـِبَاقٌ (S, Mgh, Msb) and اَبْقٌ and اَبَقٌ, (K,) or the first of these is a simple subst., and the second and third are the inf. ns.; (Msb;) &lt;i&gt;He&lt;/i&gt; (a slave) &lt;i&gt;ran away,&lt;/i&gt; or &lt;i&gt;fled,&lt;/i&gt; (T, S, Mgh, Msb,) or &lt;i&gt;went away,&lt;/i&gt; (K,) &lt;i&gt;from his master,&lt;/i&gt; (T, Msb,) &lt;i&gt;without&lt;/i&gt; [&lt;i&gt;being induced to do so by&lt;/i&gt;] &lt;i&gt;fear, or severity of work:&lt;/i&gt; (Msb, K:) thus the signification is restricted in the &#39;Eyn: (Msb:) and in this case, the law ordains that the slave shall be restored; but if the act arise from severity of work or from fear, he is not to be restored: (Lth, TA:) in the Kur xxxvii. 140, it is said of Jonas, (T, Bd,) because he fled from his people without the permission of his Lord: (Bd:) and it is also, tropically, said of a fish: (Mgh:) or &lt;i&gt;he&lt;/i&gt; (a slave) &lt;i&gt;hid himself, and then went away:&lt;/i&gt; (M, K:) as also ↓ <br>\
+      تابّق: (M:) or this signifies, simply, &lt;i&gt;he hid,&lt;/i&gt; or &lt;i&gt;concealed, himself:&lt;/i&gt; or &lt;i&gt;he confined, restricted, limited, restrained,&lt;/i&gt; or &lt;i&gt;withheld, himself:&lt;/i&gt; (S, K:) or it has both of the last two significations: (Sgh:) and &lt;i&gt;he abstained&lt;/i&gt; from a thing, &lt;i&gt;as from a sin,&lt;/i&gt; or &lt;i&gt;crime.&lt;/i&gt; (IAar, K *.) A poet says, (S,) namely, &#39;Ámir Ibn—Kaab, (AZ,) or &#39;Ámán Ibn-Kaab, or, as some say, Ghámán, (AA,) &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;↓ <br>\
+      اَلَا قَالَتْ بَهَانِ وَ لَمْ تَاَبَّقْ<br>\
+                     &lt;L&gt;<br>\
+                        كَبِرْتَ وَلَا يَلِيقُ بِكَ النَّعِيمُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Now surely Baháni said, and she did not hide herself,&lt;/i&gt; or &lt;i&gt;did not restrain herself, Thou hast grown old, and enjoyment doth not befit thee&lt;/i&gt;]: (S:) or &lt;i&gt;she did not hide herself&lt;/i&gt; [or &lt;i&gt;her mind], but said openly:&lt;/i&gt; (TA:) or &lt;i&gt;she did not go far&lt;/i&gt; [from the person whom she addressed, or from the truth]; so says AZ, taking it from اـِبَاقٌ as relating to a slave: (TA:) or &lt;i&gt;she did not abstain&lt;/i&gt; from her speech, as &lt;i&gt;from a sin,&lt;/i&gt; or &lt;i&gt;crime:&lt;/i&gt; (IAar:) or &lt;i&gt;she did not disdain,&lt;/i&gt; or &lt;i&gt;scorn.&lt;/i&gt; (TA.) AHát says that he asked As respecting ↓تابّق, and he answered that he knew it not. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَبَّقَ<br>\
+                  &lt;/form&gt; see 1, in three places. ―         -b2- تَاَبَّقَتْ <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a camel) &lt;i&gt;withheld her milk.&lt;/i&gt; (TA.) ―         -b3-  تابّق الشَّىْءَ [or مِنَ الشَّىْءِ] &lt;i&gt;He denied,&lt;/i&gt; or &lt;i&gt;disacknowledged, the thing.&lt;/i&gt; (K.) One says to a man, “ Verily in thee is such a quality; “ and he replies, مَا اَتَاَبَّقُ <br>\
+                  &lt;i&gt;I do not deny,&lt;/i&gt; or &lt;i&gt;disacknowledge:&lt;/i&gt; and one says, “ O son of such a woman; ” and the man replies, مَا اَتَاَبَّقُ مِنْهَا <br>\
+                  &lt;i&gt;I do not deny,&lt;/i&gt; or &lt;i&gt;disacknowledge, her.&lt;/i&gt; (IF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n59&quot; key=&quot;اَبُوقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبُوقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=بِقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n60&quot; key=&quot;اَبَّاقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبَّاقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=بِقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n61&quot; key=&quot;ا=بِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=بِقٌ<br>\
+                     ا=بق<br>\
+                  &lt;/form&gt; A slave &lt;i&gt;running away,&lt;/i&gt; or &lt;i&gt;fleeing,&lt;/i&gt; &amp;amp;c.; a &lt;i&gt;runaway,&lt;/i&gt; or &lt;i&gt;fugitive,&lt;/i&gt; slave; part. n. of اَبَقَ; (Mgh, Msb, K;) as also ↓ <br>\
+      اَبُوقٌ [but in an intensive, or frequentative, sense, i. e. &lt;i&gt;who runs away,&lt;/i&gt; or &lt;i&gt;flees, &amp;amp;c., much,&lt;/i&gt; or &lt;i&gt;often;&lt;/i&gt; and so ↓ <br>\
+      اَبَّاقٌ, occurring in the K, in art. ملخ]: (IF, K:) pl.اُبَّاقٌ (Mgh, Msb, K) and اٌبَّقٌ. (K.)   &lt;/entryFree&gt; <br>\
+' } );

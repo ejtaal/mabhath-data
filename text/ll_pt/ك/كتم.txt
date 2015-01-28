@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>كتم</em>            1                  كتم<br>\
+<b>كَتَمَ</b>               1     <br>\
+                     كَتَمَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَتُمَ<br>\
+                  , inf. n. كَتْمٌ [and كِتْمَانٌ], doubly trans., <i>He concealed,</i> or <i>suppressed,</i> a secret. (Mgh.) ―         -b2-  كَتَمَ الرَّبْوَ: see a verse cited in the last paragraph of art. عور.    </entryFree> <br>\
+<b>تَكَتَّمَ</b>               1     <br>\
+                     تَكَتَّمَ<br>\
+                     ذ<br>\
+                   (K, art. دلس) <i>He</i> (a man) <i>concealed,</i> or <i>hid, himself.</i> (T, K, same art.)    </entryFree> <br>\
+<b>تَكَاتَمُوا</b>               1     <br>\
+                     تَكَاتَمُوا<br>\
+                     ذ<br>\
+                  <i>They practised concealment, one with another:</i> see تَدَافَنُوا.    </entryFree> <br>\
+<b>كَتُومٌ</b>               1     <br>\
+                     كَتُومٌ<br>\
+                     ذ<br>\
+                  <i>A strict concealer of secrets.</i>    <br>\
+<b>كَاتِمٌ</b>               1     <br>\
+                     كَاتِمٌ<br>\
+                     ذ<br>\
+                   meaning مَكْتُومٌ: see دَافِقٌ, in two places. ―         -b2-  فِى كَاتِمِ السِّرِّ: see a verse cited in conj. 3 of art. عرض.   </entryFree> <br>\
+' } );

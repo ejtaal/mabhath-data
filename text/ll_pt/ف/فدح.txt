@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>فدح</em>            1                  فدح<br>\
+<b>فَدَحَهُ</b>               1     <br>\
+                     فَدَحَهُ<br>\
+                     ذ<br>\
+                  , (S, A, K,) aor.      <br>\
+                     فَدَحَ<br>\
+                  , (K,) inf. n. فَدْحٌ, (TA,) <i>It</i> (a debt, S, A, K, and an affair, and a load, TA) <i>burdened him, burdened him heavily, oppressed him,</i> or <i>overburdened him:</i> (S, A, K:) ↓ <br>\
+      افدحةُ [in this sense], said of debt, has not been heard from any one in the correctness of whose Arabic speech confidence is placed. (S.)    </entryFree> <br>\
+                     اَفْدَحَ<br>\
+                   see the preceding paragraph: ―         -b2-  and that here following.    </entryFree> <br>\
+<b>استفدحةُ</b>               1     <br>\
+                     استفدحةُ<br>\
+                     ذ<br>\
+                  <i>He deemed it</i> (i. e. an affair [&amp;amp;c.]) <i>burdensome, heavily burdening, oppressive,</i> or <i>overburdening:</i> (A, TA:) or <i>he found it to be so;</i> as also ↓ <br>\
+      افدحة. (K.)    </entryFree> <br>\
+<b>افدحهُ</b>               1     <br>\
+                     افدحهُ<br>\
+                     ذ<br>\
+                   A debt, (A,) or an affair, (S, K,) [or a load, (see 1,)] <i>burdening, burdening heavily, oppressing,</i> or <i>overburdening.</i> (S, A, K.)    </entryFree> <br>\
+<b>فاَدِحَةٌ</b>               1     <br>\
+                     فاَدِحَةٌ<br>\
+                     ذ<br>\
+                  <i>A misfortune, an affliction,</i> or <i>a calamity:</i> [pl. فَوَادِحُ:] فَوَادِحُ الدَّهْرِ signifies <i>the afflictions,</i> or <i>calamities, of fortune.</i> (K, * TA.)    </entryFree> <br>\
+<b>مُفْدَحٌ</b>               1     <br>\
+                     مُفْدَحٌ<br>\
+                     ذ<br>\
+                  : see the following paragraph.    </entryFree> <br>\
+<b>مَفْدُوحٌ</b>               1     <br>\
+                     مَفْدُوحٌ<br>\
+                     ذ<br>\
+                   A man <i>burdened, heavily burdened, oppressed,</i> or <i>overburdened,</i> by debt, or by an affair, or by a load: (S, * L, TA:) ↓ <br>\
+      مُفْدَحٌ in this sense is not allowable. (L.)   </entryFree> <br>\
+' } );

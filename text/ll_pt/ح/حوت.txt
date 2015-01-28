@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>حوت</em>            1                  حوت<br>\
+<b>حَاتَ عَلَى الشَّىْءِ</b>               1     <br>\
+                     حَاتَ عَلَى الشَّىْءِ<br>\
+                     ذ<br>\
+                  , aor. يَحُوتُ, (S,) inf. n. حَوْتٌ and حَوَتَانٌ, (K,) (assumed tropical:)  <i>He went,</i> or <i>circuited, round about the thing;</i> said of a bird, (S, K, TA,) going, or circuiting, round about water [like a fish (حُوت) in water]; (TA;) and of a wild animal: (K:) as also حات بِهِ. (TA.)    </entryFree> <br>\
+<b>حاوتهُ</b>               1     <br>\
+                     حاوتهُ<br>\
+                     حاوته<br>\
+                     حاوتة<br>\
+                   (tropical:) <i>He strove,</i> or <i>endeavoured, to turn him,</i> or <i>to entice him to turn,</i> syn. رَاوَغَهُ, (S, L, A, &amp;amp;c.,) in the K رَاغَمَهُ, but the former is the right explanation, (TA,) عَنْ شَىْءٍ <br>\
+                  <i>from a thing,</i> as, for instance, his family, and his property; (S, TA;) (tropical:)  <i>he strove,</i> or <i>endeavoured, to beguile him.</i> (A.) You say, ظَلَّ يُحَاوِتُنِى بِخُدَعَةٍ (tropical:)  <i>He passed the day striving,</i> or <i>endeavouring, to turn me,</i> or <i>entice me, by guile, like as the fish</i> (حُوت) <i>does in the water.</i> (A.) ―         -b2-  (assumed tropical:)  <i>He strove,</i> or <i>contended, with him, to repel him.</i> (K.) ―         -b3-  (assumed tropical:)  <i>He consulted him,</i> or <i>consulted with him.</i> (K.) ―         -b4-  (assumed tropical:)  <i>He talked with him, consulting,</i> or <i>making promises, in the case of a sale.</i> (K.)    </entryFree> <br>\
+<b>حُوتٌ</b>               1     <br>\
+                     حُوتٌ<br>\
+                     حوى<br>\
+                     حوت<br>\
+                  <i>Fish:</i> (M, A, K:) or [rather] <i>a fish:</i> (S, TA:) or <i>a great fish; any great fish:</i> (M, Msb, TA:) of the masc. gender: (Msb:) pl. [of mult.] حِيتَانٌ (S, Msb, K) and حِوَتَةٌ and [of pauc.] اَحْوَاتٌ. (K.) ―         -b2-  [Hence,] صَاحِبُ الحُوتِ (in the Kur lxviii. 48) [a surname of <i>The prophet</i>] <i>Jonas.</i> (Bd, Jel.) ―         -b3-  [Hence also,] الحُوتُ (assumed tropical:)  [<i>The constellation Pisces;</i>] <i>a certain sign of the Zodiac.</i> (S, K.) And الحُوتُ الجَنُوبِىُّ (assumed tropical:)  <i>The constellation Piscis Australis.</i> (Kzw &amp;amp;c.) And فَمُ الحُوتِ (assumed tropical:)  <i>The bright star</i> [<i>a, called by European astronomers Fomalhaut,</i>] <i>in the mouth of Piscis Australis.</i> (Kzw &amp;amp;c.)    </entryFree> <br>\
+<b>حُوتِىٌّ</b>               1     <br>\
+                     حُوتِىٌّ<br>\
+                     حوت<br>\
+                     حوتى<br>\
+                     حوتي<br>\
+                     حوتيي<br>\
+                   [<i>Of,</i> or <i>relating to,</i> or <i>like, a fish,</i> or <i>great fish</i>]. You say, هُوَ حُوتِىُّ الاِلْتِقَامِ [<i>He is like a fish,</i> or <i>great fish, in swallowing</i>]. (A, TA.)    </entryFree> <br>\
+<b>حَيُّوتٌ</b>               1     <br>\
+                     حَيُّوتٌ<br>\
+                     حيوت<br>\
+                   The <i>male of the</i> <br>\
+                  حَيَّة [or <i>serpent</i>]. (A.) [But the proper place of this is art. حيو.]   </entryFree> <br>\
+' } );

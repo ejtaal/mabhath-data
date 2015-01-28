@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>اسم</em>            1                  اسم<br>\
+<b>اَسَمَهُ</b>               1     <br>\
+                     اَسَمَهُ<br>\
+                     ذ<br>\
+                   a dial. var. of وَسَمَهُ, q. v. (TA.)    </entryFree> <br>\
+<b>اِسْمٌ</b>               1     <br>\
+                     اِسْمٌ<br>\
+                     اسام<br>\
+                     اسم<br>\
+                     اسمى<br>\
+                     اسم<br>\
+                     سام<br>\
+                     سم<br>\
+                     سما<br>\
+                     سمى<br>\
+                     وسم<br>\
+                     ٱسم<br>\
+                  : see art. سمو.    </entryFree> <br>\
+<b>اُسَامَةُ</b>               1     <br>\
+                     اُسَامَةُ<br>\
+                     ذ<br>\
+                  , determinate, (S, M, K,) and imperfectly decl., (M, Msb,) as a proper name, (Msb, K,)  <br>\
+                  <i>The lion;</i> (S, M, Msb, K;) as also الاُسَامَةُ. (Sgh, K.)   </entryFree> <br>\
+' } );

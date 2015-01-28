@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>سطن</em>            1                  سطن<br>\
+<b>سطّن</b>               1     <br>\
+                     سطّن<br>\
+                     ذ<br>\
+                   a verb of which only the pass. part. n. (q. v. infrà) is mentioned: if used, app. signifying <i>He supported upon</i> <br>\
+                  اَسَاطِين, i. e. <i>columns:</i> ―         -b2-  and hence, <i>upon long legs:</i> ―         -b3-  and <i>he made firm.</i>]    </entryFree> <br>\
+<b>سَاطِنٌ</b>               1     <br>\
+                     سَاطِنٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  خَبِيثٌ [<i>Bad, corrupt,</i> &amp;amp;c.; like شَاطِنٌ]. (M, L, K.)    </entryFree> <br>\
+<b>اَسْطَانٌ</b>               1     <br>\
+                     اَسْطَانٌ<br>\
+                     ذ<br>\
+                   [a pl. of which the sing. is not mentioned] <i>Vessels of</i> <br>\
+                  صُفْر [or <i>brass</i>]. (L, K.)    </entryFree> <br>\
+<b>اُسْطُوَانٌ</b>               1     <br>\
+                     اُسْطُوَانٌ<br>\
+                     ذ<br>\
+                  , an arabicized word, (Az, L,) [app. from the Pers. اُسْتُونْ, like the word next following,] A man <i>long in the legs and back.</i> (M, L.) And A camel <i>long in the neck,</i> (M, L, K,) or (K) <i>high.</i> (S, M, L, K.) ―         -b2-  What is termed اُسْتُوَانُ البَيْتِ is well known [app. meaning <i>The pole of the tent:</i> (see what next follows:) and this seems to be the primary signification]. (M, L.)    </entryFree> <br>\
+<b>اُسْطُوَانَةٌ</b>               1     <br>\
+                     اُسْطُوَانَةٌ<br>\
+                     ذ<br>\
+                   a word of well-known meaning, (S, L,) arabicized from [the Pers.] اُسْتُوِنْ [which signifies the same], (K,) <i>i. q.</i> <br>\
+                  سَارِيَةٌ [meaning <i>A column, of stone</i> or <i>of baked bricks</i>]: (S, M, L, Msb, K:) pl. اَسَاطِينُ (S, M, * L, Msb, K *) and اُسْطُوَانَاتٌ: (Msb:) it is of the measure اُفْعُوَالَةٌ, (S, L, Msb, K,) because its pl. is اَسَاطَينُ, the ن being radical, (L, Msb,) accord. to Kh (Msb) and Fr, who says that it is the only instance of this measure; (L;) or of the measure فُعْلُوَانَةٌ, (S, L, K,) accord. to Akh, but, (J says, L,) if so, the و is augmentative and has next to it two augmentative letters, and this is scarcely ever, or never, the case; (S, L;) IB, however, says that this is the true measure, as is shown by its pl., اَسَاطِينُ, and its dim., ↓ <br>\
+      اُسَيْطِينَةٌ: (L:) accord. to some, it is of the measure اُفْعُلَانَةٌ, (S, L, Msb,) but, if it were so, it would not have for its pl. اَسَاطِينُ, as there is no instance of the measure اَفَاعِينُ. (S, L.) ―         -b2-  [Also <i>A portico.</i> Hence, اَهْلُ الاُسْطُوَانَةِ <br>\
+                  <i>The Stoics.</i> ―         -b3-  And <i>A cylinder.</i>] ―         -b4-  And The <i>legs</i> of a beast: (K:) [or rather the pl.] اَسَاطِينُ has this meaning. (L.) ―         -b5-  And The <i>penis.</i> (K.)    </entryFree> <br>\
+<b>اُسَيْطِينَةٌ</b>               1     <br>\
+                     اُسَيْطِينَةٌ<br>\
+                     ذ<br>\
+                   dim. of اُسْطُوَانَةٌ, q. v. (IB, L.)    </entryFree> <br>\
+<b>مُسَطَّنٌ</b>               1     <br>\
+                     مُسَطَّنٌ<br>\
+                     ذ<br>\
+                   [app. <i>Supported upon</i> <br>\
+                  اَسَاطِين, i. e. <i>columns.</i> ―         -b2-  And hence,] A man, and a beast, <i>having long legs.</i> (L.) ―         -b3-  And اَسَاطِينُ مُسَطَّنَةٌ (S, M, L, K,) [<i>Columns</i>] <i>made firm.</i> (K.)   </entryFree> <br>\
+' } );

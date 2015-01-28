@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;ر&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>r</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;ر&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>ر</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     ر<br>\
+                     ذ<br>\
+                  <i>The tenth letter of the alphabet:</i> called رَا=ءٌ and رَا: pl. [of the former] رَاا=تٌ and [of the latter] اَرْوَا=ءٌ. (TA in باب الالف الليّنه.) It is one of the letters termed مَجْهُورَة [or vocal, i. e. pronounced with the voice, not with the breath only]; and of the letters termed ذُلْق, which are, and ل and ن, [also termed ذَوْلَقِيَّة, or pronounced with the extremity of the tongue, and ب and ف and م which are also termed شَفَهِيَّة, or pronounced with the lips:] these letters which are pronounced with the tip of the tongue and with the lips abound in the composition of Arabic words: (L:) and hence ر is termed, in a vulgar prov., حِمَارُ الشُعَرَا=ءِ [“ the ass of the poets ”]. (TA in باب الالف اللّينة.) ر is substituted for ل, in نَثْرَةٌ for نَثْلَةٌ, and in رَعَلَّ for لَعَلَّ, and in وَجِرٌ and اَوْجَرُ for وَجِلٌ and اَوْجَلُ; and this substitution is a peculiarity of the dial. of Keys; wherefore some assert that the ر in these cases is an original radical letter. (MF.)       -A2-  [As a numeral, it denotes <i>Two hundred.</i>.]    </entryFree> <br>\
+<b>رَ</b>               1     <br>\
+                     رَ<br>\
+                     ذ<br>\
+                   is an imperative of رَاَى [q. v.]. (AZ, T and S and M in art. راى.)   </entryFree> <br>\
+' } );

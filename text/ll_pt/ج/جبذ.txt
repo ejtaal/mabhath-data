@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>جبذ</em>            1                  جبذ<br>\
+<b>جَبَذَهُ</b>               1     <br>\
+                     جَبَذَهُ<br>\
+                     ذ<br>\
+                  , (S, A, Mgh, * L, Msb, K, *) aor.      <br>\
+                     جَبِذَ<br>\
+                  , (Mgh, Msb, K,) inf. n. جَبْذٌ, (T, Mgh, Msb, K, &amp;amp;c.,) <i>i. q.</i> <br>\
+                  جَذَبَهُ (T, * S, A, Mgh, * L, Msb, K, * &amp;amp;c.) i. e. <i>He drew it;</i> &amp;amp;c.: (T, TA:) formed by transposition from the latter; (A &#39;Obeyd, S, A;) accord. to some: (Msb:) or it is a dial. var. of the latter; (M, L, K, &amp;amp;c.;) of the dial. of Temeem; (T, Msb;) not formed from the latter by transposition, (Ibn-Es-Sarráj, IJ, M, L, K,) for both are equally conjugated: (Ibn-EsSarráj, IJ, L, Msb:) and اِجْتِبَاذٌ [inf. n. of ↓ <br>\
+      اجتبذ] signifies the same as جَبْذٌ. (K.) جَبَذَنِى رَجُلٌ <br>\
+                  مِنْ خَلْفِى, meaning <i>A man pulled me from behind me,</i> occurs in a trad. (L.) ―         -b2-  You say also, جَبَذَتْهُ and جَذَبَتْهُ, meaning, (tropical:)  <i>She repelled him,</i> or <i>rejected him;</i> namely, a man who sought her in marriage. (T and TA in art. جذب.)    </entryFree> <br>\
+<b>اِنْجِبَاذٌ</b>               1     <br>\
+                     اِنْجِبَاذٌ<br>\
+                     ذ<br>\
+                   [inf. n. of انجبذ] <i>i. q.</i> <br>\
+                  اِنْجِذَابٌ, (K,) meaning <i>Quick going</i> or <i>journeying</i> or <i>travelling.</i> (TA.)    </entryFree> <br>\
+                     اـِجْتَبَذَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

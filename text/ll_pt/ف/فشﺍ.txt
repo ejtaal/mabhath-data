@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فشا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فشا<br>\
+&lt;entryFree id=&quot;n33917&quot; key=&quot;فَشَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     فَشَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (O, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَشَاَ<br>\
+                  &lt;/form&gt;, (K,) [inf. n. فَشْءٌ;] as also ↓ <br>\
+      افشا; &lt;i&gt;He magnified himself;&lt;/i&gt; or &lt;i&gt;behaved proudly,&lt;/i&gt; or &lt;i&gt;haughtily:&lt;/i&gt; (O, K:) [or &lt;i&gt;he gloried,&lt;/i&gt; or &lt;i&gt;boasted:&lt;/i&gt; for] الفَشْءُ is from الفَخْرُ, (Ibn-Buzurj, O,) [or] &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  الفَخْرُ. (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَفْشَاَ<br>\
+                  &lt;/form&gt; see what here precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33918&quot; key=&quot;تفشّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تفشّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;spread.&lt;/i&gt; (S, O.) One says of a disease, تفشّابِهِمْ, (AZ, S, O,) or فِيهِمْ, (K,) [and تفشّى, and تفسّا,] &lt;i&gt;It spread among them:&lt;/i&gt; (AZ, S, O, K:) and تفشّاهم <br>\
+                  &lt;i&gt;it became common,&lt;/i&gt; or &lt;i&gt;general,&lt;/i&gt; or &lt;i&gt;universal, among them.&lt;/i&gt; (O.)       -A2-  تفشّا بِهِ <br>\
+                  &lt;i&gt;He mocked at him,&lt;/i&gt; or &lt;i&gt;derided him.&lt;/i&gt; (O, K.)    &lt;/entryFree&gt; <br>\
+' } );

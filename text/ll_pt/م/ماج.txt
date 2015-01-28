@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>ماج</em>            1                  ماج<br>\
+<b>مَوُجَ</b>               1     <br>\
+                     مَوُجَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَاَُ<br>\
+                   (or مَاَجَ, aor,      <br>\
+                     مَاََ<br>\
+                  , M), inf. n. مُوُوجَةٌ, <i>It</i> (water) <i>was,</i> or <i>became, what is termed</i> <br>\
+                  اُجَاج, (S, K,) i. e., <i>salt,</i> (TA,) [or <i>bitter,</i> or <i>salt and bitter, &amp;amp;c.</i>].    </entryFree> <br>\
+<b>مَا=ءٌ مَاْجٌ</b>               1     <br>\
+                     مَا=ءٌ مَاْجٌ<br>\
+                     ذ<br>\
+                  , (and, as occurring in a verse of Ibn-Harmeh, مَاجٌ, without ء, IB,) <i>Water such as is termed</i> <br>\
+                  اُجَاج, (S, K,) i. e., <i>salt,</i> (TA,) [or <i>bitter,</i> or <i>salt and bitter, &amp;amp;c.</i>]   </entryFree> <br>\
+' } );

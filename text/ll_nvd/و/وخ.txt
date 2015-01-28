@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'وخR. Q. 1<br>\
+وَخْوَخَ His belly was, or became,<br>\
+flabby. (TA, voce خَبْخَبَ.)<br>\
+وَخْوَاخٌ A fat and fleshy man, whose flesh<br>\
+shakes: (L:) having a flaccid belly, and dilated<br>\
+skin; (L, K;) as also بَخْبَاخٌ: (L:) lazy; (L,<br>\
+K;) unwilling to work: (L:) lazy or heavy: (L:)<br>\
+weak: (S, K:) a weak coward: (L:) ad venerum impotens; (L, K;) as also بَخْبَاخٌ and ذَوْذَخٌ:<br>\
+(L:) qui se polluit, aut concacat, tempore coitus;<br>\
+as also نخباخ and ذوذخ. (IAar.) ―<br>\
+-b2-  Anything<br>\
+flaccid: (L:) and particularly a flaccid date:<br>\
+(K:) or a date having a flaccid skin: (L:) or a<br>\
+date having no sweetness nor taste. (IAar.)<br>\
+' } );

@@ -1,0 +1,48 @@
+load_data( { book: 'll_pt', text: '<em>فكر</em>            1                  فكر<br>\
+<b>فَكَرَ فِيهِ</b>               1     <br>\
+                     فَكَرَ فِيهِ<br>\
+                     ذ<br>\
+                  , (O, * Msb, K,) aor.      <br>\
+                     فَكُرَ<br>\
+                  , (O, TK,) or      <br>\
+                     فَكِرَ<br>\
+                  , (Msb,) inf. n. فَكْرٌ; (S, O, Msb, K; *) and ↓ <br>\
+      اَفْكَرَ; (S, O, Msb, K;) and ↓ <br>\
+      فكّر, (S, O, K,) [which is more common than either of the first and second,] inf. n. تَفْكِيرٌ; (O, TA;) and ↓ <br>\
+      تفكّر; (S, O, Msb, K;) and ↓ <br>\
+      افتكر, (Msb, TA,) but this last is vulgar; (TA;) <i>He thought upon it, considered it,</i> or <i>examined it</i> [<i>mentally</i>]; (Msb;) <i>he considered it in order to obtain a clear knowledge of it;</i> (S, O, * TA;) <i>he employed his mind,</i> (M, TA,) or <i>his consideration,</i> (K, TA,) <i>upon it.</i> (M, K, TA.) [See also فِكْرٌ.]    </entryFree> <br>\
+                     فَكَّرَ<br>\
+                   4, 5, and 8: see the preceding paragraph.    </entryFree> <br>\
+<b>فَكْرٌ</b>               1     <br>\
+                     فَكْرٌ<br>\
+                     ذ<br>\
+                   inf. n. of 1 [q. v.]. ―         -b2-  لَيْسَ لِى فِى هٰذَا الاَمْرِ <br>\
+                  فَكْرٌ, (Yaakoob, S, O, K, *) which is more chaste than ↓ <br>\
+      فِكْرٌ, [in this case,] (Yaakoob, S, O,) but the latter is sometimes used, (K,) means <i>I have no want,</i> or <i>need, of this thing:</i> (Yaakoob, S, O, K: *) or, as is said in the A, لَا فَكْرَ لِى فِى هٰذَا i. e. <i>I have no want,</i> or <i>need, of this, nor do I care for it.</i> (TA.)    </entryFree> <br>\
+<b>فِكْرٌ</b>               1     <br>\
+                     فِكْرٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      فِكْرَةٌ (S, O, Msb, K) and ↓ <br>\
+      فِكْرَى, (Lth, O, K,) are simple substs., (S, O, Msb, *) but the last is of rare occurrence, (Lth, O,) signifying <i>Thought, consideration,</i> or [<i>mental</i>] <i>examination,</i> <br>\
+                  فِى اَمْرٍ [<i>respecting a thing</i>]; (Msb;) <i>consideration</i> [of a thing] <i>in order to obtain a clear knowledge</i> [of it]; (S, TA;) the <i>employment of the mind,</i> (M, TA,) or <i>of the consideration,</i> (K, TA,) upon a thing: (M, K, TA:) or <i>repeated consideration for the purpose of seeking</i> [<i>to discover</i>] <i>meanings:</i> or the <i>arranging of things in the mind in order, by them, to arrive at some object of which the attainment is desired, though it be but a preponderating opinion:</i> (Msb:) or the <i>arranging of known things</i> [<i>in the mind</i>] <i>in order to attain to</i> [<i>the knowledge of</i>] <i>an unknown</i> [<i>thing</i>]: (KT:) pl. of the first اَفْكَارٌ: (IDrd, K;) but Sb says that neither فِكْرٌ nor عِلْمٌ nor نَظَرٌ has any pl.: (TA:) the pl. of ↓ <br>\
+      فِكْرَةٌ is فِكَرٌ. (Msb.) One says, لِفُلَانٍ فِكَرٌ كُلُّهَا فِقَرٌ [<i>Such a one has thoughts all of which are points of wit</i>]. (A, TA.)       -A2-  See also فَكْرٌ.    </entryFree> <br>\
+<b>فِكْرَةٌ</b>               1     <br>\
+                     فِكْرَةٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph; the former in two places.    </entryFree> <br>\
+<b>فِكْرَى</b>               1     <br>\
+                     فِكْرَى<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph; the former in two places.    </entryFree> <br>\
+<b>فِكِّيرٌ</b>               1     <br>\
+                     فِكِّيرٌ<br>\
+                     ذ<br>\
+                   [<i>Thoughtful;</i>] <i>having much</i> <br>\
+                  فِكْر; (IF, S, O, K;) as also ↓ <br>\
+      فَيْكَرٌ. (Kr, K.)    </entryFree> <br>\
+<b>فَيْكَرٌ</b>               1     <br>\
+                     فَيْكَرٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

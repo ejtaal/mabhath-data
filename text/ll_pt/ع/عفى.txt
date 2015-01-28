@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>عفى</em>            1                  عفى<br>\
+<b>عَفَيْتُ الشَّعَرَ</b>               1     <br>\
+                     عَفَيْتُ الشَّعَرَ<br>\
+                     ذ<br>\
+                  , aor. اَعْفِيهِ, inf. n. عَفْىٌ: see 1 (latter half) in art. عفو.   </entryFree> <br>\
+' } );

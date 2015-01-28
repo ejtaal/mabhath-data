@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>بنم</em>            1                  بنم<br>\
+<b>اِبْنُمٌ</b>               1     <br>\
+                     اِبْنُمٌ<br>\
+                     ابنم<br>\
+                   or اِبْنَمٌ, and اْبْنُمٌ or اْبْنَمٌ; and اْبْنِيمَا for اْبْنِمَا: see اِبْنٌ, in art. بنى.   </entryFree> <br>\
+' } );

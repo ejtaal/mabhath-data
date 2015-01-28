@@ -1,0 +1,42 @@
+load_data( { book: 'll_nvd', text: 'كس1<br>\
+كَسَأ, aor.<br>\
+كَسَ3َ, (S, K,) inf. n. كَسْءٌ, (TA,)<br>\
+He, or it, pursued, or followed, another, (S, K,)<br>\
+as one follows a party which he has put to<br>\
+flight: like كَسَعَ. (S.) ―<br>\
+-b2-  كَسَأَ, (K,) inf. n.<br>\
+كَسْءٌ, (TA,) He urged on a beast of carriage.<br>\
+in the track, or at the heels, of another.<br>\
+(K.)<br>\
+-A2-  كَسَأَ, (K,) inf. n. كَسْءٌ, (TA,) He overcame a party in litigation or the like. (K.)<br>\
+-A3-<br>\
+كَسَأَ (perhaps a mistake for كَشَأَ, TA,) He<br>\
+smote a person with a sword. (K.)<br>\
+كَسْءٌ inf. n. of 1. q. v.<br>\
+-A2-  مرَّ كَسْءٌ مِنَ اللَّيْلِ<br>\
+A part of the night passed. (K.)<br>\
+كُسْءٌ and ↓ كُسُوْءٌ The hinder, or latter, part<br>\
+of anything: pl. أَكْسَاءٌ. (S, K.) ―<br>\
+-b2-  كُسْءٌ الشَّهْرِ,<br>\
+and ↓ كُسُوْؤُهُ, The latter part of the month; its<br>\
+last ten days, or about that period. (TA.) ―<br>\
+-b3-<br>\
+جَاءَ فِى كُسْءِ الشَّهْرِ, and عَلَى كُسْئِهِ, He came<br>\
+in the latter part, or end, of the month. (TA.)<br>\
+―<br>\
+-b4-  جَاءَ عَلَى كُسْءِ الشَّهْرِ, and على أَكْسَائِهِ, and<br>\
+↓ جِئْتُكَ عَلَى كُسَائِهِ, [in the TA written, app. by<br>\
+a mistake of the transcriber, على كساءه, and<br>\
+فِى كُسَائِهِ, [so in the TA,] He came, and I<br>\
+came to thee, at the end of the month, after the<br>\
+whole month had passed. (TA.) ―<br>\
+-b5-  جِئْتُ فِى<br>\
+أَكْسَآءِ القَوْمِ I came among the latter of the<br>\
+people. (TA.) ―<br>\
+-b6-  مَرُّوا فِى أَكْسَآءِ المُنْهَزِمِينَ,<br>\
+and على أَكْسَائِهِمْ, They went at the heels of the<br>\
+routed party. (TA.) رَكِبَ كُسْأَهُ He fell upon<br>\
+the back of his neck, or head. (K.)<br>\
+كُسَآءٌ: see كُسْءٌ.<br>\
+كُسُوْءٌ: see كُسْءٌ.<br>\
+' } );

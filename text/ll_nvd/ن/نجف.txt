@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نجفنِجَافٌ<br>\
+of a door, i. q.<br>\
+دَرْوَنْد [a Persian word,<br>\
+A bolt, or bar.] (IAar in L, art. رتج.)<br>\
+' } );

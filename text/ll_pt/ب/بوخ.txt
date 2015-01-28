@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>بوخ</em>            1                  بوخ<br>\
+<b>بَاخَتِ النَّارُ</b>               1     <br>\
+                     بَاخَتِ النَّارُ<br>\
+                     باخت النار<br>\
+                  , (S, A, L, K,) aor. تَبُوخُ, inf. n. بَوْخٌ and بُوُوخٌ and بَوَخَانٌ, (L,) <i>The fire abated;</i> or <i>became allayed:</i> (S, L, K: *) or <i>became extinguished,</i> or <i>quenched.</i> (A.) And باخ الحَرُّ <br>\
+                  <i>The heat abated,</i> or <i>became allayed.</i> (S, A, TA.) ―         -b2-  [Hence,] بَاخَتِ الحُمَّى (assumed tropical:)  <i>The fever abated,</i> or <i>became allayed.</i> (S.) And باخ عَنْهُ الوِرْدُ (tropical:)  <i>His fever abated,</i> or <i>remitted.</i> (A, TA.) And باخ <br>\
+                  غَضَبُهُ (tropical:)  <i>His anger abated,</i> or <i>became assuaged.</i> (S, * A, K. *) And بَيْنَهُمْ حَرْبٌ مَا يَبُوخُ سَعِيرُهَا (assumed tropical:)  <i>Between them is war of which the fire does not become extinguished,</i> or <i>quenched.</i> (A.) ―         -b3-  [Hence also,] باخ likewise signifies (tropical:)  <i>He became fatigued,</i> (S, L, K,) <i>and out of breath.</i> (L) You say, عَدَا حَتَّ=ى بَاخَ (S, A, L) (tropical:)  <i>He ran until he became fatigued</i> (S, L) <i>and out of breath.</i> (L.) ―         -b4-  (assumed tropical:)  <i>He</i> (a man) <i>flagged;</i> or <i>became remiss,</i> or <i>languid.</i> (TA.) ―         -b5-  Also, inf. n. بُوُوخٌ, (assumed tropical:)  <i>It</i> (flesh-meat) <i>became altered,</i> or <i>changed in odour or otherwise for the worse,</i> (K, TA,) <i>And corrupted,</i> or <i>tainted.</i> (TA.)    </entryFree> <br>\
+<b>اباخ</b>               1     <br>\
+                     اباخ<br>\
+                     اباخ<br>\
+                  <i>He extinguished,</i> or <i>quenched,</i> fire. (A, K.) And <i>He</i> (God) <i>abated,</i> or <i>allayed,</i> the heat. (A.) ―         -b2-  [Hence,] اباخ النّايِرَةَ بَيْنَهُمْ (tropical:)  [<i>He extinguished,</i> or <i>assuaged, the discord,</i> or <i>rancour,</i> or <i>enmity, that was between them</i>]. (A, TA.) ―         -b3-  And اَبِخْ عَنْكَ مِنَ الظَّهِيرِةَ (assumed tropical:)  <i>Stay thou until the midday-heat shall have become allayed, and the air be cool.</i> (IAar, TA in art. فيح and in the present art.)    </entryFree> <br>\
+<b>بُوخٌ</b>               1     <br>\
+                     بُوخٌ<br>\
+                     بوخ<br>\
+                  <i>A state of confusion,</i> or <i>perplexedness.</i> (S, K.) You say, هُمْ فِى بُوخٍ مِنْ اَمْرِهِمْ <br>\
+                  <i>They are in a state of confusion,</i> or <i>perplexedness, with respect to their affair,</i> or <i>case.</i> (S, K. *) And it is said in a prov., وَقَعُوا فِى دُوكَةٍ وَ بَوخٍ, meaning <i>They fell into evil,</i> or <i>mischief, and altercation.</i> (Meyd, TA.)   </entryFree> <br>\
+' } );

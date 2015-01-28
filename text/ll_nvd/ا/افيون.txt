@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'افيونأَفْيُونٌ, [like صَعْفُوقٌ, but this is of a very extr.<br>\
+measure; or, as some write it, أُفْيُونٌ, like عُصْفُورٌ<br>\
+&amp;c.;] or إِفْيَوْنٌ, [like بِرْذَوْنٌ;] (accord. to different<br>\
+copies of the K, art. فين;) [an arabicized word,<br>\
+from the Greek أَپْيُونْ, either immediately or<br>\
+through the Persian خَشْخَاش; meaning Opium:]<br>\
+the milk [or juice] of the black Egyptian خشخاش<br>\
+[or poppy, or papaver somniferum]; (K;) or the<br>\
+milk of the خشخاش, the best of which is the<br>\
+black Egyptian; (TA;) or the expressed juice<br>\
+of the black Egyptian خشخاش, dried in the<br>\
+sun: cold and dry in the fourth degree: (Ibn-Seenà, or Avicenna, i. 133:) beneficial for hot<br>\
+tumours, especially in the eye; torporific (to the<br>\
+intellect, TA): in a small quantity, beneficial,<br>\
+and soporific: in a large quantity, a poison:<br>\
+(K:) [the lexicographers regard the word as<br>\
+Arabic:] some, among whom is the author of<br>\
+the K, hold that it belongs to art. فين: others,<br>\
+that it belongs to art. افن. (TA.)<br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'موذ1<br>\
+مَاذَ, [aor. يَمُوذُ,] He lied. (L.)<br>\
+مَاذٌ Good in natural disposition, happy in<br>\
+spirits, cheerful in mind, merry, jocose, (L, K,)<br>\
+and pleasant in speech. (L.) See طَابٌ.<br>\
+مَاذِىٌّ (K) and مَاذِيَّةٌ (S, L, Msb, K) A soft<br>\
+coat of mail, easy to the wearer; (S, L, Msb, K;)<br>\
+and [so] the former, any weapon: (K:) or the<br>\
+latter, a white coat of mail. (Msb.) ―<br>\
+-b2-  Hence,<br>\
+(Msb,) the latter, White honey: (S, L, Msb, K:)<br>\
+or [in the CK and] new honey: or pure honey:<br>\
+or excellent honey. (K.) ―<br>\
+-b3-  Also, the latter,<br>\
+Wine. (S, L, K.)<br>\
+' } );

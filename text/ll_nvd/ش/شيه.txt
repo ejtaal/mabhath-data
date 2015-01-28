@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'شيه1<br>\
+شَاهَهُ, aor. يَشِيهُهُ, (K,) inf. n. شَيْهٌ, (TA,) i. q.<br>\
+عَانَهُ, (Ibn-Buzurj, K, TA, [in the CK, erroneously<br>\
+عابَهُ,]) i. e. He smote him with the [evil] eye.<br>\
+(TA.) [See also 1 in art. شوه.]<br>\
+شَيْهٌ and شِيهٌ: see شَاةٌ (of which they are quasipl. ns.) in art. شوه.<br>\
+شِيَاهٌ: see شَاةٌ (of which it is a pl.) in art. شوه.<br>\
+شَيُوهٌ That smites vehemently with the [evil] eye.<br>\
+(Ibn-Buzurj, K, TA. [In the CK, عَيُوبٌ is erroneously put for عَيُونٌ.])<br>\
+شَيِّهٌ: see شَاةٌ (of which it is a quasi-pl. n.) in<br>\
+art. شوه.<br>\
+أَشْيَهُ [More, and most, wont to smite with the<br>\
+evil eye]. One says, هُوَ مِنْ أَشْيَهِ النَّاسِ [He is of<br>\
+the most wont, of men, to smite with the evil eye:<br>\
+this meaning being indicated by the context].<br>\
+(Ibn-Buzurj, K, TA.)<br>\
+-------------------------------------------------<br>\
+' } );

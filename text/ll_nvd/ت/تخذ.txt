@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'تخذ1<br>\
+تَخِذَ, aor.<br>\
+تَخَذَ, inf. n. تَخَذٌ and تَخْذٌ: see 8 in<br>\
+art. اخذ.<br>\
+8<br>\
+اتّخذ: see 8 in art. اخذ.<br>\
+اِسْتَخَذَ, an irregularly formed verb: see 8 in<br>\
+art. اخذ.<br>\
+' } );

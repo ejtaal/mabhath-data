@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;سرداب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  سرداب<br>\
+&lt;entryFree id=&quot;n19547&quot; key=&quot;سِرْدَابٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سِرْدَابٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, an arabicized word, (K,) from [the Pers.] سَرْدٌ [i. e. “ cold ”] and ا=بْ [“ water ”], (TA,) &lt;i&gt;A subterranean structure, for the summer:&lt;/i&gt; (El-Ahmar, K:) or &lt;i&gt;a narrow place into which one enters:&lt;/i&gt; (Msb:) [applied in the present day to &lt;i&gt;a cellar,&lt;/i&gt; or &lt;i&gt;subterranean vault, in which anything is put to be kept cool:&lt;/i&gt;] pl. سَرَادِبُ (Msb) [or سَرَادِيبُ].    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n19548&quot; key=&quot;السِّرْدَابِيَّةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     السِّرْدَابِيَّةُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A people of those who compose the extravagant zealots of the&lt;/i&gt; [&lt;i&gt;sect called&lt;/i&gt;] رَافِضَة [q. v.], &lt;i&gt;who expect El-Mahdee&#39;s coming forth from the&lt;/i&gt; <br>\
+                  سِرْدَاب <br>\
+                  &lt;i&gt;that is in Rei, wherefore they bring a saddled and bridled horse every Friday, after the prayer&lt;/i&gt; [&lt;i&gt;of the congregations at noon&lt;/i&gt;], &lt;i&gt;saying, “ O Imám: in the name of God: ” three times.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

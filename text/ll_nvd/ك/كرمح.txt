@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'كرمحQ. 1<br>\
+كَرْمَحَ, inf. n. كَرْمَحَةٌ, i. q. كَرْتَحَ, (S,<br>\
+art. كردح, and CK, and a MS copy of the<br>\
+K,) He (a short man) ran with short steps, and<br>\
+quickly: (S, ubi supra:) or i. q. كَرْبَحَ, the ب<br>\
+being changed into م, (TA,) he ran at a slower<br>\
+pace than that termed كَرْدَمَةٌ. (L, TA.) ―<br>\
+-b2-<br>\
+كَرْمَحْنَا فِى آثَارِ القَوْمِ We ran heavily in the<br>\
+footsteps of, or after, the people, (AA, S, ubi<br>\
+supra, L.)<br>\
+' } );

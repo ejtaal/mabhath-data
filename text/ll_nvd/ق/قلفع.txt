@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قلفعQ. 2<br>\
+تَقَلْفَعَتْ عَنِ الكَمْءِ أَنْقَاضُهُ<br>\
+[The crusts of<br>\
+earth broke up from over the truffle]. (M, art.<br>\
+نقض.)<br>\
+' } );

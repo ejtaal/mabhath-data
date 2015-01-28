@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'مدنمَيْدَانٌ<br>\
+: see art. ميد.<br>\
+هُوَ ابْنُ مَدِينَتِهَا<br>\
+, said of a skilful guide: see<br>\
+بَجْدَةٌ.<br>\
+' } );

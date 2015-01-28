@@ -1,0 +1,265 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اثر&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اثر<br>\
+&lt;entryFree id=&quot;n189&quot; key=&quot;اَثَرَ خُفَّ البَعِيرِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَثَرَ خُفَّ البَعِيرِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثُرَ<br>\
+                  &lt;/form&gt;, inf. n. اَثْرٌ, &lt;i&gt;He made an incision in the foot of the camel&lt;/i&gt; [&lt;i&gt;in order to know and trace the footprints&lt;/i&gt;]; as also ↓ <br>\
+      اثّرهُ. (M.) And اَثَرَ البَعِيرِ<br>\
+                  &lt;i&gt;He made a mark upon the bottom of the camel&#39;s foot with the iron instrument called&lt;/i&gt; <br>\
+                  مِيْثَرَة<br>\
+                  &lt;i&gt;in order that the footprints upon the ground might be known:&lt;/i&gt; (T, TT:) or &lt;i&gt;he scraped the inner&lt;/i&gt; [i. e. &lt;i&gt;under&lt;/i&gt;] &lt;i&gt;part of the camel&#39;s foot with that instrument in order that the footprints might be traced.&lt;/i&gt; (S.)       -A2-  اَثَرَ الحَدِيثَ, (T, S, M, A, &amp;amp;c.,) عَنِ القَوْمِ, (M,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثُرَ<br>\
+                  &lt;/form&gt;(S, M, Msb, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثِرَ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. اَثْرٌ(T, S, M, Msb, K) and اَثَارَهٌand اُثْرَهٌ, (M, K,) the last from Lh, but in my opinion, [says ISd,] it is correctly speaking a subst., and syn. with مَاْثُرَهٌand مَاْثَرَهٌ, (M,) &lt;i&gt;He related,&lt;/i&gt; or &lt;i&gt;recited, the tradition, narrative,&lt;/i&gt; or &lt;i&gt;story, as received,&lt;/i&gt; or &lt;i&gt;heard, from the people; transmitted the narrative,&lt;/i&gt; or &lt;i&gt;story, by tradition, from the people:&lt;/i&gt; (T, S, * M, A, L, Msb, * K: *) or &lt;i&gt;he related that wherein they had preceded&lt;/i&gt; [&lt;i&gt;as narrators:&lt;/i&gt; so I render اَنْبَاَهُمْ بِمَا سَبَقُوا فِيهِ, believing همto have been inserted by a mistake of a copyist in the M, and hence in the L also:] from الاَثَرُ. (M, L.) [See اَثَرٌ.] You say also, اثَرَ عَنْهُ <br>\
+                  الكَذِبَ, meaning &lt;i&gt;He related, as heard from him, what was false.&lt;/i&gt; (L, from a trad.) ―         -b2-  اَثْرٌ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثُرَ<br>\
+                  &lt;/form&gt;, (M,) inf. n. اَثْرٌ, (M, K.) also signifies &lt;i&gt;Multum inivit&lt;/i&gt; camelus camelam. (M, K.)       -A3-  اَثِرَ لِلْاَمْرِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثَرَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He applied,&lt;/i&gt; or &lt;i&gt;gave, his whole attention to the thing,&lt;/i&gt; or &lt;i&gt;affair, having his mind unoccupied by other things.&lt;/i&gt; (K.)       -A4-  اَثِرَ عَلَي الْاَمْرِ<br>\
+                  &lt;i&gt;He determined, resolved,&lt;/i&gt; or &lt;i&gt;decided, upon the thing,&lt;/i&gt; or &lt;i&gt;affair.&lt;/i&gt; (T, K.)       -A5-  لَقَدْ اَثِرْتُ اَنْ اَفْعَلَ كَذَا و كَذَا, (Lth, T, L,) inf. n. اَثْرٌand اَثَرٌ, (L,) &lt;i&gt;I have assuredly purposed to do such and such things.&lt;/i&gt; (Lth, T, L.)       -A6-  See also 4.       -A7-  And see 10.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n190&quot; key=&quot;اثّر فِيهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اثّر فِيهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْثِيرٌ, &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, made,&lt;/i&gt; (Msb,) or &lt;i&gt;left,&lt;/i&gt; (M, K,) or &lt;i&gt;caused to remain,&lt;/i&gt; (S,) &lt;i&gt;an impression,&lt;/i&gt; or &lt;i&gt;a mark,&lt;/i&gt; or &lt;i&gt;trace, upon him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (S, * M, Msb, K. *) It is said of a sword, [meaning &lt;i&gt;It made,&lt;/i&gt; or &lt;i&gt;left, a mark,&lt;/i&gt; or &lt;i&gt;scar, upon him,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt;] and in like manner of a blow. (T, TA.) [Whence,] اَثَّرَ فِى عِرْضِهِcross; [&lt;i&gt;He scarred his honour&lt;/i&gt;]. (K in art. وخش.) You say also, اَثَّرَ بِوَجْهِهِ <br>\
+                  وَبِجَبِينِهِ السُّجُودُ[&lt;i&gt;Prostration in prayer made,&lt;/i&gt; or &lt;i&gt;left, a mark,&lt;/i&gt; or &lt;i&gt;marks, upon his face and upon his forehead&lt;/i&gt;]. (T, * TA.) See also 1, first sentence.       -A2-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, made an impression,&lt;/i&gt; or &lt;i&gt;produced an effect, upon him,&lt;/i&gt; or &lt;i&gt;it; impressed, affected,&lt;/i&gt; or &lt;i&gt;influenced, him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (The Lexicons passim.)       -A3-  اَثَّرَ كَذَا بِكَذَا, (T, TT,) or ↓ <br>\
+      ا=ثَرَ, (K,) &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, made such a thing to be followed by such a thing.&lt;/i&gt; (T, TT, K. *)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=ثَرَ<br>\
+                  &lt;/form&gt; see 2, last sentence.       -A2-  [Hence, app.,] ا=ثرهُ, (As, T, M, Msb,) inf. n. اـِيثَارٌ, (As, T,) &lt;i&gt;He preferred him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (As, T, M, Msb, TA.) You say, ا=ثرهُ عَلَيْهِ<br>\
+                  &lt;i&gt;He preferred him before him:&lt;/i&gt; so in the Kur xii. 91. (As, M.) And ا=ثَرْتُ فُلاَنًا <br>\
+                  عَلَى نَفْسِى[&lt;i&gt;I preferred such a one before myself&lt;/i&gt;], from الاـِيثَار. (S.) And قَدْ ا=ثَرْتُكَ<br>\
+                  &lt;i&gt;I have preferred for thee it; I have preferred to give thee it, rather than any other thing.&lt;/i&gt; (T.) And ا=ثَرَ اَنْ يَفْعَلَ كَذَا<br>\
+                  &lt;i&gt;He preferred doing such a thing;&lt;/i&gt; as also ↓ <br>\
+      اَثِرَ, inf. n. اَثَرٌ; and اَثَرَ. (M.)       -A3-  ا=ثرalso signifies &lt;i&gt;He chose,&lt;/i&gt; or &lt;i&gt;elected,&lt;/i&gt; or &lt;i&gt;selected.&lt;/i&gt; (K.)       -A4-  And ا=ثِرهُ<br>\
+                  &lt;i&gt;He honoured him; paid him honour.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n191&quot; key=&quot;تاثّر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاثّر<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;It received an impression,&lt;/i&gt; or &lt;i&gt;a mark,&lt;/i&gt; or &lt;i&gt;trace; became impressed,&lt;/i&gt; or &lt;i&gt;marked.&lt;/i&gt; (Msb.)       -A2-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, had an impression made,&lt;/i&gt; or &lt;i&gt;an effect produced, upon him,&lt;/i&gt; or &lt;i&gt;it; became impressed, affected,&lt;/i&gt; or &lt;i&gt;influenced.&lt;/i&gt; (The Lexicons passim.)       -A3-  See also 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n192&quot; key=&quot;ايْتَثَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ايْتَثَرَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [written with the disjunctive alif اِيتَثَرَهُ,] and ↓ <br>\
+      تاثّرهُ, &lt;i&gt;He followed his footsteps:&lt;/i&gt; (M, K:) or &lt;i&gt;did so diligently,&lt;/i&gt; or &lt;i&gt;perseveringly.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n193&quot; key=&quot;استاثر عَلَى اَصْحَابِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاثر عَلَى اَصْحَابِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; (ISk, S, K;) and عَلَيْهِمْ ↓ <br>\
+      اَثِرَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثَرَ<br>\
+                  &lt;/form&gt;; (K;) &lt;i&gt;He chose for himself&lt;/i&gt; [&lt;i&gt;in preference to his companions&lt;/i&gt;] (ISk, S, K) &lt;i&gt;good things,&lt;/i&gt; (K,) &lt;i&gt;in partition,&lt;/i&gt; (TA,) or &lt;i&gt;good actions, and qualities of the mind.&lt;/i&gt; (ISk, S.) And استاثر <br>\
+                  بالشَّىْءِ, (S, K,) or الشَّىْءَ, (Msb,) &lt;i&gt;He had the thing to himself, with none to share with him in it:&lt;/i&gt; (S, Msb, K:) and the former signifies &lt;i&gt;he appropriated the thing to himself exclusively,&lt;/i&gt; (M, K,) عَلَى غَيْرِهِ<br>\
+                  &lt;i&gt;in preference to another&lt;/i&gt; or &lt;i&gt;others.&lt;/i&gt; (M.) It is said in a trad., اـِذَا اسْتَاْثَرَ اللّٰهُ بِشَىْءٍ فَالْهَ <br>\
+                  عَنُهُ<br>\
+                  &lt;i&gt;When God appropriateth a thing to Himself exclusively, then be thou diverted from it so as to forget it.&lt;/i&gt; (M.) And one says, اِسْتاْثَرَ اللّٰهُ بِفُلَانٍ, (and فُلَانًا, TA,) [&lt;i&gt;God took such a one to Himself,&lt;/i&gt;] when a person has died and it is hoped that he is forgiven. (S, M, A, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n194&quot; key=&quot;اَثْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (AZ, T, S, A, L, K, &amp;amp;c.,) said by Yaakoob to be the only form known to As, (S,) and ↓ <br>\
+      اَثَرٌ, which is a form used by poetic licence, (M, L,) and ↓ <br>\
+      اثْرَةٌ, (M, L, K,) and ↓ <br>\
+      اُثُرٌ, (M,) and ↓ <br>\
+      اُثُرٌ, which is in like manner a sing., not a pl., (T, L,) and ↓ <br>\
+      اثْرَةٌ, (El-Leblee,) and ↓ <br>\
+      اَثِيرْ, (K,) The &lt;i&gt;diversified wavy marks, streaks,&lt;/i&gt; or &lt;i&gt;grain,&lt;/i&gt; of a sword; syn. فِرِنْدٌ; (As, T, S, M, A, L, K;) and تَسَلْسُلٌ; and دِيبَاجَةُ; (AZ, T;) and its &lt;i&gt;lustre,&lt;/i&gt; or &lt;i&gt;glitter:&lt;/i&gt; (M, L:) pl. [of the first] اُثُرْ: (T, M, L, K:) the pl. of اُثْرَةٌis اُثَرٌ. (El-Leblee.) Khufáf Ibn-Nudbeh Es-Sulamee says, [describing swords,] &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        جَلَاهَا الصَّيْقَلُونَ فَاـَخْلَصُوهَا<br>\
+                     &lt;L&gt;<br>\
+                        خِفَافاً كُلُّهَا يَتْقِى بِاَثْرِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;The furbishers polished them, and freed them from impurities,&lt;/i&gt; making them &lt;i&gt;light: each of them preserving itself&lt;/i&gt; from the evil eye &lt;i&gt;by means of&lt;/i&gt; its &lt;i&gt;lustre&lt;/i&gt;]: i. e., each of them opposes to thee its فِرِنْد: (S, L:) يَتْقِىis a contraction of يَتَّقِى; and the meaning is, when a person looks at them, their bright rays meet his eye, so that he cannot continue to look at them. (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n195&quot; key=&quot;اُثْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُثْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;The &lt;i&gt;scar of a wound, remaining when the latter has healed;&lt;/i&gt; (As, Sh, T, S, M, K;) as also ↓ <br>\
+      اُثُرٌ(S, K) and ↓ <br>\
+      اَثَرٌ: (Sh, T:) pl. ا=ثَارٌ, though properly اـِثَارٌ, with kesr to the ا [but why this is said, I do not see; for ا=ثَارٌis a regular pl. of all the three forms of the sing.;] and اـُثُورٌmay be correctly used as a pl. (Sh, T, L.)       -A2-  &lt;i&gt;A mark made with a hot iron upon the inner&lt;/i&gt; [i. e. &lt;i&gt;under&lt;/i&gt;] &lt;i&gt;part of a camel&#39;s foot, by which to trace his footprints:&lt;/i&gt; (M, K:) pl. اُثُورٌ. (M.) [See also اُثْرَةٌ.]       -A3-  &lt;i&gt;Lustre,&lt;/i&gt; or &lt;i&gt;brightness,&lt;/i&gt; of the face; as also ↓ <br>\
+      اُثُرٌ. (M, K.)       -A4-  See اَثْرٌ.       -A5-  See also اـِثْرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n196&quot; key=&quot;اـِثْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِثْرٌ<br>\
+                     اثار<br>\
+                     اثر<br>\
+                     اثرى<br>\
+                     اـثر<br>\
+                     اثر<br>\
+                     ثار<br>\
+                     ثر<br>\
+                     ثري<br>\
+                     وثر<br>\
+                     آثر<br>\
+                  &lt;/form&gt;: see اَثَرٌ, in three places: ―         -b2-  and اَثْرٌ: ―         -b3-  and see ا=ثِرٌ, in two places.       -A2-  Also, (S, M, K,) and ↓ <br>\
+      اُثْرٌ, (M, K,) but the latter is disallowed by more than one authority, (TA,) &lt;i&gt;What is termed the&lt;/i&gt; <br>\
+                  خُلَاصَة[q. v.] &lt;i&gt;of clarified butter:&lt;/i&gt; (S, M, K:) or, as some say, the &lt;i&gt;milk when the clarified butter has become separated from it.&lt;/i&gt; (M.) [See also قِشْدَةٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n197&quot; key=&quot;اَثَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;A remain,&lt;/i&gt; or &lt;i&gt;relic,&lt;/i&gt; of a thing; (M, Msb, K;) as of a house; as also ↓ <br>\
+      اَثَارَةٌ: (Msb:) &lt;i&gt;a trace remaining&lt;/i&gt; of a thing; and of the stroke, or blow, of a sword: (S:) see also اُثْرٌ: &lt;i&gt;a sign, mark,&lt;/i&gt; or &lt;i&gt;trace;&lt;/i&gt; opposed to the عَيْن, or thing itself: (TA:) &lt;i&gt;a footstep, vestige,&lt;/i&gt; or &lt;i&gt;track; a footprint;&lt;/i&gt; the &lt;i&gt;impression,&lt;/i&gt; or &lt;i&gt;mark, made by the foot of a man&lt;/i&gt; [&lt;i&gt;&amp;amp;c.&lt;/i&gt;] &lt;i&gt;upon the ground;&lt;/i&gt; as also ↓ <br>\
+      اـِثْرٌ: and &lt;i&gt;an impress,&lt;/i&gt; or &lt;i&gt;impression,&lt;/i&gt; of anything: (El-Wá&#39;ee:) pl. ا=ثَارٌح(M, Msb, K) and اـُثُورٌ. (M, K.) [The sing. is also frequently used in a pl. sense: and the former of these pls. is often used to signify &lt;i&gt;Remains,&lt;/i&gt; or &lt;i&gt;monuments,&lt;/i&gt; or &lt;i&gt;memorials, of anti-&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;19&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;quity,&lt;/i&gt; or &lt;i&gt;of any past time.&lt;/i&gt;] It is said in a prov., لَا اَطْلُبُ اَثَرًا بَعْدَ عَيْنٍ<br>\
+                  &lt;i&gt;I will not seek a trace,&lt;/i&gt; or &lt;i&gt;vestige,&lt;/i&gt; [or, as we rather say in English, &lt;i&gt;a shadow,&lt;/i&gt;] &lt;i&gt;after&lt;/i&gt; suffering &lt;i&gt;a reality,&lt;/i&gt; or &lt;i&gt;substance,&lt;/i&gt; to escape me: or, as some relate it, لَا تَطْلُبْ<br>\
+                  &lt;i&gt;seek not thou.&lt;/i&gt; (Har pp. 120 and 174.) And one says, قَطَعَ اللّٰهُ اَثَرَهُ [&lt;i&gt;May God cut short his footsteps&lt;/i&gt;]: meaning may &lt;i&gt;God render him crippled:&lt;/i&gt; for when one is crippled, his footsteps cease. (TA.) And فُلَانٌ <br>\
+                  لَيَصْدُقُ اَثَرُهُ, and اَثَرَهُ, &lt;i&gt;Such a one,&lt;/i&gt; if asked, &lt;i&gt;will not tell thee truly whence he comes:&lt;/i&gt; (M in art. صدق:) a prov. said of a liar. (TA.) And خَرَجْتُ, (S, M, * K,) and جَيْتُ, (El-Wá&#39;ee, Msb,) فيِ اَثَرِهِ, and ↓, في اـِثْرِهِ, (T, S, M, Msb, K,) the former of which is said by more than one to be the more chaste, (TA,) [but the latter seems to be the more common,] and عَلَى اَثَرِهِ, and ↓ <br>\
+      على اـِثْرِهِ, (El-Wá&#39;ee, Msb,) &lt;i&gt;I went out,&lt;/i&gt; (S, &amp;amp;c.,) and &lt;i&gt;I came,&lt;/i&gt; (El-Wá&#39;ee, Msb,) &lt;i&gt;after him:&lt;/i&gt; (M, A, K:) or &lt;i&gt;at his heel:&lt;/i&gt; (Expos. of the Fs:) or &lt;i&gt;following near upon him,&lt;/i&gt; or &lt;i&gt;hard upon him,&lt;/i&gt; or &lt;i&gt;near after him,&lt;/i&gt; or &lt;i&gt;following him nearly:&lt;/i&gt; (Msb:) &lt;i&gt;as though treading in his footsteps.&lt;/i&gt; (El-Wá&#39;ee.) And اَثَرَ ذِى اَثِيرَيْنِ: see ا=ثِرٌ. (K.) ―         -b2-  &lt;i&gt;An impress&lt;/i&gt; or &lt;i&gt;impression, a mark, stamp, character,&lt;/i&gt; or &lt;i&gt;trace, in a fig. sense; an effect.&lt;/i&gt; (The Lexicons passim.) You say, عَلَى مَاشِيَتِهِ اَثَرٌ حَسَنٌ<br>\
+                  &lt;i&gt;Upon his camels,&lt;/i&gt; or &lt;i&gt;sheep,&lt;/i&gt; or &lt;i&gt;goats, is an impress of a good state,&lt;/i&gt; or &lt;i&gt;condition; of fatness, and of good tending;&lt;/i&gt; like اـِصْبَعٌ. (TA in art. صبع.) And اـِنَّهُ لَحَسَنُ الاَثَرِفِى <br>\
+                  مَالِهِ<br>\
+                  &lt;i&gt;Verily he has the impress of a good state,&lt;/i&gt; or &lt;i&gt;condition, in his camels,&lt;/i&gt; or &lt;i&gt;sheep,&lt;/i&gt; or &lt;i&gt;goats;&lt;/i&gt; like حَسَنُ الاـِصْبَعِ, and المَسِ. (TA ubi suprà.) And عَلَيْهِ اَثَرُ كَذَا<br>\
+                  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, bears the mark, stamp, character,&lt;/i&gt; or &lt;i&gt;trace, of such a thing.&lt;/i&gt; (The Lexicons passim.) ―         -b3-  [The pl.] ا=ثَارٌalso signifies &lt;i&gt;Signs,&lt;/i&gt; or &lt;i&gt;marks, set up to show the way.&lt;/i&gt; (K.) ―         -b4-  Also the sing., &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَثْرٌ, q. v. (M, L.) ―         -b5-  Also &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  خَبَرٌ [both of which words are generally held to be syn., as meaning &lt;i&gt;A tradition,&lt;/i&gt; or &lt;i&gt;narration relating or describing a saying or an action &amp;amp;c., of Mo- hammad&lt;/i&gt;]: (M, K:) or, accord. to some, the former signifies &lt;i&gt;what is related as received from&lt;/i&gt; [&lt;i&gt;one or more of&lt;/i&gt;] &lt;i&gt;the Companions of Mohammad;&lt;/i&gt; (TA;) but it may also be applied to &lt;i&gt;a saying of the Prophet;&lt;/i&gt; (Kull p. 152;) and the latter, what is from Mohammad himself; (TA;) or from another; or from him or another: (Kull p. 152:) or the former signifies &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  سُنَّةٌ[&lt;i&gt;a practice or saying,&lt;/i&gt; or the &lt;i&gt;practices and sayings collectively, of Mo- hammad, or any other person who is an authority in matters of religion, namely, any prophet, or a Companion of Mohammad, as handed down by tradition&lt;/i&gt;]: (S, A:) pl. ا=ثَارٌ. (S, M.) You say, وَجَدْتُهُ فِي الاَثَرِ[&lt;i&gt;I found it in the traditions of the practices and sayings of the Prophet; &amp;amp;c.&lt;/i&gt;]: and فُلَانٌ مِنْ حَمَلَةِ الا=ثَارِ[&lt;i&gt;Such a one is of those who bear in their memories, knowing by heart, the traditions of the practices and sayings of the Prophet;&lt;/i&gt; &amp;amp;c.]. (A.) ―         -b6-  A man&#39;s &lt;i&gt;origin;&lt;/i&gt; as in the sayings, مَا يُدْرَى لَهُ اَيْنَ اَثَرٌ<br>\
+                  &lt;i&gt;It is not known where was his origin;&lt;/i&gt; and مَا يُدْرَى لَهُ مَا اثَرٌ<br>\
+                  &lt;i&gt;It is not known what is his origin.&lt;/i&gt; (Ks, Lh, M.) ―         -b7-  The &lt;i&gt;term,&lt;/i&gt; or &lt;i&gt;period, of life:&lt;/i&gt; so called because it follows life: (Msb, TA:) or from the same word as signifying the print of one&#39;s foot upon the ground; because when one dies, his footprints cease to be seen. (TA.) ―         -b8-  [For the former of these two reasons,] ا=ثَارَهُمْin the Kur xxxvi. 11 means &lt;i&gt;The rewards and punishments of their good and evil lives.&lt;/i&gt; (M, L.)       -A2-  ا=ثَارٌis also a pl. of ثَاْرٌ, q. v.; formed by transposition from اَثْا=رٌ. (Yaa- Koob, and M in art. ثار.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n198&quot; key=&quot;اَثُرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثُرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;A man &lt;i&gt;who chooses for himself&lt;/i&gt; [in preference to his companions] (ISk, S, M, K) &lt;i&gt;good things,&lt;/i&gt; (K,) &lt;i&gt;in partition,&lt;/i&gt; (M, TA,) or &lt;i&gt;good actions, and qualities of the mind;&lt;/i&gt; (ISk, S;) as also ↓ <br>\
+      اَثِرٌ (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n199&quot; key=&quot;اَثِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثُرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n200&quot; key=&quot;اُثُرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُثُرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُثْرٌ, in two places: ―         -b2-  and see اَثْرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n201&quot; key=&quot;اَثُرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثُرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثَارَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n202&quot; key=&quot;اُثْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُثْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثَارَةٌ. ―         -b2-  &lt;i&gt;A mark which is made by the Arabs of the desert upon the inner&lt;/i&gt; [i. e. &lt;i&gt;under&lt;/i&gt;] &lt;i&gt;part of a camel&#39;s foot;&lt;/i&gt; as also ↓ <br>\
+      تَاْثُورٌ, and, accord. to some, ↓ <br>\
+      تُوْثُورَهُ, whence one says, رَاَيْتُ اُثْرَتَهُ, and ↓ <br>\
+      تُوْثُورَهُ, &lt;i&gt;I saw the place of his footsteps upon the ground:&lt;/i&gt; (M:) or the &lt;i&gt;abrasion of the inner&lt;/i&gt; [i. e. &lt;i&gt;under&lt;/i&gt;] &lt;i&gt;part of a camel&#39;s foot with the instrument of iron called&lt;/i&gt; <br>\
+                  مِيْثَرَة<br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  تُوْثُور, &lt;i&gt;in order that his footprints may be traced.&lt;/i&gt; (S.) [See also اُثْرٌ.] ―         -b3-  See also اَثْرٌ. ―         -b4-  And see مَاْثُرَةٌ. ―         -b5-  &lt;i&gt;Preference.&lt;/i&gt; (A.) You say, لَهُ عِنْدِى اُثْرَةٌ<br>\
+                  &lt;i&gt;He has a preference in my estimation.&lt;/i&gt; (A.) And هُوَ ذُو اُثْرَةٍ عِنْدَ الاَمِيرِ<br>\
+                  &lt;i&gt;He has a preference in the estimation of the prince,&lt;/i&gt; or &lt;i&gt;commander.&lt;/i&gt; (A.) And فُلَانٌ ذُو اُثْرَةٍ عِنْدَ فُلَانٍ, (TA,) or ↓ <br>\
+      اَثَرَةٍ, (T,) &lt;i&gt;Such a one is a favourite with such a one.&lt;/i&gt; (T, TA.) See also اَثَرَةٌ, in two places. ―         -b6-  اُثْرَةَ ذِى اَثِيرٍ: see ا=ثِرٌ.       -A2-  &lt;i&gt;Dearth, scarcity, drought,&lt;/i&gt; or &lt;i&gt;sterility,&lt;/i&gt; (جَدْبٌ[in the CK جَذْب],) &lt;i&gt;and an unpleasant state&lt;/i&gt; or &lt;i&gt;condition.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n203&quot; key=&quot;اـِثْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِثْرَةٌ<br>\
+                     اثار<br>\
+                     اثر<br>\
+                     اثرى<br>\
+                     اثره<br>\
+                     اثرة<br>\
+                     اـثر<br>\
+                     اـثره<br>\
+                     اثره<br>\
+                     اثرة<br>\
+                     ثار<br>\
+                     ثر<br>\
+                     ثري<br>\
+                     وثر<br>\
+                     آثر<br>\
+                     آثره<br>\
+                  &lt;/form&gt;: see اَثَرَةٌ. ―         -b2-  اـِثْرَةً: see ا=ثِرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n204&quot; key=&quot;اَثَرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثَارَةٌ. ―         -b2-  A subst. [signifying The &lt;i&gt;appropriation of a thing or things to oneself exclusively:&lt;/i&gt; the &lt;i&gt;having a thing to oneself, with none to share with him in it:&lt;/i&gt;] from اِسْتَاْثَرَ بِالشَّىْءِ. (S, M.) And, as also ↓ <br>\
+      اُثْرَةٌand ↓ <br>\
+      اـِثْرَةٌand ↓ <br>\
+      اـُثْرَى, The &lt;i&gt;choice for oneself&lt;/i&gt; [in preference to his companions] &lt;i&gt;of good things,&lt;/i&gt; (M, * K, * TA,) &lt;i&gt;in partition;&lt;/i&gt; (M, TA;) the &lt;i&gt;choice and preference of the best of things, and taking it,&lt;/i&gt; or &lt;i&gt;them, for oneself:&lt;/i&gt; (TA:) the pl. of the second is اُثَرٌ. (TA.) You say, اَخَذَهُ بِلَا اَثَرَةٍ, and ↓ <br>\
+      بلا اُثْرَةٍ, [&amp;amp;c.,] &lt;i&gt;He took it without a choice and preference of the best of the things, and the taking the best for himself.&lt;/i&gt; (T, TA.) And a poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَقُلْتَ لَهُ يَا ذِيْبُ هَلْ لَكَ فىِ اَخٍ<br>\
+                     &lt;L&gt;<br>\
+                        عَلَيْكَ وَلَا بُخْلِ ↓ <br>\
+      يُوَاسِي بِلَا اُثْرَي <br>\
+                  &lt;/quote&gt; [&lt;i&gt;And I said to him, O wolf, hast thou a desire for a brother who will share without choice of the best things for himself in preference to thee, and without niggardness?&lt;/i&gt;]. (M, TA.) See also اُثْرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n205&quot; key=&quot;اُثْرَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُثْرَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثَرَةٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n206&quot; key=&quot;اَثِيرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثِيرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثَرَةٌ. ―         -b2-  [&lt;i&gt;That makes a large footprint,&lt;/i&gt; or &lt;i&gt;the like.&lt;/i&gt;] You say, دَابَّةٌ اَثِيَرةٌ<br>\
+                  &lt;i&gt;A beast that makes a large footprint upon the ground with its hoof,&lt;/i&gt; (AZ, S, M, K,) or &lt;i&gt;with its soft foot, such as that of the camel.&lt;/i&gt; (AZ, S.) ―         -b3-  A man &lt;i&gt;possessing power and authority; honoured:&lt;/i&gt; pl. اُثَرَا=ءُ: fem. اَثِيرَةٌ. (M.) ―         -b4-  فُلَانٌ اَثِيرِى<br>\
+                  &lt;i&gt;Such a one is my particular friend:&lt;/i&gt; (S, K:) or &lt;i&gt;is the person whom I prefer.&lt;/i&gt; (A.) فُلَانٌ اَثِيرٌعِنْدَ فُلَانٍ<br>\
+                  &lt;i&gt;Such a one is a favourite with such a one.&lt;/i&gt; (T.) ―         -b5-  ا=ثِرَ ذِى اَثِيرٍ, and اَوَّلَ <br>\
+                  ذِى اَثِيرٍ, &amp;amp;c.: see ا=ثِرٌ. ―         -b6-  شَىْءٌ كَثِيرٌ اَثِيرٌ[&lt;i&gt;A thing very abundant, copious,&lt;/i&gt; or &lt;i&gt;numerous&lt;/i&gt;]: اثيرis here an imitative sequent, (S, K, *) like بَثِيرٌ. (S.)       -A2-  الاَثِيرُ [       <br>\
+      &lt;orth lang=&quot;gr&quot;&gt;ὁ αἰθήρ&lt;/orth&gt;, &lt;i&gt;The ether;&lt;/i&gt;] &lt;i&gt;the ninth, which is the greatest, sphere, which rules over&lt;/i&gt; [&lt;i&gt;all&lt;/i&gt;] &lt;i&gt;the other spheres:&lt;/i&gt; [said to be] so called because it affects the others (يُوَثِرُ فِى غَيْرِهِ). (MF.) [It is also called فَلَكُ الاَطْلَسِ, and فَلَكُ العَرْشِ; and is said to be next above that called فَلَكُ الكُرْسِىِّ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n207&quot; key=&quot;اَثَارَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَارَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثَرٌ. You say, سَمِنَتِ الاـبِلُ عَلَى اَثَارَةٍ, (S, M, *) or على اَثَارَةٍ مِنْ شَحْمٍ, (A,) &lt;i&gt;The camels acquired fat, upon,&lt;/i&gt; or &lt;i&gt;after, remains of fat.&lt;/i&gt; (S, M, * A.) And غَضِبَ عَلَي اَثَارَةٍ قِبْلَ ذَاكَ <br>\
+                  &lt;i&gt;He became angry the more, having been angry before that.&lt;/i&gt; (Lh, M.) And اَغْضَبَنِي فُلَانٌ عَلَى اَثَارَةِ غَضَبٍ <br>\
+                  &lt;i&gt;Such a one angered me when anger yet remained in me.&lt;/i&gt; (A.) And اَثَارَةٌ مِنْ عِلْمٍ, and ↓ <br>\
+      اَثَرَةٌ, (T, S, M, K,) and ↓ <br>\
+      اُثْرَةٌ, (M, K,) or ↓ <br>\
+      اَثْرَةٌ, (T,) the first of which is the most approved, (M,) and is [originally] an inf. n., [see اَثَرَ الا=حَدِيثَ,] (T,) signify &lt;i&gt;A remain,&lt;/i&gt; or &lt;i&gt;relic, of knowledge,&lt;/i&gt; (Zj, T, S, M, K, and Jel in xlvi. 3 of the Kur,) &lt;i&gt;transmitted,&lt;/i&gt; or &lt;i&gt;handed down,&lt;/i&gt; (K, Jel,) &lt;i&gt;from the former generations:&lt;/i&gt; (Jel:) or &lt;i&gt;what is transmitted,&lt;/i&gt; or &lt;i&gt;handed down, of knowledge:&lt;/i&gt; (Zj, M:) or &lt;i&gt;somewhat transmitted from the writings of the former generations:&lt;/i&gt; (TA:) by the knowledge spoken of [in the Kur ubi suprà] is meant that of writing, which was given to certain of the prophets. (I&#39;Ab.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n208&quot; key=&quot;ا=ثِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=ثِرٌ<br>\
+                     ا=ثر<br>\
+                  &lt;/form&gt;One &lt;i&gt;who relates,&lt;/i&gt; or &lt;i&gt;recites, a tradition, narrative,&lt;/i&gt; or &lt;i&gt;story,&lt;/i&gt; or &lt;i&gt;traditions, &amp;amp;c., as received,&lt;/i&gt; or &lt;i&gt;heard, from another,&lt;/i&gt; or &lt;i&gt;others; a narrator thereof.&lt;/i&gt; (T, S, * L.) The saying of &#39;Omar, on his being forbidden by Mohammad to swear by his father, مَا حَلَفْتُ بِهِ ذَاكِراً وَلَا ا=ثِرًا, means &lt;i&gt;I did not swear by him uttering&lt;/i&gt; (&lt;i&gt;the oath&lt;/i&gt;) &lt;i&gt;as proceeding in the first instance from myself, nor repeating&lt;/i&gt; (&lt;i&gt;it&lt;/i&gt;) &lt;i&gt;as heard from another particular person.&lt;/i&gt; (A&#39;Obeyd, T, S, TA.) ―         -b2-  اَفْعَلُ هذَا ا=ثِرًا مَّا, (IAar, T, S, K,) and ا=ثِرًاwithout ما, (IAar, T,) and ↓ <br>\
+      ا=ثِرَ ذِى اَثِيرٍ, (S, K,) mean &lt;i&gt;I will do this the first of every thing.&lt;/i&gt; (S, K. *) And in like manner, after لَقِيتُهُ[&lt;i&gt;I met him,&lt;/i&gt; or &lt;i&gt;it&lt;/i&gt;], one says, ا=ثِرًا مَّا, [and ↓ <br>\
+      ا=ثِرَ ذِى اَثِيرٍ,] and ↓ <br>\
+      اَوَّلَ ذِى اَثِيرٍ, (M, K,) and &lt;pb n=&quot;20&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  ا=ثِرَ ذَاتِ يَدِى, (M,) or ذَاتِ يَدَيْنِ, (K,) and ذِى يَدَيْنِ, (IAar, M, K,) and ↓ <br>\
+      اَثِيرَةَ ذِى اَثِيرٍ, and ↓ <br>\
+      ذِى اثِيرَيْنِ ↓ <br>\
+      اـُثْرَةَ, (K,) and ↓ <br>\
+      ا=ثِرَ ذِى اَثِيرَيْنِ, (M, as from Lh,) or ↓ <br>\
+      ذِى اَثِيرَيْنِ ↓ <br>\
+      اَثَرَ, (K,) and ↓ <br>\
+      ذِى اَثِيرَيْنِ, ↓ <br>\
+      اـِثْرَ and مَّا ↓ <br>\
+      اـِثْرَةً : (Lh, M, K:) or, as some say, ↓ <br>\
+      الاَثِيرُsignifies &lt;i&gt;the daybreak,&lt;/i&gt; or &lt;i&gt;down;&lt;/i&gt; and ↓ <br>\
+      ذُو اَثِيرٍ, &lt;i&gt;the time thereof.&lt;/i&gt; (M, TA.) Fr says that اِبْدَاْ بِهذَا ا=ثِرًا مَّا, and ↓ <br>\
+      ا=ثِرَ ذِى اَثِيرٍ, and ↓ <br>\
+      اَثِيرَ ذِى اَثِيرٍ, signify &lt;i&gt;Begin thou with this first of every thing.&lt;/i&gt; (TA.) One says also, اِفْعَلْهُ, ا=ثِرًا مَّا, (T, M, TA,) and مَّا ↓ <br>\
+      اـِثْرًا, (M, TA,) meaning &lt;i&gt;Do thou it&lt;/i&gt; [&lt;i&gt;at least&lt;/i&gt;], &lt;i&gt;if thou do nothing else:&lt;/i&gt; (T, M, TA:) or, as some say, &lt;i&gt;do thou it in preference to another thing,&lt;/i&gt; or &lt;i&gt;to other things:&lt;/i&gt; <br>\
+                  ماbeing redundant, but [in this case] not to be omitted, because [it is a corroborative, and] the meaning of the phrase is, do thou it by choice, or preference, and with care. (M, TA.) Mbr says that the phrase خُذْ هذَا ا=ثِرًا مَّاmeans &lt;i&gt;Take thou this in preference;&lt;/i&gt; i. e., I give it thee in preference; as though one desired to take, of another, one thing, and had another thing offered to him for sale: and ماis here redundant. (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n209&quot; key=&quot;تَاْثُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْثُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=ُثْرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n210&quot; key=&quot;تُوْثُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُوْثُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=ثْرَةٌ, in two places: and see مِيْثَرَةٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n211&quot; key=&quot;مَاثُرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاثُرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;(T, S, M, K, &amp;amp;c.) and مَاْثَرَةٌ(S, M, K) and ↓ <br>\
+      اُثْرَةٌ(M, K) &lt;i&gt;A generous quality&lt;/i&gt; or &lt;i&gt;action;&lt;/i&gt; (AZ, S;) so called because related, or handed down, by generation from generation: (S:) or &lt;i&gt;a generous quality that is inherited by generation from generation:&lt;/i&gt; (M, K:) &lt;i&gt;a generous quality,&lt;/i&gt; or &lt;i&gt;action, related,&lt;/i&gt; or &lt;i&gt;handed down by tradition from one&#39;s ancestors:&lt;/i&gt; (A:) &lt;i&gt;a cause of glorying:&lt;/i&gt; (AZ:) and &lt;i&gt;precedence in&lt;/i&gt; <br>\
+                  اُثْرَةٌ[or &lt;i&gt;grounds of pretension to respect,&lt;/i&gt; &amp;amp;c.]: pl. of the first and second, حَسَب. (AZ, T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n212&quot; key=&quot;مِيْثَرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْثَرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;and ↓ <br>\
+      تُوْثُورٌ<br>\
+                  &lt;i&gt;An iron instrument&lt;/i&gt; (S, M, K) &lt;i&gt;with which the bottom of a camel&#39;s foot is marked, in order that his footprints upon the ground may be known:&lt;/i&gt; (M:) or, &lt;i&gt;with which the inner&lt;/i&gt; [i. e. &lt;i&gt;under&lt;/i&gt;] &lt;i&gt;part of a camel&#39;s foot is scraped, in order that his footprints may be traced:&lt;/i&gt; (S, K:) or ↓ <br>\
+      توثورhas a different meaning, explained above, voce اُثْرَةٌ. (M.) The مِيثَرَةof a horse&#39;s saddle is without hemz. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n213&quot; key=&quot;مَاْثُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْثُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;A camel &lt;i&gt;having a mark made upon the bottom of his foot with the iron instrument called&lt;/i&gt; <br>\
+                  مِيْثَرَة, &lt;i&gt;in order that his footprints upon the ground may be known:&lt;/i&gt; (T:) or &lt;i&gt;having the inner&lt;/i&gt; [i. e. &lt;i&gt;under&lt;/i&gt;] &lt;i&gt;part of his foot scraped with that instrument, in order that his footprints may be traced.&lt;/i&gt; (S.) ―         -b2-  A sword &lt;i&gt;having in its&lt;/i&gt; <br>\
+                  مَتْن[or &lt;i&gt;broad side;&lt;/i&gt; or &lt;i&gt;the middle of the broad side, of the blade,&lt;/i&gt;] &lt;i&gt;diversified wavy marks, streaks,&lt;/i&gt; or &lt;i&gt;grain,&lt;/i&gt; or &lt;i&gt;lustre&lt;/i&gt; or &lt;i&gt;glitter:&lt;/i&gt; (M, K: [in some copies of the latter of which, instead of اَثْرٌ, I find اَثَرٌ:]) or &lt;i&gt;having its&lt;/i&gt; <br>\
+                  متن<br>\
+                  &lt;i&gt;of female,&lt;/i&gt; or &lt;i&gt;soft, iron, and its edge of male iron,&lt;/i&gt; or &lt;i&gt;steel:&lt;/i&gt; (K:) or &lt;i&gt;that is said to be of the fabric of the jinn,&lt;/i&gt; or &lt;i&gt;genii;&lt;/i&gt; (S, M, K*) and not from الاَثْر, as signifying الفِرِنْد: (S, M:) so says As: (S:) [ISd says,] ماثورis in my opinion a pass. part. n. that has no verb: (M:) or it signifies an &lt;i&gt;ancient&lt;/i&gt; sword, &lt;i&gt;which has passed by inheritance from great man to great man.&lt;/i&gt; (A.) ―         -b3-  A tradition, narrative, or story, &lt;i&gt;handed down from one to another, from generation to generation.&lt;/i&gt; (T, S, A.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'نأد1<br>\
+نَأَدَتْهُ دَاهِيَةٌ, (aor.<br>\
+نَاَ^َ, A, inf. n. نَأْدٌ, L,) A<br>\
+calamity befell him: (K:) or pressed heavily upon<br>\
+him, and distressed him. (A.) ―<br>\
+-b2-  See نَأَتَ.<br>\
+نَآدٌ and ↓ نَآدَى (S, L. K) and ↓ نَؤُودٌ (L, K) A<br>\
+calamity: (S, L, K:) pl. of the second, ??.<br>\
+(L.) ―<br>\
+-b2-  دَاهِيَةٌ نَآدٌ, and ↓ نَآدَى, and ↓ نَؤُودٌ, (A, L,)<br>\
+A calamity that presses heavily, and distresses. (A.)<br>\
+نَآدَى: see نَآدٌ.<br>\
+نَؤُودٌ: see نَآدٌ.<br>\
+' } );

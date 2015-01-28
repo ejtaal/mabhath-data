@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'ربت1<br>\
+رَبَتَ: see 2.<br>\
+-A2-  رَبِتَ, aor.<br>\
+رَبَتَ, (TK,) inf. n.<br>\
+رَبَتٌ, (K,) It (a thing, TK) was, or became,<br>\
+closed; syn. اِسْتَغْلَقَ. (K, TK.)<br>\
+2<br>\
+ربّت, (T, S, M,) inf. n. تَرْبِيتٌ, (T, S, K,)<br>\
+He fed, nourished, reared, or brought up, (T, S,<br>\
+M, K,) a child; (T, * S, M;) syn. رَبَّى; (T, S, M,<br>\
+K;) as also ↓ رَبَتَ, (M,) aor.<br>\
+رَبِتَ, (TK,) inf. n.<br>\
+رَبْتٌ; (K;) and ↓ تربّت. (TA, and Ham p. 633.)<br>\
+―<br>\
+-b2-  And ربّت, (TK,) inf. n. as above, (K,) He<br>\
+patted a child (K, TA, TK) repeatedly (TA) on<br>\
+the side in order that it might sleep. (K, TA,<br>\
+TK.) [See رَبَّتِ المَرْأَةُ صَبِيَّهَا, in art. رب.]<br>\
+5<br>\
+تَرَبَّتَ see 2.<br>\
+رُبَتَ &amp;c.: see رُبَّ, in art. رب.<br>\
+رُبَّتَ &amp;c.: see رُبَّ, in art. رب.<br>\
+' } );

@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'كوز1<br>\
+كَازَ, aor. يَكُوزُ, (TA,) inf. n. كَوْزٌ, (K,) He<br>\
+collected a thing. (K *, TA.)<br>\
+-A2-  He drank with<br>\
+a كُوز; (K, * TA;) as also ↓ اكتاز. (TA.)<br>\
+5<br>\
+تكوّزوا They collected themselves together.<br>\
+(Sgh, K.)<br>\
+8<br>\
+اكتازهُ He ladled it out (namely water,<br>\
+S, A) with a كُوز. (S, A, K.) ―<br>\
+-b2-  See also 1.<br>\
+كُوزٌ A kind of vessel, (TA,) well-known, (A,<br>\
+K,) [namely, a mug, or drinking-cup,] with a<br>\
+handle: (IAar, TA:) AHn says, that it is a<br>\
+Persian word; but ISd denies this, and asserts<br>\
+it to be genuine Arabic: it is said to be from<br>\
+كَازَ “ he collected: ” (TA:) pl. [of pauc.] أَكْوَازٌ,<br>\
+and [of mult.] كِيزَانٌ and كِوَزَةٌ. (S, K.)<br>\
+كَوَّازَةٌ [app. A stand, or a shelf, upon which<br>\
+mugs (كِيزَان) are placed: see بَرَّادَةٌ]. (Lth, T,<br>\
+art. برد.)<br>\
+رَجُلٌ مُكَوَّزُ الرَّأْسِ A man having a long head.<br>\
+(A, K.)<br>\
+' } );

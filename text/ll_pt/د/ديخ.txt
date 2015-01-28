@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ديخ</em>            1                  ديخ<br>\
+<b>ديّخ</b>               1     <br>\
+                     ديّخ<br>\
+                     ديخ<br>\
+                  , inf. n. تَدْيِيخٌ: see 2 in art. دوخ, in two places.   </entryFree> <br>\
+' } );

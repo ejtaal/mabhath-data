@@ -1,0 +1,48 @@
+load_data( { book: 'll_pt', text: '<em>طح</em>            1                  طح<br>\
+<b>طَحَّهُ</b>               1     <br>\
+                     طَحَّهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     طَحُ٣َ<br>\
+                  , (S, O,) inf. n. طَحٌّ, (S, O, K,) <i>He scraped it with his heel so as to remove its superficial part; grazed it with his heel:</i> (S, O, K: *) or <i>he put his heel upon it and then so scraped it.</i> (TA.) ―         -b2-  And <i>He spread it,</i> or <i>expanded it.</i> (IDrd, O, K.)    </entryFree> <br>\
+<b>اطحّهُ</b>               1     <br>\
+                     اطحّهُ<br>\
+                     ذ<br>\
+                  <i>He made it to fall, threw it down,</i> or <i>let it fall:</i> and <i>he threw it.</i> (Fr, O, K.)    </entryFree> <br>\
+<b>انطحّ</b>               1     <br>\
+                     انطحّ<br>\
+                     ذ<br>\
+                  <i>It</i> (a thing, O) <i>became spread</i> or <i>expanded;</i> or <i>it spread,</i> or <i>expanded, itself.</i> (O, K.)    </entryFree> <br>\
+<b>طَحْطَحَ بِهِمْ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     طَحْطَحَ بِهِمْ<br>\
+                     ذ<br>\
+                  , (S, O,) inf. n. طَحْطَحَةٌ and طِحْطَاحٌ, (S,) <i>He dispersed,</i> or <i>scattered, them,</i> (S, O, TA,) <i>destroying them:</i> (TA:) or <i>he dispersed,</i> or <i>scattered, them, and overcame them.</i> (IF, O.) And طَحْطَحَهُ <br>\
+                  <i>He dispersed,</i> or <i>scattered, it, destroying it:</i> (Lth, TA:) or <i>he destroyed it:</i> (IDrd, O:) and <i>he broke it:</i> (S, O:) or <i>he broke it, destroying it:</i> (TA:) and <i>he dispersed,</i> or <i>scattered, it.</i> (S, O.) And طَحْطَحَهُمْ, said of time, or fortune, <i>It destroyed them;</i> and <i>dispersed,</i> or <i>scattered, them.</i> (A.) And طَحْطَحَ <br>\
+                  مَالَهُ <br>\
+                  <i>He dispersed,</i> or <i>scattered, his property.</i> (A.)       -A2-  And طَحْطَحَ <br>\
+                  <i>He laughed slightly:</i> (K:) or so طَحْطَحَ فِى ضَحِكِهِ; (TA;) which means the same as طَهْطَهَ and كَتْكَتَ (O, TA) and طَخْطَخَ and كَدْكَدَ and كَرْكَرَ. (TA.)    </entryFree> <br>\
+<b>طُحُحٌ</b>               1     <br>\
+                     طُحُحٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مَسَاحِجُ [pl. of مَسْحَجٌ and of مَسْحَجٌ: see these two words]. (IAar, O, K.)    </entryFree> <br>\
+<b>طَحَّانُ</b>               1     <br>\
+                     طَحَّانُ<br>\
+                     ذ<br>\
+                   [<i>A grinder</i> of corn &amp;amp;c. <i>with a mill</i>] is said by Ks to be of the measure فَعْلَانُ from [the inf. n.] الطَّحُّ. (O, TA.) [But see art. طحن.]    </entryFree> <br>\
+<b>مَا عَلَى رَاْسِهِ طِحْطِحَةٌ</b>               1     <br>\
+                     مَا عَلَى رَاْسِهِ طِحْطِحَةٌ<br>\
+                     ذ<br>\
+                   means <i>There is not upon his head a single hair:</i> so says AZ: Lh says, اَتَانَا وَمَا عَلَيْهِ طِحْطِحَةٌ <br>\
+                  <i>He came to us not having upon him anything:</i> (O:) or the last word in ما عليه طحطحة signifies <i>anything:</i> or <i>any hair.</i> (K.) [See also طِحْلِبَةٌ.]    </entryFree> <br>\
+<b>الطَّحْطَاحُ</b>               1     <br>\
+                     الطَّحْطَاحُ<br>\
+                     ذ<br>\
+                  <i>The lion.</i> (IDrd, O, K.)    </entryFree> <br>\
+<b>مِطَحَّةٌ</b>               1     <br>\
+                     مِطَحَّةٌ<br>\
+                     ذ<br>\
+                   The <i>hinder part of the hoof of a sheep</i> or <i>goat:</i> (Lth, IAar, O, K:) or <i>a thing resembling a</i> <br>\
+                  فَلْكَة [generally meaning the <i>whirl of a spindle</i>], <i>in its foot, with which it scrapes the ground:</i> (Th, O, K:) Lth says that, beneath its hoof, in the place of the مِطَحَّة, is a little bone like the فَلْكَة. (O.)   </entryFree> <br>\
+' } );

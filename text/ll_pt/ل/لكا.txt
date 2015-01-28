@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>لكا</em>            1                  لكا<br>\
+<b>لَكَاَ</b>               1     <br>\
+                     لَكَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَكَاَ<br>\
+                  , (K,) inf. n. لَكْءٌ, (TA,) <i>He beat</i> a person (K) with a whip. (TA.) ―         -b2-  لَكَاَ بِهِ الاَرْضَ <br>\
+                  <i>He cast him upon the ground.</i> (AZ, S.) [See زَكَاَ, and لَتَاَ.] ―         -b3-  لَكَاَهُ <br>\
+                  <i>He prostrated him.</i> (K.)       -A2-  لَكَاَهُ <br>\
+                  <i>He gave him the whole of what was due to him:</i> (K:) like لَفَاَهُ. (T.)       -A3-  لَكِيَ, aor.      <br>\
+                     لَكَاَ<br>\
+                  , <i>He stayed, dwelt,</i> or <i>abode,</i> (K,) in a place: like لَكِىَ. (TA.) لكي بِمَوْضِعٍ <br>\
+                  <i>He kept,</i> or <i>remained fixed, in a place.</i> (K, * TA.)    </entryFree> <br>\
+<b>تلكّا عَلَيْهِ</b>               1     <br>\
+                     تلكّا عَلَيْهِ<br>\
+                     ذ<br>\
+                  <i>He excused himself to him; he pleaded an excuse to him.</i> (K.) ―         -b2-  تلكّا عَنْهُ <br>\
+                  <i>He was slow to do it; delayed to do it;</i> (S, K, TA;) <i>excused himself,</i> or <i>pleaded an excuse, for not doing it; refused to do it,</i> or <i>abstained from doing it.</i> (TA.)   </entryFree> <br>\
+' } );

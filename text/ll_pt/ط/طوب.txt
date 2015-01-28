@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>طوب</em>            1                  طوب<br>\
+<b>طُوبٌ</b>               1     <br>\
+                     طُوبٌ<br>\
+                     ذ<br>\
+                  <i>Baked bricks;</i> syn. ا=جُرٌّ: (S, O, Msb, K:) n. un. with ة: so says Az, and El-Fárábee says the like; and accord. to them it seems to be [genuine] Arabic: accord. to IDrd, it is of the dial. of Syria; but [Fei adds] I think it to be of the dial. of Room: (Msb:) or it is of the dial. of Egypt: (S, O:) [probably of Coptic origin. It is mentioned in the S and K in art. طيب.]    </entryFree> <br>\
+<b>اَوْبَةً وَطَوْبَةً</b>               1     <br>\
+                     اَوْبَةً وَطَوْبَةً<br>\
+                     ذ<br>\
+                  , [the latter word] meaning الطِّيبَ, [and both together <i>A return and perfume,</i>] is a phrase which one says to the person entering and to him coming [as though he who said this meant I experience a return that is to me like perfume]. (O.)    </entryFree> <br>\
+<b>طُوبَى</b>               1     <br>\
+                     طُوبَى<br>\
+                     ذ<br>\
+                  : see art. طيب.    </entryFree> <br>\
+<b>طَوَّابٌ</b>               1[     <br>\
+                     طَوَّابٌ<br>\
+                     ذ<br>\
+                  <i>A baker of bricks:</i> from طُوبٌ: mentioned by Golius, in art. طيب, as occurring in the Hist. Sar.: and it is used in this sense in the present day.]   </entryFree> <br>\
+' } );

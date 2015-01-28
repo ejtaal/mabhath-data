@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'لهلأQ. 2<br>\
+تَلَهْلَأَ He desisted through timidity, and<br>\
+was cowardly. (T, K. Mentioned in the T<br>\
+among the class of quinqueliterals, TA.)<br>\
+لهم لهن لهو لو<br>\
+See Supplement<br>\
+' } );

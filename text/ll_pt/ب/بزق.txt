@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>بزق</em>            1                  بزق<br>\
+<b>بَزَقَ</b>               1     <br>\
+                     بَزَقَ<br>\
+                     بزق<br>\
+                     زق<br>\
+                  , (S, Msb, K,) aor.      <br>\
+                     بَزُقَ<br>\
+                  , (Msb, TA,) inf. n. بَزْقٌ, (S, TA,) or بُزَاقٌ, (Msb,) [but see the latter below,] <i>i. q.</i> <br>\
+                  بَصَقَ (S, * Msb) or بَسَقَ (K) [<i>He spat:</i> see also 5]: but it is of weak authority, or rare; the most chaste being بصق. (TA in art. بسق.)       -A2-  بَزَقَ الاَرْضَ <br>\
+                  <i>He sowed the land:</i> (Az, K:) of the dial. of El-Yemen. (TA.)       -A3-  بَزَقَتِ الشَّمْسُ <br>\
+                  <i>i. q.</i> <br>\
+                  بَزَغَت; (Az, K;) so in a trad., meaning <i>The sun rose:</i> the latter is that which is [commonly] known; but the former may be a dial. var.;  though the right reading seems to be بَزَقَت. (Az, TA.)    </entryFree> <br>\
+<b>ابزقت</b>               1     <br>\
+                     ابزقت<br>\
+                     ابزقت<br>\
+                  <i>She</i> (namely, a ewe, JK, or a camel, K) <i>excerned the milk</i> [or <i>biestings into her udder before bringing forth</i>]; (Yz, JK, K, TA;) <i>i. q.</i> <br>\
+                  ابسقت [q. v.]. (TA.)    </entryFree> <br>\
+<b>تبزّق</b>               1     <br>\
+                     تبزّق<br>\
+                     بزق<br>\
+                     تبزق<br>\
+                  <i>He ejected his spittle,</i> as the faster is commanded to do. (Mgh.)    </entryFree> <br>\
+<b>بُزَاقٌ</b>               1     <br>\
+                     بُزَاقٌ<br>\
+                     بزاق<br>\
+                   is well known; (K;) <i>i. q.</i> <br>\
+                  بُصَاقٌ [<i>Spittle,</i> or <i>saliva, when it has gone forth from the mouth</i>]: (S:) or <i>saliva that flows.</i> (TA in art. رضب.) [See also 1.]    </entryFree> <br>\
+<b>مِبْزَقَةٌ</b>               1     <br>\
+                     مِبْزَقَةٌ<br>\
+                     مبزقه<br>\
+                     مبزقة<br>\
+                  <i>A spittoon,</i> or <i>vessel in which to spit;</i> syn. مِتْفَلَةٌ. (TA in art. تفل.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>نمغ</em>            1                  نمغ<br>\
+<b>نَمَّاغَةٌ</b>               1     <br>\
+                     نَمَّاغَةٌ<br>\
+                     ذ<br>\
+                   The <i>upper part of the head:</i> and also the <i>part that is in a state of commotion, of the</i> <br>\
+                  يَاْفُوخ <br>\
+                  <i>of a child, before it becomes hard.</i> (L, TA.) See also يَاْفُوخٌ.   </entryFree> <br>\
+' } );

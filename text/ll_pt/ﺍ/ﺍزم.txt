@@ -1,0 +1,121 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ازم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ازم<br>\
+&lt;entryFree id=&quot;n693&quot; key=&quot;اَزَمَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَزَمَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِمَ<br>\
+                  &lt;/form&gt;, inf. n. اَزْمٌ and اُزُومٌ, &lt;i&gt;He bit with the whole mouth, vehemently:&lt;/i&gt; (K:) or &lt;i&gt;with the canine teeth:&lt;/i&gt; or you say, اَزَمَهُ, and اَزَمَ عَلَيْهِ, meaning &lt;i&gt;he bit it, and then repeated&lt;/i&gt; [&lt;i&gt;the action&lt;/i&gt;] &lt;i&gt;upon it, not letting it go:&lt;/i&gt; or &lt;i&gt;he seized upon it with his mouth:&lt;/i&gt; (TA:) or اَزَمَهُ signifies [simply] &lt;i&gt;he bit it:&lt;/i&gt; (S:) and اَزَمَ عَلَيْهِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِمَ<br>\
+                  &lt;/form&gt;, inf. n. اَزْمٌ; and اَزِمَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزَمَ<br>\
+                  &lt;/form&gt;, inf. n. اَزَمٌ; &lt;i&gt;the same;&lt;/i&gt; or &lt;i&gt;he seized,&lt;/i&gt; or &lt;i&gt;took hold, upon it with his teeth:&lt;/i&gt; (Msb:) and اَزَمْتُ يَدَ الرَّجُلِ <br>\
+                  &lt;i&gt;I bit the arm,&lt;/i&gt; or &lt;i&gt;hand, of the man most vehemently.&lt;/i&gt; (TA.) اَزَمَ بِهَا occurs in a trad. as meaning &lt;i&gt;He bit it,&lt;/i&gt; (referring to a ring of a coat of mail,) &lt;i&gt;and held it between two of his central teeth.&lt;/i&gt; (AO.) And in another trad., اَزَمَ <br>\
+                  فِي يَدِهِ, meaning &lt;i&gt;He bit his arm,&lt;/i&gt; or &lt;i&gt;hand.&lt;/i&gt; (TA.) And you say, اَزَمَ الفَرَسُ عَلَى فَاْسِ اللِّجَامِ <br>\
+                  &lt;i&gt;The horse seized&lt;/i&gt; [&lt;i&gt;with his teeth,&lt;/i&gt; or &lt;i&gt;champed,&lt;/i&gt;] &lt;i&gt;upon the&lt;/i&gt; <br>\
+                  فاس [q. v.] &lt;i&gt;of the bit.&lt;/i&gt; (K.) And اَزْمٌ signifies also The &lt;i&gt;cutting with the canine tooth,&lt;/i&gt; and &lt;i&gt;with a knife,&lt;/i&gt; (K,) and &lt;i&gt;with other things.&lt;/i&gt; (TA.) ―         -b2-  [And hence,] اَزَمَ عَلَيْنَا, (S, Msb, * K, *) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِمَ<br>\
+                  &lt;/form&gt;, inf. n. اَزْمٌ (S) and اُزُومٌ, (TA,) said of a time, (S, Msb,) or a year, (K,) &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, distressful,&lt;/i&gt; or &lt;i&gt;afflictive, to us,&lt;/i&gt; [&lt;i&gt;as though it bit us,&lt;/i&gt;] &lt;i&gt;by drought, dearth,&lt;/i&gt; or &lt;i&gt;scarcity;&lt;/i&gt; (S, Msb, K;) &lt;i&gt;and scant in its good things;&lt;/i&gt; (S;) as also اَزِمَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزَمَ<br>\
+                  &lt;/form&gt;, inf. n. اَزَمٌ. (Msb.) And اَصَابَتْهُمْ سَنَةٌ <br>\
+                  اَزَمَتْهُمْ, (S, K, *) inf. n. اَزْمٌ, (S,) &lt;i&gt;A year,&lt;/i&gt; or &lt;i&gt;year of dearth&lt;/i&gt; or &lt;i&gt;drought&lt;/i&gt; or &lt;i&gt;sterility, befell them, which extirpated them:&lt;/i&gt; (S, K: *) or, accord. to Sh, the verb in this sense is only with و. (TA. [See art. ارم.]) ―         -b3-  [Hence also,] اَزَمَ بِهِ, (AZ, S, K,) inf. n. اَزْمٌ, (TA,) &lt;i&gt;He clave to him,&lt;/i&gt; namely, his companion; (AZ, S, K;) and &lt;i&gt;to it,&lt;/i&gt; namely, a place. (K.) And اَزَمَ عَلَيْهِ, (K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِمَ<br>\
+                  &lt;/form&gt;, inf. n. اَزْمٌ, (TA,) &lt;i&gt;He kept, attended,&lt;/i&gt; or &lt;i&gt;applied himself, constantly, perseveringly,&lt;/i&gt; or &lt;i&gt;assiduously, to it;&lt;/i&gt; (K;) &lt;i&gt;he clave to it.&lt;/i&gt; (TA.) And اَزَمَ بِضَيْعَتِهِ, or لَهَا, (accord. to different copies of the K, the former being the reading in the TA,) and عَلَيْها, (TA,) inf. n. اُزُومٌ, (AZ, TA,) &lt;i&gt;He kept, attended,&lt;/i&gt; or &lt;i&gt;applied himself, constantly, perseveringly,&lt;/i&gt; or &lt;i&gt;assiduously, to his&lt;/i&gt; <br>\
+                  ضيعة [or &lt;i&gt;land,&lt;/i&gt; &amp;amp;c.]. (AZ, K, TA.) ―         -b4-  اَزَمَ, (Nh, K,) inf. n. اَزْمٌ, (Nh, TA,) also signifies &lt;i&gt;He held his teeth together, one upon another:&lt;/i&gt; (Nh:) [and &lt;i&gt;he compressed,&lt;/i&gt; or &lt;i&gt;put together, his lips:&lt;/i&gt; (see ا=زِمٌ:)] and &lt;i&gt;he closed,&lt;/i&gt; or &lt;i&gt;locked,&lt;/i&gt; a door. (K, TA.) It is said in a trad., السِّوَاكُ تَسْتَعْمِلُهُ عِنْدَ تَغَيُّرِ الفَمِ مِنَ الاَزْمِ <br>\
+                  &lt;i&gt;The stick for cleaning the teeth, thou shalt use it on the occasion of the mouth&#39;s becoming altered in odour from the holding of the teeth together.&lt;/i&gt; (Nh.) ―         -b5-  [And hence,] اَزَمَ, (S, Nh, Msb,) inf. n. اَزْمٌ, (Msb, K,) &lt;i&gt;He held, refrained,&lt;/i&gt; or &lt;i&gt;abstained,&lt;/i&gt; (S, K, *) عَنِ الشَّىْءِ <br>\
+                  &lt;i&gt;from the thing:&lt;/i&gt; (S, TA:) and &lt;i&gt;he held, refrained,&lt;/i&gt; or &lt;i&gt;abstained, from desiring much:&lt;/i&gt; (TA:) and &lt;i&gt;from food&lt;/i&gt; (Msb, K *) &lt;i&gt;and drink;&lt;/i&gt; (Msb;) as also اَزِمَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزَمَ<br>\
+                  &lt;/form&gt;, inf. n. اَزَمٌ: (Msb:) and &lt;i&gt;from speech;&lt;/i&gt; (Nh, K; *) &lt;i&gt;like as does the faster from food:&lt;/i&gt; and hence, (Nh,) or from the next preceding signification, (Msb,) حِمْيَةٌ [meaning as explained in what follows] is termed اَزْمٌ: (Nh, Msb:) but accord. to the relation commonly known, of a trad. in which اَزَمَ is said to occur in the last of the senses explained above, the word is اَرَمَّ, with ر and with teshdeed in the case of the م. (Nh.) It is related in a trad., that &#39;Omar having asked El-Hárith Ibn-Keledeh, the طَبِيب of the Arabs, “What is the [best] remedy?” (S,) or having asked him respecting [the best] medical, or curative, treatment, (Msb,) the latter said, الاَزْمُ, meaning الحِمْيَةُ; (S, Msb;) both these words here meaning &lt;i&gt;The practising abstinence;&lt;/i&gt; (PS;) or &lt;i&gt;the abstaining,&lt;/i&gt; or &lt;i&gt;desisting, from eating:&lt;/i&gt; (TA:) or, in this instance, (TA,) الاَزْمُ signifies &lt;i&gt;the not putting in food upon food:&lt;/i&gt; and (some say, TA) &lt;i&gt;the being silent:&lt;/i&gt; (K, TA:) and it signifies also &lt;i&gt;strength.&lt;/i&gt; (TA.) ―         -b6-  اَزَمَ الشَّىْءُ <br>\
+                  &lt;i&gt;The thing became contracted; became drawn together,&lt;/i&gt; or &lt;i&gt;compressed;&lt;/i&gt; as also اَزِمَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزَمَ<br>\
+                  &lt;/form&gt;. (K.) &lt;pb n=&quot;55&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n694&quot; key=&quot;تازّم القَوْمُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تازّم القَوْمُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (TA,) or تازّم القَوْمُ دَارَهُمْ, (S,) &lt;i&gt;The people,&lt;/i&gt; or &lt;i&gt;company of men, stayed, remained,&lt;/i&gt; or &lt;i&gt;dwelt, long in their abode.&lt;/i&gt; (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n695&quot; key=&quot;اَزْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزْمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَزْمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n696&quot; key=&quot;اَزِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزِمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [part. n. of اَزِمَ; fem. with ة]: see اَزْمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n697&quot; key=&quot;اَزْمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزْمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [inf. n. of un. of 1: and hence,] &lt;i&gt;A single act of eating;&lt;/i&gt; (K, TA;) i. e. &lt;i&gt;an eating but once in the course of the day;&lt;/i&gt; like وَجْبَةٌ [q. v.]. (TA.) ―         -b2-  Also, (Fr, S, Msb, K,) and ↓ <br>\
+      اَزَمَةٌ and ↓ <br>\
+      ا=زِمَةٌ, (Fr, K, [the last in the CK like the first,]) &lt;i&gt;Straitness, hardness,&lt;/i&gt; or &lt;i&gt;distress;&lt;/i&gt; (S, Msb, K;) &lt;i&gt;drought, dearth,&lt;/i&gt; or &lt;i&gt;sterility:&lt;/i&gt; (S, Msb:) pl. (of the first, TA) ↓ <br>\
+      اَزْمٌ, (K,) [or rather this is a coll. gen. n.,] like as تَمْرٌ is of تَمْرَةٌ, (TA,) [but originally an inf. n. of اَزَمَ. q. v.,] and اـِزَمٌ, (K,) like as بِدَرٌ is of بَدْرَةٌ. (TA.) Hence the trad., اشْتَدِّى اَزْمَةٌ <br>\
+                  تَنْفَرِجِى, meaning &lt;i&gt;Become severe, O year of drought,&lt;/i&gt; or &lt;i&gt;dearth,&lt;/i&gt; or &lt;i&gt;sterility:&lt;/i&gt; then &lt;i&gt;thou wilt pass away:&lt;/i&gt; though it has been strangely asserted that ازمة is here the proper name of a woman, to whom, on an occasion of her being taken with the pains of labour, these words were said by the Prophet. (TA.) You also say سَنَةٌ اَزْمَةٌ and ↓ <br>\
+      اَزِمَةٌ, (K,) so in the copies of the K, there said to be like فَرِحَةٌ, but correctly ↓ <br>\
+      ا=زِمَةٌ, as in the M &amp;amp;c., (TA,) [or both are correct, being part. ns., respectively, of اَزِمَ and اَزَمَ,] and ↓ <br>\
+      اَزُومَةٌ, meaning &lt;i&gt;A distressful,&lt;/i&gt; or &lt;i&gt;an afflictive, year;&lt;/i&gt; (K;) &lt;i&gt;a year of vehement drought&lt;/i&gt; or &lt;i&gt;dearth&lt;/i&gt; or &lt;i&gt;sterility.&lt;/i&gt; (TA.) And اَوَازِمُ [pl. of ↓ <br>\
+      ا=زِمَةٌ, used as a subst.,] signifies &lt;i&gt;Distressful,&lt;/i&gt; or &lt;i&gt;afflictive, years.&lt;/i&gt; (TA.) ↓ <br>\
+      اَزَامِ, also, (K,) or, accord. to Aboo-&#39;Alee, ↓ <br>\
+      اَزُومُ, (IB,) [each a proper name, as denoting a kind of personification,] signifies &lt;i&gt;The year of drought&lt;/i&gt; or &lt;i&gt;dearth&lt;/i&gt; or &lt;i&gt;sterility.&lt;/i&gt; (K.) And you say, ↓ <br>\
+      نَزَلَتْ بِهِمْ اَزَام and ↓ <br>\
+      اَزُومُ <br>\
+                  &lt;i&gt;Severe straitness,&lt;/i&gt; or &lt;i&gt;distress, befell them.&lt;/i&gt; (S, TA. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n698&quot; key=&quot;اَزَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَزْمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n699&quot; key=&quot;اَزِمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزِمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَزْمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n700&quot; key=&quot;اَزَامِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزَامِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَزْمَةٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n701&quot; key=&quot;اُزَامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُزَامٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n702&quot; key=&quot;اَزُومٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزُومٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=زٌم, in three places. ―         -b2-  اَزُومُ: see اَزْمَةٌ, in two places. ―         -b3-  Also, the former, &lt;i&gt;Cleaving&lt;/i&gt; to a thing; (K;) and so ↓ <br>\
+      اُزَامٌ. (Sgh, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n703&quot; key=&quot;اَزُومَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزُومَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَزْمَهٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n704&quot; key=&quot;ا=زِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=زِمٌ<br>\
+                     ا=زم<br>\
+                  &lt;/form&gt; act. part. n. of اَزَمَ <br>\
+                  &lt;i&gt;Biting with the whole mouth, vehemently:&lt;/i&gt; [&amp;amp;c.:] as also ↓ <br>\
+      اَزُومٌ: (K: [in the CK the former is erroneously written اَزْمٌ:]) or the latter signifies &lt;i&gt;that has a habit of biting;&lt;/i&gt; or &lt;i&gt;that bites much;&lt;/i&gt; syn. عَضُوضٌ: (Ham p. 532:) pl. of the former اُزُومٌ: (Ham p. 360:) and of the latter اُزُمٌ. (Ham p. 609.) [Hence,] ↓ <br>\
+      الاَزُومُ <br>\
+                  &lt;i&gt;The biting lion;&lt;/i&gt; or &lt;i&gt;the lion that bites much,&lt;/i&gt; or &lt;i&gt;vehemently;&lt;/i&gt; <br>\
+                  الاَسَدُ العَضُوضُ. (TA.) ―         -b2-  [Hence also,] The &lt;i&gt;canine tooth;&lt;/i&gt; syn. نَابٌ; and so ↓ <br>\
+      ا=زِمَةٌ; and ↓ <br>\
+      اَزُومٌ: pl. of the first اُزَّمٌ; and of the second ا=وازِم; and of the third اُزُمٌ. (M, K.) ―         -b3-  Also &lt;i&gt;Having his lips compressed,&lt;/i&gt; or &lt;i&gt;put together.&lt;/i&gt; (AZ, S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n705&quot; key=&quot;ا=زِمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=زِمَةٌ<br>\
+                     ا=زمه<br>\
+                     ا=زمة<br>\
+                  &lt;/form&gt;: see ا=زِمٌ: ―         -b2-  and see also اَزْمَةٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n706&quot; key=&quot;مَاْزِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْزِمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A narrow,&lt;/i&gt; or &lt;i&gt;strait, place; a place of narrowness&lt;/i&gt; or &lt;i&gt;straitness;&lt;/i&gt; (S, K;) like مَاْزِلٌ; (S;) of a land, and of the pudendum muliebre, and of life, (K,) or of the means of subsistence; (Lh, K;) or &lt;i&gt;of any kind:&lt;/i&gt; (TA:) &lt;i&gt;any narrow road between two mountains:&lt;/i&gt; (S, Msb:) &lt;i&gt;a narrow place in mountains, such that one part meets another, and the place beyond widens:&lt;/i&gt; (TA:) pl. مَا=زِمُ. (S, K.) ―         -b2-  And hence, (Msb,) &lt;i&gt;A place of war&lt;/i&gt; or &lt;i&gt;fight;&lt;/i&gt; (S, Msb;) because of the straitness of the state thereof, and the difficulty of escape from it. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n707&quot; key=&quot;مُتَاَزِّمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَزِّمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Smitten,&lt;/i&gt; or &lt;i&gt;afflicted, by&lt;/i&gt; <br>\
+                  اُزْمَة [or &lt;i&gt;straitness,&lt;/i&gt; &amp;amp;c.]: (K:) or &lt;i&gt;expressing pain&lt;/i&gt; or &lt;i&gt;grief,&lt;/i&gt; or &lt;i&gt;lamenting,&lt;/i&gt; or &lt;i&gt;complaining, on account of the straitness,&lt;/i&gt; or &lt;i&gt;distressfulness,&lt;/i&gt; or &lt;i&gt;afflictiveness,&lt;/i&gt; (اَزْمَة and شِدَّة,) &lt;i&gt;of time,&lt;/i&gt; or &lt;i&gt;fortune.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,34 @@
+load_data( { book: 'll_nvd', text: 'ذعف1<br>\
+ذَعَفَهُ, (S, K,) aor.<br>\
+ذَعَفَ, (K,) inf. n. ذَعْفٌ, (TK,)<br>\
+He gave him to drink ذُعَاف [i. e. poison, or<br>\
+instantaneous poison]. (S, K.) ―<br>\
+-b2-  [And He poisoned food: (see مَذْعُوفٌ:) for] ذَعْفٌ also signifies<br>\
+the infecting with poison. (KL.)<br>\
+-A2-  ذَعِفَ and<br>\
+ذَعَفَ, aor.<br>\
+ذَعَفَ, (K,) inf. n. ذَعَفَانٌ, (K, * TK,) He<br>\
+died: (K:) [or he died quickly: like ذَأَفَ.]<br>\
+4<br>\
+اذعفهُ He, or it, slew him, or killed him,<br>\
+quickly. (K.)<br>\
+7<br>\
+انذعف His breath became interrupted, or<br>\
+short, (اِنْبَهَرَ,) and his heart broke اِنْقَطَعَ فُؤَادُهُ<br>\
+[a phrase probably to be understood in a figurative<br>\
+sense; like انذأف]). (K.)<br>\
+ذَعْفٌ: see ذُعَافٌ. ―<br>\
+-b2-  حَيَّةٌ ذَعْفُ اللُّعَابِ A serpent that kills quickly. (K.)<br>\
+ذَعَفَانٌ Death. (K.) [See 1, last sentence.]<br>\
+ذُعَافٌ Poison: (S, K:) or instantaneous poison;<br>\
+as also ↓ ذَعْفٌ: (K:) or such poison is called<br>\
+سَمٌّ ذُعَافٌ: (Mgh:) pl. ذُعُفٌ. (K.) ―<br>\
+-b2-  مَوْتٌ ذُعَافٌ<br>\
+i. q. ذُؤَافٌ; (S, K;) i. e. A quick death; that kills<br>\
+quickly; (S;) and so ↓ مَوْتٌ مُذْعِفٌ. (K.)<br>\
+مُذْعِفٌ: see what next precedes.<br>\
+طَعَام مَذْعُوفٌ [Poisoned food; or] food in which<br>\
+is ذُعَاف. (S, K.)<br>\
+[This art. is wanting in the copies of the TA<br>\
+known to me. Compare with it art. زعف.]<br>\
+' } );

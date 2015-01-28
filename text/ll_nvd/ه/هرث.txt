@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'هرثهِرْثٌ An old, (??) garment. (K.) [See<br>\
+also هَوِيثٌ.]<br>\
+' } );

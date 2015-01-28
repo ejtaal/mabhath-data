@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>مذر</em>            1                  مذر<br>\
+<b>مَذِرَتِ البَيْضَةُ</b>               1     <br>\
+                     مَذِرَتِ البَيْضَةُ<br>\
+                     ذ<br>\
+                  , (S, A, K,) aor.      <br>\
+                     مَذَرَ<br>\
+                  , (A, K,) inf. n. مَذَرٌ, (TA,) <i>The egg became corrupt,</i> or <i>rotten.</i> (S, A, K.) And مَذِرَتِ الجَوْزَةُ <br>\
+                  <i>The nut became bad,</i> or <i>corrupt;</i> as also ↓ <br>\
+      تمذّرت. (K.) ―         -b2-  مَذِرَتْ مَعِدَتُهُ <br>\
+                  <i>His stomach became in a corrupt state:</i> (S:) and مَذِرَتْ نَفْسُهُ, (S, K,) and مَعِدَنُهُ, (K,) <i>his soul</i> [or <i>stomach</i>] <i>became heavy;</i> or <i>it heaved,</i> or <i>became agitated by a tendency to vomit;</i> syn. خَبُثَتْ; (S, K;) as also ↓ <br>\
+      تمذّرت. (S, A, K.) You say, رَاَيْتُ بَيْضَةً مذِرَةً <br>\
+                  فَمَذِرَتْ لِذٰلِكَ نَفْسِى <br>\
+                  <i>I saw a rotten egg, and my soul</i> [or <i>stomach</i>] <i>heaved,</i> or <i>became agitated by a tendency to vomit, thereat;</i> syn. خَبُثَتْ. (S.)    </entryFree> <br>\
+<b>امذرت البَيْضَةَ</b>               1     <br>\
+                     امذرت البَيْضَةَ<br>\
+                     ذ<br>\
+                  <i>She</i> (a hen) <i>caused the egg to become corrupt,</i> or <i>rotten.</i> (S, A.)    </entryFree> <br>\
+                     تَمَذَّرَ<br>\
+                   see 1, in two places.    </entryFree> <br>\
+<b>شَذَرَ مَذَرَ</b>               1     <br>\
+                     شَذَرَ مَذَرَ<br>\
+                     ذ<br>\
+                   and شِذَرَ مِذَرَ: see art. شذر. The latter word is an imitative sequent to the former. (TA.)    </entryFree> <br>\
+<b>بَيْضَةٌ مَذِرَةٌ</b>               1     <br>\
+                     بَيْضَةٌ مَذِرَةٌ<br>\
+                     ذ<br>\
+                  <i>A corrupt,</i> or <i>rotten, egg.</i> (A, K.) ―         -b2-  اـِمْرَاَةٌ مَذِرَةٌ <br>\
+                  <i>A dirty,</i> or <i>filthy, woman,</i> (K, TA,) <i>whose odour is like that of a rotten egg.</i> (TA.)   </entryFree> <br>\
+' } );

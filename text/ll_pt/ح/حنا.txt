@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>حنا</em>            1                  حنا<br>\
+<b>حَنَاَ</b>               1     <br>\
+                     حَنَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     حَنَاَ<br>\
+                  , <i>It</i> (a place) <i>became green, and tangled,</i> or <i>luxuriant,</i> or <i>abundant and dense, in its herbage,</i> or <i>plants.</i> (K.)       -A2-  حَنَاَتْ يَدَهَا: see 2. ―         -b2-  حَنَاَهَا <br>\
+                  <i>He lay with her.</i> (K.)    </entryFree> <br>\
+<b>حنّا</b>               1     <br>\
+                     حنّا<br>\
+                     ذ<br>\
+                  , inf. n. تَحْنِىْءٌ and تَحْنِيَةٌ <br>\
+                  <i>He dyed</i> (AZ, S, K) his head, (AZ, TA,) or his beard, (S,) <i>with</i> <br>\
+                  حِنَّا=ء: (AZ, S, K:) and حنّات يَدَهَا <br>\
+                  <i>She</i> (a woman) <i>dyed her hand therewith;</i> as also ↓ <br>\
+      حَنَاَتْهَا, aor.      <br>\
+                     حَنَاَ<br>\
+                  . (Msb.)    </entryFree> <br>\
+<b>تحنّا</b>               1     <br>\
+                     تحنّا<br>\
+                     ذ<br>\
+                  <i>It</i> (his head, or his beard,) <i>was dyed with</i> <br>\
+                  حِنَّا=ء (AHn, K.)    </entryFree> <br>\
+<b>حِنَّا=ءٌ</b>               1     <br>\
+                     حِنَّا=ءٌ<br>\
+                     حنا=ء<br>\
+                   [<i>A certain plant</i>] <i>well known;</i> (S, K;) [the <i>Lawsonia inermis,</i> or <i>Egyptian privet;</i>] <i>used for dyeing the extremities</i> [i. e. <i>the hands and feet and head</i>]: (TA:) [in the present day, the plant itself is called ثَمَرُ الحِنَّا=ءِ, (vulgo تَمَرحِنَّا,) and its leaves, used for dyeing the hands &amp;amp;c., are called حِنَّا=ء:] accord. to some, it is the pl. of حِنَّا=ءَةٌ; [or rather a coll. gen. n., of which حنّا=ءة is the n. un.;] but it is generally asserted that حنّا=ءة is a more special word than حنّا=ء, [as in the S and Msb,] and not the sing. of the latter: (TA:) pl. حُنْا=نٌ. (K.) حُنَّا=نٌ is said to be an anomalous pl. of حنّا=ء; or a dial. var. of the latter, and not a pl.: (TA:) and حِنَّانٌ is a dial. var. of حِنَّا=ءٌ. (Fr, Th, TA in art. حن.)    </entryFree> <br>\
+<b>حِنَّايِىٌّ</b>               1     <br>\
+                     حِنَّايِىٌّ<br>\
+                     ذ<br>\
+                  <i>A seller of</i> <br>\
+                  حِنَّا=ء: pl. حِنَّايِيُّونَ. (K.)    </entryFree> <br>\
+<b>اَخْضَرُ حَانِيٌ</b>               1     <br>\
+                     اَخْضَرُ حَانِيٌ<br>\
+                     ذ<br>\
+                  <i>Very green; intensely green.</i> (K, TA.)   </entryFree> <br>\
+' } );

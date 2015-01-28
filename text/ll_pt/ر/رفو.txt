@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>رفو</em>            1                  رفو<br>\
+<b>رَقَا</b>               1     <br>\
+                     رَقَا<br>\
+                     ذ<br>\
+                  , aor. يَرْقُو, inf. n. رَقْوٌ, said of a bird, <i>It rose,</i> or <i>rose high, in its flight.</i> (Msb, TA.)    </entryFree> <br>\
+<b>تَرْقُوَةٌ</b>               1     <br>\
+                     تَرْقُوَةٌ<br>\
+                     ارق<br>\
+                     رقى<br>\
+                     رقي<br>\
+                     ترقى<br>\
+                     ترقوه<br>\
+                     ترقوة<br>\
+                  , mentioned in this art. in the K, as well as in art. ترق: see the latter art.   </entryFree> <br>\
+' } );

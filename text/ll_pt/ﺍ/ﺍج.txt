@@ -1,0 +1,114 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اج&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اج<br>\
+&lt;entryFree id=&quot;n253&quot; key=&quot;اَجَّتِ النَّارُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَجَّتِ النَّارُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, A, Msb,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجُ٣َ<br>\
+                  &lt;/form&gt; (S, Msb) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجِ٣َ<br>\
+                  &lt;/form&gt;, (M, TA,) [the former contr. to analogy, and the latter agreeable therewith, in the case of an intrans. verb of this class,] inf. n. اَجِيحٌ, (S, A, Msb, K,) &lt;i&gt;The fire burned, burned up, burned brightly,&lt;/i&gt; or &lt;i&gt;fiercely,&lt;/i&gt; (Msb,) &lt;i&gt;blazed,&lt;/i&gt; or &lt;i&gt;flamed,&lt;/i&gt; or &lt;i&gt;blazed&lt;/i&gt; or &lt;i&gt;flamed fiercely;&lt;/i&gt; (S, A, Msb, K;) as also ↓ <br>\
+      تاجّجت (S, A, K) and ↓ <br>\
+      ايتجّت [written with the disjunctive alif اِيتَجَّت]: (S, K:) or &lt;i&gt;made a sound by its blazing&lt;/i&gt; or &lt;i&gt;flaming.&lt;/i&gt; (ISd, TA.) ―         -b2-  اَجَّ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجُ٣َ<br>\
+                  &lt;/form&gt;, (S, K, &amp;amp;c.,) contr. to analogy, (TA,) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجِ٣َ<br>\
+                  &lt;/form&gt;, (Jm, TS, L, K,) but this is rejected by AA, (MF,) inf. n. اَجٌّ (S) and اَجِيحٌ, (TA,) (tropical:)  &lt;i&gt;He&lt;/i&gt; (an ostrich) &lt;i&gt;ran, making a&lt;/i&gt; [&lt;i&gt;rustling&lt;/i&gt;] &lt;i&gt;sound,&lt;/i&gt; or &lt;i&gt;noise, such as is termed&lt;/i&gt; <br>\
+                  حَفِيفٌ. (S, L, K, &amp;amp;c.) And, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجُ٣َ<br>\
+                  &lt;/form&gt;, (T, A,) inf. n. اَجٌّ, (T, TA,) (assumed tropical:)  &lt;i&gt;He hastened,&lt;/i&gt; or &lt;i&gt;was quick, in his pace; walked quickly;&lt;/i&gt; or &lt;i&gt;went a pace between a walk and a run;&lt;/i&gt; (T, Nh;) said of a man; (Nh, from a trad.;) and of a camel: (IB:) or (tropical:)  &lt;i&gt;he made a sound,&lt;/i&gt; or &lt;i&gt;noise,&lt;/i&gt; in his pace or going, &lt;i&gt;like that of the blazing,&lt;/i&gt; or &lt;i&gt;flaming, of fire.&lt;/i&gt; (A.) You say, اَجَّ اَجَّةَ الظَّلِيمِ <br>\
+                  &lt;pb n=&quot;23&quot; TEIform=&quot;pb&quot;/&gt; (tropical:) [&lt;i&gt;He made a rustling sound&lt;/i&gt; in going along, &lt;i&gt;like that of the ostrich&lt;/i&gt;]. (A.) And اَجَّ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجِ٣َ<br>\
+                  &lt;/form&gt;, [so in the TA,] inf. n. اَجِيحٌ, (assumed tropical:)  &lt;i&gt;It&lt;/i&gt; (a camel&#39;s saddle) &lt;i&gt;made a sound&lt;/i&gt; or &lt;i&gt;noise&lt;/i&gt; [produced by his running]. (AZ, TA.) And اَجِيحٌ signifies also (assumed tropical:)  The &lt;i&gt;sounding&lt;/i&gt; of water &lt;i&gt;in pouring forth.&lt;/i&gt; (TA.) ―         -b3-  اَجَّ, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجُ٣َ<br>\
+                  &lt;/form&gt;, (S, L,) inf. n. اُجُوحٌ, (S, K,) &lt;i&gt;It&lt;/i&gt; (water) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, such as is termed&lt;/i&gt; <br>\
+                  اُجَاح. (S, L, K.)       -A2-  اَجَّهُ <br>\
+                  &lt;i&gt;He rendered it&lt;/i&gt; (namely water) &lt;i&gt;such as is termed&lt;/i&gt; <br>\
+                  اُجَاج. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n254&quot; key=&quot;اجّج النَّارَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اجّج النَّارَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, A, K,) inf. n. تَاْجِيحٌ, (K,) &lt;i&gt;He made the fire to&lt;/i&gt; [&lt;i&gt;burn, burn up, burn brightly&lt;/i&gt; or &lt;i&gt;fiercely,&lt;/i&gt; (see 1,)] &lt;i&gt;blaze,&lt;/i&gt; or &lt;i&gt;flame,&lt;/i&gt; or &lt;i&gt;blaze&lt;/i&gt; or &lt;i&gt;flame fiercely.&lt;/i&gt; (S, A, K.) ―         -b2-  [Hence,] اجّج <br>\
+                  بَيْنَهُمْ شَرَّا (assumed tropical:)  &lt;i&gt;He kindled evil,&lt;/i&gt; or &lt;i&gt;mischief, among them.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَجَّ٣َ<br>\
+                  &lt;/form&gt; see 1. ―         -b2-  Hence تاـجّج also signifies &lt;i&gt;It gave light; shone;&lt;/i&gt; or &lt;i&gt;shone brightly.&lt;/i&gt; (TA, from a trad.) ―         -b3-  See also 8, where a contracted form of this verb is mentioned.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَجَ٣َ<br>\
+                  &lt;/form&gt; see 1. ―         -b2-  [Hence,] ايتجّ النَّهَارُ [written with the disjunctive alif اِيْتَجَّ] &lt;i&gt;The day was,&lt;/i&gt; or &lt;i&gt;became, intensely hot,&lt;/i&gt; or &lt;i&gt;fiercely burning;&lt;/i&gt; (S, K;) as also ↓ <br>\
+      تَاَجَّ and تاجّج. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n255&quot; key=&quot;اَجَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجَّةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Intenseness of heat,&lt;/i&gt; and &lt;i&gt;its fierce burning;&lt;/i&gt; (S, K;) as also ↓ <br>\
+      اَجِيحٌ [inf. n. of 1], and ↓ <br>\
+      اَجَاجٌ, and ↓ <br>\
+      اْيْستِجَاجٌ [inf. N. of 8]: pl. اـِجَاجٌ. (S.) You say, جَا=تْ اَجَّةٌ الصَّيْفِ <br>\
+                  &lt;i&gt;The intense heat,&lt;/i&gt; or &lt;i&gt;fierce burning, of summer came.&lt;/i&gt; (TA.) ―         -b2-  The &lt;i&gt;sound&lt;/i&gt; of fire; as also ↓ <br>\
+      اَجِيحٌ. (ISd, TA.) ―         -b3-  (tropical:)  The &lt;i&gt;sound,&lt;/i&gt; or &lt;i&gt;noise, and commotion,&lt;/i&gt; of an ostrich running, and of people walking or passing along. (A.) You say, اَجَّ اَجَّةَ الظَلِيمِ [explained above: see 1]. (A.) ―         -b4-  (assumed tropical:)  &lt;i&gt;Confusion:&lt;/i&gt; (S, K:) or, as also ↓ <br>\
+      اَجِيحٌ, the &lt;i&gt;confusion arising from the talking&lt;/i&gt; of a people, and the &lt;i&gt;sound,&lt;/i&gt; or &lt;i&gt;noise, of&lt;/i&gt; their &lt;i&gt;walking&lt;/i&gt; or &lt;i&gt;passing along.&lt;/i&gt; (L.) You say, القَوْمُ فِي اَجَّةٍ <br>\
+                  &lt;i&gt;The people are in a state of confusion&lt;/i&gt; [&amp;amp;c.]. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n256&quot; key=&quot;اَجَاجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجَاجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَجَّةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n257&quot; key=&quot;اُجَاجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُجَاجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Anything &lt;i&gt;burning to the mouth, whether salt or bitter or hot.&lt;/i&gt; (MF.) [Hence,] مَا=ءٌ اُجَاجٌ, (S, A, K, &amp;amp;c.,) and ↓ <br>\
+      اـِجَاجٌ, (Msb,) &lt;i&gt;Water that burns by its saltness:&lt;/i&gt; (A:) or &lt;i&gt;salt water:&lt;/i&gt; or &lt;i&gt;bitter water:&lt;/i&gt; (TA:) or &lt;i&gt;salt, bitter water:&lt;/i&gt; (S, K:) or &lt;i&gt;very salt water:&lt;/i&gt; (I&#39; Ab:) or &lt;i&gt;bitter and very salt water:&lt;/i&gt; (Msb:) or &lt;i&gt;very salt water, that burns by reason of its saltness:&lt;/i&gt; or &lt;i&gt;very bitter water:&lt;/i&gt; or &lt;i&gt;water very salt and bitter, like the water of the sea:&lt;/i&gt; (TA:) or &lt;i&gt;water of which no use is made for drinking, or for watering seed-produce, or for other purposes:&lt;/i&gt; (El-Hasan:) or &lt;i&gt;very hot water:&lt;/i&gt; (TA:) the pl. is the same [as the sing.; or اُجَاجٌ is also used as a quasi-pl. n.]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n258&quot; key=&quot;اـِجَاجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِجَاجٌ<br>\
+                     اجاج<br>\
+                     اجاج<br>\
+                  &lt;/form&gt;: see اُجَاجٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n259&quot; key=&quot;اَجُوجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجُوجٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Giving light; shining;&lt;/i&gt; or &lt;i&gt;shining brightly.&lt;/i&gt; (AA, S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n260&quot; key=&quot;اَجِيجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجِيجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of 1, which see: and see also اَجَّةٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n261&quot; key=&quot;هَجِيرٌ اَجَّاجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَجِيرٌ اَجَّاجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;A vehemently hot,&lt;/i&gt; or &lt;i&gt;fiercelyburning, summer-midday&lt;/i&gt;]. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n262&quot; key=&quot;اجُّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اجُّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; fem. with ة: see الاَوَاججُ, below.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n263&quot; key=&quot;ا=جُوجُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=جُوجُ<br>\
+                     ا=جوج<br>\
+                  &lt;/form&gt;: see يَاْجُوجُ, below.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n264&quot; key=&quot;السَّمَايِمُ الاَوَاجِجُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     السَّمَايِمُ الاَوَاجِجُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;The fiercely-burning hot winds;&lt;/i&gt; the latter word being pl. of ↓ <br>\
+      ا=جَّةٌ, fem. of ↓ <br>\
+      ا=جٌّ, which is the act. part. n. of اَجَّ;] is used by poetic licence for الاَوَاجُّ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n265&quot; key=&quot;اْيسِتجَاجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اْيسِتجَاجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. N. of 8, which see: and see also اَجَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n266&quot; key=&quot;مَاْجُوجُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْجُوجُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n267&quot; key=&quot;يَاْجُوجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَاْجُوجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;who walks quickly,&lt;/i&gt; and &lt;i&gt;runs, in this and that manner.&lt;/i&gt; (K, * TA.) ―         -b2-  يَاْجُوجُ and ↓ <br>\
+      مَاْجُوجُ, (S, Msb, K,) imperfectly decl., (S,) [&lt;i&gt;Gog and Magog;&lt;/i&gt;] &lt;i&gt;two tribes of God&#39;s creatures;&lt;/i&gt; (TA;) or &lt;i&gt;two great nations;&lt;/i&gt; (Msb;) or &lt;i&gt;two tribes of the children of Japheth the son of Noah:&lt;/i&gt; or, as some say, &lt;i&gt;the former, of the Turks;&lt;/i&gt; and &lt;i&gt;the latter, of the Jeel&lt;/i&gt; [meaning &lt;i&gt;Jeel-Jeelán,&lt;/i&gt; said in the TA in art. جيل, on the authority of ISd, to be &lt;i&gt;a people beyond the Deylem;&lt;/i&gt; and on the authority of Az, to be &lt;i&gt;believers in a plurality of gods;&lt;/i&gt; (&lt;i&gt;the Geli&lt;/i&gt; and &lt;i&gt;Gelœ&lt;/i&gt; of Ptolemy and Strabo, as observed by Sale, in a note on ch. xviii. v. 93 of the Kur, on the authority of Golius in Alfrag. p. 207;)]: (Bd in xviii. 93:) [said by the Arabs to be &lt;i&gt;Scythians of the furthest East; particularly those on the north of the Chinese:&lt;/i&gt; (Golius:) or, as some say, &lt;i&gt;the descendants of Japheth, and all the nations inhabiting the north of Asia and of Europe:&lt;/i&gt; (Freytag:)] &lt;i&gt;said&lt;/i&gt; in a rad., (TA,) on the authority of I&#39; Ab, (Msb,) &lt;i&gt;to compose nine tenths of mankind:&lt;/i&gt; (Msb, TA:) or ياجوج is the name of &lt;i&gt;the males,&lt;/i&gt; and ماجوج is that of &lt;i&gt;the females:&lt;/i&gt; (Msb:) he who pronounces them thus, and makes the ا a radical letter, says that the former is of the measure يَفْعُولُ, and the latter of the measure مَفْعُولُ; as though from اَجَيجُ النَّارِ; (Akh, S, Msb; *) or from مَا=ءٌ اُجَاجٌ; (TA;) or from اَجَّ said of an ostrich; and imperfectly decl. as being determinate and fem.: (Bd ubi suprà:) he who pronounces them without ء, making the ا in each an augmentative letter, says that the former is from يَجَجْتُ, and the latter from مَجَجْتُ: (Akh, S, K:) this is the case if they be Arabic: (TA:) but some say that they are foreign names; (Msb, TA;) their being imperfectly decl. is said to indicate this; (Bd ubi suprà;) and if so, the ا in them is similar to that in هَارُوت and مَارُوت and دَاوُود and the like; and the ء, anomalous, as that in عَاْلِمٌ and the like; and their measure is فَاعُولُ. (Msb.) Ru-beh used to read ↓ <br>\
+      ا=جُوجُ and مَاجُوجُ [in the CK ماجُوج]; and Aboo-Mo&#39;ádh, يَمْجُوجُ. (K.)   &lt;/entryFree&gt; <br>\
+' } );

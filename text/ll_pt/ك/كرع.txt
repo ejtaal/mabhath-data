@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>كرع</em>            1                  كرع<br>\
+<b>كَرَعَ فِى المَا=ءِ</b>               1     <br>\
+                     كَرَعَ فِى المَا=ءِ<br>\
+                     ذ<br>\
+                  , and فِى الاـِنَا=ءِ, <i>He put his mouth into the water,</i> or <i>into the vessel, and so drank.</i> (See عَبَّ.)    </entryFree> <br>\
+<b>كَراَعٌ</b>               1     <br>\
+                     كَراَعٌ<br>\
+                     ذ<br>\
+                  : see عِدٌّ.    </entryFree> <br>\
+<b>كُرَاعٌ</b>               1     <br>\
+                     كُرَاعٌ<br>\
+                     ذ<br>\
+                  : see حَرَّةٌ, رَكَضَ, ذِرَاعٌ, and بَدَنٌ.    </entryFree> <br>\
+<b>كُرْسُوعٌ</b>               1     <br>\
+                     كُرْسُوعٌ<br>\
+                     ذ<br>\
+                  <i>The prominent extremity of the ulna, next to the little finger, at the wrist.</i> (S, * K.)   </entryFree> <br>\
+' } );

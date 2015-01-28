@@ -1,0 +1,39 @@
+load_data( { book: 'll_nvd', text: 'مغر2<br>\
+مغّرهُ He dyed it (namely a garment or<br>\
+piece of cloth) with مَغْرَة. (A.)<br>\
+مَغَرٌ and ↓ مُغْرَةٌ (K, TA) A colour inclining to<br>\
+red: (TA:) or a colour not pure red, (K, TA,)<br>\
+nor inclining to yellow; its redness being like the<br>\
+colour of ↓ مَغْرَة: (TA:) or i. q. شُقْرَةٌ [i. e., in<br>\
+a man, ruddiness of complexion combined with<br>\
+fairness, and in a horse, a sorrel colour,] with<br>\
+duskiness, or dinginess. (K.) See also أَمْغَرُ.<br>\
+مَغْرَةٌ [Red ochre, called in the present day<br>\
+مُغْرَة;] red earth, (S, A, Msb, K,) with which<br>\
+one dyes [and paints]; (TA;) well known; (A;)<br>\
+as also ↓ مَغَرَةٌ. (S, K.)<br>\
+مُغْرَةٌ: see مَغَرٌ.<br>\
+مَغَرَةٌ: see مَغْرَةٌ.<br>\
+أَمْغَرُ i. q. أَشْقَرُ, (A, Msb,) applied to a man<br>\
+[and signifying Of a ruddy complexion combined<br>\
+with fairness], (A,) and to a horse [and signifying of a sorrel colour]: (A, Msb:) or red in the<br>\
+hair and skin, (S, K,) of the colour of مَغْرَة:<br>\
+(S:) and having redness in the face, with clear<br>\
+whiteness: (K:) or white, or white in face: as<br>\
+also أَحْمَرُ: applied to a man: (TA:) and,<br>\
+applied to a horse, of a colour inclining to أَشْقَر<br>\
+[or sorrel]; i. e. having his شُقْرَةٌ [or sorrel colour]<br>\
+tinged over with duskiness, or dinginess: (S:)<br>\
+and applied to a camel, of the colour of مَغْرَة:<br>\
+(K:) and so applied to a horse: or a horse not of<br>\
+a pure red colour, nor of a colour inclining to<br>\
+yellow, but of a red colour, like the colour of مَغْرَة,<br>\
+and having the mane and forelock and ears like<br>\
+the [red] colour termed صُهْبَة, without any whiteness: (TA:) [see also مَغَرٌ:] the fem. is مَغْرَآءُ:<br>\
+and the dim. أَمَيْغِرُ. (TA.)<br>\
+مَمْغَرَةٌ Land whence مَغْرَة comes forth, or is<br>\
+procured. (TA.)<br>\
+مُمَغَّرٌ A garment, or piece of cloth, (A,) dyed<br>\
+with مَغْرَة. (A, K.)<br>\
+مغس: see مغص<br>\
+' } );

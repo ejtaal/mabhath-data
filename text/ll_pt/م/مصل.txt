@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>مصل</em>            1                  مصل<br>\
+<b>مَصْلٌ</b>               1     <br>\
+                     مَصْلٌ<br>\
+                     ذ<br>\
+                   [<i>A kind of</i> <br>\
+                  اقط]: see كَثٌءٌ and عَبِيثٌ.   </entryFree> <br>\
+' } );

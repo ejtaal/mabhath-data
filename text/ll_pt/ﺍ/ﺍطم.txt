@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اطم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اطم<br>\
+&lt;entryFree id=&quot;n908&quot; key=&quot;اُطُمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُطُمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and اُطْمٌ, (S, K,) like اُجُمٌ and اُجْمٌ, (S, and Mgh in art. اجم) &lt;i&gt;A fortress:&lt;/i&gt; or, as some say, &lt;i&gt;any lofty building:&lt;/i&gt; (Mgh:) or &lt;i&gt;a&lt;/i&gt; [&lt;i&gt;building such as is termed&lt;/i&gt;] قَصْر [q. v.]: (IAar, K:) and &lt;i&gt;any fortress built of stones:&lt;/i&gt; and &lt;i&gt;any square, roofed, house:&lt;/i&gt; (K:) pl. (of pauc., TA) ا=طَامٌ (S, Mgh. K) and (of mult., TA) اُطُومٌ: (K:) ا=طَامٌ signifies &lt;i&gt;fortresses of the people of El-Medeeneh:&lt;/i&gt; and one of these is termed ↓ <br>\
+      اَطَمَةٌ: (S:) or this signifies [simply] &lt;i&gt;a fortress;&lt;/i&gt; and its pl. is ا=طَامٌ (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n909&quot; key=&quot;اَطَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَطَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see above.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n910&quot; key=&quot;ا=طَامٌ مُوَطَّمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=طَامٌ مُوَطَّمَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Lofty&lt;/i&gt; [&lt;i&gt;fortresses,&lt;/i&gt; &amp;amp;c.]: (A, TA:) [or it may signify &lt;i&gt;fortresses,&lt;/i&gt; &amp;amp;c., &lt;i&gt;disposed in order,&lt;/i&gt; or &lt;i&gt;grouped together;&lt;/i&gt; for it is said to be] a phrase like اَبْوَابٌ مُبَوَّبَةٌ, (O, TA,) or like اَجْنَادٌ <br>\
+                  مُجَنَّدَةٌ. (K.)   &lt;/entryFree&gt; <br>\
+' } );

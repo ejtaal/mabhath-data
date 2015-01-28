@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>كدم</em>            1                  كدم<br>\
+<b>كَدَمَ</b>               1     <br>\
+                     كَدَمَ<br>\
+                     ذ<br>\
+                  <i>He bit with the fore part of the mouth.</i> (S, Msb, K.)    </entryFree> <br>\
+<b>تَكَادُمُ الحُمُرِ</b>               1     <br>\
+                     تَكَادُمُ الحُمُرِ<br>\
+                     ذ<br>\
+                   [<i>The</i> wild <i>asses&#39; biting one another with the fore part of the mouth</i>]. (TA in art. سحج.) See also تَسَانَّت.   </entryFree> <br>\
+' } );

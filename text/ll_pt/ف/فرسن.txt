@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>فرسن</em>            1                  فرسن<br>\
+<b>الفِرْسِنُ</b>               1     <br>\
+                     الفِرْسِنُ<br>\
+                     ذ<br>\
+                  , of the camel, is <i>What corresponds to the</i> <br>\
+                  حَافِر [or <i>hoof</i>] <i>of the horse or a similar beast:</i> (S, K:) or <i>the part which is below the</i> <br>\
+                  رُسْغ [or <i>pastern</i>] <i>and in which are the bones called</i> <br>\
+                  سُلَامَى [q. v.]: and sometimes it is (tropical:)  of the sheep or goat: it is of the fem. gender: and the pl. is فَرَاسِنُ: (TA:) accord. to Ibn-Es-Sarráj, the ن is augmentative, because it is from فَرَسْتُ, (S, TA,) and [therefore] it has been mentioned before [in art. فرس, in which see more]. (S.)    </entryFree> <br>\
+<b>الفِرْسَانُ</b>               1     <br>\
+                     الفِرْسَانُ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>الفُرَاسِنُ</b>               1     <br>\
+                     الفُرَاسِنُ<br>\
+                     ذ<br>\
+                  <i>The lion;</i> (K, TA;) as also ↓ <br>\
+      الفِرْسَانُ: and so [الفُرَانِسُ and] الفِرْنَاسُ. (TA.) See also the last paragraph below.    </entryFree> <br>\
+<b>الفُرَاسِيُونُ</b>               1     <br>\
+                     الفُرَاسِيُونُ<br>\
+                     ذ<br>\
+                  , (K, TA,) with damm, (TA,) <i>The</i> <br>\
+                  كُرَّاث جَبَلِىّ [lit. <i>mountain-leek</i>]: (K, TA:) so it is said to be: it is <i>a four-sided</i> <br>\
+                  اَصْل [app. meaning <i>stem</i>], <i>from which rise many white, foursided, branches, whereon sometimes grow rough leaves like the thumb; and it has a blossom inclining to blueness and yellowness:</i> (TA:) <i>it has the property of clearing the complexion, dissolves thick humours, is diuretic, opens obstructions, and is beneficial as a remedy for the bite of the dog,</i> (K, TA,) i. e. <i>of the mad dog:</i> (TA:) [it is now applied in Cairo to <i>euphrasia:</i> (Forskål, Descr. Anim. &amp;amp;c., p. 145:) and <i>marrubium plicatum.</i> (Idem, Flora Aegypt. Arab., pp. lxviii. and 213.)]    </entryFree> <br>\
+<b>مُفَرْسَنُ الوَجْهِ</b>               1     <br>\
+                     مُفَرْسَنُ الوَجْهِ<br>\
+                     ذ<br>\
+                  , with fet-h to the س, <i>Having much flesh in the face.</i> (K.) Perhaps the lion is hence called ↓ <br>\
+      فُرَاسِنُ. (TA.)   </entryFree> <br>\
+' } );

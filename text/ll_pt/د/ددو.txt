@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>ددو</em>            1                  ددو<br>\
+<b>دَدٌ</b>               1     <br>\
+                     دَدٌ<br>\
+                     دد<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>دَدًا</b>               1     <br>\
+                     دَدًا<br>\
+                     ددا<br>\
+                  , (S, K,) like عَصًا (S) or قَفًا, (TA,) and ↓ <br>\
+      دَدٌ, (S, K,) like دَمٌ (S) or يَدٌ, (TA,) and دَدَنٌ, (S, K,) which last is mentioned in art. ددن, (S,) <i>Diversion, sport, play,</i> or <i>such as is vain,</i> or <i>frivolous.</i> (S, K.) [See also arts. دد and ددن.]   </entryFree> <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نهل</em>            1                  نهل<br>\
+<b>نَهَلٌ</b>               1     <br>\
+                     نَهَلٌ<br>\
+                     ذ<br>\
+                  <i>A fir t drinking:</i> see عَلَلٌ.    </entryFree> <br>\
+<b>مَنْهَلٌ</b>               1     <br>\
+                     مَنْهَلٌ<br>\
+                     ذ<br>\
+                  <i>A watering-place;</i> i. e., <i>a spring to which camels come to water.</i> (S, Msb.)   </entryFree> <br>\
+' } );

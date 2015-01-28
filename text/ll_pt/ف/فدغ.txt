@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>فدغ</em>            1                  فدغ<br>\
+<b>فَدَغَهُ</b>               1     <br>\
+                     فَدَغَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     فَدَغَ<br>\
+                  , inf. n. فَدْغٌ, <i>He broke it,</i> (S, O, Msb, K,) or <i>crushed it;</i> (S, O, K;) or (K) it is said when the object is a hollow thing, (S, O, Msb, K, TA,) or a moist, or soft, thing, (TA,) a person&#39;s head, (S, O, TA,) and a grape, and the like: (O, TA:) and <i>he bruised, brayed,</i> or <i>pounded, it coarsely:</i> and <i>he clave, split,</i> or <i>rent, it slightly.</i> (TA.) ―         -b2-  And فَدَغَ الطَّعَامَ <br>\
+                  <i>He put much clarified butter into the food.</i> (O, * K, * TA.) ―         -b3-  And one says also, فَدَغَ الكَمْاَةَ فِى السَّمْنِ [app. meaning <i>He preserved the truffles in clarified butter</i>]. (O.)    </entryFree> <br>\
+<b>انفدغ</b>               1     <br>\
+                     انفدغ<br>\
+                     ذ<br>\
+                  <i>It</i> (anything dry, or rigid,) <i>became soft,</i> or <i>supple.</i> (O, K. *)    </entryFree> <br>\
+<b>فَدَغٌ</b>               1     <br>\
+                     فَدَغٌ<br>\
+                     ذ<br>\
+                  <i>Distortion in the foot:</i> (Ibn-&#39;Abbád, O, K:) like فَدَعٌ, which is more common. (O.) [See فَدَعٌ.]    </entryFree> <br>\
+<b>مِفْدَغٌ</b>               1     <br>\
+                     مِفْدَغٌ<br>\
+                     ذ<br>\
+                  <i>An instrument for breaking,</i> or <i>crushing.</i> (K, TA.) And applied to a man; like مِدَقٌّ [q. v.]. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>خنزر</em>            1                  خنزر<br>\
+<b>خَنْزَرَ</b>               1     <br>\
+                     خَنْزَرَ<br>\
+                     خنزر<br>\
+                  : and خِنْزِيرٌ: see art. خزر.   </entryFree> <br>\
+' } );

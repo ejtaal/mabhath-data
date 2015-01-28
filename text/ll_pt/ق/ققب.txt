@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>ققب</em>            1                  ققب<br>\
+<b>قَيْقَبٌ</b>               1     <br>\
+                     قَيْقَبٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      قَيْقَبَانٌ <br>\
+                  <i>A certain wood of which horses&#39; saddles are made;</i> (IDrd, S, O, K;) <i>called in Pers.</i> <br>\
+                  ا=زَاد دِرَخْت. (IDrd, S, O.) [See also قَبْقَبٌ, in art. قب.] ―         -b2-  And, both words, <i>A horse&#39;s saddle</i> itself. (IDrd, O, K.) [See, again, قَبْقَبٌ.] ―         -b3-  And the former word signifies <i>A strap,</i> or <i>thong, that surrounds the pommel and troussequin of a horse&#39;s saddle:</i> (O, K:) or, as used by post-classical authors, <i>a strap,</i> or <i>thong, that is put across behind the troussequin of a saddle.</i> (IDrd, TA.) ―         -b4-  And [The <i>bit-mouth,</i> or <i>mouth-piece of a bit;</i> also called the شَكِيمَة; i. e.] the <i>part of a bit in the middle of which is the</i> <br>\
+                  فَاْس. (O, K.)    </entryFree> <br>\
+<b>قَيْقَابٌ</b>               1     <br>\
+                     قَيْقَابٌ<br>\
+                     ذ<br>\
+                   The خَرَزَة [app. <i>a polished stone,</i> or <i>a shell,</i>] <i>with which cloths are glazed.</i> (O, K.) [See also قَبْقَابٌ, last sentence, in art. قب.]    </entryFree> <br>\
+<b>قَيْقَبَانٌ</b>               1     <br>\
+                     قَيْقَبَانٌ<br>\
+                     ذ<br>\
+                  : see the first paragraph, above.   </entryFree> <br>\
+' } );

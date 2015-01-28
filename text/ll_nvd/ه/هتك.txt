@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'هتك1<br>\
+هتك<br>\
+He rent open. (K, S.) ―<br>\
+-b2-  هتك اللّٰه سِتْرَهُ<br>\
+God dishonour him: see سِتْرٌ.<br>\
+هَتَّاكٌ<br>\
+One who rends frequently tents and the<br>\
+like: see بَابٌ.<br>\
+' } );

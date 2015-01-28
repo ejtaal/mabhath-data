@@ -1,0 +1,42 @@
+load_data( { book: 'll_pt', text: '<em>فمش</em>            1                  فمش<br>\
+<b>قَمَشَ</b>               1     <br>\
+                     قَمَشَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     فَمِشَ<br>\
+                  , (M, TA,) inf. n. قَمْشٌ, (S, M, K,) <i>He collected</i> (S, M, K) a thing, (S,) or قُمَاش, (M, K,) meaning small rubbish, or broken particles of things, on the surface of the ground, (K,) <i>hence and thence;</i> (S, TA:) as also ↓ <br>\
+      قمّش, inf. n. تَقْمِيشٌ. (S, TA.) Hence, قَمْشُ الرِّيحِ <br>\
+                  التُّرَابَ [<i>The wind&#39;s collecting the dust</i>]. (TA.)    </entryFree> <br>\
+                     فَمَّشَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>تقمّش</b>               1     <br>\
+                     تقمّش<br>\
+                     ذ<br>\
+                  , (K,) or تقمّش القُمَاشَ, and ↓ <br>\
+      اقتمشهُ, (M, TA,) <i>He ate what he found,</i> (K, TA,) <i>hence and thence,</i> (TA,) <i>even though it might be vile:</i> (K, TA:) or <i>he ate what is termed</i> <br>\
+                  قماش, <i>hence and thence.</i> (M.)    </entryFree> <br>\
+                     اـِفْتَمَشَ<br>\
+                   see 5.    </entryFree> <br>\
+<b>قَمْشٌ</b>               1     <br>\
+                     قَمْشٌ<br>\
+                     ذ<br>\
+                   The <i>bad</i> [or <i>refuse</i>] of anything: pl. قُمَاشٌ; like as عُرَاقٌ is pl. of عَرْقٌ; (Yaakoob, ISk, M;) and ↓ <br>\
+      قُمَاشَةٌ is like it: (TA:) and ↓ <br>\
+      قَمْاشٌ is also a sing., like قَمْشٌ. (M, TA.) قُمَاشٌ also signifies <i>What is collected hence and thence:</i> (S:) or <i>small particles,</i> or <i>fragments,</i> of anything; as also ↓ <br>\
+      قُمَاشَةٌ; (M, IKtt;) and so قُشَامَةٌ: (IKtt, TA:) or <i>small rubbish,</i> or <i>broken particles of things, on the surface of the ground.</i> (K.) You say, مَا اَعْطَانِى اـِلَّا قُمَاشًا <br>\
+                  <i>He gave me not aught save the worst of what he found.</i> (K.) [Hence,] قُمَاشٌ البَيْتِ <br>\
+                  <i>Household goods,</i> or <i>utensils and furniture.</i> (S.) [Hence also,] قُمَاشُ النَّاسِ <br>\
+                  <i>The refuse,</i> or <i>meanest sort, of the people,</i> or <i>of mankind.</i> (K, * TA.) [The application of قُمَاشٌ to <i>Any kind of woven stuff, whether linen, cotton,</i> or <i>silk,</i> &amp;amp;c., is post-classical. Its pl. is اَقْمِشَةٌ.]    </entryFree> <br>\
+<b>قُمَاشٌ</b>               1     <br>\
+                     قُمَاشٌ<br>\
+                     ذ<br>\
+                  : see قَمْشٌ, throughout.    </entryFree> <br>\
+<b>قُمَاشَةٌ</b>               1     <br>\
+                     قُمَاشَةٌ<br>\
+                     ذ<br>\
+                  : see قَمْشٌ, in two places.    </entryFree> <br>\
+<b>قَمَّاشٌ</b>               1     <br>\
+                     قَمَّاشٌ<br>\
+                     ذ<br>\
+                  <i>One who sells household goods,</i> or <i>furniture and utensils.</i> (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>نبق</em>            1                  نبق<br>\
+<b>نبق من الطريق</b>               1     <br>\
+                     نبق من الطريق<br>\
+                     ذ<br>\
+                   and انباق denote <i>nearness</i> and <i>shortness in a way</i> (TA, art. عجل), like مُسْتَعْجِلَةٌ.    </entryFree> <br>\
+<b>نَبِقٌ</b>               1     <br>\
+                     نَبِقٌ<br>\
+                     ذ<br>\
+                  , properly <i>the fruit of the</i> <br>\
+                  سِدْر or <i>lote-tree,</i> is also applied to The <i>tree called</i> <br>\
+                  سِدْر <br>\
+                  <i>itself:</i> see دَوْمٌ. The fruit so called is a <i>drupe,</i> resembling the crab. ―         -b2-  It seems to be also applied to <i>A drupe</i> absolutely, or <i>a drupe like that of the</i> <br>\
+                  سِدْر: see its dim., ↓ <br>\
+      نُبَيْقَةٌ voce اَشْكَلُ: see also شِرْيَانٌ.    </entryFree> <br>\
+<b>نبيق</b>               1     <br>\
+                     نبيق<br>\
+                     ذ<br>\
+                   [app. نُبَيْقٌ] <i>A bad sort of dates, also called</i> <br>\
+                  حُبْيَقٌ. (TA in art. حبق.) ―         -b2-  See نَبِقٌ.    </entryFree> <br>\
+<b>نَبِيقَةٌ</b>               1     <br>\
+                     نَبِيقَةٌ<br>\
+                     ذ<br>\
+                   of a grape-vine, <i>A</i> <br>\
+                  زَمَعَة <br>\
+                  <i>when it has grown large.</i> (ISh in TA, art. زمع.)   </entryFree> <br>\
+' } );

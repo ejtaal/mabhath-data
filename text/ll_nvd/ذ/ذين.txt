@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'ذين1<br>\
+ذَانَهُ, [aor. يَذِينُ, inf. n., app., ذَيْنٌ,] He<br>\
+blamed, or found fault with, him, or it; like ذَامَهُ.<br>\
+(IAar, T.)<br>\
+ذَيْنٌ, (M, TA,) incorrectly said in the K to be<br>\
+ذِيْنٌ, with kesr, (TA,) A vice, fault, defect, or<br>\
+the like, (M, K, TA;) as also ذَانٌ [which belongs<br>\
+to art. ذون]. (M.)<br>\
+مُذَانٌ a dial. var. of مُذَالٌ. (M.) [See the<br>\
+latter in art. ذيل.]<br>\
+-------------------------------------------------<br>\
+' } );

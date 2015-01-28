@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>حضو</em>            1                  حضو<br>\
+<b>حَضَا النَّارَ</b>               1     <br>\
+                     حَضَا النَّارَ<br>\
+                     حضا النار<br>\
+                  , (K,) first pers. حَضَوْتُ, (S,) inf. n. حَضْوٌ, (K,) <i>He lighted,</i> or <i>kindled, the fire;</i> or <i>made it to burn, burn up, burn brightly</i> or <i>fiercely, blaze,</i> or <i>flame:</i> (S:) or <i>he stirred the live coals of the fire after they had become</i> [<i>partially</i>] <i>extinguished.</i> (K. [هَمَدَ, there, seems to be a mistake for خَمَدَ.]) It is also with ء. (S, TA. [See art. حضا.])    </entryFree> <br>\
+<b>مِحْضًى</b>               1     <br>\
+                     مِحْضًى<br>\
+                     محض<br>\
+                     محضى<br>\
+                     محضي<br>\
+                  <i>i. q.</i> <br>\
+                  كُورٌ [as meaning either <i>A blacksmith&#39;s fire-place,</i> or the <i>skin with which he blows his fire</i>]. (K.)    </entryFree> <br>\
+<b>مِحْضَا=ءٌ</b>               1     <br>\
+                     مِحْضَا=ءٌ<br>\
+                     محضا=ء<br>\
+                  <i>A stick,</i> or <i>piece of wood, with which a fire is stirred;</i> as also مِحْضَاٌ; the latter accord. to those who pronounce the verb with ء. (S.)   </entryFree> <br>\
+' } );

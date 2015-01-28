@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>جلق</em>            1                  جلق<br>\
+<b>جَوَالِقُ</b>               1     <br>\
+                     جَوَالِقُ<br>\
+                     جوالق<br>\
+                   (S, M, MA, Mgh, K) and جُوَالِقٌ (IAar, M, K) and جِوَالِقٌ (K) <i>A sack;</i> in Pers. جُوَالْ; (MA, PS;) [not so well rendered in the KL by خُرْجِينْ, which means <i>a saddle-bag</i> or <i>a pair of saddle-bags,</i> like the Arabic خُرْجٌ;] <i>a certain kind of</i> <br>\
+                  وِعَا=ءِ [or <i>receptacle</i>], (S, M, K,) [<i>for corn &amp;amp;c.,</i>] <i>well known:</i> (M, K:) <i>it has a loop, into which is inserted a stick,</i> or <i>piece of wood,</i> called شِظَاظٌ, (S and K in art. شظ,) <i>this being also inserted into the loop of another</i> <br>\
+                  جوالق, <i>when they are bound upon the camel:</i> (K * and TA in that art.:) or <i>it has two loops, one of which is inserted into the other,</i> (S and K voce قَطَبَ,) [<i>and then the stick is put through,</i>] <i>on the occasion of putting it on a camel:</i> (TA ibid.:) the word is arabicized; (M, TA;) said to be from كواله, (TA,) or كوالك, (KL,) but correctly from چواله, which is Pers.: (TA:) the pl. is جَوَالِقُ (S, MA, Mgh, K) and جَوَالِيقُ, (Sb, S, MA, Mgh, K,) the latter occurring in poetry, (TA,) and جُوَالِقَاتٌ (S, K) was sometimes used, (S,) but this is disallowed by Sb. (S, M.) The saying [of a rájiz], cited by Th, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اُحِبُّ مَاوِيَّةَ حُبًّا صَادِقَا<br>\
+                     <L><br>\
+                        حُبَّ اَبِى الجُوَالِقِ الجُوَالِقَا<br>\
+                  </quote> [<i>I love Máweeyeh with a true love; with the love of the owner</i> (lit. <i>father</i>) <i>of the sack for the sack;</i>] means that the speaker had a vehement love for the food, or wheat, that was in his جوالق. (M.) Another says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        يَا حَبَّذَا مَا فِى الجَوَالِيقِ السُّودْ<br>\
+                     <L><br>\
+                        مِنْ خُشْكَنَانِ وَسَوِيقٍ مَقْنُودْ<br>\
+                  </quote> [<i>O, lovely is what is in the black sacks, of biscuit and meal of parched barley sweetened with sugarcandy !</i>]. (S.)   </entryFree> <br>\
+' } );

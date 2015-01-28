@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>زرفن</em>            1                  زرفن<br>\
+<b>زَرْفَنَ صُدْغَيْهِ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     زَرْفَنَ صُدْغَيْهِ<br>\
+                     ذ<br>\
+                  <i>He disposed the hair hanging down upon each of his temples in the form of a</i> <br>\
+                  زُِرْفِين [or <i>ring</i>]: (S, * K:) but this is postclassical. (S.)    </entryFree> <br>\
+<b>زُرْفِينٌ</b>               1     <br>\
+                     زُرْفِينٌ<br>\
+                     ذ<br>\
+                   and زِرْفِينٌ, (S, Mgh, K,) or the latter is the correct word, for there is no word of the measure فُعْلِيلٌ in the language, (Az, TA,) [though the former is agreeable with the Pers. word which is the original,] <i>A ring of a door:</i> (Mgh, K:) or [<i>a ring</i>] <i>in a general sense:</i> (K:) pl. زَرَافِينُ, occurring in a trad. as applied to rings of a coat of mail belonging to the Prophet, by which rings it was suspended: (TA:) arabicized, (S, K,) from the Pers. [زُرْفِينْ]. (S.) ―         -b2-  The latter also signifies <i>A company of men</i> [app. <i>disposed in the form of a ring</i>]. (TA.)   </entryFree> <br>\
+' } );

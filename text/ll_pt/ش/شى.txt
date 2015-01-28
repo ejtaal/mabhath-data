@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>شى</em>            1                  شى<br>\
+<b>اَشْيَاهُ</b>               1     <br>\
+                     اَشْيَاهُ<br>\
+                     ذ<br>\
+                   an imitative sequent to اَعْيَاهُ in the phrase مَا اَعْيَاهُ وَاَشْيَاهُ: see 4 in art. شوى.    </entryFree> <br>\
+<b>شِيَةٌ</b>               1     <br>\
+                     شِيَةٌ<br>\
+                     ذ<br>\
+                  , syn. with شَا=ءٌ: see art. شوى.    </entryFree> <br>\
+<b>شَىٌّ</b>               1     <br>\
+                     شَىٌّ<br>\
+                     ذ<br>\
+                  : and يَا شَىَّ مَا لِى: see شَىْءٌ, in art. شيا.    </entryFree> <br>\
+<b>شِىٌّ</b>               1     <br>\
+                     شِىٌّ<br>\
+                     ذ<br>\
+                   an imitative sequent to عِىٌّ: see art. شوى.    </entryFree> <br>\
+<b>شَيِىٌّ</b>               1     <br>\
+                     شَيِىٌّ<br>\
+                     ذ<br>\
+                   an imitative sequent to عَيِىٌّ: see شَوِىٌّ.    </entryFree> <br>\
+<b>شَيَّانُ</b>               1     <br>\
+                     شَيَّانُ<br>\
+                     ذ<br>\
+                  : see art. شوى.   </entryFree> <br>\
+' } );

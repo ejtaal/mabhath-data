@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>وصر</em>            1                  وصر<br>\
+<b>وِصْرٌ</b>               1     <br>\
+                     وِصْرٌ<br>\
+                     ذ<br>\
+                  <i>A covenant, compact,</i> or <i>contract:</i> (S, K:) a dial. form of اـِصْرٌ; like as they said اـِرْثٌ and وِرْثٌ, and اـِسَادَةٌ and وِسَادَةٌ. (S.) ―         -b2-  Also, (S, A, K,) and ↓ <br>\
+      وَصَرَّةٌ (Lth, A, K) and ↓ <br>\
+      وَصِيرَةٌ (K) and ↓ <br>\
+      اَوْصَرٌ, (Lth, TS, L,) <i>A written statement of a purchase</i> or <i>sale, transfer, bargain,</i> or <i>contract:</i> (S, A, K, TA:) the first is from اـِصْرٌ, and is generally used in this sense: pl. of the first, اَوْصَارٌ; and of the second, وَصَرَّاتٌ: Lth says, that the second is an arabicized word; and others say, that the first and second are Persian words, arabicized. (TA.) One says, اَقْطَعَهُ <br>\
+                  الاَرْضَ وَكَتَبَ لَهُ الوِصْرَ, and ↓ <br>\
+      الوَصَرَّةَ, [<i>He made him a grant of the land to be held in fee, and wrote for him the statement of the transfer.</i>] (A.) And it is said in a trad., هٰذَا اْشْتَرَى مِنِّى اَرْضًا <br>\
+                  وَقَبَضَ مِنِّى وِصْرَهَا فَلَا هُوَ يَرُدُّ عَلَىَّ الوِصْرَ وَلَا <br>\
+                  يُعْطِينِى الثَّمَنَ [<i>This</i> man <i>purchased of me some land</i> (or دَارًا <br>\
+                  <i>a house,</i> as in the TA) <i>and received of me the written statement of its sale, but he will not restore to me the written statement of the sale, nor will he give me the price</i>]. (S.)    </entryFree> <br>\
+<b>وَصَرَّةٌ</b>               1     <br>\
+                     وَصَرَّةٌ<br>\
+                     ذ<br>\
+                  : see وِصْرٌ.    </entryFree> <br>\
+<b>وَصِيرَةٌ</b>               1     <br>\
+                     وَصِيرَةٌ<br>\
+                     ذ<br>\
+                  : see وِصْرٌ.    </entryFree> <br>\
+<b>اَوْصَرٌ</b>               1     <br>\
+                     اَوْصَرٌ<br>\
+                     ذ<br>\
+                  : see وِصْرٌ.   </entryFree> <br>\
+' } );

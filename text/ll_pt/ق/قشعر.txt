@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>قشعر</em>            1                  قشعر<br>\
+<b>اـِقْشَعَرَّ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اـِقْشَعَرَّ<br>\
+                     ذ<br>\
+                  , said of the skin, (S, K,) <i>It quaked; shuddered; was,</i> or <i>became, affected by a tremor, quaking,</i> or <i>quivering.</i> (K.) [And in like manner said of a man, (see the part. n., below,) i. e. <i>He quaked,</i> or <i>shuddered.</i>] ―         -b2-  <i>It</i> (the skin) <i>dried up</i> (قَفَّ) by reason of mange, or scab. (TA.) ―         -b3-  اـِقْشَعَرَّتِ الاَرْضُ <br>\
+                  <i>The earth became of a colour inclining to that of dust,</i> or <i>ashes,</i> (اـِرْبَدَّت,) <i>and contracted,</i> by reason of drought. (TA.) ―         -b4-  اقشعرّت السَّنَةُ (tropical:)  <i>The year became one of drought.</i> (K, * TA:)    </entryFree> <br>\
+<b>اَخَذَتْهُ قُشَعْرِيرَةٌ</b>               1     <br>\
+                     اَخَذَتْهُ قُشَعْرِيرَةٌ<br>\
+                     ذ<br>\
+                   (S, K) <i>A tremor, quaking,</i> or <i>quivering, of the skin seized him.</i> (K.)    </entryFree> <br>\
+<b>قُشَاعِرٌ</b>               1     <br>\
+                     قُشَاعِرٌ<br>\
+                     ذ<br>\
+                  <i>Rough to the touch;</i> <br>\
+                  خَشِنُ المَسِّ: (K, accord. to the TA:) or <i>rough, and advanced in years;</i> <br>\
+                  خَشِنٌ مُسِنٌّ, with the art. الخَشِنُ المُسِنُّ. (CK, and a MS. copy of the K.)    </entryFree> <br>\
+<b>مُقْشَعِرٌّ</b>               1     <br>\
+                     مُقْشَعِرٌّ<br>\
+                     ذ<br>\
+                  , applied to a man, [<i>Having a quaking</i> or <i>shuddering of the skin,</i>] has for its pl. قَشَاعِرُ, without the م because it is augmentative. (S.)   </entryFree> <br>\
+            <div2 n=&quot;q$f q$m q$w&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قشف قشم قشو<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

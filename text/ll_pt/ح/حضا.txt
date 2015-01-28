@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>حضا</em>            1                  حضا<br>\
+<b>حَضَاَ النَّارَ</b>               1     <br>\
+                     حَضَاَ النَّارَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     حَضَاَ<br>\
+                  , (K,) <i>He lighted,</i> or <i>kindled, the fire;</i> or <i>made it to burn, burn up, burn brightly</i> or <i>fiercely, blaze,</i> or <i>flame:</i> (S, K:) or <i>he opened it,</i> (K,) i. e. <i>stirred it,</i> (TA,) <i>in order that it might blaze,</i> or <i>flame;</i> as also ↓ <br>\
+      احتضاها. (K.) It is also without ء. (S. [See art. حضو.])       -A2-  حَضَاَتِ النَّارُ <br>\
+                  <i>The fire became lighted</i> or <i>kindled;</i> or <i>it burned, burned up,</i> &amp;amp;c. (K.)    </entryFree> <br>\
+                     اـِحْتَضَاَ<br>\
+                   see above.    </entryFree> <br>\
+<b>اَبْيَضُ حَضِىْءٌ</b>               1     <br>\
+                     اَبْيَضُ حَضِىْءٌ<br>\
+                     ذ<br>\
+                  , (K,) so accord. to the correct copies of the K, but in some copies حَضِىٌّ, (TA,) <i>Very white.</i> (K.)    </entryFree> <br>\
+<b>مِحْضَاٌ</b>               1     <br>\
+                     مِحْضَاٌ<br>\
+                     ذ<br>\
+                  <i>A stick,</i> or <i>piece of wood, with which a fire is stirred;</i> as also مَحْضَا=ءٌ; (S, K;) the latter accord. to those who pronounce the verb without ء. (S.)   </entryFree> <br>\
+' } );

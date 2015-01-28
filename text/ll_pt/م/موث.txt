@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>موث</em>            1                  موث<br>\
+<b>مَاثَ</b>               1     <br>\
+                     مَاثَ<br>\
+                     ذ<br>\
+                  , aor. يَمُوثُ, inf. n. مَوْثٌ (and in the CK مَوَثٌ) and مَوَثَانٌ; (S, K;) as also مَاثَ, aor. يَمِيثُ; (TA;) and ↓ <br>\
+      اماث; (Hr;) but this is disapproved by IAth; <i>He steeped</i> a thing <i>in water, and mashed</i> it <i>with his hand:</i> (TA:) <i>he mixed and moistened</i> a thing in water. (S, K.) [See also art. ميث.] ―         -b2-  See also 7. ―         -b3-  ماثَتِ الاَرْضُ <br>\
+                  <i>The land became soft and even.</i> (Msb.)    </entryFree> <br>\
+                     اَمْوَثَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>انماث</b>               1     <br>\
+                     انماث<br>\
+                     ذ<br>\
+                  , inf. n. اِنْمِيَاثٌ, <i>It</i> (a thing) <i>was steeped in water, and mashed with the hand:</i> (TA:) <i>it was mixed and moistened</i> in water. (S, K.) [See also art. ميث.] ↓ <br>\
+      مَاثَ, aor. يَمُوثُ, is also [thus] used intransitively. (Msb.)    </entryFree> <br>\
+<b>مِيثَاءُ</b>               1     <br>\
+                     مِيثَاءُ<br>\
+                     ذ<br>\
+                  , with kesreh, of the measure مِفْعَالٌ <br>\
+                  <i>Soft and even</i> land. (Msb.) [See also مَيْثَاءُ, in art. ميث.]   </entryFree> <br>\
+' } );

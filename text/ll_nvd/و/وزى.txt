@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'وزى3<br>\
+وَازَاهُ<br>\
+, inf. n. مُوَازَاةٌ: see آزَاهُ. See also 3<br>\
+in art. قرأ.<br>\
+السَّجْعُ المُتَوَازِى<br>\
+A variety of rhyming prose:<br>\
+see سَجْعٌ.<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قعى</em>            1                  قعى<br>\
+<b>اَقْعَى</b>               1     <br>\
+                     اَقْعَى<br>\
+                     ذ<br>\
+                  <i>It</i> (a star) <i>rose high, and then quitted not its place.</i> (TA, art. عرد.)    </entryFree> <br>\
+<b>الاـِقْعَاءُ</b>               1     <br>\
+                     الاـِقْعَاءُ<br>\
+                     ذ<br>\
+                  : see عَقِبَ.   </entryFree> <br>\
+' } );

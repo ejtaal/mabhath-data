@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هذ</em>            1                  هذ<br>\
+<b>هَذَّ بِسَلْحِهِ</b>               1     <br>\
+                     هَذَّ بِسَلْحِهِ<br>\
+                     ذ<br>\
+                  <i>He ejected his excrement.</i> (TA, art. تر.)   </entryFree> <br>\
+' } );

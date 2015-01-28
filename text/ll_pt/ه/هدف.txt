@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>هدف</em>            1                  هدف<br>\
+<b>اِسْتَهْدَفَ</b>               1     <br>\
+                     اِسْتَهْدَفَ<br>\
+                     ذ<br>\
+                  <i>He became a</i> <br>\
+                  هَدَف, or <i>butt.</i> (Har, p. 65.) See رَتِيمَةٌ.    </entryFree> <br>\
+<b>هَدَفٌ</b>               1     <br>\
+                     هَدَفٌ<br>\
+                     ذ<br>\
+                  <i>A high</i> or <i>lofty building:</i> see صَدَفٌ.   </entryFree> <br>\
+' } );

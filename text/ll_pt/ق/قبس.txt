@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قبس</em>            1                  قبس<br>\
+<b>قبوس</b>               1     <br>\
+                     قبوس<br>\
+                     ذ<br>\
+                  <i>A sort of</i> <br>\
+                  طُنْبُور: see مَعَازِفُ.   </entryFree> <br>\
+' } );

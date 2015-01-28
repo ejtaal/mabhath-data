@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'شى4<br>\
+أَشْيَاهُ an imitative sequent to أَعْيَاهُ in the<br>\
+phrase مَا أَعْيَاهُ وَأَشْيَاهُ: see 4 in art. شوى.<br>\
+شِيَةٌ, syn. with شَآءٌ: see art. شوى.<br>\
+شَىٌّ: and يَا شَىَّ مَا لِى: see شَىْءٌ, in art. شيأ.<br>\
+شِىٌّ an imitative sequent to عِىٌّ: see art. شوى.<br>\
+شَيِىٌّ an imitative sequent to عَيِىٌّ: see شَوِىٌّ.<br>\
+شَيَّانُ: see art. شوى.<br>\
+' } );

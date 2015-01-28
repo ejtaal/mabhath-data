@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كتن</em>            1                  كتن<br>\
+<b>كَتَنٌ</b>               1     <br>\
+                     كَتَنٌ<br>\
+                     ذ<br>\
+                   for كَتَّانٌ: see an ex. in a verse cited voce شَارِبٌ.   </entryFree> <br>\
+' } );

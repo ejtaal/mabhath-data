@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>رير</em>            1                  رير<br>\
+<b>رَارَ</b>               1     <br>\
+                     رَارَ<br>\
+                     ذ<br>\
+                  <i>His</i> (a man&#39;s) <i>marrow became thin.</i> (TA.)    </entryFree> <br>\
+<b>ارار مُخَّهُ</b>               1     <br>\
+                     ارار مُخَّهُ<br>\
+                     ذ<br>\
+                  <i>He,</i> (God, S, K,) and <i>it,</i> (emaciation, TA,) <i>made his marrow to become thin.</i> (S, K, TA.)    </entryFree> <br>\
+<b>رَارٌ</b>               1     <br>\
+                     رَارٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>رَيْرٌ</b>               1     <br>\
+                     رَيْرٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      رَارٌ (Fr, S, K) and رِيرٌ (AA, K) Marrow <i>in a melting</i> or <i>fluid state,</i> (K,) <i>and corrupt, by reason of emaciation:</i> (TA:) or <i>thin:</i> (AA:) or <i>corrupt, and in a melting</i> or <i>fluid state, by reason of emaciation:</i> (Fr, S:) or <i>in a melting</i> or <i>fluid and thin state, by reason of emaciation and severe dearth</i> or <i>drought:</i> (TA:) or <i>what was fat, in the bones, and has become black and thin water.</i> (Lh, K.) <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَ السَّاقُ مِنِّى بَادِيَاتُ الرَّيْرِ<br>\
+                  </quote> [<i>And my shanks</i> (lit. shank) <i>are such that the melting marrow,</i> &amp;amp;c., <i>in them is manifest</i>] means my emaciation is manifest: the poet says باديات because by السّاق he means السَّاقَانِ; and it is allowable to make the enunciative of a dual like that of a pl.: accord. to one relation, it is بَارِدَاتُ. (S.) ―         -b2-  رَيْرٌ also signifies The <i>water that comes forth from the mouth of a child.</i> (K.)   </entryFree> <br>\
+            <div2 n=&quot;Quasi rys&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi ريس<br>\
+<b>رِيَاسٌ</b>               1     <br>\
+                     رِيَاسٌ<br>\
+                     ذ<br>\
+                  : see رِيَاسٌ, voce رَاْسٌ.    </entryFree> <br>\
+<b>رَيِّسٌ</b>               1     <br>\
+                     رَيِّسٌ<br>\
+                     ذ<br>\
+                  : see رَيِيسٌ, in two places.   </entryFree> <br>\
+' } );

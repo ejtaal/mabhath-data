@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>ذحل</em>            1                  ذحل<br>\
+<b>ذَحْلٌ</b>               1     <br>\
+                     ذَحْلٌ<br>\
+                     ذ<br>\
+                   (S, Mgh, Msb, K) and ↓ <br>\
+      ذَحَلٌ (Msb) <i>Rancour, malevolence, malice,</i> or <i>spite;</i> or <i>concealment of enmity, and violent hatred, in the heart;</i> or <i>retention of enmity in the heart, with watchfulness for an opportunity to indulge it</i> or <i>exercise it;</i> syn. حِقْدٌ: (S, Mgh, Msb, K:) and [simply] <i>enmity:</i> (S, K:) or <i>blood-revenge;</i> or <i>retaliation of murder</i> or <i>homicide;</i> or <i>a seeking to revenge,</i> or <i>avenge,</i> or <i>retaliate, blood;</i> syn. ثَاْرٌ: or <i>a desire,</i> or <i>seeking, for retaliation of a crime</i> or <i>of enmity:</i> (K:) pl. (of the former) ذُحُولٌ (S, Mgh, Msb, K) and (of the latter, Msb) اَذْحَالٌ. (Mgh, Msb, K.) One says, طَلَبَ بِذَحْلِهِ, meaning بِثَاْرِهِ [i. e. <i>He sought to obtain his bloodrevenge,</i> or <i>retaliation</i>]. (S, Msb.) And عِنْدَهُ <br>\
+                  ذَحْلِى [<i>He owes me my blood-revenge</i>], meaning <i>he is the slayer of my relation.</i> (A in art. ثار.) [See also a verse of Lebeed cited as an ex. of the preposition بِ.]    </entryFree> <br>\
+<b>ذَحَلٌ</b>               1     <br>\
+                     ذَحَلٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.   </entryFree> <br>\
+' } );

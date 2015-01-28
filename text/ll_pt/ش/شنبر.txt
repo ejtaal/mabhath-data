@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شنبر</em>            1                  شنبر<br>\
+<b>خِيَارُ شَنْبَرَ</b>               1     <br>\
+                     خِيَارُ شَنْبَرَ<br>\
+                     ذ<br>\
+                  : see the former word in art. خير.   </entryFree> <br>\
+' } );

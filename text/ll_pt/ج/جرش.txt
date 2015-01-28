@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>جرش</em>            1                  جرش<br>\
+<b>جَرَشَهُ</b>               1     <br>\
+                     جَرَشَهُ<br>\
+                     ذ<br>\
+                  , (S, A, K,) aor.      <br>\
+                     جَرُشَ<br>\
+                   (MS, K) and      <br>\
+                     جَرِشَ<br>\
+                  , (K,) inf. n. جَرْشٌ, (A, TA,) <i>He bruised, brayed,</i> or <i>pounded, it,</i> (S, A, K,) and <i>he ground it,</i> namely, salt, and grain, (A,) <i>coarsely, not finely.</i> (S, A, K.) ―         -b2-  <i>He stripped off, scraped off, rubbed off, abraded,</i> or <i>otherwise removed, its superficial part;</i> syn. قَشَرَهُ. (K.) ―         -b3-  <i>He scratched, scraped, rubbed, grated, chafed,</i> or <i>fretted, it;</i> syn. حَكَّهُ; (K, TA;) like as the viper does its fangs; when its folds rub, or grate, together, causing a sound to be head. (TA.) ―         -b4-  <i>He scratched it</i> (حَكَّهُ, namely, his head,) with a comb, (S, A, K,) <i>so as to raise its scurf;</i> (S, K;) as also ↓ <br>\
+      جَرَّشَهُ. (TA.) ―         -b5-  <i>He rubbed and pressed it</i> (namely, the skin,) <i>with the hand, in order that it might become smooth</i> (K, TA) <i>and soft.</i> (TA.)    </entryFree> <br>\
+                     جَرَّشَ<br>\
+                   see 1, last signification but one.    </entryFree> <br>\
+<b>جَرْشٌ</b>               1     <br>\
+                     جَرْشٌ<br>\
+                     ذ<br>\
+                   The <i>sound of a viper&#39;s coming forth form the skin</i> [or <i>slough</i>] <i>when the former rubs,</i> or <i>grates, one part against another.</i> (K.) ―         -b2-  And The <i>sound of a viper&#39;s fangs, when they rub,</i> or <i>grate</i> [<i>together</i>]. (TA.) ―         -b3-  And The <i>sound arising from eating a rough thing:</i> or this is with س. (TA.)    </entryFree> <br>\
+<b>جَرِيشٌ</b>               1     <br>\
+                     جَرِيشٌ<br>\
+                     ذ<br>\
+                   A thing, (S, K,) such as salt, (A,) <i>bruised, brayed,</i> or <i>pounded,</i> (S, A, K,) and <i>ground,</i> (A,) <i>coarsely, not finely:</i> (S, A, K:) or, applied to salt, it signifies مَالَمْ يُطَيَّبْ [app. meaning <i>such as has not been purified</i>], (S, K, TA,) <i>that crumbles;</i> as though one part thereof were rubbed against another. (TA.) ―         -b2-  Also <i>Coarse flour, such as is fit for</i> [<i>making the kind of food called</i>] خَبِيص مُرَمَّل. (TA.)    </entryFree> <br>\
+<b>جُرَاشَةُ شَىْءٍ</b>               1     <br>\
+                     جُرَاشَةُ شَىْءٍ<br>\
+                     ذ<br>\
+                  <i>What falls, of,</i> or <i>from, a thing coarsely bruised</i> or <i>brayed</i> or <i>pounded, when what is bruised</i> &amp;amp;c. <i>thereof is taken.</i> (S.) ―         -b2-  جُرَاشَةٌ also signifies <i>What falls from the head when it is combed:</i> (A, TA:) and <i>what falls and becomes scattered from wood:</i> (A:) or <i>cuttings, chips, parings,</i> and <i>the like.</i> (TA.)    </entryFree> <br>\
+<b>جَوَارِشٌ</b>               1     <br>\
+                     جَوَارِشٌ<br>\
+                     ذ<br>\
+                   [from the Persian گُوَارِشْ, <i>A digestive stomachic;</i>] <i>a thing that causes food to digest;</i> as also هَاضُومٌ. (S in art. هضم.)    </entryFree> <br>\
+<b>مَجْرُوشٌ</b>               1     <br>\
+                     مَجْرُوشٌ<br>\
+                     ذ<br>\
+                   A thing <i>having its superficial part stripped off, scraped off, rubbed off, abraded,</i> or <i>otherwise removed.</i> (TA.) ―         -b2-  Skin <i>rubbed and pressed with the hand in order that it may become smooth and soft.</i> (TA.)   </entryFree> <br>\
+' } );

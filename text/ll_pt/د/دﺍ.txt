@@ -1,0 +1,61 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;دا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  دا<br>\
+&lt;entryFree id=&quot;n11914&quot; key=&quot;دَاْدَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     دَاْدَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. دَاْدَاَةٌ and دِيْدَا=ءٌ, &lt;i&gt;He&lt;/i&gt; (a camel, S) &lt;i&gt;ran&lt;/i&gt; (عَدَا) &lt;i&gt;most vehemently,&lt;/i&gt; (S, M, K, TA,) &lt;i&gt;going a pace quicker than that termed&lt;/i&gt; <br>\
+                  عَنَقٌ [q. v.]: (TA:) or &lt;i&gt;hastened,&lt;/i&gt; or &lt;i&gt;sped, and ran,&lt;/i&gt; or &lt;i&gt;rose in his running;&lt;/i&gt; syn. اَسْرَعَ وَ اَحْضَرَ: (K:) accord. to AA, ↓ <br>\
+      دَاْدَا=ءٌ is [a subst., or quasiinf. n., signifying] &lt;i&gt;a quick pace&lt;/i&gt; or &lt;i&gt;manner of going:&lt;/i&gt; and [the inf. n.] دَاْدَاَةٌ is syn. with اـِحْضَارٌ: and in the Nawádir [app. of Aboo-&#39;Amr EshSheybánee] it is said that دَوْدَاَ (inf. n. دَوْدَاَةٌ) and تَوْدَاَ (inf. n. تَوْدَاَةٌ) and كَوْدَاَ (inf. n. كَوْدَاَةٌ) are syn. with عَدَا; and that دَاْدَاَةٌ and دِيْدَا=ءٌ signify a camel&#39;s &lt;i&gt;proceeding with short steps, at a rate quicker than that of the pace termed&lt;/i&gt; <br>\
+                  حَفَدٌ [q. v.]: accord. to the Kf, these two words signify the &lt;i&gt;going a pace quicker than that termed&lt;/i&gt; <br>\
+                  خَبَبٌ [q. v.], &lt;i&gt;not so quick as that termed&lt;/i&gt; <br>\
+                  رَبَعَةٌ [q. v.]. (TA.) You say, دَاْدَاَتِ الدَّابَّةُ <br>\
+                  &lt;i&gt;The beast ran a pace quicker than that termed&lt;/i&gt; <br>\
+                  عَنَقٌ. (M.) And دَاْدَاَ فِى اـِثْرِهِ <br>\
+                  &lt;i&gt;He followed him, having him near before him.&lt;/i&gt; (M, * K, * TA.) And hence, دَاْدَاَ مِنْهُ <br>\
+                  &lt;i&gt;He ran&lt;/i&gt; (اَحْضَرَ) &lt;i&gt;to escape from him, being followed by him, and being near before him;&lt;/i&gt; as also ↓ <br>\
+      تَدَاْدَاَ. (M.)       -A2-  &lt;i&gt;He put&lt;/i&gt; a thing &lt;i&gt;in motion.&lt;/i&gt; (M, K.) ―         -b2-  And, contr., &lt;i&gt;He rendered&lt;/i&gt; a thing, &lt;i&gt;still,&lt;/i&gt; or &lt;i&gt;motionless.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11915&quot; key=&quot;تَدَاْدَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 2&lt;/itype&gt;        <br>\
+                     تَدَاْدَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see above. ―         -b2-  Also &lt;i&gt;It&lt;/i&gt; (a stone, TA) &lt;i&gt;rolled;&lt;/i&gt; or &lt;i&gt;rolled along&lt;/i&gt; or &lt;i&gt;down:&lt;/i&gt; (K, TA:) &lt;i&gt;it&lt;/i&gt; (anything) &lt;i&gt;rolled,&lt;/i&gt; or &lt;i&gt;rolled along&lt;/i&gt; or &lt;i&gt;down, before one,&lt;/i&gt; (M, TA,) &lt;i&gt;and went away:&lt;/i&gt; IAth says that it may be from تَدَهْدَهَ. (TA.) ―         -b3-  &lt;i&gt;It became,&lt;/i&gt; or &lt;i&gt;was put, in motion.&lt;/i&gt; (TA.) ―         -b4-  And, contr., &lt;i&gt;It became,&lt;/i&gt; or &lt;i&gt;was rendered, still,&lt;/i&gt; or &lt;i&gt;motionless.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11916&quot; key=&quot;دَاْدَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَاْدَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see دَاْدَا=ءٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11917&quot; key=&quot;دَاْدَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَاْدَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of R. Q. 1 [q. v.]. (S, M, K.) ―         -b2-  Also The &lt;i&gt;hasty replying of a foolish,&lt;/i&gt; or &lt;i&gt;stupid, person.&lt;/i&gt; (T, TA.) ―         -b3-  The &lt;i&gt;sound of the falling&lt;/i&gt; (T, M, K) of stones &lt;i&gt;in a torrent,&lt;/i&gt; (T,) or of a stone &lt;i&gt;upon the bed of a torrent:&lt;/i&gt; (M, K:) or the &lt;i&gt;falling&lt;/i&gt; of stones &lt;i&gt;in the bed of a torrent.&lt;/i&gt; (Lth, IKtt, O.) ―         -b4-  And The &lt;i&gt;sound of one&#39;s moving,&lt;/i&gt; or &lt;i&gt;putting in motion,&lt;/i&gt; [or &lt;i&gt;rocking,&lt;/i&gt;] &lt;i&gt;a child in the cradle&lt;/i&gt; (K, TA) &lt;i&gt;in order that it may sleep.&lt;/i&gt; (TA.)       -A2-  See also the next paragraph, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11918&quot; key=&quot;دَاْدَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَاْدَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (AA, T, S, M, K) and ↓ <br>\
+      دِيْدَا=ءٌ (AA, S, M, K) and ↓ <br>\
+      دُوْدُوْءٌ, (M, K,) all with medd, (TA,) The &lt;i&gt;last&lt;/i&gt; (&lt;i&gt;of the days,&lt;/i&gt; T) &lt;i&gt;of the&lt;/i&gt; [&lt;i&gt;lunar&lt;/i&gt;] &lt;i&gt;month;&lt;/i&gt; (AA, T, S, M, K;) as also ↓ <br>\
+      دَاْدَاُ: (M:) or the &lt;i&gt;day of doubt;&lt;/i&gt; <br>\
+                  يَوْمُ الشَّكِّ [generally meaning the &lt;i&gt;day of which one doubts whether it be the last of Shaabán or the first of Ramadán;&lt;/i&gt; but here app. relating to any month]: (TA:) or ↓ <br>\
+      دَاْدَاٌ signifies the &lt;i&gt;day,&lt;/i&gt; (M,) or &lt;i&gt;night,&lt;/i&gt; (TA,) &lt;i&gt;of which one doubts whether it be the last of one month or the first of the next month:&lt;/i&gt; (M, TA:) so says Kr: (M:) or the first word and the second (M, K) and the third (K) signify the &lt;i&gt;twenty-fifth,&lt;/i&gt; and the &lt;i&gt;twenty-sixth,&lt;/i&gt; and the &lt;i&gt;twentyseventh, night:&lt;/i&gt; (M, K:) or the &lt;i&gt;twenty-eighth night,&lt;/i&gt; and the &lt;i&gt;twenty-ninth:&lt;/i&gt; or each of these two is called ↓ <br>\
+      دَاْداَةٌ; and the two together, الدَّا=دِيُ: (Th, M:) or [&lt;i&gt;each of&lt;/i&gt;] &lt;i&gt;three nights of the end of the month;&lt;/i&gt; (K, TA;) which are [also] called لَيَالِى المُحَاقِ: (TA:) pl. دَا=دِيُ, (M, K,) and, by poetic license, دَا=دٍ: (M:) or the دَا=دِي are &lt;i&gt;three nights of the latter part of the month, before those called&lt;/i&gt; <br>\
+                  ليالى المحاق: (T, S:) thus says A &#39;Obeyd; and IAar says the like: or they are the &lt;i&gt;three nights that are after the&lt;/i&gt; <br>\
+                  محاق; and are so called because the moon hastens therein to become invisible; from the phrase دَاْدَاَةُ البَعِيرِ: As says that three of the nights of the month are called the محاق; and three, the دا=دي; and these latter are the &lt;i&gt;last;&lt;/i&gt; and AHeyth says the like. (T.) ↓ <br>\
+      الدِّيْدَا=ءُ signifies also &lt;i&gt;The last part of the night.&lt;/i&gt; (Kr, M.) And ↓ <br>\
+      لَيْلَةٌ دَاْدَاٌ and ↓ <br>\
+      دَاْدَاَةٌ and دَاْدَا=ءٌ and ↓ <br>\
+      دَاْدَا=ءَةٌ, (M, K, TA,) of which the first two are the most common, mean &lt;i&gt;A dark night:&lt;/i&gt; (TA:) or &lt;i&gt;a very dark night:&lt;/i&gt; (M, K:) because of the concealment of the moon therein. (TA.)       -A2-  See also R. Q. 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11919&quot; key=&quot;لَيْلَةٌ دَاْدَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَيْلَةٌ دَاْدَا=ءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph, near the end.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11920&quot; key=&quot;دُوْدُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دُوْدُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see دَاْدَا=ءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11921&quot; key=&quot;دِيْدَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دِيْدَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see دَاْدَا=ءٌ, in two places.   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>ملى</em>            1                  ملى<br>\
+<b>مُلِّىَ اَباَهُ</b>               1     <br>\
+                     مُلِّىَ اَباَهُ<br>\
+                     ذ<br>\
+                  : see لَبِسَ اَبَاهُ in art. لبس. ―         -b2-  مُلِّيتُ فُلاَبًا <br>\
+                  <i>I was made to live long with such a one.</i> (Ham, p. 412.) ―         -b3-  مَلَّاكَ اْللّٰهُ حَبِيبَكَ <br>\
+                  <i>May God make thee to have enjoyment of thy friend</i> (مَتَّعَكَ بِهِ) <i>and to live long with him.</i> (S.) See لَبِسَ.    </entryFree> <br>\
+<b>٤</b>               1     <br>\
+                     اَمْلَيْتُ<br>\
+                     ذ and        <br>\
+      اَمْلَلْتُ<br>\
+                  : see 4 in art. حظ.    </entryFree> <br>\
+<b>تَمَلَّى العَيْشَ</b>               1     <br>\
+                     تَمَلَّى العَيْشَ<br>\
+                     ذ<br>\
+                  <i>He lived long.</i> (T.) ―         -b2-  تَمَلَّى <br>\
+                  بشَىْءٍ <br>\
+                  <i>He enjoyed a thing.</i> ―         -b3-  تَمَلَّيْتُ عُمْرَهُ: see a verse of Ibn-Ahmar cited voce اَبْلَى in art. بلو.    </entryFree> <br>\
+<b>مَلِيًّا</b>               1     <br>\
+                     مَلِيًّا<br>\
+                     ذ<br>\
+                  <i>A while:</i> (Msb:) or <i>a long time.</i> (S, Msb.)    <br>\
+' } );

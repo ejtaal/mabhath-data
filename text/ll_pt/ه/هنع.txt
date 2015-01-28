@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>هنع</em>            1                  هنع<br>\
+<b>الهَنْعَةُ</b>               1     <br>\
+                     الهَنْعَةُ<br>\
+                     ذ<br>\
+                  <i>Two white stars,</i> [g <i>and</i> c <i>of Gemini,</i>] <i>between which is the space of the length of a whip, in the Milky Way; one of which is called</i> <br>\
+                  الزَرُّ, <i>the other</i> <br>\
+                  المَيْسَانُ. ―         -b2-  <i>The 6th Mansion of the Moon.</i> (El-Kazweenee) ―         -b3-  Or <i>The three stars</i> [l, f 1, <i>and</i> f 2,] <i>in the face of Orion.</i> (Idem, descr. of Orion.) [The former accord. to those who make نَوْءٌ to signify the “ auroral setting: ” the latter accord. to those who make it to signify the “ auroral rising: ” accord. to those who make it to have the first of these two significations, the three stars in the face of Orion compose الهَقْعَةُ, q. v.] See التَّحَايِى, in art. حى.    <br>\
+' } );

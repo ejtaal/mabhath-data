@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شرقرق</em>            1                  شرقرق<br>\
+<b>شِرِقْرَاقٌ</b>               1     <br>\
+                     شِرِقْرَاقٌ<br>\
+                     ذ<br>\
+                   and its vars.: see art. شقرق.   </entryFree> <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>مهن</em>            1                  مهن<br>\
+<b>اِمْتَهَنَهُ</b>               1     <br>\
+                     اِمْتَهَنَهُ<br>\
+                     ذ<br>\
+                  <i>He used it for service and work:</i> (K:) <i>i. q.</i> <br>\
+                  اِبْتَذَلَهُ, q. v.: (S, Msb:) <i>He held it in mean estimation.</i> (Har, p. 65.)    </entryFree> <br>\
+<b>مَِهْنَةٌ</b>               1     <br>\
+                     مَِهْنَةٌ<br>\
+                     ذ<br>\
+                   [is syn. with عَمَلٌ and فِعْلٌ, and means <i>work, labour,</i> or] <i>service; ministration; performance of an office.</i> (S, &amp;amp;c.) ―         -b2-  Also, The <i>clothes worn in service, or in the performance of business.</i> (Msb.)    </entryFree> <br>\
+<b>مَهِينٌ</b>               1     <br>\
+                     مَهِينٌ<br>\
+                     ذ<br>\
+                  <i>Contemptible; abject:</i> (S, K) <i>weak: having little judgment and discrimination.</i> (K.)   </entryFree> <br>\
+' } );

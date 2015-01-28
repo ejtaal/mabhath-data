@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>كون</em>            1                  كون<br>\
+<b>كَانَ</b>               1     <br>\
+                     كَانَ<br>\
+                     ذ<br>\
+                  <i>He or it was.</i> A verb of the class called incomplete, (نَاقِصٌ) because, with the agent which it comprises, or to which it relates, it cannot constitute a complete proposition; i. e., non-attributive. The other verbs of this class are, ظَلَّ اَضْحَى اَمْسَى اَصْبَحَ صَارَ, مَا دَامَ مَااْنْفَكَّ مَا فَتِيَ مَابَرِحَ مَا زَالَ بَاتَ, and لَيْسَ. Each of these governs its noun, or subject, in the nom. case, and its enunciative, or predicate, in the acc. case; as, كَانَ زَيْدٌ قَايِمًا <br>\
+                  <i>Zeyd was standing.</i> ―         -b2-  (The ن in يَكُنْ and the like is often irregularly elided.) ―         -b3-  كَانَ, divested of all signification of time. is often used as a copula. (See De Sacy &#39;s Gr. Ar. i. 196.) So too is كَايِنٌ; for هٰذَا زَيْدٌ and هٰذَا كَايِنٌ زَيْدًا signify the same. (Mughnee, voce اَنَّ.) ―         -b4-  كَانَ as a complete, i. e., an attributive, verb, see حَصَلَ. in three places.    </entryFree> <br>\
+<b>تَكَوَّنَ</b>               1     <br>\
+                     تَكَوَّنَ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, received,</i> or <i>took, his, or its, being,</i> or <i>existence; came into existence; originated.</i>    <br>\
+<b>اِسْتَكَانَ</b>               1     <br>\
+                     اِسْتَكَانَ<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became lowly, humble, submissive,</i> or <i>in a state of abasement.</i> (Har, p. 4, q. v.) See اِسْتَكَنَ in art. سكن: and see art. كين.    </entryFree> <br>\
+<b>نَعُوذُ بِاللّٰهِ من الحَوْرِ بَعْدَ الكَوْنِ</b>               1     <br>\
+                     نَعُوذُ بِاللّٰهِ من الحَوْرِ بَعْدَ الكَوْنِ<br>\
+                     ذ<br>\
+                  : see حَوْرٌ and كَوْرٌ.    </entryFree> <br>\
+<b>كَيْنُونَةٌ</b>               1     <br>\
+                     كَيْنُونَةٌ<br>\
+                     ذ<br>\
+                  :see شَاخَ.    </entryFree> <br>\
+<b>مَكَانَةٌ</b>               1     <br>\
+                     مَكَانَةٌ<br>\
+                     ذ<br>\
+                  <i>A particular place of being</i> or <i>existence.</i> See an ex. voce نَفْسٌ. ―         -b2-  مَكَانَكَ وَزَيْدًا [<i>Keep where thou art and approach not Zeyd!</i>] Heard by Ks. (L, art. عند.) ―         -b3-  <i>State,</i> or <i>condition.</i> [Bd, xi. 122, and xxxix. 40.) See art. مكن. ―         -b4-  مَكَانٌ <br>\
+                  <i>i. q.</i> <br>\
+                  مَنْزِلَةٌ. (Bd, xii. 77.) ―         -b5-  هٰذَا مَكَانٌ <br>\
+                  لِقَوْلِنَا كَذَا <br>\
+                  <i>This is a ground for our saying thus.</i> ―         -b6-  اَصْبَحَ مَكَانَ كَذَا <br>\
+                  <i>It became as,</i> or <i>like, such a thing.</i> See a verse cited voce رَتْمٌ.   </entryFree> <br>\
+' } );

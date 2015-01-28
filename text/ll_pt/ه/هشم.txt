@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>هشم</em>            1                  هشم<br>\
+<b>هَشَمَهُ</b>               1     <br>\
+                     هَشَمَهُ<br>\
+                     ذ<br>\
+                  <i>He crushed it.</i>    <br>\
+<b>هَشَّمَهُ</b>               1     <br>\
+                     هَشَّمَهُ<br>\
+                     ذ<br>\
+                  , inf. n. تَهْشِيمٌ, <i>He broke it</i> [<i>much,</i> or <i>so crushed it</i>]; (TA;) namely, a dry thing, and anything hollow, such as the head, and the like. (TA in art. شدخ.)    </entryFree> <br>\
+<b>تَهَشَّمَ</b>               1     <br>\
+                     تَهَشَّمَ<br>\
+                     ذ<br>\
+                  <i>It</i> (a plant, or herbage,) <i>became</i> <br>\
+                  هَشِيم, i. e. <i>dry, and broken in pieces.</i>    <br>\
+<b>هَشِيمٌ</b>               1     <br>\
+                     هَشِيمٌ<br>\
+                     ذ<br>\
+                   A plant <i>that is dry, and breaks,</i> or <i>is broken, in pieces.</i> (S, Msb, K.)    </entryFree> <br>\
+<b>هَاشِمَةٌ</b>               1     <br>\
+                     هَاشِمَةٌ<br>\
+                     ذ<br>\
+                  <i>A wound in the head which breaks the bone:</i> see شَجَّةٌ.    </entryFree> <br>\
+<b>الكُرُّ الهَاشِمِىُّ</b>               1     <br>\
+                     الكُرُّ الهَاشِمِىُّ<br>\
+                     ذ<br>\
+                  : see كُرٌّ.   </entryFree> <br>\
+' } );

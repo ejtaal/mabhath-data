@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'تأR. Q. 1<br>\
+تَأْتَأَ, inf. n. تأْتَأَةٌ, He reiterated the<br>\
+letter ت in speaking. (S, K.) ―<br>\
+-b2-  تَأْتَأَ بِالتَّيْسِ, (T,<br>\
+M,) inf. n. as above (T, M, K) and تِئْتَآءٌ, (M,)<br>\
+or تَأْتَآءٌ, (K,) He called the he-goat to copulate,<br>\
+(T, M, K,) or to approach, (M,) saying ↓ تَأْ تَأْ.<br>\
+(M.)<br>\
+تَأْ تَأْ: see what next precedes.<br>\
+تَأْتَأَةٌ An onomatopœia [imitative of the sound<br>\
+made in reiterating the letter ت in speaking: or,<br>\
+in calling a he-goat to copulate, or to approach:<br>\
+see the verb, above]. (T, K.)<br>\
+تَأْتَآءٌ A man who reiterates the letter ت in<br>\
+speaking. (S, K. *)<br>\
+' } );

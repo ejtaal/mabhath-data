@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>مرع</em>            1                  مرع<br>\
+<b>مَرُعَ</b>               1     <br>\
+                     مَرُعَ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      اَمْرَعَ <br>\
+                  <i>It</i> (a valley) <i>abounded with herbage.</i> (S, Msb, K.)    </entryFree> <br>\
+                     اَمْرَعَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>مُرَعٌ</b>               1     <br>\
+                     مُرَعٌ<br>\
+                     ذ<br>\
+                  , the bird so called: see an ex. voce بُلَعٌ.   </entryFree> <br>\
+' } );

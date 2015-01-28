@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'نيسنَيْسَانُ [vulg. نِيسَان] The seventh of the Greek<br>\
+[or Syrian] months; (K;) [corresponding to<br>\
+April, O. S.] It is [said to be] a property of<br>\
+the water of its rain, that dough kneaded with<br>\
+it ferments without other treatment. (TA.)<br>\
+' } );

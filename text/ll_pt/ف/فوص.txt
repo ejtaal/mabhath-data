@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>فوص</em>            1                  فوص<br>\
+<b>المُفَاوَصَةُ</b>               1     <br>\
+                     المُفَاوَصَةُ<br>\
+                     ذ<br>\
+                   signifies <i>The being clear,</i> or <i>perspicuous,</i> syn. البَيَانُ, (S, O, K,) in talk or discourse (فِى الحَدِيثِ). (S. [In the O, and K, مِنَ الحَدِيثِ; and hence it is said in the TK that فَاوَصَ الحَدِيثَ signifies بَيَّنَهُ <br>\
+                  <i>He made the talk,</i> or <i>discourse, clear,</i> or <i>perspicuous:</i> but for this I do not find any authority.]) Some say المُفَايَصَةُ. (IB, TA in art. فيص.) [See also 4 in art. فيص.]    </entryFree> <br>\
+<b>مَا اَفَاصَ بِكَلِمَةِ</b>               1     <br>\
+                     مَا اَفَاصَ بِكَلِمَةِ<br>\
+                     ذ<br>\
+                  : see art. فيص. [It seems to be indicated in the S that this is from المُفَاوَصَةُ, expl. above: and the like of this is app. said by IB.]    </entryFree> <br>\
+<b>التَّفَاوُصُ</b>               1     <br>\
+                     التَّفَاوُصُ<br>\
+                     ذ<br>\
+                   signifies التَّبَايُنُ [<i>The being,</i> or <i>becoming, separated, one from another</i>]; from البَيْنُ, not from البَيَانُ: (O, K:) originally التَّفَايُصُ; mentioned also [in a different sense] in art. فيص. (TA.) See the latter art.    <br>\
+' } );

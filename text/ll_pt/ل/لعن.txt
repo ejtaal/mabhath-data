@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لعن</em>            1                  لعن<br>\
+<b>لُعْنَةٌ</b>               1     <br>\
+                     لُعْنَةٌ<br>\
+                     ذ<br>\
+                   A man <i>who is much cursed.</i> (TA in art. خدع.)    </entryFree> <br>\
+<b>لَعِينٌ</b>               1     <br>\
+                     لَعِينٌ<br>\
+                     ذ<br>\
+                   The <i>base,</i> or <i>lower part, of a raceme of a palm-tree.</i> (TA in art. عهن.)   </entryFree> <br>\
+' } );

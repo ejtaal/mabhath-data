@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'سخب1<br>\
+سَخَبٌ [inf. n. of سَخِبَ] i. q. صَخَبٌ [inf. n.<br>\
+of صَخِبَ], (A, K,) signifying The raising a loud<br>\
+cry, or a clamour: (TA:) or it [is used as a<br>\
+subst., and] signifies a confusion of sounds.<br>\
+(Mgh, MF, TA.) The substitution of س for ص<br>\
+is allowable in every word containing خ: [for<br>\
+instance,] in a trad. [cited voce خَشَبٌ, q. v., as<br>\
+some relate it], the hypocrites are described as<br>\
+خُشُبٌ بِاللَّيْلِ سُخُبٌ بِالنَّهَارِ. (TA.)<br>\
+سِخَابٌ A necklace (قِلَادَة) made of [the composition termed] سُكّ and of other things, without<br>\
+any jewels: (S:) or a قِلَادَة of cloves and سُكّ and<br>\
+مَحْلَب [q. v.], without jewels, (A, K, TA,) and<br>\
+without pearls: and likewise, of gold: and of<br>\
+silver: or, accord. to Az, it is, with the Arabs,<br>\
+any قِلَادَة, whether with jewels or without:<br>\
+accord. to IAth, a string on which are strung<br>\
+beads, worn by boys and by girls: (TA:) it is<br>\
+thus called because of the sound of its beads when<br>\
+in motion: (MF, TA:) pl. سُخُبٌ. (S, K.)<br>\
+[Hence] one says, وَجَدْتُكَ وَارِثَ السِّخَابِ [I have<br>\
+found thee to be the inheritor of the سخاب],<br>\
+meaning, (tropical:)  like the boy that has no knowledge.<br>\
+(A, TA.)<br>\
+' } );

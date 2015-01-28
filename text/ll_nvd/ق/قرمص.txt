@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قرمصقُرْمُوصٌ<br>\
+A hollow which a man digs wherein<br>\
+to sit to protect himself from the cold. (Mgh,<br>\
+art. ربض.) See an ex. voce رَبَضٌ.<br>\
+' } );

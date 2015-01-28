@@ -1,0 +1,28 @@
+load_data( { book: 'll_nvd', text: 'هوت2<br>\
+هوّت بِهِ, inf. n. تَهْوِيتٌ, He called out to<br>\
+him; (K;) saying حَوْتَ حَوْتَ: (TA, art.<br>\
+حيت:) he cried out to him, and called him.<br>\
+(S.) A dial. form of هيّت. (TA.) [See هَيَّتَ.]<br>\
+هَوْتَةٌ: see what follows.<br>\
+هُوتَةٌ (K) and ↓ هَوْتَةٌ (S, K) A low, or depressed,<br>\
+tract, or piece, of land: (S, K:) or a deep place:<br>\
+(IAth:) or the space between two mountains:<br>\
+(IAar:) pl. هُوَتٌ (as in the CK) or هُوت (as in<br>\
+the TA.) It may be said that هُوتٌ and هُوَتٌ<br>\
+are coll. gen. ns. [of each of which the n. un. is<br>\
+with ة]. (TA.) ―<br>\
+-b2-  Also هُوتَةٌ A road, or way,<br>\
+descending to water. (IAar.) ―<br>\
+-b3-  صَبَّ اللّٰهُ عَلَيْهِ<br>\
+وَمْوَتَةً ↓ هَوْتَةَ an imprecation, respecting which<br>\
+ISd says, I know not what is هوتة here. [It<br>\
+probably signifies A cry, such as destroyed the<br>\
+tribe of Thamood: see هَوَّتَ.] (TA.)<br>\
+مَضَى هِيتَاءٌ مِنَ اللَّيْلِ A certain time, or portion, of the night passed. Accord. to Aboo-<br>\
+&#39;Alee, هيتاء is of the measure فِعْلَاءٌ, and quasicoordinate to سِرْدَاحٌ, and belonging to this art.<br>\
+(TA.)<br>\
+هِيتَاه هِيتَاه A cry by which the Arabs urge on<br>\
+a dog against the game which they are pursuing.<br>\
+(TA.) [In the L written هَيْتَاء, and mentioned<br>\
+in art. هيت.]<br>\
+' } );

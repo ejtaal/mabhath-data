@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'وكث10<br>\
+استوكث He ate of what is called وكاث:<br>\
+(K:) he hastened, and ate somewhat of that<br>\
+which is called وكاث, thereby to attain the<br>\
+period of the morning-meal called الغَدَآء. (L.)<br>\
+وِكَاثٌ and وُكَاثٌ Food, aliment, or nutriment, (غِذَآءٌ: so in some copies of the K, and in<br>\
+the TA: in the CK, غَدَآءٌ, or a morning meal:)<br>\
+that is prepared, or taken, in haste, (يُسْتَعْجَلُ بِهِ,)<br>\
+[before the morning-meal called غَدَآء: see 10].<br>\
+(K.)<br>\
+' } );

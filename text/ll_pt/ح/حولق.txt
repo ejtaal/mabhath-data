@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>حولق</em>            1                  حولق<br>\
+<b>حَوْلَقَ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     حَوْلَقَ<br>\
+                     حولق<br>\
+                  , inf. n. حَوْلَقَةٌ: see Q. Q. 1 in art. حلق.   </entryFree> <br>\
+' } );

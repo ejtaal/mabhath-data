@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'فولفُولٌ [Beans; or the bean; faba sativa of Jussieu; vicia faba of Linnæus; i. e.] i. q. بَاقِلًّى<br>\
+[q. v.]: (T, IF, S, Msb:) or i. q. حِمَّص [i. e.<br>\
+chick-peas; or the chick-pea]: (so in one of my<br>\
+copies of the S: [in most of the copies of the S,<br>\
+this word is mentioned at the end of art. فيل;<br>\
+but in the older of my copies, before that art.:])<br>\
+or a certain grain, or seed, (حَبّ,) like the حِمَّص:<br>\
+but with the people of Syria [and of Egypt], i. q.<br>\
+بَاقِلًّى: or (as some say, M) specially the dry<br>\
+[thereof]: n. un. with ة: (M, K:) mentioned by<br>\
+Sb. (M.)<br>\
+فَوَّالٌ A seller of فُول. (TA.)<br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>صعط</em>            1                  صعط<br>\
+<b>صَعَطَهُ</b>               1     <br>\
+                     صَعَطَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     صَعَطَ<br>\
+                   and      <br>\
+                     صَعُطَ<br>\
+                  , (K,) inf. n. صَعْطٌ and صُعُوطٌ, (TA,) a dial. var. of سَعَطَهُ; and so is ↓ <br>\
+      اصعطهُ of اسعطهُ. (K, * TA.) See art. سعط.    </entryFree> <br>\
+                     اَصْعَطَ<br>\
+                   see what here precedes.    </entryFree> <br>\
+<b>صَعُوطٌ</b>               1     <br>\
+                     صَعُوطٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  سَعُوطٌ, q. v. (Lh, K.)   </entryFree> <br>\
+' } );

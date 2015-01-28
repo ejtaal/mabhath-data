@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>خزعبل</em>            1                  خزعبل<br>\
+<b>خَزَعْبَلٌ</b>               1     <br>\
+                     خَزَعْبَلٌ<br>\
+                     خزعبل<br>\
+                  <i>Stories that are held to be clever, ingenious,</i> or <i>elegant,</i> (IDrd, K,) <i>and at which one laughs.</i> (IDrd.)    </entryFree> <br>\
+<b>خُزَعْبَلٌ</b>               1     <br>\
+                     خُزَعْبَلٌ<br>\
+                     خزعبل<br>\
+                  <i>i. q.</i> <br>\
+                  بَاطِلٌ [app. as a subst., meaning <i>A false,</i> or <i>vain, saying</i> or <i>deed</i> or <i>affair</i> or <i>thing</i>]; as also ↓ <br>\
+      خُزَعْبِيلٌ: (K:) or, accord. to El-Jarmee, (S, TA,) the latter, (S,) or each, (TA,) <i>false,</i> or <i>vain, sayings</i> or <i>deeds</i> or <i>affairs</i> or <i>things.</i> (S, TA.)    </entryFree> <br>\
+<b>خُزَعْبَلَةٌ</b>               1     <br>\
+                     خُزَعْبَلَةٌ<br>\
+                     خزعبل<br>\
+                     خزعبله<br>\
+                     خزعبلة<br>\
+                   or خُزَعْبِلَةٌ (accord. to different copies of the K) <i>A wonderful thing.</i> (IAar, K.) And [the pls.] خُزَعْبِلَاتٌ and خُزَعْبَلَاتٌ <br>\
+                  <i>False,</i> or <i>vain, stories.</i> (Har p. 16.)    </entryFree> <br>\
+<b>خُزَعْبِيلٌ</b>               1     <br>\
+                     خُزَعْبِيلٌ<br>\
+                     خزعبيل<br>\
+                  : see خُزَعْبَلٌ.    </entryFree> <br>\
+<b>خُزَعْبِيلَةٌ</b>               1     <br>\
+                     خُزَعْبِيلَةٌ<br>\
+                     خزعبيله<br>\
+                     خزعبيلة<br>\
+                  <i>A laughable thing; a thing that makes people laugh.</i> (S, K) One says, هَاتِ بَعْضَ <br>\
+                  خُزَعْبِيلَاتِكَ [<i>Give me some of thy laughable thingsor stories</i>]. (S.)   </entryFree> <br>\
+' } );

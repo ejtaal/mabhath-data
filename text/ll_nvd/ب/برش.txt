@@ -1,0 +1,46 @@
+load_data( { book: 'll_nvd', text: 'برش1<br>\
+بَرِشَ, aor.<br>\
+بَرَشَ, inf. n. بَرَشٌ, i. q. بَرِصَ, aor.<br>\
+بَرَشَ,<br>\
+inf. n. بَرَصٌ: (Msb:) [or rather, used allusively<br>\
+for the latter verb: see أَبْرَشُ. See also بَرَشٌ,<br>\
+below.]<br>\
+9<br>\
+ابرشّ, inf. n. إِبْرشَاشٌ, He (a horse) was, or<br>\
+became, marked with small specks, called بَرَش,<br>\
+differing from the rest of his colour. (S.)<br>\
+بَرَشٌ, in the hair of a horse, Small specks, differing from the rest of the colour; (S, K;) as<br>\
+also ↓ بُرْشَةٌ: (K:) or both signify a colour in<br>\
+which one speck is red and another black or dustcoloured or the like. (TA.) ―<br>\
+-b2-  And hence, (T-A,)<br>\
+the former, (A, TA,) or ↓ both (K,) A whiteness<br>\
+that appears upon the nails. (Ibráheem El-Harbee, A, K.) ―<br>\
+-b3-  And the former, White specks in<br>\
+the skin. (A.) ―<br>\
+-b4-  [See also 1.]<br>\
+بُرْشَةٌ: see بَرَشٌ, in two places.<br>\
+بَرِيشٌ: see أَبْرَشُ.<br>\
+أَبْرَشُ, applied to a horse, (S, K,) or to one of the<br>\
+sort termed بِرْذَون, (Lh,) Marked with the small<br>\
+speaks termed بَرَش; (Lh, S, K;) as also ↓ بَرِيشٌ.<br>\
+(K.) Also, شَاةٌ بَرْشَآءُ A ewe, or she-goat, marked<br>\
+with specks of various colours. (TA.) And حَيَّةٌ<br>\
+بَرْشَآءُ A serpent black speckled with white, or<br>\
+white speckled with black. (TA.) ―<br>\
+-b2-  [Hence,]<br>\
+i. q. أَبْرَصُ: fem. بَرْشَآءُ: pl. بُرْشٌ: (Msb:) [or<br>\
+rather, used allusively for أَبْرَصُ; for] Jedheemeh<br>\
+(S, A, K) Ibn-Málik (S, TA) Ibn-Fahm, (TA,)<br>\
+the king [of El-Heereh], (K,) was surnamed<br>\
+الأَبْرَشُ in allusion to his being أَبْرَص; (S, A, K;)<br>\
+the Arabs fearing to apply to him this latter<br>\
+epithet: (K:) or he was thus called because he<br>\
+was marked with black or red specks caused by a<br>\
+burn. (Kh.) ―<br>\
+-b3-  مَكَانٌ أَبْرَشُ A place of various<br>\
+colours, abounding in plants or herbage: (K:)<br>\
+and أَرْضٌ بَرْشَآءٌ, and سَنَةٌ بَرْشَآءُ, land, and a year,<br>\
+in which is abundance of herbage (Ks, K) of<br>\
+various colours; (Ks;) as also رَبْشَآءُ and رَمْشَآءُ.<br>\
+(TA.)<br>\
+' } );

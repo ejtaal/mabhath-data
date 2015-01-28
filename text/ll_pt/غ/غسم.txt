@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>غسم</em>            1                  غسم<br>\
+<b>غَسَمَ</b>               1     <br>\
+                     غَسَمَ<br>\
+                     ذ<br>\
+                  <i>It</i> (the night) <i>was,</i> or <i>became, dark;</i> (As, S, K;) as also ↓ <br>\
+      اغسم, (JK, K,) like اَغْسَى. (JK.)    </entryFree> <br>\
+                     اَغْسَمَ<br>\
+                   see what precedes.    </entryFree> <br>\
+<b>غَسَمٌ</b>               1     <br>\
+                     غَسَمٌ<br>\
+                     ذ<br>\
+                   The <i>darkness</i> (S, ISd, TA) of night; (ISd, TA;) like غَسَقٌ: (S, TA:) or <i>blackness:</i> (Kr, K:) and (K) accord. to En-Nadr, (S,) the <i>confusedness,</i> or <i>blending, of the darkness:</i> (JK, S, K:) and the <i>first rising of the dawn.</i> (JK.) ―         -b2-  And <i>Dust,</i> or <i>dust rising,</i> or <i>spreading, like smoke;</i> syn. هَبْوَةٌ and غَبَرَةٌ (K) or غُبْرَةٌ [which sometimes signifies the same as غَبَرَهٌ]. (CK.)    </entryFree> <br>\
+<b>غُسَمٌ</b>               1     <br>\
+                     غُسَمٌ<br>\
+                     ذ<br>\
+                  ; see اَغْسَامٌ.    </entryFree> <br>\
+<b>لَيْلٌ غَاسِمٌ</b>               1     <br>\
+                     لَيْلٌ غَاسِمٌ<br>\
+                     ذ<br>\
+                  <i>Dark night.</i> (TA.)    </entryFree> <br>\
+<b>فِى السَّمَا=ءِ اَغْسَامٌ</b>               1     <br>\
+                     فِى السَّمَا=ءِ اَغْسَامٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      غُسَمٌ <br>\
+                  <i>In the sky are portions of clouds.</i> (K.)   </entryFree> <br>\
+            <div2 n=&quot;gsw and gsY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  غسو and غسى<br>\
+<b>غَسَا اللَّيْلُ</b>               1     <br>\
+                     غَسَا اللَّيْلُ<br>\
+                     ذ<br>\
+                  , (S, K,) aor. يَغْسُو, (S,) inf. n. غُسُوٌّ; (S, K; accord. to some copies of the K غَسْوٌ;) and غَسَى, aor. يَغْسِى; (IJ, TA;) and غَسِىَ, aor. يَغْسَى, (S, K, TA,) inf. n. غَسًا; of which last form, غَشِىَ is a dial. var.; (TA;) <i>The night was,</i> or <i>became, dark;</i> as also ↓ <br>\
+      اغسى. (S, K.) [See also عَسَا.]    </entryFree> <br>\
+                     اَ١ْ٢َ٣َ<br>\
+                   see what precedes. ―         -b2-  اغسى also signifies <i>He</i> (a man) <i>entered upon the time of,</i> or <i>a little after, sunset.</i> (TA.) ―         -b3-  And اَغْسِ مِنَ اللَّيْلِ <br>\
+                  <i>Journey thou not in the first part of the night, until its darkness depart.</i> (TA.)       -A2-  And اغساهُ <br>\
+                  اللَّيْلُ <br>\
+                  <i>The night enveloped him in its darkness.</i> (Sgh, K.)   </entryFree> <br>\
+' } );

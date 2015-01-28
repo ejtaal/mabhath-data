@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'لظألَظَأٌ A little (and mean, or contemptible, TA)<br>\
+thing; a little. (K.)<br>\
+' } );

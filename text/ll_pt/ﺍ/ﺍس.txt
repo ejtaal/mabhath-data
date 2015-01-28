@@ -1,0 +1,60 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اس<br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَسڤ٣َ<br>\
+                  &lt;/form&gt; see 2, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n714&quot; key=&quot;اسّسهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اسّسهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, Msb,) inf. n. تَاْسِيسٌ, (S, Msb, K,) &lt;i&gt;He founded it;&lt;/i&gt; or &lt;i&gt;made,&lt;/i&gt; or &lt;i&gt;laid, a foundation,&lt;/i&gt; or &lt;i&gt;basis, for it;&lt;/i&gt; (S, * Msb;) namely, a building, (S,) or a wall: (Msb:) &lt;i&gt;he marked out the limits of it,&lt;/i&gt; (namely, of a house,) &lt;i&gt;and raised its foundations: he built its foundation,&lt;/i&gt; or &lt;i&gt;basis:&lt;/i&gt; (K:) &lt;i&gt;he commenced it;&lt;/i&gt; namely, a building; as also ↓ <br>\
+      اَسَّهُ, aor. يَوُسُّهُ, inf. n. اَسَّ: (M:) &lt;i&gt;he built it;&lt;/i&gt; namely, a house; (TA;) as also ↓ <br>\
+      اَسَّهُ. (K.) You say, هٰذَا تَاْسِيسٌ حَسَنٌ [&lt;i&gt;This is a good founding,&lt;/i&gt; or &lt;i&gt;foundation&lt;/i&gt;]. (TA.) And مَنْ لَمْ يُوَسِّسْ <br>\
+                  مِلْكَهُ بِالعَدْلِ هَدَمَهُ (tropical:)  [&lt;i&gt;He who does not lay the foundation of his property with equity,&lt;/i&gt; or &lt;i&gt;justice, destroys it&lt;/i&gt;]. (A, TA.) ―         -b2-  اسّس زَادًا: see زَادَ in art. زود.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n715&quot; key=&quot;اَسٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows, in six places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n716&quot; key=&quot;اُسٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُسٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;foundation, basis,&lt;/i&gt; or &lt;i&gt;lowest part,&lt;/i&gt; (S, A, Mgh, Msb, K,) of a building, (S, A, K,) or of a wall; (Mgh, Msb;) as also ↓ <br>\
+      اَسٌّ and ↓ <br>\
+      اـِسٌّ (A, K) and ↓ <br>\
+      اَسَاسٌ (S, A, Mgh, Msb, K) and ↓ <br>\
+      اَسَسٌ, (S, K,) which is a contraction of اَسَاسٌ: (S:) or the &lt;i&gt;commencement&lt;/i&gt; of a building: and &lt;i&gt;any commencement&lt;/i&gt; of a thing; as also ↓ <br>\
+      اَسٌّ and ↓ <br>\
+      اَسَاسٌ and ↓ <br>\
+      اَسَسٌ: (M:) and the &lt;i&gt;origin, source, stock,&lt;/i&gt; or &lt;i&gt;root,&lt;/i&gt; (اَصْل,) of a man; as also ↓ <br>\
+      اَسٌّ: or of anything; (M, K;) as also ↓ <br>\
+      اَسٌّ (M, K) and ↓ <br>\
+      اـِسٌّ and ↓ <br>\
+      اَسِيسٌ: (K:) and the &lt;i&gt;heart&lt;/i&gt; of a man; because [the Arabs believe that] it is the first thing that comes into existence in the womb: (M, K:) pl. ا=سَاسٌ (S, M, Mgh, Msb, K) and اـِسَاسٌ (M, Msb, K) and اُسُسٌ; (M, Mgh, Msb, K;) the first of which is pl. of اٌسٌّ, (Mgh, Msb,) like as اَقْفَالٌ is of قُفْلٌ; (Msb;) or of اَسَسٌ, like as اَسْبَابٌ is of سَبَبٌ; (S;) or, as some say, of اُسُسٌ, [like as اَعْنَاقٌ is of عُنُقٌ,] so that it is a pl. pl.; (TA;) and the second, of اَسٌّ, like as عِسَاسٌ is of عُسٌّ; (Msb;) and the third, of اَسَاسٌ, (Mgh, Msb,) like as عُنُقٌ is of عَنَاقٌ. (Msb.) You say, الاَوَّلِ ↓ <br>\
+      بَنَى بَيْتَهُ عَلَى اَسَاسِهِ [&lt;i&gt;He built his house upon its first foundation.&lt;/i&gt;] (A.) And قَلَعَهُ مِنْ اُسِّهِ [&lt;i&gt;He uprooted it from its foundation&lt;/i&gt;]. (A.) And اَمْرِهِ الكَذِبُ ↓ <br>\
+      فُلَانٌ اَسَاسُ (tropical:)  [&lt;i&gt;Such a one, the foundation of his affair,&lt;/i&gt; or &lt;i&gt;case, is falsehood&lt;/i&gt;]. (A, TA.) And كَانَ ذٰلَكَ عَلَى اُسِّ الدَّهْرِ, (S, M, A, K,) and ↓ <br>\
+      اَسِهِ, and ↓ <br>\
+      اـِسِهِ, (S, M, K,) (tropical:)  &lt;i&gt;That was in old,&lt;/i&gt; or &lt;i&gt;ancient, time;&lt;/i&gt; (S, M, K;) &lt;i&gt;at the beginning of time;&lt;/i&gt; (S, A, * K;) and in like manner, عَلَي اْسْتِ <br>\
+                  الدَّهْرِ. (A.) ―         -b2-  Also &lt;i&gt;A remain, relic, trace, vestige, sign, mark,&lt;/i&gt; or &lt;i&gt;track,&lt;/i&gt; of anything. (K.) You say, خُذْ اُسَّ الطَّرِيقِ, or الطَّرِيقِ ↓ <br>\
+      اَسَّ, [accord. to different copies of the K, meaning, &lt;i&gt;Take thou to the track of the way,&lt;/i&gt;] when one guides himself by any mark or track, or by camels&#39; dung: but when the way is manifest, you say, خُذْ شَرَكَ الطَّرِيقِ. (K.) اُسٌّ also signifies The &lt;i&gt;remains of ashes&lt;/i&gt; (M, K) &lt;i&gt;between the&lt;/i&gt; <br>\
+                  اَثَافِى, q.v.: (M:) occurring in a verse of En-Nábighah Edh-Dhubyánee; but accord. to most relates of this verse, it is ا=سٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n717&quot; key=&quot;اـِسٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِسٌّ<br>\
+                     اس<br>\
+                     اـس<br>\
+                     اس<br>\
+                     آس<br>\
+                     آسي<br>\
+                  &lt;/form&gt;: see اُسٌّ, in several places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n718&quot; key=&quot;اَسَسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُسٌّ, in several places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n719&quot; key=&quot;اَسَاسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَاسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُسٌّ, in several places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n720&quot; key=&quot;اَسِيسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِيسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُسٌّ, in several places.   &lt;/entryFree&gt; <br>\
+' } );

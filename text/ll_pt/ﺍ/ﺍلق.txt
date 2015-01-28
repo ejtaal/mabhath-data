@@ -1,0 +1,76 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;الق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  الق<br>\
+&lt;entryFree id=&quot;n1079&quot; key=&quot;اَلَقَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَلَقَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (JK, K, TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِقَ<br>\
+                  &lt;/form&gt;; (K, TA;) or اَلِقَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلَقَ<br>\
+                  &lt;/form&gt;; (CK; [in which it would seem, from what follows in this paragraph and the next, that the pret. is wrong, but that the aor. is right;]) inf. n. اَلْقٌ and اـِلَاقٌ; (JK, K;) &lt;i&gt;It&lt;/i&gt; (lightning) &lt;i&gt;lied;&lt;/i&gt; (AHeyth, K;) [i. e.] &lt;i&gt;it was without rain.&lt;/i&gt; (JK.) ―         -b2-  See also 5. ―         -b3-  Also, اَلَقَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلَقَ<br>\
+                  &lt;/form&gt;, inf. n. اَلْقٌ, &lt;i&gt;He lied; spoke falsely:&lt;/i&gt; whence the reading of Aboo-Jaafar and Zeyd Ibn-Aslam, [in the Kur xxiv. 14,] اـِذْ تَاْلَقُونَهُ <br>\
+                  تالّق [&lt;i&gt;When ye spoke it falsely with your tongues&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1080&quot; key=&quot;تالّق&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تالّق<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (lightning) &lt;i&gt;shone, gleamed,&lt;/i&gt; or &lt;i&gt;glistened;&lt;/i&gt; as also ↓ <br>\
+      ايتلق [written with the disjunctive alif اِيتَلَقَ]; (JK, S, IJ, K;) and so ↓ <br>\
+      اَلَقَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلَقَ<br>\
+                  &lt;/form&gt;. (TA.) Ibn-Ahmar has made the second trans., using the phrase العُيُونَ ↓ <br>\
+      تَاْتَلِقُ, either by suppressing a prep., [meaning &lt;i&gt;She shines to the eyes,&lt;/i&gt;] or meaning thereby &lt;i&gt;she ravishes the eyes.&lt;/i&gt; (TA.) ―         -b2-  And تَاَلَّقَتٌ, said of a woman, &lt;i&gt;She adorned herself:&lt;/i&gt; (Sgh, K:) or &lt;i&gt;she became active and quick to engage in contention&lt;/i&gt; or &lt;i&gt;altercation, and prepared herself for evil&lt;/i&gt; or &lt;i&gt;mischief, and raised her head:&lt;/i&gt; (IF, K:) or &lt;i&gt;she became like the&lt;/i&gt; <br>\
+                  اـِلْقَة [fem. of اـِلْقٌ, q. v.]. (IAar.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَلَقَ<br>\
+                  &lt;/form&gt; see 5, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1081&quot; key=&quot;اـِلْقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِلْقٌ<br>\
+                     الق<br>\
+                     القى<br>\
+                     الق<br>\
+                     لاق<br>\
+                     لقي<br>\
+                  &lt;i&gt;A he-wolf:&lt;/i&gt; fem. with ة: (IAar, S, K:) and the fem. is also applied to &lt;i&gt;a she-ape&lt;/i&gt; or &lt;i&gt;monkey;&lt;/i&gt; the male of which is not called اـِلْقٌ, but قِرْدٌ, (S, K,) and رُبَّاحٌ. (S.) ―         -b2-  (assumed tropical:)  &lt;i&gt;Evil in disposition,&lt;/i&gt; applied to a man; and so with ة applied to a woman: and the latter, &lt;i&gt;a&lt;/i&gt; [&lt;i&gt;demon of the kind called&lt;/i&gt;] سِعْلَاة; because of its evil, or malignant, nature: (TA:) and a &lt;i&gt;bold&lt;/i&gt; woman; (Lth, K;) for the same reason. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1082&quot; key=&quot;اـِلَاقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِلَاقٌ<br>\
+                     الاق<br>\
+                     الاق<br>\
+                     لاقى<br>\
+                  &lt;/form&gt; [an inf. n. (see 1) used as an epithet;] &lt;i&gt;Lying,&lt;/i&gt; or &lt;i&gt;fallacious,&lt;/i&gt; lightning; (K;) &lt;i&gt;that has no rain;&lt;/i&gt; (JK, K;) as also ↓ <br>\
+      اَلَّاقٌ: (K, * TA:) ↓ <br>\
+      ا=لِقٌ, likewise, is an epithet applied to lightning [in the same sense; or as signifying &lt;i&gt;shining, gleaming,&lt;/i&gt; or &lt;i&gt;glistening:&lt;/i&gt; see 1 and 5]: and so is ↓ <br>\
+      اُلَّقٌ, as &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  خُلَّبٌ [&lt;i&gt;that excites hope of rain, but deceives the expectation&lt;/i&gt;]. (TA.) ―         -b2-  Also, applied to a man, &lt;i&gt;Lying:&lt;/i&gt; (JK:) or &lt;i&gt;lying much,&lt;/i&gt; or &lt;i&gt;often,&lt;/i&gt; or &lt;i&gt;habitually:&lt;/i&gt; (TA:) and &lt;i&gt;very deceitful, and variable in disposition.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1083&quot; key=&quot;اَلِيقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلِيقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [app. an inf. n. of اَلَقَ; (see 5;)] The &lt;i&gt;shining, gleaming,&lt;/i&gt; or &lt;i&gt;glistening,&lt;/i&gt; of lightning. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1084&quot; key=&quot;اُلَّقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُلَّقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِلَاقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1085&quot; key=&quot;اـِلَّقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِلَّقٌ<br>\
+                     الق<br>\
+                     القى<br>\
+                     الق<br>\
+                     لاق<br>\
+                     لقي<br>\
+                  &lt;/form&gt;, like اـِمَّعٌ, [in a copy of the JK incorrectly written اَلِقٌ,] &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مُتَاَلِّقٌ [&lt;i&gt;Shining, gleaming,&lt;/i&gt; or &lt;i&gt;glistening&lt;/i&gt;]; (S, K;) applied to lightning. (JK.) ―         -b2-  Also (assumed tropical:)  An &lt;i&gt;inconstant&lt;/i&gt; man; from التَّاَلُّقُ as relating to lightning. (JK: there, in this instance, written اـِلَّقٌ.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1086&quot; key=&quot;اَلَّاقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلَّاقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِلَاقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1087&quot; key=&quot;ا=لِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=لِقٌ<br>\
+                     ا=لق<br>\
+                  &lt;/form&gt;: see اـِلَقٌ.   &lt;/entryFree&gt; <br>\
+' } );

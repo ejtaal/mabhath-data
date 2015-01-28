@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وشظ</em>            1                  وشظ<br>\
+<b>وَشِيظٌ</b>               1     <br>\
+                     وَشِيظٌ<br>\
+                     ذ<br>\
+                   [thus without ة]: see صَمِيمٌ.   </entryFree> <br>\
+' } );

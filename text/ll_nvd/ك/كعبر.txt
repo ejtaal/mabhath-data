@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'كعبركُعْبُرَةٌ<br>\
+and ↓ كُعْبُورَةٌ<br>\
+Anything compact (K,<br>\
+TA) and round: (TA:) and the latter, i. q.<br>\
+عُقْدَةٌ<br>\
+[meaning a knot, or a knob]: (TA:) [pl. of the<br>\
+latter كَعَابِيرُ: see خِرْوٌ: see also أَخْرَمُ]. ―<br>\
+-b2-  Also<br>\
+The seed-vessel [i. e. siliqua, or pod,] of the radish<br>\
+and some other plants. (IAar, TA voce إِسْحَارٌّ.)<br>\
+كُعْبُوْرَةٌ<br>\
+: see كُعْبُرَةٌ.<br>\
+' } );

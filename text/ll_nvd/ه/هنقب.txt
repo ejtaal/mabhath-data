@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'هنقبهَنْقَبٌ, (K) by some written هِنْقَبٌّ, (TA,)<br>\
+Short: (K:) but it is not a word of established<br>\
+authority. (IDrd.)<br>\
+هنم &amp;c.<br>\
+See Supplement<br>\
+' } );

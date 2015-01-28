@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ثا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ثا<br>\
+&lt;entryFree id=&quot;n4281&quot; key=&quot;ثَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثَا<br>\
+                     ثا<br>\
+                     ثاء<br>\
+                  &lt;/form&gt; and ثَا=ءٌ: see the letter ث, and arts. ثوا and ثى.   &lt;/entryFree&gt; <br>\
+&lt;div2 n=&quot;ثا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ثا<br>\
+&lt;entryFree id=&quot;n4282&quot; key=&quot;ثَاْثَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     ثَاْثَاَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He watered camels to their satisfaction:&lt;/i&gt; (S, M, K; but in some copies of the S, the verb is made trans. by means of بِ:) or &lt;i&gt;he watered&lt;/i&gt; them (T, M) &lt;i&gt;so as to quench their thirst,&lt;/i&gt; (T,) &lt;i&gt;but not so as to satisfy them.&lt;/i&gt; (T, M.) ―         -b2-  Also, contr., &lt;i&gt;He kept camels thirsty;&lt;/i&gt; i. e. &lt;i&gt;he did not water&lt;/i&gt; them &lt;i&gt;at all;&lt;/i&gt; or &lt;i&gt;he watered&lt;/i&gt; them &lt;i&gt;little, so that they were not satisfied.&lt;/i&gt; (K, * TA.) ―         -b3-  &lt;i&gt;He extinguished&lt;/i&gt; fire. (Sgh, K.) ―         -b4-  &lt;i&gt;He stilled&lt;/i&gt; another&#39;s anger. (TA.) And ثَاْثَاَ عَنْهُ غَضَبَهُ <br>\
+                  &lt;i&gt;He quenched his anger.&lt;/i&gt; (M.) [Or this may be rendered &lt;i&gt;He dispelled from him his anger:&lt;/i&gt; agreeably with what follows.] ―         -b5-  &lt;i&gt;He removed&lt;/i&gt; (IDrd, M, K) a thing (M) &lt;i&gt;from its place.&lt;/i&gt; (IDrd, M, K.) ―         -b6-  ثَاْثَاَ عَنِ القَوْمِ <br>\
+                  &lt;i&gt;He repelled from,&lt;/i&gt; or &lt;i&gt;defended, the people,&lt;/i&gt; or &lt;i&gt;company of men,&lt;/i&gt; (As, S, K,) &lt;i&gt;and rendered them reciprocal aid.&lt;/i&gt; (As, TA.) ―         -b7-  ثَاْثَاَ, (T, M, K,) inf. n. ثَاْثَاَةٌ, (T,) also signifies &lt;i&gt;He restrained,&lt;/i&gt; or &lt;i&gt;withheld,&lt;/i&gt; (T, M, K,) a man (T, M,) from (عَنْ) another man, (T,) or from (عَنْ) a thing, or an affair. (M.)       -A2-  ثَاْثَاَتِ الاـِبِلُ <br>\
+                  &lt;i&gt;The camels drank to their satisfaction:&lt;/i&gt; (M, K:) or &lt;i&gt;drank, but not so as to satisfy themselves.&lt;/i&gt; (M.) ―         -b2-  And, contr., &lt;i&gt;The camels thirsted.&lt;/i&gt; (K.) ―         -b3-  And ثَاْثَاَ <br>\
+                  &lt;i&gt;It became stilled;&lt;/i&gt; (K;) said of anger. (TA.) ―         -b4-  See also R. Q. 2.       -A3-  ثَاْتَاَ بِالتَّيْسِ, (AA, AZ, M, K,) inf. n. ثَاْثَا=ءٌ, (K,) like تَاْتَا=ءٌ, (TA,) &lt;i&gt;He called the he-goat&lt;/i&gt; (AA, AZ, M, K) &lt;i&gt;to copulate.&lt;/i&gt; (AA, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4283&quot; key=&quot;تَثَاْثَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 2&lt;/itype&gt;        <br>\
+                     تَثَاْثَاَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He deemed it right that he should abide,&lt;/i&gt; or &lt;i&gt;remain, where he was,&lt;/i&gt; (AZ, T, K,) &lt;i&gt;and abstain,&lt;/i&gt; (AZ, TA,) &lt;i&gt;after he had desired to make a journey&lt;/i&gt; (AZ, T, K) &lt;i&gt;to a country,&lt;/i&gt; or &lt;i&gt;land.&lt;/i&gt; (AZ, TA.) And تثا عَنِ الاَمْرِ, (M,) or عَنِ ↓ <br>\
+      ثاثا <br>\
+                  الشَّىْءِ, (TA,) &lt;i&gt;He deemed it right that he should abstain from the affair,&lt;/i&gt; or &lt;i&gt;thing,&lt;/i&gt; (M, TA,) or &lt;i&gt;that he should pause at it,&lt;/i&gt; (M,) &lt;i&gt;after he had desired it.&lt;/i&gt; (M, TA.) ―         -b2-  لَقِيتُ فُلَانًا فَتَثَاْثَاْتُ مِنْهُ <br>\
+                  &lt;i&gt;I met such a one, and feared him.&lt;/i&gt; (As, S, K. *)   &lt;/entryFree&gt; <br>\
+' } );

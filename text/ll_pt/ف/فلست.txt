@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>فلست</em>            1                  فلست<br>\
+               </head> Q 2. تَفَلْسَفَ <br>\
+               <i>He was,</i> or <i>became, a</i> <br>\
+               فَيْلَسُوف [or philosopher]. (M.) ―         -b2-  <i>He affected to be a philosopher.</i> (PU.)    <br>\
+<b>فَلْسَفَةٌ</b>  1     <br>\
+                     فَلْسَفَةٌ<br>\
+                     ذ<br>\
+                  , a foreign word, <i>Science;</i> (M;) [<i>philosophy;</i> or] <i>love of science:</i> from the word here following. (O and K in art. سوف.)    </entryFree> <br>\
+<b>فَيْلَسُوفٌ</b>               1     <br>\
+                     فَيْلَسُوفٌ<br>\
+                     ذ<br>\
+                  <i>A man of science;</i> (M;) [<i>a philosopher;</i>] a word meaning in Greek <i>a lover of science.</i> (O and K in art. سوف.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;رجا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  رجا<br>\
+&lt;entryFree id=&quot;n14807&quot; key=&quot;ارجا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ارجا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He postponed, put off, deferred,&lt;/i&gt; or &lt;i&gt;delayed,&lt;/i&gt; (ISk, S, Mgh, Msb, K,) an affair, (ISk, S, Mgh, K,) and a person; (TA;) as also ارجى: (ISk, S, Mgh, Msb, K:) but the former is the better: the inf. n. is اـِرْجَا=ءٌ. (TA.) It is said in the Kur [xxxiii. 51], accord. to different readings, تُرْجِىءُ مَنْ تَشَا=ءُ مِنْهُنَّ or تُرْجِى, meaning &lt;i&gt;Thou mayest put off whom thou wilt of them:&lt;/i&gt; addressed peculiarly to the Prophet, exclusively of others of his people. (Zj, TA.) [See also an ex. in the Kur vii. 108 and xxvi. 35; and the various readings mentioned by Bd in the former instance.]       -A2-  اَرْجَاَتْ <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a camel, S, K, and in like manner a pregnant female [of any kind], TA) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, near to bringing forth;&lt;/i&gt; as also اَرْجَتْ: (S, K:) AA says the former. (S.)       -A3-  And ارجا <br>\
+                  &lt;i&gt;He&lt;/i&gt; (a hunter or sportsman) &lt;i&gt;was unsuccessful, getting no game;&lt;/i&gt; as also ارجى: (K, TA:) or you say, ارجا الصَّيْدَ, (TA in art. رجو,) and ارجى <br>\
+                  الصَّيْدَ. (K in that art.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14808&quot; key=&quot;مُرْجَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُرْجَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [pass. part. n. of 4]. It is said in the Kur [ix. 107], (S, K,) as some read, (S,) وَا=خَرُونَ, مُرْجَوُونَ لِاَمْرِ اْللّٰهِ, (S, K,) or, as others read, مُرْجَوْنَ, (S,) meaning [&lt;i&gt;And others are&lt;/i&gt;] &lt;i&gt;delayed&lt;/i&gt; [&lt;i&gt;for&lt;/i&gt; the execution of &lt;i&gt;the decree of God,&lt;/i&gt;] until God shall cause to betide them what He willeth. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14809&quot; key=&quot;مُرْجِىءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُرْجِىءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [act. part. n. of اَرْجَاَ], (S, K,) and مُرْجٍ [act. part. n. of اَرْجَى], (S, [in which, however, it is not clearly shown whether the author means that this corresponds to مُرْجِىءٌ or that it is a rel. n. corresponding to مُرْجِيِىٌّ, the former being certainly the case,]) or not thus, but مُرْجِىٌّ, (K,) so some say, (TA,) but this is a rel. n. like مرْجِيِىٌّ, (IB, TA,) A man who is &lt;i&gt;one of&lt;/i&gt; [&lt;i&gt;the sect called&lt;/i&gt;] ↓ <br>\
+      المُرْجِيَةُ (S, K) and المُرْجِيَةُ, without teshdeed to the ى (K,) accord. to J, المُرْجِيَّةُ, with teshdeed, (IB,) but this is incorrect, unless as meaning &lt;i&gt;those who are called in relation to the&lt;/i&gt; <br>\
+                  مُرْجِيَة, for otherwise it is not allowable. (IB, TA.) The sect called the ↓ <br>\
+      مُرْجِيَة [and مُرْجِيَة] are [&lt;i&gt;A sect of Muslim antinomians;&lt;/i&gt;] &lt;i&gt;a sect of Muslims who assert that faith&lt;/i&gt; (الاـِيمَان) &lt;i&gt;consists in words without works;&lt;/i&gt; as though they postponed works to words; &lt;i&gt;asserting that if they do not pray nor fast, their faith will save them:&lt;/i&gt; (TA:) &lt;i&gt;a sect who assert that disobedience, with faith, does not injure; and that obedience, with disbelief, does not profit:&lt;/i&gt; (KT:) or &lt;i&gt;a sect who do not pronounce judgment upon any one for aught in the present life, but defer judgment to the day of resurrection:&lt;/i&gt; (Msb:) &lt;i&gt;those who decide not, against the committers of great sins, aught as to pardon or punishment; deferring the judgment respecting such sins to the day of resurrection.&lt;/i&gt; (Mgh in art. جهم.) ―         -b2-  مُرْجِىءٌ is also applied to a she-camel, and a pregnant female [of any kind], as meaning &lt;i&gt;Near to bringing forth;&lt;/i&gt; and so مُرْجِيَةٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14810&quot; key=&quot;المُرْجِيَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المُرْجِيَةُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14811&quot; key=&quot;رَجُلٌ مُرْجِيِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَجُلٌ مُرْجِيِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, IB) and مُرْجِىٌّ (IB) &lt;i&gt;A man called in relation to the&lt;/i&gt; <br>\
+                  مُرْجِيَة (S, IB) or مُرْجِيَة (IB.)   &lt;/entryFree&gt; <br>\
+' } );

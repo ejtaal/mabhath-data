@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'لدممُلَدَّمٌ A garment, or piece of cloth, patched,<br>\
+or pieced; or patched, or pieced, in several<br>\
+places; like مُرَدَّمٌ. (Lth, T, in art. ردم.)<br>\
+' } );

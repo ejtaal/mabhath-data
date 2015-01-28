@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'كمل1<br>\
+كَمَلَ<br>\
+He, or it, was, or became, perfect; and<br>\
+sometimes, it was, or became, complete, entire,<br>\
+whole, or full; which latter signification is more<br>\
+properly expressed by تَمَّ, which see.<br>\
+كَاملٌ<br>\
+Complete with respect to bodily vigour,<br>\
+having attained the usual term thereof. See<br>\
+لَيْثُ عِفِرِّينَ, art. عفر. Also Consummate, perfect.<br>\
+عَيْنُ الكَمَالِ<br>\
+: see فَقَأَ.<br>\
+مُكَمِّلَاتُ<br>\
+Supererogatory acts of religious service.<br>\
+' } );

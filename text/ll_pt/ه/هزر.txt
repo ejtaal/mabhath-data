@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هزر</em>            1                  هزر<br>\
+<b>هَزَوَّرٌ</b>               1     <br>\
+                     هَزَوَّرٌ<br>\
+                     ذ<br>\
+                   A <i>strong</i> boy or young man: and a <i>weak</i> old man: as also حَزَوَّرٌ: pl. هَزاَوِرَةٌ. (Abu-t-Teiyib, in TA, art. حزر.)   </entryFree> <br>\
+' } );

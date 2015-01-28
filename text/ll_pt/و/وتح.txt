@@ -1,0 +1,51 @@
+load_data( { book: 'll_pt', text: '<em>وتح</em>            1                  وتح<br>\
+<b>وَتُحَ</b>               1     <br>\
+                     وَتُحَ<br>\
+                     ذ<br>\
+                  , aor. يَوْتُحُ, inf. n. وَتَاحَةٌ (S, K) and وُتُوحَةٌ (K) and وَتْحَةٌ, (L,) <i>It</i> (a thing, S, or a gift, K) <i>was little,</i> or <i>small, and paltry, mean,</i> or <i>contemptible.</i> (S, L, K.) ―         -b2-  وَتَحَ عَطَا=ءَهُ, aor. يَتِحُ; (K;) and ↓ <br>\
+      اوتحهُ; (S, K;) and ↓ <br>\
+      وَتّحهُ, inf. n. تَوْتِيحٌ; (S;) <i>He made his gift little,</i> or <i>small,</i> (S, K,) <i>and paltry, mean,</i> or <i>contemptible.</i> (K.) ―         -b3-  لَهُ الشَّىْءَ ↓ <br>\
+      اوتح <br>\
+                  <i>He made the thing little to him.</i> (L.) ―         -b4-  ↓ <br>\
+      اوتح <br>\
+                  <i>He became a person of little property.</i> (K)    </entryFree> <br>\
+                     وَتَّحَ<br>\
+                   see 1 and 4.    </entryFree> <br>\
+                     اَوْتَحَ<br>\
+                   see 1. ―         -b2-  اوتح فُلَانًا <br>\
+                  <i>He harassed and distressed him;</i> syn. جَهَدَهُ وَبَلَغَ مِنْهُ; (L, K;) and in like manner, اوتح جَهْدَهُ, and اوتح مِنْهُ, and ↓ <br>\
+      وتّح. (L.) ―         -b3-  اوَتح, in this sense, occurs in a verse as related by Th: as related by IAar it is اوتخ. (TA.)    </entryFree> <br>\
+<b>توتّح مِنَ الشرَابِ</b>               1     <br>\
+                     توتّح مِنَ الشرَابِ<br>\
+                     ذ<br>\
+                  <i>He drank a little of the beverage:</i> (S, L:) or, as also توتّح الشَّرَابَ, <i>he drank the beverage by little and little.</i> (TA.)    </entryFree> <br>\
+<b>شَىْءٌ وَتْحٌ</b>               1     <br>\
+                     شَىْءٌ وَتْحٌ<br>\
+                     ذ<br>\
+                  , and ↓ <br>\
+      وَتِحٌ, (S, K,) and ↓ <br>\
+      وَتَحٌ, and ↓ <br>\
+      وَتِيحٌ, (K,) <i>A little,</i> or <i>small, and paltry, mean,</i> or <i>contemptible, thing.</i> (S, K.) One says also شَىْءٌ وَتَحٌ وَعْرٌ <br>\
+                  <i>A small,</i> or <i>little,</i> or <i>scanty, thing:</i> the latter of the two epithets being an imitative sequent; (S;) or, correctly, a corroborative. (Marg. note in a copy of the S.) ―         -b2-  ↓ <br>\
+      مَا اَغْنَى وعَنِّى وَتَحَةً, a phrase like ما اغنى <br>\
+                  عنّى عَبَكَةً, (L,) or <i>He,</i> or <i>it, was of no profit,</i> or <i>advantage, to me.</i> (L, K.) ―         -b3-  طَعَامٌ وَتْحٌ <br>\
+                  <i>Food in which is no good;</i> like وَحْتٌ. (L.) ―         -b4-  ↓ <br>\
+      رَجُلٌ وَتحٌ <br>\
+                  <i>A vile, mean,</i> or <i>contemptible, man.</i> (S.)    </entryFree> <br>\
+<b>وَتَحٌ</b>               1     <br>\
+                     وَتَحٌ<br>\
+                     ذ<br>\
+                   see وَتْحٌ.    </entryFree> <br>\
+<b>وتِحٌ</b>               1     <br>\
+                     وتِحٌ<br>\
+                     ذ<br>\
+                   see وَتْحٌ.    </entryFree> <br>\
+<b>وَتَحَةٌ</b>               1     <br>\
+                     وَتَحَةٌ<br>\
+                     ذ<br>\
+                   see وَتْحٌ.    </entryFree> <br>\
+<b>وَتِيحٌ</b>               1     <br>\
+                     وَتِيحٌ<br>\
+                     ذ<br>\
+                   see وَتْحٌ.   </entryFree> <br>\
+' } );

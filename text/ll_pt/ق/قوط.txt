@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قوط</em>            1                  قوط<br>\
+<b>قَوْطٌ</b>               1     <br>\
+                     قَوْطٌ<br>\
+                     ذ<br>\
+                  : see an ex. in a verse cited voce رَاجِلَةٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>عنفق</em>            1                  عنفق<br>\
+<b>عَنْفَقٌ</b>               1     <br>\
+                     عَنْفَقٌ<br>\
+                     ذ<br>\
+                  <i>Lightness,</i> (IDrd, O, K,) and <i>paucity,</i> <br>\
+                   (IDrd, O,) of a thing. (IDrd, K, TA. [In the O, المَشْى is erroneously put for الشَّىْءِ.]) Hence is derived the word here following. (O, K.)    </entryFree> <br>\
+<b>عَنْفَقَةٌ</b>               1     <br>\
+                     عَنْفَقَةٌ<br>\
+                     ذ<br>\
+                  <i>A few hairs between the lower lip and the chin:</i> (Lth, O, K:) or the <i>hairs of the fore part of the lower lip;</i> (T, TA;) the [<i>tuft of</i>] <i>hair of the lower lip;</i> (Mgh;) or the <i>hair that grows upon</i> [or <i>beneath</i>] <i>the lower lip:</i> or the <i>part between the lower lip and the chin;</i> because of the lightness of its hair: or the <i>part between the chin and the edge of the lower lip, whether there be on it hair or not:</i> pl. عَنَافِقُ. (TA.) بَادِى العَنْفَقَةِ means A man <i>bare of hair</i> (Mgh, * O, TA) <i>in the place,</i> (Mgh, TA,) or <i>in the two sides,</i> (O,) <i>of the</i> <br>\
+                  عنفقة. (Mgh, O, TA.)   </entryFree> <br>\
+' } );

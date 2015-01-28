@@ -1,0 +1,58 @@
+load_data( { book: 'll_nvd', text: 'حنب1<br>\
+حَنِبَ: see the next paragraph.<br>\
+2<br>\
+حنّبهُ, inf. n. تَحْنِيبٌ, It (old age, TA) bent<br>\
+him down. (K, * TA.) [See its quasi-pass., 5.]<br>\
+―<br>\
+-b2-  حنّب أَزَجًا He built firmly a structure of the<br>\
+kind called أَزَج, and made it curved. (K.) ―<br>\
+-b3-<br>\
+تَحْنِيبٌ [as an inf. n. of which the verb, if it have<br>\
+one in any of the following senses, is حُنِّبَ,] also<br>\
+signifies A bending, or curving, and tension [of<br>\
+the sinews] (تَوْتِيرٌ), of the backbone (صُلْب) and<br>\
+fore legs of a horse: (As, S:) or a convexity in<br>\
+the shank (وَظِيف) of each of the fore legs of a<br>\
+horse, (K, * TA,) not being a great curvature,<br>\
+(TA,) and in the backbone (صُلْب): (K:) it is a<br>\
+quality indicative of strength: (Az, TA:) تَجْنِيبٌ<br>\
+(with ج) is [the same] in the hind legs: (As, S,<br>\
+K:) or it [i. e. تحنيب as indicated in the K and<br>\
+by an explanation of مُحَنَّبٌ, but the same explanation is also given to مُجَنَّبٌ,] is width in the<br>\
+space between the hind legs, without what is termed<br>\
+فَجَجٌ [i. e. straddling], or فَحَجٌ [i. e. the having<br>\
+the fore parts of the feet near together and the<br>\
+heels distant, or having the legs wide apart (like<br>\
+فَجَجٌ), or having the thighs or the middles of the<br>\
+legs wide apart]; (so accord. to different copies<br>\
+of the K;) which is a quality approved: (TA:)<br>\
+or a curving in the سَاقَانِ [here app. meaning the<br>\
+hind legs, or rather the hind shanks; see مُحَنَّبٌ]:<br>\
+as also حَنَبٌ [an inf. n. of which the verb, if it<br>\
+have one, is app. ↓ حَنِبَ]: (K:) or a curving of<br>\
+the ribs. (TA.) [See تَجْنِيبٌ: and see also<br>\
+مُحَنَّبٌ.]<br>\
+5<br>\
+تحنّب He (a man, S) was, or became,<br>\
+crooked, curved, or bent. (S, K.) ―<br>\
+-b2-  [And hence,]<br>\
+تحنّب عَلَيْهِ (tropical:)  He was, or became, affected with<br>\
+compassion for him. (K, TA.)<br>\
+حَنْبَآءُ: see what follows.<br>\
+مُحَنَّبٌ An old man bent (K, TA) with age.<br>\
+(TA.) ―<br>\
+-b2-  A horse characterized by what is termed<br>\
+تَحْنِيبٌ: (K:) [see 2:]) accord. to A &#39;Obeyd,<br>\
+wide in the space between the hind legs, without<br>\
+فَجَجٌ, or فَحَجٌ: (so accord. to different copies of<br>\
+the S: [see these terms explained above, conj. 2:])<br>\
+an epithet of commendation: (S:) accord. to<br>\
+ISh, having curved bones: the mare, he says, is<br>\
+termed ↓ حَنْبَآءُ: and this latter, accord. to As, is<br>\
+an epithet applied to a mare curved in the سَاقَانِ<br>\
+[or shanks] of the fore legs: or, accord. to IAar,<br>\
+in [the shanks of] the hind legs: or, as he says<br>\
+in another place, curved in the ساق [here app.<br>\
+meaning the hind shank]. (TA.) [See also<br>\
+مُجَنَّبٌ.]<br>\
+' } );

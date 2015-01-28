@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'هنر4<br>\
+هَنَارَ الثَّوْبَ, aor. يُهَنِيرُهُ, inf. n. اهْنَارَةٌ, or<br>\
+هِنَارَةٌ; for أَنَارَهُ: see art. نير.<br>\
+هنع &amp;c.<br>\
+See Supplement<br>\
+' } );

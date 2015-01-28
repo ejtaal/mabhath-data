@@ -1,0 +1,86 @@
+load_data( { book: 'll_nvd', text: 'هدج1<br>\
+هَدَجَ, aor.<br>\
+هَدِجَ, inf. n. هَدَجَانٌ (S, K) and<br>\
+هُدَاجٌ (K) and هَدْجٌ, (TA,) (tropical:)  He walked gently,<br>\
+in a weak manner: (TA:) or he walked in the<br>\
+manner of an old man; (S, K;) and the like:<br>\
+(TA:) or he (an old man) walked with short<br>\
+steps: or walked hastily, without desiring to do so:<br>\
+(TA:) or he walked with unintermitting steps:<br>\
+(As:) or he walked in a shaking manner, by<br>\
+reason of old age. (IAar.) ―<br>\
+-b2-  هَدَجَ, (S,) aor.<br>\
+هَدِجَ,<br>\
+inf. n. هَدَجَانٌ; and ↓ استهدج; (TA;) He (an<br>\
+ostrich) walked, or went, (or ran, TA,) in a<br>\
+tremulous manner. (S, TA.) ―<br>\
+-b3-  هَدَجَتِ القِدْرُ<br>\
+(tropical:)  The cooking-pot boiled vehemently. (TA.) ―<br>\
+-b4-<br>\
+هَدَجَتْ, (S,) inf. n. هَدَجٌ, (L,) She (a camel)<br>\
+yearned towards her young one; حَنَّتْ عَلَى وَلَدِهَا;<br>\
+(S, L;) as also ↓ تهدّجت; (L;) [and, app.,<br>\
+uttered the cry produced by yearning towards her<br>\
+young one: see below:] or the latter signifies she<br>\
+was affectionate to her young one. (S, K.) ―<br>\
+-b5-<br>\
+Also, inf. n. as above, (assumed tropical:)  It (the wind) made a<br>\
+sound; syn. حَنَّتْ and صَوَّتَتْ; from هدجت النّاقة.<br>\
+(L.)<br>\
+2<br>\
+هدّجت (tropical:)  She (a camel) became high and big<br>\
+in the hump, so that it bore a resemblance to a<br>\
+هَوْدَج. (TA.)<br>\
+5<br>\
+تهدّج It (the voice, or a sound) became<br>\
+much intercepted, or interrupted, (تَقَطَّعَ) with a<br>\
+tremulous manner. (S, K.) See 1.<br>\
+-A2-  تهدّجوا<br>\
+عَلَيْهِ They made apparent, or manifest, his gracious<br>\
+actions, or qualities, or his favours, or kindnesses.<br>\
+(TA.)<br>\
+10<br>\
+إِسْتَهْدَجَ see 1.<br>\
+هَدَجَةٌ, (a subst., L,) The yearning, or the cry<br>\
+produced by yearning towards her young one, of<br>\
+a camel; حَنِينُ النَّاقَةِ: (K:) or the yearning of<br>\
+a she-camel towards her young one; حَنِينُ النَّاقُةِ<br>\
+عَلَى وَلَدِهَا. (S, L.)<br>\
+هَدَجْدَجٌ: see هَدَّاجٌ.<br>\
+هَدُوجٌ: see مِهْدَاجٌ. ―<br>\
+-b2-  قِدْرٌ هَدُوجٌ (tropical:)  A cookingpot that boils vehemently: (TA:) or, quickly.<br>\
+(K.)<br>\
+هَدَّاجٌ and ↓ هَدَجْدَجٌ One who walks in the<br>\
+manner termed هَدَجَانٌ: see 1. (K.) ―<br>\
+-b2-  An<br>\
+ostrich that so walks, or runs. (S, TA.) One<br>\
+says ظَلِيمٌ هَدَّاجٌ, and نَعَامٌ هَدَّاجٌ and هَوَادِجُ:<br>\
+(TA:) [the last is pl. of ↓ هَادِجَةٌ, fem. act. part.<br>\
+n. of هَدَجَ]. ―<br>\
+-b3-  Also, the ↓ latter, An ostrich: so<br>\
+called because it so walks, or runs: (TA:) [and<br>\
+so ↓ هَادِجَةٌ, pl. هَوَادِجُ, as in the following example.] نَظَرْتُ إِلَى الهَوَادِجِ عَلَى الهَوَادِجِ [I looked<br>\
+at the women&#39;s camel-litters upon the camels like<br>\
+ostriches]. (A.)<br>\
+هَادِجَةٌ: see هَدَّاجٌ.<br>\
+هَوْدَجٌ [A kind of camel-vehicle for women;] the<br>\
+vehicle of the Arab women of the desert: (JK:)<br>\
+a kind of vehicle for women, (S, K,) having a<br>\
+dome-like top (مُقَبَّبٌ); and one not having such a<br>\
+top: (S:) or [a camel-vehicle for women] made<br>\
+with staves, over which are put pieces of wood,<br>\
+and covered with a dome-like top: (M:) or a<br>\
+camel-vehicle (مَحْمِل) having a dome-like top<br>\
+(قُبَّة), covered with pieces of cloth, in which women<br>\
+ride: (Et-Towsheeh:) pl. هَوَادِجُ. (TA.) [See<br>\
+مَحْمِلٌ and مَحَارَةٌ.]<br>\
+مِهْدَاجٌ A she-camel that yearns, or that utters<br>\
+the cry produced by yearning towards her young<br>\
+one: (K:) or that yearns towards her young<br>\
+one: (S, L:) as also ↓ هَدُوجٌ. (TA.) ―<br>\
+-b2-  Also,<br>\
+(assumed tropical:)  A wind that has a sound; لَهَا حَنِينٌ: (S, L:)<br>\
+from حَنَّتِ النَّاقَةُ. (L.)<br>\
+مُسْتَهْدَجٌ Haste. (K.)<br>\
+مُسْتَهْدِجٌ Hasty. (K.)<br>\
+' } );

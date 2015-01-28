@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>شوذ</em>            1                  شوذ<br>\
+<b>شَوَّذَ السَّحَابُ الشَّمْسَ</b>               1     <br>\
+                     شَوَّذَ السَّحَابُ الشَّمْسَ<br>\
+                     ذ<br>\
+                  <i>The clouds covered the sun,</i> (K,) <i>as though it were turbaned with a dustcoloured haze inclining to yellow;</i> as is the case in a year of drought; i. e. (T, L) <i>thin clouds containing no water surrounding it,</i> (T, L, K,) <i>having the hue above described.</i> (T, L.) ―         -b2-  شَوَّذَت الشَّمْسُ [thus in the L and K, not شُوِّذَت nor تَشَوَّذَت,] <i>The sun inclined to setting,</i> (T, L, K,) <i>and became covered with such clouds</i> [<i>as those above described</i>]: (T, L:) <i>became turbaned with clouds.</i> (AHn, L.) ―         -b3-  شَوَّذَهُ, (inf. n. تَشْوِيذٌ, L,) (assumed tropical:)  <i>He turbaned him; attired him with a turban:</i> (AZ, T, L, K:) app.  from شوّذت الشمس. (T, L.) And شوّذ رَاْسَهُ (assumed tropical:)  <i>He turbaned his head.</i> (Msb.)    </entryFree> <br>\
+<b>تشوّذ</b>               1     <br>\
+                     تشوّذ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      اشتاذ (assumed tropical:)  <i>He turbaned himself; attired himself with a turban.</i> (AZ, T, S, L, K.) [See above.]    </entryFree> <br>\
+                     اـِشْتَوَذَ<br>\
+                   see what next precedes.    </entryFree> <br>\
+<b>فُلَانٌ حَسَنُ الشِّيذَةِ</b>               1     <br>\
+                     فُلَانٌ حَسَنُ الشِّيذَةِ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>Such a one is goodly in his manner of turbaning.</i> (K.)    </entryFree> <br>\
+<b>خَيْرُ الاَشَاوِذِ</b>               1     <br>\
+                     خَيْرُ الاَشَاوِذِ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>The best of the creation,</i> or <i>of mankind,</i> or <i>people;</i> syn. خَيْرُ الخَلْقِ. (K.)    </entryFree> <br>\
+<b>مِشْوَذٌ</b>               1     <br>\
+                     مِشْوَذٌ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>A turban;</i> (IAar, S, Mgh, L, Msb, K;) as also ↓ <br>\
+      مِشْوَاذٌ: (K:) pl. of the former مَشَاوِذُ; (S, Mgh, L, Msb, K;) and of the latter مَشَاوِيذُ. (K.) ―         -b2-  (assumed tropical:)  <i>A king:</i> (K:) <i>a crowned king.</i> (TA.) ―         -b3-  (assumed tropical:)  <i>A lord,</i> or <i>chief,</i> (K,) <i>to whom obedience is paid.</i> (TA.)    </entryFree> <br>\
+<b>مِشْوَاذٌ</b>               1     <br>\
+                     مِشْوَاذٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.   </entryFree> <br>\
+' } );

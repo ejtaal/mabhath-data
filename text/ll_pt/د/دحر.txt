@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>دحر</em>            1                  دحر<br>\
+<b>دَحَرَهُ</b>               1     <br>\
+                     دَحَرَهُ<br>\
+                     دحر<br>\
+                     دحره<br>\
+                     دحرة<br>\
+                  , (S, A, K,) aor.      <br>\
+                     دَحَرَ<br>\
+                  , (K,) inf. n. دُحُورٌ (S, A, K) and دَحْرٌ, (T, K,) <i>He</i> (God, S) <i>drove him away; expelled,</i> or <i>banished, him: he removed him; put,</i> or <i>placed, him at a distance,</i> or <i>away,</i> or <i>far away:</i> (T, S, A, K:) <i>he pushed, thrust,</i> or <i>repelled, him,</i> (K,) <i>with roughness,</i> or <i>violence, and ignominy.</i> (TA.) It is said, in a form of prayer, اَلّٰهُمَّ اْدْحَرْ عَنَّا الشَّيْطَانَ <br>\
+                  <i>O God, drive away from us the devil.</i> (TA.)    </entryFree> <br>\
+<b>دَحُورٌ</b>               1     <br>\
+                     دَحُورٌ<br>\
+                     دحور<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>دَاحِرٌ</b>               1     <br>\
+                     دَاحِرٌ<br>\
+                     داحر<br>\
+                   and ↓ <br>\
+      دَحُورٌ <br>\
+                  <i>Driving away; expelling,</i> or <i>banishing: removing; putting</i> or <i>placing at a distance,</i> or <i>away,</i> or <i>far away: pushing, thrusting,</i> or <i>repelling,</i> (K,) [<i>with roughness,</i> or <i>violence, and ignominy:</i> see the verb.] In the Kur [xxxvii. 8-9], some read وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍ <br>\
+                  دَحُورًا, meaning [<i>And they shall be darted at from every side</i>] <i>with that which driveth away,</i> or <i>expelleth, &amp;amp;c.;</i> as though it were said بِدَاحِرٍ, or بِمَا يَدْحَرُ: so says Fr; but he does not approve of this reading. (TA.)    </entryFree> <br>\
+<b>اَدْحَرُ</b>               1     <br>\
+                     اَدْحَرُ<br>\
+                     ذ<br>\
+                  <i>More</i> [or <i>most</i>] <i>violently and ignominiously repelled.</i> (TA from a trad., cited voce اَدْحَقُ.)    </entryFree> <br>\
+<b>مَدْحَرَةٌ</b>               1     <br>\
+                     مَدْحَرَةٌ<br>\
+                     مدحره<br>\
+                     مدحرة<br>\
+                   [said in Har p. 210 to be syn. with the inf. n. دُحورٌ signifies <i>A cause,</i> or <i>means, of driving away,</i> &amp;amp;c.].    </entryFree> <br>\
+<b>مَدْحُورٌ</b>               1     <br>\
+                     مَدْحُورٌ<br>\
+                     مدحور<br>\
+                  <i>Driven,</i> or <i>removed, far away:</i> so in the Kur vii. 17 and xvii. 19. (S.) And hence, الشَّيْطَانُ مَدْحُورٌ مِنْ رَحْمَةِ اْللّٰهِ <br>\
+                  <i>The devil is driven away,</i> or <i>banished, from the mercy of God.</i> (A.)   </entryFree> <br>\
+' } );

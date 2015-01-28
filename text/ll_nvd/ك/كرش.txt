@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كرشكَرشٌ<br>\
+or كِرْشٌ<br>\
+The plant so named: see رَقَمَةٌ.<br>\
+' } );

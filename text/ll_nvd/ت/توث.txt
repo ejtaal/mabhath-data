@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'توثتُوثٌ i. q. قِرْصَادٌ; a dial. var. of تُوتٌ, [q. v.,]<br>\
+mentioned by IF, (L, K,) and by AHn, who<br>\
+cites a verse in which it occurs, and says that he<br>\
+had not heard any one pronounce it with ت, but<br>\
+only with ث, though توث is Persian and توت is<br>\
+Arabic; (IB, TA;) but it is disallowed by El-<br>\
+Hareeree and others: (TA:) in the Expos. of<br>\
+the work entitled Adab el-Kátib, it is said that<br>\
+توت is an arabicized word, originally توث and<br>\
+توذ: (Mz, MF:) the n. un. is with ة. (L, K.)<br>\
+' } );

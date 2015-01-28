@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>حرقف</em>            1                  حرقف<br>\
+<b>حَرْقَفَ الاَتَانَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     حَرْقَفَ الاَتَانَ<br>\
+                     ذ<br>\
+                  <i>He</i> (an ass) <i>took hold upon the</i> <br>\
+                  حَرَاقِف [pl. of حَرْقَفَة] <i>of the she-ass</i> [<i>with his fore legs</i>]. (Ibn-&#39;Abbád, Sgh, K.)    </entryFree> <br>\
+<b>حَرْقَفَةٌ</b>               1     <br>\
+                     حَرْقَفَةٌ<br>\
+                     حرقفه<br>\
+                     حرقفة<br>\
+                   The <i>bone of the</i> <br>\
+                  حَجَبَة, which is the <i>head</i> [or <i>crest</i>] <i>of the hip</i> or <i>haunch:</i> (S, K:) or the <i>head of the upper part of the hip</i> or <i>haunch:</i> (TA in art. اكم:) or [the dual] حَرْقَفَتَانِ signifies the <i>place where the head of each thigh unites with,</i> or <i>meets, the hip</i> or <i>haunch,</i> (Zj in his “ Khalk el-Insán, ” and TA, *) <i>externally:</i> (TA:) [see an explanation of حَجَبَةٌ, in which a distinction is made between this latter term and حَرْقَفَةٌ: a distinction is also made between them by Zj in his work cited above, as a reference to حجبة will show:] pl. حَرَاقِفُ (S, K) and حَرَاقِيفُ. (TA.) One says, المَرِيضُ اـِذَا طَالَتْ <br>\
+                  ضَجْعَتُهُ دَبِرَتْ حَرَاقِفُهُ [<i>The sick man, when his lying on the side is of long continuance, his</i> <br>\
+                  حراقف <br>\
+                  <i>became galled;</i> i. e. <i>the exterior prominent regions of his hip-joints</i>]. (S.)    </entryFree> <br>\
+<b>حُرْقُوفٌ</b>               1     <br>\
+                     حُرْقُوفٌ<br>\
+                     حرقوف<br>\
+                   An <i>emaciated</i> beast, or horse or the like; (S, K, TA;) i. e., <i>whose</i> <br>\
+                  حَرَاقِيف <br>\
+                  <i>are apparent.</i> (TA.)   </entryFree> <br>\
+' } );

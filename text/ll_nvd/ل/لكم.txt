@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'لكملَكْمَهٌ A blow with the fist.<br>\
+' } );

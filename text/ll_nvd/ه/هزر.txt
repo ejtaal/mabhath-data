@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'هزرهَزَوَّرٌ<br>\
+A strong boy or young man: and a weak<br>\
+old man: as also حَزَوَّرٌ: pl. هَزاَوِرَةٌ. (Abu-t-Teiyib,<br>\
+in TA, art. حزر.)<br>\
+' } );

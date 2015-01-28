@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>حرقد</em>            1                  حرقد<br>\
+<b>حِرْقِدٌ</b>               1     <br>\
+                     حِرْقِدٌ<br>\
+                     حرقد<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>حَرْقَدَةٌ</b>               1     <br>\
+                     حَرْقَدَةٌ<br>\
+                     حرقده<br>\
+                     حرقدة<br>\
+                   The عُقَدْة <br>\
+                  <i>of the</i> <br>\
+                  حُنْجُور [meaning the <i>head of the windpipe;</i> app. called its عقدة, or “ knob, ” because its anterior portion forms a protuberance, that which we term “ pomum Adami: ” see غُصَّةٌ]: (S, L, K:) pl. حَرَاقِدُ. (L.) ―         -b2-  And The <i>root of the tongue;</i> (IAar, L;) as also ↓ <br>\
+      حِرْقِدٌ. (IAar, L, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'لثفلُثْفَةٌ The changing, in pronunciation, س into<br>\
+ث, or ر into غ or ل, (S, K, Msb,) and the like:<br>\
+(Msb:) or, one letter into another. (Az, in Msb,<br>\
+K.) Also, A word mispronounced; as when a<br>\
+word is said to be لُغَةٌ أَوْ لُثْفَةٌ a dialectal variant<br>\
+or a word mispronounced.<br>\
+' } );

@@ -1,0 +1,73 @@
+load_data( { book: 'll_pt', text: '<em>هتا</em>            1                  هتا<br>\
+<b>هَتَاَ</b>               1     <br>\
+                     هَتَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     هَتَاَ<br>\
+                  , (K,) inf. n. هَتْءٌ, (TA,) <i>He beat</i> a person (K) with a staff or stick. (TA.) ―         -b2-  هَتِيَ, aor.      <br>\
+                     هَتَاَ<br>\
+                  , <i>He was bent,</i> or <i>crooked.</i> (K.)    </entryFree> <br>\
+<b>تهتّا</b>               1     <br>\
+                     تهتّا<br>\
+                     ذ<br>\
+                  <i>It</i> (a garment) <i>became ragged, and worn out.</i> (S, K.)    </entryFree> <br>\
+<b>مَضَى مِنَ اللَّيْلِ هَتْءٌ</b>               1     <br>\
+                     مَضَى مِنَ اللَّيْلِ هَتْءٌ<br>\
+                     ذ<br>\
+                  , and ↓ <br>\
+      هِتْءٌ, (ISk, K,) and ↓ <br>\
+      هَتِىْءٌ, (Lh, K,) and ↓ <br>\
+      هَتِىٌّ, (Lh,) and ↓ <br>\
+      هِتَاءٌ, and ↓ <br>\
+      هِيتِيٌ (same measure as زِبْرِجٌ, as in the TA), or ↓ <br>\
+      هِتْيَا=ءٌ, (as in the CK and a MS. copy) and ↓ <br>\
+      هِيتَا=ءٌ, (K,) and ↓ <br>\
+      هَتْاَةٌ, (AHeyth, K,) <i>A portion of the night elapsed</i> (K, &amp;amp;c.) ―         -b2-  مَا بَقِىَ مِنْ غَنَمِهِمْ اـِلَّا هِتْءٌ <br>\
+                  <i>There remained not, of their sheep,</i> or <i>goats, save a part, less than the part that had gone away.</i> (TA.)    </entryFree> <br>\
+<b>هِتْءٌ</b>               1     <br>\
+                     هِتْءٌ<br>\
+                     ذ<br>\
+                  : see هَتْءٌ.    </entryFree> <br>\
+<b>هَتَاٌ</b>               1     <br>\
+                     هَتَاٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      هُتُوْءٌ <br>\
+                  <i>A rent.</i> (K.) ―         -b2-  <i>A swelling:</i> syn. نُتُوٌّ, (TA.)    </entryFree> <br>\
+<b>هَتْاَةٌ</b>               1     <br>\
+                     هَتْاَةٌ<br>\
+                     ذ<br>\
+                  : see هَتْءٌ.    </entryFree> <br>\
+<b>هِتَا=ءٌ</b>               1     <br>\
+                     هِتَا=ءٌ<br>\
+                     ذ<br>\
+                  : see هَتْءٌ.    </entryFree> <br>\
+<b>هَتِىْءٌ</b>               1     <br>\
+                     هَتِىْءٌ<br>\
+                     ذ<br>\
+                  : see هَتْءٌ.    </entryFree> <br>\
+<b>هَتِىٌّ</b>               1     <br>\
+                     هَتِىٌّ<br>\
+                     ذ<br>\
+                  : see هَتْءٌ.    </entryFree> <br>\
+<b>هُتُوْءٌ</b>               1     <br>\
+                     هُتُوْءٌ<br>\
+                     ذ<br>\
+                  : see هَتَاٌ.    </entryFree> <br>\
+<b>هِتْيَا=ءٌ</b>               1     <br>\
+                     هِتْيَا=ءٌ<br>\
+                     ذ<br>\
+                  : see هَتْءٌ.    </entryFree> <br>\
+<b>هِيتَا=ءٌ</b>               1     <br>\
+                     هِيتَا=ءٌ<br>\
+                     ذ<br>\
+                  : see هَتْءٌ.    </entryFree> <br>\
+<b>هِيتِيٌ</b>               1     <br>\
+                     هِيتِيٌ<br>\
+                     ذ<br>\
+                  : see هَتْءٌ.    </entryFree> <br>\
+<b>اَهْتَاُ</b>               1     <br>\
+                     اَهْتَاُ<br>\
+                     ذ<br>\
+                  <i>Humpbacked.</i> (K.)   </entryFree> <br>\
+' } );

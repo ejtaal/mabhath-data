@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>وت</em>            1                  وت<br>\
+<b>وَتٌّ</b>               1     <br>\
+                     وَتٌّ<br>\
+                     ذ<br>\
+                   (L, K) and وُتٌّ and وُتَّةٌ (K) or وَتَّةٌ (L) The <i>cry of the bird called</i> <br>\
+                  وَرَشَان. (AA, L, K.) اَوْتَى signifies He cried as cries the ورشان. (IAar, L.)    </entryFree> <br>\
+<b>وَتَاوِتُ</b>               1     <br>\
+                     وَتَاوِتُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  وَسَاوِسُ <br>\
+                  <i>Evil suggestions, &amp;amp;c.</i> (K.) The س is thus changed, in poetry, into ت, as in نَاتٌ and اَكْيَاتٌ. (MF.)   </entryFree> <br>\
+' } );

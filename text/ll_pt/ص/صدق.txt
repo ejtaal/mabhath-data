@@ -1,0 +1,217 @@
+load_data( { book: 'll_pt', text: '<em>صدق</em>            1                  صدق<br>\
+<b>صَدَقَ</b>               1     <br>\
+                     صَدَقَ<br>\
+                     ذ<br>\
+                  , (S, M, O, Msb, K,) aor.      <br>\
+                     صَدُقَ<br>\
+                  , (M, TA,) inf. n. صِدْقٌ (S, * M, O, * Msb, K, TA) and صَدْقٌ, (M, K,) the former of which is the more chaste, (TA,) or the latter is an inf. n. and the former is a simple subst., (K,) and تَصْدَاقٌ (M) and مَصْدُوقَةٌ, (O, K, TA,) which is one of the [few] inf. ns. of the measure مَفْعُولَةٌ, (O, TA,) [or a fem. pass. part. n. used as an inf. n. like as is said of its contr. مَكْذُوبَةٌ,] <i>he spoke, said, uttered,</i> or <i>told, truth,</i> or <i>truly,</i> or <i>veraciously; contr. of</i> <br>\
+                  كَذَبَ: (Msb: [and in like manner it is said in the S and M and O and K that صِدْقٌ is the <i>contr. of</i> <br>\
+                  كَذِبٌ:]) Er-Rághib says that صِدْقٌ and كَذِبٌ are primarily in what is said, whether relating to the past or to the future, and [in the latter case] whether it be a promise or other than a promise; and only in what is said in the way of information: but sometimes they are in other modes of speech, such as asking a question, and commanding, and supplicating; as when one says, “ Is Zeyd in the house? ” for this implies information of his being ignorant of the state of Zeyd; and when one says, “ Make me to share with thee, or to be equal with thee, ” for this implies his requiring to be made to share with the other, or to be made equal with him; and when one says, “ Do not thou hurt me, ” for this implies that the other is hurting him: صِدْقٌ, he says, is [by implication] the agreeing of what is said with what is conceived in the mind and with the thing told of, together; otherwise it is not complete صِدْق, but may be described either as صِدْق or sometimes as صِدْق and sometimes as كَذِب according to two different points of view; as when one says without believing it, “ Mohammad is the Apostle of God, ” for this may be termed صِدْق because what is told is such, and it may be termed كَذِب because it is at variance with what the speaker conceives in his mind. (TA.) One says, صَدَقَ فِى الحَدِيثِ [<i>He spoke truth in the information,</i> or <i>narration</i>]. (S, O, K.) And صَدَقَهُ i. e. <i>He told him,</i> or <i>informed him, with truth,</i> or <i>veracity,</i> (AHeyth, * M, Msb, *) فِى القَوْلِ [<i>in the saying</i>]; for it is trans. as well as intrans. (Msb.) And صَدَقَهُ <br>\
+                  الحَدِيثَ (S, O, K, in the CK [erroneously] صَدَّقَ <br>\
+                  فُلانًا الحَدِيثَ) <i>He told him with truth,</i> or <i>veracity, the information,</i> or <i>narration;</i> for it is sometimes doubly trans. (TA.) And صَدَقَنِى سِنَّ بَكْرِهِ [<i>He hath told me truly the age,</i> or <i>as to the age, of his youthful camel;</i> or صَدَقَنِى سِنُّ بَكْرِهِ <br>\
+                  <i>the age of his youthful camel has spoken truly to me</i>]: (S, O, K:) a prov., (S, O,) expl. in art. بكر [q. v.]. (K.) And فُلَانٌ لَا يَصْدُقُ اَثَرُهُ and اَثَرَهُ, meaning <i>Such a one,</i> when asked, <i>will not tell truly whence he comes.</i> (M.) And صَدَقَتْ يَمِينُهُ <br>\
+                  <i>His oath was,</i> or <i>proved, true.</i> (Msb in art. بت.) صَدَقْتُ اْللّٰهَ <br>\
+                  حَدِيثًا اـِنْ لَمْ اَفْعَلْ كَذَا is an oath of the Arabs, meaning لَا صَدَقْتُ الخ [<i>May I not utter truly to God a saying,</i> i. e. <i>may I not speak truth to God, if I do not such a thing</i>]. (AHeyth, O, K.) One says also, صَدَقَهُ النَّصِيحَةَ, and الاـِخَا=ءَ, <i>He rendered to him truly,</i> or <i>sincerely, good advice,</i> and <i>brotherly affection.</i> (M.) And صَدَ قُوهُمُ القِتَالَ (S, M, K, * TA) [<i>They gave them battle earnestly,</i> <br>\
+                  <i>not with a false show of bravery;</i> as is implied in the S, and M, and K; i. e.] <i>they advanced against them boldly in fight:</i> (M, TA:) and in like manner, صَدَقُوا فِى القِتَالِ <br>\
+                  <i>they advanced boldly in fight:</i> or, accord. to Er-Rághib, the former means <i>they gave them battle so as to fulfil their duty:</i> and hence, in the Kur [xxxiii. 23], رِجَالٌ صَدَقُوا مَا عَاهَدُوا اْللّٰهَ عَلَيْهِ, <i>Men who fulfilled the covenant that they had made with God.</i> (TA.) And صَدَقَ اللِّقَا=ءَ, inf. n. صِدْقٌ, <i>He was firm,</i> or <i>steady, in encounter,</i> or <i>conflict.</i> (M, TA.) And صَدَقَ ظَنِّى <br>\
+                  <i>My opinion was,</i> or <i>proved, true,</i> or <i>correct,</i> like as one says [in the contrary case], كَذَبَ: (Er-Rághib, TA:) whence, in the Kur [xxxiv. 19], وَلَقَدْ صَدَقَ عَلَيْهِمْ اـِبْلِيسُ ظَنَّهُ, meaning فِى ظَنِّهِ [i. e. <i>And assuredly Iblees was,</i> or <i>proved to be, correct in his opinion</i> that he had formed <i>against them</i>]: but some read ↓ <br>\
+      صَدَّقَ, meaning, as Fr says, حَقَّقَ [i. e. Iblees <i>proved,</i> or <i>found, to be true,</i> his opinion &amp;amp;c.]. (TA.) And صَدَقَتْهُ نَفْسُهُ <br>\
+                  <i>His soul</i> [<i>told him truth;</i> meaning,] <i>diverted him,</i> or <i>hindered him,</i> or <i>held him back, from an undertaking, causing him to imagine himself unable to prosecute it.</i> (TA in art. كذب.) And صَدَقَ الصُّبْحُ [<i>The dawn shone clearly</i>]. (S in art. سقط.) [And one says of a word or the like, يَصْدُقُ عَلَى كَذَا, meaning <i>It applies correctly to such a thing.</i>] ―         -b2-  صَدَقَ الوَحْشِىُّ: see 2, near the end.    </entryFree> <br>\
+<b>صدّقهُ</b>               1     <br>\
+                     صدّقهُ<br>\
+                     ذ<br>\
+                  , (S, M, O, &amp;amp;c.,) inf. n. تَصْدِيقٌ, <i>contr. of</i> <br>\
+                  كَذَّبَهُ. (O, * K.) [This explanation implies several meanings here following.] <i>He attributed,</i> or <i>ascribed, to him truth, veracity,</i> or <i>the speaking truth.</i> (Msb.) And <i>He said to him,</i> “ <i>Thou hast spoken truth.</i> ” (Msb.) <i>He accepted,</i> or <i>admitted,</i> [or <i>assented to,</i> or <i>believed,</i>] <i>what he said:</i> (M:) you say, صدّقهُ فِى حَدِيثِهِ [<i>He accepted,</i> &amp;amp;c., <i>what he said in his information,</i> or <i>narration</i>]: (S:) and you say صدّق بِلِسَانِهِ [<i>He assented to the truth of what was said with his tongue</i>]; as well as بِقَلْبِهِ [<i>with his heart,</i> or <i>mind</i>]. (T in art. اَمن.) <i>He held him to be a speaker of truth.</i> (MA.) [<i>He found him to be a speaker of truth. He,</i> or <i>it, proved him to be a speaker of truth; verified him;</i> or <i>confirmed the truth of what he said:</i> see an ex. in a verse cited voce بَيْنٌ.] <i>He found it</i> (an opinion) <i>to be true,</i> or <i>veritable.</i> (Ksh and Bd and Jel, in xxxiv. 19.) <i>He verified it; confirmed its truth;</i> or <i>proved it to be true,</i> or <i>veritable;</i> i. e. an opinion [&amp;amp;c.]; syn. حَقَّقَهُ: (Ksh and Bd, ibid.:) one says, صَدَّقَ الخَبَرَ الخُبْرُ [<i>The trial, proof,</i> or <i>test, verified the information</i>]. (S in art. خبر.) See 1, near the end. In the saying in the Kur [xxxix. 34], وَاْلَّذِى جَا=ءَ بِالصِّدْقِ <br>\
+                  وَصَدَّقَ بِهِ, [which seems to be best rendered <i>But he who hath brought the truth and</i> he who <i>hath accepted it as the truth,</i> (see كَذَّبَ بِالاَمْرِ,)] &#39;Alee the son of Aboo-Tálib is related to have said that by الذى جا=ء بالصدق is meant Mohammad; and by الذى صدّق به, Aboo-Bekr: or, as some say, Gabriel and Mohammad [are meant by the former and the latter respectively]: or by the former, Mohammad; and by the latter, [every one of] the believers: (M:) accord. to Er-Rághib, by وصدّق به is meant <i>and hath found,</i> or <i>proved, to be true</i> (حَقَّقَ) <i>that which he hath brought by word,</i> by that which he hath aimed at (بِمَا تَحَرَّاهُ) by deed. (TA.) ―         -b2-  صدّق is also said to signify <i>He said,</i> “ This thing is the truth; ” like حَقَّقَ. (TA in art. حق.) ―         -b3-  And this verb also denotes المُبَالَغَةُ فِى الصِّدْقِ: thus in the saying, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        صَدَّقَتْ فِيهِمْ ظُنُونِى<br>\
+                  </quote> [<i>My opinions respecting them were,</i> or <i>proved to be, very true</i> or <i>correct</i>]. (Ksh, in xxxiv. 19.) ―         -b4-  صدّق الوَحْشِىُّ, (O, K, TA,) or ↓ <br>\
+      صَدَقَ, (so in a copy of the M,) (tropical:)  <i>The wild animal ran without looking aside, when charged upon,</i> or <i>attacked:</i> (M, O, K, TA:) mentioned by IDrd. (O, TA.)       -A2-  صَدَّقَهُمْ <br>\
+                  <i>He exacted from them the poor-rate.</i> (TA. [See صَدَقَةٌ.]) ―         -b2-  See also 5.    </entryFree> <br>\
+<b>صَادَقْتُهُ</b>               1     <br>\
+                     صَادَقْتُهُ<br>\
+                     ذ<br>\
+                  , (M,) inf. n. مُصَادَقَةٌ (S, M, O, K) and صِدَاقٌ, (M, O, K,) the latter like كِتَابٌ, (TA, [in the CK erroneously written صَداق,]) I <i>acted,</i> or <i>associated, with him as a friend,</i> or <i>as a true,</i> or <i>sincere, friend.</i> (S, * M, O, * K. *) [See also 6.]    </entryFree> <br>\
+<b>اصدق المَرْاَةَ</b>               1     <br>\
+                     اصدق المَرْاَةَ<br>\
+                     ذ<br>\
+                  <i>He named for the woman a</i> <br>\
+                  صَدَاق [or <i>dowry</i>]: (S, M, * O, K:) or <i>he gave her her</i> <br>\
+                  صَدَاق: (M, * Msb:) or <i>he appointed her,</i> or <i>assigned her, a</i> <br>\
+                  صَدَاق, <i>on taking her as his wife:</i> (TA:) and <i>he married her,</i> or <i>took her as his wife, on the condition of his giving her a</i> <br>\
+                  صَدَاق. (Msb.) And sometimes this verb is doubly trans.; whence, in a trad., مَا ذَا تُصْدِقُهَا <br>\
+                  فَقَالَ اـِزَارِى [It was said, “ <i>What is it that thou meanest for her,</i> or <i>givest her, as her dowry?</i> ” <i>and he said,</i> “ <i>My waist-wrapper</i> ”]. (Mgh.)    </entryFree> <br>\
+<b>تصدّق عَلَيْهِ</b>               1     <br>\
+                     تصدّق عَلَيْهِ<br>\
+                     ذ<br>\
+                  <i>He gave him</i> (i. e. the poor, Mgh, Msb) <i>what is termed</i> <br>\
+                  صَدَقَة, (M, Mgh, Msb,) meaning [<i>an alms,</i> or] <i>what is given for the sake of God,</i> (M,) or <i>what is given with the desire of obtaining a recompense from God:</i> (M, * Mgh:) and عليه ↓ <br>\
+      صَدَّقَ signifies the same; (M, TA;) and in this sense صدّق is [said by some to be] used in the Kur lxxv. 31. (TA.) Hence, in the Kur [xii. 88], وَتَصَدَّقْ عَلَيْنَا: (TA:) or this means (assumed tropical:)  <i>And do thou confer a favour upon us</i> by giving that which is [not like the mean merchandise that we have brought, but of middling quality,] between good and bad. (M.) One says, تَصَدَّقْتُ بِكَذَا, meaning <i>I gave such a thing as a</i> <br>\
+                  صَدَقَة. (Msb.) See an ex. voce شِقٌّ. The saying, in a trad., اـِنَّ اْللّٰهَ تَصَدَّقَ عَلَيْكُمْ بِثُلُثِ <br>\
+                  اَمْوَالِكُمْ, meaning (tropical:)  [<i>Verily God</i>] <i>hath conferred a favour</i> [<i>upon you by giving you a third of your possessions</i> to bequeath to whom ye will], if correct, is tropical. (Mgh.) ―         -b2-  It is said by Ibn-Es-Seed, on the authority of AZ and IJ, and mentioned by IAmb, that تصدّق signifies also <i>He asked,</i> or <i>begged, for what is termed</i> <br>\
+                  صَدَقَة [or <i>alms</i>]: but Fr and As and others disallow the beggar&#39;s being called مُتَصَدِّق: (Az, TA:) IKt says that the verb is improperly used in this sense by the vulgar: (Msb:) [and accord. to J and Sgh,] one says, مَرَرْتُ بِرَجُلٍ يَسْاَلُ, and one should not say يَتَصَدَّقُ. (S, O.)    </entryFree> <br>\
+<b>تَصَادُقٌ</b>               1     <br>\
+                     تَصَادُقٌ<br>\
+                     ذ<br>\
+                   signifies The <i>acting,</i> or <i>associating, as friends,</i> or <i>as true,</i> or <i>sincere, friends, one with another.</i> (K. [See also 3.]) And <i>I. q.</i> <br>\
+                  صِدْقٌ: (TA:) [or rather <i>mutual</i> <br>\
+                  صِدْق; <i>contr. of</i> <br>\
+                  تَكَاذُبٌ:] one says, تَصَادَقَا فِى الحَدِيثِ and فِى المَوَدَّةِ (S, O, TA) <i>They were true,</i> or <i>sincere, each to the other, in information,</i> or <i>narration,</i> and <i>in love,</i> or <i>affection; contr. of</i> <br>\
+                  تَكَاذَبَا. (O, TA.)    </entryFree> <br>\
+<b>صَدْقٌ</b>               1     <br>\
+                     صَدْقٌ<br>\
+                     ذ<br>\
+                   is an inf. n. of صَدَقَ [q. v.]: (M, K:) ―         -b2-  and is used as an epithet, applied to a man &amp;amp;c.: (S, M, O, K, TA:) [and] ↓ <br>\
+      صِدْقٌ [also, if not a mistranscription for صَدْقٌ,] is an inf. n. used as an epithet, applied to a man and to a woman: (so in a copy of the M and in the TA:) [it is said that] the former signifies <i>Hard,</i> (S, M, O, Msb,) applied to a spear, (S, M, O,) and to other things: (M:) or <i>even,</i> or <i>straight;</i> (S, O;) or it signifies thus also, applied to a spear, and to a sword: (M:) or <i>hard and even</i> or <i>straight,</i> applied to a spear, (K, TA,) and to a man, (K,) or to the latter as meaning <i>hard:</i> or, as IB says, on the authority of IDrst, it is not from hardness, but means <i>combining those qualities that are commended;</i> and it is applied to a spear as meaning <i>long and pliant and hard,</i> and <i>the like;</i> and to a man, and to a woman likewise [without ة, but see what follows], as meaning <i>true in hardness and strength and goodness;</i> for, IDrst says, if it meant <i>hard,</i> one would say حَجَرٌ صَدْقٌ and حَدِيدٌ صَدْقٌ, which one does not: (TA:) and, applied to anything, (O, K, TA,) it means <i>complete,</i> or <i>perfect,</i> (Kh, O, K, TA,) thus applied to a man, (TA,) <i>such as is commended;</i> (O;) fem. with ة, (O, K, TA,) applied to a woman: (O:) the pl. is صُدْقٌ, applied to a company of men, (S, O, K,) and صُدُقٌ (K) and صَدْقُونَ, so applied, and صَدْقَاتٌ applied to women: (O, K:) and Ru-beh says, describing asses, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        مَقْذُوذَةُ الا=ذَانِ صَدْقَاتُ الحَدَقْ<br>\
+                  </quote> meaning [<i>Rounded, as though pared, in the ears,</i>] <i>penetrating in the eyes;</i> (O, TA;) which is [said to be] tropical. (TA.) صَدْقٌ signifies also <i>Firm,</i> or <i>steady, in encounter,</i> or <i>conflict:</i> (M:) or one says صَدْقُ اللِّقَا=ءِ, applying this epithet to a man, (S, O, K, TA,) meaning thus: (TA:) and صَدْقُ <br>\
+                  النَّظَرِ [<i>firm,</i> or <i>steady, in look</i>]. (S, O, K, TA. [Said in the TA to be tropical.])    </entryFree> <br>\
+<b>صِدْقٌ</b>               1     <br>\
+                     صِدْقٌ<br>\
+                     ذ<br>\
+                   is an inf. n. of صَدَقَ [q. v.]: (M, K, &amp;amp;c.:) or a simple subst., (K,) signifying [<i>Truth; veracity;</i> or] <i>agreement of what is said with what is conceived in the mind and with the thing told of, together;</i> otherwise it is not complete صِدْق, as expl. above in the first paragraph of this art. (Er-Rághib, TA.) ―         -b2-  It is also <i>syn. with</i> <br>\
+                  شِدَّةٌ [meaning <i>Hardness; firmness, compactness,</i> or <i>soundness; strength, power,</i> or <i>force; vigour, robustness, sturdiness,</i> or <i>hardiness;</i> and <i>courage, bravery,</i> or <i>firmness of heart</i>]: (K, TA: [in the latter of which it is said to be tropical; but this is  evidently not the case accord. to the O, in which it is said that it radically denotes قُوَّةٌ (i. e. <i>strength, force,</i> &amp;amp;c.,) in a saying &amp;amp;c.: in the K it is implied by the context that it is syn. with شِدَّة when used as the complement of a prefixed n. in instances mentioned in what here follows: but Sgh says, more correctly,]) a noun signifying anything to which goodness is attributed is prefixed to صِدْق, governing it in the gen. case; so that one says (O) رَجُلُ صِدْقٍ (Sb, M, O, K) [<i>A man of good nature</i> or <i>disposition</i> or <i>character</i> &amp;amp;c.], <i>contr. of</i> <br>\
+                  رَجُلُ سَوْءٍ; (Sb, M;) and صَدِيقُ <br>\
+                  صِدْقٍ [<i>a friend of good nature</i> &amp;amp;c.]; (O, K;) and likewise اِمْرَاَةُ صِدْقٍ [<i>a woman of good nature</i> &amp;amp;c.]; (K;) and in like manner also حِمَارُ صِدْقٍ [<i>an ass of a good kind</i>]; (Sb, M, K;) and ثَوْبُ <br>\
+                  صِدْقٍ [<i>a garment,</i> or <i>piece of cloth, of good quality</i>]. (Sb, M.) The saying in the Kur [x. 93], (O,) وَلَقَدْ بَوَّاْنَا بَنِى اِسْرَايِيلَ مُبَوَّاَ صِدْقٍ means <i>And verily we assigned to the Children of Israel a good place of abode.</i> (O, K.) ―         -b3-  See also صَدْقٌ.    </entryFree> <br>\
+<b>صَدْقَةٌ</b>               1     <br>\
+                     صَدْقَةٌ<br>\
+                     ذ<br>\
+                  : see صَدَاقٌ; each in two places.    </entryFree> <br>\
+<b>صُدْقَةٌ</b>               1     <br>\
+                     صُدْقَةٌ<br>\
+                     ذ<br>\
+                  : see صَدَاقٌ; each in two places.    </entryFree> <br>\
+<b>صَدَقَةٌ</b>               1     <br>\
+                     صَدَقَةٌ<br>\
+                     ذ<br>\
+                   [<i>An alms;</i> i. e.] <i>a gift</i> (S, M, Mgh, O, Msb, K) <i>to the poor</i> (S, O, Msb) <i>for the sake of God,</i> (M, K,) or <i>to obtain a recompense from God;</i> (M, * Mgh, K; *) <i>a portion which a man gives forth from his property by way of propitiation,</i> [<i>to obtain the favour of God,</i>] like زَكَاةٌ, except that the former is primarily applied to <i>such as as is supererogatory,</i> and the latter to such as is obligatory: but it is said to be applied to <i>such as is obligatory</i> [i. e. to the زَكَاة, q. v., meaning the <i>poor-rate,</i> which is the <i>portion,</i> or <i>amount, of property, that is given therefrom, as the due of God, by its possessor, to the poor, according to a fixed rate,</i>] when the person who does so aims at conformity with the truth in his deed: (Er-Rághib, TA:) [in this latter sense, which is indicated in the S and O &amp;amp;c., and more plainly in the M, it is very frequently used:] and thus it is used in the Kur ix. 104, and in like manner its pl. in ix. 60: (Er-Rághib, TA:) the pl. is صَدَقَاتٌ. (S, M, O, Msb.) It is said in a trad., لَا صَدَقَةَ فِى الاـِبِلِ الجَارَّةِ [<i>There is no poorrate in the case of working camels</i>], because they are the riding-camels of the people; for the poorrate is in the case of pasturing camels, exclusively of the working. (S in art. جر.) ―         -b2-  See also صَدَاقٌ.    </entryFree> <br>\
+<b>صَدُقَةٌ</b>               1     <br>\
+                     صَدُقَةٌ<br>\
+                     ذ<br>\
+                  : see صَدَاقٌ, in two places.    </entryFree> <br>\
+<b>صُدُقَةٌ</b>               1     <br>\
+                     صُدُقَةٌ<br>\
+                     ذ<br>\
+                  : see the next paragraph.    </entryFree> <br>\
+<b>صَدَاقٌ</b>               1     <br>\
+                     صَدَاقٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      صِدَاقٌ, (S, M, Mgh, O, Msb, K,) the former of which is the most common of the dial. vars. here mentioned, (Msb,) [but] the latter is [said to be] more chaste than the former, (Mgh,) and ↓ <br>\
+      صَدُقَةٌ, (S, M, O, Msb, K,) of the dial. of El-Hijáz, (Msb,) and ↓ <br>\
+      صُدْقَةٌ, (S, M, O, Msb, K,) of the dial. of Temeem, (Msb,) and ↓ <br>\
+      صَدْقَةٌ (M, O, Msb, K) and ↓ <br>\
+      صُدُقَةٌ (M, O, K) and ↓ <br>\
+      صَدَقَةٌ, (M, K,) The مَهْر (S, M, Mgh, O, K) of a woman; (S, Mgh, O, Msb, K;) [i. e. <i>a dowry; nuptial gift;</i> or <i>gift that is given to,</i> or <i>for, a bride:</i>] the pl. of صداق is صُدُقٌ, (M, Mgh, Msb,) a pl. of mult., (M,) or صُدْقٌ, (O,) or both, (K,) and اَصْدِقَةٌ, a pl. of pauc., (M,) or this is accordant to analogy, but has not been heard; (Mgh;) the pl. of ↓ <br>\
+      صَدُقَةٌ is صَدُقَاتٌ; (S, Msb, K;) the pl. of ↓ <br>\
+      صُدْقَةٌ is صُدْقَاتٌ and صُدَقَاتٌ and صُدُقَاتٌ, (O, * Msb, K,) which last is the worst; (K;) and the pl. of ↓ <br>\
+      صَدْقَةٌ is صُدَقٌ, (Msb,) or صَدْقَاتٌ [by rule صَدَقَاتٌ]. (O.)    </entryFree> <br>\
+<b>صِدَاقٌ</b>               1     <br>\
+                     صِدَاقٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>صَدُوقٌ</b>               1     <br>\
+                     صَدُوقٌ<br>\
+                     ذ<br>\
+                  <i>Having the quality of speaking, saying, uttering,</i> or <i>telling, truth,</i> or <i>truly,</i> or <i>veraciously, in a high,</i> or <i>an eminent, degree; very,</i> or <i>eminently, true</i> or <i>veracious:</i> (Msb:) pl. صُدُقٌ and صُدْقٌ. (K.) See also اَصْدَقُ.    </entryFree> <br>\
+<b>صَدِيقٌ</b>               1     <br>\
+                     صَدِيقٌ<br>\
+                     ذ<br>\
+                  <i>A friend:</i> (O, K:) or <i>a true,</i> or <i>sincere, friend:</i> (S, M, Msb, TA:) applied likewise to a female, (S, M, O, Msb, K,) as also صَدِيقَةٌ, (S, M, Msb, K,) the former anomalous, the latter regular; (MF;) and to a pl. number, (S, M, O, K,) as in the Kur xxvi. 101 (M) [and in several other instances, of which see one in a verse cited voce رَوِىٌّ]: its proper pl. is اَصْدِقَا=ءُ (S, M, O, K) and صُدَقَا=ءُ and صُدْقَانٌ, (M, K,) the last on the authority of Fr, (TA,) and اَصَادِقُ, (M, O, K,) which is a pl. pl., (K,) said by IDrd to be anomalous, unless it be a pl. pl.: (O:) and the dim. is ↓ <br>\
+      صُدَيِّقٌ; one says, هُوَ صُدَيِّقِى, meaning <i>He is the most special,</i> or <i>most distinguished, of my friends,</i> or <i>of my true,</i> or <i>sincere, friends.</i> (S, O, K.)    </entryFree> <br>\
+<b>صَدَاقَةٌ</b>               1     <br>\
+                     صَدَاقَةٌ<br>\
+                     ذ<br>\
+                  <i>Love,</i> or <i>affection:</i> (K:) or <i>truth,</i> or <i>sincerity, of love</i> or <i>affection:</i> (TA:) or <i>friendship,</i> or <i>friendliness;</i> (S, M;) or <i>true,</i> or <i>sincere, friendship</i> or <i>friendliness:</i> (S, M, Msb:) or <i>true firmness of heart in love</i> or <i>affection;</i> an attribute of a human being only. (Er-Rághib, TA.)    </entryFree> <br>\
+<b>صُدَيِّقٌ</b>               1     <br>\
+                     صُدَيِّقٌ<br>\
+                     ذ<br>\
+                   dim. of صَدِيقٌ, q. v. (S, O, K.)    </entryFree> <br>\
+<b>صِدِّيقٌ</b>               1     <br>\
+                     صِدِّيقٌ<br>\
+                     ذ<br>\
+                   One <i>who speaks, says, utters,</i> or <i>tells, truth,</i> or <i>truly,</i> or <i>veraciously, much,</i> or <i>often:</i> (Mgh, O, K:) [or rather <i>having the quality of speaking, saying, uttering,</i> or <i>telling, truth,</i> or <i>truly,</i> or <i>veraciously, in a very high,</i> or <i>very eminent, degree;</i> for] it has a more intensive signification than صَدُوقٌ [q. v.]: (TA:) or <i>i. q.</i> <br>\
+                  مُصَدِّقٌ [which may have the latter of the two meanings expl. above, or may mean one <i>who accepts,</i> or <i>admits, the truth of what is said,</i> or <i>who verifies,</i> &amp;amp;c.: or مُصَدِّق <br>\
+                  <i>in a high,</i> or <i>an eminent, degree;</i> for it is added that] the fem. as used in the Kur v. 79 means <i>superlative in</i> <br>\
+                  الصِّدْق <br>\
+                  <i>and</i> <br>\
+                  التَّصْدِيق; as a possessive epithet, i. e. ذَاتُ تَصْدِيقٍ: (M:) or it signifies دَايِمُ التَّصْدِيقِ [i. e. <i>always</i> <br>\
+                  مُصَدِّق in one or another or all of the senses assigned to this word above: it may be correctly rendered <i>eminently,</i> or <i>always, veracious:</i> and <i>eminently,</i> or <i>always, accepting,</i> or <i>confirming, the truth</i>]: and it may mean one <i>who verifies his saying by deed,</i> or <i>act:</i> (S:) it is said in the “ Mufradát ” [of Er-Rághib] that it has the first of the meanings expl. in this paragraph: or rather means, one <i>who never lies:</i> or rather, one <i>by whom lying cannot be practised because of his habitual veracity:</i> or rather, one <i>who is true in his saying and his belief, and who confirms his truth by his deed,</i> or <i>acting.</i> (TA.)    </entryFree> <br>\
+<b>صَادِقٌ</b>               1     <br>\
+                     صَادِقٌ<br>\
+                     ذ<br>\
+                  <i>Speaking, saying, uttering,</i> or <i>telling, truth,</i> or <i>truly,</i> or <i>veraciously; true</i> in respect of speech &amp;amp;c., or <i>veracious.</i> (Msb, TA.) ―         -b2-  صِدْقٌ <br>\
+                  صَادِقٌ is a phrase like شِعْرٌ شَاعِرٌ, meaning <i>Eminent,</i> and <i>exalted, veracity.</i> (M, TA. *) ―         -b3-  And حَمْلَةٌ <br>\
+                  صَادِقَةٌ [<i>A charge,</i> or <i>an assault, made with earnestness, not with a false show of bravery,</i>] is like the saying [in the contr. case] حَمْلَةٌ كَاذِبَةٌ. (M, TA: * said in the latter to be tropical.) See also مَصْدَق, in two places. ―         -b4-  One says also تَمْرٌ صَادِقُ <br>\
+                  الحَلَاوَةِ, meaning <i>Very sweet dates.</i> (IDrd, O.) ―         -b5-  And بَرْدٌ صَادِقٌ <br>\
+                  <i>Vehement,</i> or <i>intense, cold.</i> (TA voce بَحْتٌ &amp;amp;c.)    </entryFree> <br>\
+<b>الصَّيْدَقُ</b>               1     <br>\
+                     الصَّيْدَقُ<br>\
+                     ذ<br>\
+                  <i>The small star cleaving to the middle one of</i> [<i>those called</i>] بَنَاتُ نَعْشٍ الكُبْرَى [<i>which compose the tail of Ursa Major</i>]; (Kr, M, TA;) [i. e. <i>the star called</i> <br>\
+                  السُّهَا, q. v.; for] it is said that the first of بنات نعش الكبرى, that is at the extremity thereof, is named القَايِدُ; and the second is العَنَاقُ, and by the side of it is a small star named السُّهَا and الصَّيْدَقُ; and the third is الحَوَرُ: (O:) or, accord. to AA, (O, TA,) <i>the pole-star</i> (القُطْبُ). (O, K, TA. [But this is strange; and the more so as it is added in the K that it is expl. in art. قود; for the explanation in that art. (though not free from obvious mistakes) identifies الصَّيْدَقُ with السُّهَا.]) ―         -b2-  And, (K,) accord. to Sh, (O, TA,) it signifies الاَمِينُ [<i>The trusted, trusted in,</i> or <i>confided in,</i> &amp;amp;c.]. (O, K. [But it is added in the O that Sh cites a verse of Umeiyeh Ibn-Abi- s-Salt in which الاَمِينُ is applied as an epithet to the star called الصَيدق.]) ―         -b3-  And, (K,) accord. to some, as AA says, (O,) it signifies <i>The king.</i> (O, K.)    </entryFree> <br>\
+<b>فَعَلَهُ فِى غِبِّ صَادِقَةٍ</b>               1     <br>\
+                     فَعَلَهُ فِى غِبِّ صَادِقَةٍ<br>\
+                     ذ<br>\
+                   [in the CK فَعَلَهُ غِبَّ صادِقَةٍ] means <i>He did it after the affair,</i> or <i>case, had become manifest to him.</i> (IDrd, O, K, TA.)    </entryFree> <br>\
+<b>صُنْدُوقٌ</b>               1     <br>\
+                     صُنْدُوقٌ<br>\
+                     ذ<br>\
+                  , mentioned in this art. in the S and Msb: see art. صندق.    </entryFree> <br>\
+<b>اَصْدَقُ</b>               1     <br>\
+                     اَصْدَقُ<br>\
+                     ذ<br>\
+                   [<i>More,</i> and <i>most, true</i> or <i>veracious</i>]. One says اَصْدَقُ مِنْ قَطَاةٍ [<i>More veracious than a katáh</i>]; because the bird thus called cries قَطَا قَطَا; [thus telling where it is to be found;] its name being imitative of its cry: (Meyd, and TA in art. قطو:) hence it is called by the Arabs ↓ <br>\
+      الصَّدُوقُ: the saying is a prov. (Meyd.)    </entryFree> <br>\
+<b>ذُو مَصْدَقٍ</b>               1     <br>\
+                     ذُو مَصْدَقٍ<br>\
+                     ذ<br>\
+                  , (JK, S, M, O,) with fet-h, (S,) or ↓ <br>\
+      ذُو مِصْدَقٍ like مِنْبَر, (K,) applied to a man, (JK, M,) [i. e.] applied to a courageous man, (S, O, K,) means الحَمْلَةِ ↓ <br>\
+      صَادِقُ [<i>Earnest, not</i> <br>\
+                  <i>making a false show of bravery, in the charge,</i> or <i>assault</i>]; (JK, S, M, O, K;) or <i>courageous</i> [<i>in the charge,</i> or <i>assault</i>]: (JK:) مَصَادِقُ, occurring in a verse of Aboo-Dhu-eyb, may be for ذَوُو <br>\
+                  مَصَادِقَ; or it may be an anomalous pl. of صِدْقٌ [used as an epithet], like مَلَامِحُ and مَشَابِهُ [pls. of لَمْحَةٌ and شَبَهٌ]. (M.) Also, (S, M, O, K,) applied to a horse, (M,) [i. e.] applied to a fleet and excellent horse, (S, O,) in like manner, (M,) meaning الجَرْىِ ↓ <br>\
+      صَادِقُ [<i>Earnest in running</i>]; (S, O, K;) as though fulfilling his promise of running: (S, O: [said in the TA to be tropical:]) Khufáf Ibn-Nudbeh says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اـِذَا مَا اْسْتَحَمَّتْ اَرْضُهُ مِنْ سَمَايِهِ<br>\
+                     <L><br>\
+                        جَرَى وَهْوَ مَوْدُوعٌ وَوَاعِدُ مَصْدَقِ<br>\
+                  </quote> meaning <i>When his hoofs are wetted with the sweat of his upper parts, he runs, being left to himself,</i> not beaten nor chidden, <i>and a fulfiller of his promise</i> to do his utmost. (S, O.) And sometimes it is applied to an opinion, in like manner [as meaning <i>True,</i> or <i>sincere</i>]. (M.) ―         -b2-  مَصْدَقٌ also signifies <i>Hardness.</i> (Th, M.) ―         -b3-  Also <i>i. q.</i> <br>\
+                  حَدٌّ [as meaning The <i>edge</i> of a sword]: (TA:) [in a copy of the M written جِدّ, which I think an evident mistake; for it is added,] and it is said to have this meaning in a verse of Dureyd Ibn-Es- Simmeh [relating to a sword]. (M, TA.)    </entryFree> <br>\
+<b>مِصْدَق</b>               1     <br>\
+                     مِصْدَق<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>مُصَدَّقٌ</b>               1     <br>\
+                     مُصَدَّقٌ<br>\
+                     ذ<br>\
+                   A man <i>from whom the poor-rate</i> (صَدَقَة) <i>of his cattle is exacted.</i> (TA.)    </entryFree> <br>\
+<b>مُصَدِّقٌ</b>               1     <br>\
+                     مُصَدِّقٌ<br>\
+                     ذ<br>\
+                   One <i>who accepts, admits, assents to,</i> or <i>believes, another in his information,</i> or <i>narration.</i> (S, TA.)       -A2-  Also The <i>exactor,</i> or <i>collector,</i> (S, M, O, Msb, K, TA,) <i>of the</i> <br>\
+                  صَدَقَات, (S, O, Msb, K, TA,) i. e. (TA) <i>of the</i> <br>\
+                  حُقُوق [or <i>dues,</i> meaning <i>poor-rates</i>], (M, TA,) <i>of the cattle,</i> (Msb,) or <i>of the sheep</i> or <i>goats,</i> (S, M, O, TA,) <i>and of the camels,</i> (M, O, TA,) <i>for the persons to whom pertain the shares</i> [<i>thereof</i>]. (TA.)    </entryFree> <br>\
+<b>مُصَّدِّقٌ</b>               1     <br>\
+                     مُصَّدِّقٌ<br>\
+                     ذ<br>\
+                  : see مُتَصَدِّقٌ.    </entryFree> <br>\
+<b>مِصْدَاقٌ</b>               1     <br>\
+                     مِصْدَاقٌ<br>\
+                     ذ<br>\
+                  <i>A thing that confirms,</i> or <i>proves, the truth</i> of a thing: (S, K:) [and] <i>a verbal evidence of the truth,</i> or <i>veracity,</i> of a man. (Har p. 106.) One says, هٰذَا مِصْدَاقُ هٰذَا <br>\
+                  <i>This is what confirms,</i> or <i>proves, the truth of this.</i> (S.) And شَىْءٌ لَيْسَ <br>\
+                  لَهُ مِصْدَاقٌ [<i>A thing having nothing to verify it</i>]. (IAar, TA in art. برق.)    </entryFree> <br>\
+<b>مَصْدُوقَةٌ</b>               1     <br>\
+                     مَصْدُوقَةٌ<br>\
+                     ذ<br>\
+                   [see 1, near the beginning]. One says لَيْسَ لِحَمْلَتِهِ مَصْدُوقَةٌ [meaning <i>There is no earnestness attributable to his charge,</i> or <i>assault</i>]; like as one says [in the contr. case], ليس لَهَا مَكْذُوبَةٌ. (M.)    </entryFree> <br>\
+<b>مُتَصَدِّقٌ</b>               1     <br>\
+                     مُتَصَدِّقٌ<br>\
+                     ذ<br>\
+                   One <i>who gives what is termed</i> <br>\
+                  صَدَقَة [meaning <i>alms</i>]: (S, O, Msb, K:) accord. to Kh, it means thus, and also one <i>who asks</i> [<i>alms</i>]; (O, TA;) and IAmb says the like; but Az says that the skilful of the grammarians disallow this; and thus say Fr and As and others: (TA:) [J, also, and Sgh and Fei, say that] it has only the former meaning: (S, O, Msb:) it is also pronounced ↓ <br>\
+      مُصَّدِّقٌ, by substitution [of ص for ت] and incorporation [of one ص into the other]; (S, * O, * Msb, K; *) and this pronunciation of the pl. both masc. and fem. occurs in the Kur lvii. 17, (S, O, K,) where Ibn-Ketheer and Aboo-Bekr, differing from others, read without teshdeed to the ص. (O.)   </entryFree> <br>\
+' } );

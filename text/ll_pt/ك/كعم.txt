@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>كعم</em>            1                  كعم<br>\
+<b>كَعَمَ البَعِيرَ</b>               1     <br>\
+                     كَعَمَ البَعِيرَ<br>\
+                     ذ<br>\
+                  : see عَكَمَ.    </entryFree> <br>\
+<b>كِعَامٌ</b>               1     <br>\
+                     كِعَامٌ<br>\
+                     ذ<br>\
+                  <i>A muzzle for a camel.</i> (PS.)    </entryFree> <br>\
+<b>كِعَامَةٌ</b>               1     <br>\
+                     كِعَامَةٌ<br>\
+                     ذ<br>\
+                   The <i>iron thing that embraces,</i> or <i>clasps,</i> (تَلْتَقِمُ,) <i>the muzzle of the horse.</i> (IDrd in his book on the Saddle and Bridle, p. 8.)   </entryFree> <br>\
+' } );

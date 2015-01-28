@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'لجحلُجْحٌ A thing in the lower part of a well, and<br>\
+of a valley, like what is called a دَحْل: (S, K:)<br>\
+or, in the lower part of a well, and of a<br>\
+mountain, like a نَقْب: (L:) originally لُحْجٌ,<br>\
+from which it is formed by transposition: (T:)<br>\
+pl. أَلْجَاحٌ. (L.)<br>\
+لجد: see لجذ<br>\
+' } );

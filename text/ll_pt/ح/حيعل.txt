@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>حيعل</em>            1                  حيعل<br>\
+<b>حَيْعَلَ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     حَيْعَلَ<br>\
+                     حيعل<br>\
+                  , (S in art. هل,) inf. n. حَيْعَلَةٌ, (K,) <i>He</i> (a مُوَذِّن) <i>said,</i> <br>\
+                  حَىَّ عَلَى الصَّلَاهْ حَىَّ <br>\
+                  عَلَى الفَلَاحْ: (K, TA:) composed of two words, like حَوْلَقَ. (S ubi suprà, and TA.)   </entryFree> <br>\
+' } );

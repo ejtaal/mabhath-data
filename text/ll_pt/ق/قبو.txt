@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قبو</em>            1                  قبو<br>\
+<b>قَبَا=ءٌ</b>               1     <br>\
+                     قَبَا=ءٌ<br>\
+                     ذ<br>\
+                   [<i>A kind of tunic, resembling the</i> <br>\
+                  قَفْتَانٌ, <i>generally reaching to the middle of the shank, divided down the front, and made to overlap over the chest.</i> So in the present day. See also Dozy, Dict. des noms de vêtements, pp. 352-62.]   </entryFree> <br>\
+' } );

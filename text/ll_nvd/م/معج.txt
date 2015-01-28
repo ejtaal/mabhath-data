@@ -1,0 +1,47 @@
+load_data( { book: 'll_nvd', text: 'معج1<br>\
+مَعَجَ, aor.<br>\
+مَعَجَ, inf. n. مَعْجٌ, He, or it, (a horse,<br>\
+and the wind, S, and a torrent, TA,) went quickly,<br>\
+or swiftly. (S, K.) See art. عمج. ―<br>\
+-b2-  مَرَّ يَمْعَجُ<br>\
+He (a horse) went at an easy pace: (S:) and in<br>\
+like manner مَعَجَتْ she (a camel) went at an easy<br>\
+pace. (Th.) ―<br>\
+-b3-  مَعَجَتِ الرِّيحُ, aor.<br>\
+مَعَجَ, inf. n. مَعْجٌ,<br>\
+The wind blew gently. (IAth.) ―<br>\
+-b4-  الرِّيحُ تَمْعَجُ<br>\
+فِى النَّبَاتِ The wind turns over the herbage to the<br>\
+right and left. (IAth.) ―<br>\
+-b5-  مَعَجَ فى سَيْرِهِ He<br>\
+inclined, in his course in every direction, by reason<br>\
+of his sprightliness. (TA.) ―<br>\
+-b6-  مَعَجَ, aor.<br>\
+مَعَجَ, inf.<br>\
+n. مَعْجٌ, He affected various modes in running:<br>\
+he (a horse) pressed against one of the branches of<br>\
+the bit, and then against the other, now on the<br>\
+right and now on the left; [inclining in his run<br>\
+now to the right and now to the left, by reason of<br>\
+his sprightliness: see مَعَّاجٌ]. (TA.) ―<br>\
+-b7-  مَعَجَ<br>\
+الفَصِيلُ ضَرْعَ أُمِّهِ, (aor.<br>\
+مَعَجَ, inf. n. مَعْجٌ, TA,) The<br>\
+young weaned camel struck its head against<br>\
+its mother&#39;s udder, and inverted (as in the S, or<br>\
+opened, as in the K) its mouth around it, in order<br>\
+to suck: (S, K,) as also مَغَجَ. (TA, arts. معج<br>\
+and مغج.)<br>\
+فَرَسٌ مَعُوجٌ A swift horse. (S.) رِيحٌ مَعُوجٌ A<br>\
+wind swift in its course. (TA.) ―<br>\
+-b2-  فَرَسٌ مَعُوجٌ,<br>\
+and ↓ مِمعَجٌ, A horse that often affects various<br>\
+modes in running: that often presses against one of<br>\
+the branches of the bit, and then against the other,<br>\
+now on the right and now on the left; [inclining<br>\
+in his run now to the right and now to the left, by<br>\
+reason of his sprightliness]. (TA.) [In like<br>\
+manner,] ↓ حِمَارٌ مَعَّاجٌ An ass that inclines in his<br>\
+run to the right and left by reason of his sprightliness. (TA.)<br>\
+مَعَّاجٌ and مِمْعَجٌ: see مَعُوجٌ.<br>\
+' } );

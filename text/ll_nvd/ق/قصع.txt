@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'قصع1<br>\
+قَصَعَ<br>\
+: see an ex. voce صَادَّةٌ.<br>\
+قَصْعَةٌ<br>\
+A bowl not so large as a<br>\
+جَفْنَة, but next<br>\
+to it in size, that satisfies ten: (S, voce صَحْفَة:)<br>\
+it is a wooden bowl. ―<br>\
+-b2-  قَصْعَةُ المَسَاكِينِ: see<br>\
+الفَكَّةُ.<br>\
+أَخَذْتُهُ مُقَاصَعَةً<br>\
+: see مُعَاقَصَة.<br>\
+' } );

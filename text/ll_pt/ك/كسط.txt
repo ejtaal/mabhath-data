@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>كسط</em>            1                  كسط<br>\
+<b>كُسْطٌ</b>               1     <br>\
+                     كُسْطٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  قُسْطٌ (K) The <i>wood with which one fumigates;</i> being a dial. var. of the latter. (TA.)   </entryFree> <br>\
+            <div2 n=&quot;ksE ksf ksl ksm ksw&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كسع كسف كسل كسم كسو<br>\
+               </head> See Supplement. كش    <br>\
+               <entryFree>See كت and Supplement.   </entryFree> <br>\
+' } );

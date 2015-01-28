@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نادل</em>            1                  نادل<br>\
+<b>نِيْدُِلٌ</b>               1     <br>\
+                     نِيْدُِلٌ<br>\
+                     ذ<br>\
+                  <i>Calamity; incubus; nightmare:</i> see ضِيْبُِلٌ.   </entryFree> <br>\
+' } );

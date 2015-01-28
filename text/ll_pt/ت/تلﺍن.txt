@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;تلان&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  تلان<br>\
+&lt;entryFree id=&quot;n4019&quot; key=&quot;تَلَانَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَلَانَ<br>\
+                     الان<br>\
+                     تل<br>\
+                     تلان<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اْلْا=نَ [&lt;i&gt;At the present time; now&lt;/i&gt;]: (As, K:) the ت is added, as in تَحِينَ. (A&#39;Obeyd &amp;amp;c.) See art. اين.   &lt;/entryFree&gt; <br>\
+' } );

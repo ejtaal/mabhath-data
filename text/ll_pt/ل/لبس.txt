@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لبس</em>            1                  لبس<br>\
+<b>مُلَبَّسٌ</b>               1     <br>\
+                     مُلَبَّسٌ<br>\
+                     ذ<br>\
+                   pl. مُلَبَّسَات <br>\
+                  <i>Sugared almonds, &amp;amp;c.</i>   <br>\
+' } );

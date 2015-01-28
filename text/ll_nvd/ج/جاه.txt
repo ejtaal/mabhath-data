@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'جاهجَاهٌ: see art. جوه.<br>\
+' } );

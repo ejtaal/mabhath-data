@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;ص&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>S</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;ص&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>ص</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     ص<br>\
+                     ذ<br>\
+                  <i>The fourteenth letter of the alphabet;</i> called صَادٌ. It is one of the letters termed مَهْمُوسَة [or nonvocal, i. e. pronounced with the breath only, without the voice]; and of the letters termed اَسَلِيَّة, as also ز and س, because proceeding from the tip of the tongue; (TA;) and is one of the letters termed مُسْتَعْلِيَة, which are obstacles to اـِمَالَة: (M in art. صود:) it is not conjoined with س, nor with ز, [nor, as some say, with ج, (see اـِجَّاصٌ,)] in any Arabic word. (TA. [See also art. صود.]) It is a radical, and a substitute; not an augmentative. (M in art. صود.) It is sometimes substituted for س; and, as MF observes, what Ibn-Umm-Kásim says appears to mean that this substitution is allowable unrestrictedly; but Ibn-Málik, in the Tes-heel, makes it subject to conditions, saying that it is allowable accord. to a certain dial. when the س is followed by غ or خ or ق or ط, even when separated therefrom by a letter or by two letters: MF says that the dial. above mentioned is that of Benu-l-&#39;Ambar, accord. to Sb and others; who give as exs. صَغِبَ for سَغِبَ, and صَخِرَ for سَخِرَ, and صَقَبٌ for سَقَبٌ, and صَطَعَ for سَطَعَ. (TA.)       -A2-  [As a numeral, ص denotes <i>Ninety.</i>]   </entryFree> <br>\
+' } );

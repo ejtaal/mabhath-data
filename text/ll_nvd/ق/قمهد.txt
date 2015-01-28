@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قمهدQ. 4<br>\
+إِقْمَهَدَّ He (a man, L, and a camel, S,<br>\
+L,) raised his head. (S, L, K.) Mentioned by<br>\
+J in art. قمد, q. v.<br>\
+' } );

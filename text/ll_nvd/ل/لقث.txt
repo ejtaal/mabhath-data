@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'لقث1<br>\
+لَقَثَ, [aor.<br>\
+لَقُثَ,] inf. n. لَقْثٌ; and ↓ لقّث, inf. n.<br>\
+تَلْقِيثٌ; He mixed [a thing]. (K.) [The<br>\
+former verb is as above accord. to the TK: but<br>\
+it seems to be implied in the K that it is لَقِثَ,<br>\
+aor. لَقِثَ, as well in the above sense as in that here<br>\
+following.] ―<br>\
+-b2-  لَقِثَ, aor.<br>\
+لَقِثَ, inf. n. لَقْثٌ, He took<br>\
+[a thing] quickly, and altogether. (K.) But<br>\
+this is not of established authority. (TA.)<br>\
+2<br>\
+لَقَّثَ see 1.<br>\
+' } );

@@ -1,0 +1,26 @@
+load_data( { book: 'll_nvd', text: 'فتش1<br>\
+فَتَشَ الشَّىْءَ, (S, O, Msb,) aor.<br>\
+فَتِشَ, (Msb,)<br>\
+inf. n. فَتْشٌ; (S, O, Msb;) and ↓ فتّشهُ, (S, O,<br>\
+Msb,) inf. n. تَفْتِيشٌ; (S, O;) both signify the<br>\
+same; (S, O, Msb;) He examined, looked into,<br>\
+scrutinized, or investigated, the thing; but the<br>\
+latter verb is that which is commonly used.<br>\
+(Msb.) And فَتَشَ عَنْهُ, and ↓ فتّش, He inquired<br>\
+respecting it, and searched to the utmost after it.<br>\
+(Msb.) فَتْشٌ and ↓ تَفْتِيشٌ signify The seeking with<br>\
+inquiry or examination or scrutiny or investigation. (Lth, IF, A, O, K.) You say, وَلَا ↓ فَتِّشْ<br>\
+تُفَنِّشْ Seek thou with inquiry &amp;c., and be not thou<br>\
+lax, or remiss. (A, TA.)<br>\
+2<br>\
+فَتَّشَ see above, in four places.<br>\
+3<br>\
+فاتشهُ, inf. n. مُفَاتَشَةٌ, [He inquired of him,<br>\
+or examined him, diligently.] (Sh, TA in art. ثور.)<br>\
+[<br>\
+فَتَّاشٌ One who examines things, looks into them,<br>\
+scrutinizes them, or investigates them, much, or<br>\
+diligently; who inquires much, or diligently, and<br>\
+searches to the utmost; who seeks much, or diligently, with inquiry, examination, scrutiny, or<br>\
+investigation.]<br>\
+' } );

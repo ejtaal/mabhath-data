@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'وخش1<br>\
+وَخُشَ, aor.<br>\
+وَخُشَ, inf. n. وَخَاشَةٌ and وُخُوشَةٌ (S,<br>\
+K) and وُخُوشٌ, (TA,) It (a thing, S, TA,) became<br>\
+bad, vile, or base. (S, K, TA.)<br>\
+وَخْشٌ Bad, vile, or base; applied to anything:<br>\
+(K:) low, ignoble, vile, base, or mean; the refuse,<br>\
+or lowest or basest or meanest sort, of mankind;<br>\
+(Lth, Az, S, Msb, K;) the abject, contemptible,<br>\
+or despicable, thereof; (Lth, Az, Msb;) used<br>\
+as a pl., (S, Msb, K,) and dual, (Msb,) and sing.,<br>\
+and masc. and fem., without variation: (Msb,<br>\
+K:) but sometimes it is made fem. by the addition of ة: (IAar, ISd:) and has the dual form:<br>\
+(S, K:) and has for its pl. أَوْخَاشٌ (S, K) and<br>\
+وِخَاشٌ; (K;) or the latter is pl. of وَخْشَةٌ. (TA.) You<br>\
+say, رَجُلٌ وَخْشٌ and إِمْرَأَةٌ وَخْشٌ and قَوْمٌ وَخْشٌ<br>\
+[A man, and a woman, and a company of men, low,<br>\
+ignoble, &amp;c.]. (TA.) And ذٰلِكَ رَجُلٌ مِنْ وَخْشِ<br>\
+النَّاسِ That is a man of the low, ignoble, vile,<br>\
+base, or mean, of mankind. (S.) And جَآءَنِى<br>\
+أَوْخَاشٌ مِنَ النَّاسِ Some of the refuse, or lowest<br>\
+or basest or meanest sort, of mankind came to<br>\
+me. (S.) And ↓ وَخْشَنٌّ is the same as وَخْشٌ:<br>\
+(TA:) the rájiz (Dahlab, TA) says,<br>\
+جَارِيَةٌ لَيْسَتْ مِنَ الوَخْشَنِّ<br>\
+[A girl who is not of the low, or ignoble, &amp;c.];<br>\
+meaning الوَخْشِ; adding a double ن. (S, TA.)<br>\
+وَخْشَنٌّ: see وَخْشٌ.<br>\
+' } );

@@ -1,0 +1,62 @@
+load_data( { book: 'll_pt', text: '<em>خرفج</em>            1                  خرفج<br>\
+<b>خَرْفَجَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     خَرْفَجَهُ<br>\
+                     خرفجه<br>\
+                     خرفجة<br>\
+                  , (L, K,) inf. n. خَرْفَجَةٌ, (TA,) <i>He took it plentifully,</i> or <i>largely.</i> (L, K.) ―         -b2-  <i>He made it to be of the best kind;</i> namely, food, or meat and drink. (Er-Riyáshee.)    </entryFree> <br>\
+<b>خَرْفَجٌ</b>               1     <br>\
+                     خَرْفَجٌ<br>\
+                     خرفج<br>\
+                  : see مُخَرْفَجٌ: ―         -b2-  and خِرْفِيجٌ.    </entryFree> <br>\
+<b>خُرْفج</b>               1     <br>\
+                     خُرْفج<br>\
+                     خرفج<br>\
+                   and ↓ <br>\
+      خُرَافج [app. خُرْفُجٌ and خُرَافِجٌ, but in the CK خُرْفَج and خُرَافَج,] and ↓ <br>\
+      خِرْفَاجٌ and ↓ <br>\
+      خِرْفِيجٌ <br>\
+                  <i>A plentiful and pleasant state of life.</i> (K.)    </entryFree> <br>\
+<b>خُرَفِجٌ</b>               1     <br>\
+                     خُرَفِجٌ<br>\
+                     خرفج<br>\
+                  <i>Fat,</i> as an epithet, (L, K,) applied to a lamb; as also ↓ <br>\
+      خُرَافِجٌ. (L.) ―         -b2-  See also خِرْفِيجٌ.    </entryFree> <br>\
+<b>خَرْفَجَةٌ</b>               1     <br>\
+                     خَرْفَجَةٌ<br>\
+                     خرفجه<br>\
+                     خرفجة<br>\
+                  <i>Goodness of food, aliment,</i> or <i>nutriment,</i> or <i>of meat and drink, with plenty.</i> (TA.) ―         -b2-  Also inf. n. of the verb above. (TA.)    </entryFree> <br>\
+<b>خِرْفَاجٌ</b>               1     <br>\
+                     خِرْفَاجٌ<br>\
+                     خرفاج<br>\
+                  : see خُرْفج: ―         -b2-  and see also خِرْفِيجٌ.    </entryFree> <br>\
+<b>خُرْفَنْجٌ</b>               1     <br>\
+                     خُرْفَنْجٌ<br>\
+                     خرفنج<br>\
+                  <i>A flourishing and fresh condition,</i> or <i>softness,</i> or <i>tenderness,</i> of a plant, or of herbage. (L.) ―         -b2-  See also what next follows.    </entryFree> <br>\
+<b>خِرْفِيجٌ</b>               1     <br>\
+                     خِرْفِيجٌ<br>\
+                     خرفيج<br>\
+                  : see خُرْفج. ―         -b2-  Also <i>Fresh,</i> or <i>juicy; flourishing and fresh,</i> or <i>soft,</i> or <i>tender;</i> (L, K;) applied to a plant, or to herbage; and so ↓ <br>\
+      خِرْفَاجٌ and ↓ <br>\
+      خُرَافِجٌ and ↓ <br>\
+      خُرَفِجٌ and ↓ <br>\
+      خُرْفَنْجٌ. (L.) [And ↓ <br>\
+      خَرْفَجٌ seems to have a similar meaning.] The rájiz [El-&#39;Ajjáj (so in a copy of the S)] says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        جَارِيَةٌ شَبَّتْ شَبَابًا خَرْفَجَا<br>\
+                  </quote> [app. meaning <i>A girl that had attained to flourishing,</i> or <i>soft,</i> or <i>tender, youthfulness.</i>] (S.)    </entryFree> <br>\
+<b>خُرَافِجٌ</b>               1     <br>\
+                     خُرَافِجٌ<br>\
+                     خرافج<br>\
+                  : see خُرْفج: ―         -b2-  and خُرَفِجٌ: ―         -b3-  and خِرْفِيجٌ: ―         -b4-  and what here follows.    </entryFree> <br>\
+<b>مُخَرْفَجٌ</b>               1     <br>\
+                     مُخَرْفَجٌ<br>\
+                     مخرفج<br>\
+                  <i>Ample:</i> (K:) applied to anything. (TA.) It is said in a trad., كَرِهَ السَّرَاوِيلَ المُخَرْفَجَةَ <br>\
+                  <i>He disliked,</i> or <i>disapproved of, ample trousers:</i> (A &#39;Obeyd:) or they say it means <i>trousers reaching down to the upper part of the foot.</i> (S.) And you say, عَيْشٌ مُخَرْفَجٌ <br>\
+                  <i>A plentiful life.</i> (S.) ―         -b2-  Also The <i>best</i> of food, or of meat and drink; and so ↓ <br>\
+      خَرْفَجٌ and ↓ <br>\
+      خُرَافِجٌ. (Er-Riyáshee.)   </entryFree> <br>\
+' } );

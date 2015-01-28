@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>مضح</em>            1                  مضح<br>\
+<b>مَضَحَ عِرْضَهُ</b>               1     <br>\
+                     مَضَحَ عِرْضَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَضَحَ<br>\
+                  , (inf. n. مَضْحٌ; TA;) and ↓ <br>\
+      اَمْضَحَهُ, (inf. n. اـِمْضَاحٌ; TA;) <i>He disgraced,</i> or <i>dishonoured, him; blasted his reputation;</i> (El-Umawee, S, K;) <i>imputed to him,</i> or <i>accused him of, a vice,</i> or <i>fault,</i> or <i>the like.</i> (TA.)    </entryFree> <br>\
+                     اَمْضَحَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

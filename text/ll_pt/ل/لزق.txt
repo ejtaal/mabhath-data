@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لزق</em>            1                  لزق<br>\
+<b>لِزْقَهُ</b>               1     <br>\
+                     لِزْقَهُ<br>\
+                     ذ<br>\
+                   and بِلُزِقِهِ <br>\
+                  <i>Close by his,</i> or <i>its, side.</i>   <br>\
+' } );

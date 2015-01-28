@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'هجع5<br>\
+تَهَجَّعَ<br>\
+He slept. (1001 Nights, ii. 321.)<br>\
+هَجْعَةٌ<br>\
+(assumed tropical:)  The setting of a star. (Sgh in TA,<br>\
+art. شرط.) See شَرَطٌ. ―<br>\
+-b2-  A light sleep in the first<br>\
+part of the night. (S.)<br>\
+' } );

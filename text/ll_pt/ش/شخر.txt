@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>شخر</em>            1                  شخر<br>\
+<b>شَخَرَ</b>               1     <br>\
+                     شَخَرَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     شَخِرَ<br>\
+                  , inf. n. شَخِيرٌ (S, K) and شَخْرٌ, (K,) <i>He raised his voice, with snorting;</i> said of an ass: (S:) <i>he uttered a sound from the fauces:</i> or <i>from the nose:</i> (K:) or <i>from the mouth, without the nose:</i> (TA:) <i>he</i> (a horse) <i>neighed:</i> (K:) or <i>uttered a sound after neighing:</i> (TA:) or <i>uttered a sound from his mouth,</i> (K, TA,) <i>without the nose:</i> (TA:) As says that among the sounds made by horses are those termed شَخِيرٌ and نَخِيرٌ and كَرِيرٌ; the first of which is from the mouth; the second, from the nostrils; and the third, from the chest: some say that شَخَرَ is like نَخَرَ [<i>he snorted</i>]. (TA.)    </entryFree> <br>\
+<b>شَخْرٌ</b>               1     <br>\
+                     شَخْرٌ<br>\
+                     ذ<br>\
+                   The <i>first period</i> or <i>stage</i> of youth; (K, TA;) and the <i>sharpness</i> thereof; like شَرْخٌ. (TA.)  ―         -b2-  The <i>part,</i> of a رَحْل [or camel&#39;s saddle], <i>that is between the</i> <br>\
+                  قَادِمَة <br>\
+                  <i>and the</i> <br>\
+                  ا=خِرَة, (O, K, TA,) which are the كَرَّانِ: (TA:) [said to be] also called the شَرْخ, [which is an evident mistake, perhaps originating from its having been said that شَخْرٌ and شَرْخٌ are syn., meaning in another sense, mentioned above,] (O, TA,) and the شَجْر [q. v.]: (TA:) or the <i>space between the upper part of the two extremities</i> [<i>at the fore part and hind part</i>] of the [saddle called] قَتَب. (JK.) ―         -b3-  And The <i>chink</i> of the buttocks. (JK, O. [In the K, for وَشَخْرُ الاِسْتِ شَقُّهَا, the reading in the JK and O, is put وَشَخَرَ الاِسْتَ شَقَّهَا.])    </entryFree> <br>\
+<b>شِخِّيرٌ</b>               1     <br>\
+                     شِخِّيرٌ<br>\
+                     ذ<br>\
+                  <i>That utters much,</i> or <i>often, the sound</i> termed نَخِير: (K:) or, as in some copies of the K [and in the O], شَخِير: (TA:) [see نَخَرَ and شَخَرَ:] applied to an ass in this sense, (O,) or as signifying <i>vociferous.</i> (TA.)   </entryFree> <br>\
+' } );

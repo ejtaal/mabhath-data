@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>انم</em>            1                  انم<br>\
+<b>الاَنَامُ</b>               1     <br>\
+                     الاَنَامُ<br>\
+                     ذ<br>\
+                   (T, M, Msb, K) and ↓ <br>\
+      الا=نَامُ (K) and ↓ <br>\
+      الاَنِيمُ, (M, K,) the last allowable in poetry, (M,) <i>i. q.</i> <br>\
+                  الخَلْقُ; (M, K, and Bd and Jel in lv. 9;) i. e. [<i>Mankind;</i> for such is the general meaning of الخَلْقُ, or] <i>mankind and the jinn</i> (or <i>genii</i>) <i>and others:</i> (Jel ubi suprà:) or <i>the jinn and mankind:</i> (T, Msb, K:) or <i>what are on the face of the earth of all that are termed</i> <br>\
+                  الخَلْق [or <i>created beings</i>]: (Lth, T, Msb:) or <i>all that is on the face of the earth:</i> (K:) or <i>everything having a</i> <br>\
+                  رُوح [i. e. <i>soul,</i> or <i>spirit</i>]: (Bd ubi suprà:) or <i>every one who is subject to sleep.</i> (TA [as though it were derived from النَّوْمُ.]) الانام is not mentioned by J, though occurring in the Kur-án. (TA.)    </entryFree> <br>\
+<b>الاَنِيمُ</b>               1     <br>\
+                     الاَنِيمُ<br>\
+                     ذ<br>\
+                  : see above.    </entryFree> <br>\
+<b>الا=نَامُ</b>               1     <br>\
+                     الا=نَامُ<br>\
+                     الا=نام<br>\
+                  : see above.   </entryFree> <br>\
+' } );

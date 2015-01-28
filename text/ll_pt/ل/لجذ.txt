@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>لجذ</em>            1                  لجذ<br>\
+<b>لَجَذَ</b>               1     <br>\
+                     لَجَذَ<br>\
+                     ذ<br>\
+                  , (L, K,) aor.      <br>\
+                     لَجُذَ<br>\
+                  , (K,) inf. n. لَجْذٌ; (L, K;) and لَجِذَ, aor.      <br>\
+                     لَجَذَ<br>\
+                  ; (K;) <i>He ate</i> (L, K) food. (L.) ―         -b2-  <i>He</i> (a beast) <i>began to pasture.</i> (L, K.) ―         -b3-  <i>He</i> (a beast) <i>ate</i> herbage: (L:) you say, when beasts have eaten herbage, لُجِذَ الكَلَاُ: (S, L:) or <i>ate</i> it <i>with the extremity of his tongue,</i> (L, K,) it being such as did not allow him to take it with his teeth: (L:) accord. to As, لَجَذَهُ signifies <i>i. q.</i> <br>\
+                  لَسَّهُ [<i>he plucked it with the fore part of his mouth.</i>] (S, L.) ―         -b4-  <i>He licked:</i> in this sense, the inf. n. is لَجْذٌ and لَجَذٌ: (K:) you say, لَجِذَ الكَلْبُ الاـِنَا=ءَ, inf. n. لَجْذٌ and لَجَذٌ, <i>the dog licked the vessel</i> (AHát, S, K) <i>inside:</i> (L:) [J says,] I have transcribed it from the Kitáb el-Abwáb, without having heard it: (S:) and لَجِذَ الكَلْبُ <br>\
+                  <i>the dog put his tongue into a vessel and lapped;</i> as also لَجِدَ and لَجِنَ. (AA, L.) ―         -b5-  <i>He took little.</i> (L, K.) ―         -b6-  <i>He asked often after having been given once:</i> (K:) لَجَذَنِى, aor.      <br>\
+                     لَجُذَ<br>\
+                  , inf. n. لَجْذٌ, signifies <i>he asked me, and did so much, after I had given him:</i> (S:) or <i>he asked me after he had asked me and I had given him:</i> (AZ, L:) or <i>he asked me, and did so much, after he had asked me and I had given him.</i> (As, L.) ―         -b7-  <i>He instigated; incited; excited.</i> (K.)    </entryFree> <br>\
+<b>لِجَاذٌ</b>               1     <br>\
+                     لِجَاذٌ<br>\
+                     ذ<br>\
+                  <i>Glue;</i> syn. غِرَا=ءٌ [for which Freytag seems to have read اـِغْرَا=ءٌ]. (K.)    </entryFree> <br>\
+<b>دَابَّةٌ مِلْجَاذٌ</b>               1     <br>\
+                     دَابَّةٌ مِلْجَاذٌ<br>\
+                     ذ<br>\
+                  <i>A beast of carriage that takes the leguminous herbage with the fore part of its mouth,</i> (K,) <i>and the extremities of its teeth.</i> (TA.)    </entryFree> <br>\
+<b>نبْتٌ مَجْلُوذٌ</b>               1     <br>\
+                     نبْتٌ مَجْلُوذٌ<br>\
+                     ذ<br>\
+                  <i>A plant which the teeth cannot crop, by reason of its shortness, and which the camels therefore pluck with the fore part of the mouth.</i> (L.)   </entryFree> <br>\
+            <div2 n=&quot;ljf ljm ljn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لجف لجم لجن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

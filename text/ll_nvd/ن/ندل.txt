@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'ندل5<br>\
+تَنَدَّلَ<br>\
+He bound a<br>\
+دَسْتَار [or مِنْدِيل i. e.<br>\
+napkin or the like] upon his head. (KL.) And<br>\
+بِمِنْدِيلٍ ↓ تَمَنْدَلَ<br>\
+He bound a<br>\
+' } );

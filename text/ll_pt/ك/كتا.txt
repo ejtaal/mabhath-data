@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>كتا</em>            1                  كتا<br>\
+<b>كَنْتَاَتِ اللِّحْيَةُ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     كَنْتَاَتِ اللِّحْيَةُ<br>\
+                     ذ<br>\
+                  : see كَثَاَت.    </entryFree> <br>\
+<b>كَتْاَةٌ</b>               1     <br>\
+                     كَتْاَةٌ<br>\
+                     ذ<br>\
+                  <i>A plant resembling the</i> <br>\
+                  جِرْجِيرٌ, [or <i>rocket</i>], (K,) <i>which is cooked and eaten.</i> (TA.) But AM says it is كَثْاَةٌ, with ث; and it is also called نَهْقٌ, accord. to Aboo-Málik and others. (TA.)    </entryFree> <br>\
+<b>كِنْتَاْوُ</b>               1     <br>\
+                     كِنْتَاْوُ<br>\
+                     ذ<br>\
+                   (but accord. to some, this is from كنت) A <i>strong</i> rope. (K.) [But see art. كدا.] ―         -b2-  Also, A man <i>having a large and thick,</i> or <i>a handsome, beard.</i> (K.) Said to be a dial. form of كِنْثَاْوٌ. (TA.)   </entryFree> <br>\
+' } );

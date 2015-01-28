@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>قرضا</em>            1                  قرضا<br>\
+<b>قِرْضِيٌ</b>               1     <br>\
+                     قِرْضِيٌ<br>\
+                     ذ<br>\
+                  <i>One of the strange species of trees of the desert;</i> (AA, O, K, TA;) <i>a certain plant that attaches itself to trees, and wraps itself about them;</i> (TA;) <i>a species of plant</i> (AHn, O, TA) <i>the flower of which is yellower than the</i> <br>\
+                  وَرْس, (AHn, O, K, TA,) <i>and which grows at the base,</i> or <i>on the stem, of the</i> <br>\
+                  سَلَم <br>\
+                  <i>and</i> <br>\
+                  سَمُر <br>\
+                  <i>and</i> <br>\
+                  عُرْفُط (O, TA) <i>and the like:</i> (O:) n. un. with ة. (O, K, TA.)   </entryFree> <br>\
+' } );

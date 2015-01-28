@@ -1,0 +1,41 @@
+load_data( { book: 'll_nvd', text: 'لأم1<br>\
+لَؤُمَ He was base, base-born, low, ignoble, ungenerous, mean, sordid; (S:) contr. of كَرُمَ. (K.)<br>\
+See لَئِيمٌ. ―<br>\
+-b2-  لَأَمَ: see also ظَاهَرَ.<br>\
+3<br>\
+لَآءَمْتُ بَيْنَ القَوْمِ, inf. n. مُلَآءَمَةٌ, I reconciled the people, (S, Msb,) and brought them<br>\
+together. (S.) ―<br>\
+-b2-  لَآءَمَهُ He was suited to him<br>\
+as a companion: see 5 in art. زوى. ―<br>\
+-b3-  لَآءَمَهُ<br>\
+It (food, T, and an affair, M) suited him. (T,<br>\
+M.) ―<br>\
+-b4-  And i. q. لَا زَمَهُ. (T.) ―<br>\
+-b5-  And It coalesced,<br>\
+or united, with it.<br>\
+8<br>\
+اِلْتَأَمَ It (a wound, and a crack) became<br>\
+coalesced, consolidated, closed, or closed up: (S:)<br>\
+it (a hole, or rent,) became repaired. (Msb.) ―<br>\
+-b2-<br>\
+اِلْتَأَمَا They (two things) agreed together, or became consistent. (S, Msb.) ―<br>\
+-b3-  اِلْتَأَمَ It drew,<br>\
+and stuck, together; coalesced; or consolidated.<br>\
+(Mgh.)<br>\
+لُؤْمَةٌ: see لُؤَمَةٌ.<br>\
+لُؤَمَةٌ, (S, K,) or ↓ لُؤْمَةٌ, (M, IB,) The whole<br>\
+apparatus, or gear, of the plough: (AHn, S,<br>\
+M, K:) or its iron [or share] and its wooden<br>\
+parts: (M:) or the سِنَّة [or ploughshare] with<br>\
+which the earth is ploughed up, and which, when<br>\
+upon the plough, is termed عِيَانٌ, pl. عين: (IAar,<br>\
+TA:) the سِكَّة. (IB, TA.) See عِيَانٌ.<br>\
+رَجُلٌ جَمِيعُ اللَّأْمَةِ: see جَمِيعٌ.<br>\
+لَئِيمٌ Mean; ungenerous; sordid; ignoble; base;<br>\
+base-born; contr. of كَرِيمٌ. (K, &amp;c.) See لَؤُمَ.<br>\
+أَلَائِمُ الأُمُورِ: see مَدَاقّ.<br>\
+أَلْأَمُ Baser, and basest; &amp;c.: see an ex. voce<br>\
+زَكْمَةٌ.<br>\
+المُلَآءَمَةُ i. q. الاِجْتِمَاعُ: see اِسْتَلَمَ.<br>\
+رِيشٌ مُتَلَائِمٌ i. q.. لُؤَامٌ. See لَفَتَ.<br>\
+' } );

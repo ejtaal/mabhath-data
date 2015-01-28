@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'محل4<br>\
+أَمْحَلَتِ النُّجُومُ<br>\
+The stars set aurorally and<br>\
+brought no rain. (S, K * in art. خوى.)<br>\
+5<br>\
+تَمَحَّلْتُ مَالًا بِغَيْرِ ثَمَنٍ<br>\
+I laboured to acquire<br>\
+property without price: (Msb:) or, accord. to<br>\
+Az, تَمَحَّلَ مَالًا means he laboured, and exercised<br>\
+art or management, in seeking [to acquire] property. (TA.) See also تَعَلَّثَ.<br>\
+مَحْلٌ<br>\
+Drought, or suspension of rain, (S, K,<br>\
+Msb in art. جدب,) and dryness of the earth (S,<br>\
+Msb ubi suprà) depriving it of herbage; (S,<br>\
+TA;) and i. q.<br>\
+جَدْبٌ. (K.)<br>\
+مَحَالَةٌ<br>\
+: see art. حول; and see also فَوْهَآءُ voce<br>\
+أَفْوَهُ, and فَوْقَآءُ voce أَفْوَقُ, and قَبٌّ.<br>\
+لَبَنٌ مُمَحَّلٌ<br>\
+Sour milk upon which much fresh<br>\
+is milked: see قَارِصٌ.<br>\
+مُتَمَاحِلٌ<br>\
+: see رَدَاحٌ.<br>\
+' } );

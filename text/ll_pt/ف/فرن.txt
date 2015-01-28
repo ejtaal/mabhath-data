@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>فرن</em>            1                  فرن<br>\
+<b>فُرْنٌ</b>               1     <br>\
+                     فُرْنٌ<br>\
+                     ذ<br>\
+                   [app. from, or cognate with, the Latin  “ furnus ”] <i>An oven,</i> (IDrd, * S, * M, K,) syn. مَخْبَزٌ, (M, K,) [or <i>one</i>] <i>in which one bakes bread such as is termed</i> <br>\
+                  فُرْنِىّ; (S, K;) <i>differing from the</i> <br>\
+                  تَنُّور [q. v.]: (S:) a word of the dial. of Syria: (M:) thought by IDrd to be not Arabic [in origin]: (TA:) pl. اَفْرَانٌ. (M.)    </entryFree> <br>\
+<b>فُرْنِىٌّ</b>               1     <br>\
+                     فُرْنِىٌّ<br>\
+                     ذ<br>\
+                  <i>Thick,</i> (S, K,) <i>round,</i> or <i>circular,</i> (K,) <i>bread;</i> (S, K;) so called in relation to its place [in which it is baked, i. e. the فُرْن]: (S:) or (K) <i>a sort of bread having a raised and pointed,</i> or <i>hollowed, head, the lateral portions thereof being drawn together to,</i> or <i>towards, the middle,</i> (M, K,) <i>and being intermingled, one part thereof in another,</i> (M,) <i>roasted,</i> or <i>fried,</i> (K,) <i>then well moistened with milk and clarified butter and sugar:</i> (M, K:) n. un. ↓ <br>\
+      فُرْنِيَّةٌ: which signifies also <i>a round,</i> or <i>circular, great cake of bread:</i> (M:) [whence, app.,] فَاـِذَا هِىَ مِثْلُ الفَرْنِيَّةِ الحَمْرَا=ءِ [<i>And lo, she,</i> or <i>it, was like the red</i> <br>\
+                  فرنيّة; but to what this refers I know not]: a saying of some of the Arabs. (S, TA.) ―         -b2-  And (as being likened thereto, TA) (tropical:)  <i>A thick, bulky, man:</i> (M, K, TA:) and (K) <i>a bulky dog.</i> (IB, K, TA.) ―         -b3-  Also <i>A baker;</i> as a rel. n. of فُرْنٌ: (Msb:) and so ↓ <br>\
+      فَرَّانٌ, in the dial. of the vulgar. (TA.)    </entryFree> <br>\
+<b>فُرْنِيَّةٌ</b>               1     <br>\
+                     فُرْنِيَّةٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>فَرَّانٌ</b>               1     <br>\
+                     فَرَّانٌ<br>\
+                     ذ<br>\
+                  : see فُرْنِىٌّ, last sentence. [It is applied in the present day to <i>A baker of bread</i> and <i>of meat</i> &amp;amp;c.]    </entryFree> <br>\
+<b>؟؟</b>               1     <br>\
+                     ؟؟<br>\
+                     ذ<br>\
+                  <i>A female baker</i> (T, K) <i>of the bread termed</i> <br>\
+                  فُرْنِىّ. (T.)   </entryFree> <br>\
+' } );

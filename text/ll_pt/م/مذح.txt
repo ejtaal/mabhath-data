@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>مذح</em>            1                  مذح<br>\
+<b>مَذِحَ</b>               1     <br>\
+                     مَذِحَ<br>\
+                     ذ<br>\
+                  , (S,) aor.      <br>\
+                     مَذَحَ<br>\
+                  , (L,) inf. n. مَذَحٌ, (S, K,) <i>His</i> (a man&#39;s, S) <i>thighs rubbed each other:</i> (S, L, K:) <i>when he walked,</i> (S,) <i>by reason of his fatness:</i> (Námoos:) or <i>his thighs rubbed each other, and twisted, so that they became excoriated;</i> as also فَخِذَاهُ ↓ <br>\
+      مَذَّحَتْ: (L:) or <i>the parts between the inner sides of the roots of his thighs</i> (مَا بَيْنَ الرُّفْغَيْنِ) <i>and his buttocks became inflamed:</i> (K, TA:) [for اختراق, in the CK, I read احتراق, as in other copies of the K, and in the TA: see also وَذِحَ.]. ―         -b2-  مَذِحَ is said to signify <i>It</i> (a thing) <i>rubbed against another thing, and became much cracked,</i> or <i>chapped, thereby.</i> ISd thinks that it relates especially to an animal. (L.) ―         -b3-  Also, مَذِحَ <br>\
+                  <i>He had his testicle much chapped by its rubbing against something.</i> (K.) ―         -b4-  مَذِحَتِ الضَّاْنُ, inf. n. مَذَحٌ, <i>The sheep sweated in the inner sides of the roots of the thighs,</i> or <i>the parts called</i> <br>\
+                  اَرْفَاغ: (L:) or, <i>in their thighs.</i> (TA.)    </entryFree> <br>\
+                     مَذَّحَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>تَمَذَّحَتْ خَاصِرَتَاهُ</b>               1     <br>\
+                     تَمَذَّحَتْ خَاصِرَتَاهُ<br>\
+                     ذ<br>\
+                  <i>His two hypochrondres,</i> or <i>flanks, became inflated,</i> or <i>swollen, by reason of his having satiated himself with drink.</i> (K.) [See also تَمَدَّحَ and تَنَدَّحَ.]    </entryFree> <br>\
+<b>اَمْذَحُ</b>               1     <br>\
+                     اَمْذَحُ<br>\
+                     ذ<br>\
+                   A man <i>whose thighs rub each other when he walks.</i> (S.) [See 1.]   </entryFree> <br>\
+' } );

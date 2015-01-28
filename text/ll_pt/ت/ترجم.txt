@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>ترجم</em>            1                  ترجم<br>\
+<b>تَرْجَمَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     تَرْجَمَهُ<br>\
+                     رجم<br>\
+                     ترجم<br>\
+                     ترجمه<br>\
+                     ترجمة<br>\
+                  , (S in art. رجم, and Msb and K in the present art.,) and تَرْجَمَ عَنْهُ, (K,) inf. n. تَرْجَمَةٌ, (KL,) <i>He interpreted it,</i> (S, Msb, KL, K,) or <i>explained it in another language;</i> (S, Msb, KL;) namely, the speech, or language, (S, Msb, K,) of another person: (Msb:) or, as some say, <i>translated it from one language into another:</i> (TA:) and <i>he explained it;</i> namely, his own speech. (Msb.) [This verb is essentially the same in Arabic, Chaldee, and Ethiopic.] ―         -b2-  تَرْجَمَهُ, inf. n. as above, also signifies <i>He wrote his life; wrote a biography,</i> or <i>biographical notice, of him.</i> (TA, passim; and other works of post-classical times.) ―         -b3-  Accord. to the K, the ت in this verb is a radical: but see تَرْجُمَانٌ, below. (TA.)    </entryFree> <br>\
+<b>تَرْجَمَةٌ</b>               1     <br>\
+                     تَرْجَمَةٌ<br>\
+                     رجم<br>\
+                     ترجم<br>\
+                     ترجمه<br>\
+                     ترجمة<br>\
+                   [inf. n. of the verb above: used as a simple subst., <i>An interpretation: a translation:</i> pl. تَرَاجِمُ. ―         -b2-  Also] <i>A life,</i> or <i>biography,</i> or <i>biographical notice,</i> of any person: pl. as above. (TA, passim; and other works of post-classical times.) ―         -b3-  And <i>An article, a head, chapter, section,</i> or <i>paragraph,</i> of a book. (TA, passim; and other works of post-classical times.)    </entryFree> <br>\
+<b>تَرْجُمَانٌ</b>               1     <br>\
+                     تَرْجُمَانٌ<br>\
+                     رجم<br>\
+                     ترجمان<br>\
+                   and تُرْجُمَانٌ and تَرْجَمَانٌ, (S in art. رجم, and Msb and K in the present art.,) of which three dial. vars. the first is the best, (Msb,) and is that which commonly obtains, (TA,) <i>An interpreter;</i> (S, Msb, K;) <i>an explainer of speech in another language:</i> (S, Msb:) [<i>a translator:</i> (see the verb, above:)] pl. تَرَاجِمُ and تَرَاجِمَةٌ; which latter favours the opinion of those who hold the word to be of foreign origin. (S, Msb.) The ت and م are [said to be] radicals; but J makes the ت to be augmentative, and ترجمان is mentioned in the T [as well as in the S] in art. رجم, though the author of the T has mentioned the verb among quadriliteral-radical words; and there is a reason [for deriving it from رَجَمَ], for one says لِسَانٌ يَرْجُمُ meaning “ a tongue that is chaste, or perspicuous, and copious, in speech: ” most, however, hold the ت to be a radical. (Msb.) It is said in the K that the verb shows the ت to be radical; whereas J and AHei and IKt hold it to be augmentative; but there is a difference of opinion whether it be from الرَّجْمُ <br>\
+                  بِالحِجَارَةِ [the throwing stones], or from الرَّجْمُ <br>\
+                  بِالغَيْبِ [the conjecturing, or speaking conjecturally]; and also whether it be Arabic, or arabicized from درغمان [a word which I do not know in Persian nor in any other language]: (MF, TA:) if arabicized, the present is its proper place. (TA.)    </entryFree> <br>\
+<b>مُتَرْجَمٌ</b>               1     <br>\
+                     مُتَرْجَمٌ<br>\
+                     مترجم<br>\
+                   [<i>Interpreted:</i> or <i>translated.</i> ―         -b2-  And also The <i>subject of a biography,</i> or <i>biographical notice.</i> ―         -b3-  And] (assumed tropical:)  <i>Confused,</i> or <i>dubious.</i> (Har p. 537.)   </entryFree> <br>\
+' } );

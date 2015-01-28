@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'وله1<br>\
+وَلِهَ<br>\
+His reason departed, or he became<br>\
+bereft of his reason or intellect, in consequence of<br>\
+grief; (K;) or of joy, or grief; (Msb;) or<br>\
+of intense grief; (S, Mgh;) or of the loss of<br>\
+the beloved: (TA:) or he grieved, or sorrowed:<br>\
+(K:) and he became confounded, or perplexed,<br>\
+and unable to see his right course, (S, K, TA,)<br>\
+by reason of intense grief: (S, TA:) and he<br>\
+feared. (K.) See also أَلِهَ, in two places. ―<br>\
+-b2-<br>\
+وَلِهَ إِلَى أُمِّه<br>\
+He (an infant) yearned for his<br>\
+mother. (TA.) And وَلِهَ إِلَيْهِ is app. syn. with<br>\
+أَلِهَ إِلَيْهِ, q. v.<br>\
+وَلَهٌ<br>\
+Distraction in love: see حُبٌّ.<br>\
+وَالِهٌ<br>\
+[Bereft of the beloved:] i. q.<br>\
+ثَاكِلٌ. (TA,<br>\
+art. طرب.) And Distracted.<br>\
+' } );

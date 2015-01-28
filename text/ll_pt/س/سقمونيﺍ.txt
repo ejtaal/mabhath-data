@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;سقمونيا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  سقمونيا<br>\
+&lt;entryFree id=&quot;n20133&quot; key=&quot;سَقْمُونِيَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَقْمُونِيَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (so in copies of the K,) or سَقَمُونِيَا=ءُ, (Mgh, Msb,) said to be an ancient Greek word, [&lt;G&gt;*skammwhi/a&lt;/G&gt;] or, as some say, (Msb,) Syriac, (Mgh, Msb,) [&lt;i&gt;Seammony;&lt;/i&gt;] &lt;i&gt;a certain plant, from the hollows of which is extracted a mucilage, which is dried, and is called by the name of its plant: it is more repugnant to the stomach and the bowels than all the laxatives; but it is rendered good by aromatic substances, such as pepper and ginger and aniseed: the weight of six barleycorns thereof to twenty eases the yellow bile, and noxious viscosities, from the most remote parts of the body; and a portion thereof with a portion of&lt;/i&gt; <br>\
+                  تُرْبُد, or تِربَد, [so in different copies of the K, or تُرْبَذ, or تِرْبَذ, i. e. &lt;i&gt;turpeth,&lt;/i&gt;] &lt;i&gt;in fresh milk, taken fasting, will not leave a single worm in the belly: it is wonderful in that effect, and proved by experiment.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

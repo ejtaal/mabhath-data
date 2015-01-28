@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ككنج</em>            1                  ككنج<br>\
+<b>كَاكَنَجٌ</b>               1     <br>\
+                     كَاكَنَجٌ<br>\
+                     ذ<br>\
+                   or كَاكَنْجٌ [Pers. كَاكْنَجْ]: see عُبَبٌ.   </entryFree> <br>\
+' } );

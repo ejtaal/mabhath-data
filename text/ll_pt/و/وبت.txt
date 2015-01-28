@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وبت</em>            1                  وبت<br>\
+<b>وَبَتَ بِالمَكَانِ</b>               1     <br>\
+                     وَبَتَ بِالمَكَانِ<br>\
+                     ذ<br>\
+                  , aor. يَبِتُ, (inf. n. وَبْتٌ, L,) <i>He remained, stayed, abode,</i> or <i>dwelt, in the place.</i> (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'تقدتِقْدَةٌ (JK, S, L, K) and تَقْدَةٌ (Hr, L, K) and<br>\
+تَقِدَةٌ (JK, L) Coriander-seed; syn. كُزْبَرَةٌ.<br>\
+(IAar, JK, S, L, K.) ―<br>\
+-b2-  And Caraway-seed;<br>\
+syn. كَرَوْيَآء. (IAar, Th, L, K.)<br>\
+' } );

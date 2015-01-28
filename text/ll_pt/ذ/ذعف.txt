@@ -1,0 +1,46 @@
+load_data( { book: 'll_pt', text: '<em>ذعف</em>            1                  ذعف<br>\
+<b>ذَعَفَهُ</b>               1     <br>\
+                     ذَعَفَهُ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     ذَعَفَ<br>\
+                  , (K,) inf. n. ذَعْفٌ, (TK,) <i>He gave him to drink</i> <br>\
+                  ذُعَاف [i. e. <i>poison,</i> or <i>instantaneous poison</i>]. (S, K.) ―         -b2-  [And <i>He poisoned</i> food: (see مَذْعُوفٌ:) for] ذَعْفٌ also signifies the <i>infecting with poison.</i> (KL.)       -A2-  ذَعِفَ and ذَعَفَ, aor.      <br>\
+                     ذَعَفَ<br>\
+                  , (K,) inf. n. ذَعَفَانٌ, (K, * TK,) <i>He died:</i> (K:) [or <i>he died quickly:</i> like ذَاَفَ.]    </entryFree> <br>\
+<b>اذعفهُ</b>               1     <br>\
+                     اذعفهُ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, slew him,</i> or <i>killed him, quickly.</i> (K.)    </entryFree> <br>\
+<b>انذعف</b>               1     <br>\
+                     انذعف<br>\
+                     ذ<br>\
+                  <i>His breath became interrupted,</i> or <i>short,</i> (اِنْبَهَرَ,) <i>and his heart broke</i> <br>\
+                  اِنْقَطَعَ فُوَادُهُ [a phrase probably to be understood in a figurative sense; like انذاف]). (K.)    </entryFree> <br>\
+<b>ذَعْفٌ</b>               1     <br>\
+                     ذَعْفٌ<br>\
+                     ذ<br>\
+                  : see ذُعَافٌ. ―         -b2-  حَيَّةٌ ذَعْفُ اللُّعَابِ <br>\
+                  <i>A serpent that kills quickly.</i> (K.)    </entryFree> <br>\
+<b>ذَعَفَانٌ</b>               1     <br>\
+                     ذَعَفَانٌ<br>\
+                     ذ<br>\
+                  <i>Death.</i> (K.) [See 1, last sentence.]    </entryFree> <br>\
+<b>ذُعَافٌ</b>               1     <br>\
+                     ذُعَافٌ<br>\
+                     ذ<br>\
+                  <i>Poison:</i> (S, K:) or <i>instantaneous poison;</i> as also ↓ <br>\
+      ذَعْفٌ: (K:) or such poison is called سَمٌّ ذُعَافٌ: (Mgh:) pl. ذُعُفٌ. (K.) ―         -b2-  مَوْتٌ ذُعَافٌ <br>\
+                  <i>i. q.</i> <br>\
+                  ذُوَافٌ; (S, K;) i. e. <i>A quick death; that kills quickly;</i> (S;) and so ↓ <br>\
+      مَوْتٌ مُذْعِفٌ. (K.)    </entryFree> <br>\
+<b>مُذْعِفٌ</b>               1     <br>\
+                     مُذْعِفٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>طَعَام مَذْعُوفٌ</b>               1     <br>\
+                     طَعَام مَذْعُوفٌ<br>\
+                     ذ<br>\
+                   [<i>Poisoned food;</i> or] <i>food in which is</i> <br>\
+                  ذُعَاف. (S, K.) [This art. is wanting in the copies of the TA known to me. Compare with it art. زعف.]   </entryFree> <br>\
+' } );

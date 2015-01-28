@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'وثموَثِيمَةٌ<br>\
+Broken stones. (TA, art. جرم.) See<br>\
+جَرَامٌ.<br>\
+' } );

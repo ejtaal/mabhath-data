@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قصطس</em>            1                  قصطس<br>\
+<b>قُصْطَاسٌ</b>               1     <br>\
+                     قُصْطَاسٌ<br>\
+                     ذ<br>\
+                   and قِصْطَاسٌ dial. forms of قُسْطَاسٌ and قسْطَاسٌ. [q. v.] (K.)   </entryFree> <br>\
+            <div2 n=&quot;qSE qSf qSl qSm qSw&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قصع قصف قصل قصم قصو<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انب<br>\
+&lt;entryFree id=&quot;n1309&quot; key=&quot;انّبهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     انّبهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْنِيبٌ, &lt;i&gt;He blamed, reproved, reprehended, chid,&lt;/i&gt; or &lt;i&gt;reproached, him:&lt;/i&gt; (S, M, A, K:) or &lt;i&gt;he did so severely,&lt;/i&gt; or &lt;i&gt;angrily:&lt;/i&gt; (ISk, T, S, M, A, K:) or, &lt;i&gt;with the utmost severity&lt;/i&gt; or &lt;i&gt;harshness:&lt;/i&gt; (T, M, TA:) or &lt;i&gt;he repulsed him,&lt;/i&gt; meaning a person who asked something of him, &lt;i&gt;in the most abominable manner.&lt;/i&gt; (M, * K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1310&quot; key=&quot;اُنْبُوبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُنْبُوبٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;An internodal portion,&lt;/i&gt; or the &lt;i&gt;portion between any two joints,&lt;/i&gt; or &lt;i&gt;knots,&lt;/i&gt; of a cane, or reed, and of a spear-shaft: (T:) [and] &lt;i&gt;a spear,&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;112&quot; TEIform=&quot;pb&quot;/&gt; or &lt;i&gt;lance:&lt;/i&gt; pl. اَنَابِيبُ: mentioned in this art. [in the T, and] by Ibn-El-Mukarram [in the L]. (TA.) [See also art. نب.]   &lt;/entryFree&gt; <br>\
+' } );

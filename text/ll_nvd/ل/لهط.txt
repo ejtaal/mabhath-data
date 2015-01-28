@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'لهط1<br>\
+لُهِطَ بِهِ He, or it, was cast, or thrown. (TA<br>\
+in art. خشف.)<br>\
+' } );

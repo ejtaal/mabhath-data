@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>معت</em>            1                  معت<br>\
+<b>مَعَتَ</b>               1     <br>\
+                     مَعَتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَعَتَ<br>\
+                  , (inf. n. مَعْتٌ, TA,) <i>He rubbed</i> (K) a skin, or hide. (TA.)   </entryFree> <br>\
+' } );

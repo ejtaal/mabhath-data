@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>ضمخ</em>            1                  ضمخ<br>\
+                     ضَمڤخَ<br>\
+                   see the next paragraph.    </entryFree> <br>\
+<b>ضمّخهُ بِالطِّيبِ</b>               1     <br>\
+                     ضمّخهُ بِالطِّيبِ<br>\
+                     ذ<br>\
+                  , (S, A, Mgh, Msb,) inf. n. تَضْمِيخٌ; (S, A, K;) and ↓ <br>\
+      ضَمَخَهُ, (ISd, TA,) aor.      <br>\
+                     ضَمُخَ<br>\
+                  , (TK,) inf. n. ضَمْخٌ; (ISd, K;) <i>He daubed,</i> or <i>smeared,</i> (S, A, Mgh, Msb, K,) <i>him,</i> (S, A, Mgh, Msb,) or <i>his body,</i> (L, K,) <i>with perfume,</i> or <i>some odoriferous</i> or <i>fragrant substance,</i> (S, A, Mgh, L, Msb, K,) <i>copiously,</i> (L,) <i>so that it seemed to drip.</i> (L, K.) It is said in a trad., كَانَ يُضَمِّخُ رَاْسَهُ بِالطِّيبِ <br>\
+                  <i>He</i> [Mohammad] <i>used to daub,</i> or <i>smear, his head copiously with perfume.</i> (L.)    </entryFree> <br>\
+<b>تضمّخ بِالطِّيبِ</b>               1     <br>\
+                     تضمّخ بِالطِّيبِ<br>\
+                     ذ<br>\
+                  , (S, A, Mgh, Msb, K,) and ↓ <br>\
+      انضمخ, and ↓ <br>\
+      اِضْطَمَخَ, (K,) and ↓ <br>\
+      اِضَّمَخَ, (L,) <i>He daubed</i> or <i>smeared himself,</i> or <i>he became daubed</i> or <i>smeared,</i> (S, A, Mgh, Msb, K,) <i>copiously,</i> (L,) <i>with perfume,</i> (S, A, Mgh, Msb, K,) <i>so that it seemed to drip.</i> (L, K.)    </entryFree> <br>\
+                     اـِنْضَمَخَ<br>\
+                   see what next precedes.    </entryFree> <br>\
+<b>اِضْطَمَخَ</b>               1     <br>\
+                     اِضْطَمَخَ<br>\
+                     ذ<br>\
+                  , and its var. اِضَّمَخَ: see 5.    </entryFree> <br>\
+<b>ضِمْخَةٌ</b>               1     <br>\
+                     ضِمْخَةٌ<br>\
+                     ذ<br>\
+                   A <i>fat</i> woman or she-camel. (K.) ―         -b2-  And <i>Fresh ripe dates</i> (رُطَب [so in copies of the K, accord. to the TA رَطْب, app. a mistranscription,]) <i>from which something drips.</i>   <br>\
+' } );

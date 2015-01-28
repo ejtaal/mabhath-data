@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'عكبعُكُبٌ and عِكَابٌ and أَعْكُبٌ quasi-pl. ns. of<br>\
+عَنْكَبُوتٌ, which is mentioned under this head by<br>\
+J and IM and others. (TA.) See art. عنكب.<br>\
+' } );

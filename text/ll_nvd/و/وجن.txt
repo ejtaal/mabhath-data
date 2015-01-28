@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'وجنوَجْنَةٌ<br>\
+The ball, or elevated part, of the cheek.<br>\
+(S, Msb, K.)<br>\
+' } );

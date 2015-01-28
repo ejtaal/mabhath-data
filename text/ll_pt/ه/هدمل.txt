@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هدمل</em>            1                  هدمل<br>\
+<b>هِدَمْلَةٌ</b>               1     <br>\
+                     هِدَمْلَةٌ<br>\
+                     ذ<br>\
+                  <i>Food and drink:</i> see فِطْحَلٌ.   </entryFree> <br>\
+' } );

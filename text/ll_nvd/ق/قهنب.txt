@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'قهنبقَهْنَبَانٌ<br>\
+: see what follows.<br>\
+قَهَنَّبٌ<br>\
+Tall, and having a curving back, the<br>\
+upper part bending forward over the breast, or<br>\
+a bent and humped back, or a projecting breast<br>\
+and hollow back; accord. to the different explanations of أَجْنَأُ: or tall; (K;) i. e., in an absolute sense; (TA;) as also ↓ قَهْنَبَانٌ. (K.) But<br>\
+AHei and others assert that the ن is augmentative. (MF.)<br>\
+مُقَهْنِبٌ<br>\
+Always remaining at the water. (K.)<br>\
+قو: see قوى<br>\
+' } );

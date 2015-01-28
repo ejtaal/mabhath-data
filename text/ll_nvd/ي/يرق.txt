@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'يرقيَرَقَانٌ<br>\
+Saffron. (Sgh, in TA, art. شعر.) ―<br>\
+-b2-<br>\
+See أَرَقَانٌ.<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>سرم</em>            1                  سرم<br>\
+<b>سُرْمٌ</b>               1     <br>\
+                     سُرْمٌ<br>\
+                     ذ<br>\
+                   The <i>anus;</i> (IAar, T;) the <i>place of egress of the feces;</i> i. e. the <i>extremity of the rectum;</i> (S, K;) a post-classical word: (S:) or the <i>interior of the extremity of the rectum:</i> (Lth, TA:) or the <i>edge,</i> or <i>margin, of the rectum:</i> accord. to some, peculiarly in beasts of prey that have  claws: pl. اَسْرَامٌ. (M.) Hence the phrase رَجُلٌ <br>\
+                  وَاسِعُ السُّرْمِ ضَخْمُ البُلْعُومِ, occurring in a trad., meaning (assumed tropical:)  <i>A man strong,</i> or <i>vehement, and violent,</i> or <i>wrongful</i> or <i>unjust</i> or <i>tyrannical in conduct:</i> or <i>a man prodigal of wealth and of blood:</i> and therefore described as wide in the places of egress and ingress. (TA in art. بلعم and in the present art.)    </entryFree> <br>\
+<b>سَرَمٌ</b>               1     <br>\
+                     سَرَمٌ<br>\
+                     ذ<br>\
+                  <i>Pain of the anus.</i> (K, TA.)   </entryFree> <br>\
+' } );

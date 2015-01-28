@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'هىاِبْنُ هَىٍّ<br>\
+and ابن هَيَّانَ<br>\
+The low, ignoble,<br>\
+mean, contemptible, man. (T in art. بنى.)<br>\
+-------------------------------------------------<br>\
+' } );

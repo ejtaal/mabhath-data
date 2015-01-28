@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>كثعب</em>            1                  كثعب<br>\
+<b>كَثْعَبٌ</b>               1     <br>\
+                     كَثْعَبٌ<br>\
+                     ذ<br>\
+                   (as also كَعْثَبٌ, TA,) A woman <i>having a large pubes,</i> (K,) <i>or pudendum.</i> (TA.)    </entryFree> <br>\
+<b>رَكَبٌ كَثْعَبٌ</b>               1     <br>\
+                     رَكَبٌ كَثْعَبٌ<br>\
+                     ذ<br>\
+                   (as also كَعْثَبٌ, TA,) <i>A large,</i> (<i>and full, and prominent,</i> TA,) <i>pubes,</i> (K,) or <i>pudendum.</i> (TA.)   </entryFree> <br>\
+            <div2 n=&quot;kvf kvl kvm&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كثف كثل كثم<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

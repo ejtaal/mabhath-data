@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'لطم2<br>\
+لَطَّمَ He slapped much, or violently. See<br>\
+طَلَّمَ, and see K, voce مُلَخَّبٌ.<br>\
+لَطْمَةٌ: see نَطِيحٌ.<br>\
+لَطِيمٌ: see نَطِيحٌ. ―<br>\
+-b2-  لَطِيمٌ A small camel.<br>\
+(TA, voce عَسْجَدٌ.) ―<br>\
+-b3-  لَطِيمَةٌ see زَوْمَلَةٌ. ―<br>\
+-b4-  Small<br>\
+weaned camels. (TA in art. عسجد.)<br>\
+' } );

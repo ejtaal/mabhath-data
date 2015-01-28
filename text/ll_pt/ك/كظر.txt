@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>كظر</em>            1                  كظر<br>\
+<b>كَظَرَ القَوْسَ</b>               1     <br>\
+                     كَظَرَ القَوْسَ<br>\
+                     ذ<br>\
+                  , (K,) aor.      <br>\
+                     كَظُرَ<br>\
+                  , (TK,) inf. n. كَظْرٌ, (TA,) <i>He made to the bow a</i> <br>\
+                  كُظْر, or <i>notch to receive the ring of the string.</i> (K.) ―         -b2-  كَظَرَ <br>\
+                  الزَّنْدَةَ, (K,) inf. n. as above, (TA,) <i>He cut in the</i> [<i>piece of wood called</i>] زندة <br>\
+                  <i>a notch</i> [<i>from which to produce fire</i>]. (K.)    </entryFree> <br>\
+<b>كُظْرُ القَوْسِ</b>               1     <br>\
+                     كُظْرُ القَوْسِ<br>\
+                     ذ<br>\
+                  <i>The notch in the curved extremity of the bow, in which is the string;</i> (As, S;) <i>the notch of the bow, into which falls the ring of the string:</i> (A, K:) pl. [of pauc.] اَكْظَارٌ (A) and [of mult.] كِظَارٌ and كِظَارَةٌ. (TA.) ―         -b2-  كُظْرُ <br>\
+                  الزَّنْدَةِ <br>\
+                  <i>The notch</i> [<i>from which the fire is produced</i>] <i>in the</i> [<i>piece of wood called</i>] زندة. You say النَّارُ تَسِيلُ مِنْ كُظْرِ الزَّنْدَةِ <br>\
+                  <i>Fire flows from the notch of the</i> <br>\
+                  زندة. (A.)    </entryFree> <br>\
+<b>كِظْرٌ</b>               1     <br>\
+                     كِظْرٌ<br>\
+                     ذ<br>\
+                   The <i>piece of sinew which is tied upon the base of the notch of an arrow.</i> (IDrd, K.)   </entryFree> <br>\
+' } );

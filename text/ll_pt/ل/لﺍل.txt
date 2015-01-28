@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لال&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لال<br>\
+&lt;entryFree id=&quot;n43189&quot; key=&quot;لَاّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَاّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. لا.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43190&quot; key=&quot;لِيَالَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لِيَالَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. لا.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43191&quot; key=&quot;لِيَلَّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لِيَلَّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;Lest; in order that not.&lt;/i&gt;   <br>\
+' } );

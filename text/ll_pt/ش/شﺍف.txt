@@ -1,0 +1,170 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;شاف&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  شاف<br>\
+&lt;entryFree id=&quot;n21486&quot; key=&quot;شَيِفَتْ رِجْلُهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     شَيِفَتْ رِجْلُهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, O, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     شَاََ<br>\
+                  &lt;/form&gt;, (K,) inf. n. شَاَفٌ; (S, O;) and شُيِفَتْ رجله; (O, K;) &lt;i&gt;His foot became affected with an ulcer,&lt;/i&gt; or &lt;i&gt;imposthume, such as is termed&lt;/i&gt; <br>\
+                  شَاْفَةٌ, &lt;i&gt;breaking out in it.&lt;/i&gt; (S, O, K.) ―         -b2-  Accord. to some, (O,) شَافُ الجُرْحِ (O, K, [in my MS. copy of the K شَاْفُ, and so accord. to the TK, and in the CK without ء, but I think that the right reading is شَاَفُ, and that its verb is شَيِفَ, or it may be شَاْفُ, and inf. n. of شُيِفَ,]) signifies &lt;i&gt;The wound&#39;s becoming in a corrupt state, so that it will hardly,&lt;/i&gt; or &lt;i&gt;not at all, be cured.&lt;/i&gt; (O, K.) ―         -b3-  شَيِفَ صَدْرُهُ عَلَىَّ <br>\
+                  &lt;i&gt;His bosom bore concealed enmity and violent hatred,&lt;/i&gt; or &lt;i&gt;rancour, malevolence, malice,&lt;/i&gt; or &lt;i&gt;spite, against me.&lt;/i&gt; (TA.) ―         -b4-  شَيِفَتْ اَصَابِعُهُ, (Az, O, K,) or يَدُهُ, (M, TA,) &lt;i&gt;His fingers,&lt;/i&gt; or &lt;i&gt;his hand, became cracked,&lt;/i&gt; or &lt;i&gt;disintegrated, in the parts around the nails;&lt;/i&gt; (Az, M, O, K;) as also سَيِفَتْ, (O, TA,) and سَعِفَتْ: so say AZ and IAar, and in like manner says Th. (TA.)       -A2-  شَيِفْتُهُ, (S, O, K,) and شَيِفْتُ لَهُ, (AZ, O, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     شَاََ<br>\
+                  &lt;/form&gt;, (K,) inf. n. شَاْفٌ, (S, O, K,) in the Bári&#39; شَاَفٌ, with fet-h to the ء, (TA,) and شَا=فَةٌ; (O, K;) and شَيِفْتُ مِنْهُ, inf. n. شَاْفٌ, omitted in the K [and S, and O], but correct, as Sgh has indicated in the Tekmileh; (TA;) &lt;i&gt;I hated him;&lt;/i&gt; (S, O, K;) like شَنِفْتُ لَهُ; (S and O in art. شنف;) namely, a man: (S, O:) or the first and second signify, (K,) or the first also signifies accord. to IAar, (O,) &lt;i&gt;I feared, when I saw him,&lt;/i&gt; namely, a man, &lt;i&gt;that I should smite him with an evil eye,&lt;/i&gt; or &lt;i&gt;should guide against him one whom he disliked,&lt;/i&gt; or &lt;i&gt;hated;&lt;/i&gt; (O;) or &lt;i&gt;I feared that he would smite me with an evil eye,&lt;/i&gt; or &lt;i&gt;I guided against him one whom he disliked,&lt;/i&gt; or &lt;i&gt;hated.&lt;/i&gt; (K.) ―         -b2-  And شُيِفَ <br>\
+                  &lt;i&gt;He&lt;/i&gt; (a man, A&#39;Obeyd, O) &lt;i&gt;was frightened,&lt;/i&gt; or &lt;i&gt;afraid.&lt;/i&gt; (A&#39;Obeyd, O, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21487&quot; key=&quot;اِسْتَشْاَفَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اِسْتَشْاَفَتْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, said of a قُرْصَة, [so in the TA, an evident mistranscription, app. for قَرْحَة, and so in the next paragraph, i. e. an ulcer, or imposthume,] means صَارَ لَهَا اَصْلٌ [&lt;i&gt;It had,&lt;/i&gt; or &lt;i&gt;acquired, root,&lt;/i&gt; or &lt;i&gt;rootedness,&lt;/i&gt; or &lt;i&gt;permanence;&lt;/i&gt; as though it became a شَاْفَة]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21488&quot; key=&quot;شَيِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَيِفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [part. n. of شَيِفَ, and properly meaning &lt;i&gt;Having an ulcer,&lt;/i&gt; or &lt;i&gt;imposthume, such as is termed&lt;/i&gt; <br>\
+                  شَاْفَة,] is applied as an epithet to a heart, in the following verse, cited by IKtt, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        يَا اَيُّهَا الجَاهِلُ اَلَّا تَنْصَرِفْ<br>\
+                     &lt;L&gt;<br>\
+                        وَلَمْ تُدَاوِ قُرْصَةَ القَلْبِ الشَّيِفْ<br>\
+                  &lt;/quote&gt; [in which قُرْصَةَ is doubtless a mistranscription (like that in the next preceding paragraph) for قَرْحَةَ; the obvious meaning of the verse being, (assumed tropical:)  &lt;i&gt;O thou ignorant one, wherefore wilt not thou revert, when thou hast not cured the sore of an ulcerated heart?&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21489&quot; key=&quot;؟؟&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ؟؟<br>\
+                     ذ<br>\
+                  &lt;i&gt;An ulcer,&lt;/i&gt; or &lt;i&gt;imposthume,&lt;/i&gt; (قَرْحَةٌ,) &lt;i&gt;that breaks out in the bottom of the foot, and is cauterized,&lt;/i&gt; (S, IAth, O, K,) or &lt;i&gt;is cut,&lt;/i&gt; (Yaakoob, IAth, O,) &lt;i&gt;and goes away;&lt;/i&gt; (Yaakoob, S, IAth, O, K;) and the word is also pronounced without ء [i. e. شَافَةٌ]: (IAth, TA:) or &lt;i&gt;an ulcer,&lt;/i&gt; or &lt;i&gt;imposthume, in the foot of a person, who dies if it is cut:&lt;/i&gt; (O, K:) and it is also said to be &lt;i&gt;a tumour in the hand,&lt;/i&gt; and &lt;i&gt;foot, from the entering of a piece of wood,&lt;/i&gt; or &lt;i&gt;stick, into the flesh of the foot,&lt;/i&gt; or &lt;i&gt;the palm of the hand, and its remaining therein, so&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;1490&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;that the place swells, and becomes large.&lt;/i&gt; (TA.) اِسْتَاْصَلَ اْللّٰهُ شَاْفَتَهُ (S, O, K) is a prov. (S, O) meaning (assumed tropical:)  &lt;i&gt;May God cause him to go away like as the&lt;/i&gt; <br>\
+                  شافة <br>\
+                  &lt;i&gt;above mentioned goes away:&lt;/i&gt; (S, O, K:) or this means &lt;i&gt;may God extirpate him:&lt;/i&gt; for ―         -b2-  شَاْفَةٌ is also syn. with اَصْلٌ [i. e. &lt;i&gt;Root,&lt;/i&gt; &amp;amp;c.]: (O, K:) so says Sh. (O.) [See also 10 in art. اصل: and see what here follows.] ―         -b3-  It is also said to signify The &lt;i&gt;family and household&lt;/i&gt; of a man: and hence the form of imprecation, اِسْتَاْصَلَ اْللّٰهُ شَاْفَتَهُمْ [&lt;i&gt;May God extirpate their family and household&lt;/i&gt;]. (TA.) ―         -b4-  And (tropical:)  &lt;i&gt;Enmity.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21490&quot; key=&quot;شَاَفَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَاَفَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, thus with fet-h to the ء, is an epithet applied to a man, meaning &lt;i&gt;Mighty, potent, powerful,&lt;/i&gt; or &lt;i&gt;strong; inaccessible,&lt;/i&gt; or &lt;i&gt;difficult of access.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21491&quot; key=&quot;رِجْلٌ مَشْوُوفَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِجْلٌ مَشْوُوفَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A foot affected with an ulcer,&lt;/i&gt; or &lt;i&gt;imposthume, such as is termed&lt;/i&gt; <br>\
+                  سَاْفَةٌ, &lt;i&gt;breaking out in it:&lt;/i&gt; (O, K:) from شُيِفَتْ رِجْلُهُ. (O, * K, * TA.) ―         -b2-  And مَشْوُوفٌ, from شُيِفَ, &lt;i&gt;Frightened,&lt;/i&gt; or &lt;i&gt;afraid;&lt;/i&gt; (A&#39;Obeyd, O, K;) applied to a man. (A&#39;Obeyd, O.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21492&quot; key=&quot;شُيِمَ عَلَيْهِمْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     شُيِمَ عَلَيْهِمْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S; MA, K,) inf. n. شُوْمٌ, (MA,) &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, unlucky,&lt;/i&gt; or &lt;i&gt;inauspicious,&lt;/i&gt; (صَارَ شُوْمًا, S, K, in the MA شوم شد,) &lt;i&gt;to them:&lt;/i&gt; (S, MA, K;) as also شَاَمَهُمْ, and شَاَمَ <br>\
+                  عليهم, and شَوُمَ عليهم: (K:) or شَاَمَهُمْ, (AZ, Ham p. 224,) or شَاَمَ عَلَيْهِمْ, (S,) or both of these, (TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     شَاََ<br>\
+                  &lt;/form&gt;, (S, TA,) inf. n. شَاْمٌ, (TA,) &lt;i&gt;he drew upon them ill luck,&lt;/i&gt; or &lt;i&gt;evil fortune;&lt;/i&gt; (S, TA;) or &lt;i&gt;caused ill luck,&lt;/i&gt; or &lt;i&gt;evil fortune, to befall them from him:&lt;/i&gt; (AZ, Ham ubi suprà, TA:) or شُوُمٌ as an inf. n. signifies the &lt;i&gt;being unlucky:&lt;/i&gt; and the &lt;i&gt;rendering unlucky:&lt;/i&gt; and so شُومٌ [as it is commonly pronounced: see شُوُمٌ below]. (KL.)       -A2-  And شَاَمَهُمْ, inf. n. شَاْمٌ, so in the L; in the K, ↓ <br>\
+      شَاَّمَهُمْ, inf. n. تَشْيِيمٌ; but the former is the right; (TA;) &lt;i&gt;He made them to go,&lt;/i&gt; or &lt;i&gt;journey, to&lt;/i&gt; <br>\
+                  الشَّاْم [i. e. &lt;i&gt;Syria&lt;/i&gt;]. (K, TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     شَاََّ<br>\
+                  &lt;/form&gt; see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21493&quot; key=&quot;شَايِمْ بِاَصْحَابِكَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     شَايِمْ بِاَصْحَابِكَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Take thou the direction of the left hand with thy companions:&lt;/i&gt; (S, K, TA:) يَامِنْ signifies “ take thou the direction of the right hand. ” (TA.) ―         -b2-  And شَا=مَ <br>\
+                  &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;came to&lt;/i&gt; <br>\
+                  الشَّاْم [i. e. &lt;i&gt;Syria&lt;/i&gt;]: like يَامَنَ signifying “ he came to El-Yemen. ” (TA. [See also 4.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21494&quot; key=&quot;اشام&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اشام<br>\
+                     ذ<br>\
+                  &lt;i&gt;He desired the left:&lt;/i&gt; like as اَيْمَنَ signifies “ he desired the right. ” (TA in art. يمن.) ―         -b2-  And &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;came to&lt;/i&gt; <br>\
+                  الشَّاْم [i. e. &lt;i&gt;Syria&lt;/i&gt;]: (S, K, TA: [see also 3:]) or &lt;i&gt;he went thither:&lt;/i&gt; and اَيْمَنَ signifies “ he came to El-Yemen. ” (TA.)       -A2-  مَا اَشْاَمَهُ (S, K, TA) &lt;i&gt;How unlucky,&lt;/i&gt; or &lt;i&gt;inauspicious, is he!&lt;/i&gt; (TA:) the vulgar say, مَا <br>\
+                  اَيْشَمَهُ. (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21495&quot; key=&quot;تشاّم بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تشاّم بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (MA, TA,) from الشُّوْمُ, (TA,) &lt;i&gt;He found him,&lt;/i&gt; or &lt;i&gt;it, unlucky,&lt;/i&gt; or &lt;i&gt;inauspicious:&lt;/i&gt; and &lt;i&gt;he became unlucky by means of him,&lt;/i&gt; or &lt;i&gt;it:&lt;/i&gt; (MA:) or تشاّم signifies &lt;i&gt;he had ill luck,&lt;/i&gt; or &lt;i&gt;evil fortune.&lt;/i&gt; (KL.) See also 6. ―         -b2-  And تشاّم <br>\
+                  &lt;i&gt;He took the direction of his left hand:&lt;/i&gt; (K, TA:) and in like manner تَيَامَنَ, [whence it seems that تشاّم in the sense expl. above may be a mistake for ↓ <br>\
+      تشا=ءم,] “ he took the direction of his right hand. ” (TA.) ―         -b3-  And &lt;i&gt;He asserted his relationship to&lt;/i&gt; [&lt;i&gt;the people of&lt;/i&gt;] الشَّاْم [i. e. &lt;i&gt;Syria&lt;/i&gt;]: (S, K:) a verb similar to تكوّف and تقيّص. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21496&quot; key=&quot;تشا=ءموا بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تشا=ءموا بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Msb, K, TA, &amp;amp;c.,) in some of the copies of the K ↓ <br>\
+      تشاّموا, (TA,) [and in like manner تشاّم بِهِ, which is often opposed to تَيَمَّنَ بِهِ, (see an instance in Bd xvii. 14,) is used in the K in art. عطس, and تشاّم مِنْهُ in the TA in the same art. as on the authority of IKh, whence it seems that both these verbs are correct in the sense here following, though the former is probably preferable, and بِهِ ↓ <br>\
+      استشام is used in the same manner in “ Les Oiseaux et les Fleurs, ” p. 83, as mentioned by Freytag, so that تشاّم به and استشام are the contr. of تيمّن به and استيمن,] &lt;i&gt;They augured evil from him,&lt;/i&gt; or &lt;i&gt;it; regarded him,&lt;/i&gt; or &lt;i&gt;it, as an evil omen;&lt;/i&gt; (Msb, KL; *) like تَطَيَّرُوا بِهِ: (Msb:) &lt;i&gt;deemed him,&lt;/i&gt; or &lt;i&gt;it, unlucky,&lt;/i&gt; or &lt;i&gt;inauspicious.&lt;/i&gt; (KL.) ―         -b2-  تشا=ءم, thus, with medd, also signifies &lt;i&gt;He took the direction of&lt;/i&gt; <br>\
+                  الشَّاْم[i. e. &lt;i&gt;Syria&lt;/i&gt;]. (TA.) ―         -b3-  See also 5.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَشْاََ<br>\
+                  &lt;/form&gt; see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21497&quot; key=&quot;الشَّاْمُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الشَّاْمُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, the name of a certain country [i. e. &lt;i&gt;Syria&lt;/i&gt;], is masc. and fem.; (S;) sometimes masc.: (K:) and may also be pronounced الشَّامُ [as it commonly is in the present day]. (Msb.) ―         -b2-  [And as this country lies on the north of Arabia, الشَّاْمُ also signifies &lt;i&gt;The northern region;&lt;/i&gt; opposed to اليَمَنُ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21498&quot; key=&quot;شُوْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شُوْمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Msb, K, &amp;amp;c.,) thus, with ء, but always pronounced شُومٌ, without ء, (TA,) is an inf. n.: (MA, KL: [see 1, first sentence, in two places:]) and signifies [as a simple subst.] &lt;i&gt;Unluckiness, inauspiciousness, unfortunateness, unprosperousness, evil fortune,&lt;/i&gt; or &lt;i&gt;ill luck; contr. of&lt;/i&gt; <br>\
+                  يُمْنٌ; (S, K;) [i. e.] &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  َحْسٌ: (Har p. 158:) &lt;i&gt;evil&lt;/i&gt; [&lt;i&gt;of any kind&lt;/i&gt;]; syn. شَرٌّ: (Msb:) [and particularly] &lt;i&gt;an evil omen:&lt;/i&gt; (PS:) and ↓ <br>\
+      مَشْاَمَةٌ signifies the same as شُوْمٌ: (TA:) [or, like مَنْحَسَةٌ, &lt;i&gt;a cause of unluckiness,&lt;/i&gt; &amp;amp;c.:] مَشَايِمُ is a pl. of شُوْمٌ, [or of ↓ <br>\
+      مَشْاَمَةٌ: if of the former,] irreg., like as its syn. مَنَاحِسُ is [said to be] of نَحْسٌ. (TA in art. نحس.) It is said in a trad., اـِنْ كَانَ الشُّوْمُ فَفِى <br>\
+                  ثَلَاث ٍ المَرْاَةِ وَالدَّارِ وَالفَرَسِ, meaning &lt;i&gt;If there be that whereof the consequence is disliked,&lt;/i&gt; or &lt;i&gt;hated, and feared,&lt;/i&gt; [or &lt;i&gt;if there be unluckiness,&lt;/i&gt;] &lt;i&gt;it is in three&lt;/i&gt; things, &lt;i&gt;the wife, and the house, and the horse:&lt;/i&gt; i. e., if any of you have a wife whose companionship he dislikes, or a house in which he dislikes dwelling, or a horse that he dislikes taking for the purpose of keeping post on the enemies&#39; frontier, let him separate himself therefrom, by divorcing the wife, and removing from the house, and selling the horse: or, as some say, the شوم of the wife is her not producing children; and that of the house, its straitness, and the badness of its neighbour; and that of the horse, one&#39;s not going to war upon it. (JM.) ―         -b2-  See also مَشْوُومٌ.       -A2-  Also &lt;i&gt;Black&lt;/i&gt; camels: and حِضَارٌ signifies “ white ” camels, (K, TA,) and is also written and pronounced حَضَارٌ: (TA:) neither of these has a sing.: (K:) both occur in a verse of Aboo-Dhu-eyb: but accord. to one reading thereof it is شِيم; pl. of اَشْيَمُ: so says AA: and IJ says that شُومٌ, [without ء,] being originally شُيْمٌ, of the measure فُعْلٌ, may also be pl. of اَشْيَمُ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21499&quot; key=&quot;شَاْمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَاْمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مَشْاَمَةٌ The &lt;i&gt;left,&lt;/i&gt; meaning the &lt;i&gt;left side&lt;/i&gt; or &lt;i&gt;direction&lt;/i&gt; or &lt;i&gt;relative location&lt;/i&gt; or &lt;i&gt;place;&lt;/i&gt; (S, K;) &lt;i&gt;i. q.&lt;/i&gt; [يَسْرَةٌ and] مَيْسَرَةٌ; (S;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  يَمْنَةٌ and مَيْمَنَةٌ. (K.) One says of a man, قَعَدَ <br>\
+                  شاْمَةٌ [&lt;i&gt;He sat on the left&lt;/i&gt;]. (S.) And one says, خُذْ بِهِمْ شَاْمَةً i. e. [&lt;i&gt;Take thou with them&lt;/i&gt;] &lt;i&gt;the direction of the left hand.&lt;/i&gt; (S.) And نَظَرْتُ يَمْنَةً <br>\
+                  وَشَاْمَةً [&lt;i&gt;I looked in a right direction and in a left direction&lt;/i&gt;]. (TA.) And hence ↓ <br>\
+      اَصْحَابُ المَشْاَمَةِ, in the Kur [lvi. 9 and xc. 19], (TA,) meaning [&lt;i&gt;The occupants of the left:&lt;/i&gt; or] &lt;i&gt;those who shall have their records given to them in their left hands:&lt;/i&gt; or &lt;i&gt;the occupants of the low,&lt;/i&gt; or &lt;i&gt;ignoble, place,&lt;/i&gt; or &lt;i&gt;station:&lt;/i&gt; or &lt;i&gt;the havers of unfortunateness&lt;/i&gt; (الشُّوْم): and اَصْحَابُ المَيْمَنَةِ is expl. as having the contr. senses. (Ksh and Bd in lvi. 9.)       -A2-  Also, the former, &lt;i&gt;A mole&lt;/i&gt; (خَالٌ) &lt;i&gt;upon the person:&lt;/i&gt; thus, with ء, as mentioned by IAth: also mentioned without ء in art. شيم. (TA.) ―         -b2-  See also شَامَةٌ as meaning “ a black she-camel, ” in art. شيم.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21500&quot; key=&quot;شِيْمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شِيْمَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Nature; natural, native,&lt;/i&gt; or &lt;i&gt;innate, disposition, temper,&lt;/i&gt; or other &lt;i&gt;quality&lt;/i&gt; or &lt;i&gt;property:&lt;/i&gt; (K, TA:) mentioned thus, as with ء, by AZ and Lh, and said by IJ to be sometimes thus pronounced; but the pronunciation thereof with ء is held by ISd to be extraordinary. (TA.) [See art. شيم.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21501&quot; key=&quot;شَامِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَامِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Msb, K, TA,) without ء, (TA,) and ↓ <br>\
+      شَا=م ٍ, (S, Msb, K,) of the measure فَعَال ٍ, (S,) an allowable form, without ى, (Msb,) like تَهَام ٍ and يَمَان ٍ, (TA,) and ↓ <br>\
+      شَا=مِىٌّ, (Sb, S, K,) [&lt;i&gt;Syrian;&lt;/i&gt;] &lt;i&gt;of,&lt;/i&gt; or &lt;i&gt;relating to,&lt;/i&gt; <br>\
+                  الشَّاْم: (S, Msb, K:) one should not say شَاْم ٍ; any instance [of this] occurring by poetic license being accounted for as a case of the use of the name of the country for the rel. n.: (S:) the fem., applied to a woman, is شَامِيَّةٌ and ↓ <br>\
+      شَا=مِيَةٌ, the latter without teshdeed: (S, TA;) the pl. of شَامِىٌّ is شُوَامٌ, like غُرَابٌ [in measure]. (TA.) ―         -b2-  [And hence, &lt;i&gt;Northern.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21502&quot; key=&quot;شَا=م ٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَا=م ٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and شَا=مِيَةٌ the fem. of the former; and    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21503&quot; key=&quot;شَا=مِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَا=مِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21504&quot; key=&quot;شَايِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَايِمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَشْوُومٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21505&quot; key=&quot;اَشْاَمُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَشْاَمُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;More,&lt;/i&gt; and &lt;i&gt;most, unlucky, inauspicious, unfortunate,&lt;/i&gt; or &lt;i&gt;unprosperous&lt;/i&gt;]. The Arabs say, &lt;pb n=&quot;1491&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  اَشْاَمُ كُلِّ اْمْرِي ٍ بَيْنَ لَحْيَيْهِ, (Meyd, TA,) as some relate it, or, as others relate it, فَكَّيْهِ, which means the same, (Meyd,) [app. meaning accord. to the TA, &lt;i&gt;The most unlucky thing of every man is between his two jaws,&lt;/i&gt; or &lt;i&gt;the two lateral portions of his lower jaw;&lt;/i&gt; but it is said that] اَشْاَمُ is here used in the sense of شُوْمٌ [i. e. &lt;i&gt;the unluckiness,&lt;/i&gt; &amp;amp;c.]; and in a similar manner [the contr.] اَيْمَنُ is used [in the sense of يُمْن]: so says AHeyth: (Meyd:) the prov. meaning the tongue. (AHeyth, TA.) The fem. is شُوْمَى. (TA.) ―         -b2-  Hence, (TA,) اليَدُ <br>\
+                  الشُّوْمَى <br>\
+                  &lt;i&gt;The left hand&lt;/i&gt; or &lt;i&gt;arm; contr. of&lt;/i&gt; <br>\
+                  اليُمْنَى; (K, TA;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  الشِّمَالُ. (TA.) It is said in a trad., respecting camels, لَا يَاْتِى خَيْرُهَا اـِلَّا مِنْ <br>\
+                  جَانِبِهَا الاَشْاَمِ [&lt;i&gt;Their goodness comes not save from their left side&lt;/i&gt;]: i. e. they are milked and mounted only from the left side. (TA.) ―         -b3-  See also مَشْوُومٌ, in three places. ―         -b4-  Zuheyr, in the following saying, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَتُنْتَجْ لَكُمْ غِلْمَانَ اَشْاَمَ كُلُّهُمْ<br>\
+                     &lt;L&gt;<br>\
+                        كَاَحْمَرِ عَاد ٍ ثُمَّ تُرْضِعْ فَتَفْطِمْ<br>\
+                  &lt;/quote&gt; uses it in the sense of the inf. n. شُوْم; (S;) meaning غِلْمَانَ شُوْم ٍ: (S, and EM p. 124:) he says, &lt;i&gt;And it,&lt;/i&gt; i. e. war, &lt;i&gt;will bring forth for you boys of ill luck,&lt;/i&gt; or &lt;i&gt;evil omen; all of them like Ahmar of&#39; Ád: then it will suckle&lt;/i&gt; these boys, &lt;i&gt;and wean&lt;/i&gt; them: by Ahmar of &#39; Ád, he means Ahmar of Thamood, for Ahmar was the surname of him who hamstrung the she-camel of Sálih, and his name was Kudár: he says thus for the sake of the measure: or, as some say, Thamood were called &#39;Ád-el-Ákhireh. (EM.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21506&quot; key=&quot;مَشْاَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَشْاَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see شُوْمٌ, in two places: ―         -b2-  and see also شَاْمَةٌ, likewise in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21507&quot; key=&quot;مَشْوُومٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَشْوُومٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, MA, K, KL,) and مَشُومٌ, (S, K,) the latter like مَقُولٌ, (TA,) [a contraction of the former,] &lt;i&gt;Unlucky,&lt;/i&gt; or &lt;i&gt;inauspicious,&lt;/i&gt; (S, MA, K, KL,) عَى قَوْمِهِ [&lt;i&gt;to his people,&lt;/i&gt; or &lt;i&gt;party&lt;/i&gt;], (S, MA, K,) and عَلَى نَفْسِهِ [&lt;i&gt;to himself&lt;/i&gt;]: (Ksh and Bd in lvi. 9:) [and so ↓ <br>\
+      شُوْمٌ; (as in an ex. in the first sentence of this art.;) this being an epithet as well as a subst., like its syn. نَحْسٌ; syn. with مَشْوُومٌ, like as نَحْسٌ is syn. with مَنْحُوسٌ; and app., like نَحْسٌ, used alike as sing. and pl., for it seems to be originally an inf. n.:] and so ↓ <br>\
+      شَايِمٌ; (K;) or this signifies &lt;i&gt;drawing ill luck,&lt;/i&gt; or &lt;i&gt;evil fortune,&lt;/i&gt; upon his people [and upon himself]: (S, TA:) and اَشَايِمُ, a pl., likewise signifies &lt;i&gt;unlucky,&lt;/i&gt; or &lt;i&gt;inauspicious;&lt;/i&gt; (KL;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  اَيَامِنُ; (S, K, TA;) these being pls. of ↓ <br>\
+      اَشْاَمُ and اَيْمَنُ: (TA:) the pl. of مَشْوُومٌ is مَشَايِيمُ, (S, KL, TA,) which is extr., for by rule it should be مَشْوُومُونَ. (TA.) One says also ↓ <br>\
+      طَايِرٌ اَشْاَمُ meaning [&lt;i&gt;An omen&lt;/i&gt;] &lt;i&gt;happening,&lt;/i&gt; or &lt;i&gt;occurring,&lt;/i&gt; (جَار ٍ,) &lt;i&gt;with unluckiness,&lt;/i&gt; or &lt;i&gt;inauspiciousness;&lt;/i&gt; [i. e. &lt;i&gt;an unlucky,&lt;/i&gt; or &lt;i&gt;inauspicious, omen;&lt;/i&gt;] (K, TA;) and [in like manner] ↓ <br>\
+      طَيْرٌ اَشْاَمُ: and the pl. is اَشَايِمُ [as above]. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

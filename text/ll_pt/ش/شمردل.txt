@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>شمردل</em>            1                  شمردل<br>\
+<b>شَمَرْدَلٌ</b>               1     <br>\
+                     شَمَرْدَلٌ<br>\
+                     ذ<br>\
+                  <i>A youth, strong and hardy;</i> and in the like sense applied to a camel: (Lth, TA:) or <i>tall;</i> as also ↓ <br>\
+      شَمَرْدَلِىٌّ: (Ham pp. 728 and 789:) or a <i>bulky</i> camel: (IAar, TA:) or, of camels &amp;amp;c., (S, O, K,) the <i>swift;</i> (S, O;) or <i>youthful, swift, and goodly in make:</i> (K:) and with ة, a she-camel <i>goodly, beautiful in make.</i> (A &#39;Obeyd, S, O, K.)    </entryFree> <br>\
+<b>شَمَرْدَلِىٌّ</b>               1     <br>\
+                     شَمَرْدَلِىٌّ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.   </entryFree> <br>\
+' } );

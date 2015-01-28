@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>لحف</em>            1                  لحف<br>\
+<b>لِحَافٌ</b>               1     <br>\
+                     لِحَافٌ<br>\
+                     ذ<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>مِلْحَفَةٌ</b>               1     <br>\
+                     مِلْحَفَةٌ<br>\
+                     ذ<br>\
+                  <i>A</i> <br>\
+                  مُلَا=ءَة <br>\
+                  <i>that is</i> <br>\
+                  سُمُط [<i>not lined, nor stuffed</i>]: if lined or stuffed, the vulgar also call it by this name, but the Arabs do not know this: (L, TA:) and the same applies to the ↓ <br>\
+      لِحَاف: Az says, that لِحَافٌ and مِلْحَفٌ mean the same: like اـِزَارٌ and مِيْزَرٌ, and قِرَامٌ and مِقْرَمٌ; and sometimes one says مِقْرَمَةٌ and مِلْحَفَةٌ; and it is the same whether the garment be سُمُط or <i>lined.</i> (TA.) He says also, [in another place,] that the Arabs apply the terms ↓ <br>\
+      لِحَافٌ and مِلْحَفَةٌ to <i>A night-wrapper</i> (اـِزَارُ لَيْلِ) <i>if it be</i> <br>\
+                  طَاقٌ وَاحِدٌ [<i>a single piece of stuff;</i> i. e. <i>not double, not lined nor faced, nor stuffed</i>]. (TA in art. سمط.) ―         -b2-  See اـِزَازٌ.   </entryFree> <br>\
+' } );

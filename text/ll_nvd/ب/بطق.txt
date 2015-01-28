@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'بطقبِطَاقَةٌ A piece of paper: (IAar, M, Sgh, TA:)<br>\
+in the K, الحَدَقَةُ is erroneously put for الوَرَقَةُ:<br>\
+(TA:) a ticket that is attached to a garment, or<br>\
+piece of cloth, (T, S, M, L, K,) bearing the mark,<br>\
+or inscription, of its price; (T, S, L, K;) or a<br>\
+ticket marked, or inscribed, with the weight, and<br>\
+the number, of a thing: (TA:) of the dial. of<br>\
+Egypt (T, S, L) and the neighbouring parts: (T,<br>\
+L:) so called, (K,) or said (by Sh, TA) to be so<br>\
+called, (S,) because it is tied by a twist, or thread,<br>\
+(بِطَاقَةً,) of the unwoven end of the cloth: (S, K:)<br>\
+but this is a mistake: (ISd, TA:) [in Greek,<br>\
+πιττά� degreesιον, as observed by Freytag; and hence<br>\
+probably derived:] accord. to some, it is [نِطَاقَةً,]<br>\
+with ن, because it tells (تَنْطِقُ) what is marked,<br>\
+or inscribed, thereon; but this is strange. (TA.)<br>\
+It is said in a trad., that a man will be brought<br>\
+on the day of resurrection, and ninety-nine scrolls,<br>\
+or records, inscribed with his sins will be produced; and there will be produced for him a بطاقة<br>\
+bearing the testimony that there is no deity but<br>\
+God, and it will outweigh the others. (TA.)<br>\
+' } );

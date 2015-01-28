@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'جنوجَنًا i. q. جَنَأٌ [inf. n. of جَنِئَ, q. v.]. (Sgh, K.)<br>\
+أَجْنَا, applied to a man, i. q. أَجْنَأُ, q. v. (Sgh,<br>\
+K.) And [its fem.] جَنْوَآءُ, i. q. جَنْآءُ, (Sgh, K,)<br>\
+applied to a ewe, or a she-goat, meaning Having<br>\
+her horns bending backwards. (TA.)<br>\
+' } );

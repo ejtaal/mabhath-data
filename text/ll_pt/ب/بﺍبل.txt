@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;بابل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  بابل<br>\
+&lt;entryFree id=&quot;n1653&quot; key=&quot;بَابِلِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَابِلِىٌّ<br>\
+                     اـبل<br>\
+                     اـبلي<br>\
+                     باـبلي<br>\
+                     بابل<br>\
+                     بابلى<br>\
+                     بابلي<br>\
+                  &lt;i&gt;Of,&lt;/i&gt; or &lt;i&gt;belonging to,&lt;/i&gt; or &lt;i&gt;relating to,&lt;/i&gt; <br>\
+                  بَابِل [i. e. &lt;i&gt;Babel&lt;/i&gt;], &lt;i&gt;a place&lt;/i&gt; [&lt;i&gt;well known&lt;/i&gt;] &lt;i&gt;in El-&#39;Irák:&lt;/i&gt; it is an epithet applied to enchantment, [which is said to have been there taught by two fallen angels, Hároot and Mároot, (see the Kur ii. 96,)] and to wine. (S, K, TA.) ―         -b2-  And hence, (TA,) &lt;i&gt;Poison:&lt;/i&gt; [and, accord to the CK, &lt;i&gt;wine;&lt;/i&gt;] as also ↓ <br>\
+      بَابِلِيَّةٌ. (K, TA.) ―         -b3-  In the original language of the place above mentioned, البَابِلِىُّ is a name of المُشْتَرِى [&lt;i&gt;The planet Jupiter&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1654&quot; key=&quot;بَابِليَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَابِليَّةٌ<br>\
+                     اـبلي<br>\
+                     باـبليه<br>\
+                     باـبلية<br>\
+                     بابلي<br>\
+                     بابليه<br>\
+                     بابلية<br>\
+                  &lt;/form&gt;: see above.   &lt;/entryFree&gt; <br>\
+' } );

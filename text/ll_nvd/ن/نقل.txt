@@ -1,0 +1,34 @@
+load_data( { book: 'll_nvd', text: 'نقل1<br>\
+نَقَلَهُ<br>\
+He related it, told it, or mentioned it,<br>\
+from another; he transmitted it; he transcribed<br>\
+it. See 1 in art. حكى. نَقَلَ إِلَيْهِ حَدِيثًا [He<br>\
+related to him a tradition]. (Msb.) ―<br>\
+-b2-  نَقَلَهُ<br>\
+He transferred it; shifted it; translated it;<br>\
+conveyed it. He discerned it, or took and mentioned it, namely a word or phrase or signification, from (من) such a one; he quoted it; i. e.<br>\
+نَقَلَهُ إِلَى كِتَابِهِ مِنْ كِتَابٍ آخَرَ<br>\
+he transferred<br>\
+it to his book from another book.<br>\
+5<br>\
+تَنَقَّلَ بِالنُّقْلِ<br>\
+[and تنقّل alone] He ate<br>\
+نُقْل.<br>\
+(MA.) ―<br>\
+-b2-  Hence, تَنَقَّلَ بِالحَدِيثِ<br>\
+He amused<br>\
+himself with talk; like as one amuses himself<br>\
+with the eating of fruit after a meal: see تَفَكَّهَ.<br>\
+8<br>\
+اِنْتَقَلَ<br>\
+He shifted, removed, or passed, from<br>\
+one place, or time (as in an instance in the K<br>\
+voce أَسْوَعَ), or state, to another.<br>\
+نَقْلُ الأَقْدَامِ<br>\
+The shifting of the feet from place<br>\
+to place. ―<br>\
+-b2-  بَآءُ النَّفْلِ<br>\
+i. q.<br>\
+بَآءُ التَّعْدِيَةِ<br>\
+The<br>\
+' } );

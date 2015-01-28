@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نطا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نطا<br>\
+&lt;entryFree id=&quot;n40001&quot; key=&quot;نَطَاَ بِسَلْحِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَطَاَ بِسَلْحِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ثطا.]   &lt;/entryFree&gt; <br>\
+' } );

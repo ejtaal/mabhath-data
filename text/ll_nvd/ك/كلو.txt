@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'كلو1<br>\
+كَلَا<br>\
+, first pers. كَلَاتُ, aor. يَكْلُو; and كَلَا,<br>\
+first pers. كَلَيْتُ, aor. يَكْلَا; inf. n., كِلَايَةٌ; see<br>\
+كَلَأَ.<br>\
+الكُلَى<br>\
+: the feathers so called: see مَنَاكِبُ and<br>\
+أَبْهَرُ.<br>\
+الكُلْيَتَانِ<br>\
+A name of two stars on the ear of<br>\
+Taurus. (See الكَلْبَانِ.)<br>\
+' } );

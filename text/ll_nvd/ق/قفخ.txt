@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'قفخ1<br>\
+قَفَخَهُ, (S, L,) aor.<br>\
+قَفَخَ, (L,) inf. n. قَفْخٌ and<br>\
+قِفَاخٌ, (S, L, K,) He struck him, or it: but the<br>\
+striking termed قفخ is only on the head, or on<br>\
+something hollow, (S, L, K,) or on something hard<br>\
+[evidently a mistake for moist, or soft]; (L;)<br>\
+i. q. فَقَخَهُ, (K,) and used by the people of ElYemen in the sense of صَقَعَهُ: (L:) he struck a<br>\
+person&#39;s head with a staff: (L:) he struck a<br>\
+person on the head with a staff. (As.) He broke<br>\
+a person&#39;s head: he broke a thing across: he<br>\
+broke the substance called عَرْمَض upon the surface<br>\
+of water. (L.)<br>\
+' } );

@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كا<br>\
+&lt;entryFree id=&quot;n36492&quot; key=&quot;كَاْكَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     كَاْكَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) inf. n. كَاْكَاَةٌ; (TA;) and ↓ <br>\
+      تَكَاْكَاَ, (S, K,) as also تكعكع; (S;) &lt;i&gt;He drew back,&lt;/i&gt; or &lt;i&gt;retired, and was cowardly.&lt;/i&gt; (S, K.) ―         -b2-  كَاْكَاَ, inf. n. كَاْكَا=ءٌ, [respecting the form of which see ظَاْظَاَ,] &lt;i&gt;He was very impatiently cowardly.&lt;/i&gt; (AA, K.) [In the CK., in the explanation of the inf. n., الجَبِينُ is put for الجُبْنُ.] ―         -b3-  Also, inf. n. as above, &lt;i&gt;He&lt;/i&gt; (a thief) &lt;i&gt;ran away.&lt;/i&gt; (K, TA.)       -A2-  See R. Q. 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36493&quot; key=&quot;تَكَاْكَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 2&lt;/itype&gt;        <br>\
+                     تَكَاْكَاَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He was prevented,&lt;/i&gt; or &lt;i&gt;hindered.&lt;/i&gt; (Lth.) ―         -b2-  تَكَاْكَاَ فِى كَلَامِهِ <br>\
+                  &lt;i&gt;He hesitated in his speech, and was unable to speak.&lt;/i&gt; (K.)       -A2-  تَكَاْكَاَ عَلَيْهِ النَّاسُ, (S, K, *) and ↓ <br>\
+      كَاْكَاَ, (K,) &lt;i&gt;The people collected around him;&lt;/i&gt; (S, K;) &lt;i&gt;crowded,&lt;/i&gt; or &lt;i&gt;pressed, upon him.&lt;/i&gt; (TA.)       -A3-  And see R. Q. 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36494&quot; key=&quot;مُتَكَاْكِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَكَاْكِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Short.&lt;/i&gt; (S, K.)   &lt;/entryFree&gt; <br>\
+' } );

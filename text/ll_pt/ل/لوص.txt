@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لوص</em>            1                  لوص<br>\
+<b>مُلَوَّصٌ</b>               1     <br>\
+                     مُلَوَّصٌ<br>\
+                     ذ<br>\
+                  <i>The sweet food called</i> <br>\
+                  فالوذ: see مُزَعْفَرٌ.   </entryFree> <br>\
+' } );

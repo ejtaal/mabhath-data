@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'هندزهِنْدَازٌ, (S, K,) with kesr, (K,) found in the<br>\
+work of Az, in several places, written with fet-h,<br>\
+[هَنْدَازٌ,] (TA,) A limit; syn. حَدٌّ: (K:) [or<br>\
+rather a measure:] an arabicized word, from<br>\
+أَنْدَازَه, (S, K,) with fet-h, (K,) which is Persian:<br>\
+(S:) the arabicized word is with kesr to the<br>\
+first letter because of the rareness of the measure<br>\
+فَعْلَالٌ in the cases of words not reduplicative.<br>\
+(K.) You say, أَعَطٰاهُ بِلَا حِسَابِ وَلَا هِنْدَازٍ [He<br>\
+gave to him without calculation and without<br>\
+measure]. (S.)<br>\
+هِنْدَازَةٌ The cubit with which [certain] cloths<br>\
+and the like are measured; [about twenty-five<br>\
+inches in length:] also a Persian word arabicized.<br>\
+(TA.)<br>\
+مُهَنْدزٌ One who determines the measures and<br>\
+proportions of subterranean channels for water,<br>\
+and of buildings: [an architect: and also a geometrician:] from هِنْدَازٌ: but they change the ز into<br>\
+س, (S, K,) and say مُهَنْدِسٌ, (S,) because there<br>\
+is not in the [genuine] language of the Arabs a<br>\
+ز with a د before it. (S, K.)<br>\
+' } );

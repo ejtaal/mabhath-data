@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>جوشن</em>            1                  جوشن<br>\
+<b>جَوْشَنٌ</b>               1     <br>\
+                     جَوْشَنٌ<br>\
+                     ذ<br>\
+                   The <i>breast:</i> (IDrd, S, Mgh, K:) or the <i>broad part of the middle of the breast:</i> and the <i>fore part of the body</i> of a locust. (TA.) ―         -b2-  <i>A coat of mail:</i> (S, Mgh, K:) or <i>mail with which the breast and the</i> <br>\
+                  حَيْزُوم [or <i>parts adjoining the breast</i>] <i>are clad.</i> (M, TA.) ―         -b3-  The <i>middle</i> of the night: (S, K:) and (so in the S, but in the K “ or ”) the <i>fore part</i> thereof: (S, K:) pl. جَوَاشِنُ. (S.) You say, مَضَى جَوْشَنٌ مِنَ اللَّيْلِ <br>\
+                  <i>An early portion of the night passed:</i> (S:) or [simply] <i>a portion of the night.</i> (M, TA.) It is a dial. var. of جَوْشٌ, [in the first of the meanings explained above, and also as relating to the night,] although augmented. (TA.)    </entryFree> <br>\
+<b>جَوْشَنِىٌّ</b>               1     <br>\
+                     جَوْشَنِىٌّ<br>\
+                     ذ<br>\
+                  <i>A manufacturer of coats of mail.</i> (K.)   </entryFree> <br>\
+' } );

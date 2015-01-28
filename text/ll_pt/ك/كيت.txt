@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>كيت</em>            1                  كيت<br>\
+<b>كيّت</b>               1     <br>\
+                     كيّت<br>\
+                     ذ<br>\
+                  , inf. n. تَكْيِيتٌ, <i>He stuffed,</i> or <i>filled,</i> a bag or other receptacle for travelling-provisions or for goods or utensils &amp;amp;c. (En-Nawádir, TS, K.) ―         -b2-  Also, <i>He made</i> his travelling-apparatus <i>light,</i> or <i>easy of conveyance;</i> syn. يَسَّرَ. (S, K.) A poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كَيِّتْ جِهَازَكَ اـِمَّا كُنْتَ مُرْتَحِلًا<br>\
+                     <L><br>\
+                        اـِنِّى اَخَافُ عَلَى اَذْوَادِكَ السَّبُعَا<br>\
+                  </quote> [<i>Make thy travelling apparatus light, when thou art departing on a journey; for I fear for thy droves,</i> or <i>troops, of camels, on account of the beast of prey</i>]. (S.)    </entryFree> <br>\
+<b>اَكْيَاتٌ</b>               1     <br>\
+                     اَكْيَاتٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَكْيَاسٌ, [pl. of كَيِّسٌ:] (K:) the Rájiz says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        غَيْر اَعِفَّاءِ وَلَا اَكْيَاتِ<br>\
+                  </quote> [<i>Not such as abstain from things unlawful and unbecoming, nor ingenious,</i> or <i>acute in mind, &amp;amp;c.</i>]. (TA.) See art. س p. 1281 a. Some say, that it it is a word mispronounced: others, that it is formed by the change of س into ت, as in the case of طَسٌّ and طَسْتٌ. (TA.)    </entryFree> <br>\
+<b>كَانَ مِنَ الاَمْرِ كَيْتَ وَكَيْتَ</b>               1     <br>\
+                     كَانَ مِنَ الاَمْرِ كَيْتَ وَكَيْتَ<br>\
+                     ذ<br>\
+                  , and كَيْت <br>\
+                  وَكَيْتِ, (AO, S, K, &amp;amp;c.,) and كيْتُ وَكَيْتُ, (IAth, ISd, IKtt,) i. e. كَذَا وَكَذَا, [<i>Some of the circumstances of the case were thus and thus;</i> or <i>so and so;</i> or <i>such and such things</i>]. (Lth, K.) The ت in كيت is originally ة; (S, K:) as in the case of ذَيْت; these two words being originally كَيَّة and ذَيَّة: (TA:) or the ت in كيت and ذيت is substituted for ى: they are originally كَيَّة and ذَيَّة; and the ة is elided, and the ى which is the last radical letter is changed into ت: so accord. to AHei; and most of the leading authorities on inflexion assert the same. (MF. voce ذَيْتَ.) See ذيت.   </entryFree> <br>\
+' } );

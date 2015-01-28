@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;خ&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>x</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;خ&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>خ</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     خ<br>\
+                     خ<br>\
+                  <i>The seventh letter of the alphabet:</i> called خَا=ءٌ [and خَا (respecting which latter see the letter ب)]. It is one of the letters termed مَهْمُوسَة [or non-vocal, i. e. pronounced with the breath only, without the voice]; and of those termed حَلْقِيَّة [i. e. faucial, or guttural]: its place of utterance is the same as that of غ [which differs from it in being vocal]. (L.)       -A2-  [As a numeral, it denotes <i>Six hundred.</i>]   </entryFree> <br>\
+' } );

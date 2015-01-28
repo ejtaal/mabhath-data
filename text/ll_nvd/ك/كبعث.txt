@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كبعثكَبَعْثَاةٌ The [thing termed] عَفَلٌ of a woman:<br>\
+(K:) a dial. form of قَبَعْثَاةٌ. (TA.)<br>\
+' } );

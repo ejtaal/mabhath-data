@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'يب2<br>\
+خَرَّبُوهُ ويَبَّبُوهُ [They rendered it waste, and<br>\
+made it desolate: see يَبَابٌ]. (A.)<br>\
+يَبَابٌ Vacant; in which there is nothing; (Sh;)<br>\
+in which there is no one. (T.) أَرْضٌ يبابٌ A<br>\
+land that is in a state of rain, or waste, uninhabited, depopulated, deserted, desolate, in a<br>\
+state the contrary of flourishing: (S, K:) an<br>\
+uninhabited land, accord. to some. (Msb.)<br>\
+خَرَابٌ يبابٌ: in this case, the latter word is<br>\
+merely an imitative sequent to the former: (Sh,<br>\
+Msb:) or it is not so; (S;) [and therefore the<br>\
+meaning is A very desolate waste, or the like;<br>\
+يباب being added to strengthen the signification<br>\
+of خراب: or merely a waste, or the like;<br>\
+يباب being an explicative adjunct]. دَارُهُمْ خَرَابْ<br>\
+يَبَابْ لَا حَارِسَ وَلَا بَابْ [Their dwelling is desolate,<br>\
+vacant; there is (to it) neither guard nor door].<br>\
+(A.) حَوْضٌ يبابٌ A tank, or cistern, that is<br>\
+empty; containing no water. (A.) أَمْسَى مِنَ<br>\
+الأَنِيسِ يبابًا It became devoid of inhabitants:<br>\
+occurring in a verse of Ibn-Abee-Rabee&#39;ah. (TA.)<br>\
+' } );

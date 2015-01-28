@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>نتن</em>            1                  نتن<br>\
+<b>نَتْنًا لَهُ</b>               1     <br>\
+                     نَتْنًا لَهُ<br>\
+                     ذ<br>\
+                   and وَا نَتْنَاهُ <br>\
+                  <i>Fye</i> or <i>shame on him</i> or <i>it!</i> See دَفْزٌ.    </entryFree> <br>\
+<b>مِنْتِنٌ</b>               1     <br>\
+                     مِنْتِنٌ<br>\
+                     ذ<br>\
+                  , originally مُنْتِنٌ or مِنْتِينٌ: see مَنْجِزٌ.   </entryFree> <br>\
+' } );

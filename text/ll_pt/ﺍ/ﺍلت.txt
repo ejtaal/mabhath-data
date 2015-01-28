@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;الت&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  الت<br>\
+&lt;entryFree id=&quot;n1054&quot; key=&quot;اَلَتَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَلَتَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;,aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِتَ<br>\
+                  &lt;/form&gt;, inf. n.اَلْتٌ, &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;decreased; diminished; lessened; became defective, deficient, incomplete, or imperfect.&lt;/i&gt; (Msb.)      -A2-  اَلَتَهُ حَقَّهُ, (S, M, A, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِتَ<br>\
+                  &lt;/form&gt;, (S, M, K,) inf. n. اَلْتٌ (S, M) and اـِلَاتَهُ; (M;) and اَلِتَهُ, aor.     <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلَتَ<br>\
+                  &lt;/form&gt;; (Fr;) and ↓ <br>\
+      ا=لتهُ (M, K,) inf. n. اـِيلَاتٌ; (K;) as also اَلَاتَهُ, inf. n. اـِلَاتٌ, (so in a MS. copy of the K,) or اـِلَاتَةٌ; (so in the L: [agreeably with analogy, and therefore probably the correct reading: see art. ليت, to which it belongs: in SM&#39;s copy of the K, and in the CK, the verb is written اَلْاَتَهُ, and the inf. n. اـِلْا=تٌ: by MF, the verb is written ↓ <br>\
+      ا=لَتَهُ, of the measure فَاعَلَ and the inf. n. اـِلَاتٌ like قِتَالٌ:]) [and لَاتَهُ, aor. يَلِيتٌ; and وَلَتَهُ; and اَوْلَتَهُ;] &lt;i&gt;He diminished to him his right, or due; abridged him, or defrauded him, of a portion of it:&lt;/i&gt; (Fr, S, M, A, K:) and in like manner, اَلَتَهُ مَالَهُ and ↓ <br>\
+      ا=لتهُ, &amp;amp;c., &lt;i&gt;he diminished to him his property; or abridged him, or defrauded him, of a portion of it:&lt;/i&gt; (M, TA:) and اَلَتَ الشَّىْءَ <br>\
+                  &lt;i&gt; he diminished the thing.&lt;/i&gt; (Msb.) [Hence,] مَا اَلْتَنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَىْءٍ [in the Kur lii. 21, &lt;i&gt;We will not diminish to them aught of&lt;/i&gt; the reward &lt;i&gt;of their work]:&lt;/i&gt; (T, A:) or, accord. to one reading, (that of Ibn-Ketheer, TA,) ما اَلِتْنَاهُمْ. (T, TA.) [See also art. ليت.]      -A3-  اَلَتَهُ, (T, S, K,) or اَلَتَهُ عَنْ وَجْهِهِ, (TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِتَ<br>\
+                  &lt;/form&gt; (T;) as also لَاتَهُ; these being two dial. vars. one of the other, mentioned by Yz, on the authority of AA; (S;) [and اَلَاتَهُ; (see art. ليت;)] &lt;i&gt;He withheld him, or restrained him,&lt;/i&gt; (S, K,) and &lt;i&gt;turned him, or averted him,&lt;/i&gt; (T, S, K,) &lt;i&gt;from his course, purpose, or object.&lt;/i&gt; (S, TA.)      -A4-  اَلَتَهُ, (M, K,) or اَلَتَهُ يَمِينًا, (As, T, S,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِتَ<br>\
+                  &lt;/form&gt; inf. n. اَلْتٌ, &lt;i&gt;He made him to swear, or take an oath:&lt;/i&gt; (As, T, S, K:) or &lt;i&gt;he desired of him that he should swear, or give his testimony, for him.&lt;/i&gt; (M, K.) And اَلَتَهُ بِيَمِينٍ, inf. n. as above, &lt;i&gt;He pressed him,&lt;/i&gt; or &lt;i&gt;pressed hard upon him, with an oath.&lt;/i&gt; (M.) It is related that a man said to &#39;Omar, &quot;Fear God, O prince of the faithful:&quot; and another, hearing him, said, اَتَاْلِتُ عَلَى اَمِيرِ المُوْمِنِينَ, meaning &lt;i&gt;Dost thou lower the dignity of the prince of the faithful? or dost thou diminish to him [the respect that is due to him&lt;/i&gt;]? accord. to IAar.: or rather, &lt;i&gt;dost thou conjure the prince of the faithful?&lt;/i&gt; his saying &quot;Fear God&quot; being as though he conjured him by God: for the Arabs say, اَلَتُّكَ بِاللّٰهِ لَمَّا <br>\
+                  فَعَلْتَ كَذَا, meaning &lt;i&gt;I conjure thee by God but that thou do thus, or such a thing.&lt;/i&gt; (T.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     اَاْلَتَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=لَتَ<br>\
+                  &lt;/form&gt; see 1, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1055&quot; key=&quot;اَلْتٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلْتٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Deficiency:&lt;/i&gt; as in the saying, مَا فِى مَزَاوِدِهِمْ <br>\
+                  اَلْتٌ [&lt;i&gt;There is not, in their provision-bags, any deficiency&lt;/i&gt;]. (A.)       -A2-  &lt;i&gt;A swearing;&lt;/i&gt; syn. حَلِفٌ (M, TA.) [Perhaps an inf. n. in this sense.] ―         -b2-  &lt;i&gt;An oath:&lt;/i&gt; as in the saying, when one has not given thee thy right, or due, قَيِّدْهُ بِالْاَلْتِ [&lt;i&gt;Bind thou him by oath&lt;/i&gt;]. (T.)       -A3-  &lt;i&gt;Calumny, slander,&lt;/i&gt; or &lt;i&gt;false accusation.&lt;/i&gt; (Kr, M, K.) [Perhaps an inf. n. in this sense also.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1056&quot; key=&quot;اُلْتَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُلْتَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A small gift.&lt;/i&gt; (AA, T, K.)       -A2-  &lt;i&gt;An oath such as is termed&lt;/i&gt; <br>\
+                  غَمُوس, q. v. (AA, T, K.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>لذب</em>            1                  لذب<br>\
+<b>لَذَبَ</b>               1     <br>\
+                     لَذَبَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَذُبَ<br>\
+                  , inf. n. لُذُوبٌ; and ↓ <br>\
+      لَاذَبَ; <i>He remained, stayed, abode,</i> or <i>dwelt,</i> in a place: (K:) or correctly written with د, unpointed: but IDrd doubts whether correctly with ذ or with د. (TA.) See also لَزَبَ.    </entryFree> <br>\
+                     لَاْذَبَ<br>\
+                   see 1.   </entryFree> <br>\
+            <div2 n=&quot;l*E l*m l*Y&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لذع لذم لذى<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

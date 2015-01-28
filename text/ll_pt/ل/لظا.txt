@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لظا</em>            1                  لظا<br>\
+<b>لَظَاٌ</b>               1     <br>\
+                     لَظَاٌ<br>\
+                     ذ<br>\
+                  <i>A little</i> (<i>and mean,</i> or <i>contemptible,</i> TA) <i>thing; a little.</i> (K.)   </entryFree> <br>\
+' } );

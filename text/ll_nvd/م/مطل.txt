@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'مطل1<br>\
+مَطَلَهُ بِدَيْنِهِ<br>\
+, inf. n. مَطْلٌ, and ↓ مَا طَلَهُ, inf. n.<br>\
+مَطَالٌ, He delayed, or deferred, with him, or put<br>\
+him off, in the matter of his debt, by promising<br>\
+time after time to pay him. (Msb.) See دَافَعْتُهُ<br>\
+and سَوَّفَهُ.<br>\
+3<br>\
+مَاْطَلَ<br>\
+see 1.<br>\
+مَطُولٌ<br>\
+Much given to delaying, or deferring,<br>\
+with a creditor, or putting him off, in the matter<br>\
+of a debt, by promising time after time to pay<br>\
+him. (Msb.)<br>\
+مَمْطُولٌ<br>\
+Iron, or a sword, (Az, TA,) beaten<br>\
+into a long shape: (Az, K:) or anything extended, elongated, or lengthened. (S.)<br>\
+' } );

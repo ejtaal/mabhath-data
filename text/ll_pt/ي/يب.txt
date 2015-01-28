@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>يب</em>            1                  يب<br>\
+<b>خَرَّبُوهُ ويَبَّبُوهُ</b>               1     <br>\
+                     خَرَّبُوهُ ويَبَّبُوهُ<br>\
+                     ذ<br>\
+                   [<i>They rendered it waste, and made it desolate:</i> see يَبَابٌ]. (A.)    </entryFree> <br>\
+<b>يَبَابٌ</b>               1     <br>\
+                     يَبَابٌ<br>\
+                     ذ<br>\
+                  <i>Vacant; in which there is nothing;</i> (Sh;) <i>in which there is no one.</i> (T.) اَرْضٌ يبابٌ <br>\
+                  <i>A land that is in a state of rain,</i> or <i>waste, uninhabited, depopulated, deserted, desolate, in a state the contrary of flourishing:</i> (S, K:) <i>an uninhabited land,</i> accord. to some. (Msb.) خَرَابٌ يبابٌ: in this case, the latter word is merely an imitative sequent to the former: (Sh, Msb:) or it is not so; (S;) [and therefore the meaning is <i>A very desolate waste,</i> or <i>the like;</i> <br>\
+                  يباب being added to strengthen the signification of خراب: or merely <i>a waste,</i> or <i>the like;</i> <br>\
+                  يباب being an explicative adjunct]. دَارُهُمْ خَرَابْ <br>\
+                  يَبَابْ لَا حَارِسَ وَلَا بَابْ [<i>Their dwelling is desolate, vacant; there is</i> (<i>to it</i>) <i>neither guard nor door</i>]. (A.) حَوْضٌ يبابٌ <br>\
+                  <i>A tank,</i> or <i>cistern, that is empty; containing no water.</i> (A.) اَمْسَى مِنَ <br>\
+                  الاَنِيسِ يبابًا <br>\
+                  <i>It became devoid of inhabitants:</i> occurring in a verse of Ibn-Abee-Rabee&#39;ah. (TA.)   </entryFree> <br>\
+' } );

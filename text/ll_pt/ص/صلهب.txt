@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>صلهب</em>            1                  صلهب<br>\
+<b>اِصْلَهَبَّتِ الاَشْيَا=ءُ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اِصْلَهَبَّتِ الاَشْيَا=ءُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اِمْتَدَّتْ عَلَى جِهَتِهَا [<i>The things extended in their proper direction</i>]. (K. [In the O, اِشْتَدَّتْ is put in the place of امتدّت. Compare اِسْلَهَبَّ.])    </entryFree> <br>\
+<b>صَلْهَبٌ</b>               1     <br>\
+                     صَلْهَبٌ<br>\
+                     ذ<br>\
+                   A <i>tall</i> man; (As, IJ, O, K;) and so سَلْهَبٌ [q. v.]; (IJ, TA;) as also ↓ <br>\
+      مُصْلَهِبٌّ or ↓ <br>\
+      مُصَلْهَبٌ. (K accord. to different copies.) ―         -b2-  And A <i>strong</i> camel; (K;) and so ↓ <br>\
+      صَلَهْبًى, (ElUmawee, S, K,) in which the final letter is [not a sign of the fem. gender but] to render the word quasi-coordinate to the quadriliteral-radical class; (S;) fem. صَلْهَبَةٌ (TA) and ↓ <br>\
+      صَلَهْبَاةٌ: (S, K:) pl. صَلَاهِبُ. (AA, O, TA.) ―         -b3-  And A <i>large,</i> or <i>great,</i> house or tent. (Lth, O, K.) ―         -b4-  And A <i>hard</i> stone; as also ↓ <br>\
+      صُلَاهِبٌ. (AA, TA.)    </entryFree> <br>\
+<b>صَلَهْبًى</b>               1     <br>\
+                     صَلَهْبًى<br>\
+                     ذ<br>\
+                  , and its fem.: see the next preceding paragraph.    </entryFree> <br>\
+<b>صُلَاهِبٌ</b>               1     <br>\
+                     صُلَاهِبٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>مُصْلَهِبٌّ</b>               1     <br>\
+                     مُصْلَهِبٌّ<br>\
+                     ذ<br>\
+                   or مُصَلْهَبٌ: see the next preceding paragraph.   </entryFree> <br>\
+' } );

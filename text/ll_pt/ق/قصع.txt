@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>قصع</em>            1                  قصع<br>\
+<b>قَصَعَ</b>               1     <br>\
+                     قَصَعَ<br>\
+                     ذ<br>\
+                  : see an ex. voce صَادَّةٌ.    </entryFree> <br>\
+<b>قَصْعَةٌ</b>               1     <br>\
+                     قَصْعَةٌ<br>\
+                     ذ<br>\
+                  <i>A bowl not so large as a</i> <br>\
+                  جَفْنَة, <i>but next to it in size, that satisfies ten:</i> (S, voce صَحْفَة:) it is <i>a wooden bowl.</i> ―         -b2-  قَصْعَةُ المَسَاكِينِ: see الفَكَّةُ.    </entryFree> <br>\
+<b>اَخَذْتُهُ مُقَاصَعَةً</b>               1     <br>\
+                     اَخَذْتُهُ مُقَاصَعَةً<br>\
+                     ذ<br>\
+                  : see مُعَاقَصَة.   </entryFree> <br>\
+' } );

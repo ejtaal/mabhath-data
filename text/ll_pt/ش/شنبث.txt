@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>شنبث</em>            1                  شنبث<br>\
+<b>شَنْبَثَ الهَوَى قَلْبَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     شَنْبَثَ الهَوَى قَلْبَهُ<br>\
+                     ذ<br>\
+                  , (S and L in art. شبث, as Q. Q., and K in the present art.,) inf. n. شَنْبَثَةٌ, (S, L,) <i>Love clave to his heart.</i> (S, L, K.)    </entryFree> <br>\
+<b>الشَّنْبَثُ</b>               1     <br>\
+                     الشَّنْبَثُ<br>\
+                     ذ<br>\
+                  <i>The lion;</i> as also ↓ <br>\
+      الشُّنَابِثُ. (K.)    </entryFree> <br>\
+<b>شُنَابِثٌ</b>               1     <br>\
+                     شُنَابِثٌ<br>\
+                     ذ<br>\
+                  <i>Thick, gross, big, bulky, coarse,</i> or <i>rough;</i> syn. غَلِيظٌ. (K.) ―         -b2-  See also الشَّنْبَثُ.   </entryFree> <br>\
+' } );

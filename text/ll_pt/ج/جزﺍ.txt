@@ -1,0 +1,114 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جزا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جزا<br>\
+&lt;entryFree id=&quot;n5670&quot; key=&quot;جَزَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     جَزَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَزَاَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. جَزْءٌ, (S,) &lt;i&gt;He divided it&lt;/i&gt; (a thing, S) &lt;i&gt;into parts,&lt;/i&gt; or &lt;i&gt;portions;&lt;/i&gt; (S, K;) &lt;i&gt;made it to consist of parts,&lt;/i&gt; or &lt;i&gt;portions;&lt;/i&gt; (S, Msb;) as also ↓ <br>\
+      جزّاهُ, (S, * Msb, K,) inf. n. تَجْزِيَةٌ, (S,) or تَجْزِىْءٌ: (Msb:) when that which is divided is property, as, for instance, slaves, only this latter form of the verb, with teshdeed, is used. (TA.) ―         -b2-  Also, aor. and inf.n. as above, &lt;i&gt;He took a part,&lt;/i&gt; or &lt;i&gt;portion, of it;&lt;/i&gt; namely, a thing. (Ham p. 117.) And جَزَاَ الشِّعْرَ, inf. n. as above; and ↓ <br>\
+      جزّاهُ; &lt;i&gt;He curtailed the poetry of two feet in each verse:&lt;/i&gt; or &lt;i&gt;he made the poetry to consist of two feet in each verse.&lt;/i&gt; (TA. [See مَجْزُوْءٌ.])       -A2-  Also &lt;i&gt;He made it firm, fast,&lt;/i&gt; or &lt;i&gt;strong;&lt;/i&gt; or &lt;i&gt;he bound it firmly, fast,&lt;/i&gt; or &lt;i&gt;strongly;&lt;/i&gt; (شَدَّهُ;) namely, a thing. (K.)       -A3-  جَزَاَ بِهِ, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَزَاَ<br>\
+                  &lt;/form&gt;, (TA,) inf. n. جَزْءٌ, (S,) [and app. جُزْءٌ also,] &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, satisfied,&lt;/i&gt; or &lt;i&gt;content, with it;&lt;/i&gt; namely, a thing; (S, K;) as also جَزِىءَ, a dial. var. mentioned by IAar; (TA;) and به ↓ <br>\
+      اجتزا, (S, Msb, K,) and به ↓ <br>\
+      تجزّا. (S, K.) A poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَاـِنَّ المَرْءَ يَجْزَاُ بِالكُرَاعِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And verily the man is satisfied,&lt;/i&gt; or &lt;i&gt;content, with the shank of the sheep&lt;/i&gt; or &lt;i&gt;goat&lt;/i&gt; &amp;amp;c.]. (TA.) And you say طَعَامٌ لَا جَزْءَ لَهُ <br>\
+                  &lt;i&gt;Food whereof one is not satisfied with a little.&lt;/i&gt; (TA.) And لَهُ فِى هٰذَا <br>\
+                  غَنَا=ءٌ وَجُزْءٌ [&lt;i&gt;He has, in this, competence and&lt;/i&gt;] &lt;i&gt;sufficiency.&lt;/i&gt; (Mgh.) And جَزَاَتِ الاـِبِلُ بِالرُّطْبِ عَنِ المَا=ءِ, (S, Mgh, K,) or [simply] جَزَاَتِ الاـِبِلُ, (Har p. 475,) inf. n. جُزْءٌ, with damm, (S, TA,) and جُزُوْءٌ; (TA;) and جَزِيَت, (IAar, K,) and ↓ <br>\
+      اجتزات; (Mgh, and Har ubi suprà;) &lt;i&gt;The camels were satisfied,&lt;/i&gt; or &lt;i&gt;content, with green,&lt;/i&gt; or &lt;i&gt;fresh, pasture&lt;/i&gt; or &lt;i&gt;herbage&lt;/i&gt; [&lt;i&gt;so as to be in no need of water&lt;/i&gt;]. (S, Mgh, K, TA.) And عَنِ اْمْرَاَتِهِ ↓ <br>\
+      اجتزا [&lt;i&gt;He was content to abstain from,&lt;/i&gt; or &lt;i&gt;be without, conjugal intercourse with his wife&lt;/i&gt;]. (M in art. ابل.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     جَزَّاَ<br>\
+                  &lt;/form&gt; see 1, in two places:       -A2-  and see also 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5671&quot; key=&quot;اجزاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اجزاهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;satisfied, sufficed,&lt;/i&gt; or &lt;i&gt;contented, him.&lt;/i&gt; (S, Mgh, K.) [Hence,] اجزا مُجْزَى <br>\
+                  غَيْرِهِ [or مُجْزَاَ غَيْرِهِ] &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;satisfied, sufficed,&lt;/i&gt; or &lt;i&gt;contented, in lieu of another thing&lt;/i&gt; or &lt;i&gt;other things; stood,&lt;/i&gt; or &lt;i&gt;served, in stead thereof.&lt;/i&gt; (Msb.) And اَجْزَاْتُ عَنْكَ مُجْزَاَ فُلَانٍ (S, Mgh, K) and مَجْزَاَ <br>\
+                  فلان and مُجْزَاَةَ فلان and مَجْزَاَةَ فلان, (S, K,) as also مُجْزَى فلان and مُجْزَاةَ فلان without ء and with damm, and مَجْزَى فلان and مَجْزَاةَ فلان, (K in art. جزى,) &lt;i&gt;I satisfied, sufficed,&lt;/i&gt; or &lt;i&gt;con tented, thee as such a one; I stood thee,&lt;/i&gt; or &lt;i&gt;served thee, in stead of such a one.&lt;/i&gt; (S, Mgh, K.) And اجزا الاـِبِلَ بِالرُّطْبِ عَنِ المَا=ءِ, (S, K,) inf. n. اـِجْزَا=ءٌ; (TA;) and ↓ <br>\
+      جزّاها, (S, K,) inf. n. تَجْزِيَةٌ, (S,) or تَجْزِىْءٌ; (TA;) &lt;i&gt;He satisfied,&lt;/i&gt; or &lt;i&gt;contented, the camels with green,&lt;/i&gt; or &lt;i&gt;fresh, pasture&lt;/i&gt; or &lt;i&gt;hesrbage&lt;/i&gt; [&lt;i&gt;so that they were in no need of water&lt;/i&gt;]. (S, K.) ―         -b2-  اجزا is also &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  جَزَى; the former being of the dial. of Temeem, and the latter of the dial. of El-Hijáz; (Akh, Msb;) and one may suppress the ء, and say اَجْزَى: (Mgh, Msb:) this last is used by some of the lawyers in the sense of [جَزَى, i. e.] قَضَى. (Az, Mgh, Msb.) One says, اَجْزَاَتٌ <br>\
+                  عَنْكَ شَاةٌ <br>\
+                  &lt;i&gt;A sheep,&lt;/i&gt; or &lt;i&gt;goat, made satisfaction for thee&lt;/i&gt; (S, Msb, * K, TA) as a sacrifice; (TA;) syn. قَضَتْ; (S, Msb, K;) the verb being here a dial. var. of جَزَتْ. (S, K.) And البَدَنَةُ تَجْزِيُ عَنْ <br>\
+                  سَبْعَةٍ <br>\
+                  &lt;i&gt;The camel,&lt;/i&gt; or &lt;i&gt;cow, makes satisfaction for seven:&lt;/i&gt; or &lt;i&gt;serves in stead of seven.&lt;/i&gt; (Mgh.) And هٰذَا يُجْزِي ُعَنْ هٰذَا [&lt;i&gt;This will make satisfaction, for this:&lt;/i&gt; or &lt;i&gt;this will serve in stead of this&lt;/i&gt;]: and, accord. to &#39;Alee Ibn-&#39;Eesà, يُجْزِى also, suppressing the ء (Mgh.) ―         -b3-  Also, said of pasture, or herbage, (K, TA,) and of a meadow, (TA,) (tropical:) &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, luxuriant:&lt;/i&gt; (K, TA:) because satisfying the beasts that feed upon it. (TA.) ―         -b4-  And, said of a company of men, &lt;i&gt;They had their camels satisfied with green,&lt;/i&gt; or &lt;i&gt;fresh, pasture&lt;/i&gt; or &lt;i&gt;herbage&lt;/i&gt; [&lt;i&gt;so that they were in no need of water&lt;/i&gt;]. (TA.)       -A2-  اَجْزَاَتْ <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;brought forth&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;418&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;females.&lt;/i&gt; (K. [But see جُزْءٌ, from which it is derived.])       -A3-  اجزا <br>\
+                  &lt;i&gt;He furnished&lt;/i&gt; an awl (مِخْصَف, S, K, or اـِشْفَى, S), (S, K,) or a knife, (Msb,) &lt;i&gt;with a&lt;/i&gt; <br>\
+                  جُزْاَة, i. e. &lt;i&gt;handle;&lt;/i&gt; (S, Msb, K;) as also اجزى. (Msb.) ―         -b2-  اجزا الخَاتَمَ فِىاـِصْبَعِهِ <br>\
+                  &lt;i&gt;He put the ring upon his finger.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5672&quot; key=&quot;تجزّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تجزّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;It became divided into parts,&lt;/i&gt; or &lt;i&gt;portions.&lt;/i&gt; (Msb, KL.)       -A2-  See also 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِجْتَزَاَ<br>\
+                  &lt;/form&gt; see 1, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5673&quot; key=&quot;جَزْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَزْءٌ<br>\
+                     جزء<br>\
+                  &lt;/form&gt;: see جُزْءٌ.       -A2-  It is said by El-Khattábee to be a name for رُطب [app. meaning رُطْبٌ, i. e. &lt;i&gt;Green,&lt;/i&gt; or &lt;i&gt;fresh, pasture&lt;/i&gt; or &lt;i&gt;herbage,&lt;/i&gt; (see 1 and 4,)], with the people of El-Medeeneh; and occurs in a trad.; but the reading commonly known is جرو. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5674&quot; key=&quot;جُزْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُزْءٌ<br>\
+                     جزء<br>\
+                  &lt;i&gt;A part,&lt;/i&gt; or &lt;i&gt;portion,&lt;/i&gt; (Msb, K, TA,) or &lt;i&gt;division,&lt;/i&gt; (TA,) of a thing; (Msb, TA;) properly and conventionally; (TA;) as also ↓ <br>\
+      جَزْءٌ; (K;) &lt;i&gt;a constituent part&lt;/i&gt; of a thing, as of a ship, and of a house or tent, and of a sum in reckoning; (B, TA;) [&lt;i&gt;an ingredient&lt;/i&gt; of any compound or mixture;] &lt;i&gt;a share,&lt;/i&gt; or &lt;i&gt;lot:&lt;/i&gt; (TA:) pl. اَجْزَا=ءٌ: (S, Msb, K, &amp;amp;c. :) it has no other pl. (Sb, TA.) ―         -b2-  [&lt;i&gt;A volume&lt;/i&gt; of a book.] ―         -b3-  &lt;i&gt;A foot&lt;/i&gt; of a verse. (TA.) ―         -b4-  In the Kur [xliii. 14], where it is said, وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا, (K, TA,) or, as some read, جُزُءًا, (Bd,) it means &lt;i&gt;Females;&lt;/i&gt; (K, TA;;) i. e., they asserted the angels to be the daughters of God: so says Th: and Aboo-Is-hák says that it means, they asserted God&#39;s share of offspring to be the females; but that he had not found this in old poetry, nor had persons worthy of confidence related it on the authority of the Arabs [of the classical times]: Z disallows it, asserting it to be a lie against the Arabs; and Bd follows him: El-Khafájee says that the word may be used figuratively; for, as Eve was created of a part (جُزْء) of Adam, the word جزء may be applied to denote the female. (MF, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5675&quot; key=&quot;جُزْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُزْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;handle&lt;/i&gt; of the [kind of awl called] مِخْصَف, (S, K,) and of the اـِشْفِى: (S:) AZ says that it is not [the handle, or hilt,] of the sword, nor of the dagger; but is the &lt;i&gt;handle&lt;/i&gt; of the مِيْثَرَة with which camels&#39; feet are branded. (TA.) [See also ضَبَّةٌ.] ―         -b2-  &lt;i&gt;A vine-prop;&lt;/i&gt; (K, TA;) &lt;i&gt;a piece of wood with which a vine is raised from the ground.&lt;/i&gt; (TA.) ―         -b3-  In the dial. of the tribe of Sheybán, The &lt;i&gt;hinder,&lt;/i&gt; or &lt;i&gt;hindermost,&lt;/i&gt; <br>\
+                  شُقَّة [or &lt;i&gt;oblong piece of cloth&lt;/i&gt;] &lt;i&gt;of a tent.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5676&quot; key=&quot;جُزْيِىٌّ&quot; type=&quot;main&quot;&gt;               1[     <br>\
+                     جُزْيِىٌّ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Relating to a part&lt;/i&gt; or &lt;i&gt;portion&lt;/i&gt; or &lt;i&gt;division; partial; particular; contr. of&lt;/i&gt; <br>\
+                  كُلِّىٌّ. ―         -b2-  And, as a subst., &lt;i&gt;A particular:&lt;/i&gt; pl. جُزْيِيَّاتٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5677&quot; key=&quot;جُزْيِيَّةٌ&quot; type=&quot;main&quot;&gt;               1[     <br>\
+                     جُزْيِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;quality of relating to a part&lt;/i&gt; or &lt;i&gt;portion&lt;/i&gt; or &lt;i&gt;division; relation to a part&lt;/i&gt; &amp;amp;c.; &lt;i&gt;particularity.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5678&quot; key=&quot;جَزِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَزِىْءٌ<br>\
+                     جزىء<br>\
+                     جزيء<br>\
+                     جزي<br>\
+                  &lt;i&gt;Satisfying&lt;/i&gt; food; as also ↓ <br>\
+      مُجْزِيٌ; (Fr, K;) like شَبِيعٌ and مُشْبِعٌ. (Fr, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5679&quot; key=&quot;جَازِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَازِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [act. part. n. of 1]. ―         -b2-  هٰذَا رَجُلٌ جَازِيُكَ <br>\
+                  مِنْ رَجُلٍ <br>\
+                  &lt;i&gt;This is a man sufficing thee as a man.&lt;/i&gt; (K, * TA.) ―         -b3-  ظَبْيَةٌ جَازِيَةٌ <br>\
+                  &lt;i&gt;A doe-gazelle that is satisfied with green,&lt;/i&gt; or &lt;i&gt;fresh, pasture&lt;/i&gt; or &lt;i&gt;herbage&lt;/i&gt; [&lt;i&gt;so as to be in no need of water&lt;/i&gt;]: pl. جَوَازِيُ. (S.) The pl. is explained by IKt as meaning &lt;i&gt;Gazelles:&lt;/i&gt; (TA:) [or] it signifies [or signifies also] &lt;i&gt;Wild bulls&lt;/i&gt; or &lt;i&gt;cows;&lt;/i&gt; (K, TA;) because they are satisfied with green, or fresh, pasture or herbage so as to be in no need of water. (TA.) Also, the pl., &lt;i&gt;Palm-trees;&lt;/i&gt; as not needing irrigation. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5680&quot; key=&quot;اَجْزَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجْزَاُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;More&lt;/i&gt; [and &lt;i&gt;most&lt;/i&gt;] &lt;i&gt;satisfying&lt;/i&gt; or &lt;i&gt;sufficing&lt;/i&gt; or &lt;i&gt;satisfactory:&lt;/i&gt; hence, الفَارِسُ اَجْزَاُ مِنَ الرَّاجِلِ [&lt;i&gt;The horseman is more satisfactory than the footman&lt;/i&gt;]. (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5681&quot; key=&quot;مَجْزَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَجْزَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مُجْزَاٌ are used as inf. ns. of 4 [q. v.]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5682&quot; key=&quot;مُجْزِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُجْزِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see جَزِىْءٌ. ―         -b2-  Also A &lt;i&gt;strong, fat,&lt;/i&gt; camel; because sufficing for the wants of the rider and carrier. (TA.)       -A2-  Also, and مُجْزِيَةٌ, A woman &lt;i&gt;who brings forth females.&lt;/i&gt; (TA. [But see جُزْءٌ, from which the verb is derived.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5683&quot; key=&quot;مَجْزَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَجْزَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مُجْزَاَةٌ are used as inf. ns. of 4 [q. v.]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5684&quot; key=&quot;مَجْزُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَجْزُوْءٌ<br>\
+                     مجز<br>\
+                     مجزوء<br>\
+                  &lt;i&gt;Divided into parts,&lt;/i&gt; or &lt;i&gt;portions.&lt;/i&gt; (TA.) ―         -b2-  [&lt;i&gt;Having a part,&lt;/i&gt; or &lt;i&gt;portion, taken from it:&lt;/i&gt; see 1.] ―         -b3-  A verse &lt;i&gt;curtailed of two&lt;/i&gt; [&lt;i&gt;of the original&lt;/i&gt;] &lt;i&gt;feet:&lt;/i&gt; [like the هَزَج and مُضَارِع &amp;amp;c., which were originally of six feet each, but of which every known example is of four only:] or a verse &lt;i&gt;consisting of two feet only:&lt;/i&gt; [as a kind of the رَجَز, and two kinds of the مُنْسَرِح: to each of which, or, accord. to some, to the former of which only, when thus consisting of only two feet, the term مَنْهُوكٌ is also applied:] the former is said to be عَلَى السَّلْبِ; and the latter, عَلَى <br>\
+                  الوُجُوبِ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

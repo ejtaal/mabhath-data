@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>غرضف</em>            1                  غرضف<br>\
+<b>غُرْضُوفٌ</b>               1     <br>\
+                     غُرْضُوفٌ<br>\
+                     ذ<br>\
+                   and غُضْرُوفٌ [<i>A cartilage;</i>] <i>any soft bone,</i> (T, S, * O, K, TA,) <i>such as is,</i> or <i>may be, eaten:</i> (T, O, K, TA:) pl. غَرَاضِيفُ (O, K, TA) and غَضَارِيفُ. (O, TA.) The مَارِن (O, K, TA) i. e. [the <i>soft,</i> or <i>cartilaginous, part,</i>] the <i>firm part that is harder than flesh and softer than bone,</i> (TA,) <i>of the nose,</i> (O, K, TA,) is thus called. (O.) And [<i>Any one of</i>] <i>the heads of the</i> <br>\
+                  <i>ribs</i> [i. e. <i>of the costal cartilages</i>]. (O, K.) And The رَهَابَة [or <i>ensiform cartilage</i>] <i>of the chest.</i> (O, K.) And The [<i>fibro-cartilage</i> or] <i>part within the</i> <br>\
+                  قُوف [or <i>helix</i>] <i>of the ear.</i> (O, K.) And The نُغْض [q. v.] <i>of the shoulder-blade.</i> (O, K.) And الغُرْضُوفَانِ signifies <i>The borders,</i> or <i>extremities, of the upper parts of the two shoulder-blades</i> of the horse; <i>what is thin, of the hard substance</i> (lit. <i>of the hardness), of the bone.</i> (TA.) And they (وَهُمَا [i. e. the غُرْضُوفَانِ]) are <i>Two sinews,</i> or <i>the like,</i> (عَصَبَتَانِ, [perhaps, by a somewhat-strained license, applied here to the <i>two tarsal cartilages,</i>] <i>in the borders,</i> or <i>extremities, of the inferior parts of the two eyes.</i> (TA.) ―         -b2-  And الغُرْضُوفَانِ signifies [also] <i>The two pieces of wood that are bound on the right and left between the</i> <br>\
+                  وَاسِط [or <i>fore part</i>] <i>and the</i> <br>\
+                  ا=خِرَة [or <i>hinder part</i>] <i>of the</i> [<i>camel&#39;s saddle called</i>] رَحْل. (O, K.)   </entryFree> <br>\
+' } );

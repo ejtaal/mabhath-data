@@ -1,0 +1,34 @@
+load_data( { book: 'll_nvd', text: 'حكل1<br>\
+حَكَلَ: see what next follows.<br>\
+4<br>\
+احكل عَلَىَّ الخَبَرُ The information was<br>\
+dubious, confused, or vague, to me; (Zj, S, K;)<br>\
+as also ↓ حَكَلَ, (K,) and ↓ احتكل: (S, * K, * TA:)<br>\
+and احكل الأَمْرُ (Msb) and ↓ احتكل The affair,<br>\
+or case, was dubious, or confused, (Msb, TA,)<br>\
+عَلَيْهِ to him. (TA.)<br>\
+8<br>\
+احتكل: see 4, in two places. ―<br>\
+-b2-  Also He<br>\
+learned a foreign language after Arabic. (Fr, K.)<br>\
+حُكْلٌ, [app. a pl., of which the sing. is not<br>\
+used; as though its sing. were أَحْكَلُ; like خُرْسٌ,<br>\
+pl. of أَخْرَسُ;] of animals, (TA,) Having no<br>\
+voice, or sound, to be heard; (S, K, TA;) like<br>\
+the ذَرّ [or young ones of ants], (K,) and نَمْل [or<br>\
+ants in general]: or the mute of birds and beasts.<br>\
+(TA.)<br>\
+-A2-  الحُكْلُ is also [said to be] a name of<br>\
+Solomon: (K:) so, accord. to Lth, in the rejez<br>\
+of Ru-beh, where he says,<br>\
+لَوْ أَنَّنِى أُتِيتُ عِلْمَ الحُكْلِ<br>\
+[Were I gifted with the knowledge of Solomon].<br>\
+(TA.)<br>\
+حُكْلَةٌ A barbarousness, or vitiousness, in speech<br>\
+or utterance; or an impediment therein; (S,<br>\
+Msb, K;) so that one does not speak distinctly.<br>\
+(S.) You say, فِى لِسَانِهِ حُكْلَةٌ [In his speech, or<br>\
+utterance, is a barbarousness, &amp;c.]. (S.)<br>\
+حُكَلَةٌ: see حُلَكَةٌ.<br>\
+حَكِيلَةٌ A mispronunciation; or a word mispronounced; syn. لُثْغَةٌ. (TA.)<br>\
+' } );

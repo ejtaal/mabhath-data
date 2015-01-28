@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قدس</em>            1                  قدس<br>\
+<b>قَادُوسٌ</b>               1     <br>\
+                     قَادُوسٌ<br>\
+                     ذ<br>\
+                   (pl. قَوَادِيسُ) <i>An earthen</i> or <i>wooden pot of a water-wheel.</i> (PU.)   </entryFree> <br>\
+' } );

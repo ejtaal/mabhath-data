@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قرمل</em>            1                  قرمل<br>\
+<b>قِرْمِلٌ</b>               1     <br>\
+                     قِرْمِلٌ<br>\
+                     ذ<br>\
+                  , pl. قَرَامِلُ: see سُفَّةٌ.   </entryFree> <br>\
+' } );

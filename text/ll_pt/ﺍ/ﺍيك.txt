@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ايك&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ايك<br>\
+&lt;entryFree id=&quot;n1607&quot; key=&quot;اَيِكَ الاَرَاكُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَيِكَ الاَرَاكُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَيَكَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;The&lt;/i&gt; [&lt;i&gt;trees called&lt;/i&gt;] اراك <br>\
+                  &lt;i&gt;became what is termed&lt;/i&gt; <br>\
+                  اَيْكَة [n. un. of اَيْكٌ, q. v.]; as also ↓ <br>\
+      استايك. (K.) The former occurs in poetry contracted into اَيْكَ. (ISd, Sgh.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَاْيَكَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1608&quot; key=&quot;اَيْكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْكٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Numerous, luxuriant&lt;/i&gt; or &lt;i&gt;tangled&lt;/i&gt; or &lt;i&gt;dense, trees:&lt;/i&gt; (S, K:) or &lt;i&gt;a place where water collects and sinks into the ground&lt;/i&gt; (غَيْضَةٌ) &lt;i&gt;producing&lt;/i&gt; [&lt;i&gt;trees of the kinds called&lt;/i&gt;] سِدْر and اَرَاك (Lth, K) &lt;i&gt;and similar soft trees:&lt;/i&gt; (Lth:) or &lt;i&gt;a collection of any trees;&lt;/i&gt; even, &lt;i&gt;of palm-trees:&lt;/i&gt; (K:) or, as some say, &lt;i&gt;a place where&lt;/i&gt; [&lt;i&gt;trees of the kind called&lt;/i&gt;] اَثْل <br>\
+                  &lt;i&gt;grow, and where is a collection of them:&lt;/i&gt; or, accord. to AHn, &lt;i&gt;an abundant collection of&lt;/i&gt; <br>\
+                  اَرَاك <br>\
+                  &lt;i&gt;in one place:&lt;/i&gt; (TA:) or &lt;i&gt;trees;&lt;/i&gt; said to be &lt;i&gt;of the&lt;/i&gt; [&lt;i&gt;kind called&lt;/i&gt;] اَرَاك: (Msb:) n. un. with ة: (S, Msb, K, &amp;amp;c.:) IAar says, [you say,] اَيْكَةٌ <br>\
+                  اَثْلٍ and رَهْطٌ, and قَصِيمَةٌ. (Sh.) اَصْحَابُ اْلْاَيْكَةِ occurs in the Kur in four chapters: [xv. 78 and xxvi. 176 and xxxviii. 12 and 1.13:] (Sgh:) he who reads thus means, by the latter word, الغَيْضَة [explained above, and also signifying &lt;i&gt;the thicket,&lt;/i&gt; or &lt;i&gt;collection of tangled trees,&lt;/i&gt; &amp;amp;c.]; (S, K;) or &lt;i&gt;the tangled,&lt;/i&gt; or &lt;i&gt;luxuriant,&lt;/i&gt; or &lt;i&gt;abundant and dense, trees:&lt;/i&gt; (TA:) another reading is لَيْكَةَ; accord. to which, this is the name of the town [in which the people here mentioned dwelt]: (S, K:) or, as some say, the two words are [applied to the same place,] like بَكَّةُ and مَكَّةُ: (S:) but Zj says that another reading is allowable, and very good; i. e. اَصْحَابُ لَيْكَةِ, as being originally الايْكَةِ; for the Arabs say, اَلَحْمَرُ قَدْ <br>\
+                  جَا=ءَنِى and لَحْمَرُ جَا=اـَنِى for الاَحْمَرُ; so that لَيْكَة is like لَحْمَر. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1609&quot; key=&quot;اَيْكٌ اَيِكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْكٌ اَيِكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K, TA,) like كَتِفْ, (TA, [agreeably with the verb, but in the CK اٰيِكٌ,]) is a phrase in which the latter word signifies مُثْمِرٌ [&lt;i&gt;Putting forth fruit;&lt;/i&gt; &amp;amp;c.]: (K, TA:) or, as some say, it is an intensive epithet [signifying &lt;i&gt;very abundant&lt;/i&gt; or &lt;i&gt;luxuriant&lt;/i&gt; or &lt;i&gt;tangled&lt;/i&gt; &amp;amp;c.]. (M, TA.)   &lt;/entryFree&gt; <br>\
+' } );

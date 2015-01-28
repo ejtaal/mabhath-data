@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'بلح4<br>\
+ابلح It (a palm-tree) bore, or had, dates in<br>\
+the state in which they are termed بَلَح. (S, A, K.)<br>\
+بَلَح Dates, or the fruit of the palm-tree, while<br>\
+continuing green (Msb, TA) and small; (TA;)<br>\
+a term like حِصْرِمٌ applied to grapes; (Msb, TA;)<br>\
+called by the people of El-Basrah خَلَالٌ: when<br>\
+they have begun to colour, i. e., to become red or<br>\
+yellow, they are termed بُسْرٌ: (Msb:) or dates in<br>\
+the state between that in which they are called<br>\
+خلال and that in which they are called بسر; (S,<br>\
+Mgh, K;) for dates in their incipient state are<br>\
+termed طَلْعٌ; then, خلال; then, بلح; then, بسر;<br>\
+then, رُطَبٌ; and then, تَمْرٌ: (S, IAth:) or i. q.<br>\
+سُيَّابٌ: (As, and S and K in art. سيب:) [by<br>\
+many of the Arabs in the present day, it is applied<br>\
+to fresh ripe dates, and to dried dates: it is a<br>\
+coll. gen. n.:] n. un. with ة. (S, Msb.)<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'جردبيلجَرْدَبِيلٌ: i. q. جَرْدَبَانٌ, explained in art. جردب.<br>\
+جردق and جرذق<br>\
+جَرْدَقٌ and جَرْذَقٌ, (T, JK, TA,) or جَرْدَقَةٌ (S,<br>\
+K) and جَرْذَقَةٌ, (IAar, K,) the last asserted by<br>\
+IAar to have been heard by him from a man of<br>\
+chaste speech, (TA,) A cake of bread: (JK, S,<br>\
+K:) arabicized words, (T, JK, S, K,) from گِرْدَهْ,<br>\
+(K, TA,) which is Persian, meaning “ round: ”<br>\
+(TA:) pl. جَرَادِقُ and جَرَاذِقُ. (JK.)<br>\
+' } );

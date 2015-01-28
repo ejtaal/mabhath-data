@@ -1,0 +1,4 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كودا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كودا<br>\
+               &lt;/head&gt; See دادا.   &lt;/div2&gt; <br>\
+' } );

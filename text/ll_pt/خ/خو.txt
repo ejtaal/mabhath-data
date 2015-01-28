@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>خو</em>            1                  خو<br>\
+<b>خَوٌّ</b>               1     <br>\
+                     خَوٌّ<br>\
+                     خو<br>\
+                  <i>Hunger.</i> (IAar, K.) [And so خَوًى and خَوَا=ءُ, belonging to art. خوي; with which the present art. is intimately connected.]       -A2-  <i>A wide valley:</i> (K:) <i>any wide valley in a soft,</i> or <i>plain,</i> [<i>low ground such as is termed</i>] جَوّ; (Az, TA;) as also خَوًى: (Az, TA in art. خوى:) and <i>low,</i> or <i>depressed, ground;</i> (TA;) as also ↓ <br>\
+      خُوَّةٌ: (JK, TA:) or the former, <i>a soft place:</i> (JK:) or <i>soft ground;</i> as in the saying, وَقَعَ غَرْسُكَ بِخَوًّ <br>\
+                  <i>What thou hast planted has chanced to be in soft ground, in which it will take root and not fail to be productive.</i> (TA.)    </entryFree> <br>\
+<b>خُوٌّ</b>               1[     <br>\
+                     خُوٌّ<br>\
+                     خو<br>\
+                  , by a mistake in the CK, in art. خوى, is made to signify <i>Honey:</i> see خُوَا=ءٌ in that art.]    </entryFree> <br>\
+<b>خوّة</b>               1     <br>\
+                     خوّة<br>\
+                     خوه<br>\
+                     خوة<br>\
+                   [app. خَوَّةٌ] <i>Languor:</i> occurring in a trad., in which it is said, وَ اَخَذَ اَبَا جَهْلٍ خوّةٌ فَلَا يَنْطِقُ [<i>And a languor seized Aboo-Jahl, so that he spoke not</i>]. (IAth, TA.)    </entryFree> <br>\
+<b>خُوَّةٌ</b>               1     <br>\
+                     خُوَّةٌ<br>\
+                     خوه<br>\
+                     خوة<br>\
+                  <i>A vacant land.</i> (K.) ―         -b2-  See also خَوٌّ.       -A2-  Also a dial. var. of اُخُوَّةٌ. (IAth, TA in art. اخو: see 1 in that art.)   </entryFree> <br>\
+' } );

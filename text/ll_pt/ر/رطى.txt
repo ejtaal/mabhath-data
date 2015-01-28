@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>رطى</em>            1                  رطى<br>\
+<b>اَرْطَتِ الاَرْضُ</b>               1     <br>\
+                     اَرْطَتِ الاَرْضُ<br>\
+                     ذ<br>\
+                  <i>The land produced the kind of trees called</i> <br>\
+                  اَرْطًى [or اَرْطَى; as also ا=رَطَت, belonging to art. ارط, q. v.]. (S.)    </entryFree> <br>\
+<b>رَوَاطٍ</b>               1     <br>\
+                     رَوَاطٍ<br>\
+                     ذ<br>\
+                   Sands <i>producing the trees called</i> <br>\
+                  اَرْطَى or اَرْطّى. (M.)    </entryFree> <br>\
+<b>اَرْطًى</b>               1     <br>\
+                     اَرْطًى<br>\
+                     ذ<br>\
+                   [or, as some say, اَرْطَى]: see art. ارط: (K:) it is of the measure اَفْعَلٌ [or اَفْعَلُ] for one reason, and فَعْلًى [or فَعْلَى] for another reason: for they say اَدِيمٌ مَاْرُوطٌ as well as ↓ <br>\
+      مَرْطِىٌّ, meaning <i>A hide tanned with the leaves of the tree called</i> <br>\
+                  ارطى.    </entryFree> <br>\
+<b>مَرْطِىٌّ</b>               1     <br>\
+                     مَرْطِىٌّ<br>\
+                     ذ<br>\
+                  : see اَرْطًى, above.   </entryFree> <br>\
+' } );

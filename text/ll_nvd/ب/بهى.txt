@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'بهى1<br>\
+بَهَىَ, as an intrans. v.: and بَهَيْتُهُ: see art. بهو.<br>\
+' } );

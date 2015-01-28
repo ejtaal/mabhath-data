@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>لسد</em>            1                  لسد<br>\
+<b>لَسَدَ</b>               1     <br>\
+                     لَسَدَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَسِدَ<br>\
+                  , (S, M, K,) and      <br>\
+                     لَسُدَ<br>\
+                  , (M,) inf. n. لَسْدٌ; (S;) and لَسِدَ, aor.      <br>\
+                     لَسَدَ<br>\
+                  , (S, K,) inf. n. لَسَدٌ; (S;) the latter mentioned by AHát, (S,) or Aboo-Khálid, (L,) in the Kitáb el-Abwáb, (S, L,) but the former is the more chaste, (TA,) <i>It</i> (a lamb or kid, K, or the young one of a clovenhoofed animal, S, M,) <i>sucked</i> its mother: (S, M, L:) or <i>sucked</i> her <i>so as to exhaust all that was in the udder.</i> (M, L, K.) ―         -b2-  Also, both verbs, <i>He</i> (a dog) <i>licked</i> a vessel: (M, K:) or <i>he</i> (a man) <i>licked</i> what was in the vessel. (IKtt.) ―         -b3-  Also, the former, <i>He licked</i> honey: (S:) and anything. (M.) You say لَسَدَتِ <br>\
+                  الوَحْشِيَّةُ وَلَدَهَا <br>\
+                  <i>The female wild animal licked her young one.</i> (M.)    </entryFree> <br>\
+<b>مِلْسَدٌ</b>               1     <br>\
+                     مِلْسَدٌ<br>\
+                     ذ<br>\
+                   A young camel <i>that sucks:</i> (L:) or <i>that sucks much.</i> (K.)   </entryFree> <br>\
+            <div2 n=&quot;lsE lsm lsn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لسع لسم لسن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'كعنبكَعْنَبٌ Short: (K:) an epithet applied to a<br>\
+man. (Az.)<br>\
+-A2-  الكَعْنَبُ and الكُعَانِبُ The lion.<br>\
+(K.)<br>\
+-A3-  كَعَانِبُ Knobs, or protuberances, (عُجَرٌ,)<br>\
+of the head. (K.) كَعْنَبٌ A man having knobs,<br>\
+or protuberances, (عُجَرٌ,) on his head. (K.)<br>\
+تَيْسٌ مُكَعْنَبُ القَرْنِ A he-goat having the horn<br>\
+curved so as to resemble a ring: (K:) like<br>\
+مُشَعْنَب, q. v. (TA.)<br>\
+' } );

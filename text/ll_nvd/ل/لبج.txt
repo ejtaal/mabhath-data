@@ -1,0 +1,31 @@
+load_data( { book: 'll_nvd', text: 'لبج1<br>\
+لَبَجَ He beat, struck, or smote, another with<br>\
+a staff, or stick: (K:) or he beat, struck, or<br>\
+smote, continuously, but softly. (TA.) ―<br>\
+-b2-  لَبَجَ<br>\
+بِهِ الأَرْضَ, aor.<br>\
+لَبُجَ, He threw him down upon the<br>\
+ground: (S, K:) like لَبَطَ. (S.) ―<br>\
+-b3-  لَبَجَ بِنَفْسِهِ<br>\
+He (a camel) fell down upon the ground. (TA.)<br>\
+―<br>\
+-b4-  لَبَجَ بِنَفْسِهِ الأَرْضَ فَنَامَ He threw himself down<br>\
+upon the ground and slept. (AHn.) ―<br>\
+-b5-  لُبِجَ بِهِ,<br>\
+(like عُنِىَ, [pass. in form but neuter in signification,] K, inf. n., لَبْجٌ, TA,) He became prostrated, or fell down in a fit of epilepsy, syn.<br>\
+صُرِعَ; (S, K;) fell down from a standing posture:<br>\
+as also لُبِطَ بِهِ. (S.) ―<br>\
+-b6-  لُبِجَ He (a camel, or a<br>\
+man,) fell down upon the ground by reason of<br>\
+disease or fatigue. (TA.)<br>\
+لَبِيجٌ A man, or a camel, falling, or fallen,<br>\
+down upon the ground by reason of disease or<br>\
+fatigue. (TA.) ―<br>\
+-b2-  بَرْكٌ لَبِيجٌ Camels laying on<br>\
+their breasts with folded legs around a tent: (K:)<br>\
+or all the camels of the tribe so lying around the<br>\
+tents, as though thrown down upon the ground.<br>\
+(S.) ―<br>\
+-b3-  لَبِيجٌ Remaining, staying, abiding, or<br>\
+dwelling. (AHn.)<br>\
+' } );

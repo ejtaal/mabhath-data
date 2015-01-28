@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شوظ</em>            1                  شوظ<br>\
+<b>شُوَاظٌ</b>               1     <br>\
+                     شُوَاظٌ<br>\
+                     ذ<br>\
+                   and شِوَاظٌ, (S, K, &amp;amp;c., [but in one copy of the S, I find only the former, which is the more common,]) occurring in the Kur [lv. 35], where Ibn-Ketheer read شِوَاظٌ, (TA,) <i>Flame</i> (S, Bd, Jel, K) <i>without smoke:</i> (S, Jel, K:) or <i>smoke</i> of fire: and <i>heat</i> of fire: (ISh, K:) and <i>heat</i> of the sun: (K, TA:) or <i>a piece of fire in which is no smoke:</i> or <i>flame of fire:</i> or only <i>of fire and something mixed therewith.</i> (L.) ―         -b2-  [And hence,] (tropical:)  <i>Vehemence of thirst:</i> (K, TA:) or simply, <i>thirst.</i> (A, TA.) You say, جَمَلٌ بِهِ شواظٌ (tropical:)  <i>A thirsting camel.</i> (A, TA.) ―         -b3-  And (tropical:)  <i>Clamour.</i> (K, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>عرضن</em>            1                  عرضن<br>\
+<b>عِرْضَنٌ</b>               1     <br>\
+                     عِرْضَنٌ<br>\
+                     ذ<br>\
+                  :       -A2-  and عِرَضْنَةٌ and عِرِضْنَةٌ: عِرَضْنَى and its dim. عُرَيْضِنٌ: see art. عرض.   </entryFree> <br>\
+' } );

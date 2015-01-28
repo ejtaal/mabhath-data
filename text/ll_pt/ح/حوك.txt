@@ -1,0 +1,48 @@
+load_data( { book: 'll_pt', text: '<em>حوك</em>            1                  حوك<br>\
+<b>حَاكَ الثَّوْبَ</b>               1     <br>\
+                     حَاكَ الثَّوْبَ<br>\
+                     حاك الثوب<br>\
+                  , aor. يَحُوكُ, inf. n. حَوْكٌ (S, Msb, K) and حِيَاكٌ (K) and حِيَاكَةٌ, (S, K,) [which last see also below,] <i>He wove the piece of cloth.</i> (S, K.) [See also art. حيك.] ―         -b2-  Hence, حاك الشِّعْرَ, aor. as above, inf. n. حَوْكٌ, (tropical:)  <i>He wove poetry.</i> (Mbr, TA.) ―         -b3-  And المَطَرُ يَحُوكُ الاَرْضَ, inf. n. حَوْكٌ, (tropical:)  [<i>The rain frets the surface of the ground; makes rippling lines upon it.</i>] (TA.) ―         -b4-  حاك الشَّىْءُ فِى صَدْرِى, (K,) inf. n. حَوْكٌ, or, accord. to Az, the aor. of the verb in this case is يَحِيكُ, (TA,) [and the inf. n. is حَيْكٌ, (see art. حيك,)] (assumed tropical:)  <i>The thing became fixed in my mind.</i> (K.) [See also حَكَّ.]    </entryFree> <br>\
+<b>تحوّك بِالثَّوْبِ</b>               1     <br>\
+                     تحوّك بِالثَّوْبِ<br>\
+                     تحوك بالثوب<br>\
+                  , (Az in art. حبك,) and ↓ <br>\
+      احتاك <br>\
+                  بِهِ, (As, ISk, K in art. حيك,) <i>i. q.</i> <br>\
+                  اِحْتَبَى بِهِ, (As, ISk, K in art. حيك, and TA,) i. e. <i>He drew his legs against his belly with the garment,</i> or <i>piece of cloth, confining them therewith, together with his back, and binding it,</i> or <i>making it tight, upon them, so as to preserve him from falling,</i> [<i>when he sat,</i>] <i>like a wall.</i> (IAth, TA in art. حبو.) [See 1 in art. حبك.]    </entryFree> <br>\
+                     اـِحْتَوَكَ<br>\
+                   see 5.    </entryFree> <br>\
+<b>حَوْكٌ</b>               1     <br>\
+                     حَوْكٌ<br>\
+                     حوك<br>\
+                   inf. n. of 1 [q. v.]. (S, Msb, K.) ―         -b2-  [Hence,] ذَا عَلَى حَوْكِ ذَا (assumed tropical:)  <i>This is like this in age,</i> and <i>in aspect, appearance,</i> or <i>person.</i> (A, TA.) And قُرَيْشٍ ↓ <br>\
+      نَاسٌ لَيْسَ عَلَيْهِمْ حَوْكَةٌ (assumed tropical:)  <i>Men who do not resemble Kureysh.</i> (A, TA.)    </entryFree> <br>\
+<b>حَوَكٌ</b>               1     <br>\
+                     حَوَكٌ<br>\
+                     حوك<br>\
+                   as used in the saying هٰوُلَا=ءِ حَوَكُ سَوْءٍ, meaning (assumed tropical:)  <i>These are children that are lean,</i> or <i>emaciated,</i> or <i>slender in the bones, and small in the body,</i> has no sing. form. (O, TA.)    </entryFree> <br>\
+<b>حَوْكَةٌ</b>               1     <br>\
+                     حَوْكَةٌ<br>\
+                     حوكه<br>\
+                     حوكة<br>\
+                  : see حَوْكٌ.    </entryFree> <br>\
+<b>حِيَاكَةٌ</b>               1     <br>\
+                     حِيَاكَةٌ<br>\
+                     حياكه<br>\
+                     حياكة<br>\
+                   The <i>art of weaving.</i> (Lth, Msb. *) [See also 1, of which it is said in the S and K to be an inf. n.]    </entryFree> <br>\
+<b>حَايِكٌ</b>               1     <br>\
+                     حَايِكٌ<br>\
+                     ذ<br>\
+                  <i>A weaver:</i> [fem. with ة:] (S, K:) pl. masc. حَاكَةٌ and حَوَكَةٌ, (S, Mgh, Msb, K,) the former regular, (TA,) and the latter anomalous, S, TA,) like خَوَنَةٌ [pl. of خَايِنٌ]; (S in art. خون;) and pl. fem. حَوَايِكُ. (S, K.)    </entryFree> <br>\
+<b>مَحَاكَةٌ</b>               1     <br>\
+                     مَحَاكَةٌ<br>\
+                     محاكه<br>\
+                     محاكة<br>\
+                  <i>A place of weaving.</i> (S, K.)    </entryFree> <br>\
+<b>تَرَكْتُهُمْ فِى مَحْوَكَةٍ</b>               1     <br>\
+                     تَرَكْتُهُمْ فِى مَحْوَكَةٍ<br>\
+                     تركتهم في محوكه<br>\
+                     تركتهم في محوكة<br>\
+                   (tropical:)  <i>I left them</i> [engaged] <i>in light.</i> (K, TA.)   </entryFree> <br>\
+' } );

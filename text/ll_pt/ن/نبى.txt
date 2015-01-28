@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>نبى</em>            1                  نبى<br>\
+<b>نَبَاَ عَنِ الضَّرِيبَةِ</b>               1     <br>\
+                     نَبَاَ عَنِ الضَّرِيبَةِ<br>\
+                     ذ<br>\
+                  <i>It</i> (a sword) <i>recoiled, or reverted,</i> [or <i>glanced off,</i> or <i>away,</i>] <i>from the thing struck with it, without penetrating, or without effect;</i> (TA;) <i>returned from it without cutting;</i> (Msb;) <i>took no effect upon it;</i> (S;) syn. كَلَّ. (K.) ―         -b2-  نَبَاَ <br>\
+                  <i>It</i> (the edge of a sword) <i>would not cut; was blunt.</i> (TA.) ―         -b3-  نَبَاَ عَنِ <br>\
+                  الشَّىْءِ <br>\
+                  <i>It</i> (the sight) <i>recoiled, or reverted, from the thing; was repelled by it;</i> (S, * K, * TA;) syn. تَجَافَى (TA) and كلّ. (K.) ―         -b4-  نَبَا عَنِ <br>\
+                  الشَّىْءِ <br>\
+                  <i>It</i> (nature) <i>recoiled, flinched, shrank, or was averse, from the thing,</i> or <i>shunned it, and would not accept it.</i> (Msb.) ―         -b5-  نَبَا جَنْبُهُ عَنِ <br>\
+                  الفِرَاشِ (tropical:)  <i>His side did not rest,</i> or <i>was restless,</i> or <i>uneasy, upon the bed:</i> (K, TA:) <i>it shrank from it.</i> ―         -b6-  نَبَا <br>\
+                  <i>It</i> (a saddle) <i>was unfirm,</i> or <i>unsteady; not firm,</i> or <i>steady, in its place.</i> (TA.)    </entryFree> <br>\
+<b>نَبِىٌّ</b>               1     <br>\
+                     نَبِىٌّ<br>\
+                     ذ<br>\
+                  : see a verse voce رَتْمٌ.    </entryFree> <br>\
+<b>نَبِيَّةٌ</b>               1     <br>\
+                     نَبِيَّةٌ<br>\
+                     ذ<br>\
+                  , <i>A thing like the</i> <br>\
+                  سُفْرَة, q. v., <i>made of palm-leaves, upon which flour or meal is sifted.</i> (I&#39;Abbád, O, K.)   </entryFree> <br>\
+' } );

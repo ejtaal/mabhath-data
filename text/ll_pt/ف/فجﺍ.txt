@@ -1,0 +1,46 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فجا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فجا<br>\
+&lt;entryFree id=&quot;n33037&quot; key=&quot;فَجِيَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     فَجِيَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Mgh, O, Msb, K,) and فَجَاَهُ, (S, O, Msb, K,) the former of which is the more chaste, (TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَجَاَ<br>\
+                  &lt;/form&gt;, (Mgh, Msb, K,) inf. n. ↓ <br>\
+      فُجَا=ءَةٌ, (S, O, K,) or this is a simple subst., (Msb,) and فَجْءٌ, (K, TA,) or ↓ <br>\
+      فَجْاَةٌ, (so accord. to the CK, and Ham p. 44,) or this last also is a simple subst.; (Msb;) and ↓ <br>\
+      فاجاهُ, (S, Mgh, O, Msb, K,) inf. n. مُفَاجَاَةٌ (S, O, Msb) and فِجَا=ءٌ; (S, O;) and ↓ <br>\
+      افتجاهُ; (K;) &lt;i&gt;It&lt;/i&gt; (an affair, or event, S, O, Msb) &lt;i&gt;came upon him,&lt;/i&gt; or &lt;i&gt;happened to him, suddenly,&lt;/i&gt; or &lt;i&gt;at unawares,&lt;/i&gt; (Mgh, K, TA,) &lt;i&gt;unexpectedly,&lt;/i&gt; (Mgh,) &lt;i&gt;without his having knowledge of it,&lt;/i&gt; (Mgh, TA,) or &lt;i&gt;without any previous cause;&lt;/i&gt; (TA;) or &lt;i&gt;hastily;&lt;/i&gt; syn. عَاجَلَهُ: (Msb:) [&lt;i&gt;it surprised him;&lt;/i&gt; or &lt;i&gt;took him by surprise:&lt;/i&gt;] and [in like manner] one says, فَجِيْتُ الرَّجُلَ, and فَجَاْتُهُ, meaning &lt;i&gt;I came upon the man suddenly,&lt;/i&gt; or &lt;i&gt;at unawares.&lt;/i&gt; (Msb.) ―         -b2-  And فَجَاَ المَرْاَةَ, (O, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَجَاَ<br>\
+                  &lt;/form&gt;, inf. n. فَجْءٌ, (TA,) &lt;i&gt;He compressed the woman.&lt;/i&gt; (O, K. *)       -A2-  فَجِيَتِ النَّاقَةُ, (IAmb, O, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَجَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. فَجَاٌ, (IAmb, O,) &lt;i&gt;The she-camel became big in her belly.&lt;/i&gt; (IAmb, O, K.) ―         -b2-  And فَجَاَ is said in the A to be syn. with زَادَ [&lt;i&gt;It increased,&lt;/i&gt; &amp;amp;c.]. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     فَاْجَاَ<br>\
+                  &lt;/form&gt; see above, first sentence. ―         -b2-  [Hence,] فُوجِيَ <br>\
+                  &lt;i&gt;He was taken away by a sudden death; he died suddenly.&lt;/i&gt; (S in art. فوت.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33038&quot; key=&quot;افجا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     افجا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He found,&lt;/i&gt; or &lt;i&gt;lighted on,&lt;/i&gt; [or &lt;i&gt;surprised,&lt;/i&gt;] his friend &lt;i&gt;doing a disgraceful thing.&lt;/i&gt; (IAar, TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِفْتَجَاَ<br>\
+                  &lt;/form&gt; see 1, first sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33039&quot; key=&quot;فَجْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَجْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, first sentence: ―         -b2-  and see also what here follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33040&quot; key=&quot;فُجَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فُجَا=ءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, first sentence. ―         -b2-  Also &lt;i&gt;A sudden,&lt;/i&gt; or &lt;i&gt;an unexpected, event; a thing that comes upon one suddenly,&lt;/i&gt; or &lt;i&gt;at unawares.&lt;/i&gt; (K, TA.) Hence, مَوْتُ الفُجَا=ءَةِ [&lt;i&gt;Sudden death&lt;/i&gt;]: written by some ↓ <br>\
+      الفَجْاَةِ, as an inf. n. of unity. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33041&quot; key=&quot;المُفَاجِيُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المُفَاجِيُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The lion.&lt;/i&gt; (Sgh, in his tract on the names of the lion; and K.)   &lt;/entryFree&gt; <br>\
+' } );

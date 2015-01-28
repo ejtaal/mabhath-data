@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وثن</em>            1                  وثن<br>\
+<b>وَثَنٌ</b>               1     <br>\
+                     وَثَنٌ<br>\
+                     ذ<br>\
+                  <i>An idol:</i> see صَنَمٌ and عَثَنٌ and عَنَنٌ.   </entryFree> <br>\
+' } );

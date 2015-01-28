@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>وغب</em>            1                  وغب<br>\
+<b>وَغُبَ</b>               1     <br>\
+                     وَغُبَ<br>\
+                     ذ<br>\
+                  , aor. يَوْغُبُ, inf. n. وُغُوبَةٌ (and وَغَابَةٌ, IM and others), <i>He</i> (a camel) <i>was,</i> or <i>became, large, big,</i> or <i>bulky.</i> (S, K.)    </entryFree> <br>\
+<b>وَغْبٌ</b>               1     <br>\
+                     وَغْبٌ<br>\
+                     ذ<br>\
+                  <i>What is of a mean sort, of the utensils and furniture of a house,</i> or <i>tent:</i> (S, K:) pl. اَوْغَابٌ and وِغَابٌ: (K:) the former, of pauc.; the latter, of mult. (TA.) The اوغب of a house, or tent, are the wooden bowl and the stone cooking-pot and the like: (S:) [as also اَوْقَاب]. ―         -b2-  <i>A sack, such as is called</i> <br>\
+                  غِرَارَة: (K:) but this is included among the meaner sort of the utensils of a house, or tent; and is therefore not particularly mentioned by any of the lexicographers except T. (TA.) ―         -b3-  وَغْبٌ (As, S, K) and وَغَبَةٌ (Th, K) <i>Stupid: foolish; of little sense:</i> (S, K:) <i>i. q.</i> <br>\
+                  لَغْبٌ, a <i>weak, stupid,</i> man: (TA, voce لغب:) pl. as above. (K, TA.) See also وَقْبٌ. ―         -b4-  وَغْبٌ <br>\
+                  <i>Weak in body:</i> (as also وَغْدٌ: TA:) pl. as above. (K.) ―         -b5-  <i>Base; mean; vile.:</i> (as also وَغْدٌ: TA:) pl. as above. (K.) ―         -b6-  وَغْبٌ A <i>large, big,</i> or <i>bulky,</i> camel: (S, K:) pl. as above: fem. with ة. (K.)   </entryFree> <br>\
+' } );

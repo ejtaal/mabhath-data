@@ -1,0 +1,76 @@
+load_data( { book: 'll_nvd', text: 'دلس1<br>\
+دَلَسَ, inf. n. دَلْسٌ: see the next paragraph, in<br>\
+three places.<br>\
+2<br>\
+دلّس, (M, A, Msb,) inf. n. تَدْلِيسٌ, (S, M,<br>\
+Mgh, Msb, K,) He concealed, or hid, a thing;<br>\
+he did not make it known; as also ↓ تدلّس. (TA.)<br>\
+―<br>\
+-b2-  He concealed a fault, or defect, in an article<br>\
+of merchandize, from the purchaser, (S, Mgh,<br>\
+Msb, K,) in selling; (S, Msb;) as also ↓ دَلَسَ,<br>\
+aor.<br>\
+دَلِسَ, inf. n. دَلْسٌ; but the former is the more common: (Msb:) and he did not show a fault, or<br>\
+defect; without restriction to a case of selling.<br>\
+(TA.) You say, دَلَّسَ عَلَى الرَّجُلِ فِى البَيْعِ, (M,<br>\
+A,) and دلّس لَهُ فِى البَيْعِ, (A,) He concealed,<br>\
+disguised, or cloaked, from the man the fault, or<br>\
+defect, of the thing sold; (A;) he did not show<br>\
+the fault, or defect, to the man in selling. (M.)<br>\
+And دلّس فِى البَيْعِ وَغَيْرِهِ He did not show his<br>\
+fault, or defect, in selling, and in other cases.<br>\
+(M.) And دلّس عَلَيْهِ He concealed, disguised, or<br>\
+cloaked, from him his fault, or defect. (A.) And<br>\
+Az heard an Arab of the desert say, لَيْسَ فِى الأَمْرِ<br>\
+↓ وَلْسٌ وَ لَا دَلْسٌ There is not in the affair treachery<br>\
+nor deceit: (Msb:) or ↓ مَا لِى فِيهِ وَلْسٌ وَلَا دَلْسٌ<br>\
+I have not, with respect to it, treachery nor<br>\
+deceit; (K,* TA;) referring to a thing, or an<br>\
+affair, in which he was accused, or suspected, of<br>\
+evil. (L, TA.) [In the CK, instead of دَلْسٌ, we<br>\
+find دَلَسٌ.] ―<br>\
+-b3-  Hence تَدْلِيسٌ in the ascription of a<br>\
+tradition to its relater or relaters; which is, (tropical:)  One&#39;s<br>\
+relating a tradition as from the earliest sheykh<br>\
+when perhaps he has not seen him, but only heard<br>\
+it from one inferior to him, or from one who had<br>\
+heard it from him, and the like; (K;) or when he<br>\
+has seen him, but has heard what he ascribes to<br>\
+him from another, inferior to him; (Az, TA;)<br>\
+which has been done by several persons in whom<br>\
+confidence is placed: (K:) or one&#39;s not mentioning, in his tradition, him from whom he heard it,<br>\
+but mentioning the highest authority, inducing<br>\
+the opinion that he had heard it from him. (A.)<br>\
+3<br>\
+دالس, (M,) inf. n. مُدَالَسَةٌ (S, M) and<br>\
+دِلَاسٌ, (M,) He endeavoured to deceive, beguile,<br>\
+or circumvent; or acted deceitfully with another.<br>\
+(S, M.) You say, فُلَانٌ لَا يُدَالِسُكَ Such a one<br>\
+will not endeavour to deceive thee, or act deceitfully with thee, and conceal from thee the thing,<br>\
+as though he came to thee in the dark. (S.) [See<br>\
+دَلَسٌ.] And فُلَانٌ لَا يُدَالِسُ وَلَا يُوَالِسُ Such a one<br>\
+will not endeavour to deceive, beguile, or circumvent; or will not act deceitfully with another; nor<br>\
+will he act perfidiously: (M, L:) or will not act<br>\
+wrongfully, nor treacherously, (K, TA,) nor<br>\
+practise artifice or fraud. (TA.)<br>\
+5<br>\
+تَدَلَّسَ see 2, first signification:<br>\
+-A2-  and see also 7,<br>\
+in two places.<br>\
+7<br>\
+اندلس It (a thing) was, or became, concealed,<br>\
+or hidden; as also ↓ تدلّس: (TA:) and ↓ the<br>\
+latter, he (a man, TK) concealed, or hid, himself;<br>\
+(TK;) syn. تكتّم. (K.)<br>\
+دَلَسٌ The dark; or darkness; (S, M, A, K;)<br>\
+as also ↓ دُلْسَةٌ: (A, Msb, K:) and the confusedness of the darkness, or of the beginning of night;<br>\
+expl. by اِخْتِلَاطُ الظَّلَامِ. (A, K.) You say, أَتَانَا<br>\
+دَلَسَ الظَّلَامِ He came to us in the confusedness of<br>\
+the darkness, or of the beginning of night. (TA.)<br>\
+And خَرَجَ فِى الدَّلَسِ وَالْغَلَسِ [He went forth in<br>\
+the confusedness of the darkness, or of the beginning of night, and in the darkness of the last part<br>\
+of the night]. (A, TA.)<br>\
+دُلْسَةٌ: see دَلَسٌ. ―<br>\
+-b2-  Hence, Deceit, guile, or<br>\
+circumvention. (IF, Msb.)<br>\
+' } );

@@ -1,0 +1,149 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اثم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اثم<br>\
+&lt;entryFree id=&quot;n235&quot; key=&quot;اَثِمَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَثِمَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Lth, S, M, &amp;amp;c.,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثَمَ<br>\
+                  &lt;/form&gt;, (Lth, M, Msb, K,) inf. n. اـِثْمٌ, (S, K,) or اَثَمٌ, the former being a simple subst., (Msb,) and مَاْثَمٌ, (S, K,) &lt;i&gt;He fell &lt;pb n=&quot;22&quot; TEIform=&quot;pb&quot;/&gt; into what is termed&lt;/i&gt; <br>\
+                  اـِثْمٌ [i. e. &lt;i&gt;a sin,&lt;/i&gt; or &lt;i&gt;crime,&lt;/i&gt; &amp;amp;c.]; (Lth, T, S, M, Msb, * K *;) [&lt;i&gt;he sinned; committed a sin,&lt;/i&gt; or &lt;i&gt;crime;&lt;/i&gt;] &lt;i&gt;he did what was unlawful:&lt;/i&gt; (M, * K:) and ↓ <br>\
+      تَاْثِيمٌ signifies the same as اـِثْمٌ: (K:) it may be either an inf. n. of ↓ <br>\
+      اَثَمَ, which [says ISd] I have not heard, or, as Sb holds it to be, a simple subst. like تَنْبِيتٌ: (M:) and is said to be used in the sense of اـِثْم in the Kur lii. 23 [and lvi. 24]. (TA.) [It should be added also, that ↓ <br>\
+      تاْثَامٌ, like تَكْذَابٌ, is syn. with تاْثِيمٌ and اـِثْمٌ; and, like تاثيم, may be an inf. n. of ↓ <br>\
+      اَثَّمَ, or a simple subst.: see an ex. voce بَرُوقٌ.] In the dial. of some of the Arabs, the first letter of the aor. is with kesr, as in تِعْلَمُ and نِعْلَمُ; and as the hemzeh in اـِثْمٌ is with kesr, the radical hemzeh [in the aor.] is changed into ى; so that they say اـِيثَمُ and تِيثَمُ [for ا=ثَمُ and تَاْثَمُ.] (TA.) In the saying, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        لَوْ قُلْتَ مَا فِى قَوْمَهَا لَمْ تِيثَمِ<br>\
+                     &lt;L&gt;<br>\
+                        يَفْضُلَهَا فِى حَسَبٍ وَمِيسَمِ<br>\
+                  &lt;/quote&gt; the meaning is, [&lt;i&gt;Shouldst thou say, thou wouldst not sin,&lt;/i&gt; or &lt;i&gt;do wrong,&lt;/i&gt; in so saying,] &lt;i&gt;There is not, among her people,&lt;/i&gt; any one &lt;i&gt;who excels her&lt;/i&gt; [&lt;i&gt;in grounds of pretension to respect, and in impress,&lt;/i&gt; or &lt;i&gt;character, of beauty&lt;/i&gt;]. (M.)       -A2-  اَثَمَهُ اللّٰهُ فِى كَذَا, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثُمَ<br>\
+                  &lt;/form&gt; (S, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثِمَ<br>\
+                  &lt;/form&gt;, (S,) or      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثَمَ<br>\
+                  &lt;/form&gt;, (K,) but there is no other authority than the K for this last, nor is there any reason for it, as the medial radical letter is not faucial, nor is the final, and in the Iktitáf el-Azáhir the aor. is said to be      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثِمَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثُمَ<br>\
+                  &lt;/form&gt;, (MF, TA,) [&lt;i&gt;God reckoned him to have sinned,&lt;/i&gt; or &lt;i&gt;committed a crime&lt;/i&gt; or &lt;i&gt;the like, in such a thing;&lt;/i&gt; or] &lt;i&gt;God reckoned such a thing against him as an&lt;/i&gt; <br>\
+                  اـِثْم: (S, K:) or اَثَمَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثِمَ<br>\
+                  &lt;/form&gt; (Fr, T, M, Msb) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثُمَ<br>\
+                  &lt;/form&gt;, (Msb,) inf. n. اَثْمٌ (Fr, T, Msb) and اَثَامٌ (Fr, T, TA) and اـِثَامٌ, (Fr, TA,) &lt;i&gt;He&lt;/i&gt; (God) &lt;i&gt;requited him,&lt;/i&gt; (Fr, T,) or &lt;i&gt;punished him,&lt;/i&gt; (M,) &lt;i&gt;for what is termed&lt;/i&gt; <br>\
+                  اـِثْمٌ [i. e. &lt;i&gt;sin,&lt;/i&gt; or &lt;i&gt;crime,&lt;/i&gt; &amp;amp;c.]: (Fr, T, M:) [see also اَثَامٌ below:] or &lt;i&gt;he&lt;/i&gt; (a man) &lt;i&gt;pronounced him to be&lt;/i&gt; <br>\
+                  ا=ثم [i. e. &lt;i&gt;a sinner,&lt;/i&gt; or &lt;i&gt;the like&lt;/i&gt;]: (Msb:) [or] ↓ <br>\
+      ا=ثَمَهُ, aor. يَوْثِمُهُ, has this last signification, said of God; and also signifies &lt;i&gt;He found him to be so.&lt;/i&gt; (T.) ―         -b2-  You say also, اَثَمَتِ النَّاقَةُ المَشْىَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثِمَ<br>\
+                  &lt;/form&gt;, inf. n. اَثْمٌ, &lt;i&gt;The she-camel was slow.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n236&quot; key=&quot;اثّمهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اثّمهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Msb, K,) inf. n. تَاْثِيمٌ, (Msb, K,) &lt;i&gt;He said to him&lt;/i&gt; <br>\
+                  اَثِمْتَ [&lt;i&gt;Thou hast fallen into a sin,&lt;/i&gt; or &lt;i&gt;crime,&lt;/i&gt; &amp;amp;c.; &lt;i&gt;hast sinned,&lt;/i&gt; &amp;amp;c.]. (S, Msb, K.)       -A2-  See also 1, first and second sentences.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n237&quot; key=&quot;ا=ثمهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=ثمهُ<br>\
+                     ا=ثمه<br>\
+                     ا=ثمة<br>\
+                  &lt;i&gt;He made him,&lt;/i&gt; or &lt;i&gt;caused him, to fall into what is termed&lt;/i&gt; <br>\
+                  اـِثْمٌ [i. e. &lt;i&gt;a sin,&lt;/i&gt; or &lt;i&gt;crime,&lt;/i&gt; &amp;amp;c.], (Zj, S, M, K,) or &lt;i&gt;what is termed&lt;/i&gt; <br>\
+                  ذَنْبٌ. (Msb.) ―         -b2-  See also 1, last sentence but one.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n238&quot; key=&quot;تاثّم&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاثّم<br>\
+                     ذ<br>\
+                  &lt;i&gt;He abstained from what is termed&lt;/i&gt; <br>\
+                  اـِثْمٌ [i. e. &lt;i&gt;sin,&lt;/i&gt; or &lt;i&gt;crime,&lt;/i&gt; &amp;amp;c.]; (T, S, M, Msb, K;) like تَحَرَّجَ meaning “ he preserved himself from what is termed حَرَجٌ: ” (Msb:) or &lt;i&gt;he did a work,&lt;/i&gt; or &lt;i&gt;deed, whereby he escaped from what is termed&lt;/i&gt; <br>\
+                  اـِثْمٌ: (TA:) and &lt;i&gt;he repented of what is so termed,&lt;/i&gt; (M, K,) &lt;i&gt;and begged forgiveness of it;&lt;/i&gt; as though he removed the اـِثْم itself by repentance and by begging forgiveness; or sought to do so by those two means. (M.) You say also, تاثّم مِنْ كَذَا <br>\
+                  &lt;i&gt;He abstained from such a thing as a sin,&lt;/i&gt; or &lt;i&gt;crime;&lt;/i&gt; syn. تَحَّنَثَ, q. v. (S, K, in art. حنث.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n239&quot; key=&quot;اـِثْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِثْمٌ<br>\
+                     اثم<br>\
+                     اـثم<br>\
+                     اثم<br>\
+                     آثم<br>\
+                  &lt;/form&gt; [accord. to some, an inf. n.; see اَثِمَ: accord. to others, only a simple subst., signifying] &lt;i&gt;A sin, a crime, a fault, an offence,&lt;/i&gt; or &lt;i&gt;an act of disobedience,&lt;/i&gt; syn. ذَنْبٌ, (S, M, Msb, K,) &lt;i&gt;for which one deserves punishment;&lt;/i&gt; differing from ذَنْبٌ inasmuch as this signifies both what is intentional and what is unintentional: (Kull:) or [so accord. to the M, but in the K “ and, ”] &lt;i&gt;an unlawful deed:&lt;/i&gt; (M, K:) or &lt;i&gt;a deed which retards from recompense:&lt;/i&gt; or, accord. to Fr, &lt;i&gt;what is exclusive of the&lt;/i&gt; [&lt;i&gt;punishment termed&lt;/i&gt;] حَدّ: accord. to Er-Rághib, it is a term of more general import than عُدَوانٌ: (TA:) ↓ <br>\
+      مَاْثَمٌ [which is originally an inf. n. of اَثِمَ] is syn. with اـِثْمٌ; (T, * Mgh;) and so, too, is ↓ <br>\
+      اَثَامٌ, (Msb,) or ↓ <br>\
+      اـِثَامٌ, signifying &lt;i&gt;a deed retarding recompense:&lt;/i&gt; (TA:) the pl. of اـِثْمٌ is ا=ثَامٌ: (M:) and the pl. of ↓ <br>\
+      مَاْثَمٌ is مَا=ثِمُ. (T.) ―         -b2-  [Sometimes it is prefixed to a noun or pronoun denoting its object: ―         -b3-  and sometimes it means (assumed tropical:)  The &lt;i&gt;punishment of a sin&lt;/i&gt; &amp;amp;c.: see explanations of a passage in the Kur v. 32, voce بَا=ءَ.] ―         -b4-  &lt;i&gt;Wine:&lt;/i&gt; (Aboo-Bekr El-Iyádee, T, S, M, K:) sometimes used in this sense; (S;) but tropically; not properly: (IAmb:) I think, [says ISd,] because the drinking thereof is what is thus termed. (M.) ―         -b5-  [And for a like reason,] (assumed tropical:)  &lt;i&gt;Contention for stakes,&lt;/i&gt; or &lt;i&gt;wagers, in a game of hazard;&lt;/i&gt; syn. قِمَارٌ; (M, K;) which is a man&#39;s destruction of his property. (M.) It is said in the Kur [ii. 216, respecting wine and the game called المَيْسِر], قُلْ فِهِيمَا اـِثْمٌ كَبِيرٌ وَ مَنَافِعُ <br>\
+                  لِلنَّاسِ [&lt;i&gt;Say thou, In them both are great sin and means of profit to men&lt;/i&gt;]: and Th says, when they contended in a game of this kind, and won, they gave food and alms, and these were means of profit. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n240&quot; key=&quot;اَثَامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَامٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِثْمٌ. ―         -b2-  Also The &lt;i&gt;requital,&lt;/i&gt; or &lt;i&gt;recompense,&lt;/i&gt; of اـِثّم [i. e. &lt;i&gt;sin,&lt;/i&gt; or &lt;i&gt;crime,&lt;/i&gt; &amp;amp;c.]: (T, S, M, Msb:) so says Zj, (T, M,) and in like manner say Kh and Sb: (T:) or &lt;i&gt;punishment&lt;/i&gt; (Yoo, Lth, T, M, K) &lt;i&gt;thereof:&lt;/i&gt; (Lth, T, M:) and ↓ <br>\
+      اـِثَامٌ and ↓ <br>\
+      مَاْثَمٌ signify the same; (M, K;) the latter like مَقْعَدٌ. (TA. [In the CK this is written مَاثِم.]) So in the Kur [xxv. 68], يَلْقَ اَثَامَا [&lt;i&gt;He shall find a requital,&lt;/i&gt; or &lt;i&gt;recompense,&lt;/i&gt; or &lt;i&gt;a punishment, of sin&lt;/i&gt;]: (T, S, M:) in my opinion, [says ISd,] the correct meaning is, &lt;i&gt;he shall find the punishment of&lt;/i&gt; <br>\
+                  ا=ثَام [or &lt;i&gt;sins&lt;/i&gt;]: but some say, the meaning is that which here follows. (M.) ―         -b3-  &lt;i&gt;A valley in Hell.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n241&quot; key=&quot;اـِثَامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِثَامٌ<br>\
+                     اـثم<br>\
+                     اثام<br>\
+                     آثام<br>\
+                  &lt;/form&gt;: see اـِثْمٌ: ―         -b2-  and اَثَامٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n242&quot; key=&quot;اَثُومَّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثُومَّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=ثِمٌ; and اَثِيمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n243&quot; key=&quot;اَثِيمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثِيمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=ثِمٌ. ―         -b2-  Also &lt;i&gt;A great,&lt;/i&gt; or &lt;i&gt;habitual, liar;&lt;/i&gt; or one &lt;i&gt;who lies much;&lt;/i&gt; and so ↓ <br>\
+      اَثُومٌ. (K.) So in the Kur ii. 277: or it there signifies &lt;i&gt;Burdened with&lt;/i&gt; <br>\
+                  اـثْم [or &lt;i&gt;sin,&lt;/i&gt; &amp;amp;c.]. (TA.) In the Kur xliv. 44, it means, accord. to Fr, The &lt;i&gt;unrighteous,&lt;/i&gt; or &lt;i&gt;sinning;&lt;/i&gt; like ↓ <br>\
+      ا=ثِمٌ: (T:) or the &lt;i&gt;unbeliever:&lt;/i&gt; (TA:) or, accord. to Zj, in this instance, (M,) by the اثيم is meant &lt;i&gt;Aboo-Jahl.&lt;/i&gt; (M, K.)       -A2-  Also The &lt;i&gt;commission of&lt;/i&gt; <br>\
+                  اـِثْم [&lt;i&gt;sin,&lt;/i&gt; or &lt;i&gt;crime,&lt;/i&gt; &amp;amp;c.,] &lt;i&gt;much,&lt;/i&gt; or &lt;i&gt;frequently;&lt;/i&gt; and so ↓ <br>\
+      اَثِيمَةٌ. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n244&quot; key=&quot;اَثِيمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثِيمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثِيمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n245&quot; key=&quot;اَثَامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَامٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=ثِمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n246&quot; key=&quot;ا=ثِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=ثِمٌ<br>\
+                     ا=ثم<br>\
+                  &lt;i&gt;Falling into what is termed&lt;/i&gt; <br>\
+                  اـِثمٌ [i. e. &lt;i&gt;a sin,&lt;/i&gt; or &lt;i&gt;crime,&lt;/i&gt; &amp;amp;c.]; (S, Msb, * K; *) [&lt;i&gt;sinning; committing a sin,&lt;/i&gt; or &lt;i&gt;crime;&lt;/i&gt;] &lt;i&gt;doing what is unlawful:&lt;/i&gt; (K:) and in like manner, (S, Msb, K,) but having an intensive signification, (Msb,) ↓ <br>\
+      اَثِيمٌ, and ↓ <br>\
+      اَثُومٌ, (S, M, Msb, K,) and ↓ <br>\
+      اَثَّامٌ: (M, Msb, K: [in the CK, erroneously, without teshdeed:]) the pl. of the first of these three is اُثَمَا=ءُ; that of the second, اُثُمٌ; and that of the third, اَثَّامُونَ. (M.) See also اَثِيمٌ. ―         -b2-  ا=ثِمَةٌ, (S,) and ا=ثِمَاتٌ, (S, M, K, [in the CK, erroneously, اَثِماتٌ.]) A she-camel, (S,) and she-camels, &lt;i&gt;slow,&lt;/i&gt; or &lt;i&gt;tardy;&lt;/i&gt; (S, M, K;) &lt;i&gt;weary, fatigued,&lt;/i&gt; or &lt;i&gt;jaded.&lt;/i&gt; (K. [In the CK, we find مُعِيْباتٌ erroneously put for مُعْيِيَاتٌ.]) Some pronounce it with ت. (Sgh.) [In like manner,] ↓ <br>\
+      مُوَاثِمٌ signifies That is &lt;i&gt;slack,&lt;/i&gt; or &lt;i&gt;slow, in pace,&lt;/i&gt; or &lt;i&gt;going;&lt;/i&gt; <br>\
+                  اَلَّذِى يَكْذِبُ فِى السَّيْرِ. (Sgh, K. [In Golius&#39;s Lex., as from the K, اَلَّذِى يُكَذِّبُ السَّيْرَ. Both are correct, signifying the same.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n247&quot; key=&quot;تَاْثَامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْثَامٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n248&quot; key=&quot;تَاْثِيمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْثِيمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n249&quot; key=&quot;مَاْثَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْثَمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِثْمٌ, in two places: ―         -b2-  and see اَثَامٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n250&quot; key=&quot;مَاْثُومٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْثُومٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Reckoned to have sinned,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt;] &lt;i&gt;having a thing reckoned against him as an&lt;/i&gt; <br>\
+                  اـِثْم: (S:) or &lt;i&gt;requited for what is termed&lt;/i&gt; <br>\
+                  اـِثْمٌ. (Fr, T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n251&quot; key=&quot;مُوَاثِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَاثِمٌ<br>\
+                     مواثم<br>\
+                  &lt;/form&gt;: see ا=ثِمٌ.   &lt;/entryFree&gt; <br>\
+' } );

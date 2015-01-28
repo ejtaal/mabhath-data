@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>غفص</em>            1                  غفص<br>\
+<b>غافصهُ</b>               1     <br>\
+                     غافصهُ<br>\
+                     ذ<br>\
+                  , (S, A, Msb, K,) inf. n. مُغَافَصَةٌ and غِفَاصٌ, (TA,) <i>He came upon him suddenly,</i> or <i>unexpectedly;</i> (A, Msb, K;) <i>he took him at unawares,</i> (S, Msb, K,) <i>and did an evil action to him.</i> (TA.) ―         -b2-  Hence the saying, (Msb,) اَخَذْتُهُ <br>\
+                  مُغَافَصَةً (A, Msb, TA) <i>I took it</i> (a thing, Msb) <i>striving to overcome.</i> (Msb, TA.)    </entryFree> <br>\
+<b>غَافِصَةٌ</b>               1     <br>\
+                     غَافِصَةٌ<br>\
+                     ذ<br>\
+                  <i>A sudden,</i> or <i>an unexpected, calamity,</i> of time, or fortune: (Sgh, * K, * TK:) pl. غَوَافِصُ. (A.) You say, وَقَاكَ اْللّٰهُ غَوَافِصَ الدَّهْرِ [<i>May God preserve thee from the sudden,</i> or <i>unexpected, calamities of time,</i> or <i>fortune</i>]. (A.)   </entryFree> <br>\
+' } );

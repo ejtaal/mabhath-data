@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>ما</em>            1                  ما<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+<em>ما</em>            1<br>\
+                  ما<br>\
+<b>مَاْمَاَتْ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     مَاْمَاَتْ<br>\
+                     ذ<br>\
+                  <i>She</i> (a ewe or she-goat or a gazelle) <i>uttered continuously the cry</i> <br>\
+                  مِيْ مِيْ, (K,) or (accord. to the Tes-heel) ماَء=I مَا=ءِ: [and this is confirmed by a verse which I have cited voce تَخَوَّنَ:] (MF:) thus written in his Háshiyeh. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نهق</em>            1                  نهق<br>\
+<b>النَّوَاهِقُ</b>               1     <br>\
+                     النَّوَاهِقُ<br>\
+                     ذ<br>\
+                  <i>The channels of the tears</i> of a horse. (M in art. سم.)   </entryFree> <br>\
+' } );

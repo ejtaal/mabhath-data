@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'وجى1<br>\
+وَجِىَ<br>\
+and ↓ تَوَجَّى [said of a man, or of<br>\
+a horse or the like, or of a camel] His foot, or<br>\
+hoof, or فِرْسِن, was, or became, attenuated, and<br>\
+chafed, or abraded: (TA:) or he (a horse)<br>\
+experienced a pain in his hoof. (S.)<br>\
+5<br>\
+تَوَجَّىَ<br>\
+see 1.<br>\
+' } );

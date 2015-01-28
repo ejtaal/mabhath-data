@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>زوغ</em>            1                  زوغ<br>\
+<b>زَاغَ</b>               1     <br>\
+                     زَاغَ<br>\
+                     ذ<br>\
+                  , (IDrd, O, K,) aor. يَزُوغُ, (IDrd, O,) inf. n. زَوْغٌ, (IDrd, O, K,) <i>He declined, deviated, swerved,</i> or <i>turned aside,</i> (IDrd, O, K,) from the right course or direction, (IDrd, O,) and from the road; as also زاغ, aor. يَزِيغُ, inf. n. زَيْغٌ, which latter is the more chaste: (O, TA:) the former is a dial. var. of the latter. (Msb in art. زيغ.) ―         -b2-  And زاغ فِى المَنْطِقِ, (Yz, O, K,) aor. يَزُوغُ, (Yz, O,) inf. n. زَوَغَانٌ, <i>He declined,</i> or <i>deviated, from the right way in speech.</i> (Yz, O, K.) ―         -b3-  See also 4.       -A2-  It is also trans.: (O, TA:) you say, زاغ قَلْبَهُ, (O, K, * TA,) aor. يَزُوغُ, (O, TA,) <i>He made his heart to decline, deviate, swerve,</i> or <i>turn aside.</i> (O, K, * TA.) رَبَّنَا لَا تَزُغْ قُلُوبَنَا, with fet-h to the ت and damm to the ز, [<i>O our Lord, make not our hearts to decline from the right way,</i> in the Kur iii. 6, commonly read تُزِغْ, (see 4 in art. زيغ,)] is an extr. reading of Náfi. (O, TA.) ―         -b2-  [Hence, app., if it be correct,] زاغ النَّاقَةَ, (O, K,) aor. يَزُوغُ, inf. n. زَوْغٌ, (O,) <i>He pulled the she-camel by the nose-rein:</i> (O, K:) so says Ibn- &#39;Abbád: but [Sgh says,] the verb in this sense is with the unpointed ع only; which Ibn-&#39;Abbád states to be the better known. (O, TA.)    </entryFree> <br>\
+                     زَاْوَغَ<br>\
+                   see what next follows.    </entryFree> <br>\
+                     اَزْوَغَ<br>\
+                  ازاغهُ فِى المَنْطِقِ, inf. n. اـِزَاغَةٌ, [<i>He made him to decline,</i> or <i>deviate, from the right way in speech,</i> (see 1,)] and ↓ <br>\
+      زَوَاغْتُهُ, inf. n. مُزَاوَغَةٌ and زِوَاغٌ, [being mentioned immediately after, without any explanation, seems to signify <i>I made him to decline,</i> or <i>deviate, from the right way</i> therein, like as بَاعَدْتُهُ is used in the same sense as اَبْعَدْتُهُ,] (TA,) and بِهِ ↓ <br>\
+      زُغْتُ. (O, TA.)    </entryFree> <br>\
+<b>زَاغٌ</b>               1     <br>\
+                     زَاغٌ<br>\
+                     ذ<br>\
+                   is said by Sgh to belong to art. زيغ [q. v.]. (Msb in the present art.)    </entryFree> <br>\
+<b>اَزْوَغُ</b>               1     <br>\
+                     اَزْوَغُ<br>\
+                     ذ<br>\
+                   [<i>More,</i> and <i>most, wont to decline, deviate, swerve,</i> or <i>turn aside,</i> from the right course &amp;amp;c.]. (IJ, TA.)   </entryFree> <br>\
+' } );

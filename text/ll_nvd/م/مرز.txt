@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مرزمَرْزٌ<br>\
+[an inf. n.] i. q.<br>\
+عَيْبٌ; as also لَمْزٌ. (Fr<br>\
+in TA, art. لمز.)<br>\
+' } );

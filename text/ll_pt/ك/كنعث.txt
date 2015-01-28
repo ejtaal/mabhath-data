@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كنعث</em>            1                  كنعث<br>\
+<b>تَكَنْعَثَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَكَنْعَثَ<br>\
+                     ذ<br>\
+                  <i>It</i> (a thing) <i>became collected together.</i> (L.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>خندق</em>            1                  خندق<br>\
+<b>خَنْدَقَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     خَنْدَقَهُ<br>\
+                     خندق<br>\
+                     خندقه<br>\
+                     خندقة<br>\
+                   (K) and خَنْدَقَ حَوْلَهُ (TA) <i>He dug a</i> <br>\
+                  خَنْدَق, i. e. <i>fosse,</i> or <i>moat, around it.</i> (K, * TA.) [In the CK the words of this art. are with ذ in the place of د.]    </entryFree> <br>\
+<b>خَنْدَقٌ</b>               1     <br>\
+                     خَنْدَقٌ<br>\
+                     خندق<br>\
+                  <i>A fosse,</i> or <i>moat,</i> [<i>such as is</i>] <i>dug around the walls of cities:</i> arabicized, from كَنْدَهْ, (IDrd, K,) which is Persian: (IDrd:) pl. خَنَادِقُ. (TA.) ―         -b2-  And <i>A valley.</i> (TA.)    </entryFree> <br>\
+<b>مُخَنْدِقٌ</b>               1     <br>\
+                     مُخَنْدِقٌ<br>\
+                     مخندق<br>\
+                   One <i>who makes a</i> <br>\
+                  خَنْدَق [i. e. <i>fosse,</i> or <i>moat</i>]. (JK.)    </entryFree> <br>\
+<b>خَنْدَقُوقٌ</b>               1     <br>\
+                     خَنْدَقُوقٌ<br>\
+                     خندقوق<br>\
+                  <i>Tall.</i> (TA. [But perhaps this is a mistranscription for حَنْدَقُوقٌ, q. v.])   </entryFree> <br>\
+' } );

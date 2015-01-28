@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>طس</em>            1                  طس<br>\
+<b>طَسٌّ</b>               1     <br>\
+                     طَسٌّ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      طَسَّةٌ (S, M, K) and ↓ <br>\
+      طِسَّةٌ (M, K) <i>i. q.</i> <br>\
+                  طَسْتٌ, (S, K,) which is expl. in its proper place: (TA:) [see art. طست: or] طَسَّةٌ is the original of طَسْتٌ: (Lth, TA:) the pl. (of طَسٌّ, M) is اَطْسَاسٌ [a pl. of pauc.] (M) and طُسُوسٌ (S, M, K) and طَسِيسٌ (M, K) [or rather this is a quasi-pl. n.] and (of طَسَّةٌ and طِسَّةٌ, M) طِسَاسٌ and [of طَسَّةٌ also] طَسَّاتٌ, (S, K,) and طِسَّةٌ may also have for its pl. طِسَسٌ, accord. to rule. (M.) The dim. [of طَسٌّ] is طُسَيْسٌ; (S in art. طست;) and [of طَسَّةٌ and طِسَّةٌ,] طُسَيْسَةٌ. (IKt and Msb in art. طست.)    </entryFree> <br>\
+<b>طَسَّةٌ</b>               1     <br>\
+                     طَسَّةٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.    </entryFree> <br>\
+<b>طِسَّةٌ</b>               1     <br>\
+                     طِسَّةٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.    </entryFree> <br>\
+<b>طِسَاسَةٌ</b>               1     <br>\
+                     طِسَاسَةٌ<br>\
+                     ذ<br>\
+                   The <i>trade of selling,</i> (M,) or the <i>art of making,</i> (K,) [<i>the kind of basins called</i>] طُسُوس [pl. of طَسٌّ]. (M, K. *)    </entryFree> <br>\
+<b>طَسَّاسٌ</b>               1     <br>\
+                     طَسَّاسٌ<br>\
+                     ذ<br>\
+                  <i>A seller,</i> (M,) or <i>maker,</i> (K,) <i>of</i> [<i>the kind of basins called</i>] طُسُوس, (M, K. *)   </entryFree> <br>\
+' } );

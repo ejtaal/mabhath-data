@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نمصأَنْمَصُ<br>\
+Having no eyebrows. (TA in art.<br>\
+ثط.)<br>\
+' } );

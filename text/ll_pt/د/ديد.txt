@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>ديد</em>            1                  ديد<br>\
+<b>ديّد</b>               1     <br>\
+                     ديّد<br>\
+                     ديد<br>\
+                  : see 1 in art. دود.    </entryFree> <br>\
+<b>دَيْدٌ</b>               1     <br>\
+                     دَيْدٌ<br>\
+                     ديد<br>\
+                  : see دَدَنٌ.    </entryFree> <br>\
+<b>دَيَدَانٌ</b>               1     <br>\
+                     دَيَدَانٌ<br>\
+                     دود<br>\
+                     ديدان<br>\
+                  : see دَدَنٌ.   </entryFree> <br>\
+' } );

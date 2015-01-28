@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>ومد</em>            1                  ومد<br>\
+<b>وَمِدَتِ اللَّيْلَةُ</b>               1     <br>\
+                     وَمِدَتِ اللَّيْلَةُ<br>\
+                     ذ<br>\
+                  , (S, L, K.) aor. تَوْمَدُ, inf. n. وَمَدٌ, (L,) <i>The night was,</i> or <i>became, one of</i> <br>\
+                  وَمَد, i. e., <i>intense heat, &amp;amp;c.,</i> as explained below. (S, L, K. *) One also says وَمِدَ اليَوْمُ: but the former is more common. (M, L.) ―         -b2-  وَمِدَ عَلَيْهِ, (S, * M, A, L, K *,) aor. يَوْمَدُ, (K,) inf. n. وَمَدٌ, (M, L, K;) (tropical:)  <i>He was angry with him;</i> (S, M, A, L, K;) <i>was incensed against him; i. q.</i> <br>\
+                  وَبِدَ, (S, L,) of which it is a dial. form. (S.)    </entryFree> <br>\
+<b>وَمَدٌ</b>               1     <br>\
+                     وَمَدٌ<br>\
+                     ذ<br>\
+                  <i>Intenseness of the heat of night;</i> as also ↓ <br>\
+      وَمَدَةٌ: (S, L, K:) or <i>intense heat:</i> (CK:) or <i>sultriness;</i> i. e., <i>intense heat with stillness of the wind:</i> (Ks, T, L, K:) or <i>heat of whatever kind with stillness of the wind:</i> (M, L:) or <i>dew,</i> or <i>moisture, that comes during the greatest heat,</i> (M, A, L, K,) <i>from the direction of the sea,</i> (M, L, K,) <i>with stillness of the wind:</i> (M, L:) or <i>a dew,</i> or <i>moisture, that comes from the direction of the sea, when its vapour rises and is blown by the east wind, so that it falls upon the bordering regions like the dew of heaven, very noxious to men by reason of its offensive smell:</i> (T, L:) and وَمَدَةٌ <br>\
+                  <i>a dew,</i> or <i>moisture, from the sea, falling upon men in the intenseness of heat, when the wind is still:</i> (L:) <i>it comes during the greatest heat, from the direction of the sea, and falls upon men in the night;</i> (Lth, T, L;) <i>and sometimes in the days of autumn also.</i> (T, L.)    </entryFree> <br>\
+<b>لَيْلَةٌ وَمِدٌ</b>               1     <br>\
+                     لَيْلَةٌ وَمِدٌ<br>\
+                     ذ<br>\
+                  : (L, K:) and ↓ <br>\
+      وَمِدَةٌ, (T, M, A, L, K,) which latter is the more common, (TA,) <i>A night of</i> <br>\
+                  وَمَد, i. e., <i>intense heat, &amp;amp;c.,</i> as explained above. (T, M, A, L, K.) One also says يَوْمٌ وَمِدٌ: but not so commonly. (M, L.) ―         -b2-  هُوَ عَلَيْهِ وَمِدٌ (tropical:)  <i>He is angry with him.</i> (A.)    </entryFree> <br>\
+<b>وَمَدَةٌ</b>               1     <br>\
+                     وَمَدَةٌ<br>\
+                     ذ<br>\
+                  : see وَمَدٌ.    </entryFree> <br>\
+<b>وَمِدَةٌ</b>               1     <br>\
+                     وَمِدَةٌ<br>\
+                     ذ<br>\
+                  : see وَمِدٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'همدهَمْدَةٌ<br>\
+A trance: so rendered voce رَقْدَةٌ.<br>\
+' } );

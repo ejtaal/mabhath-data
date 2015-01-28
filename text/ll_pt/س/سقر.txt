@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>سقر</em>            1                  سقر<br>\
+<b>سَقَرَ الضْلَرژَّمْسُ</b>               1     <br>\
+                     سَقَرَ الضْلَرژَّمْسُ<br>\
+                     ذ<br>\
+                  , (S,) aor.      <br>\
+                     سَقُرَ<br>\
+                  , inf. n. سَقْرٌ, (TA,) <i>The sun scorched,</i> or <i>burned, him, altering the colour of his complexion and shin,</i> (S, * TA,) <i>and pained him,</i> or <i>pained his brain by its heat:</i> (TA:) <i>melted and heated him,</i> or <i>it.</i> (TA.) And سَقَرَتْهُ النَّارُ <br>\
+                  <i>The fire altered the colour of his skin;</i> or <i>scorched his skin, and altered its colour;</i> as also صَقَرَتْهُ. (Bd in liv. 48.)    </entryFree> <br>\
+<b>سَقْرٌ</b>               1     <br>\
+                     سَقْرٌ<br>\
+                     ذ<br>\
+                   The <i>heat, and hurtful action, of the sun.</i> (K.)    </entryFree> <br>\
+<b>سَقَرُ</b>               1     <br>\
+                     سَقَرُ<br>\
+                     ذ<br>\
+                  <i>Hell:</i> (S, K:) one of the [proper] names thereof: (S:) Aboo-Bekr says, There are two opinions respecting this word: some say, that <i>the fire of the world to come</i> is thus called, and that the derivation of the word is unknown, and that it is imperfectly decl. because it is determinate and a foreign word: others say that it is from سَقَرَتْهُ الضْلَرژَّمْسُ, because it melts the bodies and souls, and that it is an Arabic word; and he who holds it to be such says that it is imperfectly decl. because it is determinate and of the fem. gender. (TA.)    </entryFree> <br>\
+<b>سَقَرَاتٌ</b>               1     <br>\
+                     سَقَرَاتٌ<br>\
+                     ذ<br>\
+                   The <i>vehemence of the stroke</i> of the sun. (S.)    </entryFree> <br>\
+<b>مُسْمَقِرُّ</b>               1     <br>\
+                     مُسْمَقِرُّ<br>\
+                     ذ<br>\
+                   A day <i>vehemently hot.</i> (S in this art., and K in art. سمقر.) This is its proper place. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قصطسقُصْطَاسٌ and قِصْطَاسٌ dial. forms of قُسْطَاسٌ and<br>\
+قسْطَاسٌ. [q. v.] (K.)<br>\
+قصع قصف قصل قصم قصو<br>\
+See Supplement<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'طى2<br>\
+طَيَّيْتُ طَآءً I wrote a ط. (TA.)<br>\
+طَآءٌ, also pronounced طَا, One of the letters of<br>\
+the alphabet [i. e. the letter ط]: masc. and fem.:<br>\
+Kh says that its ا is originally ى. (TA.) [See<br>\
+art. ط.]<br>\
+-A2-  It is also an epithet applied to a man,<br>\
+meaning Multum coiens. (KL, TA.)<br>\
+طَىَّ: and طِىٌّ: and طَيَّةٌ: and طِيَّةٌ (also pronounced طِيَةٌ): and طَيَّانُ, fem. طَيَّا or طَيَّآءٌ: see<br>\
+in art. طوى.<br>\
+' } );

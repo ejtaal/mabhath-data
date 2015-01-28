@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>وضن</em>            1                  وضن<br>\
+<b>وَضِينٌ</b>               1     <br>\
+                     وَضِينٌ<br>\
+                     ذ<br>\
+                  <i>A girth</i> (بِطَان) <i>wide, woven of thongs or hair,</i> or <i>only of skin;</i> (M, K;) <i>said to be adapted for the</i> <br>\
+                  رَحْل <br>\
+                  <i>and the</i> <br>\
+                  هَوْدَج; the بِطَان being peculiarly for the قَتَب: (M:) or <i>it is for the</i> <br>\
+                  هَوْدَج, <i>like the</i> <br>\
+                  بِطَان <br>\
+                  <i>for the</i> <br>\
+                  قَتَب <br>\
+                  <i>and the</i> <br>\
+                  تَصْدِير <br>\
+                  <i>for the</i> <br>\
+                  رَحْل <br>\
+                  <i>and the</i> <br>\
+                  حِزَام <br>\
+                  <i>for the</i> <br>\
+                  سَرْج; and <i>both</i> [but to what this refers is doubtful] <i>are like the</i> <br>\
+                  نِسْع, <i>except that they are of thongs woven one upon another, doubly</i> or <i>more.</i> (S.)    </entryFree> <br>\
+<b>مِيضَنَةٌ</b>               1     <br>\
+                     مِيضَنَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  قُفَّةٌ i. e. مَرْجُونَةٌ. (TA in art. ضون.)   </entryFree> <br>\
+' } );

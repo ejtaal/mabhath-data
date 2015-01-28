@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'هجب1<br>\
+هَجَبَ, aor.<br>\
+هَجُبَ, inf. n. هَجْبٌ, He drove, or<br>\
+urged along. (K.) ―<br>\
+-b2-  Also, He beat with a<br>\
+stick, or staff. (K.) ―<br>\
+-b3-  Also, هَجَبَ, inf. n. as<br>\
+above, He was quick, or swift, (K,) in his pace<br>\
+&amp;c. (TA.) ―<br>\
+-b4-  This art. is omitted by most of<br>\
+the lexicographers, because not regarded by them<br>\
+as of established authority. (TA.)<br>\
+' } );

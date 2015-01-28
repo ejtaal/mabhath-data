@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يزن</em>            1                  يزن<br>\
+<b>يَزَنِىٌّ</b>               1     <br>\
+                     يَزَنِىٌّ<br>\
+                     ذ<br>\
+                   and اَيْزَنِىٌّ, applied to a spear: see اَزْاَنِى, in art. زان.   </entryFree> <br>\
+' } );

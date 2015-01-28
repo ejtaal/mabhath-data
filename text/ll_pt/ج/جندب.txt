@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جندب</em>            1                  جندب<br>\
+<b>جُنْدَبٌ</b>               1     <br>\
+                     جُنْدَبٌ<br>\
+                     جندب<br>\
+                   and جُنْدُبٌ and جَنْدَبٌ: see art. جدب.   </entryFree> <br>\
+' } );

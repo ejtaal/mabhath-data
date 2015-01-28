@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ليق1<br>\
+مَا يَلِيقُ بِهِ It is not suitable to him, does<br>\
+not befit him, that he should do such a thing.<br>\
+(Msb.)<br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'وحبوُحَابٌ A disease that attacks camels. (K,<br>\
+TA.) By some written وَجَابٌ; [and so in the<br>\
+CK;] but the correctness of this is improbable.<br>\
+(TA.)<br>\
+' } );

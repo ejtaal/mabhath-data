@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'طنبرطِنْبَارٌ: see the next paragraph.<br>\
+طُنْبُورٌ (S, O, Msb, K) and ↓ طِنْبَارٌ (S, O, K)<br>\
+[the former vulgarly pronounced طَنْبُور] A certain<br>\
+musical instrument; (O, Msb;) [a kind of mandoline with chords of brass wire, which is played<br>\
+with a plectrum;] arabicized, (S, O, Msb, K,)<br>\
+from the Pers., (S, O, Msb,) originally دُنْبَهْ بَرَّهْ,<br>\
+(K, TA,) [correctly دُنْبَهْ بَرَهْ, or] دُنْبِ بَرَهْ, (O,)<br>\
+being likened to the tail (أَلْيَة) of a lamb: (O, K,<br>\
+TA:) so says As: (O:) pl. طَنَابِيرُ. (MA.)<br>\
+[Accord. to the Msb, طُنْبُورٌ is of the measure<br>\
+فُنْعُولٌ: but accord. to the derivation mentioned<br>\
+above, the ن is a radical letter.]<br>\
+طُنْبُورِىٌّ [or, accord. to Golius, on the authority<br>\
+of Meyd, طُنْبُورَانِىٌّ,] A player on the طُنْبُور.<br>\
+(MA.)<br>\
+' } );

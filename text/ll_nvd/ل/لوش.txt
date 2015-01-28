@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'لوشلَاشَ an abbreviation of لَاشَىْءَ [Nothing]. It<br>\
+is generally used coupled, or connected, with<br>\
+a word of similar form; as in the saying<br>\
+المَاشُ خَيْرٌ مِنْ لَاشَ, which see in art. موش.<br>\
+(TA.)<br>\
+' } );

@@ -1,0 +1,62 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اكم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اكم<br>\
+&lt;entryFree id=&quot;n1030&quot; key=&quot;تَاْكِيمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     تَاْكِيمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;being big in the&lt;/i&gt; <br>\
+                  كَفَل [i. e. the &lt;i&gt;hinder parts,&lt;/i&gt; or &lt;i&gt;posteriors,&lt;/i&gt; also termed مَاْكَمَةٌ]. (O, K.) You say, اَكَّمَتِ المَرْاَةٌ <br>\
+                  &lt;i&gt;The woman was large in the&lt;/i&gt; <br>\
+                  كَفَل. (TK.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1031&quot; key=&quot;استاكم&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاكم<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a place) &lt;i&gt;became what are termed&lt;/i&gt; <br>\
+                  اَكَم, q. v. (K.)       -A2-  استاكم مَجْلِسَهُ <br>\
+                  &lt;i&gt;He&lt;/i&gt; (a man, TA) &lt;i&gt;found his sitting-place to be plain, smooth, soft,&lt;/i&gt; or &lt;i&gt;easy to sit upon.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1032&quot; key=&quot;اَكَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكَمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1033&quot; key=&quot;اَكَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A hill,&lt;/i&gt; or &lt;i&gt;mound,&lt;/i&gt; syn. تَلٌّ, (Msb, K,) [in an absolute sense, or] &lt;i&gt;of what is termed&lt;/i&gt; <br>\
+                  قُفّ [q. v.], (K,) or, as in the M, (TA,) &lt;i&gt;of a single collection of stones:&lt;/i&gt; or it is &lt;i&gt;inferior to mountains:&lt;/i&gt; or &lt;i&gt;a place that is more elevated than what is around it, and is rugged, not to the degree of being stone:&lt;/i&gt; (K:) or &lt;i&gt;an isolated mountain:&lt;/i&gt; (K voce جَبَلٌ:) or &lt;i&gt;an eminence like what is termed&lt;/i&gt; <br>\
+                  رَابِيَة: &lt;i&gt;a collection of stones in one place, sometimes rugged and sometimes not rugged:&lt;/i&gt; (Msb:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  قُفٌّ, &lt;i&gt;except that the&lt;/i&gt; <br>\
+                  اكمة <br>\
+                  &lt;i&gt;is higher and greater:&lt;/i&gt; (ISh, TA:) or &lt;i&gt;what is higher than the&lt;/i&gt; <br>\
+                  قُفّ, &lt;i&gt;compact and round, rising into the sky, abounding with stones:&lt;/i&gt; (TA:) pl. اَكَمَاتٌ (S, Msb) and ↓ <br>\
+      اَكَمٌ, [or this is rather a coll. gen. n. of which اَكَمَةٌ is the n. un.,] (S, Msb, K,) and اـِكَامٌ, (K, TA,) or this is pl. of اَكَمٌ, (S, Msb, TA,) and اُكُمٌ, (K, TA,) or this is pl. of اـِكَامٌ, (S, Msb, TA,) and ا=كَامٌ [a pl. of pauc.], (K,) or this is pl. of اُكُمٌ, (S, Msb, TA,) and ا=كُمٌ [which is also a pl. of pauc.], (IJ, K,) or this is a pl. of اَكَمٌ: (TA:) IHsh says that اَكَمٌ is the only word like ثَمَرٌ in its series of pls.; for its sing. [or n. un.] is اَكَمَةٌ, and the pl. of this [or the coll. gen. n.] is اَكَمٌ, and the pl. of this is اـِكَامٌ, and the pl. of this is اُكُمٌ, and the pl. of this is ا=كَامٌ, and the pl. of this is اَكَامِيمُ [or اَوَاكِيمُ?]. (MF in art. ثمر.) It is said in a prov., used in ridiculing any one who has told of his committing some fault, not desiring to reveal it, جُسْتُمُونِى وَوَرَا=ءَ الاَكَمَةِ مَا وَرَا=ءَهَا [in which I think the first word to be a mistranscription, for جِيْتُمُونِى, and the literal meaning to be, &lt;i&gt;Ye have come to me; but behind the hill is what is behind it&lt;/i&gt;]: related on the authority of Zeyd Ibn-Kethweh. (TA.) And one says, لَا تَبُلْ عَلَى <br>\
+                  اَكَمةٍ, meaning (tropical:)  &lt;i&gt;Publish not what is secret of thine affair.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1034&quot; key=&quot;مَاْكَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْكَمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَاْكِمٌ: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1035&quot; key=&quot;مَاْكَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْكَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (El-Fárábee,) or مَاْكِمَةٌ, (S,) or both, and ↓ <br>\
+      مَاْكَمٌ and ↓ <br>\
+      مَاْكِمٌ, (IAth, K,) The &lt;i&gt;hinder part, posteriors, buttocks,&lt;/i&gt; or &lt;i&gt;rump,&lt;/i&gt; of a woman; syn. عَجِيزَةٌ: (S:) or &lt;i&gt;a portion of flesh on the head of the&lt;/i&gt; <br>\
+                  وَرِك [or &lt;i&gt;haunch&lt;/i&gt;]; &lt;i&gt;one of two such portions:&lt;/i&gt; (Zj in his “Khalk el-Insán,“ and K:) or these are &lt;i&gt;two protuberances of flesh on the heads of the upper parts of the&lt;/i&gt; <br>\
+                  وَرِكَانِ [or &lt;i&gt;haunches&lt;/i&gt;]; &lt;i&gt;on the right and left:&lt;/i&gt; (TA:) or they are &lt;i&gt;two portions of flesh conjoining the&lt;/i&gt; <br>\
+                  عَجُز [or &lt;i&gt;buttocks&lt;/i&gt;] &lt;i&gt;and the&lt;/i&gt; <br>\
+                  مَتْنَانِ [or &lt;i&gt;two portions of flesh and sinew next the back-bone, on each side&lt;/i&gt;]; (K, TA;) or, as in the Nh, &lt;i&gt;conjoining the&lt;/i&gt; <br>\
+                  عَجْب [or rump-bone] &lt;i&gt;and the&lt;/i&gt; <br>\
+                  متنان: or &lt;i&gt;two portions of flesh at the root of the&lt;/i&gt; <br>\
+                  وَرِكَاِ: (TA:) pl. مَا=كِمُ. (S, K.) Lh mentions the saying, اـِنَّهُ لَعَظِيمُ الما=كِمِ [&lt;i&gt;Verily he is big in the hinder parts&lt;/i&gt;]; as though they called every portion thereof ماكم. (TA.) And one says in reviling a person, يَا اْبِنَ اَحْمَرِ المَاْكَمَةِ, meaning &lt;i&gt;O son of him who is red in the&lt;/i&gt; <br>\
+                  سَفِلَةِ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1036&quot; key=&quot;مُوَكِّمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَكِّمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1037&quot; key=&quot;مُوَاكِمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَاكِمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [in the CK, erroneously, مُواكَمَة] and ↓ <br>\
+      مُوَكِّمَةٌ She &lt;i&gt;who is large in the&lt;/i&gt; <br>\
+                  مَاْكَمَتَانِ. (K.) &lt;pb n=&quot;74&quot; TEIform=&quot;pb&quot;/&gt;   <br>\
+' } );

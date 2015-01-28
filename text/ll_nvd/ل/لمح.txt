@@ -1,0 +1,77 @@
+load_data( { book: 'll_nvd', text: 'لمح1<br>\
+لَمَحَهُ, (S,) or لَمَحَ إِلَيْهِ, aor.<br>\
+لَمَحَ, (L, Msb, K),<br>\
+inf. n. لَمْحٌ; (Msb;) and ↓ المح, (L, K,) or<br>\
+↓ المحهُ, (S, Msb,) and ↓ التمحهُ; (S;) He<br>\
+glanced, or took a light, or slight, look, at him or<br>\
+it; (S;) like لَمَأَهُ; (Nh;) snatched a sight of<br>\
+him or it unawares: (L, Msb, K;) or, accord.<br>\
+to some, لَمَحَ signifies he looked; and ↓ المحهُ,<br>\
+he made him to look; but the former explanation<br>\
+is the more correct: or لَمَحَ is only said of one<br>\
+looking from a distance. (L.) ―<br>\
+-b2-  لَمَحْتُهُ بِالبَصَرِ<br>\
+I directed (صَوَّبْتُ) my sight towards him.<br>\
+(Msb.) ―<br>\
+-b3-  لَمَحَ البَصَرُ The sight extended to a<br>\
+thing. (Msb.) ―<br>\
+-b4-  لَمَحَ, aor.<br>\
+لَمَحَ, inf. n. لَمْحٌ<br>\
+(S, K) and لَمَحَانٌ and تَلْمَاحٌ, (K,) It (lightning,<br>\
+and a star,) shone; gleamed; glistened; i. q. لَمَعَ.<br>\
+(S, K.)<br>\
+3<br>\
+لَامَحَهُ, inf. n. مُلَامَحَةٌ, [He glanced at him,<br>\
+or viewed him lightly, or slightly, or snatched sights<br>\
+of him unawares, reciprocally]. (A.)<br>\
+4<br>\
+المحهُ He made him to glance, or to take a<br>\
+light, or slight, look; expl. by جَعَلَهُ يَلْمَحَ, (K,)<br>\
+and جَعَلَهُ مِمَّنْ يَلْمَحُ. (TA.) ―<br>\
+-b2-  See 1. ―<br>\
+-b3-<br>\
+أَلْمَحَتِ المَرْأَةُ مِنْ وَجْهِهَا, (inf. n. إِلْمَاحٌ, TA,)<br>\
+The woman allowed herself [or her face] to be<br>\
+glanced at, or to be viewed lightly, or slightly: so<br>\
+does a beautiful woman, displaying, and then<br>\
+concealing, her beauties. (T, K.)<br>\
+8<br>\
+أَلْتُمِحَ بَصَرُهُ His sight was taken away. (K.)<br>\
+―<br>\
+-b2-  See 1.<br>\
+فُلَانٌ سَمْحٌ لَمْحٌ, and ↓ سَمِيحٌ لَمِيحٌ: see art.<br>\
+سمح. [لَمْحٌ and لَمِيحٌ in these cases seem to be<br>\
+merely imitative sequents.] ―<br>\
+-b2-  لَأُرِيَنَّكَ لَمْحًا بَاصِرًا<br>\
+(tropical:)  I will assuredly show thee a manifest, or an<br>\
+evident, thing, matter, or affair. (S, A, K.) [See<br>\
+also art. بصر.]<br>\
+لَمْحَةٌ, subst. from لَمَحَ, (S, L,) A glance, or<br>\
+light or slight look. (L.) ―<br>\
+-b2-  لَمْحَةٌ A shining,<br>\
+gleaming, or glistening, of lightning. (S.) ―<br>\
+-b3-<br>\
+فِى فُلَانٍ لَمْحَةٌ مِنْ أَبِيهِ In such a one is<br>\
+a likeness, or point of resemblance, to his<br>\
+father: then they said مِنْ ابيه ↓ مَلامِحُ,<br>\
+(S,) signifying likenessess, or points of resemblance;<br>\
+forming an extr. pl., (S, K,) as though from another word than لَمْحَةٌ: (S:) they did not say<br>\
+مَلْمَحَةٌ. (TA.) ―<br>\
+-b4-  ↓ مَلَامِحُ also signifies What<br>\
+appear of the beauties and defects of the face (K)<br>\
+of a human being: or the parts thereof that are<br>\
+glanced at, or viewed lightly or quickly. (TA.)<br>\
+لَمُوحٌ: see لَامِحٌ.<br>\
+لَمِيحٌ: see لَمْحٌ.<br>\
+لَمَّاحٌ: see لَامِحٌ.<br>\
+لُمَّاحٌ Sharp hawks; syn. صُقُورٌ ذَكِيَّةٌ. (IAar,<br>\
+T, K, [in the CK, زَكِيَّة].)<br>\
+لَامِحٌ and ↓ لَمُوحٌ and ↓ لَمَّاحٌ Lightning, and a<br>\
+star, shining; gleaming; glistening: (K:) [but<br>\
+the second and third are intensive epithets, signifying shining much; &amp;c.] ―<br>\
+-b2-  ↓ أَبْيَضُ لَمَّاحٌ (tropical:)  Intensely white. (A.) ―<br>\
+-b3-  لَامِحُ عِطْفَيْهِ A self-admiring man, who looks at his sides. (M, F.)<br>\
+أَلْمَحِىٌّ A man (TA) who glances much, or<br>\
+frequently takes light, or slight looks. (K.)<br>\
+مَلَامِحُ: see لَمْحَةٌ.<br>\
+' } );

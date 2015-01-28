@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>سنج</em>            1                  سنج<br>\
+<b>سَنَجَ</b>               1     <br>\
+                     سَنَجَ<br>\
+                     ذ<br>\
+                  <i>He smeared</i> anything <i>with a colour different from its own colour.</i> (O, K.)    </entryFree> <br>\
+<b>سُنُجٌ</b>               1     <br>\
+                     سُنُجٌ<br>\
+                     ذ<br>\
+                   The عُنَّاب [or <i>jujube</i>]. (IAar, K.)    </entryFree> <br>\
+<b>سَنْجَةٌ</b>               1     <br>\
+                     سَنْجَةٌ<br>\
+                     ذ<br>\
+                  , as also صَنْجَةٌ, but the former is the more chaste, (T, O, Msb, K,) accord to Fr, (O,) because ص and ج do not both occur in any [genuine] Arabic word, (Msb,) or the former only is allowable accord. to Fr, (T, Msb,) or, accord. to ISk, (T, O, Msb, and S in art. صنج,) and IKt, (T, Msb,) the latter only is allowable; (T, O, Msb, and S and O in art. صنج;) an arabicized word, (O, Msb, and S and A and K in art. صنج,) from [the Pers.] سنك [or سَنْگْ, as meaning “ a weight ”]; (O;) [or rather from the Pers. سَنْجَهْ meaning “ a balance ” and “ a weight; ”] <i>i. q.</i> <br>\
+                  مِيزَانٌ [<i>A balance</i>]: (A in art. صنج:) [in the present day, applied to <i>a steel-yard:</i> and also, more commonly, (agreeably with the explanation of صَنْجَةٌ in the MA,) to <i>a weight of a balance;</i> which last seems to be intended in the S and O and Msb and K &amp;amp;c. by the expressions سَنْجَةُ المِيزَانِ and صَنْجَتُهُ, unless these expressions be instances of what is termed اـِضَافَةُ <br>\
+                  الشَّىْءِ اـِلَى نَفْسِهِ (i. e. the prefixing a noun, governing the gen. case, to another noun signifying the same thing), which I think unlikely:] pl. سِنَجٌ (A, Msb) and سَنَجَاتٌ. (Msb.) One says, اِتَّزَنَ <br>\
+                  منّى بِالسَّنْجَة الرَّاجِحَةِ [<i>He received by weight from me with the inclining balance,</i> or <i>with the preponderating weight</i>], and بِالسِّنَجِ الوَافِيَةِ [<i>with the full weights</i>]. (A.) And a rájiz says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كَاَنَّهَا سَنْجَةُ اَلْفٍ رَاجِحَهْ<br>\
+                  </quote> [<i>As though it,</i> or <i>she, were the weight of a thousand, preponderating</i>]: or, as some relate it, صَنْجَةٌ. (O.)    </entryFree> <br>\
+<b>سُنْجَةٌ</b>               1     <br>\
+                     سُنْجَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  رُقْطَةٌ [i. e. <i>Blackness mixed with speckles of white:</i> or <i>the reverse:</i> or <i>speckles of white,</i> and <i>of black,</i> and <i>of red,</i> and <i>of yellow,</i> in an animal]: (AA, O, K:) pl. سُنَجٌ, (O, K, TA, in the CK سُنْجٌ,) like حُجَرٌ (K, TA, in the CK like حُجْرٌ,) as pl. of حُجْرَةٌ. (TA.)    </entryFree> <br>\
+<b>سِنَاجٌ</b>               1     <br>\
+                     سِنَاجٌ<br>\
+                     ذ<br>\
+                   The <i>mark,</i> or <i>effect, of the</i> <br>\
+                  سِرَاج [i. e. <i>lamp,</i> or <i>its lighted wick</i>], (A, O, K,) <i>upon the wall.</i> (O, K, TA.) One says, لَابُدَّ لِلسِّرَاجِ مِنَ <br>\
+                  السِّنَاجِ [<i>The lamp,</i> or <i>its lighted wick, cannot but have the mark,</i> or <i>effect, thereof upon the wall</i>]. (A.) ―         -b2-  Also The سِرَاج [<i>itself;</i> i. e. <i>a lamp,</i> or <i>its lighted wick</i>]: (ISd, K:) as also ↓ <br>\
+      سَنِيجٌ. (K.)    </entryFree> <br>\
+<b>سَنِيجٌ</b>               1     <br>\
+                     سَنِيجٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>بُرْدٌ مُسَنَّجٌ</b>               1     <br>\
+                     بُرْدٌ مُسَنَّجٌ<br>\
+                     ذ<br>\
+                  <i>A</i> [<i>garment of the kind called</i>] بُرْد <br>\
+                  <i>striped.</i> (O, K.) [SM thinks that it may be a mistranscription for مُسَبَّجٌ, meaning “ wide, ” applied to a كِسَا=ء: but this I think improbable.]   </entryFree> <br>\
+' } );

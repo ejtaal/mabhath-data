@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'لوف1<br>\
+مَا عَاقَتْ وَلَا لَافَتْ: see 1 in art. عوق.<br>\
+' } );

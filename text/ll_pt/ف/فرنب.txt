@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>فرنب</em>            1                  فرنب<br>\
+<b>فِرْنِبٌ</b>               1     <br>\
+                     فِرْنِبٌ<br>\
+                     ذ<br>\
+                  <i>A rat,</i> or <i>mouse;</i> syn. فَاْرَةٌ: (IAar, O, K:) or the <i>young one generated between it and a jerboa:</i> (K:) or [as a coll. gen. n.] the <i>rat,</i> or <i>mouse;</i> syn. فَاْرٌ. (T.) [See also قَرْنَبٌ.]   </entryFree> <br>\
+' } );

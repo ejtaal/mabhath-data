@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>وار</em>            1                  وار<br>\
+                     وَاڤَ<br>\
+                   The verse of Lebeed, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        تَسْلُبُ الكَانِسَ لَمْ يُواَرْ بِهَا<br>\
+                     <L><br>\
+                        شُعْبَةَ السَّاقِ اـِذَا الظِّلُّ عَقَلْ<br>\
+                  </quote> means <i>She carries off from the gazelle entering his covert, he not being frightened by her. the branch of the trunk of the tree</i> above him, <i>when the shade contracts,</i> or <i>decreases,</i> or <i>goes away, at midday:</i> he is describing his swift she-camel.    </entryFree> <br>\
+<b>اِسْتَوْءَرَ</b>               1     <br>\
+                     اِسْتَوْءَرَ<br>\
+                     ذ<br>\
+                  <i>He hasted in the darkness;</i> as also استاور. (K, art. اور.)   </entryFree> <br>\
+' } );

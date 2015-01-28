@@ -1,0 +1,64 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جرا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جرا<br>\
+&lt;entryFree id=&quot;n5416&quot; key=&quot;جَرُوَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     جَرُوَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَرُاَ<br>\
+                  &lt;/form&gt;, inf. n. جَرَا=ءَةٌ (S, Msb, K) and جَرَايِيَةٌ and جَرَايَةٌ, with ى [in the place of ء], which is extr., (K,) and جُرْاَةٌ and جُرَةٌ, (S, K,) thus sometimes, without ء, like as one says مَرْاَةٌ and جُرْاَةٌ, (S,) [all mentioned as inf. ns. in the TK, and app. as such in the K, but only the first is explicitly mentioned as an inf. n. in the S and Msb, and ↓ <br>\
+      استجرا is said in the Msb to be a simple subst.,] &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, bold, daring, brave,&lt;/i&gt; or &lt;i&gt;courageous;&lt;/i&gt; (S, Msb, * K, TA;) &lt;i&gt;so as to attempt,&lt;/i&gt; or &lt;i&gt;venture upon, a thing without consideration or hesitation:&lt;/i&gt; (TA:) [said of a brute and the like, as well as of a man:] and ↓ <br>\
+      استجرا is syn. therewith. (IJ, W p. 146.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5417&quot; key=&quot;جَرَّاْتُهُ عَلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     جَرَّاْتُهُ عَلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (inf. n. تَجْرِىْءٌ, K,) &lt;i&gt;I emboldened him,&lt;/i&gt; or &lt;i&gt;encouraged him, against him.&lt;/i&gt; (S, Msb, * K, TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَجَرَّاَ<br>\
+                  &lt;/form&gt; see 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5418&quot; key=&quot;اجترا عَلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اجترا عَلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) or ↓ <br>\
+      تجرّا, (Msb,) &lt;i&gt;He became emboldened&lt;/i&gt; or &lt;i&gt;encouraged,&lt;/i&gt; or &lt;i&gt;he emboldened&lt;/i&gt; or &lt;i&gt;encouraged himself, against him.&lt;/i&gt; (S, Msb, * K, TA.) ―         -b2-  اجترا عَلَى القَوْلِ <br>\
+                  &lt;i&gt;He ventured upon the saying hastily and unhesitatingly.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَجْرَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5419&quot; key=&quot;جُرْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُرْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Boldness, daringness, bravery,&lt;/i&gt; or &lt;i&gt;courage;&lt;/i&gt; as also جُرَةٌ: (S: see 1:) the &lt;i&gt;quality of venturing&lt;/i&gt; upon a saying [&amp;amp;c.] &lt;i&gt;hastily and unhesitatingly.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5420&quot; key=&quot;جَرِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَرِىْءٌ<br>\
+                     جرىء<br>\
+                     جريء<br>\
+                     جري<br>\
+                  &lt;i&gt;Bold, daring, brave,&lt;/i&gt; or &lt;i&gt;courageous:&lt;/i&gt; (S, Msb, * K, TA:) pl. اَجْرَا=ءٌ, accord. to a MS. copy of the K; [and so in the CK;] but in the M, اَجْرِيَا=ءُ, with two hemzehs, on the authority of Lh; and so in some copies of the K; and sometimes جُرَا=ءُ, like حُلَمَا=ءُ, occurring in a trad., as some relate it; but the reading commonly known is حُرَا=ء, with the unpointed ح. (TA.) ―         -b2-  جَرِىْءُ المُقْدَمِ <br>\
+                  &lt;i&gt;Bold, daring, brave,&lt;/i&gt; or &lt;i&gt;courageous, in venturing&lt;/i&gt; [against an adversary, or upon an undertaking]. (S.) ―         -b3-  الجَرِىْءُ <br>\
+                  &lt;i&gt;The lion;&lt;/i&gt; as also ↓ <br>\
+      المُجْتَرِىءُ. (O, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5421&quot; key=&quot;جَرِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَرِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A chamber&lt;/i&gt; (K, TA) &lt;i&gt;constructed of stones, with a stone placed over its entrance,&lt;/i&gt; (TA,) &lt;i&gt;for the purpose of entrapping wild beasts:&lt;/i&gt; (K, TA:) the piece of flesh-meat for the wild beast is put in the hinder part of the chamber; and when he enters to take the piece of meat, the stone falls upon the entrance, and closes it: (TA:) pl. جَرَايِىُ (accord. to some copies of the K,) or جَرَايِىءُ, (accord. to others,) mentioned by AZ as one of the forms of pl. repudiated by the Arabic grammarians except in some anomalous instances. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5422&quot; key=&quot;الجِرِّيْيَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الجِرِّيْيَةُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The&lt;/i&gt; <br>\
+                  قَانِصَة [here app. meaning the &lt;i&gt;stomach,&lt;/i&gt; or &lt;i&gt;triple stomach,&lt;/i&gt; or the &lt;i&gt;crop,&lt;/i&gt; or &lt;i&gt;craw,&lt;/i&gt; of a bird], and &lt;i&gt;the&lt;/i&gt; <br>\
+                  حُلْقُوم [here app. meaning the &lt;i&gt;gullet&lt;/i&gt; of a bird]; like الجِرِّيَّةُ; (K;) i. e. &lt;i&gt;the&lt;/i&gt; <br>\
+                  حَوْصَلَة [meaning the &lt;i&gt;stomach,&lt;/i&gt; or the &lt;i&gt;crop,&lt;/i&gt; of a bird]: it is said in the T, on the authority of AZ, that القِرِّيَّةُ and الجِرِّيَّةُ and النَّوْطَةُ signify &lt;i&gt;the&lt;/i&gt; <br>\
+                  حَوْصَلَة <br>\
+                  &lt;i&gt;of a bird.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5423&quot; key=&quot;المُجْتَرِىءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المُجْتَرِىءُ<br>\
+                     المجترىء<br>\
+                     المجتريء<br>\
+                     المجتري<br>\
+                     مجتري<br>\
+                  &lt;/form&gt;: see جَرِىْءٌ.   &lt;/entryFree&gt; <br>\
+' } );

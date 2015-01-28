@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'نبلنَبْلٌ<br>\
+Arrows: (M:) or Arabian arrows: (T,<br>\
+S, Mgh, Msb, K:) for the sing. they say سَهْمٌ.<br>\
+(T.)<br>\
+نُبْلٌ<br>\
+Sharpness, acuteness, or sagacity; syn.<br>\
+ذَكَآءٌ: and generosity, or nobility; syn. نَجَابَةٌ.<br>\
+(K.) ―<br>\
+-b2-  نُبْلٌ<br>\
+Excellence; (T, M;) syn. نَجَابَةٌ;<br>\
+and also ذَكَآءٌ. (M.) [Ex.],<br>\
+كَفَى المَرْءَ نُبَلًا أَنْ تُعَدَّ مَعَايِبُهْ<br>\
+(MF, art. حبر.)<br>\
+' } );

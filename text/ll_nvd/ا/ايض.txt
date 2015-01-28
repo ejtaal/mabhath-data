@@ -1,0 +1,40 @@
+load_data( { book: 'll_nvd', text: 'ايض1<br>\
+آضَ, aor. يَئِيضُ, inf. n. أَيْضٌ, i. q. عَادَ;<br>\
+(ISk, S, M, Msb, * K;) as in the phrase آضَ إِلَى<br>\
+الشَّىْءِ [He returned to the thing, i. e. to the doing<br>\
+of the thing; he did the thing again, or a second<br>\
+time]. (K.) ―<br>\
+-b2-  And i. q. رَجَعَ; (S, M, Msb, K;)<br>\
+as in the phrase آضَ إِلَى أَهْلِهِ [He returned to his<br>\
+family]. (S, M.) ―<br>\
+-b3-  In the phrase فَعَلْتُ كَذَا<br>\
+↓ أَيْضًا, the last word is the inf. n. of آضَ in the<br>\
+sense of عَادَ, (ISK, IDrd, S, M, Msb, *) and in the<br>\
+sense of رَجَعَ: (IDrd, M:) and the meaning is,<br>\
+[I did such a thing again, or a second time;]<br>\
+I returned to the doing of such a thing: (IDrd,<br>\
+M:) or I did such a thing returning to what<br>\
+had preceded. (Msb, K. *) [It also, and more<br>\
+commonly, signifies I did such a thing also.]<br>\
+When one says, ↓ فَعَلْتُ ذٰلِكَ أَيْضًا [I did that<br>\
+again, &amp;c.], you say, ↓ قَدْ أَكْيَرْتَ مِنْ أَيْضٍ [Thou<br>\
+hast made much use of the expression أَيْضًا], and<br>\
+↓ دَعْنِى مِنْ أَيْضٍ [Let me alone and cease from<br>\
+using the expression أَيْضًا]. (ISk, S.) ―<br>\
+-b4-  أَيْضٌ<br>\
+also signifies (tropical:)  A thing&#39;s becoming another, or a<br>\
+different, thing; and being changed from its<br>\
+state or condition [to another and a different<br>\
+state or condition]: (Lth, K: *) so says Kh.<br>\
+(Ham p. 356.) And آضَ كَذَا (tropical:)  He, or it, became<br>\
+such a thing. (Lth, S, M, * K.) You say, آضَ<br>\
+سَوَادُ شَعَرِهِ بَيَاضًا (A, TA) (tropical:)  The blackness of his<br>\
+hair became whiteness. (TA.) And Zuheyr says,<br>\
+speaking of a land which he traversed,<br>\
+قَطَعْتُ إِذَامَاالآلُ آضَ كَأَنَّهُ<br>\
+سُيُوفٌ تُنَحَّى سَاعَةً ثُمَّ تَلْتَقِى<br>\
+[I traversed, when the mirage, or the mirage of<br>\
+the morning, became as though it were swords<br>\
+which were removed a while, then met]. (S.)<br>\
+أَيْضٌ and أَيْضًا: see above, in four places.<br>\
+' } );

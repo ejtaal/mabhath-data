@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>قمطر</em>            1                  قمطر<br>\
+<b>اـِقْمَطَرَّ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اـِقْمَطَرَّ<br>\
+                     ذ<br>\
+                  <i>It</i> (a day, S) <i>was,</i> or <i>became, distressful,</i> or <i>calamitous.</i> (S, K.)    </entryFree> <br>\
+<b>قَمْطَرٌ</b>               1     <br>\
+                     قَمْطَرٌ<br>\
+                     ذ<br>\
+                  : see قَمْطَرِيرٌ.    </entryFree> <br>\
+<b>قِمَطْرٌ</b>               1     <br>\
+                     قِمَطْرٌ<br>\
+                     ذ<br>\
+                   and قِمَطْرَةٌ (S, Msb, K) and with tesh-deed, [i. e. قِمَّطْرٌ and قِمَّطْرَةٌ,] but this pronunciation is extr., (K,) or, accord. to Yaakoob, (S,) or ISk, (TA,) not allowable, (S, TA,) <i>A repository for books</i> or <i>writings,</i> (S, Msb, K, TA,) <i>resembling a</i> <br>\
+                  سَفَط, [q. v., (in the TA, سقط, which is evidently a mistake,)] <i>made of reeds woven together:</i> (TA:) the first word is fem., like the second, as well as masc.: (Msb:) pl. قَمَاطِرُ. (S, Msb.)    </entryFree> <br>\
+<b>يَوْمٌ قَمْطَرِيرٌ</b>               1     <br>\
+                     يَوْمٌ قَمْطَرِيرٌ<br>\
+                     ذ<br>\
+                  , and ↓ <br>\
+      قُمَاطِرٌ, (S, K,) and ↓ <br>\
+      مُقْمَطِرٌّ, (TA,) <i>A distressful,</i> or <i>calamitous, day:</i> (S, K:) or <i>a day that makes one knit the brow,</i> or <i>contract the skin between the eyes:</i> so the first is explained by some as occurring in the Kur lxxvi. 10. (TA.) ―         -b2-  شَرٌّ قَمْطَرِيرٌ, (TA,) and ↓ <br>\
+      قُمَاطِرٌ, and ↓ <br>\
+      قَمْطَرٌ, (Lth, TA,) and ↓ <br>\
+      مُقْمَطِرٌّ, (TA,) <i>Intense evil.</i> (Lth, TA.)    </entryFree> <br>\
+<b>قُمَاطِرٌ</b>               1     <br>\
+                     قُمَاطِرٌ<br>\
+                     ذ<br>\
+                  : see قَمْطَرِيرٌ, in two places.    </entryFree> <br>\
+<b>مُقْمَطِرٌّ</b>               1     <br>\
+                     مُقْمَطِرٌّ<br>\
+                     ذ<br>\
+                  : see قَمْطَرِيرٌ, in two places.   </entryFree> <br>\
+            <div2 n=&quot;qmE qml qmn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قمع قمل قمن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>هل</em>            1                  هل<br>\
+<b>اَهْلَلْنَا هِلَالَ شَهْرِ كَذَا</b>               1     <br>\
+                     اَهْلَلْنَا هِلَالَ شَهْرِ كَذَا<br>\
+                     ذ<br>\
+                  : see سَلَخَ.    </entryFree> <br>\
+<b>اِسْتَهَلَّ</b>               1     <br>\
+                     اِسْتَهَلَّ<br>\
+                     ذ<br>\
+                  : see a verse cited at the close of the first paragraph of art. ضحك. ―         -b2-  See also a verse cited voce اَفْثَاَ. ―         -b3-  See مُسْتَهَلٌّ.    </entryFree> <br>\
+<b>هَلْ</b>               1     <br>\
+                     هَلْ<br>\
+                     ذ<br>\
+                   may be originally هَلْو or هَلْى or هَلّ: (Akh, in S, voce بل:) see بَلْ. ―         -b2-  هَلْ followed by اـِلَى: see the latter. ―         -b3-  حَىّ هَلَ: see حى. ―         -b4-  هَلَّا: see حَضَّةٌ and عَنْ, latter part, and لَوْلَا, and اَلَّا.    </entryFree> <br>\
+<b>هَلَّةٌ</b>               1     <br>\
+                     هَلَّةٌ<br>\
+                     ذ<br>\
+                  : see بَلَّةٌ.    </entryFree> <br>\
+<b>الهِلاَلُ</b>               1     <br>\
+                     الهِلاَلُ<br>\
+                     ذ<br>\
+                  <i>The new moon;</i> or <i>the moon when it is termed</i> <br>\
+                  هِلاَل: it may be explained as meaning, generally, <i>the moon when near the sun,</i> or <i>moon a little after or before the change.</i> ―         -b2-  See سَمَا.    </entryFree> <br>\
+<b>مُسْتَهَلُّ الشَّهْرِ</b>               1     <br>\
+                     مُسْتَهَلُّ الشَّهْرِ<br>\
+                     ذ<br>\
+                  <i>The first night of the lunar month.</i> (Msb.)   </entryFree> <br>\
+' } );

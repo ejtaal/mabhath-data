@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'قنبرقُنَّابِرَى<br>\
+A certain herb, or leguminous plant,<br>\
+(بَقْلَةٌ,) growing forth in the beginning of the<br>\
+رَبِيع; a Nabathæan word; called in Arabic<br>\
+تَمْلُول [correctly تُمْلُول] and<br>\
+غُمْلُول; eaten by<br>\
+men; and called in Pers.<br>\
+بَرْغَشْت [correctly<br>\
+بَرْعَسْت]; called by the people of Ghazneh<br>\
+ثِرِيْد:<br>\
+(O:) correctly with teshdeed to the ن, though<br>\
+in most of the copies of the K without teshdeed;<br>\
+and with kesr to the ب, as in the Tekmileh.<br>\
+(TA.) See غُمْلُولٌ.<br>\
+' } );

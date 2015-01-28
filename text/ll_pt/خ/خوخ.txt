@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>خوخ</em>            1                  خوخ<br>\
+<b>خَوْخٌ</b>               1     <br>\
+                     خَوْخٌ<br>\
+                     خوخ<br>\
+                     خوخة<br>\
+                   [The <i>peach,</i> or <i>peaches;</i>] <i>a well-known kind of fruit,</i> (K, TA,) <i>which is eaten;</i> (TA;) <i>i. q.</i> <br>\
+                  دُرَاقِنٌ: (K in art. درقن:) sing., (K,) or n. un., (S,) ↓ <br>\
+      خَوْخَةٌ. (S, K.)       -A2-  See also what follows.    </entryFree> <br>\
+<b>خَوْخَةٌ</b>               1     <br>\
+                     خَوْخَةٌ<br>\
+                     خوخ<br>\
+                     خوخه<br>\
+                     خوخة<br>\
+                  : see above.       -A2-  Also <i>An aperture</i> (S, A, Mgh, K) <i>in a wall,</i> (S, A, Mgh,) <i>admitting the light</i> (S, A, K) <i>to a house,</i> or <i>chamber.</i> (K.) ―         -b2-  <i>A passage</i> (مُخْتَرَقٌ) <i>between any two houses, not having a door,</i> or <i>gate:</i> (K:) of the dial. of El-Hijáz; (TA;) [and of Egypt, where it is applied to <i>a lane leading from one street or quarter to another:</i> coll. gen. n. ↓ <br>\
+      خَوْخٌ:] accord. to some, <i>a passage</i> (مُخْتَرَقٌ) <i>between any two things:</i> and <i>a small door-way between two houses,</i> or <i>chambers, with a door affixed to it.</i> (L.) ―         -b3-  <i>A wicket,</i> or <i>small door,</i> (A, Mgh,) <i>in a large door.</i> (A.) [Golius, as on the authority of Meyd, explains it as meaning <i>Fenestella in medio januæ.</i>] ―         -b4-  [Also applied to <i>A sluice</i> in a rivulet: see دَرَقَةٌ.] ―         -b5-  (tropical:)  The <i>anus;</i> syn. دُبُرٌ. (K, TA.)       -A3-  <i>A kind of green garment:</i> (Az, K:) of the dial. of Mekkeh. (TA.)   </entryFree> <br>\
+' } );

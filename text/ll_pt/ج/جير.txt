@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>جير</em>            1                  جير<br>\
+<b>جيّر</b>               1     <br>\
+                     جيّر<br>\
+                     جير<br>\
+                  <i>He plastered</i> a watering-trough or tank <i>with</i> <br>\
+                  جَيَّار. (TA.)    </entryFree> <br>\
+<b>جَيْرِ</b>               1     <br>\
+                     جَيْرِ<br>\
+                     جير<br>\
+                  , with kesr to the ر, (S, Mughnee, K, &amp;amp;c.,) like اَمْسِ; (Mughnee;) and جَيْرَ, like اَيْنَ; and sometimes جَيْرٍ; (Mughnee, K;) or this, where it occurs, is for جَيْرِ اـِنَّ, and is properly written جَيْرِنْ, اـِنَّ in the sense of نَعَمْ being a corroborative of جَيْرِ, and its hemzeh and sheddeh and final vowel being here suppressed: (Mughnee:) a form of oath, (S, K,) or put in the place of an oath, (IAmb, TA,) meaning <i>Verily,</i> or <i>truly;</i> syn. حَقًّا: (S, K:) or a responsive particle, (Mughnee,) meaning <i>yes;</i> syn. نَعَمْ [which is most approved as responsive to an interrogation], (Mughnee, K,) or اَجَلْ [which is most approved as responsive to an affirmation]; (Sharh et-Tesheel, K;) not a noun in the sense of حَقًّا, for were it so it would be an inf. n.; nor in the sense of اَبَدًا, for were it so it would be an adv. n. of time; and if it were a noun it would be decl., and would admit the article ال, and would not have اـِنَّ for a corroborative, nor have لَا opposed to it, as it has in the saying, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اـِذَا تَقُولُ لَا اْبْنَةُ العُجَيْرِ<br>\
+                     <L><br>\
+                        تَصْدُقُ لَا اـِذَا تَقُولُ جَيْرِ<br>\
+                  </quote> [<i>When the daughter of El-&#39;Ojeyr says</i> <br>\
+                  لا, <i>she speaks truly: not when she says</i> <br>\
+                  جير]: (Mughnee:) or it is a verbal noun, meaning <i>I know;</i> syn. اَعْرِفُ; as is mentioned by Ibn-Abi-r-Rabeea, and by Er-Radee on the authority of &#39;Abd-El- Káhir. (MF.) You say, جَيْرِ لَا ا=تِيكَ <br>\
+                  <i>Verily,</i> or <i>truly,</i> [&amp;amp;c.,] <i>I will not come to thee.</i> (S.) And جَيْرِ لَا اَفْعَلُ ذٰلِكَ <br>\
+                  <i>Verily,</i> or <i>truly,</i> [&amp;amp;c.,] <i>I will not do that.</i> (K, * TA.) And لَا جَيْرِ لَا اَفْعَلُ <br>\
+                  <i>No, verily,</i> or <i>truly,</i> [&amp;amp;c.,] <i>I will not do</i> [that]. (K.)    </entryFree> <br>\
+<b>جِيرٌ</b>               1     <br>\
+                     جِيرٌ<br>\
+                     جير<br>\
+                  <i>Gypsum;</i> syn. جِصٌّ. (IAar, TA.) [In modern Arabic, <i>Lime:</i> see also what next follows.]    </entryFree> <br>\
+<b>جَيَّارٌ</b>               1     <br>\
+                     جَيَّارٌ<br>\
+                     جيار<br>\
+                  <i>Quick lime,</i> and the <i>mixtures thereof, with which are plastered watering-troughs</i> or <i>tanks, and baths;</i> syn. صَارُوجٌ: (S, K:) <i>quick lime and gypsum mixed with ashes:</i> (IAar TA:) or <i>quick lime</i> alone. (TA. [See also جِيرٌ.])       -A2-  [<i>A limeburner:</i> so in the present day: see اَتُونٌ.]       -A3-  <i>Heat in the chest, by reason of rage</i> or <i>hunger;</i> as also ↓ <br>\
+      جَايِرٌ: (S, K:) or <i>cough,</i> or <i>the like.</i> (Ham p. 56.) It is app. of the measure فَعَّالٌ; or it may be of the measure فَيْعَالٌ; or فَوْعَالٌ [originally جَوْيَارٌ]. (IJ, TA.) ―         -b2-  <i>Strength,</i> or <i>vehemence.</i> (TA.)    </entryFree> <br>\
+<b>جَايِرٌ</b>               1     <br>\
+                     جَايِرٌ<br>\
+                     ذ<br>\
+                  : see جَيَّارٌ.    </entryFree> <br>\
+<b>مُجَيَّرٌ</b>               1     <br>\
+                     مُجَيَّرٌ<br>\
+                     مجير<br>\
+                   A watering-trough or tank <i>made small:</i> or <i>made deep:</i> or <i>plastered with gypsum.</i> (K.)   </entryFree> <br>\
+' } );

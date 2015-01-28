@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جبرييل</em>            1                  جبرييل<br>\
+<b>جَبْرَيِيلُ</b>               1     <br>\
+                     جَبْرَيِيلُ<br>\
+                     ذ<br>\
+                   and its vars.: see art. جبر.   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'شير6<br>\
+تشاير: see 6 in art. شور.<br>\
+شِيَرٌ: n. un. with ة: pl. of the latter شِيَرَاتٌ: and<br>\
+dim. شُيَيْرَةٌ and شِيَيْرَةٌ: see شَجَرٌ.<br>\
+شِيَارٌ: see art. شور.<br>\
+شَيِّرٌ: see art. شور.<br>\
+' } );

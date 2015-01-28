@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>قتر</em>            1                  قتر<br>\
+<b>قَتَّرَهُ</b>               1     <br>\
+                     قَتَّرَهُ<br>\
+                     ذ<br>\
+                  <i>He prostrated him upon his side,</i> <br>\
+                  عَلَى <br>\
+                  قُتْرِهِ [not على قُتْرَهٍ, as in the K]; (L;) <i>he threw him down upon one of his two sides,</i> <br>\
+                  عَلَى اَحَدِ <br>\
+                  قُتْرَيْهِ, having pierced him [with a spear]; (JK;) like قَطَّرَهُ.    </entryFree> <br>\
+<b>اـِبْنُ قِتْرَةَ</b>               1     <br>\
+                     اـِبْنُ قِتْرَةَ<br>\
+                     ذ<br>\
+                  <i>The</i> <br>\
+                  حَيَّة. (T in art. بنى.)    </entryFree> <br>\
+<b>جَوْبٌ قَاتِرٌ</b>               1     <br>\
+                     جَوْبٌ قَاتِرٌ<br>\
+                     ذ<br>\
+                  <i>A shield of good dimensions.</i> (S.) See يَلَبٌ.   </entryFree> <br>\
+' } );

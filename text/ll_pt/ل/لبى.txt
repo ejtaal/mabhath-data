@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>لبى</em>            1                  لبى<br>\
+<b>لَبَّاهُ</b>               1     <br>\
+                     لَبَّاهُ<br>\
+                     ذ<br>\
+                   [inf. n. تَلْبِيَةٌ] <i>He said to him</i> <br>\
+                  لَبَّيْك. (MA.)    </entryFree> <br>\
+<b>لَبَّيْكَ</b>               1     <br>\
+                     لَبَّيْكَ<br>\
+                     ذ<br>\
+                  , and لَبَّيْهِ, and لَبَّىْ يَدَيْكَ: see art. لب.   </entryFree> <br>\
+' } );

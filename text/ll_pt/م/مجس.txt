@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>مجس</em>            1                  مجس<br>\
+<b>مجّسهُ</b>               1     <br>\
+                     مجّسهُ<br>\
+                     ذ<br>\
+                  , (S, A, &amp;amp;c.,) inf. n. تَمْجِيسٌ, (A, K,) <i>He made him a</i> <br>\
+                  مَجُوسِىّ [or <i>Magian</i>]: (S, A, Msb, K:) <i>he taught him the religion of the</i> <br>\
+                  مَجُوس. (TA.)    </entryFree> <br>\
+<b>تمجّس</b>               1     <br>\
+                     تمجّس<br>\
+                     ذ<br>\
+                  <i>He became a</i> <br>\
+                  مَجُوسِىّ [or <i>Magian</i>]; (S, A, K;) <i>he became of the religion of the</i> <br>\
+                  مَجُوس. (Msb.)     <br>\
+<b>المَجُوسُ</b>               1     <br>\
+                     المَجُوسُ<br>\
+                     ذ<br>\
+                   [<i>The Magians</i>]; <i>a certain nation:</i> it is a Persian word: (Msb:) مَجُوسُ [here written in two copies of the S and in the CK with tenween, but afterwards shown in the S to be imperfectly decl., and expressly said to be so in the Msb, art. هود,] is pl. of مَجُوسِىٌّ: (S, K:) [or rather the former is a coll. gen. n., and the latter is the n. un.:] the latter is a rel. n. from المَجُوسِيَّةُ, q. v., (S,) and is an epithet applied to a man: (K:) المَجُوسُ has the article ال only because it is used as a pl., (Aboo-&#39;Alee, S, M, L,) for المَجُوسِيُّونَ; (ISd, L;) for otherwise مجوس could not receive the art., being of itself determinate; and it is also of the fem. gender; wherefore, with respect to inflection, it is like the قَبِيلَة, not the حَىّ; and the same is the case with respect to يَهُودُ; (Aboo-&#39;Alee, S;) [i. e.,] each of these two words is imperfectly decl. because they mean thereby the قبيلة [so called, so that it is a fem. proper name]. (Msb, art. هود.) مَجُوسُ was a certain man with small ears, who instituted a religion (K) for the مَجُوس, (TA,) and invited [them] to it : (K:) so says Az: he was not Zarádusht [or Zoroaster] the Persian, as some say, because he [Zarádusht] was after Abraham, whereas the religion of the مجوس is [more] ancient; but Zarádusht revived it, and published it, and added to it: (MF:) the name is arabicized, from مَنْجَ كُوش, or ميج كوش, or مِيخَ كُوش, (as differently written in different copies of the K, the first being the reading in the TA, and the last being that in the CK), the latter of which words signifies “ the ear, ” [in Persian, but written with ك,] and the former meaning “ short. ” (TA.)    </entryFree> <br>\
+<b>المَجُوسِيَّةُ</b>               1     <br>\
+                     المَجُوسِيَّةُ<br>\
+                     ذ<br>\
+                  <i>The religion of the</i> <br>\
+                  مَجُوس [or <i>Magians</i>]. (S, K.) Mohammad said that the قَدَرِيَّة were the مَجُوس of his people, because the latter believed in two principles, light and darkness, and ascribed good to light and evil to darkness, and in like manner the قدريّة ascribed good to God, and evil to man and the devil. (TA.)   </entryFree> <br>\
+' } );

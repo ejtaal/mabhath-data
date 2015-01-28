@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كدب</em>            1                  كدب<br>\
+<b>كَدْبٌ</b>               1     <br>\
+                     كَدْبٌ<br>\
+                     ذ<br>\
+                   and كَدِبٌ and كَدَبٌ and كُدْبٌ [but the second seems to have been written, in MF&#39;s copy of the K, كِدْبٌ], coll. gen. ns., also with ذ for د, The <i>whiteness</i> [or <i>white marks</i>] <i>on the nails of young persons:</i> n. un. (of each of the above words, TA,) with ة: as also كُدَيْبَاءُ: (K:) but this last, says SM, I have not found in any other lexicon. (TA.) ―         -b2-  جَاوُوا عَلَى <br>\
+                  قَمِيصِهِ بِدَمٍ كَدِبٍ, [Kur, xii. 18,] so accord. to the reading of Ibn-&#39;Abbás, (K,) and &#39;Áïsheh, and El-Hasan El-Basree, (TA,) <i>They brought, upon his shirt, blood inclining in colour to white;</i> as though it were blood that had made marks upon the shirt resembling embroidery or the like: (K:) or <i>fresh blood:</i> or, contr. <i>dry blood:</i> or <i>blood of a dingy hue:</i> or <i>blood changed</i> [<i>in colour</i>]. (TA.)    </entryFree> <br>\
+<b>مَكْدُوبَةٌ</b>               1     <br>\
+                     مَكْدُوبَةٌ<br>\
+                     ذ<br>\
+                   A woman <i>of a pure white complexion.</i> (IAar, K.)   </entryFree> <br>\
+' } );

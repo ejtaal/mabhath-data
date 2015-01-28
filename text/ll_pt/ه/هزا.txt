@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>هزا</em>            1                  هزا<br>\
+<b>هَزَاَ مِنْهُ</b>               1     <br>\
+                     هَزَاَ مِنْهُ<br>\
+                     ذ<br>\
+                  , (K,) and بِهِ; (S, K;) and هَزِيَ (S, K) followed by منه and به; (Akh, S;) but accord. to Yoo, we should say هزي به only; not منه; (TA;) aor.      <br>\
+                     هَزَاَ<br>\
+                  , inf. n. هُزْءٌ and هُزُوٌ (S, K) and هُزُوْءٌ (TA) and مَهْزَاَةٌ; (S, K;) and به ↓ <br>\
+      تهزّا, (AZ, S, K,) and به ↓ <br>\
+      استهزا; (S, K;) <i>He mocked at, scoffed at, laughed at, derided,</i> or <i>ridiculed, him.</i> (S, K.) ―         -b2-  The most approved reading of ↓ <br>\
+      مُسْتَهْزِيُونَ in the Kur, ii. 13, is with the ء fully pronounced: some alleviate it: and some read مُسْتَهْزِيُرنَ: and some مُسْتَهْزُونَ; (but this pronunciation is of weak authority;) and say اـِسْتَهْزَيْتُ for اـِسْتَهْزَاْتُ. (Zj.) ―         -b3-  السَّرَابُ يَهْزَاُ <br>\
+                  بِالرَّكْبِ (tropical:)  [<i>The mirage mocks the company of riders</i>]. (A.)       -A2-  هَزَاَ, (K,) inf. n. هَزْءٌ, (TA,) <i>He,</i> or <i>it, broke</i> a thing. (K.) ―         -b2-  A poet says, describing a coat of mail, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        لَهَا عُكَنْ تَرُدُّ النَّبْلَ خَنْسًا<br>\
+                     <L><br>\
+                        وَتَهْزَاُ بِالْمَعَابِلِ وَالقِطَاعِ<br>\
+                  </quote> [<i>It has creases that repel the arrows, making them to recede, and break the broad and long arrow-heads, and those which are small and broad</i>]. The ب in بالمعابل is redundant. This is the opinion of the lexicologists, except ISd, who thinks that this is an error, and that تهزا here means “ mocks. ” (TA.)       -A3-  هَزَاَ اـِبِلَهُ (K; but it is thought that this may be a mistake for هَرَاَ, TA,) inf. n. هَزْءٌ; (TA;) and ↓ <br>\
+      اهزا ها; (K;) <i>He killed his camels with cold.</i> IAar says, that اهزاهُ البَرْدُ and اهراهُ both signify <i>The cold killed him.</i> (TA.)       -A4-  هَزَاَ <br>\
+                  <i>He put in motion,</i> [or <i>excited,</i>) the beast on which he rode. (As, K.)       -A5-  هَزَاَ and هَزِيَ <br>\
+                  <i>He died</i> (K) <i>in his place,</i> or <i>on the spot;</i> i. e. <i>unexpectedly,</i> or <i>suddenly:</i> (Z:) improperly objected against by Ibn-Es-Sáïgh. (&#39;Ináyeh, MF.)    </entryFree> <br>\
+<b>اهزا</b>               1     <br>\
+                     اهزا<br>\
+                     ذ<br>\
+                  <i>He entered upon the time of severe cold.</i> (K.) See also اهرا, which is the word commonly known. (TA.) ―         -b2-  See 1.       -A2-  اهزاتْ بِهِ نَاقَتُهُ <br>\
+                  <i>His she-camel hastened with him.</i> (K.)    </entryFree> <br>\
+                     تَهَزَّاَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اـِسْتَهْزَاَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>هُزْاَةٌ</b>               1     <br>\
+                     هُزْاَةٌ<br>\
+                     ذ<br>\
+                   One <i>who is mocked at, scoffed at, laughed at, derided;</i> a <i>ridiculous</i> person. (S, K.)    </entryFree> <br>\
+<b>هُزَاَةٌ</b>               1     <br>\
+                     هُزَاَةٌ<br>\
+                     ذ<br>\
+                   One <i>who mocks at, scoffs at, laughs at, derides,</i> or <i>ridicules, others.</i> (S, K.)    </entryFree> <br>\
+<b>غَدَاةٌ هَازِيَةٌ</b>               1     <br>\
+                     غَدَاةٌ هَازِيَةٌ<br>\
+                     ذ<br>\
+                   (tropical:)  <i>A morning intensely cold:</i> as though mocking men when they shrug and shiver. (A.)    </entryFree> <br>\
+<b>مَفَازَةٌ هَازِيَةٌ بِالرَّكْبِ</b>               1     <br>\
+                     مَفَازَةٌ هَازِيَةٌ بِالرَّكْبِ<br>\
+                     ذ<br>\
+                  , and with هُزَاَةٌ for هازية, (tropical:)  [<i>A desert that mocks the company of riders</i>]. (A.)   </entryFree> <br>\
+' } );

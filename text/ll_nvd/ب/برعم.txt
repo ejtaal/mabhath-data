@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'برعمQ. 1<br>\
+بَرْعَمَتِ الشَّجَرَةُ The tree put forth its<br>\
+بَرَاعِيم [pl. of بُرْعُومٌ], (S,) or its بُرْعُمَة. (M, K.)<br>\
+بُرْعُمٌ: see what next follows.<br>\
+بُرْعُمَةٌ: see what next follows.<br>\
+بُرْعُومٌ and ↓ بُرْعُمٌ (S, K) and ↓ بُرْعُومَةٌ and ↓ بُرْعُمَةٌ<br>\
+(K) The calyx of the fruit, or produce, of a tree:<br>\
+(K:) and blossoms, or white blossoms, syn. نَوْرٌ,<br>\
+(K TA,) before they open: (TA:) or flowers,<br>\
+(S, and Msb in explanation of the first word in<br>\
+art. زهر,) or the flower of a tree, (K,) before the<br>\
+opening thereof: (S, Msb ubi suprà, K:) pl.<br>\
+بَرَاعِيمُ. (S, TA.) ―<br>\
+-b2-  بَرَاعِيمُ also signifies The heads,<br>\
+or tops; or round, high, slender tops; or peaks;<br>\
+(شَمَارِيخ;) of mountains: (AZ, K:) sing. ↓ بُرْعُومَةٌ.<br>\
+(AZ, TA.)<br>\
+بُرْعُومَةٌ: see بُرْعُومٌ, in two places.<br>\
+' } );

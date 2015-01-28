@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'مزح1<br>\
+مَزَحَ, aor.<br>\
+مَزَحَ, inf. n. مَزْحٌ, (S, K,) and quasiinf. n. مُزَاحٌ and مُزاحَةٌ, (K,) [the latter like its<br>\
+syn. دُعَابَةٌ,] but Fei says that this last is مَزَاحَةٌ,<br>\
+(TA,) [and he mentions it as an inf. n.,] He<br>\
+jested or joked; (S, Msb, K;) contr. of جَدَّ<br>\
+[which signifies “ he was serious, or in earnest ” ”]:<br>\
+(M:) or he talked or behaved in a free and easy<br>\
+manner, with the view of blandishing and conciliating, without annoying; so that it excludes<br>\
+the meaning of mocking or ridiculing or deriding.<br>\
+(MF.)<br>\
+3<br>\
+مازحهُ, inf. n. مِزَاحٌ (S, K) and مُمَازَحَةٌ,<br>\
+(K,) He jested, or joked, with him. (S, K.)<br>\
+6<br>\
+تَمَازَحَا They two jested, or joked, one with<br>\
+the other. (S, K.)<br>\
+مَزْحَةٌ A jest, or joke; a single act of jesting, or<br>\
+joking. (Msb.)<br>\
+مُزَاحٌ and مُزَاحَةٌ, substs., A jesting, or joking.<br>\
+(S, K.) [See 1.]<br>\
+رَجُلٌ مَزَّاحٌ A man who is a great jester, or<br>\
+joker. (A.)<br>\
+' } );

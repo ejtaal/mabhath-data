@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>بدى</em>            1                  بدى<br>\
+<b>١</b>               1     <br>\
+                     بَدِيتُ بِالشَّىْءِ<br>\
+                     ذ and        <br>\
+      بَدَيْتُ بِهِ<br>\
+                  <i>i. q.</i> [بَدَاْتُ and] اِبْتَدَاْتُ [<i>I began with the thing;</i> or <i>made it to have precedence,</i> or <i>to be first</i>]; (M, K;) of the dial. of the Ansár: (M:) the people of ElMedeeneh say, بَدَيْنَا, or بَدِينَا, [accord. to different copies of the S,] in the sense of بَدَاْنَا: (S:) [the right reading seems to be بَدَيْنَا; for] IKh says, none says بَدَيْتُ in the sense of بَدَاْتُ, except the Ansár: all others say, بَدِيتُ and بَدَاْتُ; when the hemzeh is suppressed, the د is pronounced with kesr, and therefore the hemzeh is changed into ى. (IB, TA.) [See a verse of Ibn-Rawáhah cited voce بَدْءٌ.]    </entryFree> <br>\
+<b>بِدَايَةٌ</b>               1     <br>\
+                     بِدَايَةٌ<br>\
+                     ركي مبد<br>\
+                  , said by Mtr to be a vulgar word, and by IB to be erroneous, but by IKtt to be of the dial. of the Ansár: see art. بدا [voce بَدْءٌ, second sentence, in two places]. (TA.)   </entryFree> <br>\
+' } );

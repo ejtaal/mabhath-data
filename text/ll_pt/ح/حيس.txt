@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>حيس</em>            1                  حيس<br>\
+<b>حَاسَ</b>               1     <br>\
+                     حَاسَ<br>\
+                     حاس<br>\
+                  , aor. يَحِيسُ, inf. n. حَيْسٌ, <i>He mixed</i> [a thing or things]. (S, A, K; but in this sense, only the inf. n. is mentioned.) ―         -b2-  <i>He made,</i> or <i>prepared,</i> what is called حَيْس: (S, Msb, K:)  and ↓ <br>\
+      حيّس, inf. n. تَحْيِيسٌ, <i>he mixed and prepared</i> what is so called. (TA.)    </entryFree> <br>\
+                     حَيَّسَ<br>\
+                   see above.    </entryFree> <br>\
+<b>حَيْسٌ</b>               1     <br>\
+                     حَيْسٌ<br>\
+                     حيس<br>\
+                  , originally an inf. n., (Msb,) <i>Dates mixed with clarified butter and</i> [<i>the preparation of dried curd called</i>] اَقِط, (S, A, Mgh, K,) <i>and kneaded</i> (A, K) <i>vehemently,</i> (A,) or <i>rubbed and pressed with the hand until they mingle together,</i> (Mgh,) <i>whereupon their stones come forth;</i> (K;) <i>and sometimes</i> <br>\
+                  سَوِيق [or <i>meal of parched barley or wheat</i>] <i>is put into it;</i> (A, K;) <i>and a little crumbled bread instead of the</i> <br>\
+                  اقط: (TA:) or <i>dates, of the kind called</i> <br>\
+                  بَرْنِىّ, <i>and</i> <br>\
+                  اقط, <i>bruised together, and kneaded vehemently with clarified butter until the stones come forth from it one by one, and then made like</i> <br>\
+                  ثَرِيد: it is the same as وَطْبَةٌ, except that حيس sometimes has سويق put in it, but وطبة has not: (L:) or <i>dates of which the stones have been taken out, bruised with</i> <br>\
+                  اقط, <i>and then kneaded, and rubbed and pressed with the hand until the whole becomes like</i> <br>\
+                  ثريد; <i>and sometimes</i> <br>\
+                  سويق <br>\
+                  <i>is put with it:</i> (Msb:) accord. to Ibn-Waddáh El-Andalusee, <i>dates of which the stones have been taken out, mixed with</i> <br>\
+                  سويق; but this is not known, (MF, TA,) because of the deficiency of the ingredients: (TA:) Hr is related to have described it as <i>a</i> <br>\
+                  ثَرِيدَة <br>\
+                  <i>composed of</i> <br>\
+                  اَخْلَاط [or <i>various mixtures</i>]. (TA.) A rájiz says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَلتَّمْرُ وَالسَّمْنُ مَعًاثّمَّ الاَقِطْ<br>\
+                     <L><br>\
+                        اَلْحَيْسُ اـِلَّا اَنَّهُ لَمْ يَخْتَلِطْ<br>\
+                  </quote> [<i>Dates and clarified butter together, then</i> <br>\
+                  اقط, are حيس, <i>except that it is not yet mixed</i>]: (S, MF, TA:) from which it might be understood, that these components, when mixed, are not حيس: but this is the contrary of what is meant: (MF:) the meaning seems to be, that these three things, when brought, are virtually حيس, as being the materials thereof, though not mixed. (TA.)   </entryFree> <br>\
+' } );

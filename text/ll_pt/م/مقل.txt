@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>مقل</em>            1                  مقل<br>\
+<b>مَاقَلَهُ</b>               1     <br>\
+                     مَاقَلَهُ<br>\
+                     ذ<br>\
+                  , inf. n. مُمَاقَلَةٌ <br>\
+                  <i>He vied with him in diving:</i> see غَامَسَهُ.    </entryFree> <br>\
+<b>تَمَاقَلَا</b>               1     <br>\
+                     تَمَاقَلَا<br>\
+                     ذ<br>\
+                  : see تَغَاطَسَا.    </entryFree> <br>\
+<b>مُقْلٌ</b>               1     <br>\
+                     مُقْلٌ<br>\
+                     ذ<br>\
+                   The <i>Theban palm; palma Thebaïca</i> of Pococke; the <i>cucifera</i> of Theophrastes. ―         -b2-  Also The خُوص, or <i>leaves, of the tree thus called:</i> see نظم ―         -b3-  See also صَمْغٌ.    </entryFree> <br>\
+<b>مَقْلَهٌ</b>               1     <br>\
+                     مَقْلَهٌ<br>\
+                     ذ<br>\
+                  , for جُرْعَةُ مَقْلَةٍ: see 3 in art. صفن.    </entryFree> <br>\
+<b>مُقْلَةٌ</b>               1     <br>\
+                     مُقْلَةٌ<br>\
+                     ذ<br>\
+                   The <i>ball,</i> or <i>globe,</i> or <i>bulb</i> (lit. <i>fat,</i> <br>\
+                  شَحْمَة), <i>of the eye,</i> i. e., the <i>eyeball, which comprises the white and the black.</i> (Khalk el-Insán of Zj; and S, Msb, K.)   </entryFree> <br>\
+' } );

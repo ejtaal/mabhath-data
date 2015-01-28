@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'وطس1<br>\
+وَطَسَ<br>\
+: see طَاسَ in art. طوس.<br>\
+' } );

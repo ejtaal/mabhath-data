@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'نرزنَوْرُوزٌ: see what follows.<br>\
+نَيْرُوزٌ, an arabicized word, (S, A, Msb,) from<br>\
+نَوْرُوزْ, (A, K,) which in Persian; meaning “ new<br>\
+day; ” (TA;) and ↓ نَوْرُوزٌ; but the former,<br>\
+which is of the measure فَيْعُولٌ, is the better in<br>\
+repute, because فَوْعُولٌ is not the measure of an<br>\
+Arabic word; (Msb;) The first day of the year;<br>\
+New-year&#39;s-day: (A, Msb, K:) with the Persians,<br>\
+when the sun enters Aries: and with the Copts,<br>\
+the first of [the month] Toot [the ancient Thoth,<br>\
+or the tenth of September, N. S., excepting when<br>\
+immediately following their leap-year, which is<br>\
+when our next ensuing year is a leap-year].<br>\
+(Msb, TA.) The word نيروز is said to have<br>\
+been first used in the time of the &#39;Abbásee Khaleefehs; but it is related to have been used in<br>\
+the time of &#39;Alee. (TA.)<br>\
+' } );

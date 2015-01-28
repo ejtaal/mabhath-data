@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>جلى</em>            1                  جلى<br>\
+               </head> Some words are mentioned in the K under this head belonging to art. جلو, q. v.   </div2> <br>\
+' } );

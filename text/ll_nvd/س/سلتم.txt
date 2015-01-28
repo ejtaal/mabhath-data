@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'سلتمسِلْتِمٌ A calamity, or misfortune. (S, M, K.)<br>\
+―<br>\
+-b2-  A hard, or severe, year. (S, M, K.) ―<br>\
+-b3-  A<br>\
+[goblin, or demon, such as is termed] غُول. (S,<br>\
+M, K.) ―<br>\
+-b4-  A she-camel having no tooth remaining, and whose lower lip has fallen and she is<br>\
+unable to raise it. (K, TA. [The explanation in<br>\
+the CK is faulty: the last words should be<br>\
+لَا تَسْتَطِيعُ رَفْعَهُ.]) Some say that the م is augmentative. (TA.) ―<br>\
+-b5-  One says also مَا أَصَابَ<br>\
+سِلْتِمًا, [in the CK سَلْتَمًا,] meaning He got not<br>\
+anything. (K, TA.)<br>\
+' } );

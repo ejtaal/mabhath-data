@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ضودضَادٌ The name of one of the letters of the<br>\
+alphabet. (L, Msb, K.) See the letter ض.<br>\
+' } );

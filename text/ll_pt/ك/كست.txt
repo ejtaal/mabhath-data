@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كست</em>            1                  كست<br>\
+<b>كُسْتٌ</b>               1     <br>\
+                     كُسْتٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  قُسْطٌ (K) and كُسْطٌ, [i. e. <i>Costus,</i>] <i>with which one fumigates.</i> (Kr.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>خوا</em>            1                  خوا<br>\
+<b>خَا=ءٌ</b>               1     <br>\
+                     خَا=ءٌ<br>\
+                     خا=ء<br>\
+                  <i>The name of the letter</i> <br>\
+                  خ, q. v.; as also خَا: [it is called خَا in a case of pause, and خَا=ءٌ when made a noun:] it is fem. and masc.: [its dim. is خَيَيَّةٌ, meaning <i>a</i> <br>\
+                  خ <br>\
+                  <i>written small, or indistinct:</i> (see حَا=ءٌ in art. حوا:)] and its pl. is اَخْوَا=ءٌ and اَخْيَا=ءٌ and خَاا=تٌ. (TA in باب الالف <br>\
+                  الليّنة.)    </entryFree> <br>\
+<b>خَا=ءِ بِكَ عَلَيْنَا</b>               1     <br>\
+                     خَا=ءِ بِكَ عَلَيْنَا<br>\
+                     خا=ء بك علينا<br>\
+                  , (AZ * and S * and TA in باب <br>\
+                  الالف الليّنة, and K and TA in the present art.,) in which خَا=ءِ is a صَوْت [or noun significant of a sound], indecl., with kesr for its termination; (S, TA;) and خَايِى بك, as in the Book of the Nawádir by Ibn-Háni, (Az, TA,) in which latter, ISd says, the ى is not for a sign of the fem. gender, because the word is a صوت; and, as Sh says, on the authority of A&#39;Obeyd, خَايِبِكَ; but correctly written as in the Book of Ibn-Háni; (Az, TA;) <i>Hasten thou</i> [<i>to us</i>]: (AZ, Az, S, K, TA:) it is also used in addressing a female, and two persons, and a pl. number: (S, TA:) you say [خَا=ءِ بِكِ, and] خَايِى بِكِ; and خا=ءِ بِكُمَا, and خَايِى بِكُمَا; and [خَا=ءِ بِكُمْ, and] خَايِى بِكُمْ. (TA.) In the saying of El-Kumeyt, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        بِخَايِى بِكَ اْلْحَقْ يَهْتِفُونَ وَحَىَّ هَلْ<br>\
+                  </quote> [which app. means <i>Calling out “ Hasten thou, come up</i> with us, ” <i>and “ Come, ”</i> or <i>“ come quickly, </i> ” &amp;amp;c.,] it is held by Ibn-Selemeh to be used as an imprecation, meaning خِبْتَ [<i>mayest thou be disappointed of attaining that which thou desirest</i>]; the poet saying بِخَايِبِكَ for بِاَمْرِكَ اْلَّذِى <br>\
+                  خَابَ وَخَسِرَ [meaning <i>By thine affair that shall result in disappointment, and be an occasion of loss</i>]: which, as you see, is at variance with the explanation of AZ. (S, TA.)    </entryFree> <br>\
+<b>خَايِىٌّ</b>               1     <br>\
+                     خَايِىٌّ<br>\
+                     ذ<br>\
+                   and خَاوِىٌّ and خَوِىٌّ [a mistranscription for خَيَوِىٌّ, like بَيَوِىٌّ and تَيَوِىٌّ] rel. ns. of خَا=ءٌ and خَا the names of the letter خ. (TA in باب <br>\
+                  الالف اللّينة.)   </entryFree> <br>\
+' } );

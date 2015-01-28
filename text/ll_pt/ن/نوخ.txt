@@ -1,0 +1,50 @@
+load_data( { book: 'll_pt', text: '<em>نوخ</em>            1                  نوخ<br>\
+<b>ناخَ</b>               1     <br>\
+                     ناخَ<br>\
+                     ذ<br>\
+                  : see 10.    </entryFree> <br>\
+<b>نَوَّخَ اْللّٰهُ الاَرْضَ طَرُوقَةً لِلْمَا=ءِ</b>               1     <br>\
+                     نَوَّخَ اْللّٰهُ الاَرْضَ طَرُوقَةً لِلْمَا=ءِ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>God made,</i> or <i>may God make, the land capable of receiving the water</i> [of the rain <i>so as to be impregnated,</i> or <i>fertilized,</i> or <i>soaked, thereby</i>]: expl. by جَعَلَهَا <br>\
+                  مِمَّا تُطِيقُهُ. (S.) ―         -b2-  See 4.    </entryFree> <br>\
+<b>اناخ</b>               1     <br>\
+                     اناخ<br>\
+                     ذ<br>\
+                   (S, L, Msb) and ↓ <br>\
+      نوّخ (L, Msb) <i>He</i> (a man) <i>made</i> a camel <i>to lie down upon his breast</i> [<i>with his legs folded,</i> as is done on the occasions of mounting and dismounting, &amp;amp;c.] (S, L, Msb.) Also, ↓ <br>\
+      تنوّخ (S, L, K) and اناخ (K) and ↓ <br>\
+      استناخ (L) <i>He</i> (a stallion-camel) <i>made</i> a she-camel <i>to do so in order that he might</i> (??) (S, K.) or <i>made her do so and then covered her.</i> (L.) ―         -b2-  اناخ بِهِ البَلَا=ءُ وَالذُّلُّ (tropical:)  [<i>Trial,</i> or <i>affliction, and abasement, befell him</i>]. (A.)    </entryFree> <br>\
+                     تَنَوَّخَ<br>\
+                   see 4. ―         -b2-  and 10.    </entryFree> <br>\
+                     اـِسْتَنْوَخَ<br>\
+                   see 4. ―         -b2-  Also, استناخ (S, L, Msb) and ↓ <br>\
+      تنوّخ (L, Msb) <i>He</i> (a camel) <i>lay down upon his breast</i> [<i>with his legs folded</i>]. (S, L, Msb.) Also, استناخت and ↓ <br>\
+      تنوّخت <br>\
+                  <i>She</i> (a camel) <i>did so in order to be covered by the stallion.</i> (K.) It is said that one should not use, in the sense of the quasi-pass. of the trans. v. اناخ, the form ↓ <br>\
+      نَاخَ, nor ↓ <br>\
+      اناخ: (Msb:) but the authors on verbs mention اناخ in a neuter sense; and IAar says, that one says اناخ, but not ناخ: (MF:) or IAar says, البَعِيرُ ↓ <br>\
+      تنوّخ, but not ناخ nor اناخ: (L:) [and F says, that] one should not say, in the sense of استناخت and ↓ <br>\
+      تنوّخت as explained above, either ناخت or اناخت. (K.)    </entryFree> <br>\
+<b>نَوْخَةٌ</b>               1     <br>\
+                     نَوْخَةٌ<br>\
+                     ذ<br>\
+                  <i>A remaining, staying, abiding,</i> or <i>dwelling,</i> in a place. (L, K.)    </entryFree> <br>\
+<b>نَايِخَةٌ</b>               1     <br>\
+                     نَايِخَةٌ<br>\
+                     ذ<br>\
+                   A <i>distant</i> land: (K:) or it is [correctly] نَايِخَةٌ, with ب. (TA.)    </entryFree> <br>\
+<b>مَنَاخٌ</b>               1     <br>\
+                     مَنَاخٌ<br>\
+                     ذ<br>\
+                  : see مُنَاخٌ.    </entryFree> <br>\
+<b>مُنَاخٌ</b>               1     <br>\
+                     مُنَاخٌ<br>\
+                     ذ<br>\
+                  <i>A place in which camels are made to lie down upon their breasts,</i> [<i>with their legs folded</i>]; (Msb:) <i>a place where they so lie;</i> (K;) <i>a nightly resting-place of camels.</i> (Msb, voce مُرَاحٌ) to a trad. in which it occurs, accord to one relation it is ↓ <br>\
+      مَنَاخٌ. (TA.) ―         -b2-  Also, <i>A time at which camels so lie.</i> (MF.) ―         -b3-  Also, pass. part. n. of اناخ; and used as an inf. n. of that verb, like اـِنَاخَةٌ. (MF.) ―         -b4-  هٰذَا مُنَاخُ سَوْءٍ (tropical:)  <i>This is a disagreeable place.</i> (A.)    </entryFree> <br>\
+<b>المُنِيخُ</b>               1     <br>\
+                     المُنِيخُ<br>\
+                     ذ<br>\
+                  <i>The lion.</i> (K)   </entryFree> <br>\
+' } );

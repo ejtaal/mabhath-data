@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'عرتنQ. 1<br>\
+عَرْتَنَ He tanned a hide with [the plant,<br>\
+or tree, called] عَرْتُن or عَرْتَن &amp;c. (TA.)<br>\
+عَرْتُنٌ, (S, K, * [in the K it is not clear whether<br>\
+this be thus or عَرَتُنٌ,]) and عَرْتَنٌ, (S, K,) and<br>\
+عَرَتَنٌ, [thus accord. to copies of the K,] with<br>\
+تَحْرِيك, (K, TA,) and with kesr to the ت, (TA,<br>\
+[which may mean that it is عَرَتَنٌ and عَرَتِنٌ or<br>\
+only the latter, but what is meant in the K is<br>\
+evidently عَرَتَنٌ,]) originally ↓ عَرَنْتُنٌ, like قَرَنْفُلٌ,<br>\
+(Kh, S, K,) and ↓ عَرَنْتَنٌ, or both and ↓ عَرَنْتِنٌ,<br>\
+as also ↓ عَرَتُونٌ, (K,) A species of plant, (S,) or<br>\
+tree, (K,) rough, resembling the عَوْسَج [or boxthorn], except that it is bigger, full and luxuriant<br>\
+in the branch, and not having tall stems, (TA,<br>\
+[see also عِرْنَةٌ, of which the same is said,]) with<br>\
+which, (S, K, TA,) it being [first] cooked, (TA,)<br>\
+one tans, (S, K, TA,) and the hide tanned therewith becomes red. (TA.)<br>\
+عَرَتُونٌ: see the next preceding paragraph.<br>\
+عَرَنْتَُنٌ: see the next preceding paragraph.<br>\
+مُعَرْتَنٌ A hide tanned with عَرْتُن or عَرْتَن &amp;c.<br>\
+(S, K.)<br>\
+' } );

@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>كرس</em>            1                  كرس<br>\
+<b>اِنْكَرَسَ فِى الشَّىْءِ</b>               1     <br>\
+                     اِنْكَرَسَ فِى الشَّىْءِ<br>\
+                     ذ<br>\
+                  <i>He entered into the thing and concealed himself.</i> (IKtt, in TA, art. نمس.)    </entryFree> <br>\
+<b>كُرْسِىُّ الخَاتَمِ</b>               1     <br>\
+                     كُرْسِىُّ الخَاتَمِ<br>\
+                     ذ<br>\
+                   (T, K, art. بظر) <i>The bezel of the ring.</i> (TK.)    </entryFree> <br>\
+<b>كِرْسَنَّةٌ</b>               1     <br>\
+                     كِرْسَنَّةٌ<br>\
+                     ذ<br>\
+                  , thus written: (TA:) [<i>Bitter vetch:</i>] see خَانِقٌ.    </entryFree> <br>\
+<b>كِرْسِنِىٌّ</b>               1     <br>\
+                     كِرْسِنِىٌّ<br>\
+                     ذ<br>\
+                   [or كَرْسَنِىٌّ] <i>A sort of</i> <br>\
+                  حِمَّص. (The Minháj, in TA, art. حمص.)   </entryFree> <br>\
+' } );

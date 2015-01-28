@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>كيس</em>            1                  كيس<br>\
+<b>كَيَِّسٌ</b>               1     <br>\
+                     كَيَِّسٌ<br>\
+                     ذ<br>\
+                  <i>Intelligent; ingenious, clever.</i> (S, Msb, K.) [Plur. كُوسَى:] also اَكْيَاسٌ. (Msb.)    </entryFree> <br>\
+<b>اُمُّ كَيْسَانَ</b>               1     <br>\
+                     اُمُّ كَيْسَانَ<br>\
+                     ذ<br>\
+                   a metonymical name of <i>The knee,</i> in the dial. of El-Azd. (TA, art. ركب)   </entryFree> <br>\
+' } );

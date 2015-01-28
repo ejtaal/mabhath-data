@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>هزرب</em>            1                  هزرب<br>\
+<b>هَزْرَبَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     هَزْرَبَ<br>\
+                     ذ<br>\
+                  , inf. n. هَزْرَبَةٌ, <i>He was light,</i> or <i>active, and quick,</i> or <i>swift.</i> (IKtt, K.) A dial. form. of هَذْرَبَ. (TA.)   </entryFree> <br>\
+' } );

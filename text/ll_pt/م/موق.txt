@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>موق</em>            1                  موق<br>\
+<b>موقٌ</b>               1     <br>\
+                     موقٌ<br>\
+                     ذ<br>\
+                   [<i>Stupidity;</i>] <i>foolishness with lack of understanding.</i> (S, K.)       -A2-  <i>A kind of boot:</i> see جُرْمُوقٌ.   </entryFree> <br>\
+' } );

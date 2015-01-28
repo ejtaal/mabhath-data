@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;رقا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  رقا<br>\
+&lt;entryFree id=&quot;n16297&quot; key=&quot;رَقَاَ الدَّمْعُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     رَقَاَ الدَّمْعُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَقَاَ<br>\
+                  &lt;/form&gt;, inf. n. رَقْءٌ and رُقُوْءٌ, (S, Mgh, Msb, K, &amp;amp;c.,) &lt;i&gt;The tears stopped,&lt;/i&gt; or &lt;i&gt;ceased to flow;&lt;/i&gt; (Fs, JK, S, Mgh, Msb;) or &lt;i&gt;dried up,&lt;/i&gt; (IDrst, Aboo-&#39;Alee El-Kálee, K,) &lt;i&gt;and stopped,&lt;/i&gt; or &lt;i&gt;ceased:&lt;/i&gt; (K:) and in like manner, الدَّمُ <br>\
+                  &lt;i&gt;the blood:&lt;/i&gt; (JK, S, Mgh, Msb:) whence the phrase جُرْحَانِ لَا يَرْقَا=نِ <br>\
+                  &lt;i&gt;Two wounds not ceasing to bleed.&lt;/i&gt; (Mgh.) And in like manner also, (JK,) رَقَاَ العِرْقُ, (Fs, JK, K, TA, [not العَرَقُ, as supposed by Golius and Freytag,]) inf. ns. as above, (K,) &lt;i&gt;The vein stopped&lt;/i&gt; or &lt;i&gt;ceased&lt;/i&gt; [&lt;i&gt;bleeding&lt;/i&gt;]; syn. اِنْقَطَعَ, (Fs, JK, TA,) and سَكَنَ, (TA,) or اِرْتَفَعَ; (K;) [in all of which explanations, دَمُهُ is understood.]       -A2-  رَقَاَ بَيْنَهُمْ, (K, TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَقَاَ<br>\
+                  &lt;/form&gt;, inf. n. رَقْءٌ, (TA,) &lt;i&gt;He effected a reconciliation,&lt;/i&gt; or &lt;i&gt;made peace, between them;&lt;/i&gt; (K, TA;) like رَفَاَ: (TA:) and [in like manner,] رَقَاَ مَا بَيْنَهُمْ <br>\
+                  &lt;i&gt;He arranged,&lt;/i&gt; or &lt;i&gt;rightly disposed,&lt;/i&gt; or &lt;i&gt;rectified, the matter,&lt;/i&gt; or &lt;i&gt;affair, between them.&lt;/i&gt; (TA.) And the former phrase (رقابينهم) also signifies &lt;i&gt;He created disorder&lt;/i&gt; or &lt;i&gt;discord,&lt;/i&gt; or &lt;i&gt;made mischief, between them:&lt;/i&gt; thus having two contr. meanings. (K.)       -A3-  رَقَاَ فِى الدَّرَجَةِ, (K,) and رَقِيَ, also, mentioned by Ibn-Málik in the “ Káfiyeh, ” as a dial. var. of رَقِىَ, and both mentioned by IKtt, aor. of each      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَقَاَ<br>\
+                  &lt;/form&gt;, (TA,) &lt;i&gt;He ascended the series of stairs,&lt;/i&gt; or &lt;i&gt;the ladder:&lt;/i&gt; (K:) on the authority of Kr; but extr. [with respect to usage]. (TA.) ―         -b2-  [Hence,] اِرْقَاْ عَلَى ظَلْعِكَ (a dial. var. of اِرْقَ TA) (assumed tropical:)  &lt;i&gt;Be gentle with thyself, and impose not upon thyself more than thou art able to perform:&lt;/i&gt; (JK, S, TA:) or &lt;i&gt;abstain thou, for I know thine evil qualities&lt;/i&gt; or &lt;i&gt;actions:&lt;/i&gt; (JK:) or, as some say, &lt;i&gt;rectify thou,&lt;/i&gt; or &lt;i&gt;rightly dispose, first thy case,&lt;/i&gt; or &lt;i&gt;thine affair.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n16298&quot; key=&quot;ارقا دَمْعَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ارقا دَمْعَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S,) or الدَّمْعَ, (K,) said of God, (S, K,) &lt;i&gt;He caused his,&lt;/i&gt; or &lt;i&gt;the, tears to stop,&lt;/i&gt; or &lt;i&gt;cease, flowing;&lt;/i&gt; (S, TA;) or &lt;i&gt;caused them to dry up, and to stop,&lt;/i&gt; or &lt;i&gt;cease.&lt;/i&gt; (K.) The saying لَا اَرْقَاَ اْللّٰهُ <br>\
+                  دَمْعَتَهُ is expl. by El-Mundhiree as meaning &lt;i&gt;May God not remove,&lt;/i&gt; or &lt;i&gt;do away with,&lt;/i&gt; (لَا رَفَعَ,) &lt;i&gt;his tear.&lt;/i&gt; (TA.) You say also, اَرْقَاْتُ العِرْقَ [meaning &lt;i&gt;I caused the vein to stop&lt;/i&gt; or &lt;i&gt;cease bleeding:&lt;/i&gt; see 1]. (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n16299&quot; key=&quot;رَقُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَقُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A styptic;&lt;/i&gt; or &lt;i&gt;a thing that is put upon blood for the purpose of stanching it,&lt;/i&gt; or &lt;i&gt;stopping its flowing:&lt;/i&gt; (S, K:) a subst. from رَقَاَ. (Msb.) Hence the saying, (Msb,) accord. to J, in a trad., but this is a mistake, for it is a saying of Aktham, (K,) or, accord. to the Expositions of the Fs, it was said by Keys Ibn-&#39;Ásim El-Minkaree, (TA,) لَا تَسُبُّوا الاـِبِلَ فَاـِنَّ فِيهَا رَقُوْءَ الدَّمِ [&lt;i&gt;Revile not ye camels,&lt;/i&gt; or it may perhaps mean &lt;i&gt;hock not ye camels,&lt;/i&gt; but the former, I am told, is here meant, &lt;i&gt;for in them is a preventive of the flowing of blood&lt;/i&gt;]; alluding to their being given in compensation for homicide, and thus preventing the shedding of blood. (S, Msb, K, TA.) ―         -b2-  [Hence,] رَجُلٌ رَقُوْءٌ بَيْنَ القَوْمِ (assumed tropical:)  &lt;i&gt;A man who is a reconciler of the people;&lt;/i&gt; or &lt;i&gt;a peacemaker between them:&lt;/i&gt; and [so] رَقُوْءٌ لِمَا بَيْنَهُمْ, a phrase used by a poet. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n16300&quot; key=&quot;مَرْقَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَرْقَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مِرْقَاَةٌ, (K,) the former a n. of place, the latter an instrumental n., and both correct, dial. vars. of مَرْقَاةٌ and مِرْقَاةٌ, (TA,) &lt;i&gt;A series of stairs;&lt;/i&gt; or &lt;i&gt;a ladder.&lt;/i&gt; (K, TA.)   &lt;/entryFree&gt; <br>\
+' } );

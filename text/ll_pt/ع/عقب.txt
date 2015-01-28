@@ -1,0 +1,549 @@
+load_data( { book: 'll_pt', text: '<em>عقب</em>            1                  عقب<br>\
+<b>عَقَبَهُ</b>               1     <br>\
+                     عَقَبَهُ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     عَقُبَ<br>\
+                  , (TA,) inf. n. عَقْبٌ, (TK,) <i>He struck his</i> <br>\
+                  عَقِب [or <i>heel</i>]. (S, K, TA.) ―         -b2-  And عَقَبَهُ, (S, Mgh, Msb, K, TA,) aor.      <br>\
+                     عَقُبَ<br>\
+                  , (Mgh, Msb, TA,) inf. n. عَقْبٌ and عُقُوبٌ, (Msb, TA,) <i>He came after him;</i> [as though <i>at his heel;</i> and hence, properly, <i>close after him;</i> but often meaning <i>near after him;</i>] (S, Mgh, Msb, K, TA;) <i>followed him; succeeded him;</i> (S, Mgh, K, TA;) <i>came in,</i> or <i>took, his place;</i> as also ↓ <br>\
+      اعقبهُ: (S, K, TA:) and in like manner both are said of anything, (TA,) as also ↓ <br>\
+      عقّبهُ, (Msb, K, TA,) inf. n. تَعْقِيبٌ; (S, Msb, K;) and ↓ <br>\
+      عاقبهُ; (S, Msb, K;) and ↓ <br>\
+      اعتقبهُ; (TA;) meaning <i>it came after;</i> (S, * Msb, K, * TA;) &amp;amp;c., as above: (TA:) and ↓ <br>\
+      تعقّبهُ is used in this sense, but not rightly. (Mgh.) [All primarily denote proximate sequence.] You say, عَقَبُونَا and عَقَبُوا مِنْ خَلْفِنَا <br>\
+                  <i>They came after us.</i> (TA.) And عَقَبُونَا مِنْ خَلْفِنَا and ↓ <br>\
+      عَقَّبُونَا <br>\
+                  <i>They succeeded us, in alighting,</i> or <i>taking up their abode, after our departure.</i> (TA.) And العِدَّةُ تَعْقُبُ الطَّلَاقَ <br>\
+                  <i>The</i> <br>\
+                  عِدَّة [q. v.] <i>follows divorce.</i> (Mgh, Msb.) And اْبْنُهُ ↓ <br>\
+      ذَهَبَ فُلَانٌ فَاَعْقَبَهُ, as also عَقَبَهُ, <i>Such a one went away, and his son succeeded him,</i> or <i>took his place.</i> (S, O.) And هٰذَا هٰذَا ↓ <br>\
+      اعقب [<i>This succeeded this</i>] is said when the latter is gone, and there remains nothing of it, and the former has taken its place. (TA.) And one says, عَقَبَ <br>\
+                  فُلَانٌ مَكَانَ اَبِيهِ, (S, O, TA,) aor.      <br>\
+                     عَقُبَ<br>\
+                  , inf. n. عَقْبٌ, (TA,) and quasi-inf. n. ↓ <br>\
+      عَاقِبَةٌ, this being a subst. used in the sense of an inf. n., like as كَاذِبَةٌ is [said to be] in the Kur lvi. 2, (S, O,) or it is an inf. n. syn. with عَقْبٌ, (Msb in art. عفو,) <i>Such a one succeeded,</i> or <i>took the place of, his father;</i> (S,  O, TA;) as also ↓ <br>\
+      عقّب. (TA.) [Hence also several phrases here following.] ―         -b3-  It is said in a trad., كُلُّ غَازِيَةٍ غَزَتْ يَعْقُبُ بَعْضُهَا بَعْضًا i. e. [<i>Every party that goes forth on a warring,</i> or <i>warring and plundering, expedition</i>] <i>shall take its turn, one after another:</i>] when one company has gone forth and returned, it shall not be constrained to go forth again until another has taken its turn after it. (TA.) ―         -b4-  عَقَبْتُ الرَّجُلَ فِى اَهْلِهِ means بَغَيْتُهُ بِشَرٍّ وَخَلَفْتُهُ [i. e. <i>I sought to do evil to the man, and took his place</i> (see art. خلف), <i>with respect to his wife;</i> i. e. <i>I committed adultery with his wife</i>]: (S, O:) or عَقَبَهُ signifies [simply] بِغَاهُ بِشَرٍّ [<i>he sought to do evil to him</i>]: (K: [in which وَخَلَفَهُ seems to have been inadvertently omitted: but SM immediately adds what here follows:]) and one says also, عَقَبَ فِى اـِثْرِ الرَّجُلِ <br>\
+                  بِمَا يُكْرَهُ, aor.      <br>\
+                     عَقُبَ<br>\
+                  , inf. n. عَقْبٌ, meaning <i>He accused the man</i> [app. <i>behind his back</i>] <i>of a thing disliked,</i> or <i>hated; he</i> [<i>so</i>] <i>defamed him,</i> or <i>charged him with a vice</i> or <i>fault</i> or <i>the like.</i> (TA.) ―         -b5-  عَقَبَ فُلَانٌ عَلَى فُلَانَةَ [like خَلَفَ عَلَيْهَا] <i>Such a man married such a woman after her first husband.</i> (TA.) ―         -b6-  عَقَبَ الشَّيْبُ, aor.      <br>\
+                     عَقِبَ<br>\
+                   and      <br>\
+                     عَقُبَ<br>\
+                  , inf. n. عُقُوبٌ, <i>Whiteness of the hair,</i> or <i>hoariness, came after</i> [or <i>took the place of</i>] <i>blackness:</i> as also ↓ <br>\
+      عقّب. (TA.) ―         -b7-  عَقَبَ said of a horse, aor.      <br>\
+                     عَقِبَ<br>\
+                   [or      <br>\
+                     عَقُبَ<br>\
+                  ?], inf. n. عَقْبٌ, [which see below,] <i>He performed a run after another run.</i> (L, TA.) ―         -b8-  عَقَبَتِ الاـِبِلُ مِنْ مَكَانٍ اـِلَى مَكَانٍ, aor.      <br>\
+                     عَقُبَ<br>\
+                  , inf. n. عَقْبٌ; and ↓ <br>\
+      اعتقبت; <i>The camels removed from place to place, pasturing.</i> (IAar, TA.) ―         -b9-  مَا <br>\
+                  عَقَبَ فِيهَا فَعَلَيْكَ مِنْ مَالِكَ, (TA,) or ↓ <br>\
+      مَا عَقَّبَ, (so in the O, [in which فِى مالك is put in the place of من مالك,]) <i>Whatever evil consequence happen</i> to me, <i>with respect to it,</i> (referring to merchandise,) <i>the responsibility</i> for it <i>will be on thee</i> [and compensation shall be made <i>from thy property</i>]: and [تَعْقِبَةٌ (thus in the O) appears, from what follows, to be an inf. n. of the latter verb in this sense; or it may perhaps be from the former verb, like تَهْلِكَةٌ from هَلَكَ; for] one says, بَاعَنِى <br>\
+                  سِلْعَةً وَعَلَيْهِ تَعْقِبَةٌ اـِنْ كَانَت فِيهَا [<i>He sold me an article of merchandise, and was responsible for an evil consequence,</i> (or for damage afterwards found in it,) <i>should there be any in it</i>]. (ISh, O, TA. *) ―         -b10-  عَقَبَهُ and ↓ <br>\
+      عقّبهُ and ↓ <br>\
+      اعقبهُ signify also <i>He took,</i> or <i>received, from him something in exchange, an exchange, a substitute,</i> or <i>an equivalent, for another thing:</i> it is said in a trad., اـِنْ لَمْ يَقْرُوهُ <br>\
+                  فَلَهُ اَنْ يَعْقُبَهُمْ بِمِثْلِ قِرَاهُ <br>\
+                  <i>If they entertain him not. he shall have a right to take from them as a substitute the like of his entertainment</i> which they denied him: and one says also مِنْهُ خَيْرًا ↓ <br>\
+      استعقب, or شَرًّا, <i>He took,</i> or <i>received, from him in exchange good,</i> or <i>evil:</i> (TA:) and عَقَبَ الرَّجُلَ, aor.      <br>\
+                     عَقُبَ<br>\
+                  , <i>He took from the man&#39;s property the like of what he</i> (the latter) <i>had taken from him.</i> (O, * TA.) After the words in the Kur lx. 11, وَاـِنْ فَاتَكُمْ شَىْءٌ <br>\
+                  مِنْ اَزْوَاجِكُمْ اـِلَى اْلْكُفَّارِ, there are three different readings, ↓ <br>\
+      فَعَاقَبْتُمْ, and ↓ <br>\
+      فَعَقَّبْتُمْ, and فَعَقَبْتُمْ: (TA:) the first means <i>and ye take,</i> or <i>carry off, spoil:</i> (Masrook Ibn-El-Ajda&#39;, S, TA:) or the second has this meaning; and the first means <i>and ye punish them so that ye take,</i> or <i>carry off, spoil:</i> and the third means <i>and ye have a requital:</i> the second is the best; and the third is also good; but the second has a more intensive meaning: (Aboo-Is-hák the Grammarian, L, TA:) accord. to Fr, the first and second signify the same: (L, TA:) and As says that عَقْبٌ [inf. n. of عَقَبَ] is syn. with عِقَابٌ [inf. n. of عَاقَبَ; but whether with reference to this case, I do not find]. (TA.) ―         -b11-  And عَقَبَ, aor.      <br>\
+                     عَقُبَ<br>\
+                  , inf. n. عَقْبٌ, also signifies <i>He sought,</i> or <i>sought after, wealth,</i> or <i>some other thing.</i> (TA.)       -A2-  عَقَبَ, (S, O, K,) aor.      <br>\
+                     عَقِبَ<br>\
+                   and      <br>\
+                     عَقُبَ<br>\
+                  , (TA,) inf. n. عَقْبٌ, (S, O,) <i>He bound</i> a thing <i>with</i> [<i>the kind of sinew,</i> or <i>tendon, called</i>] عَقَب; as also ↓ <br>\
+      عقّب [inf. n. تَعْقِيبٌ, of which see an ex. in a verse cited voce مَصْنَعٌ]: <i>he bound therewith</i> a خَوْق. i. e. the ring of an ear-drop, fearing lest it should incline on one side: or <i>he bound</i> an earring <i>with a thread called</i> <br>\
+                  عُقَاب: (TA:) <i>and he wound round</i> a bow, (S, O, K,) and an arrow, (S, O,) <i>with</i> [<i>the kind of sinew,</i> or <i>tendon, called</i>] عَقَب, (O,) or <i>with somewhat thereof:</i> (S, K:) or عَقَبَهُ بِالعَقَبِ <br>\
+                  <i>he bound it,</i> namely, the [arrow termed] قِدْح, <i>with the</i> <br>\
+                  عَقَب, in consequence of its having broken. (IB, L, TA.)       -A3-  عَقَبْنَا الرَّكِيَّةَ [thus I find it written without teshdeed, but perhaps it should be ↓ <br>\
+      عَقَّبْنَا, from اَعْقَابُ الطَّىّ, (see عَقِبٌ,)] <i>We lined the well with stones behind</i> [<i>the other</i>] <i>stones.</i> (TA. [See also 4.])       -A4-  [The inf. n.] العَقْبُ also signifies الرَّجْعُ, [which generally means <i>The making,</i> or <i>causing, to return,</i> or <i>go back;</i> but this may perhaps be a mistake for الرُّجُوعُ, for it is immediately added,] Dhu-rRummeh says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كَاَنَّ صِيَاحَ الكُدْرِ يَنْظُرْنَ عَقْبَنَا<br>\
+                     <L><br>\
+                        تَرَاطُنُ اَنْبَساطٍ عَلَيْهِ طَغَامِ<br>\
+                  </quote> meaning [<i>As though the crying of the dusky</i> she-camels] <i>looking,</i> or <i>waiting, for our returning</i> from watering that they might go to the water after us [<i>were the barbarous talk of low,</i> or <i>ignoble, Nabathæans, over it,</i> i. e. over the water]. (TA.)       -A5-  عَقِبَ النَّبْتُ, [aor.      <br>\
+                     عَقَبَ<br>\
+                  ,] inf. n. عَقَبٌ, <i>The branches of the plant,</i> or <i>herbage, became slender, and the leaves thereof turned yellow.</i> (IAar, TA. [See also 2.])    </entryFree> <br>\
+                     عَقَّبَ<br>\
+                   see 1, first three quarters, in seven places. ―         -b2-  The inf. n., تَعْقِيبٌ, signifies also The <i>doing a thing and then returning to doing it:</i> (IAth, TA:) the <i>performing an act of prayer,</i> or <i>another act, and then returning to doing it in the same day:</i> (Sh, TA:) and [particularly] the <i>making a warring,</i> or <i>warring and plundering, expedition, and then another in the same year.</i> (S, O, K.) [See also مُعَقِّبٌ.] You say, عقّب بِصَلَاةٍ بَعْدَ صَلَاةٍ, and بِغَزَاةٍ بَعْدَ غَزَاةٍ, <i>He followed up one prayer with another,</i> and <i>one warring,</i> or <i>warring and plundering, expedition with another.</i> (TA.) And صَلَّى مِنَ اللَّيْلِ ثُمَّ عَقَّبَ <br>\
+                  <i>He prayed in the night and then repeated the prayer.</i> (IAar, TA.) And عُقِّبَ الغَازِيَةُ بِاَمْثَالِهَا, and ↓ <br>\
+      اُعْقِبَ, <i>The warring,</i> or <i>warring and plundering, party was made to be followed by another, consisting of the likes of it, sent in its place.</i> (TA.) And it is said in a trad. of &#39;Omar, كَانَ كُلَّ عَامٍ يُعَقِّبُ الجُيُوشَ <br>\
+                  <i>He used, every year, to call back one party of the forces and to send another to take its turn after the former.</i> (O, TA.) ―         -b3-  Also The <i>performing of prayer</i> (IAth, O, K, TA) <i>as a supererogatory act</i> (TA) <i>after the</i> [<i>prayers called</i>] تَرَاوِيح: (IAth, O, K, TA:) such prayer is to be performed in the house, at home, (IAth, O, TA,) not in the mosque. (IAth, TA.) ―         -b4-  And The <i>waiting</i> (K, TA) in prayer; or <i>remaining in one&#39;s place</i> in prayer <i>waiting for another prayer.</i> (TA.) And you say, عقّب فِى الصَّلَاةِ, (S, O,) inf. n. as above, (S, A, O, Msb, K,) <i>He sat after the performing of the</i> [ordinary] <i>prayer for the purpose of a supplication</i> (S, A, O, Msb, K) or <i>a petition.</i> (S, O, Msb.) وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ, in the Kur [xxvii. 10 and xxviii. 31], means [<i>He did did not turn back retreating</i>] <i>and did not wait;</i> (O, TA;) properly, <i>did not make advancing to follow his retreating:</i> (O:) or <i>and did not turn aside</i> (S, Msb) <i>nor wait in expectation:</i> (S:) or <i>and did not turn aside nor return:</i> (O:) or <i>and did not look aside:</i> (K, * TA.) or <i>and did not return;</i> from عقّب said of a combatant, meaning <i>He returned after fleeing:</i> (Bd in xxvii. 10:) you say, عقّب عَلَيْهِ <br>\
+                  <i>He returned against him;</i> syn. كَرَّ, and رَجَعَ: and تَعْقِيبٌ signifies also The <i>turning back,</i> or <i>receding, from a thing that one had desired to do.</i> (TA.) ―         -b5-  عَقَّبَ فِى الشَّيْبِ <br>\
+                  بِاَخْلَاقٍ حَسَنَةٍ [app. means <i>He had latterly, in the time of hoariness, good dispositions</i>]. (O. [The meaning that I have assigned to this phrase seems to be there indicated by the context: but I incline to think that the right reading is عُقِّبَ, (assumed tropical:)  lit. <i>He was made to be followed, in hoariness, by good dispositions;</i> agreeably with what next follows.]) ―         -b6-  ا=تَى فُلَانٌ اـِلَىَّ خَيْرًا فَعُقِّبَ بِخَيْرٍ مِنْهُ [means <i>Such a one caused good to betide me, and it was made to be followed by what was better than it</i>]. (A, TA. [In the former it is followed by the words وَاَرْدِفَ بِخَيْرٍ مِنْهُ, evidently for the purpose of explanation.]) ―         -b7-  [Hence,] one says, تَصَدَّقَ بِصَدَقَةٍ لَيْسَ فِيهَا تَعْقِيبٌ, meaning اِسْتِشْنَا=ءٌ [i. e. <i>He gave an alms in which was no making an exception</i> by following it up with a condition]. (S, A, O, Msb. *) ―         -b8-  عَقَّبَنِى حَقِّى <br>\
+                  <i>He delayed,</i> or <i>deferred, the giving,</i> or <i>paying, to me my due.</i> (S.) ―         -b9-  عقّب الاَمْرَ <br>\
+                  <i>He looked to the consequence, end, issue,</i> or <i>result, of the affair, event,</i> or <i>case.</i> (TA. [See also 5.]) ―         -b10-  And عقّب فِى الاَمْرِ <br>\
+                  <i>He went repeatedly to and fro,</i> or <i>made repeated efforts, in seeking to accomplish the affair, striving,</i> or <i>exerting himself.</i> (S, O, L, TA.) In the K, التَّعْقِيبُ [the inf. n.] is expl. as signifying التَّرَدُّدُ <br>\
+                  فِى طَلَبِ المَجْدِ: but the right reading is فِى <br>\
+                  طَلَبٍ مُجِدًّا. (TA.) [See also مُعَقِّبٌ.]       -A2-  عقّب said of the [plant called] عَرْفَج, (S, O,) inf. n. تَعْقِيبٌ, (K,) <i>It became yellow in its fruit,</i> (S, O, K,) <i>and attained to the season of its drying up:</i> (S, O:) from عَقِبَ said of a plant or herbage. (TA.)       -A3-  عقّب عُقَابًا, inf. n. as above, <i>He planed off a stone of the kind called</i> <br>\
+                  عُقَاب, <i>in a well.</i> (TA. [See also مُعَقِّبٌ.])       -A4-  See also 1, last quarter, in two places.    </entryFree> <br>\
+<b>عاقبهُ</b>               1     <br>\
+                     عاقبهُ<br>\
+                     ذ<br>\
+                  : see 1, second sentence. ―         -b2-  Also عاقب <br>\
+                  الرَّجُلَ, (Mgh, * TA,) inf. n. مُعَاقَبَةٌ and عِقَابٌ, (Mgh,) <i>He did a thing with the man alternately, each taking his turn;</i> (Mgh, TA;) and so ↓ <br>\
+      اعقبهُ. (TA.) And [particularly], (TA,) inf. n. مُعَاقَبَةٌ, (S, O,) <i>He rode in his turn after the man, each riding in his turn;</i> (S, O, TA;) as also ↓ <br>\
+      اعقبهُ, (S, O, K,) and ↓ <br>\
+      اعتقبهُ. (TA.) And عَاقَبْتُ <br>\
+                  الرَّجُلَ فِى الرَّاحِلَةِ <br>\
+                  <i>I rode in my turn after the man, upon the camel, he riding in his turn after me.</i> (S, O.) And in like manner you say, ↓ <br>\
+      اِعْتَقَبُوهُ, and ↓ <br>\
+      تَعَاقَبُوهُ <br>\
+                  <i>They rode by turns with him, taking their turns after him.</i> (TA.) ―         -b3-  And عاقب بَيْنَ الشَّيْيَيْنِ [<i>He made an interchange,</i> or <i>alternation between the two things; he made the two things interchangeable,</i> or <i>commutable;</i>] <i>he brought,</i> or <i>did, the two things interchangeably,</i> or <i>alternately,</i> i. e. <i>one of them one time and the other of them another time.</i> (TA.) [Thus, for instance,] العَرَبُ تُعَاقِبُ بَيْنَ الفَا=ءِ والثَّا=ءِ [<i>The Arabs make an interchange between</i> <br>\
+                  ف <br>\
+                  <i>and</i> <br>\
+                  ث; <i>make</i> <br>\
+                  ف <br>\
+                  <i>and</i> <br>\
+                  ث <br>\
+                  <i>interchangeable,</i> or <i>commutable;</i> i. e. <i>put</i> <br>\
+                  ف <br>\
+                  <i>in the place of</i> <br>\
+                  ث, <i>and</i> <br>\
+                  ث <br>\
+                  <i>in the place of</i> <br>\
+                  ف]; as in جَدَفٌ and جَدَثٌ; and ↓ <br>\
+      تُعْقِبُ signifies the same. (S, O.) ―         -b4-  And عاقب signifies also <i>He stood upon one of his legs one time and upon the other another time;</i> or <i>moved his legs alternately.</i> (TA.) ―         -b5-  [عاقبهُ as denoting consequence, and retaliation, or retribution, also signifies <i>He punished him.</i>] You say, عاقبهُ بِذَنْبِهِ, (S, Msb, * TA,) inf. n. عِقَابٌ (S, Msb, TA) and مُعَاقَبَةٌ, (Msb, TA,) <i>He punished him for his crime, sin, fault,</i> or <i>offence:</i> (S, * Msb, * TA:) and [in like manner] ↓ <br>\
+      تعقّبهُ <br>\
+                  <i>He punished him</i> (i. e. a man, S, O) <i>for a crime, a sin, a fault,</i> or <i>an offence, that he had committed.</i> (S, O, K.) In the saying in the Kur [xvi. last verse but one], وَاـِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُمٌ بِهِ [<i>And if ye punish, then punish ye with the like of that with which ye have been afflicted,</i> lit. <i>punished</i>], the verb first denotes punishment, and is afterwards used for the purpose of assimilation: and similar to this is the saying in the same [xxii. 59], وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِ [<i>And whoso punisheth with the like of that with which he hath been afflicted,</i> lit. <i>punished</i>]. (O.) For another ex., from the Kur lx. 11, [where it implies retaliation or retribution,] see 1, latter half. [In like manner,] it is said in a trad., اَبْطَلَ النَّفْحَ اـِلَّا اَنْ يُضْرَبَ <br>\
+                  فَيُعَاقِبَ [<i>He made the kicking</i> of a beast <i>with the hind leg to be of no account unless it were beaten</i> by its master, or rider, <i>and retaliated</i> by kicking another person]; meaning, he made nothing to be incumbent on the master of the beast unless the latter made the kicking to be a consequence of that [i. e. unless the beast kicked in consequence of its being beaten by the master, or rider]. (TA.) [See also 4, which has a similar meaning, that of requital.] ―         -b6-  عُوقِبَتْ said of a mare means <i>She was required to perform run after run.</i> (Ham p. 277.)    </entryFree> <br>\
+<b>اعقبهُ</b>               1     <br>\
+                     اعقبهُ<br>\
+                     ذ<br>\
+                  : see 1, first quarter, in three places: ―         -b2-  and see 3, in three places. ―         -b3-  [Also <i>He made him to take his place.</i> And hence,] <i>He descended from his beast in order that he</i> (another) <i>might ride in his turn:</i> and one says also اَعْقِبْ meaning <i>Descend thou in order that I may ride in my turn:</i> and in like manner with respect to any kind of action: thus, when the office of Khaleefeh became transferred from the sons of Umeiyeh to the Háshimees, Sudeyf, the poet of the &#39;Abbásees, said, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَعْقِبِى ا=لَ هَاشِمٍ يَا مَيَّا<br>\
+                  </quote> meaning <i>Descend</i> from the station of the Khaleefehs <i>that the family of Háshim may mount, O Meiyà</i> [for O sons of Umeiyeh]. (TA.) ―         -b4-  [And <i>It made</i> a thing <i>to follow as a consequence to him:</i> the verb in this sense being doubly trans.] One says, اعقبهُ نَدَمًا <br>\
+                  <i>It occasioned him as its consequence repentance,</i> (Mgh, Msb, TA,) and هَمًّا <br>\
+                  <i>anxiety.</i> (TA.) And اَكَلَ اَكْلَةً اَعْقَبَتْهُ <br>\
+                  سَقَمًا <br>\
+                  <i>He ate a repast that occasioned him as its consequence a sickness.</i> (S, O.) And [hence] اُعْقِبَ <br>\
+                  عِزُّهُ ذُلًّا <br>\
+                  <i>His might was exchanged for,</i> or <i>changed into,</i> [lit. <i>made to be followed by,</i>] <i>abasement.</i> (TA.) See also 2, first quarter, for another ex. [Hence, likewise,] فَاَعْقَبَهُمْ نِفَاقًا, in the Kur [ix. 78], means [<i>Therefore He caused hypocrisy to follow as a consequence to them;</i> or] <i>He caused them to err,</i> because of their evil deed, <i>as a punishment to them.</i> (O.) And [in like manner] one says, اَعْقَبَهُ اْللّٰهُ بِاـِحْسَانِهِ خَيْرًا [<i>God gave him,</i> or <i>may God give him, as a recompense,</i> or <i>requital, for his beneficence, good,</i> or <i>prosperity</i>]. (TA.) And اعقبهُ بِطَاعَتِهِ <br>\
+                  <i>He recompensed,</i> or <i>requited, him for his obedience,</i> (S, O, K, *) and عَلَى مَا صَنَعَ <br>\
+                  <i>for what he did.</i> (TA. [See also 3, which has a similar meaning, that of retribution.]) اعقبهُ خَيْرًا means also <i>He gave him in exchange good.</i> (TA.) See also 1, latter half, where the verb is expl. in the contr. sense, that of taking, or receiving, in exchange. ―         -b5-  اعقبهُ الطَّايِفُ <br>\
+                  <i>The diabolical visitation,</i> or <i>insanity, returned to him at times.</i> (S, O.) ―         -b6-  اعقب طَىَّ البِيْرِ بِحِجَارَةٍ مِنْ وَرَايِهَا [is app. from اَعْقَابُ الطَّىِّ (see عَقِبٌ), and] means <i>He laid stones compactly together at the back</i> [<i>behind the regular casing</i>] <i>of the well.</i> (TA. [See also 1, near the end.])       -A2- اعقب as intrans., <i>He</i> (a man) <i>died, and left offspring.</i> (S, O, K.) One says, اَعْقَبَ <br>\
+                  مِنْهُمْ رَجُلَانِ وَدَرَجَ وَاحِدٌ [<i>Two men of them died and left offspring, and one died and left no offspring</i>]: and Tufeyl El-Ghanawee says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كَرِيمَةُ حُرِّ الوَجْهِ لَمْ تَدْعُ هَالِكًا<br>\
+                     <L>↓ <br>\
+      مِنَ القَوْمِ هُلْكًا فِى غَدٍ غَيْرَ مُعْقِبِ<br>\
+                  </quote> [<i>A female noble of countenance,</i> (or whose nobility was manifest in what appeared of her countenance,) <i>she did not invoke one of the people dead, on a morrow</i> after an engagement, <i>as having perished without leaving a successor,</i> or <i>one to fill his place:</i>] i. e. when a chief of her people died, another chief came; so that she did not bewail a chief who had not his equal. (TA.) ―         -b2-  <i>He</i> (a borrower of a cooking-pot) <i>returned a cooking-pot with the remains termed</i> <br>\
+                  عُقْبَة <br>\
+                  <i>in it.</i> (S, O, K.) ―         -b3-  <i>He</i> (a man) <i>returned from evil to good.</i> (TA.) ―         -b4-  اعقب عَلَيْهِ يَضْرِبُهُ <br>\
+                  <i>He set upon him beating him.</i> (O.) ―         -b5-  اَعْقَبَتْ رَاحِلَتُكَ <br>\
+                  <i>Thy riding-camel became,</i> or <i>has become, jaded,</i> or <i>fatigued.</i> (O.)    </entryFree> <br>\
+<b>تعقّب</b>               1     <br>\
+                     تعقّب<br>\
+                     ذ<br>\
+                  <i>He looked to the consequence, end, issue,</i> or <i>result:</i> and <i>he considered a second time.</i> (TA. [See also 2, last quarter.]) ―         -b2-  تعقّب مِنْ <br>\
+                  اَمْرِهِ <br>\
+                  <i>He repented of his affair.</i> (TA.) ―         -b3-  تعقّب <br>\
+                  عَنِ الخَبَرِ <br>\
+                  <i>He doubted of the information,</i> or <i>questioned it, and asked again respecting it.</i> (S, O, K, TA. [In my copies of the S, and in the O, الخَيْرِ: but see what follows; in which مُتَعَقَّب is used as a noun of place of the verb in this sense.]) Tufeyl says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L>↓ <br>\
+      وَلَمْ يَكُ عَمَّا خَبَّرُوا مُتَعَقَّبُ<br>\
+                  </quote> [<i>And there was no place of,</i> or <i>ground for, doubting, and asking again, respecting what they told</i>]. (S, O, TA.) And one says, لَمْ اَجِدْ عَنْ قَوْلِكَ ↓ <br>\
+      مُتَعَقَّبًا, (A, TA,) i. e. [<i>I found not</i>] <i>any place of,</i> or <i>ground for, inquiring into,</i> or <i>investigating, thy saying;</i> syn. مُتَفَحَّصًا; (A, TA;) [or <i>questioning it;</i> or <i>returning to examine it;</i>] meaning, thy saying was right and true, so that it did not require التَّعَقُّب; (A;) or I did not allow myself to doubt, and ask again, respecting it, that I might see whether I should do what thou saidst or abstain from it. (TA.) ―         -b4-  [And the verb is used transitively in a similar sense.] You say, تعقّب الخَبَرَ <br>\
+                  <i>He searched after the information repeatedly,</i> or <i>time after time;</i> (Mgh, * TA;) syn. تَتَبَّعَ: (Mgh, TA:) and ↓ <br>\
+      اعتقب has a like meaning. (Ham p. 287.) And <i>He asked respecting the information another person than the one whom he asked the first time.</i> (A, TA.) ―         -b5-  And تَعَقَّبْتُ الرَّجُلَ <br>\
+                  <i>I sought to discover in the man that which he would be ashamed to expose;</i> or <i>the slip,</i> or <i>fault, that he had committed:</i> and ↓ <br>\
+      اِسْتَعْقَبْتُهُ signifies the same. (O, K. *) [In critical observations and the like, تعقّبهُ is often used as meaning <i>He found fault with him; animadverted upon him;</i> or <i>impugned his judgment</i> or <i>assertion;</i> <br>\
+                  بِقَوْلِهِ كَذَا وَكَذَا <br>\
+                  <i>by his saying so and so.</i> And تعقّب عَلَيْهِ seems to be similarly used as meaning <i>He animadverted upon his saying:</i> (compare اِعْتَرَضَ عَلَيْهِ:) but more commonly as meaning <i>he animadverted upon it,</i> i. e. a saying, and the like.] ―         -b6-  See also 3, near the middle of the para-  graph. ―         -b7-  تعقّب الاَمْرَ <br>\
+                  <i>He thought repeatedly upon the affair,</i> or <i>case.</i> (TA in art. روا.) ―         -b8-  تعقّب رَاْيَهُ <br>\
+                  <i>He found his opinion to have a good issue,</i> or <i>result.</i> (S, O. [See a somewhat similar signification of 8 and 10, under the former.]) ―         -b9-  See also 1, second sentence. ―         -b10-  [The saying of Aboo-Thumámeh, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَاـِنْ مَنْطِقٌ زَلَّ عَنْ صَاحِبِى<br>\
+                     <L>↓ <br>\
+      تَعَقَّبْتُ ا=خَرَ ذَا مُعْتَقَبْ<br>\
+                  </quote> may be rendered, nearly in accordance with an explanation by Et-Tebreezee, <i>And if a speech slip by mistake from my companion, 1 substitute another having superiority:</i> or تعقّبت may here mean <i>I search out:</i> but see the Ham p. 287; where are some remarks, on this verse, that appear to me to be fanciful and far-fetched.]    </entryFree> <br>\
+<b>يَتَعَاقَبَانِ</b>               1     <br>\
+                     يَتَعَاقَبَانِ<br>\
+                     ذ<br>\
+                   (T, S, O, Msb, TA) <i>They follow each other</i> [<i>by turns</i>]; or <i>alternate;</i> (T, Msb, TA;) <i>one coming and the other going;</i> (TA;) said of the night and the day; (T, Msb;) or as the night and the day; (S, O, TA;) as also ↓ <br>\
+      يَعْتَقِبَانِ. (TA.) You say, تَعَاقَبَ المُسَافِرَانِ <br>\
+                  عَلَى الدَّابَّةِ <br>\
+                  <i>The two travellers rode upon the beast, each of them in his turn.</i> (TA: and the like is said in the Msb.) And تعاقبا عَمَلًا <br>\
+                  <i>They two did a work,</i> or <i>deed, by turns,</i> or <i>alternately:</i> syn. اِرْتَوَحَاهُ, (K and TA in art. روح,) and تَرَاوَحَاهُ (TA in that art.) And تعاقبا <br>\
+                  <i>They helped each other by turns.</i> (TA.) And بِالضَّرْبِ ↓ <br>\
+      يَعْتَقبَانِهِ <br>\
+                  <i>They two ply him by turns with beating</i> (A.) See also 3, near the beginning. التَّعَاقُبُ also signifies <i>The coming to water</i> [<i>by turns,</i> or] <i>time after time.</i> (TA.)    </entryFree> <br>\
+                     اـِعْتَقَبَ<br>\
+                   see 1, former half, in two places: ―         -b2-  and see 3, near the beginning, in two places; and 6, also in two places. ―         -b3-  [اعتقبهُ signifies also <i>He took it,</i> or <i>had it, subsequently.</i> Thus one of the meanings of العُقْبَةُ is expl. in the A and TA by the words مَا يَعْتَقِبُونَهُ بَعْدَ الطَّعَامِ مِنَ الحَلَاوَةِ i. e. <i>What they have,</i> or <i>take, after</i> the main portion of <i>the meal,</i> consisting <i>of sweetmeat.</i> ―         -b4-  And <i>He had it,</i> or <i>experienced it, as a consequence</i> of an act &amp;amp;c.: and that it may have ↓ <br>\
+      مُعْتَقَبُ for an inf. n. in this sense (as well as in other senses agreeably with analogy) seems to be meant by its being said (in the Ham p. 287) that المُعْتَقَبُ signifies اَخْذُ عُقْبَةِ الشَّىْءِ i. e. ا=خِرِهِ. See also a somewhat similar signification of 5.] One says, فَعَلْتُ كَذَا فَاْعْتَقَبْتُ مِنْهُ نَدَامَةً i. e. [<i>I did such a thing and</i>] <i>I found,</i> or <i>experienced, in consequence thereof repentance;</i> (S, O;) as also ↓ <br>\
+      اِسْتَعْقَبْتُ. (A, O.) And مِنْ كَذَا خَيْرًا ↓ <br>\
+      استعقب <br>\
+                  <i>He found,</i> or <i>experienced, in consequence of such a thing,</i> or <i>after such a thing, good.</i> (T, Msb.) And hence, perhaps, the saying of the lawyers, يَصِحُّ الشِّرَا=ءُ <br>\
+                  عِتْقًا ↓ <br>\
+      اـِذَا اْسْتَعْقَبَ [as meaning <i>The sale,</i> or <i>purchase, is valid when it has emancipation as an after-event</i>]: but this does not agree with the former phrase unless by a far-fetched interpretation; and therefore one should say, اـِذَا عَقَبَهُ العِتْقُ i. e. <i>when emancipation follows it.</i> (Msb.) ―         -b5-  اعتقب also signifies <i>He withheld,</i> or <i>detained,</i> a thing <i>in his possession.</i> (TA.) And [particularly] <i>He</i> (a seller) <i>withheld,</i> or <i>detained,</i> an article of merchandise <i>from the purchaser until he should receive the price:</i> (S, A, O, K:) for the doing of which he is said in a trad. to be responsible; meaning, if it perish in his keeping. (S, A, O.) And <i>He detained, confined,</i> or <i>imprisoned,</i> a man. (S, O.) ―         -b6-  See also 5.    </entryFree> <br>\
+                     اـِسْتَعْقَبَ<br>\
+                   see the next preceding paragraph, in three places: ―         -b2-  and see also 1, latter half: ―         -b3-  and 5. ―         -b4-  [Accord. to Reiske, as mentioned by Freytag, استعقبهُ signifies also <i>He followed his footsteps.</i>]    </entryFree> <br>\
+<b>عَقْبٌ</b>               1     <br>\
+                     عَقْبٌ<br>\
+                     ذ<br>\
+                  : see عَقِبٌ, in eight places.    </entryFree> <br>\
+<b>عُقْبٌ</b>               1     <br>\
+                     عُقْبٌ<br>\
+                     ذ<br>\
+                  : see عَقِبٌ, in seven places.    </entryFree> <br>\
+<b>عَقَبٌ</b>               1     <br>\
+                     عَقَبٌ<br>\
+                     ذ<br>\
+                   The عَصَب [meaning <i>sinews,</i> or <i>tendons,</i>] <i>of which</i> <br>\
+                  اَوْتَار [i. e. <i>strings for bows or the like</i>] <i>are made:</i> (S, O, K: [see also 1, last quarter:]) n. un. with 3: (S, O:) or <i>such as are white of the</i> <br>\
+                  اَطْنَاب <br>\
+                  <i>of the joints;</i> (Mgh, Msb; [see عَصَبٌ;]) the عَصَب being such as are yellow: (Mgh and Msb in art. عصب:) accord. to IAth, the عَصَب [or <i>sinews,</i> or <i>tendons,</i>] <i>of the two portions of flesh next the back-bone on either side, and of the</i> <br>\
+                  سَاقَانِ and وَظِيفَانِ [meaning the <i>hind and fore shanks</i>], <i>that are intermingled with the flesh, of any animal; the half of one whereof, divided lengthwise from the other half, is extended,</i> or <i>drown out, and trimmed, and cleansed of the flesh, and the</i> <br>\
+                  وَتَر [or <i>string for the bow or the like</i>] <i>is made thereof; and they are sometimes in the two sides of the camel; but</i> [<i>properly speaking</i>] <i>there is a difference between the</i> <br>\
+                  عَصَب <br>\
+                  <i>and the</i> <br>\
+                  عقَب; <i>the former being such as incline to yellow, whereas the latter incline to white, and are the harder, and firmer,</i> or <i>stronger, of the two:</i> AHn says, on the authority of Aboo-Ziyád, that the عَقَب are [the <i>sinews,</i> or <i>tendons,</i>] <i>of the two portions of flesh next the back-bone on either side, of the sheep or goat, and of the camel, and of the ox or cow,</i>(TA.) [See also عِلْبَا=ءٌ.]    </entryFree> <br>\
+<b>عَقِبٌ</b>               1     <br>\
+                     عَقِبٌ<br>\
+                     ذ<br>\
+                   (S, Mgh, O, Msb, K, &amp;amp;c.) and ↓ <br>\
+      عَقْبٌ, (Msb, TA,) the latter being a contraction of the former, (Msb,) [The <i>heel</i> of a human being;] the <i>hinder part of the foot</i> of a human being: (S, Mgh, O, Msb, K:) of the fem. gender: (S, O, Msb:) pl. [of pauc.] اَعْقُبٌ (TA) and [of mult. as well as of pauc.] اَعْقَابٌ: (Msb, TA:) and ↓ <br>\
+      عَقِيبٌ is said to signify the same; but MF cites an assertion that this is a word of a bad dialect. (TA.) وَيْلٌ لِلْاَعْقَابِ مِنَ النَّارِ [<i>Wo to the heels from the fire</i> of Hell], (O, Msb, TA,) and ويل لِلْعَقِبِ من النّار [<i>Who to the heel</i> &amp;amp;c.], (TA,) occurring in a trad., means wo to him who neglects the washing of the heels in the ablution preparatory to prayer. (O, * Msb, TA. *) عَقِبُ <br>\
+                  الشَّيْطَانِ, (O, Msb, TA,) or, as some say, ↓ <br>\
+      عُقْبَةُ <br>\
+                  الشيطان, (Msb, TA,) with damm, (TA,) which is forbidden in prayer, is expl. as meaning <i>The placing the buttocks upon the heels between the two prostrations;</i> which is what some term الاـِقْعَا=ءُ: (Mgh, * O, Msb, TA:) so says A&#39;Obeyd: (Msb:) or, accord. to some, this means <i>the leaving the heels unwashed in the ablution preparatory to prayer.</i> (O.) وَطِيَ النَّاسُ عَقِبَ فُلَانٍ [lit. <i>The people trod upon the heel of such a one</i>] means <i>the people walked after,</i> or <i>near after, such a one:</i> and in like manner, هُوَ مُوَطَّاُ العَقِبِ [lit. <i>He is one whose heel is trodden upon</i>]: (O, TA; *) because of his having command over people, and their being submissive to him: (O:) the latter phrase means <i>he is one who has many followers:</i> (A, TA: [see also art. وطا:]) جَا=ءَ زَيْدٌ يَطَاُ عَقِبَ <br>\
+                  عَمْرٍو primarily signifies <i>Zeyd came putting his foot in the place of the foot</i> [or <i>heel</i>] <i>of &#39;Amr every time that the latter raised his foot.</i> (Msb.) And one says, مِنْ اَيْنَ عَقِبُكَ, (A, O,) or مِنْ اَيْنَ <br>\
+                  كَانَ عَقِبُكَ, (TA,) meaning <i>Whence camest thou?</i> or <i>Whence hast thou come?</i> (A, O, TA.) And رَجَعَ فُلَانٌ عَلَى عَقِبِهِ <br>\
+                  <i>Such a one returned by the way of his heel;</i> i. e., <i>by the way that was behind him,</i> and <i>whence he had come; quickly.</i> (Msb.) And وَلَّى عَلَى عَقِبِهِ, and عَلَى عَقِبَيْهِ, <i>He turned back,</i> or <i>receded, from a thing to which he had betaken himself.</i> (TA.) لَا تَرُدَّهُمْ عَلَى اَعْقَابِهِمْ, occurring in a trad., means <i>Turn not thou them back to their former condition</i> of not emigrating [for the sake of religion]: and مَا زَالُوا مُرْتَدِّينَ <br>\
+                  عَلَى اَعْقَابِهِمْ, in another trad., means <i>They ceased not to return to infidelity:</i> as though they went back wards. (TA.) ―         -b2-  The عَقِب of the نَعْل [or sandal] is The <i>part</i> [or <i>wide strap</i>] <i>that embraces the heel.</i> (AO, in an anom. MS. in my possession.) ―         -b3-  [And عَقِبُ البَابِ means <i>The pivot</i> (generally of wood) <i>at the bottom of the door, turning in a socket in the threshold.</i>] ―         -b4-  And عَقِبٌ and ↓ <br>\
+      عَقْبٌ (TA) and ↓ <br>\
+      عُقُبٌ and ↓ <br>\
+      عُقْبٌ (S, O, Msb, K, TA) and ↓ <br>\
+      عُقْبَى and ↓ <br>\
+      عُقْبَةٌ and ↓ <br>\
+      عُقْبَانٌ and ↓ <br>\
+      عِقْبَانٌ and ↓ <br>\
+      عَاقِبٌ (TA) are <i>syn. with</i> ↓ <br>\
+      عَاقِبَةٌ, (S, O, Msb, K, TA,) which signifies, (S, O, Msb, K,) i. e. as signifying, (TA,) The <i>end;</i> or the <i>last,</i> or <i>latter, part</i> or <i>state;</i> [but generally as explanatory of this last word, and often as explanatory of عُقُبٌ and عُقْبٌ and عُقْبَى, as meaning the <i>consequence,</i> or <i>result,</i> or <i>issue;</i>] of anything: (S, O, Msb, K, TA:) [and the same words, app. with the exception of عُقْبَى and عَاقِبَةٌ, signify also <i>a time,</i> or <i>state, of subsequence:</i>] the pl. [of the first four words is اَعْقَابٌ, and] of the last عَوَاقِبُ. (TA.) Hence, (S,) it is said in the Kur [xviii. 42], ↓ <br>\
+      هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقُبًا [or ↓ <br>\
+      عُقْبًا or ↓ <br>\
+      عُقْبَى, accord. to different readings, i. e. <i>He is the best in respect of recompense,</i> or <i>reward, and the best in respect of consequence,</i> or <i>result,</i> or <i>issue;</i> i. e., the consequence of the actions &amp;amp;c. of believers]. (S, O.) And in the same [xci. last verse], ↓ <br>\
+      وَلَا يَخَافُ عُقْبَاهَا i. e. <i>And He feareth not the consequence thereof.</i> (Th, TA.) And they said, لَكَ فِى الخَيْرِ ↓ <br>\
+      العُقْبَى meaning العَاقِبَةُ [i. e.   <br>\
+                  <i>May the end to thee be in that which is good;</i> or <i>may thy case end in good</i>]. (TA.) And it is said in a trad., سَافَرَ فِى عَقِبِ رَمَضَانَ, (T, O, Msb,) meaning <i>He journeyed in the end,</i> or <i>the last,</i> or <i>latter, part, of Ramadán:</i> (T, Msb:) or, <i>when Ramadán had almost ended.</i> (O.) One says, جِيْتُ فِى عَقِبِ رَمَضَانَ, (ISk, S, O, * Msb, *) with kesr to the ق, (ISk, S,) meaning [<i>I came</i>] <i>when there was somewhat remaining of Ramadán.</i> (ISk, S, O, * Msb.) And جِيْتُكَ فِى عَقِبِ الشَّهْرِ, and ↓ <br>\
+      فى عَقْبِهِ, and عَلَى عَقِبِهِ, <i>I came to thee in the latter part of the month, when ten days of it,</i> or <i>less, remained.</i> (L.) هُوَ فِى عَقِبِ المَرَضِ <br>\
+                  <i>He is in the state of convalescence in which somewhat remains of the disease:</i> (Msb:) and فِى اَعْقَابِ <br>\
+                  المَرَضِ <br>\
+                  <i>in the</i> [<i>state in which there are some</i>] <i>remains of the disease.</i> (TA.) One says also, جَا=ءَ <br>\
+                  فِى عَقِبِهِ and ↓ <br>\
+      عَقْبِهِ, meaning <i>He came after him;</i> or <i>near after him;</i> [as though <i>at his heel;</i> and hence, properly, <i>close after him;</i>] and جَا=ءَ عَقِبَهُ; from the phrase جَا=ءَ زَيْدٌ يَطَاُ عَقِبَ عَمْرٍو, meaning as expl. above. (Msb.) And بَنُو فُلَانٍ سَقْىُ اـِبِلِهِمْ <br>\
+                  عَقِبَ بَنِى فُلَانٍ i. e. [<i>The sons of such a one, the watering of their camels is</i>] <i>after</i> [<i>that of</i>] <i>the sons of such a one;</i> a saying mentioned by ISk. (Msb.) And صَلَّيْنَا اَعْقَابَ الفَرِيضَةِ تَطَوُّعًا i. e. [<i>We performed prayer</i>] <i>after the obligatory</i> [<i>by way of supererogation</i>]. (Lh, IF, Msb, TA.) And جِيْتُ فِى عَقِبِ الشَّهْرِ i. e. <i>I came after the month had passed.</i> (El-Fárábee, Msb.) And خَلَفَ <br>\
+                  فُلَانٌ بعَقِبِى <br>\
+                  <i>Such a one remained,</i> or <i>stayed, after me.</i> (Msb.) Er-Rázee says, in the Mukhtár es- Siháh, that he had found no authority in the T nor in the S for the phrase جَا=ءَ فُلَانٌ عقبَ فُلَانٍ [app. عَقِبَ], meaning <i>Such a one came after such a one,</i> except a similar saying of ISk, cited by Az, in which عقبَ is expl. as signifying <i>after.</i> (TA.) [But if the word in question be عَقِبَ, sufficient authorities for its use in this sense have been cited above: though it seems from what here follows that عُقُبَ or عُقْبَ in this sense is preferable.] One says, شَهْرِ ↓ <br>\
+      جِيْتُ فِى عُقْبِ <br>\
+                  رَمَضَانَ, (S,) or ↓ <br>\
+      عُقُبِهِ, (O,) and ↓ <br>\
+      عَلَى عُقْبِهِ and ↓ <br>\
+      عُقُبِهِ, (L,) and ↓ <br>\
+      فِى عُقْبَانِهِ, (S, O,) meaning <i>I came when the whole of the month of Rama- dán had passed:</i> (S, O, L:) and ↓ <br>\
+      جِيْتُكَ عُقْبَ <br>\
+                  رَمَضَانَ <br>\
+                  <i>I came to thee at the end of Ramadán:</i> and مَمَرِّهِ ↓ <br>\
+      جِيْتُ فُلَانًا عَلَى عُقْبِ and ↓ <br>\
+      عُقُبِهِ and عَقِبِهِ and ↓ <br>\
+      عُقْبَانِهِ <br>\
+                  <i>I came to such a one after he had gone:</i> and ذَاكَ ↓ <br>\
+      اَتَيْتُكَ عَلَى عُقُبِ and عَقِبَ <br>\
+                  ذاك and ذاك ↓ <br>\
+      عَقْبِ and ذاك ↓ <br>\
+      عُقْبَانِ <br>\
+                  <i>I came to thee after that:</i> and قُدُومِهِ ↓ <br>\
+      جِيْتُهُ عُقْبَ <br>\
+                  <i>I came to him after his arrival.</i> (Lh, TA.) One says also, ا=لِ فُلَانٍ ↓ <br>\
+      فُلَانٌ يَسْتَقِى عَلَى عُقْبَةِ <br>\
+                  <i>Such a one draws water after the family of such a one.</i> (TA.) And MF mentions ↓ <br>\
+      جِيْتُكَ عَلَى عَاقِبِهِ [app. meaning <i>I came to thee after him,</i> or <i>it</i>]: and Aboo-Mis-hal mentions [app. in this sense] ↓ <br>\
+      عِقْبَانِهِ, with kesr. (TA.) ―         -b5-  عَقِبٌ (S, A, Mgh, O, Msb, K) and ↓ <br>\
+      عَقْبٌ (S, O, Msb, K) also signify The <i>child,</i> or <i>children,</i> (S, A, O, Msb, K,) of a man; (S, O;) as also ↓ <br>\
+      عَاقِبَةٌ: (S, O, K:) and the <i>child,</i> or <i>children, of the child</i> or <i>children,</i> (S, A, O, Msb, K,) of a man: (S, O:) applied to <i>such as remain after the father:</i> (TA:) or a man&#39;s <i>offspring;</i> (Mgh;) and so ↓ <br>\
+      عَاقِبَةٌ: (Msb:) or his <i>male children:</i> and, accord. to some of the lawyers, the <i>children of the daughters</i> [of a man, also]: (Mgh:) of the fem. gender, on the authority of Akh: (S, O:) pl. اَعْقَابٌ. (TA.) The Arabs say, لَا عَقِبَ لَهُ, meaning <i>There is,</i> or <i>are, no male offspring remaining to him:</i> (TA:) and ↓ <br>\
+      لَيْسَتْ لِفُلَانٍ عَاقِبَةٌ <br>\
+                  <i>There is,</i> or <i>are, to such a one, no</i> [<i>remaining</i>] <i>child,</i> or <i>children.</i> (S, O, Msb.) ―         -b6-  شَىْءٍ ↓ <br>\
+      عَقْبُ [or عَقِبُ شَىْءٍ] signifies <i>A thing,</i> whatever it be, <i>that follows, succeeds, comes after,</i> or <i>takes the place of, a thing;</i> as the water of a well, and the blowing of the wind, and the flying of the sand-grouse (القَطَا), and the running of a horse. (TA. [See also عَاقِبٌ.]) ―         -b7-  And عَقِبٌ, (IAar, IF, A, Msb,) or ↓ <br>\
+      عَقْبٌ, (S, K,) or, as As says, each of these, some of the Arabs using the latter form, by way of contraction, (Msb,) <i>A run after another run,</i> (As, IF, S, Msb, K,) of a horse: (As, IF, S, Msb:) or the <i>last,</i> or <i>latter, run,</i> of a horse: (IAar, Msb:) or one says of a courser, هُوَ ذُوْ عَفْوٍ وَعَقِبٍ meaning <i>He has a first run, and a subsequent, and more vehement, run:</i> (A:) and ↓ <br>\
+      عِقَابٌ is said in the L to have the first of these meanings: (TA:) or it is pl. of عَقْبٌ [or عَقِبٌ] as having that meaning: (Ham p. 358:) an ex. of it occurs in the following verse, (Ham, TA,) cited by IAar: (TA:) <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        يَمْلَاُ عَيْنَيْكَ بِالفِنَا=ءِ وَيُرْ<br>\
+                     <L><br>\
+                        ضِيكَ عِقَابًا اـِنْ شِيْتَ اَوْ نَزَقَا<br>\
+                  </quote> [<i>That would satisfy thine eye by his beauty, in the area before the dwelling, and content thee by run after run,</i> or <i>by runs after runs, if thou wilt,</i> or <i>by lightness,</i> or <i>agility</i>]: (Ham, TA:) [or it may be here an inf. n., (of 3,) meaning <i>on an occasion of being required to perform run after run:</i> (see 3, last sentence:)] or, accord. to IAar, the meaning in this instance is, <i>by his owner&#39;s making, upon him, warring,</i> or <i>warring and plundering, expeditions time after time:</i> (TA:) accord. to Kh, لَهُ عِقَابٌ, said of a horse, means <i>he has a recovering of strength</i> (جمام [i. e. جَمَامٌ]) <i>after ceasing to run.</i> (Ham ubi suprà.) ―         -b8-  Hence, <i>A reply:</i> so in the saying, relating to him who stops, or breaks off, in speech, لَوْ كَانَ لَهُ عَقِبٌ لَتَكَلَّمَ [<i>If he had a reply, assuredly he would have spoken</i>]. (A, TA.) ―         -b9-  See also عِقْبَةٌ.    </entryFree> <br>\
+<b>عُقُبٌ</b>               1     <br>\
+                     عُقُبٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, in six places.    </entryFree> <br>\
+<b>عَقْبَةُ القَمَر</b>               1     <br>\
+                     عَقْبَةُ القَمَر<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  عِقْبَةُ القَمَرِ, q. v. (L.)       -A2-  And عَقْبَةٌ and ↓ <br>\
+      عِقْبَةٌ signify <i>Variegated,</i> or <i>figured, cloth:</i> (TA:) or <i>one of the sorts of variegated,</i> or <i>figured, cloths</i> [<i>that serve for the covering</i>] <i>of the</i> [<i>women&#39;s camel-vehicle called</i>] هَوْدَج: (O, K, TA:) as also عَقْمَةٌ: (O, TA:) accord. to Yaakoob, the ب is a substitute for م. (TA.)    </entryFree> <br>\
+<b>عُقْبَةٌ</b>               1     <br>\
+                     عُقْبَةٌ<br>\
+                     ذ<br>\
+                  : see عَقِبٌ, in three places. ―         -b2-  Also The <i>last that remains:</i> so in the saying, فُلَانٌ عُقْبَةُ <br>\
+                  بَنِى فُلَانٍ [<i>Such a one is the last that remains of the sons of such a one</i>]. (L.) ―         -b3-  And <i>A turn;</i> or <i>time at which,</i> or <i>during which, anything is,</i> or <i>is to be, done,</i> or <i>had, in succession:</i> (S, Mgh, O, Msb, K:) pl. عُقَبٌ. (Msb.) One says, تَمَّتْ <br>\
+                  عُقْبَتُكَ <br>\
+                  <i>Thy turn is completed.</i> (S, O.) And دَارَتْ <br>\
+                  عُقْبَةُ فُلَانٍ <br>\
+                  <i>The turn of such a one came round.</i> (TA.) And رَكِبَ عُقْبَةً <br>\
+                  <i>He rode one turn:</i> and رَكِبَ عُقْبَتَهُ <br>\
+                  <i>He rode his turn,</i> or <i>in his turn.</i> (TA.) And it is said in a trad., مَنْ مَشَى عَنْ <br>\
+                  دَابَّتِةِ عُقْبَةً فَلَهُ كَذَا <br>\
+                  <i>Whoso walks a turn to a certain point, instead of his beast, to him shall be given such a thing.</i> (TA.) عُقْبَةُ الاجِيرِ means <i>The hired-man&#39;s turn to ride; when the hirer dismounts,</i> for example in the morning, <i>and he</i> (<i>the former</i>) <i>rides.</i> (Mgh.) And [the pl.] عُقَبٌ means [particularly] The <i>turns of camels, when they are being watered:</i> the watering of a number of camels together after another number is termed their عُقْبَة. (TA.) [See also عُقْبَى.] ―         -b4-  And [it is said that] it means also <i>Camels which a man pastures and waters in his turn;</i> and IAar cites as an ex. <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اـِنَّ عَلَىَّ عُقْبَةً اَقْضِيهَا<br>\
+                     <L><br>\
+                        لَسْتُ بِنَاسِيهَا وَلَا مُنْسِيهَا<br>\
+                  </quote> [but this I would rather render, <i>Verily I have incumbent on me a turn</i> to pasture and water camels; <i>and I perform it; I am not a neglecter thereof nor a delayer of it</i>]; meaning I drive the camels which I pasture and water in my turn, and I tend them well: مُنْسِيهَا is for مُنْسِيِهَا, for the sake of the rhyme. (TA.) ―         -b5-  Also The <i>place in which one mounts a beast to ride</i> [app. <i>in his turn</i>]. (TA.) ―         -b6-  And The <i>distance,</i> or <i>space, of two leagues;</i> i. e. <i>twice the distance termed</i> <br>\
+                  فَرْسَخ: and the <i>distance to which one journeys</i> [app. <i>from one halting-place to the next;</i> i. e. <i>a stage of a journey</i>]: pl. as above: a poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        خَوْدًا ضِنَاكًا لَا تَسِيرُ العُقَبَا<br>\
+                  </quote> [<i>Soft,</i> or <i>tender, heavy in the hinder part, that will not perform men&#39;s marches</i>]; meaning that she will not [or cannot] journey with men, because she will not endure the doing so on account of her soft and delicate life. (TA.) ―         -b7-  And The <i>distance,</i> or <i>space, between the ascending and descending</i> of a bird. (S, O, K.) ―         -b8-  And The <i>night</i> and the <i>day;</i> because they follow each other. (K.) ―         -b9-  And <i>A substitute;</i> or <i>thing that is given,</i> or <i>taken, in exchange for another thing;</i> (S, O, L, K;) as also ↓ <br>\
+      عُقْبَى. (L, TA.) One says, اَخَذْتُ مِنْ اَسِيرِى عُقْبَةً <br>\
+                  <i>I took,</i> or <i>received, for my captive, a substitute,</i> or <i>something in exchange.</i> (S, O.) And ↓ <br>\
+      سَاُعْطِيكَ مِنْهَا عُقْبَى occurs in a trad., meaning <i>I will give thee something in exchange</i> [<i>for her,</i> i. e.] for sparing her life,  and liberating her. (L, TA.) ―         -b10-  And <i>Pasture,</i> or <i>food,</i> of an ostrich, <i>that is eaten after other pasture</i> or <i>food:</i> [and likewise of camels: and of men:] pl. as above. (AA, S, O.) One says of camels, رَعَتْ عُقْبَتَهَا i. e. <i>They pastured upon the</i> [<i>kind of plants termed</i>] حَمْض <br>\
+                  <i>after the</i> [<i>kind termed</i>] خُلَّة; (A, L;) or <i>upon the</i> <br>\
+                  خُلَّة <br>\
+                  <i>after the</i> <br>\
+                  حَمْض: (L:) and of men one says, اَكَلُوا عُقْبَتَهُمْ <br>\
+                  <i>They ate their repast of sweetmeat after the other food.</i> (A, TA. [See 8, near the beginning.]) ―         -b11-  And The <i>remains of the contents</i> of a cooking-pot, <i>adhering to the bottom.</i> (TA.) And <i>Somewhat of broth which the borrower of a cooking-pot returns when he returns the pot.</i> (S, O, K.) ―         -b12-  [Hence,] اُمُّ عُقْبَةَ is an appellation of <i>The cooking-pot.</i> (T in art. ام.) اَبْو عُقْبَةَ is a surname of <i>The hog.</i> (Har p. 663. [But the origin of this I know not.]) ―         -b13-  One says also, لَقِيتُ مِنْهُ <br>\
+                  عُقْبَةَ الصُّنْعِ, meaning <i>I experienced from him,</i> or <i>it, difficulty:</i> [as though lit. signifying, <i>the result of the deed</i> that I had done:] and [simply] لَقِىَ مِنْهُ عُقْبَةً <br>\
+                  <i>He experienced from him,</i> or <i>it, difficulty.</i> (TA. [But in a copy of the A, and in my opinion correctly, the last word in this phrase is written ↓ <br>\
+      عَقَبَةً: see عَقَبَةٌ, below.]) ―         -b14-  And كُنْتُ مَرَّةً نُشْبَة وَاَنَا اليَوْمَ عُقْبَة, expl. by IAar as meaning <i>I was such that, when I clung to a man, he experienced evil from me; but now I have reverted from being such, through weakness.</i> (TA. [It is a prov., somewhat differently related in art. نشب, q. v.]) ―         -b15-  See also the next paragraph, in four places.    </entryFree> <br>\
+<b>عِقْبَةٌ</b>               1     <br>\
+                     عِقْبَةٌ<br>\
+                     ذ<br>\
+                   (Lh, S, O, K) and ↓ <br>\
+      عُقْبَةٌ, (Lh, O, K,) but the former is the more approved, (Lh, TA,) and عقب, (so in the TA, [app., if not a mistranscription, ↓ <br>\
+      عَقِبٌ,]) <i>A mark, sign, trace, impress, characteristic,</i> or <i>outward indication.</i> (Lh, S, O, K.) One says, عَلَيْهِ عِقْبَةُ السَّرْوِ, (S, O,) and ↓ <br>\
+      عُقْبَتُهُ, (O,) and الجَمَالِ, (S, O,) i. e. <i>Upon him is the mark</i> &amp;amp;c. [<i>of generosity and manliness,</i> and <i>of beauty</i>]. (S, O, K.) ―         -b2-  عِقْبَةُ القَمَرِ and ↓ <br>\
+      عَقْبَةُ <br>\
+                  القمر mean <i>The return of the moon, when it has set,</i> or <i>disappeared, and then risen:</i> (L:) [or <i>the return of the moon after the change;</i> for] one says, مَا يَفْعَلُ ذٰلِكَ اـِلَّا عِقْبَةَ القَمَرِ, (S,) or ↓ <br>\
+      عُقْبَةَ <br>\
+                  القمر, (so in the O,) meaning <i>He does not that save once in each month:</i> (S, O:) but, accord. to IAar, القَمَرِ ↓ <br>\
+      عُقْبَةُ, with damm, is <i>a certain star,</i> or <i>asterism, which is in conjunction with the moon once in the year;</i> and عُقْبَةَ القَمَرِ means <i>once in the year:</i> so in the following verse, of one of the Benoo-&#39;Ámir: <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        لَا يُطْعِمُ المِسْكَ وَالكَافُورَ لِمَّتَهُ<br>\
+                     <L><br>\
+                        وَلَا الذَّرِيرَةَ اـِلَّا عُقْبَةَ القَمَرِ<br>\
+                  </quote> [<i>He will not apply to his hair that descends below the ear musk and camphor, nor the perfume called</i> <br>\
+                  ذريرة, <i>save once in the year</i>]: or, as Lh relates it, عِقْبَةَ القمر: thus in the L; in which it is added that this saying of IAar requires consideration, because the moon cuts [a meridian of] the celestial sphere once in every month: but MF replies that it may be in conjunction with the said star only once in the year, as the moon&#39;s path varies in each successive month. (TA. [See also عَقْمَةٌ.])       -A2-  See also عَقْبَةٌ.    </entryFree> <br>\
+<b>عَقَبَةٌ</b>               1     <br>\
+                     عَقَبَةٌ<br>\
+                     ذ<br>\
+                   [<i>A mountain-road;</i>] <i>a road in</i> [or <i>upon</i>] <i>a mountain:</i> (Bd in xc. 11:) or <i>a road in the upper part of a mountain:</i> (Ham p. 287:) or <i>a difficult place of ascent of the mountains:</i> (K:) or it is <i>in a mountain</i> and <i>the like thereof:</i> (Msb:) or [it sometimes signifies] <i>a long mountain that lies across the way, and over which the way therefore leads; long,</i> or <i>high, and very difficult; so called, too, when it is further impassable after it is ascended; rising high towards the sky, ascending and descending; most difficult of ascent; but sometimes its height is one</i> [or <i>uniform</i>]; <i>and its acclivity is in appearance like a wall:</i> (TA:) [generally it means <i>a road over,</i> or <i>up,</i> or <i>down,</i> or <i>over some part of, a mountain:</i>] pl. عِقَابٌ. (S, O, Msb, K.) اِقْتَحَمَ العَقَبَةَ [properly signifying <i>He attempted the mountain-road</i>] is metaphorically used as meaning <i>He entered upon a hard,</i> or <i>difficult, affair.</i> (Bd in xc. 11.) See also عُقْبَةٌ, near the end. ―         -b2-  It is also n. un. of عَقَبٌ [q. v.]. (S, O.)    </entryFree> <br>\
+<b>عُقْبَى</b>               1     <br>\
+                     عُقْبَى<br>\
+                     ذ<br>\
+                  : see عَقِبٌ, second quarter, in four places. ―         -b2-  It occurs in a trad. respecting the prayer of fear; in which it is said of that prayer, كَانَتْ <br>\
+                  عُقْبَى [<i>It was an affair of turns</i>]; meaning that it was performed by one company after another; several companies performing it successively, by turns. (TA. [Compare عُقْبَةٌ as expl. in the third sentence of the paragraph on that word.]) ―         -b3-  Also <i>i. q.</i> <br>\
+                  مرجع [app. مَرْجِعٌ i. e. <i>A returning,</i> &amp;amp;c.]. (TA.) ―         -b4-  And The <i>requital,</i> or <i>recompence,</i> of an affair, or action. (S, O, K.) ―         -b5-  See also عُقْبَةٌ, latter half, in two places.    </entryFree> <br>\
+<b>عُقْبِىُّ الكَلَامِ</b>               1     <br>\
+                     عُقْبِىُّ الكَلَامِ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  عُقْمِىُّ الكَلَامِ, [the ب being app. a substitute for م,] i. e. <i>Obscure speech</i> or <i>language, which men do not know.</i> (TA in art. عقم.)    </entryFree> <br>\
+<b>عُقْبَانٌ</b>               1     <br>\
+                     عُقْبَانٌ<br>\
+                     ذ<br>\
+                  : see عَقِبٌ, in four places.    </entryFree> <br>\
+<b>عِقْبَانٌ</b>               1     <br>\
+                     عِقْبَانٌ<br>\
+                     ذ<br>\
+                  : see عَقِبٌ, in two places.    </entryFree> <br>\
+<b>رَجُلٌ عِقِبَّانٌ</b>               1     <br>\
+                     رَجُلٌ عِقِبَّانٌ<br>\
+                     ذ<br>\
+                  <i>A rough, coarse,</i> or <i>rude, man;</i> syn. غَلِيظٌ: pl. عقبان [so in the TA, either عِقْبَانٌ or عُقْبَانٌ]: mentioned by Kr: but Az doubted its correctness. (TA.)    </entryFree> <br>\
+<b>عُقَابٌ</b>               1     <br>\
+                     عُقَابٌ<br>\
+                     ذ<br>\
+                   [The <i>eagle;</i>] <i>a certain bird,</i> (S, O, K,) <i>of those that prey,</i> (Msb,) <i>well known:</i> (K:) of the fem. gender: (S, O, Msb:) [though] applied to the <i>male</i> and the <i>female;</i> but with this distinction, that you say of the male, هٰذَا عُقَابٌ ذَكَرٌ [<i>This is a male eagle</i>]: or it is only <i>female;</i> and a bird of another kind couples with it; whence Ibn-&#39;Oneyn says, satirizing a person named Ibn-Seyyideh, Say thou to Ibn-Seyyideh, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        مَا اَنْتَ اـِلَّا كَاْلْعُقَابِ فَاُمُّهُ<br>\
+                     <L><br>\
+                        مَعْرُوفَةٌ وَلَهُ اَبٌ مَجْهُولُ<br>\
+                  </quote> [“ <i>Thou art not other than the like of the eagle;</i> ” <i>for his mother is known, but he has a father unknown</i>]: (MF, TA:) the pl. (of pauc., S, O) is اَعْقُبٌ, (S, O, K,) because it is of the fem. gender and the measure اَفْعُلٌ specially belongs to pls. of fem. nouns [though not to such exclusively], (S, O,) and اَعْقِبَةٌ, (Kr, TA,) and (of mult., S, O) عِقْبَانٌ (S, O, K) and عَقَايِبُ accord. to AHei, but Ed-Demámeenee thinks this to be strange; and pl. pl. عَقَابِينُ. (TA.) عِقْبَانُ الجِرْذَانِ [<i>The eagles that prey upon the large field-rats</i>] are not black, but of the colour termed كُهْبَة; and no use is made of their feathers, except that boys feather with them round-topped pointless arrows. (AHn, TA.) ―         -b2-  [Hence,] العُقَابُ is the name of (assumed tropical:)  <i>One of the northern constellations,</i> [i. e. <i>Aquila,</i>] <i>the stars of which are nine within the figure, and six without, of the former of which are three well known, called</i> <br>\
+                  النَّسْرُ الطَّايِرُ [q. v.]. (Kzw.) ―         -b3-  [Hence also,] (assumed tropical:)  <i>The</i> <br>\
+                  عُقَاب <br>\
+                  <i>of the banner,</i> or <i>standard;</i> (S, O;) [app. meaning <i>the flag attached to a lance;</i>] <i>what is bound</i> [<i>to a lance</i>] <i>for a prefect,</i> or <i>governor;</i> likened to the bird so called; and of the fem. gender. (L, TA.) It is also the name of (assumed tropical:)  <i>The banner,</i> or <i>standard, of the Prophet.</i> (O, K.) And عُقَابٌ also means (assumed tropical:)  <i>A large banner</i> or <i>standard.</i> (TA.) And (assumed tropical:)  <i>i. q.</i> <br>\
+                  غَايَةٌ: so in the saying of Aboo-Dhu-eyb, describing wine, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        لَهَا غَايَةٌ تَهْدِى الكِرَامَ عُقَابُهَا<br>\
+                  </quote> [meaning <i>It has a banner, which guides the generous;</i> like as the military banner guides and attracts warriors: for غَايَةٌ sometimes signifies a sign which the vintner used to set up to attract customers]: the repetition is approvable because of the difference of the two words in themselves: pl. عِقْبَانٌ. (TA.) ―         -b4-  عُقَابٌ also signifies (assumed tropical:)  <i>A black she-camel;</i> as being likened to the bird. [so called], (AA, O.) ―         -b5-  And <i>A stone</i> (or <i>piece of rock,</i> L) <i>protruding in the inside of a well, which lacerates the</i> [<i>leathern</i>] <i>bucket;</i> (S, O, K, TA;) <i>sometimes it is before</i> [i. e. <i>above</i>] <i>the casing</i> [<i>of stones</i> or <i>bricks</i>]: <i>it is when a mass of stone becomes displaced; and sometimes the water-drawer stands upon it:</i> it is of the fem. gender: pl. as above. (TA.) And The <i>stone upon which the waterer stands,</i> (O, K,) [accord. to SM,] <i>projecting beyond the casing in a well,</i> the same that is meant in the next preceding sentence, (TA,) [but this I think doubtful, for Sgh adds,] <i>between two stones which support it.</i> (O.) Accord. to IAar, the قَبِيلَة is a mass of stone, or rock, at the mouth of a well; and the عُقَابَانِ are [<i>two masses of stone</i>] <i>at the two sides of the</i> <br>\
+                  قبيلة, <i>supporting it.</i> (TA.) And <i>A rock,</i> or <i>mass of stone, projecting in the side of a mountain, like a stair,</i> or <i>series of steps:</i> (S, O, K:) or <i>an ascent, like stairs, in the side of a mountain.</i> (TA.) ―         -b6-  Also <i>A hill;</i> syn. رَابِيَةٌ. (O, K.) And <i>Anything elevated, that is not very long</i> or <i>tall.</i> (O, K. *) ―         -b7-  <i>A channel by which water flows to a trough,</i> or <i>tank.</i> (O, K.) ―         -b8-  <i>A thing resembling an almond, that comes forth in one of the legs of a beast.</i> (O, K.) ―         -b9-  <i>A small thread that enters into</i> [or <i>passes through</i>] <i>the two bores of the ring of the</i> <br>\
+                  قُرْط [or <i>ear-drop</i>], (O, K, *) <i>with which the</i> <br>\
+                  <i>latter is bound,</i> or <i>fastened:</i> (O:) or, accord. to Az, the <i>thread that binds the two extremities of the ring of the</i> <br>\
+                  قُرْط. (TA.) ―         -b10-  Accord. to Th, it signifies also <i>Garments of the kind called</i> <br>\
+                  اَبْرَاد [pl. of بُرْدٌ, q. v.]. (TA voce خُدَارِيَّةٌ.) ―         -b11-  And accord. to Kr, [in the Munjid,] <i>i. q.</i> <br>\
+                  حَرْثٌ [app. meaning <i>A ploughshare</i>]. (TA.) ―         -b12-  See also اَعْقَابٌ. ―         -b13-  And العُقَابَانِ signifies <i>Two pieces of wood between which a man is extended to be flogged:</i> (L, TA:) or <i>two pieces of wood which are set up, stuck in the ground, between which he who is beaten,</i> or <i>he who is</i> [<i>to be</i>] <i>crucified, is extended.</i> (Mgh.)    </entryFree> <br>\
+<b>عِقَابٌ</b>               1     <br>\
+                     عِقَابٌ<br>\
+                     ذ<br>\
+                  : see عَقِبٌ, last quarter.       -A2-  It is also pl. of عَقَبَةٌ [q. v.]. (S, &amp;amp;c.)       -A3-  See also اَعْقَابٌ.    </entryFree> <br>\
+<b>عَقُوبٌ</b>               1     <br>\
+                     عَقُوبٌ<br>\
+                     ذ<br>\
+                  : see عَاقِبٌ, near the end.    </entryFree> <br>\
+<b>عَقِيبٌ</b>               1     <br>\
+                     عَقِيبٌ<br>\
+                     ذ<br>\
+                  <i>Anything that is a sequent,</i> of, or to, another thing; [<i>in an absolute sense,</i>] (S, Msb, TA,) <i>as when you say,</i> <br>\
+                  السَّلَامُ عَقِيبٌ لِلتَّشَهُّدِ [<i>The salutation is a sequent to the</i> <br>\
+                  تشهّد (q. v.)], and العِدَّةُ عَقِيبٌ لِلطَّلَاقِ [<i>The</i> <br>\
+                  عِدَّة (q. v.) <i>is a sequent to divorcement</i>], i. e., one follows the other; (Msb;) and [<i>by alternation,</i>] <i>as when one says of the night and the day,</i> <br>\
+                  كُلُّ وَاحِدٍ مِنْهُمَا عَقِيبُ <br>\
+                  صَاحِبِهِ [<i>Each of them is the alternating sequent of its correlative</i>]: (Az, Msb, TA:) you say of the night and the day, هُمَا عَقِيبَانِ [<i>They are two alternating sequents</i>]; and عَقِيبُكَ signifies <i>He who does a deed,</i> or <i>work, with thee by turn, he doing it one time and thou another:</i> (A, * TA:) and ↓ <br>\
+      مُعَاقِبٌ signifies the same, (S, Msb,) as also [↓ <br>\
+      مُعْقِبٌ and ↓ <br>\
+      مُعْتَقِبٌ and] ↓ <br>\
+      مُعَقِّبٌ. (Msb.) As for the saying of the lawyers, يَفْعَلُ ذٰلِكَ عَقِيبَ <br>\
+                  الصَّلَاةِ [meaning <i>He does that after the prayer</i>], and the like thereof, there is no reason to be given but a suppression; the meaning being, فِى <br>\
+                  وَقْتٍ عَقِيب وَقْتِ الصَّلَاةِ [<i>in a time following that of prayer</i>], عقيب being an epithet qualifying وقت: (Msb:) and Er-Rázee says, in the Mukhtár es- Siháh, that he had found no authority in the T nor in the S for the phrase جَا=ءَ عَقِيبَهُ meaning <i>He came after him.</i> (TA.) See also عَقِبٌ, first sentence. [And compare عَاقِبٌ.]    </entryFree> <br>\
+<b>عُقُوبَةٌ</b>               1     <br>\
+                     عُقُوبَةٌ<br>\
+                     ذ<br>\
+                  <i>Punishment;</i> (S, * MA, Msb, * KL;) <i>i. q.</i> <br>\
+                  نَكَالٌ. (MA.) ―         -b2-  And <i>Detention, confinement,</i> or <i>imprisonment:</i> so in the trad., لَىُّ الوَاجِدِ <br>\
+                  يُحِلُّ عُقُوبَتَهُ وَعَرْضَهُ i. e. [<i>The solvent man&#39;s putting off the payment of his debt with promises repeated time after time renders allowable</i>] <i>the imprisoning of him and the accusing of him.</i> (IAar, TA. [Accord. to one relation, mentioned in the TA in art. عرض, this trad. ends with وَعِرْضَهُ, there said to mean وَنَفْسَهُ.])    </entryFree> <br>\
+<b>عُقَيِّبٌ</b>               1     <br>\
+                     عُقَيِّبٌ<br>\
+                     ذ<br>\
+                  , with teshdeed of the ى, (O,) or عُقَّيْبٌ, like قُبَّيْطٌ, (K,) <i>A certain bird,</i> (O, K,) <i>well known.</i> (O.) [If the name be correctly as in the O, the bird meant is probably <i>an eaglet,</i> or <i>a small species of eagle.</i>]    </entryFree> <br>\
+<b>عُقَابٌ عَقَنْبَاةٌ</b>               1     <br>\
+                     عُقَابٌ عَقَنْبَاةٌ<br>\
+                     ذ<br>\
+                  , and عَبَنْقَاةٌ, and بَعْنَقَاةٌ, (S, O, K,) and قَعْنَبَاةٌ, (O,) and عَبَنْقَا=ءُ, (K in art عبق,) the vars. of the first being formed by transposition, (O,) <i>An</i> <br>\
+                  عُقَاب [or <i>eagle</i>] <i>having sharp talons:</i> (S, O, K:) or <i>having abominable,</i> or <i>hideous, talons:</i> (T, TA:) or <i>quick in seizing, and abominable,</i> or <i>hideous:</i> accord. to IAar, the epithet denotes intensiveness of quality, as in the cases of اَسَدٌ اَسِدٌ and كَلْبٌ كَلِبٌ: accord. to Lth, عَقْنْبَاةٌ applied to an عُقَاب signifies <i>cunning:</i> and the pl. is عَقَنْبَيَاتٌ. (TA.) [See also art. عبق.]    </entryFree> <br>\
+<b>عَاقِبٌ</b>               1     <br>\
+                     عَاقِبٌ<br>\
+                     ذ<br>\
+                   [act. part. n. of عَقَبَ;] <i>Coming after</i> [&amp;amp;c.]. (Msb.) عَاقِبُ شَىْءٍ means <i>Any person</i> [or <i>thing</i>] <i>that comes after,</i> or <i>succeeds,</i> or <i>comes in the place of, a thing.</i> (S, O, TA.) العَاقِبُ is an appellation applied to the Prophet (S, O, Msb) by himself (S, O) because he came after other prophets, (Msb,) meaning <i>The last of the prophets,</i> (S, O.) And عَاقِبٌ لِاْمْرَاَةٍ means <i>One who is the last of the husbands of a woman.</i> (TA.) ―         -b2-  [Hence,] عَاقِبَةٌ مِنْ طَيْرٍ <br>\
+                  <i>Birds succeeding one another, this alighting and flying, and then another alighting in the place where the former alighted.</i> (TA.) And اـِبِلٌ عَاقِبَةٌ <br>\
+                  <i>Camels that betake themselves to plentiful pasture where they feed freely, after eating of the</i> [<i>kind of plants called</i>] حَمْض: [or] they are not so called unless they be <i>camels that, in a severe year, eat of trees, and then of the</i> <br>\
+                  حمض; not when they pasture upon fresh, juicy, or tender, herbage. (IAar, TA.) And اـِبِلٌ عَوَاقِبُ <br>\
+                  <i>Camels that drink water, and then return to the place where they lie down by the water, and then go to the water again.</i> (IAar, S, O, K.) ―         -b3-  And عَاقِبٌ signifies also <i>A successor</i> of another <i>in goodness,</i> or <i>beneficence;</i> and so ↓ <br>\
+      عَقُوبٌ. (O, K.) ―         -b4-  And <i>A chief,</i> or <i>lord:</i> or <i>one who is below the chief</i> or <i>lord:</i> (TA:) or the <i>successor of the chief</i> or <i>lord.</i> (S, K.) ―         -b5-  See also عَقِبٌ, in two places.    </entryFree> <br>\
+<b>عَاقِبَةٌ</b>               1     <br>\
+                     عَاقِبَةٌ<br>\
+                     ذ<br>\
+                   a quasi-inf. n.: see 1, first quarter. ―         -b2-  See also عَقِبٌ, in four places.    </entryFree> <br>\
+<b>اَعْقَابٌ</b>               1     <br>\
+                     اَعْقَابٌ<br>\
+                     ذ<br>\
+                   pl. of عَقِبٌ [q. v.]. (Msb, TA.) ―         -b2-  And [hence] <i>Streaks, one behind another;</i> as streaks of fat so disposed. (TA.) ―         -b3-  And <i>Pottery</i> [or <i>potsherds</i>] <i>put between the bricks in the casing of a well, in order that it may become strong;</i> said by Kr to have no sing.: (TA:) [or,] accord. to IAar, ↓ <br>\
+      عِقَابٌ, i. e. like كِتَابٌ, (TA,) or ↓ <br>\
+      عُقَابٌ, (thus written in the O,) signifies <i>pottery</i> [or <i>potsherds</i>] <i>between the rows,</i> or <i>courses, of bricks,</i> (O, * TA,) <i>in the casing of a well.</i> (O.) [IAar cites an ex., in a verse, in which اعقاب would not be admissible.] And اَعْقَابُ الطَّىِّ signifies <i>What surround the casing of a well;</i> i. e. <i>what are behind it.</i> (TA. [See 4, latter half.])    </entryFree> <br>\
+<b>تَعْقِيبَةٌ</b>               1[     <br>\
+                     تَعْقِيبَةٌ<br>\
+                     ذ<br>\
+                   a modern word signifying <i>A catchword at the bottom of a page:</i> pl. تَعَاقِيبُ.]    </entryFree> <br>\
+<b>مُعْقَبٌ</b>               1     <br>\
+                     مُعْقَبٌ<br>\
+                     ذ<br>\
+                   [appears, from what here follows, to be used for مُعْقَبٌ حَالُهُ i. e. One <i>whose state is changed</i>]. IAar cites as an ex. of this word, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كُلُّ حَىٍّ مُعْقَبٌ عُقَبَا<br>\
+                  </quote> meaning [<i>Every living being</i>] <i>comes to a state different from that in which he was</i> [<i>by turns,</i> or <i>time after time</i>]. (TA.)    </entryFree> <br>\
+<b>مُعْقِبٌ</b>               1     <br>\
+                     مُعْقِبٌ<br>\
+                     ذ<br>\
+                   [accord. to the O, مِعْقَبٌ, but this I think a mistranscription,] <i>A star that succeeds,</i> i. e. <i>rises after, another star,</i> (S, K, TA,) <i>and on the rising of which, he who rides in his turn, after another, mounts the beast:</i> (TA:) <i>a star at the appearance of which two persons who ride by turns during a journey take each the other&#39;s place; when one star sets and another rises, he who was walking mounts the beast.</i> (AO.) See عَقِيبٌ.       -A2-  See also 4, latter half; where an ex. occurs in a verse.    </entryFree> <br>\
+<b>مِعْقَبٌ</b>               1     <br>\
+                     مِعْقَبٌ<br>\
+                     ذ<br>\
+                   He <i>who is brought up for the office of Khaleefeh after the</i> [<i>actual</i>] <i>Imám</i> [or <i>Khaleefeh</i>]. (O, K.) ―         -b2-  And <i>A skilful driver.</i> (O, K.) ―         -b3-  And A camel <i>that is ridden by different persons in turns.</i> (O, * TA.) ―         -b4-  And <i>A woman&#39;s</i> <br>\
+                  خِمَار [i. e. <i>muffler,</i> or <i>head-covering</i>]; (IAar, O, * K, TA;) so called because it takes the place of the مُلَا=ءَة. (O, TA.) ―         -b5-  And <i>An ear-drop;</i> syn. قُرْطٌ. (O, K.)    </entryFree> <br>\
+<b>مُعَقَّبٌ</b>               1     <br>\
+                     مُعَقَّبٌ<br>\
+                     ذ<br>\
+                   One <i>who is made to go forth,</i> (so in the CK,) or <i>who goes forth,</i> (O, and so in my MS. copy of the K,) <i>from the shop of the vintner when a greater man than he enters.</i> (O, K.) ―         -b2-  جَا=ءَ <br>\
+                  مُعَقَّبًا <br>\
+                  <i>He came at the end,</i> or <i>close, of the day.</i> (TA.) ―         -b3-  قِدْحٌ مُعَقَّبٌ <br>\
+                  <i>An arrow which</i> [<i>in the game called</i> <br>\
+                  المَيْسِر] <i>is returned into the</i> <br>\
+                  رِبَابَة [q. v.] <i>time after time;</i> the prize allotted to which is hoped for. (TA.) ―         -b4-  جَزُورٌ سَحُوفُ المُعَقَّبِ <br>\
+                  <i>A fat slaughtered camel.</i> (TA.) ―         -b5-  نَعْلٌ مُعَقَّبَةٌ <br>\
+                  <i>A sandal having an</i> <br>\
+                  عَقِب [q. v.]. (O, TA.)    </entryFree> <br>\
+<b>مُعَقِّبٌ</b>               1     <br>\
+                     مُعَقِّبٌ<br>\
+                     ذ<br>\
+                  <i>Coming after,</i> or <i>near after, another thing.</i> (O.) See عَقِيبٌ. ―         -b2-  It is said that it is applied as an epithet to an angel; that one says مَلَكَ مُعَقِّبٌ [meaning <i>An angel that follows another</i>]; and مَلَايِكَةٌ مُعَقِّبَةٌ; and that مُعَقِّبَاتٌ is a pl. pl. (O.) المُعَقِّبَاتُ means <i>The angels of the night and the day;</i> (S, O, K;) because they succeed one another by turns; and the fem. form is used because of the frequency of their doing so, in like manner as it is in the words نَسَّابَةٌ and عَلَّامَةٌ: (S, O:) <i>the angles called</i> <br>\
+                  الحَفَظَةُ [pl. of حَافِظٌ, q. v.]: so in the Kur xiii. 12: in which some of the Arabs of the desert read مَعَاقِيبُ: (TA:) this [may be an anomalous pl. of عَقِيبٌ, like as مَهَاجِينُ is of هَجِينٌ, or it] is pl. of مُعَقِّبٌ or of مُعَقِّبَةٌ, the ى being to compensate for the suppression of one of the two ق. (Bd.) ―         -b3-  المُعَقِّبَاتُ also signifies <i>The she-camels that stand behind those that are pressing towards the wateringtrough,</i> or <i>tank; so that when one she-camel goes away, another comes in her place.</i> (S, O, K.) ―         -b4-  And <i>The ejaculations of</i> <br>\
+                  سُبْحَانَ اْللّٰهِ, <i>which follow</i> <br>\
+                  <i>one another,</i> (O, K,) <i>repeated at the end of the ordinary prayer, thirty-three in number, and which are followed by</i> <br>\
+                  اَلْحَمْدُ لِلّٰهِ <br>\
+                  <i>thirty-three times, and</i> <br>\
+                  اَللّٰهُ اَكْبَرْ <br>\
+                  <i>thirty-four times.</i> (O.) ―         -b5-  And مُعَقِّبٌ signifies also One <i>who makes repeatedly warring,</i> or <i>warring and plundering, expeditions;</i> and <i>who journeys repeatedly, and does not stay with his family after his return.</i> (TA.) ―         -b6-  And One <i>who seeks after a thing repeatedly, striving,</i> or <i>exerting himself:</i> (S, O:) one <i>who follows after a thing that is his due, demanding restitution of it:</i> or one <i>who follows close after a man, for something that is his due:</i> one <i>who seeks to recover his right,</i> or <i>due:</i> and one <i>who, being despoiled of all his property in a hostile attack, makes a hostile attack upon him from whom he has thus suffered, and endeavours to recover his property.</i> (TA.) Lebeed says, describing a [wild] he-ass and his female, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        حَتَّى تَهَجَّرَ بِالرَّوَاحِ وَهَاجَهَا<br>\
+                     <L><br>\
+                        طَلَبَ المُعَقِّبِ حَقَّهُ المُظْلُومُ<br>\
+                  </quote> (S, O, but in the latter فِى الرَّوَاحِ,) i. e. [<i>Until he went along in the midday heat,</i> (بالرواح or فى <br>\
+                  الرواح being redundant,)] <i>and drove her on</i> [by a pursuit] <i>like the seeking of him who is making repeated efforts, having been wronged, to obtain his due:</i> (O:) المظلوم is an epithet qualifying المعقّب, and is in the nom. case agreeable with the meaning, (S, O,) because it is put after its proper place; (O;) and المعقّب is literally in the gen. case, but as to the meaning is an agent: (S, O: *) or, accord. to some, المعقّب [here] signifies <i>the debtor who puts off the payment of his debt;</i> so that المظلوم is an agent and المعقّب is an objective complement: (S:) or, as some say, المعقّب signifies <i>he who demands the payment of a debt and repeats his demand thereof.</i> (TA.) ―         -b7-  Also Any one <i>returning</i> [app. to the doing of a thing]. (O.) ―         -b8-  See also مَعَاقِبٌ. ―         -b9-  لَا مُعَقِّبَ لِحُكْمِهِ, in the Kur [xiii. 41], means <i>There is no repeller of his decree.</i> (TA.)       -A2-  Also A man <i>who descends into a well to raise a stone of the kind called</i> <br>\
+                  عُقَاب. (TA.) [See also the verb.]    </entryFree> <br>\
+<b>مِعْقَابٌ</b>               1     <br>\
+                     مِعْقَابٌ<br>\
+                     ذ<br>\
+                   A woman <i>who usually brings forth a male after a female.</i> (S, O, K.)       -A2-  And <i>A chamber</i> (بَيْت) <i>in which raisins are put.</i> (K.)    </entryFree> <br>\
+<b>مُعَاقِبٌ</b>               1     <br>\
+                     مُعَاقِبٌ<br>\
+                     ذ<br>\
+                  : see عُقِيبٌ, with which it is syn. ―         -b2-  [Hence,] اـِبِلٌ مُعَاقِبَةٌ <br>\
+                  <i>Camels that eat one time,</i> or <i>turn, of the</i> [<i>kind of plants called</i>] حَمْض, <i>and another of the</i> [<i>kind called</i>] خُلَّة. (S, O, K.) ―         -b3-  And نَخْلَةٌ مُعَاقِبَةٌ <br>\
+                  <i>A palm-tree that bears fruit one year, and fails to do so another.</i> (TA.) ―         -b4-  And مُعَاقِبٌ also signifies <i>A revenger of blood:</i> a poet, cited by IAar, says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَنَحْنُ قَتَلْنَا بِالمَحَارِقِ فَارِسًا<br>\
+                     <L><br>\
+                        جَزَا=ءَ العُطَاسِ لَا يَمُوتُ المُعَاقِبُ<br>\
+                  </quote> meaning [<i>And we slew, in El-Mahárik,</i> (app. the name of a place,) <i>a horseman,</i>] taking our bloodrevenge quickly, <i>in the time that elapses between a sneeze and the prayer for the sneezer</i> [which is usually “ God have mercy on thee ”]: the memory of <i>the blood-revenger shall not die.</i> (TA. [It is there also said that العقب (app. a mistranscription for ↓ <br>\
+      المُعَقِّبُ, as may be conjectured from the fact that the م after the article is often indistinctly written, and inferred on other grounds,) is syn. with المُعَاقِبُ as here explained.])    </entryFree> <br>\
+<b>مُعْتَقَبٌ</b>               1     <br>\
+                     مُعْتَقَبٌ<br>\
+                     ذ<br>\
+                  : see 8:       -A2-  and see also 5, last sentence.    </entryFree> <br>\
+<b>مُعْتَقِبٌ</b>               1     <br>\
+                     مُعْتَقِبٌ<br>\
+                     ذ<br>\
+                  : see عَقِيبٌ.    </entryFree> <br>\
+<b>مُتَعَقَّبٌ</b>               1     <br>\
+                     مُتَعَقَّبٌ<br>\
+                     ذ<br>\
+                  : see 5, former half, in two places.    </entryFree> <br>\
+<b>يَعْقُوبٌ</b>               1     <br>\
+                     يَعْقُوبٌ<br>\
+                     ذ<br>\
+                  , perfectly decl., because it is an Arabic word, not altered, and, although having an augmentative letter at the beginning, not of the measure of a verb; whereas يعقوب as a proper name of foreign origin is imperfectly decl.; (S, O;) The حَجَل [or <i>partridge</i>]: (K:) or the <i>male of the</i> <br>\
+                  حَجَل; (S, O, Msb;) or <i>of the</i> <br>\
+                  قَبْج; (Lh, Mgh;) but ISd says, I know not whether Lh mean by this the حَجَل or the قَطَا or the كَرَوَان, nor do I know that the قَبْح is the same as the حَجَل: (TA:) and the <i>male of the</i> <br>\
+                  قَطَا [or <i>sand-grouse</i>]: (TA:) pl. يَعَاقِيبُ. (S, Mgh, O, Msb.) كَاَنَّكُمْ يَعَاقِيبُ الحَجَلِ, occurring in a trad., means [<i>As though ye were the males of partridges</i>] in your haste, and your flying into destruction: for they are such that, when they see the female in the possession of the fowler, they throw themselves upon him, so as to fall into his hand. (Z, TA in art. ركب.) ―         -b2-  And accord. to some, (TA,) the pl. also signifies <i>Horses:</i> they being thus termed as being likened to the يعاقيب of the حَجَل, (O, TA,) because of their swiftness: (TA:) so in the phrase رَكْضَ <br>\
+                  اليَعَاقِيبِ [<i>As the running of the horses,</i> or <i>of the swift horses</i>]; in a verse of Selámeh Ibn-Jendel: (O, TA:) but others say that the meaning [here] is, <i>the males of the</i> <br>\
+                  حَجَل. (TA.) It is said in the L that فَرَسٌ يَعْقُوبٌ means <i>A horse that has a run after another run</i> [or <i>the power of repeating his running</i>] (ذُو عَقْبٍ [or عَقِبٍ]). (TA.) ―         -b3-  J has cited [in the S] the words of a poet, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        عَالٍ يُقَصِّرُ دُونَهُ اليَعْقُوبُ<br>\
+                  </quote> [<i>High,</i> so that <i>the</i> <br>\
+                  يعقوب <br>\
+                  <i>falls short of reaching it</i>] as an ex. of the last word meaning <i>the male of the</i> <br>\
+                  حَجَل: but IB says that it appears to mean in this case <i>the male of the</i> <br>\
+                  عُقَاب [or <i>eagle</i>]; like as اليَرْخُومُ means the male of the رَخَم; and اليَحْبُورُ, the male of the حُبَارَى; for the حَجَل is not known to have so high a flight: and ElFarezdak describes يَعَاقِيب as congregating with vultures over the slain. (TA.)    </entryFree> <br>\
+<b>اليَعْقُوبِيَّةُ</b>               1     <br>\
+                     اليَعْقُوبِيَّةُ<br>\
+                     ذ<br>\
+                   [a coll. gen. n., n. un. يَعْقُوبِىٌّ,] the name of <i>A sect of the</i> <br>\
+                  خَوَارِج, <i>followers of Yaakoob Ibn-&#39;Alee El-Koofee.</i> (TA.) ―         -b2-  And <i>A sect of the Christians; the followers of Yaakoob ElBarádi&#39;ee</i> [or <i>Jacobus Baradæus</i>], <i>who assert the unity of the divine and human natures</i> [<i>in the person of Christ</i>], <i>and who are the most unbelieving and stubborn of the Christians:</i> so says El-Mak- reezee, in one of his tracts. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كنفثكُنْفُثٌ and كُنَافِثٌ Short. (K.)<br>\
+كنه كنى كه<br>\
+See Supplement<br>\
+' } );

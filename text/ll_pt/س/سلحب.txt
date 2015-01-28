@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>سلحب</em>            1                  سلحب<br>\
+<b>اِسْلَحَبَّ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اِسْلَحَبَّ<br>\
+                     ذ<br>\
+                  <i>It was,</i> or <i>became, right, direct, rightly directed, straight,</i> or <i>even.</i> (S, K.) ―         -b2-  <i>It</i> (a road) <i>was extended:</i> (S:) or <i>conspicuous and extended.</i> (K.) ―         -b3-  [And app. <i>It was,</i> or <i>became, spread out,</i> or <i>expanded:</i> see the part n., below.]    </entryFree> <br>\
+<b>سُلْحُوبٌ</b>               1     <br>\
+                     سُلْحُوبٌ<br>\
+                     ذ<br>\
+                   A woman <i>who cares not for what she does nor for what is said to her.</i> (AA, TA.)    </entryFree> <br>\
+<b>مُسْلِحَبٌّ</b>               1     <br>\
+                     مُسْلِحَبٌّ<br>\
+                     ذ<br>\
+                  <i>Right, direct, rightly directed, straight,</i> or <i>even:</i> (S, K:) like مُتْلَيِبٌّ. (TA.) ―         -b2-  <i>Extended:</i> (S:) or <i>conspicuous and extended:</i> (K:) applied to a road: (S, K:) like مُطْلَحِبٌّ. (L.) ―         -b3-  <i>I. q.</i> <br>\
+                  مُنْبَطِحٌ [app. as meaning <i>Spread out,</i> or <i>expanded</i>]. (TA.) ―         -b4-  ظَلَّ يَوْمَنَا مُسَْحِبًّا means <i>Our day was,</i> or <i>became, one of protracted journeying.</i> (L, TA.)   </entryFree> <br>\
+' } );

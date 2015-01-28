@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ذوباج</em>            1                  ذوباج<br>\
+<b>ذُوبَاجٌ</b>               1     <br>\
+                     ذُوبَاجٌ<br>\
+                     ذ<br>\
+                  : see جوذاب, in art. جذب.   </entryFree> <br>\
+' } );

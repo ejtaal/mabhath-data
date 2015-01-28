@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كت</em>            1                  كت<br>\
+<b>كَتْكَتَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     كَتْكَتَ<br>\
+                     ذ<br>\
+                  : see طَحْطَحَ.    </entryFree> <br>\
+<b>كُتْكُتٌ</b>               1     <br>\
+                     كُتْكُتٌ<br>\
+                     ذ<br>\
+                   The <i>coarse part of silk, and of tow, &amp;amp;c.</i>   <br>\
+' } );

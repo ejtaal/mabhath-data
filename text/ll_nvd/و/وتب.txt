@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'وتب1<br>\
+وَتَبَ, aor. يَتِبُ, inf. n. وَتْبٌ, He remained<br>\
+fixed in the place, and did not move. (K.)<br>\
+Omitted by most of the lexicographers; and<br>\
+said by some to be a word mispronounced [app.<br>\
+for وَثَبَ]. (TA.)<br>\
+' } );

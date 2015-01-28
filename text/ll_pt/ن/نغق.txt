@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نغق</em>            1                  نغق<br>\
+<b>نُغَاقٌ</b>               1     <br>\
+                     نُغَاقٌ<br>\
+                     ذ<br>\
+                   and نُعَاقٌ, of a crow, signify the same. (Lh in O, art. عوق.)   </entryFree> <br>\
+' } );

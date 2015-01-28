@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'قرش1<br>\
+قَرَشَ<br>\
+, aor.<br>\
+قَرِشَ<br>\
+, inf. n. قَرْشٌ; and ↓ اِقْتَرَشَ and<br>\
+↓ تَقَرَّشَ; He gained, acquired, or earned, and<br>\
+collected, for his family. (M.)<br>\
+5<br>\
+تَقَرَّشَ<br>\
+and 8: see 1.<br>\
+' } );

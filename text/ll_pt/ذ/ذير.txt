@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>ذير</em>            1                  ذير<br>\
+<b>ذيّر</b>               1     <br>\
+                     ذيّر<br>\
+                     ذ<br>\
+                  , (K,) inf. n. تَذْيِيرٌ, (S,) <i>He smeared</i> a she-camel&#39;s teats <i>with</i> <br>\
+                  ذِيَار, (S, K,) <i>in order that the young one might not suck</i> her. (S.) ―         -b2-  And ذيّر النَّاقَةَ <br>\
+                  <i>He bound the she-camel&#39;s udder with a</i> <br>\
+                  صِرَار [q. v.], <i>in order that the pieces of wood bound upon her udder to prevent her young one from sucking her might not make any impression upon her.</i> (K, * TA.) [But see ذِيَارٌ, which indicates that the true meaning is, <i>He smeared the she-camel&#39;s teats with</i> <br>\
+                  ذِيَار <br>\
+                  <i>in order that the pieces of wood above mentioned might not make any impression upon them.</i>] ―         -b3-  ذُيِّرَ فُوهُ, inf. n. تَذْيِيرٌ, <i>His</i> (a man&#39;s, S) <i>teeth became black.</i> (Lth, S, K.)    </entryFree> <br>\
+<b>ذِيرَةٌ</b>               1     <br>\
+                     ذِيرَةٌ<br>\
+                     ذ<br>\
+                  : see ذِيَارٌ.    </entryFree> <br>\
+<b>ذِيَارٌ</b>               1     <br>\
+                     ذِيَارٌ<br>\
+                     ذ<br>\
+                  <i>Fresh camels&#39; or similar dung</i> (بَعَرَ), [<i>mixed with dust,</i> or <i>earth,</i>] <i>with which a she-camel&#39;s teats are smeared,</i> (T, S, M, *) <i>in order that the young one may not such her,</i> (S, M,) <i>and that the pieces of wood which are bound upon her udder to prevent her young one from sucking may not make any impression upon her;</i> (T, M;) <i>i. q.</i> <br>\
+                  ذِيَارٌ: or dung (سِرْقِين) before mixed with dust or earth is called خُثَّةٌ: and when mixed, ↓ <br>\
+      ذِيرَةٌ: and when the teats are smeared with it, ذِيَارٌ. (Lth, K.)   </entryFree> <br>\
+' } );

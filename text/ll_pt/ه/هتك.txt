@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>هتك</em>            1                  هتك<br>\
+<b>هتك</b>               1     <br>\
+                     هتك<br>\
+                     ذ<br>\
+                  <i>He rent open.</i> (K, S.) ―         -b2-  هتك اللّٰه سِتْرَهُ <br>\
+                  <i>God dishonour him:</i> see سِتْرٌ.    </entryFree> <br>\
+<b>هَتَّاكٌ</b>               1     <br>\
+                     هَتَّاكٌ<br>\
+                     ذ<br>\
+                   One <i>who rends frequently</i> tents and the like: see بَابٌ.   </entryFree> <br>\
+' } );

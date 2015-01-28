@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اير&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اير<br>\
+&lt;entryFree id=&quot;n1591&quot; key=&quot;ا=رَهَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ا=رَهَا<br>\
+                     ا=رها<br>\
+                  &lt;/form&gt;, aor. يَيِيرُ, (T, S, and K in art. اور,) inf. n. اَيْرٌ; (T, TA;) or ا=رَهَا, aor. يَوُورُ; (ISk, T;) or &lt;i&gt;both;&lt;/i&gt; (K ubi suprà;) &lt;i&gt;Inivit eam; he compressed her.&lt;/i&gt; (ISk, T, S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1592&quot; key=&quot;اَيْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;membrum virile; penis; veretrum:&lt;/i&gt; (TA:) pl. [of pauc.] ا=يُرٌ and ا=يَارٌ (S, M, K) and [of mult.] اُيُورٌ (S, K) and اُيُرٌ. (L.) ―         -b2-  كَانَ اَيْرُهُ <br>\
+                  طَويلًا is a phrase meaning (tropical:)  &lt;i&gt;He had many male children.&lt;/i&gt; (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1593&quot; key=&quot;اُيَارِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُيَارِىٌّ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Having a large membrum virile,&lt;/i&gt; or &lt;i&gt;penis;&lt;/i&gt; (T, S, M, K;) like اُنَافِىٌّ signifying “ having a large nose. ” (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1594&quot; key=&quot;اَيَّارُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيَّارُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The&lt;/i&gt; [&lt;i&gt;Syrian&lt;/i&gt;] &lt;i&gt;month&lt;/i&gt; [&lt;i&gt;corresponding to May, O. S.;&lt;/i&gt;] preceding حَزِيرَانُ, or (as written by Saadee Efendee, TA) حُزَيْرَانُ. (So in different copies of the K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1595&quot; key=&quot;ا=يِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=يِرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Iniens.&lt;/i&gt; (T, S, TA.) &lt;pb n=&quot;137&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n1596&quot; key=&quot;مَيِيرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَيِيرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; pass. part. n. of 1, (T, S, TA,) of the same measure as مَصِيرٌ; &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَنْيُوكٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1597&quot; key=&quot;مِيْيَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْيَرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (K, TA, [in the CK مَيِير, and in Gol. Lex. مِيْيَرٌ,]) &lt;i&gt;Qui multum coit.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

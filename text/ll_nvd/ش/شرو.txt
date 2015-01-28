@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'شروشَرْوٌ Honey: (K:) or white honey: mentioned<br>\
+by Sgh: formed by transposition from شَوْرٌ: (TA:)<br>\
+and also written ↓ شِرْوٌ. (K.)<br>\
+شِرْوٌ: see what precedes.<br>\
+شَرْوَى, originally شَرْيَا: see art. شرى.<br>\
+شِرَوِىٌّ, originally شِرَيِىٌّ: see art. شرى.<br>\
+' } );

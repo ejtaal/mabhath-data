@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>بلسان</em>            1                  بلسان<br>\
+<b>بَلَسَانٌ</b>               1     <br>\
+                     بَلَسَانٌ<br>\
+                     بلسان<br>\
+                     لسان<br>\
+                  : see art. بلس.   </entryFree> <br>\
+' } );

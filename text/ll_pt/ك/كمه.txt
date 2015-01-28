@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كمه</em>            1                  كمه<br>\
+<b>اَرْضٌ كَمْهَا=ءٌ</b>               1     <br>\
+                     اَرْضٌ كَمْهَا=ءٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مُغِمَّةٌ and مِغَمَّةٌ. (TA in art. غم.)   </entryFree> <br>\
+' } );

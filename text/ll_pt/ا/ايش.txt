@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ايش</em>            1                  ايش<br>\
+<b>اَيْشَ</b>               1     <br>\
+                     اَيْشَ<br>\
+                     ذ<br>\
+                  , for اَىُّ شَىْءٍ: see اَىٌّ, in art. اى.   </entryFree> <br>\
+' } );

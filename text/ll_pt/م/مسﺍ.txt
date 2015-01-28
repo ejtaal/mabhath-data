@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;مسا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  مسا<br>\
+&lt;entryFree id=&quot;n38551&quot; key=&quot;مَسَاَ الطَّرِيقَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     مَسَاَ الطَّرِيقَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He went along the middle of the road;&lt;/i&gt; (K;) or &lt;i&gt;the hard and elevated part&lt;/i&gt; (مَتْن) &lt;i&gt;of the road.&lt;/i&gt; (TA.) ―         -b2-  مَسَاَ <br>\
+                  &lt;i&gt;He was slow,&lt;/i&gt; or &lt;i&gt;tardy.&lt;/i&gt; (K.) ―         -b3-  مَسَاَ حَقَّهُ <br>\
+                  &lt;i&gt;He delayed giving him his due.&lt;/i&gt; (K, TA.) ―         -b4-  مَسَاَ القِدْرَ <br>\
+                  &lt;i&gt;He stilled,&lt;/i&gt; or &lt;i&gt;allayed, the boiling of the pot.&lt;/i&gt; (K.) ―         -b5-  مَسَاَهُ بِالقَوْلِ <br>\
+                  &lt;i&gt;He soothed,&lt;/i&gt; or &lt;i&gt;softened, him by words.&lt;/i&gt; (K.) ―         -b6-  مَسَاَ <br>\
+                  &lt;i&gt;He beguiled,&lt;/i&gt; or &lt;i&gt;deceived.&lt;/i&gt; (K.) ―         -b7-  مَسَاَ عَلَى شَىْءٍ, (K,) inf. n. مَسْءٌ, (TA,) &lt;i&gt;He became accustomed,&lt;/i&gt; or &lt;i&gt;inured to a thing.&lt;/i&gt; (K.)       -A2-  مَسَاَ بَيْنَهُمْ and ↓ <br>\
+      امسا, &lt;i&gt;He excited discord between them.&lt;/i&gt; (K, TA.) ―         -b2-  مَسَاَ, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     مَسَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. مَسْءٌ (S, K) and مُسُوءٌ, (K,) &lt;i&gt;He was hard,&lt;/i&gt; or &lt;i&gt;impudent, and rude; not caring for what one said,&lt;/i&gt; or &lt;i&gt;did to him.&lt;/i&gt; (AZ, S, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَمْسَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38552&quot; key=&quot;تمسّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تمسّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a garment) &lt;i&gt;rent,&lt;/i&gt; or &lt;i&gt;became ragged and worn out.&lt;/i&gt; (IB, K.) &lt;pb n=&quot;2713&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n38553&quot; key=&quot;مَسْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَسْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;middle&lt;/i&gt; of a road. (K.) [See 1, and see مِسْحٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38554&quot; key=&quot;مَاسِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاسِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Hard,&lt;/i&gt; or &lt;i&gt;impudent, and rude; not caring for what one says&lt;/i&gt; or &lt;i&gt;does to him.&lt;/i&gt; (AZ, S.) Perhaps مَاسٍ is from this: (see art. مسى:) or perhaps it is formed by transposition from مَايِسٌ: see art. ميس. (AM.)   &lt;/entryFree&gt; <br>\
+' } );

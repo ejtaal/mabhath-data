@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فاوانيا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فاوانيا<br>\
+&lt;entryFree id=&quot;n32858&quot; key=&quot;الفَاوَانِيَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الفَاوَانِيَا<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  عُودُ الصَّلِيبِ, [both of which appel-lations are now applied to &lt;i&gt;The common peony, pæonia officinalis,&lt;/i&gt; and this is what is meant in what here follows,] i. e. &lt;i&gt;the&lt;/i&gt; <br>\
+                  كهينا, [app. for كَهْيَانَا, which is a Pers. word, meaning the plant above-mentioned,] &lt;i&gt;a plant less than a cubit&lt;/i&gt; [&lt;i&gt;in height&lt;/i&gt;], &lt;i&gt;having a purple flower, not found except in the day of the sun&#39;s taking its abode in Libra;&lt;/i&gt; (TA;) [its root has, from ancient times, and in various countries, been held in high repute for medicinal properties; and various fancied virtues (some of which are supposed to be partly dependant upon particular aspects of the moon and certain stars, and several of which are mentioned &lt;pb n=&quot;2327&quot; TEIform=&quot;pb&quot;/&gt; in the TA,) are ascribed to it:] &lt;i&gt;it is hot, attenuant, resolutive, diuretic, has the property of stopping hæmorrhage, and is beneficial as a remedy against the&lt;/i&gt; <br>\
+                  نِقْرِس [i. e. &lt;i&gt;gout,&lt;/i&gt; or particularly &lt;i&gt;podagra,&lt;/i&gt;] &lt;i&gt;and epilepsy&lt;/i&gt; (الصَّرْع), &lt;i&gt;even by its being suspended&lt;/i&gt; [&lt;i&gt;on the patient&lt;/i&gt;]. (K.) [See also يَبْرُوحٌ, in art. برح.]   &lt;/entryFree&gt; <br>\
+' } );

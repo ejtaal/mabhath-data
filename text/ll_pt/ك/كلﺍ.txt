@@ -1,0 +1,129 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كلا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كلا<br>\
+&lt;entryFree id=&quot;n37122&quot; key=&quot;كَلَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     كَلَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَلَاَ<br>\
+                  &lt;/form&gt;, inf. n. كَلْءٌ (K) and كِلَا=ءَةٌ (S, K) and كِلَا=ءٌ (K) [but respecting this last see a verse of Jemeel cited below], &lt;i&gt;He&lt;/i&gt; (i. e. God, S) &lt;i&gt;guarded him,&lt;/i&gt; or &lt;i&gt;kept him,&lt;/i&gt; or &lt;i&gt;kept him safely.&lt;/i&gt; (S, K.) ―         -b2-  اـِذْهَبُوا فِى كِلَا=ءَةِ اللّٰهِ <br>\
+                  &lt;i&gt;Go ye in the safe keeping of God.&lt;/i&gt; (S, TA.) ―         -b3-  In the following verse of Jemeel, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَكُونِى بِخَيْرٍ فِى كِلَا=ءِ وَغِبْطَةٍ<br>\
+                     &lt;L&gt;<br>\
+                        وَاـِنْ كُنْتِ قَدْ اَزْمَعْتِ صَرْمِى وَبِغْضَتِى<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Then be thou in prosperity, in safe keeping&lt;/i&gt; (&lt;i&gt;of God&lt;/i&gt;), &lt;i&gt;and in happy condition, even if thou have firmly resolved to cut me and to detest me&lt;/i&gt;], كِلَا=ءٌ may be an inf. n.; or it may be pl. of كِلَاءَةٌ; or it may be put for كِلَا=ءَةٌ, the ة being elided by a necessary poetical licence. (Abu-l- Hasan.) ―         -b4-  The verb is also used without hemzeh, thus; كَلَاتُ, يَكْلُوكُمْ; and كَلَيْتُ, يَكْلَاكُمْ; in the dial. of Kureysh; inf. n. كِلَايَةٌ: as the pass. part. n. of both, مَكْلُوٌّ is more commonly used than مَكْلِىٌّ, which is correctly used as the pass. part. n. of كَلَيْتُ. (TA.) ―         -b5-  كَلَاَ القَوْمَ (assumed tropical:)  &lt;i&gt;He acted as a scout&lt;/i&gt; (رَبِيْيَة) &lt;i&gt;for the party,&lt;/i&gt; or &lt;i&gt;people.&lt;/i&gt; (TA.) ―         -b6-  كَلَاَ بَصَرَهُ فِى شَىْءٍ, (K, TA, [in the CK نَظَرَهُ,]) or ↓ <br>\
+      اَكْلَاَهُ, (S,) &lt;i&gt;He repeatedly turned his eye to a thing; looked at it again and again.&lt;/i&gt; (S, K.) ―         -b7-  كَلَاَ النَّجْمَ (tropical:)  &lt;i&gt;He watched the star, to see when it would rise.&lt;/i&gt; (A.)       -A2-  كَلَاَ الدَّيْنُ, (S, K,) or كَلُوَ, inf. n. كُلُوءٌ, act. part. n. كَالِيٌ, (A,) &lt;i&gt;The debt,&lt;/i&gt; or &lt;i&gt;its payment,&lt;/i&gt; <br>\
+                  &lt;i&gt;was put off,&lt;/i&gt; or &lt;i&gt;postponed,&lt;/i&gt; or &lt;i&gt;delayed.&lt;/i&gt; (S, A, K.) ―         -b2-  كَلَاَ عُمْرُهُ (tropical:)  &lt;i&gt;His life came to an end:&lt;/i&gt; (K:) or &lt;i&gt;was long, and was delayed.&lt;/i&gt; (A.) ―         -b3-  كَلَاَ [unless this be a mistake for ↓ <br>\
+      كلّا] &lt;i&gt;He postponed,&lt;/i&gt; or &lt;i&gt;delayed,&lt;/i&gt; a thing. (TA, art. نَسَاَ.)       -A3-  كَلَاَ, (K,) inf. n. كَلْءٌ, (As,) &lt;i&gt;He beat&lt;/i&gt; with a whip. (As, K.)       -A4-  كَلَاَتِ النَّاقَةُ, (S, K,) and ↓ <br>\
+      اكلات, (S,) &lt;i&gt;The she-camel ate&lt;/i&gt; <br>\
+                  كَلَا, or &lt;i&gt;herbage.&lt;/i&gt; (A &#39;Obeyd, S, K.)       -A5-  كَلَاَتِ الاَرْضُ, (K,) and كَلِيَت, and ↓ <br>\
+      اكلات, (S, K,) inf. n. اـكْلَا=ءٌ, (TA,) and ↓ <br>\
+      استكلات, (K,) &lt;i&gt;The land contained,&lt;/i&gt; (S,) or &lt;i&gt;abounded with,&lt;/i&gt; (K,) كَلَا, or &lt;i&gt;herbage.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37123&quot; key=&quot;كلّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     كلّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَكْلِىْءٌ and تَكْلِيَةٌ, &lt;i&gt;He brought a ship near to the bank of the river,&lt;/i&gt; (K,) &lt;i&gt;and moored it.&lt;/i&gt; (TA.) ―         -b2-  كلّا (assumed tropical:)  &lt;i&gt;He retained, detained,&lt;/i&gt; or &lt;i&gt;confined,&lt;/i&gt; a person: (K:) app. from the verb as used with reference to a ship; and therefore tropical. (TA.) ―         -b3-  كلّا, (K,) inf. n. تَكْلِىْءٌ, (TA,) &lt;i&gt;He came&lt;/i&gt; to a place, &lt;i&gt;and stopped&lt;/i&gt; there. (TA.) ―         -b4-  كلّا, inf. n. تَكْلِيَةٌ, &lt;i&gt;He came to a place sheltered from the wind.&lt;/i&gt; (S) ―         -b5-  كلّا <br>\
+                  &lt;i&gt;He came&lt;/i&gt; to a person (K) on an affair. (TA.)       -A2-  كلّا فِى اَمْرٍ (tropical:)  &lt;i&gt;He looked into,&lt;/i&gt; or &lt;i&gt;considered attentively, a thing.&lt;/i&gt; (K.) See 4. ―         -b2-  كلّافِيهِ (tropical:)  &lt;i&gt;He regarded him attentively, and was pleased with&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;2624&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;him.&lt;/i&gt; (TA.)       -A3-  كلّا فِى الطَّعَامِ وَغَيْرِهِ, inf. n. تَكْلِىْءٌ; (S, * TA;) and ↓ <br>\
+      اكلا, (S, K,) inf. n. اـِكْلَا=ءٌ; (S;) &lt;i&gt;He paid in advance&lt;/i&gt; (اَسْلَمَ, K, and اَسْلَفَ, S, K) &lt;i&gt;for corn&lt;/i&gt; or &lt;i&gt;other food, &amp;amp;c.&lt;/i&gt; (S, K, TA.) [Here the original signification of postponement or delay is involved: for he who pays in advance for a thing grants a delay in the delivery thereof.] IAar cites the following verse: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَمَنْ يُحْسِنْ اـِلَيْهِمْ لَا يُكَلَِّيْ<br>\
+                     &lt;L&gt;<br>\
+                        اـِلَى جَازٍ بِذَاكَ وَلَا كَرِيمِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;So that he who does a good action to them does not pay in advance to one who will recompence for that&lt;/i&gt; (&lt;i&gt;action&lt;/i&gt;), &lt;i&gt;nor to him who is generous&lt;/i&gt;]. (TA.) See 1 and 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37124&quot; key=&quot;كالا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     كالا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. مُكَالَاَةٌ, and كِلَاءٌ, &lt;i&gt;He watched,&lt;/i&gt; or &lt;i&gt;observed.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَكْلَاَ<br>\
+                  &lt;/form&gt; See 1 in three places.       -A2-  اكلات عَيْنُهُ (tropical:)  &lt;i&gt;His eye was sleepless,&lt;/i&gt; or &lt;i&gt;wakeful.&lt;/i&gt; (A.) ―         -b2-  اكلا <br>\
+                  عَيْنَهُ, and ↓ <br>\
+      كلّا, (tropical:)  &lt;i&gt;He made his eye sleepless,&lt;/i&gt; or &lt;i&gt;wakeful.&lt;/i&gt; (A.)       -A3-  اكلا عُمُرَهُ (tropical:)  &lt;i&gt;He brought his life to its close.&lt;/i&gt; (K.) See 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37125&quot; key=&quot;تكلّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تكلّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; and ↓ <br>\
+      كلّا, inf. n. تَكْلِىْءٌ; &lt;i&gt;He bought on credit.&lt;/i&gt; [This is the explanation given in the TK, and it appears to be correct. It is also there said, that تَكَلَّاْتُهُ signifies اَخَذْتُهُ نَسْيْيَةً, &lt;i&gt;I took it,&lt;/i&gt; or &lt;i&gt;bought it, on credit:&lt;/i&gt; and كَلَّاْتُ فِى <br>\
+                  الطَّعَامِ, اخذته بالنّسييةِ, &lt;i&gt;I took,&lt;/i&gt; or &lt;i&gt;bought, the food on credit,&lt;/i&gt; but the latter I render differently. (See 2, above.) In the K we read الكَالِيُ <br>\
+                  والكُلْاَةُ بِالضَّمِّ النَّسِيْيَةُ والعُرْبُونُ وتَكَلَّاْتُ وكَلَّاْتُ تَكْلِيْيًا <br>\
+                  اخَذْتُهُ. IbrD thinks that the last word should be اخَّرْتُ “ I postponed, or delayed ”: but I rather think that it should be اَخَذْتُهَا, meaning اَخَذْتُ نَسِيْيَةً <br>\
+                  &lt;i&gt;I took,&lt;/i&gt; or &lt;i&gt;bought, on credit.&lt;/i&gt; in the TA we read, AO says, تَكَلَّاْتُ كُلْاَةً وكَلَّاْتُ <br>\
+                  تَكْلِيْيًا اـِسْتَنْسَاْتُ نَسِيْيَةَ اَىْ اَخَذْتُهُ وَالنَّسِيْيَةُ التَّاْخِيرُ <br>\
+                  وَكَذٰلِكَ اـِسْتَكْلَاْتُ كُلْاَةً: but the words اى <br>\
+                  اخذته seem to have been added by SM; for in the S we find, on the authority of AO, تَكَلَّاْتُ اَىْ اْسْسَنْسَاْتُ نَسِيْيَةً وَكَذٰلِكَ اْسْتَكْلَاْتُ كُلْاَةً <br>\
+                  بِالضَّمِّ وَهُوَ مِنَ التَّاْخِيرِ: whence it seems, that تكلّا, (or تكلّا كُلْاَةً, and كُلْاَةً ↓ <br>\
+      كلّا, see above,) and كُلاَةً ↓ <br>\
+      الستكلا, signify &lt;i&gt;He asked for a delay of the period of the payment of a debt.&lt;/i&gt;] See 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37126&quot; key=&quot;اكتلا مِنْهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اكتلا مِنْهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;He preserved,&lt;/i&gt; or &lt;i&gt;guarded, himself from him&lt;/i&gt; or &lt;i&gt;it; had a care of,&lt;/i&gt; or &lt;i&gt;was cautious of, him&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (S, K. *) ―         -b2-  اكتلات عَيْنى (assumed tropical:)  &lt;i&gt;My eye was wakeful, vigilant,&lt;/i&gt; or &lt;i&gt;cautious.&lt;/i&gt; (S.)       -A2-  اكتلا كُلْاَةً, and ↓ <br>\
+      تكلّاها, &lt;i&gt;He received a&lt;/i&gt; <br>\
+                  كُلْاَة [i. e., &lt;i&gt;an earnest,&lt;/i&gt; or &lt;i&gt;money paid in advance&lt;/i&gt;]. (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَكْلَاَ<br>\
+                  &lt;/form&gt; see 1 and 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37127&quot; key=&quot;كَلَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَلَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Fresh herbage;&lt;/i&gt; syn. عُشْبٌ: (S, K:) applied to the عُرْوَة, نصِىّ, and صِلِّيَان: (Az:) or &lt;i&gt;pasture,&lt;/i&gt; or &lt;i&gt;what cattle &amp;amp;c. feed upon:&lt;/i&gt; (TA:) or &lt;i&gt;herbage. whether fresh&lt;/i&gt; or &lt;i&gt;dry&lt;/i&gt; either &lt;i&gt;fresh pasture&lt;/i&gt; or &lt;i&gt;fodder:&lt;/i&gt; (S, K:) or it comprises the صِلَّيَان نَصِىّ, حَلَمَة, شِيح, عَرْفَج, &lt;i&gt;the various kinds of&lt;/i&gt; <br>\
+                  عُرْوَة, &lt;i&gt;and what are termed&lt;/i&gt; <br>\
+                  عُشْب, بَقْل, &lt;i&gt;and the like:&lt;/i&gt; or it is &lt;i&gt;applied to the herbs called&lt;/i&gt; <br>\
+                  بقل, &lt;i&gt;and to trees:&lt;/i&gt; a gen. n., having no sing.; or its sing. is كَلَا=ءٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37128&quot; key=&quot;كُلْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كُلْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 5 and كَاليٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37129&quot; key=&quot;اَرْضٌ كَلِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْضٌ كَلِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) and ↓ <br>\
+      مَكْلَاْةٌ, (K,) and ↓ <br>\
+      مُكْلِيَةٌ, (S,) &lt;i&gt;A land containing,&lt;/i&gt; (S,) or &lt;i&gt;abounding with,&lt;/i&gt; (K,) كَلَا, or &lt;i&gt;herbage.&lt;/i&gt; (S, K.) ―         -b2-  The ↓ last is also said to signify &lt;i&gt;A land with the pasture of which its camels have been satiated.&lt;/i&gt; (TA.) ―         -b3-  See a trad. quoted in art. فَضْلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37130&quot; key=&quot;عَيْنٌ كَلُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     عَيْنٌ كَلُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;A strong eye, which sleep does not overcome.&lt;/i&gt; (TA.) ―         -b2-  كَلُوْءٌ العَيْنِ (tropical:)  A man, or a camel, (male or female,) &lt;i&gt;having a strong eye, which sleep does not overcome:&lt;/i&gt; (K:) or, &lt;i&gt;a sleepless,&lt;/i&gt; or &lt;i&gt;wakeful, eye.&lt;/i&gt; (A.) ―         -b3-  مَرْاَةٌ كَلُوْءُ <br>\
+                  اللَّيْلِ (tropical:)  [&lt;i&gt;A woman who is sleepless at night&lt;/i&gt;]. (TA.) See 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37131&quot; key=&quot;كَلَّا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَلَّا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مُكَلَّاٌ <br>\
+                  &lt;i&gt;A station of ships,&lt;/i&gt; (S, K,) &lt;i&gt;near the bank of a river,&lt;/i&gt; or &lt;i&gt;near what is called the&lt;/i&gt; <br>\
+                  جُدّ: (TA:) the former is masc. and fem.; or, accord. to Sb, it is of the measure فَعَّالٌ; and therefore masc., and perfectly declinable: (S:) so called because it keeps the vessels safe (يَكْلَوُهَا) from the wind: but accord. to Th, it is of the measure فَعْلَا=ءُ; and therefore fem., [and imperfectly declinable; from كَلَّ;] so called because the wind there becomes slackened: or &lt;i&gt;a place where ships are moored, near the bank of a river:&lt;/i&gt; (TA:) or &lt;i&gt;a place sheltered from the wind.&lt;/i&gt; (S.) ―         -b2-  Also, The &lt;i&gt;bank of a river.&lt;/i&gt; (S, K.) ―         -b3-  Dual of كلّاء, كَلَّا ا=نِ and كَلَّاوَانِ: pl. كَلَّاُوونَ. (TA.) ―         -b4-  مَنْ عَرَّضَ عَرَّضْنَا لَهُ وَمَنْ <br>\
+                  مَشَى عَلَى الكَلَّا=ءِ اَلْقَيْنَاهُ فِى النَّهْرِ, (TA,) or قَذَفْنَاهُ <br>\
+                  فِى النَّهْرِ, (K in art. عرض,) or فى المَا=ءِ, (TA in that art.) (tropical:)  &lt;i&gt;Him who indirectly calumniates we will treat in a similar manner;&lt;/i&gt; (meaning, we will inflict upon him a chastisement less than that termed الحَدّ;) &lt;i&gt;and him who walks upon the bank of the river&lt;/i&gt; (i. e., who openly calumniates, and so, as it were, embarks on the river of the حُدُود, [pl. of حَدٌّ,]) &lt;i&gt;we will cast into that river;&lt;/i&gt; meaning, we will inflict upon him the chastisement termed الحَدّ. (TA; and K * in art. عرض.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37132&quot; key=&quot;كَالِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَالِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, K) and ↓ <br>\
+      كُلْاَةٌ (K) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  نَسِيْيَةٌ, [app. bearing both of the two significations immediately following, and clearly shown in the S &amp;amp;c. to bear the latter of them: &lt;i&gt;A postponement,&lt;/i&gt; or &lt;i&gt;delay,&lt;/i&gt; in the time of the payment of a debt, &amp;amp;c. See also نُسْاَةٌ, and كَلَاَ. ―         -b2-  Also, both words, like نَسِيْيَةٌ, &lt;i&gt;A debt of which the payment is deferred by a creditor to a future period.&lt;/i&gt;] (S, K.) ―         -b3-  Ex., نَهَى عَنِ الكَالِيِ بِالكَالِي, i. e., النَّسِيْيَة بالنَّسِيْيَة, &lt;i&gt;He&lt;/i&gt; (Mohammad) &lt;i&gt;forbade&lt;/i&gt; [&lt;i&gt;exchanging&lt;/i&gt;] &lt;i&gt;a debt to be paid at a future time for a similar debt.&lt;/i&gt; (S, TA.) [See the Jámi&#39; es-Sagheer, and Mishkát el-Masábeeh, ii., 21.] What is forbidden by this is, a man&#39;s buying a thing on credit for a certain period, and, when the period of payment is come, and he finds not that wherewith to pay the debt, his saying, Sell it to me on credit for a further period, for something additional: whereupon he [thus] sells it to him: (TK:) or, a man&#39;s paying money for, wheat, or the like, to be given at a certain period, and, when the period comes, the debtor&#39;s saying, I have not wheat; etc.; but sell thou it to me on credit for a certain period. (AObeyd, Msb.) See اَجَلٌ.] كَالٍ is also used for كَالِيٌ. (S.) [See an ex. voce نَاجِزٌ.] The pl. of the latter is كوَالِيُ. (TA.) ―         -b4-  Also ↓ <br>\
+      كُلُاَةٌ, &lt;i&gt;Money paid at a period after the purchase, for food.&lt;/i&gt; (S.) ―         -b5-  Also كَالِيٌ and ↓ <br>\
+      كُلْاَةٌ, &lt;i&gt;An earnest,&lt;/i&gt; or &lt;i&gt;money paid in advance.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37133&quot; key=&quot;اَكْلَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكْلَاُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;Longer,&lt;/i&gt; or &lt;i&gt;longest; more,&lt;/i&gt; or &lt;i&gt;most, protracted.&lt;/i&gt; (TA.) ―         -b2-  بَلَغَ اللّٰهُ بِكَ اَكْلَاَ العُمُرِ (S, A) i. e. (tropical:)  [&lt;i&gt;May God cause thee to reach,&lt;/i&gt; or &lt;i&gt;attain,&lt;/i&gt;] &lt;i&gt;the extreme,&lt;/i&gt; or &lt;i&gt;most distant, period of life!&lt;/i&gt; (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37134&quot; key=&quot;مَكْلَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَكْلَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مُكْلِيَةٌ: see كَلِيَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37135&quot; key=&quot;للْعَيْنِ فِيهَا مَكْلُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     للْعَيْنِ فِيهَا مَكْلُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;The eye is constantly fixed upon her:&lt;/i&gt; [or &lt;i&gt;has in her an object that is watched&lt;/i&gt; (&lt;i&gt;by it&lt;/i&gt;):] as though watching her because pleased with her. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37136&quot; key=&quot;مُكَلَّاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُكَلَّاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see كَلاَّءٌ.   &lt;/entryFree&gt; <br>\
+' } );

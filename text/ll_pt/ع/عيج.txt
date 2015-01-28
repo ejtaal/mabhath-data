@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>عيج</em>            1                  عيج<br>\
+<b>مَا اَعِيجُ بِهِ</b>               1     <br>\
+                     مَا اَعِيجُ بِهِ<br>\
+                     ذ<br>\
+                  , (Lth, O, K, TA,) inf. n. عَيْجٌ (Lth, O, TA *) and عُيُوجٌ (Lth, O, TA) and عُوُوجٌ [app. عُوُوجٌ], (TA,) <i>I do not regard it; do not care for it.</i> (Lth, O, TA.) One says, مَا عَاجَ بِقَوْلِهِ, inf. n. عَيْجٌ and عَيْجُوجَةٌ, <i>He did not regard his saying:</i> or <i>he did not believe it.</i> (ISd, TA.) And مَا اَعِيجُ مِنْ كَلَامِهِ بِشَىْءٍ <br>\
+                  <i>I care not for anything of his speech,</i> or <i>of what he says:</i> (Fr, ISk, S, O:) and the Benoo-Asad say, مَا اَعُوجُ بِكَلَامِهِ [expl. in art. عوج]; taking it from عُجْتُ النَّاقَةَ. (ISk, S.) ―         -b2-  مَا عِجْتُ بِهِ <br>\
+                  <i>I was not pleased, well pleased, content,</i> or <i>satisfied, with it;</i> or <i>did not approve it.</i> (IAar, S, O, K.) ―         -b3-  مَا عِجْتُ بِخَبَرِ فُلَانٍ <br>\
+                  <i>I was not satisfied in my mind by the information of such a one, and did not deem it certain.</i> (L.) ―         -b4-  مَا عِجْتُ بِالمَا=ءِ <br>\
+                  <i>I did not satisfy my thirst with the water:</i> (S, O, K, TA:) said by one who has drunk salt water: (S, O, TA:) or <i>I did not profit by it:</i> and sometimes the verb is used in this sense in an affirmative phrase. (TA.) And مَا <br>\
+                  عِجْتُ بِالدَّوَا=ءِ <br>\
+                  <i>I did not profit by the medicine.</i> (S, O, K.) And عاج, aor. يَعِيجُ, [thus used affirmatively,] <i>He profited</i> by speech, &amp;amp;c. (TA.) ―         -b5-  مَا يَعِيجُ بِقَلْبِى شَيٌ مِنْ كَلَامِكَ [app. meaning <i>Nothing of thy speech remains in my heart,</i> or <i>mind,</i> (compare عُجْتُ بِالمَكَانِ, in art. عوج,)] is a saying mentioned by IAar. (TA.) ―         -b6-  [And it seems that عاج عَلَى الشَّيِْ signifies <i>He took to, set about,</i> or <i>commenced, the thing:</i> for Sgh says that] العَيْجُ signifies الاـِقْبَالُ عَلَى الشَّيِْ. (O.)    </entryFree> <br>\
+<b>عَيْجٌ</b>               1     <br>\
+                     عَيْجٌ<br>\
+                     ذ<br>\
+                   an inf. n. of 1. (Lth, O, &amp;amp;c.) ―         -b2-  Also <i>Profit, advantage,</i> or <i>utility.</i> (TA.) ―         -b3-  And [its pl.] اَعْيَاجٌ signifies <i>Any means of satisfying a man&#39;s thirst:</i> [and ↓ <br>\
+      عِيَاجٌ seems to have a similar signification, for it is immediately added,] and one says, اللَّبَنُ عِيَاجٌ [app. meaning <i>Milk is a thing that satisfies thirst</i>]. (O.)    </entryFree> <br>\
+<b>عِيَاجٌ</b>               1     <br>\
+                     عِيَاجٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+            <div2 n=&quot;Quasi Eyd&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi عيد<br>\
+<b>عيّد</b>               1     <br>\
+                     عيّد<br>\
+                     ذ<br>\
+                  : see 2 in art. عود.    </entryFree> <br>\
+<b>عِيّدٌ</b>               1     <br>\
+                     عِيّدٌ<br>\
+                     ذ<br>\
+                  : and عِيدِيَّةٌ: and عَيْدَانٌ: and عُيَيْدٌ: see art. عود.   </entryFree> <br>\
+' } );

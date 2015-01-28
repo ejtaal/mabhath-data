@@ -1,0 +1,26 @@
+load_data( { book: 'll_nvd', text: 'صalphabetical letter<br>\
+ص<br>\
+The fourteenth letter of the alphabet; called صَادٌ.<br>\
+It is one of the letters termed مَهْمُوسَة [or nonvocal, i. e. pronounced with the breath only,<br>\
+without the voice]; and of the letters termed<br>\
+أَسَلِيَّة, as also ز and س, because proceeding from<br>\
+the tip of the tongue; (TA;) and is one of the<br>\
+letters termed مُسْتَعْلِيَة, which are obstacles to<br>\
+إِمَالَة: (M in art. صود:) it is not conjoined with<br>\
+س, nor with ز, [nor, as some say, with ج, (see<br>\
+إِجَّاصٌ,)] in any Arabic word. (TA. [See also<br>\
+art. صود.]) It is a radical, and a substitute; not<br>\
+an augmentative. (M in art. صود.) It is sometimes substituted for س; and, as MF observes,<br>\
+what Ibn-Umm-Kásim says appears to mean that<br>\
+this substitution is allowable unrestrictedly; but<br>\
+Ibn-Málik, in the Tes-heel, makes it subject to<br>\
+conditions, saying that it is allowable accord. to a<br>\
+certain dial. when the س is followed by غ or خ<br>\
+or ق or ط, even when separated therefrom by a<br>\
+letter or by two letters: MF says that the dial.<br>\
+above mentioned is that of Benu-l-&#39;Ambar,<br>\
+accord. to Sb and others; who give as exs.<br>\
+صَغِبَ for سَغِبَ, and صَخِرَ for سَخِرَ, and صَقَبٌ for<br>\
+سَقَبٌ, and صَطَعَ for سَطَعَ. (TA.)<br>\
+-A2-  [As a numeral, ص denotes Ninety.]<br>\
+' } );

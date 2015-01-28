@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>حنبل</em>            1                  حنبل<br>\
+<b>حَنْبَلٌ</b>               1     <br>\
+                     حَنْبَلٌ<br>\
+                     حنبل<br>\
+                  , [mentioned in the S and Msb in art. حبل,] applied to a man, (S, Msb,) <i>Short:</i> (S, Msb, K:) and, (K,) as some say, (Msb,) <i>large in the belly,</i> (Az, ISd, Msb, K,) <i>and short:</i> (Az, ISd, Msb:) and [in the CK “ or ”] <i>fleshy;</i> (ISd, K;) as also ↓ <br>\
+      حِنْبَالٌ. (K.)       -A2-  <i>A fur-garment:</i> (Az, S, K:) or <i>an old and worn-out fur-garment.</i> (ISd, K.) ―         -b2-  <i>An old and worn-out boot.</i> (ISd, K.)       -A3-  The <i>sea;</i> as also ↓ <br>\
+      حِنْبَالَةٌ. (ISd, K.)    </entryFree> <br>\
+<b>حِنْبَالٌ</b>               1     <br>\
+                     حِنْبَالٌ<br>\
+                     حنبال<br>\
+                  : see above. ―         -b2-  Also, (T, O, TA,) and ↓ <br>\
+      حِنْبَالَةٌ, (T, O, K,) [but the latter has a more intensive signification,] <i>Loquacious; a great talker.</i> (T, O, K.)    </entryFree> <br>\
+<b>حِنْبَالَةٌ</b>               1     <br>\
+                     حِنْبَالَةٌ<br>\
+                     حنباله<br>\
+                     حنبالة<br>\
+                  : see حَنْبَلٌ:       -A2-  and see also حِنْبَالٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,32 @@
+load_data( { book: 'll_nvd', text: 'نوق2<br>\
+نَوَّقَ<br>\
+[He broke, or trained, a camel]. (TA,<br>\
+voce مُصْعَبٌ.)<br>\
+5<br>\
+تَنَّيَقَ فِى مَطْعَمِهِ وَمَلْبَسِهِ<br>\
+, and نَنَوَّقَ, He was<br>\
+nice and luxurious (تَجَوَّدَ وَبَالَغَ) in his diet and<br>\
+his apparel. (JK, K.) Better explained voce<br>\
+تَأَنَّقَ. ―<br>\
+-b2-  تَنَوَّقَ: see تَأَنَّقَ and تَجَوَّدَ, and نِيقَةٌ.<br>\
+نِيقٌ<br>\
+quasi-inf. n. of أَنَاقَ.<br>\
+نَاقَةٌ<br>\
+: see قَلُوصٌ, and بَعِيرٌ, and بَكْرٌ. ―<br>\
+-b2-  نَاقَةُ<br>\
+الحَذَّآءِ: see رِحَالَةٌ. ―<br>\
+-b3-  أَيْنُقَاتٌ pl. of أَيْنُقٌ pl. of<br>\
+نَاقَةٌ: see a verse cited voce مُسْهَمٌ.<br>\
+نِيقَةٌ<br>\
+a subst. from ?? (IJ, S, K) as syn.<br>\
+with تَأَنَّقَ (S) [and therefore signifying Daintiness,<br>\
+nicety, exquisiteness, refinement, or scrupulous<br>\
+nicety and exactness; and the exceeding of what<br>\
+is usual in a thing: or the choosing what is<br>\
+excellent, or best, to be done, and doing admirably: or the doing firmly, solidly, soundly,<br>\
+or thoroughly, and skilfully: or] the exceeding<br>\
+what is usual in a thing, and making it good,<br>\
+or beautiful, and firm, solid, sound, or free<br>\
+from defect or imperfection. (Ham, p. 625)<br>\
+See تَأَنَّقَ.<br>\
+' } );

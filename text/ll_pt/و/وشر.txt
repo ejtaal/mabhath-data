@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>وشر</em>            1                  وشر<br>\
+<b>وَشَرَ</b>               1     <br>\
+                     وَشَرَ<br>\
+                     ذ<br>\
+                  , (S, K,) inf. n. وَشْرٌ, (TA,) <i>He sawed</i> a piece of wood with a مِيشَار; a dial. form of اَشَر; (S, K;) <i>i. q.</i> <br>\
+                  نَشَرَ. (K.) ―         -b2-  وشَرَتْ, aor. تَشِرُ, (Msb,) inf. n. وَشْرٌ, (S, K,) <i>She</i> (a woman) <i>sharpened</i> (S, Msb, K) her teeth, (S, K,) or her canine teeth, (Msb.) <i>and made</i> them <i>thin</i> [<i>and serrated</i>], (S, Msb, K,) meaning their edges: (TA:) [as also اَشَرَتْ.] See وَاشِرَةٌ.    </entryFree> <br>\
+<b>استوشرت</b>               1     <br>\
+                     استوشرت<br>\
+                     ذ<br>\
+                  <i>She</i> (a woman) <i>asked for her</i> [<i>teeth</i> or] <i>canine teeth to be sharpened and made thin</i> [<i>and serrated</i>]. (Msb.)    </entryFree> <br>\
+<b>وُشُرٌ</b>               1     <br>\
+                     وُشُرٌ<br>\
+                     ذ<br>\
+                   a dial. form of اُشُرٌ [<i>A serration and a sharpness of the extremities</i> of the teeth]. (Sgh, K.)    </entryFree> <br>\
+<b>وَاشِرَةٌ</b>               1     <br>\
+                     وَاشِرَةٌ<br>\
+                     ذ<br>\
+                   A woman <i>who sharpens and makes thin</i> [<i>and serrated</i>] <i>the</i> [<i>teeth,</i> or] <i>canine teeth.</i> (Msb.) It is said in a trad., لَعَن اللّٰهُ الوَاشِرَةَ وَالمُوتَشِرَة [<i>May God curse her who sharpens and makes thin and serrated the teeth,</i> or <i>the canine teeth, and her who orders one to do this,</i> or <i>who asks for it to be done</i>]. (S, TA.) An old woman does this in order to make herself like the young. (TA.)    </entryFree> <br>\
+<b>مُوَشَّرُ العَضُدَيْنِ</b>               1     <br>\
+                     مُوَشَّرُ العَضُدَيْنِ<br>\
+                     ذ<br>\
+                  , applied to the beetle, [meaning, <i>Having the fore-shanks formed thin, and serrated;</i>] as also without ء. (K.)    </entryFree> <br>\
+<b>مِيشَار</b>               1     <br>\
+                     مِيشَار<br>\
+                     ذ<br>\
+                  , without ء, <i>A saw;</i> a dial. form of مِيْشَارٌ. (S, * K.)    </entryFree> <br>\
+<b>مُوتَشِرَةٌ</b>               1     <br>\
+                     مُوتَشِرَةٌ<br>\
+                     ذ<br>\
+                   A woman <i>who orders one to sharpen teeth and to make them thin</i> [<i>and serrated</i>]: (L:) or <i>who asks for this to be done;</i> as also ↓ <br>\
+      مُسْتَوْشِرَةٌ: (K:) if with ء, it is from اَشْرٌ, not وَشْرٌ; and if without ء, accord. to the regular way it should be مُتَّشِرَةٌ. (K.)    </entryFree> <br>\
+<b>مُسْتَوْشرَةٌ</b>               1     <br>\
+                     مُسْتَوْشرَةٌ<br>\
+                     ذ<br>\
+                  : see مُوتَشِرَةٌ.   </entryFree> <br>\
+' } );

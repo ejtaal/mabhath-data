@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>وام</em>            1                  وام<br>\
+                     وَاََّ<br>\
+                   See art. وما.    </entryFree> <br>\
+<b>وِيَامٌ</b>               1     <br>\
+                     وِيَامٌ<br>\
+                     ذ<br>\
+                   The <i>being mutually near; mutually agreeing.</i> (T, voce تَوْءَمٌ.)    </entryFree> <br>\
+<b>التَّوْءَمَانِ</b>               1     <br>\
+                     التَّوْءَمَانِ<br>\
+                     ذ<br>\
+                  , <i>The herb so called:</i> see art. تام.   </entryFree> <br>\
+' } );

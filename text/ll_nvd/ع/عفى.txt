@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'عفى1<br>\
+عَفَيْتُ الشَّعَرَ, aor. أَعْفِيهِ, inf. n. عَفْىٌ: see 1<br>\
+(latter half) in art. عفو.<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'همت1<br>\
+همَتَ, [aor.<br>\
+هَمُتَ,] It (ثَرِيد) became hidden in<br>\
+the grease; (K;) became overspread by the<br>\
+grease. (TA.)<br>\
+4<br>\
+اهمت الكَلَامَ, and الضَّحِكَ, He made speech,<br>\
+and laughter, low; he spoke, and laughed, low.<br>\
+(K.) It is said to be from الهَمْسُ; the س<br>\
+being changed into ت. (MF.)<br>\
+' } );

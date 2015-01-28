@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>رحق</em>            1                  رحق<br>\
+<b>رُحَاقٌ</b>               1     <br>\
+                     رُحَاقٌ<br>\
+                     ذ<br>\
+                  : see what follows, in two places.    </entryFree> <br>\
+<b>رَحِيقٌ</b>               1     <br>\
+                     رَحِيقٌ<br>\
+                     ذ<br>\
+                  <i>Wine:</i> (A &#39;Obeyd, K:) or the <i>choicest of wine:</i> (S, TA:) or the <i>sweetest of wine:</i> or the <i>most excellent thereof:</i> (K:) or the <i>oldest and most excellent thereof:</i> (M, TA:) or <i>unadulterated wine:</i> (Zj, TA:) or <i>wine that is easy to swallow:</i> (TA:) or <i>pure wine:</i> or <i>clear wine:</i> as also ↓ <br>\
+      رُحَاقٌ: (K:) in all of these senses the former word has been explained as used in the Kur lxxxiii. 25: (TA:) and ↓ the latter occurs as syn. with the former in chaste poetry. (IDrd.) ―         -b2-  Also <i>A sort of perfume.</i> (K.) ―         -b3-  And <i>Honey.</i> (O, TA.) ―         -b4-  [And it is used as an epithet.] You say مِسْكٌ رَحِيقٌ (tropical:)  <i>Unadulterated musk.</i> (TA.) And حَسَبٌ رَحِيقٌ (tropical:)  <i>Pure,</i> or <i>genuine, grounds of pretension to respect.</i> (TA.)   </entryFree> <br>\
+' } );

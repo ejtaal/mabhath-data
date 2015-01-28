@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>نطو</em>            1                  نطو<br>\
+<b>اِنْتَطَتِ المَفَازَهُ</b>               1     <br>\
+                     اِنْتَطَتِ المَفَازَهُ<br>\
+                     ذ<br>\
+                  : see انتاطت, in art. نوط.    </entryFree> <br>\
+<b>نِطَا=ءٌ</b>               1     <br>\
+                     نِطَا=ءٌ<br>\
+                     ذ<br>\
+                  <i>Distance,</i> or <i>far extent;</i> syn. بُعْدٌ. (TA.) See غَايِلٌ, in art. غول.    </entryFree> <br>\
+<b>نَاطِيَةٌ</b>               1     <br>\
+                     نَاطِيَةٌ<br>\
+                     ذ<br>\
+                  <i>A female weaver:</i> pl. نَوَاطٍ. (TA in art. ذرع.)   </entryFree> <br>\
+' } );

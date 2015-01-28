@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;م&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>m</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;م&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>م</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     م<br>\
+                     ذ<br>\
+                  مَ for the interrogative مَا immediately following a prep.: see مَا in the S, K; and اـِلَى last sentence. ―         -b2-  مِ for مِنْ: see an ex., from a poet, voce رُبَّ. ―         -b3-  مُ اْللّٰهِ &amp;amp;c.: see اَيْمُنُ اللّٰهِ. ―         -b4-  مّ for اُمّ: see the latter.    </entryFree> <br>\
+<b>مَا</b>               1     <br>\
+                     مَا<br>\
+                     ذ<br>\
+                   when following كُلّ or اـِنَّ or اَيْنَ or اَىّ, if having the signification of الَّذِى, is written separately. (El-Hareeree, in De Sacy&#39;s Anthol. Gram. Ar., p. 67 of the Ar. text.) ―         -b2-  مَا added to certain adverbial nouns is not merely redundant, but gives to them a conditional and general signification; as in اَيْنَمَا <br>\
+                  <i>Wherever;</i> and حَيْثُمَا <br>\
+                  <i>Wherever,</i> and <i>whenever;</i> &amp;amp;c.: see Kur, ii. 143, 145, &amp;amp;c.: and see De Sacy&#39;s Gram., i. 537 and 538. ―         -b3-  مَا <br>\
+                  <i>While;</i> as in مَا دُمْتُ حَيًّا: and <i>as much as;</i> see Kur, lxiv. 16. ―         -b4-  بِمَا <br>\
+                  <i>Because</i> <br>\
+                  بِمَا كَانُوا يَفْسُقُونَ <br>\
+                  <i>Because they did transgress;</i> or <i>for that they did transgress.</i> (Kur.) ―         -b5-  اـِنَّكَ مَا وَخَيْرًا, for مَعَ خَيْرٍ. See خَيْرٌ. ―         -b6-  مَا is also added to a noun to denote the littleness of that which is signified by the noun; as in اَرَبٌ مَّا <br>\
+                  <i>Some little want.</i> (IAth in TA, art. ارب.) ―         -b7-  مَا in اَمَّا and اـِمَّا (of which latter اـِمَّا لَا is an instance) I have mentioned in arts. اَمَّا and اـِمَّا. ―         -b8-  بَالِغًا مَا بَلَغَ: see بَلَغَ. ―         -b9-  مَا اَنْتَ [<i>What art thou?</i>] means <i>what are thy qualities,</i> or <i>attributes?</i> (Har, p. 155.) مَا رَبُّ العَالَمِينَ, in the Kur, xxvi. 22, means اَىٌّ شَىْءٍ هُوَ. (Jel.) See also an ex. voce فَىّ. ―         -b10-  مَا لَكَ signifies اَىُّ شَىْءٍ <br>\
+                  ثَبَتَ لَكَ (IbrD) and may be rendered <i>What aileth thee?</i> ―         -b11-  شَىْءٌ مَّا <br>\
+                  <i>Some particular thing: something.</i> (See اـِيهِ.) Also, <i>Any particular thing?</i> (IbrD.) See an ex. cited voce صَبَاحٌ. ―         -b12-  فَتًى مَّا فُلَانٌ <br>\
+                  <i>An excellent youth is such a one.</i> (IbrD.) See Kull, p. 336. See also Bd, middle p. 42. ―         -b13-  مَا is sometimes put for مَا دَامَ, مَا دَامُوا, and the like; i. e. <i>As long as:</i> see an ex. voce كَاظَّ, and التُّرْكُ, and جَلَّ. ―         -b14-  الشَّكْلُ اـِلَى الطُّولِ <br>\
+                  مَا هُوَ <br>\
+                  <i>The form inclines somewhat to length;</i> agreeably with a rendering voce عُقْرٌ: see De Sacy&#39;s Gr., sec. ed., i. 543 and 539: see also شَىْءٌ مَّا above: in the Kur xxxviii. 23, ما is redundant, (Bd,) denoting vagueness and wonder, (Ksh, Bd,) or a corroborative of fewness: (Jel:) it means <i>somewhat</i> whether great or little in degree or importance.       -A2-  مَا, the negative particle, followed by a pret., often requires the latter to be rendered in English by the preterperfect: ex. مَا رَاَيْتُهُ مُذْ يَوْمَان <br>\
+                  <i>I have not seen him for two days.</i> See De Sacy&#39;s Anthol. Gram. Ar., p. 253.   </entryFree> <br>\
+' } );

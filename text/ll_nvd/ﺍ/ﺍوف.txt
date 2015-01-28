@@ -1,0 +1,53 @@
+load_data( { book: 'll_nvd', text: 'اوف1<br>\
+آفَتِ البِلَادُ, aor. تَؤُوفُ, inf. n. أَوْفٌ and<br>\
+آفَةٌ (M, TA) and أُوُوفٌ, (M,) or أُؤُوفٌ, (TA,)<br>\
+The country, or countries, had therein what is<br>\
+termed آفَة [i. e. a blight or blast or the like, or<br>\
+a pest or plague or the like]. (M, TA.) And<br>\
+إِيفَ الطَّعَامُ, (Ibn Buzurj, T,) or الزَّرْعُ, (K,) or<br>\
+البَّشْىءُ, with the verb in the pass. form, (Msb,)<br>\
+like قِيلَ, (K,) The wheat, or seed-produce, or<br>\
+thing, became affected, or smitten, with what is<br>\
+termed آفَة [i. e. a blight, blast, taint, canker, or<br>\
+the like]. (T, K, Msb.) And آفَ القَوْمُ, (M, TA,)<br>\
+and أُوفُوا, (K,) thus in a correct copy of the &#39;Eyn,<br>\
+(TA,) and إِيفُوا, (Lth, T, K,) and أُفُوا, (K, TA,)<br>\
+[in the CK اُفِّفُوا,]) and إِفُوا, (Lth, T, K, [in the<br>\
+CK اُفُوا,]) the last, namely, إِفُوا, with the ا termed<br>\
+مُمَالَة, having a quiescent letter [i. e. ى] rendered<br>\
+apparent by utterance but not by writing, between<br>\
+it and the ف, (T, K, * [in which is a strange<br>\
+omission, of the words سَاكِنٌ بَيَّنَهُ اللَّفْظُ لَا الخَطُّ<br>\
+as in the T, or سَاكِنَةٌ يُبَيِّنُهَا الخ as in the TA,]<br>\
+TA,) The people became affected, or smitten, with<br>\
+what is termed آفَة [i. e. a pest or plague or the<br>\
+like]. (Lth, T, M, K.) Lth says, in this case one<br>\
+says إِفُوا, and in one dial. إِيفُوا: (T:) in several<br>\
+copies of his book, in one dial. أُفِّفُوا, with two<br>\
+distinct ف s, of which the former is with teshdeed:<br>\
+but in some copies as mentioned just before. (Sgh,<br>\
+TA.)<br>\
+آفَةٌ [A blight, blast, taint, canker, disease, bane,<br>\
+pest, plague, or the like; any evil affection; an<br>\
+evil; a cause of mischief or harm or injury; anything that is noxious or destructive; a calamity;]<br>\
+i. q. عَاهَةٌ; (S, Msb, K;) i. e. (Msb, [in the K<br>\
+“ or,”]) an accident that mars, or corrupts, that<br>\
+which it affects, or befalls, or smites: (T, M, O,<br>\
+Msb, K:) pl. آفَاتٌ. (Msb, K.) [See 1.] One<br>\
+says, آفَهُ الظَّرْفِ الصَّلَفُ وَ آفَةُ العِلْمِ النِّسعيَانُ [The bane<br>\
+of elegance in manners, or the like, is the overpassing the due limits therein, and arrogating to<br>\
+oneself superiority therein, through pride; and<br>\
+the bane of science is forgetfulness]. (T.) And it is<br>\
+said in a trad., آفَةُ الحَدِيثِ الكَذِبُ وَ آفَةُ العِلْمِ النِّسْيَانُ<br>\
+[The bane of discourse is lying; and the bane of<br>\
+science is forgetfulness]. (TA.) And hence the<br>\
+saying, لِكُلِّ شَىْءٍ آفَةٌ وَ لِلْعِلْم آفَاتٌ [To everything<br>\
+there is a bane; and to science there are banes].<br>\
+(TA.)<br>\
+مَؤُوفٌ, (Ks, T, S, M, Msb, K,) originally<br>\
+مَأْوُوفٌ, (Msb,) and ↓ مَئِيفٌ, (Ibn-Buzurj, T, K,)<br>\
+Affected, or smitten, with what is termed آفَة;<br>\
+(T, S, M, &amp;c.;) applied to wheat, (Ks, Ibn-Buzurj, T, M,) or seed-produce, (S, K,) &amp;c.<br>\
+(Msb.)<br>\
+مَئِيفٌ: see مَؤُوفٌ.<br>\
+' } );

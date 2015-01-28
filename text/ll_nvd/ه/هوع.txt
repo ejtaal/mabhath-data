@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'هوعهَيْعُوعَةٌ<br>\
+, originally هَيْوَعُوعَةٌ: see شَاخَ.<br>\
+' } );

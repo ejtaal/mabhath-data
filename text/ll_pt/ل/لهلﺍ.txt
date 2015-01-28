@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لهلا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لهلا<br>\
+&lt;entryFree id=&quot;n38061&quot; key=&quot;تَلَهْلَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;Q&quot;&gt;       <br>\
+                     &lt;itype&gt;Q. 2&lt;/itype&gt;        <br>\
+                     تَلَهْلَاَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He desisted through timidity, and was cowardly.&lt;/i&gt; (T, K. Mentioned in the T among the class of quinqueliterals, TA.)   &lt;/entryFree&gt; <br>\
+            &lt;div2 n=&quot;lhm lhn lhw lw&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;&gt;<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لهم لهن لهو لو<br>\
+               &lt;entryFree&gt;See Supplement &lt;pb n=&quot;2677&quot; TEIform=&quot;pb&quot;/&gt;   <br>\
+' } );

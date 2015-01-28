@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>بهى</em>            1                  بهى<br>\
+<b>بَهَىَ</b>               1     <br>\
+                     بَهَىَ<br>\
+                     بهى<br>\
+                     بهي<br>\
+                  , as an intrans. v.: and بَهَيْتُهُ: see art. بهو.   </entryFree> <br>\
+' } );

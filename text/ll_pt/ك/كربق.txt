@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كربق</em>            1                  كربق<br>\
+<b>كُرْبَقٌ</b>               1     <br>\
+                     كُرْبَقٌ<br>\
+                     ذ<br>\
+                  <i>The shop of a vintner:</i> syn. حَانُوت. As, in TA, voce خص.)    <br>\
+' } );

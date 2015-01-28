@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضهيا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضهيا<br>\
+                     &lt;itype&gt;Q. 1&lt;/itype&gt;        <br>\
+                     ضَهْيَاَ<br>\
+                  &lt;/form&gt; [Accord. to the O and K, Q. Q. 1, being mentioned therein in art. ضها.] ضَهْيَاَ اَمْرَهُ <br>\
+                  &lt;i&gt;He fell short of doing what he ought to have done in his affair,&lt;/i&gt; (مَرَّضَهُ, O, K,) &lt;i&gt;and did not decide it,&lt;/i&gt; (لَمْ يَصْرِمْهُ, O,) or &lt;i&gt;and did not perform it firmly,&lt;/i&gt; or &lt;i&gt;soundly:&lt;/i&gt; (K:) like رَهْيَاَ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26124&quot; key=&quot;ضَهْيَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَهْيَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, of the measure فَعْلَلٌ, or, as some say, فَعْيَلٌ; if of the latter, [said to be] the only instance of this measure in the language; ضَهْيَدٌ <br>\
+                  &lt;pb n=&quot;1809&quot; TEIform=&quot;pb&quot;/&gt; being a foreign proper name; (TA;) or, مَرْيَمُ being a foreign proper name; (TA;) or, accord. to Sb, the hemzeh in ضَهْيَاٌ, which is with tenween, is augmentative, because it is syn. with ضَهْيَا=ءُ, which is with the long ا and imperfectly decl., for the ى cannot be augmentative and the hemzeh radical in the latter; (MF and TA in art. ضهى;) [a word like ضَهْيًا and ضَهْيَا=ءُ (which see in art. ضهى) in most, or a some seem to say in all, of its meanings;] &lt;i&gt;A certain tree, resembling the&lt;/i&gt; <br>\
+                  سَيَال, (AZ, O, K,) &lt;i&gt;each of which has its fruit in a&lt;/i&gt; <br>\
+                  سِنْفَة [or &lt;i&gt;pod&lt;/i&gt;]; &lt;i&gt;it has weak thorns, and grows in the valleys and on the mountains:&lt;/i&gt; (AZ, O:) Ed-Deenawaree [i. e. AHn] says, on the authority of some one or more of the Arabs of the desert, of El-Azd, that the ضهيا is &lt;i&gt;a great tree of the kind called&lt;/i&gt; <br>\
+                  عِضَاه, &lt;i&gt;having a&lt;/i&gt; <br>\
+                  بَرَمَة [q. v.] &lt;i&gt;and a pod&lt;/i&gt; (عُلَّّفَة) [&lt;i&gt;which succeeds the&lt;/i&gt; <br>\
+                  بَرَمَة], &lt;i&gt;and many thorns; its pods&lt;/i&gt; (عُلَّف) &lt;i&gt;are intensely red, and its leaves are like those of the&lt;/i&gt; [&lt;i&gt;species of acacia called&lt;/i&gt;] سَمُر. (O.)       -A2-  Also A woman &lt;i&gt;that does not menstruate:&lt;/i&gt; and &lt;i&gt;that has neither milk nor breast:&lt;/i&gt; as also ↓ <br>\
+      ضَهْيَاَةٌ: (K:) or the latter is an epithet applied to a woman in these two senses: (O: [in which the former word, without ة, is not mentioned:]) Seer says, in his Expos. of “ the Book ” of Sb, that ضَهْيَاٌ, like ضَهْيَا=ءُ [which belongs to art. ضهى], is a subst. as well as an epithet, signifying &lt;i&gt;a woman whose breast has not grown forth:&lt;/i&gt; and &lt;i&gt;one who has not menstruated:&lt;/i&gt; ―         -b2-  and also (assumed tropical:)  &lt;i&gt;A land that has not given growth to anything:&lt;/i&gt; (MF, TA:) or ↓ <br>\
+      ضَهْيَاَةٌ signifies as above: and also (assumed tropical:)  a desert (فَلَاةٌ) &lt;i&gt;having in it no water:&lt;/i&gt; (O, K, TA:) or &lt;i&gt;that does not give growth to anything;&lt;/i&gt; app. because it has no water. (TA.) [Accord. to those who hold the ى to be augmentative,] a woman is thus termed because she resembles men (لِاَنَّهَا ضَاهَاَتِ <br>\
+                  الرِّجَالَ). (O, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26125&quot; key=&quot;ضَهْيَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَهْيَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph, in two places.   &lt;/entryFree&gt; <br>\
+' } );

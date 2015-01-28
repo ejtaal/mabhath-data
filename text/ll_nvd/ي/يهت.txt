@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'يهت4<br>\
+ايهت (as also اوهت, TA) It (flesh-meat,<br>\
+K, or a wound, TA) became stinking. (AZ, K.)<br>\
+' } );

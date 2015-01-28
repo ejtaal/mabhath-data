@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'لج1<br>\
+لَج فِى الأَمْرِ He kept, attended, or applied<br>\
+himself, constantly, perseveringly, or assiduously,<br>\
+to the thing; he was persevering, or assiduous,<br>\
+in the affair. (Msb.)<br>\
+' } );

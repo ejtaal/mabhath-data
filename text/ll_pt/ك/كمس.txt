@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كمس</em>            1                  كمس<br>\
+<b>كَيْمُوسٌ</b>               1     <br>\
+                     كَيْمُوسٌ<br>\
+                     ذ<br>\
+                   [<i>Chyme;</i> from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>χυμός</orth>;] a term applied by the physicians to the <i>food when it is digested in the stomach before it departs thence and becomes blood;</i> also called كَيْلُوسٌ: (L, TA:) [but the latter word more properly signifies “ chyle, ” and in this sense is used by modern physicians:] <i>a certain mixture</i> or <i>humour</i> (خِلْطٌ): a Syriac word: (K:) [or Greek, as mentioned above:] Az says, that كَيْمُوسَاتٌ, as used by the physicians, signifies the <i>four humours;</i> and is not Arabic, but ancient Greek. (TA.)    </entryFree> <br>\
+<b>كَيْمُوسِيَّةٌ</b>               1     <br>\
+                     كَيْمُوسِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>Want,</i> or <i>requirement, of food,</i> or <i>nourishment.</i> Occurring in a trad. of Kuss, where it is said to be not an attribute of God. (ISd, TA.)   </entryFree> <br>\
+' } );

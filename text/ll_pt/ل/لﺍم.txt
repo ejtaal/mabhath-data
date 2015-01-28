@@ -1,0 +1,59 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لام&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لام<br>\
+&lt;entryFree id=&quot;n43192&quot; key=&quot;لَوُمَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     لَوُمَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He was base, base-born, low, ignoble, ungenerous, mean, sordid;&lt;/i&gt; (S:) contr. of كَرُمَ. (K.) See لَيِيمٌ. ―         -b2-  لَاَمَ: see also ظَاهَرَ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43193&quot; key=&quot;لَا=ءَمْتُ بَيْنَ القَوْمِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     لَا=ءَمْتُ بَيْنَ القَوْمِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. مُلَا=ءَمَةٌ, &lt;i&gt;I reconciled the people,&lt;/i&gt; (S, Msb,) &lt;i&gt;and brought them together.&lt;/i&gt; (S.) ―         -b2-  لَا=ءَمَهُ <br>\
+                  &lt;i&gt;He was suited to him&lt;/i&gt; as a companion: see 5 in art. زوى. ―         -b3-  لَا=ءَمَهُ <br>\
+                  &lt;i&gt;It&lt;/i&gt; (food, T, and an affair, M) &lt;i&gt;suited him.&lt;/i&gt; (T, M.) ―         -b4-  And &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  لَا زَمَهُ. (T.) ―         -b5-  And &lt;i&gt;It coalesced,&lt;/i&gt; or &lt;i&gt;united, with it.&lt;/i&gt;    <br>\
+&lt;entryFree id=&quot;n43194&quot; key=&quot;اِلْتَاَمَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِلْتَاَمَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a wound, and a crack) &lt;i&gt;became coalesced, consolidated, closed,&lt;/i&gt; or &lt;i&gt;closed up:&lt;/i&gt; (S:) &lt;i&gt;it&lt;/i&gt; (a hole, or rent,) &lt;i&gt;became repaired.&lt;/i&gt; (Msb.) ―         -b2-  اِلْتَاَمَا <br>\
+                  &lt;i&gt;They&lt;/i&gt; (two things) &lt;i&gt;agreed together,&lt;/i&gt; or &lt;i&gt;became consistent.&lt;/i&gt; (S, Msb.) ―         -b3-  اِلْتَاَمَ <br>\
+                  &lt;i&gt;It drew, and stuck, together; coalesced;&lt;/i&gt; or &lt;i&gt;consolidated.&lt;/i&gt; (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43195&quot; key=&quot;لُوْمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لُوْمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see لُوَمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43196&quot; key=&quot;لُوَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لُوَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) or ↓ <br>\
+      لُوْمَةٌ, (M, IB,) The &lt;i&gt;whole apparatus,&lt;/i&gt; or &lt;i&gt;gear, of the plough:&lt;/i&gt; (AHn, S, M, K:) or &lt;i&gt;its iron&lt;/i&gt; [or &lt;i&gt;share&lt;/i&gt;] &lt;i&gt;and its wooden parts:&lt;/i&gt; (M:) or the سِنَّة [or &lt;i&gt;ploughshare&lt;/i&gt;] &lt;i&gt;with which the earth is ploughed up, and which, when upon the plough, is termed&lt;/i&gt; <br>\
+                  عِيَانٌ, pl. عين: (IAar, TA:) the سِكَّة. (IB, TA.) See عِيَانٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43197&quot; key=&quot;رَجُلٌ جَمِيعُ اللَّاْمَةِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَجُلٌ جَمِيعُ اللَّاْمَةِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see جَمِيعٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43198&quot; key=&quot;لَيِيمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَيِيمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Mean; ungenerous; sordid; ignoble; base; base-born; contr. of&lt;/i&gt; <br>\
+                  كَرِيمٌ. (K, &amp;amp;c.) See لَوُمَ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43199&quot; key=&quot;اَلَايِمُ الاُمُورِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلَايِمُ الاُمُورِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَدَاقّ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43200&quot; key=&quot;اَلْاَمُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلْاَمُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Baser,&lt;/i&gt; and &lt;i&gt;basest;&lt;/i&gt; &amp;amp;c.: see an ex. voce زَكْمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43201&quot; key=&quot;المُلَا=ءَمَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المُلَا=ءَمَةُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  الاِجْتِمَاعُ: see اِسْتَلَمَ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43202&quot; key=&quot;رِيشٌ مُتَلَايِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِيشٌ مُتَلَايِمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt;. لُوَامٌ. See لَفَتَ.   &lt;/entryFree&gt; <br>\
+' } );

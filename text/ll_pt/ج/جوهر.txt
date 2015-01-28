@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>جوهر</em>            1                  جوهر<br>\
+<b>جَوْهَرٌ</b>               1     <br>\
+                     جَوْهَرٌ<br>\
+                     جوهر<br>\
+                  : see art. جهر.    </entryFree> <br>\
+<b>جَوْهَرِىٌّ</b>               1     <br>\
+                     جَوْهَرِىٌّ<br>\
+                     جوهر<br>\
+                     جوهرى<br>\
+                     جوهري<br>\
+                     جوهريي<br>\
+                  : see art. جهر.   </entryFree> <br>\
+' } );

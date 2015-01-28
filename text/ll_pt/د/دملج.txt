@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>دملج</em>            1                  دملج<br>\
+<b>دَمْلَجَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     دَمْلَجَ<br>\
+                     دملج<br>\
+                  , (JM, TA,) inf. n. دَمْلَجَةٌ and دِمْلَاجٌ, (K, TA,) <i>He made,</i> or <i>wrought,</i> a thing, (K, JM, TA,) as, for instance, a bracelet, (TA,) <i>evenly</i> or <i>equably,</i> or <i>justly</i> or <i>properly,</i> (K, JM, TA,) <i>and well.</i> (JM, TA.) [And <i>He made</i> a thing <i>round and smooth;</i> like دَمْلَقَهُ: see the pass. part. n., below.] It is said in a trad., دَمْلَجَ <br>\
+                  اْللّٰهُ لُوْلُوَهُ [<i>God has made his pearls round and smooth</i>]. (TA.) Accord. to Lh, دُمْلِجَ جِسْمُهُ signifies <i>His body was,</i> or <i>became, rounded,</i> or <i>compacted,</i> (طُوِىَ,) <i>so that his,</i> or <i>its, flesh was firm,</i> or <i>hard.</i> (TA.)    </entryFree> <br>\
+<b>دُمْلَجٌ</b>               1     <br>\
+                     دُمْلَجٌ<br>\
+                     دملج<br>\
+                   and دُمْلُجٌ: see the next paragraph, in three places.    </entryFree> <br>\
+<b>دُمْلُوجٌ</b>               1     <br>\
+                     دُمْلُوجٌ<br>\
+                     دملوج<br>\
+                   (S, Mgh, K) and ↓ <br>\
+      دُمْلُجٌ (S, K) and ↓ <br>\
+      دُمْلَجٌ (K) <i>An armlet; a bracelet for the arm;</i> syn. مِعْضَدٌ; (S, Mgh, K;) i. e. the <i>ornament thus called:</i> (Mgh, TA:) pl. of the first دَمَالِيجُ; (S;) [and of the second and third دَمَالِجُ.] You say, اَلْقَى عَلَى دَمَالِيجَهُ [<i>He put</i> (lit. <i>cast</i>) <i>upon me his armlets</i>]. (S.) ―         -b2-  Also the first and ↓ second <i>A smooth stone.</i> (TA.) ―         -b3-  And [the pl.] دَمَالِيجُ <br>\
+                  <i>Hard lands:</i> (K:) so in the L and the Tekmileh. (TA.)    </entryFree> <br>\
+<b>مُدَمْلَجٌ</b>               1     <br>\
+                     مُدَمْلَجٌ<br>\
+                     مدملج<br>\
+                  <i>i. q.</i> <br>\
+                  مُدْرَجٌ اَمْلَسُ [<i>Round,</i> as though rolled like a scroll, <i>and smooth</i>]: (S, K:) and a stone, and a solid hoof, <i>smooth and round;</i> as also مُدَمْلَقُ and مُدَمْلَكٌ. (S in art. دملق.) A rájiz says, (S, TA,) namely, El-&#39;Ajjáj, (so in a copy of the S,) <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كَاَنَّ مِنْهَا القَصَبَ المُدَمْلَجَا<br>\
+                     <L><br>\
+                        سُوقٌ مِنَ البَرْدِىِّ مَا تَعَوَّجَا<br>\
+                  </quote> [app. describing a certain animal, or animals, and meaning <i>As though her,</i> or <i>their, round and smooth leg-bones were stalks of the papyrus, not crooked</i>]. (S, TA.)   </entryFree> <br>\
+' } );

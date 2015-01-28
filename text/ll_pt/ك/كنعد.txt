@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كنعد</em>            1                  كنعد<br>\
+<b>كَنْعَدٌ</b>               1     <br>\
+                     كَنْعَدٌ<br>\
+                     ذ<br>\
+                  <i>A kind of sea-fish;</i> (S, L, K;) as also كَنْعَتٌ, in which the ت seems to be a substitute for the د. (L.)   </entryFree> <br>\
+' } );

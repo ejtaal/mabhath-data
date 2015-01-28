@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'قحوأُقْحُوَانٌ<br>\
+: see بَابُونَجٌ. See also a verse cited<br>\
+voce تَنُّومٌ.<br>\
+' } );

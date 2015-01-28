@@ -1,0 +1,66 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ردا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ردا<br>\
+&lt;entryFree id=&quot;n15211&quot; key=&quot;رَدَاَ الحَايِطَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     رَدَاَ الحَايِطَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَدَاَ<br>\
+                  &lt;/form&gt;, inf. n. رَدْءٌ,] &lt;i&gt;He supported, propped,&lt;/i&gt; or &lt;i&gt;stayed, the wall,&lt;/i&gt; (ISh, T, K,) &lt;i&gt;by means of a piece of timber&lt;/i&gt; or &lt;i&gt;wood,&lt;/i&gt; or &lt;i&gt;a buttress&lt;/i&gt; or &lt;i&gt;the like, to prevent its falling;&lt;/i&gt; (ISh, T;) as also ↓ <br>\
+      اراداهُ: (Yoo, T, K:) or رَدَاَ الحَايِطَ <br>\
+                  بِبِنَا=ءٍ [&lt;i&gt;he supported the wall by a structure;&lt;/i&gt;] &lt;i&gt;he attached a structure to the wall.&lt;/i&gt; (M.) ―         -b2-  Hence, (T,) رَدَاَهُ بِهِ <br>\
+                  &lt;i&gt;He strengthened and supported him,&lt;/i&gt; or &lt;i&gt;it, by means of it,&lt;/i&gt; (Lth, T, M, * K,) namely, a person by a thing, (Lth, T,) or a thing by a thing, (M,) &lt;i&gt;like as one strengthens and supports a wall by means of a structure which he attaches thereto;&lt;/i&gt; (T;) as also ↓ <br>\
+      اراداهُ. (T, * K.) And رَدَاَهُ, (Mgh, TA,) inf. n. رَدْءٌ, (Mgh,) &lt;i&gt;He helped, aided,&lt;/i&gt; or &lt;i&gt;assisted, him;&lt;/i&gt; (Mgh, TA;) as also ↓ <br>\
+      ارداهُ: (T, S, M, Msb, K:) and رَدَاْتُهُ and ↓ <br>\
+      اَرْدَاْتُهُ, (T,) or بِنَفْسِى ↓ <br>\
+      اَرْدَاْتُهُ, (S,) &lt;i&gt;I was,&lt;/i&gt; or &lt;i&gt;became, a helper, an aider,&lt;/i&gt; or &lt;i&gt;an assistant, to him.&lt;/i&gt; (T, S.) ―         -b3-  Hence also, (i. e., from ردا الحَايط,) رَدَاَ الاـِبِلَ (tropical:)  &lt;i&gt;He took good care of the camels,&lt;/i&gt; (A, K, TA,) &lt;i&gt;in tending and pasturing them.&lt;/i&gt; (A, TA.) ―         -b4-  And رَدَاَهُ بِحَجَرٍ <br>\
+                  &lt;i&gt;He cast a stone at him;&lt;/i&gt; (M, K;) like [رَدَاهُ, mentioned in art. ردى, and] دَرَاَهُ. (M.)       -A2-  رَدُوَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَدُاَ<br>\
+                  &lt;/form&gt;, inf. n. رَدَا=ءَةٌ, (T, S, M, K, &amp;amp;c.,) for which one should not say رَدَاوَةٌ; (T;) and Th mentions also رَدَاَ and رَدِىءَ as syn. with رَدُوَ, but these are strange; and more strange is what is said in the Msb, namely, رَدَا aor. يَرْدُو, part. n. رَدِىٌّ, [as a dial. var.,] asserted by IDrst, in the Expos. of the Fs, to be erroneous, and peculiar to the vulgar; (MF, TA;) &lt;i&gt;It&lt;/i&gt; (a thing, T, S, M, Msb,) [and &lt;i&gt;he,&lt;/i&gt; see رَدِىْءٌ, its part. n.,] &lt;i&gt;was, or became, bad, corrupt, vitious, depraved,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; (S, M, Msb, * K;) or &lt;i&gt;of no rank,&lt;/i&gt; or &lt;i&gt;estimation; low, ignoble, vile,&lt;/i&gt; or &lt;i&gt;mean;&lt;/i&gt; (Msb;) [&lt;i&gt;disapproved, disliked, hated,&lt;/i&gt; or &lt;i&gt;abominable:&lt;/i&gt; (see رَدِىْءٌ:)] and &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, weak, and impotent, so as to be in want&lt;/i&gt; or &lt;i&gt;need.&lt;/i&gt; (TA from the Expositions of the Fs.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     رَدَّاَ<br>\
+                  &lt;/form&gt; see the next paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15212&quot; key=&quot;ارداهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ارداهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, in five places. ―         -b2-  Also &lt;i&gt;He settled, established,&lt;/i&gt; or &lt;i&gt;confirmed, him,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt; (K, TA,) &lt;i&gt;in his,&lt;/i&gt; or &lt;i&gt;its, state.&lt;/i&gt; (TA.) ―         -b3-  &lt;i&gt;He stilled,&lt;/i&gt; or &lt;i&gt;quieted, him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (K.) ―         -b4-  And &lt;i&gt;He let it down;&lt;/i&gt; namely, a veil, or curtain. (K.)       -A2-  Also &lt;i&gt;He rendered it bad, corrupt, vitious, depraved,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; (S, K;) namely, a thing; said of a man; (S;) [and ↓ <br>\
+      ردّا=هُ is used in the same sense: (see 1 in art. جشب:)] &lt;i&gt;he made,&lt;/i&gt; or &lt;i&gt;asserted,&lt;/i&gt; or &lt;i&gt;held,&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;1065&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;it&lt;/i&gt; (a thing) &lt;i&gt;to be&lt;/i&gt; <br>\
+                  رَدِىء [or &lt;i&gt;bad,&lt;/i&gt; &amp;amp;c.]. (TA.) ―         -b2-  And اردا signifies &lt;i&gt;He did a thing,&lt;/i&gt; or &lt;i&gt;a deed, that was&lt;/i&gt; <br>\
+                  رَدِىْء [or &lt;i&gt;bad,&lt;/i&gt; &amp;amp;c.]: or &lt;i&gt;he met with,&lt;/i&gt; or &lt;i&gt;experienced,&lt;/i&gt; (اَصَابَ,) &lt;i&gt;a thing that was&lt;/i&gt; <br>\
+                  رَدِىْء. (M, K.)       -A3-  اردا عَلَى غَيْرِهِ <br>\
+                  &lt;i&gt;It exceeded another thing;&lt;/i&gt; as also اَرْدَى: (M:) [or the latter only:] accord. to IAar, one says اردا عَلَى السِّتِّينَ, with ء, (M,) and, accord. to Lth, على الخَمْسِينَ, (TA,) and, [accord. to F,] على مِايَةٍ, (K,) meaning &lt;i&gt;He exceeded&lt;/i&gt; [&lt;i&gt;the&lt;/i&gt; age of &lt;i&gt;sixty,&lt;/i&gt; and &lt;i&gt;fifty,&lt;/i&gt; and &lt;i&gt;a hundred&lt;/i&gt;]: (M, K, TA:) but Az says that اردا, with ء, [in these phrases,] though authorized by Lth, is wrong; (TA;) and accord. to A&#39; Obeyed, one says اَرْدَيْتُ. (M. [It is added, however, in the M, that اردا may perhaps be also used in poetry in the same sense without the prep. على.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15213&quot; key=&quot;تَرَدَّوُوا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَرَدَّوُوا<br>\
+                     ذ<br>\
+                  &lt;i&gt;They helped, aided, or assisted, one another.&lt;/i&gt; (Lth, M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15214&quot; key=&quot;رِدْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِدْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A buttress,&lt;/i&gt; or &lt;i&gt;the like, by means of which a wall is strengthened and supported.&lt;/i&gt; (T.) [This is the primary signification. See also رِدٌّ, in art. رد.] ―         -b2-  [Or] the primary meaning is &lt;i&gt;A thing by means of which one is helped, aided,&lt;/i&gt; or &lt;i&gt;assisted;&lt;/i&gt; such as the دِفْء [or thing by which one is rendered warm, or protected from the cold wind]. (Bd in xxviii. 34; where it has the meaning next following, as is said in the T and S.) ―         -b3-  &lt;i&gt;A helper, an aider,&lt;/i&gt; or &lt;i&gt;an assistant.&lt;/i&gt; (T, S, M, Mgh, Msb, K.) You say, فُلَانٌ رِدْءٌ لِفُلَانٍ <br>\
+                  &lt;i&gt;Such a one is an aider and a strengthener to such a one.&lt;/i&gt; (T.) ―         -b4-  And &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَادَّةٌ [app. as meaning &lt;i&gt;An accession;&lt;/i&gt; or &lt;i&gt;a thing that is added, whatever it be, to another thing&lt;/i&gt;]. (M, K.) ―         -b5-  And (tropical:)  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  عِدْلٌ [i. e. &lt;i&gt;A burden that balances another burden on the other side of a beast&lt;/i&gt;]; (T, TA;) so called because one such ردء supports another: (TA:) and &lt;i&gt;a heavy&lt;/i&gt; <br>\
+                  عِدْل: (T, K, TA:) pl. اَرْدَا=ءٌ. (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15215&quot; key=&quot;رِدَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِدَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. ردى.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15216&quot; key=&quot;رَدِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَدِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, applied to a thing, (T, S, M, Msb,) and to a man, (M, TA,) &lt;i&gt;Bad, corrupt, vitious, depraved,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; (S, M, Msb, * K;) &lt;i&gt;of no rank,&lt;/i&gt; or &lt;i&gt;estimation; low, ignoble, vile,&lt;/i&gt; or &lt;i&gt;mean;&lt;/i&gt; (Msb;) &lt;i&gt;disapproved, disliked, hated,&lt;/i&gt; or &lt;i&gt;abominable:&lt;/i&gt; and &lt;i&gt;weak, and impotent, so as to be in want&lt;/i&gt; or &lt;i&gt;need:&lt;/i&gt; and accord to the Msb, one says also رَدِىٌّ; [there said to be a dial. var.;] but this is asserted by IDrst, in the Expos. of the Fs, to be erroneous, and peculiar to the vulgar: (TA:) pl. اَرْدِيَا=ءُ, with two hemzehs, (M, K,) applied to a people, or company of men. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15217&quot; key=&quot;اَرْدَاُ&quot; type=&quot;main&quot;&gt;               1[     <br>\
+                     اَرْدَاُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Worse,&lt;/i&gt; and &lt;i&gt;worst; more,&lt;/i&gt; and &lt;i&gt;most, corrupt&lt;/i&gt; &amp;amp;c.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15218&quot; key=&quot;مِرْدَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِرْدَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A stone which a strong man can hardly lift with both his hands;&lt;/i&gt; (TA;) as also مِرْدَاةٌ. (ISh, TA in art. ردى.)   &lt;/entryFree&gt; <br>\
+' } );

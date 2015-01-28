@@ -1,0 +1,51 @@
+load_data( { book: 'll_nvd', text: 'بأر1<br>\
+بَأَرَ, (S, M, K,) aor.<br>\
+بَاَ^َ, (M, K,) He sunk, or<br>\
+dug, (S, M, K,) a well; (S, M;) as also ↓ ابتأر.<br>\
+(M, K.) ―<br>\
+-b2-  Also, aor. as above, inf. n. بَأْرٌ, He<br>\
+dug a [hollow such as is termed] بُؤْرَة, (AZ, S, M,)<br>\
+in which to cook. (AZ, S.) ―<br>\
+-b3-  Also, (T, S, M,<br>\
+K,) aor. as above, (M, K,) and so the inf. n.;<br>\
+(M;) and ↓ ابتأر; (T, S, M, K;) He hid, or concealed, a thing: (T, M, K:) and he stored it, or<br>\
+laid it up, for a time of need. (T, S, K.) Hence<br>\
+a hollow dug in the ground is termed بُؤْرَةٌ. (T.)<br>\
+―<br>\
+-b4-  You say also, خَيْرًا ↓ ابتأر, (T, M, K,) and بَأَرَهُ,<br>\
+(M, K,) He did good beforehand: (T, M, K:) or,<br>\
+accord. to some, he, as it were, did good beforehand<br>\
+for himself, having laid it up, or concealed it, for<br>\
+himself: (T, TA:) so says El-Umawee: or he<br>\
+laid up for himself in store concealed good: (TA:)<br>\
+or he did good concealedly: (M, K:) and ائتبر<br>\
+signifies the same. (T, TA.)<br>\
+4<br>\
+ابأر فُلَانًا He made, or he assigned, or appointed, (جَعَلَ,) for such a one, a well. (K.)<br>\
+8<br>\
+إِبْتَاَ^َ see 1, in three places.<br>\
+بِئْرٌ (T, S, M, &amp;c.) and بِيرٌ, (Msb,) of the fem.<br>\
+gender, (S, M, Msb, K,) and ↓ بِئْرَةٌ, (M,) A well:<br>\
+(M, TA:) pl. (of pauc., S, Msb) أَبْؤُرٌ (S, M,<br>\
+Msb, K) and (by transposition, Fr, Msb) آبُرٌ (Fr,<br>\
+Msb, K) and أَبْآرٌ and (by transposition, Yaakoob,<br>\
+T, S, M) آبَارٌ and (of mult., S, Msb) بِئَارٌ; (T, S,<br>\
+M, Msb, K;) and pl. of pauc. [of بِيرٌ] أَبْيَارٌ.<br>\
+(Msb.) The dim. is ↓ بُؤَيْرَةٌ. (Msb.)<br>\
+بُؤْرَةٌ A hollow, or hole, dug in the ground, (AZ,<br>\
+S, M, K,) in which to cook; also called إِرَةٌ: (AZ,<br>\
+S:) or (M) a place in which fire is lighted. (M,<br>\
+K.) [See 1.]<br>\
+-A2-  See also بَئِيرَةٌ.<br>\
+بِئْرةٌ: see بئْرٌ:<br>\
+-A2-  and see بَئِيرَةٌ.<br>\
+بُؤَيْرَةٌ: see بِئْرٌ.<br>\
+بَئِيرَةٌ (T, S, M, K) and ↓ بِئْرَةٌ and ↓ بُؤْرَةٌ (M, K)<br>\
+A thing stored, or laid up, for a time of need.<br>\
+(T, S, M, K.)<br>\
+بَأّرٌ, (T, TA, and so in some copies of the K,) or<br>\
+أَبَّارٌ, (as in other copies of the K and so in the<br>\
+CK,) the latter formed by transposition, and the<br>\
+former [said to have been] not heard, (M,) A<br>\
+well-sinker, or well-digger. (T, M, K.)<br>\
+' } );

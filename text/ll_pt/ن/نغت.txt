@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>نغت</em>            1                  نغت<br>\
+<b>نَغَتَ</b>               1     <br>\
+                     نَغَتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَغَتَ<br>\
+                  , inf. n. نَغْتٌ, He <i>pulled</i> hair; syn. جَذَبَ. (K.)   </entryFree> <br>\
+' } );

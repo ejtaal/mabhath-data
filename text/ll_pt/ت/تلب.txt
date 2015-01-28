@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>تلب</em>            1                  تلب<br>\
+<b>اِتْلَاَبَّ</b>               1     <br>\
+                     <i>Q. Q. 4</i>        <br>\
+                     اِتْلَاَبَّ<br>\
+                     ذ<br>\
+                  , (T, S, M, &amp;amp;c.,) inf. n. اِتْلِيْبَابٌ, (S, K,) <i>It</i> (a thing, M, or an affair, or a case, S, K, or a road, A) <i>was,</i> or <i>became, uniform</i> or <i>undeviating,</i> (A,) <i>right,</i> or <i>rightly directed</i> or <i>ordered:</i> (S, M, A, K:) or (M) <i>it</i> (a thing, M, or a road, S, K) <i>was,</i> or <i>became, extended,</i> (Fr, T, S, M, A, K,) and <i>right, direct, even,</i> or <i>uniform:</i> (S, M, K: *) or (M) <i>it</i> (a thing, M) <i>was,</i> or <i>became, set up,</i> or <i>erect.</i> (M, A, K.) You say, مَرُّوا فَاْنْلَاَبَّ بِهِمُ الطَّرِيقُ [<i>They went along, and the road was,</i> or <i>became, uniform,</i> &amp;amp;c., <i>with them;</i> i. e., <i>their road was,</i> or <i>became, uniform,</i> &amp;amp;c.]. (A.) And اتلابّ اَمْرُهُمْ [<i>Their affair,</i> or <i>case, was,</i> or <i>became, right,</i> or <i>rightly directed</i> or <i>ordered</i>]. (A.) ―         -b2-  <i>He</i> (an ass) <i>raised his breast and head.</i> (S, K.) ―         -b3-  This verb and its derivatives are mentioned in the [T and] S and K in the present art.; but they are held by [ISd and] IB to be radically quadriliteral. (TA.)    </entryFree> <br>\
+<b>تَلْبٌ</b>               1     <br>\
+                     تَلْبٌ<br>\
+                     لاب<br>\
+                     لب<br>\
+                     لبى<br>\
+                     تلب<br>\
+                  <i>Loss;</i> or the <i>state of being lost;</i> or <i>perdition.</i> (A, K.) One says, تَبًّا لَهُ تَلْبًا, (Lth, T,) or تَبًّا لَهُ وَتَلْبًا [which may be rendered May God decree <i>loss and perdition to him</i>]. (K.)    </entryFree> <br>\
+<b>تُلَاْبِيبَةٌ</b>               1     <br>\
+                     تُلَاْبِيبَةٌ<br>\
+                     ذ<br>\
+                   a subst. (S, M, K) from اِتْلَاَبَّ; (Fr, T, S, M, K;) [signifying The <i>state of being uniform</i> or <i>undeviating, right,</i> &amp;amp;c.;] like طُمَاْنِينَةٌ [from اِطْمَاَنَّ]. (TA.)    </entryFree> <br>\
+<b>تَوْلَبٌ</b>               1     <br>\
+                     تَوْلَبٌ<br>\
+                     تولب<br>\
+                  , perfectly decl. [when used as a proper name as well as when used as an appellative], because it is of the measure فَوْعَلٌ; (Sb, S;) for we judge its ت to be a radical, and its و to be augmentative, because فَوْعَل is more common [as the measure of a noun] than تَفْعَل; (M;) but accord. to Suh, the ت is a substitute for و, and, if so, it should be mentioned in art. ولب; (TA;) <i>A young ass;</i> syn. جَحْشٌ: (S, K:) or the <i>foal of a wild ass, when he has completed a year.</i> (M.) And اُمُّ تَوْلَب is an appellation given to <i>The she-ass.</i> (S.) ―         -b2-  The former is sometimes metaphorically applied to (tropical:)  <i>A</i> [<i>young</i>] <i>man:</i> (M:) or <i>a boy.</i> (S.)    </entryFree> <br>\
+<b>مُتْلَيِبٌّ</b>               1     <br>\
+                     مُتْلَيِبٌّ<br>\
+                     ذ<br>\
+                   [<i>Uniform</i> or <i>undeviating,</i>] <i>right,</i> or <i>rightly directed</i> or <i>ordered</i> [&amp;amp;c.: see the verb]; as also مُسْلَحِبٌّ. (Asudot;, T) Also applied to a rule, (A, TA,) as meaning <i>Uniform, undeviating,</i> or <i>of general application; uniformly,</i> or <i>constantly, obtaining.</i> (TA.)    </entryFree> <br>\
+<b>مَتَالِبُ</b>               1     <br>\
+                     مَتَالِبُ<br>\
+                     متالب<br>\
+                   [app. pl. of مَتْلَبٌ or مَتْلِبٌ] The <i>places where a wound causes</i> death; syn. مَقَاتِلُ. (IAar, T.)   </entryFree> <br>\
+            <div2 n=&quot;Quasi tlj&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi تلج<br>\
+<b>اَتْلَجَ</b>               1     <br>\
+                     اَتْلَجَ<br>\
+                     ذ<br>\
+                  : and تَوْلَجٌ: see art. ولج.   </entryFree> <br>\
+' } );

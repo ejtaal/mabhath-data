@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>كعبر</em>            1                  كعبر<br>\
+<b>كُعْبُرَةٌ</b>               1     <br>\
+                     كُعْبُرَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      كُعْبُورَةٌ <br>\
+                  <i>Anything compact</i> (K, TA) <i>and round:</i> (TA:) and the latter, <i>i. q.</i> <br>\
+                  عُقْدَةٌ [meaning <i>a knot,</i> or <i>a knob</i>]: (TA:) [pl. of the latter كَعَابِيرُ: see خِرْوٌ: see also اَخْرَمُ]. ―         -b2-  Also The <i>seed-vessel</i> [i. e. <i>siliqua,</i> or <i>pod,</i>] of the radish and some other plants. (IAar, TA voce اـِسْحَارٌّ.)    </entryFree> <br>\
+<b>كُعْبُوْرَةٌ</b>               1     <br>\
+                     كُعْبُوْرَةٌ<br>\
+                     ذ<br>\
+                  : see كُعْبُرَةٌ.   </entryFree> <br>\
+' } );

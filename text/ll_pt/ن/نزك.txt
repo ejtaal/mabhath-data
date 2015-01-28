@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نزك</em>            1                  نزك<br>\
+<b>نِزْكٌ</b>               1     <br>\
+                     نِزْكٌ<br>\
+                     ذ<br>\
+                   The <i>penis</i> (ذَكَر, S, K, i. e. قَضِيب, TA) of the ضَبّ (S, K) and of the وَرَل: (K: [in the CK, والوَركُ is erroneously put for والوَرَلِ:) accord. to the assertion of the Arabs, (S,) it (S, K,) the former, (S,) as also the حِرْذَوْن, (Msb voce حرذون,) has two penes (نِزْكَانِ); (S, K, TA;) and the female has قُرْنَتَانِ, i. e. [two wombs] رَحِمَانِ. (TA.)   </entryFree> <br>\
+' } );

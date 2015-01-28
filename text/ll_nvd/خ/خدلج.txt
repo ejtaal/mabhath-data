@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'خدلجخَدَلَّجٌ Large, big, or bulky; (Mgh, Msb;)<br>\
+applied to the shank, (Mgh,) or to a man:<br>\
+(Msb:) or large, or big, in the shank, with a<br>\
+goodly fulness therein; applied to a female:<br>\
+(Lth, L:) or, with ة, applied to a woman, (S, K,<br>\
+TA,) juicy, (TA,) full in the fore arms and the<br>\
+shanks. (S, K, TA.) You say خَدَلَّجُ السَّاقَيْنِ,<br>\
+meaning Large, or big, in respect of the shanks;<br>\
+like خَدْل. (Mgh, TA.)<br>\
+' } );

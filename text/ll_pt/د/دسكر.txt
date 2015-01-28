@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>دسكر</em>            1                  دسكر<br>\
+<b>دَسْكَرَةٌ</b>               1     <br>\
+                     دَسْكَرَةٌ<br>\
+                     دسكره<br>\
+                     دسكرة<br>\
+                  <i>A building like a</i> <br>\
+                  قَصْر [q. v.], <i>surrounded by houses,</i> or <i>chambers,</i> (Lth, Mgh, Msb, K,) <i>and places of abode for the servants and household,</i> (TA,) <i>and pertaining to kings:</i> (Lth, Mgh, Msb:) Heraclius is related, in trads., to have received the great men of the Greeks in a دسكرة belonging to him: (TA:) or <i>a building like a</i> <br>\
+                  قَصْر, <i>which is surrounded by houses,</i> or <i>chambers, and in which the vitious,</i> or <i>immoral,</i> (شُطَّار,) <i>assemble:</i> (Har p. 140:) or <i>houses of the foreigners</i> (اَعَاجِم), <i>in which are wine and instruments of music or the like:</i> (K:) thought by Az to be an arabicized word; (Msb;) not genuine Arabic: (TA:) [from the Persian دَسْكَرَهْ, or دَسْتْكَرَهْ:] pl. دَسَاكِرُ. (K.) ―         -b2-  Also <i>A Christian&#39;s cloister,</i> or <i>cell;</i> syn. صَوْمَعَةٌ. (AA, K.) ―         -b3-  And <i>A town,</i> or <i>village;</i> syn. قَرْيَةٌ. (Az, Msb, K.) ―         -b4-  And <i>A plain,</i> or <i>level, land.</i> (Kz, K.)   </entryFree> <br>\
+' } );

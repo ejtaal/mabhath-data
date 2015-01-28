@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'نحز1<br>\
+نَحَزَ<br>\
+: see an ex. in a verse cited voce<br>\
+عَاسِجٌ.<br>\
+نَاحِزٌ<br>\
+: see نَاكِتٌ.<br>\
+مِنْحَازٌ<br>\
+A mortar; syn. هَاوُونٌ. (K.)<br>\
+' } );

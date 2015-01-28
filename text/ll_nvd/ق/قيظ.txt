@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'قيظقَيْظِىٌّ<br>\
+: on the نِتَاج thus called see صَفَرِىٌّ.<br>\
+' } );

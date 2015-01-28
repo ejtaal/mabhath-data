@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'قورقَارَةٌ<br>\
+A she-bear: see an ex. in art. فطن<br>\
+(conj. 2).<br>\
+' } );

@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ساو&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ساو<br>\
+&lt;entryFree id=&quot;n18596&quot; key=&quot;سَا=هُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     سَا=هُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) like رَمَاهُ, [or rather like دَعَاهُ,] incorrectly [and differently] written in copies of the K, (TA,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  سَا=ءَهُ, (S, M, K, TA,) formed from the latter by transposition; (S, M;) mentioned by Sb: you say, سَا=هُ الاَمْرُ, like سَا=ءَهُ [&lt;i&gt;The affair displeased, grieved,&lt;/i&gt; or &lt;i&gt;vexed, him&lt;/i&gt;]: (M:) and سَاَوْتُهُ, meaning سُوْتُهْ [&lt;i&gt;I displeased, grieved,&lt;/i&gt; or &lt;i&gt;vexed, him&lt;/i&gt;]. (S, TA.) ―         -b2-  And سَاَا <br>\
+                  بَيْنَهُمْ, (K, TA,) inf. n. سَاْوْ, (TA,) &lt;i&gt;He created,&lt;/i&gt; or &lt;i&gt;excited, disorder,&lt;/i&gt; or &lt;i&gt;discord, between them,&lt;/i&gt; or &lt;i&gt;among them; made,&lt;/i&gt; or &lt;i&gt;did, mischief between them,&lt;/i&gt; or &lt;i&gt;among them:&lt;/i&gt; (K, TA:) mentioned by Az: app. a dial. var. of سَعَى. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18597&quot; key=&quot;اَسْاَيْتُ القَوْسَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَسْاَيْتُ القَوْسَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;I made a&lt;/i&gt; <br>\
+                  سِيَة [q. v.] &lt;i&gt;to the bow.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18598&quot; key=&quot;سَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18599&quot; key=&quot;سُوَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18600&quot; key=&quot;سِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; of a bow, and ↓ <br>\
+      سُوَةٌ, (Ibn-Málik, Az, ISd, K, TA,) and ↓ <br>\
+      سَاَةٌ, (Ibn-Málik, K, TA,) [in the CK erroneously written ساءَة, and it is there implied that the other vars. are سِيْيَةٌ and سُوْءَةٌ,] dial. vars. of سِيَةٌ, (K, &amp;amp;c.,) i. e. The &lt;i&gt;curved extremity&lt;/i&gt; thereof. (TA.) [See also art. سيو.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18601&quot; key=&quot;مَسْا=ةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَسْا=ةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, like مَسْعَاةٌ, is a dial. var. of مَسَا=ءَةٌ, [or] formed from the latter by transposition; and has for its pl. مَسَا=ءٍ: whence the saying, اَكْرَهُ مَسَايِيَكَ [&lt;i&gt;I dislike,&lt;/i&gt; or &lt;i&gt;hate, thy vices, faults,&lt;/i&gt; or &lt;i&gt;acts of disobedience&lt;/i&gt;]: (TA:) Sb mentions this saying; (M, TA;) and says, مَسَا=ءَةٌ is pluralized, and then the pl. is transformed, so that it is as though it were pl. of مَسْا=ةٌ, like مَسْعَاةٌ. (M.)   &lt;/entryFree&gt; <br>\
+' } );

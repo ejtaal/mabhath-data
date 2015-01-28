@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>وح</em>            1                  وح<br>\
+<b>وَحْوَحَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     وَحْوَحَ<br>\
+                     ذ<br>\
+                  , inf. n. وَحْوَحَةٌ, <i>He uttered a sound accompanied by a hoarseness, roughness, harshness,</i> or <i>gruffness, of the voice:</i> (S, K:) <i>he made his breath to reciprocate in his throat, so as to be audible, by reason of cold;</i> (TA:) <i>he blew upon his hand by reason of intense cold.</i> (S, K.)    </entryFree> <br>\
+<b>وَحْوَحٌ</b>               1     <br>\
+                     وَحْوَحٌ<br>\
+                     ذ<br>\
+                   A <i>strong</i> man, (L, K,) <i>who breathes hard at his work by reason of his briskness and vigour;</i> (L;) as also ↓ <br>\
+      وَحْوَاحٌ. (K.) ―         -b2-  Also the former, (L, K,) and the latter, (L,) A <i>quick,</i> or <i>prompt, and sharp-spirited,</i> man. (L, K.) ―         -b3-  Also the former, (S, K,) and the latter, (S,) A <i>light,</i> or an <i>active,</i> or <i>agile,</i> man. (As, S, K.) ―         -b4-  Also both words, <i>A lord,</i> or <i>chief:</i> pl. وَحَاوِحُ and وَحَاوِحَةٌ. (L.) ―         -b5-  Also both words, A <i>barking,</i> or <i>howling,</i> dog. (L, K.)    </entryFree> <br>\
+<b>وَحْوَاحٌ</b>               1     <br>\
+                     وَحْوَاحٌ<br>\
+                     ذ<br>\
+                  : see what precedes.   </entryFree> <br>\
+' } );

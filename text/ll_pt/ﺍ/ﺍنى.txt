@@ -1,0 +1,178 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انى&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انى<br>\
+&lt;entryFree id=&quot;n1403&quot; key=&quot;اَنَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَنَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) aor. يَاْنِى, (S,) inf. n. اـِنٌى (S, M, K) and اَنْىٌ and اَنَا=ءٌ, (M, K,) or, accord. to [some of the copies of] the M, اَنًى, (TA, [in which this is said to be the right form,]) or اَنًا, (as written in the CK,) said of a thing, &lt;i&gt;Its time came;&lt;/i&gt; or &lt;i&gt;it was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; or &lt;i&gt;drew, near;&lt;/i&gt; syn. اَتَى وَقْتُهُ, and جَا=ءَ اَنَاهُ; (Bd lvii. 15 [in explanation of a passage cited voce اَنْ];) or حَانَ: (S, M, K:) or اَنَى, aor. يَاْنِى, inf. n. اَنْىٌ, signifies &lt;i&gt;it was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; or &lt;i&gt;drew, near;&lt;/i&gt; and &lt;i&gt;it was,&lt;/i&gt; or &lt;i&gt;became, present.&lt;/i&gt; (Msb.) You say, اَنَى لَكَ <br>\
+                  اَنْ تَفْعَلَ, aor. يَاْنِى; and ا=نَ, aor. يَيِينُ; and نَالَ لك, aor. يَنِيلُ; and اَنَالَ; all meaning حَانَ لَكَ [&lt;i&gt;The time has come,&lt;/i&gt; or &lt;i&gt;has drawn near, for thee that thou shouldst do&lt;/i&gt; such a thing: or &lt;i&gt;the time of thy doing&lt;/i&gt; such a thing &lt;i&gt;has come to thee:&lt;/i&gt; or &lt;i&gt;thy doing&lt;/i&gt; such a thing &lt;i&gt;has drawn near&lt;/i&gt;]: so says Zj; and Fr says the like: but the best of these is اَنَى لَكَ. (T.) And اَنَى الرَّحِيلُ <br>\
+                  &lt;i&gt;The time of departure came,&lt;/i&gt; or &lt;i&gt;drew near;&lt;/i&gt; syn. حَانَ <br>\
+                  وَقْتُهُ. (TA, from a trad.) ―         -b2-  &lt;i&gt;It came,&lt;/i&gt; or &lt;i&gt;attained, to its time; to its full,&lt;/i&gt; or &lt;i&gt;final, time&lt;/i&gt; or &lt;i&gt;state; to maturity,&lt;/i&gt; or &lt;i&gt;ripeness; it became mature,&lt;/i&gt; or &lt;i&gt;ripe;&lt;/i&gt; (T, S, M, IAmb, * Msb, * K;) or, accord. to some, only when said of a plant; (M, K;) [or it signifies also] &lt;i&gt;it became thoroughly cooked.&lt;/i&gt; (T, Msb. *) Hence, in the Kur [xxxiii. 53], غَيْرَنَاظِرِينَ اـِنَاهُ <br>\
+                  &lt;i&gt;Not waiting,&lt;/i&gt; or &lt;i&gt;watching, for its becoming thoroughly cooked;&lt;/i&gt; or &lt;i&gt;for its cooking becoming finished.&lt;/i&gt; (T, S, * M.) [See also اـِنًى, below.] You say also, اَنَى الحَمِيمُ, (inf. n. اَنْىٌ, TA,) &lt;i&gt;The hot water became heated to the utmost degree.&lt;/i&gt; (S, K.) And اَنَى المَا=ءُ <br>\
+                  &lt;i&gt;The water became hot to the utmost degree.&lt;/i&gt; (M.)       -A2-  اَنَى, aor. اُنِىٌّ, inf. n. اَنْىٌ, &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, behind,&lt;/i&gt; or &lt;i&gt;after, its time:&lt;/i&gt; (Lth, T:) or اَنَى, inf. n. اُنِىٌّ, &lt;i&gt;it,&lt;/i&gt; or &lt;i&gt;he,&lt;/i&gt; (a man, TA,) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, behind, backward,&lt;/i&gt; or &lt;i&gt;late; it,&lt;/i&gt; or &lt;i&gt;he, delayed,&lt;/i&gt; or &lt;i&gt;held back;&lt;/i&gt; (M, K;) as also اَنِىَ, aor. يَاْنَى, inf. n.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1404&quot; key=&quot;اـِنًى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنًى<br>\
+                     ان<br>\
+                     انى<br>\
+                     اني<br>\
+                     اـن<br>\
+                     اـني<br>\
+                     انى<br>\
+                     اني<br>\
+                     ونى<br>\
+                     آن<br>\
+                     آني<br>\
+                  &lt;/form&gt;; and ↓ <br>\
+      اَنَّى, inf. n. تَاْنِيَةٌ. (K.) ―         -b2-  See also 5, in two places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَنَّىَ<br>\
+                  &lt;/form&gt; see 4, in two places:       -A2-  and see 1. ―         -b2-  You say also, اَنَّيْتُ فِى الشَّىْءِ <br>\
+                  &lt;i&gt;I fell short,&lt;/i&gt; or &lt;i&gt;fell short of what was requisite&lt;/i&gt; or &lt;i&gt;what I ought to have done,&lt;/i&gt; or &lt;i&gt;flagged,&lt;/i&gt; or &lt;i&gt;was remiss, in,&lt;/i&gt; or &lt;i&gt;in respect of, the thing.&lt;/i&gt; (TA. [The verb is there written without any syll. signs; but the context seems to indicate that it is as above.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1405&quot; key=&quot;ا=نى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=نى<br>\
+                     ا=نى<br>\
+                     ا=ني<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      انّى signify the same. (IAar, T, M.) You say, ا=نَاهُ, (T, S, M, Msb, K,) with medd, (Msb,) aor. يُوْنِيهِ, (S,) inf. n. اـِينَا=ءٌ, (S, K,) [in the CK, اَنَيْتُهُ اِنْيًا is erroneously put for ا=نَيْتُهُ <br>\
+                  اـِينَا=ءٌ,] &lt;i&gt;He postponed it, put it off, deferred it, delayed it, retarded it;&lt;/i&gt; (T, S, M, Msb, K;) &lt;i&gt;retrained&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;119&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;it, withheld it, impeded it;&lt;/i&gt; (S, TA;) whatever the thing be. (T.) And الطَّعَامَ فِى النَّارِ ↓ <br>\
+      اَنَّيْتُ <br>\
+                  &lt;i&gt;I kept the food long upon the fire.&lt;/i&gt; (TA.) And لَا تُوْنِ فُرْصَتَكَ <br>\
+                  &lt;i&gt;Postpone not thou,&lt;/i&gt; or &lt;i&gt;defer not, thine opportunity,&lt;/i&gt; or &lt;i&gt;the time when thou art able to do a thing.&lt;/i&gt; (T.) And it is said in a trad., respecting the prayer of Friday, رَاَيْتُكَ ا=نَيْتَ وَا=ذَيْتَ (M, * Mgh, * TA) &lt;i&gt;I see thee to have delayed&lt;/i&gt; coming, &lt;i&gt;and to have done what is annoying&lt;/i&gt; to others by stepping over the necks [of those already in their places in the mosque]: (As, Mgh, * TA:) a saying of &#39;Omar. (Mgh.)       -A2-  ا=نَاهُ also signifies &lt;i&gt;He made him,&lt;/i&gt; or &lt;i&gt;it, to be distant, remote,&lt;/i&gt; or &lt;i&gt;far off; removed far away, alienated,&lt;/i&gt; or &lt;i&gt;estranged, him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; like اَنْا=هُ [from which it is formed by transposition]. (TA.) [Hence,] يُوْنِيكَ occurs in a verse of Es-Sulameeyeh; (M, TA;) meaning يُنْيِيكَ; the ء being put before the ن (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1406&quot; key=&quot;تانّى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تانّى<br>\
+                     ذ<br>\
+                  &lt;i&gt;He acted deliberately,&lt;/i&gt; or &lt;i&gt;leisurely, not hastily;&lt;/i&gt; as also ↓ <br>\
+      استانى; and ↓ <br>\
+      اَنِىَ, (M, K,) aor. يَاْنَى, (K,) inf. n. انْىٌ: (TA:) &lt;i&gt;he acted with moderation, gently, deliberately,&lt;/i&gt; or &lt;i&gt;leisurely; without haste;&lt;/i&gt; and &lt;i&gt;with gravity, staidness, sedateness,&lt;/i&gt; or &lt;i&gt;calmness;&lt;/i&gt; <br>\
+                  فِى الاَمْرِ <br>\
+                  &lt;i&gt;in the affair;&lt;/i&gt; as also ↓ <br>\
+      استانى: (Mgh:) or &lt;i&gt;he acted gently;&lt;/i&gt; (IAar, T, TA;) as also ↓ <br>\
+      اَنِىَ, aor. and inf. n. as above: (TA:) or &lt;i&gt;he acted gently, and waited;&lt;/i&gt; <br>\
+                  فِى الاَمْرِ <br>\
+                  &lt;i&gt;in the affair:&lt;/i&gt; (S:) or &lt;i&gt;he waited,&lt;/i&gt; or &lt;i&gt;was patient,&lt;/i&gt; or &lt;i&gt;waited with patience,&lt;/i&gt; (T, Msb,) &lt;i&gt;and did not hasten,&lt;/i&gt; in an affair. (Msb.) التَّاَتِّى and التَّاَنِّى are nearly syn.: you say, تانّى لَهُ <br>\
+                  &lt;i&gt;He acted gently with him,&lt;/i&gt; [or &lt;i&gt;to him,&lt;/i&gt;] &lt;i&gt;and did not hasten in his affair.&lt;/i&gt; (Mgh.) You say also, بِهِ ↓ <br>\
+      استانى <br>\
+                  &lt;i&gt;He waited patiently with him;&lt;/i&gt; or &lt;i&gt;waited, and had patience, with him;&lt;/i&gt; (S, TA;) &lt;i&gt;he did not hasten him;&lt;/i&gt; (Lth, T;) as also ↓ <br>\
+      استاناهُ. (&#39;Eyn, Har p. 67.) And بِهِ حَوْلًا ↓ <br>\
+      اُسْتُوْنِىَ [&lt;i&gt;He was waited patiently with for a year&lt;/i&gt;]. (S.) And فِى اَمْرِكَ ↓ <br>\
+      اِسْتَاْنِ <br>\
+                  &lt;i&gt;Hasten not in thine affair.&lt;/i&gt; (Lth, T.) And فِى الطَّعَامِ ↓ <br>\
+      اِسْتَاْنَيْتُ <br>\
+                  &lt;i&gt;I waited for the food to become perfectly prepared&lt;/i&gt; or &lt;i&gt;cooked.&lt;/i&gt; (Har p. 67.) And تَاَنَّيْتُ الرَّجُلَ (and عَلَيْهِ, M and K in art. نظر, [see اِنْتَظَرَهُ,]) &lt;i&gt;I waited for the man;&lt;/i&gt; as also بِهِ ↓ <br>\
+      اِسْتَاْنَيْتُ: whence, بِالْجِرَاحَاتِ ↓ <br>\
+      يُسْتَانَى <br>\
+                  &lt;i&gt;One should wait for the issues,&lt;/i&gt; or &lt;i&gt;consequences,&lt;/i&gt; or &lt;i&gt;results, of wounds.&lt;/i&gt; (Mgh.) And تَانَّيْتُكَ حَتَّى لَا اَنَاةَ بِى [&lt;i&gt;I have waited patiently for thee until there is no disposition to wait patiently in me&lt;/i&gt;]. (S.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَاْنَىَ<br>\
+                  &lt;/form&gt; see 5, passim.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1407&quot; key=&quot;اَنْىٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنْىٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1408&quot; key=&quot;اـِنْىٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنْىٌ<br>\
+                     ان<br>\
+                     انى<br>\
+                     اني<br>\
+                     اـن<br>\
+                     اـني<br>\
+                     انى<br>\
+                     اني<br>\
+                     ونى<br>\
+                     آن<br>\
+                     آني<br>\
+                  &lt;/form&gt; (AO, T, S, M, Msb, K) and ↓ <br>\
+      اـِنًى, (Akh, T, S, Msb,) the latter in [some of] the copies of the K erroneously written اَنَا=ءٌ, (TA,) [and in other copies of the same omitted,] and ↓ <br>\
+      اـِنْوٌ, (Akh, Th, T, S, M, K,) with و substituted for ى, (AAF, M,) and ↓ <br>\
+      اَنْىٌ (K) and ↓ <br>\
+      اَنًى, (M, I Amb,) &lt;i&gt;An hour,&lt;/i&gt; or &lt;i&gt;a short portion,&lt;/i&gt; or &lt;i&gt;a time,&lt;/i&gt; or &lt;i&gt;an indefinite time,&lt;/i&gt; (سَاعَةٌ,) of the night: (Zj, T, S, M, K:) or &lt;i&gt;a time&lt;/i&gt; or &lt;i&gt;season&lt;/i&gt; (وَقْتٌ) of the night: (M in art. انو:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  وَهْنٌ [the &lt;i&gt;period about midnight;&lt;/i&gt; or the &lt;i&gt;time after an hour,&lt;/i&gt; or &lt;i&gt;a short period, of the night;&lt;/i&gt; or &lt;i&gt;when the night is departing&lt;/i&gt;]: (M, K:) or &lt;i&gt;any&lt;/i&gt; <br>\
+                  سَاعَة [i. e. &lt;i&gt;hour,&lt;/i&gt; or &lt;i&gt;short portion,&lt;/i&gt; or &lt;i&gt;time,&lt;/i&gt;] (M, K) of the night: (M:) [and &lt;i&gt;any period of time;&lt;/i&gt; as will be seen below:] or, accord. to some, (M,) ↓ <br>\
+      اـِنًى signifies the &lt;i&gt;whole day;&lt;/i&gt; (M, K;) as also ↓ <br>\
+      اَنًى: (K:) the pl. is ا=نَا=ءٌ (T, S, M, Msb, K) and اُنىٌّ and اـِنِىٌّ. (M, K.) You say, مَضَى اـِنْىٌ مِنَ الَّيْلِ and ↓ <br>\
+      اـِنْوٌ [&amp;amp;c.] &lt;i&gt;A time,&lt;/i&gt; or &lt;i&gt;season,&lt;/i&gt; [&amp;amp;c.,] (وَقْتٌ, [&amp;amp;c.,]) &lt;i&gt;of the night passed:&lt;/i&gt; (M in art. انو:) dual اـِنْيَانِ and اـِنْوَانِ. (S.) And a poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اَتَمَّتْ حَمْلَهَا فِى بَعْضِ شَهْرٍ<br>\
+                     &lt;L&gt;<br>\
+                        وَحَمْلُ الحَامَلَاتِ اـنًى طَوِيلُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;She completed her gestation in a portion of a month; but the gestation of the pregnant&lt;/i&gt; in general &lt;i&gt;is a long period of time&lt;/i&gt;]. (IAar, T.) Another uses the phrase ضَحَّاكُ الاُنِىْ, occurring at the end of a verse, [for ضحّاك الاُنِىِّ,] meaning &lt;i&gt;Found to be laughing whenever one comes to him.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1409&quot; key=&quot;اَنًى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنًى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِنْىٌ, in two places. ―         -b2-  The &lt;i&gt;utmost point, reach,&lt;/i&gt; or &lt;i&gt;degree,&lt;/i&gt; (M, K,) of a thing; (M;) as also ↓ <br>\
+      اـِنًى: so in the phrase, بَلَغَ اَنَاهُ and اـِنَاهُ <br>\
+                  &lt;i&gt;It&lt;/i&gt; (a thing, M) &lt;i&gt;attained its utmost point, reach,&lt;/i&gt; or &lt;i&gt;degree:&lt;/i&gt; (M, K:) or this means, [or, accord. to the CK, “and” it means,] &lt;i&gt;its state of being thoroughly cooked; its state of maturity;&lt;/i&gt; or &lt;i&gt;its full,&lt;/i&gt; or &lt;i&gt;final, time&lt;/i&gt; or &lt;i&gt;state.&lt;/i&gt; (K.) [See 1, where an ex. from the Kur xxxiii. 53 is cited. Both words are said to be inf. ns.]       -A2-  See also اَنَاةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1410&quot; key=&quot;اـِنًى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنًى<br>\
+                     ان<br>\
+                     انى<br>\
+                     اني<br>\
+                     اـن<br>\
+                     اـني<br>\
+                     انى<br>\
+                     اني<br>\
+                     ونى<br>\
+                     آن<br>\
+                     آني<br>\
+                  &lt;/form&gt;: see اـِنِىٌ, in two places: ―         -b2-  and see اَنًى.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1411&quot; key=&quot;اَنَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Postponement; a putting off; a deferring; a delaying; a retarding: restraint; a withholding; an impeding:&lt;/i&gt;] a subst. from ا=نَاهُ, aor. يُوْنِيهِ, inf. n. اـِينَا=ءٌ, meaning “he postponed it,” &amp;amp;c.: (S, Msb, * TA:) the context of the K erroneously requires it to be understood as a subst. from اَنَى, aor. يَاْنى. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1412&quot; key=&quot;اـِنَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنَا=ءٌ<br>\
+                     انا=ء<br>\
+                  &lt;i&gt;A certain thing of which one makes use,&lt;/i&gt; (M,) &lt;i&gt;well known;&lt;/i&gt; (S, K;) namely, &lt;i&gt;a vessel,&lt;/i&gt; or &lt;i&gt;receptacle,&lt;/i&gt; (Mgh, Msb,) &lt;i&gt;for water&lt;/i&gt; [&lt;i&gt;&amp;amp;c.&lt;/i&gt;]: (Mgh:) pl. ا=نِيَةٌ, (T, S, M, Mgh, Msb, K,) originally اَاْنِيَةٌ; (M;) and اَوَانٍ; (T, S, M, Mgh, K;) the former a pl. of pauc.; and the latter a pl. of mult., (Mgh,) pl. of ا=نِيَةٌ. (T, S, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1413&quot; key=&quot;اَنَاةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَاةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Moderation; gentleness; deliberateness; a leisurely manner of proceeding,&lt;/i&gt; or &lt;i&gt;of deportment,&lt;/i&gt; &amp;amp;c.; &lt;i&gt;patience,&lt;/i&gt; as meaning &lt;i&gt;contr. of hastiness:&lt;/i&gt; and &lt;i&gt;gravity; staidness; sedateness; calmness:&lt;/i&gt; a subst. from تَاَنَّى; (S, Msb;) syn. تُوَدَةٌ; (T;) and رِفْقٌ; (Ham p. 317;) and حِلْمٌ and وَقَارٌ; (M, Mgh, K;) as also ↓ <br>\
+      انًى. (M, K, TA. [In the CK, كالاَنْىِ is erroneously put for كَالاَنَى.]) ―         -b2-  Also &lt;i&gt;Hope:&lt;/i&gt; [in this sense, accord. to the TA, written with kesr; but this is doubtless a mistake, probably occasioned by a mistranscription:] so in the charge of &#39;Orweh to his sons; يَا بَنِىَّ اـِذَا رَاَيْتُمْ <br>\
+                  خَلَّةً رَايِعَةً مِنْ رَجُلٍ فَلَا تَقْطَعُوا اَنَاتَكُمْ مِتْهُ وَاـِنْ <br>\
+                  كَانَ عِنْدَ النَّاسِ رَجُلَ سَوْءٍ [&lt;i&gt;O my sons, when ye see a quality exciting admiration and approval, in a man, cut not ye off your hope of him, though he be in the estimation of the people a bad man&lt;/i&gt;]. (M.)       -A2-  A woman &lt;i&gt;in whom is a languor on the occasion of rising,&lt;/i&gt; or &lt;i&gt;standing up;&lt;/i&gt; (T, S, K;) &lt;i&gt;and a gentle,&lt;/i&gt; or &lt;i&gt;grave, deportment:&lt;/i&gt; (S:) or &lt;i&gt;in whom is a languor impeding from rising,&lt;/i&gt; or &lt;i&gt;standing up:&lt;/i&gt; (As:) and وَهْنَانَةٌ signifies the like: (T:) Sb says that it is originally وَنَاةٌ, like as اَحَدٌ is originally وَحَدٌ; from الوَنَى: (S:) the people of El-Koofeh say that it is only وَنَاةٌ: so says Lth: and he says that اَنَاةٌ signifies, as applied to a woman, &lt;i&gt;blessed, prospered,&lt;/i&gt; or &lt;i&gt;abounding in good,&lt;/i&gt; as it is explained also by ADk, and &lt;i&gt;forbearing, gentle, grave, staid, sedate,&lt;/i&gt; or &lt;i&gt;calm,&lt;/i&gt; and &lt;i&gt;compliant,&lt;/i&gt; or &lt;i&gt;agreeing with another in mind&lt;/i&gt; or &lt;i&gt;opinion:&lt;/i&gt; and the pl. is اَنَواتٌ: or, as some say, it signifies a &lt;i&gt;grave, staid, sedate,&lt;/i&gt; or &lt;i&gt;calm,&lt;/i&gt; woman, &lt;i&gt;who does not clamour, nor utter foul language.&lt;/i&gt; (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1414&quot; key=&quot;اَنِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, as part. n. of 1, A thing &lt;i&gt;of which the time has come,&lt;/i&gt; or &lt;i&gt;drawn near:&lt;/i&gt; and &lt;i&gt;which has come,&lt;/i&gt; or &lt;i&gt;attained, to its time; to its full,&lt;/i&gt; or &lt;i&gt;final, time&lt;/i&gt; or &lt;i&gt;state; to maturity,&lt;/i&gt; or &lt;i&gt;ripeness:&lt;/i&gt; but accord. to some, only applied to a plant. (M, K.) [Compare ا=نٍ.]       -A2-  &lt;i&gt;Behind,&lt;/i&gt; or &lt;i&gt;after, the time; backward,&lt;/i&gt; or &lt;i&gt;late; delayed,&lt;/i&gt; or &lt;i&gt;held back;&lt;/i&gt; (K, TA; [but wanting in a MS. copy of the former in my possession, and in the CK;]) as also ↓ <br>\
+      ا=نٍ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1415&quot; key=&quot;اـٍنِيهْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـٍنِيهْ<br>\
+                     انيه<br>\
+                     اـناء<br>\
+                     انيه<br>\
+                     انية<br>\
+                     ونى<br>\
+                     آني<br>\
+                     آنيه<br>\
+                     آنية<br>\
+                  &lt;/form&gt; a word expressive of disapproval, and of deeming a thing remote or improbable: Sb relates that it was said to an Arab of the desert, who had taken up his abode in a town, or place, “Wilt thou go forth when the desert shall have become plentiful in herbage?” and he said, اَاَنَا اـِنِيهْ [&lt;i&gt;What, I, indeed?&lt;/i&gt;], meaning “Do ye say this to me when I am know to do thus?” as though he disapproved of their questioning him: but there is much diversity of opinion respecting this word: (TA:) [accord. to some,] it is composed of the redundant اـِنْ and the meddeh denoting disapproval [followed by the ه of silence]. (Mughnee voce اـِنٌ.) [See what is said of the redundant انْ in the present work.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1416&quot; key=&quot;اَنَّى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَّى<br>\
+                     ذ<br>\
+                  &lt;/form&gt; signifies &lt;i&gt;Whence?&lt;/i&gt; syn. مِنْ اَيْنَ; (T, S, M;) being an interrogative respecting the direction, or quarter, from which a thing is: (Msb:) and &lt;i&gt;whence&lt;/i&gt; [used to denote a condition]: (TA:) and &lt;i&gt;where?&lt;/i&gt; and &lt;i&gt;where&lt;/i&gt; [used to denote a condition]; syn. اَيْنَ: (T, K: [in which latter the first signification is not mentioned:]) and as one of the adverbial nouns used to denote a condition, &lt;i&gt;whencesoever; from whatever direction&lt;/i&gt; or &lt;i&gt;quarter:&lt;/i&gt; (S:) and &lt;i&gt;wherever; wheresoever:&lt;/i&gt; (Lth, T:) and &lt;i&gt;when?&lt;/i&gt; and &lt;i&gt;when&lt;/i&gt; [used to den a condition]; syn. مَتَى: (T, K: [but in the latter of these, in art. ان, in the place of مَتَى we find حَيْثُ, which I regard as a mistake:]) and &lt;i&gt;how?&lt;/i&gt; syn. كَيْفَ: (Lth, T, S, M, K:) and &lt;i&gt;however.&lt;/i&gt; (Lth, TA.) [I mention all these significations together because &lt;pb n=&quot;120&quot; TEIform=&quot;pb&quot;/&gt; one of them is assigned by some authorities and another by others to انّى in one and the same instance.] You say, اَنَّى يَكُونُ هٰذَا <br>\
+                  &lt;i&gt;Whence, from what direction&lt;/i&gt; or &lt;i&gt;quarter, from what way, will,&lt;/i&gt; or &lt;i&gt;should, be this?&lt;/i&gt; (Msb.) And اَنَّى لَكَ هٰذَا <br>\
+                  &lt;i&gt;Whence&lt;/i&gt; [came, or cometh,] &lt;i&gt;to thee this?&lt;/i&gt; (S.) It is said in the Kur [iii. 32], يَا مَرْيَمُ اَنَّى لَكِ هٰذَا <br>\
+                  &lt;i&gt;O Mary, whence&lt;/i&gt; [came] &lt;i&gt;to thee this?&lt;/i&gt; (T.) And in the same [xxxiv. 51], وَاَنَّى لَهُمُ اْلتَّنَاوُشُ مِنْ <br>\
+                  مَكَانٍ بَعِيدٍ, meaning [&lt;i&gt;But&lt;/i&gt;] &lt;i&gt;whence&lt;/i&gt; [&lt;i&gt;shall the attaining&lt;/i&gt; of belief &lt;i&gt;be possible to them from a distant place,&lt;/i&gt; i. e., (as explained in the S in art.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1417&quot; key=&quot;نوش&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نوش<br>\
+                     ذ<br>\
+                  &lt;/form&gt;,) in the world to come, when they have disbelieved in the present world? or &lt;i&gt;but how &amp;amp;c.?&lt;/i&gt;]. (T.) And in the same [1xxx. 25], accord. to one reading, اَنَّى صَبَبْنَا المَا=ءَ صَبَّا, meaning &lt;i&gt;Where have we poured forth the water, pouring?&lt;/i&gt; but in this is an allusion to the direction [whence the rain comes]; and it may be rendered &lt;i&gt;whence?&lt;/i&gt; &amp;amp;c.; and accord. to this reading, the pause upon طَعَامِهٌ [immediately preceding] is complete. (IAmb, T.) And you say, اَنَّى تَاْتِنِى ا=تِكَ, (S, K,) meaning &lt;i&gt;Whencesoever,&lt;/i&gt; or &lt;i&gt;from whatever direction&lt;/i&gt; or &lt;i&gt;quarter, thou shalt come to me, I will come to thee.&lt;/i&gt; (S.) In the saying of &#39;Alkameh, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَمُطْعَمُ الغُنْمِ يُوْمَ الغُنْمِ مُطْعَمُهُ<br>\
+                     &lt;L&gt;<br>\
+                        اَنَّى تَوَجَّهَ وَالمَحْرُومُ مَحْرُومُ<br>\
+                  &lt;/quote&gt; the meaning is, [&lt;i&gt;And he who is given spoil to enjoy,&lt;/i&gt; (lit., who is fed therewith,) &lt;i&gt;on the day of spoil, is given it to enjoy&lt;/i&gt;] &lt;i&gt;wherever he repairs,&lt;/i&gt; or &lt;i&gt;however he repairs,&lt;/i&gt; [&lt;i&gt;and the prohibited is prohibited.&lt;/i&gt;] (Lth, T, TA.) The saying in the Kur [iii. 159], قُلْتُمٌ اَنَّى هٰذَا means &lt;i&gt;Ye say, When is this?&lt;/i&gt; or &lt;i&gt;How is this?&lt;/i&gt; (T,) or &lt;i&gt;Whence is this?&lt;/i&gt; (T, Bd, Jel.) And اَنَّى شيْتُمْ, in the same, [ii. 223,] may mean &lt;i&gt;Whence,&lt;/i&gt; or &lt;i&gt;when,&lt;/i&gt; or &lt;i&gt;how, ye will.&lt;/i&gt; (TA.) You say also, اَنَّى لَكَ اَنْ تَفْتَحَ الحِصْنَ, meaning &lt;i&gt;How&lt;/i&gt; [&lt;i&gt;is it,&lt;/i&gt; or &lt;i&gt;will it be, possible for thee to open,&lt;/i&gt; or &lt;i&gt;conquer, the fortress&lt;/i&gt;]? (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1418&quot; key=&quot;ا=نٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=نٍ<br>\
+                     ا=ن<br>\
+                  &lt;i&gt;Hot,&lt;/i&gt; or &lt;i&gt;heated, to the utmost degree:&lt;/i&gt; applied to hot water, (S, M, K,) in the Kur lv. 44: (S, M:) fem. ا=نِيَةٌ; occurring in the Kur lxxxviii. 5. M.)       -A2-  See also اَنِىٌّ.       -A3-  Also A man &lt;i&gt;much characterized by moderation, gentleness,&lt;/i&gt; or &lt;i&gt;deliberateness; by a leisurely manner of proceeding,&lt;/i&gt; or &lt;i&gt;of deportment, &amp;amp;c.; by patience,&lt;/i&gt; as meaning &lt;i&gt;contr. of hastiness; by gravity, staidness, sedateness,&lt;/i&gt; or &lt;i&gt;calmness.&lt;/i&gt; (S, K. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1419&quot; key=&quot;اَتَيْتُهُ ا=نِيَةً بَعْدَ ا=نِيَةٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَتَيْتُهُ ا=نِيَةً بَعْدَ ا=نِيَةٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is a phrase mentioned by AAF, meaning &lt;i&gt;I came to him time after time:&lt;/i&gt; in which, [says ISd,] I am of opinion that ا=نية is of the measure فَاعِلَةٌ from الاـنَى: but the word commonly known is ا=وِنَة [pl. of اَوَانٌ; or ا=يِنَة, which is syn. with ا=وِنَة: see اَوَانٌ]. (M.)   &lt;/entryFree&gt; <br>\
+' } );

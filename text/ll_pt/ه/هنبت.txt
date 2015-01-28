@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>هنبت</em>            1                  هنبت<br>\
+<b>هَنْبَتَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     هَنْبَتَ<br>\
+                     ذ<br>\
+                  , inf. n. هَنْبَتَةٌ, <i>He was languid and sluggish.</i> (IKtt, K.) It may be said that the ن is augmentative, and that the word is derived from هَبْتَةٌ, signifying “ weakness. ” (TA.)   </entryFree> <br>\
+' } );

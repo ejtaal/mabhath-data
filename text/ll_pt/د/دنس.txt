@@ -1,0 +1,42 @@
+load_data( { book: 'll_pt', text: '<em>دنس</em>            1                  دنس<br>\
+<b>دَنِسَ</b>               1     <br>\
+                     دَنِسَ<br>\
+                     دنس<br>\
+                  , aor.      <br>\
+                     دَنَسَ<br>\
+                  , inf. n. دَنَسٌ (S, A, K) and دَنَاسَةٌ, (K,) <i>It</i> (a garment, S, A, K) <i>was,</i> or <i>became, dirty, filthy, foul, sullied, defiled,</i> or <i>polluted;</i> (S, M, A, K;) as also ↓ <br>\
+      تدنّس: (S, M, A:) and in like manner (tropical:)  said of a man&#39;s honour, (K, TA,) and (tropical:)  of his disposition. (TA.)    </entryFree> <br>\
+<b>دنّسهُ</b>               1     <br>\
+                     دنّسهُ<br>\
+                     دنس<br>\
+                     دنسه<br>\
+                     دنسة<br>\
+                  , (S, M, A, K,) inf. n. تَدْنِيسٌ, (S, K,) <i>He,</i> or <i>it, made it</i> (namely a garment, S, A, K) <i>dirty, filthy,</i> or <i>foul; sullied, defiled,</i> or <i>polluted, it.</i> (S, M, A, K.) And in like manner, دنّس <br>\
+                  عِرْضَهُ (tropical:)  [<i>He sullied his honour;</i>] <i>he did to him that which disgraced him.</i> (A, K.) And دنّسهُ <br>\
+                  سُوْءُ خُلُقِهِ (tropical:)  [<i>The evilness of his disposition sullied his honour</i>]. (A, TA.)    </entryFree> <br>\
+                     تَدَنَّسَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>دَنَسٌ</b>               1     <br>\
+                     دَنَسٌ<br>\
+                     دنس<br>\
+                  <i>Dirt; filth; soil,</i> or <i>pollution:</i> (S, M, A, K:) pl. اَدْنَاسٌ. (M.) [Hence,] هُوَ يَتَصَوَّنُ <br>\
+                  مِنَ الاَدْنَاسُ (tropical:)  [<i>He preserves his honour from pollutions</i>], and ↓ <br>\
+      مِنَ المَدَانِسِ (tropical:)  [<i>from causes of pollution,</i> <br>\
+                  مَدَانِسُ being pl. of ↓ <br>\
+      مَدْنَسَةٌ, a noun of the same kind as مَبْخَلَةٌ and مَجْبَنَةٌ]. (A, TA.)    </entryFree> <br>\
+<b>دَنِسٌ</b>               1     <br>\
+                     دَنِسٌ<br>\
+                     دنس<br>\
+                  <i>Dirty, filthy, foul, sullied, defiled,</i> or <i>polluted:</i> (M, K:) [pl. اَدْنَاسٌ, agreeably with analogy, and دُنَسَا=ءُ, contr. to analogy; but the latter is perhaps post-classical.] You say, قَوْمٌ <br>\
+                  اَدْنَاسٌ and ↓ <br>\
+      مَدَانِيسٌ [<i>A people dirty, filthy,</i> &amp;amp;c.; both in a proper and in a tropical sense]. (K.) And هُوَ دَنِسُ المُرُوْءَةِ and الثِّيَابِ and الجَيْبِ and الاَرْدَانِ (tropical:)  [<i>He is foul in character, conduct,</i> or <i>the like</i>]. (A.)    </entryFree> <br>\
+<b>مَدْنَسَةٌ</b>               1     <br>\
+                     مَدْنَسَةٌ<br>\
+                     مدنسه<br>\
+                     مدنسة<br>\
+                  ; and its pl. مَدَانِسُ: see دَنَسٌ.    </entryFree> <br>\
+<b>مَدَانِيسٌ</b>               1     <br>\
+                     مَدَانِيسٌ<br>\
+                     مدانيس<br>\
+                  : see دَنِسٌ.   </entryFree> <br>\
+' } );

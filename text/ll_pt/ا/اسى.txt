@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>اسى</em>            1                  اسى<br>\
+<b>اَسِىَ</b>               1     <br>\
+                     اَسِىَ<br>\
+                     ذ<br>\
+                  , aor. يَاْسَى, inf. n. اَسًى or اَسًا, <i>He grieved,</i> or <i>mourned,</i> (S, M, Msb, K,) عَلَيْهِ [<i>for him</i> or <i>it</i>]. (M, K.) See art. اسو.    </entryFree> <br>\
+<b>اَسٍ</b>               1     <br>\
+                     اَسٍ<br>\
+                     ذ<br>\
+                  , [agreeably with analogy, as part. n. of اَسِىَ,] (M,) or ↓ <br>\
+      ا=سٍ (K,) or ↓ <br>\
+      اَسِىٌّ (Msb,) and ↓ <br>\
+      اَسْيَانُ, (M, K,) a dial. var. of اَسْوَانُ, (TA, [see art. اسو]) <i>Grieving, mourning,</i> or <i>sorrowful:</i> (M, Msb, K:) fem. [of the first, or second,] اَسِيَةٌ (M,) or ا=سِيَةٌ, (K,) and [of اسيان] اَسْيَانَةٌ (M, K) and اَسَيْى: (TA:) pl. [of اسيان] اَسْيَانُونَ (M, K) and اَسَايُونَ [which is extr. and somewhat doubtful] (K) and [of اسيانة] اَسْيَانَاتٌ and [of اسيى or of اَسِيَةٌ] اَسَايَا (M, K) and [of اسيى] اَسْيَيَاتٌ. (K.)    </entryFree> <br>\
+<b>اَسْيَانُ</b>               1     <br>\
+                     اَسْيَانُ<br>\
+                     ذ<br>\
+                   see above.    </entryFree> <br>\
+<b>اَسِىٌّ</b>               1     <br>\
+                     اَسِىٌّ<br>\
+                     ذ<br>\
+                   see above.    </entryFree> <br>\
+<b>ا=سٍ</b>               1     <br>\
+                     ا=سٍ<br>\
+                     ا=س<br>\
+                   see above.    </entryFree> <br>\
+<b>ا=سِيَةٌ</b>               1     <br>\
+                     ا=سِيَةٌ<br>\
+                     ا=سيه<br>\
+                     ا=سية<br>\
+                   mentioned in this art. in the K: see ا=سٍ in art. اسو.   </entryFree> <br>\
+' } );

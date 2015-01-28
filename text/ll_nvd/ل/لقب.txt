@@ -1,0 +1,39 @@
+load_data( { book: 'll_nvd', text: 'لقب2<br>\
+لقّبهُ بِكَذَا, inf. n. تَلْقِيبٌ, He called him, or<br>\
+named him, by such a by-name, or surname, or<br>\
+nickname; he surnamed him, or nicknamed him,<br>\
+so. (S, K.) See لَقَبٌ. ―<br>\
+-b2-  لقّب الإِسْمَ بِالفِعْلِ [i. e.,<br>\
+بِالفَاءِ وَالعَيْنِ وَاللَّامِ] He called the noun by an<br>\
+appellation in which its radical letters were represented by ف, ع, and ل; this appellation being<br>\
+its measure; as when جَوْرَبٌ is called فَوْعَلٌ.<br>\
+(TA.) [But this signification belongs to the<br>\
+conventional language of lexicology and grammar.]<br>\
+5<br>\
+تلقّب بِكَذَا He was by-named, surnamed, or<br>\
+nicknamed, so. (S, K.) See لَقَبٌ.<br>\
+3<br>\
+لَاقَبَهُ, inf. n. مُلَاقَبَةٌ, He called him by a byname, surname, or nickname; the latter doing to<br>\
+him the like. (TA.)<br>\
+6<br>\
+تَلَاقَبُوا They called one another by by-names,<br>\
+surnames, or nicknames. (TA.)<br>\
+لَقَبٌ A by-name; a surname; a nickname;<br>\
+syn. نَبَزٌ: (S, K:) a name of reproach; an<br>\
+opprobrious appellation: in this sense forbidden:<br>\
+(Msb:) it is said in the Kur, xlix., 11, لَا تَنَابَزُوا<br>\
+بِالْأَلْقَابِ Call not one another by nicknames; i. e.,<br>\
+let not one of you call another by a name which<br>\
+he dislikes: (Jel:) also a by-name, or surname,<br>\
+which is not one of reproach: such are the surnames given to certain Imáms; الأَنْمَشُ and<br>\
+الأَخْفَشُ and الاَّعْرَجُ and the like; and such are<br>\
+not forbidden, because by them is not meant<br>\
+reproach, or disparagement, but they are meant<br>\
+as mere appellations given with the approval of<br>\
+the persons to whom they are applied. (Msb.)<br>\
+[A لَقَب is distinguished from a كُنْيَة, q. v.] Pl.<br>\
+أَلْقَابٌ. (S, K.) ―<br>\
+-b2-  [لَقَبُ اسْمٍ The appellation<br>\
+given to a noun by substituting ف, ع, and ل for<br>\
+its radical letters. See 2.]<br>\
+' } );

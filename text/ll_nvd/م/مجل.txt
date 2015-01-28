@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مجل1<br>\
+مَجَلَتْ يَدُهُ<br>\
+His hand became blistered, or<br>\
+vesicated, by much work. (Mgh.)<br>\
+' } );

@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>عرتن</em>            1                  عرتن<br>\
+<b>عَرْتَنَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     عَرْتَنَ<br>\
+                     ذ<br>\
+                  <i>He tanned</i> a hide <i>with</i> [<i>the plant,</i> or <i>tree, called</i>] عَرْتُن or عَرْتَن &amp;amp;c. (TA.)    </entryFree> <br>\
+<b>عَرْتُنٌ</b>               1     <br>\
+                     عَرْتُنٌ<br>\
+                     ذ<br>\
+                  , (S, K, * [in the K it is not clear whether this be thus or عَرَتُنٌ,]) and عَرْتَنٌ, (S, K,) and عَرَتَنٌ, [thus accord. to copies of the K,] with تَحْرِيك, (K, TA,) and with kesr to the ت, (TA, [which may mean that it is عَرَتَنٌ and عَرَتِنٌ or only the latter, but what is meant in the K is evidently عَرَتَنٌ,]) originally ↓ <br>\
+      عَرَنْتُنٌ, like قَرَنْفُلٌ, (Kh, S, K,) and ↓ <br>\
+      عَرَنْتَنٌ, or both and ↓ <br>\
+      عَرَنْتِنٌ, as also ↓ <br>\
+      عَرَتُونٌ, (K,) <i>A species of plant,</i> (S,) or <i>tree,</i> (K,) <i>rough, resembling the</i> <br>\
+                  عَوْسَج [or <i>boxthorn</i>], <i>except that it is bigger, full and luxuriant in the branch, and not having tall stems,</i> (TA, [see also عِرْنَةٌ, of which the same is said,]) <i>with which,</i> (S, K, TA,) <i>it being</i> [<i>first</i>] <i>cooked,</i> (TA,) <i>one tans,</i> (S, K, TA,) <i>and the hide tanned therewith becomes red.</i> (TA.)    </entryFree> <br>\
+<b>عَرَتُونٌ</b>               1     <br>\
+                     عَرَتُونٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>عَرَنْتَُنٌ</b>               1     <br>\
+                     عَرَنْتَُنٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>مُعَرْتَنٌ</b>               1     <br>\
+                     مُعَرْتَنٌ<br>\
+                     ذ<br>\
+                  <i>A hide tanned with</i> <br>\
+                  عَرْتُن or عَرْتَن &amp;amp;c. (S, K.)   </entryFree> <br>\
+' } );

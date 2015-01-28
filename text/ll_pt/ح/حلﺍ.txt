@@ -1,0 +1,94 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حلا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حلا<br>\
+&lt;entryFree id=&quot;n8774&quot; key=&quot;حَلَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     حَلَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَلَاَ<br>\
+                  &lt;/form&gt;; and ↓ <br>\
+      اَحْلَاَهُ; &lt;i&gt;He applied the collyrium called&lt;/i&gt; <br>\
+                  حُلَا=ءَة <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  حَلُوْء <br>\
+                  &lt;i&gt;to his eyes:&lt;/i&gt; (K:) or, accord. to AZ, ↓ <br>\
+      اَحْلَاَهُ, inf. n. اـِحْلَا=ءٌ, signifies, &lt;i&gt;he rubbed for him powder from two stones, and applied their powder as a collyrium to his eyes when they were diseased:&lt;/i&gt; (TA:) and accord. to ISk, حَلَاَ لَهُ حَلُوْءًا signifies &lt;i&gt;he rubbed for him a stone upon another stone, then put the powder&lt;/i&gt; [&lt;i&gt;thus obtained&lt;/i&gt;] &lt;i&gt;upon the palm of his hand, and rubbed off with it the rust of a mirror,&lt;/i&gt; [see صَدَاَ and صَدَّاَ, the mirror being of bronze, or other metallic substance,] &lt;i&gt;then applied it as a collyrium&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;623&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;to his eyes.&lt;/i&gt; (K, * S.)       -A2-  حَلَاَهُ, inf. n. حَلْءٌ, &lt;i&gt;He flogged him&lt;/i&gt; with a whip. (S.) ―         -b2-  And, as also ↓ <br>\
+      حَلَّاَهُ, &lt;i&gt;He struck him&lt;/i&gt; with a sword, (S, K,) or a staff or stick. (TA.) ―         -b3-  حَلَاَ بِهِ الاَرْضَ <br>\
+                  &lt;i&gt;He threw him down on the ground, prostrate:&lt;/i&gt; (K:) like جَلَاَ به الارض, which, accord. to Az, is a dial. var. of حلا. (TA.) ―         -b4-  حَلَاَهَا (tropical:)  &lt;i&gt;He lay with her;&lt;/i&gt; or &lt;i&gt;compressed her.&lt;/i&gt; (K, TA.)       -A3-  حَلَاَهُ, (S, K,) and ↓ <br>\
+      حلّاهُ, (K,) and ↓ <br>\
+      احلاهُ, (TA,) &lt;i&gt;He gave him&lt;/i&gt; money. (AZ, S, K.) [Hence,] مَا حُلِيْتُ مِنْهُ بِطَايِلٍ [&lt;i&gt;I gained not,&lt;/i&gt; or &lt;i&gt;derived not, any great profit from him,&lt;/i&gt; or &lt;i&gt;it&lt;/i&gt;]. (T.) [See also 1 in art. حلى.]       -A4-  حَلَاَ الجِلْدَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَلَاَ<br>\
+                  &lt;/form&gt;, inf. n. حَلْ ءٌ and حَلْاَةٌ, &lt;i&gt;He&lt;/i&gt; (a currier) &lt;i&gt;shaved the hide;&lt;/i&gt; (S, K;) i. e., &lt;i&gt;removed what remained of the flesh.&lt;/i&gt; (K.) ―         -b2-  Hence the prov., حَلَاَتْ حَالِيَةٌ عِنْ كُوعِهَا [&lt;i&gt;A woman shaving a hide grazed the shin of the extremity of the bone of her fore arm next the thumb:&lt;/i&gt; see also حَزَّ]: for the dexterous woman sometimes hurries, and so grazes the skin of her wrist-bone. (S.) The prov., however, is differently explained: see حَالِيَةٌ. (TA.) ―         -b3-  حَلَاْتُ <br>\
+                  الصُّوفَ, inf. n. حَلْءٌ; as also حَلَتُّهُ; &lt;i&gt;I tore the wool&lt;/i&gt; from the sheep. (Lh, TA in art. حلت)       -A5-  حَلِىءَ الاَدِيمُ, inf. n. حَلَاـٌ, &lt;i&gt;The hide had in it what is called&lt;/i&gt; <br>\
+                  تِحْلِىءٌ. (S.) ―         -b2-  حَلِىءَ <br>\
+                  &lt;i&gt;He had pustules&lt;/i&gt; (حَلَاـٌ, for which is put in the K تِحْلِىءٌ) &lt;i&gt;upon his lips after a fever.&lt;/i&gt; (TA.) And حَليَت الشَّفَةُ <br>\
+                  &lt;i&gt;The lip broke out with pustules after an illness;&lt;/i&gt; (S, K;) as also حَلِيَت. (T.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     حَلَّاَ<br>\
+                  &lt;/form&gt; see 1, in two places.       -A2-  حلّا, inf. n. تَحْلِىْءٌ and تَحْلِيَةٌ, &lt;i&gt;He drove away, and debarred,&lt;/i&gt; (camels or other animals, S, or people, TA,) from the water. (S, K.) حَلَّيْتُمْ occurs in a trad. for حَلَّاْتُمْ, like قَرَيْتُ for قَرَاْتُ, contr. to analogy; it being a rule not to change hemzeh into ى unless the next preceding letter is meksoor. (TA.)       -A3-  حلّا السَّوِيقَ, inf. n. تَحْلِيَةٌ; as also ↓ <br>\
+      احلا; &lt;i&gt;He sweetened the&lt;/i&gt; <br>\
+                  سويق [or &lt;i&gt;mess made of the meal of parched barley&lt;/i&gt;]: but hemzeh does not properly belong to this verb; for it is from الحَلْوَا=ء. (Fr, S, K.) [See 2 in art. حلو.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَحْلَاَ<br>\
+                  &lt;/form&gt; see 1, in three places:       -A2-  and see also 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8775&quot; key=&quot;حَلَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَلَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Pustules breaking out upon the lips after a fever.&lt;/i&gt; (S, K.) [See also حَلًا, in art. حلى.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8776&quot; key=&quot;حَلُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَلُوْءٌ<br>\
+                     حل<br>\
+                     حلوء<br>\
+                  &lt;/form&gt;: see حُلَا=ءَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8777&quot; key=&quot;حَلَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَلَا=ءَةٌ<br>\
+                     حلا=ءه<br>\
+                     حلا=ءة<br>\
+                  &lt;i&gt;A land abounding with trees:&lt;/i&gt; (K:) or &lt;i&gt;the name of a certain place,&lt;/i&gt; (K,) &lt;i&gt;intensely cold;&lt;/i&gt; (TA;) as also حِلَا=ءة. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8778&quot; key=&quot;حُلَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حُلَا=ءَةٌ<br>\
+                     حلا=ءه<br>\
+                     حلا=ءة<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      حَلُوْءٌ <br>\
+                  &lt;i&gt;What is rubbed between two stones, to be applied as a collyrium&lt;/i&gt; (S, K) &lt;i&gt;for a pain in the eyes:&lt;/i&gt; (TA:) [but see the verb, in the explanations of which this collyrium seems to be more correctly described:] or حَلُوْءٌ is &lt;i&gt;a stone which a person with diseased eyes uses as a remedy:&lt;/i&gt; (K:) or, accord. to ISk, &lt;i&gt;a stone that is rubbed upon, and then used as a collyrium;&lt;/i&gt; [i. e., its powder is so used.] (TA.) تُحَكُّ ↓ <br>\
+      حَلُوْءَةٌ <br>\
+                  بِالذَّرَارِيحِ [&lt;i&gt;A powder for the eyes, that is rubbed together with cantharides,&lt;/i&gt;] is a prov., applied to him whose words are fair, and whose actions are foul. (TA.) ―         -b2-  حُلَا=ءَةٌ also signifies &lt;i&gt;That which a currier shaves off from the inner side of a hide.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8779&quot; key=&quot;حَلُوْءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَلُوْءَةٌ<br>\
+                     حله<br>\
+                     حلة<br>\
+                     حلوءه<br>\
+                     حلوءة<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8780&quot; key=&quot;حَالِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَالِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A malignant serpent,&lt;/i&gt; (Sh, K,) &lt;i&gt;the action of which, in poisoning him whom it bites, is like that of the oculist who rubs powder&lt;/i&gt; [&lt;i&gt;form two stones&lt;/i&gt;] &lt;i&gt;for him who has diseased eyes, and applies it to them.&lt;/i&gt; (Sh.) [Hence, accord. to some, the prov. above mentioned, as is stated (but without explanation) in the TA.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8781&quot; key=&quot;تِحْلِىءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تِحْلِىءٌ<br>\
+                     تحلىء<br>\
+                     تحليء<br>\
+                     تحلي<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      تِحْلِيَةٌ The &lt;i&gt;hair on the surface of a hide, and its dirt, and blackness:&lt;/i&gt; (K:) or &lt;i&gt;what is pared off from the back of a hide.&lt;/i&gt; (Lh, TA in art. بشر.) ―         -b2-  Also &lt;i&gt;What the knife spoils, of a hide, in the process of shaving it.&lt;/i&gt; (S, K.) ―         -b3-  رَجُلٌ تِحْلِيَةٌ (tropical:)  &lt;i&gt;A heavy,&lt;/i&gt; or &lt;i&gt;dull,&lt;/i&gt; or &lt;i&gt;troublesome, man,&lt;/i&gt; (TA,) &lt;i&gt;who sticks to another&lt;/i&gt; [&lt;i&gt;like dirt&lt;/i&gt;], &lt;i&gt;and vexes him.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8782&quot; key=&quot;تِحْلِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تِحْلِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8783&quot; key=&quot;مِحْلَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِحْلَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8784&quot; key=&quot;مِحْلَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِحْلَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A currier&#39;s knife, used for shaving the inner surface of the hide:&lt;/i&gt; (K:) and ↓ <br>\
+      محْلَاٌ the &lt;i&gt;iron instrument, or stone, with which one shaves off the&lt;/i&gt; <br>\
+                  تِحْلِىء <br>\
+                  &lt;i&gt;of a hide, and with which one skins.&lt;/i&gt; (TA voce مِحْمَرٌ, q. v.)   &lt;/entryFree&gt; <br>\
+' } );

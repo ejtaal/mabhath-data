@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>زنجفر</em>            1                  زنجفر<br>\
+<b>زُنْجُفْرٌ</b>               1     <br>\
+                     زُنْجُفْرٌ<br>\
+                     ذ<br>\
+                  <i>A certain dye,</i> [or <i>pigment,</i>] <i>well known,</i> (K,) <i>of a red colour, with which one writes as well as dyes;</i> [namely, <i>cinnabar:</i>] its virtue is similar to that of white lead; or, as some say, of شَادَنْج [a kind of stone, used medicinally, from the Persian شَادْنَهْ]: it is of two kinds, <i>native</i> and <i>factitious: the native is</i> [<i>formed by</i>] <i>the transition of a sulphureous substance into quicksilver:</i> [<i>it is a sulphureous ore of quicksilver:</i>] <i>the factitious</i> [<i>is what is called vermilion, and</i>] <i>is of various sorts.</i> (TA.)   </entryFree> <br>\
+' } );

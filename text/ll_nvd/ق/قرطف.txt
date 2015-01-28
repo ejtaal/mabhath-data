@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قرطفقَرْطَفٌ<br>\
+A red garment, of the kind called<br>\
+كِسَاء.<br>\
+See كَذَبَ, p. 2598 c.<br>\
+' } );

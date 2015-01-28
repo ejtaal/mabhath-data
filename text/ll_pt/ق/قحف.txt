@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قحف</em>            1                  قحف<br>\
+<b>قِحْفٌ</b>               1     <br>\
+                     قِحْفٌ<br>\
+                     ذ<br>\
+                  : see جُمْجُمَةٌ, in two places; ―         -b2-  and قِدٌّ. ―         -b3-  <i>A glass bowl;</i> as also جُمْجُمَةٌ. (Az, TA in art. جم.)   </entryFree> <br>\
+' } );

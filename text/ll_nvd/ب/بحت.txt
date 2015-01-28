@@ -1,0 +1,60 @@
+load_data( { book: 'll_nvd', text: 'بحت1<br>\
+بَحُتَ, aor.<br>\
+بَحُتَ, (S, Msb, K,) inf. n. بُحُوتَةٌ, (K,)<br>\
+or بَحْتٌ, (Msb,) It (a thing) was, or became, unmixed, free from admixture, or pure: (S, K:)<br>\
+[and] he was unmixed, or pure, in race, lineage,<br>\
+or parentage. (Msb.)<br>\
+3<br>\
+باحت المَآءَ, (A,) inf. n. مُبَاحَتَةٌ, (TA,) He<br>\
+drank water, or the water, not upon ثُفْل [i. e.<br>\
+without having eaten anything such as flesh-meat<br>\
+or bread or dates or grain]: (A:) or he drank<br>\
+water, or the water, not mixed with honey or any<br>\
+other thing. (TA.) And باحت الشَّرَابَ He drank<br>\
+the wine, or beverage, pure, without any mixture.<br>\
+(A.) And باحت الرِّمْثَ [He (a camel) ate of the<br>\
+shrub called رمث without any other pasture]. (T<br>\
+in art. طلح.) And باحت دَابَّتَهُ بِالضَّرِيعِ<br>\
+He fed his beast with ضريع, (i. e. dry herbage,<br>\
+TA,) and the like, unmixed [with other pasture].<br>\
+(K.) ―<br>\
+-b2-  باحتهُ الوُدَّ He regarded him, or acted<br>\
+towards him, with reciprocal purity, or sincerity,<br>\
+of love, or affection: (S, A, K:) or he was pure,<br>\
+or sincere, to him in love, or affection. (M.)<br>\
+And باحت القِتَالَ He fought with earnestness and<br>\
+energy, unmixed with lenity. (A, * TA.) And<br>\
+باحت فُلَانًا (inf. n. as above, TA) He acted<br>\
+openly, or undisguisedly, with, or towards, such<br>\
+a one. (K, TA.)<br>\
+بَحْتٌ Unmixed, free from admixture, or pure;<br>\
+(S, A, Mgh, K;) applied to anything: (A, K:)<br>\
+anything that is eaten alone, without seasoning or<br>\
+condiment or any savoury food: and in like<br>\
+manner, seasoning, or condiment, or any savoury<br>\
+food, without bread: (Ahmad Ibn-Yahyà:) unmixed, or pure, in race, lineage, or parentage;<br>\
+(S, A, Msb;) applied [for instance] to an Arab,<br>\
+(S, A,) and to an Arab of the desert: (TA:) originally an inf. n.; (Msb;) [and therefore] the<br>\
+same as masc. and fem. and dual and pl.: but if<br>\
+you will, you may use بَحْتَةٌ as a fem. epithet,<br>\
+applied [for instance] to an Arab woman; and<br>\
+may use the dual and pl. forms: (S:) or the fem.<br>\
+is [properly] with ة; or, as some say, the word<br>\
+has no dual nor pl. nor dim. form. (K.) You<br>\
+say شَرَابٌ بَحْتٌ Unmixed wine or beverage: (S:)<br>\
+and خَمْرٌ بَحْتٌ and بَحْتَةٌ and خُمُورٌ بَحْتَةٌ [unmixed wine and wines]. (TA.) And خُبْزٌ بَحْتٌ<br>\
+Bread without anything else [to season it]. (S.)<br>\
+And أَكَلَ الخُبْزَ بَحْتًا, and اللَّحْمَ بَحْتًا, He ate<br>\
+the bread without any seasoning or condiment or<br>\
+savoury food, and the flesh-meat without bread.<br>\
+(TA.) And قَدَّمَ إِلَيْهِ قَفَارًا بَحْتًا He presented to<br>\
+him food without any seasoning or condiment.<br>\
+(A.) And ادَّهَنَ بِدُهْنٍ بَحْتٌ He anointed himself<br>\
+with ointment unmixed with any perfume. (Mgh.)<br>\
+And مِسْكٌ بَحْنٌ (A, Msb) [Unmixed, or unadulterated, and therefore] strong [-scented,] musk.<br>\
+(Msb.) And بَرْدٌ بَحْتٌ لَحْتٌ Vehement, or intense,<br>\
+cold; (TA;) [as though unmixed with any degree<br>\
+of warmth;] syn. صَادِقٌ: (K in art. لحت:) the<br>\
+last word is an imitative sequent. (TA in that<br>\
+art.)<br>\
+' } );

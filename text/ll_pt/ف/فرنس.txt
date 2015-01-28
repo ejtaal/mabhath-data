@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>فرنس</em>            1                  فرنس<br>\
+               </head> For words mentioned in some of the lexicons under this head, see art. فرس.   </div2> <br>\
+' } );

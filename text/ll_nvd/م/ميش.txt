@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'ميش1<br>\
+مَاشَ<br>\
+He mixed hair with wool: see طَرَقَ;<br>\
+and see Freytag&#39;s Arab. Prov. ii. 28. ―<br>\
+-b2-  مَاشَ<br>\
+الكَلاَمَ<br>\
+i. q.<br>\
+طَارَقَهَ [He practised various modes of<br>\
+speech]. (TA in art. طرق.)<br>\
+' } );

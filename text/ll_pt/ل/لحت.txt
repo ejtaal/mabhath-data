@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>لحت</em>            1                  لحت<br>\
+<b>لَحَتَ</b>               1     <br>\
+                     لَحَتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَحَتَ<br>\
+                  , (inf. n. لَحْتٌ, TA,) <i>He beat, struck,</i> or <i>smote,</i> a person with a staff, or stick. (K.)       -A2-  لَحَتَ, aor.      <br>\
+                     لَحَتَ<br>\
+                  , (inf. n. لَحْتٌ, TA,) <i>He peeled,</i> or <i>unbarked,</i> a staff, or stick: (K:) or <i>sawed</i> it, <i>and peeled,</i> or <i>unbarked</i> it: as also نَحَتَ. (IAar.) ―         -b2-  هٰذَا رَجُلٌ لَا يَضِيرُكَ عَلَيْهِ نَحْتًا <br>\
+                  وَلَحْتًا expl. by ما يزيدك عليه نحتا اللشعر ولحتا له (tropical:)  [<i>This is a man than whom none will be more useful to thee in the trimming of verses:</i> <br>\
+                  يضيرك, which is written without the syll. points, is probably a mistake for يَضُرُّكَ: see art. ضر]. (IAar.) ―         -b3-  لَحَتَهُ بِالعَذْلِ, aor.      <br>\
+                     لَحَتَ<br>\
+                  , inf. n. لَحْتٌ, [<i>He trimmed him with reproof</i>]: a phrase similar to that immediately preceding. (TA, app. from IAar.) ―         -b4-  لَحَتَهُ, aor.      <br>\
+                     لَحَتَ<br>\
+                  , inf. n. لَحْتٌ, (assumed tropical:)  <i>He took what he had, leaving him nothing;</i> as also لَتَحَهُ. (TA.)       -A3-  لَحَتَ <br>\
+                  <i>Inivit</i> puellam: as also نَحَتَ, but this latter is not so well known. (TA, art. نحت.)    </entryFree> <br>\
+<b>بَرْدٌ بَحْتٌ لَحْتٌ</b>               1     <br>\
+                     بَرْدٌ بَحْتٌ لَحْتٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  صَادِقٌ; (Sgh, K;) [i.e., <i>Vehement,</i> or <i>intense, cold:</i> see بَحْتٌ: and see also لَخْتٌ]. لَحْتٌ is here a mere imitative sequent. (TA.)   </entryFree> <br>\
+' } );

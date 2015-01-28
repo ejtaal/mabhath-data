@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>نصا</em>            1                  نصا<br>\
+<b>نَصَاَهُ</b>               1     <br>\
+                     نَصَاَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَصَاَ<br>\
+                  , <i>He took him by the</i> <br>\
+                  نَاصِيَة [or <i>forelock</i>]: (K:) from نَاصِيَةٌ: and therefore regarded by some as improperly mentioned in the K in this art. (MF.) ―         -b2-  نَصَاَ, aor.      <br>\
+                     نَصَاَ<br>\
+                  , (S, K,) inf. n. نَصْءٌ, (TA,) <i>He chid,</i> (a camel, TA, or she-camel, S); syn. زَجَرَ. (AZ, S, K.) ―         -b3-  نَصَاَ, (S, K,) inf. n. as above, (TA,) <i>He raised,</i> or <i>elevated,</i> a thing: (Ks, AA, S, K:) dial. form of نَصَّ. (S.)   </entryFree> <br>\
+' } );

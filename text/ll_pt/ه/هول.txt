@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هول</em>            1                  هول<br>\
+<b>مَهُولٌ</b>               1     <br>\
+                     مَهُولٌ<br>\
+                     ذ<br>\
+                  <i>Terrible.</i> (TA.)    </entryFree> <br>\
+<b>نَِارُ المُهَوَّلِ</b>               1     <br>\
+                     نَِارُ المُهَوَّلِ<br>\
+                     ذ<br>\
+                  : see نَارٌ.   </entryFree> <br>\
+' } );

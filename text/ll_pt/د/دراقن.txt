@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>دراقن</em>            1                  دراقن<br>\
+<b>دُرَاقِنٌ</b>               1     <br>\
+                     دُرَاقِنٌ<br>\
+                     دراقن<br>\
+                   and دُرَّاقِنٌ, (K, and the latter is mentioned in one of my copies of the S,) the latter is that which is in common use, (TA,) The <i>peach;</i> syn. خَوْخٌ: (AHn, IDrd, K; and so in a copy of the S:) and the <i>apricot;</i> syn. مِشْمِشٌ; (K;) but this application of the words is not known: (TA:) of the Syrian dial.: (K, and so in a copy of the S:) IDrd says that the people of Syria call the former fruit دراقن, which is an arabicized Syrian word, or [rather] Greek, [originally        <br>\
+      <orth lang=&quot;gr&quot;>δωράκιον</orth>,] and El-Jawáleekee also mentions it among arabicized words. (TA.)   </entryFree> <br>\
+' } );

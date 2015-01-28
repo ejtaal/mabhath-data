@@ -1,0 +1,28 @@
+load_data( { book: 'll_nvd', text: 'مكد1<br>\
+مَكَدَ, (S, L, K,) aor.<br>\
+مَكُدَ, (L,) inf. n. مُكُودٌ<br>\
+(S, L, K) and مَكْدٌ, (K,) He remained, stayed,<br>\
+abode, or dwelt, (S, L, K,) بِمَكَانٍ in a place;<br>\
+(S, L;) as also مَكَتَ. (TA.)<br>\
+مَاكِدٌ Water (L) lasting, or continuing, (L,<br>\
+K,) unceasingly. (K.) ―<br>\
+-b2-  نَاقَةٌ مَاكِدَةٌ A she-camel abounding with milk; as also ↓ مَكْدَآءُ:<br>\
+(K:) or constantly, or always, abounding with<br>\
+milk; (L;) as also ↓ مَكْدَآءُ (S, L;) and ↓ مَكُودٌ:<br>\
+(S, L, K:) like نَكْدَآءُ: (S, L:) pl. of مَكُودٌ,<br>\
+مُكْدٌ, (K,) or مُكُدٌ, and مَكَائِدُ. (L.) ―<br>\
+-b3-  بِئْرٌ<br>\
+مَاكِدَةٌ, and ↓ مَكُودٌ A well having a constant,<br>\
+or unceasing, supply of water: (L:) and رَكِيَّةٌ<br>\
+مَاكِدَةٌ a well whereof the water remains without<br>\
+diminution [to which is added عَلَى قَرْنِ واحِدٍ<br>\
+لَا يَتَغَيَّرُ وَالقَرْنُ قَرْنُ القَامَةِ, app. meaning, of the<br>\
+measure of one قَرْن, not changing; by قرن being<br>\
+meant the structure of stone which supports the<br>\
+wood whereto the pulley is suspended, and which<br>\
+is described as being of the proportion of a man].<br>\
+(S, L.) ―<br>\
+-b4-  وُدٌّ مَاكِدٌ (tropical:)  Unceasing love or affection. (L.)<br>\
+مَكُودٌ: see مَاكِدٌ.<br>\
+مَكْدَآءُ: see مَاكِدٌ.<br>\
+' } );

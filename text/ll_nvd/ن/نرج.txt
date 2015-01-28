@@ -1,0 +1,28 @@
+load_data( { book: 'll_nvd', text: 'نرج1<br>\
+نَرَجَ He thrashed wheat, or corn, with a<br>\
+نَوْرَج. (TA.)<br>\
+نَوْرَجٌ (L, K) and ↓ نَيْرَجٌ and ↓ نُورَجٌ, the last<br>\
+of the dial. of El-Yemen, and a word of which<br>\
+there is not the like in Arabic, (L,) A thrashinginstrument, or that with which heaps of wheat, or<br>\
+corn, are thrashed, whether of wood or of iron;<br>\
+(L, K;) or, of iron and wood; (Sifr es-Sa&#39;ádeh;)<br>\
+[a kind of drag, used, in Egypt and Arabia and<br>\
+some other countries of Western Asia, for the<br>\
+purpose of separating the grain of wheat and<br>\
+barley &amp;c. and cutting the straw, which serves as<br>\
+fodder; it is a machine in the form of a chair<br>\
+fixed upon a sledge, which moves upon small iron<br>\
+wheels, or thin circular plates, generally eleven,<br>\
+fixed to three thick axle-trees, four to the foremost, the same number to the hindmost, and three<br>\
+to the intermediate axle-tree: this machine is<br>\
+drawn, in a circle, by a pair of cows or bulls,<br>\
+their driver being seated upon it, over the corn:<br>\
+pl. [of the first and last words] نَوَارِجُ. (TA.) ―<br>\
+-b2-<br>\
+Also, the first and second, A ploughshare. (K.)<br>\
+نُورَجٌ and نَيْرَجٌ: see نَوْرَجٌ<br>\
+نَارَنْجٌ A well-known fruit; [the orange; citrus<br>\
+aurantium; of which there are two species common in the gardens of the East, one sweet, and<br>\
+the other bitter:] and arabicized word, from [the<br>\
+Persian] نَارَنْكْ [also called نَارِنْج]. (K.)<br>\
+' } );

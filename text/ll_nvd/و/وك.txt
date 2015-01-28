@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'وكعَكَّ وَكَّ<br>\
+and عَكَّى وَكَّى: see art. عك.<br>\
+' } );

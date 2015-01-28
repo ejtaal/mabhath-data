@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>قرم</em>            1                  قرم<br>\
+<b>قَرَمَ</b>               1     <br>\
+                     قَرَمَ<br>\
+                     ذ<br>\
+                  <i>It gnawed:</i> see عُثَيْثَةٌ.    </entryFree> <br>\
+<b>قَرْمٌ</b>               1     <br>\
+                     قَرْمٌ<br>\
+                     ذ<br>\
+                  : see مُصْعَبٌ.    </entryFree> <br>\
+<b>قُرْمٌ</b>               1     <br>\
+                     قُرْمٌ<br>\
+                     ذ<br>\
+                  : see شَوْرَى.    </entryFree> <br>\
+<b>قُرْمَةٌ</b>               1     <br>\
+                     قُرْمَةٌ<br>\
+                     ذ<br>\
+                  : see فُقْرَةٌ.    </entryFree> <br>\
+<b>قرّام</b>               1     <br>\
+                     قرّام<br>\
+                     ذ<br>\
+                   ? <i>A kid.</i> (IAar; in TA, art. عت.) ―         -b2-  See مِقْرَمَةٌ.    </entryFree> <br>\
+<b>مِقْرَمٌ</b>               1     <br>\
+                     مِقْرَمٌ<br>\
+                     ذ<br>\
+                  : see مِقْرَمَةٌ.    </entryFree> <br>\
+<b>مِقْرَمَةٌ</b>               1     <br>\
+                     مِقْرَمَةٌ<br>\
+                     ذ<br>\
+                  <i>A coverlet of a bed;</i> (Mgh, in arts. قرم and حبس;) also called مِحْبَسٌ: (Id, in art. حبس:) or <i>a thin curtain,</i> accord. to some, <i>figured;</i> as also ↓ <br>\
+      مِقْرَمٌ and ↓ <br>\
+      قِرَامٌ: (Msb:) or this last, <i>a figured curtain.</i> (Msb.)   </entryFree> <br>\
+' } );

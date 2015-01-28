@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>هجا</em>            1                  هجا<br>\
+<b>هَجَاَ</b>               1     <br>\
+                     هَجَاَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     هَجَاَ<br>\
+                  , inf. n. هَجْءٌ and هُجُوْءٌ, (K,) <i>It</i> (his hunger) <i>became appeased,</i> (S, K,) <i>and departed,</i> or <i>ceased.</i> (K.) ―         -b2-  هَجَاَ <br>\
+                  <i>He ate</i> food. (K.) ―         -b3-  هَجَاَ, (K,) inf. n. هَجْءٌ, (TA,) <i>He filled</i> his belly. (K.) ―         -b4-  هَجَاَ and ↓ <br>\
+      اهجا <br>\
+                  <i>He stayed,</i> or <i>restrained,</i> camels (K) or sheep or goats, (TA,) <i>that they might pasture.</i> (K, TA.) هَجِيَ, aor.      <br>\
+                     هَجَاَ<br>\
+                  , <i>He had raging hunger.</i> (K.)    </entryFree> <br>\
+                     اَهْجَاَ<br>\
+                   see 1. ―         -b2-  اهجا جُوعَهُ, inf. n. اـِهْجَاءٌ, <i>It</i> (food) <i>appeased his hunger;</i> or <i>caused it to depart,</i> or <i>cease.</i> (S, K.) ―         -b3-  اهجاهُ حَقَّهُ, (K,) and اهجى, (TA,) <i>He paid him his due.</i> (K.) ―         -b4-  اهجاهُ شَيْيًا <br>\
+                  <i>He gave him a thing to eat.</i> (K.)    </entryFree> <br>\
+<b>تهجّا الحَرْفَ</b>               1     <br>\
+                     تهجّا الحَرْفَ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  تهجّى. (K.)    </entryFree> <br>\
+<b>هَجَاٌ</b>               1     <br>\
+                     هَجَاٌ<br>\
+                     ذ<br>\
+                  <i>Any state,</i> or <i>case, in which one has been, and which has ceased.</i> (K.) It also occurs without ء, هَجًا (TA.)    </entryFree> <br>\
+<b>هُجَاَةٌ</b>               1     <br>\
+                     هُجَاَةٌ<br>\
+                     ذ<br>\
+                  <i>Foolish; stupid.</i> (K.)   </entryFree> <br>\
+' } );

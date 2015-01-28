@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>كوكب</em>            1                  كوكب<br>\
+<b>كَوْكَبٌ</b>               1     <br>\
+                     كَوْكَبٌ<br>\
+                     ذ<br>\
+                   &amp;amp;c.: see art. ككب.   </entryFree> <br>\
+            <div2 n=&quot;kwm kwn kwY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كوم كون كوى<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+            <div2 n=&quot;kyA and kwA&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كيا and كوا<br>\
+<b>كَا=ءَ عَنِ الاَمْرِ</b>               1     <br>\
+                     كَا=ءَ عَنِ الاَمْرِ<br>\
+                     ذ<br>\
+                  , first pers. كِيْتُ, aor. يَكِىْءُ, inf. n. كَىْءٌ and كَيْيَةٌ; (S, K; *) and كَا=ءَ عَنْهُ, first pers. كُوْتُ, aor. يَكُوْءُ, inf. n. كَوْءٌ and كَا=ءٌ and كَاْوٌ, this last formed by transposition; (K;) <i>He abstained from the thing through timidity:</i> (TA:) or <i>he dreaded the thing, and abstained from it through cowardice:</i> (S, K, TA:) or <i>his eye reverted from the thing, and he desired it not.</i> (TA.) ―         -b2-  كَاءَ عَنْهُ <br>\
+                  <i>He retired from him through fear.</i> (TA.) [Accord. to the TA, it seems that ↓ <br>\
+      اَكَا=ءَهُ also has this signification.]    </entryFree> <br>\
+<b>اكاءه</b>               1     <br>\
+                     اكاءه<br>\
+                     ذ<br>\
+                  , inf. n. اـِكَا=ءٌ and اـِكَا=ءَةٌ, <i>He came upon him suddenly, when he</i> (the latter) <i>was about to do a thing, and caused him to abstain from it through fear</i> or <i>cowardice.</i> (K, TA.) But some say that this is correctly اَكَاَهُ; like كَتَبَ, inf. n. كِتَابٌ and كِتَابَةٌ. (TA, art. اَكا.) ―         -b2-  See 1.    </entryFree> <br>\
+<b>كَا=ءٌ</b>               1     <br>\
+                     كَا=ءٌ<br>\
+                     ذ<br>\
+                   and كَا=ءَةٌ and ↓ <br>\
+      كَىْءٌ (S, K) and كَيْيَةٌ (K) A <i>weak-hearted, cowardly,</i> man: (K, TA:) like كَعٌّ and كَاعٌّ. (S.)    </entryFree> <br>\
+<b>كَىْءٌ</b>               1     <br>\
+                     كَىْءٌ<br>\
+                     ذ<br>\
+                   and كَيْيَةٌ: see كَا=ءٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'بصع1<br>\
+بَصَعَ, aor.<br>\
+بَصَعَ, (K,) inf. n. بَصْعٌ, (S,) He collected: (K:) [J says,] I have heard from certain<br>\
+of the grammarians that البَصْعُ is syn. with الجَمْعُ,<br>\
+but I know not what is the truth of the matter.<br>\
+(S.) Hence what here follows. (TA.)<br>\
+أَبْصَعُ is a word used as a corroborative, and is<br>\
+pronounced by some with the pointed ض, but<br>\
+this is not of high authority: you say, أَخَذْتُ حَقِّى<br>\
+أَجْمَعَ أَبْصَعَ [I took my right, or due, altogether]:<br>\
+and [the pl. is أَبْصَعُونَ:] you say, جَآءَ القَوْمُ<br>\
+أَجْمَعُونَ أَبْصَعُونَ [The people, or company of men,<br>\
+came all together]: and the fem. is بَصْعَآءُ: you<br>\
+say, جَمْعَآءَ بَصْعَآءَ: and [the pl. of بَصْعَآءُ is بُصَعُ:<br>\
+you say,] رَأَيْتُ النِّسْوَةَ جُمَعَ بُصَعَ [I saw the women<br>\
+all together]: it is a corroborative occurring in a<br>\
+particular order, never before اجمع. (S.) [See<br>\
+أَبْتَعُ.]<br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;ه&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>h</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;ه&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>ه</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     ه<br>\
+                     ذ<br>\
+                  هُ: the vowel of this pron. is sometimes, in a case of pause, transferred to the preceding letter: and this is always done in modern Arabic. ―         -b2-  هْ subjoined in هُنَّهْ, and the like: see اَبْيَضُ. ―         -b3-  The هَا, termed تَنْبِيهٌ, is said by some to be used as an inceptive, without any meaning but inception. (See ذا.) See كَلِمَةُ تَنْبِيهٍ in art. نبه: and see an ex. voce تَا. When followed by a pronoun, as هو, &amp;amp;c., it is best rendered <i>Lo.</i> ―         -b4-  ه of pausation: see remarks on a verse cited voce حِينٌ. ―         -b5-  بِهَا, in حَطَاَ بِهَا, and many phrases syn. therewith, is app. for بِاْسْتِهِ. See حَطَاَ.    </entryFree> <br>\
+<b>هَا=ءَ</b>               1     <br>\
+                     هَا=ءَ<br>\
+                     ذ<br>\
+                   and هَا=ءِ: see art. هوا.   </entryFree> <br>\
+' } );

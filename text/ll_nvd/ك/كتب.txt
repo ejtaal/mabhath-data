@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'كتبكِتَابٌ<br>\
+(same as عَقْدٌ) The ceremony (not certificate) of a marriage-contract.<br>\
+كَتَبُواكِتَابَهُ عَلَى<br>\
+فُلَانَةٍ<br>\
+They performed the ceremony of the contract of his marriage to such a woman (same as<br>\
+عقدوا عَقْدَهُ). ―<br>\
+-b2-  أَهْلُ الكِتَابِ: see أَهْلٌ.<br>\
+' } );

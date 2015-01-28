@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>نبع</em>            1                  نبع<br>\
+<b>نَبَعَ</b>               1     <br>\
+                     نَبَعَ<br>\
+                     ذ<br>\
+                  <i>It</i> (water) <i>welled,</i> or <i>issued forth.</i> ―         -b2-  نَبَعَ عَلَيْهِمْ: see نَبَاَ عليهم.    </entryFree> <br>\
+<b>اَنْبَعَ</b>               1     <br>\
+                     اَنْبَعَ<br>\
+                     ذ<br>\
+                  <i>He</i> (God) <i>made,</i> or <i>caused,</i> water <i>to issue.</i> (Msb.)    </entryFree> <br>\
+<b>نَبْعٌ</b>               1     <br>\
+                     نَبْعٌ<br>\
+                     ذ<br>\
+                  <i>The tree so-called:</i> see an ex. of its n. un. in a verse cited voce تَحَوَّفَ and تَخَوَّفَ. ―         -b2-  نَبْعٌ: see شَوْحَطٌ and شِرْيَانٌ and فَتْحٌ. ―         -b3-  نَبْعَانِ The <i>two shafts</i> of a cart: so called because they were commonly made of wood of the tree called نَبْع: see رَادَّةٌ.    </entryFree> <br>\
+<b>انْبَعُ</b>               1     <br>\
+                     انْبَعُ<br>\
+                     ذ<br>\
+                  , irregularly formed from the augmented verb اَنْبَعَ: see an ex. in a couplet cited voce سَقَى.   </entryFree> <br>\
+' } );

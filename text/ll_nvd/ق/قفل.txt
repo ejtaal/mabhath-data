@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'قفل4<br>\
+أَقْفَلَ البَابَ<br>\
+He locked the door. (TK.) See<br>\
+also أَغْلَقَ.<br>\
+قَفْلٌ<br>\
+: see فَرَاشٌ.<br>\
+قَافِلٌ<br>\
+A slender horse. (TA, art. خشب.)<br>\
+قَافِلَةٌ<br>\
+A company, or an assemblage of persons,<br>\
+travelling together: (El-Fárábee, Msb:) or a<br>\
+company returning from a journey: (S, K:)<br>\
+and commencing a journey; as auguring their<br>\
+return: (El-Fárábee, Msb, K:) he who restricts<br>\
+it to those returning from a journey errs: (ElFárábee, Msb, in which see more:) a caravan.<br>\
+' } );

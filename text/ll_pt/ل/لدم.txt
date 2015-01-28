@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لدم</em>            1                  لدم<br>\
+<b>مُلَدَّمٌ</b>               1     <br>\
+                     مُلَدَّمٌ<br>\
+                     ذ<br>\
+                   A garment, or piece of cloth, <i>patched,</i> or <i>pieced;</i> or <i>patched,</i> or <i>pieced, in several places;</i> like مُرَدَّمٌ. (Lth, T, in art. ردم.)   </entryFree> <br>\
+' } );

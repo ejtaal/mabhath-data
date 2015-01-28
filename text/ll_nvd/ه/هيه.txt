@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'هيههِيهَ<br>\
+and هِيهِ and هِيهٍ: see إِيهَ and ايهِ and<br>\
+إِيهٍ<br>\
+هَيْهَاتَ كَذَا<br>\
+Far, or far from being believed<br>\
+or from the truth, is such a thing; as also هَيْهَاتَ<br>\
+لِكَذَا: or the latter means remoteness, or remoteness from being believed or from the truth, is to<br>\
+be attributed to such a thing:<br>\
+هَيْهَاتَ followed<br>\
+by لِ means بَعُدَ, (Jel, in xxiii. 38,) or بَعُدَ<br>\
+التَّصْدِيقُ or الصِّحَّةُ: (Bd, ibid:) or البُعْدُ: (Bd,<br>\
+ibid, TA:) and without لِ after it, it denotes<br>\
+the pronouncing [a thing] remote. (TA.) See<br>\
+أَيْهَاتَ. ―<br>\
+-b2-  هَيْهَات denotes one&#39;s deeming a thing<br>\
+remote, or improbable, and despairing of it; and<br>\
+means بَعُدَ جِدًّا [Very far, &amp;c.], or ما أَبْعَدَ<br>\
+[How far, &amp;c.]; implying more than بَعُدَ<br>\
+though we render it by this word. (Kull,<br>\
+p. 382.)<br>\
+' } );

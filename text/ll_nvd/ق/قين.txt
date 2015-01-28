@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قينقَيْنٌ<br>\
+The part, of a camel, that is the place of<br>\
+the shackle, or hobble. (Ham, p. 558.) See a<br>\
+verse of Dhu-r-Rummeh, voce دَانَى.<br>\
+-------------------------------------------------<br>\
+' } );

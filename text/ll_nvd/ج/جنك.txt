@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'جنكجَنْكٌ [and جُنْكٌ] A certain [musical] instrument, which is beaten like the عُود [or lute;<br>\
+namely, the Persian harp; two specimens of<br>\
+which are figured in Note 26 to Chap. iii. of my<br>\
+translation of the “Thousand and One Nights”];<br>\
+mentioned by El-Khafájee in the Shifá el-Ghaleel;<br>\
+and often spoken of: it is an arabicized word;<br>\
+(MF, TA;) from the Persian چَنْگ: and applied<br>\
+[also] to the دفّ, [دُفّ or دَفّ, i. e., tambourine,]<br>\
+with which one plays. (TA.)<br>\
+جَنْكِىٌّ [and جُنْكِىٌّ] A player on the جنك above<br>\
+mentioned. (TA.)<br>\
+' } );

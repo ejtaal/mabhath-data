@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كوم8<br>\
+اِكْتَامَ<br>\
+He walked upon the extremities of<br>\
+his toes, by choice. (TA, voce حَارِقَةٌ, q. v.)<br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'ذون5<br>\
+تذوّن He was, or became, in a state of<br>\
+richness, wealth, or competence, and ease and<br>\
+plenty. (IAar, K. [In the CK, النّعْمَةُ is here, as<br>\
+in many other instances, erroneously put for<br>\
+النَّعْمَةُ.]) [See also تدوّن. Perhaps both are<br>\
+correct, as dial. vars.]<br>\
+ذَانٌ (S, K) and ذَيْنٌ, (TA,) [the latter belonging to art. ذين,] A vice, fault, defect, or the<br>\
+like; (S, K;) syn. with ذَابٌ [and ذَيْبٌ] and ذَامٌ<br>\
+and ذَيْمٌ; (S, TA;) as heard by ISk from AA. (S.)<br>\
+ذُونُونٌ A certain plant: a dial. var. of ذُؤْنُونٌ,<br>\
+with ء: [see the latter in art. ذأن:] pl. ذَوَانِينُ:<br>\
+mentioned by Az, on the authority of Ks. (TA.)<br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>استبرق</em>            1                  استبرق<br>\
+<b>اـِسْتَبْرَقٌ</b>               1     <br>\
+                     اـِسْتَبْرَقٌ<br>\
+                     اـستبرق<br>\
+                     استبرق<br>\
+                  : see art. برق, in which, and in art. سرق, it is mentioned: but this is its proper place, if it be an arabicized word: in the T it is mentioned in art. ستبرق.   </entryFree> <br>\
+' } );

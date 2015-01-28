@@ -1,0 +1,59 @@
+load_data( { book: 'll_pt', text: '<em>كلح</em>            1                  كلح<br>\
+<b>كَلَحَ</b>               1     <br>\
+                     كَلَحَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَلَحَ<br>\
+                  , inf. n. كُلُوحٌ and كُلَاحٌ; (S, K;) and ↓ <br>\
+      تلكّح, and ↓ <br>\
+      اكلح, (K,) and ↓ <br>\
+      اكلوّح; (A;) <i>He</i> (a man, S) <i>grinned,</i> or <i>displayed his teeth,</i> (M, rendered in the S and K by تَكَشَّرَ), <i>frowning,</i> or <i>contracting his face,</i> or <i>looking sternly, austerely,</i> or <i>morosely.</i> (S, M, K.) ―         -b2-  كَلَحَ فِى وَجْهِهِ <br>\
+                  <i>He frightened him;</i> namely a child, and a madman. (A.)    </entryFree> <br>\
+<b>كلّح وَجْهَهُ</b>               1     <br>\
+                     كلّح وَجْهَهُ<br>\
+                     ذ<br>\
+                  <i>He contracted his face much.</i> (A.)    </entryFree> <br>\
+<b>مُكَالَحَةٌ</b>               1     <br>\
+                     مُكَالَحَةٌ<br>\
+                     ذ<br>\
+                   [inf. n. of كالحهُ <br>\
+                  <i>He contended with him for superiority in strength;</i>] <i>i. q.</i> <br>\
+                  مُشَادَّةٌ. (S.) [And so مُجَالَحَةٌ.]    </entryFree> <br>\
+<b>اَكْلَحَهُ</b>               1     <br>\
+                     اَكْلَحَهُ<br>\
+                     ذ<br>\
+                  <i>He</i> (or <i>it,</i> L) <i>made him to grin,</i> or <i>display his teeth, frowning,</i> or <i>contracting his face,</i> or <i>looking sternly, austerely,</i> or <i>morosely.</i> (L, K.) ―         -b2-  See 1.    </entryFree> <br>\
+<b>تكلّح</b>               1     <br>\
+                     تكلّح<br>\
+                     ذ<br>\
+                   (tropical:)  <i>He smiled:</i> see 1. (K.) ―         -b2-  Hence, (TA,) تكلّح البَرْقُ (tropical:)  <i>The lightning flashed in continued succession:</i> (S, L, K:) also, <i>it continued, and became concealed, in a white cloud.</i> (L.)    </entryFree> <br>\
+                   see 1.    </entryFree> <br>\
+<b>كَلَحَةٌ</b>               1     <br>\
+                     كَلَحَةٌ<br>\
+                     ذ<br>\
+                   (tropical:)  The <i>mouth and parts around it.</i> So in the phrase مَا اَقْبَحَ كَلَحَتَهُ <br>\
+                  <i>How ugly is his mouth with the parts around it!</i> (S, K.)    </entryFree> <br>\
+<b>كَلَاحِ</b>               1     <br>\
+                     كَلَاحِ<br>\
+                     ذ<br>\
+                  : see كُلَاحٌ.    </entryFree> <br>\
+<b>كُلَاحٌ</b>               1     <br>\
+                     كُلَاحٌ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      كَلَاحِ, the latter [indecl.] like قَطَامِ, (K,) (tropical:)  <i>A year of dearth, scarcity, drought, sterility,</i> or <i>barrenness.</i> (S, K.) You say اَصَابَتْهُمْ سَنَةٌ كُلَاحٌ <br>\
+                  <i>A year of dearth, &amp;amp;c., befell them.</i> (TA.) See كَالِحٌ.    </entryFree> <br>\
+<b>كَالِحٌ</b>               1     <br>\
+                     كَالِحٌ<br>\
+                     ذ<br>\
+                  , act. part. n. of 1. ―         -b2-  Also, <i>Having the lip withdrawn from the teeth.</i> (Zj, L.) So in the Kur xxiii. 106, accord. to Zj. (L.)       -A2-  دَهْرٌ كَالِحٌ (tropical:)  <i>Severe, distressing,</i> or <i>afflictive, fortune,</i> or <i>time;</i> (S, K;) as also ↓ <br>\
+      كُلَاحٌ. (TA.)    </entryFree> <br>\
+<b>كَوْلَحٌ</b>               1     <br>\
+                     كَوْلَحٌ<br>\
+                     ذ<br>\
+                  <i>Foul, unseemly,</i> or <i>ugly;</i> syn. قَبِيحٌ: (K;) an epithet applied to a man. (TA.)    </entryFree> <br>\
+<b>بَلَا=ءٌ مُكْلِحٌ</b>               1     <br>\
+                     بَلَا=ءٌ مُكْلِحٌ<br>\
+                     ذ<br>\
+                  <i>A trial,</i> or <i>an affliction, which, by its severity, makes men grin and frown.</i> (L, from a trad.)   </entryFree> <br>\
+' } );

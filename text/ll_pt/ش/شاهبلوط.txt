@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شاهبلوط</em>            1                  شاهبلوط<br>\
+<b>شَاهْبَلُّوط</b>               1     <br>\
+                     شَاهْبَلُّوط<br>\
+                     ذ<br>\
+                   [a Pers. word, and also used by the Arabs in the present day, applied to The <i>chestnut</i>]: also written شَاهْ بَلُّوط. (TA voce بَلُّوطٌ and voce جَمَلٌ.)   </entryFree> <br>\
+' } );

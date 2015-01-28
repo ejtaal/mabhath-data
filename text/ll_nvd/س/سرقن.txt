@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'سرقنQ. 1<br>\
+سَرْقَنَ: see the next preceding art.<br>\
+سَرْقِينٌ: see the next preceding art.<br>\
+' } );

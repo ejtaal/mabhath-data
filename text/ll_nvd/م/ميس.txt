@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'ميسالمَيْسَانُ<br>\
+One of the two stars called الهَنْعَةُ.<br>\
+The other [c] is called الزِّرُّ. (El-Kazweenee.)<br>\
+' } );

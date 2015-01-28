@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>قفر</em>            1                  قفر<br>\
+<b>القَفْرُ اليَهُودِىُّ</b>               1     <br>\
+                     القَفْرُ اليَهُودِىُّ<br>\
+                     ذ<br>\
+                  <i>Jews-pitch,</i> i. e. <i>asphaltum;</i> also called <i>mumia,</i> and in Arabic مُومِيَا: see De Sacy&#39;s Abd-allatif, p. 273: and see تِرْيَاقٌ and حُمَرٌ.    </entryFree> <br>\
+<b>قَفُورٌ</b>               1     <br>\
+                     قَفُورٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  كَافُورٌ. (IDrd in TA, art. كفر.)   </entryFree> <br>\
+' } );

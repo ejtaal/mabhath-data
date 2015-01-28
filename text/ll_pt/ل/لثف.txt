@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>لثف</em>            1                  لثف<br>\
+<b>لُثْفَةٌ</b>               1     <br>\
+                     لُثْفَةٌ<br>\
+                     ذ<br>\
+                   The <i>changing, in pronunciation,</i> <br>\
+                  س <br>\
+                  <i>into</i> <br>\
+                  ث, <i>or</i> <br>\
+                  ر <br>\
+                  <i>into</i> <br>\
+                  غ <br>\
+                  <i>or</i> <br>\
+                  ل, (S, K, Msb,) <i>and the like:</i> (Msb:) or, <i>one letter into another.</i> (Az, in Msb, K.) Also, <i>A word mispronounced;</i> as when a word is said to be لُغَةٌ اَوْ لُثْفَةٌ <br>\
+                  <i>a dialectal variant or a word mispronounced.</i>   <br>\
+' } );

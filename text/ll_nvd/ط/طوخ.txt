@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'طوخ1<br>\
+طَاخَهُ, (K,) aor. يَطُوخُهُ, (TA,) inf. n.<br>\
+طَوْخٌ; (K;) as also طَاخَهُ, aor. يَطِيخُهُ, inf. n.<br>\
+طَيْخٌ; which is the more common; (TA;) He<br>\
+charged, reproached, or upbraided, him with<br>\
+something bad, evil, abominable, or foul, either<br>\
+said or done. (K.) [See also art. طيخ.]<br>\
+' } );

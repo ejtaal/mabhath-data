@@ -1,0 +1,49 @@
+load_data( { book: 'll_pt', text: '<em>شكس</em>            1                  شكس<br>\
+<b>شَكِسَ</b>               1     <br>\
+                     شَكِسَ<br>\
+                     ذ<br>\
+                  , (T, S, Msb, TA,) aor.      <br>\
+                     شَكَسَ<br>\
+                  , inf. n. شَكَسٌ (T, Msb, TA) and شَكَاسَةٌ; (T, S, Msb, TA;) or شَكُسَ, aor.      <br>\
+                     شَكُسَ<br>\
+                  , (O, K, TA,) inf. n. شَكَاسَةٌ; (O;) <i>He was,</i> or <i>became, refractory, untractable, perverse, stubborn,</i> or <i>obstinate, in disposition:</i> (S, O, K:) or <i>hard in disposition,</i> or <i>illnatured, in behaviour</i> or <i>dealing:</i> (TA:)or <i>evil in disposition,</i> or <i>illnatured, and very perverse</i> or <i>cross</i> or <i>repugnant and averse;</i> syn. شَرِسَ. (Msb, TA. *)     <br>\
+<b>شاكسهُ</b>               1     <br>\
+                     شاكسهُ<br>\
+                     ذ<br>\
+                  <i>He treated him,</i> or <i>behaved towards him, with hardness, harshness,</i> or <i>illnature.</i> (O, K.)    </entryFree> <br>\
+<b>تشاكسوا</b>               1     <br>\
+                     تشاكسوا<br>\
+                     ذ<br>\
+                  <i>They treated,</i> or <i>behaved towards, one another with hardness, harshness,</i> or <i>illnature;</i> or <i>disagreed, one with another;</i> in buying or selling: (IDrd, O, TA:) or <i>they treated,</i> or <i>behaved towards, one another with contrariety,</i> or <i>opposition.</i> (K, * TA.) [Hence,] اللَّيْلُ وَالنَّهَارُ <br>\
+                  يَتَشَاكَسَانِ (tropical:)  <i>The night and the day are opposed to each other:</i> (TA:) or <i>alternate.</i> (Az, A, O, TA.)    </entryFree> <br>\
+<b>شَكْسٌ</b>               1     <br>\
+                     شَكْسٌ<br>\
+                     ذ<br>\
+                  : see شَكِسٌ. ―         -b2-  مَحَلَّةٌ شَكْسٌ (assumed tropical:)  <i>A strait place of alighting</i> or <i>abode.</i> (TA.)       -A2-  الشَّكْسُ <br>\
+                  <i>A day,</i> or <i>two days, before the new moon; i. q.</i> <br>\
+                  المُحَاقُ. (AA, O, K.)    </entryFree> <br>\
+<b>شِكْسٌ</b>               1     <br>\
+                     شِكْسٌ<br>\
+                     ذ<br>\
+                  : see the next following paragraph.    </entryFree> <br>\
+<b>شَكُسٌ</b>               1     <br>\
+                     شَكُسٌ<br>\
+                     ذ<br>\
+                  : see the next following paragraph.    </entryFree> <br>\
+<b>شَكِسٌ</b>               1     <br>\
+                     شَكِسٌ<br>\
+                     ذ<br>\
+                  , (Fr, S, Msb, K,) or ↓ <br>\
+      شَكْسٌ, (S,) and ↓ <br>\
+      شَكُسٌ, (K,) the first agreeable with analogy, (S,) A man (S) <i>refractory, untractable, perverse, stubborn,</i> or <i>obstinate, in disposition:</i> (S, K:) or <i>hard in disposition,</i> or <i>illnatured:</i> (TA:) or <i>evil in disposition,</i> or <i>illnatured, and very perverse</i> or <i>cross</i> or <i>repugnant and averse;</i> syn. شَرِسٌ: (Msb:) and ↓ <br>\
+      شِكْسٌ and ↓ <br>\
+      مِشْكَسٌ are likewise epithets applied [in the same sense, but the latter having an intensive signification,] to a man: (IAar, TA:) pl. شُكْسٌ; (S, K;) a pl. of the first or third; (K;) or of the second, like as صُدْقٌ is pl. of صَدْقٌ. (S.) ―         -b2-  Also the first, (tropical:)  <i>Niggardly; tenacious; avaricious.</i> (K.)    </entryFree> <br>\
+<b>مِشْكَسٌ</b>               1     <br>\
+                     مِشْكَسٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>مُتَشَاكِسُونَ</b>               1     <br>\
+                     مُتَشَاكِسُونَ<br>\
+                     ذ<br>\
+                   (Kur xxxix. 30) <i>Disagreeing, one with another;</i> (A, * K, * TA;) <i>and behaving with hardness, harshness,</i> or <i>illnature:</i> (A:) or <i>disputing,</i> or <i>contending, together.</i> (TA.) [See the verb, 6.]   </entryFree> <br>\
+' } );

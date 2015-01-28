@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ناد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ناد<br>\
+&lt;entryFree id=&quot;n39123&quot; key=&quot;نَاَدَتْهُ دَاهِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَاَدَتْهُ دَاهِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاََ<br>\
+                  &lt;/form&gt;, A, inf. n. نَاْدٌ, L,) &lt;i&gt;A calamity befell him:&lt;/i&gt; (K:) or &lt;i&gt;pressed heavily upon him, and distressed him.&lt;/i&gt; (A.) ―         -b2-  See نَاَتَ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39124&quot; key=&quot;نَا=دٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَا=دٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      نَا=دَى (S, L. K) and ↓ <br>\
+      نَوُودٌ (L, K) &lt;i&gt;A calamity:&lt;/i&gt; (S, L, K:) pl. of the second, ؟؟. &lt;pb n=&quot;2752&quot; TEIform=&quot;pb&quot;/&gt; (L.) ―         -b2-  دَاهِيَةٌ نَا=دٌ, and ↓ <br>\
+      نَا=دَى, and ↓ <br>\
+      نَوُودٌ, (A, L,) &lt;i&gt;A calamity that presses heavily, and distresses.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39125&quot; key=&quot;نَا=دَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَا=دَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see نَا=دٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39126&quot; key=&quot;نَوُودٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَوُودٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see نَا=دٌ.   &lt;/entryFree&gt; <br>\
+' } );

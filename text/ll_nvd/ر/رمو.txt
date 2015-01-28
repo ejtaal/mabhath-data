@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'رمورِمًا, mentioned under this head in the M, see<br>\
+the art. here following.<br>\
+' } );

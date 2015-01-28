@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>جوش</em>            1                  جوش<br>\
+<b>جَوْشٌ</b>               1     <br>\
+                     جَوْشٌ<br>\
+                     ذ<br>\
+                   The <i>breast;</i> (S, A, K;) as also جُوْشُوشٌ (S) and جَوْشٌ: (S, A:) and [particularly] <i>that</i> <br>\
+                  <i>of a man;</i> as also ↓ <br>\
+      جُوشٌ: (K:) and the <i>middle</i> of a man. (K.) ―         -b2-  Also (assumed tropical:)  The <i>fore part</i> (صَدْر) of the night; like جَرْشٌ; (S;) and so ↓ <br>\
+      جُوشٌ: (TA:) or the <i>middle</i> thereof; (K;) as also جَوْزٌ: (AA:) and <i>a great portion</i> thereof: or <i>of the latter part</i> thereof: (K:) or <i>a portion of the latter part</i> thereof: (TA:) or <i>from the time of a quarter to a third</i> thereof. (T, TA.) You say, مَضَى جَوْشٌ مِنَ اللَّيْلِ (assumed tropical:)  [<i>A portion of the fore part,</i> &amp;amp;c., <i>of the night passed</i>]. (S.)    </entryFree> <br>\
+<b>جُوشٌ</b>               1     <br>\
+                     جُوشٌ<br>\
+                     ذ<br>\
+                  : see above, in two places.   </entryFree> <br>\
+' } );

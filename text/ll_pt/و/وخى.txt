@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وخى</em>            1                  وخى<br>\
+<b>وَاخَاهُ</b>               1     <br>\
+                     وَاخَاهُ<br>\
+                     ذ<br>\
+                  : see ا=خَاهُ.    </entryFree> <br>\
+<b>تَوَخَّاهُ</b>               1     <br>\
+                     تَوَخَّاهُ<br>\
+                     ذ<br>\
+                  <i>He sought it, aimed at it,</i> or <i>purposed it:</i> (S, Mgh, Msb, K:) and <i>he sought it,</i> &amp;amp;c., <i>exclusively of,</i> or <i>in preference to, any other thing.</i> (Mgh.)   </entryFree> <br>\
+' } );

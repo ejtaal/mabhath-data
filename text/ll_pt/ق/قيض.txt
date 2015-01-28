@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>قيض</em>            1                  قيض<br>\
+<b>قَاضَ</b>               1     <br>\
+                     قَاضَ<br>\
+                     ذ<br>\
+                  : see انقاص, art. قيص.    </entryFree> <br>\
+<b>اـِنْقَاضَ</b>               1     <br>\
+                     اـِنْقَاضَ<br>\
+                     ذ<br>\
+                  : see انقاص, art. قيص.    </entryFree> <br>\
+<b>مُنْقَاضٌ</b>               1     <br>\
+                     مُنْقَاضٌ<br>\
+                     ذ<br>\
+                  : see مُنْقَاصٌ.   </entryFree> <br>\
+' } );

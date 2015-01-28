@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'قوطقَوْطٌ<br>\
+: see an ex. in a verse cited voce رَاجِلَةٌ.<br>\
+' } );

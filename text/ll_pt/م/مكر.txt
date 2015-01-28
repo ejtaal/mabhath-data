@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>مكر</em>            1                  مكر<br>\
+<b>مَكَرَ بِهِ</b>               1     <br>\
+                     مَكَرَ بِهِ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  خَدَعَهُ, (Msb, &amp;amp;c.,) see كَادَهُ.    </entryFree> <br>\
+<b>مَكْرٌ</b>               1     <br>\
+                     مَكْرٌ<br>\
+                     ذ<br>\
+                   [<i>Artifice; machination; stratagem; fraud; fraudulence; guile</i>].   </entryFree> <br>\
+' } );

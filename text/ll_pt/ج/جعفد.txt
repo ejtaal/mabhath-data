@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>جعفد</em>            1                  جعفد<br>\
+<b>جَعْفَدَةٌ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     جَعْفَدَةٌ<br>\
+                     جعفده<br>\
+                     جعفدة<br>\
+                   [inf. n. of جَعْفَدَ] a compound word from the phrase جَعَلَنِى اْللّٰهُ فِدَاكَ [May God make me thy ransom]. (Ibn-Dihyeh, TA.) [You say, جَعْفَدَهُ, meaning <i>He said to him</i> <br>\
+                  جعلنى اللّٰه <br>\
+                  فداك.]   </entryFree> <br>\
+' } );

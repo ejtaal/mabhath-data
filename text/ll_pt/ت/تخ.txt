@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>تخ</em>            1                  تخ<br>\
+<b>تَخَّ</b>               1     <br>\
+                     تَخَّ<br>\
+                     تخ<br>\
+                     وخى<br>\
+                  , (JK, S, L, K,) aor.      <br>\
+                     تَخِ٣َ<br>\
+                  , (JK, L,) inf. n. تُخُوخٌ, (JK, L, and so in a copy of the S,) or تُخُوخَةٌ, (K, and so in a copy of the S,) or both, (TA,) <i>It</i> (dough) <i>became sour:</i> (JK, S, L, K:) <i>it became soft by reason of too much water:</i> and in like manner, clay, or mud, <i>so that one could not plaster with it.</i> (L.) Also, said of dough, <i>It became leavened;</i> or <i>mature.</i> (JK.)    </entryFree> <br>\
+<b>اتخّهُ</b>               1     <br>\
+                     اتخّهُ<br>\
+                     اتخه<br>\
+                     اتخة<br>\
+                  <i>He made it sour;</i> namely, dough: (JK, S, L, K:) <i>he made it soft by putting into it too much water;</i> namely, dough: and in like manner, clay, or mud, <i>so that he could not plaster with it.</i> (L.)    </entryFree> <br>\
+<b>تَخٌّ</b>               1     <br>\
+                     تَخٌّ<br>\
+                     تخ<br>\
+                     وخى<br>\
+                  <i>Sour dough:</i> (JK, S, A, L, K:) <i>such as is soft by reason of too much water.</i> (L.) ―         -b2-  Also <i>Dregs of sesame-grain from which the oil has been expressed;</i> (JK, L, K;) <i>also called</i> <br>\
+                  كُسْبٌ. (TA.)    </entryFree> <br>\
+<b>تَاخٌّ</b>               1     <br>\
+                     تَاخٌّ<br>\
+                     تاخ<br>\
+                  <i>Having no desire for food</i> [app. <i>by reason of acidity in the stomach</i>]. (JK, K.)   </entryFree> <br>\
+' } );

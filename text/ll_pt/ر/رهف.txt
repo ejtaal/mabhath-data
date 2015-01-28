@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>رهف</em>            1                  رهف<br>\
+<b>رَهُفَ</b>               1     <br>\
+                     رَهُفَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     رَهُفَ<br>\
+                  , inf. n. رَهَافَةٌ (JK, MA, K) and رَهَفٌ (JK, K) and رَهْفٌ, (TA,) <i>It</i> (a sword, K, or a thing [of any kind], JK, TA) <i>was,</i> or <i>became, thin,</i> and <i>slender;</i> (JK, K, TA;) <i>it</i> (a sword) <i>was,</i> or <i>became, thin in the edge</i> or <i>point;</i> (Ham p. 349;) <i>it was,</i> or <i>became, sharp,</i> or <i>keen; contr. of</i> <br>\
+                  كَلَّ. (MA.)       -A2-  رَهَفَهُ: see what next follows.    </entryFree> <br>\
+<b>ارهفهُ</b>               1     <br>\
+                     ارهفهُ<br>\
+                     ذ<br>\
+                  , (JK, S, K, &amp;amp;c.,) inf. n. اـِرْهَافٌ; (Ham p. 93;) and ↓ <br>\
+      رَهَفَهُ, aor.      <br>\
+                     رَهَفَ<br>\
+                  , (K,) inf. n. رَهْفٌ; (TA;) <i>He made it</i> (a sword, S, K, &amp;amp;c., or a thing [of any kind], JK) <i>thin,</i> (S, MA, K,) or <i>sharp</i> or <i>pointed;</i> (JK, MA;) <i>he made it</i> (a sword) <i>thin in the edge</i> or <i>point;</i> (Ham p. 93;) <i>he made it sharp,</i> or <i>keen.</i> (MA.) ―         -b2-  [Hence,] اَرْهَفْتَ عَلَيْنَا <br>\
+                  لِسَانَكَ (tropical:)  [<i>Thou hast sharpened against us thy tongue</i>]. (A, TA.) And اَرْهِفْ غَرْبَ ذِهْنِكَ لِمَا <br>\
+                  اَقولُ (tropical:)  [<i>Sharpen the edge of thine intellect for what I say</i>]. (A, TA.)    </entryFree> <br>\
+<b>رَهِيفٌ</b>               1     <br>\
+                     رَهِيفٌ<br>\
+                     ذ<br>\
+                  <i>Thin; slender;</i> (JK, TA;) applied in this sense to a sword; (TA;) and also to a neck: (ISh, TA in art. بتع:) or <i>thin in the edge</i> or <i>point;</i> applied to a sword: (Ham p. 349:) or <i>sharp,</i> or <i>keen;</i> thus applied: (JK, * MA:) but Az says that it is seldom used; ↓ <br>\
+      مُرْهَفٌ being used in its stead. (TA.)    </entryFree> <br>\
+<b>مُرْهَفٌ</b>               1     <br>\
+                     مُرْهَفٌ<br>\
+                     ذ<br>\
+                   (JK, S, TA) and ↓ <br>\
+      مَرْهُوفٌ (JK, TA) <i>Made thin;</i> (JK, S, TA;) applied to a sword, (S, TA,) or to an arrow: (JK:) and the former, [or each,] <i>made sharp</i> or <i>pointed:</i> (JK:) [or <i>made thin in the edge</i> or <i>pointed:</i> or <i>made sharp</i> or <i>keen:</i> see 4:] and see also رَهِيفٌ. ―         -b2-  اُذُنٌ مُرْهَفَةٌ (assumed tropical:)  <i>A slender ear.</i> (TA.) And خَصْرٌ مُرْهَفٌ (assumed tropical:)  <i>A slender waist.</i> (Ham p. 93.) And رَجُلٌ مُرْهَفُ <br>\
+                  الجِسْمِ (JK, TA) and ↓ <br>\
+      البَدَنِ ↓ <br>\
+      مَرْهُوفُ, but the former is the more common, (tropical:)  <i>A man slender in the body.</i> (TA.) ―         -b3-  فَرَسٌ مُرْهَفٌ (assumed tropical:)  <i>A horse lank in the belly, having the ribs near together:</i> which is a fault. (IDrd, K, TA.)    </entryFree> <br>\
+<b>مُرْهَفَةٌ</b>               1     <br>\
+                     مُرْهَفَةٌ<br>\
+                     ذ<br>\
+                   [as a subst., or an epithet in which the quality of a subst. is predominant,] <i>Swords;</i> (Ham p. 93;) and so مُرْهَفَاتٌ: (S and TA in art. برد:) or <i>swords made thin in the edge</i> or <i>point.</i> (Ham p. 349.) One says مُرْهَفَاتٌ بَوَارِدُ <br>\
+                  <i>Sharp,</i> or <i>cutting, swords:</i> (TA in art. برد:) or <i>slaying swords.</i> (S in that art.)    </entryFree> <br>\
+<b>مَرْهُوفٌ</b>               1     <br>\
+                     مَرْهُوفٌ<br>\
+                     ذ<br>\
+                  : see مُرْهَفٌ, in two places.   </entryFree> <br>\
+' } );

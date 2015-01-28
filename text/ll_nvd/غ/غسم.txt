@@ -1,0 +1,39 @@
+load_data( { book: 'll_nvd', text: 'غسم1<br>\
+غَسَمَ It (the night) was, or became, dark;<br>\
+(As, S, K;) as also ↓ اغسم, (JK, K,) like أَغْسَى.<br>\
+(JK.)<br>\
+4<br>\
+أَغْسَمَ see what precedes.<br>\
+غَسَمٌ The darkness (S, ISd, TA) of night;<br>\
+(ISd, TA;) like غَسَقٌ: (S, TA:) or blackness:<br>\
+(Kr, K:) and (K) accord. to En-Nadr, (S,) the<br>\
+confusedness, or blending, of the darkness: (JK,<br>\
+S, K:) and the first rising of the dawn. (JK.)<br>\
+―<br>\
+-b2-  And Dust, or dust rising, or spreading, like<br>\
+smoke; syn. هَبْوَةٌ and غَبَرَةٌ (K) or غُبْرَةٌ [which<br>\
+sometimes signifies the same as غَبَرَهٌ]. (CK.)<br>\
+غُسَمٌ; see أَغْسَامٌ.<br>\
+لَيْلٌ غَاسِمٌ Dark night. (TA.)<br>\
+فِى السَّمَآءِ أَغْسَامٌ and ↓ غُسَمٌ In the sky are portions of clouds. (K.)<br>\
+غسو and غسى<br>\
+1<br>\
+غَسَا اللَّيْلُ, (S, K,) aor. يَغْسُو, (S,) inf. n.<br>\
+غُسُوٌّ; (S, K; accord. to some copies of the K<br>\
+غَسْوٌ;) and غَسَى, aor. يَغْسِى; (IJ, TA;) and<br>\
+غَسِىَ, aor. يَغْسَى, (S, K, TA,) inf. n. غَسًا; of<br>\
+which last form, غَشِىَ is a dial. var.; (TA;)<br>\
+The night was, or became, dark; as also ↓ اغسى.<br>\
+(S, K.) [See also عَسَا.]<br>\
+4<br>\
+أَ1ْ2َ3َ see what precedes. ―<br>\
+-b2-  اغسى also signifies<br>\
+He (a man) entered upon the time of, or a little<br>\
+after, sunset. (TA.) ―<br>\
+-b3-  And أَغْسِ مِنَ اللَّيْلِ<br>\
+Journey thou not in the first part of the night,<br>\
+until its darkness depart. (TA.)<br>\
+-A2-  And اغساهُ<br>\
+اللَّيْلُ The night enveloped him in its darkness.<br>\
+(Sgh, K.)<br>\
+' } );

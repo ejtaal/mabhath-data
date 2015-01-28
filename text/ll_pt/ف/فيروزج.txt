@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>فيروزج</em>            1                  فيروزج<br>\
+<b>فِيرُوزَجٌ</b>               1     <br>\
+                     فِيرُوزَجٌ<br>\
+                     ذ<br>\
+                   [an arabicized word from the Pers. فِيرُوزَهُ or پِيرُوزَهُ The <i>turquoise;</i>] <i>a well-known kind of stone.</i> (TA.) ―         -b2-  And <i>A certain sort of dye</i> [probably <i>of the colour of the stone so called</i>]. (TA.)   </entryFree> <br>\
+' } );

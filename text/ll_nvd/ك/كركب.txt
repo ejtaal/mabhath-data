@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كركبكُرْكُبٌ, like كُرْكُمٌ, A certain plant of sweet<br>\
+odour. (K.) The former word is a syn. of the<br>\
+latter. (TA.)<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>نوع</em>            1                  نوع<br>\
+<b>تَنَوَّعَ</b>               1     <br>\
+                     تَنَوَّعَ<br>\
+                     ذ<br>\
+                  , said of a branch of a tree: see تَنَوَّسَ. ―         -b2-  تَنَوَّعَ <br>\
+                  <i>It became of various sorts,</i> or <i>species.</i> (Msb.)    </entryFree> <br>\
+<b>نُوَّاعَةٌ</b>               1     <br>\
+                     نُوَّاعَةٌ<br>\
+                     ذ<br>\
+                  <i>A child&#39;s swing, of rope.</i> See رُجَّاحَةٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,41 @@
+load_data( { book: 'll_nvd', text: 'ذأف1<br>\
+ذَأَفَ, aor.<br>\
+ذَاَ^َ, inf. n. ذَأَفَانٌ, [in the CK ذَأْفان,]<br>\
+He died: (Moheet, K, TA:) [or he died quickly:<br>\
+see ذَأْفٌ, which is app. an inf. n, as also, perhaps,<br>\
+ذُؤَافٌ.]<br>\
+-A2-  ذَأْفَهُ, and ذَأَفَ عَلَيْهِ, inf. n. ذَأْفٌ and<br>\
+ذَأَفٌ, He despatched him; namely, a wounded<br>\
+man; or hastened and completed his slaughter.<br>\
+(M.) ―<br>\
+-b2-  And يَذْأَفُ is also said of poison [app.<br>\
+as meaning It kills quickly]. (Lth, T.) ―<br>\
+-b3-  مَرَّ<br>\
+يَذْأَفُهُمْ He passed by driving them away, or<br>\
+pursuing them, or destroying them. (M.)<br>\
+7<br>\
+انذأف His heart broke (اِنْقَطَعَ فُؤَادُهُ). (K.)<br>\
+[See its syn. انذعف.]<br>\
+ذَأْفٌ Quickness of death; (Lth, T, M, K;) as<br>\
+also ↓ ذُؤَافٌ. (K.) [See 1, first sentence.] ―<br>\
+-b2-  Also<br>\
+an inf. n. of ذَأَفَهُ. (M.)<br>\
+ذَأْفَانٌ: see ذِئْفَانٌ. ―<br>\
+-b2-  Accord. to the K, it<br>\
+signifies also Death: but the correct word seems<br>\
+to be ذَأَفَانٌ, [see 1, first sentence,] as in the<br>\
+Tekmileh. (TA.)<br>\
+ذُؤْفَانٌ: see what next follows.<br>\
+ذِئْفَانٌ (Lth, T, M, K) Poison that kills quickly<br>\
+(يَذْأَفُ): (Lth, T:) or simply poison; (M, K;) as<br>\
+also ↓ ذُؤْفَانٌ and ↓ ذَأْفَانٌ, (K, TA,) all with ء<br>\
+(TA,) and ذِيفَانٌ (A &#39;Obeyd, T, M, K) and ذَيْفَانٌ<br>\
+(A &#39;Obeyd, T, K) and ذَيَفَانٌ and ذُوفَانٌ, (IDrd,<br>\
+K,) and ↓ ذُؤَافٌ. (T, K: the last, in the TA,<br>\
+without ء.)<br>\
+ذُؤَافٌ Death that despatches quickly; (T, M,<br>\
+K;) as also ذُعَافٌ; thought by Yaakoob to be an<br>\
+instance of permutation. (M.) ―<br>\
+-b2-  See also ذِئْفَانٌ.<br>\
+-A2-  And see ذَأْفٌ.<br>\
+' } );

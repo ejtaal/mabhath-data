@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ديد2<br>\
+ديّد: see 1 in art. دود.<br>\
+دَيْدٌ: see دَدَنٌ.<br>\
+دَيَدَانٌ: see دَدَنٌ.<br>\
+' } );

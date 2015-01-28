@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'نشق5<br>\
+تَنَشَّقَ<br>\
+see 10.<br>\
+10<br>\
+اِسْتَنْشَقَ الرِّيحَ<br>\
+(assumed tropical:)  [He snuffed the wind]:<br>\
+(TA, art. مخر:) he snuffed, scented, or smelt,<br>\
+the wind; as also ↓ تَنَشَّقَهَا. (Msb.) See 10 in<br>\
+art. شم.<br>\
+نُشَاقَةٌ<br>\
+What is taken [or ladled out], while hot,<br>\
+from a cooking-pot. (TA.)<br>\
+' } );

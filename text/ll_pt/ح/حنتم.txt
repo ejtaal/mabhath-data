@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>حنتم</em>            1                  حنتم<br>\
+<b>حَنْتَمٌ</b>               1     <br>\
+                     حَنْتَمٌ<br>\
+                     حان<br>\
+                     حنتم<br>\
+                  <i>A green</i> <br>\
+                  جَرَّة [or <i>jar</i>], (S, K,) to which some add, <i>including to redness:</i> (TA:) or <i>winejars,</i> (A &#39;Obeyd, Nh,) <i>glazed,</i> or <i>varnished, green,</i> (Nh,) <i>which used to be carried to El-Medeeneh, with wine in them:</i> (A &#39;Obeyd, Nh:) the use of which, for preparing نَبِيذ therein, is forbidden in a trad., because it quickly became potent in them, by reason of the glazing, or varnish; or, as some say, because they used to be made of clay kneaded with blood and hair; but the former is the right reason: afterwards applied to <i>any jars,</i> or <i>pottery:</i> (Nh:) thus some explain it as a sing.; (MF;) and the pl. is حَنَاتِمُ: (Az, TA:) others, as a pl. [or coll. gen. n.], of which the sing. [or n. un.] is with ة: (MF:) some say that the ن is augmentative: so says the author of the Msb: others, that it is radical. (TA.) [See art. حتم.] ―         -b2-  <i>Black clouds;</i> (Az, K;) as also [the pl.] حَنَاتِمُ: (Az, S, K:) because, with the Arabs, السَّوَادُ is [used for] خُضْرَةٌ: (S: [see اَسْوَدُ; and see also حَنْتَمٌ in art. حتم:]) or as being likened to حَنَاتِم (meaning jars) filled [with water]: (Az, TA:) n. un. with ة. (K.) ―         -b3-  The <i>colocynthplant;</i> (K, TA;) because of its intense greenness: n. un. with ة. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;شاهبلوط&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  شاهبلوط<br>\
+&lt;entryFree id=&quot;n21512&quot; key=&quot;شَاهْبَلُّوط&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَاهْبَلُّوط<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [a Pers. word, and also used by the Arabs in the present day, applied to The &lt;i&gt;chestnut&lt;/i&gt;]: also written شَاهْ بَلُّوط. (TA voce بَلُّوطٌ and voce جَمَلٌ.)   &lt;/entryFree&gt; <br>\
+' } );

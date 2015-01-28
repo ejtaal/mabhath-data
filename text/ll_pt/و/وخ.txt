@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>وخ</em>            1                  وخ<br>\
+<b>وَخْوَخَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     وَخْوَخَ<br>\
+                     ذ<br>\
+                  <i>His belly was,</i> or <i>became, flabby.</i> (TA, voce خَبْخَبَ.)    </entryFree> <br>\
+<b>وَخْوَاخٌ</b>               1     <br>\
+                     وَخْوَاخٌ<br>\
+                     ذ<br>\
+                   A <i>fat and fleshy</i> man, <i>whose flesh shakes:</i> (L:) <i>having a flaccid belly, and dilated skin;</i> (L, K;) as also بَخْبَاخٌ: (L:) <i>lazy;</i> (L, K;) <i>unwilling to work:</i> (L:) <i>lazy</i> or <i>heavy:</i> (L:) <i>weak:</i> (S, K:) <i>a weak coward:</i> (L:) <i>ad venerum impotens;</i> (L, K;) as also بَخْبَاخٌ and ذَوْذَخٌ: (L:) <i>qui se polluit, aut concacat, tempore coitus;</i> as also نخباخ and ذوذخ. (IAar.) ―         -b2-  Anything <i>flaccid:</i> (L:) and particularly a <i>flaccid</i> date: (K:) or a date <i>having a flaccid skin:</i> (L:) or a date <i>having no sweetness nor taste.</i> (IAar.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>دنر</em>            1                  دنر<br>\
+<b>دَنَّرَ</b>               1     <br>\
+                     دَنَّرَ<br>\
+                     دنر<br>\
+                  , (T, M, K,) inf. n. تَدْنِيرٌ; (K;) and ↓ <br>\
+      تدنّر; (A;) (tropical:)  <i>It</i> (a man&#39;s face) <i>glistened</i> (T, M, A, K) like a دِينَار. (TA.) ―         -b2-  دُنِّرَ <br>\
+                  <i>He</i> (a man, TA) <i>had many</i> <br>\
+                  دَنَانِير [pl. of دِينَار]. (K.) ―         -b3-  See also the pass. part. n., below.    </entryFree> <br>\
+                     تَدَنَّرَ<br>\
+                   see 2.    </entryFree> <br>\
+<b>دُنَيْنِيرٌ</b>               1     <br>\
+                     دُنَيْنِيرٌ<br>\
+                     دنينير<br>\
+                  : see the next paragraph.    </entryFree> <br>\
+<b>دِينَارٌ</b>               1     <br>\
+                     دِينَارٌ<br>\
+                     دينار<br>\
+                  , an arabicized word, (M, K,) from the Persian [دِينَارْ], (M,) or from دِينْ ا=رْ, meaning “ the law brought it ” [into being or circulation]: (Er-Rághib:) some say, (TA,) its original is دِنَّارٌ; one of its ن being changed into ى (S, Msb, K,) to render it more easy to be pronounced, (Msb,) or that it may not be confounded with inf. ns., such as كِذَّابٌ; (S, K;) and hence its pl. is دَنَانِيرُ, (M, Msb,) and its dim. ↓ <br>\
+      دُنَيْنِيرٌ: (M:) this is the opinion generally obtaining: others say that it is of the measure فِيعَالٌ; but this opinion is contradicted by the absence of the ى in [the second syllable of] the pl.; for were it so, its pl. would be like دَيَامِيسُ, pl. of دِيمَاسٌ: (Msb:) [it is the name of <i>A certain gold coin;</i>] <i>its weight is seventy-one barley-corns and a half, nearly, reckoning the</i> <br>\
+                  دَانِق <br>\
+                  <i>as eight grains of wheat and two fifths; but if it be said that the</i> <br>\
+                  دانق <br>\
+                  <i>is eight grains of wheat, then the</i> <br>\
+                  دينار <br>\
+                  <i>is sixty-eight grains of wheat and four sevenths: it is the same as the</i> <br>\
+                  مَثْقَال. (Msb.)    </entryFree> <br>\
+<b>شَرَابٌ دِينَارِىٌّ</b>               1     <br>\
+                     شَرَابٌ دِينَارِىٌّ<br>\
+                     ذ<br>\
+                  <i>A kind of wine</i> or <i>beverage,</i> so called in relation to Ibn-Deenár el-Hakeem, or because like the دينار in its redness. (TA.)    </entryFree> <br>\
+<b>مُدَنَّرٌ</b>               1     <br>\
+                     مُدَنَّرٌ<br>\
+                     مدنر<br>\
+                  , applied to a دِينَار, (M, K,) and to gold, (TA,) <i>Coined.</i> (M, K, TA.) ―         -b2-  Also A man <i>having many</i> <br>\
+                  دَنَانِير [pl. of دِينَار]. (M, K.) ―         -b3-  Also (tropical:)  A horse <i>having specks,</i> or <i>small spots, exceeding what are termed</i> <br>\
+                  بَرَشٌ: (AO, T, S, M, K:) or <i>having black and white spots like</i> <br>\
+                  دَنَانِير: (Mgh:) or <i>having a spotting</i> (↓ <br>\
+      تَدْنِير) <i>of black intermixed with whiteness predominating over blackness:</i> (TA:) and <i>of a white colour predominating over blackness, with a round blackness intermixed with the former colour upon his back and rump:</i> (M:) or <i>of a white hue intermixed with red,</i> (اَصْهَبُ,) <i>marked with round black spots.</i> (A.) ―         -b4-  Also (tropical:)  A garment, or piece of cloth, <i>with marks, or figures, like</i> <br>\
+                  دَنَانِير. (A.)   </entryFree> <br>\
+' } );

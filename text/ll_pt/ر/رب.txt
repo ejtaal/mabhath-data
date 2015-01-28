@@ -1,0 +1,393 @@
+load_data( { book: 'll_pt', text: '<em>رب</em>            1                  رب<br>\
+<b>رَبَّهُ</b>               1     <br>\
+                     رَبَّهُ<br>\
+                     ذ<br>\
+                  , (M, K,) aor.     <br>\
+                     رَبُ٣َ<br>\
+                  , inf. n. رَبٌّ, (M,) [<i>He was,</i> or <i>became, its</i> <br>\
+                  رَبّ, or <i>lord, possessor, owner,</i> &amp;amp;c.;] <i>he possessed,</i> or <i>owned, it; had possession of it, and command,</i> or <i>authority, over it;</i> (M, K;) namely, a thing; (K;) syn. مَلَكَهُ. (M, K.) [And in like manner, <i>He was,</i> or <i>became, his</i> <br>\
+                  رَبّ, or <i>lord,</i> &amp;amp;c.] You say, رَبَبْتُ القَوْمَ, [inf. n. as above and مَرَبَّةٌ and رِبَابَةٌ,] <i>I ruled,</i> or <i>governed, the people;</i> syn. سُسْتُهُمْ; i. e. <i>I was,</i> or <i>became, over them</i> [<i>as their lord, master,</i> or <i>chief</i>]. (S.) And طَالَتْ مَرَبَّتُهُمُ النَّاسَ and رِبَابَتُهُم <br>\
+                  <i>Their ruling,</i> or <i>governing, the people continued long.</i> (M, K. *) The saying of Safwán, (T, S,) on the day of Honeyn, (T,) لَاَنْ يَرُبَّنِى رَجُلٌ مِنْ قُرَيْشٍ اَحَبُّ اـِلَىَّ <br>\
+                  مِنْ اُنْ يَرُبَّنِى رَجُلٌ مِنْ هَوَازِنَ means [<i>Assuredly that a man of Kureysh</i>] <i>should be over me</i> (T, S) as رَبّ [or <i>lord,</i> &amp;amp;c.], and <i>as master,</i> or <i>chief, having command,</i> or <i>authority, over me,</i> (T,) [<i>is more pleasing to me than that a man of Hawázin should be lord,</i> &amp;amp;c., <i>over me.</i>] ―         -b2-  Also, (S, M, Mgh, K,) aor.      <br>\
+                     رَبُ٣َ<br>\
+                  , (S, M,) inf. n. رَبٌّ, (S, Mgh, M,) <i>He reared, fostered, brought up, fed,</i> or <i>nourished, him; i. q.</i> <br>\
+                  رَبَّاهُ; (S, M, Mgh, K;) namely, his child, (S,) or a child, (M, K,) either his own or another&#39;s; <i>taking good care of him, and acting as his guardian,</i> (M,) <i>until he attained to puberty,</i> or <i>to the utmost term of youth:</i> (M, K:) and so ↓ <br>\
+      ربّبهُ, (Lh, S, M, Mgh, K,) or this has a more emphatic signification, (TA,) inf. n. تَربِيبٌ (Lh, M, Mgh, K) and تَرِبَّةٌ; (Lh, M, K;) and ↓ <br>\
+      تربّبه; (S, M, K;) and ↓ <br>\
+      ارتبّهُ: (M, K:) [in like manner, also,] ↓ <br>\
+      رَبْرَبَ signifies <i>he reared, fostered,</i> or <i>brought up,</i> an orphan: (AA, T:) and accord. to IDrd, (M,) رَبِبْتُهُ is a dial. var. [of رَبَبْ=تُهُ]: (M, K:) he says also that the verb is used in like manner in relation to the young one of an animal other than man; and he used to cite this ex.: <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كَانَ لَنَا وَهْوَ فَلُوٌّ نِرْبِبُهْ<br>\
+                  </quote> [<i>He belonged to us when he was a young weaned,</i> or <i>one-year-old, colt, we rearing him</i>]; with the letter characteristic of the aor. meksoor, to show that the second letter of the preterite is meksoor, accord to the opinion of Sb in respect of a case of this kind; and this, he says, is peculiar to the dial. of Hudheyl in this species of verb. (M, TA.) رَبَّتِ المَرْاَةُ صَبِيَّهَا, used tropically, means (tropical:)  <i>The woman patted her child repeatedly on its side in order that it might sleep.</i> (A, TA.) [See 2 in art. ربت.] [It is said that] the primary signification of الرَّبُّ is التَّرْبِيَةُ; i. e. The <i>bringing</i> a thing <i>to a state of completion by degrees.</i> (Bd in i. l.) A poet says, (S,) namely, Hassán Ibn-Thábit, (TA,) <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        مِنْ دُرَّةٍ بَيْضَا=ءَ صَافِيَةٍ<br>\
+                     <L><br>\
+                        حَايِرُ البَحْرِ ↓ <br>\
+      مِمَّا تَرَبَّبَ<br>\
+                  </quote> [<i>Than a white, clear, pearl, of those which the depth of the sea has brought to maturity</i>]; meaning a pearl which the shell has reared, or brought to maturity in the bottom of the water. (S, TA.) And the phrase لَكَ نِعْمَةٌ تَرُبُّهَا occurs in a trad., meaning [<i>Thou hast wealth</i>] <i>which thou preservest, and of which thou takest care, and which thou fosterest like as the man fosters his child.</i> (TA.) ―         -b3-  [Hence,] المَطَرُ يَرُبُّ النَّبَاتَ وَالثَّرَى <br>\
+                  <i>The rain causes the plants,</i> or <i>herbage, and the moisture</i> [<i>of the earth</i>] <i>to increase.</i> (M.) And السَّحَابُ يَرُبُّ المَطَرَ <br>\
+                  <i>The clouds collect and increase the rain.</i> (M.) And رَبَّ, (T, S, M, K, TA,) aor.      <br>\
+                     رَبُ٣َ<br>\
+                  , inf. n. رَبٌّ and رِبَابٌ and رِبَابَةٌ; (Lh, M, TA;) and ↓ <br>\
+      ربّب; (M, TA;) (tropical:)  <i>He increased,</i> (M, K, TA,) or <i>rightly disposed, and completed,</i> (T, S,) a benefit, or benefaction. (T, S, M, TA.) ―         -b4-  رَبَّ الاَمْرَ, (M, Msb, K,) aor.      <br>\
+                     رَبُ٣َ<br>\
+                   , inf. n. رَبٌّ (M, Msb) and رِبَابَةٌ, (M,) (tropical:)  <i>He put the affair into a right,</i> or proper, state; adjusted it, arranged it, ordered it, or <i>rightly disposed it;</i> (M, K;) <i>and established it firmly:</i> (M:) or <i>he managed, conducted,</i> or <i>regulated, the affair:</i> (Msb:) [perhaps from رَبَّ signifying “ he reared, ” &amp;amp;c.; but more probably, I think, from what next follows.] ―         -b5-  رَبَّ, (T, S, M, K,) aor.      <br>\
+                     رَبُ٣َ<br>\
+                  , (T, M,) inf. n. رَبُّ (T, M, K) and رُبٌّ; (K) and ↓ <br>\
+      ربّب; (M;) <i>He seasoned</i> a skin (T, S, K) for clarified butter (T, S) <i>with</i> <br>\
+                  رُبّ [i. e. <i>rob,</i> or <i>inspissated juice</i>], (T, S, K,) <i>of dates,</i> (TA,) which imparts a good odour to it, (S, TA,) and prevents the flavour and odour of the butter from being spoiled: (TA:) or <i>he seasoned</i> a skin with رُبّ, and a jar with tar or pitch: or, as some say, رَبَبْتُهُ signifies <i>I smeared it over, and prepared it properly.</i> (M.) ↓ <br>\
+      رَبَّ and ↓ <br>\
+      ربّب, (K,) or the latter, but the former also is allowable, (M,) (tropical:)  <i>He made</i> oil, or ointment, <i>good, and sweet,</i> or <i>fragrant,</i> or <i>he perfumed</i> it, (M, K, * TA,) accord. to Lh, <i>by infusing in it jasmine or some other sweet-smelling</i> <br>\
+                  <i>plant.</i> (M, TA.) See also مُرَبَّبٌ, below. ―         -b6-  رَبَّ also signifies <i>He collected, or congregated,</i> (K, TA,) people: (TA:) [and so, probably, ↓ <br>\
+      ربّب: see رَبَبٌ.] You say, فُلَانٌ يَرُبُّ النَّاسَ <br>\
+                  <i>Such a one collects,</i> or <i>congregates, to him the people.</i> (T, S, M.)       -A2-  رَبَّ, aor.      <br>\
+                     رَبِ٣َ<br>\
+                  : see 4       -A3-  رَبَّتْ, (Lh, M, K,) aor.      <br>\
+                     رَبُ٣َ<br>\
+                  , (so in the M,) or      <br>\
+                     رَبِ٣َ<br>\
+                  , (MF, TA,) inf. n. رَبٌّ, (M, TA,) or رِبَابٌ, (S, K, [in each of which this is mentioned as the inf. n. whence the epithet رُبَّى,]) said of a ewe or she-goat, <i>She brought forth:</i> (Lh, M, K:) <i>or,</i> as some say, <i>she conceived:</i> or, accord. to some, there is no verb to the epithet رُبَّى: (M:) AZ says that it has no verb: (Msb:) [but] ↓ <br>\
+      رِبَابٌ is an inf. n. used in relation to a ewe or she-goat as meaning her <i>being in the state of such as is termed</i> <br>\
+                  رُبَّى [q. v.]: (S, M, * Msb, * K: *) and in relation to a she-camel, as in the ex. cited by Munteji&#39; Ibn-Nebhán to As, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        حَنِينَ اُمِّ البَوِّفِى رِبَابِهَا<br>\
+                  </quote> [<i>The yearning cry of the mother of the young camel in the time of her having recently brought forth</i>]: (S:) and used also in relation to a woman as meaning her <i>having recently brought forth:</i> or <i>her state within two months after having brought forth:</i> or <i>within twenty days:</i> whence the phrase, in a trad., حَمْلُهَا رِبَابٌ, meaning <i>She becomes pregnant soon after having brought forth.</i> (TA.)    </entryFree> <br>\
+<b>ربّب</b>               1     <br>\
+                     ربّب<br>\
+                     ذ<br>\
+                  : see 1, in five places. ―         -b2-  [Also <i>He preserved with</i> <br>\
+                  رُبّ, i. e., <i>rob,</i> or <i>inspissated juice:</i> see مُرَبَّبٌ.]    </entryFree> <br>\
+<b>اربّ بِالمَكَانِ</b>               1     <br>\
+                     اربّ بِالمَكَانِ<br>\
+                     ذ<br>\
+                  , (T, M, A, K, *) inf. n. اـِرْبَابٌ; (T;) and ↓ <br>\
+      رَبَّ, (M, K,) aor.      <br>\
+                     رَبِ٣َ<br>\
+                  ; (MF, TA;) <i>He remained, stayed, dwelt,</i> or <i>abode, in the place,</i> (T, M, A, K, *) <i>not quitting it;</i> (T;) like اَلَبَّ: (T, A:) and the former, [or each,] <i>he kept,</i> or <i>clave, to the place.</i> (M.) And اربّتِ الاـِبِلُ <br>\
+                  بِالمَوْضِعِ (T,) or بِمَكَانِ كَذَا, (S,) <i>The camels kept,</i> or <i>clave,</i> (T, S,) <i>to the place,</i> (T,) or <i>to such a place, and remained in it.</i> (S.) And اربّت النَّاقَةُ, (S,) or اربّت النَاقة بِالفَحْلِ, and بِوَلَدِهَا, (M,) <i>The she-camel kept to the stallion,</i> (S, M,) and <i>to her young one,</i> (M,) <i>and affected it.</i> (TA.) And اربّت السَّحَابَةُ (S, M, A) بِاَرْضِهِمْ (A) (tropical:)  <i>The cloud continued raining</i> [<i>in their land</i>]. (S, * M.) And اربّت الجَنُوبُ (assumed tropical:)  <i>The south,</i> or <i>southerly, wind continued.</i> (T, S.) ―         -b2-  الاـِرْبَابُ also signifies The <i>drawing near,</i> or <i>approaching,</i> (S, M, K,) a thing, (S, M,) of any kind. (M.)    </entryFree> <br>\
+<b>تربّب الاَرْضَ</b>               1     <br>\
+                     تربّب الاَرْضَ<br>\
+                     ذ<br>\
+                  , (M, A, K,) and الرَّجُلَ, (M, K,) <i>He asserted himself to be the</i> <br>\
+                  ربّ [or <i>lord,</i> &amp;amp;c.,] <i>of the land,</i> (M, A, K,) and <i>of the man.</i> (M, K.) ―         -b2-  See also 1, in two places, in the former half of the paragraph.       -A2-  تربّبوا <br>\
+                  <i>They collected themselves together,</i> or <i>congregated;</i> or <i>they became collected</i> or <i>congregated.</i> (S.)    </entryFree> <br>\
+<b>ترابّوا</b>               1     <br>\
+                     ترابّوا<br>\
+                     ذ<br>\
+                  <i>They united in a confederacy, league,</i> or <i>covenant.</i> (M, TA.) [App. from the fact of some confederates dipping their hands into رُبّ: see رِبَابٌ.]    </entryFree> <br>\
+<b>ارتبّهُ</b>               1     <br>\
+                     ارتبّهُ<br>\
+                     ذ<br>\
+                  : see 1. ―         -b2-  تَرْتَبُّ الشَّعَرَ [<i>She adjusts,</i> or <i>arranges, and composes,</i> or <i>collects together, the hair</i>], said of a woman, is from [الرَّبُّ signifying] الاـِصْلَاحُ and الجَمْعُ. (M.) ―         -b3-  اُرْتُبَّ العِنَبُ <br>\
+                  <i>The grapes were cooked so as to become</i> <br>\
+                  رُبّ [or <i>rob</i>], <i>used to give a relish to bread.</i> (AHn, M.)    </entryFree> <br>\
+<b>رَبْرَبَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     رَبْرَبَ<br>\
+                     ذ<br>\
+                  : see 1.    </entryFree> <br>\
+<b>رَبْ</b>               1     <br>\
+                     رَبْ<br>\
+                     ذ<br>\
+                  : see رَاَبَ, of which it is an imperative.    </entryFree> <br>\
+<b>رُبَ</b>               1     <br>\
+                     رُبَ<br>\
+                     ذ<br>\
+                   and رَبَ and رُبُ and رُبْ and رَبْ; and رُبَمَا and رَبَمَا &amp;amp;c.: see رُبَّ.    </entryFree> <br>\
+<b>رَبٌ</b>               1     <br>\
+                     رَبٌ<br>\
+                     ذ<br>\
+                  : see the next paragraph, last sentence but one.    </entryFree> <br>\
+<b>رَبٌّ</b>               1     <br>\
+                     رَبٌّ<br>\
+                     ذ<br>\
+                  <i>A lord, a possessor, an owner,</i> or <i>a proprietor,</i> syn. مَالِكٌ, (T, IAmb, S, M, A, Msb, K,) of a thing, (T,) of anything, (S, M, A, K,) or of an irrational thing; (Msb;) <i>a person who has a right,</i> or <i>just title</i> or <i>claim, to the possession</i> of anything; or its صَاحِب [which is syn. with مَالِك]; (M, A, K;) رَبٌّ and مَالِكٌ and صَاحِبٌ all signifying in Pers. خُدَاوَنْد: (KL:) and <i>a lord, master,</i> or <i>chief;</i> (Msb, TA;) or <i>a lord, master,</i> or <i>chief, to whom obedience is paid:</i> (IAmb, TA:) and <i>a lord, ruler, governor, regulator,</i> or <i>disposer;</i> (TA;) <i>an orderer, a rectifier,</i> or <i>a reformer:</i> (IAmb, TA:) <i>a rearer, fosterer, bringer-up, feeder,</i> or <i>nourisher:</i> and <i>a completer,</i> or <i>an accomplisher:</i> (TA:) it is an epithet, like نَمٌّ from نَمَّ: or an inf. n. used as an intensive epithet; like عَدْلٌ; (Ksh and Bd * in i. l;) originally signifying the “ bringing (a thing) to a state of completion by degrees;” (Bd, ibid.;) then used in the sense of مَالِكٌ: (Ksh and Bd ibid.:) the pl. [of pauc.] is اَرْبَابٌ and [of mult.] رُبُوبٌ, (M, K,) and accord. to Sh, رِبَابٌ also, (TA,) signifying اَصْحَابٌ, (K,) and ↓ <br>\
+      رَبُوبٌ is app. a quasi-pl. n.: (M:) the fem. is ↓ <br>\
+      رَبَّةٌ; of which the pl. is رَبَّاتٌ. (T.) Whoever possesses a thing is its رَبّ: you say, هُوَ رَبُّ الدَّابَّةِ [<i>He is the possessor,</i> or <i>owner,</i> or <i>master, of the beast</i>], and الدَّارِ [<i>of the house</i>], (T,) and المَالِ [<i>of the property,</i> or <i>cattle</i>]; (Msb;) and البَيْتِ ↓ <br>\
+      هِىَ رَبَّةُ [<i>She is the owner,</i> or <i>mistress, of the house</i> or <i>tent</i>]. (T.) With the article ال, it is [properly] applied only to <i>God:</i> (T, S, M, A, Msb, K:) He is رَبُّ الاَرْبَابِ [<i>The Lord of lords</i>]. (T. [Thus the pl. with the article ال is applied to created beings.]) To any other being it is not [properly] applied but as a prefixed noun governing another noun as its complement in the gen. case [or in a similar manner]. (S.) The pagan Arabs, however, sometimes applied it to A <i>king,</i> (S,) or to a <i>lord</i> as meaning a <i>master</i> or <i>chief:</i> (Msb:) El- Hárith says, (S, Msb,) i. e. Ibn-Hillizeh, (S,) <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَهُوَ الرَّبُّ وَالشَّهِيدُ عَلَى يُوْ<br>\
+                     <L><br>\
+                        مِ الحِيَارَيْنِ وَالبَلَا=ءُ بَلَا=ءُ<br>\
+                  </quote> (S, Msb,) i. e. <i>And he</i> (meaning El-Mundhir Ibn-Má-es-Semà, or, as some say, &#39;Amr Ibn-Hind,) <i>was the king</i> [or <i>lord</i>] <i>and witness of</i> our fighting on <i>the day of El-Hiyárán</i> (the name of a place), <i>and the trial was a</i> hard <i>trial.</i> (EM, p. 285: [in which الحَيَارَيْنِ is erroneously put for الحِيَارَيْنِ.]) Some forbid that a man should be called the رَبّ of his slave: (Msb:) it is said in a trad. that the slave shall not say to his master, رَبّى, because it is like attributing a partner to God: (TA:) but رَبّ is sometimes used in the sense of <i>lord</i> as meaning <i>master</i> or <i>chief</i> prefixed to a noun signifying a rational being governed by it in the gen. case: thus in the saying of the Prophet, حَتَّى تَلِدَ الاَمَةُ رَبَّهَا [<i>So that the female slave shall bring forth</i> him who will become <i>her master</i>], or ↓ <br>\
+      رَبَّتَهَا [<i>her mistress</i>], accord. to different transmitters; (Msb;) relating to the signs of the hour of resurrection: i. e., the female slave shall bring forth to her master a child that shall be as a master [or mistress] to her because like his [or her] father in rank: meaning that captives and concubines shall be numerous. (TA.) As to the phrase in the Kur [xii. 42], اُذْكُرْنِى عِنْدَ رَبِّكَ [<i>Mention thou me in the presence of thy lord</i>], Joseph thus addressed his fellow-prisoner agreeably with the acceptation in which he [the latter] understood the words. (TA.) A similar instance also occurs in the same chapter, in the verse immediately preceding. (Msb.) In another verse, [23 of the same ch.,] اـِنَّهُ رَبِّى [<i>Verily he is my lord</i>] may refer to Joseph&#39;s master or to God. (M, TA.) The words of the Kur [lxxxix. 28 and 29], اِرْجِعِى اـِلَى رَبِّكِ رَاضِيَةً <br>\
+                  مَرْضِيَّةً فَاْدْخُلِى فِى عَبْدىِ, as some read, [instead of عِبَادِى,] may mean <i>Return to thine owner,</i> [<i>approving, approved,</i>] <i>and enter into my servant.</i> (M, TA.) ―         -b2-  Without the article ال, as some say, (L, TA,) it is sometimes written and pronounced ↓ <br>\
+      رَبٌ, without teshdeed; (L, K;) as in the following verse, cited by El-Mufaddal, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَقَدْ عَلِمَ الاَقْوَامُ اَنْ لَيْسَ فَوْقَهُ<br>\
+                     <L><br>\
+                        رَبٌ غَيْرُ مَنْ يَعْطِى الحُظُوظَ وَيَرْزُقُ<br>\
+                  </quote> [<i>And the peoples have known that there is not above him a lord beside Him who gives the portions</i> of mankind and of others <i>and grants the means of subsistence</i>]. (L.) And Ahmad Ibn-Yahyà [i. e. Th] mentions the phrase لَا وَرَبِيكَ لَا <br>\
+                  اَفْعَلُ, for لَا وَرَبِّكَ [i. e. <i>No, by thy Lord, I will not do</i> such a thing]; the [latter] ب being changed into ى because of the reduplication. (M, K: * in the CK رَبْيِكَ.)    </entryFree> <br>\
+<b>رُبَّ</b>               1     <br>\
+                     رُبَّ<br>\
+                     ذ<br>\
+                   is a word of which there are seventy dial. vars., all mentioned by Zekereeyà El-Ansáree in his great Expos. of the “ Munferijeh, ” but only eighteen of which are mentioned in the K, including some that are formed with the affix ت, some with the affix مَا, and some with both these affixes together; as follows: (TA:) رُبَّ (T, S, M, Msb, Mughnee, K, &amp;amp;c.) and رَبَّ (T, M, Mughnee, K) and رُبُّ, (Mughnee,) and ↓ <br>\
+      رُبَ (T, S, M, Mughnee, K) and رَبَ (T, M, Mughnee, K) and رُبُ and رُبْ (Mughnee, K) and رَبْ; (Mughnee;) and ↓ <br>\
+      رُبَّتَ (T, S, M, Msb, Mughnee, K) and رَبَّتَ (M, Mughnee, K) and رُبُّتَ and رُبَّتُ and رَبَّتُ and رُبُّتُ and رُبَّتِ and رَبَّتِ and رُبُّتِ and رَبُّت (TA)  and رُبَّتْ and رَبَّتْ (Mughnee) and رُبُّتْ, (TA,) and ↓ <br>\
+      رُبَتَ (T, Mughnee, K) and رَبَتَ (Mughnee, K) and رُبُتَ and رُبْتَ and رَبْتَ and رُبَتُ and رَبَتُ and رُبُتُ and رُبْتُ and رَبْتُ and رُبَتِ and رَبَتِ and رُبُتِ and رَبُتِ and رُبْتِ and رَبْتِ (TA) and رُبَتْ and رَبَتْ (Mughnee) and رُبُتْ; (TA;) and رُبَّمَا (T, S, M, K) and رَبَّمَا (M, K) and رُبُّمَا, (TA,) and ↓ <br>\
+      رُبَمَا (T, K) and رَبَمَا (K) and رُبُمَا and رُبْمَا and رَبْمَا; (TA;) and ↓ <br>\
+      رُبَّتَمَا (T, S, M, K) and رَبَّتَمَا (M, K) and رُبُّتَمَا and رُبَّتُمَا and رَبَّتُمَا and رُبُّتُمَا and رُبَّتْمَا and رَبَّتْمَا and رُبُّتْمَا, (TA,) and ↓ <br>\
+      رُبَتَمَا and رَبَتَمَا (M, K) and رُبُتَمَا and رُبْتَمَا and رَبْتَمَا and رُبَتُمَا and رَبَتُمَا and رُبُتُمَا and رُبْتُمَا and رَبْتُمَا and رُبَتْمَا and رَبَتْمَا and رُبُتْمَا: (TA:) [of all these, the most common are رُبَّ and رُبَّمَا: and] ↓ <br>\
+      رُبَّتَ is the most common of the forms that have the affix ت: (Mughnee and K on the letter ت:) and the forms with teshdeed are more common than the [corresponding] forms without teshdeed. (M.) It is a word, (M,) or particle, (T, S, Mughnee, K,) governing the gen. case: (S, M, Mughnee, K:) or a noun, (K, TA,) [i. e. an indecl. noun,] in the opinion of the Koofees and some others; but this opinion is rejected by Ibn-Málik in the Tesheel and its Expos., and by AHei, and by IHsh in the Mughnee. (TA.) Accord. to some, (K, TA,) it is used to denote a small number, (T, M, Msb, K, TA,) always, (TA,) or mostly: (Msb, TA:) [thus it may be rendered <i>Few</i> if we render the noun following it as a pl.; and <i>scarce any</i> if we render the noun following as a sing. or a pl.:] it is the <i>contr. of</i> <br>\
+                  كَمْ when this latter is not used interrogatively: (T:) [and with مَا affixed, restricting it from government, it may be rendered <i>Few times,</i> or <i>seldom:</i>] or it is used to denote a large number; (K, TA;) i. e. always: so says IDrst: (TA:) [thus used, but such is not always the case, it may be rendered <i>Many,</i> whether we render the noun following it as a sing. or as a pl.: and with مَا affixed, <i>Many times, many a time, oftentimes, ofttimes, often,</i> or <i>frequently:</i>] or it is used to denote a small and a large number; (Mughnee, K;) often the latter, and seldom the former: (Mughnee:) or it is used in a case of boasting, or glorying, (K, TA,) exclusively of other cases, (TA,) to denote a large number: (K, TA:) or it does not denote by itself either a small number or a large number; but one or the other of these meanings is inferred from the context: (K:) [but sometimes neither of these meanings can be clearly inferred from the context: in these cases, it may be rendered <i>Some:</i> and with مَا affixed, <i>Sometimes:</i>] accord. to Er-Radee, its primary meaning is to denote a small number, but it has been so much used to denote a large number as to be in this latter sense as though it were proper, and in the former sense as though it were tropical, requiring context [to explain it]. (Marginal note in my copy of the Mughnee.) [Without the affix ما,] it governs an indeterminate noun (T, * S, Msb, Mughnee, K) only, (T, S, K,) and a pronoun. (S, M, Mughnee.) You say, رُبَّ يَوْمٍ بَكَّرْتُ فِيهِ [<i>Few,</i> or <i>many, days have I gone forth early therein</i>]: (T:) and رُبَّ رَجُلٍ قَايِمٌ [<i>Few,</i> or <i>many, men are standing</i>]: (M:) and رُبَّ رَجُلٍ قَامَ [<i>Few,</i> or <i>many, men stood</i>]: (Msb:) and in like manner, رَجُلٍ ↓ <br>\
+      رُبَّتَ; (Msb;) for the ت in this case is not a denotative of the fem. gender. (Msb.) The pronoun affixed to it is of the third pers., (S, M,) and is [generally] sing. and masc., (S, Mughnee,) though it may be followed by a fem. and by a dual and by a pl.: (S:) notwithstanding its being determinate in the utmost degree, its use in this manner is allowable because it resembles an indeterminate noun in its being used without the previous mention of the noun to which it relates; and hence it requires a noun to explain it: (IJ, M:) it annuls the government of رُبَّ; (TA;) and the indeterminate noun that follows it is put in the accus. case as a specificative: (S, Mughnee:) thus you say, رُبَّهُ رَجُلًا قَدْ ضَرَبْتُ [<i>Few,</i> or <i>many, men I have beaten</i>]: (S, M: *) but accord. to the Koofees, you say رُبَّهُ رَجُلًا, (S,) and رُبَّهَا اْمْرَاَةً, (M,) and رُبَّهُمَا رَجُلَيْنش, and رُبَّهُمْ رِجَالًا, and رُبَّهُنَّ نِسَا=ءً: he who puts the pronoun in the sing. [in all cases] holds it to be allusive to something unknown; and he who does not put it in the sing. [when it is not followed by a sing. noun] holds it to be used in reply to a question, as though it were said to a man, “ Hast thou not any young women? ” and he answered, رُبَّهُنَّ جَوَارٍ قَدْ مَلَكْتُ [<i>Few,</i> or <i>many, young women have I possessed</i>]: Ibn-Es-Sarráj says that the grammarians are as though they were of one consent in holding رُبَّ to be a replicative [app. meaning in a case of this kind, with an affixed pronoun]: (S:) [but it is not always a replicative in a case of this kind; though perhaps it was originally:] AHeyth cites as an ex. <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَرُبَّهُ عَطِبًا اَنْقَذْتُ مِ العَطَبِ<br>\
+                  </quote> [<i>And many a perishing</i> man <i>have I saved from perdition</i>]. (TA. [But the reading commonly found in grammars is مِنْ عَطَبِهْ <br>\
+                  <i>from his state of perdition.</i>]) The following is an ex. of the use of رُبَّ to denote a small number, [or rather to denote singleness,] <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَلَا رُبَّ مَوْلُودٍ وَلَيْسَ لَهُ اَبٌ<br>\
+                     <L><br>\
+                        وَذِى وَلَدٍ لَمْ يَلْدِهِ اَبَوَانِ<br>\
+                  </quote> [<i>Now surely scarce an instance is there of anyone born not having a father, and of anyone having offspring whom two parents have not procreated</i>]; meaning [our Lord] Jesus and Adam: (Mughnee: [but I have substituted يَلْدِهِ for يَلْدَهُ, the reading in my copy of that work: لَمْ يَلْدِهِ is for لَمْ يَلِدْهُ, for the sake of the metre; like as لِمْ اَجْدِ is for لَمْ اَجِدْ:]) and among the many exs. of its use to denote a large number, is the saying, in a trad., يَا رُبَّ كاَسِيَةٍ فِى الدُّنْيَا عَارِيَةٌ يَوْمَ القِيٰمَةِ [<i>O, many a female having clothing in the present state of existence</i> will be <i>naked on the day of resurrection!</i>]; and the saying of an Arab of the desert, after the ending of Ramadán, يَا رُبَّ صَايِمِهِ لَنْ <br>\
+                  يَعصُومَهُ وَيَا رُبَّ قَايِمِهِ لَنْ يَقُومَهُ [<i>O, many a keeper of its fast shall not keep its fast</i> again! <i>and O, many a passer of its nights in prayer,</i> or <i>per-</i> <br>\
+                  <i>former of its</i> <br>\
+                  تَرَاوِيح, <i>shall not pass its nights in prayer,</i> or <i>perform its</i> <br>\
+                  تراويح, again!]. (Mughnee.) [But in this last ex., and in others, it relates to few in comparison with others, though many abstractedly.] ―         -b2-  مَا is affixed to رُبَّ &amp;amp;c. in order that a verb may follow it; (S, Mughnee;) and the verb that follows it is generally a preterite, (T, Mughnee,) as to the letter and the meaning: (Mughnee:) you say, رُبَّمَا جَا=ءَنِى فُلَانٌ [<i>Seldom,</i> or <i>often, such a one came to me,</i> or <i>has come to me</i>]: (T:) sometimes the verb is a future; (T, Mughnee;) but only when it expresses an event of which one is certain: (T:) so in the saying in the Kur [xv. 2], رُبَّمَا يَوَدُّ اْلَّذينَ كَفَرُوا لَوْ كَانُوا <br>\
+                  مُسْلِمِينَ, (T, S, M, Mughnee), meaning <i>Often</i> [<i>will those who have disbelieved wish that they had been Muslims</i>]; (Mughnee, Jel;) or <i>seldom,</i> (Zj, T, M, Jel,) because terrors will bereave them of their reason so that they will but seldom recover reason to wish this; (Jel;) for God&#39;s threat is true, as though it had come to pass, and therefore the verb here is equivalent to a preterite [which is often used in the Kur and elsewhere in this manner]. (T.) مَا is also sometimes affixed when a noun follows, (T, Mughnee,) or a nominal proposition, and generally restricts رُبَّ &amp;amp;c. from governing: thus, Aboo-Duwád says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        رُبَّمَا الجَامِلُ المُوَبَّلُ فِيهِمْ<br>\
+                     <L><br>\
+                        وَعَنَا جِيجُ بَيْنَهُنَّ المِهَارُ<br>\
+                  </quote> [<i>Sometimes,</i> or <i>often, the numerous herd of camels is among them, and</i> there are <i>swift horses, among which are the colts</i>]: another says, making رُبَّ, with مَا affixed, to govern, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        رُبَّمَا ضَرْبَةٍ بِسَيْفٍ صَقِيلٍ<br>\
+                     <L><br>\
+                        قَيْنِ بُصْرَى وَطَعْنَةٍ نَجْلَا=ءَ<br>\
+                  </quote> [<i>Many a stroke with a polished sword of the forging of Busrà,</i> (the Bozrah of the Bible, a city famous for its sword-blades,) <i>and</i> many a <i>wide spear-wound;</i> or, perhaps, <i>few strokes</i> &amp;amp;c.]: (Mughnee: [but I have substituted قَيْنِ for بَيْنَ, which is the reading in my copy of the Mughnee, an evident mistranscription:]) and another, cited by IAar, says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        غَارَةٍ ↓ <br>\
+      مَاوِىَّ يَا رُبَّتَمَا<br>\
+                     <L><br>\
+                        شَعْوَا=ءَ كَاْللَّذْعَةِ بِاْلْمِيسَمِ<br>\
+                  </quote> [<i>Máweeyeh,</i> (مَاوِىَّ being an apocopated proper name of a woman, originally مَاوِيَّةُ,) <i>O, many a raid spreading widely and dispersedly, like the burn with the branding-iron</i>]. (T. [In the TT, as from the T, I find, here, بَلْ in the place of يا, which I find in a copy of the T, and which is the reading commonly known.])    </entryFree> <br>\
+<b>رُبٌّ</b>               1     <br>\
+                     رُبٌّ<br>\
+                     ذ<br>\
+                  <i>Rob,</i> or <i>inspissated juice,</i> (دِبْس,) <i>of any fruit;</i> i. e., (M, TA,) the <i>first,</i> or <i>clear, juice of the thick residuum of any fruit after it has been pressed</i> (M, K, TA) <i>and cooked:</i> (M, TA:) <i>thick</i> <br>\
+                  طِلَا=ء [or <i>expressed juice;</i> such as the <i>inspissated juice of dates,</i> with which a skin for clarified butter is seasoned; see 1, in the latter half of the paragraph]: (S:) or <i>what flows from fresh ripe</i> <br>\
+                  <i>dates, like honey, when it has been cooked</i> [<i>and so rendered thick</i>]; before which it is called صَقْرٌ: (Msb in the present art. and in art. صقر:) <i>what is prepared by coction from,</i> or <i>of, dates:</i> (TA:) <i>expressed juice of grapes,</i> and <i>of apples, &amp;amp;c., cooked and</i> [<i>so</i>] <i>thickened:</i> (KL:) and <i>dregs,</i> (K,) or <i>black dregs,</i> (IDrd, M,) of clarified butter, (IDrd, M, K,) and of olive-oil: (IDrd, M:) pl. رُبُوبٌ and رِبَابٌ (S) [and pl. pl. (i. e. pl. of رُبُوبٌ) رُبُوبَاتٌ, which means <i>sorts,</i> or <i>species, of</i> <br>\
+                  رُبّ]       -A2-  See also رُبَّى.    </entryFree> <br>\
+<b>رَبَّةٌ</b>               1     <br>\
+                     رَبَّةٌ<br>\
+                     ذ<br>\
+                  : see رَبٌّ, in three places. ―         -b2-  الرَّبَّةُ was also the name of <i>A Kaabeh</i> [or <i>square temple</i>], (M, K,) <i>in Nejrán,</i> (M,) <i>belonging to</i> [<i>the tribe of</i>] <i>Medh-hij</i> (M, K) <i>and Benu-l-Hárith-Ibn-Kaab, who held it in honour.</i> (M.) In a trad. of &#39;Orweh (K, TA) Ibn-Mes&#39;ood Eth-Thakafee, (TA,) it is applied <i>to El-Lát</i> (اللَّاتُ), (K, TA,) <i>the rock which</i> [<i>the tribe of</i>] <i>Thakeef worshipped, at Et-Táïf.</i> (TA.) And in another trad., it is said to be the name of <i>A temple of</i> [<i>the tribe of</i>] <i>Thakeef, which, when they became Muslims, was demolished by El-Mugheereh.</i> (TA.) ―         -b3-  And رَبَّةٌ, (K,) or دَارٌ رَبَّةٌ, (M,) signifies <i>A large house</i> or <i>mansion.</i> (M, K.)       -A2-  See also رُبَّى.    </entryFree> <br>\
+<b>رُبَّةٌ</b>               1     <br>\
+                     رُبَّةٌ<br>\
+                     ذ<br>\
+                  <i>A party, division, sect,</i> or <i>distinct body</i> or <i>class, of men:</i> (M:) or <i>a large assembly</i> or <i>company:</i> (K:) or <i>a myriad;</i> i. e. <i>ten thousand:</i> (M, K:) or <i>thereabout:</i> (M:) and ↓ <br>\
+      رِبّةٌ signifies the same: (M, K:) or this signifies <i>a company</i> [<i>of men</i>]: (T:) the pl. of the former is رِبَابٌ: (S, M:) and that of the latter is اَرِبَّةٌ: (T, K:) by Th [and in the K], the former pl. is said to be a pl. of رِبَّةٌ; but this is a mistake. (M.) ―         -b2-  [Hence, the pl.] رِبَابٌ signifies <i>Companions.</i> (K.) ―         -b3-  And hence [also], i. e., as pl. of الرُّبَةُ, (S, M,) الرِّبَابُ is an appellation of <i>The</i> [<i>confederate</i>] <i>tribes of Dabbeh;</i> (M, K, TA;) or <i>Teym and &#39;Adee and &#39;Okl;</i> (T, TA;) or <i>Teym and &#39;Adee and &#39;Owf and Thowr and Ashyab;</i> (TA; [but for the orthography of the last of these names I have found no authority; it is written in the TA اشيب, without any syll. signs;]) and Dabbeh was their paternal uncle; (TA;) or <i>five tribes which united in a confederacy, consisting of Dabbeh and Thowr and &#39;Okl and Teym and &#39;Adee:</i> (S:) they were thus called because of their division into distinct bodies; (M;) or because they collected themselves (As, Th, S, TA) in distinct bodies: (Th, M, TA:) or because they united in a confederacy against Temeem Ibn-Murr: (AO, M, TA:) or because they dipped their hands in some رُبّ, and formed a confederacy over it: (As, T, M, K:) or, as some say, because they congregated, and became like the رِبَاب [or bundle] of arrows [used in the game called المَيْسِر]: (TA:) the rel. n. is ↓ <br>\
+      رُبِّىٌّ, formed from the sing., (Sb, S, M,) accord. to a rule generally observed except when a [single] man has a pl. word for his name, as كِلَابٌ &amp;amp;c. (S, TA.) ―         -b4-  The sing. (رُبَّةٌ) also signifies <i>Plenty,</i> or <i>abundance, of the means of subsistence:</i> (K:) and <i>constant,</i> or <i>inseparable, prosperity.</i> (Khálid Ibn-Jembeh, TA.)       -A2-  See also رُبَّى.    </entryFree> <br>\
+<b>رِبَّةٌ</b>               1     <br>\
+                     رِبَّةٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, first sentence. ―         -b2-  [Hence its pl.] اَرِبَّةٌ signifies <i>Confederates;</i> (S, IB, K;) [or] it is for ذَوُو اَرِبَّةٍ <br>\
+                  <i>having covenants;</i> <br>\
+                  اَرِبَّةٌ being said by AAF to be pl. of رِبَابٌ in the sense of عَهْدٌ. (IB, TA.)       -A2-  Also <i>A species of plant,</i> (S, M, Msb, K,) <i>of the</i> [<i>season called</i>] صَيْف, (M,) <i>remaining in the end of the</i> <br>\
+                  صَيْف: (Msb:) or the name of <i>a number of plants which do not dry up in the</i> <br>\
+                  صَيْف, <i>remaining green in the winter and the</i> <br>\
+                  صيف [or <i>summer</i>]; <i>among which are the</i> <br>\
+                  حُلَّب <br>\
+                  <i>and the</i> <br>\
+                  رُخَامَى <br>\
+                  <i>and the</i> <br>\
+                  مَكْر <br>\
+                  <i>and the</i> <br>\
+                  عَلْقَى or عَلْقًى: [see رَبْلٌ:] or <i>a certain soft,</i> or <i>tender, herb,</i> or <i>leguminous plant:</i> (TA:) or <i>any plant that is green in the hot season:</i> or <i>certain species of trees,</i> or <i>of plants, undefined:</i> (M:) pl. رِبَبٌ. (S, Msb.) [In the dial. of Egypt, <i>Alexandrian trefoil</i> (بِرْسِيم, q. v.,) <i>of the second and third crops.</i>] ―         -b2-  Also <i>A certain tree:</i> as some say, the <i>tree of the</i> <br>\
+                  خَرُّوب [an appellation generally applied to the <i>carob,</i> or <i>locust-tree</i>]. (M, K.)    </entryFree> <br>\
+<b>رَبَبٌ</b>               1     <br>\
+                     رَبَبٌ<br>\
+                     ذ<br>\
+                  , (S, M, K,) or مَا=ءٌ رَبَبٌ, (S, TA,) <i>Much water,</i> (S, M, K,) <i>collected together:</i> (M:) or <i>sweet-water:</i> (S, K:) accord. to Th, it means مَا رَبَّبَهُ الطِينُ [app. <i>such</i> (<i>water</i>) <i>as the clay has collected;</i> for تَرَبَّبَ signifying تَجَمَّعَ is probably quasi-pass. of رَبَّبَ, so that this last seems to signify جَمَّعَ]. (M.)    </entryFree> <br>\
+<b>رُبَتَ</b>               1     <br>\
+                     رُبَتَ<br>\
+                     ذ<br>\
+                   and رَبَتَ &amp;amp;c.; and رُبَتَمَا and رَبَتَمَا &amp;amp;c.: see رُبَّ.    </entryFree> <br>\
+<b>رَبَابٌ</b>               1     <br>\
+                     رَبَابٌ<br>\
+                     ذ<br>\
+                  <i>Clouds:</i> (M:) or <i>white clouds:</i> (S, K:) or <i>clouds that one sees beneath other clouds,</i> (S,) or <i>clouds suspended beneath other clouds,</i> (M,) <i>sometimes white and sometimes black:</i> (S, M:) this latter is said by IB to be the signification commonly known: (TA:) or <i>clouds consisting of an accumulation of parts:</i> (A &#39;Obeyd, T:) n. un. with ة. (A &#39;Obeyd, S, K.) Hence الرَّبَابُ as a proper name of a woman. (A &#39;Obeyd, T, S.)       -A2-  Also <i>A certain instrument of diversion,</i> [meaning, <i>of music,</i>] (K,) <i>having strings,</i> (TA,) <i>with which one plays</i> [lit. <i>beats</i>]. (K.) [The رباب in common use among the Arabs in the present day is <i>a kind of viol.</i> A specimen of it is figured and described in my work on the Modern Egyptians. Being an instrument of remarkable simplicity, it is probably similar to the ancient رباب.] Memdood Ibn-&#39;Abd-Allah El-Wásitee Er-Rabábee became proverbial for his musical skill with the رباب. (K.)       -A3-  See also رُبَّانٌ.    </entryFree> <br>\
+<b>رُبَابٌ</b>               1     <br>\
+                     رُبَابٌ<br>\
+                     ذ<br>\
+                  : see رُبَّى, of which it is an anomalous pl.:       -A2-  and see also رُبَّانٌ.    </entryFree> <br>\
+<b>رِبَابٌ</b>               1     <br>\
+                     رِبَابٌ<br>\
+                     ذ<br>\
+                  : see رِبَابَةٌ, in two places. ―         -b2-  Also (tropical:)  <i>Tithes,</i> or <i>tenths;</i> syn. عُشُورٌ: (S, M, K:) from the same word signifying “ a covenant. ” (S.) ―         -b3-  In the phrase يُعْطِيهَا الاَمَانَ رِبَابُهَا, ending a verse of Aboo-Dhu-eyb, describing some asses, رِبَاب is said to signify <i>An oath,</i> or <i>a promise,</i> which the owner of the asses takes of a people to permit those asses to water: or the poet means that the person giving those asses permission to water gives to their owner <i>an arrow,</i> of those used in the game called المَيْسِر, [as a token,] to show that they have received permission to water, and that no one may offer them any opposition: (TA:) some say that رِبَابُهَا here means <i>their owners:</i> (M:) [holding this last opinion,] Sh says that رِبَاب in this verse is a pl. of رَبٌّ. (TA.)       -A2-  It is also a pl. of رُبَّةٌ; (S, M;) not of رِبَّةٌ, as it is said to be by Th [and in the K]. (M.)       -A3-  See also 1, last sentence.       -A4-  And see رُبَّانٌ.    </entryFree> <br>\
+<b>رَبُوبٌ</b>               1     <br>\
+                     رَبُوبٌ<br>\
+                     ذ<br>\
+                  : see رَبِيبٌ.       -A2-  See also رَبٌّ, of which it is said in the M to be app. a quasi-pl. n.    </entryFree> <br>\
+<b>رَبِيبٌ</b>               1     <br>\
+                     رَبِيبٌ<br>\
+                     ذ<br>\
+                  <i>Reared, fostered, brought up, fed,</i> or <i>nourished;</i> [<i>and taken good care of, until the age of puberty;</i> (see 1;)] as also ↓ <br>\
+      مَرْبُوبٌ; (S, M, K;) both applied to a boy: (S, M:) and in like manner applied to a horse: (M:) or the latter epithet, applied to a horse, (tropical:)  <i>tended well,</i> or <i>taken good care of:</i> (A:) the former is also applied to a gazelle; (IAar, K in art. دخل;) [as meaning (assumed tropical:)  <i>brought up in,</i> or <i>near, the house</i> or <i>tent, and there fed;</i>] like اَهْلِىٌّ: (TA in that art.:) and [its fem.] رَبِيبَةٌ is applied to a ewe or she-goat, (شَاةٌ, K,) meaning (assumed tropical:)  <i>brought up in the tent,</i> or <i>house, for the sake of her milk;</i> (S, K; [see also رُبَّى;]) pl. رَبَايِبُ; (S;) this last being applied to sheep or goats <i>that are tied near to the tents,</i> or <i>houses, and there fed, and that do not go forth to pasture;</i> (M, TA;) of which it is said that none are to be taken for the poor-rate. (TA.) ―         -b2-  [Hence, <i>A step-son,</i>] a man&#39;s <i>wife&#39;s son</i> (T, S, M, A, Msb, K) <i>by another husband;</i> (T, S, M, A, K;) as also ↓ <br>\
+      رَبُوبٌ: (T, K:) pl. اَرِبَّا=ءُ. (Msb.) And رَبِيبَةٌ [<i>A step-daughter;</i>] a woman&#39;s <i>husband&#39;s daughter by another wife:</i> (S:) or a man&#39;s <i>wife&#39;s daughter</i> (T, M, A, Mgh, Msb, K) <i>by another husband;</i> (T, M, A;) because he rears her: (Mgh:) pl. رَبَايِبُ (A, Mgh, Msb) and sometimes رَبِيبَاتٌ. (Msb.) ―         -b3-  Also, and ↓ <br>\
+      رَابٌّ, (T, M, K,) both syn., like شَهِيدٌ and شَاهِدٌ, and خَبِيرٌ and خَابِرٌ, (TA,) or the latter, (T, S,) mentioned by IAar, is the correct term, (T,) [<i>A step-father;</i>] the <i>husband of a mother</i> (T, S, M, K) <i>who has a child by another husband.</i> (T.) And رَبِيبَةٌ and ↓ <br>\
+      رَابَّةٌ, (T,) or the latter [only], (S, K,) [<i>A stepmother;</i>] the <i>wife of a father</i> (T, S, K) <i>who has a child by another wife.</i> (T.) رَبِيبَةٌ also signifies [<i>A foster-mother;</i>] <i>a woman who has the charge of a child, who carries him, and takes care of him, and rears,</i> or <i>fosters, him;</i> (Th, S, M, Msb, K;) like ↓ <br>\
+      رَابَّةٌ; the former being of the measure فَعِلَيةٌ in the sense of فَاعِلَةٌ. (Msb.) اَربَّا=ءُ النَّبِىّ [meaning <i>The foster-fathers of the Prophet</i>] is an appellation given to the people [of the tribe of Saad] among whom Mohammad was suckled; as though اربّا=ء were pl. of رَبِيبٌ [as it is said to be in one of the senses mentioned above]. (TA.) ―         -b4-  And رَبِيبٌ signifies also <i>A confederate; a person with whom one unites in a confederacy, league,</i> or <i>covenant.</i> (M, K.) ―         -b5-  And <i>A king.</i> (M, K.)     <br>\
+<b>رِبَابَةٌ</b>               1     <br>\
+                     رِبَابَةٌ<br>\
+                     ذ<br>\
+                  : see رُبُوبِيَّةٌ.       -A2-  Also <i>A covenant, compact, confederacy,</i> or <i>league;</i> (S, M, K;) as also ↓ <br>\
+      رِبَابٌ, (M, K,) of which latter, in this sense, the pl. is اَرِبَّةٌ. (AAF, IB, TA.) [See رِبَّةٌ, second sentence.])       -A3-  And <i>A thing</i> [or <i>case</i>] <i>resembling a quiver</i> (كِنَانَة), <i>in which the arrows of the game called</i> <br>\
+                  المَيْسِر <br>\
+                  <i>are enclosed together:</i> (S:) or <i>a piece of skin,</i> (T,) or <i>a piece of thin skin,</i> (Lh, M, TA,) <i>in which the arrows are enclosed,</i> (Lh, T, M, TA,) <i>resembling a quiver</i> (كنانة): (TA:) or <i>a piece of rag,</i> (M, K, TA,) or <i>of skin,</i> (TA,) <i>in which the arrows are enclosed</i> (M, K, TA) or <i>bound:</i> (TA:) or <i>a piece of thin skin which is bound upon the hand of the man who takes forth the arrows</i> (K, TA) <i>of that game,</i> (TA,) <i>lest he should know the feel of an arrow for the owner of which he has an affection:</i> (K, TA:) or <i>a small cord with which the arrows are bound</i> [<i>together</i>]: or the <i>arrows</i> [<i>themselves</i>] <i>collectively:</i> (M, K:) sometimes it is used in this last sense: (S:) and ↓ <br>\
+      رِبَابٌ also seems to be used in like manner; as meaning the رِبَابَة of the arrows of the game of الميسر. (TA.) [See an ex. in a verse cited voce اَفَاضَ in art. فيض.]    </entryFree> <br>\
+<b>رُبُوبَةٌ</b>               1     <br>\
+                     رُبُوبَةٌ<br>\
+                     ذ<br>\
+                  : see رُبُوبِيَّةٌ.    </entryFree> <br>\
+<b>رَبَابىٌّ</b>               1     <br>\
+                     رَبَابىٌّ<br>\
+                     ذ<br>\
+                  <i>A player on the</i> <br>\
+                  رَبَاب [q. v.]. (MA, K.)    </entryFree> <br>\
+<b>رَبُوبِىٌّ</b>               1     <br>\
+                     رَبُوبِىٌّ<br>\
+                     ذ<br>\
+                  , (M, K,) with fet-h [to the ر], (K,) a rel. n. from الرَّبُّ, deviating from rule: so in the phrase عِلْمٌ رَبُوبِىٌّ [<i>Knowledge, science,</i> or <i>doctrine, relating to the Lord,</i> i. e., <i>to God</i>]. (M, K.)    </entryFree> <br>\
+<b>رُبُوبِيَّةٌ</b>               1     <br>\
+                     رُبُوبِيَّةٌ<br>\
+                     ذ<br>\
+                   [<i>Lordship;</i> or the <i>state,</i> or <i>quality, of such as is termed</i> <br>\
+                  رَبٌّ i. e. <i>a lord, a possessor, an owner,</i> or <i>a proprietor;</i> &amp;amp;c.: and, with the article ال particularly <i>godship, godhead,</i> or <i>deity:</i>] a subst. from الرَّبُّ; (T, * S, * M, K;) as also ↓ <br>\
+      رِبَابَةٌ [which seems to be properly an inf. n. of 1 in the sense first explained]. (M, K.)       -A2-  Also, (M, K,) or ↓ <br>\
+      رُبُوبَةٌ, (so in a copy of the K,) The <i>state,</i> or <i>condition, of a</i> <br>\
+                  مَمْلُوك [or <i>slave</i>]. (M, K.)    </entryFree> <br>\
+<b>رُبَّتَ</b>               1     <br>\
+                     رُبَّتَ<br>\
+                     ذ<br>\
+                   and رَبَّتَ &amp;amp;c.; and رُبَّتَمَا and رَبَّتَمَا &amp;amp;c.: see رُبَّ, in five places.    </entryFree> <br>\
+<b>رُبَّى</b>               1     <br>\
+                     رُبَّى<br>\
+                     ذ<br>\
+                  , applied to a ewe or she-goat (شَاةٌ), (S, M, &amp;amp;c.,) <i>That has brought forth:</i> (M, Msb, K:) and so <i>if her young one has died:</i> (M, K:) or <i>that has recently brought forth:</i> (Lh, S, M, Mgh, Msb, K:) or <i>that has brought forth twenty days before:</i> (M:) or <i>that has brought forth two months before:</i> (El-Umawee, S, M:) or <i>that is followed,</i> (M,) or <i>accompanied,</i> (As, Mgh,) <i>by her young one:</i> (As, M, Mgh:) or <i>that is confined in the tent,</i> or <i>house, for the sake of her milk:</i> (Msb: [see also رَبِيبَةٌ, voce رَبِيبٌ:]) accord. to AZ, (S, Msb,) it is applied to a she-goat, (S, M, Msb,) and رَغُوثٌ is applied to a ewe: (M:) accord. to others, the former is applied to a she-goat and a ewe, and sometimes to a she-camel: (S, Msb:) the pl. is ↓ <br>\
+      رُبَابٌ, (As, T, S, M, Mgh, Msb, K,) which is extr. [in form]: (M, K:) Lh mentions the phrase غَنَمٌ رُبَابٌ, or رِبَابٌ, which, he says, is rare. (M.) ―         -b2-  See also رُبَّانٌ, in two places.       -A2-  <i>A benefit, favour, boon,</i> or <i>good.</i> (AA, T, K.) [See an ex. in the first paragraph of art. جشا.] ―         -b2-  <i>A want;</i> (AA, T, K;) as in the saying, لِى عِنْدَ فُلَانٍ رُبَّى [<i>I have a want for such a one to supply,</i> or <i>accomplish</i>]. (AA, T.)       -A3-  A child&#39;s <i>nurse;</i> syn. دَايَةٌ. (AA, T. In one copy of the T بابه; and in the TA راية. [Perhaps the right reading is رَابَّةٌ, meaning <i>a foster-mother.</i>])       -A4-  <i>A firm knot:</i> (AA, T, K:) [and so, app., ↓ <br>\
+      رُبَّانٌ, if correctly written thus, in the instance here following.] You say, اـِنْ كُنْتَ <br>\
+                  اـِزْرِكَ ↓ <br>\
+      بِى تَشهدُّ ظَهْرَكَ فَاَرْخِ بِرُبَّانِ, (TA,) or بِرُبَّا <br>\
+                  اـِزْرِكَ (so in the TT, as from the M, [as though for بِرُبَّى,]) and مِنع رُبَّى اـِزْرِكَ, (T, TA,) a prov., meaning (assumed tropical:)  <i>If thou place thy reliance upon me,</i> then let me weary myself, and <i>enjoy thou relaxation and rest:</i> (T, TA:) here رُبَّى [properly] signifies <i>a firm knot.</i> (T.) [See also a similar prov. in Freytag&#39;s Arab. Prov. i. 24.])       -A5-  Also a name of <i>Jumádà-l-Oolà</i> [the fifth month of the Arabian calendar]; and so ↓ <br>\
+      رُبٌّ: (M, K:) and likewise, (K,) or accord. to Kr, (M,) a name of <i>Jumádà-l-Ákhireh</i> [the sixth month]; and so ↓ <br>\
+      رُبَّةُ: (M, K:) and this last likewise, (K, there expressly said to be with damm,) or ↓ <br>\
+      رَبَّةُ, (so accord. to the M as transcribed in the TT,) a name of <i>Dhu-l-Kaadeh</i> [the eleventh month]: (M, K:) thus these months were called in the Time of Ignorance. (M. [See also شَهْرٌ: and see رُنَّى or الرُّنَّى, in art. رن.])    </entryFree> <br>\
+<b>رَبِّىٌّ</b>               1     <br>\
+                     رَبِّىٌّ<br>\
+                     ذ<br>\
+                  : see رَبَّانِىٌّ. ―         -b2-  And for its pl., رَبِّيُّونَ, see رِبِّىٌّ, in two places.    </entryFree> <br>\
+<b>رُبِّىٌّ</b>               1     <br>\
+                     رُبِّىٌّ<br>\
+                     ذ<br>\
+                   rel. n. of رُبَّةٌ, q. v. (Sb, S, M.) ―         -b2-  See also its pl., رُبِّيُّونَ, in the next paragraph, in two places.    </entryFree> <br>\
+<b>رِبِّىٌّ</b>               1     <br>\
+                     رِبِّىٌّ<br>\
+                     ذ<br>\
+                   sing. of رِبِّيُّونَ (T, S, K,) which signifies <i>Thousands</i> (Fr, Th, T, S, K) of men: (S, K:) accord. to Akh, it is from الرَّبُّ; and if so, it is ↓ <br>\
+      رَبِّيُّونَ, with fet-h to the ر: but accord. to Fr, it is from رِبَّةٌ, meaning “ a company: ” (Th, T:) Zj says that it is رِبِّيُّونَ and ↓ <br>\
+      رُبِّيُّونَ, with kesr to the ر and also with damm to the ر, and signifies <i>a numerous company:</i> he adds that رِبَّةٌ is said by some to signify “ ten thousand; ” and that ربّيُون is said to signify <i>learned, pious, patient men;</i> and that each of these sayings is good: accord. to Aboo-Tálib, it signifies <i>numerous companies:</i> (T:) [in the Kur iii. 140,] El-Hasan read ↓ <br>\
+      رُبِّيُّونَ; and Ibn-&#39; Abbas, ↓ <br>\
+      رَبِّيُّونَ; the former with damm, and the latter with fet-h, to the ر. (L, TA.) ―         -b2-  See also رَبَّانِىٌّ.    </entryFree> <br>\
+<b>رَبَّانٌ</b>               1     <br>\
+                     رَبَّانٌ<br>\
+                     ذ<br>\
+                  : see the next paragraph, in four places.    </entryFree> <br>\
+<b>رُبَّانٌ</b>               1     <br>\
+                     رُبَّانٌ<br>\
+                     ذ<br>\
+                   The <i>first,</i> or <i>beginning,</i> or <i>commencement,</i> or the <i>first and fresh state,</i> of anything; (As, A &#39;Obeyd, T;) [and so ↓ <br>\
+      رَبَّانٌ &amp;amp;c., as appears from what follows.] You say, اَتَيْتُهُ فِى رُبَّانِ شَبَابِهِ, (T,) and شبابه ↓ <br>\
+      رَبَّانِ, or شبابه ↓ <br>\
+      رِبَّانِ, (accord. to different copies of the T,) and شبابه ↓ <br>\
+      رُبَابِ, (T,) and شبابه ↓ <br>\
+      رَبَابِ, or شبابه ↓ <br>\
+      رِبَابِ, (accord. to different copies of the T,) and شبابه ↓ <br>\
+      رُبَّى, all meaning [<i>I came to him</i>] <i>in the beginning,</i> or <i>first and fresh state, of his youth.</i> (T.) And اِفْعَلْ ذٰلِكَ الاَمْرَ بِرُبَّانِهِ <br>\
+                  <i>Do thou that thing in its first and fresh state:</i> so accord. to ISk: and hence, he says, ↓ <br>\
+      شَاةٌ رُبَّى [explained above]. (S.) And اَخَذْتُ الشَّىْءَ بِرُبَّانِهِ, (As, S, K, *) and ↓ <br>\
+      بِرَبَّانِهِ, with damm and with fet-h, (K,) i. e. [<i>I took the thing</i>] <i>in its first state:</i> (K:) or <i>altogether,</i> (As, S, K,) <i>not leaving of it aught.</i> (As, S.) They said also, ذَرْهُ بِرُبَّانٍ [app. meaning <i>Leave thou him early, before he acquire more power</i>]: and Th cites the following [as an ex.]: <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَذَرْهُمْ بِرُبَّانٍ وَاـِلَّا تَذَرْهُمُ<br>\
+                     <L><br>\
+                        يُذِيقُوكَ مَا فِيهِمْ وَاـِنْ كَانَ اَكْثَرَا<br>\
+                  </quote> [which seems to mean <i>Then leave thou them early, before they acquire more power; for if thou do not,</i> or <i>wilt not, leave them, they will make thee to taste what is in them, though it be more</i>]. (M.) ―         -b2-  Also, accord. to A &#39;Obeyd, The <i>chief,</i> or <i>main, part</i> or <i>portion</i> of a constellation: or, accord. to As, the <i>aggregate</i> thereof: or, accord. to AO, ↓ <br>\
+      رَبَّانٌ, with fet-h, has this meaning: (T:) or both signify <i>a company</i> or <i>an assembly,</i> or <i>an aggregate</i> or <i>assemblage.</i> (K, TA.)       -A2-  Also <i>A captain of sailors</i> (Sh, K) in the sea; (Sh;) and so ↓ <br>\
+      رُبَّانِىٌّ: (Sh, K:) <i>one skilled in navigation:</i> pl. [or rather coll. n. of the latter] رُبَّانِيَّةٌ. (TA voce رَهْنَامَجٌ.)       -A3-  See also رُبَّى, in two places.    </entryFree> <br>\
+<b>رِبَّانٌ</b>               1     <br>\
+                     رِبَّانٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, second sentence.    </entryFree> <br>\
+<b>رَبَّانِىٌّ</b>               1     <br>\
+                     رَبَّانِىٌّ<br>\
+                     ذ<br>\
+                   (T, S, M, A, K) and ↓ <br>\
+      رِبِّىٌّ (M,) or ↓ <br>\
+      رِبِّىٌّ, (A, KL,) <i>One who devotes himself to religious services</i> or <i>exercises,</i> or <i>applies himself to acts of devotion;</i> (S, A, K;) <i>who possesses a knowledge of God:</i> (T, S, K, KL:) <i>or a learned man:</i> (T:) or the first signifies, (M,) or signifies also, (K,) and so the second, (M,) <i>i. q.</i> <br>\
+                  حَبْرٌ [i. e. <i>a learned man,</i> or particularly <i>of the Jews,</i> &amp;amp;c.; or <i>a good,</i> or <i>righteous, man</i>]; (M, K;) and <i>a lord,</i> or <i>master, of knowledge</i> or <i>science:</i> or <i>a worshipper of the Lord</i> (الرَّبّ): (M:) or <i>a learned man, a teacher of others, who nourishes people with the small matters of knowledge,</i> or <i>science, before the great:</i> (IAar, T:) or <i>a learned man firmly grounded in knowledge,</i> or <i>science, and religion:</i> or <i>a learned man who practices what he knows and instructs others:</i> or <i>one of high rank in knowledge,</i> or <i>science:</i> or <i>learned with respect to what is lawful and what is unlawful, and what is commanded and what is forbidden:</i> (TA:) رَبَّانِىٌّ is a rel. n. from رَبَّانٌ; or from الرَّبُّ meaning “ God: ” (TA, and some copies of the K:) the ا and ن being added to give intensiveness to the signification; (M;) or, as Sb says, to denote a special reference to the knowledge of the  Lord, as though the word signified <i>one possessing a knowledge of the Lord exclusively of other branches of knowledge;</i> (T;) so that it is like لِحْيَانِىٌّ, (T, M, and so in some copies of the K,) meaning “ long-bearded, ” (T,) or “ largebearded, ” (M,) and رَقَبَانِىٌّ, “ thick-necked, ” and شَعْرَانِىٌّ, “ having much hair: ” (T:) or it is a Syriac word; (TA, and some copies of the K;) or Hebrew; and was unknown to the [pagan] Arabs, and known only to the men of law and science: (TA:) the pl. is رَبَّانِيُّونَ, (T, S,) occurring in the Kur iii. 73 (S) [and v. 48 and 68].    </entryFree> <br>\
+<b>رُبَّانِىٌّ</b>               1     <br>\
+                     رُبَّانِىٌّ<br>\
+                     ذ<br>\
+                  : see رُبَّانٌ, last sentence but one.    </entryFree> <br>\
+<b>رَبَّانِيَّةٌ</b>               1     <br>\
+                     رَبَّانِيَّةٌ<br>\
+                     ذ<br>\
+                   The <i>quality denoted by the epithet</i> <br>\
+                  رَبَّانِىٌّ [q. v.]. (A.)    </entryFree> <br>\
+<b>رَبْرَبٌ</b>               1     <br>\
+                     رَبْرَبٌ<br>\
+                     ذ<br>\
+                  <i>A herd</i> (T, S, M, K) <i>of oxen,</i> (T,) [i. e.] <i>of wild oxen</i> (بَقَر الوَحْش): (S, M, K:) or, as some say, <i>of gazelles:</i> or, accord. to Kr, <i>a number of</i> [<i>wild</i>] <i>oxen together, less than ten:</i> it has no sing., or n. un. (M.)    </entryFree> <br>\
+<b>رَابٌّ</b>               1     <br>\
+                     رَابٌّ<br>\
+                     ذ<br>\
+                  ; and its fem., with ة: see رَبِيبٌ in three places.    </entryFree> <br>\
+<b>اَرِبَّةٌ</b>               1     <br>\
+                     اَرِبَّةٌ<br>\
+                     ذ<br>\
+                  said in the T and K to be pl. of رِبَّةٌ [q. v.]: and said by AAF to be pl. of رِبَابٌ.    </entryFree> <br>\
+<b>مَرَبٌّ</b>               1     <br>\
+                     مَرَبٌّ<br>\
+                     ذ<br>\
+                  <i>A place of collecting</i> (T, S, M, A) of people: (M, A:) <i>a place of alighting:</i> (M, K:) <i>a place of abiding,</i> or <i>dwelling, and congregating.</i> (M.) [Hence,] مَرَبُّ الاـِبِلِ <br>\
+                  <i>The place where the camels keep,</i> or <i>remain.</i> (T, S.) ―         -b2-  [Hence also,] فُلَانٌ مَرَبٌّ (assumed tropical:)  <i>Such a one is a person who collects,</i> or <i>congregates, people.</i> (T, S, M, K. *) [And hence,] فُلَانٌ مَرَبٌّ لِبَنِى فُلَانٍ (assumed tropical:)  <i>Such a one is an object of resort for his counsel and authority to the sons of such a one.</i> (TA in art. جمع.)       -A2-  Also, and ↓ <br>\
+      مِرْبَابٌ, (M, K,) <i>Land abounding with plants,</i> or <i>herbage;</i> (K;) or with رِبَّة [q. v.]: (TA:) or <i>land in which there ceases not to be moisture;</i> and so ↓ <br>\
+      مَرَبَّةٌ: or ↓ <br>\
+      مرْبَابٌ signifies <i>land abounding with plants,</i> or <i>herbage, and with people.</i> (M.)    </entryFree> <br>\
+<b>مُرِبٌّ</b>               1     <br>\
+                     مُرِبٌّ<br>\
+                     ذ<br>\
+                   Anything <i>keeping,</i> or <i>cleaving, to a thing.</i> (M. [See its verb, 4]) You say نَاقَةٌ مُرِبٌّ <br>\
+                  <i>A she-camel keeping to, and affecting, her young one,</i> and <i>the stallion.</i> (AZ, TA.) And اـِبِلٌ مَرَابُّ [originally مَرَابِبُ, pl. of مُرِبٌّ,] <i>Camels keeping in a place; remaining in it.</i> (T, S.) And فَقْرٌ مُرِبٌّ (assumed tropical:)  <i>Constant, inseparable, poverty:</i> occurring in a trad.: or the epithet there is مُلِبٌّ. (IAth.)    </entryFree> <br>\
+<b>مَرَبَّةٌ</b>               1     <br>\
+                     مَرَبَّةٌ<br>\
+                     ذ<br>\
+                  : see مَرَبٌّ.    </entryFree> <br>\
+<b>مُرَبَّبٌ</b>               1     <br>\
+                     مُرَبَّبٌ<br>\
+                     ذ<br>\
+                  <i>Made</i> [or <i>preserved</i>] <i>with</i> <br>\
+                  رُبّ [or <i>inspissated juice</i>]; (S, K;) like as مُعَسَّلٌ signifies “ made [or preserved] with عَسَل [or honey]: ” (S:) you say زَنْجَبِيلٌ مُرَبَّبٌ and مُرَبًّى [<i>ginger so preserved</i>]: and ↓ <br>\
+      مُرَبَّبَاتٌ signifies <i>Preserves,</i> or <i>confections, made with</i> <br>\
+                  رُبّ; (S, K;) and in like manner مُرَبَّيَاتٌ, except that this is from التَّرْبِيَةُ [inf. n. of رَبَّى]. (S.) ―         -b2-  Also Oil <i>of which the grain</i> (حَبّ [perhaps a mistranscription for حُبّ i. e. <i>jar</i>]) <i>whence it has been prepared,</i> or <i>taken, has been perfumed</i> (↓ <br>\
+      رُبِّبَ): (T, TA:) or oil <i>perfumed with sweet-smelling plants;</i> as also ↓ <br>\
+      مَرْبُوبٌ and مُرَبًّى. (A.)    </entryFree> <br>\
+<b>مُرَبَّبَاتٌ</b>               1     <br>\
+                     مُرَبَّبَاتٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>مِرْبَابٌ</b>               1     <br>\
+                     مِرْبَابٌ<br>\
+                     ذ<br>\
+                  : see مَرَبٌّ, in two places.    </entryFree> <br>\
+<b>مَرْبُوبٌ</b>               1     <br>\
+                     مَرْبُوبٌ<br>\
+                     ذ<br>\
+                  : see رَبِيبٌ. ―         -b2-  Also <i>A slave; a bondman;</i> syn. مَمْلُوكٌ [lit. <i>possessed,</i> and now particularly applied to <i>a male white slave</i>]. (M, K.) العِبَادُ مَرْبُوبُونَ لِلّٰهِ means [<i>Mankind</i> (lit. <i>the servants</i> of God) <i>are</i>] <i>bondmen</i> (مَمْلُوكُونَ) [<i>to God</i>]. (M.) ―         -b3-  A skin for clarified butter &amp;amp;c. <i>seasoned with</i> <br>\
+                  رُبّ [or <i>inspissated juice</i>]. (T, S.) [And A jar <i>smeared</i> with tar or pitch: see 1.] ―         -b4-  See also مُرَبَّبٌ.    </entryFree> <br>\
+<b>مُرْتَبٌّ</b>               1     <br>\
+                     مُرْتَبٌّ<br>\
+                     ذ<br>\
+                   One <i>who confers a benefit,</i> or <i>benefits.</i> (K.) ―         -b2-  And One <i>on whom a benefit is conferred,</i> or <i>on whom benefits are conferred.</i> (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>وعى</em>            1                  وعى<br>\
+<b>وَعَاهُ</b>               1     <br>\
+                     وَعَاهُ<br>\
+                     ذ<br>\
+                  <i>He kept it in mind, and considered it.</i> (Msb.) ―         -b2-  وَعَى الحَدِيثَ <br>\
+                  <i>He kept,</i> or <i>retained, the narration in his mind,</i> or <i>memory;</i> or <i>knew it,</i> or <i>learned it, by heart;</i> and <i>studied it until he knew it.</i> (Msb.) ―         -b3-  وَعَى, aor.      <br>\
+                     وَعِىَ<br>\
+                  , <i>He heeded; paid attention to.</i>    <br>\
+<b>اَوْعَاهُ الحَدِيثَ</b>               1     <br>\
+                     اَوْعَاهُ الحَدِيثَ<br>\
+                     ذ<br>\
+                  <i>He made him to retain the narration in his memory;</i> or <i>to know it,</i> or <i>learn it, by heart.</i> (TA, in art. زكت.)    </entryFree> <br>\
+<b>وِعَا=ءٌ</b>               1     <br>\
+                     وِعَا=ءٌ<br>\
+                     ذ<br>\
+                  <i>A</i> [<i>bag,</i> or <i>wallet,</i> or] <i>receptacle, for travelling-provisions, and for goods or utensils, &amp;amp;c.:</i> (S, MA:) <i>a vessel</i> (?). ―         -b2-  وِعَا=ءُ القَلْبِ [<i>The pericardium</i>]. (TA, voce فُوَادٌ.) ―         -b3-  بَتَثْتُ لَهُ <br>\
+                  مَا فِى وِعَايِى (assumed tropical:)  <i>I showed him what was in my heart.</i> (Er-Rághib, TA, in art. شكو and شكى.) ―         -b4-  حَرْفُ الوِعَا=ءِ [<i>The adverbial particle</i> <br>\
+                  فِى]. (IB, in TA, art. وسط.)    <br>\
+' } );

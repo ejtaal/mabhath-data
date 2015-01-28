@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'ظوف1<br>\
+جَآءَ يَظُوفُهُ He came driving him away; as<br>\
+also يَظْأَفُهُ. (Ibn-&#39;Abbád, O, K.)<br>\
+ظَافٌ: see what follows, in three places.<br>\
+أَخَذَهُ بِظُوفِ رَقَبَتِهِ and ↓ بِظَافِهَا (S, O, K) i. e.<br>\
+[He took him, or laid hold upon him,] by the skin<br>\
+of his neck: (O, K:) or أَخَذَ بِظُوفِ رَقَبَتِهِ and<br>\
+↓ بِظَافِهَا i. e. [he laid hold upon] the whole of his<br>\
+neck: or the pendent hair in the hollow of the<br>\
+back of his neck: (M:) i. q. بِصُوفِ رَقَبَتِهِ [&amp;c.].<br>\
+(S. [See more voce صُوفٌ: and see ظَلِيفٌ, last<br>\
+sentence.]) And تَرَكْتُهُ بِظُوفِ رَقَبَتِهِ (Ibn-&#39;Abbád,<br>\
+O, K) and ↓ بِظَافِهَا, (K,) and بِظُوفِ قَفَاهُ, (Ibn-<br>\
+&#39;Abbád, O,) I left him alone. (Ibn-&#39;Abbád, O, K.)<br>\
+[And نَجَا بِظُوفِ نَفْسِهِ He hardly escaped. (Freytag from the Deewán of the Hudhalees.)]<br>\
+' } );

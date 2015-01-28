@@ -1,0 +1,49 @@
+load_data( { book: 'll_nvd', text: 'وصف1<br>\
+وَصُفَ<br>\
+He attained to the proper age for<br>\
+service. (K.) See an ex. in the K, voce<br>\
+مُخَلَّدُونَ.<br>\
+4<br>\
+أَوْصَفَ<br>\
+and ↓ اِسْتَوْصَفَ<br>\
+He (a boy) became<br>\
+of full stature, and fit for service. (Mgh.)<br>\
+8<br>\
+اِتَّصَفَ بِالعِلْمِ<br>\
+[He was, or became, characterized, or he characterized himself, by knowledge, or science]. (Msb in art. أَهْلٌ.)<br>\
+10<br>\
+إِسْتَوْصَفَ<br>\
+see 4.<br>\
+صِفَةٌ<br>\
+A quality; an attribute; a property;<br>\
+or a description, as meaning the aggregate of<br>\
+the qualities or attributes or properties of a<br>\
+thing; or the state, condition, or case, of a<br>\
+thing. So explained voce صِنْفٌ, and voce<br>\
+صُورَةٌ. See its syn. حَالٌ. ―<br>\
+-b2-  صِفَةٌ in grammar,<br>\
+The same as<br>\
+نَعْتٌ, An epithet. (K.) ―<br>\
+-b3-  A word<br>\
+denoting an attribute (مَعْنًى) and a substance<br>\
+(ذَات). Under this term are comprised the<br>\
+اسم فاعل, the اسم مفعول, the صفة مشبّهة, and<br>\
+the افعل التفضيل. (I&#39;Ak, sect. الصفة<br>\
+المشبّهة باسم الفاعل.) ―<br>\
+-b4-  صِقَةٌ مُشَبَّهَةٌ [A simple<br>\
+epithet]; an epithet resembling an<br>\
+اسم فاعل. ―<br>\
+-b5-<br>\
+صِفَةٌ غَالِبَةٌ<br>\
+An epithet in which the substantive<br>\
+character predominates. ―<br>\
+-b6-  صِفَةٌ, as a general<br>\
+term for an attributive word, is also applied by Lth<br>\
+and other old writers to An adverbial n. of place<br>\
+or time, and to a preposition. It is so applied in the<br>\
+L and TA, art. عنل, &amp;c. It was applied to<br>\
+the former by Fr, (T, voce ظَرْفٌ,) and to the<br>\
+latter also. (L, TA, ubi supra.)<br>\
+بَيْعُ المُوَاصَفَةِ<br>\
+: see 3 in art. روض.<br>\
+' } );

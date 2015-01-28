@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قذع3<br>\
+قَاذَعَهُ<br>\
+He reviled him, being reviled by him;<br>\
+and vied with him in foul, or unseemly, speech or<br>\
+language. (A, K.) See 3 in art. قدح.<br>\
+' } );

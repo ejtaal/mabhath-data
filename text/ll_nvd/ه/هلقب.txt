@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'هلقبجُوعٌ هِلَّقْبٌ Vehement hunger. (AA, T, L.)<br>\
+See also هِلَّقْتٌ.<br>\
+' } );

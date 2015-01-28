@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>ضنو</em>            1                  ضنو<br>\
+<b>ضَنَتِ المَرْاَةُ</b>               1     <br>\
+                     ضَنَتِ المَرْاَةُ<br>\
+                     ذ<br>\
+                  , inf. n. ضَنَا=ءٌ (S, M, K) and ضَنًا, (M, K,) <i>The woman had many children;</i> (S, M, K;) as also ضَنِيَت: (K:) and so with ء. (S.) ―         -b2-  And ضَنَا نَصِيبُهُ <br>\
+                  <i>His share,</i> or <i>portion, became redundant; it increased,</i> or <i>augmented.</i> (Sgh, K.)    </entryFree> <br>\
+<b>ضَنْوٌ</b>               1     <br>\
+                     ضَنْوٌ<br>\
+                     ذ<br>\
+                   and ضِنْوٌ <br>\
+                  <i>Children,</i> or <i>offspring;</i> (AA, S, K;) like ضَنْءٌ and ضِنْءٌ; as also ↓ <br>\
+      ضُنًا, accord. to IAar. (TA.)    </entryFree> <br>\
+<b>ضُنًا</b>               1     <br>\
+                     ضُنًا<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

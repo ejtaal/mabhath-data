@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نحف</em>            1                  نحف<br>\
+<b>نَحِيفٌ</b>               1     <br>\
+                     نَحِيفٌ<br>\
+                     ذ<br>\
+                  <i>Slender, slim, thin, spare, lean,</i> or <i>light of flesh.</i>   <br>\
+' } );

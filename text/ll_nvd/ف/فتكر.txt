@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'فتكرفِتْكِرٌ and فِتَكْرٌ: see what follows.<br>\
+فِتَكْرِين and فُتَكْرِين (S, O, K) and فَتَكْرِين and<br>\
+فِتْكَرِين and ↓ فِتْكِرٌ (O, K) and ↓ فِتَكْرٌ (K) A calamity, or misfortune; (O, K;) and [in the CK<br>\
+“ or ”] a wonderful, and great, or formidable,<br>\
+affair, or event: (K:) or the ن is the characteristic of the pl.; and one says, لَقِيتُ مِنْهُ الفِتَكْرِينَ<br>\
+and الفُتَكْرِينَ, meaning [I experienced from him,<br>\
+or it,] difficulties, or distresses, and calamities, or<br>\
+misfortunes. (S.)<br>\
+' } );

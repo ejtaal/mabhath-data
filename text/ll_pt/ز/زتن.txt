@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>زتن</em>            1                  زتن<br>\
+<b>اَرْضٌ زَتِنَةٌ</b>               1     <br>\
+                     اَرْضٌ زَتِنَةٌ<br>\
+                     ذ<br>\
+                  : see زَيْتُونٌ, in art. زيت.   </entryFree> <br>\
+' } );

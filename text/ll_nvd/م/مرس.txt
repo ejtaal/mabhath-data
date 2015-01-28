@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مرسمَرَاسَةٌ<br>\
+[A wooden rake or harrow:] i. q.<br>\
+مَلاَسَةٌ.<br>\
+(TA, art. صلع.)<br>\
+' } );

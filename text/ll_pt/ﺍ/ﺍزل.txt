@@ -1,0 +1,80 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ازل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ازل<br>\
+&lt;entryFree id=&quot;n679&quot; key=&quot;اَزَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَزَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِلَ<br>\
+                  &lt;/form&gt;, inf. n. اَزْلٌ, (S,) &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;became in a state of straitness,&lt;/i&gt; or &lt;i&gt;narrowness, and suffering from dearth&lt;/i&gt; or &lt;i&gt;drought&lt;/i&gt; or &lt;i&gt;sterility.&lt;/i&gt; (S, K.) [See also the pass. form of the verb here following; and see 5.]       -A2-  اَزَلَهُ, aor. as above, (K,) and so the inf. n., (TA,) &lt;i&gt;He confined, restricted, restrained, withheld, debarred, hindered,&lt;/i&gt; or &lt;i&gt;prevented, him;&lt;/i&gt; (K,* TA;) and &lt;i&gt;straitened him; in consequence of distress,&lt;/i&gt; or &lt;i&gt;adversity,&lt;/i&gt; and &lt;i&gt;fear.&lt;/i&gt; (TA.) ―         -b2-  &lt;i&gt;He shortened his&lt;/i&gt; (a horse&#39;s) &lt;i&gt;rope,&lt;/i&gt; [or &lt;i&gt;tether,&lt;/i&gt;] &lt;i&gt;and then left him to pasture at pleasure&lt;/i&gt; (Lth, K, [in the CK, شَيَّبَهُ is put for سَيَّبَهُ,]) &lt;i&gt;in the place of pasturage.&lt;/i&gt; (Lth.) ―         -b3-  اَزَلُوا مَالَهُمْ, (S,) or اَمْوَالَهُمْ, (K,) aor. as above, (S,) &lt;i&gt;They confined, restricted,&lt;/i&gt; or &lt;i&gt;debarred, their cattle from the place of pasturage,&lt;/i&gt; (S,) or &lt;i&gt;did not take,&lt;/i&gt; or &lt;i&gt;send, them forth thereto,&lt;/i&gt; (K,) &lt;i&gt;in consequence of fear,&lt;/i&gt; (S, K,) or &lt;i&gt;dearth&lt;/i&gt; or &lt;i&gt;drought&lt;/i&gt; or &lt;i&gt;sterility.&lt;/i&gt; (K.) ―         -b4-  It is said in a trad. respecting Ed-Dejjál, and his besieging the Muslims in Beytel-Makdis, [or Jerusalem,] فَيُوْزَلُونَ اَزْلًا شَدِيدًا <br>\
+                  &lt;i&gt;And they will be straitened with a vehement straitening.&lt;/i&gt; (TA.) And اُزِلَ النَّاسُ signifies &lt;i&gt;The people suffered,&lt;/i&gt; or &lt;i&gt;were afflicted with, drought,&lt;/i&gt; or &lt;i&gt;want of rain.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n680&quot; key=&quot;ا=زَلَتِ السَّنَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=زَلَتِ السَّنَةُ<br>\
+                     ا=زلت السنه<br>\
+                     ا=زلت السنة<br>\
+                  &lt;i&gt;The year became severe, distressful, calamitous,&lt;/i&gt; or &lt;i&gt;adverse.&lt;/i&gt; (TA.)       -A2-  ا=زَلَهُمُ اْللّٰهُ <br>\
+                  &lt;i&gt;God afflicted them with drought,&lt;/i&gt; or &lt;i&gt;want of rain.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n681&quot; key=&quot;تازّل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تازّل<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a man&#39;s bosom or mind) &lt;i&gt;became&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;54&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;strait,&lt;/i&gt; or &lt;i&gt;straitened;&lt;/i&gt; (Fr, S, K;) as also تازّق. (Fr, S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n682&quot; key=&quot;اَزْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزْلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Straitness; distress; difficulty;&lt;/i&gt; (S,* K;) and &lt;i&gt;drought,&lt;/i&gt; or &lt;i&gt;want of rain.&lt;/i&gt; (TA.) ―         -b2-  &lt;i&gt;Vehemence of might,&lt;/i&gt; or &lt;i&gt;of strength, in war,&lt;/i&gt; or &lt;i&gt;fight; of courage, valour,&lt;/i&gt; or &lt;i&gt;prowess:&lt;/i&gt; or &lt;i&gt;of war,&lt;/i&gt; or &lt;i&gt;fight:&lt;/i&gt; or &lt;i&gt;of fear:&lt;/i&gt; or &lt;i&gt;of punishment:&lt;/i&gt; syn. شِدَّةُ بَاْسٍ. (TA.)       -A2-  It is also used as an epithet, meaning &lt;i&gt;Strait; narrow; confined.&lt;/i&gt; (Ham p. 339.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n683&quot; key=&quot;اـِزْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِزْلٌ<br>\
+                     ازال<br>\
+                     ازل<br>\
+                     ازل<br>\
+                     زال<br>\
+                     زل<br>\
+                  &lt;i&gt;A calamity;&lt;/i&gt; (K;) because of its distressing character. (TA.) ―         -b2-  &lt;i&gt;Lying,&lt;/i&gt; or &lt;i&gt;falsehood.&lt;/i&gt; (Yaa- koob, S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n684&quot; key=&quot;اَزَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزَلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  قِدَمٌ [i. e. &lt;i&gt;Eternity, with respect to past time,&lt;/i&gt; or &lt;i&gt;considered retrospectively; existence from eternity;&lt;/i&gt; or &lt;i&gt;ancientness&lt;/i&gt;] (S, K, TA) &lt;i&gt;that is without beginning;&lt;/i&gt; (TA;) or the &lt;i&gt;continuance of existence in decreed times interminable in respect of the past;&lt;/i&gt; like as اَبَدٌ is the continuance of existence in decreed times interminable in respect of the future; (KT;) or &lt;i&gt;that&lt;/i&gt; [&lt;i&gt;existence,&lt;/i&gt; or &lt;i&gt;time,&lt;/i&gt;] &lt;i&gt;which has no extremity in its beginning;&lt;/i&gt; like قِدَمٌ; and اَبَدٌ is that which has no extremity in its latter part; like بَقَا=ءٌ: the former is &lt;i&gt;existence without any beginning:&lt;/i&gt; (Kull p. 31:) said to be from the phrase لَمْ يَزَلْ [“he, or it, has not ceased” to be &amp;amp;c.; i. e. “has ever” been &amp;amp;c. (see اَزَلِىٌّ)]: or, accord. to some, from اَزْلٌ signifying “narrowness;” because the intellect is prevented by its narrowness from perceiving its beginning: (MF:) ازل is a name for &lt;i&gt;that of which the mind is prevented by its narrowness from determining the limit of the beginning;&lt;/i&gt; from اَزْلٌ meaning “narrowness;”; and ابد is a name for that of which the mind shrinks from, or shuns, the determining the limit of the end; from اُبُودٌ meaning the act of “shrinking” from a thing, or “shunning” it. (Kull pp. 30 and 31.) Hence the saying, كَانَ فِى الاَزَلِ قَادِرًا عَالِمًا [&lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;has been, ever, powerful, knowing&lt;/i&gt;]. (A, TA.) The phrase اَزَلَ الا=زَالِ [&lt;i&gt;During the space, without beginning, of all past times;&lt;/i&gt; or &lt;i&gt;ever, in all past times;&lt;/i&gt;] is like the phrase اَبَدَ الا=بَادِ; said to be no evidence of the use of ا=زَالٌ as a pl. of اَزَلٌ in a general way by the Arabs of the classical ages, as it is here added merely as a corroborative. (MF in art. ابد.) [See also اَزَلِىٌّ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n685&quot; key=&quot;اَزِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=زِلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n686&quot; key=&quot;اَزَلِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزَلِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Eternal, with respect to past time; existing from eternity;&lt;/i&gt; or &lt;i&gt;ancient without beginning;&lt;/i&gt; as is implied in the S and K &amp;amp;c.;] a thing, or being, &lt;i&gt;which has not been preceded by non-existence:&lt;/i&gt; it is applied to God: and to [his] knowledge: that which exists must be one of three kinds only: اَزَلِىٌّ اَبَدِىٌّ [&lt;i&gt;existing from eternity,&lt;/i&gt; and consequently &lt;i&gt;existing to eternity&lt;/i&gt;]; and this is God [who is also called القَدِيمُ الاَزَلِىُّ <br>\
+                  &lt;i&gt;the Ancient without beginning&lt;/i&gt;]: and لَا اَزَلِىٌّ وَ لَا اَبَدِىٌّ [&lt;i&gt;not existing from eternity nor existing to eternity&lt;/i&gt;]; and such is the present world: and اَبَدِىٌّ <br>\
+                  غَيْرُ اَزَلِىّ [&lt;i&gt;existing to eternity without existing from eternity&lt;/i&gt;]; and such is the world to come; the reverse of which [last] is impossible: (TA:) it is a rel. n. from اَزَلٌ: or, accord. to some, it is not [genuine] Arabic: (TA:) or it is originally يَزَلِىٌّ, a rel. n. from لَمْ يَزَلْ, (S, K,) a phrase applied to that which is قَدِيم; and is formed by contraction; (S;) then, the ى is changed into ا, as being easier of pronunciation; as in اَزَنِىٌّ, applied to a spear, in relation to ذُو يَزَن; (S, K,* Sgh, TA;) and as in اَثْرَبِىٌّ, applied to a blade, (S, Sgh, TA,) in relation to يَثْرِب: (TA:) so say some of the learned. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n687&quot; key=&quot;اَزَلِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزَلِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;quality,&lt;/i&gt; or &lt;i&gt;attribute, of&lt;/i&gt; <br>\
+                  اَزَلٌ [&lt;i&gt;eternity, with respect to past time,&lt;/i&gt; &amp;amp;c.]: but it is a forged term, not of the [genuine] language of the Arabs. (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n688&quot; key=&quot;سَنَةٌ اَزُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَنَةٌ اَزُولٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A severe, distressful, calamitous,&lt;/i&gt; or &lt;i&gt;adverse, year:&lt;/i&gt; pl. اُزْلٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n689&quot; key=&quot;ا=زِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=زِلٌ<br>\
+                     ا=زل<br>\
+                  &lt;/form&gt; A man &lt;i&gt;in a state of straitness, distress, adversity,&lt;/i&gt; or &lt;i&gt;difficulty.&lt;/i&gt; (TA.) ―         -b2-  A man &lt;i&gt;in a state of straitness in consequence of fever:&lt;/i&gt; or &lt;i&gt;who is unable to go forth in consequence of pain:&lt;/i&gt; or &lt;i&gt;confined, restricted, withheld,&lt;/i&gt; or &lt;i&gt;prevented&lt;/i&gt; [&lt;i&gt;from going forth&lt;/i&gt;]. (TA.) ―         -b3-  لَبُونٌ ا=زِلَةٌ [&lt;i&gt;A milch camel&lt;/i&gt;] &lt;i&gt;confined,&lt;/i&gt; or &lt;i&gt;restricted, not pasturing at pleasure, having her shank tied up to her arm, on account of her owner&#39;s fear of a hostile incursion:&lt;/i&gt; occurring in a poem of El-Aashà. (TA.) ―         -b4-  اَزْلٌ ا=زِلٌ, in the K, erroneously, ↓ <br>\
+      اَزِلٌ, &lt;i&gt;Severe,&lt;/i&gt; or &lt;i&gt;vehement, straitness, distress,&lt;/i&gt; or &lt;i&gt;difficulty.&lt;/i&gt; (K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n690&quot; key=&quot;مَاْزِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْزِلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place of straitness,&lt;/i&gt; or &lt;i&gt;a strait place;&lt;/i&gt; (S, K;) like مَاْزِقٌ: (S:) or &lt;i&gt;a place of war&lt;/i&gt; or &lt;i&gt;fight, when strait.&lt;/i&gt; (Lh.) And مَاْزِلُ العَيْشِ <br>\
+                  &lt;i&gt;The place where the means of subsistence are strait,&lt;/i&gt; or &lt;i&gt;narrow.&lt;/i&gt; (Lh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n691&quot; key=&quot;سُنَيَّةٌ حَمْرَا=ءُ مُوْزِلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُنَيَّةٌ حَمْرَا=ءُ مُوْزِلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;A severe year of dearth,&lt;/i&gt; or &lt;i&gt;sterility,&lt;/i&gt;] &lt;i&gt;afflicting with drought.&lt;/i&gt; (TA, from a trad.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n692&quot; key=&quot;مَاْزُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْزُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A horse &lt;i&gt;having his rope&lt;/i&gt; [or &lt;i&gt;tether&lt;/i&gt;] &lt;i&gt;shortened, and then left to feed at pleasure in the place of pasturage.&lt;/i&gt; (Lth.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>نزا</em>            1                  نزا<br>\
+<b>نَزَاَ بَيْنَهُمْ</b>               1     <br>\
+                     نَزَاَ بَيْنَهُمْ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     نَزَاَ<br>\
+                  , inf. n. نَزْءٌ and نُزُوْءٌ, (S,) <i>He excited discord between them:</i> (AZ, S, K:) like نَزَعَ. (TA.) ―         -b2-  نَزَاَهُ عَلَى صَاحِبِهِ <br>\
+                  <i>He incited,</i> or <i>urged, him against his companion.</i> (K, * TA.) ―         -b3-  مَا نَزَاَكَ عَلَى هٰذَا <br>\
+                  <i>What incited, urged,</i> or <i>induced, thee to this?</i> (Ks, S.) ―         -b4-  نَزَاَ <br>\
+                  عَلَيْهِ, (S, K,) inf. n. نَزْءٌ, (S,) <i>He made an attack,</i> or <i>assault, upon him;</i> syn. حَمَلَ. (Ks, S. K.) ―         -b5-  نَزَاَهُ عَنْ قَوْلِهِ <br>\
+                  <i>He turned him back from what he had said.</i> (K, * TA.) ―         -b6-  نُزِيَ بِهِ, like عُنِىَ, [i. e., pass. in form, but neut. in signification,] <i>He was addicted,</i> or <i>devoted, to it; desirous of it.</i> (TA.) ―         -b7-  اـِنَّكَ لَا تَدْرِى عَلَامَ يُنْزَاُ <br>\
+                  هَرِمُكَ, (S, K,) thus thou sayest, addressing thyself, when a man has been pursuing a good or an evil way, and turned from it to another way, or accord. to some copies of the S, بِمَ instead of عَلَامَ, [which is for عَلَى مَا;] (TA;) <i>Verily thou knowest not to what thing thy mind will become addicted,</i> or <i>devoted:</i> (ISk, S, K:) i. e., to what thy state will come. (K.) In one copy of the K, هَرَمُكَ <br>\
+                  <i>thine old age,</i> is put instead of هَرِمُكَ. (TA.)     <br>\
+<b>نَزِىْء</b>               1     <br>\
+                     نَزِىْء<br>\
+                     ذ<br>\
+                  <i>An inciter, instigator,</i> or <i>exciter.</i> (TA.)    </entryFree> <br>\
+<b>رَجُلٌ نَزَّا=ءٌ</b>               1     <br>\
+                     رَجُلٌ نَزَّا=ءٌ<br>\
+                     ذ<br>\
+                   [<i>A man much addicted,</i> or <i>devoted,</i> to a thing; <i>very desirous</i> of it]. (TA.) [See نَزِيَ.]    </entryFree> <br>\
+<b>مَنْزُوْءٌ بِهِ</b>               1     <br>\
+                     مَنْزُوْءٌ بِهِ<br>\
+                     ذ<br>\
+                  <i>Addicted,</i> or <i>devoted, to it; desirous of it.</i> (S, K.)   </entryFree> <br>\
+' } );

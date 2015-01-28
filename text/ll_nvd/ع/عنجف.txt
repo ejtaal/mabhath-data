@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'عنجفعَنْجَفٌ, or عُنْجُفٌ, and عُنْجُوفٌ: see art. عجف.<br>\
+' } );

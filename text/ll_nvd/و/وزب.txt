@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'وزب1<br>\
+وَزَبَ, aor. يَزِبُ, inf. n. وُزُوبٌ, It (water, K,<br>\
+or a thing, T,) flowed. (T, K.)<br>\
+4<br>\
+اوزب فِى الأَرْضِ (tropical:)  He went, or went away,<br>\
+or pursued his course, through the land, (K,) like<br>\
+as does water. (TA.)<br>\
+وَزَّابٌ (tropical:)  A clever thief: (K:) so called because<br>\
+quick in his motions, like running water. (TA.)<br>\
+مِيزَابٌ A water-spout; a pipe or other channel<br>\
+that spouts forth water; (TA, art. أزب;) that by<br>\
+which water pours down from a high place;<br>\
+(Towsheeh;) a water-spout of wood, or the like,<br>\
+to convey away the water from the roof of a<br>\
+house: (MF, art. زوب:) from وَزَبَ المَآءُ “ the<br>\
+water flowed: ” (K:) or a Persian term, arabicized; (S, K;) i. e., composed of the Persian<br>\
+words, (TA,) signifying “ make water: ” (K:)<br>\
+also written مِئْزَابٌ; and in this case its pl. is<br>\
+مَآزِيبُ: (S, K:) but if without ء, its pl. is مَيَازِيبُ,<br>\
+(S,) or مَوَازِيبُ; the latter agreeable with analogy,<br>\
+like مَوَاعِيدُ and مَوَازِينُ. (TA.) [See also arts.<br>\
+أزب and زوب. It has also two other forms,<br>\
+مِزْرَابٌ and مِرْزَابٌ.]<br>\
+' } );

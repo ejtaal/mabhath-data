@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>قرطس</em>            1                  قرطس<br>\
+<b>قَرْطَسَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     قَرْطَسَ<br>\
+                     ذ<br>\
+                  , (Msb, K,) inf. n. قَرْطَسَةٌ, (Msb,) <i>He</i> (an archer) [and <i>it</i> (an arrow)] <i>hit the</i> <br>\
+                  قِرْطَاس [or <i>target</i>]. (Msb, K.) It is also allowable to say, قَرْطَسَتِ الرَّمْيَةُ <br>\
+                  <i>The shot went right to the</i> <br>\
+                  قِرْطَاس. (Msb.)    </entryFree> <br>\
+<b>تَقَرْطَسَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَقَرْطَسَ<br>\
+                     ذ<br>\
+                  <i>He perished.</i> (Sgh, K.)    </entryFree> <br>\
+<b>قَرْطَسٌ</b>               1     <br>\
+                     قَرْطَسٌ<br>\
+                     ذ<br>\
+                   and قِرْطَسٌ: see قِرْطَاسٌ.    </entryFree> <br>\
+<b>قِرْطَاسٌ</b>               1     <br>\
+                     قِرْطَاسٌ<br>\
+                     ذ<br>\
+                  <i>Paper;</i> syn. كَاغَدٌ: (K:) or <i>such as is made of the</i> <br>\
+                  بَرْدِىّ [or <i>papyrus</i>], <i>found in Egypt:</i> (TA:) [and particularly <i>a roll,</i> or <i>scroll, thereof:</i> see also طُومَارٌ, and سُرْفَةٌ:] <i>what one writes upon:</i> (S, Msb:) also written قُرْطَاسٌ; (S, Msb, K;) but the former is the better known, (Msb), or the former only is of established authority, for El-Járabardee says the contrary of the latter; (MF;) and قَرْطَاسٌ; (Lh, ISd, K;) but this is not mentioned by most of the lexicographers; (MF;) and ↓ <br>\
+      قَرْطَسٌ signifies the same; (AZ, S, Msb, K;) and so does ↓ <br>\
+      قِرْطَسٌ. (K [app. on the authority of El-Fárábee and Aboo-&#39;Alyà; but the  names are imperfectly written in the TA.]) ―         -b2-  قِرْطَاسٌ also signifies <i>A writing,</i> or <i>book,</i> (صَحِيفَةٌ,) <i>of whatever thing it be:</i> (K:) pl. قَرَاطِيسُ. (TA.) ―         -b3-  Also, <i>A butt,</i> or <i>target, to shoot at;</i> (S;) <i>a piece of skin,</i> (Msb,) or <i>any skin,</i> (K,) <i>set up for persons contending in shooting.</i> (Msb, K.) ―         -b4-  And <i>A kind of</i> <br>\
+                  بُرْد [q. v.] <i>of the fabric of Egypt.</i> (K, TA.) ―         -b5-  And <i>A white,</i> or <i>fair, girl, of tall stature.</i> (IAar, K.) ―         -b6-  And <i>A camel such as is termed</i> <br>\
+                  ا=دَم. (Sgh, K.) ―         -b7-  And <i>A young she-camel.</i> (IAar, K.)    </entryFree> <br>\
+<b>دَابَّةٌ قِرْطَاسِيَّةٌ</b>               1     <br>\
+                     دَابَّةٌ قِرْطَاسِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>A beast of carriage in whose whiteness is no mixture of any other colour.</i> (K.)    </entryFree> <br>\
+<b>مُقَرْطِسٌ</b>               1     <br>\
+                     مُقَرْطِسٌ<br>\
+                     ذ<br>\
+                   An archer [and in like manner an arrow] <i>hitting the</i> <br>\
+                  قِرْطَاس. (Msb.) And رَمْيَةٌ <br>\
+                  مُقَرْطِسَةٌ <br>\
+                  <i>A shot going right to the</i> <br>\
+                  قِرْطَاس. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,74 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ادو&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ادو<br>\
+&lt;entryFree id=&quot;n460&quot; key=&quot;ا=دى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=دى<br>\
+                     ا=دى<br>\
+                     ا=دي<br>\
+                  &lt;i&gt;He took his&lt;/i&gt; <br>\
+                  اَدَاةٌ [q. v.]; (M;) &lt;i&gt;he prepared himself;&lt;/i&gt; (M, K; [mentioned in the latter in art. ادى;]) or &lt;i&gt;equipped,&lt;/i&gt; or &lt;i&gt;accoutred, himself;&lt;/i&gt; or &lt;i&gt;furnished,&lt;/i&gt; or &lt;i&gt;provided himself with proper,&lt;/i&gt; or &lt;i&gt;necessary, apparatus, equipments,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; (M;) or &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, in a state of preparation;&lt;/i&gt; (Yaakoob, T, S;) لِلسَّفَرِ <br>\
+                  &lt;i&gt;for journeying,&lt;/i&gt; or &lt;i&gt;the journey:&lt;/i&gt; (Yaakoob, T, S, M, K:) part. n. مُودٍ. (Yaakoob, T, S.) And ↓ <br>\
+      تادّى <br>\
+                  &lt;i&gt;He took his&lt;/i&gt; <br>\
+                  اَدَاة, [or &lt;i&gt;prepared himself,&lt;/i&gt; &amp;amp;c.,] لِلْاَمْرِ <br>\
+                  &lt;i&gt;for the affair:&lt;/i&gt; (M:) or ↓ <br>\
+      تا=دى <br>\
+                  &lt;i&gt;he prepared, furnished, equipped,&lt;/i&gt; or &lt;i&gt;accoutred, himself&lt;/i&gt; for the affair; (Ibn-Buzurj, Az, TA;) from الاَداةُ: (Az, TA:) or ↓ the former of these two verbs, (so in some copies of the S and K,) or ↓ the latter of them, (so in other copies of the S and K, and in the TA,) &lt;i&gt;he took his&lt;/i&gt; <br>\
+                  اَدَاة [or &lt;i&gt;equipments,&lt;/i&gt; &amp;amp;c., i. e. &lt;i&gt;he prepared himself,&lt;/i&gt;] &lt;i&gt;for&lt;/i&gt; [&lt;i&gt;the vicissitudes of&lt;/i&gt;] &lt;i&gt;fortune:&lt;/i&gt; (S, K:) and ↓ <br>\
+      تَا=دَوْا, inf. n. تَا=دٍ, &lt;i&gt;they took the apparatus, equipments,&lt;/i&gt; or &lt;i&gt;the like, that should strengthen,&lt;/i&gt; or &lt;i&gt;fortify, them against&lt;/i&gt; [&lt;i&gt;the vicissitudes of&lt;/i&gt;] &lt;i&gt;fortune&lt;/i&gt; <br>\
+                  &lt;i&gt;&amp;amp;c.:&lt;/i&gt; (T:) [accord. to some,] التَّا=دِى is [irregularly derived] from الا=دُ, meaning “strength.” (TA.) ―         -b2-  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, completely armed;&lt;/i&gt; (T, TA;) part. n. as above; (T, S, M, Msb;) from الاَدَاةُ: (T, TA:) or &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, strong by means of weapons and the like;&lt;/i&gt; part. n. as above: (Msb:) or &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, strong&lt;/i&gt; [in an absolute sense]; (S, K; [mentioned in the latter in art. ادى;]) said of a man; from الاَدَاةُ; (S;) part. n. as above. (K.)       -A2-  ا=داهُ is originally اَعْدَاهُ; the second ا [in ا=, for اَا,] being hemzeh substituted for ع in the original; meaning &lt;i&gt;He aided,&lt;/i&gt; or &lt;i&gt;assisted, him:&lt;/i&gt; [or &lt;i&gt;he avenged him:&lt;/i&gt;] or it may be from الاَدَاةُ; meaning &lt;i&gt;he made him to have,&lt;/i&gt; or &lt;i&gt;gave him,&lt;/i&gt; or &lt;i&gt;assigned to him, weapons,&lt;/i&gt; or &lt;i&gt;arms.&lt;/i&gt; (Ham p. 387.) [In either case, it should be mentioned in the present art.; as اعدى belongs to art. عدو, and الاداة has for its pl. الاَدَوَاتُ.] You say, ا=داهُ عَلَى كَذَا, aor. يُوْدِيهِ, inf. n. اـِيدَا=ءٌ, &lt;i&gt;He strengthened him,&lt;/i&gt; and &lt;i&gt;aided him,&lt;/i&gt; or &lt;i&gt;assisted him, against such a thing,&lt;/i&gt; or &lt;i&gt;to do such a thing.&lt;/i&gt; (S.) And ا=داهُ عَلَى فُلَانٍ, meaning اَعْدَاهُ and اَعَانَهُ [&lt;i&gt;He avenged him of such a one;&lt;/i&gt; or &lt;i&gt;he aided,&lt;/i&gt; or &lt;i&gt;assisted, him against such a one&lt;/i&gt;]. (M and K in art. عدى .) And مَنْ يُودِينِى عَلَى فُلَانٍ <br>\
+                  &lt;i&gt;Who will aid me,&lt;/i&gt; or &lt;i&gt;assist me, against such a one?&lt;/i&gt; (S.) The people of El-Hijáz say, عَلَى فُلَانٍ ↓ <br>\
+      اسْتَاْدَيْتُهُ <br>\
+                  فَا=دَانِى عَلَيْهِ, meaning اِسْتَعْدَيْتُهُ فَاَعْدَانِى (T, S) and اعَانَنِى (T) [&lt;i&gt;I asked of him&lt;/i&gt; (namely the Sultá, T, or the Emeer, S) &lt;i&gt;vengeance of such a one,&lt;/i&gt; or &lt;i&gt;aid against such a one, and he avenged me of him,&lt;/i&gt; or &lt;i&gt;aided me against him&lt;/i&gt;].    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَدَّوَ<br>\
+                  &lt;/form&gt; see 4, in two places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَاَاْدَوَ<br>\
+                  &lt;/form&gt; see 4, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n461&quot; key=&quot;استاداهُ عَلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاداهُ عَلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اِسْتَعْدَاهُ [&lt;i&gt;He asked of him aid,&lt;/i&gt; or &lt;i&gt;assistance, against him;&lt;/i&gt; or &lt;i&gt;vengeance of him&lt;/i&gt;]: (T, S, M, K: *) or &lt;i&gt;he complained to him of his&lt;/i&gt; (another&#39;s) &lt;i&gt;deed to him, in order that he might exact his&lt;/i&gt; (the complainant&#39;s) &lt;i&gt;right,&lt;/i&gt; or &lt;i&gt;due, from him.&lt;/i&gt; (TA.) See also 4, last sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n462&quot; key=&quot;اَدَاةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدَاةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;An instrument; a tool; an implement; a utensil:&lt;/i&gt; and &lt;i&gt;instruments; tools; implements; utensils; apparatus; equipments; equipage; accoutrements; furniture; gear; tackling:&lt;/i&gt; syn. ا=لَةٌ: (T, S, M, Msb, K:) of any tradesman or craftsman; with which he performs the work of his trade or craft: and of war; اَدَاةُ الحَرْبِ signifying &lt;i&gt;weapons,&lt;/i&gt; or &lt;i&gt;arms:&lt;/i&gt; (Lth, T:) and for an affair [of any kind]: (M:) [applied also to the &lt;i&gt;apparatus&lt;/i&gt; of a camel, or of a camel&#39;s saddle, &amp;amp;c.: (see حِدْجٌ:)] and ↓ <br>\
+      اـِدَاوَةٌ signifies the same; (M, TA;) and ↓ <br>\
+      اَدَاوَةٌ: (TA:) and ↓ <br>\
+      اَدِىٌّ, (S, TA,) like غَنِىٌّ , (TA,) [in some copies of the S ا=دِىٌّ ,] signifies &lt;i&gt;apparatus,&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;38&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;equipments, equipage, accoutrements, furniture, gear, tackling, implements, tools,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; syn. اُهْبَةٌ: (S, TA:) the pl. of اَدَاهٌ is اَدَوَاتٌ. (T, S, Msb, K.) You say, اَخَذَ اَدَاتَهُ [&lt;i&gt;He took his apparatus,&lt;/i&gt; &amp;amp;c.; or &lt;i&gt;prepared, furnished, equipped,&lt;/i&gt; or &lt;i&gt;accoutred, himself&lt;/i&gt;]; (S, M, K;) لِلْاَمْرِ [&lt;i&gt;for the affair&lt;/i&gt;], and لِلسَّفَرِ [&lt;i&gt;for journeying,&lt;/i&gt; or &lt;i&gt;the journey&lt;/i&gt;], (M,) and لِلدَّهْرِ [&lt;i&gt;for&lt;/i&gt; the vicissitudes of &lt;i&gt;fortune&lt;/i&gt;]: (T, S, K:) and it is related on the authority of Ks, that they said اَخَذَ هَدَاتَهُ; substituting ه for ا. (Lh, M). And اخَذْتُ لِذٰلِكَ ↓ <br>\
+      الاَمْر اَدِيَّهُ i. e. اُهْبَتَهُ [&lt;i&gt;I took for that affair its apparatus,&lt;/i&gt; &amp;amp;c.]. (S, TA.) And نَحْنُ عَلَى <br>\
+                  لِلصَّلَاةِ ↓ <br>\
+      اَدِىٍّ <br>\
+                  &lt;i&gt;We are in a state of preparation for prayer.&lt;/i&gt; (S, TA.) ―         -b2-  [Hence, in grammar, &lt;i&gt;A particle;&lt;/i&gt; as being a kind of auxiliary; including the article ال, the preposition, the conjunction, and the interjection; but not the adverbial noun.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n463&quot; key=&quot;اَدِىٌّ &quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدِىٌّ <br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَدَاةٌ, in three places.       -A2-  Also &lt;i&gt;A journey;&lt;/i&gt; or &lt;i&gt;a journeying:&lt;/i&gt; from ا=دَى لِلسَّفَرِ. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n464&quot; key=&quot;اَدَاوَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدَاوَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَدَاةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n465&quot; key=&quot;اـِدَاوَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِدَاوَةٌ<br>\
+                     اداوه<br>\
+                     اداوه<br>\
+                     اداوة<br>\
+                     داوى<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مِطهَرَةٌ; (S, M, Mgh, Msb, K;) i. e. &lt;i&gt;A small vessel&lt;/i&gt; [or &lt;i&gt;bag&lt;/i&gt;] &lt;i&gt;of skin, made for water, like the&lt;/i&gt; <br>\
+                  سَطِيحَة: (TA:) or, as some say, only &lt;i&gt;of two skins put face to face:&lt;/i&gt; (M, TA:) pl. اَدَاوَى; (S, Mgh, Msb, K;) originally, by rule, اَدَايِىُ; which is changed, as in the cases of مَطَايَا and خَطَايَا, from the measure فَعَايِلُ to the measure فَعَالَى, so that the و in اَدَاوَى is a substitute for the augmentative ا in the sing., and the final alif [written ى] in اَدَاوَى is a substitute for the و in the sing. (S.) ―         -b2-  See also اَدَاةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n466&quot; key=&quot;ا=دَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=دَى<br>\
+                     ا=دى<br>\
+                     ا=دي<br>\
+                  &lt;/form&gt; [a noun denoting the comparative and superlative degrees, irregularly formed from the verb ا=دَى; like as the noun ا=دَى in art. ادى is irregularly formed from the verb اَدَّى in that art.]. You say, هُوَ ا=دَى شَىْءٍ, meaning اَقْوَاهُ and اعْدَاهُ [&lt;i&gt;It is the strongest kind of thing,&lt;/i&gt; and, app., &lt;i&gt;the most effectual to aid&lt;/i&gt; or &lt;i&gt;assist,&lt;/i&gt; or &lt;i&gt;to avenge&lt;/i&gt;]. (TA.)       -A2-  See also art. ادى.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n467&quot; key=&quot;مُوْدٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْدٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; part. n. of the intrans. verb ا=دى [q. v.]. (T, S, M, &amp;amp;c.)       -A2-  [And act. part. n. of ا=دَاهُ.]        -A3-  مُودٍ, without ء, is from اَوْدَى signifying “he perished” [&amp;amp;c.]. (S.)   &lt;/entryFree&gt; <br>\
+' } );

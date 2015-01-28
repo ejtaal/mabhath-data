@@ -1,0 +1,56 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;با&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  با<br>\
+&lt;entryFree id=&quot;n1646&quot; key=&quot;بَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَا<br>\
+                     با<br>\
+                  &lt;/form&gt; and بَا=ءٌ: see the letter ب, and arts. بوا and بى   <br>\
+&lt;div2 n=&quot;با&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  با<br>\
+&lt;entryFree id=&quot;n1647&quot; key=&quot;بَاْبَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     بَاْبَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Lth, T, S, M, K,) and بابا بِهِ, (Fr, M, K,) inf. n. بَاْبَا=َةُ (Lth, T, M) and بَيْبَا=ءٌ; (Fr, M;) [as also باَبِى; see art. بِاَبِى اَنْتَ;] &lt;i&gt;He said to him,&lt;/i&gt; <br>\
+                  بِاَبِي, (Fr, M,) or باَبَا, (M,) or بِاَبِى اَنْتَ, (Lth, T, K,) [all meaning &lt;i&gt;With my father mayest thou be ransomed!&lt;/i&gt; or] meaning اَفْدِيكَ بِاَبِى [&lt;i&gt;I will ransom thee with my father&lt;/i&gt;]; (Lth, T;) or &lt;i&gt;he said to him,&lt;/i&gt; <br>\
+                  بِاَبِى اَنْتَ وَاُمِّى [&lt;i&gt;With my father mayest thou be ransomed, and&lt;/i&gt; with &lt;i&gt;my mother!&lt;/i&gt; or &lt;i&gt;I will ransom thee&lt;/i&gt; &amp;amp;c.; see art. ابو]; (S;) the current phrase of the Arabs being that which includes both parents: (TA:) i. e., a man said so to another man, (Lth, T, M,) or to a child; (Fr, S, M;) and in like manner to his horse, for having saved him from some accident: (IAar, T:) the verb is derived from بِاَبِى. (Lth, T, M.) Hence البِاَبْ, in an ex. cited voce اَبٌ, in art. ابو, q. v.; (M;) or البِيَبْ; (TA in art. ابو;) or البِيَبْ. (S in that art.) ―         -b2-  And [hence,] بَابَوُوهُ <br>\
+                  &lt;i&gt;They made a show of treating him with graciousness, courtesy,&lt;/i&gt; or &lt;i&gt;blandishment;&lt;/i&gt; as also عَلَيْهِ ↓ <br>\
+      تَبَاْبَوُوا. (M.) ―         -b3-  [Hence also,] ↓ <br>\
+      بَاْبَا=ءٌ, with medd, [used as an inf. n.,] A woman&#39;s &lt;i&gt;dandling,&lt;/i&gt; or &lt;i&gt;dancing,&lt;/i&gt; of her child. (AA, T.)       -A2-  بَاْبَاَ also signifies &lt;i&gt;He&lt;/i&gt; (a child) &lt;i&gt;said&lt;/i&gt; ↓ <br>\
+      بَاْبَاْ (M, K) [in some copies of the K written بَابَا, both meaning &lt;i&gt;Papa,&lt;/i&gt; or &lt;i&gt;Father,&lt;/i&gt;] to his father. (M.) [Accord. to the TA, the verb is trans. in this sense, as in the senses before explained; but I think that بَاْبَاَهُ has been there erroneously put for بَاْبَاَ.] ―         -b2-  And &lt;i&gt;He&lt;/i&gt; (a stallion [meaning a stallion-camel]) &lt;i&gt;reiterated the sound of the letter&lt;/i&gt; <br>\
+                  ب [or &lt;i&gt;b&lt;/i&gt;] &lt;i&gt;in his braying.&lt;/i&gt; (M.) ―         -b3-  [And hence, perhaps,] ↓ <br>\
+      بَاْبَاٌ [or, more probably, ↓ <br>\
+      بَاْبَا=ءٌ, with medd, agreeably with analogy, used as an inf. n.,] The &lt;i&gt;chiding of the cat,&lt;/i&gt; or &lt;i&gt;act of chiding the cat;&lt;/i&gt; (AA, T, Sgh;) also termed غَسٌّ. (AA, T.)       -A3-  Also &lt;i&gt;He hastened, made haste,&lt;/i&gt; or &lt;i&gt;sped:&lt;/i&gt; and ↓ <br>\
+      تَبَاْبَاْنَا <br>\
+                  &lt;i&gt;we hastened,&lt;/i&gt; &amp;amp;c.: (marginal note in a copy of the S:) or ↓ <br>\
+      تَبَاْبَاَ signifies &lt;i&gt;he ran.&lt;/i&gt; (ElUmawee, T, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;R. Q. 2&lt;/itype&gt;        <br>\
+                     &lt;orth lang=&quot;ar&quot;/&gt;<br>\
+                  &lt;/form&gt; see above, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1648&quot; key=&quot;بَاْباْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَاْباْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and بَاْبَاٌ: see R. Q. 1, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1649&quot; key=&quot;بُوْبُوٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُوْبُوٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;source, origin, race, root,&lt;/i&gt; or &lt;i&gt;stock,&lt;/i&gt; syn. اَصْلٌ, (AA, Sh, T, S, M, K,) of a man, (Sh, T,) &lt;i&gt;whether noble&lt;/i&gt; or &lt;i&gt;base.&lt;/i&gt; (AA, T.) You say, هُوَ كَرِيمُ البُوْبُوِ <br>\
+                  &lt;i&gt;He is of generous,&lt;/i&gt; or &lt;i&gt;noble, origin;&lt;/i&gt; lit., &lt;i&gt;generous,&lt;/i&gt; or &lt;i&gt;noble, of origin.&lt;/i&gt; (TK.) And فُلَانٌ فِىبُوْبُوِ الكَرَمِ <br>\
+                  &lt;i&gt;Such a one is of&lt;/i&gt; [a race] &lt;i&gt;the source&lt;/i&gt; (اَصْل) &lt;i&gt;of generosity,&lt;/i&gt; or &lt;i&gt;nobleness.&lt;/i&gt; (S. [In the PS, من is here put in the place of فى: but فى is often used in phrases of the same kind and meaning as that above, in the sense of مِنْ.]) IKh cites from Jereer, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                        فِى يُوْبُوِ المَجْدِ وَبُحْبُوحِ الكَرَمْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Of&lt;/i&gt; a race &lt;i&gt;the source of glory, and the very heart of generosity,&lt;/i&gt; or &lt;i&gt;nobleness&lt;/i&gt;]: but Aboo-&#39;Alee El- Kálee quotes the words thus; &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                        فِى ضِيْضِيِ المَجْدِ وَ بُوْبُوْءِ الكَرَمْ<br>\
+                  &lt;/quote&gt; [which may be rendered, &lt;i&gt;of&lt;/i&gt; a race &lt;i&gt;the source of glory, and the very root of generosity&lt;/i&gt;]; whence it appears that بُوْبُوءٌ is a dial. var. of بُوْبُوٌ in the sense here given. (TA.) ―         -b2-  The &lt;i&gt;middle&lt;/i&gt; of a thing; (K;) [and app. the &lt;i&gt;heart,&lt;/i&gt; or &lt;i&gt;very heart,&lt;/i&gt; thereof; the &lt;i&gt;middle as being&lt;/i&gt; the &lt;i&gt;best part&lt;/i&gt; of a thing;] like بُحْبُوحٌ. (TA.) ―         -b3-  [Hence, perhaps,] &lt;pb n=&quot;145&quot; TEIform=&quot;pb&quot;/&gt; The &lt;i&gt;pupil,&lt;/i&gt; or &lt;i&gt;apple,&lt;/i&gt; or the &lt;i&gt;image that is seen reflected in the black,&lt;/i&gt; (عَيْر AA, T, or اـِنْسَان K,) of the eye. (AA, T, K.) Whence the saying, هُوَ اَعَزُّ عَلَىِّ مِنْ بُوْبُوِ عَيْنِى [&lt;i&gt;He is dearer to me than the apple of my eye;&lt;/i&gt; a saying common in the present day, with the substitution of اـِنْسَان for بُوْبُو]. (TA.) ―         -b4-  &lt;i&gt;A generous,&lt;/i&gt; or &lt;i&gt;noble,&lt;/i&gt; (ISk, T,) or &lt;i&gt;a clever, an ingenious,&lt;/i&gt; or &lt;i&gt;an accomplished,&lt;/i&gt; or &lt;i&gt;a well-bred,&lt;/i&gt; or &lt;i&gt;an elegant,&lt;/i&gt; (M, K,) &lt;i&gt;and a light, an active,&lt;/i&gt; or &lt;i&gt;a sprightly,&lt;/i&gt; (M,) &lt;i&gt;lord, master, chief,&lt;/i&gt; or &lt;i&gt;personage:&lt;/i&gt; (ISk, T, M, K:) fem. with ة. (IKh, TA.) ―         -b5-  Also, (AA, T, S, * [but I find it only in one of three copies of the S,]) or ↓ <br>\
+      بُوْبُوْءٌ, and ↓ <br>\
+      بَاْبَا=ءٌ, (K,) the last from the M, (TA, [but it is not in the M as transcribed in the TT,]) A &lt;i&gt;learned&lt;/i&gt; man (AA, T, S, K) &lt;i&gt;who teaches;&lt;/i&gt; (AA, T;) but the teaching of others is not a condition required in the application of the epithet; (TA;) like سَرْسُورٌ. (S [in which this last word is evidently given as a syn.: but in the K it is given to show the form, only, of بُوْبُوْءٌ].) ―         -b6-  Also The &lt;i&gt;body of a locust,&lt;/i&gt; (K,) &lt;i&gt;without the head and legs.&lt;/i&gt; (TA.) ―         -b7-  And, accord. to the K, The &lt;i&gt;head,&lt;/i&gt; or &lt;i&gt;uppermost part, of a vessel in which [the collyrium called&lt;/i&gt;] كُحْل <br>\
+                  &lt;i&gt;is kept:&lt;/i&gt; but it will appear, in art. يا, that this is [perhaps] a mistranscription for يُوْيُوٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1650&quot; key=&quot;بَاْبَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَاْبَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see R. Q. 1, in two places:       -A2-  and see بُوْبُوٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1651&quot; key=&quot;بُوْبُوءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُوْبُوءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بُوْبُوٌ, in two places.   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>حفث</em>            1                  حفث<br>\
+<b>حَفِثٌ</b>               1     <br>\
+                     حَفِثٌ<br>\
+                     حفث<br>\
+                   (S, K) and حِفْثٌ and ↓ <br>\
+      حَفِثَةٌ (K) [<i>A certain portion</i> or <i>appertenance</i>] <i>of the stomach of a ruminant animal, that which has</i> <br>\
+                  طَرَايِق [meaning either <i>furrows</i> or <i>streaks,</i> but more probably the former], <i>as though it,</i> or <i>they,</i> (كَاَنَّهَا,) <i>were the coverings</i> (اَطْبَاق) <i>of the feces in the stomach:</i> (Az, L:) or <i>that</i> [<i>part</i>] <i>which has coverings</i> (اَطْبَاق [or probably this signifies here <i>folds, one above another,</i>]) <i>at the lower part of the stomach of a ruminant, towards the side of the latter, from which the feces of the stomach never pass forth:</i> [app. meaning the <i>third stomach,</i> or <i>omasum;</i> commonly called the <i>manyplies,</i> because of its many plies, or folds, and strata super strata; and by some, the <i>millet;</i> from which the food, being already ruminated, does not pass out again to the mouth, as it does from the first and second stomachs:] it pertains to the camel, and to the sheep and goat, and oxen; or, accord. to IAar, [only] to the sheep and goat: (L:) the حَفث <br>\
+                  <i>of the stomach of a ruminant;</i> (S;) <i>i. q.</i> <br>\
+                  قِبَةٌ, (S, K,) or قِبَةٌ: (TA:) or <i>that which is with the stomach of a ruminant, and which resembles it:</i> (T, TA:) <i>or that which has</i> <br>\
+                  طَرَايِق, <i>by the side of which is the</i> <br>\
+                  قبة, another thing, which has not طرايق: it is called حَفِثٌ and حَثِفٌ and حِفْثٌ and حِثْفٌ and فَحِثٌ and, as some say, فِثْحٌ and ثِحْفٌ: (AA, TA:) pl. اَحْفَاثٌ. (K.) ―         -b2-  Also the first, <i>A certain great kind of serpent, resembling a</i> <br>\
+                  جِرَاب [or <i>traveller&#39;s provision-bag</i>]. (K.)    </entryFree> <br>\
+<b>حَفِثَةٌ</b>               1     <br>\
+                     حَفِثَةٌ<br>\
+                     حفثه<br>\
+                     حفثة<br>\
+                  : see above.    </entryFree> <br>\
+<b>حَفَاثِيَةٌ</b>               1     <br>\
+                     حَفَاثِيَةٌ<br>\
+                     حفاثيه<br>\
+                     حفاثية<br>\
+                  <i>Big, bulky,</i> or <i>corpulent.</i> (K.)    </entryFree> <br>\
+<b>حُفَّاثٌ</b>               1     <br>\
+                     حُفَّاثٌ<br>\
+                     حفاث<br>\
+                  <i>A certain kind of serpent, that blows, but does not hurt:</i> (S:) <i>a kind of serpent larger than that called</i> <br>\
+                  حَفِثٌ, (K, TA,) <i>speckled with black and white, party-coloured; that eats herbs,</i> or <i>dry pasture, and threatens, but does not hurt any one:</i> (TA:) or, accord. to Sh, <i>a bulky serpent, with a large head, red, speckled with white and black, resembling that called</i> <br>\
+                  الاَسْوَدُ, <i>but not the same as this latter; if one irritate it, its jugular vein becomes distended:</i> accord. to ISh, it is <i>larger than that called</i> <br>\
+                  الاَرْقَمُ, <i>but is speckled with black and white in the same manner as this latter:</i> pl. حَفَافِيثُ. (Az, TA.) [Hence,] اِحْرَنْفَشَ حُفَّاثُهُ (tropical:)  <i>His external jugular veins</i> (اَوْدَاجُهُ [likened to serpents]) <i>became distended by rage,</i> or <i>anger.</i> (TA.)   </entryFree> <br>\
+' } );

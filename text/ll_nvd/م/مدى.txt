@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'مدى6<br>\
+تَمَادَى فِى غَيِّهِ<br>\
+He persevered in his error.<br>\
+(Msb.)<br>\
+مَدًى<br>\
+The utmost extent, term, limit, or reach,<br>\
+of a thing; syn. غَايَةٌ: (S, Msb, K:) an extent,<br>\
+a distance; a space, an interval; syn. مَسَافَةٌ.<br>\
+[meaning a space that is, or that is to be,<br>\
+traversed] and hence used in the sense before<br>\
+explained because extending to a غاية: (Z, in<br>\
+the Fáïk, quoted in the TA:) a goal. (The<br>\
+Lexicons passim.)<br>\
+مُدْيَةٌ<br>\
+A butcher&#39;s knife. (Mgh.) See سِكِّينٌ.<br>\
+' } );

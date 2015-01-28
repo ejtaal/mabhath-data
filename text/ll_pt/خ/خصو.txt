@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>خصو</em>            1                  خصو<br>\
+<b>خُصْوَةٌ</b>               1     <br>\
+                     خُصْوَةٌ<br>\
+                     خص<br>\
+                     خصى<br>\
+                     خصوه<br>\
+                     خصوة<br>\
+                   a dial. var. of خُصْيَةٌ, q. v. (Sh, TA.)   </entryFree> <br>\
+' } );

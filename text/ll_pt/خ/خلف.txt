@@ -1,0 +1,523 @@
+load_data( { book: 'll_pt', text: '<em>خلف</em>            1                  خلف<br>\
+<b>خَلَفَ</b>               1     <br>\
+                     خَلَفَ<br>\
+                     خلف<br>\
+                  , aor.      <br>\
+                     خَلُفَ<br>\
+                  , inf. n. خَلْفٌ, <i>He came after, followed, succeeded,</i> or <i>remained after, another,</i> or <i>another that had perished</i> or <i>died.</i> (TA.) Hence, in the Kur [vii. 168 and xix. 60], فَخَلَفَ <br>\
+                  مِنْ بَعْدِهِمْ خَلْفٌ (TA) <i>And there hath succeeded them,</i> or <i>come after them,</i> [<i>a posterity,</i> or] <i>an evil posterity.</i> (Bd in xix. 60.) And خَلَفَهُ <br>\
+                  <i>He came after him,</i> (S, A in art. دبر, Mgh, Msb, TA,) or <i>behind him,</i> (A ubi suprà, Mgh,) or <i>following him nearly;</i> (A ubi suprà;) inf. n. as above, (Mgh, TA,) and خِلْفَةٌ also: (Mgh:) or <i>he remained after him:</i> (K:) and ↓ <br>\
+      جَا=ءَ خِلَافَهُ likewise signifies [the same as جا=ء خَلْفَهُ; an inf. n. of خَالَفَ being thus used as an adv. n.; i. e.] <i>he came after him.</i> (TA.) You say also, خَلَفَ اللَّيْلُ <br>\
+                  النَّهَارَ, inf. n. خَلْفٌ and خِلْفَةٌ, <i>The night followed,</i> or <i>came after, the day.</i> (MA.) ―         -b2-  [Hence,] خَلَفْتُهُ, [aor. as above,] inf. n. خَلْفٌ, [perhaps a mistranscription for خَلَفَ,] <i>I was, after him, a substitute for him:</i> (TA:) [<i>I supplied his place:</i> and <i>I superseded him.</i>] And خَلَفَهُ, (aor. as above, TA,) inf. n. خِلَافَةٌ (S, Mgh, Msb, K, TA) and خَلَفٌ (TA) and خِلِّيقَى, (S, * K, * TA,) which last is an inf. n. of the intensive kind, (Sgh, MF, TA,) <i>He was,</i> or <i>became, his</i> <br>\
+                  خَلِيفَة [i. e. <i>successor,</i> or <i>vice-agent,</i> &amp;amp;c.], (S, Mgh, Msb, K,) or <i>his substitute;</i> (TA;) فِى قَوْمِهِ [<i>among,</i> or <i>in respect of, his people</i>], (S, TA,) and اَهْلِهِ [<i>his family</i>]; relating to good and to evil; wherefore one says, اَوْصَى لَهُ بِالخِلَافَةِ [<i>he charged him by his will with the being his successor,</i> or <i>vice-agent,</i> &amp;amp;c.]; (TA;) or عَلَى اَهْلِهِ وَمَالِهِ [<i>over his family and his property</i>]: (Msb:) and ↓ <br>\
+      اختفلهُ signifies the same; (Lh, Ibn-&#39;Abbád, K;) <i>he was,</i> or <i>became, his</i> <br>\
+                  خَلِيفَة (Ibn-&#39;Abbád, TA) <i>after him.</i> (Ibn-&#39;Abbád, TA.) And خَلَفَ فُلَانًا [alone] <i>He was,</i> or <i>became, the</i> <br>\
+                  خَلِيفَةٌ <br>\
+                  <i>of such a one among,</i> or <i>in respect of, his family</i> (K, TA) <i>and his children.</i> (TA.) And خَلَفَهُ رَبُّهُ فِى اَهْلِهِ (K, TA) and وَلَدِهِ, (TA,) inf. n. خِلَافَةٌ, (K,) <i>His Lord was [for him] a</i> <br>\
+                  خَلِيفَة [or <i>supplier of his place] to his family</i> (K, TA) and <i>his children.</i> (TA. [In the CK, اخلف is made to signify the same; but this is in consequence of an omission.]) And one says, خَلَفَ اْللّٰهُ عَلَيْكَ <br>\
+                  <i>May God be to to thee a</i> <br>\
+                  خَلِيفَة [or <i>supplier of the place</i>] (S, Msb, K) <i>of thy father;</i> (S, Msb,) or <i>of the one whom thou hast lost:</i> (S, Msb, K:) thus one says to one who has lost by death his father (S, Msb, K) or mother (K) or paternal uncle (S, Msb) or any other who cannot be replaced: (Msb, K:) and خَلَفَ اْللّٰهُ <br>\
+                  عَلَيْكَ خَيْرًا, (K,) or بِخَيْرٍ, (AZ, Msb, K,) or both, (L,) and خَلَفَ اْللّٰهُ لَكَ بِخَيْرٍ, (AZ, Msb,) and اْللّٰهُ عَلَيْكَ خَيْرًا ↓ <br>\
+      اَخْلَفَ and لَكَ خَيْرًا: (K: [in which it is implied that these phrases mean <i>May God supply to thee well the place of him whom thou hast lost:</i> but it is implied in the Msb that the two of them there mentioned mean <i>May God restore to thee good in the place of that which has gone from thee:</i> and it appears from what here follows that all of these phrases have the latter meaning, whether or not they have the former meaning also:]) to him who has lost property or a child or a thing [of any other kind] of which the replacement may be asked, (S,) or to him of whom that which may be replaced has perished, or died, (K,) one says, اْللّٰهُ عَلَيْكَ ↓ <br>\
+      اَخْلَفَ (S, Msb, K) <i>May God restore to thee the like of that which has gone from thee,</i> (S, Msb,) or <i>may God restore to thee what has gone from thee;</i> (K in a later part of the art.;) and اللّٰه لَكَ ↓ <br>\
+      اخلف; and خَلَفَ اللّٰه لك : or خَلَفَ اللّٰه عَلَيْكَ is allowable in relation to property and the like; and يَخْلَفُ, like يَمْنَعُ is allowable as its aor., though extr., (K,) as it has no faucial letter to occasion the fet-h: (TA:) and one says also, خَلَفَ اْللّٰهُ لَكَ <br>\
+                  بِخَيْرٍ meaning <i>May God give thee good in the place of that which has gone from thee;</i> (TA;) and عَلَيْكَ خَيْرًا ↓ <br>\
+      اخلف, (Msb, TA,) meaning the same; (TA;) and [so] لَكَ خَيْرًا ↓ <br>\
+      اخلف and بِخَيْرٍ: and اْللّٰهُ عَلَيْكَ مَالَكَ ↓ <br>\
+      اخلف and لَكَ مَالَكَ [<i>May God restore,</i> or <i>replace, to thee thy property</i>]. (Msb.) خَلَفَ اَبَاهُ, (K,) aor.      <br>\
+                     خَلُفَ<br>\
+                   (TA,) means <i>He became behind his father;</i> (K;) and if so, its inf. n. is خَلْفٌ: (TA:) or it means <i>he became in the place of his father;</i> (K;) and if so, its inf. n. is خَلَفٌ: (TA:) and خَلَفَ مَكَانَ اَبِيهِ, inf. n. خِلَافَةٌ (K) and خَلَفٌ, (TA,) <i>he became in the place of his father, exclusively of every other.</i> (K.) You say also, خَلَفَتِ الفَاكِهَةِ بَعْضُهَا بَعْضًا, (JK, K,) inf. n. خَلْفٌ, (JK, TA,) or خَلَفٌ, (TA, [the former being there altered to the latter (which is the more probably correct), or the latter to the former,]) and خِلْفَةٌ, (JK, TA,) <i>The fruit replaced other fruit;</i> or <i>became substituted for other fruit.</i> (JK, * K,* TA. [In the CK, صَارَ خَلْفًا is erroneously put for صَارَتْ خَلَفًا.]) And خَلَفَ فُلَانٌ <br>\
+                  عَلَى فُلَانَةَ, inf. n. خِلَافَةٌ, [like عَقَبَ عَلَيْهَا,] <i>Such a man took as his wife such a woman after another husband [and thus supplied his place].</i> (Z, TA.) ―         -b3-  خَلَفَ ُلَانًا, (aor.      <br>\
+                     خَلُفَ<br>\
+                  , TA,) <i>He took,</i> or <i>seized, such a one from behind him;</i> (JK, * K;) as also ↓ <br>\
+      اختلفهُ. (TA.) And hence, (TA,) خَلَفَ لَهُ <br>\
+                  بِالسَّيْفِ (JK, TA) <i>He came to him from behind him, and smote his neck,</i> or <i>struck off his head, with the sword.</i> (TA.) ―         -b4-  خَلَفَ فُلَانٌ بِعَقِبِى [is explained as meaning] <i>Such a one stayed,</i> or <i>abode, after me.</i> (Msb in art. عقب) [But] ―         -b5-  خَلَفَ <br>\
+                  بِعَقَبِ فُلَانٍ is said by some to mean اـِلَى ↓ <br>\
+      خَالَفَهُ <br>\
+                  اَهْلِهِ [q. v.]: accord. to As, however, it means <i>He parted with such a one on the condition of doing a certain thing, and then came behind him</i> [or <i>behind his back</i>] <i>and did another thing after parting with him:</i> and Az says that this is a more correct explanation than the former one. (TA.) [Hence, app.,] one says also, اـِنَّ اْمْرَاَةَ فُلَانٍ <br>\
+                  تَخْلُفُ زَوْجَهَا بِالنِّزَاعِ اـِلَى غَيْرِهِ اـِذَا غَابَ عَنْهَا [<i>Verily the wife of such a one is unfaithful to her husband by yearning towards another when he is absent from her:</i> or <i>deceives her husband behind his back by yearning towards another;</i> for it is implied, by an ex. given, that اذا غاب عنها is added by way of explanation]. (TA.) خَلَفَهُ also signifies <i>He spoke of him,</i> or <i>mentioned him,</i> [<i>behind his back,</i> or] <i>when he was not present:</i> so in the phrase, خَلَفَهُ بِخَيْرٍ or بِشَرٍّ [<i>He spoke of him behind his back well</i> or <i>ill</i>]. (TA.) And one says, يَخْلُفُ النَّاسَ مِنْ وَرَايِهِمْ [meaning <i>He defames men behind their backs</i>]: the action signified hereby is like غِيبَةٌ, and may be [<i>by making signs</i>] <i>with the side of the mouth,</i> and <i>with the eye,</i> and <i>with the head.</i> (TA in art. همز.) ―         -b6-  خَلَفَ عَنْ اَصْحَابِهِ, (K, TA,) aor.      <br>\
+                     خَلُفَ<br>\
+                  , <i>He remained behind,</i> or <i>after, his companions; did not go forth with them;</i> as also اَصْحَابِهِ ↓ <br>\
+      قَعَدَ خِلَافَ [similar to a phrase mentioned near the beginning of this  art.]; (TA;) <i>i. q.</i> ↓ <br>\
+      تخلّف; (K in explanation of the former phrase;) which is syn. with تَاَخَّرَ; (S, K;) as in the phrase تخلّف عَنِّى [which means <i>He remained behind me,</i> or <i>after me</i>]; (S;) [for] تخلّف عَنْهُ means بَقِىَ خَلْفَهُ; (Mgh;) and [in like manner] you say, تخلّف عَنِ لاقَوْمِ <br>\
+                  <i>He remained behind,</i> or <i>after, the people,</i> or <i>party, not going with them;</i> [<i>he held back,</i> or <i>hung back, from them;</i>] and ↓ <br>\
+      قَعَدْتُ خِلَافَهُ [i. e. <i>I remained</i>] <i>behind him,</i> or <i>after him;</i> (Msb;) and ↓ <br>\
+      خالف <br>\
+                  عَنَّا <br>\
+                  <i>He remained behind us,</i> or <i>after us;</i> syn. ↓ <br>\
+      تخلّف. (TA, from a trad.) It is said in the Kur [xvii. 78], اـِلَّا قَلِيلًا ↓ <br>\
+      وَ اـِذَا لَا يَلْبَثُونَ خِلَافَكَ, i. e. [<i>But in that case they should not have remained</i>] <i>after thee</i> [<i>save a little while</i>]: (JK, TA: *) so accord. to one reading [instead of خَلْفَكَ, which means the same]. (TA.) And in like manner, رَسُولِ اْللّٰهِ ↓ <br>\
+      فَرِحَ المُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَافَ, in the Kur [ix. 82], means [<i>Those who were left behind rejoiced in their remaining</i>] <i>behind the Apostle of God:</i> (S, TA:) or the meaning here is, مُخَالَفَةَ رسول اللّٰه [i. e. <i>in disagreement with the Apostle of God</i>]: (JK, S:) thus says Lh; but IB disagrees with him; saying that خلاف here means بَعْدَ; and cites six exs. in which it has this meaning, from poets. (TA.) ―         -b7-  [Hence,] خَلَفَ فُلَانٌ عَنْ كُلِّ خَيْرٍ (assumed tropical:)  [<i>Such a one was,</i> or <i>became, kept back from all good; i. e.,</i>] <i>did not prosper,</i> or <i>was not successful.</i> (TA. [It is there added, that it is explained in the A as tropical, and as meaning تَغَيَّرَ وَفَسَدَ: but this is perhaps a mistake, occasioned by the accidental omission of وَخَلَفَ اللَّبَنُ or the like, of which this is a correct explanation: or the phrase thus explained in the TA, as from the A, may correctly mean <i>He became altered for the worse, and corrupt;</i> agreeably with other explanations of the verb below.]) ―         -b8-  خَلَفَ, aor.      <br>\
+                     خَلُفَ<br>\
+                  , also signifies <i>He</i> (a man) <i>retired, withdrew,</i> or <i>went away</i> or <i>apart.</i> (JK.) And خَلَفَتْ نَفْسَهُ عَنِ الطَّعَامِ, aor.      <br>\
+                     خَلُفَ<br>\
+                  , inf. n. خُلُوفٌ, (assumed tropical:) <i>His soul turned away from, avoided,</i> or <i>shunned, the food, in consequence of disease.</i> (JK, TA.) ―         -b9-  And <i>He fled.</i> (Ham p. 411.) ―         -b10-  And <i>He</i> (a man, Sgh) <i>ascended a mountain.</i> (Sgh, K.)       -A2-  See also 2, first sentence.       -A3-  خَلَفَ, (S, Msb, K, &amp;amp;c.,) aor. خُلُوفٌ, (Lh, Msb, TA, and Ham p. 679,) [inf. n. خُلُوفٌ,] said of the taste of water, <i>It was,</i> or <i>became, different from,</i> or <i>contrary to, what it was thought to be:</i> and [hence,] <i>it was,</i> or <i>became, altered</i> [<i>for the worse</i>]: (Ham ubi suprà:) [and] said of milk, (S, K,) and of food, (Lh, S, Msb, K,) and the like, (Lh, TA,) and some say خَلُفَ, (TA,) aor.      <br>\
+                     خَلُفَ<br>\
+                  , inf. n. خُلُوفٌ, (Lh, TA,) of both verbs, (TA,) <i>it was,</i> or <i>became, altered</i> [<i>for the worse</i>] (Lh, S, Msb, K) <i>in taste,</i> or <i>in odour;</i> (S, Msb, K;) as also ↓ <br>\
+      اخلف: or, said of milk, <i>the first signifies it became bad from being long kept;</i> or, as in the A, (tropical:)  <i>what was good thereof became mixed</i> (خُلِفَ, i. e. خُلِطَ,) <i>with other milk:</i> and ↓ <br>\
+      اخلف, said of milk, signifies also <i>it was,</i> or <i>became, sour:</i> (TA:) and the first, said of [the beverage called] نَبِيذ, <i>it became bad.</i> (K.) Also, inf. n. خُلُوفٌ (S, Mgh, Msb, K) and خُلُوفَةٌ (K) and خِلْفَةٌ, (L, TA,) said of the mouth (S, Mgh, Msb, K) of a person fasting, (S, Msb, K,) <i>It was,</i> or <i>became, altered</i> [<i>for the worse</i>] <i>in odour;</i> (S, Mgh, Msb, K;) as also ↓ <br>\
+      اخلف. (S, Msb, K.) It is said in a trad. that the خُلُوف of the mouth of one who is fasting is sweeter in the estimation of God than the odour of musk: or, accord. to some of the lawyers and of the relaters of traditions, خَلُوف; but [SM says,] I think this to be a mistake, as several affirm it to be, while others say that it is of a bad dial. : accord. to one reading, it is خِلْفَة. (TA.) ―         -b2-  [Hence,] خَلَفَ <br>\
+                  عَنْ خُلُقِ اَبِيهِ, (K,) aor.      <br>\
+                     خَلُفَ<br>\
+                  , inf. n. خُلُوفٌ, (TA,) (assumed tropical:) <i>He was,</i> or <i>became, altered</i> [<i>for the worse</i>] <i>from the natural disposition of his father.</i> (K, TA.) ―         -b3-  And خَلَفَ, (ISk, S, K,) inf. n. خَلْفٌ [or خُلُوفٌ]; or خَلْفَ, aor.      <br>\
+                     خَلُفَ<br>\
+                  , inf. n. خَلَافَةٌ and خُلُوفٌ; (TA;) (assumed tropical:)  <i>He</i> (a man) <i>was,</i> or <i>became, bad,</i> or <i>corrupt.</i> (ISk, S, K, TA.) ―         -b4-  And خَلَفَ, (K) inf. n. خَلَافَةٌ (IAth, K) and خُلُوفٌ, (K,) (assumed tropical:) <i>He</i> (a man) <i>was,</i> or <i>became, stupid,</i> or <i>foolish;</i> or <i>one who had little,</i> or <i>no, intellect</i> or <i>understanding:</i> (K, * TA:) or <i>unprofitable:</i> or <i>a frequent promise-breaker:</i> (IAth:) or خَلَفَ and ↓ <br>\
+      اخلف, said of a slave, <i>he was,</i> or <i>became, idiotic, deficient in intellect,</i> or <i>bereft of his intellect.</i> (JK.)       -A4-  خَلَفَ, (K,) inf. n. خَلْفٌ; (S, * K, * TA;) and ↓ <br>\
+      اخلف, and ↓ <br>\
+      استخلف; (S, K;) <i>He drew water,</i> (S, K, TA,) لِاَهْلِهِ <br>\
+                  <i>for his family:</i> [app. because he who does so leaves his family behind him: see 2, first sentence:] (K, TA:) [or] ↓ <br>\
+      استخلف, said of a man, signifies اِسْتَعْذَبَ <br>\
+                  المَا=ء [app. as meaning <i>he sought,</i> or <i>drew,</i> or <i>brought, sweet water:</i> see art. عذب]: and, accord. to IAar, you say, القَوْمَ ↓ <br>\
+      اَخْلَفْتُ, meaning properly <i>I carried sweet water to the people,</i> or <i>party, when they were in the</i> [<i>season,</i> or <i>herbage, called</i>] رَبِيع <br>\
+                  <i>and without sweet water,</i> or <i>when they were by salt water:</i> <br>\
+                  اـِخْلَافٌ [as meaning the <i>carrying,</i> or <i>drawing, of water</i>,] being [properly] only in the ربيع: in other cases, metaphorically applied. (TA.) El-Hoteíäh says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L>↓ <br>\
+      لِزُغْبٍ كَاَوْلَادِ القَطَا رَاثَ خَلْفُهَا<br>\
+                     <L><br>\
+                        عَلَى عَاجِزَاتِ النَّهْضِ حُمْرٍ حَوَاصِلُهْ<br>\
+                  </quote> (assumed tropical:) [<i>To,</i> or <i>for, downy ones, like the young ones of the katà, whose procurer of water has been slow in coming to those lacking the power of spreading their wings for flight, red in their crops</i>]: he means ↓ <br>\
+      مِخْلِفُهَا [or خَالِفُهَا], and has put in the place of this the inf. n.: and by حواصله, accord. to Ks, he means حَوَاصِلُ مَا ذَكْرْنَا [<i>the crops of what we have mentioned</i>]: but Fr says that the ه relates to the زغب, exclusively of the عاجزات, which [latter] has the sign of the pl. ; for every pl. that has the form of a sing. may be imagined to be a sing., as in the saying of the poet, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        مِثْلُ الفِرَاخِ نُتِفَتْ حَوَاصِلُهْ<br>\
+                  </quote> [meaning “ like the young birds of which the crops have been plucked ”]; for الفراخ has not the sign of the pl., but has the form of a sing., like الكِتَاب and الحِجَاب: another says, [but this is very far-fetched,] that the ه relates to النهض, which [sometimes] means a place in the shoulderblade of the camel; and that the poet has used it metaphorically as belonging to the قطا. (S.)       -A5-  خَلَفَ الثَّوْبَ, (S,) or القَمِيصَ, aor.      <br>\
+                     خَلُفَ<br>\
+                  , (Msb, K,) inf. n. خَلْفٌ (Kr, TA) and خُلْفَةٌ, in some copies of the K خَلْفَةٌ, [so in my MS. copy of the K, and so in the TK,] and [in some] خُلَفٌ also, but these require consideration, (TA,) <i>He took out from the garment,</i> or <i>shirt, the part that was worn out,</i> (S, Msb, K,) that is, <i>the middle part, which was worn out,</i> (S, Msb,) <i>and then sewed the</i> [<i>cut</i>] <i>edges together.</i> (S, Msb, K.) And الثَّوْبَ ↓ <br>\
+      اخلف signifies the same as خَلَفَهُ, i. e. <i>He repaired the garment</i> [app. in any manner, or, as is implied in the S and TA, <i>by substituting one piece for another</i>]. (S, K, TA.) ―         -b2-  The saying, in a trad. of Hamneh, فَاـِذَا خَلَفَتْ ذٰلِكَ فَلْتَغْتَسِلْ, meaning (assumed tropical:)  <i>And when she has discriminated that</i> period of days and nights during which she has been حَايِض, [<i>she shall perform a complete ablution of herself,</i>] is from خَلَفَ القَمِيص signifying as explained above. (Msb.)       -A6-  خَلَفَ signifies also <i>He mixed</i> [a thing with another thing; as, for instance, (see خُلِفَ in a passage above,) milk with other milk]: and <i>he mixed</i> saffron, and medicine, <i>with water.</i> (TA.)       -A7-  خَلَفَ بَيْتَهُ <br>\
+                  <i>He put to,</i> or <i>made for, his tent, a pole,</i> (K, TA,) termed a خَالِفَة, (TA,) <i>in the hinder part thereof.</i> (K TA.)       -A8-  خَلِفَ, aor.      <br>\
+                     خَلَفَ<br>\
+                  , (K,) inf. n. خَلَفٌ, (S, K,) <i>He</i> (a camel) <i>inclined towards one side.</i> (S, K.) ―         -b2-  خَلَفٌ is also an inf. n. (of خَلِفَ, said of a man, TK) signifying The <i>being</i> <br>\
+                  اَخْلَف as meaning <i>contrarious, hard in disposition, as though going with a leaning towards one side:</i> ―         -b3-  and the <i>being left-handed:</i> ―         -b4-  and the <i>being</i> <br>\
+                  اَحْوَل [or <i>squint-eyed</i>]. (K.)       -A9-  خَلِفَتْ, aor.      <br>\
+                     خَلَفَ<br>\
+                  , (Msb, K,) inf. n. خَلَفٌ, (Msb, TA,) <i>She</i> (a camel) <i>was,</i> or <i>became, pregnant.</i> (Msb, K.)    </entryFree> <br>\
+<b>خلّفهُ</b>               1     <br>\
+                     خلّفهُ<br>\
+                     خلف<br>\
+                     خلفه<br>\
+                     خلفة<br>\
+                  , (Msb,) and خلّفهُ وَرَا=ءَهُ, (S, TA,) inf. n. تَخْلِيفٌ, (TA,) <i>He left him behind him;</i> (Msb;) namely, a man: (S, Msb, TA:) and ↓ <br>\
+      خَلَفَهُ [signifies the same: or] <i>he made him to be behind him;</i> as also ↓ <br>\
+      اخلفهُ [q.v.], and ↓ <br>\
+      اختلفهُ: (TA:) [whence the saying,] اَلْحَحْتُ عَلَى فُلَانٍ ↓ <br>\
+      فِى الاِتِبَاعِ حَتَّى اْخْتَلَفْتُهُ i. e. [<i>I pressed upon such a one in following</i>] <i>until I made him to be behind me.</i> (ISk, TA.) You say also, خَلَّفَهُمْ, inf. n. as above, meaning <i>He was,</i> or <i>became,</i> or <i>went, before them; and left them behind him.</i> (TA.) And خلّفوا اَثْقالَهُم, inf. n. as above, <i>They left their loads,</i> or <i>baggage &amp;amp;c., behind their backs;</i> (O, K;) when they went away to draw water. (TA.) ―         -b2-  [Hence,] خلّفهُ <br>\
+                  <i>He made him,</i> or <i>appointed him, his</i> <br>\
+                  خَلِيفَة [i. e. <i>successor,</i> or <i>vice-agent,</i> &amp;amp;c.]; (K;) and so ↓ <br>\
+      استخلفهُ. (S, Msb, K.) So in the Kur [xxiv. 54], ↓ <br>\
+      لَيَسْتَخِلَفَنَّهُمْ <br>\
+                  فِى اْلْاَرْضِ كَمَا اْسْتَخْلَفَ اْلَّذِينَ مِنْ قَبْلِهِمْ [<i>That He will assuredly make them to be successors in the earth, like as He made to be successors those who were before them</i>]. (TA.)       -A2-  خلّف بِنَاقَتِهِ, (S, K,) inf. n. as above, (S,) <i>He bound one of the teats of his she-camel with the thing termed</i> <br>\
+                  صِرَار [in order that her young one might not suck it]: (S, K:) from Yaakoob. (S.)     <br>\
+<b>خالفهُ</b>               1     <br>\
+                     خالفهُ<br>\
+                     خالف<br>\
+                     خالفه<br>\
+                     خالفة<br>\
+                  , (Mgh, Msb, TA,) inf. n. خِلَافٌ (S, Mgh, Msb, K, TA) and مُخَالَفَةٌ, (S, Msb, K, TA,) <i>He</i> [or <i>it</i>] <i>disagreed with,</i> or <i>differed from, him</i> [or <i>it</i>]; or <i>he dissented from him;</i> (Mgh, Msb;) <i>contr. of</i> <br>\
+                  وَافَقَهُ; فِى كَذَا [<i>in,</i> or <i>in respect of, such a thing</i>]: (Mgh:) and <i>he,</i> or <i>it, was contrary, opposed,</i> or <i>repugnant, to him,</i> or <i>it:</i> (TA:) [and <i>he acted contrarily, contrariously, adversely,</i> or <i>in opposition, to him,</i> or <i>it; he,</i> or <i>it, contravened,</i> or <i>opposed, him,</i> or <i>it:</i>] and <i>he</i> [or <i>it</i>] <i>contradicted him</i> [or <i>it</i>]. (M in art. نقض.) It is said in a prov., اـِنَّمَا اَنْتَ خِلَافَ الضَّبُعِ الرَّاكِبَ, i. e. تُخَالِفُ خِلَافَ الضَّبُعِ [<i>Verily thou art one who acts with the contrariousness of the hyena towards the rider</i>]: for the hyena [attacks a man on foot, but], when it sees the rider, flees from him. (IAar, TA.) You say also, خَالَفَنِى عَنْ كَذَا <br>\
+                  <i>He turned away from such a thing</i> [<i>in opposition to me,</i> or] <i>when I betook myself to it:</i> [see also the last sentence but one of the first paragraph of art. بهت:] and خالفنى اـِلَى كَذَا <br>\
+                  <i>He betook himself to such a thing</i> [<i>in opposition to me,</i> or] <i>when I turned away from it:</i> (Mgh:) or خالفهُ اـِلَى <br>\
+                  الشَّىْءِ means <i>he disobeyed him by betaking himself to the thing;</i> or <i>betook himself to the thing after he had forbidden him it.</i> (TA.) And hence, (Mgh,) هُوَ يُخَالِفُ اـِلَى اْمْرَاَةِ فُلَانٍ, (S, Mgh, *) or اـِلَى فُلَانَةَ, (O, L, TA,) in the K erroneously, هو يخالف فُلَانَةَ, (TA,) <i>He comes to the wife of such a one when he</i> [the latter] <i>is absent from her,</i> (S,) or <i>to such a woman when her husband is absent from her:</i> (Mgh, * O, L, K, TA:) and خالفهُ اـِلَى اَهْلِهِ [<i>he came to his</i> (another&#39;s) <i>wife in his</i> (the husband&#39;s) absence]: see 1, in the former half of the paragraph. (Az, TA.) And خالفهُ <br>\
+                  اـِلَيْهِمْ <br>\
+                  <i>He watched to see him, and, when he was absent from them,</i> namely, his family, <i>he went in to them:</i> (Jm, O, TA:) and, accord. to AZ, فُلَانٌ صَاحِبَهُ ↓ <br>\
+      اخلف <br>\
+                  <i>Such a one watched to see his companion, and, when he was absent, he came, and went in to him</i> [or rather <i>to his wife</i> or <i>to his family</i>]: (TA:) [or] صَاحِبَهُ ↓ <br>\
+      خالف <br>\
+                  <i>he watched to see his companion, and, when he was absent, went in to his wife:</i> (K, and the like is said in the JK:) thus says IDrd, on the authority of AZ. (TA.) And خالف اـِلَى قَوْمٍ <br>\
+                  <i>He came to a party,</i> or <i>company of men, from behind them</i> [or <i>behind their backs</i>]: or <i>he feigned to them the contrary of that which he conceived in his mind, and took them unawares.</i> (TA.) Aboo-Dhu-eyb says, [describing a collector of wild honey,] <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اـِذَا لَسَعَتْهُ النَّحْلُ لَمْ يَرْجُ لَسْعَهَا<br>\
+                     <L><br>\
+                        وَخَالَفَهَا فِى بَيْتِ نُوبٍ عَوَاسِلِ<br>\
+                  </quote> (S in the present art., in which only the former hemistich is cited, and in art. رجو,) i. e. [<i>When the bees sting him,</i>] <i>he fears not nor minds</i> [<i>their stinging</i>], (S in art. رجو) [<i>but comes, during their absence, to the hiving-place of bees occupied in gathering honey:</i>] meaning, he comes to their honey, (S, TA, [in the latter of which, in the place of النحل, is put الدَّبْرُ “ the swarm of bees, ”]) and takes it, (TA,) while they are feeding; (S, TA;) or, as AA says, he comes behind them to the honey while they are absent: AO explains it by خَالَفَهَا اـِلَى مَوْضِعٍ ا=خَرَ which [he says] means <i>he keeps with them</i> [<i>to another place</i>]; syn. لَازَمَهَا; [and thus this phrase (which is strangely misinterpreted in the TK and in Freytag&#39;s Lexicon) is explained in the K, but without any reference to the verse;] as also حَالَفَهَا, with the unpointed ح: (TA:) and some read the verse thus; but this reading is said to be a mistake. (TA in art. حلف.) ―         -b2-  جَا=ءَ خِلَافَهُ: see 1, near the beginning of the paragraph. And see also five other exs. in the middle portion of the same paragraph. ―         -b3-  خالف بَيْنَ رِجْلَيْهِ <br>\
+                  <i>He put one of his legs forward and the other backward:</i> and [hence,] المُخَالَفَةُ بَيْنَ الرِّجْلَيْنِ [as signifying <i>the alternate shifting of the legs to and fro</i>] is metonymically used as meaning <i>the act of dancing.</i> (Har p. 108.) [And خالف بَيْنَ الشَّيْيَيْنِ <br>\
+                  <i>He put,</i> or <i>placed, the two things contrariwise;</i> or <i>on contrary sides;</i> or <i>in contrary directions.</i> Hence,] اَوْ تُقَطَّعَ اَيْدِيهِمْ <br>\
+                  وَاَرْجُلُهُمْ مِنْ خِلَافٍ, in the Kur v. 37, [<i>Or that their hands and their feet shall be cut off on contrary sides,</i>] means that their right hands and left feet shall be cut off. (Bd, Jel. [See also similar exs. in the Kur vii. 121 and xx. 74 and xxvi. 49.]) [Hence also,] فَرَسٌ بِهِ شِكَالٌ مِنْ خِلَافٍ, (JK,) or ذُو خَدَمَتَانِ مِنْ خِلَافٍ, (TA,) <i>A horse having a whiteness in his right fore leg and his left hind leg</i> [or <i>the reverse</i>]: (JK, TA:) and some say, لَهُ خَدَمَتَانِ مِنْ خِلَافٍ when <i>he has a whiteness</i> [or rather <i>a ring of white a little above the hoof</i>] <i>in his fore leg</i> [or <i>right fore leg</i>] <i>and another in his left fore leg</i> [probably a mistake of a copyist for his <i>left hind leg</i>]. (TA.)    </entryFree> <br>\
+<b>اخلفهُ</b>               1     <br>\
+                     اخلفهُ<br>\
+                     اخلف<br>\
+                     اخلفه<br>\
+                     اخلفه<br>\
+                     اخلفة<br>\
+                     خلف<br>\
+                  : see 2, first sentence. Also <i>He put him, turned him,</i> or <i>made him to go back</i> or <i>stand back, behind him.</i> (K, TA.) And اخلف <br>\
+                  يَدَهُ <br>\
+                  <i>He put his hand behind him.</i> (Az, TA.) And also, (Fr, TA,) or اخلف بِيَدِهِ اـِلَى السَّيْفِ, (JK,) or simply اخلف [used elliptically], (S, K,) <i>He put</i> [<i>back</i>] <i>his hand to his sword,</i> (Fr, S, K, TA,) in order to draw it, (JK, S, K, TA,) <i>it being hung behind him.</i> (Fr, * TA.) And اخلف السَّيْفَ [<i>He hung the sword behind him;</i> or <i>kept it hung behind him</i>]: said, in a trad., of a man on the day of Bedr. (TA.) And اخلف عَنِ البَعِيرِ [for اخلف عَنْهُ الحَقَبَ] <i>He shifted</i> [<i>backwards</i>] <i>the hind girth of the camel, putting it next to his testicles,</i> on account of its hurting the sheath of his penis, and causing a suppression of his urine; (As, S, K;) as also اخلف البَعِيرَ: (TA:) or you say only, اَخْلِفِ الحَقَبَ, meaning <i>remove thou the hind girth from the sheath of the penis.</i> (Lh, TA.) And اخلف الدَّابَّةَ بِالسَّوْطِ <br>\
+                  <i>He struck the beast on the hinder part with the whip.</i> (JK.) ―         -b2-  اخلف البَازِلَ [<i>He</i> (a camel) <i>exceeded in age the</i> <br>\
+                  بازل, which is generally <i>one that has entered his ninth year:</i> as though he made the بازل to be behind him: and so, app., اخلف alone; البَازِلَ being understood: see مُخْلِفٌ]. El-Jaadee says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَخْلَفَ البَازِلَ عَامًا اَوْ بَزَلْ <br>\
+                     <L><br>\
+                        اَيِّدِ الكَاهِلِ جَلْدٍ بَازِلٍ<br>\
+                  </quote> [<i>Strong in the withers, hardy, a</i> <br>\
+                  بازل; <i>that has exceeded in age him who has just become a</i> <br>\
+                  بازل <br>\
+                  <i>by a year,</i> or <i>that has</i> himself <i>just become a</i> <br>\
+                  بازل]. (S, TA.) Some say that الاـِخْلَافُ is [a term denoting] the last of the ages [that have words to signify them] with respect to all beasts. (TA.) ―         -b3-  اخلف فُلَانٌ صَاحِبَهُ: see 3, near the middle of the paragraph. ―         -b4-  اخلفهُ مَا وَعَدَهُ, (S,) or مَوْعِدَهُ, (Mgh,) or وَعْدَهُ, (Msb,) or الوَعْدَ, (K,) inf. n. اـِخْلَافٌ, (Mgh,) <i>He broke,</i> (Mgh,) or <i>failed to perform,</i> (S, K,) <i>his promise,</i> or <i>the promise, to him:</i> (S, Mgh, K:) restricted to future time: (Msb:) الاـِخْلَافُ is, <i>in respect of the future, like</i> <br>\
+                  الكَذِبُ <br>\
+                  <i>in respect of the past:</i> (S, K:) or <i>the making a promise and not fulfilling it:</i> (Lh, K:) and some say that it signifies one&#39;s <i>seeking an object of want,</i> or <i>water, and not finding it.</i> (TA.) It is said in a trad., اـِذَا وَعَدَ اَخْلَفَ, i. e. <i>When he promises, he does not fulfil his promise, and is not true</i> [<i>to it</i>]. (TA.) [Hence,] اَخْلَفَتِ النُّجُومُ, i. e. (tropical:)  [<i>The stars broke their promise;</i> meaning,] <i>were attended with drought, not attended with rain:</i> (S, K, TA:) a saying of the people in the Time of Ignorance: (S, TA:) and so عَنْ اَنْوَايِهَا ↓ <br>\
+      اِخْتَلَفَتْ: for they used to believe and say that they were rained upon by such and such a نَوْء. (TA. [See نَوْءٌ.]) Hence also, اَخْلَفَتِ الحُمَّى (assumed tropical:)  <i>The fever,</i> being tertian or quartan, <i>came not in its time,</i> or <i>turn.</i> (Mgh.) And اَخْلَفَتْ said of a she-camel, (assumed tropical:) <i>She, having been covered by the stallion, did not become pregnant:</i> (JK, TA:) and (assumed tropical:)  <i>she proved to be not pregnant when thought to be pregnant.</i> (JK.) And in like manner said of a palm-tree; (JK;) (tropical:)  <i>It bore not one year:</i> and (tropical:)  <i>it</i> (a tree) <i>bore no fruit:</i> or <i>lost the fruit that it had.</i> (L, TA. [The verb, said of trees, has also another meaning, which see below.]) ―         -b5-  اخلفهُ is also said, by El-Fárábee, to occur as meaning <i>He acted according to his promise</i> [or <i>fulfilled his promise</i>] <i>to him;</i> thus bearing two contr. significations: but this is strange. (MF.) ―         -b6-  Also <i>He found him to be a breaker of his promise;</i> (JK;) or <i>he found his promise to be broken,</i> or <i>unfulfilled.</i> (S, K.) ―         -b7-  اخلف عَلَيْكَ and لَكَ, each with an objective complement (خَيْرًا or مَالَكَ) expressed or understood: see 1, in six places, in the former half of the paragraph. You say also, اخلف فُلَانٌ لِنَفْسِهِ, (S, K,) or لِغَيْرِهِ, (TA,) <i>Such a one replaced to himself,</i> (S, K,) or <i>to another,</i> (TA,) <i>a thing that had gone from him, with another thing.</i> (S, K.) Ibn-Mukbil says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَاَخْلِفْ وَاَتْلِفْ اـِنَّمَا المَالُ عَارَةٌ<br>\
+                     <L><br>\
+                        وَكُلْهُ مَعَ الدَّهْرِ الَّذِى هُوَ ا=كِلُهْ<br>\
+                  </quote> [<i>Then replace thou, and consume: wealth is but a loan: and devour it with time, which is a devourer thereof</i>]: he means, gain a substitute for what thou hast consumed. (S, TA.) And the Arabs say to him who has put on a new garment, اَبْلِ وَاَخْلِفْ وَاْحْمَدِ الكَاسِى [<i>Wear out thy garment,</i> and <i>replace it with another, and praise the Clother,</i> meaning God]. (TA.) And  <br>\
+                  اَبْلِ وَيُخْلِفُ اْللّٰهُ [<i>Wear out thy garment, and God will replace</i> it <i>with another;</i> or, <i>may God replace</i> &amp;amp;c.]. (S in art. بلو) ―         -b8-  See also اخلف <br>\
+                  الثَّوْبَ near the end of the first paragraph. ―         -b9-  اخلف said of a plant, or of herbage, <i>It put forth the</i> <br>\
+                  خِلْفَة, (S, Msb, K,) meaning <i>leaves that come forth after the first leaves, in the</i> [<i>season called</i>] صَيْف; (TA;) and in like manner said of trees: (Msb, TA:) or اخلف الشَّجَرُ means <i>the trees put forth fruit after other fruit.</i> (JK.) And, said of fruit, <i>It came forth, some thereof after other thereof.</i> (TA.) And اخلفت الاَرْضُ <br>\
+                  <i>The land became affected by the cold of the latter part of the</i> [<i>season called</i>] صَيْف, <i>and some of its trees consequently become green.</i> (TA.) ―         -b10-  Also, said of a bird, (tropical:)  <i>It put forth feathers after the first feathers:</i> (K, TA:) from the same verb said of a plant, or of herbage. (TA.) ―         -b11-  And, said of a boy, (assumed tropical:)  <i>He nearly attained to puberty.</i> (JK, Az. K, TA.) ―         -b12-  And, said of a solid-hoofed beast, (assumed tropical:)  <i>He completed a year after the</i> <br>\
+                  قُرُوح [or <i>finishing teething,</i> or <i>shedding the corner-nipper</i>]. (JK.)       -A2-  اخلفهُ said of medicine, <i>It weakened him</i> (K, TA) <i>by causing him to go frequently to the privy.</i> (TA.) ―         -b2-  And الاـِخْلَافُ also signifies <i>The bringing the stallion again to the she-camel when she has not conceived at once.</i> (K.)       -A3-  See also 1, in six places, in the latter half of the paragraph.    </entryFree> <br>\
+                     تَخَلَّفَ<br>\
+                   see 1, in two places, in the middle of the paragraph. [Hence, تخلّف َنِ الاَمْرِ <br>\
+                  <i>He held back from,</i> or <i>fell short of, doing the thing.</i>]    </entryFree> <br>\
+                     تَخَاْلَفَ<br>\
+                   see the next paragraph, in three places.    </entryFree> <br>\
+<b>اِخْتِلَافٌ</b>               1     <br>\
+                     اِخْتِلَافٌ<br>\
+                     اختلاف<br>\
+                     ٱختلاف<br>\
+                   signifies The <i>following reciprocally;</i> or <i>alternating.</i> (Mgh.) So in the phrase in the Kur [ii. 159 and iii. 187 and xlv. 4], وَاْخْتِلَافِ <br>\
+                  اللَّيْلُ وَالنَّهَارِ <br>\
+                  <i>And the alternating of the night and the day.</i> (Mgh) [And in a verse of El-&#39;Ajjáj cited voce اَبْلَى, in art. بلو.] And hence the phrase, اِخْتَلَفَا ضَرْبَةً <br>\
+                  <i>Each of them beat,</i> or <i>struck the other in turn.</i> (Mgh.) And the saying, in a trad. of &#39;Alee, فَاْخْتَلَفَتْ بَيْنَ عُبَيْدَةَ بْنِ الحٰرِثِ <br>\
+                  وَالوَلِيدِ بْنِ عُقْبَةَ ضَرْبَتَانِ [<i>And two blows were interchanged between &#39;Obeydeh Ibn-El-Hárith and El-Weleed Ibn-&#39;Okbeh]. (Mgh.) And the saying, in a trad.</i> of Umm-Sabeeyeh, اِخْتَلَفَتْ يَدِى <br>\
+                  وَيدُ رَسُولِ اْللّٰهِ فِى اـِنَا=ءٍ وَاحِدٍ, meaning <i>My hand and the hand of the Apostle of God were both put</i> [<i>by turns</i>] <i>into one vessel.</i> (Mgh.) And اِخْتَلَفُوا signifies <i>They followed,</i> or <i>succeeded, one another; whenever one went, another coming after him.</i> (TA in art. عور.) ―         -b2-  Also The <i>going,</i> or <i>moving, repeatedly, to and fro; so coming and going;</i> or <i>reciprocating;</i> syn. تَرَدُّدٌ [in this sense, as is shown in this art. in the K and TA, and in the S and K in art. رود &amp;amp;c.: and also as mean ing the <i>returning,</i> or <i>repairing, time after time,</i> or <i>repeatedly,</i> or <i>frequently,</i> to a person or place; because it implies coming and going: and sometimes it means simply the <i>returning;</i> because this cannot be without a previous going]. (K.) You say, هُوَ يَخْتَلِفُ اـِلَى فُلَانٍ, i. e. يَتَرَدَّدُ [<i>He returns,</i> or <i>repairs, time after time, repeatedly,</i> or <i>frequently, to such a one</i>]: and اِخْتَلَفَ اـِلَيْهِ اْخْتِلَافَةً وَاحِدَةً [<i>He returned to him once</i>]. (TA.) And هُوَ <br>\
+                  يَخْتَلِفُ اـِلَى مَجَالِسِ العِلْمِ <br>\
+                  <i>He repairs frequently to,</i> or <i>frequents, the assemblies of science;</i> syn. يَتَرَدَّدُ. (A in art. رد.) And اِخْتَلَفَ اـِلَى المُتَوَضَّاِ [<i>He returned,</i> or <i>repaired, time after time,</i> &amp;amp;c., <i>to the privy</i>]. (S.) And اِخْتَلَفَ اـِلَى الخَلا=ءِ [properly signifies the same: and hence, (assumed tropical:)  <i>He had a looseness of the bowels,</i> or <i>a diarrhœa</i>]. (K.) And [perhaps as implying coming and going,] اختلف also signifies <i>He supplied,</i> or <i>gave,</i> or <i>offered, water.</i> (TA.) ―         -b3-  [Also The <i>disagreeing, differing,</i> or <i>varying, in state</i> or <i>condition</i> or <i>quality</i> &amp;amp;c.; <i>being dissimilar, different, diverse, various, incongruous, discordant,</i> or <i>dissentient:</i>] اختلف is the <i>contr. of</i> <br>\
+                  اِتَّفَقَ; (K, TA;) and is said of anything that is dissimilar [in the parts or members &amp;amp;c. of which it is composed]; as also ↓ <br>\
+      تخالف. (TA.) You say, الاَمْرَانِ ↓ <br>\
+      تخالف [and اختلف الامران], i. e. لَمْ يَتَّفِقَا [<i>The two things,</i> or <i>affairs,</i> or <i>cases, were,</i> or <i>became, dissimilar,</i> &amp;amp;c.]. (TA.) And اختلفوا and ↓ <br>\
+      تخالفوا (Mgh, Msb) [<i>They disagreed,</i> &amp;amp;c., فِى اَمْرٍ <br>\
+                  <i>in a thing</i> or <i>an affair</i> or <i>a case;</i>] <i>every one of them took to,</i> or <i>held, a way,</i> or <i>an opinion, different from,</i> or <i>contrary to, that of another:</i> (Msb:) both signify the same. (Mgh.) It is said in a trad., سَوُّوا صُفُوفَكُمْ وَلَا تَخْتَلِفُوا فَتَخْتَلِفَ قُلُوبُكُمْ [<i>Make ye your ranks even</i> when ye place yourselves to pray together, <i>and be not dissimilar in your positions, for in that case your hearts would disagree</i>]; meaning, when one of you advances, or stands, before another in the ranks, your hearts will be affected, and disagreement in respect of friendship and amity will arise among you: or, as some say, it means, <i>your hearts will be made to recoil:</i> or <i>the</i> <br>\
+                  صُورَة [or <i>specific character</i>] <i>of your hearts will become changed into another</i> <br>\
+                  صورة. (TA.) [Hence,] اِخْتَلَفَتْ عَنْ اَنْوَايِهَا, said of stars: see 4, near the middle of the paragraph. ―         -b4-  Also The <i>being complicated, intricate,</i> or <i>confused.</i> (KL.) [You say, اختلف الاَمْرُ بَيْنَهُمْ <br>\
+                  <i>The affair,</i> or <i>case, was,</i> or <i>became, complicated, intricate,</i> or <i>confused, so as to be a subject of disagreement,</i> or <i>difference, between them:</i> a phrase of frequent occurrence.]       -A2-  اختلفهُ: see 1, in two places, in the former half of the paragraph. ―         -b2-  See also 2, in two places. ―         -b3-  اختلف صَاحِبَهُ: see 3, near the middle of the paragraph.    </entryFree> <br>\
+<b>استخلفهُ</b>               1     <br>\
+                     استخلفهُ<br>\
+                     استخلفه<br>\
+                     استخلفه<br>\
+                     استخلفة<br>\
+                     ٱستخلف<br>\
+                     ٱستخلفه<br>\
+                  : see 2, in two places. ―         -b2-  Also <i>He took it</i> (a thing) <i>as a substitute,</i> or <i>in exchange, for another thing;</i> or <i>in the place of another thing;</i> syn. اِسْتَعْوَضَهُ and اِسْتَبْدَلَهُ. (TA.) ―         -b3-  استخلفتِ الاَرْضُ <br>\
+                  <i>The land produced the herbage of the</i> [<i>season called</i>] اِسْتَبْدَلَهُ. (TA.)       -A2-  See also 1, in the middle of the latter half of the paragraph, in two places.    </entryFree> <br>\
+<b>خَلْفٌ</b>               1     <br>\
+                     خَلْفٌ<br>\
+                     خلف<br>\
+                   [meaning The <i>location,</i> or <i>quarter, that is behind;</i> and the <i>time past;</i>] (K; [so in my MS. copy, and thus it should be written as a simple noun; but in the CK خَلْفُ;]) or الخَلْفُ; (Lth, K;) <i>contr. of</i> <br>\
+                  قُدَّامٌ [or القُدَّامُ]: (Lth, K:) [and] خَلْفَ [<i>Behind;</i> and <i>after;</i>] contr. of قُدَّامَ: (S: [thus in my tow copies; and said in the margin of one of them to be thus in the copy of IB, and in that of El-Jawáleekee:]) a simple noun: and an adv. n.: of the fem. gender [as meaning the جِهَة; but otherwise it seems to be masc.]. (TA.) You say, جَا=ءَ خَلْفَهُ [and مِنْ <br>\
+                  خَلْفِهِ, both meaning <i>He came behind him,</i> and <i>after him</i>]. (Mgh.) And جَلَسْتُ خَلْفَ فُلَانٍ <br>\
+                  <i>I sat after,</i> or <i>behind, such a one;</i> syn. بَعْدَهُ (S.) And لَبِثَ خَلْفَهُ <br>\
+                  <i>He remained after him.</i> (K.) Some read, in the Kur [xvii. 78], وَاـِذًا لَايَلْبَثُونَ <br>\
+                  خَلْفَكَ: others read خِلَافَكَ [which means the same, as mentioned above: see the middle of the first paragraph of this art.]. (TA.) ―         -b2-  خَلْفٌ signifies also The <i>back</i> (K, TA) itself: so says IAar: and particularly, of a house; the <i>side corresponding to,</i> or <i>over against, that in which is the door;</i> and as a house may have two doors, [in two different sides,] it may be said to have two backs, each of which may be thus termed; and the dual of this word seems to be used as meaning two backs in a trad. [respecting the building of the Kaabeh]. (TA.) ―         -b3-  And <i>One who comes after another;</i> (S, TA;) as also ↓ <br>\
+      خَلَفٌ, or, accord. to some, there is a difference between these two, as will be shown in what follows; (S;) and ↓ <br>\
+      خَالِفٌ and ↓ <br>\
+      خَالِفَةٌ: it is originally an inf. n.: (TA:) and signifies <i>one who remains after another, whether this other be dead or living:</i> and <i>one remaining after another who is dead; his follower,</i> or <i>successor;</i> the <i>follower,</i> or <i>successor, of one who has gone:</i> used in praise and in dispraise: pl. خُلُوفٌ: and the sing. also signifies [like the pl.] <i>persons remaining after others;</i> accord. to some: (IB, TA:) <i>a remnant of people:</i> (Lh, TA:) and <i>a generation after a generation;</i> (Lth, S, K;) as also ↓ <br>\
+      خَلَفٌ: (Lth, TA:) but Lth says that the former is applied to the evil, and ↓ the latter to the good, (K, TA,) whether meaning a generation or a son: (TA:) the latter means <i>a good son</i> (K, TA) <i>remaining after his father:</i> (TA:) and the former, <i>a bad son:</i> (K, TA:) [therefore] one says, هُوَ خَلْفُ سَوْءٍ مِنْ اَبِيهِ [<i>He is a bad son</i>] <i>who has taken the place of his father,</i> and صِدْقٍ من ابيه ↓ <br>\
+      خَلَفُ [<i>a good son</i>] &amp;amp;c.: (S:) but sometimes each is used in the place of the other; so that one says, هو خَلْفُ صِدْقٍ من ابيه: (K:) or both signify the same: (S, K:) so says Akh: some, he says, use the former; and some, the latter: but some say صِدْقٍ ↓ <br>\
+      خَلَفُ and خَلْفُ <br>\
+                  سَوْءٍ, meaning thus to distinguish between them: (S:) accord. to IB, ↓ <br>\
+      خَلَفٌ correctly signifies a man&#39;s <i>successor who is a substitute</i> for him, good and bad: and is originally an inf. n.: (TA:) and the pl. of this is اَخْلَافٌ: (AZ, IB, TA:) accord. to IAth, خَلَفُ صِدْقٍ means <i>a good generation: and خَلْفُ سَوْءٍ, an evil generation:</i> (TA:) and خَلْفٌ likewise signifies <i>progeny</i> [without restriction]. (K.) One says also, (S, K,) of a people following people more in number than they, (S,) هٰوُلَا=ءِ خَلْفُ سَوْءٍ [<i>These are a bad generation.</i> (S, K.) And بَقِينَا فِى خَلْفِ سَوْءٍ <br>\
+                  <i>We remained among an evil remnant.</i> (Lh, TA.) And فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ, in the Kur [vii. 168  and xix. 60], is explained as meaning <i>And there remained after them a remnant.</i> (TA.) ―         -b4-  [Hence,] (tropical:)  <i>One in whom is no good.</i> (IB, K.) [And app. also <i>Persons in whom is no good.</i>.] ―         -b5-  And (tropical:)  <i>A thing in which is no good:</i> (IB, TA:) [and particularly] (assumed tropical:)  <i>a bad saying;</i> (ISk, S, Msb, K;) <i>a wrong, bad saying, like the</i> <br>\
+                  خَلْف <br>\
+                  <i>of mankind.</i> (A &#39;Obeyd, Msb.) See also خُلْفٌ. It is said in a prov., سَكَتَ اَلْفًا وَنَطَقَ خَلْفًا (assumed tropical:)  <i>He held his tongue from a thousand</i> words (سَكَتَ عَنْ اَلْفِ <br>\
+                  كَلِمَة), <i>and then uttered what was wrong.</i> (ISk, S, Msb.) An Arab of the desert, who had been guilty of a breach of manners (حَبَقَ حَبْقَةً), pointed with his thumb towards his اِسْت, and said, اـِنَّهَا <br>\
+                  خَلْفٌ نَطَقَتْ خَلْفًا [which may be rendered, <i>Verily it is a thing in which is no good: it uttered a thing in which was no good:</i> but it obviously admits of being rendered otherwise]. (IAar, S.) ―         -b6-  Also <i>People who have gone away from the tribe</i> (T, K) <i>to draw water, and have left their baggage &amp;amp;c. behind them:</i> (T, TA:) and <i>such as are present,</i> [<i>remaining behind,</i>] <i>of the tribe:</i> thus bearing two contr. significations: pl. خُلُوفٌ. (K.) You say حَىٌّ خُلُوفٌ <br>\
+                  <i>A tribe who are absent; none of them remaining behind:</i> (S, TA:) or <i>a tribe of which the men are absent and the women remaining:</i> (TA:) and خُلُوفٌ also signifies the contr., i. e. <i>such as are present,</i> (S, TA,) <i>remaining behind.</i> (S.) It is said of Mohammad, in a trad., لَمْ يَتْرُكْ اَهْلَهُ خُلُوفًا, i. e. <i>He did not leave his family neglected, with no pastor nor protector.</i> (TA.) See also a verse of El-Hoteíäh in the latter part of the first paragraph of this article.       -A2-  <i>Old and worn out;</i> applied to a وَطْب [or skin for milk, or for clarified butter and milk: as though it were a remnant thereof]. (Ibn-&#39; Abbád, K.)       -A3-  <i>A</i> <br>\
+                  مِرْبَد; (S, K;) i. e. <i>a place of confinement for camels:</i> (TA:) or <i>such as is behind the tent</i> or <i>house.</i> (JK, S, * K.)       -A4-  <i>A large</i> <br>\
+                  فَاْس [i. e. <i>hoe</i> or <i>adze</i> or <i>axe</i>]: or <i>such as has one head:</i> and the <i>edge of</i> a فاس: or the <i>head thereof:</i> (K:) you say فَاْسٌ ذَاتُ خَلْقَيْنِ <br>\
+                  <i>a two-headed</i> <br>\
+                  فاس: (S, TA:) or ذَاتُ خَلْقَيْنِ and ↓ <br>\
+      ذَاتُ خِلْقَيْنِ are names of <i>the</i> <br>\
+                  فاس (K, TA) <i>when two-headed:</i> (TA:) and the pl. is ذَوَاتُ <br>\
+                  الخَلْقَيْنِ: (K:) pl. خُلُوفٌ. (JK.) ―         -b2-  And The <i>head of a razor.</i> (K.) ―         -b3-  And The [<i>pointed</i>] <i>head of a</i> <br>\
+                  مِنْقَار, [<i>an iron instrument like the</i> <br>\
+                  فَاْس, (A and K in art. نقر,) <i>with which mill-stones &amp;amp;c. are pecked,</i> or <i>wrought into shape,</i> (see مِنْقَارٌ,) <i>and</i>] <i>with which wood is cut.</i> (TA.)       -A5-  See also خِلْفٌ.    </entryFree> <br>\
+<b>خُلْفٌ</b>               1     <br>\
+                     خُلْفٌ<br>\
+                     خلف<br>\
+                   a subst. from اـِخْلَافٌ, (S, Msb, K,) relating to a promise, and restricted to future time; (Msb;) i. e. a subst. used in the place of اـِخْلَافٌ; (Lh, TA;) meaning The <i>breach,</i> or <i>non-fulfilment, of a promise;</i> as also ↓ <br>\
+      خُلُفٌ, which is said to be the original form of the word, and ↓ <br>\
+      خُلُوفٌ: (TA:) it is, <i>in respect of the future, like</i> <br>\
+                  كَذِبٌ <br>\
+                  <i>in respect of the past:</i> (S, K:) some say that it signifies <i>a false,</i> or <i>wrong, saying;</i> which is a meaning of ↓ <br>\
+      خَلْفٌ, with fet-h, before mentioned: but perhaps these two words may be syn. dial. vars. (MF, TA.) ―         -b2-  Also, (Msb,) or ↓ <br>\
+      خُلْفَةٌ, and ↓ <br>\
+      خِلْفَةٌ, (K, TA,) <i>Disagreement, difference, dissension, contrariety, contrariousness,</i> or <i>opposition,</i> (Msb, K, * TA,) <i>in opinions</i> or <i>the like,</i> (Msb,) or <i>in respect of friendship and amity,</i> (TA in explanation of the second of these words,) or in natural disposition; (K;) as also ↓ <br>\
+      خِلَفْنَةٌ (S, K) and ↓ <br>\
+      خِلَفْنَاةٌ and ↓ <br>\
+      خَالِفٌ and ↓ <br>\
+      خَالِفَةٌ. (K.)       -A2-  It is also pl. of خَلِيفٌ, in its various senses.    </entryFree> <br>\
+<b>خِلْفٌ</b>               1     <br>\
+                     خِلْفٌ<br>\
+                     خلف<br>\
+                  : see خِلْفَةٌ, in the latter half of the paragraph, in seven places. ―         -b2-  Also, applied to a man, (Sgh,) <i>i. q.</i> <br>\
+                  لَجُوجٌ [app. as meaning One <i>who perseveres much in opposition</i> or <i>contention</i> or <i>the like</i>]; (Sgh, K;) as also ↓ <br>\
+      خَالِفَةٌ. (TA.)       -A2-  Also a subst. from اـِخْلَافٌ meaning The <i>act of drawing water;</i> and so ↓ <br>\
+      خِلْفَةٌ: (A &#39;Obeyd, K: *) [whence the saying,] مِنْ اَيْنِ خِلْفَتُكُمْ <br>\
+                  <i>Whence do ye draw water?</i> (S, K.)       -A3-  The <i>teat</i> (حَلَمَة) <i>of the udder of the she-camel:</i> (S, K:) and the <i>two fore ones,</i> and the <i>two hinder ones:</i> (S:) or the <i>part of the udder upon which the milker lays hold:</i> (TA:) or the <i>extremity of the udder of the she-camel:</i> (Msb, K:) or the <i>hinder of the</i> <br>\
+                  اَطْبَا=ء [or <i>teats</i>]: (K:) or the <i>udder itself;</i> (Lth, TA;) [i. e.] it is, <i>to the she-camel,</i> (Msb, * K,) <i>like the</i> <br>\
+                  ثَدْى <br>\
+                  <i>to the human being,</i> (Msb,) or <i>like the</i> <br>\
+                  ضَرْع <br>\
+                  <i>to the ewe</i> or <i>she-goat:</i> (K:) or the خِلْف is <i>of the camel</i> and <i>of the cloven-hoofed animal;</i> and the طُبْى, of the solid-hoofed animal and of the animal that has a claw: (Lh, TA:) the pl. [properly of pauc.] is اَخْلَافٌ (Msb, TA) and [of mult.] خُلُوفٌ. (TA.) One says, دَرَّتْ لَهُ اَخْلَافُ الدُّنْيَا (tropical:)  [<i>The world yielded him abundance of its good things</i>]. (TA.)       -A4-  The <i>shortest of the ribs of the side;</i> (S;) [and] so ↓ <br>\
+      خَلْفٌ; (K;) likewise called ضِلَعٌ <br>\
+                  الخِلْفِ and الخَلْفِ; it is the <i>furthest and thinnest of the ribs;</i> (TA;) [i. e.] the خِلْف is <i>that next to the belly, of the small ribs; their</i> <br>\
+                  قُصَيْرَى: (K: [see القُصْرَى:]) pl. of the former (S) [and] of the latter (K) خُلُوفٌ. (S, K.)       -A5-  ذَاتُ خِلْفَيْنِ: see خَلْفٌ, near the end of the paragraph.    </entryFree> <br>\
+<b>خَلَفٌ</b>               1     <br>\
+                     خَلَفٌ<br>\
+                     خلف<br>\
+                  <i>A substitute; a thing given,</i> or <i>received,</i> or <i>put,</i> or <i>done, instead</i> of, <i>in place</i> of, or <i>in exchange</i> for, another thing. (A &#39;Obeyd, Th, S, Msb, K, TA.) You say, اِجْعَلْ هٰذَا خَلْفًا مِنْ هٰذَا <br>\
+                  <i>Make thou this to be a substitute for this.</i> (Msb.) And هٰذَا خَلَفٌ مِمَّا اُخِذَ لَكَ <br>\
+                  <i>This is a substitute for what has been taken to thee.</i> (IB.) And فِى هٰوُلَا=ءِ القَوْمِ خَلَفٌ مِمَّنْ مَضَى <br>\
+                  <i>In these people are such as supply the place of those who have gone.</i> (TA.) And فِى فُلَانٍ خَلَفٌ مِنْ فُلَانٍ [<i>In such a one is a substitute for such a one</i>]. (TA.) And هُوَ مِنْ اَبِيهِ خَلَفٌ <br>\
+                  <i>He is a substitute for his father.</i> (IB.) See also خَلْفٌ, in six places, in the former half of the paragraph.    </entryFree> <br>\
+<b>خَلِفٌ</b>               1     <br>\
+                     خَلِفٌ<br>\
+                     خلف<br>\
+                  , applied to she-camels, <i>i. q.</i> <br>\
+                  مَخَاضٌ, i. e. <i>Pregnant:</i> n. un. with ة: (S, K:) accord. to some, (TA,) the pl. of خَلِفَةٌ, which signifies a <i>pregnant</i> camel, (Mgh, Msb, TA,) or, as some say, one <i>that has completed a year after bringing forth and has then been covered and has conceived, until she enters upon the term called</i> <br>\
+                  التَّعْشِير, (TA, [<i>from-the time when her pregnancy has become manifest,</i> (see قَارِحٌ and لَاقِحٌ,)] is مَخَاضٌ, (Mgh, Msb, TA,) like as the pl. of اِمْرَاَةٌ is نِسَا=ءٌ; (Msb, TA;) and sometimes خَلِفَاتٌ (Mgh, Msb, TA) and خِلَافٌ: (TA:) but خَلِفٌ occurs in the saying of the rájiz, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        مَا لَكَ تَرْغِينَ وَلَا تَرْغُوا الخَلِفْ<br>\
+                  </quote> [<i>What aileth thee that thou utterest a grumbling cry, when the pregnant camels utter not that cry?</i>]. (IB.)    </entryFree> <br>\
+<b>خُلَفٌ</b>               1     <br>\
+                     خُلَفٌ<br>\
+                     خلف<br>\
+                  : see خُلْفَةٌ.    </entryFree> <br>\
+<b>خُلُفٌ</b>               1     <br>\
+                     خُلُفٌ<br>\
+                     خلف<br>\
+                  : see خُلْفٌ.    </entryFree> <br>\
+<b>خَلْفَةٌ</b>               1     <br>\
+                     خَلْفَةٌ<br>\
+                     خلف<br>\
+                     خلفه<br>\
+                     خلفة<br>\
+                  : see the next paragraph, in two places.    </entryFree> <br>\
+<b>خُلْفَةٌ</b>               1     <br>\
+                     خُلْفَةٌ<br>\
+                     خلف<br>\
+                     خلفه<br>\
+                     خلفة<br>\
+                  : see خُلْفٌ. ―         -b2-  Also <i>A vice, a fault,</i> or <i>an imperfection:</i> (K:) and <i>badness, corruptness, vitiousness,</i> or <i>dishonesty:</i> (TA:) and <i>foolishness,</i> or <i>stupidity;</i> or <i>paucity,</i> or <i>want, of intellect</i> or <i>understanding;</i> as also ↓ <br>\
+      خَلَافَةٌ [properly an inf. n., of خَلُفَ, and before mentioned as such; (see 1, in the latter half of the paragraph;)] and <i>idiocy.</i> (K.) All of these meanings have been assigned to it in explanations of the saying, اَبِيعُكَ هٰذَا العَبْدَ <br>\
+                  وَاَبْرَاُ اـِلَيْكَ مِنْ خُلْفَتِهِ [<i>I sell to thee this slave, but I am irresponsible to thee for his vice, &amp;amp;c.</i>]: or, accord. to IAar, the meaning is, خِلَافِهِ [<i>his contrariousness</i>]. (TA.) ―         -b3-  Also The <i>last taste</i> of food; (K;) as in the saying, اـِنَّهُ لَطَيِّبُ الخُلْفَةِ [<i>Verily it is good,</i> or <i>sweet, in respect of the last taste</i>]; (TA;) and so ↓ <br>\
+      خَلْفَةٌ: pl. خُلَفٌ: and it (خُلْفَةٌ) signifies also <i>loss of appetite for food, in consequence of disease:</i> (so accord. to the CK:) [or,] accord. to some copies of the K, ↓ <br>\
+      خَلْفَةٌ has this latter signification; and so ↓ <br>\
+      خُلَفٌ: accord. to other copies, خُلَفٌ is pl of خَلْفَةٌ in this sense: but both these readings require consideration: what is found in the Lexicons is, خَلَفَتْ نَفْسُهُ <br>\
+                  عَنِ الطَّعَامِ, aor.      <br>\
+                     خَلُفَ<br>\
+                  , inf. n. خُلُوفٌ; meaning as explained above, in the latter half of the first paragraph. (TA.)    </entryFree> <br>\
+<b>خِلْفَةٌ</b>               1     <br>\
+                     خِلْفَةٌ<br>\
+                     خلف<br>\
+                     خلفه<br>\
+                     خلفة<br>\
+                   a subst. signifying <i>A mode,</i> or <i>manner, of coming after</i> [or <i>behind</i>]; like قِعْدَةٌ signifying “ a mode, or manner, of sitting. ” (Msb.) ―         -b2-  See also خُلْفٌ. ―         -b3-  It signifies also <i>Difference</i> [<i>of any kind</i>]: (K, * TA:) or the <i>coming and going</i> of the night and the day; (S, K, * TA;) and likewise of wild animals. (K.) Hence the saying in the Kur [xxv. 63], وَهُوَ اْلَّذِى جَعَلَ اْللَّيْلَ وَاْلنَّهَارَ <br>\
+                  خِلْفَةً, (S, K, *) meaning ذَوَى خِلْفَةٍ, (Bd,) i. e. [<i>And He it is who hath made the night and the day</i>] <i>so that each replaces the other:</i> or <i>each follows the other:</i> (K, * TA:) or <i>so that he who is unable to accomplish a thing in the night may do it in the day, and the reverse.</i> (Fr, L, K.) Zuheyr says, of wild animals, يَمْشِينَ خِلْفَةً, meaning <i>They go to and fro.</i> (S, TA. [See Em p. 109.]) And one says, اَخَذَتْهُ خِلْفَةٌ, meaning <i>He was</i> <br>\
+                  <i>taken with</i> [<i>an affection causing</i>] <i>a frequent going to and from the privy.</i> (S, K.) [And hence,] خِلْفَةٌ signifies also, <i>A discharging of the bowels;</i> or <i>a purging and vomiting together;</i> (K;) or <i>a disordered state of the stomach arising from</i> [<i>unwholesome</i>] <i>food;</i> (TA;) <i>a looseness,</i> or <i>diarrhœa.</i> (JK, TA.) ―         -b4-  See also خِلْفٌ. ―         -b5-  Also The <i>bringing</i> of camels <i>to the watering-place in the evening, after the people have gone away.</i> (L, K.) ―         -b6-  And A man&#39;s <i>watching to see another,</i> (اَنْ يُنَاظِرَ in some copies of the K, and ان يُنَاصِرَ in other copies, being put for ان يُبَاصِرُ, which is the right reading, agreeably with an explanation of اِخْتَلَفَ <br>\
+                  صَاحِبَهُ, [for which see 3, near the middle of the paragraph,] TA,) <i>and when he is absent from his family, going in to them,</i> (K, TA,) or [rather], <i>when he is absent from his wife, going in to her.</i> (TA, after the explanation of the phrase above mentioned.)       -A2-  <i>A thing that is suspended behind the rider;</i> (JK, K;) <i>such as is suspended behind the</i> [<i>kind of vehicle called</i>] مَحْمِل. (TA.) ―         -b2-  <i>Remains</i> of water in a trough or tank. (TA.) ―         -b3-  <i>What remains, of food, between the teeth.</i> (Lh, K.) ―         -b4-  <i>A plant,</i> or <i>herbage, that comes forth after another plant,</i> or <i>other herbage,</i> (S, Msb, K,) <i>which has become dry, and broken in pieces:</i> (S, TA:) or <i>that comes forth not from rain, but by reason of the cold of the latter part of the night.</i> (Aboo-Ziyád El-Kilábee, K. [See also رَبْلٌ.]) ―         -b5-  <i>What the trees disclose in the beginning of the cold,</i> (K, TA,) <i>by reason of the</i> [<i>rain called</i>] صَفَرِيَّة [q. v.]: (TA:) or <i>fruit that comes forth after other fruit:</i> (K:) or <i>fruit that comes forth after abundant fruit;</i> (S, Mgh, TA;) this being termed the خِلْفَة of trees: (S, Mgh:) or <i>a growth of leaves after the falling away of other leaves:</i> (K, * TA: دُونَ in the K is a mistake for بَعْدَ: TA:) or <i>leaves that come forth after the first leaves, in the</i> [<i>season called</i>] صَيْف. (Nh, TA.) ―         -b6-  <i>What grows in the</i> <br>\
+                  صَيْف [or <i>summer</i>]; so says A &#39;Obeyd: (S, K:) or, (JK, Mgh, K,) as also ↓ <br>\
+      خِلْفٌ, (K,) the <i>herbage produced by the</i> <br>\
+                  صيف, (JK, K,) or <i>in the</i> <br>\
+                  صيف, (Mgh,) <i>after the springherbage has dried up.</i> (JK, Mgh.) ―         -b7-  <i>A produce of grape-vines after the grapes have turned black; the grapes being gathered while it is fresh and green, it then ripens:</i> and <i>so other fruits:</i> or <i>a new produce, by the vine, of fresh sour grapes.</i> (K.) ―         -b8-  <i>Grain that is sown</i> (JK, * Mgh, K *) <i>after the former has come to maturity:</i> (Mgh, TA:) because taken as a substitute for wheat and barley: (K:) pl. خِلَفٌ. (Mgh.) ―         -b9-  <i>A piece with which a garment is patched</i> (K) <i>when it is old and worn out.</i> (TA.) ―         -b10-  <i>A time after a time.</i> (IAar, K.)       -A3-  <i>Differing</i> [<i>one from another</i> or <i>others</i>]; as also ↓ <br>\
+      خِلْفٌ: (K:) it is applied in this sense to a people, or company of men: (AZ, S, K:) and to beasts, or horses or the like, as meaning <i>differing</i> (K, TA) <i>in their colours and appearances:</i> (TA:) and خِلْفَتَانِ is applied to any two things that are <i>different;</i> (Ks, TA;) as also ↓ <br>\
+      خِلْفَانِ: (Ks, Msb, TA:) and خِلْفَةٌ, (K,) or خِلْفَتَانِ, (Ks, TA,) to any two colours that are <i>combined</i> [because <i>different</i>]. (Ks, K, TA.) AZ cites, as an ex., the saying [of a rájiz], <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        سَاقِيَاهُمَا ↓ <br>\
+      دَلْوَاىْ خِلْفَانِ<br>\
+                  </quote> [<i>My two buckets are different, and their two suppliers with water</i>]; (S, TA;) meaning that one of them [i. e. of the buckets] is ascending and full, and the other is descending and empty; or that one of them is new, and the other is old and worn out. (TA, in two places.) And one says of two children, or two male slaves; or two female slaves, that they are خِلْفَتَانِ, (Ks, K,) and ↓ <br>\
+      خِلْفَانِ, (K,) applying to the male and the female, (TA,) meaning <i>One tall and the other short:</i> or <i>one white and the other black.</i> (Ks, K.) One says also, بَنُو فُلَانٍ <br>\
+                  خِلْفَةٌ, meaning <i>The children of such a one are half males and half females.</i> (S.) And نِتَاجُ فُلَانٍ <br>\
+                  خِلْفَةٌ <br>\
+                  <i>The offspring of the beasts of such a one are one year male and another year female.</i> (JK, TA.) And ↓ <br>\
+      وَلَدَتْ خِلْفَيْنِ, said of ewe or goat, (K,) or of a camel, (L,) <i>She brought forth one year a male and another year a female.</i> (L, K.) The pl. [of ↓ <br>\
+      خِلْفٌ] (K, TA) in all its senses (TA) is اَخْلَافٌ and خِلَفَةٌ; (K, * TA;) the latter, [in the CK خِلْفَةٌ,] like قِرَدَةٌ as pl. of قِرْدٌ. (TA.)    </entryFree> <br>\
+<b>خُلْفُفٌ</b>               1     <br>\
+                     خُلْفُفٌ<br>\
+                     خلفف<br>\
+                   and خُلْفَفٌ and خُلْفُفَةٌ and خُلْفَفَةٌ: see خَالِفٌ, in the latter half of the paragraph. ―         -b2-  اُمُّ خُلْفُفٍ (Sgh, K) and خُلْفَفٌ <br>\
+                  <i>Calamity,</i> or <i>misfortune:</i> or <i>the greatest calamity</i> or <i>misfortune.</i> (K.)    </entryFree> <br>\
+<b>خِلَفْنَةٌ</b>               1     <br>\
+                     خِلَفْنَةٌ<br>\
+                     خلف<br>\
+                     خلفنه<br>\
+                     خلفنة<br>\
+                   and خِلَفْنَاةٌ: see خُلْفٌ: ―         -b2-  and see also خَالِفٌ, in the middle of the paragraph.    </entryFree> <br>\
+<b>خِلَافٌ</b>               1     <br>\
+                     خِلَافٌ<br>\
+                     خلاف<br>\
+                   an inf. n. of 3 [q. v. passim]. (S, &amp;amp;c.) ―         -b2-  Also The <i>contrary,</i> or <i>opposite,</i> of a thing; syn. ضِدٌّ. (Msb in art. ضد. [Very often used in this sense.]) You say, الاِخْتِلَافُ خِلَافُ الاِتِّفَاقِ [i. e. الاختلاف <br>\
+                  <i>is the contrary of</i> <br>\
+                  الاتّفاق] (TA.)       -A2-  Also, (S, Msb, K,) by the vulgar (O, Msb, TA) incorrectly pronounced with teshdeed (O, Msb, K, TA) and fet-h [to the خ, i. e. خَلَّافٌ], (TA,) <i>A well-known kind of tree;</i> (S;) the [<i>kind of tree called</i>] صَفْصَاف: (Msb:) or <i>a species of the</i> <br>\
+                  صفصاف, <i>but not the</i> <br>\
+                  صفصاف <br>\
+                  <i>itself:</i> (K:) [the <i>salix Aegyptia</i> of Linnæus; called by this name in the present day; and by some, improperly, بَانٌ, q. v.:] <i>it abounds in the land of the Arabs; and is</i> [<i>also</i>] <i>called</i> <br>\
+                  سَوْجَرٌ [or سَوْحَرٌ]; <i>and there are many varieties thereof; all of them soft and weak;</i> (TA;) <i>but it is seldom, or never, found in the desert:</i> (Msb:) they assert that it is thus called because the torrent brings it from one locality to another, so that it grows in a place different from that of its origin; (AHn, Msb, K, * TA;) but this is not a valid assertion: (TA:) [it is a coll. gen. n.:] n. un. with ة. (Msb, TA.) سُوِّينَ مِنْ خِلَافِ, in the saying of the rájiz cited voce خُفٌّ, means <i>Made of different trees:</i> it does not mean <i>of the tree called</i> <br>\
+                  خِلَاف; because this is seldom, or never, found in the desert. (S, TA.) ―         -b2-  Also The <i>sleeve of a shirt.</i> (IAar, K.)    </entryFree> <br>\
+<b>خُلُوفٌ</b>               1     <br>\
+                     خُلُوفٌ<br>\
+                     خلوف<br>\
+                  : see خُلْفٌ.       -A2-  It is also, as stated above, pl. of خَلْفٌ: (IB, K, TA:) ―         -b2-  and a pl. of خِلْفٌ. (TA.)    </entryFree> <br>\
+<b>خَلِيفٌ</b>               1     <br>\
+                     خَلِيفٌ<br>\
+                     خليف<br>\
+                  : see خَلِيفَةٌ, in three places. ―         -b2-  Also One <i>who holds back from the place,</i> or <i>time, of promise:</i> and one <i>who breaks a promise.</i> (TA.) ―         -b3-  And A woman <i>that has let down her hair behind her.</i> (JK, O, K.) ―         -b4-  And A woman <i>that has attained to the period of one day,</i> or <i>two days, after her having brought forth.</i> (IAar.) [Perhaps from the signification next following.] ―         -b5-  A she-camel <i>in the second day after her having brought forth:</i> pl. خُلُفٌ and خُلْفٌ: (K, TA:) these two pls. are mentioned in the K in different places in this art., but both are correct, like رُسُلٌ and رُسْلٌ. (TA.) Hence, (TA,) one says, رَكِبَهَا يَوْمَ خَلِيفِهَا [<i>He rode her on the second day after she had brought forth</i>]. (K.) ―         -b6-  And The <i>milk that is after the biestings:</i> (AA, K:) pl. as above. (K.) One says also, حَلَبَهَا خَلِيفَ <br>\
+                  لِبَيِهَا <br>\
+                  <i>He drew from her the milk that came after the biestings had passed away.</i> (JK.) And اِيتِنَا <br>\
+                  بِلَبَنِ نَاقَتِكَ يَوْمَ خَلِيفِهَا, i. e. [<i>Bring thou to us the milk of thy she-camel of the day</i>] <i>after the cessation of her biestings; i. e., of the milking that is after her bringing forth by a day or two days.</i> (AA, TA.)       -A2-  Applied to a garment, (S, K,) or a shirt, (Msb,) <i>Having the middle, wornout part taken out, and the</i> [<i>cut</i>] <i>edges then sewed together:</i> (S, Msb, K *:) and ↓ <br>\
+      مَخْلُوفٌ signifies the same; (JK;) or a garment <i>composed of two pieces sewed together:</i> or, as some say, this signifies a garment <i>pledged.</i> (TA.)       -A3-  Also, accord. to A &#39;Obeyd, The <i>part beneath the armpit:</i> and the خَلِيفَانِ of the camel are <i>like the</i> <br>\
+                  اـِبْطَانِ <br>\
+                  <i>of man:</i> accord. to the S and the O, خَلِيفَا النَّاقَةِ signifies <i>the two armpits of the she-camel</i> (اـِبْطَاهَا): but the author of the K, following the [first] explanation given by A &#39;Obeyd, says that this is wrong, and that the meaning is <i>the parts beneath the two armpits of the she-camel.</i> (TA.)       -A4-  And <i>A gap between two mountains,</i> (JK,) or <i>between two mountain-tops,</i> (TA,) <i>of little breadth and length:</i> (JK, TA:) or <i>a road between two mountains:</i> (S, K:) or <i>a valley between two mountains:</i> (K:) or <i>a place where water pours forth</i> (K, TA) <i>between two mountains,</i> or <i>between two valleys, passing thence into a wide tract:</i> (TA:) and <i>any road in a mountain,</i> (Skr, K,) or <i>behind a mountain,</i> or <i>behind a valley:</i> (TA:) or simply <i>a road;</i> as also ↓ <br>\
+      مَخْلَفَةٌ; (JK, K;) this being either in a plain or in a mountain: (TA:) pl. of the former as above. (K.) One says ذِيخُ الخَلِيفِ i. e. [<i>The hairy male hyena</i>] <i>of the road between two mountains,</i> (S, K,) or <i>of the valley between two mountains;</i> (K) like as one says ذِيْبُ غَضًا. (S.)       -A5-  And A <i>sharp</i> arrow: (AHn, K:) or, accord. to Skr, the word in this sense is حَلِيفٌ, with the unpointed ح; and this is more probably correct. (TA.)    </entryFree> <br>\
+<b>خَلَافَةٌ</b>               1     <br>\
+                     خَلَافَةٌ<br>\
+                     خلاف<br>\
+                     خلافه<br>\
+                     خلافة<br>\
+                  : see خُلْفَةٌ.    </entryFree> <br>\
+<b>خِلَافَةٌ</b>               1     <br>\
+                     خِلَافَةٌ<br>\
+                     خلاف<br>\
+                     خلافه<br>\
+                     خلافة<br>\
+                   inf. n. of خَلَفَهُ as meaning “ he was, or became, his خَلِيفَة ” [q. v.]. (S, Mgh, Msb, K.) ―         -b2-  [And hence, as a simple subst., The <i>office of</i> <br>\
+                  خَلِيفَة.]    </entryFree> <br>\
+<b>خَلِيفَةٌ</b>               1     <br>\
+                     خَلِيفَةٌ<br>\
+                     خليفه<br>\
+                     خليفة<br>\
+                  <i>A successor:</i> and <i>a vice-agent, vice-</i> <br>\
+                  <i>gerent, lieutenant, substitute, proxy,</i> or <i>deputy:</i> (KL:) <i>one who has been made,</i> or <i>appointed, to take the place of him who has been before him:</i> (JK:) an act. part. n. of خَلَفَهُ, inf. n. خَلَفٌ and خِلَافَةٌ; as also ↓ <br>\
+      خَلِيفٌ: (TA:) or it may have the meaning of an act. part. n. or that of a pass. part. n.: and so in the sense next following: (Msb:) the <i>supreme,</i> or <i>greatest, ruler</i> or <i>sovereign,</i> (S, Msb, K, TA,) <i>who supplies the place of him who has been before him;</i> (TA;) [particularly the <i>successor of the Prophet;</i> whence “ Caliph, ” commonly used by English writers for “ Khaleefeh; ”] as also ↓ <br>\
+      خَلِيفٌ, (K,) which is the original form, (Msb,) without ة; (Msb, TA;) disapproved by some, but mentioned by AHát and Ibn-&#39; Abbád and IB, and occurring in a verse of Ows Ibn-Hajar cited by IB: (TA:) the ة in the former is to denote intensiveness of signification, (Nh, Msb, TA,) as in عَلَّامَةٌ and نَسَّابَةٌ: (Msb:) or, as some say, لِلنَّقْلِ [i. e. for the transference of the word from the category of epithets to that of substs.]: (TA:) it is also said that the word may be an epithet of which the subst. qualified thereby is suppressed, for نَفْسٌ <br>\
+                  خَلِيفَةٌ; but this requires consideration: (MF, TA:) it is an epithet applied to a man peculiarly: (Msb:) some make it fem.; (Fr, S, Msb, K;) saying هٰذَا خَلِيفَةٌ اُخْرَى [<i>This is another Khaleefeh</i>]; though the proper way is to make it masc.: (Msb:) a poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَبُوكَ خَلِيفَةٌ وَلَدَتْهُ اُخْرَى<br>\
+                     <L><br>\
+                        وَاَنْتَ خَلِيفَةٌ ذَاكَ الكَمَالُ<br>\
+                  </quote> [<i>Thy father was a Khaleefeh, whom another</i> Khaleefeh <i>begat; and thou art a Khaleefeh: that is perfection</i>]: (Fr, S:) the pl. is خَلَايِفُ [generally applied to any people that have succeeded others, and supplied their places, as in the Kur x. 15], (S, K,) like as كَرَايِمُ is pl. of كَرِيمَةٌ; (S;) and خُلَفَا=ءُ [generally applied to successors of the Prophet], (S, K,) because, as it applies only to the male, and has ة added, the ة is dropped in forming the pl., which is thus like ظُرَفَا=ءُ as pl. of ظَرِيفٌ: (S:) thus says ISk, and the like is said in the O: but what AHát and Ibn-&#39;Abbád say requires not this straining: (TA:) [i. e.] خَلَايِفُ is pl. of خَلِيفَةٌ; and خُلَفَا=ءُ, of ↓ <br>\
+      خَلِيفٌ: (JK:) or some, having regard to the original, make the pl. to be خُلَفَا=ءُ, like as شُرَفَا=ءُ is pl. of شَرِيفٌ; (Msb;) and this pl. is masc. only, so that you say ثَلَاثَةٌ خُلَفَا=ءَ: (ISk, Msb, TA:) and some, having regard to the word itself [in its altered and used state], make the pl. to be خَلَايِفُ; (Msb;) and this pl. may have prefixed to it either a masc. or a fem. n. of number, so that you say ثَلَاثَةٌ خَلَايِفَ and ثَلَاثُ خَلَايِفَ; (ISk, Msb, TA;) both of which are chaste. (Msb.) You say, كَانَ اْللّٰهُ خَلِيفَةَ وَالِدِكَ عَلَيْكَ [<i>May God be to thee a supplier of the place of thy father</i>]: (S, Msb: *) and in like manner you say, to a person, of any one whom he has lost by death, (S, Msb,) and who cannot be replaced; as the paternal uncle; (Msb;) or the mother. (K.) Some say that the application of the title خَلِيفَةُ <br>\
+                  اْللّٰهِ [<i>The Vicegerent of God</i>] is not allowable, except to Adam and David because there is express authority in these instances [in the Kur ii. 28 and xxxviii. 25]; but others allow it in other cases, like سُلْطَانُ اْللّٰهِ and جُنُودُ اْللّٰهِ and حِزْبُ اْللّٰهِ and خَيْلُ اْللّٰهِ; all of which have been heard: (Msb:) and Zj says that it is allowable to say of the Imáms that they are خُلَفَا=ءُ اْللّٰهِ فِى اَرْضِهِ [<i>The Vicegerents of God in his earth</i>]. (TA.)    </entryFree> <br>\
+<b>خِلِّيفَةٌ</b>               1     <br>\
+                     خِلِّيفَةٌ<br>\
+                     خليفه<br>\
+                     خليفة<br>\
+                  : see the middle of the next paragraph.    </entryFree> <br>\
+<b>خَالِفٌ</b>               1     <br>\
+                     خَالِفٌ<br>\
+                     خالف<br>\
+                  : see خَلْفٌ, in the former half of the paragraph. ―         -b2-  Also One <i>who remains behind,</i> or <i>after, another,</i> (Yz, K, TA,) or <i>others, in the case of a war,</i> or <i>a warring and plundering expedition,</i> and <i>in other cases:</i> (TA:) pl. خَالِفُونَ (Yz, K, TA) and خَوَالِفُ, which latter is extr. [in this case], but is also said to be a [reg.] pl. of ↓ <br>\
+      خَالِفَةٌ, and as such to signify persons <i>who do not go forth on a warring,</i> or <i>warring and plundering, expedition:</i> and الغَازِى ↓ <br>\
+      خَالِفَةُ signifies <i>he who remains behind,</i> or <i>after, him who goes forth on such an expedition, being of his family.</i> (TA.) فَاْقْعُدُوا مَعَ الخَالِفِينَ, in the Kur [ix. 84], means <i>Then stay ye with those who remain behind.</i> (Yz, K. *) خَوَالِفُ is also pl. of ↓ <br>\
+      خَالِفَةٌ [as fem. of خَالِفٌ], (TA,) and signifies <i>Women</i> (K, TA) <i>remaining behind in the houses</i> or <i>tents:</i> but some assign to it the first of the meanings explained above: and some say that it means the <i>children remaining behind.</i> (TA.) It is said in the Kur [ix. 88 and 94], ↓ <br>\
+      رَضُوا بِاَنْ يَكُونُوا مَعَ الخَوَالِفِ, i. e. [<i>They chose to be</i>] <i>with the women:</i> (S, K: *) thus it is explained by Ibn-&#39;Arafeh: but some say that the meaning is, <i>with the bad,</i> or <i>corrupt,</i> persons; and that خوالف is here a pl. [of خَالِفٌ,] like فَوَارِسُ. (TA.) For ―         -b3-  خَالِفٌ is applied to a man [as meaning <i>Bad,</i> or <i>corrupt</i>]; and ↓ <br>\
+      خَالِفَةٌ to a woman as meaning <i>bad,</i> or <i>corrupt, and remaining behind in her abode:</i> and the former to a slave as meaning <i>bad,</i> or <i>corrupt:</i> and also <i>contrarious:</i> and in this last sense it is likewise applied to a companion: and some of the grammarians say that there is no word of the measure فَاعِلٌ having its pl. of the measure فَوَاعِلُ, except خَالِفٌ and هَالِكٌ and فَارِسٌ: but see this last: (TA:) and ↓ <br>\
+      خِلِّيفَةٌ, also, has this last signification; (JK, TA;) or [rather] signifies <i>very contrarious;</i> (K;) as also ↓ <br>\
+      خَالِفَةٌ; (JK;) and so ↓ <br>\
+      خِلَفْنَةٌ, and ↓ <br>\
+      خِلَفْنَاةٌ, (Lh, JK, K,) in each of which the ن is augmentative, and each of which is applied to a man and to a woman and to a pl. number; (Lh, K;) but خِلَفْنَيَاتٌ has been mentioned as pl. [of خلفناة], and as applied to males and females: (TA:) and خَالِفُونَ is likewise used in this sense applied to a number of men. (JK.) ―         -b4-  Also, applied to a slave, [and app. to any man, but in this latter case I find it written خلف, which I believe to be a mistranscription,] One <i>who has withdrawn from the people of his house:</i> so says Lh. (TA.) ―         -b5-  Also <i>Stupid; foolish;</i> or <i>having little,</i> or <i>no, intellect</i> or <i>understanding;</i> as also ↓ <br>\
+      خَالِفَةٌ, (K, TA,) but in an intensive sense, and also applied to a woman; (TA;) and ↓ <br>\
+      اَخْلَفُ, (JK, K,) of which the fem. is خَلْفَا=ءُ; (JK, TA;) and ↓ <br>\
+      خُلْفُفٌ, (K,) or ↓ <br>\
+      خُلْفَفٌ, (L,) or both, (JK,) likewise applied to a woman, as also ↓ <br>\
+      خُلْفُفَةٌ, (K,) or ↓ <br>\
+      خُلْفَفَةٌ: (JK:) or, as some say, خَالِفٌ signifies one <i>in whom is no good:</i> and, as also ↓ <br>\
+      خَالِفَةٌ, one <i>who has not what suffices:</i> or <i>who often breaks his promises:</i> (TA:) or both of these mean one <i>who has not what suffices, and in whom is no good:</i> or <i>very contrarious.</i> (JM.) One says that a man is اَهْلِ بَيْتِهِ ↓ <br>\
+      خَالِفَةُ and خَالِفُ, اهل بيته, meaning <i>The one in whom is no good, of the people of his house:</i> (S, K:) and <i>the ungenerous:</i> (K:) or <i>the stupid,</i> or <i>foolish:</i> or <i>the bad,</i> or <i>corrupt,</i> and <i>the evil:</i> and it is [said to be] tropical. (TA.) And ↓ <br>\
+      قَوْمٌ خَوَالِفٌ <br>\
+                  <i>Persons in whom is no good.</i> (JK.) ―         -b6-  And, [app. because he leaves his family behind him,] <i>A drawer of water;</i> (S, TA;) as also ↓ <br>\
+      مُسْتَخْلِفٌ [q. v.]: both mentioned in the K; but السَّقَّا=ءُ is there erroneously put for المُسْتَقِى. (TA.) ―         -b7-  And <i>Weak, without appetite for food.</i> (TA.) ―         -b8-  And Flesh-meat <i>from which a slight smell is perceived, but in the chewing of which is no harm.</i> (Lth, TA.)       -A2-  See also خُلْفٌ.    </entryFree> <br>\
+<b>خَالِفَةٌ</b>               1     <br>\
+                     خَالِفَةٌ<br>\
+                     خالف<br>\
+                     خالفه<br>\
+                     خالفة<br>\
+                  : see خَلْفٌ, in the former half of the paragraph. Also, particularly, [or perhaps اُمَّةٌ <br>\
+                  خَالِفَةٌ only in this sense,] <i>A nation, people,</i> or <i>race, remaining after another that has gone before.</i> (I &#39;Abbád, K.) And <i>One who comes to the water after him who has returned</i> [<i>from it</i>]: whence Aboo-Bekr applied this appellation to himself, from a motive of humility, when asked if he were the Khaleefeh of the Apostle of God. (IAth, TA.) See also خَالِفٌ, in eight places: and see its pl., خَوَالِفُ, in the same paragraph, in two places. ―         -b2-  Also, applied to a man, [like خِلِّيفَةٌ as explained in the K,] <i>Very contrarious,</i> or <i>adverse,</i> and <i>inimical.</i> (S, * K, * TA.) See also خِلْفٌ. ―         -b3-  مَا اَدْرِى اَىُّ خَالِفَةَ هُوَ, the word خالفة being here imperfectly decl., (S, K,) because of the fem. gender and determinate, being explained by النَّاسِ, (S,) or because determinate and occupying the place of a pl., like as one says اَىُّ تَمِيمَ and اَىُّ اَسَدَ, [or rather, I think, because used as a proper name, as MF, says, (though SM disputes this,) and with the sign of the fem. gender,] means <i>I know not what one of mankind he is;</i> (S, K;) as also اَىُّ خَالِفَةٍ, perfectly decl.; and اَىُّ الخَالِفَةِ; and اَىُّ الخَوَالِفِ; (K;) and so اَىُّ خَافِيَةَ; (K, TA, [in the CK اىّ خَالِفَةٍ again,]) imperfectly decl. (TA.) Lh says that الخَالِفَةُ, writing it thus with ال, signifies النَّاسُ. (TA.)       -A2-  Also <i>One of the poles of a</i> [<i>tent of the kind called</i>] خِبَا=ء: or <i>one of the poles of a</i> <br>\
+                  بَيْت [or <i>tent</i>] <i>in the hinder part thereof:</i> (K:) Lh says that the خَالِفَة is the <i>hinder part,</i> or <i>in the hinder part,</i> (اَخر, [i. e. ا=خِرُ or ا=خِرَ, app. the latter,]) <i>of a</i> <br>\
+                  بَيْت; and one says بَيْتٌ ذُو خَالِفَتَيْنِ [app.  meaning <i>a tent having two poles in its hinder part</i>]: (TA:) the pl. is خَوَالِفُ: (S, TA:) which is hence applied to the <i>angles,</i> or <i>corners, of a</i> <br>\
+                  بَيْت: AZ says that the خَالِفَة of a بيت is [app. the <i>shirt thereof,</i>] <i>beneath the</i> [<i>ropes called</i>] اَطْنَاب, <i>in the</i> [<i>part called</i>] كِسْر [q. v.]; and it is also called the خياصة, and the فرجة: [thus I find these two words written, without any syll. signs:] and he cites, as an ex., <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        مَا خِفْتُ حَتَّى هَتَكُوا الخَوَالِفَ<br>\
+                  </quote> [app. meaning <i>And I feared not until they rent open the skirts of the tent,</i> or <i>tents</i>]: (TA:) or, as some say, the خَالِفَتَانِ are the <i>two sides</i> of a tent, and its رِوَاق is its fore part, and its كِفَا=ء is its hinder part. (TA in art. روق.) ―         -b2-  خَوَالِفُ, (Yz, K,) or خَوَالِفُ مِنَ الاَرْضِ, (TA,) <i>Lands that produce not plants,</i> or <i>herbage, save among the last of lands.</i> (Yz, K, * TA.)       -A3-  See also خُلْفٌ.    </entryFree> <br>\
+<b>اَخْلَفُ</b>               1     <br>\
+                     اَخْلَفُ<br>\
+                     ذ<br>\
+                  : see خَالِفٌ, in the latter half of the paragraph. ―         -b2-  Also <i>Contrarious, hard in disposition, as though going with a leaning towards one side:</i> (K:) and [simply] <i>leaning towards one side;</i> applied to a camel: (S, K:) so says A&#39;Obeyd; (S, TA;) and so As. (TA.) ―         -b3-  Also A camel <i>that has the sheath of his penis slit, and that will not remain stationary, by reason of pain:</i> (TA:) and ↓ <br>\
+      مَخْلُوفٌ signifies a camel <i>having the sheath of his penis slit in the hinder part,</i> (JK, TA,) <i>when suffering suppression of his urine in consequence of the pressure of his hind girth upon his sheath:</i> so says El-Fezáree. (TA.) ―         -b4-  And <i>Left-handed.</i> (JK, K.) ―         -b5-  And <i>Squinteyed;</i> syn. اَحْوَلُ. (K.) ―         -b6-  Accord. to some, (TA,) <i>A torrent:</i> (K, TA:) or, as some say, <i>a river.</i> (Skr, TA.) ―         -b7-  And <i>A male serpent.</i> (Ibn- &#39;Abbád, K.) [All these meanings seem to have been assigned to the word as occurring in a verse of Aboo-Kebeer El-Hudhalee, in which he likens the course of a wolf in a narrow road to the course of the اَخْلَف.]       -A2-  [Also <i>More,</i> and <i>most, wont to break promises.</i> Hence the prov., mentioned by Meyd, اَخْلَفُ مِنْ عُرْقُوبٍ <br>\
+                  <i>More wont to break promises than &#39;Orkoob:</i> a certain man who rendered himself notorious for breaking his promises. See Freytag&#39;s Arab. Prov. i. 454. ―         -b2-  And <i>More,</i> and <i>most, disagreeing, differing, dissentient, contrary, contrarious,</i> or <i>opposing.</i> See an ex. in a prov. cited voce ثِيلٌ. ―         -b3-  And app. <i>More,</i> and <i>most, offensive in the odour of the mouth.</i> See Freytag&#39;s Arab. Prov. ubi suprà.]    </entryFree> <br>\
+<b>تَخَالِيفُ</b>               1     <br>\
+                     تَخَالِيفُ<br>\
+                     تخاليف<br>\
+                  <i>Different colours.</i> (TA.)    </entryFree> <br>\
+<b>مَخْلَفٌ</b>               1     <br>\
+                     مَخْلَفٌ<br>\
+                     مخلف<br>\
+                  : see مَخْلَفَةٌ.    </entryFree> <br>\
+<b>مُخْلِفٌ</b>               1     <br>\
+                     مُخْلِفٌ<br>\
+                     مخلف<br>\
+                   A camel <i>that has exceeded in age the</i> <br>\
+                  بَازِل; [which latter is generally <i>one that has entered the ninth year;</i>] (S, M, K;) beyond which there is no age [having an epithet to denote it]; therefore, (TA,) one says مُخْلِفُ عَامٍ and مُخْلِفُ <br>\
+                  عَامَيْنِ [<i>that has exceeded in age the</i> <br>\
+                  بازل <br>\
+                  <i>by a year</i> and <i>by two years</i>]; (S, TA; [see 4;]) applied alike to the male and the female; (S, K;) and the female is also termed مُخْلَفَةٌ: (K:) or this latter signifies (tropical:)  a she-camel <i>that appears,</i> (S, K,) or <i>is thought,</i> (A,) <i>to be pregnant, and is not pregnant:</i> (S, A, K:) and the pl. is مَخَالِيفُ. (TA.) ―         -b2-  See also مِخْلَافٌ. ―         -b3-  Also A man <i>whose cattle have not obtained the</i> [<i>herbage termed</i>] رَبِيع. (JK.) ―         -b4-  رَجُلٌ مُخْلِفٌ مُتْلِفٌ, or ↓ <br>\
+      مِخْلَفٌ <br>\
+                  مِتْلَفٌ, and مِتْلَافٌ ↓ <br>\
+      مِخْلَافٌ: see art. تلف. ―         -b5-  نَوْمَةُ الضُّحَى مُخْلِفَةٌ لِلْفَمِ, (K, TA,) also written ↓ <br>\
+      مَخْلَفَةٌ, and in some copies نَوْمُ الضُّحَى, [which requires the reading مَخْلَفَةٌ,] (TA,) i. e. [<i>The sleep,</i> or <i>sleeping, in the period of the morning when the sun is yet low is</i>] a cause of the mouth&#39;s <i>becoming altered</i> [<i>for the worse</i>] <i>in odour.</i> (K, TA.) ―         -b6-  مُخْلِفُ جَنْبٍ <br>\
+                  <i>Having one half of his face and of his mouth turning sideways.</i> (JK.) ―         -b7-  See also the explanation of the verse of El- Hoteiäh cited in the last quarter of the first paragraph. The قَطَا are termed مُخْلِفَاتٌ because they draw water for their young ones. (JK.)    </entryFree> <br>\
+<b>مِخْلَفٌ</b>               1     <br>\
+                     مِخْلَفٌ<br>\
+                     مخلف<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>مَخْلَفَةٌ</b>               1     <br>\
+                     مَخْلَفَةٌ<br>\
+                     مخلف<br>\
+                     مخلفه<br>\
+                     مخلفة<br>\
+                  : see مُخْلِفٌ.       -A2-  See also خَلِيفٌ, near the end of the paragraph. ↓ <br>\
+      المَخْلَفُ [as a coll. gen. n.] signifies <i>The roads along which the people pass in Minè;</i> (K) which are three: one says, اُطْلَبْهُ بِالمَخْلَفَةِ الوُسْطَى مِنْ مِنًى [<i>Seek thou him in the middle road of Minè</i>]. (TA.) And مَخْلَفَةٌ <br>\
+                  بَنِى فُلَانٍ <br>\
+                  <i>The place of alighting,</i> or <i>descending and stopping</i> or <i>sojourning</i> or <i>abiding</i> or <i>lodging</i> or <i>settling, of the sons of such a one.</i> (K, * TA.) And مَخْلَفَةُ مِنًى <br>\
+                  <i>The place of alighting,</i> or <i>descending and stopping</i> &amp;amp;c., <i>of the people in Minè.</i> (K.)       -A3-  <i>A place in which are trees of the kind called</i> <br>\
+                  خِلَاف. (S, K.)    </entryFree> <br>\
+<b>مَخْلَفَانُ البَلَدِ</b>               1     <br>\
+                     مَخْلَفَانُ البَلَدِ<br>\
+                     مخلفان البلد<br>\
+                  <i>The ruler,</i> or <i>sovereign,</i> (سُلْطَان,) <i>of the country;</i> as also ↓ <br>\
+      مِخْلَافُهُ. (TA.)    </entryFree> <br>\
+<b>مِخْلَافٌ</b>               1     <br>\
+                     مِخْلَافٌ<br>\
+                     مخلاف<br>\
+                   A man <i>who often breaks his promises;</i> (S, K;) as also ↓ <br>\
+      مُخْلِفٌ: (TA:) [whence the latter (which properly signifies simply <i>breaking a promise</i>) is applied to a star, or an asterism, as meaning (tropical:)  <i>Unattended with rain:</i> (see 4:) and in the same sense to clouds (سَحَاب): or, accord. to Freytag&#39;s Lex., in this or in the contr. sense.] ―         -b2-  See also مُخْلِفٌ. ―         -b3-  And see مَخْلَفَان.       -A2-  Also <i>A</i> <br>\
+                  كُورَة [i. e. <i>province, district,</i> or <i>region</i>] (S, Mgh, Msb) <i>pertaining to the people of El-Yemen,</i> (S,) or in the dial. of <i>El-Yemen;</i> (Mgh, Msb;) pl. مَخَالِيفُ; (S, Msb;) every مخلاف thereof having a [distinctive] name whereby it is known; (S;) the مخاليف of the people of El-Yemen being like the اَجْنَد of the people of Syria and the كُوَر of the people of El-&#39;Irák and the رَسَاتِيق of the people of El-Jibál and the طَسَاسِيج of the people of El-Ahwáz: (IB:) or مِخْلَافٌ signifies <i>a</i> <br>\
+                  كُورَة (JK, M, K) <i>to which a man comes;</i> (M;) [<i>in any country;</i>] and hence the مخاليف of ElYemen, (K,) i. e. its كُوَر: (TA:) some say that there is a مخلاف in every country; (Msb;) so says Khálid Ibn-Jembeh; (TA;) i. e. <i>a</i> <br>\
+                  نَاحِيَة [as meaning a <i>district</i> &amp;amp;c.]; (Msb;) and thus one says the مخلاف of El-Medeeneh, and of ElYemámeh, (Khálid Ibn-Jembeh, TA,) and the مخاليف of Et-Táïf: (AA, Msb, TA:) but properly it is peculiar to the dial. of El-Yemen. (TA.) ―         -b2-  Also <i>i. q.</i> <br>\
+                  بنكرد [a foreign word, and perhaps mistranscribed], i. e. The <i>poor-rate</i> of any particular people or party, which is given by them to [the poor of] their own community: so says Aboo-Mo&#39;ádh: (L:) and ↓ <br>\
+      مَخَالِفُ [is its pl., as also, app., مَخَالِيفُ, agreeably with rule, and] signifies the <i>poor-rates</i> of the Arabs; (JK, TA;) [as in the saying,] اُسْتُعْمِلَ فُلَانٌ عَلَى مَخَالِفِ بَنِى <br>\
+                  فُلَانٍ [<i>Such a one was employed as collector of the poor-rates of the sons of such a one</i>]. (JK.)    </entryFree> <br>\
+<b>مَخْلُوفٌ</b>               1     <br>\
+                     مَخْلُوفٌ<br>\
+                     مخلوف<br>\
+                  : see خَلِيفٌ: ―         -b2-  and اَخْلَفُ.       -A2-  Also A man <i>affected with a looseness,</i> or <i>diarrhœa.</i> (JK, TA.)    </entryFree> <br>\
+<b>مَخَالِفُ</b>               1     <br>\
+                     مَخَالِفُ<br>\
+                     مخالف<br>\
+                  : see مِخْلَافٌ, last sentence.    </entryFree> <br>\
+<b>مَخَالِيفُ</b>               1     <br>\
+                     مَخَالِيفُ<br>\
+                     مخاليف<br>\
+                     مخلاف<br>\
+                  : pl. of مِخْلَافٌ. (S, Msb, K, &amp;amp;c.)       -A2-  Also Camels <i>that have pastured upon fresh herbs,</i> or <i>leguminous plants, and have not fed upon dry herbage, and to which their pasturing upon the former has been of no avail.</i> (IAar, TA.)    </entryFree> <br>\
+<b>قَوْلٌ مُخْتَلِفٌ</b>               1     <br>\
+                     قَوْلٌ مُخْتَلِفٌ<br>\
+                     قول مختلف<br>\
+                   [<i>Discordant speech;</i>] <i>speech expressing different opinions.</i> (Bd and Jel in li. 8.) ―         -b2-  [طُرُقٌ مُخْتَلِفَةٌ <br>\
+                  <i>Roads leading in different directions.</i>]    </entryFree> <br>\
+<b>مُسْتَخْلِفٌ</b>               1     <br>\
+                     مُسْتَخْلِفٌ<br>\
+                     مستخلف<br>\
+                  : see خَالِفٌ, near the end of the paragraph. ―         -b2-  ذَهَبَ المُسْتَخْلِفُونَ يَسْتَقُونَ a saying mentioned by Lh as meaning <i>Those going before</i> [or <i>leaving others in their places</i>] <i>went away to draw water.</i> (TA.)   </entryFree> <br>\
+' } );

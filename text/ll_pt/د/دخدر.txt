@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>دخدر</em>            1                  دخدر<br>\
+<b>دَخْدَرَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     دَخْدَرَ<br>\
+                     دخدر<br>\
+                  <i>He gilded</i> an earring: (K:) from the noun following. (TA.)    </entryFree> <br>\
+<b>دَخْدَارٌ</b>               1     <br>\
+                     دَخْدَارٌ<br>\
+                     دخدار<br>\
+                  <i>A white,</i> (S, K,) or <i>black,</i> (K,) <i>garment,</i> or <i>piece of cloth,</i> (S, K,) <i>which is laid up, or preserved</i> [<i>in a chest, or wardrobe,</i> whence its name]: (S:) an arabicized word, originally تَخْتْ دَارْ, (S, K,) which is Persian, and means يُمْسِكُهُ التَّخْتُ, i. e. ذُو تَخْتٍ. (S.) [Golius, app. misled by the words اصل تخت دار است, in the KL of Ibn-Maaroof, probably corrupted in the copy of that work used by him, adds to the explanation “ pannus albus ” &amp;amp;c., as from the work above mentioned, “ qui throno Regis Persici quondam insterni solebat: inprimis Darii. ”] ―         -b2-  Also <i>Gold;</i> (K;) because preserved in chests. (TA.)   </entryFree> <br>\
+' } );

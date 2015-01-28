@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>وخف</em>            1                  وخف<br>\
+<b>وَخَفَهُ</b>               1     <br>\
+                     وَخَفَهُ<br>\
+                     ذ<br>\
+                  <i>He beat it</i> (namely خِطْمِىّ, IDrd, K, and in like manner سَوِيق, IDrd) <i>with his hand, and moistened it in a</i> <br>\
+                  طشت [or <i>basin</i>], (TA,) <i>until it became viscous,</i> or <i>cohesive,</i> (K, TA,) <i>and became</i> [<i>fit for</i>] <i>food;</i> (TA;) as also ↓ <br>\
+      اَوْخَفَهُ (K) and ↓ <br>\
+      وَخَّفَهُ. (TA.)    </entryFree> <br>\
+                     وَخَّفَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اَوْخَفَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

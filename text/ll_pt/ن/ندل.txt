@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>ندل</em>            1                  ندل<br>\
+<b>تَنَدَّلَ</b>               1     <br>\
+                     تَنَدَّلَ<br>\
+                     ذ<br>\
+                  <i>He bound a</i> <br>\
+                  دَسْتَار [or مِنْدِيل i. e. <i>napkin</i> or <i>the like</i>] <i>upon his head.</i> (KL.) And بِمِنْدِيلٍ ↓ <br>\
+      تَمَنْدَلَ <br>\
+                  <i>He bound a</i> <br>\
+                  منديل <br>\
+                  <i>upon his head.</i> (Mgh.)    </entryFree> <br>\
+<b>تَمَنْدَلَ بِرَايِطَةٍ</b>               1     <br>\
+                     <i>Q. Q. 2</i>        <br>\
+                     تَمَنْدَلَ بِرَايِطَةٍ<br>\
+                     ذ<br>\
+                  <i>He used a</i> <br>\
+                  رايطة [or ريْطَة] <i>as a</i> <br>\
+                  مِنْدِيل. (TA in art. ريط from a trad.) ―         -b2-  See 5.    </entryFree> <br>\
+<b>مِنْدَلٌ</b>               1     <br>\
+                     مِنْدَلٌ<br>\
+                     ذ<br>\
+                   app., <i>Hard steel</i> (ذَكَرٌ صُلْبٌ, <i>not penis rigens</i>). (K.) See ذَكَرٌ.   </entryFree> <br>\
+' } );

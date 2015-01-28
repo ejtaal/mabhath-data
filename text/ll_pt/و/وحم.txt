@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وحم</em>            1                  وحم<br>\
+<b>وَحَمِتْ</b>               1     <br>\
+                     وَحَمِتْ<br>\
+                     ذ<br>\
+                  <i>She was incompliant to the male:</i> see an ex. voce شَغَبَ.   </entryFree> <br>\
+' } );

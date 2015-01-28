@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>طربل</em>            1                  طربل<br>\
+<b>طَرْبَلَ بَوْلَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     طَرْبَلَ بَوْلَهُ<br>\
+                     ذ<br>\
+                  <i>He extended</i> [or <i>emitted</i>] <i>his urine upwards.</i> (S, O, K.) ―         -b2-  And طَرْبَلَ <br>\
+                  <i>He dragged his skirt, and walked with a proud and self-conceited gait, stretching out his arms.</i> (O.)    </entryFree> <br>\
+<b>طِرْبَالٌ</b>               1     <br>\
+                     طِرْبَالٌ<br>\
+                     ذ<br>\
+                  <i>A high portion of a wall;</i> (S, O;) whence the saying, in a trad., that when any one passes by a leaning طربال, he should quicken his pace: (O:) <i>it resembles a</i> <br>\
+                  مَنْظَرَة <br>\
+                  <i>of the</i> <br>\
+                  مَنَاظِر <br>\
+                  <i>of the &#39;Ajam, being in form like a</i> <br>\
+                  صَوْمَعَة [q. v.]: (AO, O, TA:) or <i>a sign of the way, constructed</i> (O, K) <i>upon a mountain:</i> (O:) and (O, K) accord. to IDrd, (O,) <i>a portion of a mountain,</i> and <i>of a wall, elongated in form towards the sky,</i> (O, K,) <i>and inclining:</i> (O:) and <i>any high building:</i> (K:) [and this seems to be meant by what here next follows:] accord. to IAar, <i>a high,</i> or <i>an overtopping,</i> or <i>overlooking,</i> <br>\
+                  هَدَف: (TA:) and, (S, O, K,) as some say, (O,) <i>a great, high,</i> or <i>overtopping, rock</i> (S, O, K) <i>of a mountain:</i> (S, K:) ISh says that it is <i>a structure erected as a sign for horses to run thereto in a race, and one kind thereof is like the</i> <br>\
+                  مَنَارَة [q. v.]: Fr, that it signifies <i>a</i> <br>\
+                  صَوْمَعَة [q. v.]: (TA:) and [it is said that] the طَرَابيل of Syria are <i>its</i> <br>\
+                  صَوَامِع. (S, O, K.) Az mentions his having heard [the pl.] طَرَابِيلُ, and عَرَازِيلُ likewise, applied to <i>Booths constructed of palm-branches, in which the watchers of the palm-trees shelter themlseves from the sun.</i> (TA.)    </entryFree> <br>\
+<b>طِرْبِيلٌ</b>               1     <br>\
+                     طِرْبِيلٌ<br>\
+                     ذ<br>\
+                   [perhaps from the Latin “ tribula ” or “ tribulum ”] The [<i>machine,</i> or <i>drag, called</i>] نَوْرَج [q. v.] <i>with which the heap of corn is thrashed.</i> (Ibn-&#39;Abbád, O, K.)    </entryFree> <br>\
+<b>جَرَّةٌ مُطَرْبَلَةُ الجَوَانِبِ</b>               1     <br>\
+                     جَرَّةٌ مُطَرْبَلَةُ الجَوَانِبِ<br>\
+                     ذ<br>\
+                  <i>A jar long in the sides.</i> (Sh, TA.)   </entryFree> <br>\
+' } );

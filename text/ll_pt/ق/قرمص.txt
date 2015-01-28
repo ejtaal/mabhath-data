@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قرمص</em>            1                  قرمص<br>\
+<b>قُرْمُوصٌ</b>               1     <br>\
+                     قُرْمُوصٌ<br>\
+                     ذ<br>\
+                  <i>A hollow which a man digs wherein to sit to protect himself from the cold.</i> (Mgh, art. ربض.) See an ex. voce رَبَضٌ.   </entryFree> <br>\
+' } );

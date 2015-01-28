@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>شع.</em>            1                  شع.<br>\
+<b>اشعى القَوْمُ الغَارَةَ</b>               1     <br>\
+                     اشعى القَوْمُ الغَارَةَ<br>\
+                     ذ<br>\
+                  , (S, K,) inf. n. اـِشْعَا=ءٌ, (S,) <i>The people,</i> or <i>party, spread,</i> or <i>dispersed, themselves,</i> or <i>their horsemen, in the hostile,</i> or <i>predatory, incursion;</i> syn. اَشْعَلُوهَا. (S, K.)       -A2-  And اشعى بِهِ, (K,) inf. n. as above, (TA,) <i>He was,</i> or <i>became, grieved,</i> or <i>disquieted, by it;</i> syn. اِهْتَمَّ. (Ibn-Habeeb, Sgh, K.)    </entryFree> <br>\
+<b>غَارَةٌ شَعْوَا=ءُ</b>               1     <br>\
+                     غَارَةٌ شَعْوَا=ءُ<br>\
+                     ذ<br>\
+                  <i>A raid,</i> or <i>hostile</i> or <i>predatory incursion, spreading widely and dispersedly.</i> (S, K. *) [See an ex. in the last of the verses cited voce رُبَّ.] ―         -b2-  And شَجَرَةٌ شَعْوَا=ءُ <br>\
+                  <i>A tree having spreading branches.</i> (ISd, K.)    </entryFree> <br>\
+<b>جَا=ءَتِ الخَيْلُ شَوَاعِىَ</b>               1     <br>\
+                     جَا=ءَتِ الخَيْلُ شَوَاعِىَ<br>\
+                     ذ<br>\
+                  , (S, K,) and شَوَايِعَ, from which شواعى is [said to be] formed by transposition, (S,) <i>The horsemen came scattered,</i> or <i>dispersed,</i> or <i>in a state of dispersion.</i> (S, K.)   </entryFree> <br>\
+' } );

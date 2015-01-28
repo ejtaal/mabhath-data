@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>جعمس</em>            1                  جعمس<br>\
+               </head> Q. accord. to the K, but Q. Q. accord. to Sgh, جَعْمَسَ: see art. جعس.    <br>\
+<b>جُعْمُوسٌ</b>  1     <br>\
+                     جُعْمُوسٌ<br>\
+                     جعموس<br>\
+                  : see art. جعس.    </entryFree> <br>\
+<b>جُعَامِسٌ</b>               1     <br>\
+                     جُعَامِسٌ<br>\
+                     جعامس<br>\
+                  : see art. جعس.    </entryFree> <br>\
+<b>مُجَعْمِسٌ</b>               1     <br>\
+                     مُجَعْمِسٌ<br>\
+                     مجعمس<br>\
+                  : see art. جعس.   </entryFree> <br>\
+' } );

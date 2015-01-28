@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>هلم</em>            1                  هلم<br>\
+<b>هَلُمَّ</b>               1     <br>\
+                     هَلُمَّ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  نَعَالَ <br>\
+                  <i>Come.</i> (S, K, &amp;amp;c.) ―         -b2-  It is intrans.; as in هَلُمَّ اـِلَيْنَا <br>\
+                  <i>Come to us.</i> And tran also; as in هَلُمَّ شُهَدَا=ءَ كُمْ <br>\
+                  <i>Cause your witnesses to come; bring your witnesses.</i> (Msb.) ―         -b3-  هَلُمَّ <br>\
+                  جَرًّا <br>\
+                  <i>At thine ease:</i> see 1 in art. جر.   </entryFree> <br>\
+' } );

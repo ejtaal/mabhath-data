@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'قضم1<br>\
+قَضِمَ<br>\
+He crunched, nibbled or gnawed?<br>\
+See خَضِمَ: and see also Freytag&#39;s Arab. Prov.<br>\
+ii. 245.<br>\
+قَضَامٌ<br>\
+: see خُضَامَةٌ.<br>\
+مَقْضَمٌ<br>\
+: see خُضَامَةٌ.<br>\
+قَضِيمٌ<br>\
+as meaning A skin &amp;c. has for pl. أَقْضِمَةٌ<br>\
+[a pl. of pauc.] and قُضُمٌ, and قُضْمٌ, accord. to Sb,<br>\
+is a quasi-pl. n., (TA,) and قَضَمٌ is a pl. [or<br>\
+quasi-pl. n.] thereof as meaning a white skin<br>\
+upon which one writes. (S, K.) See an ex. of<br>\
+قُضُمٌ voce عَسِيبٌ.<br>\
+' } );

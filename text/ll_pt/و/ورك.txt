@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ورك</em>            1                  ورك<br>\
+<b>وَرِكٌ</b>               1     <br>\
+                     وَرِكٌ<br>\
+                     ذ<br>\
+                  <i>What is above the thigh;</i> [the <i>haunch;</i> or <i>hip;</i> and often signifying only the <i>hip-bone;</i> and the <i>hip</i> as meaning the <i>joint of the thigh?</i>] (S, K, &amp;amp;c.)    </entryFree> <br>\
+<b>مَوْرِكٌ</b>               1     <br>\
+                     مَوْرِكٌ<br>\
+                     ذ<br>\
+                   of a camel&#39;s saddle: see 8 in art. عقل.   </entryFree> <br>\
+' } );

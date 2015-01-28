@@ -1,0 +1,47 @@
+load_data( { book: 'll_nvd', text: 'حيس1<br>\
+حَاسَ, aor. يَحِيسُ, inf. n. حَيْسٌ, He mixed<br>\
+[a thing or things]. (S, A, K; but in this sense,<br>\
+only the inf. n. is mentioned.) ―<br>\
+-b2-  He made, or<br>\
+prepared, what is called حَيْس: (S, Msb, K:)<br>\
+and ↓ حيّس, inf. n. تَحْيِيسٌ, he mixed and prepared what is so called. (TA.)<br>\
+2<br>\
+حَيَّسَ see above.<br>\
+حَيْسٌ, originally an inf. n., (Msb,) Dates mixed<br>\
+with clarified butter and [the preparation of<br>\
+dried curd called] أَقِط, (S, A, Mgh, K,) and<br>\
+kneaded (A, K) vehemently, (A,) or rubbed and<br>\
+pressed with the hand until they mingle together,<br>\
+(Mgh,) whereupon their stones come forth; (K;)<br>\
+and sometimes سَوِيق [or meal of parched barley<br>\
+or wheat] is put into it; (A, K;) and a little<br>\
+crumbled bread instead of the اقط: (TA:) or<br>\
+dates, of the kind called بَرْنِىّ, and اقط, bruised<br>\
+together, and kneaded vehemently with clarified<br>\
+butter until the stones come forth from it one<br>\
+by one, and then made like ثَرِيد: it is the same<br>\
+as وَطْبَةٌ, except that حيس sometimes has سويق<br>\
+put in it, but وطبة has not: (L:) or dates of<br>\
+which the stones have been taken out, bruised<br>\
+with اقط, and then kneaded, and rubbed and<br>\
+pressed with the hand until the whole becomes<br>\
+like ثريد; and sometimes سويق is put with it:<br>\
+(Msb:) accord. to Ibn-Waddáh El-Andalusee,<br>\
+dates of which the stones have been taken out,<br>\
+mixed with سويق; but this is not known, (MF,<br>\
+TA,) because of the deficiency of the ingredients:<br>\
+(TA:) Hr is related to have described it as a<br>\
+ثَرِيدَة composed of أَخْلَاط [or various mixtures].<br>\
+(TA.) A rájiz says,<br>\
+اَلتَّمْرُ وَالسَّمْنُ مَعًاثّمَّ الأَقِطْ<br>\
+اَلْحَيْسُ إِلَّا أَنَّهُ لَمْ يَخْتَلِطْ<br>\
+[Dates and clarified butter together, then اقط,<br>\
+are حيس, except that it is not yet mixed]: (S,<br>\
+MF, TA:) from which it might be understood,<br>\
+that these components, when mixed, are not<br>\
+حيس: but this is the contrary of what is meant:<br>\
+(MF:) the meaning seems to be, that these<br>\
+three things, when brought, are virtually حيس,<br>\
+as being the materials thereof, though not mixed.<br>\
+(TA.)<br>\
+' } );

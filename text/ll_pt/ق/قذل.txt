@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>قذل</em>            1                  قذل<br>\
+<b>الفَذَالُ</b>               1     <br>\
+                     الفَذَالُ<br>\
+                     ذ<br>\
+                  <i>The whole of the back of the head:</i> (S, Msb, K:) or the <i>part from the hollow of the back of the neck</i> (نُقْرَة القَفَا) <i>to the ear:</i> (ElGhooree, Mgh:) [see القَمَحْدُوَةُ in art. قحد:] and, in a horse, <i>the place where the</i> <br>\
+                  عِذَار <br>\
+                  <i>is tied, behind the forelock.</i> (S, Msb, K.)   </entryFree> <br>\
+' } );

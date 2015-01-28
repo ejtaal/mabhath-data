@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'فغفورفَغْفُورِىٌّ [China-ware, or porcelain,] the [sort<br>\
+of] خَزَف that is brought from China; so called<br>\
+from فَغْفُور, [the title of] the king of China:<br>\
+vulgarly فَرْفُورِى. (TA in art. فر.)<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>فولاذ</em>            1                  فولاذ<br>\
+<b>فُولَاذٌ</b>               1     <br>\
+                     فُولَاذٌ<br>\
+                     ذ<br>\
+                  : see art. فلذ.   </entryFree> <br>\
+' } );

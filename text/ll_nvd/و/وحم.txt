@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'وحم1<br>\
+وَحَمِتْ<br>\
+She was incompliant to the male:<br>\
+see an ex. voce شَغَبَ.<br>\
+' } );

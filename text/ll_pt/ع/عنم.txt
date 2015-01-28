@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>عنم</em>            1                  عنم<br>\
+<b>اعنم</b>               1     <br>\
+                     اعنم<br>\
+                     ذ<br>\
+                  <i>He pastured upon,</i> or <i>depastured, the species of tree called</i> <br>\
+                  عَنَم. (AA, K, * TA.)    </entryFree> <br>\
+<b>عَنَمٌ</b>               1     <br>\
+                     عَنَمٌ<br>\
+                     ذ<br>\
+                  <i>A certain tree of El-Hijáz, having a red fruit, to which are likened the dyed fingers</i> or <i>ends of fingers:</i> (IAar, K:) in the “ Nawádir ” said to be <i>sappy,</i> or <i>tender, branches, that grow upon the trunks of the</i> [<i>trees called</i>] عِضَاه, <i>not resembling the other branches thereof, red in colour, the upper parts of the blossoms of which divide into four divisions, like a branch of an</i> <br>\
+                  اَرَاكَة [n. un. of اَرَاكٌ, q. v.]; <i>coming forth in winter and in summer:</i> (IDrd, TA:) or <i>a species of trees having tender branches, to which are likened the fingers,</i> or <i>the ends of the fingers, of girls,</i> or <i>young women:</i> (S:) in the “ Book of Plants ” [of AHn] said to be <i>a small tree that grows in the midst,</i> or <i>interior part, of the</i> <br>\
+                  سَمُرَة [or <i>gum-acacia-tree</i>], <i>having a red fruit:</i> (TA:) or, accord. to AA, the [<i>fruit called</i>] زُعْرُور [q. v.]: (TA, and so in a copy of the S:) or, (S, K, TA,) as AO says, (S, TA,) the <i>extremities of the Syrian</i> <br>\
+                  خَرُّوب [or <i>locust-tree</i>]: (S, K, TA:) and he says that a verse of En-Nábighah is recited thus: <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        بِمُخَضَّبٍ رَخْصٍ كَاَنَّ بَنَانَهُ<br>\
+                     <L><br>\
+                        عَنَمٌ عَلَى اَغْصَانِهِ لَمْ يُعْقَدِ<br>\
+                  </quote> [<i>With a dyed</i> member (عُضْوٍ being understood, instead of كَفٍّ, because the latter is fem.,) <i>soft,</i> or <i>tender, as though its fingers,</i> or <i>its fingers&#39; ends, were &#39;anam upon their branches, not yet compactly organized</i>]; which shows that it means a plant, not a worm: (S, TA:) [for] it is said to signify a <i>species of red worm, found in sand:</i> (Ham p. 288, in which are other explanations, nearly agreeing with some here:) or, as some say, the <i>fruit of the</i> <br>\
+                  عَوْسَج [or <i>box-thorn</i>], which is red, and then becomes black when thoroughly ripe; therefore En-Nábighah says لَمْ يُعْقَد, meaning <i>that had not yet become ripe:</i> (IB, TA; and also inserted in the text of a copy of the S:) and, (K, TA,) as AHn says in one instance, (TA,) <i>threads</i> [or <i>tendrils</i>] <i>by means of which the vine clings to its trellises:</i> (K, TA:) and (accord. to Lth, TA) the <i>thorns of the</i> <br>\
+                  طَلْح [or <i>acacia gummifera</i>]; (K, TA;) but this is said by Az to be incorrect: (TA:) [see also a hemistich cited voce طَرَفٌ:] the n. un. is ↓ <br>\
+      عَنَمَةٌ. (K.)    </entryFree> <br>\
+<b>عَنَمَةٌ</b>               1     <br>\
+                     عَنَمَةٌ<br>\
+                     ذ<br>\
+                  : see what immediately precedes.       -A2-  Also <i>A species of the</i> [<i>sort of lizard called</i>] وَزَغ; (K, TA;) accord. to Lth; but this is rejected, as incorrect, by Az: it is said to be <i>like the</i> <br>\
+                  عَظَاية, <i>except that it is more white and more comely.</i> (TA.)       -A3-  Also, (accord. to copies of the K,) or عَنْمَةٌ, (accord. to the TA,) <i>A fissure in the lip of a human being.</i> (K.)    </entryFree> <br>\
+<b>عَنَمِىٌّ</b>               1     <br>\
+                     عَنَمِىٌّ<br>\
+                     ذ<br>\
+                   A <i>beautiful red</i> face; (K, TA;) <i>tinged over with redness.</i> (TA.)    </entryFree> <br>\
+<b>عَيْنُومٌ</b>               1     <br>\
+                     عَيْنُومٌ<br>\
+                     ذ<br>\
+                   The <i>male frog.</i> (K.)    </entryFree> <br>\
+<b>بَنَانٌ مُعَنَّمٌ</b>               1     <br>\
+                     بَنَانٌ مُعَنَّمٌ<br>\
+                     ذ<br>\
+                   [<i>Fingers,</i> or <i>fingers&#39; ends,</i>] <i>dyed,</i> or <i>tinged</i> [with hinnà or the like]. (IJ, S, K.)   </entryFree> <br>\
+' } );

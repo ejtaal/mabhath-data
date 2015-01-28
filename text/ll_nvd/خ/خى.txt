@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'خى2<br>\
+خَيَّيْتُ خَآءً I wrote a خ. (JK, TA.)<br>\
+[<br>\
+خُيَيَّةٌ. dim. of خَآءٌ, q. v. in art. خوأ.]<br>\
+' } );

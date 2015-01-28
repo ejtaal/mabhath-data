@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>زنخ</em>            1                  زنخ<br>\
+<b>زَنِخَ</b>               1     <br>\
+                     زَنِخَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     زَنَخَ<br>\
+                   (S, K,) inf. n. زَنَخٌ, (S,) said of oil, (S K,) and clarified butter, (JK, L,) and food, (L,) <i>It was,</i> or <i>became, altered</i> [<i>for the worse</i>] (S, K, TA) <i>in odour;</i> (TA;) [<i>stinking, rancid,</i>] <i>bad,</i> or <i>corrupt;</i> like سَنِخَ. (JK.) ―         -b2-  And, said of a lamb, or kid, <i>He raised his head in sucking, by reason of choking,</i> or <i>of dryness of the fauces.</i> (K.)    </entryFree> <br>\
+<b>زَنِخٌ</b>               1     <br>\
+                     زَنِخٌ<br>\
+                     ذ<br>\
+                  , applied to oil, (S, K,) and clarified butter, and food, (L,) <i>Altered</i> [<i>for the worse</i>] (S, K, TA) <i>in odour;</i> (TA;) [<i>stinking, rancid, bad,</i> or <i>corrupt;</i> like سَنِخٌ: see 1.] ―         -b2-  اـِبِلٌ زَنِخَةٌ <br>\
+                  <i>Camels having their bellies straitened, by reason of thirsting</i> (Kr, K, TA) <i>time after time.</i> (Kr, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ومت</em>            1                  ومت<br>\
+<b>شَىْءٌ مَوْمُوتٌ</b>               1     <br>\
+                     شَىْءٌ مَوْمُوتٌ<br>\
+                     ذ<br>\
+                  <i>A thing that is known, and decided,</i> or <i>determined;</i> syn. مَعْرُوفٌ مُقَدَّرٌ. (K.)   </entryFree> <br>\
+' } );

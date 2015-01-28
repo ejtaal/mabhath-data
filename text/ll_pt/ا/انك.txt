@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>انك</em>            1                  انك<br>\
+<b>ا=نُكٌ</b>               1     <br>\
+                     ا=نُكٌ<br>\
+                     ا=نك<br>\
+                  <i>pure</i> <br>\
+                  رَصَاص [or <i>lead</i>]: or <i>black</i> <br>\
+                  رِصِاص: (Msb:) <i>i. q.</i> <br>\
+                  اُسْرُبُّ; (S, K;) i. e. رَصَاصٌ قَلْعِىٌّ; so says Kt; and Az says, I think it is an arabicized word: (TA:) or <i>white</i> <br>\
+                  اسربّ: or <i>black</i> <br>\
+                  اسربّ: or <i>pure</i> <br>\
+                  اسربّ: (K:) or <i>i. q.</i> <br>\
+                  قَزْدِيرٌ [which is applied in the present day to <i>tin,</i> and <i>pewter</i>]: (Kr:) El-Kásim Ibn-Maan says, I heard an Arab of the desert say, هٰذَا رَصَاصٌ ا=نُكٌ, i. e. [<i>this is</i>] <i>pure</i> [<i>lead</i>]: (TA:) it is of the measure اَفْعُلٌ, [originally اَاْنُكٌ,] (S, K,) which is one of the forms of pls., (S,) like اَفْلُسٌ; (Msb;) and there is no other word of this measure, (Az, S, K,) among sing. nouns, (Az, S,) except اَشُدٌّ [originally اَشْدُدٌ], (S, Sgh, K,) and ا=جُرٌ in the dial. of those who pronounce it without teshdeed: (Sgh:) it is disputed, however, whether اَشُدٌّ be a sing. or a pl.: (Az, TA:) [and as to ا=جُرٌ, see what follows:] or, accord. to some, (Msb,) ا=نُكٌ is of the measure فَاعُلٌ, (Kr, Msb,) and is the only word of that measure in Arabic: (Kr:) or it is a foreign word; and so are ا=جُرٌ and [the proper names] ا=مُلُ and كَابُلُ. (Msb.) It is said, in a trad., that he who listens to a singing female slave, ا=نُك shall be poured into his ears (S, TA) on the day of resurrection. (TA.)   </entryFree> <br>\
+' } );

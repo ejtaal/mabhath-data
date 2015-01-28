@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قوق</em>            1                  قوق<br>\
+<b>قَاقٌ</b>               1     <br>\
+                     قَاقٌ<br>\
+                     ذ<br>\
+                  : see فَاقٌ, in two places. ―         -b2-  القَافُ المَقْعُودَةٌ: see art. قعد.    </entryFree> <br>\
+<b>قُوقٌ</b>               1     <br>\
+                     قُوقٌ<br>\
+                     ذ<br>\
+                  : see فَاقٌ.   </entryFree> <br>\
+' } );

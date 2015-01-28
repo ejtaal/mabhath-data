@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>كربس</em>            1                  كربس<br>\
+<b>كِرْبَاسٌ</b>               1     <br>\
+                     كِرْبَاسٌ<br>\
+                     ذ<br>\
+                  <i>A coarse garment</i> or <i>pieces of cloth:</i> (Msb:) or <i>coarse garments</i> or <i>pieces of cloth:</i> (S: [but this explanation is omitted in some copies:]) or <i>a garment</i> or <i>piece of cloth of white cotton:</i> (K:) and so كِرْبَاسَةٌ: (TA:) or the latter is a more particular term: (S:) [i. e., the former is a coll. gen. n., and the latter is the n. un.:] a Persian word arabicized; (S, Msb, K;) originally with fet-h, [كَرْبَاس,] altered because of the rareness of the measure فَعْلَالٌ, (K,) in the cases of words not reduplicative: (TA:) [or from        <br>\
+      <orth lang=&quot;he&quot;>כְּרֻבִים</orth>, (see Est. i. 6,) whence also كُرْفُسٌ, and        <br>\
+      <orth lang=&quot;gr&quot;>κάρπασος</orth>, and carbasus:] pl. كَرَابِيسُ. (S, Msb.)    </entryFree> <br>\
+<b>كَرَابِيسِىٌّ</b>               1     <br>\
+                     كَرَابِيسِىٌّ<br>\
+                     ذ<br>\
+                  <i>A seller of</i> <br>\
+                  كَرَابِيس: (Msb:) a rel. n., app. likened to انْصَارِىٌّ; for otherwise, by rule, it should be كِرْبَاسِىٌّ. (Lth, K.)   </entryFree> <br>\
+' } );

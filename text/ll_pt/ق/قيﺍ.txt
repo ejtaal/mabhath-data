@@ -1,0 +1,50 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;قيا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  قيا<br>\
+&lt;entryFree id=&quot;n36423&quot; key=&quot;قَا=ءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     قَا=ءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَقِىْءُ, inf. n. قَىْءٌ, (S, Mgh, O, Msb, &lt;pb n=&quot;2576&quot; TEIform=&quot;pb&quot;/&gt; K, &amp;amp;c.,) &lt;i&gt;He vomited&lt;/i&gt; (Mgh, TA) what he had eaten. (Mgh, Msb, TA.) ―         -b2-  [Hence one says,] قَا=ءَ نَفْسَهُ [lit. &lt;i&gt;He vomited his soul&lt;/i&gt;], meaning (assumed tropical:)  &lt;i&gt;he died:&lt;/i&gt; like لَفَظَ نَفْسَهُ. (A, TA.) And قَا=ءَتِ الطَّعْنَةُ <br>\
+                  الدَّمَ (assumed tropical:)  [&lt;i&gt;The wound made with a spear&lt;/i&gt; or &lt;i&gt;the like spouted forth the blood&lt;/i&gt;]. (A, TA.) And ثَوْبٌ <br>\
+                  يَقِىْءُ الصِبْغَ (assumed tropical:)  &lt;i&gt;A garment that is saturated with the dye.&lt;/i&gt; (S, A, O, K.) And تَقِىْءُ الاَرْضُ اَفْلَاذَ كَبِدِهَا [lit. &lt;i&gt;The earth will vomit the pieces of her liver&lt;/i&gt;], meaning (tropical:)  &lt;i&gt;the earth will cast forth upon her surface her treasures.&lt;/i&gt; (TA, from a trad.) And قَا=ءَتِ الاَرْضُ اُكُلَهَا [lit. &lt;i&gt;the earth vomited her food&lt;/i&gt;], meaning (tropical:)  &lt;i&gt;the earth disclosed her herbage and her treasures.&lt;/i&gt; (TA, from a saying of &#39;Áïsheh.) And الاَرْضُ تَقِىْءُ النَّدَى (tropical:)  [&lt;i&gt;The earth exudes the moisture&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36424&quot; key=&quot;قيّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     قيّاهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He,&lt;/i&gt; (a man, S, Mgh, O, Msb,) or &lt;i&gt;it,&lt;/i&gt; (medicine, K,) &lt;i&gt;caused him to vomit;&lt;/i&gt; (S, * Mgh, O, * Msb, K; *) and ↓ <br>\
+      اقا=ءهُ signifies the same. (S, O, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَقْيَاَ<br>\
+                  &lt;/form&gt; see what immediately precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36425&quot; key=&quot;تقيّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تقيّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He constrained himself to vomit;&lt;/i&gt; (S, Mgh, O, Msb, TA;) and &lt;i&gt;he vomited intentionally.&lt;/i&gt; (TA.) See also 10, in two places.       -A2-  And تَقَيَّاَتْ <br>\
+                  &lt;i&gt;She addressed,&lt;/i&gt; or &lt;i&gt;presented, herself to her husband, and threw herself upon him:&lt;/i&gt; (K:) or, accord. to Lth, &lt;i&gt;she affected languor,&lt;/i&gt; or &lt;i&gt;languidness, to her husband, and threw herself upon him:&lt;/i&gt; but in the opinion of Az, the verb with ق in this sense is a mistranscription, and is correctly تفيّات, [q. v.,] with ف. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36426&quot; key=&quot;استقا=ء&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استقا=ء<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Mgh, Msb, K, TA,) or استقيَاَ, (thus in the O, in which the former is not mentioned, [and it seems from an ex. in a verse there cited that this may be a dial. var.,]) and ↓ <br>\
+      تقيّا, (S, Mgh, O, Msb, K, TA,) &lt;i&gt;He constrained himself to vomit:&lt;/i&gt; (S, Mgh, O, Msb: [see the latter verb above: in the K neither is expl.:]) or the former is an instance of اِسْتَفْعَلَ from القَىْءُ [i. e. it signifies &lt;i&gt;he desired to vomit&lt;/i&gt;]: and ↓ the latter signifies more than the former, i. e. &lt;i&gt;he made what was in the&lt;/i&gt; <br>\
+                  جَوْف [here meaning &lt;i&gt;stomach&lt;/i&gt;] &lt;i&gt;to come forth, intentionally.&lt;/i&gt; (TA.) It is said in a trad., لَوْ يَعْلَمُ الشَّارِبُ قَايِمًا مَا ذَا عَلَيْهِ لَاْسْتَقَا=ءَ مَا شَرِبَ [&lt;i&gt;If the person drinking in a standing posture knew what would be the effect upon him, he would desire to vomit what he had drunk:&lt;/i&gt; for the drinking and the eating in that posture are forbidden in more than one trad.]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36427&quot; key=&quot;قَىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قَىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; originally an inf. n.: then applied to signify &lt;i&gt;Vomit;&lt;/i&gt; i. e. &lt;i&gt;vomited food.&lt;/i&gt; (Msb.) It is said in a trad., الرَّاجِعُ فِى هِبَتِهِ كَالرَّاجِعِ فِى قَيْيِهِ [&lt;i&gt;He who takes back his gift is like him who swallows back his vomit&lt;/i&gt;]. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36428&quot; key=&quot;قُيَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قُيَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a subst. (K, TA) similar to عُطَاسٌ and دُوَارٌ [and many other words of the same form applied to maladies; indicating that it signifies &lt;i&gt;A complaint that causes much,&lt;/i&gt; or &lt;i&gt;frequent, vomiting&lt;/i&gt;]. (TA.) One says, بِهِ قُيَا=ءٌ, meaning [&lt;i&gt;In him is a complaint in consequence of which&lt;/i&gt;] &lt;i&gt;he is vomiting much,&lt;/i&gt; or &lt;i&gt;frequently.&lt;/i&gt; (ISk, S, O.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36429&quot; key=&quot;قَيُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قَيُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One (a man, IAar) &lt;i&gt;who vomits much,&lt;/i&gt; or &lt;i&gt;frequently;&lt;/i&gt; as also قَيُوٌّ; (IAar, K, TA;) the latter formed from the former, like مَقْرُوٌّ from مَقْرُوْءٌ. (L, TA.) ―         -b2-  Also, [دَوَا=ءٌ قَيُوْءٌ,] &lt;i&gt;Medicine that is taken to cause vomiting;&lt;/i&gt; (ISk, S, O;) and so ↓ <br>\
+      دَوَا=ءٌ مُقَيِّيٌ (K, TA) and ↓ <br>\
+      مُقِىْءٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36430&quot; key=&quot;مُقِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُقِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مُقَيِّيٌ: see what immediately precedes.   &lt;/entryFree&gt; <br>\
+' } );

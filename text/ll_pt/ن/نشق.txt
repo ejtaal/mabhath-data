@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>نشق</em>            1                  نشق<br>\
+                     تَنَشَّقَ<br>\
+                   see 10.    </entryFree> <br>\
+<b>اِسْتَنْشَقَ الرِّيحَ</b>               1     <br>\
+                     اِسْتَنْشَقَ الرِّيحَ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  [<i>He snuffed the wind</i>]: (TA, art. مخر:) <i>he snuffed, scented,</i> or <i>smelt, the wind;</i> as also ↓ <br>\
+      تَنَشَّقَهَا. (Msb.) See 10 in art. شم.    </entryFree> <br>\
+<b>نُشَاقَةٌ</b>               1     <br>\
+                     نُشَاقَةٌ<br>\
+                     ذ<br>\
+                  <i>What is taken</i> [or <i>ladled out</i>], <i>while hot, from a cooking-pot.</i> (TA.)   </entryFree> <br>\
+' } );

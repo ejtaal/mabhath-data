@@ -1,0 +1,34 @@
+load_data( { book: 'll_nvd', text: 'وخز1<br>\
+وَخَزَهُ, (S, A, Msb,) aor. يَخِزْهُ, (Msb,) inf.<br>\
+n. وَخْزٌ (S, A, Msb, K) He pierced, stabbed, or<br>\
+pricked him, with a spear, (S, A, Msb, K,) or<br>\
+other thing, (K,) or with the like of a spear, as<br>\
+a dagger, (S,) and a needle, (A, Msb,) &amp;c.,<br>\
+(Msb,) not making the instrument to pass through:<br>\
+(S, A, Msb, K:) or, as some say, he did so<br>\
+making the instrument to pass through: in a<br>\
+trad., the plague (الطَّاعُون) is said to be a وَخْز<br>\
+inflicted by jinn, or genii; and the word in this<br>\
+instance is explained by some agreeably with<br>\
+the former rendering, and by some agreeably<br>\
+with the latter: or وَخْزٌ signifies a slight piercing,<br>\
+and is like a goading: so accord. to Khálid<br>\
+Ibn-Jembeh, who uses the expression وَخَزَ فِى<br>\
+سَنَامِهَا بِمِبْضَعِهِ [He made a slight stab in her<br>\
+hump with his scarifier]. (TA.) وَخْزٌ also signifies The act of scarifying; syn. تَبْزِيغٌ. (K.<br>\
+[So in a MS copy of the K, and this is the right<br>\
+reading: in the TA, تَبْزِيع, written with ع,<br>\
+unpointed: in the CK, تَنْزِيع, with ن and ع<br>\
+instead of ب and غ.]) You say of a farrier,<br>\
+وَخَزَهُ بِمِبْضَعٍ وَخْزًا خَفِيفًا لَا يَبْلُغُ العَصَبَ [He<br>\
+scarified it with a scarifier slightly, not penetrating to the sinews]; the pronoun referring to the<br>\
+hoof of a horse or the like, and the place of the<br>\
+operation being the part called the أَشَاعِر. (Aboo-<br>\
+&#39;Adnán, TA.)<br>\
+وَخْزٌ The plague; syn. طَاعُونٌ. (TA.) See<br>\
+above. ―<br>\
+-b2-  Pain: [or, app., a piercing, or pricking, pain:] as in the following ex.: إِنِّى لَأَجِدُ<br>\
+فِى يَدِى وخْزًا [Verily I feel, in my arm, or<br>\
+hand, a pain, or a piercing, or pricking, pain].<br>\
+(IAar, TA.)<br>\
+' } );

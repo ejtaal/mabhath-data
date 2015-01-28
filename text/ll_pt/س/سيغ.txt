@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>سيغ</em>            1                  سيغ<br>\
+<b>سِغْتُهُ</b>               1     <br>\
+                     سِغْتُهُ<br>\
+                     ذ<br>\
+                  , aor. اَسِيغُهُ, inf. n. سَيْغٌ: see 4, in art. سوغ.    </entryFree> <br>\
+<b>هٰذَا سَيْغُ هٰذَا</b>               1     <br>\
+                     هٰذَا سَيْغُ هٰذَا<br>\
+                     ذ<br>\
+                  : see هذا سَوْغُ هذا, in art. سوغ, in two places.    </entryFree> <br>\
+<b>سَيِّغٌ</b>               1     <br>\
+                     سَيِّغٌ<br>\
+                     ذ<br>\
+                  : see سَايِغٌ, in art. سوغ.   </entryFree> <br>\
+' } );

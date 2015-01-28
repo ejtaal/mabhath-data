@@ -1,0 +1,40 @@
+load_data( { book: 'll_nvd', text: 'نفع1<br>\
+نَفَعَهُ<br>\
+It profited him; availed him; was of<br>\
+use or benefit, or was useful or beneficial, to him.<br>\
+―<br>\
+-b2-  نَفَعَهُ مِنْهُ: see an ex. voce جَدٌّ. ―<br>\
+-b3-  يَنْفَعُ لِكَذَا,<br>\
+and مِنْ كَذَا, It (a medicine) is good, beneficial,<br>\
+or profitable, as a remedy, for, or against, such<br>\
+a thing, meaning such a disease or the like.<br>\
+2<br>\
+نَفَّعَهُ<br>\
+, inf. n. تَنْفِيعٌ, He caused<br>\
+نَفْع<br>\
+to come<br>\
+to him. (TA.)<br>\
+8<br>\
+اِنْتَفَعَ بِهِ<br>\
+He benefited or profited by it;<br>\
+made use of it; had the use of it; enjoyed it;<br>\
+like تَمَتَّعَ بِهِ. See 10.<br>\
+10<br>\
+اِسْتَنْفَعَهُ<br>\
+He sought, or demanded, his<br>\
+profiting him, or being useful to him. (IAar,<br>\
+TA.) ―<br>\
+-b2-  And اِسْتَنَفَعَ sometimes occurs in the<br>\
+sense of ↓ اِنْتَفَعَ. (TA.)<br>\
+نَفْعٌ<br>\
+contr. of<br>\
+ضَرٌّ: (TA:) or a thing whereof<br>\
+one makes use for the attainment of good: (B:)<br>\
+or good: or a means of attaining one&#39;s desire.<br>\
+(Msb.)<br>\
+مَنْفَعَةٌ<br>\
+[A cause, or means, of advantage,<br>\
+profit, utility; or benefit: and simply, advantage; profit, or profitableness; utility, use,<br>\
+usefulness; or benefit:] contr. of مَضَرَّةٌ. (S, art.<br>\
+ضر.)<br>\
+' } );

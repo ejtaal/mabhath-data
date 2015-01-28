@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>شرو</em>            1                  شرو<br>\
+<b>شَرْوٌ</b>               1     <br>\
+                     شَرْوٌ<br>\
+                     ذ<br>\
+                  <i>Honey:</i> (K:) or <i>white honey:</i> mentioned by Sgh: formed by transposition from شَوْرٌ: (TA:) and also written ↓ <br>\
+      شِرْوٌ. (K.)    </entryFree> <br>\
+<b>شِرْوٌ</b>               1     <br>\
+                     شِرْوٌ<br>\
+                     ذ<br>\
+                  : see what precedes.    </entryFree> <br>\
+<b>شَرْوَى</b>               1     <br>\
+                     شَرْوَى<br>\
+                     ذ<br>\
+                  , originally شَرْيَا: see art. شرى.    </entryFree> <br>\
+<b>شِرَوِىٌّ</b>               1     <br>\
+                     شِرَوِىٌّ<br>\
+                     ذ<br>\
+                  , originally شِرَيِىٌّ: see art. شرى.   </entryFree> <br>\
+' } );

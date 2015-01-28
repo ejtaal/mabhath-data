@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>سطب</em>            1                  سطب<br>\
+<b>اُسْطُبَّةٌ</b>               1     <br>\
+                     اُسْطُبَّةٌ<br>\
+                     ذ<br>\
+                   [an arabicized word, app. from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>σύππη</orth>        <br>\
+                  <orth lang=&quot;gr&quot;>σύπη</orth>,] <i>Tow;</i> i. e. <i>what falls from flax in the process of combing.</i> (K. [See also art. صطب.])    </entryFree> <br>\
+<b>مَسْطَبَةٌ</b>               1     <br>\
+                     مَسْطَبَةٌ<br>\
+                     ذ<br>\
+                   and مِسْطَبَةٌ are sings. of مَسَاطِبُ, which signifies The [<i>wide benches, of stone or brick</i> &amp;amp;c., <i>generally built against a wall, called</i>] دَكَاكِين, <i>upon which people sit:</i> (AZ, K:) [and particularly <i>such as surround the court of a mosque:</i> for] one says, رَاَيْتُهُمْ قَاعِدِينَ عَلَى المَسَاطِبِ, mean-  ing [<i>I saw them sitting upon</i>] <i>the</i> <br>\
+                  دَكَاكِين <br>\
+                  <i>around the court of the mosque.</i> (A. [See also art. صطب.]) ―         -b2-  The pl. also signifies <i>Blacksmiths&#39; anvils.</i> (IAar, K. [See, again, art. صطب.]) ―         -b3-  And <i>Waters stopped up,</i> or <i>choked up, with earth</i> or <i>dust;</i> or <i>altered for the worse by long standing;</i> syn. مِيَاهٌ سُدُمٌ [q. v.]. (IAar, K.)   </entryFree> <br>\
+' } );

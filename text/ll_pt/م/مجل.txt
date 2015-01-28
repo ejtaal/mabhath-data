@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مجل</em>            1                  مجل<br>\
+<b>مَجَلَتْ يَدُهُ</b>               1     <br>\
+                     مَجَلَتْ يَدُهُ<br>\
+                     ذ<br>\
+                  <i>His hand became blistered,</i> or <i>vesicated, by much work.</i> (Mgh.)   </entryFree> <br>\
+' } );

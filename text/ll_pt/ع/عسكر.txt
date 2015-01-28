@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>عسكر</em>            1                  عسكر<br>\
+<b>عَسْكَرَ الرَّجُلُ</b>               1     <br>\
+                     <i>Q.1</i>        <br>\
+                     عَسْكَرَ الرَّجُلُ<br>\
+                     ذ<br>\
+                   [<i>The man collected an army</i>]. (S.) ―         -b2-  عَسْكَرْتُ الشَّىْءَ <br>\
+                  <i>I collected the thing.</i> (Msb.) ―         -b3-  عَسْكَرَ القَوْمُ <br>\
+                  <i>The people collected themselves together,</i> (K,) بِاْلْمَكَانِ <br>\
+                  <i>in the place:</i> (TA:) or <i>the people fell into difficulty, distress,</i> or <i>adversity:</i> (K:) or <i>into dearth, scarcity,</i> or <i>drought.</i> (TA.) ―         -b4-  عَسْكَرَ اللَّيْلُ <br>\
+                  <i>The night became densely dark.</i> (O, K.)    </entryFree> <br>\
+<b>عَسْكَرٌ</b>               1     <br>\
+                     عَسْكَرٌ<br>\
+                     ذ<br>\
+                  , a Pers. word arabicized, (Ibn-El-Jawá- leekee, Mgh, Msb, K, *) from لَشْكَرٌ, (Mgh, TA,) <i>An army:</i> (S, A, O, Msb:) pl. عَسَاكِرُ. (A, O.) You say, العَسْكَرُ مُقْبِلٌ, and مُقْبِلُونَ, <i>The army is coming,</i> and <i>are coming.</i> (Th, TA.) ―         -b2-  <i>A collection.</i> (A, K.) ―         -b3-  <i>A large number,</i> or <i>quantity,</i> of anything: (A, K:) as, of men, and of camels or other property, and of horses, and of dogs. (TA.) ―         -b4-  The <i>camels</i> or <i>sheep</i> or <i>goats</i> of a man, <i>collectively.</i> (Az, O, TA.) You say, اـِنَّهُ لَقَلِيلُ <br>\
+                  العَسْكَرِ <br>\
+                  <i>Verily he has few beasts.</i> (TS, O, TA.) ―         -b5-  (assumed tropical:)  The <i>darkness</i> of night. (TA.) ―         -b6-  عَسَاكِرُ <br>\
+                  الهَمِّ (assumed tropical:)  <i>Anxieties, coming one upon another, consecutively.</i> (O, TA.) ―         -b7-  See also مُعَسْكَرٌ. ―         -b8-  [Hence,] العَسْكَرَانِ <br>\
+                  <i>&#39;Arafeh and Minè</i> (عَرَفَةُ وَمِنًى): (S, A, O, Msb, K:) because places of assembling. (Msb.)    </entryFree> <br>\
+<b>عَسْكَرَةٌ</b>               1     <br>\
+                     عَسْكَرَةٌ<br>\
+                     ذ<br>\
+                  <i>Difficulty, distress,</i> or <i>adversity:</i> (S, O, K:) and <i>dearth, scarcity,</i> or <i>drought.</i> (K.) Tarafeh says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        ظَلَّ فِى عَسْكَرَةٍ مِنْ حُبِّهَا<br>\
+                  </quote> i. e., <i>He became in a state of difficulty,</i> or <i>distress, by reason of love of her.</i> (S, O.)    </entryFree> <br>\
+<b>مُعَسْكَرٌ</b>               1     <br>\
+                     مُعَسْكَرٌ<br>\
+                     ذ<br>\
+                  <i>Collected together.</i> (Msb.)       -A2-  And The <i>place where an army collects itself;</i> (S, * Msb;) as also ↓ <br>\
+      عَسْكَرٌ. (TA.)    </entryFree> <br>\
+<b>مُعَسْكِرٌ</b>               1     <br>\
+                     مُعَسْكِرٌ<br>\
+                     ذ<br>\
+                  <i>Collecting an army;</i> or <i>a collector of an army.</i> (S, * Msb.)   </entryFree> <br>\
+' } );

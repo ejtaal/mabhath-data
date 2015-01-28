@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'مرمَرٌّ<br>\
+A spade; [so in the present day;] syn.<br>\
+مِسْحَاةٌ; (M, K;) with which one works in land<br>\
+of seed-produce: (M and K, voce بَالٌ:) or the<br>\
+handle thereof: (M, K;) and in like manner,<br>\
+of the<br>\
+مِحْرَاث [app. here meaning fire-shovel]:<br>\
+(M:) [see سِخِّينٌ] the thing with which one<br>\
+works in earth, or mud. (Sgh, TA.)<br>\
+مُرَيْرَآءُ<br>\
+An anæsthetic herb: see سَكَرَةٌ.<br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نا<br>\
+&lt;entryFree id=&quot;n39110&quot; key=&quot;نَاْنَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     نَاْنَاَهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He fed him,&lt;/i&gt; or &lt;i&gt;nourished him, well.&lt;/i&gt; (K.)       -A2-  &lt;i&gt;He restrained him,&lt;/i&gt; or &lt;i&gt;turned him back,&lt;/i&gt; (El-Umawee, S, K,) &lt;i&gt;from a thing that he desired to do.&lt;/i&gt; (El-Umawee, S.)       -A3-  نَاْنَاَ فِى الرَّاْىِ, inf. n. نَاْنَاَةٌ and مُنَاْنَاَةٌ; [the latter an unusual form of inf. n.;] and ↓ <br>\
+      تَنَاْنَاَ; &lt;i&gt;He was weak,&lt;/i&gt; (M, K,) or &lt;i&gt;confused;&lt;/i&gt; (S;) &lt;i&gt;and not firm&lt;/i&gt; or &lt;i&gt;sound,&lt;/i&gt; (S, M, K,) &lt;i&gt;in his judgment,&lt;/i&gt; or &lt;i&gt;opinion.&lt;/i&gt; (S, M, K.) ―         -b2-  نَاْنَاَ فِى الاَمْرِ <br>\
+                  &lt;i&gt;He was weak in the affair.&lt;/i&gt; (S.) ―         -b3-  نَاْنَاَ عَنْهُ, and ↓ <br>\
+      تَنَاْنَاَ, &lt;i&gt;He was unable to do it.&lt;/i&gt; (K.) ―         -b4-  نَاْنَاَ, inf. n. نَاْنَاَةٌ; (AA;) and ↓ <br>\
+      تَنَاْنَاَ; (S;) &lt;i&gt;He was weak, feeble,&lt;/i&gt; or &lt;i&gt;remiss.&lt;/i&gt; (AA, S, TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;R. Q. 2&lt;/itype&gt;        <br>\
+                     &lt;orth lang=&quot;ar&quot;/&gt;<br>\
+                  &lt;/form&gt; see R. Q. 1 in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39111&quot; key=&quot;نَاْنَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاْنَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      نَاْنَا=ءٌ (S, K) and ↓ <br>\
+      نُوْنُوءٌ and ↓ <br>\
+      مُنَاْنَاٌ <br>\
+                  &lt;i&gt;Weak; cowardly.&lt;/i&gt; (S, K.) ―         -b2-  نَاْنَاٌ <br>\
+                  &lt;i&gt;One who frequently turns about,&lt;/i&gt; or &lt;i&gt;rolls, the pupil,&lt;/i&gt; or &lt;i&gt;black part, of his eye.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39112&quot; key=&quot;نَاْنَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاْنَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the verb. ―         -b2-  &lt;i&gt;Weakness.&lt;/i&gt; (AA, S.) ―         -b3-  طُوبَى لِمَنْ مَاتَ فِى النّاناةِ [&lt;i&gt;Good betide him who hath died in&lt;/i&gt; (&lt;i&gt;the time of&lt;/i&gt;) &lt;i&gt;weakness!&lt;/i&gt;] i. e., in the first of El-Islám, before it acquired strength, (S,) and its adherents and assistants multiplied. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39113&quot; key=&quot;نَاْنَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاْنَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, نُوْنُوءٌ, and مُنَاْنَاٌ: see نَاْنَاٌ.   &lt;/entryFree&gt; <br>\
+' } );

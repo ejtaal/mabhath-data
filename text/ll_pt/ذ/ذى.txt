@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ذى</em>            1                  ذى<br>\
+<b>ذى</b>               1     <br>\
+                     ذى<br>\
+                     ذ<br>\
+                   fem. of ذَا: see art. ذا.    </entryFree> <br>\
+<b>ذَيَّةَ وَ ذَيَّةَ</b>               1     <br>\
+                     ذَيَّةَ وَ ذَيَّةَ<br>\
+                     ذ<br>\
+                  : see art. ذيت.   </entryFree> <br>\
+' } );

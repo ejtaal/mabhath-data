@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لثو</em>            1                  لثو<br>\
+<b>لَثًى</b>               1     <br>\
+                     لَثًى<br>\
+                     ذ<br>\
+                  : see عَبِيبَة.    </entryFree> <br>\
+<b>الحُرُوفُ اللِّتَوِيَّةُ</b>               1     <br>\
+                     الحُرُوفُ اللِّتَوِيَّةُ<br>\
+                     ذ<br>\
+                   [<i>The gingival letters:</i>] these are ذ ث, and ظ. (TA, commencement of باب الثاء.)   </entryFree> <br>\
+' } );

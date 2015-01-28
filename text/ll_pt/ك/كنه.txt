@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>كنه</em>            1                  كنه<br>\
+<b>اَكْنَهَ</b>               1     <br>\
+                     اَكْنَهَ<br>\
+                     ذ<br>\
+                  : see an ex. in a verse cited voce مَعَسٌّ.    </entryFree> <br>\
+<b>كُنْهٌ</b>               1     <br>\
+                     كُنْهٌ<br>\
+                     ذ<br>\
+                  : see فَصٌّ. ―         -b2-  كُنْهٌ may often be rendered <i>Entity.</i>   <br>\
+' } );

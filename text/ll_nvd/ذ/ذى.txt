@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ذىذى fem. of ذَا: see art. ذا.<br>\
+ذَيَّةَ وَ ذَيَّةَ: see art. ذيت.<br>\
+' } );

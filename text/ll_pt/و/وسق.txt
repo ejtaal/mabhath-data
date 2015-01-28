@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وسق</em>            1                  وسق<br>\
+<b>وَسْقٌ</b>               1     <br>\
+                     وَسْقٌ<br>\
+                     ذ<br>\
+                  <i>A camel&#39;s load:</i> see وِقْرٌ.    </entryFree> <br>\
+<b>وَسِيقَةٌ</b>               1     <br>\
+                     وَسِيقَةٌ<br>\
+                     ذ<br>\
+                  <i>A mob of driven cattle:</i> see سَيِّقَهٌ and مِعْتَاقٌ.   </entryFree> <br>\
+' } );

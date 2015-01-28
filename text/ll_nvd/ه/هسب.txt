@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هسبهَسْبٌ Sufficiency; like حَسْبٌ. (K.)<br>\
+هسد, &amp;c<br>\
+See Supplement<br>\
+' } );

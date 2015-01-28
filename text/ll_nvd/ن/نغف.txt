@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'نغفنَغَفَاتٌ<br>\
+Portions of dry mucus: see سَلِيلَةٌ.<br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'قوعقَاعٌ<br>\
+An even place; (S, voce مَقَدٌّ;) plain, or<br>\
+level, land, (S, Msb,) that produces nothing;<br>\
+(IF, Msb;) plain, or soft, land, (أَرْضٌ سَهْلَةٌ,)<br>\
+low, and free from mountains. (K.) See also<br>\
+رَوْضَةٌ. Respecting its pls., see جَارٌ.<br>\
+' } );

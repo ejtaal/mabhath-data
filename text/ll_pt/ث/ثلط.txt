@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>ثلط</em>            1                  ثلط<br>\
+<b>ثَلَطَ</b>               1     <br>\
+                     ثَلَطَ<br>\
+                     ثلط<br>\
+                  , aor.      <br>\
+                     ثَلِطَ<br>\
+                  , (Az, S, K.) inf.n. ثَلْطٌ, (Az, S,) <i>He</i> (a camel, S, IAth, K, and a bull, IAth, K, and an elephant, mostly said of these three animals, IAth, and a man, Az, and a child, K) <i>voided his dung in a thin state.</i> (Az, S, K.) It is said in a trad., (S, TA,) of &#39;Alee, (TA,) كَانُوا يَبْعَرُونَ بَعْرًا <br>\
+                  وَاَنْتُمْ تَثْلِطُونَ ثَلْطًا, (S, TA,) meaning that the former ate little, and that the latter ate much and of various kinds. (TA.)       -A2-  ثَلَطَ فُلَانًا <br>\
+                  <i>He threw</i> <br>\
+                  ثَلْط, (K, TA,) i. e. <i>thin dung,</i> (TA,) <i>at such a one:</i> (K, TA:) and <i>he befouled him,</i> or <i>smeared him, therewith.</i> (K, TA.)    </entryFree> <br>\
+<b>ثَلْطٌ</b>               1     <br>\
+                     ثَلْطٌ<br>\
+                     ثلط<br>\
+                  <i>Thin dung</i> of an elephant and the like, (Lth, K,) and of anything, when it is thin. (TA.)    </entryFree> <br>\
+<b>مَثْلَطٌ</b>               1     <br>\
+                     مَثْلَطٌ<br>\
+                     مثلط<br>\
+                  , (K, TA, [but by rule it should be مَثْلِطٌ,]) or مَثْلَطَةٌ, (CK,) The <i>place of exit of</i> <br>\
+                  ثَلْط. (K.)   </entryFree> <br>\
+' } );

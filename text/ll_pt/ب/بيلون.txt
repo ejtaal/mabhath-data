@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>بيلون</em>            1                  بيلون<br>\
+<b>بَيْلُونٌ</b>               1     <br>\
+                     بَيْلُونٌ<br>\
+                     بيلون<br>\
+                   [<i>Fullers&#39; earth, which is used for scouring cloths, and is sometimes used in the bath, instead of soap;</i>] the <i>yellow</i> [or rather <i>yellowish,</i> or <i>yellowish gray,</i> and sometimes <i>white,</i> or <i>whitish,</i>] <i>earth known by the name of</i> <br>\
+                  طَفْل. (TA, from Esh-Shiháb El-&#39;Ajamee.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>فرقد</em>            1                  فرقد<br>\
+<b>فَرْقَدٌ</b>               1     <br>\
+                     فَرْقَدٌ<br>\
+                     ذ<br>\
+                  <i>A calf:</i> (S:) accord. to Aboo-Kheyreh, <i>after he has become about two months old:</i> (TA voce عِجْلٌ:) or the <i>calf of a wild cow;</i> as also ↓ <br>\
+      فُرْقُودٌ: (IAar, O, L, K:) fem. فَرْقَدَةٌ. (L.) ―         -b2-  And الفَرْقَدُ (O, L, K) and ↓ <br>\
+      الفُرْقُودُ (O, K) (assumed tropical:)  <i>The asterism</i> (نَجْم) <i>by which one directs his course</i> (O, K) <i>by sea and by land;</i> (O;) <i>two stars</i> [<i>b and y of Ursa Minor</i>]; (L, K;) <i>also called</i> (in poetry, O, K, [and generally in prose,]) الفَرْقَدَانِ; (O, L, K;) thus in a verse cited voce اـِلَّا; (O;) they are <i>two stars near the</i> <br>\
+                  قُطْب [or <i>pole-star</i>]; (S, L;) <i>two stars that never set, revolving round the</i> <br>\
+                  جَدْى [or <i>pole-star</i>], <i>both in Ursa Minor;</i> (L;) <i>the two bright stars of the four that form the angles of a quadrilateral figure in Ursa Minor;</i> (Kzw;) <i>also called by the Arabs</i> <br>\
+                  الفَرَاقِدُ [which is the pl. of الفَرْقَدُ]. (L.)       -A2-  And فَرْقَدُ signifies also A <i>level,</i> or an <i>even,</i> land. (Ibn- &#39;Abbád, O.)    </entryFree> <br>\
+<b>فُرْقُودٌ</b>               1     <br>\
+                     فُرْقُودٌ<br>\
+                     ذ<br>\
+                  : see above, first and second sentences.   </entryFree> <br>\
+' } );

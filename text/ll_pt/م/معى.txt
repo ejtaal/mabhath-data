@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>معى</em>            1                  معى<br>\
+<b>مِعًى</b>               1     <br>\
+                     مِعًى<br>\
+                     ذ<br>\
+                  <i>A narrow, depressed place</i> (See طَاْطَاءٌ.) ―         -b2-  بَنَاتٌ مِعًى <br>\
+                  <i>The</i> <br>\
+                  بَعْر. (T in art. بنى.) ―         -b3-  المِعَى المُسْتَقِيمُ <br>\
+                  <i>The rectum.</i>    <br>\
+<b>الاَمْعَاءُ</b>               1     <br>\
+                     الاَمْعَاءُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  الاَقْصَابُ; (AO: see voce قِتْبٌ;) <i>the guts;</i> i. e. <i>bowels,</i> or <i>intestines, into which the food passes from the stomach:</i> <br>\
+                  الحَشَا is the name of all the places of the food; and in the belly are the اَعْفَاج and the اَقْتَاب, to which the food passes after the stomach, and these are the lower امعاء; and all these are called the قُصْب: the حَوَايَا are all the امعاء that wind, or take a coiled, or circular, form. (Zj, in his “ Khalk el-Insán. ”) ―         -b2-  اَمْعَا=ءُ: see a tropical signification (<i>water-holes</i>) of this pl. voce حَوِيَّةُ.   </entryFree> <br>\
+' } );

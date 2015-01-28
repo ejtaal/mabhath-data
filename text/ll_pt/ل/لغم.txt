@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لغم</em>            1                  لغم<br>\
+<b>لُغَامٌ</b>               1     <br>\
+                     لُغَامٌ<br>\
+                     ذ<br>\
+                  : see an ex. in a verse cited voce تَرَغَّمَ.   </entryFree> <br>\
+' } );

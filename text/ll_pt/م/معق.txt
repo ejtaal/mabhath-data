@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>معق</em>            1                  معق<br>\
+<b>مَعُقَ</b>               1     <br>\
+                     مَعُقَ<br>\
+                     ذ<br>\
+                  : see عَمُقَ.    </entryFree> <br>\
+<b>مَا اَمْعَقَهَا</b>               1     <br>\
+                     مَا اَمْعَقَهَا<br>\
+                     ذ<br>\
+                  : see عمق.    </entryFree> <br>\
+<b>مَعِيقٌ</b>               1     <br>\
+                     مَعِيقٌ<br>\
+                     ذ<br>\
+                  : see عَمِيقٌ.   </entryFree> <br>\
+' } );

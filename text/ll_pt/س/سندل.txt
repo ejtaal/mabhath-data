@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سندل</em>            1                  سندل<br>\
+<b>سَنْدَلٌ</b>               1     <br>\
+                     سَنْدَلٌ<br>\
+                     ذ<br>\
+                  : see art. سدل.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جلمح</em>            1                  جلمح<br>\
+<b>جَلْمَحَ</b>               1     <br>\
+                     جَلْمَحَ<br>\
+                     جلمح<br>\
+                  : see Q. Q. 1. in art. جلح.   </entryFree> <br>\
+' } );

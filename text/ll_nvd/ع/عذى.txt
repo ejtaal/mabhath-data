@@ -1,0 +1,34 @@
+load_data( { book: 'll_nvd', text: 'عذى1<br>\
+عَذِىَ, aor. يَعْذَى, [inf. n. عَذًى,] It was,<br>\
+or became, such as is termed عِذْىٌ, said of seedproduce, and of herbage, and of palm-trees.<br>\
+(Msb.) See also 1, in art. عذو.<br>\
+10<br>\
+إِسْتَعْذَىَ see art. عذو [with which the present art. is<br>\
+intimately connected].<br>\
+عَذْىٌ: see the next paragraph, in two places.<br>\
+عِذْىٌ (S, Msb, K) and ↓ عَذْىٌ (IAar, Msb,<br>\
+K) Such as is not watered but by the rain, of<br>\
+seed-produce, (S, Msb, K, TA,) and of herbage,<br>\
+(Msb,) and of palm-trees: (Msb, TA:) [app.<br>\
+used as epithets and as substs.: see also عَثَرِىٌّ:<br>\
+and see بَعْلٌ:] and ↓ عَذٍ and ↓ عَذِىٌّ, the latter<br>\
+of the measure فَعِيلٌ, are applied as epithets to<br>\
+the same in the same sense: the pl. of عذْىٌ is<br>\
+أَعْذَآءٌ. (Msb.) ―<br>\
+-b2-  And عِذْىُ الكَلَأِ Herbage, or<br>\
+pasturage, that is remote from the رِيف [or land<br>\
+of sown fields and of seed produce &amp;c.], and that<br>\
+grows from the rain. (TA.) ―<br>\
+-b3-  And عِذْىٌ signifies also A place that gives growth to plants, or<br>\
+herbage, in winter and summer, without the welling<br>\
+forth of water. (Lth, TA.) ―<br>\
+-b4-  And Any place<br>\
+not having in it [plants of the kind called] حَمْض<br>\
+(K, TA) nor land that exudes water and produces<br>\
+salt; (TA;) as also ↓ عَذْىٌ. (K.) ―<br>\
+-b5-  And i. q.<br>\
+عَذَاةٌ: [perhaps in the sense last expl. above: (see<br>\
+the latter in art. عذو:)] pl. أَعْذَآءٌ. (TA.)<br>\
+عَذٍ: see the next preceding paragraph.<br>\
+عَذِىٌّ: see the next preceding paragraph.<br>\
+' } );

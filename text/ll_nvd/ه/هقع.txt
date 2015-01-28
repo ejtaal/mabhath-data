@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'هقعالهَقْعَةُ<br>\
+Three small stars [<br>\
+λ,<br>\
+�(assumed tropical:)  1, and<br>\
+�↓ 2, of<br>\
+Orion,] forming the points of a triangle, in the<br>\
+head of<br>\
+الجُوْزاَءُ<br>\
+The 5th Mansion of the Moon.<br>\
+(El-Kazweenee.) [This is accord. to those who<br>\
+make نَوْءٌ to signify the “ auroral setting: ”<br>\
+accord. to those who make it to signify the<br>\
+“ auroral rising,” these stars compose الهَنْعَةُ,<br>\
+q. v.; and الهَفْعَةُ seems to consist of ?? 1 and ?? 2<br>\
+of Orion.]<br>\
+' } );

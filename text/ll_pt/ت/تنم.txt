@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>تنم</em>            1                  تنم<br>\
+<b>تَنَمَ</b>               1     <br>\
+                     تَنَمَ<br>\
+                     انام<br>\
+                     انمى<br>\
+                     نام<br>\
+                     نم<br>\
+                     نما<br>\
+                     نمى<br>\
+                     تنم<br>\
+                  , (M, K, [in the CK, erroneously, تَنَوَّمَ,]) without teshdeed to the ن, (M, TA,) <i>He</i> (a camel) <i>ate the</i> <br>\
+                  تَنُّوم. (M, K.)    </entryFree> <br>\
+<b>تَنُّومٌ</b>               1     <br>\
+                     تَنُّومٌ<br>\
+                     نوم<br>\
+                     تنوم<br>\
+                  <i>A kind of trees</i> (S, M, K) <i>having a small fruit,</i> (S, M,) <i>like that of the</i> <br>\
+                  خِرْوَع [or <i>castor-oil plant</i>], (M,) <i>which, bursting, discloses grains, that are eaten by the people of the desert:</i> (S, M:) <i>as the sun declines, it follows it with the</i> [<i>upper</i>] <i>sides of its leaves:</i> (M:) <i>its fruit, with</i> <br>\
+                  حُرْف, (K,) i. e. حَبُّ الرَّشَادِ [q. v.], (TA,) <i>and water, drunk, expels worms; and the application of its leaves, with vinegar, in the manner of a poultice, draws forth warts:</i> (K:) n. un. with ة: (S, M, K:) AHn says, it is <i>a kind of dust-coloured trees, of those termed</i> <br>\
+                  اَغْلَاث, <i>eaten by ostriches and gazelles, and of those among which gazelles are snared: its grain, when the coverings thereof open, becomes black; and it has a root</i> (عِرْق), <i>sometimes made into a</i> <br>\
+                  زَنْد [<i>for producing fire</i>]: <i>the places where it grows are mostly the sides of valleys:</i> IAar says, the تنّومة is <i>a tree of the kind called</i> <br>\
+                  جَنْبَة, <i>of large size, in which grow grains like hemp-seed, used for ointment, and as a seasoning,</i> or <i>condiment: it dries up at the beginning of winter, and disappears:</i> all this is from AHn: (M:) A&#39;Obeyd says, it is <i>one of the plants of the earth, in which, and in the fruit whereof, is a blackness: it is eaten by the ostrich:</i> the pl. [or coll. gen. n.] is تَنُّومٌ: (T: the author of which then adds,) I say, <i>it is a tree which I have seen in the desert: the colour of its leaves inclines to blackness, and it has grains like hemp-seed, or a little larger: I have seen the women of the desert bruise its grains, and express from them a blue oil, in which is a viscosity; and they anoint their hair with it when they comb themselves:</i> AA says, <i>the</i> <br>\
+                  تنّوم <br>\
+                  <i>has a grain which is oily and dustcoloured:</i> En-Nadr says, <i>the</i> <br>\
+                  تنّومة <br>\
+                  <i>is of an ill savour, and the beasts do not like it,</i> or <i>eat much of it:</i> (T:) [it is erroneously said in the K, voce طُلَّامٌ, to be <i>hemp-seed</i> (حَبُّ الشَّاهْدَانِج): and] some say that it is the <i>hemp-plant</i> (شجر الشهدانج). (Ham p. 135.) The sun, when eclipsed, is said in a trad. to have become black, and like a تنّومة. (T.) And a poet, who married a woman, and found her to be pretty, but with hoary hair, and who had a youthful wife at his abode, likens the hair of the former to the flower of the اُقْحُوَان, and black hair to تنّوم; saying <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَلَمَّا رَاَيْتُ الاُقْحُوَانَ مُنَوِّرًا<br>\
+                     <L><br>\
+                        وَلَمْ اَرَ تَنُّومًا تَذَكَّرْتُ مَنْزِلِى<br>\
+                  </quote> [<i>And when I saw the chamomile flowering, and saw not tennoom, I remembered my abode</i>]. (Ham ubi suprà.)   </entryFree> <br>\
+' } );

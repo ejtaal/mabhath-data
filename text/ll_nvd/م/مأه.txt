@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'مأهمَاهِيَّةٌ<br>\
+[The quiddity, or essence, or substance,<br>\
+of a thing;] that whereby a thing is what it is.<br>\
+(KT.) See also حَقِيقَةٌ, and جَوْهَرٌ, and ذَاتِيَّةٌ,<br>\
+and مَعْنًى.<br>\
+مِئِينٌ<br>\
+: see سِنِينٌ, voce سَنَةٌ, in art. سنه.<br>\
+' } );

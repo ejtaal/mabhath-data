@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'كظر1<br>\
+كَظَرَ القَوْسَ, (K,) aor.<br>\
+كَظُرَ, (TK,) inf. n. كَظْرٌ,<br>\
+(TA,) He made to the bow a كُظْر, or notch to<br>\
+receive the ring of the string. (K.) ―<br>\
+-b2-  كَظَرَ<br>\
+الزَّنْدَةَ, (K,) inf. n. as above, (TA,) He cut in<br>\
+the [piece of wood called] زندة a notch [from<br>\
+which to produce fire]. (K.)<br>\
+كُظْرُ القَوْسِ The notch in the curved extremity<br>\
+of the bow, in which is the string; (As, S;) the<br>\
+notch of the bow, into which falls the ring of the<br>\
+string: (A, K:) pl. [of pauc.] أَكْظَارٌ (A) and<br>\
+[of mult.] كِظَارٌ and كِظَارَةٌ. (TA.) ―<br>\
+-b2-  كُظْرُ<br>\
+الزَّنْدَةِ The notch [from which the fire is produced] in the [piece of wood called] زندة. You<br>\
+say النَّارُ تَسِيلُ مِنْ كُظْرِ الزَّنْدَةِ Fire flows from<br>\
+the notch of the زندة. (A.)<br>\
+كِظْرٌ The piece of sinew which is tied upon the<br>\
+base of the notch of an arrow. (IDrd, K.)<br>\
+' } );

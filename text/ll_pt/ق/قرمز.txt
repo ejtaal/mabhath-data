@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>قرمز</em>            1                  قرمز<br>\
+<b>قِرْمِزٌ</b>               1     <br>\
+                     قِرْمِزٌ<br>\
+                     ذ<br>\
+                  , a Persian word, arabicized; (TA;) [The <i>insect called coccus:</i> and particularly the <i>coccus baphica,</i> or <i>coccus ilicis;</i> commonly called by us, from the Persian and Arabic, <i>kermes:</i> and also applied to that species which is the true <i>cochineal:</i>] <i>a certain Armenian dye,</i> (Lth, K,) <i>of a red colour,</i> (Lth, TA,) <i>obtained from the expressed fluid of a kind of worm found in the woods of Armenia:</i> (Lth, K:) such is said to be the case: and in some of the correct copies of the K we find the following addition: <i>it is said to be red like the lentil, in the form of grains: it falls upon a species of</i> <br>\
+                  بَلَّوط, [or <i>oak,</i>] <i>in the month of</i> <br>\
+                  ا=ذَار, [or March, O. S.,] <i>and if not gathered, it becomes a flying thing, and flies: it is used as a dye for animal substances, such as wool and skill, but not cotton.</i> (TA.)    </entryFree> <br>\
+<b>قِرْمِزِىٌّ</b>               1     <br>\
+                     قِرْمِزِىٌّ<br>\
+                     ذ<br>\
+                  <i>Dyed with</i> <br>\
+                  قِرْمِز: or <i>resembling the colour of that dye:</i> (the book entitled ما لا يسع الطبيب <br>\
+                  جهله, by Ibn-El-Kutbee; cited by Golius:) [in the present day, <i>crimson;</i> or <i>of a deep red colour.</i>]   </entryFree> <br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>سام</em>            1                  سام<br>\
+<b>سَيِمَ مِنْهُ</b>               1     <br>\
+                     سَيِمَ مِنْهُ<br>\
+                     ذ<br>\
+                  , (S, M, Msb, K,) and سَيِمَهُ, (M, Msb, K,) aor.      <br>\
+                     سَاََ<br>\
+                  , (S, Msb, K,) inf. n. سَاَمٌ (S, M, K) and سَاْمٌ (K) and سَاَمَةٌ (S, M) and سَا=مٌ and سَا=مَةٌ, (S, Msb, K,) <i>He turned away with disgust from it; was averse from it; was disgusted at it</i> or <i>with it; loathed,</i> or <i>nauseated, it;</i> (S, M, Msb, K;) namely, a thing; (S, M, K;) syn. مَلَّ, (S, M, Msb, K,) and ضَجِرَ: (Msb:) سَا=مَةٌ exceeds مَلَالٌ. (Ham pp. 775-6.) It is said in the Kur [xli. 49], لَا يَسْا=مُ اْلْاـِنْسَانُ مِنْ <br>\
+                  دُعَا=ءِ اْلْخَيْرِ [<i>Man will not turn away with disgust from,</i> or <i>will not be weary of, praying for good,</i> or <i>wealth,</i> or <i>prosperity</i>]. (Msb.) And in a trad., اـِنَّ اْللّٰهَ لَا يَسْاَمُ حَتَّى تَسْاَمُوا <br>\
+                  <i>Verily God will not turn away with disgust until ye turn away with disgust;</i> like لَا يَمَلُّ حَتَّى تَمَلُّوا, and thus the trad. is commonly related. (TA.) And it is related in a trad. of &#39;Áïsheh that she used to say to the Jews, عَلَيْكُمْ السَّاْمُ وَالذَّاْمُ وَاللَّعْنَةُ [<i>Disgust,</i> or <i>loathing, and contempt, and cursing,</i> rest <i>upon you</i>]: thus related with ء, meaning ye shall turn away with disgust from your religion: but commonly related without ء [and with a different meaning], as will be stated hereafter [in art. سوم]. (IAth, TA in this art. and in art. سوم.)    </entryFree> <br>\
+<b>اسامهُ</b>               1     <br>\
+                     اسامهُ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, made him to turn away with disgust, to be averse, to be disgusted, to loathe,</i> or <i>to nauseate.</i> (M, K.)    </entryFree> <br>\
+<b>سَوُومٌ</b>               1     <br>\
+                     سَوُومٌ<br>\
+                     ذ<br>\
+                   an [intensive] epithet from 1 [meaning <i>Wont,</i> or <i>much disposed, to turn away with disgust, to be averse, to be disgusted, to loathe,</i> or <i>to nauseate</i>]: (S, M, K:) or <i>much affected with vexation,</i> or <i>disgust; having little patience.</i> (Ham p. 532.)   </entryFree> <br>\
+' } );

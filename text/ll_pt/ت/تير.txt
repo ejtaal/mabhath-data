@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>تير</em>            1                  تير<br>\
+<b>تَارٌ</b>               1     <br>\
+                     تَارٌ<br>\
+                     تار<br>\
+                   and تَارَةٌ (mentioned in this art. in the S): see the latter in art. تور.    </entryFree> <br>\
+<b>تِير</b>               1     <br>\
+                     تِير<br>\
+                     تير<br>\
+                  <i>A beam between two walls:</i> (K: [in which this word, with the art. ال is explained by الجَايِزُ <br>\
+                  بَيْنَ الحَايِطِينَ: in the M, الحَاجِزُ بين الحايطين, i. e. <i>a partition between two gardens,</i> or <i>walled gardens of palm-trees:</i> the former I regard as the right reading (though SM thinks the contrary); for it expresses a well-known meaning of تِير in Persian; and it is said that تِيرٌ is] a Persian word, arabicized. (M.)       -A2-  (assumed tropical:)  <i>Vanity,</i> or <i>a fond opinion of oneself,</i> (K,) and <i>pride.</i> (TA.)    </entryFree> <br>\
+<b>تَيَّارٌ</b>               1     <br>\
+                     تَيَّارٌ<br>\
+                     تيار<br>\
+                  <i>Waves:</i> (S, M, A, Msb:) or <i>waves of the sea,</i> or <i>of a great river,</i> (M, IAth, K,) <i>having a current;</i> (K,* TA;) and <i>its main body,</i> or <i>deep:</i> (IAth, TA:) [in the present day, the <i>current,</i> or <i>main current, of a sea</i> or <i>great river:</i>] or <i>vehemence of flow</i> or <i>current:</i> (Msb:) accord. to some, of the measure فَعَّالٌ, from تير; (Msb;) i. c., from تِيرٌ signifying “ vanity ” and “ pride: ” (TA:) accord. to others, of the measure فَيْعَالٌ, (Msb, TA,) from تَارَ, aor. يَتُورُ, though this verb is obsolete, (TA,) originally تَيْوَارٌ, the و being changed into ى and then incorporated into the  preceding ى. (Msb.) ―         -b2-  Applied to a man, (tropical:)  <i>Vain,</i> or <i>having a fond opinion of himself,</i> (A, K,) and <i>proud;</i> (K;) <i>who swells up like waves, in his vanity.</i> (A.) ―         -b3-  (tropical:)  A horse <i>that rises like waves in his running..</i> (A.) ―         -b4-  (tropical:)  A vein <i>that runs,</i> or <i>flows, quickly,</i> when cut. (S, A, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>شعذ</em>            1                  شعذ<br>\
+<b>شَعْوَذَ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     شَعْوَذَ<br>\
+                     ذ<br>\
+                  , (A, Msb,) inf. n. شَعْوَذَةٌ, (A, L, Msb, K,) <i>He practised the art termed</i> <br>\
+                  شَعْوَذَة, expl. below: (A, L, Msb, K:) as also شَعْبَذَ, (Msb, K,) inf. n. شَعْبَذَةٌ: (A, Msb, K:) so some say. (Msb.) [See what here follows.]    </entryFree> <br>\
+<b>شَعْوَذَةٌ</b>               1     <br>\
+                     شَعْوَذَةٌ<br>\
+                     ذ<br>\
+                  <i>Legerdemain,</i> or <i>sleight-of-hand,</i> (A, L, K,) and <i>false miracles,</i> (TA,) and <i>fascinations,</i> (K,) or <i>fascination,</i> (A, L,) or <i>a kind of play,</i> (Msb,) <i>like</i> <br>\
+                  سِحْر, (A, L, Msb, K,) <i>making a thing to appear different from what it really is,</i> (L, K,) or <i>showing a man what has no real existence:</i> (Msb:) or <i>making what is false to assume the form of what is true:</i> (TA:) as also شَعْبَذَةٌ: (A, Msb:) vulgarly termed شَعْبَثَةٌ. (TA.) ―         -b2-  Also <i>Quickness:</i> or <i>lightness,</i> or <i>agility, in any affair.</i> (L.) ―         -b3-  It is not a word of the language of the people of the desert. (Lth, L, Msb.)    </entryFree> <br>\
+<b>شَعْوَذِىٌّ</b>               1     <br>\
+                     شَعْوَذِىٌّ<br>\
+                     ذ<br>\
+                  <i>A messenger of princes</i> or <i>governors,</i> (L, K,) <i>who journeys on affairs of importance for them</i> (L) <i>upon post-horses</i> or <i>other beasts appointed for their conveyance:</i> (L, K:) so called because of his quickness. (L.) It is not a word of the language of the people of the desert. (Lth, L.) ―         -b2-  See also what follows.    </entryFree> <br>\
+<b>مُشَعْوِذٌ</b>               1     <br>\
+                     مُشَعْوِذٌ<br>\
+                     ذ<br>\
+                   and مُشَعْوَذٌ A man <i>who practises the art termed</i> <br>\
+                  شَعْوَذَة; (L, K;) as also ↓ <br>\
+      شَعْوَذِىٌّ: (TA in art. عجب:) improperly called مُشَعْبِذٌ, and surnamed اَبُو العَجَبِ. (Eth-Tha&#39;álibee, TA.)   </entryFree> <br>\
+' } );

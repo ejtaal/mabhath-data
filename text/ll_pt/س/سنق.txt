@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>سنق</em>            1                  سنق<br>\
+<b>سَنِقَ</b>               1     <br>\
+                     سَنِقَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     سَنَقَ<br>\
+                  , (K,) inf. n. سَنَقٌ, (S,) <i>He</i> (a young camel) <i>suffered indigestion</i> (S, K) مِنَ اللَّبَنِ [<i>from the milk</i>]. (K.) One says, of a young camel, شَرِبَ حَتَّى سَنِقَ <br>\
+                  <i>He drank until,</i> or <i>so that, he suffered indigestion.</i> (S.) And one says, of an ass, and of any beast, سَنِقَ, inf. n. as above, meaning, <i>He was affected with what resembled indigestion</i> from eating fresh herbage. (TA.)    </entryFree> <br>\
+<b>اسنقهُ النَّعِيمُ</b>               1     <br>\
+                     اسنقهُ النَّعِيمُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  تَرَّفَهُ [i. e. <i>Ease and plenty caused him to exult,</i> or <i>to exult greatly,</i> or <i>excessively, and to behave insolently and unthankfully,</i> or <i>ungratefully:</i> or <i>wealth made him to enjoy,</i> or <i>lead, a plentiful, and a pleasant</i> or <i>an easy, and a soft</i> or <i>delicate, life;</i> or <i>a life of ease and plenty</i>]. (O, K.)    </entryFree> <br>\
+<b>سَنِقٌ</b>               1     <br>\
+                     سَنِقٌ<br>\
+                     ذ<br>\
+                  <i>Satiated,</i> or <i>sated, like him who is suffering indigestion:</i> (A&#39;Obeyd, TA:) applied by Lebeed as an epithet to a horse. (TA.)    </entryFree> <br>\
+<b>سُنَّيْقٌ</b>               1     <br>\
+                     سُنَّيْقٌ<br>\
+                     ذ<br>\
+                  <i>A house,</i> or <i>chamber, plastered with gypsum:</i> (Ibn-&#39;Abbád, O, K:) pl. سُنَّيْقَاتٌ and سَنَانِيقُ: (K:) or, accord. to Sh, these are pls. of the word in the sense next following. (TA.) ―         -b2-  <i>Any</i> [<i>hill of the kind termed</i>] اَكَمَة: pl. as above: so accord. to Sh: (T, O, TA:) or it is the name of <i>a particular</i> <br>\
+                  اَكَمَة, (T, O, K, * TA,) well known; occurring, without ال, in a poem of Imra-el-Keys. (T, O, TA.) ―         -b3-  And السُّنَّيْقُ, <i>A certain white star.</i> (Ibn-&#39;Abbád, O, K.)   </entryFree> <br>\
+' } );

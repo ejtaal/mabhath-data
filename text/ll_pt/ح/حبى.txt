@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>حبى</em>            1                  حبى<br>\
+<b>حَبَى</b>               1     <br>\
+                     حَبَى<br>\
+                     حب<br>\
+                     حبى<br>\
+                     حبي<br>\
+                  , aor. يَحْبِى, inf. n. حَبْىٌ: see 1 in art. حبو.    </entryFree> <br>\
+<b>حِبْيَةٌ</b>               1     <br>\
+                     حِبْيَةٌ<br>\
+                     حبي<br>\
+                     حبيه<br>\
+                     حبية<br>\
+                  : see حُبْوَةٌ.    </entryFree> <br>\
+<b>حَبِىٌّ</b>               1     <br>\
+                     حَبِىٌّ<br>\
+                     حب<br>\
+                     حبى<br>\
+                     حبي<br>\
+                   and حُبِىٌّ: see art. حبو.   </entryFree> <br>\
+' } );

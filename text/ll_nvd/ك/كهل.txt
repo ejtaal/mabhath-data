@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'كهل8<br>\
+اِكْتَهَلَ<br>\
+, said of a plant, It became tall and<br>\
+full-grown: (TA:) or it became of its full height,<br>\
+and blossomed: (S:) see زَاخِرٌ.<br>\
+كَهْلٌ<br>\
+Of middle age; or between that age and<br>\
+the period when his hair has become intermixed<br>\
+with heaviness. See شَبَابٌ; and شَيْخٌ and غُلَامٌ.<br>\
+كُهُولَةٌ<br>\
+: see شَبَابٌ.<br>\
+كَاهِلٌ<br>\
+[The withers of a horse, &amp;c.] i. q.<br>\
+حَارِكٌ:<br>\
+or the anterior portion of the upper part of the<br>\
+back, next the neck, which is the upper third<br>\
+part, containing six vertebra: or the part between the two shoulder-blades: or the part where<br>\
+the neck is joined to the back how: [the base of<br>\
+the neck: see ثَبَجٌ]. (K.)<br>\
+كِهَانَةٌ<br>\
+Divination: soothsaying. (K, &amp;c.)<br>\
+كَاهِنٌ<br>\
+: see عَرَّافٌ and عَائِفٌ.<br>\
+' } );

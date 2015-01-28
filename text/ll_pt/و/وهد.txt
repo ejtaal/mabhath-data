@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>وهد</em>            1                  وهد<br>\
+<b>وَهْدٌ</b>               1     <br>\
+                     وَهْدٌ<br>\
+                     ذ<br>\
+                   (L) and وَهْدَةٌ (As, S, A, L) <i>A low,</i> or <i>depressed, place;</i> (As, S, A L;) <i>as though it were a hollow,</i> or <i>cavity, dug,</i> or <i>excavated,</i> for which the latter is also a name: (L:) and both words, <i>low,</i> or <i>depressed, ground:</i> (L, K:) pl. اَوْهُدٌ, (L, K,) a pl. [of pauc.] of the former, (TA,) and وِهَادٌ (S, A, L, K) and وُهْدَانٌ, or وِهْدَانٌ, (as in different copies of the K, the former being the reading in the TA,) and وَهْدٌ of وَهْدَةٌ: (S, L:) [or rather this last is a coll. gen. n., of which وَهْدَةٌ is the n. un.:] also وَهْدَةٌ <br>\
+                  <i>a hollow,</i> or <i>cavity,</i> or <i>deep hollow</i> or <i>cavity,</i> (هُوَّةٌ,) <i>in the ground;</i> (L, K;) and so مَكَانٌ وَهْدٌ, and اَرْضٌ وَهْدَةٌ: (L:) and <i>a round hollow excavated in the ground, deeper than what is called</i> <br>\
+                  غَايِطٌ, <i>not having abrupt sides, in width two and three spear&#39;s lengths, and not producing any herbage.</i> (L.) ―         -b2-  Also وَهْدَةٌ The <i>hollow, in the ground, in which the weaver puts his legs,</i> or <i>feet.</i> (Mgh.) ―         -b3-  Also, <i>i. q.</i> <br>\
+                  خُنْعُبَةٌ, (IAar, L,) which latter, says Lth, signifies The <i>part where the mustaches divide.</i>   <br>\
+' } );

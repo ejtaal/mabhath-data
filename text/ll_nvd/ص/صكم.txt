@@ -1,0 +1,26 @@
+load_data( { book: 'll_nvd', text: 'صكم1<br>\
+صَكَمَهُ, (S, K,) [aor.<br>\
+صَكُمَ,] inf. n. صَكْمٌ, (TA,)<br>\
+He (a man, Fr, S) struck him, or it. (Fr, S, K.)<br>\
+See also صَوَاكِمُ. ―<br>\
+-b2-  And He (a man, Fr, As, S)<br>\
+pushed, thrust, or repelled, him, or it. (Fr, As,<br>\
+S, K.) ―<br>\
+-b3-  And one says of a horse, يَصْكُمُ, (S,) or<br>\
+صَكَمَ عَلَى لِجَامِهِ, (K,) or عَلَى فَأْسِ اللِّجَامِ, (TA,)<br>\
+The horse champs, (S,) or champed, (K,) his<br>\
+bit, (S, K,) or the فأس of the bit, (TA,) and<br>\
+stretches forth his head, (S,) or then stretched<br>\
+forth his head, as though desiring to contend for<br>\
+superiority [with his rider]. (K.)<br>\
+صَكْمَةٌ A vehement shock, collision, impetus, push,<br>\
+or thrust, (Lth, S, K, TA,) with a stone or some<br>\
+other thing. (Lth, TA.)<br>\
+صُكَّمٌ i. q. أَخْفَافٌ [which means Camels&#39; feet,<br>\
+and boots; probably, here, the former: in the TK<br>\
+it is expl. as meaning the hoofs of camels: and it<br>\
+is there said that the sing. is صَاكِمٌ]. (K.)<br>\
+صَوَاكِمُ Calamities, misfortunes, or evil accidents. (K.) The Arabs say, صَوَاكِمُ الدَّهْرِ ↓ صَكَمَتْهُ<br>\
+[The calamities of fortune smote him; or may<br>\
+the calamities of fortune smite him]. (S.)<br>\
+' } );

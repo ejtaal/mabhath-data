@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'فدخ1<br>\
+فَدَخَ رَأْسَهُ, aor.<br>\
+فَدَخَ, (K, TA,) inf. n. فَدْخٌ, (TA,)<br>\
+He broke his head with a stone: (K, TA:) and<br>\
+فَدَخْتُ الشَّىْءَ I broke the thing: (TA:) [but] the<br>\
+verb is not used except in relation to a thing in<br>\
+which is moisture. (K, TA.)<br>\
+' } );

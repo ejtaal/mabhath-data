@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ودب</em>            1                  ودب<br>\
+<b>وَدْبٌ</b>               1     <br>\
+                     وَدْبٌ<br>\
+                     ذ<br>\
+                  <i>An evil state,</i> or <i>condition.</i> (L, K.)   </entryFree> <br>\
+' } );

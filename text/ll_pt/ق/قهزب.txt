@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قهزب</em>            1                  قهزب<br>\
+<b>قَهْزَبٌ</b>               1     <br>\
+                     قَهْزَبٌ<br>\
+                     ذ<br>\
+                  <i>Short:</i> (K:) an epithet applied to a man. (TA.)   </entryFree> <br>\
+' } );

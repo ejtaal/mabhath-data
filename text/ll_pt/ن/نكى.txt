@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>نكى</em>            1                  نكى<br>\
+<b>نَكِىَ</b>               1     <br>\
+                     نَكِىَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَكَىَ<br>\
+                  , inf. n. نَكَا=ءٌ, <i>He</i> (an <i>enemy</i>) <i>was defeated, and overcome.</i> (TA, art. نكا.)    </entryFree> <br>\
+<b>نِكَايَةٌ</b>               1     <br>\
+                     نِكَايَةٌ<br>\
+                     ذ<br>\
+                   The <i>inflicting injury</i> upon an enemy: (MA, KL:) <i>slaying and wounding</i> among the enemy: (S, K:) or <i>making much slaughter,</i> (MA,) or <i>a great,</i> or <i>vehement, slaughter</i> or <i>wounding,</i> (Msb,) [i. e. the <i>making havock,</i>] among the enemy: (MA, Msb:) the <i>inflicting a routing and overthrow</i> among the enemy. (ISk, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,84 @@
+load_data( { book: 'll_nvd', text: 'وثق1<br>\
+وَثُقَ<br>\
+It was, or became, firm, stable, fast,<br>\
+or strong; (Msb;) i. q.<br>\
+أُحْكِمَ (S, Mgh, K) [or<br>\
+اِسْتَحْكَمَ, q. v.]. ―<br>\
+-b2-  وَثِقَ بِهِ<br>\
+He trusted, or confided, in him. (S, Mgh, Msb, K.)<br>\
+4<br>\
+أَوْثَقَهُ<br>\
+He made it firm, stable, fast, or<br>\
+strong. (Msb.) ―<br>\
+-b2-  He bound, or tied, him, or<br>\
+it, firmly, fast, or strongly, in a bond. (S, K,<br>\
+TK.) See شَدَّهُ.<br>\
+5<br>\
+تَوَثَّقَتِ العُقْدَةُ<br>\
+[The knot became firm, or<br>\
+fast]. (A, in art. ارب.)<br>\
+10<br>\
+اِسْتَوْثَقَ مِنْهُ<br>\
+[He secured himself against<br>\
+him, by a bond or the like, or absolutely:] he<br>\
+took, or received, a bond (وَثِيقَة) from him. (S,<br>\
+K.) ―<br>\
+-b2-  أُكْتُبُوهُ اسْتِيثَاقًا وَدَفْعًا لِلنِّزَاعِ [Write ye it,<br>\
+(namely, the debt,) for the creditor&#39;s self-securing,<br>\
+and for preventing contention]. (Jel, ii. 282.)<br>\
+See اِسْتَظْهَرَ. ―<br>\
+-b3-  اِسْتَوْثَقَ مِنَ البَابِ<br>\
+He closed the<br>\
+door firmly. (MA.) ―<br>\
+-b4-  اِسْتَوْثَقَ مِنْ أُمُورِهِ: see<br>\
+أَعْنَجَ. ―<br>\
+-b5-  اِسْتَوْثَقَ مِنَ المَالِ: see استوثج. ―<br>\
+-b6-<br>\
+اِسْتَوْثَقَ بِهِ<br>\
+He confided in him.<br>\
+ثِقَةٌ<br>\
+Trusty; trustworthy; honest: applied as<br>\
+an epithet alike to a man and a woman, and<br>\
+to two or more men or women: pl. ثِقَاتٌ.<br>\
+(Msb.) ―<br>\
+-b2-  بِهِ ثِقَتِى<br>\
+In him is my trust, or confidence. (TA.) ―<br>\
+-b3-  لَسْتُ مِنْهُ عَلَى ثِقَةٍ<br>\
+I am not<br>\
+confident, or sure, of it. Occurring in the S,<br>\
+art. ضمر, &amp;c. See an ex. voce شَهْرٌ (last sentence). ―<br>\
+-b4-  أَخُو ثِقَةٍ: see أَخٌ. ―<br>\
+-b5-  أَخَذَ بِالثِّقَةِ: see<br>\
+أَخَذَ, and see my explanation of إِحْتَاطَ.<br>\
+الوَثِيقَةُ فِى الأَمْرِ<br>\
+The doing the thing firmly;<br>\
+and taking the sure method, or way; expl. by<br>\
+إِحْكَامُهُ والأَخْذُ بِالثَِّقَةِ. (TA.) ―<br>\
+-b2-  وَثِيقَةٌ<br>\
+A bond,<br>\
+security, or writing of obligation for the payment<br>\
+of a debt or the like: pl. وَثَائِقُ. Ex., كِتْبَةُ الوَثَائِقِ<br>\
+(Bd, ii. 282,) The mode of writing bonds. ―<br>\
+-b3-  A<br>\
+pledge. ―<br>\
+-b4-  وَثِيقَةٌ<br>\
+i. q.<br>\
+دُرْجَةٌ, q. v.<br>\
+أَخَذَ الأَمْرَ بِالأَوْثَقِ<br>\
+He set about the affair in<br>\
+the surest, or firmest, manner. (TA.)<br>\
+مَوْثِقٌ<br>\
+and ↓ مِيثَاقٌ<br>\
+A compact; a contract;<br>\
+a covenant; an agreement; a league; a treaty;<br>\
+an engagement; a bond; an obligation; a promise. (S, K, &amp;c.)<br>\
+مِيثَاقٌ<br>\
+: see مَوْثِقٌ; and Jel, &amp;c., in ii. 60<br>\
+and 87.<br>\
+مَوْثُوقٌ بِهِ<br>\
+In whom [and in which] trust, or<br>\
+confidence, is placed. (Mgh.)<br>\
+مُوَثَّقَةُ الخَلْقِ<br>\
+A she-camel rendered firm, strong,<br>\
+or compact, in make. (S.)<br>\
+' } );

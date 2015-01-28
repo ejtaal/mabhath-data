@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>بلح</em>            1                  بلح<br>\
+<b>ابلح</b>               1     <br>\
+                     ابلح<br>\
+                     ابلح<br>\
+                     ابلح<br>\
+                     بلح<br>\
+                  <i>It</i> (a palm-tree) <i>bore,</i> or <i>had, dates in the state in which they are termed</i> <br>\
+                  بَلَح. (S, A, K.)    </entryFree> <br>\
+<b>بَلَح</b>               1     <br>\
+                     بَلَح<br>\
+                     بلح<br>\
+                  <i>Dates,</i> or the <i>fruit of the palm-tree, while continuing green</i> (Msb, TA) <i>and small;</i> (TA;) a term like حِصْرِمٌ applied to grapes; (Msb, TA;) <i>called by the people of El-Basrah</i> <br>\
+                  خَلَالٌ: when they have begun to colour, i. e., to become red or yellow, they are termed بُسْرٌ: (Msb:) or <i>dates in the state between that in which they are called</i> <br>\
+                  خلال <br>\
+                  <i>and that in which they are called</i> <br>\
+                  بسر; (S, Mgh, K;) for dates in their incipient state are termed طَلْعٌ; then, خلال; then, بلح; then, بسر; then, رُطَبٌ; and then, تَمْرٌ: (S, IAth:) or <i>i. q.</i> <br>\
+                  سُيَّابٌ: (As, and S and K in art. سيب:) [by many of the Arabs in the present day, it is applied to <i>fresh ripe dates,</i> and to <i>dried dates:</i> it is a coll. gen. n.:] n. un. with ة. (S, Msb.)   </entryFree> <br>\
+' } );

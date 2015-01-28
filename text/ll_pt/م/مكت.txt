@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>مكت</em>            1                  مكت<br>\
+<b>مَكَتَ</b>               1     <br>\
+                     مَكَتَ<br>\
+                     ذ<br>\
+                  , [aor.      <br>\
+                     مَكُتَ<br>\
+                  ,] <i>He remained, stayed, abode,</i> or <i>dwelt,</i> in a place: (K:) like مَكَدَ: accord. to some, a word mispronounced: accord. to others for مَكَثَ; the ث being changed into ت. (TA.)    </entryFree> <br>\
+<b>اـِسْتَمْكَتَتِ البَثْرَةُ</b>               1     <br>\
+                     اـِسْتَمْكَتَتِ البَثْرَةُ<br>\
+                     ذ<br>\
+                  <i>The pustule became filled with pus,</i> or <i>matter.</i> (IAar, T, K.)   </entryFree> <br>\
+' } );

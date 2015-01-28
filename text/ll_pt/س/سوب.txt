@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>سوب</em>            1                  سوب<br>\
+<b>سُوبَةٌ</b>               1     <br>\
+                     سُوبَةٌ<br>\
+                     ذ<br>\
+                  <i>A long,</i> or <i>far, journey;</i> like سُبْاَةٌ; (K, TA;) of which it is a dial. var.: a short journey is termed سُرْبَةٌ. (TA.)    </entryFree> <br>\
+<b>سُوبِيَةٌ</b>               1     <br>\
+                     سُوبِيَةٌ<br>\
+                     ذ<br>\
+                  <i>A well-known</i> [<i>beverage of the kind called</i>] نَبِيذ, <i>prepared from wheat, and much drunk by the people of Egypt,</i> (L, TA,) <i>at their festivals:</i> (TA:) <i>and also prepared from rice:</i> (MF, TA:) [<i>also from the pips of a species of melon, called in Egypt</i> <br>\
+                  عَبْدَلَّاوِىّ; (see art. عبد; and see also White&#39;s “ Abdollatiphi Hist. Aegypti Compendium, ” pp. 52-3; or De Sacy&#39;s transl., pp. 34-5;) <i>moistened and pounded, and steeped in water, which is then strained, and sweetened with sugar:</i>] it is mentioned in a trad. and by several writers. (TA.)   </entryFree> <br>\
+' } );

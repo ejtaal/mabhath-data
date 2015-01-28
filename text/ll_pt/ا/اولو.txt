@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>اولو</em>            1                  اولو<br>\
+<b>اُولُو</b>               1     <br>\
+                     اُولُو<br>\
+                     ذ<br>\
+                  , in the gen. and accus. اُولِى: see اُلُو in art. الو.   </entryFree> <br>\
+' } );

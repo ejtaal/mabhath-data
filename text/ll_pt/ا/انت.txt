@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>انت</em>            1                  انت<br>\
+<b>اَنْتَ</b>               1     <br>\
+                     اَنْتَ<br>\
+                     ذ<br>\
+                  ,اَنْتِ,اَنْتُمَا,اَنْتُمْ, and اَنْتُنَّ: see اَنْ, in art. ان.   </entryFree> <br>\
+' } );

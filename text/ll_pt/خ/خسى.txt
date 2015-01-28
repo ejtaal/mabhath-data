@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>خسى</em>            1                  خسى<br>\
+<b>التَّخَاسِى</b>               1     <br>\
+                     التَّخَاسِى<br>\
+                     التخاسى<br>\
+                     التخاسي<br>\
+                  <i>The throwing of pebbles, one at another.</i> (K.) You say, تَخَاسَتْ قَوَايِمُ الدَّابَّةِ بِالحَصَا <br>\
+                  <i>The legs of the beast threw the pebbles, one at another.</i> (TA.) [See also 3 in art. خسا.)    </entryFree> <br>\
+<b>خَسِىٌّ</b>               1     <br>\
+                     خَسِىٌّ<br>\
+                     خس<br>\
+                     خسى<br>\
+                     خسي<br>\
+                   The <i>like of a</i> [<i>garment of the kind called</i>]  <br>\
+                  كِسَا=ء, or <i>of a</i> [<i>tent such as is called</i>] خِبَا=ء, <i>woven of wool.</i> (JK, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>نضو</em>            1                  نضو<br>\
+<b>نَضَا الخَيْلَ</b>               1     <br>\
+                     نَضَا الخَيْلَ<br>\
+                     ذ<br>\
+                  <i>He outstripped the</i> other <i>horses:</i> see تَجَرَّدَ.    </entryFree> <br>\
+<b>نِضْوٌ</b>               1     <br>\
+                     نِضْوٌ<br>\
+                     ذ<br>\
+                  <i>A lean,</i> or <i>emaciated,</i> camel: fem. with ة. (S, Msb, K.) نِصْوُ سَفَرٍ [<i>Lean,</i> or <i>emaciated</i> <br>\
+                  <i>by journeying</i>]; applied to a beast. (TA, in رجع.)   </entryFree> <br>\
+' } );

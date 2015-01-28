@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'نعق1<br>\
+نَعَقَ بِهِمْ إِلَى الفِتْنَةٍ<br>\
+He hallooed them on to<br>\
+fight, etc.: see 10 in art. عو.<br>\
+نَاعِقٌ<br>\
+One who drives away the beasts, and<br>\
+cries out after them. (TA in art. زعق.)<br>\
+نَاعِقَآءُ<br>\
+: see عَانِقَآءُ.<br>\
+' } );

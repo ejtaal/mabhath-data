@@ -1,0 +1,90 @@
+load_data( { book: 'll_pt', text: '<em>فيهج</em>            1                  فيهج<br>\
+<b>فَيْهَجٌ</b>               1     <br>\
+                     فَيْهَجٌ<br>\
+                     ذ<br>\
+                  <i>A wine-measure:</i> (S, O, K:) a Pers. word arabicized [and therefore all its letters are regarded as radical]. (S.) ―         -b2-  And <i>A strainer</i> (O, K, TA) <i>for wine.</i> (TA.) ―         -b3-  And (sometimes, S, O) a name for <i>Wine:</i> (S, K:) or <i>clear wine:</i> (O, TA:) or an epithet applied to wine [app. signifying <i>clear</i>]: (TA:) or <i>wine such as is</i> <br>\
+                  مختلق [app. a mistranscription for مُخَلَّق, a word now used as signifying <i>aromatized</i>]; like قِنْدِيدٌ [q. v.] and اُمٌّ <br>\
+                  زَنْبَقٍ. (IAmb, TA.)  <br>\
+         </div1><br>\
+      </body><br>\
+   </text><br>\
+</TEI.2><?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?><br>\
+<TEI.2><br>\
+   <teiHeader type=&quot;text&quot; status=&quot;new&quot;><br>\
+      <fileDesc><br>\
+         <titleStmt><br>\
+            <title>An Arabic-English Lexicon</title><br>\
+            <title><br>\
+               غ<br>\
+            </title><br>\
+            <author>Edward William Lane</author><br>\
+            <funder n=&quot;org:USDeptEd&quot;>The U.S. Department of Education</funder><br>\
+            <funder n=&quot;org:MaxPlanck&quot;>The Max Planck Society</funder><br>\
+         </titleStmt><br>\
+         <publicationStmt><br>\
+            <publisher>Trustees of Tufts University</publisher><br>\
+            <pubPlace>Medford, MA</pubPlace><br>\
+            <authority>Perseus Project</authority><br>\
+            <availability status=&quot;free&quot;><br>\
+               <p>This text may be freely distributed, subject to the following<br>\
+                                            restrictions:</p><br>\
+               <list><br>\
+                  <item>You credit Perseus, as follows, whenever you use the document:<br>\
+                                                <quote>Text provided by Perseus Digital Library, with funding from The U.S. Department of Education and The Max Planck Society.</quote><br>\
+                  </item><br>\
+                  <item>You leave this availability statement intact.</item><br>\
+                  <item>You offer Perseus any modifications you make.</item><br>\
+               </list><br>\
+            </availability><br>\
+         </publicationStmt><br>\
+         <notesStmt><br>\
+            <note anchored=&quot;yes&quot; place=&quot;unspecified&quot;>Additional XML cleanup by Alpheios Technical Services, LLC.</note><br>\
+         </notesStmt><br>\
+         <sourceDesc><br>\
+            <listBibl><br>\
+               <biblStruct><br>\
+                  <analytic/><br>\
+                  <monogr><br>\
+                     <title>An Arabic-English Lexicon</title><br>\
+                     <imprint><br>\
+                        <pubPlace>London</pubPlace><br>\
+                        <publisher>Williams and Norgate</publisher><br>\
+                        <date>1863</date><br>\
+                     </imprint><br>\
+                  </monogr><br>\
+               </biblStruct><br>\
+            </listBibl><br>\
+         </sourceDesc><br>\
+      </fileDesc><br>\
+      <encodingDesc><br>\
+         <refsDecl doctype=&quot;TEI.2&quot;><br>\
+            <state unit=&quot;entry&quot;/><br>\
+         </refsDecl><br>\
+         <refsDecl doctype=&quot;TEI.2&quot;><br>\
+            <state n=&quot;chunk&quot; unit=&quot;root&quot;/><br>\
+            <state unit=&quot;entry&quot;/><br>\
+         </refsDecl><br>\
+      </encodingDesc><br>\
+      <profileDesc><br>\
+         <langUsage default=&quot;NO&quot;><br>\
+            <language id=&quot;en&quot;><br>\
+                                        English<br>\
+                                    </language><br>\
+            <language id=&quot;ar&quot;><br>\
+                                        Arabic<br>\
+                                    </language><br>\
+            <language id=&quot;xlar&quot;><br>\
+                                        Transliterated Arabic<br>\
+                                    </language><br>\
+            <language id=&quot;greek&quot;><br>\
+                                        Greek<br>\
+                                    </language><br>\
+            <language id=&quot;la&quot;><br>\
+                                        Latin<br>\
+                                    </language><br>\
+         </langUsage><br>\
+      </profileDesc><br>\
+   </teiHeader><br>\
+   <text><br>\
+      <body><br>\
+' } );

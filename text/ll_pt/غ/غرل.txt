@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>غرل</em>            1                  غرل<br>\
+<b>غَرِلَ</b>               1     <br>\
+                     غَرِلَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     غَرَلَ<br>\
+                  , inf. n. غَرَلٌ, <i>He was uncircumcised.</i> (Msb.)    </entryFree> <br>\
+<b>غَرِلٌ</b>               1     <br>\
+                     غَرِلٌ<br>\
+                     ذ<br>\
+                  , A man <i>flaccid, lax,</i> or <i>uncompact, in make.</i> (S, O, K.) ―         -b2-  And A <i>long,</i> (K,) or an <i>excessively long,</i> (TA,) spear. (K, TA.)     <br>\
+<b>غُرْلَةٌ</b>               1     <br>\
+                     غُرْلَةٌ<br>\
+                     ذ<br>\
+                   The قُلْفَة [or <i>prepuce</i>]. (S, O, Msb, K.) Hence, in a trad. of Aboo-Bekr when he was a boy, رَكِبَ الخَيْلَ عَلَى غُرْلَتِهِ, meaning <i>He rode horses when he was small in age, before he was circumcised.</i> (TA.)    </entryFree> <br>\
+<b>غِرْيَلٌ</b>               1     <br>\
+                     غِرْيَلٌ<br>\
+                     ذ<br>\
+                   and غِرْيَنٌ signify the same; (AA, AZ, As, S, O, K;) [<i>Silt,</i> or <i>alluvial deposit, left upon the ground by a torrent;</i>] i. e. (S, O) <i>earth,</i> or <i>mould, borne by a torrent, and remaining upon the ground,</i> (AZ, S, O, K,) <i>much cracked,</i> (K,) whether <i>moist</i> or <i>dry:</i> (AZ, S, O, K;) or <i>fine earth</i> or <i>mould, which is seen to have drive upon the ground,</i> (As, S, O, TA,) <i>and became (??) cracked,</i> (As, TA,) <i>when a torrent has came and remained some time upon the ground, and then sunk in and disappeared:</i> (As, S, O, TA:) or, accord. to AA, (S, O, TA,) <i>what remains of,</i> or <i>from, water,</i> (S, O,) or <i>of earth,</i> or <i>mud,</i> (TA,) <i>in a watering-trough:</i> (S, O, TA:) and <i>a pool of water left by a torrent. in which remain animal cules termed</i>] دَعَامِيص [pl. of دُعْمُوصٌ, q. v.], <i>and which one cannot drink.</i> (AA, S, O, K, TA.) And The <i>sediment remaining in the bottom of a flask,</i> or <i>bottle:</i> (AA, S, O, K, TA:) and the <i>sediment of a dye.</i> (TA.) And (the former) <i>Dust;</i> syn. غُبَارٌ. (O, K.) And The <i>mucus of the nose of a solid-hoofed animal of any hand.</i> (O, K.)    </entryFree> <br>\
+<b>اَغْرَلُ</b>               1     <br>\
+                     اَغْرَلُ<br>\
+                     ذ<br>\
+                  , with which اَرْغَلُ is syn. in all of the following senses, (TA,) applied to a boy, (S, O.) <i>i. q.</i> <br>\
+                  اقْلَفُ [i. e. <i>Uncircumcised</i>]: (S, O, Msb, K:) fem. غَرْلَا=ءُ: and pl. غُرْلٌ. (Msb.) ―         -b2-  And عَيْشٌ <br>\
+                  اَغْرَلُ <br>\
+                  <i>A life ample in its means,</i> or <i>circumstances.</i> (S, O, K.) And عَامٌ اَغْرَلُ <br>\
+                  <i>A fruitful,</i> or <i>plentiful, year.</i> (K.)   </entryFree> <br>\
+' } );

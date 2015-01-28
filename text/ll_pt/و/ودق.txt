@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>ودق</em>            1                  ودق<br>\
+<b>وَدْقٌ</b>               1     <br>\
+                     وَدْقٌ<br>\
+                     ذ<br>\
+                  <i>Rain,</i> (S, K, TA,) whether <i>violent</i> or <i>gentle:</i> (TA:) or <i>violent rain.</i> (MF in art. قهب.)    </entryFree> <br>\
+<b>وَدِيقٌ</b>               1     <br>\
+                     وَدِيقٌ<br>\
+                     ذ<br>\
+                  : see 10 in art. قرا.    </entryFree> <br>\
+<b>مُتَوَدِّقٌ</b>               1     <br>\
+                     مُتَوَدِّقٌ<br>\
+                     ذ<br>\
+                  : occurring in the TA, art. قهب; from الوَدْقُ, meaning <i>Violent rain.</i> (MF.)   </entryFree> <br>\
+' } );

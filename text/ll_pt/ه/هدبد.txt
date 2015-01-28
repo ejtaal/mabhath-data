@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>هدبد</em>            1                  هدبد<br>\
+<b>هُدَبِدٌ</b>               1     <br>\
+                     هُدَبِدٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      هُدَابِدٌ <br>\
+                  <i>Very thick</i> milk: (S, L, K:) <i>sour and thick</i> milk. (L.) The former word is a contraction of the latter. (S.) ―         -b2-  Also the former, <i>Smallness of the eyes, and weakness of the sight;</i> or <i>nyctalopia,</i> or <i>the seeing better by night than in the day, and in a cloudy day than in a clear one;</i> syn. خَفَشٌ: (L, K:) or (so in the L, in the K, and) <i>weakness of the eye,</i> (K,) or, <i>of the sight:</i> (L:) or (so in the L; in the K, and) [<i>that weakness of the sight which is termed</i>] عَشًا, [which is <i>a badness of sight by night and day;</i> or <i>the quality of seeing by day but not by night,</i>] (El-Mufaddal, L, K,) also termed شَبْكَرَةٌ: (El-Mufaddal, L:) or <i>weakness of the sight, with a flowing of the tears at most times;</i> syn. عَمَشٌ: (S, L:) or this is a mistake: (K:) or <i>any injurious affection of the eye.</i> (M, F.) ―         -b3-  Also, <i>Weak-sighted:</i> (L, K:) an epithet applied to a man. (L.) ―         -b4-  Also, <i>Black gum</i> (L, K) <i>which flows from trees.</i> (L.)    </entryFree> <br>\
+<b>هُدَابِدٌ</b>               1     <br>\
+                     هُدَابِدٌ<br>\
+                     ذ<br>\
+                  : see هُدَبِدٌ.   </entryFree> <br>\
+' } );

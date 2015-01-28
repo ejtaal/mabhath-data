@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'وهللَقِيتُهُ أَوَّلَ وَهْلَةٍ<br>\
+I met him the first thing: see<br>\
+صَوْلَةٌ.<br>\
+' } );

@@ -1,0 +1,54 @@
+load_data( { book: 'll_nvd', text: 'انقضىand ↓ تقضّى<br>\
+It passed away; came<br>\
+to an end, or to nought; became cut off. (K,<br>\
+TA.)<br>\
+8<br>\
+اِقْتَضَى كَذَا<br>\
+It required such a thing: it<br>\
+required the inference of such a thing: it necessarily implied, or involved, such a thing as its<br>\
+consequence or concomitant; it required such a<br>\
+thing to be conceded; it necessitated such a thing.<br>\
+―<br>\
+-b2-  اِقْتَضَاهُ حَقَّهُ<br>\
+He demanded of him his due.<br>\
+(MA.) ―<br>\
+-b3-  إِقْتَضَيْتُ مِنْهُ حَقِّى<br>\
+I took, or received,<br>\
+from him my due. (Mgh, Msb.)<br>\
+10<br>\
+اِسْتَقْضَيْتَهُ<br>\
+I demanded of him the giving<br>\
+[or payment] of my due, (Msb, K, *) or debt;<br>\
+(K;) and in like manner دَيْنِى ↓ تَقَاضَيْتُهُ and بِدَيْنِى.<br>\
+(Mgh.)<br>\
+قَضَآءٌ<br>\
+a term of the law; opposed to أَدَآءٌ,<br>\
+which see: and see an ex. cited voce صَحَّ. ―<br>\
+-b2-<br>\
+A decree; an ordinance; a sentence, or a judicial<br>\
+decision. See عُودٌ, حُكْمٌ and دِينٌ. ―<br>\
+-b3-  قَضَآءٌ<br>\
+The exercise of the office of a kádee. [You say]<br>\
+القَضَآءُ جَمْرٌ [meaning, the exercise of the office<br>\
+of a Kádee is one that often leads to hell]. (L,<br>\
+art. عود.)<br>\
+قَضِيَّةٌ<br>\
+A thing; an affair; a matter; a case;<br>\
+an event; an action: significations well known,<br>\
+but not found by me in any classical writing,<br>\
+nor in any lexicon, excepting as implied when<br>\
+the word is used in explanations: syn. أَمْرٌ and<br>\
+شَأْنٌ. ―<br>\
+-b2-  A case of law. (L in art. جهد.) ―<br>\
+-b3-<br>\
+قَضِيَّةٌ كُلِّيَّةٌ [A universal or general prescript,<br>\
+rule, or canon]. (Kull, voce قَاعِدَة, p. 290; KT,<br>\
+in explanation of the same word.) ―<br>\
+-b4-  قَضِيَّةٌ in<br>\
+logic, A proposition.<br>\
+مُقْتَضَى<br>\
+[Exigence.] ―<br>\
+-b2-  مُقْتَضَى اللَّفْظِ<br>\
+That<br>\
+which the word, or expression, indicates. (ElFárábee, Msb, voce مُعْنًى.)<br>\
+' } );

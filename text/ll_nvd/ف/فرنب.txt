@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'فرنبفِرْنِبٌ A rat, or mouse; syn. فَأْرَةٌ: (IAar, O,<br>\
+K:) or the young one generated between it and a<br>\
+jerboa: (K:) or [as a coll. gen. n.] the rat, or<br>\
+mouse; syn. فَأْرٌ. (T.) [See also قَرْنَبٌ.]<br>\
+' } );

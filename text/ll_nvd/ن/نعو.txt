@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نعو1<br>\
+نَعَاهُ<br>\
+He announced his death: see a verse<br>\
+cited voce طُوبَالَةٌ.<br>\
+' } );

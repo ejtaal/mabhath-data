@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'رأو4<br>\
+أَرْأَى, in one of its senses belonging to this<br>\
+art.: see 4 in the art. next following.<br>\
+رَأْوَةٌ: see the next art., in which it is mentioned<br>\
+in the S.<br>\
+' } );

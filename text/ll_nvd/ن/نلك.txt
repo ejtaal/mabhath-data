@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نلكنُلْكٌ<br>\
+A kind of medlar-tree, Mespilus aronia.<br>\
+See رُوبَةٌ.<br>\
+' } );

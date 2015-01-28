@@ -1,0 +1,59 @@
+load_data( { book: 'll_nvd', text: 'ارق1<br>\
+أَرِقَ, aor.<br>\
+اَرَقَ, inf. n. أَرَقٌ, (T, S, K, &amp;c.,) He<br>\
+was sleepless, or wakeful, or sleep departed from<br>\
+him, (JK, T,) by night; (T;) i. q. سَهِرَ (S, Mgh,<br>\
+Sgh, K) بِاللَّيْلِ; (Sgh, K;) or i. q. سَهِدَ: (S, and<br>\
+L and K in art. سهد:) or sleep departed from him<br>\
+by reason of a malady, or a distracting accident or<br>\
+event: (M:) or he was sleepless or wakeful (سَهِرَ)<br>\
+in a case that was disliked, or evil; سَهِرَ having a<br>\
+general sense: (M, F:) or he shut his eyes one<br>\
+while and opened them another, [being unable to<br>\
+continue sleeping,] whereas سَهِرَ signifies he did<br>\
+not sleep at all: (Deewán of the Hudhalees, cited<br>\
+by Freytag in his Lex.:) or أَرَقٌ signifies sleeplessness, or wakefulness, engendered by anxiety and<br>\
+grief: (Har p. 162:) and ↓ ائترق [with the disjunctive alif written اِيتَرَقَ] signifies the same as<br>\
+أَرِقَ. (S, K.)<br>\
+-A2-  أُرِقَتِ النَّخْلَةُ [and أُرِقَ الزّرْعُ] The<br>\
+palm-tree [and the seed-produce] was affected, or<br>\
+smitten, by what is termed أَرَقَان. (JK.)<br>\
+2<br>\
+أَرَّقَنِى كَذَا, (JK, S, K, *) inf. n. تَأْرِيقٌ. (S,<br>\
+Mgh,) Such a thing rendered me, or caused me to<br>\
+be, sleepless or wakeful; (JK, S, Mgh, * K; *) as<br>\
+also ↓ آرقنى, (K,) inf. n. إِيرَاقٌ. (TA.)<br>\
+4<br>\
+آرَقَ see 2.<br>\
+8<br>\
+إِاْتَرَقَ see 1.<br>\
+أَرْقٌ: see أَرَقَانٌ.<br>\
+أَرُقٌ: see what next follows.<br>\
+أَرِقٌ Sleepless or wakeful (S, K) by night (K)<br>\
+[by reason of a malady, or a distracting accident<br>\
+or event, &amp;c. (see 1)]; as also ↓ آرِقٌ (IF, K) and<br>\
+↓ أَرُقٌ and ↓ أُرُقٌ; or the last signifies habitually<br>\
+so. (TA.)<br>\
+أُرُقٌ: see what next precedes.<br>\
+أَرَقَانٌ (JK, S, K) and أَرُقَانٌ and أَرْقَانٌ and إِرِقَانٌ<br>\
+and إِرْقَانٌ and ↓ أَرْقٌ and ↓ أُرَاقٌ (K) i. q. يَرَقَانٌ;<br>\
+(JK, S, K;) أرَقَانٌ being a dial. var. of this last;<br>\
+(S;) or the hemzeh is a substitute for the ى;<br>\
+(L;) and يرقان is the word most commonly<br>\
+known; (K;) A blight, or disease, which affects,<br>\
+or smites, seed-produce: (JK, S, K:) and a disease<br>\
+[namely jaundice] which affects, or smites, man,<br>\
+(S, K,) causing the person to become yellow [or<br>\
+blackish]; (TA;) it is a disease which changes<br>\
+the colour of the person excessively to yellowness<br>\
+or blackness, by the flowing of the yellow or black<br>\
+humour to the skin and the part next thereto,<br>\
+without putridity. (Ibn-Seenà [Avicenna], K.)<br>\
+أُرَاقٌ: see أَرَقَانٌ.<br>\
+آرِقٌ: see أَرِقٌ.<br>\
+زِرْعٌ مَأْرُوقٌ Seed-produce affected, or smitten,<br>\
+with a blight, or disease, (JK, S, K,) such as is<br>\
+termed أَرَقَان; (JK, S;) as also مَيْرُوقٌ [from يَرَقَان]:<br>\
+(S, K:) and نَخْلَةٌ مَأْرُوقَةٌ a palm-tree affected, or<br>\
+smitten, therewith. (JK, TA.)<br>\
+' } );

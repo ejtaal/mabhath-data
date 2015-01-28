@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لفا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لفا<br>\
+&lt;entryFree id=&quot;n37849&quot; key=&quot;لَفَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     لَفَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     لَفَاَ<br>\
+                  &lt;/form&gt;, inf. n. لَفْءٌ and لَفَا=ءٌ; and ↓ <br>\
+      التفا; &lt;i&gt;He stripped off,&lt;/i&gt; or &lt;i&gt;peeled off,&lt;/i&gt; (K,) meat from a bone. (AZ, S.) ―         -b2-  لَفَاَتِ الرِّيحُ السَّحَابَ عَنْ وَجْهِ <br>\
+                  السَّمَا=ءِ (assumed tropical:)  [&lt;i&gt;The wind stripped off the clouds from the face of the sky&lt;/i&gt;]. (S.) ―         -b3-  لَفَاَ, inf. n. لَفْءٌ, &lt;i&gt;He peeled&lt;/i&gt; a bone (TA) or a stick. (S.) ―         -b4-  لَفَاَ <br>\
+                  &lt;i&gt;He beat&lt;/i&gt; (S, K) with a staff or stick. (S.) ―         -b5-  &lt;i&gt;He turned&lt;/i&gt; a person &lt;i&gt;back,&lt;/i&gt; or &lt;i&gt;away, from his purpose.&lt;/i&gt; (K.) ―         -b6-  لَفَاَ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اـِغْتَابَ; (assumed tropical:)  &lt;i&gt;He traduced&lt;/i&gt; a person &lt;i&gt;behind his back,&lt;/i&gt; or &lt;i&gt;in his absence, but saying of him what was true.&lt;/i&gt; (K.) Thought to be tropical, from the same verb signifying “ he peeled. ” (TA.)       -A2-  لَفِىءَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     لَفَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it remained,&lt;/i&gt; or &lt;i&gt;endured.&lt;/i&gt; (K.)       -A3-  لَفَاَهُ حَقَّهُ <br>\
+                  &lt;i&gt;He gave him the whole of what was due to him:&lt;/i&gt; (like لَكَاَهُ: T:) or لفاه signifies &lt;i&gt;he gave him less than his due.&lt;/i&gt; (K.) Accord. to Aboo-Turab, the verb is used in these two contr. senses. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37850&quot; key=&quot;الفا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     الفا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He caused to remain,&lt;/i&gt; or &lt;i&gt;endure.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِلْتَفَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37851&quot; key=&quot;لَفَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَفَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Deficiency:&lt;/i&gt; (IAth:) رَضِيتُ مِنَ الوَفَا=ءِ <br>\
+                  بِاللَّفَا=ءِ [&lt;i&gt;I was content with a deficiency instead of full payment&lt;/i&gt;]: from a trad. (TA.) ―         -b2-  &lt;i&gt;Less than what is just,&lt;/i&gt; or &lt;i&gt;right.&lt;/i&gt; (K.) ―         -b3-  &lt;i&gt;A little thing; a little.&lt;/i&gt; (K.) ―         -b4-  &lt;i&gt;Dust; earth.&lt;/i&gt; (K.) ―         -b5-  &lt;i&gt;Small bits of rubbish on the ground.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37852&quot; key=&quot;لَفِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَفِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A piece of meat stripped off,&lt;/i&gt; or &lt;i&gt;peeled off, from a bone:&lt;/i&gt; (TA:) &lt;i&gt;a piece of meat in which is no bone:&lt;/i&gt; (S:) pl. لَفِىْءٌ [but this is rather a coll. gen. n., or it is doubtful] and لَفَايَا. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

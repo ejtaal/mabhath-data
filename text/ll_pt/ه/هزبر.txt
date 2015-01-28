@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>هزبر</em>            1                  هزبر<br>\
+<b>هِزَبْرٌ</b>               1     <br>\
+                     هِزَبْرٌ<br>\
+                     ذ<br>\
+                   and هِزْبَرٌ and هُزَابِرٌ, (K,) or the first [only], (TA,) <i>Thick and bulky:</i> and <i>strong and hard</i> or <i>hardy:</i> pl. هَزَابِرُ. (K.) You say, نَاقَةٌ هِزَبْرَةٌ <br>\
+                  <i>A hard,</i> or <i>hardy, she-camel.</i> (IAar.) ―         -b2-  Also, the first, (S, K,) and the second and third, (Sgh, K,) The <i>lion:</i> (S, Sgh, K,) accord. to some, because of his thickness and bulkiness. (TA.) Some say that the ه is a radical letter: others, that it is augmentative, and that the word is from زَبْرٌ, signifying the “ act of repelling with strength. ” (MF, TA.)   </entryFree> <br>\
+' } );

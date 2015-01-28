@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ذات</em>            1                  ذات<br>\
+<b>ذَاتُ</b>               1     <br>\
+                     ذَاتُ<br>\
+                     ذ<br>\
+                  ; dual. ذَوَاتَا; pl. ذَوَاتٌ: see art. ذو.    </entryFree> <br>\
+<b>ذَاتِىٌّ</b>               1     <br>\
+                     ذَاتِىٌّ<br>\
+                     ذ<br>\
+                  : and ذَاتِيَّةٌ: see art. ذو.   </entryFree> <br>\
+' } );

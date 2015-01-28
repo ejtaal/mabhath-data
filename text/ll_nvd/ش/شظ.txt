@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'شظ1<br>\
+شَظَّ الجُوَالِقَ, (S,) or الوِعَآءَ, (K,) aor.<br>\
+شَظُ3َ,<br>\
+inf. n. شَظٌّ, (TA,) He fastened its شِظَاظ [q. v.]<br>\
+upon the sack: (S:) or he put the شِظَاظ into the<br>\
+bag; [meaning into its loop, or handle;] as also<br>\
+↓ اشظّهُ: (K:) or the latter signifies he put to it,<br>\
+or made for it, (namely the sack,) a شِظَاظ. (S.)<br>\
+4<br>\
+أَشْظَ3َ see the preceding paragraph.<br>\
+شِظَاظٌ The stick, or piece of wood, which is<br>\
+inserted into the loop, or handle, of a sack; (S;)<br>\
+a curved piece of wood, (K, TA,) with a pointed<br>\
+extremity, (TA,) which is put into the two loops,<br>\
+or handles, of a pair of sacks, (K, TA,) when<br>\
+they are bound upon the camel: (TA:) there are<br>\
+two such pieces of wood: (S, * TA:) pl. أَشِظَّةٌ.<br>\
+(K.) And A piece of wood, or peg, with which<br>\
+they make fast the rope of a burden. (Ibn-Maaroof, as cited by Golius.)<br>\
+شَظِيظٌ A sack made fast, or bound. (Fr. K.)<br>\
+-A2-  A stick, or piece of wood, split in several<br>\
+places. (Fr, K.)<br>\
+' } );

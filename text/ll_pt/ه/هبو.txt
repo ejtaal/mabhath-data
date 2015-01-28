@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>هبو</em>            1                  هبو<br>\
+<b>هَباَ الرَّمَادُ</b>               1     <br>\
+                     هَباَ الرَّمَادُ<br>\
+                     ذ<br>\
+                  , (JK, TA,) aor. يَهْبُو, (TA,) <i>The ashes became mixed with dust,</i> and extinguished: (JK, TA:) and هَباَ الجَمْرُ. (M, art. رمد.)    </entryFree> <br>\
+<b>هُبَةٌ</b>               1     <br>\
+                     هُبَةٌ<br>\
+                     ذ<br>\
+                  : see اَهْبَةٌ.    </entryFree> <br>\
+<b>هَبْوَةٌ</b>               1     <br>\
+                     هَبْوَةٌ<br>\
+                     ذ<br>\
+                  <i>Dust rising,</i> or <i>spreading, in the sky like smoke.</i> (JK.)    </entryFree> <br>\
+<b>هَبَا=ءٌ</b>               1     <br>\
+                     هَبَا=ءٌ<br>\
+                     ذ<br>\
+                  <i>The motes that are seen in the rays of the sun:</i> (TA:) see an ex. voce غُثَا=ءٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>مصح</em>            1                  مصح<br>\
+<b>مَصَحَ</b>               1     <br>\
+                     مَصَحَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَصَحَ<br>\
+                  , inf. n. مُصُوحٌ (and مَصْحٌ, TA), <i>He,</i> or <i>it,</i> (a thing, S,) <i>went away; passed away; departed.</i> (S, K.) ―         -b2-  <i>It finished; came to an end; ceased.</i> (S, K.) ―         -b3-  <i>It</i> (a garment) <i>became old and worn-out.</i> (S, K.) ―         -b4-  <i>It</i> (a plant) <i>became faded in its blossoms.</i> (S, K.) ―         -b5-  Also, inf. n. مُصُوحٌ, <i>It</i> (a blossom) <i>faded;</i> or <i>lost its colour.</i> (AHn.) ―         -b6-  مَصَحَ, (inf. n. مُصُوحٌ, TA,) <i>It</i> (the shade) <i>became short.</i> (S, K.) ―         -b7-  مَصَحَ, inf. n. مُصُوحٌ, <i>It</i> (an udder) <i>ceased to have milk.</i> (TA.) ―         -b8-  <i>It</i> (the milk of a camel) <i>ceased; passed away.</i> (S, K.) ―         -b9-  مَصِحَ, aor.      <br>\
+                     مَصَحَ<br>\
+                  , <i>It</i> (shade) <i>became deficient and thin.</i> So accord. to the K; but in other lexicons, the verb, with reference to shade, is مَصَحَ. (TA.) ―         -b10-  مَصَحَ, inf. n. مُصُوحٌ, <i>It</i> (a writing) <i>became obliterated,</i> or <i>nearly so.</i> (TA.) ―         -b11-  <i>It</i> (a dwelling) <i>became obliterated;</i> or <i>its vestiges became effaced.</i> (TA.) ―         -b12-  مَصَحَ بِهِ, (S, K,) and ↓ <br>\
+      اَمْصَحَهُ, (IB,) <i>He took away, carried off,</i> or <i>went away with, it;</i> or <i>caused it to go, go away,</i> or <i>pass away.</i> (S, IB, K.) ―         -b13-  مَصَحَ فِى الاَرْضِ, inf. n. مَصْحٌ, <i>He set forth journeying through the land,</i> or <i>earth:</i> as also مَسَحَ. (ISd.)    </entryFree> <br>\
+                     اَمْصَحَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>اَمْصَحُ</b>               1     <br>\
+                     اَمْصَحُ<br>\
+                     ذ<br>\
+                  <i>Deficient and thin</i> shade. (K.)   </entryFree> <br>\
+' } );

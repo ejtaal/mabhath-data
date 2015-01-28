@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>ظا</em>            1                  ظا<br>\
+<b>ظَاْظَاَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     ظَاْظَاَ<br>\
+                     ذ<br>\
+                  , inf. n. ظَاْظَاَةٌ (L, K) and ظَاْظَا=ءٌ, (K, TA, [in the CK ظَاْواء,]) the latter allowable in the case of a R. Q. verb, as in the instances of وَسْوَاسٌ and the like, (MF, TA,) [accord. to some, but وسواس and the like are generally held to be inf. ns. if with kesr, and simple substs. if with fet-h,] <i>He</i> (a goat) <i>made a</i> [<i>rattling</i>] <i>sound,</i> or <i>cry, when excited by lust,</i> or <i>at rutting-time;</i> syn. نَبَّ. (AA, L, K.) ―         -b2-  And ظاظا, (M, K,) inf. n. ظَاْظَاَةٌ, (M,) <i>He</i> (a person whose upper lip was slit, M, K, and one whose fore teeth were broken at the roots, K, * TA) <i>spoke unintelligible speech, and with a nasal sound.</i> (M, K.)   </entryFree> <br>\
+' } );

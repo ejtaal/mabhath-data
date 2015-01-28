@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'صولجصَوْلَجٌ and صَوْلَجَةٌ: see what here follows.<br>\
+صَوْلَجَانٌ (T, S, K) and ↓ صَوْلَجَانَةٌ (Sb, TA) and<br>\
+↓ صَوْلَجٌ (T, TA) and ↓ صَوْلَجَةٌ, (TA,) as also<br>\
+صَوَّجَانٌ, (L in art. صوج,) [A kind of goff-stick,<br>\
+or golf-stick, played with by men on horseback;]<br>\
+a stick with a curved, or crooked, end; syn.<br>\
+مِحْجَنٌ; (S, K;) [or rather] a stick of which the<br>\
+end is curved [artificially] with which a ball is<br>\
+struck by men on horseback: a stick of which the<br>\
+end curves, or crooks, naturally, on its tree, is<br>\
+called مِحْجَنٌ: (T, TA:) of Pers. origin, (S,)<br>\
+[i. e. from the Pers. چَوْگَانْ,] arabicized: (T, S:)<br>\
+pl. صَوَالِجَةٌ; (S, K;) the ة being added in the pl.<br>\
+because of the foreign origin, (S, M, TA,) as is<br>\
+mostly the case in broken pls. of words of foreign<br>\
+origin. (M, TA.)<br>\
+صَوْلَجَانَةٌ: see the next paragraph here preceding.<br>\
+' } );

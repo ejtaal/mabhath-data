@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>رنز</em>            1                  رنز<br>\
+<b>رُنْزٌ</b>               1     <br>\
+                     رُنْزٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَرُزٌّ [and رُزٌّ, i. e. <i>Rice</i>]; (S, K; [incorrectly said in the TA to be omitted by J;]) in the dial. of &#39;Abd-el-Keys: (ISd, TA:) as though the first ز were changed into ن, (S, TA,) as ج in اـِنْجَاصٌ for اـِجَّاصٌ. (TA.) [See حَظٌّ.]   </entryFree> <br>\
+' } );

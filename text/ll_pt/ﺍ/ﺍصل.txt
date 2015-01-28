@@ -1,0 +1,176 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اصل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اصل<br>\
+&lt;entryFree id=&quot;n874&quot; key=&quot;اَصُلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَصُلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَصَالَةٌ; (TA;) or اَصِلَ; (M;) &lt;i&gt;It&lt;/i&gt; (a thing, M) &lt;i&gt;had,&lt;/i&gt; or &lt;i&gt;came to have, root,&lt;/i&gt; or &lt;i&gt;a foundation;&lt;/i&gt; (M, K;) as also ↓ <br>\
+      تاصّل: (M:) or &lt;i&gt;it was,&lt;/i&gt; or &lt;i&gt;became, firm,&lt;/i&gt; or &lt;i&gt;established,&lt;/i&gt; and &lt;i&gt;firmly rooted&lt;/i&gt; or &lt;i&gt;founded;&lt;/i&gt; as also ↓ <br>\
+      تاصّل: (K:) and [in like manner] ↓ <br>\
+      استاصل <br>\
+                  &lt;i&gt;it&lt;/i&gt; (a thing) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, firm in its root&lt;/i&gt; or &lt;i&gt;foundation, and strong.&lt;/i&gt; (Msb.) You say, الشَجَرَةُ ↓ <br>\
+      اِسْتَاْصَلَتِ <br>\
+                  &lt;i&gt;The tree&lt;/i&gt; [&lt;i&gt;took root;&lt;/i&gt; or] &lt;i&gt;grew, and became firm in its root.&lt;/i&gt; (TA.) ―         -b2-  [Hence,] اَصُلَ, (S, M, K,) inf. n. as above, (S, M,) &lt;i&gt;He&lt;/i&gt; (a man, S, * M) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, firm,&lt;/i&gt; (S, M, K;) or &lt;i&gt;sound,&lt;/i&gt; (S,) &lt;i&gt;of judgment;&lt;/i&gt; (S, M, K;) &lt;i&gt;intelligent.&lt;/i&gt; (M: [and so, probably, in correct copies of the K; but in a MS. copy of the K and in the CK; and TA, instead of عَاقِل, the reading in the M, I find عَاقِب.]) ―         -b3-  Also, (S, * K,) inf. n. as above, (S, TA,) &lt;i&gt;It&lt;/i&gt; (judgment, or opinion,) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, firm,&lt;/i&gt; or &lt;i&gt;sound,&lt;/i&gt; (S, * TA,) or &lt;i&gt;good.&lt;/i&gt; (K.) ―         -b4-  And, inf. n. as above, &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, eminent, noble,&lt;/i&gt; or &lt;i&gt;honourable.&lt;/i&gt; (Msb.)       -A2-  اَصَلَهُ, [aor. and inf. n. as in what follows next after this sentence,] &lt;i&gt;He hit,&lt;/i&gt; or &lt;i&gt;struck, its root,&lt;/i&gt; or &lt;i&gt;foundation; that by being which it was what it was,&lt;/i&gt; or &lt;i&gt;in being which it consisted;&lt;/i&gt; or &lt;i&gt;its ultimate constituent.&lt;/i&gt; (A, TA.) ―         -b2-  And hence, (A, TA,) اَصَلَهُ عِلْمًا, (A, K, TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَصُلَ<br>\
+                  &lt;/form&gt;, inf. n. اَصْلٌ: (TA;) or ↓ <br>\
+      ا=صَلَهُ [with medd, (which I think to be a mistake, unless this be a dial. var.,) and without علما]; (so in a copy of the M;) (assumed tropical:) &lt;i&gt;He knew it completely,&lt;/i&gt; or &lt;i&gt;thoroughly,&lt;/i&gt; or &lt;i&gt;superlatively well,&lt;/i&gt; syn. قَتَلَهُ, (K,) [i. e.] قَتَلَهُ عِلْمًا, &lt;i&gt;so that he was acquainted with its&lt;/i&gt; <br>\
+                  اَصْل [or &lt;i&gt;root,&lt;/i&gt; or &lt;i&gt;foundation,&lt;/i&gt; or its &lt;i&gt;ultimate constituent,&lt;/i&gt; as is indicated in the A and TA]: (M:) or this is from اَصَلَةٌ, as meaning “a certain very deadly serpent;” (A, TA;) [whence the phrase,] ―         -b3-  اَصَلَتْهُ الاَصَلَةُ, (K,) inf. n. اَصْلٌ, (TA,) &lt;i&gt;The&lt;/i&gt; [&lt;i&gt;serpent called&lt;/i&gt;] اصلة <br>\
+                  &lt;i&gt;sprang upon him&lt;/i&gt; (K, TA) &lt;i&gt;and slew him.&lt;/i&gt; (TA.)       -A3-  اَصِلَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَصَلَ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. اَصَلٌ, (M,) said of water, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَسِنَ; (M, K;) i. e. &lt;i&gt;It became altered for the worse&lt;/i&gt; (M, TA) &lt;i&gt;in its taste and odour,&lt;/i&gt; (TA,) &lt;i&gt;from fetid black mud&lt;/i&gt; (K, TA) &lt;i&gt;therein:&lt;/i&gt; so says Ibn-&#39;Abbád: (TA:) and said of flesh-meat, &lt;i&gt;it became altered&lt;/i&gt; (K, TA) &lt;i&gt;in like manner.&lt;/i&gt; (TA.)       -A4-  اَصِلَ فُلَانٌ يَفْعَلُ كَذَا وَ كَذَا <br>\
+                  &lt;i&gt;Such a one set about,&lt;/i&gt; or &lt;i&gt;commenced, doing thus and thus,&lt;/i&gt; or &lt;i&gt;such and such things.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n875&quot; key=&quot;اصلّهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اصلّهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْصِيلٌ, &lt;i&gt;He made it to have a firm,&lt;/i&gt; or &lt;i&gt;fixed, root,&lt;/i&gt; or &lt;i&gt;foundation, whereon to build,&lt;/i&gt; (Msb, TA,) i. e., &lt;i&gt;whereon another thing might be built.&lt;/i&gt; (El-Munáwee, TA.) [Hence,] اصّل مَالَهُ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَثَّلَهُ [&lt;i&gt;He made his wealth,&lt;/i&gt; or &lt;i&gt;property, to have root,&lt;/i&gt; or &lt;i&gt;a foundation;&lt;/i&gt; or &lt;i&gt;to become firm,&lt;/i&gt; or &lt;i&gt;established,&lt;/i&gt; and &lt;i&gt;firmly rooted&lt;/i&gt; or &lt;i&gt;founded:&lt;/i&gt; see, below, اَصْلُ مَالٍ, and مَالٌ لَهُ اَصْلٌ]. (M and K in art. اثل.) ―         -b2-  اصّل الاُصُولَ [&lt;i&gt;He disposed, arranged, distributed, classified,&lt;/i&gt; or &lt;i&gt;set in order, the fundamentals, fundamental articles, principles, elements,&lt;/i&gt; or &lt;i&gt;rudiments,&lt;/i&gt; of a science, &amp;amp;c.,] is a phrase similar to بَوَّبَ الاَبْوَابَ and رَتَّبَ الرُّتَبَ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n876&quot; key=&quot;ا=صل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=صل<br>\
+                     ا=صل<br>\
+                  &lt;/form&gt;, (inf. n. اـِيصَالٌ, TA,) &lt;i&gt;He entered upon the time called&lt;/i&gt; <br>\
+                  اَصِيل, q. v. (S, M, K.)       -A2-  See also اَصَلَهُ عِلْمًا.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n877&quot; key=&quot;تاصّل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاصّل<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, first sentence, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n878&quot; key=&quot;استاصل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاصل<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, in two places, first and second sentences.       -A2-  استاصلهُ <br>\
+                  &lt;i&gt;He uprooted it; unrooted it; eradicated it; extirpated it; pulled it up,&lt;/i&gt; or &lt;i&gt;out,&lt;/i&gt; or &lt;i&gt;off, from its root,&lt;/i&gt; or &lt;i&gt;foundation,&lt;/i&gt; or &lt;i&gt;lowest part,&lt;/i&gt; (S, TA,) or &lt;i&gt;with its roots,&lt;/i&gt; or &lt;i&gt;foundations,&lt;/i&gt; or &lt;i&gt;lowest parts;;&lt;/i&gt; (TA;) &lt;i&gt;he cut it off&lt;/i&gt; (M, Msb) &lt;i&gt;from its root,&lt;/i&gt; or &lt;i&gt;lowest part,&lt;/i&gt; (M,) or &lt;i&gt;with its roots,&lt;/i&gt; or &lt;i&gt;lowest parts.&lt;/i&gt; (Msb.) You say, اِسْتَاْصَلَ اْللّٰهُ شَاْفَتَهُمْ, a precative phrase, meaning &lt;i&gt;May God [extirpate&lt;/i&gt; or] &lt;i&gt;remove (from them) their&lt;/i&gt; <br>\
+                  شافة; which is an ulcer, or a purulent pustule, that comes forth in the foot, and is cauterized, and in consequence goes away: (M:) or استاصل شافتهم [in general usage] means &lt;i&gt;he extirpated them,&lt;/i&gt; or &lt;i&gt;may he extirpate them;&lt;/i&gt; or &lt;i&gt;he cut off,&lt;/i&gt; or &lt;i&gt;may he cut off, the last remaining of them.&lt;/i&gt; (TA. [See also art. شاف.]) And استاصل القَوْمَ, i. e. قَطَعَ اَصْلَهُمْ [&lt;i&gt;He cut off the root, race,&lt;/i&gt; or &lt;i&gt;stock, of the people;&lt;/i&gt; i. e. &lt;i&gt;he extirpated them&lt;/i&gt;]. (M.) And استاصل اْللّٰهُ الكُفَّارَ <br>\
+                  &lt;i&gt;God destroyed altogether&lt;/i&gt; or &lt;i&gt;entirely,&lt;/i&gt; or &lt;i&gt;may God destroy altogether&lt;/i&gt; or &lt;i&gt;entirely, the unbelievers.&lt;/i&gt; (Msb.) And استاصل الخِتَانَ <br>\
+                  &lt;i&gt;He performed the circumcision so as to remove the prepuce utterly.&lt;/i&gt; (TA in art. سحت.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n879&quot; key=&quot;اَصْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;lower,&lt;/i&gt; or &lt;i&gt;lowest, part&lt;/i&gt; of a thing; [i. e. its &lt;i&gt;root, bottom,&lt;/i&gt; or &lt;i&gt;foot;&lt;/i&gt;] (M, Msb, K;) as also ↓ <br>\
+      يَاْصُولٌ: (M, K:) so of a mountain: and of a wall; (TA;) i. e. its &lt;i&gt;foundation,&lt;/i&gt; or &lt;i&gt;base:&lt;/i&gt; (Msb:) and of a tree [or plant]; (TA;) i. e. [its &lt;i&gt;stem,&lt;/i&gt; or &lt;i&gt;trunk,&lt;/i&gt; or &lt;i&gt;stock,&lt;/i&gt; or] the &lt;i&gt;part from which the branches are broken off:&lt;/i&gt; (TA in art. كسر:) [and also its &lt;i&gt;root,&lt;/i&gt; or &lt;i&gt;foot;&lt;/i&gt; for] the سَاق of a tree is said to be the part between its اَصْل and the place where its branches shoot out: (TA in art. سوق:) [and &lt;i&gt;a stump&lt;/i&gt; of a tree: and hence, &lt;i&gt;a block&lt;/i&gt; of wood: (see exs. voce نَقِيرٌ:)] pl. اُصُولٌ (S, M, Msb, K) and [pl. of pauc.] ا=صُلٌ: (AHn, K:) [ISd says that] the former is its only pl.: (M:) [but] the latter pl. occurs in a verse of Lebeed, (which see below,) as cited by AHn. (TA.) You say, قَعَدَ فِى اَصْلِ جَبَلِ <br>\
+                  &lt;i&gt;He sat upon,&lt;/i&gt; or &lt;i&gt;at, the lowest part&lt;/i&gt; [&amp;amp;c.] &lt;i&gt;of the mountain;&lt;/i&gt; and فِى اَصْلِ الحَايِطِ <br>\
+                  &lt;i&gt;at the lowest part&lt;/i&gt; [&amp;amp;c.] &lt;i&gt;of the wall.&lt;/i&gt; (TA.) And قَلَعَهُ مِنْ اَصْلِهِ [&lt;i&gt;He pulled it up,&lt;/i&gt; or &lt;i&gt;out,&lt;/i&gt; or &lt;i&gt;off, from its root,&lt;/i&gt; or &lt;i&gt;foundation,&lt;/i&gt; or &lt;i&gt;lowest part&lt;/i&gt;]; and باُصُولِهِ [&lt;i&gt;with its roots,&lt;/i&gt; or &lt;i&gt;foundations,&lt;/i&gt; or &lt;i&gt;lowest parts;&lt;/i&gt; both meaning, &lt;i&gt;utterly, entirely,&lt;/i&gt; or &lt;i&gt;altogether&lt;/i&gt;]. (TA in explanation of استاصلهُ, q. v.) And قَلَعَ اَصْلَ الشَّجَرَةِ <br>\
+                  &lt;i&gt;He pulled up,&lt;/i&gt; or &lt;i&gt;out, the lowest part,&lt;/i&gt; [or &lt;i&gt;stem&lt;/i&gt; or &lt;i&gt;stock&lt;/i&gt; or &lt;i&gt;root&lt;/i&gt; or &lt;i&gt;foot&lt;/i&gt; or &lt;i&gt;stump,&lt;/i&gt;] &lt;i&gt;of the tree.&lt;/i&gt; (TA.) Lebeed says, [of a wild cow,] &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        تَجْتَافُ ا=صُلَ قَالِصٍ مُتَنَبِّذٍ<br>\
+                     &lt;L&gt;<br>\
+                        بِعُجُوبِ اَنْقَا=ءٍ يَمِيلُ هَيَامُهَا<br>\
+                  &lt;/quote&gt; [&lt;i&gt;She enters into the midst of the stems of trees with high branches, apart from others,&lt;/i&gt; i. e. from other trees, &lt;i&gt;in the hinder parts of sand-hills, the fine loose sand thereof inclining&lt;/i&gt; upon her]: (AHn, TA:) but as some relate it, اَصْلًا قَالِصًا. (TA. [See EM, p. 161.]) ―         -b2-  &lt;i&gt;A thing upon which another thing is built&lt;/i&gt; or &lt;i&gt;founded&lt;/i&gt; [either properly or tropically]: (KT, Kull p. 50, TA:) the &lt;i&gt;foundation,&lt;/i&gt; or &lt;i&gt;basis,&lt;/i&gt; of a thing, [either properly or tropically,] &lt;i&gt;which being imagined to be taken away,&lt;/i&gt; or &lt;i&gt;abstracted, by its being taken away,&lt;/i&gt; or &lt;i&gt;abstracted, the rest thereof becomes also taken away,&lt;/i&gt; or &lt;i&gt;abstracted:&lt;/i&gt; (Er-Rághib, TA:) &lt;i&gt;that upon which the existence&lt;/i&gt; of anything &lt;i&gt;rests&lt;/i&gt; [or &lt;i&gt;depends&lt;/i&gt;]; so the father is اصل to the offspring, and the river is اصل to the streamlet that branches off from it: (Msb:) or &lt;i&gt;a thing upon which another thing depends as a branch;&lt;/i&gt; as the father in relation to the son: (Kull:) [i. e. the &lt;i&gt;origin, source, beginning,&lt;/i&gt; or &lt;i&gt;commencement,&lt;/i&gt; of a thing: the &lt;i&gt;origin, original, root, race,&lt;/i&gt; or &lt;i&gt;stock,&lt;/i&gt; from which a man springs. Hence شَىْءٌ <br>\
+                  لَهُ اَصْلٌ <br>\
+                  &lt;i&gt;A thing having root,&lt;/i&gt; or &lt;i&gt;a foundation;&lt;/i&gt; and consequently, &lt;i&gt;having rootedness, fixedness, im-&lt;/i&gt; <br>\
+                  &lt;i&gt;mobility, stability,&lt;/i&gt; or &lt;i&gt;permanence; rooted, fixed, immoveable, stable,&lt;/i&gt; or &lt;i&gt;permanent.&lt;/i&gt; Whence,] مَالٌ <br>\
+                  لَهُ اَصْلٌ, (Mgh voce عَقَارٌ,) and مِلْكٌ ثَابِتٌ لَهُ اَصْلٌ, (Msb in explanation of that word,) and مَا لَهُ اَصْلٌ, (KT in explanation of the same,) [&lt;i&gt;Real,&lt;/i&gt; or &lt;i&gt;immoveable, property;] property such as consists in a house or land yielding a revenue;&lt;/i&gt; (Mgh;) or &lt;i&gt;such as a house and palm-trees;&lt;/i&gt; (Msb;) or &lt;i&gt;such as land and a house.&lt;/i&gt; (KT.) [Hence, also, اَصْلٌ مَالٍ signifying &lt;i&gt;A source of wealth&lt;/i&gt; or &lt;i&gt;profit; a stock, fund, capital,&lt;/i&gt; or &lt;i&gt;principal.&lt;/i&gt; You say,] اِتَّخَذْتُهُ لِنَفْسِى اَصْلَ مَالٍلِلنَّسْلِ لَا لِلِتِّجَارَةِ [&lt;i&gt;I took it for myself as a source of wealth&lt;/i&gt; or &lt;i&gt;profit, for breeding, not for traffic&lt;/i&gt;]. (Mgh in art. قنو.) You say also, بَاعَ اَصْلَ اَرْضِهِ [meaning &lt;i&gt;He sold the fundamental property, i. e. the property itself, of his land&lt;/i&gt;]. (S voce عِكْرٌ.) [See also an ex. in conjugation 4 in art. بقَى: and another in the first paragraph of art. حبس.] And اَخَذَهُ بِاَصْلِهِ [&lt;i&gt;He took it as it were with its root,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; meaning, &lt;i&gt;entirely&lt;/i&gt;]. (K. [See اَصِيلَةٌ.]) And قَطَعَ اَصْلَهُمْ [&lt;i&gt;He cut off their root, race,&lt;/i&gt; or &lt;i&gt;stock; i. e. he extirpated them&lt;/i&gt;]. (M.) And فُلَانٌ فِى اَصْلِ صِدْقِ, (S and L in art. ضنا,) and &lt;pb n=&quot;65&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  فِى اَصْلِ سُوْءٍ, (L ibid.,) &lt;i&gt;Such a one is of an excel-lent origin,&lt;/i&gt; or &lt;i&gt;race,&lt;/i&gt; or &lt;i&gt;stock,&lt;/i&gt; (S, L,) and &lt;i&gt;of a bad origin,&lt;/i&gt; or &lt;i&gt;race,&lt;/i&gt; or &lt;i&gt;stock;&lt;/i&gt; (L;) اصل being here syn. with ضِنْء (S, L) and مَعْدِن. (S.) And فُلَانٌ فِى اَصْلِ الكَرَمِ <br>\
+                  &lt;i&gt;Such a one is of&lt;/i&gt; [a race] &lt;i&gt;the source of generosity,&lt;/i&gt; or &lt;i&gt;nobleness;&lt;/i&gt; <br>\
+                  اصل being here syn. with بُوْبُو. (S in art. با.) And لَا اَصْلَ <br>\
+                  لَهُ وَ لَا فَصْلَ <br>\
+                  &lt;i&gt;He has no&lt;/i&gt; <br>\
+                  حَسَب [i. e. &lt;i&gt;grounds of pretension to respect&lt;/i&gt; or &lt;i&gt;honour;&lt;/i&gt; or &lt;i&gt;rank,&lt;/i&gt; or &lt;i&gt;nobility,&lt;/i&gt; or &lt;i&gt;the like]; nor tongue [i. e. eloquence]:&lt;/i&gt; (Ks, S, O, Msb:) or &lt;i&gt;he has no intellect,&lt;/i&gt; (IAar, Msb, El-Munáwee,) &lt;i&gt;nor eloquence:&lt;/i&gt; (El-Munáwee, TA:) or &lt;i&gt;he has no lineage, nor tongue:&lt;/i&gt; (L:) or &lt;i&gt;he has no father, nor child:&lt;/i&gt; (Kull p. 53:) [or &lt;i&gt;he has no&lt;/i&gt; known &lt;i&gt;stock nor branch;&lt;/i&gt; for] فَصْلٌ is the contr. of اَصْلٌ, and in relationship signifies &lt;i&gt;a branch.&lt;/i&gt; (Msb in art. فصل.) You say also, مَا فَعَلْتُهُ اَصْلًا, meaning &lt;i&gt;I have not done it ever;&lt;/i&gt; and &lt;i&gt;I will not do it ever;&lt;/i&gt; the last word being in the accus. case as an adverbial noun; i. e. &lt;i&gt;I have not done it at any time;&lt;/i&gt; and &lt;i&gt;I will not do it at any time.&lt;/i&gt; (Msb, El-Munáwee, TA.) ―         -b3-  [It also signifies The &lt;i&gt;original,&lt;/i&gt; or &lt;i&gt;elemental, matter, material, substance,&lt;/i&gt; or &lt;i&gt;part,&lt;/i&gt; of a thing; syn. with عُنْصُرٌ;] &lt;i&gt;that from which a thing is taken&lt;/i&gt; [or &lt;i&gt;made&lt;/i&gt;]. (KT voce دَاخِلٌ.) ―         -b4-  [The &lt;i&gt;fundamental,&lt;/i&gt; or &lt;i&gt;essential, part&lt;/i&gt; of a thing. Hence, sing. of اُصُولٌ as signifying The &lt;i&gt;fundamentals, fundamental articles&lt;/i&gt; or &lt;i&gt;dogmas, principles, elements,&lt;/i&gt; or &lt;i&gt;rudiments,&lt;/i&gt; of a science &amp;amp;c. Whence,] عِلْمُ الاُصُولِ, (TA,) [meaning] عِلْمُ <br>\
+                  اُصُولِ الدِّينِ [&lt;i&gt;The science of the fundamentals, fundamental articles&lt;/i&gt; or &lt;i&gt;dogmas,&lt;/i&gt; or &lt;i&gt;principles, of religion; the science of theology,&lt;/i&gt; or &lt;i&gt;divinity; according to the system of the Muslims, as distinguished from that of the philosophers;&lt;/i&gt;] &lt;i&gt;the science of the articles,&lt;/i&gt; or &lt;i&gt;tenets, of belief;&lt;/i&gt; also called الفِقْهُ الاَكْبَرُ; (Kull. voce فِقْه;) and [more commonly] عِلْمُ الكَلَامِ. (Hájjee Khaleefeh.) [See also 2.] ―         -b5-  &lt;i&gt;A radical&lt;/i&gt; (as opposed to an augmentative) &lt;i&gt;letter;&lt;/i&gt; as being an essential element of a word. (The Lexicons passim.) ―         -b6-  The &lt;i&gt;original form&lt;/i&gt; of a word. (The same passim.) ―         -b7-  The &lt;i&gt;original,&lt;/i&gt; or &lt;i&gt;primary, signification&lt;/i&gt; of a word. (The same passim.) ―         -b8-  &lt;i&gt;An original copy&lt;/i&gt; of a book: and &lt;i&gt;a copy&lt;/i&gt; of a book &lt;i&gt;from which one quotes, or transcribes, any portion.&lt;/i&gt; (TA, &amp;amp;c., passim.) ―         -b9-  [The &lt;i&gt;original,&lt;/i&gt; or &lt;i&gt;primary, state,&lt;/i&gt; or &lt;i&gt;condition:&lt;/i&gt; or] the &lt;i&gt;old state,&lt;/i&gt; or &lt;i&gt;condition.&lt;/i&gt; (Kull p. 50.) You say, الاَصْلُ فِى الاَشْيَا=ءِ الاـِبَاحَةُ وَ الطَّهَارَةُ <br>\
+                  &lt;i&gt;The old state,&lt;/i&gt; or &lt;i&gt;condition, of things is that of being allowable,&lt;/i&gt; or &lt;i&gt;lawful, and that of being pure,&lt;/i&gt; or &lt;i&gt;clean.&lt;/i&gt; (Kull ubi suprà.) And رَجَعَتْ اـِلَى اَصْلِهَا <br>\
+                  &lt;i&gt;She returned,&lt;/i&gt; or &lt;i&gt;reverted,&lt;/i&gt; [&lt;i&gt;to her original,&lt;/i&gt; or &lt;i&gt;old, state,&lt;/i&gt; or &lt;i&gt;condition;&lt;/i&gt; or &lt;i&gt;to her natural disposition;&lt;/i&gt;] &lt;i&gt;to a natural disposition which she had relinquished.&lt;/i&gt; (S voce عِتْرٌ.) ―         -b10-  [The &lt;i&gt;utmost point,&lt;/i&gt; or &lt;i&gt;degree, to which a person,&lt;/i&gt; or &lt;i&gt;thing, can go,&lt;/i&gt; or &lt;i&gt;be brought&lt;/i&gt; or &lt;i&gt;reduced:&lt;/i&gt; and, app., the &lt;i&gt;utmost that one can do.&lt;/i&gt; Hence the saying,] لَاَضْطَرَّنَّكَ اـِلَى اَصْلِكَ [&lt;i&gt;I will assuredly impel thee,&lt;/i&gt; or &lt;i&gt;drive thee, against thy will, to the utmost point to which thou canst go,&lt;/i&gt; or &lt;i&gt;be brought&lt;/i&gt; or &lt;i&gt;reduced:&lt;/i&gt; or, &lt;i&gt;constrain thee to do thine utmost&lt;/i&gt;]. (IAar in L, art. قح [where it is given in explanation of the phrases لَاَضْطَرَّنَّكَ and قُحَاحِكَ; and so in the T in art. تر in explanation of the former of these two phrases; which is said in the M, in art. تر, to mean &lt;i&gt;I will assuredly make thee to have recourse to thine utmost effort,&lt;/i&gt; or &lt;i&gt;endeavour;&lt;/i&gt; and in the L in art. قح this is given as another explanation of the latter of the same two phrases. See also the saying, لَاُلْجِيَنَّكَ اـِلَى قُرِّ قَرَارِكَ, explained voce قَرَارٌ.]) ―         -b11-  [&lt;i&gt;That by being which a thing is what it is,&lt;/i&gt; or &lt;i&gt;in being which it consists;&lt;/i&gt; or its &lt;i&gt;ultimate constituent;&lt;/i&gt; syn. حَقِيقَةٌ; a meaning well known; and indicated, in the A and TA, by the coupling of حَقِيقَة with اَصْل, evidently as an explicative adjunct.] ―         -b12-  [The &lt;i&gt;prime&lt;/i&gt; of a thing; the &lt;i&gt;principal, purest, best,&lt;/i&gt; or &lt;i&gt;choicest, part thereof; what is,&lt;/i&gt; or &lt;i&gt;constitutes, the most essential part&lt;/i&gt; thereof; its &lt;i&gt;very essence.&lt;/i&gt; Hence,] اَصْلُ دَارٍ [&lt;i&gt;The principal part of a country&lt;/i&gt;]; (As, S, Msb, K, voce عَقْرٌ;) [which is] &lt;i&gt;the place where the people dwell,&lt;/i&gt; or &lt;i&gt;abide.&lt;/i&gt; (As and S ibid. [See عَقْرٌ.]) And اَصْلٌ <br>\
+                  قَوْمٍ [&lt;i&gt;The principal place of abode of a people&lt;/i&gt;]. (S and K voce بَيْضَةٌ. [See this word.]) And هُوَ فِى اَصْلِ قَوْمِهِ <br>\
+                  &lt;i&gt;He is of the prime,&lt;/i&gt; or &lt;i&gt;of the purest in race, the best,&lt;/i&gt; or &lt;i&gt;the choicest, of his people;&lt;/i&gt; i. q. صُيَّابَتِهِمْ, and صُيَّابِهِمْ. (TA in art. صيب.) ―         -b13-  &lt;i&gt;What is most fit,&lt;/i&gt; or &lt;i&gt;proper:&lt;/i&gt; as when one says, الاَصْلُ فِى الاـِنْسَانِ العِلْمُ [&lt;i&gt;What is most fit,&lt;/i&gt; or &lt;i&gt;proper, in man, is knowledge&lt;/i&gt;]; i. e., knowledge is more fit, or proper, than ignorance: and الاَصْلُ فِى المُبْتَدَاـِ التَّقْدِيمُ <br>\
+                  &lt;i&gt;What is&lt;/i&gt; [&lt;i&gt;most&lt;/i&gt;] &lt;i&gt;fit,&lt;/i&gt; or &lt;i&gt;proper, in the case of the inchoative, is the putting&lt;/i&gt; [it] &lt;i&gt;before&lt;/i&gt; [the enunciative], whenever there is no obstacle. (Kull p.50.) ―         -b14-  &lt;i&gt;What is preponderant in relation to what is preponderated:&lt;/i&gt; as, in language, the word used in its proper sense [in relation to that used in a tropical sense]. (Kull ibid.) ―         -b15-  &lt;i&gt;What is&lt;/i&gt; [&lt;i&gt;essential,&lt;/i&gt; or] &lt;i&gt;requisite,&lt;/i&gt; or &lt;i&gt;needful:&lt;/i&gt; as when one says الاَصْلُ فِى الحَيَوَانِ الغِذَا=ءُ [&lt;i&gt;What is essential,&lt;/i&gt; or &lt;i&gt;requisite,&lt;/i&gt; or &lt;i&gt;needful, in the case of the animal, is food&lt;/i&gt;]. (Kull ibid.) ―         -b16-  &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;primary,&lt;/i&gt; or] &lt;i&gt;universal,&lt;/i&gt; or &lt;i&gt;general, rule,&lt;/i&gt; or &lt;i&gt;canon.&lt;/i&gt; (Kull ibid.) ―         -b17-  &lt;i&gt;An indication, an evidence,&lt;/i&gt; or &lt;i&gt;a proof, in relation to that which is indicated,&lt;/i&gt; or &lt;i&gt;evidenced,&lt;/i&gt; or &lt;i&gt;proved.&lt;/i&gt; (Kull ibid.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n880&quot; key=&quot;اَصَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصَلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see its n. un., اَصَلَةٌ    <br>\
+&lt;entryFree id=&quot;n881&quot; key=&quot;اَصِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) or ↓ <br>\
+      اَصِيلٌ, (M,) i. q. ↓ <br>\
+      مُسْتَاْصِلٌ. (M, K.) You say قَلْعٌ اَصِلٌ <br>\
+                  &lt;i&gt;Eradicating,&lt;/i&gt; or &lt;i&gt;extirpating, evulsion:&lt;/i&gt; (TA:) or ↓ <br>\
+      قَطْعٌ اَصِيلٌ <br>\
+                  &lt;i&gt;extirpating excision.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n882&quot; key=&quot;اُصُلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُصُلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, said by some to be a pl., and by others to be a dial. var., of اَصِيلٌ: see the latter word, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n883&quot; key=&quot;اَصَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَصِيلَةٌ.       -A2-  Also &lt;i&gt;A kind of serpent, the most malignant,&lt;/i&gt; or &lt;i&gt;noxious, of serpents:&lt;/i&gt; (S:) or &lt;i&gt;a serpent,&lt;/i&gt; (M, K,) &lt;i&gt;short,&lt;/i&gt; (M, [where, in the only copy to which I have access, I find added, كَالرِيَةِ, app. a mistranscription, for كَالرُّمَّةِ, &lt;i&gt;like the fragment of a rope,&lt;/i&gt;]) or &lt;i&gt;small,&lt;/i&gt; (K,) &lt;i&gt;red, but not intensely red,&lt;/i&gt; (M,) &lt;i&gt;very deadly, of the most malignant,&lt;/i&gt; or &lt;i&gt;noxious, kind,&lt;/i&gt; (TA,) &lt;i&gt;having one leg, upon which it stands,&lt;/i&gt; (M, TA,) &lt;i&gt;then turns round, then springs,&lt;/i&gt; (TA,) &lt;i&gt;that springs upon a man, and blows, killing everything upon which it blows:&lt;/i&gt; (M:) or, as some say, &lt;i&gt;a great serpent,&lt;/i&gt; (M, K,) &lt;i&gt;that kills by its blowing:&lt;/i&gt; (K:) or &lt;i&gt;one of the very crafty kinds of serpents, short and broad, said to be like the shaft of an arrow, and it springs upon the horseman:&lt;/i&gt; (Msb:) pl. ↓ <br>\
+      اَصَلٌ, (S, M. Msb, K,) [or rather this is a coll. gen. n.,] and [pl. of pauc.] ا=صَالٌ. (Msb.) ―         -b2-  [Hence, app.,] (assumed tropical:)  &lt;i&gt;Short and broad:&lt;/i&gt; applied to a man and to a woman. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n884&quot; key=&quot;اَصْلِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصْلِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Radical; fundamental; primitive; original; underived:&lt;/i&gt; an epithet of extensive application; and particularly applied to a letter of a word, as opposed to augmentative; and to a signification]. (The Lexicons &amp;amp;c. passim.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n885&quot; key=&quot;اَصْلِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصْلِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [The &lt;i&gt;quality denoted by the epithet&lt;/i&gt; <br>\
+                  اَصْلِىٌّ; &lt;i&gt;radicalness,&lt;/i&gt; &amp;amp;c.:] a term used by IJ [and others] in the place of تَاَصُّلٌ: see 5. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n886&quot; key=&quot;اَصِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصِيلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Having root,&lt;/i&gt; or &lt;i&gt;a foundation;&lt;/i&gt; and consequently, &lt;i&gt;having rootedness, fixedness, immobility, stability,&lt;/i&gt; or &lt;i&gt;permanence; rooted, fixed, immoveable, stable,&lt;/i&gt; or &lt;i&gt;permanent&lt;/i&gt;]. You say, اـِنَّ النَّخْلَ فِى اَرْضِنَا لَاَصِيلٌ <br>\
+                  &lt;i&gt;Verily the palm-trees in our land remain permanently, not perishing.&lt;/i&gt; (A, TA.) ―         -b2-  A man &lt;i&gt;having&lt;/i&gt; <br>\
+                  اَصْل, (K, TA,) i. e., &lt;i&gt;lincage,&lt;/i&gt; or &lt;i&gt;pedigree:&lt;/i&gt; (TA:) or &lt;i&gt;established in his&lt;/i&gt; <br>\
+                  اَصْل: (Abu-l-BaKà, TA:) or &lt;i&gt;noble,&lt;/i&gt; or &lt;i&gt;generous.&lt;/i&gt; (Msb.) ―         -b3-  A man &lt;i&gt;firm of judgment, and intelligent.&lt;/i&gt; (M, K.* [Accord. to the copies of the latter, the signification is عَاقِبٌ ثَابِتُ الرَّاْىِ: but I think that the right reading of the first word is عَاقِلٌ, as in the M, in which this word occupies the last place in the explanation.]) And اَصِيلُ الرَّاْىِ A man &lt;i&gt;firm,&lt;/i&gt; or &lt;i&gt;sound, of judgment.&lt;/i&gt; (S.) And رَاْىٌ اَصِيلٌ <br>\
+                  &lt;i&gt;Judgment having&lt;/i&gt; <br>\
+                  اَصْل [i. e. &lt;i&gt;firmness&lt;/i&gt;]. (M.) And مَجْدٌ اَصِيلٌ <br>\
+                  &lt;i&gt;Glory, honour, dignity,&lt;/i&gt; or &lt;i&gt;nobility, having a firm root&lt;/i&gt; or &lt;i&gt;foundation.&lt;/i&gt; (S.) And شَرٌّ اَصِيلٌ <br>\
+                  &lt;i&gt;Vehement evil&lt;/i&gt; or &lt;i&gt;mischief.&lt;/i&gt; (Ibn-&#39;Abbád.)       -A2-  See also اَصِلٌ, in two places. ―         -b2-  [Hence, app.,] الاَصِيلُ <br>\
+                  &lt;i&gt;Destruction:&lt;/i&gt; and &lt;i&gt;death:&lt;/i&gt; as also, in both senses, ↓ <br>\
+      الاَصِيلَةُ. (K.)       -A3-  [The &lt;i&gt;evening;&lt;/i&gt; or] i. q. عَشِىٌّ; (M, K, Msb, TA;) i. e. (Msb, TA) the &lt;i&gt;time from the&lt;/i&gt; <br>\
+                  عَصْر, (S, TA,) &lt;i&gt;from the prayer of the&lt;/i&gt; <br>\
+                  عصر, (Msb,) &lt;i&gt;to sunset;&lt;/i&gt; (Sudot;, Msb, TA;) as also ↓ <br>\
+      اَصِيلَةٌ: (R, TA:) the pl. is اُصُلٌ, (S, M, R, Msb, K,) or ↓ this is a sing., (TA,) or it may be a sing., (M,) for it is used as such, (M, TA,) and اُصْلَانٌ, (S, M, K,) and ا=صَالٌ, (S, M, Sgh, K,) [a pl. of pauc.,] or, accord. to Es- Saláh Es-Safadee, this is a pl. of اُصُلٌ, the sing., not the pl., (TA,) or it is pl. of اُصُلٌ, (Zj, M,) which may be a pl. or a sing., (M,) and اَصَايِلُ, (S, M, K,) as though pl. of اَصِيلَةٌ, (S,) or it is pl. of this last word. (R, TA.) You say, لَقِيتُهُ اَصِيلًا and ↓ <br>\
+      اُصُلًا, i. e. [&lt;i&gt;I met him in the evening,&lt;/i&gt;] عَشِيًّا. (A, TA.) From the pl. اُصْلَانُ is formed the dim. ↓ <br>\
+      اُصَيْلَانٌ, (S, M, K,) which is extr., (M, K,) because the dim. of a pl. is [regularly] formed only from a pl. of pauc., which اصلان is not; or, if اصلان be a sing., like رُمَّانٌ and قُرْبَانٌ, this &lt;pb n=&quot;66&quot; TEIform=&quot;pb&quot;/&gt; dim. is regular: (M:) sometimes, (K,) one says also ↓ <br>\
+      اُصَيْلَالٌ, (S, M, K,) substituting ل for the [final] ن (S, M.*) You say, ↓لَقِيتُهُ اُصَيْلَانًا and ↓ <br>\
+      اُصَيْلَالًا, meaning, as above, عَشِيًّا: (A, TA:) and Lh mentions ↓ <br>\
+      لقيته اُصَيَّالًا. (So in two copies of the S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n887&quot; key=&quot;اَصيلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصيلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A man&#39;s &lt;i&gt;whole property:&lt;/i&gt; (M, K:) or his &lt;i&gt;palm-trees:&lt;/i&gt; (K, TA: in the CK his &lt;i&gt;palmtree:&lt;/i&gt;) thus in the dial. of El-Hijáz. (O, TA.) ―         -b2-  اَخَذَهُ بِاَصِيلَتِهِ, (S, M, K,) and ↓ <br>\
+      بِاَصَلَتِهِ, (IAar, M, K,) &lt;i&gt;He took it altogether,&lt;/i&gt; (S, M, K,) [as it were] &lt;i&gt;with its root,&lt;/i&gt; (S, M,) &lt;i&gt;not leaving aught of it.&lt;/i&gt; (TA.) And جَاوُوا بِاَصِيلَتِهِمْ <br>\
+                  &lt;i&gt;They came altogether; the whole of them.&lt;/i&gt; (S, Z.)       -A2-  لِفُلَانٍ اَرْضٌ اَصِيلَةٌ <br>\
+                  &lt;i&gt;To such a one belongs land long possessed, or inherited from his parents, by means of which he has his living:&lt;/i&gt; a phrase of the people of Et-Táïf. (TA.)       -A3-  See also اَصِيلٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n888&quot; key=&quot;اُصُولِى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُصُولِى<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;skilled in the science termed&lt;/i&gt; <br>\
+                  عِلْمٌ <br>\
+                  الاُصُولِ: see اَصْلٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n889&quot; key=&quot;لَقِيتُهُ اُصَيَّالًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَقِيتُهُ اُصَيَّالًا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَصِيلٌ, last sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n890&quot; key=&quot;اُصَيْلَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُصَيْلَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and اُصَيلَالٌ: see اَصِيلٌ, in four places, last two sentences.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n891&quot; key=&quot;لَقِيتُهُ مُوْصِلًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَقِيتُهُ مُوْصِلًا<br>\
+                     ذ<br>\
+                  &lt;i&gt;I met him entering upon the time called the&lt;/i&gt; <br>\
+                  اَصِيل. (TA.) And اَتَيْنَا مُوْصِلِينَ <br>\
+                  &lt;i&gt;We came entering upon the time so called.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n892&quot; key=&quot;اَصْلٌ مُوَصَّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصْلٌ مُوَصَّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt; A root,&lt;/i&gt; or &lt;i&gt;foundation,&lt;/i&gt; or &lt;i&gt;the like, made firm,&lt;/i&gt; or &lt;i&gt;fixed,&lt;/i&gt; or &lt;i&gt;established&lt;/i&gt;]. (S.) [See also اَصِيلٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n893&quot; key=&quot;شَاةٌ مُسْتَاْصَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَاةٌ مُسْتَاْصَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A sheep,&lt;/i&gt; or &lt;i&gt;goat, whose horn has been taken from its root.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n894&quot; key=&quot;مُسْتَاْصِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَاْصِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَصِلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n895&quot; key=&quot;يَاْصُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَاْصُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَصْلٌ, first sentence.   &lt;/entryFree&gt; <br>\
+' } );

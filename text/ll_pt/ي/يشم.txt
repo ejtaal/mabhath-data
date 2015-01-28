@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يشم</em>            1                  يشم<br>\
+<b>مَا اَيْشَمَهُ</b>               1     <br>\
+                     مَا اَيْشَمَهُ<br>\
+                     ذ<br>\
+                  <i>How unlucky!</i> a vulgarism: see 4 in art. شام.   </entryFree> <br>\
+' } );

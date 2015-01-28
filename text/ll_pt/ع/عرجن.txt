@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>عرجن</em>            1                  عرجن<br>\
+<b>عَرْجَنَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     عَرْجَنَهُ<br>\
+                     ذ<br>\
+                  <i>He struck him,</i> or <i>beat him, with an</i> <br>\
+                  عُرْجُون [q. v.]. (S, K.) And عَرْجَنَهُ بِالعَصَا <br>\
+                  <i>He struck him,</i> or <i>beat him, with the staff,</i> or <i>stick.</i> (TA.) ―         -b2-  And <i>He figured it</i> (i. e. a garment, or piece of cloth,) <i>with the forms of</i> <br>\
+                  عَرَاجِين, pl. of عُرْجُونٌ. (K.) ―         -b3-  And <i>He smeared,</i> or <i>rubbed over, him,</i> or <i>it, with blood,</i> or <i>with saffron,</i> or <i>with</i> <br>\
+                  خِضَاب [i. e. <i>hinnà,</i> or <i>the like</i>]. (K.)    </entryFree> <br>\
+<b>عُرْجُونٌ</b>               1     <br>\
+                     عُرْجُونٌ<br>\
+                     ذ<br>\
+                  <i>A raceme of a palm-tree,</i> or <i>of dates;</i> syn. عِذْقٌ: or, <i>when it has become dry and curved:</i> (K:) or the <i>base,</i> or <i>lower part,</i> (اَصْل, S, K, and also A and Mgh and Msb in art. عرج [because the ن is therein regarded as augmentative],) <i>of the</i> <br>\
+                  عِذْق (S, K) or كِبَاسَة [which signifies the same as عِذْق], (A, Mgh, Msb,) <i>which curves, and from which the fruit-stalks are cut off, and which then remains upon the palm-tree, dry:</i> (S:) or the عُود [meaning <i>main stem</i>] <i>of the</i> <br>\
+                  كِبَاسَة: (Th, K:) Az says, it is yellow and broad: [but it is the contrary of broad in comparison with its length:] and in the Kur xxxvi. 39, the moon when it has become slender [in appearance, towards the end of the lunar month,] is likened to the old عُرْجُون, in respect, as ISd says, of its slenderness and curvature: (TA:) [in the TA voce سُبَاطَةٌ, the pl. عَرَاجِينُ is strangely used as meaning the <i>fruit-stalks</i> of the raceme of a palmtree:] بَنَاتُ عُرْجُونٍ signifies <i>the fruit-stalks of a raceme of dates:</i> (T in art. بنى:) [it is said that] the ن of عُرْجُونٌ, though this word imports the meaning of اِنْعِرَاجٌ [or “ a state of bending ”], is shown to be radical by the word مُعَرْجَنٌ, occurring in a verse of Ru-beh, and also by the fact that there is no verb of the measure فَعْلَنَ. (TA. [But عَشْرَنَ and سَبْعَنَ, though these are said to be post-classical, and, accord. to some, عَلْوَنَ, may be mentioned, and perhaps some other, as being of this measure.]) ―         -b2-  Also <i>A certain plant,</i> (K, TA,) <i>white,</i> accord. to Th, (TA,) <i>like the</i> <br>\
+                  فُطْر [or <i>toadstool</i>], <i>resembling the</i> <br>\
+                  فِقْع [<i>a white and soft sort of</i> <br>\
+                  كَمْء], (K, TA,) <i>which dries, having a round form:</i> or <i>a species of the</i> <br>\
+                  كَمْاَة, <i>of the measure of a span,</i> or <i>a little less than that; good,</i> or <i>pleasant, while fresh:</i> (TA:) pl. عَرَاجِينُ. (K.)    </entryFree> <br>\
+<b>مُعَرْجَنٌ</b>               1     <br>\
+                     مُعَرْجَنٌ<br>\
+                     ذ<br>\
+                  , occurring in a verse of Ru-beh, (TA,) A garment, or piece of cloth, <i>in which are</i> [<i>figured</i>] <i>the forms of</i> <br>\
+                  عَرَاجِين [pl. of عُرْجُونٌ]. (A and TA in art. عرج.)   </entryFree> <br>\
+' } );

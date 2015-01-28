@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>ركد</em>            1                  ركد<br>\
+<b>رَكَدَ</b>               1     <br>\
+                     رَكَدَ<br>\
+                     ذ<br>\
+                  , (S, A, Msb,) aor.      <br>\
+                     رَكُدَ<br>\
+                  , (Msb,) inf. n. رُكُودٌ, (S Msb, K,) <i>It was,</i> or <i>became, still,</i> or <i>motionless;</i> (S, A, Msb, K;) said of water: (S, A, Msb:) and <i>fixed,</i> or <i>stationary.</i> (K.) And in like manner, using the verb in the former sense, one says of the wind: (S, A:) [whence] one says also, رَكُدَتْ رِيحُهُمْ [lit. <i>Their wind became still,</i> or <i>calm</i>] meaning (tropical:)  <i>their good fortune ceased, and their affairs,</i> or <i>circumstances, began to retrograde by degrees:</i> and [in like manner,] ↓ <br>\
+      طَفِقَتْ رِيحُهُمْ تَتَرَاكَدُ (tropical:)  [<i>their good fortune began to cease by degrees</i>]. (A.) So too one says of the expressed juice of grapes, meaning <i>It ceased to estuate.</i> (L.) And of the heat, i. e. <i>It remitted,</i> or <i>subsided.</i> (L. [See also رَقَدَ.]) And رَكَدَتِ السَّفِينَةُ <br>\
+                  <i>The ship became still,</i> or <i>motionless,</i> (S, * A, * Msb, TA,) or <i>aground.</i> (TA.) And رَكَدَ المِيزَانُ <br>\
+                  <i>The balance was,</i> or <i>became, in a state of equilibrium.</i> (S, A, K.) And رَكَدَتِ البَكْرَةُ <br>\
+                  <i>The sheave of the pulley was,</i> or <i>became, fixed:</i> and also <i>the sheave of the pulley turned,</i> or <i>revolved:</i> thus bearing two contr. significations. (L.) And رَكَدَتِ الشَّمْسُ <br>\
+                  <i>The sun was,</i> or <i>became, at its midday-height:</i> (S:) or <i>continued overhead; as though not quitting its place.</i> (A.) And رَكَدَ القَوْمُ <br>\
+                  <i>The people were,</i> or <i>became, still, motionless,</i> or <i>silent.</i> (S, A.)    </entryFree> <br>\
+<b>اركدهُ</b>               1     <br>\
+                     اركدهُ<br>\
+                     ذ<br>\
+                  <i>He rendered it still,</i> or <i>motionless;</i> namely, water [&amp;amp;c.]. (Msb.)    </entryFree> <br>\
+<b>تراكد</b>               1     <br>\
+                     تراكد<br>\
+                     ذ<br>\
+                   [app., in its proper sense, <i>It became still,</i> or <i>motionless, by degrees</i>]. See 1.    </entryFree> <br>\
+<b>جَفْنَةٌ رَكُودٌ</b>               1     <br>\
+                     جَفْنَةٌ رَكُودٌ<br>\
+                     ذ<br>\
+                   (tropical:)  <i>A bowl that is full,</i> (K,) or <i>filled;</i> (S;) or <i>heavy;</i> (A;) or <i>filled and heavy.</i> (L.) And نَاقَةٌ رَكُودٌ (tropical:)  <i>A she-camel whose supply of milk is constant,</i> (A, K,) <i>unceasing.</i> (K.)    </entryFree> <br>\
+<b>رَاكِدٌ</b>               1     <br>\
+                     رَاكِدٌ<br>\
+                     ذ<br>\
+                   [<i>Still,</i> or <i>motionless:</i> and] anything <i>remaining fixed in its place; stationary.</i> (S.) You say مَا=ءٌ رَاكِدٌ <br>\
+                  <i>Water that is not running:</i> and رِيحٌ رَاكِدَةٌ <br>\
+                  <i>a wind becoming still,</i> or <i>calm;</i> pl. رِيَاحٌ رَوَاكِدُ. (A.) ―         -b2-  [Hence,] الرَّوَاكِدُ [and also, accord. to Reiske, as mentioned in Freytag&#39;s Lex., الرُّكَّدُ,] <i>The three pieces of stone upon which a cooking-pot is set:</i> so called because they remain in their places. (L.)    </entryFree> <br>\
+<b>مَرَاكِدُ</b>               1     <br>\
+                     مَرَاكِدُ<br>\
+                     ذ<br>\
+                   [pl. of مَرْكَدٌ, like مَرْكَزٌ,] <i>Places in which a man,</i> or <i>some other thing, remains still,</i> or <i>motionless.</i> (S, A, * L.) And <i>Much depressed parts of the earth.</i> (L.) Usámeh Ibn-Habeeb El-Hudhalee says, describing an ass [i. e. a wild ass] that had been chased by horses, or horsemen, and had fied for refuge to the mountains, whence, from their ravines, he saw the sky like streaks, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَرْتْهُ مِنَ الجَرْبَا=ءِ فِى كُلِّ مَوْطِنٍ<br>\
+                     <L><br>\
+                        طِبَابًا فَمَثْوَاهُ النَّهَارَ المَرَاكِدُ<br>\
+                  </quote> [<i>They</i> (the ravines) <i>showed him, in every spot where he stopped, streaks of the shy, and the much-depressed parts of the earth were his places of abode all the day</i>]. (S, * L.) [J quotes this verse, in the S, but with مَنْزِلٍ in the place of موطن, and مَرْعَاهُ in the place of مثواه, as an ex. of مراكد in the former of the senses explained above.]   </entryFree> <br>\
+' } );

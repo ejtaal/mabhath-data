@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'هصب1<br>\
+هَصَبَ, aor.<br>\
+هَصُبَ, inf. n. هَصْبٌ, He fled; ran<br>\
+away. (K.)<br>\
+' } );

@@ -1,0 +1,52 @@
+load_data( { book: 'll_pt', text: '<em>مغر</em>            1                  مغر<br>\
+<b>مغّرهُ</b>               1     <br>\
+                     مغّرهُ<br>\
+                     ذ<br>\
+                  <i>He dyed it</i> (namely a garment or piece of cloth) <i>with</i> <br>\
+                  مَغْرَة. (A.)    </entryFree> <br>\
+<b>مَغَرٌ</b>               1     <br>\
+                     مَغَرٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      مُغْرَةٌ (K, TA) <i>A colour inclining to red:</i> (TA:) or <i>a colour not pure red,</i> (K, TA,) <i>nor inclining to yellow; its redness being like the colour of</i> ↓ <br>\
+      مَغْرَة: (TA:) or <i>i. q.</i> <br>\
+                  شُقْرَةٌ [i. e., in a man, <i>ruddiness of complexion combined with fairness,</i> and in a horse, <i>a sorrel colour,</i>] <i>with duskiness,</i> or <i>dinginess.</i> (K.) See also اَمْغَرُ.    </entryFree> <br>\
+<b>مَغْرَةٌ</b>               1     <br>\
+                     مَغْرَةٌ<br>\
+                     ذ<br>\
+                   [<i>Red ochre,</i> called in the present day مُغْرَة;] <i>red earth,</i> (S, A, Msb, K,) <i>with which one dyes</i> [<i>and paints</i>]; (TA;) <i>well known;</i> (A;) as also ↓ <br>\
+      مَغَرَةٌ. (S, K.)    </entryFree> <br>\
+<b>مُغْرَةٌ</b>               1     <br>\
+                     مُغْرَةٌ<br>\
+                     ذ<br>\
+                  : see مَغَرٌ.    </entryFree> <br>\
+<b>مَغَرَةٌ</b>               1     <br>\
+                     مَغَرَةٌ<br>\
+                     ذ<br>\
+                  : see مَغْرَةٌ.    </entryFree> <br>\
+<b>اَمْغَرُ</b>               1     <br>\
+                     اَمْغَرُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَشْقَرُ, (A, Msb,) applied to a man [and signifying <i>Of a ruddy complexion combined with fairness</i>], (A,) and to a horse [and signifying <i>of a sorrel colour</i>]: (A, Msb:) or <i>red in the hair and skin,</i> (S, K,) <i>of the colour of</i> <br>\
+                  مَغْرَة: (S:) and <i>having redness in the face, with clear whiteness:</i> (K:) or <i>white,</i> or <i>white in face:</i> as also اَحْمَرُ: applied to a man: (TA:) and, applied to a horse, <i>of a colour inclining to</i> <br>\
+                  اَشْقَر [or <i>sorrel</i>]; i. e. <i>having his</i> <br>\
+                  شُقْرَةٌ [or <i>sorrel colour</i>] <i>tinged over with duskiness,</i> or <i>dinginess:</i> (S:) and applied to a camel, <i>of the colour of</i> <br>\
+                  مَغْرَة: (K:) and so applied to a horse: or a horse <i>not of a pure red colour, nor of a colour inclining to yellow, but of a red colour, like the colour of</i> <br>\
+                  مَغْرَة, <i>and having the mane and forelock and ears like the</i> [<i>red</i>] <i>colour termed</i> <br>\
+                  صُهْبَة, <i>without any whiteness:</i> (TA:) [see also مَغَرٌ:] the fem. is مَغْرَا=ءُ: and the dim. اَمَيْغِرُ. (TA.)    </entryFree> <br>\
+<b>مَمْغَرَةٌ</b>               1     <br>\
+                     مَمْغَرَةٌ<br>\
+                     ذ<br>\
+                  <i>Land whence</i> <br>\
+                  مَغْرَة <br>\
+                  <i>comes forth,</i> or <i>is procured.</i> (TA.)    </entryFree> <br>\
+<b>مُمَغَّرٌ</b>               1     <br>\
+                     مُمَغَّرٌ<br>\
+                     ذ<br>\
+                   A garment, or piece of cloth, (A,) <i>dyed with</i> <br>\
+                  مَغْرَة. (A, K.)   </entryFree> <br>\
+            <div2 n=&quot;mgs: see mgS&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  مغس: see مغص<br>\
+' } );

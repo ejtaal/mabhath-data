@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وحت</em>            1                  وحت<br>\
+<b>طَعَامٌ وَحْتٌ</b>               1     <br>\
+                     طَعَامٌ وَحْتٌ<br>\
+                     ذ<br>\
+                  <i>Food in which is no good.</i> (L.)   </entryFree> <br>\
+' } );

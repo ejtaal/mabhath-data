@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كفهر</em>            1                  كفهر<br>\
+<b>اِكْفَهَرَ</b>               1     <br>\
+                     اِكْفَهَرَ<br>\
+                     ذ<br>\
+                  , said of clouds: see a verse cited عَزْلَا=ءُ.   </entryFree> <br>\
+' } );

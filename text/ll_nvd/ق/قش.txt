@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'قشقَشٌّ<br>\
+Stubble; stalk of corn, &amp;c.; straw.<br>\
+قشّ<br>\
+البَحْر<br>\
+Seaweed.<br>\
+قَشٌّ<br>\
+Rushes of which mats are<br>\
+made.<br>\
+حَصِيرَة قشّ<br>\
+A mat of rushes.<br>\
+قَشَّاشٌ<br>\
+: see رَمَّامٌ.<br>\
+' } );

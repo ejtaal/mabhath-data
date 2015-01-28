@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>يرم</em>            1                  يرم<br>\
+<b>يَرَمِىٌّ</b>               1     <br>\
+                     يَرَمِىٌّ<br>\
+                     ذ<br>\
+                   and اَيْرَمِىٌّ <br>\
+                  <i>A sign-stone:</i> see اـِرَمٌ.   </entryFree> <br>\
+' } );

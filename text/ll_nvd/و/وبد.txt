@@ -1,0 +1,41 @@
+load_data( { book: 'll_nvd', text: 'وبد1<br>\
+وَبِدَ, (K,) aor. يَوْبَدُ, (TA,) inf. n. وَبَدٌ,<br>\
+(S, M, L, K,) It (life, or manner of living,) was,<br>\
+or became, hard, strait, or difficult: (S, M, L, K:)<br>\
+it (a man&#39;s state, or condition,) was, or became,<br>\
+evil, (S, M, L, K,) by reason of the largeness of<br>\
+his family, and the littleness of his property:<br>\
+(M, L:) you say وَبِدَتْ حَالُهُ. (M, L.) See also<br>\
+وَبَدٌ below. ―<br>\
+-b2-  وَبِدَ عَلَيْهِ, (S, M, L,) aor.<br>\
+وَبَدَ, (K,)<br>\
+inf. n. وَبَدٌ, (M, L, K,) He was angry with him:<br>\
+(S, M, L, K:) like وَمِدَ. (S, L.) ―<br>\
+-b3-  وَبِدَ, aor.<br>\
+وَبَدَ,<br>\
+inf. n. وَبِدٌ, It [a day, &amp;c.] was, or became, hot,<br>\
+(M, L, K,) and without wind: (M, L:) like<br>\
+وَمِدَ. (M, L.) ―<br>\
+-b4-  وَبِدَ, aor.<br>\
+وَبَدَ, inf. n. وَبَدٌ, It (a<br>\
+garment) became old and worn-out. (M, L, K.)<br>\
+وَبْدٌ: see وَبَدٌ.<br>\
+وَبَدٌ Hardness, straitness, or difficulty, of life,<br>\
+or manner of living: evilness of one&#39;s state, or<br>\
+condition, (S, M, L, K,) by reason of the largeness of his family, and the littleness of his<br>\
+property: (M, L:) indigence; (M;) poverty,<br>\
+adversity; (T, L;) largeness of family, and<br>\
+littleness of property: (K:) pl. أَوْبَادٌ. See 1. ―<br>\
+-b2-<br>\
+وَبَدٌ, an inf. n. used as an epithet, and [therefore]<br>\
+sing. and pl., A man, and men, in an evil state,<br>\
+or condition: and sometimes أَوْبَادٌ is used as its<br>\
+pl.; (S, L, K;) as though it were imagined to be<br>\
+a proper epithet: (S, L:) or this is for ذَوُوا أَوْبَادٍ:<br>\
+(M, L:) also ↓ مُسْتَوْبِدٌ signifies the same [applied<br>\
+to a single person]: (S, L, K:) and وَبَدٌ, (TA,)<br>\
+or ↓ وَبْدٌ, (L,) a poor man: pl. أَوْبَادٌ. (L, TA.)<br>\
+―<br>\
+-b3-  وَبَدٌ A vice, fault, or defect. (M, L, K.)<br>\
+مُسْتَوْبِدٌ: see وَبَدٌ.<br>\
+' } );

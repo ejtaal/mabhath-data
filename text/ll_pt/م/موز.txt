@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>موز</em>            1                  موز<br>\
+<b>مَوْزٌ</b>               1     <br>\
+                     مَوْزٌ<br>\
+                     ذ<br>\
+                  <i>A certain kind of tree,</i> (Mgh,) or <i>fruit,</i> (Msb, K,) <i>well known;</i> (S, Mgh, Msb, K;) [the <i>fruit of the banana-tree,</i> or <i>musa paradisiaca;</i>] <i>i. q.</i> <br>\
+                  طَلْحٌ [in one of the acceptations of this latter word]: (Msb:) <i>it is lenitive, diuretic, provocative of venery, and augments the spermatic fluid and the phlegm and the yellow bile, and the eating much of it is very oppressive,</i> (K,) <i>for it is slow of digestion:</i> (TA:) <i>the tree grows in the manner of the</i> <br>\
+                  بَرْدِىّ, [i. e., <i>papyrus,</i> or perhaps <i>other rushes,</i>] <i>and has a long and broad leaf, which may be three cubits by two cubits,</i> (AHn, Mgh, TA,) <i>the</i> <br>\
+                  مَوْز [i. e., the <i>fruit</i>] <i>is found, where it grows, throughout the whole year,</i> (AHn, as cited by &#39;Abd-El-Lateef,) <i>and there may be on one of its racemes from thirty to five hundred fruits;</i> (AHn, Mgh, K, TA;) this is seen in the districts of Makdishoo [between Abyssinia and the country of the Zenj]; (TA;) <i>and when this is the case, the raceme is propped up;</i> (AHn, Mgh;) <i>it rises to the height of the stature of a man,</i> [<i>and higher,</i>] <i>and its offsets continually grow around it, every one of them smaller than another; and when it has produced its fruit, the mother-tree is cut down at the foot, and its offset that has attained to its height fructifies, and becomes a mother, the rest remaining its offsets, and thus it continues:</i> whence the saying of Ash&#39;ab, to his son, as related by As, Wherefore dost thou not become like me? to which he answered, Such as I is like the مَوْزَة, which does not attain to a good state until its mother dies. (AHn, TA.) مَوْزَةٌ is the n. un. (S, Msb.)    </entryFree> <br>\
+<b>مَوَّازٌ</b>               1     <br>\
+                     مَوَّازٌ<br>\
+                     ذ<br>\
+                  <i>A seller of</i> <br>\
+                  مَوْز [or <i>fruit of the bananatree</i>]. (K.)   </entryFree> <br>\
+' } );

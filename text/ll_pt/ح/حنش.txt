@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>حنش</em>            1                  حنش<br>\
+<b>حَنَشَ</b>               1     <br>\
+                     حَنَشَ<br>\
+                     ذ<br>\
+                  , (S, A, Msb, K,) aor.      <br>\
+                     حَنِشَ<br>\
+                  , (Msb, K,) <i>He hunted, sought to catch</i> or <i>capture,</i> or <i>caught</i> or <i>captured,</i> (S, A, Msb, K,) such animals as are hunted &amp;amp;c., (S, Msb, K,) or such as are termed اَحْنَاش, pl. of حَنَشٌ; (A;) as also ↓ <br>\
+      احنش. (TA.) ―         -b2-  حَنَشَتْهُ الحَيَّةُ <br>\
+                  <i>The serpent bit him.</i> (A, TA.)    </entryFree> <br>\
+                     اَحْنَشَ<br>\
+                   see above.    </entryFree> <br>\
+<b>حَنَشٌ</b>               1     <br>\
+                     حَنَشٌ<br>\
+                     ذ<br>\
+                  <i>Anything that is hunted,</i> or <i>caught</i> or <i>captured, of birds</i> or <i>flying things, and of</i> [or, accord. to the CK, this word “ of ” should be omitted here, as well as where it next occurs,] <i>what are termed</i> <br>\
+                  الهَوَامّ [<i>venomous</i> or <i>noxious reptiles</i> or <i>the like, such as scorpions and serpents</i>], (S, A, Mgh, * Msb, K,) <i>and of what are termed</i> <br>\
+                  حَشَرَاتُ الاَرْضِ, (K,) <i>such as the hedgehog, and the</i> [<i>lizards of the kinds called</i>] ضَبّ <br>\
+                  <i>and</i> <br>\
+                  وَرَل, <i>and the</i> [<i>rat called</i>] جُرَذ, <i>and the common rat</i> or <i>mouse, and the serpent:</i> (TA:) or <i>any animal whose head resembles that of the serpent,</i> (Lth, Mgh, Msb, * K,) <i>of chameleons and of</i> [<i>the lizards called</i>] سَوَامُّ اَبْرَصَ <br>\
+                  <i>and the like:</i> (Lth, Mgh, * Msb: *) or <i>any creeping thing, of beasts and of birds</i> or <i>flying things:</i> (Kr, TA: *) and the <i>serpent:</i> (S, Kr, A, Mgh, K:) or the <i>viper:</i> (S:) or <i>a kind of white and thick serpent, like the</i> <br>\
+                  ثُعْبَان, or <i>larger;</i> or the <i>black kind thereof:</i> (TA:) or <i>a serpent that blows, but does not hurt:</i> (Ham p. 626:) and the <i>common fly:</i> (Ibn- &#39;Abbád, A, Sgh, K:) pl. اَحْنَاشٌ (S, A, Mgh, K) and حِنْشَانٌ. (A, TA.)     <br>\
+<b>مَحْنُوشٌ</b>               1     <br>\
+                     مَحْنُوشٌ<br>\
+                     ذ<br>\
+                  <i>Stung,</i> or <i>bitten, by what is termed</i> <br>\
+                  حَنَش. (IAar, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>نقف</em>            1                  نقف<br>\
+<b>منْقَافٌ</b>               1     <br>\
+                     منْقَافٌ<br>\
+                     ذ<br>\
+                  <i>A species of</i> <br>\
+                  وَدَع [or <i>cowry</i>]; (S, K *;) pl. مَنَاقِفُ; (TA in art. ودع: and thus in the M in art. دمل: in the T in that art. مَنَاقِيف: see دَمَالٌ.) See بُوقٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ظموظِمْوٌ, relating to the أَظْمَآء of camels, is a dial.<br>\
+var. of ظِمْءٌ, (M,) signifying The interval between<br>\
+two drinkings in the coming of camels to water.<br>\
+(T.) [See art. ظمأ.]<br>\
+' } );

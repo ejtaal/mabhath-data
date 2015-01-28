@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>مرق</em>            1                  مرق<br>\
+<b>اِمْتَرَقَ</b>               1     <br>\
+                     اِمْتَرَقَ<br>\
+                     ذ<br>\
+                  <i>He drew</i> a sword from its scabbard. (TA, voce اِهْتَلَبَ; and voce اِعْتَقَّ.)    </entryFree> <br>\
+<b>مَرْقُ الاـِهَابِ</b>               1     <br>\
+                     مَرْقُ الاـِهَابِ<br>\
+                     ذ<br>\
+                  <i>The burying of the skin,</i> or <i>hide, in the earth, so that its hair may be removed, and it may become ready for tanning.</i> (K, * TA in art. افق.) See also فَلَقَ.    </entryFree> <br>\
+<b>مَرَقٌ</b>               1     <br>\
+                     مَرَقٌ<br>\
+                     ذ<br>\
+                   in grapes: see سُكَّرٌ. ―         -b2-  مَرَقٌ <br>\
+                  <i>Broth; gravy-soup;</i> and <i>any decoction.</i>    <br>\
+<b>سَهْمٌ مَارِقٌ</b>               1     <br>\
+                     سَهْمٌ مَارِقٌ<br>\
+                     ذ<br>\
+                  <i>An arrow of which the whole has passed through the animal at which it is shot.</i> (A, art. مرد.) See صَارِدٌ, and مُغْتَلِمُ.    </entryFree> <br>\
+<b>مُرِّيقٌ</b>               1     <br>\
+                     مُرِّيقٌ<br>\
+                     ذ<br>\
+                  : see دُرِّىْءٌ. ―         -b2-  مُرَّيْق in the K is a mistake for مُرِّيق. (TA.) See also عُِلِّيَّهٌ, in art. علو, in which مُرِّيقَةٌ is mentioned as the n. un.    </entryFree> <br>\
+<b>مَمْرَقٌ</b>               1     <br>\
+                     مَمْرَقٌ<br>\
+                     ذ<br>\
+                  <i>A kind of small lantern in the roof of a chamber, for the admission of air, generally octagonal, the sides of wooden lattice-work, and the top a cupola; a sky-light; any kind of window or aperture in a roof.</i>   <br>\
+' } );

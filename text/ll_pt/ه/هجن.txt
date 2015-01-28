@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>هجن</em>            1                  هجن<br>\
+<b>نَكَحَ فِى بَنِى فُلاَنٍ وَهَجَّنَ اَوْلَادَهُمْ</b>               1     <br>\
+                     نَكَحَ فِى بَنِى فُلاَنٍ وَهَجَّنَ اَوْلَادَهُمْ<br>\
+                     ذ<br>\
+                   [<i>He married among the sons of such a one, and made their children to be base-born,</i> or <i>ignoble</i>]. (TA in art. بغل.)    </entryFree> <br>\
+<b>هُجْنَةٌ</b>               1     <br>\
+                     هُجْنَةٌ<br>\
+                     ذ<br>\
+                   [<i>Meanness of race,</i> in a horse]. (K, voce اـِعْراَبٌ.)    </entryFree> <br>\
+<b>هَجِينٌ</b>               1     <br>\
+                     هَجِينٌ<br>\
+                     ذ<br>\
+                  <i>One whose father is free,</i> or <i>an Arab, and whose mother is a slave.</i> (S, K.) ―         -b2-  A horse [<i>half-blooded</i>] <i>got by a stallion of generous race out of a mare not of such race:</i> (S:) or <i>got</i> <br>\
+                  <i>by an Arabian stallion out of a mare not of Arabian birth:</i> (Msb:) or <i>not of generous birth; a jade.</i> (K.)    </entryFree> <br>\
+<b>هَاجِنٌ</b>               1     <br>\
+                     هَاجِنٌ<br>\
+                     ذ<br>\
+                   A girl <i>not arrived at puberty,</i> or a beast <i>not yet fit to be covered:</i> see an ex. voce جَلَّ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>بشق</em>            1                  بشق<br>\
+<b>بَشِقَ</b>               1     <br>\
+                     بَشِقَ<br>\
+                     ذ<br>\
+                  , aor.     <br>\
+                     بَشَقَ<br>\
+                  ; and بَشَقَ, aor      <br>\
+                     بَشِقَ<br>\
+                  ; <i>He struck, smote,</i> or <i>beat,</i> another with a staff or stick. (Nawádir el-Aaráb, K.)       -A2-  <i>He looked sharply, or intently:</i> (Ibn-&#39;Abbád, K:) inf. n. بَشْقٌ. (JK.)       -A3-  Also the former verb, <i>He hastened,</i> or <i>was quick;</i> as also بَشَكَ. (IDrd, TA.)       -A4-  And the former, [but the aor. is not mentioned,] <i>He cut</i> a garment, or piece of cloth, <i>in a light,</i> or <i>prompt, manner;</i> as also بَشَكَ. (TA.)       -A5-  And بَشَقَ, inf. n. بَشْقٌ, <i>He took,</i> or <i>seized.</i> (Msb.)    </entryFree> <br>\
+<b>نَظَرٌ بَشْقٌ</b>               1     <br>\
+                     نَظَرٌ بَشْقٌ<br>\
+                     ذ<br>\
+                  <i>A sharp,</i> or <i>an intent, look.</i> (JK.)    </entryFree> <br>\
+<b>بَاشَقٌ</b>               1     <br>\
+                     بَاشَقٌ<br>\
+                     ذ<br>\
+                   (JK, Msb, K) and بَاشِقٌ, (Msb, Es-Suyootee, TA,) the latter being allowable accord. to some for the sake of conformity to the usual Arabic measure, as in خاتم and دانق and طابع and the like; (Msb;) perhaps derived from بَشْقٌ meaning the “ looking sharply, ” or “ intently; ” (JK;) or from بَشَقَ meaning “ he took, ” or “ seized; ” (Msb;) or it is arabicized, (Msb, K,) from [the Persian] بَاشَهْ; (K;) <i>A certain bird;</i> (K;) [the <i>musket,</i> or <i>sparrow-hawk; falco nisus;</i>] <i>a bird of beautiful form, the smallest of birds of prey, that preys upon sparrows and other birds of their size:</i> (Kzw:) <i>it is of the birds called</i> <br>\
+                  صُقُور, [pl. of صَقْرٌ,] as are also the بَازِى and the شَاهِين and the زُرَّق and the يُوْيُو: (AHát in “ the Book of Birds, ” TA:) pl. بَوَاشِقُ. (Msb.)   </entryFree> <br>\
+' } );

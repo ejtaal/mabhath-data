@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'ازب1<br>\
+أَزَبَ, aor.<br>\
+اَزِبَ, (A, K,) inf. n. أَزْبٌ, (TK,) It<br>\
+(water) flowed or ran; (A, K;) like وَزَبَ. (TA.)<br>\
+مِئْزَابٌ, (S, A, Mgh, Msb, K,) and مِيزَابٌ, (S,<br>\
+Msb,) A water-spout; a pipe, or channel, that<br>\
+spouts forth water: (Mgh, TA:) or that by<br>\
+which water pours down from a high place:<br>\
+(Towsheeh:) or a water-spout of wood, or the<br>\
+like, to convey away the water from the roof of<br>\
+a house: (MF in art. زوب:) the former is from<br>\
+the verb above mentioned: (A, K:) or it is<br>\
+arabicized, (A, Mgh, K,) from the Persian, (Mgh,<br>\
+K,) signifying “make water:” (K:) its pl. is<br>\
+مَآزِيبُ: (ISk, S, Mgh, Msb:) and the pl. of<br>\
+ميزاب is مَيَازِيبُ and مَوَازِيبُ, from وَزَبَ, said of<br>\
+water, meaning “it flowed,” (Mgh, Msb,) accord.<br>\
+to IAar; (Mgh;) or this is arabicized; or postclassical: (Msb:) but ميزاب, without ء, is altogether disallowed by Yaakoob [i. e. ISk]:<br>\
+(Mgh:) it is also called مِرْزَابٌ, (T, S, Msb,)<br>\
+accord. to IAar; (T, Msb;) but this is disallowed<br>\
+by ISk, Fr, and AHát, (Msb,) and by Az<br>\
+[the author of the T]; (Mgh;) and مِزْرَابٌ also,<br>\
+accord. to IAar and Lth and others, as is mentioned in the T. (Msb.)<br>\
+' } );

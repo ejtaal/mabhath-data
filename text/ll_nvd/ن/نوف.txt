@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نوفمُنِيفٌ<br>\
+High; lofty; applied to a mountain,<br>\
+and a building. (T.) You say also عِزٌّ مُنِيفٌ<br>\
+[High nobility]. (K in art. عيط.)<br>\
+' } );

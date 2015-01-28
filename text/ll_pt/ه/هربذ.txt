@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>هربذ</em>            1                  هربذ<br>\
+<b>هِرْبِذٌ</b>               1     <br>\
+                     هِرْبِذٌ<br>\
+                     ذ<br>\
+                   sing. of هَرَابِذَةٌ, which signifies The <i>servants,</i> or <i>ministers of the fire</i> (S, K) <i>of the Magians;</i> (K;) the <i>servants,</i> or <i>ministers,</i> (قَوَمَة,  L, K, by which is meant خَدَم, TA,) <i>of the fire temple of the Indians:</i> (L, K:) or the <i>judges of the Magians:</i> (L:) or the <i>great men of the Indians:</i> or <i>their learned men:</i> (L, K:) a Persian word, [originally هِرْبِدْ,] arabicized. (S, L.)    </entryFree> <br>\
+<b>هَرْبَذَةٌ</b>               1     <br>\
+                     هَرْبَذَةٌ<br>\
+                     ذ<br>\
+                  <i>A pace less quick than that termed</i> <br>\
+                  خَبَبٌ. (S, L, K.)    </entryFree> <br>\
+<b>هِرْبِذَى</b>               1     <br>\
+                     هِرْبِذَى<br>\
+                     ذ<br>\
+                  <i>A proud and self-conceited manner of walking,</i> or <i>going:</i> (L, K;) <i>which a</i> (L.) <i>a manner of waking</i> or <i>going like that of the</i> <br>\
+                  هَرَابِذَة [pl. of هِرْبِذٌ] (A&#39;Obeyd, 1: A&#39;Obeyd mentions it in speaking of the paces of camels. and says that it is without a parallel in form. (L.) ―         -b2-  عَدَا الجَمَلُ الهِرْبِذَى <br>\
+                  <i>The camel ran in clining towards one side.</i> (S, L, K.)   </entryFree> <br>\
+' } );

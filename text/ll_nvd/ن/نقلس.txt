@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نقلسأَنْقَلِيسٌ<br>\
+[An eel] i. q. [Pers.] مَارْ مَاهِى [and<br>\
+أَنْكَلِيسْ]. (En-Nadr, in TA, voce جِرِّيثٌ.)<br>\
+' } );

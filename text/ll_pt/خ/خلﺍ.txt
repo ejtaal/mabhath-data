@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;خلا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  خلا<br>\
+&lt;entryFree id=&quot;n11198&quot; key=&quot;خَلَاَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     خَلَاَتْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     خَلَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. خَلْءٌ, (S, K,) in an expos. of the Mo&#39;allakát written خِلْءٌ, (TA,) and خِلَا=ءٌ, (S, K,) with kesr and medd, (S,) so accord. to IKoot and IKtt and &#39;Iyád and IAth and Z and Hr, but in some copies of the K خَلَا=ءٌ, and so many assert it to be, (TA,) and خُلُوْءٌ, (K,) said of a she-camel, (S, K,) &lt;i&gt;She lay down,&lt;/i&gt; or &lt;i&gt;kneeled and lay down, upon her breast:&lt;/i&gt; (Lh, K:) or &lt;i&gt;she was,&lt;/i&gt; or &lt;i&gt;became, refractory,&lt;/i&gt; or &lt;i&gt;stopped and was refractory,&lt;/i&gt; (S, K,) &lt;i&gt;and lay down,&lt;/i&gt; or &lt;i&gt;kneeled and lay down, upon her breast, without disease or other like cause,&lt;/i&gt; (S,) &lt;i&gt;and would not move from her place:&lt;/i&gt; (Lh, K:) like اَلَحَّ said of a he-camel, and حَرَنَ said of a horse: (S:) the epithet applied to her that does thus is ↓ <br>\
+      خَالِيٌ, (Lh, K,) without ة; (Lh;) and [app. to her that does so much, or often,] ↓ <br>\
+      خَلُوْءٌ. (K.) And in like manner خَلَاَ is said of a he-camel; (K;) accord. to ISh, only of a he-camel: (TA:) or the verb is used only in speaking of a female [when relating to a camel]: (K:) one should not say of a he-camel خَلَاَ: (Az, S, Z, Sgh:) but it is also said of a man, (K,) tropically, (TA,) inf. n. خُلُوْءٌ, meaning (tropical:)  &lt;i&gt;He moved not from his place.&lt;/i&gt; (K, TA.) ―         -b2-  [See also what next follows.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11199&quot; key=&quot;خالا القَوْمُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     خالا القَوْمُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [in the CK خَلَاَ] &lt;i&gt;The people,&lt;/i&gt; or &lt;i&gt;party,&lt;/i&gt; or &lt;i&gt;company of men, left one thing, and betook themselves to another.&lt;/i&gt; (Th, K, TA.) [خَالَى (see 3 in art. خلو) has a similar meaning.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11200&quot; key=&quot;خَلُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَلُوْءٌ<br>\
+                     خل<br>\
+                     خلوء<br>\
+                  &lt;/form&gt;: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11201&quot; key=&quot;خَالِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَالِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1.   &lt;/entryFree&gt; <br>\
+' } );

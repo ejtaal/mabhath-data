@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مشل2<br>\
+تَمْشِيلٌ<br>\
+: see تَفْشِيلٌ.<br>\
+' } );

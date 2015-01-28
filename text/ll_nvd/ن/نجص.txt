@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نجصإِنْجَاصٌ: see art. أجص.<br>\
+نجع &amp;c.<br>\
+See Supplement<br>\
+' } );

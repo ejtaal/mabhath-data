@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يثم</em>            1                  يثم<br>\
+<b>اـِيثَمُ</b>               1     <br>\
+                     اـِيثَمُ<br>\
+                     ذ<br>\
+                   and تِيثَمُ [for ا=ثَمُ and تَاْثَمُ]: see اَثِمَ.   </entryFree> <br>\
+' } );

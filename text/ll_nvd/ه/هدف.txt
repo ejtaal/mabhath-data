@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'هدف10<br>\
+اِسْتَهْدَفَ<br>\
+He became a<br>\
+هَدَف, or butt.<br>\
+(Har, p. 65.) See رَتِيمَةٌ.<br>\
+هَدَفٌ<br>\
+A high or lofty building: see صَدَفٌ.<br>\
+' } );

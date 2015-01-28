@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>سدغ</em>            1                  سدغ<br>\
+<b>سُدْغٌ</b>               1     <br>\
+                     سُدْغٌ<br>\
+                     ذ<br>\
+                   a dial. var. of صُدْغٌ, (K,) which is the more common. (TA. [See the latter.])    </entryFree> <br>\
+<b>مِسْدَغٌ</b>               1     <br>\
+                     مِسْدَغٌ<br>\
+                     ذ<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>مِسْدَغَةٌ</b>               1     <br>\
+                     مِسْدَغَةٌ<br>\
+                     ذ<br>\
+                   a dial. var. of مِصْدَغَةٌ [q. v.]; (TA;) as also مِزْدَغَةٌ; (L and TA in art. زدغ;) and ↓ <br>\
+      مِسْدَغٌ and مِزْدَغٌ signify the same [as dial. vars. of مِصْدَغٌ]. (TA.)   </entryFree> <br>\
+' } );

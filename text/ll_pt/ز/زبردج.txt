@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>زبردج</em>            1                  زبردج<br>\
+<b>زَبَرْدَجٌ</b>               1     <br>\
+                     زَبَرْدَجٌ<br>\
+                     ذ<br>\
+                  : see the next preceding art.   </entryFree> <br>\
+' } );

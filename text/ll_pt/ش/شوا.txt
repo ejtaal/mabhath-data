@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>شوا</em>            1                  شوا<br>\
+<b>شَا=ءَنِى</b>               1     <br>\
+                     شَا=ءَنِى<br>\
+                     ذ<br>\
+                  , formed by transposition from شَا=نِى, aor. يَشُوْءُ and يَشِىْءُ, [but the latter form of the aor. is disallowed by MF,] <i>He preceded me,</i> or <i>outwent me.</i> (K.)       -A2-  And <i>He grieved me.</i> (K.) ―         -b2-  And <i>He pleased me.</i> (K.) Thus it bears two contr. significations. (TA.) And شُوْتُهُ, aor. اَشُوْوُهُ, <i>I pleased him.</i> (Lth, O.) ―         -b3-  And شُوْتُ بِهِ <br>\
+                  <i>I was pleased with, and rejoiced in, him,</i> or <i>it.</i> (Lth, O, K.) [See also art. شاو.]    </entryFree> <br>\
+<b>شَا=ءٌ</b>               1     <br>\
+                     شَا=ءٌ<br>\
+                     ذ<br>\
+                  , n. un. شَاةٌ: see art. شوه.    </entryFree> <br>\
+<b>شَيِّا=نٌ</b>               1     <br>\
+                     شَيِّا=نٌ<br>\
+                     ذ<br>\
+                  , (K, TA, and L in art. تيح,) in form like the dual of سَيِّدٌ [except as to the final vowel], (TA,) [erroneously written in the CK شَيْياٰن,]  and شَيَّا=نٌ, like تَيِّحَانٌ and تَيَّحَانٌ [q. v.], (L in art. تيح,) [applied to a man,] <i>Far-sighted;</i> (K;) either in the proper sense, or metonymically applied to a man <i>characterized by deliberation, and reflection, and looking to the results of affairs.</i> (TA.) Each is also applied as an epithet to a horse. (L in art. تيح.) [The radical letters of this epithet are either شوا or شيا; therefore it is mentioned again in art. شيا; and another form thereof, without ء, (شَيَّان,) is mentioned in art. شوى.]   </entryFree> <br>\
+' } );

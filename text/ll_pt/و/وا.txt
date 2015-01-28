@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>وا</em>            1                  وا<br>\
+<b>وَاْوَاَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     وَاْوَاَ<br>\
+                     ذ<br>\
+                  , inf. n. وَاْوَاَهٌ, <i>He</i> (a dog) <i>barked.</i> (A.) ―         -b2-  Also inf. n. وَاْوَا=ءٌ ([respecting the form of which see ظَاْظَاَ] in the CK and a MS. copy, وَاْوَاٌ) <i>He</i> (a jackal, اِبْنُ ا=وَى,) <i>cried,</i> or <i>barked.</i> (K.) ―         -b3-  [See also وَعْوَعَ.]   </entryFree> <br>\
+' } );

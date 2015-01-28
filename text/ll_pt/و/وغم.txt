@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وغم</em>            1                  وغم<br>\
+<b>وَغْمٌ</b>               1     <br>\
+                     وَغْمٌ<br>\
+                     ذ<br>\
+                  , said of food: see فَغْمٌ.   </entryFree> <br>\
+' } );

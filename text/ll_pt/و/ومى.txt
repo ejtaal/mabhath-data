@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>ومى</em>            1                  ومى<br>\
+<b>وَمَّى</b>               1     <br>\
+                     وَمَّى<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      اِسْتَوْمَى: see وما.    </entryFree> <br>\
+                     اـِسْتَوْمَىَ<br>\
+                   see 2.    </entryFree> <br>\
+<b>مَوَامٍ</b>               1     <br>\
+                     مَوَامٍ<br>\
+                     ذ<br>\
+                  <i>Lands wherein is nothing.</i> (A&#39;Obeyd, TA, in art. بلق.) The pl., when indeterminate, is thus, not مَوَامِى. See a verse in art. عرى, conj. 12. [This is a correction of art. موم, to which this word, and also the verb, belong: for there is no such root as ومى.]   </entryFree> <br>\
+' } );

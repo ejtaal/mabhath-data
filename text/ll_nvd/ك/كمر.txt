@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كمركَمَرٌ<br>\
+A kind of belt with a receptacle for<br>\
+money.<br>\
+' } );

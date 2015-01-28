@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'سرجنQ. 1<br>\
+سَرْجَنَ: see art. سرج.<br>\
+سَرْجِينٌ: see art. سرج.<br>\
+' } );

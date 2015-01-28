@@ -1,0 +1,33 @@
+load_data( { book: 'll_nvd', text: 'وسخ1<br>\
+وَسِخَ, aor. يَوْسَخُ (S, K) and يَاسَخُ and<br>\
+يَيْسَخُ, (K,) [the last two of which are irregular<br>\
+forms,] inf. n. وَسَخٌ; (L;) and ↓ إِتَّسَخَ and<br>\
+↓ توسّخ (S, K) and ↓ استوسخ; (K;) It (a garment,<br>\
+S, L, K, and the skin, L, or some other thing,<br>\
+Msb) was, or became, dirty, filthy, (S, L, K,)<br>\
+in consequence of its being seldom washed, (L,)<br>\
+or from want of care. (Msb.)<br>\
+2<br>\
+وَسَّخَ see 4.<br>\
+4<br>\
+اوسخ (S, L, K) and ↓ وسّخ (L, K) He,<br>\
+or it, made a garment, (S, L, K,) and the skin,<br>\
+(L,) or some other thing, (Msb,) dirty, or<br>\
+filthy. (S, L, K.)<br>\
+5<br>\
+تَوَسَّخَ see 1.<br>\
+8<br>\
+إِوْتَسَخَ see 1.<br>\
+10<br>\
+إِسْتَوْسَخَ see 1.<br>\
+وَسْخٌ Dirt, filth, or soil; (S, L;) what collects<br>\
+upon a garment, or the skin, (L,) or some other<br>\
+thing, (Msb,) in consequence of its being seldom<br>\
+washed, (L,) or from want of care: (Msb:) pl.<br>\
+أَوْسَاخٌ. (Msb.) ―<br>\
+-b2-  لَا تَأْكُلْ أوْسَاخَ النَّاسِ (tropical:)  [Live<br>\
+not thou upon the alms of men]. (A.)<br>\
+وَسِخٌ Dirty, or filthy, [in consequence of being<br>\
+seldom washed, or] from want of care: an<br>\
+epithet applied to a garment &amp;c. (Msb.)<br>\
+' } );

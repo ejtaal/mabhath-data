@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ضود</em>            1                  ضود<br>\
+<b>ضَادٌ</b>               1     <br>\
+                     ضَادٌ<br>\
+                     ذ<br>\
+                  <i>The name of one of the letters of the alphabet.</i> (L, Msb, K.) See the letter ض.   </entryFree> <br>\
+' } );

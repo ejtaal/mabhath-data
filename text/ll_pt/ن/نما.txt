@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>نما</em>            1                  نما<br>\
+<b>نَمَاٌ</b>               1     <br>\
+                     نَمَاٌ<br>\
+                     ذ<br>\
+                   and نَمْءٌ <br>\
+                  <i>Little live.</i> (Kr, K.) [See also نِمَّةٌ.]   </entryFree> <br>\
+' } );

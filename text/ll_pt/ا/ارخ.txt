@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>ارخ</em>            1                  ارخ<br>\
+<b>اَرَخَ الكِتَابَ</b>               1     <br>\
+                     اَرَخَ الكِتَابَ<br>\
+                     ذ<br>\
+                  : see 2.    </entryFree> <br>\
+<b>اَرَّخَ الكِتَابَ</b>               1     <br>\
+                     اَرَّخَ الكِتَابَ<br>\
+                     ذ<br>\
+                  , (S, Mgh, Msb, K,) inf. n. تَاْرِيخٌ; (S, Mgh;) and ↓ <br>\
+      اَرَخَهُ, (IKtt, Msb, K,) inf. n. اَرْخٌ; (TA;) but the former is the more common, (Msb,) and the latter is by some rejected, though correct accord. to IKtt and others; (MF;) and ↓ <br>\
+      ا=رخهُ, (K,) inf. n. مُوَارَخَةٌ; (TA;) as also وَرَّخَهُ, inf. n. تَوْرِيخٌ; (S, Mgh, * Msb;) in which the و is a substitute for the ء; (Yaakoob, Msb;) a form seldom used; (Msb;) <i>He dated the writing,</i> or <i>letter; inscribed it with a date,</i> or <i>note of the time when it was written.</i> (S, Mgh, Msb, K.) You say also, اَرَّخَ الكِتَابَ بِيَوْمِ كَذَا <br>\
+                  <i>He inscribed the writing,</i> or <i>letter, with the date of such a day.</i> (S, L.) And اَرَّخَ البَيِّنَةَ <br>\
+                  <i>He dated,</i> or <i>mentioned the date of, the evidence, proof,</i> or <i>voucher:</i> in the contr. case saying, اَطْلَقَ. (Msb.) Some say that تاريخ is an arabicized word, (L, Msb,) borrowed by the Muslims from the people of the Bible: [i. e., from the Jews or Christians; app. from the Hebr.        <br>\
+      <orth lang=&quot;he&quot;>יָרֵחַ</orth> the “moon,” or        <br>\
+      <orth lang=&quot;he&quot;>יֶרַח</orth> “a month;“ or from the Chald.        <br>\
+      <orth lang=&quot;he&quot;>יְרַח</orth> “a month;” as observed by Golius:] (L:) others say that it is [pure] Arabic: (Msb, TA:) some, that it is formed by transposition from تَاْخِيرٌ. (TA.)    </entryFree> <br>\
+                     اَاْرَخَ<br>\
+                   see 2.    </entryFree> <br>\
+<b>اُرْخَةٌ</b>               1     <br>\
+                     اُرْخَةٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>تَاْرِيخٌ</b>               1     <br>\
+                     تَاْرِيخٌ<br>\
+                     ذ<br>\
+                   inf. n. of 2. ―         -b2-  Also, [as a subst., generally pronounced without ء,] <i>A date; an era; an epoch;</i> (Msb;) and ↓ <br>\
+      اُرْخَةٌ is a subst. [signifying the same,] from اَرَخَ. (K.) تَاْرِيخُ الهِجْرَةِ is <i>The era,</i> or <i>epoch, of the Emigration</i> [or <i>Flight</i> (for such it really was)] of Mohammad [from Mekkeh to El-Medeeneh], (L, Msb,) which his companions, in the time of &#39;Omar, agreed to make their era, commencing the year from the first appearance of the new moon of [the month] ElMoharram, [two months before the Flight itself,] and making the day to commence from sunset: (Msb:) it is also called تَاْرِيخَ المُسْلِمِينَ <br>\
+                  <i>the era,</i> or <i>epoch, of the Muslims.</i> (L.) ―         -b3-  Also The <i>utmost limit, term,</i> or <i>time,</i> of anything: whence the saying, فُلَانٌ تَاْرِيخُ قُوْمِهِ <br>\
+                  <i>Such a one is the person from whom date the nobility,</i> or <i>eminence, and dominion,</i> or <i>authority, of his people.</i> (Es- Soolee, Mgh, TA.) ―         -b4-  [Also, <i>A chronicle; a book of annals; a history:</i> pl. تَوَارِيخُ, from تَوْرِيخٌ.]    </entryFree> <br>\
+<b>مُوَرِّخٌ</b>               1[     <br>\
+                     مُوَرِّخٌ<br>\
+                     ذ<br>\
+                  <i>A chronicler; a writer of annals; a historian.</i>.]    <br>\
+' } );

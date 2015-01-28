@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'وذأ1<br>\
+وَذَأَهُ, (S, K,) aor. يَذَأُ, (TA,) inf. n. وَذْءٌ,<br>\
+(S,) He imputed to him a vice, fault, or the<br>\
+like; despised him; (S, K;) chid him; (S, K;)<br>\
+and blamed, or reproached him. (A&#39;Obeyd.)<br>\
+-A2-<br>\
+وَذَأَتْ عَنْهُ عَيْنُهُ His eye recoiled from him, or it:<br>\
+syn. نَبَتْ عنه. (K.)<br>\
+8<br>\
+إِتَّذَأَ, quasi-pass. of وَذَأَ, He was charged<br>\
+with a vice, fault, or the like; &amp;c. (S, K.)<br>\
+وَذْءٌ Disapproved, or hateful, language; (K;)<br>\
+whether it be reviling or of another description.<br>\
+مَا بِهِ وَذْأَةٌ (like وَذْيَهٌ) There is no fault, or<br>\
+defect, (عِلَّة,) in him or it. (Aboo-Málik, K. *)<br>\
+' } );

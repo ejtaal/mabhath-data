@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لكب</em>            1                  لكب<br>\
+<b>مَلْكَبَةٌ</b>               1     <br>\
+                     مَلْكَبَةٌ<br>\
+                     ذ<br>\
+                   A she-camel <i>compact in flesh:</i> (K:) or <i>abounding with fat, and compact in flesh.</i> (AA, T.) ―         -b2-  The <i>conduct of a pimp:</i> syn. قِيَادَةٌ (L.)   </entryFree> <br>\
+' } );

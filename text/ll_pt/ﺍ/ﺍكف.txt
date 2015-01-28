@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اكف&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اكف<br>\
+&lt;entryFree id=&quot;n988&quot; key=&quot;اكّف الاـِكَافَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اكّف الاـِكَافَ<br>\
+                     اكف الاكاف<br>\
+                  &lt;/form&gt;, inf. n. تَاْكِيفٌ, &lt;i&gt;He made the&lt;/i&gt; <br>\
+                  اكاف; (K;) as also وكّفهُ, inf. n. تَوْكِيفٌ; which latter, accord. to IF, is the original form. (TA.) ―         -b2-  See also 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n989&quot; key=&quot;ا=كف الحِمَارَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=كف الحِمَارَ<br>\
+                     ا=كف الحمار<br>\
+                  &lt;/form&gt;, (S, Mgh, Msb, K,) inf. n. اـِيكَافٌ, (K,) &lt;i&gt;He bound,&lt;/i&gt; (S, K, TA,) or &lt;i&gt;put,&lt;/i&gt; (Msb, TA,) &lt;i&gt;the&lt;/i&gt; <br>\
+                  اـِكَاف <br>\
+                  &lt;i&gt;upon the ass;&lt;/i&gt; (S, Msb, K;) as also ↓ <br>\
+      اكّفهُ; (Sgh, K;) and اوكفهُ; (S, Mgh, K;) which is of the dial. of the people of El-Hijáz; the first being of the dial. of Benoo-Temeem: and in like manner, البَغْلَ <br>\
+                  &lt;i&gt;the mule.&lt;/i&gt; (Lh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n990&quot; key=&quot;اـِكَافٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِكَافٌ<br>\
+                     اكاف<br>\
+                     اكاف<br>\
+                     كافى<br>\
+                  &lt;/form&gt; (S, Mgh, Msb, K) and اُكَافٌ, (K,) as also وِكَافٌ (S, Mgh, Msb, K) and وُكَافٌ, (K in art. وكف,) The بَرْذَعَة, [i. e. &lt;i&gt;pad,&lt;/i&gt; or &lt;i&gt;stuffed saddle, generally stuffed with straw,&lt;/i&gt;] (K,) of the ass, (S, Mgh, Msb, K,) and also used for the mule, and for the camel; (TA in art. وكف;) a saddle like the رَحْل and قَتَب: (TA:) and &lt;i&gt;a saddle&lt;/i&gt; of a horse &lt;i&gt;made in the form of the ass&#39;s&lt;/i&gt; <br>\
+                  اكاف, &lt;i&gt;having at its fore part&lt;/i&gt; [or &lt;i&gt;pommel&lt;/i&gt;] &lt;i&gt;a thing resembling a pomegranate:&lt;/i&gt; (Mgh:) [see also قَتَبٌ:] pl. [of pauc.] ا=كِفَةٌ (TA) and [of mult.] اُكُفٌ. (S, Mgh, Msb, TA.) Yaakoob asserts that the ا in اـِكَافٌ is a substitute for the و in وِكَافٌ. (TA.) A rájiz says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اـِنَّ لَنَا اَحْمِرَةً عِجَافَا<br>\
+                     &lt;L&gt;<br>\
+                        يَاْكُلْنَ كُلَّ لَيْلَةٍ اـِكَافَا<br>\
+                  &lt;/quote&gt; meaning [&lt;i&gt;Verily we have some lean asses&lt;/i&gt;] &lt;i&gt;which eat every night&lt;/i&gt; the price of &lt;i&gt;an&lt;/i&gt; <br>\
+                  اكاف. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n991&quot; key=&quot;اَكَّافٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكَّافٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;maker of the kind of saddle called&lt;/i&gt; <br>\
+                  اـِكَاف. (K.)   &lt;/entryFree&gt; <br>\
+' } );

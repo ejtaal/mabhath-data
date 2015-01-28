@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>نبش</em>            1                  نبش<br>\
+<b>نَبَشَ</b>               1     <br>\
+                     نَبَشَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَبُشَ<br>\
+                  , (S, Mgh, Msb,) inf. n. نَبْشٌ, (S, A, Mgh, Msb, K) <i>He took, drew,</i> or <i>pulled, out,</i> or <i>forth,</i> (Mgh, Msb, K,) a thing, (Msb, TA,) [as] a leguminous plant, (S,) or a thing buried, (Mgh,) or a thing <i>after burial,</i> (TA,) [as] a corpse; (S, TA;) whence نَبَّاشٌ, q. v.: (S, Mgh:) <i>he made</i> a thing that was concealed or covered <i>to come out</i> or <i>forth,</i> or <i>to become</i> apparent. (A, K.) ―         -b2-  [Hence,] هُوَ يَنْبُشُ لِعِيَالِهِ, (A, TA,) inf, n. as above, (K, TA,) (tropical:)  <i>He draws forth sustenance hence and thence for his family,</i> or <i>household:</i> (A:) or (tropical:)  <i>he gains,</i> or <i>earns,</i> or <i>seeks sustenance, for them.</i> (K, * TA.) ―         -b3-  And هُوَ يَنْبُشُ الاَسْرَارَ, (A, TA,) and الحَدِيثَ, inf. n. as above, (K, TA,) (tropical:)  <i>He draws forth,</i> or <i>elicits, secrets,</i> and <i>discourse, narration,</i> or <i>information:</i> (K, * TA:) or نَبَشْتُ السِّرَّ signifies (assumed tropical:)  <i>I divulged the secret.</i> (Msb.) ―         -b4-  And العُرُوقَ ↓ <br>\
+      اـِنْتَبَشَ (tropical:)  <i>He drew forth,</i> or <i>extracted, the veins.</i> (A.) ―         -b5-  Also, <i>He removed,</i> a thing from over another thing which it covered or concealed; (A, Msb, * K;) and earth from a thing beneath it: (A, Msb: *) whence نَبَّاشٌ, q. v. (Msb, K.) ―         -b6-  And hence, نَبَشَ القَبْرَ [<i>He uncovered,</i> or <i>he rifled,</i> or <i>ransacked, the grave</i>]. (A, Mgh, Msb.)       -A2-  Also, <i>He dug with the hand;</i> as also نَبَثَ. (AZ, in S, art. نبث.)    </entryFree> <br>\
+<b>هُوَ يَتَنَبَّشُ عَنِ الاَسْرَارِ</b>               1     <br>\
+                     هُوَ يَتَنَبَّشُ عَنِ الاَسْرَارِ<br>\
+                     ذ<br>\
+                   [app. (assumed tropical:)  <i>He endeavours to draw forth</i> or <i>elicit,</i> or <i>he searches out, secrets</i>]. (TA.)    </entryFree> <br>\
+                     اـِنْتَبَشَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>نِبَاشَةٌ</b>               1     <br>\
+                     نِبَاشَةٌ<br>\
+                     ذ<br>\
+                   The <i>trade,</i> or <i>occupation, of the</i> <br>\
+                  نَبَّاش. (TA.)    </entryFree> <br>\
+<b>نَبِيشَةٌ</b>               1[     <br>\
+                     نَبِيشَةٌ<br>\
+                     ذ<br>\
+                  <i>Earth extracted</i> from a well or burrow or the like. Hence,] نَبِيشَةُ اليَرْبُوعِ [<i>The earth extracted by the jerboa</i> in making its burrow]. (T in art. دم.)    </entryFree> <br>\
+<b>نَبَّاشٌ</b>               1     <br>\
+                     نَبَّاشٌ<br>\
+                     ذ<br>\
+                  <i>One who rifles,</i> or <i>ransacks, graves; who takes forth the dead from them;</i> or <i>who uncovers graves.</i> (Mgh, Msb.) See 1, in two places.    </entryFree> <br>\
+<b>اَنْبُوشٌ</b>               1     <br>\
+                     اَنْبُوشٌ<br>\
+                     ذ<br>\
+                  <i>A thing that is taken, drawn,</i> or <i>pulled, out,</i> or <i>forth:</i> (Lh:) the <i>lower part of leguminous plants taken, drawn,</i> or <i>pulled, out,</i> or <i>forth:</i> (S, K:) or <i>trees pulled out by the trunk and roots:</i> (K:) as also ↓ <br>\
+      اُنْبُوشَةٌ: (TA:) or ↓ both signify <i>what is torn out by the rain:</i> (AHeyth:) pl. اَنَابِيشُ, (S, K,) the pl. of both the above words. (AHeyth.) ―         -b2-  Also, <i>Full-grown unripe dates that are pierced with thorns in order that they may ripen.</i> (TA.) ―         -b3-  And the pl. signifies <i>Small arrows.</i> (Sgh.) Some say that this pl. has no singular. (MF.)    </entryFree> <br>\
+<b>اُنْبُوشَةٌ</b>               1     <br>\
+                     اُنْبُوشَةٌ<br>\
+                     ذ<br>\
+                  : see اُنْبُوشٌ, in two places.   </entryFree> <br>\
+' } );

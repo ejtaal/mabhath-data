@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وبش</em>            1                  وبش<br>\
+<b>وَبْشٌ</b>               1     <br>\
+                     وَبْشٌ<br>\
+                     ذ<br>\
+                  <i>A whiteness on the nails:</i> see زِنْجِير.   </entryFree> <br>\
+' } );

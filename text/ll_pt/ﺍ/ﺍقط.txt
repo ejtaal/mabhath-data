@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اقط&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اقط<br>\
+&lt;entryFree id=&quot;n971&quot; key=&quot;اَقَطَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَقَطَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَقِطَ<br>\
+                  &lt;/form&gt; (S, K,) inf. n. اَقْطٌ, (S,) &lt;i&gt;He made it&lt;/i&gt; (namely food) &lt;i&gt;with&lt;/i&gt; <br>\
+                  اَقِط q. v. infrà. (S, K.) ―         -b2-  Also, (aor. and inf. n. as above, TA,) &lt;i&gt;He fed him with&lt;/i&gt; <br>\
+                  اَقِط: (A&#39;Obeyd, K:) like لَبَنَهُ from لَبَنٌ and لَبَاَهُ from لِبَاٌ Lh mentions the verb in this sense as used without its being made transitive. (TA.) ―         -b3- [اَقِطَ in the CK is a mistake for ا=قَطَ q. v.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n972&quot; key=&quot;ا=قَطَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=قَطَ<br>\
+                     ا=قط<br>\
+                  &lt;/form&gt;, (Lh, K, [in the CK, incorrectly, اَقِطَ,]) of the measure اَفْعَلَ, agreeably with a common rule, applying to anything, (Lh, TA,) &lt;i&gt;He had much&lt;/i&gt; <br>\
+                  اَقِط; &lt;i&gt;his&lt;/i&gt; <br>\
+                  اَقِط <br>\
+                  &lt;i&gt;became much,&lt;/i&gt; or &lt;i&gt;abundant.&lt;/i&gt; (Lh, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n973&quot; key=&quot;ايتقط&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ايتقط<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [written with the disjunctive alif اِيتَقَطَ] &lt;i&gt;He made,&lt;/i&gt; or &lt;i&gt;prepared,&lt;/i&gt; <br>\
+                  اَقِط: (S:) strangely omitted in the O and in the K. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n974&quot; key=&quot;اَقِطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَقِطٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (Fr, Az, S, Msb, K) and اـِقِطٌ (Fr, O, K) and اَقَطٌ (Fr, K) and اـِقْطٌ, (S, O, Msb, K,) the last sometimes occurring in poetry, and formed from the first, by transferring the vowel of the ق to the preceding letter, (S,) or a contraction of the second, accord. to a common usage of [the tribe of] Temeem in the cases of words of this measure, (O,) and اَقْطٌ (K) and اُقْطٌ, (As, K,) of all which the first is the most chaste, and the last is strange, (TA,) [&lt;i&gt;A preparation of dried curd;&lt;/i&gt;] &lt;i&gt;a preparation of,&lt;/i&gt; or &lt;i&gt;thing made from, milk&lt;/i&gt; (Az, Msb, K) &lt;i&gt;of sheep&lt;/i&gt; or &lt;i&gt;goats,&lt;/i&gt; (K,) &lt;i&gt;which has been churned, and of which the butter has been taken,&lt;/i&gt; (Az, Msb, K,) &lt;i&gt;cooked, and then left until it becomes concrete:&lt;/i&gt; (Az, Msb:) or &lt;i&gt;made from the milk of camels,&lt;/i&gt; in particular: (IAar:) or &lt;i&gt;milk which is dried, and has become hard, like stone; with which one cooks;&lt;/i&gt; repeatedly mentioned in trads.: (TA:) or &lt;i&gt;a thing made from milk; being a kind of cheese:&lt;/i&gt; (Har p. 587:) pl. اُقْطَانٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n975&quot; key=&quot;اَقَّاطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَقَّاطٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A maker of&lt;/i&gt; <br>\
+                  اَقِط. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n976&quot; key=&quot;مَاْقُوطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْقُوطٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Food &lt;i&gt;made with&lt;/i&gt; <br>\
+                  اَقِط. (S.)   &lt;/entryFree&gt; <br>\
+' } );

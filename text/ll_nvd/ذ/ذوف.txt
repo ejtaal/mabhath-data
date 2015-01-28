@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'ذوف1<br>\
+ذَافَ, (M, K,) aor. يَذُوفُ, (M,) inf. n. ذَوْفٌ,<br>\
+He walked with short steps, and in a straddling<br>\
+manner. (M, K.)<br>\
+-A2-  And ذُفْتُ is a dial. var. of<br>\
+ذُفْتُ, signifying I mixed [medicine &amp;c.] (M.)<br>\
+ذُوفَانٌ [like ذُؤْفَانٌ &amp;c.] Poison: (K:) or poison<br>\
+made into a confection: or deadly poison: like<br>\
+ذِيفَانٌ [&amp;c.]. (M.)<br>\
+' } );

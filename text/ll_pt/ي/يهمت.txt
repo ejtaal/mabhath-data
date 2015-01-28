@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يهمت</em>            1                  يهمت<br>\
+<b>اليَهْمُوتُ</b>               1     <br>\
+                     اليَهْمُوتُ<br>\
+                     ذ<br>\
+                  <i>A name of the fish upon which is the earth:</i> erroneously written with ب [البهموت]: so says Esh-Shiháb in the &#39;Imáyeh. (MF, TA.) [See my translation of the 1001 Nights, note to the Introduction.]   </entryFree> <br>\
+' } );

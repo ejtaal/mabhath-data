@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>ميع</em>            1                  ميع<br>\
+<b>اماعهُ</b>               1     <br>\
+                     اماعهُ<br>\
+                     ذ<br>\
+                  <i>He made it to flow.</i> (Msb.)    </entryFree> <br>\
+<b>انماع</b>               1     <br>\
+                     انماع<br>\
+                     ذ<br>\
+                  <i>It flowed.</i> (Msb.)    </entryFree> <br>\
+<b>مَايِعٌ</b>               1     <br>\
+                     مَايِعٌ<br>\
+                     ذ<br>\
+                   Anything <i>in a melted state, fluid,</i> or <i>liquid:</i> opposed to جَامِدٌ. (Msb.)    </entryFree> <br>\
+<b>مَيْعَةٌ</b>               1     <br>\
+                     مَيْعَةٌ<br>\
+                     ذ<br>\
+                  <i>Briskness, liveliness,</i> or <i>sprightliness.</i> (S.) The <i>prime,</i> or <i>first part,</i> of youth, and of the day. (S, K.) The <i>first part</i> of the run of a horse: (S:) the <i>first part, and the briskness, liveliness,</i> or <i>sprightliness,</i> of a run, and of intoxication: or the <i>main part</i> of anything. (TA.) ―         -b2-  And The <i>flowing of</i> anything poured out. (TA.)   </entryFree> <br>\
+' } );

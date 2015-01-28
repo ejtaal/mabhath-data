@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نوح</em>            1                  نوح<br>\
+<b>الغُرَابُ النُّوحِىُّ</b>               1     <br>\
+                     الغُرَابُ النُّوحِىُّ<br>\
+                     ذ<br>\
+                   [<i>The Noachian crow;</i>] an appel-lation applied in Egypt to the زاغ (or <i>rook</i>). (TA, art. زيغ.)   </entryFree> <br>\
+' } );

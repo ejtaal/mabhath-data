@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ضوف1<br>\
+ضَافَ عَنْهُ, inf. n. ضَوْفٌ: see 1 in art ضيف.<br>\
+مَضُوفٌ: see art. ضيف.<br>\
+مَضُوفَةٌ: see art. ضيف.<br>\
+' } );

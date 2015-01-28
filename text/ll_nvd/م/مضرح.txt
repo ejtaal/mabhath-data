@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مضرحمَضْرَحٌ and مَضْرَحِىٌّ: see art. ضرح.<br>\
+مضغ &amp;c.<br>\
+See Supplement<br>\
+' } );

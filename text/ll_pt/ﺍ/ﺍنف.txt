@@ -1,0 +1,211 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انف&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انف<br>\
+&lt;entryFree id=&quot;n1357&quot; key=&quot;اَنَفَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَنَفَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنِفَ<br>\
+                  &lt;/form&gt; (M, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنُفَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَنْفٌ, (M,) &lt;i&gt;He struck,&lt;/i&gt; (T, S, K,) or &lt;i&gt;hit,&lt;/i&gt; or &lt;i&gt;hurt,&lt;/i&gt; (M,) &lt;i&gt;his nose;&lt;/i&gt; (T, S, M, K;) namely, a man&#39;s. (S.) ―         -b2-  &lt;i&gt;It&lt;/i&gt; (the water) &lt;i&gt;reached his nose,&lt;/i&gt; (T, S, K,) on the occasion of his descending into a river; (S;) as also ↓ <br>\
+      ا=نفهُ, (K, [but in some copies written again اَنَفَهُ,]) inf. n. اـِينَافٌ. (TK.)       -A2-  اَنَفَتِ الاـِبِلُ, (inf. n. as above, TA,) &lt;i&gt;The camels trod herbage,&lt;/i&gt; or &lt;i&gt;pasture, such as is termed&lt;/i&gt; <br>\
+                  اُنُف, (ISk, S, K,) i. e., &lt;i&gt;which had not been pastured upon.&lt;/i&gt; (S.) [But in the TT, as from the M, I find ↓ <br>\
+      ا=انَفَ, (which should rather be written اَانَفَ, or, accord. to the more usual mode, ا=نَفَ,) &lt;i&gt;He trod such herbage,&lt;/i&gt; or &lt;i&gt;pasture.&lt;/i&gt;]       -A3-  اَنِفَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنَفَ<br>\
+                  &lt;/form&gt;, (S, M, K,) inf. n. اَنَفٌ, (M,) &lt;i&gt;He&lt;/i&gt; (a camel) &lt;i&gt;had a complaint of,&lt;/i&gt; or &lt;i&gt;suffered pain in, his nose, from the&lt;/i&gt; <br>\
+                  بُرَة [or &lt;i&gt;nose-ring&lt;/i&gt;]: (S, M, K:) from ISk. (S.) ―         -b2-  اَنِفَتِ الاـِبِلُ, accord. to certain of the Kilábees, means &lt;i&gt;The flies alighted upon the noses of the camels, and they sought places which they did not seek before.&lt;/i&gt; (T.) ―         -b3-  اَنِفَ مِنْهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنَفَ<br>\
+                  &lt;/form&gt;, inf. n. اَنَفٌ (S, M, Msb, K) and اَنَفَةٌ, (S, M, K,) or the latter is a simple subst., (Msb,) [&lt;i&gt;He turned up his nose at it;&lt;/i&gt;] &lt;i&gt;he disdained it; scorned it; abstained from it,&lt;/i&gt; or &lt;i&gt;refused to do it, by reason of disdain and pride;&lt;/i&gt; (S, M, Msb, K;) &lt;i&gt;he disliked it,&lt;/i&gt; or &lt;i&gt;hated it, and his soul was above it;&lt;/i&gt; (L;) namely, a thing: (S, M, L, Msb:) and &lt;i&gt;he shunned it, avoided it,&lt;/i&gt; or &lt;i&gt;kept himself far from it:&lt;/i&gt; (Msb:) and &lt;i&gt;he disliked it,&lt;/i&gt; or &lt;i&gt;hated it;&lt;/i&gt; namely, a saying. (AZ, T, Msb.) You say, مَارَاَيْتُ اَحْمَى اَنَفًا مِنْ فُلَانٍ [&lt;i&gt;I have not seen any one more vehemently disdainful,&lt;/i&gt; or &lt;i&gt;scornful, than such a one&lt;/i&gt;]. (S.) And حَمَلَ مِنْ ذٰلِكَ اَنَفًا <br>\
+                  &lt;i&gt;He conceived, in consequence of that, disdain,&lt;/i&gt; or &lt;i&gt;scorn, arising from indignation and anger.&lt;/i&gt; (TA, from a trad.) [The verb is also trans. without من: you say,] يَاْنَفُ اَنْ يُضامَ [&lt;i&gt;He disdains,&lt;/i&gt; or &lt;i&gt;scorns,&lt;/i&gt; or &lt;i&gt;refuses to bear,&lt;/i&gt; or &lt;i&gt;to submit to, being injured&lt;/i&gt;]. (K.) [When immediately trans.,] اَنِفَ also signifies &lt;i&gt;He loathed, disliked,&lt;/i&gt; or &lt;i&gt;regarded with disgust.&lt;/i&gt; (IAar, T.) You say, اَنِفَ البَعِيرُ الكَلَاَ <br>\
+                  &lt;i&gt;The camel loathed, disliked,&lt;/i&gt; or &lt;i&gt;regarded with disgust, the herbage,&lt;/i&gt; or &lt;i&gt;pasture.&lt;/i&gt; (T.) And اَنفَ الطَّعَامَ وَغَيْرَهُ <br>\
+                  &lt;i&gt;He disliked the food&lt;/i&gt; &amp;amp;c. (M.) And اَنِفَتْ فَرَسِى <br>\
+                  هٰذِهِ هٰذَا البَلَدَ <br>\
+                  &lt;i&gt;This my mare disliked this region.&lt;/i&gt; (T, as heard from an Arab of the desert.) And تَاْنَفُ فَحْلَهَا <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a woman, and a mare, and a camel, being pregnant,) &lt;i&gt;dislikes her male,&lt;/i&gt; or &lt;i&gt;stallion.&lt;/i&gt; (T.) And اَنِفَتْ, said of a woman, signifies &lt;i&gt;She, being pregnant, had no appetite for anything.&lt;/i&gt; (Ibn-Abbád, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَنَّفَ<br>\
+                  &lt;/form&gt; see 4.       -A2-  تَاْنِيفٌ also signifies (assumed tropical:)  The &lt;i&gt;sharpening,&lt;/i&gt; or &lt;i&gt;making pointed, the extremity&lt;/i&gt; of a thing. (S.) You say of a spear-head, or an arrow-head, or a blade, اُنِّفّ, inf. n. تَاْنِيفٌ, (K,) (assumed tropical:)  &lt;i&gt;It was sharpened&lt;/i&gt; or &lt;i&gt;pointed&lt;/i&gt; [&lt;i&gt;at its extremity&lt;/i&gt;]. (TA.) ―         -b2-  [Used as a subst.,] (assumed tropical:)  &lt;i&gt;Sharpness of the extremity&lt;/i&gt; of the hock; which, in a horse, is approved. (TA.) ―         -b3-  اُنِّفَ تَاْنِيفَ السَّيْرِ, said by an Arab of the desert in describing a horse, means (assumed tropical:)  &lt;i&gt;He was made even, like as is made even the cut thong&lt;/i&gt; or &lt;i&gt;strap.&lt;/i&gt; (M.)       -A3-  (assumed tropical:)  The &lt;i&gt;seeking after herbage,&lt;/i&gt; or &lt;i&gt;pasture,&lt;/i&gt; (K, TA,) &lt;i&gt;such as is termed&lt;/i&gt; <br>\
+                  اُنُف. (TA.) ―         -b2-  انّف <br>\
+                  مَالَهُ, (T,) or الاـِبِلَ, (K,) inf. n. as above; and ↓ <br>\
+      ا=نَفَهَا, (T, S, K,) inf. n. اـِينَافٌ; (T;) (assumed tropical:)  &lt;i&gt;He pastured his beasts upon the first of the herbage:&lt;/i&gt; (T:) or &lt;i&gt;he pursued, with the camels, repeatedly,&lt;/i&gt; or &lt;i&gt;gradually,&lt;/i&gt; or &lt;i&gt;step by step,&lt;/i&gt; (S, K, TA,) &lt;i&gt;after the first of the herbage,&lt;/i&gt; (S,) or &lt;i&gt;after the herbage&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;116&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;which had not been pastured upon:&lt;/i&gt; (K, * TA:) or &lt;i&gt;he went with them thereto.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1358&quot; key=&quot;ا=نفهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=نفهُ<br>\
+                     ا=نفه<br>\
+                     ا=نفة<br>\
+                  &lt;/form&gt;, (S, M, K,) inf. n. اـِينَافٌ, (S,) &lt;i&gt;He,&lt;/i&gt; (S,) or &lt;i&gt;it,&lt;/i&gt; (M,) &lt;i&gt;made him to have a complaint of,&lt;/i&gt; or &lt;i&gt;to suffer pain in, his nose.&lt;/i&gt; (S, M, K.) ―         -b2-  See also اَنَفَهُ. ―         -b3-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, induced him to feel disdain, scorn, indignation, and anger;&lt;/i&gt; (IF, M, K, TA;) as also ↓ <br>\
+      انّفهُ, inf. n. تَاْنِيفٌ: (K:) or &lt;i&gt;caused him to dislike,&lt;/i&gt; or &lt;i&gt;hate,&lt;/i&gt; or &lt;i&gt;to loath,&lt;/i&gt; or &lt;i&gt;feel disgust.&lt;/i&gt; (T.)       -A2-  (assumed tropical:)  &lt;i&gt;He hastened it;&lt;/i&gt; namely, his affair. (Ibn-&#39;Abbád, K.)       -A3-  See also 2.       -A4-  ا=نف as an intrans. verb: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1359&quot; key=&quot;تَتَاَنَّفُ الشَّهَوَاتِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَتَاَنَّفُ الشَّهَوَاتِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;She desires of her husband, with eagerness, one thing after another, by reason of intense longing in pregnancy.&lt;/i&gt; (T, the Moheet, L, K. *) ―         -b2-  يَتَاَنَّفُ الاـِخْوَانَ (assumed tropical:)  &lt;i&gt;He seeks the brethren, they disdaining,&lt;/i&gt; or &lt;i&gt;scorning,&lt;/i&gt; or &lt;i&gt;disliking; not holding social intercourse with any one.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَنَفَ<br>\
+                  &lt;/form&gt; see 10.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1360&quot; key=&quot;استانفهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استانفهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      ايتنفهُ [written with the disjunctive alif اِيتَنَفَهُ] (assumed tropical:)  &lt;i&gt;He took&lt;/i&gt; [&lt;i&gt;its&lt;/i&gt; <br>\
+                  اَنْف, i. e.,] &lt;i&gt;the first of it:&lt;/i&gt; (M:) &lt;i&gt;he began it,&lt;/i&gt; or &lt;i&gt;commenced it:&lt;/i&gt; (S, ↓ M, Msb, K: *) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اِسْتَقْبَلَهُ [which has also the latter of the two significations mentioned above, (Mgh in art. قبل,) and moreover signifies &lt;i&gt;he anticipated it;&lt;/i&gt; and from what follows here, it seems to be probable that this last signification, as well as the other, may be meant by it in this instance]: (T, M:) namely, a thing, (M, Msb,) or an affair. (T.) You say, استانفهُ بِوَعْدٍ (assumed tropical:)  &lt;i&gt;He made him a promise in anticipation; without his asking it of him.&lt;/i&gt; (M.) And, of a woman, اُسْتُوْنِفَتْ بِالنِّكَاحِ اَوَّلًا (assumed tropical:)  [&lt;i&gt;She was just married,&lt;/i&gt; or &lt;i&gt;bedded, for the first time&lt;/i&gt;]. (M.) See also اُنُفٌ, last sentence. ―         -b2-  [Hence, حَرْفُ اْسْتِيْنَافٍ, in grammar, &lt;i&gt;An inceptive particle, placed at the commencement of a new proposition grammatically independent of that which precedes it.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1361&quot; key=&quot;اَنْفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنْفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a word of well-known meaning; (Lth, T, K;) The &lt;i&gt;nose;&lt;/i&gt; syn. مَعْطِسٌ; (Msb;) the &lt;i&gt;aggregate composed of the two nostrils and the septum and the&lt;/i&gt; [&lt;i&gt;bone called&lt;/i&gt;] قَصَبَة, which is the hard part of the انف; (MF;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَنْخِرٌ [which is evidently an explanation by a synecdoche, as this word properly signifies &lt;i&gt;nostril&lt;/i&gt;]: (M:) it pertains to man and to others: (S:) ↓ <br>\
+      اُنْفٌ is a dial. var. of the same; (MF, TA;) and so is ↓ <br>\
+      اـِنْفٌ, which is a form used by the vulgar peculiarly: (TA:) the pl. [of pauc.] is ا=نُفٌ and ا=نَافٌ (S, M, Msb, K) and [of mult.] اُنُوفٌ. (T, S, M, Msb, K.) The dual is applied to The &lt;i&gt;two nostrils;&lt;/i&gt; as in the saying of Muzáhim El-&#39;Okeylee, يَسُوفُ بِاَنْفِيْهِ <br>\
+                  النِّقَاعَ [&lt;i&gt;He scents with his two nostrils the dust&lt;/i&gt;]. (TA.) You say also, هُوَ يَتَتَبَّعُ اَنْفَهُ (tropical:)  &lt;i&gt;He scents,&lt;/i&gt; or &lt;i&gt;sniffs, the odour, and follows it.&lt;/i&gt; (T, [in which, however, I find يَتْبَعُ in the place of يتتبّع] O, L, K, TA.) And, of a she-camel, تَرْاَمُ بِاَنْفِهِا (assumed tropical:)  [&lt;i&gt;She makes a show of affection with her nose, by smelling her young one;&lt;/i&gt; not having true love]. (S, M, K, voce مُذَايِرٌ; &amp;amp;c.: see also مُعَارِضٌ.) And مَاتَ حَتْفَ اَنْفِهِ (S, K, &amp;amp;c., in art. حتف,) and حتف اَنْفِيْهِ, (K ibid.,) (assumed tropical:)  &lt;i&gt;He died&lt;/i&gt; [&lt;i&gt;a natural death,&lt;/i&gt;] &lt;i&gt;on his bed,&lt;/i&gt; (K,) &lt;i&gt;without being slain or beaten&lt;/i&gt; (S, K) &lt;i&gt;or drowned or burned.&lt;/i&gt; (K. [See art. حتف]) And حَمِىَ اَنْفُهُ (tropical:)  &lt;i&gt;He became vehemently angry,&lt;/i&gt; or &lt;i&gt;enraged;&lt;/i&gt; as also وَرِمَ اَنْفُهُ. (IAth. [See also art. حمي]) And رَجُلٌ حَمِىُّ <br>\
+                  الاَنْفِ (tropical:)  &lt;i&gt;A disdainful,&lt;/i&gt; or &lt;i&gt;scornful, man; who disdains,&lt;/i&gt; or &lt;i&gt;scorns, being injured.&lt;/i&gt; (T, K, TA. [See, again, art. حمي.]) And سَمِىُّ الاَنْفِ (assumed tropical:)  [lit. &lt;i&gt;Highnosed,&lt;/i&gt; signifies the same;] &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَنْفَانُ. (T, K.) And اَنْفٌ فِي السَّمَا=ءِ وَاْسْتٌ فِى المَا=ءِ (assumed tropical:)  [&lt;i&gt;A nose in the sky and a rump in the water&lt;/i&gt;]; a prov., applied to him who magnifies himself in words and is little in actions. (Har p. 641.) And حَعَلَ <br>\
+                  اَنْفَهُ فِى قَفَاهُ (tropical:)  [lit. &lt;i&gt;He put his nose in the back of his neck&lt;/i&gt;]; meaning &lt;i&gt;he turned away from the truth,&lt;/i&gt; or &lt;i&gt;what was right, and betook himself to what was false,&lt;/i&gt; or &lt;i&gt;vain:&lt;/i&gt; (K, TA:) expressing the utmost degree of turning away, or turning the head, from a thing. (TA.) And اَضَاعَ مَطْلَبَ <br>\
+                  اَنْفِهِ, (M, K,) and مُوْضِعَ اَنْفِهِ, (M,) (assumed tropical:)  [&lt;i&gt;He neglected,&lt;/i&gt; or &lt;i&gt;left unprotected,&lt;/i&gt;] &lt;i&gt;the womb from which he had come forth:&lt;/i&gt; (Th, M:) or &lt;i&gt;the&lt;/i&gt; <br>\
+                  فَرْج <br>\
+                  &lt;i&gt;of his mother.&lt;/i&gt; (Ibn-&#39;Abbád, K.) And هُوَ الفَحْلُ لَا يُقْرَعُ <br>\
+                  اَنْفُهُ, and لَا يُقْدَعُ, &lt;i&gt;He is the speaker,&lt;/i&gt; or &lt;i&gt;orator, who is not to be rebutted.&lt;/i&gt; (TA.) الاَسدِ اَنْفُ (assumed tropical:)  [&lt;i&gt;The nose of the lion&lt;/i&gt;] is &lt;i&gt;the asterism called&lt;/i&gt; <br>\
+                  النَّثْرَةُ, q. v. (Kzw in his Description of the Mansions of the Moon.) ―         -b2-  (assumed tropical:)  [&lt;i&gt;A prominent part&lt;/i&gt; of anything, as being likened to a nose;] the &lt;i&gt;extremity&lt;/i&gt; of anything. (M.) [Thus,] اَنْفُ جَبَلٍ (tropical:)  &lt;i&gt;A prominence,&lt;/i&gt; or &lt;i&gt;projecting part, of a mountain.&lt;/i&gt; (T, S, M, Msb, TA.) اَنْفُ النَّابِ, (S, M. K, TA,) in [some of] the copies of the K erroneously, البَابِ, (TA,) (tropical:)  &lt;i&gt;The extremity,&lt;/i&gt; (S, M, K, TA,) or &lt;i&gt;edge,&lt;/i&gt; (M, TA,) &lt;i&gt;of the canine tooth,&lt;/i&gt; or &lt;i&gt;tush, when it comes forth.&lt;/i&gt; (S, M, K, TA.) اَنْفُ <br>\
+                  خُفِّ البَعِيرِ (assumed tropical:)  &lt;i&gt;The extremity of the&lt;/i&gt; <br>\
+                  مَنْسِم [i. e. &lt;i&gt;toe,&lt;/i&gt; or &lt;i&gt;each of the two nails of the foot,&lt;/i&gt;] &lt;i&gt;of the camel.&lt;/i&gt; (T, K.) اَنْفُ اللِّحْيَةِ (tropical:)  &lt;i&gt;The fore part,&lt;/i&gt; (M, TA,) or &lt;i&gt;side,&lt;/i&gt; (K,) &lt;i&gt;of the beard.&lt;/i&gt; (M, K, TA.) اَنْفُ <br>\
+                  النَّعْلِ (assumed tropical:)  &lt;i&gt;The toe,&lt;/i&gt; or &lt;i&gt;foremost extremity, of the sandal&lt;/i&gt; [also called its اَسَلَة and its ذُنَابَة]. (M.) اَنْفَا القَوْسِ (assumed tropical:)  &lt;i&gt;The two extremities which are in the inner sides of the two curved ends of the bow.&lt;/i&gt; (M.) ―         -b3-  (assumed tropical:)  The &lt;i&gt;first,&lt;/i&gt; or &lt;i&gt;first part,&lt;/i&gt; of anything; (S, M, K;) relating also to times; (M;) as also ↓ <br>\
+      مُسْتَاْنَفٌ (M, TA.) Thus, اَنْفُ المَرْعَى (assumed tropical:)  &lt;i&gt;The first of the herbage,&lt;/i&gt; or &lt;i&gt;pasture.&lt;/i&gt; (S, * M.) اَنْفُ <br>\
+                  المَطَرِ (assumed tropical:)  &lt;i&gt;The first vegetation produced by the rain.&lt;/i&gt; (T, K.) جَا=ءَ فِى اَنْفِ الخَيْلِ (tropical:)  [&lt;i&gt;He came among the first of the horses,&lt;/i&gt; or &lt;i&gt;horsemen&lt;/i&gt;]. (TA.) سَارَ <br>\
+                  فِى اَنْفِ النَّهَارِ (tropical:)  [&lt;i&gt;He journeyed in the first part of the day&lt;/i&gt;]. (TA.) هٰذَا اَنْفُ عَمَلِ فُلَانٍ (tropical:)  &lt;i&gt;This is the first of the things which such a one has begun to do.&lt;/i&gt; (T, TA.) اَنْفُ الشَّدِّ, (T, S, M,) and العَدْوِ, (M,) (assumed tropical:)  &lt;i&gt;The first of the run,&lt;/i&gt; or &lt;i&gt;running:&lt;/i&gt; (T:) &lt;i&gt;the most vehement thereof.&lt;/i&gt; (T, S, M, K. *) اَنْفُ البَرْدِ (assumed tropical:)  &lt;i&gt;The first of the cold:&lt;/i&gt; (T:) &lt;i&gt;the most vehement thereof;&lt;/i&gt; (T, S, M;) so says Yaákoob. (S.) ―         -b4-  (tropical:)  &lt;i&gt;A lord,&lt;/i&gt; or &lt;i&gt;chief.&lt;/i&gt; (IAar, T, K.) You say, هُوَ اَنْفُ قَوْمِهِ (tropical:)  &lt;i&gt;He is the lord,&lt;/i&gt; or &lt;i&gt;chief, of his people.&lt;/i&gt; (TA.) ―         -b5-  (tropical:)  &lt;i&gt;A piece broken off&lt;/i&gt; of a cake of bread. (K, TA.) ―         -b6-  (assumed tropical:)  &lt;i&gt;A part&lt;/i&gt; of ground, or land, &lt;i&gt;that is hard, and lying open, exposed to the sun.&lt;/i&gt; (IF, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1362&quot; key=&quot;اُنْفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُنْفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَنْفٌ, first sentence:       -A2-  and see اُنُفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1363&quot; key=&quot;اـِنْفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنْفٌ<br>\
+                     اناف<br>\
+                     انف<br>\
+                     انوف<br>\
+                     انف<br>\
+                     ناف<br>\
+                     نف<br>\
+                     نفا<br>\
+                     نفى<br>\
+                     آنف<br>\
+                  &lt;/form&gt;: see اَنْفٌ, first sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1364&quot; key=&quot;اَنِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنِفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A camel &lt;i&gt;having a complaint of,&lt;/i&gt; or &lt;i&gt;suffering pain in, his nose, from the&lt;/i&gt; <br>\
+                  بُرَة [or &lt;i&gt;nose-ring&lt;/i&gt;]: (ISk, S, M, K:) or &lt;i&gt;wounded by the nose-rein, whether it be with a&lt;/i&gt; <br>\
+                  خِشَاش <br>\
+                  &lt;i&gt;or&lt;/i&gt; <br>\
+                  بُرَة (A &#39;Obeyd, T, M) &lt;i&gt;or&lt;/i&gt; <br>\
+                  خِزَامَة [all of which are different kinds of nose-rings]. (A&#39; Obeyd, T.) And consequently, &lt;i&gt;Submissive, and tractable:&lt;/i&gt; (S, TA:) or &lt;i&gt;submissive and obedient, that dislikes chiding and beating, and goes as he is able to do spontaneously and easily:&lt;/i&gt; (Aboo-Sa&#39;eed, TA:) and ↓ <br>\
+      ا=نِفٌ signifies the same; (A &#39;Obeyd, M, K;) but the former is the more correct and the more chaste: (Sgh, K:) by rule, it should be مَاْنُوفٌ, like مَصْدُورٌ, (T, S, M,) and مَبْطُونٌ. (T, S.) To such a camel, the believer is likened in a trad.; (T, S, M;) because he ceases not to complain, or suffer pain; (M;) or because he does not require to be chidden nor to be punished, but endures and performs what is incumbent on him. (Aboo-Sa&#39;eed, TA.) ―         -b2-  &lt;i&gt;Disdaining,&lt;/i&gt; or &lt;i&gt;disdainful; scorning,&lt;/i&gt; or &lt;i&gt;scornful; i. q.&lt;/i&gt; <br>\
+                  حَمِىُّ الاَنْفِ: and ↓ <br>\
+      اَنْفَانُ [signifies the same;] &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  سَمِىُّ الاَنْفِ. (T, K.)       -A2-  See also ا=نِفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1365&quot; key=&quot;رَوْضَةٌ اُنُفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَوْضَةٌ اُنُفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;A meadow of new herbage,&lt;/i&gt; (Msb,) &lt;i&gt;not pastured upon&lt;/i&gt; (S, Msb, K) &lt;i&gt;by any one;&lt;/i&gt; (S;) as also ↓ <br>\
+      مُوْنِفٌ: (Ibn-&#39;Abbád, K:) or &lt;i&gt;untrodden:&lt;/i&gt; contracted, by poetic licence, into ↓ <br>\
+      اُنْفٌ, in a verse of Abu-n-Nejm. (M.) And كَلَاٌ اُنُفٌ (assumed tropical:)  &lt;i&gt;Herbage not pastured upon&lt;/i&gt; (S, M) &lt;i&gt;by any one.&lt;/i&gt; (M.) ―         -b2-  كَاْسٌ اْنُفٌ (assumed tropical:)  &lt;i&gt;A cup of wine not drunk:&lt;/i&gt; (K:) or &lt;i&gt;from which one has not drunk before;&lt;/i&gt; as though the drinking thereof were [but just] begun; like رَوْضَةٌ اُنُفٌ: (S) or (assumed tropical:)  &lt;i&gt;full:&lt;/i&gt; and in like manner, مَنْهَلٌ اُنُفٌ (assumed tropical:)  [&lt;i&gt;a full watering-place&lt;/i&gt;]; (M;) or (tropical:)  &lt;i&gt;not before drunk from.&lt;/i&gt; (TA.) And خَمْرٌ اُنُفٌ (tropical:)  &lt;i&gt;Wine of which none has before been taken from its jar.&lt;/i&gt; (M, TA. *) ―         -b3-  اَرْضٌ اُنُفٌ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَنِيغَةٌ, q. v. (M, TA.) ―         -b4-  نَقِيذَةٌ اُنْفٌ (assumed tropical:)  &lt;i&gt;A long&lt;/i&gt; [as though &lt;i&gt;new and undiminished&lt;/i&gt;] &lt;i&gt;coat of mail.&lt;/i&gt; (L in art.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1366&quot; key=&quot;نقذ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نقذ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, from El-Mufaddal.) ―         -b2-  اَمْرٌ اُنُفٌ (assumed tropical:)  &lt;i&gt;An event brought to pass at the first, not being before decreed:&lt;/i&gt; (K, TA:) accord. to those who assert that there is no decreeing [by God]. (TA.) ―         -b3-  مِشْيَةٌ اُنُفٌ (assumed tropical:)  &lt;i&gt;A goodly&lt;/i&gt; [as though &lt;i&gt;novel&lt;/i&gt;] &lt;i&gt;gait,&lt;/i&gt; or &lt;i&gt;manner of walking.&lt;/i&gt; (Ibn-&#39;Abbád, K.) ―         -b4-  ا=تِيكَ <br>\
+                  مِنْ ذِى اُنُفٍ is like the phrase مِنْ ذِى قَبَلٍ; i. e., فِيمَا يُسْتَقْبَلٌ [&lt;i&gt;I will come to thee in what is&lt;/i&gt; (&lt;i&gt;now&lt;/i&gt;) &lt;i&gt;to be begun&lt;/i&gt; (&lt;i&gt;of time&lt;/i&gt;); meaning, &lt;i&gt;immediately;&lt;/i&gt; nearly the same as ا=نِفًا, but relating to the nearest future time, whereas this latter relates to the nearest past time]. (S, K.) And اَفْعَلُ ذَاكَ مِنْ ذِى اُنُفٍ: &lt;pb n=&quot;117&quot; TEIform=&quot;pb&quot;/&gt; i. e., ↓ <br>\
+      فِيمَا يُسْتَاْنَفُ [&lt;i&gt;I will do that in what is&lt;/i&gt; (&lt;i&gt;now&lt;/i&gt;) &lt;i&gt;to begun&lt;/i&gt; &amp;amp;c.]; like مِنْ ذِى عَوْضٍ. (K in art. عوض.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1367&quot; key=&quot;اَنْفَةُ الصَّلَاةِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنْفَةُ الصَّلَاةِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;The beginning,&lt;/i&gt; or &lt;i&gt;commencement, of prayer;&lt;/i&gt; (K;) i. e. &lt;i&gt;the first saying of&lt;/i&gt; <br>\
+                  اَللّٰهُ اَكْبَرُ: (TA:) accord. to a relation of a trad., in which it occurs, with damm, [اُنْفَة,] (IAth, K,) but correctly with fet-h. (Hr, IAth, K.) The ة seems to be here added to اَنْف as it is in ذَنَبَةٌ for ذَنَبٌ. (Sgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1368&quot; key=&quot;اَنَفَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَفَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Disdain; scorn; disdainful and proud incompliance or refusal;&lt;/i&gt; (Msb;) &lt;i&gt;indignation;&lt;/i&gt; and &lt;i&gt;anger:&lt;/i&gt; (TA:) a subst. [or, accord. to the S and M and K, an inf. n.] from اَنِفَ مِنْهُ. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1369&quot; key=&quot;اَنْفَانُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنْفَانُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَنِفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1370&quot; key=&quot;اَنْفِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنْفِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Snuff, for the nose:&lt;/i&gt; but this is postclassical. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1371&quot; key=&quot;اَنُوفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنُوفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A man &lt;i&gt;very disdainful, scornful,&lt;/i&gt; or &lt;i&gt;indignant; very disdainfully and proudly incompliant&lt;/i&gt; or &lt;i&gt;refusing;&lt;/i&gt; (M;) &lt;i&gt;who disdains,&lt;/i&gt; or &lt;i&gt;scorns, exceedingly, to do ignoble deeds:&lt;/i&gt; (Har p. 312:) pl. اُنُفٌ. (M.) ―         -b2-  A woman &lt;i&gt;whose nose has a pleasant odour:&lt;/i&gt; (S, M, K:) or &lt;i&gt;whom one likes to smell:&lt;/i&gt; (IAar, M:) or &lt;i&gt;who disdains, scorns, abstains from, shuns,&lt;/i&gt; or &lt;i&gt;dislikes, that in which is no good.&lt;/i&gt; (Ibn-&#39;Abbád, Sgh, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1372&quot; key=&quot;اَنِيفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنِيفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  A mountain &lt;i&gt;which produces vegetation before other regions.&lt;/i&gt; (Ibn-&#39;Abbád, K.) And اَرْضٌ اَنِيفَةٌ, (T, M,) or اَنِيفَةُ النَّبْتِ, (S, K,) (assumed tropical:)  &lt;i&gt;Land that produces its vegetation early:&lt;/i&gt; (T:) or &lt;i&gt;that produces vegetation quickly:&lt;/i&gt; (Et-Táee, ISk, S, K:) or &lt;i&gt;that produces vegetation;&lt;/i&gt; as also ↓ <br>\
+      اُنُفٌ. (M.)       -A2-  Applied to iron, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَنِيثُ; i. e. &lt;i&gt;Soft.&lt;/i&gt; (Aboo-Turáb, T, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1373&quot; key=&quot;اُنَافِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُنَافِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (with damm, K) &lt;i&gt;Having a large nose;&lt;/i&gt; (Yaakoob, S, M, K;) applied to a man: (M, K:) similar to عُضَادِّىٌ and اُذَانِىٌّ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1374&quot; key=&quot;ا=نَفُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=نَفُ<br>\
+                     ا=نف<br>\
+                  &lt;/form&gt; [&lt;i&gt;More,&lt;/i&gt; and &lt;i&gt;most, disdainful,&lt;/i&gt; &amp;amp;c.]. You say, مَا رَاَيْتُ ا=نَفَ مِنْ فُلَان <br>\
+                  &lt;i&gt;I have not seen any one more disdainful,&lt;/i&gt; or &lt;i&gt;scornful,&lt;/i&gt; or &lt;i&gt;indignant, than such a one.&lt;/i&gt; (S, TA.)       -A2-  هٰذِهِ ا=نَفُ بِلَادِ اْللّٰهِ <br>\
+                  &lt;i&gt;This is the speediest, in producing vegetation, of the countries of God.&lt;/i&gt; (T, S, * M, * K. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1375&quot; key=&quot;ا=نِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=نِفٌ<br>\
+                     ا=نف<br>\
+                  &lt;/form&gt;: see اَنِفٌ.       -A2-  ا=نِفًا means (assumed tropical:)  &lt;i&gt;In the beginning,&lt;/i&gt; or &lt;i&gt;first part, of this present time in which we are;&lt;/i&gt; from اَنْفٌ as meaning the “ first, ” or “ first part, ” of a thing: and hence what here immediately follows. (Ham p. 348.) مَا ذَا قَالَ ا=نِفًا, (T, S, * M, K, * &amp;amp;c.,) and ↓ <br>\
+      اَنِفًا, (IAar, Bd, K, Jel,) in the Kur [xlvii. 18], (M, &amp;amp;c.,) means (tropical:)  &lt;i&gt;What was this that he said just now?&lt;/i&gt; (Zj, T, M, Bd, Jel:) or, &lt;i&gt;a little while ago?&lt;/i&gt; (IAar, T, K:) i. e., &lt;i&gt;in the first time near to us?&lt;/i&gt; (Zj, T, M:) from اِسْتَاْنَفْتُ الشَّىْءَ “ I began the thing. ” (Zj, T, M.) You say also, اَتَيْتُ فُلَانًا ا=نِفًا (tropical:)  [&lt;i&gt;I came to such a one a little while ago&lt;/i&gt;]; like as you say, مِنْ ذِى قِبَلٍ. (Lth, T.) And جَا=ءَ ا=نِفًا (tropical:)  &lt;i&gt;He came a little while ago;&lt;/i&gt; syn. قُبَيْلَ. (M.) And ↓ <br>\
+      فَعَلَهُ بِا=نِفَةٍ, mentioned by IAar, but not explained by him; in my opinion, [says ISd,] like فَعَلَهُ ا=نِفًا (tropical:)  [&lt;i&gt;He did it a little while ago:&lt;/i&gt; or &lt;i&gt;just now&lt;/i&gt;]. (M.) And it is said in a trad., اُنْزِلَتْ عَلَيَّ سُورَةٌ ا=نِفًا <br>\
+                  &lt;i&gt;A chapter of the Kur-án has been sent down to me now.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1376&quot; key=&quot;ا=نِفَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=نِفَةٌ<br>\
+                     ا=نفه<br>\
+                     ا=نفة<br>\
+                  &lt;/form&gt; (tropical:)  The &lt;i&gt;first part of life&lt;/i&gt; (مَيْعَة and اَوَّلِيَّة) of a boy. (Ks, K, TA.) ―         -b2-  See also ا=نِفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1377&quot; key=&quot;مُوْنَفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْنَفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: its fem., with ة, see voce مُوَنَّفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1378&quot; key=&quot;مُوْنِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْنِفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُنُفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1379&quot; key=&quot;مُوَنَّفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَنَّفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;Sharpened at its extremity;&lt;/i&gt; or &lt;i&gt;pointed;&lt;/i&gt; (M, K;) applied to a spear-head, or an arrowhead, or a blade, (K,) or anything. (M.) ―         -b2-  (assumed tropical:)  &lt;i&gt;Made even:&lt;/i&gt; a thong, or strap, &lt;i&gt;made of a certain measure, and evenly.&lt;/i&gt; (M.)       -A2-  اـِبِلٌ مُوَنَّفَةٌ (assumed tropical:)  &lt;i&gt;Camels with which one pursues repeatedly,&lt;/i&gt; or &lt;i&gt;gradually,&lt;/i&gt; or &lt;i&gt;step by step, after the first of the herbage;&lt;/i&gt; and so ↓ <br>\
+      مُوْنَفَةٌ: (M:) and the former epithet is applied to sheep or goats. (K.) ―         -b2-  The former of these two epithets, applied to a woman, signifies (assumed tropical:)  &lt;i&gt;Just married&lt;/i&gt; or &lt;i&gt;bedded,&lt;/i&gt; (الَّتِى اْسْتُوْنِفَتْ بِالنِّكَاحِ,) &lt;i&gt;for the first time.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1380&quot; key=&quot;مَاـْنُوفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاـْنُوفٌ<br>\
+                     اوفى<br>\
+                     مانوف<br>\
+                     وفى<br>\
+                  &lt;/form&gt; A camel &lt;i&gt;that is urged on by&lt;/i&gt; [&lt;i&gt;means of the rein attached to&lt;/i&gt;] &lt;i&gt;his nose.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1381&quot; key=&quot;مِيْنَافٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْنَافٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  A man &lt;i&gt;who begins to make use of the places of pasturing and alighting;&lt;/i&gt; (M;) &lt;i&gt;who pastures his beasts upon the first of the herbage.&lt;/i&gt; (As, T, K. * [In the CK, اُنُفُ الكَلَاِ is put for اَنْفَ الكَلَاِ.]) ―         -b2-  (assumed tropical:)  A man (TA) &lt;i&gt;journeying in the beginning,&lt;/i&gt; or &lt;i&gt;first part, of the night:&lt;/i&gt; (K:) so in all the copies of the K; but correctly, as in the Moheet and the O, &lt;i&gt;in the beginning,&lt;/i&gt; or &lt;i&gt;first part, of the day.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1382&quot; key=&quot;مُوْتَنَفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْتَنَفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  [A place] &lt;i&gt;from which nothing has been eaten;&lt;/i&gt; as also ↓ <br>\
+      مُتَاَنِّفٌ; (K;) which latter is explained by Ibn-&#39;Abbád as signifying a place &lt;i&gt;not eaten&lt;/i&gt; [&lt;i&gt;from&lt;/i&gt;] &lt;i&gt;before.&lt;/i&gt; (TA.) ―         -b2-  جَارِيَةٌ مُوْتَنَفَةُ الشَّبَابِ (assumed tropical:)  A girl [&lt;i&gt;in the prime of youth;&lt;/i&gt;] &lt;i&gt;in whom no trace of agedness appears.&lt;/i&gt; (Sgh, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1383&quot; key=&quot;مُتَاَنِّفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَنِّفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُوْتَنَفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1384&quot; key=&quot;مُسْتَاْنَفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَاْنَفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَنْفٌ, in the latter part of the paragraph.   &lt;/entryFree&gt; <br>\
+' } );

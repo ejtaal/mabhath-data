@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>مرس</em>            1                  مرس<br>\
+<b>مَرَاسَةٌ</b>               1     <br>\
+                     مَرَاسَةٌ<br>\
+                     ذ<br>\
+                   [<i>A wooden rake</i> or <i>harrow:</i>] <i>i. q.</i> <br>\
+                  مَلاَسَةٌ. (TA, art. صلع.)   </entryFree> <br>\
+' } );

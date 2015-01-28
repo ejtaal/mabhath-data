@@ -1,0 +1,42 @@
+load_data( { book: 'll_pt', text: '<em>شوش</em>            1                  شوش<br>\
+<b>شوّش عَلَيْهِ الاَمْرَ</b>               1     <br>\
+                     شوّش عَلَيْهِ الاَمْرَ<br>\
+                     ذ<br>\
+                  , inf. n. تَشْوِيشٌ, <i>He rendered the affair,</i> or <i>state,</i> or <i>case, confused, disordered,</i> or <i>perplexed, to him:</i> (El-Fárábee, S, * Msb: the inf. n., and that only, mentioned in the S in art. شيش:) or, accord. to certain of those skilled in the abstrusities and niceties of science, شوّش is a post-classical word, and the chaste word is هَوَّشَ: accord. to IAmb, the leading lexicologists hold that one should only say هوّش; and Az and others say the same: (Msb:) [F also says,] تَشْوِيشٌ is a mistake for تَهْوِيشٌ. (K.) See also شَوَاشٍ.    </entryFree> <br>\
+<b>تشوّش عَلَيْهِ الاَمْرُ</b>               1     <br>\
+                     تشوّش عَلَيْهِ الاَمْرُ<br>\
+                     ذ<br>\
+                  <i>The affair,</i> or <i>state,</i> or <i>case, became confused,</i> or <i>perplexed, to him:</i> (ElFárábee, S, Msb: mentioned in the S in art. شيش:) or this is post-classical: (Msb:) or تَشَوُّشٌ is a mistake for تَهَوُّشٌ. (K.)    </entryFree> <br>\
+<b>تشاوش القَوْمُ</b>               1     <br>\
+                     تشاوش القَوْمُ<br>\
+                     ذ<br>\
+                  <i>The people,</i> or <i>company of men, became mixed,</i> or <i>confounded, together;</i> syn. تَهَاوَشَ. (Sgh, K. *)    </entryFree> <br>\
+<b>شَوشٌ</b>               1     <br>\
+                     شَوشٌ<br>\
+                     ذ<br>\
+                   in the phrase اَبْطَالٌ شُوشٌ <br>\
+                  <i>i. q.</i> <br>\
+                  شُوسٌ [pl. of اَشْوَسُ, q. v.]. (O, K.)    </entryFree> <br>\
+<b>شَوْشَا=ءُ</b>               1     <br>\
+                     شَوْشَا=ءُ<br>\
+                     ذ<br>\
+                   and شَوْشَاةٌ, (Lth, O, K,) or the former is a mistake, (TA,) the latter said by Az to be that which he heard from the Arabs, (O, TA,) applied to a she-camel, <i>Light,</i> or <i>agile:</i> (Lth, O, K:) or, so applied, <i>swift:</i> (A&#39;Obeyd, O:) and applied to a woman as an epithet of discommendation. (O.) A poet, cited by AA, applies the epithet ↓ <br>\
+      شَوَاشِي, with hemz, by poetic license, to a نَاضِح [properly meaning a camel upon which water is drawn from a well]; originally from شَوْشَا=ءُ, (O,) or شَوْشَاةٌ, (TA,) meaning “ Light, ” or “ agile, ” applied to a she-camel: so says AA. (O, TA.)    </entryFree> <br>\
+<b>بَيْنَهُمْ شَوَاشٍ</b>               1     <br>\
+                     بَيْنَهُمْ شَوَاشٍ<br>\
+                     ذ<br>\
+                  , (O, and so in the TA as from the K,) or شَوَاشٌ, (so in the CK and in my MS. copy of the K,) <i>Between them is disagreement, dissension, discord,</i> or <i>difference:</i> (O, K:) the vulgar say ↓ <br>\
+      تَشْوِيشٌ. (O, TA.)    </entryFree> <br>\
+<b>شَوَاشِي</b>               1     <br>\
+                     شَوَاشِي<br>\
+                     ذ<br>\
+                  : see شَوْشَا=ءُ.    </entryFree> <br>\
+<b>مَشُوشٌ</b>               1     <br>\
+                     مَشُوشٌ<br>\
+                     ذ<br>\
+                  , (so accord. to my copy of the KL,) or مِشْوَشٌ, (so accord. to Golius from the KL,) <i>A small turban</i> (دَسْتَارْچَهْ). (KL. [Comp. مِشْوَذٌ.])    </entryFree> <br>\
+<b>مُشَاوِشٌ</b>               1     <br>\
+                     مُشَاوِشٌ<br>\
+                     ذ<br>\
+                   Water <i>not to be seen,</i> (K,) or <i>hardly to be seen,</i> (TA,) <i>by reason of its remoteness</i> [<i>from the surface of the ground</i>] <i>or its paucity:</i> (K:) a dial. var. of مُشَاوِسٌ [q. v.]. (TA.)   </entryFree> <br>\
+' } );

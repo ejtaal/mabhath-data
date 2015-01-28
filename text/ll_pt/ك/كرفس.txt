@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كرفس</em>            1                  كرفس<br>\
+<b>كَرَفْسٌ</b>               1     <br>\
+                     كَرَفْسٌ<br>\
+                     ذ<br>\
+                  , (S, Msb, K,) so written in the Bári&#39; and the T, but in some copies of the S, كَرْفَسٌ, [which is wrong,] (Msb,) [The <i>herb smallage; apium graveolens</i> of Linnæus,] <i>a well known herb,</i> or <i>leguminous plant,</i> (S, Msb, K,) <i>of the hottest of leguminous plants</i> (منْ اَحَرِّ البُقُولِ, TA, [but this is probably a mistake for مِنْ اَحْرَارِ البُقُولِ <br>\
+                  <i>of the leguminous plants that are eaten without being cooked,</i> or <i>that are slender and succulent</i> or <i>soft</i> or <i>sweet,</i>]) <i>the utilities of which are great; diuretic; a disperser of winds and flatulence; a cleanser of the kidneys and liver and bladder, opening obstructions thereof; a strengthener of the venereal faculty, especially its seeds pounded with sugar and clarified butter, wonderful when drunk three days,</i> (K,) <i>upon an empty stomach, with avoidance of hurtful things,</i> (TA,) <i>but injurious to the young in the womb, and to the pregnant, and to those affected with epilepsy:</i> (K:) said by Lth to be a foreign word introduced into the Arabic language, (TA.) and thought to be so by Az: (Msb:) in the O said to be arabicized; and, in the language of the people of Ghazneh, called كرفح [or كرفج?] (TA.)    </entryFree> <br>\
+<b>كُرْفُسٌ</b>               1     <br>\
+                     كُرْفُسٌ<br>\
+                     ذ<br>\
+                  <i>Cotton:</i> (K:) [like كُرْسُفٌ, from which it appears to be formed by transposition: see also كِرْبَاسٌ.]   </entryFree> <br>\
+' } );

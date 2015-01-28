@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'كرتحQ. 1<br>\
+كَرْتَحَ, inf. n. كَرْتَحَةٌ, He (a short man)<br>\
+ran with short steps, and quickly; as also كَرْدَحَ.<br>\
+(S, art. كردح.) ―<br>\
+-b2-  Also, (TA,) and ↓ تَكَرْتَحَ, (K,)<br>\
+He went quickly in his walk. (K, TA.)<br>\
+Q. 2<br>\
+تَكَرْتَحَ see 1.<br>\
+' } );

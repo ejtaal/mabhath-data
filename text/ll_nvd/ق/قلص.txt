@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'قلصالقِلاَصُ<br>\
+, or القَلاَئِصُ, Some small stars before<br>\
+الدَّبَرَانُ; [i. e., towards<br>\
+التُّرَيَّا; being between the<br>\
+Hyades and t(??) (??)eiades;] following<br>\
+الثريّا.<br>\
+(Mir-át ez-Zemán.) Or The Hyades.<br>\
+' } );

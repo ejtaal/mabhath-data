@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جوذاب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جوذاب<br>\
+&lt;entryFree id=&quot;n6664&quot; key=&quot;جُوذَابٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُوذَابٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. جذب.   &lt;/entryFree&gt; <br>\
+' } );

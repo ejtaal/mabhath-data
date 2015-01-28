@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>ذيم</em>            1                  ذيم<br>\
+<b>ذَامَهُ</b>               1     <br>\
+                     ذَامَهُ<br>\
+                     ذ<br>\
+                  , (T, M, Msb, K,) first pers. ذِمْتُهُ, (S,) aor. يَذِيمُ, (T, &amp;amp;c.,) inf. n. ذَيْمٌ and ذَامٌ, (S, M, Msb, K,) <i>He blamed,</i> or <i>found fault with, him,</i> or <i>it,</i> (T, S, M, Msb, K,) namely, a commodity; like ذَاَمَهُ: (Msb:) accord. to Akh, ذِمْتُهُ and ذَاَمْتُهُ and ذَمَمْتُهُ all signify the same. (S.)    </entryFree> <br>\
+<b>ذَامٌ</b>               1     <br>\
+                     ذَامٌ<br>\
+                     ذ<br>\
+                  : see what next follows, in two places.    </entryFree> <br>\
+<b>ذَيْمٌ</b>               1     <br>\
+                     ذَيْمٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      ذَامٌ are inf. ns., (S, M, Msb, K,) and are <i>syn. with</i> <br>\
+                  عَيْبٌ [as such, and also as meaning <i>A vice, fault, defect,</i> or <i>the like;</i> in the latter sense syn. with ذَامٌّ, which belongs to art. ذم]: (T, S, M, Msb, * K:) or, as some say, syn. with ذَمٌّ [<i>blame,</i> &amp;amp;c.]. (M.) It is said in a prov., ↓ <br>\
+      لَاتَعْدَمُ الحَسْنَا=ءُ ذَامًا [<i>The beautiful female is not without a defect</i>]. (S.)    </entryFree> <br>\
+<b>مَذِيمٌ</b>               1     <br>\
+                     مَذِيمٌ<br>\
+                     ذ<br>\
+                  <i>Blamed,</i> or <i>found fault with;</i> (S, Msb, K;) as also ↓ <br>\
+      مَذْيُومٌ: (S, K:) the former defective, and the latter complete: (S:) applied [app. to a man; (see the dial. var. مَذْوُومٌ, as used in the Kur vii. 17;) and] to a commodity. (Msb.)    </entryFree> <br>\
+<b>مَذْيُومٌ</b>               1     <br>\
+                     مَذْيُومٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

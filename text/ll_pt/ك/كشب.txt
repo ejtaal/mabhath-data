@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كشب</em>            1                  كشب<br>\
+<b>كَشَبَ</b>               1     <br>\
+                     كَشَبَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَشُبَ<br>\
+                  , inf. n. كَشْبٌ; and ↓ <br>\
+      كشّب, inf. n. تَكْشِيبٌ; <i>He ate</i> flesh-meat and the like <i>with vehemence.</i> (K, TA.)    </entryFree> <br>\
+                     كَشَّبَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

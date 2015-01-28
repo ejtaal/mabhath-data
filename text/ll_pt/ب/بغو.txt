@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>بغو</em>            1                  بغو<br>\
+<b>بَغَا الشَّىْءَ</b>               1     <br>\
+                     بَغَا الشَّىْءَ<br>\
+                     ذ<br>\
+                  , inf. n. بَغْوٌ, <i>He looked at the thing</i> [<i>to see</i>] <i>how it was;</i> (K;) as also بَغَى, (K in art. بغى,) inf. n. بَغْىٌ. (TA in that art.)   </entryFree> <br>\
+' } );

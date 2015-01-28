@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>هك</em>            1                  هك<br>\
+<b>هَكَّ</b>               1     <br>\
+                     هَكَّ<br>\
+                     ذ<br>\
+                  : see سَكَّ.    </entryFree> <br>\
+<b>هَاكٌّ</b>               1     <br>\
+                     هَاكٌّ<br>\
+                     ذ<br>\
+                  : see فَاكٌّ.    </entryFree> <br>\
+<b>هَكَّاكٌ</b>               1     <br>\
+                     هَكَّاكٌ<br>\
+                     ذ<br>\
+                  : see فَكَّاكٌ.   </entryFree> <br>\
+' } );

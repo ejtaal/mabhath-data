@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'طدودِينٌ, (S, TA,) the latter word formed by<br>\
+transposition from وَاطِدٌ; (M, TA;) and عَادَةٌ<br>\
+طَادِيَةٌ, (S, K,) the latter word said to be formed<br>\
+by transposition from وَاطِدَةٌ, (S,) A custom, or<br>\
+habit, that is constant, settled, or established; old,<br>\
+or inveterate. (S, K.) طَادٍ and وَاطِدٌ are also expl.<br>\
+as meaning Continuous; or constant and uninterrupted. (TA in art. وطد.)<br>\
+' } );

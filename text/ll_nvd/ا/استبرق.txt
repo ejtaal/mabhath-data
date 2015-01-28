@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'استبرقإِسْتَبْرَقٌ: see art. برق, in which, and in art. سرق,<br>\
+it is mentioned: but this is its proper place, if it<br>\
+be an arabicized word: in the T it is mentioned<br>\
+in art. ستبرق.<br>\
+' } );

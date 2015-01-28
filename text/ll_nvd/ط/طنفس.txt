@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'طنفسطِنْفِسَةٌ and طَنْفَسَةٌ, (M, Msb, K,) the former of<br>\
+which is the more approved, (Msb,) and طُنْفَسَةٌ<br>\
+(Kr, M, K) and طِنْفَسَةٌ, [which is a form often<br>\
+occurring,] (M, K,) and طَنْفِسَةٌ, (K,) [variously<br>\
+written in different copies of the S, and in that<br>\
+lexicon, and in the Msb, mentioned in art. طفس,<br>\
+indicating that the ن is augmentative in the<br>\
+opinion of the authors of those two works,] A<br>\
+carpet: and a piece of cloth (ثَوْبٌ): or a kind<br>\
+of carpet called in Persian طَبْسَهْ (Har p. 376)<br>\
+[and تَنْبَسَهْ]: or a carpet having a fine nap, or<br>\
+pile: or, as some say, what is put beneath the<br>\
+رَحْل [or camel&#39;s saddle], upon the shoulders of the<br>\
+camel: (Msb:) or the نُمْرُقَة [q. v.] above the<br>\
+رَحْل: (M:) pl. طَنَافِسُ. (S, Msb, K.)<br>\
+' } );

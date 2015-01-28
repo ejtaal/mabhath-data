@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'فيق1<br>\
+فَاقَ, aor. يَفِيقُ: see فاق بِنَفْسِهِ, in art. فوق.<br>\
+4<br>\
+أَفِيقَ, said of a poet, i. q. أَفْلَقَ: (K:) or an<br>\
+imitative sequent thereto. (Aboo-Turáb, O.)<br>\
+فِيقٌ: see art. فوق.<br>\
+فُيُقٌ and فِيَقٌ: see art. فوق.<br>\
+فَيْقَةٌ and فِيقَةٌ: see art. فوق.<br>\
+فُيَاقٌ: see art. فوق.<br>\
+مُفِيقٌ: see art. فوق.<br>\
+' } );

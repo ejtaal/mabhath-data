@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>نعث</em>            1                  نعث<br>\
+<b>نَعَثَهُ</b>               1     <br>\
+                     نَعَثَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَعَثَ<br>\
+                  ; and ↓ <br>\
+      انتعثهٌ; <i>He took it.</i> (K.)    </entryFree> <br>\
+<b>انعث فِى مَالِهِ</b>               1     <br>\
+                     انعث فِى مَالِهِ<br>\
+                     ذ<br>\
+                  <i>He was prodigal of his wealth:</i> (K:) or <i>he scattered it:</i> or it signifies قَدَّمَ فِيهِ. (L.)       -A2-  انعث <br>\
+                  <i>He set about,</i> or <i>commenced fitting himself out,</i> or <i>equipping himself for journeying.</i> (K.) ―         -b2-  هُمْ فِى اـِنْعَاث (??) the CK, and in a MS. copy of the K, اَنْعَاثٍ,) <i>They have striven, laboured,</i> or <i>exerted themselves, in their affair.</i> (K.)    </entryFree> <br>\
+                     اـِنْتَعَثَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

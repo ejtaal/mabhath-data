@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'سردابسِرْدَابٌ, an arabicized word, (K,) from [the<br>\
+Pers.] سَرْدٌ [i. e. “ cold ”] and آبْ [“ water ”],<br>\
+(TA,) A subterranean structure, for the summer:<br>\
+(El-Ahmar, K:) or a narrow place into which<br>\
+one enters: (Msb:) [applied in the present day<br>\
+to a cellar, or subterranean vault, in which anything is put to be kept cool:] pl. سَرَادِبُ (Msb)<br>\
+[or سَرَادِيبُ].<br>\
+السِّرْدَابِيَّةُ A people of those who compose the<br>\
+extravagant zealots of the [sect called] رَافِضَة<br>\
+[q. v.], who expect El-Mahdee&#39;s coming forth<br>\
+from the سِرْدَاب that is in Rei, wherefore they<br>\
+bring a saddled and bridled horse every Friday,<br>\
+after the prayer [of the congregations at noon],<br>\
+saying, “O Imám: in the name of God: ” three<br>\
+times. (TA.)<br>\
+' } );

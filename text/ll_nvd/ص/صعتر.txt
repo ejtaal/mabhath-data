@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'صعترصَعْتَرٌ I. q. سَعْتَرٌ [q. v.]: (K, and S and Msb in<br>\
+art. سعتر:) it grows in the country of the Arabs,<br>\
+and is of two kinds, سُهْلِىٌّ [i. e. of the plain] and<br>\
+جَبَلِىٌّ [i. e. of the mountain]: (AHn, TA:) when<br>\
+strewn in a place, it drives away venomous or<br>\
+noxious reptiles and the like, (K,) such as serpents<br>\
+and scorpions. (TA.)<br>\
+' } );

@@ -1,0 +1,38 @@
+load_data( { book: 'll_nvd', text: 'نفى1<br>\
+نَفَاهُ<br>\
+He drove away, expelled, or banished,<br>\
+him, or it. (T, in TT.)<br>\
+3<br>\
+هٰذَا يُنَافِىهٰذَا<br>\
+This precludes the co-existence<br>\
+of this therewith; is inconsistent, or incompatible,<br>\
+with this.<br>\
+6<br>\
+تَنَافَيَا<br>\
+They two were incompatible.<br>\
+8<br>\
+اِنْتَفَى<br>\
+It was negative: contr. of ثَبَتَ and<br>\
+and وَجَبَ. (IbrD.) ―<br>\
+-b2-  اِنْتَفَى مِنْ شَىْءٍ<br>\
+He<br>\
+denied a thing; meaning an accusation or the<br>\
+like: syn. تَنَضَّحَ.<br>\
+نُفَايَةٌ<br>\
+Refuse; i. e. what one rejects, of a thing,<br>\
+because of its badness: (S:) or refuse little in<br>\
+quantity: (T:) or the remains, and bad portion,<br>\
+of a thing: (M, K:) or, accord. to IAar, what<br>\
+is bad of wheat or food. (M.)<br>\
+فِعْلٌ مَنْفِىٌّ<br>\
+A verb rendered negative by its<br>\
+being preceded by مَا or the like; contr. of<br>\
+مُثْبَتٌ and مُوجَبٌ. ―<br>\
+-b2-  كَلاَمٌ مَنْفِىٌّ<br>\
+A denied<br>\
+sentence; contr. of<br>\
+مُثْبَتٌ and مُوجَبٌ; virtually<br>\
+the same as كَلاَمٌ نَافٍ<br>\
+a denying, or negative,<br>\
+sentence.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نزو</em>            1                  نزو<br>\
+<b>نَزَا عَلَى الاُنْثَى</b>               1     <br>\
+                     نَزَا عَلَى الاُنْثَى<br>\
+                     ذ<br>\
+                  <i>He</i> (a solid-hoofed, or cloven hoofed, animal, and a wild beast,) <i>leaped the female;</i> (S, &amp;amp;c.;) and so نَزَا alone, elliptically. ―         -b2-  نَزَتْ حَنْجَزَتُهُ, said of a camel: see عَزَفَ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'كهكبكَهْكَبٌ and كَهْكَمٌ i. q. بَاذِنْجَانٌ [The eggplant, or melongena]. (IAar, T, K.) Mentioned<br>\
+in the T in art. كهكم; whence it seems that the<br>\
+ب is a substitute for م. (TA.)<br>\
+كهل كهم كهن كهى<br>\
+See Supplement<br>\
+' } );

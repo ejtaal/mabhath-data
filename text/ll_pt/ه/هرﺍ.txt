@@ -1,0 +1,67 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;هرا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  هرا<br>\
+&lt;entryFree id=&quot;n41084&quot; key=&quot;هَرَاَهُ البَرْدُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     هَرَاَهُ البَرْدُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The cold destroyed him,&lt;/i&gt; or, perhaps, &lt;i&gt;debilitated him;&lt;/i&gt; i. e., a beast; lit., &lt;i&gt;broke him:&lt;/i&gt; syn. كسره. (TA.) [See also هَزَاَ.] ―         -b2-  هَرِيَ, like عُنِىَ, [i. e., pass. in form, but neut. in signification,] (incorrectly written in the S هَرِيَ, K,) &lt;i&gt;It&lt;/i&gt; (a camel or sheep &amp;amp;c., or a man.) &lt;i&gt;perished of cold,&lt;/i&gt; or &lt;i&gt;heat.&lt;/i&gt; (Ks, K.) ―         -b3-  هَرَاَهُ البَرْدُ, inf. n. هَرْءٌ (As, S, K,) and هَرَا=ءَةٌ; (K;) and ↓ <br>\
+      اهراهُ; (Fr, S, K;) &lt;i&gt;The cold affected him so severely as nearly to kill him:&lt;/i&gt; (As, S, K:) or &lt;i&gt;so severely as to kill him.&lt;/i&gt; (K.) ―         -b4-  هَرَاَتِ الرِّيحُ <br>\
+                  &lt;i&gt;The wind was,&lt;/i&gt; or &lt;i&gt;became, intensely cold.&lt;/i&gt; (K.)       -A2-  هَرَاَ, (K,) inf. n. هَرْءٌ; (TA:) and ↓ <br>\
+      هرّا; (K;) and ↓ <br>\
+      اهرا, (Fr, K,) inf. n. اـِهْرَا=ءٌ; (TA;) &lt;i&gt;He cooked&lt;/i&gt; flesh-meat &lt;i&gt;thoroughly:&lt;/i&gt; (K:) or &lt;i&gt;so that it fell off from the bone.&lt;/i&gt; (S, K.) ―         -b2-  هَرِيَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَرَاَ<br>\
+                  &lt;/form&gt;, inf. n. هَرْءٌ and هُرْءٌ and هُرُوْءٌ; (K;) and ↓ <br>\
+      تهرّا; (S, K;) &lt;i&gt;It&lt;/i&gt; (flesh-meat) &lt;i&gt;was thoroughly cooked:&lt;/i&gt; (K:) or &lt;i&gt;was cooked so as to fall off from the bone.&lt;/i&gt; (S, * TA.)       -A3-  هَرَاَ فِى <br>\
+                  مَنْطِقِهِ, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَرَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. هَرْءٌ, (TA,) &lt;i&gt;He was loquacious:&lt;/i&gt; or &lt;i&gt;he was loquacious, with incorrectness;&lt;/i&gt; (TA;) as also هَرَاَ الكَلَامَ: (ISk, S:) or &lt;i&gt;he was very foul in his speech:&lt;/i&gt; or &lt;i&gt;was very incorrect,&lt;/i&gt; or &lt;i&gt;faulty, therein:&lt;/i&gt; (K:) or, simply, &lt;i&gt;he was foul,&lt;/i&gt; (S,) or &lt;i&gt;incorrect,&lt;/i&gt; or &lt;i&gt;faulty,&lt;/i&gt; (TA,) &lt;i&gt;in his speech:&lt;/i&gt; (S, TA:) also الكَلَامَ ↓ <br>\
+      اهرا <br>\
+                  &lt;i&gt;he multiplied his words but spake not to the point,&lt;/i&gt; or &lt;i&gt;correctly.&lt;/i&gt; (K.) ―         -b2-  اـِنَّ مَنْطِقَهَ يَهْرَاُ, inf. n. هَرْءٌ, [&lt;i&gt;Verily his speech is prolix:&lt;/i&gt; or &lt;i&gt;is vitious, and disorderly&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     هَرَّاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَهْرَاَ<br>\
+                  &lt;/form&gt; see 1. ―         -b2-  اهرا فِى الرَّوَاحِ <br>\
+                  &lt;i&gt;He entered upon the cool time of the evening:&lt;/i&gt; (S, K: *) or properly said only of the evening of the hot season. (K.) [See also اهزا.] ―         -b3-  اَهْرِيُ عَنْكَ مِنَ الظَّهِيرَةِ <br>\
+                  &lt;i&gt;Stay thou until the mid-day heat shall have become assuaged, and the air be cool.&lt;/i&gt; (TA, in this art.; and IAar, in TA, art. فيح.)       -A2-  اهرا <br>\
+                  &lt;i&gt;He slew&lt;/i&gt; a person. (K.)       -A3-  See 1, last sentence but one.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41085&quot; key=&quot;تهرّاً&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تهرّاً<br>\
+                     ذ<br>\
+                  &lt;i&gt;He&lt;/i&gt; (a beast) &lt;i&gt;was destroyed,&lt;/i&gt; or, perhaps, &lt;i&gt;debilitated,&lt;/i&gt; by the cold; lit., &lt;i&gt;was broken:&lt;/i&gt; syn. تكسّر. (TA.)       -A2-  See 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41086&quot; key=&quot;هَرِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَرِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (so in the TA: in one copy of the S, هَرِىٌ: in another, هَرِىٌّ:) and ↓ <br>\
+      مُهَرَّاٌ (TA) Meat &lt;i&gt;thoroughly cooked:&lt;/i&gt; (TA:) or &lt;i&gt;cooked so as to fall off from the bone.&lt;/i&gt; (S, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41087&quot; key=&quot;هُرَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُرَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هُرَا=ءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41088&quot; key=&quot;هُرَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُرَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, or مَنْطِقٌ هُرَا=ءٌ, (S, K,) &lt;i&gt;Loquacity:&lt;/i&gt; or &lt;i&gt;vitious, disorderly, speech:&lt;/i&gt; (K:) or &lt;i&gt;loquacity with incorrectness.&lt;/i&gt; (S.) ―         -b2-  هُرَا=ءٌ, (K,) fem. with ة, pl. with ون; (TA;) and ↓ <br>\
+      هُرَاٌ; (K;) &lt;i&gt;A great talker of nonsense.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41089&quot; key=&quot;هِرَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِرَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A young shoot of a palm-tree,&lt;/i&gt; (AHn, K,) &lt;i&gt;when first plucked from the mother-tree.&lt;/i&gt; (As.)       -A2-  الهِرَا=ءُ <br>\
+                  &lt;i&gt;A certain devil whose office it is to suggest foul dreams.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41090&quot; key=&quot;قِرَّةٌ لَهَا هَرِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قِرَّةٌ لَهَا هَرِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Cold that occasions injury and death to men and to cattle &amp;amp;c.&lt;/i&gt; (El-Fezáree, ISk, S.) ―         -b2-  Also, هَرِيْيَةٌ The &lt;i&gt;time in which cold thus affects them.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41091&quot; key=&quot;مَهْرُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَهْرُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, from هُرِيَ, pl. with ون, [in the CK, for مَهْرُووُونَ is put مَهْرَوُنَ,] &lt;i&gt;Perishing of cold,&lt;/i&gt; or &lt;i&gt;heat.&lt;/i&gt; (Ks, K.) ―         -b2-  Explained by AHn [in his book on plants] by the words اَلَّذِى قَدْ اَنْضَجَهُ البَرْدُ [meaning, What is &lt;i&gt;nipped, shrunk, shrivelled,&lt;/i&gt; or &lt;i&gt;blasted, by the cold:&lt;/i&gt; see art. نضج]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41092&quot; key=&quot;مُهَرَّاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُهَرَّاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَرِيٌ.   &lt;/entryFree&gt; <br>\
+' } );

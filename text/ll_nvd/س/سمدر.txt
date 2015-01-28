@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'سمدرQ. 4<br>\
+إِسْمَدَرَّ accord. to the M and K, اِسْمَدَرَّ: and<br>\
+سُمْدُورٌ and سَمَادِيرٌ: and<br>\
+مُسْمَدِرٌّ: see art. سدر.<br>\
+' } );

@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>ريد</em>            1                  ريد<br>\
+<b>تَرْيِيدٌ</b>               1     <br>\
+                     تَرْيِيدٌ<br>\
+                     ذ<br>\
+                  , in agriculture, The <i>raising, with the</i> [<i>implement called</i>] مِجْنَب, <i>the ridges that form the borders of streamlets for irrigation.</i> (M.)    </entryFree> <br>\
+<b>رَيْدٌ</b>               1     <br>\
+                     رَيْدٌ<br>\
+                     ذ<br>\
+                  <i>A ledge</i> of a mountain, (T, S, M, * A, K,) <i>in</i> [<i>any of</i>] <i>the sides</i> thereof, (A,) <i>resembling a wall;</i> (M;) <i>i. q.</i> <br>\
+                  حَيْدٌ: (S, M, A:) pl. [of pauc.] اَرْيَادٌ (M) and (of mult., M) رُيُودٌ. (T, S, M, A, K.) تَهْوِيدٌ عَلَى رُيُودٍ, (Meyd, TA,) meaning <i>A resting,</i> or <i>sleeping, upon ledges of mountains,</i> (Meyd,) is a prov., applied to him who enters upon an affair [dangerous or] insalutary in its result. (Meyd, TA.)    </entryFree> <br>\
+<b>رِيدٌ</b>               1     <br>\
+                     رِيدٌ<br>\
+                     ذ<br>\
+                  : see art. رود.       -A2-  Also <i>An equal in age;</i> syn. تِرْبٌ; for رِيْدٌ: so in a verse of Kutheiyir cited voce اُصْدَةٌ. (TA.)    </entryFree> <br>\
+<b>رِيحٌ رَادَةٌ</b>               1     <br>\
+                     رِيحٌ رَادَةٌ<br>\
+                     ذ<br>\
+                  : see what next follows: and see رَادٌ in art. رود.    </entryFree> <br>\
+<b>رِيحٌ رَيْدَةٌ</b>               1     <br>\
+                     رِيحٌ رَيْدَةٌ<br>\
+                     ذ<br>\
+                  <i>A wind blowing gently;</i> as also ↓ <br>\
+      رَيْدَانَةٌ (T, S, M, A, K) and ↓ <br>\
+      رَادَةٌ: (S, M, A, K:) or the first, as some say, <i>that blows much.</i> (M.) [See also رَادٌ in art. رود.]    </entryFree> <br>\
+<b>رِيدَةٌ</b>               1     <br>\
+                     رِيدَةٌ<br>\
+                     ذ<br>\
+                  : see رِيدٌ, in art. رود.    </entryFree> <br>\
+<b>رِيحٌ رَيْدَانَةٌ</b>               1     <br>\
+                     رِيحٌ رَيْدَانَةٌ<br>\
+                     ذ<br>\
+                  : see رَيْدَةٌ.    </entryFree> <br>\
+<b>الرِّيَادُ</b>               1     <br>\
+                     الرِّيَادُ<br>\
+                     ذ<br>\
+                  : see art. رود.    </entryFree> <br>\
+<b>اَرْيَدُ</b>               1     <br>\
+                     اَرْيَدُ<br>\
+                     ذ<br>\
+                  : see art. رود.    <br>\
+' } );

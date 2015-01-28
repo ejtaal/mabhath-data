@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>قهقر</em>            1                  قهقر<br>\
+<b>قَهْقَرَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     قَهْقَرَ<br>\
+                     ذ<br>\
+                  , (K, TA,) inf. n. قَهْقَرَةٌ, (TA,) <i>He</i> (a man) <i>returned by the way by which he had come:</i> (TA:) or <i>i. q.</i> <br>\
+                  رَجَعَ القَهْقَرى, (K,) i. e., [<i>he returned backwards;</i> or] <i>he retired, going backwards, without turning his face towards the direction in which he went;</i> (TA;) as also ↓ <br>\
+      تَقَهْقَرَ. (K, TA.) Some hold, [contr. to the general opinion,] that this verb belongs to art. قهر. (TA.)    </entryFree> <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَقَهْقَرَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>قَهْقَرَى</b>               1     <br>\
+                     قَهْقَرَى<br>\
+                     ذ<br>\
+                  <i>A returning backwards;</i> (S, K;) <i>a retiring, going backwards, without turning the face towards the direction in which one goes:</i> (TA:) the dual is قَهْقَرَانِ; (IAmb, K;) like as the dual of خَوْزَلَى is خَوْزَلَانِ; (TA;) without ى, (K,) because this letter is deemed difficult to pronounce with the ا and the ى of the dual. (TA.) When you say رَجَعْتُ القَهْقَرَى [<i>I returned backwards;</i> &amp;amp;c.], it is as though you said I returned with the returning which is known by this name; for القهقرى is a mode of returning. (S.) ―         -b2-  مَشَى القَهْقَرَى <br>\
+                  <i>He reverted from the state in which he was,</i> or <i>from the course which he was following; revolted; apostatized.</i> (Az, from a trad.)   </entryFree> <br>\
+' } );

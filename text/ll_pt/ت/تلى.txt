@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>تلى</em>            1                  تلى<br>\
+<b>تَلَيْتُهُ</b>               1     <br>\
+                     تَلَيْتُهُ<br>\
+                     تليته<br>\
+                     تليتة<br>\
+                  : see تَلَوْتُهُ.    </entryFree> <br>\
+<b>تَلِىٌّ</b>               1     <br>\
+                     تَلِىٌّ<br>\
+                     تل<br>\
+                     تلى<br>\
+                     تلي<br>\
+                     تليي<br>\
+                     ولي<br>\
+                   &amp;amp;c.: see art. تلو.   </entryFree> <br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>مشن</em>            1                  مشن<br>\
+<b>مَشَنَ الاَدِيمَ</b>               1     <br>\
+                     مَشَنَ الاَدِيمَ<br>\
+                     ذ<br>\
+                  <i>He pared,</i> or <i>removed the superficial part of, the hide.</i> (TA in art. ادم.)    </entryFree> <br>\
+<b>تَمَاشَنَ</b>               1     <br>\
+                     تَمَاشَنَ<br>\
+                     ذ<br>\
+                  <i>He wiped his hands together:</i> see ظَرِبَانٌ.    </entryFree> <br>\
+<b>مُوشَانٌ</b>               1     <br>\
+                     مُوشَانٌ<br>\
+                     ذ<br>\
+                  : see جُرَذٌ.    </entryFree> <br>\
+<b>تِمْشَا=ءٌ</b>               1     <br>\
+                     تِمْشَا=ءٌ<br>\
+                     ذ<br>\
+                  : see تِبْيَانٌ, voce بَيَّنَ.   </entryFree> <br>\
+' } );

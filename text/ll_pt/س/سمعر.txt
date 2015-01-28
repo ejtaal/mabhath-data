@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سمعر</em>            1                  سمعر<br>\
+<b>مُسْمَقِرٌّ</b>               1     <br>\
+                     مُسْمَقِرٌّ<br>\
+                     ذ<br>\
+                  : see art. سقر.   </entryFree> <br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'قطوقَطًا<br>\
+Sand-grouse; pterocles melanogaster: so<br>\
+Wilkinson, Ancient Egyptians i. 250: see De Sacy&#39;s<br>\
+Chrest. Ar., 2nd ed., pp. 369, et seqq.<br>\
+قَطْوَةٌ<br>\
+: see دَالِيَةٌ.<br>\
+قَطَاةٌ<br>\
+, of a beast, The croup, or rump, and what<br>\
+is between the hips, or haunches: (K:) or [the<br>\
+fore part of the croup; i. e.] the place where<br>\
+the<br>\
+رِدْف<br>\
+sits. (S, K.) See الغُرَابَانِ. ―<br>\
+-b2-  أَدَلُّ مِنْ<br>\
+قَطَاةٍ: see تُبَّعٌ.<br>\
+' } );

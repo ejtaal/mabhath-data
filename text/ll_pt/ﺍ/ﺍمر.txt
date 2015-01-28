@@ -1,0 +1,375 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;امر&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  امر<br>\
+&lt;entryFree id=&quot;n1206&quot; key=&quot;اَمَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَمَرَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, &amp;amp;c.,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمُرَ<br>\
+                  &lt;/form&gt;, (M, &amp;amp;c.,) inf. n. اَمْرٌ (T, S, M, Msb, K) and اـِمَارٌ, (M, L, K,) which latter, however, is disapproved by MF, (TA,) and اـِيمَارٌ is syn. therewith, (K,) but this also is disapproved by MF, and deemed by him strange, [being by rule the inf. n. of ↓ <br>\
+      ا=مَرَهُ, respecting which see what follows,] (TA,) and ا=مِرَةٌ, (M, K,) which is one of the inf. ns. [or quasiinf. ns.] of the measure فَاعِلَةٌ, like عَافِيَةٌ and عَاقِبَةٌ, (M,) &lt;i&gt;He commanded him; ordered him; bade him; enjoined him;&lt;/i&gt; the inf. n. signifying the &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  نَهْىٌ; (T, M, K;) as also ↓ <br>\
+      ا=مرهُ, (Kr, M, K,) mentioned by A&#39;Obeyd also as a dial. var. of امَرَهُ: (Msb:) but A&#39;Obeyd says that ا=مَرْتُهُ and اَمرْتُهُ are syn. [in a sense different from that explained above, i. e.] as meaning كَثَّرْتُهُ. (TA.) You say, اَمَرَهُ بِهِ, (S, M, K,) and اَمَرَهُ اـِيَّاهُ, suppressing the prep., (M,) &lt;i&gt;He commanded, ordered, bade,&lt;/i&gt; or &lt;i&gt;enjoined, him to do it.&lt;/i&gt; (M, K.) And امَرْتُكَ اَنْ تَفْعَلَ, and لِتَفْعَلَ, and بِانْ تَفْعَلَ, &lt;i&gt;I commanded, ordered, bade,&lt;/i&gt; or &lt;i&gt;enjoined, thee to do&lt;/i&gt; [such a thing]. (M.) [And اَمَرَهُ بِكَذَا as meaning &lt;i&gt;He commanded him,&lt;/i&gt; or &lt;i&gt;ordered him, to make use of such a thing; or the like:&lt;/i&gt; whence, in a trad.,] اُمِرْتُ بِالسِّوَاكِ [&lt;i&gt;I have been commanded to make use of the tooth-stick&lt;/i&gt;]. (El-Jámi&#39; es- Sagheer.) [And &lt;i&gt;He enjoined him such a thing;&lt;/i&gt; as, for instance, patience.] The imperative of اَمَرَ is مُرْ; originally اوْمُرْ; which also occurs [with وَ in the place of و when the ا is pronounced with damm]: (M:) but [generally] when it is not preceded by a conjunction, (Msb,) i. e., by وَ or فَ, (T,) you suppress the ء, [i. e. the radical ء, and with it the conjunctive ا preceding it,] contr. to rule, and say, مُرْهُ بِكَذَا [&lt;i&gt;Command,&lt;/i&gt; or &lt;i&gt;order,&lt;/i&gt; or &lt;i&gt;bid,&lt;/i&gt; or &lt;i&gt;enjoin, thou him to do such a thing&lt;/i&gt;]; like as you say, كُلْ and خُذْ: when, however, it is preceded by a conjunction, the practice commonly obtaining is, to restore the وَاْمُرْ بِكَذَا, agreeably with analogy, and thus to say, اَمُرْ بِكَذَا. (Msb.) ―         -b2-  [You say also, اَمَرَ بِهِ فَقُتِلَ <br>\
+                  &lt;i&gt;He gave an order respecting him, and accordingly he was slain.&lt;/i&gt; And اَمَرَ لَهُ بِكَذَا <br>\
+                  &lt;i&gt;He ordered that such a thing should be done, or given, to him&lt;/i&gt;.] ―         -b3-  In the Kur [xvii. 17], اَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا فِيهَا, so accord. to most of the readers, (T, &amp;amp;c.,) means &lt;i&gt;We commanded&lt;/i&gt; [&lt;i&gt;its luxurious inhabitants&lt;/i&gt;] to obey, &lt;i&gt;but they transgressed therein,&lt;/i&gt; or &lt;i&gt;departed from the right way,&lt;/i&gt; or &lt;i&gt;disobeyed:&lt;/i&gt; (Fr, T, S, &amp;amp;c.:) so says Aboo-Is-hák; adding that, although one says, اَمَرتُ زَيْدًا فَضَرَبَ عَمْرًا, meaning &lt;i&gt;I commanded Zeyd to beat &#39;Amr, and he beat him,&lt;/i&gt; yet one also says, اَمَرْتُكَ فَعَصَيْتَنِى [&lt;i&gt;I commanded thee, but thou disobeyedst me&lt;/i&gt;]: or, accord. to some, the meaning is, &lt;i&gt;We multiplied its luxurious inhabitants;&lt;/i&gt; (T;) and this is agreeable with another reading, namely, ↓ <br>\
+      ا=مَرْنَا; (TA;) and a reading of El-Hasan, namely, اَمِرْنَا, like عَلِمْنَا, may be a dial. var., of the same signification: (M:) see 4, in two places: or it may be from الاـِمَارَةُ; (S, TA;) [in which case it seems that we should read ↓ <br>\
+      اَمَّرْنَا; or, perhaps, اَمَرْنَا: see 2:] Abu-l-&#39;Áliyeh reads ↓ <br>\
+      اَمَّرْنَا, and this is agreeable with the explanation of I&#39;Ab, who says that the meaning is, &lt;i&gt;We made its chiefs to have authority, power,&lt;/i&gt; or &lt;i&gt;dominion.&lt;/i&gt; (TA.) ―         -b4-  اَمَرَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمُرَ<br>\
+                  &lt;/form&gt;, also signifies &lt;i&gt;He commanded, ordered, bade,&lt;/i&gt; or &lt;i&gt;enjoined, him to do that which it behooved him to do.&lt;/i&gt; (A.) [&lt;i&gt;He counselled,&lt;/i&gt; or &lt;i&gt;advised, him&lt;/i&gt;.] One says, مُرْنِى, meaning &lt;i&gt;Counsel thou me; advise thou me.&lt;/i&gt; (A.) ―         -b5-  اَمَرَ بِاقْتِنَاصٍ, said &lt;pb n=&quot;96&quot; TEIform=&quot;pb&quot;/&gt; of a wild animal, means &lt;i&gt;He rendered&lt;/i&gt; the beholder &lt;i&gt;desirous of capturing&lt;/i&gt; him. (M.)       -A2-  اَمَرَ, (As, Fr, Th, T, S, M, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمُرَ<br>\
+                  &lt;/form&gt;; (Msb, TA;) and اَمُرَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمُرَ<br>\
+                  &lt;/form&gt;; (S, M, IKtt, K;) and اَمِرَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمَرَ<br>\
+                  &lt;/form&gt;; (M, K, and several other authorities; but by some this is disallowed; TA;) inf. n. اَمْرٌ (K) and اـِمْرَةٌ (S) and اـِمَارَةٌ; (As, T, S;) or the second is a simple subst.; (K;) or perhaps it is meant in the S that this and the third are quasi-inf. ns.; (MF;) &lt;i&gt;He had,&lt;/i&gt; or &lt;i&gt;held, command; he presided as a commander, governor, lord, prince,&lt;/i&gt; or &lt;i&gt;king;&lt;/i&gt; (M, Msb, K;) &lt;i&gt;he became an&lt;/i&gt; <br>\
+                  اَمِير; (As, T, S;) عَلَى <br>\
+                  القَوْمِ <br>\
+                  &lt;i&gt;over the people.&lt;/i&gt; (M, * Msb, K.) [See also 5.] اَمَرَ فُلَانٌ وَاُمِرَ عَلَيْهِ, or عليه ↓ <br>\
+      واُمِّرَ, (as in different copies of the S,) [&lt;i&gt;Such a one has held command and been commanded,&lt;/i&gt;] is said of one who has been a commander, or governor, after having been a subject of a commander, or governor; meaning &lt;i&gt;such a one is a person of experience;&lt;/i&gt; or &lt;i&gt;one who has been tried,&lt;/i&gt; or &lt;i&gt;proved and strengthened, by experience.&lt;/i&gt; (S.)       -A3-  اَمَرَهُ as syn. with ا=مَرَهُ: see 4.       -A4-  اَمِرَ, (S, M, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمَرَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. اَمَرٌ and اَمْرَة; (M, K, TA; the latter written in the CK اَمْرَة;) and امُرَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمَرَ<br>\
+                  &lt;/form&gt;; (IKtt;) (assumed tropical:)  &lt;i&gt;It&lt;/i&gt; (a thing, M, Msb, or a man&#39;s property, or camels or the like, Abu-l-Hasan and S, and a people, T, S) &lt;i&gt;multiplied;&lt;/i&gt; or &lt;i&gt;became many,&lt;/i&gt; or &lt;i&gt;much,&lt;/i&gt; or &lt;i&gt;abundant;&lt;/i&gt; (T, S, M, Msb, K;) and &lt;i&gt;became complete.&lt;/i&gt; (M, K.) ―         -b2-  And the former, (assumed tropical:)  &lt;i&gt;His beasts multiplied;&lt;/i&gt; or &lt;i&gt;became many;&lt;/i&gt; (M, K;) [as also ↓ <br>\
+      ا=مر; for you say,] بَنُو فُلَانٍ ↓ <br>\
+      ا=مر, inf. n. اـِيمَارٌ, (assumed tropical:)  &lt;i&gt;The property,&lt;/i&gt; or &lt;i&gt;camels&lt;/i&gt; or &lt;i&gt;the like, of the sons of such a one multiplied;&lt;/i&gt; or &lt;i&gt;became many,&lt;/i&gt; or &lt;i&gt;abundant.&lt;/i&gt; (M.)       -A5-  اَمِرَ الاَمْرُ, (Akh, S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمَرَ<br>\
+                  &lt;/form&gt;, inf. n. اَمَرٌ, (Akh, S,) (assumed tropical:)  &lt;i&gt;The affair,&lt;/i&gt; or &lt;i&gt;case,&lt;/i&gt; (i. e., a man&#39;s affair, or case, Akh, S,) &lt;i&gt;became severe, distressful, grievous,&lt;/i&gt; or &lt;i&gt;afflictive.&lt;/i&gt; (Akh, S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1207&quot; key=&quot;امّرهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     امّرهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْمِيرٌ, &lt;i&gt;He made him,&lt;/i&gt; or &lt;i&gt;appointed him, commander, governor, lord, prince,&lt;/i&gt; or &lt;i&gt;king.&lt;/i&gt; (S, * Mgh, Msb.) [And it seems to be indicated in the S that ↓ <br>\
+      اَمَرَهُ, without teshdeed, signifies the same.] See 1, in three places. You say also, اُمِّرَعَلَيْنَا (A, TA) &lt;i&gt;He was made,&lt;/i&gt; or &lt;i&gt;appointed, commander,&lt;/i&gt; &amp;amp;c., &lt;i&gt;over us.&lt;/i&gt; (TA.) ―         -b2-  Also &lt;i&gt;He appointed him judge,&lt;/i&gt; or &lt;i&gt;umpire.&lt;/i&gt; (Mgh.) ―         -b3-  امّر القَنَاةَ (assumed tropical:)  &lt;i&gt;He affixed a spear-head to the cane&lt;/i&gt; or &lt;i&gt;spear.&lt;/i&gt; (T, M.) [See also the pass. part. n., below.] ―         -b4-  امّراَمَارَةٍ <br>\
+                  &lt;i&gt;He made&lt;/i&gt; [a thing] &lt;i&gt;a sign,&lt;/i&gt; or &lt;i&gt;mark, to show the way.&lt;/i&gt; (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1208&quot; key=&quot;ا=مرهُ فِي اَمْرِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=مرهُ فِي اَمْرِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, * S, M, Msb,) inf. n. مُوَامَرَةٌ, (S, K,) &lt;i&gt;He consulted him respecting his affair,&lt;/i&gt; or &lt;i&gt;case;&lt;/i&gt; (T, * S, M, Msb, K, * TA;) as also وَامَرَهُ; (TA;) or this is not a chaste form; (IAth, TA;) or it is vulgar; (S, TA;) and ↓ <br>\
+      استامرهُ, (M,) inf. n. اسْتِيْمَارٌ; (S, K;) and ↓ <br>\
+      ايتمرهُ, (T,) inf. n. ايتِمَارٌ. (S, K.) It is said in a trad., ا=مِرُوا النِّسَا=ءَ <br>\
+                  فِى اَنْفُسِهِنَّ <br>\
+                  &lt;i&gt;Consult ye women respecting themselves,&lt;/i&gt; as to marrying them. (TA.) And in another trad., ا=مَرَتْ نَفْسَهَا, meaning &lt;i&gt;She consulted herself,&lt;/i&gt; or &lt;i&gt;her mind;&lt;/i&gt; as also ↓ <br>\
+      استامرت <br>\
+                  نفسها. (TA.) [See another ex. voce نَفْسٌ. And see also 8.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1209&quot; key=&quot;ا=مر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=مر<br>\
+                     ا=مر<br>\
+                  &lt;/form&gt;, inf. n. اـِيمَارٌ: see 1, last sentence but one, in two places.       -A2-  ا=مْرٌ; (S, M, Msb, K;) and ↓ <br>\
+      اَمَرَهُ, (S, M, Msb, K,) accord. to some, (M,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمُرَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. اَمْرٌ; (Msb;) both signifying the same accord. to AO, (S,) or A &#39;Obeyd, (TA,) but the latter is of weak authority, (K,) or is not allowable; (M;) and, accord. to El-Hasan&#39;s reading of xvii. 17 of the Kur, (see 1,) ↓ <br>\
+      اَمِرَهُ also; (M;) (assumed tropical:)  &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;multiplied it;&lt;/i&gt; or &lt;i&gt;made it many,&lt;/i&gt; or &lt;i&gt;much,&lt;/i&gt; or &lt;i&gt;abundant:&lt;/i&gt; (S, Msb:) &lt;i&gt;He&lt;/i&gt; (God) &lt;i&gt;multiplied,&lt;/i&gt; or &lt;i&gt;made many&lt;/i&gt; or &lt;i&gt;much&lt;/i&gt; or &lt;i&gt;abundant, his progeny,&lt;/i&gt; and &lt;i&gt;his beasts:&lt;/i&gt; (M, K:) and ا=مر مَالَهُ (assumed tropical:)  &lt;i&gt;He&lt;/i&gt; (God) &lt;i&gt;multiplied,&lt;/i&gt; &amp;amp;c., &lt;i&gt;his property,&lt;/i&gt; or &lt;i&gt;camels&lt;/i&gt; or &lt;i&gt;the like.&lt;/i&gt; (S.)       -A3-  See also 1, first sentence, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1210&quot; key=&quot;تامّر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تامّر<br>\
+                     ذ<br>\
+                  &lt;i&gt;He became made,&lt;/i&gt; or &lt;i&gt;appointed, commander, governor, lord, prince,&lt;/i&gt; or &lt;i&gt;king;&lt;/i&gt; (Msb;) &lt;i&gt;he received authority, power,&lt;/i&gt; or &lt;i&gt;dominion;&lt;/i&gt; <br>\
+                  عَلَيْهِمْ <br>\
+                  &lt;i&gt;over them.&lt;/i&gt; (S, K.) [See also اَمَرَ.] ―         -b2-  See also 8.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَاَاْمَرَ<br>\
+                  &lt;/form&gt; see 8, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1211&quot; key=&quot;ايتمر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ايتمر<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [written with the disjunctive alif اِيتَمَرَ] &lt;i&gt;He obeyed,&lt;/i&gt; or &lt;i&gt;conformed to, a command;&lt;/i&gt; (S, * M, Mgh, K; *) &lt;i&gt;he heard and obeyed.&lt;/i&gt; (Msb.) You say, ايتمر بِخَيْرٍ, meaning &lt;i&gt;He was as though his mind commanded him to do good and he obeyed the command.&lt;/i&gt; (M.) And [you use it transitively, saying,] ايتمر الاَمْرَ <br>\
+                  &lt;i&gt;He obeyed,&lt;/i&gt; or &lt;i&gt;conformed to, the command.&lt;/i&gt; (S.) And لَا يَاْتَمِرُ <br>\
+                  رُشْدًا <br>\
+                  &lt;i&gt;He will not do right of his own accord.&lt;/i&gt; (A.) Imra el-Keys says, (S,) or En-Nemir Ibn-Towlab, (T,) &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                        وَيَعْدُو عَلَى المَرْءِ مَا يَاْتَمِرْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And that which man obeys wrongs him,&lt;/i&gt; or &lt;i&gt;injures him&lt;/i&gt;]; meaning, that which his own soul commands him to do, and which he judges to be right, but in which often is found his destruction: (S:) or, accord. to Kt, &lt;i&gt;that&lt;/i&gt; evil &lt;i&gt;which man purposes to do:&lt;/i&gt; (T:) or &lt;i&gt;that which man does without consideration, and without looking to its result.&lt;/i&gt; (A &#39;Obeyd, T.) [See what follows.] ―         -b2-  &lt;i&gt;He undertook a thing without consulting;&lt;/i&gt; (Kt, T;) as though his soul, or mind, ordered him to do it and he obeyed it: (TA:) &lt;i&gt;he followed his own opinion only.&lt;/i&gt; (Mgh.) One says, اَمَرْتُهُ فاْتَمَرَ وَاَبَى <br>\
+                  اَنْ يَاْتَمِرَ, (A, Mgh,) meaning &lt;i&gt;I commanded him, but he followed his own opinion only, and refused to obey.&lt;/i&gt; (Mgh.) ―         -b3-  &lt;i&gt;He formed an opinion, and consulted his own mind, and determined upon it.&lt;/i&gt; (Sh, T.) And ايتمر رَاْيَهُ <br>\
+                  &lt;i&gt;He consulted his own mind,&lt;/i&gt; or &lt;i&gt;judgment,&lt;/i&gt; respecting what was right for him to do. (Sh, T.) ―         -b4-  ايتمروا, (A, Msb,) inf. n. ايْتِمَارٌ; (S, K;) and ↓ <br>\
+      تا=مروا, (A,) inf. n. تَا=مُرٌ, of the measure تَفَاعُلٌ; (S;) and ↓ <br>\
+      تامّروا, (TA,) inf. n. تَاَمُّرٌ; (K;) &lt;i&gt;They consulted together:&lt;/i&gt; (S, * A, Msb, K: *) or ايتمروا and ↓ <br>\
+      تا=مروا signify &lt;i&gt;they commanded, ordered, bade,&lt;/i&gt; or &lt;i&gt;enjoined, one another;&lt;/i&gt; like as one says, اقتتلوا and تقاتلوا, and اختصموا and تخاصموا: (T:) or ايتمروا عَلَى الاَمْرِ and عَلَيْهِ ↓ <br>\
+      تا=مروا, &lt;i&gt;they determined,&lt;/i&gt; or &lt;i&gt;settled, their opinions respecting the affair,&lt;/i&gt; or &lt;i&gt;case:&lt;/i&gt; (M:) and ايتمروا بِهِ, (S, Msb,) inf. n. as above, (K,) signifies &lt;i&gt;they purposed it,&lt;/i&gt; (S, Msb, K, *) namely, a thing, (Msb, K,) &lt;i&gt;and consulted one another respecting it.&lt;/i&gt; (S.) It is said in the Kur [lxv. 6], وَاْتَمِرُوا بَيْنَكُمْ بِمَعْرُوفٍ <br>\
+                  &lt;i&gt;And command ye,&lt;/i&gt; or &lt;i&gt;enjoin ye, one another to do good:&lt;/i&gt; [such is app. the meaning,] but God best knoweth: (T:) or, accord. to Kt, &lt;i&gt;purpose ye among yourselves to do good.&lt;/i&gt; (TA.) And in the same [xxviii. 19], اـِنَّ الْمَلَاَ يَاْتَمِرُونَ بِكَ لِيَقْتُلوُكَ, meaning &lt;i&gt;Verily the chiefs command one another respecting thee, to slay thee:&lt;/i&gt; (Zj, T:) or &lt;i&gt;consult together against thee, to slay thee:&lt;/i&gt; (AO, T:) or &lt;i&gt;purpose against thee, to slay thee:&lt;/i&gt; (Kt, T:) but the last but one of these explanations is better than the last. (T.) ―         -b5-  See also 3. ―         -b6-  Accord. to El-Bushtee, ايتمرهُ also signifies &lt;i&gt;He gave him permission:&lt;/i&gt; but this has not been heard from an Arab. (Az, TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَاْمَرَ<br>\
+                  &lt;/form&gt; see 3, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1212&quot; key=&quot;اَمْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمْرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A command; an order; a bidding; an injunction; a decree; an ordinance; a prescript:&lt;/i&gt; (S, * Msb, * TA, &amp;amp;c.:) pl. اَوَامِرُ: (S, Msb, &amp;amp;c.:) so accord. to common usage; and some writers of authority justify and explain it by saying that اَمْرٌ is [originally] مَاْمُوُرٌ بِهِ; that it is then changed to the measure فَاعِلٌ; [i. e., to ا=مِرٌ;] like اَمْرٌ عَارِفٌ, which is originally مَعْرُوفٌ; and عِيشَةٌ راضِيَةٌ, originally مَرْضِيَّةٌ; &amp;amp;c.; [and then, to اَمْرٌ;] and that فَاعِلٌ becomes in the pl. فَوَاعِلُ; so that اَوَامَرُ is the pl. of مَاـْمُورٌ: others say that it has this form of pl. to distinguish it from اَمْرٌ in the sense of حَالٌ [&amp;amp;c.], in which sense it has for its pl. اُمُورٌ. (Msb, TA.) [But I think that اَوَامِرُ may be properly and originally pl. of ا=مِرَةٌ, for ا=يَةٌ ا=مِرَةٌ, or the like. MF says that, accord. to the T and M, the pl. of اَمْرٌ in the sense explained in the beginning of this paragraph is اُمُورٌ: but he seems to have founded his assertion upon corrupted copies of those works; for in the M, I find nothing on this point; and in the T, not, as he says, الاَمْرُضِدُّ <br>\
+                  النَّهْىَ وَاحِدُ الاُمُور, but قَالَ اللَّيْثُ الاَمْرُ مَعْرُوفٌ <br>\
+                  نَقِيضُ النَّهْىِ وَاحِدُ الاُمُورِ, evidently meaning that اَمْرٌ signifies the contr. of نَهْىٌ, and is also, in another sense, the sing. of اُمُورٌ.] [Hence,] اُولُو <br>\
+                  الاَمْرِ <br>\
+                  &lt;i&gt;Those who hold command&lt;/i&gt; or &lt;i&gt;rule,&lt;/i&gt; and &lt;i&gt;the learned men.&lt;/i&gt; (M, K. [See Kur iv. 62.]) And اَمْرُاللّٰهِ <br>\
+                  &lt;i&gt;The threatened punishment of God:&lt;/i&gt; so in the Kur x. 25, and xi. 42, and xvi.1; in which last place occur the words, اَتَي اَمْرُ اللّٰهِ فَلَا تَسْتَعْجِلُوهُ, meaning &lt;i&gt;The threatened punishment ordained of God hath, as it were, come:&lt;/i&gt; so near is it, that it is as though it had already come: &lt;i&gt;therefore desire not ye to hasten it.&lt;/i&gt; (Zj, M, TA.) And &lt;i&gt;The purpose of God.&lt;/i&gt; (Bd and Jel in lxv. 3; &amp;amp;c.) And الاَمْرُ قَرِيبٌ <br>\
+                  &lt;i&gt;The resurrection,&lt;/i&gt; or &lt;i&gt;the time thereof, is near.&lt;/i&gt; (Mgh, from a trad.) And مَا فَعَلْتُهُ عَنْ <br>\
+                  اَمْرِى, in the Kur xviii. 81, &lt;i&gt;I did it not of my own judgment:&lt;/i&gt; (Bd:) or, &lt;i&gt;of my own choice.&lt;/i&gt; (Jel.) [Hence also الاَمْرُ, in grammar, signifies &lt;i&gt;The imperative form&lt;/i&gt; of a verb.] ―         -b2-  Also &lt;i&gt;A thing; an affair; a business; a matter; a concern: a state, of a person&lt;/i&gt; or &lt;i&gt;thing,&lt;/i&gt; or &lt;i&gt;of persons&lt;/i&gt; or &lt;i&gt;things&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;97&quot; TEIform=&quot;pb&quot;/&gt; or &lt;i&gt;affairs or circumstances; a condition; a case: an accident; an event: an action:&lt;/i&gt; syn. شَاْنٌ: (M, F, TA:) and حَالٌ, (Msb, TA,) and حَالَةٌ: (Msb:) and حَادِثَةٌ: (K:) and فِعْلٌ: (MF, TA:) and &lt;i&gt;a thing that is said; a saying:&lt;/i&gt; (TA voce اُولُو, at the end of art. ال:) pl. اُمُورٌ; (S, M, K, &amp;amp;c.;) its only pl. in the senses here explained. (TA.) You say, اَمْرُ فُلَانٍ مُسْتَقِيمٌ [&lt;i&gt;The affair,&lt;/i&gt; or &lt;i&gt;the like, of such a one is in a right state&lt;/i&gt;]: and امُورُهُ مُسْتَقِيمَةٌ [&lt;i&gt;His affairs are in a right state&lt;/i&gt;]. (S, A.) And شَتَّتَ اَمْرَهُ <br>\
+                  &lt;i&gt;He dissipated, disorganized, disordered, unsettled,&lt;/i&gt; or &lt;i&gt;broke up, his state of things,&lt;/i&gt; or &lt;i&gt;affairs.&lt;/i&gt; (As, TA in art. شعب.) [امر seems to be here used, as in many other instances, rather in the sense of the pl. than in that of the sing.] ―         -b3-  اَمْرٌ كُلِّىٌّ [&lt;i&gt;A universal,&lt;/i&gt; or &lt;i&gt;general, prescript, rule,&lt;/i&gt; or &lt;i&gt;canon&lt;/i&gt;]. (Msb voce قَاعِدَةٌ, KT voce قَانُونٌ, &amp;amp;c.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1213&quot; key=&quot;اـِمْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمْرٌ<br>\
+                     امار<br>\
+                     امر<br>\
+                     امر<br>\
+                     مار<br>\
+                     مر<br>\
+                     آمر<br>\
+                  &lt;/form&gt; a subst. from اَمِرَالِاَمْرُ in the sense of اِشْتَدَّ; (S;) or a subst. from اَمِرَ as signifying كَثُرَ and تَمَّ; (M;) (assumed tropical:)  [&lt;i&gt;A severe, a distressful, a grievous,&lt;/i&gt; or &lt;i&gt;an afflictive, thing:&lt;/i&gt; or] &lt;i&gt;a terrible, and foul,&lt;/i&gt; or &lt;i&gt;very foul, thing:&lt;/i&gt; or &lt;i&gt;a wonderful thing.&lt;/i&gt; (TA,) Hence, [used as an epithet, like اَمِرٌ, q. v.,] in the Kur [xviii. 70], لَقَدْ جِيْتَ شَيْيًا اـِمْرًا (assumed tropical:)  &lt;i&gt;Verily thou hast done a severe, a distressful, a grievous,&lt;/i&gt; or &lt;i&gt;an afflictive, thing:&lt;/i&gt; (S:) or &lt;i&gt;a terrible, and foul,&lt;/i&gt; or &lt;i&gt;very foul, thing:&lt;/i&gt; (TA:) or &lt;i&gt;a wonderful thing:&lt;/i&gt; (S:) or &lt;i&gt;an abominable, a foul,&lt;/i&gt; or &lt;i&gt;an evil, and a wonderful, thing:&lt;/i&gt; (Ks, M, K: *) or &lt;i&gt;a terrible and an abominable thing;&lt;/i&gt; signifying more than نَكْرًا, [which occurs after, in verse 73,] inasmuch as the [presumed] drowning of the persons in the ship was more abominable than the slaying of one person: (Zj, T:) or &lt;i&gt;a crafty, and an abominable,&lt;/i&gt; or &lt;i&gt;a foul,&lt;/i&gt; or &lt;i&gt;an evil, and a wonderful, thing;&lt;/i&gt; and derived from اَمِرَ القَوْمُ as meaning كَثُرُوا. (Ks.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1214&quot; key=&quot;اَمَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a coll. gen. n. of which اَمَرَةٌ (q. v.) is the n. un.       -A2-  See also تَاْمُورٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1215&quot; key=&quot;اَمِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِمَّرٌ.       -A2-  (assumed tropical:)  &lt;i&gt;Multiplied;&lt;/i&gt; or &lt;i&gt;become many,&lt;/i&gt; or &lt;i&gt;much,&lt;/i&gt; or &lt;i&gt;abundant.&lt;/i&gt; (M, K.) [See اَمِرَ.] You say زَرْعٌ اَمِرٌ (assumed tropical:)  &lt;i&gt;Abundant seed-produce.&lt;/i&gt; (Lh, M.) ―         -b2-  (assumed tropical:)  A man &lt;i&gt;whose beasts have multiplied,&lt;/i&gt; or &lt;i&gt;become many&lt;/i&gt; or &lt;i&gt;abundant.&lt;/i&gt; (M.) (assumed tropical:)  A man &lt;i&gt;blessed,&lt;/i&gt; or &lt;i&gt;prospered,&lt;/i&gt; (Ibn-Buzurj, M, K, *) &lt;i&gt;in his property:&lt;/i&gt; (M:) fem. with ة. (Ibn-Buzurj.) And with ة, (assumed tropical:)  A woman &lt;i&gt;blessed to her husband&lt;/i&gt; [&lt;i&gt;by her being prolific&lt;/i&gt;]: from the signification of كَثْرَةٌ. (M.)       -A3-  (assumed tropical:)  &lt;i&gt;Severe; distressful; afflictive.&lt;/i&gt; (TA.) [See also اـِمْرٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1216&quot; key=&quot;اَمْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A single command, order, bidding,&lt;/i&gt; or &lt;i&gt;injunction:&lt;/i&gt; as in the saying, لَكَ عَلَىَّ اَمْرَةٌ مُطَاعَةٌ <br>\
+                  &lt;i&gt;Thou hast authority to give me one command, order, bidding,&lt;/i&gt; or &lt;i&gt;injunction,&lt;/i&gt; which shall be &lt;i&gt;obeyed&lt;/i&gt; by me. (S, M, * A, Msb, K.) You should not say, [in this sense,] اـِمْرَةٌ, with kesr. (T, S.)       -A2-  See also اـِمْرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1217&quot; key=&quot;اـِمْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمْرَةٌ<br>\
+                     امار<br>\
+                     امر<br>\
+                     امره<br>\
+                     اـمرة<br>\
+                     امره<br>\
+                     امرة<br>\
+                     مار<br>\
+                     مر<br>\
+                     آمر<br>\
+                     آمره<br>\
+                     آمرة<br>\
+                  &lt;/form&gt; a subst. from اَمَرَ [q. v.]; &lt;i&gt;Possession of command;&lt;/i&gt; the &lt;i&gt;office,&lt;/i&gt; and &lt;i&gt;authority, of a commander, governor, lord, prince,&lt;/i&gt; or &lt;i&gt;king;&lt;/i&gt; (M, * Msb, K;) as also ↓ <br>\
+      اـِمَارَةٌ (Mgh, Msb, K) and ↓ <br>\
+      اَمَارَةٌ; (L, K;) but this last is by some disallowed, and is said in the Fs and its Expositions to be unknown. (MF.) It is said in a trad., لَعَلَّكَ سا=ءَ تْكَ اـِمْرَةُ ابْنِ عَمِّكَ <br>\
+                  &lt;i&gt;Perhaps thy paternal uncle&#39;s son&#39;s possession of command hath displeased thee.&lt;/i&gt; (TA.) ―         -b2-  [And hence, (assumed tropical:)  &lt;i&gt;Increase,&lt;/i&gt; or &lt;i&gt;abundance,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; as also other forms mentioned in what follows.] You say, فِى وَجْهِ <br>\
+                  مَالِكَ تَعْرِفُ اـِمْرَتَهُ (assumed tropical:) &lt;i&gt;In the face of thy property,&lt;/i&gt; [meaning such as consists in camels or the like, and also money,] &lt;i&gt;thou knowest its increase and abundance,&lt;/i&gt; and &lt;i&gt;its expense:&lt;/i&gt; (S:) or ↓ <br>\
+      اـِمَّرَتَهُ, and ↓ <br>\
+      اـِمّرَتَهُ, which latter is a dial. var. of weak authority, and ↓ <br>\
+      اَمَّرَتَهُ, i. e., &lt;i&gt;its increase and abundance:&lt;/i&gt; (M:) or ↓ <br>\
+      اـِمَّرَتَهُ as meaning &lt;i&gt;its prosperous state;&lt;/i&gt; as also ↓ <br>\
+      اَمَارَتَهُ, and ↓ <br>\
+      اَمْرَتَهُ: (Ibn-Buzurj:) accord. to AHeyth, who reads ↓ <br>\
+      تُعْرَفُ اـِمَّرَتُهُ, the meaning is, &lt;i&gt;its decrease;&lt;/i&gt; but the correct meaning is, &lt;i&gt;its increase,&lt;/i&gt; as Fr explains it. (T, TA.) It is said respecting anything of which one knows what is good in it at first sight: (Lh, M:) and means, on a thing&#39;s presenting itself, thou knowest its goodness. (T.) One says also, ↓ <br>\
+      ماَحْسَنَ اَمَارَتَهُمْ (assumed tropical:)  &lt;i&gt;How good is their multiplying, and the multiplying of their offspring and of their number!&lt;/i&gt; (M.) And ↓ <br>\
+      لَا جَعَلَ اللّٰهُ فِيهِ اـِمَّرَةً (assumed tropical:)  &lt;i&gt;May God not make an increase to be therein.&lt;/i&gt; (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1218&quot; key=&quot;اَمَرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَرَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Stones:&lt;/i&gt; (K:) [or &lt;i&gt;a heap of stones:&lt;/i&gt;] or it is the n. un. of اَمَرٌ, which signifies &lt;i&gt;stones:&lt;/i&gt; (M:) or the latter signifies &lt;i&gt;stones set up in order that one may be directed thereby to the right way:&lt;/i&gt; (Ham p. 409:) and the former also signifies &lt;i&gt;a hill;&lt;/i&gt; (M, K;) and اَمَرٌ is [used as] its pl.: (M:) and &lt;i&gt;a sign,&lt;/i&gt; or &lt;i&gt;mark, by which anything is known;&lt;/i&gt; (M, K;) as also ↓ <br>\
+      اَمَارٌ and ↓ <br>\
+      اَمَارَةٌ; (As, S;) and اَمَرٌ is [used as] its pl. in this sense also: (M:) or &lt;i&gt;a sign,&lt;/i&gt; or &lt;i&gt;mark, set up to show the way;&lt;/i&gt; (AA, Fr;) as also ↓ <br>\
+      اَمَارٌ and ↓ <br>\
+      اَمَارَهٌ: (K:) or &lt;i&gt;a small sign,&lt;/i&gt; or &lt;i&gt;mark, of stones, to show the way, in a waterless desert;&lt;/i&gt; (S;) as also ↓ <br>\
+      اَمَارٌ [and ↓ <br>\
+      اَمَارَةٌ]; and &lt;i&gt;any sign,&lt;/i&gt; or &lt;i&gt;mark, that is prepared:&lt;/i&gt; (TA:) or &lt;i&gt;a structure like a&lt;/i&gt; <br>\
+                  مَنَارَة [here app. meaning a &lt;i&gt;tower of a mosque&lt;/i&gt;], &lt;i&gt;upon a mountain, wide like a house&lt;/i&gt; or &lt;i&gt;tent, and larger, of the height of forty times the stature of a man, made in the time of &#39;Ád and Irem; in some instances its foundation being like a house, though it consists only of stones piled up, one upon another, cemented together with mud, appearing as though it were of natural formation:&lt;/i&gt; (ISh, T:) the pl. (in all the senses above, K) [or rather the coll. gen. n.,] is اَمَرٌ. (S, K.)       -A2-  See also اـِمْرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1219&quot; key=&quot;اَمَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَارٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اَمَارَةٌ <br>\
+                  &lt;i&gt;A sign, mark,&lt;/i&gt; or &lt;i&gt;token.&lt;/i&gt; (As, S Mgh.) See also each voce اَمَرَةٌ, in three places. You say, هِى اَمَارَةُ مَا بَيْنِى وَبَيْنَكَ <br>\
+                  &lt;i&gt;It is a sign,&lt;/i&gt; or &lt;i&gt;token, of what is between me and thee.&lt;/i&gt; (T, * TA.) And a poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                        اـِذَا طَلَعَتْ شَمْسُ النَّهَارِ فَاـِنَّهَا<br>\
+                        اَمَارَةُ تَسْلِيمِى عَلَيْكِ فَسَلِّمِى<br>\
+                  &lt;/quote&gt; [&lt;i&gt;When the sun of day rises, it is a sign of my saluting thee, therefore do thou salute&lt;/i&gt;]. (TA.) ―         -b2-  Also &lt;i&gt;A time:&lt;/i&gt; (As, S, K:) so IAar explains the latter word, not particularizing the time as definite or otherwise: (M:) or &lt;i&gt;a definite time:&lt;/i&gt; (TA:) or &lt;i&gt;a time,&lt;/i&gt; or &lt;i&gt;place, of promise&lt;/i&gt; or &lt;i&gt;appointment; an appointed time&lt;/i&gt; or &lt;i&gt;place;&lt;/i&gt; syn. مَوْعِدٌ: (M, Mgh, K:) or, accord. to some, the former word is pl. [or rather col. gen. n.] of the latter. (TA.) El- &#39;Ajjáj says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                        اـِذْ رَدَّهَا بِكَيْدِهِ فَارْتَدَّتِ<br>\
+                        اـِلَي اَمَارٍ وَاَمَارِ مُدَّتِى<br>\
+                  &lt;i&gt;When He&lt;/i&gt; (meaning God) &lt;i&gt;brings it,&lt;/i&gt; (namely my soul,) &lt;i&gt;by his skilful ordering,&lt;/i&gt; and his power, [&lt;i&gt;and it is thus brought,&lt;/i&gt; or &lt;i&gt;it thus comes, to a set time, and&lt;/i&gt;] &lt;i&gt;to the time of the end of my appointed period:&lt;/i&gt; <br>\
+                  امارمدّتى being as above; the former word being prefixed to the latter, governing it in the gen. case. (IB. [In the S we find وَاَمَارٌ <br>\
+                  مُدَّتِى.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1220&quot; key=&quot;اَمُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [an intensive epithet from اَمَرَهُ]. You say, اـِنَّهُ لَاَمُورٌ بِالْمَعْروفِ وَنَهُوٌّ عَنِ الْمُنْكَرِ <br>\
+                  &lt;i&gt;Verily he is one who strongly commands,&lt;/i&gt; or &lt;i&gt;enjoins, good conduct, and who strongly forbids evil conduct.&lt;/i&gt; (S in art. نهى, and A. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1221&quot; key=&quot;اَمِيرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمِيرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;One having, holding,&lt;/i&gt; or &lt;i&gt;possessing, command;&lt;/i&gt; (S;) &lt;i&gt;a commander; a governor; a lord;&lt;/i&gt; (M, * Msb;) &lt;i&gt;a prince,&lt;/i&gt; or &lt;i&gt;king:&lt;/i&gt; (M, K:) fem. with ة: (S, K:) pl. اـُمَرَا=ءُ. (M, Msb, K.) ―         -b2-  &lt;i&gt;A leader of the blind.&lt;/i&gt; (M, K.) So in the saying of El-Aashà: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                        اـِذَاكَانَ هَادِى الفَتَى فِى البِلَا<br>\
+                        دِصَدْرَ القَنَاةِ اَطَاعَ الاَمِيرَا<br>\
+                  &lt;/quote&gt; [&lt;i&gt;When the young man&#39;s guide in the countries,&lt;/i&gt; or &lt;i&gt;lands,&lt;/i&gt; or &lt;i&gt;the like, is the top of the cane, he obeys the leader of the blind&lt;/i&gt;]. (M.) ―         -b3-  A woman&#39;s &lt;i&gt;husband.&lt;/i&gt; (A.) ―         -b4-  &lt;i&gt;A neighbour.&lt;/i&gt; (K.) ―         -b5-  &lt;i&gt;A person with whom one consults:&lt;/i&gt; (A, K:) &lt;i&gt;any one of whom one begs counsel,&lt;/i&gt; or &lt;i&gt;advice, in a case of fear.&lt;/i&gt; (TA.) You say, هُوَ اَمِيرِى <br>\
+                  &lt;i&gt;He is the person with whom I consult.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1222&quot; key=&quot;اَمَارَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَارَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِمْرَةٌ, in three places: ―         -b2-  and see also اَمَرَةٌ, in three places; and اَمَارٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1223&quot; key=&quot;اـِمَارَةِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمَارَةِ<br>\
+                     امار<br>\
+                     اماره<br>\
+                     امارة<br>\
+                     اـمارة<br>\
+                     اماره<br>\
+                     امارة<br>\
+                     مارى<br>\
+                  &lt;/form&gt;: see اـِمْرَةٌ. ―         -b2-  الاـِمَارَةُ is also used for صَاحِبُ <br>\
+                  الاـمَارَةِ, i. e. الاَمِيرُ. (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1224&quot; key=&quot;اَمَّرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَّرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1225&quot; key=&quot;اـِمَّرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمَّرٌ<br>\
+                     امار<br>\
+                     امر<br>\
+                     امر<br>\
+                     مار<br>\
+                     مر<br>\
+                     آمر<br>\
+                  &lt;/form&gt; A man &lt;i&gt;who consults every one respecting his case;&lt;/i&gt; as also ↓ <br>\
+      اَمِرٌ and ↓ <br>\
+      اَمَّارَةٌ: (M:) or a man &lt;i&gt;resembling&lt;/i&gt; [&lt;i&gt;in stupidity&lt;/i&gt;] &lt;i&gt;a kid:&lt;/i&gt; [see the latter part of this paragraph:] (Th, M:) or, as also ↓ <br>\
+      اـِمَّرَةٌ (S, M, K, &amp;amp;c.) and ↓ <br>\
+      اَمَّرٌ and ↓ <br>\
+      اَمَّرَةٌ, (K,) a man &lt;i&gt;having weak judgment,&lt;/i&gt; (S, K,) &lt;i&gt;stupid,&lt;/i&gt; (T, M,) or &lt;i&gt;weak, without judgment,&lt;/i&gt; (M, L,) or &lt;i&gt;without intellect,&lt;/i&gt; or &lt;i&gt;intelligence,&lt;/i&gt; (T,) &lt;i&gt;who obeys the command of every one,&lt;/i&gt; (T, S,) &lt;i&gt;who complies with what every one desires to do in all his affairs;&lt;/i&gt; (K;) a &lt;i&gt;stupid&lt;/i&gt; man, &lt;i&gt;of weak judgment, who says to another, Command me to execute thine affair.&lt;/i&gt; (IAth.) It is said in a trad., مَنْ <br>\
+                  يُطِعْ اـِمَّرَةً لَا يَاْكُلْ ثَمَرَةً [&lt;i&gt;He who obeys a stupid man,&lt;/i&gt; &amp;amp;c., &lt;i&gt;shall not eat fruit:&lt;/i&gt; or the meaning is] &lt;pb n=&quot;98&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;he who obeys a stupid woman shall be debarred from good.&lt;/i&gt; (IAth.) ↓ <br>\
+      اـِمَّرَةٌ is applied to a woman and to a man: when it is applied to a man, the ة is added to give intensiveness to the signification. (ISh.) The following saying, اـِذَا طَلَعَتِ الشِّعْرَى <br>\
+                  وَلَا اـِمَّرًا, ↓ <br>\
+      سَفَرًا فَلَا تُرْسِلْ فِيهَا اـِمَّرَةً, in rhyming prose, means [&lt;i&gt;When Sirius rises in the clear twilight,&lt;/i&gt;] &lt;i&gt;send not thou among them&lt;/i&gt; (&lt;i&gt;meaning the camels&lt;/i&gt;) &lt;i&gt;a man without intelligence&lt;/i&gt; [&lt;i&gt;in a great degree, nor one who is so in a less degree;&lt;/i&gt; or &lt;i&gt;a woman without intelligence, nor a man without intelligence;&lt;/i&gt;] to manage them. (Sh.) ―         -b2-  Also, (M, K,) and ↓ <br>\
+      اـِمَّرَةٌ and ↓ <br>\
+      اَمَّرَ and ↓ <br>\
+      اُمَّرٌ, (K,) &lt;i&gt;A young lamb:&lt;/i&gt; (M, K:) or the first (اـِمَرٌ) and the second, &lt;i&gt;a young kid:&lt;/i&gt; (M, TA:) or the former of these two, &lt;i&gt;a male lamb:&lt;/i&gt; (M, TA:) or &lt;i&gt;a young male lamb:&lt;/i&gt; (S:) and the latter of them, &lt;i&gt;a female lamb:&lt;/i&gt; (M, TA:) or &lt;i&gt;a young female lamb.&lt;/i&gt; (S, M.) One says, ↓ <br>\
+      مَا لَهُ اـِمَّرٌ وَلَا اـِمَّرَةٌ, meaning &lt;i&gt;He has not a male lamb nor a female lamb:&lt;/i&gt; (M, TA:) or &lt;i&gt;he has not anything.&lt;/i&gt; (T, S, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1226&quot; key=&quot;اَمَّرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَّرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِمَّرٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1227&quot; key=&quot;اـِمَّرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمَّرَةٌ<br>\
+                     امار<br>\
+                     امر<br>\
+                     امره<br>\
+                     اـمرة<br>\
+                     امره<br>\
+                     امرة<br>\
+                     مار<br>\
+                     مر<br>\
+                     آمر<br>\
+                     آمره<br>\
+                     آمرة<br>\
+                  &lt;/form&gt;: see اـِمَّرٌ, in six places:       -A2-  and see اـِمْرَةٌ, in four places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1228&quot; key=&quot;اـِمّرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمّرَةٌ<br>\
+                     امار<br>\
+                     امر<br>\
+                     امره<br>\
+                     اـمرة<br>\
+                     امره<br>\
+                     امرة<br>\
+                     مار<br>\
+                     مر<br>\
+                     آمر<br>\
+                     آمره<br>\
+                     آمرة<br>\
+                  &lt;/form&gt;: see اـِمْرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1229&quot; key=&quot;اَمَّارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَّارٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Wont to command&lt;/i&gt;]. [Hence,] النَّفْسُ الاَمَّارَةُ [&lt;i&gt;The soul that is wont to command&lt;/i&gt;]; (A;) &lt;i&gt;the soul that inclines to the nature of the body, that commands to the indulgence of pleasures and sensual appetites, drawing the heart downwards, so that it is the abode of evils, and the source of culpable dispositions.&lt;/i&gt; (KT.) [See نَفْسٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1230&quot; key=&quot;اَمَّارَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَّارَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; fem. of اَمَّارٌ [q. v.]. ―         -b2-  See also اـِمَّرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1231&quot; key=&quot;ا=مِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=مِرٌ<br>\
+                     ا=مر<br>\
+                  &lt;/form&gt; [act. part. n. of اَمَرَهُ.] ―         -b2-  ا=مِرٌ and ↓ <br>\
+      مُوْتَمِرٌ <br>\
+                  &lt;i&gt;Two days,&lt;/i&gt; (S,) &lt;i&gt;the last,&lt;/i&gt; (K,) &lt;i&gt;the former being the sixth, and the latter the seventh,&lt;/i&gt; (M,) &lt;i&gt;of the days called&lt;/i&gt; <br>\
+                  اَيَّامُ الَجُوزِ: (S, M, K: [but see عَجُوزٌ:]) as though the former commanded men to be cautious, and the latter consulted them as to whether they should set forth on a journey or stay at home: (S:) accord. to Az, the latter is applied as an epithet to the day as meaning يُوْتَمَرُفِيهِ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1232&quot; key=&quot;تَاْمُرِىُّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْمُرِىُّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see تَاْمُورٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1233&quot; key=&quot;تُوْمُرِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُوْمُرِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and without ء: see تَاْمُورٌ, in six places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1234&quot; key=&quot;تَاْمُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْمُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      تَاْمُورَةٌ are properly mentioned in this art.; the measure of the former being تَفْعُولٌ; (K;) and that of the latter, تَفْعْلولَةٌ: (TA:) not as J has imagined; [who writes them without ء, and mentions them in art. تمر;] (K;) their measures accord. to him being فَاعُولٌ and فَاعُولَةٌ. (TA.) [But in all the senses here explained, they appear to be with and without ء.] ―         -b2-  The former signifies The &lt;i&gt;soul:&lt;/i&gt; (S in art. تمر, where it is written without ء; and M, A, K:) because it is that which is wont to command. (A.) One says, قَدْ عَلِمَ تَاْمُورُكَ ذلِكَ <br>\
+                  &lt;i&gt;Thy soul,&lt;/i&gt; or &lt;i&gt;self, hath known that.&lt;/i&gt; (AZ, and T in art. تمر.) ―         -b3-  The &lt;i&gt;intellect:&lt;/i&gt; (M:) as in the saying, عَرَفْتُهُ بِتَاْمُورِي <br>\
+                  &lt;i&gt;I knew it by my intellect.&lt;/i&gt; (M in art. تمر, without ء; and TA.) You say also, هُوَ ابْنُ تَاْمُورِهَا, meaning &lt;i&gt;He is the knowing with respect to it.&lt;/i&gt; (TA in art. بني.) ―         -b4-  The &lt;i&gt;heart,&lt;/i&gt; (T in art. تمر without ء, and M, A, K,) &lt;i&gt;itself.&lt;/i&gt; (M, TA.) Hence the saying, حَرْفٌ فِى تَاْمُورِى خَيْرٌ مِنْ عَشَرَةٍ فى وِ عَايِكَ [&lt;i&gt;One word in my heart is better than ten in thy receptacle&lt;/i&gt;]. (T in art. تمر, and TA.) ―         -b5-  The &lt;i&gt;pericardium.&lt;/i&gt; (M in art. تمر, without ء.) ―         -b6-  The &lt;i&gt;core,&lt;/i&gt; or &lt;i&gt;black&lt;/i&gt; or &lt;i&gt;inner part,&lt;/i&gt; or &lt;i&gt;clot of blood,&lt;/i&gt; (حَبَّة, M, K, or عَلَقَة, TA,) and &lt;i&gt;life,&lt;/i&gt; and &lt;i&gt;blood, of the heart:&lt;/i&gt; (M, K:) or &lt;i&gt;blood,&lt;/i&gt; (As, S, M, in art. تمر, and K,) absolutely: (TA:) and تَاْمُورُ <br>\
+                  النَّفْسِ signifies &lt;i&gt;the life-blood:&lt;/i&gt; (As, S:) or &lt;i&gt;the blood of the body:&lt;/i&gt; (S in art. نفس:) and &lt;i&gt;the life of the soul.&lt;/i&gt; (M, K.) ―         -b7-  Also, as being likened to blood, (TA,) (tropical:)  &lt;i&gt;Wine;&lt;/i&gt; and so ↓ <br>\
+      تَاْمُورَةٌ: (M, K:) and ―         -b8-  (tropical:)  &lt;i&gt;A dye:&lt;/i&gt; (M, TA:) and ―         -b9-  (tropical:)  &lt;i&gt;Saffron.&lt;/i&gt; (As, K.) ―         -b10-  [Hence also,] (tropical:)  &lt;i&gt;Water.&lt;/i&gt; (M, K.) You say, مَا فىِ الرَّكِيَّةِ تَامُورٌ, (T, S in art. تمر, and M,) or تَاْمُورٌ, (A,) (tropical:)  &lt;i&gt;There is not in the well any water.&lt;/i&gt; (T, S, M, A.)       -A2-  The &lt;i&gt;wezeer&lt;/i&gt; (وَزِير) &lt;i&gt;of a king:&lt;/i&gt; (M, K:) because his command is effectual. (TA.)       -A3-  &lt;i&gt;Any one:&lt;/i&gt; as in the saying, مَابِهَا تَاْمُورٌ, (T in art. تمر, A, K,) as also ↓ <br>\
+      تُوْمُورٌ, (T in art. تمر, and K,) each with an augmentative ت, and without ء as well as with it, accord. to Er-Radee and others, (TA,) and ↓ <br>\
+      تَاْمُرِىُّ, and ↓ <br>\
+      تَاْمُورِىُّ, (M,) and ↓ <br>\
+      تُوْمُرِىُّ, (T in art. تمر, M, TA,) or without ء, (S, M, K, in art. تمر,) and ↓ <br>\
+      اَمَرٌ, (M, K,) &lt;i&gt;There is not in it&lt;/i&gt; (i. e. in the house, الدار, M, A, TA) &lt;i&gt;any one.&lt;/i&gt; (M, A, K, and T and S in art. تمر.) You say also, خَلَا=ءٌ بِلَادٌ ↓ <br>\
+      لَيْسَ فِيهَاتُومُرِىٌّ <br>\
+                  &lt;i&gt;Vacant regions wherein is not any one.&lt;/i&gt; (S in art. تمر.) ↓ <br>\
+      تُوْمُرِىٌّ (M, K) and ↓ <br>\
+      تُومُرِىٌّ (S in art. تمر) and ↓ <br>\
+      تَاْمُورِىٌّ and ↓ <br>\
+      تَاْمُرِيٌّ (M, K) also signify &lt;i&gt;A man,&lt;/i&gt; or &lt;i&gt;human being.&lt;/i&gt; (S, * M, K.) You say, speaking of a beautiful woman, اَحْسَنَ مِنْهَا ↓ <br>\
+      مَا رَاَيْتُ تُومُرِيَّا <br>\
+                  &lt;i&gt;I have not seen a human being,&lt;/i&gt; or &lt;i&gt;creature, more beautiful than she:&lt;/i&gt; (S and M in art. تمر:) and مَا رَاَيْتُ <br>\
+                  اَحْسَنَ مِنْهُ ↓ <br>\
+      تُومُرِيَّا [&lt;i&gt;I have not seen a man more beautiful than he&lt;/i&gt;]. (T and S in art. تمر.) Accord. to some, they are used only in negative phrases; but accord. to others, they are also used in such as are affirmative. (MF.) ―         -b2-  Also &lt;i&gt;Anything:&lt;/i&gt; as in the saying اَكَلَ الذِّيْبُ الشَّاةَ فَمَا تَرَكَ مِنْهَا تَامُورًا [&lt;i&gt;The wolf ate the sheep,&lt;/i&gt; or &lt;i&gt;goat, and left not of it anything&lt;/i&gt;]. (T and S in art. تمر.)       -A4-  &lt;i&gt;A child, young one,&lt;/i&gt; or &lt;i&gt;fœtus&lt;/i&gt; syn. وَلَدٌ. (M, K.)       -A5-  The &lt;i&gt;receptacle&lt;/i&gt; (وِعَا=ء) &lt;i&gt;of the child, young one,&lt;/i&gt; or &lt;i&gt;fœtus.&lt;/i&gt; (M in art. تمر, without ء; and K.) ―         -b2-  &lt;i&gt;A&lt;/i&gt; <br>\
+                  وِعَا=ء [&lt;i&gt;in the ordinary sense;&lt;/i&gt; i. e. &lt;i&gt;a bag,&lt;/i&gt; or &lt;i&gt;receptacle, for travelling-provisions and for goods or utensils &amp;amp;c.&lt;/i&gt;]. (M, K.) Hence the saying, اَنْتَ اَعْلَمُ بِتَاْمُورِكَ <br>\
+                  &lt;i&gt;Thou art best acquainted with what thou hast with thee;&lt;/i&gt; and &lt;i&gt;with thine own mind.&lt;/i&gt; (M.) ―         -b3-  Also, (K,) and ↓ <br>\
+      تَاْمُورَةٌ, (M, [in which the former is not given in the following senses,] and K,) or ↓ <br>\
+      تَامُورَةٌ, (S in art. تمر,) &lt;i&gt;A ewer,&lt;/i&gt; syn. اـِبْرِيقٌ, (S, M, K,) &lt;i&gt;for wine:&lt;/i&gt; (S:) and, (M, K,) or, as some say, (TA,) &lt;i&gt;a&lt;/i&gt; <br>\
+                  حُقَّة (M, K, TA) &lt;i&gt;in which wine is put.&lt;/i&gt; (TA.) ―         -b4-  Also the first, (M, K,) or ↓ third, (T and S in art. تمر,) The &lt;i&gt;chamber,&lt;/i&gt; or &lt;i&gt;cell,&lt;/i&gt; (صَوْمَعَة, T and M in art. تمر, without ء, and S and K, and نامُوى, M, K,) &lt;i&gt;of a monk.&lt;/i&gt; (M, K.) ―         -b5-  And hence, (TA,) the first, (K,) and ↓ second, (M, K,) or ↓ third, of these three words, (T and S, in art. تمر,) (tropical:)  The &lt;i&gt;covert,&lt;/i&gt; or &lt;i&gt;retreat, of a lion.&lt;/i&gt; (T, S, M, K.) Whence, ↓ <br>\
+      فُلَانٌ اَسَدٌ فِى تَامُورَتِهِ (tropical:)  &lt;i&gt;Such a one is a lion in his covert:&lt;/i&gt; (T and S in art. تمر:) a saying borrowed from &#39;Amr Ibn-Maadee-Kerib: (T and S ibid:) or, accord. to some, it means, &lt;i&gt;a lion in the greatness of his courage,&lt;/i&gt; and &lt;i&gt;in his heart.&lt;/i&gt; (TA.)       -A6-  Also (i. e. the first only) &lt;i&gt;Play,&lt;/i&gt; or &lt;i&gt;sport, of girls&lt;/i&gt; or &lt;i&gt; of boys.&lt;/i&gt; (Th, M in art. تمر without ء, and K.)       -A7-  See also يَاْمُورٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1235&quot; key=&quot;تُوْمُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُوْمُورٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A sign,&lt;/i&gt; or &lt;i&gt;mark, set up to show the way in a waterless desert;&lt;/i&gt; (K, TA;) &lt;i&gt;consisting of stones piled up, one upon another:&lt;/i&gt; (TA:) pl. تَا=مِيرُ. (K.) [See اَمَرَةٌ.]       -A2-  See also تَاْمُورٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1236&quot; key=&quot;تَاْمُورَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْمُورَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and without ء: see تَاْمُورٌ, in eight places. ―         -b2-  Also The &lt;i&gt;pericardium;&lt;/i&gt; the &lt;i&gt;integument&lt;/i&gt; (غِلَاف) &lt;i&gt;of the heart.&lt;/i&gt; (S in art. تمر: there written without ء.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1237&quot; key=&quot;تَاْمُورِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْمُورِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see تَاْمُورٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1238&quot; key=&quot;مِيْمَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْمَرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Counsel; advice:&lt;/i&gt; as in the saying, فُلَانٌ <br>\
+                  بَعِيدٌ مِنَ المِيْمَرِ قَرِيبٌ مِنَ المِيْبَرِ <br>\
+                  &lt;i&gt;Such a one is far from counsel,&lt;/i&gt; or &lt;i&gt;advice: near to calumny,&lt;/i&gt; or &lt;i&gt;slander.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1239&quot; key=&quot;مُوَمَّرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَمَّرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Made,&lt;/i&gt; or &lt;i&gt;appointed, commander, governor, lord, prince,&lt;/i&gt; or &lt;i&gt;king:&lt;/i&gt; (S, M, K: *) &lt;i&gt;made to have authority, power,&lt;/i&gt; or &lt;i&gt;dominion:&lt;/i&gt; (T, M, K:) in which latter sense it is explained by Khálid, as applied by Ibn-Mukbil to a spear. (T.) ―         -b2-  (assumed tropical:)  A cane, or spear-shaft, &lt;i&gt;having a spearhead affixed to it.&lt;/i&gt; (K.) ―         -b3-  (assumed tropical:)  A spear-head (T, TA) &lt;i&gt;sharpened;&lt;/i&gt; syn. مُحَدَّدٌ. (T, M, K, TA.) ―         -b4-  &lt;i&gt;Distinguished,&lt;/i&gt; or &lt;i&gt;defined,&lt;/i&gt; (مُحَدَّدٌ,) &lt;i&gt;by signs,&lt;/i&gt; or &lt;i&gt;marks:&lt;/i&gt; (TA:) or, as some say, (TA,) &lt;i&gt;marked with a hot iron;&lt;/i&gt; syn. مُوْسُومٌ. (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1240&quot; key=&quot;مَاْمُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْمُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [pass. part. n. of اَمَرَهُ, q. v.]. ―         -b2-  It is said in a trad., (S, &amp;amp;c.,) خَيْرُ المَالِ مُهْرَةٌ مَاْمُورَةٌ وَسِكَّةٌ <br>\
+                  مَاْبُورَةٌ (tropical:)  &lt;i&gt;The best of property are a prolific filly&lt;/i&gt; [&lt;i&gt;and a row of palm-trees,&lt;/i&gt; or perhaps &lt;i&gt;a tall palmtree, fecundated&lt;/i&gt;]; (AZ, A &#39;Obeyd, T, S, A, K;) as though the filly were commanded [by God] to be so: (A, in which the epithet مامورة thus used is said to be tropical:) [or] مامورة is thus for the sake of conformity to مابورة, and is originally مُوْمَرَةٌ, (S, M, * K,) from ا=مَرَهَا اللّٰهُ: (TA:) or it is a dial. var. of weak authority; (K;) though, accord. to AZ, it signifies &lt;i&gt;made to have abundant offspring,&lt;/i&gt; from اَمَرَ اللّٰهُ المُهْرَةَ, meaning “God made the filly to have abundant offspring,” a dial. var. of ا=مَرَهَا, as A &#39;Obeyd also asserts it to be. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1241&quot; key=&quot;مَا=مِرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَا=مِرُ<br>\
+                     ما=مر<br>\
+                  &lt;/form&gt; and مَا=مِيرُ: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1242&quot; key=&quot;مُوْتَمِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْتَمِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Obeying,&lt;/i&gt; or &lt;i&gt;conforming to, a command;&lt;/i&gt; &amp;amp;c.: see 8. ―         -b2- ] One &lt;i&gt;who acts according to his own opinion;&lt;/i&gt; (T;) &lt;i&gt;who follows his own opinion&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;99&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;only:&lt;/i&gt; or &lt;i&gt;who hastes to speak.&lt;/i&gt; (M.)       -A2-  See also ا=مِرٌ. ―         -b2-  Also, and المُوْتَمِرُ, [&lt;i&gt;The month which is now commonly called&lt;/i&gt;] المُحَرَّمُ: (M, K:) the former appellation (موتمر) is that by which the tribe of &#39;Ád called it: (Ibn-El-Kelbee:) pl. ↓ <br>\
+      مَا=مِرُ and مَا=مِيرُ [both anomalous]. (M, K.) [See شَهْرٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1243&quot; key=&quot;يَاْمُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَاْمُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; (M, K;) so in all the copies of the K but in the L and other lexicons, ↓ <br>\
+      تَاْمُورٌ; (TA;) &lt;i&gt;A certain beast of the sea:&lt;/i&gt; or, as some say, &lt;i&gt;a small beast:&lt;/i&gt; (M:) and &lt;i&gt;a kind of mountain-goat:&lt;/i&gt; (M, K:) or &lt;i&gt;a certain wild beast,&lt;/i&gt; (K, TA,) or &lt;i&gt;a beast resembling the mountain-goat,&lt;/i&gt; (M,) &lt;i&gt;having a single branching horn in the middle of his head.&lt;/i&gt; (M, TA.) [See يَحْمُورٌ, the &lt;i&gt;oryx.&lt;/i&gt;]   &lt;/entryFree&gt; <br>\
+' } );

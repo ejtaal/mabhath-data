@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نغف</em>            1                  نغف<br>\
+<b>نَغَفَاتٌ</b>               1     <br>\
+                     نَغَفَاتٌ<br>\
+                     ذ<br>\
+                  <i>Portions of dry mucus:</i> see سَلِيلَةٌ.   </entryFree> <br>\
+' } );

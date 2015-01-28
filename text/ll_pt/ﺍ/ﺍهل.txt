@@ -1,0 +1,139 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اهل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اهل<br>\
+&lt;entryFree id=&quot;n1429&quot; key=&quot;اَهَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَهَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَهُلَ<br>\
+                  &lt;/form&gt;, inf. n. اُهُولٌ; (Msb;) or اُهِلَ, like عُنِىَ; (K, TA;) &lt;i&gt;It&lt;/i&gt; (a place, Msb, TA) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, peopled,&lt;/i&gt; or &lt;i&gt;inhabited.&lt;/i&gt; (Msb, K, TA.) ―         -b2-  اَهَلَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَهُلَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَهِلَ<br>\
+                  &lt;/form&gt;, inf. n. as above, &lt;i&gt;He married,&lt;/i&gt; or &lt;i&gt;took a wife;&lt;/i&gt; (Yoo, S, Msb, K;) as also ↓ <br>\
+      تاهّل; (S, Mgh, Msb, K;) and ↓ <br>\
+      اْتَّهَلَ, [written with the disjunctive alif اِتَّهَلَ, like اْتَّخَذَ and اْتَّزَرَ and اْتَمَنَ &amp;amp;c.], (K,) of the measure افتعل. (TA.) ―         -b3-  اَهَلَ; (Ks, S, Msb;) or اَهِلَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَهَلَ<br>\
+                  &lt;/form&gt;; (K;) or both; (JK;) بِهِ, (JK,) i. e. بِالرَّجُلِ, (Ks, S,) or بِالشَّىءِ; (Msb;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَنِسَ [&lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, sociable, companionable, friendly, amicable,&lt;/i&gt; or &lt;i&gt;familiar, with him,&lt;/i&gt; i. e. &lt;i&gt;the man;&lt;/i&gt; or &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, cheered,&lt;/i&gt; or &lt;i&gt;gladdened, by his company&lt;/i&gt; or &lt;i&gt;converse,&lt;/i&gt; or &lt;i&gt;by his,&lt;/i&gt; or &lt;i&gt;its&lt;/i&gt; (&lt;i&gt;the thing&#39;s&lt;/i&gt;) &lt;i&gt;presence&lt;/i&gt;]. (JK, S, Msb, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1430&quot; key=&quot;اهّل بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اهّل بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) or اهّلهُ, (Ham p. 184,) inf. n.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1431&quot; key=&quot;تَاْهِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْهِيلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Ham, K,) &lt;i&gt;He said to him&lt;/i&gt; <br>\
+                  اَهْلًا: (Ham:) or &lt;i&gt;he said to him&lt;/i&gt; <br>\
+                  مَرْحَبًا وَاَهْلًا: (K:) like رَحَّبَ بِهِ: (TA:) [see اَهْلٌ:] IB says that [the first pers. of] the aor. of this verb is with fet-h to the ه [contr. to rule: a strange assertion]. (TA.) ―         -b2-  اهّلهُ لِذٰلِكَ, inf. n. as above; and ↓ <br>\
+      ا=هلهُ; &lt;i&gt;He saw him, judged him, thought him,&lt;/i&gt; or &lt;i&gt;held him, to be worthy,&lt;/i&gt; or &lt;i&gt;deserving, of that; to merit it; to have a right,&lt;/i&gt; or &lt;i&gt;just title&lt;/i&gt; or &lt;i&gt;claim, to it:&lt;/i&gt; (K, * TA:) or &lt;i&gt;he made him to be worthy,&lt;/i&gt; or &lt;i&gt;deserving, of that;&lt;/i&gt; &amp;amp;c. (TA.) You say, اَهَّلَكَ اْللّٰهُ لِلْخَيْرِ [&lt;i&gt;May God make thee worthy,&lt;/i&gt; or &lt;i&gt;deserving, of good, good fortune, prosperity,&lt;/i&gt; or &lt;i&gt;the like&lt;/i&gt;]. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1432&quot; key=&quot;ا=هَلَكَ اْللّٰهُ فِى الجَنَّةِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=هَلَكَ اْللّٰهُ فِى الجَنَّةِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. اـِيهَالٌ, &lt;i&gt;May God make thee to enter with thy wife into Paradise:&lt;/i&gt; (AZ, S, TA:) or &lt;i&gt;may God make thee to have a family in Paradise, and unite thee with them&lt;/i&gt; [&lt;i&gt;therein&lt;/i&gt;]. (TA.) ―         -b2-  See also 2.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَهَّلَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَهَلَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1433&quot; key=&quot;استاهلهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاهلهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; as signifying &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, worthy,&lt;/i&gt; or &lt;i&gt;deserving, of it,&lt;/i&gt; or &lt;i&gt;he merited it,&lt;/i&gt; or &lt;i&gt;he had a right,&lt;/i&gt; or &lt;i&gt;just title&lt;/i&gt; or &lt;i&gt;claim, to it,&lt;/i&gt; is not allowable: (Msb, * MF:) not only does J disallow it, but the generality of those before him do so; saying that it is not chaste: in the Fs it is said to be of weak authority; and the expositors thereof confirm this assertion, saying that it occurs, but is inferior to other words in chasteness; and El-Hareeree asserts it to be erroneous: (MF:) or it is good in this sense; and J&#39;s disallowance of it is of no account: (K:) Az and Z and Sgh and others assert it to be good: and Az says, in the T, some have asserted the saying فُلَانٌ يَسْتَاْهِلُ اَنْ <br>\
+                  يُكْرَمَ اَوْ يُهَانَ, as meaning [&lt;i&gt;Such a one&lt;/i&gt;] &lt;i&gt;is worthy,&lt;/i&gt; or &lt;i&gt;deserving,&lt;/i&gt; [&lt;i&gt;of being treated with honour, or of being held in light estimation,&lt;/i&gt;] to be erroneous; and الاِسْتِيْهَالُ to be only from الاـِهَالَةُ; but I do not disallow it, nor charge with error him who says thus; for I have heard the verb thus used by a chaste Arab of the desert, of the BenooAsad, and there was present a number of Arabs of the desert who did not disapprove his saying: and this is confirmed by the saying in the Kur &lt;pb n=&quot;121&quot; TEIform=&quot;pb&quot;/&gt; [lxxiv. 55], هُوَ اَهْلُ التَّقْوَي وَ اَهْلُ المَغْفِرَةِ [explained below: see اَهْلُ]. (T.)       -A2-  استاهل, (JK, K,) or استاهل الاَهَالَةَ, (Msb,) &lt;i&gt;He took the&lt;/i&gt; <br>\
+                  اـِهَالَةَ: (JK, K:) or &lt;i&gt;he ate the&lt;/i&gt; <br>\
+                  اهالة: see this word below. (Msb, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1434&quot; key=&quot;اَهْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَهْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [The &lt;i&gt;people&lt;/i&gt; of a house or dwelling, and of a town or village, and of a country: and the &lt;i&gt;family&lt;/i&gt; of a man:] a man&#39;s &lt;i&gt;cohabitants of one dwelling&lt;/i&gt; or &lt;i&gt;place of abode,&lt;/i&gt; (Er-Rághib, Kull p. 84,) and &lt;i&gt;of one town&lt;/i&gt; or &lt;i&gt;country:&lt;/i&gt; (Er-Rághib:) afterwards applied to a man&#39;s &lt;i&gt;fellow-members of one family&lt;/i&gt; or &lt;i&gt;race,&lt;/i&gt; and &lt;i&gt;of one religion,&lt;/i&gt; and &lt;i&gt;of one craft&lt;/i&gt; or &lt;i&gt;art&lt;/i&gt; or &lt;i&gt;the like:&lt;/i&gt; (Er-Rághib, Kull:) or, as some say, &lt;i&gt;relations, whether they have followers&lt;/i&gt; or &lt;i&gt;dependents, or not;&lt;/i&gt; whereas ا=لٌ signifies relations with their followers or dependents: (Kull:) or it originally signifies &lt;i&gt;relations:&lt;/i&gt; and sometimes is applied to &lt;i&gt;followers&lt;/i&gt; or &lt;i&gt;dependents:&lt;/i&gt; and signifies also the اَهْل [i. e. &lt;i&gt;people,&lt;/i&gt; or &lt;i&gt;inhabitants,&lt;/i&gt; or &lt;i&gt;family,] of a house&lt;/i&gt; or &lt;i&gt;tent:&lt;/i&gt; (Msb:) or a man&#39;s &lt;i&gt;nearer,&lt;/i&gt; or &lt;i&gt;nearest, relations by descent from the same father or ancestor;&lt;/i&gt; or his &lt;i&gt;kinsfolk;&lt;/i&gt; his &lt;i&gt;relations:&lt;/i&gt; (K:) or, accord. to [the Imám] Mohammad, a man&#39;s &lt;i&gt;wife&lt;/i&gt; [or &lt;i&gt;wives] and&lt;/i&gt; his &lt;i&gt;children and household who are the objects of&lt;/i&gt; his &lt;i&gt;expenditure;&lt;/i&gt; and thus, &lt;i&gt;any brother and sister,&lt;/i&gt; or &lt;i&gt;paternal uncle and son of a paternal uncle,&lt;/i&gt; or &lt;i&gt;strange&lt;/i&gt; or &lt;i&gt;distantly-related child, whom a man feeds or sustains in his abode:&lt;/i&gt; the &lt;i&gt;most particular,&lt;/i&gt; or &lt;i&gt;most special, dependents,&lt;/i&gt; or &lt;i&gt;the like,&lt;/i&gt; of a man: on the authority of El-Ghooree: (Mgh:) [J indicates some of these meanings merely by saying that it signifies] the اَهْل of a man, and the اَهْل of a house; as also ↓ <br>\
+      اَهْلَةٌ: (S:) [see also ا=لٌ; in the explanations of which, certain distinctions between it and اَهْلٌ will be found mentioned:] the pl. is اَهْلُونَ, [like اَرْضُونَ, a form sometimes used for اَرَضُونَ] (Mgh, Msb, K,) and اَهَالٍ, (S, Mgh, Msb, K,) with an additional ى [implied by the tenween, and expressed in the accus. case, and when the word is determinate, as in الاَهَالِى,] (S,) contr. to rule, (S, Mgh,) like لَيَالٍ, pl. of لَيْلٌ, (S,) [and like اَرَاض, respecting which and ليَالٍ and اَهَالٍ, see اَرْضٌ,] and ا=هَالٌ, (S, K,) a pl. [of pauc.] sometimes occurring in poetry, (S,) [like ا=رَاضٌ,] and اَهْلَاتٌ and اَهَلَاتٌ [as though pls. of اَهْلَةٌ]. (S, K.) ―         -b2-  اَهْلُ البَيْتِ The [&lt;i&gt;people&lt;/i&gt; or] &lt;i&gt;inhabitants&lt;/i&gt; [or &lt;i&gt;family] of the house&lt;/i&gt; or &lt;i&gt;tent.&lt;/i&gt; (Mgh, K.) But اَوْصَى لاَهْلِ بَيْتِهِ means the same as اوصى لِجِنْسِهِ, i. e. &lt;i&gt;He left by will,&lt;/i&gt; of his property, &lt;i&gt;to the children of his father,&lt;/i&gt; [or &lt;i&gt;his kindred by the father&#39;s side,] exclusively of all relations of the mother.&lt;/i&gt; (Mgh in art. جنس.) [See also اَهْلُ الرَّجُلِ, below.] ―         -b3-  اَهْلَ القُرَى <br>\
+                  &lt;i&gt;The [people&lt;/i&gt; or] &lt;i&gt;inhabitants of the towns&lt;/i&gt; or &lt;i&gt;villages.&lt;/i&gt; (TA.) And اَهْلُ البَلَدِ <br>\
+                  &lt;i&gt;The settled,&lt;/i&gt; or &lt;i&gt;constant, inhabitants of the country&lt;/i&gt; or &lt;i&gt;town.&lt;/i&gt; (Msb.) And اَهْلُ الحَضَرِ <br>\
+                  &lt;i&gt;The people of the region,&lt;/i&gt; or &lt;i&gt;regions, of cities, towns,&lt;/i&gt; or &lt;i&gt;villages, and of cultivated land.&lt;/i&gt; (A in art. حضر.) And اَهْلُ المَدَرِ وَ الوَبَرِ (S in art. مدر, &amp;amp;c.) [&lt;i&gt;The people of the towns&lt;/i&gt; or &lt;i&gt;villages,&lt;/i&gt; or] &lt;i&gt;the inhabitants of the buildings, and of the tents,&lt;/i&gt; (Kull,) or &lt;i&gt;deserts.&lt;/i&gt; (TA in art. وبر) ―         -b4-  [اَهْلُ القُبُورِ, and المَقَابِرِ, &lt;i&gt;The people of the graces,&lt;/i&gt; and &lt;i&gt;of the places of graves;&lt;/i&gt; i. e., &lt;i&gt;those buried therein.&lt;/i&gt;] ―         -b5-  [اَهْلُ الجَنَّةِ <br>\
+                  &lt;i&gt;The people of Paradise.&lt;/i&gt;] ―         -b6-  [اَهْلُ النَّارِ <br>\
+                  &lt;i&gt;The people of the fire,&lt;/i&gt; i. e., &lt;i&gt;of Hell.&lt;/i&gt;] ―         -b7-  See also اَهِلَةٌ. ―         -b8-  The following is an ex. of اهل as explained above in the first sentence on the authority of the K: الاَهْلُ اـِلَى الاَهْلِ اَسْرَعُ مِنَ <br>\
+                  السِّيلِ اـِلَى السَّهْلِ a prov. [meaning &lt;i&gt;Kinsfolk are quicker of tendency to kinsfolk than the torrent to the plain&lt;/i&gt;]. (TA.) So, too, a saying of a poet cited voce خَفْضٌ. (TA.) [And] اَهْلَكَ وَاللَّيْلَ a prov. meaning بَادِر اَهْلَكَ وَاْحْذَرِ اللَّيْلَ وَ ظُلْمَتَهُ [&lt;i&gt;Betake thyself early to thy family, and beware of the night and its darkness&lt;/i&gt;]. (Har p. 175.) [And] مَرْحَبًا وَاَهْلًا (S, K) a saying meaning &lt;i&gt;Thou hast come to an ample,&lt;/i&gt; or &lt;i&gt;a spacious,&lt;/i&gt; or &lt;i&gt;roomy, place, and to&lt;/i&gt; [people like thine own] &lt;i&gt;kinsfolk;&lt;/i&gt; therefore be cheerful, or sociable, not sad, or shy: (S:) or &lt;i&gt;thou hast found,&lt;/i&gt; or &lt;i&gt;met with, [an ample,&lt;/i&gt; or &lt;i&gt;a spacious,&lt;/i&gt; or &lt;i&gt;roomy, place, and] kinsfolk, not strangers.&lt;/i&gt; (K.) [And] اَهْلًا وَ سَهْلًا وَمَرْحَبًا <br>\
+                  &lt;i&gt;Thou hast come to a people who are&lt;/i&gt; [like] &lt;i&gt;kinsfolk, and to a place that is plain, even, not rugged, and that is ample, spacious,&lt;/i&gt; or &lt;i&gt;roomy;&lt;/i&gt; therefore rejoice thyself, and be not sad, or shy. (Msb.) ―         -b9-  اَهْلُ النَّبِىِّ <br>\
+                  &lt;i&gt;The [family&lt;/i&gt; or] &lt;i&gt;wives and daughters of the Prophet, and his son-in-law &#39;Alee:&lt;/i&gt; or &lt;i&gt;his women; and&lt;/i&gt; (as some say, TA) &lt;i&gt;the men who are his&lt;/i&gt; <br>\
+                  ا=ل; (K, TA;) &lt;i&gt;comprising the grandchildren&lt;/i&gt; (اَحْفَاد) &lt;i&gt;and [other] progeny:&lt;/i&gt; and so اَهْلُ البَيْتِ as used in the Kur xxxiii. 33, occurring also [in a like sense] in xi. 76: (TA:) and الاَهْلُ is conventionally applied to &lt;i&gt;the nearer,&lt;/i&gt; or &lt;i&gt;nearest, kinsfolk of the Prophet.&lt;/i&gt; (Er-Rághib.) ―         -b10-  اَهْلُ كُلِّ نَبِىٍّ also means &lt;i&gt;The people to whom any prophet is sent;&lt;/i&gt; (K, TA;) and &lt;i&gt;those who are of his religion.&lt;/i&gt; (TA.) ―         -b11-  In the phrase ا=لٌ <br>\
+                  اْللّٰهِ وَرَسُولِهِ, meaning &lt;i&gt;The friends,&lt;/i&gt; or &lt;i&gt;the like,&lt;/i&gt; (اَوْلِيَا=ء K, TA,) and &lt;i&gt;the assistants,&lt;/i&gt; (TA,) &lt;i&gt;of God and of his apostle,&lt;/i&gt; the first word is originally اَهْل. (K, TA.) ―         -b12-  اَهْلُ اْللّٰهِ is also an appellation which used to be applied to &lt;i&gt;The readers&lt;/i&gt; or &lt;i&gt;reciters [of the Kur-án&lt;/i&gt;]. (TA.) ―         -b13-  اَهْلُ الرَّجُلِ also signifies (tropical:)  &lt;i&gt;The man&#39;s wife;&lt;/i&gt; (Mgh, * Msb, * K;) as well as &lt;i&gt;his wife and children;&lt;/i&gt; (TA;) [so, too, in the present day, اَهْلُ بَيْتِ الرَّجُلِ;] and so, too, ↓ <br>\
+      اَهْلَتُهُ. (K.) Hence the phrase بَنَى عَلَي <br>\
+                  اَهْلِهِ [see art. بنىِ]: (Kull:) and دَخَلَ بِاَهْلِهِ and دَخَلَ عَلَى اَهْلِهِ [see art. دخل]. (Har p. 502; &amp;amp;c.) ―         -b14-  اَهْلُ مَذْهَبٍ [&lt;i&gt;The people of,&lt;/i&gt; or] &lt;i&gt;those who follow,&lt;/i&gt; (K, TA,) &lt;i&gt;and believe,&lt;/i&gt; (TA,) &lt;i&gt;a certain persuasion,&lt;/i&gt; or &lt;i&gt;body of tenets.&lt;/i&gt; (K, TA.) [Hence,] اَهْلُ السُّنَةِ [&lt;i&gt;Those who conform to the institutes of Mohammad&lt;/i&gt;]. (TA.) [And] اَهْلُ الاَهْوَا=ءِ [&lt;i&gt;The people of erroneous opinions;] those whose belief is not that of the class termed&lt;/i&gt; <br>\
+                  اَهْلُ السُّنَّةِ, &lt;i&gt;but who hare the same&lt;/i&gt; <br>\
+                  قِبْلَة. (TA.) [And] اَهْلُ الاـِسْلَامِ <br>\
+                  &lt;i&gt;Those who follow the religion of El-Islám.&lt;/i&gt; (Mgh.) [And] اَهْلُ القُرْا=نِ <br>\
+                  &lt;i&gt;Those who read,&lt;/i&gt; or &lt;i&gt;recite, the Kur-án, and perform the duties enjoined thereby.&lt;/i&gt; (Mgh.) [And] اَهْلُ الكِتَابِ [&lt;i&gt;The people of the Scripture,&lt;/i&gt; or &lt;i&gt;Bible:&lt;/i&gt; and] &lt;i&gt;the readers,&lt;/i&gt; or &lt;i&gt;reciters, of the Mosaic Law, and of the Gospel.&lt;/i&gt; (TA.) ―         -b15-  اَهْلُ العِلْمِ [&lt;i&gt;The people of knowledge,&lt;/i&gt; or &lt;i&gt;science;] those who are characterized by knowledge,&lt;/i&gt; or &lt;i&gt;science.&lt;/i&gt; (Msb.) ―         -b16-  اَهْلُ <br>\
+                  الاَمْرِ [&lt;i&gt;The possessors of command:&lt;/i&gt; or] &lt;i&gt;those who superintend the affairs [of others&lt;/i&gt;]; (K, TA;) like اُلُوالاَمرِ, q. v. (TA.) ―         -b17-  اَهْلُ المَرَاتِبِ [&lt;i&gt;The people of exalted stations, posts of honour,&lt;/i&gt; or &lt;i&gt;dignities&lt;/i&gt;]. (TA in art. رتب.) ―         -b18-  اَهْلُ الذِّمَّةِ (Mgh in art. ذم) and اَهْلُ العَهْدِ (TA in art. عهد) &lt;i&gt;Those persons,&lt;/i&gt; (Mgh, TA,) &lt;i&gt;of the unbelievers,&lt;/i&gt; (Mgh,) [namely, &lt;i&gt;Christians, Jews,&lt;/i&gt; and &lt;i&gt;Sabians,&lt;/i&gt; but no others,] &lt;i&gt;who have a compact,&lt;/i&gt; or &lt;i&gt;covenant, with the Muslims,&lt;/i&gt; (Mgh, TA,) &lt;i&gt;paying a poll-tax, whereby they are secure of their property and blood,&lt;/i&gt; (Mgh,) or &lt;i&gt;whereby the Muslims are responsible for their security [and freedom and toleration] as long as they act agreeably to the compact.&lt;/i&gt; (TA.) ―         -b19-  اَهْلٌ also signifies The &lt;i&gt;possessors,&lt;/i&gt; or &lt;i&gt;owners,&lt;/i&gt; of property: as in the Kur iv. 61. (TA.) ―         -b20-  اَهْلٌ <br>\
+                  لِكَذَا A person, (S, K,) and persons, for it is used as a sing. and as a pl., (K,) &lt;i&gt;having a right,&lt;/i&gt; or &lt;i&gt;just title, to such a thing; entitled thereto; worthy,&lt;/i&gt; or &lt;i&gt;deserving, thereof; meet,&lt;/i&gt; or &lt;i&gt;fit, for it:&lt;/i&gt; (S, K:) the vulgar say ↓ <br>\
+      مُسْتَاْهِلٌ, which is not allowable: (S:) or this assertion of J&#39;s is of no account. (K: see 10.) You say, هُو اَهْلٌ <br>\
+                  لِاـِكْرَامِ <br>\
+                  &lt;i&gt;He is entitled to be,&lt;/i&gt; or &lt;i&gt;worthy of being, treated with honour.&lt;/i&gt; (Msb.) And لِكُّلِ ↓ <br>\
+      هُوَ اَهْلَةٌ <br>\
+                  خَيْر [&lt;i&gt;He is entitled to,&lt;/i&gt; or &lt;i&gt;worthy of, all that is good&lt;/i&gt;]. (Ibn- &#39;Abbád.) And وُدٍّ ↓ <br>\
+      اَهلَةٌ <br>\
+                  &lt;i&gt;He who is,&lt;/i&gt; or &lt;i&gt;they who are, entitled to,&lt;/i&gt; or &lt;i&gt;worthy of, love,&lt;/i&gt; or &lt;i&gt;affection.&lt;/i&gt; (S, Sgh.) And hence, in the Kur [lxxiv. last verse], هُوَ اَهْلُ التَّقْوَى وَاَهْلُ المَغْفِرَةِ (TA) &lt;i&gt;He is the Being entitled to be regarded with pious fear, and the Being entitled to forgive&lt;/i&gt; those who so regard Him. (Jel.) In the phrase اهْلَ الثَنَا=ءِ وَالمَجْدِ [&lt;i&gt;0 Thou who art the Being entitled to praise and glory&lt;/i&gt;], occurring in a form of prayer, the first word is mansoob as a vocative: and it may be marfooa, as the enunciative of an inchoative suppressed; i. e. اَنْتَ اَهْلُ [&lt;i&gt;Thou art the Being entitled&lt;/i&gt; &amp;amp;c.]. (Msb.) ―         -b21-  [Frequently, also, اَهْلٌ signifies The &lt;i&gt;author,&lt;/i&gt; or, more commonly, &lt;i&gt;authors,&lt;/i&gt; of a thing; like صَاحِبٌ and اَصْحَابٌ; as in اَهْلُ البِدَعِ <br>\
+                  &lt;i&gt;The author,&lt;/i&gt; or &lt;i&gt;authors, of innovations;&lt;/i&gt; and اَهْلُ الظُّلْمِ <br>\
+                  &lt;i&gt;The author,&lt;/i&gt; or &lt;i&gt;authors, of wrong.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1435&quot; key=&quot;اَهِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَهِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَهْلِيىٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1436&quot; key=&quot;اَهْلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَهْلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَهْلٌ, in four places:       -A2-  and see اَهلَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1437&quot; key=&quot;اَهِلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَهِلَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَالٌ [&lt;i&gt;Property;&lt;/i&gt; or &lt;i&gt;cattle&lt;/i&gt;]: so in the saying اـِنَّهُمْ لَاَهْلُ اَهِلَةٍ (JK, K) [app. meaning &lt;i&gt;Verily they are sojourners,&lt;/i&gt; or &lt;i&gt;settlers, possessed of property,&lt;/i&gt; or &lt;i&gt;cattle&lt;/i&gt;]: ↓ <br>\
+      اَهْلٌ here signifying حُلُولٌ [pl. of حَالٌّ]. (JK, TA.) [But] Yoo says that ↓ <br>\
+      هُمْ اَهْلُ اَهْلَةِ and اَهِلَةٍ means &lt;i&gt;They are people of the distinguished sort.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1438&quot; key=&quot;اَهْلِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَهْلِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A &lt;i&gt;domestic&lt;/i&gt; beast [or bird]; a beast [or bird] &lt;i&gt;that keeps to the dwelling&lt;/i&gt; [&lt;i&gt;of its owner&lt;/i&gt;]; &lt;pb n=&quot;122&quot; TEIform=&quot;pb&quot;/&gt; (JK, Msb, K, TA;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  وَحْشِىٌّ; (TA;) as also ↓ <br>\
+      اَهِلٌ. (K.) You say حُمُرٌ اَهْلِيَّةٌ [&lt;i&gt;Domestic asses&lt;/i&gt;]: (JK, TA:) occurring in a trad., in which their flesh is forbidden to be eaten. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1439&quot; key=&quot;اَهْلِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَهْلِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;quality of having a right,&lt;/i&gt; or &lt;i&gt;just title,&lt;/i&gt; to a thing; &lt;i&gt;worthiness,&lt;/i&gt; or &lt;i&gt;desert; meetness,&lt;/i&gt; or &lt;i&gt;fitness;&lt;/i&gt; in Pers. سَزَوَارِى: (Golius, app. from a gloss. in a copy of the KL:) the &lt;i&gt;state,&lt;/i&gt; or &lt;i&gt;quality, of meetness,&lt;/i&gt; or &lt;i&gt;fitness,&lt;/i&gt; [of a person,] &lt;i&gt;for the bindingness of the rights which the law imposes for one&lt;/i&gt; or &lt;i&gt;upon him.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1440&quot; key=&quot;اـِهَالَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِهَالَةٌ<br>\
+                     اهال<br>\
+                     اهاله<br>\
+                     اهاله<br>\
+                     اهالة<br>\
+                  &lt;i&gt;Grease:&lt;/i&gt; (S:) or &lt;i&gt;melted grease:&lt;/i&gt; (Msb:) or &lt;i&gt;fat:&lt;/i&gt; or &lt;i&gt;melted fat:&lt;/i&gt; or &lt;i&gt;olive-oil:&lt;/i&gt; and &lt;i&gt;anything that is used as a seasoning&lt;/i&gt; or &lt;i&gt;condiment:&lt;/i&gt; (K:) &lt;i&gt;such as fresh butter,&lt;/i&gt; and &lt;i&gt;fat,&lt;/i&gt; and &lt;i&gt;oil of sesame:&lt;/i&gt; (TA:) or &lt;i&gt;melted fat of a sheep&#39;s tail&lt;/i&gt; and &lt;i&gt;the like.&lt;/i&gt; (JK.) Hence, سَرْعَانَ ذَا اـِهَالَةٌ, a prov., mentioned in art. سرع; (K, * TA;) or, as some say, وَشْكَانَ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1441&quot; key=&quot;ا=هِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=هِلٌ<br>\
+                     ا=هل<br>\
+                  &lt;/form&gt;, (JK, S, Msb, K,) [said by those unacquainted with the verb اَهَلَ in the first of the senses explained in this art. to be] a kind of rel. n., (TA,) and ↓ <br>\
+      مَاْهُولٌ, (JK, K,) A place &lt;i&gt;peopled,&lt;/i&gt; or &lt;i&gt;inhabited:&lt;/i&gt; (Msb:) or a place &lt;i&gt;having people:&lt;/i&gt; (JK:) or the former has this signification; and the latter signifies &lt;i&gt;having its people in it:&lt;/i&gt; (ISk, K:) or the former has this last signification: (Yoo, S:) pl. of the latter مَا=هِلُ, occurring in a poem of Ru-beh [app. by poetic licence for مَا=هِيلُ]. (TA.) You say قَرْيَةٌ ا=هِلَةٌ <br>\
+                  &lt;i&gt;A peopled,&lt;/i&gt; or &lt;i&gt;inhabited, town&lt;/i&gt; or &lt;i&gt;village.&lt;/i&gt; (Msb.) And اَمْسَتْ نِيرَانُهُمْ ا=هِلَةٌ <br>\
+                  &lt;i&gt;Their fires became in the evening attended by many people.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1442&quot; key=&quot;مَاهُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاهُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=هِلٌ.       -A2-  ثَرِيدَةٌ مَاْهُولَةٌ [&lt;i&gt;A mess of crumbled bread] having much&lt;/i&gt; <br>\
+                  اـِهَالَة, q. v. (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1443&quot; key=&quot;مُتَاَهِّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَهِّلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Having a wife.&lt;/i&gt; (Har p. 571.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1444&quot; key=&quot;مُسْتَاْهِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَاْهِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَهْلٌ; latter part of the paragraph.       -A2-  Also &lt;i&gt;Taking,&lt;/i&gt; or &lt;i&gt;eating,&lt;/i&gt; <br>\
+                  اـِهَالَة, q. v. (S.)   &lt;/entryFree&gt; <br>\
+' } );

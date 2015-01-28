@@ -1,0 +1,73 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ظما&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ظما<br>\
+&lt;entryFree id=&quot;n27670&quot; key=&quot;ظَمِيَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ظَمِيَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, &amp;amp;c.,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ظَمَاَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. ظَمَاٌ (T, S, M, Msb, K) and ظَمْءٌ (TA) and ظَمَا=ءٌ (T, M, K) and ظَمَا=ءَةٌ, (M, K, TA,) in one copy of the K ظَمْاَة, (TA,) &lt;i&gt;He thirsted,&lt;/i&gt; or &lt;i&gt;was thirsty:&lt;/i&gt; (S, M, Msb, K:) or as some say, &lt;i&gt;he thirsted in the slightest degree.&lt;/i&gt; (M, TA.) ―         -b2-  Hence, (M,) ظَمِيَ اـِلَى لِقَايِهِ (tropical:)  &lt;i&gt;He desired,&lt;/i&gt; or &lt;i&gt;longed,&lt;/i&gt; [or, as we often say, &lt;i&gt;thirsted,&lt;/i&gt;] &lt;i&gt;to meet with him.&lt;/i&gt; (S, M, K, * TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ظَمَّاَ<br>\
+                  &lt;/form&gt; see the next paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27671&quot; key=&quot;اظماهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اظماهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, * S, Msb, K,) inf. n. اـِظْمَا=ءٌ; (T;) and ↓ <br>\
+      ظمّاهُ, (T, * Msb, K,) inf. n. تَظْمِيَةٌ; (T, S;) &lt;i&gt;He made him to thirst:&lt;/i&gt; (S, Msb, K:) [or &lt;i&gt;to thirst most vehemently:&lt;/i&gt; or &lt;i&gt;to thirst in the slightest degree:&lt;/i&gt; see 1.] ―         -b2-  And (K) (tropical:)  &lt;i&gt;He made him lean,&lt;/i&gt; or &lt;i&gt;lank,&lt;/i&gt; namely, a horse, (T, * K, TA,) &lt;i&gt;by sweating him.&lt;/i&gt; (TA.) [See also 4 in art. ظمى.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27672&quot; key=&quot;تظمّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تظمّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He constrained himself to endure with patience a state of thirst.&lt;/i&gt; (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27673&quot; key=&quot;ظِمْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ظِمْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a subst. from ظَمِيَ (S, M, K) in both of its senses; (M, K;) [i. e.] it signifies &lt;i&gt;Thirst:&lt;/i&gt; (MA:) [or &lt;i&gt;most vehement thirst:&lt;/i&gt; or the &lt;i&gt;slightest degree of thirst:&lt;/i&gt;] pl. اَظْمَا=ءٌ. (MA.) ―         -b2-  [And (tropical:)  &lt;i&gt;Desire,&lt;/i&gt; or &lt;i&gt;a longing,&lt;/i&gt; (or, as we often say, &lt;i&gt;a thirsting,&lt;/i&gt;) to meet with a person. See 1.] ―         -b3-  And (S, M, K) The &lt;i&gt;time,&lt;/i&gt; or &lt;i&gt;interval,&lt;/i&gt; or &lt;i&gt;period, between two drinkings,&lt;/i&gt; or &lt;i&gt;waterings,&lt;/i&gt; (T, S, M, K,) &lt;i&gt;in the coming of camels to water:&lt;/i&gt; (T:) and the &lt;i&gt;keeping of camels from the water&lt;/i&gt; [&lt;i&gt;during that interval,&lt;/i&gt; i. e.] &lt;i&gt;until the extreme limit of the coming thereto:&lt;/i&gt; (S:) pl. اَظْمَا=ءٌ. (T, S, M.) The shortest ظِمْءٌ of camels is that termed غِبٌّ, i. e., when they come to the water one day and return, and are in the place of pasture a day, and come to the water [again] on the third day; the interval between their two drinkings being termed a ظِمْء: this is during the greatest heat: but when Suheyl [i. e. Canopus] rises [aurorally, which it did in Central Arabia, about the commencement of the era of the Flight, on the 4th of August, O. S.], they increase the ظِمْء, so that the camels remain in the place of pasture two days, and come to the water on the fourth; and one says, وَرَدَتْ رِبْعًا: then follow the خِمْس and the سِدْس to the عِشْر: and the interval between their two drinkings is termed ظِمْءٌ, whether long or short. (T.) One says, مَا بَقِىَ مِنْ عُمُرِهِ اـِلَّا ظِمْءُ الحِمَارِ, (T, S, * K, * TA,) meaning &lt;i&gt;There remained not of his life save a little;&lt;/i&gt; [lit., &lt;i&gt;save the period between the two drinkings of the ass;&lt;/i&gt;] (S, K, * TA;) because there is no beast that bears thirst for a shorter time than the ass; (T, S, * K, * TA;) for he comes to the water in summer every day twice. (T, TA.) ―         -b4-  الظِّمْءُ also signifies (assumed tropical:)  &lt;i&gt;The period from birth to death;&lt;/i&gt; (K;) or so ظِمْءُ <br>\
+                  الحَيَاةِ. (S, M, TA.) ―         -b5-  ظِمْوٌ is a dial. var. of ظِمْءٌ. (T and M in art. ظمو.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27674&quot; key=&quot;ظَمِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ظَمِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27675&quot; key=&quot;ظَمْا=نُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ظَمْا=نُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, Msb, &amp;amp;c.,) fem. ظَمْاَى, (T, S, M, A, L, Msb,) both imperfectly decl.; (T;) or ظَمْا=نٌ, fem. ظَمْا=نَةٌ; (K; [but this requires consideration, for its correctness is extremely doubtful;]) and ↓ <br>\
+      ظَمِيٌ, (so in the K accord. to the TA, and so in my MS. copy of the K,) like كَتِفٌ, [agreeably with analogy as part. n. of ظَمِيَ, and therefore probably correct,] (TA,) or ↓ <br>\
+      ظَمِىْءٌ, (so in a copy of the M and in the CK,) fem. [of the former] ظَمِيَةٌ, like فَرِحَةٌ, mentioned by Ibn-Málik, but generally held to be disused; (MF, TA;) and ظَامٍ, like رَامٍ; (TA; [app. for ↓ <br>\
+      ظَامِيٌ;]) &lt;i&gt;Thirsty:&lt;/i&gt; (S, M, Msb, K:) or &lt;i&gt;most vehemently thirsty:&lt;/i&gt; (T, M, K:) or &lt;i&gt;thirsty in the slightest degree:&lt;/i&gt; (M, TA:) pl. (of the first, M, Msb, and of the second, M, or of all, mase. and fem., TA) ظِمَا=ءٌ (T, S, M, Msb, K) and ظُمَا=ءٌ, which is extr., (K, TA,) being of a form applying to only about ten words, (TA,) mentioned on the authority of Lh, (K, TA,) by ISd in the “ Mukhassas. ” (TA.) ―         -b2-  [Hence,] one says, اَنَا ظَمْا=نُ اـِلَى لِقَايِكَ (tropical:)  &lt;i&gt;I am desirous,&lt;/i&gt; or &lt;i&gt;longing,&lt;/i&gt; [or, as we often say, &lt;i&gt;thirsting,&lt;/i&gt;] &lt;i&gt;to meet with thee.&lt;/i&gt; (A, TA.) ―         -b3-  And وَجْهٌ ظَمْا=نُ (tropical:)  &lt;i&gt;A face having little flesh,&lt;/i&gt; (T, TA,) &lt;i&gt;the skin of which adheres to the bone, and the sap of which is little:&lt;/i&gt; (TA:) an expression of praise: &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  وَجْهٌ <br>\
+                  رَيَّانُ, which is [said to be] an expression of dispraise. (A, TA.) And فَرَسٌ ظَمْا=نُ الشَّوَى (assumed tropical:)  &lt;i&gt;A horse having little flesh upon the legs:&lt;/i&gt; (T in art. روى:) and so اَظْمَى الشَّوَى. (T in art. ظمى.) And سَاقٌ ظَمْاَى (assumed tropical:)  &lt;i&gt;A lean shank:&lt;/i&gt; (T, TA:) and so ساق ظَمْيَا=ءُ. (S and M and K in art. ظمى.) And عَيْنٌ ظَمْاَى (assumed tropical:)  &lt;i&gt;An eye having a thin,&lt;/i&gt; or &lt;i&gt;delicate, lid:&lt;/i&gt; (M, TA:) and so عين ظَمْيَا=ءُ. (S and M and K in art. ظمى.) And فُصُوصُهُ ظِمَا=ءٌ (said of a horse, T, S, TA) (tropical:)  &lt;i&gt;His joints are&lt;/i&gt; [&lt;i&gt;firm,&lt;/i&gt;] &lt;i&gt;not flabby,&lt;/i&gt; or &lt;i&gt;lax,&lt;/i&gt; (T, S, K, TA,) &lt;i&gt;nor fleshy;&lt;/i&gt; (S, K, TA;) &lt;i&gt;and are well braced;&lt;/i&gt; an expression of commendation: (T:) and مَفَاصِلُ ظِمَا=ءٌ (tropical:)  &lt;i&gt;Hard&lt;/i&gt; [or &lt;i&gt;firm&lt;/i&gt;] &lt;i&gt;joints, without flabbiness,&lt;/i&gt; or &lt;i&gt;laxness:&lt;/i&gt; (A, TA:) accord, to IB, belonging to art. ظمى; but said in the T to be originally from ظما. (TA.) ―         -b4-  And رِيحٌ ظَمْاَى (assumed tropical:)  &lt;i&gt;A wind that is hot,&lt;/i&gt; (As, T, K,) &lt;i&gt;thirsty, not gentle,&lt;/i&gt; (K,) &lt;i&gt;and without moisture.&lt;/i&gt; (As, T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27676&quot; key=&quot;ظَمِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ظَمِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ظَمْا=نُ, first sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27677&quot; key=&quot;ظَمَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ظَمَا=ءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;Evilness of nature,&lt;/i&gt; of a man, &lt;i&gt;and meanness of disposition, and deficiency of equity to associates:&lt;/i&gt; (En-Nadr, T, K:) originating from the fact that he who is given to drink, if of an evil nature, does not act equitably to his associates. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27678&quot; key=&quot;ظَامِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ظَامِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ظَمْا=نُ, first sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27679&quot; key=&quot;اَظْمَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَظْمَاُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Tawny;&lt;/i&gt; applied to a spear: (A, TA:) and so اَظْمَى. (TA in art. ظمى.) ―         -b2-  And &lt;i&gt;Black;&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;1924&quot; TEIform=&quot;pb&quot;/&gt; applied to an antelope and to a camel: pl. ظُمْءٌ. (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27680&quot; key=&quot;مَظْمَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَظْمَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A thirsty place of the earth&lt;/i&gt; or &lt;i&gt;ground.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27681&quot; key=&quot;مِظْمَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِظْمَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A &lt;i&gt;very thirsty&lt;/i&gt; man. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27682&quot; key=&quot;مِظْمَيِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِظْمَيِىٌّ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Watered&lt;/i&gt; [&lt;i&gt;only&lt;/i&gt;] &lt;i&gt;by the rain: contr. of&lt;/i&gt; <br>\
+                  مَسْقَوِىٌّ: (K:) and so مَظْمِىٌّ: applied to seedproduce. (S and K in art. ظمى.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نرجس</em>            1                  نرجس<br>\
+<b>دَابَّةٌ نَرْجِسِيَّةٌ</b>               1     <br>\
+                     دَابَّةٌ نَرْجِسِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>A beast of carriage whose whiteness inclines to yellowness</i> [like the narcissus]. (TA, art. قرطس.)   </entryFree> <br>\
+' } );

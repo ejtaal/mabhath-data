@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'حود1<br>\
+حَادَ, aor. يَحُودُ, i. q. حَادَ, aor. يَحِيدُ, explained in art. حيد. (K.)<br>\
+3<br>\
+تُحَاوِدُهُ الحُمَّى [like تُعَاوِدُهُ] The fever returns to him repeatedly, or time after time. (K.)<br>\
+―<br>\
+-b2-  هُوَ يُحَاوِدُنَا بِالزِّيَارَةِ He visits us [repeatedly, or<br>\
+time after times,] during the space of several days.<br>\
+(TA.)<br>\
+' } );

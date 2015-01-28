@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>عوى</em>            1                  عوى<br>\
+               </head> For words mentioned under this head in many of the lexicons, see art. عو.   </div2> <br>\
+' } );

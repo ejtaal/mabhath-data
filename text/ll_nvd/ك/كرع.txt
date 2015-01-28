@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'كرع1<br>\
+كَرَعَ فِى المَآءِ<br>\
+, and فِى الإِنَآءِ, He put his<br>\
+mouth into the water, or into the vessel, and so<br>\
+drank. (See عَبَّ.)<br>\
+كَراَعٌ<br>\
+: see عِدٌّ.<br>\
+كُرَاعٌ<br>\
+: see حَرَّةٌ, رَكَضَ, ذِرَاعٌ, and بَدَنٌ.<br>\
+كُرْسُوعٌ<br>\
+The prominent extremity of the ulna,<br>\
+next to the little finger, at the wrist. (S, * K.)<br>\
+' } );

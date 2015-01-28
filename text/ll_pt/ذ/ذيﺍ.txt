@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ذيا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ذيا<br>\
+&lt;entryFree id=&quot;n14202&quot; key=&quot;ذَيَّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَيَّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and ذَيَّاكَ, and ذَيَّالِكَ: see the two sentences next before the last in art. ذا.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14203&quot; key=&quot;ذَيَّا=ءَ وَ ذَيَّا=ءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَيَّا=ءَ وَ ذَيَّا=ءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. ذيت.   &lt;/entryFree&gt; <br>\
+&lt;div2 n=&quot;ذيا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ذيا<br>\
+&lt;entryFree id=&quot;n14204&quot; key=&quot;ذيّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ذيّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, K,) inf. n. تَذْيْىْءٌ, (K,) &lt;i&gt;He cooked&lt;/i&gt; flesh-meat &lt;i&gt;thoroughly, so that it fell off from the bone.&lt;/i&gt; (T, S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14205&quot; key=&quot;تذيّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تذيّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, said of flesh, or flesh-meat, (T, S, M, K,) &lt;i&gt;It became separated from the bone by reason of corruption,&lt;/i&gt; (T, M, K,) or &lt;i&gt;in consequence of cooking,&lt;/i&gt; (T,) or &lt;i&gt;by slaughter,&lt;/i&gt; (M, K,) or &lt;i&gt;from some other cause:&lt;/i&gt; (TA:) or &lt;i&gt;became thoroughly cooked, so that it fell off from the bone.&lt;/i&gt; (S.) It (a wound, As, S, M, K,) &lt;i&gt;became dissundered,&lt;/i&gt; or &lt;i&gt;ragged, and corrupt,&lt;/i&gt; or &lt;i&gt;putrid:&lt;/i&gt; (As, S, M, K:) and so said of other things: (K:) thus تَذَيَّاَتْ said of a قِرْبَة [or water-skin], (M, * TA,) and of a مَزَادَة [or leathern water-bag]. (TA.) ―         -b2-  &lt;i&gt;It&lt;/i&gt; (the face) &lt;i&gt;became swollen.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

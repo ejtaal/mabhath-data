@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>موش</em>            1                  موش<br>\
+<b>مَاشٌ</b>               1     <br>\
+                     مَاشٌ<br>\
+                     ذ<br>\
+                   [<i>Indian peas;</i>] <i>a certain grain, well known,</i> (S in art. ميش, and K,) <i>round, smaller than the</i> <br>\
+                  حِمَّص [or <i>chick-pea</i>], <i>of a tawny colour inclining to greenness; it is in Syria and India; and is sown;</i> (TA;) also called مَجٌّ and خُلَّرٌ and زِنٌّ: (TA, art. مج:) it is of moderate temperature; and the mixture made thereof is commended, being beneficial to him who is fevered, and him who is affected with rheum; it is lenitive; and when cooked with vinegar, it is beneficial for purulent pustulous mange or scab; and an external application thereof strengthens feeble limbs: (K:) the word is arabicized [from the Persian مَاشْ], or postclassical. (S.)       -A2-  <i>Utensils and furniture, of the meaner sort, of a house</i> or <i>tent.</i> (IAar, K.) Hence the saying, المَاشُ خَيْرٌ مِنْ لَاشَ, [in one copy of the K I find لَاشٍ, but the former seems to be the right reading,] meaning, <i>Mean house-</i> <br>\
+                  <i>hold utensils and furniture are better than nothing;</i> or] <i>what is in the house,</i> or <i>tent, of worthless utensils and furniture, is better than its being empty:</i> (K, TA:) لاش is here contracted [from لَاشَىْءَ] for the sake of its resembling ماش. (TA.) And خَاشَ مَاشَ and خَاشِ مَاشِ signify the same as مَاشٌ thus used: (K, TA in art. خوش:) or the <i>refuse,</i> or <i>meanest sort, of people,</i> or <i>of mankind;</i> as in the M. (TA.)   </entryFree> <br>\
+' } );

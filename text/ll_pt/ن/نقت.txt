@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>نقت</em>            1                  نقت<br>\
+<b>نَقَتَ</b>               1     <br>\
+                     نَقَتَ<br>\
+                     ذ<br>\
+                  , [aor.      <br>\
+                     نَقُتَ<br>\
+                  ,] inf. n. نَقْتٌ, <i>He took out,</i> or <i>extracted, marrow</i> [from a bone]. (K.) Az, quotes, from Aboo-Turáb, on the authority of Aboo-&#39;Ameythel, نُقِتَ العَظْمُ, and نُكِتَ, <i>The marrow of the bone was taken out,</i> or <i>extracted.</i> (L.) And J says, نَقَتُّ المُخَّ aor.      <br>\
+                     نَقُتَ<br>\
+                  , inf. n. نَقْتٌ, is a dial. form of نَقَوْتُهُ, meaning, <i>I took out,</i> or <i>extracted the marrow</i> [from a bone]: as though they had changed the و into ت. (L.) But it is said in a marginal note in the S, Aboo-Sahl El-Harawee says, What I remember to have heard is نَقَثْتُ العَظْمَ, aor.      <br>\
+                     نَقُتَ<br>\
+                  , inf. n. نَقْثٌ, I took out, or extracted, the marrow from the bone; and so اـِنْتَقَثْتُهُ, with the three-pointed ث; and نَقَيْتُهُ, and اـِنْتَقَيْتُهُ, and نَقُوْتُهُ. (TA.)   </entryFree> <br>\
+' } );

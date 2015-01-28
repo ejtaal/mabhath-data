@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>ثوا</em>            1                  ثوا<br>\
+<b>اَثَاْتُهُ بِسَهْمٍ</b>               1     <br>\
+                     اَثَاْتُهُ بِسَهْمٍ<br>\
+                     ذ<br>\
+                  , (S in art. ثا, [incorrectly there mentioned, as is said by IB and others and in the K,] and K in the present art. and in art. اثا,) inf. n. اـِثَا=ءَةٌ, (S,) <i>I shot him,</i> or <i>shot at him, with an arrow;</i> (S, K;) so says AA, and Ks says the like; (S;) as also اَثَوْتُهُ, and, accord. to As, اَثَيْتُهُ, (TA in art. ثا,) which is a strange word. (TA in the present art.) It is mentioned in the present art. by Sgh; (K in art. اثا;) and this is its proper place; (TA in the present art.;) the verb, accord. to him, being like اَقَامَ: (TA in art. اثا:) A &#39;Obeyd has mentioned it in art. اثا, (K in that art.,) as also Az; holding the verb to be like صَنَعَ; and so IKtt and IKoot assert it to be. (TA.)    </entryFree> <br>\
+<b>ثَا=ءٌ</b>               1     <br>\
+                     ثَا=ءٌ<br>\
+                     ثا=ء<br>\
+                  <i>The name of the letter</i> <br>\
+                  ث, q. v.; as also ثَا: pl. [of the former,] ثَا=ءَاتٌ; and [of the latter,] اَثْوَا=ءٌ and اَثْيَا=ءٌ. (TA in باب الالف الليّنة.)       -A2-  It also stands for ثَنَا=ءٌ, and ثَوَابٌ, and the like. (Idem ubi suprà.)       -A3-  Also The <i>best</i> of anything; as, for instance, of wheat, and of flesh-meat, and of sugar. (Kh, TA ubi suprà.)    </entryFree> <br>\
+<b>ثَايِىٌّ</b>               1     <br>\
+                     ثَايِىٌّ<br>\
+                     ذ<br>\
+                   and ثَاوِىٌّ rel. ns. of ثَا=ءٌ and ثَا, the names of the letter ث; as also ثَيَوِىٌّ. (TA ubi suprà.)   </entryFree> <br>\
+' } );

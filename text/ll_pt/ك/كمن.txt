@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>كمن</em>            1                  كمن<br>\
+<b>الكَامَانُ المُذَابُ</b>               1     <br>\
+                     الكَامَانُ المُذَابُ<br>\
+                     ذ<br>\
+                  , mentioned in the TA, in art. نبط, <i>i. q.</i> <br>\
+                  عِلْكُ الاَنْبَاط, which is applied as a لزوق to a wound.    </entryFree> <br>\
+<b>كَامِنٌ</b>               1     <br>\
+                     كَامِنٌ<br>\
+                     ذ<br>\
+                  <i>Latent.</i>    <br>\
+<b>مَكْمَنٌ</b>               1     <br>\
+                     مَكْمَنٌ<br>\
+                     ذ<br>\
+                  <i>A place of concealment, a lurking-place:</i> (Mgh, Msb:) pl. مَكَامِنُ. (Msb.)   </entryFree> <br>\
+' } );

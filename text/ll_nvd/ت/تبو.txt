@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'تبوتَابُوتٌ: see art. توب. Accord. to some, it belongs<br>\
+to the present art., and was originally تَابُوَةٌ.<br>\
+' } );

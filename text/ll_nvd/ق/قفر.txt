@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'قفرالقَفْرُ اليَهُودِىُّ<br>\
+Jews-pitch, i. e. asphaltum; also<br>\
+called mumia, and in Arabic مُومِيَا: see De<br>\
+Sacy&#39;s Abd-allatif, p. 273: and see تِرْيَاقٌ and<br>\
+حُمَرٌ.<br>\
+قَفُورٌ<br>\
+i. q.<br>\
+كَافُورٌ. (IDrd in TA, art. كفر.)<br>\
+' } );

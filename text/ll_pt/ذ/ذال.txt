@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>ذال</em>            1                  ذال<br>\
+<b>ذَاَلَ</b>               1     <br>\
+                     ذَاَلَ<br>\
+                     ذ<br>\
+                  , (T, K,) or ذَاَلَتْ, (S,) aor.      <br>\
+                     ذَاََ<br>\
+                  , inf. n. ذَاَلَانٌ (T, S, K) and ذَاْلٌ or ذَاَلٌ, (accord. to different copies of the S and K, the latter accord. to the TA,) <i>He,</i> (T, K,) or <i>she,</i> i. e. a camel, (S,) <i>walked,</i> or <i>went, lightly:</i> (AZ, T, S:) or <i>quickly:</i> (K:) or <i>lightly,</i> (K,) or <i>quickly,</i> (IF,) <i>and proudly, with an inclining of the body from side to side.</i> (IF, K.) [See also دَاَلَ: and see ذَاَلَانٌ, below.]    </entryFree> <br>\
+<b>تذا=ءل</b>               1     <br>\
+                     تذا=ءل<br>\
+                     ذ<br>\
+                  <i>He became vile, base, ignominious, abject,</i> or <i>contemptible;</i> syn. تصاغر. (K.)    </entryFree> <br>\
+<b>ذَاْلَانٌ</b>               1     <br>\
+                     ذَاْلَانٌ<br>\
+                     ذ<br>\
+                  , (K,) or ↓ <br>\
+      ذَاَلَانٌ, (ISk, S, M,) and ↓ <br>\
+      ذُاْلَانٌ, (Ibn- &#39;Abbád, K,) The <i>jackal</i> (اِبْنُ ا=وَى): or the <i>wolf:</i> (K:) or the second word has the latter signification: (ISk, S, M:) and the last word, the former signification: (M:) the pl. of the second word, having the latter signification, is ذَا=لِيلُ, with ل. (ISk, S.) [See also دَاْلَانٌ and دَاَلَانٌ: and see ذُوَالَةٌ, below.]    </entryFree> <br>\
+<b>ذُوْلَانٌ</b>               1     <br>\
+                     ذُوْلَانٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>ذَاَلَانٌ</b>               1     <br>\
+                     ذَاَلَانٌ<br>\
+                     ذ<br>\
+                   The <i>walk,</i> or <i>manner of going, of the wolf:</i> pl. ذَا=لِيلُ, with ل: (M, K:) [but ISd says,] I know not how this is. (M. [See also دَا=لِيلُ.]) Also [as an inf. n. of 1, q. v.,] <i>A quick walk</i> or <i>manner of going:</i> (M:) or, as some say, <i>a moderate running:</i> or <i>an extraordinary manner,</i> or <i>rate, of going, by reason of briskness, liveliness,</i> or <i>sprightliness.</i> (T.)       -A2-  See also ذَاْلَانٌ.    </entryFree> <br>\
+<b>ذَوُولٌ</b>               1     <br>\
+                     ذَوُولٌ<br>\
+                     ذ<br>\
+                   Anything [or any animal] <i>Quick,</i> or <i>swift.</i> (T.) [See also دَوُولٌ.]    </entryFree> <br>\
+<b>ذُوَالَةُ</b>               1     <br>\
+                     ذُوَالَةُ<br>\
+                     ذ<br>\
+                  <i>The wolf:</i> (T, S, M, K:) so called because of his light walk or manner of going; (A &#39;Obeyd, T, S;) or because of a lightness in his running: (M:) it is determinate, (S, M, K, TA,) and imperfectly decl., being a proper name and [grammatically] of the fem. gender: (TA:) pl. ذِيْلَانٌ and ذُوْلَانٌ. (M, K.) One says, خَشِّ ذُوَالَةَ <br>\
+                  بَالحِبَالَةِ [<i>Frighten thou the wolf with the snare</i>]: (S, Meyd, TA:) a prov., applied to him whose threatening is not regarded: meaning threaten thou other than me; for I know thee: (Meyd,  TA:) or, accord. to A&#39;Obeyd, said by him who orders one to menace and threaten. (Meyd.) [See also ذَاْلَانٌ.]    </entryFree> <br>\
+<b>مِذْاَلٌ</b>               1     <br>\
+                     مِذْاَلٌ<br>\
+                     ذ<br>\
+                  <i>Light and quick.</i> (Ibn-&#39;Abbád, TA.)   </entryFree> <br>\
+' } );

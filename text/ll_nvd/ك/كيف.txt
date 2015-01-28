@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'كيف2<br>\
+كَيَّفْتُهُ فَتَكَيَّفَ<br>\
+, used by the Muslim theologians, (K, TA,) verbs derived from كَيْفَ,<br>\
+(TA,) [signifying I specified by the ascription of<br>\
+its quality and it became so specified,] are formed<br>\
+in accordance with analogy, not heard from the<br>\
+Arabs. (K, * TA.)<br>\
+5<br>\
+تَكَيَّفَ<br>\
+: see what next precedes.<br>\
+كَيْفِيَّةٌ<br>\
+Quality as answering to “ how? ”; mode,<br>\
+or manner, of being.<br>\
+كَيْفُوفِيَّةٌ<br>\
+for كَيْفِيَّةٌ: see تَيْسِيَّةٌ.<br>\
+' } );

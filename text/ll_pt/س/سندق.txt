@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سندق</em>            1                  سندق<br>\
+<b>سُنْدُوقٌ</b>               1     <br>\
+                     سُنْدُوقٌ<br>\
+                     ذ<br>\
+                   a dial. var. of صُنْدُوقٌ, q. v.; (Fr, L, K;) like زُنْدُوقٌ: (TA:) pl. سَنَا=دِيقُ. (L.)   </entryFree> <br>\
+' } );

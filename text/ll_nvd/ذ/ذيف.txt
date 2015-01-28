@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'ذيفذِيفَانٌ and ذَيْفَانٌ (S, M, K) and ذَيَفَانٌ (M, K)<br>\
+Deadly poison: (S, M, K:) or poison that takes<br>\
+effect; or that remains fixed, and collects: (M:)<br>\
+a dial. var. of ذِئْفَانٌ &amp;c., (K,) and ذُوفَانٌ. (M.)<br>\
+And the second of these words, Death: so in the<br>\
+saying, سَقَاهُ اللّٰهُ كَأْسَ الذَّيْفَانِ [May God give<br>\
+him to drink the cup of death]; as mentioned by<br>\
+Lh. (M.)<br>\
+' } );

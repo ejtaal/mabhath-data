@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'نهم1<br>\
+نَهِمَ<br>\
+He had an inordinate desire or appetite<br>\
+(S, Msb, K) for food. (S, K.)<br>\
+نهَِيمٌ<br>\
+A chiding of camels. (TA.)<br>\
+طَرِيقٌ نَهَّامٌ<br>\
+A road wherein is [heard] a<br>\
+chiding of camels: (TA:) see حَنَّانٌ.<br>\
+' } );

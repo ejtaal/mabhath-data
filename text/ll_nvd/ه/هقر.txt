@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هقرهِقْوَرٌّ<br>\
+A large, long-bodied man. (Az, in TA,<br>\
+voce هِرْدَبَّةٌ.)<br>\
+' } );

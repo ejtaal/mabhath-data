@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>وصى</em>            1                  وصى<br>\
+<b>وَصَّاهُ</b>               1     <br>\
+                     وَصَّاهُ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      اَوْصَاهُ <br>\
+                  <i>He enjoined him; charged him; bade him; ordered him:</i> (K, &amp;amp;c.:) <i>he commanded him,</i> <br>\
+                  بِكَذَا, <i>to do such a thing.</i> (Msb.)    </entryFree> <br>\
+<b>اَوْصَى لَهُ بِالثُّلُثِ</b>               1     <br>\
+                     اَوْصَى لَهُ بِالثُّلُثِ<br>\
+                     ذ<br>\
+                  <i>He bequeathed to him the third</i> of the property. (MA.) ―         -b2-  اَوْصَى <br>\
+                  <i>He made his will.</i> ―         -b3-  See 2.    </entryFree> <br>\
+<b>تَوَاصَوْا</b>               1     <br>\
+                     تَوَاصَوْا<br>\
+                     ذ<br>\
+                  <i>They enjoined, charged, bade, ordered,</i> or <i>commanded, one another.</i> See an ex. voce تَبَاعَثُوا.    </entryFree> <br>\
+<b>وَصِىٌّ</b>               1     <br>\
+                     وَصِىٌّ<br>\
+                     ذ<br>\
+                  <i>A person commissioned; a commissioned agent:</i> (K:) <i>an executor appointed by a will.</i>    <br>\
+<b>وَصِيَّةٌ</b>               1     <br>\
+                     وَصِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>An injunction, a charge, bidding, order,</i> or <i>command:</i> (K:) <i>an admonition, with an endeavour to persuade:</i> and <i>a command:</i> its place may be supplied by any word in which is the meaning of اَمْرٌ. (Msb.) ―         -b2-  And <i>A will,</i> or <i>testament.</i> (K, * TA.)   </entryFree> <br>\
+' } );

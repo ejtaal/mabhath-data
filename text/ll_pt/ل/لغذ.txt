@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لغذ</em>            1                  لغذ<br>\
+<b>لَاغَذَهُ</b>               1     <br>\
+                     لَاغَذَهُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  ضَايَقَهُ. (TA, voce ذَاقَنَهُ.)   </entryFree> <br>\
+' } );

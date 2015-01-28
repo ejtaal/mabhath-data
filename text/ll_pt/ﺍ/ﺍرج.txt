@@ -1,0 +1,61 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ارج&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ارج<br>\
+&lt;entryFree id=&quot;n546&quot; key=&quot;اَرِجَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرِجَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرَجَ<br>\
+                  &lt;/form&gt;, inf. n. اَرَجٌ (S, A, Msb, K) and اَرِيجٌ (S, A, K) and اَرِيجَةٌ, (K, [in which it is only mentioned as syn. with the first and second of these ns., so that it may be a simple subst.,]) &lt;i&gt;It&lt;/i&gt; (perfume) &lt;i&gt;diffused,&lt;/i&gt; or &lt;i&gt;exhaled, its odour;&lt;/i&gt; (S, A;) as also ↓ <br>\
+      تا=رّج: (A:) &lt;i&gt;it had a hot,&lt;/i&gt; or &lt;i&gt;strong, odour;&lt;/i&gt; syn. تَوَهَّجَ رِيحُهُ. (S, A, K.) ―         -b2-  &lt;i&gt;It&lt;/i&gt; (a place) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, strongly fragrant.&lt;/i&gt; (Msb.)       -A2-  اَرَجَ: see 2, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n547&quot; key=&quot;ارّج&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ارّج<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [and app. ↓ <br>\
+      اَرَجَ also,] &lt;i&gt;He perfumed&lt;/i&gt; a thing; &lt;i&gt;made&lt;/i&gt; it &lt;i&gt;fragrant.&lt;/i&gt; (Ham p. 135.) ―         -b2-  [Both also app. signify &lt;i&gt;He made&lt;/i&gt; perfume &lt;i&gt;to diffuse,&lt;/i&gt; or &lt;i&gt;exhale, its odour:&lt;/i&gt; or &lt;i&gt;made&lt;/i&gt; it &lt;i&gt;to have a hot,&lt;/i&gt; or &lt;i&gt;strong, odour.&lt;/i&gt; ―         -b3-  And hence,] ارّج, inf. n. تَاْرِيجٌ; (S, K) and ↓ <br>\
+      اَرَجَ, (TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرُجَ<br>\
+                  &lt;/form&gt;, (TK,) inf. n. اَرْجٌ; (K, TA;) (assumed tropical:)  &lt;i&gt;He excited discord, dissension, disorder, strife, quarrelling,&lt;/i&gt; or &lt;i&gt;animosity,&lt;/i&gt; (S, K, TA,) بَيْنَ القَوْمِ <br>\
+                  &lt;i&gt;between,&lt;/i&gt; or &lt;i&gt;among, the people,&lt;/i&gt; or &lt;i&gt;company of men,&lt;/i&gt; like اَرَّشَ, (S, TA,) and فِي الحَرْبِ <br>\
+                  &lt;i&gt;in war.&lt;/i&gt; (TA.) And ارّج الحَرْبَ, (S, K, TA, and Ham ubi suprà,) and ↓ <br>\
+      اَرَجَهَا, (TA,) (assumed tropical:)  &lt;i&gt;He kindled war,&lt;/i&gt; or &lt;i&gt;the war;&lt;/i&gt; (S, TA, and Ham ubi suprà;) and in like manner, النَّارَ <br>\
+                  &lt;i&gt;the fire.&lt;/i&gt; (IAar, Ham.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَرَّجَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n548&quot; key=&quot;اَرَجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرَجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (L) and ↓ <br>\
+      اَرِيجٌ and ↓ <br>\
+      اَرِيجَةٌ (ISd, TA) &lt;i&gt;A sweet odour:&lt;/i&gt; (ISd, L, TA:) pl. of the last, اَرَايِجُ. (ISd, TA.) [See also 1.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n549&quot; key=&quot;اَرِجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Perfume &lt;i&gt;diffusing,&lt;/i&gt; or &lt;i&gt;exhaling, its odour: having a hot,&lt;/i&gt; or &lt;i&gt;strong, odour.&lt;/i&gt; (TA.) ―         -b2-  Applied also to a place: you say, مَكَانٌ اَرِجٌ <br>\
+                  &lt;i&gt;A strongly fragrant place:&lt;/i&gt; (Msb:) and بَيْتٌ اَرِجٌ بِالِّيبِ [&lt;i&gt;a house,&lt;/i&gt; or &lt;i&gt;chamber, fragrant,&lt;/i&gt; or &lt;i&gt;strongly fragrant, with perfume&lt;/i&gt;]. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n550&quot; key=&quot;اَرِيجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِيجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرَجٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n551&quot; key=&quot;اَرِيجَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِيجَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرَجٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n552&quot; key=&quot;اَرَّاجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرَّاجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (K) and ↓ <br>\
+      مِيْرَجٌ (TA) (assumed tropical:)  &lt;i&gt;A liar:&lt;/i&gt; and one &lt;i&gt;who excites discord, dissension, disorder, strife, quarrelling,&lt;/i&gt; or &lt;i&gt;animosity, among people.&lt;/i&gt; (K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n553&quot; key=&quot;مِيْرَجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْرَجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n554&quot; key=&quot;المُوَرَّجُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     المُوَرَّجُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;The lion.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

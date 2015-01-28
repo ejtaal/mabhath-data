@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>فستق</em>            1                  فستق<br>\
+<b>فُسْتُقٌ</b>               1     <br>\
+                     فُسْتُقٌ<br>\
+                     ذ<br>\
+                   and فُسْتَقٌ, (O, Msb, K,) the latter the more agreeable with the original, (O,) which is پِسْتَه, (O, K,) a Pers. word, (O,) for from this each is arabicized; (O, Msb, * K;) [The <i>pistachio-nut, pistacia vera</i> of Linn.;] <i>a certain fruit;</i> (O;) [in the Msb بقل; perhaps a mistranscription for نقل, i. e. نَقْلٌ, <i>a certain fruit that is eaten with wine;</i>] <i>well known:</i> (K:) said in a verse of Aboo-Nukheyleh to be مِنَ البُقُولِ: thus, and thus only, with ب, the phrase is related: if it were من النُّقُولِ, the mistake would be removed: (O:) Az says that the فستقة [which is the n. un.] is <i>a fruit of a well-known tree:</i> and AHn says, “ It has not come to my knowledge that it grows in the land of the Arabs: ” (TA:) it is good for the liver, and the mouth of the stomach, and the colic, and the odour of the mouth. (K. [In the CK, النَّهَكَةِ is put for النَّكْهَةِ.]) The vulgar pronounce the word with fet-h [to the ف, saying فَسْتُق: and many of them say فِسْتُق]. (Msb.)    </entryFree> <br>\
+<b>ثَوْبٌ فُسْتُقِىٌّ</b>               1     <br>\
+                     ثَوْبٌ فُسْتُقِىٌّ<br>\
+                     ذ<br>\
+                   [meaning <i>A garment of the colour of the</i> <br>\
+                  فُسْتُق] is [thus] with damm [to the ف and ت]. (Msb.)   </entryFree> <br>\
+' } );

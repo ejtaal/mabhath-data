@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>فو</em>            1                  فو<br>\
+<b>فُو</b>               1     <br>\
+                     فُو<br>\
+                     ذ<br>\
+                  , with the و quiescent, [<i>Valerian;</i>] <i>a certain medicine,</i> (K, TA,) <i>a diuretic,</i> (CK,) <i>beneficial as a remedy for pain of the side and for alopecia.</i> (K, TA.)       -A2-  As a prefixed noun, signifying The <i>mouth,</i> see voce فُوهٌ, in art. فوه.    </entryFree> <br>\
+<b>فُوَّةٌ</b>               1     <br>\
+                     فُوَّةٌ<br>\
+                     ذ<br>\
+                  , (T, S, M, K,) like قُوَّةٌ [in form], (S, K,) [<i>Madder;</i> the <i>species thereof used by dyers; rubia tinctorum;</i>] <i>certain roots</i> (Lth, T, S, M, K) <i>of a plant</i> (M) <i>which are extracted from the earth,</i> (Lth, T, M,) <i>with which they dye</i> (Lth, T, S, M, K) <i>clothes,</i> or <i>garments:</i> (Lth, T:) AHn says, <i>red roots of a plant which rises slender, having upon its head berries intensely red and having much juice used for writing therewith and variegating:</i> (M:) <i>called in Pers.</i> <br>\
+                  رُويَن: (PS: [in a copy of the T رُوَين or دُوَين: and in my copies of the S روَينه and رُويَنَهٌ:]) <i>it is</i> [<i>also used as</i>] <i>a medicine, having the property of causing abortion,</i> (K,) <i>producing a flow of the urine and of the men strual discharge,</i> (K, * TA,) <i>aperient, clearing the complexion</i> or <i>skin, clearing the skin from every mark of the ringworm and of the white</i> [<i>species of leprosy termed</i>] يَهَق: (K:) it has been mentioned also in the K as ending with [a radical] ه [i. e. written فُوَّةٌ, in art. فوه]; but, as is said by Lth, [and in the T,] the final letter is that which denotes the fem gender. (TA.)    </entryFree> <br>\
+<b>مَفْوَاةٌ</b>               1     <br>\
+                     مَفْوَاةٌ<br>\
+                     ذ<br>\
+                  ; pl. مَفَاوٍ: see the following paragraph.    </entryFree> <br>\
+<b>مُفَوًّى</b>               1     <br>\
+                     مُفَوًّى<br>\
+                     ذ<br>\
+                  <i>Dyed with</i> <br>\
+                  فُوَّة; applied to a garment; (T, S, M, K;) and to a hide. (M.) ―         -b2-  And مُفَوَّاةٌ A land (اَرْضٌ) <i>abounding with</i> <br>\
+                  فُوّة: (AHn, M, K:) or having in it فُوّة: (M:) and مُفَبَّاةٌ signifies the same: (TA in art. غبى:) or you say ارض مَفواة من المفاوِى [i. e. ↓ <br>\
+      مَفْوَاةٌ. of which the pl., without the article, is مَفَاوٍ]; (T;) المَفَاوِى signifying the lands (الاَرَضُونَ) <i>that give growth to</i> <br>\
+                  فُوَّة. (TA.)   </entryFree> <br>\
+' } );

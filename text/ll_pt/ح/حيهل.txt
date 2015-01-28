@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>حيهل</em>            1                  حيهل<br>\
+<b>حَيْهَلٌ</b>               1     <br>\
+                     حَيْهَلٌ<br>\
+                     حيهل<br>\
+                   (En-Nadr, AHn, K) and حَيَّهْلٌ and حَيِّهْلٌ (K) <i>A certain shrub of the smaller kind of</i> <br>\
+                  حَمْض, <i>having no leaves:</i> (En-Nadr, AHn, K:) or the <i>species of</i> <br>\
+                  حَمْض <br>\
+                  <i>termed</i> <br>\
+                  هَرْم: (AA, TA:) a coll. gen. n.: (TA:) n. un. with ة: (K:) so called because, <i>when rain falls upon it, it grows quickly; and when the camels eat it, and do not speedily void their excrement, they die:</i> (AA, TA: [see the next paragraph:]) at the end of a verse of Homeyd Ibn-Thowr, the name is written الحَيَّهُلٌ, with the vowel of the ل transferred to the ه. (AHn, K.)    </entryFree> <br>\
+<b>حَيَّهَلَ</b>               1     <br>\
+                     حَيَّهَلَ<br>\
+                     حيهل<br>\
+                   and حَيَّهَلٌ and حَيَّهَلَنْ and حَيَّهَلًا and حَيَّهَلَا words used in inciting, or urging on: see more in art. حى; (K;) and in art. هل. (TA.)   </entryFree> <br>\
+' } );

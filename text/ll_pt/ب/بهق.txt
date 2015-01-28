@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>بهق</em>            1                  بهق<br>\
+<b>بَهِقَ</b>               1     <br>\
+                     بَهِقَ<br>\
+                     بهق<br>\
+                  , aor.      <br>\
+                     بَهَقَ<br>\
+                  , inf. n. بَهَقٌ, <i>It</i> (the body) <i>was,</i> or <i>became, affected with</i> [<i>the disease termed</i>] بَهَقٌ. (Msb.)    </entryFree> <br>\
+<b>بَهَقٌ</b>               1     <br>\
+                     بَهَقٌ<br>\
+                     بهق<br>\
+                   [The <i>mild species of leprosy termed “alphus,” or “vitiligo alba;” in Hebrew</i>        <br>\
+                  <orth lang=&quot;he&quot;>בֹּהַק</orth>;] <i>a whiteness, less than what is termed</i> <br>\
+                  بَرَصٌ, <i>that comes upon the external skin of a man;</i> (JK;) <i>a whiteness that affects the skin,</i> (S,) or <i>body,</i> (Mgh, Msb,) <i>differing from the colour of the latter;</i> (S, Msb;) <i>not from what is termed</i> <br>\
+                  بَرَص, (S, Mgh,) or <i>not</i> <br>\
+                  بَرَص: (Msb:) and, accord. to IF, <i>a blackness that affects the skin;</i> [i. e. the <i>species of leprosy termed “melas,” or “lepra maculosa nigra;”</i>] or <i>a colour differing from that of the skin:</i> (Msb:) <i>a thin whiteness that affects the exterior of the cuticle, by reason of a bad state of the temperament of the part, inclining to coldness, and the predominance of the phlegm over the blood: the black</i> [<i>species</i>] <i>thereof alters</i> (يُغَيِّرُ, in the CK يَعْتَرِى,) <i>the skin to blackness, by reason of the mixing of the black bile with the blood.</i> (K, TA.) ―         -b2-  [Hence,] بَهَقُ الحَجَرِ (assumed tropical:)  [<i>Lichen,</i> or <i>liverwort;</i>] <i>a certain plant;</i> (K;) i. e. حَزَّازُ الحَجَرِ [more commonly called حَزَّازُ <br>\
+                  الصَّخْرِ]: (TA:) or <i>i. q.</i> <br>\
+                  الجَوْزُ الجَنْدُمَ, (K, TA,) or الجَوْزَ جَنْدُمَ, (CK,) [evidently from the Persian جَوْزِ گَنْدُمَ explained in Johnson&#39;s Pers. Ar. and Engl. Dict. as “sandix-gum, juniper:” but SM says that] this is <i>a certain plant, the body</i> [or <i>substance</i>] <i>of which is</i> <br>\
+                  مُحَبَّب [app. meaning <i>composed of globules</i> or <i>the like;</i> probably <i>a particular species of lichen, with spherical cells</i>]. (TA.)    </entryFree> <br>\
+<b>اَبْهَقُ</b>               1     <br>\
+                     اَبْهَقُ<br>\
+                     ذ<br>\
+                  , applied to a man, <i>Affected with</i> [<i>the disease termed</i>] بَهَقٌ: (JK, Msb:) fem. بَهْقَا=ءُ. (Msb.) ―         -b2-  [And hence,] so applied, (assumed tropical:)  <i>Very white.</i> (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>نفز</em>            1                  نفز<br>\
+<b>نَفَزَ</b>               1     <br>\
+                     نَفَزَ<br>\
+                     ذ<br>\
+                  , (S, A, Msb, K,) aor.      <br>\
+                     نَفِزَ<br>\
+                  , (S, Msb, K,) inf. n. نَفَزَانٌ (S, K) and نَفْزٌ (Msb, TA) and نُفُوزٌ, (TA,) <i>He</i> (an antelope) <i>leaped, jumped, sprang,</i> or <i>bounded;</i> (S, A, K;) as also ↓ <br>\
+      نفّز: (A:) or <i>did so in his running:</i> (As, TA:) or <i>did so and alighted with his legs spread:</i> when he alights with his legs together, the action is termed قَفْزٌ: (TA:) or <i>did so after putting his legs together:</i> (AZ, TA:) or <i>leaped upwards with all his legs at once and put them down without separating them:</i> (Msb:) or <i>raised his legs together and put them down together:</i> or <i>ran at the utmost vehement rate of the running termed</i> <br>\
+                  اـِحْضَار. (TA.)    </entryFree> <br>\
+                     نَفَّزَ<br>\
+                   see 1.       -A2-  نفّزهُ, (K,) or نفّزتهُ, (S, A,) <i>He,</i> or <i>she, danced,</i> or <i>dandled, him,</i> (S, A, K,) namely, a child; (S, A;) as also نقّزته. (TA, art. نقز.)    </entryFree> <br>\
+<b>تنافزوا</b>               1     <br>\
+                     تنافزوا<br>\
+                     ذ<br>\
+                  <i>They</i> (children) <i>contended together in leaping, jumping, springing,</i> or <i>bounding,</i> in play. (A, K.)    </entryFree> <br>\
+<b>نَفْزَةٌ</b>               1     <br>\
+                     نَفْزَةٌ<br>\
+                     ذ<br>\
+                   An antelope&#39;s <i>running by reason of fright.</i> (AA, TA.)    </entryFree> <br>\
+<b>نَفُوزٌ</b>               1     <br>\
+                     نَفُوزٌ<br>\
+                     ذ<br>\
+                   (S) and ↓ <br>\
+      يَنْفُوزٌ (K) An antelope <i>that leaps, jumps, springs,</i> or <i>bounds,</i> (S, K,) [<i>in one</i> or <i>other of the manners described above,</i>] <i>much,</i> or <i>vehemently.</i> (TA.)    </entryFree> <br>\
+<b>نَافِزَةٌ</b>               1     <br>\
+                     نَافِزَةٌ<br>\
+                     ذ<br>\
+                  , sing. of نَوَافِزُ, (TA,) which signifies The <i>legs</i> of a beast of carriage: (K, TA:) but the word commonly known is نَوَاقِزُ, with ق. (TA.)    </entryFree> <br>\
+<b>يَنْفُوزٌ</b>               1     <br>\
+                     يَنْفُوزٌ<br>\
+                     ذ<br>\
+                  : see نفوز.   </entryFree> <br>\
+' } );

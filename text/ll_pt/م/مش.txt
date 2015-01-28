@@ -1,0 +1,46 @@
+load_data( { book: 'll_pt', text: '<em>مش</em>            1                  مش<br>\
+<b>تَمَشْمَشَتِ الاـِبِلُ</b>               1     <br>\
+                     <i>R. Q. 2</i>        <br>\
+                     تَمَشْمَشَتِ الاـِبِلُ<br>\
+                     ذ<br>\
+                  <i>The camels became dispersed.</i> (TA in art. صعر.)   </entryFree> <br>\
+            <div2 n=&quot;ma$aqa AlxaT~a&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  مَشَقَ الخَطَّ<br>\
+<b>تَمْشِيقٌ</b>               1     <br>\
+                     تَمْشِيقٌ<br>\
+                     ذ<br>\
+                  <i>He elongated the handwriting:</i> or <i>was quick in it.</i> (M.)    </entryFree> <br>\
+<b>تَمْشِيقٌ</b>               1     <br>\
+                     تَمْشِيقٌ<br>\
+                     ذ<br>\
+                   The act of <i>lacerating much:</i> see an ex. voce دَحِيقٌ.    </entryFree> <br>\
+<b>كِتَابُ مَشْقٍ</b>               1     <br>\
+                     كِتَابُ مَشْقٍ<br>\
+                     ذ<br>\
+                  <i>Writing with spaces,</i> or <i>gaps, and with elongated letters;</i> (JK;) [or <i>quick,</i> or <i>hasty, writing;</i> (see مَشَقَ;)] <i>contr. of</i> <br>\
+                  كِتَابُ <br>\
+                  التَّحَاسِينِ. (K in art. حسن.)    </entryFree> <br>\
+<b>مِشَاقٌ</b>               1     <br>\
+                     مِشَاقٌ<br>\
+                     ذ<br>\
+                  <i>Tow; oakum.</i>    <br>\
+<b>مُشَاقَةٌ</b>               1     <br>\
+                     مُشَاقَةٌ<br>\
+                     ذ<br>\
+                   [the <i>hards,</i> or <i>hurds, of flax</i> or <i>hemp</i> and <i>any similar coarse fibres:</i> (see سَلَبٌ:) or <i>tow;</i> i. e.] <i>what falls from the combing of hair</i> and <i>flax</i> and <i>the like:</i> (S, K:) or <i>what is long:</i> or <i>not cleared:</i> (K:) or <i>what remains, of flax, after combing,</i> that is, <i>after it has been drawn through the</i> ↓ <br>\
+      مِمْشَقَة, [or <i>heckle,</i>] <i>which is a thing like a comb, whereby the best becomes cleared, the broken particles and integuments, which constitute the</i> <br>\
+                  مُشَاقَة, <i>remaining.</i> (Mgh.)    </entryFree> <br>\
+<b>مُشَّقٌ</b>               1     <br>\
+                     مُشَّقٌ<br>\
+                     ذ<br>\
+                  <i>A certain sea-fish.</i> (K, voce مُدَّجٌ: in the CK, مُشَقٌّ.)    </entryFree> <br>\
+<b>مِمْشَقَةٌ</b>               1     <br>\
+                     مِمْشَقَةٌ<br>\
+                     ذ<br>\
+                  : see مُشَاقَهٌ.    </entryFree> <br>\
+<b>مَمْشُوقٌ</b>               1     <br>\
+                     مَمْشُوقٌ<br>\
+                     ذ<br>\
+                   A man <i>light of flesh:</i> (K:) a horse <i>lean, lank, light of flesh, slender, or lank in the belly.</i> (S.) ―         -b2-  مَمْشُوقَةٌ A damsel <i>tall and slender:</i> (K:) <i>slender:</i> or <i>perfect in make, and goodly, or beautiful:</i> (Msb:) or <i>goodly, or beautiful, in stature.</i> (S.)   </entryFree> <br>\
+' } );

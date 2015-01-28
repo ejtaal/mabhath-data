@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>مدن</em>            1                  مدن<br>\
+<b>مَيْدَانٌ</b>               1     <br>\
+                     مَيْدَانٌ<br>\
+                     ذ<br>\
+                  : see art. ميد.    </entryFree> <br>\
+<b>هُوَ اْبْنُ مَدِينَتِهَا</b>               1     <br>\
+                     هُوَ اْبْنُ مَدِينَتِهَا<br>\
+                     ذ<br>\
+                  , said of a skilful guide: see بَجْدَةٌ.   </entryFree> <br>\
+' } );

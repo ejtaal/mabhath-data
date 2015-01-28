@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>كبح</em>            1                  كبح<br>\
+<b>كَبَحَ الدَّابَّةَ</b>               1     <br>\
+                     كَبَحَ الدَّابَّةَ<br>\
+                     ذ<br>\
+                  , (aor.      <br>\
+                     كَبَحَ<br>\
+                  , inf. n. كَبْحٌ, L,) <i>He pulled in the horse,</i> or <i>the like, by the bridle and bit,</i> (<i>and struck its mouth with the bit,</i> L,) <i>in order that it might stop,</i> (S, L, K,) <i>and not run;</i> (S, L;) as also ↓ <br>\
+      اَكْبَحَهَا; (Yaakoob, K;) or you say اكمحها and اكفحها and كبحها [only]; the last alone without ا: (As, S:) or <i>he</i> (the rider) <i>pulled its head towards him, and prevented its being refractory, and its overcoming him, and going quickly:</i> so in the Nh, the explanation in which is incorrectly given by  Mullà &#39;Alee Káree: (TA:) or ↓ <br>\
+      اكبحه signifies <i>he pulled up his head by the bridle, so as to make it upright,</i> or <i>erect;</i> (Msb;) and so كَبَحَهُ. (A.) ―         -b2-  كَبَحَ فُلَانًا عَنْ حَاجَتِهِ (tropical:)  <i>He turned such a one back from,</i> or <i>made him to revert from,</i> or <i>relinquish, the thing that he wanted.</i> (L, K.) ―         -b3-  كَبَحَ <br>\
+                  الحَايِطُ السَّهْمَ (tropical:)  <i>The wall made the arrow, striking it, to turn from its course, without its sticking in it.</i> (L.) ―         -b4-  كَبَحَهُ <br>\
+                  <i>He struck him</i> with a sword, (K,) <i>upon his flesh, not upon a bone.</i> (Msb.)    </entryFree> <br>\
+<b>كابحهُ</b>               1     <br>\
+                     كابحهُ<br>\
+                     ذ<br>\
+                  : see قابحه.    </entryFree> <br>\
+                     اَكْبَحَ<br>\
+                   see 1, in two places.    </entryFree> <br>\
+<b>كَابِحٌ</b>               1     <br>\
+                     كَابِحٌ<br>\
+                     ذ<br>\
+                  <i>That which presents itself before thee,</i> (K,) or <i>he who presents himself before thee,</i> (T, L,) <i>of such objects as are of evil omen,</i> (T, L, K,) <i>as a he-goat &amp;amp;c.;</i> (L;) because it turns him back from his course: (TA:) pl. كَوَابِحُ. (L, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>لعق</em>            1                  لعق<br>\
+<b>لَعِقَ</b>               1     <br>\
+                     لَعِقَ<br>\
+                     ذ<br>\
+                  <i>He licked</i> (S, K, TA) <i>his fingers:</i> (TA:) <i>he ate</i> a thing <i>with his finger</i> [<i>by taking</i> it <i>up therewith</i>]. (Msb.)     <br>\
+<b>لَعُوقٌ</b>               1     <br>\
+                     لَعُوقٌ<br>\
+                     ذ<br>\
+                  <i>A linctus.</i>    <br>\
+<b>مِلْعَقَةٌ</b>               1     <br>\
+                     مِلْعَقَةٌ<br>\
+                     ذ<br>\
+                   [<i>A spoon;</i> vulgo مَعْلَقَة;] <i>a well-known instrument.</i> (Msb.)   </entryFree> <br>\
+' } );

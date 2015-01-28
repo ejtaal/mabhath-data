@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>نها</em>            1                  نها<br>\
+<b>نَهِيَ</b>               1     <br>\
+                     نَهِيَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَهَاَ<br>\
+                  ; and نَهُوَ, aor.      <br>\
+                     نَهُاَ<br>\
+                  ; (S, K;) and نَهُوَ; (as in one copy of the S;) inf. n. نَهْءٌ (S, K) and نَهَاٌ (S) and نَهَا=ءَةء (S, K) and نُهُوْءَةٌ (K) and نُهُوْءٌ (S, K) and نَهَاوَةٌ, (the last dev. from rule); (K;) <i>It</i> (flesh-meat) <i>was not,</i> or <i>did not become, thoroughly cooked.</i> (S, K.) ―         -b2-  مَا اُبَالِى مَا نَهِيَ <br>\
+                  مِنْ ضَبِّكَ وَلَا مَا نضِجَ [<i>I care not what is insufficiently cooked, of thy</i> <br>\
+                  ضَبّ, <i>nor what is thoroughly cooked:</i> i. e. I care not whether evil or good befall thee]. (S, * TA,) A proverb. (TA.)       -A2-  شَرِبَ حَتَّى نَهَاَ, aor.      <br>\
+                     نَهَاَ<br>\
+                  , <i>He drank till he was full.</i> (K, * TA.)    </entryFree> <br>\
+<b>انها</b>               1     <br>\
+                     انها<br>\
+                     ذ<br>\
+                   (S, K) inf. n. اـِنْهَا=ءٌ, (S,) <i>He insufficiently cooked</i> flesh-meat. (S, K.) ―         -b2-  <i>He did</i> a thing <i>not firmly, not soundly, not thoroughly.</i> (K.)    </entryFree> <br>\
+<b>نُهُوْءٌ</b>               1     <br>\
+                     نُهُوْءٌ<br>\
+                     ذ<br>\
+                   The <i>state of being not thoroughly cooked.</i> (TA.)    </entryFree> <br>\
+<b>نَهِىْءٌ</b>               1     <br>\
+                     نَهِىْءٌ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      مُنْهَاٌ (S) <i>Insufficiently cooked</i> flesh-meat. (S, K.)    </entryFree> <br>\
+<b>نَاهِيٌ</b>               1     <br>\
+                     نَاهِيٌ<br>\
+                     ذ<br>\
+                  <i>Satiated with food and with drink.</i> (IAar.)    </entryFree> <br>\
+<b>مُنْهَاٌ</b>               1     <br>\
+                     مُنْهَاٌ<br>\
+                     ذ<br>\
+                  : see نَهِىْءٌ.   </entryFree> <br>\
+' } );

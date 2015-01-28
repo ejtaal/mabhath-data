@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>ضعو</em>            1                  ضعو<br>\
+<b>ضَعَا</b>               1     <br>\
+                     ضَعَا<br>\
+                     ذ<br>\
+                  <i>He hid,</i> or <i>concealed, himself.</i> (ISd, K.)    </entryFree> <br>\
+<b>ضَعَةٌ</b>               1     <br>\
+                     ضَعَةٌ<br>\
+                     ذ<br>\
+                  , (S, K,) originally ضَعْوٌ, or ضَعَوٌ, (accord. to different copies of the S,) the ة being a substitute [for the و], because of the form of its pl. [and of the rel. n.]; or, as some say, the ة is a substitute for an initial و, and it is mentioned also in art. وضع; (S;) <i>A species of tree,</i> (S, K, TA,) <i>in the desert:</i> or it is [<i>a plant</i>] <i>like the</i> [<i>species of panic grass called</i>] ثُمَام: (TA:) accord. to Az, <i>a species of</i> <br>\
+                  ثُمَام: (TA in art. ثم:) or <i>another plant:</i> and some pronounce it ضِعَةٌ; but this is in الحَسَب [or grounds of pretension to respect &amp;amp;c.], and does not belong to the present art.: (TA:) the pl. is ضَعَوَاتٌ. (S, TA.) [Golius says, on the authority of Meyd, that it also signifies The <i>reed of which writing-reeds are made.</i>]    </entryFree> <br>\
+<b>ضَعَوِىٌّ</b>               1     <br>\
+                     ضَعَوِىٌّ<br>\
+                     ذ<br>\
+                  <i>Of,</i> or <i>relating to, the</i> <br>\
+                  ضَعَة <br>\
+                  <i>above mentioned.</i> (S, K.)   </entryFree> <br>\
+' } );

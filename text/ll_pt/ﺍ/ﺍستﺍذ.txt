@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;استاذ&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  استاذ<br>\
+&lt;entryFree id=&quot;n727&quot; key=&quot;اُسْتَاذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُسْتَاذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a foreign word, pronounced to be such because س and ذ do not occur in any one Arabic word, (Msb,) not found in the poetry of the pagan times, (Ibn-Dihyeh in TA art. ستذ,) nor in the language of those times, (Shifá el-Ghaleel, ibid.,) [arabicized from the Persian اُسْتَادْ,] &lt;i&gt;A master:&lt;/i&gt; (MF:) &lt;i&gt;a skilful man, who is held in high estimation:&lt;/i&gt; (Msb:) &lt;i&gt;a preceptor; a tutor; a teacher: a craftmaster:&lt;/i&gt; (Ibn-Dihyeh; and Golius on the authority of Meyd:) [and so in the present day; as also اُسْتَا and اُسْطَا:] also applied by the vulgar to &lt;i&gt;a eunuch;&lt;/i&gt; because he generally tutors children: (Shifá el-Ghaleel, and Ibn-Dihyeh:) pl. اُسْتَاذُونَ (Har p. 377) [and اَسَاتِيذُ and اَسَاتِذَةٌ; and vulgarly, in the present day, اُسْتَوَاتٌ and اُسْطَوَاتٌ].   &lt;/entryFree&gt; <br>\
+' } );

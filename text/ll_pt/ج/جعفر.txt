@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>جعفر</em>            1                  جعفر<br>\
+<b>جَعْفَرٌ</b>               1     <br>\
+                     جَعْفَرٌ<br>\
+                     جعفر<br>\
+                  <i>A small river; a rivulet, streamlet,</i> or <i>brook;</i> (IAar, S, K;) or <i>one that is larger than a</i> <br>\
+                  جَدْوَلٌ: (K:) or, as in the Nawádir, <i>a small river, larger than a</i> <br>\
+                  جدول: (TA:) or <i>a river,</i> IDrd, IJ, TA,) absolutely: (TA:) if small, it is a فَلَج: (IDrd, TA:) or (TA, but in the K “ and ”) <i>a large, wide river:</i> (Ibn-El-Ajdábee, K:) [if so,] bearing two contr. significations: (K:) or (in some copies of the K “ and ”) <i>a full river.</i> (K.) ―         -b2-  Also (from the last of these significations, TA) (tropical:)  A she-camel <i>abounding with milk.</i> (K, TA.)   </entryFree> <br>\
+' } );

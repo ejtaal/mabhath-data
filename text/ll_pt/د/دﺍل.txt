@@ -1,0 +1,58 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;دال&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  دال<br>\
+&lt;entryFree id=&quot;n11929&quot; key=&quot;دَاَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     دَاَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَاََ<br>\
+                  &lt;/form&gt;, inf. n. دَاْلٌ (S, M, K) and دَاَلٌ (K [perhaps a mistake for the next, which is well known but not mentioned in the K, but see ذَاَلَ,]) and دَاَلَانٌ (S, M) and دَاَلَى, (M, K,) &lt;i&gt;He walked,&lt;/i&gt; or &lt;i&gt;went, in a weak manner,&lt;/i&gt; (M, K,) &lt;i&gt;and with haste:&lt;/i&gt; (M:) or &lt;i&gt;he ran with short steps:&lt;/i&gt; (M, K:) or &lt;i&gt;he walked,&lt;/i&gt; or &lt;i&gt;went, in a brisk,&lt;/i&gt; or &lt;i&gt;sprightly, manner:&lt;/i&gt; (K:) or &lt;i&gt;he walked,&lt;/i&gt; or &lt;i&gt;went, as though labouring in his gait, by reason of briskness,&lt;/i&gt; or &lt;i&gt;sprightliness:&lt;/i&gt; (M:) [or &lt;i&gt;he went along by little and little, stealthily, lest he should make a sound to be heard:&lt;/i&gt; for] دَاْلٌ is &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  خَتْلٌ: or, accord. to AZ, it signifies the &lt;i&gt;walking,&lt;/i&gt; or &lt;i&gt;going, in a manner resembling that which is termed&lt;/i&gt; <br>\
+                  خَتْلٌ; and &lt;i&gt;in the manner of him who is heavily burdened,&lt;/i&gt; or &lt;i&gt;overburdened:&lt;/i&gt; and As, in describing the manner in which horses go, explains دَاَلَانٌ as signifying the &lt;i&gt;walking,&lt;/i&gt; or &lt;i&gt;going, with short steps, and in an unusual manner, as though heavily burdened,&lt;/i&gt; or &lt;i&gt;overburdened.&lt;/i&gt; (S.) [See also ذَاَلَ.] ―         -b2-  [Hence, app.,] دَاَلَ لَهُ, aor. as above, inf. n. دَاْلٌ and دَاَلَانٌ, &lt;i&gt;He deceived, deluded, beguiled, circumvented,&lt;/i&gt; or &lt;i&gt;outwitted, him;&lt;/i&gt; syn. خَتَلَهُ: (M, K:) [and ↓ <br>\
+      دَااَلَهُ signifies the same: or &lt;i&gt;he practised with him mutual deceit, delusion,&lt;/i&gt; &amp;amp;c.: for] مُدَااَلَةٌ is &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  مُخَاتَلَةٌ; and sometimes it is &lt;i&gt;with a quick pace:&lt;/i&gt; (AA, T, K:) you say, دَاَلْتُ لَهُ and دَااَلْتُهُ: (AA, T, TA:) and الذِّيْبُ بَدْاَلُ لِلْغَزَالِ لِيَاْكُلَهُ i. e. يَخْتُلُهُ [&lt;i&gt;The wolf deceives,&lt;/i&gt; &amp;amp;c., &lt;i&gt;the gazelle,&lt;/i&gt; or &lt;i&gt;young gazelle, that he may eat him&lt;/i&gt;]. (AZ, T, TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     دَاََّ<br>\
+                  &lt;/form&gt; see the last sentence of the paragraph above.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11930&quot; key=&quot;دَاْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَاْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph, in four places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11931&quot; key=&quot;دُوُلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دُوُلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph, in four places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11932&quot; key=&quot;دُيِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دُيِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and sometimes it is pronounced ↓ <br>\
+      دُوُلٌ, The &lt;i&gt;jackal;&lt;/i&gt; as also ↓ <br>\
+      دَاَلَانٌ and ↓ <br>\
+      دَاْلٌ: and the &lt;i&gt;wolf:&lt;/i&gt; and &lt;i&gt;a certain small animal resembling what is called&lt;/i&gt; <br>\
+                  اِبْنُ عِرْسٍ [&lt;i&gt;the weasel&lt;/i&gt;]: (K accord. to the TA: [accord. to the CK, and app. most MS. copies of the K, ↓ <br>\
+      دَاْلٌ has the last two significations, and not the first signification: but this is inconsistent with what follows the last signification in the K, as it would require us to read that الدَّاْلُ, instead of الدُّيِلُ, which is well known as the correct form, is the name of the father of a certain tribe:]) دُيِلٌ has the last of these significations: (T, S:) or it signifies &lt;i&gt;a certain small animal resembling the fox;&lt;/i&gt; and this is well known: and accord. to Kr. ↓ <br>\
+      دُوُلٌ signifies &lt;i&gt;a certain small animal;&lt;/i&gt; but this is not known: and accord. to him also, ↓ <br>\
+      دَاَلَانٌ, with fet-h to the ء, signifies the &lt;i&gt;wolf;&lt;/i&gt; (M;) as also ذَاَلَانٌ; (TA;) or so ↓ <br>\
+      دَاْلَانٌ and ذَاْلَانٌ; and also the &lt;i&gt;jackal.&lt;/i&gt; (Lth in art. ذال.) دُيِلٌ is the only instance of the measure فُعِلٌ (S, K) known to Ahmad Ibn-Yahyà, (S,) i. e. Th: (TA:) but there are several other instances: (MF, TA:) [one of these is رُيِمٌ, or الرُّيِمُ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11933&quot; key=&quot;دَاْلَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَاْلَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and دَاَلَانٌ: see the next preceding paragraph, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11934&quot; key=&quot;دُوْلُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دُوْلُولٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A calamity,&lt;/i&gt; or &lt;i&gt;misfortune:&lt;/i&gt; (S, M, O, K:) pl. دَا=لِيلُ. (S.) And &lt;i&gt;Confusion.&lt;/i&gt; (K.) You say, وَقَعَ القَوْمُ فِى دُوْلُولٍ <br>\
+                  &lt;i&gt;The people,&lt;/i&gt; or &lt;i&gt;party, fell into confusion in respect of their case&lt;/i&gt; or &lt;i&gt;affairs.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11935&quot; key=&quot;دَوُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَوُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;That runs in the manner termed&lt;/i&gt; <br>\
+                  دَاَلَانٌ, inf. n. of 1,] is [an epithet] from الدالان [i. e. الدَّاَلَانُ], which signifies &lt;i&gt;a kind of running,&lt;/i&gt; as also ↓ <br>\
+      دَاالين and ↓ <br>\
+      دااليل [i. e. دَا=لِينُ and دَا=ليلُ, pls. of دَاَلَانٌ; the latter irreg., like ذَا=لِيلُ pl. of دَاَلَانٌ, q. v.]. (Ham p. 458.) [See also ذَوُولٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11936&quot; key=&quot;دَا=لِيلُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَا=لِيلُ<br>\
+                     دا=ليل<br>\
+                  &lt;/form&gt; and دَا=لِينُ: see what next precedes.   &lt;/entryFree&gt; <br>\
+' } );

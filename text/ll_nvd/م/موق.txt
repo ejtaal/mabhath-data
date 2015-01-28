@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'موقموقٌ<br>\
+[Stupidity;] foolishness with lack of<br>\
+understanding. (S, K.)<br>\
+-A2-  A kind of boot: see<br>\
+جُرْمُوقٌ.<br>\
+' } );

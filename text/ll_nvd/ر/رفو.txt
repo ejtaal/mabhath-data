@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'رفو1<br>\
+رَقَا, aor. يَرْقُو, inf. n. رَقْوٌ, said of a bird, It<br>\
+rose, or rose high, in its flight. (Msb, TA.)<br>\
+تَرْقُوَةٌ, mentioned in this art. in the K, as well<br>\
+as in art. ترق: see the latter art.<br>\
+' } );

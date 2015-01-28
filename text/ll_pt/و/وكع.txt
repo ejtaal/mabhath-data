@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وكع</em>            1                  وكع<br>\
+<b>وَكَعَةٌ</b>               1     <br>\
+                     وَكَعَةٌ<br>\
+                     ذ<br>\
+                   pl. of وَكِيعٌ, like as خَبَثَةٌ is of خَبِيثٌ, <i>Base:</i> see a verse cited voce اَحْصَنَ.   </entryFree> <br>\
+' } );

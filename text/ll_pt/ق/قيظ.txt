@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قيظ</em>            1                  قيظ<br>\
+<b>قَيْظِىٌّ</b>               1     <br>\
+                     قَيْظِىٌّ<br>\
+                     ذ<br>\
+                  : on the نِتَاج thus called see صَفَرِىٌّ.   </entryFree> <br>\
+' } );

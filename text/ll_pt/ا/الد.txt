@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>الد</em>            1                  الد<br>\
+<b>اـِلَادَةٌ</b>               1     <br>\
+                     اـِلَادَةٌ<br>\
+                     الاده<br>\
+                     الادة<br>\
+                   &amp;amp;c. for وِلَادَةٌ &amp;amp;c. : see art. ولد.   </entryFree> <br>\
+' } );

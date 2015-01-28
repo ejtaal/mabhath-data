@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كفن5<br>\
+تَكَفَّنُوا بأَنْطَاعٍ<br>\
+[They wrapped themselves<br>\
+with<br>\
+' } );

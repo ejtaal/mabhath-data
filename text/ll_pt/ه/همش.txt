@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>همش</em>            1                  همش<br>\
+<b>اِهْتِمَاشٌ</b>               1     <br>\
+                     اِهْتِمَاشٌ<br>\
+                     ذ<br>\
+                   The <i>intermingling,</i> or <i>interpenetrating.</i> (KL.) ―         -b2-  And the <i>proceeding slowly.</i> (KL.) See قَرْتَنَ.   </entryFree> <br>\
+' } );

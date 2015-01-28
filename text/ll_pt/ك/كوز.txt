@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>كوز</em>            1                  كوز<br>\
+<b>كَازَ</b>               1     <br>\
+                     كَازَ<br>\
+                     ذ<br>\
+                  , aor. يَكُوزُ, (TA,) inf. n. كَوْزٌ, (K,) <i>He collected</i> a thing. (K *, TA.)       -A2-  <i>He drank with a</i> <br>\
+                  كُوز; (K, * TA;) as also ↓ <br>\
+      اكتاز. (TA.)    </entryFree> <br>\
+<b>تكوّزوا</b>               1     <br>\
+                     تكوّزوا<br>\
+                     ذ<br>\
+                  <i>They collected themselves together.</i> (Sgh, K.)    </entryFree> <br>\
+<b>اكتازهُ</b>               1     <br>\
+                     اكتازهُ<br>\
+                     ذ<br>\
+                  <i>He ladled it out</i> (namely water, S, A) <i>with a</i> <br>\
+                  كُوز. (S, A, K.) ―         -b2-  See also 1.    </entryFree> <br>\
+<b>كُوزٌ</b>               1     <br>\
+                     كُوزٌ<br>\
+                     ذ<br>\
+                  <i>A kind of vessel,</i> (TA,) <i>well-known,</i> (A, K,) [namely, <i>a mug,</i> or <i>drinking-cup,</i>] <i>with a handle:</i> (IAar, TA:) AHn says, that it is a Persian word; but ISd denies this, and asserts it to be genuine Arabic: it is said to be from كَازَ “ he collected: ” (TA:) pl. [of pauc.] اَكْوَازٌ, and [of mult.] كِيزَانٌ and كِوَزَةٌ. (S, K.)    </entryFree> <br>\
+<b>كَوَّازَةٌ</b>               1     <br>\
+                     كَوَّازَةٌ<br>\
+                     ذ<br>\
+                   [app. <i>A stand,</i> or <i>a shelf, upon which mugs</i> (كِيزَان) <i>are placed:</i> see بَرَّادَةٌ]. (Lth, T, art. برد.)    </entryFree> <br>\
+<b>رَجُلٌ مُكَوَّزُ الرَّاْسِ</b>               1     <br>\
+                     رَجُلٌ مُكَوَّزُ الرَّاْسِ<br>\
+                     ذ<br>\
+                  <i>A man having a long head.</i> (A, K.)   </entryFree> <br>\
+' } );

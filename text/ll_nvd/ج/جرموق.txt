@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'جرموقجُرْمُوقٌ [A kind of galoche;] a thing that is<br>\
+worn over the [kind of boot called] خُفّ; (S, Mgh,<br>\
+Msb, K;) called in Persian خَرْكَشْ: (Mgh:) or<br>\
+a small خُفّ (JK, TA) which is worn over the<br>\
+[ordinary] خُفّ: (TA:) an arabicized word;<br>\
+(S;) [probably from the Persian چَرْم “ leather,”<br>\
+and مُوق, which is said by some to be arabicized,<br>\
+but by ISd to be a genuine Arabic word, meaning “ a kind of خُفّ: ” or it may be from سَرْمُوزَهْ,<br>\
+given as its Persian equivalent in the PS:] pl.<br>\
+جَرَامِيقُ. (Msb.)<br>\
+' } );

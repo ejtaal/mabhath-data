@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'همرجلهَمَرْجَلٌ<br>\
+A bulky she-camel. (IAar, TA, voce<br>\
+شَمَرْدَلٌ.)<br>\
+' } );

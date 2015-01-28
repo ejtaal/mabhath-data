@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'لكأ1<br>\
+لَكَأَ, aor.<br>\
+لَكَاَ, (K,) inf. n. لَكْءٌ, (TA,) He beat<br>\
+a person (K) with a whip. (TA.) ―<br>\
+-b2-  لَكَأَ بِهِ الأَرْضَ<br>\
+He cast him upon the ground. (AZ, S.) [See<br>\
+زَكَأَ, and لَتَأَ.] ―<br>\
+-b3-  لَكَأَهُ He prostrated him. (K.)<br>\
+-A2-<br>\
+لَكَأَهُ He gave him the whole of what was due to<br>\
+him: (K:) like لَفَأَهُ. (T.)<br>\
+-A3-  لَكِئَ, aor.<br>\
+لَكَاَ, He<br>\
+stayed, dwelt, or abode, (K,) in a place: like<br>\
+لَكِىَ. (TA.) لكئ بِمَوْضِعٍ He kept, or remained<br>\
+fixed, in a place. (K, * TA.)<br>\
+5<br>\
+تلكّأ عَلَيْهِ He excused himself to him; he<br>\
+pleaded an excuse to him. (K.) ―<br>\
+-b2-  تلكّأ عَنْهُ He<br>\
+was slow to do it; delayed to do it; (S, K, TA;)<br>\
+excused himself, or pleaded an excuse, for not<br>\
+doing it; refused to do it, or abstained from<br>\
+doing it. (TA.)<br>\
+' } );

@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>لغو</em>            1                  لغو<br>\
+<b>لَاغَاهُ</b>               1     <br>\
+                     لَاغَاهُ<br>\
+                     ذ<br>\
+                  <i>He jested,</i> or <i>joked, with him;</i> inf. n. مُلَاغَاةٌ. (A, TA.) You say, لَاغَاهُ فِى البَيْعِ. (A, TA, art. كيس.)    </entryFree> <br>\
+<b>لَغْوٌ</b>               1     <br>\
+                     لَغْوٌ<br>\
+                     ذ<br>\
+                  , applied to speech, &amp;amp;c., <i>Nought; of no account;</i> (M, K;) <i>unprofitable.</i> (M.) ―         -b2-  اليَمِينُ <br>\
+                  اللَّغْوُ: see KT, voce يَمِينٌ.    </entryFree> <br>\
+<b>اللُّغَةُ</b>               1     <br>\
+                     اللُّغَةُ<br>\
+                     ذ<br>\
+                  <i>The genuine language</i> of the Arabs; which is <i>the classical language.</i>    <br>\
+<b>لُغَوِىٌّ</b>               1     <br>\
+                     لُغَوِىٌّ<br>\
+                     ذ<br>\
+                  <i>Of,</i> or <i>relating to, the genuine language</i> of the Arabs. مَعْنًى لُغَوِىٌّ <br>\
+                  <i>A genuine lexicological meaning.</i>    <br>\
+<b>لُغَيَّةٌ</b>               1     <br>\
+                     لُغَيَّةٌ<br>\
+                     ذ<br>\
+                  <i>A word of weak authority.</i> (TA, voce جِرَاب, et passim.)    </entryFree> <br>\
+<b>لَاغٍ</b>               1     <br>\
+                     لَاغٍ<br>\
+                     ذ<br>\
+                  : see مَايِرٌ.   </entryFree> <br>\
+' } );

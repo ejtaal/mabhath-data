@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>ضمحن</em>            1                  ضمحن<br>\
+<b>اِضْمَحَنَّ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اِضْمَحَنَّ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اِضْمَحَلَّ [q. v. in art. ضحل]; formed from the latter by substitution [of ن for ل: mentioned by Yaakoob. (TA: and mentioned in the K in art. ضمحل.)   </entryFree> <br>\
+' } );

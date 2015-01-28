@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اهب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اهب<br>\
+&lt;entryFree id=&quot;n1424&quot; key=&quot;اهّبهُ لِلْاَمْرِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اهّبهُ لِلْاَمْرِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [inf. n. تَاْهِيبٌ,] &lt;i&gt;He furnished, prepared, equipped,&lt;/i&gt; or &lt;i&gt;accoutred, him, for the thing,&lt;/i&gt; or &lt;i&gt;affair; he furnished him,&lt;/i&gt; or &lt;i&gt;provided him, with the apparatus, gear, tackling, implements, instruments, tools,&lt;/i&gt; or &lt;i&gt;the like, proper,&lt;/i&gt; or &lt;i&gt;necessary, for it.&lt;/i&gt; (MF.) ―         -b2-  اهّب الاَمْرَ <br>\
+                  &lt;i&gt;He prepared the thing,&lt;/i&gt; or &lt;i&gt;affair.&lt;/i&gt; (MF.) ―         -b3-  See also 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1425&quot; key=&quot;تاهّب&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاهّب<br>\
+                     ذ<br>\
+                  &lt;i&gt;He furnished, prepared, equipped,&lt;/i&gt; or &lt;i&gt;accoutred, himself; furnished,&lt;/i&gt; or &lt;i&gt;provided, himself with proper,&lt;/i&gt; or &lt;i&gt;necessary, apparatus, gear, tackling, implements, instruments, tools,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; (S, A, Msb, K;) لِلسَّفَرِ <br>\
+                  &lt;i&gt;for journeying;&lt;/i&gt; (Msb;) or لِلْاَمْرِ <br>\
+                  &lt;i&gt;for the thing,&lt;/i&gt; or &lt;i&gt;affair;&lt;/i&gt; as also ↓ <br>\
+      اهّب. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1426&quot; key=&quot;اَهَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَهَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِهَابٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1427&quot; key=&quot;اُهْبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُهْبَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Apparatus, equipments, equipage, accoutrements, furniture, gear, tackling, implements, instruments, tools,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; (S, A, Msb, K;) as in اُهْبَةُ الحَرْبِ [&lt;i&gt;the apparatus, arms, weapons, equipage,&lt;/i&gt; or &lt;i&gt;accoutrements, of war&lt;/i&gt;]; (S;) as also هُبَةٌ: (K:) pl. of the former, اُهَبٌ. (S, Msb.) You say, اَخَذَ لِذٰلِكَ الاَمْرِ اُهْبَتهُ [&lt;i&gt;He took his apparatus, &amp;amp;c., for that thing,&lt;/i&gt; or &lt;i&gt;affair;&lt;/i&gt; also meaning, &lt;i&gt;he made his preparation,&lt;/i&gt; or &lt;i&gt;he prepared himself, for it&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1428&quot; key=&quot;اـِهَابٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِهَابٌ<br>\
+                     اهاب<br>\
+                     اـهاب<br>\
+                     اهاب<br>\
+                     هاب<br>\
+                  &lt;i&gt;A skin,&lt;/i&gt; or &lt;i&gt;hide,&lt;/i&gt; (A, Msb, K,) in an absolute sense, (A,) of a bull or cow, sheep or goat, or wild animal: (TA:) or &lt;i&gt;a skin,&lt;/i&gt; or &lt;i&gt;hide, not yet tanned:&lt;/i&gt; (S, A, Mgh, Msb, K:) and sometimes applied to the &lt;i&gt;skin&lt;/i&gt; of a man: (Msb:) pl. (of pauc., TA) ا=هِبَةٌ (IAar, K) and (of mult., TA) اُهُبٌ, (S, A, Mgh, Msb, Msb, K,) with two dammehs, (Mgh, Msb,) and ↓ <br>\
+      اهَبٌ, (S, Msb, K,) contr. to rule, (S, Msb,) or, accord. to Sb, (L,) this last is a quasi-pl. n.: (Mgh, L:) in one copy of the K, it is written ا=هُب. (TA.) You say, جَاعُوا حَتَّى <br>\
+                  اَكَلُوا الاُهُبَ [&lt;i&gt;They hungered so that they ate the skins,&lt;/i&gt; or &lt;i&gt;hides&lt;/i&gt;]. (A.) And كَادَ يَخْرُجُ مِنْ اـِهَابِهِ <br>\
+                  فِى عَدْوِهِ (assumed tropical:)  [&lt;i&gt;He almost issued from his skin in his running&lt;/i&gt;]. (A.) And حَقَنَ الدِّمَا=ءَ فِى اُهُبِهَا (assumed tropical:)  [&lt;i&gt;He spared the people&#39;s blood in their bodies&lt;/i&gt;]. (TA, from a trad.)   &lt;/entryFree&gt; <br>\
+' } );

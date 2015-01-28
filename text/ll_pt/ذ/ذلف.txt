@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>ذلف</em>            1                  ذلف<br>\
+<b>ذَلِفَ</b>               1     <br>\
+                     ذَلِفَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     ذَلَفَ<br>\
+                  , inf. n. ذَلَفٌ, said of a nose, <i>It was short and small:</i> (M, Msb:) or <i>short in the bone, and small in the tip,</i> or <i>lower portion:</i> or ذَلَفٌ is <i>like</i> <br>\
+                  خَنَسٌ [inf. n. of خَنِسَ, q. v.]: (M:) or the verb means <i>it was small, and even in the tip,</i> or <i>lower portion:</i> (S, * K:) or <i>small and slender:</i> or <i>thick and even in the lower extremity;</i> (M, K;) or, as some say, <i>it had in it what resembled a pit,</i> or <i>depression;</i> (M;) <i>not being very thick</i> (لَيْسَ بِجِدِّ غَلِيظٍ): (M, K: * [in the latter I find لَيْسَ بِحَدٍّ غَلِيظٍ, which I doubt not to be a mistranscription:]) or <i>it was short in the tip,</i> or <i>lower portion, and even in the bone, without prominence.</i> (M.) And said of a man, <i>He had a nose such as is above described.</i> (S, K.)    </entryFree> <br>\
+<b>اَذْلَفُ</b>               1     <br>\
+                     اَذْلَفُ<br>\
+                     ذ<br>\
+                   A man <i>having a nose such as is described above:</i> (S, Msb, K:) or <i>having a short and slender nose:</i> (Mgh:) fem. ذَلْفَا=ءُ: (S, Mgh, Msb, K:) pl. ذُلْفٌ. (S, K.) And A nose <i>such as is described above.</i> (K.) ―         -b2-  And ذُلْفٌ, applied to sands, (assumed tropical:)  <i>Even and compact;</i> as also دُكٌّ. (AHn, M.)   </entryFree> <br>\
+' } );

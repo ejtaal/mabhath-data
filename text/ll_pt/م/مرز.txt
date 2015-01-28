@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>مرز</em>            1                  مرز<br>\
+<b>مَرْزٌ</b>               1     <br>\
+                     مَرْزٌ<br>\
+                     ذ<br>\
+                   [an inf. n.] <i>i. q.</i> <br>\
+                  عَيْبٌ; as also لَمْزٌ. (Fr in TA, art. لمز.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'عرضنعِرْضَنٌ:<br>\
+-A2-  and عِرَضْنَةٌ and عِرِضْنَةٌ: عِرَضْنَى<br>\
+and its dim. عُرَيْضِنٌ: see art. عرض.<br>\
+' } );

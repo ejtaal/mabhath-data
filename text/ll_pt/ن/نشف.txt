@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>نشف</em>            1                  نشف<br>\
+<b>نَشَفَ المَا=ءَ</b>               1     <br>\
+                     نَشَفَ المَا=ءَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَشِفَ<br>\
+                  , (Mgh, Msb,) inf. n. نَشْفٌ, (Msb,) <i>He took</i> [or <i>absorbed</i>] <i>the water from the ground,</i> (Mgh, Msb,) or <i>from a pool,</i> (Mgh,) <i>with a piece of rag</i> or <i>some other thing</i> (Mgh, Msb) <i>of a similar kind.</i> (Msb.)    </entryFree> <br>\
+<b>نَشَّفَتْ</b>               1     <br>\
+                     نَشَّفَتْ<br>\
+                     ذ<br>\
+                  <i>She</i> (a camel) [<i>yielded frothy milk;</i>] <i>had</i> <br>\
+                  نُشَافَة. (S in art. رغو. [See 2 in that art.])    </entryFree> <br>\
+<b>اَنْشَفَ الاَرْضَ المَا=ءَ</b>               1     <br>\
+                     اَنْشَفَ الاَرْضَ المَا=ءَ<br>\
+                     ذ<br>\
+                   [<i>It caused the earth to imbibe the water</i>], said of the سَمُوم. (K voce اَضْرَبَ.)    </entryFree> <br>\
+<b>مِنْشَفَةٌ</b>               1     <br>\
+                     مِنْشَفَةٌ<br>\
+                     ذ<br>\
+                   (pl. مَنَاشِف) <i>A drying-towel; napkin.</i>   <br>\
+' } );

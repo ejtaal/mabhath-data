@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'هندسهَنْدَسَةٌ [The art of determining the measures<br>\
+and proportions of subterranean channels for<br>\
+water: and hence, the art of architecture: and<br>\
+the practice, and science, of geometry:] a subst.<br>\
+from مُهَنْدِسٌ, q. v. (S, K.)<br>\
+مُهَنْدِسٌ One who determines the measures<br>\
+and proportions of subterranean channels for<br>\
+water: [and hence, an architect: and a geometrician: derived from هِنْدَازٌ, (S, K,) which is<br>\
+Persian [in origin], (S,) arabicized from آبْ<br>\
+أَنْدَازْ; (K;) انداز signifying “ the act of measuring,” and آب signifying “ water; ” (TA;) the<br>\
+ز being changed into س because there is not in<br>\
+the [genuine] language of the Arabs a ز after د.<br>\
+(S, K.)<br>\
+' } );

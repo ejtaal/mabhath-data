@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كرثا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كرثا<br>\
+&lt;entryFree id=&quot;n36850&quot; key=&quot;كَرْثَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     كَرْثَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [inf. n, كَرْثَاَةٌ;] and ↓ <br>\
+      تكرثا; [like كرفا and تكرفا;] &lt;i&gt;It&lt;/i&gt; (hair, K, or a collection of clouds, TA, &amp;amp;c, K) &lt;i&gt;became large in quantity,&lt;/i&gt; (K,) &lt;i&gt;and intricate,&lt;/i&gt; or &lt;i&gt;confused;&lt;/i&gt; in the dial. of the tribe of Asad; (TA;) &lt;i&gt;and heaped up.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;R. Q. 2&lt;/itype&gt;        <br>\
+                     &lt;orth lang=&quot;ar&quot;/&gt;<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36851&quot; key=&quot;كِرْثِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كِرْثِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Clouds high and piled up, one upon another.&lt;/i&gt; (K.)       -A2-  كِرْثِيٌ <br>\
+                  &lt;i&gt;An egg-shell.&lt;/i&gt; (K, TA.) Accord. to Sb, from كرَث. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36852&quot; key=&quot;كَرْثِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَرْثِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see كِرْثِيَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36853&quot; key=&quot;كِرْثِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كِرْثِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      كَرْثِيَةٌ <br>\
+                  &lt;i&gt;Dense and tangled&lt;/i&gt; plants. (K.)       -A2-  كِرْثِيَةٌ and ↓ <br>\
+      كَرِْثيَةٌ <br>\
+                  &lt;i&gt;The froth of churned milk, when the milk of an ewe is milked upon it and it rises in consequence thereof.&lt;/i&gt; Accord. to Sb, from كرث. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36854&quot; key=&quot;بُسْرٌ كَرَاثَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُسْرٌ كَرَاثَا=ءُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and كَرِيثَا=ءُ: see art. كرث.   &lt;/entryFree&gt; <br>\
+' } );

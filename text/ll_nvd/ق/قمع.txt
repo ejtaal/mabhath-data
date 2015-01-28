@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'قمع1<br>\
+قَمَعَهُ<br>\
+: see قَمَأَهُ.<br>\
+قَمِعُ البُسْرِ<br>\
+What sticks to the date, around its<br>\
+stalk: (Mgh:) the base of the date. (Mgh,<br>\
+art. ذنب.) See ثُفْرُوقٌ. ―<br>\
+-b2-  See also a use of the<br>\
+pl. أَقْمَاع, voce دَرْدَار. ―<br>\
+-b3-  قِمَعُ الأُذُونِ<br>\
+The meatus<br>\
+of the ear: see جُلْجُلاَنٌ.<br>\
+' } );

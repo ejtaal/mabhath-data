@@ -1,0 +1,43 @@
+load_data( { book: 'll_nvd', text: 'حوت1<br>\
+حَاتَ عَلَى الشَّىْءِ, aor. يَحُوتُ, (S,) inf. n.<br>\
+حَوْتٌ and حَوَتَانٌ, (K,) (assumed tropical:)  He went, or circuited,<br>\
+round about the thing; said of a bird, (S, K,<br>\
+TA,) going, or circuiting, round about water<br>\
+[like a fish (حُوت) in water]; (TA;) and of a<br>\
+wild animal: (K:) as also حات بِهِ. (TA.)<br>\
+3<br>\
+حاوتهُ (tropical:) He strove, or endeavoured, to turn<br>\
+him, or to entice him to turn, syn. رَاوَغَهُ, (S, L,<br>\
+A, &amp;c.,) in the K رَاغَمَهُ, but the former is the<br>\
+right explanation, (TA,) عَنْ شَىْءٍ from a thing,<br>\
+as, for instance, his family, and his property;<br>\
+(S, TA;) (tropical:)  he strove, or endeavoured, to beguile<br>\
+him. (A.) You say, ظَلَّ يُحَاوِتُنِى بِخُدَعَةٍ (tropical:)  He<br>\
+passed the day striving, or endeavouring, to turn<br>\
+me, or entice me, by guile, like as the fish (حُوت)<br>\
+does in the water. (A.) ―<br>\
+-b2-  (assumed tropical:)  He strove, or contended, with him, to repel him. (K.) ―<br>\
+-b3-  (assumed tropical:)  He<br>\
+consulted him, or consulted with him. (K.) ―<br>\
+-b4-<br>\
+(assumed tropical:)  He talked with him, consulting, or making promises, in the case of a sale. (K.)<br>\
+حُوتٌ Fish: (M, A, K:) or [rather] a fish:<br>\
+(S, TA:) or a great fish; any great fish: (M,<br>\
+Msb, TA:) of the masc. gender: (Msb:) pl.<br>\
+[of mult.] حِيتَانٌ (S, Msb, K) and حِوَتَةٌ and [of<br>\
+pauc.] أَحْوَاتٌ. (K.) ―<br>\
+-b2-  [Hence,] صَاحِبُ الحُوتِ<br>\
+(in the Kur lxviii. 48) [a surname of The prophet]<br>\
+Jonas. (Bd, Jel.) ―<br>\
+-b3-  [Hence also,] الحُوتُ (assumed tropical:)  [The<br>\
+constellation Pisces;] a certain sign of the Zodiac.<br>\
+(S, K.) And الحُوتُ الجَنُوبِىُّ (assumed tropical:)  The constellation<br>\
+Piscis Australis. (Kzw &amp;c.) And فَمُ الحُوتِ<br>\
+(assumed tropical:)  The bright star [a, called by European astronomers Fomalhaut,] in the mouth of Piscis<br>\
+Australis. (Kzw &amp;c.)<br>\
+حُوتِىٌّ [Of, or relating to, or like, a fish, or<br>\
+great fish]. You say, هُوَ حُوتِىُّ الاِلْتِقَامِ [He is<br>\
+like a fish, or great fish, in swallowing]. (A, TA.)<br>\
+حَيُّوتٌ The male of the حَيَّة [or serpent]. (A.)<br>\
+[But the proper place of this is art. حيو.]<br>\
+' } );

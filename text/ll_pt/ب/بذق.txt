@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>بذق</em>            1                  بذق<br>\
+<b>بَذْقٌ</b>               1     <br>\
+                     بَذْقٌ<br>\
+                     ذ<br>\
+                  : see بَيْذَقٌ, in two places.    </entryFree> <br>\
+<b>بَاذَقٌ</b>               1     <br>\
+                     بَاذَقٌ<br>\
+                     ذ<br>\
+                   (Mgh, K) and ↓ <br>\
+      بَاذِقٌ (K) [in my copy of the Msb erroneously written باذيق] a Persian word, arabicized; originally بَادَهْ, which signifies <i>Wine:</i> (A&#39;Obeyd, TA:) or <i>juice of grapes cooked in the least degree, so as to be strong</i> (Mgh, Msb, K) <i>and intoxicating;</i> an arabicized word; (Msb;) said to have been introduced by the Benoo-Umeiyeh, (TA,) and to have been unknown to the Prophet; (Mgh;) but there is a trad. of I&#39; Ab which is understood to mean that the Prophet forbade what is thus called: (Mgh, TA:) some assert it to mean that it existed not in his time; (TA;) but this latter assertion is weak. (Mgh.)    </entryFree> <br>\
+<b>بَاذِقٌ</b>               1     <br>\
+                     بَاذِقٌ<br>\
+                     ذ<br>\
+                  : see above.       -A2-  It is also an imitative sequent to حَاذِقٌ. (K.)    </entryFree> <br>\
+<b>بَيْذَقٌ</b>               1     <br>\
+                     بَيْذَقٌ<br>\
+                     ذ<br>\
+                   [meaning <i>A pawn</i>] <i>in the game of chess</i> is from ↓ <br>\
+      بَيَاذَقَةٌ; (TA;) which latter signifies <i>footmen, as opposed to horsemen,</i> (AO, K, TA,) and is an arabicized word, from the Persian, (AO, TA,) originally پِيَادَهْ: (TA:) the pl. of بيذق is بَيَاذِقُ; for which a poet uses بُذُوقٌ, as though he suppressed the ى [in the sing.], making بيذق to become ↓ <br>\
+      بَذْقٌ: (Ibn-Buzurj, TA:) or, accord. to El-Khárzenjee, (JK, TA,) ↓ <br>\
+      بَذْقٌ signifies <i>a guide in a journey;</i> as also بَيْذَقٌ: (JK, K, TA:) or [in the CK “and”] <i>small and light</i> or <i>active:</i> (K, TA:) or, as in the Tekmileh, (TA,) <i>short and light</i> or <i>active:</i> (JK, TA:) and its pl. is بُذُوقْ. (JK, K.)    </entryFree> <br>\
+<b>بَيَاذِقَةٌ</b>               1     <br>\
+                     بَيَاذِقَةٌ<br>\
+                     ذ<br>\
+                  : see بَيْذَقٌ.   </entryFree> <br>\
+' } );

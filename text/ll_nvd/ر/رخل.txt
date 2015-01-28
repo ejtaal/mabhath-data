@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'رخلرِخْلٌ A ewe-lamb; (S, K;) as also ↓ رِخْلَةٌ and<br>\
+↓ رَخِلٌ: (K:) the male is called حَمَلٌ: (S:) pl.<br>\
+[of pauc.] أَرْخُلٌ (K) and [of mult.] رِخَالٌ and<br>\
+رُخَالٌ (S, K,) which last is of an extr. form,<br>\
+(TA,) and رِخْلَانٌ and رَخَلَةٌ and رِخَلَةٌ. (K.)<br>\
+رَخِلٌ: see the preceding paragraph.<br>\
+رِخْلَةٌ: see the preceding paragraph.<br>\
+مُتَرَخِّلٌ A possessor and rearer of ewe-lambs. (S.)<br>\
+' } );

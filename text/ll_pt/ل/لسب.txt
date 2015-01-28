@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>لسب</em>            1                  لسب<br>\
+<b>لَسَبَهُ</b>               1     <br>\
+                     لَسَبَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَسِبَ<br>\
+                  , (S, K,) and      <br>\
+                     لَسَبَ<br>\
+                  , (K,) inf. n. لَسْبٌ, (S,) <i>It</i> (a scorpion, S, or a serpent or other thing, K, as a scorpion, and wasp, but generally said of a scorpion, TA,) <i>stung him,</i> or <i>bit him.</i> (S, K.) ―         -b2-  لَسَبَهُ اَسْوَاطًا <br>\
+                  <i>He flogged him with whips.</i> (S.) لَسَبَهُ بِالسَّوْطِ <br>\
+                  <i>He flogged him with the whip.</i> (K.) ―         -b3-  لَسِبَ, aor.      <br>\
+                     لَسَبَ<br>\
+                  , (S, K,) inf. n. لَسْبٌ, (S,) <i>He licked</i> honey, (S, K,) or the like, (K,) as clarified butter. (TA.)       -A2-  لَسِبَ بِهِ, aor.      <br>\
+                     لَسَبَ<br>\
+                  , <i>It adhered, clave,</i> or <i>stuck, to it,</i> or <i>in it:</i> (S, K:) like لَصِبَ. (S.)    </entryFree> <br>\
+<b>لَسْبَةٌ</b>               1     <br>\
+                     لَسْبَةٌ<br>\
+                     ذ<br>\
+                  , like لَعْقَةٌ, <i>A single lick</i> of honey or the like. (TA.)    </entryFree> <br>\
+<b>مَا تَرَكَ لَسُوبًا</b>               1     <br>\
+                     مَا تَرَكَ لَسُوبًا<br>\
+                     ذ<br>\
+                  , and ↓ <br>\
+      لَسُّوبًا, <i>He left not anything:</i> [lit., <i>what might be licked off</i>]. (K.) [See also كَسُوبٌ.]    </entryFree> <br>\
+<b>لَسُّوبًا</b>               1     <br>\
+                     لَسُّوبًا<br>\
+                     ذ<br>\
+                  : see لَسُوبًا.   </entryFree> <br>\
+' } );

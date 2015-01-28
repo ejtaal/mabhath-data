@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>لثا</em>            1                  لثا<br>\
+<b>لَثَاَ</b>               1     <br>\
+                     لَثَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَثَاَ<br>\
+                  , <i>He</i> (a dog) <i>put his muzzle into a vessel &amp;amp;c., and lapped.</i> (K.) Omitted by J because held by him incorrect. (TA.)   </entryFree> <br>\
+            <div2 n=&quot;lvd lvT lvg lvq lvm lvY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot;<br>\
+                  part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لثد لثط لثغ لثق لثم لثى<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

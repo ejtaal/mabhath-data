@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>فوفل</em>            1                  فوفل<br>\
+<b>انفوفل</b>               1     <br>\
+                     انفوفل<br>\
+                     ذ<br>\
+                  , (K, [there said to be بِالضَمِّ وَالفَتْحِ, app. indicating that it is الفُوفُلُ and الفَوْفَلُ, but accord. to the CK and TK الفُوفَلُ, and thus only, as though it were said to be بَالضَّمِّ فَالَفْتِح.]) or شَجَرَةٌ الفَوْفَلِ, (thus written in the (??) [in the TT, as from the M, شجر الفوفل, thus, without the affix ة to the former (??), and without any vowel sign,]) accord. to AHn, (M,) or Aboo-Ziyád, (O,). <i>A palm-tree, (??),</i> or <i>betel nut palm,</i>] <i>like the (??), that (??) racemes (??) which are the</i> <br>\
+                  فوفل, <i>resembling</i> (??), (M, O, K,) <i>of which some are (??) and some (??), not of the growth of the land of the Arab:</i> (O:) [in one of my copies of the S, the فوْفَل (thus the word is there written) is said to be <i>a tree like the coco(??) not</i> in the other copy it is not mentioned:] the فوفل is said by AHn to be <i>the fruit of a certain palm-tree, (??) as though it were (??):</i> (M:) in the T(??) (??) it is said to be <i>a fruit like the Syrian</i> <br>\
+                  جَوْز [(??)], <i>of (??) astringent quality, found upon trees resembling the (??):</i> (TA:) <i>it is good for (??) and gross (??),</i> (K, TA.) <i>(??) (??);</i> (TA;) <i>and for infla(??) of the (??),</i> (K, TA,) <i>(??) dressing and (??) and (??) (??) digestive.</i> (TA.)   </entryFree> <br>\
+' } );

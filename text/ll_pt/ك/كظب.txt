@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>كظب</em>            1                  كظب<br>\
+<b>كَظَبَ</b>               1     <br>\
+                     كَظَبَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَظُبَ<br>\
+                  , inf. n. كُظُوبٌ, <i>He became full of fat:</i> (IAar, K:) like حَظَبَ. (TA.)   </entryFree> <br>\
+' } );

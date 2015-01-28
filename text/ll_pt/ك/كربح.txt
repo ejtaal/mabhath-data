@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>كربح</em>            1                  كربح<br>\
+<b>كَرْبَحَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     كَرْبَحَ<br>\
+                     ذ<br>\
+                  <i>He prostrated</i> another: or, [evidently a mistake for and,] inf. n. كَرْبَحَةٌ, <i>he ran heavily;</i> (K;) as also كَرْمَحَ: (TA:) and <i>he ran at a slower pace than that termed</i> <br>\
+                  كَرْدَحَةٌ, (K,) or كَرْدَمَةٌ, which is a pace of the ass and mule only. (L.)   </entryFree> <br>\
+' } );

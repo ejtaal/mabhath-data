@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'ولحوَلِيحَةٌ A [sack of the kind called] غِرَارَة: (S,<br>\
+L, K:) or such as is called a جُوَالِق: or a<br>\
+large and wide جوالق: (L:) and a date-basket<br>\
+of palm-leaves; syn. جُلَّةٌ: (S, L, K:) and a<br>\
+sack or the like forming one half of a beast&#39;s<br>\
+load, in which are carried perfumes and clothes<br>\
+(بَزّ) and the like: (L:) n. un. of وَلِيجٌ, pl.<br>\
+وَلَائِحُ. (S, L, K.)<br>\
+' } );

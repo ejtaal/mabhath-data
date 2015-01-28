@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>ثنتان</em>            1                  ثنتان<br>\
+<b>ثِنْتَانِ</b>               1     <br>\
+                     ثِنْتَانِ<br>\
+                     ثنة<br>\
+                     ثنتان<br>\
+                   fem. of اِثْنَانِ, which see in art. ثنى.   </entryFree> <br>\
+            <div2 n=&quot;vnd and vndA&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  ثند and ثندا<br>\
+<b>ثُنْدُوَةٌ</b>               1     <br>\
+                     ثُنْدُوَةٌ<br>\
+                     ثندوه<br>\
+                     ثندوة<br>\
+                   and ثَنْدُوَةٌ and ثُنْدُوَةٌ and ثَنْدُوَةٌ: see art. ثدا.   </entryFree> <br>\
+            <div2 n=&quot;Quasi vnw&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi ثنو<br>\
+<b>ثَنْوَى</b>               1     <br>\
+                     ثَنْوَى<br>\
+                     ثنوى<br>\
+                     ثنوي<br>\
+                   and ثُنْوَى: ثَنَوِىٌّ and ثَنَوِيَّةٌ: اِثْنَوِىٌّ: مَثْنَوِىٌّ: مَثْنَوِيَّةٌ: see art. ثنى.   </entryFree> <br>\
+' } );

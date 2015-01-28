@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>فات</em>            1                  فات<br>\
+<b>اِفْتَاَتَ عَلَىّ</b>               1     <br>\
+                     اِفْتَاَتَ عَلَىّ<br>\
+                     ذ<br>\
+                  <i>He said of me what was false:</i> (AZ, S, O:) or افتات عَلَىَّ البَاطِلَ <br>\
+                  <i>he forged against me what was false:</i> (K:) and افتات عَلَىَّ مَا لَمْ اَقُلْ <br>\
+                  <i>he forged against me what I did not say.</i> (M.)       -A2-  And افتات عَلَيْنَا <br>\
+                  <i>He was alone in his opinion against us; none sharing it with him:</i> (ISh, T, TA:) or افتات بِرَاْيِهِ <br>\
+                  <i>he was alone,</i> or <i>singular, in his opinion:</i> (ISk, S, O, K:) and in like manner in his affair, or case. (ISk, TA.) This verb, thus used, (not known to Az with a radical hemz in this sense except as mentioned by ISh and ISk, TA,) is mentioned with hemz by AA and AZ and ISk and others: it is therefore not from الفَوْتُ, unless it be an instance of the application of hemz to that to which it does not properly belong, as in the cases of حَلَّاْتُ السَّوِيقَ, and لَبَّاْتُ بِالحَجِّ, and رَثَاْتُ المَيِّتَ. (S, O.) [See also art. فوت.]       -A3-  اُفْتُيِتَ, in the pass form, <i>He</i> (a man, O) <i>died suddenly:</i> (O, K:) but this, app., [if not a mistake for اُفْتُلِتَ,] should be اُفْتِيتَ, without hemz, from مَوْتُ الفَوَاتِ. (TA.)    </entryFree> <br>\
+<b>فُوَيْتٌ</b>               1     <br>\
+                     فُوَيْتٌ<br>\
+                     ذ<br>\
+                  , applied to a man and to a woman, One <i>who follows his,</i> or <i>her, own opinion only.</i> (From a marg. note in a copy of the S. [Thus pronounced by AZ: by others, فُوَيْتٌ, without hemz: see art. فوت.])   </entryFree> <br>\
+' } );

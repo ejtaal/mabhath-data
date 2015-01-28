@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>بسن</em>            1                  بسن<br>\
+<b>ابسن</b>               1     <br>\
+                     ابسن<br>\
+                     ابسن<br>\
+                  , said of a man, <i>He was,</i> or <i>became good,</i> or <i>beautiful, in respect of his</i> <br>\
+                  سَجِيَّة [i. e. <i>natural disposition</i>], accord. to the copies of the K, but correctly, as explained by IAar, <i>his</i> <br>\
+                  سَحْنَة [i. e. <i>aspect,</i> or <i>colour,</i> &amp;amp;c.]. (TA.)    </entryFree> <br>\
+<b>بَسَنٌ</b>               1     <br>\
+                     بَسَنٌ<br>\
+                     باس<br>\
+                     بسن<br>\
+                     سن<br>\
+                   an imitative sequent to حَسَنٌ: (S, M, K:) [or it may signify <i>Beautiful in aspect</i> &amp;amp;c., from the verb above; or the verb may be from this word:] or, in the opinion of Aboo-&#39;Alee El-Kálee, originally بَسٌّ inf. n., used in the sense of the pass. part. n., of بَسَّ السَّوِيقَ, meaning “he moistened, or stirred about, the سويق with clarified butter, or with olive-oil, to complete, or perfect, its goodness; ” one of the two س s being suppressed, and ن being added; so that it means <i>complete,</i> or <i>perfect.</i> (MF. [But this derivation seems to be extremely far-fetched.])   </entryFree> <br>\
+' } );

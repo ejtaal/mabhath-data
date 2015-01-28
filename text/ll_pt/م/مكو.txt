@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مكو</em>            1                  مكو<br>\
+<b>مُكَّا=ءٌ</b>               1     <br>\
+                     مُكَّا=ءٌ<br>\
+                     ذ<br>\
+                  <i>The bird so called,</i> because of its colour: see اَخْرَجُ.   </entryFree> <br>\
+' } );

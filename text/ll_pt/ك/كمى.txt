@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كمى</em>            1                  كمى<br>\
+<b>كَمِىٌّ</b>               1     <br>\
+                     كَمِىٌّ<br>\
+                     ذ<br>\
+                   A <i>courageous</i> man: or one <i>wearing arms</i> or <i>armour:</i> (K:) or a <i>courageous</i> man <i>covered,</i> or <i>protected, by arms</i> or <i>armour;</i> (S;) a <i>courageous armed</i> man.   </entryFree> <br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نغت1<br>\
+نَغَتَ, aor.<br>\
+نَغَتَ, inf. n. نَغْتٌ, He pulled hair;<br>\
+syn. جَذَبَ. (K.)<br>\
+' } );

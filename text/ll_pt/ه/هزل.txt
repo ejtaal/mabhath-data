@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>هزل</em>            1                  هزل<br>\
+<b>هَزْلٌ</b>               1     <br>\
+                     هَزْلٌ<br>\
+                     ذ<br>\
+                   is <i>contr. of</i> <br>\
+                  جِدٌّ. (S, Mgh, K.) You say, هَزَلَ, aor.      <br>\
+                     هَزِلَ<br>\
+                  , inf. n. هَزْلٌ; (S, Msb, K;) and هَزِلَ, aor.      <br>\
+                     هَزَلَ<br>\
+                  , (K,) inf. n. as above; (TA;) and ↓ <br>\
+      هَازَلَ; (K;) <i>He jested,</i> or <i>joked;</i> (Msb;) or <i>was not serious,</i> or <i>in earnest;</i> (TA;) فِى كَلاَمِهِ <br>\
+                  <i>in his speech;</i> (Msb, TA;) and فِى الاَمْرِ <br>\
+                  <i>in the affair.</i> (TA.)    </entryFree> <br>\
+<b>هَازَلَ</b>               1     <br>\
+                     هَازَلَ<br>\
+                     ذ<br>\
+                  <i>He jested,</i> or <i>joked.</i> (K.) See 1.    </entryFree> <br>\
+<b>هُزاَلٌ</b>               1     <br>\
+                     هُزاَلٌ<br>\
+                     ذ<br>\
+                  <i>Leanness, meagreness, emaciation: contr. of fatness.</i> (S, K.)    </entryFree> <br>\
+<b>هَزْلَى</b>               1     <br>\
+                     هَزْلَى<br>\
+                     ذ<br>\
+                  , pl. of هَزِيلٌ <br>\
+                  <i>Lean, meagre, emaciated.</i> (K, voce خَشَبٌ.)    </entryFree> <br>\
+<b>مَهْزُولٌ</b>               1     <br>\
+                     مَهْزُولٌ<br>\
+                     ذ<br>\
+                  : see two exs. in a verse cited voce عِرْضٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>مكد</em>            1                  مكد<br>\
+<b>مَكَدَ</b>               1     <br>\
+                     مَكَدَ<br>\
+                     ذ<br>\
+                  , (S, L, K,) aor.      <br>\
+                     مَكُدَ<br>\
+                  , (L,) inf. n. مُكُودٌ (S, L, K) and مَكْدٌ, (K,) <i>He remained, stayed, abode,</i> or <i>dwelt,</i> (S, L, K,) بِمَكَانٍ <br>\
+                  <i>in a place;</i> (S, L;) as also مَكَتَ. (TA.)    </entryFree> <br>\
+<b>مَاكِدٌ</b>               1     <br>\
+                     مَاكِدٌ<br>\
+                     ذ<br>\
+                   Water (L) <i>lasting,</i> or <i>continuing,</i> (L, K,) <i>unceasingly.</i> (K.) ―         -b2-  نَاقَةٌ مَاكِدَةٌ A she-camel <i>abounding with milk;</i> as also ↓ <br>\
+      مَكْدَا=ءُ: (K:) or <i>constantly,</i> or <i>always, abounding with milk;</i> (L;) as also ↓ <br>\
+      مَكْدَا=ءُ (S, L;) and ↓ <br>\
+      مَكُودٌ: (S, L, K:) like نَكْدَا=ءُ: (S, L:) pl. of مَكُودٌ, مُكْدٌ, (K,) or مُكُدٌ, and مَكَايِدُ. (L.) ―         -b3-  بِيْرٌ <br>\
+                  مَاكِدَةٌ, and ↓ <br>\
+      مَكُودٌ <br>\
+                  <i>A well having a constant,</i> or <i>unceasing, supply of water:</i> (L:) and رَكِيَّةٌ <br>\
+                  مَاكِدَةٌ <br>\
+                  <i>a well whereof the water remains without diminution</i> [to which is added عَلَى قَرْنِ واحِدٍ <br>\
+                  لَا يَتَغَيَّرُ وَالقَرْنُ قَرْنُ القَامَةِ, app. meaning, <i>of the measure of one</i> <br>\
+                  قَرْن, <i>not changing;</i> by قرن being meant the structure of stone which supports the wood whereto the pulley is suspended, and which is described as being of the proportion of a man]. (S, L.) ―         -b4-  وُدٌّ مَاكِدٌ (tropical:)  <i>Unceasing love</i> or <i>affection.</i> (L.)    </entryFree> <br>\
+<b>مَكُودٌ</b>               1     <br>\
+                     مَكُودٌ<br>\
+                     ذ<br>\
+                  : see مَاكِدٌ.    </entryFree> <br>\
+<b>مَكْدَا=ءُ</b>               1     <br>\
+                     مَكْدَا=ءُ<br>\
+                     ذ<br>\
+                  : see مَاكِدٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>كنث</em>            1                  كنث<br>\
+<b>كُنْثَةٌ</b>               1     <br>\
+                     كُنْثَةٌ<br>\
+                     ذ<br>\
+                  <i>A</i> <br>\
+                  نَوَرْدجَة (in the TA, نَوَرْدَحَة, with ح unpointed,) <i>made of myrtle, and of the branches of the</i> [<i>kind of willow called</i>] خِلَاف (<i>spread out,</i> TA), <i>upon which sweet-smelling plants are arranged,</i> or <i>disposed, in regular series, and which is then folded:</i> (Lth, K:) the Nabathean word is كنثا. (L.) It is <i>a circular thing</i> (دَايِرَة) <i>of myrtle, and of branches of willow, upon which sweet-smelling plants are disposed,</i> or <i>arranged, and which is then folded like a volume,</i> or <i>roll, and made in the form of a basket: the damsels prepare this for ornament in the days of the springseason, and amuse themselves with it.</i> <br>\
+                  نوردجة is an arabicized word, from the Persian نَوَرْدهْ, pass. part. n. of نَوَرْدِيدَنْ, and meaning “ folded, ” or “ twisted ” (TK, [as explained to me by a very learned Turk, who, however, thinks the words not very clear.])   </entryFree> <br>\
+' } );

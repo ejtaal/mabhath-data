@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>سخب</em>            1                  سخب<br>\
+<b>سَخَبٌ</b>               1     <br>\
+                     سَخَبٌ<br>\
+                     ذ<br>\
+                   [inf. n. of سَخِبَ] <i>i. q.</i> <br>\
+                  صَخَبٌ [inf. n. of صَخِبَ], (A, K,) signifying The <i>raising a loud cry,</i> or <i>a clamour:</i> (TA:) or it [is used as a subst., and] signifies <i>a confusion of sounds.</i> (Mgh, MF, TA.) The substitution of س for ص is allowable in every word containing خ: [for instance,] in a trad. [cited voce خَشَبٌ, q. v., as some relate it], the hypocrites are described as خُشُبٌ بِاللَّيْلِ سُخُبٌ بِالنَّهَارِ. (TA.)    </entryFree> <br>\
+<b>سِخَابٌ</b>               1     <br>\
+                     سِخَابٌ<br>\
+                     ذ<br>\
+                  <i>A necklace</i> (قِلَادَة) <i>made of</i> [<i>the composition termed</i>] سُكّ <br>\
+                  <i>and of other things, without any jewels:</i> (S:) or <i>a</i> <br>\
+                  قِلَادَة <br>\
+                  <i>of cloves and</i> <br>\
+                  سُكّ <br>\
+                  <i>and</i> <br>\
+                  مَحْلَب [q. v.], <i>without jewels,</i> (A, K, TA,) <i>and without pearls:</i> and likewise, <i>of gold:</i> and <i>of silver:</i> or, accord. to Az, it is, with the Arabs, <i>any</i> <br>\
+                  قِلَادَة, whether <i>with jewels</i> or <i>without:</i> accord. to IAth, <i>a string on which are strung beads, worn by boys and by girls:</i> (TA:) it is thus called because of the sound of its beads when in motion: (MF, TA:) pl. سُخُبٌ. (S, K.) [Hence] one says, وَجَدْتُكَ وَارِثَ السِّخَابِ [<i>I have found thee to be the inheritor of the</i> <br>\
+                  سخاب], meaning, (tropical:)  <i>like the boy that has no knowledge.</i> (A, TA.)   </entryFree> <br>\
+' } );

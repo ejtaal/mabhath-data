@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'نخربQ. 1<br>\
+نَخْرَبَ It (a canker-worm) pierced holes<br>\
+in, or eroded, a tree. (K.) IJ derives this verb<br>\
+from خَرَابٌ, (TA,) q. v.<br>\
+نُخْرُوبٌ; (S, K;) mentioned in the K without<br>\
+description of its measure because there is no<br>\
+Arabic word of the measure فَعْلُولْ; but some<br>\
+prefer it being written نَخْرُوبٌ, [as it is in the<br>\
+CK,] asserting its ن to be augmentative, so that<br>\
+its measure is نَفْعُولٌ, as IAar holds, asserting it<br>\
+to be derived from خَرَابٌ; (TA;) A fissure, or<br>\
+cleft, in a stone. (S, K.) ―<br>\
+-b2-  Also, [so in the<br>\
+TA: in the CK and a MS. copy, or,] A hole,<br>\
+perforation, or bore, in anything. (K.) Pl.<br>\
+نَخَارِيبُ. (S.) ―<br>\
+-b3-  Also, the pl., The holes, or<br>\
+cells, prepared with wax for the bees to deposit<br>\
+their honey therein: (K:) holes like the cells of<br>\
+wasps. (L.)<br>\
+نَخْرَبُوتٌ [i. q. تَخْرَبُوتٌ] An excellent, nimble, or<br>\
+agile, she-camel. Some say that its ن is augmentative, and its radical letters are خرب; but<br>\
+its derivation from خَرَابٌ is not apparent; therefore its ن should be considered as radical.<br>\
+(AHei.)<br>\
+شَجَرَةٌ مُنَخْرِبَةٌ, and مُنَخْرَبَةٌ, A tree that is old<br>\
+and pierced with holes. (K.)<br>\
+' } );

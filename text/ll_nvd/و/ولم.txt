@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ولموَلِيمَةٌ<br>\
+A repast prepared on the occasion of a<br>\
+wedding: (T, S, M, Mgh, Msb, K:) or, on any<br>\
+occasion. (M, Mgh, K.)<br>\
+' } );

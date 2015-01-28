@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'سلطحQ. 3<br>\
+اِسْلَنْطَحَ It (a thing) was, or became, long<br>\
+and wide. (AA, O and L in this art.: mentioned<br>\
+in the S in art. سطح.) ―<br>\
+-b2-  It (a valley) became<br>\
+wide: (K:) accord. to IF, both the ل and ن are<br>\
+added to give intensiveness to the signification.<br>\
+(O.) ―<br>\
+-b3-  He (a man) extended himself or became<br>\
+extended [app. on the ground]; syn. اِنْبَسَطَ: (L:)<br>\
+or he became thrown down upon his face: or he<br>\
+lay, or lay as though thrown down or extended:<br>\
+or he stretched himself; or lay, and stretched<br>\
+himself; upon his face, extended upon the ground:<br>\
+syn. اِنْطَبَحَ: (O:) or he lay as though thrown<br>\
+down or extended, upon the back of his neck:<br>\
+(Ibn-&#39;Abbád, O:) or he (a man, L) fell upon his<br>\
+face: (L, K:) and upon his back. (L.)<br>\
+سُلْطَحٌ, (K,) or ↓ سُلْطُوحٌ, (O,) A smooth<br>\
+mountain: (O, K:) so says Ibn-&#39;Abbád. (O.)<br>\
+سَلْطَحَةٌ, applied to a girl, or young woman.<br>\
+Broad. (K.)<br>\
+سُلْطُوحٌ: see سُلْطُحٌ.<br>\
+سُلَاطِحٌ wide. (Lth, T, O, K.) It is said of<br>\
+rain [as meaning Wide-spreading]. (O.)<br>\
+سَلَنْطَحٌ A wide open tract; (IDrd, O, K;) as<br>\
+also ↓ مُسْلَنْطِحٌ. (K.)<br>\
+مُسْلَنْطِحٌ: see what next precedes.<br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'وكعوَكَعَةٌ<br>\
+pl. of وَكِيعٌ, like as خَبَثَةٌ is of خَبِيثٌ,<br>\
+Base: see a verse cited voce أَحْصَنَ.<br>\
+' } );

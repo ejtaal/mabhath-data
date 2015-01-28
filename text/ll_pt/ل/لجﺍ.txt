@@ -1,0 +1,58 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لجا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لجا<br>\
+&lt;entryFree id=&quot;n37565&quot; key=&quot;لَجَاَ اـِلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     لَجَاَ اـِلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     لَجَاَ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. لَجْءٌ (TA) or لَجَاٌ (S) and لُجُوْءٌ (TA) and مَلْجَاٌ; (S;) and لَجِيّ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     لَجَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. لَجَاٌ; (TA;) and ↓ <br>\
+      التجا; (S, K;) &lt;i&gt;He had recourse to it,&lt;/i&gt; or &lt;i&gt;betook himself to it,&lt;/i&gt; or &lt;i&gt;repaired to it,&lt;/i&gt; (i. e. a thing or a place, TA) &lt;i&gt;for refuge, protection, preservation, concealment, covert,&lt;/i&gt; or &lt;i&gt;lodging.&lt;/i&gt; (K.) See 4. ―         -b2-  لَجَاَ اـِلَيْهِ, and ↓ <br>\
+      التجا, and ↓ <br>\
+      تلجّا, &lt;i&gt;He relied upon, and sought aid from, him.&lt;/i&gt; (TA.) ―         -b3-  لَجَاَ عَنْهُ, and ↓ <br>\
+      التجا, and ↓ <br>\
+      تلجّا, and تلجا مِنْهُ, &lt;i&gt;He declined,&lt;/i&gt; or &lt;i&gt;turned away, from him,&lt;/i&gt; <br>\
+                  اـِلَى غَيْرِهِ <br>\
+                  &lt;i&gt;to another,&lt;/i&gt; [&lt;i&gt;and had recourse to the latter.&lt;/i&gt;] (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37566&quot; key=&quot;لجّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     لجّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَلْجِيَةٌ, &lt;i&gt;He forced&lt;/i&gt; a person &lt;i&gt;to do a thing against his will:&lt;/i&gt; (S, K:) or, &lt;i&gt;to do a thing which was contrary to what it appeared to be.&lt;/i&gt; (AHeyth.) ―         -b2-  تَلْجِيَةٌ is also explained as signifying The &lt;i&gt;leaving one&#39;s property to some one&lt;/i&gt; or &lt;i&gt;more of his heirs, in preference to,&lt;/i&gt; or &lt;i&gt;to the exclusion of, the other&lt;/i&gt; or &lt;i&gt;others.&lt;/i&gt; <br>\
+                  لجّا <br>\
+                  &lt;i&gt;He so left&lt;/i&gt; his property. (ISh.) ―         -b3-  See 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37567&quot; key=&quot;الجاه اـِلى شَىْءٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     الجاه اـِلى شَىْءٍ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He constrained, compelled, forced, drove,&lt;/i&gt; or &lt;i&gt;necessitated, him to have recourse to,&lt;/i&gt; or &lt;i&gt;to betake himself to,&lt;/i&gt; or &lt;i&gt;to repair to,&lt;/i&gt; or &lt;i&gt;to do, a thing; he impelled him,&lt;/i&gt; or &lt;i&gt;drove him, against his will, to it,&lt;/i&gt; or &lt;i&gt;to do it;&lt;/i&gt; (S, * Mgh, Msb, K, * TA;) as also اـِلَيْهِ ↓ <br>\
+      لجّاهُ. (Mgh, Msb.) ―         -b2-  الجا اَمْرَهُ اـِلَى اللّٰهِ, (S, K,) and [اـِلَى اللّٰهِ] ↓ <br>\
+      لَجَاَ, and ↓ <br>\
+      التجا, and ↓ <br>\
+      تلجّا (TA,) &lt;i&gt;He referred,&lt;/i&gt; or &lt;i&gt;committed, his affair to God.&lt;/i&gt; (S, K.) ―         -b3-  الجاه <br>\
+                  &lt;i&gt;He protected him, defended him.&lt;/i&gt; (K.) Also said of a place, [&lt;i&gt;It protected him; afforded him refuge.&lt;/i&gt;] (K, art. حرز.) ―         -b4-  الجاه اـِلَى شَىْءٍ is also said when one has defended another, [as] in a place of refuge; [and app. may be rendered &lt;i&gt;He caused him to have recourse to a thing, as to a place of refuge&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَلَجَّاَ<br>\
+                  &lt;/form&gt; see 1 and 4.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِلْتَجَاَ<br>\
+                  &lt;/form&gt; see 1 and 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37568&quot; key=&quot;لَجَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَجَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مَلْجَاٌ (S, K) and ↓ <br>\
+      مُلْتَجَاٌ (K, art. لحد; &amp;amp;c.) &lt;i&gt;A place to which one has recourse for refuge, protection, preservation, concealment, covert,&lt;/i&gt; or &lt;i&gt;lodging; a place of refuge; an asylum; a refuge.&lt;/i&gt; (S, K.) The hemzeh of the ↓ second is sometimes elided; and this is done to assimilate the word to مَنْجَا, when it is used therewith; like as منجا is written with hemzeh to assimilate it in the like case to مَلْجَاٌ. ―         -b2-  [↓ <br>\
+      ملجاٌ is often applied to a man: and you say also,] فُلَانٌ حَسَنُ ↓ <br>\
+      المَلْجَاـِ [&lt;i&gt;Such a one is a good person to whom to have recourse for protection&lt;/i&gt; or &lt;i&gt;concealment&lt;/i&gt;]. The pl. of لَجَاٌ is اَلْجَا=ءٌ. (TA.) ―         -b3-  لَجَاٌ (assumed tropical:)  &lt;i&gt;A wife.&lt;/i&gt; (L.) ―         -b4-  &lt;i&gt;An heir.&lt;/i&gt; (ISh.) [See 2.]       -A2-  The &lt;i&gt;frog:&lt;/i&gt; (K:) or &lt;i&gt;a kind of tortoise, that lives on the land and in the sea:&lt;/i&gt; (M:) fem. with ة. (K.) &lt;i&gt;The&lt;/i&gt; <br>\
+                  لجاة <br>\
+                  &lt;i&gt;of the sea&lt;/i&gt; (اللَّجَاَةُ البَحْرِيَّةُ) &lt;i&gt;is asserted to have a tongue in its breast, and to kill the animal that it strikes.&lt;/i&gt; (Dmr.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37569&quot; key=&quot;مَلْجَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَلْجَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مُلْتَجَاٌ: see لَجَاٌ.   &lt;/entryFree&gt; <br>\
+' } );

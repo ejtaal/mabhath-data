@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>وذا</em>            1                  وذا<br>\
+<b>وَذَاَهُ</b>               1     <br>\
+                     وَذَاَهُ<br>\
+                     ذ<br>\
+                  , (S, K,) aor. يَذَاُ, (TA,) inf. n. وَذْءٌ, (S,) <i>He imputed to him a vice, fault,</i> or <i>the like; despised him;</i> (S, K;) <i>chid him;</i> (S, K;) <i>and blamed,</i> or <i>reproached him.</i> (A&#39;Obeyd.)       -A2-  وَذَاَتْ عَنْهُ عَيْنُهُ <br>\
+                  <i>His eye recoiled from him,</i> or <i>it:</i> syn. نَبَتْ عنه. (K.)    </entryFree> <br>\
+<b>اـِتَّذَاَ</b>               1     <br>\
+                     اـِتَّذَاَ<br>\
+                     ذ<br>\
+                  , quasi-pass. of وَذَاَ, <i>He was charged with a vice, fault,</i> or <i>the like; &amp;amp;c.</i> (S, K.)    </entryFree> <br>\
+<b>وَذْءٌ</b>               1     <br>\
+                     وَذْءٌ<br>\
+                     ذ<br>\
+                  <i>Disapproved,</i> or <i>hateful, language;</i> (K;) whether it be reviling or of another description.    </entryFree> <br>\
+<b>مَا بِهِ وَذْاَةٌ</b>               1     <br>\
+                     مَا بِهِ وَذْاَةٌ<br>\
+                     ذ<br>\
+                   (like وَذْيَهٌ) <i>There is no fault,</i> or <i>defect,</i> (عِلَّة,) <i>in him</i> or <i>it.</i> (Aboo-Málik, K. *)   </entryFree> <br>\
+' } );

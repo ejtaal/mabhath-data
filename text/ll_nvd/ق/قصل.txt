@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'قصل1<br>\
+قَصَلَ<br>\
+: see خَصَلَ.<br>\
+قَصَلٌ<br>\
+of wheat and barley: see جُرَامَةٌ.<br>\
+قَصِيلٌ<br>\
+Corn, or seed-produce, (K,) or barley,<br>\
+(Msb,) cut while green, (Msb, K,) for fodder.<br>\
+(Msb.)<br>\
+مِقْصَلٌ<br>\
+: see مَخْصَلٌ.<br>\
+' } );

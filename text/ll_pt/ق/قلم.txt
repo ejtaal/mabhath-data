@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>قلم</em>            1                  قلم<br>\
+<b>قَلَمٌ</b>               1     <br>\
+                     قَلَمٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      قَلَمَانِ and ↓ <br>\
+      قَلَمَانٌ: see جَلَمٌ. ―         -b2-  <i>A writing-reed prepared for writing; a reed-pen.</i>    <br>\
+<b>قَلَمَانٌ</b>               1     <br>\
+                     قَلَمَانٌ<br>\
+                     ذ<br>\
+                  : see قَلمٌ.    </entryFree> <br>\
+<b>مُقَلَّمُ الظُّفْرِ</b>               1     <br>\
+                     مُقَلَّمُ الظُّفْرِ<br>\
+                     ذ<br>\
+                   and الاَظْفَارِ: see ظُفرٌ.   </entryFree> <br>\
+' } );

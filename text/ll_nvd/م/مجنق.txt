@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مجنق1<br>\
+مَجْنَقُوا<br>\
+: see art. جنق.<br>\
+' } );

@@ -1,0 +1,56 @@
+load_data( { book: 'll_pt', text: '<em>حوق</em>            1                  حوق<br>\
+<b>حَاقَ</b>               1     <br>\
+                     حَاقَ<br>\
+                     حاق<br>\
+                  , aor. يَحُوقُ, (S,) inf. n. حَوْقٌ, (S, K,) <i>He swept</i> a house, or chamber. (S.) ―         -b2-  <i>He rubbed and smoothened</i> (K, TA) a thing. (TA.) ―         -b3-  <i>He sharpened</i> a spear-head. (Ham p. 177.)       -A2-  حاق بِهِ, (TK,) [aor. as above,] inf. n. حَوْقٌ, (K,) [like حاق به, aor. يَحِيقُ, inf. n. حَيْقٌ,] <i>It surrounded, encompassed, encircled,</i> or <i>beset, him,</i> or <i>it.</i> (K, TK.)    </entryFree> <br>\
+<b>حَوْقٌ</b>               1     <br>\
+                     حَوْقٌ<br>\
+                     حوق<br>\
+                  : see حُوقٌ, in two places. ―         -b2-  Also <i>i. q.</i> <br>\
+                  حَوْقَلَةٌ [app. as meaning <i>A soft,</i> or <i>weak, penis, such as that of an old man</i>]. (TA.)    </entryFree> <br>\
+<b>حُوقٌ</b>               1     <br>\
+                     حُوقٌ<br>\
+                     حوق<br>\
+                   The [<i>corona</i> or] <i>surrounding edges of the glans of the penis;</i> (S, K;) as also ↓ <br>\
+      حَوْقٌ, (Ibn- &#39;Abbád, K,) which is a rare dial. var., (TA,) and ↓ <br>\
+      حُوَقٌ: (Ibn-&#39; Abbád, TA:) or ↓ <br>\
+      حَوْقٌ, (K, TA,) with fet-h, (TA,) [in the CK حُوق,] signifies <i>a roundness in the penis.</i> (Th, K.)    </entryFree> <br>\
+<b>حُوَقٌ</b>               1     <br>\
+                     حُوَقٌ<br>\
+                     حوق<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>حُوَاقَةٌ</b>               1     <br>\
+                     حُوَاقَةٌ<br>\
+                     حواقه<br>\
+                     حواقة<br>\
+                  <i>Sweepings.</i> (S, K.) ―         -b2-  And <i>i. q.</i> <br>\
+                  قُمَاشٌ [(written in the TA with س, which is evidently a mistake, a result of an oversight,) What is <i>bad</i> of anything; or <i>what is collected hence and thence;</i> or <i>small particles,</i> or <i>fragments,</i> of anything; or <i>small rubbish,</i> or <i>broken particles of things, on the surface of the ground</i>]. (Ks, TA.)    </entryFree> <br>\
+<b>اَحْوَقُ</b>               1     <br>\
+                     اَحْوَقُ<br>\
+                     ذ<br>\
+                   A penis (TA) <i>having a large glans;</i> as also ↓ <br>\
+      مُحَوَّقٌ. (K, TA.) And فَيْشَلَةٌ حَوْقَا=ءُ (K) and كَمَرَةٌ حَوْقَا=ءُ (TA.) <i>A large</i> (K, TA) <i>and prominent</i> (TA) <i>glans of a penis.</i> (K, TA.)    </entryFree> <br>\
+<b>مَحُوقٌ</b>               1     <br>\
+                     مَحُوقٌ<br>\
+                     محذوق<br>\
+                   [<i>Swept.</i> ―         -b2-  And hence, (assumed tropical:)  <i>Shaven.</i>] It is said in a trad., يَسْجُدُونَ مَحُوقَةً رُوُسُهُمْ (assumed tropical:)  <i>They prostrate themselves having the middle of their heads shaven:</i> the removal of the hair from that part being likened to sweeping. (TA.) [Hence also] اَرْضٌ مَحُوقَةٌ (assumed tropical:)  <i>Land having little,</i> (K,) or <i>very little,</i> (TA,) <i>herbage; by reason of paucity of rain;</i> (K, TA;) as though it were swept. (TA.) ―         -b3-  <i>Rubbed and smoothened;</i> as also ↓ <br>\
+      مَحِيقٌ (K, TA) and ↓ <br>\
+      مَحْيُوقٌ. (TA.)    </entryFree> <br>\
+<b>مَحِيقٌ</b>               1     <br>\
+                     مَحِيقٌ<br>\
+                     محيق<br>\
+                  : see مَحُوقٌ.     <br>\
+<b>مِحْيَقَةٌ</b>               1     <br>\
+                     مِحْيَقَةٌ<br>\
+                     محيقه<br>\
+                     محيقة<br>\
+                  <i>A broom; a thing with which one sweeps.</i> (S, K.)    </entryFree> <br>\
+<b>مُحَوَّقٌ</b>               1     <br>\
+                     مُحَوَّقٌ<br>\
+                     محوق<br>\
+                  : see اَحْوَقُ.    </entryFree> <br>\
+<b>مَحْيُوقٌ</b>               1     <br>\
+                     مَحْيُوقٌ<br>\
+                     محيوق<br>\
+                  : see مَحُوقٌ.   </entryFree> <br>\
+' } );

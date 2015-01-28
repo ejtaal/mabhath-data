@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'هبو1<br>\
+هَباَ الرَّمَادُ<br>\
+, (JK, TA,) aor. يَهْبُو, (TA,) The<br>\
+ashes became mixed with dust, and extinguished:<br>\
+(JK, TA:) and هَباَ الجَمْرُ. (M, art. رمد.)<br>\
+هُبَةٌ<br>\
+: see أَهْبَةٌ.<br>\
+هَبْوَةٌ<br>\
+Dust rising, or spreading, in the sky like<br>\
+smoke. (JK.)<br>\
+هَبَآءٌ<br>\
+The motes that are seen in the rays of the<br>\
+sun: (TA:) see an ex. voce غُثَآءٌ.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ورع</em>            1                  ورع<br>\
+<b>وَرَعٌ</b>               1     <br>\
+                     وَرَعٌ<br>\
+                     ذ<br>\
+                  <i>Piety:</i> or <i>pious fear:</i> syn. تَقْوَى: (K:) and <i>abstinence from unlawful things.</i> (TA.) ―         -b2-  هُوَ وَرَعٌ ضَرَعٌ: see ضَرَعٌ.   </entryFree> <br>\
+' } );

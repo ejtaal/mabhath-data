@@ -1,0 +1,2 @@
+load_data( { book: 'll_pt', text: '<em>مظع</em>            1                  مظع<br>\
+' } );

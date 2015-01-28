@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مزرمَزِيرٌ<br>\
+Strong-hearted. (S.) So I have rendered the fem. (with ة) in explaining بَلْهَآءُ: it<br>\
+seems there to mean bold.<br>\
+' } );

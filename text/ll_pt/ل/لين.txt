@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>لين</em>            1                  لين<br>\
+<b>لَانَ</b>               1     <br>\
+                     لَانَ<br>\
+                     ذ<br>\
+                  , inf. n. لِينٌ [not لَيْنٌ as in the CK] and لَياَنٌ, (T, S, M, K,) <i>contr. of</i> <br>\
+                  خَشُنَ; (S, K in art. خشن, and TK;) <i>It was,</i> or <i>became, soft, as opposed to rough</i> or <i>harsh; smooth; plain; without asperities; fine to the touch; delicate; tender; supple; lithe; limber; pliant; pliable; flexible; ductile; malleable; soft,</i> or <i>flabby; lax:</i> and <i>he was,</i> or <i>became, soft; tender; pliant; gentle; bland;</i> or <i>mild.</i> Hence لان <br>\
+                  جَانِبُهُ: see لَيِّنٌ. ―         -b2-  لَانَ بَطْنُهُ <br>\
+                  <i>His bowels became relaxed.</i> ―         -b3-  لَانَ <br>\
+                  <i>He relented.</i>    <br>\
+<b>لَايَنَهُ بِالقَوْلِ</b>               1     <br>\
+                     لَايَنَهُ بِالقَوْلِ<br>\
+                     ذ<br>\
+                  <i>He soothed, coaxed, or wheedled, him with words.</i> (L, art. مسح.) ―         -b2-  لَايَنَهُ [<i>He acted gently towards him;</i> (M, K;) <i>treated him with gentleness, or blandishment; soothed him; coaxed him; wheedled him;</i>] <i>i. q.</i> <br>\
+                  دَارَاهُ. (S, M, Msb, voce داراه.) ―         -b3-  لَايَنَهُ <br>\
+                  <i>He was soft, tender, gentle, bland,</i> or <i>mild, towards him.</i> (M, K.)    </entryFree> <br>\
+<b>اَلَانَ بَطْنَهُ</b>               1     <br>\
+                     اَلَانَ بَطْنَهُ<br>\
+                     ذ<br>\
+                   [<i>It relaxed his bowels</i>]; said of medicine. (K in art. سهل.)    </entryFree> <br>\
+<b>اِسْتَلَانَ</b>               1     <br>\
+                     اِسْتَلَانَ<br>\
+                     ذ<br>\
+                  : see its contr. استخشن.    </entryFree> <br>\
+<b>لَانَ</b>               1     <br>\
+                     لَانَ<br>\
+                     ذ<br>\
+                   for الْا=نَ: see the latter in art. اين.    </entryFree> <br>\
+<b>لِينُ العَيْشِ</b>               1     <br>\
+                     لِينُ العَيْشِ<br>\
+                     ذ<br>\
+                  <i>Softness, delicateness,</i> or <i>easiness, of life.</i>    <br>\
+<b>لِينَةٌ</b>               1     <br>\
+                     لِينَةٌ<br>\
+                     ذ<br>\
+                   applied to <i>a palm-tree:</i> see art. لون; and see عَجْوَةٌ.    </entryFree> <br>\
+<b>عَيْشٌ لَيِّنٌ</b>               1     <br>\
+                     عَيْشٌ لَيِّنٌ<br>\
+                     ذ<br>\
+                  <i>Soft, delicate,</i> or <i>easy, life.</i> ―         -b2-  لَيِّنُ <br>\
+                  الجَانِبِ: see جَانِبٌ. ―         -b3-  لَيِّنُ الاَعْطَافِ; &amp;amp;c.: see art. عطف.    </entryFree> <br>\
+<b>مُلَيِّنٌ</b>               1     <br>\
+                     مُلَيِّنٌ<br>\
+                     ذ<br>\
+                  <i>A lenitive,</i> or <i>laxative,</i> medicine.   </entryFree> <br>\
+' } );

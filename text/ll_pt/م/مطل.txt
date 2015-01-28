@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>مطل</em>            1                  مطل<br>\
+<b>مَطَلَهُ بِدَيْنِهِ</b>               1     <br>\
+                     مَطَلَهُ بِدَيْنِهِ<br>\
+                     ذ<br>\
+                  , inf. n. مَطْلٌ, and ↓ <br>\
+      مَا طَلَهُ, inf. n. مَطَالٌ, <i>He delayed,</i> or <i>deferred, with him,</i> or <i>put him off, in the matter of his debt, by promising time after time to pay him.</i> (Msb.) See دَافَعْتُهُ and سَوَّفَهُ.    </entryFree> <br>\
+                     مَاْطَلَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>مَطُولٌ</b>               1     <br>\
+                     مَطُولٌ<br>\
+                     ذ<br>\
+                  <i>Much given to delaying,</i> or <i>deferring, with a creditor,</i> or <i>putting him off, in the matter of a debt, by promising time after time to pay him.</i> (Msb.)    </entryFree> <br>\
+<b>مَمْطُولٌ</b>               1     <br>\
+                     مَمْطُولٌ<br>\
+                     ذ<br>\
+                   Iron, or a sword, (Az, TA,) <i>beaten into a long shape:</i> (Az, K:) or anything <i>extended, elongated,</i> or <i>lengthened.</i> (S.)   </entryFree> <br>\
+' } );

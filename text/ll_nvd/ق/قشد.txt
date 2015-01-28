@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'قشد1<br>\
+قَشَدَهُ i. q. كَشَطَهُ. (K.)<br>\
+8<br>\
+اقتشد He collected clarified butter. (L.)<br>\
+قِشْدَةٌ The dregs, or sediment, remaining at the<br>\
+bottom of fresh butter when it is cooked with meal<br>\
+of parched barley or wheat (سَوِيق) to be made<br>\
+into clarified butter: (S, M, L:) or the dregs, or<br>\
+sediment, remaining at the bottom of fresh butter<br>\
+when it is cooked with meal of parched barley or<br>\
+wheat (سويق) and with dates; as also ↓ قُشَادَةٌ:<br>\
+(K:) or the dregs, or sediment, of clarified<br>\
+butter: (Ks, L:) or (in the K, and) thin fresh<br>\
+butter: (L, K:) it is also called قِلْدَةٌ, and<br>\
+كُدَادَةٌ, (Ks, L,) and إِثْرٌ, and أُلَاقَةٌ, and خُلَاصَةٌ;<br>\
+and remains at the bottom of the cooking-pot,<br>\
+after the butter has been clarified, mixed with<br>\
+hairs and pieces of wood &amp;c. (AHeyth, L.) ―<br>\
+-b2-<br>\
+Also, A certain herb, abounding with milk (L, K)<br>\
+and grease. (L.)<br>\
+قُشَادَةٌ: see قِشْدَةٌ.<br>\
+' } );

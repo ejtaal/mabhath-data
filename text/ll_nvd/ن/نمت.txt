@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نمتنَمْتٌ A certain plant, having a fruit that is<br>\
+eaten. (L, K.) The only explanation given by<br>\
+several lexicographers. (TA.)<br>\
+' } );

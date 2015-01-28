@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'ايبFor words which might be supposed to be properly mentioned under this head, see art. اوّب.<br>\
+' } );

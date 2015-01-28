@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>قرنب</em>            1                  قرنب<br>\
+<b>قَرْنَبٌ</b>               1     <br>\
+                     قَرْنَبٌ<br>\
+                     ذ<br>\
+                   The <i>jerboa;</i> or a <i>rat,</i> or <i>mouse;</i> syn. قَاْرَةٌ: or the <i>young one generated between it and a jerboa:</i> (K:) and فرنب [i. e. فِرْنِبٌ, with kesr,] is a dial. var. thereof. (So in the TA. [But I incline to think that قَرْنَبٌ is a mistranscription for فِرْنِبٌ.])    </entryFree> <br>\
+<b>قُرْنُبٌ</b>               1     <br>\
+                     قُرْنُبٌ<br>\
+                     ذ<br>\
+                   The <i>flank:</i> (IAar, O, K:) or <i>a flabby flank.</i> (TA.)    </entryFree> <br>\
+<b>قَرَنْبَى</b>               1     <br>\
+                     قَرَنْبَى<br>\
+                     ذ<br>\
+                  <i>An insect resembling the</i> [<i>beetle called</i>] خُنْفَسَا=ء, or <i>somewhat larger than the latter, with long hind-legs:</i> (As, T, TA:) or <i>an insect with long hind-legs, resembling the</i> <br>\
+                  خنفسا=ء, (S, O, Meyd,) <i>but somewhat larger,</i> (S, O,) <i>having a speckled back.</i> (Meyd.) It is said in prov., القَرَنْبَى فِى <br>\
+                  عَيْنِ اُمِّهَا حَسَنَةٌ [<i>The karembà in the eye of its mother is beautiful</i>]. (S, O, Meyd. [Mentioned in the S and O, in art. قرب.]) [See اِبْنُ الفَاسِيَا=ءِ, in art. فسو.]   </entryFree> <br>\
+' } );

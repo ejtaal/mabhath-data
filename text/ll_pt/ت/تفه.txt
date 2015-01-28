@@ -1,0 +1,47 @@
+load_data( { book: 'll_pt', text: '<em>تفه</em>            1                  تفه<br>\
+<b>تَفِهَ</b>               1     <br>\
+                     تَفِهَ<br>\
+                     فاه<br>\
+                     تف<br>\
+                     تفه<br>\
+                     تفة<br>\
+                     وفى<br>\
+                  , aor.      <br>\
+                     تَفَهَ<br>\
+                  , (S, Mgh, Msb, K,) inf. n. تَفَهٌ, (JK, Msb, K, TA,) or تَفْهٌ, (Mgh, CK,) and تُفُوهٌ (K) and تَفَاهَةٌ, (Msb, TA,) or this last is a mistake; (Mgh;) and تَفَهَ, aor.      <br>\
+                     تَفِهَ<br>\
+                  , inf. n. تُفُوهٌ; (JK;) <i>It</i> (a thing, JK, Mgh, Msb) <i>was,</i> or <i>became, paltry, sorry, mean, contemptible,</i> or <i>inconsiderable;</i> (JK, S, Mgh, Msb;) and <i>little,</i> or <i>small, in quantity</i> or <i>number.</i> (JK, S, K.) ―         -b2-  تَفِهَ, aor.      <br>\
+                     تَفَهَ<br>\
+                  , inf. n. تُفُوهٌ, <i>He</i> (a man) <i>was,</i> or <i>became, stupid,</i> or <i>foolish.</i> (JK, K.) And تَفِهَتْ نَفْسُهُ <br>\
+                  <i>His mind became weak.</i> (JK.) ―         -b3-  تَفَهَ, aor.      <br>\
+                     تَفُهَ<br>\
+                  ; and تَفِهَ, aor.      <br>\
+                     تَفَهَ<br>\
+                  ; <i>He,</i> or <i>it, was,</i> or <i>became, lean,</i> or <i>meagre;</i> syn. غَثَّ. (K.) It is said in a trad. (S, K) of Ibn-Mes&#39;ood, (K,) القُرْا=نُ لَا يَتْفَهُ وَلَا يَتَشَّانُ, (S, K, [in the CK, erroneously, يُتْفَهُ and يُتَشانُّ, and in some copies of the K, for the latter is put ينتان,]) i. e. لَا يَغِثُّ وَ لَا يَخْلَقُ (assumed tropical:)  [<i>The Kur-án will not become meagre, nor will it become worn out</i>]: (K: [in the CK, erroneously, لا يُغَثُّ و لا يُخْلَقُ:]) it is implied by the context in the S, that لا يتفه means <i>will not become paltry,</i> or <i>mean:</i> <br>\
+                  لايتشانّ means <i>will not become worn out</i> by reason of much repetition; from شَنُّ signifying “ a wornout water-skin. ” (TA.)    </entryFree> <br>\
+<b>اتفه فِى عَطَايِهِ</b>               1     <br>\
+                     اتفه فِى عَطَايِهِ<br>\
+                     ذ<br>\
+                   [<i>He was paltry, sorry, mean,</i> or <i>niggardly, in his gift;</i>] <i>he made his gift little,</i> or <i>small.</i> (TA.)    </entryFree> <br>\
+<b>تَفِهٌ</b>               1     <br>\
+                     تَفِهٌ<br>\
+                     فاه<br>\
+                     تف<br>\
+                     تفه<br>\
+                     تفة<br>\
+                     وفى<br>\
+                  : see تَافِهٌ. ―         -b2-  Also <i>Insipid; tasteless;</i> and so ↓ <br>\
+      تَافِهٌ. (KL.) You say اَطْعِمَةٌ تَفِهَةٌ <br>\
+                  <i>Kinds of food having no taste of sweetness,</i> or <i>of sourness,</i> or <i>of bitterness;</i> and some include bread and flesh-meat among these. (K.)    </entryFree> <br>\
+<b>تَافِهٌ</b>               1     <br>\
+                     تَافِهٌ<br>\
+                     تافه<br>\
+                     تافة<br>\
+                   (S, Mgh, Msb, KL, TA) and ↓ <br>\
+      تَفِهٌ (Mgh, KL, TA) applied to a thing, (JK, Mgh, Msb,) and the former to a man also, (TA,) <i>Paltry, sorry, mean, contemptible,</i> or <i>inconsiderable:</i> (JK, S, Mgh, Msb, KL, TA:) and <i>little,</i> or <i>small, in quantity</i> or <i>number.</i> (JK, S, TA, and KL in explanation of the former.) ―         -b2-  تَافِهُ العَقْلِ A man <i>having little sense,</i> or <i>intellect;</i> (TA;) <i>stupid,</i> or <i>foolish.</i> (JK.) ―         -b3-  See also تَفِهٌ. ―         -b4-  تَافِهٌ also signifies <i>Afflicted,</i> or <i>distressed, by reason of disease</i> and <i>fatigue.</i> (JK.)    </entryFree> <br>\
+<b>مُتَفَّهَةٌ</b>               1     <br>\
+                     مُتَفَّهَةٌ<br>\
+                     متفهه<br>\
+                     متفهة<br>\
+                  ; (JK, TA;) so in the handwriting of Sgh; in the K, مُتْفَهَةٌ; (TA;) <i>Easy, submissive,</i> or <i>tractable;</i> applied to a she-camel. (JK, K.)   </entryFree> <br>\
+' } );

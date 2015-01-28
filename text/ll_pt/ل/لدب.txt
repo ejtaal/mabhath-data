@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>لدب</em>            1                  لدب<br>\
+                     لَدڤبَ<br>\
+                  and 3. لَدَبَ and لَادَبَ: see لَذَبَ.   </entryFree> <br>\
+            <div2 n=&quot;lds ldg ldm ldn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لدس لدغ لدم لدن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

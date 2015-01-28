@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نبض</em>            1                  نبض<br>\
+<b>اَنْبَضَ فى قَوْسِهِ</b>               1     <br>\
+                     اَنْبَضَ فى قَوْسِهِ<br>\
+                     ذ<br>\
+                  <i>He made the string of his bow to vibrate, that it might twang.</i> (K.)   </entryFree> <br>\
+' } );

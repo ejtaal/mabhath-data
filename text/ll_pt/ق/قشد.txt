@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>قشد</em>            1                  قشد<br>\
+<b>قَشَدَهُ</b>               1     <br>\
+                     قَشَدَهُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  كَشَطَهُ. (K.)    </entryFree> <br>\
+<b>اقتشد</b>               1     <br>\
+                     اقتشد<br>\
+                     ذ<br>\
+                  <i>He collected</i> clarified butter. (L.)     <br>\
+<b>قِشْدَةٌ</b>               1     <br>\
+                     قِشْدَةٌ<br>\
+                     ذ<br>\
+                   The <i>dregs,</i> or <i>sediment, remaining at the bottom of fresh butter when it is cooked with meal of parched barley or wheat</i> (سَوِيق) <i>to be made into clarified butter:</i> (S, M, L:) or the <i>dregs, or sediment, remaining at the bottom of fresh butter when it is cooked with meal of parched barley or wheat</i> (سويق) <i>and with dates;</i> as also ↓ <br>\
+      قُشَادَةٌ: (K:) or the <i>dregs, or sediment, of clarified butter:</i> (Ks, L:) or (in the K, and) <i>thin fresh butter:</i> (L, K:) it is also called قِلْدَةٌ, and كُدَادَةٌ, (Ks, L,) and اـِثْرٌ, and اُلَاقَةٌ, and خُلَاصَةٌ; and remains at the bottom of the cooking-pot, after the butter has been clarified, mixed with hairs and pieces of wood &amp;amp;c. (AHeyth, L.) ―         -b2-  Also, <i>A certain herb, abounding with milk</i> (L, K) <i>and grease.</i> (L.)    </entryFree> <br>\
+<b>قُشَادَةٌ</b>               1     <br>\
+                     قُشَادَةٌ<br>\
+                     ذ<br>\
+                  : see قِشْدَةٌ.   </entryFree> <br>\
+' } );

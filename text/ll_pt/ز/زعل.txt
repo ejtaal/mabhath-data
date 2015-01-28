@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>زعل</em>            1                  زعل<br>\
+<b>زَعِلَ</b>               1     <br>\
+                     زَعِلَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     زَعَلَ<br>\
+                  , (K,) inf. n. زَعَلٌ; (S, TA;) and ↓ <br>\
+      تزعّل; (K;) <i>He was,</i> or <i>became, brisk, lively, sprightly, active, agile, prompt, and quick;</i> (S, K, TA;) and <i>he exulted,</i> or <i>exulted greatly,</i> or <i>excessively, and behaved insolently and unthankfully,</i> or <i>ungratefully.</i> (TA.) ―         -b2-  And the former, (K,) inf. n. as above, (TA,) <i>He</i> (a horse) <i>curvetted, pranced, leaped, sprang,</i> or <i>bounded, without his rider.</i> (K.) ―         -b3-  And <i>He writhed,</i> or <i>cried out and writhed, by reason of hunger.</i> (TA.) ―         -b4-  [In the modern language, <i>He was,</i> or <i>became, weary:</i> one says, زَعِلْتُ مِنْهُ <br>\
+                  <i>I was,</i> or <i>became, weary of it.</i>]    </entryFree> <br>\
+<b>ازعلهُ</b>               1     <br>\
+                     ازعلهُ<br>\
+                     ذ<br>\
+                   [in the CK erroneously written زاعَلَهُ] <i>It</i> (pasture, and fatness, TA) <i>rendered him</i> [i. e. a beast] <i>brisk, lively, sprightly, active, agile, prompt, and quick.</i> (S, K, TA.) ―         -b2-  And ازعلهُ <br>\
+                  مِنْ مَكَانِهِ <br>\
+                  <i>He,</i> or <i>it, removed him,</i> or <i>unsettled him, from his place.</i> (Ibn-&#39; Abbád, K.)    </entryFree> <br>\
+                     تَزَعَّلَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>زَعِلٌ</b>               1     <br>\
+                     زَعِلٌ<br>\
+                     ذ<br>\
+                  <i>Brisk, lively, sprightly, active, agile, prompt, and quick;</i> (S, TA;) as also ↓ <br>\
+      اـِزْعِيلٌ: (K:) the former is applied in this sense to a horse; and ↓ the latter, as well as the former, to an ass, [i. e. a wild ass,] as meaning <i>brisk, lively,</i> &amp;amp;c., <i>and curvetting, prancing, leaping, springing,</i> or <i>bounding:</i> and the former signifies also <i>exulting,</i> or <i>exulting greatly,</i> or <i>excessively, and behaving insolently and unthankfully,</i> or <i>ungratefully:</i> pl. زُعَّلٌ, applied by Tarafeh to male ostriches. (TA.) ―         -b2-  Also <i>Writhing,</i> or <i>crying out and writhing, by reason of hunger.</i> (S, K.)    </entryFree> <br>\
+<b>زُعْلُولٌ</b>               1     <br>\
+                     زُعْلُولٌ<br>\
+                     ذ<br>\
+                  <i>Light,</i> or <i>active,</i> (Kr, K,) <i>in spirit and in body:</i> (TA in art. زغل:) accord. to Kr and Ibn-&#39; Abbád, with ع and with غ: in the “ Mu- sannaf ” of A&#39;Obeyd, with غ only. (TA.)    </entryFree> <br>\
+<b>زَعْلَانُ</b>               1     <br>\
+                     زَعْلَانُ<br>\
+                     ذ<br>\
+                  <i>Writhing,</i> or <i>crying out and writhing, having no rest;</i> as also ↓ <br>\
+      مُتَزَعِّلٌ. (TA.) ―         -b2-  [In the modern language, <i>Weary:</i> (see 1, last sentence:) and having its fem. with ة.]    </entryFree> <br>\
+<b>اـِزْعِيلٌ</b>               1     <br>\
+                     اـِزْعِيلٌ<br>\
+                     ذ<br>\
+                  : see زَعِلٌ, in two places.    </entryFree> <br>\
+<b>مُتَزَعِّلٌ</b>               1     <br>\
+                     مُتَزَعِّلٌ<br>\
+                     ذ<br>\
+                  : see زَعْلَانُ.   </entryFree> <br>\
+' } );

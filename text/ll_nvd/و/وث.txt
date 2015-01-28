@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'وثوَثْوَثَةٌ Weakness; impotence. (L.)<br>\
+وَثْوَاثٌ A weak, impotent, man. (L.)<br>\
+' } );

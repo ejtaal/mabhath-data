@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ميع4<br>\
+اماعهُ<br>\
+He made it to flow. (Msb.)<br>\
+7<br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'فوظ1<br>\
+فَاظَ, aor. يَفُوظُ, inf. n. فَوْظٌ and فَوَاظٌ: see<br>\
+فَاظَ in art. فيظ.<br>\
+' } );

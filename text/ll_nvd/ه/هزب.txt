@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'هزبهَوْزَبٌ A camel strong in running; syn. قَوِىُّ<br>\
+الجَرْىِ: (K, and so in a copy of the S:) or a<br>\
+strong and bold camel; syn. قَوِىٌّ جَرِىءٌ: (so in<br>\
+the S, in several copies): a strong camel: (ElJarmee:) a camel advanced in age, and bold.<br>\
+(As.) ―<br>\
+-b2-  هَوْزَبٌ A vulture, (K,) advanced in age.<br>\
+(TA.)<br>\
+هَيْزَبٌ Sharp; fierce; syn. حَدِيدٌ. ―<br>\
+-b2-  ليْثٌ<br>\
+هَيْزَبُ A sharp, or fierce, lion: (K, accord. to<br>\
+the TA:) or a strong lion. (CK.)<br>\
+هَازِبَى and هَازِبَاءُ A kind of fish. (K.)<br>\
+' } );

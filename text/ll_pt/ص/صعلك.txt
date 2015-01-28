@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>صعلك</em>            1                  صعلك<br>\
+<b>صَعْلَكَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     صَعْلَكَهُ<br>\
+                     ذ<br>\
+                  , (O, K,) inf. n. صَعْلَكَةٌ, (TA,) <i>He rendered him poor,</i> or <i>needy.</i> (O, K.)       -A2-  صعلك <br>\
+                  الثَّرِيدَةَ <br>\
+                  <i>He made the</i> <br>\
+                  ثريدة [or <i>mess of crumbled bread moistened with broth</i>] <i>to hare a head:</i> or <i>he raised its head.</i> (K.) And صعلك اَسْفَلَ السَّنَامِ <br>\
+                  <i>He stretched up the lower part of the camel&#39;s hump so as to make its upper part of a rounded form.</i> (Sh, O.) ―         -b2-  And صعلك البَقْلُ الاـِبِلَ <br>\
+                  <i>The herbs,</i> or <i>leguminous plants, fattened the camels.</i> (Sh, O, K.)    </entryFree> <br>\
+<b>تَصَعْلَكَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَصَعْلَكَ<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became, poor,</i> or <i>needy.</i> (S, * O, * K.) And <i>He made a show of poverty.</i> (KL.) [<i>He affected to be such as is termed</i> <br>\
+                  صُعْلُوك.] ―         -b2-  تصعلكت الاـِبِلُ <br>\
+                  <i>The camels cast,</i> or <i>shed, their fur,</i> (S, K, TA,) <i>and,</i> some add, <i>became bare.</i> (TA.) Accord. to Sh, <i>The camels became slender in their legs in consequence of fatness</i> [<i>of the body;</i> app. meaning that their legs became slender in comparison with their bodies]. (TA.) And accord. to As, تصعلك said of a horse, <i>He became slender, and shed his abundant and long hair.</i> (TA.)    </entryFree> <br>\
+<b>صُعْلُوكٌ</b>               1     <br>\
+                     صُعْلُوكٌ<br>\
+                     ذ<br>\
+                  <i>Poor,</i> or <i>needy;</i> (S, O, K, TA;) [<i>a poor man;</i>] and ISd adds, <i>having no property;</i> and Az adds, <i>and having no reliance</i> [<i>upon any person</i> or <i>thing</i>]: (TA:) and <i>a thief,</i> or <i>robber:</i> (KL:) pl. صَعَالِيكُ. (S, O.) صَعَالِيكُ العَرَبِ means ذُوْبَانُهَا [i. e., as expl. voce ذِيْبٌ, <i>The thieves,</i> or <i>sharpers, and paupers, of the Arabs;</i> or <i>the paupers of the Arabs who practise thieving:</i> because they act like wolves]. (S, O.) &#39;Orweh Ibn-El-Ward was called عُرْوَةُ الصَّعَالِيكِ because he used to collect the poor in a حَظِيرَة [i. e. an enclosure for cattle] and sustain them by means of the plunder that he took. (S, O, K.)    </entryFree> <br>\
+<b>مُصَعْلَكُ الرَّاْسِ</b>               1     <br>\
+                     مُصَعْلَكُ الرَّاْسِ<br>\
+                     ذ<br>\
+                   A man <i>round in the head:</i> (O, K, TA:) or, as some say, <i>small in the head.</i> (TA.) And مَصَعْلَكٌ applied to a camel&#39;s hump, <i>Such as is as though one rounded its upper part, and stretched up its lower part with the hand so as to make it assume that rounded form.</i> (Sh, O.)   </entryFree> <br>\
+' } );

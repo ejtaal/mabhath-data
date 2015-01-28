@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'فثى4<br>\
+افثى He was, or became, tired, (K, TA,)<br>\
+and languid; from running [&amp;c.]. (TA. [But<br>\
+this is for أَفْثَأَ: see an ex. in a verse cited in art.<br>\
+فثأ.])<br>\
+' } );

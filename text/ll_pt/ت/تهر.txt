@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>تهر</em>            1                  تهر<br>\
+<b>تَاهُورٌ</b>               1     <br>\
+                     تَاهُورٌ<br>\
+                     تاهور<br>\
+                   [probably, in its primary acceptation, a dial. var. of تَيْهُورٌ; for the signification here following is said in the TA to be tropical: ―         -b2- ] (tropical:)  <i>Clouds;</i> or <i>a collection of clouds:</i> (JK, K, TA:) pl. تَوَاهِيرُ. (JK.)    </entryFree> <br>\
+<b>تَيْهُورٌ</b>               1     <br>\
+                     تَيْهُورٌ<br>\
+                     تيهور<br>\
+                  , said by Az to be of the measure فَيْعُولٌ, from الوَهْرُ; originally وَيْهُورٌ, like as تَيْقُورٌ is [said to be] originally وَيْقُورٌ; but the ت is held by ISd [and J and F and others] to be a radical: (TA:) <i>Low,</i> or <i>depressed,</i> sand: (T, TA:) or sand <i>that falls apart, and does not hold together:</i> (A, TA:) or <i>elevated</i> sand: (TA:) or sand <i>having a</i> <br>\
+                  جُرُف [or <i>part carried and eaten away by torrents</i>]: (As, S, K:) pl. تَيَاهِيرُ and تَيَاهِرُ. (S, K.) ―         -b2-  <i>Low,</i> or <i>depressed,</i> land, or ground. (K.) ―         -b3-  The <i>part between the top and bottom of the side of a valley,</i> and <i>of a mountain:</i> (JK, K, * TA:) of the dial. of Nejd, and of that of Hudheyl. (TA.) ―         -b4-  <i>High waves of the sea</i> or <i>of a great river.</i> (K.) ―         -b5-  Applied to a man, [like تَيَّارٌ, q. v.,] (assumed tropical:)  <i>Vain,</i> or <i>having a fond opinion of himself,</i> (S, K,) and <i>proud.</i> (K.) [For ذَاهِيًا in one copy of the S, and ذَاهِبًا in another and in the L, in the phrase اـِذَا كَانَ ذَاهِيًا بِنَفْسِهِ بِهِ تِيهٌ, or ذَاهِبًا, I read زَاهِيًا.]   </entryFree> <br>\
+' } );

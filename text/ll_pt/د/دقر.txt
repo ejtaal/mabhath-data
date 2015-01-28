@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>دقر</em>            1                  دقر<br>\
+<b>دِقْرَارٌ</b>               1     <br>\
+                     دِقْرَارٌ<br>\
+                     دقرار<br>\
+                   and ↓ <br>\
+      دِقْرَارَةٌ <br>\
+                  <i>A kind of short drawers, without legs, covering only that portion of the wearer which decency requires to be concealed;</i> (TA;) <i>i. q.</i> <br>\
+                  تُبَّانُ: (S, K:) also the latter, <i>trowsers of the ordinary kind;</i> syn. سَرَاوِيلُ; and so ↓ <br>\
+      دُقْرُورٌ and ↓ <br>\
+      دُقْرُورَةٌ: pl. دَقَارِيرُ.    </entryFree> <br>\
+<b>دُقْرُورٌ</b>               1     <br>\
+                     دُقْرُورٌ<br>\
+                     دقرور<br>\
+                   and دُقْرُورَةٌ: see above; and the latter, in what follows.    </entryFree> <br>\
+<b>دِقْرَارَةٌ</b>               1     <br>\
+                     دِقْرَارَةٌ<br>\
+                     دقراره<br>\
+                     دقرارة<br>\
+                  : see دِقْرَارٌ. ―         -b2-  Also, <i>A short</i> man: (K:) as though likened to the short drawers above mentioned: (TA:) pl. as above. (K.)       -A2-  Also <i>A calamity; a misfortune:</i> pl. as above. (S, K.) ―         -b2-  And <i>An alominable lie:</i> (TA:) <i>foul language: calumny; slander:</i> (K:) <i>forgery of tales.</i> (TA.) You say فُلَانٌ يَفْتَرِى الدَّقَارِيرَ <br>\
+                  <i>Such a one forges lies,</i> (S,) or <i>abominable lies,</i> (TA,) and <i>foul language.</i> (S, TA.) ―         -b3-  Also <i>Contrariety; opposition;</i> and so ↓ <br>\
+      دُقْرُورَةٌ: and <i>contention, or altercation,</i> (K, TA,) <i>that wearies one:</i> (TA:) pl. as above. (K.) ―         -b4-  And <i>An evil,</i> or <i>a bad, habit:</i> pl. as above. (K.) It is related in a trad. of &#39;Omar, that he said to his freedman Aslam, who was a Bejáwee slave, اَخَذَتْكَ دِقْرَارَةٌ <br>\
+                  اَهْلِكَ <br>\
+                  <i>The evil habit of thy family,</i> or <i>people,</i> which was deviation from the truth, and acting falsely, <i>hath come upon thee.</i> (TA.) ―         -b5-  Also <i>A calumniator; a slanderer:</i> (S, K:) as though meaning ذُو دِقْرَارَةِ, i. e., ذُو نَمِيمَةٍ: (TA:) pl. as above. (K.)   </entryFree> <br>\
+' } );

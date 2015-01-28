@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كنخبكَنْخَبَةٌ<br>\
+Confusion of speech, or discourse, by<br>\
+reason of errors, or mistakes. (Yoo, K.) [App.<br>\
+an inf. n. of which the verb is كَنْخَبَ.]<br>\
+' } );

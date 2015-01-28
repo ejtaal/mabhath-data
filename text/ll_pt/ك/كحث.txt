@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>كحث</em>            1                  كحث<br>\
+<b>كَحَثَ لَهُ مِنَ الَمالِ</b>               1     <br>\
+                     كَحَثَ لَهُ مِنَ الَمالِ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَحَثَ<br>\
+                  , (inf. n. كَحْثٌ and كَحْثَةٌ, TA,) <i>He laded out for him with his hands,</i> (or <i>with his hand,</i> as in some copies of the K, and in the L,) [<i>somewhat</i>] <i>of the property.</i> (L, K.)   </entryFree> <br>\
+            <div2 n=&quot;kHS kHl kx&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كحص كحل كخ<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

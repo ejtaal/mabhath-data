@@ -1,0 +1,228 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اول&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اول<br>\
+&lt;entryFree id=&quot;n1498&quot; key=&quot;ا=لَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ا=لَ<br>\
+                     ا=ل<br>\
+                  &lt;/form&gt;, aor. يَوُولُ, (T, S, M, &amp;amp;c.,) inf. n. اَوْلٌ (T, M, Mgh, Msb, K) and مَا=لٌ (M, K) and اـِيَالٌ, which last is used as a subst. in relation to objects of the mind, (Msb,) and اَيْلُولَةٌ [like دَيْمُومَةٌ], (TA,) &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, returned;&lt;/i&gt; syn. رَجَعَ; (T, S, M, Mgh, Msb, K;) and عَادَ; (T;) [and &lt;i&gt;he resorted;&lt;/i&gt; (see an instance voce اـِيَّلٌ;)] اـِلَيْهِ <br>\
+                  &lt;i&gt;to it;&lt;/i&gt; (M, K;) namely a thing [of any kind; the thing, or place, whence he, or it, originated, or came; his, or its, origin, or source; his, or its, original state, condition, quantity, weight, &amp;amp;c.; any place; and a former action, or saying, or the like: see رَجَعَ, by which, as the explanation of ا=لَ, may be meant to be implied some other significations, here following, which these two verbs have in common]: (M:) and ا=لَ عَنْهُ <br>\
+                  &lt;i&gt;he&lt;/i&gt; (a man, M) &lt;i&gt;returned,&lt;/i&gt; or &lt;i&gt;reverted, from it.&lt;/i&gt; (M, K.) ―         -b2-  From ا=لَ as syn. with رَجَعَ is the phrase, فُلَانٌ يَوُولُ اـِلَى كَرَمٍ [meaning either &lt;i&gt;Such a one returns to generosity,&lt;/i&gt; or, as كَرَمٌ is used in the sense of كِرَامٌ, &lt;i&gt;is referable to generous,&lt;/i&gt; or &lt;i&gt;noble, ancestors&lt;/i&gt;]. (TA.) [And hence the phrase,] ا=لَ اـِلَيْهِ بِنَسَبٍ [&lt;i&gt;He bore a relation to him, as a member to a head, by kindred&lt;/i&gt;], and بِدِينٍ [&lt;i&gt;by religion&lt;/i&gt;]. (Ibn-&#39;Arafeh.) And the saying, in a trad., مَنْ صَامَ الدَّهْرَ فَلَا <br>\
+                  صَامَ وَ لَا ا=لَ, i. e. (tropical:)  [&lt;i&gt;He who fasts ever,&lt;/i&gt; or &lt;i&gt;always, may he neither fast] nor return to what is good.&lt;/i&gt; (TA.) [In the Mgh, art. دهر, for ا=ل I find اَفْطَرَ; and it is there said that this is an imprecation uttered by the Prophet, lest a man should believe &lt;pb n=&quot;126&quot; TEIform=&quot;pb&quot;/&gt; this kind of fasting to be ordained by God; or, through impotence, should become insincere; or because, by fasting all the days of the year, he would do so on the days on which fasting is forbidden. See other readings voce اَلَا in art. الو.]) ―         -b3-  Hence also the saying, ا=لتِ الضَّرْبَهُ اـِلَى <br>\
+                  النَّفْسِ, meaning (assumed tropical:)  &lt;i&gt;The blow,&lt;/i&gt; or &lt;i&gt;stroke, resulted in destroying life; in slaying,&lt;/i&gt; or &lt;i&gt;killing.&lt;/i&gt; (Mgh.) ―         -b4-  Hence also, ا=لَ الاَمْرُ اـِلَى كَذَا [&lt;i&gt;The affair,&lt;/i&gt; or &lt;i&gt;case, became ultimately reduced to such a state,&lt;/i&gt;  or &lt;i&gt;condition; came to such a result; came to be thus&lt;/i&gt;]. (Msb.) ―         -b5-  Hence also, طَبَخْتُ الشَّرَابَ <br>\
+                  فَا=لَ اـِلَى قَدْرِ كَذَا <br>\
+                  &lt;i&gt;I cooked the wine,&lt;/i&gt; or &lt;i&gt;beverage, and it became reduced&lt;/i&gt; (رَجَعَ) &lt;i&gt;to such a quantity.&lt;/i&gt; (S.) And طَبَخَهُ حَتَّى ا=لَ اـِلَى الثُّلُثِ اَوِالرُّبعِ <br>\
+                  &lt;i&gt;He cooked it&lt;/i&gt; (namely نَبِيذ [i. e. must, or mead, or wort,]) &lt;i&gt;until it became reduced&lt;/i&gt; (رَجَعَ) &lt;i&gt;to the third, or to the fourth:&lt;/i&gt; (T:) or, said of the same, (Mgh,) or of medicine, (TA,) حَتَّى ا=لَ <br>\
+                  المَنَّانِ مَنَّا وَاحِدًا, (Mgh,) or اـِلَى مَنٍّ وَاحِدٍ, (TA,) &lt;i&gt;until twice the quantity,&lt;/i&gt; or &lt;i&gt;weight, of a&lt;/i&gt; <br>\
+                  مَنّ <br>\
+                  &lt;i&gt;became&lt;/i&gt; [&lt;i&gt;reduced to&lt;/i&gt;] (صَارَ) &lt;i&gt;one&lt;/i&gt; <br>\
+                  مَنّ. (Mgh.) ―         -b6-  [Hence also, مَجَازُ الاَوْلِ <br>\
+                  &lt;i&gt;The proleptic,&lt;/i&gt; or &lt;i&gt;anticipative, trope;&lt;/i&gt; as فَصِيلٌ applied to “a young camel” before it is weaned, because it is to be weaned.] ―         -b7-  [And hence also, app.,] ا=لَ الشَّىْءُ, inf. n. مَا=لٌ, &lt;i&gt;The thing&lt;/i&gt; [&lt;i&gt;became reduced in quantity&lt;/i&gt; or &lt;i&gt;size;&lt;/i&gt;] &lt;i&gt;decreased; diminished;&lt;/i&gt; or &lt;i&gt;became defective,&lt;/i&gt; or &lt;i&gt;deficient.&lt;/i&gt; (M, K.) And ا=لَ لَحْمُ <br>\
+                  النَّاقَةِ <br>\
+                  &lt;i&gt;The flesh of the she-camel went away, so that she became lean,&lt;/i&gt; or &lt;i&gt;slender and lean,&lt;/i&gt; or &lt;i&gt;lean and lank in the belly.&lt;/i&gt; (T, K.) ―         -b8-  ا=لَ, (T, S, M, K,) inf. n. اَوْلٌ (T, M, K) and اـِيَالٌ, (M, K,) is also said of tar, (T, S, M,) and of honey, (S,) and of milk, (M,) and of wine, or beverage, (TA,) and of urine, (M,) or of the urine of camels that have been contented with green pasture instead of water, at the end of their being in that state, (T,) and of oil, (M, K,) and other things, (K,) as meaning &lt;i&gt;It became thick:&lt;/i&gt; (T, S, M, K:) said of milk, &lt;i&gt;it thickened and coagulated:&lt;/i&gt; (M:) said of wine, or beverage, &lt;i&gt;it thickened, and became intoxicating in its utmost degree:&lt;/i&gt; (Az, TA:) and said of oil, &lt;i&gt;it attained its full perfume,&lt;/i&gt; or &lt;i&gt;sweetness of odour, by being well prepared&lt;/i&gt; or &lt;i&gt;compounded.&lt;/i&gt; (T.) ―         -b9-  مَا لَكَ تَوُولُ اـِلَى كَتِفَيْكَ [written in the TA without any vowel-signs, app. meaning (tropical:)  &lt;i&gt;What aileth thee that thou shruggest thy shoulders?&lt;/i&gt; lit., &lt;i&gt;drawest thyself together to thy two shoulder-blades?&lt;/i&gt;] is said [to a man] اـِذَا <br>\
+                  اْنْضَمَّ اـِلَيْهِمَا وَاْجْتَمَعَ [when he draws himself together to them, and contracts himself]; and is a tropical phrase: so says Z. (TA.) ―         -b10-  ا=لَ مِنْ <br>\
+                  فُلَانٍ <br>\
+                  &lt;i&gt;He escaped,&lt;/i&gt; or &lt;i&gt;became safe&lt;/i&gt; or &lt;i&gt;secure, from such a one:&lt;/i&gt; a dial. var. of وَاَلَ: (T, K:) of the dial. of the Ansár. (TA.) ―         -b11-  You say also, ا=لَ, aor. يَوُولُ; (T, Msb;) or اَوِلَ, aor. يَاْوَلُ; (K;) meaning &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, preceded; went before; was,&lt;/i&gt; or &lt;i&gt;became, before, beforehand, first,&lt;/i&gt; or &lt;i&gt;foremost;&lt;/i&gt; (T, Msb, K;) &lt;i&gt;and came:&lt;/i&gt; (Msb:) with this, also, وَاَلَ is syn.; and from it [says Az] is most probably derived اَوَّلُ, so that its original form is اَاْوَلُ: [or, as Fei says,] hence is derived the phrase, used by the vulgar, العَشْرُ الاَوَّلُ with fet-h to the hemzeh [as meaning “the first, or preceding, ten (nights of the month),” for الاُوَلُ, pl. of الاُولَى, fem. of الاَوَّلُ; but this is generally regarded as being originally الاَوْاَلُ, from وَاَلَ]. (Msb.)       -A2-  ا=لَهُ: see 2. ―         -b2-  Accord. to Lth, (TA,) اُلْتُهُ, (M, K,) aor. اَوُولُهُ, inf. n. اَوْلٌ, (TA,) signifies &lt;i&gt;I made it&lt;/i&gt; (namely, milk, M, or oil &amp;amp;c., K) &lt;i&gt;to thicken,&lt;/i&gt; (M, K,) &lt;i&gt;and to coagulate;&lt;/i&gt; (M;) the verb being both intrans. and trans.: (K:) but Az says that it is not known as trans., in this sense, in the language of the Arabs [of the classical ages]. (TA.)       -A3-  ا=لَ رَعِيّتَهُ, (S, M, Msb, K,) aor. يُوُولُ, inf. n. اَوْلٌ (S) and اـِيَالٌ, (S, M, K,) of which the simple subst. is اـِيَالَةٌ, (S, * Msb,) &lt;i&gt;He&lt;/i&gt; (a prince or commander, S, or a king, M, K) &lt;i&gt;ruled,&lt;/i&gt; or &lt;i&gt;governed, his subjects; presided over their affairs, as commander&lt;/i&gt; or &lt;i&gt;governor;&lt;/i&gt; (S, M, Msb, K;) &lt;i&gt;and did so well:&lt;/i&gt; (S:) and ا=لَ عَلَيْهِمْ, inf. n. اَوْلٌ and اـِيَالٌ and اـِيَالَةٌ, [or this last, as said above, is a simple subst.,] &lt;i&gt;he presided over them; held command,&lt;/i&gt; or &lt;i&gt;authority, over them;&lt;/i&gt; (M, K;) namely, a people, or company of men; (K;) or, &lt;i&gt;over their affairs.&lt;/i&gt; (TA.) It is said in a prov., (M,) قَدْ اُلْنَا وَاـِيلَ عَلَيْنَا (T, S, M) &lt;i&gt;We have ruled and been ruled;&lt;/i&gt; (T;) &lt;i&gt;we have presided and been presided over.&lt;/i&gt; (M.) ―         -b2-  ا=لَ مَالهُ, (T, S, M, * Msb, K,) inf. n. اـِيَالَةٌ, (T, Msb,) &lt;i&gt;He put into a good,&lt;/i&gt; or &lt;i&gt;right, state,&lt;/i&gt; or &lt;i&gt;condition, and managed,&lt;/i&gt; or &lt;i&gt;tended, his&lt;/i&gt; <br>\
+                  مال [meaning &lt;i&gt;cattle&lt;/i&gt;]; (T, S, M, * K;) as also ↓ <br>\
+      ايتالهُ [written with the disjunctive alif اِيتَالَهُ], (K,) inf. n. اِيتِيَالٌ: (S:) or &lt;i&gt;he managed his camels, and his sheep&lt;/i&gt; or &lt;i&gt;goats, in such a manner that they throve,&lt;/i&gt; or &lt;i&gt;became in a good state&lt;/i&gt; or &lt;i&gt;condition, by his management.&lt;/i&gt; (Msb.) Lebeed describes a female singer &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اـِبْهَامُهَا ↓ <br>\
+      بِمُوَتَّرٍتَاْتَالُهُ<br>\
+                  &lt;/quote&gt; (T, S,) meaning &lt;i&gt;with a stringed lute,&lt;/i&gt; (EM p. 169,) &lt;i&gt;which her thumb adjusts;&lt;/i&gt; (S, EM;) from اُلْتُ, (T, S,) signifying &lt;i&gt;I put into a good, right,&lt;/i&gt; or &lt;i&gt;proper, state,&lt;/i&gt; or &lt;i&gt;condition.&lt;/i&gt; (T. [But see another reading in the first paragraph of art. اوي.]) You say also, اُلْتُ الشَّىْءَ meaning &lt;i&gt;I composed,&lt;/i&gt; or &lt;i&gt;collected together, the thing, and put it into a good, right,&lt;/i&gt; or &lt;i&gt;proper, state,&lt;/i&gt; or &lt;i&gt;condition:&lt;/i&gt; and some of the Arabs say, اْللّٰهُ عَلَيْكَ ↓ <br>\
+      اَوَّلَ <br>\
+                  اَمْرَكَ, i. e. &lt;i&gt;May God compose for thee thine affair:&lt;/i&gt; and, by way of imprecation, اْللّٰهُ ↓ <br>\
+      لَا اَوَّلَ <br>\
+                  عَلَيْهِ شَمْلَهُ [&lt;i&gt;May God not compose for him his discomposed, disorganized, deranged,&lt;/i&gt; or &lt;i&gt;unsettled, affair,&lt;/i&gt; or &lt;i&gt;affairs&lt;/i&gt;]. (T.) ―         -b3-  اُلْتُ الاـِبلَ, inf. n. اَوْلٌ and اـِيَالٌ, also signifies &lt;i&gt;I drove the camels:&lt;/i&gt; (M:) or, accord. to the T, &lt;i&gt;I bound the camels&#39; udders with the&lt;/i&gt; <br>\
+                  اَصِرَّة (صَرَرْتُهَا) &lt;i&gt;until the time of milking, when I loosed them.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1499&quot; key=&quot;اوّلهُ اـِلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اوّلهُ اـِلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. تَاْوِيلٌ, (TA,) &lt;i&gt;He returned it&lt;/i&gt; (namely, a thing, M) &lt;i&gt;to him,&lt;/i&gt; or &lt;i&gt;it; he made it,&lt;/i&gt; or &lt;i&gt;caused it, to return to him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; syn. رَجَعَهُ: (M, K: in the CK رَجَّعَهُ:) and ↓ <br>\
+      ا=لَهُ also signifies the same; syn. رَدَّهُ. (TA.) You say, اَوَّلَ اْللّٰهُ عَلَيْكَ ضَالَّتَكَ <br>\
+                  &lt;i&gt;May God restore to thee thy stray;&lt;/i&gt; (T, * TA;) &lt;i&gt;cause it to return to thee;&lt;/i&gt; (TA;) &lt;i&gt;bring together thee and it.&lt;/i&gt; (T.) And اَوَّلْتُهُ اـِلَى كَذَا <br>\
+                  &lt;i&gt;I caused him,&lt;/i&gt; or &lt;i&gt;it, to come to such a state&lt;/i&gt; or &lt;i&gt;condition; brought,&lt;/i&gt; or &lt;i&gt;reduced, him,&lt;/i&gt; or &lt;i&gt;it, thereto;&lt;/i&gt; syn. صَيَّرْتُهُ اـِلَيْهِ. (T.) ―         -b2-  See also 1, near the end of the paragraph, in two places. ―         -b3-  تَاْوِيلٌ also signifies The &lt;i&gt;discovering, detecting, revealing, developing,&lt;/i&gt; or &lt;i&gt;disclosing,&lt;/i&gt; or the &lt;i&gt;explaining, expounding,&lt;/i&gt; or &lt;i&gt;interpreting, that to which a thing is,&lt;/i&gt; or &lt;i&gt;may be, reduced,&lt;/i&gt; or &lt;i&gt;that which it comes,&lt;/i&gt; or &lt;i&gt;may come, to be:&lt;/i&gt; (S, O, TA:) you say, اَوَّلْتُهُ, inf. n. تَاْوِيلٌ; and ↓ <br>\
+      تَاَوَّلْتُهُ, inf. n. تَاَوُّلٌ; in one and the same sense: and hence the saying of El-Aashà: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        حُبِّهَا ↓ <br>\
+      عَلَى اَنَّهَا كَانَتْ تَاَوُّلُ<br>\
+                     &lt;L&gt;<br>\
+                        رِبْعِىِّ السِّقَابِ فَاَصْحَبَا ↓ <br>\
+      تَاَوُّلَ<br>\
+                  &lt;/quote&gt; (S:) or حُبَّها ↓ <br>\
+      تاوَّل: (so in a copy of the T: [the former word being, accord. to this reading, a contraction of تَتَاَوَّلُ; but this does not altogether agree with what here follows:]) AO says, تَاَوُّلُ حُبِّهَا means تَفْسِيرُهُ وَمَرْجِعُهُ: [i. e., the explanation of her love, or of the (poet&#39;s) love of her, and the state, or condition, to which it eventually came, is this:] (S:) it was small in his heart, and ceased not to grow until it became great; like as the little young camel [born in the season called ربيع, or in the beginning of the breeding-time,] ceases not to grow until he becomes great like his mother, (T, * S,) and has a son accompanying him: (S:) [or] اوّلهُ and ↓ <br>\
+      تاوّلهُ, (M, K,) inf. n. of the former as above, (K,) when said of language, signify دَبَّرَهُ وَقَدَّرَهُ وَفَسَّرَهُ [&lt;i&gt;he considered its end,&lt;/i&gt; or &lt;i&gt;what it might be to which it led or pointed, and compared one part of it with another, and&lt;/i&gt; then &lt;i&gt;explained,&lt;/i&gt; or &lt;i&gt;expounded,&lt;/i&gt; or &lt;i&gt;interpreted, it&lt;/i&gt;]: (M, K:) hence, [if the explanation in the M and K be meant to denote three distinct meanings, which I do not think to be the case,] it would seem as though تَاْوِيلٌ and تَفْسِيرٌ were syn.; but accord. to other authorities, they differ: (TA:) [Az says,] accord. to Ahmad Ibn-Yahyà, these two words and مَعْنًى are all one: but تاويل seems to me to signify the &lt;i&gt;collecting the meanings of dubious expressions by such expression as is clear,&lt;/i&gt; or &lt;i&gt;plain, without dubiousness:&lt;/i&gt; or, accord. to Lth, it is the &lt;i&gt;interpreting of language that has different meanings; and this cannot be rightly done but by an explanation which changes the expression;&lt;/i&gt; as also ↓ <br>\
+      تاَوُّلٌ: (T:) or the &lt;i&gt;turning a verse of the Kur-án from its apparent meaning to a meaning which it bears,&lt;/i&gt; or &lt;i&gt;admits, when the latter is agreeable with the Scripture and the Sunneh:&lt;/i&gt; for instance, in the words of the Kur [vi. 95, &amp;amp;c.], يُخْرِجُ اْلْحَىَّ مِنَ المَيِّتِ, if the meaning be [thus explained] “He produceth the bird from the egg,” this is تفسير: and if [it be explained as meaning] “He produceth the believer from the unbeliever,” or “the knowing from the ignorant,” this is تاويل: so says Ibn-El-Kemál: (TA:) [hence, although it may often be rendered by &lt;i&gt;interpretation,&lt;/i&gt; like تفسير, it more properly signifies the &lt;i&gt;rendering in a manner not according to the letter,&lt;/i&gt; or &lt;i&gt;overt sense; explaining the covert,&lt;/i&gt; or &lt;i&gt;virtual,&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;127&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;meaning; interpreting in a manner not according to the obvious meaning:&lt;/i&gt;] or the &lt;i&gt;reducing a thing to its ultimate intent, whether it be a saying or an action:&lt;/i&gt; (Er-Rághib, TA:) or تفسير signifies the “discovering, detecting, revealing, or disclosing, what is meant by a dubious expression;” and تاويل, the &lt;i&gt;reducing one of two senses,&lt;/i&gt; or &lt;i&gt;interpretations, which an expression bears,&lt;/i&gt; or &lt;i&gt;admits, to that which suits the apparent meaning:&lt;/i&gt; (L and K in art. فسر, and TA in that and in the present art.:) or the former signifies the “expounding, explaining, or interpreting, the narratives which occur collected without discrimination in the Kur-án, and making known the significations of the strange words or expressions, and explaining the occasions on which the verses were revealed;” and the latter, the &lt;i&gt;explaining the meaning of that which is&lt;/i&gt; <br>\
+                  مُتَشَابِهِ, [or &lt;i&gt;what is equivocal,&lt;/i&gt; or &lt;i&gt;ambiguous,&lt;/i&gt;] i. e., &lt;i&gt;what is not understood without repeated consideration.&lt;/i&gt; (TA: [in which are some further explanations; but these add nothing of importance.]) ―         -b4-  [Hence, اوّل لَفْظًا, in grammar, &lt;i&gt;He rendered a word,&lt;/i&gt; or &lt;i&gt;an expression,&lt;/i&gt; or &lt;i&gt;a phrase, in grammatical analysis, by another word,&lt;/i&gt; or &lt;i&gt;expression,&lt;/i&gt; or &lt;i&gt;phrase.&lt;/i&gt;] ―         -b5-  And [hence likewise,] تَاْوِيلٌ signifies also The &lt;i&gt;interpretation,&lt;/i&gt; or &lt;i&gt;explanation,&lt;/i&gt; of a dream; the &lt;i&gt;telling the final sequel,&lt;/i&gt; or &lt;i&gt;result,&lt;/i&gt; thereof: (M, K:) as in the Kur xii. 101. (M.) ―         -b6-  It is also used [as a simple subst.] to signify The &lt;i&gt;end, issue, result,&lt;/i&gt; or &lt;i&gt;final sequel,&lt;/i&gt; of a thing; syn. عَاقِبَةٌ; (Bd in iv. 62 and xvii. 37;) or ↓ <br>\
+      مَا=لٌ; (Jel in the same places;) or مَرْجِعٌ, and مَصِيرٌ; as in the Kur [iii. 5], وَمَا <br>\
+                  يعْلَمُ تَاْوِيلَهُ اـِلَّا اْللّٰهُ [&lt;i&gt;But none knoweth the end,&lt;/i&gt; &amp;amp;c., &lt;i&gt;thereof, except God&lt;/i&gt;]: (A&#39;Obeyd, T:) or this phrase means, &lt;i&gt;but none knoweth when will be the resurrection, and to what the case will eventually come,&lt;/i&gt; (T, M,) &lt;i&gt;when the hour shall arrive,&lt;/i&gt; (TA,) &lt;i&gt;except God:&lt;/i&gt; (T, M:) so says Aboo-Is-hák: (T:) and in like manner, [in the Kur vii. 51,] هَلْ يَنْظُرُونَ اـِلَّا تَاْوِيلَهُ means &lt;i&gt;Do they wait for aught save the result to which their case will come by the resurrection?&lt;/i&gt; (Aboo-Is-hák, T, M:) or, &lt;i&gt;the result to which it will come&lt;/i&gt; (Bd, Jel) &lt;i&gt;in the manifestation of its truth by the appearance of the promises and threats of which it has told?&lt;/i&gt; (Bd:) in like manner, also, the saying, تَقْوي اْللّٰهِ <br>\
+                  اَحْسَنُ تَاْوِيلًا means &lt;i&gt;The fear of God is best in respect of result;&lt;/i&gt; syn. عَاقِبَةً. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَوَّلَ<br>\
+                  &lt;/form&gt; see 2, in the former half of the paragraph, in six places. ―         -b2-  تاوّل فِيهِ الخَيْرَ <br>\
+                  &lt;i&gt;He discovered in him the existence of good,&lt;/i&gt; or &lt;i&gt;goodness, from its outward signs:&lt;/i&gt; and &lt;i&gt;he sought,&lt;/i&gt; or &lt;i&gt;looked for, good,&lt;/i&gt; or &lt;i&gt;goodness, in him.&lt;/i&gt; (TA.) You say also, تَاَوَّلْتُ فِى فُلَانٍ الاَجْرَ <br>\
+                  &lt;i&gt;I sought,&lt;/i&gt; or &lt;i&gt;looked for, recompense in&lt;/i&gt; (or &lt;i&gt;of&lt;/i&gt; or &lt;i&gt;from&lt;/i&gt;) &lt;i&gt;such a one.&lt;/i&gt; (T.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَوَلَ<br>\
+                  &lt;/form&gt; see 1, near the end of the paragraph, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1500&quot; key=&quot;استا=ل الرُّوْيَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استا=ل الرُّوْيَا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He sought the interpretation of the dream, by consideration.&lt;/i&gt; (TA in art. سوا.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1501&quot; key=&quot;ا=لٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=لٌ<br>\
+                     ا=ل<br>\
+                  &lt;/form&gt; A man&#39;s اَهْل [or &lt;i&gt;family&lt;/i&gt;]; (T, S, M, Msb, K;) i. e. his &lt;i&gt;relations:&lt;/i&gt; (Msb:) his عَشِيرَة [or &lt;i&gt;kinsfolk;&lt;/i&gt; or &lt;i&gt;nearer,&lt;/i&gt; or &lt;i&gt;nearest, relations by descent from the same father or ancestor;&lt;/i&gt; &amp;amp;c.]; from اَوْلٌ as signifying رُجُوعٌ, because recourse is had to them in all affairs: (Har p. 578:) and his &lt;i&gt;household;&lt;/i&gt; (S, TA;) the &lt;i&gt;people of&lt;/i&gt; his &lt;i&gt;house:&lt;/i&gt; (Msb:) and his &lt;i&gt;followers;&lt;/i&gt; (S, Msb, K;) including &lt;i&gt;soldiers:&lt;/i&gt; (S, TA:) and his اَوْلِيَا=ء [i. e. &lt;i&gt;friends,&lt;/i&gt; and &lt;i&gt;the like&lt;/i&gt;]: (K:) &lt;i&gt;those who bear a relation&lt;/i&gt; to him, &lt;i&gt;as members to a head,&lt;/i&gt; (مَنْ ا=لَ اـِلَيْهِ,) &lt;i&gt;by religion&lt;/i&gt; or &lt;i&gt;persuasion&lt;/i&gt; or &lt;i&gt;kindred;&lt;/i&gt; as in the Kur iii. 9 and viii. 54 and 56 &amp;amp;c.: (Ibn-&#39;Arafeh:) [or in these and many other instances, it may be rendered &lt;i&gt;people:&lt;/i&gt;] but in general it is not used save in relation to that in which is eminence, or nobility; so that one does not say, ا=لُ الاـِسْكَافِ, like as one says اَهْلُهُ: (K:) and it is peculiarly used as a prefix to the proper names of rational beings; not to indeterminate nouns, nor to nouns of places or of times; so that one says, ا=لُ فُلَانٍ; but not ا=لُ رَجُلٍ, nor ا=لُ زَمَانِ كَذَا, nor ا=لُ مَوْضَعِ <br>\
+                  كَذَا, like as one says, [اَهْلُ رَجُلٍ, and اَهْلُ زَمَانِ <br>\
+                  كَذَا, and] اَهْلُ بَلَدِ كَذَا and مَوْضِعِ كَذَا: (TA:) Ks disallows its being prefixed to a pronoun; so that one should not say, ا=لُهُ, but اَهْلُهُ; but his opinion in this matter is not correct: it is originally اَوَلٌ; the و being changed into ا, (M, * Msb,) as in قَالَ [which is originally قَوَلَ]: so say some: (Msb:) or it is originally اَهْلٌ, (T, M, Msb, K,) then اَاْلٌ, and then ا=لٌ: (K:) so say some, arguing thus from its having اُهَيْلٌ for its dim.: (T, Msb:) but accord. to Ks, it assumes the form ↓ <br>\
+      اُوَيْلٌ as a dim.: (T:) or each of these is its dim. (M, K.) By the ا=ل of the Prophet are meant, accord. to some persons, &lt;i&gt;His followers, whether relations or others:&lt;/i&gt; and &lt;i&gt;his relations, whether followers or not:&lt;/i&gt; (Ahmad Ibn-Yahyà, T:) or, as some say, &lt;i&gt;his family&lt;/i&gt; (اَهْلُهُ [q. v.]) &lt;i&gt;and his wives:&lt;/i&gt; [but it seems to be indicated that what I have rendered “and his wives” is meant as an explicative adjunct to اهله:] or, as some say, &lt;i&gt;the people of his religion:&lt;/i&gt; (Esh-Sháfi&#39;ee, T:) being himself asked who were his ا=ل, he answered &lt;i&gt;all pious persons:&lt;/i&gt; (Anas, TA:) but in a trad. in which it is said that the poor-rates are prohibited to him and to his ا=ل, by this is meant those to whom was appropriated the fifth [of the spoils] instead of the poor-rates; and these were the genuine descendants of Háshim and El-Muttalib. (Esh-Sháfi&#39;ee, T.) ―         -b2-  يَا لَزَيْدٍ and يَالَ زَيْدٍ, accord. to the Koofees, are contractions of يَا ا=لَ زَيْدٍ [&lt;i&gt;O family of Zeyd&lt;/i&gt;]. (Mughnee, on the letter ل; and El-Ashmoonee on the Alfeeyeh of Ibn-Málik, section الاستغاثة. [See the letter ل.]) ―         -b3-  [See also اـِيلَةٌ.]       -A2-  (tropical:)  &lt;i&gt;I. q.&lt;/i&gt; <br>\
+                  شَخْصٌ [meaning The &lt;i&gt;body,&lt;/i&gt; or &lt;i&gt;corporeal form&lt;/i&gt; or &lt;i&gt;figure&lt;/i&gt; or &lt;i&gt;substance,&lt;/i&gt; (of anything, as is said in the T,) &lt;i&gt;which one sees from a distance;&lt;/i&gt; or, in this case, often, though not always, the &lt;i&gt;person,&lt;/i&gt; or &lt;i&gt;self&lt;/i&gt;]; (AA, T, S, M, K;) of a man: a metaphorical application, from ا=لٌ as signifying اَهْلٌ and عَشِيرَةٌ; because comprising the members and the senses. (Har p. 578.) ―         -b2-  Sometimes, it is redundant, or pleonastic; [being only used for the sake of metre in verse, or to give more force to an expression;] as in the following instance: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اُلَاقِى مِنْ تَذَكُّرِ ا=لِ لَيْلَى<br>\
+                     &lt;L&gt;<br>\
+                        كَمَا يَلْقَى السَّلِيمُ مِنَ العِدَادِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;I experience, from remembrance of Leylà,&lt;/i&gt; or &lt;i&gt;of Leylà&#39;s person&lt;/i&gt; or &lt;i&gt;self, the like of what the person bitten&lt;/i&gt; or &lt;i&gt;stung&lt;/i&gt; by a venomous reptile &lt;i&gt;experiences from the paroxysm of pain occasioned by the bits&lt;/i&gt; or &lt;i&gt;sting&lt;/i&gt;]. (TA.) [See also another ex., voce جَاْبٌ; and another, voce مِزْمَارٌ.] ―         -b3-  [Like شَخْصٌ, it seems to be sometimes applied to &lt;i&gt;Any material thing that is somewhat high, and conspicuous:&lt;/i&gt; and hence, perhaps, the signification next following.] ―         -b4-  مَا اَشْرَفَ مِنَ البَعِيرِ [app. meaning The &lt;i&gt;overtopping,&lt;/i&gt; or &lt;i&gt;higher, part,&lt;/i&gt; or &lt;i&gt;parts, of the camel&lt;/i&gt;]. (M, K.) ―         -b5-  &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;tent of the kind called&lt;/i&gt;] خَيْمَة. (M.) ―         -b6-  The &lt;i&gt;poles of the&lt;/i&gt; <br>\
+                  خَيْمَة; (M, K;) as also ↓ <br>\
+      ا=لَةٌ; of which the pl. is ا=لاتٌ: (K:) or ↓ <br>\
+      ا=لَةٌ is the sing. of ا=لٌ and ا=لَاتٌ, [or n. un. of the former and pl. of the latter,] which signify the &lt;i&gt;pieces of wood&lt;/i&gt; (خَشَبَات) &lt;i&gt;upon which the&lt;/i&gt; <br>\
+                  خيمة <br>\
+                  &lt;i&gt;is raised,&lt;/i&gt; or &lt;i&gt;constructed:&lt;/i&gt; and hence Kutheiyir likens the legs of his she-camel to four ا=لات of the [wood of the tree called] طَلْح. (S.) ―         -b7-  The &lt;i&gt;pieces of wood&lt;/i&gt; (خَشَب, T, M, K) of خَيْم [or tents], (M,) &lt;i&gt;stripped&lt;/i&gt; [&lt;i&gt;of the tent-cloths&lt;/i&gt;]. (T, TA.) ―         -b8-  Also, [app. because rising from the general surface of the ground,] The &lt;i&gt;extremities and sides&lt;/i&gt; of a mountain. (M, K. *)       -A3-  The سَرَاب [or &lt;i&gt;mirage&lt;/i&gt;]: (As, T, M, K:) or peculiarly applied to &lt;i&gt;that which is in the first part of the day,&lt;/i&gt; (K,) &lt;i&gt;as though raising figures seen from a distance&lt;/i&gt; (شُخُوص), &lt;i&gt;and making them to quiver:&lt;/i&gt; (TA:) or &lt;i&gt;that which one sees in the first part of the day, and in the last part thereof, as though raising figures seen from a distance&lt;/i&gt; (شخوص); &lt;i&gt;not the same as the&lt;/i&gt; <br>\
+                  سراب: (S:) or &lt;i&gt;what resembles the&lt;/i&gt; <br>\
+                  سراب: (Msb:) or, as some say, &lt;i&gt;that which is in the&lt;/i&gt; <br>\
+                  ضُحَى [or &lt;i&gt;early part of the day when the sun is yet low&lt;/i&gt;], &lt;i&gt;like water between the sky and the earth,&lt;/i&gt; [&lt;i&gt;in appearance&lt;/i&gt;] &lt;i&gt;raising figures seen from a distance&lt;/i&gt; (شخوص), &lt;i&gt;and making them to quiver;&lt;/i&gt; whereas the سراب is that which is at mid-day, [apparently] cleaving to the ground, as though it were running water: Th says, &lt;i&gt;the&lt;/i&gt; <br>\
+                  ا=ل <br>\
+                  &lt;i&gt;is in the first part of the day:&lt;/i&gt; (M:) As says that &lt;i&gt;the&lt;/i&gt; <br>\
+                  ا=ل <br>\
+                  &lt;i&gt;and the&lt;/i&gt; <br>\
+                  سراب <br>\
+                  &lt;i&gt;are one:&lt;/i&gt; but others say that &lt;i&gt;the former is from the&lt;/i&gt; <br>\
+                  ضُحَى [see above] &lt;i&gt;to the declining of the sun from the meridian;&lt;/i&gt; whereas the سراب is after the declining of the sun from the meridian to the prayer of the عَصْر; and in favour of their assertion they urge, that &lt;i&gt;the former&lt;/i&gt; [&lt;i&gt;in appearance&lt;/i&gt;] &lt;i&gt;raises everything so that it becomes what is termed&lt;/i&gt; <br>\
+                  ا=ل, &lt;i&gt;i. e.&lt;/i&gt; <br>\
+                  شَخْص; for the ا=ل of everything is its شخص; and that the سراب [in appearance] lowers every شخص in it so that it becomes [as though it were] cleaving to the ground, having no شخص: Yoo says, the Arabs say that &lt;i&gt;the&lt;/i&gt; <br>\
+                  ا=ل <br>\
+                  &lt;i&gt;is from the&lt;/i&gt; <br>\
+                  غُدْوَة [or &lt;i&gt;period between the prayer of daybreak and sunrise&lt;/i&gt;] &lt;i&gt;to the time when the sun is very high,&lt;/i&gt; or &lt;i&gt;near the meridian;&lt;/i&gt; then it is called سراب for the rest of the day: ISk says, &lt;i&gt;the&lt;/i&gt; <br>\
+                  ا=ل <br>\
+                  &lt;i&gt;is that which&lt;/i&gt; [&lt;i&gt;in appearance&lt;/i&gt;] &lt;i&gt;raises figures seen from a distance&lt;/i&gt; (شخوص), &lt;pb n=&quot;128&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;and is in the&lt;/i&gt; <br>\
+                  ضُحَى [explained above]; and the سراب is that which is upon the surface of the ground, as though it were water, and is at midday: and this, I [namely Az] say, is what I have found the Arabs in the desert to say: (T:) El- Hareeree speaks of the glistening of the ا=ل; app. using this word in the sense of سراب; for it is the latter that glistens; not the former: (Har p. 363:) the word is masc. and fem. (Msb, K.) The phrase يَرفَعُ اْلْا=لَا, ending a verse (S, M) of En-Nábighah, (M, TA,) i. e. Edh-Dhubyánee, (TA,) or El-Jaadee, (S,) [variously cited in the S and M and TA,] is an instance of inversion; the meaning being يَرْفَعُهُ اْلْا=لُ [&lt;i&gt;The&lt;/i&gt; <br>\
+                  ا=ل <br>\
+                  &lt;i&gt;raising it&lt;/i&gt;]: (S, TA:) or the meaning is, &lt;i&gt;making the&lt;/i&gt; <br>\
+                  ا=ل <br>\
+                  &lt;i&gt;conspicuous&lt;/i&gt; more than it would otherwise be; the agent of the verb being a prominent portion of a mountain, which, being itself raised [in appearance] by the ا=ل, has the effect of doing this. (M.)       -A4-  See also the next paragraph.       -A5-  And see اَلَيَانٌ, in art. الي.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1502&quot; key=&quot;ا=لَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=لَةٌ<br>\
+                     ا=له<br>\
+                     ا=لة<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَدَاةٌ [i. e. &lt;i&gt;An instrument; a tool; an implement; a utensil:&lt;/i&gt; and &lt;i&gt;instruments; tools; implements; utensils; apparatus; equipments; equipage; accoutrements; furniture; gear; tackling;&lt;/i&gt;] (S, M, K) &lt;i&gt;with which one works, for himself&lt;/i&gt; or &lt;i&gt;for another:&lt;/i&gt; it is both sing. and pl.: (M, K:) or, (K,) as some say, (M,) it is a pl. having no sing. (M, K) as to the letter: (M:) [but it is very often used as a sing.:] and the pl. is ا=لَاتٌ. (S, K.) In the saying of &#39;Alee, يَسْتَعْمِلُ <br>\
+                  ا=لَةَ الدِّينِ فِى طَلَبِ الدُّنيَا [lit. &lt;i&gt;He makes use of the instrument of religion in seeking the goods of the present world&lt;/i&gt;], (assumed tropical:)  &lt;i&gt;science,&lt;/i&gt; or &lt;i&gt;knowledge,&lt;/i&gt; is meant; because thereby only is religion. (M.) ―         -b2-  [&lt;i&gt;A musical instrument;&lt;/i&gt;] &lt;i&gt;a lute; a musical reed,&lt;/i&gt; or &lt;i&gt;pipe;&lt;/i&gt; the [&lt;i&gt;kind of mandoline called&lt;/i&gt;] طُنْبُور. (TA.) ―         -b3-  The &lt;i&gt;male organ of generation.&lt;/i&gt; (TA.) ―         -b4-  The &lt;i&gt;bier of a corpse.&lt;/i&gt; (Abu-l-&#39;Omeythil, S, M, K.) Thus, accord. to some, in the following verse, (S, * M,) of Kaab Ibn-Zuheyr: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        كُلُّ اْبْنِ اُنْثَى وَاـِنْ طَالتْ سَلَامَتُهُ<br>\
+                     &lt;L&gt;<br>\
+                        يَوْمًا عَلَى ا=لَةٍ حَدْبَا=ءَ مَحْمُولُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Every son of a female, though his health,&lt;/i&gt; or &lt;i&gt;safety, long continue, is one day borne upon a gibbous bier:&lt;/i&gt; for the bier of the Arabs of the desert was generally composed of two poles connected by a net-work of cords upon which the corpse lay depressed]: (S, M:) or, as some say, [&lt;i&gt;in a distressing state,&lt;/i&gt; or &lt;i&gt;condition;&lt;/i&gt; for, they say,] ا=لَة here signifies حَلَة. (TA.) ―         -b5-  See also ا=لٌ, in two places, near the middle of the paragraph.       -A2-  &lt;i&gt;A state,&lt;/i&gt; or &lt;i&gt;condition; i. q.&lt;/i&gt; <br>\
+                  حَالَةٌ [as mentioned above]: (T, S, M, K:) pl. [or rather coll. gen. n.] ↓ <br>\
+      ا=لٌ. (T, S.) You say, هُوَبِا=لةِ سَوْءٍ [&lt;i&gt;He is in an evil state&lt;/i&gt; or &lt;i&gt;condition&lt;/i&gt;]. (S.) ―         -b2-  &lt;i&gt;I. q.&lt;/i&gt; <br>\
+                  شِذَّةٌ [&lt;i&gt;Straitness; difficulty; distress;&lt;/i&gt; &amp;amp;c.]. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1503&quot; key=&quot;اـِيلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيلَةٌ<br>\
+                     ايل<br>\
+                     ايله<br>\
+                     ايلة<br>\
+                     ايله<br>\
+                     ايلة<br>\
+                     آيل<br>\
+                     آيله<br>\
+                     آيلة<br>\
+                  &lt;/form&gt; sometimes signifies The &lt;i&gt;relations to whom one goes&lt;/i&gt; [or &lt;i&gt;is traced&lt;/i&gt;] &lt;i&gt;back in genealogy.&lt;/i&gt; (Ibn- &#39;Abbád.) [See also ا=لٌ.] ―         -b2-  You say also, رَدَدْتُهُ <br>\
+                  اـِلَى اـِيلَتِهِ <br>\
+                  &lt;i&gt;I made him to go back,&lt;/i&gt; or &lt;i&gt;revert, to his natural disposition:&lt;/i&gt; or, &lt;i&gt;to his&lt;/i&gt; [&lt;i&gt;original&lt;/i&gt;] &lt;i&gt;state&lt;/i&gt; or &lt;i&gt;condition.&lt;/i&gt; (Ibn-&#39;Abbád.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1504&quot; key=&quot;اُولُو&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُولُو<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, in the gen. and accus. اُولِى: see اُلُو, in art. اُولَى.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1505&quot; key=&quot;اُولَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُولَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt; fem. of اَوَّلُ: see the latter in art. وال.       -A2-  اُولَى as a pl., and its var. اُولَا=ءِ; and اُولٰيِكَ, or اُولَا=يِكَ; &amp;amp;c.: see اُلَى, in art. الى.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1506&quot; key=&quot;اَوَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوَالٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain idol of&lt;/i&gt; [&lt;i&gt;the tribes of&lt;/i&gt;] &lt;i&gt;Bekr and Teghlib,&lt;/i&gt; (K, TA,) &lt;i&gt;the two sons of Wáïl.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1507&quot; key=&quot;اوَيْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اوَيْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; dim. of ا=لٌ, q. v. (Ks, T, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1508&quot; key=&quot;اـِيَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيَالٌ<br>\
+                     ايال<br>\
+                  &lt;/form&gt; The &lt;i&gt;vessel,&lt;/i&gt; or &lt;i&gt;receptacle, of thickening,&lt;/i&gt; or &lt;i&gt;thick, milk:&lt;/i&gt; (M:) [or, accord. to the K, this seems to be termed ↓ <br>\
+      اُيَّلٌ: see ا=يِلٌ:] or, &lt;i&gt;in which wine&lt;/i&gt; (شَرَاب), or &lt;i&gt;expressed juice,&lt;/i&gt; or &lt;i&gt;what is pressed,&lt;/i&gt; or &lt;i&gt;squeezed, so that its juice is forced out,&lt;/i&gt; or &lt;i&gt;the like thereof, is made to thicken.&lt;/i&gt; (TA.)       -A2-  [Also an inf. n. of 1, which see throughout.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1509&quot; key=&quot;اـِيَالَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيَالَةٌ<br>\
+                     اـيالة<br>\
+                     اياله<br>\
+                     ايالة<br>\
+                  &lt;i&gt;Rule,&lt;/i&gt; or &lt;i&gt;government:&lt;/i&gt; (S, Msb:) [accord. to some, an inf. n. of ا=لَ as a trans. verb: accord. to others,] a simple subst. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1510&quot; key=&quot;اَوَّلُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوَّلُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and its variations &amp;amp;c., see art. وال: some, on account of difference of opinion from others respecting its radical letters, have mentioned this word in the present art. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1511&quot; key=&quot;اَيِّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيِّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِيَّلٌ:       -A2-  and see also ا=يِلٌ, last sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1512&quot; key=&quot;اُيَّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُيَّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِيَّلٌ:       -A2-  and see also ا=يلٌِ, in four places; and اـِيَالٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1513&quot; key=&quot;اـِيَّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيَّلٌ<br>\
+                     ايل<br>\
+                     اـيل<br>\
+                     ايل<br>\
+                     آيل<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اُيَّلٌ (T, S, Mgh, Msb, K, the first and third and fourth in art. ايل) and ↓ <br>\
+      ايِّلٌ, (T, K,) the last on the authority of IAar, (TA,) but A&#39;Obeyd says that it is اـِيَّلٌ, with kesr, (T,) and this is the approved form, (TA,) The [&lt;i&gt;animal called&lt;/i&gt;] وَعْل: (K:) or the &lt;i&gt;male&lt;/i&gt; <br>\
+                  وَعْل; (ISh, T, S, Mgh, Msb;) i. e. the &lt;i&gt;mountain-goat:&lt;/i&gt; (Msb:) accord. to some, (S,) what is called in Persian كَوَزْن; (S, Mgh;) by which word Sh explains the word اـِيَّلٌ: ISh says, it is the &lt;i&gt;animal that is very wide between the horns, and bulky, like the domestic bull:&lt;/i&gt; (T:) [see بَقَرُ الوَحْشِ in art. بقر:] and Lth says, it is called thus because it resorts (يَوُولُ) to the mountains: sometimes the ى is changed into ج: the fem. is of the same three forms with ة: (TA:) and the pl. is اَيَايِلُ [like سَيَايِدُ pl. of سَيِّدٌ]. (Lth, T, Mgh, Msb.) ―         -b2-  See also ا=يِلٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1514&quot; key=&quot;ا=يِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=يِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [act. part. n. of 1 in all its senses: and thus, particularly,] &lt;i&gt;Thickening,&lt;/i&gt; or &lt;i&gt;thick;&lt;/i&gt; (T, S, M, TA;) applied to the urine of camels that have been contented with green pasture instead of water, at the end of their being in that state; (T;) or to milk, (S, M, TA,) and to oil, and other things, such as tar, and honey, and wine, or beverage: (TA:) pl. ↓ <br>\
+      اُيَّلٌ: (S, M:) which last word [in one copy of the M written اـِيلٌ, but this I think a mistranscription,] signifies also the &lt;i&gt;remains of thickening,&lt;/i&gt; or &lt;i&gt;thick, milk;&lt;/i&gt; or, as some say, the [&lt;i&gt;seminal&lt;/i&gt;] &lt;i&gt;water in the womb:&lt;/i&gt; (M:) or this same word (اُيَّلٌ) has the last of these significations; and also, [as a sing. epithet,] the first of the meanings explained in this paragraph; as also ا=يِلٌ, applied to milk; (K;) or to milk &lt;i&gt;thickening,&lt;/i&gt; or &lt;i&gt;thick, and mixed; not excessively thick, but in a somewhat good degree, and changed in its flavour:&lt;/i&gt; (AHát, TA:) or it [app. اُيَّلٌ, as in the TK,] signifies the &lt;i&gt;vessel,&lt;/i&gt; or &lt;i&gt;receptacle, thereof;&lt;/i&gt; (K;) [a meaning assigned in the M to اـِيَالٌ;] &lt;i&gt;in which milk thickens:&lt;/i&gt; (TA:) Sh says that ↓ <br>\
+      اـِيَّلٌ signifies the &lt;i&gt;milk of the&lt;/i&gt; <br>\
+                  اَيَايِل [pl. of اـِيَّلٌ]; and so says AA: but AHeyth says that this is absurd; and that the right word is ↓ <br>\
+      اُيَّلٌ, having the signification first explained in this paragraph, i. e. &lt;i&gt;thickening,&lt;/i&gt; or &lt;i&gt;thick,&lt;/i&gt; milk: En-Nadr says that ↓ <br>\
+      اـِيَّلٌ signifies &lt;i&gt;thick urine of she-goats of the mountain;&lt;/i&gt; which, when drunk by a woman, excites her venereal faculty: (T:) or this last word is used to signify &lt;i&gt;milk of an&lt;/i&gt; <br>\
+                  اـِيَّل, which is said to strengthen in the venereal faculty, and to fatten, as Ibn-Habeeb asserts; and ↓ <br>\
+      اُيَّلٌ, which he affirms to be wrong, is a dial. var. thereof; and it may also be a quasi-pl. n. thereof: (M:) as a pl. [of ا=يِلٌ], applied to milk, ↓ <br>\
+      ا=ُيَّلٌ is extr. in two respects; as a pl., of this form, of an epithet not applied to an animal; and as being regularly اُوَّلٌ. (IJ, M.)       -A2-  اـِنَّهُ لَا=يِلُ مَالٍ and مَالٍ ↓ <br>\
+      اَيِّلُ <br>\
+                  &lt;i&gt;Verily he is a good manager,&lt;/i&gt; or &lt;i&gt;tender, of cattle,&lt;/i&gt; or &lt;i&gt;camels,&lt;/i&gt; or &lt;i&gt;the like.&lt;/i&gt; (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1515&quot; key=&quot;تَاْوِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْوِيلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; used as a simple subst. in the sense of عَاقِبَةٌ &amp;amp;c.: see 2, last sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1516&quot; key=&quot;مَا=لٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَا=لٌ<br>\
+                     ما=ل<br>\
+                  &lt;/form&gt; inf. n. of ا=لَ, in two senses pointed out above. (M, K, TA.) ―         -b2-  [Hence, مَا=لُهُ اـِلَى كَذَا <br>\
+                  &lt;i&gt;His,&lt;/i&gt; or &lt;i&gt;its, return,&lt;/i&gt; or &lt;i&gt;course,&lt;/i&gt; or &lt;i&gt;transition, is to such a state&lt;/i&gt; or &lt;i&gt;condition.&lt;/i&gt;]       -A2-  Also, [as a noun of place &amp;amp;c.,] &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَرْجِعٌ [as signifying &lt;i&gt;A place,&lt;/i&gt; and &lt;i&gt;a state,&lt;/i&gt; or &lt;i&gt;condition, to which a person,&lt;/i&gt; or &lt;i&gt;thing, returns;&lt;/i&gt; and, &lt;i&gt;to which he,&lt;/i&gt; or &lt;i&gt;it, ultimately,&lt;/i&gt; or &lt;i&gt;eventually, comes&lt;/i&gt;]. (TA, [where this is given as a signification not mentioned in the K; so that مرجع is not here used as an inf. n.: it is, moreover, a signification well known.]) See also 2, last sentence. ―         -b2-  &lt;i&gt;A refuge:&lt;/i&gt; applied in this sense to God. (Har p. 361.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1517&quot; key=&quot;هُوَ مُوْتَالٌ لِقَوْمِهِ مُقْتَالٌ عَلَيْهِمْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُوَ مُوْتَالٌ لِقَوْمِهِ مُقْتَالٌ عَلَيْهِمْ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He is ruler,&lt;/i&gt; or &lt;i&gt;governor, of his people; a possessor of dictatorship over them,&lt;/i&gt; or &lt;i&gt;of authority over them to judge&lt;/i&gt; or &lt;i&gt;give judgment&lt;/i&gt; or &lt;i&gt;pass sentence&lt;/i&gt; or &lt;i&gt;decide judicially.&lt;/i&gt; (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1518&quot; key=&quot;هٰذَا مُتَاَوَّلٌ حَسَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هٰذَا مُتَاَوَّلٌ حَسَنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [app. &lt;i&gt;This is a good discovery made from outward signs&lt;/i&gt;]. (TA, where it immediately follows تَاَوَّلَ فِيهِ الخَيْرَ with its explanations given above.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1519&quot; key=&quot;مُتَاَوِّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَوِّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see its verb. ―         -b2-  [Sometimes it signifies] &lt;i&gt;Veracious:&lt;/i&gt; opposed to مُتَقَوِّلٌ. (Har p. 256.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'لعث1<br>\
+لَعِثٌ, aor.<br>\
+لَعَثَ, (inf. n. لَعَثٌ, TA,) He (a<br>\
+man, TA) was heavy and slow. (K.)<br>\
+أَلْعَثُ A man (TA) heavy and slow. (K)<br>\
+' } );

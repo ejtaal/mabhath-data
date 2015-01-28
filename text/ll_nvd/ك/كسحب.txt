@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كسحبQ. 1<br>\
+كَسْحَبَ, inf. n. كَسْحَبَةٌ, He walked in<br>\
+fear, hiding himself. (K.)<br>\
+' } );

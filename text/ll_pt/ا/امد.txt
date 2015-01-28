@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>امد</em>            1                  امد<br>\
+<b>اَمِدَ عَلَيْهِ</b>               1     <br>\
+                     اَمِدَ عَلَيْهِ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     اَمَدَ<br>\
+                  , inf. n. اَمَدٌ, <i>He was angry with him:</i> (S, M, Msb, * K:) like اَبِدَ (S) and وَمَد and وَبِدَ and عَبِدَ. (T in art. ابد.)    </entryFree> <br>\
+<b>امّد</b>               1     <br>\
+                     امّد<br>\
+                     ذ<br>\
+                  , inf. n. تَاْمِيدٌ, <i>He declared the time, considered with regard to its end;</i> or <i>the utmost,</i> or <i>extreme, extent, term, limit, point,</i> or <i>reach;</i> expl. by بَيَّنَ الاَمَدَ. (K.)    </entryFree> <br>\
+<b>اَمَدٌ</b>               1     <br>\
+                     اَمَدٌ<br>\
+                     ذ<br>\
+                  <i>Time, considered with regard to its end:</i> <br>\
+                  زَمَانٌ being time considered with regard to its end and its beginning: (Er-Rághib:) [but sometimes it is interchangeable with زَمَانٌ, as will be seen in what follows:] or the <i>utmost,</i> or <i>extreme, extent, term, limit, point,</i> or <i>reach.</i> (S, M, A, Msb, K.) You say, بَلَغَ اَمَدَهُ <br>\
+                  <i>He,</i> or <i>it, reached,</i> or <i>attained, his,</i> or <i>its, utmost,</i> or <i>extreme, extent, term,</i> &amp;amp;c. (Msb.) And ضَرَبَ لَهُ اَمَدًا [<i>He assigned,</i> or <i>appointed, for him,</i> or <i>it, a term,</i> or <i>limit</i>]. (A.) And هُوَ بَعِيدُ الا=مَادِ [<i>He is one whose limits are remote:</i> <br>\
+                  ا=مَادٌ being the pl.]. (A.) ―         -b2-  The <i>period of life which one has reached;</i> as in the saying, مَا اَمَدُكَ <br>\
+                  <i>What is thy period of life which thou hast reached?</i> (S.) ―         -b3-  <i>Each of the two terms of the life</i> of a man; i. e. the <i>time of</i> his <i>birth,</i> and the <i>time of</i> his <i>death.</i> (Sh, T.) El-Hasan [El-Basree], being asked by El-Hajjáj, مَا اَمَدُكَ, meaning <i>What was the time of thy birth?</i> answered by saying that it was two years before the expiration of &#39;Omar&#39;s reign as Khaleefeh. (T, L, from a trad.) ―         -b4-  The <i>startingplace,</i> and the <i>goal,</i> of horses in a race. (Sh, T, L.) ―         -b5-  (tropical:)  <i>Any space of time:</i> (Er-Rághib:) <i>a space of time of unknown limit.</i> (Kull pp. 9 and 10.) ―         -b6-  Sometimes, (assumed tropical:)  <i>A particular time;</i> as in the phrase اَمَدُ كَذَا <br>\
+                  <i>The time of such a thing;</i> like زَمَانُ اَمَدٌ. (Kull p. 10.) ―         -b7-  [It is also used for ذو اَمَدٌ, and (applied to a fem. n.) ذَات اَمَدٍ, <i>Having a term,</i> or <i>limit; limited in duration;</i> as in the saying,] الدُّنْيَا اَمَدٌ والا=خِرةُ اَبَدٌ [<i>The present state of existence is limited in duration, but the final state of existence is everlasting</i>]. (Obeyd Ibn-&#39;Omeyr, L in art. ابد.)    </entryFree> <br>\
+<b>اُمْدَةٌ</b>               1     <br>\
+                     اُمْدَةٌ<br>\
+                     ذ<br>\
+                  <i>A remainder,</i> or <i>what remains,</i> (K,) of anything. (TA)    </entryFree> <br>\
+<b>سِقَا=ءٍ مُوَمَّدٌ</b>               1     <br>\
+                     سِقَا=ءٍ مُوَمَّدٌ<br>\
+                     ذ<br>\
+                  <i>A skin</i> [<i>exhausted;</i>] <i>in which there remains not a gulp,</i> or <i>as much as is swallowed at once, of water.</i> (K.)    </entryFree> <br>\
+<b>اَمَرَهُ</b>               1     <br>\
+                     اَمَرَهُ<br>\
+                     ذ<br>\
+                  <i>An extreme term, limit,</i> or <i>point, reached,</i> or <i>attained.</i> (K.)   </entryFree> <br>\
+' } );

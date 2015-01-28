@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>وظف</em>            1                  وظف<br>\
+<b>وَظَّفَ عَلَيْهِ العَمَلَ</b>               1     <br>\
+                     وَظَّفَ عَلَيْهِ العَمَلَ<br>\
+                     ذ<br>\
+                  <i>He appointed him the work.</i> (Msb.) ―         -b2-  وَظَّفَ عَلَيْهِمُ الخَرَاجَ [<i>He assessed them their rates of the</i> <br>\
+                  خراج]. (Mgh in art. قسط.)    </entryFree> <br>\
+<b>وَظِيفٌ</b>               1     <br>\
+                     وَظِيفٌ<br>\
+                     ذ<br>\
+                  , in every quadruped, <i>What is above the</i> <br>\
+                  رُسْغ [or <i>pastern</i>], <i>to the joint of the</i> <br>\
+                  سَاق: in the fore-leg of a horse, <i>what is beneath the knee, to the</i> <br>\
+                  جُبَّة; and in the hind-leg, <i>what is between the</i> <br>\
+                  كعب [or <i>hock</i>] <i>and the</i> <br>\
+                  جُبَّة: accord. to IAar, in a camel, <i>from the</i> <br>\
+                  رُسغ [or <i>pastern</i>], <i>to the knee</i> in the fore-leg, and in the hind-leg <i>to the</i> <br>\
+                  عُرْقُوب [or <i>hock</i>]: (M, TT:) [the <i>shank,</i> fore and hind]. ―         -b2-  See جُبَّةٌ, and حَوْشَبٌ, and رُكْبَةٌ. ―         -b3-  In a horse, <i>What corresponds to the</i> <br>\
+                  كُرَاعٌ <br>\
+                  <i>in an ox or sheep or goat; or the slender part of the leg.</i> (K, voce كراع.) (The مَوْصِلُ الوظيفِ is <i>The joint between which and the hoof is the slender part called the</i> <br>\
+                  رُسْغٌ. (K, art. رسغ.) The <i>slender part of the</i> <br>\
+                  ذِراع <br>\
+                  <i>and</i> <br>\
+                  سَاق <br>\
+                  <i>in a horse, camel, &amp;amp;c.</i> (S, K.) That which is broad, in the hind-leg, is preferred; and that which is gibbous in the foreleg. (S.) [In art. جُبَّة, the place where the ساق and وظيف meet is mentioned.] The arm (ذِراعٌ) of a camel, [&amp;amp;c.,] is above the وظيف. (K, voce ذِرَاعٌ.) The وظيف evidently signifies what anatomists call the <i>metacarpus</i> (in the fore-leg) and the <i>metatarsus</i> (in the kind-leg): see ركبة and كَعْبٌ. In general it seems to signify the <i>slender part of the shank, next the pastern:</i> and this, accord. to the explanation of مُسْتَدَقٌّ in the M and K, is the meaning assigned to it in the S and K. See also ذِرَاع.] ―         -b4-  The <i>bone of the</i> <br>\
+                  سَاق. (L, art. زج.) ―         -b5-  مَوْصِلُ الوَظِيفِ <br>\
+                  <i>The fetlock-joint.</i> (S, K, voce رُسْغٌ.)    </entryFree> <br>\
+<b>وَظِيفَةٌ</b>               1     <br>\
+                     وَظِيفَةٌ<br>\
+                     ذ<br>\
+                  <i>A daily allowance,</i> or <i>portion, of food, or the like.</i> (S, K.) ―         -b2-  وَظِيفَةٌ also <i>An appointed part-payment,</i> or <i>instalment, due at a particular period.</i> (Mgh, Msb, in art. نجم.) ―         -b3-  وَظِيفَةٌ مِنْ <br>\
+                  خَرَاجِ الاَرْضِ [<i>An assessed rate of the land-tax</i>]. S, voce طَسْقٌ.)   </entryFree> <br>\
+' } );

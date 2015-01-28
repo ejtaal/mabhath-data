@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'حيط8<br>\
+احتاط: see art. حوط.<br>\
+حَيْطَةٌ: see art. حوط.<br>\
+تَحِيطُ and تِحِيطُ and التَّحِيطُ: see art. حوط.<br>\
+يَحِيطُ: see art. حوط.<br>\
+' } );

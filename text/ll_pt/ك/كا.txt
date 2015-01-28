@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>كا</em>            1                  كا<br>\
+<b>كَاْكَاَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     كَاْكَاَ<br>\
+                     ذ<br>\
+                  , (K,) inf. n. كَاْكَاَةٌ; (TA;) and ↓ <br>\
+      تَكَاْكَاَ, (S, K,) as also تكعكع; (S;) <i>He drew back,</i> or <i>retired, and was cowardly.</i> (S, K.) ―         -b2-  كَاْكَاَ, inf. n. كَاْكَا=ءٌ, [respecting the form of which see ظَاْظَاَ,] <i>He was very impatiently cowardly.</i> (AA, K.) [In the CK., in the explanation of the inf. n., الجَبِينُ is put for الجُبْنُ.] ―         -b3-  Also, inf. n. as above, <i>He</i> (a thief) <i>ran away.</i> (K, TA.)       -A2-  See R. Q. 2.    </entryFree> <br>\
+<b>تَكَاْكَاَ</b>               1     <br>\
+                     <i>R. Q. 2</i>        <br>\
+                     تَكَاْكَاَ<br>\
+                     ذ<br>\
+                  <i>He was prevented,</i> or <i>hindered.</i> (Lth.) ―         -b2-  تَكَاْكَاَ فِى كَلَامِهِ <br>\
+                  <i>He hesitated in his speech, and was unable to speak.</i> (K.)       -A2-  تَكَاْكَاَ عَلَيْهِ النَّاسُ, (S, K, *) and ↓ <br>\
+      كَاْكَاَ, (K,) <i>The people collected around him;</i> (S, K;) <i>crowded,</i> or <i>pressed, upon him.</i> (TA.)       -A3-  And see R. Q. 1.    </entryFree> <br>\
+<b>مُتَكَاْكِيٌ</b>               1     <br>\
+                     مُتَكَاْكِيٌ<br>\
+                     ذ<br>\
+                  <i>Short.</i> (S, K.)   </entryFree> <br>\
+' } );

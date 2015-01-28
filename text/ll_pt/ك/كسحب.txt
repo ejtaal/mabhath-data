@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كسحب</em>            1                  كسحب<br>\
+<b>كَسْحَبَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     كَسْحَبَ<br>\
+                     ذ<br>\
+                  , inf. n. كَسْحَبَةٌ, <i>He walked in fear, hiding himself.</i> (K.)   </entryFree> <br>\
+' } );

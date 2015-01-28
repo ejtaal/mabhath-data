@@ -1,0 +1,93 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اسد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اسد<br>\
+&lt;entryFree id=&quot;n729&quot; key=&quot;اَسِدَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَسِدَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, A, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسَدَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَسَدٌ, (TA,) (tropical:)  &lt;i&gt;He&lt;/i&gt; (a man, M) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, like a lion,&lt;/i&gt; (S, M, A, K,) &lt;i&gt;in his boldness,&lt;/i&gt; (A,) &lt;i&gt;and his&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;57&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;other dispositions;&lt;/i&gt; (S, A, TA;) as also ↓ <br>\
+      استاسد; (M, A, K;) [and ↓ <br>\
+      تاسّد; (see اَسِدٌ;)] عَلَيْهِ <br>\
+                  &lt;i&gt;towards him,&lt;/i&gt; or &lt;i&gt;against him.&lt;/i&gt; (A.) You say اَسَدٌ بَيِّنُ الاَسَدِ [&lt;i&gt;A lion bearing evidence of being like a lion in boldness&lt;/i&gt;]: an extr. phrase, like حِقَّةٌ بَيِنَّةٌ الحِّقَةِ; (TA;) which is [said to be] the only other instance of the kind. (TA in art. حق.) [Hence the saying,] اـِذَا دَخَلَ فَهِدَ وَ اـِذَا خَرَجَ اَسِدَ (tropical:)  [&lt;i&gt;When he comes in, he is like a lynx; and when he goes out, he is like a lion:&lt;/i&gt; see فَهِدَ]. (S, from a trad.) You say also, اَسِدَ عَلَيْهِ meaning (assumed tropical:)  &lt;i&gt;He became emboldened against him;&lt;/i&gt; (TA;) as also ↓ <br>\
+      استاسد. (S, Msb, K.) And (assumed tropical:)  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, angry with him:&lt;/i&gt; (M, L, K: *) or (so accord. to the M and L, but in the K, “ and,”) &lt;i&gt;behaved in a light and hasty manner,&lt;/i&gt; or &lt;i&gt;foolishly,&lt;/i&gt; or &lt;i&gt;ignorantly, towards him.&lt;/i&gt; (M, L, K.*) ―         -b2-  اَسِدَ, (S, K,) aor. as above, (K,) and so the inf. n., (TA,) also signifies (assumed tropical:)  &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;became stupified&lt;/i&gt; (S, K) &lt;i&gt;by fear&lt;/i&gt; (S) &lt;i&gt;at seeing a lion.&lt;/i&gt; (S, K.) Thus it has two contr. meanings. (K.)       -A2-  اَسَدَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسِدَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  سَبَعَ [(assumed tropical:) &lt;i&gt;He bit&lt;/i&gt; another &lt;i&gt;with his teeth, like as does the beast of prey:&lt;/i&gt; or &lt;i&gt;he reviled, vilified,&lt;/i&gt; or &lt;i&gt;vituperated,&lt;/i&gt; another; &lt;i&gt;charged&lt;/i&gt; him &lt;i&gt;with a vice&lt;/i&gt; or &lt;i&gt;fault&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; or &lt;i&gt;assailed&lt;/i&gt; him &lt;i&gt;with foul language, such as displeased&lt;/i&gt; him]. (K.) ―         -b2-  See also 4.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَسَّدَ<br>\
+                  &lt;/form&gt; see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n730&quot; key=&quot;ا=سِدهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=سِدهُ<br>\
+                     ا=سده<br>\
+                     ا=سدة<br>\
+                  &lt;/form&gt;, (S, M, Msb, K,) or ا=سدهُ بِالصَّيْدِ, (A,) inf. n. اـِيسَادٌ; (TA;) and اوسدهُ, (S, K,) in which the ا [i. e. the second ا, for ا=سدهُ is originally اَاْسدهُ,] is changed into و; (S;) and ↓ <br>\
+      اسدّهُ; (K;) (tropical:)  &lt;i&gt;He incited him&lt;/i&gt; (namely a dog) &lt;i&gt;to the chase.&lt;/i&gt; (S, M, A, Msb, K.*) ―         -b2-  ا=سد بَيْنَ الكِلَابِ (tropical:)  &lt;i&gt;He incited the dogs to attack one another.&lt;/i&gt; (A.) And ا=سد بَيْنَ القَوْمِ, (S, M, A, L, Msb,) inf. n. اـِيسَادٌ; (Msb;) or ↓ <br>\
+      اَسَدَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسِدَ<br>\
+                  &lt;/form&gt;; (K;) (tropical:)  &lt;i&gt;He excited discord, dissension, disorder, strife, quarrelling,&lt;/i&gt; or &lt;i&gt;animosity, between,&lt;/i&gt; or &lt;i&gt;among, the people,&lt;/i&gt; or &lt;i&gt;company of men.&lt;/i&gt; (S, M, A, L, Msb, K.)       -A2-  ا=سد السَّيْرَ <br>\
+                  &lt;i&gt;He journeyed with energy;&lt;/i&gt; syn. اَسْاَدَهُ; (IJ, M;) from which it is probably formed by transposition. (M.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَسَّدَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n731&quot; key=&quot;استاسد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاسد<br>\
+                     ذ<br>\
+                  &lt;i&gt;He called&lt;/i&gt; a lion. (M.)       -A2-  See 1, in two places. ―         -b2-  (assumed tropical:)  &lt;i&gt;He became accustomed,&lt;/i&gt; or &lt;i&gt;habituated,&lt;/i&gt; [to a thing, as a dog to the chase,] &lt;i&gt;and emboldened;&lt;/i&gt; syn. ضَرِىَ (Msb.) ―         -b3-  (tropical:)  &lt;i&gt;It&lt;/i&gt; (a plant, or herbage,) &lt;i&gt;became strong, and tangled, or luxuriant:&lt;/i&gt; (S:) or &lt;i&gt;became tall and large:&lt;/i&gt; or &lt;i&gt;grew to its utmost height:&lt;/i&gt; (M:) or &lt;i&gt;attained its full growth, and became tangled,&lt;/i&gt; or &lt;i&gt;luxuriant,&lt;/i&gt; (M,) &lt;i&gt;and strong:&lt;/i&gt; (TA:) or &lt;i&gt;became tall, and dry&lt;/i&gt; (جَفَّ [perhaps a mistake for اِلْتَفَّ, as in the S and M,]) &lt;i&gt;and large,&lt;/i&gt; (A, TA,) &lt;i&gt;and spread every way:&lt;/i&gt; (A:) or &lt;i&gt;became tall, and attained its full growth.&lt;/i&gt; (K.)       -A3-  اُسْتُوسِدَ (K, TA, [or اُسْتُوْسِدَ,] in the CK اسْتَوْسَدَ) (assumed tropical:)  &lt;i&gt;He&lt;/i&gt; (a man, TA) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, excited, roused, provoked,&lt;/i&gt; (هُيِّجَ, K, TA, in the CK هَيَّجَ,) or &lt;i&gt;incited.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n732&quot; key=&quot;اَسَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [The &lt;i&gt;lion;&lt;/i&gt;] &lt;i&gt;a certain beast of prey,&lt;/i&gt; (M, TA,) &lt;i&gt;well known:&lt;/i&gt; (M, A, Msb, K:) IKh and others have mentioned more than five hundred names for it; and it is said to have a thousand names [in the Arabic language; but these, with few exceptions, are epithets used as substs.]: (TA:) pl. [of pauc.] ا=سُدٌ (S, K [in the TA with two hemzehs, اَاْسُدٌ, which is the original form, but deviating from the regular pronunciation,]) and ا=سَادٌ (S, M, K) and [of mult.] اُسُودٌ (S, M, Msb, K) and اُسُدٌ (S) and اُسْدٌ, (S, M, Msb, K,) the last two of which are contractions of the form next preceding them, (S) and اُسْدَانٌ (K) and ↓ <br>\
+      مَاْسَدَةٌ, (Msb, K,) the last called by some a pl., but [rightly] said by others to be a quasi-pl. n.: (TA:) the female is called اَسَدَةٌ; (AZ, Ks, S, M, A, Msb, K;) or اَسَدٌ is applied to the male and the female, and sometimes the female is called اَسَدَةٌ. (Msb.) ―         -b2-  لَقِيتُ مِنْهُ اَسَدًا is a phrase [meaning &lt;i&gt;I found him to be a man of exceeding boldness;&lt;/i&gt; being] expressive of an intensive degree of boldness. (Mughnee in art. ب.) ―         -b3-  الاَسَدُ (assumed tropical:)  &lt;i&gt;The constellation Leo.&lt;/i&gt; (Kzw, &amp;amp;c.) [See الذِّرَاعُ.] ―         -b4-  And (assumed tropical:)  &lt;i&gt;The star Cor Leonis,&lt;/i&gt; or &lt;i&gt;Regulus.&lt;/i&gt; (Kzw, &amp;amp;c.) [See الجَبْهَةُ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n733&quot; key=&quot;اَسِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  [&lt;i&gt;Like a lion;&lt;/i&gt;] &lt;i&gt;bold; daring;&lt;/i&gt; as also ↓ <br>\
+      اَسِيدٌ and ↓ <br>\
+      مُتَاَسِّدٌ [and ↓ <br>\
+      مُسْتَاْسِدٌ (see 10)]. (Msb.) You say اَسَدٌ اَسِدٌ [&lt;i&gt;A bold,&lt;/i&gt; or &lt;i&gt;fierce, lion&lt;/i&gt;], adding the latter word to give intensiveness of signification. (IAar, M.) ―         -b2-  [Its fem.] اَسِدَةٌ [app. applied to a bitch] signifies (assumed tropical:)  &lt;i&gt;Accustomed,&lt;/i&gt; or &lt;i&gt;habituated,&lt;/i&gt; [to the chase,] &lt;i&gt;and emboldened;&lt;/i&gt; syn. ضَارِيَةٌ. (K, TA, in the CK صارِيَة.) [See also 10.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n734&quot; key=&quot;اَسِدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِدَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;kind of enclosure for the protection of camels, sheep,&lt;/i&gt; or &lt;i&gt;goats, such as is called&lt;/i&gt;] حَظِيرةَ. (K.) [Like اَصِيدَةٌ.]       -A2-  [See also اَسِدٌ, of which it is the fem.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n735&quot; key=&quot;اُسْدِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُسْدِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, with damm, (IB, K,) thus correctly written, (IB,) in the L [and S] اَسْدِىٌّ, (TA,) &lt;i&gt;A kind of garments&lt;/i&gt; or &lt;i&gt;cloths&lt;/i&gt; (ثِيَابٌ, S, for which is put, in the K, erroneously, نَبَاتٌ, TA): occurring in a poem of El-Hoteiäh, (S,) who likens thereto an extensive, even, waterless desert. (L.) IB says that he is in error who mentions it in the present art.: Aboo-&#39; Alee says that اُسْدِىٌّ and اُسْتِىٌّ are quasi-pls. of سَدَّى and سَتًى as signifying ثَوْبٌ مَسْدِىٌّ, and originally اُسْدُوىٌ and اُسْتُوىٌ; like as سدو is a quasi-pl. of سدى. (L.) [But see art. اَسِيدٌ and اَسِدٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n736&quot; key=&quot;اَسِيدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِيدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَسِدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n737&quot; key=&quot;اـِسَادَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِسَادَةٌ<br>\
+                     اسد<br>\
+                     اساده<br>\
+                     اسادة<br>\
+                     آساده<br>\
+                  &lt;/form&gt; (S, K) and اُسَادَةٌ (K) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  وِسَادَةٌ [&lt;i&gt;A pillow,&lt;/i&gt; &amp;amp;c.]: (S, K:) like اـِشَاحٌ for وِشَاحٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n738&quot; key=&quot;مُوْسِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْسِدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  One &lt;i&gt;who trains a dog,&lt;/i&gt; or &lt;i&gt;dogs, to the chase.&lt;/i&gt; (L, Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n739&quot; key=&quot;مَاْسَدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْسَدَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place in which are lions:&lt;/i&gt; (Msb, K:) or اَرْضٌ مَاْسَدَةٌ <br>\
+                  &lt;i&gt;a land having lions in it:&lt;/i&gt; (S, A:) or &lt;i&gt;a land abounding with lions:&lt;/i&gt; (M, R:) pl. مَا=سِدُ. (A.) ―         -b2-  See also اَسَدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n740&quot; key=&quot;مُتَاَسِّدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَسِّدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَسِدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n741&quot; key=&quot;مُسْتَاْسِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَاْسِدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَسِدٌ.   &lt;/entryFree&gt; <br>\
+' } );

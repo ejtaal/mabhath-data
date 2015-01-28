@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'فرندفِرِنْدٌ A sort of cloth, or garment, (Lth, T, O,<br>\
+K,) well known: (K:) an adventitious word,<br>\
+(Lth, T, O,) [from the Pers. پَرَنْد,] arabicized.<br>\
+(O, K.) ―<br>\
+-b2-  And [hence, app.,] فِرِنْدُ السَّيْفِ, (T,<br>\
+S, M, O, K,) and ↓ إِفْرِنْدُهُ, (S, O, K,) The diversified wavy marks, streaks, grain, or water, of<br>\
+the sword; syn. وَشْيُهُ, (T, S, M, O, K,) and<br>\
+جَوْهَرُهُ, (T, O, K,) and رُبَدُهُ [q. v.], (S, O,) and<br>\
+مَاؤُهُ الَّذِى يَجْرِى فِيهِ, (T, O, *) and طَرَائِقُهُ, (T, O,)<br>\
+i. e. سَفَاسِقُهُ. (T.) ―<br>\
+-b3-  And الفِرِنْدُ signifies The<br>\
+sword itself. (M, L, K.) ―<br>\
+-b4-  And The حَوْجَم;<br>\
+(K, TA;) i. e. (TA) the red rose. (M, TA.) ―<br>\
+-b5-<br>\
+And The grains of the pomegranate. (AA,<br>\
+O, K.)<br>\
+فِرْنِدٌ i. q. أَبْزَارٌ [Seeds that are used in cooking,<br>\
+for seasoning food; &amp;c.]: pl. فَرَانِدُ. (IAar,<br>\
+O, K.)<br>\
+فِرِنْدَاةٌ A قَطَاة [or sand-grouse]. (Ibn-&#39;Abbád,<br>\
+O, K.)<br>\
+إِفْرِنْدُ السَّيْفِ: see فِرِنْدٌ, second sentence.<br>\
+' } );

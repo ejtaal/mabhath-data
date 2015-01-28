@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'وخد1<br>\
+وَخَدَ, aor. يَخِدُ, inf. n. وَخْدٌ and وَخَدَانٌ<br>\
+(S, A, L, K) and وَخِيدٌ, (K,) He (a camel) went<br>\
+along throwing out his legs like the ostrich: (S,<br>\
+L, K:) or went quickly: or went with wide steps:<br>\
+(L, K:) as also خَدَى: (L:) also said of a horse,<br>\
+(Kr, L,) and of an ostrtch. (TA.) See نَصَبَ<br>\
+السَّيْرَ.<br>\
+وخُودٌ: see وَاخِدٌ.<br>\
+وَخَّادٌ: see وَاخِدٌ.<br>\
+وَاخِدٌ and ↓ وَخَّادٌ (S, L, K,) and ↓ وَخُودٌ (L,<br>\
+K) A camel going along, or that goes along,<br>\
+throwing out his legs like the ostrich: (S, L, K:)<br>\
+or, quickly: or, with wide steps. (L, K.) The<br>\
+second [which is an intensive or frequentative<br>\
+epithet] is also applied to an ostrich: and the<br>\
+third [which is intensive] to a she-camel. (L.)<br>\
+' } );

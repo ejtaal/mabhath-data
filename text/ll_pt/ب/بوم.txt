@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>بوم</em>            1                  بوم<br>\
+<b>بُومٌ</b>               1     <br>\
+                     بُومٌ<br>\
+                     بوم<br>\
+                   and بُومَةٌ <br>\
+                  <i>A certain bird;</i> [namely, the <i>owl;</i>] each word applying to the <i>male</i> and the <i>female:</i> (S, K:) or the former signifies the <i>male,</i> or <i>males,</i> (so in different copies of the M,) <i>of the</i> <br>\
+                  هَام [or <i>owl-kind</i>]; and the latter is its n. un.: (M, TA:) said by Az to be genuine Arabic: (TA:) pl. of the former اَبْوَامٌ. (IB, TA.)    </entryFree> <br>\
+<b>بُومٌ بَوَّامٌ</b>               1     <br>\
+                     بُومٌ بَوَّامٌ<br>\
+                     بوم بوام<br>\
+                   [<i>An owl,</i> or <i>male owls,</i>] <i>that cries,</i> or <i>that cry, much.</i> (TA.)   </entryFree> <br>\
+' } );

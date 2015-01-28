@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>وذح</em>            1                  وذح<br>\
+<b>وَذِحَتِ الشَّاتُ</b>               1     <br>\
+                     وَذِحَتِ الشَّاتُ<br>\
+                     ذ<br>\
+                  , aor. تَوْذَحُ and تَيْذَحُ (S, K) or تِيذَح, (TA,) inf. n. وَذَحٌ, (S,) <i>The sheep was,</i> or <i>became, foul with</i> <br>\
+                  وَذَح [q. v. infrà.] (S, K.) ―         -b2-  وَذِحَ, inf. n. as above, <i>He suffered from an inflammation and excoriation of the inner sides of his thighs;</i> (En-Nadr, L, K; *) as also مَذِحَ. (En-Nadr, L.)    </entryFree> <br>\
+<b>وَذَحٌ</b>               1     <br>\
+                     وَذَحٌ<br>\
+                     ذ<br>\
+                   The <i>dung and urine that have clung to the wool of sheep,</i> (K,) or <i>to their tails and the inner sides of the roots of their thighs</i> (اَرْفَاغها), <i>and dry</i> [<i>thereon</i>]: (S:) or the <i>filth that clings to the rump,</i> or <i>buttocks, of the ram:</i> (Th:) n. un. with ة: pl. وُذْحٌ; like بُدْنٌ, (S, K,) pl. of بَدَنَةٌ. (S.)   </entryFree> <br>\
+' } );

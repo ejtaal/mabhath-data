@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>محل</em>            1                  محل<br>\
+<b>اَمْحَلَتِ النُّجُومُ</b>               1     <br>\
+                     اَمْحَلَتِ النُّجُومُ<br>\
+                     ذ<br>\
+                  <i>The stars set aurorally and brought no rain.</i> (S, K * in art. خوى.)    </entryFree> <br>\
+<b>تَمَحَّلْتُ مَالًا بِغَيْرِ ثَمَنٍ</b>               1     <br>\
+                     تَمَحَّلْتُ مَالًا بِغَيْرِ ثَمَنٍ<br>\
+                     ذ<br>\
+                  <i>I laboured to acquire property without price:</i> (Msb:) or, accord. to Az, تَمَحَّلَ مَالًا means <i>he laboured,</i> and <i>exercised art</i> or <i>management, in seeking</i> [<i>to acquire</i>] <i>property.</i> (TA.) See also تَعَلَّثَ.    </entryFree> <br>\
+<b>مَحْلٌ</b>               1     <br>\
+                     مَحْلٌ<br>\
+                     ذ<br>\
+                  <i>Drought,</i> or <i>suspension of rain,</i> (S, K, Msb in art. جدب,) <i>and dryness of the earth</i> (S, Msb ubi suprà) <i>depriving it of herbage;</i> (S, TA;) and <i>i. q.</i> <br>\
+                  جَدْبٌ. (K.)    </entryFree> <br>\
+<b>مَحَالَةٌ</b>               1     <br>\
+                     مَحَالَةٌ<br>\
+                     محال<br>\
+                     محاله<br>\
+                     محالة<br>\
+                     محل<br>\
+                  : see art. حول; and see also فَوْهَا=ءُ voce اَفْوَهُ, and فَوْقَا=ءُ voce اَفْوَقُ, and قَبٌّ.    </entryFree> <br>\
+<b>لَبَنٌ مُمَحَّلٌ</b>               1     <br>\
+                     لَبَنٌ مُمَحَّلٌ<br>\
+                     ذ<br>\
+                  <i>Sour milk upon which much fresh is milked:</i> see قَارِصٌ.    </entryFree> <br>\
+<b>مُتَمَاحِلٌ</b>               1     <br>\
+                     مُتَمَاحِلٌ<br>\
+                     ذ<br>\
+                  : see رَدَاحٌ.   </entryFree> <br>\
+' } );

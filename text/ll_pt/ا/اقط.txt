@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>اقط</em>            1                  اقط<br>\
+<b>اَقَطَهُ</b>               1     <br>\
+                     اَقَطَهُ<br>\
+                     ذ<br>\
+                  , aor      <br>\
+                     اَقِطَ<br>\
+                   (S, K,) inf. n. اَقْطٌ, (S,) <i>He made it</i> (namely food) <i>with</i> <br>\
+                  اَقِط q. v. infrà. (S, K.) ―         -b2-  Also, (aor. and inf. n. as above, TA,) <i>He fed him with</i> <br>\
+                  اَقِط: (A&#39;Obeyd, K:) like لَبَنَهُ from لَبَنٌ and لَبَاَهُ from لِبَاٌ Lh mentions the verb in this sense as used without its being made transitive. (TA.) ―         -b3- [اَقِطَ in the CK is a mistake for ا=قَطَ q. v.]    </entryFree> <br>\
+<b>ا=قَطَ</b>               1     <br>\
+                     ا=قَطَ<br>\
+                     ا=قط<br>\
+                  , (Lh, K, [in the CK, incorrectly, اَقِطَ,]) of the measure اَفْعَلَ, agreeably with a common rule, applying to anything, (Lh, TA,) <i>He had much</i> <br>\
+                  اَقِط; <i>his</i> <br>\
+                  اَقِط <br>\
+                  <i>became much,</i> or <i>abundant.</i> (Lh, K.)    </entryFree> <br>\
+<b>ايتقط</b>               1     <br>\
+                     ايتقط<br>\
+                     ذ<br>\
+                   [written with the disjunctive alif اِيتَقَطَ] <i>He made,</i> or <i>prepared,</i> <br>\
+                  اَقِط: (S:) strangely omitted in the O and in the K. (TA.)    </entryFree> <br>\
+<b>اَقِطٌ</b>               1     <br>\
+                     اَقِطٌ<br>\
+                     ذ<br>\
+                   (Fr, Az, S, Msb, K) and اـِقِطٌ (Fr, O, K) and اَقَطٌ (Fr, K) and اـِقْطٌ, (S, O, Msb, K,) the last sometimes occurring in poetry, and formed from the first, by transferring the vowel of the ق to the preceding letter, (S,) or a contraction of the second, accord. to a common usage of [the tribe of] Temeem in the cases of words of this measure, (O,) and اَقْطٌ (K) and اُقْطٌ, (As, K,) of all which the first is the most chaste, and the last is strange, (TA,) [<i>A preparation of dried curd;</i>] <i>a preparation of,</i> or <i>thing made from, milk</i> (Az, Msb, K) <i>of sheep</i> or <i>goats,</i> (K,) <i>which has been churned, and of which the butter has been taken,</i> (Az, Msb, K,) <i>cooked, and then left until it becomes concrete:</i> (Az, Msb:) or <i>made from the milk of camels,</i> in particular: (IAar:) or <i>milk which is dried, and has become hard, like stone; with which one cooks;</i> repeatedly mentioned in trads.: (TA:) or <i>a thing made from milk; being a kind of cheese:</i> (Har p. 587:) pl. اُقْطَانٌ. (K.)    </entryFree> <br>\
+<b>اَقَّاطٌ</b>               1     <br>\
+                     اَقَّاطٌ<br>\
+                     ذ<br>\
+                  <i>A maker of</i> <br>\
+                  اَقِط. (TA.)    </entryFree> <br>\
+<b>مَاْقُوطٌ</b>               1     <br>\
+                     مَاْقُوطٌ<br>\
+                     ذ<br>\
+                   Food <i>made with</i> <br>\
+                  اَقِط. (S.)   </entryFree> <br>\
+' } );

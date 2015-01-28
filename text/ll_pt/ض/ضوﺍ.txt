@@ -1,0 +1,53 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضوا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضوا<br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ضَوڤاَ<br>\
+                  &lt;/form&gt; see 4, in two places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ضَوَّاَ<br>\
+                  &lt;/form&gt; see the next paragraph, in two places. ―         -b2-  One says also, ضَوَّاْتُ عَنْهُ [meaning &lt;i&gt;I brought to light, made visible, discovered,&lt;/i&gt; or &lt;i&gt;revealed, him,&lt;/i&gt; or &lt;i&gt;it&lt;/i&gt;]. (M, TA.) A sheep, or goat, belonging to an Arab of the desert strayed; whereupon he said, اَللّٰهُمَّ ضَوِّيْ عَنْهُ [&lt;i&gt;O God, bring it to light,&lt;/i&gt; or &lt;i&gt;discover it&lt;/i&gt;]. (A, TA.)       -A2-  Accord. to Lth, but he is the only authority for it known by AM, (TA,) ضَوَّاَ عَنِ الاَمْرِ, inf. n. تَضْوِيَةٌ, means &lt;i&gt;He declined,&lt;/i&gt; or &lt;i&gt;turned away, from the affair.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26133&quot; key=&quot;اضا=ء&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اضا=ء<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, Msb, K,) said of a thing, (M,) [as, for instance,] of the moon, (Msb,) or اضا=ءت, said of fire (النَّار,), (A &#39;Obeyd, S, O,) inf. n. اـِضَا=ءٌ; (Msb;) and ↓ <br>\
+      ضَا=ءَ, (M, Msb, K,) or ضَا=ءَت, (S, O,) aor. يَضُوْءُ, (M,) or تَضُوْءُ, (S,) inf. n. ضَوْءٌ (S, M, O, Msb, K) and ضُوْءٌ, (S, O, K,) or the latter is a simple subst.; (Msb;) but the former verb is preferred; (TA;) &lt;i&gt;It gave light, was light&lt;/i&gt; or &lt;i&gt;bright, shone,&lt;/i&gt; or &lt;i&gt;shone brightly.&lt;/i&gt; (Msb, K, * TA.) [See also an ex. of ↓ the latter verb in a verse cited voce اُفُقٌ; and cited here in the TA.] And اَضَاْتُ لَهُ [&lt;i&gt;I gave light to him&lt;/i&gt;]. (M.)       -A2-  The former verb is also trans.: you say, اَضَا=ءَتْهُ النَّارُ [&lt;i&gt;The fire made it to be light&lt;/i&gt; or &lt;i&gt;bright, to shine,&lt;/i&gt; or &lt;i&gt;to shine brightly&lt;/i&gt;]: (S, O:) and اَضَاْتُهُ and ↓ <br>\
+      ضَوَّاْتُهُ [&lt;i&gt;I made it to give light, to be light&lt;/i&gt; or &lt;i&gt;bright, to shine,&lt;/i&gt; or &lt;i&gt;to shine brightly&lt;/i&gt;]: (M, Msb, * K:) and اَضَاْتُ بِهِ البَيْتَ and بِهِ ↓ <br>\
+      ضَوَّاْتُهُ [&lt;i&gt;I lighted,&lt;/i&gt; or &lt;i&gt;illumined, with it&lt;/i&gt; (i. e. with a lamp or the like) &lt;i&gt;the house,&lt;/i&gt; or &lt;i&gt;chamber,&lt;/i&gt; or &lt;i&gt;tent&lt;/i&gt;]. (M.) ―         -b2-  [Hence,] اضا=ء بِبَوْلِهِ (tropical:)  &lt;i&gt;He ejected his urine&lt;/i&gt; [so as to make its drops to glisten]; or &lt;i&gt;emitted it and then stopped it;&lt;/i&gt; syn. حَذَفَ بِهِ; (K, TA;) or خَذَفَ بِهِ; (so in a copy of the M, as on the authority of Kr;) or, as in the A, اَذْرَعَ بِهِ. (TA.) ―         -b3-  And they said مَا اَضْوَاَهُ [&lt;i&gt;How light,&lt;/i&gt; or &lt;i&gt;bright, is it!&lt;/i&gt;]. (S voce اَظْلَمَ [q. v.].) ―         -b4-  And اضا=ء signifies also اَصَابَ ضَوْءًا [&lt;i&gt;He saw&lt;/i&gt; (lit. &lt;i&gt;lighted on,&lt;/i&gt; or &lt;i&gt;found,&lt;/i&gt;) &lt;i&gt;light,&lt;/i&gt; or &lt;i&gt;brightness&lt;/i&gt;]. (T voce اَظْلَمَ [q. v.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26134&quot; key=&quot;تضوّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تضوّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He stood in the dark to see people by the light of their fire,&lt;/i&gt; (AZ, K, TA,) &lt;i&gt;without their seeing him.&lt;/i&gt; (AZ, TA.) And تضوّا اْمْرَاَةً [&lt;i&gt;He stood in the dark to see a woman by the light of her fire, without her seeing him&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26135&quot; key=&quot;اِسْتَضَاُتُ بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اِسْتَضَاُتُ بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;I sought to obtain light by means of it; I made use of it for light&lt;/i&gt;]. (M, K.) لَا تَسْتَضِيوُوا بِنَارِ اَهْلِ الشِّرْكِ [lit. &lt;i&gt;Seek not ye to obtain light by means of the fire of the people of belief in a plurality of gods&lt;/i&gt;], (O, K,) a saying of the Prophet, (O,) means (tropical:)  &lt;i&gt;seek not ye counsel,&lt;/i&gt; or &lt;i&gt;advice, of the believers in a plurality of gods, in affairs:&lt;/i&gt; (O, K:) because he whose affair is confused and dubious to him is as though he were in darkness. (O.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26136&quot; key=&quot;ضَوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      ضُوْءٌ and ↓ <br>\
+      ضِيَا=ءٌ (S, M, O, K) and ↓ <br>\
+      ضِوَا=ءٌ, (M, K,) the last of which is [erroneously] written in the L ضَوَا=ءٌ, (TA,) signify the same, (S, M, O, K,) i. e. &lt;i&gt;Light,&lt;/i&gt; syn. نُورٌ, (K, TA,) accord. to the leading lexicologists; but see what follows: (TA:) and ضَوْءٌ is an inf. n. of ضَا=ءَ, (S, M, O, Msb, K,) and so is ↓ <br>\
+      ضُوْءٌ, (S, O, K,) or this is a simple subst. from ضَا=ءَ, and so is ↓ <br>\
+      ضِيَا=ءٌ, which is also, sometimes, written ↓ <br>\
+      ضِيَا=ءٌ, from اَضَا=ءَ as syn. with ضَا=ءَ: (Msb:) the pl. of ضَوْءٌ (M, TA) and ↓ <br>\
+      ضُوْءٌ (M) is اَضْوَا=ءٌ; and ↓ <br>\
+      ضِيَا=ءٌ is sometimes a pl., (M, TA,) as Zj states it to be: (TA:) some say that ضَوْءٌ has a more intensive signification than نُورٌ, and that hence God has likened his direction [the Kur-án] to النُّور rather than to الضَّوْء; because if it were otherwise, no one had erred: and that hence, also, [in the Kur x. 5,] the sun is termed ↓ <br>\
+      ضِيَا=ء; and the moon, نُورٌ: it is also said that ضَوْءٌ signifies the &lt;i&gt;rays that are diffused by what is termed&lt;/i&gt; <br>\
+                  نُورٌ: the kádee Zekereeyà affirms that these two words are syn. by their original application, but that ضَوْءٌ is more forcible accord. to usage: and some say that الضَّوْءُ signifies &lt;i&gt;that&lt;/i&gt; [&lt;i&gt;light&lt;/i&gt;] &lt;i&gt;which subsists by itself,&lt;/i&gt; as [that of] the sun, and fire; and النُّورُ, to that which subsists by some other thing [as does the light of the moon]. (MF, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26137&quot; key=&quot;ضُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26138&quot; key=&quot;ضِوَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضِوَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ضَوْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26139&quot; key=&quot;ضِيَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضِيَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ضِيَا=ءٌ: see ضَوْءٌ, in five places.   &lt;/entryFree&gt; <br>\
+' } );

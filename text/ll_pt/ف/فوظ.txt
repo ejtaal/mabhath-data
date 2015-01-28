@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>فوظ</em>            1                  فوظ<br>\
+<b>فَاظَ</b>               1     <br>\
+                     فَاظَ<br>\
+                     ذ<br>\
+                  , aor. يَفُوظُ, inf. n. فَوْظٌ and فَوَاظٌ: see فَاظَ in art. فيظ.   </entryFree> <br>\
+' } );

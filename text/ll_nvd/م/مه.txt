@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مهلَيْسَ بِهِ مَهَاهٌ<br>\
+, (T in art. رمد,) or فِيهِ, (L in<br>\
+that art.,) It has no goodness and lastingness.<br>\
+(T and L in that art.)<br>\
+' } );

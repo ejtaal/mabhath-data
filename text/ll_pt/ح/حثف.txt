@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>حثف</em>            1                  حثف<br>\
+<b>حَثِفٌ</b>               1     <br>\
+                     حَثِفٌ<br>\
+                     حثف<br>\
+                   and حِثْفٌ dial. vars. of حَفِثٌ and حِفْثٌ: (O, K:) pl. اَحْثَافٌ. (TA.)   </entryFree> <br>\
+' } );

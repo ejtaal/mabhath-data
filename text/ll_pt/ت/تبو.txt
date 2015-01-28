@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>تبو</em>            1                  تبو<br>\
+<b>تَابُوتٌ</b>               1     <br>\
+                     تَابُوتٌ<br>\
+                     تابوت<br>\
+                  : see art. توب. Accord. to some, it belongs to the present art., and was originally تَابُوَةٌ.   </entryFree> <br>\
+' } );

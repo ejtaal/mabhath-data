@@ -1,0 +1,183 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ادم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ادم<br>\
+&lt;entryFree id=&quot;n440&quot; key=&quot;اَدَمَ الخُبْزَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَدَمَ الخُبْزَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَدِمَ<br>\
+                  &lt;/form&gt;, (M, Msb, K,) inf. n. اَدْمٌ; (M, Msb;) and ↓ <br>\
+      ا=دمهُ, (Msb, K,) inf. n. اـِيدَامٌ; (TK;) &lt;i&gt;He mixed the bread with&lt;/i&gt; <br>\
+                  اُدْم [or &lt;i&gt;seasoning;&lt;/i&gt; i. e. &lt;i&gt;he seasoned it&lt;/i&gt;]; (M, K;) &lt;i&gt;he made the swallowing of the bread to be good,&lt;/i&gt; or &lt;i&gt;agreeable, by means of&lt;/i&gt; <br>\
+                  اـِدَام [or &lt;i&gt;seasoning&lt;/i&gt;]. (Msb.) You say also, اَدَمَ الخُبْزَ بِاللَّحْمِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَدِمَ<br>\
+                  &lt;/form&gt;, [&lt;i&gt;he seasoned the bread,&lt;/i&gt; or &lt;i&gt;rendered it savoury, with flesh-meat,&lt;/i&gt;] from اُدْمٌ and اـِدَامٌ, signifying مَا يُوْتَدمُ بِهِ. (S.) ―         -b2-  اَدَمَ القَوْمَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَدِمَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَدْمٌ; (TA;) or ↓ <br>\
+      ا=دَمَهُمْ; (M;) or both; (TA;) &lt;i&gt;He seasoned for the people,&lt;/i&gt; or &lt;i&gt;company of men,&lt;/i&gt; (اَدَمَ لَهُمْ, [in the CK, erroneously, اَدامَ لهم,]) &lt;i&gt;their bread;&lt;/i&gt; (M, K, TA;) i. e., &lt;i&gt;mixed it&lt;/i&gt; [&lt;i&gt;for them&lt;/i&gt;] &lt;i&gt;with&lt;/i&gt; <br>\
+                  اـِدَام (TA.) ―         -b3-  [From اَدَمَ in the first of the senses explained above, is app. derived the phrase,] اَدَمَهُ بِاَهْلِهِ <br>\
+                  &lt;i&gt;He mixed him, associated him,&lt;/i&gt; or &lt;i&gt;united him in company, with his family.&lt;/i&gt; (M.) [And in like manner,] اَدَمَ بَيْنَهُمَا, (T, S,) or بَيْنَهُمْ, (M, Msb, * K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَدِمَ<br>\
+                  &lt;/form&gt;, (T, M, Msb, K,) inf. n. اَدْمٌ; (T, M, M$sudot;b;) and ↓ <br>\
+      ا=دم, (T, S, M, Msb, K,) inf. n. اـِيَدامٌ; (T, TA;) &lt;i&gt;He&lt;/i&gt; (God, T, S, M, or a man, Msb) &lt;i&gt;effected a reconciliation between them; brought them together;&lt;/i&gt; (S, M, Msb, K; [expl. in the M and K by لَاءَ مَ, for which we find in the CK لَاُمَ;]) &lt;i&gt;made them sociable&lt;/i&gt;, or &lt;i&gt;familiar, one with another;&lt;/i&gt; (S, Msb, TA;) &lt;i&gt;and made them to agree:&lt;/i&gt; (TA:) or &lt;i&gt;induced love and agreement between them:&lt;/i&gt; held by A &quot;Obeyd to be from اُدْمٌ, because thereby food is made good and pleasant. (T.) It is said in a trad., فَاـِنَّهُ اَحْرَى اَنْ يُوْدَمَ بَيْنَكُمَا, meaning &lt;i&gt;For it is most fit,&lt;/i&gt; or &lt;i&gt;meet, that there should be, between you two, love and agreement:&lt;/i&gt; (T, S:) or, &lt;i&gt;that peace,&lt;/i&gt; or &lt;i&gt;reconciliation, and friendship, should continue between you two.&lt;/i&gt; (Msb.) And a poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;↓ <br>\
+      اـِلَّا مُوْدَمَا ↓ <br>\
+      وَالبِيضُ لَا يُوْدِمْنَ<br>\
+                  &lt;/quote&gt; i. e. [&lt;i&gt;And the pure,&lt;/i&gt; or &lt;i&gt;free from faults,&lt;/i&gt; among &lt;pb n=&quot;36&quot; TEIform=&quot;pb&quot;/&gt; women,] &lt;i&gt;do not love&lt;/i&gt; any &lt;i&gt;save one who is made an object of love&lt;/i&gt; [by his good qualities], (T, S,) &lt;i&gt;a proper object of love.&lt;/i&gt; (T.)       -A2-  اَدَمَهُمْ, (T, M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَدِمَ<br>\
+                  &lt;/form&gt;, (T,) or      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَدُمَ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. اَدْمٌ, (M,) (tropical:)  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, to them, what is termed&lt;/i&gt; <br>\
+                  اَدَمَة; (T, M, K;) i. e., &lt;i&gt;one who made people to know them;&lt;/i&gt; (T;) or &lt;i&gt;a pattern, an exemplar, an example,&lt;/i&gt; or &lt;i&gt;one who was imitated,&lt;/i&gt; or &lt;i&gt;to be imitated; and one by means of whom they were known:&lt;/i&gt; (M, K:) so says IAar. (M.)       -A3-  اَدَمَ الاَدِيمَ <br>\
+                  &lt;i&gt;He pared,&lt;/i&gt; or &lt;i&gt;removed the superficial part of, the hide:&lt;/i&gt; (T, * TA:) and الاَدِيمَ ↓ <br>\
+      ا=دَمَ, with medd, &lt;i&gt;he pared off the&lt;/i&gt; <br>\
+                  اَدَمَة [q. v.] &lt;i&gt;of the hide:&lt;/i&gt; (TA:) or the latter signifies &lt;i&gt;he exposed to view the&lt;/i&gt; <br>\
+                  اَدَمَة [in the CK, erroneously, the اُدْمَة] &lt;i&gt;of the hide.&lt;/i&gt; (M, K.)       -A4-  اَدِمَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَدَمَ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. اَدَمٌ; (TK;) and اَدُمَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَدُمَ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. اُدُومَةٌ (T, K) [or, more probably, اُدْمَةٌ, like سُمْرَةٌ &amp;amp;c.]; &lt;i&gt;He&lt;/i&gt; (a camel, and a gazelle, and a man,) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, of the colour termed&lt;/i&gt; <br>\
+                  اُدْمَة, q. v. infrà. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n441&quot; key=&quot;ادّمهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ادّمهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْدِيمٌ, &lt;i&gt;He put much&lt;/i&gt; <br>\
+                  اـِدَام [or &lt;i&gt;seasoning&lt;/i&gt;] &lt;i&gt;into it.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=دَمَ<br>\
+                  &lt;/form&gt; see 1, in five places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n442&quot; key=&quot;ايتدم بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ايتدم بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [written with the disjunctive alif اِيتَدَمَ] &lt;i&gt;He made use of it&lt;/i&gt; [&lt;i&gt;to render his bread pleasant,&lt;/i&gt; or &lt;i&gt;savoury&lt;/i&gt;]; namely اُدْم, (M, * TA,) or اـِدَام. (M.) [اـِدَامٌ is explained in the T and S &amp;amp;c. by the words مَا يُوْتَدَمُ بِهِ, meaning &lt;i&gt;That which is used for seasoning&lt;/i&gt; bread.] ―         -b2-  ايتدم العُودُ (tropical:)  &lt;i&gt;The wood,&lt;/i&gt; or &lt;i&gt;branch, had the sap&lt;/i&gt; (المَا=ء) &lt;i&gt;flowing in it.&lt;/i&gt; (Z, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n443&quot; key=&quot;استادمهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استادمهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He sought,&lt;/i&gt; or &lt;i&gt;demanded, of him&lt;/i&gt; <br>\
+                  اـِدَام [or &lt;i&gt;seasoning&lt;/i&gt;]. (Z, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n444&quot; key=&quot;اَدْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدْمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُدْمَةٌ       -A2-  هُوَ اَدْمُ اَهْلِهِ: see اَدَمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n445&quot; key=&quot;اُدْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُدْمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِدَامٌ. ―         -b2-  هُوَ اُدْمُ اَهْلِهِ: and اُدْمُ بَنِى اَبِيهِ: see اَدَمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n446&quot; key=&quot;اَدَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدَمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَدِيمٌ, in two places: ―         -b2-  and اَدَمَةٌ.       -A2-  اَدَمُ: see ا=دَمُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n447&quot; key=&quot;هُوَ اَدْمَةُ اَهْلِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُوَ اَدْمَةُ اَهْلِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَدَمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n448&quot; key=&quot;اُدْمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُدْمَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A state of mixing,&lt;/i&gt; or &lt;i&gt;mingling, together&lt;/i&gt; [&lt;i&gt;in familiar,&lt;/i&gt; or &lt;i&gt;social, intercourse&lt;/i&gt;]. (Lth, T, M, K.) You say, بَيْنَهُمَا اُدْمَةٌ <br>\
+                  &lt;i&gt;Between them two is a mixing,&lt;/i&gt; &amp;amp;c. (Lth, T.) ―         -b2-  Also, (M, K,) or ↓ <br>\
+      اَدْمٌ, (S,) &lt;i&gt;Agreement:&lt;/i&gt; (S, M, K, TA:) and &lt;i&gt;familiarity, sociableness, companionship,&lt;/i&gt; or &lt;i&gt;friendship.&lt;/i&gt; (S, TA. [The meanings in this sentence are assigned in the S only to the latter word: in the TA, only to the former.]) ―         -b3-  And the former, &lt;i&gt;Relationship.&lt;/i&gt; (M, K.) ―         -b4-  And &lt;i&gt;A means of access&lt;/i&gt; (وَسِيلَةٌ, Fr, T, S, M, K) to a thing, (Fr, T, S,) and to a person; (Fr, T;) as also ↓ <br>\
+      اَدَمَةٌ. (K.) You say, فُلَانٌ <br>\
+                  اُدْمَتِى اـِلَيْكَ <br>\
+                  &lt;i&gt;Such a one is my means of access to thee.&lt;/i&gt; (Fr, T.) ―         -b5-  And [hence,] &lt;i&gt;A present which one takes with him in visiting a friend or a great man;&lt;/i&gt; in Peraian دَسْت ا=وِيز. (K, L.) ―         -b6-  هُوَ اُدْمَةُ <br>\
+                  اَهْلِهِ: and هُوَ اُدْمَةٌ لِفُلَانٍ: see اَدَمَةٌ.       -A2-  In camels, &lt;i&gt;A colour intermixed,&lt;/i&gt; or &lt;i&gt;tinged, with blackness,&lt;/i&gt; or &lt;i&gt;with whiteness;&lt;/i&gt; or &lt;i&gt;clear whiteness;&lt;/i&gt; (M, K;) or, as some say, (TA,) &lt;i&gt;intense whiteness;&lt;/i&gt; (S, TA;) or &lt;i&gt;whiteness, with blackness of the eyeballs:&lt;/i&gt; (Nh, TA:) and in gazelles, &lt;i&gt;a colour intermixed,&lt;/i&gt; or &lt;i&gt;tinged, with whiteness:&lt;/i&gt; (M, K:) or in gazelles and in camels, &lt;i&gt;whiteness:&lt;/i&gt; (T:) and in human beings, (M, K,) &lt;i&gt;a tawny colour;&lt;/i&gt; or &lt;i&gt;darkness of complexion;&lt;/i&gt; syn. سُمْرَةٌ [q. v.]; (S, M, K;) or &lt;i&gt;an intermixture,&lt;/i&gt; or &lt;i&gt;a tinge, of blackness;&lt;/i&gt; (Lth, T;) or &lt;i&gt;intense&lt;/i&gt; <br>\
+                  سُمْرَة [or &lt;i&gt;tawniness&lt;/i&gt;]; and it is said to be from اُدْمَةُ الاَرْضِ, meaning &lt;i&gt;the colour of the earth:&lt;/i&gt; (Nh, TA:) or [in men,] &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  حُمْرَةٌ [which, in this case, signifies &lt;i&gt;whiteness&lt;/i&gt; of complexion]: (TA:) accord. to AHn, it signifies &lt;i&gt;whiteness;&lt;/i&gt; syn. بَيَاضٌ. (M.) [See also ا=دَمُ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n449&quot; key=&quot;اَدَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُدْمَةٌ. ―         -b2-  هُوَ اَدَمَةُ اَهْلِهِ, (M, K,) and ↓ <br>\
+      اُدْمَتُهُمْ, (M,) or ↓ <br>\
+      اَدْمَتُهُمْ, (K,) and ↓ <br>\
+      اُدْمُهُمْ, (M,) or ↓ <br>\
+      اَدْمُهُمْ, and ↓ <br>\
+      اـِدَامُهُمْ, (K,) (tropical:)  &lt;i&gt;He is the pattern, exemplar, example,&lt;/i&gt; or &lt;i&gt;object of imitation, of his people,&lt;/i&gt; or &lt;i&gt;family, by means of whom they are known:&lt;/i&gt; (M, K:) so says IAar. (M.) And جَعَلْتُ فُلَانًا اَدَمَةَ اَهْلِى (tropical:)  &lt;i&gt;I made such a one to be the pattern, exemplar, example,&lt;/i&gt; or &lt;i&gt;object of imitation, of my people,&lt;/i&gt; or &lt;i&gt;family.&lt;/i&gt; (T, S.) And هُوَ اَدَمَةٌ لِفُلَانٍ, and ↓ <br>\
+      اُدْمَةٌ, (tropical:)  &lt;i&gt;He is a pattern,&lt;/i&gt; &amp;amp;c., &lt;i&gt;to such a one.&lt;/i&gt; (Fr, TA.) And فُلَانٌ اَدَمَةُ بَنِى <br>\
+                  فُلَانٍ (tropical:)  &lt;i&gt;Such a one is he who makes people to know the sons of such a one.&lt;/i&gt; (T.) And هُوَ اَدَمَةُ قَوْمِهِ (tropical:)  &lt;i&gt;He is the chief,&lt;/i&gt; and &lt;i&gt;provost, of his people.&lt;/i&gt; (A, TA.) And قَوْمِهِ ↓ <br>\
+      فُلَانٌ اـِدَامُ, and بَنى اَبِيهِ ↓ <br>\
+      اُدْمُ, (tropical:) &lt;i&gt;Such a one is the aider, and manager of the affairs,&lt;/i&gt; and &lt;i&gt;the support,&lt;/i&gt; and &lt;i&gt;right orderer of the affairs, of his people,&lt;/i&gt; and &lt;i&gt;of the sons of his father.&lt;/i&gt; (A, TA.)       -A2-  [The &lt;i&gt;inner skin;&lt;/i&gt; the &lt;i&gt;cutis,&lt;/i&gt; or &lt;i&gt;derma;&lt;/i&gt;] the &lt;i&gt;interior of the skin, which is next to the flesh;&lt;/i&gt; (S, M, K;) the exterior thereof being called the بَشَرَة: (S:) or (as some say, M) the &lt;i&gt;exterior thereof, upon which is the hair;&lt;/i&gt; the interior thereof being called the بَشَرَة: (M, K:) and ↓ <br>\
+      اَدَمٌ may be its pl.; [or rather, a coll. gen. n.;] or, accord. to Sb, it is a quasi-pl. n. (M.) ―         -b2-  Accord. to some, (M,) &lt;i&gt;What appears of the skin of the head.&lt;/i&gt; (M, K. [See بَشَرَةٌ.]) ―         -b3-  And (assumed tropical:)  The &lt;i&gt;interior&lt;/i&gt; of the earth or ground; (M, K;) the surface thereof being called its اَدِيم: (M, TA:) or, as some say, its &lt;i&gt;surface.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n450&quot; key=&quot;اَدَمِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدَمِىٌّ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A seller of&lt;/i&gt; [اَدَم, or] &lt;i&gt;skins,&lt;/i&gt; or &lt;i&gt;hides:&lt;/i&gt; (TA:) and ↓ <br>\
+      اَدَّامٌ signifies the same; and particularly &lt;i&gt;a seller of goats&#39; skins.&lt;/i&gt; (Golius, from the larger work entitled Mirkát el-Loghah.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n451&quot; key=&quot;اُدْماَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُدْماَنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and اُدْمَانَةٌ: see ا=دَمُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n452&quot; key=&quot;اـِدَامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِدَامٌ<br>\
+                     ادام<br>\
+                     اـدام<br>\
+                     ادام<br>\
+                  &lt;/form&gt; (T, S, M, Mgh, Msb, K) and ↓ <br>\
+      اُدْمٌ (the same except the K) [&lt;i&gt;Seasoning,&lt;/i&gt; or &lt;i&gt;condiment,&lt;/i&gt; for bread; and &lt;i&gt;any savoury food;&lt;/i&gt;] &lt;i&gt;what is used for seasoniny&lt;/i&gt; (مَا يُوْتَدَمُ بِهِ, T, S, M, * Mgh, Msb, K) &lt;i&gt;with bread;&lt;/i&gt; (T, TA;) &lt;i&gt;that which renders bread pleasant and good and savoury;&lt;/i&gt; (IAmb, Mgh;) &lt;i&gt;whether fluid or not fluid;&lt;/i&gt; (Mgh, Msb;) صِبْغٌ and صِبَاغٌ being peculiarly applied to that which is fluid: (Mgh:) or اُدْمٌ is &lt;i&gt;anything that is eaten with bread:&lt;/i&gt; (TA:) the pl. [of mult.] of اـِدَامٌ is اُدُمٌ, (Mgh, Msb,) and, by contraction, اُدْمٌ, which is also used as the sing., (Msb,) and [pl. of pauc.] ا=دِمَةٌ (M, K) and ا=دَامٌ; (K;) or this last is pl. of اُدْمٌ. (M, Mgh, Msb, TA.) It is said in a trad., نِعْمَ الاـِدَامُ الخَلُّ [&lt;i&gt;Excellent,&lt;/i&gt; or &lt;i&gt;most excel-lent, is the seasoning, vinegar!&lt;/i&gt;]. (T, TA.) And in another, سَيِّدُ ا=دَامِ الدُّنْيَا وَالا=خِرَةِ اللَّحْمُ [&lt;i&gt;The prince of the seasonings of the present world and of the world to come is flesh-meat&lt;/i&gt;]. (TA.) ―         -b2-  هُوَ اـِدَامُ اَهْلِهِ, and اـِدَامُ قَوْمِهِ: see اَدَمَةٌ. ―         -b3-  Anything &lt;i&gt;conforming,&lt;/i&gt; or &lt;i&gt;conformable; agreeing,&lt;/i&gt; or &lt;i&gt;agreeable; suiting,&lt;/i&gt; or &lt;i&gt;suitable.&lt;/i&gt; (M, K.) [Used also as a pl.: thus,] &#39;Ádiyeh Ed-Dubeyreeyeh says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        كَانُوا لِمَنْ خَالَطَهُمْ اـِدَامَا<br>\
+                  &lt;/quote&gt; [&lt;i&gt;They were, to those who mixed with them in social intercourse, conformable,&lt;/i&gt; or &lt;i&gt;agreeable.&lt;/i&gt;] (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n453&quot; key=&quot;اَدِيمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدِيمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; ↓ <br>\
+      مَاْدُومٌ [&lt;i&gt;Seasoned&lt;/i&gt;]: (T:) or طَعَامٌ ↓ <br>\
+      مَاْدُومٌ [&lt;i&gt;seasoned food&lt;/i&gt;]; (M, K;) &lt;i&gt;food in which is&lt;/i&gt; <br>\
+                  اـِدَام. (TA.) Hence the prov., سَمْنُكُمْ هُرِيقَ <br>\
+                  فِى اَدِيمِكُمْ [&lt;i&gt;Your clarified butter is poured into your seasoned food&lt;/i&gt;]; (T, TA;) applied to a niggardly man; (Har p. 462;) meaning, your good, or wealth, returns unto you: (TA:) or, as some say, the meaning is, &lt;i&gt;into your&lt;/i&gt; <br>\
+                  سِقَا=ء [or &lt;i&gt;skin&lt;/i&gt;]: (T, Har * ubi suprà:) and the vulgar say, فِى <br>\
+                  دَقِيقِكُمْ [&lt;i&gt;into your flour&lt;/i&gt;]. (TA.) And the saying, سَمْنُهُمْ فِى اَدِيمِهِمْ [&lt;i&gt;Their clarified butter is in their seasoned food&lt;/i&gt;]; meaning, their good, or wealth, returns unto them. (M.) And the saying of Khadeejeh to the Prophet, اـِنَّكَ لَتَكْسِبُ <br>\
+                  وَ تُطْعِمُ المَاْدُومَ ↓ <br>\
+      المَعْدُومَ (M, TA) &lt;i&gt;Verily thou gainest what is denied to others,&lt;/i&gt; or &lt;i&gt;makest&lt;/i&gt; others &lt;i&gt;to gain what they have not, of the things they want,&lt;/i&gt; or &lt;i&gt;makest the poor to gain,&lt;/i&gt; (TA in art. عدم,) &lt;i&gt;and givest to eat food in which is&lt;/i&gt; <br>\
+                  اـِدَام. (TA in the present art.) [Hence also,] اَطْعَمْتُكَ ↓ <br>\
+      مَاْدُومِى (M, K) meaning اَتَيْتُكَ بِعُذْرِى [&lt;i&gt;I gave thee my excuse;&lt;/i&gt; or, perhaps, &lt;i&gt;my virginity;&lt;/i&gt; see عُذْرَةٌ]: (K:) [or,] as some say, the meaning is, &lt;i&gt;my good manners:&lt;/i&gt; said by the wife of Dureyd Ibn-Es-Simmeh, on the occasion of his divorcing her. (M, TA.) ―         -b2-  And hence, (Ham p. 205, Mgh,) &lt;i&gt;Tanned skin&lt;/i&gt; or &lt;i&gt;hide; leather:&lt;/i&gt; (M, Ham, Mgh, Msb:) or &lt;i&gt;skin,&lt;/i&gt; or &lt;i&gt;hide,&lt;/i&gt; (M, K,) &lt;i&gt;in whatever state it be:&lt;/i&gt; (M:) or &lt;i&gt;red skin&lt;/i&gt; or &lt;i&gt;hide:&lt;/i&gt; (M, K:) or &lt;i&gt;skin,&lt;/i&gt; or &lt;i&gt;hide, in the state after that in which it is termed&lt;/i&gt; <br>\
+                  اَفِيقٌ; &lt;i&gt;that is, when it is complete&lt;/i&gt; [&lt;i&gt;in its tanning&lt;/i&gt;] &lt;i&gt;and has become red:&lt;/i&gt; (M:) or the &lt;i&gt;exterior of the skin&lt;/i&gt; of anything: (T:) pl. [of pauc.] ا=دِمَةٌ (S, M, K) and ا=دَامٌ and [of mult.] اُدُمٌ, (M, K,) the last from Lh, and [says ISd] I hold that he who says رُسْلٌ says اُدْمٌ, (M,) and ↓ <br>\
+      اَدَمٌ, (T, S, Msb, K,) or this is a quasi-pl. n., (Sb, M, Mgh,) [often used as a gen. n.,] of which ا=دَامٌ may be pl. (M.) ―         -b3-  اِبْنِ اَدِيمٍ and اِبْنُ اَدِيمَيْنِ and اِبْنُ ثَلَاثَةِ ا=دِمَةٍ: see اِبْنٌ in art. بنى. One says, اـِنَّمَا يُعَاتَبُ الاَدِيمُ ذُو البَشَرَةِ [lit.] &lt;i&gt;Only the hide that has the exterior part, upon which the hair grows, is put again into the tan:&lt;/i&gt; (T:) a prov.; (TA;) meaning, only he is disciplined, or &lt;pb n=&quot;37&quot; TEIform=&quot;pb&quot;/&gt; reproved, who is an object of hope, and in whom is full intelligence, and strength; (T, TA, and AHn in TA, art. بشر [where, however, in the TA, دُونَ is erroneously put for ذو];) and only he is disputed with in whom is place for dispute. (TA.) ―         -b4-  اَدِيمُ الحَرْبِ is used metaphorically for اَدِيمُ <br>\
+                  اَهْلِ الحَرْبِ (tropical:) [&lt;i&gt;The skin of the warriors,&lt;/i&gt; or &lt;i&gt;of the people engaged in war&lt;/i&gt; or &lt;i&gt;fight&lt;/i&gt;]. (M.) ―         -b5-  فُلَانٌ <br>\
+                  صَحِيحُ الاَدِيمِ [lit. &lt;i&gt;Such a one is sound of skin&lt;/i&gt;] means (tropical:)  &lt;i&gt;such a one is sound in respect of origin,&lt;/i&gt; and &lt;i&gt;of honour,&lt;/i&gt; or &lt;i&gt;reputation.&lt;/i&gt; (Har p. 135.) You say also, فُلَانٌ بَرِىْءُ الاَدِيمِ مِمَّا لُطِخَ بِهِ [meaning (tropical:)  &lt;i&gt;Such a one is clear in honour,&lt;/i&gt; or &lt;i&gt;reputation, of that with which he has been aspersed&lt;/i&gt;]. (M, * TA.) And ↓ <br>\
+      مَزَّقَ اَدَمِى (tropical:) &lt;i&gt;He rent my honour,&lt;/i&gt; or &lt;i&gt;reputation.&lt;/i&gt; (Har ubi suprà.) ―         -b6-  اَدِيمٌ also signifies (tropical:)  The &lt;i&gt;surface&lt;/i&gt; of the earth or ground: (S, M:) [see also اَدَمَةٌ, last sentence:] or &lt;i&gt;what appears&lt;/i&gt; thereof, (K,) and of the sky. (M, K.) ―         -b7-  And (tropical:)  The &lt;i&gt;first part&lt;/i&gt; of the period called الضُّحَى. (M, K, TA.) You say, جِيْتُكَ اَدِيمَ الضُّحَى (tropical:)  &lt;i&gt;I came to thee in the first part of the&lt;/i&gt; <br>\
+                  ضحى; (Lh, M;) app. meaning, عِنْدَ اْرْتِفَاعِ الضُّحَى [&lt;i&gt;when the morning was becoming advanced; when the sun was becoming high&lt;/i&gt;]. (M.) ―         -b8-  And (tropical:)  The &lt;i&gt;whiteness&lt;/i&gt; of day: (IAar, M, K, TA:) and (tropical:)  the &lt;i&gt;darkness&lt;/i&gt; of night: (IAar, M, TA:) or (tropical:)  the &lt;i&gt;whole&lt;/i&gt; of the day, (M, A, K, TA,) and of the night. (A, TA.) You say, ظَلَّ اَدِيمَ النَّهَارِ صَايِمًا وَاَدِيمَ اللَّيْلِ قَايِمًا (tropical:)  &lt;i&gt;He continued the whole of the day fasting, and the whole of the night standing&lt;/i&gt; [in prayer, &amp;amp;c.]. (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n454&quot; key=&quot;اَدَّامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدَّامٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَدَمِىٌّ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n455&quot; key=&quot;ا=دَمُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=دَمُ<br>\
+                     ا=دم<br>\
+                  &lt;i&gt;Of the colour termed&lt;/i&gt; <br>\
+                  اُدْمَةٌ: pl. اُدْمٌ and ↓ <br>\
+      اُدْمَانٌ; (S, M, K;) the latter like حُمْرَانٌ as a pl. of اَحْمَرُ: (M:) the fem. sing. is اَدْمَا=ءُ and ↓ <br>\
+      اُدْمَانَةٌ; (S M, K;) the latter anomalous; (K;) occurring in poetry, but disapproved (S, M) by As; (S;) said by Aboo-&#39;Alee to be like خُمْصَانَةٌ; (M;) and the fem. pl. is اُدْمٌ: (S, M, K:) applied to a camel, &lt;i&gt;of a colour intermixed,&lt;/i&gt; or &lt;i&gt;tinged, with blackness,&lt;/i&gt; or &lt;i&gt;with whiteness;&lt;/i&gt; or &lt;i&gt;of a clear white;&lt;/i&gt; (M, K;) or, as some say, &lt;i&gt;intensely white;&lt;/i&gt; (TA;) or &lt;i&gt;white, and black in the eyeballs;&lt;/i&gt; (S;) or &lt;i&gt;white;&lt;/i&gt; (As, T;) and so applied to a gazelle: (T:) or, applied to a gazelle, &lt;i&gt;of a colour intermixed,&lt;/i&gt; or &lt;i&gt;tinged, with whiteness;&lt;/i&gt; (M, K;) Lth, however, says that اَدْمَا=ءُ is applied to a female gazelle, but he had not heard ا=دَمُ applied to the male gazelle; (TA;) and As says, (S,) اُدْمٌ applied to gazelles signifies &lt;i&gt;white, having upon them streaks in which is a dust-colour,&lt;/i&gt; (S, M,) &lt;i&gt;inhabiting the mountains,&lt;/i&gt; and &lt;i&gt;of the colour of the mountains;&lt;/i&gt; (S;) if of a pure white colour, they are termed ا=رَامٌ: (T, TA:) or, accord. to ISk, &lt;i&gt;white in the bellies, tawny in the backs, and having the colour of the bellies and of the backs divided by two streaks of the colour of musk;&lt;/i&gt; and in like manner explained by IAar: (T:) applied to a human being, ا=دَمُ signifies &lt;i&gt;tawny;&lt;/i&gt; or &lt;i&gt;dark-complexioned;&lt;/i&gt; syn. اَسْمَرُ; (S, M, K;) or, thus applied, it signifies احْمَرُ اللَّوْنِ [which, in this case, means &lt;i&gt;white of complexion&lt;/i&gt;]; (TA;) and the pl. is اُدْمِانٌ. (S.) The Arabs say, قُرَيْشُ الاـِبِلِ اُدْمُهَا وَصُهْبُهَا, meaning &lt;i&gt;The best of camels are those of them which are&lt;/i&gt; <br>\
+                  اُدْم <br>\
+                  &lt;i&gt;and those of them which are&lt;/i&gt; <br>\
+                  صُهْب; [see اَصْهَبُ;] like as Kureysh are the best of men. (M.) ―         -b2-  Also [&lt;i&gt;Adam,&lt;/i&gt;] &lt;i&gt;the father of mankind;&lt;/i&gt; (S, M, K;) and likewise ↓ <br>\
+      اَدَمُ; but this is extr.: (K:) there are various opinions respecting its derivation; but [these it is unnecessary to mention, for] the truth is that it is a foreign word, [i. e. Hebrew,] of the measure فَاعَلُ, like ا=زَرُ: (MF:) and [therefore] its pl. is اَوَادِمُ. (S, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n456&quot; key=&quot;ا=دَمِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=دَمِىٌّ<br>\
+                     ا=دمى<br>\
+                     ا=دمي<br>\
+                  &lt;/form&gt; [&lt;i&gt;Of,&lt;/i&gt; or &lt;i&gt;relating to, Adam:&lt;/i&gt; and hence, &lt;i&gt;human:&lt;/i&gt; and &lt;i&gt;a human being:&lt;/i&gt;] a rel. n. from ا=دَمُ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n457&quot; key=&quot;اـِيدَامَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيدَامَةٌ<br>\
+                     ايدامه<br>\
+                     ايدامة<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;Level, hard, but not rugged, ground:&lt;/i&gt; (As:) or &lt;i&gt;hard ground without stones;&lt;/i&gt; (K;) from اَدِيمٌ signifying the “surface” of the earth or ground: (TA:) or &lt;i&gt;ground somewhat elevated; not much so; only found in plains, and producing vegetation, which, however, is disapproved, because its situation is rugged, and little water remains in it:&lt;/i&gt; (ISh:) pl. اَيَادِيمُ, (As, Esh-Sheybánee, IB, K,) which J erroneously says has no sing.: (K:) for he says, [in the S,] اَيَادِيمُ signifies &lt;i&gt;hard and elevated tracts&lt;/i&gt; (مُتُون) &lt;i&gt;of ground;&lt;/i&gt; and has no sing. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n458&quot; key=&quot;مُوْدَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْدَمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, as in an ex. cited above, (see 1,) &lt;i&gt;Made an object of love;&lt;/i&gt; (T, S;) &lt;i&gt;a proper object of love.&lt;/i&gt; (T.)       -A2-  رَجُلٌ مُوْدَمٌ مُبْشَرٌ (tropical:)  &lt;i&gt;A man who is skilful, and experienced in affairs,&lt;/i&gt; (M, K,) &lt;i&gt;who combines&lt;/i&gt; [&lt;i&gt;qualities like&lt;/i&gt;] &lt;i&gt;softness of the interior skin and roughness of the exterior skin:&lt;/i&gt; (T, S, M, K:) or &lt;i&gt;who combines softness and hardness,&lt;/i&gt; or &lt;i&gt;gentleness and force, with knowledge of affairs:&lt;/i&gt; (T:) or &lt;i&gt;who combines such qualities that he is suited to hardship and to easiness of circumstances:&lt;/i&gt; (As, T:) or, accord. to IAar, &lt;i&gt;having a thick and good skin:&lt;/i&gt; (M:) or &lt;i&gt;beloved:&lt;/i&gt; (TA:) the fem. is with ة: (M, K:) you say, اِمْرَاَةٌ مُوْدَمَةٌ مُبْشَرَةٌ, meaning (tropical:)  &lt;i&gt;a woman goodly in her aspect and faultless in her intrinsic qualities:&lt;/i&gt; and sometimes the former epithet, with and without ة, as applied to a woman and to a man respectively, is put after the latter. (M.) See also art. بشر.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n459&quot; key=&quot;مَاْدُومٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْدُومٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَدِيمٌ, in four places.   &lt;/entryFree&gt; <br>\
+' } );

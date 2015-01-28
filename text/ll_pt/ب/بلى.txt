@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>بلى</em>            1                  بلى<br>\
+<b>بَلِىَ</b>               1     <br>\
+                     بَلِىَ<br>\
+                     بل<br>\
+                     بلى<br>\
+                     بلي<br>\
+                     لي<br>\
+                  : see art. بلو.    </entryFree> <br>\
+<b>ابلى الثَّوْبَ</b>               1     <br>\
+                     ابلى الثَّوْبَ<br>\
+                     ابلي الثوب<br>\
+                  : see art. بلو.    </entryFree> <br>\
+<b>بِلْىٌ</b>               1     <br>\
+                     بِلْىٌ<br>\
+                     بل<br>\
+                     بلى<br>\
+                     بلي<br>\
+                     لي<br>\
+                  : and بِلْىُ سَفَرٍ: &amp;amp;c.: see art. بلو.    </entryFree> <br>\
+<b>بَلَى</b>               1     <br>\
+                     بَلَى<br>\
+                     بل<br>\
+                     بلى<br>\
+                     بلي<br>\
+                     لي<br>\
+                   is a particle; (S, Msb, Mughnee;) <i>contr. of</i> <br>\
+                  لَا: (S:) not a noun: (Sb, S:) it is a replicative; (S, Mughnee;) an affirmative of what is said [in that to which it is a reply]; (S, Msb;) [with very few exceptions] relating only to a negation, which it annuls: (Msb, Mughnee:) the final letter is a radical: or, accord. to some, the word is originally بَلْ, [after which an affirmation is to be understood,] and the final letter is augmentative: and some of these say that this letter is a denotative of the fem. gender, because it is [often] pronounced with imáleh. (Mughnee.) It is a reply to an interrogation in which is a negative, (T, M, Msb, Mughnee, K,) and affirms what is said to thee [in that interrogation]; (M, K;) whether it be an interrogation in the proper sense, (Mughnee,) as when you say to another, اَلَمْ تَفْعَلْ كَذَا [<i>Didst thou not such a thing?</i>], and he replies, بَلَى [meaning <i>Yes,</i> or <i>yea,</i> or <i>ay,</i> I did], (T,) or as when one says, اَلَيْسَ زَيْدٌ بِقَايِمٍ [<i>Is not Zeyd standing?</i>], and you reply, بَلَى [<i>Yes,</i> he is]; or be meant to convey reproof, (Mughnee,) as in the Kur [lxxv. 3 and 4], اَيَحْسَبُ الاـِنْسَانُ اَنْ لَنْ نَجْمَعَ عِظَامَهُ بَلَى [<i>Doth man think that we will not collect his bones? Yes</i>], (Msb, Mughnee,) i. e., we will collect them; (Msb;) or be meant to make a person confess, or acknowledge, a thing, (Mughnee,) as in the Kur [vii. 171], اَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى [<i>Am I not your Lord? They said, Yea</i>]. (M, Mughnee.) It is also a reply to a simple negation, (Msb, Mughnee,) as when I say, مَا قَامَ <br>\
+                  زَيْدٌ [<i>Zeyd did not stand,</i> or <i>has not stood</i>], and you reply, بَلَى as an affirmative [meaning <i>Yes,</i> he did, or he has]. (Msb.) It occurs in the Kur [xxxix. 60], where it is said, بَلَى قَدْ جَا=ءَتْكَ ا=يَاتِى [<i>Yea, my signs have come to thee</i>], preceded by that which is not literally a negation, but which has the force of a negation; for the preceding saying, لَوْ اَنَّ اْللّٰهَ هَدَانِى [<i>If God had directed me aright,</i> or <i>would that God</i> &amp;amp;c.], is like the saying, مَا هُدِيتُ [<i>I was not directed aright</i>]. (M.) It also occurs in the books of traditions, in some instances, as a reply to an interrogation without a negative; but these instances are rare, and not to be followed in rendering revelation. (Mughnee.) Az says that when a man says to another, اَلَا تَقُومُ [<i>Wilt thou not stand?</i>], and the latter replies, بَلَى, he means بَلْ اَقُومُ [<i>Nay, I will stand</i>], adding the alif [written ى] to make the pause good; for if he said, بَلْ, the other would expect something more to be said after it. (TA.) It is said that the pronunciation termed imáleh is allowable in the case of بَلَى; and if so, its final radical letter is ى: and some of the grammarians say that this pronunciation of بلى is because, by reason of its completeness and independence of meaning, so that it requires nothing after it, it resembles independent nouns, in the cases of which this pronunciation is allowable. (M.)    </entryFree> <br>\
+<b>بِلْيَةٌ</b>               1     <br>\
+                     بِلْيَةٌ<br>\
+                     بلي<br>\
+                     بليه<br>\
+                     بلية<br>\
+                     لي<br>\
+                     لية<br>\
+                   and بَلِىٌّ and بَلِيَّةٌ: see art. بلو.   </entryFree> <br>\
+' } );

@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'سون5<br>\
+تَسَوُّونٌ: see 1 in art. سول, last sentence.<br>\
+' } );

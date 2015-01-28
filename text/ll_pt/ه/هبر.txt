@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>هبر</em>            1                  هبر<br>\
+<b>هَبَرَ</b>               1     <br>\
+                     هَبَرَ<br>\
+                     ذ<br>\
+                  , &amp;amp;c.: see Supplement.]    </entryFree> <br>\
+<b>ضَرْبٌ هَبْرٌ</b>               1     <br>\
+                     ضَرْبٌ هَبْرٌ<br>\
+                     ذ<br>\
+                  : see سَعْرٌ.    </entryFree> <br>\
+<b>هِبْرِيَةٌ</b>               1     <br>\
+                     هِبْرِيَةٌ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      هُبَارِيَةٌ (TA) [<i>Scurf on the head;</i>] <i>what is in the hair of the head, resembling bran;</i> (S;) the <i>dirt of the head, that clings to the lower part of the hair, resembling bran;</i> (K;) as also اـِبْرِيَةٌ (TA) and تِبْرِيَةٌ. (AO, S, K, in art. تبر.) ―         -b2-  Also, [both ↓ words,] <i>What flies about, of,</i> or <i>from, feathers,</i> (K, TA,) and <i>the like:</i> (TA:) and the former, <i>what flies about, of,</i> or <i>from, the down of cotton:</i> (K:) or the <i>fine down that flies about from cotton:</i> (L:) and <i>what becomes scattered about, and compacted, of,</i> or <i>from, canes,</i> or <i>reeds, and the</i> <br>\
+                  بَرْدِىّ [or <i>papyrus</i>]: (Yaakoob:) pl. of the former, هِبْرِيَاتٌ. (TA.)    </entryFree> <br>\
+<b>هُبَارِيَةٌ</b>               1     <br>\
+                     هُبَارِيَةٌ<br>\
+                     ذ<br>\
+                  : see above, in two places.    </entryFree> <br>\
+<b>هَبُّورٌ</b>               1     <br>\
+                     هَبُّورٌ<br>\
+                     ذ<br>\
+                  <i>Barley growing,</i> or <i>growing forth;</i> in the Nabathaean language. (Sa&#39;eed ibn Jubeyr, TA, art. عصف.)   </entryFree> <br>\
+' } );

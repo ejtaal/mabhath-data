@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كدا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كدا<br>\
+&lt;entryFree id=&quot;n36735&quot; key=&quot;١&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     كَدَاَ<br>\
+                     ذ and        <br>\
+      كَدِيَ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَدَاَ<br>\
+                  &lt;/form&gt;, inf. n. كَدْءٌ and كُدُوْءٌ, &lt;i&gt;It&lt;/i&gt; (a plant) &lt;i&gt;was affected by the cold, and thereby made to stick to the earth:&lt;/i&gt; or &lt;i&gt;its growth became slow by reason of want of water.&lt;/i&gt; (AZ, S, K.) ―         -b2-  كَدَاَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَدَاَ<br>\
+                  &lt;/form&gt;; (K;) and ↓ <br>\
+      كدّا, (S, K,) inf. n. تَكْدِيَةٌ; (S;) the former the more common; (TA;) &lt;i&gt;It&lt;/i&gt; (cold) &lt;i&gt;cast down&lt;/i&gt; the standing corn &amp;amp;c. &lt;i&gt;upon the earth.&lt;/i&gt; (S, K.) ―         -b3-  كَدَاَ (tropical:)  &lt;i&gt;It&lt;/i&gt; (herbage) &lt;i&gt;was short and bad,&lt;/i&gt; (K,) &lt;i&gt;on account of the badness of the soil.&lt;/i&gt; (TA.) ―         -b4-  كَدِيَتِ الاـِبِلُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَدَاَ<br>\
+                  &lt;/form&gt;, inf. n. كَدْءٌ, &lt;i&gt;The camels had little hair.&lt;/i&gt; (TA.)       -A2-  كَدِيَ, (K,) or كَدَاَ, (L.) the former said to be of an uncommon dial., (MF,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَدَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;It&lt;/i&gt; (a crow or raven) &lt;i&gt;croaked roughly, as though it were vomiting.&lt;/i&gt; (L, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     كَدَّاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36736&quot; key=&quot;كَوْدَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;Q Q&quot;&gt;       <br>\
+                     &lt;itype&gt;Q. Q. 1&lt;/itype&gt;        <br>\
+                     كَوْدَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) inf. n. كَوْدَاَةٌ, (TA,) &lt;i&gt;He ran in the manner called&lt;/i&gt; <br>\
+                  عَدْو: (K:) i. e., &lt;i&gt;he hastened in his pace.&lt;/i&gt; (TA.) [See دَاْدَاَ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36737&quot; key=&quot;اَرْضٌ كَادِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْضٌ كَادِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A land that produces plants slowly.&lt;/i&gt; (S, K.) ―         -b2-  اـِبِلٌ كَادِيَةُ الاَوْبَارَ <br>\
+                  &lt;i&gt;Camels having little hair:&lt;/i&gt; pl. كَوَادِيُ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36738&quot; key=&quot;كِنْدَاْوٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كِنْدَاْوٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; dial. form of كِنْتَاْوٌ. (K.) ―         -b2-  A &lt;i&gt;gross,&lt;/i&gt; or &lt;i&gt;bulky,&lt;/i&gt; camel. (K.) [But perhaps جمل is here put by a mistake of a copyist in the K for حبل, and the meaning is a &lt;i&gt;thick&lt;/i&gt; rope; for كنتاو is said to signify thick, as an epithet applied to a rope: or the reverse may be the case in the explanation of the latter word.] It occurs again in art. كند. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

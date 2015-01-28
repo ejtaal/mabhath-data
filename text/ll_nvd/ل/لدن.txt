@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'لدنلَدْنٌ Supple; lithe; limber; limp; pliant;<br>\
+pliable; flexible.<br>\
+مِنْ لَدُنْ From the time of: see a verse cited<br>\
+in art. عى, conj. 4. ―<br>\
+-b2-  هٰذَا الأَمْرُ مِنْ لَدُنْهُ i. q.<br>\
+مِنْ قِبَلِهِ, q. v. (Lth in TA, in art. قبل.)<br>\
+' } );

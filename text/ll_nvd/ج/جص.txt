@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'جص2<br>\
+جصّص He plastered a building with جِصّ<br>\
+[or gypsum]: (Mgh, K:) or he made a house<br>\
+therewith: (Msb:) i. q. قَصَّصَ, (S, TA,) which<br>\
+is of the dial. of El-Hijáz. (TA.)<br>\
+جِصٌّ (S, Mgh, Msb, K) and جَصٌّ (S, Mgh,<br>\
+K,) but the former is the more chaste: (TA,<br>\
+from an Expos. of the Fs:) the latter is disapproved by IDrd, and disallowed by ISk;<br>\
+(TA;) and it is said in the Bári&#39;, on the authority of AHát, that the latter is the form used<br>\
+by the vulgar, and the former is that which is<br>\
+correct: (Msb:) [Gypsum; a certain substance]<br>\
+with which one builds, (S,) or plasters; (Mgh;)<br>\
+well known: (Msb, K:) arabicized; (S, Mgh,<br>\
+Msb, K;) because ج and ص do not occur in<br>\
+any Arabic word; (Msb;) or, accord. to AZ,<br>\
+there are some [Arabic] words in which they<br>\
+both occur, as has been mentioned in art. اجص:<br>\
+from كَجْ (Mgh, K, [in the CK كَچْ]) or, as<br>\
+some say, گَچْ; which are Persian: (TA:) in<br>\
+the dial. of the people of El-Hijáz, قصّ [i. e.قِصٌّ<br>\
+or قَصٌّ]. (Lth, TA.) [The n. un. is with ة: see<br>\
+art. قص.]<br>\
+جَصَّاصٌ A preparer of جِصّ [or gypsum].<br>\
+(S, K.)<br>\
+جَصَّاصَاتٌ [pl. of جَصَّاصَةٌ] Places in which<br>\
+جِصّ [or gypsum] is made. (K.)<br>\
+' } );

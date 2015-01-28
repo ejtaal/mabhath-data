@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>حقط</em>            1                  حقط<br>\
+<b>حَيْقَطٌ</b>               1     <br>\
+                     حَيْقَطٌ<br>\
+                     حيقط<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>حَيْقُطَانٌ</b>               1     <br>\
+                     حَيْقُطَانٌ<br>\
+                     حيقطان<br>\
+                  , (IDrd, S, K,) and حَيْقَطَانٌ, but the former is the more chaste, (IDrd,) and the latter is mentioned by none but IDrd, (IKh,) and ↓ <br>\
+      حَيْقُطٌ, (K,) The [<i>bird called</i>] دُرَّاج [i. e. <i>attagen, francolin, heath-cock,</i> or <i>rail:</i> but see this last Arabic word]: (K:) or the <i>male of the</i> <br>\
+                  دُرَّاج: (S, K:) but IF says, I do not think it correct: (TA:) fem. حَيْقُطَانَةٌ. (K.)   </entryFree> <br>\
+' } );

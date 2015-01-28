@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'قحم1<br>\
+قحم نَفْسَهُ فِى الأُمُورِ and<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'كحث1<br>\
+كَحَثَ لَهُ مِنَ الَمالِ, aor.<br>\
+كَحَثَ, (inf. n. كَحْثٌ<br>\
+and كَحْثَةٌ, TA,) He laded out for him with his<br>\
+hands, (or with his hand, as in some copies of<br>\
+the K, and in the L,) [somewhat] of the property.<br>\
+(L, K.)<br>\
+كحص كحل كخ<br>\
+See Supplement<br>\
+' } );

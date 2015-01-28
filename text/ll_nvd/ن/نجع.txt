@@ -1,0 +1,41 @@
+load_data( { book: 'll_nvd', text: 'نجع1<br>\
+نَجَعَ فِيهِ<br>\
+It (a discourse, S, K: and exhortation, S, Msb, K; and medicine, S, Msb;<br>\
+and fodder, Msb) entered into him, and produced an effect upon him: (S, K:) or showed<br>\
+its effect [upon him]. (Msb.) ―<br>\
+-b2-  It (medicine) benefited him; as also ↓ أَنْجَعَ and ↓ نَجَّعَ.<br>\
+(TA.) [And It (eating) had an agreeable,<br>\
+a wholesome, or a beneficial, effect upon him:<br>\
+so I have rendered it voce عَنَى.] ―<br>\
+-b3-  نَجَّعَ said<br>\
+of food and of beverage, inf. n. نُجُوعٌ, It was<br>\
+wholesome, or] suitable, or it agreed. (So accord.<br>\
+to an expl. of the inf. n. in the KL.)<br>\
+2<br>\
+نَجَّعَ<br>\
+see 1.<br>\
+4<br>\
+أَنْجَعَ<br>\
+see 1.<br>\
+8<br>\
+اِنْتَجَعَ<br>\
+He sought after herbage (S, Mgh,<br>\
+K) in its place: (S, K:) or went to seek after<br>\
+herbage in its place. (Msb.) And انتجع بَلَدًا<br>\
+[He sought after herbage in a district, or country].<br>\
+(K in art. حنك.)<br>\
+نِجَعٌ<br>\
+for نُجَعٌ: see رِجْعَةٌ.<br>\
+نُجْعَةٌ<br>\
+The seeking after herbage (S, Mgh, K)<br>\
+in its place; (S, K;) the going to seek after<br>\
+herbage in its place. (Msb.)<br>\
+نَجِيعٌ<br>\
+Effused blood: see 2 in art. خوض.<br>\
+مَنْجَعٌ<br>\
+, pl. مَنَاجِعُ<br>\
+A desert: see بَادِيَةٌ.<br>\
+مُنْتَجَعٌ<br>\
+A place where herbage is sought: see<br>\
+مَحْضَرٌ.<br>\
+' } );

@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'نخل1<br>\
+نَخڤلَ<br>\
+see 8.<br>\
+5<br>\
+تَنَخَّلَ<br>\
+see 8.<br>\
+8<br>\
+اِنْنَخَلَهُ<br>\
+He cleared it [or sifted it]; as also<br>\
+↓ نَخَلَهُ and ↓ تَنَخَّلَهُ: (K [see سَفْسَفَهُ]:) or he took<br>\
+the best of it (S, Msb) to the utmost: (S:) or<br>\
+he chose the best of it for himself. (TA.)<br>\
+نَخْلِىٌّ<br>\
+A cultivator of palm-trees: see عَطَلٌ.<br>\
+نُخَالٌ<br>\
+Bran.<br>\
+' } );

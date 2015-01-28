@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'خوب1<br>\
+خَابَ, aor. يَخُوبُ, inf. n. خَوْبٌ, He was, or<br>\
+became, poor, needy, or indigent. (IAar, K.) ―<br>\
+-b2-<br>\
+See also خَابَ in art. خيب.<br>\
+خَوْبَةٌ A state of utter destitution, in which<br>\
+nothing remains in possession: so in the saying,<br>\
+أَصَابَتْهُمْ خَوْبَةٌ [A state of utter destitution befell<br>\
+them]. (A&#39;Obeyd, T.) ―<br>\
+-b2-  Hunger: (AA, T, S,<br>\
+A, K:) pl. خَوْبَاتٌ. (TA.) So in the phrase,<br>\
+أَصَابَتْهُ خَوْبَةٌ [Hunger befell him]. (AA, S.)<br>\
+Sh knew not this word, and thought it to be a<br>\
+mistake for حَوْبَةٌ; (T;) which latter signifies<br>\
+“ want. ” (S.) [See the latter word.]<br>\
+-A2-  A tract<br>\
+of land upon which rain has not fallen, between<br>\
+two tracts of land watered by rain. (AA, S, K.)<br>\
+―<br>\
+-b2-  Land that is bad, (S,) in which is no pasture<br>\
+(S, K) nor water. (TA.) So in the saying,<br>\
+نَزَلْنَا بِخَوْبَةٍ مِنَ الأَرْضِ [We alighted in bad land,<br>\
+without pasture or water]. (S.) [See also حُوبَةٌ.]<br>\
+' } );

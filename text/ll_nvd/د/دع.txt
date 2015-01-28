@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'دع1<br>\
+دَعَّهُ, aor.<br>\
+دَعُ3َ, (S, Z,) inf. n. دَعٌّ, (S, K,) He<br>\
+pushed him, thrust him, or drove him, away; he<br>\
+repelled him: (S:) or he did so harshly, roughly,<br>\
+or violently. (A&#39;Obeyd, K.) Hence, in the Kur<br>\
+[cvii. 2], فَذٰلِكَ الَّذِى يَدُعُّ اليَتِيمَ That is he who<br>\
+pusheth, thrusteth, or driveth, away the orphan:<br>\
+(S:) or, who doth so harshly, roughly, or violently: (Bd, Jel:) or, who treateth the orphan<br>\
+with harshness, roughness, or violence; pushing,<br>\
+thrusting, or driving, away; and chiding with<br>\
+rudeness, or coarseness. (Z, TA.) And in like<br>\
+manner, in the same [lii. 13], يَوْمَ يُدَعُّونَ إِلَى نَارِ<br>\
+جَهَنَّمَ دَعًّا On the day when they shall be pushed,<br>\
+or thrust, or driven, with harshness, roughness, or<br>\
+violence, to the fire of Hell. (A &#39;Obeyd, Bd,<br>\
+Jel, TA.) And in a trad. of Esh-Shaabee, كَانُوا<br>\
+لَا يُدَعُّونَ عَنْهُ They used not to be driven, nor<br>\
+pushed, or repelled, from it. (TA.)<br>\
+' } );

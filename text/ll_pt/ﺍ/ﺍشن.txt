@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اشن&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اشن<br>\
+&lt;entryFree id=&quot;n846&quot; key=&quot;تاشّن&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاشّن<br>\
+                     ذ<br>\
+                  &lt;i&gt;He washed his hands with&lt;/i&gt; <br>\
+                  اُشْنَان [q. v. infrà]. (Msb, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n847&quot; key=&quot;اُشْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُشْنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [applied in the present day to &lt;i&gt;Moss:&lt;/i&gt; and particularly, &lt;i&gt;tree-moss:&lt;/i&gt; in Persian اُشْنَهْ: but] Lth says, (TA,) it is &lt;i&gt;a thing that winds itself upon the trees called&lt;/i&gt; <br>\
+                  بَلُّوط <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  صَنَوْبَر [&lt;i&gt;oak and pine] as though it were pared off from a root&lt;/i&gt; (كَاَنَّهُ مَقْشُورٌ مِنْ عِرْقِ); and it is &lt;i&gt;sweet in odour, and white:&lt;/i&gt; (K, TA:) Az says, I do not think it to be [genuine] Arabic. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n848&quot; key=&quot;اُشْنَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُشْنَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and اـِشْنَانٌ, (Msb, K,) but the former is of higher authority than the latter, (TA,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  حُرْضٌ [&lt;i&gt;Kali,&lt;/i&gt; or &lt;i&gt;glasswort&lt;/i&gt;]: (Msb in the present art.; and S, A, Mgh, Msb, K, in art. حرض:) [and also &lt;i&gt;potash,&lt;/i&gt; which is thence prepared;] &lt;i&gt;a thing,&lt;/i&gt; or &lt;i&gt;substance, well known,&lt;/i&gt; (K, TA,) &lt;i&gt;with which clothes and the hands are washed;&lt;/i&gt; (TA; [see قِلْىٌ;]) &lt;i&gt;good,&lt;/i&gt; or &lt;i&gt;profitable, [as a remedy] for the mange,&lt;/i&gt; or &lt;i&gt;scab, and the itch; clearing to the complexion, cleansing, emmenagogue, and abortive.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n849&quot; key=&quot;اُشْنَانَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُشْنَانَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A vessel for&lt;/i&gt; <br>\
+                  حُرْض [or &lt;i&gt;for&lt;/i&gt; <br>\
+                  اُشْنَان as meaning &lt;i&gt;potash&lt;/i&gt;]; syn. مِحْرَضَةٌ. (A in art. حرض)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n850&quot; key=&quot;اُشْنَانِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُشْنَانِىٌّ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A seller of&lt;/i&gt; <br>\
+                  اُشْنَان. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

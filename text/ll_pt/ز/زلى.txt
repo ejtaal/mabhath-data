@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>زلى</em>            1                  زلى<br>\
+<b>زِلِّيَّةٌ</b>               1     <br>\
+                     زِلِّيَّةٌ<br>\
+                     ذ<br>\
+                   [expl. in art. زل, q. v.,] sing. of زَلَالِىُّ. (K.)   </entryFree> <br>\
+' } );

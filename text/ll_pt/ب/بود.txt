@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>بود</em>            1                  بود<br>\
+<b>بَادَ</b>               1     <br>\
+                     بَادَ<br>\
+                     اـد<br>\
+                     باـد<br>\
+                     باد<br>\
+                     بادي<br>\
+                  , inf. n. بَوْدٌ and بَوَادٌ: see art. بيد.   </entryFree> <br>\
+' } );

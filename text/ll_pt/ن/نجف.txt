@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>نجف</em>            1                  نجف<br>\
+<b>نِجَافٌ</b>               1     <br>\
+                     نِجَافٌ<br>\
+                     ذ<br>\
+                   of a door, <i>i. q.</i> <br>\
+                  دَرْوَنْد [a Persian word, <i>A bolt,</i> or <i>bar.</i>] (IAar in L, art. رتج.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'غرقلQ. 1<br>\
+غَرْقَلَتِ البَيْضَةُ The egg became rotten;<br>\
+(S, O;) the interior of the egg became corrupt:<br>\
+and thus غَرْقَلَ signifies said of the بِطِّيخ [i. e.<br>\
+melon, or water-melon]: (K:) or, said of the<br>\
+بطّيخ, it became hard. (O.)<br>\
+-A2-  And غَرْقَلَ He<br>\
+poured water upon his head at once; (IAar, O,<br>\
+K, TA;) inf. n. غَرْقَلَةٌ. (TA.)<br>\
+غِرْقِلٌ The white of an egg; as also ↓ غِرْقِيلٌ.<br>\
+(Az, TA.)<br>\
+غِرْقِيلٌ: see what next precedes.<br>\
+' } );

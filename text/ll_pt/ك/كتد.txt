@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>كتد</em>            1                  كتد<br>\
+<b>كَتَدٌ</b>               1     <br>\
+                     كَتَدٌ<br>\
+                     ذ<br>\
+                   and كَتِدٌ [The <i>upper part of the back, above,</i> or <i>between, the shoulders:</i>] the <i>part where the two shoulder-blades come</i> [or <i>approach</i>] <i>together;</i> in a man and a horse (L, K) and a lion: (L:) or the <i>part between the base of the neck and the shoulder-blades:</i> (A:) or the <i>part between the</i> <br>\
+                  كَاهِل [app. here signifying the <i>bas of the neck</i>] <i>and the back;</i> (S, L, K;) as also ثَبَجٌ: (L:) or the <i>part between the</i> <br>\
+                  مُثَبَّج [or <i>place where the pastor puts his stick,</i> or <i>staff, upon his back, putting his arms and hands behind it,</i>] <i>and the middle of the</i> <br>\
+                  كاهل [which app. here signifies the <i>portion of the back comprising its six upper vertebræ</i>]: or the <i>part from the base of the neck to the bottom of the shoulder-blades, comprising the</i> <br>\
+                  كَاثِبَة <br>\
+                  <i>and</i> <br>\
+                  ثبج <br>\
+                  <i>and</i> <br>\
+                  كاهل: (L:) or the كاهل <br>\
+                  <i>itself:</i> (L, K:) or the upper part of the shoulder-blade: (L:) pl. اَكْتَادٌ and كُتُودٌ. (L, K.) ―         -b2-  نَحْمِلُهُ <br>\
+                  عَلَى الاَكْبَادِ فَضْلًا عَنِ الاَكْتَادِ [<i>We will carry it upon the livers; much more upon the upper parts of the backs</i>]. (A.) ―         -b3-  وَلَّوْهُمْ اَكْتَادَهُمْ <br>\
+                  <i>They turned their backs upon them, retreating and routed.</i> (A.) ―         -b4-  الكَتَدُ (tropical:)  <i>A certain star,</i> (S, L, K) [g] <i>in the part called the</i> <br>\
+                  كتد <br>\
+                  <i>of the constellation Leo.</i> (L.) ―         -b5-  هُمْ اَكْتَادٌ <br>\
+                  <i>They are companies,</i> or <i>congregated bodies:</i> (L, K:) or, <i>distinct bodies,</i> or <i>parties,</i> or <i>troops:</i> as also اَكْدَادٌ: (L:) or, <i>like each other;</i> (L, K:) <i>not differing, one from another:</i> (TA:) or, <i>quick,</i> or <i>swift, one party of them following immediately after another:</i> (L, K:) اكتاد has no sing.: (K:) it is said to be either اَكْدَادٌ mispronounced, or a dial. form of this latter word. (MF.)    </entryFree> <br>\
+<b>اَكْتَدُ</b>               1     <br>\
+                     اَكْتَدُ<br>\
+                     ذ<br>\
+                  <i>Having the place called the</i> <br>\
+                  كَتَد <br>\
+                  <i>prominent.</i> (L, K.)   </entryFree> <br>\
+            <div2 n=&quot;ktE ktf ktl ktm ktn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كتع كتف كتل كتم كتن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

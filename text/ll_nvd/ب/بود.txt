@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'بود1<br>\
+بَادَ, inf. n. بَوْدٌ and بَوَادٌ: see art. بيد.<br>\
+' } );

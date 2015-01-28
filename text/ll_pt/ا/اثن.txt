@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>اثن</em>            1                  اثن<br>\
+<b>اِثْنَانِ</b>               1     <br>\
+                     اِثْنَانِ<br>\
+                     اثنان<br>\
+                     ٱثنان<br>\
+                   and اِثْنَتَانِ: see art. ثنى.   </entryFree> <br>\
+' } );

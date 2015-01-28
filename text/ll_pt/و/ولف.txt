@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ولف</em>            1                  ولف<br>\
+<b>الوَلْفُ</b>               1     <br>\
+                     الوَلْفُ<br>\
+                     ذ<br>\
+                  <i>The common cyclamen:</i> see بَخُورُ مَرْيَمَ.    </entryFree> <br>\
+<b>وِلَافٌ</b>               1     <br>\
+                     وِلَافٌ<br>\
+                     ذ<br>\
+                  , for اـِلَافٌ: see اَلِفَهُ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>دولاب</em>            1                  دولاب<br>\
+<b>دُولَابٌ</b>               1     <br>\
+                     دُولَابٌ<br>\
+                     دولاب<br>\
+                  , or دَوْلَابٌ: see art. دلب.   </entryFree> <br>\
+' } );

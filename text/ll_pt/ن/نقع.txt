@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>نقع</em>            1                  نقع<br>\
+<b>نَقَعَ</b>               1     <br>\
+                     نَقَعَ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      اِسْتَنْقَعَ <br>\
+                  <i>It</i> (water) <i>remained,</i> or <i>stagnated,</i> or <i>collected,</i> in a hollow, or cavity: (Mgh:) or <i>remained long, and became altered:</i> (Msb:) or the former [and latter] <i>collected in a</i> <br>\
+                  مَنْقَع: (S:) or the latter [and former] <i>became yellow and altered.</i> (K.) ―         -b2-  نَقَعَ and ↓ <br>\
+      اَنْقَعَ [<i>He macerated, steeped,</i> or <i>soaked,</i> a medicine, <i>in water,</i>] <i>he left it in water until its colour became changed.</i> (Msb.)    </entryFree> <br>\
+                     اَنْقَعَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اـِسْتَنْقَعَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>نَقِيعٌ</b>               1     <br>\
+                     نَقِيعٌ<br>\
+                     ذ<br>\
+                  <i>An infusion;</i> meaning, <i>a beverage made by steeping something in water:</i> (Msb:) and <i>a mash.</i>    <br>\
+<b>سَمٌّ نَاقِعٌ</b>               1     <br>\
+                     سَمٌّ نَاقِعٌ<br>\
+                     ذ<br>\
+                  <i>Poison that takes effect;</i> (S, K;) <i>that kills:</i> (TA:) <i>that remains fixed,</i> (Abu-nNasr, K, TA,) <i>and collects.</i> (Abu-Nasr, TA.)    </entryFree> <br>\
+<b>اَنْقَعُ</b>               1     <br>\
+                     اَنْقَعُ<br>\
+                     ذ<br>\
+                  <i>More,</i> or <i>most, thirst-quenching:</i> see an ex. under الحَاذُ, in art. حوذ; and another voce رَشَفَ.    </entryFree> <br>\
+<b>اَنْقُوعَةٌ</b>               1     <br>\
+                     اَنْقُوعَةٌ<br>\
+                     ذ<br>\
+                   The <i>hollow,</i> or <i>depression, of</i> <br>\
+                  ثَرِيد, (S, A, K,) <i>in which the gravy collects.</i> (A, K. *)    </entryFree> <br>\
+<b>مَنْقَعُ مَا=ءِ</b>               1     <br>\
+                     مَنْقَعُ مَا=ءِ<br>\
+                     ذ<br>\
+                  , and مَا=ءٍ ↓ <br>\
+      مَسْتَنْقَعُ, <i>A place where water remains and collects; where it collects and stagnates;</i> or <i>where it remains long, and becomes altered.</i> See نَقَعَ.    </entryFree> <br>\
+<b>مَنْقَعُ البُرْمِ</b>               1     <br>\
+                     مَنْقَعُ البُرْمِ<br>\
+                     ذ<br>\
+                  <i>Untwisted old thread which a woman spins a second time, and puts into the stone cooking-pots, because she has nothing but these</i> [<i>in which to deposit it</i>]. (Sgh, K, TA. [From the K it would seem to be مُنْقعٌ alone: and in the CK, البُرام is erroneously put for البِرام: Golius found it written البَرَام; and has wrongly explained it in his Appendix.]) ―         -b2-  سَمٌّ مُنْقَعٌ <br>\
+                  <i>Poison made into a confection.</i> (S, K, TA.)    </entryFree> <br>\
+<b>مَسْتَنْقَعٌ</b>               1     <br>\
+                     مَسْتَنْقَعٌ<br>\
+                     ذ<br>\
+                  : see مَنْقَعٌ.   </entryFree> <br>\
+' } );

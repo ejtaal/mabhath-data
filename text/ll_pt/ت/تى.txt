@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>تى</em>            1                  تى<br>\
+<b>تَيَّيْتُ تَا=ءٍ حَسَنَةَ</b>               1     <br>\
+                     تَيَّيْتُ تَا=ءٍ حَسَنَةَ<br>\
+                     تييت تا=ء حسنه<br>\
+                     تييت تا=ء حسنة<br>\
+                   [and حَسَنًا <br>\
+                  <i>I made,</i> or <i>wrote, a beautiful</i> <br>\
+                  ت]. (Lh, T.)    </entryFree> <br>\
+<b>تَيَوِىٌّ</b>               1     <br>\
+                     تَيَوِىٌّ<br>\
+                     تيوى<br>\
+                     تيوي<br>\
+                  ; and قَصِيدَةٌ تَيَوِيَّةٌ: see تَايِىٌّ, in art. توا.   </entryFree> <br>\
+' } );

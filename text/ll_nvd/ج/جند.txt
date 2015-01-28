@@ -1,0 +1,52 @@
+load_data( { book: 'll_nvd', text: 'جند2<br>\
+جنّد جُنُودًا (S, A) He collected, or assembled,<br>\
+جنود [i. e. armies, military forces, &amp;c.]. (A.)<br>\
+5<br>\
+تجنّد He took or prepared, for himself,<br>\
+a جُنْد [i. e. an army, a military force, &amp;c.].<br>\
+(A, TA.)<br>\
+جُنْدٌ [a coll. gen. n.] An army; a military<br>\
+force; a legion; a body of troops or soldiers;<br>\
+(L, K;) a collected body of men prepared for<br>\
+war: (Mgh:) auxiliaries: (S, L, Msb, K:)<br>\
+n. un. ↓ جُنْدِىٌّ [signifying a trooper; a soldier;<br>\
+an auxiliary]; like as رُومِىٌّ is n. un. of رُومٌ:<br>\
+(Msb:) pl. of the former, جُنُودٌ (S, A, Mgh, Msb)<br>\
+and [pl. of pauc.] أَجْنَادٌ. (Mgh, Msb.) It is said<br>\
+in a trad., ↓ الأَرْوَاحُ جُنُودٌ مُجَنَّدَةٌ (S, A, L) Souls<br>\
+are troops collected together: meaning that they<br>\
+are created of two parties, each party agreeing<br>\
+together, and disagreeing with the other party,<br>\
+like two armies opposed, each to the other. (L.)<br>\
+―<br>\
+-b2-  Also Any kind, or species, of creatures, or<br>\
+created things, regarded as alone, by itself, or<br>\
+apart from others. (K, * TA.) It is said in a<br>\
+prov., إِنَّ لِلّهِ جُنُودًا مِنْهَا العَسَلُ Verily to God<br>\
+belong kinds, or species, of created things [by<br>\
+means of which He effects his purposes as by<br>\
+armies or auxiliaries], of which is honey: (Z,<br>\
+K:) first said by Mo&#39;áwiyeh, when he heard that<br>\
+El-Ashtar had been given to drink some honey<br>\
+containing poison, in consequence of which he<br>\
+died: and used on the occasion of rejoicing at a<br>\
+misfortune that has befallen an enemy: it occurs<br>\
+in the history of El-Mes&#39;oodee thus; إِنَّ لِلّهِ جُنْدًا<br>\
+فِى العَسَلِ. (MF.) ―<br>\
+-b3-  Also, [as a term used in<br>\
+Syria, and afterwards by the Arabs from Syria<br>\
+in Spain,] A city [with its territory; i. e. a<br>\
+province, or district]: (K:) or particularly a<br>\
+city of Syria [with its territory]: (AO, TA:)<br>\
+pl. أَجْنَادٌ. (TA.) Syria consists of five اجناد;<br>\
+namely, Dimashk [or Damascus], Hims [or<br>\
+Emessa], Kinnesreen, El-Urdunn [or the Jordan], and Filasteen or Falasteen [or Palestine]:<br>\
+(S, M, A:) they were thus called because the<br>\
+military forces were thence collected. (A.) [See<br>\
+مِخْلَافٌ.]<br>\
+جُنْدِىٌّ: see جُنْدٌ. ―<br>\
+-b2-  Also Of, or relating to,<br>\
+a جُنْد of Syria. (A.)<br>\
+جُنْدٌ مُجَنَّدٌ An army, or a military force,<br>\
+collected. (TA.) See also جُنْدٌ.<br>\
+' } );

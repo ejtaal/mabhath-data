@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>قطن</em>            1                  قطن<br>\
+<b>قَطَنَ بِالمَكَانِ</b>               1     <br>\
+                     قَطَنَ بِالمَكَانِ<br>\
+                     ذ<br>\
+                  <i>He resided in the place.</i> (Msb.)    </entryFree> <br>\
+<b>قَطْنُ</b>               1     <br>\
+                     قَطْنُ<br>\
+                     ذ<br>\
+                   syn. with قَطْ: see the latter.    </entryFree> <br>\
+<b>قُطْنُ البَرْدِىِّ</b>               1     <br>\
+                     قُطْنُ البَرْدِىِّ<br>\
+                     ذ<br>\
+                  : see بَرْدِىٌّ.    </entryFree> <br>\
+<b>قَطَنٌ</b>               1     <br>\
+                     قَطَنٌ<br>\
+                     ذ<br>\
+                   The <i>part between the two hips,</i> or <i>haunches;</i> (S, K;) or the <i>downward</i> [or <i>lower</i>] <i>and even part of the back</i> of a man; (Msb;) the <i>lower portion of the loins.</i>    <br>\
+<b>قَطِنَةٌ</b>               1     <br>\
+                     قَطِنَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  حَفِثٌ, as its description plainly shows; i. e., the <i>third stomach,</i> commonly called the <i>manyplies,</i> and by some the <i>millet, of a ruminant animal.</i> See رُمَّانَةٌ.    </entryFree> <br>\
+<b>قِطْنِيَّةٌ</b>               1     <br>\
+                     قِطْنِيَّةٌ<br>\
+                     ذ<br>\
+                   and قُطْنِيَّةٌ [<i>Any kind of pulse,</i> or <i>seed of a leguminous plant that is cooked;</i> this is the general meaning, and includes almost all the particular definitions of the word]: pl. قَطَانِىُّ, (S, Mgh, Msb, K,) in the CK erroneously written with the article القَطَانِىُ.    </entryFree> <br>\
+<b>قَاطِنٌ</b>               1     <br>\
+                     قَاطِنٌ<br>\
+                     ذ<br>\
+                  <i>A resident.</i> (Msb.)    </entryFree> <br>\
+<b>قَيْطُونٌ</b>               1     <br>\
+                     قَيْطُونٌ<br>\
+                     ذ<br>\
+                  <i>A closet;</i> syn. مَخْدَعٌ; i. e., <i>a</i> [<i>small</i>] <i>chamber within a</i> [<i>large</i>] <i>chamber.</i> (L in art. سن.)    </entryFree> <br>\
+<b>يَقْطِينٌ</b>               1     <br>\
+                     يَقْطِينٌ<br>\
+                     ذ<br>\
+                  <i>A plant</i> (S, K) and <i>the like</i> (K) <i>that has no</i> <br>\
+                  سَاق [or <i>standing stem</i>]; (S, K;) <i>as the gourd-plant</i> and <i>the like:</i> (S:) <i>any tree</i> [or <i>plant</i>] <i>that spreads</i> [or <i>creeps</i>] <i>upon the ground, not rising upon a stem; such, for instance, as the colocynth;</i> but conventionally applied especially to the <i>gourd.</i> (Msb.) See سُطَّاحٌ.   </entryFree> <br>\
+' } );

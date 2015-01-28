@@ -1,0 +1,39 @@
+load_data( { book: 'll_nvd', text: 'موأمآءٌ<br>\
+Water. ―<br>\
+-b2-  مَآءُ الظَّهْرِ [The seminal fluid].<br>\
+(K, voce اِنْبَتَّ.) See Kur, lxxxvi. 6, 7, and<br>\
+see 4 in art. روق. ―<br>\
+-b3-  مَآءٌ<br>\
+Lustre [likened to<br>\
+water, and running water,] of the teeth, (IbrD,)<br>\
+&amp;c: see ظَلْمٌ and دَرْزٌ and غَرْبٌ. ―<br>\
+-b4-  مَآءٌ The water<br>\
+of a sword: see فِرِنْدٌ and رَوْنَقٌ: also its lustre.<br>\
+―<br>\
+-b5-  سَيْفٌ كَثِيرُ المَآءِ [A sword much diversified<br>\
+with wavy marks or streaks in its grain; as<br>\
+are the swords of Damascus &amp;c.] (TA voce<br>\
+إِبْرِيقٌ.) ―<br>\
+-b6-  بَنَاتُ المَآءِ<br>\
+i. q.<br>\
+الغَرَانِيقُ. [storks or<br>\
+cranes]. (L, art. وضر.) See عِرْسٌ. ―<br>\
+-b7-  اِبْنُ المَآءِ<br>\
+is (tropical:)  A kind of bird; pl. بَنَاتُ المَآءِ; (Mgh in art.<br>\
+بنى:) the aquatic bird; the bird of the water.<br>\
+(Msb in art. بنو.) ―<br>\
+-b8-  مَآءُ الشَّبَابِ: see شَبَابٌ. ―<br>\
+-b9-<br>\
+مَآءُ الوَجْهِ: see حَقَنَ and تَشَهَّلَ. ―<br>\
+-b10-  مَآءُ الذَّهَبِ<br>\
+Gold-wash for gilding: and مَآءُ الفِضَّةِ<br>\
+Silverwash for silvering: you say, طَلَاهُ بِمَآءِ الذَّهَبِ,<br>\
+and الفِضَّةِ<br>\
+He washed it over with gold, and<br>\
+silver. ―<br>\
+-b11-  مَآءٌ is used as a coll. gen. n., of which<br>\
+the n. un. is مَاءَةٌ; and therefore is sometimes<br>\
+made, as a pl., to have a pl. epithet: ex. مَاءٌ<br>\
+عِذَابٌ. (See عَذْبٌ). مَآءَةٌ signifies A water;<br>\
+or some water.<br>\
+' } );

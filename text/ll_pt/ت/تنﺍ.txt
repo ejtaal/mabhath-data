@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;تنا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  تنا<br>\
+&lt;entryFree id=&quot;n4133&quot; key=&quot;تَنَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     تَنَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     تَنَاَ<br>\
+                  &lt;/form&gt;, inf. n. تُنُوْءٌ, &lt;i&gt;He remained, stayed, dwelt,&lt;/i&gt; or &lt;i&gt;abode,&lt;/i&gt; (T, S, M, Msb, K,) بِهِ <br>\
+                  &lt;i&gt;in it,&lt;/i&gt; namely, a country, or town, (S, Msb,) or a place; (M;) &lt;i&gt;he settled&lt;/i&gt; therein: (Msb:) as also تنا, (M, Msb,) not a dial. var., but formed by substitution [of ا for ا], (M,) [i. e.] by suppression of the ء. (Msb.) ―         -b2-  تَنَاَ عَلَى كَذَا <br>\
+                  &lt;i&gt;He kept,&lt;/i&gt; or &lt;i&gt;adhered, to such a thing, inseparably.&lt;/i&gt; (TA.)       -A2-  Also, inf. n. as above, &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, rich, wealthy, possessed of much property.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4134&quot; key=&quot;تِنَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تِنَا=ءَةٌ<br>\
+                     تنا=ءه<br>\
+                     تنا=ءة<br>\
+                  &lt;/form&gt; a subst. from تَنَاَ, (S, K,) meaning &lt;i&gt;A remaining, staying, dwelling,&lt;/i&gt; or &lt;i&gt;abiding&lt;/i&gt; [in a country, or town, or place]. (TK.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4135&quot; key=&quot;تَانِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَانِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Remaining, staying, dwelling,&lt;/i&gt; or &lt;i&gt;abiding,&lt;/i&gt; (T, Msb,) in a country, or town [&amp;amp;c.]; &lt;i&gt;settling&lt;/i&gt; therein: also pronounced تَانٍ, by suppression of the ء: (Msb:) &lt;i&gt;one who remains, stays,&lt;/i&gt; or &lt;i&gt;abides, in his country,&lt;/i&gt; or &lt;i&gt;town;&lt;/i&gt; (Th, TA;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  دِهْقَانٌ [app. as meaning &lt;i&gt;a man having a fixed abode in a district of cultivated land,&lt;/i&gt; or &lt;i&gt;in a village or town of such a district:&lt;/i&gt; but see below]: (Th, K, TA:) pl. تُنَّا=ءٌ. (T, S, Msb, K.) It is said in a trad., لَيْسَ لِلتَّانِيَةِ شَىْءٌ, meaning &lt;i&gt;For those who remain in their abodes, and go not forth with the soldiers on expeditions against the enemy, there shall be nothing;&lt;/i&gt; i. e., no share of the spoil. (TA.) ―         -b2-  &lt;i&gt;Rich; wealthy; possessing much property.&lt;/i&gt; (Msb.) [Or &lt;i&gt;A man possessing much land or other immoveable property:&lt;/i&gt; for this is a signification assigned to دِهْقَانٌ.]   &lt;/entryFree&gt; <br>\
+' } );

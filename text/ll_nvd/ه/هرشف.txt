@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'هرشفهِرْشَفَّةٌ<br>\
+A piece of rag with which water is dried<br>\
+up from the ground. (TA, art. جف.) ―<br>\
+-b2-  See<br>\
+هِرْشَبَّةٌ.<br>\
+' } );

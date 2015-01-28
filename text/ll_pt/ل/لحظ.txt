@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لحظ</em>            1                  لحظ<br>\
+<b>لَحْظٌ</b>               1     <br>\
+                     لَحْظٌ<br>\
+                     ذ<br>\
+                  : see عَيْرٌ.   </entryFree> <br>\
+' } );

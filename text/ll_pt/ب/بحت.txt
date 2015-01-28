@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>بحت</em>            1                  بحت<br>\
+<b>بَحُتَ</b>               1     <br>\
+                     بَحُتَ<br>\
+                     باح<br>\
+                     بح<br>\
+                     بحت<br>\
+                  , aor.      <br>\
+                     بَحُتَ<br>\
+                  , (S, Msb, K,) inf. n. بُحُوتَةٌ, (K,) or بَحْتٌ, (Msb,) <i>It</i> (a thing) <i>was,</i> or <i>became, unmixed, free from admixture,</i> or <i>pure:</i> (S, K:) [and] <i>he was unmixed,</i> or <i>pure, in race, lineage,</i> or <i>parentage.</i> (Msb.)    </entryFree> <br>\
+<b>باحت المَا=ءَ</b>               1     <br>\
+                     باحت المَا=ءَ<br>\
+                     باحت الما=ء<br>\
+                  , (A,) inf. n. مُبَاحَتَةٌ, (TA,) <i>He drank water,</i> or <i>the water, not upon</i> <br>\
+                  ثُفْل [i. e. <i>without having eaten anything such as flesh-meat</i> or <i>bread</i> or <i>dates</i> or <i>grain</i>]: (A:) or <i>he drank water,</i> or <i>the water, not mixed with honey</i> or <i>any other thing.</i> (TA.) And باحت الشَّرَابَ <br>\
+                  <i>He drank the wine,</i> or <i>beverage, pure, without any mixture.</i> (A.) And باحت الرِّمْثَ [<i>He</i> (a camel) <i>ate of the shrub called</i> <br>\
+                  رمث <br>\
+                  <i>without any other pasture</i>]. (T in art. طلح.) And باحت دَابَّتَهُ بِالضَّرِيعِ <br>\
+                  <i>He fed his beast with</i> <br>\
+                  ضريع, (i. e. <i>dry herbage,</i> TA,) <i>and the like, unmixed</i> [<i>with other pasture</i>]. (K.) ―         -b2-  باحتهُ الوُدَّ <br>\
+                  <i>He regarded him,</i> or <i>acted towards him, with reciprocal purity,</i> or <i>sincerity, of love,</i> or <i>affection:</i> (S, A, K:) or <i>he was pure,</i> or <i>sincere, to him in love,</i> or <i>affection.</i> (M.) And باحت القِتَالَ <br>\
+                  <i>He fought with earnestness and energy, unmixed with lenity.</i> (A, * TA.) And باحت فُلَانًا (inf. n. as above, TA) <i>He acted openly,</i> or <i>undisguisedly, with,</i> or <i>towards, such a one.</i> (K, TA.)    </entryFree> <br>\
+<b>بَحْتٌ</b>               1     <br>\
+                     بَحْتٌ<br>\
+                     باح<br>\
+                     بح<br>\
+                     بحت<br>\
+                  <i>Unmixed, free from admixture,</i> or <i>pure;</i> (S, A, Mgh, K;) applied to anything: (A, K:) anything <i>that is eaten alone, without seasoning</i> or <i>condiment</i> or <i>any savoury food:</i> and in like manner, seasoning, or condiment, or any savoury food, <i>without bread:</i> (Ahmad Ibn-Yahyà:) <i>unmixed,</i> or <i>pure, in race, lineage,</i> or <i>parentage;</i> (S, A, Msb;) applied [for instance] to an Arab, (S, A,) and to an Arab of the desert: (TA:) originally an inf. n.; (Msb;) [and therefore] the same as masc. and fem. and dual and pl.: but if you will, you may use بَحْتَةٌ as a fem. epithet, applied [for instance] to an Arab woman; and may use the dual and pl. forms: (S:) or the fem. is [properly] with ة; or, as some say, the word has no dual nor pl. nor dim. form. (K.) You say شَرَابٌ بَحْتٌ <br>\
+                  <i>Unmixed wine</i> or <i>beverage:</i> (S:) and خَمْرٌ بَحْتٌ and بَحْتَةٌ and خُمُورٌ بَحْتَةٌ [<i>unmixed wine</i> and <i>wines</i>]. (TA.) And خُبْزٌ بَحْتٌ <br>\
+                  <i>Bread without anything else</i> [<i>to season it</i>]. (S.) And اَكَلَ الخُبْزَ بَحْتًا, and اللَّحْمَ بَحْتًا, <i>He ate the bread without any seasoning</i> or <i>condiment</i> or <i>savoury food,</i> and <i>the flesh-meat without bread.</i> (TA.) And قَدَّمَ اـِلَيْهِ قَفَارًا بَحْتًا <br>\
+                  <i>He presented to him food without any seasoning</i> or <i>condiment.</i> (A.) And ادَّهَنَ بِدُهْنٍ بَحْتٌ <br>\
+                  <i>He anointed himself with ointment unmixed with any perfume.</i> (Mgh.) And مِسْكٌ بَحْنٌ (A, Msb) [<i>Unmixed,</i> or <i>unadulterated, and</i> therefore] <i>strong</i> [<i>-scented,</i>] <i>musk.</i> (Msb.) And بَرْدٌ بَحْتٌ لَحْتٌ <br>\
+                  <i>Vehement,</i> or <i>intense, cold;</i> (TA;) [<i>as though unmixed with any degree of warmth;</i>] syn. صَادِقٌ: (K in art. لحت:) the last word is an imitative sequent. (TA in that art.)   </entryFree> <br>\
+' } );

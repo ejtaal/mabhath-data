@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'هدنهُدْنَةٌ عَلَى دَخْنٍ<br>\
+An illusory truce: see دُخَانٌ.<br>\
+' } );

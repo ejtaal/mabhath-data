@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جاثليق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جاثليق<br>\
+&lt;entryFree id=&quot;n4880&quot; key=&quot;جَاثَلِيقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَاثَلِيقٌ<br>\
+                     جاثليق<br>\
+                     جثليق<br>\
+                  &lt;/form&gt; [an arabicized word, from the Greek        <br>\
+      &lt;orth lang=&quot;gr&quot;&gt;καθολικὸς&lt;/orth&gt;, The &lt;i&gt;catholicos;&lt;/i&gt; i. e.] the &lt;i&gt;primate of the Christians in the country of El- Islám,&lt;/i&gt; [&lt;i&gt;residing&lt;/i&gt;] &lt;i&gt;in the&lt;/i&gt; [&lt;i&gt;chief&lt;/i&gt;] &lt;i&gt;city of El-Islám: under him is the&lt;/i&gt; <br>\
+                  بِطْرِيق [or بِطْرِيك, or بَطْرَك, i. e. &lt;i&gt;patriarch&lt;/i&gt;] &lt;i&gt;of Antioch: then, under him, is the&lt;/i&gt; <br>\
+                  مَطْرَان [or &lt;i&gt;metropolitan&lt;/i&gt;]; &lt;i&gt;under whom is the&lt;/i&gt; <br>\
+                  اُسْقُفّ [or &lt;i&gt;bishop&lt;/i&gt;], &lt;i&gt;in every province: then, the&lt;/i&gt; <br>\
+                  قِسِّيس [or &lt;i&gt;priest&lt;/i&gt;]: &lt;i&gt;then, the&lt;/i&gt; <br>\
+                  شَمَّاس [or &lt;i&gt;deacon&lt;/i&gt;]: (K:) accord. to Sgh, &lt;i&gt;a judge,&lt;/i&gt; or &lt;i&gt;ruler:&lt;/i&gt; in the Tekmileh, &lt;i&gt;a wise man,&lt;/i&gt; or &lt;i&gt;sage.&lt;/i&gt; (TA.) ج and ق do not occur in any one word, unless it is arabicized or a word imitative of a sound: (S and K * at the beginning of the section in which this word is mentioned:) accord. to El-Jawáleekee, they do not occur in any Arabic word unless separated, as in جَلَوْبَقٌ and جَرَنْدَقٌ: accord. to Lth, they occur in many words, most of which are arabicized. (TA ib.)   &lt;/entryFree&gt; <br>\
+' } );

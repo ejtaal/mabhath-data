@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>لغث</em>            1                  لغث<br>\
+<b>لَغِيثٌ</b>               1     <br>\
+                     لَغِيثٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  غَلِيثٌ, (from which it is formed by transposition, TA,) in its two meanings: (K:) <i>wheat mixed with barley;</i> like بَغِيثٌ: (TA:) [and <i>food mixed with poison, by which vultures are killed</i>].    </entryFree> <br>\
+<b>لُغَّاثٌ</b>               1     <br>\
+                     لُغَّاثٌ<br>\
+                     ذ<br>\
+                   [pl. of لَاغِثٌ] <i>Sellers of wheat mixed with barley;</i> as also بُغَّاثٌ. (L.)   </entryFree> <br>\
+' } );

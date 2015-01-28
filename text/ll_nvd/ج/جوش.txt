@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'جوشجَوْشٌ The breast; (S, A, K;) as also جُؤْشُوشٌ<br>\
+(S) and جَوْشٌ: (S, A:) and [particularly] that<br>\
+of a man; as also ↓ جُوشٌ: (K:) and the middle<br>\
+of a man. (K.) ―<br>\
+-b2-  Also (assumed tropical:)  The fore part (صَدْر)<br>\
+of the night; like جَرْشٌ; (S;) and so ↓ جُوشٌ:<br>\
+(TA:) or the middle thereof; (K;) as also جَوْزٌ:<br>\
+(AA:) and a great portion thereof: or of the<br>\
+latter part thereof: (K:) or a portion of the<br>\
+latter part thereof: (TA:) or from the time of a<br>\
+quarter to a third thereof. (T, TA.) You say,<br>\
+مَضَى جَوْشٌ مِنَ اللَّيْلِ (assumed tropical:)  [A portion of the fore<br>\
+part, &amp;c., of the night passed]. (S.)<br>\
+جُوشٌ: see above, in two places.<br>\
+' } );

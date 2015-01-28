@@ -1,0 +1,43 @@
+load_data( { book: 'll_nvd', text: 'وشى1<br>\
+وَشَى<br>\
+, inf. n. وَشْىٌ, He variegated, or<br>\
+figured, a piece of cloth, or a garment; (Mgh,<br>\
+Msb, * K;) and embellished it. (K.) ―<br>\
+-b2-  وَشَى<br>\
+بِهِ إِلَى السُّلْطَانِ, (S, K,) or عِنْدَ السُّلْطَانِ, (Msb,)<br>\
+He calumniated, or misrepresented, him to the<br>\
+Sultán. (S, Msb, K.)<br>\
+شِيَةٌ<br>\
+Any colour differing from the main<br>\
+colour of a horse, &amp;c.; a colour differing from<br>\
+the rest, (S,) or from that which generally<br>\
+pervades a thing. ―<br>\
+-b2-  لَا شِيَةَ فِيهِ<br>\
+It is of one<br>\
+generally pervading colour, in which is no other<br>\
+colour. ―<br>\
+-b3-  شِيَةٌ [also] A mark, sign, symptom,<br>\
+or token, by which a thing is known; syn. عَلَامَةٌ;<br>\
+(Msb;) and مَخِيلَةٌ, which see.<br>\
+وَشْىٌ<br>\
+, originally an inf. n., A kind of variegated, or figured, cloth, or garment. (Mgh,<br>\
+Msb. *) ―<br>\
+-b2-  وَشْىٌ The variegation, figured work,<br>\
+or figuring, of a garment; making it partycoloured. ―<br>\
+-b3-  وَشى sometimes signifies A natural<br>\
+diversity of colours: see رُمْلَةٌ. ―<br>\
+-b4-  وَشْىٌ of a<br>\
+sword: see فِرِنْدٌ.<br>\
+شِيَوِىٌّ<br>\
+: see what next follows.<br>\
+وَشَوِىٌّ<br>\
+rel. n. of شِيَةٌ, the rad. و being restored;<br>\
+(S in the present art.;) and so ↓ شِيَوِىٌّ, like عِدَوِىٌّ<br>\
+[of عِدَةٌ]. (S in art. وعد.)<br>\
+قَوْلٌ مَوْشِىٌّ بِهِ<br>\
+[A saying misrepresented].<br>\
+(TA in art. قت, in an explanation of قَوْلٌ مَقْتُوتٌ.)<br>\
+―<br>\
+-b2-  مَوْشِىٌّ is used by Aboo-Dhu-eyb to signify<br>\
+A musical reed-pipe. (TA, art. نوب.)<br>\
+' } );

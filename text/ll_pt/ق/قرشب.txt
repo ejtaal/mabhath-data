@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قرشب</em>            1                  قرشب<br>\
+<b>قِرْشَبٌّ</b>               1     <br>\
+                     قِرْشَبٌّ<br>\
+                     ذ<br>\
+                  <i>Advanced in years:</i> (As, S, K:) applied to a man. (S.) ―         -b2-  One <i>who is in a bad state,</i> or <i>condition.</i> (IAar, K.) ―         -b3-  A man <i>of bad disposition.</i> (Kr, K.) ―         -b4-  <i>Having a capacious belly.</i> (K.) ―         -b5-  <i>A great eater; voracious.</i> (K.) ―         -b6-  A man (TA) <i>corpulent, or bulky, and tall.</i> (K.) ―         -b7-  القِرْشَبٌّ <br>\
+                  <i>The lion.</i> (K.) ―         -b8-  Pl. (in each of the above senses, TA) قَرَاشِبُ. (K.) [See also كِرْشَبٌّ.]   </entryFree> <br>\
+' } );

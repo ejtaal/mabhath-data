@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'موث1<br>\
+مَاثَ, aor. يَمُوثُ, inf. n. مَوْثٌ (and in the<br>\
+CK مَوَثٌ) and مَوَثَانٌ; (S, K;) as also مَاثَ,<br>\
+aor. يَمِيثُ; (TA;) and ↓ اماث; (Hr;) but this<br>\
+is disapproved by IAth; He steeped a thing in<br>\
+water, and mashed it with his hand: (TA:) he<br>\
+mixed and moistened a thing in water. (S, K.)<br>\
+[See also art. ميث.] ―<br>\
+-b2-  See also 7. ―<br>\
+-b3-  ماثَتِ الأَرْضُ<br>\
+The land became soft and even. (Msb.)<br>\
+4<br>\
+أَمْوَثَ see 1.<br>\
+7<br>\
+انماث, inf. n. اِنْمِيَاثٌ, It (a thing) was<br>\
+steeped in water, and mashed with the hand: (TA:)<br>\
+it was mixed and moistened in water. (S, K.)<br>\
+[See also art. ميث.] ↓ مَاثَ, aor. يَمُوثُ, is also<br>\
+[thus] used intransitively. (Msb.)<br>\
+مِيثَاءُ, with kesreh, of the measure مِفْعَالٌ Soft<br>\
+and even land. (Msb.) [See also مَيْثَاءُ, in art.<br>\
+ميث.]<br>\
+' } );

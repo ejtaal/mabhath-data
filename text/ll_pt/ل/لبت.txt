@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>لبت</em>            1                  لبت<br>\
+<b>لَبَتَ يَدَهُ</b>               1     <br>\
+                     لَبَتَ يَدَهُ<br>\
+                     ذ<br>\
+                  , (aor.      <br>\
+                     لَبُتَ<br>\
+                  , inf. n. لَبْتٌ, TK,) <i>He twisted,</i> or <i>wrung, his hand,</i> or <i>arm.</i> (L, K.) ―         -b2-  لَبَتَ فُلَانًا <br>\
+                  <i>He struck,</i> or <i>beat, such a one on his chest and belly and flanks, with a staff</i> or <i>stick.</i> (K, TA.)    </entryFree> <br>\
+<b>لَبَاتَ</b>               1     <br>\
+                     لَبَاتَ<br>\
+                     ذ<br>\
+                   dial. of Himyer for لَا بَاْسَ. (Sh, T.)   </entryFree> <br>\
+' } );

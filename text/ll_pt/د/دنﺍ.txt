@@ -1,0 +1,54 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;دنا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  دنا<br>\
+&lt;entryFree id=&quot;n13185&quot; key=&quot;دَنَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     دَنَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَنَاَ<br>\
+                  &lt;/form&gt;; and دَنُوَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَنُاَ<br>\
+                  &lt;/form&gt;; inf. n. دَنَا=ءَةٌ, (AZ, Lh, T, S, M, Msb, K,) of the former verb, and of the latter also, (AZ, Lh, T, M,) and دُنُوْءٌ, of the former, (Fr, T,) or of the latter, (AZ, T,) and [of the latter] دُنُوْءَةٌ; (S, K;) &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, low, ignoble,&lt;/i&gt; or &lt;i&gt;mean, in his actions;&lt;/i&gt; and &lt;i&gt;cared not for what he did, nor for what was said to him:&lt;/i&gt; (ISk and T in explanation of the former verb, and S in explanation of both verbs:) or the former verb, (AZ, T,) or each, (Lh, T, M, K,) &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, bad, corrupt,&lt;/i&gt; or &lt;i&gt;foul, in respect of the belly and the genital member&lt;/i&gt; [i. e. &lt;i&gt;in respect of appetite for food and for sexual enjoyment&lt;/i&gt;]; &lt;i&gt;not caring for what he did, nor for what was said to him:&lt;/i&gt; (AZ, Lh, T, M, K:) and the former verb, (S) or each, (M, K,) [accord. to some,] &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, such as is termed&lt;/i&gt; <br>\
+                  دَنِىْءٌ, i. e. خَسِيسٌ [app. as meaning &lt;i&gt;contemptible&lt;/i&gt;]; (S, M, K;) like دَنَا, aor. يَدْنُو, inf. n. دَنَاوَةٌ; (Msb;) &lt;i&gt;and destitute of good:&lt;/i&gt; (S:) but some make a distinction between the verbs with ء and the verb without ء; saying that the meaning “ he was, or became, خسيس ” is that of دنا, without ء; (T, Msb;) and the truth is, that the verbs with ء have the meanings assigned to them by AZ and Lh; (T;) or signify &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, low, ignoble,&lt;/i&gt; or &lt;i&gt;mean:&lt;/i&gt; (Msb:) or these two verbs also signify, (K,) or signify as some say, (M,) &lt;i&gt;he was one in whom was little or no good; contemned&lt;/i&gt; or &lt;i&gt;contemptible, mean, paltry,&lt;/i&gt; or &lt;i&gt;of no weight&lt;/i&gt; or &lt;i&gt;worth.&lt;/i&gt; (M, K.)       -A2-  دَنِيَ, (M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَنَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. دَنَاْ, (S, M,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, hump-backed.&lt;/i&gt; (S, M, K. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13186&quot; key=&quot;ادنا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ادنا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He committed an action such as is termed&lt;/i&gt; <br>\
+                  دَنِىْءَ. (M, K. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13187&quot; key=&quot;تدنّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تدنّاهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, incited him to&lt;/i&gt; <br>\
+                  دَنَا=ءَة [i. e. &lt;i&gt;low, ignoble,&lt;/i&gt; or &lt;i&gt;mean, conduct;&lt;/i&gt; &amp;amp;c.: see دَنَاَ and دَنُوَ, of which دَنَا=ءَة is an inf. n.]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13188&quot; key=&quot;دَنِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَنِىْءٌ<br>\
+                     دنىء<br>\
+                     دنيء<br>\
+                     دني<br>\
+                  &lt;/form&gt; (AZ, Lh, T, S, M, Msb, K) and ↓ <br>\
+      دَانِيٌ, (Lh, T, S, * M, K,) applied to a man, &lt;i&gt;Low, ignoble,&lt;/i&gt; or &lt;i&gt;mean, in his actions; not caring for what he does, nor for what is said to him:&lt;/i&gt; (S:) or &lt;i&gt;bad, corrupt,&lt;/i&gt; or &lt;i&gt;foul, in respect of the belly and the genital member&lt;/i&gt; [i. e. &lt;i&gt;in respect of appetite for food and for sexual enjoyment&lt;/i&gt;]; &lt;i&gt;not caring for what he does, nor for what is said to him:&lt;/i&gt; (AZ, Lh, T, M, K:) and [accord. to some,] &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  خَسِيسٌ [app. as meaning &lt;i&gt;contemptible&lt;/i&gt;]; (S, M, K;) like دَنِىٌّ, without ء; (Msb;) &lt;i&gt;and destitute of good:&lt;/i&gt; (S:) but some make a distinction between دَنِىْءٌ and دَنِىٌّ; saying that the latter means خسيس; (T, Msb;) and the former, as explained by AZ and Lh; and this is the truth; (T;) or that دَنِىْءٌ means لَيِيمٌ [i. e. &lt;i&gt;low, ignoble,&lt;/i&gt; or &lt;i&gt;mean,&lt;/i&gt; as &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  كَرِيمٌ]: (Msb:) دَنِىْءٌ is also applied to an action: (M, K: * [see 4:]) and signifies likewise, (K,) or as some say, and so ↓ <br>\
+      دَانِيٌ, (M,) one &lt;i&gt;in whom is little or no good;&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;919&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;contemned&lt;/i&gt; or &lt;i&gt;contemptible, mean, paltry,&lt;/i&gt; or &lt;i&gt;of no weight&lt;/i&gt; or &lt;i&gt;worth:&lt;/i&gt; (M, K:) the pl. of دَنِىْءٌ is اَدْنِيَا=ءُ, (AZ, T, M,) or اَدْنِيَا=ءُ, (Lh, T, TA,) or اَدْنَا=ءٌ, (K, TA,) like اَشْرَافٌ pl. of شَرِيفٌ, (TA,) and دُنَا=ءٌ, (K,) which is anomalous, (TA,) or دُنَا=ءُ. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13189&quot; key=&quot;دَنِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَنِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A low,&lt;/i&gt; or &lt;i&gt;base, quality, property, natural disposition, habit, practice,&lt;/i&gt; or &lt;i&gt;action;&lt;/i&gt; syn. نَقِيصَةٌ; (S, K;) or &lt;i&gt;such as is blamed;&lt;/i&gt; also pronounced دَنِيَّةٌ. (TA in art. دنو, q. v.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13190&quot; key=&quot;دَانِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَانِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see دَنِىْءٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13191&quot; key=&quot;اَدْنَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدْنَاُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;More,&lt;/i&gt; and &lt;i&gt;most, low, ignoble,&lt;/i&gt; or &lt;i&gt;mean, in his actions;&lt;/i&gt; &amp;amp;c.]. You say, هُوَ اَدْنَاُ مِنْهُ [&lt;i&gt;He is more low,&lt;/i&gt; &amp;amp;c., &lt;i&gt;than he&lt;/i&gt;]. (Zj, T.) Fr says that اَدْنَى in the Kur ii. 58 is [for اَدْنَاُ,] derived from دَنَا=ءَةٌ: accord. to one reading, it is اَدْنَاُ. (TA.)       -A2-  Applied to a man, (M,) &lt;i&gt;Hump-backed:&lt;/i&gt; (S, M, K: *) fem. دَنْاَى. (K, * TA.)   &lt;/entryFree&gt; <br>\
+' } );

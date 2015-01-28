@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>محت</em>            1                  محت<br>\
+<b>مَحْتٌ</b>               1     <br>\
+                     مَحْتٌ<br>\
+                     ذ<br>\
+                   and مَحْتَةٌ: see اَبْتٌ.   </entryFree> <br>\
+' } );

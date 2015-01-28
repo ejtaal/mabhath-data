@@ -1,0 +1,101 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;سال&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  سال<br>\
+&lt;entryFree id=&quot;n18578&quot; key=&quot;سَاَلَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     سَاَلَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, M, K) with كَذَا following it, and سَاَلَهُ عَنْ كَذَا and بِكَذَا, (S, * K,) aor. يَسْاَلُ, (M,) &lt;pb n=&quot;1283&quot; TEIform=&quot;pb&quot;/&gt; inf. n. سُوَالٌ and مَسْاَلَةٌ, (S, M, K,) which latter is also pronounced مَسَلَةٌ, without the hemzeh, (TA,) and تَسْا=لٌ and سَا=لَةٌ, (M, K,) and سَاَلَةٌ or سَاْلَةٌ, (accord. to different copies of the K, the former of these two accord. to the TA, [and it appears from a statement that will be found below, voce سُوْلٌ, that one of these is correct, but in an excel-lent copy of the M, in the place thereof, I find, and ↓ <br>\
+      سَا=ءَلَهُ, as a verb, doubly trans., first thus by itself, and secondly by means of عَنْ, as shown by an ex. in a verse cited below, (see 3,) and this also is correct,]) all [sometimes] signify the same, (S, * K,) i. e. &lt;i&gt;He asked him such a thing;&lt;/i&gt; or &lt;i&gt;asked him, interrogated him, questioned him,&lt;/i&gt; or &lt;i&gt;inquired of him, respecting such a thing:&lt;/i&gt; but عن كذا is more common than بكذا: when سَاَلَ means the asking, or demanding, of property, it is trans. [only] by itself or by means of مِنْ [so that you say سَاَلَهُ كَذَا and سَاَلَ مِنْهُ كَذَا meaning &lt;i&gt;he asked,&lt;/i&gt; or &lt;i&gt;demanded, of him such a thing&lt;/i&gt;]: (Er-Rághib, TA:) and one says also سَالَ, aor. يَسَالُ, (Akh, S, M, Msb, K,) like خَافَ, aor. يَخَافُ; (Msb, K;) which is of the dial. of Hudheyl; the medial letter of this being originally و, as is shown by the phrase, mentioned by AZ, هُمَا يَتَسَاوَلَانِ: (TA:) [respecting this dial. var., see what follows:] the imperative (S, Msb, K, TA;) of سَاَلَ (S, Msb, TA) is اِسْاَلْ; (S, M, Msb, K, TA;) and (S, K, &amp;amp;c.) that of سَالَ, (S, Msb, TA,) سَلْ, (S, Msb, K, TA,) dual. سَلَا, and pl. سَلُوا, [these two being] irregular; (Msb;) and AAF mentions that Aboo-&#39;Othmán heard one say اِسَلْ, [a form omitted in some copies of the K, but mentioned in the CK,] meaning اِسْاَلْ, suppressing the ء, and transferring its vowel to the preceding letter, like as some of the Arabs said لَحْمَرُ for الاَحْمَرُ [as many do in the present day]: (M:) accord. to ISd, (TA,) the Arabs universally suppress the ء in the imperative except when they prefix to it فَ or وَ; (M, TA;) saying فَاْسْاَلْ and وَاْسْاَلْ: (TA:) or when وَ [or فَ] is prefixed, it is allowable to pronounce the ء and also to suppress it, as in saying وَاْسْاَلُوا and وَسَلُوا: (Msb:) and for the pass. سُيِلَ, one may say سِيلَ, and سُيِلَ, in this instance making the kesreh to partake of the sound of dammeh, and سُولَ; and also سُيِلَ, in which the middle letter is pronounced with a sound between that of ء and that of ى, or resembling that of و. (IJ, TA.) As Er-Rághib says, سُوَالٌ signifies The &lt;i&gt;asking,&lt;/i&gt; or &lt;i&gt;demanding, knowledge,&lt;/i&gt; or &lt;i&gt;information,&lt;/i&gt; or &lt;i&gt;what leads thereto:&lt;/i&gt; and the &lt;i&gt;asking,&lt;/i&gt; or &lt;i&gt;demanding, property,&lt;/i&gt; or &lt;i&gt;what leads thereto.&lt;/i&gt; (TA.) سَاَلْتُهُ عَنِ الشَّىْءِ means &lt;i&gt;I asked of him information respecting the thing:&lt;/i&gt; (IB, TA: [and the like is said in the Msb:]) and سَاَلْتُهُ الشَّىْءَ [is sometimes used in the same sense, as has been shown above, but generally] means &lt;i&gt;I asked him to give me the thing:&lt;/i&gt; (IB, TA:) you say, سَاَلَهُ مَالًا <br>\
+                  &lt;i&gt;He asked, demanded, or begged, of him property,&lt;/i&gt; and in like manner, سَاَلَ مِنْهُ and سَاَلَ اـِلَيْهِ [followed by مَالًا]: (MA:) and سَاَلْتُ اْللّٰهَ العَافِيَةَ, inf. n. سُوَالٌ and مَسْاَلَةٌ, &lt;i&gt;I begged, or sought, of God health,&lt;/i&gt; or &lt;i&gt;freedom from disease,&lt;/i&gt; &amp;amp;c. (Msb.) The saying in the Kur [lxx. 1], سَاَلَ سَايِلٌ بِعَذَابٍ وَاقِعٍ means عَنْ <br>\
+                  عَذَابٍ [i. e. &lt;i&gt;An asker asked respecting a falling punishment&lt;/i&gt;]: (S:) [for] one says, خَرَجْنَا نَسْاَلُ <br>\
+                  عَنْ فُلَانٍ and بِفُلَانٍ [meaning &lt;i&gt;We went forth asking respecting such a one&lt;/i&gt;]: (Akh, S:) or the phrase in the Kur means &lt;i&gt;a caller called&lt;/i&gt; [&lt;i&gt;for a falling punishment&lt;/i&gt;]: (TA:) and some read سَالَ سَايِلٌ بعذاب واقع, (Bd, TA,) [likewise] from السُّوَالُ: (Bd:) or this means سَالَ وَادٍ بعذاب واقع [i. e. &lt;i&gt;a valley flowed with a falling punishment&lt;/i&gt;]; (Bd, TA;) so some say; (TA;) from السَّيَلَانُ. (Bd.) The saying, in a trad., نَهَى عَنْ كَثْرَةِ السَّوَالِ [&lt;i&gt;He&lt;/i&gt; (Mohammad) &lt;i&gt;forbade much questioning&lt;/i&gt; or &lt;i&gt;inquiring&lt;/i&gt;] is said to relate to subtile questions or inquiries, that are needless; like another trad., mentioned below, voce, مَسْاَلَةٌ: or to the begging, of men, their property needlessly. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18579&quot; key=&quot;سَا=ءَلَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     سَا=ءَلَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, TA,) inf. n. مُسَا=ءَلَةٌ: (TA:) see 1, first sentence. Aboo-Dhu-eyb says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اَسَا=ءَلْتَ رَسْمَ الدَّارِ اَمْ لَمْ تُسَايِلِ<br>\
+                     &lt;L&gt;<br>\
+                        عَنِ السَّكْنِ اَمْ عَنْ عَهْدِهِ بِالاَوَايِلِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Didst thou ask the remains of the dwelling,&lt;/i&gt; or &lt;i&gt;didst thou not ask, respecting the inhabitants, or respecting their knowledge of the former occupants?&lt;/i&gt;]. (M, TA.) ―         -b2-  In the saying of Bilál Ibn-Jereer, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَجَدْتَ بِهِمْ عِلَّةً حَاضِرَهْ <br>\
+                     &lt;L&gt;<br>\
+                        اـِذَا ضِفْتَهُمْ اَوْ سَا=يَلْتَهُمْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;When thou becomest their guest, or askest of them, thou findest with them a ready excuse&lt;/i&gt;], سَا=يَلْتَهُمْ is a combination of two dial. vars.; the ء being in the original phrase سَا=ءَلْتُ زَيْدًا, and the ى being a substitute in the phrase سَايَلْتُ زَيْدًا; the measure of سَا=يَلْتَهُمْ being فَعَايَلْتَهُمْ: (M, K: *) so said Ahmad Ibn-Yahyà, [i. e. Th,] who had at first ignored the expression: (M:) and it is an instance of which we know not a parallel in the language. (M, K. *) ―         -b3-  [Accord. to analogy, سَا=ءَلَهَ also signifies &lt;i&gt;He asked him, &amp;amp;c., being asked by him,&lt;/i&gt; &amp;amp;c. ―         -b4-  And Freytag states that Reiske has explained سَا=ءَلَ as meaning &lt;i&gt;He always demanded that another should express wishes for his health:&lt;/i&gt; but I know not any instance of its being used in this sense.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَسْاََ<br>\
+                  &lt;/form&gt; ↓ <br>\
+      اَسْاَلَهُ سُوْلَهُ, (K,) or ↓ <br>\
+      سُوْلَتَهُ, (S,) and ↓ <br>\
+      مَسْاَلَتَهُ, (S, K,) &lt;i&gt;He accomplished for him his want.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18580&quot; key=&quot;تساّل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تساّل<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, in the modern language, signifies &lt;i&gt;He begged,&lt;/i&gt; or &lt;i&gt;asked alms;&lt;/i&gt; as also تَسَوَّلَ: both probably post-classical.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18581&quot; key=&quot;تَسَا=ءَلُوا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَسَا=ءَلُوا<br>\
+                     ذ<br>\
+                  &lt;i&gt;They asked,&lt;/i&gt; or &lt;i&gt;begged, one another.&lt;/i&gt; (S, Msb, K.) You say, هُمَا يَتَسَا=ءَلَانِ, (M,) and also يَتَسَاوَلَانِ, (M, Msb, K,) and يَتَسَايَلَانِ. (TA.) In the Kur [iv. 1], some read وَاْتَّقُوا اْللّٰهَ <br>\
+                  اْلَّذِى تَسَّا=ءَلُونَ بِهِ; and others, تَسَا=ءَلُونَ بِهِ: in each case, originally تَتَسَا=ءَلُونَ: the meaning is, [&lt;i&gt;And fear ye God,&lt;/i&gt;] &lt;i&gt;by Whom ye demand&lt;/i&gt; [&lt;i&gt;one of another&lt;/i&gt;] &lt;i&gt;your rights,&lt;/i&gt; or &lt;i&gt;dues:&lt;/i&gt; (M:) or &lt;i&gt;by Whom ye ask,&lt;/i&gt; or &lt;i&gt;demand, one of another;&lt;/i&gt; (Bd, Jel;) &lt;i&gt;saying, I ask thee,&lt;/i&gt; or &lt;i&gt;beg thee, by God;&lt;/i&gt; and &lt;i&gt;I beseech thee,&lt;/i&gt; or &lt;i&gt;adjure thee, by God.&lt;/i&gt; (Jel.) ―         -b2-  One says also تَسَا=ءَلُوا القَوْمَ, meaning &lt;i&gt;They&lt;/i&gt; [&lt;i&gt;together&lt;/i&gt;] &lt;i&gt;asked,&lt;/i&gt; or &lt;i&gt;begged, the people.&lt;/i&gt; (Mgh in art. نقض.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18582&quot; key=&quot;سُوْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K;) also pronounced سُولٌ, without ء, (S, K,) [&lt;i&gt;A petition;&lt;/i&gt; or &lt;i&gt;a request;&lt;/i&gt; meaning] &lt;i&gt;a thing that people ask&lt;/i&gt; or &lt;i&gt;beg;&lt;/i&gt; (S;) or &lt;i&gt;a thing that one has asked&lt;/i&gt; or &lt;i&gt;begged;&lt;/i&gt; (M, K;) as also ↓ <br>\
+      سُوْلَةٌ, (IJ, M, K,) which is likewise pronounced سُولَةٌ, without ء; (K;) and ↓ <br>\
+      سُوُولٌ; (Har p. 422; [or this is app. pl. of سُوْلٌ, like as بُرُوجٌ is of بُرْجٌ, and بُرُودٌ of بُرْدٌ, &amp;amp;c.;]) [and ↓ <br>\
+      سَاْلَةٌ or سَاَلَةٌ, as will be shown by what follows;] and ↓ <br>\
+      مَسْوُولٌ; (Msb;) [and ↓ <br>\
+      مَسْاَلَةٌ:] see 4: the first of these said by Z to be of the measure فُعْلٌ in the sense of the measure مَفْعُولٌ; like عُرْفٌ and نُكْرٌ. (TA.) Thus in the Kur [xx. 36], قَدْ اُوتِيتَ سُوْلَكَ يَا مُوسَى <br>\
+                  &lt;i&gt;Thou hast been granted thy petition,&lt;/i&gt; or &lt;i&gt;the thing that thou hast asked, O Moses.&lt;/i&gt; (S, M, TA.) In the saying ↓ <br>\
+      اَللّٰهُمَّ اَعْطِنَا سَاَلَاتِنَا [&lt;i&gt;O God, grant Thou us our petitions&lt;/i&gt;], mentioned by Aboo- &#39;Alee on the authority of AZ, the inf. n. is used as a subst., properly so termed, and is therefore pluralized. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18583&quot; key=&quot;سَاْلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَاْلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; or سَاَلَةٌ; pl. سَاَلَاتٌ: see the next preceding paragraph, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18584&quot; key=&quot;سُوْلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوْلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 4: and see also سْوْلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18585&quot; key=&quot;سُوَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) also pronounced سُوَلَةٌ, (TA,) A man (S) &lt;i&gt;who asks,&lt;/i&gt; or &lt;i&gt;begs, much;&lt;/i&gt; (S, K;) as also ↓ <br>\
+      سَاّ=لٌ, and ↓ <br>\
+      سَوُولٌ: (TA:) such is improperly termed ↓ <br>\
+      سَايِلٌ. (Durrat el-Ghowwás, in De Sacy&#39;s Anthol. Gramm. Ar., p. 47 of the Ar. text.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18586&quot; key=&quot;سُوَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوَالٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; an inf. n. of 1. (S, M, K, &amp;amp;c.) ―         -b2-  [It is often used as a subst. properly so called; like مَسْاَلَةٌ; meaning &lt;i&gt;A question; an interrogation;&lt;/i&gt; correlative of جَوَابٌ: and &lt;i&gt;a demand,&lt;/i&gt; or &lt;i&gt;petition:&lt;/i&gt; and as such has a pl., سُوَالَاتٌ; perhaps postclassical.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18587&quot; key=&quot;سَوُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَوُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see سُوَلَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18588&quot; key=&quot;سُوُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see سُوْلٌ [of which it is app. pl.].    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18589&quot; key=&quot;سَاّ=لٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَاّ=لٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see سُوَلَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18590&quot; key=&quot;سَايِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَايِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [i. e. &lt;i&gt;Asking;&lt;/i&gt; meaning &lt;i&gt;interrogating, questioning, or inquiring;&lt;/i&gt; and &lt;i&gt;demanding,&lt;/i&gt; or &lt;i&gt;begging;&lt;/i&gt;] has for its pl. سَاَلَةٌ and سُوَّالٌ. (TA.) See سُوَلَةٌ. ―         -b2-  It also means [&lt;i&gt;A beggar;&lt;/i&gt; i. e.] &lt;i&gt;a poor man asking, or begging, a thing.&lt;/i&gt; (Er-Rághib, TA.) So it has been expl. as used in the Kur [xciii. 10], where it is said, وَاَمَّا اْلسَّايِلَ <br>\
+                  فَلَا تَنْهَرْ [&lt;i&gt;And as for the beggar, thou shalt not chide him,&lt;/i&gt; or &lt;i&gt;address&lt;/i&gt; him &lt;i&gt;with rough speech&lt;/i&gt;]: or, accord. to El-Hasan, it here means &lt;i&gt;the seeker of knowledge.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18591&quot; key=&quot;مَسْاَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَسْاَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, an inf. n. of 1, is tropically used in the sense of a pass. part. n. [with the noun qualified by it understood; meaning (tropical:)  &lt;i&gt;A thing asked;&lt;/i&gt; i. e. &lt;i&gt;a question; a problem,&lt;/i&gt; or &lt;i&gt;proposition; a matter,&lt;/i&gt; or &lt;i&gt;an affair, proposed for decision&lt;/i&gt; or &lt;i&gt;determination&lt;/i&gt;]: (TA:) and the pl. is مَسَايِلُ. (Msb, TA.) So in the saying, تَعَلَّمْتُ مَسْاَلَةً (tropical:)  [&lt;i&gt;I learned a&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;1284&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;question,&lt;/i&gt; or &lt;i&gt;problem,&lt;/i&gt; &amp;amp;c.]. (TA.) The saying, in a trad., كَرِهَ المَسَايِلَ وَعَابَهَا means (assumed tropical:)  [&lt;i&gt;He&lt;/i&gt; (Mohammad) &lt;i&gt;disliked and discommended&lt;/i&gt;] &lt;i&gt;subtile questions, such as are needless.&lt;/i&gt; (TA.) ―         -b2-  See also سُوْلٌ: ―         -b3-  and see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18592&quot; key=&quot;مَسْوُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَسْوُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [pass. part. n. of 1: and used as a subst.]: see سُوْلٌ.   &lt;/entryFree&gt; <br>\
+' } );

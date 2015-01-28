@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>نعل</em>            1                  نعل<br>\
+                     نَعڤلَ<br>\
+                   see 4.    </entryFree> <br>\
+                     نَعَّلَ<br>\
+                   see 4.    </entryFree> <br>\
+<b>اَنْعَلْتُ الخُفَّ</b>               1     <br>\
+                     اَنْعَلْتُ الخُفَّ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      نَعَّلْتُهُ <br>\
+                  <i>I affixed a sole to the bottom of the</i> <br>\
+                  خَفّ [i. e. <i>boot</i>]: and hence, اَنْعَلْتُ الدَّابَّهَ and ↓ <br>\
+      نَعَلْتُهَا. (Msb.) See صِرْمٌ.    </entryFree> <br>\
+<b>اِنْتَعَلَتْ ظِلاَلَهَا</b>               1     <br>\
+                     اِنْتَعَلَتْ ظِلاَلَهَا<br>\
+                     ذ<br>\
+                  : see ظِلٌّ.    </entryFree> <br>\
+<b>نَعْلٌ</b>               1     <br>\
+                     نَعْلٌ<br>\
+                     ذ<br>\
+                   [<i>A sandal: a sole:</i>] the <i>thing by which the foot is preserved,</i> or <i>protected, from the ground;</i> (K;) syn. حِذَا=ءٌ: and also applied to <i>a</i> <br>\
+                  تَاسُومَة [or <i>shoe</i>]. (Msb.) <i>What is now called</i> <br>\
+                  تَاسُومَة. (IAth, TA.) It often signifies only <i>a sole:</i> so in the S, K, Msb, &amp;amp;c., in art. خصف &amp;amp;c. ―         -b2-  The <i>leathern shoe,</i> or <i>sandal,</i> of a camel; <i>which is attached by thongs,</i> or <i>straps, called</i> <br>\
+                  سَرَايِح (pl. of سَرِيحَةٌ) <i>to the</i> <br>\
+                  خَدَمَة or <i>plaited thong which surrounds the pastern:</i> see سَرِيحَةٌ and خَدَنَةٌ. ―         -b3-  نَعْلٌ of a sword The <i>iron,</i> (Kr, S, K,) or <i>silver,</i> (S,) <i>thing</i> [or <i>shoe</i>] <i>at the lower end of the scabbard.</i> (Kr, S, K.) See غَاشِيَةٌ, and 2 in art. فرص. ―         -b4-  نَعْلٌ meaning <i>A</i> <br>\
+                  حَرَّة, or <i>hard rugged tract of land,</i> &amp;amp;c.: see رَحْلٌ. ―         -b5-  نَعْلٌ (tropical:)  <i>A wife.</i> See عَتَبَة.    </entryFree> <br>\
+<b>نِعَالِيٌّ</b>               1     <br>\
+                     نِعَالِيٌّ<br>\
+                     ذ<br>\
+                  <i>One who takes care of the sandals</i> or <i>shoes</i> [<i>at the door of a bath or mosque</i>]. (TA in art. ثوب.)    </entryFree> <br>\
+<b>نَاعِلٌ</b>               1     <br>\
+                     نَاعِلٌ<br>\
+                     ذ<br>\
+                  <i>Wearing,</i> or <i>having on the feet, sandals.</i>   <br>\
+' } );

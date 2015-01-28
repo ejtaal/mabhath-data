@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مأى1<br>\
+مَأَى<br>\
+(like مَاءَ) It (a cat) mewed. (TA, voce<br>\
+مَاءَ, art. موأ.)<br>\
+' } );

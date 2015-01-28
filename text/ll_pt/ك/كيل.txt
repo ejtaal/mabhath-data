@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>كيل</em>            1                  كيل<br>\
+<b>٨</b>               1     <br>\
+                     اِكْتَالَ عَلَيْهِ<br>\
+                     ذ and        <br>\
+      مِنْهُ<br>\
+                  : see عَلَى in the sense of مِنْ.    </entryFree> <br>\
+<b>كَيْلٌ</b>               1     <br>\
+                     كَيْلٌ<br>\
+                     ذ<br>\
+                  : see مِكْيَالٌ.    </entryFree> <br>\
+<b>كَيَّالٌ</b>               1     <br>\
+                     كَيَّالٌ<br>\
+                     ذ<br>\
+                   [<i>A measurer</i> of corn and the like]. (A, art. بخس.)    </entryFree> <br>\
+<b>مِكْيَالٌ</b>               1     <br>\
+                     مِكْيَالٌ<br>\
+                     ذ<br>\
+                  <i>A measure with which corn is measured;</i> (S, Msb, K;) as also ↓ <br>\
+      كَيْلٌ; (Msb;) <i>a measure of capacity.</i>   <br>\
+' } );

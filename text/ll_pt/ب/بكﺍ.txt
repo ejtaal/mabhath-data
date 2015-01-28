@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;بكا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  بكا<br>\
+&lt;entryFree id=&quot;n3058&quot; key=&quot;بَكَاَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     بَكَاَتْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَكَاَ<br>\
+                  &lt;/form&gt;; and بَكُوَتْ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَكُاَ<br>\
+                  &lt;/form&gt;; inf. n. بَكْءٌ (S, K) and بُكْءٌ (AZ, TA) and بَكَاَةٌ, or بَكْاَةٌ, (accord. to different copies of the K,) or بَكَا=ءَةٌ, (as in the O and CK,) and بُكُوْءٌ, (S, K,) which is inf. n. of بَكُوَ, (S, TA,) as is also that next preceding it, (TA,) and بُكَا=ءٌ, (AZ, K, TA,) in some copies of the K بُكْءٌ, (TA,) &lt;i&gt;She&lt;/i&gt; (a camel, S, K, or a ewe or goat, S) &lt;i&gt;had little milk; her milk became little:&lt;/i&gt; (S, K, TA:) or, as some say, &lt;i&gt;her milk ceased,&lt;/i&gt; or &lt;i&gt;stopped.&lt;/i&gt; (TA.) ―         -b2-  And [hence,] بَكَاَتْ عَيْنِى (assumed tropical:)  &lt;i&gt;My eye had few tears.&lt;/i&gt; (TA.) ―         -b3-  And بَكُوَ, inf. n. بَكَا=ءَةٌ, [app. (assumed tropical:)  &lt;i&gt;He became poor; had little wealth;&lt;/i&gt; being] said of a man. (TA.) [See also 4.] ―         -b4-  And بَكِي (assumed tropical:)  &lt;i&gt;He failed of attaining the object of his want.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3059&quot; key=&quot;قَدْ اَبْكَاَ الدَّرَّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     قَدْ اَبْكَاَ الدَّرَّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, occurring in a verse, [see Ham p. 758,] is asserted by Aboo-Riyásh to mean &lt;i&gt;He&lt;/i&gt; (the milker) &lt;i&gt;has found the milk to be little in quantity;&lt;/i&gt; like as اَحْمَدَهُ signifies “ he found him to be such as is praised: ” ISd holds that it may signify &lt;i&gt;he has made the milk to be little in quantity&lt;/i&gt; [app. by his niggardness]; but he confesses his not having heard the verb used in this sense by any one. (TA.)       -A2-  ابكا also signifies (assumed tropical:)  &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;became poor;&lt;/i&gt; or &lt;i&gt;in the condition of having little,&lt;/i&gt; or &lt;i&gt;no, wealth.&lt;/i&gt; (TA.) [See also بَكُوَ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3060&quot; key=&quot;بَكْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَكْءٌ<br>\
+                     بكء<br>\
+                  &lt;/form&gt; [originally inf. n. of 1, q. v.: and hence,] (assumed tropical:)  &lt;i&gt;Poverty;&lt;/i&gt; or &lt;i&gt;paucity of wealth.&lt;/i&gt; (TA.) ―         -b2-  And (assumed tropical:)  &lt;i&gt;Paucity of speech, except as to things requiring speech.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3061&quot; key=&quot;بَكِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَكِىْءٌ<br>\
+                     بكىء<br>\
+                     بكيء<br>\
+                     بكي<br>\
+                  &lt;/form&gt; and بَكِيْيَةٌ A she-camel, (S, K,) or a ewe or she-goat, (S,) &lt;i&gt;having little milk; whose milk has become little:&lt;/i&gt; (S, K, TA:) or, as some say, &lt;i&gt;whose milk has ceased,&lt;/i&gt; or &lt;i&gt;stopped:&lt;/i&gt; (TA:) pl. بِكَا=ءٌ (S, K) and بَكَايَا (K.) ―         -b2-  And [hence,] دَرٌّ بَكِىْءٌ (assumed tropical:)  [&lt;i&gt;Milk,&lt;/i&gt; or &lt;i&gt;a flow of milk, little in quantity&lt;/i&gt;]. (TA.) ―         -b3-  And رَكِيَّةٌ بَكِيَّةٌ (assumed tropical:)  &lt;i&gt;A well of which the water has sunk into the earth;&lt;/i&gt; or &lt;i&gt;become low:&lt;/i&gt; the latter word having its ء changed into ى to assimilate it to the former. (TA.) ―         -b4-  And عُيُونٌ <br>\
+                  بِكَا=ءٌ (assumed tropical:)  &lt;i&gt;Eyes having few tears.&lt;/i&gt; (TA.) ―         -b5-  And اَيْدٍ <br>\
+                  بِكَا=ءٌ (assumed tropical:)  &lt;i&gt;Hands of which the gifts are few.&lt;/i&gt; (TA.) And رَجُلٌ بَكِىةءٌ (assumed tropical:)  [app. &lt;i&gt;A poor man; a man having little wealth:&lt;/i&gt; or &lt;i&gt;of few words:&lt;/i&gt; or &lt;i&gt;unable to speak:&lt;/i&gt; see بَكْءٌ; and see بَكِىٌّ, in art. بكى]: pl. بِكَا=ءٌ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

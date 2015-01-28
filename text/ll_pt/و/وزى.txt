@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وزى</em>            1                  وزى<br>\
+<b>وَازَاهُ</b>               1     <br>\
+                     وَازَاهُ<br>\
+                     ذ<br>\
+                  , inf. n. مُوَازَاةٌ: see ا=زَاهُ. See also 3 in art. قرا.    </entryFree> <br>\
+<b>السَّجْعُ المُتَوَازِى</b>               1     <br>\
+                     السَّجْعُ المُتَوَازِى<br>\
+                     ذ<br>\
+                   A <i>variety of rhyming prose:</i> see سَجْعٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'هطل1<br>\
+هَطَلَ<br>\
+It (water) poured: see its inf. n. voce<br>\
+سَكْبٌ.<br>\
+' } );

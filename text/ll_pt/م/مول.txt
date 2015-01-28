@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>مول</em>            1                  مول<br>\
+<b>تَمَوَّلَ</b>               1     <br>\
+                     تَمَوَّلَ<br>\
+                     ذ<br>\
+                  <i>He became abundant in wealth.</i> (TA, art. ثمر).    </entryFree> <br>\
+<b>مَالٌ</b>               1     <br>\
+                     مَالٌ<br>\
+                     ذ<br>\
+                  <i>Whatever one possesses:</i> (K:) <i>property; wealth:</i>] accord. to Mohammad [the Hanafee Imám), <i>whatever men possess, of dirhems,</i> or <i>deenárs,</i> or <i>gold,</i> or <i>silver,</i> or <i>wheat,</i> or <i>barley,</i> or <i>bread,</i> or <i>beasts,</i> or <i>garments or pieces of cloth,</i> or <i>weapons,</i> or <i>other things:</i> (Mgh:) [<i>property,</i> or <i>wealth:</i>] or originally <i>what one possesses of gold and silver:</i> then applied to <i>anything that one acquires and possesses of substantial things:</i> and mostly applied by the Arabs to <i>camels,</i> because these constitute most of their wealth: (IAth, TA:) and <i>animals.</i> (TA.) ―         -b2-  مَالٌ <br>\
+                  <i>Camels or sheep or goats.</i> (S.) The مال of the people of the desert consists of what are termed نَعَمٌ, (T, Msb,) i. e. <i>Cattle, consisting of camels</i> or <i>neat</i> or <i>sheep</i> or <i>goats,</i> or <i>all these,</i> or <i>camels alone;</i> (Msb in art. نعم;) <i>herds,</i> or <i>flocks,</i> or <i>herds and flocks.</i> ―         -b3-  مَالٌ <br>\
+                  <i>A square in arithmetic:</i> pl. اَمْوَالٌ. See جَذْرٌ. ―         -b4-  رَجُلٌ مَالٌ, for ذُومَالٍ. (L, art. صيد.)    </entryFree> <br>\
+<b>مَالِىٌّ</b>               1     <br>\
+                     مَالِىٌّ<br>\
+                     ذ<br>\
+                  <i>Of,</i> or <i>relating to, property</i> or <i>wealth.</i>   <br>\
+' } );

@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>ترما</em>            1                  ترما<br>\
+<b>لَا تَرَمَا</b>               1     <br>\
+                     لَا تَرَمَا<br>\
+                     لا ترما<br>\
+                  <i>i. q.</i> <br>\
+                  لا سِيَّمَا [which see in art. سوي]. (K.)     <br>\
+<b>تُرْمُسٌ</b>               1     <br>\
+                     تُرْمُسٌ<br>\
+                     رمس<br>\
+                     ترمس<br>\
+                   [vulgarly pronounced in the present day تِرْمِس; from the Greek <G>θέρμος</G>, or Coptic <G>θαρος</G>; <i>Lupines;</i> or the <i>lupine;</i>] <i>a certain grain, well known, of the description termed</i> <br>\
+                  قَطَانِىّ; (Msb;) the <i>produce of a tree</i> [or <i>plant</i>] <i>which has a grain ribbed and notched:</i> (Lth, M, * K:) or <i>i. q.</i> <br>\
+                  بَاقِلَّى مِصْرِىٌّ: (the Minháj and K:) [but if this be the same as the بَاقِلَّى قِبْطِىّ, it is a mistake, accord. to Ibn-Beytár, to identify it with the ترمس:] AHn says that it is the جِرْجِير مِصْرِىّ, and is <i>of the description termed</i> <br>\
+                  قَطَانِىّ; and under the head of the letter ج, he says that the جِرْجِير is the بَاقِلِّى: accord. to the Minháj, it is <i>a grain of an expanded shape, of bitter taste, hollowed in the middle; and the wild kind is smaller than the other, and stronger: and the</i> <br>\
+                  ترمس <br>\
+                  <i>approaches more to medicine than to food: the best is the white, large, and heavy:</i> (TA:) some say that the ت is augmentative, and that the word is from رَمَسَ, signifying “ he concealed ” a thing: (MF, TA:) the n. un. is with ة (Msb.)   </entryFree> <br>\
+' } );

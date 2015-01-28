@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>نتش</em>            1                  نتش<br>\
+<b>نَتَشَ</b>               1     <br>\
+                     نَتَشَ<br>\
+                     ذ<br>\
+                  , (S, A, K,) aor.      <br>\
+                     نَتِشَ<br>\
+                  , inf. n. نَتْشٌ, (A, K,) <i>He extracted;</i> or <i>drew,</i> or <i>pulled, out,</i> or <i>forth;</i> (S, A, K;) a thing, (S,) or a thorn, (A, K,) and the like, (K,) and hair, (TA,) with the مِنْتَاش: (S, A, K, TA:) <i>he plucked out</i> hair or the like. (IDrd, K.) ―         -b2-  <i>He plucked,</i> or <i>pulled,</i> flesh, and the like, <i>by pinching</i> it <i>with his fingers,</i> (Lth, K,) and <i>by taking hold upon</i> it <i>with his teeth.</i> (Lth, TA.) ―         -b3-  نَتَشَ <br>\
+                  الجَرَادُ الاَرْضَ, aor. and inf. n. as above, <i>The locusts ate the herbage of the earth.</i> (TA.) ―         -b4-  مَا نَتَشْتُ مِنْ فُلَانٍ شَيْيًا <br>\
+                  <i>I did not obtain,</i> (S,) or <i>take,</i> (A,) <i>from such a one anything.</i> (S, A.) ―         -b5-  هُوَيَنْتِشُ لِعِيَالِهِ, (Lh, TA,) inf. n. as above, (K,) (tropical:)  <i>He gains,</i> or <i>earns,</i> or <i>seeks sustenance, for his family,</i> or <i>house-hold.</i> (Lh, K, * TA.) ―         -b6-  هُوَ يَنْتِشُ مِنْ كُلِّ عِلْمٍ (assumed tropical:) <i>He takes</i> [or <i>acquires</i>] <i>of every science.</i> (A, * TA.)    </entryFree> <br>\
+<b>مَا اَحَذَ اـِلَّا نَتْشًا</b>               1     <br>\
+                     مَا اَحَذَ اـِلَّا نَتْشًا<br>\
+                     ذ<br>\
+                  <i>He took not save a little.</i> (TA.)    </entryFree> <br>\
+<b>مِنْتَاشٌ</b>               1     <br>\
+                     مِنْتَاشٌ<br>\
+                     ذ<br>\
+                   [<i>A kind of tweezers;</i>] <i>an instrument with which one extracts,</i> or <i>draws</i> or <i>pulls out</i> or <i>forth,</i> (S, A, K,) <i>a thing</i> (S,) or <i>a thorn,</i> (A, K,) and <i>the like,</i> (K,) and <i>hair;</i> (TA;) <i>i. q.</i> <br>\
+                  مِنْقَاشٌ. (S, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>طفق</em>            1                  طفق<br>\
+<b>طَفِقَ يَفْعَلُ كَذَا</b>               1     <br>\
+                     طَفِقَ يَفْعَلُ كَذَا<br>\
+                     ذ<br>\
+                  , (S, Mgh, O, K,) aor.      <br>\
+                     طَفَقَ<br>\
+                  ; (S, K;) and طَفَقَ, aor.      <br>\
+                     طَفِقَ<br>\
+                  , (S, O, K,) mentioned by Akh, (S, ISd, O,) and by Zj, (ISd, TA,) as said by some, (S, O,) but pronounced by Lth to be bad; (TA;) inf. n. طَقَقٌ, (S, K, TA, [in some copies of the K, erroneously, طَفْقٌ,]) of the former verb; (S, TA;) and طُفُوقٌ, (S, O, K,) of the latter verb; (S, O;) <i>He set about, began, commenced, took to,</i> or <i>betook himself to, doing such a thing:</i> (S, Mgh, O, TA:) expl. in the K as meaning <i>he continued uninterruptedly the doing of such a thing</i> (وَاصَلَ الفِعْلَ [or in some copies وَصَلَ الفِعْلَ]), and by El-Háfidh Ibn-Hajar, in the “ Fet-h el-Bári, ” as meaning <i>he entered upon, began,</i> or <i>commenced, and went on continually, doing such a thing;</i> but it denotes the entering upon the doing of a thing irrespectively of the going on continually or not, and therefore it is not allowable to prefix اَنْ to its predicate: (MF, TA:) it is followed by a future [or an aor., as in the ex. above]: the saying فَطَفِقَ مَسْحًا بِاْلسُّوقِ <br>\
+                  وَاْلْاَعْنَاقِ, in the Kur [xxxviii. 32], (TA,) i. e. <i>He took to severing</i> with the sword [<i>the thighs and the necks</i>], or, as some say, <i>to wiping</i> [or <i>stroking</i>] with his hand [<i>the thighs and the necks</i>], (Bd,) is for طَفِقَ يَمْسَحُ مَسْحًا: (Bd, * TA:) the verb is used only in an affirmative phrase: they do not say مَا طَفِقَ. (IDrd, O, K.) ―         -b2-  طَفِقَ فُلَانٌ <br>\
+                  بِمَا اَرَادَ, (Aboo-Sa&#39;eed, O, K, *) a phrase of the Arabs of the desert, (Aboo-Sa&#39;eed, O,) means <i>Such a one attained that which he desired.</i> (Aboo-Sa&#39;eed, O, K. *) ―         -b3-  And one says طَفِقَ <br>\
+                  المَوْضِعَ, aor.      <br>\
+                     طَفَقَ<br>\
+                  , <i>He kept,</i> or <i>clave, to the place.</i> (ISd, K.)    </entryFree> <br>\
+<b>اطفقهُ اْللّٰهُ بِهِ</b>               1     <br>\
+                     اطفقهُ اْللّٰهُ بِهِ<br>\
+                     ذ<br>\
+                  <i>God caused him to attain him,</i> or <i>it.</i> (Aboo-Sa&#39;eed, O, K.) One says, لَيِنْ <br>\
+                  اَطْفَقَنِى اْللّٰهُ بِهِ لَاَفْعَلَنَّ بِهِ [<i>Verily if God cause me to attain him,</i> or <i>it, I will assuredly do</i> something <i>with him,</i> or <i>it</i>]. (TA.)   </entryFree> <br>\
+' } );

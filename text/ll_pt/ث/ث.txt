@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;ث&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>v</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;ث&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>ث</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     ث<br>\
+                     ث<br>\
+                  <i>The fourth letter of the alphabet:</i> called ثَا=ءٌ and ثَا [respecting which latter see the letter ب]: the pl. [of the former] is ثَا=ءَاتٌ; and [of the latter,] اَثْوَا=ءٌ and اَثْيَا=ءٌ. (TA in باب الالف اللّينة.) It is one of the letters termed مَهْمُوسَة [or non-vocal, i. e. pronounced with the breath only, without the voice], and of those termed لِثَوِيَّة [or gingival], which are ث and ذ and ظ. (TA at the commencement of ف.) ―         -b2-  It is sometimes substituted for ف as in the instance of حُثَالَةٌ and حُفَالَةٌ; and for س as in the instance of جُثْمَانٌ and جُسْمَانٌ; and for other letters. (TA in the latter place.)       -A2-  [As a numeral, it denotes <i>Five hundred.</i>]   </entryFree> <br>\
+' } );

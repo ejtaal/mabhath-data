@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لهط</em>            1                  لهط<br>\
+<b>لُهِطَ بِهِ</b>               1     <br>\
+                     لُهِطَ بِهِ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, was cast,</i> or <i>thrown.</i> (TA in art. خشف.)   </entryFree> <br>\
+' } );

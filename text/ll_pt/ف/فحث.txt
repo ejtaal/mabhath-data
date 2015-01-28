@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>فحث</em>            1                  فحث<br>\
+<b>فَحَثَ عَنْهُ</b>               1     <br>\
+                     فَحَثَ عَنْهُ<br>\
+                     ذ<br>\
+                  , (O, K,) aor.      <br>\
+                     فَحَثَ<br>\
+                  , (TA,) inf. n. فَحْثٌ, (O, TA,) <i>i. q.</i> <br>\
+                  فَحَصَ [<i>He searched,</i> or <i>sought, for,</i> or <i>after, it; inquired,</i> or <i>sought information, respecting it; searched into, inquired into, investigated, scrutinized,</i> or <i>examined, it;</i> &amp;amp;c.]; (IDrd, O, K, TA;) namely, a thing; (IDrd, O;) or news, or a story; (TA;) as also ↓ <br>\
+      افتحث. (O, K.)    </entryFree> <br>\
+                     اـِفْتَحَثَ<br>\
+                   see what immediately precedes.    </entryFree> <br>\
+<b>فَحِثٌ</b>               1     <br>\
+                     فَحِثٌ<br>\
+                     ذ<br>\
+                   (S, O, K) and ↓ <br>\
+      فَحِثَةٌ (TA) The [<i>portion,</i> or <i>appertenance, called</i>] حَفِث (S, O, K) <i>of the stomach of a ruminant animal, also termed the</i> <br>\
+                  قِبَّة, <i>which has</i> <br>\
+                  اَطْبَاق: (S, O: [see more in art. حفث:]) pl. of the former اَفْحَاثٌ. (O, TA.) ―         -b2-  And one says, مَلَا اَفْحَاثَهُ meaning <i>He filled his</i> <br>\
+                  جَوْف [i. e. <i>belly</i>]. (IF, O.)    </entryFree> <br>\
+<b>فَحِثَةٌ</b>               1     <br>\
+                     فَحِثَةٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.   </entryFree> <br>\
+' } );

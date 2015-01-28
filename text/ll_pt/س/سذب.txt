@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>سذب</em>            1                  سذب<br>\
+<b>سُذْبَةٌ</b>               1     <br>\
+                     سُذْبَةٌ<br>\
+                     ذ<br>\
+                  <i>A bag,</i> or <i>other receptacle, for travellingprovisions</i> or <i>for goods</i> or <i>utensils &amp;amp;c.;</i> syn. وِعَا=ءٌ. (K.)    </entryFree> <br>\
+<b>سَذَابٌ</b>               1     <br>\
+                     سَذَابٌ<br>\
+                     ذ<br>\
+                  , said to be an arabicized word, because [it is asserted that] س and ذ are not combined in any Arabic word; [and if so, سُذْبَةٌ also, men-  tioned above, is arabicized;] but in some of the books on plants it is written with the unpointed د; (TA;) <i>i. q.</i> <br>\
+                  فَيْجَنٌ, (K,) which is an ancient Greek word, (TA,) [i. e.        <br>\
+      <orth lang=&quot;gr&quot;>πήγανο</orth>, meaning <i>Rue;</i>] <i>a well-known</i> <br>\
+                  بَقْل [or <i>kind of herb</i>], (K,) <i>having properties described in the medical books.</i> (TA.)    </entryFree> <br>\
+<b>سَذَابِىٌّ</b>               1     <br>\
+                     سَذَابِىٌّ<br>\
+                     ذ<br>\
+                  <i>A seller of</i> <br>\
+                  سَذَاب [or <i>rue</i>]. (K, * TA.)   </entryFree> <br>\
+' } );

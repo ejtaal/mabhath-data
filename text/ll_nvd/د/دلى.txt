@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'دلى1<br>\
+دَلِىَ, (IAar, T, K,) aor.<br>\
+دَلَىَ, inf. n. دَلًا, (TK,)<br>\
+He was, or became, confounded, or perplexed,<br>\
+and unable to see his right course. (IAar, T, K.)<br>\
+3<br>\
+دَاْلَىَand 5, mentioned in this art. in the K: see<br>\
+art. دلو.<br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>ظى</em>            1                  ظى<br>\
+<b>ظَيَّيْتُ ظَا=ءً حَسَنَةً</b>               1     <br>\
+                     ظَيَّيْتُ ظَا=ءً حَسَنَةً<br>\
+                     ذ<br>\
+                   and <i>I made</i> [or <i>wrote</i>] <i>a beautiful</i> <br>\
+                  ظ. (M, * TA.)    </entryFree> <br>\
+<b>ظَا=ءٌ</b>               1     <br>\
+                     ظَا=ءٌ<br>\
+                     ذ<br>\
+                  , also pronounced ظَا, (TA,) <i>A letter peculiar to the Arabic language</i> [i. e. <i>the letter</i> <br>\
+                  ظ]: (Kh, T, TA, &amp;amp;c.:) masc. and fem.: as masc., its pl. is اَظْوَا=ءٌ; and as fem., ظَاا=تٌ. (TA. [See art. ظ.])   </entryFree> <br>\
+            <div2 n=&quot;Quasi Zyr&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi ظير<br>\
+<b>ظِيرٌ</b>               1     <br>\
+                     ظِيرٌ<br>\
+                     ذ<br>\
+                  , for ظِيْرٌ: see the latter, in art. ظار.    <br>\
+         </div1><br>\
+      </body><br>\
+   </text><br>\
+</TEI.2><br>\
+' } );

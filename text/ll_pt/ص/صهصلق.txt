@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>صهصلق</em>            1                  صهصلق<br>\
+<b>صَهْصَلِقٌ</b>               1     <br>\
+                     صَهْصَلِقٌ<br>\
+                     ذ<br>\
+                   A <i>vehement</i> voice. (S, O, K.) A rájiz says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        قَدْ شَيَّبَتْ رَاْسِى بِصَوْتٍ صَهْصَلِقٌ<br>\
+                  </quote> [<i>She has rendered my head hoary by a vehement voice</i>]. (TA.) ―         -b2-  And A <i>clamorous</i> old woman; (S, O, K, TA;) <i>vehement of voice;</i> (TA;) and so صَهْصَلَقٌ; (TA;) so too ↓ <br>\
+      صَهْصَلِيقٌ. (As, S, O, K.) صَهْصَلِقُ الصَّوْتِ is applied to a man, as meaning <i>Vehement of voice:</i> and in like manner to a hawk. (TA.)    </entryFree> <br>\
+<b>صَهْصَلِيقٌ</b>               1     <br>\
+                     صَهْصَلِيقٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.   </entryFree> <br>\
+' } );

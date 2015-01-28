@@ -1,0 +1,63 @@
+load_data( { book: 'll_nvd', text: 'هذر1<br>\
+هَذِرَ كَلَامُهُ, aor.<br>\
+هَذَرَ, (A, K,) inf. n. هَذَرٌ, (TA,)<br>\
+His speech, or talk, was much, or abundant, and<br>\
+erroneous and false or vain or frivolous. (A, K.)<br>\
+―<br>\
+-b2-  هَذَرَ, aor.<br>\
+هَذُرَ and<br>\
+هَذِرَ, He talked much; babbled.<br>\
+was loquacious, or garrulous: (JK:) [or he talked<br>\
+irrationally:] or هَذَرَ فِى مَنْطِقِهِ. aor.<br>\
+هَذُرَ and<br>\
+هَذِرَ. inf.<br>\
+n. هَذْرٌ (S, Msb, K) and تَهْذَارٌ, (K,) which latter<br>\
+has an intensive signification, (TA,) he confounded<br>\
+in his speech, and talked what was not fit or meet<br>\
+or proper: (Msb:) or he talked much and badly:<br>\
+or erroneously: (K:) or he talked nonsense; he<br>\
+talked irrationally, foolishly, or deliriously: (S;)<br>\
+as also ↓ اهذر: (K:) and فِى كَلَامِهِ ↓ اهذر he<br>\
+talked much; babbled; was loquacious, or garrulous. (S, TA.)<br>\
+4<br>\
+أَهْذَرَ see 1, in two places.<br>\
+لَا نَزْرٌ وَلَا هَذْرٌ Not little nor much: (TA:) or<br>\
+not scanty, so as to indicate impotence, nor much<br>\
+and corrupt: said of the speech of Mohammad.<br>\
+(K, art. نزر.) [See هَذَرٌ, from which it is altered<br>\
+to assimilate it in form to نَزْرٌ.]<br>\
+هَذَرٌ, a subst. from هَذَرَ فِى مَنْطِقِهِ, (S, Msb,)<br>\
+Much talk; babble: (JK:) or nonsense; or ???<br>\
+rational, foolish, or delirious, talk: (S:) or confused and improper speech: (Msb:) or speech,<br>\
+or talk, that is much and bad: or erroneous:<br>\
+(A, K:) or that is not regarded as of any ???<br>\
+or worth. (TA.) See also هَذْرٌ.<br>\
+هَذُرٌ: see هَذِرٌ.<br>\
+هَذِرٌ, an epithet from هَذَرَ, applied to a man,<br>\
+[signifying, Loquacious; garrulous; babbling;<br>\
+a great talker; a bubbler. or nonsensical, irrational, foolish, or delirious, in his talk: or one<br>\
+who speaks confusedly and improperly: or who<br>\
+speaks, or talks, much and badly: or erroneously:]<br>\
+(JK, S, K:) as also, [but in an intensive sense.]<br>\
+↓ هَذُرٌ (K) and ↓ هُذَرَةٌ (S, K) and ↓ هُذُرّةٌ (K) and<br>\
+↓ هَذَّارٌ (S, K) and ↓ هَيْذَارٌ (K) and ↓ هِذْرِيَانٌ (JK,<br>\
+A, K) and ↓ مَهْذَرٌ (K) and ↓ مِهْذَارٌ, (JK, S, A,<br>\
+Msb, K,) [signifying, very loquacious, &amp;c.:] and,<br>\
+[but in a doubly intensive sense.] ↓ هَيْذَارَةٌ (JK,<br>\
+K) and ↓ مِهْذَارَةٌ, (JK, A, K.) [signifying very very<br>\
+loquacious, &amp;c.:] fem. هَذِرَةٌ (K) and ↓ هَيْذَرَةٌ (TA)<br>\
+and ↓ مِهْذَارٌ [without ة]: (K:) or ↓ هِذْرِيَانٌ signifies one who talks badly, or corruptly, and<br>\
+much: (TA:) or light in speech and in service:<br>\
+(S, TA:) the pl. of ↓ مِهْذَارٌ is مَهَاذيرُ, not مِهْذَارُونَ.<br>\
+(ISd, TA.)<br>\
+هُذَرَةٌ: see هَذِرٌ; the third, in two places.<br>\
+هُذُرَّةٌ: see هَذِرٌ; the third, in two places.<br>\
+هِذْرِيَانٌ: see هَذِرٌ; the third, in two places.<br>\
+هَذَّارٌ see هَذِرٌ; the third, in two places.<br>\
+هَيْذَرَةٌ: see هَذِرٌ; the third, in two places.<br>\
+هَيْذارٌ: see هَذِرٌ; the third, in two places.<br>\
+هَيْذَارَةٌ: see هَذِرٌ; the third, in two places.<br>\
+مَهْذِرٌ: see هَذِرٌ; the third, in two places.<br>\
+مَهْذَارٌ: see هَذِرٌ; the third, in two places.<br>\
+مَهْذَارَةٌ: see هَذِرٌ; the third, in two places.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وتب</em>            1                  وتب<br>\
+<b>وَتَبَ</b>               1     <br>\
+                     وَتَبَ<br>\
+                     ذ<br>\
+                  , aor. يَتِبُ, inf. n. وَتْبٌ, <i>He remained fixed in the place, and did not move.</i> (K.) Omitted by most of the lexicographers; and said by some to be a word mispronounced [app. for وَثَبَ]. (TA.)   </entryFree> <br>\
+' } );

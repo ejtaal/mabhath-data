@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'مضغمُضْغَةٌ<br>\
+A piece, or bit, of flesh (T, S, K), &amp;c.:<br>\
+(T, K:) or a morsel, or gobbet, of flesh, i. e.<br>\
+a piece of flesh such as a man puts into his<br>\
+mouth: (Khálid Ibn-Jembeh, TA:) or as much<br>\
+as is chewed [at once]: (Msb:) and such as<br>\
+the heart, and the tongue, of a man: (TA:)<br>\
+and a fœtus when it has become like a lump of<br>\
+flesh: see Kur. xxii. 5; and see خَلِيقٌ.<br>\
+' } );

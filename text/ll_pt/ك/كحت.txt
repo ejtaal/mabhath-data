@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كحت</em>            1                  كحت<br>\
+<b>اَكْحَتُ</b>               1     <br>\
+                     اَكْحَتُ<br>\
+                     ذ<br>\
+                  <i>Short,</i> (K,) as an epithet applied to a man. (TA.)   </entryFree> <br>\
+' } );

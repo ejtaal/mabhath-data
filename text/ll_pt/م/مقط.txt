@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مقط</em>            1                  مقط<br>\
+<b>مَاقِطٌ</b>               1     <br>\
+                     مَاقِطٌ<br>\
+                     ذ<br>\
+                  <i>A player with the ball.</i> (O in art. صوع.) See صَاعٌ, last sentence.   </entryFree> <br>\
+' } );

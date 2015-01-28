@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'صمجصَمَجٌ [Lamps of the kind called] قَنَادِيلُ [pl. of<br>\
+قِنْدِيلٌ]: one of which is called صَمَجَةٌ: (S, K:<br>\
+[in the K, the former word is called pl. of the<br>\
+latter; but it is a coll. gen. n:]) an Arabic word,<br>\
+an exception to the rule that ص and ج cannot<br>\
+both occur in a genuine Arabic word: (TA:) or<br>\
+of Greek origin (رُومِىٌّ), arabicized: (S:) EshShemmákh says,<br>\
+وَالنَّجْمُ مِثْلُ الصَّمَجِ الرُّومِيَّاتْ<br>\
+[And the asterism, meaning the Pleiades, like the<br>\
+Greek lamps]: (S, MF:) but this does not show<br>\
+the word to be Greek, as the epithet may be added<br>\
+for the purpose of restriction. (MF.)<br>\
+' } );

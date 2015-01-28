@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>وما</em>            1                  وما<br>\
+<b>وَمَاَ اـِلَيْهِ</b>               1     <br>\
+                     وَمَاَ اـِلَيْهِ<br>\
+                     ذ<br>\
+                  , (S, K,) aor. يَمَاُ, inf. n. وَمْءٌ; (S;) and ↓ <br>\
+      اوما, (S, K, which is the chaste word, MF,) inf. n. اـِيمَا=ءٌ; (TA;) and ↓ <br>\
+      ومّا; (K;) <i>He made a sign to him.</i> (K.) اَوْمَيْتُ [for اَوْمَاْتُ] is disallowed: (S:) [but see what follows in this paragraph]. Lth says, that الايماء is <i>the making a sign with the head</i> or <i>the hand, as a sick man does with his head for the inclination and prostration in prayer:</i> (TA:) and اوما بِرَاْسِهِ sometimes signifies <i>He</i> [<i>made a sign with his head as though he</i>] <i>said</i> “ <i>No:</i> ” Akh cites this verse: <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اـِذَا قَلَّ مَالُ المَرْءِ قَلَّ صَدِيقُهُ<br>\
+                     <L><br>\
+                        وَاَوْمَتْ اـِلَيْهِ بِالعُيُونِ الاَصَابِعُ<br>\
+                  </quote> [<i>When the man&#39;s wealth becomes little, his friends become few; and the fingers, together with the eyes, make signs to him</i>]; in which اومت is for اومات. (TA.) ―         -b2-  [For a further explanation of اوما, and the manner in which it is said to differ from اوبا, see art. وبا.]    </entryFree> <br>\
+<b>وَمَّاَ</b>               1     <br>\
+                     وَمَّاَ<br>\
+                     ذ<br>\
+                  : see 1. ―         -b2-  ومّى بِالشَّىْءِ [for ومّا: as there is no such root as ومى:] <i>He took away the thing.</i> (TA.)    </entryFree> <br>\
+<b>فُلَانٌ يُوَامِيُ فُلَانًا</b>               1     <br>\
+                     فُلَانٌ يُوَامِيُ فُلَانًا<br>\
+                     ذ<br>\
+                  , and يُوَايِمُ, [<i>Such a one agrees,</i> or <i>vies, with such a one</i>]. These two verbs are of two different dialects, or the former is formed by transposition from the latter. (K, TA.) ―         -b2-  ISh quotes, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَاَنَا الغذَاةَ مُوَامِيُهْ<br>\
+                  </quote> meaning, accord. to Abu-l-Khattáb, “ And I, in the morning, shall see him, or it: ” syn. مُعَايِنُهُ. (TA.)    </entryFree> <br>\
+                     اَوْمَاَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>استومى عَلَى الاَمْرِ</b>               1     <br>\
+                     استومى عَلَى الاَمْرِ<br>\
+                     ذ<br>\
+                   [for استوما: as there is no such root as ومى:] <i>He made himself master of the thing:</i> like استولى. (Fr.)    </entryFree> <br>\
+<b>وَامِيَةٌ</b>               1     <br>\
+                     وَامِيَةٌ<br>\
+                     ذ<br>\
+                  <i>A misfortune; calamity:</i> (S, K:) thought by ISd to be a subst. [not an act. part. n.] because no verb from which it could be derived is known. (TA.) ―         -b2-  وَقَعَ فِى وَامِيَةٍ <br>\
+                  <i>He fell into a misfortune</i> or <i>calamity.</i> (S.) ―         -b3-  ذَهَبَ ثَوْبِى فَمَا اَدْرِىمَا كَانَتْ وَامِيَتُهُ <br>\
+                  <i>My garment is lost, and I know not what misfortune has taken it away:</i> (M, K:) or, <i>who has taken it.</i> (Yaakoob, S.) The phrase without negation is also used. (L.) [See a similar phrase in art. لما.]   </entryFree> <br>\
+' } );

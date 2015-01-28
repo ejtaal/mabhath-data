@@ -1,0 +1,76 @@
+load_data( { book: 'll_nvd', text: 'وكت1<br>\
+وَكَتَ, aor. يَكِتُ, (inf. n. وَكَتٌ, He, or it,<br>\
+made a mark, or impression, or left a mark.<br>\
+(K.) You say وَكَتَ شَيْئًا He, or it, made a<br>\
+mark, or impression, or left a mark, upon a<br>\
+thing. (TK.)<br>\
+-A2-  وَكَتَ aor. يَكِتُ, inf. n. وَكْتٌ;<br>\
+and ↓ وِكّت, inf. n. تَوْكِيتٌ; He filled (K.) a<br>\
+قِرْبَة, (Lh,) or a cup, or the like, as also زكت.<br>\
+(Fr.)<br>\
+-A3-  وَكَتَ, aor. يَكِتُ, inf. n. وَكْتٌ, He<br>\
+walked, or went, with short steps. (Sh, K.) ―<br>\
+-b2-<br>\
+He (a beast of carriage) raised and put down<br>\
+his feet quickly. (L.) ―<br>\
+-b3-  وَكَتَ المَشْىَ, inf. n.<br>\
+وَكْتٌ and وَكَتَانٌ, He went, or walked, with<br>\
+short steps, but in a heavy and ugly manner.<br>\
+(L.) ―<br>\
+-b4-  فِى سَيْرِهِ ↓ وَكّت He went with a particular kind of pace. (L, from Kr.)<br>\
+-A4-  وَكَتَ<br>\
+الكِتَابَ, inf. n. وَكْتٌ, He pointed, or dotted, the<br>\
+book, writing, or letter. (L.)<br>\
+2<br>\
+وَكَّثَتِ البُسْرَةُ inf. n. تَوْكِيتٌ, The date<br>\
+became speckled, by reason of its ripening. (S,<br>\
+M, K.)<br>\
+-A2-  See 1.<br>\
+وَكْتٌ, (Nh, &amp;c.,) or وَكْتَهٌ, (L,) A mark, (L,)<br>\
+or a small mark, (Nh,) in a thing, resembling a<br>\
+speck (نقطة), of a different colour from the<br>\
+thing itself: (Nh, L:) pl. of the latter [or<br>\
+rather coll. gen. n., of which the latter is the<br>\
+n. un.] وَكْتٌ. (L.) ―<br>\
+-b2-  وَكْتٌ A little; not<br>\
+much, a little thing. (Sh, K.) ―<br>\
+-b3-  وَكْتٌ and<br>\
+وَكْتَةٌ A speck that appears in a date by reason<br>\
+of its ripening. (TA.) ―<br>\
+-b4-  وَكْتَةٌ A speck (نُقْطَة)<br>\
+in a thing: (K:) or what resembles a نُقْطَة in<br>\
+a thing: (S:) a red speck, or spot, in the white<br>\
+of the eye, which, if neglected, becomes a وَدْقَة:<br>\
+(ISd:) or a white speck, or spot, in the black of<br>\
+the eye: (TA:) you say, فِى عيْنِهِ وكتةٌ [In<br>\
+his eye is a speck, &amp;c.]. (S.) ―<br>\
+-b5-  فِى قَلْبِى وَكْتَةٌ<br>\
+مِمَّا قُلْتَ (tropical:)  On my heart is a slight impression<br>\
+made by what thou saidst. (A.)<br>\
+وُكْتَةٌ i. q. فُرْضَةُ زَنْدٍ (K: in the CK, فَرْضة)<br>\
+[app., The notch in a wooden instrument for<br>\
+striking fire; as understood by Golius: but<br>\
+accord. to the TA, the notch, or the like, in the<br>\
+joint called زند of a camel].<br>\
+وَكِيتٌ The act of calumniating, or slandering,<br>\
+syn. سِعَايَةٌ and وِشَايَةٌ, (K,) to one possessed of<br>\
+command, or power. (TA.)<br>\
+رَجَلٌ وَكَّاتٌ, mentioned by Kr; thought by<br>\
+ISd to be from وَكَتَ المَشْىَ; [and therefore to<br>\
+signify A man who walks, or goes, with short<br>\
+steps, but in a heavy and ugly manner]; because<br>\
+were it by the phrase mentioned by Kr [i. e.<br>\
+وَكّت فى سيره] it would be مُوَكِّتٌ. (TA.)<br>\
+وَاكِتٌ, in a camel, i. q. نَاكِتٌ. (K.)<br>\
+مَوْكُوتٌ (tropical:)  Changed in colour (كَمِدٌ) by reason<br>\
+of anxiety, or grief: (K:) or changed in colour<br>\
+(كَمِدٌ), and full of malevolence, and of anxiety,<br>\
+or grief. (TA.) ―<br>\
+-b2-  عَيْنٌ مَوْقُوتةٌ An eye in<br>\
+which is a وَكْتَة. (A, &amp;c.)<br>\
+بُسْرَةٌ مُوَكِّتَةٌ, and مُوَكِّتٌ, (the latter on the<br>\
+authority of Seer, TA) A date speckled, or<br>\
+becoming speckled, by reason of its ripening.<br>\
+(T, M, K.) When it is speckled in the part<br>\
+next the stalk, it is called مُذَنِّبَةٌ (TA.) See بُسْرٌ.<br>\
+' } );

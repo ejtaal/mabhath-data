@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'مرع1<br>\
+مَرُعَ<br>\
+and ↓ أَمْرَعَ<br>\
+It (a valley) abounded with<br>\
+herbage. (S, Msb, K.)<br>\
+4<br>\
+أَمْرَعَ<br>\
+see 1.<br>\
+مُرَعٌ<br>\
+, the bird so called: see an ex. voce بُلَعٌ.<br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>فرجن</em>            1                  فرجن<br>\
+<b>الدَّابَّةَ فَرْجَنَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     الدَّابَّةَ فَرْجَنَ<br>\
+                     ذ<br>\
+                  <i>He curried the beast; removed the dust from it with the</i> <br>\
+                  فِرْجَوْن. (S, K.) But the etymologists assert that the ن is augmentative. (TA.)    </entryFree> <br>\
+<b>فِرْجَوْنٌ</b>               1     <br>\
+                     فِرْجَوْنٌ<br>\
+                     ذ<br>\
+                  <i>A currycomb;</i> syn. مِحَسَّةٌ [q. v.]. (S, K.)   </entryFree> <br>\
+' } );

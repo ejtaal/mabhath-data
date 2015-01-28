@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'لدب1<br>\
+لَدڤبَand 3. لَدَبَ and لَادَبَ: see لَذَبَ.<br>\
+لدس لدغ لدم لدن<br>\
+See Supplement<br>\
+' } );

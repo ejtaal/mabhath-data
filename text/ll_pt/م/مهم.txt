@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>مهم</em>            1                  مهم<br>\
+<b>مَهْمَةٌ</b>               1     <br>\
+                     مَهْمَةٌ<br>\
+                     ذ<br>\
+                  <i>A far-extending</i> <br>\
+                  مَفَازَة [or <i>desert,</i> &amp;amp;c.]. (S, K.) See اـِصْمِت.   </entryFree> <br>\
+' } );

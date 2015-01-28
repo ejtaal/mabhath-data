@@ -1,0 +1,38 @@
+load_data( { book: 'll_nvd', text: 'رفس1<br>\
+رَفَسهُ, (S, M, Msb, K, *) or رَفَسَهُ بِرِجْلِهِ, (M,)<br>\
+aor.<br>\
+رَفِسَ (S, M, Msb, K) and<br>\
+رَفُسَ, (M, K,) inf. n.<br>\
+رَفْسٌ (S, M, &amp;c.) and رِفَاسٌ, (Jm, K,) or this is<br>\
+a simple subst., (M,) and رُفَاسٌ, (Jm,) [or this<br>\
+also is a simple subst.,] He kicked him, or struck<br>\
+him with his foot or leg, (S, M, Msb, K, *) in an<br>\
+absolute sense, (M, Msb,) or in, or upon, the<br>\
+breast. (Kh, M, Msb.) ―<br>\
+-b2-  رَفَسَهُ, inf. n. رَفْسٌ, He<br>\
+pounded it, or brayed it; namely, flesh-meat, or<br>\
+other food; or anything; but originally, food.<br>\
+(M, TA.)<br>\
+-A2-  رَفَسَ البَعِيرَ, (K,) aor.<br>\
+رَفُسَ, inf. n. رَفْسٌ,<br>\
+(TA,) He bound the camel with the رِفَاس [q.<br>\
+v.]. (K.)<br>\
+رَفْسَةٌ A kick, or blow with the foot or leg, [in<br>\
+an absolute sense, or] in, or upon, the breast.<br>\
+(Lth, K.)<br>\
+رِفَاسٌ The act, or habit, of kicking, or striking<br>\
+with the foot or leg, in an absolute sense, or in, or<br>\
+upon, the breast; as also ↓ رَفِيسٌ and ↓ رُفُوسٌ.<br>\
+(M, TA.)<br>\
+-A2-  Also The [cord, or rope, called]<br>\
+إِبَاض [q. v.]: (K:) or the bond with which the<br>\
+hind legs of the camel, when lying down, are<br>\
+bound to his thighs. (Ibn-&#39;Abbád, TA.)<br>\
+دَابَّةٌ رَفُوسٌ A beast that has a habit of kicking,<br>\
+or striking with the foot or leg, in an absolute<br>\
+sense, or in, or upon, the breast. (M, TA.)<br>\
+رُفُوسٌ: see رِفَاسٌ.<br>\
+رَفِيسٌ: see رِفَاسٌ.<br>\
+مِرْفَسٌ An instrument with which flesh-meat<br>\
+is pounded. (M, TA.)<br>\
+' } );

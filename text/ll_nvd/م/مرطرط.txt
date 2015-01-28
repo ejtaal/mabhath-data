@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مرطرطمِرِطْرَاطٌ<br>\
+[A sweet food:] i. q.<br>\
+فَالُوذٌ; as also<br>\
+سِرِطْرَاطٌ. (TA in art. زع.)<br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>ببر</em>            1                  ببر<br>\
+<b>بَبْرٌ</b>               1     <br>\
+                     بَبْرٌ<br>\
+                     ببر<br>\
+                     بر<br>\
+                  <i>A certain beast of prey,</i> (M, K,) <i>well known;</i> (K;) <i>a certain animal,</i> (Msb,) namely, the فُرَانِق [or <i>lion&#39;s provider</i>], (S,) <i>that emulates,</i> or <i>vies with, the lion in running,</i> or <i>that is hostile to the lion:</i> [so may be rendered the words يُعَادِى الاَسَدَ; and in the uncertainty that exists respecting the animal in question, the meaning of this expression is doubtful: an animal may be called (as the jackal is) the lion&#39;s provider merely because the lion follows it and deprives it of its prey:] (S, Msb:) or <i>a certain Indian animal, stronger than the lion, between which and the lion and leopard,</i> or <i>panther,</i> (نَمِر,) <i>exists hostility</i> (مُعَادَاةٌ); <i>when it attacks the leopard,</i> or <i>panther,</i> (نمر,), <i>the lion aids the latter; but the scorpion is on friendly terms with it, and sometimes makes its abode in its hair:</i> (Kzw:) the word is foreign, or Persian, (اَعْجَمِىٌّ,) [app. the Persian بَبَرْ, which is said to be applied to the <i>tiger, leopard,</i> and <i>lion,</i>] arabicized: (M, K:) Az thinks it to be a foreign word introduced into the Arabic language: (Msb:) pl. بُبُورٌ. (S, Msb, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>حفش</em>            1                  حفش<br>\
+<b>حَفْشٌ</b>               1     <br>\
+                     حَفْشٌ<br>\
+                     ذ<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>حِفْشٌ</b>               1     <br>\
+                     حِفْشٌ<br>\
+                     ذ<br>\
+                  <i>A receptacle for spindles:</i> (S, K:) <i>a</i> <br>\
+                  سَفَط [or <i>receptacle woven of palm-leaves, in which are stowed perfumes and similar things, of the apparatus of women</i>]; (K; [in the CK, السًّقَطُ is erroneously put for السَّفَطُ;]) <i>a</i> <br>\
+                  سَفَط <br>\
+                  <i>in which perfumes are kept:</i> (TA:) <i>a</i> <br>\
+                  دُرْج, (K,) i. e. a <i>small receptacle of the kind called</i> <br>\
+                  سَفَط, <i>in which a woman keeps her perfumes and apparatus,</i> or <i>implements;</i> (TA in art. درج;) <i>a woman&#39;s</i> <br>\
+                  دُرْج: (Mgh:) pl. as below. (TA.) ―         -b2-  (tropical:)  <i>A small</i> <br>\
+                  بَيْت [or <i>tent</i>]; (A&#39;Obeyd, S, Mgh;) as being likened to a woman&#39;s دُرْج: (Mgh:) or <i>a very small</i> <br>\
+                  بَيْت [or <i>tent</i>], (K, TA,) <i>having a low roof;</i> so called because of its narrowness; and accord. to some, ↓ <br>\
+      حَفْشٌ, and ↓ <br>\
+      حَفَشٌ: (TA:) or <i>a very small</i> <br>\
+                  بيت <br>\
+                  <i>of</i> [<i>goats&#39;</i>] <i>hair,</i> (K, TA,) <i>of the</i> <br>\
+                  بُيُوت [or <i>tents</i>] <i>of the Arabs of the desert:</i> so says Kh: pl. as below. (TA.) It is said in a trad., دَخَلَتْ حِفْشًا, meaning (assumed tropical:)  <i>She entered a small</i> <br>\
+                  بيت [or <i>tent</i>]. (Mgh.) And in another trad., هَلَّا قَعَدَ فِى حِفْشِ <br>\
+                  اُمِّهِ, (S,) or هلَا جَلَسَ الخ, (Mgh,) i. e. (assumed tropical:)  [<i>Wherefore did he not sit</i>] <i>in the small</i> <br>\
+                  بيت <br>\
+                  <i>of his mother?</i> (S, Mgh:) or, accord. to some, the meaning is, عِنْدَ حِفْشِ اُمِّهِ [i. e., <i>by the receptacle for the spindles, &amp;amp;c., of his mother</i>]: (S:) or, as some say, <i>by the</i> <br>\
+                  فَرْج <br>\
+                  <i>of his mother;</i> for (TA) ―         -b3-  It also signifies (assumed tropical:)  The فَرْج [<i>pudendum muliebre</i>]. (K.) ―         -b4-  And <i>Any vessels that are held in little account,</i> (Lth, K, TA,) <i>that are used as receptacles in the house,</i> or <i>tent, for perfumes and the like,</i> (Lth, TA,) <i>such as glass flasks,</i> or <i>bottles, &amp;amp;c.:</i> (Lth, K, TA:) and <i>an old and worn-out thing,</i> (K, TA,) <i>that is of no use:</i> (TA:) and <i>a large, old and worn-out, sack</i> (K, TA) <i>of</i> [<i>goats&#39;</i>] <i>hair:</i> (TA:) pl. (in all the senses of the word, TA) اَحْفَاشٌ (K, TA) and حَفَاشٌ: (TA:) or اَحْفَاشُ البَيْتِ means <i>the furniture and utensils of the house</i> or <i>tent;</i> and <i>the paltry articles thereof,</i> or <i>such as are held in little account.</i> (Aboo-Sinán, K.) ―         -b5-  And اَحْفَاشُ الاَرْضِ means <i>The</i> [<i>lizards called</i>] ضِبَاب, <i>and the hedgehogs,</i> (K, TA,) <i>and the jerboas,</i> (TA,) <i>of the earth:</i> (K, TA:) not the same as اَحْنَاش: so says Aboo-Ziyád. (TA.)    </entryFree> <br>\
+<b>حَفَشٌ</b>               1     <br>\
+                     حَفَشٌ<br>\
+                     ذ<br>\
+                  : see above.   </entryFree> <br>\
+' } );

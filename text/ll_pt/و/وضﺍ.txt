@@ -1,0 +1,79 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وضا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وضا<br>\
+&lt;entryFree id=&quot;n42004&quot; key=&quot;وَضُوَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَضُوَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, K) aor. يَوْضُوُ, inf. n. وَضَا=ءَةٌ; (TA;) and وَضِيَ, aor. يَوْضَاُ; (IO, &amp;amp;c.;) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, fair, beautiful, neat,&lt;/i&gt; or &lt;i&gt;clean.&lt;/i&gt; (S, K.) ―         -b2-  فَوَضَاَهُ ↓ <br>\
+      وَاضَاَهُ, (S, K,) aor. of the latter يَضَاُ, (S,) dev. from rule, by which, as a verb of the class called افعال المغالبة, it should be like يَنْصُرُ, (TA,) &lt;i&gt;He vied with him for the honour of surpassing in fairness,&lt;/i&gt; or &lt;i&gt;comeliness, and prevailed over him therein.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42005&quot; key=&quot;وضّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     وضّاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;He made him,&lt;/i&gt; or &lt;i&gt;assisted him, to perform the ablution termed&lt;/i&gt; <br>\
+                  وُضُوْءً, or وَضُوْء. (M, TA.) [See an ex. voce قِسْطٌ.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     وَاْضَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42006&quot; key=&quot;توضّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     توضّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n., [or rather quasi-inf. n., used for the regular inf. n. تَوَضُّوٌ,] وُضُوْءٌ, or وَضُوْءٌ, or both, [see these two nouns below,] from وَضَا=ءَةٌ, (lit., &lt;i&gt;He made himself fair, beautiful, neat,&lt;/i&gt; or &lt;i&gt;clean:&lt;/i&gt; TA:) &lt;i&gt;He performed ablution,&lt;/i&gt; <br>\
+                  لِلْصَّلَاةِ <br>\
+                  &lt;i&gt;for,&lt;/i&gt; or &lt;i&gt;preparatory to, prayer.&lt;/i&gt; (S, K.) ―         -b2-  It sometimes signifies &lt;i&gt;He washed some one&lt;/i&gt; or &lt;i&gt;more of his members: he purified his hand,&lt;/i&gt; or &lt;i&gt;hands, and mouth, by washing, from the foul smell of fat,&lt;/i&gt; or &lt;i&gt;greasy, food: he washed his hand.&lt;/i&gt; ―         -b3-  Some say تَوَضَّيْتُ [for تَوَضَّاْتُ]; but this should not be said: (S:) it is of weak authority, or is viciously so pronounced: (K:) it is said to be of the dial, of Hudheyl. (TA.) ―         -b4-  توضّا, and توضّات, &lt;i&gt;He&lt;/i&gt; (a youth), &lt;i&gt;and she&lt;/i&gt; (a girl), &lt;i&gt;arrived at the age of puberty.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42007&quot; key=&quot;اـِضَاءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِضَاءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see وَضِىْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42008&quot; key=&quot;وَضُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَضُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see وُضُوْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42009&quot; key=&quot;وُضُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وُضُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; signifies The &lt;i&gt;act of ablution, &amp;amp;c.&lt;/i&gt; (S, K) (see 5); and ↓ <br>\
+      وَضُوْءٌ, the &lt;i&gt;water with which that act is performed,&lt;/i&gt; or the &lt;i&gt;water that is prepared for that act,&lt;/i&gt; (S, K, TA,) and is said to be also an inf. n., [or rather a quasi-inf. n., signifying the &lt;i&gt;act itself&lt;/i&gt;]: (S, K:) or they are syn. words of two different dialects, each sometimes used as an inf. n., signifying the &lt;i&gt;act,&lt;/i&gt; (though inf. ns. of the measure فَعُولٌ deviate from constant rule, TA,) and each sometimes as signifying the &lt;i&gt;water.&lt;/i&gt; (S, K, TA.) AA says, that ↓ <br>\
+      وَضُوْءٌ signifies “ the water with which one performs the ablution above mentioned; ” and he knew not وُضُوْءٌ [though it occurs in many traditions]: and A &#39;Obeyd disallows وَضُوْءٌ, and allows only ↓ <br>\
+      وَضُوْءٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42010&quot; key=&quot;وَضِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَضِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) pl. اَوْضِيَا=ءُ and وِضَا=ءٌ; (K;) and ↓ <br>\
+      وُضَّا=ءٌ, [S, K; in the CK, erroneously, وُضَّا=ءٍ;] &lt;pb n=&quot;2946&quot; TEIform=&quot;pb&quot;/&gt; pl. وُضَّاوُونَ and وَضَاضِيُ; (K;) and ↓ <br>\
+      وَاضِيٌ, (K,) which is used in the future sense, accord. to Lh, [like an act. part. n., though from a neut. verb,] as in the ex. [mentioned in the K] مَاهو <br>\
+                  بِوَاضِيٍ; وَضِىْءٌ being used in the present sense; (TA;) &lt;i&gt;Fair, beautiful, neat,&lt;/i&gt; or &lt;i&gt;clean.&lt;/i&gt; (S, K.) ―         -b2-  In the following of En-Nábighah, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَهُنَّ اـِضَا=ءٌ صَافِيَاتُ الغَلَايِلِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And they are fair, beautiful, neat,&lt;/i&gt; or &lt;i&gt;clean; unsullied as to their inner garments&lt;/i&gt;], ↓ <br>\
+      اـِضَا=ءٌ may be put for وِضَا=ءٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42011&quot; key=&quot;وَضَا=ءَة&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَضَا=ءَة<br>\
+                     ذ<br>\
+                  &lt;i&gt;Fairness, beauty, neatness,&lt;/i&gt; or &lt;i&gt;cleanness.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42012&quot; key=&quot;وُضَّا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وُضَّا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and وَاضِيٌ: see وَضيءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42013&quot; key=&quot;اَوْضَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوْضَاُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Fairer, neater,&lt;/i&gt; or &lt;i&gt;cleaner.&lt;/i&gt; (TA, from a trad.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42014&quot; key=&quot;مِيضَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيضَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and, sometimes, ↓ <br>\
+      مِيضَا=ءَة, &lt;i&gt;A place in which, and from which, one performs the ablution termed&lt;/i&gt; <br>\
+                  وضوء; (K;) [as also ↓ <br>\
+      مُتُوَضَّاٌ:] &lt;i&gt;a&lt;/i&gt; <br>\
+                  مِطْهَرَة (K: in the CK, مَطْهَرَة), meaning &lt;i&gt;that from which,&lt;/i&gt; or &lt;i&gt;in which, one performs the said ablution:&lt;/i&gt; (TA:) [&lt;i&gt;a tank for ablution,&lt;/i&gt; accord. to present usage].    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42015&quot; key=&quot;ميضَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ميضَا=ءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42016&quot; key=&quot;مُتَوَضَّاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَوَضَّاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مِيضَاَةٌ. &lt;i&gt;A privy;&lt;/i&gt; or &lt;i&gt;place where one performs ablution.&lt;/i&gt; (K, TA, voce مَذْهَب, &amp;amp;c.)   &lt;/entryFree&gt; <br>\
+' } );

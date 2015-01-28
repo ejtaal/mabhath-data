@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>سين</em>            1                  سين<br>\
+<b>سِينٌ</b>               1     <br>\
+                     سِينٌ<br>\
+                     ذ<br>\
+                  <i>One of the letters of the alphabet:</i> (S, M, L, K:) [i. e., the <i>name of that letter:</i> (see art. س:)] of the masc. gender as being supposed to be a حَرْف [or letter], and fem. as being supposed to be a كَلِمَة [or word]. (L.) The saying فُلَانٌ <br>\
+                  لَا يَحْسِنُ سِنَهُ means <i>Such a one will not form well</i> one of the three شُعَب [i. e. teeth, or cusps,] of <i>his</i> <br>\
+                  س. (S, L.)    </entryFree> <br>\
+<b>سِينَا=ءُ</b>               1     <br>\
+                     سِينَا=ءُ<br>\
+                     ذ<br>\
+                  <i>Certain stones,</i> (M, L, K,) so says Zj, (M, L,) <i>well-known:</i> (K:) whence the name of a certain mountain in Syria. (M, L.)    </entryFree> <br>\
+<b>سِينِيَّةٌ</b>               1     <br>\
+                     سِينِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>A certain tree;</i> (M, L, K;) mentioned by AHn on the authority of Akh: (M, L:) pl. سِينِينٌ. (M, L, K.)   </entryFree> <br>\
+' } );

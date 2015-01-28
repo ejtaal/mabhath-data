@@ -1,0 +1,35 @@
+load_data( { book: 'll_nvd', text: 'شوذ2<br>\
+شَوَّذَ السَّحَابُ الشَّمْسَ The clouds covered the<br>\
+sun, (K,) as though it were turbaned with a dustcoloured haze inclining to yellow; as is the case<br>\
+in a year of drought; i. e. (T, L) thin clouds containing no water surrounding it, (T, L, K,) having<br>\
+the hue above described. (T, L.) ―<br>\
+-b2-  شَوَّذَت الشَّمْسُ<br>\
+[thus in the L and K, not شُوِّذَت nor تَشَوَّذَت,]<br>\
+The sun inclined to setting, (T, L, K,) and became<br>\
+covered with such clouds [as those above described]:<br>\
+(T, L:) became turbaned with clouds. (AHn, L.)<br>\
+―<br>\
+-b3-  شَوَّذَهُ, (inf. n. تَشْوِيذٌ, L,) (assumed tropical:)  He turbaned him;<br>\
+attired him with a turban: (AZ, T, L, K:) app.<br>\
+from شوّذت الشمس. (T, L.) And شوّذ رَأْسَهُ (assumed tropical:)  He<br>\
+turbaned his head. (Msb.)<br>\
+5<br>\
+تشوّذ and ↓ اشتاذ (assumed tropical:)  He turbaned himself;<br>\
+attired himself with a turban. (AZ, T, S, L, K.)<br>\
+[See above.]<br>\
+8<br>\
+إِشْتَوَذَ see what next precedes.<br>\
+فُلَانٌ حَسَنُ الشِّيذَةِ (assumed tropical:)  Such a one is goodly in his<br>\
+manner of turbaning. (K.)<br>\
+خَيْرُ الأَشَاوِذِ (assumed tropical:)  The best of the creation, or of<br>\
+mankind, or people; syn. خَيْرُ الخَلْقِ. (K.)<br>\
+مِشْوَذٌ (assumed tropical:)  A turban; (IAar, S, Mgh, L, Msb, K;)<br>\
+as also ↓ مِشْوَاذٌ: (K:) pl. of the former مَشَاوِذُ;<br>\
+(S, Mgh, L, Msb, K;) and of the latter مَشَاوِيذُ.<br>\
+(K.) ―<br>\
+-b2-  (assumed tropical:)  A king: (K:) a crowned king. (TA.)<br>\
+―<br>\
+-b3-  (assumed tropical:)  A lord, or chief, (K,) to whom obedience is<br>\
+paid. (TA.)<br>\
+مِشْوَاذٌ: see the next preceding paragraph.<br>\
+' } );

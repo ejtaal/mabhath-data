@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مجح</em>            1                  مجح<br>\
+<b>تَمَجَّحَ</b>               1     <br>\
+                     تَمَجَّحَ<br>\
+                     ذ<br>\
+                  : see تَبَجَّحَ in art. بجح.   </entryFree> <br>\
+' } );

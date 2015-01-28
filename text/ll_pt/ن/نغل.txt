@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نغل</em>            1                  نغل<br>\
+<b>نَغِلٌ</b>               1     <br>\
+                     نَغِلٌ<br>\
+                     ذ<br>\
+                   [in the CK نَغْلٌ] A hide <i>vitiated,</i> or <i>rendered unsound,</i> (S, K,) in the tanning. (K.)    </entryFree> <br>\
+<b>اـِبْنُ نَغِيلَةٍ</b>               1     <br>\
+                     اـِبْنُ نَغِيلَةٍ<br>\
+                     ذ<br>\
+                  <i>The son of a female slave.</i> (T in art. بنى.)   </entryFree> <br>\
+' } );

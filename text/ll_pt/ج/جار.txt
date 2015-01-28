@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>جار</em>            1                  جار<br>\
+<b>جَاَرَ</b>               1     <br>\
+                     جَاَرَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     جَاََ<br>\
+                  , inf. n. جُوَارٌ (S, A, K) and جَاْر (K,) <i>He,</i> (a bull, S and K, or a calf, A,) and جَاْرَتْ <br>\
+                  <i>she,</i> (a cow, K,) <i>lowed.</i> (S, A, K.) جُوَارٌ is like خُوَارٌ; and is substituted for the latter in a reading of the Kur vii. 146 and xx. 90. (Akh, S.) ―         -b2-  Also, (S, A, K,) inf. ns. as above, (K,) <i>He</i> (a man praying, A and TA) <i>raised his voice in prayer,</i> or <i>supplication:</i> (Th, K:) <i>he cried out:</i> (Es-Suddee, TA:) <i>he cried out, calling for aid,</i> or <i>succour; humbled,</i> or <i>abased, himself, and raised his voice:</i> (A:) <i>he humbled,</i> or <i>abased, himself, with earnest supplication;</i> (S, K;) اِلَى اْللّٰهِ <br>\
+                   to God; (S;) <i>and cried out,</i> or <i>called, for aid,</i> or <i>succour.</i> (K.) [Accord. to Katádeh, يَجْاَرُونَ in the Kur xxiii. 66 signifies يَخْرَعُونَ, as written in the TA; but this is app. a mistranscription for يَجْزَعُونَ, <i>They manifest grief and agitation;</i> &amp;amp;c.] ―         -b3-  Also (tropical:)  <i>It</i> (a plant) <i>grew tall;</i> (A, K;) like as one says, صَاحَتِ الشَّجَرَةُ. (A.) And جَاَرَتِ الاَرْضُ (tropical:)  <i>The plants,</i> or <i>herbage, of the land grew tall.</i> (A, K.)    </entryFree> <br>\
+<b>جَاْرٌ</b>               1     <br>\
+                     جَاْرٌ<br>\
+                     ذ<br>\
+                  , applied to herbage, (Az, A, K,) (tropical:)  <i>Fresh, juicy,</i> or <i>sappy:</i> (K, * TA:) or <i>tall, and fullgrown:</i> (Az, TA:) and <i>abundant.</i> (A, K.) ―         -b2-  غَيْثٌ جَاْرٌ, (K,) and ↓ <br>\
+      جُوَرٌ, (As, S, A, K,) and, accord. to As, ↓ <br>\
+      جُوَارٌ, (TA voce جَوَرٌّ,) as also جِوَرٌّ, (K,) (tropical:)  <i>A copious rain;</i> (As, S, A, K;) <i>that makes the plants,</i> or <i>herbage, to grow tall:</i> (A:) or the second, <i>a rain that makes a sound,</i> or <i>noise.</i> (TA.)    </entryFree> <br>\
+<b>جُوّرٌ</b>               1     <br>\
+                     جُوّرٌ<br>\
+                     ذ<br>\
+                  : see جَاْرٌ.    </entryFree> <br>\
+<b>جُوَارٌ</b>               1     <br>\
+                     جُوَارٌ<br>\
+                     ذ<br>\
+                  : see جَاْرٌ.    </entryFree> <br>\
+<b>هُوَ جَاّرٌ بِاللَّيْلِ</b>               1     <br>\
+                     هُوَ جَاّرٌ بِاللَّيْلِ<br>\
+                     ذ<br>\
+                   [<i>He is one who cries out, calling for aid,</i> or <i>succour; who humbles,</i> or <i>abases, himself, and raises his voice; much,</i> or <i>often, by night</i>]. (A, TA.)   </entryFree> <br>\
+' } );

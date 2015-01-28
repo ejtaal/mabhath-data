@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>فوح</em>            1                  فوح<br>\
+<b>فَاحَ المِسْكُ</b>               1     <br>\
+                     فَاحَ المِسْكُ<br>\
+                     ذ<br>\
+                  , (Msb, K,) aor. يَفُوحُ and يَفِيحُ; (Msb;) or فَاحَتْ رِيحُ المِسْكِ, aor. تَفُوحُ and تَفِيحُ; (S;) inf. n. فَوْحٌ (S, Msb, K) and فُوُوحٌ and فَوَحَانُ, (S, K,) and فَيْحٌ (S, Msb, K) and فَيَحَانٌ; (S, K;) <i>The musk diffused</i> [or <i>exhaled</i>] <i>its odour;</i> (Msb, K;) or <i>the odour of the musk diffused itself</i> [or <i>became exhaled</i>]; and فاح الطِّيبُ <br>\
+                  <i>the perfume diffused</i> [or <i>exhaled</i>] <i>its odour;</i> (S;) or this last signifies <i>the perfume became perceptible;</i> or <i>it clung and remained;</i> [in a garment or person;] syn. عَبِقَ: (Msb in art. فيح:) the verb is not used in relation to a foul, or disagreeable odour or thing: (S, A, Msb, K:) of such an odour one says هَبَّتْ: (Msb:) or the former verb is common to both: (K:) but this assertion is outweighed [by the other]: (TA:) فَوْخٌ signifies the <i>giving forth,</i> and <i>exhaling, a sweet,</i> or <i>pleasant, odour:</i> (KL:) and the <i>perceiving such an odour:</i> Fr says that فَاحَتْ رِيحُهُ and فَاخَتْ are syn.; but AZ says the فَوْخٌ is attended by sound. (TA.) ―         -b2-  For other significations of this verb, see art. فيح.    </entryFree> <br>\
+<b>افاح</b>               1     <br>\
+                     افاح<br>\
+                     ذ<br>\
+                  : for this verb, see art. فيح.    </entryFree> <br>\
+               <entryFree id=&quot;n34775&quot;<br>\
+                          key=&quot;nazalonaA fiY busotaAnK tanaAwaHato AaToyaAruhu watafaAwaHato AanowaAruhu&quot;<br>\
+                          type=&quot;main&quot;>     <br>\
+                     نَزَلْنَا فِى بُسْتَانٍ تَنَاوَحَتْ اَطْيَارُهُ وَتَفَاوَحَتْ اَنْوَارُهُ<br>\
+                     ذ<br>\
+                   [<i>We alighted in a garden the birds of which warbled plaintively, one to another, and the flowers of which exhaled sweet odours, one with another</i>]. (A.)    </entryFree> <br>\
+<b>فَوْحٌ الحَيْضِ</b>               1     <br>\
+                     فَوْحٌ الحَيْضِ<br>\
+                     ذ<br>\
+                  <i>The chief and first portion of the menstrual discharge.</i> (L.)    </entryFree> <br>\
+<b>فَوْحَةٌ</b>               1     <br>\
+                     فَوْحَةٌ<br>\
+                     ذ<br>\
+                   [<i>A spreading,</i> or <i>an exhalation</i>], of perfume. (TA in art. عصر.)   </entryFree> <br>\
+' } );

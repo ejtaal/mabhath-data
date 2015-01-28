@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>لون</em>            1                  لون<br>\
+<b>لَوَّنَ</b>               1     <br>\
+                     لَوَّنَ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> ↓ <br>\
+      تَلَوَّنَ <br>\
+                  <i>It became coloured.</i> (M.) ―         -b2-  <i>It</i> (a palm-tree) <i>had dates which had become coloured.</i> (T.) ―         -b3-  لَوَّنَ فِى الكَلَامِ [<i>He varied in speech</i>]. (Sgh, K, voce تَمَطَّطَ.)    </entryFree> <br>\
+<b>تَلَوَّنَ</b>               1     <br>\
+                     تَلَوَّنَ<br>\
+                     ذ<br>\
+                  <i>It became coloured.</i> (MA, KL.) See 1.  ―         -b2-  <i>It became variegated,</i> or <i>diversified in colour.</i> ―         -b3-  And hence, (see تغّول,) <i>It varied in state,</i> or <i>condition; it was,</i> or <i>became, variable therein. He assumed various forms,</i> or <i>appearances.</i> ―         -b4-  تَلَوَّنَ فُلَانٌ <br>\
+                  <i>Such a one varied in disposition.</i> (Msb.)    </entryFree> <br>\
+<b>لَوْنٌ</b>               1     <br>\
+                     لَوْنٌ<br>\
+                     ذ<br>\
+                  <i>Colour:</i> (S, Msb, K:) <i>distinctive quality</i> or <i>property:</i> (M, K:) <i>sort,</i> or <i>species:</i> (S, K:) <i>mood, disposition,</i> or <i>character.</i>    <br>\
+<b>اَلْوَانُ الاَطْعِمَةِ</b>               1     <br>\
+                     اَلْوَانُ الاَطْعِمَةِ<br>\
+                     ذ<br>\
+                   [<i>Sorts,</i> or <i>species, of viands</i>]. (S in art. باج.)    </entryFree> <br>\
+<b>مُتَلَوِّنٌ</b>               1     <br>\
+                     مُتَلَوِّنٌ<br>\
+                     ذ<br>\
+                  <i>Varying,</i> or <i>variable, in dispositions.</i> ―         -b2-  <i>Unsteady in disposition.</i> (K.)   </entryFree> <br>\
+' } );

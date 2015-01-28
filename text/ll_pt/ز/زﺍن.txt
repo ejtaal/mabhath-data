@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;زان&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  زان<br>\
+&lt;entryFree id=&quot;n17329&quot; key=&quot;زِيْنِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     زِيْنِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, applied to a dog, &lt;i&gt;Short:&lt;/i&gt; (S, K:) one should not say صِينِىٌّ. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17330&quot; key=&quot;زُوَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     زُوَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, M, Msb, K) and زُوَانٌ (M, Msb) and زِيَانٌ (M, K) and زِوَانٌ (M, Msb) and زَا=نٌ (K) and زَوَانٌ, (K in art. زون, q. v.,) but the like of سَحَابٌ is said by ISd to be a form not seen by him on the authority of anyone, (TA,) [&lt;i&gt;A noxious weed, that grows among wheat;&lt;/i&gt; app. &lt;i&gt;darnel-grass;&lt;/i&gt; the &lt;i&gt;lolium temulentum&lt;/i&gt; of Linn.; so in the present day;] &lt;i&gt;a certain grain,&lt;/i&gt; (Msb,) the &lt;i&gt;bitter grain,&lt;/i&gt; (M,) &lt;i&gt;that mingles with wheat,&lt;/i&gt; (S, M, Msb, K,) &lt;i&gt;and gives a bad quality to it:&lt;/i&gt; (Msb:) [&lt;i&gt;the grain thus called is often, accidentally,&lt;/i&gt; or &lt;i&gt;carelessly, mixed with wheat, and causes giddiness: the plant resembles that now called&lt;/i&gt; <br>\
+                  شَيْلَم, &lt;i&gt;a decoction of which is used as an anæsthetic:&lt;/i&gt; it is said in the K in art. شلم that the زوان is the same as the شَيْلَم: but it is said in the TA in that art., on the authority of AHn, that the grain of the شَيْلَم does not intoxicate, (as that of darnel-grass is well known to do in a certain manner,) and that it is very bitter: and in the K in art. دنق it is said that the دَنْقَة is the زُوَان, and the دَنَقَة is the شَيْلَم: the TA states more fully in that art. that the دَنْقَة is said by AHn to be the زُوَان that is in wheat, which is cleared therefrom; and that the دَنَقَة is said by AA to be the شَيْلَم: Forskål mentions the زِوَان and the شَيْلَم, as different species, among undetermined plants, and describes the former thus: &lt;i&gt;zizania&lt;/i&gt; Aleppensibus notissima: inter triticum viget: si semina restant farinæ [sic] mixta, hominem reddunt ex panis esu temulentum: messores plantam non separant; sed post triturationem vanni aut cribri ope semina rejiciunt: (Flora Aegypt. Arab. p. 199:)] the n. un. is with ة. (Msb.) &lt;pb n=&quot;1208&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n17331&quot; key=&quot;اَزْاَنِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزْاَنِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17332&quot; key=&quot;يَزْاَنِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَزْاَنِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اَزْاَنِىٌّ, applied as epithets to a spear, are dial. vars. of يَزَنِىٌّ (K, TA) and اَزَنِىٌّ: (TA:) spears being thus called in relation to ذُو يَزَنٍ, one of the Kings of Himyer: (S in art. يزن:) as also ا=زَنِىٌّ and اَيْزَنِىٌّ, both formed by transposition. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

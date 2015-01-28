@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>جو</em>            1                  جو<br>\
+<b>جَوٌّ</b>               1     <br>\
+                     جَوٌّ<br>\
+                     جو<br>\
+                   The <i>air:</i> (K:) or [the <i>atmosphere;</i> i. e.] <i>what is between the heaven,</i> or <i>sky, and the earth;</i> (S, Mgh;) the <i>air</i> [or the <i>region</i>] <i>between the heaven,</i> or <i>sky, and the earth:</i> pl. اَجْوَا=ءٌ. (TA.) فِى جَوِّ السَّمَا=ءِ, in the Kur [xvi. 81], means <i>In the air between the heaven,</i> or <i>sky, and the earth:</i> (Jel:) or <i>in the middle of the sky:</i> (Katádeh, TA:) or <i>in the air that is remote from the earth.</i> (Bd.) ―         -b2-  <i>A low,</i> or <i>depressed, part of the ground;</i> (M, K;) as also ↓ <br>\
+      جَوَّةٌ: (K:) or <i>a wide part of a valley:</i> (S, Msb:) pl. (in the latter sense, Msb, or in the former, K, TA) جِوَا=ءٌ (Msb, K) and [of pauc.] اَجْوِيَةٌ. (TA.) It has the latter meaning in the saying of Tarafeh, [addressing a lark,] <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        خَلَا لَكِ الجَوُّ فَبِيضِى وَاْصْفِرِى<br>\
+                  </quote> [<i>The wide part of the valley has become vacant for thee; so lay thine eggs, and whistle</i>]. (AA, S.) Az says, I entered, with an Arab of the desert, a [hollow place in which water collected, termed a] دَحْل, in El-Khalsà, and when we came to the water, he said, هٰذَا جَوٌّ مِنَ المَاءِ لَا يُوقَفُ <br>\
+                  عَلَى اَقْصَاهُ [<i>This is an abyss of water: one knows not the utmost extent of it</i>]. (TA.) ―         -b3-  <i>A vacant, void,</i> or <i>desolate, place, in which is no one to cheer by his company.</i> (Ham p. 293.) ―         -b4-  The <i>inside,</i> or <i>interior,</i> of a house or tent; (K;) and of anything; of the dial. of Syria; also termed ↓ <br>\
+      جَوَّةٌ, (TA,) and ↓ <br>\
+      جَوَّانِىٌّ; (K; [in the CK  <br>\
+                  ا is erroneously put for ن;]) in which last, the ا and اُرِيدُ جَوًّا وَيُرِيدُ بَرًّا are augmentatives for the purpose of corroboration. (TA.) ―         -b5-  [Hence,] جَوَّةٌ <br>\
+                  <i>I desire concealment,</i> or <i>secrecy, and he desires publicity.</i> (A in art. بر.)    </entryFree> <br>\
+<b>جَوَّةٌ</b>               1     <br>\
+                     جَوَّةٌ<br>\
+                     جو<br>\
+                     جوه<br>\
+                     جوة<br>\
+                  : see جَوٌّ, in two places.    </entryFree> <br>\
+<b>جَوَّانِىٌّ</b>               1     <br>\
+                     جَوَّانِىٌّ<br>\
+                     جوانى<br>\
+                     جواني<br>\
+                  : see جَوٌّ. Hence the saying of Selmán, مَنْ اَصْلَحَ جَوَّانِيَّهُ اَصْلَحَ اْللّٰهُ بَرَّانِيَّهُ [explained in art. بر]. (TA.) [It generally signifies <i>Inner, inward,</i> or <i>interior;</i> and <i>secret,</i> or <i>private;</i> opposed to بَرَّانِىٌّ; and is now vulgarly pronounced جُوَّانِىْ.] It is a rel. n. [irregularly formed] from جَوٌّ signifying “ any low, or depressed, part of the ground. ” (T in art. بر.)   </entryFree> <br>\
+' } );

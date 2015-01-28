@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ومتشَىْءٌ مَوْمُوتٌ A thing that is known, and<br>\
+decided, or determined; syn. مَعْرُوفٌ مُقَدَّرٌ. (K.)<br>\
+' } );

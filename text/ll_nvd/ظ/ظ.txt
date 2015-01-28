@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'ظalphabetical letter<br>\
+ظ<br>\
+The seventeenth letter of the alphabet: called ظَآءٌ<br>\
+[and ظَا]. (TA.) It is a letter peculiar to the<br>\
+Arabic language; and is one of the letters termed<br>\
+مَجْهُورَة [or vocal, i. e. pronounced with the voice,<br>\
+not with the breath only]; and of the letters<br>\
+termed لِثَوِيَّة [or gingival], like ث and ذ. (TA.)<br>\
+As it does not exist in the language of the<br>\
+Nabathæans, they change it into ط. (IF, TA.)<br>\
+[It is substituted for the ت in the measure اِفْتَعَلَ<br>\
+and the forms inflected therefrom when immediately following ظ; as in اِظَّلَمَ, for اِظْظَلَمَ, for<br>\
+اِظْتَلَمَ:] and it is substituted for ذ; as in تَرَكْتُهُ<br>\
+وَقِيذًا and وَقِيظًا; as is related on the authorities<br>\
+of ISk and Kr; and as in أَرْضٌ جِلْذَآءٌ and جِلْظَآءٌ,<br>\
+as is mentioned in the Nawádir el-Aaráb. (TA.)<br>\
+-A2-  [As a numeral, it denotes Nine hundred.]<br>\
+' } );

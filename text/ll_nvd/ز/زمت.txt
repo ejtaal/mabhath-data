@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'زمت1<br>\
+زَمُتَ, aor.<br>\
+زَمُتَ, inf. n. زَمَاتَهُ, He was, or became,<br>\
+grave, staid, steady, sedate, or calm. (A, K.)<br>\
+5<br>\
+تزمّت i. q. تَوَقَّرَ [He showed, exhibited, or<br>\
+manifested, gravity, staidness, steadiness, sedateness, or calmness; or he endeavoured, or constrained himself, to be grave, staid, &amp;c.]. (A.)<br>\
+One says, مَا أَشَدَّ تَزَمُّتَهُ [How great is his show of<br>\
+gravity, &amp;c.! or his endeavour, or constraint of<br>\
+himself, to be grave, &amp;c.!]. (Fr, S.)<br>\
+زَمِيتٌ Grave, staid, steady, sedate, or calm,<br>\
+(IAar, S, A, K, TA,) in his sitting-place: (IAar,<br>\
+TA:) pl. رُمَتَآءُ, (A,) or زمت [app. زُمْتٌ or زُمُتٌ,<br>\
+if not a mistranscription for زُمَتَآءُ, which I rather<br>\
+think it to be]. (TA.)<br>\
+زِمِّيتٌ Very grave, staid, steady, sedate, or<br>\
+calm: (S, K, TA:) forbearing, or clement; quiet;<br>\
+of few words; like صِمِّيتٌ: or, as some say,<br>\
+silent. (TA.)<br>\
+فُلَانٌ أَزْمَتُ النَّاسِ Such a one is the most grave,<br>\
+staid, steady, sedate, or calm, of men. (S.)<br>\
+' } );

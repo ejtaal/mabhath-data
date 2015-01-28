@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'نوطالنَّوْطَةُ<br>\
+The crop of a bird: see الجِرِّيْئَةُ.<br>\
+نوّاطة<br>\
+The same as<br>\
+نُوَّاعَةٌ. See رُجَّاحَةٌ.<br>\
+' } );

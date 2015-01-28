@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;ش&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>$</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;ش&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>ش</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     ش<br>\
+                     ذ<br>\
+                  <i>The thirteenth letter of the alphabet:</i> called شِينٌ. It is one of the letters termed مَهْمُوسَة [or non-vocal, i. e. pronounced with the breath only, without the voice]; and of the letters termed شَجْرِيَّة, (TA,) from الشَّجْرُ, which means “ the place of the opening of the mouth. ” (TA on the letter ج. See also شِيْنٌ in art. شين.) It is sometimes substituted for the affixed pronoun of the second pers. fem., كِ; as in رَاَيْتُشِ for رَاَيْتُكِ, and as in the following verse, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَعَيْنَاشِ عَيْنَاهَا وَجِيدُشِ جِيدُهَا<br>\
+                     <L><br>\
+                        وَلٰكِنَّ السَّاقِ مِنْشِ رَقِيقُ<br>\
+                  </quote> [<i>And thy two eyes are her two eyes, and thy neck is her neck; but the bone of thy shank is slender</i>]; i. e. عَيْنَاكَ and جِيْدُكِ and مِنْكِ: this substitution for the affixed pronoun of the second pers. fem. is of dial. of Benoo-&#39;Amr and Temeem; and is not restricted to cases of pausation, as is shown by the verse above cited, though some assert it to be so: it is also substituted for the ك of دِيك, when with kesr, so that they said دِيشٍ: also for جٍ, as in مُدَمَّشٌ[or مُدْمَشٌ], for مُدَمَّجٌ [or مُدْمَجٌ]: and for س, as in جَعْشُوشٌ, for جَعْسُوسٌ. (MF. [See also De Sacy&#39;s Chrest, Arabe, sec. ed., iii. 530-31.])       -A2-  [As a numeral, it denotes <i>Three hundred.</i>]   </entryFree> <br>\
+' } );

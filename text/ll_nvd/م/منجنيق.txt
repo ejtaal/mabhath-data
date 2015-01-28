@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'منجنيق[<br>\
+مَنْجَنِيقٌ, as described in art. جنق (q. v.),<br>\
+seems to be the engine called by the Romans<br>\
+Onager: see Kitto&#39;s Pict. Bible, ii. 499: but<br>\
+was probably applied also to the balista.]<br>\
+' } );

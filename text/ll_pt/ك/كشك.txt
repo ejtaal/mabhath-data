@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كشك</em>            1                  كشك<br>\
+<b>كَشْكٌ</b>               1     <br>\
+                     كَشْكٌ<br>\
+                     ذ<br>\
+                  <i>Barley-water:</i> (K:) or <i>pounded wheat</i> or <i>barley:</i> a Persian word, arabicized. (Mgh.) Hence, كَشْكِيَّةٌ <br>\
+                  <i>A kind of broth.</i> (Mgh.)   </entryFree> <br>\
+' } );

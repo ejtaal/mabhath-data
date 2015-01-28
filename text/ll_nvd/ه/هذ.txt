@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'هذ1<br>\
+هَذَّ بِسَلْحِهِ<br>\
+He ejected his excrement. (TA,<br>\
+art. تر.)<br>\
+' } );

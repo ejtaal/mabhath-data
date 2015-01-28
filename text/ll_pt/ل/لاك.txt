@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>لاك</em>            1                  لاك<br>\
+<b>لَاَكَ</b>               1     <br>\
+                     لَاَكَ<br>\
+                     ذ<br>\
+                  <i>He sent.</i> (Msb in art. الك.) ―         -b2-  اَلِكْنِى <br>\
+                  اـِلَيْهِ; and اَلَكْتُهُ: see art. الك.    </entryFree> <br>\
+<b>اِسْتَلْاَكَ</b>               1     <br>\
+                     اِسْتَلْاَكَ<br>\
+                     ذ<br>\
+                  : see استالك.    </entryFree> <br>\
+<b>مَلْاَكٌ</b>               1     <br>\
+                     مَلْاَكٌ<br>\
+                     ذ<br>\
+                  : see مَاْلَكٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>شفرج</em>            1                  شفرج<br>\
+<b>شُفَارِجٌ</b>               1     <br>\
+                     شُفَارِجٌ<br>\
+                     ذ<br>\
+                  <i>A tray</i> (طَبَقٌ) <i>on which are small saucers,</i> or <i>cups,</i> <br>\
+                  فَيْخَات and سُكُرَّجَات: (O, K:) a Pers. word, (S, O,) arabicized; (S, O, K;) from بِيشْبَارَجْ or بِيشْبَارِجْ (K, TA) or بِيشَارَجْ; (as in some copies of the K;) or what people call بِيشْبَارَِجْ: (Yaakoob, S:) [i. e. پِيشْ پَارْ or پِيشْ پَارَهْ, “ pésh pár, ” and “ pésh párah, ” meaning “ sweetmeats presented to a guest: ”] accord. to ElJawáleekee, it signifies <i>different kinds of flesh-meat in</i> <br>\
+                  طبايخ: [but what this means I know not: I suppose it to be a corruption of some word signifying saucers or the like:] in the “ Kitáb el-Moheet, ” شَفَارِيجُ is said to be pl. of شُفَارِجٌ, signifying <i>a kind of food.</i> (TA.)   </entryFree> <br>\
+' } );

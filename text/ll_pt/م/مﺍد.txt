@@ -1,0 +1,61 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ماد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ماد<br>\
+&lt;entryFree id=&quot;n38182&quot; key=&quot;مَاَدَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     مَاَدَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     مَاََ<br>\
+                  &lt;/form&gt;, (S, L, K,) inf. n. مَاْدٌ, (S, L,) &lt;i&gt;It&lt;/i&gt; (a plant, L, K, and a tree, L, and a branch, S, L) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, flourishing and fresh, and soft, tender, and supple:&lt;/i&gt; (L:) or &lt;i&gt;it quivered, shook,&lt;/i&gt; or &lt;i&gt;played loosely, and was,&lt;/i&gt; or &lt;i&gt;became, succulent,&lt;/i&gt; or &lt;i&gt;sappy,&lt;/i&gt; (L, K,) &lt;i&gt;and flourishing and fresh, and soft, tender, and supple:&lt;/i&gt; (K:) &lt;i&gt;it&lt;/i&gt; (a branch or twig) &lt;i&gt;became filled with its first sap:&lt;/i&gt; and مَوُدَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     مَاَُ<br>\
+                  &lt;/form&gt;, &lt;i&gt;it&lt;/i&gt; (a plant) &lt;i&gt;became succulent,&lt;/i&gt; or &lt;i&gt;sappy.&lt;/i&gt; (L.) يَمْاَدُ مَاْدًا حَسَنًا <br>\
+                  &lt;i&gt;It&lt;/i&gt; (a branch) &lt;i&gt;is&lt;/i&gt; [&lt;i&gt;beautifully&lt;/i&gt;] &lt;i&gt;soft, tender, and supple, and quivering.&lt;/i&gt; (S, L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38183&quot; key=&quot;اماد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اماد<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (the imbibing of moisture, L, K, and the [rain or season called] رَبِيع, and the like, L) &lt;i&gt;caused&lt;/i&gt; a plant [or tree or branch] &lt;i&gt;to become flourishing and fresh, and soft, tender, and supple:&lt;/i&gt; (L:) or &lt;i&gt;to quiver, shake,&lt;/i&gt; or &lt;i&gt;play loosely, and to become succulent,&lt;/i&gt; or &lt;i&gt;sappy,&lt;/i&gt; (L, K,) &lt;i&gt;and flourishing and fresh, and soft, tender, and supple.&lt;/i&gt; (K).    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38184&quot; key=&quot;امتاد خَيْرًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     امتاد خَيْرًا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He gained,&lt;/i&gt; or &lt;i&gt;acquired, good,&lt;/i&gt; or &lt;i&gt;prosperity.&lt;/i&gt; (S, L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38185&quot; key=&quot;مَاْدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      يَمْوُودٌ A [plant or tree or] branch [&lt;i&gt;flourishing and fresh, and soft, tender, and supple:&lt;/i&gt; see 1: or] &lt;i&gt;quivering, shaking,&lt;/i&gt; or &lt;i&gt;playing loosely, and succulent,&lt;/i&gt; or &lt;i&gt;sappy, flourishing and fresh, and soft, tender, and supple:&lt;/i&gt; (K:) or a plant [or tree] or branch &lt;i&gt;soft, tender, and supple;&lt;/i&gt; (S, L;) and ↓ <br>\
+      مَيِيدٌ signifies the same, (K,) applied to a branch; and so ↓ <br>\
+      مَايِدٌ: (TA:) which last also signifies a branch &lt;i&gt;succulent,&lt;/i&gt; or &lt;i&gt;sappy;&lt;/i&gt; and so مَاْدٌ, (L,) and ↓ <br>\
+      مُمْاَدٌ: (TA:) and (as some say, L) مَاْدٌ signifies &lt;i&gt;soft, tender,&lt;/i&gt; or &lt;i&gt;supple,&lt;/i&gt; applied to anything. (L, K.) ―         -b2-  In like manner, مَاْدٌ and ↓ <br>\
+      يَمْوُودٌ are applied to (assumed tropical:)  a man: (K:) and مَاْدَةٌ (TA) and يَمْوُودَةٌ and يَمْوُودٌ to a female. (K.) You say رَجُلٌ مَاْدٌ, (L,) and يَمْوُودٌ, (S, L,) (assumed tropical:)  &lt;i&gt;A young, and soft,&lt;/i&gt; or &lt;i&gt;tender, man:&lt;/i&gt; and اـِمْرَاَةٌ مَاْدَةٌ, (L,) and يَمْوُودَةٌ, (S, L,) and يَمْوُودٌ, (L,) (assumed tropical:)  &lt;i&gt;a young, and soft,&lt;/i&gt; or &lt;i&gt;tender woman:&lt;/i&gt; (S, L:) and جَارِيةٌ مَاْدَةٌ, (K,) and يَمْوُودَةٌ, (TA,) (assumed tropical:)  &lt;i&gt;a soft,&lt;/i&gt; or &lt;i&gt;tender, damsel:&lt;/i&gt; (K:) and جاريةٌ مَاْدَةُ <br>\
+                  الشَّبَابِ, and مَادَةٌ, without ء, (assumed tropical:)  &lt;i&gt;a damsel having youthful softness, thinness of skin, and plumpness.&lt;/i&gt; (L.) ―         -b3-  مَاْدُ الشَّبَابِ (assumed tropical:)  &lt;i&gt;The softness,&lt;/i&gt; or &lt;i&gt;tenderness, of youth.&lt;/i&gt; (L.) ―         -b4-  مَكَانٌ ثَاْدٌ مَاْدٌ [&lt;i&gt;A place moist and soft&lt;/i&gt;]; (S, L;) as also ↓ <br>\
+      ثَيِدٌ مَيِدٌ. (T, art. ثاد.)       -A2-  مَاْدٌ The &lt;i&gt;moisture that exudes from the earth, before it springs forth:&lt;/i&gt; (L, K:) of the dial. of Syria. (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38186&quot; key=&quot;مَيِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَيِدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَاْدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38187&quot; key=&quot;مَيِيدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَيِيدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَاْدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38188&quot; key=&quot;مَايِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَايِدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَاْدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38189&quot; key=&quot;مُمْاَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُمْاَدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَاْدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38190&quot; key=&quot;يَمْوُودٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَمْوُودٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَاْدٌ.   &lt;/entryFree&gt; <br>\
+            &lt;div2 n=&quot;mAr, &amp;amp;c&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;&gt;<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  مار, &amp;amp;c&lt;/head&gt;    <br>\
+               &lt;entryFree&gt;See Supplement   &lt;/entryFree&gt; <br>\
+' } );

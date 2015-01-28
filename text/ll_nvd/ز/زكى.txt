@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'زكى1<br>\
+زَكِىَ, (K,) aor. يَزْكَى, inf. n. زَكَاةٌ, i. q.<br>\
+زَكَا, aor. يَزْكُو, as meaning It increased, or augmented; (Lh, ISd, K, * TA;) and produced fruit:<br>\
+(TA:) and ↓ تزكّى signifies the same. (K.)<br>\
+-A2-<br>\
+Also He thirsted. (Th, K.)<br>\
+5<br>\
+تَزَكَّىَ see above; and see art. زكو.<br>\
+زَكِىٌّ: see art. زكو.<br>\
+' } );

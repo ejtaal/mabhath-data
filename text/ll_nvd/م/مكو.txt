@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مكومُكَّآءٌ<br>\
+The bird so called, because of its colour:<br>\
+see أَخْرَجُ.<br>\
+' } );

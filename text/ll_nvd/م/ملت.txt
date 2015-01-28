@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'ملت1<br>\
+مَلَتَ, aor.<br>\
+مَلِتَ, (inf. n. مَلْتٌ, TA.) He put<br>\
+[a thing] in motion, or into a state of commotion:<br>\
+(ISd, K:) like مَتَلَ: also mentioned by IDrd,<br>\
+who expresses uncertainty as to its correctness.<br>\
+(TA.)<br>\
+مِلِّيتٌ i. q. سنْفُ المَرْخِ; (K;) i. e., The leaves<br>\
+of the tree called مَرْخ. (TA.)<br>\
+أَمْلُوتٌ an epithet applied to a مَفَازَة [or water-less desert]. (Marg. note in a copy of the S.)<br>\
+أَمَالِيتُ Swift camels. (K.) It is said to be<br>\
+a quasi-pl. n.: or a pl. that has no sing.: or its<br>\
+sing. is أُمْلُوتٌ or إِمَلِيتٌ: some of the lexicologists reject it. (MF.)<br>\
+' } );

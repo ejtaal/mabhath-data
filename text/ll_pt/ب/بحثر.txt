@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>بحثر</em>            1                  بحثر<br>\
+<b>بَحْثَرَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     بَحْثَرَ<br>\
+                     بحثر<br>\
+                  , [inf. n. بَحْثَرَةٌ,] <i>He took, drew,</i> or <i>pulled,</i> a thing <i>out,</i> or <i>forth;</i> and <i>uncovered</i> it, <i>laid</i> it <i>open,</i> or <i> exposed</i> it; (Abu-l-Jarráh, S, K;) as also بَعْثَرَ. (Abu-l-Jarráh, S.) It is said in the Kur [c. 9], accord. to one reading, بُعْثِرَ <br>\
+                  بُحْثِرَ مَا فِى القُبُورِ, [instead of بُعْثِرَ,] meaning [<i>When that which is in the graves is taken forth and uncovered;</i> i. e.,] <i>when the dead are raised to life;</i> syn. بُعِثَ; and it is not improbable that بَحْثَرَ may be composed of بَحَثَ and اَثَرَ [app. a mistranscription for اَثَارَ], accord. to the opinion of those who hold that quadriliteral and quinqueliteral words are composed of two. (TA.) ―         -b2-  <i>He searched,</i> or <i>sought, for,</i> or <i>after,</i> a thing <i>in the dust</i> or <i>earth,</i> or <i>the like;</i> syn. بَحَثَ [which Ibr D thinks may be a mistake for بَعَثَ: but see بَعْثَرَ]. (L, K, and Bd in c. 9.) ―         -b3-  <i>He separated, disunited, scattered, dispersed,</i> or <i>dissipated,</i> (S, K,) a thing. (S.) <i>He scattered,</i> or <i>dispersed,</i> his household goods, or his commodities, <i>and turned</i> them <i>over, one upon another;</i> as also بَعْثَرَ. (Fr, S.)       -A2-  <i>It</i> (milk) <i>curdled,</i> or <i>coagulated, and formed little clots of curd;</i> syn. تَقَطَّعَ وَ تَحَبَّبَ. (S, K.)    </entryFree> <br>\
+<b>تَبَحْثَرَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَبَحْثَرَ<br>\
+                     بحثر<br>\
+                     تبحثر<br>\
+                  <i>It</i> (a thing, S) <i>became separated, disunited, scattered, dispersed,</i> or <i>dissipated.</i> (S, K.)    </entryFree> <br>\
+<b>لَبَنٌ مُبَحْثِرٌ</b>               1     <br>\
+                     لَبَنٌ مُبَحْثِرٌ<br>\
+                     لبن مبحثر<br>\
+                  <i>Milk curdling,</i> or <i>coagulating, and forming little clots of curd.</i> (K. [See Q. 1.]) When the upper portion is thick and the lower thin, it is termed هَادِرٌ. (TA.)   </entryFree> <br>\
+' } );

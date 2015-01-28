@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>عظلم</em>            1                  عظلم<br>\
+<b>تَعَظْلَمَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَعَظْلَمَ<br>\
+                     ذ<br>\
+                  , [from عِظْلِمٌ as signifying a certain plant or dye,] said of the night, <i>It was,</i> or <i>became, dark, and very black;</i> (K, TA;) i. e. <i>it became like the</i> <br>\
+                  عِظْلِم. (TA.)    </entryFree> <br>\
+<b>عِظْلِمٌ</b>               1     <br>\
+                     عِظْلِمٌ<br>\
+                     ذ<br>\
+                  , (S, Msb, K,) of which عَظْلَمٌ is a dial. var., (MF, TA,) The <i>expressed juice of a species of tree</i> or <i>plant,</i> (Az, K, TA,) <i>the colour of which is like</i> <br>\
+                  نِيل [or <i>indigo</i>], <i>green</i> (اَخْضَر) <i>inclining to duskiness:</i> (Az, TA:) or <i>a certain plant,</i> (S, K,) or <i>thing,</i> (Msb,) <i>with which one dyes,</i> (S, Msb, K,) <i>said to be</i> (Msb) <i>called in Pers.</i> <br>\
+                  نِيل [i. e. the <i>indigo-plant</i>]: (Msb, and so in some copies of the S; other copies of which, for نيل, have تفل:) or <i>i. q.</i> <br>\
+                  وَسْمَةٌ [<i>an appellation now applied to woad;</i> as is also عِظْلِم]: (S, Msb, K:) AHn says, one of the Arabs of the desert told me that the عظلم is the <i>male</i> <br>\
+                  وَسْمَة: he also says that it is <i>a small tree</i> or <i>plant,</i> (شُجَيْرَةٌ), <i>of the</i> [<i>class called</i>] رِبَّة, <i>that grows in a late season, and the greenness of which is lasting:</i> and in one place he says, an Arab of the desert, of the Saráh (السَّرَاة), told me that the عِظْلِمَة [which is the n. un.] is <i>a tree</i> or <i>plant</i> (شَجَرَةٌ) <i>that rises upon a stem about a cubit</i> [<i>in height</i>] <i>and has branches at the extremities of which are what resemble the blossoms of the</i> <br>\
+                  كُزْبَرَة [or <i>coriander</i>], <i>and it</i> (the tree or plant) <i>is dustcoloured:</i> (TA:) some say that it is the بِقَّم [or <i>Brazil-wood</i>]: (Msb:) MF says, it is the خَطْمِىّ [or <i>marsh-mallow</i>]: (TA:) thus says El-Hareeree; but El-&#39;Okbaree says that it is not that: (Har p. 625:) and some say that it is <i>a certain red dye.</i> (TA.) Hence the prov., <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        بَيْضَا=ءُ لَايُدْجِى سَنَاهَا العِظْلِمُ<br>\
+                  </quote> i. e. [<i>A white,</i> or <i>fair, female,</i>] <i>whose whiteness</i> [or <i>brightness</i>] عظلم <br>\
+                  <i>will not blacken</i> [or <i>darken</i>]: applied to that which is notable, which nothing will conceal. (Meyd, TA.) ―         -b2-  Hence, as being likened thereto, (S,) it signifies also The <i>dark</i> night: (S, K:) one says لَيْلٌ عِظْلِمٌ. (TA.)    </entryFree> <br>\
+<b>عَظْلَمَةٌ</b>               1     <br>\
+                     عَظْلَمَةٌ<br>\
+                     ذ<br>\
+                  <i>Darkness.</i> (K.)    </entryFree> <br>\
+<b>عِظْلَامٌ</b>               1     <br>\
+                     عِظْلَامٌ<br>\
+                     ذ<br>\
+                  <i>Dust;</i> syn. قَتَرَةٌ and غَبَرَةٌ. (K.)   </entryFree> <br>\
+' } );

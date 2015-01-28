@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ضوم</em>            1                  ضوم<br>\
+<b>ضَامَ</b>               1     <br>\
+                     ضَامَ<br>\
+                     ذ<br>\
+                  , aor. يَضُومُ, inf. n. ضَوْمٌ, a dial. var. of ضَامَ, aor. يَضِيمُ, inf. n. ضَيْمٌ: (K:) ضُمْتُهُ, like ضِمْتُهُ, signifying ظَلَمْتُهُ [<i>I wronged him,</i> &amp;amp;c.]. (M, TA.)   </entryFree> <br>\
+' } );

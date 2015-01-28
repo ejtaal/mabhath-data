@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'وشلوَشَلٌ<br>\
+: applied to water: see an ex. voce<br>\
+سَجَعَ; and another in a verse cited voce دَقَلٌ;<br>\
+and another voce رَاشِحٌ.<br>\
+وَشُولٌ<br>\
+A she-camel whose milk lasts throughout<br>\
+the year. (IAar., in TA, art. شكر.)<br>\
+' } );

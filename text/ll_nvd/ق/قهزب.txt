@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'قهزبقَهْزَبٌ<br>\
+Short: (K:) an epithet applied to a<br>\
+man. (TA.)<br>\
+' } );

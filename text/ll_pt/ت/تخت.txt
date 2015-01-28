@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>تخت</em>            1                  تخت<br>\
+<b>تَخْتٌ</b>               1     <br>\
+                     تَخْتٌ<br>\
+                     تخ<br>\
+                     تخت<br>\
+                     تختة<br>\
+                  <i>A repository in which clothes are kept;</i> (K;) [<i>a chest for clothes; a wardrobe:</i> pl. تُخُوتٌ:] a Persian word sometimes used by the Arabs. (IDrd.) ―         -b2-  [The following significations of the word seem to be post-classical. ―         -b3-  <i>A throne: a seat: a seat of government: a moveable wooden bench,</i> or <i>sofa:</i> all which are Persian. Hence, تَخْتَرَوَانٌ, from the Persian, <i>A kind of covered litter, like a palanquin, borne by two camels or horses, one before and the other behind, or by two or four mules.</i> ―         -b4-  So too تَخْتَةٌ <br>\
+                  <i>A board,</i> or <i>plank:</i> likewise of Persian origin. Hence the verb تَخَّتَ <br>\
+                  <i>He boarded,</i> or <i>planked.</i>]   </entryFree> <br>\
+' } );

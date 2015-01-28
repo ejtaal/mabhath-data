@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'كمىكَمِىٌّ<br>\
+A courageous man: or one wearing<br>\
+arms or armour: (K:) or a courageous man<br>\
+covered, or protected, by arms or armour; (S;)<br>\
+a courageous armed man.<br>\
+' } );

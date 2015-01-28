@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ليك</em>            1                  ليك<br>\
+<b>لَيْكَا</b>               1     <br>\
+                     لَيْكَا<br>\
+                     ذ<br>\
+                  , [i. e. لَيْكَ with an adjunct alif for the sake of the rhyme,] for اـِلَيْكَ: see art. اـِلَى, near the end.   </entryFree> <br>\
+' } );

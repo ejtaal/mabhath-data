@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'نعظ1<br>\
+نَعَظَ<br>\
+, aor.<br>\
+نَعَظَ<br>\
+, inf. n. نَعْظٌ and نُعُوظٌ (S, Msb,<br>\
+K,) and نَعَظٌ, (ISd, K,) It (the زُبّ, S, or ذَكَر,<br>\
+Msb, K,) became erect, (S, Msb, K), by reason<br>\
+of carnal appetite; (Msb;) as also ↓ انعظ. (M,<br>\
+TA.)<br>\
+4<br>\
+' } );

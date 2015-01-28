@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>اطم</em>            1                  اطم<br>\
+<b>اُطُمٌ</b>               1     <br>\
+                     اُطُمٌ<br>\
+                     ذ<br>\
+                   and اُطْمٌ, (S, K,) like اُجُمٌ and اُجْمٌ, (S, and Mgh in art. اجم) <i>A fortress:</i> or, as some say, <i>any lofty building:</i> (Mgh:) or <i>a</i> [<i>building such as is termed</i>] قَصْر [q. v.]: (IAar, K:) and <i>any fortress built of stones:</i> and <i>any square, roofed, house:</i> (K:) pl. (of pauc., TA) ا=طَامٌ (S, Mgh. K) and (of mult., TA) اُطُومٌ: (K:) ا=طَامٌ signifies <i>fortresses of the people of El-Medeeneh:</i> and one of these is termed ↓ <br>\
+      اَطَمَةٌ: (S:) or this signifies [simply] <i>a fortress;</i> and its pl. is ا=طَامٌ (TA.)    </entryFree> <br>\
+<b>اَطَمَةٌ</b>               1     <br>\
+                     اَطَمَةٌ<br>\
+                     ذ<br>\
+                  : see above.    </entryFree> <br>\
+<b>ا=طَامٌ مُوَطَّمَةٌ</b>               1     <br>\
+                     ا=طَامٌ مُوَطَّمَةٌ<br>\
+                     ذ<br>\
+                  <i>Lofty</i> [<i>fortresses,</i> &amp;amp;c.]: (A, TA:) [or it may signify <i>fortresses,</i> &amp;amp;c., <i>disposed in order,</i> or <i>grouped together;</i> for it is said to be] a phrase like اَبْوَابٌ مُبَوَّبَةٌ, (O, TA,) or like اَجْنَادٌ <br>\
+                  مُجَنَّدَةٌ. (K.)   </entryFree> <br>\
+' } );

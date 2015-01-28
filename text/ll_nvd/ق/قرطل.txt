@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'قرطلقِرْطَالَةٌ<br>\
+An ass&#39;s pannier, one of a pair. See<br>\
+كُوَارَةٌ.<br>\
+' } );

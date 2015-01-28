@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هثر</em>            1                  هثر<br>\
+<b>هَثَارَهُ</b>               1     <br>\
+                     هَثَارَهُ<br>\
+                     ذ<br>\
+                  , for اَنَارَهُ: see ثور.   </entryFree> <br>\
+' } );

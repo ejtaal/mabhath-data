@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>كلج</em>            1                  كلج<br>\
+<b>كِيلَجَةٌ</b>               1     <br>\
+                     كِيلَجَةٌ<br>\
+                     ذ<br>\
+                  , (S, and so accord. to the Mgh and the Msb and Es-Sakháwee, TA, but in some copies of the K كَيْلَجَةٌ,) as also كيلقة and كيلكة, (Shifà el-Ghaleel,) <i>A certain measure,</i> <br>\
+                  مِكْيَالٌ, (S, K,) <i>used in El-&#39;Irák, consisting of two menns and seven-eighths of a menn; the menn</i> (مَنّ) <i>being two pounds;</i> [consequently, <i>five pounds and three quarters</i>]: (Msb:) or <i>half a</i> <br>\
+                  صَاع: (Az, in Mgh and Msb, voce كُرٌّ:) [from the Persian كِيلَهْ:] pl. كِيلَجَاتٌ (Msb:) and كَيَالِجٌ and كَيَالِجَةٌ, (S, K,) in which last the كلح is added because it is a foreign word. (S.)   </entryFree> <br>\
+' } );

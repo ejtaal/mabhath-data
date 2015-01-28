@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'لون2<br>\
+لَوَّنَ i. q. ↓ تَلَوَّنَ It became coloured. (M.)<br>\
+―<br>\
+-b2-  It (a palm-tree) had dates which had become<br>\
+coloured. (T.) ―<br>\
+-b3-  لَوَّنَ فِى الكَلَامِ [He varied in<br>\
+speech]. (Sgh, K, voce تَمَطَّطَ.)<br>\
+5<br>\
+تَلَوَّنَ It became coloured. (MA, KL.) See 1.<br>\
+―<br>\
+-b2-  It became variegated, or diversified in colour.<br>\
+―<br>\
+-b3-  And hence, (see تغّول,) It varied in state, or<br>\
+condition; it was, or became, variable therein.<br>\
+He assumed various forms, or appearances. ―<br>\
+-b4-<br>\
+تَلَوَّنَ فُلَانٌ Such a one varied in disposition.<br>\
+(Msb.)<br>\
+لَوْنٌ Colour: (S, Msb, K:) distinctive quality<br>\
+or property: (M, K:) sort, or species: (S, K:)<br>\
+mood, disposition, or character.<br>\
+أَلْوَانُ الأَطْعِمَةِ [Sorts, or species, of viands].<br>\
+(S in art. بأج.)<br>\
+مُتَلَوِّنٌ Varying, or variable, in dispositions.<br>\
+―<br>\
+-b2-  Unsteady in disposition. (K.)<br>\
+' } );

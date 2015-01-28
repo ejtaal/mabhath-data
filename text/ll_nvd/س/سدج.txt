@@ -1,0 +1,41 @@
+load_data( { book: 'll_nvd', text: 'سدج1<br>\
+سَدَجَهُ بِشَىْءٍ, (O, K,) aor.<br>\
+سَدُجَ, inf. n. سَدْجٌ,<br>\
+(TK,) He thought a thing to be in him; (O, K;)<br>\
+i. e. he suspected him of a thing: (TA:) or<br>\
+سَدَجَ بِشَىْءٍ he imagined, or thought, a thing.<br>\
+(L.) ―<br>\
+-b2-  See also what next follows, in two places.<br>\
+5<br>\
+تسدّج; (S, L, K;) and ↓ سَدَجَ, inf. n. سَدْجٌ;<br>\
+(L;) He lied, affected lying, or lied purposely;<br>\
+and forged, or fabricated: (S, L, K: [in the<br>\
+CK, تَخَلَّفَ is erroneously put for تَخَلَّقَ:]) he<br>\
+forged and uttered false and vain tales: (L:) or<br>\
+↓ سَدَجَ, aor.<br>\
+سَدِجَ, signifies [simply] he lied; (O, in<br>\
+the present art. and in art. سرج;) like سَرَجَ. (O<br>\
+in art. سرج.) [See also تسرّج.]<br>\
+7<br>\
+انسدج He fell prostrate; fell upon his<br>\
+face; (O, K, TA;) like him who is prostrating<br>\
+himself in prayer: (TA:) [it may perhaps be a<br>\
+mistranscription for انسدح; which seems to be<br>\
+better known in this sense: but it is said to be]<br>\
+formed by transposition from انسجد and [so]<br>\
+اندسج. (TA.)<br>\
+سَدَاجَةٌ, used by Ibn-El-Khateeb and others of<br>\
+the people of El-Andalus, [and by post-classical<br>\
+writers of other countries,] as meaning Easiness,<br>\
+and goodness of nature or disposition, [or rather<br>\
+simplicity, or plainness, of mind or manners,] is<br>\
+from سَاذَجٌ, an arabicized word from [the Pers.]<br>\
+سَادَهْ, signifying, with them, “free in intellect,”<br>\
+and “ easy in nature or disposition: ” frequent<br>\
+usage occasioned the change of the ذ into د.<br>\
+(TA. [See De Sacy&#39;s Chrest. Ar., 2nd ed.,<br>\
+ii. 292.])<br>\
+سَدَّاجٌ A great, or habitual, liar, (S, O, L, K,)<br>\
+who will not tell thee truly whence he comes, but<br>\
+will tell thee lyingly. (L.) [See also سَرَّاجٌ.]<br>\
+' } );

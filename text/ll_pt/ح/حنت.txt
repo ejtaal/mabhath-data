@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>حنت</em>            1                  حنت<br>\
+<b>حَانُوتٌ</b>               1     <br>\
+                     حَانُوتٌ<br>\
+                     حانوت<br>\
+                   and حَانُوتِىٌّ: see arts. حون and حنو.   </entryFree> <br>\
+' } );

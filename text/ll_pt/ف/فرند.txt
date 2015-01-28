@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>فرند</em>            1                  فرند<br>\
+<b>فِرِنْدٌ</b>               1     <br>\
+                     فِرِنْدٌ<br>\
+                     ذ<br>\
+                  <i>A sort of cloth,</i> or <i>garment,</i> (Lth, T, O, K,) <i>well known:</i> (K:) an adventitious word, (Lth, T, O,) [from the Pers. پَرَنْد,] arabicized. (O, K.) ―         -b2-  And [hence, app.,] فِرِنْدُ السَّيْفِ, (T, S, M, O, K,) and ↓ <br>\
+      اـِفْرِنْدُهُ, (S, O, K,) <i>The diversified wavy marks, streaks, grain,</i> or <i>water, of the sword;</i> syn. وَشْيُهُ, (T, S, M, O, K,) and جَوْهَرُهُ, (T, O, K,) and رُبَدُهُ [q. v.], (S, O,) and مَاوُهُ الَّذِى يَجْرِى فِيهِ, (T, O, *) and طَرَايِقُهُ, (T, O,) i. e. سَفَاسِقُهُ. (T.) ―         -b3-  And الفِرِنْدُ signifies <i>The sword</i> itself. (M, L, K.) ―         -b4-  And <i>The</i> <br>\
+                  حَوْجَم; (K, TA;) i. e. (TA) <i>the red rose.</i> (M, TA.) ―         -b5-  And <i>The grains of the pomegranate.</i> (AA, O, K.)    </entryFree> <br>\
+<b>فِرْنِدٌ</b>               1     <br>\
+                     فِرْنِدٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَبْزَارٌ [<i>Seeds that are used in cooking, for seasoning food;</i> &amp;amp;c.]: pl. فَرَانِدُ. (IAar, O, K.)    </entryFree> <br>\
+<b>فِرِنْدَاةٌ</b>               1     <br>\
+                     فِرِنْدَاةٌ<br>\
+                     ذ<br>\
+                  <i>A</i> <br>\
+                  قَطَاة [or <i>sand-grouse</i>]. (Ibn-&#39;Abbád, O, K.)    </entryFree> <br>\
+<b>اـِفْرِنْدُ السَّيْفِ</b>               1     <br>\
+                     اـِفْرِنْدُ السَّيْفِ<br>\
+                     ذ<br>\
+                  : see فِرِنْدٌ, second sentence.   </entryFree> <br>\
+' } );

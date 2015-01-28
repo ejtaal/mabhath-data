@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'دهليزدِهْلِيزٌ [An entrance-passage of a house; an<br>\
+entrance-hall; a vestibule;] what is between the<br>\
+[outer] door or gate and the house; (S, K;) the<br>\
+place of entrance to a house: (Msb:) a Persian<br>\
+word, (S, Msb,) originally داليج, and داليز, and<br>\
+دالان, and, as some say, دَلِيجٌ, (Lth,) arabicized:<br>\
+(Lth, S, Msb:) [also, in modern Arabic, an ante-<br>\
+chamber: and the anterior apartment of a large<br>\
+tent or pavilion: accord. to the MA, a large<br>\
+tent: accord. to some copies of the K, i. q. جَيْئَةٌ:<br>\
+accord. to some, خَنِيَّةٌ, which reading is preferred<br>\
+by the author of the TK, who explains دهليز, from<br>\
+the “Burhán,” as meaning “absurd words:”<br>\
+accord. to some, حَنِيَّةٌ, which I think the right<br>\
+reading, meaning a bowed, or curved, structure:<br>\
+Golius seems to have found another reading in the<br>\
+K, namely, حَيَّةٌ:] pl. دَهَالِيزُ. (S, Msb, K.) ―<br>\
+-b2-<br>\
+[Hence,] أَبْنَآءُ الدَّهَالِيزِ (assumed tropical:)  Foundlings, (K, * TA,)<br>\
+whose fathers are unknown. (TA.) [They are so<br>\
+called because they are generally abandoned at<br>\
+the entrances of mosques or private houses, whence<br>\
+they are usually taken by persons who adopt<br>\
+them.]<br>\
+' } );

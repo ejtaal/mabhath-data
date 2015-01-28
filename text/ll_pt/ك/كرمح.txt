@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كرمح</em>            1                  كرمح<br>\
+<b>كَرْمَحَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     كَرْمَحَ<br>\
+                     ذ<br>\
+                  , inf. n. كَرْمَحَةٌ, <i>i. q.</i> <br>\
+                  كَرْتَحَ, (S, art. كردح, and CK, and a MS copy of the K,) <i>He</i> (a short man) <i>ran with short steps, and quickly:</i> (S, ubi supra:) or <i>i. q.</i> <br>\
+                  كَرْبَحَ, the ب being changed into م, (TA,) <i>he ran at a slower pace than that termed</i> <br>\
+                  كَرْدَمَةٌ. (L, TA.) ―         -b2-  كَرْمَحْنَا فِى ا=ثَارِ القَوْمِ <br>\
+                  <i>We ran heavily in the footsteps of,</i> or <i>after, the people,</i> (AA, S, ubi supra, L.)   </entryFree> <br>\
+' } );

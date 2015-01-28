@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>همت</em>            1                  همت<br>\
+<b>همَتَ</b>               1     <br>\
+                     همَتَ<br>\
+                     ذ<br>\
+                  , [aor.      <br>\
+                     هَمُتَ<br>\
+                  ,] <i>It</i> (ثَرِيد) <i>became hidden in the grease;</i> (K;) <i>became overspread by the grease.</i> (TA.)    </entryFree> <br>\
+<b>اهمت الكَلَامَ</b>               1     <br>\
+                     اهمت الكَلَامَ<br>\
+                     ذ<br>\
+                  , and الضَّحِكَ, <i>He made speech, and laughter, low; he spoke, and laughed, low.</i> (K.) It is said to be from الهَمْسُ; the س being changed into ت. (MF.)   </entryFree> <br>\
+' } );

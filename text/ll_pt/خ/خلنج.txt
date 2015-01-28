@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>خلنج</em>            1                  خلنج<br>\
+<b>خَلَنْجٌ</b>               1     <br>\
+                     خَلَنْجٌ<br>\
+                     خلنج<br>\
+                   a Persian word, arabicized, (S,) <i>A kind of tree,</i> (S, K,) <i>of the wood of which vessels are made:</i> (TA:) or <i>any</i> [<i>bowl of the kinds called</i>] جَفْنَة and صَحْفَة, or <i>other vessel, made of wood having variegated streaks:</i> (L:) pl. خَلَانِجُ. (S, K.) The word is mentioned [in the S and K in art. خلج; but] in the L and some other lexicons in a separate art., because all the letters of a word which is not Arabic are regarded as radical. (MF.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,42 @@
+load_data( { book: 'll_pt', text: '<em>لزج</em>            1                  لزج<br>\
+<b>لَزِجَ</b>               1     <br>\
+                     لَزِجَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَزَجَ<br>\
+                  , (S, M, K,) inf. n. لَزَجٌ and لُزُوجَةٌ (M) and لُزُوجٌ; (Msb;) and ↓ <br>\
+      تلزّج; (M;) <i>It</i> (a thing, S) <i>stretched out,</i> in a neut. sense: <i>it roped;</i> or <i>drew out, with a viscous, glutinous, clammy, cohesive, sticky, ropy,</i> or <i>slimy, continuity of parts:</i> syn. تَمَطَّطَ and تَمَدَّدَ: (S, K:) <i>it was,</i> or <i>became, viscous, glutinous, clammy, cohesive, sticky, ropy,</i> or <i>slimy, so as to adhere to the hand and the like.</i> (Msb.) ―         -b2-  لَزِجَ بِهِ <br>\
+                  <i>It adhered to him,</i> or <i>it, as glue</i> or <i>the like;</i> syn. غَرِىَ. (S, K.) E. g. اَكَلْتُ شَيْيًا فَلَزِجَ <br>\
+                  بِاَصَابِعِى <br>\
+                  <i>I ate a thing and it adhered to my fingers.</i> (Msb.) ―         -b3-  [And] ↓ <br>\
+      تلزّج <br>\
+                  <i>It</i> (food, or ointment,) <i>became</i> [<i>viscous, glutinous, clammy, cohesive, sticky, slimy, ropy,</i> or <i>mucilaginous,</i>] <i>like</i> <br>\
+                  خِطْمِىّ [or <i>marsh-mallow</i>]. (M, &amp;amp;c.) ―         -b4-  النَّبَاتُ ↓ <br>\
+      تلزّج <br>\
+                  <i>i. q.</i> <br>\
+                  تَلَجَّنَ: (S, K:) i. e., <i>The herbage became flaccid, and one part thereof inclined over another:</i> (TA:) [or <i>became flaccid, and of a viscous consistency,</i> or <i>viscous</i> or <i>mucilaginous in its juice;</i> as appears from what here follows]. Ru-beh says, [in the S, El-&#39;Ajjáj,] describing a pair af asses, male and female, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَفَرَعَا مِنْ رَعْىِ مَا تَلَزَّجَا<br>\
+                  </quote> [<i>And they finished pasturing upon what had become flaccid, and of a viscous consistency</i>]. For, says J, [immediately after citing these words of the poet,] when herbage begins to dry up, its juice thickens, and becomes like the mucilage of the خِطْمِىّ [or marsh-mallow]. (TA.) Or the words of the poet, above quoted, signify, <i>And they finished pasturing upon what they had searched after constantly,</i> or <i>time after time:</i> for تَلَزُّجٌ also signifies the <i>searching</i> of a beast of carriage <i>after herbage and leguminous plants, constantly,</i> or <i>time after time:</i> and the two asses are here the agents of the verb تلزّجا. (L.)    </entryFree> <br>\
+                     تَلَزَّجَ<br>\
+                   See 1. ―         -b2-  تلزّج رَاْسُهُ <br>\
+                  <i>His head remained unpurified of its dirt</i> (S, K) <i>after he had washed it.</i> (Yaakoob, S.)    </entryFree> <br>\
+<b>لَزِجٌ</b>               1     <br>\
+                     لَزِجٌ<br>\
+                     ذ<br>\
+                   (S, M, Msb) and ↓ <br>\
+      مُتَلَزِّجٌ (M), A thing <i>stretching out,</i> in a neut. sense: <i>roping;</i> or <i>drawing out, with a viscous, glutinous, clammy, cohesive, sticky,</i> or <i>slimy, continuity of parts:</i> syn. مُتَمَطِّطٌ and مُتَمَدِّدٌ: (S:) <i>viscous, glutinous, clammy, cohesive, sticky, ropy,</i> or <i>slimy, so as to adhere to the hand</i> or <i>the like:</i> (Msb:) بَلْغَمٌ لَزِجٌ [<i>Viscous, glutinous, cohesive, sticky,</i> or <i>ropy, phlegm</i>]. (TA.) زَبِيبَةٌ لَزِجَةٌ <br>\
+                  <i>A sticky raisin.</i> (L.)    </entryFree> <br>\
+<b>رَجُلٌ لَزْجَةٌ</b>               1     <br>\
+                     رَجُلٌ لَزْجَةٌ<br>\
+                     ذ<br>\
+                  , and لَزِجَةٌ, and لَزِيجَةٌ, <i>A man who keeps to his place, and does not quit it.</i> (K.)    </entryFree> <br>\
+<b>مُتَلَزِّجٌ</b>               1     <br>\
+                     مُتَلَزِّجٌ<br>\
+                     ذ<br>\
+                  : see لَزِجٌ.   </entryFree> <br>\
+            <div2 n=&quot;lzq lzm lzn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لزق لزم لزن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

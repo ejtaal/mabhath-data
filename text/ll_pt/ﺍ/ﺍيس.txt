@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ايس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ايس<br>\
+&lt;entryFree id=&quot;n1598&quot; key=&quot;اَيِسَ مِنْهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَيِسَ مِنْهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, Mgh, Msb, K,) aor. يَاْيَسُ (S, Msb, K) and يَاْيِسُ, (Msb,) inf. n. اَيَسٌ, (Msb,) or اـِيَاسٌ, (K,) or it has the same inf. n. as يَيِسَ, namely يَاْسٌ, (S,) with which ↓ <br>\
+      اـِيَاسٌ is syn., (Mgh,) but this last is a contraction of اـِيا=سٌ, of the measure اـِيعَاسٌ, as determined by Az, and is not an inf. n. of اَيِسَ as some think it to be, (Mgh, art. ييِس,) &lt;i&gt;He despaired of it;&lt;/i&gt; syn. قنِط: (K:) a dial. var. of يَيِسَ: (ISk, S, TA:) or it is not so, but is formed by transposition from يَيِسَ, because it has no [proper] inf. n.; and اـِيَاسٌ, the proper name of a man, is not to be adduced in evidence, for it is of the measure فِعَالٌ from الاَوْسُ, “ the act of giving: ” (Preface to the M, quoted in the TA:) if it were a dial. var. of يَيِسَ, they would say اـِسْتُ for اَيِسْتُ: (M, TA:) and اُيِسَ, incorrectly written اُويسَ, also signifies the same. (Mgh.)       -A2-  اَيْسَ: see لَيْسَ.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَيَّسَ<br>\
+                  &lt;/form&gt; see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1599&quot; key=&quot;ا=يَسَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=يَسَهُ<br>\
+                     ا=يسه<br>\
+                     ا=يسة<br>\
+                  &lt;i&gt;He made him to despair;&lt;/i&gt; (K;) like اَيْاَسَهُ; (S, Mgh;) and so ↓ <br>\
+      ايّسهُ, (S * K,) inf. n. تَاْيِيسٌ. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1600&quot; key=&quot;اَيِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيِسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      ا=يِسٌ [&lt;i&gt;Despairing&lt;/i&gt;]; part. ns. of اَيِسَ. (Msb.) ―         -b2-  [Hence,] ا=يِسَةٌ [and accord. to Golius ↓ <br>\
+      اَيْسَا=ءُ, both properly meaning &lt;i&gt;Despairing&lt;/i&gt; of the recurrence of the menstrual flux;] &lt;i&gt;who has not menstruated in a period of five and fifty years.&lt;/i&gt; (KT.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1601&quot; key=&quot;اَيْسَا=وُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْسَا=وُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَيِسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1602&quot; key=&quot;اـِيَاسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيَاسٌ<br>\
+                     اـياس<br>\
+                     اياس<br>\
+                  &lt;/form&gt;: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1603&quot; key=&quot;ا=يِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=يِسٌ<br>\
+                     ا=يس<br>\
+                  &lt;/form&gt;: see اَيِسٌ.   &lt;/entryFree&gt; <br>\
+' } );

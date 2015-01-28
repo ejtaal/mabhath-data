@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>نكا</em>            1                  نكا<br>\
+<b>نَكَاَ القَرْحَةَ</b>               1     <br>\
+                     نَكَاَ القَرْحَةَ<br>\
+                     ذ<br>\
+                  . (S, K,) inf. n. نَكْءٌ, (S,) <i>He peeled off the scab from the sore</i> (S, K,) <i>before it was healed, and it became moist in consequence.</i> (K.) [See also نَكَى.]       -A2-  نَكَاَ العَدُوَّ, and فِى <br>\
+                  العَدُوِّ, dial. form of نَكَى [q. v.] (K.) By some rejected. (TA)       -A3-  نَكَاَهُ حَقَّهُ (like رَكَاهُ, TA), inf. n. نَكْءٌ, <i>He paid him his due.</i> (K.) ―         -b2-  هُنِّيتَ وَلَا تُنْكاْ, (S,) and تُنْكَ, (TA,) and تُنْكهُ (S, for تُنْكَ or تُنْكاْ, TA), <i>Mayest thou be made to have enjoyment</i> in that which thou hast received, <i>and not experience pain!</i> (S) <i>Mayest thou gain what is good, and may harm not befall thee!</i> (T:) or, with the latter of the two verbs without      <br>\
+                     نَكُاَ<br>\
+                   (تنك), <i>may God not make thee discomfited</i> (AHeyth, L.) [Accord. to AHeyth. as mentioned in the TA, the latter verb in this proverb is written تَنْكَهْ and تُنْكَهْ; but the right reading is doubtless تُنْكَ and تُنْكَهْ: this is shown by the explanation there following.]    </entryFree> <br>\
+<b>انتكات القَرْحَةُ</b>               1     <br>\
+                     انتكات القَرْحَةُ<br>\
+                     ذ<br>\
+                  <i>The scab peeled off from the sore before it was healed, and it became moist in consequence.</i> (A, TA.)       -A2-  انتكا مِنْهُ حَقَّهُ (like ازدكا, TA) <i>He received from him his due.</i> (K, TA.)    </entryFree> <br>\
+<b>نُكَاَةٌ</b>               1     <br>\
+                     نُكَاَةٌ<br>\
+                     ذ<br>\
+                   and زُكَاَةٌ <br>\
+                  <i>One who pays his debts, and does not put off.</i> (K.)       -A2-  نَكَاَةُ الطُّرْثُوثِ, and نُكَاَةُ, dial. form of نَكَعَة [q. v.]. (K.)   </entryFree> <br>\
+' } );

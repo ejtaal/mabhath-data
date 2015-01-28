@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'معلمَعْلٌ<br>\
+[not مَعِلٌ] An agile, acute, clever, man:<br>\
+see شَعْلٌ.<br>\
+' } );

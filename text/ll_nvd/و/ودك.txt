@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'ودكوَدَكٌ<br>\
+Grease, or gravy: i. e. the oily matter<br>\
+that is produced from flesh-meat; (TA;) or the<br>\
+dripping that exudes from flesh-meat and from<br>\
+fat. (Mgh, Msb.)<br>\
+' } );

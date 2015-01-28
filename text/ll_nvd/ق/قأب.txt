@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'قأب1<br>\
+قَأَبَ الطَّعَامَ, (As, S, O, K,) aor.<br>\
+قَاَ^َ, inf. n.<br>\
+قَأْبٌ, (K,) He ate the food. (As, S, O, K.) ―<br>\
+-b2-<br>\
+And قَأَبَ المَآءَ He drank the water; as also قَئِبَهُ:<br>\
+(K:) or he drank all the water that was in the<br>\
+vessel. (As, S, O, K.) ―<br>\
+-b3-  And قَئِبَ مِنَ الشَّرَابِ,<br>\
+aor.<br>\
+قَاَ^َ, inf. n. قَأْبٌ and قَأَبٌ, (K, TA,) the latter<br>\
+thus (مُحَرَّكَة), agreeably with analogy, (TA,<br>\
+[but in the CK قَآب,]) He became filled with the<br>\
+beverage; (Lth, K;) as also قَأَبَ مِنْهُ: (Lth:) or<br>\
+he drank the beverage: (TA:) and, or simply<br>\
+قَئِبَ, like صَئِبَ, (S,) he drank much water. (S,<br>\
+TA.)<br>\
+قَؤُوبٌ: see مِقْأَبٌ.<br>\
+إِنَآءٌ قَوْأَبٌ and ↓ قَوْأَبِىٌّ A vessel that takes, or<br>\
+receives, much water: (O, K:) the latter epithet<br>\
+expl. by Lth as signifying taking, or receiving,<br>\
+much. (L.)<br>\
+قَوْأَبِىٌّ: see what next precedes.<br>\
+مِقْأَبٌ (S, O, K) and ↓ قَؤُوبٌ (K) One who drinks<br>\
+much water: (S, O:) or one who drinks much.<br>\
+(K.)<br>\
+' } );

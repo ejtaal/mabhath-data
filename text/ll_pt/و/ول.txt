@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>ول</em>            1                  ول<br>\
+<b>وَلْوَلَتْ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     وَلْوَلَتْ<br>\
+                     ذ<br>\
+                  <i>She</i> (a woman) <i>wailed,</i> or <i>raised her voice with weeping.</i> (Har, p. 395.)   </entryFree> <br>\
+' } );

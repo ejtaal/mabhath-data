@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>شاهين</em>            1                  شاهين<br>\
+<b>شَاهِينٌ</b>               1     <br>\
+                     شَاهِينٌ<br>\
+                     ذ<br>\
+                  <i>A certain well-known bird,</i> (K, TA,) <i>of those that prey;</i> (Msb, * TA;) it is <i>of the birds called</i> <br>\
+                  صُقُور [pl. of صَقْرٌ], as are also the بَاشَق and the بَازِى and the زُرَّق and the يُوْيُو; (AHát in “ the Book of Birds, ” TA in art. بشق;) [said by Golius, on the authority of Dmr, to be the <i>white falcon;</i> and to this bird it is perhaps applied by some of the Arabs; but some of them, I believe most of them, and I believe also that they do so most properly, apply this appellation in the present day to the <i>gerfalcon,</i> which is not wholly white; and some, to the <i>falcon gentle:</i>] the word is [of Pers. origin,] not genuine Arabio; (TA;) it is an arabicized word: the pl. is شَوَاهِينُ, and sometimes شَيَاهِينُ is used in its stead, formed by substituion [of ى for و] for facilitating the pronunciation. (Msb.) ―         -b2-  Also (assumed tropical:)  <i>The</i> <br>\
+                  عَمُود [meaning <i>beam</i>] <i>of the balance.</i> (K.) ―         -b3-  And <i>i. q.</i> <br>\
+                  صَنْجَةٌ [which signifies <i>A balance,</i> and <i>a steelyard,</i> and <i>a weight of a balance</i>]: so in the Expos. of the “ Muwatta. ” (MF, TA.)   </entryFree> <br>\
+' } );

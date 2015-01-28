@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>قرش</em>            1                  قرش<br>\
+<b>قَرَشَ</b>               1     <br>\
+                     قَرَشَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَرِشَ<br>\
+                  , inf. n. قَرْشٌ; and ↓ <br>\
+      اِقْتَرَشَ and ↓ <br>\
+      تَقَرَّشَ; <i>He gained, acquired, or earned, and collected,</i> for his family. (M.)    </entryFree> <br>\
+                     تَقَرَّشَ<br>\
+                  and 8: see 1.   </entryFree> <br>\
+' } );

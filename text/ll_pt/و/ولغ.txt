@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ولغ</em>            1                  ولغ<br>\
+<b>وَلَغَ</b>               1     <br>\
+                     وَلَغَ<br>\
+                     ذ<br>\
+                  <i>He</i> (a dog) <i>lapped.</i> (S, Msb, K.) See an ex. voce مَحْسُومٌ.   </entryFree> <br>\
+' } );

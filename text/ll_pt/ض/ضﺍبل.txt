@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضابل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضابل<br>\
+&lt;entryFree id=&quot;n25399&quot; key=&quot;ضِيْبِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضِيْبِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and ضِيْبُلٌ, (S, M, O, K,) like زِيْبِرٌ and زِيْبُرٌ, (S, O, K,) the latter mentioned by IJ, (M,) but the former the more usual, (S, M,) &lt;i&gt;Calamity,&lt;/i&gt; or &lt;i&gt;misfortune:&lt;/i&gt; (S, M, O, K:) [it is said that] زِيْبُرٌ and ضِيْبُلٌ are the only instances of the measure فِعْلُلٌ: (K:) but accord. to Th, there is no word of this measure in the language; therefore, if these two have been heard, they are extr., unless, as Ibn-Keysán says, the ء be augmentative [and there is no reason for supposing it to be so as there is no known unaugmented word from the root ضبل]: (S, O:) صِيْبُلٌ, however, with ص, has been mentioned in the K, as having the same meaning, and is said to be of the dial. of Dabbeh, but not so well known as ضيبل, with ض; and IB mentions نِيْدُلٌ, meaning [likewise the same, or] “ incubus, ” or “ nightmare: ” [but one of these four instances may be excepted; for] it is said in the K [in art. زَابر] that زِيْبُرٌ may be incorrect. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

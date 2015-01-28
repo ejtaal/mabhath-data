@@ -1,0 +1,530 @@
+load_data( { book: 'll_pt', text: '<em>حول</em>            1                  حول<br>\
+<b>حَالَ</b>               1     <br>\
+                     حَالَ<br>\
+                     حال<br>\
+                  , (S, Mgh, Msb, K, &amp;amp;c.,) aor. يَحُولُ, Msb, Er-Rághib,) inf. n. حَوْلٌ and حُوُولٌ (K, Er-Rághib) [and حَوَلَانٌ], <i>It</i> (a thing) <i>became altered, transmuted,</i> or <i>changed,</i> (S, * Mgh, Msb, Er-Rághib, TA,) <i>from its state,</i> or <i>condition,</i> (S, Mgh,) or <i>from its natural state</i> or <i>condition,</i> and <i>its constitution;</i> as also ↓ <br>\
+      استحال; (Msb;) <i>i. q.</i> ↓ <br>\
+      تحوّل; (K:) which [here] signifies [as above; or] <i>it became altered, transmuted,</i> or <i>changed,</i> whether <i>essentially</i> or <i>substantially,</i> or <i>in respect of predicament</i> [or <i>state</i> or <i>condition</i>], or <i>by saying;</i> (Er-Rághib, TA;) and ↓ <br>\
+      احال signifies the same: (K:) or this last is said of a man meaning مِنْ شَىْءٍ اـِلَى شَىْءٍ ↓ <br>\
+      تحوّل [<i>he shifted,</i> or <i>turned, from one thing to another</i>]: (TA:) and hence, (TA,) <i>he became a Muslim:</i> (IAar, K, TA:) for in this case one says of a man, عَمَّا كَانَ ↓ <br>\
+      تحوّل <br>\
+                  يَعْبُدُ اـِلَى الاـِسْلَامِ [<i>he turned from that which he was worshipping to El-Islám</i>]. (IAar, TA.) ―         -b2-  [Hence, also,] حال, inf. n. مَحَالٌ and حِيلَةٌ, <i>i. q.</i> <br>\
+                  احتال, q. v. (Ham p. 652.) ―         -b3-  And حال and ↓ <br>\
+      استحال <br>\
+                  <i>It</i> (anything) <i>shifted,</i> or <i>removed,</i> or <i>went,</i> or <i>became shifted</i> or <i>transferred;</i> syn. تحوّل: or <i>it moved;</i> syn. تحرّك: so accord. to different copies of the K: or, accord. to the O, the former verb has both of these significations: (TA:) or it has the latter of these significations, said of a شَخْص [i. e. a man, or person, or the figure of a thing seen from a distance]: (S:) or both verbs signify <i>it</i> (anything) <i>became altered,</i> or <i>changed,</i> (M, K,) <i>from straightness,</i> or <i>evenness,</i> (K,) <i>to crookedness,</i> or <i>unevenness.</i> (M, K.) You say, حَالَتِ القَوْسُ <br>\
+                  <i>The bow became crooked</i> (K, TA) <i>in the portion between the part grasped by the hand and the curved extremity;</i> or <i>in the curved extremity:</i> (TA:) or <i>reverted from the state into which it was brought by pressure</i> [<i>with the</i> <br>\
+                  ثِقَاف], <i>and became crooked in the portion between the part grasped by the hand and the curved extremity;</i> as also ↓ <br>\
+      استحالت: (S, O:) and in like manner, الاَرْضُ عَنِ الاِسْتِوَا=ءِ اـِلَى ↓ <br>\
+      استحالتِ <br>\
+                  العِوَجِ [<i>The ground became altered,</i> or <i>changed, from evenness to unevenness</i>]: (S:) or [simply] ↓ <br>\
+      استحالت <br>\
+                  <i>it became uneven:</i> (Msb:) [and الارض ↓ <br>\
+      اَحَالَتِ (K in art. صمت) app. signifies the same:] or ↓ <br>\
+      استحال signifies <i>it</i> (a thing) <i>was disposed,</i> or <i>was about, to become altered,</i> or <i>changed.</i> (Er-Rághib, TA.) And حال لَوْنُهُ <br>\
+                  <i>Its colour altered,</i> or <i>changed, and became black.</i> (S.) And حال <br>\
+                  <i>It</i> (a thing) <i>shifted from its way,</i> or <i>manner,</i> or <i>direction.</i> (TA.) And حال وَتَرُ <br>\
+                  القَوْسِ <br>\
+                  <i>The string of the bow shifted from its place</i> on the occasion of shooting: and حَالَتِ القَوْسُ <br>\
+                  وَتَرَهَا, [<i>the bow shifted from its string.</i>] (TA.) And حال مِنْ مَكَانِهِ, inf. n. حِوَلٌ, (O, TA,) or this is a simple subst., (S, M, K,) <i>He,</i> or <i>it, shifted,</i> or <i>removed, from his,</i> or <i>its, place.</i> (O, TA. [See حِوَلٌ, below.]) And حال اـِلَى مَكَانٍ ا=خِرِ <br>\
+                  <i>i. q.</i> ↓ <br>\
+      تحوّل [i. e. <i>He,</i> or <i>it, shifted,</i> or <i>removed,</i> or <i>became shifted</i> or <i>transferred, to another place</i>]. (S.) And حال عَنِ العَهْدِ, inf. n. حُوُولٌ, <i>i. q.</i> <br>\
+                  انقلب [i. e. <i>He withdrew,</i> or <i>receded, from the covenant, compact, agreement,</i> or <i>engagement</i>]. (S.) ―         -b4-  حال فِى مَتْنِ فَرَسِهِ, inf. n. حُوُولٌ, <i>He leaped, and rode, upon the back of his horse;</i> as also ↓ <br>\
+      احال: (S:) or حال فِى ظَهْرِ دَابَّتِهِ <br>\
+                  <i>he leaped, and seated himself firmly, upon the back of his beast;</i> as also ↓ <br>\
+      احال: (K, TA:) and حال عَلَى <br>\
+                  الفَرَسِ, (TA,) inf. n. حَوْلَةٌ, (K, * TA,) <i>he seated himself firmly upon the horse.</i> (K, * TA.) ―         -b5-  حال صَبُوحُهُمْ عَلَى غَبُوقِهِمْ, <i>Their morning-draught and their evening-draught became one,</i> is said of people suffering from drought, and scarcity of milk. (TA.) ―         -b6-  حال, (Mgh, Msb, K,) aor. as above, inf. n. حَوْلٌ, (Msb,) said of a year (حَوْلٌ), (Mgh, K,) <i>It passed:</i> (Msb:) or <i>it revolved and passed:</i> (Mgh:) or <i>it became complete.</i> (K.) You say, حال عَلَيْهِ الحَوْلُ, (S, K,) inf. n. حَوْلٌ and حُوُولٌ, (K,) <i>The year passed over him,</i> or <i>it;</i> [or <i>he,</i> or <i>it, became a year old;</i>] (S, K;) as also ↓ <br>\
+      احال. (S.) And حال, alone, (Msb, TA,) and ↓ <br>\
+      احال and ↓ <br>\
+      اَحْوَلَ, (Msb,) <i>The year passed over it.</i> (Msb, TA.) And ↓ <br>\
+      احال (S, K) and ↓ <br>\
+      اَحْوَلَ (S, TA) and ↓ <br>\
+      احتال (K) <i>A year passed over it;</i> [or <i>it became a year old;</i>] (S, K, TA;) said of wheat, or food, and of other things: (S, TA:) and so حالت and ↓ <br>\
+      احالت and ↓ <br>\
+      اَحْوَلَتْ said of a دار [or house]: (S:) or حَالَتِ الدَّارُ and ↓ <br>\
+      احالت and ↓ <br>\
+      اَحْوَلَت and حِيلَ بِالدَّارِ <br>\
+                  <i>years passed over the house:</i> (K:) or <i>the house became altered,</i> or <i>changed, and years passed over it:</i> and in like manner one says, اَعَامَت and اَشْهَرَت. (TA.) And حال said of a boy, <i>A year passed over him;</i> [or <i>he became a year old;</i>] (S;) as also ↓ <br>\
+      احول. (K.) And بِالمَكَانِ ↓ <br>\
+      احال (Ks, S, Msb, K) and ↓ <br>\
+      اَحْوَلَ (Ks, S, K) <i>He remained, stayed, abode,</i> or <i>dwelt, a year in the place:</i> (Ks, S, Msb, K:) or, as some say, <i>a long time.</i> (TA.) ―         -b7-  حَالَتْ, inf. n. حِيَالٌ (S, Msb, K) and حِيَالَةٌ and حُوُولٌ (K) and حُولٌ; (S;) and ↓ <br>\
+      احالت, and ↓ <br>\
+      حوّلت; (K;) said of a she-camel, (S, K,) &amp;amp;c., (K,) <i>She did not conceive,</i> or <i>become pregnant, during a year,</i> or <i>two years,</i> or <i>some years:</i> (K:) or <i>she, having been covered by the stallion, did not become pregnant:</i> (S, K:) or, said of a woman, and of a she-camel, <i>she did not become pregnant.</i> (Msb.) And حالت, (S, Mgh, Msb, TA,) and ↓ <br>\
+      احالت, (Mgh,) said of a palm-tree (نَخْلَةٌ), <i>It bore one year, and not another year:</i> (Mgh, TA:) or <i>did not bear,</i> (S, Msb,) <i>having been fecundated.</i> (S.) ―         -b8-  حال الشَّىْءُ بَيْنِى وَبَيْنَكَ, (S, Er-Rághib,) or بَيْنَ <br>\
+                  الشَّيْيَيْنِ, (Mgh, * K,) inf. n. حَيْلُولَةٌ, [originally حَيْوَلُولَةٌ,] (Mgh, Msb,) like كَيْنُونَةٌ [&amp;amp;c.], (Mgh,) and حُوُولٌ (Mgh) and حَوْلٌ, (Er-Rághib, TA,) <i>The thing intervened as a separation, a partition, a fence, a barrier,</i> or <i>an obstacle,</i> or <i>obstruction,</i> (S, K, Er-Rághib, TA,) <i>between me and thee,</i> (S, Er-Rághib, TA,) or <i>between the two things.</i> (K.) You say, حال النَّهْرُ بَيْنَنَا <br>\
+                  <i>The river intervened as a separation,</i> or <i>an obstacle, between us, preventing conjunction,</i> or <i>communication.</i> (Msb.) And حال الشَّىْءُ دُونَ الشَّىْءِ [<i>The thing intervened as an obstacle in the way to the thing</i>]. (S voce اِعْتَرَضَ.) It is said in the Kur [viii. 24], وَاْعْلَمُوا <br>\
+                  اَنَّ اْللّٰهَ يَحُولُ بَيْنَ المَرْءِ وَقَلْبِهِ [<i>And know ye that God interveneth,</i> or <i>interposeth, between the man and his heart,</i> or <i>secret thoughts,</i> or <i>desire</i>]: indicating that He turns him from his desire: (Er-Rághib, TA:) or that He possesses his heart, and  turns it as He wills: (O, TA:) or that a man cannot believe nor disbelieve unless it be God&#39;s will: (Jel:) or, as some say, that God destroys a man; or reduces him to the vilest condition of life, in order that he may not know, after knowing, anything. (Er-Rághib, TA. [See other remote interpretations in the Ksh, and the Expos. of Bd.]) And in the same [xxxiv. 53], وَحِيلَ بَيْنَهُمْ وَ بَيْنَ <br>\
+                  مَا يَشْتَهُونَ [<i>And an obstacle shall be made to intervene between them and that which they shall eagerly desire</i>]. (TA.) ―         -b9-  And حال الشَّىْءُ <br>\
+                  <i>The thing poured out,</i> or <i>forth.</i> (TA.) [See also 4.]       -A2-  حَوِلَتْ عَيْنُهُ, (S, K,) and حَالَتْ, inf. n. تَحَالُ, (K,) the latter, of the dial. of Temeem, accord. to Lth, (TA,) [but see what follows,] inf. n. حَوَلٌ; (S, M, Mgh, K;) and ↓ <br>\
+      احولّت, (S, K,) inf. n. ↓ <br>\
+      اِحْوِلَالٌ; (K;) <i>His eye</i> [<i>squinted;</i> i. e.] <i>had the white apparent at the outer angle, and the black next the inner angle:</i> (M, K:) or <i>had the black turning towards the nose:</i> (Lth, M, K:) or <i>had one of the two blacks turned towards the nose, and the other towards the temple:</i> (Mgh:) or <i>had its black next the outer angle:</i> or <i>his eye was as though it looked towards the</i> <br>\
+                  حِجَاج [or <i>supraorbital bone</i>]: or <i>had the black inclining towards the outer angle:</i> (M, K:) the first of which meanings is that commonly known: but some say that حَالَتْ signifies it was turned from its proper state: or it is anomalous: (TA:) the epithet applied to the man is ↓ <br>\
+      اَحْوَلُ, (S, Mgh, K,) and ↓ <br>\
+      حَوِلٌ: and that applied to the eye is [the fem. of the former of these, i. e.] ↓ <br>\
+      حَوْلَا=ءُ: (K:) the pl. of which, and of the masc., is حُولٌ. (Har p. 412.)    </entryFree> <br>\
+<b>حوّلهُ</b>               1     <br>\
+                     حوّلهُ<br>\
+                     حول<br>\
+                     حوله<br>\
+                     حولة<br>\
+                  , inf. n. تَحْوِيلٌ, <i>He altered it, transmuted it,</i> or <i>changed it,</i> whether <i>essentially,</i> or <i>substantially,</i> or <i>in respect of predicament</i> [or <i>state</i> or <i>condition</i>], or <i>by saying;</i> (Er-Rághib, TA:) [as also ↓ <br>\
+      احالهُ.] ―         -b2-  [Hence, <i>He turned it over,</i> or <i>about, in his mind, considering what might be its results, and so managed it;</i> namely, an affair; like قَلَّبَهُ.] You say, رَجُلٌ بَصِيرٌ بِتَحْوِيلِ <br>\
+                  الاُمُورِ [<i>A man who is knowing, skilful,</i> or <i>intel-ligent, in turning affairs over,</i> or <i>about, in his mind,</i> &amp;amp;c.]. (S, TA.) And رَاْيَهُ فِى الاَمْرِ ↓ <br>\
+      احال <br>\
+                  <i>He altered,</i> or <i>changed, his opinion respecting the thing,</i> or <i>affair.</i> (MA.) ―         -b3-  <i>He shifted it, removed it,</i> or <i>transferred it, from one place to another:</i> (S, * Mgh, O, Msb, TA:) or حوّلهُ اـِلَيْهِ <br>\
+                  <i>he shifted it, removed it,</i> or <i>transferred it, to it,</i> or <i>him:</i> (K:) and ↓ <br>\
+      احالهُ signifies the same. (Msb.) [Hence,] حوّل الرِّدَا=ءَ, (Msb,) inf. n. as above, (Mgh,) <i>He put the right side of the</i> [<i>garment called</i>] رداء <br>\
+                  <i>on the left:</i> (Mgh:) or <i>he shifted each extremity of the</i> <br>\
+                  رداء <br>\
+                  <i>to the place of the other.</i> (Msb.) ―         -b4-  <i>He transferred,</i> or <i>transcribed, what was in it,</i> namely, a book, or writing, <i>to another, without doing away with the original form.</i> (TA.) ―         -b5-  <i>He made it,</i> or <i>pronounced it to be,</i> <br>\
+                  مُحَال [i. e. <i>absurd, inconsistent, self-contradictory, unreal,</i> or <i>impossible</i>]. (K. [See also 4.]) ―         -b6-  حوّل عَيْنُهُ: see 4.       -A2-  See also 5, in two places. ―         -b2-  حَوَّلَتْ said of a she-camel &amp;amp;c., <i>i. q.</i> <br>\
+                  حَالَتْ: (K:) see 1.    </entryFree> <br>\
+<b>حاولهُ</b>               1     <br>\
+                     حاولهُ<br>\
+                     حاول<br>\
+                     حاوله<br>\
+                     حاولة<br>\
+                  , (S, M, K,) inf. n. مُحَاوَلَةٌ (M, K, KL) and حِوَالٌ, (M, K, TA, [in the CK, erroneously, حَوال,]) <i>He desired it:</i> (S, KL:) <i>he sought it:</i> (M, K, KL:) or <i>he sought it by an artful contrivance</i> or <i>device;</i> or <i>by artful,</i> or <i>skilful, management; by turning over,</i> or <i>revolving, thoughts, ideas, schemes,</i> or <i>contrivances, in his mind, so as to find a way of attaining his object;</i> syn. طَلَبَهُ بِحِيلَةٍ, (A,) or بِاْلْحِيلَةِ. (Har p. 326.) Aboo-Heiyeh En-Numeyree says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَمَنْ يُحَاوِلُ شَيْيًا فِى فَمِ الاَسَدِ<br>\
+                  </quote> [<i>And who will seek to get a thing in the mouth of the lion?</i>] (Freytag&#39;s Arab. Prov. ii. 714.) And one says, حاول مِنْهَا الجِمَاعَ [<i>He desired,</i> or <i>sought, of her, copulation, using blandishment,</i> or <i>artifice, for that purpose</i>]. (T in art. رود, بِكَ اُحَاوِلُ occurring in a trad., means بك اُطَالِبُ [app. <i>By means of Thee I seek,</i> or <i>demand,</i> that which I want]. (Az, M, A, TA.) One says also, حَاوَلْتُهُ <br>\
+                  اَنْ يَفْعَلَ الاَمْرَ [<i>I sought,</i> or <i>endeavoured, to induce him to do the thing</i>], and اَنْ يَتْرُكَهُ [<i>to leave it</i>]. (A in art. دور.) And, of water, حاول اَنْ <br>\
+                  يَجْمُدَ (L and K in art. جمد) (assumed tropical:)  <i>It was about to congeal,</i> or <i>freeze; was at the point of congealing,</i> or <i>freezing.</i> (TK in that art.) ―         -b2-  حَاوَلْتُ لَهُ بَصَرِى <br>\
+                  <i>I looked sharply,</i> or <i>intently, at him; I cast my eyes at him.</i> (ISd, K.)    </entryFree> <br>\
+<b>احال</b>               1     <br>\
+                     احال<br>\
+                     احال<br>\
+                     احال<br>\
+                  , as an intrans. v.: see 1, in eighteen places. ―         -b2-  تَجَنَّبَ رَوْضَةً وَاَحَالَ يَعْدُو [<i>He withdrew from a meadow, and set to running,</i>] is a prov., meaning he forsook abundance of herbage, or of the goods and conveniences and comforts of life, and preferred to it straitness, or difficulty. (S.) ―         -b3-  احال عَلَيْهِ بِالسَّوْطِ <br>\
+                  <i>He set upon him with the whip,</i> (S, MA, K,) يَضْرِبُهُ [<i>striking him</i>]: (S:) or <i>he desired to strike him with the whip:</i> or <i>he struck him with the whip:</i> (MA:) and اَحَلْتُهُ <br>\
+                  بِالسَّوْطِ, and بِالرُّمْحِ, [if احلته be not a mistranscription for اَحَلْتُ عَلَيْهِ, in the MS. from which I take this, as it may be inferred to be from what here precedes and follows,] <i>I aimed at him with the whip,</i> and <i>with the spear, and set upon him with it:</i> whence the saying, of him who has struck one at the point of death, and killed him, يُحِيلُ المَوْتَ عَلَى الضَّرْبِ, i. e. (assumed tropical:)  <i>He makes death</i> [<i>as it were</i>] <i>to hang upon, and cleave to, striking;</i> like as the spear is made to cleave to the مُحَال <br>\
+                  عَلَيْه, who is the person thrust, or pierced. (Msb.) El-Farezdak says, (S, TA,) addressing Hubeyreh Ibn-Damdam, (TA,) <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَكُنْتَ كَذِيْبِ السَّوْءِ لَمَّا رَاَى دَمًا<br>\
+                     <L><br>\
+                        بِصَاحِبِهِ يَوْمًا اَحَالَ عَلَى الدَّمِ<br>\
+                  </quote> i. e. [<i>And thou mast like the wicked wolf: when he saw blood upon his companion, one day,</i>] <i>he set upon the blood.</i> (S, TA.) ―         -b4-  [Hence, perhaps,] حال عَلَيْهِ <br>\
+                  <i>He reckoned him,</i> or <i>esteemed him, weak.</i> (K.) ―         -b5-  احال اللَّيْلِ <br>\
+                  <i>Night poured upon the earth;</i> (K;) and <i>came on.</i> (TA.) [See also 1, last sentence but one.] ―         -b6-  احال بِفُلَانٍ الخُبْزُ <br>\
+                  <i>The bread fattened such a one;</i> and in like manner one says of anything by which one becomes fat. (AA, TA.) ―         -b7-  And احال <br>\
+                  <i>He did,</i> or <i>said, what was</i> <br>\
+                  مُحَال [i. e. <i>absurd, inconsistent, self-contradictory, unreal,</i> or <i>impossible</i>]. (S, Sgh, K. *) ―         -b8-  And <i>His camels did not conceive,</i> or <i>become pregnant,</i> (AA, S, K,) <i>during a year,</i> or <i>two years,</i> or <i>some years,</i> (K,) <i>having been covered.</i> (S.)       -A2-  As a trans. v.: see 2, in three places. ―         -b2-  احال الغَرِيمَ <br>\
+                  <i>He referred the creditor, from himself,</i> [<i>for the payment of what was due to him,</i>] <i>to another.</i> (M, K.) And اَحَلْتُهُ بِدَيْنِهِ <br>\
+                  <i>I transferred his debt</i> [i. e. the debt due to him from me] <i>by making another person than myself responsible for it.</i> (Msb.) And اَحَلْتُ زَيْدًا بِمَا كَانَ لَهُ عَلَىَّ عَلَى رَجُلٍ <br>\
+                  <i>I referred,</i> or <i>turned over, Zeyd, for the payment of what was due to him from me, to a certain man, transferring the responsibility for the debt to the latter:</i> in which case, I am termed ↓ <br>\
+      مُحِيلٌ; and Zeyd is termed ↓ <br>\
+      مُحَالٌ; and the other man, عَلَيْهِ ↓ <br>\
+      مُحَالٌ, and عليه ↓ <br>\
+      مُحْتَالٌ, and ↓ <br>\
+      حَوِيلٌ; and the property, بِهِ ↓ <br>\
+      مُحَالٌ: (Mgh:) and ↓ <br>\
+      حَيِّلٌ, [originally حَوِيلٌ or حَيْوِلٌ,] also, is applied to him to whom the reference is made; and to him who accepts the reference; both together being termed حَيِّلَانِ. (Aboo-Sa&#39;eed, TA.) And you say, احال <br>\
+                  عَلَيْهِ بِدَيْنِهِ [<i>He referred</i> a person <i>to him for the payment of his debt</i>]. (S.) And احال [alone] <i>He transferred the debt for which he was responsible to the responsibility of another.</i> (Har p. 59.) And اَحَلْتُ الاَمْرَ عَلَى زَيْدٍ [<i>I turned over the affair to Zeyd;</i>] <i>I made the performance of the affair to be required restrictively of Zeyd.</i> (Msb.) ―         -b3-  احال عَلَيْهِ المَا=ءَ <br>\
+                  <i>He poured out the water upon it:</i> (K:) or احال المَا=ءَ مِنَ الدَّلْوِ <br>\
+                  <i>he poured forth the water from the bucket, and turned over the latter.</i> (S.) ―         -b4-  احال اْللّٰهُ عَلَيْهِ <br>\
+                  الحَوْلَ [<i>God made the year to pass over him,</i> or <i>it</i>]: (Lh, TA:) or احال اللّٰه الحَوْلَ <br>\
+                  <i>God made the year complete.</i> (K, TA.) ―         -b5-  احال الرَّجُلُ اـِبِلَهُ <br>\
+                  العَامَ [<i>The man made his she-camels to pass the year without becoming pregnant;</i> or] <i>the stallion did not cover the man&#39;s she-camels during the year.</i> (Lh, TA.) ―         -b6-  اَحْوَلَ عَيْنَهُ, (Ks, Lh, S,) or اَحَالَهَا, and ↓ <br>\
+      حوّلها, (K,) <i>He made his eye to be</i> <br>\
+                  حَوْلَا=ءَ [i. e. <i>squinting,</i> &amp;amp;c.]. (Ks, Lh, S, K.) [See 1, last sentence.] ―         -b7-  احال كَلَامَهُ <br>\
+                  <i>He made his speech</i> <br>\
+                  مُحَال [i. e. <i>absurd, inconsistent,</i> or <i>self-contradictory</i>]. (S. [See also 2.])       -A3-  مَا اَحْوَلَ <br>\
+                  حِيلَكَ <br>\
+                  <i>How fluctuating,</i> and <i>shifting,</i> and <i>varying, are thy evasions, wiles, artifices,</i> or <i>artful contrivances</i> or <i>devices!</i> (Har p. 309.) ―         -b2-  And مَا اَحْوَلَهُ <br>\
+                  <i>How surpassing is he in the practice of evasions, shifts, wiles, artifices,</i> or <i>artful contrivances</i> or <i>devices;</i> or <i>in turning over,</i> or <i>revolving, thoughts, ideas, schemes,</i> or <i>contrivances, in his mind, so as to find a way of attaining his object!</i> (Fr, S, K;) as also ما اَحْيَلَهُ. (Fr, S in art. حيل, and K.)    </entryFree> <br>\
+<b>تحوّل</b>               1     <br>\
+                     تحوّل<br>\
+                     حال<br>\
+                     حول<br>\
+                     تحول<br>\
+                     ٱحول<br>\
+                  : see 1, first sentence, in three places. [Hence,] تحوّل مُبْتَدِعًا [<i>He turned innovator</i>]. (O and K in art. بدع.) ―         -b2-  <i>It shifted,</i> or <i>removed,</i> <br>\
+                   or <i>went,</i> or <i>became shifted</i> or <i>transferred,</i> (S, Msb, K,) from one place to another, (S,) or from its place; (Msb;) as also ↓ <br>\
+      حوّل (S, * Msb, K *) [and حال and استحال, as shown above: see 1, near the beginning.] You say, تحوّل مِنْ مَكَانِهِ <br>\
+                  <i>It shifted,</i> &amp;amp;c., <i>from its place.</i> (Msb.) And تحوّل <br>\
+                  عَنْهُ <br>\
+                  <i>It shifted from it to another.</i> (K.) And تحوّل اـِلَى مَكَانٍ ا=خَرَ <br>\
+                  <i>i. q.</i> <br>\
+                  حَالَ, q. v. (S.) And المَجَرَّةُ ↓ <br>\
+      حَوَّلَتِ <br>\
+                  <i>The Milky Way became in the midst of the sky;</i> which it does in the summer, (Sh, K, TA,) when the season of heat comes on. (Sh, TA.) ―         -b3-  See also 8, in two places.       -A2-  Also, (S, K,) or تحوّل حَالًا, (TA,) <i>He carried a bundle upon his back.</i> (S, K, TA.) And تحوّل <br>\
+                  الكِسَا=ءِ <br>\
+                  <i>He put a thing in the</i> [<i>garment called</i>] كساء, <i>and then carried it on his back.</i> (M, K.) ―         -b2-  تحوّلهُ بِالمَوْعِظَةِ <br>\
+                  <i>He sought to avail himself of the state in which he might be rendered prompt,</i> or <i>willing, to accept admonition.</i> (AA, K.)    </entryFree> <br>\
+<b>احتال عَلَيْهِ بِالدَّيْنِ</b>               1     <br>\
+                     احتال عَلَيْهِ بِالدَّيْنِ<br>\
+                     احتال عليه بالدين<br>\
+                   [meaning <i>He was referred,</i> or <i>turned over, to him for the payment of the debt</i>] is from الحَوَالَةُ. (S, TA.) You say, احتال زَيْدٌ بِمَا كَانَ لَهُ عَلَىَّ عَلَى رَجُلٍ <br>\
+                  <i>Zeyd was referred,</i> or <i>turned over, for the payment of what was due to him from me, to a certain man, to whom the responsibility for the debt was transferred.</i> (Mgh.) ―         -b2-  احتال said of a year; see 1. ―         -b3-  احتال (S, MA, Msb, K, KL) and ↓ <br>\
+      تحوّل (S, K) and تحيّل (K) signify the same, (S, K,) from الحِيلَةُ [q. v.]; (S;) and ↓ <br>\
+      حَالَ, (Ham p. 652,) inf n. مَحَالٌ and حِيلَةٌ, (Ham ib. and K, *) also signifies the same as احتال; (Ham ib.;) which means <i>He practised</i> <br>\
+                  حِيلَة [i. e. <i>an evasion</i> or <i>elusion, a shift, a wile, an artifice,</i> or <i>an artful contrivance</i> or <i>device, a machination, a trick, a plot, a stratagem,</i> or <i>an expedient,</i> &amp;amp;c.]: (MA, KL:) or <i>he exercised art, artifice, cunning, ingenuity,</i> or <i>shill, and excellence of consideration</i> or <i>deliberation, and ability to manage according to his own free mill,</i> (K, TA,) <i>with subtilty:</i> (TA:) or <i>he sought</i> <br>\
+                  الحِيلَة i. e. [<i>means of evading,</i> or <i>eluding, a thing,</i> or <i>of effecting an object, by</i>] <i>the exercise of art, artifice, cunning, ingenuity,</i> or <i>skill, in the management of affairs; by the turning over,</i> or <i>revolving, thoughts, ideas, schemes,</i> or <i>contrivances, in his mind, so as to find a way of attaining his object.</i> (Msb.) You say, احتال فِى الاَمْرِ and ↓ <br>\
+      تحوّل [&amp;amp;c., <i>He practised an evasion</i> or <i>elusion,</i> &amp;amp;c., <i>in the affair</i>]. (K.) [And احتال عَلَيْهِ <br>\
+                  <i>He practised an artifice,</i> or <i>an artful contrivance</i> or <i>device,</i> &amp;amp;c., <i>against him.</i> And احتال لِعِيَالِهِ <br>\
+                  <i>He exercised art, artifice, cunning, ingenuity,</i> or <i>skill, in the management of affairs, for his family,</i> or <i>household.</i>]       -A2-  اِحْتَوَلُوهُ <br>\
+                  <i>They encompassed,</i> or <i>surrounded, him;</i> or <i>made him to be in the midst of them.</i> (M, O, K.)    </entryFree> <br>\
+<b>احوّلت عَيْنُهُ</b>               1     <br>\
+                     احوّلت عَيْنُهُ<br>\
+                     احولت عينه<br>\
+                     احولت عينة<br>\
+                  : see 1, last sentence. ―         -b2-  [احوّلت <br>\
+                  الاَرْضُ: see 11.]    </entryFree> <br>\
+<b>استحال</b>               1     <br>\
+                     استحال<br>\
+                     استحال<br>\
+                     ٱستحال<br>\
+                  : see 1, in six places. ―         -b2-  Also <i>It</i> (speech, or language, S, Msb, or a thing, TA) <i>became</i> <br>\
+                  مُحَال [i. e. <i>absurd, inconsistent, selfcontradictory, unreal,</i> or <i>impossible</i>]. (S, Msb, TA.)       -A2-  استحالهُ <br>\
+                  <i>He looked at it,</i> (S, M, K,) namely, a شَخْص [i. e. a man, or person, or the figure of a thing seen at a distance], (S,) <i>to see if it moved:</i> (S, M, K:) as though he sought, or desired, its motion and change. (TA.) And استحال الجَهَامَ <br>\
+                  <i>He looked at</i> [<i>the waterless clouds,</i> or <i>the clouds that had poured forth their water, to see if they changed</i> or <i>moved</i>]. (TA.) ―         -b2-  <i>He reckoned it</i> <br>\
+                  مُحَال [i. e. <i>absurd, inconsistent,</i> &amp;amp;c.: see above]. (KL.)    </entryFree> <br>\
+<b>احوالّت الاَرْضُ</b>               1     <br>\
+                     احوالّت الاَرْضُ<br>\
+                     ذ<br>\
+                  , (K, TA, [in the CK احوّلت,]) inf. n. اِحْوِيلَالٌ, (TA,) (tropical:)  <i>The land became green, and its herbage stood erect,</i> or <i>became strong and erect.</i> (K, TA.) [See حُوَلَا=ءُ.]    </entryFree> <br>\
+<b>حَالٌ</b>               1     <br>\
+                     حَالٌ<br>\
+                     حال<br>\
+                   The <i>state, condition,</i> or <i>case,</i> (صِفَة,) of a thing; [considered as subject to change;] (Msb, Er-Rághib, TA;) as also ↓ <br>\
+      حَالَةٌ: (Msb:) or the <i>quality,</i> or <i>manner of being,</i> and <i>state,</i> or <i>condition,</i> of a man, (K, TA,) <i>in respect of good or evil;</i> (TA;) as also ↓ <br>\
+      حَالَةٌ: (K:) or the <i>particular case,</i> or <i>predicament,</i> of a man &amp;amp;c., <i>in respect of changing events, in the soul and the body and the acquisitions:</i> (Er-Rághib, TA:) and in the coventional language of the logicians, <i>a fleeting,</i> or <i>quickly-transient, quality, such as accidental heat and cold and moisture and dryness;</i> as also ↓ <br>\
+      حَالَةٌ: (TA:) <i>anything changing:</i> (Ham p. 288:) the <i>time in which one is;</i> (Lth, K;) [the <i>present time;</i>] the <i>end of the past,</i> and the <i>beginning of the future:</i> and as a conventional term, [in grammar, the <i>present tense:</i> and (tropical:)  the <i>future:</i> and also] <i>a denotative of state</i> of the agent or of the objective complement; [the former termed حَالٌ مِنَ الفَاعِلِ; and the latter, حَالٌ مِنَ المَفْعُولِ; and each said to be مَنْصُوبٌ <br>\
+                  عَلَى الحَالِ, i. e. <i>put in the accus. case as a denotative of state,</i> unless expressed by a complete proposition;] as [قَايِمًا] in the phrase زَيْدٌ فِى <br>\
+                  الدَّارَ قَايِمًا [Zeyd is in the house, standing], and in ضَرَبْتُ زَيْدًا قَايِمًا [I beat Zeyd standing]: (Ibn-El-Kemál, TA:) it is fem., like حَالَةٌ; (Msb;) and mase. ; (Msb, K;) but mostly fem.: (TA:) the pl. is اَحْوَالٌ and اَحْوِلَةٌ, (K,) [both properly pls. of pauc., but the former often used as a pl. of mult., and often signifying <i>circumstances,</i>] the latter anomalous: (TA:) the pl. of ↓ <br>\
+      حَالَةٌ is حَالَاتٌ: (TA:) or ↓ <br>\
+      حالة is the n. un. or sing. of حَالٌ and اَحْوَالٌ [and حَالَاتٌ], used in relation to a man. (S, O.) You say حَالٌ حَسَنٌ and حَسَنَةٌ [<i>A good state</i> or <i>condition</i> &amp;amp;c.; as also ↓ <br>\
+      حَالَةٌ <br>\
+                  حَسَنَةٌ]. (Msb.) And الدَّهْرِ ↓ <br>\
+      حَالَاتُ and اَحْوَالُهُ <br>\
+                  <i>The changes,</i> or <i>vicissitudes, of time</i> or <i>fortune.</i> (K.) [And اِفْعَلْهُ حَالًا and فِى الحَالِ <br>\
+                  <i>Do thou it now,</i> or <i>immediately.</i> And عَلَى كُلِّ حَالٍ <br>\
+                  <i>In any case:</i> a phrase of frequent occurrence. The phrase قَالَ لِسَانُ الحَالِ (assumed tropical:)  <i>The tongue of the case said,</i> (often used by late writers,) means <i>the case seemed to say.</i>]       -A2-  <i>A load,</i> or <i>burden:</i> (Ham p. 299:) [whence, perhaps, خَفِيفُ الحَالِ (which see in what follows) as meaning (assumed tropical:)  <i>having a small family to maintain:</i>] and hence, (Ham ib.,) <i>a bundle,</i> or <i>bundle of clothes,</i> (كَارَةٌ,) <i>which is carried on the back</i> (S, Ham ib.) <i>by a man:</i> (S:) or <i>a thing that a man carries on his back,</i> (ISd, O, K,) <i>whatever it be.</i> (ISd, TA.) ―         -b2-  <i>A</i> [<i>garment of the kind called</i>] كِسَا=ء <br>\
+                  <i>in which one collects,</i> or <i>seeks and collects, dry herbage:</i> (O, K:) or <i>a garment,</i> or <i>piece of stuff, of which two ends are tied in a knot behind the flanks, and the other two ends over the head; in which one collects dry herbage;</i> also called شُكْبَانٌ. (TA in art. شكب.)       -A3-  <i>A child&#39;s go-cart, by means of which he practises walking;</i> (S, K *, TA;) <i>resembling a small</i> <br>\
+                  عَجَلَة; (S;) also called دَرَّاجَةٌ [q. v.]. (S, TA.)       -A4-  The <i>part</i> of a horse <i>that is the place of the</i> <br>\
+                  لِبْد [or <i>saddle-cloth</i>]: or the <i>line along the middle of the back:</i> (K, TA:) or حَالُ مَتْنِ الفَرَسِ signifies <i>the middle of the back of the horse; the place of the</i> <br>\
+                  لِبْدِ. (S.) [See also its syn. حَاذٌ.] خَفِيفُ الحَالِ signifies the the same as خَفِيفُ الحَاذِ, (A in art. حوذ,) which means (tropical:)  A man <i>light of back;</i> (S, A, L, Msb, all in art. حوذ;) i. e. <i>having little property:</i> and also <i>having a small family to maintain;</i> (L in that art. ;) or <i>having little property and a small family to maintain;</i> (L and K in that art. ;) like خَفِيفُ الظَّهْرِ. (A, L, Msb, all in that art.)       -A5-  <i>Black mud:</i> (S, K:) from حَالَ “ it became altered, or changed. ” (TA.) It is said in a trad. that the حال of El-Kowthar is musk: (TA:) and in another, that Gabriel took of the حال of the river [Nile] and put it into the mouth of Pharaoh; (S, TA;) but here it has the meaning next following. (TA.) <i>Black fetid mud;</i> syn. حَمْاَةٌ. (K, and Ham p. 288.) And <i>Soft earth.</i> (K, and Ham ib.) ―         -b2-  And hence, (tropical:)  <i>Weakness,</i> and <i>softness.</i> (Ham ib.) ―         -b3-  <i>Stinking flesh-meat.</i> (Ham ib.) ―         -b4-  <i>Hot ashes</i> (IAar, K, and Ham ib.) ―         -b5-  The <i>leaves of the</i> <br>\
+                  سَمُر [<i>acacia,</i> or <i>mimosa, gummifera,</i>] <i>beaten and shaken off into a garment,</i> or <i>piece of cloth.</i> (K.) ―         -b6-  <i>Milk.</i> (M, K.)       -A6-  In the dial. of Hudheyl, (IAar, TA,) <i>A wife.</i> (IAar, K.)    </entryFree> <br>\
+<b>حَوْلٌ</b>               1     <br>\
+                     حَوْلٌ<br>\
+                     حول<br>\
+                  <i>A year;</i> (S Msb, K, Er-Rághib, &amp;amp;c. ;) so termed in consideration of its changing, and of the revolution of the sun in its places of rising and setting; (Er-Rághib, TA;) or as being the period in which [certain] plants attain their complete strength: (El-Harállee, TA:) and <i>even if it has not passed;</i> because it will be [properly speaking] a حَوْل: an inf. n. used as a simple subst.: (Msb:) pl. [of pauc., but also used as a pl. of mult.,] اَحْوَالٌ (M, Msb, K) and [of mult.] حُوُولٌ and حُوُولٌ, (M, K,) the former with ء and the latter with و. (TA.)       -A2-  <i>Strength, power, might,</i> or <i>force;</i> syn. قُوَّةٌ; (S, TA;) as also ↓ <br>\
+      حِيلَةٌ [originally حِوْلَةٌ] (TA) and ↓ <br>\
+      حَوْلَةٌ, (K, TA,) or this last is a n. un. from حَوْلٌ: (TA:) it is <i>in the soul and the body and the acquisitions:</i> and hence the saying, in a trad., لَا حَوْلَ وَ لَا قُوَّةَ اـِلَّا بِاْللّٰهِ العَلِىِّ العَظِيمِ [<i>There is no strength nor power but in,</i> or <i>by means of, God, the High, the Great</i>]: (Er-Rághib, TA:) or it here signifies <i>motion;</i> [see also حَوْلَةٌ;] and the meaning is, <i>there is no motion nor power,</i> <br>\
+                   or <i>ability, but by the will of God:</i> (AHeyth, TA:) or, as some say, the meaning is, <i>there is no</i> <br>\
+                  حول [i. e. <i>changing,</i> or <i>turning,</i> or <i>receding,</i>] from disobedience, <i>nor</i> <br>\
+                  قوّة [i. e. <i>power</i>] to obey, <i>but by the accommodating,</i> or <i>disposing, of God.</i> (Msb.) ―         -b2-  See also حِيلَةٌ.       -A3-  حَوْلُ شَىْءِ <br>\
+                  <i>The lateral,</i> or <i>adjacent, part to which a thing may shift,</i> or <i>remove:</i> (Er-Rághib, TA:) or <i>the environs</i> [<i>of a thing</i>]. (Msb.) You say, قَعَدُوا <br>\
+                  حَوْلَهُ, (S, K, *) or قَعَدْنَا حَوْلَهُ, the noun being in the accus. case as an adv. n. of place, i. e., [<i>They sat,</i> or <i>we sat, around him,</i> or <i>it,</i> or] <i>in his,</i> or <i>its, environs;</i> (Msb;) and ↓ <br>\
+      حَوَالَهُ, and حَوْلَيْهِ, (S, K,) dual of حَوْل, (TA,) and ↓ <br>\
+      حَوَالَيْهِ, (S, Msb, K,) dual of حَوَال, (TA,) and اَحْوَالَهُ, (ISd, K,) pl. of حَوْل, and used to give intensiveness to the meaning: (ISd, TA:) but you should not say حَوَالِيهِ. (S, Sgh.) And وَلَا عَلَيْنَا ↓ <br>\
+      اَللّٰهُمَّ حَوَالَيْنَا [<i>O God,</i> be Thou <i>around us</i> as our protector, <i>and not against us,</i>] occurs in a trad. respecting prayer. (TA.) It is said, in the Expos. of the exs. cited as testimonies by Sb, that one sometimes says ↓ <br>\
+      حَوَالَيْكَ and حَوْلَيْكَ, meaning <i>Around thee, in every direction;</i> dividing the surrounding parts into two; like as one says, اَحَاطُوا بِهِ <br>\
+                  مِنْ جَانِبَيْهِ, not meaning that any of the surrounding parts remained vacant. (TA.) [See also an ex. voce دَنْدَنَ.]    </entryFree> <br>\
+<b>حَوَلٌ</b>               1     <br>\
+                     حَوَلٌ<br>\
+                     حول<br>\
+                   inf. n. of حَوِلَتْ عَيْنُهُ. (S, K. [See 1, last sentence.])       -A2-  See also حَايِلٌ.    </entryFree> <br>\
+<b>حَوِلٌ</b>               1     <br>\
+                     حَوِلٌ<br>\
+                     حول<br>\
+                  : see حُوَّلٌ: ―         -b2-  and see also 1, last sentence.    </entryFree> <br>\
+<b>حُوَلٌ</b>               1     <br>\
+                     حُوَلٌ<br>\
+                     حول<br>\
+                  : see حُوَّلٌ: ―         -b2-  and حَايِلٌ: ―         -b3-  and حِيَالٌ.    </entryFree> <br>\
+<b>حِوَلٌ</b>               1     <br>\
+                     حِوَلٌ<br>\
+                     حول<br>\
+                  <i>Removal</i> from one place to another, <i>in a passive sense;</i> a subst. from تَحَوَّلَ: (S, O, K:) and <i>in an active sense;</i> a subst. from حَوَّلَهُ; (K;) accord. to ISd, it is the latter [only]; (TA;) as also ↓ <br>\
+      حَوِيلٌ. (K.) Hence, in the Kur [xviii. 108], لَا يَبْغُونَ عَنْهَا حَوْلًا [<i>They shall not desire removal from it</i>]      <br>\
+                     حَوُلَ<br>\
+                   (S, M, O, K:) or, as some say, it here means ↓ <br>\
+      حِيلَةً; i. e. <i>they shall not</i> [<i>desire to</i>] <i>practise,</i> or <i>seek to practise, any evasion from it</i> to another abode. (TA.) ―         -b2-  See also حِيَلةٌ [of which it is said to be both a syn. and a pl.]. ―         -b3-  And see حُولَةٌ.       -A2-  Also <i>A furrow,</i> or <i>trench, in the ground, in which palm-trees are planted in a row.</i> (ISd, K.)    </entryFree> <br>\
+<b>حَالَةٌ</b>               1     <br>\
+                     حَالَةٌ<br>\
+                     حال<br>\
+                     حاله<br>\
+                     حالة<br>\
+                  ; pl. حَالَاتٌ: see حَالٌ, in seven places.    </entryFree> <br>\
+<b>حَوْلَةٌ</b>               1     <br>\
+                     حَوْلَةٌ<br>\
+                     حول<br>\
+                     حوله<br>\
+                     حولة<br>\
+                  <i>Motion,</i> or <i>removal,</i> (تَحَرُّكٌ or تَحَوُّلٌ, accord. to different copies of the K, the former being the reading in the TA,) and <i>change of state.</i> (K.) [See also حَوْلٌ. And see حَالَ عَلَى الفَرَسِ, of which it is the inf. n.] ―         -b2-  See also حِيلَةٌ. ―         -b3-  And see حَوْلٌ, as meaning قُوَّةٌ.    </entryFree> <br>\
+<b>حُولَةٌ</b>               1     <br>\
+                     حُولَةٌ<br>\
+                     حول<br>\
+                     حوله<br>\
+                     حولة<br>\
+                  : see حُوَّلٌ: ―         -b2-  and حِيلَةٌ. ―         -b3-  Also <i>A wonder,</i> or <i>wonderful thing;</i> pl. حُولٌ. (K: [but probably this should be حُوَلٌ, as below.]) ―         -b4-  [It is also used as a pl., signifying <i>Wonders.</i>] You say, هٰذَا مِنْ حُولَةِ الدَّهِْ <br>\
+                  <i>This is of the wonders of the age,</i> or <i>of time,</i> or <i>fortune;</i> as also من ↓ <br>\
+      حَوَلَانِهِ, and ↓ <br>\
+      حِوَلِهِ [pl. of ↓ <br>\
+      حِيلَةٌ], and ↓ <br>\
+      حُوَلَايِهِ. (K, TA: the last, in one copy of the K, ↓ <br>\
+      حُوَلَانِهِ, and in the CK ↓ <br>\
+      حُوْلانهِ.) ―         -b5-  <i>An evil,</i> or <i>abominable, event</i> or <i>accident;</i> (K, * TA;) <i>a calamity,</i> or <i>misfortune:</i> pl. حُوَلٌ: as in the saying, هُوَ حُولَةٌ مِنَ الحُوَلِ <br>\
+                  <i>It is a calamity of calamities.</i> (S, TA.) It is also used as an epithet; so that one says, جَا=ءَ بِاَمْرٍ حُولَةٍ [<i>He did,</i> or <i>brought to pass, an evil,</i> or <i>abominable, thing</i>]. (M, TA.)    </entryFree> <br>\
+<b>حِيلَةٌ</b>               1     <br>\
+                     حِيلَةٌ<br>\
+                     حيل<br>\
+                     حيله<br>\
+                     حيلة<br>\
+                  , (S, M, Msb, K, &amp;amp;c.,) originally حِوْلَةٌ, (Er-Rághib, TA,) [said to be an inf. n., (see 8,)] and ↓ <br>\
+      حَوْلٌ (S, M, K) and حَيْلٌ and ↓ <br>\
+      حِوَلٌ, (M, K,) which is also a pl. of the first, (K,) and ↓ <br>\
+      حَوْلَةٌ (K) and ↓ <br>\
+      حُولَةٌ (Ks, TA) and ↓ <br>\
+      حَوِيلٌ (M, K) and ↓ <br>\
+      حَايِلَةٌ (Ham p. 652) and ↓ <br>\
+      مَحَالَةٌ (S, K) and ↓ <br>\
+      مَحَالٌ, (M, K,) [said to be an inf. n., (see 8,)] and ↓ <br>\
+      مَحِيلَةٌ, (Sgh, TA,) <i>i. q.</i> <br>\
+                  اِحْتِيَالٌ and تَحَوُّلٌ and تَحَيُّلٌ; (M, K; [see 8;]) [or <i>A mode,</i> or <i>manner, of changing from one state to another,</i> or <i>of shifting from one thing to another;</i> <br>\
+                  حِيلَةٌ being of the measure فِعْلَةٌ from حَالَ, like جِلْسَةٌ &amp;amp;c. from جَلَسَ &amp;amp;c.; or from تَحَوُّلٌ as syn. with حَالَ; (see what follows;) <i>a mode,</i> or <i>means, of evading</i> or <i>eluding a thing,</i> or <i>of effecting an object; an evasion</i> or <i>elusion, a shift, a wile, an artifice,</i> or <i>artful contrivance</i> or <i>device, a machination, a trick, a plot, a stratagem,</i> or <i>an expedient;</i>] <i>a means of effecting one&#39;s transition from that which he dislikes to that which he likes;</i> (KT, in explanation of the first word;) <i>art, artifice, cunning, ingenuity,</i> or <i>skill,</i> (Msb, K,) <i>in the management of affairs;</i> i. e. the <i>turning over,</i> or <i>revolving, thoughts, ideas, schemes,</i> or <i>contrivances, in the mind, so as to find a way of attaining one&#39;s object;</i> (Msb;) and <i>excellence of consideration</i> or <i>deliberation;</i> and <i>ability to manage according to one&#39;s own free will,</i> (K, TA,) <i>with subtilty:</i> (TA:) accord. to Er-Rághib, حِيلَةٌ signifies <i>a means of attaining to some state concealedly;</i> and it is mostly used of that in which is sin, or offence, or disobedience; but sometimes of that in the exercise of which is wisdom; and hence God is described as شَدِيدُ ↓ <br>\
+      المَحَالِ, meaning <i>strong in attaining, concealedly from men, to that in which is wisdom:</i> accord. to Abu-l-Bakà, it is from التَّحَوُّلُ; because by it one shifts from one state to another, by a species of forecast, and gentleness, or delicacy, so as to change a thing from its outward appearance: (TA:) the pl. of حِيلَةٌ is حِوَلٌ and حِيَلٌ [which latter is the most common form, and also, as well as حِوَلٌ, said to be syn. with the sing.,] and حِيلَاتٌ. (K.) One says, لَا حِيلَةَ لَهُ [<i>He has no mode,</i> or <i>means, of evading</i> &amp;amp;c.]. (TA.) [And مَا بِيَدِى حِيلَةٌ <br>\
+                  <i>I have no mode,</i> or <i>means, of evading</i> &amp;amp;c.]. And ↓ <br>\
+      المَرْءُ يَعْجِزُ لَا مَحَالَةَ [<i>Man becomes impotent: there is no avoiding</i> it]. (S.) مِنْهُ ↓ <br>\
+      لَا مَحَالَةَ means لَا بُدَّ [<i>There is no avoiding it,</i> or <i>escaping it</i>]. (S, * K.) One says, المَوْتُ ا=تٍ ↓ <br>\
+      لَا مَحَالَةَ [<i>Death comes: there is no avoiding</i> it]. (S.) See also حِوَلٌ. ―         -b2-  And see حُولَةٌ: ―         -b3-  and حَوْلٌ. ―         -b4-  [عِلْمُ الحِيَلِ <br>\
+                  <i>The science of mechanics.</i>]    </entryFree> <br>\
+<b>حُوَلَةٌ</b>               1     <br>\
+                     حُوَلَةٌ<br>\
+                     حول<br>\
+                     حوله<br>\
+                     حولة<br>\
+                  : see حُوَّلٌ, in two places.    </entryFree> <br>\
+<b>حَوْلِىٌّ</b>               1     <br>\
+                     حَوْلِىٌّ<br>\
+                     حول<br>\
+                     حولى<br>\
+                     حولي<br>\
+                   A solid-hoofed animal <i>in his first year:</i> (S, O:) or a solid-hoofed animal, &amp;amp;c., <i>a year old; a yearling:</i> (K:) it is applied in this sense to a camel: and also to a plant: (TA:) and so ↓ <br>\
+      مُحْوِلٌ and ↓ <br>\
+      مُحِيلٌ applied to wheat, or food, &amp;amp;c.: (S, O:) and ↓ <br>\
+      مُحْوِلٌ applied to a boychild: (K:) or, as some say, this signifies <i>in the state of childhood;</i> not limited to a year old: (TA:) the fem. of حَوْلِىٌّ is حَوْلِيَّةٌ: pl. [masc. حَوَالِىٌّ; and] fem. حَوْلِيَّاتٌ. (S, K.) حَوْلِىٌّ الغَضَا <br>\
+                  <i>Young trees of the kind called</i> <br>\
+                  غَضًا. (TA.)    </entryFree> <br>\
+<b>حِيَلِىٌّ</b>               1     <br>\
+                     حِيَلِىٌّ<br>\
+                     حيل<br>\
+                     حيلى<br>\
+                     حيلة<br>\
+                     حيلي<br>\
+                  : see حُوَّلٌ.    </entryFree> <br>\
+<b>حُوَلَا=ءُ</b>               1     <br>\
+                     حُوَلَا=ءُ<br>\
+                     حولا=ء<br>\
+                   and حِوَلَا=ءُ, the latter like عِنَبَا=ءُ and سِيَرَا=ءُ, which are the only other words of this measure, (S, K,) accord. to Kh, (S,) [The <i>membrane that encloses the she-camel&#39;s fœtus in the womb;</i>] to the she-camel, <i>like the</i> <br>\
+                  مَشِيمَة (K, TA) to the woman; (TA;) i. e., (K,) <i>a skin</i> (S, K) <i>of a dark,</i> or <i>an ashy, dust-colour</i> (خَضْرَا=ء), <i>full of water,</i> (K,) <i>which comes forth with the fœtus, containing</i> <br>\
+                  اَغْرَاس [pl. of غِرْس, q. v.], <i>and having lines,</i> or <i>streaks, which are red, and of a dark,</i> or <i>an ashy, dust-colour</i> (خُضْر): (S, K:) or <i>it comes forth after the fœtus, in the first</i> <br>\
+                  سَلَى; <i>and is the first thing that comes forth therefrom:</i> so says ISk: and the word is sometimes used in relation to a woman: (TA:) or, accord. to AZ, the <i>water that comes forth upon the head of the fœtus,</i> [i. e.] <i>at the birth:</i> (S:) or <i>a membrane like a large bucket, which is full of water, and bursts when it falls upon the ground: then comes forth the</i> <br>\
+                  سَلَى; <i>and a day, or two days, after that, the</i> <br>\
+                  صَا=ءَة. (TA.) Hence the saying, نَزَلُوا <br>\
+                  فِى مِثْلِ حُوَل=اءِ النَّاقَةِ, (K,) and فى مثل حول=اء <br>\
+                  السَّلَى, (TA,) (tropical:)  <i>They alighted amid abundance of water and green herbage.</i> (K, * TA.) And رَاَيْتُ اَرْضًا مِثْلَ الحول=اءِ (tropical:)  <i>I saw land having dark green herbage.</i> (TA.)       -A2-  See also حُولَةٌ.    </entryFree> <br>\
+<b>حَوَلَان</b>               1     <br>\
+                     حَوَلَان<br>\
+                     حولان<br>\
+                   and حُوَلَان and حُوْلَان: see حُولَةٌ.    </entryFree> <br>\
+<b>حُولَلٌ</b>               1     <br>\
+                     حُولَلٌ<br>\
+                     حولل<br>\
+                  : see حَايِلٌ, in four places.    </entryFree> <br>\
+<b>حَوَلْوَلٌ</b>               1     <br>\
+                     حَوَلْوَلٌ<br>\
+                     حولول<br>\
+                  : see حُوَّلٌ, in two places.    </entryFree> <br>\
+<b>حَوَالٌ</b>               1     <br>\
+                     حَوَالٌ<br>\
+                     حوال<br>\
+                   The <i>changing,</i> or <i>varying,</i> of time, or fortune. (K.)       -A2-  حَوَالَهُ, and حَوَالَيْهِ, and حَوَالَيْنَا, and حَوَالَيْكَ: see حَوْلٌ.    </entryFree> <br>\
+<b>حِوَالٌ</b>               1     <br>\
+                     حِوَالٌ<br>\
+                     حوال<br>\
+                  : see حَايِلٌ, in two places.    </entryFree> <br>\
+<b>حِيَالٌ</b>               1     <br>\
+                     حِيَالٌ<br>\
+                     حيال<br>\
+                   [in the CK, erroneously, حَيال] The <i>front</i> of a thing, as meaning the <i>part, place,</i> or <i>location, that is over against, opposite, facing, fronting,</i> or <i>in front;</i> syn. قُبَالَةٌ. (K, and Mgh in art. حيل.) You say, قُمْتُ حِيَالَهُ <br>\
+                  <i>I stood in front of him; in the part, place,</i> or <i>location, that was over against him, opposite to him,</i> &amp;amp;c.; syn. قُبَالَتَهُ. (Msb in art. حيل.) And قَعَدَ حِيَالَةٌ <br>\
+                   and بِحِيَالِهِ <br>\
+                  <i>He sat in front of him, over against him, opposite to him, facing</i> or <i>fronting him;</i> syn. بِاـِزَايِهِ. (S, K.) And هٰذَا حِيَالَ كَلِمَتِكَ <br>\
+                  <i>This is opposite to thy saying;</i> syn. مُقَابَلَةَ; in the accus. case, as an adv. n. of place: thus related by IAar from the Arabs: but one may also say حِيَالُ كَلِمَتِكَ [<i>the opposite of thy saying</i>], making the phrase to consist of an inchoative and an enunciative: so says ISd. (TA.) It is originally with و [in the place of the ى]. (S, O.) ―         -b2-  عَلَى حِيَالِهِ [<i>By himself</i> or <i>itself; independently</i>]. You say, اَعْطِ كُلَّ وَاحِدٍ مِنْهُمْ عَلَى <br>\
+                  حِيَالَهُ <br>\
+                  <i>Give thou to every one of them by himself;</i> syn. على حِدَتِهِ; (S in art. وحد;) or بِاْنْفِرَادِهِ. (Mgh in art. حيل.) And فَعَلْتُ كُلَّ شَىْءٍ عَلَى <br>\
+                  حِيَالِهِ <br>\
+                  <i>I did everything by itself;</i> syn. بِاْنْفِرَادِهِ. (Msb in art. حيل.)       -A2-  Also <i>A string that is tied from the camel&#39;s</i> <br>\
+                  بِطَان [or <i>belly-girth</i>] <i>to his</i> <br>\
+                  حَقَب [or <i>hind girth</i>], <i>to prevent the</i> <br>\
+                  حَقَب <br>\
+                  <i>from going against the sheath of his penis:</i> (K:) so, too, in the M: but in the O, as on the authority of AA, ↓ <br>\
+      حُوَلٌ, like صُرَدٌ, signifies the <i>string that is between the</i> <br>\
+                  حَقَب <br>\
+                  <i>and the</i> <br>\
+                  بِطَان. (TA.)    </entryFree> <br>\
+<b>حَوِيلٌ</b>               1     <br>\
+                     حَوِيلٌ<br>\
+                     حويل<br>\
+                  : see 4, in the latter half of the paragraph. ―         -b2-  [Hence,] One who is <i>responsible,</i> or <i>answerable.</i> (K.) ―         -b3-  And <i>A witness.</i> (K.)       -A2-  See also حِوَلٌ: ―         -b2-  and حِيلَةٌ. ―         -b3-  Also [<i>Desire:</i> or <i>a seeking:</i> or <i>a seeking by an artful contrivance</i> or <i>device,</i> or <i>by artful</i> or <i>skilful management, to find a way of attaining an object:</i>] a subst. from حَاوَلَهُ. (S, O, K.)    </entryFree> <br>\
+<b>حَوَالَةٌ</b>               1     <br>\
+                     حَوَالَةٌ<br>\
+                     حوال<br>\
+                     حواله<br>\
+                     حوالة<br>\
+                   The <i>effecting a transition of one river,</i> or <i>rivulet, to another.</i> (M, K.) [This is what is meant by the حوالة in المُزَارَعَة, mentioned in the Mgh, as “ customary in the cases of certain plants, as rice, and the بَاذِنْجَان, and in planting. ”] ―         -b2-  The <i>transfer of a claim,</i> or <i>of a debt, by shifting the responsibility from one person to another:</i> (Mgh:) the <i>transfer of a debt by shifting the responsibility of him who transfers it to him to whom it is transferred:</i> (KT:) [<i>a reference made by a debtor, of his creditor, to a debtor of the former, for the payment of what is owed by the former to the latter: an order for the payment of a debt,</i> or <i>of a sum of money, given by one person, upon another, to a third person:</i> so in the present day:] a subst. (S, K) from اَحَالِ عَلَيْهِ بِدَيْنِهِ, (S,) or from اَحَلْتُهُ بِدَيْنِهِ, (Msb,) or from اَحَالَ الغَرِيمَ. (K.) [See 4.] ―         -b3-  <i>A responsibility; accountableness.</i> (K.)    </entryFree> <br>\
+<b>حَوَالِىٌّ</b>               1     <br>\
+                     حَوَالِىٌّ<br>\
+                     حوال<br>\
+                     حوالى<br>\
+                     حوالي<br>\
+                   and حُوَالِىٌّ: see the next paragraph.    </entryFree> <br>\
+<b>حُوَّلٌ</b>               1     <br>\
+                     حُوَّلٌ<br>\
+                     حول<br>\
+                  , applied to a man, signifies بَصِيرُ بِتَحْوِيلِ <br>\
+                  الاُمُورِ [i. e. <i>Knowing, skilful,</i> or <i>intelligent, in turning affairs over,</i> or <i>about, in his mind, considering what may be their results, and so managing them</i>]; (S, TA;) as also حُوَّلٌ قُلَّبٌ, (TA, and so in copies of the S,) and قُلَّبٌ ↓ <br>\
+      حُوَّلِىٌّ, (TA, and so in a copy of the S,) and قُلَّبِىٌّ ↓ <br>\
+      حُوَّلِىٌّ, and ↓ <br>\
+      حَوَّالٌ; (TA;) and ↓ <br>\
+      حُوَلَةٌ signifies ↓ <br>\
+      مُحْتَالٌ [i. e. one <i>who exercises art, artifice, cunning, ingenuity,</i> or <i>skill, and excellence of consideration</i> or <i>deliberation, and ability to manage according to his own free will, with subtilty;</i> &amp;amp;c.; see the verb (8) of which مُحْتَالٌ is the part. n.]: (S:) or حُوَّلٌ and ↓ <br>\
+      حُوَلٌ and ↓ <br>\
+      حُوَلَةٌ and ↓ <br>\
+      حُوْلَةٌ and ↓ <br>\
+      حُوَّلِىٌّ, [in the CK, erroneously, حَوْلٰى,] like سُكَّرِىٌّ, [in the CK like سَكْرىٰ,] and ↓ <br>\
+      حَالِىٌّ and ↓ <br>\
+      حُوَالِىٌّ and ↓ <br>\
+      حَوَلْوَلٌ, signify شَدِيدُ الاِحْتِيَالِ [i. e. one <i>who exercises great art, artifice,</i> &amp;amp;c.]: (Sgh, K:) all of these forms are mentioned by ISd, except حُوْلَةٌ and حُوَّلِىٌّ: (TA:) accord. to some, قُلَّبٌ حُوَّلٌ signifies <i>experienced,</i> or <i>expert, in affairs;</i> or one <i>who has been tried,</i> or <i>proved, and strengthened by experience in affairs:</i> (Har p. 312:) and ↓ <br>\
+      حَوِلٌ signifies the same as حُوَّلٌ; (Ham p. 34;) <i>having much</i> <br>\
+                  حِيلَة [i. e. <i>art, artifice,</i> &amp;amp;c.]: accord. to analogy, it should be [حَالٌ,] like مَالٌ and صَاتٌ as epithets applied to a man: (Idem pp. 530 and 531:) حَيَّالٌ, also, [in like manner,] signifies صَاحِبُ حِيلَةٍ [i. e. one <i>who exercises art, artifice,</i> &amp;amp;c., as above]; and so ↓ <br>\
+      حِيَلِىٌّ [from حِيَلٌ, pl. of, or syn. with, حِيلَةٌ]: (TA:) and ↓ <br>\
+      حَوْلْوَلٌ [mentioned above (in the CK, erroneously, in this instance, حَواوِل)] signifies also <i>cunning,</i> or <i>intelligent,</i> or <i>skilful and knowing;</i> and <i>quick and sharp</i> or <i>vigorous</i> or <i>effective;</i> syn. مُنْكَرٌ كَمِيشٌ; (K, TA;) applied to a man. (TA.)    </entryFree> <br>\
+<b>حَيِّلٌ</b>               1     <br>\
+                     حَيِّلٌ<br>\
+                     حيل<br>\
+                     حيلة<br>\
+                  : see 4, in the latter half of the paragraph.    </entryFree> <br>\
+<b>حُوَّلِىٌّ</b>               1     <br>\
+                     حُوَّلِىٌّ<br>\
+                     حول<br>\
+                     حولى<br>\
+                     حولي<br>\
+                  : see حُوَّلٌ, in three places.    </entryFree> <br>\
+<b>حَوَّالٌ</b>               1     <br>\
+                     حَوَّالٌ<br>\
+                     حوال<br>\
+                  : see حُوَّلٌ.    </entryFree> <br>\
+<b>حَايِلٌ</b>               1     <br>\
+                     حَايِلٌ<br>\
+                     ذ<br>\
+                  <i>Altering,</i> or <i>being transmuted,</i> or <i>changing;</i> or <i>altered,</i> or <i>transmuted,</i> or <i>changed;</i> [<i>in any manner;</i> and particularly] <i>in colour;</i> (K, TA;) <i>and becoming,</i> or <i>become, black;</i> applied to a bone, and any other thing. (TA.) ―         -b2-  Anything [<i>shifting,</i> or <i>moving,</i> or] <i>that has shifted,</i> or <i>moved, in</i> <br>\
+                  فِى [app. a mistranscription for مِنْ <br>\
+                  <i>from</i>]) <i>its place.</i> (TA.) ―         -b3-  A she-camel, and any female, <i>not conceiving,</i> or <i>not becoming pregnant, during a year,</i> (M, K,) or <i>two years,</i> (K,) or <i>some years:</i> (M, K:) or a she-camel <i>not pregnant</i> (S, Msb, K) <i>after having been covered by the stallion;</i> (S, K;) because denoting a change from what is usual; (Er-Rághib, TA;) and in like manner applied to a ewe, or she-goat; (TA;) and to a woman: (Msb:) pl. حِيَالٌ and حُولٌ (S, K) and حُوَّلٌ, (K,) and ↓ <br>\
+      حُولَلٌ (M, K) is a quasi-pl. n.: (M, TA:) [whence,] حَايِلُ <br>\
+                  حُولٍ and ↓ <br>\
+      حُولَلٌ used as intensive epithets: or حَايِلٌ signifies <i>not conceiving in one year,</i> (K, TA,) <i>when she has been covered:</i> (TA:) and حَايِلُ حُولٍ and ↓ <br>\
+      حُولَلٍ, <i>not conceiving during two years;</i> (K;) <i>not conceiving in the first year after having been covered, nor in the next following year;</i> like عَايِطُ عُوطٍ and عِيطٍ and عُوطَطٍ: (S in art. عوط:) one says also, لَقِحَتْ عَلَى حُولٍ and ↓ <br>\
+      حُولَلٍ [app. meaning <i>She conceived after having failed to do so for two years;</i> for it seems that in this case حول and حولل are inf. ns., or that the latter is a subst. having the sense of an inf. n.: see 1, and see also عُوطَطٌ]: (TA:) and ↓ <br>\
+      مُحَوِّلٌ signifies the same as حَايِلٌ. (K.) Also A palm-tree (Msb, K) <i>that bears one year, and not another year:</i> (K:) or <i>not bearing.</i> (Msb.) ―         -b4-  The <i>female young one of a camel, at the time of her birth:</i> the male is termed سَقْبٌ: (S, K:) pl. حُولٌ and حَوَايِلُ. (TA.) One says, نُتِجَتِ النَّاقَةُ حَايِلًا حَسَنَةً [<i>The she-camel brought forth a beautiful female young one</i>]. (S.) And لَا اَفْعَلُ ذَاكَ مَا اَرْزَمَتْ اُمُّ حَايِلٍ [<i>I will not do that as long as a mother of a female young camel utters her gentle yearning cry</i>]. (S.)       -A2-  Also, (Lth, Mgh, O, TA,) and ↓ <br>\
+      حِوَالٌ (Lth, K) and ↓ <br>\
+      حُوَلٌ and ↓ <br>\
+      حَوَلٌ, (K,) <i>A thing that intervenes as a separation, a partition, a fence, a barrier,</i> or <i>an obstacle,</i> or <i>obstruction,</i> between two other things. (Lth, Mgh, * O, K.) One says, بَيْنَهُمَا ↓ <br>\
+      هٰذَا حِوَالٌ, i. e. حَايِلٌ [<i>This is a thing intervening as a separation,</i> &amp;amp;c., <i>between them two</i>]; like حِجَازٌ and حَاجِزٌ. (Lth, O, TA.)    </entryFree> <br>\
+<b>حَايِلَةٌ</b>               1     <br>\
+                     حَايِلَةٌ<br>\
+                     ذ<br>\
+                  : see حِيَلةٌ.    </entryFree> <br>\
+<b>اَحْوَلُ</b>               1     <br>\
+                     اَحْوَلُ<br>\
+                     ذ<br>\
+                  ; and its fem. حَوْلَا=ءُ: see 1, last sentence. ―         -b2-  اَحْوَلُ مِنْ بَوْلِ الجَمَلِ [<i>More wry than the urine of the he-camel</i>]: because it does not come forth straight, but [backwards, and] inclining to one side: a prov. (TA.) ―         -b3-  هُوَ اَحْوَلُ مِنْكَ <br>\
+                  <i>He is one who has more</i> <br>\
+                  حِيلَة [meaning <i>art, artifice, cunning, ingenuity,</i> or <i>skill, in the management of affairs,</i> &amp;amp;c.,] <i>than thou;</i> (Fr, S, K;) as also ↓ <br>\
+      اَحْيَلُ. (K.) And النَّاسِ ↓ <br>\
+      هُوَ اَحْيَلُ [<i>He is the most artful, cunning, ingenious,</i> or <i>skilful, of men</i>]; originally اَحْوَلُ. (MF in art. رود: see اَرْوَدُ.)    </entryFree> <br>\
+<b>اَحْيَلُ</b>               1     <br>\
+                     اَحْيَلُ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, in two places.    </entryFree> <br>\
+<b>تَحَاوِيلُ الاَرْضِ</b>               1     <br>\
+                     تَحَاوِيلُ الاَرْضِ<br>\
+                     ذ<br>\
+                   means اَنْ تُخْطِيَ حَوْلًا وَتُصِيبَ <br>\
+                  حَوْلًا, (O, K,) i. e. <i>The leaving the land unsown one year, and sowing it another year:</i> whereby the land is strengthened. (TK.)    </entryFree> <br>\
+<b>مَحَالٌ</b>               1     <br>\
+                     مَحَالٌ<br>\
+                     محال<br>\
+                     محل<br>\
+                  : see حِيلَةٌ, in two places: ―         -b2-  and see also مَحَالَةٌ, in three places.    </entryFree> <br>\
+<b>مُحَالٌ</b>               1     <br>\
+                     مُحَالٌ<br>\
+                     محال<br>\
+                     محل<br>\
+                  ; and مُحَالٌ عَلَيْهِ; and مُحَالٌ بِهِ: see 4, in the latter half of the paragraph. ―         -b2-  مُحَالٌ also signifies [<i>Absurd; inconsistent; self-contradictory;</i>] <i>comprising two contradictories;</i> as when one speaks of one body in two places in one case [or time]: (Er-Rághib, TA:) <i>that cannot be conceived as existing in reality:</i> (TA:) <i>i. q.</i> <br>\
+                  بَاطِلٌ [as meaning <i>untrue,</i> or <i>unreal</i>]; (Msb, TA;) <i>impossible; that cannot be:</i> (Msb:) <i>perverted; turned from its proper way</i> or <i>manner of being;</i> (K;) applied to speech; (S, K;) as also ↓ <br>\
+      مُسْتَحِيلٌ. (K.)    </entryFree> <br>\
+<b>مُحْوِلٌ</b>               1     <br>\
+                     مُحْوِلٌ<br>\
+                     محول<br>\
+                  : see مُحِيلٌ: ―         -b2-  and see also حَوْلِىٌّ, in two places.    </entryFree> <br>\
+<b>مُحِيلٌ</b>               1     <br>\
+                     مُحِيلٌ<br>\
+                     محيل<br>\
+                  : see 4, in the latter half of the paragraph. ―         -b2-  Also A woman <i>that brings forth a boy next after a girl;</i> or <i>the reverse:</i> and in like  manner applied to a she-camel; as also ↓ <br>\
+      مُحْوِلٌ and ↓ <br>\
+      مُحَوِّلٌ: (Ks, Sgh, K:) and accord. to some, ↓ <br>\
+      مُتَحَوِّلٌ [if not a mistranscription for مُحْوِلٌ or مُحَوِّلٌ] signifies a she-camel <i>that brings forth one year a male, and another year a female.</i> (TA.) ―         -b3-  See also حَوْلِىٌّ.    </entryFree> <br>\
+<b>مَحَالَةٌ</b>               1     <br>\
+                     مَحَالَةٌ<br>\
+                     محال<br>\
+                     محاله<br>\
+                     محالة<br>\
+                     محل<br>\
+                  : see حِيلَةٌ, in four places. ―         -b2-  Also <i>A machine</i> (مَنْجَنُون, Lth, K) <i>over which</i> [<i>passes the rope whereby</i>] <i>water is drawn:</i> (Lth, TA:) and, (K,) or as some say, (TA,) <i>a great</i> <br>\
+                  بَكْرَة [or <i>sheave of a pulley</i>], (S in art. محل, and K,) <i>by means of which camels draw water:</i> (S ubi suprà and TA:) [see سَانِيَةٌ:] pl. مَحَاوِلُ and [coll. gen. n.] ↓ <br>\
+      مَحَالٌ. (K.) ―         -b3-  The <i>vertebræ;</i> as also ↓ <br>\
+      مَحَالٌ: (K: [in the CK, الفَقَارِ is erroneously put for الفَقَارُ:]) or the latter has this meaning; and the former signifies <i>a single vertebra:</i> and the م may be radical: (M, TA:) pl. مَحَالَاتٌ. (T in art. ملح.) ―         -b4-  The <i>middle</i> (وَاسِط, as in the M and O; in the K, erroneously, وَاسِطَة, TA) <i>of the back;</i> (M, O, K;) as also ↓ <br>\
+      مَحَالٌ: but accord. to some, the م is radical. (TA.)    </entryFree> <br>\
+<b>مَحِيلَةٌ</b>               1     <br>\
+                     مَحِيلَةٌ<br>\
+                     محيل<br>\
+                     محيله<br>\
+                     محيلة<br>\
+                  : see حِيلَةٌ.    </entryFree> <br>\
+<b>مُحَوِّلٌ</b>               1     <br>\
+                     مُحَوِّلٌ<br>\
+                     محول<br>\
+                  : see حَايِلٌ: ―         -b2-  and مُحِيلٌ.    </entryFree> <br>\
+<b>مِحْوَالٌ</b>               1     <br>\
+                     مِحْوَالٌ<br>\
+                     محوال<br>\
+                   A man <i>who says much that is</i> <br>\
+                  مُحَال [or <i>absurd, inconsistent, self-contradictory, unreal,</i> or <i>impossible</i>]. (Lth, K. *)    </entryFree> <br>\
+<b>مُحْتَالٌ</b>               1     <br>\
+                     مُحْتَالٌ<br>\
+                     محتال<br>\
+                  : see 4, in the latter half of the paragraph. ―         -b2-  اَرْضٌ مُحْتَالَةٌ (tropical:)  <i>Land upon which rain has not fallen.</i> (TA.) ―         -b3-  See also حُوَّلٌ.    </entryFree> <br>\
+<b>مُتَحَوَّلٌ</b>               1     <br>\
+                     مُتَحَوَّلٌ<br>\
+                     متحول<br>\
+                   [pass. part. n. of تَحَوَّلَهُ.       -A2-  Also] an inf. n. of تَحَوَّلَ. (Ham p. 503.)       -A3-  And <i>A place to which one shifts, removes,</i> or <i>becomes transferred.</i> (Idem ib.)    </entryFree> <br>\
+<b>مُتَحَوِّلٌ</b>               1     <br>\
+                     مُتَحَوِّلٌ<br>\
+                     متحول<br>\
+                  : see مُحِيلٌ.    </entryFree> <br>\
+<b>رِجْلٌ مُسْتَحَالَةٌ</b>               1     <br>\
+                     رِجْلٌ مُسْتَحَالَةٌ<br>\
+                     رجل مستحاله<br>\
+                     رجل مستحالة<br>\
+                  <i>A leg that is crooked in the two extremities of its shank.</i> (M, O, TA.) In the K, رَجُلٌ is erroneously put for رِجْلٌ, and سَاقَيْهِ for سَاقِهَا. (TA.) And ↓ <br>\
+      قَوْسٌ مُسْتَحِيلَةٌ (S, K) and مُسْتَحَالَةٌ (K) <i>A bow that is crooked</i> (S, K, TA) <i>in the portion between the part grasped by the hand and the curved extremity,</i> or <i>in its curved extremity.</i> (TA.) And ↓ <br>\
+      اَرْضٌ مُسْتَحِيلَةٌ <br>\
+                  <i>Uneven ground:</i> (S, TA:) or <i>i. q.</i> <br>\
+                  مُسْتَحَالَةٌ, (K,) which means land <i>that has been left</i> [<i>unsown,</i> or <i>uncultivated,</i>] <i>a year,</i> or <i>years.</i> (M, K.)    </entryFree> <br>\
+<b>مُسْتَحِيلٌ</b>               1     <br>\
+                     مُسْتَحِيلٌ<br>\
+                     مستحيل<br>\
+                  ; fem. with ة: see the paragraph next preceding, in two places: ―         -b2-  and see also مُحَالٌ.       -A2-  Also <i>Full.</i> (K.)   </entryFree> <br>\
+' } );

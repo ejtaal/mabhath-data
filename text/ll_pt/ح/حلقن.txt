@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>حلقن</em>            1                  حلقن<br>\
+<b>حَلْقَنَ</b>               1Q., or Q. Q., 1.      <br>\
+                     <i>Q. 1</i>        <br>\
+                     حَلْقَنَ<br>\
+                     حلق<br>\
+                     حلقن<br>\
+                  : see 2 in art. حلق.    </entryFree> <br>\
+<b>حُلْقَانٌ</b>               1     <br>\
+                     حُلْقَانٌ<br>\
+                     حلق<br>\
+                     حلقان<br>\
+                  , n. un. with ة: see art. حلق.    </entryFree> <br>\
+<b>حُلْقَانِىٌّ</b>               1     <br>\
+                     حُلْقَانِىٌّ<br>\
+                     حلق<br>\
+                     حلقانى<br>\
+                     حلقاني<br>\
+                  : see art. حلق.    </entryFree> <br>\
+<b>مُحَلْقِنٌ</b>               1     <br>\
+                     مُحَلْقِنٌ<br>\
+                     محلقن<br>\
+                  : see art. حلق.   </entryFree> <br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>نثل</em>            1                  نثل<br>\
+<b>نَثَلٌ</b>               1     <br>\
+                     نَثَلٌ<br>\
+                     ذ<br>\
+                  <i>He cleansed an intestine:</i> see مُبْعَرٌ.    </entryFree> <br>\
+<b>نَثُولٌ</b>               1     <br>\
+                     نَثُولٌ<br>\
+                     ذ<br>\
+                  <i>A lean,</i> or <i>emaciated,</i> woman. (IAar, TA, art. جمل.)    </entryFree> <br>\
+<b>نَثِيلٌ</b>               1     <br>\
+                     نَثِيلٌ<br>\
+                     ذ<br>\
+                   The <i>dust,</i> or <i>earth, of the foundations of a house.</i> (TA, art. ثوب.)    </entryFree> <br>\
+<b>نَثِيلَةُ بِيْرٍ</b>               1     <br>\
+                     نَثِيلَةُ بِيْرٍ<br>\
+                     ذ<br>\
+                  <i>The earth that is around a well, that is seen from afar.</i> (S, art. جبو.)   </entryFree> <br>\
+' } );

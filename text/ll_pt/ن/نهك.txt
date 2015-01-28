@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>نهك</em>            1                  نهك<br>\
+<b>نَهِكَ الشَّراَبَ</b>               1     <br>\
+                     نَهِكَ الشَّراَبَ<br>\
+                     ذ<br>\
+                  <i>He consumed the beverage.</i> (K.) ―         -b2-  نَهَِكَهُ الدِّباَغُ [<i>The tan wore it,</i> or <i>eroded it</i>], namely, a hide. (M and K, voce مُفَلْفَلٌ.) See مَفَلْفَلٌ.     <br>\
+<b>اِنْتَهَكَ مَحَارِمَ اْللّٰهِ</b>               1     <br>\
+                     اِنْتَهَكَ مَحَارِمَ اْللّٰهِ<br>\
+                     ذ<br>\
+                   [<i>He violated the sacred ordinances of God;</i>] <i>he did that which God had forbidden him to do.</i> (Har, p. 18; where see more.) ―         -b2-  اِنْتَهَكَ حُرْمَتَهُ <br>\
+                  <i>He violated</i> [his honour, &amp;amp;c.]. (MA.)    </entryFree> <br>\
+<b>مَنْهُوكٌ</b>               1     <br>\
+                     مَنْهُوكٌ<br>\
+                     ذ<br>\
+                  <i>Affected with a constant,</i> or <i>chronic, pervading disease;</i> or <i>emaciated by disease, so as to be at the point of death.</i> (S, K.) ―         -b2-  See مَثْلُوثٌ.   </entryFree> <br>\
+' } );

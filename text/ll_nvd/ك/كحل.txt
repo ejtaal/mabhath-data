@@ -1,0 +1,40 @@
+load_data( { book: 'll_nvd', text: 'كحل1<br>\
+كَحَلَ<br>\
+(assumed tropical:)  He put out, or blinded, an eye with<br>\
+a heated nail, &amp;c.: see an ex. voce سَمَرَ.<br>\
+8<br>\
+مَا ا@كْتَحَلْتُ غَمَاضًا and<br>\
+غِمَاضًا<br>\
+&amp;c.: see<br>\
+أَغْمَضَ. See also حَثاَثٌ.<br>\
+10<br>\
+اِسْتَكْحَلَ السَّهَرَ<br>\
+(assumed tropical:)  [He became sleepless; as<br>\
+though he took sleeplessness as a collyrium].<br>\
+(TA in art. حلس, from a trad.)<br>\
+كَحْلٌ<br>\
+and كَحْلُ (S, K) A year of drought,<br>\
+barrenness, or dearth; (S;) a hard year. (K.)<br>\
+كُحَيْلٌ<br>\
+a proper name for A horse of high<br>\
+breed; as also ↓ كُحَيْلاَنٌ. (TA.) ―<br>\
+-b2-  كُحَيْلٌ<br>\
+Tar<br>\
+(قَطِرَان) in the dial. of El-Hijáz. (TA, voce غَرْبٌ;<br>\
+from the T.) See نفْظٌ.<br>\
+كُحَيْلاَنٌ<br>\
+: see كُحَيْلٌ.<br>\
+عَيْنٌ كَحْلَآءُ<br>\
+An eye that is black, [or black in<br>\
+the edges of the lids,] by nature, as though it had<br>\
+كُحْل<br>\
+applied to it. (Mgh.) Not in the TA. [It<br>\
+seems to have both of these meanings.]<br>\
+كَحْلَآءُ<br>\
+A certain plant: see K, voce شِنْجَار:<br>\
+calendula arvensis: see Delile, Flor. Aeg., no.<br>\
+864.<br>\
+الأَكْحَلُ<br>\
+The median vein. See وَرِيدٌ and أَبْجَلُ<br>\
+and أَبْهَرُ and الصَّافِنُ.<br>\
+' } );

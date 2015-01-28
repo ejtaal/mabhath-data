@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>زلقم</em>            1                  زلقم<br>\
+<b>زَلْقَمَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     زَلْقَمَ<br>\
+                     ذ<br>\
+                  <i>He swallowed</i> a gobbet, or morsel, or mouthful. (TA.)       -A2-  [The inf. n.] زَلْقَمَةٌ signifies [also], accord. to IB, The <i>being wide, broad,</i> or <i>ample.</i> (TA.)    </entryFree> <br>\
+<b>زُلْقُمٌ</b>               1     <br>\
+                     زُلْقُمٌ<br>\
+                     ذ<br>\
+                   The <i>sea;</i> from زَلْقَمَةٌ meaning as expl. above; as also قُلْزُمٌ. (IKh, TA.)    </entryFree> <br>\
+<b>زُلْقُومٌ</b>               1     <br>\
+                     زُلْقُومٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  حُلْقُومٌ [The <i>windpipe</i>]. (IDrd, S in art. زقم, L, and K.) ―         -b2-  Also The خُرْطُوم [i. e. <i>nose,</i> or <i>fore part thereof,</i>] of a dog: and of a beast of prey: and, accord. to IAar, [the <i>proboscis</i>] of an elephant. (TA.)   </entryFree> <br>\
+' } );

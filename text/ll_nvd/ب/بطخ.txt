@@ -1,0 +1,34 @@
+load_data( { book: 'll_nvd', text: 'بطخ4<br>\
+أَبْطَخُوا They had abundance of بِطِّيخ [or<br>\
+melons, or water-melons]. (S, A, L, K.)<br>\
+5<br>\
+تبطّخ He ate بِطِّيخ. (A, TA.)<br>\
+إِبِلٌ بَطِخَةٌ, and رِجَالٌ بَطِخَةٌ, (tropical:)  Large, big,<br>\
+bulky, or corpulent, camels, and men: and رَجُلٌ<br>\
+↓ بُطَاخِىٌّ (tropical:)  a large, big, bulky, or corpulent, man.<br>\
+(K, TA.)<br>\
+بُطَاخِىٌّ: see what immediately precedes.<br>\
+بَطِّيخٌ, (S, Msb, K, &amp;c.,) vulgarly and incorrectly pronounced بَطِّيخٌ, (ISk, Msb,) and in<br>\
+the dial. of El-Hijáz called طِبِّيخٌ, (Msb,) A<br>\
+certain well-known fruit; (Msb;) [the melon,<br>\
+absolutely, as is shown by many passages in the<br>\
+lexicons, and expressly stated in law-books: and,<br>\
+particularly, the water-melon; cucurbita citrullus:<br>\
+or a plant] of the kind called يَقْطِين, that does<br>\
+not grow tall, but extends itself upon the surface<br>\
+of the ground: (K, TA:) and also the خِرْبِز [or<br>\
+خَرْبُز, a Persian word, and applied to the water-melon, by the Turks termed by this name, and<br>\
+in their own language قَارْپُوزْ]: (CK: [but not<br>\
+found by me in my MS. copy of the K, nor in<br>\
+the L, nor in the TA:]) or البِطِّيخُ الهِنْدِىُّ [the<br>\
+Indian بطّيخ] is what is called in Persian the<br>\
+خَرْبُز: (Mgh:) [the term بطّيخ is applied to<br>\
+many varieties of the water-melon, distinguished<br>\
+by different epithets; as الأَحْمَرُ the red, الأَصْفَرُ<br>\
+the yellow, الأَبْيَضُ the white, الأَجْرَبُ the mangy,<br>\
+النَّمْشُ the speckled, البُرُلُّىُّ that of El-Burullus,<br>\
+&amp;c.: it is a coll. gen. n.:] n. un. with ة. (S, K.)<br>\
+مَبْطَخَةٌ (S, A, Mgh, &amp;c.) and مَبْطُخَةٌ (S, L, K)<br>\
+A place where بِطِّيخ grow: (S, A, Mgh, &amp;c.:)<br>\
+pl. مَبَاطِخُ. (A, TA.)<br>\
+' } );

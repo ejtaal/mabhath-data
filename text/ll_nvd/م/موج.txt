@@ -1,0 +1,56 @@
+load_data( { book: 'll_nvd', text: 'موج1<br>\
+مَاجَ, aor. يَمُوجُ, inf. n. مَوْجٌ (S, K, &amp;c.) and<br>\
+مَوَجَانٌ and مُؤُوجٌ; (TA;) It (the sea) was in a<br>\
+state of commotion; was tumultuous; (Msb;) was<br>\
+agitated with waves, conflicting, or dashing together; (S, K;) as also ↓ تموّج: (TA;) or this<br>\
+latter signifies it (the sea) was, or became, very<br>\
+tumultuous. (Msb.) [You say,] مَاجَ المَوْجُ The<br>\
+waves were in a state of commotion; were tumultuous; conflicted, or dashed together. (TA.)<br>\
+[And hence,] مَاجَ أَمْرُهُمْ (assumed tropical:)  Their affair became<br>\
+in a confused and disturbed state. (TA.) ―<br>\
+-b2-<br>\
+مَاجَ, inf. n. مَوْجٌ and مَوَجَانٌ, (assumed tropical:)  It (anything) was<br>\
+in a state of commotion, or agitation. (TA.) ―<br>\
+-b3-<br>\
+مَاجَ (tropical:)  He was in a state of commotion, or agitation, and confounded, perplexed, or amazed.<br>\
+(IAar.) ―<br>\
+-b4-  النَّاسُ يَمُوجُونٌ (tropical:)  The people, or men,<br>\
+are in a state of commotion, or tumultuous. (S.)<br>\
+―<br>\
+-b5-  مَاجَتِ النَّاسُ (tropical:)  The people were in a discordant<br>\
+and disturbed state of affairs. (Msb.) ―<br>\
+-b6-  مَاجَ<br>\
+عَنِ الحَقِّ, inf. n. مَوْجٌ, (tropical:)  He declined from the<br>\
+truth, or from the true, right, or just, course.<br>\
+(A, K.) ―<br>\
+-b7-  مَاجَتِ الدَّاغِصَةُ, inf. n. مُؤُوجٌ, (tropical:)  The<br>\
+patella, or knee-pan, moved backwards and<br>\
+forwards, or from side to side, between the skin<br>\
+and the bone, or, as in one copy of the K,<br>\
+flesh: (K, TA:) and in like manner السِّلْعَةُ [the<br>\
+ganglion]. (TA.)<br>\
+5<br>\
+تَمَوَّجَ see 1.<br>\
+مَوْجٌ, [a coll. gen. n., Waves; billows; surges;<br>\
+or a collection of waves;] water rising above other<br>\
+water: (TA:) pl. أَمْوَاجٌ: (S, K, Msb:) مَوْجَةٌ<br>\
+has a more special signification; [namely, a wave,<br>\
+a single wave;] and the pl. of this, which is the<br>\
+n. un., is مَوْجَاتٌ. (Msb.) ―<br>\
+-b2-  فَرَسٌ غَوْجٌ مَوْجٌ: see<br>\
+art. غوج. موج is here an imitative sequent.<br>\
+(TA.) ―<br>\
+-b3-  مَوْجَةُ الشَّبَابِ (tropical:)  The prime of youth. (K.)<br>\
+ناقة مَوْجَى (assumed tropical:)  A swift (نَاجِيَة: in the CK نَاجِبَة)<br>\
+she-camel, whose أَنْسَاع [or woven thongs of the<br>\
+fore girth] have moved round (جَالَت) by reason<br>\
+of the backward and forward motion (اِخْتِلَاف) of<br>\
+her fore and hind legs. (K.)<br>\
+مَوَّاجٌ [A sea tumultuous with waves]. (K,<br>\
+art. رد.)<br>\
+مَائِجٌ A sea in a state of commotion; tumultuous; agitated with waves, conflicting, or dashing<br>\
+together. (TA.) ―<br>\
+-b2-  Also, and ↓ مُتَمَوِّجٌ, A man<br>\
+in a state of commotion, or agitation. (TA.)<br>\
+مُتَمَوِّجٌ: see مَائِجٌ.<br>\
+' } );

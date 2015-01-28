@@ -1,0 +1,49 @@
+load_data( { book: 'll_nvd', text: 'سمق1<br>\
+سَمَقَ, (S, O, L, K,) aor.<br>\
+سَمُقَ, (O, L,) inf. n.<br>\
+سُمُوقٌ (S, O, L, K) and سَمْقٌ, (L,) It was, or<br>\
+became, high, or tall: (S, O, L, K:) or tall in the<br>\
+highest degree: (JK:) said of a plant, or herbage,<br>\
+(JK, L,) of a tree, and [particularly] of a palmtree. (L.) ―<br>\
+-b2-  See also سُمَاقٌ.<br>\
+سِمِقٌّ Tall; applied to a man. (Kr, TA.) [See<br>\
+also سَامِقٌ.]<br>\
+سُمَاقٌ Pure; sheer; unmixed. (S, O, K.) You<br>\
+say كَذِبٌ سُمَاقٌ A sheer, unmixed, lie; (S, O;)<br>\
+and حُبٌّ سُمَاقٌ pure, unmixed, love; meaning<br>\
+such as have overtopped (↓ سَمَقَا) every lie and<br>\
+love. (O.)<br>\
+سَمُوقٌ: see سُمَّاقٌ.<br>\
+سَمِيقٌ: see سَامِقٌ.<br>\
+-A2-  The dual, سَمِيقَانِ, signifies The [yokes or] two pieces of wood that belong<br>\
+to the نِير, surrounding the necks of the two bulls,<br>\
+(S, Z, O, K,) like the neck-ring, (S, O,) the two<br>\
+extremities of each being made to meet together<br>\
+beneath the bull&#39;s dewlap, and bound with a cord:<br>\
+(Z, TA:) pl. أَسْمِقَةٌ. (TA.) ―<br>\
+-b2-  And [its pl.,]<br>\
+أَسْمِقَةٌ, Certain pieces of wood in the utensil upon<br>\
+which bricks, or crude bricks, (لَبِن,) are conveyed. (Ibn-&#39;Abbád, O, L, K.)<br>\
+سُمَّاقٌ (S, O, K) and ↓ سَمُوقٌ, (O, K,) in the<br>\
+Tekmileh with teshdeed, [i. e. ↓ سَمُّوقٌ,] (TA,)<br>\
+[Sumach; the rhus coriaria of Linn.; or its<br>\
+berry:] a certain fruit, (K,) well known; (S,<br>\
+K;) a certain acid thing, with which one cooks;<br>\
+(O;) the fruit of certain trees of the [high<br>\
+grounds termed] قِفَاف and of the mountains, acid,<br>\
+consisting of bunches of small berries, which are<br>\
+cooked; (AHn, TA;) not known to AHn as<br>\
+growing in any part of the land of the Arabs<br>\
+except in Syria; and he says that it is intensely<br>\
+red: in the T, said to be the acid berry called<br>\
+عَبْرَب: n. un. with ة: (TA:) it excites appetence;<br>\
+stops chronic diarrhœa; and the application of<br>\
+water in which it has been steeped, or macerated,<br>\
+as a collyrium, is beneficial for the [disorder<br>\
+termed] سُلَاق and for ophthalmia. (K.)<br>\
+سَمُّوقٌ: see the next preceding paragraph.<br>\
+قِدْرٌ سُمَّاقِيَّةٌ: see عَرَبْرَبِيَّةٌ, in art عرب<br>\
+سَامِقٌ and ↓ سَمِيقٌHigh, or tall; applied to a<br>\
+plant, or herbage, and to a tree, and [particularly]<br>\
+to a palm-tree. (L.) [See also سِمِيقٌ.]<br>\
+' } );

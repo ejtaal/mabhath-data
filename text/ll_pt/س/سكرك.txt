@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>سكرك</em>            1                  سكرك<br>\
+<b>سُكُرْكَةٌ</b>               1     <br>\
+                     سُكُرْكَةٌ<br>\
+                     ذ<br>\
+                  , (Mgh, and so in some copies of the K,) thus written by IAth, (TA,) [and thus in copies of the S and A voce مِزْرٌ, and of the S and K voce سُقُرْقَعٌ, and of the Mgh and Msb and K voce غُبَيْرَا=ءُ, &amp;amp;c.,] or سُكْرُكَةٌ, thus written by Sh, (TA in art. سكر, and thus in a copy of the K,) an Abyssinian word, (TA,) arabicized, (Mgh, TA,) <i>A certain beverage,</i> (Mgh, K, TA,) <i>of the Abyssinians,</i> (Mgh,) <i>prepared from</i> <br>\
+                  ذُرَة [or <i>millet</i>], (Mgh, K, TA,) <i>which intoxicates;</i> the <i>wine of the Abyssinians;</i> also called سُقُرْقَعٌ [q. v.], (TA,) and غُبَيْرَا=ءُ, (Mgh and Msb and K in art. غبر, and TA in the present art.,) and مِزْرٌ [q. v.]. (A in art. مزر.)   </entryFree> <br>\
+' } );

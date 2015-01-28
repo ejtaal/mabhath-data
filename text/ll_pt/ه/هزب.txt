@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>هزب</em>            1                  هزب<br>\
+<b>هَوْزَبٌ</b>               1     <br>\
+                     هَوْزَبٌ<br>\
+                     ذ<br>\
+                   A camel <i>strong in running;</i> syn. قَوِىُّ <br>\
+                  الجَرْىِ: (K, and so in a copy of the S:) or a <i>strong and bold</i> camel; syn. قَوِىٌّ جَرِىءٌ: (so in the S, in several copies): a <i>strong</i> camel: (ElJarmee:) a camel <i>advanced in age, and bold.</i> (As.) ―         -b2-  هَوْزَبٌ <br>\
+                  <i>A vulture,</i> (K,) <i>advanced in age.</i> (TA.)    </entryFree> <br>\
+<b>هَيْزَبٌ</b>               1     <br>\
+                     هَيْزَبٌ<br>\
+                     ذ<br>\
+                  <i>Sharp; fierce;</i> syn. حَدِيدٌ. ―         -b2-  ليْثٌ <br>\
+                  هَيْزَبُ <br>\
+                  <i>A sharp,</i> or <i>fierce, lion:</i> (K, accord. to the TA:) or <i>a strong lion.</i> (CK.)    </entryFree> <br>\
+<b>هَازِبَى</b>               1     <br>\
+                     هَازِبَى<br>\
+                     ذ<br>\
+                   and هَازِبَاءُ <br>\
+                  <i>A kind of fish.</i> (K.)   </entryFree> <br>\
+' } );

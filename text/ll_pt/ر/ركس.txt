@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>ركس</em>            1                  ركس<br>\
+<b>رَكَسَهُ</b>               1     <br>\
+                     رَكَسَهُ<br>\
+                     ذ<br>\
+                  , (S, Msb,) aor.      <br>\
+                     رَكُسَ<br>\
+                  , (Msb, TA,) inf. n. رَكْسٌ, (S, A, Msb, K,) <i>He turned it over,</i> or <i>upside down;</i> (S, A, Msb, K;) as also ↓ <br>\
+      اَرْكَسَهُ: (S:) or the former, (TA,) or ↓ latter, (Msb,) <i>he turned it over upon its head:</i> (Msb, TA:) and the former, <i>he reversed it; made the first part of it to be last;</i> or <i>turned it fore part behind.</i> (Lth, A, Msb, K.) It is said in the Kur [iv. 90], بِمَا كَسَبُوا ↓ <br>\
+      وَاْللّٰهُ اَرْكَسَهُمْ <br>\
+                  <i>Since God hath subverted them</i> [<i>for what they have done,</i> or <i>committed</i>]; syn. تَكَّسَهُمْ: (IAar, K:) or <i>hath made them return to their unbelief;</i> (Fr, S, K;) and رَكَسَهُمْ signifies the same: (Fr, TA:) or <i>hath separated,</i> or <i>dispersed, them, for what they have done</i> of their disbelief, and acts of disobedience: (Jel:) رَكَسْتُ الشَّىْءَ and ↓ <br>\
+      اَرْكَسْتُهُ both signify <i>I separated the thing;</i> or <i>set it apart.</i> (TA.) You say also, اْللّٰهُ عَدُوَّكَ ↓ <br>\
+      اَرْكَسَ <br>\
+                  <i>May God overturn thine enemy upon his head:</i> or <i>change,</i> or <i>reverse, the state,</i> or <i>condition, of thine enemy.</i> (A.) And فِى الشَّرِّ ↓ <br>\
+      اَرْكَسَهُ <br>\
+                  <i>He turned him back,</i> or <i>caused him to return, to evil.</i> (A.) And ↓ <br>\
+      اَرْكِسِ <br>\
+                  الثَّوْبَ فِى الصِّبْغِ <br>\
+                  <i>Return thou the garment,</i> or <i>piece of cloth, to the dyeing-liquor.</i> (A.)    </entryFree> <br>\
+                     اَرْكَسَ<br>\
+                   see 1, throughout.    </entryFree> <br>\
+<b>ارتكس</b>               1     <br>\
+                     ارتكس<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, became turned over, upside down,</i> or <i>upon his,</i> or <i>its, head; became inverted, subverted,</i> or <i>reversed; became turned fore part behind:</i> (K, TA:) <i>he returned, reverted,</i> or <i>went back,</i> from one thing or state to another: (TA:) <i>he fell.</i> (K.) You say, ارتكس فُلَانٌ فِى اَمْرٍ كَانَ <br>\
+                  قَدْ نَجَا مِنْهُ (S, A, TA) <i>Such a one fell</i> [<i>again</i>] <i>into a case from which he had escaped.</i> (TA.)    </entryFree> <br>\
+<b>رِكْسٌ</b>               1     <br>\
+                     رِكْسٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  رِجْسٌ [<i>Uncleanness, dirt,</i> or <i>filth;</i> or <i>an unclean, a dirty,</i> or <i>a filthy, thing</i>]: (S, A, Msb, K:) and <i>anything that is disliked,</i> or <i>hated, for its uncleanness, dirtiness,</i> or <i>filthiness;</i> (Msb;) as also ↓ <br>\
+      رَكِيسٌ: (TA:) the former is similar in meaning to رَجِيعٌ [<i>dung</i> of a man, or of a horse and the like, or of a wild beast]; (A &#39;Obeyd, TA;) and ↓ <br>\
+      رَكِيسٌ [also] is <i>syn. with</i> <br>\
+                  رَجِيعٌ. (TA.)    </entryFree> <br>\
+<b>رَكِيسٌ</b>               1     <br>\
+                     رَكِيسٌ<br>\
+                     ذ<br>\
+                  : see مَرْكُوسٌ, throughout:       -A2-  see also رِكْسٌ, in two places.    </entryFree> <br>\
+<b>مَرْكُوسٌ</b>               1     <br>\
+                     مَرْكُوسٌ<br>\
+                     ذ<br>\
+                   A thing <i>turned over,</i> or <i>upside down; turned over upon its head; turned fore part behind;</i> as also ↓ <br>\
+      رَكِيسٌ. (TA.) ―         -b2-  <i>Turned,</i> or <i>sent, back,</i> or <i>away;</i> as also ↓ the latter epithet. (TA.) ―         -b3-  One <i>who goes back,</i> or <i>reverts, from his state</i> or <i>condition;</i> like مَنْكُوسٌ: (IAar, TA:) and ↓ the latter epithet (ركيس), a <i>weak</i> person, <i>who returns,</i> or <i>reverts,</i> from one thing or state to another; syn. ضَعِيفٌ مُرْتَكِسٌ. (TA.)   </entryFree> <br>\
+' } );

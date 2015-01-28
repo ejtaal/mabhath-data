@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>وعظ</em>            1                  وعظ<br>\
+<b>وَعَظَهُ</b>               1     <br>\
+                     وَعَظَهُ<br>\
+                     ذ<br>\
+                  , (S, Msb, K, &amp;amp;c,) aor. يَعِظُ, (Msb, K,) inf. n. وَعْظٌ and عِظَةٌ, (S, Msb, K,) in which the ة is a substitute for the elided و, (TA,) and عَظَةٌ, (TA,) and مَوْعِظَةٌ, (K,) in which the ة is not to denote the fem. gender, because this is not real, (TA,) or this last is a simple subst., (Msb,) <i>He exhorted him, admonished him,</i> or <i>warned him; he put him in fear:</i> (IF:) <i>he exhorted him to obedience; commanded him to obey:</i> (Msb:) <i>he gave him good advice,</i> or <i>counsel;</i> and <i>reminded him of the results of affairs:</i> (S:) <i>he reminded him by informing him of that which should make the heart tender:</i> (Kh:) <i>he reminded him of that which should soften his heart, by the mention of reward and punishment.</i> (K.) It is said in the Kur, [xxxiv. 45,] اـِنَّمَا اَعِظكُمْ بِوَاحِدَةٍ <br>\
+                  <i>I only exhort you,</i> or <i>command you, to do one thing.</i> (Msb.) And you say, وُعِظَ بِغَيْرِهِ [<i>He was exhorted, admonished,</i> or <i>warned, by</i> the example of <i>another:</i> see 8]. (S.) [And وعَظَ, alone, <i>He preached a sermon</i> or <i>sermons.</i>]    </entryFree> <br>\
+<b>اـِتَّعَظَ</b>               1     <br>\
+                     اـِتَّعَظَ<br>\
+                     ذ<br>\
+                   [<i>He became exhorted, admonished, warned,</i> or <i>put in fear:</i>] <i>he obeyed,</i> or <i>conformed to,</i> [<i>an exhortation to obedience,</i> or] <i>a command, and restrained himself:</i> (Msb:) <i>he accepted good advice,</i> and <i>the being reminded of the results of affairs:</i> (S:) <i>he became reminded of that which should soften his heart, by the mention of reward and punishment.</i> (K.) It is said, السَّعِيدُ مَنْ وُعِظَ يِغَيْرِهِ وَالشَّقِىُّ مَنْ اْتَّعَظَ بِهِ <br>\
+                  غَيْرُهُ [<i>The happy is he who is exhorted,</i> or <i>admonished,</i> or <i>warned, by</i> the example of <i>another, and the unhappy is he by</i> the example of <i>whom another becomes exhorted,</i> or <i>admonished,</i> or <i>warned</i>]. (S, L.)    </entryFree> <br>\
+<b>عِظَةٌ</b>               1     <br>\
+                     عِظَةٌ<br>\
+                     ذ<br>\
+                  : see 1. ―         -b2-  [As a simple subst.,] it has for its pl. عِظَاتٌ: and is syn. with ↓ <br>\
+      مَوْعِظَةٌ: (TA:) [the pl. of the latter is مَوَاعِظُ.] It is said in trad., لَاَجْعَلَنَّكَ عِظَةً <br>\
+                  <i>I will assuredly make thee a warning,</i> or <i>an example,</i> to others. (TA.) And in the Kur, [ii. 276,] فَمَنْ جَا=ءَهُ <br>\
+                  مِنْ رَبِّهِ ↓ <br>\
+      مَوْعِظَةٌ [<i>But he to whom cometh an</i> <br>\
+                  <i>exhortation,</i> or <i>an admonition,</i> or <i>warning, from his Lord</i>]. (TA.) And ↓ <br>\
+      القَتْلُوبِالمَوْعِظَةِ [<i>The slaying by way of warning</i>], mentioned in a trad., is when the innocent is slain in order that he who gives reason for suspicion may become warned. (TA.)    </entryFree> <br>\
+<b>وَعَّاظٌ</b>               1     <br>\
+                     وَعَّاظٌ<br>\
+                     ذ<br>\
+                  : see وَاعِظٌ.    </entryFree> <br>\
+<b>وَاعِظٌ</b>               1     <br>\
+                     وَاعِظٌ<br>\
+                     ذ<br>\
+                   [<i>One who exhorts, admonishes, warns,</i> or <i>puts in fear:</i>] <i>one who exhorts to obedience; who commands to obey:</i> (Msb:) <i>one who gives good advice,</i> or <i>counsel;</i> [<i>who reminds of the results of affairs;</i> &amp;amp;c.: and <i>a preacher of a sermon</i> or <i>sermons:</i> see 1:] and in like manner ↓ <br>\
+      وَعَّاظٌ [<i>one who exhorts,</i> &amp;amp;c., <i>much,</i> or <i>frequently</i>]: (TA:) pl. of the former وُعَّاظٌ. (Msb, TA.)    </entryFree> <br>\
+<b>مَوْعِظَةٌ</b>               1     <br>\
+                     مَوْعِظَةٌ<br>\
+                     ذ<br>\
+                  : see 1: ―         -b2-  and عِظَةٌ, in three places.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'حمدلQ. 1<br>\
+حَمْدَلَ, (Msb and TA in art. بسمل,)<br>\
+inf. n. حَمْدَلَةٌ, (K,) He said الحَمْدُ لِلّٰهِ: (K, and<br>\
+Msb and TA ubi suprà:) a word of the kind<br>\
+termed مَنْحُوتٌ. (TA.)<br>\
+' } );

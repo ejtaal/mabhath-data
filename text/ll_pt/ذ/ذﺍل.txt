@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ذال&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ذال<br>\
+&lt;entryFree id=&quot;n13633&quot; key=&quot;ذَاَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ذَاَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, K,) or ذَاَلَتْ, (S,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ذَاََ<br>\
+                  &lt;/form&gt;, inf. n. ذَاَلَانٌ (T, S, K) and ذَاْلٌ or ذَاَلٌ, (accord. to different copies of the S and K, the latter accord. to the TA,) &lt;i&gt;He,&lt;/i&gt; (T, K,) or &lt;i&gt;she,&lt;/i&gt; i. e. a camel, (S,) &lt;i&gt;walked,&lt;/i&gt; or &lt;i&gt;went, lightly:&lt;/i&gt; (AZ, T, S:) or &lt;i&gt;quickly:&lt;/i&gt; (K:) or &lt;i&gt;lightly,&lt;/i&gt; (K,) or &lt;i&gt;quickly,&lt;/i&gt; (IF,) &lt;i&gt;and proudly, with an inclining of the body from side to side.&lt;/i&gt; (IF, K.) [See also دَاَلَ: and see ذَاَلَانٌ, below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13634&quot; key=&quot;تذا=ءل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تذا=ءل<br>\
+                     ذ<br>\
+                  &lt;i&gt;He became vile, base, ignominious, abject,&lt;/i&gt; or &lt;i&gt;contemptible;&lt;/i&gt; syn. تصاغر. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13635&quot; key=&quot;ذَاْلَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَاْلَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) or ↓ <br>\
+      ذَاَلَانٌ, (ISk, S, M,) and ↓ <br>\
+      ذُاْلَانٌ, (Ibn- &#39;Abbád, K,) The &lt;i&gt;jackal&lt;/i&gt; (اِبْنُ ا=وَى): or the &lt;i&gt;wolf:&lt;/i&gt; (K:) or the second word has the latter signification: (ISk, S, M:) and the last word, the former signification: (M:) the pl. of the second word, having the latter signification, is ذَا=لِيلُ, with ل. (ISk, S.) [See also دَاْلَانٌ and دَاَلَانٌ: and see ذُوَالَةٌ, below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13636&quot; key=&quot;ذُوْلَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذُوْلَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13637&quot; key=&quot;ذَاَلَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَاَلَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;walk,&lt;/i&gt; or &lt;i&gt;manner of going, of the wolf:&lt;/i&gt; pl. ذَا=لِيلُ, with ل: (M, K:) [but ISd says,] I know not how this is. (M. [See also دَا=لِيلُ.]) Also [as an inf. n. of 1, q. v.,] &lt;i&gt;A quick walk&lt;/i&gt; or &lt;i&gt;manner of going:&lt;/i&gt; (M:) or, as some say, &lt;i&gt;a moderate running:&lt;/i&gt; or &lt;i&gt;an extraordinary manner,&lt;/i&gt; or &lt;i&gt;rate, of going, by reason of briskness, liveliness,&lt;/i&gt; or &lt;i&gt;sprightliness.&lt;/i&gt; (T.)       -A2-  See also ذَاْلَانٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13638&quot; key=&quot;ذَوُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَوُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Anything [or any animal] &lt;i&gt;Quick,&lt;/i&gt; or &lt;i&gt;swift.&lt;/i&gt; (T.) [See also دَوُولٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13639&quot; key=&quot;ذُوَالَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذُوَالَةُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The wolf:&lt;/i&gt; (T, S, M, K:) so called because of his light walk or manner of going; (A &#39;Obeyd, T, S;) or because of a lightness in his running: (M:) it is determinate, (S, M, K, TA,) and imperfectly decl., being a proper name and [grammatically] of the fem. gender: (TA:) pl. ذِيْلَانٌ and ذُوْلَانٌ. (M, K.) One says, خَشِّ ذُوَالَةَ <br>\
+                  بَالحِبَالَةِ [&lt;i&gt;Frighten thou the wolf with the snare&lt;/i&gt;]: (S, Meyd, TA:) a prov., applied to him whose threatening is not regarded: meaning threaten thou other than me; for I know thee: (Meyd, &lt;pb n=&quot;951&quot; TEIform=&quot;pb&quot;/&gt; TA:) or, accord. to A&#39;Obeyd, said by him who orders one to menace and threaten. (Meyd.) [See also ذَاْلَانٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13640&quot; key=&quot;مِذْاَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِذْاَلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Light and quick.&lt;/i&gt; (Ibn-&#39;Abbád, TA.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,39 @@
+load_data( { book: 'll_nvd', text: 'صمخ1<br>\
+صَمَخَهُ, (S, A, L, K,) aor.<br>\
+صَمُخَ, inf. n. صَمْخٌ,<br>\
+(L,) He hit, or hurt, his صِمَاخ [i. e. his ear-hole,<br>\
+or his ear]: (S, A, L, K:) and, accord. to Sh,<br>\
+صَمَخَتْهُ الشَّمْسُ The sun smote, or hurt, his صِمَاخ.<br>\
+(TA.) ―<br>\
+-b2-  صَمَخَتِ الشَّمْسُ وَجْهَهُ The sun smote, or<br>\
+hurt, his face: or [in the CK “ and ”] fell vehemently upon it. (A &#39;Obeyd, K.) ―<br>\
+-b3-  صَمَخَ عَيْنَهُ,<br>\
+(ISk, K,) aor. and inf. n. as above, (ISk,) He<br>\
+struck his eye with his fist: (ISk, K:) in some of<br>\
+the lexicons, with his hand. (TA.) ―<br>\
+-b4-  And<br>\
+صَمَخَ أَنْفَهُ He crushed, or bruised, his nose. (Lh,<br>\
+TA.) [See also what next follows.]<br>\
+صَمْخٌ inf. n. of 1 [q. v.]. (L.) ―<br>\
+-b2-  Also Any<br>\
+blow that leaves a mark; accord. to AZ, upon<br>\
+the face. (TA.)<br>\
+صِمَاخٌ The ear-hole: (S, A, Mgh, K:) the hole,<br>\
+(Msb,) or inner hole, (L,) of the ear, that penetrates to [the interior of] the head: (L, Msb:)<br>\
+and ↓ أُصْمُوخٌ signifies the same: (L, K:) of the<br>\
+dial. of Temeem: (L:) and سِمَاخٌ is a dial. var.,<br>\
+(S, L,) as also أُسْمُوخٌ: (L:) and, (S, L, Msb, K,)<br>\
+as some say, (S, L, Msb,) the ear itself: (S, L,<br>\
+Msb, K:) pl. أَصْمِخَةٌ, (L, Msb,) a pl. of pauc.,<br>\
+(L,) and أَصْمَاخٌ, (A,) [also a pl. of pauc.,] and<br>\
+صُمُخٌ and صَمَائِخُ. (L.) One says, ضَرَبَ اللّٰهُ عَلَى<br>\
+صِمَاخِهِ, and عَلَى أَصْمِخَتِهِمْ, meaning God made<br>\
+him, and them, to sleep: phrases similar to<br>\
+ضَرَبْنَا عَلَى آذَانِهِمْ, in the Kur [xviii. 10: see art.<br>\
+ضرب]. (L.) And هٰذَا كَلَامٌ يُؤْلِمُ أَصْمَاخِى [This<br>\
+is speech that pains my ears]. (A.)<br>\
+صَمُوخٌ [Having merely an ear-hole; as distinguished from أَذُونٌ, meaning “ having an ear,”<br>\
+i. e. “ having an external ear ”]. (Msb in art.<br>\
+بيض.)<br>\
+أُصْمُوخٌ: see صِمَاخٌ.<br>\
+' } );

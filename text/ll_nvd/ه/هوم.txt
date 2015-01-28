@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'هوم2<br>\
+هَوَّمَ<br>\
+He slept. (TA, voce نَامَ.)<br>\
+هَامَهٌ<br>\
+The head: (S, K:) or the part between<br>\
+the two edges of the head: or the middle, and<br>\
+main part, of the head, [see قَرْنٌ, and صَدًى, in<br>\
+several places,] of anything: (TA:) or the upper<br>\
+part of the head, in which are the<br>\
+نَاصِيَة<br>\
+and the<br>\
+قُصَّه, which mean the fore part of the hair of<br>\
+the forehead; in it is the<br>\
+مفرق, which is<br>\
+the<br>\
+' } );

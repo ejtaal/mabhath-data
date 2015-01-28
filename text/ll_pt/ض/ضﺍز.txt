@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضاز&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضاز<br>\
+&lt;entryFree id=&quot;n25400&quot; key=&quot;ضَاَزَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ضَاَزَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ضَاََ<br>\
+                  &lt;/form&gt;, inf. n. ضَاْزٌ and ضَاَزٌ, &lt;i&gt;He deviated from the right course;&lt;/i&gt; or &lt;i&gt;acted unjustly, wrongfully, injuriously,&lt;/i&gt; or &lt;i&gt;tyrannically;&lt;/i&gt; (K;) like ضَازَ, aor. يَضُوزُ and يَضِيزُ. (TA.) ―         -b2-  ضَاَزَهُ حَقَّهُ, (K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ضَاََ<br>\
+                  &lt;/form&gt;, inf. n. ضَاْزٌ and ضَا=زٌ, (TA,) [but the latter is probably a mistake for ضَاَزٌ,] &lt;i&gt;He deprived him,&lt;/i&gt; or &lt;i&gt;defrauded him, of a part,&lt;/i&gt; or &lt;i&gt;the whole, of his right,&lt;/i&gt; or &lt;i&gt;due:&lt;/i&gt; (K:) &lt;i&gt;he refused it to him;&lt;/i&gt; or &lt;i&gt;withheld it from him:&lt;/i&gt; (TA:) like ضَازَهُ اـِيَّاهُ, aor. يَضِيزُهُ (S * and K * and TA in art. ضيز) and يَضُوزُهُ. (K * and TA in art. ضوز.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25401&quot; key=&quot;ضَاْزَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَاْزَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what here follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25402&quot; key=&quot;ضُوْزَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضُوْزَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what here follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25403&quot; key=&quot;قِسْمَةٌ ضِيْزَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قِسْمَةٌ ضِيْزَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and ↓ <br>\
+      ضُوْزَى, and ↓ <br>\
+      ضَاْزَى, (K,) the first mentioned by AZ (S in art. ضيز) and IAar, (TA,) and the second by Fr (S ubi suprà) and IAar, (TA,) and the third by Fr, (S ubi &lt;pb n=&quot;1760&quot; TEIform=&quot;pb&quot;/&gt; suprà,) &lt;i&gt;A defective,&lt;/i&gt; (K,) or &lt;i&gt;an unjust,&lt;/i&gt; (TA,) &lt;i&gt;division:&lt;/i&gt; (K, TA:) as also ضِيزَى (IAar, K) and ضُوزَى. (IAar, TA.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>ذيع</em>            1                  ذيع<br>\
+<b>ذَاعَ</b>               1     <br>\
+                     ذَاعَ<br>\
+                     ذ<br>\
+                  , aor. يَذِيعُ, inf. n. ذَيْعٌ and ذُيُوعٌ (S, Msb, K) and ذَيْعُوعَةٌ and ذَيَعَانٌ, (S, K,) <i>It</i> (information, news, or tidings, S, K, or discourse, Msb, and a thing, TA) <i>became spread, published,</i> or <i>divulged;</i> (S, Msb, K, TA;) <i>became revealed, made known,</i> or <i>disclosed.</i> (Msb.) ―         -b2-  You say also, ذَاعَ الجَوْرُ (assumed tropical:)  <i>Injustice,</i> or <i>tyranny, spread.</i> (TA.) ―         -b3-  And ذَاعَ الجَرَبُ فِى الجِلْدِ (tropical:)  <i>The mange,</i> or <i>scab, became general, and spread, in the skin.</i> (TA.)    </entryFree> <br>\
+<b>اذاعهُ</b>               1     <br>\
+                     اذاعهُ<br>\
+                     ذ<br>\
+                  , (S, Msb, K,) and اذاع بِهِ, (Zj, K,) as in the Kur iv. 85, (Zj,) inf. n. اـِذَاعَةٌ, (TA in art. ذوع,) <i>He spread, published, divulged, revealed, made known,</i> or <i>disclosed, it;</i> (Zj, S, Msb, * K;) <i>and</i> (so Zj, but in the K, “ or, ”) <i>proclaimed it among the people;</i> (Zj, K;) namely, information, news, or tidings, (S,) or discourse, (Msb,) or a secret. (K.) ―         -b2-  Hence, app., (TA in art. ذوع,) اذاع القَوْمُ (S, K,) and اذاعت الاـِبِلُ, (K,) مَا فِى الحوض, (S,) or بِمَا فى الحوض, (K,) (tropical:)  <i>The people,</i> or <i>company of men,</i> and <i>the camels, drank what was in the watering-trough,</i> or <i>tank,</i> (S, K, TA,) <i>all of it.</i> (S.) ―         -b3-  And hence, app., (TA,) اذاع بِهِ signifies also (tropical:)  <i>He took it away;</i> namely, another&#39;s property, (K,) and anything. (TA.) ―         -b4-  Accord. to the K, the medial radical letter is both و and ى; but correctly it is ى: (TA in the present art. and in art. ذوع:) so accord. to AZ and J and Z. (TA in art. ذوع.)    </entryFree> <br>\
+<b>مِذْيَاعٌ</b>               1     <br>\
+                     مِذْيَاعٌ<br>\
+                     ذ<br>\
+                   [<i>A babbler of secrets &amp;amp;c.;</i>] <i>one who will not keep,</i> or <i>conceal, a secret:</i> (S, K:) or <i>one who is unable to conceal his information, news,</i> or <i>tidings:</i> an epithet of an intensive form: (TA:) pl. مَذَايِيعُ. (S.)   </entryFree> <br>\
+' } );

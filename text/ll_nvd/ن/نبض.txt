@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نبض4<br>\
+أَنْبَضَ فى قَوْسِهِ<br>\
+He made the string of his<br>\
+bow to vibrate, that it might twang. (K.)<br>\
+' } );

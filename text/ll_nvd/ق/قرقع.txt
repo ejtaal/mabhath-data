@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'قرقعقُرقُعَةٌ<br>\
+(TA, art. نقض): properly فُرْقُعَةٌ, q. v.<br>\
+' } );

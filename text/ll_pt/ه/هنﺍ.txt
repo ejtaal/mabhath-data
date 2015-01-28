@@ -1,0 +1,139 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;هنا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  هنا<br>\
+&lt;entryFree id=&quot;n41344&quot; key=&quot;هَنُوَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     هَنُوَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنُاَ<br>\
+                  &lt;/form&gt;, inf. n. هَنَا=ءَةٌ; and هَنِيَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt;; &lt;i&gt;It came,&lt;/i&gt; or &lt;i&gt;happened, without inconvenience,&lt;/i&gt; or &lt;i&gt;trouble:&lt;/i&gt; (K:) [&lt;i&gt;it was pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment:&lt;/i&gt; see what immediately follows]. ―         -b2-  هَنُوَ الطَّعَامُ (S, K *) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنُاَ<br>\
+                  &lt;/form&gt;, inf. n. هَنَا=ءَةٌ (S, K) and هَنَاَةٌ and هَنْءٌ, (K,) or هِنْءٌ (as in some copies of the K, and in the L); epithet هَنِىْءٌ; (S;) and هَنِيَ, (Akh, S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt;, inf. n. هَنْءٌ; (TA;) and هَنَاَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنِاَ<br>\
+                  &lt;/form&gt;, (Lth,) &lt;i&gt;The food was,&lt;/i&gt; or &lt;i&gt;became, pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment, to the eater:&lt;/i&gt; or &lt;i&gt;easy to swallow; not attended by trouble:&lt;/i&gt; [&lt;i&gt;agreeable:&lt;/i&gt;] or &lt;i&gt;not succeeded by harm, even after digestion.&lt;/i&gt; (Z, cited voce مَرُوَ.) ―         -b3-  هَنَاَنِى الطَّعَامُ, (Akh, S, K), and هَنَاَ لِىَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنِاَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt; (S, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنُاَ<br>\
+                  &lt;/form&gt;, (K,) unexampled, says Akh, in the class termed mahmooz, (S,) [though بَرَاَ and قَرَاَ are similar with respect to their having damm to the aor.,] inf. n. هَنْءٌ and هِنْءٌ, (S, K,) [&lt;i&gt;The food was pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment, to me:&lt;/i&gt; or &lt;i&gt;easy to swallow; &amp;amp;c.:&lt;/i&gt; see هَنُوَ]. ―         -b4-  هَنَاَنِى الطّعامُ وَمَراَنِى: see art. مرا. ―         -b5-  هَنَاَهُ <br>\
+                  ذٰلِكَ, and هنا لَهُ ذلك <br>\
+                  &lt;i&gt;That&lt;/i&gt; (thing) &lt;i&gt;was pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment, to him; &amp;amp;c.&lt;/i&gt; (TA.) [See هَنُوَ.] ―         -b6-  هَنَاَنِى خَبَرُ فُلَانٍ <br>\
+                  &lt;i&gt;The news of such a one was pleasant to me to hear.&lt;/i&gt; (TA.) ―         -b7-  هَنِيَ الطّعَامَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt;; and بَالطّعامِ ↓ <br>\
+      تهنّا, (S, K,) and تهنّا الطّعام, and استهناهُ, (TA,) [&lt;i&gt;He enjoyed the food; found it pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment;&lt;/i&gt; &amp;amp;c.: see هَنُوَ:] &lt;i&gt;he found the food to be productive of no evil result, and not attended by inconvenience.&lt;/i&gt; (TA.) ―         -b8-  هَنِيَ, (AZ, S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt;, inf. n. هَنَاٌ and هَنْءٌ, (K,) &lt;i&gt;He&lt;/i&gt; (a beast) &lt;i&gt;lighted upon a good piece of herbage, but did not satiate himself therewith.&lt;/i&gt; (AZ, S, K.) ―         -b9-  اَكَلْنَا هٰذَا الطَّعَامَ حَتَّى هَنِيْنَا مِنْهُ <br>\
+                  &lt;i&gt;We ate this food until we were satiated with it.&lt;/i&gt; (TA.) ―         -b10-  هَنِيَتِ <br>\
+                  الاـِبِلُ <br>\
+                  &lt;i&gt;The camels were satiated&lt;/i&gt; with herbage. (TA.) ―         -b11-  هَنِيَ بِهِ <br>\
+                  &lt;i&gt;He rejoiced in him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (K.) ―         -b12-  هَنَاَنَا اللّٰهُ الطَّعَامَ [&lt;i&gt;God made the food pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment, to us: &amp;amp;c.: made us to enjoy it:&lt;/i&gt; see هَنُوَ]. (TA.) ―         -b13-  هَنَاَتْنِيهِ <br>\
+                  العَافِيَةُ [&lt;i&gt;Health made it pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment, to me:&lt;/i&gt; &amp;amp;c.]. (K.) ―         -b14-  لِيَهْنِيْكَ الفَارِسُ [&lt;i&gt;May the horseman give thee joy:&lt;/i&gt; a form of congratulation on the exploits of a horseman; i. e., I congratulate thee on the exploits of the horseman]: also written and pronounced لِيَهْنِيكَ: ليهنك, though it occurs in a trad., pronounced لِيَهْنِكَ or لِيَهْنَكَ, (but which pronunciation is to be preferred is disputed,) is said to be a vulgarism, and not allowable. (TA.) ―         -b15-  هَنَاَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt; (K) [and app.,      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنِاَ<br>\
+                  &lt;/form&gt; (see هَانِيٌ)], inf. n. هَنْءٌ, (TA,) &lt;i&gt;He fed him;&lt;/i&gt; or &lt;i&gt;gave him to eat.&lt;/i&gt; (K.) ―         -b16-  هَنَاَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنِاَ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. هَنْءٌ; (S;) and ↓ <br>\
+      اهناهُ; (IAar, K;) &lt;i&gt;He gave him,&lt;/i&gt; or &lt;i&gt;bestowed upon him:&lt;/i&gt; (S, K:) &lt;i&gt;gave him plentifully.&lt;/i&gt; (TA.) ―         -b17-  هَنَاَ الطَّعَامَ, inf. n. هَنْءٌ and هِنْءٌ (K) and هَنَا=ءَةٌ (as in some copies of the K) or هَنَاَةٌ (as in others) or هِنَاَةٌ (as in others) or هَنْاَةٌ (as in the CK), &lt;i&gt;He made the food good; qualified it properly; seasoned it:&lt;/i&gt; syn. اَصْلَحَهُ. (K.) ―         -b18-  هَنَاَ مَالَهُ, (TA,) and ماله ↓ <br>\
+      اهتنا, (K,) &lt;i&gt;He put his property in a right,&lt;/i&gt; or &lt;i&gt;good, state.&lt;/i&gt; (K.) ―         -b19-  هَنَاَ القَوْمَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He nourished,&lt;/i&gt; or &lt;i&gt;maintained, the people;&lt;/i&gt; (S;) &lt;i&gt;satisfied their wants; bestowed upon them.&lt;/i&gt; (TA.) Ex. هَنَاَهُمْ شَهْرَيْنِ [&lt;i&gt;He maintained them two months&lt;/i&gt;]. Hence the proverb quoted in illustration of the word هَانِيٌ, accord. to the second reading. (TA) ―         -b20-  هَنَاَهُ <br>\
+                  &lt;i&gt;He aided, succoured,&lt;/i&gt; or &lt;i&gt;defended, him.&lt;/i&gt; (K.)       -A2-  هَنَاَ الاـِبِلَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنَاَ<br>\
+                  &lt;/form&gt; (S, K,) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنِاَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَنُاَ<br>\
+                  &lt;/form&gt; (K: dev. from constant rule as shown above: TA), inf. n. هَنَاٌ and هَنْءٌ, (TA,) &lt;i&gt;He smeared the camels with&lt;/i&gt; <br>\
+                  هِنَا=ء, which is &lt;i&gt;tar,&lt;/i&gt; or &lt;i&gt;liquid pitch,&lt;/i&gt; syn. قَطِرَان, (AZ, S, K,) or &lt;i&gt;a kind thereof,&lt;/i&gt; (TA,) [as a &lt;pb n=&quot;2903&quot; TEIform=&quot;pb&quot;/&gt; remedy for, or preservative against, the mange, or scab]. ―         -b2-  لَيْسَ الهَنْءُ بِالدَّسِّ <br>\
+                  &lt;i&gt;The smearing of a camel&lt;/i&gt; [&lt;i&gt;all over&lt;/i&gt;] &lt;i&gt;with&lt;/i&gt; <br>\
+                  هِنَا=ء <br>\
+                  &lt;i&gt;is not&lt;/i&gt; [&lt;i&gt;merely&lt;/i&gt;] &lt;i&gt;smearing the cavities under the shoulders, and the like,&lt;/i&gt; which the mange, or scab, more quickly attacks. A proverb, applied to him who does not a thing thoroughly. (TA.) ―         -b3-  See 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41345&quot; key=&quot;هَنَّاهُ وَمَنَّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     هَنَّاهُ وَمَنَّاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (in a trad. respecting the prostration for inattention) &lt;i&gt;He&lt;/i&gt; (the devil) &lt;i&gt;made him to think of pleasant things,&lt;/i&gt; or &lt;i&gt;things productive of enjoyment, and of things wished for,&lt;/i&gt; or &lt;i&gt;objects of desire,&lt;/i&gt; in his prayer. The former verb is pronounced thus to assimilate it to the latter. (TA.) ―         -b2-  هنّاهُ بِالاَمْرِ, inf. n. تَهْنِيَةٌ and تَهْنِىْءٌ; (S, K;) and ↓ <br>\
+      هَنَاَهُ, (K,) inf. n. هَنْءٌ; (TA;) &lt;i&gt;He congratulated him on the thing,&lt;/i&gt; (S, K,) such as the possession of a government, &amp;amp;c.: (S:) &lt;i&gt;he said to him&lt;/i&gt; <br>\
+                  لِيَهْنِيْكَ [&lt;i&gt;May it give thee joy&lt;/i&gt;]. (K.) ―         -b3-  [When the agent of the verb is God, the meaning necessarily is, &lt;i&gt;He granted him enjoyment in the thing; made him to have enjoyment in it.&lt;/i&gt;] ―         -b4-  هُنِّيْتَ وَلَا تُنْكَهْ: see art. نكا.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَهْنَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41346&quot; key=&quot;تهنّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تهنّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He gave many gifts.&lt;/i&gt; (IAar.) ―         -b2-  تهنّا <br>\
+                  بِكَذَا [unless it be a mistake for تهيّا, as IbrD suggests, which I think not improbable, though mentioned in this art. in the TA] &lt;i&gt;He prided himself in such a thing:&lt;/i&gt; syn. تمرّا and تغيّظ and تسمّن and تخيّل and تزيّن. (TA.) ―         -b3-  See 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِهْتَنَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41347&quot; key=&quot;استهناهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استهناهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He asked him for aid, succour,&lt;/i&gt; or &lt;i&gt;defence.&lt;/i&gt; (K.) ―         -b2-  &lt;i&gt;He asked him for a gift.&lt;/i&gt; (K, TA.) ―         -b3-  &lt;i&gt;He conceded to him,&lt;/i&gt; or &lt;i&gt;gave him, a part of his dues,&lt;/i&gt; or &lt;i&gt;rights.&lt;/i&gt; (TA.) ―         -b4-  See 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41348&quot; key=&quot;هِنْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِنْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A gift.&lt;/i&gt; (S, K.)       -A2-  &lt;i&gt;A part of the night.&lt;/i&gt; (K.)       -A3-  هِنْءٌ subst. from هَنَاَ الاـِبِلَ; (K;) i. e., The &lt;i&gt;smearing with&lt;/i&gt; <br>\
+                  هِنَا=ء. (MF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41349&quot; key=&quot;اـِبِلٌ هَنْاَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبِلٌ هَنْاَى<br>\
+                     ذ<br>\
+                  &lt;i&gt;Camels which have lighted upon a good piece of herbage, but are not satiated therewith.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41350&quot; key=&quot;هِنَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِنَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Tar,&lt;/i&gt; or &lt;i&gt;liquid pitch;&lt;/i&gt; syn. قَطِرَانٌ: (S, K:) or &lt;i&gt;a kind thereof.&lt;/i&gt; (TA.) See also نُورَةٌ; and قالِبٌ.       -A2-  هِنَا=ءٌ dial. var. of اـِهَانٌ, (K,) or formed from the latter by transposition, (TA,) &lt;i&gt;A raceme of a palm-tree.&lt;/i&gt; (AHn, K.) [See اـِهَانٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41351&quot; key=&quot;هَنِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَنِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;What comes&lt;/i&gt; or &lt;i&gt;happens to one without inconvenience,&lt;/i&gt; or &lt;i&gt;trouble:&lt;/i&gt; (S, K:) [&lt;i&gt;what is pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment; an unalloyed gratification,&lt;/i&gt; i. e., &lt;i&gt;a thing that gives unalloyed enjoyment;&lt;/i&gt; see what follows:] as also ↓ <br>\
+      مَهْنَاٌ, (K,) a subst., sometimes written and pronounced مَهْنَا; pl. مَهَانِيُ, sometimes written and pronounced مَهَانٍ. (TA.) [See مهنا also below.] ―         -b2-  &lt;i&gt;Pleasant,&lt;/i&gt; or &lt;i&gt;productive of enjoyment, to the eater:&lt;/i&gt; or &lt;i&gt;easy to swallow; not attended by trouble:&lt;/i&gt; or &lt;i&gt;not succeeded by harm, even after its digestion.&lt;/i&gt; (Z, cited voce مَرُوَ.) ―         -b3-  هَنِيْيًا مَرِيْيًا [May it be, or Eat it, or Drink it, &lt;i&gt;with enjoyment, and with wholesome result:&lt;/i&gt; or &lt;i&gt;with ease in the swallowing, and with quickness in digesting: &amp;amp;c.:&lt;/i&gt; see مَرُوَ]. (S.) ―         -b4-  هَنِيْيًا لَهُ ذٰلِكَ [&lt;i&gt;May that be productive of enjoyment to him!&lt;/i&gt;]. (TA.) ―         -b5-  هَنِيْيًا and مَرِيْيًا are of the number of epithets which are employed after the manner of inf. ns. significant of a prayer or good wish, governed in the acc. case by a verb understood. (Sb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41352&quot; key=&quot;هُنَيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُنَيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (K) and هُنَيَّةٌ and هُنَيْهَةٌ (the second is the most usual; and the third is said to be formed by substituting ه for ء; but accord. to some, the word is incorrectly written with ء, [so says F,] and is a dim. formed from هَنْوَةٌ, which becomes first هُنَيْوَةٌ, and then هُنَيَّةٌ: see art. هنو:) (TA:) &lt;i&gt;A little; a little while.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41353&quot; key=&quot;هَانِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَانِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A servant.&lt;/i&gt; (K.) ―         -b2-  هَانِيًا occurs in this sense in a trad.; but the reading commonly known is مَاهِنًا. If right, it is an act. part. n. from هنا “ he gave. ” (TA.) ―         -b3-  اـِنَّمَا سُمِّيتَ هَانِيًا <br>\
+                  لِتَهْنِيَ, or لِتَهْنَاَ; the former is the reading of El-Umawee; the latter, of Ks; &lt;i&gt;Thou art only named Háni&lt;/i&gt; (Giver, or Nourisher,) &lt;i&gt;that thou mayest give,&lt;/i&gt; accord. to both readings; or &lt;i&gt;that thou mayest nourish,&lt;/i&gt; or &lt;i&gt;maintain, and supply people&#39;s wants;&lt;/i&gt; <br>\
+                  لتعول وتكفى: (TA:) [such is said to be the meaning of لتهنا here:] and accord. to El-Umawee, لتهني signifies لِتُمْرِيَ, (S,) [which is app. the same as لتعول]. A proverb: said to him who is known for his beneficence, in order that he may continue to do as he has been wont. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41354&quot; key=&quot;مَهْنَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَهْنَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَنِىءٌ. ―         -b2-  لَكَ المَهْنَاُ, (S,) and المَهْنَا, (TA,) [&lt;i&gt;Unalloyed gratification to thee!&lt;/i&gt;] ―         -b3-  لَكَ المَهْنَاُ وَعَلَيْهِ الوِزْرُ [&lt;i&gt;To thee be unalloyed gratification, and on him be the burden,&lt;/i&gt; or &lt;i&gt;sin&lt;/i&gt;]: said, accord. to a trad., to one who asked whether he should accept an invitation to eat the food of one who received unlawful interest or profit; and also said with respect to eating the food of a tyrannical intendant. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41355&quot; key=&quot;مَهْنُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَهْنُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A camel &lt;i&gt;smeared with&lt;/i&gt; <br>\
+                  هِنَاء. (S.)   &lt;/entryFree&gt; <br>\
+' } );

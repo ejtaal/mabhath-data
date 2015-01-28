@@ -1,0 +1,60 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضال&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضال<br>\
+&lt;entryFree id=&quot;n25404&quot; key=&quot;ضَوُلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ضَوُلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ضَاَُ<br>\
+                  &lt;/form&gt;,] (S, M, O, Msb, K,) inf. n. ضَا=لَةٌ (S, M, O, Msb) and ضُوُولَةٌ; (Msb;) and ↓ <br>\
+      تَضَا=ءَلَ; (M, Msb, K;) &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt; [accord. to the S and O app. said of a man or of a man&#39;s body, and accord. to the Msb said of a thing,] &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, small in body,&lt;/i&gt; or &lt;i&gt;small, and lean:&lt;/i&gt; (S, O, Msb:) or &lt;i&gt;small, slender,&lt;/i&gt; or &lt;i&gt;thin, and despicable, abject,&lt;/i&gt; or &lt;i&gt;ignominious:&lt;/i&gt; and also [simply] &lt;i&gt;lean,&lt;/i&gt; or &lt;i&gt;spare:&lt;/i&gt; (M, K:) and in like manner ↓ <br>\
+      اِضْطَاَلَ: (M:) [or &lt;i&gt;lean,&lt;/i&gt; or &lt;i&gt;spare, and weak:&lt;/i&gt; or &lt;i&gt;weak, small, and slender,&lt;/i&gt; or &lt;i&gt;thin:&lt;/i&gt; (see the part. n., ضَيِيلٌ:)] or ضُوُولَةٌ signifies the &lt;i&gt;being lean,&lt;/i&gt; or &lt;i&gt;emaciated;&lt;/i&gt; and &lt;i&gt;base, abject,&lt;/i&gt; or &lt;i&gt;despicable.&lt;/i&gt; (TA.) Accord. to AZ, (S, O, TA,) ضَوُلَ, said of a man, (TA,) or ضَوُلَ رَاْيُهُ, (S, O;) signifies &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, small,&lt;/i&gt; or &lt;i&gt;little,&lt;/i&gt; [&lt;i&gt;in estimation,&lt;/i&gt;] &lt;i&gt;and weak in judgment.&lt;/i&gt; (S, O, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25405&quot; key=&quot;ضا=ءل شَخْصَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ضا=ءل شَخْصَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, TA,) [in the O, and in copies of the K, ضَاَلَ, but the former is the right,] &lt;i&gt;He made his person small,&lt;/i&gt; (M, O, * K, TA,) &lt;i&gt;in order that he might not appear.&lt;/i&gt; (TA.) Zuheyr says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَبَيْنَا نَذُودُ الوَحْشَ جَا=ءَ غُلَامُنَا<br>\
+                     &lt;L&gt;<br>\
+                        يَدِبُّ وَيُخْفِى شَخْصَهُ وَيُضَايِلُهْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And while we were driving the wild animals, our young man came, creeping, and hiding his person, and making it small&lt;/i&gt;]. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25406&quot; key=&quot;تَضَا=ءَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَضَا=ءَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1. In a verse of Aboo-Khirásh, تَضَالَ لَهَا جِسْمِى [meaning &lt;i&gt;My body became lean,&lt;/i&gt; or &lt;i&gt;spare, by reason of it,&lt;/i&gt;] occurs for تَضَا=ءَلَ: or, as AA relates it, he said تَضَاءَل لَّهَا, with idghám. (M.) ―         -b2-  Also &lt;i&gt;He became small,&lt;/i&gt; or &lt;i&gt;thin; he shrank,&lt;/i&gt; or &lt;i&gt;became contracted;&lt;/i&gt; (O, * TA, and Ham * pp. 653 and 658;) by reason of abasement, (TA,) or from fear: (Ham p. 658:) &lt;i&gt;he hid his person, sitting, and shrank,&lt;/i&gt; or &lt;i&gt;became contracted.&lt;/i&gt; (M, K, TA.) And &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;shrank, became contracted,&lt;/i&gt; or &lt;i&gt;drew itself together.&lt;/i&gt; (TA.) AHn has used it [in this sense] in relation to a herb, or leguminous plant. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25407&quot; key=&quot;اِضْطَاَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِضْطَاَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25408&quot; key=&quot;ضُوُلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضُوُلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, O, TA,) like تُوَدَةٌ, (O, TA,) in the copies of the K ضُوْلَة, but the former is the right, (TA,) an epithet applied to a man, (S, O,) &lt;i&gt;Lean,&lt;/i&gt; or &lt;i&gt;spare:&lt;/i&gt; (S:) or &lt;i&gt;weak,&lt;/i&gt; (K, TA,) &lt;i&gt;lean,&lt;/i&gt; or &lt;i&gt;spare, and despicable, abject,&lt;/i&gt; or &lt;i&gt;ignominious.&lt;/i&gt; (TA.) [See also ضَيِيلٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25409&quot; key=&quot;هُوَ عَلَيْهِ ضُوْلَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُوَ عَلَيْهِ ضُوْلَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, K, TA,) with damm, (TA,) [in the CK, erroneously, ضَوَلانٌ,] &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, is a burden upon him;&lt;/i&gt; syn. كَلٌّ. (M, K, TA.) ―         -b2-  And حَسَبُهُ عَلَيْهِ ضُوْلَانٌ <br>\
+                  &lt;i&gt;His grounds of pretension to respect,&lt;/i&gt; or &lt;i&gt;honour, are a cause of reproach to him.&lt;/i&gt; (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25410&quot; key=&quot;ضَيِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَيِيلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (also pronounced [by some] ضِيِيلٌ, like شِعِيرٌ [for شَعِيرٌ, q. v.], Ham p. 129) &lt;i&gt;Small in body, and lean;&lt;/i&gt; (Msb;) or so ضَيِيلُ الجِسْمِ, applied to a man: (S, O:) or &lt;i&gt;small, slender,&lt;/i&gt; or &lt;i&gt;thin, and despicable, abject,&lt;/i&gt; or &lt;i&gt;ignominious:&lt;/i&gt; and also [simply] &lt;i&gt;lean,&lt;/i&gt; or &lt;i&gt;spare:&lt;/i&gt; and so ↓ <br>\
+      مُضْطَيِلٌ, (M, K,) in both senses: (K:) or &lt;i&gt;lean,&lt;/i&gt; or &lt;i&gt;spare, and weak:&lt;/i&gt; (TA:) or &lt;i&gt;weak, small, and slender,&lt;/i&gt; or &lt;i&gt;thin:&lt;/i&gt; (Lth, TA:) and ↓ <br>\
+      مُتَضَايِلٌ [likewise] signifies &lt;i&gt;thin,&lt;/i&gt; or &lt;i&gt;slender;&lt;/i&gt; applied to a man; syn. شَخْتٌ: (S, O, TA:) the pl. of ضَيِيلٌ is ضُوَلَا=ءُ and ضِيَالٌ (M, K, TA) and ضَيِيلُونَ: (TA:) and the fem. is ضَيِيلَةٌ. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25411&quot; key=&quot;ضَيِيلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَيِيلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; fem. of ضَيِيلٌ. (M, TA.) ―         -b2-  Also [as a subst.] &lt;i&gt;A slender serpent:&lt;/i&gt; (S, O, K:) or &lt;i&gt;a serpent resembling the viper.&lt;/i&gt; (M.) ―         -b3-  And The لَهَاة [or &lt;i&gt;uvula&lt;/i&gt;]. (Th, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25412&quot; key=&quot;مُضْطَيِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُضْطَيِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ضَيِيلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25413&quot; key=&quot;مُتَضَايِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَضَايِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ضَيِيلٌ. ―         -b2-  It is also applied as an epithet to the weaving of a coat of mail [app. as signifying &lt;i&gt;Delicate,&lt;/i&gt; or &lt;i&gt;fine;&lt;/i&gt; or &lt;i&gt;small,&lt;/i&gt; or &lt;i&gt;contracted, in the rings&lt;/i&gt;]. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

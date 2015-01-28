@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>وذب</em>            1                  وذب<br>\
+<b>وِذَابٌ</b>               1     <br>\
+                     وِذَابٌ<br>\
+                     ذ<br>\
+                   The <i>stomach of a ruminant beast,</i> (or, as in some lexicons, the <i>stomachs of such beasts,</i> TA,) <i>with the intestines,</i> or <i>guts, into which milk is put, and which are then cut in pieces,</i> [<i>and eaten</i>]: a pl. which has no sing. (ISd, K.) ―         -b2-  Also The <i>perforations,</i> or <i>punctures, made in sewing,</i> or the <i>loops,</i> (the word in the original is  <br>\
+                  خُرَبٌ, pl. of خُرَبْةٌ: in some of the lexicons, خُرَزٌ: but both these words relate to the same things: TA: [whence it appears that, accord. to the author of the TA, &amp;amp;c., the former of the above two meanings is the one intended:]) <i>of a</i> <br>\
+                  مَزَادَة. (K.)   </entryFree> <br>\
+' } );

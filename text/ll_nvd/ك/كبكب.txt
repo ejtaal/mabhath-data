@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كبكبSee art. كب.<br>\
+[كبل كبن كبو<br>\
+See Supplement<br>\
+' } );

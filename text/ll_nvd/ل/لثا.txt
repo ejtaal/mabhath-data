@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'لثأ1<br>\
+لَثَأَ, aor.<br>\
+لَثَاَ, He (a dog) put his muzzle into a<br>\
+vessel &amp;c., and lapped. (K.) Omitted by J<br>\
+because held by him incorrect. (TA.)<br>\
+لثد لثط لثغ لثق لثم لثى<br>\
+See Supplement<br>\
+' } );

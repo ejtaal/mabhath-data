@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ضور</em>            1                  ضور<br>\
+<b>ضَارَهُ</b>               1     <br>\
+                     ضَارَهُ<br>\
+                     ذ<br>\
+                  , aor. يَضُورُ: see ضَارَهُ, aor. يَضِيرُ, in art. ضير.    </entryFree> <br>\
+<b>تضوّر</b>               1     <br>\
+                     تضوّر<br>\
+                     ذ<br>\
+                  <i>He writhed</i> by reason of the pain of beating, (M, A, K,) or of hunger: (K:) <i>he cried out and writhed</i> on being beaten, (Lth, S, A,) or  by reason of vehement hunger: (S, A:) <i>he writhed and cried out and turned over,</i> by reason of the vehemence of fever: (TA:) <i>he manifested harm, injury,</i> or <i>hurt, that he suffered;</i> and <i>was in a state of agitation:</i> (IAmb, TA:) <i>he manifested weakness:</i> (Abu-l-&#39;Abbás, in TA: [but for تَضْعِيفٌ, as the explanation of the inf. n., in the TA, I read تَضَعُّفٌ:]) <i>he</i> (a wolf, and a dog, and a lion, and a fox,) <i>cried out</i> (M, K) with hunger. (M.)   </entryFree> <br>\
+' } );

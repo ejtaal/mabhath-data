@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>سدج</em>            1                  سدج<br>\
+<b>سَدَجَهُ بِشَىْءٍ</b>               1     <br>\
+                     سَدَجَهُ بِشَىْءٍ<br>\
+                     ذ<br>\
+                  , (O, K,) aor.      <br>\
+                     سَدُجَ<br>\
+                  , inf. n. سَدْجٌ, (TK,) <i>He thought a thing to be in him;</i> (O, K;) i. e. <i>he suspected him of a thing:</i> (TA:) or سَدَجَ بِشَىْءٍ <br>\
+                  <i>he imagined,</i> or <i>thought, a thing.</i> (L.) ―         -b2-  See also what next follows, in two places.    </entryFree> <br>\
+<b>تسدّج</b>               1     <br>\
+                     تسدّج<br>\
+                     ذ<br>\
+                  ; (S, L, K;) and ↓ <br>\
+      سَدَجَ, inf. n. سَدْجٌ; (L;) <i>He lied, affected lying,</i> or <i>lied purposely;</i> and <i>forged,</i> or <i>fabricated:</i> (S, L, K: [in the CK, تَخَلَّفَ is erroneously put for تَخَلَّقَ:]) <i>he forged and uttered false and vain tales:</i> (L:) or ↓ <br>\
+      سَدَجَ, aor.      <br>\
+                     سَدِجَ<br>\
+                  , signifies [simply] <i>he lied;</i> (O, in the present art. and in art. سرج;) like سَرَجَ. (O in art. سرج.) [See also تسرّج.]    </entryFree> <br>\
+<b>انسدج</b>               1     <br>\
+                     انسدج<br>\
+                     ذ<br>\
+                  <i>He fell prostrate; fell upon his face;</i> (O, K, TA;) <i>like him who is prostrating himself in prayer:</i> (TA:) [it may perhaps be a mistranscription for انسدح; which seems to be better known in this sense: but it is said to be] formed by transposition from انسجد and [so] اندسج. (TA.)    </entryFree> <br>\
+<b>سَدَاجَةٌ</b>               1     <br>\
+                     سَدَاجَةٌ<br>\
+                     ذ<br>\
+                  , used by Ibn-El-Khateeb and others of the people of El-Andalus, [and by post-classical writers of other countries,] as meaning <i>Easiness,</i> and <i>goodness of nature</i> or <i>disposition,</i> [or rather <i>simplicity,</i> or <i>plainness, of mind</i> or <i>manners,</i>] is from سَاذَجٌ, an arabicized word from [the Pers.] سَادَهْ, signifying, with them, “ free in intellect, ” and “ easy in nature or disposition: ” frequent usage occasioned the change of the ذ into د. (TA. [See De Sacy&#39;s Chrest. Ar., 2nd ed., ii. 292.])    </entryFree> <br>\
+<b>سَدَّاجٌ</b>               1     <br>\
+                     سَدَّاجٌ<br>\
+                     ذ<br>\
+                  <i>A great,</i> or <i>habitual, liar,</i> (S, O, L, K,) <i>who will not tell thee truly whence he comes, but will tell thee lyingly.</i> (L.) [See also سَرَّاجٌ.]    <br>\
+' } );

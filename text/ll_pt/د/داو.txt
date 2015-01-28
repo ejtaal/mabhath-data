@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>داو</em>            1                  داو<br>\
+<b>دَاَا</b>               1     <br>\
+                     دَاَا<br>\
+                     ذ<br>\
+                  , first pers. دَاَوْتُ, aor. يَدْاَى, inf. n. دَاْوٌ: see 1 in the next art.   </entryFree> <br>\
+' } );

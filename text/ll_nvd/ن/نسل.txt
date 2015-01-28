@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'نسل8<br>\
+اِنْتَسَلَ<br>\
+said of camels&#39; fur: see عَصِيمٌ.<br>\
+نَسْلًَا وَأَسْلًا<br>\
+is a form of imprecation against a<br>\
+man, like تَعْسًا وَنَكْسًا. (M, in art. اسل.)<br>\
+نَسْلٌ<br>\
+Progeny, whether of man or beast. (The<br>\
+Lexicons passim.)<br>\
+' } );

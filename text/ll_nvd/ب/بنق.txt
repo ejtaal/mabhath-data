@@ -1,0 +1,75 @@
+load_data( { book: 'll_nvd', text: 'بنق1<br>\
+بَنَقَ, (K,) aor.<br>\
+بَنُقَ, inf. n. بَنْقٌ, (TK,) He<br>\
+joined [a thing to another thing, like as the بَنِيقَة<br>\
+of a shirt is joined: see the pass. part. n., below];<br>\
+syn. وَصَلَ. (K.)<br>\
+2<br>\
+بنّق القَمِيصَ, inf. n. تَبْنِيقٌ, He put a بَنِيقَة<br>\
+to the shirt. (K.) ―<br>\
+-b2-  بنّق الجَعْبَةَ (tropical:)  He made the<br>\
+upper part of the quiver wide [by adding to it<br>\
+the like of a بَنِيقَة (see the pass. part. n., below,)],<br>\
+and the lower part narrow: (K, TA:) or he<br>\
+widened its upper part, the lower part being [or<br>\
+remaining] narrow. (JK.)<br>\
+بِنَقٌ: see what next follows.<br>\
+بِنَقَةٌ: see what next follows.<br>\
+بِنَيقٌ: see what next follows.<br>\
+بِنَيقَةٌ The لِبْنَة, (AZ, Abu-l-Hajjáj El-Aalam,<br>\
+JK, S, K,) or دِخْرِصَة, (Abu-l-&#39;Abbás El-Ahwal,<br>\
+TA,) [both of which signify the gore,] of a shirt,<br>\
+(AZ, S, K,) or of a garment; (JK;) or the<br>\
+دخرصة is longer than the لبنة: (Seer, TA:) and<br>\
+any piece that is added in a garment or a<br>\
+leathern bucket to widen it: (Abu-l-Hajjáj ElAalam, TA:) or, accord. to IDrd, the دخاريص<br>\
+of a shirt: (TA: [but this is app. a mistranscription for its sing. دِخْرِيص, q. v., a dial. var. of<br>\
+دِخْرِصَة:]) or the جُرُبَّان [or opening at the neck<br>\
+and bosom] of a shirt: (K:) جربّان is prefixed to<br>\
+البنيقة in a verse of Jereer, governing the latter<br>\
+in the gen. case, to show that both these words<br>\
+have the same meaning: (TA:) ↓ بِنَقَةٌ, also, signifies the same as بنيقة; (JK, K; [in the latter<br>\
+of which it is mentioned in such a manner<br>\
+as perhaps to denote that it has only the last<br>\
+of the significations above; but I think that<br>\
+this restriction is not meant;]) and its pl. [or<br>\
+rather the coll. gen. n.] is ↓ بِنَقٌ: (Ibn-&#39;Abbád,<br>\
+TA:) Th mentions بَنَائِقٌ and بِنَقٌ, and says that<br>\
+the latter is a pl. pl. ; [i. e., pl. of the former;]<br>\
+but this is unintelligible: (TA:) بَنَائِقٌ is pl. of<br>\
+بَنِيقَةٌ, (JK, S, &amp;c.,) and syn. with دَخَارِيصٌ. (JK.)<br>\
+AZ cites, from Mejnoon,<br>\
+كَمَا ضَمَّ أَزْرَارَ القَمِيصِ البَنَائِقٌ<br>\
+(S, IB,) which is an inverted phrase; the meaning being,<br>\
+كَمَا ضَمَّ أَزْرَارُ القَمِيصِ البَنَائِقَا<br>\
+[Like as the buttons of the shirt draw together<br>\
+the gores: if the last word mean the gores]: or,<br>\
+if the بنيقة of the shirt be really its جربّان, the<br>\
+meaning is intelligible [without inversion]; for<br>\
+its جربّان is the part around the neck, upon which<br>\
+are sewed the buttons; and when one desires to<br>\
+draw it together, he puts its buttons into the loops,<br>\
+and so draws together the bosom [of the shirt,<br>\
+with its buttons,] to the uppermost part of the<br>\
+chest. (IB, TA.) Aboo-&#39;Amr Esh-Sheybánee explains البنائق, here, as meaning the loops into<br>\
+which the buttons are inserted; and accord. to<br>\
+this explanation the meaning is plain, not requiring the supposition of inversion nor of deviation from the usual way: but the first explanation<br>\
+is that which is generally given. (TA.) In the<br>\
+saying,<br>\
+↓ قَدْ أَغْتَدِى وَ الدَّهْرُ ذُو بَنِيقِ<br>\
+[in the last word of which, ة is elided; lit., Sometimes I go forth early in the morning, when the<br>\
+time has a بَنِيقَة;] Lth says that the whiteness<br>\
+of the dawn is likened to the whiteness of the<br>\
+بنيقة; citing another verse, in which a shirt is<br>\
+described as having white بنائق. (TA.)<br>\
+جَعْبَةٌ مُبنَّقَةٌ (tropical:)  A quiver that is widened: (Ibn-<br>\
+&#39;Abbád, TA:) or in the upper part of which is<br>\
+added what resembles a بَنِيقَة, to enlarge it. (A,<br>\
+TA.) ―<br>\
+-b2-  طَرِيقٌ مُبَنَّقٌ (tropical:)  A wide road. (TA.)<br>\
+أَرْضٌ مَبْنُوقَةٌ (assumed tropical:)  Land joined (مَوْصُولَة) to other<br>\
+land, like as the بَنِيقَة of a shirt is joined. (ISd,<br>\
+TA.) And مَفَازَةٌ مَبْنُوقَةٌ, (JK,) or مَبْنُوقَةٌ بِأُخْرَى,<br>\
+(TA,) (tropical:)  [A desert, or a desert in which is no<br>\
+water, &amp;c.,] joined to another. (JK, TA.)<br>\
+' } );

@@ -1,0 +1,76 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انق<br>\
+&lt;entryFree id=&quot;n1385&quot; key=&quot;اَنِقَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَنِقَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنَقَ<br>\
+                  &lt;/form&gt;, inf. n. اَنَقٌ, &lt;i&gt;It excited admiration and approval by its beauty&lt;/i&gt; or &lt;i&gt;goodliness; it pleased,&lt;/i&gt; or &lt;i&gt;rejoiced.&lt;/i&gt; (Msb.) ―         -b2-  Also, aor. and inf. n. as above, &lt;i&gt;He rejoiced; was joyful, happy,&lt;/i&gt; or &lt;i&gt;pleased.&lt;/i&gt; (S, K.) You say, اَنِقْتُ بِهِ, (Lth, JK, Msb, K,) aor. and inf. n. as above, (Lth, JK,) &lt;i&gt;I was pleased with it,&lt;/i&gt; or &lt;i&gt;by it;&lt;/i&gt; or &lt;i&gt;was rejoiced by it.&lt;/i&gt; (Lth, JK, Msb, K. [In the CK اَعْجَبَ is erroneously put for اُعْجِبَ] It is said in a trad., مَا مِنْ عَاشِيَةٍ اَشَدُّ اَنَقًا وَلَا اَبْعَدُ شِبَعًا مِنْ <br>\
+                  طَالِبِ عِلْمٍ <br>\
+                  &lt;i&gt;There is not any eater by night&lt;/i&gt; [i. e. any man] &lt;i&gt;who hath more pleasure and approval and desire and love&lt;/i&gt; [in his pursuit, &lt;i&gt;nor any who is further from satiation&lt;/i&gt; therein, &lt;i&gt;than the student,&lt;/i&gt; or &lt;i&gt;pursuer, of science&lt;/i&gt;]; meaning that the man of learning is excessively greedy and insatiable, persevering in vehement desire. (L.) ―         -b3-  And اَنَقَ الشَّىْءَ, (AZ, K,) inf. n. as above, (AZ,) &lt;i&gt;He loved the thing.&lt;/i&gt; (AZ, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1386&quot; key=&quot;انّق&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     انّق<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْنِيقٌ, &lt;i&gt;He made,&lt;/i&gt; or &lt;i&gt;caused, to wonder.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1387&quot; key=&quot;ا=نَقَنِى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=نَقَنِى<br>\
+                     ا=نقنى<br>\
+                     ا=نقني<br>\
+                  &lt;/form&gt;, (S, Msb, K,) inf. n. اـِيْنَاقٌ and نِيقٌ, (K,) [but the latter is properly a quasi-inf. n.,] &lt;i&gt;It excited my admiration and approval; pleased me;&lt;/i&gt; or &lt;i&gt;rejoiced me.&lt;/i&gt; (S, Msb, K.) ―         -b2-  مَا ا=نَقَهُ فِى <br>\
+                  كَذَا <br>\
+                  &lt;i&gt;How vehemently does he seek,&lt;/i&gt; or &lt;i&gt;pursue,&lt;/i&gt; or &lt;i&gt;desire, such a thing!&lt;/i&gt; or &lt;i&gt;how vehement is he in seeking, pursuit,&lt;/i&gt; or &lt;i&gt;desire, with respect to such a thing!&lt;/i&gt; (JK, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1388&quot; key=&quot;تانّق&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تانّق<br>\
+                     ذ<br>\
+                  &lt;i&gt;He sought, pursued,&lt;/i&gt; or &lt;i&gt;desired, the most pleasing of things;&lt;/i&gt; (TA;) [&lt;i&gt;he affected nicety,&lt;/i&gt; or &lt;i&gt;refinement; he was dainty, nice, exquisite, refined,&lt;/i&gt; or &lt;i&gt;scrupulously nice and exact;&lt;/i&gt; or &lt;i&gt;chose what was excellent,&lt;/i&gt; or &lt;i&gt;best;&lt;/i&gt; and &lt;i&gt;he exceeded the usual bounds;&lt;/i&gt; as also تَنَوَّقَ and تَنَيَّقَ, in all these senses;] فِى المَطْعَمِ, &lt;i&gt;in respect of food, never eating anything but what was clean&lt;/i&gt; [&lt;i&gt;and choice&lt;/i&gt;]; and فِى المَلْبَسِ, &lt;i&gt;in respect of apparel, never dressing otherwise than well;&lt;/i&gt; and فِى الكَلَامِ, &lt;i&gt;in respect of speech, never speaking otherwise than chastely;&lt;/i&gt; and فِى جَمِيعِ الاُمُورِ, &lt;i&gt;in respect of all affairs.&lt;/i&gt; (TA in art. نطس.) تانّق فِيهِ is like تَنَوَّقَ; (JK, S, K;) i. e. &lt;i&gt;He did it,&lt;/i&gt; or &lt;i&gt;performed it&lt;/i&gt; (namely, a thing, or an affair,) &lt;i&gt;with&lt;/i&gt; <br>\
+                  نِيقَة [i. e. &lt;i&gt;daintiness, nicety, exquisiteness, refinement, neatness,&lt;/i&gt; or &lt;i&gt;scrupulous nicety and exactness;&lt;/i&gt; or &lt;i&gt;in a manner exceeding what is usual&lt;/i&gt;]: (S:) or &lt;i&gt;he chose what was excellent,&lt;/i&gt; or &lt;i&gt;best, to be done in it, and did it admirably:&lt;/i&gt; (TA:) or &lt;i&gt;he did it&lt;/i&gt; (namely, his work, Msb) &lt;i&gt;firmly, solidly, soundly,&lt;/i&gt; or &lt;i&gt;thoroughly,&lt;/i&gt; (Msb, K,) &lt;i&gt;and skilfully.&lt;/i&gt; (K: [but in this last sense, &#39;Alee Ibn-Hamzeh allows only the latter of these two verbs. TA in art. نوق.]) You say also, تانّق فُلَانٌ فِى الَّرَّوْضَةِ <br>\
+                  &lt;i&gt;Such a one found himself in the meadow,&lt;/i&gt; or &lt;i&gt;garden,&lt;/i&gt; (وَقَعَ فِيهَا,) &lt;i&gt;pleased,&lt;/i&gt; or &lt;i&gt;rejoiced, therewith:&lt;/i&gt; (S:) or &lt;i&gt;he found it pleasant&lt;/i&gt; or &lt;i&gt;delightful, delighted in it,&lt;/i&gt; or &lt;i&gt;took pleasure or delight in it, and enjoyed its beauties:&lt;/i&gt; and &lt;i&gt;he sought after its beauties, step by step, and was pleased,&lt;/i&gt; or &lt;i&gt;rejoiced, therewith, and enjoyed it.&lt;/i&gt; (TA.) And تانّق المَكَانَ <br>\
+                  &lt;i&gt;He was pleased,&lt;/i&gt; or &lt;i&gt;rejoiced, with the place, and attached to it, not quitting it:&lt;/i&gt; (L:) &lt;i&gt;he loved the place.&lt;/i&gt; (Fr, K.) It is said in a trad. of Ibn-Mes&#39;ood, اـِذَا وَقَعْتُ فِى <br>\
+                  ا=لِ ح=م= وَقَعْتُ فِي رَوْضَاتٍ اَتَاَنَّقُهُنَّ, or, as in the T, اَتَاَنَّقُ فِيهِنَّ, meaning [&lt;i&gt;When I find myself in the chapters of the Kur-án commencing with Há Meem,&lt;/i&gt;] &lt;i&gt;I find myself in meadows,&lt;/i&gt; or &lt;i&gt;gardens, the beauties of which I seek after step by step, and with which I am pleased,&lt;/i&gt; or &lt;i&gt;rejoiced, and which I enjoy:&lt;/i&gt; i. e., I find pleasure, or delight, in reading them, or reciting them, and enjoy their beauties. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1389&quot; key=&quot;اَنَقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of 1 [q. v.] (Lth, JK, &amp;amp;c.) ―         -b2-  [Hence, &lt;i&gt;A pleasing,&lt;/i&gt; or &lt;i&gt;rejoicing, state,&lt;/i&gt; or &lt;i&gt;condition.&lt;/i&gt;] You say, هُوَ فِى اَنَقٍ مِنْ عَيْشِهِ وَخِصْبٍ [&lt;i&gt;He is in a pleasing,&lt;/i&gt; or &lt;i&gt;rejoicing, state,&lt;/i&gt; or &lt;i&gt;condition, in respect of his life, and in a state of plenty&lt;/i&gt;]. (JK.) ―         -b3-  &lt;i&gt;Goodliness, or beauty, and&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;118&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;pleasingness, of aspect,&lt;/i&gt; or &lt;i&gt;outward appearance:&lt;/i&gt; or, as some say, &lt;i&gt;a uniform and uninterrupted state of verdure before the eye;&lt;/i&gt; because it pleases, or rejoices, its beholder. (TA.) ―         -b4-  &lt;i&gt;Herbage,&lt;/i&gt; or &lt;i&gt;pasturage,&lt;/i&gt; (K, TA,) &lt;i&gt;that is goodly, or beautiful, and pleasing,&lt;/i&gt; or &lt;i&gt;rejoicing:&lt;/i&gt; an inf. n. used as a subst. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1390&quot; key=&quot;اَنِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنِقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَنِيقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1391&quot; key=&quot;مَا لَهُ فِى الشَّىْءِ اَنِقَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَا لَهُ فِى الشَّىْءِ اَنِقَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He has no pleasure,&lt;/i&gt; or &lt;i&gt;pride, in the thing.&lt;/i&gt; (JK.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1392&quot; key=&quot;اَنُوقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنُوقٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain bird;&lt;/i&gt; (S;) i. e. the رَخَمَة [or &lt;i&gt;female of the vultur percnopterus&lt;/i&gt;]; (IAar, S;) called by Kumeyt ذَاتُ اْسْمَيْنِ [&lt;i&gt;possessor of two names&lt;/i&gt;] because having these two appellations: (S:) or the &lt;i&gt;eagle:&lt;/i&gt; and also the &lt;i&gt;former bird:&lt;/i&gt; (K:) ISk cites &#39;Omárah as saying that it is in his opinion the eagle; but that people say it is the رخمة; and he adds, [alluding to a prov., which see below,] that the eggs of the رخمة are found in ruins, and in plain country: (TA:) or the &lt;i&gt;male of the&lt;/i&gt; <br>\
+                  رَخَم: (JK, TA:) or &lt;i&gt;a certain black bird, having what resembles the&lt;/i&gt; <br>\
+                  عُرْف [or &lt;i&gt;comb of the cock&lt;/i&gt;], (AA, K,) &lt;i&gt;that deposits its eggs in remote places:&lt;/i&gt; (AA:) or &lt;i&gt;a certain black bird,&lt;/i&gt; (AA, K,) &lt;i&gt;like a great hen,&lt;/i&gt; (AA,) &lt;i&gt;bald in the fore part of the head,&lt;/i&gt; (AA, K,) &lt;i&gt;having a yellow bill,&lt;/i&gt; (K,) or &lt;i&gt;having a long bill:&lt;/i&gt; (AA:) she guards her eggs, and defends her young one, and keeps with her offspring, and submits not herself to any but her mate, and migrates among the first of the migrating birds, and returns among the first of the returning birds, and will not fly while moulting, and will not be deceived by her small feathers but waits until they become quills and then flies, and will not remain constantly in the nests, and will not alight upon the quiver (K) knowing it to contain arrows: (TA:) the word is sing. and pl.: (TA:) or its pl. is اُنُقٌ. (JK.) Hence the prov., (JK, S,) اَعَزُّ مِنْ بَيْضِ الاَنُوقِ [&lt;i&gt;More rare than the eggs of the anook&lt;/i&gt;]: (JK, S, K:) because this bird guards its eggs, so that they are hardly ever, or never, found; for its nests are on the tops of mountains, and in difficult and distant places; (S, K;) notwithstanding which, it is said to be stupid: (S:) ISd says that the female bird called رخمة may be meant thereby; or the male, because the eggs of the male exist not; or the eggs of the latter may be meant because he often guards them, like as does the male ostrich. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1393&quot; key=&quot;اَنِيقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنِيقٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Goodly,&lt;/i&gt; or &lt;i&gt;beautiful;&lt;/i&gt; (S, K;) &lt;i&gt;pleasing,&lt;/i&gt; or &lt;i&gt;rejoicing;&lt;/i&gt; (JK, S, Msb, K;) as also ↓ <br>\
+      اَنَقٌ: (JK, TA:) and &lt;i&gt;loved.&lt;/i&gt; (TA.) You say, رَوْضَةٌ اَنِيقٌ <br>\
+                  &lt;i&gt;A meadow,&lt;/i&gt; or &lt;i&gt;garden, that is loved:&lt;/i&gt; and رَوْضَةٌ <br>\
+                  اَنِيقَةٌ <br>\
+                  &lt;i&gt;a meadow,&lt;/i&gt; or &lt;i&gt;garden, that is pleasing,&lt;/i&gt; or &lt;i&gt;rejoicing.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1394&quot; key=&quot;لَهُ اـِنَاقَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَهُ اـِنَاقَةٌ<br>\
+                     له اناقه<br>\
+                     له اناقة<br>\
+                  &lt;/form&gt; and اَنَاقَةٌ (K, and so in some copies of the S,) &lt;i&gt;He has goodliness,&lt;/i&gt; or &lt;i&gt;beauty,&lt;/i&gt; and &lt;i&gt;pleasingness:&lt;/i&gt; but in the L, [and in some copies of the S,] لَهُ اـِنَاقَةٌ وَلَبَاقةٌ; and what precedes it indicates that the meaning is &lt;i&gt;he has a faculty of doing well&lt;/i&gt; or &lt;i&gt;excellently&lt;/i&gt; [&lt;i&gt;and of nice&lt;/i&gt; or &lt;i&gt;refined skilfulness&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1395&quot; key=&quot;ا=نَقُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=نَقُ<br>\
+                     ا=نق<br>\
+                  &lt;/form&gt; [originally ااْنَقُ] &lt;i&gt;More,&lt;/i&gt; or &lt;i&gt;most, pleasing&lt;/i&gt; or &lt;i&gt;rejoicing.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1396&quot; key=&quot;مُتَاَنِّقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَنِّقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [part. n. of 5; &lt;i&gt;Seeking, pursuing,&lt;/i&gt; or &lt;i&gt;desiring, the most pleasing of things; affecting nicety,&lt;/i&gt; or &lt;i&gt;refinement; dainty, nice, exquisite, refined,&lt;/i&gt; &amp;amp;c.; in respect of food, apparel, speech, &amp;amp;c.:] one &lt;i&gt;who is in a pleasing condition&lt;/i&gt; (فِى اَنَقٍ) &lt;i&gt;in respect of his life, and in a state of plenty.&lt;/i&gt; (JK.) It is said in a prov., لَيْسَ المُتَعَلِّقُ كَالمُتَاَنِّقِ, (JK, TA,) i. e. &lt;i&gt;He who is content with what is little,&lt;/i&gt; (S, K, in art. علق,) or &lt;i&gt;what is barely sufficient, of sustenance,&lt;/i&gt; (TA in the present art.,) &lt;i&gt;is not like him who seeks, pursues,&lt;/i&gt; or &lt;i&gt;desires, the most pleasing of things,&lt;/i&gt; or &lt;i&gt;who is dainty,&lt;/i&gt; &amp;amp;c., (مَنْ يَتَاَنَّقُ,) &lt;i&gt;and eats what he pleases,&lt;/i&gt; (S, K, in art. علق,) or &lt;i&gt;him who is not content save with the most pleasing of things.&lt;/i&gt; (TA in the present art.)   &lt;/entryFree&gt; <br>\
+' } );

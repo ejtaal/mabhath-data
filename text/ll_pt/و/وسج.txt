@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>وسج</em>            1                  وسج<br>\
+<b>وَسَجَ</b>               1     <br>\
+                     وَسَجَ<br>\
+                     ذ<br>\
+                  , (aor. يَسِجُ, K,) inf. n. وَسِيجٌ (S, K) and وَسْجٌ and وَسَجَانٌ; (L;) <i>He</i> (a camel) <i>went a certain pace;</i> (S, L, K;) [<i>more quick than that called</i> <br>\
+                  عَسْجٌ: the contr. is said in the TA, app. by a mistranscription: but see نَصَبَ, and ذَمَلَ:] the first pace, accord. to En-Nadr and As, is called الدَّبِيبُ; the next, العَنَقُ; the next, التَّزَيُّدُ; the next, الذَّمِيلُ; the next, العَسْجُ; and the next, الوَسْجُ: or <i>he went quickly,</i> or <i>swiftly.</i> (TA, L.)    </entryFree> <br>\
+<b>اوسج</b>               1     <br>\
+                     اوسج<br>\
+                     ذ<br>\
+                  <i>He incited, urged,</i> or <i>made,</i> a camel, <i>to go at the pace called</i> <br>\
+                  الوَسِيج. (S, K.)    </entryFree> <br>\
+<b>جَمَلٌ وَسَّاجٌ عَسَّاجٌ</b>               1     <br>\
+                     جَمَلٌ وَسَّاجٌ عَسَّاجٌ<br>\
+                     ذ<br>\
+                  <i>A quick,</i> or <i>swift, camels.</i> (K.) اـِبلٌ وَسُوجٌ عَسُوجٌ <br>\
+                  <i>Quick,</i> or <i>swift, camels.</i> (K.)   </entryFree> <br>\
+' } );

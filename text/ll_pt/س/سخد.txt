@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>سخد</em>            1                  سخد<br>\
+<b>سُخْدٌ</b>               1     <br>\
+                     سُخْدٌ<br>\
+                     ذ<br>\
+                   [The <i>matter contained in the secundines;</i>] <i>a yellow, thick water</i> [or <i>fluid</i>], <i>that comes forth with the fœtus;</i> (S, M, K;) as also سُخْتٌ: (M, TA:) hence, in a trad., the appearance upon the face produced by excitement from remaining awake during the night is termed, by way of comparison, سُخْد upon the face: (S, * L:) or <i>blood and water in the membrane that envelops the fœtus of a beast:</i> or <i>what comes forth with the membrane that envelops the fœtus:</i> said to be  peculiar to the human species: or common to the human species and beasts: (L:) or the <i>water</i> [or <i>fluid</i>] <i>in that membrane;</i> as also سُخْتٌ and نُخْطٌ and فَقْءٌ: (IAar, TA in art. فقا:) or [the <i>placenta;</i> i. e.] <i>a thing like the liver,</i> or <i>like the spleen, compact, which is in the membrane that envelops the fœtus of a beast:</i> sometimes children play with it: or <i>that membrane itself:</i> and <i>i. q.</i> <br>\
+                  رَهَلٌ [which is expl. as meaning <i>yellow water in the</i> <br>\
+                  سُخْدٍ, and it is also the inf. n. of رَهِلَ, q. v.]: and صُخْدٌ is a dial. var. thereof in all its senses, those above mentioned and those following. (L.) ―         -b2-  Also The <i>urine of a camel&#39;s fœtus</i> (فَصِيل) <i>in its mother&#39;s belly.</i> (L.) ―         -b3-  And (assumed tropical:)  <i>Yellowness in the face</i> [as in the trad. above mentioned]. (L.)    </entryFree> <br>\
+<b>مُسَخَّدٌ</b>               1     <br>\
+                     مُسَخَّدٌ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>Having the stomach in a heaving state, agitated by a tendency to vomit,</i> or <i>disordered;</i> (K;) <i>yellow,</i> (S, K,) <i>heavy,</i> (S,) <i>and swollen,</i> (S, K,) <i>by disease</i> or <i>by some other cause.</i> (TA.)   </entryFree> <br>\
+' } );

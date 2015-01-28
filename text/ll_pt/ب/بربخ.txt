@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>بربخ</em>            1                  بربخ<br>\
+<b>بَرْبَخٌ</b>               1     <br>\
+                     بَرْبَخٌ<br>\
+                     بربخ<br>\
+                   The <i>passage,</i> or <i>conduit, of water, called</i> <br>\
+                  اـِرْدَبَّة <br>\
+                  <i>and</i> <br>\
+                  بَالُوعَة [q. v.], <i>made of baked clay:</i> (K:) or بَرَابِخُ [the pl.] signifies the <i>baked-clay conduits of privies, which convey</i> [<i>the water</i> &amp;amp;c.] <i>from the house-top to the ground.</i> (S, but omitted in some copies.) ―         -b2-  برْبَخُ البَوْلِ <br>\
+                  <i>The canal of the urine</i> [<i>from the kidney to the bladder;</i> i. e. <i>the ureter</i>]: (L, KL, TA:) of the dial. of Egypt. (TA.)   </entryFree> <br>\
+' } );

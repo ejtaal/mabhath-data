@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هوثتَرَكَهُمْ هَوْثًا بَوْثًا He made a great slaughter<br>\
+among them. (TA.) [See art. بوث.]<br>\
+هَوْثَةٌ A thirst. (K.)<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لمق</em>            1                  لمق<br>\
+<b>لَمَاقٌ</b>               1     <br>\
+                     لَمَاقٌ<br>\
+                     ذ<br>\
+                  : see عَلَاقٌ, voce عُلْقَةٌ.   </entryFree> <br>\
+' } );

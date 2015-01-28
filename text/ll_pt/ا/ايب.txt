@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>ايب</em>            1                  ايب<br>\
+               </head> For words which might be supposed to be properly mentioned under this head, see art. اوّب.   </div2> <br>\
+' } );

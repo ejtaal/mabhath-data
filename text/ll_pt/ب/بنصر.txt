@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>بنصر</em>            1                  بنصر<br>\
+<b>بِنْصِرٌ</b>               1     <br>\
+                     بِنْصِرٌ<br>\
+                     بنصر<br>\
+                     نصر<br>\
+                   The <i>finger that is next to the little finger;</i> (S in art. بصر;) [<i>the third finger;</i>] <i>that which is between the little and middle fingers:</i> (Msb in art. بصر, and K:) of the fem. gender: (K:) pl. بَنَاصِرُ, (S,) or بَنَاصِرَةٌ. (Msb.) Accord. to the author of the K, the ن is a radical letter, and therefore the mention of this word in art. بصر is wrong. (TA.)   </entryFree> <br>\
+' } );

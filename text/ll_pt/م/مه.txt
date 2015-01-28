@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مه</em>            1                  مه<br>\
+<b>لَيْسَ بِهِ مَهَاهٌ</b>               1     <br>\
+                     لَيْسَ بِهِ مَهَاهٌ<br>\
+                     ذ<br>\
+                  , (T in art. رمد,) or فِيهِ, (L in that art.,) <i>It has no goodness and lastingness.</i> (T and L in that art.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'صفردصِفْرِدٌ A certain bird, (S, M, K,) of a cowardly<br>\
+nature, (K,) larger than the sparrow, (M,) that<br>\
+frequents houses, and is the most cowardly of<br>\
+birds; (Lth;) it is afraid of the [little bird called]<br>\
+صَعْوَة; (IAar;) and is by the vulgar (S) called<br>\
+أَبُو المَلِيحِ. (S, K. [Accord. to Golius, the<br>\
+nightingale: but this I think a mistake.]) أَجْبَنُ<br>\
+مِنْ صِفْرِدٍ [More cowardly than a sifrid] is a<br>\
+prov., (S, Meyd,) asserted by AO to be postclassical. (Meyd. [See Freytag&#39;s Arab. Prov. i.<br>\
+372.])<br>\
+' } );

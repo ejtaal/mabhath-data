@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'صيل1<br>\
+صَالَ, aor. يَصِيلُ, i. q. صال having for its aor.<br>\
+يَصُولُ, (Ibn-&#39;Abbád, O, K,) i. e. He (a man)<br>\
+leaped or sprang [&amp;c.]. (Ibn-&#39;Abbád, O.)<br>\
+-A2-<br>\
+صِيلَ لَهُمْ كَذَا, (S and K in art. صول,) or لَهُ, (Ibn-<br>\
+&#39;Abbád and O and K in the present art.,) Such a<br>\
+thing was appointed, or ordained, or prepared,<br>\
+for them, or for him. (Ibn-&#39;Abbád, S, O, K.)<br>\
+This is its proper place. (TA.)<br>\
+صِيلَةٌ The knot of the عَذَبَة [i. e. of the end,<br>\
+or of the suspensory thong, of a whip]. (S and<br>\
+K in art. صول, and O in the present art.)<br>\
+صِيَالٌ and صِيَالَةٌ: see art. صول.<br>\
+Quasi صيم<br>\
+صُيَّمٌ and صِيَّمٌ and صُيَّامٌ and صَيَامَى pls. of صَائِمٌ,<br>\
+expl. in art. صوم.<br>\
+' } );

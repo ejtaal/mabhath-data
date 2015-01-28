@@ -1,0 +1,68 @@
+load_data( { book: 'll_nvd', text: 'جحش1<br>\
+جَحَشَهُ, (Ks, S, Mgh, K, *) aor.<br>\
+جَحَشَ, (Mgh,<br>\
+K,) inf. n. جَحْشٌ, (S, K,) It scratched it, or the<br>\
+like, (namely the skin, S, Mgh, K, or a man&#39;s<br>\
+side, Ks,) so as to abrade the surface, (Mgh, K,)<br>\
+or so as to abrade the skin; (Ks;) syn. سَحَجَهُ,<br>\
+(Ks, K,) and قَشَرَهُ: (Mgh, K:) or i. q. خَدَشَهُ:<br>\
+or it signifies more than this last: (Ks, K:) or<br>\
+less than this last: (Lth, K:) and it (an arrow)<br>\
+made a mark upon it; [or grazed it;] namely, a<br>\
+wall. (Mgh.) You say, أَصَابَهُ شَىْءٌ فَجَحَشَ وَجْهَهُ<br>\
+[A thing struck him, and abraded the surface of<br>\
+the skin of his face]: and بِهِ جَحْشٌ [in him, or it, is<br>\
+an abrasion of the skin]: (S, TA:) or جَحْشٌ is<br>\
+not in the face, nor [anywhere] in the body<br>\
+[except in the side]. (L, TA.) It is said in a<br>\
+trad., respecting Mohammad, سَقَطَ مِنْ فَرَسٍ فَجُحِشَ<br>\
+شِقَّهُ He fell from a horse, and the skin of his side<br>\
+was scratched, or lacerated, or abraded. (Mgh, *<br>\
+TA.) [See also مَجْحُوشٌ.]<br>\
+جَحْشٌ A young ass; (S, Msb, K;) domestic<br>\
+and wild: or before it becomes big: (TA:) or<br>\
+from the time when it is brought forth until it<br>\
+becomes big from sucking: when it has completed<br>\
+the year, it is called تَوْلَبٌ: (As:) [or the latter<br>\
+is applied to a wild ass of that age:] pl. [of<br>\
+pauc.] أَجْحَاشٌ (so in a copy of the S) and [of<br>\
+mult.] جِحَاشٌ and جِحْشَانٌ (S, Msb, K) and<br>\
+جُحُوشٌ (Msb) and جِحَشَةٌ: (As, TA:) [dim.<br>\
+جُحَيْشٌ:] and fem. جَحْشَةٌ. (S, K.) It is said<br>\
+in a prov., الجَحْشَ لَمَّا بَذَّكَ الأَعْيَارُ, (A, TA,) i. e.,<br>\
+Seek thou, or pursue thou, the young ass when<br>\
+the full-grown asses outstrip thee: applied to<br>\
+him who seeks much, and it escapes him; so<br>\
+one says to him, Seek thou less than that. (TA.)<br>\
+[Meyd gives فَاتَكَ in the place of بَذَّكَ.] ―<br>\
+-b2-  Also<br>\
+(tropical:)  A mare&#39;s colt; (A, K;) as being likened to a<br>\
+young ass. (TA.) ―<br>\
+-b3-  And (tropical:)  A gazelle; (Ibn-<br>\
+&#39;Abbád, K;) in the dial. of Hudheyl: (TA:)<br>\
+or a young gazelle; (A, TA;) in that dial.; occurring in a poem of Aboo-Dhu-eyb; but accord.<br>\
+to one relation, the word there is خشْف. (TA.)<br>\
+جَحِيشٌ The side, (K, TA,) of a man: (TA:)<br>\
+and a lateral, or an adjacent, part, or place, or<br>\
+tract. (Sh, K.) You say, أُصِيبَ جَحِيشُهُ His<br>\
+side was hit, or hurt. (TA.) And نَزَلَ فُلَانٌ<br>\
+الجَحِيشَ Such a one alighted in the adjacent<br>\
+part or tract. (TA.)<br>\
+-A2-  A man who retires to<br>\
+a distance, apart from others: (S:) who alights<br>\
+apart from others, and does not mix with them:<br>\
+(IDrd, K:) who lives alone, with none to incommode him in his house. (AHn.) You say,<br>\
+نَزَلَ فُلَانٌ جَحِيشًا Such a one alighted alone;<br>\
+apart from others. (TA.)<br>\
+جُحَيْشٌ [dim. of جَحْشٌ]. You say, هُوَ جُحَيْشُ<br>\
+وَحْدِهِ (tropical:)  He is one who follows his own opinion<br>\
+only, (S, A, K,) who has his gain to himself exclusively, (TA,) and does not consult others, nor<br>\
+mix with them; (K, TA;) as also عُيَيْرُ وَحْدِهِ;<br>\
+[q. v.;] meaning dispraise; (S, A, TA;) the man<br>\
+being thereby likened to a [little] young ass.<br>\
+(TA.)<br>\
+بَيْتٌ جَاحِشٌ [A tent] apart from the tribe.<br>\
+(TA.)<br>\
+مَجْحُوشٌ One whose side (جَحِيشُهُ, TA) is hit,<br>\
+or hurt. (K, TA.)<br>\
+' } );

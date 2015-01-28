@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>سنط</em>            1                  سنط<br>\
+<b>سَنُطَ</b>               1     <br>\
+                     سَنُطَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     سَنُطَ<br>\
+                  ; (M, K;) or سَنِطَ, aor.      <br>\
+                     سَنَطَ<br>\
+                  , inf. n. سَنَطٌ; (Msb;) or both; (TA;) <i>He was,</i> or <i>became, such as is termed</i> <br>\
+                  سِنَاطٌ [q. v.]. (M, Msb, K.)    </entryFree> <br>\
+<b>سَنْطٌ</b>               1     <br>\
+                     سَنْطٌ<br>\
+                     ذ<br>\
+                   [The <i>mimosa Nilotica;</i> also called <i>acacia Nilotica;</i>] <i>a</i> <br>\
+                  قَرَظ, [or this is properly the name of its fruit,] (M, K,) <i>which grows in the</i> <br>\
+                  صَعِيد [or <i>Upper Egypt</i>], (M,) or [rather] <i>in Egypt;</i> [for it grows in Lower, as well as Upper, Egypt;] (K;) <i>it is the best kind of firewood of the people of that country, who assert that it has most of fire, and least of ashes;</i> so says AHn, on the authority of a person well informed; and he adds that <i>they tan with it</i> [or rather <i>with its pods</i>]: the word is foreign: (M:) and is also written صَنْطٌ: Sgh says that is an arabicized word, from the Indian حبذ. [So in the TA, doubtless a mistranscription. In the CK, السّنَطُ is erroneously put for السَّنْطُ.]    </entryFree> <br>\
+<b>سِنَاطٌ</b>               1     <br>\
+                     سِنَاطٌ<br>\
+                     ذ<br>\
+                   (S, M, Mgh, Msb, K) and سُنَاطٌ (M, O, L, CK) and ↓ <br>\
+      سَنُوطٌ (S, M, K) and ↓ <br>\
+      سَنُوطِىٌّ (S, K) A man (Msb) <i>having no beard:</i> (M, Mgh, Msb:) or <i>having no hair at all upon his face:</i> (M:) or <i>having no hair upon the sides of his face</i> [so I render كَوْسَج], <i>and no beard at all:</i> (S, K:) or <i>having little hair upon the sides of the face,</i> (Mgh, Msb,) or <i>upon the side of the face, but not reaching to the state of the</i> <br>\
+                  كَوْسَج: (IAar, K:) or <i>i. q.</i> <br>\
+                  كَوْسَجٌ: (Mgh:) or <i>whose beard is on his chin</i> [<i>only</i>], <i>having nothing on the sides of the face:</i> (As, K:) or this last signification, accord. to As, applies to سَنُوطٌ: (TA:) the pl. (of سَنُوطٌ accord. to some copies of the K and the TA) is سُنُطٌ (IAar, K) and اَسْنَاطٌ [which is a pl. of pauc.]: (K:) سناط is used as a sing. and pl. epithet: it is used as a pl. by Dhu-r-Rummeh. (IB, TA.)    </entryFree> <br>\
+<b>سَنُوطٌ</b>               1     <br>\
+                     سَنُوطٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.       -A2-  Also <i>A well-known medicine.</i> (K.)    </entryFree> <br>\
+<b>سَنُوطِىٌّ</b>               1     <br>\
+                     سَنُوطِىٌّ<br>\
+                     ذ<br>\
+                  : see سِنَاطٌ.   </entryFree> <br>\
+' } );

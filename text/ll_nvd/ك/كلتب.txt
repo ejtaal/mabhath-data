@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'كلتبQ. 1<br>\
+كَلْتَبَ, inf. n. كَلْتَبَةٌ, He acted as a<br>\
+pimp. (IAar.) See كَلْتَبَانٌ. ―<br>\
+-b2-  [Freytag<br>\
+assigns to this verb the signification Dissimulations, astutia, usus est in rebus; as from the K,<br>\
+with the same inf. n.: but I do not find it in any<br>\
+copy of that work. See, however, the next para.]<br>\
+كَلْتَبٌ and كُلْتُبٌ Dissimulation, or craftiness,<br>\
+or deceit, in affairs: (K:) [or i. q. كَلْثَبٌ, q. v.]<br>\
+كَلْتَبَانٌ A pimp: (K:) from الكَلَبُ: [see<br>\
+كَلِبَ]. (TA.)<br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>حكا</em>            1                  حكا<br>\
+<b>حَكَاَ</b>               1     <br>\
+                     حَكَاَ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>احكا</b>               1     <br>\
+                     احكا<br>\
+                     ذ<br>\
+                  , (Sh, S, K,) inf. n. اِحْكَا=ءٌ; (TA;) and ↓ <br>\
+      حَكَاَ, aor.      <br>\
+                     حَكَاَ<br>\
+                  , (K,) inf. n. حَكْءٌ; (TA;) and ↓ <br>\
+      احتكا; (K;) <i>He tightened</i> a knot; (S, K;) <i>made</i> it <i>firm:</i> (Sh, TA:) as also احكى (S) and حَكَى. (S and K in art. حكى.) [See a verse of &#39;Adee Ibn-Zeyd cited voce صُلْبٌ.]       -A2-  See also 8.    </entryFree> <br>\
+<b>احتكات العُقْدَةُ</b>               1     <br>\
+                     احتكات العُقْدَةُ<br>\
+                     ذ<br>\
+                  <i>The knot became tight,</i> or <i>firm.</i> (Sh, TA.) And احتكا العِقْدُ فِى عُنُقِهِ <br>\
+                  <i>The necklace became fast upon his neck.</i> (Sh, TA.) ―         -b2-  [Hence,] احتكا الشَّىْءُ فِى صَدْرِى (assumed tropical:)  <i>The thing became established in my mind, so that I did not doubt respecting it:</i> and احتكا الاَمْرُ فِى نَفْسِى (assumed tropical:)  <i>The matter became established in my mind.</i> (TA.) [See also اِحْتَكَى; and see اِحْتَكَّ in the first paragraph of art. حك.] You say also, سَمِعْتُ <br>\
+                  اَحَادِيثَ وَمَا احتكا فِى صَدْرِى مِنْهَا شَىْءٌ (in the CK ↓ <br>\
+      ما احكا) (assumed tropical:)  <i>I heard stories, and nothing of them was unsettled in my mind.</i> (K, * TA.) And لَوِ احتكا لِى اَمْرِى لَفَعَلْتُ كَذَا (assumed tropical:)  <i>Had my case been manifest to me at the first, I had done thus.</i> (L, TA.)       -A2-  See also 4.   </entryFree> <br>\
+' } );

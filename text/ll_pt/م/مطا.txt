@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>مطا</em>            1                  مطا<br>\
+<b>مَطَاَ</b>               1     <br>\
+                     مَطَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَطَاَ<br>\
+                  , <i>Inivit</i> feminam. (Ibn-ElFaraj, K.)   </entryFree> <br>\
+' } );

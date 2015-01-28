@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'بنو1<br>\
+بَنَا, aor.<br>\
+بَنُوَ: see art. بنى.<br>\
+اِبْنٌ, held by some to be originally بَنَوٌ: see art.<br>\
+بنى.<br>\
+بُنُوَّةٌ: see art. بنى.<br>\
+بَنَوِيٌّ: see art. بنى.<br>\
+' } );

@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>قمه</em>            1                  قمه<br>\
+<b>قَمَهَ</b>               1     <br>\
+                     قَمَهَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَمَهَ<br>\
+                  , inf. n. قُمُوهٌ, <i>i. q.</i> <br>\
+                  قَمَحَ, q. v.   </entryFree> <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>وال</em>            1                  وال<br>\
+<b>وَاَلَ</b>               1     <br>\
+                     وَاَلَ<br>\
+                     ذ<br>\
+                  : see ا=لَ, in art. اول, in two places.    </entryFree> <br>\
+<b>اَوَّلُ</b>               1     <br>\
+                     اَوَّلُ<br>\
+                     ذ<br>\
+                  <i>First,</i> and <i>former; preceding all others, and preceding another.</i> See art. اول ―         -b2-  اَوَايِلُ السُّوَرِ The <i>first parts,</i> or <i>beginnings, of the chapters of the Kur-án.</i> ―         -b3-  جَا=ءَ فِى اَوَايِلِ القَوْمِ <br>\
+                  <i>He came among the first comers of the people.</i> (Msb.) ―         -b4-  And الاَوَايِلُ <br>\
+                  <i>The people of former ages;</i> as also الاَوَّلُونَ. ―         -b5-  لَقِيتُهُ عَامًا اَوَّلَ means <i>I met him</i> [<i>in a former year.</i>] <i>before this year, though by several years.</i> (Alee El-Kári, in his Expos. of the K, from Seer; cited in the margin of a copy of the K; art. اول.) See عَامٌ.   </entryFree> <br>\
+' } );

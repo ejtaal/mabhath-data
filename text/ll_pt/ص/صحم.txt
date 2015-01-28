@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>صحم</em>            1                  صحم<br>\
+<b>اصطحم</b>               1     <br>\
+                     اصطحم<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اصطخم, q. v.    </entryFree> <br>\
+<b>اصْحَامَّ</b>               1     <br>\
+                     اصْحَامَّ<br>\
+                     ذ<br>\
+                  , (K,) inf. n. اِصْحِيمَامٌ, (TA,) said of a plant, or herbage, <i>It became intensely green:</i> and <i>it became yellow,</i> (K, TA,) <i>and altered in colour;</i> or, as J says, [in the S,] اصحامّت البَقْلَةُ <br>\
+                  <i>the herb,</i> or <i>leguminous plant, became yellow:</i> (TA:) thus it has two contr. meanings: or it (i. e. a plant, or herbage,) <i>became intermixed with yellowness in its dark greenness.</i> (AHn, K.) And اصحامّت الاَرْضُ <br>\
+                  <i>The land became altered</i> [<i>for the worse</i>] <i>in its herbage, and its rain departed:</i> (K:) or, as some say, <i>the land became altered in the colour of its seed-produce, for the reaping:</i> and in like manner, اصحامّ الحَبٌّ <br>\
+                  <i>the grain became thus altered.</i> (TA.) And اصحامّ <br>\
+                  الزَّرْعُ <br>\
+                  <i>The seed-produce was smitten by cold:</i> or <i>began to dry up.</i> (K.)    </entryFree> <br>\
+<b>صُحْمَةٌ</b>               1     <br>\
+                     صُحْمَةٌ<br>\
+                     ذ<br>\
+                  <i>Blackness inclining to yellowness:</i> or <i>a dust-colour inclining a little to blackness:</i> or <i>redness in whiteness:</i> (K:) or, as some say, <i>yellowness in whiteness.</i> (TA.)    </entryFree> <br>\
+<b>اَصْحَمُ</b>               1     <br>\
+                     اَصْحَمُ<br>\
+                     ذ<br>\
+                  <i>Of the colour termed</i> <br>\
+                  صُحْمَةٌ: (K:) i. e. <i>black inclining to yellowness:</i> (S, K:) &amp;amp;c.: (K:) or, accord. to AA, <i>intensely black:</i> (TA:) fem.  <br>\
+                  صَحْمَا=ءُ. (K.) ―         -b2-  The latter, applied to a فَيْفَا=ء [or smooth, or waterless, desert], (Sh, K,) or to a بَلْدَة [or district, &amp;amp;c.], (S,) signifies <i>Dusty.</i> (Sh, S, K.) ―         -b3-  And الصَّحْمَا=ءُ is the name of <i>A certain herb,</i> or <i>leguminous plant,</i> (S, K, TA,) <i>not intensely green.</i> (TA.)    </entryFree> <br>\
+<b>مُصْحَامٌّ</b>               1     <br>\
+                     مُصْحَامٌّ<br>\
+                     ذ<br>\
+                  , applied to a plant, or herbage, [&amp;amp;c.,] part. n. of 11 [q. v.]. (TA.)   </entryFree> <br>\
+' } );

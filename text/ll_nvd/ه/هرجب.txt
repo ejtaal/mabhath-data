@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'هرجبQ. 1<br>\
+هَرْجَبَ. inf. n. هَرْجَبَةٌ, He was quick. or<br>\
+swift. (IKtt)<br>\
+هِرْجَابٌ and هِرجَبٌّ Tall, or long, as an epithet<br>\
+of a man &amp;c. (K.) ―<br>\
+-b2-  هِرْجَابٌ A tall, or longbodied, (طَوِيلَة) and bulky, she-camel: (S:) as<br>\
+also هِرجَالٌ: pl. هَرَاجِيبُ. ―<br>\
+-b3-  هِرْجَابٌ Anything<br>\
+great, large, or bulky: so in the Moajam: or<br>\
+extending long, horizontally. (TA.) ―<br>\
+-b4-  نَخْلَةٌ<br>\
+هِرْجَابٌ A tall palm-tree. (TA.)<br>\
+' } );

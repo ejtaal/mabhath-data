@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'صنىصِنْىٌ and صُنْىٌ and صَنْىٌ: see صِنْوٌ, in art. صنو.<br>\
+صُنَىٌّ: dim. of صِنْوٌ: see art. صنو.<br>\
+أَخَذَهُ بِصِنَايَتِهِ He took it (a thing, S) wholly:<br>\
+(Fr, S, M, K:) and so بِسِنَايَتِهِ. (M.)<br>\
+' } );

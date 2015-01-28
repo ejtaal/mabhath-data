@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>خسق</em>            1                  خسق<br>\
+<b>خَسَقَ</b>               1     <br>\
+                     خَسَقَ<br>\
+                     خسق<br>\
+                  , aor.      <br>\
+                     خَسِقَ<br>\
+                  , (Msb, K,) inf. n. خَسْقٌ and خُسُوقٌ, (Msb, TA,) <i>It</i> (an arrow) <i>hit the target:</i> (K:) or <i>passed through the object at which it was shot;</i> or <i>penetrated into its inside, and its extremity went forth from the other side, the rest. remaining therein:</i> (IKtt, Msb:) or <i>stuck fast therein:</i> (IF, Msb:) or خَسَقَ الهَدَفَ (Msb, TA) <i>it hit the object at which it was shot, and passed through,</i> or <i>its extremity passed through;</i> like خَزَقَ: (TA:) or <i>passed through,</i> or <i>pierced so that its extremity passed through, not with vehemence.</i> (Msb.) And رَمَى فَخَسَقَ <br>\
+                  <i>He shot,</i> or <i>cast, and clave the skin.</i> (Az, TA.) IF says that it is not a primitive; that the س is substituted for ز; and that the word is altered because of the alteration of the meaning. (TA.)    </entryFree> <br>\
+<b>خَسُوقٌ</b>               1     <br>\
+                     خَسُوقٌ<br>\
+                     خسوق<br>\
+                  , applied to a she-camel, <i>i. q.</i> <br>\
+                  حَزُوقٌ; (K;) or <i>Evil in disposition; that pierces the ground with her toes, as she goes;</i> (JK, TA;) <i>furrowing the ground with her toe turned up.</i> (TA.)    </entryFree> <br>\
+<b>خَاسِقٌ</b>               1     <br>\
+                     خَاسِقٌ<br>\
+                     خاسق<br>\
+                  <i>i. q.</i> <br>\
+                  خَازِقٌ [q. v.]. (S.)   </entryFree> <br>\
+' } );

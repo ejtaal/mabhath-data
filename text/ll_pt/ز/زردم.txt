@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>زردم</em>            1                  زردم<br>\
+<b>زَرْدَمَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     زَرْدَمَهُ<br>\
+                     ذ<br>\
+                  , (S, K,) inf. n. زَرْدَمَةٌ, (TA,) <i>He squeezed his throat:</i> (S, K:) or <i>he throttled him;</i> or <i>strangled him:</i> (K:) as also زَرْدَبَهُ. (TA.) ―         -b2-  And <i>He swallowed it.</i> (K.)    </entryFree> <br>\
+<b>زَرْدَمَةٌ</b>               1     <br>\
+                     زَرْدَمَةٌ<br>\
+                     ذ<br>\
+                   inf. n. of the verb above. (TA.)       -A2-  Also The <i>place of swallowing:</i> (S, K:) or the غَلْصَمَة [or <i>epiglottis</i>]: (K:) or, as some say, it is [the <i>part</i>] <i>beneath the</i> <br>\
+                  حُلْقُوم [or <i>windpipe:</i> or, app., the <i>part beneath the head of the</i> <br>\
+                  حلقوم]: and <i>in it,</i> or <i>upon it, is set the tongue:</i> some say that the word is Pers. [in origin; app. holding it to be arabicized from the Pers. زَرْدَمَنْ, which signifies the “ windpipe ”]. (TA.)   </entryFree> <br>\
+' } );

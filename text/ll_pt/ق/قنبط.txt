@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قنبط</em>            1                  قنبط<br>\
+<b>قُنَّبِيطٌ</b>               1     <br>\
+                     قُنَّبِيطٌ<br>\
+                     ذ<br>\
+                   [<i>Cauliflower;</i>] the <i>thickest species of</i> <br>\
+                  كُرُنْب; (K;) called in the dial. of Egypt قَرْنَبِيطٌ; mentioned in the S in art. قبط; [but only as a thing well known;] the author of the S regarding the ن as augmentative: (TA:) <i>it renders the breath stinking; and causes a thickness,</i> or <i>grossness,</i> [app. <i>of the humours;</i>] <i>and she who uses its seed in the manner of a suppository in the vagina will not become pregnant:</i> (K:) so say the physicians. (TA.)   </entryFree> <br>\
+' } );

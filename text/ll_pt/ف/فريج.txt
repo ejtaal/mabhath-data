@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>فريج</em>            1                  فريج<br>\
+<b>اِفْرَنْبَجَ</b>               1     <br>\
+                     <i>Q. 3</i>        <br>\
+                     اِفْرَنْبَجَ<br>\
+                     ذ<br>\
+                  , said of a lamb, (Lth, O,) or of the skin of a lamb, (S, K, [some of the copies of  the latter of which have الجَمَل in the place of الحَمَل,]) and of the skin of a kid, (O,) <i>It was roasted so that the upper parts of it became dried up.</i> (Lth, S, O, K.)    </entryFree> <br>\
+<b>مُفْرَنْبِجٌ</b>               1     <br>\
+                     مُفْرَنْبِجٌ<br>\
+                     ذ<br>\
+                   [part. n. of the verb above]. A man said, describing a roasted female kid, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَاَكَلْتُ مِنْ مُفْرَنْبِجٍ مِنْ جِلْدِهَا<br>\
+                  </quote> [<i>And I ate of such as was roasted so that the upper parts were dried up, of its skin</i>]. (O.)   </entryFree> <br>\
+' } );

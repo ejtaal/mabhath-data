@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شلجم</em>            1                  شلجم<br>\
+<b>شَلْجَمٌ</b>               1     <br>\
+                     شَلْجَمٌ<br>\
+                     ذ<br>\
+                  <i>A well-known plant;</i> (S;) [<i>colza:</i> see سَلْجَمٌ:] mentioned by the author of the L, and other leading lexicologists, following J. (TA.)   </entryFree> <br>\
+' } );

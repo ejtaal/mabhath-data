@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>ضجم</em>            1                  ضجم<br>\
+<b>ضَجِمَ</b>               1     <br>\
+                     ضَجِمَ<br>\
+                     ذ<br>\
+                  , (MA, K,) aor.      <br>\
+                     ضَجَمَ<br>\
+                  , (K,) inf. n. ضَجَمٌ, (MA, K, *) <i>It was,</i> or <i>became, distorted,</i> or <i>crooked;</i> said of the mouth; (MA, K;) and in like manner one says of the side of the mouth; and of the lip; and of the chin; and of the neck: (K:) and likewise, (tropical:)  of a well: and (tropical:)  of a wound. (K, TA.) [See ضَجَمٌ below.]    </entryFree> <br>\
+<b>تضاجم</b>               1     <br>\
+                     تضاجم<br>\
+                     ذ<br>\
+                   [<i>He was,</i> or <i>became, distorted,</i> or <i>crooked, in the mouth:</i> (see its part. n., below:) and so, accord. to Golius, ↓ <br>\
+      اضجمّ and ↓ <br>\
+      اضجامّ. ―         -b2-  And] (tropical:)  <i>i. q.</i> <br>\
+                  اِخْتَلَفَ: (S, K, TA:) so in the saying, تَضَاجَمَ الاَمْرُ بَيْنَهُمْ (tropical:)  [<i>The affair,</i> or <i>case, was,</i> or <i>became, complicated, intricate,</i> or <i>confused, so as to be a subject of disagreement,</i> or <i>difference, between them</i>]. (S, TA.) And hence the saying, الاَسْمَا=ءُ تَضَاجَمُ [for تَتَضَاجَمُ] i. e. تَخْتَلِفُ [meaning (tropical:)  <i>Names are dissimilar, diverse,</i> or <i>various</i>]. (TA.)    </entryFree> <br>\
+                     اـِضْجَمَّ<br>\
+                  and 11: see the next preceding paragraph.    </entryFree> <br>\
+<b>ضَجَمٌ</b>               1     <br>\
+                     ضَجَمٌ<br>\
+                     ذ<br>\
+                   inf. n. of ضَجِمَ [q. v.]: (MA, K: *) [as a simple subst.,] <i>Distortion,</i> or <i>crookedness,</i> (S, K,) [in an absolute sense; and particularly,] in the mouth; and in the side of the mouth; and in the lip; and in the chin; and in the neck: (K:) and in the nose; (Lth, TA;) its <i>inclining towards one side</i> (Lth, S, TA) <i>of the face:</i> (S, TA:) and in one of the shoulders: (S, TA:) and, accord. to the M, in the bill [for خط in the TA (an obvious mistranscription) I read خَطْم] of the male ostrich: and sometimes in the mouth together with the nose: (TA:) and in like manner (tropical:)  in a well: and (tropical:)  in a wound. (K, TA.)    </entryFree> <br>\
+<b>ضُجْمَةٌ</b>               1     <br>\
+                     ضُجْمَةٌ<br>\
+                     ذ<br>\
+                  <i>A certain small creeping thing</i> (دُوَيْبَّةٌ) <i>of foul odour,</i> (K, TA,) <i>that stings,</i> or <i>bites.</i> (TA.)    </entryFree> <br>\
+<b>اَضْجَمُ</b>               1     <br>\
+                     اَضْجَمُ<br>\
+                     ذ<br>\
+                  <i>Having the quality termed</i> <br>\
+                  ضَجَمٌ, expl. above: (K:) [or, particularly,] <i>having the nose inclining towards one side of the face:</i> (S:) [fem. ضَجْمَا=ءُ: and pl. ضُجْمٌ.] And [hence] قَلِيبٌ اَضْجَمُ (assumed tropical:)  <i>A well having a crookedness in the wall that surrounds its interior:</i> or <i>that is not dug in a straight,</i> or <i>an even, direction:</i> pl. قُلُبٌ ضُجْمٌ. (TA.) El-&#39;Ajjáj has applied the phrase قُلُبٌ <br>\
+                  ضُجْمٌ to (tropical:)  <i>Wide wounds;</i> as likened to the wells thus termed. (TA.) ―         -b2-  And [the pl.] ضُجْمٌ signifies also (assumed tropical:)  Men <i>who eat much.</i> (IAar, TA.)    </entryFree> <br>\
+<b>مُتَضَاجِمٌ</b>               1     <br>\
+                     مُتَضَاجِمٌ<br>\
+                     ذ<br>\
+                  <i>Distorted,</i> or <i>crooked, in the mouth,</i> (S, K.)   </entryFree> <br>\
+' } );

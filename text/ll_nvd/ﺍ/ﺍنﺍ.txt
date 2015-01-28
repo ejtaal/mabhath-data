@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'اناأَنَا (pronoun of the first person sing.): see<br>\
+art. ان.<br>\
+' } );

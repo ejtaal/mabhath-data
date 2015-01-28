@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>اشك</em>            1                  اشك<br>\
+<b>اَشُكَ ذَا خُرُوجًا</b>               1     <br>\
+                     اَشُكَ ذَا خُرُوجًا<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  وَشُكَ, q. v. (TA.)   </entryFree> <br>\
+' } );

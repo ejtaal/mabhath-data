@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>دحرج</em>            1                  دحرج<br>\
+<b>دَحْرَجَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     دَحْرَجَ<br>\
+                     دحرج<br>\
+                  , inf. n. دَحْرَجَةٌ and دِحْرَاجٌ, (S, L, K,) [<i>He rolled</i> a thing <i>along:</i> and] <i>he rolled</i> a thing <i>down.</i> (L, K.) ―         -b2-  [And <i>He rounded</i> a thing; <i>made</i> it <i>round:</i> see the pass. part. n., below.]    </entryFree> <br>\
+<b>تَدَحْرَجَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَدَحْرَجَ<br>\
+                     دحرج<br>\
+                     تدحرج<br>\
+                   quasi-pass. of Q. 1; (S, L, K;) [<i>It</i> (a thing) <i>rolled along:</i> and] <i>it rolled down.</i> (L, K.) ―         -b2-  [And <i>It became round.</i>]    </entryFree> <br>\
+<b>دُحْرُوجَةٌ</b>               1     <br>\
+                     دُحْرُوجَةٌ<br>\
+                     دحروجه<br>\
+                     دحروجة<br>\
+                   The <i>little ball</i> [<i>of dung</i>] <i>that is rolled along by the</i> <br>\
+                  جُعَل [or <i>species of black beetle called cantharus, and in which it deposits its eggs</i>]: (S, K:) pl. دَحَارِيجُ. (S.) ―         -b2-  It also signifies ما تدحرج من القدر: [so in the L and TA: but the following verse, cited as an ex. of this signification, suggests that القدر is probably a mistranscription for القُرْدِ or القُرُدِ, i. e. “ ticks; ” to which, in several different stages of growth, the Arabs apply different appellations: (see حَمْنَانٌ:) and this is rendered more probable by the fact that, in the L, د and ر are often written almost exactly alike: if so, the meaning is (assumed tropical:)  <i>A round tick;</i> or <i>a tick that has become round:</i> likened, I suppose, to the little ball of dung above mentioned:] pl. as above: En-Nábighah says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَضْحَتُ يُنَفِّرُهَا الوِلْدَانُ مِنْ سَبَاٍ<br>\
+                     <L><br>\
+                        كَاَنَّهُمْ تَحْتَ دَفَّيْهَا دَحَارِيجُ<br>\
+                  </quote> [app. describing a she-camel, and meaning, <i>She became so that the children of Seba scared her away, as though they were round ticks</i> biting her <i>beneath her two sides</i>]. (L, TA. [This verse is also cited in the M and TA in art. سبا; but not there explained.])    </entryFree> <br>\
+<b>مُدَحْرَجٌ</b>               1     <br>\
+                     مُدَحْرَجٌ<br>\
+                     مدحرج<br>\
+                   pass. part. n. of Q. 1 [as meaning <i>Rolled along:</i> and <i>rolled down</i>]. (TA.) ―         -b2-  [And] <i>Rounded;</i> or <i>round;</i> syn. مُدَوَّرٌ. (S, K.)    </entryFree> <br>\
+<b>المُدَحْرِجُ</b>               1     <br>\
+                     المُدَحْرِجُ<br>\
+                     المدحرج<br>\
+                   [<i>The roller;</i> meaning] <i>the</i> <br>\
+                  جُعَل [or <i>species of black beetle mentioned above, voce</i> <br>\
+                  دُحْرُوجَةٌ]. (IAar, TA.) ―         -b2-  هَالِبُ الشَّعْرِ and مُدَحْرِجُ <br>\
+                  البَعْرِ are [<i>Two</i>] <i>days of winter.</i> (K in art. هلب.)   </entryFree> <br>\
+' } );

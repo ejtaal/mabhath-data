@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'كوى1<br>\
+كَوَاهُ<br>\
+He (a veterinary, and any other, TA)<br>\
+cauterized him; i. e. burned his skin; with an<br>\
+iron, and the like: (K:) or he burned him with<br>\
+fire. (Mgh.)<br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>دوخ</em>            1                  دوخ<br>\
+<b>دَاخَ</b>               1     <br>\
+                     دَاخَ<br>\
+                     داخ<br>\
+                  , (S, A, L, K,) aor. يَدُوخُ, (S,) inf. n. دَوْخٌ, (L,) <i>He</i> (a man, S, A) <i>was,</i> or <i>became, submissive,</i> or <i>abject,</i> (S, A, L, K,) <i>and lowly,</i> or <i>humble.</i> (A, L.) ―         -b2-  [Also (assumed tropical:)  <i>It</i> (a man&#39;s head) <i>was,</i> or <i>became, giddy,</i> or <i>vertiginous:</i> used in this sense in the present day, and probably in ancient times: see 2.]       -A2-  As a trans. verb: see 2.    </entryFree> <br>\
+<b>دوّخ</b>               1     <br>\
+                     دوّخ<br>\
+                     دوخ<br>\
+                  , (S, K,) inf. n. تَدْوِيخٌ, (TA,) <i>He subdued</i> a country, <i>and obtained dominion over its inhabitants;</i> as also ↓ <br>\
+      داخ, (S, K,) aor. and inf. n. as above; (TA;) and ديّخ, (K,) inf. n. تَدْيِيخٌ: (TA:) and <i>he subdued,</i> or <i>subjugated,</i> a people. (L.) And, (S, A, K,) as also ديّخ, (As, S,) and ↓ <br>\
+      اداخ, (L,) <i>He rendered</i> (a man, S, L, or people, A) <i>submissive,</i> or <i>abject,</i> (S, A, L, K,) <i>and lowly,</i> or <i>humble:</i> (A:) and in like manner a camel. (L.) ―         -b2-  (tropical:)  <i>He trod </i> a land <i>much:</i> (A:) or <i>he traversed</i> a country <i>until he knew it and became acquainted with its roads.</i> (L.) ―         -b3-  (tropical:)  <i>It</i> (heat) <i>weakened</i> a man. (A, TA.) ―         -b4-  (assumed tropical:)  <i>It</i> (pain) <i>made</i> a man&#39;s head <i>giddy,</i> or <i>vertiginous.</i> (L.)    </entryFree> <br>\
+                     اَدْوَخَ<br>\
+                   see 2.    </entryFree> <br>\
+<b>لَيْلٌ دَايِخٌ</b>               1     <br>\
+                     لَيْلٌ دَايِخٌ<br>\
+                     ذ<br>\
+                  <i>A dark night.</i> (K.)   </entryFree> <br>\
+' } );

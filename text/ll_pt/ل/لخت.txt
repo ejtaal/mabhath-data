@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لخت</em>            1                  لخت<br>\
+<b>لَخْتٌ</b>               1     <br>\
+                     لَخْتٌ<br>\
+                     ذ<br>\
+                  <i>Great,</i> or <i>big, in body:</i> (Lth, Sgh, and some copies of the K:) or <i>great,</i> or <i>big, and corpulent.</i> (So in the other copies of the K.) ―         -b2-  A woman <i>in whom the division between the vagina and the rectum has been broken through;</i> syn. مُفُضَاةٌ. (K.) ―         -b3-  حَرٌّ سَخْتٌ لَخْتٌ <br>\
+                  <i>Vehement,</i> or <i>intense, heat.</i> (Lth, K.) [See also سَخْتٌ: and see لَحْتٌ.] Thought by ISd to be arabicized. (TA.)   </entryFree> <br>\
+' } );

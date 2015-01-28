@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>زيح</em>            1                  زيح<br>\
+<b>زَاحَ</b>               1     <br>\
+                     زَاحَ<br>\
+                     ذ<br>\
+                  , (S, A, K,) aor. يَزِيحُ, inf. n. زَيْحٌ (S, K) and زُيُوحٌ (MA, K) and زِيُوحٌ (K) and زَيَحَانٌ; (MA, K; [in the CK, erroneously, زَيْحان;]) and ↓ <br>\
+      انزاح; (A, K;) <i>It</i> (a thing, S) <i>became distant,</i> or <i>remote:</i> (S, A, K:) <i>it went, went away, passed away,</i> or <i>departed.</i> (S, K.) You say, زَاحَتْ عِلَّتُهُ (S, A, MA) and ↓ <br>\
+      انزاحت (A) <i>His pretext, pretence,</i> or <i>excuse,</i> [or <i>his malady,</i>] <i>became remote</i> [or <i>removed</i>], or <i>went away.</i> (MA.) And زَاحَ عَنِّى البَاطِلُ <br>\
+                  <i>What was false,</i> or <i>vain, ceased, passed away,</i> or <i>went away, from me.</i> (TA, from a trad.) ―         -b2-  And زَاحَ, aor. as above, <i>i. q.</i> <br>\
+                  تَاَخَّرَ [<i>He,</i> or <i>it, went back</i> or <i>backwards,</i> &amp;amp;c.]. (TA in art. زح.)    </entryFree> <br>\
+<b>ازاحهُ</b>               1     <br>\
+                     ازاحهُ<br>\
+                     ذ<br>\
+                  <i>He made it</i> (a thing, S) <i>to be distant,</i> or <i>remote:</i> [<i>he removed it, did away with it,</i> or <i>caused it to cease:</i>] <i>he made it to go, go away, pass away,</i> or <i>depart.</i> (S, K.) Hence the saying of El-Aashà, قَدْ اَزَحْنَا هُزَالَهَا [<i>We had caused her leanness to cease</i>]. (S.) And اَزَحْتُ عِلَّتَهُ: (S, A:) ازاح عِلَّتَهُ signifies <i>He removed his pretext, pretence,</i> or <i>excuse;</i> [or <i>his malady;</i>] or <i>did away with it.</i> (MA.)    </entryFree> <br>\
+                     اـِنْزَيَحَ<br>\
+                   see 1, in two places.    </entryFree> <br>\
+<b>مَزَاحٌ</b>               1     <br>\
+                     مَزَاحٌ<br>\
+                     ذ<br>\
+                  <i>A place to which one</i> [<i>goes away,</i> or <i>may go away;</i> or] <i>removes,</i> or <i>may remove, far away.</i> (Ham p. 329.)   </entryFree> <br>\
+' } );

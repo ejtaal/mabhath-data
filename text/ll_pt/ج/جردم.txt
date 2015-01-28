@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>جردم</em>            1                  جردم<br>\
+<b>جَرْدَمَةٌ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     جَرْدَمَةٌ<br>\
+                     جردمه<br>\
+                     جردمة<br>\
+                  , [inf. n. of جَرْدَمَ,] (S, K,) in relation to food, (S,) <i>i. q.</i> <br>\
+                  جَرْدَبَةٌ; (S, K;) i. e., The <i>covering the food that is before one with the left hand,</i> [<i>while eating with the right hand,</i>] <i>in order that no other person may take it:</i> accord. to Yaakoob, the م is a substitute for the ب. (TA.) And جَرْدَمَ signifies <i>He ate, made an end of, devoured,</i> or <i>consumed,</i> what was in the bowl or vessel: (IAar, Sh, K, TA:) and <i>he ate entirely</i> the bread. (K.) ―         -b2-  Also جردم, <i>He talked much.</i> (S, K.) ―         -b3-  And <i>He hastened, made haste, sped,</i> or <i>was quick;</i> (Kr, K;) as also جرذم. (K.) ―         -b4-  جردم السِّتِّينَ <br>\
+                  <i>He passed the</i> [<i>age of</i>] <i>sixty.</i> (IAar, K.)    </entryFree> <br>\
+<b>جَرْدَمٌ</b>               1     <br>\
+                     جَرْدَمٌ<br>\
+                     جردم<br>\
+                   [probably <i>Voracious:</i> see above: and hence, ―         -b2- ] <i>Black locusts, having green heads.</i> (K.) ―         -b3-  <i>Loquacious;</i> or <i>a great talker.</i> (K.)   </entryFree> <br>\
+' } );

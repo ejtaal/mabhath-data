@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>هزلج</em>            1                  هزلج<br>\
+<b>هَزْلَجَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     هَزْلَجَ<br>\
+                     ذ<br>\
+                  , inf. n. هَزْلَجَةٌ, <i>He</i> (an ostrich, or anything,) <i>was quick,</i> or <i>swift.</i> (TA.)    </entryFree> <br>\
+<b>هَزْلَجَةٌ</b>               1     <br>\
+                     هَزْلَجَةٌ<br>\
+                     ذ<br>\
+                  : see 1; and art. هزج.    </entryFree> <br>\
+<b>هَزَلَّجٌ</b>               1     <br>\
+                     هَزَلَّجٌ<br>\
+                     ذ<br>\
+                   A <i>quick,</i> or <i>swift,</i> he-ostrich. (K.)    </entryFree> <br>\
+<b>هِزْلَاجٌ</b>               1     <br>\
+                     هِزْلَاجٌ<br>\
+                     ذ<br>\
+                  <i>Quick,</i> or <i>swift:</i> (TA:) a <i>light,</i> or an <i>agile,</i> (<i>and swift,</i> or <i>quick,</i> TA,) wolf: (S, K:) pl. هَزَالِجُ and هَزَالِيجُ. (TA.) Accord. to Kr, it is derived from الهَزَجُ. (TA.) [See هزْمَجَةٌ in art. هزج.]   </entryFree> <br>\
+' } );

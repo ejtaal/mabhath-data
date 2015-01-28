@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'سيغ1<br>\
+سِغْتُهُ, aor. أَسِيغُهُ, inf. n. سَيْغٌ: see 4, in art.<br>\
+سوغ.<br>\
+هٰذَا سَيْغُ هٰذَا: see هذا سَوْغُ هذا, in art. سوغ, in<br>\
+two places.<br>\
+سَيِّغٌ: see سَائِغٌ, in art. سوغ.<br>\
+' } );

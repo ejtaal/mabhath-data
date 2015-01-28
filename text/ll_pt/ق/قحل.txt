@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>قحل</em>            1                  قحل<br>\
+<b>قَحُولٌ</b>               1     <br>\
+                     قَحُولٌ<br>\
+                     ذ<br>\
+                  , applied to a man and to a horse, <i>i. q.</i> <br>\
+                  عِنِّينٌ. (IAar in TA, art. عجر.)    </entryFree> <br>\
+<b>اـِنْقَحْلٌ</b>               1     <br>\
+                     اـِنْقَحْلٌ<br>\
+                     ذ<br>\
+                  ; see اـِنْزَهْوٌ.   </entryFree> <br>\
+' } );

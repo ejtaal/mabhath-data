@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>ثجر</em>            1                  ثجر<br>\
+<b>ثَجَرَ</b>               1     <br>\
+                     ثَجَرَ<br>\
+                     ثجر<br>\
+                  , aor.      <br>\
+                     ثَجُرَ<br>\
+                  , <i>He mixed the</i> <br>\
+                  ثَجِير <br>\
+                  <i>of dates</i> [i. e. <i>the dregs of pressed dates</i>] <i>with other</i> [<i>dates</i>] <i>in the beverage called</i> <br>\
+                  نَبِيذ: (S:) or <i>he mixed the dregs of pressed unripe dates with dried dates in making</i> <br>\
+                  نبيذ: (Mgh:) or ثَجَرَ التَّمْرَ <br>\
+                  <i>he mixed the dried dates with the dregs of pressed unripe dates.</i> (K.) The doing so is forbidden in a trad. (S, Mgh.)    </entryFree> <br>\
+<b>ثَجِيرٌ</b>               1     <br>\
+                     ثَجِيرٌ<br>\
+                     ثجير<br>\
+                  , an arabicized word, (Msb,) pronounced by the vulgar with ت, (S, Msb,) The <i>dregs of anything that is pressed;</i> (S, A, Mgh, Msb;) as of pressed unripe dates: (K:) or the <i>dregs of pressed unripe dates, which are mixed with dried dates in making the beverage called</i> <br>\
+                  نَبِيذ: (TA:) or the <i>expressed juice of dates;</i> or the <i>dregs of pressed dates:</i> (As, Msb:) or <i>pressed grapes from which the juice has run, and of which the dregs remain.</i> (Lth, TA.)   </entryFree> <br>\
+' } );

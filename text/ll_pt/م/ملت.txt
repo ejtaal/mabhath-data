@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>ملت</em>            1                  ملت<br>\
+<b>مَلَتَ</b>               1     <br>\
+                     مَلَتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَلِتَ<br>\
+                  , (inf. n. مَلْتٌ, TA.) <i>He put</i> [a thing] <i>in motion,</i> or <i>into a state of commotion:</i> (ISd, K:) like مَتَلَ: also mentioned by IDrd, who expresses uncertainty as to its correctness. (TA.)    </entryFree> <br>\
+<b>مِلِّيتٌ</b>               1     <br>\
+                     مِلِّيتٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  سنْفُ المَرْخِ; (K;) i. e., The <i>leaves of the tree called</i> <br>\
+                  مَرْخ. (TA.)    </entryFree> <br>\
+<b>اَمْلُوتٌ</b>               1     <br>\
+                     اَمْلُوتٌ<br>\
+                     ذ<br>\
+                   an epithet applied to a مَفَازَة [or water-less desert]. (Marg. note in a copy of the S.)    </entryFree> <br>\
+<b>اَمَالِيتُ</b>               1     <br>\
+                     اَمَالِيتُ<br>\
+                     ذ<br>\
+                  <i>Swift</i> camels. (K.) It is said to be a quasi-pl. n.: or a pl. that has no sing.: or its sing. is اُمْلُوتٌ or اـِمَلِيتٌ: some of the lexicologists reject it. (MF.)   </entryFree> <br>\
+' } );

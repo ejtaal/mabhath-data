@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>غندب</em>            1                  غندب<br>\
+<b>الغُنْدُبُ</b>               1     <br>\
+                     الغُنْدُبُ<br>\
+                     ذ<br>\
+                  : see the paragraph here following.    </entryFree> <br>\
+<b>الغُنْدُبَةُ</b>               1     <br>\
+                     الغُنْدُبَةُ<br>\
+                     ذ<br>\
+                  <i>A hard portion of flesh</i> [app. <i>a gland</i>] <i>around</i> [or app. <i>on either side of</i>] <i>the</i> <br>\
+                  حُلْقُوم [which seems to mean here, as it often does, the حَلْق, i. e. <i>fauces,</i> or <i>upper part of the throat</i>]; (O, K;) thus expl. by Lth; as also ↓ <br>\
+      الغُنْدُبُ; (O;) or ↓ <br>\
+      الغُنْدُوبُ: (K:) pl. غَنَادِبُ: and it is said that the غُنْدُبَتَانِ are [<i>two things</i>] <i>like two ganglions</i> (شِبْهُ غُدَّتَيْنِ) <i>in the</i> <br>\
+                  نَكْفَتَانِ; (O, K;) <i>in each</i> <br>\
+                  نَكْفَة [q. v.] <i>is a</i> <br>\
+                  غُنْدُبَة, <i>and between the</i> <br>\
+                  غندبتان <br>\
+                  <i>is the place of swallowing:</i> (O:) <i>the</i> <br>\
+                  غَنَادِب <br>\
+                  <i>and the flesh that is upon them,</i> or <i>above them, around the</i> <br>\
+                  لَهَاة [app. here meaning the <i>arches,</i> or <i>pillars, of the soft palate,</i> or the <i>furthest part of the mouth</i>], <i>compose the</i> <br>\
+                  لَغَانِين [pl. of لُغْنُونٌ, q. v.], <i>which are also called the</i> <br>\
+                  نَغَانِغ, pl. of نُغْنُغَةٌ [or نُغْنُغٌ, q. v.]: (TA:) or the غندبتان are <i>two glands</i> (عُقْدَتَانِ) <i>in,</i> or <i>at,</i> (فِى,) <i>the root of the tongue:</i> (K, TA:) and they are said to be <i>the two amygdalæ of the fauces;</i> i. e. <i>the tonsils:</i> (اللَّوْزَتَانِ: TA:) or <i>two portions of flesh which are situate on either side of the</i> <br>\
+                  لَهَاة [app. meaning as expl. above, i. e. the <i>arches,</i> or <i>pillars, of the soft palate,</i> or the <i>furthest part of the mouth</i>], (K, TA,) <i>and between which is a space:</i> (TA:) and غُنْدُبَتَا العُرْشَيْنِ is expl. as meaning <i>the two things that conjoin</i> (اللَّتَانِ تَضُمَّانِ) <i>the</i> <br>\
+                  لَغَانِين [above mentioned (I read اللغانين instead of العين, an evident mistranscription in my original, for I can only suppose the description to mean <i>the tonsils, as lodged between, and thus conjoining, the anterior and posterior pillars of the soft palate,</i>)] <i>on the right and left.</i> (TA.)    </entryFree> <br>\
+<b>الغُنْدُوبُ</b>               1     <br>\
+                     الغُنْدُوبُ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.   </entryFree> <br>\
+' } );

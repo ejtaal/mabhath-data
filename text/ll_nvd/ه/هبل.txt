@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'هبل1<br>\
+هَبِلَتْ<br>\
+, inf. n. هَبَلٌ: see عَمِلَ.<br>\
+8<br>\
+اِهْتَبَلَ<br>\
+: see 5 in art. حفو. ―<br>\
+-b2-  I. q.<br>\
+تَحَيَّنَ.<br>\
+(TA.)<br>\
+هَيْبَلِىٌّ<br>\
+A Christian monk: see أَبِيلٌ.<br>\
+مَهْبِلٌ<br>\
+The place of gestation: see a verse cited<br>\
+voce مَحْبَلٌ.<br>\
+' } );

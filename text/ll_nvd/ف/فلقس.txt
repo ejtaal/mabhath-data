@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'فلقسفَلْقَسٌ: see the following paragraph, latter sentence.<br>\
+فَلَنْقَسٌ One whose mother is Arab, but not his<br>\
+father: (Lth, O, K:) or one whose father is such<br>\
+as is termed مَوْلًى [i. e. a freedman under the<br>\
+patronage of his emancipator], and whose mother<br>\
+is Arab; (S, O, K;) thus says A&#39;Obeyd, (S, O,)<br>\
+and thus Sh: (TA:) or one whose father and<br>\
+mother are Arabs, and whose two grandmothers<br>\
+are slaves; (O, K;) thus accord. to AZ and<br>\
+AHeyth (O) and ISk, and this is [said to be]<br>\
+the right explanation: (TA:) or one whose father<br>\
+is a مولى [expl. above], and his mother the like,<br>\
+i. e. a مَوْلَاة; (S, O, K;) thus accord. to Abu-lGhowth. (S, O.) ―<br>\
+-b2-  Also, (O, K,) and ↓ فَلْقَسٌ,<br>\
+(K,) Niggardly, or a niggard; and vile, or<br>\
+ignoble. (O, K. *)<br>\
+' } );

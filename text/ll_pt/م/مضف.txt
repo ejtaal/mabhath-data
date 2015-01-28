@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مضف</em>            1                  مضف<br>\
+<b>مَضْفٌ</b>               1     <br>\
+                     مَضْفٌ<br>\
+                     ذ<br>\
+                  : see سِيَرَا=ءُ.   </entryFree> <br>\
+' } );

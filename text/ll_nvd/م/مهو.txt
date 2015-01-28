@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'مهومَهْوٌ<br>\
+, applied to a sword, Thin edged: see<br>\
+an ex. voce خَشِيبَةٌ. ―<br>\
+-b2-  سَلْحٌ مَهْوٌ<br>\
+Thin excrement. (Skr in Carm. Huds. p. 15.)<br>\
+مَهًا<br>\
+(assumed tropical:)  Front teeth (ثَغْرٌ) that are clean, white,<br>\
+and lustrous (having much<br>\
+مآء): so in a verse<br>\
+of El-Aashà [cited voce رَفَّ]. (TA.)<br>\
+مُمَهَّى<br>\
+Beverage, or wine, (شَرَاب,) mixed with<br>\
+much water. (IAar, in TA, art. حنذ.)<br>\
+' } );

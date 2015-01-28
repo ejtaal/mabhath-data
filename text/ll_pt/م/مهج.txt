@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>مهج</em>            1                  مهج<br>\
+<b>مَهَجَ</b>               1     <br>\
+                     مَهَجَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَهَجَ<br>\
+                  , (inf. n. مَهْجٌ, TA,) <i>He sucked</i> [<i>the breast of</i> his mother]. ―         -b2-  مَهَجَ <br>\
+                  <i>Inivit</i> ancillam suam. (K.)       -A2-  مَهَجَ <br>\
+                  <i>He became goodly in countenance after disease.</i> (AA, K.)    </entryFree> <br>\
+<b>اَمْتُهِجَ</b>               1     <br>\
+                     اَمْتُهِجَ<br>\
+                     ذ<br>\
+                   (tropical:)  <i>His soul was torn from him.</i> (A, K.)    </entryFree> <br>\
+<b>مُهْجَةٌ</b>               1     <br>\
+                     مُهْجَةٌ<br>\
+                     ذ<br>\
+                  <i>Blood:</i> or the <i>blood of the heart:</i> (S, K:) pl. مُهَجٌ. (A.) An Arab of the desert is related to have said, دَفَنْتُ مُهْجَتَهُ, meaning دَمَهُ: so in the S: but in a marginal note in a copy of that work, it is said that this is a mistake; and that the correct expression, as mentioned by IKt and others, is دَفَقْتُ مُهْجَتَهُ <br>\
+                  <i>I poured forth,</i> or <i>shed, his blood:</i> and so it is in the copies of the A. (TA.) In like manner, دَفَقَ اللّٰهُ مُهْجَتَهُ (tropical:)  <i>May God destroy him!</i> (A. [See also دَفقَ.]) ―         -b2-  Also, (tropical:)  The <i>soul,</i> or <i>spirit.</i> (S, K.) Ex. خَرَجَتْ مُهْجَتُهُ (tropical:)  <i>His soul went forth,</i> or <i>departed.</i> (S.) اُنْتُزِعَتْ <br>\
+                  مُهْجَتُهُ (tropical:)  <i>His soul was torn from him.</i> (K.) ―         -b3-  Also, (tropical:)  One&#39;s <i>self:</i> the <i>best of one&#39;s self, and one&#39;s powers, efforts, endeavours,</i> or <i>energy.</i> (L.) Ex. بَذَلْتُ لَهُ مُهْجَتِى (tropical:)  <i>I gave,</i> or <i>gave up, myself, and the best of my powers, efforts, endeavours,</i> or <i>energy, to him,</i> or <i>it.</i> (T.) ―         -b4-  Also, (tropical:)  The <i>purest, choicest,</i> or <i>best, of anything.</i> (L.) ―         -b5-  Also, (assumed tropical:)  The <i>heart.</i> (MF.)    </entryFree> <br>\
+<b>مَاهِجٌ</b>               1     <br>\
+                     مَاهِجٌ<br>\
+                     ذ<br>\
+                  : see اُمْهُجٌ.    </entryFree> <br>\
+<b>اُمْهُجٌ</b>               1     <br>\
+                     اُمْهُجٌ<br>\
+                     ذ<br>\
+                   (K) and ↓ <br>\
+      اَمْهُجَانٌ and ↓ <br>\
+      مَاهِجٌ (S, K) <i>Thin</i> milk: (S, K:) or, the first and second, milk <i>free from water:</i> and, the second, milk <i>of which the froth has become still, and which is clear, and not thick:</i> and, the last, <i>thin</i> milk, <i>of which the taste has not changed;</i> as also ↓ <br>\
+      اُمْهُوجٌ. (TA.) ―         -b2-  Also, the first, <i>Thin</i> fat; (S, K;) as also the second and third: (K:) or <i>raw</i> fat. (M.) ―         -b3-  The first is an epithet of a form not mentioned by Sb. (TA.) It may be a contraction of اُمْهُوجٌ. (IJ.) [And the like may be said of اُمْلُدٌ.]    </entryFree> <br>\
+<b>اُمْهُجَانٌ</b>               1     <br>\
+                     اُمْهُجَانٌ<br>\
+                     ذ<br>\
+                  : see اُمْهُجٌ.    </entryFree> <br>\
+<b>اَمْهُوجٌ</b>               1     <br>\
+                     اَمْهُوجٌ<br>\
+                     ذ<br>\
+                  : see اُمْهُجٌ.    </entryFree> <br>\
+<b>مَمْهُوجُ البَطْنِ</b>               1     <br>\
+                     مَمْهُوجُ البَطْنِ<br>\
+                     ذ<br>\
+                  <i>Lax in the belly.</i> (K.)   </entryFree> <br>\
+' } );

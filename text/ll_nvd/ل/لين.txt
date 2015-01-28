@@ -1,0 +1,41 @@
+load_data( { book: 'll_nvd', text: 'لين1<br>\
+لَانَ, inf. n. لِينٌ [not لَيْنٌ as in the CK]<br>\
+and لَياَنٌ, (T, S, M, K,) contr. of خَشُنَ; (S, K<br>\
+in art. خشن, and TK;) It was, or became, soft,<br>\
+as opposed to rough or harsh; smooth; plain;<br>\
+without asperities; fine to the touch; delicate;<br>\
+tender; supple; lithe; limber; pliant; pliable;<br>\
+flexible; ductile; malleable; soft, or flabby;<br>\
+lax: and he was, or became, soft; tender;<br>\
+pliant; gentle; bland; or mild. Hence لان<br>\
+جَانِبُهُ: see لَيِّنٌ. ―<br>\
+-b2-  لَانَ بَطْنُهُ His bowels became<br>\
+relaxed. ―<br>\
+-b3-  لَانَ He relented.<br>\
+3<br>\
+لَايَنَهُ بِالقَوْلِ He soothed, coaxed, or wheedled,<br>\
+him with words. (L, art. مسح.) ―<br>\
+-b2-  لَايَنَهُ [He<br>\
+acted gently towards him; (M, K;) treated him<br>\
+with gentleness, or blandishment; soothed him;<br>\
+coaxed him; wheedled him;] i. q. دَارَاهُ. (S, M,<br>\
+Msb, voce داراه.) ―<br>\
+-b3-  لَايَنَهُ He was soft, tender,<br>\
+gentle, bland, or mild, towards him. (M, K.)<br>\
+4<br>\
+أَلَانَ بَطْنَهُ [It relaxed his bowels]; said of<br>\
+medicine. (K in art. سهل.)<br>\
+10<br>\
+اِسْتَلَانَ: see its contr. استخشن.<br>\
+لَانَ for الْآنَ: see the latter in art. اين.<br>\
+لِينُ العَيْشِ Softness, delicateness, or easiness,<br>\
+of life.<br>\
+لِينَةٌ applied to a palm-tree: see art. لون; and<br>\
+see عَجْوَةٌ.<br>\
+عَيْشٌ لَيِّنٌ Soft, delicate, or easy, life. ―<br>\
+-b2-  لَيِّنُ<br>\
+الجَانِبِ: see جَانِبٌ. ―<br>\
+-b3-  لَيِّنُ الأَعْطَافِ; &amp;c.: see<br>\
+art. عطف.<br>\
+مُلَيِّنٌ A lenitive, or laxative, medicine.<br>\
+' } );

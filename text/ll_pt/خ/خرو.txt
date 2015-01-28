@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>خرو</em>            1                  خرو<br>\
+<b>خُرَةُ الفَاْسِ</b>               1     <br>\
+                     خُرَةُ الفَاْسِ<br>\
+                     ذ<br>\
+                  , as in the Tekmileh, on the authority of Fr; in the K and accord. to Sgh, الفَاْسِ ↓ <br>\
+      خُرْوَةُ, which is a mistake; (TA;) <i>The</i> <br>\
+                  خُرْت [q. v. in art. خرت] <i>of the</i> <br>\
+                  فاس: pl. خُرَاتٌ; (Fr, Sgh, K, TA;) like as ثُبَةٌ has for its pl. ثُبَاتٌ. (TA.)    </entryFree> <br>\
+<b>الخَرَاتَانِ</b>               1     <br>\
+                     الخَرَاتَانِ<br>\
+                     الخراتان<br>\
+                  <i>Two stars,</i> (K,) <i>mentioned</i> [<i>and described</i>] <i>in art.</i> <br>\
+                  خرت, (TA,) <i>each of which is</i> [<i>said to be</i>] <i>called</i> <br>\
+                  خَرَاةٌ: (K:) accord. to ISd, only the dual form of the word is known; and the radical ت and the augmentative ت [by which latter is meant ة] are in the dual alike: (TA:) but Kr and others say that it is dual of خَرَاةٌ, and belongs to this art. (TA in art. خرت.)    </entryFree> <br>\
+<b>خُرْوَةٌ</b>               1     <br>\
+                     خُرْوَةٌ<br>\
+                     خروه<br>\
+                     خروة<br>\
+                  : see the first paragraph in this art.   </entryFree> <br>\
+' } );

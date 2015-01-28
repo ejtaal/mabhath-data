@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;مقا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  مقا<br>\
+&lt;entryFree id=&quot;n38782&quot; key=&quot;مَاقِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاقِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مُوقِيٌ The &lt;i&gt;posterior,&lt;/i&gt; or, as some say, &lt;i&gt;anterior, part&lt;/i&gt; of the eye: (K:) or the &lt;i&gt;inner angle&lt;/i&gt; of the eye, &lt;i&gt;next the nose.&lt;/i&gt; (K, &amp;amp;c., art. ماق.) Mentioned by most of the lexicographers in art. ماق, q. v. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

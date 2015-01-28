@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'خزخَزٌّ A certain kind of cloth, (S, A, K,) well<br>\
+known, (K, TA,) woven of wool and silk: (TA:)<br>\
+and also a kind of cloth entirely of silk; and this<br>\
+is the kind which one is forbidden to ride upon<br>\
+and to sit upon; not the former kind, which is<br>\
+allowable, and was sometimes worn by companions of the Prophet and by the next succeeding generation, as IAth has ascertained: (TA:)<br>\
+derived from خُزَزٌ, (K, TA,) accord. to some:<br>\
+(TA:) or it is the name of a certain beast<br>\
+[thought by Golius to be the beaver]: and<br>\
+afterwards applied to the cloth made of its fur:<br>\
+(Mgh, Msb:) pl. خُزُوزٌ. (S, A, Msb, K.) [Golius<br>\
+seems to derive it from the Persian قَزْ, meaning<br>\
+raw silk; and assigns to it also the meaning of<br>\
+a coarser kind of spun silk.] خُزُوزٌ وَبُزُوزٌ signifies<br>\
+Good cloths, or stuffs, or garments. (A in<br>\
+art. بز.)<br>\
+خُزَزٌ The male of the أَرْنَب [or hare]: (S, A,<br>\
+Msb, K:) or the offspring of the ارنب: (TA:)<br>\
+pl. [of pauc.] أَخِزَّةٌ (K) and [of mult.] خِزَّانٌ.<br>\
+(S, Msb, K.) Hence the saying, مَسُّهُ مَسُّ الخُزَزِ<br>\
+[The feel of him, or it, is like the feel of the male,<br>\
+or young, hare]. (A, TA.)<br>\
+خَزَّازٌ A seller of خَزّ. (TA.)<br>\
+أَرْضٌ مَخَزَّةٌ A land containing, (K * TA,) or<br>\
+abounding with, (TA,) خِزّان, pl. of خُزَزٌ, (K,<br>\
+TA.)<br>\
+' } );

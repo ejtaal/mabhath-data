@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'اذرآذَارُ The sixth of the Greek [or Syrian] months<br>\
+[corresponding to March O. S.]. (K.) [This<br>\
+is not to be confounded with آذَرْ or آذُرْ, which<br>\
+is the ninth month of the Persian calendar.]<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وكح</em>            1                  وكح<br>\
+<b>استوكحت الفِرَاخُ</b>               1     <br>\
+                     استوكحت الفِرَاخُ<br>\
+                     ذ<br>\
+                  <i>The young birds became big, bulky,</i> or <i>coarse.</i> (S, K.)    </entryFree> <br>\
+<b>وُكُحٌ</b>               1     <br>\
+                     وُكُحٌ<br>\
+                     ذ<br>\
+                  <i>Big, bulky,</i> or <i>coarse,</i> young birds: (K:) after the manner of a rel. n., as though pl. of وَاكِحٌ, or وَكُوحٌ, since it cannot be pl. of مُسْتَوْكِحٌ. (TA.)   </entryFree> <br>\
+' } );

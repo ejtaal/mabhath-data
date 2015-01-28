@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قمفطش</em>            1                  قمفطش<br>\
+<b>كَمَا فِيْطُوس</b>               1     <br>\
+                     كَمَا فِيْطُوس<br>\
+                     ذ<br>\
+                   [       <br>\
+      <orth lang=&quot;gr&quot;>χαμαίπιτυς</orth>, <i>the ground-pine</i>]: see عَرْصَفٌ.   </entryFree> <br>\
+' } );

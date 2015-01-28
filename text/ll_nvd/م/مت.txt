@@ -1,0 +1,82 @@
+load_data( { book: 'll_nvd', text: 'مت1<br>\
+مَتَّ, aor.<br>\
+مَتُ3َ, inf. n. مَتٌّ, He extended, or<br>\
+stretched out, (S, K,) a rope, &amp;c. (TA); i. q.<br>\
+مَدَّ (S, K) and مَطَّ and مَغَطَ. (TA.) ―<br>\
+-b2-  مَتَّ<br>\
+فِى السَّيْرِ i. q. مَدَّ. (TA.) ―<br>\
+-b3-  مَتَّ, aor.<br>\
+مَتُ3َ, inf. n.<br>\
+مَتٌّ, He drew [water], or drew up [a bucket],<br>\
+without a pulley. (S, K.) ―<br>\
+-b4-  مَتَّ, aor.<br>\
+مَتُ3َ, inf. n.<br>\
+مَتٌّ; (S, K;) and ↓ مَتْمَتَ, inf. n. مَتْمَتَةٌ; (K;)<br>\
+He sought to bring himself near [to another], or<br>\
+to approach [to him], or to gain access [to him],<br>\
+or to advance himself in [his] favour, (تَوَسَّلَ,)<br>\
+by relationship, (S, K,) or by what is termed<br>\
+حُرْمَة, [see مَاتَّةٌ, below,] or by other means:<br>\
+(TA:) or i. q. تَوَصَّل [which seems here to signify<br>\
+nearly or exactly the same as توسّل] by relationship, or by what is termed دَالَّة [or blandishment,<br>\
+&amp;c.] (L.) ―<br>\
+-b5-  مَتَّ إِلَيْهِ بِالشَّىْءِ He sought to bring<br>\
+himself near to him, &amp;c., (توسّل اليه,) by the<br>\
+thing. (M.) ―<br>\
+-b6-  ↓ مَتْمَتَ He sought to bring<br>\
+himself near, &amp;c., [to another,] by affection, or<br>\
+love, or by relationship. (IAar.) ―<br>\
+-b7-  لَا تَمُتَّاْنِ<br>\
+إِلَى اللّٰهِ بِحَبْلٍ وَلَا تَمُدَّانِ إِلَيْهِ بِسَبَبٍ [Ye two<br>\
+shall not approach, or obtain access, to God by<br>\
+means of any friend, nor shall ye do so by means<br>\
+of any relation]. A trad. (TA.) ―<br>\
+-b8-  مَتَّهُ i. q.<br>\
+طَلَبَ إِلَيْهِ المَتَاتَ, q. v. infra. (L.)<br>\
+3<br>\
+ماتّ فُلَانًا He reminded such a one of what<br>\
+are termed مَوَاتّ [pl. of مَاتَّةٌ, q. v.]. (A.)<br>\
+5<br>\
+تَمَتَّى, originally تَمَتَّتَ, which has not been<br>\
+heard, (like تَظَنَّى for تَظَنَّنَ, TA,) i. q. تَمَطَّى.<br>\
+(K.) ―<br>\
+-b2-  تَمَتَّى فِى الحَبْلِ He bore upon the rope<br>\
+in order to break it, (K,) or to stretch it out.<br>\
+(TA.) See also art. متو.<br>\
+R. Q. 1<br>\
+متمت: see 1, in two places.<br>\
+مَتَّى dial. form of مَتَى, q. v. (K.) It occurs<br>\
+in the following instances:<br>\
+أَلَمْ تَسْأَلِ الأَطَلَالَ مَتَّى عُهُودُهَا<br>\
+[Didst thou not ask the remains of the dwelling,<br>\
+when were their times?] AHát asked As respecting متّى in this hemistich, and he answered,<br>\
+I know not. AHát thinks that it is for مَتَى:<br>\
+or that it may be for مَتًّا, inf. n. of مَتَّ; and<br>\
+that the meaning may be [Didst thou not ask the<br>\
+remains of the dwelling,] whereof the times when<br>\
+men were present there are (or were) long past,<br>\
+or distant, or remote? but he confesses that he<br>\
+does not know. (L.) MF remarks upon it,<br>\
+that it is very extraordinary. (TA.)<br>\
+مَتَاتٌ signifies مَا يُمَتّ بِهِ; (K;) i. e., That<br>\
+whereby one seeks to bring himself near [to<br>\
+another], or, to approach [to him], or, to advance<br>\
+himself in [his] favour; or to gain access [to<br>\
+him]. (TA.) طَلَبَ إِلَيْهِ الَمَتاتَ [He sought the<br>\
+means of drawing near to him, or, of advancing<br>\
+himself in his favour, &amp;c.: or he sought access to<br>\
+him]. (TA.) [See also ↓ مَاتَّة, which signifies<br>\
+the same.]<br>\
+مَاتَّةٌ i. q. حُرْمَةٌ and وَسِيلَةٌ: [the former signifies,<br>\
+Anything that is sacred or inviolable; and here,<br>\
+such a bond, or tie, or the like; or a quality<br>\
+&amp;c. to be regarded as sacred, or inviolable;<br>\
+or that which renders one entitled to respect and<br>\
+reverence: so says IbrD: the latter, a thing<br>\
+whereby one seeks to bring himself near, or to<br>\
+approach, to another, or to advance himself in<br>\
+his favour:] (S, K:) pl. مَوَاتُّ. (S.) [See also<br>\
+مَتَاتٌ, which signifies the same.] ―<br>\
+-b2-  بَيْنَنَا رَحِمٌ<br>\
+مَاتَّةٌ, i. e. قَرِيبَةٌ, Between us is a near relationship. (L.)<br>\
+' } );

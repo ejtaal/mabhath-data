@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ترنجتُرُنْجٌ and تُرُنْجَةٌ: see art. ترج.<br>\
+أُتْرُنْجٌ and أُتْرُنْجَةٌ: see art. ترج.<br>\
+' } );

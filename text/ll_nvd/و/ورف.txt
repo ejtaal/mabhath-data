@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ورف1<br>\
+وَرِفَ<br>\
+, and its inf. n. وَرِيفٌ: see رَفَّ, in two<br>\
+places.<br>\
+' } );

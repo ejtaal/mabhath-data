@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كوم</em>            1                  كوم<br>\
+<b>اِكْتَامَ</b>               1     <br>\
+                     اِكْتَامَ<br>\
+                     ذ<br>\
+                  <i>He walked upon the extremities of his toes, by choice.</i> (TA, voce حَارِقَةٌ, q. v.)   </entryFree> <br>\
+' } );

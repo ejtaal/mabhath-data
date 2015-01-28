@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>عضم</em>            1                  عضم<br>\
+<b>عَضْمٌ</b>               1     <br>\
+                     عَضْمٌ<br>\
+                     ذ<br>\
+                  <i>A winnowing-fork;</i> i. e. the <i>wooden implement</i> (S, ISd, K) <i>with prongs</i> (ISd, K) <i>with which wheat is winnowed:</i> (S, ISd, K:) and عَظْمٌ is a dial. var. thereof: (AHn, TA:) pl. اَعْضِمَةٌ and عُضْمٌ, [the former of pauc. and the latter of mult.,] (K, TA,) both anomalous; the true state of the case being that they formed from عَضْمٌ the pl. عِضَامٌ; and from this, اَعْضِمَةٌ and عُضُمٌ, [of which latter, عُضْمٌ is app. a contraction,] like اَمْثِلَةٌ and مُثُلٌ pls. of مِثَالٌ. (TA.) ―         -b2-  And The <i>board,</i> (S, K,) i. e. the <i>broad board,</i> (TA,) <i>of the plough, at the head of which is the iron</i> [or <i>share</i>] (S, K, TA) <i>that cleaves the earth:</i> and so عَظْمٌ, accord. to AHn. (TA.) ―         -b3-  And The <i>handle,</i> or <i>part that is grasped by the hand, of a bow:</i> (S, K:) and عَظْمٌ is a dial. var. thereof: (AHn, TA:) pl. عِضَامٌ. (K.) ―         -b4-  And The [<i>part of the tail called</i>] عَسِيب [q. v.], (S, K, TA,) or the عُكْوَة [or <i>root of the tail where it is bare of hair,</i> S in art. عكو], (TA,) of the camel, (S, TA,) or of the horse, (ISd, TA,) or of both: (K:) as also ↓ <br>\
+      عِضَامٌ, (K,) of which عِصَامٌ is a dial. var.: (TA: [but see the latter:]) pl. اَعْضِمَةٌ (S, TA) and عُضُمٌ, [both, accord. to analogy, of the latter sing.,] the former of pauc. and the latter of mult. (TA.) ―         -b5-  And <i>A line,</i> or <i>streak, in a mountain, differing from the rest in colour.</i> (K, TA.)       -A2-  Also <i>Mountain goats.</i> (K.)    </entryFree> <br>\
+<b>عِضَامٌ</b>               1     <br>\
+                     عِضَامٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.    </entryFree> <br>\
+<b>عَضُومٌ</b>               1     <br>\
+                     عَضُومٌ<br>\
+                     ذ<br>\
+                  , applied to a she-camel, <i>Hard,</i> or <i>robust,</i> (K, TA,) <i>in her body; strong to journey.</i> (TA.)    </entryFree> <br>\
+<b>عَيْضُومٌ</b>               1     <br>\
+                     عَيْضُومٌ<br>\
+                     ذ<br>\
+                  <i>Edacious; voracious;</i> (Kr, K;) applied to a woman: (Kr, TA:) but عَيْصُومٌ is of higher authority [in this sense]. (TA.) ―         -b2-  And <i>Having a habit of biting;</i> syn. عَضُوضٌ. (K.)   </entryFree> <br>\
+' } );

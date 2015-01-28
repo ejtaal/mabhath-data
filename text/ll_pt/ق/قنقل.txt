@@ -1,0 +1,58 @@
+load_data( { book: 'll_pt', text: '<em>قنقل</em>            1                  قنقل<br>\
+<b>قَنْقَلٌ</b>               1     <br>\
+                     قَنْقَلٌ<br>\
+                     ذ<br>\
+                  <i>Half an</i> <br>\
+                  اـِرْدَبّ. (T, voce اـِرْدَبّ.) See كُرٌّ.   </entryFree> <br>\
+            <div2 n=&quot;qnw and qnY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قنو and قنى<br>\
+<b>قَنِىَ الحَيَا=ءَ</b>               1     <br>\
+                     قَنِىَ الحَيَا=ءَ<br>\
+                     ذ<br>\
+                  <i>He kept to the sense of shame,</i> or <i>modesty;</i> (S, K;) <i>he preserved it:</i> and <i>i. q.</i> <br>\
+                  اِسْتَحْيَى: and ↓ <br>\
+      اِسْتَقْنَى <br>\
+                  <i>he kept to</i> [or <i>preserved</i>] <i>his sense of shame,</i> or <i>modesty.</i> (TA.) ―         -b2-  قَنَا غَنَمًا, and ↓ <br>\
+      اِقْتَنَى, <i>He took for himself, got,</i> or <i>acquired, sheep,</i> or <i>goats</i> [<i>for a permanent possession</i>], <i>not for sale.</i> (JK.) ―         -b3-  قَنَا, aor. يَقْنُو, inf. n. قُنُوٌّ; a dial. var. of قَنَاَ, q. v. (TA.)    </entryFree> <br>\
+<b>قَانَى</b>               1     <br>\
+                     قَانَى<br>\
+                     ذ<br>\
+                  : see قَانَاَ.    </entryFree> <br>\
+<b>اقْتَنَى</b>               1     <br>\
+                     اقْتَنَى<br>\
+                     ذ<br>\
+                  <i>He gained, acquired,</i> or <i>got, for himself,</i> (S, K,) or <i>took for himself,</i> (Mgh,) property, or camels, &amp;amp;c., (S, Mgh,) <i>as a permanent stock, for propagation,</i> (Mgh,) <i>not for merchandise:</i> (S, Mgh:) <i>he made</i> it <i>to be in his possession, not to depart from his hand:</i> (TA:) <i>he acquired</i> it <i>for himself permanently,</i> or <i>for a permanence.</i> See 1.    </entryFree> <br>\
+                     اـِسْتَ١ْ٢َ٣َ<br>\
+                   see 1.    </entryFree> <br>\
+<b>قَنًا</b>               1     <br>\
+                     قَنًا<br>\
+                     ذ<br>\
+                   of the nose: see شَمَمٌ. ―         -b2-  قنا وُشَّق a name given in Egypt to وُشَّق; also called اُشَّق and اُشَّج. (TA in art. اشق.)    </entryFree> <br>\
+<b>قَنَاةٌ</b>               1     <br>\
+                     قَنَاةٌ<br>\
+                     ذ<br>\
+                  <i>A spear-shaft;</i> (Mgh;) <i>a spear</i> (T, S. K) <i>that is hollow, like a cane;</i> (Az, in TA;) <i>a spear with a head affixed to it.</i> (Msb.) ―         -b2-  Hence, <i>A subterranean channel,</i> or <i>conduit, for water.</i> (Mgh.) ―         -b3-  [And A <i>pipe.</i>] ―         -b4-  قَنَاةُ الكُوزِ <br>\
+                  <i>The</i> <br>\
+                  بُلْبُل [or <i>spout</i>] <i>of the</i> <br>\
+                  كوز [or <i>mug</i>], <i>that pours forth the water.</i> (M, K, in art. بل.) ―         -b5-  قَنَاةٌ, said to signify بَقَرَةٌ وَحْشِيَّةٌ: see فَنَاةٌ.    </entryFree> <br>\
+<b>فِنْوَةٌ</b>               1     <br>\
+                     فِنْوَةٌ<br>\
+                     ذ<br>\
+                  : see قِنِيَّةٌ.    </entryFree> <br>\
+<b>قِنْيَةٌ</b>               1     <br>\
+                     قِنْيَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      قِنْوَةٌ Sheep, or goats, <i>taken for oneself, gotten,</i> or <i>acquired,</i> [<i>for a permanent possession,</i>] <i>not for sale.</i> (JK.)    </entryFree> <br>\
+<b>اَقْنَى</b>               1     <br>\
+                     اَقْنَى<br>\
+                     ذ<br>\
+                   in the prov., خَلَاوُكَ اَقْنَى لِحَيايِكَ <br>\
+                  <i>i. q.</i> <br>\
+                  اَلْزَمُ [as meaning <i>Most preservative:</i> see that prov. in art. خلو, and see قَنِىَ الحَيَا=ءَ, above]. (S in art. خلو, and Meyd.)    </entryFree> <br>\
+<b>مُقَانَاةٌ</b>               1     <br>\
+                     مُقَانَاةٌ<br>\
+                     ذ<br>\
+                   The <i>weaving with one thread white and one thread black.</i> (T, voce نِيرٌ.)   </entryFree> <br>\
+' } );

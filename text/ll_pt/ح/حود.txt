@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>حود</em>            1                  حود<br>\
+<b>حَادَ</b>               1     <br>\
+                     حَادَ<br>\
+                     حاد<br>\
+                     حادي<br>\
+                  , aor. يَحُودُ, <i>i. q.</i> <br>\
+                  حَادَ, aor. يَحِيدُ, explained in art. حيد. (K.)    </entryFree> <br>\
+<b>تُحَاوِدُهُ الحُمَّى</b>               1     <br>\
+                     تُحَاوِدُهُ الحُمَّى<br>\
+                     تحاوده الحمى<br>\
+                     تحاوده الحمي<br>\
+                   [like تُعَاوِدُهُ] <i>The fever returns to him repeatedly,</i> or <i>time after time.</i> (K.) ―         -b2-  هُوَ يُحَاوِدُنَا بِالزِّيَارَةِ <br>\
+                  <i>He visits us</i> [<i>repeatedly,</i> or <i>time after times,</i>] <i>during the space of several days.</i> (TA.)   </entryFree> <br>\
+' } );

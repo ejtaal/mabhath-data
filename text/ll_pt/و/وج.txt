@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وج</em>            1                  وج<br>\
+<b>وجٌّ</b>               1     <br>\
+                     وجٌّ<br>\
+                     ذ<br>\
+                  <i>A kind of medicine;</i> (S, K;) <i>certain twigs,</i> or <i>rods, with which one fumigates;</i> (TA;) or <i>which are used medicinally</i> or <i>remedially;</i> (T;) [<i>acorum,</i> (Golius,) or <i>acorus; sweet-cane,</i> or, as some say, <i>galangal:</i> see Diosc., I. i., c. 2., referred to by Golius:] thought by ElJawáleekee to be not pure Arabic; i. e., an arabicized word, from the Persian [وَجْ]: (TA:) so says J. (S.)   </entryFree> <br>\
+' } );

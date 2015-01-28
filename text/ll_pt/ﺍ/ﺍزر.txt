@@ -1,0 +1,143 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ازر&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ازر<br>\
+&lt;entryFree id=&quot;n654&quot; key=&quot;اَزَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَزَرَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِرَ<br>\
+                  &lt;/form&gt;, (TK,) inf. n. اَزْرٌ. (IAar, K,) &lt;i&gt;It surrounded,&lt;/i&gt; or &lt;i&gt;encompassed, it,&lt;/i&gt; (IAar,* K,* TA,) namely, a thing. (TK.) ―         -b2-  See also 2, in two places: and see 3.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n655&quot; key=&quot;ازّرهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ازّرهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْزِيرٌ, &lt;i&gt;He put on him,&lt;/i&gt; or &lt;i&gt;clad him with, an&lt;/i&gt; <br>\
+                  اـِزَار; (S;) as also ↓ <br>\
+      اَزَرَهُ. (TA.) ―         -b2-  &lt;i&gt;It covered it:&lt;/i&gt; (K,* TA:) as in the phrase, ازّر النَّبْتُ الاَرْضَ <br>\
+                  &lt;i&gt;The herbage covered the ground,&lt;/i&gt; or &lt;i&gt;land.&lt;/i&gt; (TA.) ―         -b3- (tropical:)  &lt;i&gt;He repaired the lower part of it,&lt;/i&gt; (namely, a wall,) &lt;i&gt;and thus made that part like an&lt;/i&gt; <br>\
+                  اـِزَار: (Mgh, Msb:*) &lt;i&gt;he cased&lt;/i&gt; [&lt;i&gt;the lower part of&lt;/i&gt;] &lt;i&gt;it,&lt;/i&gt; (namely, a wall,) &lt;i&gt;and thus strengthened it.&lt;/i&gt; (A.) ―         -b4- (tropical:) &lt;i&gt;He strengthened him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; (K, TA;) as also ↓ <br>\
+      اَزَرَهُ, (Fr,) inf. n. اَزْرٌ (Fr, K.) [See also 3.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n656&quot; key=&quot;ا=زِرِهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=زِرِهُ<br>\
+                     ا=زره<br>\
+                     ا=زرة<br>\
+                  &lt;/form&gt;, (Fr, S, A, Msb,) for which the vulgar say وَازَرَهُ, (Fr, S,) the latter an extr. form, (K,) inf. n. مُوَازَرَةٌ; (Msb, K;) and ↓ <br>\
+      اَزَرَهُ; (TA;) &lt;i&gt;He aided, assisted,&lt;/i&gt; or &lt;i&gt;helped, him;&lt;/i&gt; (Fr, S, A, Msb, K;*) &lt;i&gt;and strengthened him.&lt;/i&gt; (Msb.) [See also 2.] You say, ا=زَرْتُ الرَّخُلَ عَلَ فُلَانٍ <br>\
+                  &lt;i&gt;I aided, assisted,&lt;/i&gt; or &lt;i&gt;helped, and strengthened, the man against such a one.&lt;/i&gt; (Zj.) And اَرَدْتُ كَذَا فَا=زَرَنِى <br>\
+                  عَلَيْهِ فُلَانٌ <br>\
+                  &lt;i&gt;I desired to do such a thing, and such a one aided, assisted,&lt;/i&gt; or &lt;i&gt;helped, me to do it.&lt;/i&gt; (A, TA.) ―         -b2-  ا=زَرَ الزَّرْعُ بَعْضُهُ بَعْضًا, (A,) inf. n. as above, (K,) (tropical:) &lt;i&gt;The seed-produce became tangled,&lt;/i&gt; or &lt;i&gt;luxuriant,&lt;/i&gt; (A, K,) &lt;i&gt;one part reaching to another,&lt;/i&gt; (A,) &lt;i&gt;and one part strengthening another;&lt;/i&gt; (K;) as also الزَّرْعُ ↓ <br>\
+      تازّر: (TA:) or النَّبْتُ ↓ <br>\
+      تازّر signifies &lt;i&gt;the herbage became tangled,&lt;/i&gt; or &lt;i&gt;luxuriant, and strong.&lt;/i&gt; (S.) ―         -b3-  ا=زَرَ الشَّىْءُ الشَّىْءَ, (TA,) inf. n. as above, (K,) &lt;i&gt;The thing equalled,&lt;/i&gt; or &lt;i&gt;was equal to, the thing: the thing matched,&lt;/i&gt; or &lt;i&gt;corresponded to, the thing.&lt;/i&gt; (K,* TA.) In some copies of the K, in the place of المُسَاوَاةُ, is found المُوَاسَاةُ: the former is the correct reading. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَزَّرَ<br>\
+                  &lt;/form&gt; see 8, in two places: ―         -b2-  and see also 3, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n657&quot; key=&quot;اِيتَزَرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِيتَزَرَ<br>\
+                     ايتزر<br>\
+                  &lt;/form&gt;, (S, Mgh, Msb,) originally اْيْتَزَرَ, (Mgh, Msb,) and ↓ <br>\
+      تازّر, (S,) or ايتزر بِالاـِزَارِ, and بِهِ ↓ <br>\
+      تازَر, (K,) &lt;i&gt;He put on,&lt;/i&gt; or &lt;i&gt;wore, the&lt;/i&gt; <br>\
+                  اـِزَارَ: (S, Mgh, Msb, K:) اِتَّزَرَ is wrong, (Nh,) or vulgar, (Mgh,) and should not be said: it occurs in certain of the trads., but is probably a corruption of the relaters: (K:) or it is a correct form, [like اتَّخَذَ &amp;amp;c., (see art. اخذ,)] (Msb, MF,) accord. to ElKarmánee and Sgh and others. (MF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n658&quot; key=&quot;اَزْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزْرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Strength.&lt;/i&gt; (IAar, S, A, K.) ―         -b2-  And (or as some say, TA) &lt;i&gt;Weakness:&lt;/i&gt; thus bearing two contr. significations. (IAar, K.) ―         -b3-  And The &lt;i&gt;back.&lt;/i&gt; (IAar, S, K.) اُشْدُدْ بِهِ اَزْرِى, in the Kur [xx. 32], means &lt;i&gt;Strengthen Thou by him my back:&lt;/i&gt; (IAar, S:) or &lt;i&gt;confirm Thou by him my strength:&lt;/i&gt; or &lt;i&gt;strengthen Thou by him my weakness.&lt;/i&gt; (IAar.) ―         -b4-  &lt;i&gt;Aid, assistance,&lt;/i&gt; or &lt;i&gt;help.&lt;/i&gt; (Msb.) ―         -b5-  Also, (S,) or ↓ <br>\
+      اُزْرٌ, (K,) The &lt;i&gt;place,&lt;/i&gt; (K,) or &lt;i&gt;part of&lt;/i&gt; [&lt;i&gt;each of&lt;/i&gt;] &lt;i&gt;the two flanks,&lt;/i&gt; (S,) &lt;i&gt;where the&lt;/i&gt; <br>\
+                  اـِزَار <br>\
+                  &lt;i&gt;is tied in a knot.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n659&quot; key=&quot;اُزْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُزْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَزْرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n660&quot; key=&quot;اـِزْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِزْرٌ<br>\
+                     ازار<br>\
+                     ازر<br>\
+                     ازرى<br>\
+                     اـزار<br>\
+                     ازر<br>\
+                     وزر<br>\
+                     زار<br>\
+                     زر<br>\
+                     زرى<br>\
+                     آزر<br>\
+                  &lt;/form&gt;: see اـِزَارٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n661&quot; key=&quot;اـِزْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِزْرَةٌ<br>\
+                     ازار<br>\
+                     ازر<br>\
+                     ازرى<br>\
+                     ازره<br>\
+                     اـزار<br>\
+                     ازره<br>\
+                     ازرة<br>\
+                     وزر<br>\
+                     زار<br>\
+                     زر<br>\
+                     زرى<br>\
+                     آزر<br>\
+                     آزره<br>\
+                  &lt;i&gt;Any particular mode,&lt;/i&gt; or &lt;i&gt;manner, of putting on,&lt;/i&gt; or &lt;i&gt;wearing, the&lt;/i&gt; <br>\
+                  اـِزَار. (S, K.) You say, اـِنَّهُ لَحَسَنُ الاـِزْرَةِ [&lt;i&gt;Verily he has a good manner of putting on,&lt;/i&gt; or &lt;i&gt;wearing, the&lt;/i&gt; <br>\
+                  ازار]. (A.) And اِيتَزَرَ اـِزْرَةً حَسَنَةً <br>\
+                  &lt;i&gt;He put on,&lt;/i&gt; or &lt;i&gt;wore, the&lt;/i&gt; <br>\
+                  ازار <br>\
+                  &lt;i&gt;in&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;53&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;a good manner.&lt;/i&gt; (S.) And it is said in a trad., اـِزْرَةُ المُوْمِنِ اـِلَى نِصْفِ السَّاقِ وَلَا جُنَاحَ عَلَيْهِ فِيمَا <br>\
+                  بَيْنَهُ وَبَيْنَ الكَعْبَيْنِ [&lt;i&gt;The believer&#39;s mode of wearing the&lt;/i&gt; <br>\
+                  ازار <br>\
+                  &lt;i&gt;is&lt;/i&gt; to have it reaching &lt;i&gt;to the middle of the shank; and there shall be no sin chargeable to him with respect to what is between that and the two ankles&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n662&quot; key=&quot;اـِزَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِزَارٌ<br>\
+                     ازار<br>\
+                     اـزار<br>\
+                     ازار<br>\
+                  &lt;/form&gt;, masc. and fem., and ↓ <br>\
+      اـِزَارَةٌ, and ↓ <br>\
+      مِيْزَرٌ, (S, Msb, K,) and ↓ <br>\
+      مِيْزَرَةٌ, (Lh,) and ↓ <br>\
+      اـِزْرٌ, (K,) &lt;i&gt;A thing well known;&lt;/i&gt; (S, Msb;) [&lt;i&gt;a waist-wrapper;&lt;/i&gt;] &lt;i&gt;a wrapper for covering,&lt;/i&gt; or &lt;i&gt;which covers, the lower part of the body,&lt;/i&gt; [&lt;i&gt;from the waist downwards, concealing the thighs, and generally the upper half, or more, of the shanks,&lt;/i&gt; (see اَزْرٌ, or اُزْرٌ, and اـِزْرَةٌ,)] &lt;i&gt;not sewed:&lt;/i&gt; or &lt;i&gt;such as is beneath the shoulders,&lt;/i&gt; or &lt;i&gt;on the lower half of the body:&lt;/i&gt; the رِدَا=ءِ is that which covers the upper half of the body; or that which is upon the shoulders and back; and this also is not sewed: each of these explanations is correct: (MF:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مِلْحَفَةٌ: (K:) [in the present day, اـِزَار, vulgarly pronounced اـِيزَار, is also applied to &lt;i&gt;a woman&#39;s outer covering,&lt;/i&gt; or &lt;i&gt;wrapper, of white calico;&lt;/i&gt; described in my “Modern Egyptians:” and ↓ <br>\
+      مِيْزَرٌ, to &lt;i&gt;a pair of drawers:&lt;/i&gt; and app., in post-classical writings, to &lt;i&gt;anything resembling a waist-wrapper, worn on any part of the person, and in any manner; sometimes as a turban:&lt;/i&gt;] and اـِزَارٌ also signifies &lt;i&gt;anything with which one is veiled, concealed,&lt;/i&gt; or &lt;i&gt;covered:&lt;/i&gt; (Th, K:) its pl. is ا=زِرَةٌ, (S, Msb, K,) a pl. of pauc., (S, Msb,) and (of mult., S, Msb) اُزُرٌ (S, Msb, K) and اُزْرٌ, (K,) which is of the dial. of Temeem, or, accord. to MF, a contraction of اُزُرٌ: (TA:) and the pl. of ميزر is مَا=زِرُ (Msb.) You say, ↓ <br>\
+      شَدَّ لِلاَمْرِ مِيْزَرَهُ (tropical:) &lt;i&gt;He prepared himself for the thing, affair,&lt;/i&gt; or &lt;i&gt;business.&lt;/i&gt; (A.) And ↓ <br>\
+      شَدَّ المِيْزَرَ (tropical:) &lt;i&gt;He abstained from sexual intercourse:&lt;/i&gt; or &lt;i&gt;he prepared himself for religious service.&lt;/i&gt; (TA, from a trad.) And اِخْضَرَّ اـِزَارِى (tropical:) (&lt;i&gt;The place of&lt;/i&gt;) &lt;i&gt;my&lt;/i&gt; <br>\
+                  ازار <br>\
+                  &lt;i&gt;became black:&lt;/i&gt; or, rather, &lt;i&gt;became of a&lt;/i&gt; [&lt;i&gt;blackish&lt;/i&gt;] &lt;i&gt;hue inclining to green:&lt;/i&gt; because the hair when it first grows is of that hue. (Har p. 494.) And دَارِى اـِزَارِى [&lt;i&gt;My house is my covering&lt;/i&gt;]: said by Es-Sarawee to IAar, on the latter&#39;s expressing his surprise at the former&#39;s walking in his house naked. (TA.) ―         -b2- (tropical:)  &lt;i&gt;Continence; chastity.&lt;/i&gt; (K, TA.) You say, فُلَانٌ عَفِيفُ الاـِ زَارِ, and ↓ <br>\
+      المِيْزَرِ (tropical:) &lt;i&gt;Such a one is continent, abstaining from women with whom it is unlawful to him to have commerce:&lt;/i&gt; (A &#39;Obeyd:) and in like manner, فُلَانٌ طَيّبُ الاـِزَارِ. (TA in art. حجز.) ―         -b3- (tropical:)  One&#39;s &lt;i&gt;wife:&lt;/i&gt; (S, M, K:) or one&#39;s &lt;i&gt;self:&lt;/i&gt; (IKt, Suh:) or one&#39;s &lt;i&gt;wife and family:&lt;/i&gt; or one&#39;s &lt;i&gt;family and self.&lt;/i&gt; (TA.) One says, فِدًى <br>\
+                  لَكَ اـِزَارِى(tropical:) &lt;i&gt;May my wife be a ransom for thee:&lt;/i&gt; (Aboo-&#39;Omar El-Jarmee, S:) or &lt;i&gt;myself.&lt;/i&gt; (IKt, Suh.) And it is said in a trad. respecting the vow of allegiance made at the &#39;Akabeh, لَنَمْنَعَنَّكَ <br>\
+                  مِمَّا نَمْنَعُ مِنْهُ اُزُرَنَا (tropical:) &lt;i&gt;We will assuredly defend thee from that from which we defend our wives and our families:&lt;/i&gt; or &lt;i&gt;ourselves.&lt;/i&gt; (TA.) ―         -b4- (tropical:)  &lt;i&gt;A ewe.&lt;/i&gt; (K, TA.) [But see شَاةٌ مُوَزَّرَةٌ.] And اـِزَارْ اـِزَارْ is &lt;i&gt;A cry by which a ewe is called to be milked.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n663&quot; key=&quot;اـِزَارَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِزَارَةٌ<br>\
+                     ازار<br>\
+                     ازاره<br>\
+                     اـزار<br>\
+                     اـزاره<br>\
+                     ازاره<br>\
+                     ازارة<br>\
+                  &lt;/form&gt;: see اـِزَارٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n664&quot; key=&quot;فَرَسٌ ا=زَرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَرَسٌ ا=زَرُ<br>\
+                     فرس ا=زر<br>\
+                  &lt;/form&gt;, and اَزْرَا=ءُ, [which is the fem.,](tropical:)  &lt;i&gt;A horse,&lt;/i&gt; and &lt;i&gt;a mare, white in the hinder part,&lt;/i&gt; (A, TA,) which is the place of the اـِزَار of a man; (TA;) [i. e., it corresponds to the lower part of the body of a man:] when the whiteness descends to the thighs, the epithet مَسَرْوَلٌ is employed: (A:) or the former signifies &lt;i&gt;a horse white in the thighs, and having his fore parts black,&lt;/i&gt; or &lt;i&gt;of any colour:&lt;/i&gt; (AO, K:) pl. اُزْرٌ (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n665&quot; key=&quot;مِيْزَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْزَرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِزَارٌ, in five places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n666&quot; key=&quot;مِيْزَرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْزَرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِزَارٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n667&quot; key=&quot;شَاةٌ مُوَزَّرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَاةٌ مُوَزَّرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:) &lt;i&gt;A ewe,&lt;/i&gt; or &lt;i&gt;she-goat, that is&lt;/i&gt; [&lt;i&gt;black in the hinder part&lt;/i&gt;] &lt;i&gt;as though attired with a black&lt;/i&gt; <br>\
+                  اـِزَار. (A; [in which is added, وَيُقَالُ لَهَا اـِزَارٌ, which may mean, “and one says, She has an ازار;” or “and one calls her ازار;” but more probably the former is meant thereby;] and K; [in which نَعْجَةٌ, “a ewe,” is put in the place of شَاةٌ.]) ―         -b2-  نَصْرٌ مُوَزَّرٌ (tropical:) &lt;i&gt;Aid&lt;/i&gt; [&lt;i&gt;made&lt;/i&gt;] &lt;i&gt;effective and powerful:&lt;/i&gt; (K, TA:) occurring in a trad. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n668&quot; key=&quot;مَاْزُورَاتٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْزُورَاتٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; for مَوْزُورَاتٍ: see art. وزر.   &lt;/entryFree&gt; <br>\
+' } );

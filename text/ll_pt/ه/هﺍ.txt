@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ها&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ها<br>\
+&lt;entryFree id=&quot;n40798&quot; key=&quot;هَاْهَاَ بِالاـِبِلِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     هَاْهَاَ بِالاـِبِلِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (El-Umawee, S, K,) inf. n. هِيهَا=ءٌ and هَاْهَا=ءٌ, (K,) the latter extr., (TA,) [see ظَاْظَاَ,] &lt;i&gt;He called the camels to food,&lt;/i&gt; or &lt;i&gt;provender, by the cry&lt;/i&gt; <br>\
+                  هِيْ هِيْ: (S, K:) or he &lt;i&gt;chid&lt;/i&gt; them, (زَجَرَهَا), by the cry هَاْهَاْ. (K.) [See also arts. جا and جيا.] ―         -b2-  هَاْهَاَ, inf. n. هَاْهَا=ءٌ, &lt;i&gt;He chid&lt;/i&gt; a dog. (TA.) ―         -b3-  &lt;i&gt;He called&lt;/i&gt; a dog. (TA.) ―         -b4-  هَاْهَاَ, inf. n. هَاْهَا=ءٌ, &lt;i&gt;He laughed loud and long:&lt;/i&gt; [a word imitative of the sound]. (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40799&quot; key=&quot;هِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, subst. from هَاْهَاَ, [&lt;i&gt;A call to camels to food,&lt;/i&gt; or &lt;i&gt;provender&lt;/i&gt;]. (S, K.) هِىْءٌ and جِىْءٌ are said to be thus written by Az&#39;s own hand, with kesr: and are thus written in the Jáme&#39; [of Kz]. (L.) [See arts. جا and جيا.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40800&quot; key=&quot;هَاْهَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَاْهَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and هَاْهَا=ءٌ One &lt;i&gt;who laughs loud and long.&lt;/i&gt; (K, TA.) ―         -b2-  جَارِيَةٌ هَاْهَاَةٌ <br>\
+                  &lt;i&gt;A damsel who laughs loud and long.&lt;/i&gt; (Lh, TA.)   &lt;/entryFree&gt; <br>\
+' } );

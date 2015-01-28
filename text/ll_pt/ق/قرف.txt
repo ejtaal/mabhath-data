@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>قرف</em>            1                  قرف<br>\
+<b>قَارَفَهُ</b>               1     <br>\
+                     قَارَفَهُ<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became, near to it;</i> meaning some base thing, or the like. (TA.) See قَرَفٌ.    </entryFree> <br>\
+<b>قَرَفٌ</b>               1     <br>\
+                     قَرَفٌ<br>\
+                     ذ<br>\
+                   The <i>mixing with others;</i> [and particularly <i>with others who are diseased</i> or <i>the like</i>]; a subst. from ↓ <br>\
+      مُقَارَفَةٌ: (K:) the <i>being near to</i> [<i>a person,</i> or <i>persons,</i> or <i>a place, infected with</i>] <i>disease:</i> (S, TA:) the <i>being near to pestilence,</i> or <i>epidemic disease.</i> (T in art. تلف.) See تَلَفٌ.    </entryFree> <br>\
+<b>اَعْرَضَتِ القِرْفَةُ</b>               1     <br>\
+                     اَعْرَضَتِ القِرْفَةُ<br>\
+                     ذ<br>\
+                   signifies اـِتَّسَعَتْ: (TA, art. عرض:) and اِتَّسَعَتْ قِرْفَتُهُ signifies كَثُرَ مَنْ يَتَّهِمُهُ. (TA, art. لبس.) See voce عَرُضَ.    </entryFree> <br>\
+<b>مَقْرِفٌ</b>               1     <br>\
+                     مَقْرِفٌ<br>\
+                     ذ<br>\
+                  <i>A place of paring off:</i> see an ex. voce صَمْغٌ.   </entryFree> <br>\
+' } );

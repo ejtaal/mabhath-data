@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قهل5<br>\
+تَقَهَّلَ<br>\
+He was, or became, unfrequent in<br>\
+washing and cleansing his person; slovenly with<br>\
+respect to his person. (K.)<br>\
+' } );

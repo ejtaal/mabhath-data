@@ -1,0 +1,51 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اتب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اتب<br>\
+&lt;entryFree id=&quot;n135&quot; key=&quot;اَتَّبَهَا اـِتْبًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَتَّبَهَا اـِتْبًا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, K, [but in the latter the pronoun is masc.,]) and بِاـتْبٍ, (M,) or simply اتّبها, (S,) inf. n. تَاْتِيبٌ, (S, K,) &lt;i&gt;He put on her,&lt;/i&gt; or &lt;i&gt;clad her with, an&lt;/i&gt; <br>\
+                  اـِتْب: (S, M, K:) or اتّبها signifies &lt;i&gt;he put on her,&lt;/i&gt; or &lt;i&gt;clad her with, a shift.&lt;/i&gt; (AZ, T.) ―         -b2-  اُتِّبَ, (M, K,) inf. n. as above, (K,) &lt;i&gt;It&lt;/i&gt; (a garment, or piece of cloth,) &lt;i&gt;was made into an&lt;/i&gt; <br>\
+                  اتْب. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n136&quot; key=&quot;تاتّب بِاتْبٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاتّب بِاتْبٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, K,) and ↓ <br>\
+      ايتتب, [written with the disjunctive alif اِيتَتَبَ], (M,) or ↓ <br>\
+      ايتبّ, (K, [but this I think a mistranscription,]) &lt;i&gt;He put on himself,&lt;/i&gt; or &lt;i&gt;clad himself with, an&lt;/i&gt; <br>\
+                  اـِتْب: (M, K:) or ↓ <br>\
+      ايتتبت, alone, &lt;i&gt;she put on herself,&lt;/i&gt; or &lt;i&gt;clad herself with, an&lt;/i&gt; <br>\
+                  اـِتْب. (AZ, T, S, M.) ―         -b2-  تاتّب الدِّرْعَ وَ السِّلَاحَ (assumed tropical:)  &lt;i&gt;He put on&lt;/i&gt; (i. e. on himself) &lt;i&gt;the coat of mail, and the arms,&lt;/i&gt; or &lt;i&gt;weapons.&lt;/i&gt; (A.) And تاتّب القَوْسَ (assumed tropical:) &lt;i&gt;He put forth his shoulderjoints from the belt of the bow,&lt;/i&gt; [&lt;i&gt;the belt being across his breast,&lt;/i&gt;] &lt;i&gt;so that the bow was on his shoulder-blades:&lt;/i&gt; (A:) accord. to AHn, (M,) تَاَتُّبٌ signifies (assumed tropical:)  a man&#39;s &lt;i&gt;putting the suspensory of the bow across the breast, and putting forth the shoulder-joints from it,&lt;/i&gt; (M, K,) &lt;i&gt;so that the bow is on the shoulder-joints:&lt;/i&gt; (M:) and you say also, تاتّب قَوْسَهُ عَلَى ظَهْرِه (assumed tropical:)  [&lt;i&gt;he put his bow in the manner above described upon his back&lt;/i&gt;]. (S.) ―         -b3-  [And hence,] تاتّب signifies also (assumed tropical:)  &lt;i&gt;He prepared himself,&lt;/i&gt; or &lt;i&gt;made himself ready,&lt;/i&gt; (K,) لِلاَمْرِ [&lt;i&gt;for the affair&lt;/i&gt;]. (TK.) ―         -b4-  And (assumed tropical:)  &lt;i&gt;He acted,&lt;/i&gt; or &lt;i&gt;behaved, with forced hardness, firmness, strength, hardiness, courage,&lt;/i&gt; or &lt;i&gt;vehemence.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَتَبَ<br>\
+                  &lt;/form&gt; see 5, in two places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;9&lt;/itype&gt;        <br>\
+                     اـِاْتَبَّ<br>\
+                  &lt;/form&gt; see 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n137&quot; key=&quot;اـِتْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِتْبٌ<br>\
+                     اتب<br>\
+                     اتب<br>\
+                     تاب<br>\
+                     تب<br>\
+                  &lt;/form&gt; (T, S, M, A, K) and ↓ <br>\
+      مِيْتَبَةٌ (M, K) &lt;i&gt;A&lt;/i&gt; <br>\
+                  بَقِير, (S,) or بَقِيرَة, (M, K,) i. e., (S, M, [but in the K what here follows is given as a meaning distinct from that of بقيرة,]) &lt;i&gt;a&lt;/i&gt; <br>\
+                  بُرْد [q. v.], (S, M, K,) or &lt;i&gt;piece of cloth,&lt;/i&gt; (S, A,) &lt;i&gt;which is slit&lt;/i&gt; (S, M, A, K) &lt;i&gt;in the middle,&lt;/i&gt; (S,) &lt;i&gt;and worn by a woman,&lt;/i&gt; (A, K,) &lt;i&gt;who throws it upon her neck,&lt;/i&gt; (S, M,) [&lt;i&gt;putting her head through the slit;&lt;/i&gt;] &lt;i&gt;having neither an opening at the bosom&lt;/i&gt; (a جَيْب), &lt;i&gt;nor sleeves:&lt;/i&gt; (S, M, A, K:) and &lt;i&gt;a woman&#39;s shift:&lt;/i&gt; (T, M, K:) and, (K,) or accord. to some, (M,) &lt;i&gt;a garment that is short, reaching half-way down the shank:&lt;/i&gt; (M, K:) or [&lt;i&gt;a garment like&lt;/i&gt;] &lt;i&gt;drawers,&lt;/i&gt; or &lt;i&gt;trousers, without legs;&lt;/i&gt; (M, K;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  نُقْبَهٌ: (M:) or &lt;i&gt;a shirt without sleeves,&lt;/i&gt; (S voce بَقِيرٌ, M, K,) &lt;i&gt;worn by women:&lt;/i&gt; (S ubi suprà:) the first explanation alone is given in most lexicons: (TA:) some say that &lt;i&gt;it is different from the&lt;/i&gt; <br>\
+                  اـِزَار; that it &lt;i&gt;has no band like that of drawers&lt;/i&gt; or &lt;i&gt;trousers, and is not sewed together after the manner of drawers&lt;/i&gt; or &lt;i&gt;trousers, but is a shirt of which the two sides are not sewed together:&lt;/i&gt; (M:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  عِلْقَةٌ and صِدَارٌ and شَوْذَرٌ; all signifying one and the same thing: (T:) pl. [of pauc.] ا=تَابٌ (M, K [in the CK and a MS. copy of the K written اَتابٌ]) [originally اَاْتَابٌ which is mentioned as one of the pls. by MF] and ا=تُبٌ [originally اَاْتُبٌ which is also mentioned as one of the pls. by MF] and by transposition اَتْوُبٌ, (MF,) and [of mult.] اُتُوبٌ, (S,) or اـِتَابٌ, (M,) or both. (K.) ―         -b2-  [Hence,] اـتْبٌ also signifies (assumed tropical:)  The &lt;i&gt;husk&lt;/i&gt; of barley. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n138&quot; key=&quot;مِيْتَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْتَبٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;wrapper,&lt;/i&gt; or &lt;i&gt;wrapping garment, such as is called&lt;/i&gt;] مِشْمَلٌ. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n139&quot; key=&quot;مِيْتَبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْتَبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِتْبٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n140&quot; key=&quot;مُوَتَّبُ الظُّفُرِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَتَّبُ الظُّفُرِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  A man &lt;i&gt;whose nail is crooked.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'بيلونبَيْلُونٌ [Fullers&#39; earth, which is used for scouring cloths, and is sometimes used in the bath,<br>\
+instead of soap;] the yellow [or rather yellowish,<br>\
+or yellowish gray, and sometimes white, or<br>\
+whitish,] earth known by the name of طَفْل.<br>\
+(TA, from Esh-Shiháb El-&#39;Ajamee.)<br>\
+' } );

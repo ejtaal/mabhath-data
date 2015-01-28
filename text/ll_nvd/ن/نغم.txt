@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'نغم1<br>\
+نَغَمَ<br>\
+, aor.<br>\
+نَغِمَ<br>\
+and<br>\
+نَغَمَ<br>\
+, He spoke in a low,<br>\
+gentle, or soft, voice or tone: (S, Msb:) [he<br>\
+spoke in an undertone:] he used such a voice in<br>\
+singing: (K:) or he modulated his voice, or<br>\
+made melody, in singing. (TK.) See جرس.<br>\
+2<br>\
+تَنْغِيمٌ<br>\
+: see شِينٌ.<br>\
+5<br>\
+تَنَغَّمَ<br>\
+: see جَرَسَ.<br>\
+نَغْمَةٌ<br>\
+Gentle-toned speech; syn. جَرْسُ الكَلاَمِ:<br>\
+(Msb:) and sweetness of voice, or melody, in<br>\
+recitation [and in singing]. (S, Msb.) ―<br>\
+-b2-  [Also,<br>\
+A musical sound, or note:] a melody: see طَرْقٌ:<br>\
+sweet sound: pl. نَغَمَاتٌ. (KL.)<br>\
+مُنَاغَمَةٌ<br>\
+: see voce بَا غَمَهُ.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لهذم</em>            1                  لهذم<br>\
+<b>لَهْذَمٌ</b>               1     <br>\
+                     لَهْذَمٌ<br>\
+                     ذ<br>\
+                  <i>A sharp spear-head:</i> see an ex. in a verse of Zuheyr, cited voce زُجٌّ.   </entryFree> <br>\
+' } );

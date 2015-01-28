@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ينميَنَمَةٌ<br>\
+: see حَلَمَةٌ.<br>\
+' } );

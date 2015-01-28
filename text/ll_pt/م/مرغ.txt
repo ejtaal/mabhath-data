@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>مرغ</em>            1                  مرغ<br>\
+<b>مَرَّغَ</b>               1     <br>\
+                     مَرَّغَ<br>\
+                     ذ<br>\
+                  <i>He rolled,</i> or <i>turned over,</i> a beast of carriage, in the dust. (K.) ―         -b2-  مَرَّغَ <br>\
+                  <i>He smeared, seasoned, imbued,</i> or <i>soaked,</i> a mess of ثَرِيدِ, <i>with grease,</i> or <i>gravy,</i> or <i>dripping; i. q.</i> <br>\
+                  رَوَّغَ, and دَسَّمَ, and سَغْبَلَ. (TA in art. روغ.)    </entryFree> <br>\
+<b>مَارَغَهُ</b>               1     <br>\
+                     مَارَغَهُ<br>\
+                     ذ<br>\
+                   [<i>He rolled with him upon the ground,</i> or <i>in the dust</i>]; said of a man after his wrestling with another. (TA in art. رسغ.) See 3, in that art.   </entryFree> <br>\
+' } );

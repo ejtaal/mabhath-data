@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>كظم</em>            1                  كظم<br>\
+<b>كَظَمَ غَيْظَهُ</b>               1     <br>\
+                     كَظَمَ غَيْظَهُ<br>\
+                     ذ<br>\
+                  <i>He repressed,</i> or <i>restrained, his wrath,</i> or <i>rage.</i> (K.) ―         -b2-  كَظَمَ, aor.      <br>\
+                     كَظِمَ<br>\
+                  , inf. n. كَظْمٌ, <i>He restrained himself.</i> (TA.) ―         -b3-  مَا يَكْظِمُ <br>\
+                  عَلَى جِرَّةٍ; and لَا يَكْظِمٌ عَلَى جِرَّتِهِ: see جِرَّةٌ. ―         -b4-  كَظَمَ عَلَى غَيْظِهِ <br>\
+                  <i>i. q.</i> <br>\
+                  كَظَمَ غَيْظَهُ. (TA.)    </entryFree> <br>\
+<b>كَظَايِمُ</b>               1     <br>\
+                     كَظَايِمُ<br>\
+                     ذ<br>\
+                   [pl. of كِظَامَةٌ] <i>Subterranean conduits for water.</i> (TA in art. قنو.)   </entryFree> <br>\
+' } );

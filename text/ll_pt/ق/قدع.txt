@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قدع</em>            1                  قدع<br>\
+<b>قَدَعَ فَرَسَهُ</b>               1     <br>\
+                     قَدَعَ فَرَسَهُ<br>\
+                     ذ<br>\
+                  <i>He pulled in his horse by the bridle and bit, to stop him;</i> (S, K;) <i>he curbed,</i> or <i>restrained, him.</i> (S.) ―         -b2-  هُوَ الفَحْلُ لَا يُقْدَعُ <br>\
+                  اَنْفُهُ: see اَنْفٌ; and see قرع.   </entryFree> <br>\
+' } );

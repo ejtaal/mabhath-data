@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قرطل</em>            1                  قرطل<br>\
+<b>قِرْطَالَةٌ</b>               1     <br>\
+                     قِرْطَالَةٌ<br>\
+                     ذ<br>\
+                  <i>An ass&#39;s pannier, one of a pair.</i> See كُوَارَةٌ.   </entryFree> <br>\
+' } );

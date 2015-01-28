@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نهقالنَّوَاهِقُ<br>\
+The channels of the tears of a horse.<br>\
+(M in art. سم.)<br>\
+' } );

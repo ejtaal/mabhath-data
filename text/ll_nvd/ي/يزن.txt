@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'يزنيَزَنِىٌّ<br>\
+and أَيْزَنِىٌّ, applied to a spear: see أَزْأَنِى,<br>\
+in art. زأن.<br>\
+' } );

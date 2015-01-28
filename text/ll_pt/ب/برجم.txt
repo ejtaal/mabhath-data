@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>برجم</em>            1                  برجم<br>\
+<b>بُرْجُمَةٌ</b>               1     <br>\
+                     بُرْجُمَةٌ<br>\
+                     برجمه<br>\
+                     برجمة<br>\
+                     رجم<br>\
+                     رجمة<br>\
+                   (in the Ham p. 352 بُرْجُمٌ) is the sing. of بَرَاجِمُ (S, Mgh, Msb, K) and بُرْجُمَاتٌ; (T, TA;) and signifies [<i>A knuckle,</i> or <i>finger-joint;</i>] the <i>outer,</i> or the <i>inner, joint,</i> or <i>place of division, of the fingers:</i> and (as some say, TA) the <i>middle toe of any bird:</i> (K:) or بَرَاجِمُ signifies all the <i>finger-joints;</i> (A&#39;Obeyd, K;) as also رَوَاجِمُ [a mistranscription for رَوَاجِب]: (A&#39;Obeyd, TA:) or the <i>parts of the fingers that are protuberant when one clinches his hand:</i> (Ham ubi suprà:) or the <i>backs of the finger-bones:</i> (K:) or the <i>finger-joints</i> (S, Mgh) <i>that are between the</i> <br>\
+                  اَشَاجِع <br>\
+                  <i>and the</i> <br>\
+                  رَوَاجِب; (S;) i. e. (S, Mgh) [the <i>middle knuckles;</i> (see اَشْجَعُ and رَاجِبَةٌ;)] the <i>heads of the</i> <br>\
+                  سُلَامَيَات, (S, Mgh, Msb, K,) <i>on the back,</i> or <i>outer side, of the hand,</i> (S, Msb,) <i>which become protuberant when one clinches his hand:</i> (S, Mgh, Msb, K:) or, as in the Kf, the <i>heads of the</i> <br>\
+                  سلاميات; and their inner and outer sides are termed the رَوَاجِب: (Msb:) accord. to the T, the <i>wrinkled parts at the joints of the fingers;</i> the smooth portion between which is called رَاجِبَةٌ: or, as in another place, <i>in the backs of the fingers;</i> the parts between them being called the رَوَاجِب: <i>in every finger are three</i> <br>\
+                  بُرْجُمَات, <i>except the thumb:</i> or, as in another place, <i>in every finger are two of what are thus termed:</i> it is also explained as signifying the <i>joints in the backs of the fingers, upon which the dirt collects.</i> (TA.) The phrase الاَخْذُ بِالبَرَاجِمِ, meaning <i>The seizing</i> <br>\
+                  <i>with the hand,</i> is one requiring consideration [as of doubtful character]. (Mgh.) [See also بُرْثُنٌ.]   </entryFree> <br>\
+' } );

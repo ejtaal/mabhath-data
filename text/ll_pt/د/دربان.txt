@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>دربان</em>            1                  دربان<br>\
+<b>دَرْبَانٌ</b>               1     <br>\
+                     دَرْبَانٌ<br>\
+                     درب<br>\
+                     دربان<br>\
+                   (K) and دِرْبَانٌ and دُرْبَانٌ (Kr, TA) sings. of دَرَابِنَةٌ, (K, TA,) which signifies <i>Door-keepers,</i> or <i>gate-keepers:</i> [the sing. is] Persian, [originally دَرْبَانْ,] arabicized. (S, K.)   </entryFree> <br>\
+' } );

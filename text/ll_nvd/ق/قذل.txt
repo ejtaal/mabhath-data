@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'قذلالفَذَالُ<br>\
+The whole of the back of the head:<br>\
+(S, Msb, K:) or the part from the hollow of the<br>\
+back of the neck (نُقْرَة القَفَا) to the ear: (ElGhooree, Mgh:) [see القَمَحْدُوَةُ in art. قحد:]<br>\
+and, in a horse, the place where the<br>\
+عِذَار<br>\
+is tied,<br>\
+behind the forelock. (S, Msb, K.)<br>\
+' } );

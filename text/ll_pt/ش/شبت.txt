@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شبت</em>            1                  شبت<br>\
+<b>شِبِتٌّ</b>               1     <br>\
+                     شِبِتٌّ<br>\
+                     ذ<br>\
+                   [<i>Anethum graveolens,</i> or <i>dill, of the common garden-species;</i>] <i>a certain herb,</i> or <i>leguminous plant, well known:</i> (K:) it is said that سِبِتٌّ is an arabicized word from شِبِتٌّ; but it has been stated before [in art. سبت, q. v.,] that both these are arabicized words from شِوِذْ [or شِوِدْ]; and that سبط [i. e. سِطٌّ] is a dial. var. (TA.) [See also شِبِثٌّ.]   </entryFree> <br>\
+' } );

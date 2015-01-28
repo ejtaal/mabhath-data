@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>زنبل</em>            1                  زنبل<br>\
+<b>زِنْبِيلٌ</b>               1     <br>\
+                     زِنْبِيلٌ<br>\
+                     ذ<br>\
+                   and زَنْبِيلٌ dial. vars. of زَبِيلٌ, mentioned in art. زبل [q. v.]: pl. زَنَابِيلُ. TA.)   </entryFree> <br>\
+' } );

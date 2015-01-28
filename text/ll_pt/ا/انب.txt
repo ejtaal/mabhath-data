@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>انب</em>            1                  انب<br>\
+<b>انّبهُ</b>               1     <br>\
+                     انّبهُ<br>\
+                     ذ<br>\
+                  , inf. n. تَاْنِيبٌ, <i>He blamed, reproved, reprehended, chid,</i> or <i>reproached, him:</i> (S, M, A, K:) or <i>he did so severely,</i> or <i>angrily:</i> (ISk, T, S, M, A, K:) or, <i>with the utmost severity</i> or <i>harshness:</i> (T, M, TA:) or <i>he repulsed him,</i> meaning a person who asked something of him, <i>in the most abominable manner.</i> (M, * K, * TA.)    </entryFree> <br>\
+<b>اُنْبُوبٌ</b>               1     <br>\
+                     اُنْبُوبٌ<br>\
+                     ذ<br>\
+                  <i>An internodal portion,</i> or the <i>portion between any two joints,</i> or <i>knots,</i> of a cane, or reed, and of a spear-shaft: (T:) [and] <i>a spear,</i> <br>\
+                   or <i>lance:</i> pl. اَنَابِيبُ: mentioned in this art. [in the T, and] by Ibn-El-Mukarram [in the L]. (TA.) [See also art. نب.]   </entryFree> <br>\
+' } );

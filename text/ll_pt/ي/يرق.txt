@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يرق</em>            1                  يرق<br>\
+<b>يَرَقَانٌ</b>               1     <br>\
+                     يَرَقَانٌ<br>\
+                     ذ<br>\
+                  <i>Saffron.</i> (Sgh, in TA, art. شعر.) ―         -b2-  See اَرَقَانٌ.   </entryFree> <br>\
+' } );

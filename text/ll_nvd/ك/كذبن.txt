@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كذبنكَذْبَانُونَةٌ<br>\
+[Pers. كَدْبَانو] An intelligent housewife, who is a good manager. (K, art. هلج;<br>\
+but omitted in some copies.)<br>\
+' } );

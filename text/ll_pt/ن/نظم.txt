@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>نظم</em>            1                  نظم<br>\
+<b>نَظَمَ</b>               1     <br>\
+                     نَظَمَ<br>\
+                     ذ<br>\
+                   [<i>He pierced:</i>] <i>he pierced and knotted</i> a cord or rope: and <i>he</i> (a خَوَّاص) <i>pierced and plaited</i> [the leaves of] the مُقْل. (M.) ―         -b2-  نَظَمَ <br>\
+                  <i>He strung</i> beads. (Msb.)    </entryFree> <br>\
+<b>اِنْتَظَمَهُ</b>               1     <br>\
+                     اِنْتَظَمَهُ<br>\
+                     ذ<br>\
+                  <i>He transfixed,</i> or <i>transpierced, him;</i> (M;) <i>i. q.</i> <br>\
+                  اِخْتَلَّهُ. (S, M, K.) ―         -b2-  اِنْتَظَمَ <br>\
+                  <i>It</i> (an affair [and language, &amp;amp;c.]) <i>wa.</i> or <i>became, rightly</i> [or <i>regularly</i>] <i>ordered, arranged,</i> or <i>disposed.</i> (Msb.)    </entryFree> <br>\
+<b>نَظْمٌ</b>               1     <br>\
+                     نَظْمٌ<br>\
+                     ذ<br>\
+                  <i>What are strung,</i> of pearls and beads, &amp;amp;c. (M.) ―         -b2-  النَّظْمُ: see الجَوْزَا=ءُ.    </entryFree> <br>\
+<b>نِظَامٌ</b>               1     <br>\
+                     نِظَامٌ<br>\
+                     ذ<br>\
+                   [<i>A standard</i> of a thing, <i>by which to regulate or adjust it.</i> See voce عِياَرٌ.] ―         -b2-  (tropical:)  The <i>cause,</i> or <i>means, of the subsistence,</i> of anything; or its <i>foundation,</i> or <i>support;</i> syn. مِلَاكٌ: (M, K: *) a tropical meaning. (TA) ―         -b3-  (assumed tropical:)  <i>A way, course, mode,</i> or <i>manner, of acting</i> or <i>conduct</i> or <i>the like: custom,</i> or <i>habit.</i> (M, K.) ―         -b4-  لَيْسَ لِاَمْرِهِ <br>\
+                  نِظاَمٌ (assumed tropical:)  <i>His affair has not a right tendency.</i> (T.) And لَيْسَ لِاَمْرِهِمْ نِظَامٌ (assumed tropical:)  <i>Their affair has not a right way,</i> or <i>method, of procedure, nor connexion, or coherence,</i> (مُتَعَلَّق,) (M, TA,) <i>nor right tendency.</i> (TA.) And مَا زَالَ عَلَى نِظَامٍ وَاحِدٍ (assumed tropical:)  <i>He ceased not to follow one custom,</i> or <i>manner of conduct.</i> (M, TA.) And اَحَادِيثُ لاَ نِظَامَ لَهَا (assumed tropical:)  [<i>Stories having no foundation,</i> or <i>no right tendency</i> or <i>tenour</i>]. (M and K in art. سطر.)    </entryFree> <br>\
+<b>نَظَّامٌ</b>               1     <br>\
+                     نَظَّامٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      نِظِّيمٌ <br>\
+                  <i>A composer of many verses,</i> or <i>of much poetry.</i> (TA.)    </entryFree> <br>\
+<b>نِظِّيمٌ</b>               1     <br>\
+                     نِظِّيمٌ<br>\
+                     ذ<br>\
+                  : see نَظَّامٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'كربحQ. 1<br>\
+كَرْبَحَ He prostrated another: or,<br>\
+[evidently a mistake for and,] inf. n. كَرْبَحَةٌ, he<br>\
+ran heavily; (K;) as also كَرْمَحَ: (TA:) and<br>\
+he ran at a slower pace than that termed<br>\
+كَرْدَحَةٌ, (K,) or كَرْدَمَةٌ, which is a pace of the<br>\
+ass and mule only. (L.)<br>\
+' } );

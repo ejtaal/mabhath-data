@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وهل</em>            1                  وهل<br>\
+<b>لَقِيتُهُ اَوَّلَ وَهْلَةٍ</b>               1     <br>\
+                     لَقِيتُهُ اَوَّلَ وَهْلَةٍ<br>\
+                     ذ<br>\
+                  <i>I met him the first thing:</i> see صَوْلَةٌ.   </entryFree> <br>\
+' } );

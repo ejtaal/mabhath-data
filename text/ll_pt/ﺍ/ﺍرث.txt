@@ -1,0 +1,62 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ارث&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ارث<br>\
+&lt;entryFree id=&quot;n538&quot; key=&quot;اَرَثَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرَثَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n539&quot; key=&quot;ارّث&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ارّث<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, A,) inf. n. تَاْرِيثٌ, (T, S, K,) &lt;i&gt;He kindled,&lt;/i&gt; or &lt;i&gt;lighted,&lt;/i&gt; a fire; or &lt;i&gt;made&lt;/i&gt; it &lt;i&gt;to burn, burn up, burn brightly&lt;/i&gt; or &lt;i&gt;fiercely, blaze,&lt;/i&gt; or &lt;i&gt;flame;&lt;/i&gt; (T, S, M, A, K;) as also ↓ <br>\
+      اَرَثَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرُثَ<br>\
+                  &lt;/form&gt;, (T, K,) inf. n. اَرْثٌ; (K; in a copy of the A اـِرْثٌ;) but this [says SM] no leading lexicographer has mentioned, nor have I found any example of it. (TA.) [See also وَرَّثَ.] ―         -b2-  [Hence,] تاريث also signifies (tropical:)  The &lt;i&gt;exciting discord, dissension, disorder, strife, quarrelling,&lt;/i&gt; or &lt;i&gt;animosity, between a people.&lt;/i&gt; (S, K.) You say, ارَث بَيْنَ <br>\
+                  القَوْمِ, (M, A,) and ارّث بَيْنَهُمُ الشَّرَّ وَالحَرْبَ, (T, TA,) (tropical:)  &lt;i&gt;He excited discord, dissension, disorder, strife, quarrelling,&lt;/i&gt; or &lt;i&gt;animosity, between,&lt;/i&gt; or &lt;i&gt;among, the people,&lt;/i&gt; or &lt;i&gt;company of men;&lt;/i&gt; (T, M, A;) &lt;i&gt;kindled the fire of discord, dissension,&lt;/i&gt; &amp;amp;c., [or &lt;i&gt;evil,&lt;/i&gt; and &lt;i&gt;war,&lt;/i&gt;] &lt;i&gt;between them,&lt;/i&gt; or &lt;i&gt;among them.&lt;/i&gt; (T, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n540&quot; key=&quot;تَاَرَّثَتِ النَّارُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَرَّثَتِ النَّارُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The fire became kindled,&lt;/i&gt; or &lt;i&gt;lighted;&lt;/i&gt; or &lt;i&gt;it burned, burned up, burned brightly&lt;/i&gt; or &lt;i&gt;fiercely, blazed,&lt;/i&gt; or &lt;i&gt;flamed.&lt;/i&gt; (S, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n541&quot; key=&quot;اـِرْثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرْثٌ<br>\
+                     ارث<br>\
+                     اـرث<br>\
+                     ارث<br>\
+                     راث<br>\
+                     رث<br>\
+                     رثا<br>\
+                     رثى<br>\
+                     ورث<br>\
+                  &lt;/form&gt;, originally وِرْثٌ, (T, S,) &lt;i&gt;Inheritance;&lt;/i&gt; or a person&#39;s &lt;i&gt;obtaining possession of property left to&lt;/i&gt; him &lt;i&gt;by one who has died.&lt;/i&gt; (MF.) ―         -b2-  &lt;i&gt;An inheritance,&lt;/i&gt; or &lt;i&gt;a heritage; what is inherited.&lt;/i&gt; (S, A, K.) ―         -b3-  &lt;i&gt;An old condition, case,&lt;/i&gt; or &lt;i&gt;state of things, which the last has inherited from the first.&lt;/i&gt; (S, A, K.) So in the phrase, هُوَ عَلَى اـِرْثٍ مِنْ كَذَا [&lt;i&gt;He is conforming, in respect of such a thing, with an old state of things,&lt;/i&gt; or &lt;i&gt;an old usage, which he has inherited from his ancestors&lt;/i&gt;]. (S.) And in the following ex., from a trad., اـِنَّكُمْ عَلَى اـِرْثٍ مِنْ <br>\
+                  اـِرْثِ اَبِيكُمْ اـِبْرَاهِيمَ [&lt;i&gt;Verily ye are conforming with an old state of things,&lt;/i&gt; or &lt;i&gt;an old usage, which ye have inherited from your father Abraham&lt;/i&gt;], the meaning is, that his religion was their heritage. (T, * TA.) [See also وِرْثٌ.] ―         -b4-  &lt;i&gt;A remainder,&lt;/i&gt; or &lt;i&gt;what remains,&lt;/i&gt; (M, L, K,) of a thing, (K,) or &lt;i&gt;of the original&lt;/i&gt; of a thing: (M, L:) pl. اـِرَاثٌ. (L.) ―         -b5-  And [hence, app.,] &lt;i&gt;Ashes.&lt;/i&gt; (M, K.) ―         -b6-  Also &lt;i&gt;Origin, race,&lt;/i&gt; or &lt;i&gt;stock.&lt;/i&gt; (S, M, A, K.) You say, هُوَ فِى اـِرْثِ صِدْقٍ <br>\
+                  &lt;i&gt;He is of an excellent origin, race,&lt;/i&gt; or &lt;i&gt;stock.&lt;/i&gt; (S.) And اـِنَّهُ لَفِى اـِرْثِ مَجْدٍ [&lt;i&gt;Verily he is of a glorious origin, race,&lt;/i&gt; or &lt;i&gt;stock&lt;/i&gt;]; as also اـِرْفِ مَجْدٍ, by a change of letters. (Yaa- koob, M.) Accord. to IAar, اـِرْثٌ relates to حَسَب [or grounds of pretension to respect or honour, on account of one&#39;s ancestors&#39; or one&#39;s own deeds or qualities, &amp;amp;c.]; and وِرْثٌ, to property, or wealth. (M.) [See art. ورث.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n542&quot; key=&quot;اُرْثَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُرْثَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِرَاتٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n543&quot; key=&quot;اـِرَاتٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرَاتٌ<br>\
+                     ارات<br>\
+                     آر<br>\
+                     آرات<br>\
+                  &lt;i&gt;Fire;&lt;/i&gt; (T, M, L, K;) as also ↓ <br>\
+      اـِرَاثَةٌ and ↓ <br>\
+      اَرِيثٌ: (TA:) or (so accord. to the M and &lt;i&gt;L,&lt;/i&gt; but in the K “and”) &lt;i&gt;tinder,&lt;/i&gt; and &lt;i&gt;the like, prepared for fire;&lt;/i&gt; (M, L, K;) [as also ↓ <br>\
+      اـِرَاثَةٌ and ↓ <br>\
+      اُرْثَةٌ; &lt;i&gt;or&lt;/i&gt; these two words signify &lt;i&gt;a means of kindling&lt;/i&gt; or &lt;i&gt;inflaming;&lt;/i&gt; as will be seen from what follows:] or &lt;i&gt;a lump of the dung of a horse or the like,&lt;/i&gt; or &lt;i&gt;a similar thing, with which one kindles a fire;&lt;/i&gt; as also ↓ <br>\
+      اُرْثَةٌ: (A:) or this last signifies &lt;i&gt;dung of camels or horses or the like,&lt;/i&gt; (S, K,) or &lt;i&gt;wood,&lt;/i&gt; or &lt;i&gt;a stick,&lt;/i&gt; (T,) &lt;i&gt;that is prepared,&lt;/i&gt; or &lt;i&gt;put in readiness, by the ashes,&lt;/i&gt; (S, K,) or &lt;i&gt;buried in them,&lt;/i&gt; (T,) &lt;i&gt;for the time when it may be wanted&lt;/i&gt; (T, S, K) &lt;i&gt;for fuel.&lt;/i&gt; (T.) It is said in a prov., mentioned in the collection of Meyd, العَدَاوَةِ ↓ <br>\
+      النَّمِيمَةُ [&lt;i&gt;Calumny,&lt;/i&gt; or &lt;i&gt;slander, is a means of kindling,&lt;/i&gt; or &lt;i&gt;inflaming, enmity&lt;/i&gt;]. (TA: but in Freytag&#39;s Arab. Prov., ii. 773, in the place of اراثة, we find ↓ <br>\
+      اُرْثَة.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n544&quot; key=&quot;اَرِيثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِيثٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the paragraph next preceding.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n545&quot; key=&quot;اـِرَاثَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرَاثَةٌ<br>\
+                     اراثه<br>\
+                     اراثة<br>\
+                  &lt;/form&gt;: see اـِرَاثٌ, in three places.   &lt;/entryFree&gt; <br>\
+' } );

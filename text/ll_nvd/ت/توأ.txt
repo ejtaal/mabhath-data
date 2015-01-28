@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'توأتَآءٌ The name of the letter ت, q. v.; as also تَا:<br>\
+pl. [of the former تَآءَاتٌ; and of the latter] أَتْوَآءٌ.<br>\
+(TA in باب الالف اللّينة.)<br>\
+تَائِىٌّ and تَاوِىٌّ rel. ns. of تَآءٌ and تَا the names<br>\
+of the letter ت; as also تَيَوِىٌّ: (TA ubi suprà:)<br>\
+whence قَصِيدَةٌ تَائِيَّةٌ and تَاوِيَّةٌ and تَيَوِيَّةٌ (T, K,<br>\
+TA, ubi suprà, [the last written in the CK<br>\
+تَيْوِيَّةٌ,] and the second is also mentioned in the S)<br>\
+A قصيدة of which the رَوِىّ. is ت (TA ibid.)<br>\
+' } );

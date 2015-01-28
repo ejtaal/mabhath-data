@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'وخف1<br>\
+وَخَفَهُ<br>\
+He beat it (namely خِطْمِىّ, IDrd, K,<br>\
+and in like manner سَوِيق, IDrd) with his hand,<br>\
+and moistened it in a<br>\
+طشت [or basin], (TA,)<br>\
+until it became viscous, or cohesive, (K, TA,)<br>\
+and became [fit for] food; (TA;) as also<br>\
+↓ أَوْخَفَهُ (K) and ↓ وَخَّفَهُ. (TA.)<br>\
+2<br>\
+وَخَّفَ<br>\
+see 1.<br>\
+4<br>\
+أَوْخَفَ<br>\
+see 1.<br>\
+' } );

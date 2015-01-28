@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'مزنمُزْنٌ<br>\
+Clouds (K, and Ham, p. 564) of any kind:<br>\
+(Ham, ibid:) or white clouds: (S, K, and Ham,<br>\
+p. 53:) or clouds containing water. (K.)<br>\
+إِبْنُ مَازِنٍ<br>\
+The ant. (TA in art. بنى.)<br>\
+مزو and مزى<br>\
+2<br>\
+تَمْزِيَةٌ<br>\
+The praising, or eulogizing [another].<br>\
+(K, TA.) You say, مَزَّيْتُهُ عَلَيْهِ, syn. فَضَّلْتُهُ.<br>\
+(IAar, TA.)<br>\
+5<br>\
+تَمَزَّيْتَ عَلَيْنَا<br>\
+Thou thoughtest, or hast thought,<br>\
+thyself superior to us in excellence: and so تَفَضَّلْتَ.<br>\
+(TA.)<br>\
+6<br>\
+تَمَازَوْا<br>\
+i. q.<br>\
+تَفَاضَلُوا. (TA.)<br>\
+مَزِيَّةٌ<br>\
+An excellent quality; an excellence. (S,<br>\
+Msb, K.)<br>\
+' } );

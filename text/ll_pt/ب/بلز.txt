@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>بلز</em>            1                  بلز<br>\
+<b>طِينُ اْلْاـِبْلِيزِ</b>               1     <br>\
+                     طِينُ اْلْاـِبْلِيزِ<br>\
+                     ذ<br>\
+                  <i>The mud of Egypt;</i> (K;) <i>what the Nile leaves behind it after retiring from the surface of the ground:</i> (TA:) a foreign word [arabicized, perhaps from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>πηλὸς</orth>, as suggested by De Sacy; who also remarks that it might be derived from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>ἰλὺς</orth> with the Egyptian masc. art. <G>πι</G>, were it not that <G>ἰλὺς</G> is fem.: (see his “Abd-allatif,” p. 8:) if we might suppose ابليز to be an old mistranscription for ايليز, we might with good reason derive it from        <br>\
+      <orth lang=&quot;gr&quot;>ἰλὺς</orth>, which, as pronounced by the modern Greeks, very nearly resembles اـِيلِيز in sound]: (K:) [some of] the vulgar pronounce it with س. (TA.) ―         -b2-  [Also applied to <i>Clay; plastic clay;</i> or <i>potters&#39; earth.</i>]   </entryFree> <br>\
+' } );

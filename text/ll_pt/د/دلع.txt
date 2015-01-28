@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>دلع</em>            1                  دلع<br>\
+<b>دَلَعَ لِسَانَهُ</b>               1     <br>\
+                     دَلَعَ لِسَانَهُ<br>\
+                     دلع لسانه<br>\
+                     دلع لسانة<br>\
+                  , (Lth, S, K,) aor.      <br>\
+                     دَلَعَ<br>\
+                  , (K,) inf. n. دَلْعٌ, (Lth, K, *) <i>He</i> (a man, S, [and a dog,] and a tired wolf, TA) <i>lolled, lolled out, put forth,</i> or <i>protruded, his tongue;</i> (Lth, S, K;) as also ↓ <br>\
+      ادلعهُ; (Lth, IAar, S, K;) but the latter is of rare occurrence, though chaste. (Lth.)       -A2-  And دَلَعَ لِسَانُهُ, (Lth, S, K,) the verb being intrans. as well as trans., (S,) aor.      <br>\
+                     دَلَعَ<br>\
+                   and      <br>\
+                     دَلُعَ<br>\
+                  , (K,) inf. n. دُلُوعٌ, (Lth, K,) like as رَجَعَ has رُجُوعٌ for its inf. n. when intrans., but رَجْعٌ when trans., (Lth,) <i>His tongue lolled,</i> or <i>protruded;</i> (Lth, S, K;) as also ↓ <br>\
+      اندلع; (S, K;) and ↓ <br>\
+      اِدَّلَعَ, [originally اِدْتَلَعَ,] of the measure اِفْتَعَلَ: (Ibn-&#39;Abbád, K:) [said of a man,] <i>his tongue protruded from the mouth, and hung down upon the hair between the lower lip and the chin, like the tongue of the dog;</i> (TA;) and [in like manner,] ↓ <br>\
+      اندلع, <i>it protruded and hung down,</i> by reason of much grief, or distress of mind, affecting the breath, or respiration, or by reason of thirst, <i>like that of the dog.</i> (TA.)    </entryFree> <br>\
+                     اَدْلَعَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اـِنْدَلَعَ<br>\
+                   see 1, in two places. ―         -b2-  [Hence,] اندلع بَطْنُهُ (assumed tropical:)  <i>His belly became prominent,</i> or <i>protuberant:</i> (S:) or <i>became large and flabby:</i> (K:) said of a man: (S:) or, accord. to Naseer, as related by Aboo-Turáb, the verb has the latter signification said of the belly of a woman; as also اندلق. (TA.) ―         -b3-  And اندلع السَّيْفُ مِنْ غِمْدِهِ (tropical:)  <i>The sword became drawn,</i> or <i>it slipped out, from its scabbard;</i> (K, TA;) as also اندلق. (TA.)    </entryFree> <br>\
+<b>اِدَّلَعَ</b>               1     <br>\
+                     اِدَّلَعَ<br>\
+                     ادلع<br>\
+                     ادلع<br>\
+                     دلع<br>\
+                  : see 1.    </entryFree> <br>\
+<b>اَحْمَقُ دَالِعٌ</b>               1     <br>\
+                     اَحْمَقُ دَالِعٌ<br>\
+                     ذ<br>\
+                  <i>Stupid in the utmost degree;</i> (ElHujeymee, K;) <i>who ceases not to loll out his tongue.</i> (El-Hujeymee, TA.) ―         -b2-  اَمْرٌ دَالِعٌ (assumed tropical:)  <i>An affair in the way to the attainment of which there is nothing intervening as an obstacle;</i> expl. by لَيْسَ دُونَهُ شَىْءٌ. (K.)    </entryFree> <br>\
+<b>فَرَسٌ اَدْلَعُ</b>               1     <br>\
+                     فَرَسٌ اَدْلَعُ<br>\
+                     ذ<br>\
+                  <i>A horse that lolls out his tongue in running.</i> (Ibn-&#39;Abbád.)    </entryFree> <br>\
+<b>مُدْلَعٌ</b>               1     <br>\
+                     مُدْلَعٌ<br>\
+                     مدلع<br>\
+                   [pass. part. n. of 4]. It is said in a trad., يُبْعَثُ شَاهِدُ الزُّورِ يَوْمَ القِيَامَةِ مُدْلَعًا لِسَانُهُ فِى النَّارِ [<i>The false witness will be raised to life on the day of resurrection with his tongue lolled out in the fire</i>]. (TA.)   </entryFree> <br>\
+' } );

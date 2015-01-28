@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>دوج</em>            1                  دوج<br>\
+<b>دَاجَ</b>               1     <br>\
+                     دَاجَ<br>\
+                     داج<br>\
+                     داجي<br>\
+                  , (IAar, K,) aor. يَدُوجُ, (IAar,) inf. n. دَوْجٌ, <i>He</i> (<i>a man,</i> IAar) <i>served,</i> or <i>did service.</i> (IAar, K.)    </entryFree> <br>\
+<b>دَاجَةٌ</b>               1     <br>\
+                     دَاجَةٌ<br>\
+                     داجه<br>\
+                     داجة<br>\
+                  . [as pl. of دَايِجٌ, agreeably with analogy,] The <i>followers of an army.</i> (K.)       -A2-  Also <i>A small want:</i> (K:) or <i>a want</i> [absolutely]; <i>i. q.</i> <br>\
+                  حَاجَةٌ, as some say: (TA:) or it is an imitative sequent to حَاجَةٌ. (K, and S in art. دج. [See دَاجٌّ in that art.]) It is said in a trad., مَا تَرَكْتُ مِنْ <br>\
+                  حَاجَةٍ وَ لَا دَاجَةٍ [<i>I left not a want nor a small want:</i> or <i>a want of any kind:</i> or] this means <i>I left not any act of disobedience to which I was enticed.</i> (TA voce حَاجَةٌ.)   </entryFree> <br>\
+' } );

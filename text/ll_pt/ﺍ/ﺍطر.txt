@@ -1,0 +1,69 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اطر&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اطر<br>\
+&lt;entryFree id=&quot;n901&quot; key=&quot;اَطَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَطَرَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَطِرَ<br>\
+                  &lt;/form&gt; (S, Msb, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَطُرَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَطْرٌ; (S, Msb, K;) and ↓اطّرهُ inf. n. تَاْطِيرٌ; (K;) &lt;i&gt;He bent it,&lt;/i&gt; or &lt;i&gt;curved it;&lt;/i&gt; (S, Msb, K, &amp;amp;c.;) namely, a bow, (S, A,) and a twig, or the like: (A:) &lt;i&gt;he laid hold upon one of its two extremities, and curved it: he bent it, or curved it;&lt;/i&gt; namely, anything; عَلَى شَّىْءٍ <br>\
+                  &lt;i&gt;upon a thing:&lt;/i&gt; and the latter verb, [or both,] &lt;i&gt;he bent it into the form of a hoop, bringing its two extremities together.&lt;/i&gt; (TA.) ―         -b2-  It is said of Adam, اْللّٰهُ ↓كَانَ طُوَالًا فَاَطَّرَهُ <br>\
+                  &lt;i&gt;He was tall, and God bent him, and diminished his height.&lt;/i&gt; (TA.) ―         -b3-  And one says, اَخَذَ عَلَى <br>\
+                  يَدَىِ الظَّالِمِ وَاَطَرَهُ عَلَى الحَقِّ (tropical:) [&lt;i&gt;He laid hold upon the two hands,&lt;/i&gt; or &lt;i&gt;arms, of the wrongdoer,&lt;/i&gt; or &lt;i&gt;prevented, restrained,&lt;/i&gt; or &lt;i&gt;withheld, him from doing that which he desired,&lt;/i&gt;] &lt;i&gt;and bent him to&lt;/i&gt; [&lt;i&gt;conformity with&lt;/i&gt;] &lt;i&gt;what was right.&lt;/i&gt; (AA, from a trad.) And اَطَرْتَ فُلَانًا عَلَى مَوَدَّتِكَ (tropical:)  [&lt;i&gt;Thou hast bent such a one to love thee&lt;/i&gt;]. (A.) ―         -b4-  اَطَرَ السَّهْمَ (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَطِرَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَطُرَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. as above, (S, K,) &lt;i&gt;He wound an اُطْرَة upon the arrow.&lt;/i&gt; (S, K.) ―         -b5-  اَطَرَ البَيْتَ, (TK,) inf. n. as above, (K,) &lt;i&gt;He made an&lt;/i&gt; <br>\
+                  اـِطَار, which is a &lt;i&gt;thing resembling a zone&lt;/i&gt; or &lt;i&gt;belt, to the tent&lt;/i&gt; or &lt;i&gt;house.&lt;/i&gt; (K, TK.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَطَّرَ<br>\
+                  &lt;/form&gt; see 1, in two places.       -A2-  اَطَّرَتْ, inf. n. تَاْطِيرٌ <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a girl, IAar) &lt;i&gt;remained in the house,&lt;/i&gt; or &lt;i&gt;tent, of her father, some time,&lt;/i&gt; or &lt;i&gt;long,&lt;/i&gt; (IAar, K,) &lt;i&gt;without marrying.&lt;/i&gt; (IAar.) [See also 5.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n902&quot; key=&quot;تاطّر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاطّر<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a spear) &lt;i&gt;bent:&lt;/i&gt; (S, K:) &lt;i&gt;it&lt;/i&gt; (a thing) &lt;i&gt;became crooked, curved,&lt;/i&gt; or &lt;i&gt;bent;&lt;/i&gt; as also ↓ <br>\
+      اناطر: (K, TA:) &lt;i&gt;it became bent into the form of a hoop, its two extremities being brought together.&lt;/i&gt; (TA.) ―         -b2-  تَاَطَّرَتْ <br>\
+                  &lt;i&gt;She affected a bending of her person, body,&lt;/i&gt; or &lt;i&gt;limbs, in her gait.&lt;/i&gt; (A.)       -A2-  &lt;i&gt;He confined himself&lt;/i&gt; (K, TA) in a place. (TA.) ―         -b2-  تَاَطَّرَتْ <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;remained,&lt;/i&gt; or &lt;i&gt;stayed, in her house,&lt;/i&gt; or &lt;i&gt;tent;&lt;/i&gt; (S, K;) &lt;i&gt;she kept to it.&lt;/i&gt; (TA.) [See also 2.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;7&lt;/itype&gt;        <br>\
+                     اـِنْاَطَرَ<br>\
+                  &lt;/form&gt; see 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n903&quot; key=&quot;اَطْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَطْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;place of curvature&lt;/i&gt; (مُنْحَنَى) of a bow, and of a cloud: (K, TA:) an inf. n. used as a subst., and, being so used, admitting the dual form: or the &lt;i&gt;bent,&lt;/i&gt; or &lt;i&gt;curved, part of the extremity&lt;/i&gt; of a bow; to which Tarafeh likens the curving of the ribs of a she-camel: (TA:) and &lt;i&gt;what resembles a curvature, seen in the clouds:&lt;/i&gt; an inf. n. in the sense of a pass. part. n. (Skr, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n904&quot; key=&quot;اُطْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُطْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;sinew that is wound immediately above the notch&lt;/i&gt; of an arrow; (S, K;) as also ↓ <br>\
+      اـِطَارٌ. (K.) ―         -b2-  The &lt;i&gt;edge of the glans&lt;/i&gt; of the penis; (K, * TA;) as also ↓ the latter word. (K, TA.) ―         -b3-  The &lt;i&gt;flesh surrounding the nail:&lt;/i&gt; (K:) pl.اُطَرٌ and اـِطَارٌ. (TA.) ―         -b4- &lt;i&gt; A mixture of ashes and blood with which a fracture in a cooking-pot is smeared&lt;/i&gt; (S, K) &lt;i&gt;and repaired.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n905&quot; key=&quot;اـِطَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِطَارٌ<br>\
+                     اطار<br>\
+                     اـطار<br>\
+                  &lt;i&gt;Anything that surrounds another thing:&lt;/i&gt; (S, A, Msb, K:) as the &lt;i&gt;hoop&lt;/i&gt; of a tambourine, (A, Mgh, TA,) and of a sieve. (S, A, Mgh, K.) ―         -b2-  &lt;i&gt;A ring of hair surrounding the head, the&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;67&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;middle of it being bald.&lt;/i&gt; (TA.) ―         -b3-  ―         -b4-  The &lt;i&gt;branches of a vine, bent,&lt;/i&gt; or &lt;i&gt;wreathed, so as to form a covering over-head.&lt;/i&gt; (K.) ―         -b5-  See also اُطْرَةٌ, in two places. ―         -b6-  اـِطَارُ الحَافِرِ <br>\
+                  &lt;i&gt;The part of the hoof of a horse or the like which surrounds,&lt;/i&gt; or &lt;i&gt;extends around, the&lt;/i&gt; <br>\
+                  اَشْعَر [q.v.]. (S.) ―         -b7- اـِطَارُ الشَّفَةِ (S, K, &amp;amp;c.) (tropical:)  &lt;i&gt;The part,&lt;/i&gt; (A,) or &lt;i&gt;flesh,&lt;/i&gt; (Msb,) &lt;i&gt;surrounding the lip:&lt;/i&gt; (A, Msb:) or &lt;i&gt;the part that separates between the lip and the hairs of the mustache:&lt;/i&gt; (K:) or &lt;i&gt;the edge of the upper lip, between the lip itself and the parts where the hair grows:&lt;/i&gt; (IAth:) or &lt;i&gt;the rising edge,&lt;/i&gt; or &lt;i&gt;ridge, between the part where the mustache is clipped and the lip, intermixing with the mouth.&lt;/i&gt; (A&#39;Obeyd.) The Muslim should clip his mustache so that this part shall appear. (Msb, TA.) ―         -b8-  اـِطَارُ بَيْتٍ <br>\
+                  &lt;i&gt;A thing resembling a zone,&lt;/i&gt; or &lt;i&gt;belt, of a tent&lt;/i&gt; or &lt;i&gt;house.&lt;/i&gt; (K.) ―         -b9-  اـِطَارِ مِنَ النَّاسِ (tropical:) &lt;i&gt;A ring,&lt;/i&gt; or &lt;i&gt;circle, of men.&lt;/i&gt; (K.) One says, هُمْ اـِطَارٌ لِبَنِى فُلَانٍ (tropical:)  &lt;i&gt;They have alighted and taken up their abode&lt;/i&gt; [&lt;i&gt;so that they form a ring&lt;/i&gt;] &lt;i&gt;around the sons of such a one.&lt;/i&gt; (A, Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n906&quot; key=&quot;اَطِيرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَطِيرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A sin; a crime; an offence.&lt;/i&gt; (S, K.) One says, اَخَذَنِى بِاَطِيرِ غَيْرِى <br>\
+                  &lt;i&gt;He punished me for the sin, crime,&lt;/i&gt; or &lt;i&gt;offence, of another than myself.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n907&quot; key=&quot;مَاْطُورَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْطُورَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A bow.&lt;/i&gt; (A.) ―         -b2-  &lt;i&gt;A milking-vessel of skin&lt;/i&gt; (عُلْبَةٌ) &lt;i&gt;for the head of which a twig is bent into the form of a hoop, and put round, after which its lip is covered;&lt;/i&gt; (K, TA;) or, &lt;i&gt;sometimes, the edges of the skin of the&lt;/i&gt; <br>\
+                  علبة <br>\
+                  &lt;i&gt;are folded upon the hoop-formed twig, and dry upon it.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

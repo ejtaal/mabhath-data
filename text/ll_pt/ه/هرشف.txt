@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هرشف</em>            1                  هرشف<br>\
+<b>هِرْشَفَّةٌ</b>               1     <br>\
+                     هِرْشَفَّةٌ<br>\
+                     ذ<br>\
+                  <i>A piece of rag with which water is dried up from the ground.</i> (TA, art. جف.) ―         -b2-  See هِرْشَبَّةٌ.   </entryFree> <br>\
+' } );

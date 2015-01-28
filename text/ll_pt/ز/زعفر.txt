@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>زعفر</em>            1                  زعفر<br>\
+<b>زَعْفَرَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     زَعْفَرَ<br>\
+                     ذ<br>\
+                  <i>He dyed</i> a garment, or piece of cloth, <i>with</i> <br>\
+                  زَعْفَرَان [or <i>saffron</i>]. (S, A, Msb, K.)    </entryFree> <br>\
+<b>زَعْفَرَانٌ</b>               1     <br>\
+                     زَعْفَرَانٌ<br>\
+                     ذ<br>\
+                  <i>A certain dye and perfume,</i> (TA,) <i>well-known;</i> (Msb, K;) [namely, <i>saffron:</i>] if it be in a house or chamber, the [lizard called] سَامُّ <br>\
+                  اَبْرَصَ will not enter it: (K:) pl. زَعَافِرُ. (S, K.) ―         -b2-  Also (assumed tropical:)  The <i>rust</i> of iron: pl. as above. (K.)    </entryFree> <br>\
+<b>مُزَعْفَرٌ</b>               1     <br>\
+                     مُزَعْفَرٌ<br>\
+                     ذ<br>\
+                   A garment, or piece of cloth, <i>dyed with</i> <br>\
+                  زَعْفَرَان [or <i>saffron</i>]. (A, Msb.) ―         -b2-  [The <i>kind of sweet food called</i>] فَالُوذٌ, (K, TA,) and also called مُلَوَّصٌ and مُزَعْزَعٌ. (TA.) ―         -b3-  (assumed tropical:)  A lion <i>of the colour termed</i> <br>\
+                  وَرْد [or <i>red inclining to yellow</i>]: (S, K:) because its [natural] colour is such: or because having upon him marks of blood. (TA)   </entryFree> <br>\
+' } );

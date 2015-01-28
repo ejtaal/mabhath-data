@@ -1,0 +1,120 @@
+load_data( { book: 'll_pt', text: '<em>ضيم</em>            1                  ضيم<br>\
+<b>ضَامَهُ</b>               1     <br>\
+                     ضَامَهُ<br>\
+                     ذ<br>\
+                  , (S, Msb,) aor. يَضِيمُهُ, (S,) inf. n. ضَيْمٌ, (S, * Msb,) [as also ضَامَهُ, aor. يَضُومُهُ, inf. n. ضَوٌْ, (see art. ضوم,)] <i>He wronged him; treated him wrongfully, unjustly, injuriously,</i> or <i>tyrannically:</i> (S:) <i>he harmed, injured, hurt,</i> or <i>damaged, him:</i> (Msb:) and ↓ <br>\
+      استضامهُ signifies the same. (S.) And ضَامَهُ حَقَّهُ, (M, K,) aor. as above, (K,) and so the inf. n., (M,) <i>He defrauded him of his right,</i> or <i>due, partially</i> or <i>wholly;</i> (M, K;) as also ↓ <br>\
+      استضامهُ. (K.) ―         -b2-   And ضُمْتُ <br>\
+                  <i>I was wronged,</i> &amp;amp;c.: of which there are three dial. vars.; one says of a man ضِيمَ; and ضُيْمَ, with [the pronunciation termed] اـِشْمَام; and ضُومَ; like as we have said respecting بِيعَ. (S.) One says, مَا ضِمْتُ اَحَدً وَمَا ضُمْتُ [<i>I have not wronged any one, and I have not been wronged</i>]; i. e. no one has wronged me. (TA.) It is said in a trad., as some relate it, لَا تُضَامُونَ فِى رُوْيَتِهِ [or ↓ <br>\
+      تُضَامُّونَ or ↓ <br>\
+      تَضَامُّونَ <br>\
+                  <i>Ye will not be wronged in the seeing Him</i>]. (M. [For other readings and explanations of this trad., see 3 in art. ضر.])    </entryFree> <br>\
+                     ضَاْيَمَ<br>\
+                  and 6: see the preceding paragraph.    </entryFree> <br>\
+                     اـِسْتَضْيَمَ<br>\
+                   see 1, in two places.    </entryFree> <br>\
+<b>ضَيْمٌ</b>               1     <br>\
+                     ضَيْمٌ<br>\
+                     ذ<br>\
+                  <i>Wrong;</i> i. e. <i>wrongdoing;</i> or <i>wrongful, unjust, injurious,</i> or <i>tyrannical, treatment:</i> (S, K:) an inf. n. which is pluralized; its pl. being ضُيُومٌ. (M, K.)    </entryFree> <br>\
+<b>ضِيمٌ</b>               1     <br>\
+                     ضِيمٌ<br>\
+                     ذ<br>\
+                   The <i>side of a mountain,</i> (S, M, K,) and <i>of an</i> [<i>eminence such as is termed</i>] اَكَمَة. (M.)    </entryFree> <br>\
+<b>ضَايِمٌ</b>               1     <br>\
+                     ضَايِمٌ<br>\
+                     ذ<br>\
+                  <i>Wronging,</i> or <i>a wrongdoer:</i> pl. ضَامَةٌ: the latter occurring in the prov., تَاْتِى بِكَ الضَّامَةُ <br>\
+                  عِرِّيسَ الاَسَدِ [<i>The wrongdoers bring thee,</i> or <i>cause thee to come, to the covert of the lion</i>]; meaning, the wrong of the wrongdoers requires thee to cast thyself into destruction: applied in offering an excuse for venturing upon that which is perilous: or, as some relate it, الضَّامَّةُ, from الضَّمُّ; meaning “ want, or the object of want, that brings thee and causes thee to have recourse [to a thing]. ” (Meyd.)    </entryFree> <br>\
+<b>مَضِيمٌ</b>               1     <br>\
+                     مَضِيمٌ<br>\
+                     ذ<br>\
+                  <i>Wronged; treated wrongfully, unjustly, injuriously,</i> or <i>tyrannically:</i> as also ↓ <br>\
+      مُسْتَضَامٌ. (S, K, * TA.)    </entryFree> <br>\
+<b>مُسْتَضَامٌ</b>               1     <br>\
+                     مُسْتَضَامٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.  <br>\
+         </div1><br>\
+      </body><br>\
+   </text><br>\
+</TEI.2><?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?><br>\
+<TEI.2><br>\
+   <teiHeader type=&quot;text&quot; status=&quot;new&quot;><br>\
+      <fileDesc><br>\
+         <titleStmt><br>\
+            <title>An Arabic-English Lexicon</title><br>\
+            <title><br>\
+               ع<br>\
+            </title><br>\
+            <author>Edward William Lane</author><br>\
+            <funder n=&quot;org:USDeptEd&quot;>The U.S. Department of Education</funder><br>\
+            <funder n=&quot;org:MaxPlanck&quot;>The Max Planck Society</funder><br>\
+         </titleStmt><br>\
+         <publicationStmt><br>\
+            <publisher>Trustees of Tufts University</publisher><br>\
+            <pubPlace>Medford, MA</pubPlace><br>\
+            <authority>Perseus Project</authority><br>\
+            <availability status=&quot;free&quot;><br>\
+               <p>This text may be freely distributed, subject to the following<br>\
+                                            restrictions:</p><br>\
+               <list><br>\
+                  <item>You credit Perseus, as follows, whenever you use the document:<br>\
+                                                <quote>Text provided by Perseus Digital Library, with funding from The U.S. Department of Education and The Max Planck Society.</quote><br>\
+                  </item><br>\
+                  <item>You leave this availability statement intact.</item><br>\
+                  <item>You offer Perseus any modifications you make.</item><br>\
+               </list><br>\
+            </availability><br>\
+         </publicationStmt><br>\
+         <notesStmt><br>\
+            <note anchored=&quot;yes&quot; place=&quot;unspecified&quot;>Additional XML cleanup by Alpheios Technical Services, LLC.</note><br>\
+         </notesStmt><br>\
+         <sourceDesc><br>\
+            <listBibl><br>\
+               <biblStruct><br>\
+                  <analytic/><br>\
+                  <monogr><br>\
+                     <title>An Arabic-English Lexicon</title><br>\
+                     <imprint><br>\
+                        <pubPlace>London</pubPlace><br>\
+                        <publisher>Williams and Norgate</publisher><br>\
+                        <date>1863</date><br>\
+                     </imprint><br>\
+                  </monogr><br>\
+               </biblStruct><br>\
+            </listBibl><br>\
+         </sourceDesc><br>\
+      </fileDesc><br>\
+      <encodingDesc><br>\
+         <refsDecl doctype=&quot;TEI.2&quot;><br>\
+            <state unit=&quot;entry&quot;/><br>\
+         </refsDecl><br>\
+         <refsDecl doctype=&quot;TEI.2&quot;><br>\
+            <state n=&quot;chunk&quot; unit=&quot;root&quot;/><br>\
+            <state unit=&quot;entry&quot;/><br>\
+         </refsDecl><br>\
+      </encodingDesc><br>\
+      <profileDesc><br>\
+         <langUsage default=&quot;NO&quot;><br>\
+            <language id=&quot;en&quot;><br>\
+                                        English<br>\
+                                    </language><br>\
+            <language id=&quot;ar&quot;><br>\
+                                        Arabic<br>\
+                                    </language><br>\
+            <language id=&quot;xlar&quot;><br>\
+                                        Transliterated Arabic<br>\
+                                    </language><br>\
+            <language id=&quot;greek&quot;><br>\
+                                        Greek<br>\
+                                    </language><br>\
+            <language id=&quot;la&quot;><br>\
+                                        Latin<br>\
+                                    </language><br>\
+         </langUsage><br>\
+      </profileDesc><br>\
+   </teiHeader><br>\
+   <text><br>\
+      <body><br>\
+' } );

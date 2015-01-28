@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>رشا</em>            1                  رشا<br>\
+<b>رَشَاَ</b>               1     <br>\
+                     رَشَاَ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  جَامَعَ [<i>Inivit</i> feminam]. (K.)       -A2-  رَشَاَتْ <br>\
+                  <i>She</i> (a gazelle) <i>brought forth.</i> (K.)    </entryFree> <br>\
+<b>رَشَاٌ</b>               1     <br>\
+                     رَشَاٌ<br>\
+                     ذ<br>\
+                  <i>A young gazelle,</i> (S, Msb, K,) <i>that has become active,</i> or <i>in motion,</i> (S, Msb,) or <i>that has become strong,</i> (K,) <i>and has walked</i> (S, Msb, K) <i>with its mother:</i> (K:) pl. اَرْشَا=ءٌ. (Msb, K.) [In the following saying, I find it written as though with medd; app. for the sake of assimilation to النِّسَا=ء:] عِنْدِى جَارِيَةٌ مِنَ النِّسَا=ءِ اَشْبَهُ شَىْء ٍ <br>\
+                  بِالرَّشَا=ءِ, meaning [<i>I have with me a young woman most like to</i>] <i>the</i> [<i>young</i>] <i>gazelle:</i> so in the A. (TA.)   </entryFree> <br>\
+' } );

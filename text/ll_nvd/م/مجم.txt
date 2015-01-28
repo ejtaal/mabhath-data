@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'مجممَجْمَجَةٌ<br>\
+: see جَمْجَمَ and حَجْحَجَ.<br>\
+' } );

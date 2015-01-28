@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نضر</em>            1                  نضر<br>\
+<b>نُضَارٌ</b>               1     <br>\
+                     نُضَارٌ<br>\
+                     ذ<br>\
+                  <i>A tree of which yellow cups</i> (اَقْدَاح) <i>are made.</i> (T, in TA, voce غَرَبٌ.) See وَرْسِىٌّ.   </entryFree> <br>\
+' } );

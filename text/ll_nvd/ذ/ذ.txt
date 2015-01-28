@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'ذalphabetical letter<br>\
+ذ<br>\
+The ninth letter of the alphabet; called ذَالٌ:<br>\
+it is one of the letters termed مَجْهُورَة [or vocal,<br>\
+i. e. pronounced with the voice, and not with the<br>\
+breath only]: and of the letters termed لِثَوِيَّة [or<br>\
+gingival], which are ث and ذ and ظ; wherefore<br>\
+it is substituted for ث in تَلَعْذَمَ for تَلَعْثَمَ; and it<br>\
+is said to be substituted for the unpointed د in<br>\
+فَشَرِّذْ بِهِمْ, [as some read] in the Kur [viii. 59,<br>\
+for فَشَرِّدْ بهم]. (TA.)<br>\
+-A2-  [As a numeral, it denotes<br>\
+Seven hundred.]<br>\
+' } );

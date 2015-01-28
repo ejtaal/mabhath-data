@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'جى3<br>\
+جَايَاهُ, inf. n. مُجَايَاةٌ, He faced him, fronted<br>\
+him, was opposite to him, or was over against<br>\
+him: a dial. var. of جَايَأَهُ. (IAar, K.) You say<br>\
+also, مَرَّ بِى مُجَايَاةً He passed by me being in<br>\
+front, or opposite. (TA.)<br>\
+' } );

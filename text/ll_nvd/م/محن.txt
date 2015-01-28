@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'محنمِحْنَةٌ<br>\
+A trial, (S, Msb, K,) or trying affliction: (S:) pl. مِحَنٌ. (Msb.)<br>\
+مَحُونَةٌ<br>\
+(not مُحُونَةٌ): see art. حين.<br>\
+' } );

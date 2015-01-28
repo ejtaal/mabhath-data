@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'قعى4<br>\
+أَقْعَى<br>\
+It (a star) rose high, and then quitted<br>\
+not its place. (TA, art. عرد.)<br>\
+الإِقْعَاءُ<br>\
+: see عَقِبَ.<br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'سيج2<br>\
+سيّج: see art. سوج.<br>\
+سِيَاجٌ: see art. سوج.<br>\
+' } );

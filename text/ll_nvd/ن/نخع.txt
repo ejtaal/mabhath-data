@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'نخعنُخَاعٌ<br>\
+The spinal cord, or spinal marrow;<br>\
+(S, K, &amp;c.;) what extends from the<br>\
+هَامَة<br>\
+through<br>\
+(فِى) the vertebræ to the end of the<br>\
+ذَنَب, like a<br>\
+cord of marrow. (Zj in his “ Khalk el-Insán. ”)<br>\
+See also شَلِيلٌ and البِخَاعُ.<br>\
+أَنْخَعٌ<br>\
+: see أَخْنَعُ.<br>\
+' } );

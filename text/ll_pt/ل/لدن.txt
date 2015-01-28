@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>لدن</em>            1                  لدن<br>\
+<b>لَدْنٌ</b>               1     <br>\
+                     لَدْنٌ<br>\
+                     ذ<br>\
+                  <i>Supple; lithe; limber; limp; pliant; pliable; flexible.</i>    <br>\
+<b>مِنْ لَدُنْ</b>               1     <br>\
+                     مِنْ لَدُنْ<br>\
+                     ذ<br>\
+                  <i>From the time of:</i> see a verse cited in art. عى, conj. 4. ―         -b2-  هٰذَا الاَمْرُ مِنْ لَدُنْهُ <br>\
+                  <i>i. q.</i> <br>\
+                  مِنْ قِبَلِهِ, q. v. (Lth in TA, in art. قبل.)   </entryFree> <br>\
+' } );

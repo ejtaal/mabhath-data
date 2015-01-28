@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ققزقَاقَوزَةٌ<br>\
+and قَافُزَّةٌ: see طَاسٌ.<br>\
+' } );

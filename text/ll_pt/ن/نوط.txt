@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>نوط</em>            1                  نوط<br>\
+<b>النَّوْطَةُ</b>               1     <br>\
+                     النَّوْطَةُ<br>\
+                     ذ<br>\
+                   The <i>crop</i> of a bird: see الجِرِّيْيَةُ.    </entryFree> <br>\
+<b>نوّاطة</b>               1     <br>\
+                     نوّاطة<br>\
+                     ذ<br>\
+                   The <i>same as</i> <br>\
+                  نُوَّاعَةٌ. See رُجَّاحَةٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'لوم1<br>\
+لَامَ, inf. n. لَوْمٌ, He blamed, censured, or<br>\
+reprehended, syn. عَذَلَ, (S, M, Msb, K,) a person,<br>\
+(S, Msb,) عَلَى كَذَا [for such a thing]. (S.)<br>\
+4<br>\
+أَلَامَ He did a thing for which he should be<br>\
+blamed. (S in art. جنف, and L and TA in art.<br>\
+ريب.)<br>\
+5<br>\
+تَلَوَّمَ i. q. تَكَلَّفَ اللَّوْمَ. (Ham, p. 356.)<br>\
+لَائِمَةٌ A thing for which the doer is blamed.<br>\
+(TA.)<br>\
+' } );

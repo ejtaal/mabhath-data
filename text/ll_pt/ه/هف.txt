@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هف</em>            1                  هف<br>\
+<b>هِفٌّ</b>               1     <br>\
+                     هِفٌّ<br>\
+                     ذ<br>\
+                  <i>Certain small fish,</i> which are dried: see سُمَيْكَا=ءُ.   </entryFree> <br>\
+' } );

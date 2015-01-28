@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>نزق</em>            1                  نزق<br>\
+<b>نَزَقٌ</b>               1     <br>\
+                     نَزَقٌ<br>\
+                     ذ<br>\
+                  <i>Lightness, and unsteadiness,</i> or <i>lightwittedness,</i> (S, Msb, K,) <i>on an occasion of anger;</i> (K;) <i>i. q.</i> <br>\
+                  سَرْبَخَةٌ; <i>lightness in any work, or action: hastiness, with foolishness or ignorance:</i> (JK, TA:) <i>hastiness, or sharpness, of temper; irascibility; passionateness:</i> a meaning deduced from various examples, and confirmed by present usage.    </entryFree> <br>\
+<b>نَزِقٌ</b>               1     <br>\
+                     نَزِقٌ<br>\
+                     ذ<br>\
+                  <i>Light, and unsteady,</i> or <i>lightwitted.</i> (Msb.) See also نَزَقٌ: and see شُحْذُوذٌ.    </entryFree> <br>\
+<b>نَزِقَةٌ</b>               1     <br>\
+                     نَزِقَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      نِزَاقٌ <br>\
+                  <i>A refractory</i> she-camel; <i>hard to be managed.</i> (Msb.)    </entryFree> <br>\
+<b>نِزَاقٌ</b>               1     <br>\
+                     نِزَاقٌ<br>\
+                     ذ<br>\
+                  : see نَزِقَةٌ.    </entryFree> <br>\
+<b>اللَّبُوَةُ اَنْزَقُ مِنَ الاَسَدِ</b>               1     <br>\
+                     اللَّبُوَةُ اَنْزَقُ مِنَ الاَسَدِ<br>\
+                     ذ<br>\
+                   [<i>The lioness is more impetuous than the lion</i>]. (S, voce سَبُعَةٌ.)   </entryFree> <br>\
+' } );

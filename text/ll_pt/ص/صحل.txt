@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>صحل</em>            1                  صحل<br>\
+<b>صَحِلَ</b>               1     <br>\
+                     صَحِلَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     صَحَلَ<br>\
+                  , inf. n. صَحَلٌ, <i>He was,</i> or <i>became, hoarse, rough, harsh,</i> or <i>gruff, in voice;</i> said of a man: (S, O:) [and] صَحِلَ صَوْتُهُ, aor. as above, (K,) and so the inf. n., (TA,) <i>His voice was,</i> or <i>became, hoarse, rough, harsh,</i> or <i>gruff:</i> or <i>sharp, together with hoarseness, roughness,</i> &amp;amp;c.: or صَحَلٌ signifies <i>a roughness,</i> (خُشُونَةٌ, K,) or <i>a rattling,</i> (حَشْرَجَةٌ, Lh, TA,) <i>in the chest:</i> and <i>a cracking in the voice, without a right tenour thereof:</i> (Lh, K, TA:) one says, فِى صَوْتِهِ <br>\
+                  صَحَلٌ <br>\
+                  <i>In his voice is a hoarseness</i> [&amp;amp;c.]: (S, O:) and صَحِلَ حَلْقُهُ <br>\
+                  <i>His fauces became hoarse</i> [&amp;amp;c.]: (IB, TA:) but accord. to IAth and others, it is not Arabic [in origin]. (TA.) See also صَهَلٌ.    </entryFree> <br>\
+<b>صَحْلٌ</b>               1     <br>\
+                     صَحْلٌ<br>\
+                     ذ<br>\
+                   [app. a mistake for صَحَلٌ]: see صَحَلٌ.    </entryFree> <br>\
+<b>صَحِلٌ</b>               1     <br>\
+                     صَحِلٌ<br>\
+                     ذ<br>\
+                  , (K,) or صَحِلُ الصَّوْتِ, (S, O,) <i>Hoarse, rough, harsh,</i> or <i>gruff,</i> [&amp;amp;c.,] <i>in voice;</i> as also ↓ <br>\
+      اَصْحَلُ. (S, O, K.) And صَوْتٌ صَحِلٌ [<i>A voice that is hoarse,</i> &amp;amp;c.]. (TA, from a trad.)    </entryFree> <br>\
+<b>اَصْحَلُ</b>               1     <br>\
+                     اَصْحَلُ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.   </entryFree> <br>\
+' } );

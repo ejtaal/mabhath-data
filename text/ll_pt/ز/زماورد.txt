@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>زماورد</em>            1                  زماورد<br>\
+<b>زُمَاوَرْدٌ</b>               1     <br>\
+                     زُمَاوَرْدٌ<br>\
+                     ذ<br>\
+                  , (S and K in art. ورد,) or زَمَاوَرْدٌ, as in the Commentaries on the Keshsháf, (MF,) or زُمَّاوَرْدٌ, (MA,) an arabicized word, vulgarly بَزْمَاوَرْدٌ, (S,) or بُزْمَاوَرْدٌ, (K,) and the vulgar appellation is correct, agreeing with the Pers. original, (Shifá el-Ghaleel,) [which is بَزْمَاوَرْدٌ, or] پCماورد, (MA,) <i>A certain kind of food, composed of eggs and flesh-meat:</i> (K:) or <i>thin paste folded together, with flesh-meat within:</i> or the <i>kind of food called</i> <br>\
+                  لُقْمَةُ القَاضِى, [i. e. <i>small, light, spongy balls, generally about the size of walnuts, made of leavened dough, and eaten with honey poured over,</i>] <i>and also called</i> <br>\
+                  لُقَمَةُ الخَلِيفَةِ, <i>and</i> <br>\
+                  نَرْجِسُ <br>\
+                  المَايِدَةِ, <i>and</i> <br>\
+                  مُيَسَّرٌ, and مُهَيَّاٌ; <i>and in Khurásán called</i> <br>\
+                  نَوَالَه: (MF:) or نوالهء بزرگان: (MA:) [or, as Golius says, on the authority of Meyd, <i>a kind of food made of fine flour, bruised almonds, and honey.</i>]   </entryFree> <br>\
+' } );

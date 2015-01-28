@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>ضوف</em>            1                  ضوف<br>\
+<b>ضَافَ عَنْهُ</b>               1     <br>\
+                     ضَافَ عَنْهُ<br>\
+                     ذ<br>\
+                  , inf. n. ضَوْفٌ: see 1 in art ضيف.    </entryFree> <br>\
+<b>مَضُوفٌ</b>               1     <br>\
+                     مَضُوفٌ<br>\
+                     ذ<br>\
+                  : see art. ضيف.    </entryFree> <br>\
+<b>مَضُوفَةٌ</b>               1     <br>\
+                     مَضُوفَةٌ<br>\
+                     ذ<br>\
+                  : see art. ضيف.   </entryFree> <br>\
+' } );

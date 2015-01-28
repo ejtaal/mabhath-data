@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>ثفو</em>            1                  ثفو<br>\
+<b>ثَفَاهُ</b>               1     <br>\
+                     ثَفَاهُ<br>\
+                     ثفاه<br>\
+                     ثفاة<br>\
+                  , aor.      <br>\
+                     ثَفُوَ<br>\
+                  : see art. ثفى.   </entryFree> <br>\
+' } );

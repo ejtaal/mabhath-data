@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لج</em>            1                  لج<br>\
+<b>لَج فِى الاَمْرِ</b>               1     <br>\
+                     لَج فِى الاَمْرِ<br>\
+                     ذ<br>\
+                  <i>He kept, attended,</i> or <i>applied himself, constantly, perseveringly, or assiduously, to the thing; he was persevering,</i> or <i>assiduous, in the affair.</i> (Msb.)   </entryFree> <br>\
+' } );

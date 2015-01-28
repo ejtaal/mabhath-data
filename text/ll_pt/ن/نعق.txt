@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>نعق</em>            1                  نعق<br>\
+<b>نَعَقَ بِهِمْ اـِلَى الفِتْنَةٍ</b>               1     <br>\
+                     نَعَقَ بِهِمْ اـِلَى الفِتْنَةٍ<br>\
+                     ذ<br>\
+                  <i>He hallooed them on to fight, etc.:</i> see 10 in art. عو.     <br>\
+<b>نَاعِقٌ</b>               1     <br>\
+                     نَاعِقٌ<br>\
+                     ذ<br>\
+                  <i>One who drives away the beasts, and cries out after them.</i> (TA in art. زعق.)    </entryFree> <br>\
+<b>نَاعِقَا=ءُ</b>               1     <br>\
+                     نَاعِقَا=ءُ<br>\
+                     ذ<br>\
+                  : see عَانِقَا=ءُ.   </entryFree> <br>\
+' } );

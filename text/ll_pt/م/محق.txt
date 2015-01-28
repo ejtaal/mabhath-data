@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>محق</em>            1                  محق<br>\
+<b>مَحَقَ</b>               1     <br>\
+                     مَحَقَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَحَقَ<br>\
+                  , inf. n. مَحْقٌ, <i>He rendered</i> a thing <i>deficient, and deprived</i> it <i>of its blessing, or increase:</i> or [<i>he annihilated, annulled,</i> or <i>obliterated,</i> it;] <i>he did away with</i> it <i>wholly, so that no trace thereof remained.</i> (Msb.) ―         -b2-  ↓ <br>\
+      اَعْمَدُ مِنْ كَيْلٍ مُحِّقَ, or مُحِقَ: see عَمَدَ.    </entryFree> <br>\
+                     مَحَّقَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>لَيَالِى المُحَاقِ</b>               1     <br>\
+                     لَيَالِى المُحَاقِ<br>\
+                     ذ<br>\
+                  : see دَاْدَا=ءٌ and الدَّعْجَا=ءُ.   </entryFree> <br>\
+' } );

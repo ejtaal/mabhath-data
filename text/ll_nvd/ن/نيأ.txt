@@ -1,0 +1,45 @@
+load_data( { book: 'll_nvd', text: 'نيأ1<br>\
+نَآءَ, aor. يَنِىْءُ, (so in the S, Nh, L, Msb;<br>\
+but in some copies of the K, يناءُ, [which appears<br>\
+to be put by mistake for the inf. n. in the acc.<br>\
+case];) inf. n. نَىْءٌ, (S,) and نَىٌّ, without ء,<br>\
+and نَوْءٌ, (Sh,) It (flesh meat, &amp;c.) was not, or<br>\
+did not become, sufficiently cooked; it was insufficiently cooked: (S, K:) (like نَهِئَ:) or it<br>\
+was untouched by fire; (i. e., raw]. (L.) ―<br>\
+-b2-<br>\
+It (a thing) was not firmly, not soundly, not<br>\
+thoroughly, done. [See 4.] (TA.)<br>\
+2<br>\
+نَيَّاَ see 4.<br>\
+4<br>\
+اناء الأَمْرَ He did the thing not firmly, not<br>\
+soundly, not thoroughly. الامر ↓ نيّأ, accord. to<br>\
+the K, signifies the same: but this is unknown,<br>\
+and not authorized by transmission [from the<br>\
+Arabs of the classical ages], and therefore not<br>\
+mentioned by IM nor by other leading lexicographers: the correct phrases are [when the<br>\
+verb is intrans.] ناء الامرُ [and اللحمُ], and [when<br>\
+it is trans.] اناء اللحمَ [and الامر]: the forms<br>\
+of the verb being like بَانَ and أَبَانَ. (TA.) ―<br>\
+-b2-<br>\
+اناء, (S, incorrectly written in the K أَنْيَأَ, TA,)<br>\
+inf. n. إِنَآءَةٌ, He insufficiently cooked flesh-meat<br>\
+[&amp;c.]. (S, K.)<br>\
+نِىْءٌ Flesh meat &amp;c. insufficiently cooked: (S,<br>\
+K:) or untouched by fire; [i. e., raw]. (L.)<br>\
+It was also pronounced by the Arabs نِىٌّ; but<br>\
+the original word is with ء. (TA.) ―<br>\
+-b2-  Wine<br>\
+untouched by the fire: cooked [or mulled] wine<br>\
+being called نَضِيجٌ, (TA [written نِىٌّ, without ء]).<br>\
+―<br>\
+-b3-  Pure [and sweet] milk: sour milk being<br>\
+called نضيج: or milk just drawn from the udder,<br>\
+before it is put into the skin. (TA [written نِىٌّ,<br>\
+without ء.])<br>\
+نَىٌّ [for نَىْءٌ] Fat, as contradistinguished from<br>\
+flesh, [which is app. called نَضِيجٌ]. (TA.)<br>\
+نُيُوْءٌ and نُيُوْءَةٌ The state of being insufficiently<br>\
+cooked: (S, K:) or of being untouched by fire;<br>\
+[i. e., rawness]. (L.)<br>\
+' } );

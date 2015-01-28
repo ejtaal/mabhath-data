@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>زح</em>            1                  زح<br>\
+<b>زَحَّهُ</b>               1     <br>\
+                     زَحَّهُ<br>\
+                     ذ<br>\
+                  , (S, L, K,) aor.      <br>\
+                     زَحُ٣َ<br>\
+                  , (S, L,) inf. n. زَحٌّ; (L;) and ↓ <br>\
+      زَحْزَحَهُ; (L;) <i>He removed him,</i> or <i>it, from his,</i> or <i>its, place:</i> (S, L, K:) and <i>he pushed,</i> or <i>thrust, away, him,</i> or <i>it:</i> (L, K:) or the latter, <i>he removed him,</i> or <i>it, far away; placed,</i> or <i>put, him,</i> or <i>it, at a distance, far away,</i> or <i>far off:</i> (S, A, Mgh, L, Msb:) and the former signifies also <i>he drew, dragged,</i> or <i>pulled, away, him,</i> or <i>it, in haste.</i> (L, K.) You say, ↓ <br>\
+      زَحْزَحَهُ <br>\
+                  عَنْهُ <br>\
+                  <i>He removed him,</i> or <i>it, far away;</i> (S, K;) or <i>pushed,</i> or <i>thrust, away;</i> and <i>removed; him,</i> or <i>it;</i> (TA;) <i>from it;</i> (S, K;) i. e. from his, or its, place. (TA.) It is said in the Kur [iii. 182], عَنِ النَّارِ وَاُدْخِلَ الجَنَّةَ فَقَدْ فَازَ ↓ <br>\
+      فَمَنْ زُحْزِحَ, i. e. [<i>And he</i>] <i>who shall be removed</i> [<i>from the fire</i> of Hell], or <i>removed far away</i> [<i>therefrom, and made to enter Paradise, shall attain good fortune</i>]. (TA.)    </entryFree> <br>\
+<b>زَحْزَحَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     زَحْزَحَ<br>\
+                     ذ<br>\
+                  : see above, in three places:       -A2-  and see also the paragraph here following.    </entryFree> <br>\
+<b>تَزَحْزَحَ</b>               1     <br>\
+                     <i>R. Q. 2</i>        <br>\
+                     تَزَحْزَحَ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, removed,</i> or <i>became removed;</i> (S, A, Mgh, Msb;) and (Mgh, Msb) <i>removed,</i> or <i>became removed, far away:</i> (Mgh, Msb, K:) and accord. to Es-Semeen, ↓ <br>\
+      زَحْزَحَ is likewise used in an intrans. sense, as well as a trans.; but MF says that its use in an intrans. sense is strange. (TA.) You say, دَخَلْتُ عَلَى <br>\
+                  فُلَانٍ فَتَزَحْزَحَ لِى عَنْ مَجْلِسِهِ, i. e. [<i>I went in to such a one, and</i>] <i>he removed</i> [<i>for me from his sitting-place</i>]. (Mgh, Msb. *)    </entryFree> <br>\
+<b>زَحْزَحٌ</b>               1     <br>\
+                     زَحْزَحٌ<br>\
+                     ذ<br>\
+                  <i>Distance:</i> so in the saying, هُوَ بِزَحْزَحٍ مِنْهُ [<i>He,</i> or <i>it, is at a distance from him,</i> or <i>it</i>]. (S, K.) Az says that, accord. to some, this is a reduplicative word from زَاحَ, aor. يَزِيحُ, meaning تَاَخَّرَ; and some hold it to be from الزَّوْحُ meaning “ the driving vehemently, ” as also الذَّوْحُ. (TA.)    </entryFree> <br>\
+<b>زَحْزَاحٌ</b>               1     <br>\
+                     زَحْزَاحٌ<br>\
+                     ذ<br>\
+                  <i>Distant; remote.</i> (K.)    </entryFree> <br>\
+<b>مُتَزَحْزَحٌ</b>               1     <br>\
+                     مُتَزَحْزَحٌ<br>\
+                     ذ<br>\
+                  <i>A place to which one removes,</i> or <i>may remove,</i> [in an absolute sense, as is implied in the A, or] <i>far away.</i> (Ham p. 655.) One says, مَالِى <br>\
+                  عَنْهُ مُتَزَحْزَحٌ [<i>There is not for me any place to which to remove from him,</i> or <i>it</i>]. (A.)   </entryFree> <br>\
+' } );

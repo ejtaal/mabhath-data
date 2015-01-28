@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'وبل1<br>\
+وَبَلَ<br>\
+He (a horse) ran vehemently: see an<br>\
+ex. in a verse cited voce دَامَ, in art. دوم.<br>\
+وَبْلٌ<br>\
+Violent rain, consisting of large drops; as<br>\
+also ↓ وَابِلٌ; (K;) a heavy rain.<br>\
+بُلَةٌ<br>\
+: see إِبَالَةٌ.<br>\
+وَبَلَةٌ<br>\
+: see أَبَلَةٌ.<br>\
+وَبَالٌ<br>\
+An evil result. (Msb.)<br>\
+وَبِيلَةٌ<br>\
+: see إِبَالَةٌ.<br>\
+وَابِلٌ<br>\
+: see وَبْلٌ.<br>\
+وَابِلَةٌ<br>\
+The extremity [in which is the glenoid<br>\
+cavity] of the scapula: and the portion of flesh<br>\
+[or muscle] of the scapula. (IAar, T.) See<br>\
+مَرْدَغَةٌ, and also ضَدَفٌ; and more particularly<br>\
+اِنْفَرَكَ.<br>\
+' } );

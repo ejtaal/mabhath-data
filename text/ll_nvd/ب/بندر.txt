@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'بندربَنْدَرٌ [app. from the Persian بَنْدَرْ,] A place<br>\
+where ships or boats anchor or moor; a port [or<br>\
+port-town: pl. بَنَادِرُ]. (K, TA.)<br>\
+' } );

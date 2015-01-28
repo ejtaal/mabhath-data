@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'وهى1<br>\
+وَهَى<br>\
+It was, or became, much slit, or rent.<br>\
+(Msb.) ―<br>\
+-b2-  It was, or became, lax, flaccid, or<br>\
+flabby: (Msb:) or weak; said of a rope, (Mgh,)<br>\
+or other thing: or it fell. (Msb.) See وَاهٍ. ―<br>\
+-b3-<br>\
+وَهَِىَ<br>\
+It was, or became, uncompact, unsound, or<br>\
+weak. ―<br>\
+-b4-  وَهَى أَمْرُهُ [His affair, or case, was, or<br>\
+became, in a weak, or an unsound, state]. (TA,<br>\
+art.نغض, &amp;c.)<br>\
+وَاهٍ<br>\
+Lax; weak: frail; wanting in strength,<br>\
+compactness, firmness, or toughness; unsubstantial; unsound. See an ex. in the S, voce<br>\
+أُنْشُوطَةٌ, where it is applied to love, or affection.<br>\
+―<br>\
+-b2-  وَاهًا: see an ex. voce نُغْبَةٌ; and see آهِ, in<br>\
+art. اوه, in two places.<br>\
+' } );

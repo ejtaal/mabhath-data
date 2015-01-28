@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اوز&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اوز<br>\
+&lt;entryFree id=&quot;n1489&quot; key=&quot;اـِوَزٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِوَزٌّ<br>\
+                     اوز<br>\
+                     اـوز<br>\
+                     اـوزة<br>\
+                     اوز<br>\
+                     وز<br>\
+                  &lt;/form&gt; (S, Msb, K) and اـِوَزَّةٌ, (S,) or the latter is the n. un. of the former, [which is a coll. gen. n.,] (Msb,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  بَطٌّ [The &lt;i&gt;goose,&lt;/i&gt; or &lt;i&gt;geese;&lt;/i&gt; and the &lt;i&gt;duck,&lt;/i&gt; or &lt;i&gt;ducks;&lt;/i&gt; but اوزّ is generally applied to the former of these birds; and بطّ, to the latter; agreeably with a statement in the Jm, that بَطٌّ is applied by the Arabs to the &lt;i&gt;small,&lt;/i&gt; and اـِوَزٌّ to the &lt;i&gt;large&lt;/i&gt;]; (S, K;) as also وَزٌّ, of which the n. un. is وَزَّةٌ: (Msb:) اـِوَزٌّ is of the measure فِعَلٌّ: (Msb:) [but see what follows:] the pl. is اـِوَزُّونَ, (S, Msb, K,) a form which is sometimes used, (S, Msb,) and which is anomalous. (Msb.) [See also كُرْكِىٌّ.] ―         -b2-  [Hence,] اـِوَزٌّ also signifies (assumed tropical:)  &lt;i&gt;Short and thick:&lt;/i&gt; (K:) &lt;i&gt;fleshy without being tall:&lt;/i&gt; (Lth, TA:) fem. with ة. (TA.) El-&#39;Okberee asserts that the ا is augmentative, because it is followed by three radical letters: (MF, TA:) but ISd says that it is of the measure فِعَلٌّ, and may not be of the measure اـِفْعَلٌ, [i. e., originally اـِوْزَزٌ,] because this does not occur as the measure of an epithet. (TA.) [It seems, however, that اوزّ is in this case a subst. used tropically as an epithet, after the manner of many nicknames.] ―         -b3-  Also, applied to a man, and to a horse, and to a camel, &lt;i&gt;Firm in make:&lt;/i&gt; (AHei in the Expos. of the Tes-heel, and TA:) or, applied to a horse, &lt;i&gt;compact and strong in make.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1490&quot; key=&quot;اـِوَزَّي&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِوَزَّي<br>\
+                     اـوزة<br>\
+                     اـوزي<br>\
+                     اوزى<br>\
+                     اوزي<br>\
+                  &lt;i&gt;A manner of walking in which is a moving up and down:&lt;/i&gt; or &lt;i&gt;leaning on one side;&lt;/i&gt; (K;) [the latter omitted in the CK;] &lt;i&gt;at one time on the right and at another on the left [like a goose or duck&lt;/i&gt;]: (TA:) and the &lt;i&gt;walk of a sprightly horse.&lt;/i&gt; (TA.) Az says that it may be of the measure اـِفْعَلَى, [i. e., originally اـِوْزَزَّى,] or فِعَلَّى; but Abu-l-Hasan holds the latter to be the more correct, because it is the measure of many words relating to walking; as جِيَضَّى, and دِفَقَّى. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1491&quot; key=&quot;اَضٌ مَاْوَزَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَضٌ مَاْوَزَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A land abounding with the birds called&lt;/i&gt; <br>\
+                  اـِوَزّ. (Sgh, K.)   &lt;/entryFree&gt; <br>\
+' } );

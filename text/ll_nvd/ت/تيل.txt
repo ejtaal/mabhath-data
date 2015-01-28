@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'تيلتِيلٌ [Hemp, of which ropes and cloths are<br>\
+manufactured; thus called by the Arabs in the<br>\
+present day; perhaps from the Persian تِيلَا “ a<br>\
+rope; ”] a certain thing resembling flax, that comes<br>\
+forth from the sea; [possibly meaning that it is<br>\
+imported into Arabia;] and of which cloths are<br>\
+woven. (TA.)<br>\
+' } );

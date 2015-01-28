@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>مصت</em>            1                  مصت<br>\
+<b>مَصَتَ</b>               1     <br>\
+                     مَصَتَ<br>\
+                     ذ<br>\
+                  , ([aor.      <br>\
+                     مَصُتَ<br>\
+                  ,] inf. n. مَصْتٌ TA,) <i>Inivit</i> puellam: [K:) dial. form of مصَدَ. (TA.) ―         -b2-  مَصَتَ النَّاقَةَ <br>\
+                  <i>He laid hold upon the womb of the camel, and put in his hand, and extracted the water</i> [i. e. <i>the semen injected into it</i>]. (M, K.) [See also مَسَطَ.] ―         -b3-  مَصَتَ المِعَى <br>\
+                  <i>He squeezed out what was in the intestine,</i> or <i>gut, with his fingers.</i> (TA.) ―         -b4-  مَصَتَ <br>\
+                  <i>It</i> (herbage) <i>purged</i> cattle; or <i>relaxed</i> them <i>in the bowels.</i> (Marg. note in a copy of the S.) ―         -b5-  مَصَتَ <br>\
+                  <i>He squeezed</i> an ulcer, <i>so as to express the matter.</i> (Marg. note in a copy of the S) ―         -b6-  مَصَتَ <br>\
+                  <i>He sucked</i> saliva. (Marg. note in a copy of the S.)   </entryFree> <br>\
+' } );

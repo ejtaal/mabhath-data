@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>قن</em>            1                  قن<br>\
+<b>قُنَّةٌ</b>               1     <br>\
+                     قُنَّةٌ<br>\
+                     ذ<br>\
+                  <i>An isolated mountain.</i> (K, voce جَبَلٌ.) See a verse cited in art. عز.    </entryFree> <br>\
+<b>قِنَّةٌ</b>               1     <br>\
+                     قِنَّةٌ<br>\
+                     ذ<br>\
+                  <i>Galbanum:</i> so in the present day: see سَكْبِينَجٌ.    </entryFree> <br>\
+<b>رَجُلٌ اُنَنَةٌ قُنَنَةٌ</b>               1     <br>\
+                     رَجُلٌ اُنَنَةٌ قُنَنَةٌ<br>\
+                     ذ<br>\
+                  : see art. ان. The last word may perhaps be a mistranscription for فُنَنَةٌ (from فَنُّ): but this I have not found in art. فن.    </entryFree> <br>\
+<b>قِنِّيَّةٌ</b>               1     <br>\
+                     قِنِّيَّةٌ<br>\
+                     ذ<br>\
+                   The <i>state,</i> or <i>condition, of slavery.</i>   <br>\
+' } );

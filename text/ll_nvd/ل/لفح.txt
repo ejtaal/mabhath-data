@@ -1,0 +1,46 @@
+load_data( { book: 'll_nvd', text: 'لفح1<br>\
+لَفَحَتْهُ النَّارُ, (S, M, K,) aor.<br>\
+لَفَحَ, (M,) inf. n.<br>\
+لَفْحٌ and لَفَحَانٌ, (M, K,) The fire smote, or hurt,<br>\
+his face; as also لفحت وَجْهَهُ: (M, O:) the fire<br>\
+burned him; (TA;) as also نفحته النار بِحَرِّهَا;<br>\
+(S, K;) and in like manner the hot wind called<br>\
+سَمُوم: (S:) لَفَحَتْ and نَفَحَتْ are syn., except<br>\
+that the effect of النَّفْح is greater than that of<br>\
+اللَّفْح: (Zj:) or لَفْحٌ relates to a hot wind; and<br>\
+نَفْحٌ, to a cold, or cool, wind: (As, S:) you also<br>\
+say لفحته السَّمُوم meaning the سموم blew in his face.<br>\
+(L.) ―<br>\
+-b2-  Also لَفَحَهُ, aor.<br>\
+لَفَحَ, He smote, or struck,<br>\
+him, with a sword, (S, K,) lightly, or slightly:<br>\
+you say لَفَحْتُهُ بِالسَّيْفِ لَفْحَةً I struck him with<br>\
+the sword a light, or slight, blow. (S.)<br>\
+أَصَابَهَ لفْحٌ مِنْ حَرُورٍ وَسَمُومٍ A burning gust of<br>\
+hot night-wind, and of hot day-wind, smote him.<br>\
+(L.) ―<br>\
+-b2-  أَصَابَهُ مِنَ الحَرِّ لَفْحٌ وَمِنَ البَرْدِ نَفْحٌ [A<br>\
+blast of heat smote him, and a blast of cold]. (A.)<br>\
+―<br>\
+-b3-  You say also لَوَافِحُ السَّمُوِم [pl. of ↓ لَافِحَةٌ,<br>\
+and meaning Burning blasts of the سموم]. (S,<br>\
+K in art. سفع.)<br>\
+لَفْحَةٌ A light, or slight, blow with a sword. (S.)<br>\
+لُقَّاحٌ A certain well known plant, (K,) of the<br>\
+kind termed يَقْطِينِىٌّ, (L,) which people smell, (S.)<br>\
+yellow, and of sweet odour, (A, L,) resembling the<br>\
+بَاذِنْجَان (S, A, K,) when it becomes yellow;<br>\
+(S, A;) [accord. to Golius, app. on the authority<br>\
+of Ibn-Beytár, the same which the Syrians and<br>\
+Egyptians call شَمَّامٌ, q. v.]. ―<br>\
+-b2-  Also, The fruit,<br>\
+or produce, (ثَمَرَة,) of the يَبْرُوح [or mandrake,<br>\
+which is called by this name (يبروح) in the<br>\
+present day]; (K;) thus correctly written, with<br>\
+the ى before the ب [not ببروح, as in the CK<br>\
+and some MS. copies]. (TA.) [It seems that<br>\
+the application of the term لفّاح to both the mandrake and the شمّام has led to confusion, and<br>\
+occasioned Linnæus to call the latter “ cucumis<br>\
+dudaim. ” See also يَبْرُوحٌ, and مَغْدٌ.]<br>\
+لَافِحَةٌ: see لَفْحٌ.<br>\
+' } );

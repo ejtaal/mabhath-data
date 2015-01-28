@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>منا</em>            1                  منا<br>\
+<b>مَنَاَ</b>               1     <br>\
+                     مَنَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَنَاَ<br>\
+                  , (S, K,) inf. n. مَنْءٌ, (S,) <i>He soaked</i> a hide <i>in tanning-liquid,</i> or <i>ooze.</i> (S, K.)       -A2-  مَنَاَهُ <br>\
+                  <i>He conformed with him in what he did.</i> (TA.)    </entryFree> <br>\
+<b>مَنِيْيَةٌ</b>               1     <br>\
+                     مَنِيْيَةٌ<br>\
+                     ذ<br>\
+                  <i>A hide in the first stage of tanning:</i> (AZ, S, K:) it is next called اَفِيقٌ; and then اَدِيمٌ: (AZ, S:) or <i>a hide as long as it remains in the tanning-liquid.</i> (TA.) ―         -b2-  <i>A place where hides are tanned.</i> (As, Ks, S, K.) ―         -b3-  Also, accord. to some, <i>Tan,</i> or <i>that with which one tans.</i> (TA.) ―         -b4-  This word is not to be pronounced without ء, because مَنِيَّةٌ signifies “ death. ” (MF.)    </entryFree> <br>\
+<b>مَمْنَاَةٌ</b>               1     <br>\
+                     مَمْنَاَةٌ<br>\
+                     ذ<br>\
+                  <i>A black land:</i> (K:) also without ء. (TA.)   </entryFree> <br>\
+' } );

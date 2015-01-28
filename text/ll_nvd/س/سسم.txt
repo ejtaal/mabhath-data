@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'سسمسَاسَمٌ, without ء, (AHát, TA,) A kind of tree,<br>\
+of which arrows are made: (AHát, M:) a<br>\
+kind of black tree: (S, K:) or a kind of tree<br>\
+(AHn, M, K) of the mountains, of the [sort<br>\
+termed] عُتُق, (AHn, M,) of which bows are made:<br>\
+(AHn, M, K:) or, (K,) as some assert, (AHn,<br>\
+M,) the [tree called] آبِنُوس [i. e. ebony]: (AHn,<br>\
+M, K:) or, (K,) as others assert, (AHn, M,) the<br>\
+[tree called] شِيز: (AHn, M, K: [in some copies<br>\
+of the K شِيزَى, which means the same:]) but<br>\
+neither of these two is suitable for bows. (AHn,<br>\
+M.)<br>\
+' } );

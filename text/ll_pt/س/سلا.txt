@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>سلا</em>            1                  سلا<br>\
+<b>سَلَاَ السَّمْنَ</b>               1     <br>\
+                     سَلَاَ السَّمْنَ<br>\
+                     ذ<br>\
+                  , (S, M, Mgh, Msb, K,) aor.      <br>\
+                     سَلَاَ<br>\
+                  , (M, Msb, K,) inf. n. سَلْءٌ; (M, Msb;) and ↓ <br>\
+      استلاهُ; (S, K;) <i>He cooked the</i> <br>\
+                  سَمْن [here meaning <i>butter</i>], (S, M, Mgh, Msb, K,) <i>and worked it together,</i> (S, Mgh, K,) <i>and melted its</i> <br>\
+                  زُبْد [or <i>fresh, unclarified, portion</i>], (M,) <i>until it became clear</i> (Mgh, Msb) <i>from the milk remaining in it;</i> (Msb;) <i>he cleared the</i> <br>\
+                  سمن [or <i>butter</i>] <i>from the</i> <br>\
+                  زُبْد [or <i>fresh, unclarified, portion</i>]; (Ham p. 2, in explanation of the former phrase; [i. e. <i>he clarified the butter:</i>] and سُلِيَ سَمْنًا, said of fresh butter, <i>it was made into</i> <br>\
+                  سَمْن [or <i>clarified butter;</i> i. e., <i>was clarified</i>]. (Mgh.) ―         -b2-  And سَلَاَ السِمْسِمَ, (M, K,) [aor. and] inf. n. as above, (M,) <i>He pressed the sesame,</i> or <i>sesamum,</i> (M, K,) <i>and extracted its oil.</i> (M.)       -A2-  سَلَاَ النَّخْلَ, (AZ, S,) or النَّخْلَةَ, (AHn, M,) or الجِذْعَ, (M, K,) and العَسِيبَ, [aor, and] inf. n. as above, (AZ, AHn, S, M,) <i>He plucked off the prickles,</i> (AZ, S, M, K,) i. e. (K) <i>what are called the</i> <br>\
+                  سُلَّا=ء, (AHn, M, K,) <i>of the palm-trees,</i> (AZ, S,) or <i>of the palm-tree,</i> (AHn, M,) or <i>of the palm-trunk,</i> (M, K,) and <i>of the</i> [<i>part called</i>] عَسِيب [<i>of a palm-branch</i>]. (AZ, AHn, S, M.)       -A3-  سَلَاَهُ مِايَةَ سَوْطٍ, (As, S, M, K, *) [aor. and] inf. n. as above, (M,) <i>He inflicted upon him a hundred lashes of the whip.</i> (M, K. *) ―         -b2-  And سَلَاَهُ مِايَةَ دِرْهَمٍ, (As, S, M, K, *) [aor. and] inf. n. as above, (M,) <i>He payed him,</i> or <i>payed him in ready money, a hundred dirhems,</i> (As, S, M, K, *) <i>promptly,</i> or <i>quickly.</i> (K.)    </entryFree> <br>\
+                     اـِسْتَلَاَ<br>\
+                   see above, first sentence. [See also 8 in art. سلى].    </entryFree> <br>\
+<b>سِلَا=ءٌ</b>               1     <br>\
+                     سِلَا=ءٌ<br>\
+                     ذ<br>\
+                   [<i>Clarified butter;</i>] the subst. from سَلَاَ <br>\
+                  السَّمْنَ: pl اَسْلِيَةٌ. (S, M, K.) El-Farezdak says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كَانُوا كَسَالِيَةٍ حَمْقَا=ءَ اـِذْ حَقَنَتْ<br>\
+                     <L><br>\
+                        سِلَا=ءَهَا فِى اَدِيمٍ غَيْرِ مَرْبُوبِ<br>\
+                  </quote> [<i>They were like a stupid female clarifying butter, when she collected her clarified butter in a skin not seasoned with rob</i>]. (S.)       -A2-  See also what follows.    </entryFree> <br>\
+<b>سُلَّاءٌ</b>               1     <br>\
+                     سُلَّاءٌ<br>\
+                     ذ<br>\
+                   The <i>prickles of the palm-tree:</i> [a coll. gen. n.:] n. un. with ة. (S, M, Msb, K.) ―         -b2-  Also, (K,) or [correctly the n. un.] سُلَّا=ءَةٌ, (M,) <i>A sort of arrow-head,</i> or <i>spear-head,</i> (M, K, *) <i>in shape like the prickle of the palm-tree:</i> (M, K:) and سلاءة, app. [سِلَا=ءَةٌ] without teshdeed [and with kesr], occurs in a trad. in this sense; for it is said that its pl. is ↓ <br>\
+      سِلَا=ءٌ, of the same measure as حِمَارٌ. (TA.)       -A2-  Also <i>A certain bird,</i> (M, K,) <i>dust-coloured, and long-legged.</i> (M.)   </entryFree> <br>\
+' } );

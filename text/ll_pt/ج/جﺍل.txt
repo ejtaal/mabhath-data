@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جال&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جال<br>\
+&lt;entryFree id=&quot;n4890&quot; key=&quot;جَيْاَلُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَيْاَلُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The&lt;/i&gt; <br>\
+                  ضَبُع [or &lt;i&gt;female hyena&lt;/i&gt;]; (S, K;) a name thereof, of the measure فَيْعَلُ, determinate without ال (S,) imperfectly decl.; (K;) as also ↓ <br>\
+      جَيْاَلَةُ, (S, K,) accord. to Ks; (S;) and جَيَلُ, without ء, (S, K,) the ى not being changed into ا as in نَابٌ and the like because the ء, though literally suppressed, is considered as though meant to be retained, and because the ى is considered as though meant to be quiescent; (Aboo-&#39;Alee the grammarian, S, TA;) and الجَيْاَلُ, (K,) like the first, but with ال. (TA.) ―         -b2-  Also, الجَيْاَلُ, accord. to Ibn-Es-Seed, &lt;i&gt;The wolf:&lt;/i&gt; but MF deems this strange. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4891&quot; key=&quot;جَيْاَلَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَيْاَلَةُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see above.   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>تلاب</em>            1                  تلاب<br>\
+<b>اِتْلَاَبَّ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اِتْلَاَبَّ<br>\
+                     ذ<br>\
+                  : &amp;amp;c.: see art. تلب.   </entryFree> <br>\
+' } );

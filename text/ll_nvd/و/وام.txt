@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'وأم3<br>\
+وَاَّ^َ<br>\
+See art. ومأ.<br>\
+وِئَامٌ<br>\
+The being mutually near; mutually agreeing. (T, voce تَوْءَمٌ.)<br>\
+التَّوْءَمَانِ<br>\
+, The herb so called: see art. تأم.<br>\
+' } );

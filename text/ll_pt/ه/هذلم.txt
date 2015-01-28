@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>هذلم</em>            1                  هذلم<br>\
+<b>هَذْلَمَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     هَذْلَمَ<br>\
+                     ذ<br>\
+                  , inf. n. هَذْلَمَةٌ, <i>He was light,</i> or <i>active, and quick.</i> (K.) But IDrd and others assert it to be a word mispronounced for هَذْرَم. (MF.)   </entryFree> <br>\
+' } );

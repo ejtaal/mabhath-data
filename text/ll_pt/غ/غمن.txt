@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>غمن</em>            1                  غمن<br>\
+<b>غَمَنَ الجِلْدَ</b>               1     <br>\
+                     غَمَنَ الجِلْدَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     غَمُنَ<br>\
+                  , (S,) inf. n. غَمْنٌ, (TA,) <i>i. q.</i> <br>\
+                  غَمَلَهُ; (K;) [see the latter;] <i>He put together the skin after it had been stripped off, and covered it over until its wool became loose, for the purpose of tanning:</i> (TA:) or <i>he covered over the skin</i> (S, TA) <i>for two nights, for the purpose of tanning,</i> (TA,) <i>in order that its wool might become loosened from it:</i> (S, TA:) and the epithet applied to it is ↓ <br>\
+      غَمِينٌ, (S, K,) like غَمِيلٌ. (S.) ―         -b2-  And غَمَنَ التَّمْرَ, (S,) or البُسْرَ, (K, TA,) has the like meaning, (S,) <i>i. q.</i> <br>\
+                  غَمَلَهُ; (K;) <i>He covered over</i> [<i>the dates,</i> or] <i>the unripe dates, in order that they might become ripe;</i> (TA:) and the epithet applied to them is ↓ <br>\
+      مَغْمُونٌ, like مَغْمُولٌ. (TA in art. غمل.) ―         -b3-  And غَمَنَ فُلَانًا [like غَمَلَهُ] <i>He threw his clothes upon such a one, in order that he should sweat.</i> (K.)       -A2-  غُمِنَ فِى <br>\
+                  الاَرْضِ means اَدْخِلَ فِيهَا [app. <i>It,</i> or perhaps <i>he, was put into the earth;</i> or <i>made to enter into it</i>]. (K.)    </entryFree> <br>\
+<b>انغمن</b>               1     <br>\
+                     انغمن<br>\
+                     ذ<br>\
+                  <i>It,</i> or <i>he, entered</i> [into the earth: see غُمِنَ (immediately preceding); of which it is expl. as denoting the consequence]. (K.)    </entryFree> <br>\
+<b>غُمْنَةٌ</b>               1     <br>\
+                     غُمْنَةٌ<br>\
+                     ذ<br>\
+                   [<i>A mixture of</i>] <i>white lead</i> (اـِسْفِيدَاج) <i>and</i> [<i>the cosmetic termed</i>] غُمْرَة [q. v.] <i>with which a woman rubs over her face:</i> (K:) pl. غُمَنٌ [meaning <i>sorts thereof</i>]. (TA.)    </entryFree> <br>\
+<b>غَمِينٌ</b>               1     <br>\
+                     غَمِينٌ<br>\
+                     ذ<br>\
+                  : see 1, first sentence.    </entryFree> <br>\
+<b>مَغْمُونٌ</b>               1     <br>\
+                     مَغْمُونٌ<br>\
+                     ذ<br>\
+                  : see 1, second sentence. ―         -b2-  Also, applied to flesh-meat, <i>i. q.</i> <br>\
+                  مَغْمُولٌ, q. v. (TA in art. غمل.) ―         -b3-  And Palm-trees (نَخْل) <i>near together;</i> like مَغْمُولٌ. (TA.)   </entryFree> <br>\
+' } );

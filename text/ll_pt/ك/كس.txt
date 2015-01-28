@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>كس</em>            1                  كس<br>\
+<b>كَسَا</b>               1     <br>\
+                     كَسَا<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَسَ٣َ<br>\
+                  , (S, K,) inf. n. كَسْءٌ, (TA,) <i>He,</i> or <i>it, pursued,</i> or <i>followed,</i> another, (S, K,) as one follows a party which he has put to flight: like كَسَعَ. (S.) ―         -b2-  كَسَاَ, (K,) inf. n. كَسْءٌ, (TA,) <i>He urged on</i> a beast of carriage. <i>in the track,</i> or <i>at the heels, of another.</i> (K.)       -A2-  كَسَاَ, (K,) inf. n. كَسْءٌ, (TA,) <i>He overcame</i> a party <i>in litigation</i> or <i>the like.</i> (K.)       -A3-  كَسَاَ (perhaps a mistake for كَشَاَ, TA,) <i>He smote</i> a person with a sword. (K.)    </entryFree> <br>\
+<b>كَسْءٌ</b>               1     <br>\
+                     كَسْءٌ<br>\
+                     ذ<br>\
+                   inf. n. of 1. q. v.       -A2-  مرَّ كَسْءٌ مِنَ اللَّيْلِ <br>\
+                  <i>A part of the night passed.</i> (K.)    </entryFree> <br>\
+<b>كُسْءٌ</b>               1     <br>\
+                     كُسْءٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      كُسُوْءٌ The <i>hinder,</i> or <i>latter, part</i> of anything: pl. اَكْسَاءٌ. (S, K.) ―         -b2-  كُسْءٌ الشَّهْرِ, and ↓ <br>\
+      كُسُوْوُهُ, <i>The latter part of the month; its last ten days,</i> or <i>about that period.</i> (TA.) ―         -b3-  جَاءَ فِى كُسْءِ الشَّهْرِ, and عَلَى كُسْيِهِ, <i>He came in the latter part,</i> or <i>end, of the month.</i> (TA.) ―         -b4-  جَاءَ عَلَى كُسْءِ الشَّهْرِ, and على اَكْسَايِهِ, and ↓ <br>\
+      جِيْتُكَ عَلَى كُسَايِهِ, [in the TA written, app. by a mistake of the transcriber, على كساءه, and فِى كُسَايِهِ, [so in the TA,] <i>He came,</i> and <i>I came to thee, at the end of the month, after the whole month had passed.</i> (TA.) ―         -b5-  جِيْتُ فِى <br>\
+                  اَكْسَا=ءِ القَوْمِ <br>\
+                  <i>I came among the latter of the people.</i> (TA.) ―         -b6-  مَرُّوا فِى اَكْسَا=ءِ المُنْهَزِمِينَ, and على اَكْسَايِهِمْ, <i>They went at the heels of the routed party.</i> (TA.) رَكِبَ كُسْاَهُ <br>\
+                  <i>He fell upon the back of his neck,</i> or <i>head.</i> (K.)    </entryFree> <br>\
+<b>كُسَا=ءٌ</b>               1     <br>\
+                     كُسَا=ءٌ<br>\
+                     ذ<br>\
+                  : see كُسْءٌ.    </entryFree> <br>\
+<b>كُسُوْءٌ</b>               1     <br>\
+                     كُسُوْءٌ<br>\
+                     ذ<br>\
+                  : see كُسْءٌ.   </entryFree> <br>\
+' } );

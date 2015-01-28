@@ -1,0 +1,67 @@
+load_data( { book: 'll_nvd', text: 'دأى1<br>\
+دَأَى, and دَأَا, aor. يَدْأَى, (T, M, K,) inf. n.<br>\
+دَأْىٌ, (T, M,) of the former verb, (M,) and دَأْوٌ,<br>\
+(T, K,) of the latter verb, (K,) said of a wolf,<br>\
+(M, K,) [and of a man, as shown below,] He<br>\
+deceived, deluded, beguiled, circumvented, or outwitted, him. (T, M, K.) You say, دَأَيْتُ لَهُ, (S,<br>\
+K,) aor. أَدْأَىْ لَهُ, inf. n. دَأْىٌ, I deceived, deluded,<br>\
+&amp;c., it, namely, a thing, (S, K,) or him, namely,<br>\
+a man; (so in one of my copies of the S;) and<br>\
+so دَأَوْتُ لَهُ. (S, M.) And الذِّئْبُ يَدْأَى لِلْغَزَالِ<br>\
+The wolf deceives, deludes, &amp;c., the gazelle, or the<br>\
+young gazelle: (S, M:) or walks, or goes, in the<br>\
+manner of him who deceives, deludes, &amp;c., to the<br>\
+gazelle, or the young gazelle. (T.)<br>\
+دَأْىٌ and ↓ دِئِىٌّ and ↓ دُئِىٌّ, (M, K,) the last<br>\
+said by IB, on the authority of As, to be pl. of<br>\
+[the n. un.] ↓ دَأْيَةٌ, of the measure فُعُولٌ, [originally دُؤُوىٌ,] (TA,) The vertebræ of the كَاهِل<br>\
+[or withers (app. of a camel)] and of the back:<br>\
+or the cartilages of the breast: or the ribs thereof,<br>\
+where it meets the side: (M, K:) or ↓ الدَّأَيَاتُ<br>\
+signifies the ribs of [i. e. within] the shoulderblade, three on either side; (IAar, M, K;) sing.<br>\
+↓ دَأْيَةٌ: (M:) or ↓ دَأْيَةٌ, (T,) or دَأْىٌ, (S,) signifies the part of the camel against which lies the<br>\
+[piece of wood called] ظَلِفَة of the saddle, and which<br>\
+is [often] galled thereby: (T, S:) or دَأْىٌ is the<br>\
+pl. [or coll. gen. n.] of ↓ دَأْيَةٌ, and signifies the<br>\
+vertebræ of the withers, in the part between the<br>\
+two shoulder-blades, of the camel, peculiarly;<br>\
+(Lth, T;) and the pl. [of دَأْيَةٌ] is ↓ دَأَيَاتٌ: (Lth,<br>\
+T, S:) or the دأيات are the vertebræ of the neck:<br>\
+or the vertebræ of the spine: (AO, T:) or the<br>\
+two ribs next to the وَاهِنَتَانِ are called the دَأْيَتَانِ:<br>\
+AZ says that the Arabs knew not the term دأيات<br>\
+in relation to the neck, but they knew it in relation to the ribs, as signifying six [ribs] next to<br>\
+the stabbing-place of the camel, three on either<br>\
+side; and this is correct: (T:) [and it is said in<br>\
+the L, in art. جنح, that دَأْىٌ signifies the ribs of<br>\
+the back, of a man, which are called the جَوَانِح,<br>\
+pl. of جَانِحَةٌ, six in number, three on the right<br>\
+and three on the left:] the pl. of دَأْىٌ [or rather<br>\
+the quasi-pl. n.] is دَئِىٌّ, like as ضَئِينٌ is of ضَأْنٌ,<br>\
+and مَعِيزٌ of مَعْزٌ: (S:) and, accord. to IB, دُئِىٌّ<br>\
+is a pl. of ↓ دَأْيَةٌ, as mentioned above, meaning<br>\
+the vertebræ of the neck. (TA.)<br>\
+دَأْيَةٌ; and its pls. دَأَيَاتٌ and دُئِىٌّ: see the next<br>\
+preceding paragraph, in seven places. ―<br>\
+-b2-  Hence,<br>\
+(S,) اِبْنُ دَأْيَةَ The غُرَاب [or crow]: (S, M, K:)<br>\
+so called because it alights upon, and pecks, the<br>\
+دأية of the camel that has galls, or sores. (M.)<br>\
+-A2-  Also The part, of a bow, upon which the<br>\
+arrow lies: there are two parts of which each is<br>\
+thus called, next to the part of the stave that is<br>\
+held by the hand, above and below. (M.)<br>\
+-A3-  دَايَةٌ<br>\
+[without ء, from the Pers. دَايَهْ,] A child&#39;s nurse;<br>\
+a woman who has the charge of a child, who takes<br>\
+care of him, and rears, or nourishes, him; (TA<br>\
+in art. حضن;) i. q. ظِئْرٌ; both of which words<br>\
+are said by IJ to be chaste Arabic: pl. دَايَاتٌ.<br>\
+(M and TA in art. دوى.)<br>\
+دَئِىٌّ and دَئِيَّةٌ: see دَآءٌ (in the latter part of the<br>\
+paragraph), in art. دوأ.<br>\
+دُئِىٌّ and دِئِىٌّ: see دَأْىٌ.<br>\
+دَيْأَى, of the measure فَيْعَلٌ; and its fem; with<br>\
+ة: see دَآءٌ (in the latter part of the paragraph), in<br>\
+art. دوأ.<br>\
+' } );

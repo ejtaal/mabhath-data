@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'ضمحنQ. 4<br>\
+اِضْمَحَنَّ i. q. اِضْمَحَلَّ [q. v. in art.<br>\
+ضحل]; formed from the latter by substitution<br>\
+[of ن for ل: mentioned by Yaakoob. (TA:<br>\
+and mentioned in the K in art. ضمحل.)<br>\
+' } );

@@ -1,0 +1,56 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اسل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اسل<br>\
+&lt;entryFree id=&quot;n773&quot; key=&quot;اَسُلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسُلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسُلَ<br>\
+                  &lt;/form&gt;, (S, M, K,) inf. n. اَسَالَةٌ, (S, M, IAth,) &lt;i&gt;It was smooth and even:&lt;/i&gt; (M:) &lt;i&gt;it&lt;/i&gt; (anything) &lt;i&gt;was lank:&lt;/i&gt; (S:) &lt;i&gt;it&lt;/i&gt; (a cheek, M, IAth, K) &lt;i&gt;was smooth and long:&lt;/i&gt; (M:) or &lt;i&gt;long,&lt;/i&gt; or &lt;i&gt;oblong, and not high in its ball:&lt;/i&gt; (IAth:) or &lt;i&gt;long,&lt;/i&gt; (K, TA,) &lt;i&gt;soft in make,&lt;/i&gt; (TA,) &lt;i&gt;and lank.&lt;/i&gt; (K, TA.) اَسَالَةٌ in the cheek of a horse is approved, and is an indication of generous quality: you say, تُنْبِيُ <br>\
+                  اَسَالَةُ خَدِّهِ عَنْ اَصَالَةِ جَدِّهِ [&lt;i&gt;The smoothness and longness,&lt;/i&gt; &amp;amp;c., &lt;i&gt;of his cheek tells of the generous origin of his ancestor&lt;/i&gt;]. (AO, Z.)       -A2-  See also 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n774&quot; key=&quot;اسّلهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اسّلهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He made it&lt;/i&gt; (an iron thing) &lt;i&gt;thin.&lt;/i&gt; (TA.) [&lt;i&gt;He made it&lt;/i&gt; (anything) &lt;i&gt;sharp,&lt;/i&gt; or &lt;i&gt;pointed.&lt;/i&gt; (See the pass. part. n., below.)] ―         -b2-  اسّل المَطَرَ, inf. n. تَاْسِيلٌ, &lt;i&gt;The rain moistened to the measure of the&lt;/i&gt; <br>\
+                  اَسَلَة [or &lt;i&gt;thin part&lt;/i&gt;] &lt;i&gt;of the arm.&lt;/i&gt; (K.) When it has moistened to the measure of the عَظَمَة [or thick part] of the arm, you say of it عَظَّمَ, inf. n. تَعْظِيمٌ: one says, كَيفَ كَانَتْ مَطْرَتُكُمْ اَسَّلَتْ اَمْ <br>\
+                  عَظَّمَتْ [&lt;i&gt;How was your rain? Did it moisten to the measure of the thin part of the arm, or did it moisten to the measure of the thick part thereof?&lt;/i&gt;]. (TA.) And اسّل الثَّرَى, (TA,) or ↓ <br>\
+      اَسَلَ, (M, [so in a copy of that work, but probably a mistranscription,]) &lt;i&gt;The moisture reached to the measure of the&lt;/i&gt; <br>\
+                  اَسَلَة. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n775&quot; key=&quot;تاسّل اَبَاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاسّل اَبَاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, K,) as also تاسّنهُ, (M, TA,) &lt;i&gt;He resembled his father,&lt;/i&gt; (M, K, TA,) &lt;i&gt;and assumed his natural dispositions;&lt;/i&gt; and so تَقَيَّلَهُ. (TA.) [See ا=سَالُ, below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n776&quot; key=&quot;اَسَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Rush,&lt;/i&gt; or &lt;i&gt;rushes:&lt;/i&gt; so called in the present day:] &lt;i&gt;a kind of trees:&lt;/i&gt; (S:) or [rather] &lt;i&gt;a kind of plant,&lt;/i&gt; (M, Mgh, TA,) &lt;i&gt;having shoots&lt;/i&gt; (M, Mgh) &lt;i&gt;which are slender,&lt;/i&gt; (Mgh,) &lt;i&gt;without leaves;&lt;/i&gt; (M, Mgh;) or &lt;i&gt;of which the shoot is slender, and of which sieves are made;&lt;/i&gt; as is said in the A; and Sgh adds, [&lt;i&gt;growing&lt;/i&gt;] &lt;i&gt;in El-&#39; Irák:&lt;/i&gt; (TA:) AHn says, (TA,) accord. to Aboo-Ziyád, &lt;i&gt;it is of the kind called&lt;/i&gt; <br>\
+                  اَغْلَاث, &lt;i&gt;and comes forth in slender shoots, not having branches growing out from them, nor wood,&lt;/i&gt; (M, TA,) &lt;i&gt;and sometimes men beat them, and make of them well-ropes and other cords,&lt;/i&gt; (TA,) &lt;i&gt;and it seldom or never grows but in a place wherein is water, or near to water:&lt;/i&gt; (M, TA:) AHn says [also], it signifies &lt;i&gt;shoots, or twigs, growing&lt;/i&gt; (M, K) &lt;i&gt;long and slender and straight,&lt;/i&gt; (M,) &lt;i&gt;without leaves; of which mats are made:&lt;/i&gt; (M, K:) or اَسَلَةٌ, (K,) which is the n. un. of اَسَلٌ applied to the plant mentioned above, (M, K,) signifies &lt;i&gt;any shoot, or twig, in which is no crookedness.&lt;/i&gt; (K.) ―         -b2-  Hence, (M,) (tropical:) &lt;i&gt;Spears;&lt;/i&gt; (S, M, K;) as being likened to the plant mentioned above, in respect of its evenness and length and straightness and the slenderness of its extremities: n. un. as above: (M:) and (assumed tropical:)  &lt;i&gt;arrows, or Arabian arrows;&lt;/i&gt; syn. نَبْلٌ; (M, K:) applied to both of these in a trad. of &#39;Omar, which refutes an assertion that it is peculiarly applied to spears, or long spears, and not to نبل: (A&#39;Obeyd, TA:) Sh says that it is applied to spears because of the points of the heads fixed upon them. (TA.) ―         -b3-  (assumed tropical:)  &lt;i&gt;Any thin thing of iron, such as a spear-head,&lt;/i&gt; and &lt;i&gt;a sword,&lt;/i&gt; and &lt;i&gt;a knife.&lt;/i&gt; (TA.) ―         -b4-  (tropical:)  The &lt;i&gt;prickles of palm-trees:&lt;/i&gt; (M, K:) n. un. as above: (M:) by way of comparison [to the plant mentioned above]: (TA:) or &lt;i&gt;any long thorns,&lt;/i&gt; or &lt;i&gt;prickles, of a tree.&lt;/i&gt; (S.) ―         -b5-  [See also what next follows.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n777&quot; key=&quot;اَسَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; n. un. of اَسَلٌ, q. v. (M, K.) ―         -b2-  Hence, by way of comparison, the significations here following from the K. (TA.) ―         -b3-  (tropical:)  &lt;i&gt;Anything in which is no crookedness.&lt;/i&gt; (M.) ―         -b4-  (tropical:)  The &lt;i&gt;thin part of&lt;/i&gt; a blade of iron, such as that of an arrow &amp;amp;c.: (M, K:) and of the fore arm; (S, M, K;) i. e. the &lt;i&gt;half&lt;/i&gt; thereof &lt;i&gt;next the hand;&lt;/i&gt; the half next the elbow being called the عَظَمَة. (K in art. عظم.) ―         -b5-  (tropical:)  The &lt;i&gt;thin part,&lt;/i&gt;, (S,) or &lt;i&gt;extremity,&lt;/i&gt; or &lt;i&gt;tip,&lt;/i&gt; (M, K,) of the tongue; (S, M, K;) the thick part thereof being called the عَظَمَة. (K in art. عظم.) One says, اَسَلَاتُ اَلْسِنَتِهِمْ اَمْضَى مِنْ <br>\
+                  اَسِنَّةِ اَسَلِهِمْ (tropical:)  [&lt;i&gt;The tips of their tongues are sharper than the heads of their spears&lt;/i&gt;]. (A, TA.) ―         -b6-  (tropical:)  The &lt;i&gt;nervus,&lt;/i&gt; (K,) or the &lt;i&gt;extremity thereof,&lt;/i&gt; (M,) of a camel. (M, K.)―         -b7-  (tropical:)  The &lt;i&gt;head,&lt;/i&gt; [or what we tern the &lt;i&gt;toe,&lt;/i&gt; or &lt;i&gt;foremost extremity,&lt;/i&gt; also called اَنْفٌ and ذُنَابَةٌ,] of a sandal; (M, K;) &lt;i&gt;which is tapering.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n778&quot; key=&quot;اَسَلِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَلِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; an epithet applied to the letters ز and س and ص because &lt;i&gt;Pronounced with the tip of the tongue.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n779&quot; key=&quot;اَسِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِيلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Smooth and even:&lt;/i&gt; (M, K:) anything &lt;i&gt;lank;&lt;/i&gt; (S, A;) syn. سَبْطٌ, (A,) [i. e.] مُسْتَرْسِلٌ: (S, A:) applied to a cheek, (AZ, K, TA,) [&lt;i&gt;smooth and long:&lt;/i&gt; or &lt;i&gt;long,&lt;/i&gt; or &lt;i&gt;oblong, and not high in its ball:&lt;/i&gt; (see 1:) or] &lt;i&gt;soft, tender, thin, and even:&lt;/i&gt; (AZ:) or &lt;i&gt;long,&lt;/i&gt; (K, TA,) &lt;i&gt;soft in make,&lt;/i&gt; (TA,) &lt;i&gt;and lank.&lt;/i&gt; (K, TA.) You say رَجُلٌ اَسِيلُ الخَدِّ <br>\
+                  &lt;i&gt;A man having the cheek soft and long:&lt;/i&gt; (S:) and in like manner, فَرَسَ <br>\
+                  &lt;i&gt;a horse.&lt;/i&gt; (TA.) And كَفٌّ <br>\
+                  اَسِيلَةُ الاَصَابِعِ <br>\
+                  &lt;i&gt;A hand small and slender, and lank,&lt;/i&gt; or &lt;i&gt;long, in the fingers.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n780&quot; key=&quot;ا=سَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=سَالٌ<br>\
+                     ا=سال<br>\
+                  &lt;/form&gt; a pl. having no sing.: (K:) mentioned by ISk as a word of which he had not heard any sing. (S.) You say, هُوَ عَلَى ا=سَالٍ مِنْ اَبِيهِ [in the CK, erroneously, اَسالٍ,] &lt;i&gt;He is of a semblance and of characteristics and natural dispositions which are those of his father;&lt;/i&gt; (S, K;) like ا=سَانٍ. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n781&quot; key=&quot;مُوَسَّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَسَّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Anything &lt;i&gt;sharpened,&lt;/i&gt; or &lt;i&gt;pointed.&lt;/i&gt; (M, K.) You say اُذُنٌ مُوَسَّلَةٌ <br>\
+                  &lt;i&gt;An ear&lt;/i&gt; [of a horse or the like] &lt;i&gt;slender, pointed, and erect.&lt;/i&gt; (M.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,35 @@
+load_data( { book: 'll_nvd', text: 'توى1<br>\
+تَوِىBَ, (T, S, M, Mgh, K,) in the dial. of<br>\
+Teiyi تَوَى, (AAF, M,) aor.<br>\
+تَوَىَ, (S, K,) inf. n.<br>\
+تَوًى, (T, S, M, Mgh, K,) It perished; came to<br>\
+an end; (S, Mgh, K;) it passed away (T, M,<br>\
+Mgh) unhoped for: (T, M:) said of property.<br>\
+(T, S, M, Mgh.) Hence the saying, in a trad.,<br>\
+لَا تَوَى عَلَى مَالِ امْرِئٍ مُسْلِمٍ [There shall be no<br>\
+perishing of the property of a man that is a<br>\
+Muslim]: applied to the case of a man to whom<br>\
+is transferred the responsibility for a debt, and<br>\
+who dies insolvent; meaning that the responsibility shall return to him who transferred it.<br>\
+(Mgh.)<br>\
+4<br>\
+اتواهُ He (God, M, K, or another, S) destroyed it, made an end of it, or caused it to<br>\
+perish or come to an end; (S, K;) he made it<br>\
+away; (T, M;) namely, property, (S, M,) or his<br>\
+property. (T.)<br>\
+-A2-  See also art. تو.<br>\
+تَوٍ (S M, Mgh, K) and ↓ تَاوٍ (Mgh) Perishing;<br>\
+coming to an end; (S, Mgh, K;) passing away<br>\
+(M, Mgh) unhoped for: (M:) applied to property. (S, M, Mgh.)<br>\
+تَوَآءٌ A perishing of property; its coming to an<br>\
+end; or becoming lost. (TA.)<br>\
+تَوِىٌّ Remaining, staying, dwelling, or abiding:<br>\
+(IAar, M, K:) but ثَوِىٌّ, with ث, is better known<br>\
+in this sense. (M.)<br>\
+تَاوٍ: see تَوٍ.<br>\
+الشُّحُّ مَتْوَاةٌ [Niggardliness, or avarice, is a<br>\
+cause of perishing to property]: a saying of the<br>\
+Arabs, meaning, if thou withhold property from<br>\
+its right disposal, God will make it to pass away<br>\
+in that which is not its right disposal. (M.)<br>\
+' } );

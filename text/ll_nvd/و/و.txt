@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'ووَ<br>\
+: you say, سَارَ زَيْدٌ وَعْمْرٌو, using و as a conjunction; rather than وَعَمْرًا: and سِرْتُ وَزَيْدًا,<br>\
+using و as [a prep.] denoting concomitance;<br>\
+rather than وَزَيْدٌ. (I&#39;Ak, p. 161.) ―<br>\
+-b2-  مَا أُمِّى وَأُمُّهُ;<br>\
+and مَا أَنَا وَطَلَبُ الوَحْشِ: see أُمٌّ: and see another<br>\
+ex. in a verse cited voce حَلِمَ. In the Kur,<br>\
+ii. 121 some read وَإِسْمٰعِيلُ; and others<br>\
+وإِسْمٰعِيلَ. In مَا لَكَ وَزَيْدًا, the و denotes concomitance; What hast thou in common, or to<br>\
+do, with Zeyd? or it is for مَا لَكَ وَِلزَيٍْد. ―<br>\
+-b3-  وَ in<br>\
+وهُوَ لَكَ: see حَمْدٌ. ―<br>\
+-b4-  الوَاوُ لِمُطْلَقِ الجَمْعِ [The<br>\
+و<br>\
+denoting unrestricted conjunction, not necessarily implying simultaneousness nor relative<br>\
+order]. (I&#39;Ak, p. 254.)<br>\
+وَا<br>\
+generally means Alas! see وَا حَرَبَا, and the<br>\
+last verse voce حَتَّى. ―<br>\
+-b2-  وَا زَيْدَاهَ<br>\
+Alas, Zeyd! ―<br>\
+-b3-<br>\
+وَا دَفْرَاهْ, and وَانِتْنَاهْ, Alas, stench! meaning Alas,<br>\
+what an abominable thing! See دَفْرٌ; and أَبٌ.<br>\
+' } );

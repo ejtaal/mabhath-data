@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'ضهوضَهْوَةٌ A بِرْكَة of water; [i. e. a wateringtrough, or tank, or the like, of water; or a basin,<br>\
+pool, pond, or lake, of water; or a place where<br>\
+water remains and collects, or collects and stagnates;] (M, K;) as though formed by transposition from وَهْضَةٌ, which signifies a depressed<br>\
+piece of ground: (TA:) pl. أَضْهَآءٌ. (M, K.)<br>\
+ضَهْوَآءُ A woman whose breasts have not become<br>\
+prominent, or protuberant. (Lth, K.) [See also<br>\
+ضَهْيَآءُ, in the next art.]<br>\
+' } );

@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>ها</em>            1                  ها<br>\
+<b>هَاْهَاَ بِالاـِبِلِ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     هَاْهَاَ بِالاـِبِلِ<br>\
+                     ذ<br>\
+                  , (El-Umawee, S, K,) inf. n. هِيهَا=ءٌ and هَاْهَا=ءٌ, (K,) the latter extr., (TA,) [see ظَاْظَاَ,] <i>He called the camels to food,</i> or <i>provender, by the cry</i> <br>\
+                  هِيْ هِيْ: (S, K:) or he <i>chid</i> them, (زَجَرَهَا), by the cry هَاْهَاْ. (K.) [See also arts. جا and جيا.] ―         -b2-  هَاْهَاَ, inf. n. هَاْهَا=ءٌ, <i>He chid</i> a dog. (TA.) ―         -b3-  <i>He called</i> a dog. (TA.) ―         -b4-  هَاْهَاَ, inf. n. هَاْهَا=ءٌ, <i>He laughed loud and long:</i> [a word imitative of the sound]. (K, TA.)    </entryFree> <br>\
+<b>هِىْءٌ</b>               1     <br>\
+                     هِىْءٌ<br>\
+                     ذ<br>\
+                  , subst. from هَاْهَاَ, [<i>A call to camels to food,</i> or <i>provender</i>]. (S, K.) هِىْءٌ and جِىْءٌ are said to be thus written by Az&#39;s own hand, with kesr: and are thus written in the Jáme&#39; [of Kz]. (L.) [See arts. جا and جيا.]    </entryFree> <br>\
+<b>هَاْهَاٌ</b>               1     <br>\
+                     هَاْهَاٌ<br>\
+                     ذ<br>\
+                   and هَاْهَا=ءٌ One <i>who laughs loud and long.</i> (K, TA.) ―         -b2-  جَارِيَةٌ هَاْهَاَةٌ <br>\
+                  <i>A damsel who laughs loud and long.</i> (Lh, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,47 @@
+load_data( { book: 'll_nvd', text: 'نعل1<br>\
+نَعڤلَ<br>\
+see 4.<br>\
+2<br>\
+نَعَّلَ<br>\
+see 4.<br>\
+4<br>\
+أَنْعَلْتُ الخُفَّ<br>\
+and ↓ نَعَّلْتُهُ<br>\
+I affixed a sole<br>\
+to the bottom of the<br>\
+خَفّ [i. e. boot]: and hence,<br>\
+أَنْعَلْتُ الدَّابَّهَ and ↓ نَعَلْتُهَا. (Msb.) See صِرْمٌ.<br>\
+8<br>\
+اِنْتَعَلَتْ ظِلاَلَهَا<br>\
+: see ظِلٌّ.<br>\
+نَعْلٌ<br>\
+[A sandal: a sole:] the thing by which<br>\
+the foot is preserved, or protected, from the<br>\
+ground; (K;) syn. حِذَآءٌ: and also applied to<br>\
+a<br>\
+تَاسُومَة [or shoe]. (Msb.) What is now called<br>\
+تَاسُومَة. (IAth, TA.) It often signifies only a<br>\
+sole: so in the S, K, Msb, &amp;c., in art. خصف &amp;c.<br>\
+―<br>\
+-b2-  The leathern shoe, or sandal, of a camel;<br>\
+which is attached by thongs, or straps, called<br>\
+سَرَائِح (pl. of سَرِيحَةٌ) to the<br>\
+خَدَمَة or plaited<br>\
+thong which surrounds the pastern: see سَرِيحَةٌ<br>\
+and خَدَنَةٌ. ―<br>\
+-b3-  نَعْلٌ of a sword The iron, (Kr,<br>\
+S, K,) or silver, (S,) thing [or shoe] at the lower<br>\
+end of the scabbard. (Kr, S, K.) See غَاشِيَةٌ,<br>\
+and 2 in art. فرص. ―<br>\
+-b4-  نَعْلٌ meaning A<br>\
+حَرَّة, or<br>\
+hard rugged tract of land, &amp;c.: see رَحْلٌ. ―<br>\
+-b5-<br>\
+نَعْلٌ (tropical:)  A wife. See عَتَبَة.<br>\
+نِعَالِيٌّ<br>\
+One who takes care of the sandals or<br>\
+shoes [at the door of a bath or mosque]. (TA<br>\
+in art. ثوب.)<br>\
+نَاعِلٌ<br>\
+Wearing, or having on the feet, sandals.<br>\
+' } );

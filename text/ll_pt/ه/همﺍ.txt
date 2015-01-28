@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;هما&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  هما<br>\
+&lt;entryFree id=&quot;n41292&quot; key=&quot;هَمَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     هَمَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَمَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. هَمْءٌ; (TA;) and ↓ <br>\
+      اهما; (K;) &lt;i&gt;He rent,&lt;/i&gt; (K,) i. e., &lt;i&gt;pulled so that it tore,&lt;/i&gt; (TA,) a garment: (K:) &lt;i&gt;he wore out,&lt;/i&gt; or &lt;i&gt;rendered threadbare,&lt;/i&gt; [&lt;i&gt;and ragged&lt;/i&gt;]. (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَهْمَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَهَمَّاَ<br>\
+                  &lt;/form&gt; see 7.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41293&quot; key=&quot;انهما&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;7&lt;/itype&gt;        <br>\
+                     انهما<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (K) and ↓ <br>\
+      تهمّا (S, K) &lt;i&gt;It&lt;/i&gt; (a garment) &lt;i&gt;became rent:&lt;/i&gt; (TA:) &lt;i&gt;became worn-out,&lt;/i&gt; or &lt;i&gt;threadbare,&lt;/i&gt; (S, K,) &lt;i&gt;and ragged.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41294&quot; key=&quot;هِمْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِمْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A worn-out, threadbare,&lt;/i&gt; or &lt;i&gt;ragged, garment:&lt;/i&gt; pl. اَهْمَاءٌ. (K.)   &lt;/entryFree&gt; <br>\
+' } );

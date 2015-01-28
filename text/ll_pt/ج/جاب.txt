@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>جاب</em>            1                  جاب<br>\
+<b>جَاَبَ</b>               1     <br>\
+                     جَاَبَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     جَاََ<br>\
+                  , (S, K,) inf. n. جَاْبٌ, (S,) <i>He gained, earned,</i> or <i>acquired,</i> (S, K,) <i>wealth,</i> or <i>property:</i> (K:) but [SM says,] I have not seen that any of the leading lexicologists has mentioned this addition of wealth, or property. (TA. [See, however, جَاّ=بٌ, below.]) The rájiz (Ru-beh Ibn-El-&#39;Ajjáj, TA) says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَاْللّٰهُ رَاعِى عَمَلِى وَجَاْبِى<br>\
+                  </quote> [<i>And God is mindful of my work and my earning</i>]. (S, TA.)       -A2-  Also <i>He sold</i> <br>\
+                  جَاْبِ, i. e. مَغْرَة [<i>red ochre</i>]; (IAar, K;) and so جَبَاَ. (IAar, TA.)    </entryFree> <br>\
+<b>جَاْبٌ</b>               1     <br>\
+                     جَاْبٌ<br>\
+                     ذ<br>\
+                  <i>Thick, gross, big,</i> or <i>bulky:</i> (S, K:) or <i>strong:</i> (A:) applied to an ass, (A, K,) or to a wild ass: (S, K:) as also جَابٌ, without ء: (S:) pl. جُوُوبٌ. (TA.) Accord. to the K [and the A], it signifies also Whatever is <i>rude,</i> or <i>coarse; thick, gross, big,</i> or <i>bulky:</i> (كُلُّ جَافٍ غَلِيظٍ:) but in the L, we find كَاهِلٌ جَاْبٌ غَلِيظٌ [meaning that جَاْبٌ applied to the part of the back termed كاهل signifies <i>thick,</i> or <i>big</i>]: and خَلْقٌ جَاْبٌ as meaning <i>a thick, gross, big,</i> or <i>bulky, make.</i> (TA.) ―         -b2-  [Hence,] الجَاْبُ <br>\
+                  <i>The lion.</i> (A, Sgh, K.) ―         -b3-  And جَاْبَةُ المِدْرَى, (S, A, K,) or, accord. to AO (S) and the Mj (TA) and Sh, (TA in art. جوب q. v.,) without ء, (S, TA,) A doe-gazelle <i>having her horn just come forth;</i> because the horn when it first comes forth is thick, and afterwards becomes slender; (S, K;) thus showing her to be young: (S:) or a doe-gazelle, and a cow, <i>strong in the horn.</i> (A.) [See also art. جوب.] ―         -b4-  You say also, فُلَانٌ شَخْتُ الا=لِ جَاْبُ <br>\
+                  الصَّبْرِ (assumed tropical:)  <i>Such a one is slender in body,</i> or <i>person,</i> [but] <i>great in patience.</i> (S.)       -A2-  The <i>navel.</i> (K.)       -A3-  <i>Red ochre;</i> syn. مَغْرَة [read by Golius معزة]; (Mj, K;) with and without ء, (Mj, TA.)    </entryFree> <br>\
+<b>جَاْبَةُ البَطْنِ</b>               1     <br>\
+                     جَاْبَةُ البَطْنِ<br>\
+                     ذ<br>\
+                  , (Ibn-Buzurj, K,) as also جَبْاَةُ <br>\
+                  البَطْنِ, (Ibn-Buzurj, TA,) <i>i. q.</i> <br>\
+                  مَاْنَةُ البَطْنِ, (K,) i. e. <i>The part of the belly that is between the navel and the pubes.</i> (TA.)    </entryFree> <br>\
+<b>جُوْبَةٌ</b>               1     <br>\
+                     جُوْبَةٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>جُوُوبَةٌ</b>               1     <br>\
+                     جُوُوبَةٌ<br>\
+                     ذ<br>\
+                   (K) and ↓ <br>\
+      جُوْبَةٌ (K accord. to some copies, but not in others nor in the TA) <i>A grinning, and frowning,</i> or <i>contracting, of the face;</i> or <i>looking sternly, austerely,</i> or <i>morosely.</i> (K.)    </entryFree> <br>\
+<b>جَاّ=بٌ</b>               1     <br>\
+                     جَاّ=بٌ<br>\
+                     ذ<br>\
+                  <i>A gainer, an earner,</i> or <i>an acquirer, of wealth,</i> or <i>property.</i> (TA voce جَوَّابٌ.)   </entryFree> <br>\
+' } );

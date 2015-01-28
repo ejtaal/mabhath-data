@@ -1,0 +1,36 @@
+load_data( { book: 'll_nvd', text: 'حنش1<br>\
+حَنَشَ, (S, A, Msb, K,) aor.<br>\
+حَنِشَ, (Msb, K,)<br>\
+He hunted, sought to catch or capture, or caught<br>\
+or captured, (S, A, Msb, K,) such animals as are<br>\
+hunted &amp;c., (S, Msb, K,) or such as are termed<br>\
+أَحْنَاش, pl. of حَنَشٌ; (A;) as also ↓ احنش. (TA.)<br>\
+―<br>\
+-b2-  حَنَشَتْهُ الحَيَّةُ The serpent bit him. (A, TA.)<br>\
+4<br>\
+أَحْنَشَ see above.<br>\
+حَنَشٌ Anything that is hunted, or caught or<br>\
+captured, of birds or flying things, and of [or,<br>\
+accord. to the CK, this word “ of ” should be<br>\
+omitted here, as well as where it next occurs,]<br>\
+what are termed الهَوَامّ [venomous or noxious<br>\
+reptiles or the like, such as scorpions and serpents],<br>\
+(S, A, Mgh, * Msb, K,) and of what are termed<br>\
+حَشَرَاتُ الأَرْضِ, (K,) such as the hedgehog, and the<br>\
+[lizards of the kinds called] ضَبّ and وَرَل, and<br>\
+the [rat called] جُرَذ, and the common rat or<br>\
+mouse, and the serpent: (TA:) or any animal<br>\
+whose head resembles that of the serpent, (Lth,<br>\
+Mgh, Msb, * K,) of chameleons and of [the lizards<br>\
+called] سَوَامُّ أَبْرَصَ and the like: (Lth, Mgh, *<br>\
+Msb: *) or any creeping thing, of beasts and of<br>\
+birds or flying things: (Kr, TA: *) and the serpent: (S, Kr, A, Mgh, K:) or the viper: (S:)<br>\
+or a kind of white and thick serpent, like the<br>\
+ثُعْبَان, or larger; or the black kind thereof:<br>\
+(TA:) or a serpent that blows, but does not hurt:<br>\
+(Ham p. 626:) and the common fly: (Ibn-<br>\
+&#39;Abbád, A, Sgh, K:) pl. أَحْنَاشٌ (S, A, Mgh, K)<br>\
+and حِنْشَانٌ. (A, TA.)<br>\
+مَحْنُوشٌ Stung, or bitten, by what is termed<br>\
+حَنَش. (IAar, K.)<br>\
+' } );

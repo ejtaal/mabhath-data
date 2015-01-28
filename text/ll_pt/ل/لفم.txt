@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لفم</em>            1                  لفم<br>\
+<b>لِفَامٌ</b>               1     <br>\
+                     لِفَامٌ<br>\
+                     ذ<br>\
+                  <i>A kind of woman&#39;s face-veil.</i> See نِقَابٌ.   </entryFree> <br>\
+' } );

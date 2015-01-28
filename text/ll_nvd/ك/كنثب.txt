@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'كنثبكَنْثَبٌ and كُنْثُبٌ and كُنَاثِبٌ Hard and<br>\
+strong: (K:) but the ث in this case is corrupted<br>\
+from ت: see كُنْتُبٌ in art. كنب. (TA.)<br>\
+كِنْثَابٌ [in the TA written كنابث] Sand<br>\
+pouring down. (IAar, K.)<br>\
+' } );

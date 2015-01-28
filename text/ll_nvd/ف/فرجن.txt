@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'فرجنQ. 1<br>\
+الدَّابَّةَ فَرْجَنَ He curried the beast; removed the dust from it with the فِرْجَوْن. (S, K.)<br>\
+But the etymologists assert that the ن is augmentative. (TA.)<br>\
+فِرْجَوْنٌ A currycomb; syn. مِحَسَّةٌ [q. v.].<br>\
+(S, K.)<br>\
+' } );

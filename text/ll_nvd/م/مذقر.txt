@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مذقرQ. 4<br>\
+اِمْذَقَرَّتِ الإِبِلُ<br>\
+The camels became dispersed. (TA in art. صعر.)<br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>طسوج</em>            1                  طسوج<br>\
+<b>طَسُّوجٌ</b>               1     <br>\
+                     طَسُّوجٌ<br>\
+                     ذ<br>\
+                  <i>A certain weight;</i> (T, TA;) <i>two grains,</i> i. e. <i>grains of barley;</i> (حَبَّتَنِ;) (S;) the <i>quarter</i> <br>\
+                  <i>of a</i> <br>\
+                  دَانِق; (S, K;) i. e. the <i>twenty-fourth part of a</i> <br>\
+                  دِرْهَم; the دانق being the sixth of a درهم: (TA:) pl. طَسَاسِيجُ: (S:) an arabicized word [from the Pers. تَسُو]. (S, K.) ―         -b2-  Also <i>i. q.</i> <br>\
+                  نَاحِيَةٌ [as meaning <i>A district,</i> or <i>province,</i> or <i>the like</i>]; (S, Mgh, K;) such as <i>a</i> <br>\
+                  قَرْيَة [here app. meaning <i>township</i>], and <i>the like:</i> for instance, Ardabeel is of the طَسَاسِيج of Hulwán: (Mgh:) <i>one of the</i> <br>\
+                  طَسَاسِيج <br>\
+                  <i>of the Sawád:</i> (T, TA:) the طساسيج of the people of El-Ahwáz are like the مَخَالِيف of the people of El-Yemen and the اَجْنَاد of the people of Syria and the كُوَر of the people of El-&#39;Irák and the رَسَاتِيق of the people of ElJibál: (IB voce مِخْلَافٌ:) in this sense likewise (S) an arabicized word. (S, Mgh, K. *)   </entryFree> <br>\
+' } );

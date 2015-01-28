@@ -1,0 +1,64 @@
+load_data( { book: 'll_nvd', text: 'بلى1<br>\
+بَلِىَ: see art. بلو.<br>\
+4<br>\
+ابلى الثَّوْبَ: see art. بلو.<br>\
+بِلْىٌ: and بِلْىُ سَفَرٍ: &amp;c.: see art. بلو.<br>\
+بَلَى is a particle; (S, Msb, Mughnee;) contr.<br>\
+of لَا: (S:) not a noun: (Sb, S:) it is a replicative; (S, Mughnee;) an affirmative of what is<br>\
+said [in that to which it is a reply]; (S, Msb;)<br>\
+[with very few exceptions] relating only to a<br>\
+negation, which it annuls: (Msb, Mughnee:)<br>\
+the final letter is a radical: or, accord. to some,<br>\
+the word is originally بَلْ, [after which an affirmation is to be understood,] and the final letter is<br>\
+augmentative: and some of these say that this<br>\
+letter is a denotative of the fem. gender, because<br>\
+it is [often] pronounced with imáleh. (Mughnee.)<br>\
+It is a reply to an interrogation in which is a<br>\
+negative, (T, M, Msb, Mughnee, K,) and affirms<br>\
+what is said to thee [in that interrogation]; (M,<br>\
+K;) whether it be an interrogation in the proper<br>\
+sense, (Mughnee,) as when you say to another,<br>\
+أَلَمْ تَفْعَلْ كَذَا [Didst thou not such a thing?],<br>\
+and he replies, بَلَى [meaning Yes, or yea, or ay,<br>\
+I did], (T,) or as when one says, أَلَيْسَ زَيْدٌ بِقَائِمٍ<br>\
+[Is not Zeyd standing?], and you reply, بَلَى<br>\
+[Yes, he is]; or be meant to convey reproof,<br>\
+(Mughnee,) as in the Kur [lxxv. 3 and 4],<br>\
+أَيَحْسَبُ الإِنْسَانُ أَنْ لَنْ نَجْمَعَ عِظَامَهُ بَلَى [Doth<br>\
+man think that we will not collect his bones?<br>\
+Yes], (Msb, Mughnee,) i. e., we will collect<br>\
+them; (Msb;) or be meant to make a person<br>\
+confess, or acknowledge, a thing, (Mughnee,)<br>\
+as in the Kur [vii. 171], أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى<br>\
+[Am I not your Lord? They said, Yea]. (M,<br>\
+Mughnee.) It is also a reply to a simple negation, (Msb, Mughnee,) as when I say, مَا قَامَ<br>\
+زَيْدٌ [Zeyd did not stand, or has not stood], and<br>\
+you reply, بَلَى as an affirmative [meaning Yes,<br>\
+he did, or he has]. (Msb.) It occurs in the Kur<br>\
+[xxxix. 60], where it is said, بَلَى قَدْ جَآءَتْكَ آيَاتِى<br>\
+[Yea, my signs have come to thee], preceded by<br>\
+that which is not literally a negation, but which<br>\
+has the force of a negation; for the preceding<br>\
+saying, لَوْ أَنَّ اللّٰهَ هَدَانِى [If God had directed<br>\
+me aright, or would that God &amp;c.], is like the<br>\
+saying, مَا هُدِيتُ [I was not directed aright].<br>\
+(M.) It also occurs in the books of traditions,<br>\
+in some instances, as a reply to an interrogation<br>\
+without a negative; but these instances are rare,<br>\
+and not to be followed in rendering revelation.<br>\
+(Mughnee.) Az says that when a man says to<br>\
+another, أَلَا تَقُومُ [Wilt thou not stand?], and the<br>\
+latter replies, بَلَى, he means بَلْ أَقُومُ [Nay, I<br>\
+will stand], adding the alif [written ى] to make<br>\
+the pause good; for if he said, بَلْ, the other<br>\
+would expect something more to be said after it.<br>\
+(TA.) It is said that the pronunciation termed<br>\
+imáleh is allowable in the case of بَلَى; and if so,<br>\
+its final radical letter is ى: and some of the<br>\
+grammarians say that this pronunciation of بلى<br>\
+is because, by reason of its completeness and independence of meaning, so that it requires nothing<br>\
+after it, it resembles independent nouns, in the<br>\
+cases of which this pronunciation is allowable.<br>\
+(M.)<br>\
+بِلْيَةٌ and بَلِىٌّ and بَلِيَّةٌ: see art. بلو.<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وتر</em>            1                  وتر<br>\
+<b>وَتَرَةٌ</b>               1     <br>\
+                     وَتَرَةٌ<br>\
+                     ذ<br>\
+                   The <i>vein</i> (عِرْق [meaning the <i>frenum</i>]) <i>that is in the inner side</i> (بَاطِن) <i>of the glans of the penis.</i> (S, K, and Zj, in his “ Khalk el-Insán. ”)    </entryFree> <br>\
+<b>مَوْتُورٌ</b>               1     <br>\
+                     مَوْتُورٌ<br>\
+                     ذ<br>\
+                  : see voce ثَاْرٌ.   </entryFree> <br>\
+' } );

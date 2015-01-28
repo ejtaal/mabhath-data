@@ -1,0 +1,128 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اصر&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اصر<br>\
+&lt;entryFree id=&quot;n858&quot; key=&quot;اَصَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَصَرَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَصِرَ<br>\
+                  &lt;/form&gt;, inf. n. اَصْرٌ, &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt; (a thing, Ks,) &lt;i&gt;confined, restricted, limited, kept close, kept within certain bounds or limits, shut up, imprisoned, held in custody, detained, retained, restrained, withheld, debarred, hindered, impeded,&lt;/i&gt; or &lt;i&gt;prevented, him&lt;/i&gt; or &lt;i&gt;it:&lt;/i&gt; (Ks, S, M, A, * K:) &lt;i&gt;it straitened him.&lt;/i&gt; (TA.) You say, اَصَرْتُ الرَّجُلَ <br>\
+                  عَلَى ذٰلِكَ <br>\
+                  &lt;i&gt;I confined,&lt;/i&gt; or &lt;i&gt;restricted, the man to that thing,&lt;/i&gt; or &lt;i&gt;affair.&lt;/i&gt; (Ks.) And اَصَرْتُهُ عَنْ <br>\
+                  حَاجَتَهُ, and عَمَّا اَرَادَهُ, &lt;i&gt;I withheld, restrained,&lt;/i&gt; or &lt;i&gt;debarred, him from the thing that he wanted,&lt;/i&gt; and &lt;i&gt;from the thing that he desired.&lt;/i&gt; (IAar.) ―         -b2-  اَصَرَ البَيْتَ, aor. and inf. n. as above, &lt;i&gt;He made,&lt;/i&gt; or &lt;i&gt;put, to the tent an&lt;/i&gt; <br>\
+                  اـِصَار. (K,* TK.)       -A2-  Also, aor. and inf. n. as above, &lt;i&gt;He broke it.&lt;/i&gt; (ElUmawee, S, M, K.*) ―         -b2-  &lt;i&gt;He inclined,&lt;/i&gt; or &lt;i&gt;bent, it.&lt;/i&gt; (M, K* TA.) ―         -b3-  &lt;i&gt;It inclined him,&lt;/i&gt; (As, S, K,) عَلَى فُلَانٍ <br>\
+                  &lt;i&gt;to such a one.&lt;/i&gt; (As, S.) See an ex. voce ا=صِرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n859&quot; key=&quot;ا=صرهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=صرهُ<br>\
+                     ا=صره<br>\
+                     ا=صرة<br>\
+                  &lt;/form&gt;, inf. n. مُوَاصِرَةٌ, &lt;i&gt;He was his neighbour, having the&lt;/i&gt; <br>\
+                  اـصار <br>\
+                  &lt;i&gt;of his tent by the side of the&lt;/i&gt; <br>\
+                  اـِصَار <br>\
+                  &lt;i&gt;of the tent of the other.&lt;/i&gt; See the act. part. n. below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n860&quot; key=&quot;تَا=صَرُوا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَا=صَرُوا<br>\
+                     تا=صروا<br>\
+                  &lt;i&gt;They were neighbours; they dwelt,&lt;/i&gt; or &lt;i&gt;abode, near together.&lt;/i&gt; See the act. part. n. below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n861&quot; key=&quot;اَصْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; see اـِصْرٌ; each in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n862&quot; key=&quot;اُصْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُصْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; see اـِصْرٌ; each in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n863&quot; key=&quot;اـِصْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِصْرٌ<br>\
+                     اصر<br>\
+                     اصر<br>\
+                     اـصر<br>\
+                     صار<br>\
+                     صر<br>\
+                  &lt;i&gt;A covenant, compact,&lt;/i&gt; or &lt;i&gt;contract;&lt;/i&gt; (S, K;) as also ↓ <br>\
+      اُصْرٌ and ↓ <br>\
+      اَصْرٌ: (K:) [see also وصْرٌ:] &lt;i&gt;any bond arising from relationship,&lt;/i&gt; or &lt;i&gt;from a covenant&lt;/i&gt; or &lt;i&gt;compact&lt;/i&gt; or &lt;i&gt;contract,&lt;/i&gt; (Aboo-Is-hák,) and &lt;i&gt;from an oath:&lt;/i&gt; (ISh:) &lt;i&gt;a covenant, compact,&lt;/i&gt; or &lt;i&gt;contract, which one does not fulfil, and for the neglecting and breaking of which one is punished:&lt;/i&gt; so in the Kur ii. 286: (I&#39; Ab:) [see also what follows, in two places:] or &lt;i&gt;a heavy,&lt;/i&gt; or &lt;i&gt;burdensome, covenant, compact,&lt;/i&gt; or &lt;i&gt;contract:&lt;/i&gt; so in the Kur iii. 75: (ISh, M:) so, too, in the same vii. 156: (T, M:) pl. ا=صَارٌ, a pl. of pauc.: (M:) or &lt;i&gt;a heavy,&lt;/i&gt; or &lt;i&gt;burdensome, command;&lt;/i&gt; such as was given to the Children of Israel to slay one another: so in the Kur ii. 286, accord. to Zj. (TA.) ―         -b2-  &lt;i&gt;A weight,&lt;/i&gt; or &lt;i&gt;burden;&lt;/i&gt; (S, M, K;) as also ↓ <br>\
+      اُصْرٌ and ↓ <br>\
+      اَصْرٌ: (K:) so called because it restrains one from motion: (TA:) pl. as above. (M.) ―         -b3-  &lt;i&gt;A sin; a crime; an offence;&lt;/i&gt; (S, M, K;) as also ↓ <br>\
+      اُصْرٌ and ↓ <br>\
+      اَصْرٌ: (K:) so called because of its weight, or burdensomeness: (TA:) or the &lt;i&gt;sin of breaking a compact,&lt;/i&gt; or &lt;i&gt;covenant:&lt;/i&gt; (Fr, Sh:) or &lt;i&gt;a grievous punishment of a sin:&lt;/i&gt; so accord. to AM in the Kur ii. 286. (TA.) ―         -b4-  &lt;i&gt;A thing that inclines one to a thing.&lt;/i&gt; (M, K.) [See also ا=صِرَةٌ. It is said in the Ham (p. 321) that اَوَاصِرُ is pl. of the former word: but it is evidently pl. of the latter.] ―         -b5-  &lt;i&gt;A swearing by an oath which obliges one to divorce&lt;/i&gt; or &lt;i&gt;emancipate&lt;/i&gt; or &lt;i&gt;to pay a vow.&lt;/i&gt; (K, TA.) So in a trad., in which it is said, مَنْ حَلَفَ عَلَى يَمِينٍ اـِصْرٌ فَلَا كَفَّارَةَ لَهَا [&lt;i&gt;Whoso sweareth an oath in which is an obligation to divorce&lt;/i&gt; or &lt;i&gt;emancipate&lt;/i&gt; or &lt;i&gt;to pay a vow, for it there is no expiation&lt;/i&gt;]: for such is the heaviest of oaths, and that from which the way of escape, or evasion, is most strait: the original meaning of اصر being &lt;i&gt;a burden,&lt;/i&gt; and &lt;i&gt;a binding.&lt;/i&gt; (TA.)       -A2-  The &lt;i&gt;ear-hole:&lt;/i&gt; pl. ا=صَارٌ (IAar, K) and اـِصْرَانٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n864&quot; key=&quot;اـِصَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِصَارٌ<br>\
+                     اصار<br>\
+                     اصار<br>\
+                     اـصر<br>\
+                     صار<br>\
+                     آصار<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اَيْصَرٌ (S, M, K) and ↓ <br>\
+      اـِصَارَةٌ and ↓ <br>\
+      ا=صِرَةٌ (M, K) &lt;i&gt;A short rope,&lt;/i&gt; (S,) or &lt;i&gt;small rope,&lt;/i&gt; (K,) &lt;i&gt;by which the lower part of the&lt;/i&gt; [&lt;i&gt;kind of tent called&lt;/i&gt;] خِبَا=ء <br>\
+                  &lt;i&gt;is tied,&lt;/i&gt; or &lt;i&gt;bound,&lt;/i&gt; (S, K,) &lt;i&gt;to the peg:&lt;/i&gt; (S:) or &lt;i&gt;a short peg, for the&lt;/i&gt; [&lt;i&gt;ropes called&lt;/i&gt;] اَطْنَاب, &lt;i&gt;with which the lower part of the&lt;/i&gt; [&lt;i&gt;kind of tent called&lt;/i&gt;] خبا= <br>\
+                  &lt;i&gt;is fastened:&lt;/i&gt; (M:) [or] اـِصَارٌ signifies also the &lt;i&gt;peg,&lt;/i&gt; (K,) or &lt;i&gt;short peg,&lt;/i&gt; (TA,) &lt;i&gt;of the&lt;/i&gt; [&lt;i&gt;kind of tent-rope called&lt;/i&gt;] طُنُب: (K:) or &lt;i&gt;a peg of the&lt;/i&gt; <br>\
+                  خبا=ء: (Ibn-Es-Seed, TA:) pl. of the first اُصُرٌ (S, M) and ا=صِرَةٌ; (M;) and of the second اَيَاصِرُ. (S.) ISd thinks that ↓ <br>\
+      ا=صِرَات is the pl. of ↓ <br>\
+      ا=صِرَةٌ used in the first of the senses explained above in in the following verse: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        لَعَمْرُكَ لَا اَذْنُو لِوَصْلِ دَنِيَّةٍ<br>\
+                     &lt;L&gt;<br>\
+                        وَ لَا اَتَصَبَى ا=صِرَاتِ خَلِيلِى<br>\
+                  &lt;/quote&gt; the poet meaning [&lt;i&gt;By thy life, I will not approach to hold loving communion,&lt;/i&gt; or &lt;i&gt;intercourse, with an ignoble,&lt;/i&gt; or &lt;i&gt;a low, female;&lt;/i&gt;] &lt;i&gt;nor will I direct my regard to the short ropes which bind&lt;/i&gt; [&lt;i&gt;to the pegs&lt;/i&gt;] &lt;i&gt;the lower part of the tent of my friend,&lt;/i&gt; coveting his wife, and the like: or he may mean &lt;i&gt;nor will I direct my regard to the female relations of my friend,&lt;/i&gt; such as his paternal aunt, and his maternal aunt, and the like. (TA.) [See ا=صِرَةٌ, below.] ―         -b2-  Also, the first, &lt;i&gt;A thing by which things are tied firmly,&lt;/i&gt; or &lt;i&gt;made firm&lt;/i&gt; or &lt;i&gt;fast.&lt;/i&gt; (TA.) ―         -b3-  &lt;i&gt;A thong of untanned hide which binds together the&lt;/i&gt; <br>\
+                  عَضُدَانِ <br>\
+                  &lt;i&gt;of a camel&#39;s saddle:&lt;/i&gt; and اـِسَارٌ is a dial. var. thereof. (M.) ―         -b4-  Also, (M, K,) and ↓ <br>\
+      اَيْصَرٌ, (AZ, As, K,) &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;garment of the kind called&lt;/i&gt;] كِسَا=ء <br>\
+                  &lt;i&gt;in which dry herbage,&lt;/i&gt; or &lt;i&gt;fodder, is collected:&lt;/i&gt; (M, K:) or &lt;i&gt;a&lt;/i&gt; <br>\
+                  كسا=ء <br>\
+                  &lt;i&gt;filled with herbage, and tied:&lt;/i&gt; (AZ:) or &lt;i&gt;a&lt;/i&gt; <br>\
+                  كسا=ء <br>\
+                  &lt;i&gt;in which is dry herbage,&lt;/i&gt; or &lt;i&gt;fodder:&lt;/i&gt; otherwise it is not thus called: (As:) pl. [of the former] اُصُرٌ and ا=صِرَةٌ; (K;) and of the latter اَيَاصِرُ. (AZ.) ―         -b5-  And both words, (the former accord. to the S and M and K, and the latter accord. to As and the S and M and K,) &lt;i&gt;Dry herbage,&lt;/i&gt; or &lt;i&gt;fodder:&lt;/i&gt; (S, K:) or &lt;i&gt;dry herbage,&lt;/i&gt; or &lt;i&gt;fodder, collected together:&lt;/i&gt; (TA:) or &lt;i&gt;dry herbage,&lt;/i&gt; or &lt;i&gt;fodder, in a&lt;/i&gt; [&lt;i&gt;garment of the kind called&lt;/i&gt;] كسا=ء: otherwise it is not thus called: (As:) or &lt;i&gt;dry herbage,&lt;/i&gt; or &lt;i&gt;fodder, contained in a&lt;/i&gt; <br>\
+                  مِحَشّ. (M.) [The following saying is cited as an ex. of the first of these significations:] لِفُلَانٍ مَحَشٌّ لَا يُجَزُّ ↓ <br>\
+      اَيْصَرَهُ [&lt;i&gt;To such a one belongs a place,&lt;/i&gt; or &lt;i&gt;land, abounding with dry herbage,&lt;/i&gt;] &lt;i&gt;the dry herbage whereof will not be cut;&lt;/i&gt; (S;) meaning, because of its abundance. (TA.) ―         -b6-  Also, the former, &lt;i&gt;A basket&lt;/i&gt; (زَبِيل or زنْبِيل, as in different copies of the K) &lt;i&gt;in which goods,&lt;/i&gt; or &lt;i&gt;commodities,&lt;/i&gt; (مَتَاع,) &lt;i&gt;are carried:&lt;/i&gt; so called as being likened to the thing in which dry herbage is put. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n865&quot; key=&quot;اـِصَارَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِصَارَةٌ<br>\
+                     اصاره<br>\
+                     اصارة<br>\
+                     اـصر<br>\
+                     آصاره<br>\
+                  &lt;/form&gt;: see اـِصَارٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n866&quot; key=&quot;كَلَاٌ ا=صِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَلَاٌ ا=صِرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Pasturage that detains those that are on it&lt;/i&gt; [&lt;i&gt;by reason of its abundance&lt;/i&gt;]: (M, TA:) or, &lt;i&gt;to which one goes because of its abundance.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n867&quot; key=&quot;ا=صِرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=صِرَةٌ<br>\
+                     ا=صره<br>\
+                     ا=صرة<br>\
+                  &lt;/form&gt;, and its pl. ا=صِرَاتٌ: see اـصَارٌ, in three places: of which last word, the first is also a pl. ―         -b2-  &lt;i&gt;The thing termed&lt;/i&gt; <br>\
+                  ا=خِيَّة <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  ا=رِىّ [&lt;i&gt;to which a beast is tied&lt;/i&gt;]. (TA.) ―         -b3-  &lt;i&gt;A tie of kindred,&lt;/i&gt; or &lt;i&gt;relationship,&lt;/i&gt; (S, M, K,) or &lt;i&gt;affinity,&lt;/i&gt; (S,) or &lt;i&gt;a favour,&lt;/i&gt; or &lt;i&gt;benefit,&lt;/i&gt; (S, K,) &lt;i&gt;that inclines one to a man;&lt;/i&gt; (S;) or because it inclines one: (M:) pl. اَوَاصِرُ. (K.) One says, عَلَى فُلَانٍ ا=صِرَةٌ ↓ <br>\
+      مَا تَاْصِرُنِى <br>\
+                  &lt;i&gt;No tie of relationship, nor any favour,&lt;/i&gt; or &lt;i&gt;benefit, inclines me to such a one.&lt;/i&gt; (S.) And عَطَفَ عَلَىَّ <br>\
+                  بِغَيْرِ ا=صِرَهْ وَنَظَرَ فِى اَمْرِى بِغَيْرِ بَاصِرَهْ [&lt;i&gt;He inclined to me without any tie of relationship, &amp;amp;c., and examined my case without eye&lt;/i&gt;]. (A.) [See also اـِصْرٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n868&quot; key=&quot;اَيْصَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْصَرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِصَارٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n869&quot; key=&quot;مَاْصِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْصِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَاْصَرٌ <br>\
+                  &lt;i&gt;A place in which a person or thing is confined, shut up,&lt;/i&gt; or &lt;i&gt;imprisoned:&lt;/i&gt; pl. مَا=صِرٌ; for which the vulgar say, مَعَاصِرُ. (S, K.) ―         -b2-  Also, the former, (M, A,) or مَاصِرٌ; (TA;) either of the measure مَفْعِلٌ from الاَصْرُ, or of the measure فَاعِلٌ from المِصْرُ; &lt;i&gt;A thing intervening between two other things and preventing the passage from one to the other; a barrier:&lt;/i&gt; (A:) &lt;i&gt;a rope across a road or river, preventing the passage of travellers and ships&lt;/i&gt; or &lt;i&gt;boats,&lt;/i&gt; (M, L,) &lt;i&gt;for the taking of the tithes from them.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n870&quot; key=&quot;مُوَاصِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَاصِرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A neighbour:&lt;/i&gt; (K:) [or &lt;i&gt;a close,&lt;/i&gt; or &lt;i&gt;near, neighbour:&lt;/i&gt; as in the saying,] هُوَ جَارِى مُوَاصِرِى <br>\
+                  &lt;i&gt;He is my neighbour, having the&lt;/i&gt; <br>\
+                  اـِصَار <br>\
+                  &lt;i&gt;of his tent by the side of the&lt;/i&gt; <br>\
+                  اـِصَار <br>\
+                  &lt;i&gt;of my tent.&lt;/i&gt; (El-Ahmar, S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n871&quot; key=&quot;حَىٌّ مُتَا=صِرُونَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَىٌّ مُتَا=صِرُونَ<br>\
+                     حي متا=صرون<br>\
+                  &lt;i&gt;A tribe dwelling,&lt;/i&gt; or &lt;i&gt;abiding, near together.&lt;/i&gt; (S, K. *) &lt;pb n=&quot;64&quot; TEIform=&quot;pb&quot;/&gt;   <br>\
+' } );

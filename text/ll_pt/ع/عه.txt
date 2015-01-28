@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>عه</em>            1                  عه<br>\
+<b>عَهْ عَهْ</b>               1     <br>\
+                     عَهْ عَهْ<br>\
+                     ذ<br>\
+                  : see عَاهِ عَاهِ, in art. عوه.    <br>\
+' } );

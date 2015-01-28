@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;صاب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  صاب<br>\
+&lt;entryFree id=&quot;n23588&quot; key=&quot;صَيِبَ رَاْسُهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     صَيِبَ رَاْسُهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;His head abounded with&lt;/i&gt; <br>\
+                  صُوَاب [or &lt;i&gt;nits&lt;/i&gt;]; (S, M, K;) as also ↓ <br>\
+      اصاب. (S, K.) صَيِبَ مِنَ الشَّرَابِ, (M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     صَاََ<br>\
+                  &lt;/form&gt;, (K,) inf. n. صَاْبٌ, (M,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, satisfied, and filled, with drink:&lt;/i&gt; (M, K:) or صَيِبَ [alone] &lt;i&gt;he drank much water.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَصْاََ<br>\
+                  &lt;/form&gt; see the preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23589&quot; key=&quot;صُوْبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صُوْبَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A granary,&lt;/i&gt; or &lt;i&gt;granaries,&lt;/i&gt; (اَنْبَار,) &lt;i&gt;of wheat&lt;/i&gt; (طَعَام). (K.) ―         -b2-  And &lt;i&gt;A place where dates are dried:&lt;/i&gt; so in the dial. of the people of El-Felj. (TA in art. حضر.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23590&quot; key=&quot;صُوَابٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صُوَابٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23591&quot; key=&quot;صُوَابٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صُوَابٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) vulgarly pronounced صُوَابَة, without., (MF, TA,) &lt;i&gt;A nit;&lt;/i&gt; i. e. &lt;i&gt;an egg of a louse;&lt;/i&gt; (S, K;) and &lt;i&gt;an egg of a flea;&lt;/i&gt; (K;) but accord. to some, not applied to the latter unless tropically: (MF, TA:) accord. to IDrst, &lt;i&gt;a young louse:&lt;/i&gt; (TA:) or the &lt;i&gt;eggs of the flea&lt;/i&gt; and &lt;i&gt;of the louse;&lt;/i&gt; as also ↓ <br>\
+      صُوَابٌ: (M:) [or,] accord. to the S and K, ↓ <br>\
+      صُوَابٌ and صِيْبَانٌ, (TA,) the latter of which is vulgarly pronounced صِيبَان, without ء, (MF, TA,) are pls. of صُوَابَةٌ; but the former of them is a coll. gen. n., of which صُوَابَةٌ is the n. un.: (TA:) Yaakoob has erroneously asserted that one should not say صِيْبَانٌ. (M, TA.) ―         -b2-  ↓ <br>\
+      صُوَابٌ is also sometimes applied to (assumed tropical:)  The &lt;i&gt;small pieces of gold that are taken forth from the dust,&lt;/i&gt; or &lt;i&gt;earth, of the mine.&lt;/i&gt; (IDrst, TA.) In the following verse, cited by IAar, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        حَيَّا ↓ <br>\
+      يَا رَبِّ اَوْجِدْنِى صُوَابًا<br>\
+                     &lt;L&gt;<br>\
+                        فَمَا اَرَى الطَّيَّارَ يُغْنِى شَيَّا<br>\
+                  &lt;/quote&gt; the poet means, [&lt;i&gt;O my Lord,&lt;/i&gt;] &lt;i&gt;cause me to find gold like&lt;/i&gt; <br>\
+                  صُوَاب [or &lt;i&gt;nits&lt;/i&gt;], &lt;i&gt;whole,&lt;/i&gt; or &lt;i&gt;sound, not broken into minute parts;&lt;/i&gt; [&lt;i&gt;for I see not the&lt;/i&gt; <br>\
+                  طَيَّار <br>\
+                  &lt;i&gt;to stand in any stead;&lt;/i&gt; <br>\
+                  شَيَّا being for شَيْيًا;] by the طيّار meaning the &lt;i&gt;minutest pieces of gold that the wind blows away.&lt;/i&gt; (M, L, TA.) ―         -b3-  And [the pl.] صِيْبَانٌ signifies [also] (assumed tropical:)  &lt;i&gt;Hoar-frost formed into grains like small pearls.&lt;/i&gt; (A&#39;Obeyd, L, TA.) [And drops of fine rain are said to be likened to صِيْبَان: see Ham p. 796. See also صَبِىٌّ (in art. صبو), last sentence.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23592&quot; key=&quot;مِصْاَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِصْاَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A man &lt;i&gt;who drinks much water:&lt;/i&gt; (S:) or &lt;i&gt;who satisfies and fills himself with drink.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

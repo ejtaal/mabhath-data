@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'علسعَلَسٌ A certain kind of wheat, having two<br>\
+grains in one husk, (S, O, Msb, K,) and sometimes<br>\
+one grain, or three grains; (Msb;) it is found in<br>\
+the region of El-Yemen; (TA;) and is the<br>\
+wheat of San&#39;à: (S, O, K:) or a sort of wheat,<br>\
+of good quality, but difficult to cleanse, growing in<br>\
+the parts of El-Yemen: (AHn, O:) or [a kind<br>\
+of grain] like wheat, but difficult to cleanse,<br>\
+(Mgh, Msb,) having two grains in one envelope,<br>\
+and it is the corn of San&#39;à: (Mgh:) or a certain<br>\
+black grain, which people eat in times of dearth,<br>\
+or drought, (Mgh, Msb,) after grinding it:<br>\
+(Mgh:) or, (Msb, in the K “ and,”) accord. to<br>\
+IAar, (O,) i. q. عَدَسٌ [or lentils]. (O, Msb, K.)<br>\
+' } );

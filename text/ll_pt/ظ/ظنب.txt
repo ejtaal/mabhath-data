@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>ظنب</em>            1                  ظنب<br>\
+<b>ظِنْبٌ</b>               1     <br>\
+                     ظِنْبٌ<br>\
+                     ذ<br>\
+                   The <i>root,</i> or <i>lower part,</i> or <i>stem,</i> (اَصْل,) of a tree. (IAar, T, K.)    </entryFree> <br>\
+<b>ظُنْبَةٌ</b>               1     <br>\
+                     ظُنْبَةٌ<br>\
+                     ذ<br>\
+                  <i>A sinew</i> (عَقَبَة) <i>that is wound over the extremities of the feathers of an arrow, next the notch.</i> (AHn, M, K.)    </entryFree> <br>\
+<b>ظُنْبُوبٌ</b>               1     <br>\
+                     ظُنْبُوبٌ<br>\
+                     ذ<br>\
+                   The <i>edge of the shin:</i> (K:) or the <i>tough edge of the shin:</i> or the <i>external part of the shank:</i> (M, TA:) or the <i>shin-bone:</i> or the <i>edge of the shin-bone:</i> (M, K:) or the <i>tough bone in the fore part of the shank:</i> (S:) but accord. to AZ, this term is not used in relation to animals that have اَوْظِفَة: [see وَظِيفٌ:] (T, TA:) pl. ظَنَابِيبُ. (S, M, K.) عَارِى الظَّنَابِيبِ <br>\
+                  <i>Without flesh upon the shins</i> (TA) is an epithet applied to a male ostrich. (S, TA.) قَرَعَ ظُنْبُوبَ البَعِيرِ means <i>He knocked,</i> or <i>struck, the shin of the camel,</i> that he might lie down, and he might mount him: or قَرْعُ الظُّنْبُوبِ signifies a man&#39;s <i>knocking,</i> or <i>striking, the shin</i> of his camel with his stick when he makes him lie down that he may mount him, as one in haste to betake himself to a thing: or <i>striking the shin</i> of his beast with his whip, [in the TA is here added ليترقه, which I can only suppose to be put for لِيُبْرِكَهُ, to make him lie down,] when he desires to mount him. (TA.) [See an ex. voce عُرْقُوبٌ. Hence,] قَرَعَ <br>\
+                  فُلَانٌ لِاَمْرِهِ ظُنْبُوبَهُ (assumed tropical:)  [<i>Such a one struck his shin to betake himself to his affair</i>] means <i>such a one applied himself to his affair with diligence,</i> or <i>energy.</i> (T, L, TA.) Selámeh Ibn-Jendel says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كُنَّا اـِذَا مَا اَتَانَا صَارِخٌ فَزِعٌ<br>\
+                     <L><br>\
+                        كَانَ الصُّرَاخُ لَهُ قَرْعَ الظَّنَابِيبِ<br>\
+                  </quote> [<i>We were</i> (<i>such that</i>), <i>when there came to us one crying aloud, in terror, the clamour</i> (<i>returned</i>) <i>to him was the striking of the shins;</i>] by which he is said to mean that a quick reply was given; calling the striking of the whip upon the leg of the boot, in urging on the horse, “ the striking of the shin. ” (S.) You also say, قَرَعَ لِذٰلِكَ الاَمْرِ <br>\
+                  ظُنْبُوبَهُ meaning (assumed tropical:)  <i>He prepared himself for that affair,</i> or <i>thing:</i> and agreeably with this signification the verse of Selámeh cited above has been explained. (M, TA.) And قَرَعَ ظَنَابِيبَ الاَمْرِ (tropical:)  <i>He made,</i> or <i>rendered, the affair manageable.</i> (M, K, TA.) A poet, cited by IAar, says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        قَرَعْتُ ظَنَابِيبَ الْهَوَى يَوْمَ عَالِجٍ<br>\
+                  </quote> (tropical:)  <i>I subdued love,</i> or <i>subjected it to my will, on the day of &#39;Álij;.</i> as though I struck it on the shins; as a camel&#39;s shin is struck when one desires him to lie down, that he may mount him. (M, TA.) ―         -b2-  ظُنْبُوبٌ also signifies <i>A nail that is in the</i> <br>\
+                  جُبَّة <br>\
+                  <i>of a spear-head,</i> [i. e., <i>in the part into which the shaft enters,</i>] (M, K,) <i>where it is fixed upon the upper extremity of the shaft:</i> and ظَنَابِيب has been said to be the pl. of the word in this sense in the verse of Selámeh cited above. (M, TA.)   </entryFree> <br>\
+            <div2 n=&quot;Quasi ZnY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi ظنى<br>\
+<b>تظنّى</b>               1     <br>\
+                     تظنّى<br>\
+                     ذ<br>\
+                  ; originally تَظَنَّنَ: see the latter, in art. ظن.   </entryFree> <br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>قذف</em>            1                  قذف<br>\
+<b>قَذَفَ بِاْلْحِجارَةِ وَغَيْرِهَا</b>               1     <br>\
+                     قَذَفَ بِاْلْحِجارَةِ وَغَيْرِهَا<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَذِفَ<br>\
+                  , inf. n. قَذْفٌ, <i>He threw stones,</i> &amp;amp;c. (Msb.) ―         -b2-  قَذَفَ بِهِ <br>\
+                  <i>He cast it; cast it forth;</i> namely, an arrow, and a pebble, and speech, and anything. (Lth, TA.) It may sometimes be rendered <i>He shed it;</i> as, for instance, light into the heart, said of God. ―         -b3-  يَقْذِفُ بِالحَقِّ (Kur, xxxiv. 47,) <i>He</i> (God) <i>uttereth truth.</i> (Zj, TA.) ―         -b4-  قَذَفَ بِالسَّهْمِ <br>\
+                  <i>He shot the arrow.</i> (Lth, TA.) ―         -b5-  قَذَفَ <br>\
+                  <i>He reproached, upbraided, reviled, vilified, defamed,</i> or <i>gave a bad name to,</i> a chaste woman: (MA:) <i>he reproached, upbraided,</i> &amp;amp;c. another; syn. شَتَمَ. (JK.) Used tropically, قَذَفَهُ is most correctly rendered (tropical:)  <i>He cast at him an accusation:</i> but it is commonly used and expl. as syn. with شَتَمَهَ q. v. ―         -b6-  قَذَفَ <br>\
+                  <i>He charged, reproached, or upbraided,</i> (رَمَى,) a chaste, or an honest, or a married, woman, <i>with adultery.</i> (S, Msb, K.) ―         -b7-  قَذَفَهَ بِهِ <br>\
+                  <i>He aspersed him, reviled him;</i> syn. شَتَمَهُ. (JK.) ―         -b8-  قَذَفَهَ بِهِ <br>\
+                  <i>He reproached,</i> or <i>upbraided, him with it; he accused him of it.</i> (TA.) ―         -b9-  Also, <i>i. q.</i> <br>\
+                  اَصَابَهُ بِهِ. (TA.) ―         -b10-  وَيَقْذِفُونَ بِالغَيْبِ (Kur, xxxiv. 52,) <i>They uttering conjectures,</i> (Zj, TA,) or <i>uttering conjecture;</i> (Bd;) <i>speaking of that which was hidden</i> [<i>from them</i>], (Ksh,) <i>of that which had not become apparent to them.</i> (Bd.) ―         -b11-  قُذِفَتْ بِاللَّحْمِ (assumed tropical:)  <i>She</i> (a camel) <i>became fat and plump.</i> (TA, voce اُسْتُعْرِضَت.) ―         -b12-  قَذَفَتْهُ القَوَاذِفُ: see طَوَّحَتْهُ الطَّوَايِحُ.    </entryFree> <br>\
+<b>قُذُفٌ</b>               1     <br>\
+                     قُذُفٌ<br>\
+                     ذ<br>\
+                  <i>Land in which is no pasturage wherein cattle may freely range.</i> (L, art. صح.)    </entryFree> <br>\
+<b>قَذَّافٌ</b>               1     <br>\
+                     قَذَّافٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مَنْجَنِيقٌ: (Lth, K:) The <i>kind of instrument with which a thing is thrown so that it goes far;</i> n. un. with ة. (Aboo-Kheyreh, K.) See مَرْجَامٌ and مِرْجَمَةٌ. ―         -b2-  قُذَّافَهٌ <br>\
+                  <i>A sling:</i> pl. قُذَّافَاتٌ. (MA.)    </entryFree> <br>\
+<b>قَوَاذِفُ</b>               1     <br>\
+                     قَوَاذِفُ<br>\
+                     ذ<br>\
+                  : see طَوَايِحُ; and طَوَّحَتْهُ الطَّوَايِحُ.    </entryFree> <br>\
+<b>مَقَاذِفُ</b>               1     <br>\
+                     مَقَاذِفُ<br>\
+                     ذ<br>\
+                  : see مَطَاوِحُ: <i>Places of perdition;</i> syn. مَهَالِكُ. (TA.)   </entryFree> <br>\
+' } );

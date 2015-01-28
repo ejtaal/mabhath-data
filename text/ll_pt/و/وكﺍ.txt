@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وكا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وكا<br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَكڤاَ<br>\
+                  &lt;/form&gt; see 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42267&quot; key=&quot;واكا عَلَى يَدَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     واكا عَلَى يَدَيْهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He leaned upon his hands,&lt;/i&gt; or &lt;i&gt;arms.&lt;/i&gt; Mohammad was seen to do so when he raised and extended his hands in supplication to God. (IAth.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42268&quot; key=&quot;اَوْكَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَوْكَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. اـِيكَاءٌ, (S,) &lt;i&gt;He set up for him a thing upon which to recline&lt;/i&gt; (مُتَّكَاٌ.) (S, K.) ―         -b2-  اَتْكَاَهُ, (in which ت is substituted for و,) inf. n. اـِتْكَاهُ, &lt;i&gt;He propped him up by a cushion&lt;/i&gt; or &lt;i&gt;other thing whereon to recline; made him recline upon a cushion &amp;amp;c.&lt;/i&gt; (AZ, TA.) ―         -b3-  ضَرَبَهُ فَاَتْكَاَهُ, (A,) or طَعَنَهُ حَتَّى اَتْكَاَهُ, originally اَوْكَاَهُ, (S,) (tropical:)  &lt;i&gt;He smote him,&lt;/i&gt; (A,) or &lt;i&gt;pierced him,&lt;/i&gt; (S,) &lt;i&gt;so that he made him fall in a reclining posture:&lt;/i&gt; (S, A, K: *) or, &lt;i&gt;so that he threw him down upon his left side.&lt;/i&gt; (K.) ―         -b4-  See 3.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَوَكَّاَ<br>\
+                  &lt;/form&gt; see 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42269&quot; key=&quot;اِتَّكَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِتَّكَاَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He sat in a firm,&lt;/i&gt; or &lt;i&gt;settled, manner:&lt;/i&gt; and &lt;i&gt;he sat leaning upon one of his sides:&lt;/i&gt; (Msb, in art. تكا:) the vulgar know it only in the latter sense: but it signifies &lt;i&gt;he leaned, rested,&lt;/i&gt; or &lt;i&gt;stayed, his back,&lt;/i&gt; or &lt;i&gt;his side, against,&lt;/i&gt; or &lt;i&gt;upon, a thing:&lt;/i&gt; and &lt;i&gt;he leaned, rested,&lt;/i&gt; or &lt;i&gt;stayed, himself in any manner, upon a thing.&lt;/i&gt; (IAth, in Msb, art. وكا.) ―         -b2-  اِتَّكَاَ عَلَى شَىْءٍ, (S,) and ↓ <br>\
+      توكّا, (S, K,) and ↓ <br>\
+      اوكا; (K;) and ↓ <br>\
+      تَكِيَ, [in which ت is substituted for و,] aor. يَتْكَاُ, inf. n. تَكْءٌ; (Lth;) and ↓ <br>\
+      وَكَاَ; (CK;) &lt;i&gt;He leaned,&lt;/i&gt; or &lt;i&gt;reclined, upon a thing; supported, propped,&lt;/i&gt; or &lt;i&gt;stayed, himself upon it.&lt;/i&gt; (K.) ―         -b3-  اِتَّكَاَ <br>\
+                  &lt;i&gt;He reclined&lt;/i&gt; upon a cushion, &amp;amp;c. (TA.) ―         -b4-  اِتَّكَاَ <br>\
+                  &lt;i&gt;He made for him&lt;/i&gt; [i. e., app., for himself,] &lt;i&gt;a thing upon which to lean,&lt;/i&gt; or &lt;i&gt;recline:&lt;/i&gt; (CK, and a MS. copy of the K:) or &lt;i&gt;he made him to be a thing upon which to lean,&lt;/i&gt; or &lt;i&gt;recline.&lt;/i&gt; (TA.) [The latter seems to be wrong, unless the verb be read اَتْكَاَ.] ―         -b5-  اِتَّكَاْنَا عِنْدَ فُلَانٍ (tropical:)  &lt;i&gt;We ate a repast with,&lt;/i&gt; or &lt;i&gt;at the abode of, such a one.&lt;/i&gt; (TA.)       -A2-  اِتَّكَاَتْ (MF) and ↓ <br>\
+      تَوَكَّاَتْ (K) &lt;i&gt;She&lt;/i&gt; (a camel) &lt;i&gt;was taken with the pains of labour, and cried out.&lt;/i&gt; (K.) Accord. to Lth, تَوَكُّوُ النَّاقَةِ signifies تصلّفها عند مخاضها: (TA:) [but it is evident that the right reading is تصلّقها; and the sense agreeable with the above explanation].    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42270&quot; key=&quot;تُكَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُكَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (in which ت is substituted for و, TA) &lt;i&gt;A staff,&lt;/i&gt; or &lt;i&gt;stick,&lt;/i&gt; (K,) &lt;i&gt;upon which one leans in walking; a walking-stick:&lt;/i&gt; (TA:) &lt;i&gt;that upon which one leans&lt;/i&gt; or &lt;i&gt;reclines.&lt;/i&gt; (S, K.) ―         -b2-  &lt;i&gt;One who reclines much.&lt;/i&gt; (S, K.) ―         -b3-  (tropical:)  A &lt;i&gt;heavy&lt;/i&gt; person [app., &lt;i&gt;in disposition&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42271&quot; key=&quot;مُتَّكِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَّكِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; act. part. n. of 8. ―         -b2-  لَا ا=كُلُ مُتَّكِيًا <br>\
+                  &lt;i&gt;I&lt;/i&gt; (said Mohammad) &lt;i&gt;eat not sitting in a firm,&lt;/i&gt; or &lt;i&gt;settled, posture, cross-legged,&lt;/i&gt; or &lt;i&gt;in such other similar manner as is adapted for much eating:&lt;/i&gt; for he used to eat sitting upon his hams, with his shanks erect, so as to be ready to rise. The meaning is not [only] “ inclining on one side, ” as the vulgar among students imagine. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42272&quot; key=&quot;مُتَّكَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَّكَا<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place in which one reclines:&lt;/i&gt; (S:) &lt;i&gt;a chamber,&lt;/i&gt; or &lt;i&gt;sitting-room.&lt;/i&gt; (Akh, S.) ―         -b2-  &lt;i&gt;That upon which one leans,&lt;/i&gt; or &lt;i&gt;reclines, in eating, drinking,&lt;/i&gt; or &lt;i&gt;talking.&lt;/i&gt; (Zj.) ―         -b3-  (tropical:)  &lt;i&gt;Food,&lt;/i&gt; or &lt;i&gt;a repast:&lt;/i&gt; so called because people used to recline when they sat to eat: but the Muslims are forbidden to do so. [See مُتَّكِيٌ.] It is said to have this last meaning in the Kur. xii. 31. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

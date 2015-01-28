@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'لخقلُخْقُوقٌ [A sort of trench, or channel, made by<br>\
+water, which has worn and undermined its sides;]<br>\
+a place in which water flows, having sides worn<br>\
+and undermined thereby, and hollowed in the<br>\
+form of the river, or river-bed: pl. لَخَاقِيقُ.<br>\
+(ISh, TA.)<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لزورد</em>            1                  لزورد<br>\
+<b>لَازَوَردٌ</b>               1     <br>\
+                     لَازَوَردٌ<br>\
+                     ذ<br>\
+                   [and لَازُوَرْدٌ], an arabicized word, [from the Persian لَاCْورْدْ,] <i>A well-known stone;</i> [<i>lapis lazuli;</i>] <i>used as a material with which to write, and as a medicine.</i> (MF.)    </entryFree> <br>\
+<b>لَا زَُوَرْدِىٌّ</b>               1[     <br>\
+                     لَا زَُوَرْدِىٌّ<br>\
+                     ذ<br>\
+                  <i>Of the colour of lapis lazuli.</i>]   </entryFree> <br>\
+' } );

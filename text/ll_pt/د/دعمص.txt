@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>دعمص</em>            1                  دعمص<br>\
+<b>دَعْمَصَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     دَعْمَصَ<br>\
+                     دعمص<br>\
+                  <i>It</i> (water) <i>abounded with</i> <br>\
+                  دَعَامِيص [pl. of دُعْمُوصٌ]. (K.)    </entryFree> <br>\
+<b>دُعْمُوصٌ</b>               1     <br>\
+                     دُعْمُوصٌ<br>\
+                     دعموص<br>\
+                  <i>A certain animalcule</i> (دُوَيْبَّةٌ), (S, K,) <i>that dives in water:</i> (S:) or <i>a certain black animalcule that swims upon water:</i> (Mgh:) or <i>a certain worm</i> (دُودَةٌ), <i>that is in pools left by torrents when their water sinks into the earth:</i> (IDrd, K:) or <i>a certain worm</i> (دودة) <i>having two heads, seen in water when it becomes little in quantity:</i> (IB:) pl. دَعَامِيصُ and دَعَامِصُ. (S.) ―         -b2-  [Hence, app.,] (assumed tropical:)  <i>One who enters much into affairs; who is a frequent visitor of kings.</i> (K.) And hence, الاَطْفَالُ دَعَامِيصُ الجَنَّةِ, meaning (assumed tropical:)  [<i>Infants will be</i>] <i>roamers in Paradise:</i> they will not be debarred from any dwelling: (K:) a trad.: but the words occurring in a trad. of Aboo-Hureyreh are صِغَارُكُمْ دَعَامِيصُ الجَنَّةِ [<i>Your little children</i> &amp;amp;c.]. (TA.) ―         -b3-  Also The <i>embryo in the belly of a mare until the fortieth day:</i> then its make becomes apparent, and it is called دُودَةٌ, until three months old: when it is called سَلِيلٌ. (Kr, TA.)    </entryFree> <br>\
+<b>دُعَيْمِيصٌ</b>               1     <br>\
+                     دُعَيْمِيصٌ<br>\
+                     ١<br>\
+                   [dim. of دُعْمُوصٌ]. ―         -b2-  One says, هُوَ <br>\
+                  دُعَيْمِيصُ هٰذَا الاَمْرِ, meaning <i>He is acquainted with,</i> or <i>knowing in, this affair.</i> (S, K.) دُعَيْمِيصُ <br>\
+                  الرَّمْلِ was the name of a certain cunning, or knowing, or skilful, man; and hence the saying above mentioned: (S:) he was a black slave, very cunning or knowing or skilful, and an expert guide of the way. (K.) And [hence] one says, اَهْدَى مِنْ <br>\
+                  دُعَيْمِيصُ الرَّمْلِ [<i>More expert in showing the way than Do&#39;eymees-er-Raml</i>]. (O, TA.)   </entryFree> <br>\
+' } );

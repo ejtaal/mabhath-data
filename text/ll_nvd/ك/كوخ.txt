@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'كوخكَاخٌ: see كُوخٌ.<br>\
+كُوخٌ, (S, L, K,) a Persian word, (L,) and<br>\
+↓ كَاخٌ, (K,) A house [or hut] with a gibbous roof:<br>\
+(L, TA:) a house [or hut] of reeds or canes,<br>\
+(with a gibbous roof, K,) without an aperture for<br>\
+the admission of light: (S, L, K:) any place<br>\
+which a husbandman or a gardener prepares in<br>\
+which to guard his growing corn or his garden:<br>\
+and the people of Marw give the name of ↓ كاخ<br>\
+to a pavilion (قَصْر) made in a garden or other<br>\
+place: (L:) pl. أَكْوَاخٌ (S, K) and كُوخَانٌ and<br>\
+كِيخَانٌ and كِوَخَةٌ: (K, TA:) [the last, in the<br>\
+CK, written كُوَخَةٌ].<br>\
+' } );

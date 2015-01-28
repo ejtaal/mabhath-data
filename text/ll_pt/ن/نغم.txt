@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>نغم</em>            1                  نغم<br>\
+<b>نَغَمَ</b>               1     <br>\
+                     نَغَمَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَغِمَ<br>\
+                   and      <br>\
+                     نَغَمَ<br>\
+                  , <i>He spoke in a low, gentle,</i> or <i>soft, voice</i> or <i>tone:</i> (S, Msb:) [<i>he spoke in an undertone:</i>] <i>he used such a voice</i> in singing: (K:) or <i>he modulated his voice,</i> or <i>made melody,</i> in singing. (TK.) See جرس.    </entryFree> <br>\
+<b>تَنْغِيمٌ</b>               1     <br>\
+                     تَنْغِيمٌ<br>\
+                     ذ<br>\
+                  : see شِينٌ.    </entryFree> <br>\
+<b>تَنَغَّمَ</b>               1     <br>\
+                     تَنَغَّمَ<br>\
+                     ذ<br>\
+                  : see جَرَسَ.    </entryFree> <br>\
+<b>نَغْمَةٌ</b>               1     <br>\
+                     نَغْمَةٌ<br>\
+                     ذ<br>\
+                  <i>Gentle-toned speech;</i> syn. جَرْسُ الكَلاَمِ: (Msb:) and <i>sweetness of voice, or melody,</i> in recitation [and in singing]. (S, Msb.) ―         -b2-  [Also, <i>A musical sound, or note:</i>] <i>a melody:</i> see طَرْقٌ: <i>sweet sound:</i> pl. نَغَمَاتٌ. (KL.)    </entryFree> <br>\
+<b>مُنَاغَمَةٌ</b>               1     <br>\
+                     مُنَاغَمَةٌ<br>\
+                     ذ<br>\
+                  : see voce بَا غَمَهُ.   </entryFree> <br>\
+' } );

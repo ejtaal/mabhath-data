@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>لعج</em>            1                  لعج<br>\
+<b>لَعَجَ</b>               1     <br>\
+                     لَعَجَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَعَجَ<br>\
+                  , (inf. n. لَعْجٌ, TA) <i>It</i> (a beating, TA) <i>burned</i> the skin: <i>it pained</i> the body: (K:) <i>it</i> (a beating) <i>pained</i> a person, <i>and burned</i> the skin: (S:) <i>it</i> (anything burning) <i>pained: it</i> (love, or grief,) <i>burned</i> his heart. (TA.) [See بَعَجَ.] لَاعِجٌ is numbered amongst the [few] inf. ns. of the measure فَاعِلٌ [like قَايِمٌ]; and means as explained below. (TA.) ―         -b2-  لَعَجَ فى <br>\
+                  الصَّدْرِ <br>\
+                  <i>It</i> (an affair) <i>was unsettle in the bosom;</i> syn. خَلَخَ. (K.)    </entryFree> <br>\
+<b>لاعجهُ</b>               1     <br>\
+                     لاعجهُ<br>\
+                     ذ<br>\
+                  <i>It</i> (a thing, or an affair,) <i>distressed him.</i> (K.)    </entryFree> <br>\
+<b>العخ النَّارَ فِى الحَطَبِ</b>               1     <br>\
+                     العخ النَّارَ فِى الحَطَبِ<br>\
+                     ذ<br>\
+                  <i>He kindled fire in the fire-wood.</i> (K.)    </entryFree> <br>\
+<b>التعج</b>               1     <br>\
+                     التعج<br>\
+                     ذ<br>\
+                  <i>He burned,</i> or <i>was distressed and disquieted, by reason of grief,</i> or <i>solicitude.</i> (K.)    </entryFree> <br>\
+<b>لَاعِجٌ</b>               1     <br>\
+                     لَاعِجٌ<br>\
+                     ذ<br>\
+                  : see 1. ―         -b2-  <i>Ardour</i> of love, or desire, or the like; syn. لَوْعَةٌ. (TA.) ―         -b3-  <i>Burning</i> or <i>ardent,</i> love: (L:) love <i>that burns the heart.</i> (S.) [See حُبٌّ.] ―         -b4-  بِهِ لَاعِجُ الشَّوْقِ, and لَوَاعِجُهُ, <i>He suffers the burning pain, and pains, of longing desire.</i> (A.)    </entryFree> <br>\
+<b>مُتَلَعِّجَةٌ</b>               1     <br>\
+                     مُتَلَعِّجَةٌ<br>\
+                     ذ<br>\
+                   A woman <i>who burns with lust.</i> (K.)   </entryFree> <br>\
+' } );

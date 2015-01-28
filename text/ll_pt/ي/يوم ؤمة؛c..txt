@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>يوم ؤَمة؛c.</em>            1                  يوم &amp;amp;c.</head>    <br>\
+               <entryFree>See Supplement  SUPPLEMENT TO PARTS VII. AND VIII.   </entryFree> <br>\
+' } );

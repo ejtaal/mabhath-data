@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كنعثQ. 2<br>\
+تَكَنْعَثَ It (a thing) became collected together. (L.)<br>\
+' } );

@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ارش&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ارش<br>\
+&lt;entryFree id=&quot;n570&quot; key=&quot;اَرَشَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرَشَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرُشَ<br>\
+                  &lt;/form&gt;, (TK,) inf. n. اَرْشٌ, (K, TA,) &lt;i&gt;He scratched with the nails,&lt;/i&gt; or &lt;i&gt;lacerated, him,&lt;/i&gt; [a man,] or &lt;i&gt;it,&lt;/i&gt; [the skin, or (as in the TK) the face,] &lt;i&gt;little&lt;/i&gt; or &lt;i&gt;much, so as to bring blood&lt;/i&gt; or &lt;i&gt;not;&lt;/i&gt; syn. خَدَشَهُ. (K, * TA.) [This signification is probably derived from اَرْشٌ as syn. with تَاْرِيشٌ, in which sense it seems to be the inf. n. of an obsolete verb.]       -A2-  اَرَشَهُ, (TA,) inf. n. as above, (K, TA,) &lt;i&gt;He gave him&lt;/i&gt; (K, * TA) &lt;i&gt;the fine,&lt;/i&gt; or &lt;i&gt;mulct, for a wound.&lt;/i&gt; (TA.) ―         -b2-  اَرَشُوهُ, inf. n. as above, &lt;i&gt;They sold the milk of their camels for the water of his well.&lt;/i&gt; (Sgh.)       -A3-  اُرِشَ, like عُنِىَ, (Sgh,) inf. n. as above, (Sgh, K,) &lt;i&gt;He sought to obtain,&lt;/i&gt; or &lt;i&gt;demanded, the fine,&lt;/i&gt; or &lt;i&gt;mulct, for a wound.&lt;/i&gt; Sgh, K. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n571&quot; key=&quot;ارّش بَيْنَ القَوْمِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ارّش بَيْنَ القَوْمِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, L, Msb,) and بَيْنَ الرَّجُلَيْنِ, (TA,) inf. n. تَاْرِيشٌ, (S, Msb,) &lt;i&gt;He made mischief;&lt;/i&gt; or &lt;i&gt;excited disorder, disturbance, disagreement, discord, dissension, strife,&lt;/i&gt; or &lt;i&gt;quarrelling;&lt;/i&gt; (S, L, Msb, TA;) &lt;i&gt;between,&lt;/i&gt; or &lt;i&gt;among, the people,&lt;/i&gt; or &lt;i&gt;company of men,&lt;/i&gt; (S, L, Msb,) and &lt;i&gt;between the two men:&lt;/i&gt; (TA:) accord. to some, its original is حَرَّشَ. (Msb.) ―         -b2-  And ارّش النَّارَ, inf. n. as above, &lt;i&gt;He kindled the fire;&lt;/i&gt; or &lt;i&gt;made it to burn:&lt;/i&gt; (S, K:) and in like manner, الحَرْبَ (assumed tropical:)  &lt;i&gt;war,&lt;/i&gt; or &lt;i&gt;the war.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n572&quot; key=&quot;ا=يْتَرِشْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ا=يْتَرِشْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [written with the disjunctive alif اِيتَرِشْ] &lt;i&gt;Take thou from him the fine,&lt;/i&gt; or &lt;i&gt;mulct, for thy&lt;/i&gt; <br>\
+                  خُمَاشَة, q. v. (K.) ―         -b2-  ا=يْتَرَشَ لِلْخُمَاشَةِ [&lt;i&gt;He surrendered himself to pay the fine,&lt;/i&gt; or &lt;i&gt;mulct, for the injury termed&lt;/i&gt; <br>\
+                  خُمَاشَة,] is like اِسْتَسْلَمَ لِلْقِصَاصِ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n573&quot; key=&quot;اَرْضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;making mischief;&lt;/i&gt; or &lt;i&gt;exciting disorder, disturbance, disagreement, discord, dissension, strife,&lt;/i&gt; or &lt;i&gt;quarrelling;&lt;/i&gt; [like تَاْرِيشٌ; see 2, and see also 1;] syn. فَسَادٌ [in the sense of اـِفْسَادٌ]; (Msb;) and اـِغْرَا=ءٌ. (K.) ―         -b2-  &lt;i&gt;Disagreement, discord,&lt;/i&gt; or &lt;i&gt;dissension; and contention,&lt;/i&gt; or &lt;i&gt;altercation:&lt;/i&gt; you say, بَيْنَهُمَا اَرْشٌ <br>\
+                  &lt;i&gt;Between them two is disagreement,&lt;/i&gt; &amp;amp;c. (K.)       -A2-  &lt;i&gt;A fine,&lt;/i&gt; or &lt;i&gt;mulct, for a wound:&lt;/i&gt; (S, Mgh, Msb, K:) from the first of the significations in this paragraph; (Msb;) or from its being one of the causes of contention, or altercation; or, accord. to AM, from the same word as inf. n. of اَرُوشٌ in the first of the senses explained in this art.; accord. to IF, originally هَرْشٌ: (TA:) pl. اُرُوشٌ. (Mgh, Msb.) Hence the saying mentioned by IAar, اِنْتَظِرْنِى حَتَّى <br>\
+                  تَعْقِلَ فَلَيْسَ لَكَ عِنْدَنَا اَرْشٌ اـِلَّا الاَسِنَّةُ [&lt;i&gt;Wait thou for me until thou accept a fine for a wound in lieu of retaliation; for thou hast no compensation for a wound to receive from us except the spearheads&lt;/i&gt;]: meaning, thou shalt not slay a man for whom we will ever give bloodwit. (L, TA.) ―         -b2-  &lt;i&gt;What is diminished&lt;/i&gt; [&lt;i&gt;of the price&lt;/i&gt;] &lt;i&gt;by reason of a defect in a garment&lt;/i&gt; or &lt;i&gt;piece of cloth:&lt;/i&gt; as being a cause of contention, or altercation. (K, * TA.) ―         -b3-  &lt;i&gt;What is payed&lt;/i&gt; [&lt;i&gt;by way of adjustment of the difference&lt;/i&gt;] &lt;i&gt;between freedom from defect and defect in an article of merchandise:&lt;/i&gt; (Kt, K:) for when the purchaser of a garment or piece of cloth as being free from defect discovers in it a hole or other defect, contention ensues between him and the seller. (TA.) ―         -b4-  &lt;i&gt;A bribe.&lt;/i&gt; (Aboo-Nahshal, Sh, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n574&quot; key=&quot;مَاْرُوشٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْرُوشٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Scratched with the nails,&lt;/i&gt; or &lt;i&gt;lacerated, little&lt;/i&gt; or &lt;i&gt;much, so as to bleed&lt;/i&gt; or &lt;i&gt;not.&lt;/i&gt; Ru-beh says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَقُلْ لِذَاكَ المُزْعَجِ المَحْنُوشِ<br>\
+                     &lt;L&gt;<br>\
+                        اَصْبِحٌ فَمَا مِنْ بَشَرٍ مَاْرُوشِ<br>\
+                  &lt;i&gt;Then say thou to that&lt;/i&gt; man who is &lt;i&gt;disquieted&lt;/i&gt; by envy, and as though he were &lt;i&gt;stung, Act thou gently, for&lt;/i&gt; [&lt;i&gt;there is no scarf-skin scratched;&lt;/i&gt; meaning,] my honour is uninjured, having in it no defect nor scratch. (L, * TA.)   &lt;/entryFree&gt; <br>\
+' } );

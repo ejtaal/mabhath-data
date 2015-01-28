@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'وجوجٌّ A kind of medicine; (S, K;) certain<br>\
+twigs, or rods, with which one fumigates; (TA;)<br>\
+or which are used medicinally or remedially;<br>\
+(T;) [acorum, (Golius,) or acorus; sweet-cane,<br>\
+or, as some say, galangal: see Diosc., I. i.,<br>\
+c. 2., referred to by Golius:] thought by ElJawáleekee to be not pure Arabic; i. e., an<br>\
+arabicized word, from the Persian [وَجْ]: (TA:)<br>\
+so says J. (S.)<br>\
+' } );

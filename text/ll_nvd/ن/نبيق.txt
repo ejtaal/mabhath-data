@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'نبيق[app. نُبَيْقٌ] A bad sort of dates, also<br>\
+called<br>\
+حُبْيَقٌ. (TA in art. حبق.) ―<br>\
+-b2-  See نَبِقٌ.<br>\
+نَبِيقَةٌ<br>\
+of a grape-vine, A<br>\
+زَمَعَة<br>\
+when it has<br>\
+grown large. (ISh in TA, art. زمع.)<br>\
+' } );

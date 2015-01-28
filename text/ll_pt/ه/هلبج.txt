@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هلبج</em>            1                  هلبج<br>\
+<b>هِلْبَاجَةٌ</b>               1     <br>\
+                     هِلْبَاجَةٌ<br>\
+                     ذ<br>\
+                  <i>Stupid; foolish; of little sense:</i> (S:) or <i>one unsurpassed in stupidity, foolishness,</i> or <i>paucity of sense:</i> or <i>heavy, dull, stupid, and of little use:</i> (TA:) or <i>a heavy,</i> or <i>dull, man:</i> (T:) as also هِلْبَاجٌ: (L:) Khalaf El-Ahmar says, I asked an Arab of the desert respecting the meaning of هلباجة, and he said, It means a <i>stupid,</i> or <i>foolish,</i> man, or <i>one of little sense, bulky,</i> or <i>corpulent, impotent in speech</i> or <i>actions, and heavy,</i> or <i>dull,</i> or <i>doltish, a great eater,</i> who who — who —, and he continued to add to his interpretation something each time; after which he said to me, desiring to depart, he is <i>one who comprises every evil quality.</i> (S, K. *)   </entryFree> <br>\
+' } );

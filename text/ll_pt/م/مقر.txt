@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>مقر</em>            1                  مقر<br>\
+<b>مَقِرَ</b>               1     <br>\
+                     مَقِرَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَقَرَ<br>\
+                  , (S, Msb,) inf. n. مَقَرٌ, (S, A, Msb, K,) <i>It was,</i> or <i>became, bitter;</i> (S, A, Msb, K;) as also ↓ <br>\
+      امقر, (ISk, IKtt, A, Msb, K,) inf. n. اـِمْقَارٌ: (Msb:) or <i>sour,</i> or <i>acid:</i> (K:) and ↓ <br>\
+      امقر, said of milk, (AZ, A, K,) <i>it became almost bitter, by reason of its quality of biting the tongue:</i> (A:) or <i>lost its</i> [<i>proper</i>] <i>flavour</i> (AZ, K) <i>by becoming intensely sour</i> or <i>acid.</i> (AZ, TA.)       -A2-  مَقَرَ عُنُقَهَ, (ISk, S, A, K,) aor.      <br>\
+                     مَقُرَ<br>\
+                  , inf. n. مَقْرٌ, (ISk, S,) <i>He bruised his neck:</i> (S, A:) or <i>beat it with a staff</i> or <i>stick, so as to break the bone in pieces, leaving the skin whole.</i> (A, K.) ―         -b2-  And hence, (A,) مَقَرَ السَّمَكَةَ المَالِحَةَ <br>\
+                  <i>He macerated the salt fish in vinegar;</i> (A, K;) as also ↓ <br>\
+      امقر. (K.) And in like manner you say of anything that you macerate. (TA.)    </entryFree> <br>\
+                     اَمْقَرَ<br>\
+                   see 1, in three places.       -A2-  اَمْقَرْتُ لِفُلَانٍ شَرَابًا <br>\
+                  <i>I made beverage bitter to,</i> or <i>for, such a one.</i> (IDrd.)    </entryFree> <br>\
+<b>مَقْرٌ</b>               1     <br>\
+                     مَقْرٌ<br>\
+                     ذ<br>\
+                  : see مَقِرٌ, in three places.    </entryFree> <br>\
+<b>مَقِرٌ</b>               1     <br>\
+                     مَقِرٌ<br>\
+                     ذ<br>\
+                  <i>Bitter;</i> (S, A, Msb, K;) as also ↓ <br>\
+      مَقْرٌ (TA) and ↓ <br>\
+      مُمْقِرٌ (S, A, K) and ↓ <br>\
+      يَمْقُورٌ: (Sgh, K:) or <i>sour; acid;</i> as also ↓ <br>\
+      مُمْقِرٌ: (K:) which last also signifies <i>intensely sour</i> or <i>acid;</i> (AZ, Aboo-Málik, S; *) applied to milk: (the same, and K:) or <i>sour,</i> or <i>acid,</i> milk. (Msb.) ―         -b2-  <i>Aloes;</i> syn. صَبِرٌ: (As, S, A, Msb, K:) as also ↓ <br>\
+      مَقْرٌ: (S:) or <i>a certain thing resembling it:</i> (IKt, Msb, K:) or <i>poison:</i> as also ↓ <br>\
+      مَقْرٌ; (K;) which is said by some to be a form used by poetic license: (TA:) or, accord. to AA, <i>a certain bitter kind of tree:</i> and accord. to AHn, <i>a certain plant, which grows in leaves without branches.</i> (TA.) [See صَقِرٌ.]    </entryFree> <br>\
+<b>مُمْقِرٌ</b>               1     <br>\
+                     مُمْقِرٌ<br>\
+                     ذ<br>\
+                  : see مَقِرٌ, in two places.    </entryFree> <br>\
+<b>سَمَكٌ مَمْقُورٌ</b>               1     <br>\
+                     سَمَكٌ مَمْقُورٌ<br>\
+                     ذ<br>\
+                  <i>Fish macerated in vinegar and salt, so as to become a cold sauce</i> or <i>fluid seasoning:</i> (Az, TA:) or <i>sour,</i> or <i>acid, fish:</i> (IAar, TA:) or <i>fish bruised</i> (يُمْقَرُ) <i>in water and salt:</i> you should not say مَنْقُورٌ. (S.)    </entryFree> <br>\
+<b>يَمْقُورٌ</b>               1     <br>\
+                     يَمْقُورٌ<br>\
+                     ذ<br>\
+                  : see مَقِرٌ.   </entryFree> <br>\
+' } );

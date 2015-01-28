@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شحى</em>            1                  شحى<br>\
+<b>شَحِىَ</b>               1     <br>\
+                     شَحِىَ<br>\
+                     ذ<br>\
+                  , like رَضِىَ, inf. n. شَحْىٌ, is said by ISd and in the K to be a dial. var. of شَحَا, inf. n. شَحْوٌ, i. e., as ISd says, meaning <i>He opened</i> his mouth; but the latter, he says, is the better known: this, however, requires consideration: for it is said in the Tekmileh that شَحَى فُلَانٌ, aor. يَشْحَى, inf. n. شَحْىٌ, is a dial. var. of [شَحَا, aor.] يَشْحُو, inf. n. شَحْوٌ, on the authority of Lth. (TA.)   </entryFree> <br>\
+' } );

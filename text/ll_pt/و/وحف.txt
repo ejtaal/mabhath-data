@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>وحف</em>            1                  وحف<br>\
+<b>تَوَحَّفَ</b>               1     <br>\
+                     تَوَحَّفَ<br>\
+                     ذ<br>\
+                   quasi-pass. of اَتْحَفَهُ: see تُحْفَةٌ.    </entryFree> <br>\
+<b>اِتَّحَفَهُ</b>               1     <br>\
+                     اِتَّحَفَهُ<br>\
+                     اتحف<br>\
+                     اتحفه<br>\
+                     اتحفه<br>\
+                     اتحفة<br>\
+                     تحفى<br>\
+                  : see art. تحف.    </entryFree> <br>\
+<b>وُحْفَةٌ</b>               1     <br>\
+                     وُحْفَةٌ<br>\
+                     ذ<br>\
+                   and وُحَفَةٌ, said to be the originals of تُحْفُةٌ and تُحَفَةٌ: see تُحْفَةٌ.   </entryFree> <br>\
+' } );

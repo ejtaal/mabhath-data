@@ -1,0 +1,50 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;بار&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  بار<br>\
+&lt;entryFree id=&quot;n1658&quot; key=&quot;بَاَرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     بَاَرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَاََ<br>\
+                  &lt;/form&gt;, (M, K,) &lt;i&gt;He sunk,&lt;/i&gt; or &lt;i&gt;dug,&lt;/i&gt; (S, M, K,) a well; (S, M;) as also ↓ <br>\
+      ابتار. (M, K.) ―         -b2-  Also, aor. as above, inf. n. بَاْرٌ, &lt;i&gt;He dug a&lt;/i&gt; [&lt;i&gt;hollow such as is termed&lt;/i&gt;] بُوْرَة, (AZ, S, M,) &lt;i&gt;in which to cook.&lt;/i&gt; (AZ, S.) ―         -b3-  Also, (T, S, M, K,) aor. as above, (M, K,) and so the inf. n.; (M;) and ↓ <br>\
+      ابتار; (T, S, M, K;) &lt;i&gt;He hid,&lt;/i&gt; or &lt;i&gt;concealed,&lt;/i&gt; a thing: (T, M, K:) and &lt;i&gt;he stored&lt;/i&gt; it, or &lt;i&gt;laid&lt;/i&gt; it &lt;i&gt;up, for a time of need.&lt;/i&gt; (T, S, K.) Hence a hollow dug in the ground is termed بُوْرَةٌ. (T.) ―         -b4-  You say also, خَيْرًا ↓ <br>\
+      ابتار, (T, M, K,) and بَاَرَهُ, (M, K,) &lt;i&gt;He did good beforehand:&lt;/i&gt; (T, M, K:) or, accord. to some, &lt;i&gt;he, as it were, did good beforehand for himself, having laid it up,&lt;/i&gt; or &lt;i&gt;concealed it, for himself:&lt;/i&gt; (T, TA:) so says El-Umawee: or &lt;i&gt;he laid up for himself in store concealed good:&lt;/i&gt; (TA:) or &lt;i&gt;he did good concealedly:&lt;/i&gt; (M, K:) and ايتبر signifies the same. (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1659&quot; key=&quot;ابار فُلَانًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ابار فُلَانًا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He made,&lt;/i&gt; or &lt;i&gt;he assigned,&lt;/i&gt; or &lt;i&gt;appointed,&lt;/i&gt; (جَعَلَ,) &lt;i&gt;for such a one, a well.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِبْتَاََ<br>\
+                  &lt;/form&gt; see 1, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1660&quot; key=&quot;بِيْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بِيْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, S, M, &amp;amp;c.) and بِيرٌ, (Msb,) of the fem. gender, (S, M, Msb, K,) and ↓ <br>\
+      بِيْرَةٌ, (M,) &lt;i&gt;A well:&lt;/i&gt; (M, TA:) pl. (of pauc., S, Msb) اَبْوُرٌ (S, M, Msb, K) and (by transposition, Fr, Msb) ا=بُرٌ (Fr, Msb, K) and اَبْا=رٌ and (by transposition, Yaakoob, T, S, M) ا=بَارٌ and (of mult., S, Msb) بِيَارٌ; (T, S, M, Msb, K;) and pl. of pauc. [of بِيرٌ] اَبْيَارٌ. (Msb.) The dim. is ↓ <br>\
+      بُوَيْرَةٌ. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1661&quot; key=&quot;بُوْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُوْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A hollow,&lt;/i&gt; or &lt;i&gt;hole, dug in the ground,&lt;/i&gt; (AZ, S, M, K,) &lt;i&gt;in which to cook;&lt;/i&gt; also called اـِرَةٌ: (AZ, S:) or (M) &lt;i&gt;a place in which fire is lighted.&lt;/i&gt; (M, K.) [See 1.]       -A2-  See also بَيِيرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1662&quot; key=&quot;بِيْرةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بِيْرةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بيْرٌ:       -A2-  and see بَيِيرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1663&quot; key=&quot;بُوَيْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُوَيْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بِيْرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1664&quot; key=&quot;بَيِيرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَيِيرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, S, M, K) and ↓ <br>\
+      بِيْرَةٌ and ↓ <br>\
+      بُوْرَةٌ (M, K) &lt;i&gt;A thing stored,&lt;/i&gt; or &lt;i&gt;laid up, for a time of need.&lt;/i&gt; (T, S, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1665&quot; key=&quot;بَاّ==رٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَاّ==رٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, TA, and so in some copies of the K,) or اَبَّارٌ, (as in other copies of the K and so in the CK,) the latter formed by transposition, and the former [said to have been] not heard, (M,) &lt;i&gt;A well-sinker,&lt;/i&gt; or &lt;i&gt;well-digger.&lt;/i&gt; (T, M, K.)   &lt;/entryFree&gt; <br>\
+' } );

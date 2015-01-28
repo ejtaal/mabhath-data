@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>كردح</em>            1                  كردح<br>\
+<b>كَرْدَحَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     كَرْدَحَ<br>\
+                     ذ<br>\
+                  , inf. n. كَرْدَحَةٌ, <i>He</i> (a short man) <i>ran with short steps, and quickly;</i> as also كَرْتَحَ and كَرْمَحَ. (S.) ―         -b2-  <i>He</i> (an ass) <i>ran leaning on one side;</i> as also كَرْدَمَ. (L.) ―         -b3-  <i>He went slowly.</i> (IAar.)    </entryFree> <br>\
+<b>تَكَرْدَحَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَكَرْدَحَ<br>\
+                     ذ<br>\
+                  <i>He went quickly</i> in his walk; <i>i. q.</i> <br>\
+                  تَكَرْتَحَ. (K.) ―         -b2-  <i>He,</i> or <i>it, rolled.</i> (S, K.) Ex. سَقَطَ مِنَ السَّطْحِ فَتَكَرْدَحَ <br>\
+                  <i>He fell from the flat top,</i> or <i>roof,</i> of the house, <i>and rolled.</i> (As, S.)    </entryFree> <br>\
+<b>كَرْدَحَةٌ</b>               1     <br>\
+                     كَرْدَحَةٌ<br>\
+                     ذ<br>\
+                  <i>A quick run,</i> (K,) <i>with short steps.</i> (TA.) [See also Q. 1.]    </entryFree> <br>\
+<b>كَرْدَحَا=ءُ</b>               1     <br>\
+                     كَرْدَحَا=ءُ<br>\
+                     ذ<br>\
+                  , which accord. to analogy should be كَرْدَحًى, <i>A kind of walk,</i> (K,) <i>with short steps, and quick.</i> (TA.)    </entryFree> <br>\
+<b>كِرْدَاحٌ</b>               1     <br>\
+                     كِرْدَاحٌ<br>\
+                     ذ<br>\
+                  <i>Running quickly;</i> or <i>a quick runner;</i> (K;) <i>with short steps.</i> (TA.)   </entryFree> <br>\
+' } );

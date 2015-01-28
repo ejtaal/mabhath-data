@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>هزم</em>            1                  هزم<br>\
+<b>اِنْهَزَمَ</b>               1     <br>\
+                     اِنْهَزَمَ<br>\
+                     ذ<br>\
+                  <i>It</i> (an army) <i>was routed, discomfited, defeated,</i> or <i>put to flight.</i> (K, &amp;amp;c.) See حَاصَ, in art. حيص; and اِنْحَازَ, in art. حوز; from both of which it is distinguished.    </entryFree> <br>\
+<b>هَزْمَةٌ</b>               1     <br>\
+                     هَزْمَةٌ<br>\
+                     ذ<br>\
+                   The [<i>purring,</i> or] <i>sound of the throat</i> of a cat. (TA.) ―         -b2-  The <i>pit between the two collar-bones.</i> (TA, art. ترب.) ―         -b3-  [The <i>pit</i> above a horse&#39;s eye.] (K, voce وَقْبٌ.) See also خُنْعُبَةٌ, and قَلْتَةٌ: and see عُقْمٌ, where it seems to mean <i>a stricture:</i> it generally and properly signifies <i>a depression,</i> or <i>dint:</i> or <i>a pit,</i> or <i>small hollow, resembling a dint:</i> see also غَيْبٌ.    </entryFree> <br>\
+<b>مَهْزُومُ الصَّدْرِ</b>               1     <br>\
+                     مَهْزُومُ الصَّدْرِ<br>\
+                     ذ<br>\
+                  <i>Depressed of breast,</i> i. e., apparently, <i>illiberal, niggardly:</i> see حَوْضٌ.   </entryFree> <br>\
+' } );

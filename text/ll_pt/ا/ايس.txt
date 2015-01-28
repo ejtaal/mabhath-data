@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>ايس</em>            1                  ايس<br>\
+<b>اَيِسَ مِنْهُ</b>               1     <br>\
+                     اَيِسَ مِنْهُ<br>\
+                     ذ<br>\
+                  , (S, M, Mgh, Msb, K,) aor. يَاْيَسُ (S, Msb, K) and يَاْيِسُ, (Msb,) inf. n. اَيَسٌ, (Msb,) or اـِيَاسٌ, (K,) or it has the same inf. n. as يَيِسَ, namely يَاْسٌ, (S,) with which ↓ <br>\
+      اـِيَاسٌ is syn., (Mgh,) but this last is a contraction of اـِيا=سٌ, of the measure اـِيعَاسٌ, as determined by Az, and is not an inf. n. of اَيِسَ as some think it to be, (Mgh, art. ييِس,) <i>He despaired of it;</i> syn. قنِط: (K:) a dial. var. of يَيِسَ: (ISk, S, TA:) or it is not so, but is formed by transposition from يَيِسَ, because it has no [proper] inf. n.; and اـِيَاسٌ, the proper name of a man, is not to be adduced in evidence, for it is of the measure فِعَالٌ from الاَوْسُ, “ the act of giving: ” (Preface to the M, quoted in the TA:) if it were a dial. var. of يَيِسَ, they would say اـِسْتُ for اَيِسْتُ: (M, TA:) and اُيِسَ, incorrectly written اُويسَ, also signifies the same. (Mgh.)       -A2-  اَيْسَ: see لَيْسَ.    </entryFree> <br>\
+                     اَيَّسَ<br>\
+                   see 4.    </entryFree> <br>\
+<b>ا=يَسَهُ</b>               1     <br>\
+                     ا=يَسَهُ<br>\
+                     ا=يسه<br>\
+                     ا=يسة<br>\
+                  <i>He made him to despair;</i> (K;) like اَيْاَسَهُ; (S, Mgh;) and so ↓ <br>\
+      ايّسهُ, (S * K,) inf. n. تَاْيِيسٌ. (S.)    </entryFree> <br>\
+<b>اَيِسٌ</b>               1     <br>\
+                     اَيِسٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      ا=يِسٌ [<i>Despairing</i>]; part. ns. of اَيِسَ. (Msb.) ―         -b2-  [Hence,] ا=يِسَةٌ [and accord. to Golius ↓ <br>\
+      اَيْسَا=ءُ, both properly meaning <i>Despairing</i> of the recurrence of the menstrual flux;] <i>who has not menstruated in a period of five and fifty years.</i> (KT.)    </entryFree> <br>\
+<b>اَيْسَا=وُ</b>               1     <br>\
+                     اَيْسَا=وُ<br>\
+                     ذ<br>\
+                  : see اَيِسٌ.    </entryFree> <br>\
+<b>اـِيَاسٌ</b>               1     <br>\
+                     اـِيَاسٌ<br>\
+                     اـياس<br>\
+                     اياس<br>\
+                  : see 1.    </entryFree> <br>\
+<b>ا=يِسٌ</b>               1     <br>\
+                     ا=يِسٌ<br>\
+                     ا=يس<br>\
+                  : see اَيِسٌ.   </entryFree> <br>\
+' } );

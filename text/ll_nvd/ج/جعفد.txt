@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'جعفدQ. 1<br>\
+جَعْفَدَةٌ [inf. n. of جَعْفَدَ] a compound<br>\
+word from the phrase جَعَلَنِى اللّٰهُ فِدَاكَ [May God<br>\
+make me thy ransom]. (Ibn-Dihyeh, TA.) [You<br>\
+say, جَعْفَدَهُ, meaning He said to him جعلنى اللّٰه<br>\
+فداك.]<br>\
+' } );

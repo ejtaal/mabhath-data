@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>فلن</em>            1                  فلن<br>\
+<b>فُلَانٌ</b>               1     <br>\
+                     فُلَانٌ<br>\
+                     ذ<br>\
+                   is a substitute for the proper name of a human being, (S, Msb, * K, TA,) i. e. of a male; (S, TA;) and in like manner ↓ <br>\
+      فُلَانَةُ, (Msb, K, TA,) for that of a female; (TA,) each without ال; (Msb:) [the former may be rendered <i>Such a one,</i> or <i>Such a man;</i> and the latter, <i>Such a woman:</i>] and الفُلَانُ and ↓ <br>\
+      الفُلَانَةُ for other than a human being, (S, K, TA,) i. e. for a [particular] camel, (Lth, TA,) or for a [particular] beast, as in the saying, رَكِبْتُ الفُلَانَ [<i>I rode such a beast,</i> i. e. <i>such a male beast</i>], and ↓ <br>\
+      حَلَبْتُ الفُلَانَةَ [<i>I milked such a beast</i>]: (Msb, TA:) فُلَانٌ has no dual nor pl.: (IB, TA:) [but] sometimes one says to a single person, mase., يَا فُلُ; and to two, يَا فُلَانِ; and to a pl. number, يَافُلُونَ: and in the fem., يَا فُلَةُ; &amp;amp;c.; (K: [see more in art. فل:]) accord. to Kh, فُلَانٌ is of the measure فُعَالٌ; and its dim. is ↓ <br>\
+      فُلَيْنٌ: (TA:) or, as some say, it is of the measure فُلَانٌ, [originally فُلْوَانٌ,] with و rejected, therefore its dim. is ↓ <br>\
+      فُلَيَّانٌ [originally فُلَيْوَانٌ]; (T, L, TA;) like as اـنْسَانٌ is [said by some to be] اـنْسِيَانٌ, of which the ى is rejected. and therefore its dim. is اُنيْسِيَانٌ. (T, L.)    </entryFree> <br>\
+<b>فُلِيْنٌ</b>               1     <br>\
+                     فُلِيْنٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.    </entryFree> <br>\
+<b>فُلَانَةُ</b>               1     <br>\
+                     فُلَانَةُ<br>\
+                     ذ<br>\
+                  , and الفُلَانَةُ: see فُلَانٌ, in three places.    </entryFree> <br>\
+<b>فُلَانِىٌّ</b>               1     <br>\
+                     فُلَانِىٌّ<br>\
+                     ذ<br>\
+                   the rel. n. of فُلَانٌ: it is rendered indeterminate by the affix ى; and by means of the article اَلْ, it becomes determinate; therefore you say فُلَانٌ الفُلَانِىُّ [meaning <i>Such a one, the person named in relation to such a one</i>], (TA,)    </entryFree> <br>\
+<b>فُلَيَّانٌ</b>               1     <br>\
+                     فُلَيَّانٌ<br>\
+                     ذ<br>\
+                  : see فُلَانٌ, near the end.   </entryFree> <br>\
+' } );

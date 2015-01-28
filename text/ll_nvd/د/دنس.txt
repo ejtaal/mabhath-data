@@ -1,0 +1,37 @@
+load_data( { book: 'll_nvd', text: 'دنس1<br>\
+دَنِسَ, aor.<br>\
+دَنَسَ, inf. n. دَنَسٌ (S, A, K) and<br>\
+دَنَاسَةٌ, (K,) It (a garment, S, A, K) was, or<br>\
+became, dirty, filthy, foul, sullied, defiled, or<br>\
+polluted; (S, M, A, K;) as also ↓ تدنّس: (S, M,<br>\
+A:) and in like manner (tropical:)  said of a man&#39;s honour,<br>\
+(K, TA,) and (tropical:)  of his disposition. (TA.)<br>\
+2<br>\
+دنّسهُ, (S, M, A, K,) inf. n. تَدْنِيسٌ, (S, K,)<br>\
+He, or it, made it (namely a garment, S, A, K)<br>\
+dirty, filthy, or foul; sullied, defiled, or polluted,<br>\
+it. (S, M, A, K.) And in like manner, دنّس<br>\
+عِرْضَهُ (tropical:)  [He sullied his honour;] he did to him<br>\
+that which disgraced him. (A, K.) And دنّسهُ<br>\
+سُوْءُ خُلُقِهِ (tropical:)  [The evilness of his disposition sullied<br>\
+his honour]. (A, TA.)<br>\
+5<br>\
+تَدَنَّسَ see 1.<br>\
+دَنَسٌ Dirt; filth; soil, or pollution: (S, M,<br>\
+A, K:) pl. أَدْنَاسٌ. (M.) [Hence,] هُوَ يَتَصَوَّنُ<br>\
+مِنَ الأَدْنَاسُ (tropical:)  [He preserves his honour from<br>\
+pollutions], and ↓ مِنَ المَدَانِسِ (tropical:)  [from causes of<br>\
+pollution, مَدَانِسُ being pl. of ↓ مَدْنَسَةٌ, a noun of<br>\
+the same kind as مَبْخَلَةٌ and مَجْبَنَةٌ]. (A, TA.)<br>\
+دَنِسٌ Dirty, filthy, foul, sullied, defiled, or<br>\
+polluted: (M, K:) [pl. أَدْنَاسٌ, agreeably with<br>\
+analogy, and دُنَسَآءُ, contr. to analogy; but the<br>\
+latter is perhaps post-classical.] You say, قَوْمٌ<br>\
+أَدْنَاسٌ and ↓ مَدَانِيسٌ [A people dirty, filthy, &amp;c.;<br>\
+both in a proper and in a tropical sense]. (K.)<br>\
+And هُوَ دَنِسُ المُرُوْءَةِ and الثِّيَابِ and الجَيْبِ and<br>\
+الأَرْدَانِ (tropical:)  [He is foul in character, conduct, or<br>\
+the like]. (A.)<br>\
+مَدْنَسَةٌ; and its pl. مَدَانِسُ: see دَنَسٌ.<br>\
+مَدَانِيسٌ: see دَنِسٌ.<br>\
+' } );

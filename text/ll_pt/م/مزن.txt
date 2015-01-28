@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>مزن</em>            1                  مزن<br>\
+<b>مُزْنٌ</b>               1     <br>\
+                     مُزْنٌ<br>\
+                     ذ<br>\
+                  <i>Clouds</i> (K, and Ham, p. 564) <i>of any kind:</i> (Ham, ibid:) or <i>white clouds:</i> (S, K, and Ham, p. 53:) or <i>clouds containing water.</i> (K.)    </entryFree> <br>\
+<b>اـِبْنُ مَازِنٍ</b>               1     <br>\
+                     اـِبْنُ مَازِنٍ<br>\
+                     ذ<br>\
+                  <i>The ant.</i> (TA in art. بنى.)   </entryFree> <br>\
+            <div2 n=&quot;mzw and mzY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  مزو and مزى<br>\
+<b>تَمْزِيَةٌ</b>               1     <br>\
+                     تَمْزِيَةٌ<br>\
+                     ذ<br>\
+                   The <i>praising,</i> or <i>eulogizing</i> [<i>another</i>]. (K, TA.) You say, مَزَّيْتُهُ عَلَيْهِ, syn. فَضَّلْتُهُ. (IAar, TA.)    </entryFree> <br>\
+<b>تَمَزَّيْتَ عَلَيْنَا</b>               1     <br>\
+                     تَمَزَّيْتَ عَلَيْنَا<br>\
+                     ذ<br>\
+                  <i>Thou thoughtest,</i> or <i>hast thought, thyself superior to us in excellence:</i> and so تَفَضَّلْتَ. (TA.)    </entryFree> <br>\
+<b>تَمَازَوْا</b>               1     <br>\
+                     تَمَازَوْا<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  تَفَاضَلُوا. (TA.)    </entryFree> <br>\
+<b>مَزِيَّةٌ</b>               1     <br>\
+                     مَزِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>An excellent quality; an excellence.</i> (S, Msb, K.)   </entryFree> <br>\
+' } );

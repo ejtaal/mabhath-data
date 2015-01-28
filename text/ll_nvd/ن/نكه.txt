@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'نكهنَكْهَةٌ<br>\
+The odour of the mouth. (S, TA.)<br>\
+' } );

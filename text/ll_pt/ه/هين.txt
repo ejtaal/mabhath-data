@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هين</em>            1                  هين<br>\
+<b>هَانَ لَهُ</b>               1     <br>\
+                     هَانَ لَهُ<br>\
+                     ذ<br>\
+                  , aor. يَهِينُ, <i>He treated him with gentleness,</i> or <i>blandishment;</i> syn. دَارَاهُ. (Aboo-Is-hák, in TA, art. عن; but only the imp., هِنْ لَهُ, is there mentioned, said to be with kesr.) See عَزَّ, near the end, p. 2031, and the distinction there made between هِنْ and هُنْ.   </entryFree> <br>\
+' } );

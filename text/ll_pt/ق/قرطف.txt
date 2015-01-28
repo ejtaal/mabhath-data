@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قرطف</em>            1                  قرطف<br>\
+<b>قَرْطَفٌ</b>               1     <br>\
+                     قَرْطَفٌ<br>\
+                     ذ<br>\
+                  <i>A red garment, of the kind called</i> <br>\
+                  كِسَاء. See كَذَبَ, p. 2598 <i>c.</i>   <br>\
+' } );

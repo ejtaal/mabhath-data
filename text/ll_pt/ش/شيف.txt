@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>شيف</em>            1                  شيف<br>\
+<b>شيّف الدَّوَا=ءَ</b>               1     <br>\
+                     شيّف الدَّوَا=ءَ<br>\
+                     ذ<br>\
+                   [from شِيَافٌ]: see 2 in art. شوف.    </entryFree> <br>\
+<b>شِيفٌ</b>               1     <br>\
+                     شِيفٌ<br>\
+                     ذ<br>\
+                   The <i>prickles</i> (شَوْك) <i>that are at the back of the</i> <br>\
+                  عَسِيب [or <i>leafless portion, next above the lowest and thickest part, of the branch</i>] <i>of the palm-tree:</i> (O, K:) so says AHát: (O:) but Lth says that the word is [سِيفٌ, q. v.,] with the unpointed س. (TA.)    </entryFree> <br>\
+<b>شِيَافٌ</b>               1     <br>\
+                     شِيَافٌ<br>\
+                     ذ<br>\
+                  , originally شِوَافٌ: see art. شوف.    </entryFree> <br>\
+<b>شِيِّفَةٌ</b>               1     <br>\
+                     شِيِّفَةٌ<br>\
+                     ذ<br>\
+                   and شِيِّفَانٌ: see art. شوف.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'بشنينبَشْنِينٌ, with fet-h, and then sukoon, and then<br>\
+kesr, I. q. نيلوفر [i. e. نِيلُوفَرٌ and نَيْلُوفَرٌ or نَيْلَوْفَرٌ,<br>\
+the nymphæa lotus, or white lotus: and the<br>\
+nymphæa cærulea, or blue lotus: see art. نيلوفر]:<br>\
+a word of the dial. of Egypt. (TA.)<br>\
+' } );

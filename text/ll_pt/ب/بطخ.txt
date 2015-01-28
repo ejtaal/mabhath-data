@@ -1,0 +1,47 @@
+load_data( { book: 'll_pt', text: '<em>بطخ</em>            1                  بطخ<br>\
+<b>اَبْطَخُوا</b>               1     <br>\
+                     اَبْطَخُوا<br>\
+                     ذ<br>\
+                  <i>They had abundance of</i> <br>\
+                  بِطِّيخ [or <i>melons,</i> or <i>water-melons</i>]. (S, A, L, K.)    </entryFree> <br>\
+<b>تبطّخ</b>               1     <br>\
+                     تبطّخ<br>\
+                     تبطخ<br>\
+                  <i>He ate</i> <br>\
+                  بِطِّيخ. (A, TA.)    </entryFree> <br>\
+<b>اـِبِلٌ بَطِخَةٌ</b>               1     <br>\
+                     اـِبِلٌ بَطِخَةٌ<br>\
+                     ابل بطخه<br>\
+                     ابل بطخة<br>\
+                  , and رِجَالٌ بَطِخَةٌ, (tropical:)  <i>Large, big, bulky,</i> or <i>corpulent, camels,</i> and <i>men:</i> and رَجُلٌ ↓ <br>\
+      بُطَاخِىٌّ (tropical:)  <i>a large, big, bulky,</i> or <i>corpulent, man.</i> (K, TA.)    </entryFree> <br>\
+<b>بُطَاخِىٌّ</b>               1     <br>\
+                     بُطَاخِىٌّ<br>\
+                     بطاخى<br>\
+                     بطاخي<br>\
+                  : see what immediately precedes.    </entryFree> <br>\
+<b>بَطِّيخٌ</b>               1     <br>\
+                     بَطِّيخٌ<br>\
+                     بطيخ<br>\
+                  , (S, Msb, K, &amp;amp;c.,) vulgarly and incorrectly pronounced بَطِّيخٌ, (ISk, Msb,) and in the dial. of El-Hijáz called طِبِّيخٌ, (Msb,) <i>A certain well-known fruit;</i> (Msb;) [the <i>melon,</i> absolutely, as is shown by many passages in the lexicons, and expressly stated in law-books: and, particularly, the <i>water-melon; cucurbita citrullus:</i> or <i>a plant</i>] <i>of the kind called</i> <br>\
+                  يَقْطِين, <i>that does not grow tall, but extends itself upon the surface of the ground:</i> (K, TA:) and also the خِرْبِز [or خَرْبُز, a Persian word, and applied to the <i>water-melon,</i> by the Turks termed by this name, and in their own language قَارْپُوزْ]: (CK: [but not found by me in my MS. copy of the K, nor in the L, nor in the TA:]) or البِطِّيخُ الهِنْدِىُّ [the Indian بطّيخ] is <i>what is called in Persian the</i> <br>\
+                  خَرْبُز: (Mgh:) [the term بطّيخ is applied to many varieties of the water-melon, distinguished by different epithets; as الاَحْمَرُ <br>\
+                  <i>the red,</i> <br>\
+                  الاَصْفَرُ <br>\
+                  <i>the yellow,</i> <br>\
+                  الاَبْيَضُ <br>\
+                  <i>the white,</i> <br>\
+                  الاَجْرَبُ <br>\
+                  <i>the mangy,</i> <br>\
+                  النَّمْشُ <br>\
+                  <i>the speckled,</i> <br>\
+                  البُرُلُّىُّ <br>\
+                  <i>that of El-Burullus,</i> &amp;amp;c.: it is a coll. gen. n.:] n. un. with ة. (S, K.)     <br>\
+<b>مَبْطَخَةٌ</b>               1     <br>\
+                     مَبْطَخَةٌ<br>\
+                     مبطخه<br>\
+                     مبطخة<br>\
+                   (S, A, Mgh, &amp;amp;c.) and مَبْطُخَةٌ (S, L, K) <i>A place where</i> <br>\
+                  بِطِّيخ <br>\
+                  <i>grow:</i> (S, A, Mgh, &amp;amp;c.:) pl. مَبَاطِخُ. (A, TA.)   </entryFree> <br>\
+' } );

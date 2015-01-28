@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>لات</em>            1                  لات<br>\
+               </head> See art. الت.   </div2> <br>\
+' } );

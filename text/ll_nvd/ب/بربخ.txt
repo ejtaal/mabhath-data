@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'بربخبَرْبَخٌ The passage, or conduit, of water, called<br>\
+إِرْدَبَّة and بَالُوعَة [q. v.], made of baked clay: (K:)<br>\
+or بَرَابِخُ [the pl.] signifies the baked-clay conduits<br>\
+of privies, which convey [the water &amp;c.] from the<br>\
+house-top to the ground. (S, but omitted in some<br>\
+copies.) ―<br>\
+-b2-  برْبَخُ البَوْلِ The canal of the urine<br>\
+[from the kidney to the bladder; i. e. the ureter]:<br>\
+(L, KL, TA:) of the dial. of Egypt. (TA.)<br>\
+' } );

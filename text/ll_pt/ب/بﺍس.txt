@@ -1,0 +1,143 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;باس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  باس<br>\
+&lt;entryFree id=&quot;n1667&quot; key=&quot;بَوُسَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     بَوُسَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَبْوُسُ, (S, M, Msb, K,) inf. n. بَاْسٌ, (S, Msb, K,) or بَاْسَةٌ; (M; [so I find in a copy of the M, but perhaps it is a mistranscription for بَا=سَةٌ;]) and بَيِسَ, [aor. يَبْاَسُ,] inf. n. بَاْسٌ; (M;) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, mighty,&lt;/i&gt; or &lt;i&gt;strong, in war&lt;/i&gt; or &lt;i&gt;fight;&lt;/i&gt; (K;) &lt;i&gt;courageous,&lt;/i&gt; or &lt;i&gt;valiant:&lt;/i&gt; (M, Msb, K:) or &lt;i&gt;very mighty&lt;/i&gt; or &lt;i&gt;strong in war&lt;/i&gt; or &lt;i&gt;fight.&lt;/i&gt; (AZ, S.)       -A2-  بَيْسُ, (S, M, Msb, K,) aor. يَبْاَسُ (S, M, K) and يَبْيِسُ, the latter extr., like يَنْعِمُ aor. of نَعِمَ, (M,) [and some other instances, (see حَسِبَ,)] inf. n. بُوْسٌ (S, Msb, * K) and بُوُوسٌ and بُوْسَى (K) and بَاْسٌ (TA) and بَييسٌ, (S, K,) [in measure] like اَمِيرٌ, (TA,) [accord. to the CK بِيْسٌ, which is a mistake,] and بَيِيسَى, (TS, TA,) incorrectly written in the copies of the K بِيْسَي; (TA;) or بَوُسَ; (A;) or both these forms; (M;) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, in a state of distress; straitened in his means of subsistence,&lt;/i&gt; or &lt;i&gt;in the conveniences of life;&lt;/i&gt; (M, Msb;) &lt;i&gt;in a state of poverty:&lt;/i&gt; (M, A, Msb, * TA:) or &lt;i&gt;in a state of pressing want:&lt;/i&gt; (S, K, TA:) and بَوُسَ, inf. n. بَا=سَةٌ and بَيِيسٌ, whence the subst. بَوْسَى, &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, in a state of trial,&lt;/i&gt; or &lt;i&gt;affliction:&lt;/i&gt; (M:) and [in like manner,] ↓ <br>\
+      اَبْاَسَ, (inf. n. اـِبْا=سٌ,S,) &lt;i&gt;distress,&lt;/i&gt; or &lt;i&gt;poverty,&lt;/i&gt; or &lt;i&gt;misfortune,&lt;/i&gt; or &lt;i&gt;calamity,&lt;/i&gt; (البَاْسَا=ءُ,) &lt;i&gt;befell him.&lt;/i&gt; (IAar, S, * M, TA.)       -A3-  بِيْسَ, also written بَيِسَ and بِيِسَ and بَاْسَ, (S, K,) is a word of dispraise or blame, (S,) implying all kinds of dispraise or blame, (TA,) [or superlative dispraise or blame; signifying, &lt;i&gt;Very evil&lt;/i&gt; or &lt;i&gt;bad is he,&lt;/i&gt; or &lt;i&gt;it:&lt;/i&gt; or &lt;i&gt;superlatively evil&lt;/i&gt; or &lt;i&gt;bad is he,&lt;/i&gt; or &lt;i&gt;it:&lt;/i&gt;] &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  نِعمَ: (S, M, TA:) a pret. verb, imperfectly inflected, (S, K,) like نِعْمَ, (S,) [having only one variation of form, namely, the fem. بِيْسَتْ, though the masc. is more commonly used even when the agent is fem. or pl.,] because it is translated from its original application, (S, K,) i. e. from بَيِسَ فُلَانٌ signifying اَصَابَ بُوْسًا [he found, met with, or experienced, distress, &amp;amp;c.], to signify dispraise or blame. (S, TA.) When it is accompanied by a gen. n. without the article ال, this is always in the accus. case: but when the n. has the article ال, it is always in the nom. case: (TA:) you say, بِيْسَ <br>\
+                  رَجُلًا زَيْدً [&lt;i&gt;Very evil&lt;/i&gt; or &lt;i&gt;bad,&lt;/i&gt; or &lt;i&gt;superlatively evil&lt;/i&gt; or &lt;i&gt;bad, as a man, is Zeyd;&lt;/i&gt; <br>\
+                  رجلا being a specificative]: (K:) and بِيْسَ الرَّجُلُ زَيْدٌ [&lt;i&gt;Very evil,&lt;/i&gt; &amp;amp;c., &lt;i&gt;is the man, Zeyd&lt;/i&gt;]; and بِيْسَتِ المَرْاَةُ هِنْدٌ [or more commonly بِيْسَ العَيْرُ in this case also, &lt;i&gt;Very evil,&lt;/i&gt; &amp;amp;c., &lt;i&gt;is the woman, Hind&lt;/i&gt;]. (S.) Some argue that it is a noun, from the saying, نِعْمَ السَّيْرُ عَلَى <br>\
+                  بِيْسَ العَيْرُ, because it has a prep.; but this is explained as elliptical, and meaning, نِعَمَ السَّيْرُ <br>\
+                  عَلَى عَيْرٍ مَقُولٍ فِيهِ بِيْسَ العيْرُ [&lt;i&gt;Excellent is the journeying upon an ass of which it is said Very evil,&lt;/i&gt; &amp;amp;c., &lt;i&gt;is the ass&lt;/i&gt;]. (I &#39;Ak p. 232.) Zj says that when it is followed by مَا, then مَا, with it, is regarded as occupying the place of an indeterminate noun; [namely, شَيْيًا, as a specificative; as in the Kur ii. 84,بِيْسَ مَا اْشْتَرَوا بِهِ اَنْفُسَهُمْ, or بِيْسَمَا, &amp;amp;c., &lt;i&gt;Very evil,&lt;/i&gt; &amp;amp;c., &lt;i&gt;as a thing, is that for which they have sold,&lt;/i&gt; or &lt;i&gt;exchanged, themselves:&lt;/i&gt;] (TA:) but some say that it is the agent, and is a determinate noun; and this is the opinion of Ibn-Kharoof, which he ascribes to Sb. (I &#39;Ak ubi suprà.) [For further illustration, see نِعْمَ.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَبْاََ<br>\
+                  &lt;/form&gt; see بَيِسَ    <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَبَاََّ<br>\
+                  &lt;/form&gt; see 6.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1668&quot; key=&quot;تَبَا=ءَسَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَبَا=ءَسَ<br>\
+                     تبا=ءس<br>\
+                  &lt;i&gt;He feigned the lowliness,&lt;/i&gt; or &lt;i&gt;submissiveness, of poverty, humbling,&lt;/i&gt; or &lt;i&gt;abasing, himself,&lt;/i&gt; (K,* TA,) with men; and ↓ <br>\
+      تَبَاَّسَ is allowable in the same sense. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1669&quot; key=&quot;ابتاس بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ابتاس بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, A,) and مِنْهُ, (S, TA,) &lt;i&gt;He was distressed by it,&lt;/i&gt; or &lt;i&gt;at it;&lt;/i&gt; it does not signify dislike: (IB, TA:) or &lt;i&gt;he grieved at it,&lt;/i&gt; (S, M, A,) &lt;i&gt;and humbled and abased himself:&lt;/i&gt; so in the Kur xi. 38 and xii. 69. (M, A, TA.) It is said of a man when a thing that he dislikes becomes known to him. (AZ, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1670&quot; key=&quot;بَاْسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَاْسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Might,&lt;/i&gt; or &lt;i&gt;strength,&lt;/i&gt; (S, A, Msb, K,) &lt;i&gt;in war&lt;/i&gt; or &lt;i&gt;fight:&lt;/i&gt; (S, A, K:) &lt;i&gt;courage; valour,&lt;/i&gt; or &lt;i&gt;valiantness; prowess.&lt;/i&gt; (M, K.) ―         -b2-  &lt;i&gt;War,&lt;/i&gt; or &lt;i&gt;fight;&lt;/i&gt; (M, Msb;) as also ↓ <br>\
+      بَيِيْسٌ (M) and ↓ <br>\
+      بَاْسَا=ءُ: (TA:) pl. of the first,اَبْوَسٌ. (Msb.) ―         -b3-  Hence, (M,) (assumed tropical:)  &lt;i&gt;Fear,&lt;/i&gt; (M, TA,) in the saying, لَا باْسَ <br>\
+                  عَلَيْكَ, (M, TA, *) and بِكَ, (M,) [(assumed tropical:)  &lt;i&gt;There is no fear for thee:&lt;/i&gt; lit., &lt;i&gt;there is no war against thee,&lt;/i&gt; or &lt;i&gt;with thee&lt;/i&gt;]: the saying of which to an enemy implies the granting him security, or protection: and in the same sense it is used in a trad., in the phrase اِشْتَدَّ البَاْسُ [(assumed tropical:)  &lt;i&gt;Fear became vehement&lt;/i&gt;]. (TA.) ―         -b4-  &lt;i&gt;I. q.&lt;/i&gt; <br>\
+                  ضَرَرٌ (assumed tropical:)  [&lt;i&gt;Harm, injury,&lt;/i&gt; &amp;amp;c.]: so in the phrase لَا بَاْسَ [&lt;i&gt;There is,&lt;/i&gt; or &lt;i&gt;will be, no harm,&lt;/i&gt; &amp;amp;c.; and لَا بَاْسَ بِكَذَا, and فِى كَذَا, (assumed tropical:)  &lt;i&gt;There is,&lt;/i&gt; or &lt;i&gt;will be, no harm in such a thing&lt;/i&gt;]. (Har p. 311.) It is said in a trad., لَا بَاْسَ بِاْلْغِنَي <br>\
+                  لِمَنِ اْتَّقَي [&lt;i&gt;There is no harm in wealth to him who is pious&lt;/i&gt;]. (El-Jámi&#39; es-Sagheer of Es-Suyootee.) بَاس also occurs for بَاْس; the being suppressed, agreeably with analogy; not altered by permutation. (M, TA.) ―         -b5-  &lt;i&gt;Punishment:&lt;/i&gt; (S, A, K:) or &lt;i&gt;severe punishment;&lt;/i&gt; (TA;) as also ↓ <br>\
+      بَيِسٌ, in measure like كَتِفٌ. (IAar, TA.) ―         -b6-  See also بُوْسٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1671&quot; key=&quot;بُوْسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُوْسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (also written بُوسٌ, with the suppressed, Msb) &lt;i&gt;Distress; straitness of the means of subsistence,&lt;/i&gt; or &lt;i&gt;of the conveniences of life; poverty:&lt;/i&gt; (M, Msb,* TA:*) or &lt;i&gt;a state of pressing want:&lt;/i&gt; (S, K:) or &lt;i&gt;misfortune; calamity:&lt;/i&gt; (A:) and ↓ <br>\
+      بُوُوسٌ and ↓ <br>\
+      بُوْسَى (K, TA) and ↓ <br>\
+      بَاْسَا=ءُ (M, A) and ↓ <br>\
+      بَاْسٌ (TA) and ↓ <br>\
+      بَيِيسٌ (S, K) and ↓ <br>\
+      بَيِيسَى (TA) and ↓ <br>\
+      مَبْاَسَةٌ (M, TA) [all of which, except ↓ <br>\
+      بَاْسَا=ءُ and ↓ <br>\
+      مَبْاَسَةٌ, are said to be inf. ns. (see بَيِسَ)] signify the same as بُوْسٌ: (S, M, A, K, TA:) ↓ <br>\
+      بُوْسَى and ↓ <br>\
+      بَاْسَا=ءُ are both from بُوْسٌ [with which they are syn. accord. to authorities indicated above]; (Zj, IDrd, TA;) the former is &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  نُعْمَى, (S, TA,) and in like manner the latter is &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  نَعْمَا=ءُ: (TA:) the latter is of the measure فَعْلَا=ءُ without any اَفْعَلُ, because it is a subst.; like as اَفْعَلُ occurs among substs. without any فَعَلَا=ءُ, as in the instance of اَحْمَدُ: (Akh, S:) or ↓ <br>\
+      بُوْسَى signifies &lt;i&gt;a state of trial&lt;/i&gt; or &lt;i&gt;affliction,&lt;/i&gt; and is a subst.; and ↓ <br>\
+      بَيِيسٌ and ↓ <br>\
+      بَا=سَةٌ signify the same, but are inf. ns.: (M:) and ↓ <br>\
+      بَاْسَا=ءُ is syn. with شِدَّةٌ [like بُوْسٌ in the first of the senses explained above]; (S, TA;) and مَشَقَّةٌ [meaning &lt;i&gt;distress,&lt;/i&gt; or &lt;i&gt;difficulty&lt;/i&gt;]: (TA:) or it signifies &lt;i&gt;misfortune,&lt;/i&gt; or &lt;i&gt;calamity,&lt;/i&gt; (A, K,) like بُوْسٌ; (A;) and so اَبْوُسٌ: (S, K:) or rather this last signifies &lt;i&gt;misfortunes,&lt;/i&gt; or &lt;i&gt;calamities;&lt;/i&gt; for it is pl. of ↓ <br>\
+      بَاْسٌ, i. e., a pl. of pauc.; not of بُوْسٌ, as J asserts it to be; for the pl. of pauc. of بُوْسٌ is اَبْا=سٌ: (IB, TA:) but اَبْوُسٌ may be used as pl. of ↓ <br>\
+      بَاْسَا=ءُ. (Fr, in S, voce ضَرَّا=ءُ, q. v.) [See exs. of these two pls. in what follows.] You say يَوْمُ بُوْسٍ وَيَوْمُ نُعْمٍ [&lt;i&gt;A day of distress,&lt;/i&gt; or &lt;i&gt;poverty,&lt;/i&gt; &amp;amp;c., &lt;i&gt;and a day of ease and plenty&lt;/i&gt;]. (S, TA.) And بُوْسًا لَهُ [&lt;i&gt;May distress,&lt;/i&gt; or &lt;i&gt;poverty,&lt;/i&gt; &amp;amp;c., &lt;i&gt;befall him&lt;/i&gt;]: a form of imprecation. (Sb, M, TA.) And بُوْسَ اْبْنِ سُمَيَّةَ, app. an expression of pity [meaning &lt;i&gt;Alas for the distress,&lt;/i&gt; &amp;amp;c., &lt;i&gt;of Ibn-Sumeiyeh!&lt;/i&gt;]. (TA, from a trad.) And عَسَىَ الغُوَيْرُ اَبْوُسًا <br>\
+                  &lt;i&gt;Perhaps the little cave&lt;/i&gt; [&lt;i&gt;may be attended with&lt;/i&gt;] &lt;i&gt;calamities;&lt;/i&gt; not calamity, as in the S [and K]: (IB:) a prov.; (S;) originating from a cave&#39;s having collapsed upon some men in it; or from an enemy&#39;s having come to some men in a cave, and slain them; wherefore it is applied to anything whence evil is feared: (As, S, K, in art. غور:) or it is applied to him who is suspected of a thing: (IAar, TA:) or الغُوَيْرُ was the name of a certain water, which belonged to the tribe of Kelb, and the words of this prov. were said by Ez-Zebbà, when Kaseer turned aside from the plain road, and took the way to الغُوَيْرُ: (Ibn-El-Kelbee, S, K, in art. غور:)ابوسا is in the accus. case by reason of يَكُونُ understood. (Mughnee.) [See Freytag&#39;s Arab. Prov. ii. 94.] ElKumeyt also says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        قَالُوا اَسَا=ءَ بَنُو كُرْزٍ فَقُلْتُ لَهُمْ<br>\
+                     &lt;L&gt;<br>\
+                        عَسَى الغُوَيْرُ بِاَبْا=سٍ وَاغْوَارِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;They said, Benoo-Kurz have done evil: and I said to them, Perhaps the little cave may be&lt;/i&gt; attended &lt;i&gt;with calamities and&lt;/i&gt; connected with other &lt;i&gt;caves&lt;/i&gt;]: اَبْا=س is here pl. of بُوْس. (IB, TA.) [In the S, the last words are written بِاـِبْا=سٍ وَاـِعْوَارٍ, in one copy: in another, واـِغْوَارِ: both of which are app. wrong.] ―         -b2-  See also بَايِسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1672&quot; key=&quot;بِيْسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بِيْسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and بِيْسٌ and بَيْسٌ and بَيِّسٌ: see بَيِيسٌ. ―         -b2-  بَنَاتُ بِيْسٍ <br>\
+                  &lt;i&gt;Calamities; misfortunes.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1673&quot; key=&quot;بَيِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَيِسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بَاْسٌ, last signification:       -A2-  and see بَيِيسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1674&quot; key=&quot;بُوْسَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُوْسَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بُوْسٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1675&quot; key=&quot;بَاْسَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَاْسَا=ءُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بَاْسٌ: and بُوْسٌ: the latter, in five &lt;pb n=&quot;147&quot; TEIform=&quot;pb&quot;/&gt; places. ―         -b2-  Zj explains it as signifying, in the Kur vi. 42, &lt;i&gt;Hunger.&lt;/i&gt; (M, TA. *) ―         -b3-  Also The &lt;i&gt;act of beating,&lt;/i&gt; or &lt;i&gt;striking.&lt;/i&gt; (Lth, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1676&quot; key=&quot;بَوُوسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَوُوسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;in whom&lt;/i&gt; <br>\
+                  بُوْس [i. e. &lt;i&gt;distress&lt;/i&gt; &amp;amp;c.] &lt;i&gt;is apparent,&lt;/i&gt; or &lt;i&gt;manifest.&lt;/i&gt; (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1677&quot; key=&quot;بُوُوسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُوُوسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بُوْسٌ    <br>\
+&lt;entryFree id=&quot;n1678&quot; key=&quot;بَييسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَييسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بَاْسٌ: and بُوْسٌ: the latter, in two places.       -A2-  &lt;i&gt;Mighty,&lt;/i&gt; or &lt;i&gt;strong, in war&lt;/i&gt; or &lt;i&gt;fight;&lt;/i&gt; (A;) &lt;i&gt;courageous,&lt;/i&gt; or &lt;i&gt;valiant.&lt;/i&gt; (S, M, Msb, K.) ―         -b2-  عَذَابٌ بيِيسٌ, (S, M, K,) and ↓ <br>\
+      بِيِيسٌ, agreeably with a general rule applying to words of this description, (M,) and ↓ <br>\
+      بِيْسٌ, (M, K,) and ↓ <br>\
+      بَيِسٌ, (M,) and ↓ <br>\
+      بَيْيَسٌ, (M, K,) and ↓ <br>\
+      بَيْيَسٌ, (M,) and ↓ <br>\
+      بَيِّسٌ, and ↓ <br>\
+      بَيْسٌ, which last, however, is of no authority, (M,) or ↓ <br>\
+      بِيسٌ, and بَيِيسٌ, with the changed into ى, (TA,) &lt;i&gt;A vehement punishment:&lt;/i&gt; (S, M, K:) so in the Kur vii. 165. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1679&quot; key=&quot;بِيِيسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بِيِيسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بَييسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1680&quot; key=&quot;بَا=سَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَا=سَةٌ<br>\
+                     با=سه<br>\
+                     با=سة<br>\
+                  &lt;/form&gt;: see بُوْسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1681&quot; key=&quot;بَيِيسَي&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَيِيسَي<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بُوْسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1682&quot; key=&quot;بَايِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَايِسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Distressed; straitened in his means of subsistence,&lt;/i&gt; or &lt;i&gt;in the conveniences of life;&lt;/i&gt; (Msb;) or &lt;i&gt;poor:&lt;/i&gt; (A, Msb: *) or one &lt;i&gt;who is in want, and an object of pity for what he suffers:&lt;/i&gt; (TA:) or &lt;i&gt;in a state of pressing want:&lt;/i&gt; (S:) or &lt;i&gt;in a state of trial,&lt;/i&gt; or &lt;i&gt;affliction:&lt;/i&gt; (M, TA:) or one &lt;i&gt;who is crippled,&lt;/i&gt; or &lt;i&gt;deprived of the power of motion, by disease,&lt;/i&gt; or &lt;i&gt;who suffers from a protracted disease, and is in need:&lt;/i&gt; (Mgh:) an epithet denoting pity, (Sb, M, TA,) or grief: (Mgh:) ↓ <br>\
+      بُوْسٌ occurs as its pl.; (M, TA;) or is for ذَوُوبُوْسٍ. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1683&quot; key=&quot;بَيْيَسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَيْيَسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and بَيْيِسٌ: see بَيِيسٌ. ―         -b2-  The former also signifies &lt;i&gt;Strong.&lt;/i&gt; (K, TA.) ―         -b3-  And hence, (TA,) البَيْيَسُ <br>\
+                  &lt;i&gt;The lion.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1684&quot; key=&quot;الاـِبَا=اـُ الاَبْاَسُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الاـِبَا=اـُ الاَبْاَسُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The most vehement refusal.&lt;/i&gt; (Th, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1685&quot; key=&quot;مَبْاَسَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَبْاَسَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see بُوْسٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1686&quot; key=&quot;مُبْتَيِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُبْتَيِسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Disliking,&lt;/i&gt; or &lt;i&gt;hating:&lt;/i&gt; (S, M, K:) and &lt;i&gt;grieving:&lt;/i&gt; (S, K:) or rather, &lt;i&gt;distressed,&lt;/i&gt; by, or at, a thing; not disliking, or hating: (IB, TA:) or &lt;i&gt;grieving, and humbling and abasing himself.&lt;/i&gt; (Zj, M, TA.)   &lt;/entryFree&gt; <br>\
+' } );

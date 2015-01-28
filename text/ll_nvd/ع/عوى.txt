@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'عوىFor words mentioned under this head in many<br>\
+of the lexicons, see art. عو.<br>\
+' } );

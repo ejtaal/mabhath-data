@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كوع</em>            1                  كوع<br>\
+<b>كُوعٌ</b>               1     <br>\
+                     كُوعٌ<br>\
+                     ذ<br>\
+                   The <i>extremity of the radius,</i> or <i>bone of the fore-arm, next the thumb:</i> (S, Msb, K:) or the <i>protuberance formed thereby.</i>   <br>\
+' } );

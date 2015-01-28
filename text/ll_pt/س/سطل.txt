@@ -1,0 +1,48 @@
+load_data( { book: 'll_pt', text: '<em>سطل</em>            1                  سطل<br>\
+<b>سَطَلَهُ</b>               1     <br>\
+                     سَطَلَهُ<br>\
+                     ذ<br>\
+                  , inf. n. سَطْلٌ, said of a medicine, <i>It intoxicated him:</i> but it is a vulgar word. (TA.) ―         -b2-  [And hence, (assumed tropical:)  <i>He,</i> or <i>it, charmed,</i> or <i>fascinated,</i> or <i>delighted, him.</i>]    </entryFree> <br>\
+<b>اِنْسِطَالٌ</b>               1     <br>\
+                     اِنْسِطَالٌ<br>\
+                     ذ<br>\
+                  <i>A state of intoxication</i> produced by the حَشِيش [or herb, or perhaps species of hemp,] known by the name of زيه; as also ↓ <br>\
+      اِسْتِطَالٌ. (De Sacy&#39;s Chrest. Ar., 2nd ed., i. 282; from the book entitled كتاب الكواكب السايرة فى اخبار <br>\
+                  مصر والقاهرة.) [Both app. post-classical: see 1, of which each is quasi-pass.]    </entryFree> <br>\
+<b>اِسْتِطَالٌ</b>               1     <br>\
+                     اِسْتِطَالٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>جَا=ءَ يَتَسَيْطَلُ</b>               1     <br>\
+                     <i>Q. Q. 2</i>        <br>\
+                     جَا=ءَ يَتَسَيْطَلُ<br>\
+                     ذ<br>\
+                  <i>He came alone, having nothing with him.</i> (Ibn-&#39;Abbád, K.)    </entryFree> <br>\
+<b>سَطْلٌ</b>               1     <br>\
+                     سَطْلٌ<br>\
+                     ذ<br>\
+                  <i>A</i> <br>\
+                  طُسَيْسَة [or <i>small vessel of the kind called</i> <br>\
+                  طَسّ, or طَسْت, q. v.], (M, K,) <i>like the</i> <br>\
+                  تَوْر [q. v.], (M,) <i>having a loop-shaped handle,</i> (M, K,) <i>like that of the</i> <br>\
+                  مِرْجَل; (TA;) <i>well known:</i> (S, Msb:) a genuine Arabic word: (M:) or an arabicized word: [said by Golius to be in Pers. سَطَلٌ:] and صَطْلٌ is a dial. var. thereof: (Msb:) <i>a vessel of copper, a large</i> [<i>vessel of the kind called</i>] طَاس [q. v.], <i>for the hot bath;</i> (MA;) the <i>thing</i> [i. e. <i>vessel</i>] <i>in which water is drawn from the hot bath:</i> (KL:) [in the present day applied to <i>a kind of pail, of tinned copper, which the women take with them to the hot bath, containing the water that they require for washing after the other operations of the bath; and also used for various other purposes;</i> as also ↓ <br>\
+      سَطْلَةٌ:] and ↓ <br>\
+      سَيْطَلٌ signifies the same: (S, M, K, KL:) or this last signifies, (K,) or signifies also, (M,) <i>a</i> [<i>vessel of the kind called</i>] طَسْت; (M, K;) <i>not the well-known</i> [<i>vessel called</i>] سَطْل: (K:) the pl. [of mult.] of سَطْلٌ is سُطُولٌ (M, Msb, K) and [of pauc.] اَسْطَالٌ. (Msb.)    </entryFree> <br>\
+<b>سَطْلَةٌ</b>               1     <br>\
+                     سَطْلَةٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>سَاطِلٌ</b>               1     <br>\
+                     سَاطِلٌ<br>\
+                     ذ<br>\
+                   Dust <i>rising,</i> or <i>rising high;</i> as also طَاسِلٌ. (K.)    </entryFree> <br>\
+<b>سَيْطَلٌ</b>               1     <br>\
+                     سَيْطَلٌ<br>\
+                     ذ<br>\
+                  : see سَطْلٌ.       -A2-  Also A <i>tall</i> man: (K:) or سَيْطَلٌ نَيْطَلٌ a man <i>tall,</i> or <i>long, in body.</i> (Ibn-&#39;Abbád, TA.)    </entryFree> <br>\
+<b>اُسْطُولٌ</b>               1     <br>\
+                     اُسْطُولٌ<br>\
+                     ذ<br>\
+                  <i>A ship of war, prepared for fighting with. the unbelievers on the sea:</i> mentioned by El-Makreezee in the “ Khitat; ” and he says, “ I do not think this word to be [genuine] Arabic: ” (TA:) [it is evidently from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>στόλος</orth>:] several writers mention it among arabicized words. (MF, TA.)   </entryFree> <br>\
+' } );

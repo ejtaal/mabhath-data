@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>هصب</em>            1                  هصب<br>\
+<b>هَصَبَ</b>               1     <br>\
+                     هَصَبَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     هَصُبَ<br>\
+                  , inf. n. هَصْبٌ, <i>He fled; ran away.</i> (K.)   </entryFree> <br>\
+' } );

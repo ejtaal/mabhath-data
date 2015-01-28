@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'لك1<br>\
+لكَّهُ He pushed him, or thrust him; like<br>\
+دَكَّهُ and صَكَّهُ. (As, TA in art. دك.)<br>\
+لِكَاكٌ A pressing, or crowding: see an ex. voce<br>\
+عَكَّهٌ.<br>\
+' } );

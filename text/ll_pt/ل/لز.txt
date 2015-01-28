@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>لز</em>            1                  لز<br>\
+<b>لَازَّهُ</b>               1     <br>\
+                     لَازَّهُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  ضَايَقَهُ. (TA, voce ذَاقَنَهُ.)    </entryFree> <br>\
+<b>لَزٌّ</b>               1     <br>\
+                     لَزٌّ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  زُرْفِينٌ. (A, K.) In the CK, وَلَزَزٌ قَيْنٌ is a mistake for وَاللَّزُّ الزُّرْفِينُ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>كرفا</em>            1                  كرفا<br>\
+<b>كَرْفَاَتِ القِدْرُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     كَرْفَاَتِ القِدْرُ<br>\
+                     ذ<br>\
+                  <i>The pot frothed,</i> or <i>raised a scum, when about to boil.</i> (S, K.)       -A2-  كَرْفَاَ, inf. n. كَرْفَاَةٌ; and ↓ <br>\
+      تكرفا; (like كرثا and تكرثا, K, which are said to be changed from the former; TA;) <i>It</i> (a collection of clouds) <i>became large in quantity, and confused, and heaped up.</i> (K.) ―         -b2-  كَرْفَوُوا <br>\
+                  <i>They became mixed together.</i> (K.)    </entryFree> <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَكَرْفَاَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>كِرْفِيٌ</b>               1     <br>\
+                     كِرْفِيٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  كِرْثِيٌ; (K;) <i>Clouds high and piled up, one upon another.</i> (S) And كِرْفِيَةٌ <br>\
+                  <i>A portion of such clouds.</i> (S.) ―         -b2-  كِرْفِيٌ <br>\
+                  <i>An egg-shell.</i> (A&#39;Obeyd, S.) It occurs again in art. كرف. (TA.)    </entryFree> <br>\
+<b>كِرْفِيَةٌ</b>               1     <br>\
+                     كِرْفِيَةٌ<br>\
+                     ذ<br>\
+                  <i>A ceratin tree,</i> also called شَفَلَّحٌ. (K.)   </entryFree> <br>\
+' } );

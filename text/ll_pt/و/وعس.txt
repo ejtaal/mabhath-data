@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>وعس</em>            1                  وعس<br>\
+<b>وَعَسَهُ الدَّهَرَ</b>               1     <br>\
+                     وَعَسَهُ الدَّهَرَ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  حَنَّكَهُ and عَرَكَهُ and نَحَّدَهُ &amp;amp;c. (IAar, TA, in art. حنك.)   </entryFree> <br>\
+' } );

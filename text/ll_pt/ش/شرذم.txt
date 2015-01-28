@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شرذم</em>            1                  شرذم<br>\
+<b>شِرْذِمَةٌ</b>               1     <br>\
+                     شِرْذِمَةٌ<br>\
+                     ذ<br>\
+                  <i>A party,</i> or <i>company,</i> (طَايِفَةٌ,) of men, or people: (S:) or <i>a small company:</i> (TA:) or <i>a small number of men,</i> or <i>people:</i> (K:) and so شِرْدِمَةٌ, with the unpointed د, on the authority of AA: (IB, TA:) the former occurring in the Kur xxvi. 54. (TA.) ―         -b2-  <i>A piece,</i> or <i>portion,</i> (S, K,) of a thing, (S,) of a quince &amp;amp;c.: pl. شَرَاذِمُ and شَرَاذِيمُ. (K.) ―         -b3-  [Hence,] ثَوْبٌ شَرَاذِمُ, (S,) or ثِيَابٌ شَرَاذِمُ, (K,) <i>A garment,</i> or <i>garments, old and worn out,</i> (S, K,) <i>much rent.</i> (K.)   </entryFree> <br>\
+' } );

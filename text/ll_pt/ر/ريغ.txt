@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>ريغ</em>            1                  ريغ<br>\
+<b>ريّغ</b>               1     <br>\
+                     ريّغ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>He smeared, seasoned, imbued,</i> or <i>soaked,</i> a mess of ثَرِيد [i. e. broken, or crumbled, bread, بِالدَّسَمِ] <i>with grease,</i> or <i>gravy,</i> or <i>dripping; i. q.</i> <br>\
+                  رَوَّغَهَا (En-Nadr, K, TA) بِالدَّسَمِ (En-Nadr, TA.)    </entryFree> <br>\
+<b>تريّغت اللُّقْمَةُ بِالسَّمْنِ</b>               1     <br>\
+                     تريّغت اللُّقْمَةُ بِالسَّمْنِ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>The morsel,</i> or <i>mouthful, was</i> [<i>smeared, seasoned,</i>] <i>imbued,</i> or <i>soaked,</i> (تَرَوَّت,) <i>with clarified butter.</i> (En-Nadr, TA.) [In the CK, and in some MS. copies of the K, this verb is mentioned as quasi-pass. of 2.]    </entryFree> <br>\
+<b>رِيغٌ</b>               1     <br>\
+                     رِيغٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>رِيَاغٌ</b>               1     <br>\
+                     رِيَاغٌ<br>\
+                     ذ<br>\
+                  , as in the [T and] O and Tekmileh and L; in the K, erroneously, ↓ <br>\
+      رِيغٌ; (TA;) <i>Dust,</i> or <i>dust raised:</i> (Sh, K:) or, as some say, (TA,) <i>dust,</i> or <i>earth,</i> (K, TA,) <i>in a general sense:</i> or <i>such as is comminuted.</i> (TA.) Ru-beh says, describing an ass [i. e. a wild ass] and his females, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَاـِنْ اَثَارَتْ مِنْ رِيَاغٍ سَمْلَقَا<br>\
+                     <L><br>\
+                        تَهْوِى حَوَامِيهَا بِهِ مُدَقَّقَا<br>\
+                  </quote> using an inversion, for he means اَثَارَتْ رِيَاغًا مِنْ <br>\
+                  سَمْلَقٍ [i. e. <i>And if they raise earth from a level plain, the sides of their hoofs make it to fall down reduced to powder</i>]. (TA.)       -A2-  And <i>i. q.</i> <br>\
+                  نِفَارٌ [The <i>act of fleeing, going away</i> or <i>aside</i> or <i>apart</i> or <i>to a distance, retiring to a distance, shrinking,</i> &amp;amp;c.; inf. n. of نَفَرَ, q. v.]: (K:) so some say. (TA.)       -A3-  Sgh says that this word may belong to the present art. and to art. روغ, q. v. (TA.)    </entryFree> <br>\
+<b>مَرَاغٌ</b>               1     <br>\
+                     مَرَاغٌ<br>\
+                     ذ<br>\
+                  , signifying The <i>place in which beasts roll,</i> or <i>turn themselves over,</i> is thought by Az to be so called from رِيَاغٌ in the first of the senses assigned to it above. (TA.)    </entryFree> <br>\
+<b>مُرَيَّغٌ</b>               1     <br>\
+                     مُرَيَّغٌ<br>\
+                     ذ<br>\
+                   A thing <i>defiled with dust</i> or <i>earth,</i> or <i>much sprinkled with dust.</i> (El-&#39;Azeezee, K.)   </entryFree> <br>\
+' } );

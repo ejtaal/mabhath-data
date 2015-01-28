@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'كشب1<br>\
+كَشَبَ, aor.<br>\
+كَشُبَ, inf. n. كَشْبٌ; and ↓ كشّب,<br>\
+inf. n. تَكْشِيبٌ; He ate flesh-meat and the like<br>\
+with vehemence. (K, TA.)<br>\
+2<br>\
+كَشَّبَ see 1.<br>\
+' } );

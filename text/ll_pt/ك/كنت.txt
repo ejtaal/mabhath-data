@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>كنت</em>            1                  كنت<br>\
+<b>كَنَتَ فِى خَلْقِهِ</b>               1     <br>\
+                     كَنَتَ فِى خَلْقِهِ<br>\
+                     ذ<br>\
+                  , (aor.      <br>\
+                     كَنُتَ<br>\
+                  , inf. n. كَنْتٌ, TK,) <i>He</i> (a man) <i>was strong in his make.</i> (IAar, TS, K.)       -A2-  كَنِتَ, aor.      <br>\
+                     كَنَتَ<br>\
+                  , <i>It</i> (a skin, TA) <i>became foul with the grease of milk</i> [<i>and so retained the water,</i> or <i>milk, well</i>]; syn. حَشِنَ: (TS, and SM&#39;s copy of the K: in the CK and a MS. copy of the K, خَشُنَ: in another copy of the K, حَسُنَ.)    </entryFree> <br>\
+<b>اكتنت</b>               1     <br>\
+                     اكتنت<br>\
+                     ذ<br>\
+                  <i>He was lowly; humble; submissive.</i> (K.) [See اِقْتَنَتَ.] ―         -b2-  <i>He was content,</i> or <i>well pleased; acquiesced.</i> (K.)    </entryFree> <br>\
+<b>كُنْتٌ</b>               1     <br>\
+                     كُنْتٌ<br>\
+                     ذ<br>\
+                  : see كُنْتِىٌّ.    </entryFree> <br>\
+<b>سِقَاءٌ كَنِيتٌ</b>               1     <br>\
+                     سِقَاءٌ كَنِيتٌ<br>\
+                     ذ<br>\
+                   [as also قَنِيتٌ] <i>A skin that retains</i> [<i>the water,</i> or <i>milk,</i>] <i>well.</i> (K.)    </entryFree> <br>\
+<b>كُنْتِىٌّ</b>               1     <br>\
+                     كُنْتِىٌّ<br>\
+                     ذ<br>\
+                  <i>Strong; robust.</i> (Ibn-Buzruj, K.) An epithet applied to a man. (Ibn-Buzruj.) Formed from كُنْتُ “ I was ” because an old man speaks of himself in time past saying كُنْتُ كَذَا <br>\
+                  وَكُنْتُ كَذَا. (MF.) ―         -b2-  Also, [and ↓ <br>\
+      كُنْتٌ, as implied in the TA, and in the S in art., عجن,] and ↓ <br>\
+      كُنْتُنِىٌّ, <i>i. q.</i> <br>\
+                  كَبِيرٌ [app. <i>Great in age; old: aged</i>]. (AZ, K.) A poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَمَا كُنْتُ كُنْتِيًّا وَمَا كُنْتُ عَاجِنًا<br>\
+                     <L><br>\
+                        وَشَرُّ الرِّجَالِ الكُنْتُنِىُّ وَعَاجِنُ<br>\
+                  </quote> [<i>And I was not old, nor was I one who raised himself from the ground by the help of his hands: and the worst of men is the old, and one who raises himself so</i>]. (TA.)    </entryFree> <br>\
+<b>كُنْتَنِىٌّ</b>               1     <br>\
+                     كُنْتَنِىٌّ<br>\
+                     ذ<br>\
+                  : see كُنْتِىُّ.   </entryFree> <br>\
+' } );

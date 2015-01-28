@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>كزب</em>            1                  كزب<br>\
+<b>كُزْبٌ</b>               1     <br>\
+                     كُزْبٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  كُسْبٌ. (K.) ―         -b2-  [Coll. gen. n., <i>A kind of</i>] <i>hard trees.</i> (K.)    </entryFree> <br>\
+<b>كَزَبٌ</b>               1     <br>\
+                     كَزَبٌ<br>\
+                     ذ<br>\
+                  <i>Smallness and contraction of the</i> <br>\
+                  مُشْط (or <i>metatarsal bones</i>) <i>of the foot;</i> which is a defect. (K.)    </entryFree> <br>\
+<b>كَوْزَبٌ</b>               1     <br>\
+                     كَوْزَبٌ<br>\
+                     ذ<br>\
+                  <i>Avaricious,</i> or <i>niggardly, and narrowminded.</i> (K.)    </entryFree> <br>\
+<b>مَكْزُوبَةٌ</b>               1     <br>\
+                     مَكْزُوبَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  خِلَاسِيَّة <br>\
+                  <i>in colour;</i> i. e., <i>between black and white.</i> (K.)   </entryFree> <br>\
+' } );

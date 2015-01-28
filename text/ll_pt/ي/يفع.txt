@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>يفع</em>            1                  يفع<br>\
+<b>يَفَعٌ</b>               1     <br>\
+                     يَفَعٌ<br>\
+                     ذ<br>\
+                  : see يَافِعٌ    <br>\
+<b>يَفَعَةٌ</b>               1     <br>\
+                     يَفَعَةٌ<br>\
+                     ذ<br>\
+                  : see يَافِعٌ    <br>\
+<b>يَفَاعٌ</b>               1     <br>\
+                     يَفَاعٌ<br>\
+                     ذ<br>\
+                  : see يَافِعٌ    <br>\
+<b>يَافِعٌ</b>               1     <br>\
+                     يَافِعٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      يَفَعَةٌ A boy <i>grown up,</i> (Msb, TA,) <i>grown tall;</i> (Ham, p. 354 et seq., Har, p. 189;) as also ↓ <br>\
+      يَفَاعٌ and ↓ <br>\
+      يَفَعٌ. (Ham, ibid.) See an ex. voce خَبْاَةٌ; and شَادِخٌ and مُطَبِّخٌ.    </entryFree> <br>\
+<b>وَلَدُ المُيَافَعَةِ</b>               1     <br>\
+                     وَلَدُ المُيَافَعَةِ<br>\
+                     ذ<br>\
+                   [<i>The offspring of fornication,</i> or <i>adultery</i>].   </entryFree> <br>\
+' } );

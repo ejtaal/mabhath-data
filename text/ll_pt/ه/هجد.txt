@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '<em>هجد</em>            1                  هجد<br>\
+<b>هَجَدَ</b>               1     <br>\
+                     هَجَدَ<br>\
+                     ذ<br>\
+                  , (S, A, L, Msb,) aor.      <br>\
+                     هَجُدَ<br>\
+                  , (L, Msb,) inf. n. هُجُودٌ; (L, Msb, K;) and ↓ <br>\
+      تهجّد, (S, A, L, Msb, K,) and ↓ <br>\
+      اهجد, (L, K,) and ↓ <br>\
+      هجّد; (IAar, L;) <i>He</i> (a man, L) <i>slept:</i> (L, Msb, K:) or <i>slept in the night:</i> (IAar, S, A, L:) or, <i>in the latter part of the night.</i> (L.) ―         -b2-  Also هَجَدَ and ↓ <br>\
+      تهجّد (S, A, L, Msb, K [in some copies, of the last of which the former verb is written ↓ <br>\
+      هجّد and so in the TA) <i>He remained awake,</i> or <i>was sleepless</i> or <i>wakeful in the night:</i> (S, A, L:) and hence the <i>praying in the night</i> is called تَهَجُّدٌ: (S, L:) or <i>he awoke from sleep</i> (K) <i>to pray,</i> or <i>for some other purpose:</i> (TA:) or <i>he prayed in the night;</i> (Msb;) as also ↓ <br>\
+      هجّد: (IAar, L:) thus these verbs bear two contr. significations: (S, A, L, Msb, K:) and ↓ <br>\
+      تهجّد <br>\
+                  <i>he relinquished sleep for prayer:</i> (A:) so in the Kur, xvii., 81. (Beyd.)    </entryFree> <br>\
+                     هَجَّدَ<br>\
+                   see 1, in three places. ―         -b2-  Also هجّدهُ, inf. n. تَهْجِيدٌ, <i>He made him,</i> or <i>caused him, to sleep;</i> (S, L, K;) as also ↓ <br>\
+      اهجدهُ. (Ibn-Buzurj, L, K.) ―         -b3-  Also, <i>He awoke him from sleep.</i> (Ibn-Buzurj, L, K.) Thus it bears two contr. significations. (K.) ―         -b4-  See also 4.    </entryFree> <br>\
+                     اَهْجَدَ<br>\
+                   see 1: and 2. ―         -b2-  Also اهجدهُ <br>\
+                  <i>He found him</i> (namely a man, K) <i>sleeping.</i> (L, K.) ―         -b3-  And اهجد <br>\
+                  <i>He</i> (a camel) <i>laid the fore-part of his neck</i> (the part called جِرَان) <i>upon the ground;</i> (ISk, S, L, K;) as also ↓ <br>\
+      هجّد, (IKtt, El-Basáïr, K, TA, [in the CK هَجَدَ]) inf. n. تَهْجِيدٌ. (IKtt, El-Basáïr, TA.)    </entryFree> <br>\
+                     تَهَجَّدَ<br>\
+                   see 1, in three places.    </entryFree> <br>\
+<b>هَجِدْ</b>               1     <br>\
+                     هَجِدْ<br>\
+                     ذ<br>\
+                  , (as in some copies of the K,) or هِجْدْ, (accord. to others and the TA,) <i>A cry by which a horse is chidden.</i> (K.)    </entryFree> <br>\
+<b>هَجُودٌ</b>               1     <br>\
+                     هَجُودٌ<br>\
+                     ذ<br>\
+                  : see هَاجِدٌ.    </entryFree> <br>\
+<b>هَاجِدٌ</b>               1     <br>\
+                     هَاجِدٌ<br>\
+                     ذ<br>\
+                  <i>Sleeping:</i> (T, L, Msb:) pl. هُجُودٌ and هُجَّدٌ. (Msb.) [See an ex. in a verse cited voce مُرِمٌّ, in art. رم.] ―         -b2-  Also, (L,) and ↓ <br>\
+      هَجُودٌ (L, K) and ↓ <br>\
+      مُتَهَجِّدٌ (T, L) <i>Praying in the night:</i> (T, L, K:) pl. of the first, (L,) or second, (L, K,) هُجُودٌ and هُجَّدٌ. (L, K.) هُجْدٌ and هُجَّدٌ are also fem. pls. [app. in both of the above senses]. (A.)    </entryFree> <br>\
+<b>مُتَهَجِّدٌ</b>               1     <br>\
+                     مُتَهَجِّدٌ<br>\
+                     ذ<br>\
+                  : see هَاجِدٌ.   </entryFree> <br>\
+' } );

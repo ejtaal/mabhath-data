@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'شقى1<br>\
+شَقَى, inf. n. شَقْىٌ, said of the نَاب [or tush]<br>\
+of a camel, It grew forth: a dial. var. of شَقَأَ.<br>\
+(K in art. شقو [but belonging to the present art.:<br>\
+mentioned in the TA, as not in the K, on the<br>\
+authority of ISd].) ―<br>\
+-b2-  [Freytag states, as on the<br>\
+authority of Abu-l-&#39;Alà, that شَقَى is used for شَقَّ<br>\
+He clave, or split, &amp;c.: ―<br>\
+-b3-  and that Reiske has<br>\
+explained it as signifying He opened the mouth<br>\
+with a wide grinning (“ amplo rictu ” ).]<br>\
+شَاقٍ A long prominence, or projecting portion,<br>\
+or ledge, (حَيْدٌ طَالِعٌ طَوِيلٌ,) of a mountain, (K,<br>\
+TA,) that cannot be ascended: (TA:) by rule it<br>\
+should be with ء [i. e. شَاقِئٌ, as being derived from<br>\
+شَقَأَ]: (Sgh, TA:) pl. شَوَاقِى (K [correctly شَوَاقٍ])<br>\
+and شُقْيَانٌ. (TA. [Mentioned in the K in art.<br>\
+شقو, but belonging to the present art.])<br>\
+' } );

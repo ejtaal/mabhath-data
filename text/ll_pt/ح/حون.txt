@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>حون</em>            1                  حون<br>\
+<b>حَانَةٌ</b>               1     <br>\
+                     حَانَةٌ<br>\
+                     حان<br>\
+                     حانه<br>\
+                     حانة<br>\
+                  <i>A place where wine is sold;</i> (Msb and TA in this art., and S and K in art. حين;) the <i>place of the vintner;</i> (Kr;) the ↓ <br>\
+      حَانُوت [or <i>shop</i>] <i>of the vintner:</i> pl. حَانَاتٌ: (S, Msb:) thought by AHn to be from the Persian خَانَهْ. (TA.)    </entryFree> <br>\
+<b>حَانَاةٌ</b>               1     <br>\
+                     حَانَاةٌ<br>\
+                     حان<br>\
+                     حاناه<br>\
+                     حاناة<br>\
+                  : see art. حنو.    </entryFree> <br>\
+<b>حَانُوتٌ</b>               1     <br>\
+                     حَانُوتٌ<br>\
+                     حانوت<br>\
+                  , mentioned in the K in arts. حنت and حين and حنو: see حَانَةٌ, above; and see also art. حنو [to which several words allied to this are to be regarded as belonging]. It is masc. and fem.: and is [said to be] originally حَانُوَةٌ, like تَرْقُوَةٌ: and its pl. is حَوَانِيتُ: (S:) or, accord. to IB, it is originally حَنَوُوتٌ; then, حَوَنُوتٌ; and then, حَانُوتٌ. (TA in art. حين.)    </entryFree> <br>\
+<b>حَانِيَةٌ</b>               1     <br>\
+                     حَانِيَةٌ<br>\
+                     حانيه<br>\
+                     حانية<br>\
+                  : see art. حنو.    </entryFree> <br>\
+<b>حَانِىٌّ</b>               1     <br>\
+                     حَانِىٌّ<br>\
+                     حان<br>\
+                     حانى<br>\
+                     حاني<br>\
+                  : see art. حنو.    </entryFree> <br>\
+<b>حَانِيَّةٌ</b>               1     <br>\
+                     حَانِيَّةٌ<br>\
+                     حانيه<br>\
+                     حانية<br>\
+                  <i>Wine;</i> (S and K in art. حين, [in the CK, erroneously, حاينَة,] and K in art. حنو;) a rel. n. from حَانَةٌ: (S, TA:) or <i>vintners;</i> (K in art. حنو;) [from حَانِىٌّ; or] a rel. n. from حَانِيَةٌ. (TA in art. حنو.)   </entryFree> <br>\
+' } );

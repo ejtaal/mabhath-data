@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هطل</em>            1                  هطل<br>\
+<b>هَطَلَ</b>               1     <br>\
+                     هَطَلَ<br>\
+                     ذ<br>\
+                  <i>It</i> (water) <i>poured:</i> see its inf. n. voce سَكْبٌ.   </entryFree> <br>\
+' } );

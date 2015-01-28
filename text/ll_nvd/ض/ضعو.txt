@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'ضعو1<br>\
+ضَعَا He hid, or concealed, himself. (ISd, K.)<br>\
+ضَعَةٌ, (S, K,) originally ضَعْوٌ, or ضَعَوٌ, (accord.<br>\
+to different copies of the S,) the ة being a substitute [for the و], because of the form of its pl. [and<br>\
+of the rel. n.]; or, as some say, the ة is a substitute for an initial و, and it is mentioned also in<br>\
+art. وضع; (S;) A species of tree, (S, K, TA,) in<br>\
+the desert: or it is [a plant] like the [species of<br>\
+panic grass called] ثُمَام: (TA:) accord. to Az,<br>\
+a species of ثُمَام: (TA in art. ثم:) or another<br>\
+plant: and some pronounce it ضِعَةٌ; but this is<br>\
+in الحَسَب [or grounds of pretension to respect<br>\
+&amp;c.], and does not belong to the present art.:<br>\
+(TA:) the pl. is ضَعَوَاتٌ. (S, TA.) [Golius says,<br>\
+on the authority of Meyd, that it also signifies<br>\
+The reed of which writing-reeds are made.]<br>\
+ضَعَوِىٌّ Of, or relating to, the ضَعَة above mentioned. (S, K.)<br>\
+' } );

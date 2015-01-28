@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جوا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جوا<br>\
+&lt;entryFree id=&quot;n6611&quot; key=&quot;يَجُوْءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     يَجُوْءُ<br>\
+                     يج<br>\
+                     يجوء<br>\
+                  &lt;/form&gt; is a dial. var. of يَجِىْءُ [aor. of جَا=ءَ and meaning &lt;i&gt;He comes,&lt;/i&gt; or &lt;i&gt;will come&lt;/i&gt;]: (K:) mentioned by Sb, who gives as an ex. اَنَا اَجُوْوُكَ وَاَنْبُوُكَ [for انا اَجِيْوُكَ واَنْبَوُكَ, &lt;i&gt;I will come to thee and inform thee&lt;/i&gt;]. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

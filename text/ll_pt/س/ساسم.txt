@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>ساسم</em>            1                  ساسم<br>\
+<b>سَاْسَمٌ</b>               1     <br>\
+                     سَاْسَمٌ<br>\
+                     ذ<br>\
+                   a dial. var. of سَاسَمٌ without ء; <i>A certain tree;</i> [accord. to some,] <i>i. q.</i> <br>\
+                  شِيزَى. (TA.) [See art. سسم.]   </entryFree> <br>\
+' } );

@@ -1,0 +1,41 @@
+load_data( { book: 'll_nvd', text: 'وجع1<br>\
+وَجِعَ رَأْسَهُ<br>\
+He had a pain in his head: see<br>\
+أَلمَ.<br>\
+4<br>\
+أَوْجَعَهُ<br>\
+He, or it, pained him; or caused<br>\
+him pain, or aching. (K, MA, TA.)<br>\
+5<br>\
+تَوَجَّعَ<br>\
+He expressed, or manifested, pain,<br>\
+affliction, distress, grief, or sorrow; [complained; moaned; or] uttered lamentation, or<br>\
+complaint; (PS;) syn. تَأَلَّمَ. (S, art. ألم) and<br>\
+تَفَجَّعَ (S, art. فجع; and K) and تَشَكَّى (Msb,<br>\
+K) and تَأَوَّهَ (Msb, art. اوه) and أَهَّ (S, art. أه) and<br>\
+تَحَزَّنَ. (K, art. حزن.) ―<br>\
+-b2-  تَوَجَّعَ لَهُ مِنْ كَذَا<br>\
+[He was pained for him, or he lamented for him,<br>\
+on account of such a thing]; he pitied him for<br>\
+such a thing. (S, Msb, K.) ―<br>\
+-b3-  تَوَجَّعَ لِلْمُصِيبَةِ<br>\
+[He lamented for the affliction, or calamity].<br>\
+(K, art. فجع.) ―<br>\
+-b4-  تَوَجَّعَ إِلَيْهِ من كَذَا<br>\
+He<br>\
+lamented, complained, or expressed pain, or<br>\
+grief, to him, on account of such a thing.<br>\
+وَجَعٌ<br>\
+A disease, or malady, (S, Msb, K, TA,)<br>\
+of any kind, (Msb,) causing pain. (TA.) ―<br>\
+-b2-<br>\
+وَجَعُ المَفَاصِلِ<br>\
+Pain of the joints; i. e. arthritis:<br>\
+see نِقْرِسٌ.<br>\
+جِعَةٌ<br>\
+The<br>\
+نبيذ, or beverage, made from barley:<br>\
+see مِزْرٌ.<br>\
+الوَجْعَآءُ<br>\
+The anus: see a verse cited voce أَفْدَعُ.<br>\
+' } );

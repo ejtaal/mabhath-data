@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'وبت1<br>\
+وَبَتَ بِالمَكَانِ, aor. يَبِتُ, (inf. n. وَبْتٌ, L,)<br>\
+He remained, stayed, abode, or dwelt, in the<br>\
+place. (K.)<br>\
+' } );

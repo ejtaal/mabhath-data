@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ولفالوَلْفُ<br>\
+The common cyclamen: see بَخُورُ مَرْيَمَ.<br>\
+وِلَافٌ<br>\
+, for إِلَافٌ: see أَلِفَهُ.<br>\
+' } );

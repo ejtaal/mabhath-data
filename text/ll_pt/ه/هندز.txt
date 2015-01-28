@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>هندز</em>            1                  هندز<br>\
+<b>هِنْدَازٌ</b>               1     <br>\
+                     هِنْدَازٌ<br>\
+                     ذ<br>\
+                  , (S, K,) with kesr, (K,) found in the work of Az, in several places, written with fet-h, [هَنْدَازٌ,] (TA,) <i>A limit;</i> syn. حَدٌّ: (K:) [or rather <i>a measure:</i>] an arabicized word, from اَنْدَازَه, (S, K,) with fet-h, (K,) which is Persian: (S:) the arabicized word is with kesr to the first letter because of the rareness of the measure فَعْلَالٌ in the cases of words not reduplicative. (K.) You say, اَعَطٰاهُ بِلَا حِسَابِ وَلَا هِنْدَازٍ [<i>He gave to him without calculation and without measure</i>]. (S.)    </entryFree> <br>\
+<b>هِنْدَازَةٌ</b>               1     <br>\
+                     هِنْدَازَةٌ<br>\
+                     ذ<br>\
+                   The <i>cubit with which</i> [<i>certain</i>] <i>cloths and the like are measured;</i> [<i>about twenty-five inches in length:</i>] also a Persian word arabicized. (TA.)    </entryFree> <br>\
+<b>مُهَنْدزٌ</b>               1     <br>\
+                     مُهَنْدزٌ<br>\
+                     ذ<br>\
+                  <i>One who determines the measures and proportions of subterranean channels for water, and of buildings:</i> [<i>an architect:</i> and also <i>a geometrician:</i>] from هِنْدَازٌ: but they change the ز into س, (S, K,) and say مُهَنْدِسٌ, (S,) because there is not in the [genuine] language of the Arabs a ز with a د before it. (S, K.)   </entryFree> <br>\
+' } );

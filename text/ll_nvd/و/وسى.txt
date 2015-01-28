@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'وسى3<br>\
+وَاسَى<br>\
+: see آسَيْتُهُ, throughout.<br>\
+4<br>\
+أَوْسَى<br>\
+, originally أَسْوَى: see اِسْتَوَى<br>\
+6<br>\
+تَوَاسَوْا<br>\
+: see its syn. تَآسَوْا.<br>\
+' } );

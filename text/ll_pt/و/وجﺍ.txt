@@ -1,0 +1,55 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وجا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وجا<br>\
+&lt;entryFree id=&quot;n41650&quot; key=&quot;وَجَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَجَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Msb, K,) aor. يَوْجَاُ, and sometimes يَجَاُ, (Msb,) inf. n. وَجْءٌ; (TA;) and ↓ <br>\
+      توجّا; (K;) &lt;i&gt;He beat,&lt;/i&gt; or &lt;i&gt;struck,&lt;/i&gt; or &lt;i&gt;smote,&lt;/i&gt; a person with his hand, (S *, K,) or with a knife, (S, Msb, K,) or the like, on any part. (Msb.) ―         -b2-  وَجَاَ عُنُقَهُ, inf. n. وَجْءٌ, &lt;i&gt;He beheaded him:&lt;/i&gt; syn. ضَرَبَ عُنُقَهُ. (S.) ―         -b3-  وَجَاَ (tropical:)  &lt;i&gt;Inivit&lt;/i&gt; feminam. (K.) ―         -b4-  وَجَاَ التَّيْسَ, inf. n. وَجْءٌ and وِجَا=ءٌ, (or the latter is a simple subst., TA,) &lt;i&gt;He beat the veins of the testicles of the goat between two stones, without extracting the testicles themselves:&lt;/i&gt; or &lt;i&gt;he bruised&lt;/i&gt; or &lt;i&gt;beat the goat&#39;s testicles until they broke,&lt;/i&gt; (K,) &lt;i&gt;and he became like one gelded.&lt;/i&gt; (TA.) You say also وَجَاَ الكَبْشَ. (S.) [See وجَا=ءٌ.] وُجِيَ <br>\
+                  &lt;i&gt;He&lt;/i&gt; (a goat) &lt;i&gt;had the operation termed&lt;/i&gt; <br>\
+                  وَجْءٌ <br>\
+                  &lt;i&gt;performed upon him.&lt;/i&gt; (K.) ―         -b5-  &lt;i&gt;He was struck&lt;/i&gt; with a knife. (S.) ―         -b6-  وَجَاَ (tropical:)  &lt;i&gt;He bruised,&lt;/i&gt; or &lt;i&gt;pounded,&lt;/i&gt; dates &lt;i&gt;until they cohered.&lt;/i&gt; Hence وَجِيْيَةٌ, q. v. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     وَجَّاَ<br>\
+                  &lt;/form&gt; see 1. ―         -b2-  وجّا الرَّكِيَّةَ, inf. n. تَوْجِىْءٌ, &lt;i&gt;He found the well to be what is termed&lt;/i&gt; <br>\
+                  وَجْاَةٌ, [fem. of وَجْءٌ, q. v.: app. signifying &lt;i&gt;without water&lt;/i&gt;]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41651&quot; key=&quot;اوجا عَنْهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اوجا عَنْهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He repelled from him; removed,&lt;/i&gt; or &lt;i&gt;put away, from him.&lt;/i&gt; (K *, TA.) ―         -b2-  اوجا <br>\
+                  &lt;i&gt;He came in search of a thing that he wanted,&lt;/i&gt; or &lt;i&gt;in pursuit of game, and did not attain it.&lt;/i&gt; (K.) ―         -b3-  &lt;i&gt;It&lt;/i&gt; (a well) &lt;i&gt;failed;&lt;/i&gt; i. e., &lt;i&gt;its water ceased:&lt;/i&gt; or &lt;i&gt;it contained no water.&lt;/i&gt; (TA.) [See also اَوْجَى.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41652&quot; key=&quot;اـِتَّجَاَ التَّمْرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِتَّجَاَ التَّمْرُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;The dates became closely packed,&lt;/i&gt; or &lt;i&gt;pressed together:&lt;/i&gt; (K:) &lt;i&gt;they were bruised,&lt;/i&gt; or &lt;i&gt;pounded, until they cohered.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41653&quot; key=&quot;مَا=ءٌ وجءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَا=ءٌ وجءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and ↓ <br>\
+      وَجَاٌ, and ↓ <br>\
+      وَجَا=ءٌ, &lt;i&gt;A water where there is no good:&lt;/i&gt; (K:) [app., &lt;i&gt;a source of water where there is no herbage,&lt;/i&gt; or &lt;i&gt;pasture;&lt;/i&gt; or, more probably, &lt;i&gt;a source without water;&lt;/i&gt; or &lt;i&gt;a water that has failed:&lt;/i&gt; see 2 and 4.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41654&quot; key=&quot;وَجَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَجَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and وَجَا=ءٌ: see مَا=ءٌ وَجْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41655&quot; key=&quot;وِجَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وِجَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, a subst., &lt;i&gt;A striking&lt;/i&gt; with a knife or the like, on any part. (Msb.) [See also 1.] ―         -b2-  وِجَا=ءٌ The &lt;i&gt;bruising of the veins of the testicles until they break, so that it is like gelding.&lt;/i&gt; (S.) [See also 1.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41656&quot; key=&quot;وَجِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَجِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مَوْجُوْءٌ A goat &lt;i&gt;on which has been performed the operation called&lt;/i&gt; <br>\
+                  وَجْءٌ. (K.) [See 1.] ―         -b2-  The latter is said to be used in a trad. as signifying &lt;i&gt;Gelded.&lt;/i&gt; ―         -b3-  Also the latter, &lt;i&gt;Struck&lt;/i&gt; with a knife. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41657&quot; key=&quot;وَجِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَجِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;Dates,&lt;/i&gt; (K,) or &lt;i&gt;locusts,&lt;/i&gt; (ISk, S, K,) &lt;i&gt;bruised,&lt;/i&gt; or &lt;i&gt;pounded, and then stirred up with clarified butter&lt;/i&gt; (سَمْن), or &lt;i&gt;with oil, and so eaten:&lt;/i&gt; (S, K:) or &lt;i&gt;dates moistened with milk&lt;/i&gt; or &lt;i&gt;with clarified butter, and then bruised,&lt;/i&gt; or &lt;i&gt;pounded, until they are consolidated:&lt;/i&gt; (TA:) or &lt;i&gt;dates bruised,&lt;/i&gt; or &lt;i&gt;pounded, until the stones come forth, and then moistened with milk&lt;/i&gt; or &lt;i&gt;with clarified butter so that they become macerated and cohering, in which state they are eaten.&lt;/i&gt; (ISk, S.) ―         -b2-  Also, &lt;i&gt;A cow.&lt;/i&gt; (IAar., K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41658&quot; key=&quot;مَوْجُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَوْجُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see وَجِىْءٌ.   &lt;/entryFree&gt; <br>\
+' } );

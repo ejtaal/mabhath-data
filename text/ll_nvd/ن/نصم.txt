@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نصمتَصْمَةٌ<br>\
+or نَصَمَةٌ<br>\
+An idol: see صَنَمٌ.<br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>تلمذ</em>            1                  تلمذ<br>\
+<b>تَلْمَذَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     تَلْمَذَ<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became, a</i> <br>\
+                  تِلْمِيذ [or <i>disciple,</i> &amp;amp;c.], لِفُلَانٍ <br>\
+                  <i>to such a one.</i> (TA, passim.)    </entryFree> <br>\
+<b>تِلْمِيذٌ</b>               1     <br>\
+                     تِلْمِيذٌ<br>\
+                     ذ<br>\
+                  <i>A disciple; a pupil; a learner:</i> or <i>a special servant of a teacher:</i> so says &#39;Abd-El- Kádir El-Baghdádee, who composed a treatise solely on this word: (MF, TA:) or simply <i>a servant; a follower; a dependant:</i> pl. تَلَامِيذُ (L, TA) [and تَلَامِذَةٌ].   </entryFree> <br>\
+' } );

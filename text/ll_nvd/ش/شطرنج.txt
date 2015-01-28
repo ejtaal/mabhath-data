@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'شطرنجشِطْرَنْجٌ (O, L, Msb, K) and شَطْرَنْجٌ; (L, Msb;)<br>\
+some say the former; and some, the latter;<br>\
+(Msb;) the latter said to be of established authority, as a dial. var., though disallowed in the<br>\
+K [and in the O]; but the former is the more<br>\
+approved on account of its being conformable<br>\
+with Arabic words, (Msb, TA,) such as جِرْدَحْلٌ,<br>\
+(TA,) which the latter is not; (Msb, TA;) and<br>\
+sometimes it is pronounced with the unpointed<br>\
+س, (O,) this being a dial. var.; (K;) A wellknown game; [namely, chess:] (O, L, K:) a<br>\
+Pers. word, (TA,) arabicized; (Msb, K, TA;)<br>\
+[said to be] from صَدْ رَنْگ “ a hundred stratagems; ” or from شُدْ رَنْج “ trouble departed,”<br>\
+meaning that trouble departs from him who plays<br>\
+at it; (TA;) [or from شَاهْ رَنْج “ the royal care or<br>\
+sorrow; ” or from شَشْ رَنْگ “ six species or<br>\
+ranks,” because the pieces are of so many species:<br>\
+(Richardson&#39;s Pers. Arab. and Engl. Dict.,<br>\
+Johnson&#39;s ed.:)] or [accord. to some] it is from<br>\
+الشَّطَارَةُ, (O, K,) or المُشَاطَرَةُ, referring to the<br>\
+word شطرنج; (TA;) or from التَّسْطِيرُ, (O, K,)<br>\
+referring to the word سطرنج; so says Ibn-Hishám<br>\
+El-Lakhmee: but, as IB and others have said,<br>\
+these derivations are only partial, making the ن<br>\
+and the ج to be augmentative letters, and are<br>\
+manifestly incorrect. (MF, TA.)<br>\
+' } );

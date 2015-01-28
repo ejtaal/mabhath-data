@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قنسقَنَسٌ<br>\
+: see رَاسَنٌ.<br>\
+قُوْنَسٌ<br>\
+The [tapering] top of an iron helmet.<br>\
+(K.) See دَنٌّ.<br>\
+' } );

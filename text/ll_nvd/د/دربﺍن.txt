@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'درباندَرْبَانٌ (K) and دِرْبَانٌ and دُرْبَانٌ (Kr, TA) sings.<br>\
+of دَرَابِنَةٌ, (K, TA,) which signifies Door-keepers,<br>\
+or gate-keepers: [the sing. is] Persian, [originally<br>\
+دَرْبَانْ,] arabicized. (S, K.)<br>\
+' } );

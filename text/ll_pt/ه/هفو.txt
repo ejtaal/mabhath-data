@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هفو</em>            1                  هفو<br>\
+<b>هفا</b>               1     <br>\
+                     هفا<br>\
+                     ذ<br>\
+                  , said of the heart, <i>It fluttered,</i> or <i>palpitated;</i> and, as Z says, <i>was flurried</i> by reason of grief, or of beating. (TA.) See 1, in art. فهو.    </entryFree> <br>\
+<b>هَفْوَةٌ</b>               1     <br>\
+                     هَفْوَةٌ<br>\
+                     ذ<br>\
+                   A <i>slip, lapse, fault,</i> or <i>fall into wrongdoing;</i> pl. هَفَوَاتٌ. (TA.)   </entryFree> <br>\
+' } );

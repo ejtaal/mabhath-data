@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>قربس</em>            1                  قربس<br>\
+<b>قَرَبُوسٌ</b>               1     <br>\
+                     قَرَبُوسٌ<br>\
+                     ذ<br>\
+                  , and قَرْبُوسٌ, but the latter is only used in poetry, (S,) by poetic license, (K,) because فَعْلُولٌ is not one of the measures of Arabic words, (S,) or, accord. to AZ, is a dial. form, and, as such, is said by MF, to be written قُرْبُوس, with damm to the ق and with the ر quiescent, but this is a mistake; (TA;) [<i>A thing</i>] <i>pertaining to the saddle of a horse;</i> (S;) <i>each of the two curved pieces of wood of the saddle of a horse,</i> (IDrd, K,) <i>which form its fore part and its hinder part;</i> [<i>one answering to the pommel of our saddle, and the other being the troussequin;</i>] <i>together corresponding to the</i> <br>\
+                  شَرْخَانِ <br>\
+                  <i>of the</i> [<i>camel&#39;s saddle called</i>] رَحْل: in the قربوس are the عَضُدَانِ, which are its two legs, that lie against, or upon, the دَفَّتَانِ, which are [the two boards that form] the inner sides of the عضدان: each قربوس has two legs (عضدان) and what are termed ذِيْبَتَانِ: then come the دفّتان, which are the two things against which comes the بَادّ of the horse; and in the دفّتان are the عِرَاقَانِ, which are the two edges of the دّفتان, at the fore part of the saddle and its hinder part: (IDrd:) the pl. is قَرَابِيسُ. (K.) Some of the people of Syria pronounce the word with tesh-deed, [قَرَّبُوس,] which is wrong; and make its pl. قَرَبَابِيس, which is more wrong. (O.)   </entryFree> <br>\
+' } );

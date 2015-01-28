@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ميس</em>            1                  ميس<br>\
+<b>المَيْسَانُ</b>               1     <br>\
+                     المَيْسَانُ<br>\
+                     ذ<br>\
+                   One of the two stars called الهَنْعَةُ. The other [<G>c</G>] is called الزِّرُّ. (El-Kazweenee.)   </entryFree> <br>\
+' } );

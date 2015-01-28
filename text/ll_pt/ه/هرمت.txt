@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هرمت</em>            1                  هرمت<br>\
+<b>هَرَامِيتُ</b>               1     <br>\
+                     هَرَامِيتُ<br>\
+                     ذ<br>\
+                  <i>Wells:</i> (K;) a pl. that has no sing.; or its sing. is هِرْمِيتٌ or هُرْمُوتٌ; or perhaps the ت is an augmentative letter: (MF:) or, accord. to the L, it is a name of a certain group of wells in the tract of Ed-Dahma, said to have been dug by Lukmán the son of &#39;Ád: or, accord. to As, certain wells on the left of Dareeyeh: if so, F has erred in prefixing to it the art. ال. (TA.)   </entryFree> <br>\
+' } );

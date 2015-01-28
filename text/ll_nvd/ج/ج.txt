@@ -1,0 +1,49 @@
+load_data( { book: 'll_nvd', text: 'جalphabetical letter<br>\
+ج<br>\
+The fifth letter of the alphabet: called جِيمٌ,<br>\
+which is one of the names of letters of the fem.<br>\
+gender, but which it is allowable to make masc.:<br>\
+it is one of the letters termed مَجْهُورَة [or vocal,<br>\
+i. e. pronounced with the voice, and not with the<br>\
+breath only]: and of the number of the letters<br>\
+termed مَحْقُورَة, and حُرُوفُ القَلْقَلَةِ, because it<br>\
+cannot be uttered in a case of pause without a<br>\
+strong compression, and a strong sound: and it<br>\
+is also one of those termed شَجْرِيَّة, from الشَّجْرُ,<br>\
+which is the place of opening of the mouth.<br>\
+(TA.) ―<br>\
+-b2-  It is sometimes substituted for ى, when<br>\
+the latter letter is doubled, (K,) or is so substituted by some of the Arabs; (AA, S;) as in<br>\
+فُقَيْمِجٌّ, for فُقَيْمِىٌّ; (AA, S, K;) and مُرِّجٌّ, for<br>\
+مُرِّىٌّ. (AA, S.) An Arab of the desert recited<br>\
+to Khalaf El-Ahmar,<br>\
+الْمُطْعِمَانِ الَّحْمَ بِالْعَشِجِّ خَالِى عُوَيْفٌ وَأَبُو عَلِجِّ<br>\
+[My maternal uncle is &#39;Oweyf, and Aboo-&#39;Alijj,<br>\
+who feed with flesh-meat at nightfall]; meaning<br>\
+عَلِىّ and عَشِىّ. (S.) It is also sometimes substituted for a single ى. (S, K.) AZ gives the<br>\
+following ex.:<br>\
+يَا رَبِّ إِنْ كُنْتَ قَبِلْتَ حُجَّتِجْ<br>\
+فَلَا يَزَالُ شَاحِجٌ يَأْتِيكَ بِجْ<br>\
+[O my Lord, if Thou accept my plea, a brayer<br>\
+(or mule) shall not cease to bring me to Thee (i. e.<br>\
+to thy temple)]; (S;) meaning حُجَّتِى (K) [and<br>\
+بِى]. أَمْسَجَتْ and أَمْسَجَا are also mentioned as<br>\
+occurring in a verse, for أَمْسَتْ and أَمْسَى [because<br>\
+originally أَمْسَيَتْ and أَمْسَىَ]. (S.) But all these<br>\
+substitutions are abominable, (S, Ibn-&#39;Osfoor,) and<br>\
+only allowable in cases of poetical necessity. (Ibn-<br>\
+&#39;Osfoor.) It is further said that some of the Arabs,<br>\
+among whom were the tribe of Kudá&#39;ah, changed<br>\
+ى, when occurring immediately after ع, into ج;<br>\
+and said, for رَاعٍ, [originally رَاعِىٌ,] رَاعِجٌ: this<br>\
+is what is termed عَجْعَجَةٌ: Fr attributes the<br>\
+substitution of ج for ى to the tribe of Teiyi, and<br>\
+some of the tribe of Asad. (TA.) ―<br>\
+-b3-  Some of<br>\
+the Arabs also changed it into ى; saying شَيَرَةٌ<br>\
+for شَجَرَةٌ, and جَثْيَاثٌ for جَثْجَاثٌ, and يَصَّصَ<br>\
+for جَصَّصَ. (AZ, S in art. يص.)<br>\
+-A2-  [As a numeral, ج denotes Three; and, as such, is generally<br>\
+written without the dot, but thus ح, or thus ح,<br>\
+to distinguish it from ح, which denotes eight.]<br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ترما&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ترما<br>\
+&lt;entryFree id=&quot;n3918&quot; key=&quot;لَا تَرَمَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَا تَرَمَا<br>\
+                     لا ترما<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  لا سِيَّمَا [which see in art. سوي]. (K.) &lt;pb n=&quot;306&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n3919&quot; key=&quot;تُرْمُسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُرْمُسٌ<br>\
+                     رمس<br>\
+                     ترمس<br>\
+                  &lt;/form&gt; [vulgarly pronounced in the present day تِرْمِس; from the Greek &lt;G&gt;θέρμος&lt;/G&gt;, or Coptic &lt;G&gt;θαρος&lt;/G&gt;; &lt;i&gt;Lupines;&lt;/i&gt; or the &lt;i&gt;lupine;&lt;/i&gt;] &lt;i&gt;a certain grain, well known, of the description termed&lt;/i&gt; <br>\
+                  قَطَانِىّ; (Msb;) the &lt;i&gt;produce of a tree&lt;/i&gt; [or &lt;i&gt;plant&lt;/i&gt;] &lt;i&gt;which has a grain ribbed and notched:&lt;/i&gt; (Lth, M, * K:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  بَاقِلَّى مِصْرِىٌّ: (the Minháj and K:) [but if this be the same as the بَاقِلَّى قِبْطِىّ, it is a mistake, accord. to Ibn-Beytár, to identify it with the ترمس:] AHn says that it is the جِرْجِير مِصْرِىّ, and is &lt;i&gt;of the description termed&lt;/i&gt; <br>\
+                  قَطَانِىّ; and under the head of the letter ج, he says that the جِرْجِير is the بَاقِلِّى: accord. to the Minháj, it is &lt;i&gt;a grain of an expanded shape, of bitter taste, hollowed in the middle; and the wild kind is smaller than the other, and stronger: and the&lt;/i&gt; <br>\
+                  ترمس <br>\
+                  &lt;i&gt;approaches more to medicine than to food: the best is the white, large, and heavy:&lt;/i&gt; (TA:) some say that the ت is augmentative, and that the word is from رَمَسَ, signifying “ he concealed ” a thing: (MF, TA:) the n. un. is with ة (Msb.)   &lt;/entryFree&gt; <br>\
+' } );

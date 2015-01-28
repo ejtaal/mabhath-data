@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'وأR. Q. 1<br>\
+وَأْوَأَ, inf. n. وَأْوَأَهٌ, He (a dog) barked.<br>\
+(A.) ―<br>\
+-b2-  Also inf. n. وَأْوَآءٌ ([respecting the form of<br>\
+which see ظَأْظَأَ] in the CK and a MS. copy, وَأْوَأٌ)<br>\
+He (a jackal, اِبْنُ آوَى,) cried, or barked. (K.)<br>\
+―<br>\
+-b3-  [See also وَعْوَعَ.]<br>\
+' } );

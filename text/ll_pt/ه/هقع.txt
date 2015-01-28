@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>هقع</em>            1                  هقع<br>\
+<b>الهَقْعَةُ</b>               1     <br>\
+                     الهَقْعَةُ<br>\
+                     ذ<br>\
+                  <i>Three small stars</i> [       <br>\
+      <orth lang=&quot;gr&quot;>λ</orth>,        <br>\
+      <orth lang=&quot;gr&quot;>φ</orth> 1, <i>and</i>        <br>\
+                  <orth lang=&quot;gr&quot;>φ</orth> 2, <i>of Orion,</i>] <i>forming the points of a triangle, in the head of</i> <br>\
+                  الجُوْزاَءُ <br>\
+                  <i>The 5th Mansion of the Moon.</i> (El-Kazweenee.) [This is accord. to those who make نَوْءٌ to signify the “ auroral setting: ” accord. to those who make it to signify the “ auroral rising, ” these stars compose الهَنْعَةُ, q. v.; and الهَفْعَةُ seems to consist of ?? 1 and ?? 2 <i>of Orion.</i>]   </entryFree> <br>\
+' } );

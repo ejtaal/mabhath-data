@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>تبت</em>            1                  تبت<br>\
+<b>تَبُوتٌ</b>               1     <br>\
+                     تَبُوتٌ<br>\
+                     تبوت<br>\
+                  <i>i. q.</i> <br>\
+                  تَابُوتٌ; (K;) a dial. var. of the latter. (TA.) See both in art. توب.   </entryFree> <br>\
+' } );

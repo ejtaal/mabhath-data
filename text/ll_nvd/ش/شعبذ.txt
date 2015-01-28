@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'شعبذQ. 1<br>\
+شَعْبَذَ, and its inf. n. شَعْبَذَةٌ: see شَعْوَذَ and<br>\
+شَعْوَذَةٌ in art. شعذ.<br>\
+مُشَعْبِذٌ: see مُشَعْوِذٌ in art. شعذ.<br>\
+' } );

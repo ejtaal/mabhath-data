@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'قضقَضْقَاضٌ<br>\
+, (K,) and some say قَصْقَاصٌ, (TA,)<br>\
+The أُشْنَان<br>\
+of Syria: (K, TA:) or the green,<br>\
+and lank (سَبْط), thereof: (Ibn-&#39;Abbád, TA:) or<br>\
+a species of trees of the [kind called] حَمْض,<br>\
+(AHn, K, TA,) slender and yellow. (AHn,<br>\
+TA.) See فِرْسٌ.<br>\
+' } );

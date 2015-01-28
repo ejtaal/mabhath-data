@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'نخو1<br>\
+نُخِىَ بِكَذَا<br>\
+: He boasted of such a thing: see<br>\
+زُهِىَ بِكَذَا.<br>\
+نَخْوَةٌ<br>\
+Pride; self-magnification; haughtiness.<br>\
+(S, Msb, K.)<br>\
+' } );

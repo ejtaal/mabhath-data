@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ثيخ1<br>\
+ثَاخَ, aor. يَثِيخُ: see art. ثوخ.<br>\
+' } );

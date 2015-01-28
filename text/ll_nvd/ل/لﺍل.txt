@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'لأللَأّلٌ: see art. لأ.<br>\
+لِئَالَةٌ: see art. لأ.<br>\
+لِئَلَّا Lest; in order that not.<br>\
+' } );

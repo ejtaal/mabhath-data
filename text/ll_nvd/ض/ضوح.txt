@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ضوح2<br>\
+ضوّح: see 2, in two places, in art. ضيح.<br>\
+' } );

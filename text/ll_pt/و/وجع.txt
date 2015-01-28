@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>وجع</em>            1                  وجع<br>\
+<b>وَجِعَ رَاْسَهُ</b>               1     <br>\
+                     وَجِعَ رَاْسَهُ<br>\
+                     ذ<br>\
+                  <i>He had a pain in his head:</i> see اَلمَ.    </entryFree> <br>\
+<b>اَوْجَعَهُ</b>               1     <br>\
+                     اَوْجَعَهُ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, pained him;</i> or <i>caused him pain,</i> or <i>aching.</i> (K, MA, TA.)    </entryFree> <br>\
+<b>تَوَجَّعَ</b>               1     <br>\
+                     تَوَجَّعَ<br>\
+                     ذ<br>\
+                  <i>He expressed,</i> or <i>manifested, pain, affliction, distress, grief,</i> or <i>sorrow;</i> [<i>complained; moaned;</i> or] <i>uttered lamentation,</i> or <i>complaint;</i> (PS;) syn. تَاَلَّمَ. (S, art. الم) and تَفَجَّعَ (S, art. فجع; and K) and تَشَكَّى (Msb, K) and تَاَوَّهَ (Msb, art. اوه) and اَهَّ (S, art. اه) and تَحَزَّنَ. (K, art. حزن.) ―         -b2-  تَوَجَّعَ لَهُ مِنْ كَذَا [<i>He was pained for him,</i> or <i>he lamented for him, on account of such a thing</i>]; <i>he pitied him for such a thing.</i> (S, Msb, K.) ―         -b3-  تَوَجَّعَ لِلْمُصِيبَةِ [<i>He lamented for the affliction, or calamity</i>]. (K, art. فجع.) ―         -b4-  تَوَجَّعَ اـِلَيْهِ من كَذَا <br>\
+                  <i>He lamented, complained, or expressed pain, or grief, to him, on account of such a thing.</i>    <br>\
+<b>وَجَعٌ</b>               1     <br>\
+                     وَجَعٌ<br>\
+                     ذ<br>\
+                  <i>A disease,</i> or <i>malady,</i> (S, Msb, K, TA,) <i>of any kind,</i> (Msb,) <i>causing pain.</i> (TA.) ―         -b2-  وَجَعُ المَفَاصِلِ <br>\
+                  <i>Pain of the joints;</i> i. e. <i>arthritis:</i> see نِقْرِسٌ.    </entryFree> <br>\
+<b>جِعَةٌ</b>               1     <br>\
+                     جِعَةٌ<br>\
+                     ذ<br>\
+                  <i>The</i> <br>\
+                  نبيذ, <i>or beverage, made from barley:</i> see مِزْرٌ.    </entryFree> <br>\
+<b>الوَجْعَا=ءُ</b>               1     <br>\
+                     الوَجْعَا=ءُ<br>\
+                     ذ<br>\
+                  <i>The anus:</i> see a verse cited voce اَفْدَعُ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>شنز</em>            1                  شنز<br>\
+<b>شُونِيزٌ</b>               1     <br>\
+                     شُونِيزٌ<br>\
+                     ذ<br>\
+                  , (Mgh, K,) so called by the Persians, (TA,) [and generally by the Arabs in the present day,] and شَوْنِيزٌ, as in the “ Towsheeh ” of ElJelál Es-Suyootee, (TA,) and شِينيزٌ, (AHn, L, and so in some copies of the K,) without hemz, (AHn, L,) the proper form, for so the Arabs called it, (IAar, TA in art. سود,) or شِيْنِيزٌ, (as in some copies of the K, and in the TA,) with hemz, (TA,) and شُونُوزٌ, or شُوْنُوزٌ, (as in different copies of the K,) and شِهْنِيزٌ, (ADk, K,) <i>A kind of seed,</i> (L,) or <i>grain;</i> (Mgh;) the <i>same as</i> <br>\
+                  الحَبَّةُ السَّوْدَا=ءُ [<i>the black aromatic seed of a species of nigella; a sort of all-spice</i>]; (K;) or said to be so: (Mgh:) or it is of Persian origin: (K:) so it is accord. to Ed-Deenäwaree [AHn]: (TA:) but some say that الحبّة السوداء is the same as الحَبَّةُ الخَضْرَا=ءُ. (TA in art. سود.)   </entryFree> <br>\
+' } );

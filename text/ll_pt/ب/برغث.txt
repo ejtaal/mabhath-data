@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>برغث</em>            1                  برغث<br>\
+<b>بُرْغُوثٌ</b>               1     <br>\
+                     بُرْغُوثٌ<br>\
+                     برغوث<br>\
+                     رغوث<br>\
+                  , (S, K,) also, accord. to Es-Suyootee, with fet-h and with kesr to the first letter, and Dmr says the like; [so that it is app. written also بَرْغُوثٌ, as it is commonly pronounced by the vulgar, though it is generally said that there is no word of this measure except صَعْفُوق; and بِرْغَوْثٌ, like بِرْذَوْنٌ, for there is no word of the measure فِعْلُولٌ;] but each of these two forms requires proof; (MF;) [like the Hebr. <H>165</H>, which, accord. to Gesenius, is undoubtedly from an Æthiopic root signifying “to spring,” “to dance;” The <i>flea;</i>] <i>a certain insect</i> (دُوَيْبَّة), <i>resembling the</i> <br>\
+                  حُرْقُوص; (TA;) <i>well known:</i> (K:) [a coll. gen. n.: n. un. with ة:] pl. بَرَاغِيثُ. (S.)   </entryFree> <br>\
+' } );

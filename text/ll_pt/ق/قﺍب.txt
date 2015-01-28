@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;قاب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  قاب<br>\
+&lt;entryFree id=&quot;n35017&quot; key=&quot;قَاَبَ الطَّعَامَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     قَاَبَ الطَّعَامَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (As, S, O, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     قَاََ<br>\
+                  &lt;/form&gt;, inf. n. قَاْبٌ, (K,) &lt;i&gt;He ate the food.&lt;/i&gt; (As, S, O, K.) ―         -b2-  And قَاَبَ المَا=ءَ <br>\
+                  &lt;i&gt;He drank the water;&lt;/i&gt; as also قَيِبَهُ: (K:) or &lt;i&gt;he drank all the water that was in the vessel.&lt;/i&gt; (As, S, O, K.) ―         -b3-  And قَيِبَ مِنَ الشَّرَابِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     قَاََ<br>\
+                  &lt;/form&gt;, inf. n. قَاْبٌ and قَاَبٌ, (K, TA,) the latter thus (مُحَرَّكَة), agreeably with analogy, (TA, [but in the CK قَا=ب,]) &lt;i&gt;He became filled with the beverage;&lt;/i&gt; (Lth, K;) as also قَاَبَ مِنْهُ: (Lth:) or &lt;i&gt;he drank the beverage:&lt;/i&gt; (TA:) and, or simply قَيِبَ, like صَيِبَ, (S,) &lt;i&gt;he drank much water.&lt;/i&gt; (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n35018&quot; key=&quot;قَوُوبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قَوُوبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مِقْاَبٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n35019&quot; key=&quot;اـِنَا=ءٌ قَوْاَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنَا=ءٌ قَوْاَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      قَوْاَبِىٌّ <br>\
+                  &lt;i&gt;A vessel that takes,&lt;/i&gt; or &lt;i&gt;receives, much water:&lt;/i&gt; (O, K:) the latter epithet expl. by Lth as signifying &lt;i&gt;taking,&lt;/i&gt; or &lt;i&gt;receiving, much.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n35020&quot; key=&quot;قَوْاَبِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قَوْاَبِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n35021&quot; key=&quot;مِقْاَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِقْاَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, O, K) and ↓ <br>\
+      قَوُوبٌ (K) One &lt;i&gt;who drinks much water:&lt;/i&gt; (S, O:) or one &lt;i&gt;who drinks much.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

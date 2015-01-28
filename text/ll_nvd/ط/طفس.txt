@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'طفسطِنْفِسَةٌ and its variations: see art طنفس.<br>\
+' } );

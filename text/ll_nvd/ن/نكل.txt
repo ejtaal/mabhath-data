@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'نكل1<br>\
+نَكِلَ<br>\
+, aor. يَنْكُلُ, see 1 in art. فضل.<br>\
+النِّكْلُ<br>\
+signifies أَلَّذِى يُنْكِلُ أَقْرَانَهُ. (A, art.<br>\
+عض.) ―<br>\
+-b2-  See نَكَلٌ.<br>\
+نَكَلٌ<br>\
+and ↓ نِكْلٌ: see بَدَلٌ.<br>\
+نَكَالٌ<br>\
+Any punishment serving to give warning<br>\
+to others than the sufferer: (M, K, TA:) or<br>\
+that restrains the offender from repeating the<br>\
+offence. (Bd, ii. 6.)<br>\
+' } );

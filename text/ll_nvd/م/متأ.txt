@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'متأ1<br>\
+مَتَأَ, aor.<br>\
+مَتَاَ, He beat a person with a staff or<br>\
+stick. (S, K.) ―<br>\
+-b2-  Also, inf. n. مَتْءٌ, (TA,) He<br>\
+extended, or stretched out, a rope: (S, K:) a<br>\
+dial. form of مَتَا. [See art. متو]. (S.)<br>\
+' } );

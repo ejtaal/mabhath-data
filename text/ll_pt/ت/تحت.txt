@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>تحت</em>            1                  تحت<br>\
+<b>تَحْت</b>               1     <br>\
+                     تَحْت<br>\
+                     حت<br>\
+                     تحت<br>\
+                   is the <i>contr. of</i> <br>\
+                  فَوْق: (Msb, K:) and التَّحْتُ [signifying <i>The location that is beneath, below,</i> or <i>under,</i>] is opposed to الفَوْقُ, and is used in relation to that which is separate from another thing; الاَسْفَلُ being used in relation to that which is united with [or a part of] another thing. (Kull.) Sometimes, (K,) تَحْت is an adv. n., (Msb, K,) having a vague signification, its meaning not being clear unless it is prefixed to another word, as in the phrase هٰذَا تَحْتَ هٰذَا [<i>This is beneath, below,</i> or <i>under, this</i>]. (Msb.) And sometimes, it is a simple noun; (K;) in which case, [not having the article ال,] it is indecl., with dammeh for its termination, (K, and I&#39;Ak p. 204,) provided that the noun to which it should be prefixed is suppressed, and the meaning of this is intended to be understood, but not the word itself; (I&#39;Ak ubi suprà;) as in مِنْ تَحْتُ [<i>Beneath, below,</i> or <i>under</i>]; (K;) and in the saying, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اَقَبٌ مِنْ تَحْتُ عَرِيضٌ مِنْ عَلُ<br>\
+                  </quote> [<i>Lean beneath; broad above</i>]: otherwise, it is decl.; (I&#39;Ak ibid.;) as in تَجْرِي مِنْ تَحْتِهَا الاَنْهَارُ [<i>Rivers running beneath them</i>]; (Kur ii. 23, &amp;amp;c.;) i.e., beneath their trees, (Bd, Jel,) and their pavilions. (Jel.) [You say also, فُلَانٌ تَحْتَ اَمْرِ <br>\
+                  فُلَانٍ (assumed tropical:)  <i>Such a one is under the command, rule,</i> or <i>authority, of such a one.</i> And فُلَانٌ تَحْتَهُ فُلَانَةُ (assumed tropical:)  <i>Such a one has as his wife such a woman:</i> see an ex. in a verse cited voce اـِذَا. The dim. is ↓ <br>\
+      تُحَيْت: you say, هٰدَا تُحَيْتَ هٰذَا, and مِنْ تُحَيْتِ <br>\
+                  هٰذَا, <i>This is a little beneath, below,</i> or <i>under, this.</i>] ―         -b2-  التَّحْتُ is also the sing. of التُّحُوتُ, (IAth, TA,) which latter [in the CK erroneously written التُّحُتُ] signifies <i>The low, base, vile,</i> or <i>ignoble, persons.</i> (A, IAth, K.) It is said in a trad., لَا تَقُومُ السَّاعَةُ حَتَّى تَظْهَرَ التُّحُوتُ وَ تَهْلِكَ <br>\
+                  الوُعُولُ, i. e. [<i>The hour</i> of resurrection <i>will not come until</i>] <i>the low,</i> or <i>ignoble, persons</i> [<i>shall prevail</i>], <i>and the noble persons</i> [<i>shall perish</i>]: (A, IAth, TA:) or, as some say, <i>until the treasures that are beneath the earth appear.</i> (TA.) And in another trad. it is said that among the signs of the resurrection shall be this: اَنْ يَعْلُو <br>\
+                  التُّحُوتُ الوُعُولَ <br>\
+                  <i>That the weak of mankind shall have ascendency over the strong.</i> (TA.)    </entryFree> <br>\
+<b>تَحْتَانِىٌّ</b>               1     <br>\
+                     تَحْتَانِىٌّ<br>\
+                     حت<br>\
+                     تحتانى<br>\
+                     تحتاني<br>\
+                   [<i>Of,</i> or <i>relating to, the location that is beneath, below,</i> or <i>under; inferior; lower;</i>] rel. n. of تَحْت, like as فَوْقَانِىٌّ is of فَوْق: ا and ن being very often added in the rel. n. (TA.) [تُحَيْت dim. of تَحْت, q. v.]   </entryFree> <br>\
+' } );

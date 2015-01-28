@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'هدل1<br>\
+هَدَلَ<br>\
+He uttered a cry: see هَدَرَ, in two<br>\
+places.<br>\
+5<br>\
+تَهَدَّلَ<br>\
+It hung down; [it dangled;] said of<br>\
+a branch of a tree, (S, TA,) and of fruit; it<br>\
+hung loosely; said of the former. (TA.)<br>\
+مِشْفَرٌ أَهْدَلُ<br>\
+[A camel&#39;s lip] flaccid, or pendulous. (K, TA.)<br>\
+' } );

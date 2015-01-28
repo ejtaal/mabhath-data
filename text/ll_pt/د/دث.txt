@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>دث</em>            1                  دث<br>\
+<b>دَثَّ السَّمَا=ءُ</b>               1     <br>\
+                     دَثَّ السَّمَا=ءُ<br>\
+                     دث السما=ء<br>\
+                  , (L,) or دَثَّت, (TA,) aor.      <br>\
+                     دَثِ٣َ<br>\
+                  , inf. n. دَثٌّ, <i>The sky sent down rain such as is termed</i> <br>\
+                  دَثّ; i. e. <i>weak rain;</i> or <i>the weakest and lightest of rain.</i> (L, TA.)       -A2-  دَثَّهُمُ السَّمَا=ءُ, (L,) or دَثَّتْهُمُ, (TA,) aor.      <br>\
+                     دَثُ٣َ<br>\
+                  , inf. n. as above, <i>The sky rained upon them rain such as is termed</i> <br>\
+                  دَثّ. (L, TA.) ―         -b2-  دُثَّتِ الاَرْضُ, inf. n. as above, <i>The land was watered by rain such as is termed</i> <br>\
+                  دَثّ. (L.)    </entryFree> <br>\
+<b>دَثٌّ</b>               1     <br>\
+                     دَثٌّ<br>\
+                     دث<br>\
+                  <i>Weak rain;</i> as also ↓ <br>\
+      دِثَاثٌ; (S, K;) the latter [in the CK دَثاث, but it is] with kesr: or the <i>weakest and lightest of rain;</i> and the pl. is دِثَاثٌ: or, accord. to IAar, <i>i. q.</i> <br>\
+                  رَكٌّ: (TA:) or رَكٌّ signifies rain exceeding what is termed دَثٌّ. (K in art. رك.)    </entryFree> <br>\
+<b>سَمَا=ءٌ دَثَّةٌ</b>               1     <br>\
+                     سَمَا=ءٌ دَثَّةٌ<br>\
+                     سما=ء دثه<br>\
+                     سما=ء دثة<br>\
+                  <i>A sky sending down rain such as is termed</i> <br>\
+                  دَثّ. (L, TA.)    </entryFree> <br>\
+<b>دِثَاثٌ</b>               1     <br>\
+                     دِثَاثٌ<br>\
+                     دثاث<br>\
+                  : see دَثٌّ; of which it is said to be a syn. and a pl.    </entryFree> <br>\
+<b>اَرْضٌ مَدْثُوثَةٌ</b>               1     <br>\
+                     اَرْضٌ مَدْثُوثَةٌ<br>\
+                     ذ<br>\
+                  <i>Land watered by rain such as is termed</i> <br>\
+                  دَثّ. (L.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'جلنارجُلَّنَارٌ The flower of the pomegranate: an arabicized word, from گُلْنَارْ, (K,) which is Persian,<br>\
+composed of گُلْ “ a flower,” and نَارْ “ a pomegranate. ” (MF.) It is said that whoever swallows<br>\
+three grains of it, of the smallest that may be,<br>\
+(K,) on the condition of his taking them with his<br>\
+mouth from the tree, before their opening, at<br>\
+sunrise, on a Wednesday, (Tedhkiret Dáwood,<br>\
+TA,) will not have ophthalmia in that year. (K.)<br>\
+' } );

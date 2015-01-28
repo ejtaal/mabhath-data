@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>ديبوذ</em>            1                  ديبوذ<br>\
+<b>دَيْبُوذ</b>               1     <br>\
+                     دَيْبُوذ<br>\
+                     ذ<br>\
+                  <i>A garment,</i> or <i>piece of cloth, having a double woof;</i> expl. by ثَوْبٌ ذُو نِيرَيْنِ: pl. ↓ <br>\
+      دَيَابُوذٌ [an anomalous form of pl.] and دَيَابِيذ: (Kudot;:) or ↓ <br>\
+      دَيَابُوذٌ has this signification; expl. by ثَوْبٌ <br>\
+                  يُنْسَجُ بِيرَيْنِ; [in form] as though [an irreg.] pl. or دَيْبُوذٌ, of the measure فَيْعُولٌ: (S, L:) an arabicized word, from the Persian دُو بُوذ [or دُو پُود]: (A &#39;Obeyd, S, L, K: *) sometimes arabicized with an unpointed د [for its final letter]. (S, L, K.) [See نِيرٌ.]    </entryFree> <br>\
+<b>دَيَابُوذٌ</b>               1     <br>\
+                     دَيَابُوذٌ<br>\
+                     ذ<br>\
+                  : see above, in two places.   </entryFree> <br>\
+' } );

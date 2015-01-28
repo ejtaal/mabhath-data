@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'نثل1<br>\
+نَثَلٌ<br>\
+He cleansed an intestine: see مُبْعَرٌ.<br>\
+نَثُولٌ<br>\
+A lean, or emaciated, woman. (IAar,<br>\
+TA, art. جمل.)<br>\
+نَثِيلٌ<br>\
+The dust, or earth, of the foundations<br>\
+of a house. (TA, art. ثوب.)<br>\
+نَثِيلَةُ بِئْرٍ<br>\
+The earth that is around a well, that<br>\
+is seen from afar. (S, art. جبو.)<br>\
+' } );

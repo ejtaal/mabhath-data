@@ -1,0 +1,74 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ابط&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ابط<br>\
+&lt;entryFree id=&quot;n50&quot; key=&quot;اَبَطَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَبَطَهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  هَبَطَهُ, q. v.: (IAar, Az, Sgh, K:) said of God. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n51&quot; key=&quot;تابّطهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تابّطهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He put it&lt;/i&gt; (a thing, S Mgh, Msb) &lt;i&gt;beneath his&lt;/i&gt; <br>\
+                  اـِبْط [or &lt;i&gt;arm-pit&lt;/i&gt;]; (S, Msb, K;) or in &lt;pb n=&quot;7&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;his&lt;/i&gt; <br>\
+                  اـِبْط. (Mgh.) ―         -b2-  Hence, (K,) تَاَبَّطَ شَرَّا, the surname of Thábit the son of Jábir (S, K) ElFahmee: (S:) because they assert that the sword never quitted him: (S:) or because he put beneath his arm—pit a quiver of arrows, and took a bow, or put beneath his arm—pit a knife, and came to an assembly of Arabs, and smote some of them. (K.) It is invariable: but if you desire to express the dual or pl., you say, ذَوَا تَاَبَّطَ شَرًّا and ذَوُو تَاَبَّطَ <br>\
+                  شَرٍّا, or you say كِلَاهُمَا and كُلُّهُمْ. (S.) It does not admit of the formation of a dim., nor is it abridged: (S, K:) but some of the Arabs used to say تَاَبَّطُ [so written with refa], using a single word, accord. to Sb, as is said in the L. (TA.) Its rel. n. is ↓ <br>\
+      تَاَبَّطِىٌّ. (S, K.) ―         -b3-  [Hence also] تابّط فُلَانٌ فُلَانًا (assumed tropical:)  &lt;i&gt;Such a one placed such a one under his protection.&lt;/i&gt; (TA.) ―         -b4-  تابّط also signifies &lt;i&gt;He put his&lt;/i&gt; <br>\
+                  رِدَا=ء, (S,) or &lt;i&gt;garment,&lt;/i&gt; (Mgh, K,) &lt;i&gt;under his right arm, and then threw [a portion of] it over his left shoulder,&lt;/i&gt; (S, Mgh, K,) in prayer, or in اـِحْرَام; (Mgh;) as also اِضْطَبَعَ. (S.) [See also تَوَشَّحَ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n52&quot; key=&quot;اـِبْطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبْطٌ<br>\
+                     ابط<br>\
+                     اـبط<br>\
+                     ابط<br>\
+                     بط<br>\
+                  &lt;/form&gt; [The &lt;i&gt;armpit;&lt;/i&gt;] the &lt;i&gt;inner side of the shoulderjoint:&lt;/i&gt; (ISd, K:) or the &lt;i&gt;part beneath the&lt;/i&gt; <br>\
+                  جَنَاح [which signifies the &lt;i&gt;arm, upper arm, armpit,&lt;/i&gt; and &lt;i&gt;wing,&lt;/i&gt; &amp;amp;c.]: (S, Msb:) also written ↓ <br>\
+      اـِبِطٌ; (Msb, K;) which is said to be a dial. var. by some of the moderns; but this is strange, on account of what is said respecting اـِبِلٌ; (Msb;) for Sb says that there are only two substs. of the measure فِعِلٌ, which are اـِبِلٌ and حِبِرٌ; and one epithet, namely بِلِزٌ: other instances have been mentioned, but their transmission from Sb is not established: (Msb. in art. ابل:) it is also said that there is no other word like اـِبِلٌ; but this means, in its original form, and does not deny that there are words like it by the insertion of a second vowel like the first, such as this and many other words: (TA:) [see also اـِبِدٌ:] it is fem.; (Mgh;) or masc. and fem.; (S, Msb;) sometimes the latter; (Lh, K;) but the making it mase. is more approved: (TA:) Fr cites, from certain of the Arabs, the phrase, (S,) فَرَفَعَ السَّوْطَ حَتَّى بَرَقَتْ اـِبْطُهُ [&lt;i&gt;And he raised the whip so that his armpit shone&lt;/i&gt;]: (S, Msb:) the pl. is ا=بَاطٌ. (S, Msb, K.) ―         -b2-  [Hence,] ضَرَبَ <br>\
+                  ا=بَاطَ الاُمُورِ وَمَغَابِنَهَا (tropical:)  [&lt;i&gt;He hit the secret and occult particulars of the affairs&lt;/i&gt;]. (A, TA [followed by the words وَ اْشْتَقَّ ضَمَايِرَهَا وَبَوَاطِنَهَا, a pleonastic addition, merely explaining what goes before.]) ―         -b3-  And ضَرَبَ ا=بَاطَ المَفَازَةِ (tropical:)  [&lt;i&gt;He traversed the recesses of the desert&lt;/i&gt;]. (TA.) ―         -b4-  And اـِبْطُ جَبَلٍ (assumed tropical:)  &lt;i&gt;The foot,&lt;/i&gt; or &lt;i&gt;bottom,&lt;/i&gt; or &lt;i&gt;lowest part,&lt;/i&gt; (سَفَحْ,) &lt;i&gt;of a mountain.&lt;/i&gt; (TA.) ―         -b5-  And اـِبْطُ رَمْلٍ (assumed tropical:)  &lt;i&gt;The place where the main body of sand ends:&lt;/i&gt; (S:) or &lt;i&gt;what is thin, of sand:&lt;/i&gt; (K:) or &lt;i&gt;the lowest part of an oblong tract of sand collected together and elevated, where the main body thereof ends, and it becomes thin.&lt;/i&gt; (TA.) ―         -b6-  And اـِبعطُ الشِّمَالِ (assumed tropical:)  &lt;i&gt;Evil fortune; ill luck.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n53&quot; key=&quot;اـِبِطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبِطٌ<br>\
+                     ابط<br>\
+                     اـبط<br>\
+                     ابط<br>\
+                     بط<br>\
+                  &lt;/form&gt;: see اـِبْطٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n54&quot; key=&quot;اـِبْطِيٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبْطِيٌّ<br>\
+                     اـبط<br>\
+                     اـبطي<br>\
+                     اـبطيي<br>\
+                     ابطى<br>\
+                     ابطي<br>\
+                  &lt;/form&gt; [&lt;i&gt;Of,&lt;/i&gt; or &lt;i&gt;relating to, the armpit&lt;/i&gt;]. ―         -b2-  الاـِبْطِىُّ <br>\
+                  &lt;i&gt;The axillary vein.&lt;/i&gt; (Golius, on the authority of Meyd.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n55&quot; key=&quot;السَّيْفُ اـِبَاطٌ لِى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     السَّيْفُ اـِبَاطٌ لِى<br>\
+                     السيف اباط لى<br>\
+                     السيف اباط لي<br>\
+                  &lt;i&gt;The sword is beneath my&lt;/i&gt; <br>\
+                  اِبْط [or &lt;i&gt;armpit&lt;/i&gt;]: and السَّيْفُ عِطَا فِى وَ اـِبَاطِى <br>\
+                  &lt;i&gt;I put, or place, the sword upon my side, and beneath my&lt;/i&gt; <br>\
+                  اـِبْط. (TA.) And جَعَلْتُهُ <br>\
+                  &lt;i&gt;I put it&lt;/i&gt; (namely the sword, TA) &lt;i&gt;next my&lt;/i&gt; <br>\
+                  اـِبْط (K, TA.) The Hudhalee, (S, TA,) El-Mutanakhkhil, describing water to which he came to drink, (TA,) says, (S, TA,) accord. to the Deewán, but some ascribe the words to Taäbbata—Sharrà, (TA,) &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        شَرِبْتُ بِجَّمِهِ وَصَدَرْتُ عَنْهُ<br>\
+                     &lt;L&gt;<br>\
+                        وَ اَبْيَضُ صَارِمٌ ذَكَرٌ اـِبَاطِى<br>\
+                  &lt;/quote&gt; meaning [&lt;i&gt;I drank of the main body thereof, and returned from it, and a sharp steel—edged sword was&lt;/i&gt;] &lt;i&gt;beneath my&lt;/i&gt; <br>\
+                  اـِبْط: (S, TA:) or, accord. to one relation, the poet said, بِاَبْيَضَ صَارِمٍ ذَكَرٍ: and accord. to another, وَ عَضْبٌ صَارِمٌ: Skr says that the last word of the verse is a contraction of ا=بَاطِى: and Ibn-Es-Seeráfee, that it is originally ↓ <br>\
+      اـِبَاطِىٌّ; and if so, it is an epithet. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n56&quot; key=&quot;اـِبَاطِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبَاطِىٌّ<br>\
+                     اـبط<br>\
+                     اباطى<br>\
+                     اباطي<br>\
+                     آباطي<br>\
+                  &lt;/form&gt;: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n57&quot; key=&quot;تَاَبَّطِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاَبَّطِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 5.   &lt;/entryFree&gt; <br>\
+' } );

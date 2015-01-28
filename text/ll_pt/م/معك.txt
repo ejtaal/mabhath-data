@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>معك</em>            1                  معك<br>\
+<b>مُتَمَعَّكُ الفَرَسِ</b>               1     <br>\
+                     مُتَمَعَّكُ الفَرَسِ<br>\
+                     ذ<br>\
+                   (T, art. ردى) or الحِمَارِ (S, M, art. ردى) <i>The horses&#39;</i> or <i>asses&#39; place of rolling upon the ground.</i> See ردى.   </entryFree> <br>\
+' } );

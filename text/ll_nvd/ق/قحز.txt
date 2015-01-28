@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قحز1<br>\
+قَحَزَ<br>\
+It (an arrow) rose in the sky. (JSh,<br>\
+in TA, art. شخص.)<br>\
+' } );

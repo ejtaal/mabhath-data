@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ايض&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ايض<br>\
+&lt;entryFree id=&quot;n1605&quot; key=&quot;ا=ضَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ا=ضَ<br>\
+                     ا=ض<br>\
+                  &lt;/form&gt;, aor. يَيِيضُ, inf. n. اَيْضٌ, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  عَادَ; (ISk, S, M, Msb, * K;) as in the phrase ا=ضَ اـِلَى <br>\
+                  الشَّىْءِ [&lt;i&gt;He returned to the thing,&lt;/i&gt; i. e. &lt;i&gt;to the doing of the thing; he did the thing again,&lt;/i&gt; or &lt;i&gt;a second time&lt;/i&gt;]. (K.) ―         -b2-  And &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  رَجَعَ; (S, M, Msb, K;) as in the phrase ا=ضَ اـِلَى اَهْلِهِ [&lt;i&gt;He returned to his family&lt;/i&gt;]. (S, M.) ―         -b3-  In the phrase فَعَلْتُ كَذَا ↓ <br>\
+      اَيْضًا, the last word is the inf. n. of ا=ضَ in the sense of عَادَ, (ISK, IDrd, S, M, Msb, *) and in the sense of رَجَعَ: (IDrd, M:) and the meaning is, [&lt;i&gt;I did such a thing again,&lt;/i&gt; or &lt;i&gt;a second time;&lt;/i&gt;] &lt;i&gt;I returned to the doing of such a thing:&lt;/i&gt; (IDrd, M:) or &lt;i&gt;I did such a thing returning to what had preceded.&lt;/i&gt; (Msb, K. *) [It also, and more commonly, signifies &lt;i&gt;I did such a thing also.&lt;/i&gt;] When one says, ↓ <br>\
+      فَعَلْتُ ذٰلِكَ اَيْضًا [&lt;i&gt;I did that again,&lt;/i&gt; &amp;amp;c.], you say, ↓ <br>\
+      قَدْ اَكْيَرْتَ مِنْ اَيْضٍ [&lt;i&gt;Thou hast made much use of the expression&lt;/i&gt; <br>\
+                  اَيْضًا], and ↓ <br>\
+      دَعْنِى مِنْ اَيْضٍ [&lt;i&gt;Let me alone and cease from using the expression&lt;/i&gt; <br>\
+                  اَيْضًا]. (ISk, S.) ―         -b4-  اَيْضٌ also signifies (tropical:)  A thing&#39;s &lt;i&gt;becoming another,&lt;/i&gt; or &lt;i&gt;a different, thing;&lt;/i&gt; and &lt;i&gt;being changed from its state&lt;/i&gt; or &lt;i&gt;condition&lt;/i&gt; [&lt;i&gt;to another and a different state&lt;/i&gt; or &lt;i&gt;condition&lt;/i&gt;]: (Lth, K: *) so says Kh. (Ham p. 356.) And ا=ضَ كَذَا (tropical:)  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, became such a thing.&lt;/i&gt; (Lth, S, M, * K.) You say, ا=ضَ <br>\
+                  سَوَادُ شَعَرِهِ بَيَاضًا (A, TA) (tropical:)  &lt;i&gt;The blackness of his hair became whiteness.&lt;/i&gt; (TA.) And Zuheyr says, speaking of a land which he traversed, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        قَطَعْتُ اـِذَامَاالا=لُ ا=ضَ كَاَنَّهُ<br>\
+                     &lt;L&gt;<br>\
+                        سُيُوفٌ تُنَحَّى سَاعَةً ثُمَّ تَلْتَقِى<br>\
+                  &lt;/quote&gt; [&lt;i&gt;I traversed, when the mirage,&lt;/i&gt; or &lt;i&gt;the mirage of the morning, became as though it were swords which were removed a while, then met&lt;/i&gt;]. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1606&quot; key=&quot;اَيْضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and اَيْضًا: see above, in four places.   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وتا</em>            1                  وتا<br>\
+<b>وَتَاَ</b>               1     <br>\
+                     وَتَاَ<br>\
+                     ذ<br>\
+                  , aor. يَتَاُ, (K,) inf. n. وَتْءٌ, (TA,) <i>He was heavy and slow</i> in his gait, <i>by reason of age,</i> or <i>by nature.</i> (K.) Not mentioned by J. because esteemed by him not chaste. (TA.)    </entryFree> <br>\
+<b>تَيْتَا</b>               1     <br>\
+                     تَيْتَا<br>\
+                     ذ<br>\
+                  : see art. تا.   </entryFree> <br>\
+' } );

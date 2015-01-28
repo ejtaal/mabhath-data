@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'سلغ1<br>\
+سَلَغَتِ البَقَرَةُ, and الشَّاةُ, aor.<br>\
+سَلَغَ, inf. n. سُلُوغٌ,<br>\
+The bovine animal, and the sheep or goat, shed<br>\
+the tooth [next] behind that called the سَدِيس;<br>\
+(S, K;) as also صَلَغَت: (S:) this is in the sixth<br>\
+year; (S, K;) and سُلُوغٌ in cloven-hoofed animals<br>\
+is like بُزُولٌ in camels: for it is the furthest of<br>\
+their teeth [that they then shed]: (S:) or bred<br>\
+its [tooth called the] نَاب: (K:) or attained its<br>\
+full fatness: (TA: [or more probably, I think,<br>\
+its full age; for I think that سمنها in the TA is<br>\
+a mistranscription for سنّها: see أَسَنَّ:]) the epithet is ↓ سَالِغٌ and صَالِغٌ, applied [to the male<br>\
+and] likewise to the female, without ة: (S:) you<br>\
+say بَقَرَةٌ سَالِغٌ and نَعْجَةٌ سَالِغٌ: (Lth, K:) the<br>\
+young one of the بَقَرَة in the first year being<br>\
+termed عِجْلٌ, then تَبِيعْ, (S, Sgh, K,) or, correctly, accord. to IB, in the first year عِجْلٌ and<br>\
+تَبِيعٌ, (TA,) then جَذَعٌ, then ثَنِىٌّ, then رَبَاع ٍ, then<br>\
+سَدِيسٌ, then سَاِلغُ سَنَة ٍ and سَالِغُ سَنَتَيْن ِ, and so<br>\
+on; and the young one of the شَاة in the first year<br>\
+being termed حَمَلٌ or جَدْىٌ, then جَذَعٌ, then<br>\
+ثَنِىٌّ, then رَبَاع ٍ, then سَدِيسٌ, then سَالِغٌ: (S, Sgh,<br>\
+K:) and سُلَّغٌ is [the pl.,] applied to [bovine<br>\
+animals and] sheep or goats, like صُلَّغٌ. (TA.)<br>\
+―<br>\
+-b2-  You say also, سَلَغَ الحِمَارُ, meaning قَرِحَ [i. e.<br>\
+The ass finished teething]. (TA.)<br>\
+سَاِلغٌ: see the preceding paragraph.<br>\
+' } );

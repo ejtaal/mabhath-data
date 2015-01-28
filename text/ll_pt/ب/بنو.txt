@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>بنو</em>            1                  بنو<br>\
+<b>بَنَا</b>               1     <br>\
+                     بَنَا<br>\
+                     ب<br>\
+                     بان<br>\
+                     بن<br>\
+                     بنا<br>\
+                     بناء<br>\
+                     بننا<br>\
+                  , aor.      <br>\
+                     بَنُوَ<br>\
+                  : see art. بنى.    </entryFree> <br>\
+<b>اِبْنٌ</b>               1     <br>\
+                     اِبْنٌ<br>\
+                     ابان<br>\
+                     ابن<br>\
+                     ابنن<br>\
+                     ابن<br>\
+                     بان<br>\
+                     بنى<br>\
+                     ٱبن<br>\
+                     آب<br>\
+                  , held by some to be originally بَنَوٌ: see art. بنى.    </entryFree> <br>\
+<b>بُنُوَّةٌ</b>               1     <br>\
+                     بُنُوَّةٌ<br>\
+                     بن<br>\
+                     بنى<br>\
+                     بنوه<br>\
+                     بنوة<br>\
+                  : see art. بنى.    </entryFree> <br>\
+<b>بَنَوِيٌّ</b>               1     <br>\
+                     بَنَوِيٌّ<br>\
+                     بنوى<br>\
+                     بنوي<br>\
+                     نواة<br>\
+                     نوى<br>\
+                  : see art. بنى.   </entryFree> <br>\
+' } );

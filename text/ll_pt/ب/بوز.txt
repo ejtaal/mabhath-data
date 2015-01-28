@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>بوز</em>            1                  بوز<br>\
+<b>بَازٌ</b>               1     <br>\
+                     بَازٌ<br>\
+                     از<br>\
+                     باز<br>\
+                     باز<br>\
+                     بازي<br>\
+                  <i>i. q.</i> <br>\
+                  بَازٍ; [see art. بزو;] (S, K;) a dial. var. of the latter; (S;) as also بَاْزٌ: (IJ, TA:) dual.    </entryFree> <br>\
+<b>بَازَانِ</b>               1     <br>\
+                     بَازَانِ<br>\
+                     باز<br>\
+                     بازان<br>\
+                  : (K:) pl. [of pauc.] اَبْوَازٌ and [of mult.] بِيزَانٌ: (S, K:) the dual of بَازٍ is بَازِيَانِ; (K;) and the pl. is بُزَاةٌ (S, K) and بَوَازٍ. (K.)   </entryFree> <br>\
+' } );

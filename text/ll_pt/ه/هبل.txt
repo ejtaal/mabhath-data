@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>هبل</em>            1                  هبل<br>\
+<b>هَبِلَتْ</b>               1     <br>\
+                     هَبِلَتْ<br>\
+                     ذ<br>\
+                  , inf. n. هَبَلٌ: see عَمِلَ.    </entryFree> <br>\
+<b>اِهْتَبَلَ</b>               1     <br>\
+                     اِهْتَبَلَ<br>\
+                     ذ<br>\
+                  : see 5 in art. حفو. ―         -b2-  <i>I. q.</i> <br>\
+                  تَحَيَّنَ. (TA.)    </entryFree> <br>\
+<b>هَيْبَلِىٌّ</b>               1     <br>\
+                     هَيْبَلِىٌّ<br>\
+                     ذ<br>\
+                  <i>A Christian monk:</i> see اَبِيلٌ.    </entryFree> <br>\
+<b>مَهْبِلٌ</b>               1     <br>\
+                     مَهْبِلٌ<br>\
+                     ذ<br>\
+                  <i>The place of gestation:</i> see a verse cited voce مَحْبَلٌ.   </entryFree> <br>\
+' } );

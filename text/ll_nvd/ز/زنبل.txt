@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'زنبلزِنْبِيلٌ and زَنْبِيلٌ dial. vars. of زَبِيلٌ, mentioned<br>\
+in art. زبل [q. v.]: pl. زَنَابِيلُ. TA.)<br>\
+' } );

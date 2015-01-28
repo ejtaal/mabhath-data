@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'حسل8<br>\
+احتسل He hunted, caught, snared, or entrapped, the [young lizards termed] حُسُول, pl. of<br>\
+حِسْلٌ. (O, K. *)<br>\
+حِسْلٌ The young one of the [kind of lizard<br>\
+called] ضَبّ, (AZ, S, Mgh, K,) when it first<br>\
+comes forth from its egg: (AZ, S, K:) it is next<br>\
+called غَيْدَاقٌ; then, مُطَبِّخٌ; then, خُضَرِمٌ; and<br>\
+then, ضَبٌّ: (S and L voce مُطَبِّخٌ: [but see this<br>\
+word:]) pl. [of pauc.] أَحْسَالٌ (K) and [of mult.]<br>\
+حُسُولٌ (S, K) and حِسْلَانٌ, with kesr, and حِسَلَةٌ,<br>\
+(K, TA,) with kesr and then fet-h. (TA. [In the<br>\
+CK حَسِلَةٌ.]) [Hence,] أَبُو الحِسْلِ, (S,) or أَبُو<br>\
+حِسْلٍ, and ↓ أَبُو حُسَيْلٍ, (K,) The [lizard called]<br>\
+ضَبّ. (S, K.) [Hence also,] لَا آتِيكَ سِنَّ الحِسْلِ,<br>\
+i. e. I will not come to thee ever, (S, K,) until thy<br>\
+death: (S:) because the tooth of the حسل does<br>\
+not fall out: (S, K:) a prov. (S.)<br>\
+حُسَيْلٌ: see حِسْلٌ [of which it is the dim.].<br>\
+' } );

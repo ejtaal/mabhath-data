@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'بمبَمٌّ [The bass in music; used in this sense in<br>\
+the present day: or particularly the bass notes<br>\
+of the lute: in this sense F seems to have understood the saying of ISd that] the بَمّ of the lute<br>\
+is well known: (M, K: [in the CK, البَمَّ مِنَ<br>\
+العُوْدِ او الوَتَرِ الخ is erroneously put for البَمُّ مِنَ<br>\
+العُودِ م أَوِ الوَتَرُ الخ:]) or (so in the K) it is the<br>\
+thick [or bass] chord of the lute: (S, K:) the<br>\
+word is foreign: (M:) [in Persian بَمْ:] Az says<br>\
+that it is not Arabic. (TA.)<br>\
+بُمٌّ i. q. بُومٌ, q. v. (K.)<br>\
+' } );

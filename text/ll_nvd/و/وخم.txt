@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'وخم5<br>\
+تَوَخَّمَ<br>\
+see 10.<br>\
+10<br>\
+اِسْتَوْخَمَهُ<br>\
+He found it (food) to be unwholesome; as also ↓ تَوَخَّمَهُ: (JK, K:) he<br>\
+found it (a land) to be insalubrious: (TA:) he<br>\
+found it (a country or town) to disagree with<br>\
+its inhabitants. (S, Msb.) ―<br>\
+-b2-  مَا أَسْتَوْخِمُ أَنْ<br>\
+أَصْحَبَكَ: see 5 in art. جدب.<br>\
+وَخْمٌ<br>\
+A heavy person (K) [i. e., dull].<br>\
+وَخَمٌ<br>\
+A tainted condition of the air, engendering pestilential diseases. (TA.)<br>\
+وَخِيمٌ<br>\
+Unwholesome food: (Mgh:) unsuitable<br>\
+food. (K.)<br>\
+' } );

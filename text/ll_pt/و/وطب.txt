@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>وطب</em>            1                  وطب<br>\
+<b>وَطْبٌ</b>               1     <br>\
+                     وَطْبٌ<br>\
+                     ذ<br>\
+                  <i>A skin</i> (سِقَاءٌ) <i>in which milk is put,</i> (S, K,) <i>specially used for that purpose:</i> (S:) or <i>a skin in which are put clarified butter and milk:</i> (Mejma&#39; el-Bihár, &amp;amp;c.:) it is <i>made of the skin of an animal such as is termed</i> <br>\
+                  جَذَعٌ, [<i>meaning a goat in its second year,</i>] or <i>what is above that</i> [<i>in age</i>]: (ISk, S, K:) the skin of a sucking kid, in which milk is put, is called شَكْوَةٌ; and that  of one that is weaned, بَدْرَةٌ; and the like of a شكوة, in which clarified butter is put, عُكَّةٌ; and the like of a بدرة, مِسْاَدٌ: (ISk, S:) see also بَدْرَةٌ: pl. of pauc. اَوْطُبٌ, and of mult. وِطَابٌ (S) and اَوْطَابٌ, (dev. with respect to analogy, (TA,) [accord. to most grammarians; but not so accord. to Fr, because its first radical letter is و;] and pl. pl. (i. e. pl. of اوطب, TA,) اَوَاطِبُ. (K.) ―         -b2-  وَطْبٌ (tropical:)  <i>A hard, rough, rude,</i> or <i>coarse, man:</i> syn. رَجُلٌ جَافٍ. (S, K.) ―         -b3-  وَطْبٌ (tropical:)  <i>A large breast:</i> (K:) likened to the skin so called. (TA.) ―         -b4-  صَفِرَتُ وِطَابُهُ (tropical:)  <i>He died:</i> or <i>he was slain:</i> (K:) the body&#39;s becoming empty of the soul is compared to the skin&#39;s becoming empty of the milk: or the meaning is <i>his blood issued forth from his body:</i> or, as some say, <i>his skins became empty of their milk;</i> a hostile attack having been made upon his camels, and no milch camel remaining in his possession. (TA.) [See similar sayings voce رفْدٌ; and see Ham., p. 34.]    </entryFree> <br>\
+<b>طبة</b>               1     <br>\
+                     طبة<br>\
+                     ذ<br>\
+                  , without teshdeed, [but whether طَبُةٌ or طِبَة is meant is not said,] <i>A piece of skin,</i> or <i>hide:</i> thought by ISd to be perhaps from الوَطْبُ: but the word commonly known is طبّة, with teshdeed, mentioned in art. طب. (TA.)    </entryFree> <br>\
+<b>وَطْبَةٌ</b>               1     <br>\
+                     وَطْبَةٌ<br>\
+                     ذ<br>\
+                  , occurring in a trad., accord. to one relation, and explained by En-Nadr as signifying The <i>kind of food called</i> <br>\
+                  حَيْسٌ, <i>made of dates and</i> <br>\
+                  اَقِط <br>\
+                  <i>and clarified butter:</i> but said to be erroneous: accord. to another relation, رطبة, which is erroneous: accord. to another, وَطِييَةٌ [q. v., app. the right reading]. (TA.) See حَيْسٌ.    </entryFree> <br>\
+<b>وَطْبَاءُ</b>               1     <br>\
+                     وَطْبَاءُ<br>\
+                     ذ<br>\
+                   (tropical:)  A woman <i>having large breasts:</i> (S, K:) as though having a وَطْب; (S;) i. e., carrying a وطب of milk. (TA.)   </entryFree> <br>\
+' } );

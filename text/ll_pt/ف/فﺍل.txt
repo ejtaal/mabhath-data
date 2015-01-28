@@ -1,0 +1,76 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فال&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فال<br>\
+&lt;entryFree id=&quot;n32834&quot; key=&quot;تَفْيِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     تَفْيِيلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is of the measure تَفْعِيلٌ from الفَاْلُ: (O, K, * TA: *) [and is app. &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  تَفَاُّلٌ, signifying The &lt;i&gt;auguring,&lt;/i&gt; &amp;amp;c.; or it may signify the &lt;i&gt;auguring,&lt;/i&gt; &amp;amp;c., &lt;i&gt;much:&lt;/i&gt; accord. to the TK, فَاَّلَهُ بِهِ means جَعَلَهُ يَتَفَاَّلُ بِهِ <br>\
+                  &lt;i&gt;he made him to augur,&lt;/i&gt; &amp;amp;c., &lt;i&gt;by it;&lt;/i&gt; but this, as is very often the case in the TK, is app. said only on the ground of conjecture: the only ex. that I have found, to show its true meaning, is that which here follows:] Ru-beh says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        لَا يَاْخُذُ التَّفْيِيلُ وَالتَّحَزِّى<br>\
+                     &lt;L&gt;<br>\
+                        فِينَا وَلَا قَذْفُ العِدَى ذُو الاَزِّ<br>\
+                  &lt;/quote&gt; [which seems evidently to mean, &lt;i&gt;The auguring,&lt;/i&gt; &amp;amp;c., or &lt;i&gt;auguring,&lt;/i&gt; &amp;amp;c., &lt;i&gt;much, and the divining, will not have any effect upon us; nor the enemies&#39; noisy reviling&lt;/i&gt; or &lt;i&gt;reproaching&lt;/i&gt;]: but AA has related it otherwise, substituting التَّاْفِيكُ [lit. the &lt;i&gt;lying&lt;/i&gt;] for التفييل; and has explained it as meaning &lt;i&gt;the enchanting;&lt;/i&gt; because it is a turning of a thing from its proper way, or mode. (O, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32835&quot; key=&quot;تفاّل بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تفاّل بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (ISk, S, M, MA,) or ↓ <br>\
+      تفا=ءل, (AZ, T, Msb,) or both, (K, TA, [accord. to the latter of which, it seems that the latter v. is formed from the former v., for the purpose of alleviating the pronunciation, and has become the popular form,]) &lt;i&gt;He augured,&lt;/i&gt; or &lt;i&gt;augurated, good, by it,&lt;/i&gt; or &lt;i&gt;from it;&lt;/i&gt; or &lt;i&gt;regarded it as a good omen;&lt;/i&gt; i. e., something uttered in his hearing: (AZ, ISk, T, S, M, * MA, Msb, K:) or so, and likewise &lt;i&gt;evil;&lt;/i&gt; (AZ, T, Msb, K;) accord. to the usage of some of the Arabs: (T:) [but in the latter case they generally said, تَطِيَّرَ مِنْهُ (q. v.): and in like manner they used these verbs in relation to the cries and flights of birds, and the motions of gazelles, &amp;amp;c.; as is stated in several of the lexicons, voce بَارِحٌ, &amp;amp;c. See also 2 and 8: and see فَاْلٌ.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَفَاََّ<br>\
+                  &lt;/form&gt; see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32836&quot; key=&quot;اِفْتِيَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِفْتِيَالٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [in my copies of the S written اِفْتِيَال] is of the measure اِفْتِعَالٌ from الفَاْلُ: (S, K, * TA: *) [in the PS and TK, it is said to be &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  تَفَاُّلٌ: it seems, however, that in the ex. here following, its exact signification, and whether it be used in an act. or a pass. sense, is doubtful; and that it is trans. without a prep.:] El-Kumeyt says, describing horses, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اـِذَا مَا بدَتْ تَحْتَ الخَوَافِقِ صَدَّقَتْ<br>\
+                     &lt;L&gt;<br>\
+                        بِاَيْمَنِ فَاْلِ الزَّاجِرِينَ اْفْتِيَالُهْا<br>\
+                  &lt;/quote&gt; [app. meaning, &lt;i&gt;When they appear beneath the standards,&lt;/i&gt; (perhaps standards set up as winningposts,) &lt;i&gt;the regarding them as of good omen,&lt;/i&gt; or &lt;i&gt;their being regarded as of good omen,&lt;/i&gt; (by reason of their excellent performance,) &lt;i&gt;verifies the happiest augury of the diviners:&lt;/i&gt; with respect to its being made fem. in this ex., though not regularly fem. in form, see صَرْفٌ, third sentence]. (S, TA.) ―         -b2-  [It has also another signification:] Fr says, اِفْتَاَلْتُ الرَّاْىَ is with hemz which is originally [a letter] other than hemz [app. meaning that the v. is originally اِفْتَيَلْتُ, which becomes changed by rule to اِفْتَلْتُ; and that the signification is the same as that of فَيَّلْتُ الرَّاْىَ, &lt;i&gt;I declared,&lt;/i&gt; or &lt;i&gt;esteemed, the judgment,&lt;/i&gt; or &lt;i&gt;opinion, weak;&lt;/i&gt; or &lt;i&gt;pronounced it to be bad,&lt;/i&gt; and &lt;i&gt;wrong,&lt;/i&gt; or &lt;i&gt;erroneous:&lt;/i&gt; perhaps the substitution of hemz for the medial radical letter is for the purpose of giving to the phrase a double meaning: or the hemz may be the original letter, and the phrase may be used ironically]. (O, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32837&quot; key=&quot;فَاْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَاْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, O, Msb, K,) and فَالٌ without ء is allowable, (Msb,) &lt;i&gt;A good omen;&lt;/i&gt; (PS;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  طِيَرَةٌ: (T, M, Msb, K:) it is when a man is sick, and he hears another say يَا سَالِمُ [O safe]; or seeking, and hears another say يَا وَاجِدُ [O finder]: (ISk, T, S, O, K: *) or it is when one hears a good saying, and augurs good by it: (Msb:) [therefore] it is said in a trad., كَانَ <br>\
+                  يُحِبُّ الفَاْلَ وَيَكْرَهُ الطِّيَرَةَ [&lt;i&gt;He&lt;/i&gt; (the Prophet) &lt;i&gt;used to like the&lt;/i&gt; <br>\
+                  فال, &lt;i&gt;and dislike the&lt;/i&gt; <br>\
+                  طِيَرَة]: (T, S, O:) [or it signifies so, and likewise &lt;i&gt;an evil omen:&lt;/i&gt; i. e.] it is used in relation to a good saying and to an evil saying, (AZ, T, Msb, K,) by some of the Arabs: (T:) it is said in a trad. [of the Prophet], يُعْجِبُنِى الفَاْلُ الصَّالِحُ [&lt;i&gt;The good&lt;/i&gt; <br>\
+                  فال <br>\
+                  &lt;i&gt;pleases me&lt;/i&gt;]; which shows that there is a sort of فال that is good and a sort that is not good: (TA:) and [in like manner] طَايِرٌ is applied to that which is good and that which is evil: (K in art. طير:) the pl. is اَفْوُلٌ [properly a pl. of pauc.], (S, O,) or فُوُولٌ [a pl. of mult.], (M,) or both: (K:) El-Kumeyt says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَلَا اَسْاَلُ الطَّيْرَ عَمَّا تَقُولُ<br>\
+                     &lt;L&gt;<br>\
+                        وَلَا تَتَخَالَجُنِى الاَفْوُلُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And I will not ask the birds respecting what they say, nor shall omens,&lt;/i&gt; or &lt;i&gt;good omens, contend with me as though pulling me in different directions&lt;/i&gt;]. (S, O.) ―         -b2-  لَا فَاْلَ عَلَيْكَ means &lt;i&gt;No harm shall befall thee;&lt;/i&gt; (T, O, K;) and &lt;i&gt;no evil fortune;&lt;/i&gt; and &lt;i&gt;no mischief.&lt;/i&gt; (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32838&quot; key=&quot;فَيِلُ اللَّحْمِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَيِلُ اللَّحْمِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (O, K,) or اللَّحْمِ ↓ <br>\
+      فَيْاَلُ, (T,) or both, (TA,) A man &lt;i&gt;having much flesh.&lt;/i&gt; (T, O, K, TA.) [See also فَيِّلٌ, in art. فيل.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32839&quot; key=&quot;الفِيَالُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الفِيَالُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain game of the boys&lt;/i&gt; (T, S, O, K, &lt;pb n=&quot;2326&quot; TEIform=&quot;pb&quot;/&gt; TA) &lt;i&gt;of the desert-Arabs,&lt;/i&gt; (TA,) &lt;i&gt;with earth,&lt;/i&gt; or &lt;i&gt;dust:&lt;/i&gt; (T:) &lt;i&gt;they hide a thing in earth,&lt;/i&gt; or &lt;i&gt;dust, and then divide it, and say, In which of them&lt;/i&gt; (S, O, K, TA) &lt;i&gt;twain&lt;/i&gt; (S, O, TA) &lt;i&gt;is it?&lt;/i&gt; (S, O, K, TA.) [See also الفَيَالُ, in art. فيل.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32840&quot; key=&quot;فَيْاَلُ اللَّحْمِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَيْاَلُ اللَّحْمِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see فَيِلُ اللَّحْمِ, above.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32841&quot; key=&quot;مُفَايِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُفَايِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [or مُفَايِلٌ (M and TA in art. فيل)] A boy &lt;i&gt;playing at the game called&lt;/i&gt; <br>\
+                  الفِيَال. (S, O. *)   &lt;/entryFree&gt; <br>\
+            &lt;div2 n=&quot;fAlw* &amp;amp;c.&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;&gt;<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فالوذ &amp;amp;c.&lt;/head&gt;    <br>\
+&lt;entryFree id=&quot;n32842&quot; key=&quot;فَالُوذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَالُوذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and فَالُوذَجٌ and فَالُوذَقٌ: see art. فلذ.   &lt;/entryFree&gt; <br>\
+' } );

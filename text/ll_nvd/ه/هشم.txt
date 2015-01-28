@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'هشم1<br>\
+هَشَمَهُ<br>\
+He crushed it.<br>\
+2<br>\
+هَشَّمَهُ<br>\
+, inf. n. تَهْشِيمٌ, He broke it [much, or<br>\
+so crushed it]; (TA;) namely, a dry thing, and<br>\
+anything hollow, such as the head, and the like.<br>\
+(TA in art. شدخ.)<br>\
+5<br>\
+تَهَشَّمَ<br>\
+It (a plant, or herbage,) became<br>\
+هَشِيم,<br>\
+i. e. dry, and broken in pieces.<br>\
+هَشِيمٌ<br>\
+A plant that is dry, and breaks, or is<br>\
+broken, in pieces. (S, Msb, K.)<br>\
+هَاشِمَةٌ<br>\
+A wound in the head which breaks the<br>\
+bone: see شَجَّةٌ.<br>\
+الكُرُّ الهَاشِمِىُّ<br>\
+: see كُرٌّ.<br>\
+' } );

@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'خاخَا and خَآءٌ: see the letter خ, and arts. خوأ<br>\
+and خى.<br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>هنم</em>            1                  هنم<br>\
+<b>هَيْنَمَ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     هَيْنَمَ<br>\
+                     ذ<br>\
+                  <i>He concealed,</i> or <i>kept secret,</i> a story; syn. اَسَرَّ. (A, art. جهر.)   </entryFree> <br>\
+' } );

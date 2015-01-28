@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>دستبند</em>            1                  دستبند<br>\
+<b>الدَّسْتَبَنْدُ</b>               1     <br>\
+                     الدَّسْتَبَنْدُ<br>\
+                     الدستبند<br>\
+                   [from the Pers. دَسْبَنْدْ] <i>A certain</i> <br>\
+                  <i>game of the Magians, which they thus call; i. q.</i> <br>\
+                  الدَّعْكَسَةُ: (S and K in art. دعكس:) <i>they turn round</i> [<i>in a circle,</i> as though imitating the revolutions of the “ host of heaven ”], <i>having taken one another by the hand,</i> [<i>in a manner</i>] <i>like dancing.</i> (K in that art.) [Hence probably originated the similar performances of certain Muslim darweeshes in celebrating what they term a ذِكْر, described in the works of several travellers, and in my own work on the Modern Egyptians.]   </entryFree> <br>\
+' } );

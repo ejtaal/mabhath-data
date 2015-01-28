@@ -1,0 +1,42 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وما&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وما<br>\
+&lt;entryFree id=&quot;n42367&quot; key=&quot;وَمَاَ اـِلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَمَاَ اـِلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor. يَمَاُ, inf. n. وَمْءٌ; (S;) and ↓ <br>\
+      اوما, (S, K, which is the chaste word, MF,) inf. n. اـِيمَا=ءٌ; (TA;) and ↓ <br>\
+      ومّا; (K;) &lt;i&gt;He made a sign to him.&lt;/i&gt; (K.) اَوْمَيْتُ [for اَوْمَاْتُ] is disallowed: (S:) [but see what follows in this paragraph]. Lth says, that الايماء is &lt;i&gt;the making a sign with the head&lt;/i&gt; or &lt;i&gt;the hand, as a sick man does with his head for the inclination and prostration in prayer:&lt;/i&gt; (TA:) and اوما بِرَاْسِهِ sometimes signifies &lt;i&gt;He&lt;/i&gt; [&lt;i&gt;made a sign with his head as though he&lt;/i&gt;] &lt;i&gt;said&lt;/i&gt; “ &lt;i&gt;No:&lt;/i&gt; ” Akh cites this verse: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اـِذَا قَلَّ مَالُ المَرْءِ قَلَّ صَدِيقُهُ<br>\
+                     &lt;L&gt;<br>\
+                        وَاَوْمَتْ اـِلَيْهِ بِالعُيُونِ الاَصَابِعُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;When the man&#39;s wealth becomes little, his friends become few; and the fingers, together with the eyes, make signs to him&lt;/i&gt;]; in which اومت is for اومات. (TA.) ―         -b2-  [For a further explanation of اوما, and the manner in which it is said to differ from اوبا, see art. وبا.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42368&quot; key=&quot;وَمَّاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     وَمَّاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1. ―         -b2-  ومّى بِالشَّىْءِ [for ومّا: as there is no such root as ومى:] &lt;i&gt;He took away the thing.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42369&quot; key=&quot;فُلَانٌ يُوَامِيُ فُلَانًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     فُلَانٌ يُوَامِيُ فُلَانًا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and يُوَايِمُ, [&lt;i&gt;Such a one agrees,&lt;/i&gt; or &lt;i&gt;vies, with such a one&lt;/i&gt;]. These two verbs are of two different dialects, or the former is formed by transposition from the latter. (K, TA.) ―         -b2-  ISh quotes, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَاَنَا الغذَاةَ مُوَامِيُهْ<br>\
+                  &lt;/quote&gt; meaning, accord. to Abu-l-Khattáb, “ And I, in the morning, shall see him, or it: ” syn. مُعَايِنُهُ. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَوْمَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42370&quot; key=&quot;استومى عَلَى الاَمْرِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استومى عَلَى الاَمْرِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [for استوما: as there is no such root as ومى:] &lt;i&gt;He made himself master of the thing:&lt;/i&gt; like استولى. (Fr.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42371&quot; key=&quot;وَامِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَامِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A misfortune; calamity:&lt;/i&gt; (S, K:) thought by ISd to be a subst. [not an act. part. n.] because no verb from which it could be derived is known. (TA.) ―         -b2-  وَقَعَ فِى وَامِيَةٍ <br>\
+                  &lt;i&gt;He fell into a misfortune&lt;/i&gt; or &lt;i&gt;calamity.&lt;/i&gt; (S.) ―         -b3-  ذَهَبَ ثَوْبِى فَمَا اَدْرِىمَا كَانَتْ وَامِيَتُهُ <br>\
+                  &lt;i&gt;My garment is lost, and I know not what misfortune has taken it away:&lt;/i&gt; (M, K:) or, &lt;i&gt;who has taken it.&lt;/i&gt; (Yaakoob, S.) The phrase without negation is also used. (L.) [See a similar phrase in art. لما.]   &lt;/entryFree&gt; <br>\
+' } );

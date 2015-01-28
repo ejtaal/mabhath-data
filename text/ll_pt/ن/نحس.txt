@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>نحس</em>            1                  نحس<br>\
+                     تَنَحَّسَ<br>\
+                   see 10.    </entryFree> <br>\
+<b>اِسْتَنْحَسْتُهُ عَنْ كَذَا</b>               1     <br>\
+                     اِسْتَنْحَسْتُهُ عَنْ كَذَا<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      تَنَحَّسْتُهُ: see 10 in art. سنح.   </entryFree> <br>\
+' } );

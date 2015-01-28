@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'زيح1<br>\
+زَاحَ, (S, A, K,) aor. يَزِيحُ, inf. n. زَيْحٌ (S,<br>\
+K) and زُيُوحٌ (MA, K) and زِيُوحٌ (K) and زَيَحَانٌ;<br>\
+(MA, K; [in the CK, erroneously, زَيْحان;])<br>\
+and ↓ انزاح; (A, K;) It (a thing, S) became<br>\
+distant, or remote: (S, A, K:) it went, went<br>\
+away, passed away, or departed. (S, K.) You<br>\
+say, زَاحَتْ عِلَّتُهُ (S, A, MA) and ↓ انزاحت (A)<br>\
+His pretext, pretence, or excuse, [or his malady,]<br>\
+became remote [or removed], or went away.<br>\
+(MA.) And زَاحَ عَنِّى البَاطِلُ What was false, or<br>\
+vain, ceased, passed away, or went away, from<br>\
+me. (TA, from a trad.) ―<br>\
+-b2-  And زَاحَ, aor. as<br>\
+above, i. q. تَأَخَّرَ [He, or it, went back or backwards, &amp;c.]. (TA in art. زح.)<br>\
+4<br>\
+ازاحهُ He made it (a thing, S) to be distant, or remote: [he removed it, did away with<br>\
+it, or caused it to cease:] he made it to go,<br>\
+go away, pass away, or depart. (S, K.) Hence<br>\
+the saying of El-Aashà, قَدْ أَزَحْنَا هُزَالَهَا [We<br>\
+had caused her leanness to cease]. (S.) And<br>\
+أَزَحْتُ عِلَّتَهُ: (S, A:) ازاح عِلَّتَهُ signifies He removed his pretext, pretence, or excuse; [or his<br>\
+malady;] or did away with it. (MA.)<br>\
+7<br>\
+إِنْزَيَحَ see 1, in two places.<br>\
+مَزَاحٌ A place to which one [goes away, or may<br>\
+go away; or] removes, or may remove, far away.<br>\
+(Ham p. 329.)<br>\
+' } );

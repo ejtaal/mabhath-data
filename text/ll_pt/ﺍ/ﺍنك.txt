@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انك&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انك<br>\
+&lt;entryFree id=&quot;n1397&quot; key=&quot;ا=نُكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=نُكٌ<br>\
+                     ا=نك<br>\
+                  &lt;i&gt;pure&lt;/i&gt; <br>\
+                  رَصَاص [or &lt;i&gt;lead&lt;/i&gt;]: or &lt;i&gt;black&lt;/i&gt; <br>\
+                  رِصِاص: (Msb:) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اُسْرُبُّ; (S, K;) i. e. رَصَاصٌ قَلْعِىٌّ; so says Kt; and Az says, I think it is an arabicized word: (TA:) or &lt;i&gt;white&lt;/i&gt; <br>\
+                  اسربّ: or &lt;i&gt;black&lt;/i&gt; <br>\
+                  اسربّ: or &lt;i&gt;pure&lt;/i&gt; <br>\
+                  اسربّ: (K:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  قَزْدِيرٌ [which is applied in the present day to &lt;i&gt;tin,&lt;/i&gt; and &lt;i&gt;pewter&lt;/i&gt;]: (Kr:) El-Kásim Ibn-Maan says, I heard an Arab of the desert say, هٰذَا رَصَاصٌ ا=نُكٌ, i. e. [&lt;i&gt;this is&lt;/i&gt;] &lt;i&gt;pure&lt;/i&gt; [&lt;i&gt;lead&lt;/i&gt;]: (TA:) it is of the measure اَفْعُلٌ, [originally اَاْنُكٌ,] (S, K,) which is one of the forms of pls., (S,) like اَفْلُسٌ; (Msb;) and there is no other word of this measure, (Az, S, K,) among sing. nouns, (Az, S,) except اَشُدٌّ [originally اَشْدُدٌ], (S, Sgh, K,) and ا=جُرٌ in the dial. of those who pronounce it without teshdeed: (Sgh:) it is disputed, however, whether اَشُدٌّ be a sing. or a pl.: (Az, TA:) [and as to ا=جُرٌ, see what follows:] or, accord. to some, (Msb,) ا=نُكٌ is of the measure فَاعُلٌ, (Kr, Msb,) and is the only word of that measure in Arabic: (Kr:) or it is a foreign word; and so are ا=جُرٌ and [the proper names] ا=مُلُ and كَابُلُ. (Msb.) It is said, in a trad., that he who listens to a singing female slave, ا=نُك shall be poured into his ears (S, TA) on the day of resurrection. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

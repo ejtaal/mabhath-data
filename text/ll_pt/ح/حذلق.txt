@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>حذلق</em>            1                  حذلق<br>\
+               </head> For several words mentioned under this head in the K, see art. حذق.   </div2> <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نحم</em>            1                  نحم<br>\
+<b>نَحَمَ</b>               1     <br>\
+                     نَحَمَ<br>\
+                     ذ<br>\
+                  , said of a horse, seems to be best rendered <i>He breathed pantingly,</i> or <i>hard, with a sound from the chest.</i> See 1 in art. ضبح.    </entryFree> <br>\
+<b>نَحِيمٌ</b>               1     <br>\
+                     نَحِيمٌ<br>\
+                     ذ<br>\
+                   signifies <i>A sound</i> (صَوْت) <i>from the chest</i> of the horse. (TA.)   </entryFree> <br>\
+' } );

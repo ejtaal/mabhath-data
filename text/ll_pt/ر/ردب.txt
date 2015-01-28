@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>ردب</em>            1                  ردب<br>\
+<b>اـِرْدَبٌّ</b>               1     <br>\
+                     اـِرْدَبٌّ<br>\
+                     ذ<br>\
+                  <i>A well-known</i> <br>\
+                  مِكْيَال [or <i>measure with which corn is measured</i>], (T,) <i>a large</i> <br>\
+                  مِكْيَال, (S, M, K,) <i>in Egypt,</i> (K,) [i. e.] <i>of the people of Egypt;</i> (T, S;) or <i>a certain measure of capacity well known in Egypt;</i> (Msb;) not correctly called a مِكْيَال for they do not measure with it, but with the وَيْبَة: (IB, TA:) <i>it comprises,</i> (يَضُمُّ, [so in the M, but in copies of the K وَيُضَمُّ, which signifies that it is also pronounced with damm,]) as they say, (M,) or <i>it takes,</i> (T,) <i>twenty-four times the measure called</i> <br>\
+                  صَاع, (T, M, Msb, K,) <i>of wheat,</i> (T,) i. e. <i>sixty-four times the measure called</i> <br>\
+                  مَنّ, (T, Msb,) the منّ here meant being the منّ of our country, (Az, [app. meaning El-&#39;Irák,]) and the صاع being that of the Prophet: (Msb:) or <i>six</i> <br>\
+                  وَيْبَات: (K:) the اردبّ of Egypt is six وَيْبَات; the وَيْبَة being four اَرْبَاع; the رُبْع, four اَقْدَاح; and the قَدَح, two hundred and thirty-two دَرَاهِم: (EsSuyootee in his “ Husn el-Mohádarah:”) the half of the اردبّ is called قَنْقَلٌ: (T:) the word اردبّ is affirmed by some to be arabicized: (MF:) [it is now vulgarly pronounced اَرْدَبّ:] the pl. is اَرَادِبُ. (Msb.) El-Akhtal says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        قَوْمٌ اـِذَا اْسْتَنْبَحَ الاَضْيَافُ كَلْبَهُمُ<br>\
+                     <L><br>\
+                        قَالُوا لِاُمِّهِمُ بُولِى عَلَى النَّارِ<br>\
+                     <L><br>\
+                        وَالخُبْزُ كَالعَنْبَرِ الهِنْدِىِّ عِنْدَهُمُ<br>\
+                     <L><br>\
+                        وَالقَمْحُ سَبْعُونَ اـِرْدَبًّا بِدِينَارِ<br>\
+                  </quote> [<i>Persons who, when the guests induce their dog to bark,</i> (see art. نبح,) <i>say to their mother,</i> “ Make water on the fire: ” <i>and bread is like Indian ambergris in their judgment, while wheat is seventy irdebbs for a deenár</i>]: the former of these two verses [whereof the latter only is cited in the S] is said by As and others to be the most severely-satirical verse uttered by any of the Arabs. (TA.) ―         -b2-  Also <i>A conduit in which water flows upon the surface of the ground.</i> (M, K.)    </entryFree> <br>\
+<b>اـِرْدَبَّةٌ</b>               1     <br>\
+                     اـِرْدَبَّةٌ<br>\
+                     ذ<br>\
+                  <i>A wide</i> <br>\
+                  بَالُوعَة [or <i>sink-hole</i>] <i>made of baked clay:</i> (T, K:) likened to the مِكْيَال above mentioned: pl. as above. (T.) [And <i>Any pipe of baked clay:</i> pl. اـِرْدَبَّاتٌ: see دَاخِنَةٌ.] ―         -b2-  And <i>i. q.</i> <br>\
+                  قِرْمِيدَةٌ [which may mean <i>A large baked brick,</i> or <i>a thing made of baked clay</i>]: (M, TA:) or <i>large baked bricks;</i> (S, K, TA;) which are called قِرْمِيدٌ. (S, TA.)   </entryFree> <br>\
+' } );

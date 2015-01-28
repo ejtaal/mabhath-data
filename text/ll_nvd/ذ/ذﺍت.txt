@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ذاتذَاتُ; dual. ذَوَاتَا; pl. ذَوَاتٌ: see art. ذو.<br>\
+ذَاتِىٌّ: and ذَاتِيَّةٌ: see art. ذو.<br>\
+' } );

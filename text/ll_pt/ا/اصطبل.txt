@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>اصطبل</em>            1                  اصطبل<br>\
+<b>اـِصْطَبْلٌ</b>               1     <br>\
+                     اـِصْطَبْلٌ<br>\
+                     اصطبل<br>\
+                     اـصطبل<br>\
+                  <i>A stable</i> (K) <i>for</i> <br>\
+                  دَوَابّ [i. e. <i>horses</i> or <i>mules</i> or <i>asses</i>]: (S [in some copies of which it is omitted] and K:) the ا is radical, because an augmentative does not occur at the beginning of a word of four or five letters unless derived from a verb: (S:) [probably from the barbarous Greek        <br>\
+      <orth lang=&quot;gr&quot;>σταβλίον</orth>:] AA says that it is not of the [genuine] language of the Arabs: (S:) IB says that it is a foreign word, used by the Arabs: (TA:) accord. to some, (TA,) it is of the dial. of Syria: (K, TA:) the pl. is اَصَاطِبُ: and the dim. اُصَيْطِبٌ. (TA.)   </entryFree> <br>\
+' } );

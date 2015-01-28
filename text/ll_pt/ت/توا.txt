@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>توا</em>            1                  توا<br>\
+<b>تَا=ءٌ</b>               1     <br>\
+                     تَا=ءٌ<br>\
+                     تا=ء<br>\
+                  <i>The name of the letter</i> <br>\
+                  ت, q. v.; as also تَا: pl. [of the former تَا=ءَاتٌ; and of the latter] اَتْوَا=ءٌ. (TA in باب الالف اللّينة.)    </entryFree> <br>\
+<b>تَايِىٌّ</b>               1     <br>\
+                     تَايِىٌّ<br>\
+                     ذ<br>\
+                   and تَاوِىٌّ rel. ns. of تَا=ءٌ and تَا the names of the letter ت; as also تَيَوِىٌّ: (TA ubi suprà:) whence قَصِيدَةٌ تَايِيَّةٌ and تَاوِيَّةٌ and تَيَوِيَّةٌ (T, K, TA, ubi suprà, [the last written in the CK تَيْوِيَّةٌ,] and the second is also mentioned in the S) <i>A</i> <br>\
+                  قصيدة <br>\
+                  <i>of which the</i> <br>\
+                  رَوِىّ. <i>is</i> <br>\
+                  ت (TA ibid.)   </entryFree> <br>\
+' } );

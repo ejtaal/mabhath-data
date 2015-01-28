@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ورا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ورا<br>\
+&lt;entryFree id=&quot;n41815&quot; key=&quot;وَرَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَرَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَرَاُ, &lt;i&gt;He repelled, pushed,&lt;/i&gt; or &lt;i&gt;thrust.&lt;/i&gt; (K.)       -A2-  وَرَاَ مِنَ الطَّعَامِ <br>\
+                  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, filled with food.&lt;/i&gt; (K.)       -A3-  مَا وُرِيْتُ, and ↓ <br>\
+      ما وُرِّيْتُ, &lt;i&gt;I knew not.&lt;/i&gt; (K.) بِالشَّىْءِ       -A4-  ما اُورِيْتُ <br>\
+                  &lt;i&gt;I knew not the thing,&lt;/i&gt; or &lt;i&gt;of the thing.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     وَرَّاَ<br>\
+                  &lt;/form&gt;and 4: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41816&quot; key=&quot;تورّات عَلَيْهِ الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تورّات عَلَيْهِ الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تودّات, &lt;i&gt;The earth became even,&lt;/i&gt; or &lt;i&gt;plain, over him:&lt;/i&gt; or &lt;i&gt;enclosed him: &amp;amp;c.&lt;/i&gt; (IJ, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41817&quot; key=&quot;استوراتِ الاـِبِلُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استوراتِ الاـِبِلُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The camels took fright and ran away, in a body, one after another:&lt;/i&gt; (As:) accord. to AZ, this is said when they have taken fright and ascended a mountain; but if they have taken fright and run away in a plain, one says استاورت: so in the dial. of the tribe of &#39;Okeyl. [Thus in the TA in this art.: but see اـِسْتَوَرتْ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41818&quot; key=&quot;وَرَا=ءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَرَا=ءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and وَرَا=ءُ and وَرَا=ءِ, indecl., (K,) an adverbial noun of place or time: (Bd, &amp;amp;c.:) J mentions it in art. ورى, regarding the      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     وَرُاَ<br>\
+                  &lt;/form&gt; as substituted for ى; and this is the opinion of the Koofees, and of all writers on inflexion, though disapproved by F, who, however, mentions it again in art. ورى as though belonging to that art.: (TA:) &lt;i&gt;Behind:&lt;/i&gt; and, contr., &lt;i&gt;before.&lt;/i&gt; (K.) In like manner, الوَرَا=ءُ [&lt;i&gt;The location that is behind,&lt;/i&gt; or &lt;i&gt;beyond;&lt;/i&gt; and &lt;i&gt;the time past:&lt;/i&gt; and, contr. &lt;i&gt;that is before,&lt;/i&gt; or &lt;i&gt;preceding&lt;/i&gt;]. (K.) Or it does not bear contr. meanings; but one meaning; namely, &lt;i&gt;what is concealed from one.&lt;/i&gt; (K, art. ورى.) Or it is a homonym; [but not a word of contr. meanings; as it signifies &lt;i&gt;what is behind,&lt;/i&gt; or &lt;i&gt;beyond, in respect of place,&lt;/i&gt; and &lt;i&gt;what is before in respect of time&lt;/i&gt;]. Fr. says, It is not allowable to say, of a man behind thee, that he is بَيْنَ يَدَيْكَ; nor of a man before thee, that he is وَرَا=ءَك; these expressions being only allowable [as synonymous] in cases relating to particular times of events or actions: thus one may say, وَرَا=ءَكَ بَرْدٌ شَدِيدٌ and بَيْنَ يَدَيْكَ برد شديد [meaning &lt;i&gt;Before thee is intense cold&lt;/i&gt;]: each of these expressions is allowable because the intense cold is a thing that is coming; so, as it will overtake thee, it is, as it were, behind thee; and as thou wilt attain to the period thereof, it is, as it were, before thee. It is said in the Kur, [xviii. 78,] كَانَ <br>\
+                  وَرَا=ءَهُمْ مَلِكٌ <br>\
+                  &lt;i&gt;There was before them a king:&lt;/i&gt; [because it has reference to a certain period, which might be said to be before them as they would attain to it, and behind them as it would overtake them: this passage Jelál-ed-Deen explains by saying, “ there was behind them when they returned, and before them now, a king. ”] Of the same kind also is the phrase مِن وَرَايِهِ جَهَنَّمُ [Kur, xiv. 19,] &lt;i&gt;Before him is hell:&lt;/i&gt; [for the same reason]. (TA.) ―         -b2-  وَيَكْفُرُونَ بِما وَرَا=ءَهُ, [Kur, ii. 85,] signifies &lt;i&gt;And they disbelieve in what&lt;/i&gt; [&lt;i&gt;hath been revealed&lt;/i&gt;] &lt;i&gt;beside that:&lt;/i&gt; syn. سِوَاهُ: (IAar:) or it may mean &lt;i&gt;after that.&lt;/i&gt; (Jel.) ―         -b3-  وراء is masc. and fem. (TA.) Its dim. is وُرَيِّيَةٌ, (K,) accord. to those who hold the      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     وَرُاَ<br>\
+                  &lt;/form&gt; to be a radical letter, not substituted for ى; namely, the Basrees: accord. to others, وُرَيَّةٌ and وُرَىٌّ. (TA.) ―         -b4-  [See also art. ورى.] ―         -b5-  رَجُلٌ مَانِعٌ مَا <br>\
+                  وَرَا=ءَ ظهْرِهِ: see زَبُّونَةٌ. ―         -b6-  وَرَا=ءٌ <br>\
+                  &lt;i&gt;A son&#39;s son,&lt;/i&gt; or &lt;i&gt;son&#39;s offspring.&lt;/i&gt; (K.) ―         -b7-  وَرَا=ءٌ <br>\
+                  &lt;i&gt;Bulky, and thick in the&lt;/i&gt; <br>\
+                  اَلْوَاح, or &lt;i&gt;shoulder-blades.&lt;/i&gt; (AAF.)   &lt;/entryFree&gt; <br>\
+' } );

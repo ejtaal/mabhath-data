@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'وكىوِكَآءٌ<br>\
+A tie: see an ex. voce اِسْتٌ, in art. سته.<br>\
+―<br>\
+-b2-  The tie, (S, Mgh, Msb, K,) which is a cord,<br>\
+(Msb,) of the head (S, Msb) of the<br>\
+قِرْبة, (S,<br>\
+Mgh, Msb, K,) &amp;c. (K.)<br>\
+' } );

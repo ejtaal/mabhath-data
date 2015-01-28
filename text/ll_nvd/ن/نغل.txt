@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'نغلنَغِلٌ<br>\
+[in the CK نَغْلٌ] A hide vitiated, or<br>\
+rendered unsound, (S, K,) in the tanning. (K.)<br>\
+إِبْنُ نَغِيلَةٍ<br>\
+The son of a female slave. (T in<br>\
+art. بنى.)<br>\
+' } );

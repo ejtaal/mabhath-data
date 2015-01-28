@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حجا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حجا<br>\
+&lt;entryFree id=&quot;n7132&quot; key=&quot;حَجَاَبِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     حَجَاَبِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَجَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He rejoiced in it,&lt;/i&gt; or &lt;i&gt;at it;&lt;/i&gt; namely, a thing, or an affair or event; (S, K;) as also حَجِىءَ به, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَجَاَ<br>\
+                  &lt;/form&gt;: (K:) or the latter, &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, attached to it, and tenacious of it;&lt;/i&gt; (S, K;) as also حَجِىَ به, without ء; and به ↓ <br>\
+      تحجّا: (S:) or &lt;i&gt;he laid,&lt;/i&gt; or &lt;i&gt;kept, hold upon it, and clave to it;&lt;/i&gt; (Fr, K;) as also حَجِىَ به, without ء; (Fr;) and حَجَاَبه, (TA,) and ↓ <br>\
+      تحجّا <br>\
+                  به. (Fr, K.) ―         -b2-  حَجَاَ عَنْهُ كذَا, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَجَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He kept,&lt;/i&gt; or &lt;i&gt;withheld, from him such a thing.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَحَجَّاَ<br>\
+                  &lt;/form&gt; see above, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n7133&quot; key=&quot;احتجا بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     احتجا بِهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He had recourse to him for protection.&lt;/i&gt; (TA in art. حجر.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n7134&quot; key=&quot;حَجِىءٌ بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَجِىءٌ بِهِ<br>\
+                     حجىء به<br>\
+                     حجىء بة<br>\
+                     حجيء به<br>\
+                     حجيء بة<br>\
+                  &lt;i&gt;Attached to, and tenacious of, him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (Fr, S.) ―         -b2-  اـِنَّهُ لَحَجِىءٌ اـِلَى بَنِى فُلَانٍ <br>\
+                  &lt;i&gt;Verily he is betaking himself for refuge,&lt;/i&gt; or &lt;i&gt;protection, to the sons of such a one.&lt;/i&gt; (AZ, K. *) ―         -b3-  هُوَ حَجِىءٌ <br>\
+                  بِكَذَا <br>\
+                  &lt;i&gt;He is adapted&lt;/i&gt; or &lt;i&gt;disposed, apt, meet, suited, suitable, fitted, fit, competent,&lt;/i&gt; or &lt;i&gt;proper, for such a thing;&lt;/i&gt; or &lt;i&gt;worthy of it:&lt;/i&gt; (Lh, K:) a dial. var. of حَجِىٌّ: (Lh:) you say, هُمَا حَجِيَانِ, and هُنَّ <br>\
+                  حَجَايَا. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n7135&quot; key=&quot;مَحْجَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَحْجَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A refuge; a place to which one has recourse for refuge&lt;/i&gt; or &lt;i&gt;protection.&lt;/i&gt; (Lh, K.)   &lt;/entryFree&gt; <br>\
+' } );

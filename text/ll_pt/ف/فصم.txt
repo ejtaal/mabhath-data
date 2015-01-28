@@ -1,0 +1,48 @@
+load_data( { book: 'll_pt', text: '<em>فصم</em>            1                  فصم<br>\
+<b>فَصَمَهُ</b>               1     <br>\
+                     فَصَمَهُ<br>\
+                     ذ<br>\
+                  , (S, M, Msb, K,) aor.      <br>\
+                     فَصِمَ<br>\
+                  , (M, Msb, K,) inf. n. فَصْمٌ, (S, M, Msb,) <i>He broke it</i> (S, M, Msb, K) <i>without separating:</i> (S, M, Msb:) [i. e. <i>he cracked it:</i>] and ↓ <br>\
+      فصّمهُ [<i>he cracked it much,</i> or <i>in several places</i>], (M, TA,) inf. n. تَفْصِيمٌ. (TA.) And فَصَمَ الخُرْزَةَ [<i>He cracked,</i> or <i>tore without separating, the seam,</i> or <i>suture,</i> of a skin] (K and TA in art. خرم: in the CK قَصَمَ and الخَرَزَةَ.) القَصْمُ, with ق, signifies “ the breaking so as to separate. (TA.) ―         -b2-  See also 4. ―         -b3-  (؟؟). said of a house, or tent, (K,) or of the side thereof, (M,) <i>It became thrown down,</i> or <i>demolished.</i> (M, K.) ―         -b4-  And وَصْمٌ signifies A thing&#39;s <i>being cracked.</i> (A&#39;Obeyd, TA.)    </entryFree> <br>\
+                     فَصَّمَ<br>\
+                   see the preceding paragraph.    </entryFree> <br>\
+<b>افصم المَطَرُ</b>               1     <br>\
+                     افصم المَطَرُ<br>\
+                     ذ<br>\
+                  <i>The rain passed away,</i> or <i>ceased.</i> (S, M, K.) And افصمت عَنْهُ الحُمَّى <br>\
+                  <i>The fever quitted him:</i> (S, K, * TA:) in the K, erroneously. افصم الحُمَّى. (TA.) And one says, ↓ <br>\
+      دَا=ءٌ يَفْصِمُ <br>\
+                  وَلَا يُفْصَمُ <br>\
+                  <i>A disease that breaks and does not pass away.</i> (TA.) ―         -b2-  And افصم is said of a stallion [camel], meaning <i>He ceased,</i> or <i>abstained, from covering.</i> (TA.)    </entryFree> <br>\
+                     تَفَصَّمَ<br>\
+                   see the next paragraph.    </entryFree> <br>\
+<b>انفصم</b>               1     <br>\
+                     انفصم<br>\
+                     ذ<br>\
+                  <i>It broke</i> (S, M, Msb, K) <i>without becoming separated:</i> (S. M, Msb:) [i. e. <i>it be came cracked:</i>] and ↓ <br>\
+      تفصّم has a similar meaning [i. e. <i>it became cracked much,</i> or <i>in several places</i>]. (S, M, K.) You say, انفصم ظَهْرُهُ <br>\
+                  <i>His back cracked.</i> (TA.) And انفصمت الدُّرَّةُ <br>\
+                  <i>The pearl cracked in one part thereof.</i> (TA.) ―         -b2-  And <i>It broke,</i> or <i>became severed,</i> or <i>cut off.</i> (K.) It is said in the Kur [ii. 257], لَا اْنْفِصَامَ لَهَا (S, M, Msb, TA) meaning <i>There shall be no breaking incident to it.</i> (M, TA.) ―         -b3-  And <i>It opened so as to form an interstice,</i> or <i>a gap.</i> (TA in art. شظى.)    </entryFree> <br>\
+<b>فصم السِّوَاكِ</b>               1     <br>\
+                     فصم السِّوَاكِ<br>\
+                     ذ<br>\
+                   [app. فَصْم, originally an inf. n., but probably, I think, a mistranscription for قَصْم,] <i>A fragment</i> [<i>of the stick with which the teeth are cleaned</i>]. (TA.)    </entryFree> <br>\
+<b>فَصْمَةٌ</b>               1     <br>\
+                     فَصْمَةٌ<br>\
+                     ذ<br>\
+                  <i>A crack in a wall.</i> (TA.)    </entryFree> <br>\
+<b>فَاْسٌ فَصِيمْ</b>               1     <br>\
+                     فَاْسٌ فَصِيمْ<br>\
+                     ذ<br>\
+                  <i>A large</i> [<i>hoe,</i> or <i>adz,</i> or <i>the like</i>]. (Fr, K.)    </entryFree> <br>\
+<b>اَفْصَمُ</b>               1     <br>\
+                     اَفْصَمُ<br>\
+                     ذ<br>\
+                   An anklet <i>much cracked.</i> (El-Hejeree, M, K. *)    </entryFree> <br>\
+<b>دُمْلُجٌ مَفْصُومٌ</b>               1     <br>\
+                     دُمْلُجٌ مَفْصُومٌ<br>\
+                     ذ<br>\
+                   [<i>A cracked armlet</i> of silver: to this, thrown down and neglected, Dhu-r-Rummeh likens a sleeping gazelle]. (S, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>سرهد</em>            1                  سرهد<br>\
+<b>سَرْهَدَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     سَرْهَدَ<br>\
+                     ذ<br>\
+                  , (S, K,) inf. n. سَرْهَدَةٌ, (S,) <i>He fed,</i> or <i>nourished,</i> a child <i>well.</i> (S, L, K.)       -A2-  And <i>He cut</i> a camel&#39;s hump [<i>in pieces:</i> see the pass. part. n., below]. (K.)    </entryFree> <br>\
+<b>سَرْهَدٌ</b>               1     <br>\
+                     سَرْهَدٌ<br>\
+                     ذ<br>\
+                   a term sometimes applied to The <i>fat of a camel&#39;s hump.</i> (S, L.)       -A2-  And <i>Much</i> water. (L.)    </entryFree> <br>\
+<b>مُسَرْهَدٌ</b>               1     <br>\
+                     مُسَرْهَدٌ<br>\
+                     ذ<br>\
+                   A <i>fat</i> camel&#39;s hump: (S, L, K:) or a camel&#39;s hump <i>cut in pieces.</i> (L.) ―         -b2-  <i>Supplied with the comforts and conveniences of life,</i> and <i>well fed:</i> and, with ة, a woman <i>fat, and well fed.</i> (L.) [Applied also to a young camel: see an ex. in a hemistich cited in the first paragraph of art. رجل.]   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كهرب</em>            1                  كهرب<br>\
+<b>كَهْرَبٌ</b>               1     <br>\
+                     كَهْرَبٌ<br>\
+                     ذ<br>\
+                   and كَهْرَبَا [or كَهْرُبَا] <i>A well-known yellow substance;</i> [<i>yellow amber</i>]: from the Persian كَاهُ رُبَا, i. e., “ carrying off straw, ” [on account of its electric attraction]. (TA.) See De Sacy&#39;s Chrest. Ar., sec. ed., iii. 468: and see حَوَرٌ.   </entryFree> <br>\
+' } );

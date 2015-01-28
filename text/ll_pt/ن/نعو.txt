@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نعو</em>            1                  نعو<br>\
+<b>نَعَاهُ</b>               1     <br>\
+                     نَعَاهُ<br>\
+                     ذ<br>\
+                  <i>He announced his death:</i> see a verse cited voce طُوبَالَةٌ.   </entryFree> <br>\
+' } );

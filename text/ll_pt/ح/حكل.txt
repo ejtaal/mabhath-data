@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>حكل</em>            1                  حكل<br>\
+<b>حَكَلَ</b>               1     <br>\
+                     حَكَلَ<br>\
+                     حكل<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>احكل عَلَىَّ الخَبَرُ</b>               1     <br>\
+                     احكل عَلَىَّ الخَبَرُ<br>\
+                     احكل علي الخبر<br>\
+                  <i>The information was dubious, confused,</i> or <i>vague, to me;</i> (Zj, S, K;) as also ↓ <br>\
+      حَكَلَ, (K,) and ↓ <br>\
+      احتكل: (S, * K, * TA:) and احكل الاَمْرُ (Msb) and ↓ <br>\
+      احتكل <br>\
+                  <i>The affair,</i> or <i>case, was dubious,</i> or <i>confused,</i> (Msb, TA,) عَلَيْهِ <br>\
+                  <i>to him.</i> (TA.)    </entryFree> <br>\
+<b>احتكل</b>               1     <br>\
+                     احتكل<br>\
+                     احتكل<br>\
+                  : see 4, in two places. ―         -b2-  Also <i>He learned a foreign language after Arabic.</i> (Fr, K.)    </entryFree> <br>\
+<b>حُكْلٌ</b>               1     <br>\
+                     حُكْلٌ<br>\
+                     حكل<br>\
+                  , [app. a pl., of which the sing. is not used; as though its sing. were اَحْكَلُ; like خُرْسٌ, pl. of اَخْرَسُ;] of animals, (TA,) <i>Having no voice,</i> or <i>sound, to be heard;</i> (S, K, TA;) like the ذَرّ [or young ones of ants], (K,) and نَمْل [or ants in general]: or the <i>mute</i> of birds and beasts. (TA.)       -A2-  الحُكْلُ is also [said to be] a name of <i>Solomon:</i> (K:) so, accord. to Lth, in the rejez of Ru-beh, where he says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        لَوْ اَنَّنِى اُتِيتُ عِلْمَ الحُكْلِ<br>\
+                  </quote> [<i>Were I gifted with the knowledge of Solomon</i>]. (TA.)    </entryFree> <br>\
+<b>حُكْلَةٌ</b>               1     <br>\
+                     حُكْلَةٌ<br>\
+                     حكله<br>\
+                     حكلة<br>\
+                  <i>A barbarousness,</i> or <i>vitiousness, in speech</i> or <i>utterance;</i> or <i>an impediment therein;</i> (S, Msb, K;) <i>so that one does not speak distinctly.</i> (S.) You say, فِى لِسَانِهِ حُكْلَةٌ [<i>In his speech,</i> or <i>utterance, is a barbarousness,</i> &amp;amp;c.]. (S.)    </entryFree> <br>\
+<b>حُكَلَةٌ</b>               1     <br>\
+                     حُكَلَةٌ<br>\
+                     حكله<br>\
+                     حكلة<br>\
+                  : see حُلَكَةٌ.    </entryFree> <br>\
+<b>حَكِيلَةٌ</b>               1     <br>\
+                     حَكِيلَةٌ<br>\
+                     حكيله<br>\
+                     حكيلة<br>\
+                  <i>A mispronunciation;</i> or <i>a word mispronounced;</i> syn. لُثْغَةٌ. (TA.)   </entryFree> <br>\
+' } );

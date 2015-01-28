@@ -1,0 +1,51 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كاب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كاب<br>\
+&lt;entryFree id=&quot;n36495&quot; key=&quot;كَيِبَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     كَيِبَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَاََ<br>\
+                  &lt;/form&gt;, inf. n. كَاْبَةٌ and كَا=بَةٌ (S, K) and كَاْبٌ (K) and كَاْبَا=ءُ; (TA;) and ↓ <br>\
+      اكتاب; (S, K;) &lt;i&gt;He was in an evil state, and broken&lt;/i&gt; [&lt;i&gt;in spirit&lt;/i&gt;] &lt;i&gt;by grief,&lt;/i&gt; or &lt;i&gt;mourning;&lt;/i&gt; (S, K;) &lt;i&gt;he was in grief, unhappy, sorrowful,&lt;/i&gt; or &lt;i&gt;sad.&lt;/i&gt; (K.) See also 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36496&quot; key=&quot;اكابهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اكابهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He caused him to grieve,&lt;/i&gt; or &lt;i&gt;mourn,&lt;/i&gt; or &lt;i&gt;to be unhappy, sorrowful,&lt;/i&gt; or &lt;i&gt;sad;&lt;/i&gt; (K;) &lt;i&gt;threw him into grief,&lt;/i&gt; or &lt;i&gt;mourning, &amp;amp;c.&lt;/i&gt; (TA.) ―         -b2-  اكاب <br>\
+                  &lt;i&gt;He was in grief,&lt;/i&gt; or &lt;i&gt;mourning; was unhappy, sorrowful, or sad:&lt;/i&gt; (K:) or &lt;i&gt;he entered upon a state of grief, mourning, unhappiness, sorrow,&lt;/i&gt; or &lt;i&gt;sadness;&lt;/i&gt; or &lt;i&gt;a state of being changed and broken in spirit by reason of intense anxiety.&lt;/i&gt; (TA.) See also 1.       -A2-  &lt;i&gt;He fell into destruction,&lt;/i&gt; or &lt;i&gt;ruin.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36497&quot; key=&quot;اكتاب وَجْهُ الاَرْضِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اكتاب وَجْهُ الاَرْضِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  [&lt;i&gt;The face of the earth,&lt;/i&gt; or &lt;i&gt;land, became of sad aspect&lt;/i&gt;]. (TA.) See 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36498&quot; key=&quot;كَيِبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَيِبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see كَيِيبٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36499&quot; key=&quot;كَاْبَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَاْبَا=ءُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Grief, mourning, unhappiness, sorrow,&lt;/i&gt; or &lt;i&gt;sadness:&lt;/i&gt; (K:) [in which sense the inf. n. كَا=بَةٌ is more commonly used:] or &lt;i&gt;intense grief, &amp;amp;c.:&lt;/i&gt; used both as an inf. n. and as an epithet. (TA.) See كَيِيبٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36500&quot; key=&quot;كُوَبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كُوَبَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تُوَبَةٌ, in the following phrase مَا بِهِ كوبةٌ <br>\
+                  &lt;i&gt;There is nothing in him for which he should be ashamed.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36501&quot; key=&quot;كَيِيبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَيِيبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, K) and ↓ <br>\
+      كَيِبٌ and ↓ <br>\
+      مَكْتَيِبٌ (K) A man &lt;i&gt;in an evil state, and broken&lt;/i&gt; [&lt;i&gt;in spirit&lt;/i&gt;] &lt;i&gt;by grief,&lt;/i&gt; or &lt;i&gt;mourning;&lt;/i&gt; (S, K;) &lt;i&gt;in grief, unhappy, sorrowful,&lt;/i&gt; or &lt;i&gt;sad.&lt;/i&gt; (K.) كَيِيبَةٌ and ↓ <br>\
+      كَاْبَا=ءُ <br>\
+                  &lt;i&gt;the same,&lt;/i&gt; as applied to a woman. (S.) ―         -b2-  الارض <br>\
+                  كَيِيبَةُ الوَجْهِ (tropical:)  [&lt;i&gt;The earth,&lt;/i&gt; or &lt;i&gt;land, is of sad aspect.&lt;/i&gt;] (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36502&quot; key=&quot;مُكْتَيِبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُكْتَيِبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; see كَيِيبٌ. ―         -b2-  رَمَادٌ مُكْتَيِبُ اللَّوْنِ <br>\
+                  &lt;i&gt;Ashes of a colour inclining to black;&lt;/i&gt; (S, K;) as is the colour of him who is in an evil state, or broken [in spirit] by grief. (S.)   &lt;/entryFree&gt; <br>\
+' } );

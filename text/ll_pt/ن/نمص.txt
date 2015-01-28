@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نمص</em>            1                  نمص<br>\
+<b>اَنْمَصُ</b>               1     <br>\
+                     اَنْمَصُ<br>\
+                     ذ<br>\
+                  <i>Having no eyebrows.</i> (TA in art. ثط.)   </entryFree> <br>\
+' } );

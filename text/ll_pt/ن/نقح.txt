@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>نقح</em>            1                  نقح<br>\
+<b>نَقَحَ شَيْيًا</b>               1     <br>\
+                     نَقَحَ شَيْيًا<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَقَحَ<br>\
+                  , (inf. n. نَقْحٌ, TA,) <i>He peeled,</i> or <i>barked, a thing; peeled off, stripped off,</i> or <i>removed, its outer covering.</i> (K, TA.) نَقَحَ العُودَ, (Msb,) or العَصَا, (T,) aor.      <br>\
+                     نَقَحَ<br>\
+                  , inf. n. نَقْحٌ, (Msb,) <i>He pared,</i> or <i>trimmed, the stick,</i> or <i>staff, by cutting off its knots:</i> (T, Msb:) and in like manner you say of anything from which you pare off somewhat. (T.) ―         -b2-  نَقَحَ الجِذْعَ, inf. n. نَقْحٌ; (K;) and ↓ <br>\
+      نقّحهُ, (K,) inf. n. تَنْقِيحٌ; (S;) <i>He pared off the knots of the palm-trunk:</i> (K:) or <i>he pruned,</i> or <i>trimmed, the trunk of the palm-tree, by cutting off the stumps of the branches,</i> or <i>by cutting off the superfluous branches.</i> (S.) ―         -b3-  نَقَحَ, (TA,) and ↓ <br>\
+      انقح, (K,) <i>He stripped off the ornaments of his sword</i> [<i>to sell them</i>] <i>in a time of dearth and poverty.</i> (K, TA.) ―         -b4-  نَقَحَ العَظْمَ, aor.      <br>\
+                     نَقَحَ<br>\
+                  , (K,) inf. n. نَقْحٌ; (TA;) and ↓ <br>\
+      نقّحهُ, (inf. n. تَنْقِيحٌ, S;) and ↓ <br>\
+      انتقحهُ; (S, K;) <i>He extracted the marrow from the bone:</i> (S, K:) or     <br>\
+<b>نقّحه</b>               1     <br>\
+                     نقّحه<br>\
+                     ذ<br>\
+                   has an intensive signification. (Msb.) ―         -b2-  نَقَحَ شَيْيًا <br>\
+                  <i>He separated what was good from what was bad of the thing.</i> (Msb.)    </entryFree> <br>\
+<b>نقّح الشِّعْرَ</b>               1     <br>\
+                     نقّح الشِّعْرَ<br>\
+                     ذ<br>\
+                  , inf. n. تَنْقِيحٌ; (S, K;) and ↓ <br>\
+      انقحهُ, inf. n. اـِنْقَاحٌ; (K;) (tropical:)  <i>He trimmed, pruned,</i> or <i>put into a right</i> or <i>proper state, poetry,</i> or <i>verses.</i> (S, K.) ―         -b2-  نقّح الكَلَامَ (tropical:)  <i>He scrutinized the language, and examined it well:</i> or <i>he put it to rights,</i> or <i>trimmed it, and removed its faults,</i> or <i>defects.</i> (TA.) ―         -b3-  See 1.    </entryFree> <br>\
+                     اَنْقَحَ<br>\
+                   see 1 and 2.    </entryFree> <br>\
+<b>تنقّح شَحْمُهُ</b>               1     <br>\
+                     تنقّح شَحْمُهُ<br>\
+                     ذ<br>\
+                  , (K,) or شَحْمُ النَّاقَةِ, (S,) or شَحْمُ نَاقَتِهِ, (TA, &amp;amp;c.,) (tropical:)  <i>His fat,</i> (K,) or <i>the fat of the she-camel,</i> (S,) or <i>the fat of his she-camel,</i> (TA, &amp;amp;c.,) <i>became little in quantity,</i> or <i>diminished,</i> (S, K, &amp;amp;c.,) or <i>partially went away.</i> (A.)    </entryFree> <br>\
+                     اـِنْتَقَحَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>خَيْرُ الشِّعْرِ الحَوْلِىُّ المُنَقَّحُ</b>               1     <br>\
+                     خَيْرُ الشِّعْرِ الحَوْلِىُّ المُنَقَّحُ<br>\
+                     ذ<br>\
+                   (tropical:)  [<i>The best of poetry is that which is a year old, and trimmed,</i> or <i>pruned</i>]. (S.)   </entryFree> <br>\
+' } );

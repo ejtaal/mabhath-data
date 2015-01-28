@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'وسب1<br>\
+وَسَبَتِ الأَرْضُ, aor. تَسِبُ, (inf. n. وَسْبٌ,<br>\
+TA;) and ↓ اوسبت; The land became abundant<br>\
+in fresh herbage, such as is called عُشْب, (S, K,)<br>\
+and in dry herbage. (TA.) ―<br>\
+-b2-  وَسِبَ, aor. يَوْسَبُ,<br>\
+inf. n. وَسَبٌ, He, or it, was dirty: (IAar, K:)<br>\
+syn. with وَكِبَ and حَشِنَ. (TA.)<br>\
+4<br>\
+أَوْسَبَ see 1.<br>\
+وَسُبٌ Wood that is put in the lower part of a<br>\
+well, when its earth is such as would pour in,<br>\
+(K,) and that prevents the earth from doing so:<br>\
+called by the people of Egypt خِنْزِيرَة, and only<br>\
+of the wood of the sycamore fig-tree: (TA:)<br>\
+[the خنزيرة is a lining of planks, resembling a<br>\
+barrel; and the wood above mentioned is used<br>\
+in its construction because water does not rot it<br>\
+so quickly as it rots other kinds of wood:] pl.<br>\
+وُسُوبٌ. (K.) [Accord. to IDrd, of the dial. of<br>\
+El-Yemen. (Freytag.)]<br>\
+وِسْبٌ Plants; herbs; herbage: (S, K:) or<br>\
+abundance of herbage. (M, in art. اسب.)<br>\
+مُوسِبٌ (tropical:)  A ram abounding with wool: (K:)<br>\
+likened to a land abounding with herbage. (TA.)<br>\
+مِيسَابٌ Dates such as are termed مُجَزَّعٌ, [i. e.,<br>\
+half, or two-thirds, ripe]: (K:) i. e., as applied<br>\
+to رُطَب, vile, or bad. (TA.)<br>\
+' } );

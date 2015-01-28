@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'لنلَنْ A particle denoting negation, rendering the<br>\
+aor. mansoob, and restricting it to the future<br>\
+sense: not implying corroboration of the negation, nor its never-ending continuance; though<br>\
+Z asserts it to imply these. (K.) [Hence لَنْ<br>\
+يَضْرِبَ signifies simply He will not beat: not<br>\
+he assuredly will not beat; nor he will never<br>\
+beat.]<br>\
+' } );

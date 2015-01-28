@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'غيط1<br>\
+غَاطَ, aor. يَغِيطُ, inf. n. غَيْطٌ: see غَاطَ, aor.<br>\
+يَغُوطُ, inf. n. غَوْطٌ, in art. غوط.<br>\
+غَيْطٌ: see غَائِطٌ in art. غوط.<br>\
+' } );

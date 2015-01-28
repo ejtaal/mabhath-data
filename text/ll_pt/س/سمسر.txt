@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>سمسر</em>            1                  سمسر<br>\
+<b>سَمْسَرَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     سَمْسَرَ<br>\
+                     ذ<br>\
+                  , inf. n. سَمْسَرَةٌ, <i>He acted as a</i> <br>\
+                  سِمْسَار [q. v.]. (K.)    </entryFree> <br>\
+<b>سِمْساَرٌ</b>               1     <br>\
+                     سِمْساَرٌ<br>\
+                     ذ<br>\
+                  <i>A broker;</i> or <i>one who acts as an intermediary between the seller and the buyer,</i> (Lth, Mgh, K,) <i>for effecting the sale; whom people call</i> <br>\
+                  دَلَّالٌ, because he directs the purchaser to the merchandise, and the seller to the price: (TA:) pl. سَمَاسِرَةٌ: (Mgh, K:) a Pers. word, arabicized: (Lth, Mgh:) or <i>one who sells wheat to the people:</i> (M, TA:) or (TA, in the K “ and ”) the <i>possessor of a thing:</i> (K:) or (TA, in the K “ and ”) <i>one who has the care of a thing.</i> (K.) ―         -b2-  (tropical:)  <i>A messenger,</i> or <i>mediator,</i> (سَفِيرٌ,) <i>between two lovers</i> or <i>friends.</i> (K.) ―         -b3-  سِمْسَارُ الاَرْضِ (tropical:)  <i>He who is acquainted with the land,</i> or <i>country;</i> (K;) <i>an acute scrutinizer of its circumstances:</i> (TA:) fem. with ة. (K.) ―         -b4-  هُوَ اْبْنُ سِمْسَارِهَا [app. means (assumed tropical:)  <i>He is the careful and skilful manager of it</i>]. (Fr, TA voce حِلسٌ.)   </entryFree> <br>\
+' } );

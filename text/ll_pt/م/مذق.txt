@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>مذق</em>            1                  مذق<br>\
+<b>مَذُوقٌ</b>               1     <br>\
+                     مَذُوقٌ<br>\
+                     ذ<br>\
+                   Milk <i>mixed with much water.</i> (TA in art. فضخ.)    </entryFree> <br>\
+<b>مَمْذُوقُ النِّقْىِ</b>               1     <br>\
+                     مَمْذُوقُ النِّقْىِ<br>\
+                     ذ<br>\
+                   [<i>Having diluted marrow</i>]; applied to a soft, or flabby, camel. (O, K in art. رك.) ―         -b2-  عَيْشٌ مَمْذُوقٌ (assumed tropical:)  <i>A turbid life.</i> (TA in art. سمر.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>مردقش</em>            1                  مردقش<br>\
+<b>مَرْدَقُوشٌ</b>               1     <br>\
+                     مَرْدَقُوشٌ<br>\
+                     ذ<br>\
+                   [<i>Marjoram; sweet marjoram;</i> so called in the present day;] <i>i. q.</i> <br>\
+                  مَرْزَنْجُوشٌ [q. v.]: (S, K:) an arabicized word, (AHeyth, K,) [thought to be so by J,] from [the Persian]  <br>\
+                  مُرْدَهْ كُوشْ, (K) meaning “ having a dead ear, ” (TA,) or “ having a soft ear, ” [which is given in the K as one of the significations of the arabicized word,] (AHeyth, TA,) because what is flaccid is as though it were dead: (TA:) or [so accord. to the S, TA; but accord. to the K, and] <i>saffron:</i> (S, K:) and <i>a certain perfume which a woman puts upon her comb, inclining to redness and blackness.</i> (K.) The vulgar [generally] say بَرْدَقُوش. (TA.)   </entryFree> <br>\
+' } );

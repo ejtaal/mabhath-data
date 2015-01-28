@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>تموز</em>            1                  تموز<br>\
+<b>تَمُّوزُ</b>               1     <br>\
+                     تَمُّوزُ<br>\
+                     تموز<br>\
+                   [sometimes written تَمُوزُ, without tesh-deed,] <i>The</i> [<i>Syrian</i>] <i>month</i> [<i>sacred,</i> in ancient times, <i>to the god of that name,</i> (mentioned in Ezek. viii. 14,) <i>corresponding to July, O. S.,</i>] <i>after</i> <br>\
+                  حَزِيرانُ. (S in art. حزر.)   </entryFree> <br>\
+' } );

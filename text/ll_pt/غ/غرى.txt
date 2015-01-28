@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>غرى</em>            1                  غرى<br>\
+<b>غَرَيْتُ السَّهْمَ</b>               1     <br>\
+                     غَرَيْتُ السَّهْمَ<br>\
+                     ذ<br>\
+                  : see 1 in art. غرو.    </entryFree> <br>\
+<b>قَوْسٌ مَغْرِيَّةٌ</b>               1     <br>\
+                     قَوْسٌ مَغْرِيَّةٌ<br>\
+                     ذ<br>\
+                  : see مَغْرُوٌّ (last sentence) in art. غرو.   </entryFree> <br>\
+' } );

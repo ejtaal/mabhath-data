@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>زى</em>            1                  زى<br>\
+<b>زُىَّ</b>               1     <br>\
+                     زُىَّ<br>\
+                     ذ<br>\
+                  , or زِىَّ: see art. زو.    </entryFree> <br>\
+<b>زَيَّيْتُ</b>               1     <br>\
+                     زَيَّيْتُ<br>\
+                     ذ<br>\
+                  : see 2 in art. زوى, in two places.    </entryFree> <br>\
+<b>تَزَيَّا</b>               1     <br>\
+                     تَزَيَّا<br>\
+                     ذ<br>\
+                  : see 5 in art. زوى.    </entryFree> <br>\
+<b>زَىْ</b>               1     <br>\
+                     زَىْ<br>\
+                     ذ<br>\
+                  : see زَاىٌ, in art. زوى.    </entryFree> <br>\
+<b>زِى زِى</b>               1     <br>\
+                     زِى زِى<br>\
+                     ذ<br>\
+                   an onomatopoeia significant of <i>The sound of the jinn,</i> or <i>genii.</i> (TA.) [See also زِيزَمٌ and زِيزِيمٌ, in art. زم.]    </entryFree> <br>\
+<b>زَىٌّ</b>               1     <br>\
+                     زَىٌّ<br>\
+                     ذ<br>\
+                  : see زَاىٌ, in art. زوى.    </entryFree> <br>\
+<b>زِىٌّ</b>               1     <br>\
+                     زِىٌّ<br>\
+                     ذ<br>\
+                  : see art. زوى.    </entryFree> <br>\
+<b>زُيَيَّةٌ</b>               1     <br>\
+                     زُيَيَّةٌ<br>\
+                     ذ<br>\
+                  : see art. زوى.   </entryFree> <br>\
+' } );

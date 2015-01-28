@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;افل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  افل<br>\
+&lt;entryFree id=&quot;n965&quot; key=&quot;اَفَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَفَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, Msb, K,) said of a thing, (Msb,) or of the moon, (T,) and اَفَلَتْ, said of the sun, (T, S, M,) and of the stars, (M,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِلَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفُلَ<br>\
+                  &lt;/form&gt;, inf. n. اُفُولٌ (T, S, M, Msb, K) and افْلٌ, (M, Msb,) &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, absent,&lt;/i&gt; or &lt;i&gt;hidden,&lt;/i&gt; or &lt;i&gt;concealed;&lt;/i&gt; (T, S, Msb, K;) &lt;i&gt;it set;&lt;/i&gt; (T, S, M, &amp;amp;c.;) and so اَفِلَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفَلَ<br>\
+                  &lt;/form&gt;. (K.) ―         -b2-  Hence, اَفَلَ <br>\
+                  فُلَانٌ عَنِ البَلَدِ <br>\
+                  &lt;i&gt;Such a one became absent,&lt;/i&gt; or &lt;i&gt;went away, from the country,&lt;/i&gt; or &lt;i&gt;town.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n966&quot; key=&quot;اَفِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفِيلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A young camel such as is termed&lt;/i&gt; <br>\
+                  اِبْنُ مَخَاضٍ [i. e. &lt;i&gt;that has entered its second year&lt;/i&gt;]; (As, ElFárábee, S, M, Msb, K;) and &lt;i&gt;the like;&lt;/i&gt; (S;) or, and also &lt;i&gt;such as is above this&lt;/i&gt; [&lt;i&gt;in age&lt;/i&gt;]; (ElFárábee, M, Msb, K;) or, and also &lt;i&gt;such as is termed&lt;/i&gt; <br>\
+                  اِبْنُ لَبُونٍ [i. e. &lt;i&gt;that has entered the third year&lt;/i&gt;]; beyond which it is not so called: (As, TA:) or &lt;i&gt;that is seven months old,&lt;/i&gt; or &lt;i&gt;eight:&lt;/i&gt; (As, Msb:) or &lt;i&gt;a youthful camel:&lt;/i&gt; (AZ, Msb:) and also (M, K) &lt;i&gt; a young weaned camel;&lt;/i&gt; syn. فَصِيلٌّ: (T, M, Msb, K:) fem. with ة: (As, S:) pl. اـِفَالٌ (T, S, M, K) and اَفَايِلُ, (Sb, S, M, K,) which latter they liken to ذَنَايِبُ as pl. of ذنُوبٌ. (M.) [In my copy of the Msb, the pl. is said to be اـفالة: and it is also there said, on the authority of IF, that افالة signifies the &lt;i&gt;young ones of sheep.&lt;/i&gt;] It is said in a prov., اـِنَّمَا القَرْمِ مِنَ الاَفِيلِ [&lt;i&gt;The stallion-camel is only&lt;/i&gt; that which has increased in growth &lt;i&gt;from the young one in its second year,&lt;/i&gt; &amp;amp;c.]; i. e. what is great has begun small. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n967&quot; key=&quot;ا=فِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=فِلٌ<br>\
+                     ا=فل<br>\
+                  &lt;/form&gt; part. n. of 1, (T, TA,) applied to the moon, and to any star: (TA:) fem. with ة: (T, TA:) pl. ا=فِلُونَ (Kur vi. 76 [the rational form of the pl. being there used because it is applied to stars as being likened to gods]) and اُفَّلٌ and اُفُولٌ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

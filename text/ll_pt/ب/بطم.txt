@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>بطم</em>            1                  بطم<br>\
+<b>بُطْمٌ</b>               1     <br>\
+                     بُطْمٌ<br>\
+                     طم<br>\
+                     بطم<br>\
+                   (S, K) and بُطُمٌ, (K,) the latter allowable accord. to IAar, (TA,) The حَبَّة خَضْرَا=ء [or <i>fruit of the terebinth-tree,</i> to which this latter appellation is given in the present day, i. e., <i>of the pistacia terebinthus of the botanists</i>]; (S, K;) so accord. to the people of El-&#39;Áliyeh; and the like is said on the authority of As: (TA:) or the <i>tree thereof;</i> (K;) [which is called بُطْم in the present day;] so accord. to AHn; and he says, but no one has told me that it grows in the land of the Arabs; but they assert that <i>the</i> <br>\
+                  ضِرْو [meaning the <i>cancamum-tree,</i> also called كَمْكَام, but said by IAar to be the حبّة خضراء,] <i>is nearly like it:</i> (TA:) <i>its fruit is heating, diuretic, strengthening to the venereal faculty, good for the cough, and for the</i> [<i>disease of the face called</i>] لَقْوَة, <i>and for the kidney; and the overspreading of the hair with its dry and sifted leaves causes it to grow, and beautifies it.</i> (K.)   </entryFree> <br>\
+' } );

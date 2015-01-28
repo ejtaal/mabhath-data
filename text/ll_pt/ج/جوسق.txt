@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>جوسق</em>            1                  جوسق<br>\
+<b>جَوْسَقٌ</b>               1     <br>\
+                     جَوْسَقٌ<br>\
+                     جوسق<br>\
+                  <i>i. q.</i> <br>\
+                  قَصْرٌ [<i>A palace:</i> or <i>a pavilion,</i> or <i>kind of building wholly or for the most. part isolated, sometimes on the top of a larger building,</i> i. e., <i>a belvedere, and sometimes projecting from a larger building, and generally consisting of one room if forming a part of a larger building</i>]: (S, K, and Ham p. 823:) or <i>a fortress;</i> syn. حِصْنٌ: (M, IB, TA:) or [<i>a building</i>] <i>resembling a</i> <br>\
+                  حِصْن: (M:) an arabicized word, (Lth, JK, S, M,) from the Persian كُوشْك: (TA:) its primary meaning is <i>a</i> <br>\
+                  حِصْن <br>\
+                  <i>in a state of demolition;</i> and <i>a ruined</i> <br>\
+                  قَصْر: pl. جَوَاسِقُ and جَوَاسِيقُ; the latter formed by giving fulness of sound to the kesreh, or by poetic license. (Ham ubi suprà.) There were, in the Karáfeh, [the great burial-ground of the Egyptian metropolis,] numerous قُصُور, i. e., what are called جواسق, having belvederes (مَنَاظِر) and gardens: but most of the جواسق were without gardens and without a well; being lofty belvederes: all of them were called قُصُور. (El-Makreezee&#39;s “ Khitat, ” ii. 453.)   </entryFree> <br>\
+' } );

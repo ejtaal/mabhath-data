@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ثنتان&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ثنتان<br>\
+&lt;entryFree id=&quot;n4748&quot; key=&quot;ثِنْتَانِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثِنْتَانِ<br>\
+                     ثنة<br>\
+                     ثنتان<br>\
+                  &lt;/form&gt; fem. of اِثْنَانِ, which see in art. ثنى.   &lt;/entryFree&gt; <br>\
+            &lt;div2 n=&quot;vnd and vndA&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;&gt;<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ثند and ثندا<br>\
+&lt;entryFree id=&quot;n4749&quot; key=&quot;ثُنْدُوَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثُنْدُوَةٌ<br>\
+                     ثندوه<br>\
+                     ثندوة<br>\
+                  &lt;/form&gt; and ثَنْدُوَةٌ and ثُنْدُوَةٌ and ثَنْدُوَةٌ: see art. ثدا.   &lt;/entryFree&gt; <br>\
+            &lt;div2 n=&quot;Quasi vnw&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;&gt;<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;Quasi ثنو<br>\
+&lt;entryFree id=&quot;n4750&quot; key=&quot;ثَنْوَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثَنْوَى<br>\
+                     ثنوى<br>\
+                     ثنوي<br>\
+                  &lt;/form&gt; and ثُنْوَى: ثَنَوِىٌّ and ثَنَوِيَّةٌ: اِثْنَوِىٌّ: مَثْنَوِىٌّ: مَثْنَوِيَّةٌ: see art. ثنى.   &lt;/entryFree&gt; <br>\
+' } );

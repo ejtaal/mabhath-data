@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>هذرب</em>            1                  هذرب<br>\
+<b>هَذْرَبَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     هَذْرَبَ<br>\
+                     ذ<br>\
+                  , inf. n. هَذْرَبَةٌ, <i>He talked much and quickly:</i> (K:) a dial form of هَذْرَمَ, or mispronounced for the latter word. (TA.) See also هَزْرب.    </entryFree> <br>\
+<b>هُذَيرِبًى</b>               1     <br>\
+                     هُذَيرِبًى<br>\
+                     ذ<br>\
+                   (accord to the TA, هَذَيْرَبًى, and so in Golius&#39;s Lex.,) <i>Custom; habit</i> Ex. هٰذِهِ هذيرباهُ <br>\
+                  <i>This is his custom,</i> or <i>habit.</i> (K.)    </entryFree> <br>\
+<b>هُذْرُبَانٌ</b>               1     <br>\
+                     هُذْرُبَانٌ<br>\
+                     ذ<br>\
+                  <i>Light,</i> or <i>active,</i> (<i>and quick.</i> TA,) <i>in his speech and in his service.</i> (K.) See also هِذْرِيانٌ, in art. هذر.   </entryFree> <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'وأر1<br>\
+وَاڤ^َ<br>\
+The verse of Lebeed,<br>\
+تَسْلُبُ الكَانِسَ لَمْ يُوأَرْ بِهَا<br>\
+شُعْبَةَ السَّاقِ إِذَا الظِّلُّ عَقَلْ<br>\
+means She carries off from the gazelle entering<br>\
+his covert, he not being frightened by her. the<br>\
+branch of the trunk of the tree above him, when<br>\
+the shade contracts, or decreases, or goes away,<br>\
+at midday: he is describing his swift she-camel.<br>\
+10<br>\
+اِسْتَوْءَرَ<br>\
+He hasted in the darkness; as also<br>\
+استأور. (K, art. أور.)<br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>رزى</em>            1                  رزى<br>\
+<b>رَزَى فُلَانًا</b>               1     <br>\
+                     رَزَى فُلَانًا<br>\
+                     ذ<br>\
+                  , aor.يَرْزِى, (K,) inf. n. رَزْىٌ, (TA,) <i>He accepted the bounty of such a one.</i> (K.) [See also رَزَاَهُ: and, under the same head, see رَزِينَا, and رُزِيتُهُ: and see a verse cited voce مُتْلَدٌ; in which رُزِينَا seems to be used for رُزِيْنَا; or the latter may be the correct reading.]    </entryFree> <br>\
+<b>ارزى اـِلَيْهِ</b>               1     <br>\
+                     ارزى اـِلَيْهِ<br>\
+                     ذ<br>\
+                  <i>He leaned,</i> or <i>stayed, himself upon,</i> or <i>against, him,</i> or <i>it;</i> and <i>he had recourse,</i> or <i>betook himself, to him,</i> or <i>it, for refuge, protection, covert,</i> or <i>lodging:</i> (K:) or اَرْزَيْتُ ظَهْرِى <br>\
+                  اـِلَى فُلَانٍ <br>\
+                  <i>I had recourse,</i> or <i>betook myself, to such a one for refuge, protection, covert,</i> or <i>lodging:</i> (S:) or, accord. to Lth, the verb is اَرْزَاَ, with ء. (TA.)    </entryFree> <br>\
+<b>رَزِيَّةٌ</b>               1     <br>\
+                     رَزِيَّةٌ<br>\
+                     ذ<br>\
+                  , for رَزِييَةٌ: see the latter, in art. رزا.   </entryFree> <br>\
+' } );

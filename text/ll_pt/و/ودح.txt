@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>ودح</em>            1                  ودح<br>\
+<b>اودح</b>               1     <br>\
+                     اودح<br>\
+                     ذ<br>\
+                  <i>He confessed;</i> syn. اَقَرَّ: (L, K:) or <i>he confessed a falsehood,</i> or <i>what was false:</i> (ISk, T, K:) or <i>he confessed himself submissive to him who would lead, guide,</i> or <i>govern, him:</i> (AZ, T, K:) <i>he was submissive,</i> or <i>prompt in obedience, and humble.</i> (S, K.) ―         -b2-  <i>He</i> (a ram) <i>held back, and would not mount the female.</i> (S, K.) ―         -b3-  اودحت الاـِبِلُ <br>\
+                  <i>The camels became fat and in good condition.</i> (S, K.)   </entryFree> <br>\
+' } );

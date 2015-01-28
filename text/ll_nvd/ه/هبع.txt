@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هبعهُبَعٌ<br>\
+, applied to a young camel: a young<br>\
+camel brought forth in the end of the breedingtime. (K, voce رُبَعٌ, q. v.) See بُلَعٌ.<br>\
+' } );

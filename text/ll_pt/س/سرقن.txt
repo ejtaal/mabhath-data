@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>سرقن</em>            1                  سرقن<br>\
+<b>سَرْقَنَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     سَرْقَنَ<br>\
+                     ذ<br>\
+                  : see the next preceding art.    </entryFree> <br>\
+<b>سَرْقِينٌ</b>               1     <br>\
+                     سَرْقِينٌ<br>\
+                     ذ<br>\
+                  : see the next preceding art.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كهدب</em>            1                  كهدب<br>\
+<b>كَهْدَبٌ</b>               1     <br>\
+                     كَهْدَبٌ<br>\
+                     ذ<br>\
+                   A <i>heavy,</i> or <i>dull,</i> man: syn. ثَقِيلٌ وَخْمٌ. (K.)   </entryFree> <br>\
+' } );

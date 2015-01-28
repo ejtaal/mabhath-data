@@ -1,0 +1,53 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اصد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اصد<br>\
+&lt;entryFree id=&quot;n851&quot; key=&quot;اصّدهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اصّدهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْصِيدٌ, is from اُصْدَةٌ: (S, K:) [app. meaning &lt;i&gt;He made it an&lt;/i&gt; <br>\
+                  اُصْدَة: or &lt;i&gt;he wore it as an&lt;/i&gt; <br>\
+                  اُصْدَة: and hence مُوَصَّدٌ or مُوَصَّدَةٌ as explained below: or] &lt;i&gt;he clad him with an&lt;/i&gt; <br>\
+                  اُصْدَة. (TK.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n852&quot; key=&quot;ا=صد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=صد<br>\
+                     ا=صد<br>\
+                  &lt;/form&gt; [in some copies of the K اَصَدَ, which is a mistake, (see the pass. part. n. مُوْصَدٌ, below,)] &lt;i&gt;He closed&lt;/i&gt; (اَغْلَقَ, S, A, K, and so in the M in art. وصد, or اَطْبَقَ, as in the M in the present art.) a door, or an entrance; as also اوصد; (S, M, A, K;) of which it is a dial. var. (S.) And &lt;i&gt;He covered,&lt;/i&gt; or &lt;i&gt;covered over,&lt;/i&gt; a cooking-pot. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n853&quot; key=&quot;اُصْدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُصْدَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, M, K, and Ham p. 223) and ↓ <br>\
+      اَصِيدَةٌ (M, K) and ↓ <br>\
+      مُوَصَّدٌ (S* M,) or ↓ <br>\
+      مُوَصَّدَةٌ, (K,) &lt;i&gt;A garment of the kind called صِدَار worn by a young girl:&lt;/i&gt; when a girl attains to the age of puberty, she is clad with a دِرْع: (M:) or &lt;i&gt;a small shirt for a little girl:&lt;/i&gt; or &lt;i&gt;worn beneath the&lt;/i&gt; <br>\
+                  ثَوْب; (K:) or the اُصْدَة is &lt;i&gt;a garment without sleeves, worn by a bride and by a little girl:&lt;/i&gt; (M:) or &lt;i&gt;a small shirt&lt;/i&gt; or &lt;i&gt;shift, worn beneath the&lt;/i&gt; <br>\
+                  ثوب; and &lt;i&gt;also worn by little girls:&lt;/i&gt; (S:) or &lt;i&gt;a garment of which the sewing is not complete:&lt;/i&gt; or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  بَقِيرَةٌ: or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  صُدْرَةٌ. (Ham ubi suprà.) Kutheiyir says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;↓ <br>\
+      وَقَدْ دَرَّعُوهَا وَهْىَ ذَاتُ مُوَصَّدٍ<br>\
+                     &lt;L&gt;<br>\
+                        مَجُوبٍ وَ لَمَّا يَلْبَسِ الدِّرْعَ رِيدُهَا<br>\
+                  &lt;/quote&gt; [&lt;hi rend=&quot;ital&quot; TEIform=&quot;hi&quot;&gt;They clad her with a دِرْع when she wore a مُوَصَّد with an opening cut out at the neck and bosom, when her equal in age had not yet worn the درع<br>\
+                  &lt;/hi&gt;]. (S, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n854&quot; key=&quot;اًصِيدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اًصِيدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A court;&lt;/i&gt; or &lt;i&gt;an open or a wide space in front of a house, or extending from its sides;&lt;/i&gt; (S, M, K;) a dial. var. of وَصِيدٌ, (S,) which is the more common form: (M:) or the &lt;i&gt;extreme&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;63&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;and exterior part of a house:&lt;/i&gt; (Mirkát el-Loghah, and Meyd, as rendered by Golius:) or &lt;i&gt;an intermediate place between the threshold or door and the house; a place which looks neither upon the public nor upon the interior parts, whether it be an area or a vestibule.&lt;/i&gt; (Ibn-Maaroof, as rendered by Golius.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n855&quot; key=&quot;اَصِيدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصِيدَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُصْدَةُ       -A2-  &lt;i&gt;A [hind of enclosure for the protection of camels, sheep,&lt;/i&gt; or &lt;i&gt;goats, such as is called&lt;/i&gt;] حَظِيرَةٌ: (M, K:) or &lt;i&gt;like a &lt;/i&gt; <br>\
+                  حظيرة, (S, and Ham p.223,) &lt;i&gt;[but made] of rocks, or great masses of stone:&lt;/i&gt; (Ham:) a dial. var. of وَصِيدَةٌ [q. v.]: (S:) pl. اـِصَادٌ (Ham.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n856&quot; key=&quot;مُوْصَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْصَدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Closed; closed over,&lt;/i&gt; or &lt;i&gt;covered:&lt;/i&gt; occurring in the Kur [xc. 20 and] civ. 8; (L;) in which AA reads مُوْصَدَةٌ [with hemz; others reading this word without hemz]. (S, L.) You say بَابٌ مُوْصَدٌ [&lt;i&gt;A closed door&lt;/i&gt;]. (A.) And قِدْرٌ مُوْصَدَةٌ <br>\
+                  &lt;i&gt;A covered cooking-pot.&lt;/i&gt; (A.) And بَابُ العَفْوِ عَنْهُ مُوْصَدٌ (assumed tropical:)  [&lt;i&gt;The door of forgiveness is closed from him; i. e., against him&lt;/i&gt;]. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n857&quot; key=&quot;مُوَصَّدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَصَّدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, or مُوَصَّدَةٌ: see اُصْدَةٌ, in three places.   &lt;/entryFree&gt; <br>\
+' } );

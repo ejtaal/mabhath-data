@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>تيا</em>            1                  تيا<br>\
+<b>تَيَّا</b>               1     <br>\
+                     تَيَّا<br>\
+                     تيا<br>\
+                  , and تَيَّاكَ, and تَيَّالِكَ: see art. تا.   </entryFree> <br>\
+' } );

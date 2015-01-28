@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>حتى</em>            1                  حتى<br>\
+<b>حَتِىٌّ</b>               1     <br>\
+                     حَتِىٌّ<br>\
+                     حتى<br>\
+                     حتي<br>\
+                   The سَوِيق [or <i>meal of what has been parched,</i> or perhaps <i>of what has been dried in the sun,</i>] <i>of the</i> <br>\
+                  مُقْل [or <i>fruit of the Theban palm,</i> or <i>cucifera Thebaïca</i>]: (S, K:) or <i>what is rasped, of the</i> <br>\
+                  مُقْل, <i>when it has become ripe, and is then eaten:</i> (AHn, TA:) also, (K,) or as some say, (TA,) the [<i>fruit called</i>] مُقْل, (K, TA,) <i>itself:</i> (TA:) or <i>what is bad thereof:</i> or <i>what is dry thereof.</i> (K.) [See an ex. in a verse cited voce دَرٌّ.] ―         -b2-  The <i>refuse</i> (ثُفْل) <i>and skins</i> (قُشُور) <i>of dates:</i> (K:) [like حَثًا and حَثًى.] ―         -b3-  The <i>scaly substances</i> (قِشْر [app. meaning <i>bits of the wax</i>]) <i>of honey,</i> or <i>of honey in the wax.</i> (Th, K.) ―         -b4-  <i>I. q.</i> <br>\
+                  دِمْنٌ [<i>Dung of beasts, compacted together;</i> &amp;amp;c.] (Az, K, TA. [In the CK, الزِّمَنُ is put for الدِّمْنُ.]) ―         -b5-  The <i>apparatus</i> (مَتَاع) <i>of the</i> [<i>kind of basket, made of palm-leaves, called</i>] زَبِيل: or <i>its</i> <br>\
+                  عَرَق [meaning the <i>suspensory, by which it is carried:</i> see this word, which also means the “ suspensory ” of a water-skin]; (K;) <i>its</i> <br>\
+                  كِتَاف [or <i>cord by which it is carried, being attached</i>] <i>in its</i> <br>\
+                  شَفَة [or <i>edge,</i> lit. <i>lip, and</i> app., as is commonly the case, <i>passed through a loop-shaped handle in the opposite edge, so that the two opposite edges are drawn together when it is carried:</i> <br>\
+                  كِتَافٌ originally signifying “ a rope with which one&#39;s arms or hands are tied together behind his back ”]. (TA.) ―         -b6-  The مَتَاع [or <i>furniture and utensils,</i> &amp;amp;c.,] of a house or tent. (TA.) ―         -b7-  And <i>What is bad of spun thread.</i> (TA.)    </entryFree> <br>\
+<b>حَتَّى</b>               1     <br>\
+                     حَتَّى<br>\
+                     حتى<br>\
+                     حتي<br>\
+                  : see art. حت.   </entryFree> <br>\
+' } );

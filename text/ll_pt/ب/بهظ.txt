@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>بهظ</em>            1                  بهظ<br>\
+<b>بَهَظَهُ</b>               1     <br>\
+                     بَهَظَهُ<br>\
+                     بهظ<br>\
+                     بهظه<br>\
+                     بهظة<br>\
+                  , aor.      <br>\
+                     بَهَظَ<br>\
+                  , inf. n. بَهْظٌ, <i>It</i> (a load, or burden,) <i>oppressed him by its weight, and he was unable to bear it:</i> (S, M, TA:) or <i>pressed heavily upon him, and distressed him.</i> (T, TA.) [And hence,] (tropical:)  <i>It</i> (an affair, M, K, or anything, T) <i>oppressed him by its weight,</i> (T, M,) <i>and he was unable to bear it:</i> (M:) or <i>overpowered him, and pressed heavily upon him, and distressed him;</i> (Jm, K;) and so بَهَضَهُ, as heard by Aboo-Turáb from an Arab of the desert; but no one has followed him in this. (Az, TA.) You say also, بَهَظَ الرَّاحِلَةَ <br>\
+                  <i>He loaded the riding-camel heavily, and fatigued it.</i> (K.)    </entryFree> <br>\
+<b>اَمْرٌ بَاهِظٌ</b>               1     <br>\
+                     اَمْرٌ بَاهِظٌ<br>\
+                     ذ<br>\
+                  <i>A distressing, grievous,</i> or <i>difficult, affair.</i> (S, CK, but wanting in two MS. copies of the K.) And بَاهِظٌ [alone], (CK, but wanting in two MS. copies of the K,) or ↓ <br>\
+      بَاهِظَةٌ, (O, TA,) (tropical:)  <i>A calamity,</i> or <i>misfortune.</i> (O, K, TA.)    </entryFree> <br>\
+<b>بَاهِظَةٌ</b>               1     <br>\
+                     بَاهِظَةٌ<br>\
+                     باهظ<br>\
+                     باهظه<br>\
+                     باهظة<br>\
+                  : see بَاهِظٌ.    </entryFree> <br>\
+<b>مَبْهُوظٌ</b>               1     <br>\
+                     مَبْهُوظٌ<br>\
+                     مبهوظ<br>\
+                  <i>Oppressed by the weight of a load, and unable to bear it.</i> (S.) [And hence,] (assumed tropical:)  Any one <i>having a thing required of him which he is unable to do,</i> or <i>which he cannot find.</i> (TA.) And قِرْنٌ مَبْهُوظٌ (assumed tropical:)  <i>An opponent,</i> or <i>an adversary, overcome,</i> or <i>vanquished.</i> (TA.)   </entryFree> <br>\
+' } );

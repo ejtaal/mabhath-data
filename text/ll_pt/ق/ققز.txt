@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ققز</em>            1                  ققز<br>\
+<b>قَاقَوزَةٌ</b>               1     <br>\
+                     قَاقَوزَةٌ<br>\
+                     ذ<br>\
+                   and قَافُزَّةٌ: see طَاسٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'قرزحقُرْزُحٌ, (AA, S, K,) and قُرْزُوحٌ, (TA, and so in<br>\
+one copy of the S.) A certain species of tree: (S,<br>\
+K:) n. un. قُرْزُحَةٌ. (TA.) ―<br>\
+-b2-  Also قُرْزُحَةٌ A<br>\
+certain herb, or leguminous plant. (Kr, K.) ―<br>\
+-b3-<br>\
+And A certain small tree, (AHn, K,) curling<br>\
+and contracting, (جَعْدَةٌ,) and having black جَبّ<br>\
+[i. e. grains, or berries, or the like]. (AHn.)<br>\
+' } );

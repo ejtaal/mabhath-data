@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كرتح</em>            1                  كرتح<br>\
+<b>كَرْتَحَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     كَرْتَحَ<br>\
+                     ذ<br>\
+                  , inf. n. كَرْتَحَةٌ, <i>He</i> (a short man) <i>ran with short steps, and quickly;</i> as also كَرْدَحَ. (S, art. كردح.) ―         -b2-  Also, (TA,) and ↓ <br>\
+      تَكَرْتَحَ, (K,) <i>He went quickly</i> in his walk. (K, TA.)    </entryFree> <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَكَرْتَحَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

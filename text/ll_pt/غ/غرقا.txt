@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>غرقا</em>            1                  غرقا<br>\
+<b>غَرْقَاَتْ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     غَرْقَاَتْ<br>\
+                     ذ<br>\
+                  , said of an egg (بَيْضَةٌ), <i>It came forth having upon it</i> [<i>only</i>] <i>its thin integument</i> [or <i>pellicle, called</i> <br>\
+                  غِرْقِي]. (K.) ―         -b2-  And, said of a hen, [in the K in art. غرق [in which the hemzeh is said to be augmentative) غرقات بَيْضَهَا] <i>She laid her eggs in the state described above.</i> (K.) [But see what follows.]    </entryFree> <br>\
+<b>غِرْقِيٌ</b>               1     <br>\
+                     غِرْقِيٌ<br>\
+                     ذ<br>\
+                   The <i>integument</i> [or <i>pellicle.</i>] (S, K) <i>that is beneath the</i> <br>\
+                  قَيْض [i. e. <i>shell</i>], (S,) <i>adhering to the white,</i> (K,) <i>of the egg.</i> (S, K.) But Fr says its ء is augmentative, for it is from الغَرَقُ. (S.) Or The <i>white</i> [<i>of the egg</i>], <i>which is eaten:</i> (K:) but this explanation is of weak authority. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,46 @@
+load_data( { book: 'll_nvd', text: 'وقع1<br>\
+وَقَعَ الأَمْرُ<br>\
+The thing, or affair, [fell, befell,]<br>\
+happened; took place; came to pass; became<br>\
+[executed, performed, or] realized; syn. حَصَلَ.<br>\
+(TA.) ―<br>\
+-b2-  وَقَعَ فِى<br>\
+He lighted, or came, upon a<br>\
+thing or place; and he became in a place. ―<br>\
+-b3-<br>\
+وَقَعُوا فِى السُّنَيَّاتِ البِيضِ [They lapsed into the years<br>\
+of scantiness of herbage]. (K in art. سنه, q. v.)<br>\
+―<br>\
+-b4-  وَقَعَ إِلَيْهِ<br>\
+It chanced, or happened, to come to<br>\
+him, or it: and, said of a thing borne by water,<br>\
+it drifted to it, namely, a place. ―<br>\
+-b5-  وَقَعَ عَلَيْهِ<br>\
+It<br>\
+fell, lay, or closed, upon it, or against it. ―<br>\
+-b6-<br>\
+وَقَعَ بِالأَمْرِ<br>\
+He originated the thing, or event, and<br>\
+made it to befall. (TA.) ―<br>\
+-b7-  وَقَعَ<br>\
+He fell into a<br>\
+snare, or the like: he became insnared. ―<br>\
+-b8-<br>\
+وَقَعَ فِى أَرْضٍ فَلَاةٍ<br>\
+i. q.<br>\
+صَارَ فِيهَا [He was, or<br>\
+became, meaning he found himself, came to be,<br>\
+or chanced to be, in a desert, or waterless, land];<br>\
+(Msb:) and فِى رَوْضَةٍ [in a meadow, or garden]:<br>\
+(T, S, in art. انق:) [or he lighted upon, &amp;c.;<br>\
+from the lighting of a bird]. ―<br>\
+-b9-  يَقَعُ followed by<br>\
+عَلَى, often signifies It (a garment, &amp;c., or a<br>\
+portion thereof,) lies against or upon a certain<br>\
+part of the body, &amp;c. ―<br>\
+-b10-  وَقَعَ بِهِمْ and بِهِمْ ↓ أَوْقَعَ<br>\
+He made much slaughter among them: (Msb:)<br>\
+or he fought them vehemently: (K:) or he fell<br>\
+upon them in fight: (PS:) both mean the same:<br>\
+(S:) he made an onslaught upon them:<br>\
+' } );

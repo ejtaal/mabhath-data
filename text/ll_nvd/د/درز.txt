@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'درزدَرْزٌ [A seam, or a raised seam, of a garment or<br>\
+piece of cloth;] the elevation that is occasioned<br>\
+in a garment or piece of cloth when its two edges<br>\
+are put together in the sewing; (Mgh;) one of<br>\
+the دُرُوز of a garment or piece of cloth, (S, TA,)<br>\
+and the like; (TA;) which are well known:<br>\
+(K:) a Persian word, [originally دَرْزْ,] (S, TA,)<br>\
+arabicized: (S, K:) or, accord. to some, the nap,<br>\
+or villous substance, (زِئْبِر,) and lustre, (مَآء,) of a<br>\
+garment, or piece of cloth. (TA.) ―<br>\
+-b2-  [Hence,]<br>\
+بَنَاتُ الدُّرُوزِ (tropical:)  Lice: and nits; syn. صِئْبَانٌ. (S,<br>\
+K, TA.)<br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>قيق</em>            1                  قيق<br>\
+<b>قِيقَا=ءٌ</b>               1     <br>\
+                     قِيقَا=ءٌ<br>\
+                     ذ<br>\
+                  , (K, voce تَلْتَلَةٌ; S, K, voce رَفَضَ, and voce وَلِيعٌ; K, voce جُفٌّ; &amp;amp;c.,) or قِيقَا=ءَةٌ, (S, voce تَلْتَلَةٌ; and TA,) and قِيقَاَةٌ, (TA,) or قِيقَاةٌ and قِيقَايَةٌ, (JK,) The <i>envelope</i> (قِشْر, JK, or وِعَا=ء, TA) <i>of the</i> <br>\
+                  طَلْع [or <i>spadix of the palm-tree</i>]; (JK, TA;) <i>which is made into a drinking-vessel, like the</i> <br>\
+                  تَلْتَلَة: (JK:) the قِيقَا=ء of the طَلْع is the <i>envelope</i> (غِشَا=ء) <i>that is with the</i> <br>\
+                  وَلِيع. (K, voce جُفٌّ.)    </entryFree> <br>\
+<b>قِيقٌ</b>               1     <br>\
+                     قِيقٌ<br>\
+                     ذ<br>\
+                   and see فَاقٌ.    </entryFree> <br>\
+<b>قُياَقٌ</b>               1     <br>\
+                     قُياَقٌ<br>\
+                     ذ<br>\
+                  : see فَاقٌ.    </entryFree> <br>\
+<b>قيقاء</b>               1     <br>\
+                     قيقاء<br>\
+                     ذ<br>\
+                   see voce حَرَبٌ and K, voce وَلِيعٌ and جُفٌّ.   </entryFree> <br>\
+' } );

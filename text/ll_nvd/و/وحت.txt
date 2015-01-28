@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'وحتطَعَامٌ وَحْتٌ Food in which is no good. (L.)<br>\
+' } );

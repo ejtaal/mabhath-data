@@ -1,0 +1,173 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ابد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ابد<br>\
+&lt;entryFree id=&quot;n9&quot; key=&quot;اَبَدَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَبَدَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبِدَ<br>\
+                  &lt;/form&gt;, inf. n. اُبُودٌ, &lt;i&gt;He remained, stayed, abode,&lt;/i&gt; or &lt;i&gt;dwelt,&lt;/i&gt; (T, S, M, K,) &lt;i&gt;constantly, continually,&lt;/i&gt; or &lt;i&gt;permanently, without quitting,&lt;/i&gt; (T, L,) بِمَكَانٍ <br>\
+                  &lt;i&gt;in a place;&lt;/i&gt; (T, S, M, K;) and so اَبَدَ having for its aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبُدَ<br>\
+                  &lt;/form&gt;. (TA.) ―         -b2-  اَبَدَ, (S, M, A, &amp;amp;c.,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبِدَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبُدَ<br>\
+                  &lt;/form&gt;, (T, S, M, L, Msb, K,) inf. n. اُبُودٌ; (M, L, Msb;) and ↓ <br>\
+      تابّد; (T, M, A, Mgh, L;) &lt;i&gt;He&lt;/i&gt; (a beast) &lt;i&gt;became wild,&lt;/i&gt; or &lt;i&gt;sky;&lt;/i&gt; syn. تَوَحَّشَ: (S, M, A, Mgh, L, Msb, K:) [because wild animals live long, unless killed by accident; accord. to what is said by As and others in explanation of اوَابِدٌ (sing. ا=بِدَةٌ) applied to animals, as meaning wild:] &lt;i&gt;took fright, and fled,&lt;/i&gt; or &lt;i&gt;ran away at random:&lt;/i&gt; (Mgh:) &lt;i&gt;took fright at, and shunned, mankind.&lt;/i&gt; (T, Msb.) اُبُودٌ also signifies The &lt;i&gt;shrinking&lt;/i&gt; from a thing, or &lt;i&gt;shunning&lt;/i&gt; it; syn. نُفُورٌ. (Kull pp. 30 and 31.) And اَبِدَ, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبَدَ<br>\
+                  &lt;/form&gt;; (K;) and ↓ <br>\
+      تابّد; (A, K;) &lt;i&gt;He&lt;/i&gt; (a man, S, A,) &lt;i&gt;became unsocial, unsociable, unfamiliar,&lt;/i&gt; or &lt;i&gt;sky; like a wild animal;&lt;/i&gt; syn. توحّش. (S, A, K.) ―         -b3-  [Hence,] اَبَدَ, (K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبِدَ<br>\
+                  &lt;/form&gt;, inf. n. اُبُودٌ, (TA,) (tropical:) &lt;i&gt;He&lt;/i&gt; (a poet) &lt;i&gt;made use, in his verses, of words,&lt;/i&gt; or &lt;i&gt;phrases, strange, unusual, unfamiliar,&lt;/i&gt; or &lt;i&gt;far from being intelligible,&lt;/i&gt; (K, * TA,) &lt;i&gt;such as were not understood&lt;/i&gt; (K) &lt;i&gt;at first sight,&lt;/i&gt; or &lt;i&gt;on first consideration.&lt;/i&gt; (TA.) ―         -b4-  [And perhaps from اَبِدَ in the sense explained above, but more probably, I think, by the substitution of ا for و,] اَبِدَ, aor,      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبَدَ<br>\
+                  &lt;/form&gt;, (T, S, &amp;amp;c.,) inf. n. اَبَدٌ, (L,) &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;was angry;&lt;/i&gt; (T, S, M, L, K;) as also اَمِدَ and وَبِدَ and وَمِدَ and عَبِدَ. (T, L.) You say, اَبِدَ عَلَيْهِ <br>\
+                  &lt;i&gt;He was angry with him.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10&quot; key=&quot;ابّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ابّد<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْبِيدٌ, &lt;i&gt;He made,&lt;/i&gt; or &lt;i&gt;rendered, perpetual.&lt;/i&gt; (S, K.) [See also the pass. part. n. below.] لَمْ اَفْعَلْ تَاْبِيدًا is a phrase used as though meaning ↓ <br>\
+      لَمْ ا=تِ بِا=بِدَةٍ [&lt;i&gt;I did not a deed ever to be remembered,&lt;/i&gt; or &lt;i&gt;mentioned&lt;/i&gt;]. (Ham p. 191.) ―         -b2-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, made&lt;/i&gt; [a beast] &lt;i&gt;to take fright; to become wild,&lt;/i&gt; or &lt;i&gt;sky.&lt;/i&gt; (KL.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n11&quot; key=&quot;تابّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تابّد<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, in two places. ―         -b2-  &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;was long distant from his home;&lt;/i&gt; expl. by طَالَتْ <br>\
+                  غُرْبَتُهُ; (K;) or &lt;i&gt;was long in a state of celibacy;&lt;/i&gt; <br>\
+                  طالت عُزْبَتُهُ, as in one copy of the K; (TA;) &lt;i&gt;and became little in need,&lt;/i&gt; or &lt;i&gt;little desirous, of women.&lt;/i&gt; (K.) ―         -b3-  &lt;i&gt;It&lt;/i&gt; (a place of abode or sojourning) &lt;i&gt;became deserted&lt;/i&gt; [&lt;i&gt;by mankind&lt;/i&gt;]: (T, M, K:) and &lt;i&gt;became inhabited by wild animals.&lt;/i&gt; (T, M, A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12&quot; key=&quot;اـِبْدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبْدٌ<br>\
+                     اباد<br>\
+                     ابد<br>\
+                     ابدى<br>\
+                     ابد<br>\
+                     باد<br>\
+                     بد<br>\
+                     بدا<br>\
+                     آبد<br>\
+                  &lt;/form&gt;: see اـِبِدٌ    <br>\
+&lt;entryFree id=&quot;n13&quot; key=&quot;اَبَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبَدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Time,&lt;/i&gt; syn. دَهْرٌ, (S, M, Msb, K,) &lt;i&gt;in an absolute sense:&lt;/i&gt; (TA:) or &lt;i&gt;a long time,&lt;/i&gt; syn. دَهْرٌ <br>\
+                  طَوِيلٌ: (A, and Mgh: [and this may be meant in the S &amp;amp;c. by the syn. دَهْرٌ alone, q. v.:]) or, properly, &lt;i&gt;a long time&lt;/i&gt; (دهر طويل) &lt;i&gt;that is unlimited:&lt;/i&gt; (Msb, TA:) or &lt;i&gt;an extended space of time that is indivisible;&lt;/i&gt; for you say زَمَانُ كَذَا: “ the time of such a thing,” but not اَبَدُ كَذَا: (Er-Rághib:) [and generally, &lt;i&gt;time,&lt;/i&gt; or &lt;i&gt;duration,&lt;/i&gt; or &lt;i&gt;continuance,&lt;/i&gt; or &lt;i&gt;existence, without end; endless time,&lt;/i&gt; &amp;amp;c.; &lt;i&gt;prospective eternity;&lt;/i&gt; opposed to اَزَلٌ, which signifies “ time, or duration, &amp;amp;c., without beginning: ” (see the latter word for further explanations, &amp;amp;c.:) each of these significations may be meant by the explanation in the S and M and K, which is also given in the Msb: each correctly applies in particular instances:] pl. [of pauc.] ا=بَادٌ (S, M, Msb, K) and [of mult.] اُبُودٌ (S, M, K) [and اَبَدُونَ, of which an ex. will be found below]: but the use of these pls. is restricted to particular cases, to signify portions of time, or to serve as corroboratives to the sing.: (MF:) as signifying an extended indivisible space of time, [or the like,] اَبَدٌ should have neither dual nor pl.; but ا=بَادٌ is sometimes said, when the sing. is restricted to denote a particular part, or portion, of the whole of that to which it applies, in like manner as a generic noun is restricted to a special and partial signification: some, however, have mentioned ا=بَادٌ as being post-classical; not of the language of the Arabs called العَرَبُ العَرْبَا=ءُ. (Er-Rághib.) طَالَ الاَبَدْ عَلَى لُبَدْ [&lt;i&gt;The time became long to Lubad,&lt;/i&gt; the last, and the longest of life, of Luk- mán&#39;s seven vultures, to the term of the life of which his own term of life was decreed to extend,] is a proverb applied to any thing that has been of long duration. (M.) And you say, رَزَقَكَ اْللّٰهُ عُمُرًا <br>\
+                  طَوِيلَ الا=بَادِ بَعِيدَ الا=مَادِ [&lt;i&gt;May God grant thee a life long in duration&lt;/i&gt; (lit. &lt;i&gt;durations,&lt;/i&gt; the pl. form being used not in its proper sense, but to give intensiveness of signification), &lt;i&gt;and remote in limit&lt;/i&gt; (lit. &lt;i&gt;limits&lt;/i&gt;)]. (A.) And كَانَ هٰذَا فِى ا=بَادِ الدَّهْرِ <br>\
+                  &lt;i&gt;This was a long time ago.&lt;/i&gt; (Mgh.) And ↓ <br>\
+      اَبَدٌ ا=بِدٌ (TA) and ↓ <br>\
+      اَبَدٌ اَبِيدٌ, (S, M, TA,) meaning دَايِمٌ [in an intensive sense]; (TA;) [&lt;i&gt;A long,&lt;/i&gt; or &lt;i&gt;an endless, period of time;&lt;/i&gt;] like as you say, دَهْرٌ دَاهِرٌ (S) or دَهْرٌ دَهِيرٌ. (M.) [In each of these phrases, the latter word is added as a corroborative, or to give intensiveness to the signification.] لِلْاَبِدَ and لِاَبِدٍ and [in an intensive sense, as will be seen below,] لِاَبِدَ اَبَدٍ and لِاَبَدِ الاَبَدِ, accord. to different recitals of a trad., signify &lt;i&gt;To the end of time; for ever;&lt;/i&gt; and &lt;i&gt;for ever and ever.&lt;/i&gt; (TA.) اَبَدًا is an adv. n., of which the signification includes all future time; [meaning &lt;i&gt;Ever;&lt;/i&gt; like قَطُّ in relation to past time;] (El-Khafájee, El-Bedr Ed-Demámeenee, MF;) and عَلَى الاَبَدِ signifies the same. (TA.) [So, too, does الاَبَدَ, unless used in a limited sense known to the hearer.] When you say, لَا اُكَلِّمُهُ اَبَدًا, you mean, [&lt;i&gt;I will not speak to him as long as I live,&lt;/i&gt; or &lt;i&gt;henceforth,&lt;/i&gt; or &lt;i&gt;ever;&lt;/i&gt; or &lt;i&gt;I will never speak to him;&lt;/i&gt; i. e.,] from the time of your speaking to the end of your life. (Msb.) [In this case, اَبَدًا may also be considered as a mere corroborative. It is used in both these ways (للتَّاْسِيسِ and لِلتَّوْكِيدِ) in affirmative as well as negative sentences. For exs. of its use in affirmative sentences, see the Kur xviii. 2 and iv. 60, &amp;amp;c.] One also says, لَا اَفْعَلُهُ, (S, M, A,) and لَا ا=تِيهِ, (T, K,) اَبَدَ الا=بَادِ, (T, M, A, K,) which, though of classical authority, is said to be no evidence of the use of ا=باد as a pl. of اَبَدٌ in a general way by the Arabs of the classical ages, as it is here added merely as a corroborative, as ا=زال is in the phrase اَزَلَ الا=زَالِ; (MF;) and اَبَدَ الاَبَدِينَ, (M, A, K,) in which the latter word is not a rel. n., for if so it would be الاَبَدِيِّينَ, but app. a pl., (M,) like اَرَضُونَ; (M, K;) and ↓ <br>\
+      اَبَدَ الا=بِدِينَ, (S, K,) like as you say, دَهْرَ الا=بِدِينَ; (S;) and ↓ <br>\
+      اَبَدَ الاَبَدِيَّةِ; (M, K;) and ↓ <br>\
+      اَبَدَ الاَبِيدِ; (T, S, M, A, K;) and اَبِيدَ ↓ <br>\
+      الاَبِيدِ; (M, K;) and اَبَدَ الاَبَدِ; (K;) and اَبَدَ <br>\
+                  &lt;pb n=&quot;5&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  الدَّهْرِ; (M, K; [in the T يَدَ الدَّهْرِ;]) all of which phrases are the same in meaning; (K;) [i. e. &lt;i&gt;I will not do it,&lt;/i&gt; and &lt;i&gt;I will not come to him,&lt;/i&gt; (or لا ا=تيه may here mean the same as لا افعله,) &lt;i&gt;during the endless space of all future times,&lt;/i&gt; or &lt;i&gt;time;&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; or &lt;i&gt;for ever and ever;&lt;/i&gt;        <br>\
+                  &lt;orth lang=&quot;gr&quot;&gt;εἰς αἰῶνα τῶν αἰώνων&lt;/orth&gt; <br>\
+                  &lt;G/&gt;; &lt;i&gt;in seculum seculorum; in omne ævum;&lt;/i&gt;] the last word in every case being a corroborative. (MF.) ―         -b2-  Also, [for ذُو اَبَدٍ, and (applied to a fem. n.) ذَاتُ اَبَدٍ,] &lt;i&gt;Lasting:&lt;/i&gt; or &lt;i&gt;everlasting.&lt;/i&gt; (S, A, K.) So in the saying, الدُّنيَاء اَمَدٌ وَالا=خِرَةُ اَبَدٌ [&lt;i&gt;The present state of existence is limited in duration, but the final state of existence is everlasting&lt;/i&gt;]. (&#39;Obeyd Ibn-&#39;Omeyr and L.) And الاَبَدُ signifies [&lt;i&gt;The Everlasting;&lt;/i&gt; i. e. God; because He alone is ↓ <br>\
+      البَاقِى الاَبَدِيّ <br>\
+                  &lt;i&gt;The Enduring without end&lt;/i&gt; or &lt;i&gt;cessation;&lt;/i&gt; for the Muslims hold that all living creatures (even the angels) must die, and be raised again to life: or] &lt;i&gt;The Ancient without beginning.&lt;/i&gt; (K.)       -A2-  Also &lt;i&gt;Offspring that is a year old.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14&quot; key=&quot;اَبِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبِدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Unsocial, unsociable, unfamiliar,&lt;/i&gt; or &lt;i&gt;shy; like a wild animal;&lt;/i&gt; applied to a man, and to a young camel: (S, L:) and ↓ <br>\
+      اـِبِدٌ, applied to a female slave, and to a she-ass, signifies &lt;i&gt;shunning mankind, shy,&lt;/i&gt; or &lt;i&gt;wild.&lt;/i&gt; (K.) [See also ا=بِدٌ.]       -A2-  See also اـِبِدٌ, in four places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15&quot; key=&quot;اـِبِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبِدٌ<br>\
+                     اباد<br>\
+                     ابد<br>\
+                     ابدى<br>\
+                     ابد<br>\
+                     باد<br>\
+                     بد<br>\
+                     بدا<br>\
+                     آبد<br>\
+                  &lt;/form&gt;: see اَبِدٌ.       -A2-  This word, (Lth, ISh, S, K,) said by Lth and ISh to be the only word of its measure heard from the Arabs except اـِبِلٌ and نِكِحٌ and خِطِبٌ, but Az says that he had not heard the last two from any person worthy of reliance, and that they are pronounced نِكْحٌ and خِطْبٌ, (L,) [see اـِبِلٌ,] and ↓ <br>\
+      اَبِدٌ and ↓ <br>\
+      اـِبْدٌ, (K,) which are thought by Az to be dial. vars. of the first, (L,) applied to a female slave, and to a she-ass, signify &lt;i&gt;Prolific; that breeds,&lt;/i&gt; or &lt;i&gt;brings forth, plentifully;&lt;/i&gt; (S, K;) and ↓ <br>\
+      اَبِدٌ and ↓ <br>\
+      اَبِدَةٌ (Aboo-Málik, TA) and ↓ <br>\
+      اـِبِدَةٌ, (Aboo-Málik, K,) applied to a she-camel, signify the same: (Aboo-Málik, K, TA:) and اـِبِدٌ (Lth, ISh, L) and ↓ <br>\
+      اَبِدٌ, (M, L,) applied to a female slave, (M, L,) and to a she-ass, (Lth, ISh, M, L,) and to a mare, (M, L,) &lt;i&gt;that brings forth every year;&lt;/i&gt; (Lth, ISh, L;) or applied as a pl. to the female slave and the mare and the she-ass, &lt;i&gt;that breed,&lt;/i&gt; or &lt;i&gt;bring forth:&lt;/i&gt; (M, L:) and الاـِبِدَانِ <br>\
+                  &lt;i&gt;the female slave and the mare.&lt;/i&gt; (K, TA.) In the following saying, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        الَّابِجَدِّ ذِى الاـِبِدْ <br>\
+                     &lt;L&gt;<br>\
+                        لَنْ يُقْلِعَ الجَدُّ النَّكِدْ<br>\
+                     &lt;L&gt;<br>\
+                        فِى كُلِّ مَا عَامٍ تَلِدْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Hard fortune will not depart save with the fortune&lt;/i&gt; which is the necessary attendant &lt;i&gt;of the possessor of the female slave,&lt;/i&gt; as long as he possesses her, (or, if we take ذى in the sense of هٰذِهِ, &lt;i&gt;save with the fortune of this female slave,&lt;/i&gt;) &lt;i&gt;who every year&lt;/i&gt; (ما being redundant) &lt;i&gt;brings forth,&lt;/i&gt;] الابد means the female slave because her being prolific is an obstacle to prosperity, and is not good fortune; i. e., she only increases evil [and brings reproach upon her master by bearing him children; for the Arab in ancient times was considered as dishonoured by his having a child by a slave]. (S.) The Arabs also said, لَنْ يَبْلُغَ الجَدَّ النَّكِدْ ↓ <br>\
+      الاَّ الاَبِدْ, meaning &lt;i&gt;Nothing will attain to the object of removing hard fortune save female slaves and beasts or cattle which breed,&lt;/i&gt; or &lt;i&gt;bring forth.&lt;/i&gt; (M, L: [in the latter of which is added, فِى كُلِّ عَامٍ تَلِدْ <br>\
+                  &lt;i&gt;in every year bringing forth.&lt;/i&gt;])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n16&quot; key=&quot;اَبِدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبِدَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِبِدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17&quot; key=&quot;اـِبِدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبِدَةٌ<br>\
+                     اباد<br>\
+                     ابد<br>\
+                     ابدى<br>\
+                     ابده<br>\
+                     ابده<br>\
+                     ابدة<br>\
+                     باد<br>\
+                     بد<br>\
+                     بدا<br>\
+                     بده<br>\
+                     آبد<br>\
+                     آبده<br>\
+                     آبدة<br>\
+                  &lt;/form&gt;: see اـِبِدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18&quot; key=&quot;اَبَدِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبَدِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَبَدٌ, last sentence but one.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n19&quot; key=&quot;اَبَدِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبَدِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [The &lt;i&gt;quality,&lt;/i&gt; or &lt;i&gt;attribute, of unlimited, indivisible,&lt;/i&gt; or &lt;i&gt;endless, duration; everlastingness&lt;/i&gt;]. (M, K.) See اَبَدٌ. ―         -b2-  اَبَدِيَّاتٌ a term applied to &lt;i&gt;Sayings of which the following is an ex.:&lt;/i&gt; <br>\
+                  لَا ا=تِيكَ <br>\
+                  مَا بَلَّ بَحْرٌ صُوفَةً. (M in art. صوف [q. v.]; &amp;amp;c.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n20&quot; key=&quot;اَبُودٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبُودٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=بِدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21&quot; key=&quot;اَبِيدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبِيدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَبَدٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n22&quot; key=&quot;ا=بِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=بِدٌ<br>\
+                     ا=بد<br>\
+                  &lt;i&gt;Remaining, staying, abiding,&lt;/i&gt; or &lt;i&gt;dwelling, constantly, continually,&lt;/i&gt; or &lt;i&gt;permanently,&lt;/i&gt; in a place; applied to a man [and to a bird]. (L.) And اَوَابِدُ [pl. of ا=بِدَةٌ] Birds &lt;i&gt;that remain in a country constantly, winter and summer;&lt;/i&gt; (T, L;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  قَوَاطِعُ. (A, L.) ―         -b2-  For the phrases اَبَدٌ ا=بِدٌ and اَبَدَ الا=بِدِينَ, see اَبَدٌ. ―         -b3-  A &lt;i&gt;wild&lt;/i&gt; animal; (M, L, Msb;) &lt;i&gt;that shuns, and takes fright at, mankind, amp;c.:&lt;/i&gt; (L, Msb:) fem. with ة: pl. [properly fem.] اَوَابِدُ, (M, Mgh, L,) and [masc. and fem.] اُبَّدٌ: (M, L:) and ↓ <br>\
+      اَبُودٌ is syn. with ا=بِدٌ; (M;) as also ↓ <br>\
+      مُتَاَبِّدٌ. (A.) Wild animals are called اَوَابِدُ (S, M, L, K) and اُبَّدٌ (M, L, K) because they endure for a long, or [naturally] unlimited, time; (M, L;) because they do not die a natural death, (As, M, L, K,) but from some evil accident; and the same is asserted of the serpent. (As, M, L.) [See also اَبِدٌ.] [Hence,] قَيْدُ الاَوَابِدِ (assumed tropical:)  &lt;i&gt;The light,&lt;/i&gt; or &lt;i&gt;active, horse, which overtakes the wild animals, and which they can hardly,&lt;/i&gt; or &lt;i&gt;never, escape:&lt;/i&gt; so called because he prevents their escaping the pursuer like a shackle. (Msb.) [See also art. قيد.] [Hence also the saying,] النِّعَمُ اَوَابِدُ فَقَيِّدُوهَا بِالشُّكْرِ (tropical:)  [&lt;i&gt;Benefits are fugitive,&lt;/i&gt; or &lt;i&gt;fleeting; therefore detain ye them by gratitude&lt;/i&gt;]. (A trad.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23&quot; key=&quot;ا=بِدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=بِدَةٌ<br>\
+                     ا=بده<br>\
+                     ا=بدة<br>\
+                  &lt;/form&gt; fem. of ا=بِدٌ, q. v. ―         -b2-  Also, [as a subst.,] (assumed tropical:)  &lt;i&gt;A deed,&lt;/i&gt; (Har p. 364,) or &lt;i&gt;a calamity,&lt;/i&gt; (S, M, K,) &lt;i&gt;ever to be remembered,&lt;/i&gt; or &lt;i&gt;mentioned,&lt;/i&gt; (S, M, K, Har,) &lt;i&gt;by reason of its extraordinary nature, and its grievousness:&lt;/i&gt; (Har:) or &lt;i&gt;a great,&lt;/i&gt; or &lt;i&gt;formidable, event, at which people take fright,&lt;/i&gt; or &lt;i&gt;are alarmed:&lt;/i&gt; (TA:) or &lt;i&gt;a strange, abominable,&lt;/i&gt; or &lt;i&gt;evil, thing:&lt;/i&gt; (Ham p. 627:) pl. اَوَابِدُ. (K.) You say, جَاءَ فُلَانٌ بِا=بِدَةٍ <br>\
+                  &lt;i&gt;Such a one did,&lt;/i&gt; or &lt;i&gt;brought to pass,&lt;/i&gt; [&lt;i&gt;a deed&lt;/i&gt; or] &lt;i&gt;calamity ever to be remembered,&lt;/i&gt; or &lt;i&gt;mentioned.&lt;/i&gt; (S.) See also 2. ―         -b3-  (tropical:)  &lt;i&gt;A strange, an unusual,&lt;/i&gt; or &lt;i&gt;an unfamiliar, word&lt;/i&gt; or &lt;i&gt;saying; one far from being intelligible;&lt;/i&gt; (M;) pl. اَوَابِدُ, signifying &lt;i&gt;expressions of subtile meanings;&lt;/i&gt; so called because &lt;i&gt;remote from perspicuity.&lt;/i&gt; (Msb.) ―         -b4-  The pl. also signifies (tropical:)  &lt;i&gt;Strange, unusual, unfamiliar,&lt;/i&gt; or &lt;i&gt;extraordinary, rhymes,&lt;/i&gt; or &lt;i&gt;verses,&lt;/i&gt; or &lt;i&gt;poems;&lt;/i&gt; syn. شَوَارِدُ مِنَ القَوَافِى, (S,) or قَوَافٍ شُرَّدٌ. (K.) El-Farezdak says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        لَنْ تُدْرِكُوا كَرَمِى بِلُوْمِ اَبِيكُمُ<br>\
+                     &lt;L&gt;<br>\
+                        وَ اَوَابِدِى بِتَنَحُّلِ الاَشْعَارِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Ye will not attain to my nobility with the ignobleness of your father, nor to my extraordinary verses by arrogating to yourselves the verses of other men&lt;/i&gt;]. (S.) [See اَبَدَ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n24&quot; key=&quot;مُوَبَّدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَبَّدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Made,&lt;/i&gt; or &lt;i&gt;rendered, perpetual&lt;/i&gt;]. You say, وَقَفَ اَرْضَهُ وَقْفًا مُوَبَدًا <br>\
+                  &lt;i&gt;He made his land an unalienable bequest for pious uses in perpetuity, not to be sold nor to be inherited.&lt;/i&gt; (T.) ―         -b2-  Also, with ة, A she-camel that is &lt;i&gt;wild, and intractable,&lt;/i&gt; or &lt;i&gt;unmanageable;&lt;/i&gt; syn. وَحْشِيَّةٌ مُعْتَاصَةٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25&quot; key=&quot;مُتَاَبِّدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَبِّدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=بِدٌ.   &lt;/entryFree&gt; <br>\
+' } );

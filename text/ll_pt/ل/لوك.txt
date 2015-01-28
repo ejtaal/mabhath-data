@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>لوك</em>            1                  لوك<br>\
+<b>لَاكَ</b>               1     <br>\
+                     لَاكَ<br>\
+                     ذ<br>\
+                  <i>He chewed</i> a morsel: (S, K, Msb:) or <i>chewed in the gentlest manner:</i> or <i>chewed</i> something hard; (K;) <i>rolling it about,</i> or <i>turning it round, in his mouth:</i> (TA:) [<i>he</i> (a child) <i>mumbled,</i> or <i>bit softly,</i> his finger]: (S, art. مرث:) <i>he</i> (a horse) <i>champed,</i> (Msb,) or <i>chewed,</i> the bit. (Lth in TA, art. الك.)    </entryFree> <br>\
+<b>اَلِكْنِى اـِلَيْهِ</b>               1     <br>\
+                     اَلِكْنِى اـِلَيْهِ<br>\
+                     ذ<br>\
+                  ; and اَلَكْتُهُ; as though from اَلَاكَهُ: see art. الك.    </entryFree> <br>\
+<b>مَا تَلَوَّكْتُ بِاَلُوكٍ</b>               1     <br>\
+                     مَا تَلَوَّكْتُ بِاَلُوكٍ<br>\
+                     ذ<br>\
+                  : see اَلُوكْ.   </entryFree> <br>\
+' } );

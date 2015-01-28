@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>لكث</em>            1                  لكث<br>\
+<b>لَكَثَ</b>               1     <br>\
+                     لَكَثَ<br>\
+                     ذ<br>\
+                  , [aor.      <br>\
+                     لَكُثَ<br>\
+                  ,] inf. n. لَكْثٌ (and لِكَاثٌ, IAar), <i>He struck,</i> or <i>smote;</i> (K;) accord. to IAar, who does not particularize the hand, nor the foot: (TA:) or, <i>with his hand,</i> or <i>his foot,</i> accord. to some: (TA:) or, <i>with</i> [perhaps a mistake for <i>upon</i>] <i>the mouth.</i> (Kr.) [See also لكد.] ―         -b2-  لَكَتَهُ, [aor.      <br>\
+                     لَكُثَ<br>\
+                  ,] <i>He overburdened him.</i> (K.) ―         -b3-  لَكِثَ, aor.      <br>\
+                     لَكَثَ<br>\
+                  , [inf. n. لَكَثٌ,] <i>He</i> (a camel) <i>was affected with the disorder called</i> <br>\
+                  لَكَثٌ, or لُكَاثٌ. (K.) ―         -b4-  لَكِثَ بِهِ, aor.      <br>\
+                     لَكَثَ<br>\
+                  , <i>It</i> (dirt [see لَكْثٌ]) <i>adhered to it;</i> (K;) i. e., to the vessel. (TA.) [See also لَكِدَ and لَكِعَ.]    </entryFree> <br>\
+<b>لَكْثٌ</b>               1     <br>\
+                     لَكْثٌ<br>\
+                     ذ<br>\
+                   The <i>dirt of milk, which congeals upon the edge of the vessel, and is removed with the hand.</i> (TA.)    </entryFree> <br>\
+<b>لَكَثٌ</b>               1     <br>\
+                     لَكَثٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      لُكَاثٌ (as also نُكَاثٌ, TA,) <i>A disorder in the mouths of camels, resembling pustules.</i> (Lh, K.) ―         -b2-  ↓ <br>\
+      لُكَاثَةٌ, <i>A disorder that attacks sheep or goats in the sides of the mouth and in the lips, resembling an ulcer; happening on their first cropping plants when they are short, with small branches.</i> (L.)    </entryFree> <br>\
+<b>نَاقَةٌ لَكِثَةٌ</b>               1     <br>\
+                     نَاقَةٌ لَكِثَةٌ<br>\
+                     ذ<br>\
+                  <i>A fat she-camel.</i> (K.)    </entryFree> <br>\
+<b>لُكَاثٌ</b>               1     <br>\
+                     لُكَاثٌ<br>\
+                     ذ<br>\
+                  <i>A shining stone in gypsum.</i> (Fr, K.)       -A2-  See لَكَثٌ.    </entryFree> <br>\
+<b>لُكَاثَةٌ</b>               1     <br>\
+                     لُكَاثَةٌ<br>\
+                     ذ<br>\
+                  : see لَكَثٌ.    </entryFree> <br>\
+<b>لُكَّاثٌ</b>               1     <br>\
+                     لُكَّاثٌ<br>\
+                     ذ<br>\
+                   [pl. of لَاكِثٌ?] <i>Preparers of gypsum:</i> (K:) not those who traffick therein. (TA.)    </entryFree> <br>\
+<b>لُكَاثِىٌّ</b>               1     <br>\
+                     لُكَاثِىٌّ<br>\
+                     ذ<br>\
+                   A man (TA) <i>very white:</i> (K:) from لُكَاثٌ as signifying a shining stone in gypsum. (TA.)   </entryFree> <br>\
+' } );

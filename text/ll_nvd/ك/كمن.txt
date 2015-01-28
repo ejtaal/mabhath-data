@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'كمنالكَامَانُ المُذَابُ<br>\
+, mentioned in the TA, in art.<br>\
+نبط, i. q.<br>\
+عِلْكُ الأَنْبَاط, which is applied as a لزوق<br>\
+to a wound.<br>\
+كَامِنٌ<br>\
+Latent.<br>\
+مَكْمَنٌ<br>\
+A place of concealment, a lurking-place:<br>\
+(Mgh, Msb:) pl. مَكَامِنُ. (Msb.)<br>\
+' } );

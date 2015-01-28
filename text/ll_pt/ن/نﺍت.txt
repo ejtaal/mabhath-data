@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نات&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نات<br>\
+&lt;entryFree id=&quot;n39114&quot; key=&quot;نَاَتَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَاَتَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاَِ<br>\
+                  &lt;/form&gt;, (S, K,) contr. to analogy, like يَرْجِع, (TA,) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاََ<br>\
+                  &lt;/form&gt;, (K,) agreeably with analogy, (TA,) inf. n. نَيِيتٌ, (S, K,) of the measure فَعِيلٌ, because it signifies a sound, like اَنِينٌ, (TA,) and نَاْتٌ, (K,) contr. to analogy, because the verb is intrans., (TA,) &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;moaned;&lt;/i&gt; or &lt;i&gt;breathed violently,&lt;/i&gt; or &lt;i&gt;with moaning;&lt;/i&gt; or &lt;i&gt;uttered his voice&lt;/i&gt; or &lt;i&gt;breath with moaning;&lt;/i&gt; syn. اَنَّ, (S, TA) and نَهَتَ: (S, K:) or it signifies &lt;i&gt;he uttered a louder sound than such as is termed&lt;/i&gt; <br>\
+                  اَنِينٌ. (K.)       -A2-  نَاَتَهُ <br>\
+                  &lt;i&gt;He envied him;&lt;/i&gt; (K;) [as also نَاَدَهُ].       -A3-  نَاَتَ, inf. n. نَاْتٌ, &lt;i&gt;He walked,&lt;/i&gt; or &lt;i&gt;went, at a slow pace.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39115&quot; key=&quot;نَاّ=تٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاّ=تٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  نَهَّاتٌ: (S:) النَّاّ=تُ <br>\
+                  &lt;i&gt;The lion.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'رطى4<br>\
+أَرْطَتِ الأَرْضُ The land produced the kind of<br>\
+trees called أَرْطًى [or أَرْطَى; as also آرَطَت, belonging to art. ارط, q. v.]. (S.)<br>\
+رَوَاطٍ Sands producing the trees called أَرْطَى or<br>\
+أَرْطّى. (M.)<br>\
+أَرْطًى [or, as some say, أَرْطَى]: see art. ارط:<br>\
+(K:) it is of the measure أَفْعَلٌ [or أَفْعَلُ] for one<br>\
+reason, and فَعْلًى [or فَعْلَى] for another reason:<br>\
+for they say أَدِيمٌ مَأْرُوطٌ as well as ↓ مَرْطِىٌّ, meaning A hide tanned with the leaves of the tree<br>\
+called ارطى.<br>\
+مَرْطِىٌّ: see أَرْطًى, above.<br>\
+' } );

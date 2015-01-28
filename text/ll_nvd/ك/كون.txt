@@ -1,0 +1,56 @@
+load_data( { book: 'll_nvd', text: 'كون1<br>\
+كَانَ<br>\
+He or it was. A verb of the class<br>\
+called incomplete, (نَاقِصٌ) because, with the<br>\
+agent which it comprises, or to which it relates, it cannot constitute a complete proposition; i. e., non-attributive. The other verbs of<br>\
+this class are, ظَلَّ أَضْحَى أَمْسَى أَصْبَحَ صَارَ,<br>\
+مَا دَامَ مَاا@نْفَكَّ مَا فَتِئَ مَابَرِحَ مَا زَالَ بَاتَ,<br>\
+and لَيْسَ. Each of these governs its noun, or<br>\
+subject, in the nom. case, and its enunciative, or<br>\
+predicate, in the acc. case; as, كَانَ زَيْدٌ قَائِمًا<br>\
+Zeyd was standing. ―<br>\
+-b2-  (The ن in يَكُنْ and the<br>\
+like is often irregularly elided.) ―<br>\
+-b3-  كَانَ, divested<br>\
+of all signification of time. is often used as a<br>\
+copula. (See De Sacy &#39;s Gr. Ar. i. 196.) So too<br>\
+is كَائِنٌ; for هٰذَا زَيْدٌ and هٰذَا كَائِنٌ زَيْدًا signify<br>\
+the same. (Mughnee, voce أَنَّ.) ―<br>\
+-b4-  كَانَ as a<br>\
+complete, i. e., an attributive, verb, see حَصَلَ.<br>\
+in three places.<br>\
+5<br>\
+تَكَوَّنَ<br>\
+He, or it, received, or took, his, or<br>\
+its, being, or existence; came into existence;<br>\
+originated.<br>\
+10<br>\
+اِسْتَكَانَ<br>\
+He was, or became lowly, humble,<br>\
+submissive, or in a state of abasement. (Har, p. 4,<br>\
+q. v.) See اِسْتَكَنَ in art. سكن: and see art. كين.<br>\
+نَعُوذُ بِاللّٰهِ من الحَوْرِ بَعْدَ الكَوْنِ<br>\
+: see حَوْرٌ and<br>\
+كَوْرٌ.<br>\
+كَيْنُونَةٌ<br>\
+:see شَاخَ.<br>\
+مَكَانَةٌ<br>\
+A particular place of being or existence.<br>\
+See an ex. voce نَفْسٌ. ―<br>\
+-b2-  مَكَانَكَ وَزَيْدًا [Keep<br>\
+where thou art and approach not Zeyd!] Heard<br>\
+by Ks. (L, art. عند.) ―<br>\
+-b3-  State, or condition.<br>\
+[Bd, xi. 122, and xxxix. 40.) See art. مكن. ―<br>\
+-b4-<br>\
+مَكَانٌ<br>\
+i. q.<br>\
+مَنْزِلَةٌ. (Bd, xii. 77.) ―<br>\
+-b5-  هٰذَا مَكَانٌ<br>\
+لِقَوْلِنَا كَذَا<br>\
+This is a ground for our saying thus.<br>\
+―<br>\
+-b6-  أَصْبَحَ مَكَانَ كَذَا<br>\
+It became as, or like, such<br>\
+a thing. See a verse cited voce رَتْمٌ.<br>\
+' } );

@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>نمل</em>            1                  نمل<br>\
+<b>نَمَّلَ الثَّوْبَ</b>               1     <br>\
+                     نَمَّلَ الثَّوْبَ<br>\
+                     ذ<br>\
+                   [<i>He mended a garment</i>] i. <i>q.</i> <br>\
+                  رَفَاَهُ. (TA in art. لقط.)    </entryFree> <br>\
+<b>تَنَمُّلٌ</b>               1     <br>\
+                     تَنَمُّلٌ<br>\
+                     ذ<br>\
+                  <i>A formication</i> or <i>stinging,</i> as of the torpedo fish: see “ Abdollatiphi Hist. Aeg. Comp., ” p. 82.    </entryFree> <br>\
+<b>نَمْلُ سُلَيْمَانَ</b>               1     <br>\
+                     نَمْلُ سُلَيْمَانَ<br>\
+                     ذ<br>\
+                  <i>Red ants:</i> see اَحْوَى, in art. حو.    </entryFree> <br>\
+<b>اَنْمَلَةٌ</b>               1     <br>\
+                     اَنْمَلَةٌ<br>\
+                     ذ<br>\
+                   (thus generally written, Msb) The <i>head</i> [or <i>end</i>] <i>of a finger;</i> (S, Msb;) i. e. (Msb) the <i>joint</i> (مَفْصِل) (Az, Msb) <i>in which is the nail:</i> (Az, Msb, K:) [i. e. the <i>ungual phalanx, with,</i> or <i>without, the flesh upon it:</i> (see قَصَبٌ:)] or <i>a joint,</i> or <i>an articulation,</i> (عُقْدَة) <i>of the fingers.</i> (Msb.)   </entryFree> <br>\
+' } );

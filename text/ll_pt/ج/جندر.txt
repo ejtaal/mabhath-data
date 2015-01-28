@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جندر</em>            1                  جندر<br>\
+<b>جَنْدَرَ</b>               1     <br>\
+                     جَنْدَرَ<br>\
+                     جندر<br>\
+                  : see Q. Q. 1 in art. جدر.   </entryFree> <br>\
+' } );

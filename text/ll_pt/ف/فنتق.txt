@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>فنتق</em>            1                  فنتق<br>\
+<b>فُنْتُقٌ</b>               1     <br>\
+                     فُنْتُقٌ<br>\
+                     ذ<br>\
+                  <i>A</i> <br>\
+                  خَان <br>\
+                  <i>of the way</i> or <i>road;</i> (Ibn-&#39;Abbád, O, K;) a dial. var. of فُنْدُقٌ [q. v.]; disapproved by El-Khafájee; but heard by Fr from a desertArab of Kudá&#39;ah, as meaning <i>a</i> <br>\
+                  فُنْدُق, i. e. خَان. (TA.)   </entryFree> <br>\
+' } );

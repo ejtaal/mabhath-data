@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>موى</em>            1                  موى<br>\
+<b>مَاهَةٌ</b>               1     <br>\
+                     مَاهَةٌ<br>\
+                     ذ<br>\
+                  <i>Small-pox:</i> see ا=هَةٌ in art. اوه.    </entryFree> <br>\
+<b>مَاوِيَّةٌ</b>               1     <br>\
+                     مَاوِيَّةٌ<br>\
+                     ماويه<br>\
+                     ماوية<br>\
+                     مايي<br>\
+                     مايية<br>\
+                  <i>A mirror;</i> so called in relation to water, because of its clearness, and because images are seen in it as they are in clear water: the م is a radical letter. (T in art. اوى.)   </entryFree> <br>\
+' } );

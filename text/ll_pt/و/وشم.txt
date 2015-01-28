@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>وشم</em>            1                  وشم<br>\
+<b>اَوْشَمَ فِيهِ</b>               1     <br>\
+                     اَوْشَمَ فِيهِ<br>\
+                     ذ<br>\
+                  , said of hoariness, <i>It became abundant,</i> or <i>spread:</i> see 5 in art. سنم.    </entryFree> <br>\
+<b>اِتَّشَمَتْ بِالنَّوُورِ</b>               1     <br>\
+                     اِتَّشَمَتْ بِالنَّوُورِ<br>\
+                     ذ<br>\
+                   [<i>She tattooed herself with smoke-black</i>]. (T, art. نور.)    </entryFree> <br>\
+<b>وَشْمٌ</b>               1     <br>\
+                     وَشْمٌ<br>\
+                     ذ<br>\
+                  <i>Tattoo:</i> see اَسَفَّ and قَرَّحَ.    </entryFree> <br>\
+<b>وَاشِمَةٌ</b>               1     <br>\
+                     وَاشِمَةٌ<br>\
+                     ذ<br>\
+                  <i>A female tattooer.</i> See رَجَعَ, latter part of the paragraph.    </entryFree> <br>\
+<b>مُوَشَّمٌ</b>               1     <br>\
+                     مُوَشَّمٌ<br>\
+                     ذ<br>\
+                   [<i>Tattooed</i>]: see a verse cited voce طَفْلٌ.   </entryFree> <br>\
+' } );

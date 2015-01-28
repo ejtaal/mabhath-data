@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>لصب</em>            1                  لصب<br>\
+<b>لَصِبَ السَّيْفُ فِى الغِمْدِ</b>               1     <br>\
+                     لَصِبَ السَّيْفُ فِى الغِمْدِ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَصَبَ<br>\
+                  , (inf. n. لَصْبٌ, as in a copy of the S, perhaps a mistake for لَصَبٌ,) <i>The sword stuck in the scabbard,</i> (S, K,) <i>and would not come forth.</i> (S.) See also لَسِبَ and لَزَبَ. ―         -b2-  لَصِبَ الجِلْدُ بِاللَّحْمِ (K) or simply لصب الجلد, (S,) <i>The skin stuck to the flesh, by reason of emaciation.</i> (S, K.) ―         -b3-  لَصِبَ الخَاتَمُ <br>\
+                  فِى الاـِصْبَعِ <br>\
+                  <i>The ring stuck fast upon the finger:</i> contr. of قَلِقَ. (S, K.)    </entryFree> <br>\
+<b>التصب</b>               1     <br>\
+                     التصب<br>\
+                     ذ<br>\
+                  <i>It became narrow.</i> (TA.)    </entryFree> <br>\
+<b>لِصْبٌ</b>               1     <br>\
+                     لِصْبٌ<br>\
+                     ذ<br>\
+                  <i>A small ravine,</i> or <i>gap,</i> (شِعْبٌ صَغِيرٌ,) <i>in a mountain,</i> (S, K,) <i>narrower than a</i> <br>\
+                  لِهْب, <i>and wider than a</i> <br>\
+                  شِعْب: (K:) or <i>a cleft</i> (شَقٌّ) <i>in a mountain, narrower than a</i> <br>\
+                  لهب, <i>and wider than a</i> <br>\
+                  شعب: (Es-Sukkaree:) or the <i>narrow part of a valley:</i> (K:) and <i>any narrow place in a mountain:</i> (S:) pl. لِصَابٌ and لُصُوبٌ. (K.) [In two copies of the S, these two pls., app. by the careless omission of the word الجَمْعُ, are made syn. with لِصْبٌ in the last of the senses explained above.]    </entryFree> <br>\
+<b>لَصِبٌ</b>               1     <br>\
+                     لَصِبٌ<br>\
+                     ذ<br>\
+                   Skin <i>sticking to the flesh, by reason of emaciation.</i> (TA.) ―         -b2-  <i>A species of</i> [<i>the kind of barley called</i>] سُلْت, (K,) <i>difficult to clear</i> [<i>from the husks</i>]: <i>some of it is trodden, and the rest requires</i> [<i>machines, such as are called</i>] مَنَاجِينُ [pl. of مَنْجَنُونٌ]. (TA.) ―         -b3-  <i>Avaricious, tenacious</i> or <i>niggardly, and of difficult disposition.</i> (K.) ―         -b4-  فُلَانٌ لَحِزٌ لَصِبٌ <br>\
+                  <i>Such a one</i> [<i>is a niggard, who</i>] <i>hardly gives anything.</i> (S)    </entryFree> <br>\
+<b>لَوَاصِبُ</b>               1     <br>\
+                     لَوَاصِبُ<br>\
+                     ذ<br>\
+                   [pl.], (in the poetry of Kutheiyir, S,) <i>Narrow and deep wells.</i> (S, K.)    </entryFree> <br>\
+<b>مِلْصَابٌ</b>               1     <br>\
+                     مِلْصَابٌ<br>\
+                     ذ<br>\
+                   A sword <i>that sticks much in the scabbard;</i> (K;) <i>scarcely coming out from it.</i> (TA.)    </entryFree> <br>\
+<b>مُلْتَصِبٌ</b>               1     <br>\
+                     مُلْتَصِبٌ<br>\
+                     ذ<br>\
+                   A <i>narrow</i> road. (K)   </entryFree> <br>\
+' } );

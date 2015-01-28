@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>كيف</em>            1                  كيف<br>\
+<b>كَيَّفْتُهُ فَتَكَيَّفَ</b>               1     <br>\
+                     كَيَّفْتُهُ فَتَكَيَّفَ<br>\
+                     ذ<br>\
+                  , used by the Muslim theologians, (K, TA,) verbs derived from كَيْفَ, (TA,) [signifying <i>I specified by the ascription of its quality</i> and <i>it became so specified,</i>] are formed in accordance with analogy, not heard from the Arabs. (K, * TA.)    </entryFree> <br>\
+<b>تَكَيَّفَ</b>               1     <br>\
+                     تَكَيَّفَ<br>\
+                     ذ<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>كَيْفِيَّةٌ</b>               1     <br>\
+                     كَيْفِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>Quality as answering to</i> “ <i>how?</i> ”; <i>mode,</i> or <i>manner, of being.</i>    <br>\
+<b>كَيْفُوفِيَّةٌ</b>               1     <br>\
+                     كَيْفُوفِيَّةٌ<br>\
+                     ذ<br>\
+                   for كَيْفِيَّةٌ: see تَيْسِيَّةٌ.   </entryFree> <br>\
+' } );

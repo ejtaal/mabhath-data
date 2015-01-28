@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>حقف</em>            1                  حقف<br>\
+<b>حَقَفَ</b>               1     <br>\
+                     حَقَفَ<br>\
+                     حقف<br>\
+                  , aor.      <br>\
+                     حَقُفَ<br>\
+                  , inf.n. حُقُوفٌ, <i>It</i> (a thing) <i>was,</i> or <i>became, curved, bent,</i> or <i>winding.</i> (Msb.) حُقُوفٌ also signifies A gazelle&#39;s <i>being in the condition denoted by</i> [<i>the part. n.</i>] حَاقِفٌ <br>\
+                  <i>in the phrase</i> <br>\
+                  ظَبْىٌ حَاقِفٌ, which see below. (Ibn- &#39;Abbád, K.)    </entryFree> <br>\
+<b>احقوقف</b>               1     <br>\
+                     احقوقف<br>\
+                     احقوقف<br>\
+                  , said of sand, and of the هِلَال [or moon when, being near the sun, it shows a narrow rim of light], (S, K,) and of the back, (K,) or of anything, such as the back of a camel, (L,) <i>It was curved, bent,</i> or <i>winding,</i> (S, L, K,) <i>and long.</i> (L, K.)    </entryFree> <br>\
+<b>حِقْفٌ</b>               1     <br>\
+                     حِقْفٌ<br>\
+                     حقف<br>\
+                  <i>A curving,</i> or <i>winding, tract of sand:</i> (S, Mgh, Msb, K:) pl. [of pauc.] اَحْقَافٌ (S, Msb, K) and [of mult.] حِقَافٌ (S, K) and حُقُوفٌ, (O, L, K,) and pl. pl. حَقَايِفُ and حِقَفَةٌ, (K,) the former of these two being pl. of اَحْقَافٌ or of حِقَافٌ, (L, TA,) but the latter of them, accord. to the O, is a pl., not a pl. pl. : (TA:) or <i>a heap,</i> or <i>hill, of sand, that has assumed a bowed form:</i> (IDrd, TA:) or <i>a curving,</i> or <i>winding, thin tract of sand:</i> (Har p. 51:) or <i>a great, round tract of sand:</i> (Ibn-&#39; Arafeh, K:) or <i>an oblong, elevated tract of sand:</i> (Fr, K:) or الاَحْقَافُ applies [particularly] to <i>certain oblong tracts of sand in the region of Esh-Shihr:</i> (K, * TA:) accord. to J, [in the S,] to <i>the country of &#39;Ád.</i> (TA.) ―         -b2-  Also The <i>lower,</i> or <i>lowest, part of a tract of sand,</i> and <i>of a mountain,</i> and <i>of a wall.</i> (O, L, K.)    </entryFree> <br>\
+<b>حَاقِفٌ</b>               1     <br>\
+                     حَاقِفٌ<br>\
+                     حاقف<br>\
+                   A gazelle [<i>lying</i>] <i>bent together,</i> or <i>curled,</i> (A &#39;Obeyd, S, Mgh, Msb, K,) <i>like a</i> <br>\
+                  حِقْف <br>\
+                  <i>of sand,</i> (Az, Sgh, K,) <i>in his sleep,</i> (A&#39;Obeyd, S, K,) or <i>in consequence of a wound &amp;amp;c.</i>: (Msb:) or <i>lying upon his breast on a</i> <br>\
+                  حِقْف <br>\
+                  <i>of sand:</i> (IAar, K:) or, as some say, <i>upon,</i> or <i>at, the lower,</i> or <i>lowest, part of a</i> <br>\
+                  حِقْف. (Mgh.)    </entryFree> <br>\
+<b>اَحْقَفُ</b>               1     <br>\
+                     اَحْقَفُ<br>\
+                     ذ<br>\
+                   A camel <i>lank in the belly.</i> (ISh, K.)   </entryFree> <br>\
+' } );

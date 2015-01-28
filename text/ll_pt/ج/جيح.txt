@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>جيح</em>            1                  جيح<br>\
+<b>جَاحَتِ الا=فَةُ المَالَ</b>               1     <br>\
+                     جَاحَتِ الا=فَةُ المَالَ<br>\
+                     جاحت الا=فة المال<br>\
+                  , aor. تَجِيحُهُ, inf. n. جِيَاحَةٌ, [perhaps a mistranscription for جَايِحَةٌ,] <i>i. q.</i> <br>\
+                  جَاحَتْهُ of which the aor. is تَجُوحُهُ: see art. جوح. (Msb.) And جَاحَهُمُ اْللّٰهُ, inf. n. جَيْحٌ and جَايِحَةٌ, the latter an inf. n. like عَافِيَةٌ, <i>God afflicted them with a calamity.</i> (TA.)    </entryFree> <br>\
+<b>مَجِيحٌ</b>               1     <br>\
+                     مَجِيحٌ<br>\
+                     مجيح<br>\
+                  <i>i. q.</i> <br>\
+                  مَجُوحٌ: see art. جوح. (Msb.)   </entryFree> <br>\
+' } );

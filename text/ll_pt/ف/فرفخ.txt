@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>فرفخ</em>            1                  فرفخ<br>\
+<b>فَرْفَخٌ</b>               1     <br>\
+                     فَرْفَخٌ<br>\
+                     ذ<br>\
+                   (S, A, L, K) and ↓ <br>\
+      فَرْفَخَةٌ, (L,) [the former app. a coll. gen. n., and the latter the n. un., <i>Purslane,</i> or <i>garden purslane;</i>] the <i>herb called</i> <br>\
+                  البَقْلَةُ الحَمْقَا=ءُ, (S, A, L,) <i>which does not grow in Nejd,</i> (L,) <i>also called</i> <br>\
+                  فَرْفِينٌ, (S, A,) <i>i. q.</i> <br>\
+                  رِجْلَةٌ: (S, L, K:) an arabicized word, from the Pers. پَرْپَهْن, which signifies “ broad-winged. ” (AHn, L, K.) ―         -b2-  Also, the former, The كَعَابِر [which are <i>things that are taken forth,</i> or <i>picked out, and thrown away, in the clearing</i>] <i>of wheat.</i> (K.)    </entryFree> <br>\
+<b>فَرْفَخَةٌ</b>               1     <br>\
+                     فَرْفَخَةٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.   </entryFree> <br>\
+' } );

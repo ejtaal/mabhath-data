@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'قرنبقَرْنَبٌ The jerboa; or a rat, or mouse; syn.<br>\
+قَأْرَةٌ: or the young one generated between it and a<br>\
+jerboa: (K:) and فرنب [i. e. فِرْنِبٌ, with kesr,]<br>\
+is a dial. var. thereof. (So in the TA. [But I<br>\
+incline to think that قَرْنَبٌ is a mistranscription<br>\
+for فِرْنِبٌ.])<br>\
+قُرْنُبٌ The flank: (IAar, O, K:) or a flabby<br>\
+flank. (TA.)<br>\
+قَرَنْبَى An insect resembling the [beetle called]<br>\
+خُنْفَسَآء, or somewhat larger than the latter, with<br>\
+long hind-legs: (As, T, TA:) or an insect with long<br>\
+hind-legs, resembling the خنفسآء, (S, O, Meyd,)<br>\
+but somewhat larger, (S, O,) having a speckled<br>\
+back. (Meyd.) It is said in prov., القَرَنْبَى فِى<br>\
+عَيْنِ أُمِّهَا حَسَنَةٌ [The karembà in the eye of its<br>\
+mother is beautiful]. (S, O, Meyd. [Mentioned<br>\
+in the S and O, in art. قرب.]) [See اِبْنُ الفَاسِيَآءِ,<br>\
+in art. فسو.]<br>\
+' } );

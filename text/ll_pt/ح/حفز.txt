@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>حفز</em>            1                  حفز<br>\
+<b>حَفَزَهُ</b>               1     <br>\
+                     حَفَزَهُ<br>\
+                     حفز<br>\
+                     حفزه<br>\
+                     حفزة<br>\
+                  , aor.      <br>\
+                     حَفِزَ<br>\
+                  , (S, K,) inf. n. حَفْزٌ, (S,) <i>He hastened,</i> or <i>hurried,</i> or <i>incited, him,</i> or <i>it, from behind, either by driving or otherwise:</i> this is the primary signification. (TA.) You say, حَفَزَهُ عَنِ <br>\
+                  الاَمْرِ, (K,) aor. and inf. n. as above, (IDrd, TA,) <i>He hastened,</i> or <i>hurried, and urged, him away from the thing</i> or <i>affair.</i> (IDrd, K, * TA.) ―         -b2-  <i>He pushed him,</i> or <i>it, from behind.</i> (S, K.) [Hence,] حَفَزَ اللَّيْلُ النَّهَارَ, (K,) aor. as above, (S,) and so the inf. n., (TA,) (assumed tropical:)  <i>The night urged on the day.</i> (S, K, TA.) ―         -b3-  <i>He put in motion,</i> and <i>disturbed,</i> or <i>removed, him,</i> or <i>it.</i> (Mgh.) ―         -b4-  <i>He thrust him,</i> or <i>pierced him,</i> <br>\
+                  بِالرُّمْحِ <br>\
+                  <i>with the spear.</i> (S, K.) ―         -b5-  [Hence,] حَفَزَ signifies also (assumed tropical:)  <i>Inivit</i> feminam. (Sgh, K.) ―         -b6-  حَفَزُوا عَلَيْنَا الخَيْلَ وَالرِّكَابَ <br>\
+                  <i>They poured upon us</i> [<i>the horses and the camels with their riders</i>]. (Shujáa El-Aarábee, TA.)    </entryFree> <br>\
+                     تَحَفَّزَ<br>\
+                   see 8, in two places.    </entryFree> <br>\
+<b>احتفز</b>               1     <br>\
+                     احتفز<br>\
+                     احتفز<br>\
+                     احتفز<br>\
+                     ٱحتفز<br>\
+                  <i>He urged,</i> or <i>pressed forward, and strove,</i> in his gait, or pace; (IAar, K;) [and so ↓ <br>\
+      تحفّز: see الدَّوَالِيكُ, in art. دلك; and دَوَالَيْكَ, in art. دول.] ―         -b2-  <i>He sat upright, not in an easy posture;</i> syn. اِسْتَوْفَزَ; as also ↓ <br>\
+      تحفّز. (K.) [See the part. n., below.] ―         -b3-  <i>He drew himself together</i> (تَضَامَّ) <i>in his prostration and sitting.</i> (K.) It is said in a trad. of &#39;Alee, اـِذَا صَلَّتِ المَرْاَةُ فَلْتَحْتَفِزْ <br>\
+                  <i>When the woman prays, let her draw herself together in her sitting and prostration,</i> (S, Mgh, * TA,) <i>and not put her arms apart from her sides, like the man.</i> (S, TA.) ―         -b4-  <i>He settled himself in a sitting posture upon his buttocks:</i> (En-Nadr, K:) or <i>upon his knees, as though he would rise:</i> (TA:) or <i>he was uneasy, and raised himself, being vexed,</i> or <i>disquieted by grief:</i> (IAth:) or <i>he desired to rise and to lay violent hands upon a thing,</i> while sitting. (TA.)    </entryFree> <br>\
+<b>مُحْتَفِزٌ</b>               1     <br>\
+                     مُحْتَفِزٌ<br>\
+                     محتفز<br>\
+                  <i>Hasting;</i> (TA;) <i>sitting upright, not in an easy posture,</i> (مُسْتَوْفِزٌ, S, Mgh, TA,) <i>desiring to rise, not sitting firmly upon the ground.</i> (TA.)   </entryFree> <br>\
+' } );

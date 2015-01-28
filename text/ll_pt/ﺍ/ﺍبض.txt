@@ -1,0 +1,68 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ابض&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ابض<br>\
+&lt;entryFree id=&quot;n40&quot; key=&quot;اَبَضَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَبَضَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبِضَ<br>\
+                  &lt;/form&gt; (S, A, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبُضَ<br>\
+                  &lt;/form&gt; (L,) inf. n. اَبْضٌ (S) and اُبُوضٌ (L,) &lt;i&gt;He tied,&lt;/i&gt; or &lt;i&gt;bound, the pastern of his&lt;/i&gt; (a camel&#39;s) &lt;i&gt;fore leg to his&lt;/i&gt; (the camel&#39;s) عَضُد [or &lt;i&gt;arm&lt;/i&gt;], &lt;i&gt;so that his fore leg became raised from the ground;&lt;/i&gt; (S, A, K;) as also ↓ <br>\
+      تابّضهُ: (S, K:) and accord. to IAar, اَبْضٌ signifies [simply] the act of &lt;i&gt;tying,&lt;/i&gt; or &lt;i&gt;binding.&lt;/i&gt; (TA.)       -A2-  [Also, inf. n. اَبْضٌ, &lt;i&gt;He loosed him,&lt;/i&gt; or &lt;i&gt;it:&lt;/i&gt; for] اَبْضٌ also signifies the act of &lt;i&gt;loosing;&lt;/i&gt; syn. تَخْلِيَةٌ; i. e. &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  شَدٌّ: (IAar, K:) thus bearing two contr. significations. (TA.)       -A3-  Also, (K,) inf. n. اَبْضٌ, (TA,) &lt;i&gt;He hit,&lt;/i&gt; or &lt;i&gt;hurt, his vein called the&lt;/i&gt; <br>\
+                  اـِبَاض. (K, TA.)       -A4-  اَبَضَ (S, L, K,) inf. n. اَبْضٌٰ; (TA;) and اَبِضَ; (S, L, K;) &lt;i&gt;It&lt;/i&gt; (the vein called النَّسَا) &lt;i&gt;became contracted,&lt;/i&gt; (S, L, K,) &lt;i&gt;and strengthened the hind legs;&lt;/i&gt; (L;) as also ↓ <br>\
+      تابّض: (S, L:) and ↓ <br>\
+      تَاَبُّضٌ in the hind legs signifies their &lt;i&gt;being contracted&lt;/i&gt; (A, TA) &lt;i&gt;and tense:&lt;/i&gt; (TA:) تَاَبُّض of the hind legs of a horse, and تَشَنُّج [or contraction] of the vein above mentioned, are qualities approved; and the latter is known by means of the former. (AO, TA.)       -A5-  اَبْضٌ also signifies The &lt;i&gt;being in a state of rest,&lt;/i&gt; or &lt;i&gt;motionless.&lt;/i&gt; (IAar, K.)       -A6-  And The &lt;i&gt;being in a state of motion:&lt;/i&gt; (I Aar, K:) thus, again, having two contr. significations. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41&quot; key=&quot;تابّض&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تابّض<br>\
+                     ذ<br>\
+                  &lt;i&gt;He&lt;/i&gt; (a camel) &lt;i&gt;had his pastern of his fore leg tied,&lt;/i&gt; or &lt;i&gt;bound, to his arm, so that his fore leg became raised from the ground.&lt;/i&gt; (S, K.) You say, تَقَبَّضَ كَاَنَّمَا تَاَبَّضَ [&lt;i&gt;He contracted himself as though he had his leg thus bound&lt;/i&gt;]. (A, TA.) ―         -b2-  تابّضت <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;sat in the posture of the&lt;/i&gt; ↓ <br>\
+      مُتَاَبِّض [app. meaning &lt;i&gt;having her shanks pressed back against her thighs&lt;/i&gt;]. (TA.) ―         -b3-  See also اَبَضَ, in two places.       -A2-  تابضهُ: see اَبَضَهُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42&quot; key=&quot;اَبْضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبْضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, or اُبُضٌ, or اـِبِضٌ, or اُبَّضٌ: see مَاْبِضٌ.       -A2-  Also, the first, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  دَهْرٌ [&lt;i&gt;Time;&lt;/i&gt; or a &lt;i&gt;long period of time;&lt;/i&gt; or &lt;i&gt;a period of time whether long or short;&lt;/i&gt; &amp;amp;c.]: pl. ا=بَاضٌ. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43&quot; key=&quot;اـِبَاضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبَاضٌ<br>\
+                     ابض<br>\
+                     اباض<br>\
+                     آباض<br>\
+                  &lt;/form&gt; The &lt;i&gt;cord,&lt;/i&gt; or &lt;i&gt;rope, with which the pastern of a camel&#39;s fore leg is tied,&lt;/i&gt; or &lt;i&gt;bound, to his arm, so that his fore leg is raised from the ground:&lt;/i&gt; (As, S, A, K:) pl. اُبُضٌ. (K.) The dim. is ↓ <br>\
+      اُبَيِّضٌ. (S.) ―         -b2-  &lt;i&gt;A certain vein&lt;/i&gt; (عِرْق) &lt;i&gt;in the hind leg&lt;/i&gt; (AO, K) &lt;i&gt;of a horse.&lt;/i&gt; (AO.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44&quot; key=&quot;اَبُوضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبُوضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) or اَبُوضُ النَّسَا, (ISh,) A &lt;i&gt;very swift&lt;/i&gt; horse: (ISh, K:) as though he bound up his hind legs by the quickness with which he raised them when he put them down. (ISh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n45&quot; key=&quot;اُبَيِّضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُبَيِّضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِبَاضٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n46&quot; key=&quot;مَاْبِضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْبِضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;inner side of the knee&lt;/i&gt; (S, A, K) of any thing: (S:) or the inner sides of the two knees are called مَاْبِضَا السَّاقَيْنِ: (T, TA:) or &lt;i&gt;any part upon which a man bends,&lt;/i&gt; or &lt;i&gt;folds, his thigh:&lt;/i&gt; or what &lt;i&gt;is beneath each thigh, in the prominent places of the lower parts thereof:&lt;/i&gt; or the &lt;i&gt;inner side of each thigh, as far as the belly:&lt;/i&gt; and also the &lt;i&gt;wrist;&lt;/i&gt; the &lt;i&gt;joint of the hand in the fore arm:&lt;/i&gt; (TA:) and in the camel, (K,) [i. e.] in each of the fore legs of the camel, (T, TA,) the &lt;i&gt;inner side of the elbow:&lt;/i&gt; (T, K, TA:) as also ↓اٌبْضٌ; (IDrd, K;) or, as in [some of] the copies of the S in art. بيض, ↓ <br>\
+      اُبُضٌ; [in one copy of the S ↓ <br>\
+      اُبَّضٌ; and in another, imperfectly written;] but some write it ↓ <br>\
+      اـِبِضٌ: and one says, اَخَذَ بِاـِبِضِهِ, meaning &lt;i&gt;He put his hands,&lt;/i&gt; or &lt;i&gt;arms, beneath his knees, from behind, and then carried him.&lt;/i&gt; (TA.) The pl. of مَاْبِضٌ is مَا=بِضُ. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n47&quot; key=&quot;مَاْبُوضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْبُوضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A camel &lt;i&gt;having the pastern of his fore leg tied,&lt;/i&gt; or &lt;i&gt;bound, to his arm, so that his fore leg is raised from the ground;&lt;/i&gt; (A, * TA;) as also ↓ <br>\
+      مُتَاَبِّضٌ: (S:) or the latter, &lt;i&gt;having his fore shank bound to his arm with the&lt;/i&gt; <br>\
+                  اـِبَاض (K.)       -A2-  &lt;i&gt;Hit,&lt;/i&gt; or &lt;i&gt;hurt, in the vein called the&lt;/i&gt; <br>\
+                  اـِبَاض. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n48&quot; key=&quot;مُوْتَبِضُ النَّسَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْتَبِضُ النَّسَا<br>\
+                     ذ<br>\
+                  &lt;i&gt;The crow:&lt;/i&gt; because it hops as though it were مَاْبُوض (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n49&quot; key=&quot;مُتَاَبِّضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَبِّضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَاْبُوضٌ: and see 5.       -A2-  Also &lt;i&gt;Having the vein called اـِبَاض in a tense state.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

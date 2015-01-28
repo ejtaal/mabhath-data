@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>نحل</em>            1                  نحل<br>\
+<b>نَحَِلَ جِسْمُهُ</b>               1     <br>\
+                     نَحَِلَ جِسْمُهُ<br>\
+                     ذ<br>\
+                  <i>His body became lean,</i> or <i>emaciated.</i> (S.)    </entryFree> <br>\
+<b>نِحْلَةٌ</b>               1     <br>\
+                     نِحْلَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  فَرِيضَةٌ; or دِيَانَةٌ; and دِينٌ, as in the saying مَا نِحْلَتُكَ [<i>What is thy religion?</i>]. (TA.)   </entryFree> <br>\
+' } );

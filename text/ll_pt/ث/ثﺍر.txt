@@ -1,0 +1,76 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ثار&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ثار<br>\
+&lt;entryFree id=&quot;n4287&quot; key=&quot;ثَاَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ثَاَرَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, Msb,) and ثَاَرَ بِهِ, (T, S, M, Msb, K) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ثَاََ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. ثَاْرٌ and ثُوْرَةٌ, (S,) or the latter is a simple subst., as is also ثُوُورَةٌ, (Lh, M, K,) &lt;i&gt;He revenged,&lt;/i&gt; or &lt;i&gt;avenged, his blood, by retaliating his slaughter; he slew his slayer.&lt;/i&gt; (T, S, M, Msb, K.) [Hence, ثُيِرَ مَقْتُولُهُ and بِمَقْتُولِهِ <br>\
+                  &lt;i&gt;The blood of his slain relation was revenged,&lt;/i&gt; or &lt;i&gt;avenged, by retaliation of his slaughter:&lt;/i&gt; see 10.] ―         -b2-  [Hence also,] لَا ثَاَرَتْ فُلَانًا يَدَاهُ, (K,) or عَلَى <br>\
+                  فُلَانٍ, (A,) (tropical:)  &lt;i&gt;May his arms,&lt;/i&gt; or &lt;i&gt;hands, not profit such a one.&lt;/i&gt; (A, K.) ―         -b3-  Also ثَاَرَهُ, and ثَاَرَ بِهِ, (M, K,) and ثَاَرَ القَوْمَ, inf. n. ثَاْرٌ, (T,) &lt;i&gt;He sought to revenge,&lt;/i&gt; or &lt;i&gt;avenge,&lt;/i&gt; or &lt;i&gt;retaliate,&lt;/i&gt; (T, M, K,) &lt;i&gt;his blood,&lt;/i&gt; (M, K,) and &lt;i&gt;the blood of the people,&lt;/i&gt; or &lt;i&gt;party.&lt;/i&gt; (T.) It is said in a prov., لَا يَنَامُ مَنْ ثَاَرَ [&lt;i&gt;He will not sleep who seeks to revenge,&lt;/i&gt; or &lt;i&gt;avenge,&lt;/i&gt; or &lt;i&gt;retaliate, blood&lt;/i&gt;]: in the Kámil of Mbr, [and in some copies of Meyd,] ↓ <br>\
+      مَنِ اْثَّاَرِ [which seems to signify the same]. (TA.) ―         -b4-  [And ثَاَرَهُ and ثَاَرَ بِهِ signify also &lt;i&gt;He slew him in blood-revenge,&lt;/i&gt; or &lt;i&gt;in retaliation of the blood of a relation:&lt;/i&gt; see مَثْوُورٌ.] ―         -b5-  ثَاَرْتُكَ بِكَذَا <br>\
+                  &lt;i&gt;I have obtained my bloodrevenge,&lt;/i&gt; or &lt;i&gt;retaliation, of thee by such [a deed,&lt;/i&gt; or &lt;i&gt;person&lt;/i&gt;]. (S, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَثْاََ<br>\
+                  &lt;/form&gt; see 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4288&quot; key=&quot;اِثَّاَرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِثَّاَرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; originally اِثْتَاَرَ <br>\
+                  &lt;i&gt;He obtained his bloodrevenge,&lt;/i&gt; or &lt;i&gt;retaliation;&lt;/i&gt; syn. اَدْرَك ثَاْرَهُ; (T, S, M, K;) مِنْهُ <br>\
+                  &lt;i&gt;from him;&lt;/i&gt; (T, S;) as also ↓ <br>\
+      اَثْاَرَ: (M, K:) and اِثَّاَرَ مِنْهُ <br>\
+                  &lt;i&gt;he slew the slayer of his relation.&lt;/i&gt; (T.) Lebeed says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَالنِّيبُ اـِنْ تَعْرُ مِنِّى رِمَّةً خَلَقًا *&lt;/L&gt; <br>\
+                     &lt;L&gt;<br>\
+                        بَعْدَ المَمَاتِ فَاـِنِّى كُنْتُ اَثَّيِرُ *&lt;/L&gt; <br>\
+                  &lt;/quote&gt; [&lt;i&gt;And the old she-camels, if they seek to obtain benefit from a worn rotten bone of me after death, I used to retaliate&lt;/i&gt; upon them by anticipation]: (T, S:) i. e., I used to slaughter [some of] them for guests, and so I have retaliated upon them during my life for their nibbling my rotten bones &lt;pb n=&quot;328&quot; TEIform=&quot;pb&quot;/&gt; after my death: for when camels do not find herbage of the kind called حَمْض, they eat the bones of dead men and of camels instead thereof. (T.) ―         -b2-  See also 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4289&quot; key=&quot;استثار&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استثار<br>\
+                     ذ<br>\
+                  &lt;i&gt;He&lt;/i&gt; (a relation of a slain man, A) &lt;i&gt;sought,&lt;/i&gt; or &lt;i&gt;asked, aid, in order that the blood of his slain&lt;/i&gt; [relation] &lt;i&gt;might be revenged,&lt;/i&gt; or &lt;i&gt;avenged, by retaliation of his slaughter&lt;/i&gt; (لُيِثْاَرَ بِمَقْتُولِهِ), (AZ, S, K,) or &lt;i&gt;in order that he might take,&lt;/i&gt; or &lt;i&gt;seek, revenge,&lt;/i&gt; or &lt;i&gt;vengeance, for his slain&lt;/i&gt; [relation]. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4290&quot; key=&quot;ثَاْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثَاْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, A, Mgh, Msb, K,) which may be also pronounced ثَارٌ, i. e., with the ء suppressed, (Msb,) and ↓ <br>\
+      ثَاْرَةٌ, (A,) and ↓ <br>\
+      ثُوْرَةٌ, (S,) which last is a subst. [from ثَاَرَ], as also ↓ <br>\
+      ثُوُورَةٌ, (Lh, M, K,) &lt;i&gt;Blood-revenge;&lt;/i&gt; or &lt;i&gt;retaliation of murder&lt;/i&gt; or &lt;i&gt;homicide:&lt;/i&gt; or &lt;i&gt;a seeking to revenge,&lt;/i&gt; or &lt;i&gt;avenge,&lt;/i&gt; or &lt;i&gt;retaliate, blood:&lt;/i&gt; [see 1, of which ثَاْرٌ is an inf. n. :] or &lt;i&gt;a desire,&lt;/i&gt; or &lt;i&gt;seeking, for retaliation of a crime&lt;/i&gt; or &lt;i&gt;of enmity:&lt;/i&gt; or &lt;i&gt;retention of enmity in the heart, with watchfulness for an opportunity to indulge it:&lt;/i&gt; syn. ذَحْلٌ: (S, A, Msb:) or طَلَبَ <br>\
+                  بِالدَّمِ: (M, K:) or حِقْدٌ: (Mgh:) or (so accord. to the M; but accord. to the K, “ and ”) &lt;i&gt;blood&lt;/i&gt; (M, K) &lt;i&gt;itself:&lt;/i&gt; (M:) pl. اَثْا=رٌ and ا=ثَارٌ; the latter formed by transposition. (Yaakoob, M.) You say, اَدْرَكَ ثَاْرَهُ (S, Mgh, K) and ↓ <br>\
+      ثُوْرَتَهُ (As, T, S) [&lt;i&gt;He obtained,&lt;/i&gt; or &lt;i&gt;attained,&lt;/i&gt; or &lt;i&gt;took, his bloodrevenge,&lt;/i&gt; or &lt;i&gt;retaliation:&lt;/i&gt; or] &lt;i&gt;he attained the object of his pursuit [for blood-revenge,&lt;/i&gt; or &lt;i&gt;retaliation&lt;/i&gt;]; from ثَاَرَهُ: (As, T:) or &lt;i&gt;he slew the slayer of his relation.&lt;/i&gt; (Mgh.) And طَلَبَ بِثَاْرِهِ <br>\
+                  &lt;i&gt;He sought to obtain his blood-revenge,&lt;/i&gt; or &lt;i&gt;retaliation;&lt;/i&gt; syn. طَلَبَ بِذَحْلِهِ. (S and Msb in art. ذحل.) And اَنَا اَطْلُبُ ثَاْرِى عِنْدَهُ <br>\
+                  &lt;i&gt;I seek my blood-revenge of him;&lt;/i&gt; syn. ذَحْلِى. (A.) And ثَاْرِى عِنْدَ فُلَانٍ <br>\
+                  &lt;i&gt;My blood-revenge is a debt owed to me by such a one;&lt;/i&gt; syn. ذَحْلِى: meaning &lt;i&gt;such a one is the slayer of my relation.&lt;/i&gt; (A.)       -A2-  ثَاْرٌ also signifies, (A,) or ↓ <br>\
+      ثَايِرٌ, (T,) &lt;i&gt;One who seeks blood-revenge,&lt;/i&gt; or &lt;i&gt;retaliation of the slaughter of his relation:&lt;/i&gt; and &lt;i&gt;one of whom is sought blood-revenge,&lt;/i&gt; or &lt;i&gt;retaliation of the slaughter of a relation:&lt;/i&gt; (T, A:) the latter primarily signifies &lt;i&gt;a slayer;&lt;/i&gt; and hence, &lt;i&gt;a slayer of a person&#39;s relation in vengeance,&lt;/i&gt; or &lt;i&gt;retribution:&lt;/i&gt; (Ham p. 637:) and the former, &lt;i&gt;one who is sought,&lt;/i&gt; or &lt;i&gt;pursued, for blood-revenge;&lt;/i&gt; an inf. n. used as a subst.: (Ham p. 87:) the &lt;i&gt;slayer of a&lt;/i&gt; person&#39;s &lt;i&gt;relation;&lt;/i&gt; (S, M, A, K;) as also ↓ <br>\
+      ثَايِرٌ: (A:) pl. of the former اَثْا=رٌ and ا=ثَارٌ [as above] (K) and ثَاْرَاتٌ: (S, A, K:) the first of which three is [also] pl. of ثَايِرٌ. (T.) You say, هُوَ ثَاْرُهُ <br>\
+                  &lt;i&gt;He is the slayer of his relation.&lt;/i&gt; (S.) And يَا ثَاْرَاتِ فُلَانٍ <br>\
+                  &lt;i&gt;O slayers of such a one.&lt;/i&gt; (T, S, K.) يَا ثَاْرَاتِ عُثْمَانَ, occurring in a trad., which is also related with the substitution of تَارَات for ثارات, may be explained in the same manner; or it may mean &lt;i&gt;O ye&lt;/i&gt; seekers of &lt;i&gt;the blood-revenge of &#39;Othmán,&lt;/i&gt; aid me to obtain it; the prefixed noun طَالِبِى, or اَهْل, being understood. (Nh, TA. [See also تَارَةٌ in art. تور.]) ثَاْرٌ مُنِيمٌ [&lt;i&gt;A slayer of one&#39;s relation who causes&lt;/i&gt; his slayer &lt;i&gt;to sleep,&lt;/i&gt;] means &lt;i&gt;one with whom the seeker [of blood-revenge&lt;/i&gt; or &lt;i&gt;retaliation] is contented, if he find him [and slay him], so that he sleeps after;&lt;/i&gt; (S, K;) &lt;i&gt;one who, if slain, causes the pursuer of blood-revenge to cease from the pursuit:&lt;/i&gt; (Ham p. 87:) or &lt;i&gt;a person who is an equivalent for the blood of one&#39;s relation [and who therefore, by his being slain in retaliation, makes the avenger to sleep&lt;/i&gt;]: (T:) or &lt;i&gt;a person of rank,&lt;/i&gt; or &lt;i&gt;note, in whom&lt;/i&gt; [i. e. &lt;i&gt;by the slaughter of whom] one has his full desire accomplished.&lt;/i&gt; (A.) In a trad. of Mohammad Ibn-Selemeh, relating to the day of Kheyber, occur the words, اَنَا لَهُ يَا ↓ <br>\
+      رَسُولُ اْللّٰهِ المَوْتُورُ لِلثَّايِرِ, meaning [&lt;i&gt;I am for him,&lt;/i&gt; i. e. I am he who should slay him, &lt;i&gt;O Apostle of God:] the seeker of blood-revenge [is for him of whom blood-revenge is sought&lt;/i&gt;]. (L. [The explanation there given is clearly shown to relate to الموتور.]) ―         -b2-  ثَاْرٌ signifies also &lt;i&gt;An enemy:&lt;/i&gt; pl. اَثْا=رٌ: so explained as occurring in the following words of a trad.; لَا تُغْمِدُوا سُيُوفَكُمْ عَنْ اَحْدَاثِكُمْ فَتُوتِرُوا <br>\
+                  اَثْا=رَكُمْ <br>\
+                  &lt;i&gt;Do not sheathe your swords from your young ones,&lt;/i&gt; [neglecting to teach them the use thereof,] &lt;i&gt;and so make your enemies to attain their desire of blood-revenge.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4291&quot; key=&quot;ثَاْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثَاْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ثَاْرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4292&quot; key=&quot;ثُوْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثُوْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; said in the S to be an inf. n. of 1: see ثَاْرٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4293&quot; key=&quot;ثُوُورَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثُوُورَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ثَاْرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4294&quot; key=&quot;ثَايِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثَايِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ثَاْرٌ, in three places. ―         -b2-  Also One &lt;i&gt;who does not pity anything&lt;/i&gt; (لَا يُبْقِى عَلَى شَىْءٍ) &lt;i&gt;so that he may obtain his blood-revenge,&lt;/i&gt; or &lt;i&gt;retaliation.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4295&quot; key=&quot;مَثْوُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَثْوُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَثْوُورٌ بِهِ [&lt;i&gt;Revenged,&lt;/i&gt; or &lt;i&gt;avenged, by the retaliation of his slaughter; by the slaughter of his slayer:&lt;/i&gt; and also &lt;i&gt;slain in blood-revenge,&lt;/i&gt; or &lt;i&gt;in retaliation for the blood of a relation of the slayer&lt;/i&gt;]: these two expressions [thus] apply to one&#39;s enemy as well as to one&#39;s relation. (A.) ―         -b2-  Also, the latter, [simply,] &lt;i&gt;Slain.&lt;/i&gt; (T, and Ham p. 87. [But retaliation is generally meant to be understood.])   &lt;/entryFree&gt; <br>\
+' } );

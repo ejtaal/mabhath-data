@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;منا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  منا<br>\
+&lt;entryFree id=&quot;n38949&quot; key=&quot;مَنَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     مَنَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     مَنَاَ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. مَنْءٌ, (S,) &lt;i&gt;He soaked&lt;/i&gt; a hide &lt;i&gt;in tanning-liquid,&lt;/i&gt; or &lt;i&gt;ooze.&lt;/i&gt; (S, K.)       -A2-  مَنَاَهُ <br>\
+                  &lt;i&gt;He conformed with him in what he did.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38950&quot; key=&quot;مَنِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَنِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A hide in the first stage of tanning:&lt;/i&gt; (AZ, S, K:) it is next called اَفِيقٌ; and then اَدِيمٌ: (AZ, S:) or &lt;i&gt;a hide as long as it remains in the tanning-liquid.&lt;/i&gt; (TA.) ―         -b2-  &lt;i&gt;A place where hides are tanned.&lt;/i&gt; (As, Ks, S, K.) ―         -b3-  Also, accord. to some, &lt;i&gt;Tan,&lt;/i&gt; or &lt;i&gt;that with which one tans.&lt;/i&gt; (TA.) ―         -b4-  This word is not to be pronounced without ء, because مَنِيَّةٌ signifies “ death. ” (MF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38951&quot; key=&quot;مَمْنَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَمْنَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A black land:&lt;/i&gt; (K:) also without ء. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

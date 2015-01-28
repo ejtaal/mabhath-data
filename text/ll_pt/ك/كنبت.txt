@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كنبت</em>            1                  كنبت<br>\
+<b>تَكَنْبَتَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَكَنْبَتَ<br>\
+                     ذ<br>\
+                  <i>He</i> (a man) <i>became contracted</i> [<i>in disposition;</i> or <i>niggardly,</i> or <i>stingy</i>]. (L, as from IDrd.) But see art. كنبث. (TA.)    </entryFree> <br>\
+<b>كُنْبُبٌ</b>               1     <br>\
+                     كُنْبُبٌ<br>\
+                     ذ<br>\
+                  , (or this should be كُنْثُبٌ, TA) <i>A hard, strong, robust,</i> man. (L.) But see كُنْبُثٌ. (TA.) ―         -b2-  Also, and كُنَابِتٌ, A man <i>contracted</i> [<i>in disposition</i>]; <i>niggardly,</i> or <i>stingy.</i> (L.) But see art. كنبث. (TA.)   </entryFree> <br>\
+' } );

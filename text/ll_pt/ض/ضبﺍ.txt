@@ -1,0 +1,59 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضبا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضبا<br>\
+&lt;entryFree id=&quot;n25443&quot; key=&quot;ضَبَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ضَبَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (As, S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ضَبَاَ<br>\
+                  &lt;/form&gt;, inf. n. ضَبْءٌ and ضُبُوْءٌ, (K,) &lt;i&gt;He&lt;/i&gt; (a man, TA) &lt;i&gt;clave to the ground,&lt;/i&gt; (As, S, K, TA, [like ضَبَّ,]) or &lt;i&gt;to a tree:&lt;/i&gt; (TA:) or ضَبَاَ بِالاَرْضِ, aor. and inf. n. as above, &lt;i&gt;he clave to the ground, and hid,&lt;/i&gt; or &lt;i&gt;concealed, himself:&lt;/i&gt; and in like manner one says of a wolf, meaning &lt;i&gt;he clave to the ground;&lt;/i&gt; or &lt;i&gt;he hid,&lt;/i&gt; or &lt;i&gt;concealed, himself in a covert of trees,&lt;/i&gt; or &lt;i&gt;in a hollow in the ground, to deceive,&lt;/i&gt; or &lt;i&gt;circumvent:&lt;/i&gt; (M:) and ضَبَاَ alone, &lt;i&gt;he hid,&lt;/i&gt; or &lt;i&gt;concealed, himself;&lt;/i&gt; (M, K;) as also ↓ <br>\
+      اضطبا: (K:) and the former, &lt;i&gt;he concealed himself&lt;/i&gt; (K, TA) &lt;i&gt;in a covert of trees,&lt;/i&gt; or &lt;i&gt;in a hollow in the ground,&lt;/i&gt; (TA,) &lt;i&gt;to deceive,&lt;/i&gt; or &lt;i&gt;circumvent,&lt;/i&gt; (K, TA,) &lt;i&gt;the game,&lt;/i&gt; or &lt;i&gt;prey:&lt;/i&gt; (TA:) you say, ضَبَاْتُ <br>\
+                  فِى الاَرْضِ, inf. n. as above, &lt;i&gt;I hid,&lt;/i&gt; or &lt;i&gt;concealed, myself in the land,&lt;/i&gt; or &lt;i&gt;country.&lt;/i&gt; (AZ, S. [See also ضَنَاَ.]) ―         -b2-  ضَبَاْتُ اـِلَيْهِ <br>\
+                  &lt;i&gt;I had recourse,&lt;/i&gt; or &lt;i&gt;betook myself, to him,&lt;/i&gt; or &lt;i&gt;it, for refuge, protection,&lt;/i&gt; or &lt;i&gt;covert.&lt;/i&gt; (S, O, K. *) ―         -b3-  And ضَبَاَ, alone, &lt;i&gt;He came forth from a place unexpectedly, and ascended&lt;/i&gt; [&lt;i&gt;upon an eminence&lt;/i&gt;], (O, K, TA,) &lt;i&gt;to look.&lt;/i&gt; (TA.) ―         -b4-  ضَبَاَ مِنْهُ <br>\
+                  &lt;i&gt;He was abashed at,&lt;/i&gt; or &lt;i&gt;shy of,&lt;/i&gt; or &lt;i&gt;he shrank from, him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; (M, K, TA;) as also ↓ <br>\
+      اضطبا. (TA. [See also اضطنا.])       -A2-  ضَبَاْتُ بِهِ <br>\
+                  الاَرْضَ <br>\
+                  &lt;i&gt;I made him to cleave to the ground.&lt;/i&gt; (As, S, O, K. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25444&quot; key=&quot;اضبا مَا فِى نَفْسِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اضبا مَا فِى نَفْسِهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He concealed what was in his mind:&lt;/i&gt; (K, * TA:) or اضبا القَوْمُ عَلَى مَا فِى <br>\
+                  اَنْفُسِهِمْ <br>\
+                  &lt;i&gt;the people,&lt;/i&gt; or &lt;i&gt;party, concealed what was in their minds.&lt;/i&gt; (M.) And اضبا عَلَى الشَّىْءِ <br>\
+                  &lt;i&gt;He was silent respecting the thing,&lt;/i&gt; (S, M, O, K,) &lt;i&gt;and concealed it.&lt;/i&gt; (S, O.) And اضبا عَلَى الدَّاهِيَةِ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَضَبَّ [i. e. &lt;i&gt;He was silent respecting the calamity&lt;/i&gt;]. (S, O, K.) ―         -b2-  And اضبا عَلَى مَا فِى يَدَيْهِ, (M, TA,) or, accord. to Lh, اضبا مَا فِى يَدَيْهِ, like اَضْبَى and اَضَبَّ, (TA,) &lt;i&gt;He grasped,&lt;/i&gt; or &lt;i&gt;kept hold of, that which was in his hands.&lt;/i&gt; (Lh, M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25445&quot; key=&quot;اضطبا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اضطبا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25446&quot; key=&quot;ضَبِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَبِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Cleaving to the ground,&lt;/i&gt; (M, K, TA,) or &lt;i&gt;to a tree;&lt;/i&gt; applied to a man. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25447&quot; key=&quot;ضَابِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَابِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [act. part. n. of 1, &lt;i&gt;Cleaving to the ground:&lt;/i&gt; &amp;amp;c.:] expl. by El-Harbee as meaning &lt;i&gt;a sportsman concealing himself.&lt;/i&gt; (TA.) ―         -b2-  Also &lt;i&gt;Ashes;&lt;/i&gt; (M, K;) because they cleave to the ground. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25448&quot; key=&quot;ضَابِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَابِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the last paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25449&quot; key=&quot;مَضْبَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَضْبَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place where one conceals himself,&lt;/i&gt; (S, TA,) &lt;i&gt;in a covert of trees,&lt;/i&gt; or &lt;i&gt;in a hollow in the ground, to deceive,&lt;/i&gt; or &lt;i&gt;circumvent, the game,&lt;/i&gt; or &lt;i&gt;prey:&lt;/i&gt; pl. مَضَابِيُ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25450&quot; key=&quot;مَضْبُوْءٌ بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَضْبُوْءٌ بِهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Made to cleave to the ground.&lt;/i&gt; (As, S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25451&quot; key=&quot;مُضَابِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُضَابِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (O,) or مُضَابِيَةٌ, (K, [and so in the O in an instance mentioned in what here follows, in the next sentence,]) and ↓ <br>\
+      ضَابِيَةٌ, (TA, as from the K, but not in the CK nor in my MS. copy of the K,) &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;large sack such as is called&lt;/i&gt;] غِرَارَة <br>\
+                  &lt;i&gt;that oppresses by its weight, and conceals, him who carries it&lt;/i&gt; (O, K, TA) &lt;i&gt;beneath it.&lt;/i&gt; (O, TA.) ―         -b2-  The second of these words is also applied in a poem recited by [its author] Aboo-Hizám El- &#39;Oklee, to ISk, to the said poem, which is one abounding with hemzehs [and difficult to pronounce]. (O, * TA.)   &lt;/entryFree&gt; <br>\
+' } );

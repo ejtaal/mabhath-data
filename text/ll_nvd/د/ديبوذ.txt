@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'ديبوذدَيْبُوذ A garment, or piece of cloth, having a<br>\
+double woof; expl. by ثَوْبٌ ذُو نِيرَيْنِ: pl. ↓ دَيَابُوذٌ<br>\
+[an anomalous form of pl.] and دَيَابِيذ: (Kudot;:) or<br>\
+↓ دَيَابُوذٌ has this signification; expl. by ثَوْبٌ<br>\
+يُنْسَجُ بِئرَيْنِ; [in form] as though [an irreg.] pl.<br>\
+or دَيْبُوذٌ, of the measure فَيْعُولٌ: (S, L:) an<br>\
+arabicized word, from the Persian دُو بُوذ [or<br>\
+دُو پُود]: (A &#39;Obeyd, S, L, K: *) sometimes<br>\
+arabicized with an unpointed د [for its final letter].<br>\
+(S, L, K.) [See نِيرٌ.]<br>\
+دَيَابُوذٌ: see above, in two places.<br>\
+' } );

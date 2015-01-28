@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كسطكُسْطٌ i. q. قُسْطٌ (K) The wood with which one<br>\
+fumigates; being a dial. var. of the latter. (TA.)<br>\
+كسع كسف كسل كسم كسو<br>\
+See Supplement.<br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_nvd', text: 'مول5<br>\
+تَمَوَّلَ<br>\
+He became abundant in wealth. (TA,<br>\
+art. ثمر).<br>\
+مَالٌ<br>\
+Whatever one possesses: (K:) property;<br>\
+wealth:] accord. to Mohammad [the Hanafee<br>\
+Imám), whatever men possess, of dirhems, or<br>\
+deenárs, or gold, or silver, or wheat, or barley,<br>\
+or bread, or beasts, or garments or pieces of<br>\
+cloth, or weapons, or other things: (Mgh:)<br>\
+[property, or wealth:] or originally what one<br>\
+possesses of gold and silver: then applied to<br>\
+anything that one acquires and possesses of<br>\
+substantial things: and mostly applied by the<br>\
+Arabs to camels, because these constitute most of<br>\
+their wealth: (IAth, TA:) and animals. (TA.) ―<br>\
+-b2-<br>\
+مَالٌ<br>\
+Camels or sheep or goats. (S.) The مال of the<br>\
+people of the desert consists of what are termed<br>\
+نَعَمٌ, (T, Msb,) i. e. Cattle, consisting of camels<br>\
+or neat or sheep or goats, or all these, or camels<br>\
+alone; (Msb in art. نعم;) herds, or flocks, or<br>\
+herds and flocks. ―<br>\
+-b3-  مَالٌ<br>\
+A square in arithmetic:<br>\
+pl. أَمْوَالٌ. See جَذْرٌ. ―<br>\
+-b4-  رَجُلٌ مَالٌ, for ذُومَالٍ.<br>\
+(L, art. صيد.)<br>\
+مَالِىٌّ<br>\
+Of, or relating to, property or wealth.<br>\
+' } );

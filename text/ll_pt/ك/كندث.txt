@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كندث</em>            1                  كندث<br>\
+<b>كُنْدُثٌ</b>               1     <br>\
+                     كُنْدُثٌ<br>\
+                     ذ<br>\
+                   and كُنَادِثٌ <br>\
+                  <i>Hard and strong:</i> (K, L:) [as also كُنْبُثٌ and كُنْتُبٌ, &amp;amp;c.].   </entryFree> <br>\
+' } );

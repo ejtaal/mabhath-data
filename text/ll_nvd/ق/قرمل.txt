@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'قرملقِرْمِلٌ<br>\
+, pl. قَرَامِلُ: see سُفَّةٌ.<br>\
+' } );

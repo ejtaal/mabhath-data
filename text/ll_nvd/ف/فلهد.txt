@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'فلهدفَلْهَدٌ and فُلْهُدٌ A boy, or youth, compact in<br>\
+make (حَادِرٌ), fat, that has nearly attained to<br>\
+puberty; as also ↓ فُلْهودٌ and ↓ مُفَلْهَدٌ: (K:) or<br>\
+فلهد [i. e. فَلْهَدٌ or فُلْهَدٌ] signifies a fat boy or<br>\
+youth, that has nearly attained to puberty; thus<br>\
+expl. by AA: [and so فَوْهَدٌ is expl. by him: and<br>\
+فَرْهَدٌ and فُرْهُدٌ are similarly expl.:] or, as some<br>\
+say, a plump boy or youth: and accord. to Kr, a<br>\
+boy that fills the cradle. (TA.)<br>\
+فُلْهُودٌ: see the preceding paragraph.<br>\
+مُفَلْهَدٌ: see the preceding paragraph.<br>\
+' } );

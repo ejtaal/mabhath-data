@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'طرط1<br>\
+طَرِطَ, [aor.<br>\
+طَرَطَ,] inf. n. طَرَطٌ, He had thin<br>\
+eyebrows: (Ibn-&#39;Abbád, O:) or he had light,<br>\
+thin, or scanty, hair of the eyes, of the eyebrows,<br>\
+and of the eyelashes. (K.) ―<br>\
+-b2-  And He was, or<br>\
+became, foolish, stupid, unsound in intellect or understanding, or deficient therein. (K.)<br>\
+طَرَطٌ Thinness of the hair in the eyebrow.<br>\
+(IAar, TA.)<br>\
+طَرِطٌ: see أَطْرَطُ. ―<br>\
+-b2-  Also Foolish, stupid, unsound in intellect or understanding, or deficient<br>\
+therein. (K)<br>\
+طَارِطٌ Light, thin, or scanty, in the hair;<br>\
+(IAar, O, L, K) applied to an eyebrow. (L.)<br>\
+أَطْرَطُ الحَاجِبَيْنِ A man destitute of eyebrows;<br>\
+(AZ, S, O;) as also أَمْرَطُ الحلجبين; (O;) and<br>\
+some say أَضْرَطُ, but Abu-l-Ghowth knew it not:<br>\
+(S, O:) or having light, thin, or scanty, hair of<br>\
+the eyebrows; and so الحَاجِبِيْنِ ↓ طَرِطُ: (K:) the<br>\
+mention of the حَاجِبَانِ is indispensable; (AZ, S,<br>\
+O, K;) but sometimes omitted, on the ground<br>\
+of a weak authority: (K, TA:) and accord. to<br>\
+Ibn-&#39;Abbád, أَطْرَطُ signifies having thin eyebrows.<br>\
+(O.) And طَرْطَآءُ العَيْنِ A woman having scanty<br>\
+eyelashes. (O, K.)<br>\
+' } );

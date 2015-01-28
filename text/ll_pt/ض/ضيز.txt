@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>ضيز</em>            1                  ضيز<br>\
+<b>ضَازَ</b>               1     <br>\
+                     ضَازَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor. يَضِيزُ, inf. n. ضَيْزٌ, (TA,) <i>He deviated from the right course;</i> or <i>acted unjustly, wrongfully, injuriously,</i> or <i>tyrannically;</i> (S, K;) فِى الحُكْمِ <br>\
+                  <i>in the judgment:</i> (S:) like ضَاَزَ. (TA in art. ضاز.) ―         -b2-  ضَازَهُ حَقَّهُ, aor. and inf. n. as above, <i>He deprived him,</i> or <i>defrauded him, of a part,</i> or <i>the whole, of his right,</i> or <i>due:</i> (S, M, K:) like ضَازَهُ, aor. يَضُوزُهُ: (K:) <i>he refused it to him,</i> or <i>withheld it from him:</i> (AZ, M, TA:) and sometimes one says ضَاَزَهُ, aor. يَضْاَزُهُ, inf. n. ضَاْزٌ. (S, TA.)    </entryFree> <br>\
+<b>قِسْمَةٌ ضِيزَى</b>               1     <br>\
+                     قِسْمَةٌ ضِيزَى<br>\
+                     ذ<br>\
+                  <i>An unjust,</i> (S, M,) or <i>a defective,</i> (K in art. ضاز,) <i>division:</i> (S, M, K:) as also ضُوزَى: (M:) ضيزى in the Kur liii. 22 is read by all without hemz: (TA:) it is of the measure فُعْلَى, like طُوبَى and حُبْلَى; but the ض is with kesr in order that the ى may remain unchanged; for there is not in the language an epithet of the measure فِعْلَى; this being a measure of substantives, like الشِّعْرَى and الدِّفْلَى: (S:) or, accord. to Aboo-&#39; Alee, it is not an epithet, but an inf. n., like ذِكْرَى, as though the meaning were قِسْمَةٌ ذَاتُ جَوْرٍ: (Har p. 524:) Fr says that some of the Arabs say ضَاْزَى, and ضُوْزَى: and AHát mentions AZ&#39;s having heard the Arabs say ضِيْزَى, with hemz. (S.)   </entryFree> <br>\
+' } );

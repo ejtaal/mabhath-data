@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '<em>بختر</em>            1                  بختر<br>\
+<b>بَخْتَرَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     بَخْتَرَ<br>\
+                     بختر<br>\
+                     ختر<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>تَبَخْتَرَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَبَخْتَرَ<br>\
+                     بختر<br>\
+                     تبختر<br>\
+                  , (L,) inf. n. تَبَخْتُرٌ; (JK, S, L, K;) and ↓ <br>\
+      بَخْتَرَ, (L,) inf. n. بَخْتَرَةٌ; (L, K;) <i>He walked in a certain manner;</i> (S;) <i>with an elegant gait;</i> (JK, K;) <i>with an elegant and a proud and self-conceited gait,</i> (L, TA, TK,) <i>with an affected inclining of the body from side to side;</i> (TK;) or <i>with a twisting of the back,</i> (Fr, in TA, voce تَمَطَّطَ, and Bd in lxxv. 33,) <i>and with extended steps.</i> (Bd ibid.) You say also, فُلَانٌ يَتَبَخْتَرُ فِى <br>\
+                  مِشْيَتِهِ and يَتَبَخْتَى [<i>Such a one carries himself in an elegant and a proud and self-conceited manner, with an affected inclining of his body from side to side, in his gait;</i> or <i>with a twisting of his back, and with extended steps</i>]. (L.)    </entryFree> <br>\
+<b>بَخْتَرِىٌّ</b>               1     <br>\
+                     بَخْتَرِىٌّ<br>\
+                     بخترى<br>\
+                     بختري<br>\
+                     ختر<br>\
+                   and ↓ <br>\
+      بِخْتِيرٌ <br>\
+                  <i>Elegant,</i> or <i>beautiful, in gait and in body;</i> (L, K: in [some of] the copies of the K, instead of وَالجِسْمِ, is erroneously put وَالجَسِيمُ: TA:) applied to a man: (L:) or (so accord. to the L and TA, but in the K “ and ”) <i>proud and self-conceited:</i> (L, K:) or <i>who walks in the manner termed</i> <br>\
+                  تَبَخْتُرٌ [see Q. 2.]: (JK, L:) the former epithet is also applied to a camel: (L:) the fem. of the former is with ة. (JK, L.)    </entryFree> <br>\
+<b>بُخْتُرِىٌّ</b>               1     <br>\
+                     بُخْتُرِىٌّ<br>\
+                     بخترى<br>\
+                     بختري<br>\
+                     ختر<br>\
+                   a subst. signifying The <i>gait denoted by</i> <br>\
+                  التَّبَخْتُرُ [inf. n. of Q. 2]: (JK:) [and so ↓ <br>\
+      بَخْتَرِيَّةٌ: whence the phrase] فُلَانٌ يَمْشِى البَخْتَرِيَّةٌ <br>\
+                  <i>Such a one walks in the manner termed</i> <br>\
+                  تَبَخْتُرٌ. (S, L.)    </entryFree> <br>\
+<b>بَخْتَرِيَّةٌ</b>               1     <br>\
+                     بَخْتَرِيَّةٌ<br>\
+                     بختريه<br>\
+                     بخترية<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>بِخْتِيرٌ</b>               1     <br>\
+                     بِخْتِيرٌ<br>\
+                     بختير<br>\
+                  : see بَخْتَرِىٌّ.   </entryFree> <br>\
+' } );

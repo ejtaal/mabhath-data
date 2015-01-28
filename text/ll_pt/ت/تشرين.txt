@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>تشرين</em>            1                  تشرين<br>\
+<b>تِشْرِينُ</b>               1     <br>\
+                     تِشْرِينُ<br>\
+                     ذ<br>\
+                   [in Chaldee <H>165</H>] <i>A Greek name of each of two months,</i> (K,) <i>of the months of Autumn, called</i> <br>\
+                  تِشْرِينُ الاَوَّلُ <br>\
+                  <i>and</i> <br>\
+                  تِشْرِينُ الثَّانِى, [<i>and both together</i> <br>\
+                  تِشْرِينَانِ, <i>the two Syrian months corresponding, respectively, to October and November O. S.,</i>] <i>before the two months whereof each is called</i> <br>\
+                  كَانُونُ. (TA.)   </entryFree> <br>\
+' } );

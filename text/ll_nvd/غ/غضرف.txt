@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'غضرفغُضْرُوفٌ is syn. with غُرْضُوفٌ, (S and K &amp;c. in<br>\
+art. غرضف, q. v.,) in [all of] its meanings: (K:)<br>\
+pl. غَضَارِيفُ. (O and TA in art. غرضف.)<br>\
+' } );

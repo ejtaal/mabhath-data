@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'قرف3<br>\
+قَارَفَهُ<br>\
+He was, or became, near to it; meaning<br>\
+some base thing, or the like. (TA.) See قَرَفٌ.<br>\
+قَرَفٌ<br>\
+The mixing with others; [and particularly<br>\
+with others who are diseased or the like]; a subst.<br>\
+from ↓ مُقَارَفَةٌ: (K:) the being near to [a person,<br>\
+or persons, or a place, infected with] disease:<br>\
+(S, TA:) the being near to pestilence, or epidemic<br>\
+disease. (T in art. تلف.) See تَلَفٌ.<br>\
+أَعْرَضَتِ القِرْفَةُ<br>\
+signifies إِتَّسَعَتْ: (TA, art. عرض:)<br>\
+and اِتَّسَعَتْ قِرْفَتُهُ signifies كَثُرَ مَنْ يَتَّهِمُهُ. (TA,<br>\
+art. لبس.) See voce عَرُضَ.<br>\
+مَقْرِفٌ<br>\
+A place of paring off: see an ex. voce<br>\
+صَمْغٌ.<br>\
+' } );

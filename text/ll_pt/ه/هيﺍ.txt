@@ -1,0 +1,70 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;هيا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  هيا<br>\
+&lt;entryFree id=&quot;n41437&quot; key=&quot;هَا=ءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     هَا=ءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَهَا=ءُ and يَهِيْءُ, (K; the latter not of respectable authority, Lh;) inf. n. هَيْيَةٌ, &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, of good,&lt;/i&gt; or &lt;i&gt;goodly, form&lt;/i&gt; or &lt;i&gt;appearance,&lt;/i&gt; or &lt;i&gt;other properties denoted by the term&lt;/i&gt; <br>\
+                  هَيْيَة, q. v. (K.) ―         -b2-  [هَيُوَ, accord. to the K, signifies &lt;i&gt;the same:&lt;/i&gt; but see below.] ―         -b3-  هَيُوَ, accord. to IHsh and others, the only verb of this form whose medial radical letter is ى: (MF:) accord. to the K, syn. with هَا=ءَ, in a sense indicated above: but IJ states that it has a superlative sense; that it is to be classed with قَضُوَ “ excellent [or how excellent (see بَطُوَ voce بُطَا=نَ)] is he in his judging! ” and رَمُوَ “ excellent [or how excellent] is he in his throwing, or shooting! ” [wherefore it signifies &lt;i&gt;Excellent,&lt;/i&gt; or &lt;i&gt;how excellent, is he in his form&lt;/i&gt; or &lt;i&gt;appearance!&lt;/i&gt; &amp;amp;c.;] and that it is, like قَضُوَ [and رَمُوَ], invariable [as to person, tense, and mood]. He observes that, as a verb of the measure فَعُلَ is formed from one whose final radical letter is ى, [as قَضُوَ and رَمُوَ from قَضَى and رَمَى,] so is this formed on the same measure from a verb whose medial radical letter is ى: and that it is invariable [as to person, tense, and mood,] because of its resemblance, in its superlative sense, to the class of verbs of wonder, and to نِعْمَ and بِيْسَ. He further remarks, that they [the Arabs] have abstained from forming a verb on the measure فَعُلَ [variable as to person, tense, and mood,] from one whose medial radical letter is ى, fearing to make what is difficult to pronounce still more so; for in that case they would be obliged to say اَبُوعُ بُعْتُ, and بُوعَا; and, as would also happen if a variable verb of the same measure were formed from one whose final radical letter is ى, the change of ى into و, which is more difficult to pronounce, would thus become frequent. (TA.) ―         -b4-  هَا=ءَ اـِلَيْهِ, aor. يَهَا=ءُ, inf. n. هِيْيَةٌ, &lt;i&gt;He desired, longed for, longed to see, him&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41438&quot; key=&quot;هيّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     هيّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَهْيِيَةٌ and تَهْيِىْءٌ, [primarily signifies &lt;i&gt;He invested him with,&lt;/i&gt; or &lt;i&gt;made him to have,&lt;/i&gt; <br>\
+                  هَيْءَة, as meaning &lt;i&gt;garb, guise,&lt;/i&gt; &amp;amp;c. See Bd xviii. 9. ―         -b2-  And hence,] &lt;i&gt;He prepared, provided, disposed, arranged,&lt;/i&gt; or &lt;i&gt;put into a right,&lt;/i&gt; or &lt;i&gt;good state,&lt;/i&gt; &amp;amp;c. (S, K.) [And hence, &lt;i&gt;He rendered&lt;/i&gt; an affair &lt;i&gt;feasible,&lt;/i&gt; or &lt;i&gt;practicable; he facilitated it.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41439&quot; key=&quot;تهيّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تهيّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, was,&lt;/i&gt; or &lt;i&gt;became, prepared, provided, disposed, arranged,&lt;/i&gt; or &lt;i&gt;put into a right&lt;/i&gt; or &lt;i&gt;good state,&lt;/i&gt; &amp;amp;c. And hence, &lt;i&gt;It&lt;/i&gt; (an affair) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, feasible,&lt;/i&gt; or &lt;i&gt;practicable:&lt;/i&gt; and &lt;i&gt;it&lt;/i&gt; (a thing) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, attainable,&lt;/i&gt; or &lt;i&gt;within power&lt;/i&gt; or &lt;i&gt;reach.&lt;/i&gt;] ―         -b2-  تهيّا لِلْاَمْرِ; and هَا=ء لَهُ, (S, K,) aor. يَهَا=ءُ (K) and يَهِىْءُ, (S, K,) inf. n. هَيْيَةٌ; (S;) &lt;i&gt;He prepared himself for the thing.&lt;/i&gt; (K.) Ex. وَقَالَتْ هِيْتُ لَكَ <br>\
+                  &lt;i&gt;And she said, I have prepared myself for thee:&lt;/i&gt; accord. to one reading [for هَيْتَ, in the Kur, xii. 23]. (Akh, S.) ―         -b3-  [See also تهنّا.] ―         -b4-  تهيّا لَهُ الاَمْرُ, (Msb, K, art. اتى, &amp;amp;c.,) or الشَّىْءٌ, (S, art. اتى, &amp;amp;c.,) &lt;i&gt;The thing,&lt;/i&gt; or &lt;i&gt;affair, was,&lt;/i&gt; or &lt;i&gt;became, feasible,&lt;/i&gt; or &lt;i&gt;practicable, to him;&lt;/i&gt; and &lt;i&gt;the thing was attainable.&lt;/i&gt;] ―         -b5-  تهيّا لِلْبُكَا=ءِ [&lt;i&gt;He was ready,&lt;/i&gt; or &lt;i&gt;about, to weep:&lt;/i&gt; a phrase of frequent occurrence; like اَرَادَ البُكَا=ءَ, and هَمَّ بِالْبُكَاءِ.] (S, art. جهش, &amp;amp;c.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41440&quot; key=&quot;تَهَايَوُوا عَلَى ذٰلِكَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَهَايَوُوا عَلَى ذٰلِكَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;They agreed together upon that,&lt;/i&gt; or &lt;i&gt;to do that.&lt;/i&gt; (K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41441&quot; key=&quot;هَىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and هِىْءٌ The &lt;i&gt;calling,&lt;/i&gt; or &lt;i&gt;a call, to food and beverage.&lt;/i&gt; (K.) ―         -b2-  The &lt;i&gt;calling,&lt;/i&gt; or &lt;i&gt;a call, to camels to drink:&lt;/i&gt; (K:) or, [rather,] &lt;i&gt;a call to camels to food,&lt;/i&gt; or &lt;i&gt;provender.&lt;/i&gt; (TA.) ―         -b3-  [See arts. جيا and ها.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41442&quot; key=&quot;يَا هَىْءَ مَا لِى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَا هَىْءَ مَا لِى<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [but see شىءٌ] [&lt;i&gt;Oh! what has happened to me?&lt;/i&gt;] an expression of regret; هَىْءٌ being a word signifying &lt;i&gt;regret&lt;/i&gt; for a thing that passes away from one, or escapes him: (S, TA:) or, (as some say, TA,) an expression of wonder: (K:) see also يَاشَىْءِ and يَافَىْءَ, which are syn. with يَاهَىْءَ: (TA:) or هَىْءَ, (accord. to certain of the lexicologists, as related by IB, TA,) is an imperative verbal noun, signifying &lt;i&gt;Attend!&lt;/i&gt; (تَنَبَّهْ); like صَهْ, which signifies “ Be silent! ” (K;) the interjection يا being put before it in like manner as it is in the saying of Esh-Shemmakh, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اَلَا يَا اْسْقِيَانِى قَبْلَ غَارَةِ سَنْجَالِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Come now! O, give me to drink, before the expedition of Sinjáb!&lt;/i&gt;]; (TA;) and هىء being indeclinable, with a vowel for its termination to obviate the occurrence of two quiescent letters, and with fet-hah as the final vowel because it is more easy of pronunciation than the others in this case. (K, TA.) ―         -b2-  [See also art. شيا.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41443&quot; key=&quot;هَيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      هِيْيَةٌ <br>\
+                  &lt;i&gt;Form, fashion, shape, aspect,&lt;/i&gt; or &lt;i&gt;appearance; figure, person, mien, feature,&lt;/i&gt; or &lt;i&gt;lineaments;&lt;/i&gt; (S, TA;) &lt;i&gt;guise;&lt;/i&gt; or &lt;i&gt;external state&lt;/i&gt; or &lt;i&gt;condition;&lt;/i&gt; (Msb;) &lt;i&gt;state with regard to apparel and the like;&lt;/i&gt; or &lt;i&gt;garb;&lt;/i&gt; (Lth;) &lt;i&gt;state, condition,&lt;/i&gt; or &lt;i&gt;case; quality, mode&lt;/i&gt; or &lt;i&gt;manner of being:&lt;/i&gt; (K:) pl. هَيْا=تٌ and هِيْا=تٌ. (TA.) ―         -b2-  حَسَنُ الهَيْيَةِ [&lt;i&gt;of goodly form, aspect,&lt;/i&gt; or &lt;i&gt;appearance, guise, state of apparel, garb, &amp;amp;c.&lt;/i&gt;]. (S.) ―         -b3-  [Also, &lt;i&gt;goodliness of form&lt;/i&gt; &amp;amp;c.: see 1. See also سَمْتٌ, for an addition.] ―         -b4-  [هَيْيَةٌ عَارِضَةٌ, in Logic, &lt;i&gt;An accidental mode.&lt;/i&gt;] ―         -b5-  اَقِيلُوا ذَوِى الهَيْا=تِ عَثَرَاتِهِمْ, in a trad., signifies, &lt;i&gt;Forgive ye the people of good qualities &amp;amp;c., who keep to one state and way, their slips.&lt;/i&gt; It alludes to those who make a slip unwittingly. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41444&quot; key=&quot;هِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَيْيَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41445&quot; key=&quot;هَيِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَيِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41446&quot; key=&quot;هَيِّيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَيِّيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      هَيِّىْءٌ A person &lt;i&gt;of good,&lt;/i&gt; or &lt;i&gt;goodly, form&lt;/i&gt; or &lt;i&gt;appearance,&lt;/i&gt; or &lt;i&gt;other properties denoted by the term&lt;/i&gt; <br>\
+                  هَيْيَة. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41447&quot; key=&quot;مُهَيَّاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُهَيَّاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Prepared,&lt;/i&gt; &amp;amp;c.] ―         -b2-  Also &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  زُمَا وَرْدٌ, q. v. (MF, art. ورد.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41448&quot; key=&quot;مَهَايَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَهَايَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A thing respecting which persons have agreed together.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41449&quot; key=&quot;مَتَهَيِّيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَتَهَيِّيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A camel &lt;i&gt;that seldom fails of becoming pregnant when she has been covered.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

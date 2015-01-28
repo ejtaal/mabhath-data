@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>معج</em>            1                  معج<br>\
+<b>مَعَجَ</b>               1     <br>\
+                     مَعَجَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَعَجَ<br>\
+                  , inf. n. مَعْجٌ, <i>He,</i> or <i>it,</i> (a horse, and the wind, S, and a torrent, TA,) <i>went quickly,</i> or <i>swiftly.</i> (S, K.) See art. عمج. ―         -b2-  مَرَّ يَمْعَجُ <br>\
+                  <i>He</i> (a horse) <i>went at an easy pace:</i> (S:) and in like manner مَعَجَتْ <br>\
+                  <i>she</i> (a camel) <i>went at an easy pace.</i> (Th.) ―         -b3-  مَعَجَتِ الرِّيحُ, aor.      <br>\
+                     مَعَجَ<br>\
+                  , inf. n. مَعْجٌ, <i>The wind blew gently.</i> (IAth.) ―         -b4-  الرِّيحُ تَمْعَجُ <br>\
+                  فِى النَّبَاتِ <br>\
+                  <i>The wind turns over the herbage to the right and left.</i> (IAth.) ―         -b5-  مَعَجَ فى سَيْرِهِ <br>\
+                  <i>He inclined, in his course in every direction, by reason of his sprightliness.</i> (TA.) ―         -b6-  مَعَجَ, aor.      <br>\
+                     مَعَجَ<br>\
+                  , inf. n. مَعْجٌ, <i>He affected various modes in running: he</i> (a horse) <i>pressed against one of the branches of</i> <br>\
+                  <i>the bit, and then against the other, now on the right and now on the left;</i> [<i>inclining in his run now to the right and now to the left, by reason of his sprightliness:</i> see مَعَّاجٌ]. (TA.) ―         -b7-  مَعَجَ <br>\
+                  الفَصِيلُ ضَرْعَ اُمِّهِ, (aor.      <br>\
+                     مَعَجَ<br>\
+                  , inf. n. مَعْجٌ, TA,) <i>The young weaned camel struck its head against its mother&#39;s udder, and inverted</i> (as in the S, or <i>opened,</i> as in the K) <i>its mouth around it, in order to suck:</i> (S, K,) as also مَغَجَ. (TA, arts. معج and مغج.)    </entryFree> <br>\
+<b>فَرَسٌ مَعُوجٌ</b>               1     <br>\
+                     فَرَسٌ مَعُوجٌ<br>\
+                     ذ<br>\
+                  <i>A swift horse.</i> (S.) رِيحٌ مَعُوجٌ <br>\
+                  <i>A wind swift in its course.</i> (TA.) ―         -b2-  فَرَسٌ مَعُوجٌ, and ↓ <br>\
+      مِمعَجٌ, <i>A horse that often affects various modes in running: that often presses against one of the branches of the bit, and then against the other, now on the right and now on the left;</i> [<i>inclining in his run now to the right and now to the left, by reason of his sprightliness</i>]. (TA.) [In like manner,] ↓ <br>\
+      حِمَارٌ مَعَّاجٌ <br>\
+                  <i>An ass that inclines in his run to the right and left by reason of his sprightliness.</i> (TA.)    </entryFree> <br>\
+<b>مَعَّاجٌ</b>               1     <br>\
+                     مَعَّاجٌ<br>\
+                     ذ<br>\
+                   and مِمْعَجٌ: see مَعُوجٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'قرمزقِرْمِزٌ, a Persian word, arabicized; (TA;) [The<br>\
+insect called coccus: and particularly the coccus<br>\
+baphica, or coccus ilicis; commonly called by us,<br>\
+from the Persian and Arabic, kermes: and also<br>\
+applied to that species which is the true cochineal:]<br>\
+a certain Armenian dye, (Lth, K,) of a red<br>\
+colour, (Lth, TA,) obtained from the expressed<br>\
+fluid of a kind of worm found in the woods of<br>\
+Armenia: (Lth, K:) such is said to be the case:<br>\
+and in some of the correct copies of the K we find<br>\
+the following addition: it is said to be red like the<br>\
+lentil, in the form of grains: it falls upon a species<br>\
+of بَلَّوط, [or oak,] in the month of آذَار, [or March,<br>\
+O. S.,] and if not gathered, it becomes a flying<br>\
+thing, and flies: it is used as a dye for animal<br>\
+substances, such as wool and skill, but not cotton.<br>\
+(TA.)<br>\
+قِرْمِزِىٌّ Dyed with قِرْمِز: or resembling the colour<br>\
+of that dye: (the book entitled ما لا يسع الطبيب<br>\
+جهله, by Ibn-El-Kutbee; cited by Golius:) [in<br>\
+the present day, crimson; or of a deep red<br>\
+colour.]<br>\
+' } );

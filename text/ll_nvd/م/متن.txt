@@ -1,0 +1,70 @@
+load_data( { book: 'll_nvd', text: 'متن2<br>\
+مَتَّنَهُ<br>\
+, inf. n. تَمُتِينٌ, He made it, or rendered<br>\
+it, strong, stout, form, or hard. (TA.) ―<br>\
+-b2-  مَتَّنَ<br>\
+He seasoned a skin with rob, or inspissated juice<br>\
+(رُبّ). (K.)<br>\
+مَتْنُ الظَّهْرِ<br>\
+is The erector spinæ muscle, which<br>\
+consists of the sacro-lumbalis and longissimus<br>\
+dorsi and spinalis dorsi. The مَتْنٌ is The back:<br>\
+(M, Msb:) or, as also ↓ مَتْنَةٌ, (M,) or مَتْنَانِ, (T,)<br>\
+two portions of firmly-bound flesh between which<br>\
+is the back-bone, [or that confine the back-bone,]<br>\
+rendered firm by being tied (مَعْلُوبَتَانِ) with, or<br>\
+by,<br>\
+عَقَب [or sinews,] (T, M,) or the مَتْنَتَانِ are<br>\
+the two sides of the back. (M.) ―<br>\
+-b2-  مَتْنَا الظَهْرِ<br>\
+The two portions of flesh and sinew next the<br>\
+back-bone, on each side. (S.) ―<br>\
+-b3-  مَتْنٌ [The broad<br>\
+side, or the middle of the broad side, of the blade,<br>\
+of a sword;] the part in the middle of which is<br>\
+the [ridge called] عَمُود, (En-Nadr, in L, voce<br>\
+عَمُودٌ,) or the part in which is the [ridge called]<br>\
+شُطْبَة, (K, voce سَفْسَقَةٌ,) and شَطِيبَة, and عَمُود:<br>\
+(K, voce عَمُودٌ:) or the ridge [itself] (عَيْر) rising<br>\
+in the middle of a sword. (T.) ―<br>\
+-b4-  مَتْنٌ The<br>\
+hard and outer or apparent part of anything:<br>\
+pl. مُتُونٌ and مِتَانٌ. (M.) ―<br>\
+-b5-  مَتْنٌ The middle<br>\
+of a bow, and of a spear. (Munjid of Kr.) ―<br>\
+-b6-<br>\
+مَتْنُ أُذُنِ الفَرَسِ: see عَيْرٌ. ―<br>\
+-b7-  مَتْنٌ The part<br>\
+between two poles of a بَيْت, or tent. (AZ in TA,<br>\
+art. ربع.) ―<br>\
+-b8-  مَتْنٌ<br>\
+Elevated, and level, or plain,<br>\
+ground: (M:) or hard and elevated ground. (S,<br>\
+Msb, K.) ―<br>\
+-b9-  مَتْنُ الفَرَسِ<br>\
+One of the four bright<br>\
+stars in Pegasus, that (a) at the extremity of<br>\
+the neck: see الفَرْغُ. ―<br>\
+-b10-  مَتْنٌ<br>\
+i. q.<br>\
+حَدِيثٌ and<br>\
+خَبَرٌ and أَثَرٌ, A tradition of Mohammad, or of<br>\
+another, namely a companion of Mohammad,<br>\
+&amp;c. (IbrD.)<br>\
+مَتْنَةٌ<br>\
+: see مَتْنٌ.<br>\
+مَتِينٌ<br>\
+Strong; stout; firm; hard. (S, K,<br>\
+Msb.) [Well seasoned. Possessing any quality<br>\
+in a strong degree.]<br>\
+أَمْتَنُ حَلَاوَةً<br>\
+, i. q.<br>\
+أَشَدُّ حَلَاوَةً, More sweet.<br>\
+(TA, voce حَمْتٌ.)<br>\
+تِمْتَانٌ<br>\
+: see تَمْتِينٌ.<br>\
+تَمْتِينٌ<br>\
+(a subst., properly speaking, like تَلْبِيبٌ,<br>\
+q. v.) and ↓ تِمْتَانٌ The threads, or strings, of tents.<br>\
+(K.)<br>\
+' } );

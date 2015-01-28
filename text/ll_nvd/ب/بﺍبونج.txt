@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'بابونجبَابُونَجٌ [from the Persian بَابُونَهْ Chamomile; or<br>\
+chamomile-flowers: both called by these names<br>\
+in the present day]: a certain herb, of several<br>\
+different colours; yellow-flowered, and whiteflowered, and purple-flowered: (Avicenna [Ibn-Seenà] i. 139:) i. q. أُقْحُوَانٌ: (S, Msb, K, all in<br>\
+art قحو:) i. e. the اقحوان is the بابونج with the<br>\
+Persians: (Msb in that art.:) or the flower of the<br>\
+اقحوان: (S in art. قرص:) or of the yellow<br>\
+اقحوان, (TA in art. قرص,) when it has become<br>\
+dry: (S, TA, both in art. قرص:) a well-known<br>\
+flower, of great utility, (K, TA,) or of which the<br>\
+oil is of great utility: (CK:) commonly known<br>\
+in El-Yemen by the name of مونس [app. مُؤْنِسٌ,<br>\
+because of its pleasant odour, or its medical properties]. (TA.)<br>\
+' } );

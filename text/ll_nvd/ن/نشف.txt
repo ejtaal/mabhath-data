@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'نشف1<br>\
+نَشَفَ المَآءَ<br>\
+, aor.<br>\
+نَشِفَ<br>\
+, (Mgh, Msb,) inf. n.<br>\
+نَشْفٌ, (Msb,) He took [or absorbed] the water<br>\
+from the ground, (Mgh, Msb,) or from a pool,<br>\
+(Mgh,) with a piece of rag or some other thing<br>\
+(Mgh, Msb) of a similar kind. (Msb.)<br>\
+2<br>\
+نَشَّفَتْ<br>\
+She (a camel) [yielded frothy milk;]<br>\
+had<br>\
+نُشَافَة. (S in art. رغو. [See 2 in that art.])<br>\
+4<br>\
+أَنْشَفَ الأَرْضَ المَآءَ<br>\
+[It caused the earth to<br>\
+imbibe the water], said of the سَمُوم. (K voce<br>\
+أَضْرَبَ.)<br>\
+مِنْشَفَةٌ<br>\
+(pl. مَنَاشِف) A drying-towel; napkin.<br>\
+' } );

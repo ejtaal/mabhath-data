@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>زكر</em>            1                  زكر<br>\
+<b>زَكَرَ</b>               1     <br>\
+                     زَكَرَ<br>\
+                     ذ<br>\
+                  , (A, K,) aor.      <br>\
+                     زَكُرَ<br>\
+                  , (TK,) inf. n. زَكْرٌ; (TA;) and ↓ <br>\
+      زكّر, (K,) inf. n. تَزْكِيرٌ; (TA;) (tropical:)  <i>He filled</i> (A, K) a vessel, (TA,) or a water-skin. (A.)    </entryFree> <br>\
+                     زَكَّرَ<br>\
+                   see 1: ―         -b2-  and 5.    </entryFree> <br>\
+<b>تزكّر</b>               1     <br>\
+                     تزكّر<br>\
+                     ذ<br>\
+                   (tropical:)  <i>It</i> (a child&#39;s belly) <i>became large,</i> (K,) or <i>full,</i> (S, A,) <i>so that it was like a</i> <br>\
+                  زُكْرَة, (A,) <i>and in good condition;</i> (K;) as also ↓ <br>\
+      زكّر, inf. n. تَزْكِيرٌ. (K.) ―         -b2-  (assumed tropical:)  <i>It</i> (beverage, or wine,) <i>became collected</i> (K) <i>in a</i> <br>\
+                  زُكْرَة. (TA.)    </entryFree> <br>\
+<b>زُكْرَةٌ</b>               1     <br>\
+                     زُكْرَةٌ<br>\
+                     ذ<br>\
+                  <i>A certain small receptacle;</i> (Msb;) <i>a receptacle of skin,</i> (A,) or <i>a skin,</i> (K,) or <i>a small skin,</i> (S, Mgh,) <i>for wine,</i> (S, A, Mgh, K,) or <i>for vinegar:</i> (K:) pl. زُكَرٌ. (Msb.)   </entryFree> <br>\
+' } );

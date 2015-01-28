@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وحل</em>            1                  وحل<br>\
+<b>وَحَلٌ</b>               1     <br>\
+                     وَحَلٌ<br>\
+                     ذ<br>\
+                   (S. Msb, K) and وَحْلٌ (Msb, K) <i>Slime, mire,</i> or <i>then mud,</i> (S, Msb, K,) <i>in which beast of carriage slick.</i> (K.)   </entryFree> <br>\
+' } );

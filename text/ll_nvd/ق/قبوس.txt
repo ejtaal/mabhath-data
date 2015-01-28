@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'قبوسA sort of<br>\
+طُنْبُور: see مَعَازِفُ.<br>\
+' } );

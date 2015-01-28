@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'لبى2<br>\
+لَبَّاهُ [inf. n. تَلْبِيَةٌ] He said to him لَبَّيْك.<br>\
+(MA.)<br>\
+لَبَّيْكَ, and لَبَّيْهِ, and لَبَّىْ يَدَيْكَ: see art. لب.<br>\
+' } );

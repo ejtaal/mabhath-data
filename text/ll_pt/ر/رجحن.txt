@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>رجحن</em>            1                  رجحن<br>\
+<b>اِرْجَحَنَّ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اِرْجَحَنَّ<br>\
+                     ذ<br>\
+                  <i>It</i> (a thing, S) <i>inclined, bent,</i> or <i>declined.</i> (S, K.) Hence the prov., <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اـِذَا اْرْجَحَنَّ شَاصِيًا فَاْرْفَعْ يَدًا<br>\
+                  </quote> (S, Meyd,) or اْرْجَعَنَّ, or اْجْرَعَنَّ, accord. to different readings, the last being formed by transposition from the second, (Meyd,) i. e. <i>When he</i> (a man, Meyd) <i>inclines,</i> (S, Meyd,) or <i>falls,</i> (Meyd,) <i>raising his legs, then hold thou back</i> [thine <i>arm,</i> or thy <i>hand,</i>] from him; meaning, when he becomes lowly, humble, or submissive, to thee, hold thou back from him: (S, Meyd:) or it is said to a man fighting with another, and means <i>when</i> thou overcomest him, and <i>he lies on his side,</i> and  <br>\
+                  <i>falls, and raises his legs, then hold thou back</i> thine <i>arm,</i> or thy <i>hand,</i> from him: (TA in art. رجعن, in explanation of the second reading:) [or <i>when he is prostrated, and stretched upon the ground:</i> for,] accord. to As, ارجحنّ and ارجعنّ signify <i>he was prostrated, and stretched upon the ground.</i> (TA in art. رجعن.) And you say, ارجحنّ السَّحَابُ بَعْدَ تَبَسُّقٍ <br>\
+                  <i>The clouds became heavy, and inclined</i> [<i>downwards</i>], <i>after being high.</i> (TA.) ―         -b2-  Also <i>It</i> (a thing, S) <i>fell at once.</i> (S, K.) ―         -b3-  And <i>It</i> (a thing, S) <i>shook; quivered;</i> or <i>was,</i> or <i>became, in a state of commotion.</i> (S, K.) ―         -b4-  And ارجحنّ السَّرَابُ <br>\
+                  <i>i. q.</i> <br>\
+                  اِرْتَفَعَ [i. e. <i>The mirage became upraised, withdrawn,</i> or <i>removed</i>]. (K.)    </entryFree> <br>\
+<b>مُرْجَحِنٌّ</b>               1     <br>\
+                     مُرْجَحِنٌّ<br>\
+                     ذ<br>\
+                   [part. n. of the verb above]. You say, اَنَا فِى هٰذَا الاَمْرِ مُرْجَحِنٌّ <br>\
+                  <i>I am wavering,</i> or <i>vacillating,</i> and <i>inclining, in this affair.</i> (TA.) And اِمْرَاَةٌ مُرْجَحِنَّةٌ <br>\
+                  <i>A fat woman, who, when she walks, bends in her gait.</i> (TA.) And جَيْشٌ <br>\
+                  مُرْجَحِنُّ <br>\
+                  <i>A heavy army.</i> (S, K.) And رحًى <br>\
+                  مُرْجَحِنَّةٌ <br>\
+                  <i>A heavy round cloud.</i> (S, * K, * and A in art. رجح. [In the S and K, only the latter word is explained; though the meaning of the former (i. e. سَحَابَةٌ مُسْتَدِيرَةٌ, as in the A,) is plainly indicated in the S by a verse there cited.]) And فُلَانٌ فِى دُنْيَا مُرْجَحِنَّةٍ <br>\
+                  <i>Such a one is in an ample, abundant, state of worldly prosperity.</i> (TA.) And لَيْلٌ مُرْجَحِنٌّ <br>\
+                  <i>Heavy, wide-spreading, night.</i> (TA.) The author of the K follows ISd and J and Az in regarding the ن in this case as radical: but IAth says that some hold it to be augmentative; and the derivation to be from رَجَحَ الشَّىْءُ, meaning “ the thing was, or became, heavy. ” (TA.)   </entryFree> <br>\
+' } );

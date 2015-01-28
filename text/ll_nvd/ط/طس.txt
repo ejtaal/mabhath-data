@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'طسطَسٌّ and ↓ طَسَّةٌ (S, M, K) and ↓ طِسَّةٌ (M, K)<br>\
+i. q. طَسْتٌ, (S, K,) which is expl. in its proper<br>\
+place: (TA:) [see art. طست: or] طَسَّةٌ is the<br>\
+original of طَسْتٌ: (Lth, TA:) the pl. (of طَسٌّ,<br>\
+M) is أَطْسَاسٌ [a pl. of pauc.] (M) and طُسُوسٌ<br>\
+(S, M, K) and طَسِيسٌ (M, K) [or rather this is a<br>\
+quasi-pl. n.] and (of طَسَّةٌ and طِسَّةٌ, M) طِسَاسٌ<br>\
+and [of طَسَّةٌ also] طَسَّاتٌ, (S, K,) and طِسَّةٌ may<br>\
+also have for its pl. طِسَسٌ, accord. to rule.<br>\
+(M.) The dim. [of طَسٌّ] is طُسَيْسٌ; (S in art.<br>\
+طست;) and [of طَسَّةٌ and طِسَّةٌ,] طُسَيْسَةٌ. (IKt<br>\
+and Msb in art. طست.)<br>\
+طَسَّةٌ: see the preceding paragraph.<br>\
+طِسَّةٌ: see the preceding paragraph.<br>\
+طِسَاسَةٌ The trade of selling, (M,) or the art of<br>\
+making, (K,) [the kind of basins called] طُسُوس<br>\
+[pl. of طَسٌّ]. (M, K. *)<br>\
+طَسَّاسٌ A seller, (M,) or maker, (K,) of [the<br>\
+kind of basins called] طُسُوس, (M, K. *)<br>\
+' } );

@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;افخ&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  افخ<br>\
+&lt;entryFree id=&quot;n933&quot; key=&quot;اَفَخَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَفَخَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (A&#39;Obeyd, S, L, &amp;amp;c.,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِخَ<br>\
+                  &lt;/form&gt;, inf. n.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n934&quot; key=&quot;اَفْخٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفْخٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (L,) &lt;i&gt;He,&lt;/i&gt; [or &lt;i&gt;it&lt;/i&gt;] &lt;i&gt;struck him,&lt;/i&gt; or &lt;i&gt;hit him,&lt;/i&gt; [or &lt;i&gt;hurt him,&lt;/i&gt;] &lt;i&gt;on the part of his head called the&lt;/i&gt; <br>\
+                  يَاْفُوخ. (A&#39;Obeyd, S, L, Msb, K.) He who pronounces يافوخ without ء says يَفَخَهُ. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n935&quot; key=&quot;مَاْفُوخٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْفُوخٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A man &lt;i&gt;having his head broken in the part called the&lt;/i&gt; <br>\
+                  يَاْفُوخ. (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n936&quot; key=&quot;يَاْفُوخٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَاْفُوخٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Lth, Az, S, Msb, K,) as also يَافُوخٌ, without ء, but the former is the more correct and the better, (Lth, Az, Msb,) and is of the measure يَفْعُولٌ, (Lth, Az, S, Msb,) whereas the latter is of the measure فَاعُولٌ, (Lth, Az, Msb,) [The &lt;i&gt;top, vertex,&lt;/i&gt; or &lt;i&gt;crown, of the head;&lt;/i&gt; or the &lt;i&gt;part of the top of the head which is crossed by the coronal suture, and comprises a portion of the sagittal suture;&lt;/i&gt;] the &lt;i&gt;part where the anterior and posterior bones of the head meet;&lt;/i&gt; (K;) the &lt;i&gt;place that is in a state of commotion in the head of an infant;&lt;/i&gt; (S;) the &lt;i&gt;place which, in the head of a child, does not close up until after some years;&lt;/i&gt; or &lt;i&gt;does not become knit together in its several parts;&lt;/i&gt; and this is &lt;i&gt;where the bone of the anterior part of the head and that of its posterior part meet;&lt;/i&gt; (Zj in his “ Khalk el-Insán; ”) the &lt;i&gt;place that is soft, in a child&#39;s head, before the two bones called the&lt;/i&gt; <br>\
+                  نَمَّاغَة <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  رَمَّاعَة <br>\
+                  &lt;i&gt;meet, between the&lt;/i&gt; <br>\
+                  هَامَة [or &lt;i&gt;middle of the head&lt;/i&gt;] &lt;i&gt;and the forehead:&lt;/i&gt; (L:) or the &lt;i&gt;middle of the head when it has become hard and strong;&lt;/i&gt; before which it is not thus called: (Msb:) pl. يَا=فِيخُ; (S;) so in the old lexicons [in general]; but in the T and K يَوَافِيخُ [which is pl. of يافوخ without ء; or, as pl. of يافوخ, is like تَوَارِيخُ as pl. of تَاْرِيخٌ]; and because of this form of the pl., F says that J is in error in mentioning the word in the present art.: it has been shown, however, that J is not in error in this case. (TA.) — [Hence the saying,] اَنْتُمْ يَا=فِيخُ الشَّرَفِ (tropical:)  &lt;i&gt;Ye are the centres and summits of the heads of nobility.&lt;/i&gt; (L, from a trad.) And يَاْفُوخُ اللَّيْلِ (assumed tropical:)  &lt;i&gt;The main&lt;/i&gt; [or &lt;i&gt;middle&lt;/i&gt;] &lt;i&gt;part of the night.&lt;/i&gt; (S, K.) — [See also art. يفخ.]   &lt;/entryFree&gt; <br>\
+' } );

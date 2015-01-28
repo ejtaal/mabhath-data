@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ليغ</em>            1                  ليغ<br>\
+<b>لَاغَ</b>               1     <br>\
+                     لَاغَ<br>\
+                     ذ<br>\
+                  , aor. يَلَاغُ, inf. n. لَيَغٌ: see an ex. in a verse cited voce تَزَنَّدَ.   </entryFree> <br>\
+' } );

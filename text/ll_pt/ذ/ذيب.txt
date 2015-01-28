@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>ذيب</em>            1                  ذيب<br>\
+<b>ذَيْبٌ</b>               1     <br>\
+                     ذَيْبٌ<br>\
+                     ذ<br>\
+                  , (K,) like ذَابٌ, mentioned in art. ذوب, [and ذَيْمٌ] and ذَامٌ, (TA,) <i>A vice, fault, defect,</i> or <i>the like.</i> (K.)    </entryFree> <br>\
+<b>ذِيبٌ</b>               1     <br>\
+                     ذِيبٌ<br>\
+                     ذ<br>\
+                  : see ذِيْبٌ, in art. ذاب.    </entryFree> <br>\
+<b>ذِيبَانٌ</b>               1     <br>\
+                     ذِيبَانٌ<br>\
+                     ذ<br>\
+                  : see ذُوبَانٌ, in art. ذوب.    </entryFree> <br>\
+<b>اَذَيْبُ</b>               1     <br>\
+                     اَذَيْبُ<br>\
+                     ذ<br>\
+                  , [like اَزَيْبُ,] <i>Much water.</i> (K.) ―         -b2-  <i>Fright,</i> or <i>fear.</i> (K.) As mentions the saying, مَرَّ فُلَانٌ وَ لَهُ اَذَيْبُ [as though meaning <i>Such a one passed having fright,</i> or <i>fear</i>]: and he says, I think that one says اَزَيْبُ, with زاى having the meaning here following. (TA.) ―         -b3-  <i>Briskness, liveliness, sprightliness,</i> or <i>agility.</i> (K.)    </entryFree> <br>\
+<b>اَرْضٌ مَذْيَبَةٌ</b>               1     <br>\
+                     اَرْضٌ مَذْيَبَةٌ<br>\
+                     ذ<br>\
+                  : see مَذْاَبَةٌ, in art. ذاب.    </entryFree> <br>\
+<b>مَذْيُوبٌ</b>               1     <br>\
+                     مَذْيُوبٌ<br>\
+                     ذ<br>\
+                  : see مَذْوُوبٌ, in art. ذاب.   </entryFree> <br>\
+' } );

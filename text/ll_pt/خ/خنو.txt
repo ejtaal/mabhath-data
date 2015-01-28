@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>خنو</em>            1                  خنو<br>\
+<b>خَنَا</b>               1     <br>\
+                     خَنَا<br>\
+                     خان<br>\
+                     خن<br>\
+                     خنا<br>\
+                     خننا<br>\
+                  , aor. يَخْنُو, inf. n. خَنْوٌ and خَنًا: see خَنِىَ, in the art. here following.   </entryFree> <br>\
+' } );

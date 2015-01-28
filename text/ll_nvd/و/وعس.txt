@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'وعس1<br>\
+وَعَسَهُ الدَّهَرَ<br>\
+i. q.<br>\
+حَنَّكَهُ and عَرَكَهُ and نَحَّدَهُ<br>\
+&amp;c. (IAar, TA, in art. حنك.)<br>\
+' } );

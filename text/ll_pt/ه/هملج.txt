@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>هملج</em>            1                  هملج<br>\
+<b>هَمْلَجَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     هَمْلَجَ<br>\
+                     ذ<br>\
+                  , (L, Msb,) inf. n. هَمْلَجَةٌ, (S, L, K, &amp;amp;c.,) <i>He</i> (a hackney, or pacing horse, بِرْذَوْن, S, L, &amp;amp;c., i. e. a رَهَوَان, TA,) <i>went an easy and quick pace;</i> (Msb;) <i>he</i> (a hackney, or pacing horse, or a beast,) <i>went a good and quick pace; he went at a good and quick and graceful pace;</i> (L;) <i>he</i> (a beast of carriage) <i>went a good pace.</i> (Abridgment of the &#39;Eyn.) See نَصَبَ السَّيْرَ.    </entryFree> <br>\
+<b>هَمْلَجَةٌ</b>               1     <br>\
+                     هَمْلَجَةٌ<br>\
+                     ذ<br>\
+                  , as a simple subst., (<i>An easy and quick,</i> or <i>good and quick,</i> or <i>good and quick and graceful,</i> or <i>good, pace</i> of a hackney, or pacing horse, or beast of carriage:] pl. هَمَالِجُ. (L.)    </entryFree> <br>\
+<b>هِمْلَاجٌ</b>               1     <br>\
+                     هِمْلَاجٌ<br>\
+                     ذ<br>\
+                  , (S, K, &amp;amp;c.,) used as the act. part. n. of هَمْلَجَ, (Abridgment of the &#39;Eyn,) whence it would seem that the regular form of the act. part. n., مُهَمْلِجٌ, has not been used, (Msb,) an epithet applied to a hackney, or pacing horse, بِرْذَوْن, (S, K, &amp;amp;c,) or a beast of carriage, (L,) both to the male and female, (L, Msb,) <i>Going,</i> or <i>that goes, an easy and quick pace;</i> (Msb;) <i>a good and quick pace; a good and quick and graceful pace;</i> (L;) <i>a good pace:</i> (Abridgment of the &#39;Eyn:) syn. مُهَمْلِجٌ: (K: in the CK مُهَمْلَجٌ:) a man&#39;s <i>beast for riding:</i> (L:) pl. هَمَالِيجُ: (S:) a Persian word, arabicized: (S, L, K:) [but I have not found its original in a Persian lexicon]. ―         -b2-  شَاةٌ هِمْلَاجٌ <br>\
+                  <i>A sheep in which is no marrow, by reason of its leanness.</i> (K.)    </entryFree> <br>\
+<b>اَمْرٌ مُهَمْلَجٌ</b>               1     <br>\
+                     اَمْرٌ مُهَمْلَجٌ<br>\
+                     ذ<br>\
+                  <i>An affair rendered manageable,</i> or <i>easy.</i> (L, K.) ―         -b2-  <i>An affair proved by experience.</i> (L.)   </entryFree> <br>\
+' } );

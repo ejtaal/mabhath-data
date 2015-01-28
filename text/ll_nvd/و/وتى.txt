@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'وتى3<br>\
+وَاتَاهُ عَلَى الأَمْرِ<br>\
+, inf. n. مُوَاتَاةٌ and وِتَآءٌ, i. q.<br>\
+طَاوَعَهُ; a dial. var. of the verb with ء [i. e. آتَاهُ,<br>\
+q. v., and of وَاطَأَهُ also]. (TA.) See 3 in art. عدو.<br>\
+4<br>\
+أَوْتَى<br>\
+: see وَتٌّ.<br>\
+' } );

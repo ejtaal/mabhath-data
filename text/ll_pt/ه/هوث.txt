@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هوث</em>            1                  هوث<br>\
+<b>تَرَكَهُمْ هَوْثًا بَوْثًا</b>               1     <br>\
+                     تَرَكَهُمْ هَوْثًا بَوْثًا<br>\
+                     ذ<br>\
+                  <i>He made a great slaughter among them.</i> (TA.) [See art. بوث.]    </entryFree> <br>\
+<b>هَوْثَةٌ</b>               1     <br>\
+                     هَوْثَةٌ<br>\
+                     ذ<br>\
+                  <i>A thirst.</i> (K.)   </entryFree> <br>\
+' } );

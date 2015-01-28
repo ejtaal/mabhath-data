@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'بوس1<br>\
+بَاسَهُ, aor. يَبُوسُهُ, (S,) inf. n. بَوْسٌ, a Persian<br>\
+word, arabicized, (S, A, K,) He kissed him. (S,<br>\
+A, K.) You say also, بَاسَ لَهُ الأَرْضَ He kissed<br>\
+the ground to him. (A, TA.)<br>\
+مَبُوسٌ Kissed: you say, اليَوْمَ بِسَاطُكَ مَبُوسٌ وَ غَدًا<br>\
+أَنْتَ مَحْبُوسٌ [To-day thy carpet is kissed, and<br>\
+to-morrow thou art imprisoned]. (A.)<br>\
+' } );

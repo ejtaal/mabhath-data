@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ذلك</em>            1                  ذلك<br>\
+<b>ذٰلِكَ</b>               1     <br>\
+                     ذٰلِكَ<br>\
+                     ذ<br>\
+                  : see art ذا; and ك as a particle of allocution.   </entryFree> <br>\
+' } );

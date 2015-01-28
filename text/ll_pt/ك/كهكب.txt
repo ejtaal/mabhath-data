@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>كهكب</em>            1                  كهكب<br>\
+<b>كَهْكَبٌ</b>               1     <br>\
+                     كَهْكَبٌ<br>\
+                     ذ<br>\
+                   and كَهْكَمٌ <br>\
+                  <i>i. q.</i> <br>\
+                  بَاذِنْجَانٌ [The <i>eggplant,</i> or <i>melongena</i>]. (IAar, T, K.) Mentioned in the T in art. كهكم; whence it seems that the ب is a substitute for م. (TA.)   </entryFree> <br>\
+            <div2 n=&quot;khl khm khn khY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كهل كهم كهن كهى<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

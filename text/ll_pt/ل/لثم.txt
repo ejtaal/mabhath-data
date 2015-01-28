@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>لثم</em>            1                  لثم<br>\
+<b>لَثَمَتِ الحِجَارَةُ خُفَّ البَعِيرِ</b>               1     <br>\
+                     لَثَمَتِ الحِجَارَةُ خُفَّ البَعِيرِ<br>\
+                     ذ<br>\
+                  <i>The stones wounded the camel&#39;s foot, and made it bleed.</i> (S.) ―         -b2-  لَثَمَتْ. <i>She muffled herself with a</i> <br>\
+                  لِثَام. (K.)    </entryFree> <br>\
+<b>لِثَامٌ</b>               1     <br>\
+                     لِثَامٌ<br>\
+                     ذ<br>\
+                  <i>A kind of muffler for the mouth.</i> (K.)    <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هرم</em>            1                  هرم<br>\
+<b>هَرِمَ</b>               1     <br>\
+                     هَرِمَ<br>\
+                     ذ<br>\
+                  <i>He became extremely aged;</i> (K;) <i>old and infirm;</i> (Msb;) <i>decrepit;</i> or <i>a weak old man.</i>    <br>\
+<b>هَرِمٌ</b>               1     <br>\
+                     هَرِمٌ<br>\
+                     ذ<br>\
+                  <i>The mind:</i> see 6 in art. رق.   </entryFree> <br>\
+' } );

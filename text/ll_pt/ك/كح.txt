@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>كح</em>            1                  كح<br>\
+<b>كُحٌّ</b>               1     <br>\
+                     كُحٌّ<br>\
+                     ذ<br>\
+                   Anything <i>pure, mere, unadulterated,</i> or <i>genuine;</i> (L;) <i>i. q.</i> <br>\
+                  قُحٌّ, (L, K,) of which it is a dial. form: (S:) [but see what follows, and قُحٌّ]. عَرَبِىٌّ كُحٌّ <br>\
+                  <i>A pure,</i> or <i>genuine, Arab:</i> fem. عَرَبِيَّةٌ كُحَّةٌ: (S, K:) pl. اَكْحَاحٌ: you say اَعْرَابٌ اكحاحٌ: (L:) [or this is not said: see قُحٌّ:] Yaakoob asserts, that the ك in كُحٌّ is substituted for the ق in قُحٌّ: (L:) [and if so, the former is not a dial. form of the latter]. عَبْدٌ كُحٌّ <br>\
+                  <i>A mere,</i> or <i>genuine, slave; of purely servile race.</i> (L.)    </entryFree> <br>\
+<b>كُحْكُحٌ</b>               1     <br>\
+                     كُحْكُحٌ<br>\
+                     ذ<br>\
+                   and كِحْكِحٌ A <i>decrepit</i> old woman: (S, K:) a she-camel <i>far advanced in age:</i> (K:) or <i>old and weak:</i> (S:) or <i>far advanced in age, and having lost her teeth:</i> (T:) a she-camel, and cow, and ewe, or she-goat, <i>old and weak, and unable to retain her slaver:</i> or <i>whose teeth are consumed.</i> (L.)    </entryFree> <br>\
+<b>اَكَحُّ</b>               1     <br>\
+                     اَكَحُّ<br>\
+                     ذ<br>\
+                  <i>Toothless.</i> (L.)    </entryFree> <br>\
+<b>كُحُحٌ</b>               1     <br>\
+                     كُحُحٌ<br>\
+                     ذ<br>\
+                  <i>Decrepit</i> old women. (K.)   </entryFree> <br>\
+' } );

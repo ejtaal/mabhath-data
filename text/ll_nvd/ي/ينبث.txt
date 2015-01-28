@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'ينبثيَنْبِيث A kind of sea-fish: (IAar, T:) different<br>\
+from the بَيْنِيث: it is doubtful whether it be<br>\
+Arabic, or a foreign word introduced into the<br>\
+Arabic language. (T.) [See arts. بنث and<br>\
+نبث.]<br>\
+' } );

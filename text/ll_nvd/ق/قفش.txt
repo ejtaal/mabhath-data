@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قفشقَفْشٌ<br>\
+A boot: (M:) or a short boot: (IAar,<br>\
+K, TA:) or such as is cut, and not well made.<br>\
+(Az, TA.)<br>\
+' } );

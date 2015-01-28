@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>قلص</em>            1                  قلص<br>\
+<b>القِلاَصُ</b>               1     <br>\
+                     القِلاَصُ<br>\
+                     ذ<br>\
+                  , or القَلاَيِصُ, <i>Some small stars before</i> <br>\
+                  الدَّبَرَانُ; [i. e., <i>towards</i> <br>\
+                  التُّرَيَّا; <i>being between the Hyades and t(??) (??)eiades;</i>] <i>following</i> <br>\
+                  الثريّا. (Mir-át ez-Zemán.) Or <i>The Hyades.</i>   <br>\
+' } );

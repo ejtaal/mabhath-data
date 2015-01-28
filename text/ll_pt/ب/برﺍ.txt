@@ -1,0 +1,171 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;برا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  برا<br>\
+&lt;entryFree id=&quot;n2165&quot; key=&quot;بَرِيَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     بَرِيَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;, inf. n. generally بُرْءٌ or بَرَا=ءَةٌ,] &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, clear,&lt;/i&gt; or &lt;i&gt;free,&lt;/i&gt; of, or from, a thing; in the manners which will be explained below: (Bd ii. 51:) &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, in a state of freedom&lt;/i&gt; or &lt;i&gt;immunity, secure,&lt;/i&gt; or &lt;i&gt;safe.&lt;/i&gt; (T.) [Hence,] بَرِيَ مِنَ المَرَضِ, and بَرَاَ, (T, Msb,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;; and بَرُوَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرُاَ<br>\
+                  &lt;/form&gt;; (Msb;) inf. n. بُرْءٌ: (T, Msb:) or بَرِيَ من المرض, inf. n. بُرْءٌ, with damm; and the people of El-Hijáz say بَرَاَ, inf. n. بَرْءٌ, with fet-h: (S:) accord. to As, بَرِىَ من <br>\
+                  المرض is of the dial. of Temeem; and بَرَاَ of the dial. of the people of El-Hijáz: or, accord. to AZ, the people of El-Hijáz say بَرَاَ; and the rest of the Arabs say بَرِيَ: (T:) or بَرَاَ [alone], said of a sick man, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرُاَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;; and بَرِيَ; and بَرُوَ; inf. n. بَرْءٌ [probably a mistranscription for بُرْءٌ] and بُرُوٌ: or, accord. to Lh, the people of El- Hijáz say بَرَاَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرُاَ<br>\
+                  &lt;/form&gt;, inf. n. بُرْءٌ and بُرُوٌ [i. e. بُرُوْءٌ]; and the people of El-&#39;Áliyeh, [بَرَاَ,] aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;, inf. n. بُرْءٌ and بُرُوُ; and Temeem, بَرِيَ, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;,] inf. n. بُرْءٌ and بُرُوٌ: (M:) or بَرَاَ, (K,) said by IKtt to be the most chaste form, (TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;, (K,) agreeably with analogy, (TA,) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرُاَ<br>\
+                  &lt;/form&gt;, (K,) said by Zj to be the only instance of a verb of the measure فَعَلَ with ء for its last radical letter having its aor. of the measure يَفْعُلُ, [though others mention also قَرَاَ, aor. يَقْرُوُ, and هَنَاَ, aor. يَهْنُوُ,] and asserted to be a bad form, (TA,) inf. n. بُرْءٌ and بُرُوْءٌ; and بَرُوَ, (K,) not a chaste form, (TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرُاَ<br>\
+                  &lt;/form&gt;; and بَرِيَ, (K,) a chaste form, (TA,) [and the most common of all,] aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;, inf. n. بَرْءٌ and بُرُوٌ, (K, TA,) or بُرْءٌ, (CK,) and بُرُوْءٌ; (K, TA;) &lt;i&gt;He became free from the disease, sickness,&lt;/i&gt; or &lt;i&gt;malady:&lt;/i&gt; (T:) or [&lt;i&gt;he recovered from it:&lt;/i&gt;] &lt;i&gt;he became convalescent;&lt;/i&gt; or &lt;i&gt;sound,&lt;/i&gt; or &lt;i&gt;healthy, at the close of disease, but was yet weak; or he recovered, but not completely, his health and strength;&lt;/i&gt; syn. نِقَهَ; (M, K;) i. e., &lt;i&gt;he acquired that slight degree of soundness,&lt;/i&gt; or &lt;i&gt;health, which comes at the close of disease, but with disease remaining in him.&lt;/i&gt; (TA.) [And بَرِيَ <br>\
+                  الجُرْجُ, or بَرَاَ, &lt;i&gt;The wound healed;&lt;/i&gt; or &lt;i&gt;became in a healing state:&lt;/i&gt; of frequent occurrence.] And بَرِيَ مِنَ الاَمْرِ, [the only form of the verb used in this case, and in the other cases in which it is mentioned below,] aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرُاَ<br>\
+                  &lt;/form&gt;, the latter extr., (M, K,) or rather it is very strange, for IKoot says that نَعِمَ, aor. يَنْعُمُ, and فَضِلَ, aor. يَفْضُلُ, are the only instances of this kind, (TA,) inf. n. بَرَا=ءَةٌ (M, K) and بَرَا=ءٌ (Lh, M, K) and بُرُوٌ, (M,) or بُرْءٌ, (K, TA,) or بُرُوْءٌ; (CK;) and ↓ <br>\
+      تبرّا; (S, * M, K, Mgh; *) [&lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, free from the thing,&lt;/i&gt; or &lt;i&gt;affair;&lt;/i&gt; or &lt;i&gt;clear,&lt;/i&gt; or &lt;i&gt;quit, thereof; clear of having&lt;/i&gt; or &lt;i&gt;taking,&lt;/i&gt; or &lt;i&gt;of having had&lt;/i&gt; or &lt;i&gt;taken, any part therein; guiltless of it:&lt;/i&gt; and also, &lt;i&gt;irresponsible for it;&lt;/i&gt; as in an ex. q. v. voce عِضَاضٌ:] said in relation to [a fault or the like, and] a debt, and a claim, and religion [&amp;amp;c.]. (Lh, M.) You say, بَرِيَ مِنَ العَيْبِ, (Mgh, Msb,) or العُيُوبِ, (S,) inf. n. بَرَا=ءَةٌ, (Mgh,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, free&lt;/i&gt; (Msb) [&lt;i&gt;from the fault, defect, imperfection, blemish,&lt;/i&gt; or &lt;i&gt;vice&lt;/i&gt;], (Mgh, Msb,) [or &lt;i&gt;faults,&lt;/i&gt; &amp;amp;c.]. (S.) And بَرِيَ مِنَ الدَّيْنِ, (T, Mgh, Msb,) or الدُّيُونِ, (S,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;, (T, Msb,) inf. n. بَرَا=ءَةٌ, (T, Mgh, Msb,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, clear,&lt;/i&gt; or &lt;i&gt;quit, of the debt;&lt;/i&gt; (or &lt;i&gt;debts;&lt;/i&gt; S;) &lt;i&gt;irresponsible for it&lt;/i&gt; [or &lt;i&gt;them&lt;/i&gt;]: or &lt;i&gt;in a state of immunity with respect to it&lt;/i&gt; [or &lt;i&gt;them&lt;/i&gt;]; i. e., &lt;i&gt;exempt from the demand thereof.&lt;/i&gt; (Msb.) And بَريَ <br>\
+                  اـِلَيْكَ مِنْ حَقِّكَ, inf. n. بَرَا=ءَةٌ and بَرَا=ءٌ (Lh, M) and بُرُوٌ, [&lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, clear,&lt;/i&gt; or &lt;i&gt;quit, to thee, of thy claim,&lt;/i&gt; or &lt;i&gt;due,&lt;/i&gt; or &lt;i&gt;right;&lt;/i&gt; or &lt;i&gt;exempt from the demand thereof;&lt;/i&gt;] as also ↓ <br>\
+      تبرّا. (M.) And بَرِيْتُ اـِلَيْكَ مِنْ فُلَانٍ, inf. n. بَرَا=ءةٌ, [&lt;i&gt;I was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; or &lt;i&gt;have become, clear, to thee, of having&lt;/i&gt; or &lt;i&gt;taking,&lt;/i&gt; or &lt;i&gt;of having had&lt;/i&gt; or &lt;i&gt;taken, any part with such a one;&lt;/i&gt; or, &lt;i&gt;irresponsible to thee for such a one:&lt;/i&gt;] (AZ, T, S: * [in one copy of the S, I find the phrase بَرِيْتُ مِنْكَ, commencing the art.; but not in other copies:]) this is the only form of the verb used in this case, and in relation to debt [and the like]. (AZ, T.) ―         -b2-  &lt;i&gt;He removed himself,&lt;/i&gt; or &lt;i&gt;kept, far,&lt;/i&gt; or &lt;i&gt;aloof,&lt;/i&gt; [from unclean things, or things occasioning blame; followed by مِنْ, with which it may be rendered &lt;i&gt;he shunned,&lt;/i&gt; or &lt;i&gt;avoided;&lt;/i&gt;] syn. تَنَزَّهُ and تَبَاعَدَ. (T.) [You say, بَرِيَ مِنَ <br>\
+                  الاَقْذَارِ <br>\
+                  &lt;i&gt;He removed himself,&lt;/i&gt; or &lt;i&gt;kept, far,&lt;/i&gt; or &lt;i&gt;aloof, from unclean things.&lt;/i&gt;] ―         -b3-  &lt;i&gt;He manifested an excuse,&lt;/i&gt; [or &lt;i&gt;asserted himself to be clear&lt;/i&gt; or &lt;i&gt;quit&lt;/i&gt; or &lt;i&gt;irresponsible,&lt;/i&gt; like ↓ <br>\
+      تبرّا,] &lt;i&gt;and gave warning;&lt;/i&gt; syn. اَعْذَرَ and اَنْذَرَ. (T.) Hence, in the Kur [ix. 1], بَرَا=ءَةٌ مِنَ اْللّٰهِ وَرَسُولِهِ <br>\
+                  &lt;i&gt;A manifestation of excuse, and a warning, from God and his apostle.&lt;/i&gt; (T.)       -A2-  بَرَاَ اْللّٰهُ الخَلْقَ, (Fr, T, S, M, K,) or الخَلِيَقَةَ, (Msb,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     بَرَاَ<br>\
+                  &lt;/form&gt;, (T, M, &amp;amp;c.,) inf. n. بَرْءٌ (T, S, M, K) and بُرُوْءٌ, (AZ, Lh, M, K,) &lt;i&gt;God created mankind,&lt;/i&gt; or &lt;i&gt;the beings,&lt;/i&gt; or &lt;i&gt;things, that are created,&lt;/i&gt; syn. خَلَقَ, (Fr, T, M, Msb, K,) &lt;i&gt;after no similitude,&lt;/i&gt; or &lt;i&gt;model,&lt;/i&gt; (TA,) [&lt;i&gt;but,&lt;/i&gt; properly, though not always meaning so, &lt;i&gt;out of pre-existing matter;&lt;/i&gt; for] Bd says [in ii. 51] that the primary meaning of the root برء is to denote a thing&#39;s becoming clear, or free, of, or from, another thing; either by being released [therefrom], as in بَرِيَ المَرِيضُ <br>\
+                  مِنْ مَرَضِهِ and المَدْيُونُ مِنْ دَينِهِ [both sufficiently explained above]; or by production [therefrom], as in بَرَاَ اْللّٰهُ ا=دَمَ مِنَ الطِّينِ [&lt;i&gt;God produced,&lt;/i&gt; or &lt;i&gt;created, Adam, from,&lt;/i&gt; or &lt;i&gt;out of, clay&lt;/i&gt;]. (TA.) This verb relates to substances [as in the exs. given above] and to accidents; and hence, [in the Kur lvii. 22,] مِنْ قبْلِ اَنْ نَبْرَاَهَا [&lt;i&gt;Before our creating it,&lt;/i&gt; if ها refer to مُصِيبَة, preceding it; but, as Bd says, it may refer to this, or to الاَرْض, or to اَنْفُس]: (M:) but البَرْءُ has a more particular application than الخَلْقُ; the former being particularly applied to the creation of animate beings, with few exceptions: you say, بَرَاَ اْللّٰهُ النَّسَمَةَ <br>\
+                  وَ خَلَقَ السَّمٰوَاتِ وَالاَرْضَ [&lt;i&gt;God created,&lt;/i&gt; or &lt;i&gt;produced, man,&lt;/i&gt; or &lt;i&gt;the soul, and He created the heavens and the earth&lt;/i&gt;]. (TA.) [To this verb, or perhaps to بَرَي, or to both,        <br>\
+      &lt;orth lang=&quot;he&quot;&gt;בָּרָ&lt;/orth&gt; is the Hebrew equivalent, properly (though not necessarily always) signifying “ he created out of pre-existing matter, ” or “ he fashioned. ”]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2166&quot; key=&quot;برّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     برّاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَبْريَةٌ: see 4, in four places. [Hence,] لَا التَّبْرِيَةِ <br>\
+                  &lt;i&gt;The&lt;/i&gt; <br>\
+                  لا <br>\
+                  &lt;i&gt;that denies in a general manner, absolutely,&lt;/i&gt; or &lt;i&gt;to the uttermost;&lt;/i&gt; i. e. &lt;i&gt;the&lt;/i&gt; <br>\
+                  لا <br>\
+                  &lt;i&gt;that is a universal negative.&lt;/i&gt; (Mughnee &amp;amp;c.) ―         -b2-  Also &lt;i&gt;He verified his being free&lt;/i&gt; [from a thing], &lt;i&gt;clear,&lt;/i&gt; or &lt;i&gt;quit,&lt;/i&gt; [of it,] &lt;i&gt;guiltless&lt;/i&gt; [of it], or &lt;i&gt;irresponsible&lt;/i&gt; [for it]. (Mgh, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2167&quot; key=&quot;باراهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     باراهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, Mgh, K,) inf. n. مُبَارَاَةٌ (T, M, Mgh) and بِرَا=ءٌ, (M,) &lt;i&gt;He made him&lt;/i&gt; (his copartner) &lt;i&gt;free, clear, quit,&lt;/i&gt; or &lt;i&gt;irresponsible, the latter doing to him the same:&lt;/i&gt; (Mgh:) &lt;i&gt;he compounded,&lt;/i&gt; or &lt;i&gt;made a compromise, with him&lt;/i&gt; (his hired man, T, M) &lt;i&gt;for their mutual separation:&lt;/i&gt; (M:) &lt;i&gt;he separated himself from him&lt;/i&gt; (his copartner, S, O), &lt;i&gt;the latter doing the same.&lt;/i&gt; (S, O, K.) And بَارَاْتُ الرَّجُلَ <br>\
+                  &lt;i&gt;I became free, clear, quit,&lt;/i&gt; or &lt;i&gt;irresponsible, to the man, he becoming so to me.&lt;/i&gt; (M.) And بارا المَرْاَةَ, (T, M, K,) or اْمْرَاَتَهُ, (S,) inf. n. as above, (M,) &lt;i&gt;He compounded,&lt;/i&gt; or &lt;i&gt;made a compromise, with the woman&lt;/i&gt; (or &lt;i&gt;his wife,&lt;/i&gt; S) &lt;i&gt;for their mutual separation;&lt;/i&gt; (M, K;) i. e. &lt;i&gt;he divorced her for a compensation&lt;/i&gt; [&lt;i&gt;which she was to make him,&lt;/i&gt; such as her giving up a portion of her dowry remaining due to her, &lt;i&gt;in order that they might be clear, each of the other&lt;/i&gt;]: it occurs also [without ء] in art. برى. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2168&quot; key=&quot;ابراهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ابراهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He&lt;/i&gt; (God, S, M, K) [&lt;i&gt;recovered him,&lt;/i&gt; or] &lt;i&gt;restored him to convalescence,&lt;/i&gt; (M, K,) مِنَ المَرَضِ [&lt;i&gt;from the disease, sickness,&lt;/i&gt; or &lt;i&gt;malady&lt;/i&gt;]. (S.) ―         -b2-  اَبْرَاَكَ مِنَ الاَمْرِ and ↓ <br>\
+      بَرَّاَكَ (M, K *) &lt;i&gt;He&lt;/i&gt; (i. e. God, TA) &lt;i&gt;made thee, pronounced thee,&lt;/i&gt; or &lt;i&gt;held thee,&lt;/i&gt; or &lt;i&gt;hath made thee,&lt;/i&gt; &amp;amp;c., or &lt;i&gt;may He make thee,&lt;/i&gt; &amp;amp;c., &lt;i&gt;to be free from the thing&lt;/i&gt; or &lt;i&gt;affair,&lt;/i&gt; or &lt;i&gt;clear&lt;/i&gt; or &lt;i&gt;quit thereof,&lt;/i&gt; or &lt;i&gt;guiltless thereof,&lt;/i&gt; or &lt;i&gt;irresponsible for it;&lt;/i&gt; (TA;) [or &lt;i&gt;He acquitted thee,&lt;/i&gt; or &lt;i&gt;hath acquitted thee,&lt;/i&gt; or &lt;i&gt;may He acquit thee, thereof;&lt;/i&gt; or &lt;i&gt;He showed thee,&lt;/i&gt; or &lt;i&gt;hath showed thee,&lt;/i&gt; or &lt;i&gt;may He show thee, to be free from it,&lt;/i&gt; &amp;amp;c.: see also 2, above:] said in relation to [a fault or the like, and] a debt, and a claim, and religion [&amp;amp;c.]. (M.) You say, مِنَ العَيْبِ ↓ <br>\
+      بَرَّاْتُهُ <br>\
+                  &lt;i&gt;I made him, pronounced him,&lt;/i&gt; or &lt;i&gt;held him, to be free from the fault, defect, imperfection, blemish,&lt;/i&gt; or &lt;i&gt;vice.&lt;/i&gt; (Msb.) It is said in the Kur [xxxiii. 69], ↓ <br>\
+      فَبَرَّاْهُ <br>\
+                  اْللّٰهُ مِمَا قَالُوا (M) &lt;i&gt;But God showed him to be clear of that which they said.&lt;/i&gt; (Bd.) You say also, اَبْرَاْتُهُ مِنَ الدَّيْنِ <br>\
+                  &lt;i&gt;I made him, pronounced him,&lt;/i&gt; or &lt;i&gt;held him, to be clear,&lt;/i&gt; or &lt;i&gt;quit, of the debt; irresponsible for it;&lt;/i&gt; or &lt;i&gt;in a state of immunity with respect to it;&lt;/i&gt; i. e., &lt;i&gt;exempt from the demand thereof:&lt;/i&gt; (Msb:) and اَبْرَاْتُهُ مِمَّا لِى <br>\
+                  عَلَيْهِ; and ↓ <br>\
+      بَرَّاْتُهُ, inf. n. تَبْرِيَةٌ; [&lt;i&gt;I acquitted him of that which he owed me:&lt;/i&gt;] (S:) and اَبْرَاْتُهُ [alone] &lt;i&gt;I made him, pronounced him,&lt;/i&gt; or &lt;i&gt;held him, to be clear,&lt;/i&gt; or &lt;i&gt;quit, of a claim that I had&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;179&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;upon him,&lt;/i&gt; or &lt;i&gt;a due&lt;/i&gt; or &lt;i&gt;right that he owed me.&lt;/i&gt; (Mgh.)       -A2-  ابرا [in the T (as on the authority of Aboo-&#39;Amr Esh-Sheybánee) اَبْرَى] &lt;i&gt;He entered upon&lt;/i&gt; [&lt;i&gt;the night,&lt;/i&gt; or &lt;i&gt;day, called&lt;/i&gt;] البَرَا=ء, q. v. (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَبَرَّاَ<br>\
+                  &lt;/form&gt; see 1, in three places. تبرّا مِنْهُ also signifies &lt;i&gt;He asserted himself to be free from it;&lt;/i&gt; or &lt;i&gt;clear,&lt;/i&gt; or &lt;i&gt;quit, of it;&lt;/i&gt; namely, a fault, or the like. (Mgh.) [And &lt;i&gt;He declared himself to be clear of him; to be not connected,&lt;/i&gt; or &lt;i&gt;implicated, with him; he renounced him:&lt;/i&gt; see Kur ii. 161 and 162, &amp;amp;c:]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2169&quot; key=&quot;تَبَارَاْنَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَبَارَاْنَا<br>\
+                     ذ<br>\
+                  &lt;i&gt;We separated ourselves, each from the other.&lt;/i&gt; (TA.) [See 3.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2170&quot; key=&quot;استبرا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استبرا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T,) or استبرا مِنَ البَوْلِ, (Msb,) &lt;i&gt;He took extraordinary pains,&lt;/i&gt; or &lt;i&gt;the utmost pains, in cleansing the orifice of his penis from the remains of urine, by shaking it and pulling it and the like, until he knew that nothing remained in it:&lt;/i&gt; (T:) or &lt;i&gt;he purified,&lt;/i&gt; or &lt;i&gt;cleansed, himself from urine;&lt;/i&gt; syn. تَنَزَّهُ عَنْهُ: (Msb:) or استبرا, (M,) or استبرا الذَّكَرَ, (K, TA,) signifies &lt;i&gt;he took extraordinary pains,&lt;/i&gt; or &lt;i&gt;the utmost pains, in cleansing the penis from urine;&lt;/i&gt; or &lt;i&gt;he cleansed it entirely from urine;&lt;/i&gt; (M, * K, * TA;) and so استبرا الفَرْجَ: and in like manner, استبراتِ الفَرْجَ said of a woman: (El-Munáwee, TA:) but the lawyers make a distinction between اسْتِبْرَا=ءٌ and اِسْتِنْقَا=ءٌ [which are made syn. in the M and K]: see the latter word. (TA.) ―         -b2-  And استبرا الجَارِيَةَ, (T, S, Mgh,) or المَرْاَةَ, (M, Msb, K,) &lt;i&gt;He abstained from sexual intercourse&lt;/i&gt; (T, M, K) &lt;i&gt;with the girl&lt;/i&gt; whom he had purchased or whom he had taken captive, (T,) or &lt;i&gt;with the woman,&lt;/i&gt; (M, K,) &lt;i&gt;until she had menstruated&lt;/i&gt; (T, M, K) &lt;i&gt;at his abode, once, and then become purified:&lt;/i&gt; (T:) the meaning is, (T,) &lt;i&gt;he sought to find her free from pregnancy.&lt;/i&gt; (T, Mgh, Msb.) ―         -b3-  Hence, (Mgh,) استبرا الشَّيْءِ, (Z, Mgh, Msb,) or الاَمْرَ, (TA,) &lt;i&gt;He searched, searched out,&lt;/i&gt; or &lt;i&gt;sought to find&lt;/i&gt; or &lt;i&gt;discover, the uttermost of the thing,&lt;/i&gt; or &lt;i&gt;affair,&lt;/i&gt; (Z, Mgh, Msb, TA,) &lt;i&gt;in order that he might know it,&lt;/i&gt; (Mgh,) &lt;i&gt;to put an end to his doubt.&lt;/i&gt; (Z, Mgh, Msb, TA.) You say, اِسْتَبْرَاْتُ مَا عِنْدَكَ [&lt;i&gt;I searched,&lt;/i&gt; or &lt;i&gt;sought to find&lt;/i&gt; or &lt;i&gt;discover,&lt;/i&gt; or &lt;i&gt;I have searched,&lt;/i&gt; &amp;amp;c., &lt;i&gt;the uttermost of what thou hast,&lt;/i&gt; of knowledge &amp;amp;c.]. (S, TA.) And استبرا ارْضَ كَذَا فَمَا وَجَدَ ضَالَّتَهُ [&lt;i&gt;He searched the uttermost of such a land and found not his stray beast&lt;/i&gt;]. (TA.) It is said in the Expos. of the Jámi&#39; es-Sagheer that اِسْتِبْرَا=ءٌ is an expression denoting The &lt;i&gt;seeking,&lt;/i&gt; or &lt;i&gt;seeking leisurely and repeatedly, to obtain knowledge&lt;/i&gt; of a thing, &lt;i&gt;until one knows&lt;/i&gt; it; &lt;i&gt;considering&lt;/i&gt; it &lt;i&gt;with the endeavour to obtain a clear knowledge&lt;/i&gt; of it; &lt;i&gt;taking, in doing so, the course prescribed by prudence, precaution, or good judgment.&lt;/i&gt; (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2171&quot; key=&quot;بُرُاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُرُاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A hunter&#39;s lurking-place&lt;/i&gt; or &lt;i&gt;covert:&lt;/i&gt; (T, S, M, K:) pl. بُرَاٌ. (T, S, M.) El-Aashà says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        بِهَا بُرَاٌ مِثْلُ الفَسِيلِ المُكَمَّمِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;At it&lt;/i&gt; (a source of water mentioned in the context) &lt;i&gt;were hunters&#39; lurking-places, like young palmtrees covered over:&lt;/i&gt; for tender young palm-trees are often covered over with a kind of coarse matting]. (T, S, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2172&quot; key=&quot;بَرَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَرَا=ءٌ<br>\
+                     برا=ء<br>\
+                  &lt;/form&gt;: see بَرِىْءٌ, in six places. ―         -b2-  البَرَا=ءٌ <br>\
+                  &lt;i&gt;The first night of the&lt;/i&gt; [&lt;i&gt;lunar&lt;/i&gt;] &lt;i&gt;month;&lt;/i&gt; (El-Mázinee, T, S, K;) called thus, (S,) or لَيْلَةُ البَرَا=ءِ, (M,) because the moon has then become clear of the sun: (S, M:) or &lt;i&gt;the first day of the month:&lt;/i&gt; (AA, T, K:) or &lt;i&gt;the last night thereof:&lt;/i&gt; (As, T, K:) or &lt;i&gt;the last day thereof;&lt;/i&gt; (IAar, T, K;) &lt;i&gt;a fortunate day; every event happening therein being regarded as a means of obtaining a blessing;&lt;/i&gt; (IAar, T;) but most hold that the last day of the month is termed النَّحِيرَةٌ; (TA;) as also اِبْنُ البَرَا=ءِ: (K:) or this is &lt;i&gt;the first day of the month:&lt;/i&gt; (IAar, T, TA:) pl. اَبْرِيَةٌ. (Th, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2173&quot; key=&quot;بُرَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُرَا=ءُ<br>\
+                     برا=ء<br>\
+                  &lt;/form&gt;: see بَرِىْءٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2174&quot; key=&quot;بَرِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَرِىْءٌ<br>\
+                     برا<br>\
+                     برىء<br>\
+                     بريء<br>\
+                     بري<br>\
+                  &lt;i&gt;Free,&lt;/i&gt; (Msb,) مِنْهُ <br>\
+                  &lt;i&gt;from it;&lt;/i&gt; namely a fault, defect, imperfection, blemish, or vice; (Mgh, Msb;) and, also followed by مِنْهُ, &lt;i&gt;clear,&lt;/i&gt; or &lt;i&gt;quit, of it; irresponsible for it;&lt;/i&gt; or &lt;i&gt;in a state of immunity with respect to it;&lt;/i&gt; i. e. &lt;i&gt;exempt from the demand thereof;&lt;/i&gt; namely a debt, (Msb,) or a claim, or due, or right; (Mgh;) as also ↓ <br>\
+      بَارِىٌ and ↓ <br>\
+      بَرَا=ءٌ. (Msb.) You say, اَنَا بَرِىْءٌ مِنْهُ [&lt;i&gt;I am free from it,&lt;/i&gt; &amp;amp;c.]; (T, * S, M, K; *) and ↓ <br>\
+      بَرَا=ءٌ, used alike as sing. and dual and pl. (Fr, T, S, M, K) and masc. and fem., (Fr, T, M, K,) because it is originally an inf. n.; (Fr, T, S;) and ↓ <br>\
+      بُرَا=ءٌ: (S, M:) the pl. of بَرِىْءٌ is بَرِيوُونَ (T, S, K) and بُرَاءُ (T, S, M, K) and بُرَا=ءٌ, (T, M, K,) of the measure فُعَالٌ, (T,) like رُخَالٌ, (M, K,) of an extr. measure, disapproved by Suh, who says, in the R, that it is a contraction of بُرَاءُ, and has tenween because it resembles [words originally of the measure] فُعَالٌ, and that the rel. n. formed from it is ↓ <br>\
+      بُرَاوِىٌّ, (TA,) but it is mentioned by AAF as a pl. of بَرِىْءٌ, and as being like رُخَالٌ, and Fr mentions بُرَا=ءُ as a pl. of the same, imperfectly decl., with one of the two hemzehs suppressed, (M,) and بِرَا=ءٌ (S, M, K) and اَبْرَا=ءٌ (S, K) and اَبْرِيَا=ءُ, (T, S, K,) the last two anomalous: (TA:) the fem. of بَرِيْءٌ is بَرِيْيَةٌ; pl. بَرِيْا=تٌ (T, S, M, K) and بَرِيَّاتٌ (Lh, M, K) and بَرَايَا. (T, S, M, K.) You say, اَنَا بَرِىْءٌ مِنْهُ and خَلِىٌّ مِنْهُ [&lt;i&gt;I am free from it;&lt;/i&gt; or, more commonly, &lt;i&gt;I am clear,&lt;/i&gt; or &lt;i&gt;quit, of it,&lt;/i&gt; or &lt;i&gt;him&lt;/i&gt;]; and مِنْهُ ↓ <br>\
+      انَا بَرَا=ءٌ and خَلَا=ءٌ مِنْهُ; (S;) and مِنْهُ ↓ <br>\
+      اَنَا البَرَا=ءُ: (M:) and ↓ <br>\
+      نَحْنُ مِنْكَ البَرَا=ءُ and الخَلَا=ءُ [&lt;i&gt;We are clear,&lt;/i&gt; or &lt;i&gt;quit, of you&lt;/i&gt;]; (Fr, T;) i. e., ذَوُو البَرَا=ءِ: so says Aboo-Is-hák; and As says the like of what Fr says. (T.) It is said in the Kur [xliii. 25], مِمَّا تَعْبُدُونَ ↓ <br>\
+      اـِنَّنِى بَرَا=ءٌ [&lt;i&gt;Verily I am clear of that which ye worship&lt;/i&gt;]; (T, M;) or بَرِىْءٌ, or ↓ <br>\
+      بُرَا=ءٌ; accord. to different readers. (Bd.) بَرِىْءٌ occurs in several places in the Kur. (M.) Accord. to IAar, it signifies &lt;i&gt;Clear of evil qualities&lt;/i&gt; or &lt;i&gt;dispositions; shunning what is vain and false; remote from actions that occasion suspicion; pure in heart from associating any with God:&lt;/i&gt; and it signifies &lt;i&gt;sound in body and intellect.&lt;/i&gt; (T.) See also بَارِيٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2175&quot; key=&quot;بَرَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَرَا=ءَةٌ<br>\
+                     برا=ءه<br>\
+                     برا=ءة<br>\
+                  &lt;i&gt;A writing of&lt;/i&gt; [i. e. &lt;i&gt;conferring] immunity&lt;/i&gt; or &lt;i&gt;exemption:&lt;/i&gt; from بَرِيَ مِنَ الدَّيْنِ and العَيْب, of which it is the inf. n.: pl. بَرَاا=تٌ, with medd: بَرَاوَاتٌ is [pl. of بَرَاةٌ, and both of these are] vulgar. (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2176&quot; key=&quot;بُرَاوِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بُرَاوِىٌّ<br>\
+                     براوى<br>\
+                     براوي<br>\
+                     براويي<br>\
+                     راوي<br>\
+                  &lt;/form&gt;: see بَرِىْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2177&quot; key=&quot;البَرِيَّةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     البَرِيَّةُ<br>\
+                     البريه<br>\
+                     البرية<br>\
+                     بري<br>\
+                     برية<br>\
+                  &lt;i&gt;The creation;&lt;/i&gt; as meaning &lt;i&gt;the beings,&lt;/i&gt; or &lt;i&gt;things, that are created;&lt;/i&gt; or, particularly, &lt;i&gt;mankind;&lt;/i&gt; syn. الخَلْقُ: (T, S, M:) pronounced without ء; (T, S;) originally with ء, like نَبِىٌّ and ذُرِّيَةٌ; (M;) and the people of Mekkeh differ from the other Arabs in pronouncing these three words with ء: (Yoo, T, M:) Lh says that the Arabs agree in omitting the ء in these three instances; and he does not except the people of Mekkeh: (M:) it is of the measure فَعِيلَةٌ in the sense of مَفْعُولَةٌ, (Msb,) from بَرَاَ اْللّٰهُ الخَلْقَ, meaning خَلَقَهُمْ: (Fr, T:) or, if derived from البَرَى [“earth” or “dust”], it is originally without ء: (Fr, T, S:) pl. بَرَايَا and بَرِيَّاتٌ. (S in art. برو and برى.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n2178&quot; key=&quot;بَارِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَارِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) or بَارِيٌ مِنْ مَرَضِهِ, (Lh, S, M,) [&lt;i&gt;Recovering from his disease, sickness,&lt;/i&gt; or &lt;i&gt;malady:&lt;/i&gt; or] &lt;i&gt;convalescent;&lt;/i&gt; or &lt;i&gt;becoming sound,&lt;/i&gt; or &lt;i&gt;healthy, at the close of his disease, but being yet weak;&lt;/i&gt; or &lt;i&gt;recovering, but not completely, his health and strength:&lt;/i&gt; [see 1:] (M, K:) as also ↓ <br>\
+      بَرِيْءٌ: (Lh, M, K:) but whether the latter be properly used in this sense is disputed; while the former is said to be the act. part. n. of 1 in all its senses: (TA:) pl. بِرَا=ءٌ, (M, K,) like as صِحَاحٌ is pl. of صَحِيحٌ, accord. to Lh, so that he holds it to be pl. of بَرِىْءٌ; or it may be pl. of بَارِيٌ, like as جِيَاعٌ is pl. of جَايِعٌ, and صِحَابٌ of صَاحِبٌ. (M.) ↓ <br>\
+      بَرِىْءٌ is sometimes written and pronounced بَرِىٌّ [in all its senses]. (Kz.) ―         -b2-  See also بَرِيْءٌ.       -A2-  البَارِيُ, applied to God, &lt;i&gt;The Creator;&lt;/i&gt; (T, S, Msb;) &lt;i&gt;He who hath created the things that are created, not after any similitude,&lt;/i&gt; or &lt;i&gt;model;&lt;/i&gt; (Nh;) or &lt;i&gt;He who hath created those things free from any incongruity,&lt;/i&gt; or &lt;i&gt;faultiness,&lt;/i&gt; (Mgh, and Bd in ii. 51,) &lt;i&gt;and distinguished, one from another, by various forms and outward appearances:&lt;/i&gt; (Bd:) or &lt;i&gt;the Former,&lt;/i&gt; or &lt;i&gt;Fashioner;&lt;/i&gt; syn. المُصَوِّرُ [q. v.]. (M.)   &lt;/entryFree&gt; <br>\
+' } );

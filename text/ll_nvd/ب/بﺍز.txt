@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'بأزبَأْزٌ i. q. بَازٍ [which see in art. بزو; and بَازٌ]: pl.<br>\
+[of pauc.] أَبْؤُزٌ, and [of mult.] بُؤُوزٌ and بِئْزَانٌ.<br>\
+(K.) IJ holds that the أ is substituted for ا, and<br>\
+that it remains in ابؤز and بئزان like as is the<br>\
+case in أَعْيَادٌ [in which the ى is substituted for و<br>\
+and remains in the pl. because it is substituted for<br>\
+و in the sing. عِيدٌ]. (TA.)<br>\
+' } );

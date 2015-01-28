@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'قنقُنَّةٌ<br>\
+An isolated mountain. (K, voce جَبَلٌ.)<br>\
+See a verse cited in art. عز.<br>\
+قِنَّةٌ<br>\
+Galbanum: so in the present day: see<br>\
+سَكْبِينَجٌ.<br>\
+رَجُلٌ أُنَنَةٌ قُنَنَةٌ<br>\
+: see art. ان. The last word<br>\
+may perhaps be a mistranscription for فُنَنَةٌ (from<br>\
+فَنُّ): but this I have not found in art. فن.<br>\
+قِنِّيَّةٌ<br>\
+The state, or condition, of slavery.<br>\
+' } );

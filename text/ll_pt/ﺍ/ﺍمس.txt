@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;امس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  امس<br>\
+&lt;entryFree id=&quot;n1244&quot; key=&quot;اـَمْس&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـَمْس<br>\
+                     امس<br>\
+                     امسى<br>\
+                     امس<br>\
+                     ماس<br>\
+                     مس<br>\
+                     مسى<br>\
+                     ومس<br>\
+                  &lt;/form&gt;, meaning &lt;i&gt;Yesterday,&lt;/i&gt; or &lt;i&gt;the day before the present day&lt;/i&gt; (Msb, K) &lt;i&gt;by one night,&lt;/i&gt; (K,) and tropically applied to (tropical:)  &lt;i&gt;what is before that,&lt;/i&gt; (Msb,) or &lt;i&gt;a short time before,&lt;/i&gt; (Bd in x. 25,) [used as a subst. and as an adv.,] is indecl., with any of the three vowels for its termination: (K:) [written اَمْسِ and امْسَ and امْسُ:] or it is an adv. n., indecl., with kesr for its termination, unless made indeterminate, or made determinate [be the article ال]; and sometimes indecl. with fet-h: (EzZejjájee, M, TA:) or, accord. to I Hsh, the termination with fet-h is a rejected form; and that with damm is not mentioned by any of the grammarians: (TA:) but مُذْ اَمْسَ [&lt;i&gt;Since yesterday&lt;/i&gt;] occurs, used by poetic licence: (Sb, S:) اَمْس is a noun of which the last letter is made movent to avoid the concurrence of two quiescent letters: and the Arabs differ respecting it: (S:) most of them make it indecl., with kesr for its termination, when it is determinate [without the article ال]: but some of them make it [imperfectly] decl. when it is determinate [in the same manner]: (S, K: *) [accord. to the most approved usage,] you say, [رَاَيْتُهُ اَمْسِ, and بِالاَمْسِ, which is more common, and الاَمْسَ, &lt;i&gt;I saw him yesterday;&lt;/i&gt; and] مَا رَاَيْتُهُ مُذْاَمْسِ [&lt;i&gt;I have not seen him since yesterday&lt;/i&gt;]; and if you have not seen him [since the day next] before that, you say, مَا رَاَيْتُهُ مُذْ اَوَّلُ <br>\
+                  مِنْ اَمْسِ [&lt;i&gt;I have not seen him since the day before yesterday&lt;/i&gt;]; and if you have not seen him [since] two days before that, you say, مَا رَاَيْتُهُ مُذْ <br>\
+                  اَوَّلُ مِنْ اَوَّلَ مِنْ اَمْسِ [&lt;i&gt;I have not seen him since the day before the day before yesterday&lt;/i&gt;]. (ISk, TA.) The phrase رَاَيْتُهُ اَمْسٍ [&lt;i&gt;I saw him yesterday&lt;/i&gt;] has also been heard, but it is extr. (K.) The people of El-Hijáz make اَمْس indecl., with kesr for its termination; and the Benoo-Temeem do the same when it is in the accus. or gen. case; but these latter make it [imperfectly] decl. when it is in the nom. case, saying, ذَهَبَ اَمْسُ بِمَا فِيهِ [&lt;i&gt;Yesterday has gone with what&lt;/i&gt; happened &lt;i&gt;during it&lt;/i&gt;]; whereas the people of El-Hijáz say, ذَهَبَ <br>\
+                  اَمْسِ بِمَا فِيهِ, because it is [held by them to be] indecl. on account of its implying that it has the determinative article ال [understood as prefixed to it], the kesreh being added to avoid the concurrence of two quiescent letters; while the Benoo-Temeem hold it to be, in the nom. case, a deviation from الاـَمْسُ, and therefore imperfectly decl., because of its being determinate, [and so resembling a proper name,] and its deviation from the original form, like سَحَرُ in the like case: (IB, TA:) all of the Arabs, however, make it decl. when the article ال is prefixed to it, (S, K, *) and when it is made indeterminate, or is prefixed to another noun: (S:) they say, using it indeterminately, كُلُّ غَدٍ صَايِرٌ اَمْسٍا [&lt;i&gt;Every morrow becomes a yesterday&lt;/i&gt;]; (S, * IB;) and making it determinate by the article ال, they say, كَانَ <br>\
+                  الاَمْسُ طَيِّبًا [&lt;i&gt;The yesterday was good&lt;/i&gt;], (IB,) and مَضَي الاَمْسُ المُبَارَكُ [&lt;i&gt;The blessed yesterday has past&lt;/i&gt;]; (S;) and prefixing it to another noun, كُلُّ اَمْسِنَا كَانَ طَيِّبًا [&lt;i&gt;All of our yesterday was good&lt;/i&gt;], (IB,) and مَضَى اَمْسُنَا [&lt;i&gt;Our yesterday has past&lt;/i&gt;]: (S:) [therefore,] in the following verse, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَاـِنِّى وَقَفْتُ اليَوْمَ وَالاَمْسِ قَبْلَهُ<br>\
+                     &lt;L&gt;<br>\
+                        بِبَابِكَ حَتَّى كَادَتِ الشَّمْسُ تَغْرُبُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And verily I stood to-day, and yesterday before it, at thy door until the sun was almost setting&lt;/i&gt;], (thus related by IAar in two different ways, الاَمْسِ and الاَمْسَ,) if we read الاَمْسِ, the ال is redundant, because it is implied in the word اَمْسِ; but if we read الاَمْسَ, the ال is not implied in اَمْسَ, and therefore is prefixed to make it determinate. (IJ, M.) The pl. is ا=مُسٌ and ا=مَاسٌ, (Zj, K,) both pls. of pauc., (Zj, TA,) and امُوسٌ, (Zj, K, TA, [in the CK, incorrectly, امُوْسٌ,]) which is a pl. of mult. (Zj, TA.) There is no dim. form of اَمْس; like as there is none of غَدٌ and البَارِحَةُ and كَيْفَ and اَيْنَ and مَتَى and اَىُّ and مَا and عِندَ and the names of the months and those of the days of the week, except الجُمْعَةُ. (Sb, S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1245&quot; key=&quot;اـِمْسِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمْسِىٌّ<br>\
+                     امس<br>\
+                     امسى<br>\
+                     امسي<br>\
+                     امسيي<br>\
+                     امسى<br>\
+                     امسي<br>\
+                     مسى<br>\
+                  &lt;/form&gt;, contr. to analogy, (M, TA,) and اَمْسِىٌّ [which is agreeable with analogy] is allowable, as related by Sgh on the authority of Fr, but the former is the more chaste, (TA,) &lt;i&gt;Of,&lt;/i&gt; or &lt;i&gt;relating to,&lt;/i&gt; or &lt;i&gt;belonging to, yesterday.&lt;/i&gt; (M, TA.)   &lt;/entryFree&gt; <br>\
+' } );

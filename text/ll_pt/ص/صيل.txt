@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>صيل</em>            1                  صيل<br>\
+<b>صَالَ</b>               1     <br>\
+                     صَالَ<br>\
+                     ذ<br>\
+                  , aor. يَصِيلُ, <i>i. q.</i> <br>\
+                  صال having for its aor. يَصُولُ, (Ibn-&#39;Abbád, O, K,) i. e. <i>He</i> (a man) <i>leaped</i> or <i>sprang</i> [&amp;amp;c.]. (Ibn-&#39;Abbád, O.)       -A2-  صِيلَ لَهُمْ كَذَا, (S and K in art. صول,) or لَهُ, (Ibn- &#39;Abbád and O and K in the present art.,) <i>Such a thing was appointed,</i> or <i>ordained,</i> or <i>prepared, for them,</i> or <i>for him.</i> (Ibn-&#39;Abbád, S, O, K.) This is its proper place. (TA.)    </entryFree> <br>\
+<b>صِيلَةٌ</b>               1     <br>\
+                     صِيلَةٌ<br>\
+                     ذ<br>\
+                   The <i>knot of the</i> <br>\
+                  عَذَبَة [i. e. of the <i>end,</i> or of the <i>suspensory thong, of a whip</i>]. (S and K in art. صول, and O in the present art.)    </entryFree> <br>\
+<b>صِيَالٌ</b>               1     <br>\
+                     صِيَالٌ<br>\
+                     ذ<br>\
+                   and صِيَالَةٌ: see art. صول.   </entryFree> <br>\
+            <div2 n=&quot;Quasi Sym&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi صيم<br>\
+<b>صُيَّمٌ</b>               1     <br>\
+                     صُيَّمٌ<br>\
+                     ذ<br>\
+                   and صِيَّمٌ and صُيَّامٌ and صَيَامَى pls. of صَايِمٌ, expl. in art. صوم.   </entryFree> <br>\
+' } );

@@ -1,0 +1,87 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اثل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اثل<br>\
+&lt;entryFree id=&quot;n224&quot; key=&quot;اَثَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَثَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثِلَ<br>\
+                  &lt;/form&gt;, inf. n. اُثُولٌ, &lt;i&gt;It&lt;/i&gt; (anything, M) &lt;i&gt;had,&lt;/i&gt; or &lt;i&gt;came to have, root,&lt;/i&gt; or &lt;i&gt;a foundation;&lt;/i&gt; or &lt;i&gt;it was,&lt;/i&gt; or &lt;i&gt;became, firm,&lt;/i&gt; or &lt;i&gt;established,&lt;/i&gt; and &lt;i&gt;firmly rooted&lt;/i&gt; or &lt;i&gt;founded;&lt;/i&gt; as also ↓ <br>\
+      تاثّل. (M, K.) ―         -b2-  Also, inf. n. as above, &lt;i&gt;It&lt;/i&gt; (dominion) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, great;&lt;/i&gt; (TA;) and so ↓ the latter verb. (M, K. *) ―         -b3-  And اَثُلَ, inf. n. اَثَالَةٌ, said of high rank, or nobility, &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, old, of ancient origin,&lt;/i&gt; or &lt;i&gt;of long standing.&lt;/i&gt; (TA.)       -A2-  See also 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n225&quot; key=&quot;اثّلهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اثّلهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. تَاْثِيلٌ, (S, K,) &lt;i&gt;He made&lt;/i&gt; <br>\
+                  &lt;i&gt;it&lt;/i&gt; (his wealth, or property, M, K, and so applied it is tropical, TA) &lt;i&gt;to have root,&lt;/i&gt; or &lt;i&gt;a foundation;&lt;/i&gt; or &lt;i&gt;to become firm,&lt;/i&gt; or &lt;i&gt;established,&lt;/i&gt; and &lt;i&gt;firmly rooted&lt;/i&gt; or &lt;i&gt;founded;&lt;/i&gt; syn. اَصَّلَهُ (S, * M, K.) ―         -b2-  &lt;i&gt;He&lt;/i&gt; (God, T, M,* TA) &lt;i&gt;made it&lt;/i&gt; (a man&#39;s dominion, T, M, K) &lt;i&gt;to be,&lt;/i&gt; or &lt;i&gt;become, firm, firmly established, stable,&lt;/i&gt; or &lt;i&gt;permanent:&lt;/i&gt; (T:) or &lt;i&gt;great:&lt;/i&gt; (M, K:) and &lt;i&gt;he&lt;/i&gt; (a man) &lt;i&gt;made it&lt;/i&gt; (a thing) &lt;i&gt;lasting,&lt;/i&gt; or &lt;i&gt;permanent.&lt;/i&gt; (TA.) IAar the following verse, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        تُوَثِّلُ كَعْبٌ عَلَىَّ القَضَا<br>\
+                     &lt;L&gt;<br>\
+                        فَرَبِّى يُغَيِّرُ اَعْمَالَهَا<br>\
+                  &lt;/quote&gt; [app. meaning &lt;i&gt;Kaab would oblige me to make payment,&lt;/i&gt; or &lt;i&gt;the like,&lt;/i&gt; (as though establishing against me the duty of doing so,) &lt;i&gt;but my Lord changes their actions,]&lt;/i&gt; explaining it by saying, i. e. تُلْزِمُنِى; but (ISd says,) I know not how this is. (M.) ―         -b3-  &lt;i&gt;He&lt;/i&gt; (God, M) &lt;i&gt;made it&lt;/i&gt; (a man&#39;s wealth, or property,) &lt;i&gt;to increase;&lt;/i&gt; or &lt;i&gt;put it into a good,&lt;/i&gt; or &lt;i&gt;right, state,&lt;/i&gt; or &lt;i&gt;condition;&lt;/i&gt; syn. زَكَّاةَ. (M, K.) ―         -b4-  اَتَّلْتُهُ بِرِجِالٍ <br>\
+                  &lt;i&gt;I multiplied him&lt;/i&gt; [meaning his party] &lt;i&gt;by men.&lt;/i&gt; (TA.) ―         -b5-  اَثَّلْتُ عَلَيْهِ الدُّيُونَ <br>\
+                  &lt;i&gt;I collected against him the debts.&lt;/i&gt; (TA.) ―         -b6-  اثّل اَهْلَهُ <br>\
+                  &lt;i&gt;He clad his family with the most excel-lent of clothing:&lt;/i&gt; (M:) or &lt;i&gt;he clad them&lt;/i&gt; (M, K) &lt;i&gt;with the most excellent of clothing,&lt;/i&gt; (K,) &lt;i&gt;and did good to them,&lt;/i&gt; or &lt;i&gt;acted well towards them.&lt;/i&gt; (M, K.)       -A2-  اثّل, [used intransitively,] (M, K,) inf. n. as above, (TA,) &lt;i&gt;He&lt;/i&gt; (a man, K) &lt;i&gt;became abundant in his wealth,&lt;/i&gt; or &lt;i&gt;property.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n226&quot; key=&quot;تاثّل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاثّل<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, in two places. ―         -b2-  Also &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;became collected together.&lt;/i&gt; (K.) ―         -b3-  &lt;i&gt;He took for himself, got,&lt;/i&gt; or &lt;i&gt;acquired, what is termed&lt;/i&gt; <br>\
+                  اَثْلَة, i. e. مِيرة [meaning &lt;i&gt;victuals,&lt;/i&gt; or &lt;i&gt;provision&lt;/i&gt;]; (M, K;) بَعْدَ حَاجَةٍ [&lt;i&gt;after want&lt;/i&gt;]. (M.) ―         -b4-  &lt;i&gt;He took for himself, got,&lt;/i&gt; or &lt;i&gt;acquired, a source, stock,&lt;/i&gt; or &lt;i&gt;fund,&lt;/i&gt; (اَصْلٍ,) &lt;i&gt;of wealth,&lt;/i&gt; or &lt;i&gt;property.&lt;/i&gt; (S, TA.) ―         -b5-  And تاثّل مَالًا <br>\
+                  &lt;i&gt;He collected,&lt;/i&gt; or &lt;i&gt;gained,&lt;/i&gt; or &lt;i&gt;acquired, wealth,&lt;/i&gt; or &lt;i&gt;property,&lt;/i&gt; (M, K,) &lt;i&gt;and took it for himself:&lt;/i&gt; (M:) [said in the TA to be tropical:] or &lt;i&gt;he collected wealth,&lt;/i&gt; or &lt;i&gt;property, and took it for himself,&lt;/i&gt; or &lt;i&gt;got it,&lt;/i&gt; or &lt;i&gt;acquired it, as a source, stock,&lt;/i&gt; or &lt;i&gt;fund:&lt;/i&gt; (Mgh:) and مَالاً ↓ <br>\
+      اَثَلَ, inf. n. اُثُولٌ, signifies the same as تاثّلهُ. (TA.) ―         -b6-  هُمة يَتَاَثَّلُونَ النَّاسَ <br>\
+                  &lt;i&gt;They take&lt;/i&gt; <br>\
+                  اُثَال, i. e. &lt;i&gt;wealth,&lt;/i&gt; or &lt;i&gt;property, from men.&lt;/i&gt; (TA.) ―         -b7-  تاثّل بِيْراً <br>\
+                  &lt;i&gt;He dug a well&lt;/i&gt; (T, S, M, K) &lt;i&gt;for himself.&lt;/i&gt; (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n227&quot; key=&quot;اَثْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثْلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A kind of trees;&lt;/i&gt; (S, K;) &lt;i&gt;a species of the&lt;/i&gt; <br>\
+                  طَرْفَا=ء [or &lt;i&gt;tamarisk;&lt;/i&gt; so applied in the present day; termed by Forskål (Flora Aeg. Arab. p. lxiv.) &lt;i&gt;tamarix orientalis&lt;/i&gt;]; (S, TA;) or &lt;i&gt;a kind of trees,&lt;/i&gt; (T, M,) or &lt;i&gt;a certain tree,&lt;/i&gt; (Mgh,) &lt;i&gt;resembling the&lt;/i&gt; <br>\
+                  طرفا=ء, (T, M, Mgh,) &lt;i&gt;except that it is of a better kind,&lt;/i&gt; (T,) or &lt;i&gt;except that it is larger, and better in its wood,&lt;/i&gt; (M,) &lt;i&gt;of which are made yellow and excellent&lt;/i&gt; [&lt;i&gt;vessels of the kind called&lt;/i&gt;] اَقْدَاح, &lt;i&gt;and of which was made the Prophet&#39;s pulpit; it has thick stems, of which are made doors and other things; and its leaves are of the kind called&lt;/i&gt; <br>\
+                  عَبَل, &lt;i&gt;like those of the&lt;/i&gt; <br>\
+                  طرفا=ء: (TA:) AHn says, on the authority of Aboo-Ziyád, that &lt;i&gt;it is of the kind termed&lt;/i&gt; <br>\
+                  عِضَاه, &lt;i&gt;tail, and long in its wood, which is excellent, and is carried to the towns and villages, and the clay houses of these are built upon it;&lt;/i&gt; [app. meaning that its wood is used in forming the foundations of the walls;] &lt;i&gt;its leaves are of the kind called&lt;/i&gt; <br>\
+                  هَدَب, [syn. with عَبَل,] &lt;i&gt;long and slender, and it has no thorns; of it are made [bowls of the kinds called&lt;/i&gt;] قِصَاع <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  جِفَان; &lt;i&gt;and it has a red fruit, like a knot of a rope:&lt;/i&gt; (M:) or &lt;i&gt;a kind of large trees, having no fruit:&lt;/i&gt; (Msb:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  طرفا=ء, &lt;i&gt;having no fruit:&lt;/i&gt; (Bd in xxxiv. 15:) n. un. with ة; (S, M, Msb, K;) explained in the A as the سَمُرَة [or &lt;i&gt;gum-acacia tree&lt;/i&gt;]: or &lt;i&gt;a tall, straight&lt;/i&gt; [&lt;i&gt;tree such as is termed&lt;/i&gt;] عِضَاهَة, &lt;i&gt;of which are made the like of&lt;/i&gt; <br>\
+                  اَقْدَاح: (TA:) the pl. [of اَثْلٌ] is اُثُولٌ (M, K) and [of اَثْلَةٌ] اَثَلَاثٌ. (S, K, TA (in the CK اَثْلاتٌ].) ―         -b2-  [See also اَثْلَةٌ, below.]       -A2-  فُلَانٌ <br>\
+                  اَثْلُ مَالٍ <br>\
+                  &lt;i&gt;Such a one is a collector of wealth,&lt;/i&gt; or &lt;i&gt;property.&lt;/i&gt; (Ibn-&#39;Abbád.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n228&quot; key=&quot;اَثْلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثْلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; n. un. of اَثْلٌ, q. v. (S, M, &amp;amp;c.) Because of the tallness of the tree thus called, and its erectness, and beauty of proportion, the poets liken thereto a woman of perfect stature and erect form. (M.) ―         -b2-  Metaphorically, (Msb,) (tropical:)  &lt;i&gt;Honour,&lt;/i&gt; or &lt;i&gt;reputation;&lt;/i&gt; or &lt;i&gt;grounds of pretension to respect on account of the honourable deeds or qualities of one&#39;s ancestors,&lt;/i&gt; &amp;amp;c.; syn. عِرْضٌ; (Msb, TA;) or حَسَبٌ (S, O, K, TA.) So in the saying, فُلَانٌ يَنْحِتُ اَثْلَتَنَا, or يَنْحَتُ, (S accord. to different copies, and so in the O, but in the copies of the K, incorrectly, يَنْحَتُ فِى اَثْلَتِنَا, TA,) (tropical:)  &lt;i&gt;Such a one speaks evil of,&lt;/i&gt; (S, O,) or &lt;i&gt;impugns,&lt;/i&gt; or &lt;i&gt;speaks against,&lt;/i&gt; (K,) &lt;i&gt;our honour,&lt;/i&gt; or &lt;i&gt;reputation,&lt;/i&gt; &amp;amp;c. (S, O, K.) And نَحَتَ اَثْلَتَهُ (tropical:)  &lt;i&gt;He detracted from his reputation; spoke against him; impugned his character; censured him; blamed him.&lt;/i&gt; (A, Msb.) And فُلَانٌ تُنْحَتُ اَثَلَاتُهُ (tropical:) [&lt;i&gt;Such a one&#39;s grounds of pretension to respect,&lt;/i&gt; &amp;amp;c., &lt;i&gt;are impugned&lt;/i&gt;]. (TA.) And هُوَ لَا تُنْحَتُ اَثْلَتُهُ (tropical:) &lt;i&gt;He has not any vice,&lt;/i&gt; or &lt;i&gt;fault, nor any imperfection,&lt;/i&gt; or &lt;i&gt;defect.&lt;/i&gt; (Msb.) ―         -b3-  The &lt;i&gt;root, foundation, origin, source, stock,&lt;/i&gt; or &lt;i&gt;the like,&lt;/i&gt; syn. اصْلٌ; (T, S, M, Mgh, K;) of a thing, and of a man; (T;) of anything; (M;) [&lt;i&gt;a source, stock,&lt;/i&gt; or &lt;i&gt;fund,&lt;/i&gt;] of wealth, or property: (Mgh, TA:) pl. اـِثَالٌ. (K.) So in the saying, لَهُ اَثلَةُ مَالٍ [&lt;i&gt;He has a source,&lt;/i&gt; or &lt;i&gt;stock,&lt;/i&gt; or &lt;i&gt;fund, of wealth,&lt;/i&gt; or &lt;i&gt;property&lt;/i&gt;]. (TA.) ―         -b4-  &lt;i&gt;Victuals,&lt;/i&gt; or &lt;i&gt;provision;&lt;/i&gt; syn. مِيرَةٌ (M, K.) ―         -b5-  The &lt;i&gt;goods, furniture, and utensils, of a house&lt;/i&gt; or &lt;i&gt;tent;&lt;/i&gt; as also ↓ <br>\
+      اَثَلَةٌ. (M, K. *) ―         -b6-  &lt;i&gt;Apparatus, accoutrements, implements,&lt;/i&gt; or &lt;i&gt;the like.&lt;/i&gt; (Ibn-&#39; Abbád, K.) So in the saying, اَخَذْتُ اَثْلَةَ الشِّتَا=ءِ [&lt;i&gt;I took the apparatus,&lt;/i&gt; &amp;amp;c., &lt;i&gt;of,&lt;/i&gt; i. e. &lt;i&gt;for, the winter&lt;/i&gt;]. (Ibn- &#39; Abbád.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n229&quot; key=&quot;اَثَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَثْلَةٌ, near the end.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n230&quot; key=&quot;اَثَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَالٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M,) with fet-h, (S,) or اُثَالٌ, with damm, (Mgh,) or both, (K,) (tropical:)  &lt;i&gt;Glory, honour, dignity, nobility,&lt;/i&gt; or &lt;i&gt;high rank.&lt;/i&gt; (AA, T, S, M, Mgh, K.) You say, لَهُ اُثَالٌ كَاَنَّهُ اُثَالٌ (tropical:)  &lt;i&gt;He has glory,&lt;/i&gt; or &lt;i&gt;honour,&lt;/i&gt; &amp;amp;c., &lt;i&gt;as though it were&lt;/i&gt; the mountain called &lt;i&gt;Othál.&lt;/i&gt; (TA.) [But the next signification seems to be here more appropriate.] ―         -b2-  (tropical:)  &lt;i&gt;Wealth,&lt;/i&gt; or &lt;i&gt;property.&lt;/i&gt; (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n231&quot; key=&quot;اَثِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثِيلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place of growth of trees of the kind called&lt;/i&gt; <br>\
+                  اَرَاك [perhaps a mistranscription for اَثْل]: mentioned by Th, from IAar. (T.)       -A2-  &lt;i&gt;Abundant, and luxuriant,&lt;/i&gt; or &lt;i&gt;long,&lt;/i&gt; hair. (TA.) ―         -b2-  See also مَوَثَّلٌ in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n232&quot; key=&quot;ا=ثِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=ثِلٌ<br>\
+                     ا=ثل<br>\
+                  &lt;/form&gt;: see مُوَثَّلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n233&quot; key=&quot;مُوَثَّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَثَّلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Having root,&lt;/i&gt; or &lt;i&gt;a foundation;&lt;/i&gt; or &lt;i&gt;firm,&lt;/i&gt; or &lt;i&gt;established,&lt;/i&gt; and &lt;i&gt;firmly rooted&lt;/i&gt; or &lt;i&gt;founded:&lt;/i&gt; (S:) or &lt;i&gt;having a permanent source,&lt;/i&gt; or &lt;i&gt;firm foundation:&lt;/i&gt; (Munjid of Kr:) or &lt;i&gt;of old foundation&lt;/i&gt; or &lt;i&gt;origin:&lt;/i&gt; or &lt;i&gt;collected together so as to&lt;/i&gt; [&lt;i&gt;become stable&lt;/i&gt; or &lt;i&gt;permanent,&lt;/i&gt; or] &lt;i&gt;have root&lt;/i&gt; or &lt;i&gt;a foundation:&lt;/i&gt; (T:) or &lt;i&gt;old; of ancient origin;&lt;/i&gt; or &lt;i&gt;of long standing:&lt;/i&gt; (M, TA:) or &lt;i&gt;permanent:&lt;/i&gt; (IAar:) (tropical:)  applied to glory, honour, dignity, nobility, or high rank; (T, Kr, S, M, TA;) and so ↓ <br>\
+      اَثِيلٌ: (S, TA:) and to wealth, or property: (Kr, S:) and to anything; (T, M;) and so ↓ <br>\
+      اَثِيلٌ, and ↓ <br>\
+      مُتَاَثِّلٌ: (M:) and ↓ <br>\
+      ا=ثِلٌ, also, has the first of these significations, applied to dominion. (T.) ―         -b2-  &lt;i&gt;Prepared, disposed, arranged,&lt;/i&gt; or &lt;i&gt;put into a right&lt;/i&gt; or &lt;i&gt;good state.&lt;/i&gt; (AA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n234&quot; key=&quot;مُتَاَثِّلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَثِّلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُوَثَلٌ. ―         -b2-  Also &lt;i&gt;Taking for oneself, getting,&lt;/i&gt; or &lt;i&gt;acquiring, a source, stock,&lt;/i&gt; or &lt;i&gt;fund,&lt;/i&gt; (اَصْل,) &lt;i&gt;of wealth,&lt;/i&gt; or &lt;i&gt;property:&lt;/i&gt; (S, TA:) or &lt;i&gt;collecting&lt;/i&gt; wealth, or property, (T, Mgh,) &lt;i&gt;and taking&lt;/i&gt; it &lt;i&gt;for oneself,&lt;/i&gt; or &lt;i&gt;getting&lt;/i&gt; it, or &lt;i&gt;acquiring&lt;/i&gt; it, &lt;i&gt;as a source, stock,&lt;/i&gt; or &lt;i&gt;fund.&lt;/i&gt; (Mgh.) So in a trad. on the subject of a charge respecting the orphan, يَاْكُلُ مِنْ مَالِهِ غَيْرَ مُتَاَثِّلٍ مَالًا [&lt;i&gt;He may eat of his wealth,&lt;/i&gt; or &lt;i&gt;property, not taking for himself a source, stock,&lt;/i&gt; or &lt;i&gt;fund, of wealth,&lt;/i&gt; or &lt;i&gt;property:&lt;/i&gt; or, &lt;i&gt;not collecting&lt;/i&gt; &amp;amp;c.]: (T, S, Mgh:*) or, accord. to Bkh, &lt;i&gt;not acquiring abundance of wealth:&lt;/i&gt; but the former explanation is more correct lexically. (Mgh.)   &lt;/entryFree&gt; <br>\
+' } );

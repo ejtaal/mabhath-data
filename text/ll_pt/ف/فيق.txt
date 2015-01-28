@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>فيق</em>            1                  فيق<br>\
+<b>فَاقَ</b>               1     <br>\
+                     فَاقَ<br>\
+                     ذ<br>\
+                  , aor. يَفِيقُ: see فاق بِنَفْسِهِ, in art. فوق.    </entryFree> <br>\
+<b>اَفِيقَ</b>               1     <br>\
+                     اَفِيقَ<br>\
+                     ذ<br>\
+                  , said of a poet, <i>i. q.</i> <br>\
+                  اَفْلَقَ: (K:) or an imitative sequent thereto. (Aboo-Turáb, O.)    </entryFree> <br>\
+<b>فِيقٌ</b>               1     <br>\
+                     فِيقٌ<br>\
+                     ذ<br>\
+                  : see art. فوق.    </entryFree> <br>\
+<b>فُيُقٌ</b>               1     <br>\
+                     فُيُقٌ<br>\
+                     ذ<br>\
+                   and فِيَقٌ: see art. فوق.    </entryFree> <br>\
+<b>فَيْقَةٌ</b>               1     <br>\
+                     فَيْقَةٌ<br>\
+                     ذ<br>\
+                   and فِيقَةٌ: see art. فوق.    </entryFree> <br>\
+<b>فُيَاقٌ</b>               1     <br>\
+                     فُيَاقٌ<br>\
+                     ذ<br>\
+                  : see art. فوق.    </entryFree> <br>\
+<b>مُفِيقٌ</b>               1     <br>\
+                     مُفِيقٌ<br>\
+                     ذ<br>\
+                  : see art. فوق.   </entryFree> <br>\
+' } );

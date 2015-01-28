@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'سذبسُذْبَةٌ A bag, or other receptacle, for travellingprovisions or for goods or utensils &amp;c.; syn.<br>\
+وِعَآءٌ. (K.)<br>\
+سَذَابٌ, said to be an arabicized word, because<br>\
+[it is asserted that] س and ذ are not combined in<br>\
+any Arabic word; [and if so, سُذْبَةٌ also, men-<br>\
+tioned above, is arabicized;] but in some of the<br>\
+books on plants it is written with the unpointed<br>\
+د; (TA;) i. q. فَيْجَنٌ, (K,) which is an ancient<br>\
+Greek word, (TA,) [i. e.<br>\
+πήγανο, meaning Rue;]<br>\
+a well-known بَقْل [or kind of herb], (K,) having<br>\
+properties described in the medical books. (TA.)<br>\
+سَذَابِىٌّ A seller of سَذَاب [or rue]. (K, * TA.)<br>\
+' } );

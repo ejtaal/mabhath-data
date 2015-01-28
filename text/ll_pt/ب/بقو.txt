@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>بقو</em>            1                  بقو<br>\
+<b>بَقَاهُ بِعَيْنِهِ</b>               1     <br>\
+                     بَقَاهُ بِعَيْنِهِ<br>\
+                     بقاه بعينه<br>\
+                     بقاه بعينة<br>\
+                  , [aor.      <br>\
+                     بَقُوَ<br>\
+                  ,] inf. n. بَقَاوَةٌ [and بَقْوَةٌ, as will be seen from what follows, like رَحْمَةٌ], <i>He looked,</i> (Lh, JK, ISd, K,) or <i>looked long,</i> or <i>glanced lightly,</i> (JK,) <i>at him,</i> or <i>it;</i> (Lh, JK, ISd, K;) and so with ى for the last radical: (JK:) and بَقَاهُ [alone], with و and with ى for the last radical, (K in art. بقى,) first pers. بَقَوْتُهُ and بَقَيْتُهُ, (Lh, TA,) <i>he looked at him,</i> or <i>it:</i> (Lh, K:) or <i>he watched,</i> or <i>observed, him,</i> or <i>it:</i> (K in art. بقى:) and بقوته <br>\
+                  <i>I looked, watched,</i> or <i>waited, for him,</i> or <i>it:</i> (K:) a dial. var. of بَقَيْتُهُ, which is the more approved. (TA.) [Hence,] اُبْقُهُ <br>\
+                  بَقْوَتَكَ مَالَكَ and بَقَاوَتَكَ مَالَكَ <br>\
+                  <i>Guard thou,</i> or <i>preserve thou, him,</i> or <i>it, as thou guardest,</i> or <i>preservest, thy property.</i> (M, Tekmileh, K.)    </entryFree> <br>\
+<b>بَقْوَى</b>               1     <br>\
+                     بَقْوَى<br>\
+                     بقوى<br>\
+                     بقوي<br>\
+                     قوى<br>\
+                     قوة<br>\
+                     قوي<br>\
+                   and بُقْوَى: see art. بقى.   </entryFree> <br>\
+' } );

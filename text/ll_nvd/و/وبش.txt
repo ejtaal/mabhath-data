@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'وبشوَبْشٌ<br>\
+A whiteness on the nails: see زِنْجِير.<br>\
+' } );

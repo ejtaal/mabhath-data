@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'مهد4<br>\
+أَمْهَدَتْ بِوَلَدِهَا<br>\
+She (a woman) brought forth,<br>\
+or cast forth, her child with a single impulse.<br>\
+(IAar, in L, art. خفد.) ―<br>\
+-b2-  أَمْهَدَتْ بِالوَلَدِ is syn.<br>\
+with<br>\
+أَسْهَدَتْ بِهِ; (IAar, O, TA in art. سهد;)<br>\
+and زَكَبْت بِهِ, &amp;c. (IAar, L, in art. خفد.)<br>\
+' } );

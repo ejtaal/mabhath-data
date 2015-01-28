@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>غرث</em>            1                  غرث<br>\
+<b>غَرِثَ</b>               1     <br>\
+                     غَرِثَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     غَرَثَ<br>\
+                  , (S, A, O, K,) inf. n. غَرَثٌ, (S, O,) <i>He hungered:</i> (S, A, O, K:) or, as some say, <i>in the slightest degree:</i> and some say, <i>vehemently.</i> (TA.)       -A2-  And accord. to Aboo-&#39;Amr Esh-Sheybánee, one says, غَرِثُوا بِاـِبِلِ فُلَانٍ, meaning <i>They took the camels of such a one wrongfully:</i> and a man says to another, وَيْلَكَ غَرِثْتَ بِى وَتَرَكْتَ <br>\
+                  حَقَّكَ [app. meaning <i>Woe to thee: thou hast wronged me, and hast left,</i> or <i>neglected, thy right</i>]. (O.)    </entryFree> <br>\
+<b>غرّث</b>               1     <br>\
+                     غرّث<br>\
+                     ذ<br>\
+                  , (S, A, O,) inf. n. تَغْرِيثٌ, (S, A, O, K,) <i>He made hungry; made to hunger.</i> (S, A, O, K.) You say, غرّث كِلَابَهُ <br>\
+                  <i>He made his dogs hungry.</i> (S, O.)    </entryFree> <br>\
+<b>غَرْثَانُ</b>               1     <br>\
+                     غَرْثَانُ<br>\
+                     ذ<br>\
+                  <i>Hungry:</i> [or, accord. to some, <i>in the slightest degree:</i> and accord. to some, <i>vehemently:</i> (see the verb:)] you say قَوْمٌ غَرْثَى [using the fem., i. e. <i>a hungry people</i> or <i>party</i>], (S, A, * O, K,) and غَرَاثَى, (S, O, K,) and also with kesr to the ث [i. e. غَرَاثٍ] accord. to a copy of the S, (TA,) and غِرَاثٌ: (S, A, O, K:) the fem. is غَرْثَى; (S, A, O, K;) pl. غِرَاثٌ. (S, O, K.) And you say اِمْرَاَةٌ غَرْثَى الوِشَاحِ, meaning (tropical:)  <i>A woman slender in the waist:</i> (S, A, O, K:) because she does not fill her وشاح [q. v.] which is therefore as though it were hungry. (S, O.)   </entryFree> <br>\
+' } );

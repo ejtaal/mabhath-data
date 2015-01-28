@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>عنجف</em>            1                  عنجف<br>\
+<b>عَنْجَفٌ</b>               1     <br>\
+                     عَنْجَفٌ<br>\
+                     ذ<br>\
+                  , or عُنْجُفٌ, and عُنْجُوفٌ: see art. عجف.   </entryFree> <br>\
+' } );

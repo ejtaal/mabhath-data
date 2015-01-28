@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'مهن8<br>\
+اِمْتَهَنَهُ<br>\
+He used it for service and work:<br>\
+(K:) i. q.<br>\
+اِبْتَذَلَهُ, q. v.: (S, Msb:) He held it<br>\
+in mean estimation. (Har, p. 65.)<br>\
+مِهْنَةٌ CCC<br>\
+[is syn. with عَمَلٌ and فِعْلٌ, and means<br>\
+work, labour, or] service; ministration; performance of an office. (S, &amp;c.) ―<br>\
+-b2-  Also, The<br>\
+clothes worn in service, or in the performance of<br>\
+business. (Msb.)<br>\
+مَهِينٌ<br>\
+Contemptible; abject: (S, K) weak:<br>\
+having little judgment and discrimination. (K.)<br>\
+' } );

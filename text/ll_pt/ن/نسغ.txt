@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نسغ</em>            1                  نسغ<br>\
+<b>مِنْسَغَةٌ</b>               1     <br>\
+                     مِنْسَغَةٌ<br>\
+                     ذ<br>\
+                  <i>An instrument for pricking bread:</i> see مِرْقمٌ.   </entryFree> <br>\
+' } );

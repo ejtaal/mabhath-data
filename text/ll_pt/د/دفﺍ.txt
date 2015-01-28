@@ -1,0 +1,141 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;دفا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  دفا<br>\
+&lt;entryFree id=&quot;n12685&quot; key=&quot;دَفِيَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     دَفِيَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَفَاَ<br>\
+                  &lt;/form&gt;, (S, M, Msb, K,) inf. n. دَفَاٌ, (S, Msb, * TA,) like ظَمَاٌ inf. n. of ظَمِيَ, and دَفَا=ءَةٌ, like كَرَاهَةٌ inf. n. of كَرِهَ, (S,) said of a man, (S, Msb,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, warm,&lt;/i&gt; or &lt;i&gt;hot:&lt;/i&gt; (S, M,* K: *) [generally meaning the former: see دِفْءٌ, below:] or &lt;i&gt;he experienced&lt;/i&gt; [&lt;i&gt;warmth,&lt;/i&gt; or] &lt;i&gt;heat:&lt;/i&gt; (Har p. 295:) or &lt;i&gt;he wore what rendered him warm,&lt;/i&gt; or &lt;i&gt;hot:&lt;/i&gt; (Msb:) and دَفِيَ مِنَ <br>\
+                  البَرْدِ [&lt;i&gt;he wore warm clothing to protect himself from the cold&lt;/i&gt;]: (Mgh:) and ↓ <br>\
+      تدفّا (S, M, Mgh, K) بِالثَّوْبِ, (S, Mgh,) and ↓ <br>\
+      استدفا (S, M, Mgh, K) بالثوب, (S, Mgh,) and ↓ <br>\
+      اِدَّفَاَ (S, K) بالثوب, the last of these verbs [originally اِدْتَفَاَ,] of the measure اِفْتَعَلَ, (S,) [&lt;i&gt;He warmed himself with the garment,&lt;/i&gt;] are said of him who has clad himself with that which renders him warm, or hot: (S:) or the meaning [of استدفا بالثوب] is &lt;i&gt;he desired warmth,&lt;/i&gt; or &lt;i&gt;heat, by means of the garment:&lt;/i&gt; (Mgh:) and اِدَّفَيْتُ and اِسْتَدْفَيْتُ occur, for ادّفات and استدفات, as meaning &lt;i&gt;I wore what rendered me warm, or hot.&lt;/i&gt; (Lth, T, TA.*) You say also, دَفِيَ البَيْتُ [&lt;i&gt;The tent,&lt;/i&gt; or &lt;i&gt;house,&lt;/i&gt; or &lt;i&gt;chamber, was,&lt;/i&gt; or &lt;i&gt;became, warm,&lt;/i&gt; or &lt;i&gt;hot&lt;/i&gt;]. (Msb.) And دَفُوَ, (M, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     دَفُاَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. دَفَا=ءَةٌ, (TA,) &lt;i&gt;It&lt;/i&gt; (a tent, or house, or chamber, ISk, T, and a day, Msb, TA) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, warm,&lt;/i&gt; or &lt;i&gt;hot.&lt;/i&gt; (ISk, T, M, Msb, K, TA.) [And &lt;pb n=&quot;889&quot; TEIform=&quot;pb&quot;/&gt; in like manner, a garment; as is implied in the S.] And دَفُوَتْ لَيْلَتُنَا <br>\
+                  &lt;i&gt;Our night was,&lt;/i&gt; or &lt;i&gt;became, warm,&lt;/i&gt; or &lt;i&gt;hot.&lt;/i&gt; (S, O, TA.)       -A2-  دَفَاَ, for دَفَا: see 1 in art. دفو.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     دَاْفَاَ<br>\
+                  &lt;/form&gt; see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12686&quot; key=&quot;ادفاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ادفاهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a garment, S, Mgh, Msb, of wool or the like, Mgh) &lt;i&gt;rendered him warm,&lt;/i&gt; or &lt;i&gt;hot.&lt;/i&gt; (S, * Mgh, Msb. *) And &lt;i&gt;He clad him with a garment&lt;/i&gt; (M, K, TA) &lt;i&gt;of wool &amp;amp;c.&lt;/i&gt; (TA) &lt;i&gt;that rendered him warm,&lt;/i&gt; or &lt;i&gt;hot.&lt;/i&gt; (M, K, TA.) ―         -b2-  [Hence,] (tropical:)  &lt;i&gt;He gave him a large gift;&lt;/i&gt; (TA;) or &lt;i&gt;he gave him much.&lt;/i&gt; (K.) ―         -b3-  ادفا القَوْمُ <br>\
+                  &lt;i&gt;The people,&lt;/i&gt; or &lt;i&gt;company of men, collected themselves together&lt;/i&gt; [app. &lt;i&gt;so that they made one another warm,&lt;/i&gt; or &lt;i&gt;hot&lt;/i&gt;]. (K.) ―         -b4-  ادفات الاـِبِلُ عَلَىمِايَةٍ <br>\
+                  &lt;i&gt;The camels exceeded a hundred.&lt;/i&gt; (M.)       -A2-  ادفاهُ, in the dial. of El-Yemen, as also ↓ <br>\
+      دَافَاَهُ, &lt;i&gt;i. q.&lt;/i&gt; [اَدْفَاهُ and ] دَافَاهُ and دَفَاهُ, [see art. دفو,] &lt;i&gt;He despatched him,&lt;/i&gt; namely, a wounded man; i. e. &lt;i&gt;put him to death quickly.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَدَفَّاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِدْتَفَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَدْفَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12687&quot; key=&quot;دَفْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفْءٌ<br>\
+                     دفء<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12688&quot; key=&quot;دِفْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دِفْءٌ<br>\
+                     دفء<br>\
+                  &lt;i&gt;Warmth,&lt;/i&gt; or &lt;i&gt;heat;&lt;/i&gt; syn. سُخُونَةٌ (T, S, Mgh) and حَرَارَةٌ; (Mgh;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  بَرْدٌ; (Msb;) or &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  حِدَّةُ بَرْدٍ; (M, K;) as also ↓ <br>\
+      دَفْءٌ (IKtt TA) and ↓ <br>\
+      دَفَاٌ, (K,) inf. n. of دَفِيَ, (S, TA,) and ↓دَفَا=ءَةٌ, (K,) also inf. n. of دَفِيَ accord. to the S and Sgh, and of دَفُوَ accord. to Yz: (TA:) pl. اَدْفَا=ءٌ. (M, K.) ―         -b2-  &lt;i&gt;A thing&lt;/i&gt; [or &lt;i&gt;garment&lt;/i&gt; or &lt;i&gt;covering&lt;/i&gt;] &lt;i&gt;that renders one warm,&lt;/i&gt; or &lt;i&gt;hot,&lt;/i&gt; (Th, S, M, Mgh, K,) &lt;i&gt;of wool,&lt;/i&gt; (Th, M, Mgh, K,) or &lt;i&gt;the like,&lt;/i&gt; (Mgh,) or &lt;i&gt;of camels&#39; fur;&lt;/i&gt; (Th, M, K;) as also ↓دِفَا=ءٌ: (K, * TA:) pl. of the former as above. (S.) You say, مَا عَلَيْهِ دِفْءٌ [&lt;i&gt;There is not upon him any warm garment&lt;/i&gt; or &lt;i&gt;covering,&lt;/i&gt; or &lt;i&gt;anything to render him warm&lt;/i&gt;]: but you should not say, ما عليه دَفَا=ءَةٌ, (T, S,) because this is an inf. n. (S.) ―         -b3-  The &lt;i&gt;shelter&lt;/i&gt; (كِنّ) of a wall [by which one is protected from cold wind]. (T, S, K.) You say, اُقْعُدْ فِى دِفْءِ هٰذَا الحَايِطِ [&lt;i&gt;Sit thou in the shelter of this wall&lt;/i&gt;]. (T, S.) And ↓ <br>\
+      دَفْاَةٌ [also] signifies &lt;i&gt;A shelter, for warmth, from the wind.&lt;/i&gt; (M.) ―         -b4-  The &lt;i&gt;young ones,&lt;/i&gt; or &lt;i&gt;offspring,&lt;/i&gt; (نِتَاج, S, M, Mgh, K,) and &lt;i&gt;hair,&lt;/i&gt; or &lt;i&gt;fur,&lt;/i&gt; (M, K,) and &lt;i&gt;milk,&lt;/i&gt; (S, M, Mgh,) &lt;i&gt;of camels,&lt;/i&gt; and &lt;i&gt;whatever else, of a profitable,&lt;/i&gt; or &lt;i&gt;useful, nature, is obtained from them:&lt;/i&gt; (S, M, * Mgh, K: *) so called because clothing, with which to warm oneself, is made of camel&#39;s hair and wool: (TA:) it occurs in the Kur xvi. 5: (S, TA:) accord. to I “ Ab, there meaning the offspring of any beast (دَابَّة). (TA.) ―         -b5-  Also (assumed tropical:)  &lt;i&gt;A gift.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12689&quot; key=&quot;دَفَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see دِفْءٌ. ―         -b2-  Also &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  جَنَاٌ [The &lt;i&gt;having a bending forward of the upper part of the back over the breast:&lt;/i&gt; &amp;amp;c.: see جَنِيَ, of which جَنَاٌ is the inf. n.]. (M: in some copies of the K جَنَاء; in others, and in the TA حَنَاء. [See اَدْفَاُ, below: and see دَفًا and اَدْفَى in art. دفو.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12690&quot; key=&quot;دَفِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Warmly clad;&lt;/i&gt; (S, K;) applied to a man; (S, TA;) fem. with ة: (TA:) and so ↓ <br>\
+      دَفْا=نُ; fem. دَفْاَى; (T, S, M, Msb, K;) and pl., of the masc. and fem., دِفَا=ءٌ: (M, TA:) and so ↓ <br>\
+      دَفِىْءٌ, accord. to IAar, who cites, as an ex., the following verse: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        يَبِيتُ اَبُو لَيْلَى دَفِيْيًا وَضَيْفُهُ<br>\
+                     &lt;L&gt;<br>\
+                        مِنَ القُرِّ يُضْحِى مُسْتَحِقًّا خَصَايِلَهْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Aboo-Leylà passes the night warmly clad, while his guest, by reason of the cold, becomes deserving of his properties&lt;/i&gt;]: (M, TA:) though it has been asserted that ↓ <br>\
+      دَفْا=نُ and its fem. are applied peculiarly to human beings; and ↓ <br>\
+      دَفِىْءٌ, peculiarly to time and place; and دَفِيْءٌ, to a human being and to time and place: (TA:) [for] this last signifies [also] &lt;i&gt;warm,&lt;/i&gt; or &lt;i&gt;hot:&lt;/i&gt; (M:) [and so does each of the two other epithets:] you say بَيْتٌ دَفِيٌ(Msb) or ↓ <br>\
+      دَفِىْءٌ, of the measure فَعِيلٌ, (T, S, O, TA, [though this is said in the Msb to be not allowable,]) [&lt;i&gt;a warm,&lt;/i&gt; or &lt;i&gt;hot, tent&lt;/i&gt; or &lt;i&gt;house&lt;/i&gt; or &lt;i&gt;chamber,&lt;/i&gt;] and in like manner ↓ <br>\
+      ثَوْبٌ دَفِىْءٌ [&lt;i&gt;a warm garment&lt;/i&gt;], (S, M, O, TA,) and ↓ <br>\
+      يَوْمٌ دَفِىْءٌ (T, S, O, TA) and ↓ <br>\
+      دَفْا=نٌ (TA from Expositions of the Fs) [&lt;i&gt;a warm,&lt;/i&gt; or &lt;i&gt;hot, day&lt;/i&gt;], and ↓ <br>\
+      لَيْلَةٌ َدفِيْيَةٌ (T, S, O, TA) and ↓ <br>\
+      دَفْاَى (TA from the Expositions of the Fs) [&lt;i&gt;a warm,&lt;/i&gt; or &lt;i&gt;hot, night&lt;/i&gt;], and اَرْضٌ دَفِيَةٌ and ↓ <br>\
+      دَفِيْيَةٌ (K) and ↓ <br>\
+      مَدْفَاَةٌ (M, K) &lt;i&gt; a warm,&lt;/i&gt; or &lt;i&gt;hot, land;&lt;/i&gt; pl. of the last مَدَافِيُ. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12691&quot; key=&quot;دَفْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see دِفْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12692&quot; key=&quot;دَفْا=نُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفْا=نُ<br>\
+                     دفا=ن<br>\
+                  &lt;/form&gt;, and its fem. دَفْاَى: see دَفِيٌ, in four places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12693&quot; key=&quot;دَفَيِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفَيِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, K,) also termed دَثَيِىٌّ, (As, IAar, S, K,) but this latter is not of established authority, and is not mentioned in the M nor in the O., (TA in art. دثا,) The &lt;i&gt;rain that falls after the heat has acquired strength;&lt;/i&gt; (M, K in art. دثا, TA;) &lt;i&gt;when the earth has put&lt;/i&gt; (lit. &lt;i&gt;vomited&lt;/i&gt;) &lt;i&gt;forth the&lt;/i&gt; <br>\
+                  كَمْاَة [or &lt;i&gt;truffles,&lt;/i&gt; which, accord. to Kzw, are found in Nejd (Central Arabia) at the period of the auroral setting of the Tenth Mansion of the Moon, (which happened, about the commencement of the era of the Flight, in that part, on the 11th of February O. S.,) when the sharpness of winter is broken, and the trees put forth their leaves: see also 1 in art. نتج]: (Lth, IAar, Th, M:) or the &lt;i&gt;rain that is after&lt;/i&gt; [&lt;i&gt;that called&lt;/i&gt;] the رَبِيع[q.v.], before, (قَبْل, as in one copy of the S, in another قبل without any syll. signs,) or &lt;i&gt;in the first part of,&lt;/i&gt; (قُبُل, as in the TA,) [&lt;i&gt;that called&lt;/i&gt;] &lt;i&gt;the&lt;/i&gt; <br>\
+                  صَيْف[q. v., see also نَوْءٌ], &lt;i&gt;when the&lt;/i&gt; <br>\
+                  كَمْاَة <br>\
+                  &lt;i&gt;disappear entirely from the earth:&lt;/i&gt; (S, O, TA:) AZ says that &lt;i&gt;the beginning of the&lt;/i&gt; <br>\
+                  دَفَيِىّ is وُقُوعُ الجَبْهَةِ and the end is الصّرْفَةُ [i. e. &lt;i&gt;the period extends from the auroral setting of the Tenth Mansion of the Moon&lt;/i&gt; (&lt;i&gt;about the 11th of February O. S.&lt;/i&gt; as explained above, when the sun in Arabia has begun to have much power,) &lt;i&gt;to about the 9th of March O. S.:&lt;/i&gt; see مَنَازِلُ القَمَرِ, in art. نزل; and see also another statement voce نَوْءٌ]. (S, TA.) ―         -b2-  And the term ↓دَفَيِيَّةٌ [used as a subst., or as an epithet in which the quality of a subst. is predominant, for مِيرَةٌ دَفَيِيَّةٌ,] is applied to The مِيرَة [or &lt;i&gt;provision of corn &amp;amp;c.&lt;/i&gt;], (AZ, T, S, M, K,) &lt;i&gt;whatever it be, that is brought&lt;/i&gt; (AZ, T, S) &lt;i&gt;before,&lt;/i&gt; (قبل, written without any syll. signs in a copy of the S, and قبلَ in the CK,) or &lt;i&gt;in the first part of,&lt;/i&gt; (قُبُل, as in the M and TA and in a copy of the S and in one of the K, [and this appears to be the right reading,] in a copy of the T قِبل,) &lt;i&gt;the&lt;/i&gt; <br>\
+                  صَيْف [here meaning &lt;i&gt;spring&lt;/i&gt;]: (AZ, T, S, M, K:) this is the third ميرة; [see this word for an explanation of the statement here given;] the first being that called the رِبْعِيَّة[q. v.]; and the second, that called the صَيْفِيَّة[q. v.]: then comes the دفييّة; and then, the رَمَضِيَّة, which comes when the earth becomes burnt [by the sun]. (M.) ―         -b3-  And in like manner also, (AZ, S,) i. e., by the term دَفَيِىٌّ is also meant, (M,) The نِتَاج [or &lt;i&gt;offspring&lt;/i&gt;] (AZ, S, M) &lt;i&gt;of sheep or goats&lt;/i&gt; [&lt;i&gt;brought forth at that period,&lt;/i&gt; as is implied in the S, or] &lt;i&gt;in the end of winter:&lt;/i&gt; or, as some say, &lt;i&gt;at any time.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12694&quot; key=&quot;دَفَيِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفَيِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;:see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12695&quot; key=&quot;دِفَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دِفَا=ءٌ<br>\
+                     دفا=ء<br>\
+                  &lt;/form&gt;:see دِفْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12696&quot; key=&quot;دَفِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفِىْءٌ<br>\
+                     دفىء<br>\
+                     دفيء<br>\
+                     دفي<br>\
+                  &lt;/form&gt;,and its fem. (withة) : see دَفِيٌ, in seven places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12697&quot; key=&quot;دَفَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دَفَا=ءَةٌ<br>\
+                     دفا=ءه<br>\
+                     دفا=ءة<br>\
+                  &lt;/form&gt;:see دِفْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12698&quot; key=&quot;اَدْفَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَدْفَاُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; (so in some copies of the K; but accord. to the TA without a final ء, i. e. اَدْفَا, as in other copies of the K;) fem. دَفْاَى; &lt;i&gt;Curved&lt;/i&gt; in body. (K. [See also اَدافَى in art. دفو.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12699&quot; key=&quot;مَدْفَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَدْفَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;:see دَفِيٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12700&quot; key=&quot;اـِبِلٌ مَدْفَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبِلٌ مَدْفَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (As, Th, S, M, K) and ↓مُدَفَّاَةٌ (M, K) &lt;i&gt;Camels having abundance of fur&lt;/i&gt; (As, Th, S, M, K) &lt;i&gt;and fat;&lt;/i&gt; (As, S, K;) &lt;i&gt;rendered warm by their fur;&lt;/i&gt; (M;) as also ↓ <br>\
+      مُدْفِيَةٌ and ↓ <br>\
+      مُدَفِّيَةٌ: (K:) or the latter two signify &lt;i&gt;many camels;&lt;/i&gt; (As, S, M, O;) because (As, S, O) &lt;i&gt;rendering one another warm by their breath;&lt;/i&gt; (As, S, M, O;) and so, accord. to the L, مُدْفَاةٌ, without ء. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12701&quot; key=&quot;مُدْفِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُدْفِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12702&quot; key=&quot;مُدَفَّاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُدَفَّاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n12703&quot; key=&quot;مُدَفّيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُدَفّيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.   &lt;/entryFree&gt; <br>\
+' } );

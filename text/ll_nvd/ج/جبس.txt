@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'جبسجِبْسٌ [Gypsum;] i. q. جِصٌّ, or جَصٌّ, (K,)<br>\
+with which one builds. (Kr, TA. *)<br>\
+جَبَّاسَةٌ The place of جِبْس; [i. e., in which<br>\
+gypsum is found, or prepared;] as also مجبَّسة<br>\
+[i. e. ↓ مُجَبَّسَةٌ, or, more probably, it is a mistranscription, for ↓ مَجْبَسَةٌ, like مَحْصَاةٌ (originally<br>\
+مَحَصَيَةٌ) and مَبْقَلَةٌ &amp;c.]. (TA.)<br>\
+مَجْبَسَةٌ or مُجَبَّسَةٌ: see جَبَّاسَةٌ.<br>\
+' } );

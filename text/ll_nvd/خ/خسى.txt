@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'خسى6<br>\
+التَّخَاسِى The throwing of pebbles, one at<br>\
+another. (K.) You say, تَخَاسَتْ قَوَائِمُ الدَّابَّةِ بِالحَصَا<br>\
+The legs of the beast threw the pebbles, one at<br>\
+another. (TA.) [See also 3 in art. خسأ.)<br>\
+خَسِىٌّ The like of a [garment of the kind called]<br>\
+كِسَآء, or of a [tent such as is called] خِبَآء, woven<br>\
+of wool. (JK, K.)<br>\
+' } );

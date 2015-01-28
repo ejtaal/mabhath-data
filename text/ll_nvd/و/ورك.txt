@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'وركوَرِكٌ<br>\
+What is above the thigh; [the haunch;<br>\
+or hip; and often signifying only the hip-bone;<br>\
+and the hip as meaning the joint of the thigh?]<br>\
+(S, K, &amp;c.)<br>\
+مَوْرِكٌ<br>\
+of a camel&#39;s saddle: see 8 in art. عقل.<br>\
+' } );

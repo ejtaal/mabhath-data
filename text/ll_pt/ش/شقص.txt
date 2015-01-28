@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>شقص</em>            1                  شقص<br>\
+<b>شقّصهُ</b>               1     <br>\
+                     شقّصهُ<br>\
+                     ذ<br>\
+                  , (L, TA,) inf. n. تَشْقِيصٌ, (L, Mgh, K,) <i>He divided it into parts,</i> or <i>portions:</i> (Mgh:) or <i>he cut it up, and separated its members</i> (A, L, K *) <i>into just portions among the sharers;</i> (L, K; *) namely, a slaughtered animal, (K,) or particularly a slaughtered sheep or goat, and a pig: (L, A, TA:) or <i>he divided it</i> (namely, a pig,) <i>into parts</i> or <i>portions, and members,</i> for eating and selling. (Mgh.) Hence the trad. مَنْ <br>\
+                  بَاعَ الخَمْرَ فَلْيُشَقِصِ الخَنَازِيرَ (L, A) <i>He who sells wine, let him cut up swine and divide their members,</i> as is done to a sheep or goat when its flesh is sold: meaning, he who holds the selling of wine to be lawful, let him hold the selling of swine to be so; for they are equally forbidden. (L, TA.)    </entryFree> <br>\
+<b>شِقْصٌ</b>               1     <br>\
+                     شِقْصٌ<br>\
+                     ذ<br>\
+                  <i>A piece,</i> or <i>part,</i> of a thing; (S, M, Mgh, Msb;) as also ↓ <br>\
+      شَقِيصٌ: (M, Mgh:) or <i>a little,</i> of much; (M, TA;) as also ↓ the latter: (IDrd, M, K:) and ↓ the latter, <i>a little,</i> or <i>paltry, thing:</i> (TA:) and the former, <i>a piece of land:</i> (S:) or <i>a share;</i> syn. سَهْمٌ, (A, K,) or حَظٌّ, (M,) and نَصِيبٌ, (A, Mgh, K,) and شِرْكٌ, (A, K,) which signifies the same as نَصِيبٌ; (Sh, on the authority of Khálid;) as also ↓ <br>\
+      شَقِيصٌ; (Sh, M, Mgh, K;) like نِصْفٌ and نَصِيفٌ: (M:) as, for instance, in property; (IDrd;) and of a slave: (TA:) or <i>a certain share not divided:</i> (EshSháfi&#39;ee, TA:) or if <i>divided</i> it may also be thus called: (Az, TA:) pl. [of pauc.] اَشْقَاصٌ (M, Msb) and [of mult.] شِقَاصٌ. (M, TA.)    </entryFree> <br>\
+<b>شَقِيصٌ</b>               1     <br>\
+                     شَقِيصٌ<br>\
+                     ذ<br>\
+                  : see شِقْصٌ, throughout.       -A2-  Also <i>A sharer,</i> or <i>partner.</i> (S, A, K.) You say, هُوَ <br>\
+                  شَقِيصى <br>\
+                  <i>He is my sharer,</i> or <i>partner,</i> (S, A,) <i>in a piece of land.</i> (S.)       -A3-  And A <i>fleet,</i> or <i>swift, and excellent</i> horse: (K:) but an epithet not known to Lth. (TA.)    </entryFree> <br>\
+<b>مِشْقَصٌ</b>               1     <br>\
+                     مِشْقَصٌ<br>\
+                     ذ<br>\
+                  <i>A broad</i> <br>\
+                  نَصْل [or <i>iron head</i>] (IDrd, Msb, K) <i>of an arrow:</i> (IDrd:) or <i>an arrow having such a</i> <br>\
+                  نصل, (Lth, IF, K,) <i>with which wild animals are shot;</i> (Lth;) but Az says that this explanation is at variance with what has been heard from the Arabs: (TA:) or it signifies, (M,) or signifies also, (K,) <i>a long</i> <br>\
+                  نصل; (M, K;) not a broad one: (M:) or <i>an arrow having such a</i> <br>\
+                  نصل; (M;) <i>with which wild animals are shot:</i> (K:) or <i>a long and broad</i> <br>\
+                  نصل: (S:) or it is <i>of half the size of a</i> <br>\
+                  نصل, <i>and is worthless; children play with it, and it is the worst kind of arrow</i> [<i>-head</i>], <i>and is used for shooting at objects of the chase and any other thing:</i> (TA:) pl. مَشَاقِصُ. (S.)    </entryFree> <br>\
+<b>مُشَقِصٌ</b>               1     <br>\
+                     مُشَقِصٌ<br>\
+                     ذ<br>\
+                  <i>A butcher.</i> (A, K.)   </entryFree> <br>\
+' } );

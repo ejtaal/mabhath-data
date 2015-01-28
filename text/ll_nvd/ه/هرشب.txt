@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'هرشبهِرْشَبَّةٌ An old woman far advanced in years:<br>\
+(K:) a worn-out old woman; as also هِرْشَفَّةٌ. (T.)<br>\
+' } );

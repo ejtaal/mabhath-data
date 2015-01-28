@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>لهلا</em>            1                  لهلا<br>\
+<b>تَلَهْلَاَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَلَهْلَاَ<br>\
+                     ذ<br>\
+                  <i>He desisted through timidity, and was cowardly.</i> (T, K. Mentioned in the T among the class of quinqueliterals, TA.)   </entryFree> <br>\
+            <div2 n=&quot;lhm lhn lhw lw&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لهم لهن لهو لو<br>\
+               <entryFree>See Supplement    <br>\
+' } );

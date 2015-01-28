@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>شقا</em>            1                  شقا<br>\
+<b>شَقَاَ</b>               1     <br>\
+                     شَقَاَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     شَقَاَ<br>\
+                  , (K,) inf. n. شَقْ ٌ and شُقُوْءٌ, said of the نَاب [or tush] (S, K) of a camel, (S,) <i>It grew forth;</i> (S, K;) <i>it appeared;</i> (TA;) as also شَكَاَ. (K in art. شكا.) [See also شَقَّ.] شَاقِى, with the ء softened [or changed into ى], occurs in a verse of Dhu-r-Rummeh [for the part. n. شاقي]. (TA.)       -A2-  شَقَاَ رَاْسَهُ <br>\
+                  <i>He divided his head;</i> syn. شَقَّهُ: [meaning, <i>his hair:</i>] or <i>he separated it</i> (فَرَّقَهُ) [i. e. <i>his hair</i>] <i>with the</i> <br>\
+                  مِشْقَا=ء [or <i>comb</i>]: (K:) or شَقَاَ شَعَرَهُ بِالمُشْطِ, inf. n. شَقْءٌ, <i>he separated his hair with the comb.</i> (AZ, S.) ―         -b2-  And شَقَاَهُ, (S, K,) inf. n. شَقْءٌ, (S,) <i>He hit his</i> <br>\
+                  مَشْقَا, i. e. <i>the place of the parting of the hair of his head,</i> (S, K,) with a staff, or stick. (S.)    </entryFree> <br>\
+<b>اـِبِلٌ شُوَيْقِيَةٌ</b>               1     <br>\
+                     اـِبِلٌ شُوَيْقِيَةٌ<br>\
+                     ذ<br>\
+                  <i>Camels of the age when the</i> <br>\
+                  نَاب [or <i>tush</i>] <i>grows forth:</i> and so شُوَيْكِيَةٌ: (As, TA:) [or شُوَيْكِيَّةٌ, q. v. in art. شوك.]    </entryFree> <br>\
+<b>مَشْقَاٌ</b>               1     <br>\
+                     مَشْقَاٌ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      مَشْقِيٌ, (Fr, O, TA,) like مَفْرَقٌ and مَفْرِقٌ, (O, TA,) The <i>place of the parting of the hair of the head.</i> (Fr, S, O, K.)    </entryFree> <br>\
+<b>مِشْقَاٌ</b>               1     <br>\
+                     مِشْقَاٌ<br>\
+                     ذ<br>\
+                  <i>A comb;</i> (IAar, S, K;) as also ↓ <br>\
+      مِشْقَا=ءٌ and ↓ <br>\
+      مشْقَاَةٌ, and مِشْقًا [or مِشْقًى]. (K: the last also mentioned in the K in art. شقو.)    </entryFree> <br>\
+<b>مَشْقِيٌ</b>               1     <br>\
+                     مَشْقِيٌ<br>\
+                     ذ<br>\
+                  : see مَشْقَاٌ.    </entryFree> <br>\
+<b>مِشْقَاَةٌ</b>               1     <br>\
+                     مِشْقَاَةٌ<br>\
+                     ذ<br>\
+                  : see مِشْقَاٌ. ―         -b2-  Also <i>i. q.</i> <br>\
+                  مِدْرَاةٌ; (K;) [i. e. <i>A thing,</i> or <i>an iron instrument, with which the head is scratched;</i> or <i>a thing like a large needle, with which the female hair-dresser adjusts,</i> or <i>puts in order, the locks of a woman&#39;s hair;</i>] or <i>a piece of wood,</i> or <i>stick,</i> [<i>like a skewer,</i>] <i>which a woman inserts in her hair;</i> or <i>a horn prepared for that purpose</i> (TA) [or <i>for adjusting the locks of a woman&#39;s hair:</i> see مِدْرَاةٌ].    </entryFree> <br>\
+<b>مِشْقَا=ءٌ</b>               1     <br>\
+                     مِشْقَا=ءٌ<br>\
+                     ذ<br>\
+                  : see مِشْقَاٌ.   </entryFree> <br>\
+' } );

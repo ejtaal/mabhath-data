@@ -1,0 +1,49 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جنا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جنا<br>\
+&lt;entryFree id=&quot;n6407&quot; key=&quot;جَنَاَ عَلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     جَنَاَ عَلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (As, S, L, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَنَاَ<br>\
+                  &lt;/form&gt;, inf. n. جُنُوْءٌ, (As, K,) &lt;i&gt;He bent down over,&lt;/i&gt; or &lt;i&gt;fell prostrate upon, him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; (As, S, L, K;) namely, a man, (Th, L,) as one does in speaking to another [who is sitting], (Th,) or to shield or protect another from blows, (L,) and as a woman does over a child; (TA;) or a horse, said when a man has bent down to preserve himself [from an arrow &amp;amp;c.]; or a thing; (S;) as also جَنِىءَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَنَاَ<br>\
+                  &lt;/form&gt;, inf. n. جَنَاٌ; (K, TA; [in the CK, erroneously, جَناء;]) as also ↓ <br>\
+      اجنا, (As, L, K,) likewise said of a man bending over another to shield or protect the latter; (L, TA;) and ↓ <br>\
+      جانا, and ↓ <br>\
+      تجانا, (S, K,) and ↓ <br>\
+      اجتنا (TA.) ―         -b2-  جَنَاَ فِى عَدْوِهِ <br>\
+                  &lt;i&gt;He persevered,&lt;/i&gt; or &lt;i&gt;was fatigued and slow,&lt;/i&gt; <br>\
+                  اَلَحَّ, [which has these two different meanings,]) &lt;i&gt;and bent down, in his running.&lt;/i&gt; (T, TA.)       -A2-  جَنِىءَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَنَاَ<br>\
+                  &lt;/form&gt;, (Lth, K,) inf. n. جَنَاٌ, (Lth, S,) said of a man, (S,) &lt;i&gt;He had a bending forward of the upper part of his back over his breast:&lt;/i&gt; (Lth, K:) or &lt;i&gt;was humpbacked:&lt;/i&gt; (S:) or &lt;i&gt;he had a bent and humped back:&lt;/i&gt; but Lth denies that جَنَاٌ signifies the &lt;i&gt;being humpbacked.&lt;/i&gt; (TA.) [See also اَجْنَاُ.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     جَاْنَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَجْنَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَجَاْنَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِجْتَنَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n6408&quot; key=&quot;اُجْنَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُجْنَاُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, applied to a man, (S,) &lt;i&gt;Having a bending forward of the upper part of the back over the breast:&lt;/i&gt; (Lth, K:) or &lt;i&gt;humpbacked:&lt;/i&gt; (S:) or &lt;i&gt;having a bent and humped back;&lt;/i&gt; but see what Lth says, voce جَنِىءَ: (TA:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَدْنَاُ and اَقْعَسُ, meaning a man &lt;i&gt;having a bending in his breast towards his back:&lt;/i&gt; (AA, TA:) accord. to As, applied to him who has been straight in the back and has then been affected with what is termed جَنَاٌ: it is also applied to an ostrich: fem. جَنْا=ءُ and جَنْوَا=ءُ (TA.) ―         -b2-  Also جَنْا=ءُ A ewe, or a she-goat, &lt;i&gt;having her horns bending backwards;&lt;/i&gt; (Esh-Sheybánee, K;) and so جَنْوَا=ءُ (TA in art. جنو.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n6409&quot; key=&quot;مُجْنَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُجْنَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A shield:&lt;/i&gt; (S, K:) so called because of its being humped, (K, TA, [in some copies of the former of which, for لِاْحْدِيدَابِهِ, we find لَا حَدِيدَةَ <br>\
+                  بِهِ, i. e. having no piece of iron in it,]) and on account of its bending form. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n6410&quot; key=&quot;مُجْنَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُجْنَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A grave.&lt;/i&gt; (K.) [App. so called because the grave of an Arab of the desert generally has a small oblong humped mound raised over it.]   &lt;/entryFree&gt; <br>\
+' } );

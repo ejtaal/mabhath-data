@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ميب</em>            1                  ميب<br>\
+<b>مَيْبَةٌ</b>               1     <br>\
+                     مَيْبَةٌ<br>\
+                     ذ<br>\
+                  <i>A certain remedy,</i> or <i>medicine:</i> (K:) [an arabicized word] from the Persian مَىْ “ a beverage, ” and بِهْ “ a quince: ” <i>quince-beverage; diacydonium; a medicine prepared of the juice of quinces:</i> some of it is raw; and some, not raw: some is perfumed; and some, not perfumed. (TA, from the book entitled Má lá yesa&#39;u, &amp;amp;c.)   </entryFree> <br>\
+' } );

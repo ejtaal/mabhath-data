@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>ته</em>            1                  ته<br>\
+<b>تَهْتَهَةٌ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     تَهْتَهَةٌ<br>\
+                     تهته<br>\
+                     تهتهه<br>\
+                     تهتهة<br>\
+                  , [inf. n. of تَهْتَهَ,] <i>i. q.</i> <br>\
+                  لُكْنَةٌ [The <i>having an impotence,</i> or <i>an impediment,</i> or <i>a difficulty,</i> or <i>barbarousness,</i> or <i>vitiousness, in speech</i>]: (K:) or [the <i>having</i>] <i>a distortion in the tongue,</i> (TA,) <i>like what is termed</i> <br>\
+                  لُكْنَة: (S, TA:) accord. to Az, تَهْتَهَةٌ and هَتْهَتَةٌ signify the <i>twisting,</i> or <i>distorting, of the tongue in speaking.</i> (TA in art. هت.) ―         -b2-  And تَهْتَهَ signifies رَدَّدَ فِى البَاطِلِ, (K, TA,) or فى الاَبَاطِيلِ, (TA,) [app. meaning <i>He repeated,</i> or <i>used repetitions, in uttering false,</i> or <i>vain,</i> or <i>unprofitable, sayings:</i> but Golius and Freytag render it as meaning <i>he applied himself to vain things.</i>]    </entryFree> <br>\
+<b>تَهْ</b>               1     <br>\
+                     تَهْ<br>\
+                     ته<br>\
+                     تة<br>\
+                     وهى<br>\
+                  , (JK,) or تُهْ تُهْ, (K,) <i>An expression imitative of the</i> ↓ <br>\
+      مُتَهْتِه, [i. e., <i>of him who has the faulty utterance termed</i> <br>\
+                  تَهْتَهَةٌ,] (JK, K, TA, [in the CK, المُتَتَهْتِهِ is put for المُتَهْتِهِ,]) <i>consisting in a distortion of the tongue.</i> (JK.) ―         -b2-  تُهْ تُهْ is also <i>A cry by which one chides the camel,</i> (K, TA,) <i>and which makes him to run away.</i> (TA.) ―         -b3-  And <i>A call to a dog.</i> (K.)    </entryFree> <br>\
+<b>تِهْ</b>               1     <br>\
+                     تِهْ<br>\
+                     ته<br>\
+                     تة<br>\
+                     وهى<br>\
+                  : see art. تَا.    </entryFree> <br>\
+<b>تَهَاتِهُ</b>               1     <br>\
+                     تَهَاتِهُ<br>\
+                     تهاته<br>\
+                     تهاتة<br>\
+                  <i>False,</i> or <i>vain, sayings</i> or <i>actions</i> or <i>affairs;</i> or <i>unprofitable sayings.</i> (JK, S, K.)    </entryFree> <br>\
+<b>مُتَهْتِهٌ</b>               1     <br>\
+                     مُتَهْتِهٌ<br>\
+                     متهته<br>\
+                     متهتة<br>\
+                  : see تَهْ.   </entryFree> <br>\
+' } );

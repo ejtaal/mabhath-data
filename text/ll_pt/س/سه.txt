@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سه</em>            1                  سه<br>\
+<b>سَهٌ</b>               1     <br>\
+                     سَهٌ<br>\
+                     ذ<br>\
+                   and سُهٌ: see اِسْتٌ, in art. سته, in four places.   </entryFree> <br>\
+' } );

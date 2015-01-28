@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'حalphabetical letter<br>\
+ح<br>\
+The sixth letter of the alphabet: called حَآءٌ [and<br>\
+حَا (respecting which latter see the letter ب).<br>\
+It is one of the letters termed مَهْمُوسَة, or nonvocal, i. e. pronounced with the breath only,<br>\
+without the voice; and of those termed حَلْقِيَّة<br>\
+i. e. faucial, or guttural, for] the place of its<br>\
+utterance is in the fauces; and were it not for<br>\
+a hoarse aspiration with which it is pronounced,<br>\
+it would resemble ع: next after it [with respect<br>\
+to the place of utterance] is ه: [ع having the<br>\
+lowest place of utterance; then ح; and then ه:]<br>\
+and ح and ه are never consociated in any uncompounded word of the which the letters are all<br>\
+radicals, because of the mutual nearness of their<br>\
+places of utterance: they occur together in حَيَّهَلْ;<br>\
+but this is only a compound word in the classical<br>\
+language; and as the name of a certain kind of<br>\
+tree it is a post-classical word. (Kh, L.)<br>\
+-A2-  [It<br>\
+is often put for حِينَئِذٍ.<br>\
+-A3-  As a numeral, it denotes<br>\
+Eight.]<br>\
+' } );

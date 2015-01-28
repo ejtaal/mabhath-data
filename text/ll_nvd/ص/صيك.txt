@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'صيك1<br>\
+صَاكَ بِهِ, aor. يَصِيكُ, inf. n. صَيْكٌ: see 1 in art.<br>\
+صوك.<br>\
+3<br>\
+ظَلَّ يُصَايِكُنِى مُنْذُ اليَوْمِ a dial. var. of يُصَائِكُنِى.<br>\
+(TA in art. صوك. See 3 in art. صأك.)<br>\
+' } );

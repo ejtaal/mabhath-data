@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قولنج</em>            1                  قولنج<br>\
+<b>قُوْلَنْجٌ</b>               1     <br>\
+                     قُوْلَنْجٌ<br>\
+                     ذ<br>\
+                  , (Msb, * K,) with fet-h to the ل, (Msb,) and sometimes قَوْلِنْجٌ, with kesr to the ل, or thus and قُولِنْجٌ, i. e. with kesr to the ل and with fet-h and damm to the ق, (K,) a foreign word, (TA,) [from the Greek <G>kwliko\s</G> The <i>colic;</i>] <i>a certain painful intestinal disease, in which the egress of the feces and wind is attended with difficulty;</i> (K;) <i>a violent griping in the intestine called the colon.</i> (Msb.)   </entryFree> <br>\
+' } );

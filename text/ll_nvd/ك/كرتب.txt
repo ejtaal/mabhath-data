@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'كرتبQ. 2<br>\
+تكرتب عَلَيْنَا i. q. تقلّب (He turned over<br>\
+upon us or turned against us:) accord. to the K:<br>\
+but accord. to the L and other lexicons, i. q.<br>\
+تغلّب (He got possession of us, or obtained the<br>\
+mastery over us, by force). (TA.)<br>\
+' } );

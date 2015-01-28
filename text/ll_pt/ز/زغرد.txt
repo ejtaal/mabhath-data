@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>زغرد</em>            1                  زغرد<br>\
+<b>زَغْرَدَةٌ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     زَغْرَدَةٌ<br>\
+                     ذ<br>\
+                   The <i>braying that is reiterated</i> (L, K) <i>in the fauces,</i> or <i>throat,</i> (L,) or <i>in the</i> <br>\
+                  جَوْف [meaning <i>chest</i>], (K,) of the camel: (L, K:) an inf. n., of which the verb is زَغْرَدَ: you say, زَغْرَدَ البَعِيرُ. (TK.) ―         -b2-  Hence the زَغْرَدَة of women on the occasions of rejoicings. (TA.) [One says, of a woman, زَغْرَدَتْ, more commonly in the present day زَغْرَطَتْ, meaning <i>She uttered shrill, quavering,</i> or <i>rapidly-reiterated, sounds,</i> or <i>cries of joy:</i> which sounds, or cries, are termed ↓ <br>\
+      زَغَارِيدُ, and now more commonly زَغَارِيط.]    </entryFree> <br>\
+<b>زَغَارِيدُ</b>               1     <br>\
+                     زَغَارِيدُ<br>\
+                     ذ<br>\
+                  : see above.   </entryFree> <br>\
+' } );

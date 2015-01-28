@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كلبث</em>            1                  كلبث<br>\
+<b>كَلْبَثٌ</b>               1     <br>\
+                     كَلْبَثٌ<br>\
+                     ذ<br>\
+                   and كُلَابِثٌ A <i>hard and strong</i> man. (IDrd, L.) ―         -b2-  Also, and كُلْبُثٌ and كُلَبِثٌ, <i>Niggardly,</i> or <i>stingy, and contracted</i> [<i>in disposition</i>]. (K.) [See also كُنْبُثٌ.]   </entryFree> <br>\
+' } );

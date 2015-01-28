@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ثيتل</em>            1                  ثيتل<br>\
+<b>ثَيْتَلَ</b>               1     <br>\
+                     ثَيْتَلَ<br>\
+                     ثيتل<br>\
+                  : see art. ثتل.    </entryFree> <br>\
+<b>ثَيْتَلٌ</b>               1     <br>\
+                     ثَيْتَلٌ<br>\
+                     ثيتل<br>\
+                  : see art. ثتل.   </entryFree> <br>\
+' } );

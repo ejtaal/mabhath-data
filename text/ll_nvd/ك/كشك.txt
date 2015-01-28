@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'كشككَشْكٌ<br>\
+Barley-water: (K:) or pounded wheat<br>\
+or barley: a Persian word, arabicized. (Mgh.)<br>\
+Hence, كَشْكِيَّةٌ<br>\
+A kind of broth. (Mgh.)<br>\
+' } );

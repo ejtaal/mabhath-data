@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>وكظ</em>            1                  وكظ<br>\
+<b>وَاكِظٌ عَلَى كَذَا</b>               1     <br>\
+                     وَاكِظٌ عَلَى كَذَا<br>\
+                     ذ<br>\
+                   and مُوَاكِظٌ <br>\
+                  <i>i. q.</i> <br>\
+                  وَاظِبٌ and مُوَاظِبٌ: <i>Attending assiduously to such a thing; intent upon it.</i> (Lh, in TA, art. وظب.)   </entryFree> <br>\
+' } );

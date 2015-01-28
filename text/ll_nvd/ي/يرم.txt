@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'يرميَرَمِىٌّ<br>\
+and أَيْرَمِىٌّ<br>\
+A sign-stone: see إِرَمٌ.<br>\
+' } );

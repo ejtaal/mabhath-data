@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>ندم</em>            1                  ندم<br>\
+<b>نَدِمَ عَلَى مَا فَعَلَ</b>               1     <br>\
+                     نَدِمَ عَلَى مَا فَعَلَ<br>\
+                     ذ<br>\
+                  <i>He grieved for what he had done; regretted it; repented of it:</i> or <i>he disliked it.</i> (Msb.)    </entryFree> <br>\
+<b>نَدِيمٌ</b>               1     <br>\
+                     نَدِيمٌ<br>\
+                     ذ<br>\
+                  <i>A companion in drinking; a cup-companion.</i> (S, Msb, K.) And hence, <i>Any convivial companion; a boon-companion.</i>    <br>\
+<b>مَنْدَمٌ</b>               1     <br>\
+                     مَنْدَمٌ<br>\
+                     ذ<br>\
+                  <i>Repentance:</i> an inf. n. of نَدِمَ; see an ex. in a verse of El-Kattál El-Kilábee, cited voce اَىٌّ.   </entryFree> <br>\
+' } );

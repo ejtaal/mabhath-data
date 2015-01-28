@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>مح</em>            1                  مح<br>\
+<b>مَحَّ</b>               1     <br>\
+                     مَحَّ<br>\
+                     ذ<br>\
+                  , (S, K,) aor. يَمِحُّ and يَمُحُّ [the latter contr. to analogy] (K) and يَمَحُّ, (L,) inf. n. مَحٌّ and مَحَحٌ and مُحُوحٌ; (K;) and ↓ <br>\
+      امحّ; (S;) <i>It</i> (a garment) <i>became old and worn-out.</i> (S, K.) ―         -b2-  <i>It</i> (a dwelling) <i>had its vestiges obliterated.</i> (L.) ―         -b3-  <i>It</i> (a writing) <i>became obliterated.</i> (L.)       -A2-  مَحَّ الكَذَّابُ, aor. يَمُحُّ, inf. n. مَحَاحَةٌ, [<i>The liar pleased,</i> or <i>contented, with his words, but did,</i> or <i>performed, nothing:</i> or <i>lied, from whatsoever place he came</i>]. (L.)    </entryFree> <br>\
+                     اَمْحَ٣َ<br>\
+                   see 1.    </entryFree> <br>\
+<b>مَحٌّ</b>               1     <br>\
+                     مَحٌّ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      مَاحٌّ (TA) An <i>old and wornout</i> garment. (S, K.)    </entryFree> <br>\
+<b>مُحٌّ</b>               1     <br>\
+                     مُحٌّ<br>\
+                     ذ<br>\
+                   The <i>purest, best,</i> or <i>choicest, part of anything.</i> (K.) ―         -b2-  The <i>yolk</i> of an egg; (S, K;) as also ↓ <br>\
+      مُحَّةٌ: (ISh, K:) or the <i>entire contents</i> of an egg; (K;) the <i>yolk and the white.</i> (ISh.)    </entryFree> <br>\
+<b>مُحَّةٌ</b>               1     <br>\
+                     مُحَّةٌ<br>\
+                     ذ<br>\
+                  : see مُحٌّ.    </entryFree> <br>\
+<b>مَحَّاحٌ</b>               1     <br>\
+                     مَحَّاحٌ<br>\
+                     ذ<br>\
+                  <i>One who pleases</i> or <i>contents thee with his words, but who does,</i> or <i>performs, nothing:</i> (T, S, K:) <i>an habitual liar:</i> (S, K:) <i>one who will not tell thee truly whence he comes; who lies to thee even respecting the place whence he comes.</i> (L.)    </entryFree> <br>\
+<b>مَاحٌّ</b>               1     <br>\
+                     مَاحٌّ<br>\
+                     ذ<br>\
+                  : see مَحٌّ.   </entryFree> <br>\
+' } );

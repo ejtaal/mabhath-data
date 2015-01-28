@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حكا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حكا<br>\
+&lt;entryFree id=&quot;n8687&quot; key=&quot;حَكَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     حَكَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8688&quot; key=&quot;احكا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     احكا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Sh, S, K,) inf. n. اِحْكَا=ءٌ; (TA;) and ↓ <br>\
+      حَكَاَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَكَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. حَكْءٌ; (TA;) and ↓ <br>\
+      احتكا; (K;) &lt;i&gt;He tightened&lt;/i&gt; a knot; (S, K;) &lt;i&gt;made&lt;/i&gt; it &lt;i&gt;firm:&lt;/i&gt; (Sh, TA:) as also احكى (S) and حَكَى. (S and K in art. حكى.) [See a verse of &#39;Adee Ibn-Zeyd cited voce صُلْبٌ.]       -A2-  See also 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8689&quot; key=&quot;احتكات العُقْدَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     احتكات العُقْدَةُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The knot became tight,&lt;/i&gt; or &lt;i&gt;firm.&lt;/i&gt; (Sh, TA.) And احتكا العِقْدُ فِى عُنُقِهِ <br>\
+                  &lt;i&gt;The necklace became fast upon his neck.&lt;/i&gt; (Sh, TA.) ―         -b2-  [Hence,] احتكا الشَّىْءُ فِى صَدْرِى (assumed tropical:)  &lt;i&gt;The thing became established in my mind, so that I did not doubt respecting it:&lt;/i&gt; and احتكا الاَمْرُ فِى نَفْسِى (assumed tropical:)  &lt;i&gt;The matter became established in my mind.&lt;/i&gt; (TA.) [See also اِحْتَكَى; and see اِحْتَكَّ in the first paragraph of art. حك.] You say also, سَمِعْتُ <br>\
+                  اَحَادِيثَ وَمَا احتكا فِى صَدْرِى مِنْهَا شَىْءٌ (in the CK ↓ <br>\
+      ما احكا) (assumed tropical:)  &lt;i&gt;I heard stories, and nothing of them was unsettled in my mind.&lt;/i&gt; (K, * TA.) And لَوِ احتكا لِى اَمْرِى لَفَعَلْتُ كَذَا (assumed tropical:)  &lt;i&gt;Had my case been manifest to me at the first, I had done thus.&lt;/i&gt; (L, TA.)       -A2-  See also 4.   &lt;/entryFree&gt; <br>\
+' } );

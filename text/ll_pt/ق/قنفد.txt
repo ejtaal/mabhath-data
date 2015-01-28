@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>قنفد</em>            1                  قنفد<br>\
+<b>قُنْفُدٌ</b>               1     <br>\
+                     قُنْفُدٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  قُنْفُذٌ. (Ktr, Kr, K.)   </entryFree> <br>\
+            <div2 n=&quot;qnf*, or, accord. to some, qf*&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot;<br>\
+                  part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قنفذ, or, accord. to some, قفذ<br>\
+<b>قُنْفُذٌ</b>               1     <br>\
+                     قُنْفُذٌ<br>\
+                     ذ<br>\
+                   and قُنْفَذٌ [The <i>male hedge-hog;</i>] (S, L, Msb, K;) <i>i. q.</i> <br>\
+                  شَيْهَمٌ: (M, L, K:) or the <i>male and female:</i> (Msb:) or the fem. is with ة, (S, L, Msb, K,) sometimes; and the male is called شَيْهَمٌ and دُلْدُلٌ: (Msb:) pl. قَنَافِذُ. (S.) Some hold that the ن is an augmentative letter: others, that it is a radical. (TA.)   </entryFree> <br>\
+' } );

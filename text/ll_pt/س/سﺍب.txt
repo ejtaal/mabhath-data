@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ساب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ساب<br>\
+&lt;entryFree id=&quot;n18556&quot; key=&quot;سَاَبَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     سَاَبَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     سَاََ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. سَاْبٌ, (S, M,) &lt;i&gt;He throttled him,&lt;/i&gt; syn. خَنَقَهُ; (S, M, IAth, K;) i. e., &lt;i&gt;squeezed his throat:&lt;/i&gt; (IAth:) or, &lt;i&gt;so that he died,&lt;/i&gt; (S,) or &lt;i&gt;so that he killed him.&lt;/i&gt; (M, K.) ―         -b2-  And سَاَبَهُ <br>\
+                  &lt;i&gt;He widened it;&lt;/i&gt; namely, a سِقَا=ء [or skin for water or milk]. (S, K.)       -A2-  سَاَبَ مِنَ الشَّرَابِ, (M, K,) aor. and inf. n. as above; (M;) and سَيِبَ, (M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     سَاََ<br>\
+                  &lt;/form&gt;, (K,) inf. n. سَاَبٌ; (M;) &lt;i&gt;He was satisfied with drinking of wine&lt;/i&gt; or &lt;i&gt;beverage.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18557&quot; key=&quot;سَاْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَاْبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مِسْاَبٌ <br>\
+                  &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;skin such as is termed&lt;/i&gt;] زِقّ, (S, M, K,) &lt;i&gt;for wine:&lt;/i&gt; (M:) or &lt;i&gt;such as is large:&lt;/i&gt; (M, K:) or &lt;i&gt;a&lt;/i&gt; <br>\
+                  زِقّ <br>\
+                  &lt;i&gt;of any kind:&lt;/i&gt; (M:) or &lt;i&gt;a receptacle of skin,&lt;/i&gt; or &lt;i&gt;leather, in which the&lt;/i&gt; <br>\
+                  زِقّ <br>\
+                  &lt;i&gt;is put:&lt;/i&gt; (M, K:) the former also occurs in a verse in which it is read without ء, for the sake of the rhyme: (M:) and its pl. is سُوُوبٌ: (S, M, K:) and (so in the S, but in the K “ or, ”) the latter (مساب) signifies &lt;i&gt;a skin for honey;&lt;/i&gt; (S, K;) and in a verse of Aboo-Dhu-eyb, (S, M, K,) cited voce خَافَةٌ, (S, M,) it is written مِسَابٌ, (S, M, K,) without ء: (S, M:) and it signifies also &lt;i&gt;a skin in which clarified butter is put.&lt;/i&gt; (S and L voce مِسَادٌ.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18558&quot; key=&quot;سُوْبَانِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوْبَانِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, in the following saying, (IJ, M,) اـِنَّهُ <br>\
+                  لَسُوْبَانُ مَالٍ, meaning &lt;i&gt;Verily he is one who pastures,&lt;/i&gt; or &lt;i&gt;tends, the cattle, and takes care of them, and manages them, well,&lt;/i&gt; (IJ, M, K, *) is from سَاْبٌ signifying “ a زِقّ ” because the زِقّ is made only for the preservation of its contents. (IJ, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18559&quot; key=&quot;مِسْاَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِسْاَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see سَاْبٌ. ―         -b2-  Also, (K,) applied to a man, (TA), &lt;i&gt;Who drinks much water.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

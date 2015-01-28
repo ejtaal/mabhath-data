@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>حيز</em>            1                  حيز<br>\
+<b>حَازَهُ</b>               1     <br>\
+                     حَازَهُ<br>\
+                     حاز<br>\
+                     حازه<br>\
+                     حازة<br>\
+                  , aor. يَحِيزُهُ, inf. n. حَيْزٌ: see 1 in art. حوز, in three places. Quasi 5. تحيّز: see 5, and 7, and Q. Q. 2, in art. حوز; the first in six places.    </entryFree> <br>\
+<b>حَيِّزٌ</b>               1     <br>\
+                     حَيِّزٌ<br>\
+                     حيز<br>\
+                   and حَيْزٌ: see art. حوز.   </entryFree> <br>\
+' } );

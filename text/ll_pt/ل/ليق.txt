@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ليق</em>            1                  ليق<br>\
+<b>مَا يَلِيقُ بِهِ</b>               1     <br>\
+                     مَا يَلِيقُ بِهِ<br>\
+                     ذ<br>\
+                  <i>It is not suitable to him, does not befit him,</i> that he should do such a thing. (Msb.)   </entryFree> <br>\
+' } );

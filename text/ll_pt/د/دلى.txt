@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>دلى</em>            1                  دلى<br>\
+<b>دَلِىَ</b>               1     <br>\
+                     دَلِىَ<br>\
+                     دل<br>\
+                     دلى<br>\
+                     دلي<br>\
+                  , (IAar, T, K,) aor.      <br>\
+                     دَلَىَ<br>\
+                  , inf. n. دَلًا, (TK,) <i>He was,</i> or <i>became, confounded,</i> or <i>perplexed, and unable to see his right course.</i> (IAar, T, K.)    </entryFree> <br>\
+                     دَاْلَىَ<br>\
+                  and 5, mentioned in this art. in the K: see art. دلو.   </entryFree> <br>\
+' } );

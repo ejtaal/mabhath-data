@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>وزب</em>            1                  وزب<br>\
+<b>وَزَبَ</b>               1     <br>\
+                     وَزَبَ<br>\
+                     ذ<br>\
+                  , aor. يَزِبُ, inf. n. وُزُوبٌ, <i>It</i> (water, K, or a thing, T,) <i>flowed.</i> (T, K.)    </entryFree> <br>\
+<b>اوزب فِى الاَرْضِ</b>               1     <br>\
+                     اوزب فِى الاَرْضِ<br>\
+                     ذ<br>\
+                   (tropical:)  <i>He went,</i> or <i>went away,</i> or <i>pursued his course, through the land,</i> (K,) like as does water. (TA.)    </entryFree> <br>\
+<b>وَزَّابٌ</b>               1     <br>\
+                     وَزَّابٌ<br>\
+                     ذ<br>\
+                   (tropical:)  <i>A clever thief:</i> (K:) so called because quick in his motions, like running water. (TA.)    </entryFree> <br>\
+<b>مِيزَابٌ</b>               1     <br>\
+                     مِيزَابٌ<br>\
+                     ذ<br>\
+                  <i>A water-spout; a pipe</i> or <i>other channel that spouts forth water;</i> (TA, art. ازب;) <i>that by which water pours down from a high place;</i> (Towsheeh;) <i>a water-spout of wood,</i> or <i>the like, to convey away the water from the roof of a house:</i> (MF, art. زوب:) from وَزَبَ المَا=ءُ “ the water flowed: ” (K:) or a Persian term, arabicized; (S, K;) i. e., composed of the Persian words, (TA,) signifying “ make water: ” (K:) also written مِيْزَابٌ; and in this case its pl. is مَا=زِيبُ: (S, K:) but if without ء, its pl. is مَيَازِيبُ, (S,) or مَوَازِيبُ; the latter agreeable with analogy, like مَوَاعِيدُ and مَوَازِينُ. (TA.) [See also arts. ازب and زوب. It has also two other forms, مِزْرَابٌ and مِرْزَابٌ.]   </entryFree> <br>\
+' } );

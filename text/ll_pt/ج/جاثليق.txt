@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>جاثليق</em>            1                  جاثليق<br>\
+<b>جَاثَلِيقٌ</b>               1     <br>\
+                     جَاثَلِيقٌ<br>\
+                     جاثليق<br>\
+                     جثليق<br>\
+                   [an arabicized word, from the Greek        <br>\
+      <orth lang=&quot;gr&quot;>καθολικὸς</orth>, The <i>catholicos;</i> i. e.] the <i>primate of the Christians in the country of El- Islám,</i> [<i>residing</i>] <i>in the</i> [<i>chief</i>] <i>city of El-Islám: under him is the</i> <br>\
+                  بِطْرِيق [or بِطْرِيك, or بَطْرَك, i. e. <i>patriarch</i>] <i>of Antioch: then, under him, is the</i> <br>\
+                  مَطْرَان [or <i>metropolitan</i>]; <i>under whom is the</i> <br>\
+                  اُسْقُفّ [or <i>bishop</i>], <i>in every province: then, the</i> <br>\
+                  قِسِّيس [or <i>priest</i>]: <i>then, the</i> <br>\
+                  شَمَّاس [or <i>deacon</i>]: (K:) accord. to Sgh, <i>a judge,</i> or <i>ruler:</i> in the Tekmileh, <i>a wise man,</i> or <i>sage.</i> (TA.) ج and ق do not occur in any one word, unless it is arabicized or a word imitative of a sound: (S and K * at the beginning of the section in which this word is mentioned:) accord. to El-Jawáleekee, they do not occur in any Arabic word unless separated, as in جَلَوْبَقٌ and جَرَنْدَقٌ: accord. to Lth, they occur in many words, most of which are arabicized. (TA ib.)   </entryFree> <br>\
+' } );

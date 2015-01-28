@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ازف&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ازف<br>\
+&lt;entryFree id=&quot;n669&quot; key=&quot;اَزِفَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَزِفَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزَفَ<br>\
+                  &lt;/form&gt;, inf. n. اَزَفٌ (S, Msb, K) and اُزُوفٌ, (Msb, K,) &lt;i&gt;It&lt;/i&gt; (departure) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; or &lt;i&gt;drew, near:&lt;/i&gt; (S, Msb, K:) and in like manner, a time. (TA.) Hence, in the Kur [liii. 58], اَزِفَتِ الا=زِفَةُ <br>\
+                  &lt;i&gt;The resurrection draweth near.&lt;/i&gt; (S, (Msb.) ―         -b2-  &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;hastened,&lt;/i&gt; or &lt;i&gt;was quick:&lt;/i&gt; (S, K:) or &lt;i&gt;he drew near, and hastened,&lt;/i&gt; or &lt;i&gt;was quick.&lt;/i&gt; (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n670&quot; key=&quot;ا=زَفَنى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=زَفَنى<br>\
+                     ا=زفنى<br>\
+                     ا=زفني<br>\
+                  &lt;i&gt;He&lt;/i&gt; (a man, TA) &lt;i&gt;incited me,&lt;/i&gt; or &lt;i&gt;urged me, to hasten,&lt;/i&gt; or &lt;i&gt;be quick:&lt;/i&gt; (K, TA:) it is of the measure اَفْعَلَنِى. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n671&quot; key=&quot;تَاَزُّفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَزُّفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;stepping with contracted steps.&lt;/i&gt; (K.) But see خَطْوٌ مُتَا=زِفٌ, below. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n672&quot; key=&quot;تا=زفوا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تا=زفوا<br>\
+                     تا=زفوا<br>\
+                  &lt;i&gt;They drew near together, one to another.&lt;/i&gt; (IF, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n673&quot; key=&quot;ا=زِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=زِفٌ<br>\
+                     ا=زف<br>\
+                  &lt;/form&gt;, applied to a man, &lt;i&gt;Hastening,&lt;/i&gt; or &lt;i&gt;quick:&lt;/i&gt; (S, TA:) and &lt;i&gt;endeavouring to hasten,&lt;/i&gt; or &lt;i&gt;be quick.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n674&quot; key=&quot;الا=زِفَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الا=زِفَةُ<br>\
+                     الا=زفه<br>\
+                     الا=زفة<br>\
+                  &lt;i&gt;The resurrection:&lt;/i&gt; so in the Kur liii. 58, (S, Msb,) and xl. 18: (Bd:) or in the latter place it means &lt;i&gt;the near event,&lt;/i&gt; or &lt;i&gt;case, of being on the brink of the fire&lt;/i&gt; [&lt;i&gt;of Hell&lt;/i&gt;]: or, as some say, &lt;i&gt;death.&lt;/i&gt; (Bd.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n675&quot; key=&quot;مُتَا=زِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَا=زِفٌ<br>\
+                     متا=زف<br>\
+                  &lt;/form&gt;, of the measure مُتَفَاعِلٌ, applied to a man, (TA,) &lt;i&gt;Short;&lt;/i&gt; (S, A, K;) as being contracted in make; (A, TA;) &lt;i&gt;having his several parts near together.&lt;/i&gt; (S, K.) [In the CK it is written مُتَازِّف, in this sense and others, following.] ―         -b2-  A &lt;i&gt;strait,&lt;/i&gt; or &lt;i&gt;narrow,&lt;/i&gt; place. (O, L, K.) ―         -b3-  A &lt;i&gt;contracted&lt;/i&gt; stepping: you say, خَطْوٌ مُتَا=زِفٌ: so in the O and L. (TA.) ―         -b4- (tropical:)  A man (Sgh, TA) &lt;i&gt;evil in disposition; narrow-minded:&lt;/i&gt; (Sgh, K, TA:) &lt;i&gt;weak; cowardly.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

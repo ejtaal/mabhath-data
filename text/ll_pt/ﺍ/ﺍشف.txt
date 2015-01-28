@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اشف&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اشف<br>\
+&lt;entryFree id=&quot;n843&quot; key=&quot;اـِشْفَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِشْفَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, of the measure فِعْلَى, [and therefore fem., and imperfectly decl.,] (S, Msb,) accord. to some; but accord. to others, of the measure اـِفْعَلٌ like اـِصْبَعٌ as Kh is related to have said, (Msb,) which latter is said by IB to be the correct measure, the [incipient] ا being augmentative, and the word [masc.,] with tenween, [i. e. اـِشْفًى,] perfectly decl.: (TA:) The &lt;i&gt;instrument belonging to the&lt;/i&gt; <br>\
+                  اـِسكَاف [or &lt;i&gt;sewer of skins&lt;/i&gt; or &lt;i&gt;leather&lt;/i&gt;]; (S,* Msb, TA;) i. e., &lt;i&gt;with which he sews;&lt;/i&gt; and the &lt;i&gt;instrument with which he bores,&lt;/i&gt; or &lt;i&gt;perforates:&lt;/i&gt; (TA:) the &lt;i&gt;instrument for boring,&lt;/i&gt; or &lt;i&gt;perforating,&lt;/i&gt; (K in art. شفى) &lt;i&gt;belonging to the&lt;/i&gt; <br>\
+                  اَسَاكِفَة; said by ISk to be that &lt;i&gt;which is used for water-skins,&lt;/i&gt; or &lt;i&gt;milk-skins, and leather water-bags, and the like;&lt;/i&gt; that used for sandals, or shoes, being called مِخْصَفٌ: (S and TA in art. شفى:) and the [&lt;i&gt;instrument called&lt;/i&gt;] سِرَاد <br>\
+                  &lt;i&gt;with which skin,&lt;/i&gt; or &lt;i&gt;leather, is sewed:&lt;/i&gt; (K in art. شفى:) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مِخْرَزٌ: (Mgh in art. شفى:) pl. اَشَافٍ (S, Mgh, Msb, K: [in the CK, erroneously, اَشافِىُّ]) In the K, in the present art., الاـِسْكَافُ is put, by a mistake of the copyists, for لِلْاـِسْكَافِ (TA.) See also art.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n844&quot; key=&quot;شفى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شفى<br>\
+                     ذ<br>\
+' } );

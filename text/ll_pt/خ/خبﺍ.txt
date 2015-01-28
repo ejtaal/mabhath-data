@@ -1,0 +1,97 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;خبا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  خبا<br>\
+&lt;entryFree id=&quot;n9842&quot; key=&quot;خَبَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     خَبَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Mgh, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     خَبَاَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. خَبْءٌ, (S, Msb,) &lt;i&gt;He hid,&lt;/i&gt; or &lt;i&gt;concealed, it;&lt;/i&gt; (Mgh, Msb, K;) as also ↓ <br>\
+      خبّاهُ, [but app. in an intensive sense, or applying to a number of things,] (K,) inf. n. تَخْبِيَةٌ; (TA;) and ↓ <br>\
+      اختباهُ. (K.) ―         -b2-  &lt;i&gt;He kept it, preserved it, guarded it,&lt;/i&gt; or &lt;i&gt;took care of it.&lt;/i&gt; and ↓ <br>\
+      خبّاهُ <br>\
+                  &lt;i&gt;he did so much;&lt;/i&gt; and &lt;i&gt;well,&lt;/i&gt; or &lt;i&gt;carefully.&lt;/i&gt; (Msb.) [&lt;i&gt;He laid it up; stored it,&lt;/i&gt; or &lt;i&gt;reposited it, in a place of safety.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     خَبَّاَ<br>\
+                  &lt;/form&gt; see 1, in two places. [Hence, خبّا جَارِيَةً <br>\
+                  &lt;i&gt;He kept a girl carefully concealed from view:&lt;/i&gt; see the pass. part. n., below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9843&quot; key=&quot;خَابَاْتُهُ مَا كَذَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     خَابَاْتُهُ مَا كَذَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) inf. n. مُخَابَاَةٌ, (TK,) &lt;i&gt;I proposed to him as an enigma, What is such a thing?&lt;/i&gt; syn. حَاجَيْتُهُ. (K. [See also 8.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9844&quot; key=&quot;اختبا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اختبا<br>\
+                     ذ<br>\
+                  &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, hidden,&lt;/i&gt; or &lt;i&gt;concealed:&lt;/i&gt; (Mgh:) &lt;i&gt;he hid,&lt;/i&gt; or &lt;i&gt;concealed, himself.&lt;/i&gt; (S.)       -A2-  It is also trans.: see 1. ―         -b2-  [Hence,] ↓ <br>\
+      اختبا لَهُ خَبِيْيًا <br>\
+                  &lt;i&gt;He expressed a thing enigmatically to him, and then asked him respecting it.&lt;/i&gt; (IDrd, K. [See also 3.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9845&quot; key=&quot;خَبْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَبْءٌ<br>\
+                     خبء<br>\
+                  &lt;/form&gt; (S, Msb, K) and ↓ <br>\
+      خِبْءٌ (TA) and ↓ <br>\
+      خُبْاَةٌ, of the measure فُعْلَةٌ from الخبا [or rather الخَبْءُ], like غُرْفَةٌ and قُبْضَةٌ from الغَرْفُ and القَبْضُ, (Har p. 426,) and ↓ <br>\
+      خَبِىْءٌ (S, K) and ↓ <br>\
+      خَبِيْيَةٌ, (K,) of which last the pl. is خَبَايَا, (TA,) &lt;i&gt;A thing that is hidden,&lt;/i&gt; or &lt;i&gt;concealed,&lt;/i&gt; (S, * Msb, K,) and &lt;i&gt;absent,&lt;/i&gt; or &lt;i&gt;unseen.&lt;/i&gt; (K.) [Hence,] خَبْءُ السَّمَا=ءِ <br>\
+                  &lt;i&gt;The rain.&lt;/i&gt; (Th, S, K.) And خَبْءُ الاَرْضِ <br>\
+                  &lt;i&gt;The plants,&lt;/i&gt; or &lt;i&gt;herbage.&lt;/i&gt; (S, K.) And الاَرْضِ ↓ <br>\
+      خَبَايَا <br>\
+                  &lt;i&gt;The seed which the sower has hidden in the earth:&lt;/i&gt; or &lt;i&gt;what God has hidden in the mines of the earth.&lt;/i&gt; (TA, from a trad.) الَّذِى يُخْرِجُ الخَبْءَ فِى السَّمٰوَاتِ <br>\
+                  وَالاَرْضِ, in the Kur [xxvii. 25], is held by Az to mean &lt;i&gt;Who knoweth what is unseen in the heavens and the earth;&lt;/i&gt; agreeably with an explanation of الخَبْءُ by Fr. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9846&quot; key=&quot;خِبْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خِبْءٌ<br>\
+                     خبء<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9847&quot; key=&quot;خَبْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَبْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A daughter;&lt;/i&gt; syn. بِنْتٌ. (K, TA. [In the CK, النَّبْتُ is put for البِنْتُ.]) Hence the prov., خَبْاَةٌ خَيْرٌ مِنْ يَفَعَةِ سَوْءٍ [&lt;i&gt;A daughter is better than a grown-up boy of evil deeds&lt;/i&gt;]. (TA.) [In Freytag&#39;s Arab. Prov., i. 438, the first word in this prov. is written خُبَاَة, and followed by صِدْقٍ.] Aboo-Zeyd Sa&#39;eed Ibn-Ows El-Ansáree entitled one of his books كتاب خباة because he commenced it by mentioning خباة in the sense of بنت, quoting the foregoing prov. in confirmation thereof. (TA.) &lt;pb n=&quot;693&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n9848&quot; key=&quot;خُبْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خُبْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see خَبْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9849&quot; key=&quot;اِمْرَاَةٌ خُبَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اِمْرَاَةٌ خُبَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A woman who shows herself and then hides herself:&lt;/i&gt; (S, O, TA:) [like قُبَعَةٌ:] or &lt;i&gt;a woman who keeps to her house,&lt;/i&gt; or &lt;i&gt;tent.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9850&quot; key=&quot;خِبَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خِبَا=ءٌ<br>\
+                     خبا=ء<br>\
+                  &lt;i&gt;A well-known kind of structure;&lt;/i&gt; (K;) [i. e.] &lt;i&gt;a kind of tent,&lt;/i&gt; (Mgh, TA,) &lt;i&gt;made of wool,&lt;/i&gt; (Mgh, Msb,) or &lt;i&gt;of camels&#39; fur,&lt;/i&gt; or sometimes &lt;i&gt;of&lt;/i&gt; [&lt;i&gt;goats&#39;&lt;/i&gt;] &lt;i&gt;hair,&lt;/i&gt; sometimes &lt;i&gt;upon two poles,&lt;/i&gt; or &lt;i&gt;three;&lt;/i&gt; what is above this kind being termed بَيْتٌ: (Msb:) or &lt;i&gt;a tent having one pole;&lt;/i&gt; that which has more than one pole being termed بيت: (AZ, TA in art. ربع:) [or] also applied to &lt;i&gt;a&lt;/i&gt; <br>\
+                  بيت [or &lt;i&gt;tent&lt;/i&gt;] &lt;i&gt;of any kind:&lt;/i&gt; (Towsheeh, TA voce بَيْتٌ, q. v.:) pl. اَخْبِيَةٌ, (TA,) or اَخْبِيَةٌ: (Msb:) it is from خَبَاَهُ “ he hid it, ” or “ concealed it: ” (Mgh:) or it belongs to art. خبى: (K:) most of the lexicologists hold that its radical letters are خبى: some, that they are خبو: IDrd asserts that they are خبا. (TA:) [See also art. خبى.]       -A2-  &lt;i&gt;A mark made with a hot iron upon some secret part of an excellent she-camel:&lt;/i&gt; pl. اَخْبِيَةٌ. (Lth, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9851&quot; key=&quot;خَبِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَبِىْءٌ<br>\
+                     خبىء<br>\
+                     خبيء<br>\
+                     خبي<br>\
+                  &lt;/form&gt;: see خَبْءٌ: and see also 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9852&quot; key=&quot;خَبِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَبِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and its pl. خَبَايَا: see خَبٌءٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9853&quot; key=&quot;كَيْدٌ خَابِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَيْدٌ خَابِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;An artifice,&lt;/i&gt; or &lt;i&gt;a stratagem, resulting in disappointment; i. q.&lt;/i&gt; <br>\
+                  خَايِبٌ; (AHei, K;) formed [from the latter] by transposition. (AHei.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9854&quot; key=&quot;خَابِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَابِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, as sometimes pronounced, (Msb,) or خَابِيَةٌ, with the ء suppressed, (S, Msb, K,) because of frequent usage, (Msb,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  حُبٌّ [q. v.]; (S, K;) i. e. &lt;i&gt;A large jar:&lt;/i&gt; pl. خوابى [i. e. خَوَابِيُ, or خَوَابٍ]: (TA:) from خَبَاَهُ “ he hid it, ” or “ concealed it. ” (S, Msb.) ―         -b2-  [Hence,] بِنْتُ الخَابِيَةِ (assumed tropical:)  &lt;i&gt;Wine.&lt;/i&gt; (Har p. 365.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9855&quot; key=&quot;مَخْبَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَخْبَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place,&lt;/i&gt; or &lt;i&gt;chamber, for hiding&lt;/i&gt; or &lt;i&gt;concealing&lt;/i&gt; [&lt;i&gt;anything&lt;/i&gt;]; &lt;i&gt;a secret place&lt;/i&gt; or &lt;i&gt;chamber:&lt;/i&gt; pl. مَخَابِيُ. (MA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9856&quot; key=&quot;جَارِيَةٌ مُخَبَّاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَارِيَةٌ مُخَبَّاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; so in the [S and] O, and in some of the correct copies of the K; in other copies of the K مُخْبَاَةٌ; (TA;) [and thus in the CK;] &lt;i&gt;A girl that is&lt;/i&gt; [&lt;i&gt;kept in the house,&lt;/i&gt; or &lt;i&gt;tent,&lt;/i&gt;] &lt;i&gt;concealed from view;&lt;/i&gt; or &lt;i&gt;that conceals herself;&lt;/i&gt; (S;) &lt;i&gt;that is kept behind,&lt;/i&gt; or &lt;i&gt;within, the curtain;&lt;/i&gt; (K, TA;) &lt;i&gt;not going forth:&lt;/i&gt; or (TA) &lt;i&gt;that is not yet married.&lt;/i&gt; (Lth, K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9857&quot; key=&quot;مُخْتَبِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُخْتَبِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;who conceals himself in order that he may see without the knowledge of him who is seen.&lt;/i&gt; (Mgh.)   &lt;/entryFree&gt; <br>\
+' } );

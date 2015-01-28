@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'نحل1<br>\
+نَحَِلَ جِسْمُهُ<br>\
+His body became lean, or<br>\
+emaciated. (S.)<br>\
+نِحْلَةٌ<br>\
+i. q.<br>\
+فَرِيضَةٌ; or دِيَانَةٌ; and دِينٌ, as in<br>\
+the saying مَا نِحْلَتُكَ [What is thy religion?].<br>\
+(TA.)<br>\
+' } );

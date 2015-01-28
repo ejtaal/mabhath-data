@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>حيج</em>            1                  حيج<br>\
+<b>حَاجَ</b>               1     <br>\
+                     حَاجَ<br>\
+                     حاج<br>\
+                  , aor. يَحِيجُ, (Kr, K,) inf. n. حَيْجٌ, (TA,) <i>i. q.</i> <br>\
+                  حَاجَ, aor. يَحُوجُ: (Kr, K:) extr., because the ا of حَاجَةٌ [which is its logical root] is [originally] و. (TA.)    </entryFree> <br>\
+<b>اَحْيَجَتِ الاَرْضُ</b>               1     <br>\
+                     اَحْيَجَتِ الاَرْضُ<br>\
+                     ذ<br>\
+                  , (K,) irregular, like اَحُوَجَ, (TA,) and اَحَاجَت, <i>The land produced the thorny plants,</i> or <i>trees, called</i> <br>\
+                  حَاجٌ: (K:) or <i>abounded therewith.</i> (TA.)    </entryFree> <br>\
+<b>حَاجٌ</b>               1     <br>\
+                     حَاجٌ<br>\
+                     حاج<br>\
+                  , a coll. gen. n., n. un. with ة, (TA,) <i>A certain kind of thorny plant,</i> or <i>tree;</i> (S, K;) <i>a plant of the sour kind</i> (مِنَ الحَمْضِ): accord. to ISd, <i>a kind of thorny plant</i> or <i>tree, i. q.</i> <br>\
+                  كَبُرٌ [or <i>caper</i>]: or <i>a certain plant different from that just named:</i> or <i>a certain kind of tree:</i> accord. to AHn, <i>an evergreen, of which the roots extend far into the ground; which, cooked, is used as a medicine; having slender and long leaves, seeming as numerous as the thorns:</i> (TA:) [<i>asparago sylvestri similis:</i> (Golius, from Ibn-Beytár:) this name, and عَاقُول, are now applied by the Arabs to the <i>plant called by European botanists hedysarum alhagi:</i> see عَاقُولٌ and تَرَنْجُبِينٌ:] dim. ↓ <br>\
+      حُيَيْجٌ; therefore its medial radical letter is ى; (K;) and ↓ <br>\
+      حِيَيْجٌ is a chaste dial. var. of this dim., agreeably with a usage observed in similar cases [when the medial radical letter is ى]. (TA.)    </entryFree> <br>\
+<b>حُيَيْجٌ</b>               1     <br>\
+                     حُيَيْجٌ<br>\
+                     حييج<br>\
+                   and حِيَيْجٌ: see what next precedes.   </entryFree> <br>\
+' } );

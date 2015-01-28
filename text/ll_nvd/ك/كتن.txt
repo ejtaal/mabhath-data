@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كتنكَتَنٌ<br>\
+for كَتَّانٌ: see an ex. in a verse cited<br>\
+voce شَارِبٌ.<br>\
+' } );

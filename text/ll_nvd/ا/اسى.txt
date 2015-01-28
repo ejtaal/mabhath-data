@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'اسى1<br>\
+أَسِىَ, aor. يَأْسَى, inf. n. أَسًى or أَسًا, He<br>\
+grieved, or mourned, (S, M, Msb, K,) عَلَيْهِ [for<br>\
+him or it]. (M, K.) See art. اسو.<br>\
+أَسٍ, [agreeably with analogy, as part. n. of<br>\
+أَسِىَ,] (M,) or ↓ آسٍ (K,) or ↓ أَسِىٌّ (Msb,) and<br>\
+↓ أَسْيَانُ, (M, K,) a dial. var. of أَسْوَانُ, (TA, [see<br>\
+art. اسو]) Grieving, mourning, or sorrowful:<br>\
+(M, Msb, K:) fem. [of the first, or second,]<br>\
+أَسِيَةٌ (M,) or آسِيَةٌ, (K,) and [of اسيان] أَسْيَانَةٌ<br>\
+(M, K) and أَسَيْى: (TA:) pl. [of اسيان] أَسْيَانُونَ<br>\
+(M, K) and أَسَايُونَ [which is extr. and somewhat<br>\
+doubtful] (K) and [of اسيانة] أَسْيَانَاتٌ and [of<br>\
+اسيى or of أَسِيَةٌ] أَسَايَا (M, K) and [of اسيى]<br>\
+أَسْيَيَاتٌ. (K.)<br>\
+أَسْيَانُ see above.<br>\
+أَسِىٌّ see above.<br>\
+آسٍ see above.<br>\
+آسِيَةٌ mentioned in this art. in the K: see آسٍ<br>\
+in art. اسو.<br>\
+' } );

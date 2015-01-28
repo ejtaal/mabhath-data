@@ -1,0 +1,50 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نام&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نام<br>\
+&lt;entryFree id=&quot;n44198&quot; key=&quot;نَامَتْ رِجْلُهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَامَتْ رِجْلُهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;I. q.&lt;/i&gt; <br>\
+                  خَدِرَتْ [&lt;i&gt;His leg,&lt;/i&gt; or &lt;i&gt;foot, became benumbed,&lt;/i&gt; or &lt;i&gt;torpid&lt;/i&gt;]. (TA in art. بسر.) ―         -b2-  نَامَ (assumed tropical:)  &lt;i&gt;It&lt;/i&gt; (a woman&#39;s anklet) &lt;i&gt;ceased to sound,&lt;/i&gt; by reason of the fulness of the leg: like as one says [in the contr. case], استيقظ. (TA in art. يقظ.) ―         -b3-  نَامَ has for its inf. ns. نَوْمٌ and مَنَامٌ. (Msb.) ―         -b4-  نَامَ الثَّوْبُ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  رَقَدَ [q. v.] (A, art. رقد.) ―         -b5-  نَامَتِ السُّوقُ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  رَقَدَت [q. v.] (Th, in TA, art. رقد.) ―         -b6-  نَامَ (tropical:)  &lt;i&gt;He lay; as opposed to he sat and he stood.&lt;/i&gt; See نَايِمٌ. ―         -b7-  نَامَ عَنْ حَاجَتِهِ <br>\
+                  &lt;i&gt;He cared not for the object of his want, neglected it.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44199&quot; key=&quot;نَوَّمَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     نَوَّمَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اَنَامَ (assumed tropical:)  &lt;i&gt;It benumbed,&lt;/i&gt; or &lt;i&gt;torpified:&lt;/i&gt; see نَامَتْ رِجْلُهُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44200&quot; key=&quot;نَاوَمْتُهُ فِى شِعَارٍ وَاحِدٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     نَاوَمْتُهُ فِى شِعَارٍ وَاحِدٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;I slept with him in one under-garment&lt;/i&gt;]. (S, art. شعر.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَنْاَمَ<br>\
+                  &lt;/form&gt; see 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44201&quot; key=&quot;اِسْتَنَامَ اـِليْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اِسْتَنَامَ اـِليْهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He trusted to him, and became quiet, or easy, in mind; relied upon him.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44202&quot; key=&quot;اِمْرَاَةٌ نَوُومُ الضُّحَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اِمْرَاَةٌ نَوُومُ الضُّحَى<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  رَقُودُ الضحى [which see]. (A, art. رقد.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44203&quot; key=&quot;نَايِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَايِمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;Lying; as opposed to sitting and standing.&lt;/i&gt; (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44204&quot; key=&quot;اَنْوَمُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنْوَمُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;More, or most, prone to sleep&lt;/i&gt;]. (A, art. فهد.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44205&quot; key=&quot;مَنَامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَنَامٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Time of sleep.&lt;/i&gt; (Jel, xxxix. 43.) See also 1.   &lt;/entryFree&gt; <br>\
+' } );

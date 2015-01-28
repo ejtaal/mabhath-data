@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'يتنوَلَدَتْهُ يَتْنا<br>\
+She brought him forth feet foremost.<br>\
+(M.) In Fresnel&#39;s three copies of the Aghánee,<br>\
+(see his “ Seconde lettre sur l&#39;Histoire des Arabes<br>\
+avant l&#39;Islamisme,” Journal Asiatique, 3rd Series,<br>\
+no. 16,) erroneously written نينا.<br>\
+' } );

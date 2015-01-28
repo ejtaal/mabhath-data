@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كهب</em>            1                  كهب<br>\
+<b>كُهْبَةٌ</b>               1     <br>\
+                     كُهْبَةٌ<br>\
+                     ذ<br>\
+                  , accord. to Ibn El-Aarábee, <i>Yellowness inclining to redness.</i> (TA. voce حُسْبَة.)   </entryFree> <br>\
+' } );

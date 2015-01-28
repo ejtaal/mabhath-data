@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>زغبر</em>            1                  زغبر<br>\
+<b>زَغْبَرَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     زَغْبَرَ<br>\
+                     ذ<br>\
+                  <i>It</i> (a garment, or piece of cloth,) <i>had what is termed</i> <br>\
+                  زِغْبِر, or زِغْبُر, &amp;amp;c., i. e. زِيْبِر [or <i>nap</i>]. (O, K.)    </entryFree> <br>\
+<b>زِغْبِرٌ</b>               1     <br>\
+                     زِغْبِرٌ<br>\
+                     ذ<br>\
+                  , (O and TA, and so in a copy of the K,) or زَغْبَرٌ, or زِغْبَرٌ, (as in two different copies of the K,) and زِغْبُرٌ, (O and TA, and so accord. to a copy of the K,) or زَغْبُرٌ, (accord. to another copy of the K,) of a garment, or piece of cloth, <i>i. q.</i> <br>\
+                  زِيْبِرٌ [i. e. The <i>nap:</i> see زِيْبِرٌ, in art. زبر]. (O, K.) [Hence, app., supposing زَغْبَرٌ to be a dial. var., having the signification expl. above,] اَخَذَ الشَّىْءَ <br>\
+                  بِزَغْبَرِهِ <br>\
+                  <i>He took the thing altogether,</i> (O, K, * TA,) <i>leaving nothing of it;</i> as also بِزَاْبَرِهِ, and بِزَوْبَرِهِ. (O, TA.)   </entryFree> <br>\
+' } );

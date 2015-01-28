@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كلثب</em>            1                  كلثب<br>\
+<b>كَلْثَبٌ</b>               1     <br>\
+                     كَلْثَبٌ<br>\
+                     ذ<br>\
+                   and كُلَاثِبٌ <br>\
+                  <i>Contracted</i> [<i>in hand</i> or <i>mind</i>]: <i>avaricious:</i> (K:) <i>dissembling,</i> or <i>using craft,</i> or <i>deceit, in affairs:</i> app. a dial. syn. of كَلْتَبٌ. (TA.) See also كَلْبَثٌ.   </entryFree> <br>\
+' } );

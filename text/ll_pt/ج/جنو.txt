@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>جنو</em>            1                  جنو<br>\
+<b>جَنًا</b>               1     <br>\
+                     جَنًا<br>\
+                     جن<br>\
+                     جنا<br>\
+                  <i>i. q.</i> <br>\
+                  جَنَاٌ [inf. n. of جَنِيَ, q. v.]. (Sgh, K.)    </entryFree> <br>\
+<b>اَجْنَا</b>               1     <br>\
+                     اَجْنَا<br>\
+                     ذ<br>\
+                  , applied to a man, <i>i. q.</i> <br>\
+                  اَجْنَاُ, q. v. (Sgh, K.) And [its fem.] جَنْوَا=ءُ, <i>i. q.</i> <br>\
+                  جَنْا=ءُ, (Sgh, K,) applied to a ewe, or a she-goat, meaning <i>Having her horns bending backwards.</i> (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,43 @@
+load_data( { book: 'll_nvd', text: 'نبز1<br>\
+نَبَزَهُ, aor.<br>\
+نَبِزَ, inf. n. نَبْزٌ, He called him, or<br>\
+named him, by a by-name, surname, or nickname;<br>\
+he by-named him, surnamed him, or nicknamed<br>\
+him; syn. لَقَّبَهُ; (S, Msb, K;) mostly signifying<br>\
+he called him, or named him, by a nickname, a<br>\
+name of reproach, or an opprobrious appellation;<br>\
+(TA;) as also ↓ نبّزهُ: (K:) or the latter is with<br>\
+teshdeed to denote muchness, or frequency, or<br>\
+repetition, of the action, or its application to<br>\
+many objects: you say, بِالصَّبْيَانِ ↓ فُلَانٌ يُنَبِّزُ<br>\
+Such a one by-names, surnames, or [rather] nicknames, the children; syn. يُلَقِّبْهُمْ. (S.) ―<br>\
+-b2-  النَّبْزُ<br>\
+is also syn. with اللَّمْزُ; (K;) or is like the latter:<br>\
+(TA;) [i. e., نَبَزَهُ also signifies He upbraided, or<br>\
+reproached, him; or the like.]<br>\
+2<br>\
+نَبَّزَ see 1, in two places.<br>\
+6<br>\
+تنابزوا, (Msb, K, *) or تنابزوا بِالْأَلْقَابِ,<br>\
+(S,) They called one another by by-names, surnames, or [rather] nicknames: (S, Msb, * K:)<br>\
+or they upbraided, reproached, or reviled, one<br>\
+another; (K, TA;) calling one another by<br>\
+names of reproach. (TA.) So in the Kur, xlix. 11;<br>\
+where the doing so is forbidden. (TA.)<br>\
+نَبَزٌ, [or, accord. to the Msb, it seems to be<br>\
+نَبْزٌ, for it is there said to be an inf. n. used as a<br>\
+subst., but this form I have never met with<br>\
+elsewhere,] A by-name; or surname; or nickname; syn. لَقَبٌ; (S, Msb, K;) mostly, the<br>\
+latter; i. e., a name of reproach; an opprobrious<br>\
+appellation: (TA:) but Kh, [makes it, contr.<br>\
+to common usage, to signify a proper name; for<br>\
+he] says, that names are of two kinds; أَسْمَآءُ نَبَزٍ,<br>\
+such as زَيْدٌ and عَمْرُو; and أَسْمَآءُ عَامٍّ, such as<br>\
+فَرَسٌ and رَجُلٌ and the like: (TA:) pl. أَنْبَازٌ. (S.)<br>\
+نَبِزٌ Ignoble, or mean, (Sgh, K,) in his grounds<br>\
+of pretension to respect, or his rank or quality,<br>\
+and in his natural disposition. (K.)<br>\
+رَجُلٌ نُبَزَةٌ A man who is much accustomed to<br>\
+call others by by-names, surnames, or [rather]<br>\
+nicknames. (K.)<br>\
+' } );

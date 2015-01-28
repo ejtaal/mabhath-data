@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سطرنج</em>            1                  سطرنج<br>\
+<b>سِطْرَنْجٌ</b>               1     <br>\
+                     سِطْرَنْجٌ<br>\
+                     ذ<br>\
+                   [commonly pronounced سَطْرَنْج] a dial. var. of شِطْرَنْجٌ. (K in art. شطرنج, q. v.)   </entryFree> <br>\
+' } );

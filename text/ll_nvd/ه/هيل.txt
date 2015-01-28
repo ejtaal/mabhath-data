@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'هيل7<br>\
+اِنْهَالَ<br>\
+It (sand, &amp;c.) poured down. (S, K.)<br>\
+―<br>\
+-b2-  اِنْهَدَمَ الجِدَارُ وَآنْهَالَ [The wall fell in ruins,<br>\
+or to pieces, or became a ruin, and broke, or<br>\
+crumbled down]. (K in art. قيض.) So<br>\
+rendered voce اِنْقَاضَ, art. فيض.<br>\
+هَيْلٌ<br>\
+inf. n. of هَالَ: see حَثَا. ―<br>\
+-b2-  هَيْلٌ and<br>\
+↓ هَائِلٌ Sand that will not remain steady in its<br>\
+place, but falls down. (JK.)<br>\
+هَيُولُى<br>\
+and هَيُّولَى: wrongly mentioned in art.<br>\
+هول. See مَادَّةٌ.<br>\
+مَهِيلٌ<br>\
+: see كَثِيبٌ.<br>\
+' } );

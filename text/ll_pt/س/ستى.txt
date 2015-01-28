@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>ستى</em>            1                  ستى<br>\
+<b>سَتَى</b>               1     <br>\
+                     سَتَى<br>\
+                     ذ<br>\
+                  , (K,) aor. يَسْتِى, said of a camel, (TA,) <i>He hastened, made haste,</i> or <i>went quickly;</i> (K, TA;) as also سَدَى: mentioned by Az. (TA.)    </entryFree> <br>\
+                     سَتَّىَ<br>\
+                   see 4, in two places.    </entryFree> <br>\
+                     سَاْتَىَ<br>\
+                  ساتاهُ, (K,) inf. n. مُسَاتَاةٌ, (TA,) <i>He played with him the</i> [<i>game called</i>] شَفَلَّقَة [expl. in art. شفلق in the K as consisting in one&#39;s striking with the hand, or with the fore part of the foot, the hinder part, or backside, of a man, from behind him, and so throwing him down prostrate: whence it seems that the verb is perhaps irregularly derived from the سَتَهَهُ, q. v.]. (K.)    </entryFree> <br>\
+<b>استى الثَّوْبَ</b>               1     <br>\
+                     استى الثَّوْبَ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      ستّاهُ (M, TA) are syn. with اسداهُ (S, K) and سدّاهُ, (M, TA,) [i. e. <i>He set,</i> or <i>disposed, the warp of the garment,</i> or <i>piece of cloth,</i>] said of a weaver; <i>contr. of</i> <br>\
+                  اَلْحَمَهُ; except that ↓ <br>\
+      ستّى means he did so for himself and for another, whereas سدّى means he did so for another, تسدّى meaning he did so for himself. (TA.)    </entryFree> <br>\
+                     اـِسْتَوْتَىَ<br>\
+                  [accord. to the S and K]. اِسْتَاتَتْ, inf. n. اِسْتِيتَا=ءٌ, said of a she-camel, <i>She became relaxed by reason of last:</i> (S, K:) thus mentioned here by J and in the K; but its proper place, as is evident, is art. اتى, in which it has been explained. (TA: see 10 in art. اتى.)    </entryFree> <br>\
+<b>سَتًى</b>               1     <br>\
+                     سَتًى<br>\
+                     ذ<br>\
+                   is <i>syn. with</i> <br>\
+                  سَدًى, (S, M, K,) relating to a garment, or piece of cloth; (S, M;) as also ↓ <br>\
+      اُسْتِىٌّ; (K;) both signify [The <i>warp</i> thereof;] the <i>contr. of</i> <br>\
+                  لُحْمَةٌ; like سَدًى and اُسْدِىٌّ: (M:) and ↓ <br>\
+      سَتَاةٌ is [the n. un. of the former, or] <i>syn. with</i> <br>\
+                  سَدَاةٌ, relating to a garment, or piece of cloth: (AZ, S:) [whence,] one says to him who neither harms nor profits, ↓ <br>\
+      مَا اَنْتَ لُحْمَةٌ وَ لَا سَتَاةٌ [lit. <i>Thou art neither a woof nor a warp:</i> see also a similar saying voce نِيرٌ]: (TA: [see also سَدًى:]) and ↓ <br>\
+      اُسْتِىٌّ signifies also ثَوْبٌ مُسْدًى or مُسَدًّى (accord. to different copies of the K) [lit. <i>a garment,</i> or <i>piece of cloth, having its warp set</i> or <i>disposed;</i> perhaps meaning <i>having a good,</i> or <i>strong, warp;</i> in art. اسد written, as from the L, مَسْدِىٌّ, for which I find no other authority]; so expl. by AHeyth: but accord. to others, it is what the weavers term سَتًى, as mentioned above, i. e. the <i>warp.</i> (TA. [See also اُسْتِىٌّ in art. است, and اُسْدِىٌّ in art. اسد and in art. سدو and سدى.])       -A2-  Also <i>i. q.</i> <br>\
+                  مَعْرُوفٌ [as meaning <i>A favour, benefit, benefaction,</i> or <i>the like</i>]; (K;) in this sense also a dial. var. of سَدًى. (TA.)       -A3-  Also a dial. var. of سَدًى signifying <i>Dates while continuing green and small;</i> syn. بَلَحٌ. (TA.)    </entryFree> <br>\
+<b>سَتَاةٌ</b>               1     <br>\
+                     سَتَاةٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, in two places.    </entryFree> <br>\
+<b>اُسْتِىٌّ</b>               1     <br>\
+                     اُسْتِىٌّ<br>\
+                     ذ<br>\
+                  : see سَتًى, above, in two places.   </entryFree> <br>\
+' } );

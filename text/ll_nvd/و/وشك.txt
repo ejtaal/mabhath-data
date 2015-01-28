@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'وشك3<br>\
+يُوشِكُ أَنْ يَكُونَ<br>\
+It will soon be: (S, Msb,<br>\
+K, TA:) or it is near to being. (Msb, TA.)<br>\
+وَشْكَانٌ<br>\
+an anomalous inf. n., or perhaps a<br>\
+simple subst.: see 1 in art. شنأ.<br>\
+وَشِيكًا<br>\
+Quickly, or speedily. (IB, TA.) See<br>\
+an ex. in a verse cited voce تَارَةٌ.<br>\
+' } );

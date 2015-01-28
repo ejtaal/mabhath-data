@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'دأو1<br>\
+دَأَا, first pers. دَأَوْتُ, aor. يَدْأَى, inf. n. دَأْوٌ:<br>\
+see 1 in the next art.<br>\
+' } );

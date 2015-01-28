@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'لعللَعَلَّ [May-be; perhaps]; a word denoting<br>\
+hope and fear. (K.) It governs the subject in<br>\
+the accus. case, and the predicate in the nom.<br>\
+See Ibn-&#39;Akeel, ed. of Dieterici, p. 90; and see<br>\
+لَيْتَ. ―<br>\
+-b2-  لَعَلَّ, in its original and general acceptation, expresses hope; but in the word of God<br>\
+it [often] expresses certainty, and may be rendered Verily. (Jel, ii. 19.)<br>\
+' } );

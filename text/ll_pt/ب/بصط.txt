@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>بصط</em>            1                  بصط<br>\
+<b>بَصْطٌ</b>               1     <br>\
+                     بَصْطٌ<br>\
+                     بصط<br>\
+                  , [inf. n. of بَصَطَ,] <i>i. q.</i> <br>\
+                  بَسْطٌ, in all its meanings: (K:) the س, with ط, is changed into ص because of the nearness of the places of utterance. (L.)   </entryFree> <br>\
+' } );

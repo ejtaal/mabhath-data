@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قحلقَحُولٌ<br>\
+, applied to a man and to a horse, i. q.<br>\
+عِنِّينٌ. (IAar in TA, art. عجر.)<br>\
+إِنْقَحْلٌ<br>\
+; see إِنْزَهْوٌ.<br>\
+' } );

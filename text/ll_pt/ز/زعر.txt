@@ -1,0 +1,47 @@
+load_data( { book: 'll_pt', text: '<em>زعر</em>            1                  زعر<br>\
+<b>زَعِرَ</b>               1     <br>\
+                     زَعِرَ<br>\
+                     ذ<br>\
+                  , (S, A, Msb, K,) aor.      <br>\
+                     زَعَرَ<br>\
+                  , (Msb, K,) inf. n. زَعَرٌ, (S, A, Msb, K,) <i>His hair,</i> (S, A, Msb,) and <i>his plumage,</i> (A,) <i>was,</i> or <i>became, scanty,</i> (S, A, Msb,) <i>and thin;</i> (A;) as also ↓ <br>\
+      ازعارّ: (A:) and <i>it</i> (hair, and plumage, K, and fur, TA) <i>was,</i> or <i>became, scanty, and thin;</i> (K, TA;) as also ↓ <br>\
+      ازعرّ and ↓ <br>\
+      ازعارّ. (K.) ―         -b2-  Also, inf. n. as above, said of a man, (assumed tropical:)  <i>His good things,</i> or <i>wealth,</i> or <i>his beneficence, became scanty,</i> or <i>wanting; he became poor;</i> or <i>he became niggardly.</i> (TA.) ―         -b3-  And, inf. n. as above, (tropical:)  <i>It</i> (the disposition) <i>became evil,</i> or <i>bad:</i> but the verb is  seldom used in this sense. (TA.) See زَعَارَّةٌ.    </entryFree> <br>\
+                     اـِزْعَرَّ<br>\
+                   see above.    </entryFree> <br>\
+                     اـِزْعَاْرَّ<br>\
+                   see 1, in two places.    </entryFree> <br>\
+<b>زَعَرٌ</b>               1     <br>\
+                     زَعَرٌ<br>\
+                     ذ<br>\
+                   inf. n. of 1 [q. v.]. ―         -b2-  See also زَعَارَّةٌ.    </entryFree> <br>\
+<b>زَعِرٌ</b>               1     <br>\
+                     زَعِرٌ<br>\
+                     ذ<br>\
+                  : see اَزْعَرُ, in two places: ―         -b2-  and see also the paragraph here following.    </entryFree> <br>\
+<b>زُعْرُورٌ</b>               1     <br>\
+                     زُعْرُورٌ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  A man <i>of bad disposition,</i> or <i>illnatured:</i> (S, K:) the vulgar say ↓ <br>\
+      زَعِرٌ. (S. [زَعِرُ الخُلُقِ occurs in the TA in art. لظ.])       -A2-  <i>A well-known fruit;</i> (S;) the <i>fruit of a well-known tree;</i> (K;) the <i>fruit of a tree, of which there is a red species and a yellow, having a round and hard stone;</i> (Mgh;) <i>a fruit of the desert, in make resembling the</i> <br>\
+                  نَبِق [or <i>fruit of the lote-tree</i>], <i>and in the taste of which is acidity;</i> (Msb;) <i>it may be the wild</i> <br>\
+                  نَبِق: (Msb, voce سِدْرٌ:) AA says that the نُلْك is the زعرور; and IDrd, that the Arabs do not know it: [it is a coll. gen. n.:] the n. un. is with ة: (TA:) [the name is now applied to the <i>medlar,</i> or <i>a species thereof:</i> accord. to Golius, the “ <i>mespilum;</i> special. quod genus <i>aronium</i> vocat Dios. i. 169: ”] accord. to ISh, the <i>tree called</i> <br>\
+                  دُلْب: (T:) this, says Sgh, is different from what J has mentioned. (TA.)    </entryFree> <br>\
+<b>زَعَارَّةٌ</b>               1     <br>\
+                     زَعَارَّةٌ<br>\
+                     ذ<br>\
+                  , (S, A, Msb, K,) [respecting the form of which see حَمَارَّةٌ,] and زَعَارَةٌ, (S, A, K,) the latter a vulgar form, (S,) and ↓ <br>\
+      زَعَرٌ, (A,) (tropical:)  <i>Illnature; excessive perverseness</i> or <i>crossness:</i> (S, Msb, K:) nouns having no corresponding verb: (S:) or the verb is ↓ <br>\
+      زَعِرَ, but it is seldom used. (TA.)    </entryFree> <br>\
+<b>زَيْعَرٌ</b>               1     <br>\
+                     زَيْعَرٌ<br>\
+                     ذ<br>\
+                   (tropical:)  A man <i>having little wealth.</i> (K, TA.)    </entryFree> <br>\
+<b>اَزْعَرٌ</b>               1     <br>\
+                     اَزْعَرٌ<br>\
+                     ذ<br>\
+                   A man (S) <i>having scanty hair,</i> (S, A, Msb,) <i>and thin:</i> and a bird <i>having scanty and thin plumage:</i> (A:) fem. زَعْرَا=ءُ: (A, Msb:) and hair and plumage that is <i>scanty and thin;</i> as also ↓ <br>\
+      زَعِرٌ. (K.) ―         -b2-  (tropical:)  A place <i>having few plants, or little herbage;</i> (S, A, K;) as also ↓ <br>\
+      زَعِرٌ: (K, TA: in the CK, زَعْرٌ:) pl. [of the former] زُعْرٌ. (TA.)   </entryFree> <br>\
+' } );

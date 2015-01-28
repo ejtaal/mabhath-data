@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>زنبق</em>            1                  زنبق<br>\
+<b>زَنْبَقٌ</b>               1     <br>\
+                     زَنْبَقٌ<br>\
+                     ذ<br>\
+                   [mentioned in the S and Msb in art. زبق] <i>Oil of jasmine:</i> (S, K:) or this is called دُهْنُ <br>\
+                  الزَّنْبَقِ, and is of the dial. of El-&#39;Irák; (Az, TA;) [for] it is said that زَنْبَقٌ signifies the <i>jasmine</i> [itself]: (Msb:) or, as some say, it is <i>a certain flower, which is put into</i> <br>\
+                  شَيْرَج [i.e. <i>oil of sesame,</i> or, as being likened thereto, because of its clearness, <i>white oil before it becomes altered</i>], <i>and the like, and of which is</i> [<i>thus</i>] <i>made an</i> [<i>odoriferous</i>] <i>oil;</i> like as is done with other species of flowers. (MF.) [In the present day, this name is applied to several species of plants: namely, <i>Mogorium sambac</i> of Juss., Lam., Desfont.: ―         -b2-  <i>Nyctanthes sambac</i> of Linn.; <i>nyctanthes undulata</i> in notis Amœn. academ. 4, p. 449: (Delile, Flor. Aegypt. Illustr., no. 8:) ―         -b3-  and <i>Iris germanica</i> of Linn.; or <i>Iris sambac</i> of Forsk.: (Idem, no. 26:) ―         -b4-  also the <i>lily.</i>] ―         -b5-  Also The [<i>musical reed,</i> or <i>pipe, called</i>] زَمَّارَة, (AA, T, TA,) or مِزْمَار. (Aboo-Málik, K.) ―         -b6-  اُمُّ زَنْبَقٍ <br>\
+                  <i>Wine:</i> (IAar, K, and T in art. ام:) or <i>wine such as is termed</i> <br>\
+                  فَيْهَجٌ and قِنْدِيدٌ. (IAmb, TA in art. فهج.)    </entryFree> <br>\
+<b>زَنْبَاقٌ</b>               1     <br>\
+                     زَنْبَاقٌ<br>\
+                     ذ<br>\
+                  <i>A certain herb,</i> or <i>leguminous plant, hot, burning,</i> or <i>biting, to the tongue, and that causes headache.</i> (K.)   </entryFree> <br>\
+' } );

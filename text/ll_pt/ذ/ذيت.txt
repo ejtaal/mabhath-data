@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>ذيت</em>            1                  ذيت<br>\
+<b>ذَيْتَ وَذَيْتَ</b>               1     <br>\
+                     ذَيْتَ وَذَيْتَ<br>\
+                     ذ<br>\
+                   (AO, S, M voce ذَا, Msb, * K) and ذَيْتِ وَذَيْتِ and ذَيْتُ وَذَيتُ, (K,) the last of which is unknown, except as mentioned by IKtt, (TA,) and ذَيَّةَ وَذَيَّةَ (M, K) and ذَيَّا=ءَ وَذَيَّا=ءَ, (K,) <i>i. q.</i> <br>\
+                  كَيْتَ وَكَيْتَ: (AO, S, M, Msb, * K:) so in the saying, كَانَ مِنَ الاَمْرِ ذَيْتَ وَذَيْتَ [&amp;amp;c., <i>Some of the circumstances of the case were thus and thus,</i> or <i>so and so,</i> or <i>such and such things</i>]. (AO, S, M.) It is plainly implied in the K [and the S] that the ت in ذيت is a radical letter, the last radical letter of the word: but AHei says that the ت in ذيت and كيت is substituted for ى; that they are originally ذَيَّةَ and كَيَّةَ; and that the ة is elided, and the ى which is the last radical letter is changed into ت: [in like manner also says ISd in the M, voce ذَا:] and most of the leading authorities on inflection assert the same: therefore, [though most persons would look for them among words of which the last radical letter  is ت,] they are incorrectly placed in the K [and in the S]. (MF.) Or ذَيْتَ is formed from ذَيْوٌ, by eliding the و and doubling the ى and then substituting for the teshdeed ت; and if you elide the ت and replace it by ه, you must restore the teshdeed, and say, كَانَ ذَيَّهْ وَذَيَّهْ. (S at the end of art. ذو.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,32 @@
+load_data( { book: 'll_nvd', text: 'بذقبَذْقٌ: see بَيْذَقٌ, in two places.<br>\
+بَاذَقٌ (Mgh, K) and ↓ بَاذِقٌ (K) [in my copy of<br>\
+the Msb erroneously written باذيق] a Persian<br>\
+word, arabicized; originally بَادَهْ, which signifies<br>\
+Wine: (A&#39;Obeyd, TA:) or juice of grapes cooked<br>\
+in the least degree, so as to be strong (Mgh,<br>\
+Msb, K) and intoxicating; an arabicized word;<br>\
+(Msb;) said to have been introduced by the<br>\
+Benoo-Umeiyeh, (TA,) and to have been unknown to the Prophet; (Mgh;) but there is a<br>\
+trad. of I&#39; Ab which is understood to mean that<br>\
+the Prophet forbade what is thus called: (Mgh,<br>\
+TA:) some assert it to mean that it existed not in<br>\
+his time; (TA;) but this latter assertion is weak.<br>\
+(Mgh.)<br>\
+بَاذِقٌ: see above.<br>\
+-A2-  It is also an imitative<br>\
+sequent to حَاذِقٌ. (K.)<br>\
+بَيْذَقٌ [meaning A pawn] in the game of chess<br>\
+is from ↓ بَيَاذَقَةٌ; (TA;) which latter signifies<br>\
+footmen, as opposed to horsemen, (AO, K, TA,)<br>\
+and is an arabicized word, from the Persian,<br>\
+(AO, TA,) originally پِيَادَهْ: (TA:) the pl. of<br>\
+بيذق is بَيَاذِقُ; for which a poet uses بُذُوقٌ, as<br>\
+though he suppressed the ى [in the sing.], making<br>\
+بيذق to become ↓ بَذْقٌ: (Ibn-Buzurj, TA:) or,<br>\
+accord. to El-Khárzenjee, (JK, TA,) ↓ بَذْقٌ signifies a guide in a journey; as also بَيْذَقٌ: (JK,<br>\
+K, TA:) or [in the CK “and”] small and light<br>\
+or active: (K, TA:) or, as in the Tekmileh,<br>\
+(TA,) short and light or active: (JK, TA:) and<br>\
+its pl. is بُذُوقْ. (JK, K.)<br>\
+بَيَاذِقَةٌ: see بَيْذَقٌ.<br>\
+' } );

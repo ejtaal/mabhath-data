@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>نغب</em>            1                  نغب<br>\
+<b>نَغَبَ</b>               1     <br>\
+                     نَغَبَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَغَبَ<br>\
+                   and      <br>\
+                     نَغُبَ<br>\
+                  , (inf. n. نَغْبٌ, TA,) <i>He</i> (a man, TA) <i>swallowed</i> saliva. (K.) ―         -b2-  نَغَبَ, (inf. n. نَغْبٌ, TA,) <i>It</i> (a bird) <i>sipped</i> water: you do not say of a bird شَرِبَ. (K.) ―         -b3-  نَغَبَ <br>\
+                  <i>He</i> (a man) <i>took in gulps,</i> or <i>gulped,</i> in drinking: (K:) and likewise an ass. (TA.) ―         -b4-  نَغِبْتُ مِنَ الاـِنَاءِ نُغَبًا, with kesr, <i>I drank in gulps from the vessel.</i> (ISk, S.)    </entryFree> <br>\
+<b>نَغْبَةٌ</b>               1     <br>\
+                     نَغْبَةٌ<br>\
+                     ذ<br>\
+                  <i>A hungering.</i> (K.) A tribe&#39;s <i>wanting food,</i> or <i>hungering:</i> syn. اـِقَفْارُ الحَىِّ. (K, as in some copies: [app. the right reading:] in other copies, اَقْفَار, which is pl. of قَفْرٌ. TA.) ―         -b2-  See نُغْبَةٌ.    </entryFree> <br>\
+<b>نُغْبَةٌ</b>               1     <br>\
+                     نُغْبَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      نَغْبَةٌ <br>\
+                  <i>A gulp;</i> or <i>as much as is swallowed at once;</i> of water &amp;amp;c.: (S, K:) or the ↓ latter signifies <i>a single act of gulping:</i> (K:) differing from the former like as [its syn.] جَرْعَةٌ does from جُرْعَةٌ: (TA:) pl. of the former نُغَبٌ: (S:) for which نُغَمٌ occurs in a verse. (TA.) ―         -b2-  Ex. وَاهًا مَا اَبْرَدَهَا مِنْ نُغْبَةٍ مَا اَبْرَدَهَا عَلَى الفُوَادِ <br>\
+                  تَعْسًا لِلْيَدَيْنِ وَالفَمِ (tropical:)  [<i>Excellent! How cool a gulp is it! How cool is it to the heart! May the hands and mouth perish!</i>] said on hearing of the death of an enemy, or of any trial or affliction that has befallen him. (A.)       -A2-  نُغْبَةٌ <br>\
+                  <i>A foul action.</i> (S, K.) So in the following saying, مَا جُرِّبَتْ عَلَيْهِ <br>\
+                  نُغْبَةٌ قَطُّ [<i>A foul action was never found to be chargeable upon him.</i>] (S.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>كرج</em>            1                  كرج<br>\
+<b>كَرِجَ</b>               1     <br>\
+                     كَرِجَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَرَجَ<br>\
+                  ; (or كَرَجَ, inf. n. كَرَجٌ, as in the L,) and ↓ <br>\
+      اكرج; (K;) and ↓ <br>\
+      كرّج; (S, K;) and ↓ <br>\
+      تكرّج; (S, MA, K;) <i>It</i> (bread) <i>spoiled,</i> or <i>became bad,</i> or <i>corrupt,</i> (S, MA, K,) <i>and was overspread with greenness;</i> (S, K;) <i>it became mouldy</i> or <i>musty.</i> (MA.) ―         -b2-  كَرَجَ <br>\
+                  <i>It</i> (a thing) <i>became corrupt.</i> (IAar, L.) ―         -b3-  ↓ <br>\
+      تكرّج <br>\
+                  <i>It</i> (wheat, or food, طَعَام,) <i>became spoiled, and overspread with greenness.</i> (L.)    </entryFree> <br>\
+                     كَرَّجَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اَكْرَجَ<br>\
+                   see 1.    </entryFree> <br>\
+                     تَكَرَّجَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>كُرَّجٌ</b>               1     <br>\
+                     كُرَّجٌ<br>\
+                     ذ<br>\
+                  <i>A</i> <br>\
+                  مُهْر [lit. a <i>horse-colt,</i> but app. meaning a <i>mock colt,</i> or <i>hobby horse,</i>] (K,) <i>with which one plays:</i> (TA:) [<i>a thing</i>] <i>made</i> (يُتَّخَذُ) <i>like a horse-colt, upon which one plays:</i> (Lth:) an arabicized word, from كُرَّهْ, (S, K,) which is the name of it in Persian. (S.) [Jereer, in two verses, mentions the جَلَاجِل, or little round bells, of a كرّج.]    </entryFree> <br>\
+<b>خُبْزٌ كَارِجٌ</b>               1     <br>\
+                     خُبْزٌ كَارِجٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مُكَرَّجٌ [<i>Bread that is spoiled, and overspread with greenness; mouldy bread</i>]. (IAar, L.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>بنفسج</em>            1                  بنفسج<br>\
+<b>بَنَفْسَجٌ</b>               1     <br>\
+                     بَنَفْسَجٌ<br>\
+                     بنفسج<br>\
+                  , of the measure قَعَلَّلٌ, like سَفَرْجَلٌ, (Msb,) [an arabicized word, from the Persian بَنَفْشَ; The <i>violet; viola odorata</i> of Linn: and accord. to Forskål (Flora AEgypt. Arab. p. ciii.) applied in El-Yemen to the “ <i>iris:</i> ” and (p. cxx.) “ <i>tagetes dubia?</i> ”] what is thus called is well known: <i>the smelling it in its fresh state is beneficial to those who are heated by wrath</i> (المَحْرُورِين), <i>and the continual smelling of it induces good sleep: the conserve made of it is beneficial for the pleurisy</i> (ذَاتُ الجَنْبِ), <i>and for inflammation of the lungs</i> (ذَاتُ الرِّيَةِ), <i>and for cough, and for headache.</i> (K.)   </entryFree> <br>\
+' } );

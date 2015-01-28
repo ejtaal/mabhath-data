@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نكعنِكْعَةٌ<br>\
+, so written for نَكَعَةٌ or نُكَعَةٌ in the O and<br>\
+K, voce سُوقَةٌ, q. v., [The head of a plant.]<br>\
+' } );

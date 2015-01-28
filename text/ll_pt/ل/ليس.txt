@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ليس</em>            1                  ليس<br>\
+<b>اَلَيْسَ</b>               1     <br>\
+                     اَلَيْسَ<br>\
+                     ذ<br>\
+                  : see the latter part of art. اَلَا.   </entryFree> <br>\
+' } );

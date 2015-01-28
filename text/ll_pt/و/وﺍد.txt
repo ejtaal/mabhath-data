@@ -1,0 +1,64 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;واد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  واد<br>\
+&lt;entryFree id=&quot;n41532&quot; key=&quot;وَاَدَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَاَدَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَيِدُ, (inf. n. وَاْدٌ, S, L, &amp;amp;c.) &lt;i&gt;He buried&lt;/i&gt; his daughter &lt;i&gt;alive&lt;/i&gt; (S, L, Msb, K) &lt;i&gt;in the grave,&lt;/i&gt; (S, L,) &lt;i&gt;and put a load of earth upon&lt;/i&gt; her. (A.) It was customary for a man in the time of paganism, when a daughter was born to him, to bury her alive when her mother brought her forth, from fear of reproach and want: but this is forbidden in the Kur. xvii. 33: and some of them used to bury their children alive in times of famine: (L:) the tribe of Kindeh used to bury their daughters alive. (S, L.) ―         -b2-  الوَاْدُ الخَفِىُّ a term used in a trad. as meaning &lt;i&gt;Extractio penis tempore concubitus, ne conciperet femina:&lt;/i&gt; as also الصُّغْرَى ↓ <br>\
+      المَوْوُودَةُ because this act resembles that of burying a child alive, and is done with the same motive. (L.) &lt;pb n=&quot;2914&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n41533&quot; key=&quot;تواّدت عَلَيْهِ الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تواّدت عَلَيْهِ الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The earth,&lt;/i&gt; or &lt;i&gt;the land, hid,&lt;/i&gt; or &lt;i&gt;concealed him, and&lt;/i&gt; [&lt;i&gt;as it were&lt;/i&gt;] &lt;i&gt;removed him:&lt;/i&gt; (T, :) formed by transposition from تودّات, [q. v. in art. ودا]. (T.) See 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41534&quot; key=&quot;اِتَّاَدَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِتَّاَدَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (originally اِوْتَاَدَ, S,) and ↓ <br>\
+      تَوَاَّدَ <br>\
+                  &lt;i&gt;He acted,&lt;/i&gt; or &lt;i&gt;behaved, with moderation, gentleness,&lt;/i&gt; or &lt;i&gt;deliberation, moderately, gently, deliberately,&lt;/i&gt; or &lt;i&gt;contr. of hastily: with gravity, staidness, sedateness,&lt;/i&gt; or &lt;i&gt;calmness:&lt;/i&gt; (T, S, M, A, L, Msb, K:) from تُوَدَةٌ [q. v.]: (S:) or from وَاْدٌ: or, as some say, formed by transposition, and from تَاَوَّدَت <br>\
+                  فِى قِيَامِهَا, meaning “ she (a woman) bent in her rising, by reason of her heaviness. ” (T, L.) Ex. اتّاد فِى اَمْرِهِ, and فِيهِ ↓ <br>\
+      تواّد, &lt;i&gt;He acted with moderation, gentleness, &amp;amp;c., in his affair:&lt;/i&gt; (S, * A, L, * Msb:) and فِى مَشْيِهِ <br>\
+                  &lt;i&gt;in his walk,&lt;/i&gt; or &lt;i&gt;pace,&lt;/i&gt; or &lt;i&gt;gait.&lt;/i&gt; (S, L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41535&quot; key=&quot;واْدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     واْدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      وَيِيدٌ <br>\
+                  &lt;i&gt;A sound,&lt;/i&gt; or &lt;i&gt;noise;&lt;/i&gt; (K;) absolutely: (TA:) or &lt;i&gt;a loud sound&lt;/i&gt; or &lt;i&gt;noise;&lt;/i&gt; (S, L, K;) as that of a wall falling, and the like. (L.) ―         -b2-  The &lt;i&gt;sound occasioned by vehement&lt;/i&gt; or &lt;i&gt;heavy treading&lt;/i&gt; of the ground: the &lt;i&gt;heavy sound&lt;/i&gt; of the feet of camels. (L.) ―         -b3-  Also the former, (L,) or both, (K,) The &lt;i&gt;braying&lt;/i&gt; (هَدِير) of a camel. (L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41536&quot; key=&quot;وَيِيدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَيِيدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and وَيِيدَةٌ (L, K) and ↓ <br>\
+      مَوْوُودَةٌ, (S, L, K,) and, by abbreviation, مَوْدَةٌ, (Abu-l-&#39;Abbás, T,) A daughter &lt;i&gt;buried alive.&lt;/i&gt; (S, L, K.) ―         -b2-  ↓ <br>\
+      المَوْوُودَةٌ <br>\
+                  الصُّغْرَى: see الوَاْدُ الخَفِىُّ, voce وَاَدَ. (L.) ―         -b3-  See وَاْدٌ. ―         -b4-  See also تُوَدَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41537&quot; key=&quot;وَايِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَايِدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A man &lt;i&gt;burying,&lt;/i&gt; or &lt;i&gt;who buries, his daughter,&lt;/i&gt; or &lt;i&gt;daughters alive.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41538&quot; key=&quot;تَوْءَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَوْءَدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see تُوَدَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41539&quot; key=&quot;تُوَدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُوَدَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, S, M, L, Msb, K) and تُوْدَةٌ (M, L, K) and تودة, without ء, [i. e., تُوَدَةٌ or تُودَةٌ,] (TA,) and ↓ <br>\
+      تَوْءَدٌ (M, L, K) and ↓ <br>\
+      وَيِيدٌ; (K;) the first originally وُوَدَةٌ; like as تُكَاَةٌ is originally وُكَاَةٌ; (T, L;) &lt;i&gt;Moderation; gentleness; deliberateness; a leisurely manner of proceeding,&lt;/i&gt; or &lt;i&gt;of deportment, &amp;amp;c.; contr. of hastiness:&lt;/i&gt; and &lt;i&gt;gravity; staidness; sedateness; calmness:&lt;/i&gt; syn. نَاَنٍّ, (T, M, L, K,) and تَمَهُّلٌ, (T, L,) and رَزَانَةٌ, (M, L, K,) and سَكِينَةٌ. (Msb.) Ex. فَعَلَهُ فِى <br>\
+                  تُوَدَة <br>\
+                  &lt;i&gt;He did it in a moderate manner; with gentleness; &amp;amp;c.&lt;/i&gt;] (A.) And مَشَى عَلَى تُوَدَة (S, Msb) [&lt;i&gt;He walked moderately; gently; &amp;amp;c.;&lt;/i&gt;] &lt;i&gt;calmly;&lt;/i&gt; or &lt;i&gt;quietly.&lt;/i&gt; (Msb.) ↓ <br>\
+      مَشَى مَشْيًا وَيِيدَا <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  عَلَى تُوَدَةٍ [&lt;i&gt;He walked moderately; gently; &amp;amp;c.&lt;/i&gt;]; (S;) &lt;i&gt;calmly,&lt;/i&gt; or &lt;i&gt;quietly.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41540&quot; key=&quot;مَوْوُودَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَوْوُودَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَوْدَةٌ: see وَيِيدٌ and وَاَدَ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41541&quot; key=&quot;مَوَايِدُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَوَايِدُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Calamities,:&lt;/i&gt; (IAar, T, K:) formed by transposition from مَا=وِدُ. (IAar, T.) See art. اود.   &lt;/entryFree&gt; <br>\
+' } );

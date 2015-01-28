@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'كنتبكُنْتُبٌ and كُنَاتِبٌ: see art. كنب.<br>\
+' } );

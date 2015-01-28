@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>وكث</em>            1                  وكث<br>\
+<b>استوكث</b>               1     <br>\
+                     استوكث<br>\
+                     ذ<br>\
+                  <i>He ate of what is called</i> <br>\
+                  وكاث: (K:) <i>he hastened, and ate somewhat of that which is called</i> <br>\
+                  وكاث, <i>thereby to attain the period of the morning-meal called</i> <br>\
+                  الغَدَا=ء. (L.)    </entryFree> <br>\
+<b>وِكَاثٌ</b>               1     <br>\
+                     وِكَاثٌ<br>\
+                     ذ<br>\
+                   and وُكَاثٌ <br>\
+                  <i>Food, aliment,</i> or <i>nutriment,</i> (غِذَا=ءٌ: so in some copies of the K, and in the TA: in the CK, غَدَا=ءٌ, or <i>a morning meal:</i>) <i>that is prepared,</i> or <i>taken, in haste,</i> (يُسْتَعْجَلُ بِهِ,) [<i>before the morning-meal called</i> <br>\
+                  غَدَا=ء: see 10]. (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>بنج</em>            1                  بنج<br>\
+<b>بنّجهُ</b>               1     <br>\
+                     بنّجهُ<br>\
+                     بنج<br>\
+                     بنجه<br>\
+                     بنجة<br>\
+                  , inf. n. تَبْنِيجٌ, [<i>He dosed him,</i> or <i>stupified him, with</i> <br>\
+                  بَنْج, q. v.;] <i>he gave him</i> <br>\
+                  بَنْج <br>\
+                  <i>to eat.</i> (K.) [See the act. part. n. below.]    </entryFree> <br>\
+<b>بَنْجٌ</b>               1     <br>\
+                     بَنْجٌ<br>\
+                     بنج<br>\
+                   [<i>Hyoscyamus,</i> or <i>henbane;</i>] an arabicized word, [said to be] from [the Persian] بَنْكْ; [but see a quotation from Hammer-Purgstall, near the close of this paragraph;] <i>a certain plant,</i> (Mgh,  and Har p. 365,) <i>having an intoxicating kind of grain,</i> or, as some say, (Mgh,) <i>of which the leaves and peel and seeds torpify:</i> (Mgh, Har:) it is said, in the Kánoon, (Mgh,) by Aboo-&#39;Alee [Ibn-Seenà, or Avicenna], (Har,) that <i>it is a poison which confuses the intellect, and annuls the memory, and occasions insanity and</i> [<i>the disorder termed</i>] خُنَاق [or <i>quinsy</i>]; (Mgh, Har;) <i>and it is red, and white:</i> (Har:) <i>a certain plant having a kind of grain that confuses the intellect, and occasions alienation of the mind,</i> or <i>insanity; and sometimes it intoxicates, when a man drinks it after it has been dissolved; and it is said to occasion forgetfulness:</i> (Msb:) <i>a certain torpifying plant, well known; different from</i> <br>\
+                  حَشِيشُ الحَرَافِيشِ; <i>disordering the intellect</i> (مُخَبِّطٌ لِلْعَقْلِ), <i>rendering insane, allaying the pains of humours and pustules, and the earache,</i> (K, TA,) <i>applied as a liniment or as a poultice;</i> (TA;) <i>the worst kind</i> (K, TA) <i>for use</i> (TA) <i>is the black; then, the red; and the safest kind is the white.</i> (K, TA.) [Kzw says that the leaves of the garden-hemp (قِنَّب بُسْتَانِىّ, or شَهْدَانَجِ, the latter of which properly signifies hemp-seed,) are the بَنْج which, when eaten, disorders the intellect. And ElIdreesee applies the appellation حَشِيشِيَّة to the “ Assassins. ” This establishes the correctness of De Sacy&#39;s opinion, that the appellation “ Assassins ” is derived from the vulgar pl. حَشَّاشِين, (hemp-eaters, or persons who intoxicate themselves with hemp,) for حَشَّاشِين is syn. with حَشِيشَّة, and the sect called by us the “ Assassins ” are expressly said by the Arabs to have made frequent use of بَنْج. Baron Hammer-Purgstall, correctly regarding بَنْج as hyoscyamus (or henbane), makes the following important observations, “ ‘ Bendj, ’ the pl. of which in Coptic is ‘ nibendj, ’ is without doubt the same plant as the ‘ nepenthe, ’ which has hitherto so much perplexed the commentators of Homer. Helen evidently brought the nepenthe from Egypt, and bendj is there still reputed to possess all the wonderful qualities which Homer attributes to it. ” (Trébutien, “ Contes Inédits des Mille et une Nuits, ” tome i. p. 12, note.)] The phrase شَرِبَ البَنْجَ is used by ElKarkhee [as meaning <i>He drank the</i> <br>\
+                  بنج] because it is mixed with water; or [as meaning <i>he took,</i> or <i>swallowed, the</i> <br>\
+                  بنج,] according to the conventional language of the physicians. (Mgh.)    </entryFree> <br>\
+<b>مُبَنِّجٌ</b>               1     <br>\
+                     مُبَنِّجٌ<br>\
+                     مبنج<br>\
+                   One <i>who employs a stratagem by means of food containing</i> <br>\
+                  بَنْج [<i>in order to obtain some advantage over another, by stupifying him therewith;</i> as the “ Assassins ” used to do]. (Mgh.)   </entryFree> <br>\
+' } );

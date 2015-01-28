@@ -1,0 +1,30 @@
+load_data( { book: 'll_nvd', text: 'هجأ1<br>\
+هَجَأَ, (S, K,) aor.<br>\
+هَجَاَ, inf. n. هَجْءٌ and هُجُوْءٌ,<br>\
+(K,) It (his hunger) became appeased, (S, K,)<br>\
+and departed, or ceased. (K.) ―<br>\
+-b2-  هَجَأَ He ate<br>\
+food. (K.) ―<br>\
+-b3-  هَجَأَ, (K,) inf. n. هَجْءٌ, (TA,)<br>\
+He filled his belly. (K.) ―<br>\
+-b4-  هَجَأَ and ↓ اهجأ He<br>\
+stayed, or restrained, camels (K) or sheep or<br>\
+goats, (TA,) that they might pasture. (K, TA.)<br>\
+هَجِئَ, aor.<br>\
+هَجَاَ, He had raging hunger. (K.)<br>\
+4<br>\
+أَهْجَاَ see 1. ―<br>\
+-b2-  اهجأ جُوعَهُ, inf. n. إِهْجَاءٌ, It (food)<br>\
+appeased his hunger; or caused it to depart, or<br>\
+cease. (S, K.) ―<br>\
+-b3-  اهجأهُ حَقَّهُ, (K,) and اهجى,<br>\
+(TA,) He paid him his due. (K.) ―<br>\
+-b4-  اهجأهُ شَيْئًا<br>\
+He gave him a thing to eat. (K.)<br>\
+5<br>\
+تهجّأ الحَرْفَ i. q. تهجّى. (K.)<br>\
+هَجَأٌ Any state, or case, in which one has been,<br>\
+and which has ceased. (K.) It also occurs<br>\
+without ء, هَجًا (TA.)<br>\
+هُجَأَةٌ Foolish; stupid. (K.)<br>\
+' } );

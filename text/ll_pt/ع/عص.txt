@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>عص</em>            1                  عص<br>\
+<b>عُصَصٌ</b>               1     <br>\
+                     عُصَصٌ<br>\
+                     ذ<br>\
+                   and عُصُصٌ: see عُصْعُصٌ.    </entryFree> <br>\
+<b>عُصُوصٌ</b>               1     <br>\
+                     عُصُوصٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>عُصْعُصٌ</b>               1     <br>\
+                     عُصْعُصٌ<br>\
+                     ذ<br>\
+                   (S, Mgh, O, Msb, K) and عُصْعَصٌ (O, Msb) and عَصْعَصٌ (IAar, Mgh, O, K) and عُصَعِصٌ (IAar, K, TA) and ↓ <br>\
+      عُصَصٌ and ↓ <br>\
+      عُصُصٌ and ↓ <br>\
+      عُصْعُوصٌ (IAar, O, K) and ↓ <br>\
+      عُصُوصٌ (L, TA) The [<i>caudal bone called the</i>] عَجْب [q. v.] <i>of the tail;</i> (Zj in his “ Khalk el-Insán, ” S, Mgh, O, Msb, K;) <i>which is felt by him who feels for it;</i> (Zj ubi suprà;) i. e., the [<i>os coccygis,</i> or] <i>tail-bone;</i> (S;) the <i>small bone between the two buttocks:</i> (Mgh:) or <i>that of which the upper part is the</i> <br>\
+                  عَجْب, <i>and its lower part the</i> <br>\
+                  ذَنَب: or the <i>internal extremity of the spine;</i> and the عَجْب is its external extremity: (Az, in L, voce قُحْقُحٌ:) it is said to be the first part that is created, and the last that wastes away: (S, O:) or <i>i. q.</i> <br>\
+                  قُحْقُحٌ [q. v.]: (IAar, O voce عُكْدَةٌ:) pl. عَصَاعِصُ. (Msb, TA.) ―         -b2-  Also عُصْعُصٌ (Mgh, IAth) and عَصْعَصٌ (Mgh) <i>What is in the middle of the</i> <br>\
+                  اَلْيَة [or <i>tail,</i> or <i>fat of the tail,</i>] <i>of the sheep;</i> (Mgh;) [i. e.,] <i>flesh-meat in the interior of that part:</i> (IAth, TA:) this is what the doctors of practical law mean by this word in speaking of sales: (Mgh:) pl. as above. (IAth, TA.) ―         -b3-  Also عُصْعُصٌ (assumed tropical:)  A man (IF, O) <i>compact and strong in make.</i> (IF, O, K.) ―         -b4-  Also, (Ibn-&#39;Abbád, K,) or ضَيِّقُ <br>\
+                  العُصْعُصِ, (O, L, TA,) (assumed tropical:)  A man (Ibn-&#39;Abbád, L,) <i>unpropitious,</i> or <i>mean,</i> or <i>hard,</i> (L, K, TA,) <i>having little,</i> or <i>no, good,</i> or <i>goodness.</i> (Ibn- &#39;Abbád, O, L, K, TA.)    </entryFree> <br>\
+<b>عَصْعَصَةٌ</b>               1     <br>\
+                     عَصْعَصَةٌ<br>\
+                     ذ<br>\
+                  <i>Pain of the</i> <br>\
+                  عُصْعُص. (O, K.)    </entryFree> <br>\
+<b>عُصْعُوصٌ</b>               1     <br>\
+                     عُصْعُوصٌ<br>\
+                     ذ<br>\
+                  : see عُصْعُصٌ.   </entryFree> <br>\
+' } );

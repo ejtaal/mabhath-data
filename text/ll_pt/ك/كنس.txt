@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كنس</em>            1                  كنس<br>\
+<b>كَنِيسٌ</b>               1     <br>\
+                     كَنِيسٌ<br>\
+                     ذ<br>\
+                   [<i>a kind of roast flesh-meat</i>]: see مَرْمُوضٌ.   </entryFree> <br>\
+' } );

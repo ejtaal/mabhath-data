@@ -1,0 +1,54 @@
+load_data( { book: 'll_nvd', text: 'نام1<br>\
+نَامَتْ رِجْلُهُ<br>\
+(assumed tropical:)  I. q.<br>\
+خَدِرَتْ [His leg, or foot,<br>\
+became benumbed, or torpid]. (TA in art. بسر.)<br>\
+―<br>\
+-b2-  نَامَ (assumed tropical:)  It (a woman&#39;s anklet) ceased to sound,<br>\
+by reason of the fulness of the leg: like as one<br>\
+says [in the contr. case], استيقظ. (TA in art.<br>\
+يقظ.) ―<br>\
+-b3-  نَامَ has for its inf. ns. نَوْمٌ and مَنَامٌ.<br>\
+(Msb.) ―<br>\
+-b4-  نَامَ الثَّوْبُ<br>\
+i. q.<br>\
+رَقَدَ [q. v.] (A, art.<br>\
+رقد.) ―<br>\
+-b5-  نَامَتِ السُّوقُ<br>\
+i. q.<br>\
+رَقَدَت [q. v.] (Th, in<br>\
+TA, art. رقد.) ―<br>\
+-b6-  نَامَ (tropical:)  He lay; as opposed to<br>\
+he sat and he stood. See نَائِمٌ. ―<br>\
+-b7-  نَامَ عَنْ حَاجَتِهِ<br>\
+He cared not for the object of his want, neglected<br>\
+it. (Msb.)<br>\
+2<br>\
+نَوَّمَ<br>\
+and ↓ أَنَامَ (assumed tropical:)  It benumbed, or torpified:<br>\
+see نَامَتْ رِجْلُهُ.<br>\
+3<br>\
+نَاوَمْتُهُ فِى شِعَارٍ وَاحِدٍ<br>\
+[I slept with him in one<br>\
+under-garment]. (S, art. شعر.)<br>\
+4<br>\
+أَنْاَمَ<br>\
+see 2.<br>\
+10<br>\
+اِسْتَنَامَ إِليْهِ<br>\
+He trusted to him, and became<br>\
+quiet, or easy, in mind; relied upon him. (S,<br>\
+K.)<br>\
+اِمْرَأَةٌ نَؤُومُ الضُّحَى<br>\
+i. q.<br>\
+رَقُودُ الضحى [which<br>\
+see]. (A, art. رقد.)<br>\
+نَائِمٌ<br>\
+(tropical:)  Lying; as opposed to sitting and standing. (Mgh.)<br>\
+أَنْوَمُ<br>\
+[More, or most, prone to sleep]. (A, art.<br>\
+فهد.)<br>\
+مَنَامٌ<br>\
+Time of sleep. (Jel, xxxix. 43.) See<br>\
+also 1.<br>\
+' } );

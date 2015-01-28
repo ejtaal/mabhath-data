@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'محرمَحَارَةٌ: see art. حور, to which it belongs<br>\
+accord. to As and others: Lth mentions it in<br>\
+art. محر. (TA.)<br>\
+' } );

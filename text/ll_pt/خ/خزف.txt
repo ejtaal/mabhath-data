@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>خزف</em>            1                  خزف<br>\
+<b>خَزَفٌ</b>               1     <br>\
+                     خَزَفٌ<br>\
+                     خزف<br>\
+                  <i>Pottery; jars;</i> or <i>earthern vessels;</i> syn. جَرٌّ; (Lth, S, K; [and so in the present day;]) and <i>anything made of clay, and baked, so that it becomes</i> <br>\
+                  فَخَّار: (IDrd, K:) or <i>clay made into vessels, before it is baked; i. q.</i> <br>\
+                  صَلْصَالٌ: when baked, it is called فَخَّار. (Msb.) [See an ex. in a verse cited voce اـِنْ, p. 107.]    </entryFree> <br>\
+<b>خَزَفِىٌّ</b>               1     <br>\
+                     خَزَفِىٌّ<br>\
+                     خزف<br>\
+                     خزفى<br>\
+                     خزفي<br>\
+                   [<i>Of,</i> or <i>relating to, pottery,</i> or <i>jars,</i> &amp;amp;c.;] rel. n. of خَزَفٌ. (TA.) ―         -b2-  See also what follows.    </entryFree> <br>\
+<b>خَزَّافٌ</b>               1     <br>\
+                     خَزَّافٌ<br>\
+                     خزاف<br>\
+                   and ↓ <br>\
+      خَزَفِىٌّ <br>\
+                  <i>A seller</i> [or <i>maker</i>] <i>of</i> <br>\
+                  خَزَف [or <i>pottery, jars,</i> &amp;amp;c.]. (TA.)   </entryFree> <br>\
+' } );

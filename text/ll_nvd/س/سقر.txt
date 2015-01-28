@@ -1,0 +1,28 @@
+load_data( { book: 'll_nvd', text: 'سقر1<br>\
+سَقَرَ الضْلَرRَّمْسُ, (S,) aor.<br>\
+سَقُرَ, inf. n. سَقْرٌ, (TA,)<br>\
+The sun scorched, or burned, him, altering the<br>\
+colour of his complexion and shin, (S, * TA,) and<br>\
+pained him, or pained his brain by its heat:<br>\
+(TA:) melted and heated him, or it. (TA.) And<br>\
+سَقَرَتْهُ النَّارُ The fire altered the colour of his skin;<br>\
+or scorched his skin, and altered its colour; as<br>\
+also صَقَرَتْهُ. (Bd in liv. 48.)<br>\
+سَقْرٌ The heat, and hurtful action, of the sun. (K.)<br>\
+سَقَرُ Hell: (S, K:) one of the [proper] names<br>\
+thereof: (S:) Aboo-Bekr says, There are two<br>\
+opinions respecting this word: some say, that<br>\
+the fire of the world to come is thus called,<br>\
+and that the derivation of the word is unknown,<br>\
+and that it is imperfectly decl. because it is determinate and a foreign word: others say that it<br>\
+is from سَقَرَتْهُ الضْلَرRَّمْسُ, because it melts the bodies<br>\
+and souls, and that it is an Arabic word; and he<br>\
+who holds it to be such says that it is imperfectly<br>\
+decl. because it is determinate and of the fem.<br>\
+gender. (TA.)<br>\
+سَقَرَاتٌ The vehemence of the stroke of the<br>\
+sun. (S.)<br>\
+مُسْمَقِرُّ A day vehemently hot. (S in this art.,<br>\
+and K in art. سمقر.) This is its proper place.<br>\
+(TA.)<br>\
+' } );

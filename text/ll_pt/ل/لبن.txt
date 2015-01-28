@@ -1,0 +1,51 @@
+load_data( { book: 'll_pt', text: '<em>لبن</em>            1                  لبن<br>\
+<b>بَنَاتُ لَبَنٍ</b>               1     <br>\
+                     بَنَاتُ لَبَنٍ<br>\
+                     ذ<br>\
+                   [app. <i>The small guts</i> or <i>intestines, in which originate the lacteals;</i>] <i>the intestines in which is the milk.</i> (M, K.) See حَويَّةٌ, termed بَنَاتُ اللَّبَنِ. ―         -b2-  لَبَنَةٌ [n. un. of لَبَنٌ]. (Az, in TA, art. خرس.)    </entryFree> <br>\
+<b>لَبِنٌ</b>               1     <br>\
+                     لَبِنٌ<br>\
+                     ذ<br>\
+                  <i>Bricks;</i> (T, S, M, Mgh, Msb, K;) <i>crude,</i> or <i>unburnt, bricks.</i> (MA.)    </entryFree> <br>\
+<b>لِبْنَةٌ</b>               1     <br>\
+                     لِبْنَةٌ<br>\
+                     ذ<br>\
+                  : see بَنِيقَةٌ.    </entryFree> <br>\
+<b>لُبَانٌ</b>               1     <br>\
+                     لُبَانٌ<br>\
+                     ذ<br>\
+                   [The <i>frankincense-tree</i>] is <i>a tree of the kind called</i> <br>\
+                  عِضَاه, <i>having a fruit resembling the pistachio-nut, and a resin like the</i> <br>\
+                  كُنْدُر, [which is said in the S and TA to be the same as the لُبَان,] <i>when it concretes:</i> (O and TA in art. سيع:) it is also, and more commonly, applied to the <i>resin itself,</i> i. e. <i>frankincense,</i> or <i>olibanum:</i> the <i>tree that produces it is now known to be of the genus Boswellia,</i> found in Hadramowt and other parts of Southern Arabia, and also in the opposite (eastern) region of Africa, and in India: it was formerly erroneously supposed to be the Juniperus Lycia. ―         -b2-  حَصَى لُبَانٍ: see K, voce عَسَلٌ; and see art. حصى.    </entryFree> <br>\
+<b>لِبَانٌ</b>               1     <br>\
+                     لِبَانٌ<br>\
+                     ذ<br>\
+                   The <i>sucking of milk</i> or <i>of the breast:</i> (S, Msb, K:) see an ex. in a verse of El-Aashà cited voce اَسْحَمُ: and see 1 in art. غذو.    </entryFree> <br>\
+<b>لَبُونٌ</b>               1     <br>\
+                     لَبُونٌ<br>\
+                     ذ<br>\
+                  : see لَقُوحٌ and بَكْرٌ. ―         -b2-  اـِبْنُ لَبُونٍ <br>\
+                  <i>A male camel that has entered upon his third year:</i> (S, Mgh, K:) or <i>entering upon his third year:</i> (Msb:) or <i>in his second year.</i> (K.)    </entryFree> <br>\
+<b>عَسَلُ اللُّبْنَى</b>               1     <br>\
+                     عَسَلُ اللُّبْنَى<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  المَيْعَةُ [now applied to <i>Storax,</i> or <i>styrax</i>] <i>sometimes used for fumigation.</i> (TA.) See art. عسل.    </entryFree> <br>\
+<b>لُبَانَةٌ مَغْرِبِيَّةٌ</b>               1     <br>\
+                     لُبَانَةٌ مَغْرِبِيَّةٌ<br>\
+                     ذ<br>\
+                  : see فَرْبَيُونٌ.    </entryFree> <br>\
+<b>لَبَنِيَّةٌ</b>               1     <br>\
+                     لَبَنِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>Food made with milk:</i> so in modern Arabic: see خَطِيفَةٌ.    </entryFree> <br>\
+<b>لُبَيْنَةٌ</b>               1     <br>\
+                     لُبَيْنَةٌ<br>\
+                     ذ<br>\
+                   [<i>A little milk:</i> dim. of لَبَنَةٌ, n. un. of لَبَنٌ]: see رَثَاَ.    </entryFree> <br>\
+<b>مِلْبَنٌ</b>               1     <br>\
+                     مِلْبَنٌ<br>\
+                     ذ<br>\
+                  <i>A thing like the</i> <br>\
+                  مِحْمَل, <i>upon which bricks</i> (لَبِن) <i>are carried from place to place.</i> (M.) See فَتْخَا=ءُ.   </entryFree> <br>\
+' } );

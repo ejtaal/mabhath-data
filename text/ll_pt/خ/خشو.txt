@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>خشو</em>            1                  خشو<br>\
+<b>خَشَتِ النَّخْلَةُ</b>               1     <br>\
+                     خَشَتِ النَّخْلَةُ<br>\
+                     ذ<br>\
+                  , aor. تَخْشُو, (JK, S, K,) inf. n. َشْوٌ, (JK, TA,) <i>The palm-tree bore dates such as are termed</i> <br>\
+                  خَشْو, i. e. حَشَف: (JK, S, K:) so says El-Umawee, (S,) or IAar. (TA.)    </entryFree> <br>\
+<b>خَشًا</b>               1     <br>\
+                     خَشًا<br>\
+                     ذ<br>\
+                  <i>Black wheat.</i> (IAar, K, * TA.)    </entryFree> <br>\
+<b>خَشْوٌ</b>               1     <br>\
+                     خَشْوٌ<br>\
+                     ذ<br>\
+                  <i>Dates such as are termed</i> <br>\
+                  حَشَف: (JK, S, K:) so says El-Umawee, (S,) or IAar, who adds, i. e., <i>of which the lower portion has become bad and rotten, while in its place:</i> he says that it is of the dial. of Belhárith Ibn-Kaab. (TA.)   </entryFree> <br>\
+' } );

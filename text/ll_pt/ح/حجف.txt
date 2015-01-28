@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>حجف</em>            1                  حجف<br>\
+<b>حاجفهُ</b>               1     <br>\
+                     حاجفهُ<br>\
+                     حاجف<br>\
+                     حاجفه<br>\
+                     حاجفة<br>\
+                  <i>He opposed him and repelled him,</i> [app. <i>with a</i> <br>\
+                  حَجَفَة, (see the act. part. n., below,)] <i>being opposed and repelled by him.</i> (S.)    </entryFree> <br>\
+<b>حَجَفٌ</b>               1     <br>\
+                     حَجَفٌ<br>\
+                     حجف<br>\
+                  : see what next follows, in two places.    </entryFree> <br>\
+<b>حَجَفَةٌ</b>               1     <br>\
+                     حَجَفَةٌ<br>\
+                     حجفه<br>\
+                     حجفة<br>\
+                  <i>A shield made of skins,</i> (S, K, TA,) or, as some say, <i>of the skins of camels, cut out in a round form,</i> (TA,) <i>without wood and without sinews;</i> (S, K, TA;) as also دَرَقَةٌ: (S:) or <i>of skins sewed one over another;</i> as also دَرَقَةٌ: (ISd:) or <i>a small shield made of two</i> [<i>pieces of</i>] <i>skins sewed together, one over the other:</i> (Msb:) pl. ↓ <br>\
+      حَجَفٌ, (S, Msb, K,) [or rather this is a coll. gen. n.,] and [the pl. is] حَجَفَاتٌ. (Msb.) The saying of the rájiz, (S,) namely, Su-r-edhDhi-b, (TA,) <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        بَلْ جَوْزِتَيْهَا=ءَ كَظَهْرِ الحَجَفَتْ<br>\
+                  </quote> means رُبَّ جَوْزِ تَيْهَا=ءَ [i. e. <i>Many a middle of a desert in which one loses his way, like the back of a shield such as is called</i> <br>\
+                  حجفة]: and [by احجفت is meant الحجفه; for] some of the Arabs, in pausing upon a ة, make it ت: thus they say, هٰذَا طَلْحَتْ, and خُبْزُ الذٌّرَتْ: (S, Sgh:) these are Teiyi. (Sgh, TA.) ―         -b2-  (tropical:)  The <i>breast,</i> or <i>chest;</i> (Abu-l-&#39;Omeythil, K:) as being likened to a shield: (Abu-l-&#39;Omeythil, TA:) pl. [or coll. gen. n.] ↓ <br>\
+      حَجَفٌ. (Abu-l-&#39;Omeythil, K.)    </entryFree> <br>\
+<b>مُحَاجِفٌ</b>               1     <br>\
+                     مُحَاجِفٌ<br>\
+                     محاجف<br>\
+                  <i>Fighting with another, having a</i> <br>\
+                  حَجَفَة: (S, K:) <i>opposing reciprocally.</i> (K.)   </entryFree> <br>\
+' } );

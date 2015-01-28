@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>نجم</em>            1                  نجم<br>\
+<b>اَنْجَمَ</b>               1     <br>\
+                     اَنْجَمَ<br>\
+                     ذ<br>\
+                  <i>It</i> (<i>rain,</i> &amp;amp;c.) <i>left off.</i> (K.)    </entryFree> <br>\
+<b>نَجْمٌ</b>               1     <br>\
+                     نَجْمٌ<br>\
+                     ذ<br>\
+                   [<i>A star.</i> ―         -b2-  Also, <i>An asterism, or constellation:</i> being applied autonomastically to] <i>the Pleiades.</i> (S.) ―         -b3-  نُجُومٌ [like عِرْقٌ] signifies also The <i>sprouts from the roots</i> [of a tree, or shrub], <i>before the</i> <br>\
+                  رَبِيع [meaning either <i>spring</i> or <i>autumn</i>], <i>the heads of which one sees like large needles, clearing the ground.</i> (TA.) See عُسْلُوجٌ. ―         -b4-  نَجْمٌ also signifies (tropical:)  The <i>time when a payment falls due.</i> (Msb.) [Hence, app., an ex. cited voce طىٌّ.] ―         -b5-  And hence, (Msb,) (tropical:)  <i>An instalment:</i> syn. وَظِيفَةٌ. (Mgh, Msb.) See also عَزْلٌ. ―         -b6-  نَجْمٌ and نَجْمَةٌ <br>\
+                  <i>A kind of plant, triticum repens</i> or <i>dogs&#39; grass:</i> see ثِيلٌ.    </entryFree> <br>\
+<b>مِنْجَمٌ</b>               1     <br>\
+                     مِنْجَمٌ<br>\
+                     ذ<br>\
+                   The <i>beam of a balance;</i> (MA;) the <i>transverse piece of iron, in which is the tongue, of a balance.</i> (S, K.) See عَمُودُ المِيزَانِ.   </entryFree> <br>\
+' } );

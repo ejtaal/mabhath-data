@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'ظى2<br>\
+ظَيَّيْتُ ظَآءً حَسَنَةً and I made [or wrote]<br>\
+a beautiful ظ. (M, * TA.)<br>\
+ظَآءٌ, also pronounced ظَا, (TA,) A letter peculiar<br>\
+to the Arabic language [i. e. the letter ظ]: (Kh,<br>\
+T, TA, &amp;c.:) masc. and fem.: as masc., its pl.<br>\
+is أَظْوَآءٌ; and as fem., ظَاآتٌ. (TA. [See art. ظ.])<br>\
+Quasi ظير<br>\
+ظِيرٌ, for ظِئْرٌ: see the latter, in art. ظأر.<br>\
+-------------------------------------------------<br>\
+' } );

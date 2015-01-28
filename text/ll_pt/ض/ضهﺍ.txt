@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضها&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضها<br>\
+&lt;entryFree id=&quot;n26098&quot; key=&quot;مُضَاهَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     مُضَاهَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  مُضَاهَاةٌ, (K, TA, [the و before المُضاهاةُ in the CK should be erased,]) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مُشَاكَلَةٌ: (S, O, Msb, TA:) you say, ضَاهَاْتُهُ and ضَاهَيْتُهُ, (&#39;Eyn, S, * O, * Msb, * TA,) i. e. &lt;i&gt;I resembled him;&lt;/i&gt; syn. شَابَهْتُهُ: (&#39;Eyn, TA:) [or &lt;i&gt;I conformed with him:&lt;/i&gt;] or ضَاهَاَهُ, inf. n. as above, signifies &lt;i&gt;he imitated him;&lt;/i&gt; syn. عَارَضَهُ and بَارَاهُ; and one says also, ضَاهَيْتُهُ, inf. n. مُضَاهَاةٌ: (Msb:) the verb is read both with and without ء in the Kur [ix. 30]. (O, Msb, TA.) ―         -b2-  ضَاهَا بِهِ, (A &#39;Obeyd, TA,) [or ضَاهَاَهُ, like ضَاهَاهُ, mentioned in art. ضهى,] inf. n. as above, (K,) &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, gentle, tender,&lt;/i&gt; or &lt;i&gt;courteous,&lt;/i&gt; or &lt;i&gt;he acted,&lt;/i&gt; or &lt;i&gt;behaved, gently,&lt;/i&gt; &amp;amp;c., &lt;i&gt;with him,&lt;/i&gt; or &lt;i&gt;to him.&lt;/i&gt; (A &#39;Obeyd, K, * TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;Q. Q. 1&lt;/itype&gt;        <br>\
+                     &lt;orth lang=&quot;ar&quot;/&gt;<br>\
+                  &lt;/form&gt; or Q. 1. ضَهْيَاَ: see art. ضهيا.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26099&quot; key=&quot;ضَهْيَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَهْيَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ضَهْيَاَةٌ: see art. ضهيا.   &lt;/entryFree&gt; <br>\
+' } );

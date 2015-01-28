@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نوننَوْنَةٌ<br>\
+The dimple in the chin of a young child:<br>\
+(M, K:) see خُنْعُبَةٌ, and قَلْتَةٌ, and دَائِرَةٌ, and 2<br>\
+in art. دسم.<br>\
+' } );

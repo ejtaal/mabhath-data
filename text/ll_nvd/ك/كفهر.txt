@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كفهر4<br>\
+اِكْفَهَرَ<br>\
+, said of clouds: see a verse cited<br>\
+عَزْلَآءُ.<br>\
+' } );

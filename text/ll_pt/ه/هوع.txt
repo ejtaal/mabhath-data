@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هوع</em>            1                  هوع<br>\
+<b>هَيْعُوعَةٌ</b>               1     <br>\
+                     هَيْعُوعَةٌ<br>\
+                     ذ<br>\
+                  , originally هَيْوَعُوعَةٌ: see شَاخَ.   </entryFree> <br>\
+' } );

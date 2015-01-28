@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>حنزب</em>            1                  حنزب<br>\
+<b>حِنْزَابٌ</b>               1     <br>\
+                     حِنْزَابٌ<br>\
+                     حنزاب<br>\
+                   An ass <i>of middling make</i> (مُقْتَدِرُ الخَلْقِ). (K.) ―         -b2-  Also <i>Short and strong:</i> or <i>broad:</i> (K:) or <i>short and broad;</i> applied to a man: (Th, TA:) and <i>thick, coarse, rude,</i> or <i>bulky,</i> (K, TA,) <i>and short.</i> (TA.) [See حَزَابٍ, in two places.] ―         -b3-  The <i>cock.</i> (K.) ―         -b4-  Also, and ↓ <br>\
+      حُنْزُوبٌ, <i>A flock of</i> [<i>the kind of birds called</i>] قَطًا: (K:) or the <i>male of the</i> <br>\
+                  قطا. (TA.) [See حنزاب in art. حزب.] ―         -b5-  And both these words, The <i>carrot of the land</i> (جَزَرُ البَرِّ [see حنزاب in art. حزب]): (K:) n. un. of the former with ة: that of the latter is not known to have been in use. (TA.) ―         -b6-  This is [said to be] the proper place of these two words; [the ن being regarded as a radical letter;] (K, TA;) not art. حزب. (TA.)    </entryFree> <br>\
+<b>حُنْزُوبٌ</b>               1     <br>\
+                     حُنْزُوبٌ<br>\
+                     حنزوب<br>\
+                  : see above: and see also art. حزب.   </entryFree> <br>\
+' } );

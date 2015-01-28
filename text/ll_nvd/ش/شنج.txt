@@ -1,0 +1,74 @@
+load_data( { book: 'll_nvd', text: 'شنج1<br>\
+شَنِجَ, aor.<br>\
+شَنَجَ, inf. n. شَنَجٌ; and ↓ تشنّج, (S,<br>\
+A, Mgh, K,) and ↓ انشنج, (S, K,) and ↓ اشنج;<br>\
+(TA;) said of the skin (S, Mgh, K) in consequence of the touch [or proximity] of fire [&amp;c.],<br>\
+(Mgh,) and of the face, and of a member or limb,<br>\
+(A,) of a finger, &amp;c., (TA,) It contracted, shrank,<br>\
+shrivelled, or wrinkled; or became contracted or<br>\
+shrunk &amp;c. (S, A, Mgh, K, TA.) [↓ تَشَنُّجٌ is often<br>\
+used as meaning Spasmodic contraction of a<br>\
+muscle &amp;c.] And one says, ↓ فِى أَعْضَائِهِ تَشَنُّجٌ<br>\
+and ↓ تَشْنِيجٌ [In his limbs, or members, is a contraction]. (A.)<br>\
+2<br>\
+شنّجهُ, inf. n. تَشْنِيجٌ, He [or it] contracted,<br>\
+shrunk, shrivelled, or wrinkled, it; namely, the<br>\
+skin [&amp;c.]. (S, K.) See 1, last sentence. One<br>\
+says also, شنّج الخَيَّاطُ القَبَآءَ [The tailor puckered<br>\
+the tunic]. (A. [In the Mgh, the wrinkling<br>\
+around the anus is said to be like the تَشْنِيج of the<br>\
+قَبَآء.])<br>\
+4<br>\
+أَشْنَجَ see 1.<br>\
+5<br>\
+تَشَنَّجَ see 1, in three places; and see مُشَنَّجٌ.<br>\
+7<br>\
+إِنْشَنَجَ see 1.<br>\
+شَنَجٌ inf. n. of 1. (S &amp;c.)<br>\
+-A2-  Also A camel: (Lth,<br>\
+IDrd, K:) or a heavy camel. (L in art. غنج.)<br>\
+غَنَجٌ عَلَىشَنَجٍ is a phrase of the tribe of Hudheyl, meaning A man upon a camel: (Lth, IDrd,<br>\
+O:) or a man, or an old man, upon a heavy<br>\
+camel. (L in art. غنج.) ―<br>\
+-b2-  It is also said, in the<br>\
+L, that it signifies An old man, in the dial. of<br>\
+Hudheyl. (TA.)<br>\
+شَنِجٌ, applied to the skin &amp;c., Contracted,<br>\
+shrunk, shrivelled, or wrinkled. (TA.) And,<br>\
+applied to a man, Contracted, &amp;c., in the skin,<br>\
+and in the arm, or hand; as also ↓ أَشْنَجُ. (M,<br>\
+TA.) And يَدٌ شَنِجَةٌ means ضَيَّقَةُ الكَفِّ [i. e. An<br>\
+arm contracted, or narrow, in the hand; or a<br>\
+hand contracted, &amp;c., in the palm, or in the palm<br>\
+and fingers]. (TA.) شَنِجُ النَّسَا means Contracted in the عِرْق called النسا [app., in this<br>\
+instance, the sciatic nerve]: (TA:) it is an epithet<br>\
+of commendation applied to a horse; because,<br>\
+when he is contracted therein, his hind legs are<br>\
+not relaxed: (S, K:) or it is an epithet of com-<br>\
+mendation applied to a horse of good breed; but<br>\
+not so when applied to a hackney: it is also<br>\
+applied to some other animals, that do not walk<br>\
+with freedom; to a gazelle, and to a wolf: (T,<br>\
+TA:) and sometimes to the raven, or crow,<br>\
+(T, S,) which hops as though it were shackled.<br>\
+(T, TA.)<br>\
+أَشْنَجُ: see شَنِجٌ. ―<br>\
+-b2-  شَنِجٌ أَشْنَجُ and ↓ شَنِجٌ مُشَنَّجٌ<br>\
+are expressions sometimes used; [أَشْنَجُ being<br>\
+syn. with شَنِجٌ, as shown above, and in this case<br>\
+a corroborative; and] ↓ مُشَنَّجٌ [when thus used]<br>\
+meaning Intensely contracted or shrunk &amp;c.<br>\
+(Lth, TA.)<br>\
+-A2-  Also Having one of his testicles<br>\
+smaller than the other; like أَشْرَجُ, which is more<br>\
+approved. (TA.)<br>\
+مُشَنَّجٌ: see أَشْنَجُ, in two places. ―<br>\
+-b2-  قَبَآءٌ مُشَنَّجٌ<br>\
+[A puckered tunic: see 2]. (A, Mgh.) سَرَاوِيلُ<br>\
+مُشَنَّجَةٌ, mentioned in a trad., in which they are<br>\
+forbidden, are said to be Such [drawers, or trousers,] as are so ample that they fall down upon<br>\
+the boot so as to cover half of the foot; as though<br>\
+meaning that, being ample and long, they cease<br>\
+not to rise, and become puckered (↓ فَتَتَشَنَّجُ).<br>\
+(TA.)<br>\
+' } );

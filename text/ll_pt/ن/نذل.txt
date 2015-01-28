@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نذل</em>            1                  نذل<br>\
+<b>نَذُلَ</b>               1     <br>\
+                     نَذُلَ<br>\
+                     ذ<br>\
+                  , inf. n. نَذَالَةٌ, <i>He was,</i> or <i>became, low, base, vile, ignoble, mean, sordid,</i> or <i>contemptible,</i> (S, K,) <i>in all his circumstances.</i> (K.)    </entryFree> <br>\
+<b>نَذْلٌ</b>               1     <br>\
+                     نَذْلٌ<br>\
+                     ذ<br>\
+                   A man <i>vile,</i> or <i>mean, and despised in all his circumstances.</i> (K.)   </entryFree> <br>\
+' } );

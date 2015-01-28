@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>مدى</em>            1                  مدى<br>\
+<b>تَمَادَى فِى غَيِّهِ</b>               1     <br>\
+                     تَمَادَى فِى غَيِّهِ<br>\
+                     ذ<br>\
+                  <i>He persevered in his error.</i> (Msb.)    </entryFree> <br>\
+<b>مَدًى</b>               1     <br>\
+                     مَدًى<br>\
+                     ذ<br>\
+                   The <i>utmost extent, term, limit, or reach,</i> of a thing; syn. غَايَةٌ: (S, Msb, K:) <i>an extent, a distance; a space, an interval;</i> syn. مَسَافَةٌ. [meaning <i>a space that is,</i> or <i>that is to be, traversed</i>] and hence used in the sense before explained because extending to a غاية: (Z, in the Fáïk, quoted in the TA:) <i>a goal.</i> (The Lexicons passim.)    </entryFree> <br>\
+<b>مُدْيَةٌ</b>               1     <br>\
+                     مُدْيَةٌ<br>\
+                     ذ<br>\
+                  <i>A butcher&#39;s knife.</i> (Mgh.) See سِكِّينٌ.   </entryFree> <br>\
+' } );

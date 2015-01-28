@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'ضوم1<br>\
+ضَامَ, aor. يَضُومُ, inf. n. ضَوْمٌ, a dial. var. of<br>\
+ضَامَ, aor. يَضِيمُ, inf. n. ضَيْمٌ: (K:) ضُمْتُهُ, like<br>\
+ضِمْتُهُ, signifying ظَلَمْتُهُ [I wronged him, &amp;c.].<br>\
+(M, TA.)<br>\
+' } );

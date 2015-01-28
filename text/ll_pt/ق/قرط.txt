@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>قرط</em>            1                  قرط<br>\
+<b>قُرْطٌ</b>               1     <br>\
+                     قُرْطٌ<br>\
+                     ذ<br>\
+                  : see قِرَاطٌ.    </entryFree> <br>\
+<b>قِرَاطٌ</b>               1     <br>\
+                     قِرَاطٌ<br>\
+                     ذ<br>\
+                  <i>A lamp,</i> or its <i>lighted wick:</i> syn. مِصْبَاحٌ or شُعْلَتُهُ: (K:) the <i>lighted wick</i> (شُعْلَة) <i>of a lamp;</i> (S;) and so ↓ <br>\
+      قُرْطٌ. (L, art. صبح.)    <br>\
+' } );

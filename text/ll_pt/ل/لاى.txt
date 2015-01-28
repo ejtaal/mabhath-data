@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لاى</em>            1                  لاى<br>\
+<b>بَعْدُ لَاْىٍ</b>               1     <br>\
+                     بَعْدُ لَاْىٍ<br>\
+                     ذ<br>\
+                  <i>After difficulty,</i> &amp;amp;c. (Lth, TA.) See an ex. cited voce بَيَّنَ. ―         -b2-  لَاْيًا <br>\
+                  <i>With difficulty, trouble, labour,</i> or <i>exertion.</i>   <br>\
+' } );

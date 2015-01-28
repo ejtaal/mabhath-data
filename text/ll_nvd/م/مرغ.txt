@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'مرغ2<br>\
+مَرَّغَ<br>\
+He rolled, or turned over, a beast of<br>\
+carriage, in the dust. (K.) ―<br>\
+-b2-  مَرَّغَ<br>\
+He smeared,<br>\
+seasoned, imbued, or soaked, a mess of ثَرِيدِ, with<br>\
+grease, or gravy, or dripping; i. q.<br>\
+رَوَّغَ, and<br>\
+دَسَّمَ, and سَغْبَلَ. (TA in art. روغ.)<br>\
+3<br>\
+مَارَغَهُ<br>\
+[He rolled with him upon the ground,<br>\
+or in the dust]; said of a man after his wrestling<br>\
+with another. (TA in art. رسغ.) See 3, in that<br>\
+art.<br>\
+' } );

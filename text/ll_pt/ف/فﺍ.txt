@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فا<br>\
+&lt;entryFree id=&quot;n32803&quot; key=&quot;فَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and فا=ءٌ <br>\
+                  &lt;i&gt;Names of the letter&lt;/i&gt; <br>\
+                  ف, q. v.       -A2-  فَا as a prefixed n. in the accus. case, &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  فَم, see voce فُوهٌ, in art. فوه.   &lt;/entryFree&gt; <br>\
+&lt;div2 n=&quot;فا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فا<br>\
+&lt;entryFree id=&quot;n32804&quot; key=&quot;فَاْفَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     فَاْفَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, M, Msb,) inf. n. فَاْفَاَةٌ, (T, S, M, Msb, K,) &lt;i&gt;He reiterated the letter&lt;/i&gt; <br>\
+                  ف (Mbr, T, S, M, Msb, K) &lt;i&gt;in his speech;&lt;/i&gt; (S, M, K;) or &lt;i&gt;was as though the letter&lt;/i&gt; <br>\
+                  ف <br>\
+                  &lt;i&gt;predominated upon his tongue;&lt;/i&gt; (T;) or &lt;i&gt;had an impediment in the tongue, the letter&lt;/i&gt; <br>\
+                  ف <br>\
+                  &lt;i&gt;predominating in the speech.&lt;/i&gt; (M.) You say, فِيهِ فَاْفَاَةٌ [&lt;i&gt;In him is a fault of reiterating the letter&lt;/i&gt; <br>\
+                  ف <br>\
+                  &lt;i&gt;in his speech;&lt;/i&gt; &amp;amp;c.] (S, K.) [See also فَاْفا=ءٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32805&quot; key=&quot;فَاْفَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَاْفَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32806&quot; key=&quot;فَاْفَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَاْفَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, S, M, Msb, K) and ↓ <br>\
+      فَاْفَاٌ, (T, M, Msb, K, [and thus accord. to my copy of the Mgh,]) both mentioned by Lh, (T,) A man &lt;i&gt;in whom is what is termed&lt;/i&gt; <br>\
+                  فَاْفَاَةٌ, expl. above; (T, S, M, K;) or &lt;i&gt;who reiterates the letter&lt;/i&gt; <br>\
+                  ف <br>\
+                  &lt;i&gt;much when he speaks;&lt;/i&gt; (M;) or &lt;i&gt;who cannot utter the word unless with an effort, commencing with the like of the letter&lt;/i&gt; <br>\
+                  ف, &lt;i&gt;and then pronouncing with effort the letters of the word correctly:&lt;/i&gt; (Mgh:) or one &lt;i&gt;who reiterates his words much in speaking:&lt;/i&gt; (TA:) fem. with ة. (T, Msb.).   &lt;/entryFree&gt; <br>\
+' } );

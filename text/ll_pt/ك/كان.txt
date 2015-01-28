@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>كان</em>            1                  كان<br>\
+<b>كَاَنَ فِى خَلْقِهِ</b>               1     <br>\
+                     كَاَنَ فِى خَلْقِهِ<br>\
+                     ذ<br>\
+                  <i>He,</i> (a man) <i>was strong in his make</i> (IAar, in TA, voce كَنَتَ.)    </entryFree> <br>\
+<b>كَاْنِىٌّ</b>               1     <br>\
+                     كَاْنِىٌّ<br>\
+                     ذ<br>\
+                   A man <i>strong in his make.</i> (IAar, in TA, voce كَنَتَ.)    </entryFree> <br>\
+<b>كَاٍ</b>               1     <br>\
+                     كَاٍ<br>\
+                     ذ<br>\
+                   and كاءٍ: see كَاَىٍّ or كَاَيِّنْ in art. اَىٌّ (p. 134 <i>a.</i>)   </entryFree> <br>\
+' } );

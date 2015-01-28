@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لكن</em>            1                  لكن<br>\
+<b>لُكْنَةٌ</b>               1     <br>\
+                     لُكْنَةٌ<br>\
+                     ذ<br>\
+                  <i>An impotence,</i> or <i>impediment,</i> or <i>a difficulty, in speech</i> or <i>utterance;</i> (Msb;) <i>a barbarousness,</i> or <i>viciousness, and an impotence, or impediment, in speech:</i> (S:) or the <i>not speaking Arabic rightly, by reason of a barbarousness,</i> or <i>viciousness, in the tongue:</i> (K:) or the <i>interposing of</i> [<i>words of</i>] <i>a foreign language in one&#39;s speech.</i> (Mbr, TA.) See تَهْتَهَةٌ; and عُجْمَةٌ, with which it is syn.    </entryFree> <br>\
+<b>لٰكِنْ</b>               1     <br>\
+                     لٰكِنْ<br>\
+                     ذ<br>\
+                  , with the ن quiescent, has no government. ―         -b2-  It means <i>But</i> after a negative proposition: <i>but not</i> after an affirmative: see اـِلَّا.   </entryFree> <br>\
+' } );

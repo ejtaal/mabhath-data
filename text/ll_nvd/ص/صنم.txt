@@ -1,0 +1,52 @@
+load_data( { book: 'll_nvd', text: 'صنم2<br>\
+صنّم, inf. n. تَصْنِيمٌ, i. q. صَوَّرَ [He formed,<br>\
+fashioned, figured, shaped, sculptured, or pictured: app. from the noun here following]. (K.)<br>\
+صَنَمٌ [An idol: or an idol of a particular kind:]<br>\
+a وَثَن: (S:) or a وَثَن that is worshipped: (K:)<br>\
+or a وَثَن that is made of stones, and of wood; as<br>\
+is said on the authority of I&#39;Ab: (Msb:) or a<br>\
+thing well known, that is carved of wood, and<br>\
+that is made of molten and cast silver and copper<br>\
+or brass: (M; and the like is said in the Msb on<br>\
+the authority of IF:) or the صنم is made of<br>\
+metals that melt; and the وثن is made of stone or<br>\
+of wood: (Msb:) or, accord. to Hishám ElKelbee, the former is made of wood or of gold or<br>\
+of silver or of other metal; and the latter, of<br>\
+stones: or, accord. to Ibn-&#39;Arafeh and El-Fihree,<br>\
+the former is an image; and the latter is a shapeless thing: or, as some say, the former is a thing<br>\
+having corporeal from, carved of wood or of stone<br>\
+or of silver, and worshipped; and [the latter (in<br>\
+the TA the صنم, but this I suppose to be a mistake<br>\
+for the وثن,)] is a incorporeal form: or the former is a thing having the form of a human being;<br>\
+and the latter, a thing having some other form:<br>\
+or the former is a thing having material substance<br>\
+or shape; and the latter, a thing not having<br>\
+material substance or shape: or the former is of<br>\
+stones or other material; and the latter, an<br>\
+embodied form: (TA:) or, accord. to IAth, the<br>\
+latter [?] is anything having corporeal form, made<br>\
+of metal or of wood and stones, like the form of a<br>\
+human being, made, and set up, and worshipped;<br>\
+and the former [?] an incorporeal form: (TA in<br>\
+art. وثن: [from explanations given above, it<br>\
+seems that the reverse of this is the case:]) and<br>\
+Abu-l-&#39;Abbás states, on the authority of IAar,<br>\
+that ↓ صَنَمَةٌ and نَصَمَةٌ signify an image (صُورَةٌ)<br>\
+that is worshipped; (TA in the present art.;)<br>\
+each of these two words is thus (بِالتَّحْرِيك), though<br>\
+it would seem that accord. to the K the latter is<br>\
+نَصْمَةٌ: (TA in art. نصم:) صَنَمٌ (S, K) it is said<br>\
+(S) is an arabicized word, from شَمَن (S, K)<br>\
+[which is Pers., though SM says,] I know not in<br>\
+what language, for in Pers. it is بت [i. e. بُتْ]:<br>\
+(TA:) the pl. is أَصْنَامٌ; (S, M, Msb;) which, as<br>\
+used in the Kur xiv. 38, is said by Er-Rághib to<br>\
+mean things that divert one from God. (TA.)<br>\
+صَنَمَةٌ: see the next preceding paragraph.<br>\
+-A2-<br>\
+Also A calamity; a dial. var. of صَلَمَةٌ; (K, TA;)<br>\
+which is mentioned by Az, but omitted in the K<br>\
+in art. صلم. (TA.)<br>\
+-A3-  And The قَصَبَة [or quill]<br>\
+of any feather. (K.)<br>\
+' } );

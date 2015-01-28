@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>ابق</em>            1                  ابق<br>\
+<b>اَبَقَ</b>               1     <br>\
+                     اَبَقَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     اَبِقَ<br>\
+                  , (S, Mgh, Msb, K, &amp;amp;c.,) which is the most common form, (Msb,) and      <br>\
+                     اَبُقَ<br>\
+                  , (S, TS, Mgh, Msb,) and      <br>\
+                     اَبَقَ<br>\
+                  , (K,) so in the copies of the K in the place of      <br>\
+                     اَبُقَ<br>\
+                  ; (TA;) and اَبِقَ, aor.      <br>\
+                     اَبَقَ<br>\
+                  ; (IDrd, Msb, K;) inf. n. اـِبَاقٌ (S, Mgh, Msb) and اَبْقٌ and اَبَقٌ, (K,) or the first of these is a simple subst., and the second and third are the inf. ns.; (Msb;) <i>He</i> (a slave) <i>ran away,</i> or <i>fled,</i> (T, S, Mgh, Msb,) or <i>went away,</i> (K,) <i>from his master,</i> (T, Msb,) <i>without</i> [<i>being induced to do so by</i>] <i>fear, or severity of work:</i> (Msb, K:) thus the signification is restricted in the &#39;Eyn: (Msb:) and in this case, the law ordains that the slave shall be restored; but if the act arise from severity of work or from fear, he is not to be restored: (Lth, TA:) in the Kur xxxvii. 140, it is said of Jonas, (T, Bd,) because he fled from his people without the permission of his Lord: (Bd:) and it is also, tropically, said of a fish: (Mgh:) or <i>he</i> (a slave) <i>hid himself, and then went away:</i> (M, K:) as also ↓ <br>\
+      تابّق: (M:) or this signifies, simply, <i>he hid,</i> or <i>concealed, himself:</i> or <i>he confined, restricted, limited, restrained,</i> or <i>withheld, himself:</i> (S, K:) or it has both of the last two significations: (Sgh:) and <i>he abstained</i> from a thing, <i>as from a sin,</i> or <i>crime.</i> (IAar, K *.) A poet says, (S,) namely, &#39;Ámir Ibn—Kaab, (AZ,) or &#39;Ámán Ibn-Kaab, or, as some say, Ghámán, (AA,) <quote TEIform=&quot;quote&quot;><br>\
+                     <L>↓ <br>\
+      اَلَا قَالَتْ بَهَانِ وَ لَمْ تَاَبَّقْ<br>\
+                     <L><br>\
+                        كَبِرْتَ وَلَا يَلِيقُ بِكَ النَّعِيمُ<br>\
+                  </quote> [<i>Now surely Baháni said, and she did not hide herself,</i> or <i>did not restrain herself, Thou hast grown old, and enjoyment doth not befit thee</i>]: (S:) or <i>she did not hide herself</i> [or <i>her mind], but said openly:</i> (TA:) or <i>she did not go far</i> [from the person whom she addressed, or from the truth]; so says AZ, taking it from اـِبَاقٌ as relating to a slave: (TA:) or <i>she did not abstain</i> from her speech, as <i>from a sin,</i> or <i>crime:</i> (IAar:) or <i>she did not disdain,</i> or <i>scorn.</i> (TA.) AHát says that he asked As respecting ↓تابّق, and he answered that he knew it not. (TA.)    </entryFree> <br>\
+                     تَاَبَّقَ<br>\
+                   see 1, in three places. ―         -b2- تَاَبَّقَتْ <br>\
+                  <i>She</i> (a camel) <i>withheld her milk.</i> (TA.) ―         -b3-  تابّق الشَّىْءَ [or مِنَ الشَّىْءِ] <i>He denied,</i> or <i>disacknowledged, the thing.</i> (K.) One says to a man, “ Verily in thee is such a quality; “ and he replies, مَا اَتَاَبَّقُ <br>\
+                  <i>I do not deny,</i> or <i>disacknowledge:</i> and one says, “ O son of such a woman; ” and the man replies, مَا اَتَاَبَّقُ مِنْهَا <br>\
+                  <i>I do not deny,</i> or <i>disacknowledge, her.</i> (IF.)    </entryFree> <br>\
+<b>اَبُوقٌ</b>               1     <br>\
+                     اَبُوقٌ<br>\
+                     ذ<br>\
+                  : see ا=بِقٌ.    </entryFree> <br>\
+<b>اَبَّاقٌ</b>               1     <br>\
+                     اَبَّاقٌ<br>\
+                     ذ<br>\
+                  : see ا=بِقٌ.    </entryFree> <br>\
+<b>ا=بِقٌ</b>               1     <br>\
+                     ا=بِقٌ<br>\
+                     ا=بق<br>\
+                   A slave <i>running away,</i> or <i>fleeing,</i> &amp;amp;c.; a <i>runaway,</i> or <i>fugitive,</i> slave; part. n. of اَبَقَ; (Mgh, Msb, K;) as also ↓ <br>\
+      اَبُوقٌ [but in an intensive, or frequentative, sense, i. e. <i>who runs away,</i> or <i>flees, &amp;amp;c., much,</i> or <i>often;</i> and so ↓ <br>\
+      اَبَّاقٌ, occurring in the K, in art. ملخ]: (IF, K:) pl.اُبَّاقٌ (Mgh, Msb, K) and اٌبَّقٌ. (K.)   </entryFree> <br>\
+' } );

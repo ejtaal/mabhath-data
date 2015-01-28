@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>روند</em>            1                  روند<br>\
+<b>الرِّوَنْدُ</b>               1     <br>\
+                     الرِّوَنْدُ<br>\
+                     ذ<br>\
+                  , or الرِّيوَنْدُ, and رَاوَنْد: see art. رود.   </entryFree> <br>\
+' } );

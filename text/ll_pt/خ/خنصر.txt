@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>خنصر</em>            1                  خنصر<br>\
+<b>خِنْصِرٌ</b>               1     <br>\
+                     خِنْصِرٌ<br>\
+                     خنصر<br>\
+                   (S, Msb, K) and خِنْصَرٌ, (A, K,) the latter [of a rare form,] like دِرْهَمٌ, (TA,) The <i>little finger:</i> (S, A, K:) or the <i>middle finger:</i> (K:) the latter signification said by MF to be unknown; but it is mentioned in the L, as from the Book of Sb: (TA:) [and the <i>little toe:</i>] of the fem. gender: (Msb, K:) pl. خَنَاصِرُ: (Sb, S, K:) like فِرْسِنٌ, it has no pl. formed by the addition of ات: (Sb:) its pl. is also used as a sing., as though every part were termed خنصر; as in the phrase اـِنَّهُ لَعَظِيمُ الخَنَاصِرِ [<i>Verily he has a large little finger</i>]. (Lh.) You say, فُلَانٌ <br>\
+                  تُثْنَى بِهِ الخَنَاصِرُ [<i>The little fingers are bent in mentioning such a one</i> with others of his class]: i. e., one begins with him in mentioning persons of his class. (Msb.) [See 1 in art. ثنى.] And in like manner you say, عَدُّوهُ بِالخِنْصِرِ [<i>They counted him with the little finger</i>]: i. e., they commenced with him in counting. (MF.)   </entryFree> <br>\
+' } );

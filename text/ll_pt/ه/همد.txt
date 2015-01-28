@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>همد</em>            1                  همد<br>\
+<b>هَمْدَةٌ</b>               1     <br>\
+                     هَمْدَةٌ<br>\
+                     ذ<br>\
+                  <i>A trance:</i> so rendered voce رَقْدَةٌ.   </entryFree> <br>\
+' } );

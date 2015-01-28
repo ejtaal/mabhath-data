@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'فيروزجفِيرُوزَجٌ [an arabicized word from the Pers.<br>\
+فِيرُوزَهُ or پِيرُوزَهُ The turquoise;] a well-known<br>\
+kind of stone. (TA.) ―<br>\
+-b2-  And A certain sort of<br>\
+dye [probably of the colour of the stone so called].<br>\
+(TA.)<br>\
+' } );

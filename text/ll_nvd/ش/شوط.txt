@@ -1,0 +1,83 @@
+load_data( { book: 'll_nvd', text: 'شوط1<br>\
+شَاطَ, aor. يَشُوطُ, inf. n. شَوْطٌ, He ran a heat,<br>\
+or single run, or a run at once, to a goal, or limit.<br>\
+(TA.)<br>\
+2<br>\
+شوّط, inf. n. تَشْوِيطٌ, He (a man, IAar) made<br>\
+a long journey; his journey was, or became, long.<br>\
+(IAar, K.)<br>\
+-A2-  شوّط الفَرَسَ: see 5. ―<br>\
+-b2-  شوّط سَفِينَتَهُ<br>\
+He voyaged with his ship. (TA.)<br>\
+-A3-  Also شوّط<br>\
+He made a cooking-pot to boil. (El-Kilábee.)<br>\
+―<br>\
+-b2-  He cooked thoroughly flesh-meat; (Ibn-<br>\
+&#39;Abbád, Sgh, K;) as also شيّط: (Ibn-&#39;Abbád,<br>\
+Sgh:) or both signify he smoked it, or made it<br>\
+smoky, and did not thoroughly cook it. (TA.) ―<br>\
+-b3-<br>\
+(assumed tropical:)  It (hoar-frost, or rime,) burned (أَحْرَقَ, q. v.)<br>\
+a plant, or herbage: (K:) and in like manner one<br>\
+says of medicine which is sprinkled upon a wound.<br>\
+(TA.) See also 4 in art. شيط, in two places.<br>\
+5<br>\
+تشوّط الفَرَسَ, [in the CK, ↓ شَوَّطَ, but as this,<br>\
+in the manner in which it is there mentioned, is a<br>\
+needless repetition, being implied, if correct, it is<br>\
+doubtless a mistranscription,] He continued to<br>\
+drive, or urge on, the horse, until he was tired, or<br>\
+fatigued. (K, * TA.)<br>\
+شَوْطٌ A heat; a single run, or a run at once, to<br>\
+a goal, or limit; (Mgh, Msb, K;) syn. طَلَقٌ:<br>\
+(S, Msb:) pl. أَشْوَاطٌ. (S, Mgh, Msb, K.) You<br>\
+say, عَدَا شَوْطًا He ran a heat. (S.) And طَافَ<br>\
+بَالبَيْتِ سَبْعَةَ أَشْوَاطٍ He performed seven circuits<br>\
+round the House [of God, i. e. the Kaabeh]: (S,<br>\
+TA:) from the [Black] Stone to the [Black] Stone<br>\
+[again] is one شَوْط: (S, Msb, TA:) but some of<br>\
+the lawyers disapprove of this application of the<br>\
+term اشواط. (IF, K, TA.) ―<br>\
+-b2-  [It is also, app., an<br>\
+inf. n. used as an epithet: for one says, جَآءَ شَوْطٌ<br>\
+مِنَ الخَيْلِ: see سَنَنٌ, in the latter part of the<br>\
+paragraph.] It is sometimes used in relation to the<br>\
+wind: so says Lth: and he cites the following as<br>\
+an instance in which the wind is meant:<br>\
+وَنَازِحٍ مُعْتَكِرِ الأَشْوَاطِ<br>\
+[app. meaning And a wind, or many a wind,<br>\
+exhausting, or drying up, the waters, the blasts<br>\
+thereof bringing dust]. (TA.) ―<br>\
+-b3-  And it is also<br>\
+[used as meaning A bout] of shooting arrows.<br>\
+(T and M in art. رشق.) ―<br>\
+-b4-  Also The space of<br>\
+ground over which a horse runs; such as a مَيْدَان,<br>\
+and the like; which is [said by some to be] the<br>\
+primary signification; [but the primary signification is said by others to be the first given above;<br>\
+(see Har p. 574;)] and so ↓ تَشْوِيطَةٌ. (TA.) ―<br>\
+-b5-<br>\
+Also (assumed tropical:)  A scope; an object to be reached, or accomplished; syn. غَايَةٌ: whence the saying, الشَّوْطُ<br>\
+بَطِينٌ (assumed tropical:)  The scope is remote: (Har p. 574:) a<br>\
+prov., relating to the long extent of hope. (TA.)<br>\
+―<br>\
+-b6-  And (assumed tropical:)  A place between two elevated tracts of<br>\
+ground, through which water and men pass, as<br>\
+though it were a road, extending as far as the<br>\
+voice of a caller can be heard, then ending, (ISh,<br>\
+O, K,) of such depth that it will conceal the<br>\
+camel and his rider, found only in plain, or soft,<br>\
+ground, and producing good herbage: (ISh, O:)<br>\
+pl. شِيَاطٌ; (ISh, O, K;) originally شِوَاطٌ. (ISh,<br>\
+O.) Z writes it with س. (TA. See سَوْطٌ.)<br>\
+-A2-<br>\
+شَوْطُ بَرَاحٍ i. q. اِبْنُ آوَى [The jackal]: (IDrd, S,<br>\
+Z, O, L, K:) or some other beast. (L.)<br>\
+-A3-  شَوْطُ<br>\
+بَاطِلٍ: see سَوْطُ بَاطِلٍ, in art. سوط: accord. to<br>\
+IDrd, it is not of established authority. (O.)<br>\
+تَشْوِيطَةٌ: see شَوْطٌ. ―<br>\
+-b2-  It is also, metonymically,<br>\
+applied to (tropical:)  The plague, or pestilence; and other<br>\
+destructive diseases. (TA.)<br>\
+' } );

@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'قبنقَبَّانٌ<br>\
+A steelyard: see عَمُودُ المِيزَانِ.<br>\
+' } );

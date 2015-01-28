@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'نسجنَسِيجَهٌ<br>\
+, applied to a wind: see نَيِّحَة, art. نوح.<br>\
+' } );

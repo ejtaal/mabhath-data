@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>رمص</em>            1                  رمص<br>\
+<b>رَمِصَتْ عَيْنُهُ</b>               1     <br>\
+                     رَمِصَتْ عَيْنُهُ<br>\
+                     ذ<br>\
+                  , (S, Msb, K,) aor.      <br>\
+                     رَمَصَ<br>\
+                  , (Msb, K,) inf. n. رَمَصٌ, (Msb,) <i>His eye had in it what is termed</i> <br>\
+                  رَمَصٌ [q. v.]. (S, Msb, K.) And رَمِصَ, [aor. and] inf. n. as above, <i>He had what is termed</i> <br>\
+                  رَمَصٌ. (M.)       -A2-  رَمَصْتُ اـِلَيْهِ, aor.      <br>\
+                     رَمُصَ<br>\
+                  , inf. n. رَمْصٌ, <i>I looked towards him,</i> or <i>at him, with the most secret look.</i> (O, TA.)    </entryFree> <br>\
+<b>ارمصهُ</b>               1     <br>\
+                     ارمصهُ<br>\
+                     ذ<br>\
+                  <i>It</i> (disease) <i>caused him to have what is termed</i> <br>\
+                  رَمَصٌ. (M.)    </entryFree> <br>\
+<b>رَمَصٌ</b>               1     <br>\
+                     رَمَصٌ<br>\
+                     ذ<br>\
+                  <i>Filth,</i> [or <i>foul matter,</i>] (S, Mgh,) or <i>white filth,</i> (K,) or <i>tough,</i> or <i>dry, white filth,</i> (A,) <i>that collects,</i> (S, A, K,) or <i>concretes,</i> (Mgh,) <i>in the inner corner of the eye:</i> (S, A, Mgh, K:) if fluid, it is called غَمَصٌ: (S:) or it is <i>in the side of the eyelashes:</i> (ISh, TA in art. غمص:) or <i>what is fluid;</i> what is concrete being termed غَمَصٌ: or <i>i. q.</i> <br>\
+                  غَمَصٌ, i. e. <i>dirt which the eye emits:</i> or <i>smallness and sticking of the eye.</i> (M.) You say, مَنْ اَسَا=ءَهُ الرَّمَصُ سَرَّهُ الغَمَصُ [<i>Him whom tough,</i> or <i>dry, white filth collecting in the inner corner of the eye vexes, fluid matter therein rejoices</i>]: for غَمَص is a fresh fluid; and that is better than the tough, or dry. (A, TA.)    </entryFree> <br>\
+<b>رُمَيْصَا=ءُ</b>               1     <br>\
+                     رُمَيْصَا=ءُ<br>\
+                     ذ<br>\
+                   [dim. of رَمْصَا=ءُ, fem. of اَرْمَصُ]. ―         -b2-  الشِّعْرَى <br>\
+                  الرُّمَيْصَا=ءُ [<i>i. q.</i> <br>\
+                  الشِّعْرَى الغُمَيْصَا=ءُ, i. e., <i>Procyon;</i> (see الشَّعْرَى;)] <i>one of the two stars of the</i> <br>\
+                  ذِرَاع: so called because of its smallness and its littleness of light [in comparison with the other شِعْرَى, which is Syrius]. (M.)    </entryFree> <br>\
+<b>اَرْمَصُ</b>               1     <br>\
+                     اَرْمَصُ<br>\
+                     ذ<br>\
+                   A man (S, Mgh, Msb) <i>having, in his eye, what is termed</i> <br>\
+                  رَمَصٌ: (S, M, Mgh, Msb, K:) fem. رَمْصَا=ءُ: (Msb, K:) and pl. رُمْصٌ. (TA.)   </entryFree> <br>\
+' } );

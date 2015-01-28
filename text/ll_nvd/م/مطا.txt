@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مطأ1<br>\
+مَطَأَ, aor.<br>\
+مَطَاَ, Inivit feminam. (Ibn-ElFaraj, K.)<br>\
+' } );

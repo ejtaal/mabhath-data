@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>جرذم</em>            1                  جرذم<br>\
+<b>جَرْذَمَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     جَرْذَمَ<br>\
+                     ذ<br>\
+                  , (K,) inf. n. جَرْذَمَةٌ, (L,) <i>He hastened, made haste, sped,</i> or <i>was quick,</i> (L, K,) in walking, or going, and in work; (L;) like جردم. (K.)   </entryFree> <br>\
+' } );

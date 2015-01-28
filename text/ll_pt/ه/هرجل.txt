@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هرجل</em>            1                  هرجل<br>\
+<b>هِرْجَالٌ</b>               1     <br>\
+                     هِرْجَالٌ<br>\
+                     ذ<br>\
+                  , pl. هَرَاجيل, <i>A tall, long-bodied,</i> or <i>bulky, she-camel:</i> (TA:) see هِرْجَاب.   </entryFree> <br>\
+' } );

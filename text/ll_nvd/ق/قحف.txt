@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'قحفقِحْفٌ<br>\
+: see جُمْجُمَةٌ, in two places; ―<br>\
+-b2-  and قِدٌّ.<br>\
+―<br>\
+-b3-  A glass bowl; as also جُمْجُمَةٌ. (Az, TA in<br>\
+art. جم.)<br>\
+' } );

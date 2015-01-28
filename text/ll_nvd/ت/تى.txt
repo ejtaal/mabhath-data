@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'تى2<br>\
+تَيَّيْتُ تَآءٍ حَسَنَةَ [and حَسَنًا I made, or wrote,<br>\
+a beautiful ت]. (Lh, T.)<br>\
+تَيَوِىٌّ; and قَصِيدَةٌ تَيَوِيَّةٌ: see تَائِىٌّ, in art. توأ.<br>\
+' } );

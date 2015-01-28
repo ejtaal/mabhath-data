@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'يشبيَشْبٌ A well known stone; [jasper; peenliarly a whitish kind thereof, found in Mount<br>\
+Imaus: (Golius, from Et-Teyfáshee:)] an arabicized word, from [the Persian] يَشْم, q. v. (K.)<br>\
+' } );

@@ -1,0 +1,70 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ايد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ايد<br>\
+&lt;entryFree id=&quot;n1580&quot; key=&quot;ا=دَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ا=دَ<br>\
+                     ا=د<br>\
+                  &lt;/form&gt;, aor. يَيِيدُ, inf. n. اَيْدٌ, &lt;i&gt;He,&lt;/i&gt; (a man, AZ, T, &amp;amp;c.,) or &lt;i&gt;it,&lt;/i&gt; (a thing, L,) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, strong:&lt;/i&gt; (AZ, T, S, M, K, &amp;amp;c.:) and ↓ <br>\
+      ا=يد, inf. n. اـِيَادٌ, &lt;i&gt;he became possessed of strength.&lt;/i&gt; (AHeyth, T, L.) ―         -b2-  ا=دَتٌ ضِيَافَتُهُ (tropical:)  &lt;i&gt;His coming as a guest was,&lt;/i&gt; or &lt;i&gt;became, frequent.&lt;/i&gt; (A.) [See اَيِّدٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1581&quot; key=&quot;ايّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ايّد<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْيِيدٌ; (T, S, M, &amp;amp;c.;) and ↓ <br>\
+      ا=يد, (T, S, K,) of the measure فَاعَلَ, (S,) inf. n. مُوَايَدَةٌ; (K;) or &lt;i&gt;He strengthened:&lt;/i&gt; (S, M, L, Msb, K:) &lt;i&gt;he aided,&lt;/i&gt; or &lt;i&gt;rendered victorious.&lt;/i&gt; (L.) You say, ايّدهُ عَلَى الاَمْرِ <br>\
+                  &lt;i&gt;He strengthened him to accomplish the affair.&lt;/i&gt; (M, L.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     اَاْيَدَ<br>\
+                  &lt;/form&gt; see 2.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=يَدَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1582&quot; key=&quot;تايّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تايّد<br>\
+                     ذ<br>\
+                  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt; (a thing, S,) &lt;i&gt;became strengthened.&lt;/i&gt; (T, S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1583&quot; key=&quot;ا=دٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=دٌ<br>\
+                     ا=د<br>\
+                  &lt;i&gt;Strength;&lt;/i&gt; syn. صُلْبٌ, (M, L, K,) and قُوَّةٌ [which is one of the significations of صُلْبٌ, and that which is here meant]; as also ↓ <br>\
+      اَيْدٌ [which is an inf. n.: see 1]. (S, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1584&quot; key=&quot;اَيْدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=دٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1585&quot; key=&quot;اَيِّدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيِّدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Strong:&lt;/i&gt; (S, A, Mgh, Msb, K:) an epithet applied [to God, and] to a man. (S.) A poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        رَمَى فَاَصَابَ الكُلَى وَالذُّرَى <br>\
+                     &lt;L&gt;<br>\
+                        اـِذَا القَوْسُ وَتَّرَهَا اَيِّدٌ<br>\
+                  &lt;/quote&gt; [lit. &lt;i&gt;When a strong one strings the bow, he shoots, and hits the kidneys, and the tops of the humps of the camels&lt;/i&gt;]; meaning, when God strings [or stretches] the bow that is in the clouds, He casts fat into the kidneys and humps of the camels, by means of the herbage that is produced by the rain. (S.) ―         -b2-  اـِنَّهُ لَاَيِّدُ الغَدَا=ءِ وَالعَشَا=ءِ means (tropical:)  &lt;i&gt;Verily he is often present at the morning and evening meals.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1586&quot; key=&quot;اـِيَادٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيَادٌ<br>\
+                     اياد<br>\
+                     اـياد<br>\
+                     اياد<br>\
+                     يد<br>\
+                  &lt;i&gt;Anything by which a person or thing is strengthened,&lt;/i&gt; (M, L, K,) or &lt;i&gt;guarded, defended,&lt;/i&gt; or &lt;i&gt;protected:&lt;/i&gt; (T, L:) &lt;i&gt;a thing by which one is protected,&lt;/i&gt; or &lt;i&gt;veiled,&lt;/i&gt; or &lt;i&gt;concealed:&lt;/i&gt; the &lt;i&gt;side; shade,&lt;/i&gt; or &lt;i&gt;shadow;&lt;/i&gt; or &lt;i&gt;protection: a place of refuge:&lt;/i&gt; (M, L, K:) &lt;i&gt;either side&lt;/i&gt; of anything, &lt;i&gt;that strengthens&lt;/i&gt; it: (Lth, T:) &lt;i&gt;anything that is in the vicinity&lt;/i&gt; of a thing: (T:) &lt;i&gt;each wing&lt;/i&gt; of an army: (S, M, L, K:) &lt;i&gt;earth that is put round a watering-trough&lt;/i&gt; or &lt;i&gt;tank,&lt;/i&gt; or &lt;i&gt;round a tent,&lt;/i&gt; (S, M, L, K,) &lt;i&gt;to strengthen it,&lt;/i&gt; or &lt;i&gt;to keep away from it the rain-water:&lt;/i&gt; (S, L:) &lt;i&gt;any fortification: a fortified mountain:&lt;/i&gt; (M, L, K:) &lt;i&gt;a mountain that is inaccessible,&lt;/i&gt; or &lt;i&gt;difficult of access.&lt;/i&gt; (IAar, T.) [In the place of one signification, Golius gives “ cortex; ” having found لحاه in the place of لَجَا.] ―         -b2-  &lt;i&gt;An elevated tract,&lt;/i&gt; or &lt;i&gt;a heap, of sand.&lt;/i&gt; (M, K.) ―         -b3-  &lt;i&gt;Abundance of camels&lt;/i&gt; [because they strengthen their owner]. (K.) ―         -b4-  The &lt;i&gt;air;&lt;/i&gt; syn. هَوَا=ء. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1587&quot; key=&quot;مُوْيَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْيَدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُوَيَّدٌ:       -A2-  and see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1588&quot; key=&quot;مُوْيِدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْيِدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, of the same measure as مُوْمِنٌ, &lt;i&gt;A great, mighty,&lt;/i&gt; or &lt;i&gt;severe, thing;&lt;/i&gt; (S, L, K;) &lt;i&gt;a calamity:&lt;/i&gt; (T, S, M, L, K:) or, accord. to As, it is ↓ <br>\
+      مُوْيَدٌ, with fet-h to the ى, and signifies &lt;i&gt;anything rendered strong,&lt;/i&gt; or &lt;i&gt;hard,&lt;/i&gt; or &lt;i&gt;severe.&lt;/i&gt; (L.) [See مَا=وِدُ, in art. اود.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1589&quot; key=&quot;مُوَيَّدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَيَّدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مُوْيَدٌ (the latter irreg., by rule being مُوَايَدٌ, TK,) &lt;i&gt;Strengthened:&lt;/i&gt; (S, L, K:) &lt;i&gt;aided;&lt;/i&gt; or &lt;i&gt;rendered victorious:&lt;/i&gt; (L:) and the former, &lt;i&gt;strong,&lt;/i&gt; applied to a building. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1590&quot; key=&quot;مُوَيِّدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَيِّدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Strengthening:&lt;/i&gt; (S, L:) &lt;i&gt;aiding;&lt;/i&gt; or &lt;i&gt;rendering victorious.&lt;/i&gt; (L.) The dim. also has this form. (S.)   &lt;/entryFree&gt; <br>\
+' } );

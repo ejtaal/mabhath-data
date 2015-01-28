@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'صلط2<br>\
+صَلَّطَهُ اللّٰهُ عَلَيْهِ, inf. n. تَصْلِيطٌ, a dial. var. of<br>\
+سَلَّطَهُ, q. v. (Ibn-&#39; Abbád, K.)<br>\
+' } );

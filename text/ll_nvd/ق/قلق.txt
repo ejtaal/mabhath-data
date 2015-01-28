@@ -1,0 +1,33 @@
+load_data( { book: 'll_nvd', text: 'قلق1<br>\
+قَلِقَ<br>\
+, aor.<br>\
+قَلَقَ<br>\
+, (M, Msb, TA,) inf. n. قَلَقٌ, (S, M,<br>\
+Msb, K,) It was, or became, unsettled, unsteady,<br>\
+unfixed, loose, mobile, unquiet, or restless; it<br>\
+did not settle, become fixed or motionless or quiet<br>\
+or at rest, or it did not rest or remain or continue,<br>\
+in its place. (TA.) He, or it, became disquieted,<br>\
+disturbed, agitated, flurried, or in a state of<br>\
+unrest or commotion; syn. اِنْزَعَجَ, (S, K, TA,)<br>\
+and اِضْطَرَبَ. (M, Msb.) ―<br>\
+-b2-  قَلِقَ إِلَيْهِ, or الى<br>\
+لِقَائِهِ, see جَنَبَ.<br>\
+2<br>\
+قَلَّقَ<br>\
+see 4.<br>\
+4<br>\
+أَقْلَقَهُ<br>\
+He, or it, disquieted him; disturbed<br>\
+him; agitated him; flurried him. (S, Msb.)<br>\
+He moved it, a thing, from its place; as also<br>\
+↓ قَلَّقَهُ. (M.)<br>\
+قَلِقٌ<br>\
+Unsteady; loose. ―<br>\
+-b2-  عِبَارَةٌ قَلْقَةٌ<br>\
+A loose<br>\
+expression. (TA &amp;c., passim.)<br>\
+قَلَاقَةٌ<br>\
+Looseness in an expression. (TA &amp;c.,<br>\
+passim.)<br>\
+' } );

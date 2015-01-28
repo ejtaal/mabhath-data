@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>قصل</em>            1                  قصل<br>\
+<b>قَصَلَ</b>               1     <br>\
+                     قَصَلَ<br>\
+                     ذ<br>\
+                  : see خَصَلَ.    </entryFree> <br>\
+<b>قَصَلٌ</b>               1     <br>\
+                     قَصَلٌ<br>\
+                     ذ<br>\
+                   of wheat and barley: see جُرَامَةٌ.    </entryFree> <br>\
+<b>قَصِيلٌ</b>               1     <br>\
+                     قَصِيلٌ<br>\
+                     ذ<br>\
+                  <i>Corn,</i> or <i>seed-produce,</i> (K,) or <i>barley,</i> (Msb,) <i>cut while green,</i> (Msb, K,) <i>for fodder.</i> (Msb.)    </entryFree> <br>\
+<b>مِقْصَلٌ</b>               1     <br>\
+                     مِقْصَلٌ<br>\
+                     ذ<br>\
+                  : see مَخْصَلٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>وب</em>            1                  وب<br>\
+<b>وَبَّ</b>               1     <br>\
+                     وَبَّ<br>\
+                     ذ<br>\
+                   (originally اَبَّ, the ا being changed into و, Az,) inf. n. وَبٌّ; and ↓ <br>\
+      وَبَوبَ, inf. n. وَبْوَبَةٌ; <i>He prepared to charge,</i> or <i>make an assault, in battle.</i> (K.) See art. اب.    </entryFree> <br>\
+<b>وَبْوَبَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     وَبْوَبَ<br>\
+                     ذ<br>\
+                  : see 1.   </entryFree> <br>\
+' } );

@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>عفج</em>            1                  عفج<br>\
+<b>عَفِجَ</b>               1     <br>\
+                     عَفِجَ<br>\
+                     ذ<br>\
+                  , [aor.      <br>\
+                     عَفَجَ<br>\
+                  ,] inf. n. عَفَجٌ, <i>He</i> [a man, or a beast other than a ruminant,] <i>was,</i> or <i>became, fat in his</i> <br>\
+                  اَعْفَاج [pl. of عَفَجٌ, q. v.]. (L.)    </entryFree> <br>\
+<b>عَفْجٌ</b>               1     <br>\
+                     عَفْجٌ<br>\
+                     ذ<br>\
+                   and عِفْجٌ: see the next paragraph.    </entryFree> <br>\
+<b>عَفَجٌ</b>               1     <br>\
+                     عَفَجٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      عِفْجٌ and ↓ <br>\
+      عَفِجٌ (S, O, K) and ↓ <br>\
+      عَفْجٌ (L, and some copies of the K) sings. of which the pl. is اَعْفَاجٌ (S, O, K) and عِفَجَةٌ: (TA:) the اَعْفَاج are The اَمْعَا=ء [or <i>intestines into which the food passes from the stomach</i>]: (TA, and Ham p. 641:) or the <i>lower</i> <br>\
+                  اَمْعَا=ء: (TA, and Zj in his “ Khalk el-Insán: ”) or <i>in human beings, and in solid-hoofed animals, and in beasts of prey,</i> (S, O,) <i>that</i> [<i>portion of the intestines</i>] <i>to which the food passes from the stomach;</i> (S, O, K;) <i>which is like the</i> [<i>intestines called</i>] مَصَارِين <br>\
+                  <i>in camels and in cloven-hoofed animals, to which the stomach transmits what it has concocted,</i> lit. <i>what it has tanned</i> (مَا دَبَغَتْهُ:) (S, O: in some copies of the former, ما دَفَعَتْهُ:) or the عفج is <i>what is in the place of the</i> <br>\
+                  كَرِش <br>\
+                  <i>to that which has no</i> <br>\
+                  كَرِش: or, accord. to Lth, it is, <i>to any animal that does not ruminate, such of the</i> <br>\
+                  اَمْعَا=ء [or <i>lower intestines</i>] <i>of the belly as is like the</i> <br>\
+                  مِمْرَغَة <br>\
+                  <i>to the sheep</i> or <i>goat.</i> (TA.)       -A2-  عَفَجٌ is also the inf. n. of عَفِجَ [q. v.]. (L.)    </entryFree> <br>\
+<b>عَفِجٌ</b>               1     <br>\
+                     عَفِجٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.       -A2-  Also A man [and app. a solid-hoofed animal and a beast of prey] <i>fat in his</i> <br>\
+                  اَعْفَاج [pl. of عَفَجٌ, q. v.].    </entryFree> <br>\
+<b>اَعْفَجُ</b>               1     <br>\
+                     اَعْفَجُ<br>\
+                     ذ<br>\
+                  <i>Large in the</i> <br>\
+                  اَعْفَاج. (K, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>وصف</em>            1                  وصف<br>\
+<b>وَصُفَ</b>               1     <br>\
+                     وَصُفَ<br>\
+                     ذ<br>\
+                  <i>He attained to the proper age for service.</i> (K.) See an ex. in the K, voce مُخَلَّدُونَ.    </entryFree> <br>\
+<b>اَوْصَفَ</b>               1     <br>\
+                     اَوْصَفَ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      اِسْتَوْصَفَ <br>\
+                  <i>He</i> (a boy) <i>became of full stature, and fit for service.</i> (Mgh.)    </entryFree> <br>\
+<b>اِتَّصَفَ بِالعِلْمِ</b>               1     <br>\
+                     اِتَّصَفَ بِالعِلْمِ<br>\
+                     ذ<br>\
+                   [<i>He was,</i> or <i>became, characterized,</i> or <i>he characterized himself, by knowledge,</i> or <i>science</i>]. (Msb in art. اَهْلٌ.)    </entryFree> <br>\
+                     اـِسْتَوْصَفَ<br>\
+                   see 4.    </entryFree> <br>\
+<b>صِفَةٌ</b>               1     <br>\
+                     صِفَةٌ<br>\
+                     ذ<br>\
+                  <i>A quality; an attribute; a property;</i> or <i>a description,</i> as meaning the <i>aggregate of the qualities or attributes or properties</i> of a thing; or the <i>state, condition,</i> or <i>case,</i> of a thing. So explained voce صِنْفٌ, and voce صُورَةٌ. See its syn. حَالٌ. ―         -b2-  صِفَةٌ in grammar, <i>The same as</i> <br>\
+                  نَعْتٌ, <i>An epithet.</i> (K.) ―         -b3-  <i>A word denoting an attribute</i> (مَعْنًى) <i>and a substance</i> (ذَات). Under this term are comprised the اسم فاعل, the اسم مفعول, the صفة مشبّهة, and the افعل التفضيل. (I&#39;Ak, sect. الصفة <br>\
+                  المشبّهة باسم الفاعل.) ―         -b4-  صِقَةٌ مُشَبَّهَةٌ [<i>A simple epithet</i>]; <i>an epithet resembling an</i> <br>\
+                  اسم فاعل. ―         -b5-  صِفَةٌ غَالِبَةٌ <br>\
+                  <i>An epithet in which the substantive character predominates.</i> ―         -b6-  صِفَةٌ, as a general term for an attributive word, is also applied by Lth and other old writers to <i>An adverbial n. of place or time,</i> and to <i>a preposition.</i> It is so applied in the L and TA, art. عنل, &amp;amp;c. It was applied to the former by Fr, (T, voce ظَرْفٌ,) and to the latter also. (L, TA, ubi supra.)    </entryFree> <br>\
+<b>بَيْعُ المُوَاصَفَةِ</b>               1     <br>\
+                     بَيْعُ المُوَاصَفَةِ<br>\
+                     ذ<br>\
+                  : see 3 in art. روض.   </entryFree> <br>\
+' } );

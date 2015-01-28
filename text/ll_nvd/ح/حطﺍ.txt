@@ -1,0 +1,48 @@
+load_data( { book: 'll_nvd', text: 'حطأ1<br>\
+حَطَأَ He cast, or threw; syn. رَمَى [and,<br>\
+like this, trans. by means of بِ]. (K.) [Hence,]<br>\
+حَطَأَ بِهِ الأَرْضَ, (AZ, S, K,) aor.<br>\
+حَطَاَ, (K,) inf. n.<br>\
+حَطْءٌ, (S,) He cast him, or threw him, down<br>\
+prostrate upon the ground: (AZ, S, K:) or, with<br>\
+violence: one says, اِحْتَمَلَهُ فَحَطَأَ بِهِ الأَرْضَ [He<br>\
+raised him upon his back, and threw him down<br>\
+violently upon the ground]. (Lth, TA.) And<br>\
+حَطَأَتْ بِوَلَدِهَا She (a woman) cast forth her<br>\
+child from her womb. (TA in art. زكب.) And<br>\
+حَطَأَتِ القِدْرُ بِزَبَدِهَا The cooking-pot cast forth<br>\
+its froth, or scum, (S, TA,) in boiling. (TA.)<br>\
+And حَطَأَ بِسَلْحِهِ He cast forth his excrement,<br>\
+or ordure. (S.) And حَطَأَ [alone], aor.<br>\
+حَطَاَ and<br>\
+حَطِاَ,<br>\
+He cast forth his excrement, or ordure, at once,<br>\
+(K, TA,) quietly, or gently. (TA.) And حَطَأَ,<br>\
+(K,) or حَطَأَ بِهَا, (S,) He broke wind, with a<br>\
+sound. (S, K.) ―<br>\
+-b2-  حَطَأَ بِهِ عَنْ رَأْيِهِ He turned<br>\
+him back from the opinion, or judgment, that<br>\
+he had formed. (IAth, K.) ―<br>\
+-b3-  حَطَأَهُ He struck<br>\
+him, or slapped him, on the back with his open<br>\
+hand: (S, K:) or struck him gently on the back<br>\
+with the palm of his hand: (S in art. لطح:) or<br>\
+slapped him on the back, or between the shoulders,<br>\
+or on the upper part of the side, or on the chest;<br>\
+(Khálid Ibn-Jembeh, TA;) or on the back of<br>\
+the head: (AZ, TA:) and he struck him, or<br>\
+beat him, (Sh, K, *) with his hand; (Sh, TA;)<br>\
+but it is said that the meaning is, he struck him<br>\
+on the back of the neck: (TA:) it also occurs<br>\
+without ء. (TA.) ―<br>\
+-b4-  حَطَأَهَا He lay with her.<br>\
+(S, K. *)<br>\
+حَطْأَةٌ A slap on the back [&amp;c. (see the verb)]<br>\
+with the open hand. (S, TA.) It also occurs<br>\
+without ء, written حَطْوَةٌ. (TA.)<br>\
+حَطِىْءٌ, applied to a man, Low, ignoble, mean,<br>\
+or sordid. (AZ, S, K.) You say also حَطِىْءٌ بَطِىْءٌ,<br>\
+using the latter word as an imitative sequent. (S.)<br>\
+حُطَيْئَةٌ, applied to a man, Ugly; or contemptible; or ugly in aspect and small in body:<br>\
+(Th, S, K:) or short. (S, K.)<br>\
+' } );

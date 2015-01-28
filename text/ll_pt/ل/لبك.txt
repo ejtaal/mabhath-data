@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لبك</em>            1                  لبك<br>\
+<b>لَبَكَهُ</b>               1     <br>\
+                     لَبَكَهُ<br>\
+                     ذ<br>\
+                   is like رَبَكَهُ.    </entryFree> <br>\
+<b>لَبَكَةٌ</b>               1     <br>\
+                     لَبَكَةٌ<br>\
+                     ذ<br>\
+                  : see عَبَكَةٌ.   </entryFree> <br>\
+' } );

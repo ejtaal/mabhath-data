@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كركب</em>            1                  كركب<br>\
+<b>كُرْكُبٌ</b>               1     <br>\
+                     كُرْكُبٌ<br>\
+                     ذ<br>\
+                  , like كُرْكُمٌ, <i>A certain plant of sweet odour.</i> (K.) The former word is a syn. of the latter. (TA.)   </entryFree> <br>\
+' } );

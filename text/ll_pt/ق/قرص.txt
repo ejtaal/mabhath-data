@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قرص</em>            1                  قرص<br>\
+<b>قُرْصٌ</b>               1     <br>\
+                     قُرْصٌ<br>\
+                     ذ<br>\
+                  <i>A round convex ornament</i> worn on the crown of the tarboosh. (See Modern Egypt. Appendix A.)   </entryFree> <br>\
+' } );

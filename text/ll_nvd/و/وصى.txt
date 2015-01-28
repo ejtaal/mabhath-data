@@ -1,0 +1,32 @@
+load_data( { book: 'll_nvd', text: 'وصى2<br>\
+وَصَّاهُ<br>\
+and ↓ أَوْصَاهُ<br>\
+He enjoined him; charged<br>\
+him; bade him; ordered him: (K, &amp;c.:) he<br>\
+commanded him,<br>\
+بِكَذَا, to do such a thing.<br>\
+(Msb.)<br>\
+4<br>\
+أَوْصَى لَهُ بِالثُّلُثِ<br>\
+He bequeathed to him<br>\
+the third of the property. (MA.) ―<br>\
+-b2-  أَوْصَى<br>\
+He<br>\
+made his will. ―<br>\
+-b3-  See 2.<br>\
+6<br>\
+تَوَاصَوْا<br>\
+They enjoined, charged, bade, ordered,<br>\
+or commanded, one another. See an ex. voce تَبَاعَثُوا.<br>\
+وَصِىٌّ<br>\
+A person commissioned; a commissioned<br>\
+agent: (K:) an executor appointed by a will.<br>\
+وَصِيَّةٌ<br>\
+An injunction, a charge, bidding, order,<br>\
+or command: (K:) an admonition, with an<br>\
+endeavour to persuade: and a command: its<br>\
+place may be supplied by any word in which<br>\
+is the meaning of أَمْرٌ. (Msb.) ―<br>\
+-b2-  And A will,<br>\
+or testament. (K, * TA.)<br>\
+' } );

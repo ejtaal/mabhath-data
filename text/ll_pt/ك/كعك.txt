@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كعك</em>            1                  كعك<br>\
+<b>كَعْكٌ</b>               1     <br>\
+                     كَعْكٌ<br>\
+                     ذ<br>\
+                  <i>A well-known bread;</i> (K;) <i>biscuit;</i> (MA;) or [<i>a kind of</i>] <i>dry bread:</i> (MA, TA:) now applied to <i>a sort of bread made in the form of a ring, hollow,</i> [<i>and generally containing some</i> <br>\
+                  دبس or <i>the like,</i>] <i>the best of which is brought from Syria, and given as a present.</i> (TA.)   </entryFree> <br>\
+' } );

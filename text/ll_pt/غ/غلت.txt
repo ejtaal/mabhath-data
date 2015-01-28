@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>غلت</em>            1                  غلت<br>\
+<b>غَلَتَ</b>               1     <br>\
+                     غَلَتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     غَلُتَ<br>\
+                  , (TK,) inf. n. غَلْتٌ, (I Aar, O, K,) <i>He rescinded,</i> or <i>annulled,</i> a purchase or sale. (I Aar, O, K, TK.)       -A2-  غَلِتَ, [aor. ؟؟,] (S, O, Msb,) inf. n. غَلَتٌ, (S, O, K,) <i>i. q.</i> <br>\
+                  غَلِطَ [<i>He made a mistake,</i> or <i>committed an error,</i> &amp;amp;c.]: (As, I Aar, S, O:) or the former means <i>in reckoning,</i> or <i>computation;</i> and the latter, in speech, (AA, T, S, O, Msb, K,) i. e. he said a thing by mistake meaning to say another thing; (AA, S, O;) or the latter means in reckoning and in speech. (Lb, TA.) It is said in a trad., لَا غَلَتَ فِى <br>\
+                  الاـِسْلَامِ [<i>There shall he no</i> <br>\
+                  غَلَت <br>\
+                  <i>in El-Islám],</i> meaning, [for instance,] a man&#39;s <i>saying</i> “ <i>I bought of thee this garment,</i> or <i>piece of cloth, for a hundred deenárs</i> ” <i>and thy then finding that he bought it for less.</i> (O.)    </entryFree> <br>\
+<b>تغلّتهُ</b>               1     <br>\
+                     تغلّتهُ<br>\
+                     ذ<br>\
+                  <i>He took him in a state of inadvertence,</i> or <i>heedlessness;</i> (K, TA;) the doing of which (i. e. التَّغَلُّتُ) is said in a trad. to be not allowable; (TA:) as also ↓ <br>\
+      اغتلتهُ. (K, TA.)    </entryFree> <br>\
+                     اـِغْتَلَتَ<br>\
+                   see what next precedes.    </entryFree> <br>\
+<b>اِغْلَنْتَى عَلَيْهِ</b>               1     <br>\
+                     <i>Q. Q. 3</i>        <br>\
+                     اِغْلَنْتَى عَلَيْهِ<br>\
+                     ذ<br>\
+                  <i>He set upon him,</i> or <i>assailed him,</i> or <i>overcame him, with reviling and beating and violence:</i> (AZ, S, O, K:) like اِغْرَنْدَى (AZ, S, O.) [See اِسْرَنْدَى.]    </entryFree> <br>\
+<b>الغَلْتَةُ</b>               1     <br>\
+                     الغَلْتَةُ<br>\
+                     ذ<br>\
+                  , (K,) or غَلْتَةُ اللَّيْلِ, (O,) <i>The beginning,</i> or <i>first part, of the night.</i> (O, K.)    </entryFree> <br>\
+<b>غُلْتَةٌ</b>               1     <br>\
+                     غُلْتَةٌ<br>\
+                     ذ<br>\
+                   a subst. from [the inf. n.] غَلَتُ [meaning <i>A mistake,</i> or <i>an error,</i> &amp;amp;c.], (O, K.)    </entryFree> <br>\
+<b>غَلُوتٌ</b>               1     <br>\
+                     غَلُوتٌ<br>\
+                     ذ<br>\
+                   One <i>who makes mistakes,</i> or <i>commits errors, much,</i> or <i>often,</i> whether in reckoning, or computation, or in speech. (O, * TA.)    <br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'كين10<br>\
+اِسْتَكَانَ<br>\
+: see اِسْتَكَنَ in art. سكن: and see<br>\
+art. كون.<br>\
+كَيْنٌ<br>\
+(also written كَيْنَةٌ, K, voce زَرْنَبٌ): see<br>\
+بَظْرٌ.<br>\
+' } );

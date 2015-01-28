@@ -1,0 +1,36 @@
+load_data( { book: 'll_nvd', text: 'فوح1<br>\
+فَاحَ المِسْكُ, (Msb, K,) aor. يَفُوحُ and يَفِيحُ;<br>\
+(Msb;) or فَاحَتْ رِيحُ المِسْكِ, aor. تَفُوحُ and تَفِيحُ;<br>\
+(S;) inf. n. فَوْحٌ (S, Msb, K) and فُؤُوحٌ and فَوَحَانُ,<br>\
+(S, K,) and فَيْحٌ (S, Msb, K) and فَيَحَانٌ; (S, K;)<br>\
+The musk diffused [or exhaled] its odour; (Msb,<br>\
+K;) or the odour of the musk diffused itself [or<br>\
+became exhaled]; and فاح الطِّيبُ the perfume<br>\
+diffused [or exhaled] its odour; (S;) or this last<br>\
+signifies the perfume became perceptible; or it<br>\
+clung and remained; [in a garment or person;]<br>\
+syn. عَبِقَ: (Msb in art. فيح:) the verb is not<br>\
+used in relation to a foul, or disagreeable odour<br>\
+or thing: (S, A, Msb, K:) of such an odour one<br>\
+says هَبَّتْ: (Msb:) or the former verb is common<br>\
+to both: (K:) but this assertion is outweighed<br>\
+[by the other]: (TA:) فَوْخٌ signifies the giving<br>\
+forth, and exhaling, a sweet, or pleasant, odour:<br>\
+(KL:) and the perceiving such an odour: Fr<br>\
+says that فَاحَتْ رِيحُهُ and فَاخَتْ are syn.; but<br>\
+AZ says the فَوْخٌ is attended by sound. (TA.)<br>\
+―<br>\
+-b2-  For other significations of this verb, see art.<br>\
+فيح.<br>\
+4<br>\
+افاح: for this verb, see art. فيح.<br>\
+6<br>\
+نَزَلْنَا فِى بُسْتَانٍ تَنَاوَحَتْ أَطْيَارُهُ وَتَفَاوَحَتْ أَنْوَارُهُ<br>\
+[We alighted in a garden the birds of which<br>\
+warbled plaintively, one to another, and the<br>\
+flowers of which exhaled sweet odours, one with<br>\
+another]. (A.)<br>\
+فَوْحٌ الحَيْضِ The chief and first portion of the<br>\
+menstrual discharge. (L.)<br>\
+فَوْحَةٌ [A spreading, or an exhalation], of perfume. (TA in art. عصر.)<br>\
+' } );

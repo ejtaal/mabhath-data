@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'روف1<br>\
+رَافَ, (IDrd, K,) aor. يَرَافُ, (K,) or يَرُوفُ,<br>\
+inf. n. رَوْفٌ, (IDrd,) is a dial. var. of رَأَفَ, (IDrd,<br>\
+K,) aor. يَرْأَفُ: (K:) or, as some say, (IDrd,)<br>\
+رَوْفٌ signifies The being still; and is not from<br>\
+الرَّأْفَةُ: (IDrd, K:) [ISd says,] رَافَ, inf. n. رَوْفٌ,<br>\
+signifies سَكَنَ [he, or it, was, or became, still,<br>\
+&amp;c.] and رَأَفَ [q. v.] is a dial. var. thereof [signifying thus]; and is not from رَؤُوفٌ syn. with<br>\
+رَحِيمٌ. (M.)<br>\
+3<br>\
+راوف: see رَأَفَ.<br>\
+رَافٌ Wine; a dial. var. of رَأْفٌ. (TA.)<br>\
+رَوْفَةٌ Mercy, or compassion: (O, K:) so accord. to IAar. (O.)<br>\
+' } );

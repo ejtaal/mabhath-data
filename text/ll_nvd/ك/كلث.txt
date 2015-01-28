@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'كلث7<br>\
+انكلث He advanced: preceded: syn. تَقَدَّمَ.<br>\
+(K.)<br>\
+مِكْلَثٌ A man (TA) penetrating (مَاضٍ) in<br>\
+affairs. (K.) See مِكْلَتٌ.<br>\
+' } );

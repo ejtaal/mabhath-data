@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'كنبتQ. 2<br>\
+تَكَنْبَتَ He (a man) became contracted<br>\
+[in disposition; or niggardly, or stingy]. (L, as<br>\
+from IDrd.) But see art. كنبث. (TA.)<br>\
+كُنْبُبٌ, (or this should be كُنْثُبٌ, TA) A<br>\
+hard, strong, robust, man. (L.) But see كُنْبُثٌ.<br>\
+(TA.) ―<br>\
+-b2-  Also, and كُنَابِتٌ, A man contracted<br>\
+[in disposition]; niggardly, or stingy. (L.)<br>\
+But see art. كنبث. (TA.)<br>\
+' } );

@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'شرولشِرْوَالٌ is [said to be] a dial. var. of سِرْوَالٌ:<br>\
+(K:) IAmb says that Es-Sijistánee mentions his<br>\
+having heard some of the Arabs of the desert say<br>\
+شِرْوَال for سِرْوَال; but that it seems he heard them<br>\
+use the Pers. word, [which, it appears, is شَرْوَال<br>\
+as well as شَلْوَار,] and knew it not: (O, TA: *)<br>\
+شروال is a vulgar word, [now commonly pronounced شَرْوَال,] and some of the vulgar say<br>\
+شَلْوَار, with fet-h to the ش. (TA.)<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ثيخ</em>            1                  ثيخ<br>\
+<b>ثَاخَ</b>               1     <br>\
+                     ثَاخَ<br>\
+                     ثاخ<br>\
+                  , aor. يَثِيخُ: see art. ثوخ.   </entryFree> <br>\
+' } );

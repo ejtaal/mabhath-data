@@ -1,0 +1,46 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اكد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اكد<br>\
+&lt;entryFree id=&quot;n977&quot; key=&quot;اَكَدَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَكَدَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He trod&lt;/i&gt; wheat. (IAar, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n978&quot; key=&quot;اكّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اكّد<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْكِيدٌ, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  وَكَّدَ, (S, Msb, K,) of which it is a dial. var.; (S;) but it is not so chaste as the latter, and by some is disallowed. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n979&quot; key=&quot;ا=كد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=كد<br>\
+                     ا=كد<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَوْكَدَ. (S in art. وكد.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n980&quot; key=&quot;تاكّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاكّد<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تَوَكَّدَ. (S and K in art. وكد.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n981&quot; key=&quot;اـكَادٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـكَادٌ<br>\
+                     اكاد<br>\
+                     اكاد<br>\
+                     كاد<br>\
+                  &lt;/form&gt; sing. of اَكَايِدٌ and تَا=كِيدٌ, (K,) both of which are irreg. in relation to their sing., (TA,) signifying (i. e. the pls.) &lt;i&gt;Thongs,&lt;/i&gt; or &lt;i&gt;straps, by which the&lt;/i&gt; <br>\
+                  قَرَبُوس <br>\
+                  &lt;i&gt;is bound to the two side-boards of a horse&#39;s saddle.&lt;/i&gt; (K.) [See also وِكَادٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n982&quot; key=&quot;اكر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اكر<br>\
+                     اكر<br>\
+                     اكرى<br>\
+                     اكرة<br>\
+                     اكر<br>\
+                     كر<br>\
+                     كرا<br>\
+                     كرى<br>\
+                     كري<br>\
+                     آكر<br>\
+                  &lt;i&gt;Firm;&lt;/i&gt; (K, TA;) applied to a covenant, or compact. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

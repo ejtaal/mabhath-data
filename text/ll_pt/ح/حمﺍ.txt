@@ -1,0 +1,42 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حما&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حما<br>\
+&lt;entryFree id=&quot;n9026&quot; key=&quot;حَمَاَ البِيْرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     حَمَاَ البِيْرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.     <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَمَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. حَمْءٌ, (S,) &lt;i&gt;He cleansed the well of its&lt;/i&gt; <br>\
+                  حَمْاَة [or &lt;i&gt;black, fetid mud&lt;/i&gt;]. (S, K.) In the T, this signification is assigned to البير ↓ <br>\
+      احما; and the signification assigned below to the latter is given to حما: but As says that he does not find this authorized by usage. (TA.)       -A2-  حَمِيَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَمَاَ<br>\
+                  &lt;/form&gt;, inf. n. حَمْءٌ and حَمَاٌ, &lt;i&gt;It&lt;/i&gt; (water) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, mixed with black, fetid mud, and so rendered turbid,&lt;/i&gt; (K, TA,) &lt;i&gt;and altered in odour.&lt;/i&gt; (TA.) And حَمِيَتِ البِيْرُ, inf. n. حَمَاٌ, &lt;i&gt;The well had in it black&lt;/i&gt; [&lt;i&gt;fetid&lt;/i&gt;] &lt;i&gt;mud&lt;/i&gt; (S, Msb) &lt;i&gt;in abundance:&lt;/i&gt; (S:) and the like is also said of a spring. (TA.)       -A3-  حَمِيَ عَلَيْهِ <br>\
+                  &lt;i&gt;He was angry with him;&lt;/i&gt; (El-Umawee, S, K;) as also حَمِىَ. (Lh, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9027&quot; key=&quot;احما البِيْرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     احما البِيْرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (ISk, S, K,) inf. n. اـِحْمَا=ءٌ, (ISk, S,) &lt;i&gt;He threw&lt;/i&gt; <br>\
+                  حَمْاَة [or &lt;i&gt;black, fetid mud&lt;/i&gt;] &lt;i&gt;into the well.&lt;/i&gt; (ISk, S, K.) ―         -b2-  See also 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9028&quot; key=&quot;حَمْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَمْءٌ<br>\
+                     حمء<br>\
+                  &lt;/form&gt; and حَمٌ and حَمُو [only used as a prefixed n. governing the gen. case (see حَمٌ in art. حمو)] and حَمًا (S, Msb, K) and ↓ <br>\
+      حَمَاٌ (K) A woman&#39;s &lt;i&gt;husband&#39;s father;&lt;/i&gt; (IF, Msb, K;) and a man&#39;s &lt;i&gt;wife&#39;s father:&lt;/i&gt; (IF, Msb:) or a man&#39;s &lt;i&gt;wife&#39;s father&lt;/i&gt; or &lt;i&gt;wife&#39;s brother&lt;/i&gt; or &lt;i&gt;wife&#39;s paternal uncle:&lt;/i&gt; (M, Msb:) or &lt;i&gt;any one of&lt;/i&gt; a woman&#39;s &lt;i&gt;husband&#39;s&lt;/i&gt; [&lt;i&gt;male&lt;/i&gt;] &lt;i&gt;relations,&lt;/i&gt; (S, O, K,) as the &lt;i&gt;brother&lt;/i&gt; and the &lt;i&gt;father&lt;/i&gt; (S, O) and the &lt;i&gt;paternal uncle;&lt;/i&gt; (O, TA;) and &lt;i&gt;of&lt;/i&gt; a man&#39;s &lt;i&gt;wife&#39;s relations:&lt;/i&gt; (K:) pl. اَحْمَا=ءٌ: (S, K:) the fem. is حَمَاْةٌ. (TA.)       -A2-  See also حَمْاَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9029&quot; key=&quot;حَمَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَمَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see حَمْءٌ:       -A2-  and see also what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9030&quot; key=&quot;حَمْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَمْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, Msb, K) and ↓ <br>\
+      حَمَاٌ, (S, K,) but accord. to some, the latter is the pl. [or rather quasipl. n.] of the former; and sometimes, by poetic license, it is written ↓ <br>\
+      حَمْءٌ; (TA;) &lt;i&gt;Black mud:&lt;/i&gt; (S, Msb:) or &lt;i&gt;black fetid mud.&lt;/i&gt; (K.)       -A2-  Also, the former, &lt;i&gt;A certain plant,&lt;/i&gt; (K,) &lt;i&gt;that grows in Nejd, in the sands, and in plain,&lt;/i&gt; or &lt;i&gt;soft, land.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9031&quot; key=&quot;حَمِيُ العَيْنِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَمِيُ العَيْنِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A man &lt;i&gt;of an evil eye,&lt;/i&gt; (Fr, K,) &lt;i&gt;who injures with his eye him whom he sees and admires:&lt;/i&gt; no verb belonging to it has been heard. (Fr, TA.)       -A2-  حَمِيَةٌ A well (بِيْر) or a spring (عَيْن) &lt;i&gt;foul with black, fetid mud.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>وخد</em>            1                  وخد<br>\
+<b>وَخَدَ</b>               1     <br>\
+                     وَخَدَ<br>\
+                     ذ<br>\
+                  , aor. يَخِدُ, inf. n. وَخْدٌ and وَخَدَانٌ (S, A, L, K) and وَخِيدٌ, (K,) <i>He</i> (a camel) <i>went along throwing out his legs like the ostrich:</i> (S, L, K:) or <i>went quickly:</i> or <i>went with wide steps:</i> (L, K:) as also خَدَى: (L:) also said of a horse, (Kr, L,) and of an ostrtch. (TA.) See نَصَبَ <br>\
+                  السَّيْرَ.    </entryFree> <br>\
+<b>وخُودٌ</b>               1     <br>\
+                     وخُودٌ<br>\
+                     ذ<br>\
+                  : see وَاخِدٌ.    </entryFree> <br>\
+<b>وَخَّادٌ</b>               1     <br>\
+                     وَخَّادٌ<br>\
+                     ذ<br>\
+                  : see وَاخِدٌ.    </entryFree> <br>\
+<b>وَاخِدٌ</b>               1     <br>\
+                     وَاخِدٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      وَخَّادٌ (S, L, K,) and ↓ <br>\
+      وَخُودٌ (L, K) A camel <i>going along,</i> or <i>that goes along, throwing out his legs like the ostrich:</i> (S, L, K:) or, <i>quickly:</i> or, <i>with wide steps.</i> (L, K.) The second [which is an intensive or frequentative epithet] is also applied to an ostrich: and the third [which is intensive] to a she-camel. (L.)   </entryFree> <br>\
+' } );

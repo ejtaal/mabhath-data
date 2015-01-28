@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'وتروَتَرَةٌ<br>\
+The vein (عِرْق [meaning the frenum])<br>\
+that is in the inner side (بَاطِن) of the glans of<br>\
+the penis. (S, K, and Zj, in his “ Khalk el-Insán. ”)<br>\
+مَوْتُورٌ<br>\
+: see voce ثَأْرٌ.<br>\
+' } );

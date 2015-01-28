@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'كرصكَرِيصٌ<br>\
+A kind of<br>\
+أَقِط: see كَثْءٌ.<br>\
+مِكْرَصٌ<br>\
+: i. q.<br>\
+مِضْرَب, q. v.<br>\
+' } );

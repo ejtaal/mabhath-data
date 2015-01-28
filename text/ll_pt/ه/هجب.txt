@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>هجب</em>            1                  هجب<br>\
+<b>هَجَبَ</b>               1     <br>\
+                     هَجَبَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     هَجُبَ<br>\
+                  , inf. n. هَجْبٌ, <i>He drove,</i> or <i>urged along.</i> (K.) ―         -b2-  Also, <i>He beat with a stick,</i> or <i>staff.</i> (K.) ―         -b3-  Also, هَجَبَ, inf. n. as above, <i>He was quick,</i> or <i>swift,</i> (K,) <i>in his pace &amp;amp;c.</i> (TA.) ―         -b4-  This art. is omitted by most of the lexicographers, because not regarded by them as of established authority. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'يتم4<br>\
+أَيْتَمَهُ<br>\
+[He made him fatherless]. (TA in<br>\
+art. ايم.) See an ex. in art. ايم, conj. 2.<br>\
+' } );

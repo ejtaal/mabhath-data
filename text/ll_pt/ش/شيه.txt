@@ -1,0 +1,109 @@
+load_data( { book: 'll_pt', text: '<em>شيه</em>            1                  شيه<br>\
+<b>شَاهَهُ</b>               1     <br>\
+                     شَاهَهُ<br>\
+                     ذ<br>\
+                  , aor. يَشِيهُهُ, (K,) inf. n. شَيْهٌ, (TA,) <i>i. q.</i> <br>\
+                  عَانَهُ, (Ibn-Buzurj, K, TA, [in the CK, erroneously عابَهُ,]) i. e. <i>He smote him with the</i> [<i>evil</i>] <i>eye.</i> (TA.) [See also 1 in art. شوه.]    </entryFree> <br>\
+<b>شَيْهٌ</b>               1     <br>\
+                     شَيْهٌ<br>\
+                     ذ<br>\
+                   and شِيهٌ: see شَاةٌ (of which they are quasipl. ns.) in art. شوه.    </entryFree> <br>\
+<b>شِيَاهٌ</b>               1     <br>\
+                     شِيَاهٌ<br>\
+                     ذ<br>\
+                  : see شَاةٌ (of which it is a pl.) in art. شوه.    </entryFree> <br>\
+<b>شَيُوهٌ</b>               1     <br>\
+                     شَيُوهٌ<br>\
+                     ذ<br>\
+                  <i>That smites vehemently with the</i> [<i>evil</i>] <i>eye.</i> (Ibn-Buzurj, K, TA. [In the CK, عَيُوبٌ is erroneously put for عَيُونٌ.])    </entryFree> <br>\
+<b>شَيِّهٌ</b>               1     <br>\
+                     شَيِّهٌ<br>\
+                     ذ<br>\
+                  : see شَاةٌ (of which it is a quasi-pl. n.) in art. شوه.    </entryFree> <br>\
+<b>اَشْيَهُ</b>               1     <br>\
+                     اَشْيَهُ<br>\
+                     ذ<br>\
+                   [<i>More,</i> and <i>most, wont to smite with the evil eye</i>]. One says, هُوَ مِنْ اَشْيَهِ النَّاسِ [<i>He is of the most wont, of men, to smite with the evil eye:</i> this meaning being indicated by the context]. (Ibn-Buzurj, K, TA.)  <br>\
+         </div1><br>\
+      </body><br>\
+   </text><br>\
+</TEI.2><?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?><br>\
+<TEI.2><br>\
+   <teiHeader type=&quot;text&quot; status=&quot;new&quot;><br>\
+      <fileDesc><br>\
+         <titleStmt><br>\
+            <title>An Arabic-English Lexicon</title><br>\
+            <title><br>\
+               ا<br>\
+            </title><br>\
+            <author>Edward William Lane</author><br>\
+            <funder n=&quot;org:USDeptEd&quot;>The U.S. Department of Education</funder><br>\
+            <funder n=&quot;org:MaxPlanck&quot;>The Max Planck Society</funder><br>\
+         </titleStmt><br>\
+         <publicationStmt><br>\
+            <publisher>Trustees of Tufts University</publisher><br>\
+            <pubPlace>Medford, MA</pubPlace><br>\
+            <authority>Perseus Project</authority><br>\
+            <availability status=&quot;free&quot;><br>\
+               <p>This text may be freely distributed, subject to the following<br>\
+                                            restrictions:</p><br>\
+               <list><br>\
+                  <item>You credit Perseus, as follows, whenever you use the document:<br>\
+                                                <quote>Text provided by Perseus Digital Library, with funding from The U.S. Department of Education and The Max Planck Society.</quote><br>\
+                  </item><br>\
+                  <item>You leave this availability statement intact.</item><br>\
+                  <item>You offer Perseus any modifications you make.</item><br>\
+               </list><br>\
+            </availability><br>\
+         </publicationStmt><br>\
+         <notesStmt><br>\
+            <note anchored=&quot;yes&quot; place=&quot;unspecified&quot;>Additional XML cleanup by Alpheios Technical Services, LLC.</note><br>\
+         </notesStmt><br>\
+         <sourceDesc><br>\
+            <listBibl><br>\
+               <biblStruct><br>\
+                  <analytic/><br>\
+                  <monogr><br>\
+                     <title>An Arabic-English Lexicon</title><br>\
+                     <imprint><br>\
+                        <pubPlace>London</pubPlace><br>\
+                        <publisher>Williams and Norgate</publisher><br>\
+                        <date>1863</date><br>\
+                     </imprint><br>\
+                  </monogr><br>\
+               </biblStruct><br>\
+            </listBibl><br>\
+         </sourceDesc><br>\
+      </fileDesc><br>\
+      <encodingDesc><br>\
+         <refsDecl doctype=&quot;TEI.2&quot;><br>\
+            <state unit=&quot;entry&quot;/><br>\
+         </refsDecl><br>\
+         <refsDecl doctype=&quot;TEI.2&quot;><br>\
+            <state n=&quot;chunk&quot; unit=&quot;root&quot;/><br>\
+            <state unit=&quot;entry&quot;/><br>\
+         </refsDecl><br>\
+      </encodingDesc><br>\
+      <profileDesc><br>\
+         <langUsage default=&quot;NO&quot;><br>\
+            <language id=&quot;en&quot;><br>\
+                                        English<br>\
+                                    </language><br>\
+            <language id=&quot;ar&quot;><br>\
+                                        Arabic<br>\
+                                    </language><br>\
+            <language id=&quot;xlar&quot;><br>\
+                                        Transliterated Arabic<br>\
+                                    </language><br>\
+            <language id=&quot;greek&quot;><br>\
+                                        Greek<br>\
+                                    </language><br>\
+            <language id=&quot;la&quot;><br>\
+                                        Latin<br>\
+                                    </language><br>\
+         </langUsage><br>\
+      </profileDesc><br>\
+   </teiHeader><br>\
+   <text><br>\
+      <body><br>\
+' } );

@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>نسح</em>            1                  نسح<br>\
+<b>نَشَحَ</b>               1     <br>\
+                     نَشَحَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَسَحَ<br>\
+                  , inf. n. نَشْحٌ and نُشُوحٌ, <i>He drank a little,</i> (L,) <i>less than what would satisfy him:</i> (S, L, K:) or, contr., <i>he drank until he was full:</i> (L, K:) as also ↓ <br>\
+      انتشح. (L.) ―         -b2-  نَشَحَ <br>\
+                  <i>He gave</i> his camel <i>a little water to drink:</i> (L:) <i>he watered</i> horses <i>so as to allay the vehemence of their thirst.</i> (T, L, K.)     <br>\
+                     اـِنْتَسَحَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>نَشُوحٌ</b>               1     <br>\
+                     نَشُوحٌ<br>\
+                     ذ<br>\
+                  <i>A little water.</i> (S, K.) Abu-n-Nejm says, describing asses, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        حَتَّى اـِذَا مَا غَيَّبَتْ نَشُوحَا<br>\
+                  </quote> (S, L,) meaning <i>Until, when they had taken into their bellies a little water:</i> or نشوح signifies <i>a drink less than suffices to satisfy.</i> (L.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مع</em>            1                  مع<br>\
+<b>مَعَ</b>               1     <br>\
+                     مَعَ<br>\
+                     ذ<br>\
+                   [generally thus in all cases] is a word, or noun, (S, K,) or particle, (K,) denoting concomitance, (S, K,) &amp;amp;c. (K.) It is said to denote the commencement of concomitance, though this is not invariably the case. (MF and TA, voce فِى.) ―         -b2-  جِيْتُ مَعَ العَصْرِ means عِنْدَ العَصْرِ. (Mughnee.)   </entryFree> <br>\
+' } );

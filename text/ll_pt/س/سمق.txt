@@ -1,0 +1,51 @@
+load_data( { book: 'll_pt', text: '<em>سمق</em>            1                  سمق<br>\
+<b>سَمَقَ</b>               1     <br>\
+                     سَمَقَ<br>\
+                     ذ<br>\
+                  , (S, O, L, K,) aor.      <br>\
+                     سَمُقَ<br>\
+                  , (O, L,) inf. n. سُمُوقٌ (S, O, L, K) and سَمْقٌ, (L,) <i>It was,</i> or <i>became, high,</i> or <i>tall:</i> (S, O, L, K:) or <i>tall in the highest degree:</i> (JK:) said of a plant, or herbage, (JK, L,) of a tree, and [particularly] of a palmtree. (L.) ―         -b2-  See also سُمَاقٌ.    </entryFree> <br>\
+<b>سِمِقٌّ</b>               1     <br>\
+                     سِمِقٌّ<br>\
+                     ذ<br>\
+                  <i>Tall;</i> applied to a man. (Kr, TA.) [See also سَامِقٌ.]    </entryFree> <br>\
+<b>سُمَاقٌ</b>               1     <br>\
+                     سُمَاقٌ<br>\
+                     ذ<br>\
+                  <i>Pure; sheer; unmixed.</i> (S, O, K.) You say كَذِبٌ سُمَاقٌ <br>\
+                  <i>A sheer, unmixed, lie;</i> (S, O;) and حُبٌّ سُمَاقٌ <br>\
+                  <i>pure, unmixed, love;</i> meaning <i>such as have overtopped</i> (↓ <br>\
+      سَمَقَا) <i>every lie</i> and <i>love.</i> (O.)    </entryFree> <br>\
+<b>سَمُوقٌ</b>               1     <br>\
+                     سَمُوقٌ<br>\
+                     ذ<br>\
+                  : see سُمَّاقٌ.    </entryFree> <br>\
+<b>سَمِيقٌ</b>               1     <br>\
+                     سَمِيقٌ<br>\
+                     ذ<br>\
+                  : see سَامِقٌ.       -A2-  The dual, سَمِيقَانِ, signifies The [<i>yokes</i> or] <i>two pieces of wood that belong to the</i> <br>\
+                  نِير, <i>surrounding the necks of the two bulls,</i> (S, Z, O, K,) <i>like the neck-ring,</i> (S, O,) <i>the two extremities of each being made to meet together beneath the bull&#39;s dewlap, and bound with a cord:</i> (Z, TA:) pl. اَسْمِقَةٌ. (TA.) ―         -b2-  And [its pl.,] اَسْمِقَةٌ, <i>Certain pieces of wood in the utensil upon which bricks,</i> or <i>crude bricks,</i> (لَبِن,) <i>are conveyed.</i> (Ibn-&#39;Abbád, O, L, K.)    </entryFree> <br>\
+<b>سُمَّاقٌ</b>               1     <br>\
+                     سُمَّاقٌ<br>\
+                     ذ<br>\
+                   (S, O, K) and ↓ <br>\
+      سَمُوقٌ, (O, K,) in the Tekmileh with teshdeed, [i. e. ↓ <br>\
+      سَمُّوقٌ,] (TA,) [<i>Sumach;</i> the <i>rhus coriaria</i> of Linn.; or <i>its berry:</i>] <i>a certain fruit,</i> (K,) <i>well known;</i> (S, K;) <i>a certain acid thing, with which one cooks;</i> (O;) the <i>fruit of certain trees of the</i> [<i>high grounds termed</i>] قِفَاف <br>\
+                  <i>and of the mountains, acid, consisting of bunches of small berries, which are cooked;</i> (AHn, TA;) <i>not known to AHn as growing in any part of the land of the Arabs except in Syria;</i> and he says that it is <i>intensely red:</i> in the T, said to be the <i>acid berry called</i> <br>\
+                  عَبْرَب: n. un. with ة: (TA:) <i>it excites appetence; stops chronic diarrhœa; and the application of water in which it has been steeped,</i> or <i>macerated, as a collyrium, is beneficial for the</i> [<i>disorder termed</i>] سُلَاق <br>\
+                  <i>and for ophthalmia.</i> (K.)    </entryFree> <br>\
+<b>سَمُّوقٌ</b>               1     <br>\
+                     سَمُّوقٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>قِدْرٌ سُمَّاقِيَّةٌ</b>               1     <br>\
+                     قِدْرٌ سُمَّاقِيَّةٌ<br>\
+                     ذ<br>\
+                  : see عَرَبْرَبِيَّةٌ, in art عرب    <br>\
+<b>سَامِقٌ</b>               1     <br>\
+                     سَامِقٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      سَمِيقٌ<br>\
+                  <i>High,</i> or <i>tall;</i> applied to a plant, or herbage, and to a tree, and [particularly] to a palm-tree. (L.) [See also سِمِيقٌ.]   </entryFree> <br>\
+' } );

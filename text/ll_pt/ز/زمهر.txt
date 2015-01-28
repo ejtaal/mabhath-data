@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>زمهر</em>            1                  زمهر<br>\
+                     <i>Q. 1</i>        <br>\
+                     زَمْهَرَ<br>\
+                   see the next paragraph.     <br>\
+<b>اِزْمَهَرَّتْ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اِزْمَهَرَّتْ<br>\
+                     ذ<br>\
+                  <i>They</i> (the stars) <i>shone,</i> (S, K,) <i>and were intensely bright.</i> (TA.) ―         -b2-  <i>It</i> (the eye) <i>became red by reason of anger,</i> (K,) on the occasion of some distressing event; (TA;) as also ↓ <br>\
+      زَمْهَرَتْ. (AZ, S, K.) ―         -b3-  ازمهرّ <br>\
+                  <i>It</i> (the face) <i>grinned, so as to display the teeth;</i> or <i>became contracted, with a stern, an austere,</i> or <i>a morose, look.</i> (K.) ―         -b4-  <i>It</i> (a day) <i>became intensely cold.</i> (K.)    </entryFree> <br>\
+<b>زَمْهَرِيرٌ</b>               1     <br>\
+                     زَمْهَرِيرٌ<br>\
+                     ذ<br>\
+                  <i>Intense cold.</i> (S, K.) Such is prepared by God as a punishment for the unbelievers in the latter state. (TA.) In the Kur lxxvi. 13, زَمْهَرِيرًا means <i>Hurting cold:</i> (Bd:) or [simply] <i>cold:</i> (Jel:) or, accord. to some, it there has the meaning next following. (Bd, Jel.) ―         -b2-  The <i>moon;</i> (K;) in the dial of Teiyi. (TA.)    </entryFree> <br>\
+<b>مُزْمَهِرٌّ</b>               1     <br>\
+                     مُزْمَهِرٌّ<br>\
+                     ذ<br>\
+                  <i>Laughing so as to show the teeth:</i> (K:) from the likeness to the shining of stars. (TA.) ―         -b2-  <i>Angry:</i> (K:) or <i>violently angry.</i> (S.)   </entryFree> <br>\
+' } );

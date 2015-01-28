@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اثكل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اثكل<br>\
+&lt;entryFree id=&quot;n223&quot; key=&quot;اـِشْكَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِشْكَالٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and اُشْكُولٌ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  شِمْرَاخٌ [&lt;i&gt;A fruit-stalk of the raceme of a palm-tree, upon which are the dates&lt;/i&gt;]; like عِثْكَالٌ and عُثْكُولٌ: the hemzeh in each is a substitute for ع; but by J [and others] it is held to be augmentative, and the words are mentioned in art. شكل, q. v. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

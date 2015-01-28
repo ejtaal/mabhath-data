@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>نه</em>            1                  نه<br>\
+<b>نَهْنَهَ بِهِ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     نَهْنَهَ بِهِ<br>\
+                     ذ<br>\
+                  <i>He cried out to him,</i> or <i>at him,</i> namely, a beast of prey, <i>in order that he might forbear, refrain,</i> or <i>abstain.</i> (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>رقح</em>            1                  رقح<br>\
+<b>رقّح</b>               1     <br>\
+                     رقّح<br>\
+                     ذ<br>\
+                  , (S, A,) inf. n. تَرْقِيحٌ, (S, K,) <i>He ordered,</i> or <i>put into a good</i> or <i>right</i> or <i>proper state, managed well, tended,</i> or <i>took care of,</i> property, or cattle: (S, A, K:) and in like manner, <i>he ordered, put into a good</i> or <i>right</i> or <i>proper state,</i> or <i>managed well,</i> the means of subsistence; (S, * A, TA;) as also ↓ <br>\
+      ترقّح [app. with the objective complement (العَيْشَ or المَعِيشَةَ) understood]. (TA.) ―         -b2-  And <i>He gained, acquired,</i> or <i>earned, property.</i> (TA in art. رقع.) ―         -b3-  It occurs in a trad., in the phrase رَقَّحَ اـِنْسَانًا, as meaning رَفَّاَ [q. v.]. (TA.)    </entryFree> <br>\
+                     تَرَقَّحَ<br>\
+                   see above. ―         -b2-  ترقّح لِعِيَالِهِ <br>\
+                  <i>He gained, acquired,</i> or <i>earned,</i> or <i>he sought,</i> or <i>laboured, to gain</i> or <i>acquire</i> or <i>earn, sustenance for his family,</i> or <i>household;</i> syn. اِكْتَسَبَ, (S, [see also 1,]) or تَكَسَّبَ; (A, K;) on the authority of Lh. (TA.)    </entryFree> <br>\
+<b>رَقْحَا=ءُ</b>               1     <br>\
+                     رَقْحَا=ءُ<br>\
+                     ذ<br>\
+                   A woman <i>who gains her subsistence by prostitution.</i> (MF.)    </entryFree> <br>\
+<b>رَقَاحَةٌ</b>               1     <br>\
+                     رَقَاحَةٌ<br>\
+                     ذ<br>\
+                  <i>Good management of property.</i> (TA.) ―         -b2-  <i>Gain, acquisition,</i> or <i>earning:</i> and <i>merchandise, commerce,</i> or <i>traffic.</i> (S, K.) Hence, (TA,) the Pagan Arabs, (S, A,) or some of them, (TA,) used to say in the تَلْبِيَة, [i. e. in uttering the ejaculation لَبَّيْكَ, during the performance of the rites of the pilgrimage,] جِيْنَاكَ لِلنَّصَاحَةِ لَمْ نَاْتِ <br>\
+                  لِلرَّقَاحَةِ [meaning <i>We have come to Thee for the purpose of sincere worship: we have not come for gain,</i> or <i>traffic</i>]. (S, A, TA.)    </entryFree> <br>\
+<b>رَقَاحِىٌّ</b>               1     <br>\
+                     رَقَاحِىٌّ<br>\
+                     ذ<br>\
+                  <i>A merchant, trafficker,</i> or <i>trader,</i> (A, TA,) <i>who manages well his property.</i> (TA.) You say, هُوَ رَقَاحِىٌّ مَالٍ <br>\
+                  <i>He is one who orders,</i> or <i>puts into a good</i> or <i>right</i> or <i>proper state, manages well, tends,</i> or <i>takes care of, property,</i> or <i>cattle:</i> (S, K: *) or <i>who gains, acquires,</i> or <i>earns, property, and orders it, puts it into a good</i> or <i>right</i> or <i>proper state,</i> or <i>manages it well.</i> (A, TA.)    </entryFree> <br>\
+<b>هُوَ رَاقِحَةُ اَهْلِهِ</b>               1     <br>\
+                     هُوَ رَاقِحَةُ اَهْلِهِ<br>\
+                     ذ<br>\
+                  <i>He is the gainer,</i> or <i>earner, of sustenance for his family.</i> (A, L.)    <br>\
+' } );

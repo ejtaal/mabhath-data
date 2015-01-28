@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'بقمبَقَّمٌ [Brazil-wood; the wood of the Braziltree, a species of Cæsalpinia;] a well-known<br>\
+dye; (S, Msb;) i. q. عَنْدَمٌ; (S;) [or rather the<br>\
+wood from which a well-known dye is prepared;]<br>\
+the wood of a certain great tree, the leaves of<br>\
+which are like those of the almond, and having a<br>\
+red stem, the decoction of which is used as a dye:<br>\
+it consolidates wounds, stops a flow of blood from<br>\
+any member, and dries up ulcers; and its root,<br>\
+or lowest part, is an instantaneous poison: (K:)<br>\
+the word is said by some to be Arabic; (Msb;)<br>\
+others say that it is arabicized; (S, Msb, TA;)<br>\
+[perhaps from the Persian بَقَمْ, or بَكَمْ;] and<br>\
+that the only other words of the same measure in<br>\
+the Arabic language are proper names, and four<br>\
+in number, (S TA,) or seven: (TA:) if used as<br>\
+a proper name, it is imperfectly decl., because<br>\
+determinate and of the measure of a verb. (S.)<br>\
+' } );

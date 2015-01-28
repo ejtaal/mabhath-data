@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;ك&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>k</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;ك&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>ك</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     ك<br>\
+                     ذ<br>\
+<b>كَ</b>               1     <br>\
+                     كَ<br>\
+                     ذ<br>\
+                   prefixed to a noun is called كَافُ التَّشْبِيهِ <br>\
+                  <i>The</i> <br>\
+                  ك <br>\
+                  <i>of comparison.</i> Respecting its being prefixed to pronouns, see اَنْ, suprà, p. 106. ―         -b2-  اـِجْعَلْ <br>\
+                  هٰذَا الشَّىْءَ كَاْسًا وَاحِدًا <br>\
+                  <i>Make thou this thing to be</i> [<i>uniform,</i> or] <i>of one way,</i> or <i>mode,</i> or <i>manner.</i> (ISk, in TA, art. باج.) ―         -b3-  كَذٰلِكَ <br>\
+                  <i>The like thereof; such like;</i> and simply <i>such;</i> and <i>so.</i> ―         -b4-  كَاـٍ and كا=ءٍ: see كَاَىٍّ or كَاَيِّنْ voce اَىٌّ. ―         -b5-  كَمَا followed by a pret. often means <i>Like as when:</i> see an ex. in a verse cited above, p. 740. ―         -b6-  كَمَا is often followed by a pret. in the sense of an aor.: see exs. in EM., pp. 41 &amp;amp; 214. ―         -b7-  كَمَا اَنْتَ وَزِيْدًا [<i>Keep as,</i> or <i>where, thou art, and approach not Zeyd!</i> like مَكَانَكَ وَزَيْدًا]. Heard by Ks. (L, art. عند.) ―         -b8-  كَمَااَنْتَنِى <br>\
+                  <i>Wait for me where thou art!</i> Heard by Az from certain of the Benoo-Suleym. (L, art. عند.) ―         -b9-  ك of allocution is varied like the pronominal affix of the sec. pers., accord. to the sex and number of the persons addressed: see exs. in the Kur, iii. 42 and xix. 21 (Flügel&#39;s ed., and Lees&#39; Keshsháf), xii. 37, ii. 46, &amp;amp;c., and xii. 32. But sometimes the same form is used in addressing a number of persons as in addressing one man: see, for ex., Kur, iv. 96.   </entryFree> <br>\
+' } );

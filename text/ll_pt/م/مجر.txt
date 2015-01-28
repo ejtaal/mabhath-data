@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مجر</em>            1                  مجر<br>\
+<b>مَجَرَ</b>               1     <br>\
+                     مَجَرَ<br>\
+                     ذ<br>\
+                  , app. an imitative sequent to فَجَرَ. See دَعِرَ.   </entryFree> <br>\
+' } );

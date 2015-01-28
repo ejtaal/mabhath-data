@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مطق</em>            1                  مطق<br>\
+<b>تَمَطَّقَ</b>               1     <br>\
+                     تَمَطَّقَ<br>\
+                     ذ<br>\
+                  <i>He tasted repeatedly,</i> or <i>smacked his lips:</i> see two explanations of this verb voce لَمَظَ.   </entryFree> <br>\
+' } );

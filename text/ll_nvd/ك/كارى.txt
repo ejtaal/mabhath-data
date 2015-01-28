@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كارى[كَارِىٌّ?] i. q.<br>\
+غَرِيبٌ, applied to a man.<br>\
+(AA, in TA, voce غَرِيبٌ.)<br>\
+' } );

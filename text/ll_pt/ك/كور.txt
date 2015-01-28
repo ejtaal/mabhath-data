@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كور</em>            1                  كور<br>\
+<b>كارى</b>               1     <br>\
+                     كارى<br>\
+                     ذ<br>\
+                   [كَارِىٌّ?] <i>i. q.</i> <br>\
+                  غَرِيبٌ, applied to a man. (AA, in TA, voce غَرِيبٌ.)   </entryFree> <br>\
+' } );

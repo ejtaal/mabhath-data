@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'هدم1<br>\
+هَدَمَ<br>\
+He threw down, or pulled down, a<br>\
+building; (Msb;) pulled it to pieces; demolished<br>\
+it; destroyed it: (K:) [the last two explanations<br>\
+are the most correct, as is shown by the phrase]<br>\
+نَقَضَ البِنَآءَ مِنْ عَيْرِ هَدْمِ [He took to pieces the<br>\
+building without demolishing, or destroying]: (S,<br>\
+A, Msb, K, * in art. قوض:) he ruined [a building, &amp;c.]; reduced [it] to ruin. (Ham, p. 31.)<br>\
+6<br>\
+تَهَادَمَتِ الحِيطَانُ<br>\
+[The walls fell to ruin<br>\
+by degrees]. (S, in art. دعو.)<br>\
+7<br>\
+اِنْهَدَمَ<br>\
+It became thrown down, pulled down,<br>\
+pulled to pieces, demolished, or destroyed: and<br>\
+it fell in ruins, or to pieces; or became a ruin.<br>\
+―<br>\
+-b2-  اِنْهَدَمَ الحَائِطُ مِنْ مَكَانِهِ مِنْ غَيْرِ هَدْمٌ [The<br>\
+wall fell in ruins, or to pieces, from its place,<br>\
+without being pulled to pieces]. (Lth, in TA,<br>\
+art. قيض.)<br>\
+الدَّمُ الدَّمُ وَالهَدَْمُ الهَدَْمُ<br>\
+: see دَمْ.<br>\
+هَدَمٌ<br>\
+Earth that is dug from a pit or well: see<br>\
+حَفَرٌ.<br>\
+' } );

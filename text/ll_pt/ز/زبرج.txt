@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>زبرج</em>            1                  زبرج<br>\
+<b>زَبْرَجَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     زَبْرَجَ<br>\
+                     ذ<br>\
+                  <i>He embellished, beautified, adorned,</i> or <i>decorated,</i> a thing. (TA.)    </entryFree> <br>\
+<b>زِبْرِجٌ</b>               1     <br>\
+                     زِبْرِجٌ<br>\
+                     ذ<br>\
+                  <i>Embellishment, ornament,</i> or <i>decoration; consisting in variegated,</i> or <i>figured, work;</i> or <i>in jewels,</i> or <i>gems;</i> (S, K, TA;) and <i>the like:</i> (S, TA:) <i>embellishment, ornament,</i> or <i>decoration, of weapons:</i> (TA:) and <i>anything beautiful.</i> (Th, TA.) [Hence,] زِبْرِجُ الدُّنْيَا <br>\
+                  <i>The vanities and finery of the present world</i> or <i>state of existence.</i> (TA, from a trad. of &#39;Alee.) ―         -b2-  Also <i>Gold:</i> (S, K:) so some say. (S.) ―         -b3-  And <i>Thin clouds, in which is a redness:</i> (Fr, S, K:) or <i>clouds spotted in the surface with blackness and redness:</i> or <i>light clouds which the wind sweeps away,</i> or <i>disperses:</i> or <i>red clouds:</i> but AZ says that the first of these is the correct signification: and <i>clouds spotted like the leopard, seeming to be such as will give rain:</i> and <i>thin clouds, in which is no water.</i> (TA.)    </entryFree> <br>\
+<b>مُزَبْرَجٌ</b>               1     <br>\
+                     مُزَبْرَجٌ<br>\
+                     ذ<br>\
+                  <i>Embellished, adorned,</i> or <i>decorated:</i> applied as an epithet to زِبْرِجٌ [either in the first or second of the senses expl. above, as is indicated in the S; and also as meaning clouds, as is likewise indicated in the S: in each case merely heightening the signification]. (S, K.) You say also سَحَابٌ مُزَبْرَجٌ [app. meaning <i>Variegated clouds</i>]. (TA.)   </entryFree> <br>\
+' } );

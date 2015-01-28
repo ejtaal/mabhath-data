@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>ليا</em>            1                  ليا<br>\
+<b>اليات النَّاقَةُ</b>               1     <br>\
+                     اليات النَّاقَةُ<br>\
+                     ذ<br>\
+                  <i>The she-camel was slow.</i> (K.)    </entryFree> <br>\
+<b>لِيَا=ءٌ</b>               1     <br>\
+                     لِيَا=ءٌ<br>\
+                     ذ<br>\
+                  <i>A kind of white grain, resembling the</i> <br>\
+                  حِمِّص [or <i>cicer arietinum</i>], (K,) <i>intensely white, which is eaten.</i> (AHn says, I know not whether it [the plant] have, or have not, قطنيّة [q. v.]. (TA.)   </entryFree> <br>\
+' } );

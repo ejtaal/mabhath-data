@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>صولج</em>            1                  صولج<br>\
+<b>صَوْلَجٌ</b>               1     <br>\
+                     صَوْلَجٌ<br>\
+                     ذ<br>\
+                   and صَوْلَجَةٌ: see what here follows.    </entryFree> <br>\
+<b>صَوْلَجَانٌ</b>               1     <br>\
+                     صَوْلَجَانٌ<br>\
+                     ذ<br>\
+                   (T, S, K) and ↓ <br>\
+      صَوْلَجَانَةٌ (Sb, TA) and ↓ <br>\
+      صَوْلَجٌ (T, TA) and ↓ <br>\
+      صَوْلَجَةٌ, (TA,) as also صَوَّجَانٌ, (L in art. صوج,) [<i>A kind of goff-stick,</i> or <i>golf-stick, played with by men on horseback;</i>] <i>a stick with a curved,</i> or <i>crooked, end;</i> syn. مِحْجَنٌ; (S, K;) [or rather] <i>a stick of which the end is curved</i> [<i>artificially</i>] <i>with which a ball is struck by men on horseback:</i> a stick of which the end curves, or crooks, naturally, on its tree, is called مِحْجَنٌ: (T, TA:) of Pers. origin, (S,) [i. e. from the Pers. چَوْگَانْ,] arabicized: (T, S:) pl. صَوَالِجَةٌ; (S, K;) the ة being added in the pl. because of the foreign origin, (S, M, TA,) as is mostly the case in broken pls. of words of foreign origin. (M, TA.)    </entryFree> <br>\
+<b>صَوْلَجَانَةٌ</b>               1     <br>\
+                     صَوْلَجَانَةٌ<br>\
+                     ذ<br>\
+                  : see the next paragraph here preceding.   </entryFree> <br>\
+' } );

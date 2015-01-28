@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>هند</em>            1                  هند<br>\
+<b>هَنَّدَتْهُ</b>               1     <br>\
+                     هَنَّدَتْهُ<br>\
+                     ذ<br>\
+                  , inf. n. تَهْنِيدٌ, <i>She</i> (a woman) <i>behaved towards him in a blandishing manner:</i> (IDrd, L:) <i>she enamoured him by blandishment,</i> (L, K,) <i>and by amatory conversation</i> or <i>conduct:</i> (L:) <i>she enslaved him by amatory conversation,</i> or <i>conduct.</i> (S, L.) [Thought by Golius to be derived from هِنْد, a proper name of a woman.] ―         -b2-  هنّدت بِقَلْبِهِ <br>\
+                  <i>She deprived him of his heart.</i> (Ibn-El-Mustaneer, L.)       -A2-  هنّد, inf. n. تَهْنِيدٌ, <i>He made</i> a sword <i>of Indian iron.</i> This is the original signification. (T, L.) ―         -b2-  <i>He sharpened</i> a sword. (L, K.)    </entryFree> <br>\
+<b>هِنْد</b>               1     <br>\
+                     هِنْد<br>\
+                     ذ<br>\
+                   a name for <i>A hundred camels;</i> (M, L, K;) as also ↓ <br>\
+      هُنَيْدَةُ; (T, S, M, A, L, K;) which latter is a determinate noun, imperfectly decl., not admitting the art. ال, [though it is written with it in the S, and in a verse cited in the S and L,] nor having a pl., nor a proper sing.: (T, L:) [see an ex. in a verse cited voce سَرِفَ:] or the former is a name for <i>more than a hundred camels and less:</i> (K:) or <i>a little more and a little less:</i> (M, L:) or <i>two hundred camels:</i> (M,  A, L, K:) so accord. to Ez-Ziyádee, as mentioned by ISd, who adds that he had not heard it from any other than IJ: (L:) and the latter, <i>a hundred of other things:</i> (S, L:) or <i>any hundred:</i> (AO, S, L:) also the former, <i>two hundred years:</i> and the latter, [written with the art. ال,] <i>a hundred years.</i> (Th, ISd, L.)       -A2-  الهِنْدُ <br>\
+                  <i>The name of a well-known nation;</i> (M, L, K;) or <i>of a country:</i> (S, L:) [<i>the Indians:</i> and <i>India:</i>] rel. n. ↓ <br>\
+      هِنْدِىٌّ: pl. هُنُودٌ: (S, L, K:) and الاَهَانِدُ signifies <i>the men of</i> <br>\
+                  الهِنْد [or <i>India</i>]; as also الهَنَادِكُ, (L, K,) pl. of هِنْدِكِىٌّ [q. v. in art. هندك]. (L.) ―         -b2-  See also اَحْمَسُ.    </entryFree> <br>\
+<b>هِنْدِىٌّ</b>               1     <br>\
+                     هِنْدِىٌّ<br>\
+                     ذ<br>\
+                  : see هِنْدٌ. ―         -b2-  Also, <i>Indian aloes-wood.</i> (L.) ―         -b3-  سَيْفٌ هِنْدِىٌّ, (L,) and ↓ <br>\
+      هِنْدُوَانِىٌّ, [in the CK هِنْدَوَانِىٌّ,] and هُنْدُوَانِىٌّ, (S, A, L, K,) <i>A sword made in the country of</i> <br>\
+                  الهِنْد, [or <i>India,</i>] <i>and well fabricated:</i> (L:) or, <i>made of the iron of that country:</i> (A:) as also ↓ <br>\
+      مُهَنَّدٌ, in the latter sense, (S, A, L,) and in the former: (L:) so termed in relation to the people called الهِنْد: (K:) and ↓ <br>\
+      سَيْفٌ مُهَنَّدٌ <br>\
+                  <i>a sharpened,</i> or <i>sharp, sword.</i> (L.)    </entryFree> <br>\
+<b>هُِنْدُوَانِىٌّ</b>               1     <br>\
+                     هُِنْدُوَانِىٌّ<br>\
+                     ذ<br>\
+                  : see هِنْدِىٌّ.    </entryFree> <br>\
+<b>هُنَيْدَةُ</b>               1     <br>\
+                     هُنَيْدَةُ<br>\
+                     ذ<br>\
+                  : see هِنْدٌ.    </entryFree> <br>\
+<b>مُهَنَّدٌ</b>               1     <br>\
+                     مُهَنَّدٌ<br>\
+                     ذ<br>\
+                  : see هِنْدِىٌّ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وزا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وزا<br>\
+&lt;entryFree id=&quot;n41892&quot; key=&quot;وَزَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَزَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor. يَزَاُ, (K,) inf. n. وَزْءٌ, (S,) &lt;i&gt;He dried&lt;/i&gt; flesh-meat: (S, K:) or &lt;i&gt;he roasted and so dried&lt;/i&gt; it. (TA.) ―         -b2-  وَزَاَ القَوْمَ <br>\
+                  &lt;i&gt;He repelled one part of the people from another.&lt;/i&gt; (K.) ―         -b3-  وَزَاَ <br>\
+                  القَوْمُ <br>\
+                  &lt;i&gt;One part of the people repelled another part.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41893&quot; key=&quot;وزّا الوِعَا=ءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     وزّا الوِعَا=ءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَوْزِيَةٌ and تَوْزِىْءٌ, &lt;i&gt;He made tight the contents of the bag;&lt;/i&gt; or &lt;i&gt;other repository:&lt;/i&gt; syn. شَدَّ كَنْزَهُ. (AZ, S, K.) ―         -b2-  وزّا, (S, K,) inf. n. تَوْزِىْءٌ, (S,) &lt;i&gt;He filled&lt;/i&gt; a water-skin (S, K) or other vessel. (TA.)       -A2-  وزّات بِهِ, (S, K,) inf. n. تَوْزِيَةٌ, (S,) &lt;i&gt;She&lt;/i&gt; (a mare, TA) or a camel, S, K,) &lt;i&gt;threw him&lt;/i&gt; (i. e. her rider, TA,) &lt;i&gt;down prostrate.&lt;/i&gt; (S, K.)       -A3-  وزّاه <br>\
+                  &lt;i&gt;He made him bind himself by every oath:&lt;/i&gt; (K:) or &lt;i&gt;by a hard,&lt;/i&gt; or &lt;i&gt;severe, oath.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41894&quot; key=&quot;توزّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     توزّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a water-skin, K, or other vessel, TA) &lt;i&gt;was filled,&lt;/i&gt; or &lt;i&gt;became full.&lt;/i&gt; (K.) ―         -b2-  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, filled with drink to satiety.&lt;/i&gt; (As, S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41895&quot; key=&quot;وَزَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَزَاَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Strong-made:&lt;/i&gt; (S, K:) or &lt;i&gt;a short, fat, strong-made,&lt;/i&gt; man. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

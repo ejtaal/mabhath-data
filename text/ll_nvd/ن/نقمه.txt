@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'نقمه1<br>\
+نَقَهَ<br>\
+He recovered, but not completely, his<br>\
+health and strength: (TA:) or he became convalescent; or sound, or healthy; at the close of<br>\
+his disease: (S:) or sound, or healthy, but was<br>\
+yet weak. (K.) See بَرِئَ.<br>\
+نَقاَهَةٌ<br>\
+[Convalescence;] the slight degree of<br>\
+health that immediately succeeds sickness. (TA,<br>\
+art. برأ.)<br>\
+' } );

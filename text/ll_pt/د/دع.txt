@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>دع</em>            1                  دع<br>\
+<b>دَعَّهُ</b>               1     <br>\
+                     دَعَّهُ<br>\
+                     دع<br>\
+                     دعه<br>\
+                     دعة<br>\
+                     ودع<br>\
+                  , aor.      <br>\
+                     دَعُ٣َ<br>\
+                  , (S, Z,) inf. n. دَعٌّ, (S, K,) <i>He pushed him, thrust him,</i> or <i>drove him, away; he repelled him:</i> (S:) or <i>he did so harshly, roughly,</i> or <i>violently.</i> (A&#39;Obeyd, K.) Hence, in the Kur [cvii. 2], فَذٰلِكَ الَّذِى يَدُعُّ اليَتِيمَ <br>\
+                  <i>That is he who pusheth, thrusteth,</i> or <i>driveth, away the orphan:</i> (S:) or, <i>who doth so harshly, roughly,</i> or <i>violently:</i> (Bd, Jel:) or, <i>who treateth the orphan with harshness, roughness,</i> or <i>violence; pushing, thrusting,</i> or <i>driving, away; and chiding with rudeness,</i> or <i>coarseness.</i> (Z, TA.) And in like manner, in the same [lii. 13], يَوْمَ يُدَعُّونَ اـِلَى نَارِ <br>\
+                  جَهَنَّمَ دَعًّا <br>\
+                  <i>On the day when they shall be pushed,</i> or <i>thrust,</i> or <i>driven, with harshness, roughness,</i> or <i>violence, to the fire of Hell.</i> (A &#39;Obeyd, Bd, Jel, TA.) And in a trad. of Esh-Shaabee, كَانُوا <br>\
+                  لَا يُدَعُّونَ عَنْهُ <br>\
+                  <i>They used not to be driven, nor pushed,</i> or <i>repelled, from it.</i> (TA.)   </entryFree> <br>\
+' } );

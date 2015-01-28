@@ -1,0 +1,26 @@
+load_data( { book: 'll_nvd', text: 'قع4<br>\
+أَقَعَّ المَآءَ<br>\
+: see أَعَقَّ.<br>\
+R. Q. 1<br>\
+قَعْقَعَ<br>\
+: see an ex. voce شَنٌّ.<br>\
+R. Q. 2<br>\
+تَقَعْقَعَ<br>\
+It made a sound, or noise;<br>\
+a “ crepitus; ” a succession of sharp, or harsh,<br>\
+sounds, or noises; a creaking, creaking, rustling,<br>\
+clattering, clashing, rattling, &amp;c.: see an ex. voce<br>\
+صَلَّ.<br>\
+قعْقَعَةُ السِّلَاحِ<br>\
+The clash of arms. ―<br>\
+-b2-  See<br>\
+عَقْعَقَ. ―<br>\
+-b3-  قَعْقَعَةٌ<br>\
+A gnashing of the teeth.<br>\
+مَآءٌ قُعٌّ<br>\
+or قَعٌّ: see عُقٌّ.<br>\
+مَآءٌ قُعَاعٌ<br>\
+: see حُرَاقٌ and عُقٌّ.<br>\
+خِمْسٌ قَعْقَاعٌ<br>\
+: see خِمْسٌ and خَثِيثٌ.<br>\
+' } );

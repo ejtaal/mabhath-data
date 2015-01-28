@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>شمخ</em>            1                  شمخ<br>\
+<b>شَمَخَ</b>               1     <br>\
+                     شَمَخَ<br>\
+                     ذ<br>\
+                  , (S, L, K,) aor.      <br>\
+                     شَمُخَ<br>\
+                  , inf. n. شُمُوخٌ, (L,) <i>It</i> (a mountain) <i>was high,</i> or <i>lofty.</i> (S, L, K.) ―         -b2-  Hence, (Har p. 442,) شَمَخَ بِاَنْفِهِ, (S, A, L, K,) and شَمَخَ اَنْفُهُ, aor. and inf. n. as above, (L,) <i>He</i> (a man) <i>magnified,</i> or <i>exalted, himself; was proud;</i> (S, A, L, K;) <i>behaved proudly,</i> or <i>disdainfully; elevated his nose, from pride.</i> (L.) [See also زَمَخَ.]    </entryFree> <br>\
+<b>نِيَّةٌ شَمَخٌ</b>               1     <br>\
+                     نِيَّةٌ شَمَخٌ<br>\
+                     ذ<br>\
+                   (L, K) and ↓ <br>\
+      شَمُوخٌ (L) <i>A distant, far-reaching,</i> or <i>far-aiming, intention, purpose,</i> or <i>design;</i> [in an action or a journey &amp;amp;c.;] (L, K;) as also نيَّةٌ زَمَخٌ and زَمُوخٌ. (L.)    </entryFree> <br>\
+<b>مَفَازَةٌ شَمُوخٌ</b>               1     <br>\
+                     مَفَازَةٌ شَمُوخٌ<br>\
+                     ذ<br>\
+                  <i>A desert,</i> or <i>waterless desert, farextending;</i> (K;) as also زمُوخٌ. (TA.) ―         -b2-  See also شَمَخٌ.    </entryFree> <br>\
+<b>شَمَّاخٌ</b>               1     <br>\
+                     شَمَّاخٌ<br>\
+                     ذ<br>\
+                  : see what follows, in two places.    </entryFree> <br>\
+<b>جَبَلٌ شَامِخٌ</b>               1     <br>\
+                     جَبَلٌ شَامِخٌ<br>\
+                     ذ<br>\
+                  <i>A high,</i> or <i>lofty, mountain;</i> (S, A, L;) as also ↓ <br>\
+      شَمَّاخٌ [but in an intensive sense, i. e. <i>a very high</i> or <i>lofty</i> mountain]: (L:) pl. جِبَالٌ شَوَامِخُ (S, A) and شُمَّخٌ. (A.) ―         -b2-  Hence, شَامِخٌ signifies also <i>Proud;</i> (L, TA;) <i>elevating the nose, from pride,</i> or <i>disdain:</i> [like زَامِخٌ:] pl. شُمَّخٌ: (L, K:) and ↓ <br>\
+      شَمَّاخٌ a man <i>who magnifies,</i> or <i>exalts, himself much;</i> or <i>elevates his nose much, from pride.</i> (L.) ―         -b3-  And اُنُوفٌ شُمَّخٌ [<i>Noses elevated, from pride</i>]; like زُمَّخٌ. (S.) ―         -b4-  And نَسَبٌ شَامِخٌ (tropical:)  [<i>A proud,</i> or <i>high, lineage</i>]. (TA.)   </entryFree> <br>\
+' } );

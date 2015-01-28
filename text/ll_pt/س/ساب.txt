@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>ساب</em>            1                  ساب<br>\
+<b>سَاَبَهُ</b>               1     <br>\
+                     سَاَبَهُ<br>\
+                     ذ<br>\
+                  , (S, M, K,) aor.      <br>\
+                     سَاََ<br>\
+                  , (M, K,) inf. n. سَاْبٌ, (S, M,) <i>He throttled him,</i> syn. خَنَقَهُ; (S, M, IAth, K;) i. e., <i>squeezed his throat:</i> (IAth:) or, <i>so that he died,</i> (S,) or <i>so that he killed him.</i> (M, K.) ―         -b2-  And سَاَبَهُ <br>\
+                  <i>He widened it;</i> namely, a سِقَا=ء [or skin for water or milk]. (S, K.)       -A2-  سَاَبَ مِنَ الشَّرَابِ, (M, K,) aor. and inf. n. as above; (M;) and سَيِبَ, (M, K,) aor.      <br>\
+                     سَاََ<br>\
+                  , (K,) inf. n. سَاَبٌ; (M;) <i>He was satisfied with drinking of wine</i> or <i>beverage.</i> (M, K.)    </entryFree> <br>\
+<b>سَاْبٌ</b>               1     <br>\
+                     سَاْبٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      مِسْاَبٌ <br>\
+                  <i>A</i> [<i>skin such as is termed</i>] زِقّ, (S, M, K,) <i>for wine:</i> (M:) or <i>such as is large:</i> (M, K:) or <i>a</i> <br>\
+                  زِقّ <br>\
+                  <i>of any kind:</i> (M:) or <i>a receptacle of skin,</i> or <i>leather, in which the</i> <br>\
+                  زِقّ <br>\
+                  <i>is put:</i> (M, K:) the former also occurs in a verse in which it is read without ء, for the sake of the rhyme: (M:) and its pl. is سُوُوبٌ: (S, M, K:) and (so in the S, but in the K “ or, ”) the latter (مساب) signifies <i>a skin for honey;</i> (S, K;) and in a verse of Aboo-Dhu-eyb, (S, M, K,) cited voce خَافَةٌ, (S, M,) it is written مِسَابٌ, (S, M, K,) without ء: (S, M:) and it signifies also <i>a skin in which clarified butter is put.</i> (S and L voce مِسَادٌ.)    </entryFree> <br>\
+<b>سُوْبَانِ</b>               1     <br>\
+                     سُوْبَانِ<br>\
+                     ذ<br>\
+                  , in the following saying, (IJ, M,) اـِنَّهُ <br>\
+                  لَسُوْبَانُ مَالٍ, meaning <i>Verily he is one who pastures,</i> or <i>tends, the cattle, and takes care of them, and manages them, well,</i> (IJ, M, K, *) is from سَاْبٌ signifying “ a زِقّ ” because the زِقّ is made only for the preservation of its contents. (IJ, M.)    </entryFree> <br>\
+<b>مِسْاَبٌ</b>               1     <br>\
+                     مِسْاَبٌ<br>\
+                     ذ<br>\
+                  : see سَاْبٌ. ―         -b2-  Also, (K,) applied to a man, (TA), <i>Who drinks much water.</i> (K.)   </entryFree> <br>\
+' } );

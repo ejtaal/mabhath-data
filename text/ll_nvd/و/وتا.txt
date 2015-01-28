@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'وتا1<br>\
+وَتَأَ, aor. يَتَأُ, (K,) inf. n. وَتْءٌ, (TA,) He<br>\
+was heavy and slow in his gait, by reason of<br>\
+age, or by nature. (K.) Not mentioned by J.<br>\
+because esteemed by him not chaste. (TA.)<br>\
+تَيْتَأ: see art. تأ.<br>\
+' } );

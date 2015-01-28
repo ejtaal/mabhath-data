@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لهزم</em>            1                  لهزم<br>\
+<b>لِهْزِمَةٌ</b>               1     <br>\
+                     لِهْزِمَةٌ<br>\
+                     ذ<br>\
+                   accord. to different authorities, app. The  <br>\
+                  <i>angle of the lower jaw:</i> or the <i>ramus thereof:</i> or the <i>flesh upon the hinder part thereof.</i> See مَحْزُونٌ.   </entryFree> <br>\
+' } );

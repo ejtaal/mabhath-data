@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>رعز</em>            1                  رعز<br>\
+<b>مَرْعَزٌ</b>               1     <br>\
+                     مَرْعَزٌ<br>\
+                     ذ<br>\
+                   and مَرْعِزٌّ: see what here follows.    </entryFree> <br>\
+<b>مِرْعِزَّى</b>               1     <br>\
+                     مِرْعِزَّى<br>\
+                     ذ<br>\
+                   (S, Mgh, Msb, K) and مَرْعِزَّى (S, K) and ↓ <br>\
+      مِرْعِزَا=ءُ and مَرْعِزَا=ءُ (S, Mgh, Msb, K) and ↓ <br>\
+      مِرْعِزٌّ (S, Msb, K) and مَرْعِزٌّ (S, K) and ↓ <br>\
+      مَرْعَزٌ, the last like جَعْفَرٌ, but not مِرْعِزٌ, (Msb,) The <i>down,</i> (S, Msb, K,) or <i>what resembles wool,</i> (Az, Mgh,) <i>that is beneath,</i> (S, Mgh, Msb, K,) or <i>amid,</i> (Az,) <i>the hair of the she-goat:</i> (Az, S, Mgh, Msb, K:) Sb makes مِرْعِزَّى an epithet; meaning <i>soft,</i> applied to wool: and Kr says that this and مِرْعِزَا=ءُ are the only words of these two measures in the language: (TA:) [he seems to have held the م to be a radical letter: but accord. to J,] مرعزّى is of the measure مَفْعِلَّى, because فَعْلِلَّى does not occur [except in the instance of شِفْصِلَّى, the name of a certain plant]. (S.)    </entryFree> <br>\
+<b>مَرْعِزَا=ءُ</b>               1     <br>\
+                     مَرْعِزَا=ءُ<br>\
+                     ذ<br>\
+                  : see what immediately precedes.    </entryFree> <br>\
+<b>ثَوْبٌ مُمَرْعَزٌ</b>               1     <br>\
+                     ثَوْبٌ مُمَرْعَزٌ<br>\
+                     ذ<br>\
+                  <i>A garment,</i> or <i>piece of cloth, made of</i> <br>\
+                  مَرْعِزَّى. (K.)   </entryFree> <br>\
+' } );

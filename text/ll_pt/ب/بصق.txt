@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>بصق</em>            1                  بصق<br>\
+<b>بَصَقَ</b>               1     <br>\
+                     بَصَقَ<br>\
+                     بصق<br>\
+                  , (Lth, JK, S, K,) [aor.      <br>\
+                     بَصُقَ<br>\
+                  ,] inf. n. بَصْقٌ, (S,) <i>i. q.</i> <br>\
+                  بَزَقَ (Lth, S, * K) or بَسَقَ (JK) [<i>He spat</i>]: it is the most chaste of these three verbs. (TA in art. بسق.) بَصَقَ فِى وَجْهِهِ [lit. <i>He spat in his face,</i>] means (assumed tropical:)  <i>he held him in contempt,</i> or <i>despised him.</i> (TA.)       -A2-  <i>He milked</i> a ewe <i>when she was with young.</i> (K.)    </entryFree> <br>\
+<b>ابصقت</b>               1     <br>\
+                     ابصقت<br>\
+                     ابصقت<br>\
+                  <i>She</i> (a ewe) <i>excerned the milk</i> [or <i>biestings into her udder before bringing forth</i>]; (JK, K;) like ابسقت [q. v.]. (TA.) ―         -b2-  ابصق is also said of the قَصَد, or small juicy branches, in the [species of mimosa termed] عُرْفُط [app. as meaning <i>They excerned a matter like spittle</i>]. (TA.)    </entryFree> <br>\
+<b>بَصْقَةٌ</b>               1     <br>\
+                     بَصْقَةٌ<br>\
+                     بصق<br>\
+                     بصقه<br>\
+                     بصقة<br>\
+                  <i>A</i> [<i>stony tract such as is termed</i>] حَرَّة <br>\
+                  <i>somewhat elevated;</i> [as also بَسْقَةٌ:] pl. بِصَاقٌ. (AA, K.)    </entryFree> <br>\
+<b>بُصَاقٌ</b>               1     <br>\
+                     بُصَاقٌ<br>\
+                     بصاق<br>\
+                  <i>Spittle,</i> or <i>saliva, that has gone forth from the mouth:</i> as long as it is in the mouth, it is termed رِيقٌ: (K:) [or <i>saliva that flows:</i> see بُزَاقٌ:] <i>i. q.</i> <br>\
+                  بُزَاقٌ (S, K) and بُسَاقٌ: (K:) but it is more chaste than either of these. (TA.) [بُصَاقَةٌ is app. its n. un. And hence,] ―         -b2-  بُصَاقَةُ القَمَرِ <br>\
+                  <i>White glistening stone:</i> (S:) or <i>stone of a clear white colour.</i> (JK, K.) [Also written with س.]       -A2-  <i>A species of palm-tree.</i> (S, K.)       -A3-  The <i>best of camels:</i> both sing. and pl. (IDrd, K.)    </entryFree> <br>\
+<b>بَصُوقٌ</b>               1     <br>\
+                     بَصُوقٌ<br>\
+                     بصوق<br>\
+                   A ewe <i>having the least quantity of milk.</i> (K, TA.)   </entryFree> <br>\
+' } );

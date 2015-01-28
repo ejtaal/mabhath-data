@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>صكم</em>            1                  صكم<br>\
+<b>صَكَمَهُ</b>               1     <br>\
+                     صَكَمَهُ<br>\
+                     ذ<br>\
+                  , (S, K,) [aor.      <br>\
+                     صَكُمَ<br>\
+                  ,] inf. n. صَكْمٌ, (TA,) <i>He</i> (a man, Fr, S) <i>struck him,</i> or <i>it.</i> (Fr, S, K.) See also صَوَاكِمُ. ―         -b2-  And <i>He</i> (a man, Fr, As, S) <i>pushed, thrust,</i> or <i>repelled, him,</i> or <i>it.</i> (Fr, As, S, K.) ―         -b3-  And one says of a horse, يَصْكُمُ, (S,) or صَكَمَ عَلَى لِجَامِهِ, (K,) or عَلَى فَاْسِ اللِّجَامِ, (TA,) <i>The horse champs,</i> (S,) or <i>champed,</i> (K,) <i>his bit,</i> (S, K,) or <i>the</i> <br>\
+                  فاس <br>\
+                  <i>of the bit,</i> (TA,) <i>and stretches forth his head,</i> (S,) or <i>then stretched forth his head, as though desiring to contend for superiority</i> [<i>with his rider</i>]. (K.)    </entryFree> <br>\
+<b>صَكْمَةٌ</b>               1     <br>\
+                     صَكْمَةٌ<br>\
+                     ذ<br>\
+                  <i>A vehement shock, collision, impetus, push,</i> or <i>thrust,</i> (Lth, S, K, TA,) <i>with a stone</i> or <i>some other thing.</i> (Lth, TA.)    </entryFree> <br>\
+<b>صُكَّمٌ</b>               1     <br>\
+                     صُكَّمٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَخْفَافٌ [which means Camels&#39; <i>feet,</i> and <i>boots;</i> probably, here, the former: in the TK it is expl. as meaning the <i>hoofs</i> of camels: and it is there said that the sing. is صَاكِمٌ]. (K.)    </entryFree> <br>\
+<b>صَوَاكِمُ</b>               1     <br>\
+                     صَوَاكِمُ<br>\
+                     ذ<br>\
+                  <i>Calamities, misfortunes,</i> or <i>evil accidents.</i> (K.) The Arabs say, صَوَاكِمُ الدَّهْرِ ↓ <br>\
+      صَكَمَتْهُ [<i>The calamities of fortune smote him;</i> or <i>may the calamities of fortune smite him</i>]. (S.)   </entryFree> <br>\
+' } );

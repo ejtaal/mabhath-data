@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>شيز</em>            1                  شيز<br>\
+<b>شِيزٌ</b>               1     <br>\
+                     شِيزٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      شِيزَى <br>\
+                  <i>A kind of black wood, of which bowls</i> (قِصَاع) <i>are made:</i> (S, K:) or the latter is <i>a certain black wood of which combs and bowls</i> (جِفَان) <i>are made:</i> (Mgh:) or <i>ebony:</i> or سَاسَم [<i>a certain wood of which bows or arrows are made</i>]: (AA, K:) or <i>walnut-wood:</i> (As, EdDeenäwaree [AHn], Mgh, K:) As says of the شيزى, by the name of which the Arabs call <i>bowls</i> (جفان and قصاع) and the <i>sheaves of pulleys,</i> that it is <i>walnut-wood,</i> but it becomes blackened by grease, and therefore is thus called, and it is not شيز: so says AHn: and he adds, the case is as he has described it; for the شيز does not become thick so as that bowls may be carved from it: (Sgh, TA:) of this latter, only combs and the like are made; and it is black: it is also said, in the T, that <i>bowls made from the walnut-tree</i> are called شِيزَى. (TA.)    </entryFree> <br>\
+<b>شِيزَى</b>               1     <br>\
+                     شِيزَى<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.   </entryFree> <br>\
+' } );

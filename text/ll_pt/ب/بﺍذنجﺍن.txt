@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;باذنجان&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  باذنجان<br>\
+&lt;entryFree id=&quot;n1657&quot; key=&quot;بَاذَنْجَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَاذَنْجَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [or بَاذِنْجَانٌ, commonly pronounced in the present day بَادنْجَان and بَيْدِنْجَان and بِيدِنْجَان, from the Persian بَادِنْكَانْ,] a word of well-known meaning, often mentioned by the author of the K, [in explaining the words اَنَبٌ and حَدَقٌ and مَغْدٌ and وَغْدٌ,] but not in its proper place in the lexicon. (TA.) [It signifies The &lt;i&gt;solanum melongena, mad-apple,&lt;/i&gt; or &lt;i&gt;egg-plant;&lt;/i&gt; both the &lt;i&gt;black,&lt;/i&gt; distinguished by the epithet اَسْوَدُ, and the &lt;i&gt;white,&lt;/i&gt; distinguished by the epithet اَبْيَضُ. And the &lt;i&gt;solanum lycopersicum,&lt;/i&gt; or &lt;i&gt;solanum Aethiopicum;&lt;/i&gt; also called &lt;i&gt;love-apple,&lt;/i&gt; and so by the Arabs, تُفَّاحٌ الحُبٌِّ; and &lt;i&gt;golden apple,&lt;/i&gt; <br>\
+                  تُفَّاحٌ ذَهَبِىٌّ; and &lt;i&gt;tomato;&lt;/i&gt; and distinguished from the former species by the epithet اَحْمَرُ, and by the appellation باذنجان قُوطَة.] ―         -b2-  [بَاذَنْجَانٌ تِرْيَاقِىٌّ <br>\
+                  &lt;i&gt;Xanthium.&lt;/i&gt;]   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'هزم7<br>\
+اِنْهَزَمَ<br>\
+It (an army) was routed, discomfited,<br>\
+defeated, or put to flight. (K, &amp;c.) See حَاصَ,<br>\
+in art. حيص; and اِنْحَازَ, in art. حوز; from both<br>\
+of which it is distinguished.<br>\
+هَزْمَةٌ<br>\
+The [purring, or] sound of the throat<br>\
+of a cat. (TA.) ―<br>\
+-b2-  The pit between the two<br>\
+collar-bones. (TA, art. ترب.) ―<br>\
+-b3-  [The pit<br>\
+above a horse&#39;s eye.] (K, voce وَقْبٌ.) See also<br>\
+خُنْعُبَةٌ, and قَلْتَةٌ: and see عُقْمٌ, where it seems<br>\
+to mean a stricture: it generally and properly<br>\
+signifies a depression, or dint: or a pit, or small<br>\
+hollow, resembling a dint: see also غَيْبٌ.<br>\
+مَهْزُومُ الصَّدْرِ<br>\
+Depressed of breast, i. e., apparently, illiberal, niggardly: see حَوْضٌ.<br>\
+' } );

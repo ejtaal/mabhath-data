@@ -1,0 +1,49 @@
+load_data( { book: 'll_pt', text: '<em>قتل</em>            1                  قتل<br>\
+<b>قَتَلَ الشَّىْءَ</b>               1     <br>\
+                     قَتَلَ الشَّىْءَ<br>\
+                     ذ<br>\
+                  , inf. n. قَتْلٌ, (assumed tropical:)  <i>He knew the thing; he was,</i> or <i>became, acquainted with it:</i> (Msb:) [or rather, <i>i. q.</i>] قَتَلَهُ عِلْمًا, (Bd in iv. 156, and TA,) and خُبْرًا, (K,) and بِعِلْمِهِ, (Bd, ubi supra,) <i>he knew it</i> (Bd, K, TA) <i>completely,</i> (TA,) or <i>thoroughly, very well,</i> or <i>superlatively well;</i> as also نَحَرَهُ عِلْمًا. (Bd.) See اَثْبَتَ الشَّىْء مَعْرِفَةً in art. ثبت.    </entryFree> <br>\
+<b>قَتَّلَ</b>               1     <br>\
+                     قَتَّلَ<br>\
+                     ذ<br>\
+                  : see a verse cited in art. عتب, conj. 4.    </entryFree> <br>\
+<b>قَاتَلَهُ</b>               1     <br>\
+                     قَاتَلَهُ<br>\
+                     ذ<br>\
+                  <i>He fought,</i> or <i>combated, him; contended with him in fight</i> or <i>conflict</i> or <i>battle.</i> <br>\
+                  قَاتَلَ عَلَى دِيِن اْللّٰهِ: see 3 in art. ازى.    </entryFree> <br>\
+<b>تَقَتَّلَتْ لَهُ</b>               1     <br>\
+                     تَقَتَّلَتْ لَهُ<br>\
+                     ذ<br>\
+                   means تَخَضَّعَتْ لَهُ وَتَذَلَّلَتْ حَتَّى <br>\
+                  عَشِقَهَا. (A.)    </entryFree> <br>\
+<b>اِسْتَقْتَلَ</b>               1     <br>\
+                     اِسْتَقْتَلَ<br>\
+                     ذ<br>\
+                   [properly <i>He sought,</i> or <i>courted, slaughter;</i>] <i>i. q.</i> <br>\
+                  اِسْتَمَاتَ; (S, K;) meaning <i>he cared not for death,</i> by reason of his courage; (JM;) <i>he resigned and subjected himself to slaughter, and cared not for death.</i> (Mgh.)    </entryFree> <br>\
+<b>قَتْلٌ</b>               1     <br>\
+                     قَتْلٌ<br>\
+                     ذ<br>\
+                  : from this word is formed the pl. قُتُولٌ, on the authority of hearsay. (El-Jurjánee, in Msb, art. قصد.)    </entryFree> <br>\
+<b>قَتَّالٌ</b>               1     <br>\
+                     قَتَّالٌ<br>\
+                     ذ<br>\
+                   [<i>Murderous; slaughterous; very deadly.</i>] You say حَيَّةٌ قَتَّالَهٌ [<i>A very deadly serpent</i>]. (TA in art. اصل.)    </entryFree> <br>\
+<b>قَاتِلٌ</b>               1     <br>\
+                     قَاتِلٌ<br>\
+                     ذ<br>\
+                  <i>Deadly;</i> applied to a tree; (K in art. خمط;) and to poison. (TA in that art.)    </entryFree> <br>\
+<b>مَقْتَلٌ</b>               1     <br>\
+                     مَقْتَلٌ<br>\
+                     ذ<br>\
+                  <i>A</i> [<i>vital</i>] <i>place</i> in a man [or an animal, i. e.] <i>where a wound causes death;</i> (S, Msb;) as the temple: (Msb:) pl. مَقَاتِلُ. (S.)    </entryFree> <br>\
+<b>وَلِنِّى مَقَاتِلَكَ</b>               1     <br>\
+                     وَلِنِّى مَقَاتِلَكَ<br>\
+                     ذ<br>\
+                   means حَوِّلْ اـِلَىَّ وَجْهَكَ. (A.)    </entryFree> <br>\
+<b>مُسْتَقْتِلٌ</b>               1     <br>\
+                     مُسْتَقْتِلٌ<br>\
+                     ذ<br>\
+                  : see مُسْتَمِيتٌ.    <br>\
+' } );

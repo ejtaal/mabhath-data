@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>جمس</em>            1                  جمس<br>\
+<b>جَمَسَ</b>               1     <br>\
+                     جَمَسَ<br>\
+                     جمس<br>\
+                  , (A, Msb, K,) aor.      <br>\
+                     جَمُسَ<br>\
+                  , (Msb, TA,) inf. n. جُمُوسٌ (S, Msb, K) and جَمْسٌ; (TA;) and جَمُسَ, aor.      <br>\
+                     جَمُسَ<br>\
+                  ; (TA;) <i>It</i> (grease, As, S, A, Msb, K, and clarified butter, and water, A, K, but جَمَدَ is more commonly said of the last, K, or جَمَسَ is incorrect when said of water, As, TA) <i>congealed.</i> (As, S, A, Msb, K.)    </entryFree> <br>\
+<b>جُمْسَةٌ</b>               1     <br>\
+                     جُمْسَةٌ<br>\
+                     جمسه<br>\
+                     جمسة<br>\
+                  <i>A tough date:</i> (IDrd, * M, K, * TA:) <i>a date ripening</i> (As, S, Z, K) <i>altogether,</i> (As, Z, K, TA,) <i>but as yet hard, not mellow,</i> or <i>digestible,</i> or <i>easy of digestion:</i> (As, S, Z, K:) pl. جُمَسٌ. (As, TA.) [See بُسْرٌ.]       -A2-  Also <i>A distinct number,</i> or <i>herd, of camels.</i> (O, K.)    </entryFree> <br>\
+<b>جَامِسٌ</b>               1     <br>\
+                     جَامِسٌ<br>\
+                     جامس<br>\
+                   Grease, (A,) and clarified butter, (TA,) and water, (S,) or it is improperly applied to the last, (As, TA,) <i>in a state of congelation.</i> (S, A, Mgh, TA.) ―         -b2-  A plant <i>that has lost its freshness,</i> or <i>juiciness,</i> (AHn, K,) <i>and become old, and hard,</i> or <i>tough.</i> (AHn, TA.) ―         -b3-  صَخْرَةٌ جَامِسَةٌ <br>\
+                  <i>A tough rock,</i> (TA,) <i>firm in its place.</i> (K, TA.) [In the TA is added مُقْشَعِرَّةٌ: but this is evidently a mistranscription, for مُسْتَقِرَّةٌ, which adds nothing to the explanation.]    </entryFree> <br>\
+<b>جَامُوسٌ</b>               1     <br>\
+                     جَامُوسٌ<br>\
+                     جاموس<br>\
+                   [The <i>buffalo;</i>] <i>a kind of</i> <br>\
+                  بَقَر; (Mgh, Msb, TA;) <i>well known:</i> (K:) n. un. with ة: (K:) and pl. جَوَامِيسُ: (S, Msb, K:) an arabicized word, (T, S, K,) from the Persian; (T, S;) originally گَاوْ مِيشْ. (T, K.)   </entryFree> <br>\
+' } );

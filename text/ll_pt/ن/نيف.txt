@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نيف</em>            1                  نيف<br>\
+<b>نَيِفَ</b>               1     <br>\
+                     نَيِفَ<br>\
+                     ذ<br>\
+                  <i>He disliked, disapproved,</i> or <i>hated.</i> (IAar, art. انف.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>لهم</em>            1                  لهم<br>\
+<b>اَلْهَمَهُ اْللّٰهُ لِلْخَيْرِ</b>               1     <br>\
+                     اَلْهَمَهُ اْللّٰهُ لِلْخَيْرِ<br>\
+                     ذ<br>\
+                   [<i>God directed him by inspiration to that which was good,</i> or <i>to prosperity</i>] (TA, art. وفق) ―         -b2-  اَلْهَمَهُ اـِيَّاهُ <br>\
+                  <i>He suggested it to him;</i> (in the order of the words, <i>he suggested to him it;</i>) <i>he put it into his mind.</i>    <br>\
+<b>اِلْتَهَمَ</b>               1     <br>\
+                     اِلْتَهَمَ<br>\
+                     ذ<br>\
+                  <i>He gulped.</i>    <br>\
+<b>لَاهُمَّ</b>               1     <br>\
+                     لَاهُمَّ<br>\
+                     ذ<br>\
+                   and اللّٰهُمَّ: see اللّٰهُ.   </entryFree> <br>\
+' } );

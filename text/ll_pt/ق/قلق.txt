@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>قلق</em>            1                  قلق<br>\
+<b>قَلِقَ</b>               1     <br>\
+                     قَلِقَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَلَقَ<br>\
+                  , (M, Msb, TA,) inf. n. قَلَقٌ, (S, M, Msb, K,) <i>It was,</i> or <i>became, unsettled, unsteady,</i> <br>\
+                  <i>unfixed, loose, mobile, unquiet,</i> or <i>restless; it did not settle, become fixed</i> or <i>motionless</i> or <i>quiet</i> or <i>at rest,</i> or <i>it did not rest</i> or <i>remain</i> or <i>continue, in its place.</i> (TA.) <i>He,</i> or <i>it, became disquieted, disturbed, agitated, flurried,</i> or <i>in a state of unrest</i> or <i>commotion;</i> syn. اِنْزَعَجَ, (S, K, TA,) and اِضْطَرَبَ. (M, Msb.) ―         -b2-  قَلِقَ اـِلَيْهِ, or الى <br>\
+                  لِقَايِهِ, see جَنَبَ.    </entryFree> <br>\
+                     قَلَّقَ<br>\
+                   see 4.    </entryFree> <br>\
+<b>اَقْلَقَهُ</b>               1     <br>\
+                     اَقْلَقَهُ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, disquieted him; disturbed him; agitated him; flurried him.</i> (S, Msb.) <i>He moved it,</i> a thing, from its place; as also ↓ <br>\
+      قَلَّقَهُ. (M.)    </entryFree> <br>\
+<b>قَلِقٌ</b>               1     <br>\
+                     قَلِقٌ<br>\
+                     ذ<br>\
+                  <i>Unsteady; loose.</i> ―         -b2-  عِبَارَةٌ قَلْقَةٌ <br>\
+                  <i>A loose expression.</i> (TA &amp;amp;c., passim.)    </entryFree> <br>\
+<b>قَلَاقَةٌ</b>               1     <br>\
+                     قَلَاقَةٌ<br>\
+                     ذ<br>\
+                  <i>Looseness</i> in an expression. (TA &amp;amp;c., passim.)   </entryFree> <br>\
+' } );

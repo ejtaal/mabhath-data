@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>لصق</em>            1                  لصق<br>\
+<b>لَاصَقَهُ</b>               1     <br>\
+                     لَاصَقَهُ<br>\
+                     ذ<br>\
+                  <i>He associated with him.</i>    <br>\
+<b>لَصِيقٌ</b>               1     <br>\
+                     لَصِيقٌ<br>\
+                     ذ<br>\
+                  <i>An associate; an adherent.</i>    <br>\
+<b>مُلْصَقٌ</b>               1     <br>\
+                     مُلْصَقٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  دَعِىٌّ (TA;) as also ↓ <br>\
+      مُلَصَّقٌ (TA in art. لسق) and مُلَسَّقٌ: (K, and TA in that art.:) or [<i>a consociated alien;</i>] <i>one residing among a tribe of which he is not a member by lineage.</i> (TA.)    </entryFree> <br>\
+<b>مُلَصَّقٌ</b>               1     <br>\
+                     مُلَصَّقٌ<br>\
+                     ذ<br>\
+                  : see مُلْصَقٌ.   </entryFree> <br>\
+' } );

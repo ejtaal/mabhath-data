@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قض</em>            1                  قض<br>\
+<b>قَضْقَاضٌ</b>               1     <br>\
+                     قَضْقَاضٌ<br>\
+                     ذ<br>\
+                  , (K,) and some say قَصْقَاصٌ, (TA,) The اُشْنَان <br>\
+                  <i>of Syria:</i> (K, TA:) or the <i>green, and lank</i> (سَبْط), <i>thereof:</i> (Ibn-&#39;Abbád, TA:) or <i>a species of trees of the</i> [<i>kind called</i>] حَمْض, (AHn, K, TA,) <i>slender and yellow.</i> (AHn, TA.) See فِرْسٌ.   </entryFree> <br>\
+' } );

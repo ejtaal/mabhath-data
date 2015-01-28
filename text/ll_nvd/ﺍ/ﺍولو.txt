@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'اولوأُولُو, in the gen. and accus. أُولِى: see أُلُو in<br>\
+art. الو.<br>\
+أُولَى<br>\
+أَوَّلُ fem. of أَوَّلُ: see the latter in art. وأل.<br>\
+-A2-<br>\
+أُولَى as a pl., and its var. أُولَآءَ; and أُولٰئِكَ, or<br>\
+أُولَآئِكَ; &amp;c.: see أُلَى, in art. الى.<br>\
+' } );

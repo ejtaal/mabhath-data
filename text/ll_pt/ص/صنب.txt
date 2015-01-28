@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>صنب</em>            1                  صنب<br>\
+<b>صِنَابٌ</b>               1     <br>\
+                     صِنَابٌ<br>\
+                     ذ<br>\
+                  <i>A sauce made of mustard</i> (S, M, A, K) <i>and raisins.</i> (S, A, K.)       -A2-  And <i>Long in the back and belly;</i> as also ↓ <br>\
+      صِنَابَةٌ: (IAar, O, K:) and so each with س. (IAar, O.)    </entryFree> <br>\
+<b>صِنَابَةٌ</b>               1     <br>\
+                     صِنَابَةٌ<br>\
+                     ذ<br>\
+                  : see what immediately precedes.    </entryFree> <br>\
+<b>صِنَابِىٌّ</b>               1     <br>\
+                     صِنَابِىٌّ<br>\
+                     ذ<br>\
+                  , applied to a horse (M, A, TA) or similar beast, (M, TA,) or to a hackney, (TA,) and to a camel, (M, TA,) <i>Of a colour between redness and yellowness,</i> (M, A, K, TA,) <i>with abundance of hair,</i> and <i>of fur:</i> (TA:) or <i>of a bay,</i> or <i>dark bay,</i> or <i>brown, colour;</i> syn. كُمَيْتٌ: (S, O, K:) or <i>of a sorrel colour;</i> syn. اَشْقَرُ: (K:) or <i>of this last colour having some white hairs intermixed therewith:</i> (S, O, TA:) so called because his colour resembles the sauce termed صِنَاب: (TA:) صِنَابِىٌّ being a rel. noun from صِنَابٌ. (S, O, TA.)    </entryFree> <br>\
+<b>مِصْنَبٌ</b>               1     <br>\
+                     مِصْنَبٌ<br>\
+                     ذ<br>\
+                  <i>Addicted to,</i> or <i>fond of, eating the sauce termed</i> <br>\
+                  صِنَاب. (IAar, O, K.)   </entryFree> <br>\
+' } );

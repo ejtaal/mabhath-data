@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'جيم2<br>\
+جيّم جِيمًا He wrote a ج. (K.)<br>\
+جِيمٌ The letter ج: masc. and fem.: (T, K, *<br>\
+TA:) pl. أَجْيَامٌ and جِيمَاتٌ. (TA.)<br>\
+Quasi<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نتع</em>            1                  نتع<br>\
+<b>نُتُوعٌ</b>               1     <br>\
+                     نُتُوعٌ<br>\
+                     ذ<br>\
+                   The <i>gums</i> of trees; correctly نُتُوحٌ.   </entryFree> <br>\
+' } );

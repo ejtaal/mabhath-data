@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'اير1<br>\
+آرَهَا, aor. يَئِيرُ, (T, S, and K in art. اور,)<br>\
+inf. n. أَيْرٌ; (T, TA;) or آرَهَا, aor. يَؤُورُ; (ISk, T;)<br>\
+or both; (K ubi suprà;) Inivit eam; he compressed her. (ISk, T, S, K.)<br>\
+أَيْرٌ The membrum virile; penis; veretrum:<br>\
+(TA:) pl. [of pauc.] آيُرٌ and آيَارٌ (S, M, K) and<br>\
+[of mult.] أُيُورٌ (S, K) and أُيُرٌ. (L.) ―<br>\
+-b2-  كَانَ أَيْرُهُ<br>\
+طَويلًا is a phrase meaning (tropical:)  He had many male<br>\
+children. (T, TA.)<br>\
+أُيَارِىٌّ Having a large membrum virile, or penis;<br>\
+(T, S, M, K;) like أُنَافِىٌّ signifying “ having a<br>\
+large nose. ” (T.)<br>\
+أَيَّارُ The [Syrian] month [corresponding to<br>\
+May, O. S.;] preceding حَزِيرَانُ, or (as written<br>\
+by Saadee Efendee, TA) حُزَيْرَانُ. (So in different<br>\
+copies of the K.)<br>\
+آئِرٌ Iniens. (T, S, TA.)<br>\
+مَئِيرٌ pass. part. n. of 1, (T, S, TA,) of the same<br>\
+measure as مَصِيرٌ; i. q. مَنْيُوكٌ. (TA.)<br>\
+مِئْيَرٌ (K, TA, [in the CK مَئِير, and in Gol. Lex.<br>\
+مِئْيَرٌ,]) Qui multum coit. (K.)<br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>سوسن</em>            1                  سوسن<br>\
+<b>سَوْسَنٌ</b>               1     <br>\
+                     سَوْسَنٌ<br>\
+                     ذ<br>\
+                  , (M, Msb, K,) like جَوْهَرٌ [in measure], (Msb, K,) by the vulgar pronounced سُوسَنٌ, with damm to the first letter, (Msb, [and thus written in one of my copies of the S, in the other of those copies, and app. in most others, omitted,]) a Pers., or foreign, word, (اَعْجَمِىٌّ,) current in the language of the Arabs, (M,) [i. e.] an arabicized word, [app. from the Pers. سُوسَنْ, in Hebr.        <br>\
+      <orth lang=&quot;he&quot;>שׁוּשַׁן</orth>,] (S,) [applied in the present day to The <i>lily:</i> and also the <i>iris:</i> and the <i>pancratium:</i> and app. to <i>other similar flowers:</i>] <i>a certain plant,</i> (M, Msb, K, *) <i>of sweet odour,</i> (K,) <i>resembling what are called</i> <br>\
+                  رَيَاحِين, <i>with broad leaves, but not having an odour that diffuses itself like the</i> <br>\
+                  رياحين; (Msb;) <i>it is well known, and of many kinds, the sweetest of which is the white:</i> (S: [but only, as mentioned above, in one of my two copies thereof:]) <i>there is a wild kind; and the garden-kind is of two sorts, namely, the</i> <br>\
+                  ا=زَاد, <i>which is the white, and the</i> <br>\
+                  اـِيرِسَا=ء, [i. e. <i>the iris,</i> in the CK, erroneously, اَبْرَسا,] <i>which is the</i> <br>\
+                  ا=سْمَانْجُونِىّ, [i. e. <i>azure-coloured,</i> from the Pers. ا=سْمَانْ گُونْ,] <i>beneficial as a remedy against the dropsy, an attenuant of thick matters; and the</i> <br>\
+                  ا=زَاد <br>\
+                  <i>is of a delicate,</i> or <i>subtile, nature,</i> [so I here render لَطِيفٌ, but it has other meanings,] <i>beneficial as a remedy for cold disorders in the brain, a discutient of the thick kinds of flatus that collect therein; its</i> <br>\
+                  اَصْل [app. here meaning <i>root</i>] <i>is a detergent of the skin, discutient; and its leaves are beneficial as a remedy against the burning of hot water, and against the sting of venomous reptiles or the like, and particularly of the scorpion:</i> the n. un. is with ة. (K.)   </entryFree> <br>\
+' } );

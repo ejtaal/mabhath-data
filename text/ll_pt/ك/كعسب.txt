@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كعسب</em>            1                  كعسب<br>\
+<b>كَعْسَبَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     كَعْسَبَ<br>\
+                     ذ<br>\
+                  <i>He ran</i> (K) <i>vehemently:</i> like كَعْظَلَ: (TA:) <i>and fled:</i> (K:) like كَعْسَمَ: (TA:) or <i>he ran slowly:</i> or <i>he walked quickly:</i> or <i>he walked in the manner of a drunken man.</i> (K.)   </entryFree> <br>\
+' } );

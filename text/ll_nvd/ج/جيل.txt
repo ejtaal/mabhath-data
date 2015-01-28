@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'جيلجِيلٌ A nation, people, race, tribe, or family of<br>\
+mankind; (S, Msb, K;) such as the Turks, and<br>\
+the Greeks, (S. TA,) and the Chinese: (TA:)<br>\
+pl. أَجْيَالٌ (M, Msb, TA) and جِيلَانٌ. (M, TA.)<br>\
+―<br>\
+-b2-  And A generation of men. (TA.)<br>\
+-A2-  See also<br>\
+جُولٌ.<br>\
+جَيَلُ: see جَيْأَلُ, in art. جأل.<br>\
+جَيْلَانُ الحَصَى Small pebbles which the wind<br>\
+makes to turn about or round about, to circle,<br>\
+or to revolve: (S, K:) but this belongs to art.<br>\
+جول. (TA.)<br>\
+-A2-  يَوْمٌ جَيْلَانُ: see أَجْوَلُ, in art.<br>\
+جول.<br>\
+يَوْمٌ جَيْلَانِىٌّ: see أَجْوَلُ, in art. جول.<br>\
+' } );

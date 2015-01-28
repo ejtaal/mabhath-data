@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سرحل</em>            1                  سرحل<br>\
+<b>سِرْحَالٌ</b>               1     <br>\
+                     سِرْحَالٌ<br>\
+                     ذ<br>\
+                  ; fem with ة: see سِرْحَانٌ, in art. سرح.   </entryFree> <br>\
+' } );

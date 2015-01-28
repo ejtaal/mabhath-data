@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'هيف5<br>\
+تَهَيَّفَ<br>\
+, (S, K,) said of a man, (S,) is from<br>\
+الهَيْفُ [the hot south-west wind], like تَسَتَّى<br>\
+from الشِتَّآءُ. (S, K.) See an ex. voce مَصْقُولٌ.<br>\
+الهَيْفُ<br>\
+: respecting the wind thus called, see<br>\
+نَكْبَاءُ.<br>\
+رِيحٌ مِهْياَفٌ<br>\
+[A very thirsty wind]. (TA, voce<br>\
+نَكْباَءُ.)<br>\
+' } );

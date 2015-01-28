@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>حكو</em>            1                  حكو<br>\
+<b>حَكَوْتُهُ</b>               1     <br>\
+                     حَكَوْتُهُ<br>\
+                     حكوته<br>\
+                     حكوتة<br>\
+                  , (S, Msb, K,) aor.      <br>\
+                     حَكُوَ<br>\
+                  , (Msb, K,) <i>i. q.</i> <br>\
+                  حَكَيْتُهُ; (S, Msb, K;) mentioned by AO. (S.) See art. حكى.    </entryFree> <br>\
+<b>رَجُلٌ حَكَوِىٌّ</b>               1     <br>\
+                     رَجُلٌ حَكَوِىٌّ<br>\
+                     رجل حكوى<br>\
+                     رجل حكوي<br>\
+                  <i>A man who relates stories,</i> or <i>tales, and extraordinary things:</i> but this is a vulgar word. (TA.)   </entryFree> <br>\
+' } );

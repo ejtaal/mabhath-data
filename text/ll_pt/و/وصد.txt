@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>وصد</em>            1                  وصد<br>\
+<b>اوصد</b>               1     <br>\
+                     اوصد<br>\
+                     ذ<br>\
+                  <i>He closed,</i> a door, or an entrance; syn. اَغْلَقَ; (S, M, A, L, K;) and اَطْبَقَ: (Msb, K:) as also ا=صَدَ. (S, L, K.) ―         -b2-  See 10. ―         -b3-  اُوِصِدَ <br>\
+                  <i>It</i> (a door, or entrance) <i>became closed.</i> (S.) ―         -b4-  اوصد <br>\
+                  <i>He covered,</i> or <i>covered over,</i> a cooking-pot. (M, A, L.) ―         -b5-  وَقَعَ الجَبَلُ عَلَى <br>\
+                  بَابِ الكَهْفِ فَاَوْصَدَهُ <br>\
+                  <i>The mountain fell upon the entrance of the cavern, and stopped it up.</i> (L, from a trad.) See also اَوْطَدَ. ―         -b6-  اوصدوا عَلَيْهِ (tropical:)  <i>They straitened him, and imposed on him a difficulty which he was unable to bear.</i> (A.)    </entryFree> <br>\
+<b>استوصد</b>               1     <br>\
+                     استوصد<br>\
+                     ذ<br>\
+                   (S, A, L, K) and ↓ <br>\
+      اوصد (A, K) <i>He made a fold, such as is called</i> <br>\
+                  وَصِيدَة, (S, L,) or وَصِيد, (K,) or <i>a</i> <br>\
+                  حَظِيرَة, <i>for his sheep</i> or <i>goats,</i> (A,) in a mountain. (S, L.)    </entryFree> <br>\
+<b>وِصَادٌ</b>               1     <br>\
+                     وِصَادٌ<br>\
+                     ذ<br>\
+                   (M, L,) as also اـِصَادٌ, (L,) and ↓ <br>\
+      وَصِيدٌ [see the Kur, xviii. 17,] (K,) <i>i. q.</i> <br>\
+                  مطبق: (M, L, K.:) [in a copy of the M written مَطْبَقٌ: in the L, without any syll. signs: in the CK, مُطْبَق: and in my MS. copy of the K, مُطْبِق: see the remarks on these words in art. اَصد:]) or وِصَادٌ and اـِصَادٌ are like طِبَاقٌ. (O.)    </entryFree> <br>\
+<b>وَصِيدٌ</b>               1     <br>\
+                     وَصِيدٌ<br>\
+                     ذ<br>\
+                  <i>A court,</i> or <i>an open</i> or <i>a wide space in front of a house</i> or <i>dwelling,</i> or <i>extending from its sides:</i> (S, M, A, L, Msb, K:) as also اَصِيدٌ; q. v.: (L:) pl. وُصُدٌ and وَصَايِدُ. (TA.) ―         -b2-  <i>A threshold</i> (Msb, K) <i>of a door</i> or <i>entrance.</i> (Msb.) ―         -b3-  <i>A door,</i> or <i>entrance.</i> (A.) See وِصَادٌ. ―         -b4-  It has the first of these meanings in the Kur, xviii. 17; (A, L, TA;) or the second: (TA:) or the third: (A, TA:) or it there means The <i>cavern of the Asháb el-Kahf.</i> (K *, TA.) ―         -b5-  Also, وَصِيدٌ, (K,) or ↓ <br>\
+      وَصِيدَةٌ, (S, A, L,) [as also اَصِيدَةٌ,] <i>A fold</i> (حَظِيرَة) <i>for sheep</i> or <i>goats:</i> (A:) or <i>a house like a</i> <br>\
+                  حظيرة, <i>of stones, made in the mountains, for flocks</i> or <i>herds;</i> (L, K;) i. e., <i>for sheep</i> or <i>goats &amp;amp;c.:</i> (TA:) <i>an enclosure like a</i> <br>\
+                  حظيرة, <i>made for flocks</i> or <i>herds, excepting that it is of stones, and a</i> <br>\
+                  حظيرة [<i>is</i>] <i>of branches of trees:</i> (S, L:) F, misunderstanding this explanation, has erroneously said in the K, that وَصِيدٌ also signifies a حظيرة of branches of trees: (TA:) pl. وَصَايِدُ. (A.) ―         -b6-  [<i>Snares,</i> or <i>traps,</i> for catching beasts of prey: see رَصَايِدُ in art. رصد.] ―         -b7-  وَصِيدٌ Herbage <i>having the roots near together.</i> (S, L, K.) ―         -b8-  وَصِيدٌ (tropical:)  <i>Strait; straitened;</i> (K, TA;) as also عَلَيْهِ ↓ <br>\
+      مُوصَدٌ. (A, TA.)    </entryFree> <br>\
+<b>وَصِيدَةٌ</b>               1     <br>\
+                     وَصِيدَةٌ<br>\
+                     ذ<br>\
+                  : see وَصِيدٌ.    </entryFree> <br>\
+<b>مُوصَدٌ</b>               1     <br>\
+                     مُوصَدٌ<br>\
+                     ذ<br>\
+                   A door, or entrance, <i>closed:</i> (L:) or <i>become closed.</i> (S.) ―         -b2-  In the Kur, eiv. 8, [and xc. 20,] مُوصَدَةٌ (as some read instead of مُوْصَدَةٌ, L) signifies <i>Closed over.</i> (S, L.) ―         -b3-  See وَصِيدٌ.   </entryFree> <br>\
+' } );

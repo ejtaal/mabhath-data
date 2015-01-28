@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>فدخ</em>            1                  فدخ<br>\
+<b>فَدَخَ رَاْسَهُ</b>               1     <br>\
+                     فَدَخَ رَاْسَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     فَدَخَ<br>\
+                  , (K, TA,) inf. n. فَدْخٌ, (TA,) <i>He broke his head</i> with a stone: (K, TA:) and فَدَخْتُ الشَّىْءَ <br>\
+                  <i>I broke the thing:</i> (TA:) [but] the verb is not used except in relation to a thing in which is moisture. (K, TA.)   </entryFree> <br>\
+' } );

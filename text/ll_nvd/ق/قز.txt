@@ -1,0 +1,58 @@
+load_data( { book: 'll_nvd', text: 'قز1<br>\
+قَزَّ, [sec. pers., app., قَزُزْتَ,] aor.<br>\
+قَزُ3َ, inf. n.<br>\
+قَزَازَةٌ, He felt, or had a sense of, or was moved<br>\
+with, shame, or pudency; his soul shrank from<br>\
+foul things: (M:) and [in like manner] ↓ تقزّز he<br>\
+was scrupulous in shunning, or avoiding, unclean<br>\
+things, or impurities; (S, M;) he removed himself far from such things; (S, Mgh, K;) and قُزٌّ<br>\
+[an inf. n. of قَزَّ] signifies the same as تَقَزُّزٌ.<br>\
+(K, TA.) You say also, قَزَّ مِنَ الدَّنَسِ, inf. n.<br>\
+قُزٌّ, He removed himself far from what was<br>\
+unclean. (TK.) And قَزَّتْ نَفْسِى عَنِ الشَّىْءِ, and<br>\
+قَزَّتْهُ, with and without a prep., (M, TA,) inf. n.<br>\
+قَزٌّ, (M, K,) My soul, or mind, refused the thing,<br>\
+or rejected it; (M, K, * TA;) a meaning said by<br>\
+IKtt to be of the dial. of El-Yemen: (TA:) and<br>\
+it loathed the thing; which latter is the more<br>\
+common signification: (M, TA:) and [in like<br>\
+manner] عَنِ الشَّىْءِ ↓ تقزّز he did not eat the thing,<br>\
+nor drink it, willingly: (M, TA:) end مِنْ ↓ تقزّز<br>\
+أَكْلِ الضَّبِّ وَغَيْرِهِ [he loathed, or shunned, or<br>\
+avoided, the eating of the lizard called ضبّ &amp;c.].<br>\
+(S, Mgh, TA.)<br>\
+5<br>\
+تَقَزَّ3َ see 1, in three places.<br>\
+قَزٌّ A quality, or thing, that is to be loathed, or<br>\
+shunned, or avoided, for its uncleanness, in food;<br>\
+as also ↓ قُزُّ and ↓ قَزَازَةٌ. (M, TA.) See also 1.<br>\
+-A2-<br>\
+A man who feels, or has a sense of, or is moved<br>\
+with, shame, or pudency; whose soul shrinks from<br>\
+foul things: (M, TA:) and, as also ↓ قُزٌّ and ↓ قِزٌّ, a<br>\
+man scrupulous in shunning, or avoiding, unclean<br>\
+things, or impurities; (S;) who removes himself<br>\
+far from such things; (S, K;) who does not eat<br>\
+nor drink a thing willingly: (M:) and the same<br>\
+three epithets, (TA,) and ↓ قَزَزٌ (K) and ↓ قُزَّازٌ,<br>\
+(IAar, K,) a man well-bred, or polite, (ظَرِيفٌ,)<br>\
+who guards against vices or faults, and shuns acts<br>\
+of disobedience and afflictions, not through pride:<br>\
+(K, TA;) fem. قَزَّةٌ and قُزَّةٌ and قِزَّةٌ: (M, K: *)<br>\
+the pl. of قَزٌّ is أَقِزَّآءُ, which is anomalous. (M,<br>\
+TA.)<br>\
+-A3-  I. q. إِبْرِيسَمٌ [Silk: or raw silk:] (K:)<br>\
+or a kind thereof: (S:) or that whereof ابريسم is<br>\
+made; (Lth, Az, Msb, TA;) wherefore some<br>\
+say, that قزّ and ابريسم are like wheat and flour:<br>\
+(Msb:) a Persian word, [originally قَزْ,] (M,<br>\
+TA,) arabicized: (S, M, Msb:) pl. قُزُوزٌ. (M,<br>\
+TA.) ―<br>\
+-b2-  [Hence, دُودُ القَزِّ The silk-worm.]<br>\
+قُزٌّ: see قَزٌّ; the first in three places, and the second in two.<br>\
+قِزٌّ: see قَزٌّ; the first in three places, and the second in two.<br>\
+قَزَزٌ: see قَزٌّ; the first in three places, and the second in two.<br>\
+قَزَازَةٌ: see قَزٌّ, and see also 1.<br>\
+قَزَّازٌ A seller of قَزّ, q. v. (K.)<br>\
+قُزَّازٌ: see قَزٌّ.<br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ولR. Q. 1<br>\
+وَلْوَلَتْ<br>\
+She (a woman) wailed, or<br>\
+raised her voice with weeping. (Har, p. 395.)<br>\
+' } );

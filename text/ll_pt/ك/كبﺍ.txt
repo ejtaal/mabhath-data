@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كبا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كبا<br>\
+&lt;entryFree id=&quot;n42944&quot; key=&quot;كَبَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَبَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: said of a horse: see above, art. حَنَذَ, p. 656 &lt;i&gt;b.&lt;/i&gt; ―         -b2-  See also a phrase voce سَلَّةٌ. ―         -b3-  كَبَا <br>\
+                  &lt;i&gt;He fell upon his face:&lt;/i&gt; (K, TA:) or so كَبَا لِوَجْهِهِ: S, TA:) and كَباَ also signifies عَثَرَ [&lt;i&gt;he stumbled,&lt;/i&gt; or &lt;i&gt;tripped&lt;/i&gt;]. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

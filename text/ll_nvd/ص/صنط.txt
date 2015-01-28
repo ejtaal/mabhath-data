@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'صنطصَنْطٌ, thus pronounced by the people of Egypt,<br>\
+(TA,) a dial. var. of سَنْطٌ, q. v. (K.)<br>\
+' } );

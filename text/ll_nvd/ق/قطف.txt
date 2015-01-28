@@ -1,0 +1,33 @@
+load_data( { book: 'll_nvd', text: 'قطفقِطْفٌ<br>\
+A bunch of grapes, &amp;c.: pl. قُطُوفٌ: see<br>\
+an ex. voce ذَلَّلَ. ―<br>\
+-b2-  قِطْفٌ<br>\
+i. q.<br>\
+مَقْطُوفٌ. (TA in<br>\
+art. بسط.) See بَسِيطٌ.<br>\
+قَطَفٌ<br>\
+: see بَقْلٌ.<br>\
+قَطَافٌ<br>\
+and ↓ قِطَافٌ The time of gathering the<br>\
+crop of grapes: (S, Mgh, K:) or the latter has<br>\
+this meaning; and the former is allowable accord.<br>\
+to Ks: (T, TA:) and the latter is also an inf. n.,<br>\
+(Mgh,) or may be so, (Ks, T, TA,) meaning the<br>\
+gathering of the crop of grapes: (Mgh:) [or both<br>\
+have this meaning; for] you say, هٰذَا زَمَانُ<br>\
+القَطَافِ and القِطَافِ. (Msb.) See جَدَادٌ.<br>\
+قَطِيفٌ<br>\
+a coll. gen. n. syn. with قَطَائِفُ, mentioned in the TA voce أُبْلُوجٌ, which see. ―<br>\
+-b2-  قَطِيفَةٌ<br>\
+A villous, or nappy,<br>\
+دِثَار [or outer wrapping garment]. (S, Msb, K.) See also راَحُولَاتٌ.<br>\
+قَطَائِفُ<br>\
+: see my 1001 Nights, note 23 to chap. viii.<br>\
+See also زَلاَبِيَه. In the TA, art. كنف, it is<br>\
+applied to كُنَافَة.<br>\
+مِقْطَفٌ<br>\
+(vulg.<br>\
+مَقْطَفٌ) [pl. مَقَاطِف] A handbasket, made of palm-leaves: so called because<br>\
+originally used in gathering fruit. (See also<br>\
+قُفَّة and زَنْبِيل.)<br>\
+' } );

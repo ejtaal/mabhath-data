@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>شيص</em>            1                  شيص<br>\
+                     شَيَّصَ<br>\
+                   see the next paragraph.    </entryFree> <br>\
+<b>اشاصت النَّخْلَةُ</b>               1     <br>\
+                     اشاصت النَّخْلَةُ<br>\
+                     ذ<br>\
+                  <i>The palm-tree was not fecundated by the flowers,</i> or <i>pollen, of the male tree:</i> (A, K:) or <i>its dates dried up:</i> and <i>it bore dates such as are termed</i> <br>\
+                  شِيص: (Msb:) or <i>it became bad, and its dates became such as are termed</i> <br>\
+                  شيص; (TA;) as also ↓ <br>\
+      شيّصت. (Kr, TA.)    </entryFree> <br>\
+<b>تشيّص التَّمْرُ</b>               1     <br>\
+                     تشيّص التَّمْرُ<br>\
+                     ذ<br>\
+                  <i>The dates became such as are termed</i> <br>\
+                  شِيص. (S.)    </entryFree> <br>\
+<b>شِيصٌ</b>               1     <br>\
+                     شِيصٌ<br>\
+                     ذ<br>\
+                  <i>Dates of which the stones do not become hard;</i> as also ↓ <br>\
+      شِيصَا=ءٌ; (S, A, K;) which is only the case when the palm-tree has not been fecundated by the flowers, or pollen, of the male tree: (S:) and sometimes, <i>having no stones:</i> (Fr, TA:) or <i>bad dates:</i> (A:) or the <i>worst of dates;</i> (IF, Msb, K;) as also ↓ the latter word: (Msb:) or the <i>worst of dates when full-grown but unripe:</i> (Lth, TA:) called in the dial. of Belhárith Ibn-Kaab, صِيصٌ; and by the people of El-Medeeneh, سُخَّلٌ: (El-Umawee, TA:) and said by some to be a Persian word, arabicized: (TA:) n. un. with ة; (A, Msb, K;) i. e., شِيصَةٌ and شِيصَا=ءَةٌ. (A, Msb.)    </entryFree> <br>\
+<b>شِيصَا=ءٌ</b>               1     <br>\
+                     شِيصَا=ءٌ<br>\
+                     ذ<br>\
+                  : n. un. with ة: see شِيصٌ, in two places.   </entryFree> <br>\
+' } );

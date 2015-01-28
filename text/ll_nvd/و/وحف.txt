@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'وحف5<br>\
+تَوَحَّفَ<br>\
+quasi-pass. of أَتْحَفَهُ: see تُحْفَةٌ.<br>\
+8<br>\
+اِتَّحَفَهُ<br>\
+: see art. تحف.<br>\
+وُحْفَةٌ<br>\
+and وُحَفَةٌ, said to be the originals of<br>\
+تُحْفُةٌ and تُحَفَةٌ: see تُحْفَةٌ.<br>\
+' } );

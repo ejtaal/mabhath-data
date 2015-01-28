@@ -1,0 +1,76 @@
+load_data( { book: 'll_nvd', text: 'نبر1<br>\
+نَبَرَ, (T, S, A, K,) aor.<br>\
+نَبِرَ, (S, K,) inf. n.<br>\
+نَبْرٌ, (S,) He, (a man, S, A,) or it, (anything, T,)<br>\
+raised, or elevated, a thing: (T, S, A, K:) or نَبْرٌ<br>\
+signifies specially the raising of the voice: (MF,<br>\
+from the first part of the Keshsháf:) or the rising of<br>\
+the voice; so with the Arabs; and one says نَبَرَ الرَّجُلُ,<br>\
+inf. n. نَبْرَةٌ, meaning, the man spoke in a high<br>\
+tone: (IAmb:) and نَبَرَ, inf. n. نَبْرَةٌ, he (a man)<br>\
+uttered a sound: (A:) and [the inf. n.] نَبْرَةٌ,<br>\
+signifies the crying out, or shouting, from fright,<br>\
+or fear: (T, K:) and نَبْرَةُ المُغَنِّى, the singer&#39;s<br>\
+raising his voice from a low to a high pitch.<br>\
+(S, K.) ―<br>\
+-b2-  نَبَرَ الحَرْفَ, (S, M, A, K,) aor.<br>\
+نَبِرَ,<br>\
+(M, K,) inf. n. نَبْرٌ, (S, M,) He pronounced the<br>\
+letter with hemz (هَمْز). (S, M, A, K.) قُرَيْشٌ<br>\
+لَا تَنْبِرُ [The tribe of Kureysh] do not pronounce<br>\
+with hemz. (S.) A man said to the Prophet,<br>\
+يَا نَبِىْءَ اللّٰهِ [O Prophet of God]; and he said<br>\
+لَا تَنْبِرْ يِاسْمِى, i. e. Pronounce not thou my name<br>\
+with hemz: (M:) for the tribe of Kureysh did not<br>\
+pronounce with hemz. (TA.) And when ElMahdee performed the pilgrimage, he preferred<br>\
+El-Kisáee to recite the prayers in El-Medeeneh,<br>\
+and the people of that city disapproved of his<br>\
+pronouncing with hemz, asking him wherefore<br>\
+he did so in reciting the Kur-án in the mosque<br>\
+of the Apostle of God. (TA.)<br>\
+8<br>\
+انتبر It (a heap of wheat) rose, by additions.<br>\
+(T.) ―<br>\
+-b2-  It (the body, M, K, and a wound,<br>\
+T, A) swelled; became swollen. (T, M, A, K.)<br>\
+―<br>\
+-b3-  It (the mouth, TA,) became blistered, or<br>\
+vesicated. (K, TA.) And انتبرت يَدُهُ His arm,<br>\
+or hand, became blistered. (S, A.) ―<br>\
+-b4-  He (the<br>\
+أَمِير, M, and the خَطِيب, K) ascended the مِنْبَر<br>\
+[or pulpit]. (M, K.)<br>\
+نِبْرٌ sing. of أَنْبَارٌ, (T, S,) which signifies Heaps,<br>\
+syn. أَكْدَاسٌ, (M, K,) or a collection, (M, S,) of<br>\
+طَعَام, (S, M, K, MS,) meaning of wheat, and of<br>\
+barley, [or other corn,] and of dates: (MS:) or<br>\
+[in the TA, and] granaries (أَهْرَآء) of طَعَام: (in<br>\
+the present day, a granary:] what is called هُرْىٌ<br>\
+being also called نِبْرٌ because the طعام, when<br>\
+poured in its place, rises: and the pl. pl. [i. e. pl.<br>\
+of انبار] is أَنَابِيرُ. (T.) ―<br>\
+-b2-  أَنْبَارٌ also signifies<br>\
+A merchant&#39;s magazine, or chamber, (بَيْت,) in<br>\
+which he puts together, in order, or piles up, his<br>\
+goods. (M, K.) [In the K, it is added, that<br>\
+the sing. is نِبْرٌ: but this addition seems to be<br>\
+misplaced: for انبار in the last of the senses here<br>\
+explained, as well as when applied to a granary.<br>\
+and to a collection of طعام, appears to be a pl.<br>\
+without a sing.]<br>\
+نَبْرَةٌ Anything rising from a thing. (M, A, K.)<br>\
+―<br>\
+-b2-  A swelling in the body. (M, K.) ―<br>\
+-b3-  I. q.<br>\
+هَمْزَةٌ [meaning the sound, or the character, so<br>\
+called]. (T, S, K.)<br>\
+مِنْبَرٌ The pulpit of the خَاطِب [in a mosque]:<br>\
+(M, TA:) so called because of its height: (S,<br>\
+M, A, K:) [pl. مَنَابِرُ.]<br>\
+مُنَبَّرٌ: see مَنْبُورٌ.<br>\
+المَسْأَلَةُ المِنْبَرِيَّةُ: see the first paragraph of art.<br>\
+عول.<br>\
+مَنْبُورٌ Pronounced with hemz (هَمْز). (T.)<br>\
+قَصَائِدُ مَنْبُورَةٌ, and ↓ مُنَبَّرَةٌ, i. q. مَهْمُوزَةٌ [i. e. Poems<br>\
+of which the verses end with hemz].<br>\
+' } );

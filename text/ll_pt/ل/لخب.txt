@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>لخب</em>            1                  لخب<br>\
+<b>لَخَبَ</b>               1     <br>\
+                     لَخَبَ<br>\
+                     ذ<br>\
+                  <i>He slapped</i> a person; <i>struck</i> him <i>with the open hand.</i> (K.)       -A2-  لَخَبَ, aor.      <br>\
+                     لَخَبَ<br>\
+                   and      <br>\
+                     لَخُبَ<br>\
+                  , (inf. n. لَخْبٌ, TA,) <i>Inivit</i> feminam: (Kr, K:) but the word commonly known, related by Yaakoob and others, is نَخَبَ. (ISd.)    </entryFree> <br>\
+<b>لاخبهُ</b>               1     <br>\
+                     لاخبهُ<br>\
+                     ذ<br>\
+                  , inf. n. مُلَاخَبَةٌ (and لِخَابٌ, TA), <i>He slapped him, being also slapped by him.</i> (K.)    </entryFree> <br>\
+<b>لَخَبٌ</b>               1     <br>\
+                     لَخَبٌ<br>\
+                     ذ<br>\
+                   The <i>trees which produce what is called</i> <br>\
+                  مُقْلٌ, q. v. (K.)    </entryFree> <br>\
+<b>مُلَخَّبٌ</b>               1     <br>\
+                     مُلَخَّبٌ<br>\
+                     ذ<br>\
+                   One <i>who is slapped much,</i> or <i>violently, in altercations.</i> (K.)   </entryFree> <br>\
+' } );

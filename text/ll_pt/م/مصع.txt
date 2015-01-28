@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مصع</em>            1                  مصع<br>\
+<b>اَمْصَعَتْ بِوَلَدِهَا</b>               1     <br>\
+                     اَمْصَعَتْ بِوَلَدِهَا<br>\
+                     ذ<br>\
+                  <i>She</i> (a woman) <i>brought forth,</i> or <i>cast forth, her child with a single moan,</i> or <i>hard breathing</i> [or <i>with a single throe;</i>] like زَكَبَتْ بِهِ. (IAar, L, art. حفد.)   </entryFree> <br>\
+' } );

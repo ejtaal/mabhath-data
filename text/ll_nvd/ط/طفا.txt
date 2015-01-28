@@ -1,0 +1,55 @@
+load_data( { book: 'll_nvd', text: 'طفأ1<br>\
+طَفِئَتِ النَّارُ, aor.<br>\
+طَفَاَ, inf. n. طُفُوْءٌ (S, Msb, K)<br>\
+and طَفَأٌ; (TA;) and ↓ انطفأت; (S, K;) The<br>\
+fire became extinguished, or quenched: (Msb:)<br>\
+or ceased to flame: (K, TA:) [or rather, ceased<br>\
+to flame and its live coals became cool; for] when<br>\
+the flame of the fire has become allayed but its<br>\
+coals still burn, it is said to be خَامِدَة; and<br>\
+when its flame is extinct and its coals have<br>\
+become cool, it is said to be هَامِدَة and ↓ طَافِئَة.<br>\
+(TA.)<br>\
+4<br>\
+اطفأ النَّارَ He extinguished, or quenched, the<br>\
+fire. (S, * Msb, K, * TA.) Hence, اطفأ الحَرْبَ<br>\
+(tropical:)  He extinguished the fire of the war. (TA.)<br>\
+And أَطْفَأْتُ الفِتْنَةَ (tropical:)  I allayed the sedition, or<br>\
+conflict and faction, or the like. (Msb.)<br>\
+7<br>\
+إِنْطَفَاَ see the first paragraph.<br>\
+نَارٌ طَافِئَةٌ [Fire becoming, or become, extinguished]: see 1.<br>\
+مُطْفِئُ الجَمْرِ [The extinguisher of the live<br>\
+coals;] one of the [seven] days called أَيَّامُ العَجُوزِ;<br>\
+(S, O;) the fifth of those days; (K;) so in the<br>\
+M &amp;c.: (TA:) or the fourth thereof: (O, K:)<br>\
+or the last thereof. (Har p. 295.) [Accord. to<br>\
+modern Egyptian almanacs, it is the fourth of<br>\
+those days on which the last of the three جَمَرَات<br>\
+becomes extinct: see جَمْرَةٌ: and see also عَجُوزٌ]<br>\
+―<br>\
+-b2-  مُطْفِئَةُ الرَّضْفِ (so in the M and O and L and<br>\
+in some copies of the K, in other copies of the K<br>\
+مُطْفِئُ, TA) A piece of fat which, when it falls<br>\
+upon the رَضْف [or heated stones], melts, and<br>\
+quenches them. (Lth, O, K.) And in the M and<br>\
+L, it is said to signify A lean sheep or goat: the<br>\
+Arabs, as is related by Lh, used to say, حَدَسَ لَهُمْ<br>\
+بِمُطْفِئَةِ الرَّضْفِ (TA) i. e. He slaughtered for them<br>\
+a lean sheep or goat, which extinguished the fire<br>\
+and did not become thoroughly cooked: (M and L<br>\
+and K in art. حدس:) or a fat sheep or goat, (AO<br>\
+and T, TA in that art.,) which quenched the رَضْف<br>\
+by its fat. (T, TA ibid. [See also دَمَغَ.]) ―<br>\
+-b3-<br>\
+Also A serpent, the poison of which, as it passes<br>\
+by the رَضْف, extinguishes their fire: (O, K:) in<br>\
+a verse of El-Kumeyt, [for the sake of the<br>\
+metre,] the former word is [altered to] ↓ مُطَفِّئَة.<br>\
+(O.) ―<br>\
+-b4-  And (tropical:)  A calamity, or misfortune: (O,<br>\
+K, TA:) said by AO to mean originally such as<br>\
+has made one to forget that which was before it,<br>\
+and extinguished its heat. (O, TA.)<br>\
+مُطَفِّئَةُ الرَّضْفِ: see the next preceding paragraph.<br>\
+' } );

@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'نهأ1<br>\
+نَهِئَ, aor.<br>\
+نَهَاَ; and نَهُؤَ, aor.<br>\
+نَهُاَ; (S, K;) and<br>\
+نَهُؤَ; (as in one copy of the S;) inf. n. نَهْءٌ (S, K)<br>\
+and نَهَأٌ (S) and نَهَآءَةء (S, K) and نُهُوْءَةٌ (K) and<br>\
+نُهُوْءٌ (S, K) and نَهَاوَةٌ, (the last dev. from rule);<br>\
+(K;) It (flesh-meat) was not, or did not become,<br>\
+thoroughly cooked. (S, K.) ―<br>\
+-b2-  مَا أُبَالِى مَا نَهِئَ<br>\
+مِنْ ضَبِّكَ وَلَا مَا نضِجَ [I care not what is insufficiently cooked, of thy ضَبّ, nor what is<br>\
+thoroughly cooked: i. e. I care not whether evil<br>\
+or good befall thee]. (S, * TA,) A proverb.<br>\
+(TA.)<br>\
+-A2-  شَرِبَ حَتَّى نَهَأَ, aor.<br>\
+نَهَاَ, He drank till<br>\
+he was full. (K, * TA.)<br>\
+4<br>\
+انهأ (S, K) inf. n. إِنْهَآءٌ, (S,) He insufficiently cooked flesh-meat. (S, K.) ―<br>\
+-b2-  He<br>\
+did a thing not firmly, not soundly, not thoroughly. (K.)<br>\
+نُهُوْءٌ The state of being not thoroughly cooked.<br>\
+(TA.)<br>\
+نَهِىْءٌ (S, K) and ↓ مُنْهَأٌ (S) Insufficiently<br>\
+cooked flesh-meat. (S, K.)<br>\
+نَاهِئٌ Satiated with food and with drink.<br>\
+(IAar.)<br>\
+مُنْهَأٌ: see نَهِىْءٌ.<br>\
+' } );

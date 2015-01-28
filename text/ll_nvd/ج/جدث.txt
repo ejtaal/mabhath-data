@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'جدث8<br>\
+اجتدث He made, or prepared, a جَدَث,<br>\
+i. e., a grave, or sepulchre; or did so for himself.<br>\
+(S, K, TA.)<br>\
+جَدَثٌ A grave; a sepulchre; pl. أَجْدَاثٌ (S,<br>\
+Msb, K) and أَجْدُثٌ; (S, K;) of which latter,<br>\
+J cites an ex., but in this instance it is the proper<br>\
+name of a place. (TA.) It is of the dial. of<br>\
+Tihámeh: the people of Nejd say جَدَفٌ: (Msb:)<br>\
+or [as some say] the ف in the latter is a substitute<br>\
+for the ث in the former; for اجداث is used as a<br>\
+pl. by common consent, and اجداف is not used:<br>\
+(TA:) but Suh affirms, in the R, that the latter<br>\
+pl. is used by Ru-beh. (TA in art. جدف.)<br>\
+' } );

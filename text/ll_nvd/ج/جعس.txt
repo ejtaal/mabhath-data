@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'جعسQ. Q. 1<br>\
+جَعْمَسَ He (a man, TA) deposited<br>\
+his ordure, or excrement, at once: (K, TA:) or<br>\
+in a dry, or tough, state. (TA.) The م is augmentative. (Sgh, TA.)<br>\
+جعْسٌ, (S, K,) and ↓ جِعْسٌ, (TA,) and ↓ جُعْمُوسٌ;<br>\
+(AZ, S, and K in art. جعمس,) the first of which<br>\
+is post-classical; (S, K;) and the last, the term<br>\
+used by the Arabs [of the classical ages]; (S;)<br>\
+Human ordure, or excrement; (AZ, TA in art.<br>\
+جعمس;) syn. رَجِيعٌ: (S, K:) or the first signifies<br>\
+the place in which the جُعْمُوس falls: (IDrd, K:)<br>\
+the م in the last word is augmentative; and its<br>\
+pl. is جَعَامِيسُ. (S.) You say, ↓ رَمَى بِجَعَامِيسِ<br>\
+بَطْنِهِ [He cast forth the excrements of his<br>\
+belly]. (S.)<br>\
+جِعْسٌ: see the next preceding paragraph.<br>\
+جُعْمُوسٌ; pl. جَعَامِيسُ: see جَعْسٌ.<br>\
+جُعَامِسٌ A man (TA) who deposits his ordure,<br>\
+or excrement, at once: (K:) or in a dry, or<br>\
+tough, state: as also ↓ مُجَعْمِسٌ. (TA.)<br>\
+مُجَعْمِسٌ: see what next precedes.<br>\
+' } );

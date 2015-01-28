@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'كهربكَهْرَبٌ and كَهْرَبَا [or كَهْرُبَا] A well-known<br>\
+yellow substance; [yellow amber]: from the<br>\
+Persian كَاهُ رُبَا, i. e., “ carrying off straw, ” [on<br>\
+account of its electric attraction]. (TA.) See<br>\
+De Sacy&#39;s Chrest. Ar., sec. ed., iii. 468: and see<br>\
+حَوَرٌ.<br>\
+' } );

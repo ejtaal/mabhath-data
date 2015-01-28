@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>حيف</em>            1                  حيف<br>\
+<b>حَافَ</b>               1     <br>\
+                     حَافَ<br>\
+                     حاف<br>\
+                     حافي<br>\
+                  , aor. يَحِيفُ, (S, Msb,) inf. n. حَيْفٌ, (S, Msb, K,) <i>He</i> (a judge, or any other person, Msb) <i>acted wrongfully, unjustly, injuriously,</i> or <i>tyrannically,</i> (S, Msb, K,) عَلَيْهِ <br>\
+                  <i>against him:</i> (S:) or, as some say, <i>he inclined</i> [<i>to that which was wrong</i>], or <i>declined</i> [<i>from that which was right</i>], <i>in his judgment.</i> (TA.) حَيْفُ النَّاحِلِ means <i>A man&#39;s giving to certain of his children exclusively of others:</i> he should treat them equally, and not prefer some before others. (T, TA.)    </entryFree> <br>\
+<b>تَحْيِيفٌ</b>               1     <br>\
+                     تَحْيِيفٌ<br>\
+                     تحييف<br>\
+                   The <i>taking a thing,</i> or <i>something, from the side:</i> and <i>diminishing</i> [<i>from the side</i>]. (KL.)    </entryFree> <br>\
+<b>تَحَيَّفْتُهُ</b>               1     <br>\
+                     تَحَيَّفْتُهُ<br>\
+                     تحيف<br>\
+                     تحيفته<br>\
+                     تحيفتة<br>\
+                  <i>I took by little and little from its sides;</i> (S, K;) as also تحوّفتهُ. (S.)    </entryFree> <br>\
+<b>حِيفَةٌ</b>               1     <br>\
+                     حِيفَةٌ<br>\
+                     حيف<br>\
+                     حيفه<br>\
+                     حيفة<br>\
+                  <i>A side,</i> or <i>lateral part:</i> pl. حِيَفٌ; (K;) which is likewise pl. of حَافَةٌ. (TA.) [See also حَايِفٌ, below.]    </entryFree> <br>\
+<b>حَايِفٌ</b>               1     <br>\
+                     حَايِفٌ<br>\
+                     ذ<br>\
+                  <i>Acting wrongfully, unjustly, injuriously,</i> or <i>tyrannically:</i> (Lth, Msb, K: [in some copies of the K, حَايِرٌ is erroneously put for جَايِرٌ:] pl. حَافَةٌ (Msb, K) and حُيَّفٌ (K, Msb *) and حُيُفٌ. (TA.) ―         -b2-  An arrow <i>declining from the right direction.</i> (TA.) ―         -b3-  And, as being likened thereto, (tropical:)  An <i>impotent</i> man, <i>who does not attain the object of his want.</i> (TA.)       -A2-  The <i>side</i> of a mountain. (K, TA.) [See also حِيفَةٌ.]    </entryFree> <br>\
+<b>بَلَدٌ اَحْيَفُ</b>               1     <br>\
+                     بَلَدٌ اَحْيَفُ<br>\
+                     ذ<br>\
+                  , and اَرْضٌ حَيْقَا=ءُ, <i>A district</i> or <i>the like,</i> and <i>a land, upon which rain has not fallen:</i> (Ibn-&#39;Abbád, K:) as though the rain treated it wrongfully. (TA.)   </entryFree> <br>\
+' } );

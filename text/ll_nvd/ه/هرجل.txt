@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هرجلهِرْجَالٌ<br>\
+, pl. هَرَاجيل, A tall, long-bodied, or<br>\
+bulky, she-camel: (TA:) see هِرْجَاب.<br>\
+' } );

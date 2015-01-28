@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نفا</em>            1                  نفا<br>\
+<b>نُفْاَةٌ</b>               1     <br>\
+                     نُفْاَةٌ<br>\
+                     ذ<br>\
+                  <i>One of several parts,</i> or <i>portions, of scattered herbage:</i> or <i>one of several adjacent meadows</i> (رِيَاض), <i>separated from, and rising above, the greater part of the pasture.</i> pl. نُفًا (K.)   </entryFree> <br>\
+' } );

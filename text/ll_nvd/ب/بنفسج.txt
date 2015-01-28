@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'بنفسجبَنَفْسَجٌ, of the measure قَعَلَّلٌ, like سَفَرْجَلٌ,<br>\
+(Msb,) [an arabicized word, from the Persian<br>\
+بَنَفْشَ; The violet; viola odorata of Linn: and<br>\
+accord. to Forskål (Flora AEgypt. Arab. p. ciii.)<br>\
+applied in El-Yemen to the “ iris: ” and (p. cxx.)<br>\
+“ tagetes dubia? ”] what is thus called is well<br>\
+known: the smelling it in its fresh state is beneficial to those who are heated by wrath (المَحْرُورِين),<br>\
+and the continual smelling of it induces good sleep:<br>\
+the conserve made of it is beneficial for the pleurisy<br>\
+(ذَاتُ الجَنْبِ), and for inflammation of the lungs<br>\
+(ذَاتُ الرِّئَةِ), and for cough, and for headache.<br>\
+(K.)<br>\
+' } );

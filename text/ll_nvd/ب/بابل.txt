@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'بابلبَابِلِىٌّ Of, or belonging to, or relating to, بَابِل<br>\
+[i. e. Babel], a place [well known] in El-&#39;Irák:<br>\
+it is an epithet applied to enchantment, [which is<br>\
+said to have been there taught by two fallen<br>\
+angels, Hároot and Mároot, (see the Kur ii. 96,)]<br>\
+and to wine. (S, K, TA.) ―<br>\
+-b2-  And hence, (TA,)<br>\
+Poison: [and, accord to the CK, wine;] as also<br>\
+↓ بَابِلِيَّةٌ. (K, TA.) ―<br>\
+-b3-  In the original language<br>\
+of the place above mentioned, البَابِلِىُّ is a name of<br>\
+المُشْتَرِى [The planet Jupiter]. (TA.)<br>\
+بَابِليَّةٌ: see above.<br>\
+' } );

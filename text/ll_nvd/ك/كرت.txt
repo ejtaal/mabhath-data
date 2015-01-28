@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كرتسَنَةٌ كَرِيتٌ A complete year. (S, K.) And<br>\
+so a day, and a month. (TA.)<br>\
+' } );

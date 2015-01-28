@@ -1,0 +1,59 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ياس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ياس<br>\
+&lt;entryFree id=&quot;n42423&quot; key=&quot;يَيِسَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     يَيِسَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, A, Msb, K,) مِنَ الشَّىْءِ, (S, A *, Msb,) aor. يَيْيَسُ and يَيْيِسُ, (S, M, Msb, K,) the latter of which is extr., (Sb, S, M, K,) like يَحْسِبُ, aor. of حَسِبَ, and يَنْعِمُ, aor. of نَعِمَ, (As, S, TA,) and is of the dial. of the higher classes of Mudar, as are also the similar instances, but the former is of the dial. of the lower classes of the Mudar; (AZ, S, Msb, TA;) or, as Sb says, accord. to his companions, the verb was originally of two forms, يَيِسَ, aor. يَيْيَسُ, and يَاَسَ, aor. يَيْيِسُ, and a compound [which is يَيِسَ having يَيْيِسُ for its aor.] was then formed from the two; but as to وَمِقَ, aor. يَمِقُ, and وَفِقَ, aor. يَفِقُ, and وَرِمَ. aor. يَرِمُ, and وَلِىَ, aor. يَلِى, and وَثِقَ, aor. يَثِقُ, and وَرِثَ, aor. يَرِثُ, in each of these only one form is allowable, with the kesr; (S, TA;) and some change the second ى of the aor. of يَيِسَ into ا, and say يَايَسُ and يَا=ءَسُ; (Mbr, S, TA;) and I&#39;Ab reads, in the Kur. xii. 87, يِييَسُ, after the manner of the dial. of those who pronounce the first letter of the aor. with kesr excepting such as is with ى [for its first letter], (K, TA,) which dial, is that of Temeem and Keys and Hudheyl and Asad; (Ks, Lh, TA;) the case of ى being made an exception by them because kesr with that letter is difficult of pronunciation; (Sb, TA;) but some of the Benoo-Kelb pronounce ى also with kesr, which is extr.; (Fr, Lb, TA:) and this is done in the instances of يِييَسُ and يِيجَلُ because one ى is here strengthened by another; (K, TA;) [I find also, in a copy of the M, يَيِيسُ, as an extr. form of the aor. of this verb, on the authority of Sb; but it is doubtless a mistranscription for يِييَسُ; and there is another evident mistranscription in a quotation from Sb immediately following in that copy, relating to aors. of the form of يِييَسُ, which has been rendered correctly above, in the present work, from the TA;] inf. n. يَاْسٌ (S, M, A, Msb, K) and يَاَسٌ, (TA,) or يَا=سٌ, (as in a copy of the M,) and يَا=سَةٌ; (Ibn-&#39;Abbád, M, K, TA [but in a MS. copy of the K I find it written يَاَسَةٌ; and in the CK, يَاْسَة;]) and اـِيَاسٌ is also used as an inf. n. of this verb, though properly an inf. n. of 4; (Msb;) &lt;i&gt;He despaired of the thing;&lt;/i&gt; syn. of the inf. n. قُنُوط, (S, A, K,) contr. of رَجَا=ءٌ: (M, A, K:) or &lt;i&gt;he cut off hope of the thing:&lt;/i&gt; (A, K: *) or &lt;i&gt;his hope of the thing became cut off:&lt;/i&gt; (Mgh:) and ↓ <br>\
+      اـِسْتَيْيَسَ signifies the same, (S, A, K,) in like manner followed by مَنْ; (S;) and so does ↓ <br>\
+      اـِتَّاَسَ, (S, K,) [originally اـِيتَاَسَ,] of the measure اـِفْتَعَلَ, but with incorporation [of the ى into the ت]. (S.) It is allowable to transpose the letters of يَيِسَ, so as to say اَيِسَ; but not those of the inf. n. (Msb.) There is not a word in the Arabic language commencing with ى followed by ء except يَيِسَ [and its derivatives] (IKtt) [and يَاَيَاَ and its derivatives, and words commencing with an augmentative ى followed by a radical      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     يَاَُ<br>\
+                  &lt;/form&gt;]. The expression لَا يَاْسَ مِنْ طُولٍ. occurring in a description of Mohammad, means that his stature was such as would not make [one] to despair of his height; for he was nearer to tallness than he was to shortness: (K, * TA:) ياس is here an indeterminate noun governed in &lt;pb n=&quot;2974&quot; TEIform=&quot;pb&quot;/&gt; the accus. case by the negative لا: (TA:) or, accord. to one relation, the words are, لَا يَايِسَ <br>\
+                  مِنْ طُولٍ, [in the CK, erroneously, لا يايَسُ,] meaning, that his height was not despaired of; i. e., he who vied with him in tallness would not despair of him on account of his excessive height: (K, TA:) so that يَايِس is here in the sense of مَيْوُوس, like مَا=ءٌ دَافِقٌ in the sense of مَدْفُوقٌ. (TA.) ―         -b2-  [Hence,] يَيِسَتْ المَرْاَهُ <br>\
+                  &lt;i&gt;The woman was,&lt;/i&gt; or &lt;i&gt;became, barren.&lt;/i&gt; (Msb.) ―         -b3-  يَيِسَ, (S, M, A, Msb, K,) aor. يَيْيَسُ and يَيْيِسُ, (M,) also signifies (tropical:)  &lt;i&gt;He knew;&lt;/i&gt; syn. عَلِمَ; (S, M, A, Msb, K;) in the dial. of En-Nakha&#39;; (S, Msb;) or, accord. to El-Kelbee, (M,) or Ibn-El-Kelbee, (TA,) in the dial. of Wahbeel, a tribe of En-Nakha&#39;; or, accord. to El-Kásim Ibn-Maan, of the dial. of Hawázin. (M, TA.) So in the Kur. [xiii. 30] اَفَلَمْ يَيْيَسِ اْلَّذِينَ ا=مَنُوا [&lt;i&gt;Do not then those who have believed know?&lt;/i&gt;]: (S, M, Msb, K:) or, accord. to some of the lexicologists, &lt;i&gt;do not then those who have believed know with a knowledge wherewith they despair of its being otherwise than what they know?&lt;/i&gt; or the meaning is, &lt;i&gt;do not then those who have believed despair&lt;/i&gt; of the belief of those whom God has described as those who will not believe? (M, TA;) but I&#39; Ab (M, TA) and &#39;Alee and others (TA) used to read اَفَلَمْ يَتَبَيَّنِ اْلَّذِينَ ا=مَنُوا; and I&#39;Ab said that he thought that the writer had written يَيْيَس in a state of drowsiness. (M *, TA.) Soheym Ibn-Wetheel El-Yarboo&#39;ee also uses the verb in this sense, in a verse cited in art. يسر, voce يَسَرَ, q. v. (S, M *). [Z-says,] You say, قَدْ يَيِسْتُ اَنَّكَ رَجُلُ صِدْقٍ, meaning, (tropical:)  &lt;i&gt;I have known&lt;/i&gt; [&lt;i&gt;that thou art a good man&lt;/i&gt;], because with eager desire is restlessness, and with the cessation thereof is quiet and tranquility; wherefore it is said, اليَاْسُ اَحَدُ الرَّاحَتَيْنِ [&lt;i&gt;Despair is one of the two states of rest.&lt;/i&gt;] (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42424&quot; key=&quot;اَيْاَسَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَيْاَسَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, A, Mgh, K,) inf. n. اـِيَاسٌ, (L, Mgh, Msb,) of the same measure as كِتَابٌ, (Msb,) originally اـِيْا=سٌ, (L, Msb,) like اـِيْعَاسٌ, (L,) and اـِيْمَانٌ, (Msb,) &lt;i&gt;He made him to despair:&lt;/i&gt; (S, M, A, K:) or &lt;i&gt;to cut off hope:&lt;/i&gt; (A:) or &lt;i&gt;to cease to have hope:&lt;/i&gt; (Mgh:) مَنْ كَذَا of such a thing: (S:) as also ↓ <br>\
+      ا=يَسَهُ [from اَيِسَ]. (Mgh, K.) ―         -b2-  [Hence,] اَيْاُسَهَا اْللّٰهُ <br>\
+                  &lt;i&gt;God made her to be,&lt;/i&gt; or &lt;i&gt;become, barren.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِيْتَاََ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَيْاََ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42425&quot; key=&quot;يَاَسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَاَسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Phthisis,&lt;/i&gt; or &lt;i&gt;consumption;&lt;/i&gt; syn. سِلٌّ; (M, K;) because he who is affected by it is despaired of; (M;) or [because] the first who was affected by it was اليَاَسُ, (K, TA,) or اـِلْيَاس, (TA,) the son of Mudar the son of Nizár: (K, TA:) or, as Suh says, in the R, this disease was called دَا=ءُ يَاس, or دَا=ءُ اـِلْيَاسَ, because الياس the son of Mudar died of it. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42426&quot; key=&quot;يَوُسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَوُسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see يَايِسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42427&quot; key=&quot;يَوُوسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَوُوسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see يَايِسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42428&quot; key=&quot;يَيِيسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَيِيسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see يَايِسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42429&quot; key=&quot;يَايِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَايِسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (M, Mgh, Msb) and ↓ <br>\
+      يَيِيس (M) and ↓ <br>\
+      يَوُوسٌ (S, M, A, K) and ↓ <br>\
+      يَوُسٌ (M, K) &lt;i&gt;Despairing:&lt;/i&gt; (S, M, A, Mgh, K:) but the third has an intensive signification, (Bd, xli. 49,) [and so the last.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42430&quot; key=&quot;يَايِسَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَايِسَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, A &lt;i&gt;barren&lt;/i&gt; woman. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42431&quot; key=&quot;مَيْوُوسٌ مِنْهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَيْوُوسٌ مِنْهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Despaired of.&lt;/i&gt; (M, Mgh, Msb. *)   &lt;/entryFree&gt; <br>\
+' } );

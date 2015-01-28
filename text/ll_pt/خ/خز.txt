@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>خز</em>            1                  خز<br>\
+<b>خَزٌّ</b>               1     <br>\
+                     خَزٌّ<br>\
+                     خز<br>\
+                  <i>A certain kind of cloth,</i> (S, A, K,) <i>well known,</i> (K, TA,) <i>woven of wool and silk:</i> (TA:) and also <i>a kind of cloth entirely of silk;</i> and this is the kind which one is forbidden to ride upon and to sit upon; not the former kind, which is allowable, and was sometimes worn by companions of the Prophet and by the next succeeding generation, as IAth has ascertained: (TA:) derived from خُزَزٌ, (K, TA,) accord. to some: (TA:) or it is the name of <i>a certain beast</i> [thought by Golius to be the <i>beaver</i>]: and afterwards applied to the <i>cloth made of its fur:</i> (Mgh, Msb:) pl. خُزُوزٌ. (S, A, Msb, K.) [Golius seems to derive it from the Persian قَزْ, meaning <i>raw silk;</i> and assigns to it also the meaning of <i>a coarser kind of spun silk.</i>] خُزُوزٌ وَبُزُوزٌ signifies <i>Good cloths,</i> or <i>stuffs,</i> or <i>garments.</i> (A in art. بز.)    </entryFree> <br>\
+<b>خُزَزٌ</b>               1     <br>\
+                     خُزَزٌ<br>\
+                     خزز<br>\
+                   The <i>male of the</i> <br>\
+                  اَرْنَب [or <i>hare</i>]: (S, A, Msb, K:) or the <i>offspring of the</i> <br>\
+                  ارنب: (TA:) pl. [of pauc.] اَخِزَّةٌ (K) and [of mult.] خِزَّانٌ. (S, Msb, K.) Hence the saying, مَسُّهُ مَسُّ الخُزَزِ [<i>The feel of him,</i> or <i>it, is</i> like <i>the feel of the male,</i> or <i>young, hare</i>]. (A, TA.)    </entryFree> <br>\
+<b>خَزَّازٌ</b>               1     <br>\
+                     خَزَّازٌ<br>\
+                     خزاز<br>\
+                  <i>A seller of</i> <br>\
+                  خَزّ. (TA.)    </entryFree> <br>\
+<b>اَرْضٌ مَخَزَّةٌ</b>               1     <br>\
+                     اَرْضٌ مَخَزَّةٌ<br>\
+                     ذ<br>\
+                  <i>A land containing,</i> (K * TA,) or <i>abounding with,</i> (TA,) خِزّان, pl. of خُزَزٌ, (K, TA.)   </entryFree> <br>\
+' } );

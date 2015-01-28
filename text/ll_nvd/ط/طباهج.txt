@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'طباهجطَبَاهَجٌ, (so in some copies of the K, and so in<br>\
+the S voce كَبَابٌ,) or طَبَاهَجَةٌ, (so in other copies<br>\
+of the K,) with fet-h to the ط and the ه, (TA,)<br>\
+[the latter app. a n. un.,] Flesh-meat cut into thin<br>\
+slices and broiled: (K, * TA:) or a food composed<br>\
+of flesh-meat and eggs: (MA; in which the word<br>\
+is written طَبَاهِجَة:) [or, accord. to Golius, as on<br>\
+the authority of J and El-Haleemee, a food of<br>\
+pieces of flesh-meat, eggs, onion, and water: but<br>\
+I do not find that J has explained it otherwise<br>\
+than by what here follows:] i. q. كَبَابٌ: (S voce<br>\
+كَبَابٌ:) or a kind of fry of flesh-meat: (L:)<br>\
+arabicized from [the Pers.] تَبَاهَهْ. (K.) [See<br>\
+also De Sacy&#39;s Chrest. Arabe, sec. ed. i. 175.]<br>\
+' } );

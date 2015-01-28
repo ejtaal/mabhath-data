@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>بسذ</em>            1                  بسذ<br>\
+<b>بُسَّذٌ</b>               1     <br>\
+                     بُسَّذٌ<br>\
+                     ذ<br>\
+                   an arabicized word, [because س and ذ do not occur in any one Arabic word, (Msb, voce اُسْتَاذٌ,)] <i>Coral;</i> syn. مَرْجَانٌ. (K.)   </entryFree> <br>\
+' } );

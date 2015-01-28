@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'نقرسنِقْرِسٌ [Arthritis, or gout: or, specially, podagra, or gout in the foot or feet:] a certain<br>\
+disease, well known; (S, Msb;) a swelling and<br>\
+pain in the joints: (Az, TA:) or in the leg or<br>\
+foot: (TA:) or in the joints of the ankles and<br>\
+the toes: (K:) or a swelling in the joints of the<br>\
+foot, and mostly in the great toe, a property<br>\
+of which is that it does not collect thick purulent matter, nor exude moisture, because it is<br>\
+in a member not fleshy: and of the same kind<br>\
+are arthritis, or pain of the joints, (وَجَعُ<br>\
+المَفَاصِلِ,) and sciatica, or hip-gout, (عِرْقُ النَّسَا,)<br>\
+but differing in name because differing in state.<br>\
+(Msb.)<br>\
+' } );

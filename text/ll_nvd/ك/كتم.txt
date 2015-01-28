@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'كتم1<br>\
+كَتَمَ<br>\
+, aor.<br>\
+كَتُمَ<br>\
+, inf. n. كَتْمٌ [and كِتْمَانٌ],<br>\
+doubly trans., He concealed, or suppressed, a<br>\
+secret. (Mgh.) ―<br>\
+-b2-  كَتَمَ الرَّبْوَ: see a verse cited<br>\
+in the last paragraph of art. عور.<br>\
+5<br>\
+تَكَتَّمَ<br>\
+(K, art. دلس) He (a man) concealed,<br>\
+or hid, himself. (T, K, same art.)<br>\
+6<br>\
+تَكَاتَمُوا<br>\
+They practised concealment, one with<br>\
+another: see تَدَافَنُوا.<br>\
+كَتُومٌ<br>\
+A strict concealer of secrets.<br>\
+كَاتِمٌ<br>\
+meaning مَكْتُومٌ: see دَافِقٌ, in two places.<br>\
+―<br>\
+-b2-  فِى كَاتِمِ السِّرِّ: see a verse cited in conj. 3<br>\
+of art. عرض.<br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>وخم</em>            1                  وخم<br>\
+                     تَوَخَّمَ<br>\
+                   see 10.    </entryFree> <br>\
+<b>اِسْتَوْخَمَهُ</b>               1     <br>\
+                     اِسْتَوْخَمَهُ<br>\
+                     ذ<br>\
+                  <i>He found it</i> (food) <i>to be unwholesome;</i> as also ↓ <br>\
+      تَوَخَّمَهُ: (JK, K:) <i>he found it</i> (a land) <i>to be insalubrious:</i> (TA:) <i>he found it</i> (a country or town) <i>to disagree with</i> <br>\
+                  <i>its inhabitants.</i> (S, Msb.) ―         -b2-  مَا اَسْتَوْخِمُ اَنْ <br>\
+                  اَصْحَبَكَ: see 5 in art. جدب.    </entryFree> <br>\
+<b>وَخْمٌ</b>               1     <br>\
+                     وَخْمٌ<br>\
+                     ذ<br>\
+                  <i>A heavy person</i> (K) [i. e., <i>dull</i>].    </entryFree> <br>\
+<b>وَخَمٌ</b>               1     <br>\
+                     وَخَمٌ<br>\
+                     ذ<br>\
+                  <i>A tainted condition of the air, engendering pestilential diseases.</i> (TA.)    </entryFree> <br>\
+<b>وَخِيمٌ</b>               1     <br>\
+                     وَخِيمٌ<br>\
+                     ذ<br>\
+                  <i>Unwholesome</i> food: (Mgh:) <i>unsuitable food.</i> (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>منجن</em>            1                  منجن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>سنبق</em>            1                  سنبق<br>\
+<b>سُنْبُوقٌ</b>               1     <br>\
+                     سُنْبُوقٌ<br>\
+                     ذ<br>\
+                  <i>A small</i> <br>\
+                  زَوْرَق [or <i>skiff</i>], (Sgh, K, TA,) <i>made on the coasts of the sea:</i> a word of the dial. of the people of all the coasts of the Sea of El-Yemen: (Sgh, TA:) whether the ن be radical requires consideration: Sgh says, in the Tekmileh, that the word is of the measure فُنْعُولٌ, from السَّبْقُ. (TA.)   </entryFree> <br>\
+' } );

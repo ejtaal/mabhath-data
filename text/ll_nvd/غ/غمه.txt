@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'غمه1<br>\
+غَمَا البَيْتَ, aor. يَغْمُوهُ, inf. n. غَمْوٌ: see 1 in<br>\
+art. غمى.<br>\
+غَمَا in the phrase غَمَا وَاللّٰهِ, i. q. أَمَا [expl. in<br>\
+art. اما]; (K, TA;) as also with ع. (TA.)<br>\
+غَمًا; dual غَمَوَانِ: see غَمًى in art. غمى.<br>\
+' } );

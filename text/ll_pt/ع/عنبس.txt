@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>عنبس</em>            1                  عنبس<br>\
+<b>عَنْبَسٌ</b>               1     <br>\
+                     عَنْبَسٌ<br>\
+                     ذ<br>\
+                   The <i>lion;</i> (O, K;) as also ↓ <br>\
+      عُنَابِسٌ: (K: but in the O it is said, when you designate the lion, you say عَنْبَسٌ and عَنَابِسُ: [as though, by the latter, the pl. were meant: but it is probably a mistranscription for عُنَابِسٌ:]) or the <i>lion from whom other lions flee:</i> (TA in art. عبس:) when you particularize him by a [proper] name, you say ↓ <br>\
+      عَنْبَسَةُ, [i. e. <i>The lion,</i>] making it imperfectly decl.; like as you say اُسَامَةُ. (O, K.) It is mentioned by Lth and Az among quadriliteral-radical words: Hishám says, I know not whether it be a subst. or an epithet: and A&#39;Obeyd says, it is from العُبُوسُ; and if so, it is of the measure فَنْعَلٌ: (O:) but &#39;Ikrimeh is related to have said that the lion is called ↓ <br>\
+      عَنْبَسَة in the Abyssinian language. (TA voce قَسْوَرَةٌ.)    </entryFree> <br>\
+<b>عَنْبَسَةُ</b>               1     <br>\
+                     عَنْبَسَةُ<br>\
+                     ذ<br>\
+                  : see above; the former in two places.    </entryFree> <br>\
+<b>عُنَابِسٌ</b>               1     <br>\
+                     عُنَابِسٌ<br>\
+                     ذ<br>\
+                  : see above; the former in two places.   </entryFree> <br>\
+' } );

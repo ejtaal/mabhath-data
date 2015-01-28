@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>راو</em>            1                  راو<br>\
+<b>اَرْاَى</b>               1     <br>\
+                     اَرْاَى<br>\
+                     ذ<br>\
+                  , in one of its senses belonging to this art.: see 4 in the art. next following.    </entryFree> <br>\
+<b>رَاْوَةٌ</b>               1     <br>\
+                     رَاْوَةٌ<br>\
+                     ذ<br>\
+                  : see the next art., in which it is mentioned in the S.   </entryFree> <br>\
+' } );

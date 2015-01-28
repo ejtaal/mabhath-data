@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>نقرس</em>            1                  نقرس<br>\
+<b>نِقْرِسٌ</b>               1     <br>\
+                     نِقْرِسٌ<br>\
+                     ذ<br>\
+                   [<i>Arthritis,</i> or <i>gout:</i> or, specially, <i>podagra,</i> or <i>gout in the foot</i> or <i>feet:</i>] <i>a certain disease, well known;</i> (S, Msb;) <i>a swelling and pain in the joints:</i> (Az, TA:) or <i>in the leg</i> or <i>foot:</i> (TA:) or <i>in the joints of the ankles and the toes:</i> (K:) or <i>a swelling in the joints of the foot, and mostly in the great toe, a property of which is that it does not collect thick purulent matter, nor exude moisture, because it is in a member not fleshy:</i> and of the same kind are arthritis, or pain of the joints, (وَجَعُ <br>\
+                  المَفَاصِلِ,) and sciatica, or hip-gout, (عِرْقُ النَّسَا,) but differing in name because differing in state. (Msb.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,57 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;شاو&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  شاو<br>\
+&lt;entryFree id=&quot;n21514&quot; key=&quot;شَاَوْتُ القَوْمَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     شَاَوْتُ القَوْمَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (AZ, S,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     شَاَُ<br>\
+                  &lt;/form&gt;, (JM, PS,) or      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     شَاََ<br>\
+                  &lt;/form&gt;, (Ham p. 786,) inf. n. شَاْوٌ, (AZ, S, K,) &lt;i&gt;I preceded,&lt;/i&gt; or &lt;i&gt;outwent, the people,&lt;/i&gt; or &lt;i&gt;party.&lt;/i&gt; (AZ, S, K. *) Accord. to [several of] the copies of the K, شَا=ءَهُ i. e. like شَاعَهُ in measure, which is incorrect, [in other copies ↓ <br>\
+      شَا=ءَاهُ, agreeably with what is said in the S,] signifies &lt;i&gt;He strove,&lt;/i&gt; or &lt;i&gt;contended, with him to precede him,&lt;/i&gt; or &lt;i&gt;outgo him:&lt;/i&gt; or &lt;i&gt;he preceded him,&lt;/i&gt; or &lt;i&gt;outwent him:&lt;/i&gt; but in the S it is said, شَا=ءَاهُ, of the measure فَاعَلَهُ, signifies &lt;i&gt;he strove,&lt;/i&gt; or &lt;i&gt;contended, with him to precede him,&lt;/i&gt; or &lt;i&gt;outgo him:&lt;/i&gt; and شَا=ءَهُ like شَاَاهُ, [the former belonging to art. شوا and] formed by transposition, signifies &lt;i&gt;he preceded him,&lt;/i&gt; or &lt;i&gt;outwent him;&lt;/i&gt; and both of these are used by the poet (El-Hárith Ibn-Khálid El-Makhzoomee, TA) in his saying, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        مَرَّ الحُدُوجُ وَمَا شَاَوْنَكَ نَقْرَةً<br>\
+                     &lt;L&gt;<br>\
+                        وَلَقَدْ اَرَاكَ تُشَا=ءُ بِالاَظْعَانِ<br>\
+                  &lt;/quote&gt; this [passage in the S], however, is taken from what is said by A&#39;Obeyd, in [his work] “ ElGhareeb el-Musannaf, ” which is as follows: شَا=ءَنِى الاَمْرُ, like شَاعَنِى [in measure], and شَا=نِى, like شَعَانِى, mean &lt;i&gt;the affair,&lt;/i&gt; or &lt;i&gt;event, grieved me;&lt;/i&gt; and thus in the verse of El-Hárith Ibn-Khálid, which he cites; and the same is said in the T on the authority of IAar, who says that the poet has used two dial. vars.: [accordingly the verse may be rendered, &lt;i&gt;The camels with their saddles upon them passed along and they grieved thee not at all; but I see thee that thou art grieved by the women borne in the camel-vehicles:&lt;/i&gt;] it is said in the M, شَا=ءَنِى الشَّىْءُ means &lt;i&gt;the thing preceded me,&lt;/i&gt; or &lt;i&gt;outwent me:&lt;/i&gt; and also &lt;i&gt;the thing grieved me:&lt;/i&gt; formed by transposition from شَا=نِى, as is proved by its having no inf. n.: IAar says that they are two dial. vars. because of his not being a grammarian. (TA.) [See also 8.]       -A2-  And شَاَوْتُ البِيْرَ, (Lh, TA,) or شاوت مِنَ البِيْرِ, (S,) inf. n. شَاْوٌ, (K, TA,) &lt;i&gt;I drew forth the earth from the well:&lt;/i&gt; (S, K: *) or &lt;i&gt;I drew forth a basketful of earth&lt;/i&gt; (شَاْوًا) or &lt;i&gt;two basketfuls of earth&lt;/i&gt; (شَاْوَيْنِ) &lt;i&gt;from the well.&lt;/i&gt; (Lh, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21515&quot; key=&quot;شَا=ءَاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     شَا=ءَاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1. يُشَاوِى occurs in a verse of Milhah El-Jarmee, meaning يُسَابِقُ, from شَاْوٌ meaning طَلَقٌ: one says شَاَاهُ, aor. يَشْاَاهُ, meaning سَبَقَهُ: but the verb of the measure regularly formed from الشَّاْوُ is شَا=ءى; so that يشاوى is formed by transposition and by the change of the ء into ى. (Ham p. 786.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21516&quot; key=&quot;تَشَا=ءَى مَا بَيْنَهُمَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَشَا=ءَى مَا بَيْنَهُمَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K, TA, [in the CK, erroneously, تَشاوَى,]) like تَشَاعَى [in measure], (S,) &lt;i&gt;The space between them two became farextending.&lt;/i&gt; (S, K.) ―         -b2-  And تشا=ءى القَوْمُ <br>\
+                  &lt;i&gt;The people,&lt;/i&gt; or &lt;i&gt;party, became scattered,&lt;/i&gt; or &lt;i&gt;dispersed.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21517&quot; key=&quot;اِشْتَاَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِشْتَاَى<br>\
+                     ذ<br>\
+                  &lt;i&gt;He preceded,&lt;/i&gt; or &lt;i&gt;outwent:&lt;/i&gt; (S, K:) so says El-Mufaddal. (S.) ―         -b2-  And &lt;i&gt;He gave ear, hearkened,&lt;/i&gt; or &lt;i&gt;listened.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21518&quot; key=&quot;شَاْوٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَاْوٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;utmost extent, term, limit, point, reach,&lt;/i&gt; or &lt;i&gt;goal.&lt;/i&gt; (S, Msb, K.) ―         -b2-  And &lt;i&gt;A heat,&lt;/i&gt; or &lt;i&gt;single run to a goal&lt;/i&gt; or &lt;i&gt;limit:&lt;/i&gt; so in the saying, عَدَا شَاْوًا (S) or جَرَى شَاْوًا (Msb) [&lt;i&gt;He&lt;/i&gt; (a horse, TA) &lt;i&gt;ran a heat&lt;/i&gt;]. ―         -b3-  And &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  هِمَّةٌ: thus in the saying, اـِنَّهُ لَبَعِيدُ الشَّاْوِ (assumed tropical:)  [&lt;i&gt;Verily he is far-aiming,&lt;/i&gt; or &lt;i&gt;far-aspiring, in purpose, desire,&lt;/i&gt; or &lt;i&gt;ambition&lt;/i&gt;]: (Lh, TA:) and سَاْوٌ is a dial. var. thereof. (TA.)       -A2-  Also &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;basket such as is termed&lt;/i&gt;] زَبِيل; and so ↓ <br>\
+      مِشْا=ةٌ: (K:) or ↓ <br>\
+      زَبِيل <br>\
+                  &lt;i&gt;in which the earth of a well is taken forth;&lt;/i&gt; of the measure of مِشْعَاةٌ; and the pl. is مَشَا=ء ٍ: (S:) and شَاْوٌ signifies, (S,) or signifies also, (K,) the &lt;i&gt;earth that is taken forth from a well&lt;/i&gt; (S, K) &lt;i&gt;with the like of the&lt;/i&gt; <br>\
+                  مِشْا=ة, (as in a copy of the S,) or &lt;i&gt;such as fills the&lt;/i&gt; <br>\
+                  مشْا=ة: (so in another copy of the S [agreeably with what next follows]:) &lt;i&gt;a&lt;/i&gt; <br>\
+                  زَبِيل <br>\
+                  &lt;i&gt;of the earth of a well.&lt;/i&gt; (As, T, TA.) ―         -b2-  And hence, i. e. as being likened to a زبيل of the earth of a well, (assumed tropical:)  The &lt;i&gt;dung that the he-ass and the she-ass casts forth:&lt;/i&gt; (As, T, TA:) or the &lt;i&gt;dung&lt;/i&gt; of the she-camel; (M, K;) but the more approved word is [سَاْوٌ,] with س. (M, TA.)       -A3-  Also The &lt;i&gt;nose-rein&lt;/i&gt; (زِمَام) &lt;i&gt;of a she-camel.&lt;/i&gt; (Lth, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21519&quot; key=&quot;مِشْا=ةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِشْا=ةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; see the next preceding paragraph, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n21520&quot; key=&quot;مُشْتَا ٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُشْتَا ٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [part. n. of 8, q. v.: ―         -b2-  and] &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مُخْتَلِفٌ [app. as meaning &lt;i&gt;Disagreeing, differing,&lt;/i&gt; or &lt;i&gt;discordant&lt;/i&gt;]. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

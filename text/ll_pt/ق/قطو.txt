@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>قطو</em>            1                  قطو<br>\
+<b>قَطًا</b>               1     <br>\
+                     قَطًا<br>\
+                     ذ<br>\
+                  <i>Sand-grouse; pterocles melanogaster:</i> so Wilkinson, Ancient Egyptians i. 250: see De Sacy&#39;s Chrest. Ar., 2nd ed., pp. 369, et seqq.    </entryFree> <br>\
+<b>قَطْوَةٌ</b>               1     <br>\
+                     قَطْوَةٌ<br>\
+                     ذ<br>\
+                  : see دَالِيَةٌ.    </entryFree> <br>\
+<b>قَطَاةٌ</b>               1     <br>\
+                     قَطَاةٌ<br>\
+                     ذ<br>\
+                  , of a beast, The <i>croup,</i> or <i>rump, and what is between the hips,</i> or <i>haunches:</i> (K:) or [the <i>fore part of the croup;</i> i. e.] the <i>place where the</i> <br>\
+                  رِدْف <br>\
+                  <i>sits.</i> (S, K.) See الغُرَابَانِ. ―         -b2-  اَدَلُّ مِنْ <br>\
+                  قَطَاةٍ: see تُبَّعٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'لثولَثًى: see عَبِيبَة.<br>\
+الحُرُوفُ اللِّتَوِيَّةُ [The gingival letters:] these<br>\
+are ذ ث, and ظ. (TA, commencement of<br>\
+باب الثاء.)<br>\
+' } );

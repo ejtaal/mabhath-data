@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'مقأمَاقِئٌ and مُوقِئٌ The posterior, or, as some say,<br>\
+anterior, part of the eye: (K:) or the inner<br>\
+angle of the eye, next the nose. (K, &amp;c., art.<br>\
+مأق.) Mentioned by most of the lexicographers<br>\
+in art. مأق, q. v. (TA.)<br>\
+' } );

@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'دولابدُولَابٌ, or دَوْلَابٌ: see art. دلب.<br>\
+' } );

@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>طيش</em>            1                  طيش<br>\
+<b>طَاشَ</b>               1     <br>\
+                     طَاشَ<br>\
+                     ذ<br>\
+                  , aor. يَطِيشُ, (O, Msb, K,) inf. n. طَيْشٌ (S, A, O, Msb, K) and طَيَشَانٌ, (TA, [there only said to be syn. with طَيْشٌ, but it is well known, and often occurring, as an inf. n. of طاش in the first of the senses here explained,]) <i>He was,</i> or <i>became, light, inconstant, unsteady, irresolute,</i> or <i>fickle,</i> syn. of the inf. n. خِفَّةٌ, (S, A, Msb, K,) or <i>contr. of</i> <br>\
+                  حِلْمٌ, (IDrd, O,) and <i>i. q.</i> <br>\
+                  نَزَقٌ, (S, K,) <i>after gravity,</i> or <i>sedateness:</i> (TA:) or <i>light of intellect; lightwitted:</i> (TA:) and <i>he became bereft of his reason,</i> or <i>intellect,</i> (Sh, A, O, K,) <i>so as to be ignorant of that which he would endeavour to do.</i> (Sh, O.) [And, said of a beast, <i>He was,</i> or <i>became, restless,</i> or <i>unsteady.</i>] ―         -b2-  طَاشَتْ يَدُهُ فِى <br>\
+                  الصَّحْفَةِ <br>\
+                  <i>His hand was light,</i> or <i>active, in the bowl, and took from every side.</i> (TA.) ―         -b3-  طَاشَتْ <br>\
+                  رِجْلَاهُ <br>\
+                  <i>His legs were in a state of commotion.</i> (TA.) ―         -b4-  طَاشَ السَّهْمُ, (S, Msb,) inf. n. طَيْشٌ, (A, Msb, K,) <i>The arrow passed beyond the butt:</i> (A, K:) or <i>declined,</i> or <i>turned aside,</i> <br>\
+                  عَنِ الهَدَفِ <br>\
+                  <i>from the butt;</i> (S, Msb;) <i>and did not hit it.</i> (Msb.) ―         -b5-  طَاشَتْ عَنِ الاُمِّ رِجْلُهُ <br>\
+                  <i>His leg turned aside</i> [<i>from the root</i> thereof]: a phrase used by Aboo-Sahm El-Hudhalee, whose leg had been cut off. (TA.)    </entryFree> <br>\
+<b>اطاشهُ</b>               1     <br>\
+                     اطاشهُ<br>\
+                     ذ<br>\
+                   [<i>He,</i> or <i>it, rendered him light, inconstant, unsteady,</i> &amp;amp;c.]. (TA in art. سفه.) ―         -b2-  اطاش السَّهْمَ <br>\
+                  <i>He made the arrow to decline,</i> or <i>turn aside,</i> <br>\
+                  عَنِ الهَدَفِ <br>\
+                  <i>from the butt.</i> (S, K.)    </entryFree> <br>\
+<b>طَيْشَةٌ</b>               1[     <br>\
+                     طَيْشَةٌ<br>\
+                     ذ<br>\
+                  <i>A fit of</i> <br>\
+                  طَيْش, i. e. <i>lightness,</i> or <i>levity, inconstancy, unsteadiness, irresoluteness,</i> or <i>fickleness;</i> &amp;amp;c. See 1.]    </entryFree> <br>\
+<b>طَيَّاشٌ</b>               1     <br>\
+                     طَيَّاشٌ<br>\
+                     ذ<br>\
+                  : see طَايِشٌ, in three places.    </entryFree> <br>\
+<b>طَايِشٌ</b>               1     <br>\
+                     طَايِشٌ<br>\
+                     ذ<br>\
+                   (A, O, K) and ↓ <br>\
+      طَيَّاشٌ, (S, A, O, K,) [but the latter has an intensive signification,] applied to a man, (S, O,) <i>Light, inconstant, unsteady, irresolute,</i> or <i>fickle,</i> (S, A, O, K,) <i>after gravity,</i> or <i>sedateness:</i> (TA:) or <i>light of intellect; lightwitted:</i> [&amp;amp;c.: see 1:] (TA:) and [so] طَايِشُ <br>\
+                  اللُّبِّ: (A:) and for the pl. you say قَوْمٌ طَاشَةٌ, (A, TA,) and ↓ <br>\
+      طَيَّاشَةٌ: (TA:) and ↓ <br>\
+      طَيَّاشٌ signifies one <i>who does not pursue one course,</i> (A, O, K,) <i>in consequence of the lightness of his intellect.</i> (TA.) ―         -b2-  [Also, applied to a beast, <i>Restless,</i> or <i>unsteady.</i>] ―         -b3-  Also, both epithets, but the latter has an intensive signification, An arrow <i>that declines,</i> or <i>turns aside,</i> <br>\
+                  عَنِ الهَدَفِ <br>\
+                  <i>from the butt; and does not hit it.</i> (Msb.)    </entryFree> <br>\
+<b>الاَطْيَشُ</b>               1     <br>\
+                     الاَطْيَشُ<br>\
+                     ذ<br>\
+                  <i>A certain bird:</i> (Aboo-Málik, K:) app. because of its lightness, or activity, and frequent state of commotion. (TA.)   </entryFree> <br>\
+' } );

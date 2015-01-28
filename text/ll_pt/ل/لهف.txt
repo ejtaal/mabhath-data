@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>لهف</em>            1                  لهف<br>\
+<b>لَهِفَ عَلَيْهِ</b>               1     <br>\
+                     لَهِفَ عَلَيْهِ<br>\
+                     ذ<br>\
+                  , (inf. n. لَهْفٌ, S,) and ↓ <br>\
+      تَلَهَّفَ, <i>He grieved for it,</i> or <i>at it; regretted it;</i> syn. جَزِنَ and تَحَسَّرَ; (S, K;) meaning a thing that had escaped him after he been at the point of attaining it: (JK, TA:) or <i>he grieved for it,</i> or <i>at it;</i> or <i>regretted it;</i> and <i>was angry,</i> or <i>enraged, on account of it.</i> (TA.) But see تَحَسَّرَ; and see S, voce اَسِفَ. ―         -b2-  تلهّف signifies <i>He felt,</i> or <i>expressed, grief, sorrow,</i> or <i>regret.</i>    <br>\
+                     تَلَهَّفَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>يَا لَهْفَ</b>               1     <br>\
+                     يَا لَهْفَ<br>\
+                     ذ<br>\
+                  <i>O the grief!</i> see an ex. in art. خطا, conj. 4.    </entryFree> <br>\
+<b>لَهْفَةٌ</b>               1     <br>\
+                     لَهْفَةٌ<br>\
+                     ذ<br>\
+                  <i>Greediness; voracity; eagerness.</i>    <br>\
+<b>مَلْهُوفٌ</b>               1     <br>\
+                     مَلْهُوفٌ<br>\
+                     ذ<br>\
+                  <i>Greedy; ravenous; eager;</i> <br>\
+                  عَلَى or اـِلَى <br>\
+                  <i>for</i> a thing.   </entryFree> <br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'بغش1<br>\
+بَغَشَتِ السَّمَآءُ, aor.<br>\
+بَغَشَ, (S, K,) inf. n. بَغْشٌ,<br>\
+(S,) The sky rained a rain such as is termed<br>\
+بَغْشَةٌ, q. v. (S, K.) ―<br>\
+-b2-  بُغِشَتُ الأَرْضُ The land<br>\
+was watered by a rain such as is termed بَغْشَةٌ,<br>\
+(S,) or بَغْشٌ. (TA.)<br>\
+بَغْشٌ: see what next follows.<br>\
+بَغْشَةٌ A weak shower of rain; (S, K:) above<br>\
+what is called طَشَّة: (S:) or weak rain, small in<br>\
+its drops; as also ↓ بَغْشٌ [originally an inf. n.]:<br>\
+or both signify a cloud that pours forth its rain<br>\
+in one shower: As says that the lightest and<br>\
+weakest of rain is that called طَلّ; then, the رَذَاذ;<br>\
+then, the بَغْش: the dim. of the last is بُغَيْشٌ.<br>\
+(TA.)<br>\
+مَطَرٌ بَاغِشٌ Weak rain. (S, K.)<br>\
+أَرْضٌ مَبْغُوشَةٌ Land watered by a rain such as<br>\
+is termed بَغْشَةٌ, (S,) or بَغْشٌ. (TA.)<br>\
+' } );

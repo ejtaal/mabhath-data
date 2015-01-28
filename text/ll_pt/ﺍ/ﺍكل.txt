@@ -1,0 +1,255 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اكل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اكل<br>\
+&lt;entryFree id=&quot;n992&quot; key=&quot;اَكَلَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَكَلَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَكُلَ<br>\
+                  &lt;/form&gt;,] inf. n. اَكْلٌ and مَاْكَلٌ, [&lt;i&gt;He ate it,&lt;/i&gt;] (S, K,) namely, food. (S.) Er-Rummánee says that اَكْلٌ properly signifies The &lt;i&gt;swallowing&lt;/i&gt; food &lt;i&gt;after chewing&lt;/i&gt; it; so that the swallowing of pebbles is not properly thus termed: (Msb:) or, accord. to Ibn-El-Kemál, the &lt;i&gt;conveying,&lt;/i&gt; or &lt;i&gt;transmitting, to the belly&lt;/i&gt; what may be chewed, &lt;i&gt;whether&lt;/i&gt; [&lt;i&gt;the thing be&lt;/i&gt;] &lt;i&gt;chewed or not;&lt;/i&gt; so that it does not apply to milk, nor to سَوِيق: and as to the saying of the poet, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        مِنَ الا=كِلِينَ المَا=ءَ ظُلْمًا فَمَا اَرَى<br>\
+                     &lt;L&gt;<br>\
+                        يَنَالُونَ خَيْرًا بَعْدَ اَكْلِهِمُ المَا=ءَ<br>\
+                  &lt;/quote&gt; (assumed tropical:)  [&lt;i&gt;Of the eaters of&lt;/i&gt; what they purchase with the price of &lt;i&gt;water, wrongfully, I do not see&lt;/i&gt; any &lt;i&gt;attain good after their eating of&lt;/i&gt; what they have purchased with the price of &lt;i&gt;the water,&lt;/i&gt;] he means a people who used to sell water and purchase with the price thereof what they would eat: (TA:) [for you say, اَكَلَ كَذَا as meaning (assumed tropical:)  &lt;i&gt;He ate the price of such a thing:&lt;/i&gt; see another ex. voce اـِكَافٌ; and another voce ثَدْىٌ.] ―         -b2-  The saying, in the Kur [v. 70], لَاَكَلُوا مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ <br>\
+                  اَرْجُلِهِمْ [&lt;i&gt;They should eat&lt;/i&gt; things &lt;i&gt;above them and&lt;/i&gt; things &lt;i&gt;beneath their feet&lt;/i&gt;] means, their means of subsistence should be made ample; (Bd, TA;) by the pouring of the blessings of the heaven and the earth upon them; or by the abundance of the fruit of the trees, and the produce of the grains sown; or by their being blessed with gardens of ripe fruits, so that they should gather them from the upper part of each tree, and pick up what should have fallen upon the ground. (Bd.) ―         -b3-  اِنْقَطَعَ اَكْلُهُ [lit. &lt;i&gt;His eating became cut off,&lt;/i&gt; or &lt;i&gt;stopped,&lt;/i&gt;] means (tropical:)  &lt;i&gt;he died;&lt;/i&gt; [see also اُكُلٌ;] and so اِسْتَوْفَى اَكْلَهُ [lit. &lt;i&gt;he completed his eating&lt;/i&gt;]. (TA.) ―         -b4-  اَكَلَ رَوْقَهُ [lit. &lt;i&gt;He ate his life,&lt;/i&gt;] means (tropical:)  &lt;i&gt;he became extremely aged, and his teeth fell out, one after another.&lt;/i&gt; (TA.) ―         -b5-  هُوَ يَاْكُلُ النَّاسَ, and يَاْكُلُ لُحُومَ النَّاسِ [&lt;i&gt;He eats men,&lt;/i&gt; and &lt;i&gt;eats the flesh of men,&lt;/i&gt;] means (tropical:)  &lt;i&gt;he defames men;&lt;/i&gt; or &lt;i&gt;does so in their absence:&lt;/i&gt; (TA:) and the action thus signified may be [&lt;i&gt;with words, or by making signs&lt;/i&gt;] &lt;i&gt;with the side of the mouth,&lt;/i&gt; and &lt;i&gt;with the eye,&lt;/i&gt; and &lt;i&gt;with the head.&lt;/i&gt; (TA in art. همز.) It is said in the Kur [xlix. 12], اَيُحِبُّ اَحَدُكُمْ اَنْ <br>\
+                  يَاْكلَ لَحْمَ اَخِيهِ مَيْتًا [lit. &lt;i&gt;Would any one of you like to eat the flesh of his brother when dead?&lt;/i&gt;]; defamation, or defamation of the absent, being meant thereby. (S, * Ibn-&#39; Arafeh, Bd, Jel.) ―         -b6-  اَكَلَ غَنَمِى وَ شَرِبَهَا (tropical:)  [&lt;i&gt;He ate&lt;/i&gt; the flesh of &lt;i&gt;my sheep, and drank&lt;/i&gt; the milk of &lt;i&gt;them,&lt;/i&gt; means, like اَكَلَ <br>\
+                  مَالِى, &lt;i&gt;he ate, fed upon, devoured,&lt;/i&gt; or &lt;i&gt;consumed, my wealth,&lt;/i&gt; or &lt;i&gt;property:&lt;/i&gt; see 2]. (TA.) ―         -b7-  اَكَلَتِ النَّارُ الحَطَبَ (tropical:)  &lt;i&gt;The fire devoured,&lt;/i&gt; or &lt;i&gt;consumed, the firewood.&lt;/i&gt; (S, Mgh.) ―         -b8-  اَكَلَتْ اَظْفَارَهُ <br>\
+                  الحِجَارَةُ (tropical:)  [&lt;i&gt;The stones wore away his nails&lt;/i&gt;]. (TA.) ―         -b9-  الوَاوُ فِى مَرْيىٍّ اَكَلَتْهَا اليَا=ءُ (assumed tropical:)  [&lt;i&gt;The&lt;/i&gt; <br>\
+                  و <br>\
+                  &lt;i&gt;in&lt;/i&gt; <br>\
+                  مَرْيِىّ, &lt;i&gt;the&lt;/i&gt; <br>\
+                  ى <br>\
+                  &lt;i&gt;has swallowed it up&lt;/i&gt;]; because it is originally مَرْوُوىٌ: a phrase occurring in the &#39;Eyn. (TA.) ―         -b10-  اَكَلَ عُمُرَهُ (tropical:)  &lt;i&gt;He consumed his life.&lt;/i&gt; (Mgh.) ―         -b11-  It is said in a trad., (TA,) اُمِرْتُ بِقَرْيَةٍ تَاْكُلُ <br>\
+                  القُرَى (tropical:)  [&lt;i&gt;I have been commanded to have given unto me a town which shall devour the&lt;/i&gt; other &lt;i&gt;towns&lt;/i&gt;]; (K, TA;) said to be Yethrib [afterwards called El-Medeeneh]; (TA;) i. e., the people of which shall conquer the [other] towns and make spoil of their possessions: or it denotes the superior excellence of that town; and is like the saying, هٰذَا حَدِيثٌ يَاْكُلُ الاَحَادِيثَ [&lt;i&gt;This is a tradition which does away with,&lt;/i&gt; or &lt;i&gt;overrules, the&lt;/i&gt; other &lt;i&gt;traditions&lt;/i&gt;]. (Sgh. K, TA.) ―         -b12-  اَكْلُ السِّكِّينِ <br>\
+                  اللَّحْمَ means (tropical:)  &lt;i&gt;The knife&#39;s cutting the flesh.&lt;/i&gt; (TA.) ―         -b13-  اَكَلَنِي رَاْسِى, inf. n. اـِكْلَةٌ and اُكَالٌ and اَكَالٌ, (tropical:)  &lt;i&gt;My head itched.&lt;/i&gt; (K, TA.) An Arab was heard to say, [as is often said in the present day,] جِلْدِى يَاْكُلُنِى (tropical:)  &lt;i&gt;My skin itches.&lt;/i&gt; (TA.)       -A2-  اَكِلَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَكَلَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَكَلٌ, (TA,) (tropical:)  &lt;i&gt;It&lt;/i&gt; (a limb, or member, [and a sore,] and a piece of stick, or wood,) &lt;i&gt;became corroded&lt;/i&gt; or &lt;i&gt;cankered,&lt;/i&gt; or &lt;i&gt;decayed, by the mutual eating away of its several parts;&lt;/i&gt; as also ↓ <br>\
+      ايتكل [written with the disjunctive alif اِيتَكَلَ], and ↓ <br>\
+      تاكّل. (K, TA.) ―         -b2-  اَكِلَتِ الاَسْنَانُ, (S, Msb, K,) aor. and inf. n. as in the next preceding sentence, (Msb,) (tropical:)  &lt;i&gt;The teeth rubbed together and wasted away;&lt;/i&gt; by reason of age; (S;) or &lt;i&gt;fell out, one after another:&lt;/i&gt; (Msb:) or &lt;i&gt;broke in pieces,&lt;/i&gt; or &lt;i&gt;became much broken:&lt;/i&gt; (K:) and ↓ <br>\
+      تاكّلت signifies the same; (S, Msb;) and so ↓ <br>\
+      ايتكلت. (S.) ―         -b3-  اَكِلَتِ النَّاقَةُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَكَلَ<br>\
+                  &lt;/form&gt;, inf. n. اَكَالٌ, (assumed tropical:)  &lt;i&gt;The she-camel experienced an itching and annoyance in her belly,&lt;/i&gt; (S, O, K,) &lt;i&gt;from the growth of the hair,&lt;/i&gt; (S, O,) or &lt;i&gt;from the growth of the fur,&lt;/i&gt; (K,) &lt;i&gt;of her fœtus.&lt;/i&gt; (S, O, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَكَّلَ<br>\
+                  &lt;/form&gt; [اكّلهُ, inf. n. تَاْكِيلٌ, &lt;i&gt;He made him to eat&lt;/i&gt; a thing.] ―         -b2-  اَكَّلَ مَالِى وَ شرَّبَهُ, (S, K,) inf. n. as above, (K,) [lit. &lt;i&gt;He made&lt;/i&gt; people &lt;i&gt;to eat my property, and made&lt;/i&gt; them &lt;i&gt;to drink it,&lt;/i&gt;] means (tropical:)  &lt;i&gt;he fed men,&lt;/i&gt; or &lt;i&gt;the people, with my property,&lt;/i&gt; or &lt;i&gt;cattle.&lt;/i&gt; (S, K, TA.) ―         -b3-  ظَلَّ مَالِى يُوَكَّلُ وَ يُشَرَّبُ, (so in some copies of the K and in the TA,) or يُوَكِّلُ ويُشَرِّبُ, (so in two copies of the S and in a copy of the K,) [of which the former is app. the right reading, as the lit. meaning seems to be &lt;i&gt;My cattle passed the day made to eat and made to drink,&lt;/i&gt;] i. e., (tropical:)  &lt;i&gt;pasturing as they pleased.&lt;/i&gt; (S, K, TA.) ―         -b4-  اكّلهُ الشَّىْءَ, inf. n. as above, (tropical:)  &lt;i&gt;He charged against him,&lt;/i&gt; or &lt;i&gt;accused him of doing, the thing;&lt;/i&gt; as also ↓ <br>\
+      ا=كلهُ, (K, TA,) inf. n. اـِيكَالٌ. (TA.) In [some of] the copies of the K, for اِدَّعَاهُ, we here find, erroneously, دَعَاهُ. (TA.) You say, اَكَّلْتَنِى مَا لَمْ ا=كُلْ [lit. &lt;i&gt;Thou hast made me to eat what I have not eaten,&lt;/i&gt;] meaning (tropical:)  &lt;i&gt;thou hast charged against me,&lt;/i&gt; or &lt;i&gt;accused me of doing, what I have not done;&lt;/i&gt; as also ↓ <br>\
+      ا=كَلْتَنِى. (S, TA.) So too, اَشْرَبْتَنِى مَا لَمْ اَشْرَبٌ. (S and K in art. شرب.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n993&quot; key=&quot;ا=كلهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=كلهُ<br>\
+                     ا=كله<br>\
+                     ا=كلة<br>\
+                  &lt;/form&gt;, inf. n. مُوَاكَلَةٌ (S, K) and اـِكَاِلٌ, (K,) &lt;i&gt;He ate with him;&lt;/i&gt; (S, K;) as also وَاكَلَهُ, though of weak authority; (K;) or this latter is not allowable. (S, Sgh.) ―         -b2-  مُوَاكَلَةٌ which is forbidden in a trad. is (assumed tropical:)  &lt;i&gt;A debtor&#39;s giving a thing to his creditor in order that he may abstain from taking the debt.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n994&quot; key=&quot;ا=كل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=كل<br>\
+                     ا=كل<br>\
+                  &lt;/form&gt;, [inf. n. اـِيكَالٌ,] said of the palm-tree, and of seed-produce, (S, K,) and of anything, (S,) &lt;i&gt;It had ripe fruit; it supplied food.&lt;/i&gt; (S, K.) ―         -b2-  ا=كلهُ الشَّىْءَ, (S, K,) inf. n. as above, (S,) &lt;i&gt;He gave him to eat the thing; he fed him with the thing.&lt;/i&gt; (S, * K.) ―         -b3-  See also 2, in two places. ―         -b4-  ا=كل النَّارَ (assumed tropical:)  &lt;i&gt;He fed,&lt;/i&gt; or &lt;i&gt;supplied, the fire with fuel.&lt;/i&gt; (S.) ―         -b5-  ا=كل بَيْنَ النَّاسِ, (A, K,) inf. n. as above, (S, O,) (tropical:)  &lt;i&gt;He busied himself among the people with propagating calumnies:&lt;/i&gt; (S, O, TA:) or &lt;i&gt;he created,&lt;/i&gt; or &lt;i&gt;excited, disagreement, dissension,&lt;/i&gt; or &lt;pb n=&quot;72&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;strife, among them;&lt;/i&gt; or &lt;i&gt;made,&lt;/i&gt; or &lt;i&gt;did, mischief among them:&lt;/i&gt; (A, TA:) or &lt;i&gt;he incited them, one against another.&lt;/i&gt; (K.) ―         -b6-  ا=كَلْتُكَ فُلَانًا, (S,) or ا=كَلَ فُلَانٌ فُلانًا, (K, [in the CK, erroneously, فُلَانٌ فُلَانًا,]) (tropical:)  &lt;i&gt;I made thee,&lt;/i&gt; (S,) or &lt;i&gt;he made such a one,&lt;/i&gt; (K,) &lt;i&gt;to have dominion,&lt;/i&gt; or &lt;i&gt;authority,&lt;/i&gt; or &lt;i&gt;power, over such a one.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n995&quot; key=&quot;تاكلّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاكلّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, latter part, in two places: ―         -b2-  and see also 8. ―         -b3-  Also, said of a sword, (S, K,) and of silver (K, TA) molten, (TA,) and of lightning, and of collyrium, and of aloes, (K,) and of anything shiny, (TA,) (tropical:)  &lt;i&gt;It shone, gleamed,&lt;/i&gt; or &lt;i&gt;glistened,&lt;/i&gt; (S, K, TA,) &lt;i&gt;much,&lt;/i&gt; or &lt;i&gt;intensely;&lt;/i&gt; (K;) when said of a sword, &lt;i&gt;by reason of its sharpness.&lt;/i&gt; (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n996&quot; key=&quot;ايتكل&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ايتكل<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [with the disjunctive alif اِيتَكَلَ]: see 1, latter part, in two places. ―         -b2-  اَمَا تَنْفَكُّ تَاْتَكِلُ <br>\
+                  &lt;i&gt;Dost thou not cease to eat our flesh,&lt;/i&gt; [i. e., &lt;i&gt;to wound our reputations,&lt;/i&gt; (see 1,)] &lt;i&gt;and to defame us?&lt;/i&gt; (Aboo-Nasr, TA.) But see below. ―         -b3-  ايتكلتِ <br>\
+                  النَّارُ (tropical:)  &lt;i&gt;The fire flamed,&lt;/i&gt; or &lt;i&gt;blazed, vehemently; as though one part thereof devoured another.&lt;/i&gt; (TA.) ―         -b4-  ايتكل غَضَبًا, (K,) or مِنَ الغَضَبِ, (S,) (tropical:)  &lt;i&gt;He burned,&lt;/i&gt; or &lt;i&gt;burned fiercely, with,&lt;/i&gt; or &lt;i&gt;by reason of, anger.&lt;/i&gt; (S, K.) The phrase mentioned above, اما تنفكّ تاتكل, is also cited as an ex. of this meaning. (S, TA.) You say likewise, ايتكل مِنْهُ (tropical:)  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, angry with him, and excited,&lt;/i&gt; or &lt;i&gt;provoked, against him,&lt;/i&gt; (K, TA,) &lt;i&gt;and vehement,&lt;/i&gt; or &lt;i&gt;severe;&lt;/i&gt; (TA;) as also منه ↓ <br>\
+      تاكل. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n997&quot; key=&quot;استاكلهُ الشَّىْءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاكلهُ الشَّىْءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;He asked,&lt;/i&gt; or &lt;i&gt;begged, of him to assign to him the thing,&lt;/i&gt; or &lt;i&gt;to make it be to him, as a means of subsistence,&lt;/i&gt; or &lt;i&gt;a thing to be eaten.&lt;/i&gt; (K, TA.) ―         -b2-  يَسْتَاْكِلُ الضُّعَفَا=ءَ (tropical:)  &lt;i&gt;He takes&lt;/i&gt; (S, K, TA) &lt;i&gt;and devours&lt;/i&gt; (TA) &lt;i&gt;the possessions of the weak ones.&lt;/i&gt; (S, K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n998&quot; key=&quot;اُكْلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُكْلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُكُلٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n999&quot; key=&quot;اَكَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكَلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of اَكِلَ [q. v.]. ―         -b2-  فِى اَسْنَانِهِ اَكَلٌ (tropical:)  &lt;i&gt;In his teeth is a rubbing together and wasting away;&lt;/i&gt; by reason of age. (S, TA.) See also اُكُلٌ    <br>\
+&lt;entryFree id=&quot;n1000&quot; key=&quot;اَكِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [part. n. of اَكِلَ]. ―         -b2-  نَاقَةٌ اَكِلَةٌ (assumed tropical:)  &lt;i&gt;A she-camel experiencing an itching and annoyance in her belly,&lt;/i&gt; (S, K,) &lt;i&gt;from the growth of the hair,&lt;/i&gt; (S,) or &lt;i&gt;from the growth of the fur,&lt;/i&gt; (K,) &lt;i&gt;of her fœtus.&lt;/i&gt; (S, K.) ―         -b3-  [الاَكِلُ is erroneously put, in the CK, for الا=كِلُ, in a sense explained below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1001&quot; key=&quot;اُكُلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُكُلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اُكْلٌ; (S, Msb, K, &amp;amp;c.;) the latter a contraction of the former; (Msb;) &lt;i&gt;What is eaten;&lt;/i&gt; (S, Msb, TA;) as also ↓ <br>\
+      اُكْلَةٌ and ↓ <br>\
+      اَكْلَةٌ (Lh, TA) and ↓ <br>\
+      مَاْكَلَةٌ and ↓ <br>\
+      مَاْكُلَةٌ (Msb, K) and ↓ <br>\
+      مَاْكُولٌ; (Lh, Msb;) &lt;i&gt;any eatable;&lt;/i&gt; i. e. &lt;i&gt;anything that is eaten;&lt;/i&gt; (S;) and ↓ <br>\
+      اَكَالٌ signifies [&lt;i&gt;the same, an eatable,&lt;/i&gt; or] &lt;i&gt;food.&lt;/i&gt; (S, TA.) You say of one who is dead, اِنْقَطَعَ اُكُلُهُ [&lt;i&gt;His food has become cut off,&lt;/i&gt; or &lt;i&gt;stopped:&lt;/i&gt; in the TA, اَكْلُهُ: see 1]. (S.) And ↓ <br>\
+      مَا ذُقْتُ اَكَالَّا <br>\
+                  &lt;i&gt;I have not tasted food.&lt;/i&gt; (S, TA.) ―         -b2-  &lt;i&gt;Fruit&lt;/i&gt; (S, K [in the latter of which, in some copies, التَّمْرُ is put for الثَّمَرُ, erroneously, as is said in the TA]) of palmtrees and other trees [&amp;amp;c.]. (S.) So in the Kur [xiii. 35], اُكُلُهَا دَايِمٌ [&lt;i&gt;Its fruit&lt;/i&gt; shall be &lt;i&gt;perpetual&lt;/i&gt;]: (S, TA:) meaning that the fruits thereof shall be not as those of the present world, which come to one at one time and not at another. (TA.) [Pl. ا=كَالٌ; occurring in the M and K in art. اتو.] ―         -b3-  (tropical:)  &lt;i&gt;Means of subsistence:&lt;/i&gt; (K:) &lt;i&gt;worldly good fortune,&lt;/i&gt; (S, K,) &lt;i&gt;and ample means of subsistence.&lt;/i&gt; (S.) You say, فُلَانٌ ذُو اُكُلٍ (tropical:)  &lt;i&gt;Such a one is possessed of worldly good fortune, and ample means of subsistence:&lt;/i&gt; (S:) and عَظِيمُ الاُكُلِ (tropical:)  &lt;i&gt;possessed of [great] good fortune;&lt;/i&gt; or &lt;i&gt;of a [great and] good share of the means of subsistence.&lt;/i&gt; (TA.) ―         -b4-  (tropical:)  &lt;i&gt;Thickness, substantialness,&lt;/i&gt; or &lt;i&gt;closeness&lt;/i&gt; or &lt;i&gt;compactness of texture,&lt;/i&gt; of a garment, or piece of cloth; (S, K, TA;) and &lt;i&gt;strength&lt;/i&gt; thereof. (K.) You say ثَوْبٌ ذُو اُكُلٍ (tropical:)  &lt;i&gt;A garment,&lt;/i&gt; or &lt;i&gt;piece of cloth, having thickness,&lt;/i&gt; &amp;amp;c.: and قِرْطَاسٌ ذُو اُكُلٍ (tropical:)  &lt;i&gt;paper having thickness,&lt;/i&gt; &amp;amp;c. (S, TA.) ―         -b5-  (tropical:)  &lt;i&gt;Intelligence; judgment;&lt;/i&gt; (Aboo-Nasr, S, K;) &lt;i&gt;firmness of intellect.&lt;/i&gt; (K, TA.) You say رَجُلٌ ذُو اُكُلٍ (tropical:)  &lt;i&gt;A man possessing intelligence and judgment.&lt;/i&gt; (Aboo-Nasr, S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1002&quot; key=&quot;اَكْلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكْلَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A single act of eating&lt;/i&gt; (S, Mgh, Msb, K) &lt;i&gt;until one is satisfied.&lt;/i&gt; (S.) Hence the saying, المُعْتَادُ اَكْلَتَانِ الغَدَا=ءُ وَالعَشَا=ءُ, meaning &lt;i&gt;That to which people are accustomed is two acts of eating,&lt;/i&gt; the eating of &lt;i&gt;the morning-meal and&lt;/i&gt; that of &lt;i&gt;the evening-meal.&lt;/i&gt; (Mgh.) ―         -b2-  See also اُكْلَةٌ, in two places. ―         -b3-  And see اُكُلٌ, first sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1003&quot; key=&quot;اُكْلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُكْلَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A morsel,&lt;/i&gt; or &lt;i&gt;small mouthful,&lt;/i&gt; of food. (S, Mgh, Msb, K.) [For the pl., see below.] You say, اَكَلْتُ اُكْلَةً وَاحِدَةً <br>\
+                  &lt;i&gt;I ate one morsel.&lt;/i&gt; (S.) And اَكلَ بِاَخِيهِ اُكْلَةً (assumed tropical:)  [&lt;i&gt;He ate a morsel by means of&lt;/i&gt; defaming &lt;i&gt;his brother&lt;/i&gt;] is said, in a trad., of a man who is on terms of brotherhood with another, and then goes to his enemy, and speaks of him in a manner not good, in order that he may give him a present for doing so. (TA.) ―         -b2-  &lt;i&gt;A small round cake of bread;&lt;/i&gt; syn. قُرْصَةٌ; (S, K;) &lt;i&gt;a single&lt;/i&gt; <br>\
+                  قُرْص: (Mgh:) pl. اُكَلٌ, as below. (TA.) ―         -b3-  See also اُكُلٌ. ―         -b4-  Also (assumed tropical:)  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  طُعْمَةٌ; (S, K;) which is also syn. with ↓ <br>\
+      مَاْكَلَةٌ; (S, Msb, K, in art. طعم;) i. e. &lt;i&gt;An assigned,&lt;/i&gt; or &lt;i&gt;appointed, means of subsistence; such as a grant of a tract of land; and a tax,&lt;/i&gt; or &lt;i&gt;portion of a tax&lt;/i&gt; or &lt;i&gt;taxes; and the like;&lt;/i&gt; (Mgh in explanation of طُعْمَةٌ, and TA in explanation of the same and of مَاْكَلَةٌ in art. طعم;) and [it is also said that] ↓ <br>\
+      مَاْكَلَةٌ signifies &lt;i&gt;a thing that is assigned,&lt;/i&gt; or &lt;i&gt;appointed,&lt;/i&gt; or &lt;i&gt;granted, to a man, so that he is not to be reckoned with,&lt;/i&gt; or &lt;i&gt;called to account, for it:&lt;/i&gt; (TA in the present art.:) [thus it applies to &lt;i&gt;any absolute grant, either of land, (as an allodium, an appanage, &amp;amp;c.,&lt;/i&gt;) &lt;i&gt;or of revenue:&lt;/i&gt;] pl. اُكَلٌ (K) [and app. also ا=كَالٌ, which see below]. You say, هٰذَا الشَّىْءُ اُكلَةٌ لَكَ <br>\
+                  &lt;i&gt;This thing is a&lt;/i&gt; <br>\
+                  طُعْمَة <br>\
+                  &lt;i&gt;to thee,&lt;/i&gt; or &lt;i&gt;for thee.&lt;/i&gt; (S.) ―         -b5-  See also اَكِيلَةٌ.       -A2-  Also, and ↓ <br>\
+      اـِكْلَةٌ (S, Z, Sgh, K) and ↓ <br>\
+      اَكْلَةٌ, (Kr, K,) (tropical:)  &lt;i&gt;Defamation;&lt;/i&gt; or &lt;i&gt;defamation of the absent.&lt;/i&gt; (S, Z, Sgh, K.) You say, اـِنَّهُ لَذُو اُكْلَةٍ and ↓ <br>\
+      اـِكْلَةٍ (S, TA) and ↓ <br>\
+      اَكْلَةٍ (TA) (tropical:)  &lt;i&gt;Verily he is one who defames men;&lt;/i&gt; or, &lt;i&gt;who does so in their absence.&lt;/i&gt; (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1004&quot; key=&quot;اـِكْلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِكْلَةٌ<br>\
+                     اكل<br>\
+                     اكله<br>\
+                     اكلة<br>\
+                     اـكليل<br>\
+                     اكله<br>\
+                     اكلة<br>\
+                     كال<br>\
+                     وكل<br>\
+                     آكل<br>\
+                     آكله<br>\
+                     آكلة<br>\
+                  &lt;i&gt;A mode,&lt;/i&gt; or &lt;i&gt;manner,&lt;/i&gt; (K,) or &lt;i&gt;state,&lt;/i&gt; or &lt;i&gt;condition,&lt;/i&gt; (S, K,) &lt;i&gt;in which one eats:&lt;/i&gt; (S, K: *) like جِلْسَةٌ and رِكْبَةٌ: (S, TA:) and the &lt;i&gt;posture of the eater, reclining or sitting.&lt;/i&gt; (TA.) You say, اـِنَّهُ لَحَسَنُ الاـِكْلَةِ [&lt;i&gt;Verily he has a good mode,&lt;/i&gt; &amp;amp;c., &lt;i&gt;of eating&lt;/i&gt;]. (S.) ―         -b2-  See also اُكْلَةٌ, last two sentences. ―         -b3-  (tropical:)  The &lt;i&gt;itch:&lt;/i&gt; or &lt;i&gt;an itching:&lt;/i&gt; (S, K:) as also ↓ <br>\
+      اُكَالٌ, (As, S, K,) [see اَكَلَنِى رَاْسِى, of which both are said to be inf. ns.,] and ↓ <br>\
+      اَكِلَةٌ: (K:) so the last is written accord. to the correct copies of the K: accord. to Esh-Shiháb, in the Shifá el-Ghaleel, it would seem to be اُكْلَةٌ; but this is at variance with the authority of the leading lexicologists: the same word, اَكِلَةٌ, is also explained in the K as signifying &lt;i&gt;a disease in a limb,&lt;/i&gt; or &lt;i&gt;member, in consequence of which one part is [as it were] eaten by another;&lt;/i&gt; [a meaning which I believe to be correct, (see اُكَالٌ,) although SM says,] but this is identical with the &lt;i&gt;itch,&lt;/i&gt; or &lt;i&gt;an itching:&lt;/i&gt; and ↓ <br>\
+      اَكَلَانٌ is a vulgar term for the same; and so is ↓ <br>\
+      ا=كِلَةٌ, with medd, given as correct by Eth-Tha&#39;álibee, in [his book entitled] the Mudáf and Mensoob, but disallowed by ElKhafájee. (TA.) One says, اـِنِّى لَاَجِدُ فِى جَسَدِى <br>\
+                  اـِكْلَةً (tropical:)  [&lt;i&gt;Verily I experience in my body an itching.&lt;/i&gt;] (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1005&quot; key=&quot;اَكِلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكِلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِكْلَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1006&quot; key=&quot;اُكَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُكَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَكُولٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1007&quot; key=&quot;اَكَلَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكَلَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِكْلَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1008&quot; key=&quot;اَكَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكَالٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُكُلٌ, first and second sentences.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1009&quot; key=&quot;اُكَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُكَالٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;A corrosion,&lt;/i&gt; or &lt;i&gt;cankering,&lt;/i&gt; or &lt;i&gt;decaying,&lt;/i&gt; of a limb, or member, [and of a sore,] &lt;i&gt;from the mutual eating away of its several parts;&lt;/i&gt; as also ↓ <br>\
+      اـِكَالٌ. (K, TA.) [See also اَكِلَةٌ, voce اـِكْلَةٌ, where a similar meaning is assigned to the former of these two words; and the same seems to be indicated in the Msb.] ―         -b2-  See also another signification voce اـِكْلَةٌ. ―         -b3-  بَهَا اُكَالٌ, said of a she-camel, (tropical:)  &lt;i&gt;She has an itching and annoyance in her belly,&lt;/i&gt; (S, K,) &lt;i&gt;from the growth of the hair,&lt;/i&gt; (S,) or &lt;i&gt;of the fur,&lt;/i&gt; (K,) &lt;i&gt;of her fœtus.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1010&quot; key=&quot;اـِكَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِكَالٌ<br>\
+                     اكال<br>\
+                     اكال<br>\
+                  &lt;/form&gt;: see اُكَالٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1011&quot; key=&quot;رَجُلٌ اَكُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَجُلٌ اَكُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اُكَلَةٌ and ↓ <br>\
+      اَكِيلٌ all signify the same; (K;) i. e. &lt;i&gt;A man who eats much; [who is a great eater; edacious; voracious;&lt;/i&gt;] as also ↓ <br>\
+      اَكَّالٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1012&quot; key=&quot;اَكِيلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكِيلٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;One who eats with another.&lt;/i&gt; (S, TA.) ―         -b2-  See also ا=كِلٌ: ―         -b3-  and see اَكُولٌ.       -A2-  &lt;i&gt;I. q.&lt;/i&gt; ↓ <br>\
+      مَاْكُولٌ [&lt;i&gt;as signifying Eaten&lt;/i&gt;]. (TA.) ―         -b2-  See also اَكِيلَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1013&quot; key=&quot;اَكُولَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكُولَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A sheep,&lt;/i&gt; or &lt;i&gt;goat, which is set apart&lt;/i&gt; (S, Msb, K) &lt;i&gt;to be eaten,&lt;/i&gt; (S, Mgh, K,) [i. e.] &lt;i&gt;to be slaughtered,&lt;/i&gt; (Msb,) &lt;i&gt;and which is fattened,&lt;/i&gt; (S, Mgh,) &lt;i&gt;and the taking of which by the collector of the poor-rate is disapproved;&lt;/i&gt; (S;) &lt;i&gt;not left to pasture by itself, being of the best of the beasts:&lt;/i&gt; (Msb:) and ↓ <br>\
+      اَكِيلَةٌ occurs in the same sense, &lt;pb n=&quot;73&quot; TEIform=&quot;pb&quot;/&gt; applied to a sheep, or goat, fattened to be eaten. (Mgh.) Hence the prov., مَرْعًى وَلَا اَكُولَةً [lit. &lt;i&gt;Pasturage, and no&lt;/i&gt; <br>\
+                  اكولة]; meaning (assumed tropical:)  &lt;i&gt;wealth collected together, and none expended.&lt;/i&gt; (TA.) ―         -b2-  Also &lt;i&gt;Barren;&lt;/i&gt; applied to a sheep or goat [app. because such is generally eaten]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1014&quot; key=&quot;اُكُولَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُكُولَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1015&quot; key=&quot;اَكِيلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكِيلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اَكِيلٌ and ↓ <br>\
+      اُكُولَةٌ, with two dammehs, (K,) so in the copies of the K, but perhaps a mistake for ↓ <br>\
+      اُكْلَةٌ, (TA,) a word of a bad dial., (K, * TA,) and ↓ <br>\
+      مَاْكُولٌ and ↓ <br>\
+      مُوَاكِلٌ, (K, TA, [in some copies of the former of which, instead of وَهِىَ قَبِيحَةٌ وَ المَاْكُولِ وَ المَوَاكِلِ, meaning, as is said in the TA, وَهِىَ لُغَةٌ قَبِيحَةٌ &amp;amp;c., we find وَهِىَ قَبِيحَةٌ المَاْكُولِ وَ المَوَاكِلِ,]) &lt;i&gt;A sheep,&lt;/i&gt; or &lt;i&gt;goat, which is set&lt;/i&gt; (K, TA) &lt;i&gt;in the lurking-place of a hunter&lt;/i&gt; (TA) &lt;i&gt;for the purpose of catching thereby the wolf and the like.&lt;/i&gt; (K, TA.) ―         -b2-  And the first two words, (K,) or اَكِيلَةٌ سَبُعٍ, (S, Mgh, Msb,) &lt;i&gt;A beast which has been eaten,&lt;/i&gt; (S, * K,) or &lt;i&gt;partly eaten,&lt;/i&gt; (Mgh, Msb,) &lt;i&gt;by a beast or bird of prey,&lt;/i&gt; (S, Mgh, Msb, K,) &lt;i&gt;and then rescued from it:&lt;/i&gt; (Mgh, TA:) the ة in اكيلة being added because the quality of a subst. is predominant in it. (S.) ―         -b3-  See also اَكُولَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1016&quot; key=&quot;اَكَّالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكَّالٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَكُولٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1017&quot; key=&quot;ا=كِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=كِلٌ<br>\
+                     ا=كل<br>\
+                  &lt;i&gt;Eating;&lt;/i&gt; or &lt;i&gt;an eater;&lt;/i&gt; as also ↓ <br>\
+      اَكِيلٌ: pl. اَكَلَةٌ. (S, K.) You say, هُمْ اَكَلَةُ رَاْسٍ [lit. &lt;i&gt;They are eaters of a head&lt;/i&gt;]; meaning (assumed tropical:)  &lt;i&gt;they are few; one head satisfying their stomachs.&lt;/i&gt; (S.) ―         -b2-  ا=كِلَةٌ (tropical:)  &lt;i&gt;Pasturing beasts.&lt;/i&gt; (K, TA.) ―         -b3-  ا=كِلَةُ اللَّحْمِ (assumed tropical:)  &lt;i&gt;The knife;&lt;/i&gt; (K, TA;) because it cuts the flesh: (TA:) and &lt;i&gt;the pointed staff&lt;/i&gt; or &lt;i&gt;stick;&lt;/i&gt; (K, TA;) as being likened thereto: (TA:) and &lt;i&gt;fire:&lt;/i&gt; (K:) and &lt;i&gt;whips;&lt;/i&gt; (Sh, K;) because they burn the skin. (TA.) ―         -b4-  الا=كِلُ, [in the CK, erroneously, الاَكِلُ,] (tropical:)  &lt;i&gt;The king.&lt;/i&gt; (K, TA.) [Opposed to المَاْكُولُ, q. v.] ―         -b5-  ا=كِلُ الرِّبَا (tropical:)  [&lt;i&gt;The receiver of usury&lt;/i&gt;]: occurring in a trad., in which it is said, لُعِنَ ا=كِلُ ↓ <br>\
+      الرِّبَا وَ مُوْكِلُهُ (tropical:)  [&lt;i&gt;The receiver of usury is cursed, and the giver thereof&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1018&quot; key=&quot;ا=كِلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=كِلَةٌ<br>\
+                     ا=كله<br>\
+                     ا=كلة<br>\
+                  &lt;/form&gt; fem. of ا=كِلٌ, q. v. ―         -b2-  See also اـِكْلَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1019&quot; key=&quot;ا=كَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=كَالٌ<br>\
+                     ا=كال<br>\
+                  &lt;/form&gt; [app. a pl. of pauc. of اُكُلٌ, q. v., and of اُكْلٌ, agreeably with analogy,] (tropical:)  The [&lt;i&gt;grants termed&lt;/i&gt;] مَا=كِل of kings; (K;) their طُعَم [pl. of طُعْمَةٌ, explained above, voce اُكْلَةٌ]. (TA.) ―         -b2-  (assumed tropical:)  The &lt;i&gt;stipends&lt;/i&gt; of soldiers. (K.) ―         -b3-  ذَووالا=كَالِ, for which J has erroneously put الا=كال, [in the S,] (TS, K,) without ذوو, (TA,) (tropical:)  &lt;i&gt;The lords,&lt;/i&gt; or &lt;i&gt;chiefs, of the tribes, who take the&lt;/i&gt; <br>\
+                  مِرْبَاع [or &lt;i&gt;fourth part of the spoil,&lt;/i&gt; which was the chief&#39;s portion in the time of ignorance] (S, TS, K, TA) &lt;i&gt;&amp;amp;c.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1020&quot; key=&quot;مَاْكَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْكَلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S,) [in measure] like مَقْعَدٌ, (TA,) [an inf. n. of اَكَلَ, q. v. : ―         -b2-  and also signifying] &lt;i&gt;Gain.&lt;/i&gt; (S, TA.) ―         -b3-  Also &lt;i&gt;A place, and a time, of eating:&lt;/i&gt; pl. مَا=كِلُ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1021&quot; key=&quot;مُوْكَلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْكَلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;Fortunate; possessed of good fortune; prosperous.&lt;/i&gt; (Aboo-Sa&#39;eed, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1022&quot; key=&quot;مُوْكِلُ الرِّبَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْكِلُ الرِّبَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  [&lt;i&gt;The giver of usury:&lt;/i&gt; see ا=كِلٌ, last sentence]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1023&quot; key=&quot;مَاْكَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْكَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مَاْكُلَةٌ: see اُكُلٌ: ―         -b2-  and for the former, see also اُكْلَةٌ, in two places. ―         -b3-  Also, both words, i. q. مِيرَةٌ i. e. &lt;i&gt;Corn,&lt;/i&gt; or &lt;i&gt;any provision, which a man brings,&lt;/i&gt; or &lt;i&gt;purveys, for himself&lt;/i&gt; or &lt;i&gt;his family,&lt;/i&gt; or &lt;i&gt;for sale&lt;/i&gt;]. (K.) ―         -b4-  Also used in the sense explained above, voce اُكُلٌ, [as a subst.,] and likewise as an epithet, so that one says شَاةٌ ماكلهٌ [as meaning &lt;i&gt;A sheep,&lt;/i&gt; or &lt;i&gt;goat, that is eaten&lt;/i&gt;]. (K.) ―         -b5-  Both words signify [also] &lt;i&gt;A place whence one eats.&lt;/i&gt; (S, O.) ―         -b6-  [And hence] one says, اِتَّخَذْتُ فُلَانًا مَاْكَلَةً and مَاْكَلَةٌ (assumed tropical:)  [&lt;i&gt;I took for myself such a one as a person from whom to obtain what to eat&lt;/i&gt;]. (S, O.) ―         -b7-  [The pl. is مَا=كِلُ: of which see an ex. voce ا=كَالٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1024&quot; key=&quot;مَاْكُلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْكُلَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the paragraph next preceding, throughout.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1025&quot; key=&quot;مِيْكَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْكَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Anything in&lt;/i&gt; [i. e. &lt;i&gt;out of] which one eats:&lt;/i&gt; (Lh, K:) or [&lt;i&gt;bowls of the kind called&lt;/i&gt;] صِحَاف, (S,) or &lt;i&gt;a [bowl of the kind called&lt;/i&gt;] صَحْفَة, (TA,) &lt;i&gt;in which the tribe find it easy to cook,&lt;/i&gt; (so in a copy of the S and in the TA,) or &lt;i&gt;to put,&lt;/i&gt; (so in another copy of the S,) &lt;i&gt;flesh-meat and [the kind of porridge called&lt;/i&gt;] عَصِيدَة: (S, TA:) or &lt;i&gt;a bowl not so large as a صَحفة, but next to it in size, that satisfies the stomachs of two men, or three:&lt;/i&gt; (S voce صَحْفَةٌ:) [or] &lt;i&gt;a small [bowl of the kind called&lt;/i&gt;] قَصْعَةٌ, &lt;i&gt;that satisfies the stomachs of three:&lt;/i&gt; and &lt;i&gt;a small [cooking-pot such as is called&lt;/i&gt;] بُرْمَه. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1026&quot; key=&quot;مَاْكُولٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْكُولٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَكِيلٌ: ―         -b2-  and اُكُلٌ: ―         -b3-  and اَكِيلَةٌ. ―         -b4-  (assumed tropical:)  The &lt;i&gt;subjects&lt;/i&gt; of a king. (Z, K, TA.) Hence the trad., مَاْكُولٌ حِمْيَرَ خَيْرٌ مِنْ ا=كِلِهَا (tropical:)  &lt;i&gt;The subjects of Himyer are better than their king,&lt;/i&gt; or &lt;i&gt;ruler.&lt;/i&gt; (Z, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1027&quot; key=&quot;مِيْكَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْكَالٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A spoon:&lt;/i&gt; (K:) because one eats with it. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1028&quot; key=&quot;مُوَاكِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَاكِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَكِيلَةٌ. ―         -b2-  Also, [like ↓ <br>\
+      مُسْتَاْكِلٌ,] (assumed tropical:)  &lt;i&gt;One who takes and devours the possessions of men.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1029&quot; key=&quot;مُسْتَاْكِلٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَاْكِلٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,31 @@
+load_data( { book: 'll_nvd', text: 'كرج1<br>\
+كَرِجَ, aor.<br>\
+كَرَجَ; (or كَرَجَ, inf. n. كَرَجٌ, as in<br>\
+the L,) and ↓ اكرج; (K;) and ↓ كرّج; (S,<br>\
+K;) and ↓ تكرّج; (S, MA, K;) It (bread)<br>\
+spoiled, or became bad, or corrupt, (S, MA, K,)<br>\
+and was overspread with greenness; (S, K;)<br>\
+it became mouldy or musty. (MA.) ―<br>\
+-b2-  كَرَجَ<br>\
+It (a thing) became corrupt. (IAar, L.) ―<br>\
+-b3-<br>\
+↓ تكرّج It (wheat, or food, طَعَام,) became spoiled,<br>\
+and overspread with greenness. (L.)<br>\
+2<br>\
+كَرَّجَ see 1.<br>\
+4<br>\
+أَكْرَجَ see 1.<br>\
+5<br>\
+تَكَرَّجَ see 1.<br>\
+كُرَّجٌ A مُهْر [lit. a horse-colt, but app. meaning<br>\
+a mock colt, or hobby horse,] (K,) with which one<br>\
+plays: (TA:) [a thing] made (يُتَّخَذُ) like a<br>\
+horse-colt, upon which one plays: (Lth:) an<br>\
+arabicized word, from كُرَّهْ, (S, K,) which is the<br>\
+name of it in Persian. (S.) [Jereer, in two<br>\
+verses, mentions the جَلَاجِل, or little round bells,<br>\
+of a كرّج.]<br>\
+خُبْزٌ كَارِجٌ i. q. مُكَرَّجٌ [Bread that is spoiled,<br>\
+and overspread with greenness; mouldy bread].<br>\
+(IAar, L.)<br>\
+' } );

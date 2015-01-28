@@ -1,0 +1,36 @@
+load_data( { book: 'll_nvd', text: 'سأب1<br>\
+سَأَبَهُ, (S, M, K,) aor.<br>\
+سَاَ^َ, (M, K,) inf. n.<br>\
+سَأْبٌ, (S, M,) He throttled him, syn. خَنَقَهُ; (S,<br>\
+M, IAth, K;) i. e., squeezed his throat: (IAth:)<br>\
+or, so that he died, (S,) or so that he killed him.<br>\
+(M, K.) ―<br>\
+-b2-  And سَأَبَهُ He widened it; namely, a<br>\
+سِقَآء [or skin for water or milk]. (S, K.)<br>\
+-A2-<br>\
+سَأَبَ مِنَ الشَّرَابِ, (M, K,) aor. and inf. n. as<br>\
+above; (M;) and سَئِبَ, (M, K,) aor.<br>\
+سَاَ^َ, (K,)<br>\
+inf. n. سَأَبٌ; (M;) He was satisfied with drinking of wine or beverage. (M, K.)<br>\
+سَأْبٌ and ↓ مِسْأَبٌ A [skin such as is termed] زِقّ,<br>\
+(S, M, K,) for wine: (M:) or such as is large:<br>\
+(M, K:) or a زِقّ of any kind: (M:) or a receptacle of skin, or leather, in which the زِقّ is put:<br>\
+(M, K:) the former also occurs in a verse in<br>\
+which it is read without ء, for the sake of the<br>\
+rhyme: (M:) and its pl. is سُؤُوبٌ: (S, M, K:)<br>\
+and (so in the S, but in the K “ or,”) the latter<br>\
+(مسأب) signifies a skin for honey; (S, K;) and<br>\
+in a verse of Aboo-Dhu-eyb, (S, M, K,) cited<br>\
+voce خَافَةٌ, (S, M,) it is written مِسَابٌ, (S, M, K,)<br>\
+without ء: (S, M:) and it signifies also a skin in<br>\
+which clarified butter is put. (S and L voce<br>\
+مِسَادٌ.)<br>\
+سُؤْبَانِ, in the following saying, (IJ, M,) إِنَّهُ<br>\
+لَسُؤْبَانُ مَالٍ, meaning Verily he is one who pastures, or tends, the cattle, and takes care of them,<br>\
+and manages them, well, (IJ, M, K, *) is from<br>\
+سَأْبٌ signifying “ a زِقّ ” because the زِقّ is made<br>\
+only for the preservation of its contents. (IJ, M.)<br>\
+مِسْأَبٌ: see سَأْبٌ. ―<br>\
+-b2-  Also, (K,) applied to a<br>\
+man, (TA), Who drinks much water. (K.)<br>\
+' } );

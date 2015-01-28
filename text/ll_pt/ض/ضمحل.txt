@@ -1,0 +1,5 @@
+load_data( { book: 'll_pt', text: '<em>ضمحل</em>            1                  ضمحل<br>\
+                     <i>Q. 4</i>        <br>\
+                     اـِضْمَحَلَّ<br>\
+                   accord. to some, but Q. Q. accord. to most. اِضْمَحَلَّ: see art. ضحل.   </entryFree> <br>\
+' } );

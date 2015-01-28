@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'قمه1<br>\
+قَمَهَ<br>\
+, aor.<br>\
+قَمَهَ<br>\
+, inf. n. قُمُوهٌ, i. q.<br>\
+قَمَحَ, q. v.<br>\
+' } );

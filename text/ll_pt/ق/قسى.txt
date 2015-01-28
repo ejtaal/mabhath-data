@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>قسى</em>            1                  قسى<br>\
+<b>قَاسَاهُ</b>               1     <br>\
+                     قَاسَاهُ<br>\
+                     ذ<br>\
+                  <i>He endured it; struggled,</i> or <i>contended, with,</i> or <i>against, it; struggled,</i> or <i>contended, with,</i> or <i>against, its difficulty,</i> or <i>severity; he endured,</i> or <i>he struggled,</i> or <i>contended, with,</i> or <i>against, the difficulty,</i> or <i>trouble,</i> or <i>inconvenience, that he experienced from it</i> or <i>him;</i> [and so عَانَاهُ; for both of which see Har, p. 564; and for the latter see شَاقَاهُ; and for both see also مُجَانَاةٌ]; syn. كَابَدَهُ, (S, K,) and عَالَجَ شِدَّتَهُ: (TA:) <i>he underwent difficulties, troubles,</i> or <i>inconveniences, in doing it.</i> (Msb in explanation of the syn. كَابَدَهُ.)    </entryFree> <br>\
+<b>قُِسِىُّ</b>               1     <br>\
+                     قُِسِىُّ<br>\
+                     ذ<br>\
+                   pl. of قَوْسٌ.    </entryFree> <br>\
+<b>قُسَوِىٌّ</b>               1     <br>\
+                     قُسَوِىٌّ<br>\
+                     ذ<br>\
+                  : see art. قوس.   </entryFree> <br>\
+' } );

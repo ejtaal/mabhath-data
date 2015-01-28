@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>قرزح</em>            1                  قرزح<br>\
+<b>قُرْزُحٌ</b>               1     <br>\
+                     قُرْزُحٌ<br>\
+                     ذ<br>\
+                  , (AA, S, K,) and قُرْزُوحٌ, (TA, and so in one copy of the S.) <i>A certain species of tree:</i> (S, K:) n. un. قُرْزُحَةٌ. (TA.) ―         -b2-  Also قُرْزُحَةٌ <br>\
+                  <i>A certain herb,</i> or <i>leguminous plant.</i> (Kr, K.) ―         -b3-  And <i>A certain small tree,</i> (AHn, K,) <i>curling and contracting,</i> (جَعْدَةٌ,) <i>and having black</i> <br>\
+                  جَبّ [i. e. <i>grains, or berries, or the like</i>]. (AHn.)   </entryFree> <br>\
+' } );

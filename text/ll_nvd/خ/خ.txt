@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'خalphabetical letter<br>\
+خ<br>\
+The seventh letter of the alphabet: called خَآءٌ<br>\
+[and خَا (respecting which latter see the letter<br>\
+ب)]. It is one of the letters termed مَهْمُوسَة [or<br>\
+non-vocal, i. e. pronounced with the breath only,<br>\
+without the voice]; and of those termed حَلْقِيَّة<br>\
+[i. e. faucial, or guttural]: its place of utterance<br>\
+is the same as that of غ [which differs from it<br>\
+in being vocal]. (L.)<br>\
+-A2-  [As a numeral, it denotes Six hundred.]<br>\
+' } );

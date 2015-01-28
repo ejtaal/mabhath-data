@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>لفث</em>            1                  لفث<br>\
+<b>استلفث مَا عِنْدَهُ</b>               1     <br>\
+                     استلفث مَا عِنْدَهُ<br>\
+                     ذ<br>\
+                  <i>He elicited, and exhausted,</i> (اـِسْتَنْبَطَ وَاْسْتَقْصَى,) <i>what</i> [information, &amp;amp;c.] <i>he had,</i> or <i>possessed.</i> (K.) ―         -b2-  استلفث الرِّعْىَ <br>\
+                  <i>He consumed the whole of the pasture, leaving nothing of it.</i> (K, TA.) ―         -b3-  استلفث حَاجَتَهُ <br>\
+                  <i>He accomplished his want.</i> (K.) ―         -b4-  استلفث الخَبَرَ <br>\
+                  <i>He concealed the news.</i> (K.)    </entryFree> <br>\
+<b>اَلْفَثُ</b>               1     <br>\
+                     اَلْفَثُ<br>\
+                     ذ<br>\
+                  <i>Stupid; foolish; of little sense:</i> (K:) like اَلْفَتُ. (TA.)   </entryFree> <br>\
+' } );

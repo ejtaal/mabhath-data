@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'وبر1<br>\
+وُبِرَتِ النَّخْلَةُ<br>\
+[The palm-tree was fecundated:]<br>\
+i. q.<br>\
+أُبِرَتْ, i. e. أُلْقِحَتْ. (Aboo-&#39;Amr Ibn-El-&#39;Alà,<br>\
+in L, art. أبر.) See art. أبر.<br>\
+4<br>\
+أَوْبَرُوا عَلَى شَىْءٍ<br>\
+i. q.<br>\
+اوصبوا عليه, q. v. (TA,<br>\
+art. وصب.)<br>\
+نَخْلَةٌ مَوْبُورَةٌ<br>\
+i. q.<br>\
+مَأْبُورَةٌ. (Aboo-&#39;Amr Ibn-El-<br>\
+&#39;Alà, l. e.)<br>\
+' } );

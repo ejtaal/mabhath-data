@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>بيص</em>            1                  بيص<br>\
+<b>وَقَعَ فِى حَاصِ بَاصِ</b>               1     <br>\
+                     وَقَعَ فِى حَاصِ بَاصِ<br>\
+                     وقع في حاص باص<br>\
+                  , and حَيْصَ بَيْصَ, &amp;amp;c.: see art. حيص    <br>\
+<b>بَيْصٌ</b>               1     <br>\
+                     بَيْصٌ<br>\
+                     بيص<br>\
+                  <i>Difficulty; straitness;</i> (IAar, K;) as also ↓ <br>\
+      بِيصٌ. (K.) See above.    </entryFree> <br>\
+<b>بِيصٌ</b>               1     <br>\
+                     بِيصٌ<br>\
+                     بيص<br>\
+                  : see above.   </entryFree> <br>\
+' } );

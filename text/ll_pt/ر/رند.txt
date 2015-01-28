@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>رند</em>            1                  رند<br>\
+<b>رَنْدٌ</b>               1     <br>\
+                     رَنْدٌ<br>\
+                     ذ<br>\
+                   [a coll. gen. n.] <i>A kind of tree of sweet odour,</i> (AO, T, S, A, Msb, K,) <i>which distils much</i> (سَيَّالٌ); (A;) <i>of the trees of the desert;</i> (AO, T, S, A, Msb;) <i>a kind of tree of the desert, of sweet odour, with the wood of which the teeth are cleaned; not large; and having a berry;</i> (حَبَّة); <i>called</i> [i. e., the tree is called, and not the berry, for the verb is masculine,] غار [a name commonly and properly applied to the <i>laurus nobilis,</i> or <i>sweet bay</i>]: n. un. رَنْدَةٌ: (M:) or the <i>myrtle</i> (ا=س); (M, A;) this is also called رند, (Kh, Msb, K,) on account of its sweet odour; (Kh, Msb;) and Ahmad Ibn-Yahyà says that the رند is the ا=س accord. to all the lexicologists except Aboo- &#39;Amr Esh-Sheybánee and IAar, who assert that the رند is the <i>plant called</i> <br>\
+                  حَنْوَة, and is <i>of sweet odour;</i> but AO also denies it to be the ا=س; (T;) and so does As: (S:) or <i>aloes-wood,</i> (عُود,) <i>with which one fumigates;</i> (M;) عود (or عُودُ الطِّيبِ, with which one fumigates, AO, and T,) is also thus called, (AO, As, T, S, K,) sometimes: (AO, As, T, S:) [and accord. to Forskål, (Flor. Aeg. Ar., cxix.,) the <i>artemisia pontica</i> bears this name.]   </entryFree> <br>\
+' } );

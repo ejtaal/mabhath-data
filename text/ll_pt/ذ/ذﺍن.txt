@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ذان&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ذان<br>\
+&lt;entryFree id=&quot;n13646&quot; key=&quot;ذَاَنَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ذَاَنَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ذَاََ<br>\
+                  &lt;/form&gt;,] inf. n. ذَاْنٌ, [app. from ذُوْنُونٌ, q. v.,] &lt;i&gt;He held his state,&lt;/i&gt; or &lt;i&gt;condition, to be contemptible and weak.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13647&quot; key=&quot;ذَاْنَنَتِ الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     ذَاْنَنَتِ الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The land produced the kind of plant called&lt;/i&gt; <br>\
+                  ذُوْنُون. (IAar, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13648&quot; key=&quot;خَرَجُوا يَتَدَاْنَنُونَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 2&lt;/itype&gt;        <br>\
+                     خَرَجُوا يَتَدَاْنَنُونَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, so in both of my copies, and K and TK, but [erroneously] written in the TT as from the M يتذاْنون, and in some copies of the K يَتَذَا=يَنُونَ, or يَتَذَا=ءَنُونَ, [the verb being evidently a denominative from ذُوْنُونٌ like تَجَلْبَبَ from جِلْبَابٌ,]) &lt;i&gt;They went forth&lt;/i&gt; (S, M, K) &lt;i&gt;to take,&lt;/i&gt; (S,) or &lt;i&gt;to seek and take,&lt;/i&gt; (M,) or &lt;i&gt;to gather,&lt;/i&gt; (K,) &lt;i&gt;the kind of plant called&lt;/i&gt; <br>\
+                  ذُوْنُون (S, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13649&quot; key=&quot;ذُوْنُونٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذُوْنُونٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;A kind,&lt;/i&gt; or &lt;i&gt;species, of fungus;&lt;/i&gt; perhaps &lt;i&gt;a species of phallus;&lt;/i&gt;] &lt;i&gt;a certain plant,&lt;/i&gt; (T, S, K,) &lt;i&gt;of the same kind as the&lt;/i&gt; <br>\
+                  عُرْجُون <br>\
+                  &lt;i&gt;and the&lt;/i&gt; <br>\
+                  طُرْثُوثِ, &lt;i&gt;which grows in the winter, and, when the day becomes hot, rots, and goes away;&lt;/i&gt; (IAar, T;) said by Abu-l-&#39;Omeythil to be, &lt;i&gt;in form, like the&lt;/i&gt; <br>\
+                  هِلْيَوْن [or &lt;i&gt;asparagus&lt;/i&gt;]: (T:) pl. ذَا=نِينُ: (T, S:) and some pronounce the sing. ذُونُونٌ, without ء; and make the pl. ذَوَانِينُ: (T, TA:) &lt;i&gt;a certain plant that grows at the roots of the&lt;/i&gt; <br>\
+                  اَرْطَى <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  رِمْث <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  اَلَا=ء; &lt;i&gt;the ground cleaving, and disclosing it, it comes forth like the&lt;/i&gt; <br>\
+                  سَوَاعِد [app. here meaning the &lt;i&gt;upper arms, above the elbows,&lt;/i&gt;] &lt;i&gt;of men; has no leaves; is black&lt;/i&gt; (اَسْحَمُ), &lt;i&gt;and dustcoloured; is pointed&lt;/i&gt; [&lt;i&gt;and roundish&lt;/i&gt;] &lt;i&gt;in its extremity, like the glans of the penis in form; has envelopes&lt;/i&gt; (اَكْمَامُ) &lt;i&gt;like those of the&lt;/i&gt; [&lt;i&gt;bean called&lt;/i&gt;] بَاقِلَّى; &lt;i&gt;and has a yellow fruit at its upper part:&lt;/i&gt; some say that it is &lt;i&gt;a plant that grows like the&lt;/i&gt; [&lt;i&gt;fungi called&lt;/i&gt;] عَرَاجِين, &lt;i&gt;of the plants termed&lt;/i&gt; <br>\
+                  فُطْر: AHn says that what are termed ذَا=نِين are &lt;i&gt;things of the&lt;/i&gt; [&lt;i&gt;fungi called&lt;/i&gt;] فُقُوع, &lt;i&gt;that come forth from beneath the ground like thick&lt;/i&gt; <br>\
+                  عُمُد [or &lt;i&gt;poles&lt;/i&gt;]; &lt;i&gt;nothing eats them, except that camels feed upon them in the year of drought, and goats eat them and fatten upon them; they have a root-stock&lt;/i&gt; (اَرُومَة); &lt;i&gt;and are used as medicines; and none but the hungry will eat them, because of their bitterness:&lt;/i&gt; he also says in one place, &lt;i&gt;they grow at the roots of trees, most like to the asparagus&lt;/i&gt; (هِلْيَوْن), &lt;i&gt;except that they are larger and thicker; and have no leaves; but they have a&lt;/i&gt; <br>\
+                  بُرْعُومَة [app. here meaning a &lt;i&gt;head, such as is termed a pileus,&lt;/i&gt; or &lt;i&gt;cap&lt;/i&gt;], &lt;i&gt;which assumes a roseate colour, and then changes to yellow:&lt;/i&gt; the ذونون is &lt;i&gt;all&lt;/i&gt; [&lt;i&gt;full of&lt;/i&gt;] &lt;i&gt;water&lt;/i&gt; [or &lt;i&gt;juice&lt;/i&gt;]; &lt;i&gt;and is white, except what appears thereof, of that&lt;/i&gt; <br>\
+                  بُرْعُومَة; &lt;i&gt;and nothing eats it, except when men are afflicted with drought and have nothing&lt;/i&gt; [&lt;i&gt;else&lt;/i&gt;] &lt;i&gt;to eat:&lt;/i&gt; the n. un. is with ة: (M:) ISh says that &lt;i&gt;it is of a tawny colour, smooth and round, having leaves that stick to it, tall like the&lt;/i&gt; <br>\
+                  طُرْثُوث, &lt;i&gt;not eaten save by sheep or goats,&lt;/i&gt; [&lt;i&gt;and grows&lt;/i&gt;] &lt;i&gt;in plain,&lt;/i&gt; or &lt;i&gt;soft, tracts:&lt;/i&gt; IB says that &lt;i&gt;it is the wild&lt;/i&gt; <br>\
+                  هِلْيَوْن. (TA.) One says of a people who were characterized by courage and excellence, and who have perished, their state having changed, ذَا=نِينُ لَا رِمْثَ لَهَا وَ طَرَاثِيثُ لَا اَرْطَى [&lt;i&gt;Dhu-noonehs having no rimthehs, and turthoothehs having no artáhs&lt;/i&gt;]: meaning that they have been extirpated, and that none of them remains: (TA:) or ذا=نين لا رمث لها is a prov. applied to him who is ruined, and has nothing remaining, after having had a family and dignity and wealth. (TA voce طُرْثُوثٌ.)   &lt;/entryFree&gt; <br>\
+' } );

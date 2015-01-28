@@ -1,0 +1,43 @@
+load_data( { book: 'll_nvd', text: 'طفر1<br>\
+طَفَرَ, (S, A, Mgh, Msb,) aor.<br>\
+طَفِرَ, (S, Mgh,<br>\
+Msb,) inf. n. طُفُورٌ (S, A, Mgh, Msb, K) and طَفْرٌ,<br>\
+(S, A, Mgh, Msb,) or طَفْرَةٌ, (K,) [but] this has a<br>\
+more particular signification than طَفْرٌ, (Msb,)<br>\
+[being an inf. n. un.,] He leaped: (S:) or he<br>\
+leaped upwards, (Lth, T, A, Mgh, Msb, K,) as<br>\
+when one leaps over a wall to what is behind it.<br>\
+(Lth, T, Mgh, Msb.) One says, طَفَرَ الحَائِطَ,<br>\
+(TA,) or طَفَرَ الحَائِطَ إِلَى مَا وَرَآءَهُ, (A,) He leaped<br>\
+over the wall to what was behind it. (TA.) And<br>\
+طَفَرَ الفَرَسُ النَّهْرَ [The horse leaped over the river,<br>\
+or rivulet]. (A, TA.)<br>\
+2<br>\
+طفّر الفَرَسَ النَّهْرَ He made the horse to leap<br>\
+over the river, or rivulet. (A, TA.)<br>\
+8<br>\
+اِطَّفَرَ فَرَسَهُ, inf. n. اِطِّفَارٌ; (O, TA;) accord.<br>\
+to the K, أَطْفَرَ, inf. n. إِطْفَارٌ, but the former is the<br>\
+right; (TA;) He thrust his feet into the groins<br>\
+of his horse: the doing of which is a fault in the<br>\
+rider. (O, K, TA.) And in like manner one<br>\
+says of a man when he makes his camel to run:<br>\
+(O, TA:) i. e. اِطَّفَرَ بَعِيرَهُ, inf. n. اِطِّفَارٌ, He thrust<br>\
+his feet into the groins of his camel. (L.) [It<br>\
+seems to be tropical, from what here follows.] ―<br>\
+-b2-<br>\
+اِطَّفَرَ الرَّجُلُ, meaning He stuck his nails [into a<br>\
+thing] is originally اِظَّفَرَ; (TA; [in which it is<br>\
+said to be tropical; but for this I see no<br>\
+reason;]) as also اِطَّفَرَهُ he stuck his nail into it.<br>\
+(TA in art. ظفر.)<br>\
+طَفْرَةٌ A leap: (S:) or a leap upwards, (T, A, *<br>\
+Mgh, Msb, K, *) as when one leaps over a wall;<br>\
+(T, Mgh, Msb;) said to be thus distinguished<br>\
+from وَثْبَةٌ, which is downwards. (Mgh, Msb.)<br>\
+Hence طَفْرَةُ النِّظَامِ [app. meaning An overleaping<br>\
+the right order, or method: I have not found any<br>\
+explanation of it]. (A.)<br>\
+هُوَ طَفَّارُ الأَنْهَارِ [He is the leaper over rivers, or<br>\
+rivulets]. (A.)<br>\
+' } );

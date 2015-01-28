@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وصا</em>            1                  وصا<br>\
+<b>وَصِيَ</b>               1     <br>\
+                     وَصِيَ<br>\
+                     ذ<br>\
+                  , as also صَيِيَ, (mentioned by Lb, TA,) <i>It</i> (a garment) <i>was,</i> or <i>became, dirty.</i> (K.)   </entryFree> <br>\
+' } );

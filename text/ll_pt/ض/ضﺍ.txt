@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضا<br>\
+&lt;entryFree id=&quot;n25391&quot; key=&quot;ضُوْضُوٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضُوْضُوٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph but one, in two places.       -A2-  Also The &lt;i&gt;bird called&lt;/i&gt; <br>\
+                  اَخْيَل [q. v.]: (O, K:) so says ISd: but IDrd doubts its correctness. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25392&quot; key=&quot;ضِيْضَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضِيْضَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25393&quot; key=&quot;ضِيْضِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضِيْضِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, O, K) and ↓ <br>\
+      ضِيْضِىْءٌ and ↓ <br>\
+      ضُوْضُوٌ and ↓ <br>\
+      ضُوْضُوْءٌ (O, K) and accord. to ISd ↓ <br>\
+      ضِيْضَاٌ, which is of an extr. measure, (TA,) &lt;i&gt;Origin, root, race,&lt;/i&gt; or &lt;i&gt;stock;&lt;/i&gt; syn. اَصْلٌ: (S, O, K:) and the &lt;i&gt;place in which a thing originates;&lt;/i&gt; syn. مَعْدِنٌ: (K:) hence, in a خُطْبَة of Aboo-Tálib, الحَمْدُ لِلّٰهِ <br>\
+                  الَّذِى جَعَلَنَا مِنْ ذُرِّيَّةِ اـِبْرَاهِيمَ وَزَرْعِ اـِسْمَاعِيلَ وَضِيْضِيِ <br>\
+                  مَعَدٍّ وَعُنْصُرِ مُضَرَ i. e. [&lt;i&gt;Praise be to God, who made us to be of the offspring of Abraham and of the seed of Ishmael and&lt;/i&gt;] &lt;i&gt;of the stock of Ma&#39;add&lt;/i&gt; [&lt;i&gt;and of the race of Mudar&lt;/i&gt;]: and يَخْرُجُ مِنْ <br>\
+                  ضِيْضِيِ هٰذَا, occurring in a trad., i. e. &lt;i&gt;There shall spring from the stock,&lt;/i&gt; or &lt;i&gt;race, of this;&lt;/i&gt; or, as some relate it, it is [صِيْصِي,] with the unpointed ص, which means the same: and you say ضِيْضِيُ صِدْقٍ and صِدْقٍ ↓ <br>\
+      ضُوْضُوُ [&lt;i&gt;An excellent origin&lt;/i&gt; or &lt;i&gt;race&lt;/i&gt;]: (TA:) [see an ex. voce بُوْبُوٌ, in art. با: and see also ضِنْءٌ:] or ضِيْضِيٌ &amp;amp;c. signify &lt;i&gt;multitude,&lt;/i&gt; and &lt;i&gt;abundance, of offspring&lt;/i&gt; or &lt;i&gt;breed;&lt;/i&gt; (K, TA;) whence the ضِيْضِي of sheep. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25394&quot; key=&quot;ضَاْضَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَاْضَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [in the CK الضَاْضَاُ is erroneously put for الضَّاْضَاءُ,] as also ↓ <br>\
+      ضَوْضَا=ءٌ (O, K, TA) and ضَوْضًى, (CK,) [which belong to art. ضو and the last of which is mentioned in the K in art. ضوض,] The &lt;i&gt;voices, cries,&lt;/i&gt; or &lt;i&gt;shouts, of men,&lt;/i&gt; (AA, O, K, TA,) &lt;i&gt;in war,&lt;/i&gt; * or &lt;i&gt;fight.&lt;/i&gt; (O, K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25395&quot; key=&quot;ضَوْضَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَوْضَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25396&quot; key=&quot;ضُوْضُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضُوْضُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ضِيْضِيٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25397&quot; key=&quot;ضِيْضِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضِيْضِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ضِيْضِيٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25398&quot; key=&quot;مُضَوْضِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُضَوْضِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; or مُضَوْضٍ, (accord. to different copies of the K,) the former app. the original of the latter, [which is mentioned in the K in art. ضوض, but in the CK there written مَضَوْضِىٌّ,] (TA,) applied to a man, &lt;i&gt;Crying out, shouting&lt;/i&gt; or &lt;i&gt;clamouring.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

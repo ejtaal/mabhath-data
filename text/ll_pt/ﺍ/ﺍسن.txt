@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اسن&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اسن<br>\
+&lt;entryFree id=&quot;n785&quot; key=&quot;اَسَنَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَسَنَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسُنَ<br>\
+                  &lt;/form&gt; (S, M, Mgh, Msb, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسِنَ<br>\
+                  &lt;/form&gt;, (S, M, K,) inf. n. اُسُونٌ (S, M, Msb) and اَسْنٌ; (M;) and اَسِنَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسَنَ<br>\
+                  &lt;/form&gt;, (S, M, &amp;amp;c.,) inf. n. اَسَنٌ; (S, M, Msb;) said of water, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَجَنَ <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  اَجِنَ; (S, K;) [i. e.] &lt;i&gt;It became altered for the worse&lt;/i&gt; (M, Mgh, Msb) &lt;i&gt;in odour,&lt;/i&gt; (M,) [or &lt;i&gt;in taste and colour, from some such cause as long standing,&lt;/i&gt; (see اَجَنَ,)] &lt;i&gt;but was drinkable;&lt;/i&gt; (M;) or &lt;i&gt;so as not to be drunk,&lt;/i&gt; (Msb, TA,) thus differing from اَجَنَ and اَجِنَ. (TA.) [See also اَصِلَ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n786&quot; key=&quot;اَسِنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n787&quot; key=&quot;ا=سِنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=سِنٌ<br>\
+                     ا=سن<br>\
+                  &lt;/form&gt; (S, Mgh, Msb, K) and ↓ <br>\
+      اَسِنٌ, (S, Mgh, Msb,) applied to water, (S, Mgh, &amp;amp;c.,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  ا=جِنٌ [and اَجِنٌ]; (S, K;) [i. e.] &lt;i&gt;Altered for the worse&lt;/i&gt; (Mgh, Msb) &lt;i&gt;in odour,&lt;/i&gt; (Mgh,) [or &lt;i&gt;in taste and colour, from some such cause as long standing but drinkable;&lt;/i&gt; (see above, and see ا=جِنٌ;)] or &lt;i&gt;so as not to be drunk,&lt;/i&gt; (Msb, TA,) thus differing from ا=جِنٌ and اَجِنٌ: (TA:) pl. [of the former] ا=سَانٌ [like as اَطْهَارٌ is pl. of طَاهِرٌ, or perhaps it may have for its sing. اَسْنٌ, like اَجْنٌ]. (M, TA.) مَنْ مَا=ءٍ غَيْرِ ا=سِنٍ, in the Kur [xlvii. 16], is explained by Fr as meaning &lt;i&gt;Of water not altered for the worse; not&lt;/i&gt; <br>\
+                  ا=جِن. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

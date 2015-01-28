@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>سربخ</em>            1                  سربخ<br>\
+<b>سَرْبَخْتُ فِى المَشْىِ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     سَرْبَخْتُ فِى المَشْىِ<br>\
+                     ذ<br>\
+                  , inf. n. سَرْبَخَةٌ, <i>I walked,</i> or <i>marched, an hour,</i> or <i>a while:</i> (JK:) [or <i>in the middle of the day:</i> and <i>gently,</i> or <i>in a leisurely manner:</i> for] ―         -b2-  سَرْبَخَةٌ signifies The <i>walking,</i> or <i>marching, in the middle of the day.</i> (K.) And The <i>walking,</i> or <i>marching, gently,</i> or <i>in a leisurely manner.</i> (JK, K.) ―         -b3-  And The <i>being light,</i> or <i>agile,</i> or <i>active; light in any work</i> or <i>action,</i> or <i>unsteady</i> or <i>lightwitted,</i> or <i>so on an occasion of anger,</i> or <i>hasty, with foolishness</i> or <i>ignorance;</i> syn. خِفَّةٌ and نَزَقٌ. (K.)    </entryFree> <br>\
+<b>سَرْبَخٌ</b>               1     <br>\
+                     سَرْبَخٌ<br>\
+                     ذ<br>\
+                  <i>A wide,</i> or <i>spacious, land:</i> (S, K:) or <i>one far extending:</i> (TA:) and <i>a land in which one cannot find his way.</i> (K, * TA.)    </entryFree> <br>\
+<b>مَهْمَهُ سِرْبَاخٌ</b>               1     <br>\
+                     مَهْمَهُ سِرْبَاخٌ<br>\
+                     ذ<br>\
+                  <i>A desert,</i> or <i>waterless desert, wide,</i> or <i>spacious,</i> (K, TA,) <i>in the sides:</i> (TA:) and ↓ <br>\
+      مَهْمَهٌ مُسَرْبَخٌ <br>\
+                  <i>a desert,</i> or <i>waterless desert, far extending,</i> (K, * TA,) <i>wide,</i> or <i>spacious:</i> so in a verse of Aboo-Duwád cited voce مَرْدُونٌ, q. v. (TA.)    </entryFree> <br>\
+<b>مُسَرْبَخٌ</b>               1     <br>\
+                     مُسَرْبَخٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

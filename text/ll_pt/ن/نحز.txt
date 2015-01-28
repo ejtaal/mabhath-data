@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>نحز</em>            1                  نحز<br>\
+<b>نَحَزَ</b>               1     <br>\
+                     نَحَزَ<br>\
+                     ذ<br>\
+                  : see an ex. in a verse cited voce عَاسِجٌ.    </entryFree> <br>\
+<b>نَاحِزٌ</b>               1     <br>\
+                     نَاحِزٌ<br>\
+                     ذ<br>\
+                  : see نَاكِتٌ.    </entryFree> <br>\
+<b>مِنْحَازٌ</b>               1     <br>\
+                     مِنْحَازٌ<br>\
+                     ذ<br>\
+                  <i>A mortar;</i> syn. هَاوُونٌ. (K.)   </entryFree> <br>\
+' } );

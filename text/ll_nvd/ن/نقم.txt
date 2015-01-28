@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'نقم1<br>\
+نَقَمَ عَلَيْهِ<br>\
+He exacted vengeance upon him,<br>\
+punished him: see an ex. voce ابدى in art.<br>\
+بدو. See 8.<br>\
+8<br>\
+اِنْتَقَمْتُ مِنْهُ<br>\
+I took, or executed, vengeance<br>\
+on him, or inflicted penal retribution on him, for<br>\
+that which he had done: (JK:) or I punished<br>\
+him; (S, Msb, K;) as also مِنْهُ ↓ نَقَمْتُ, (Msb,<br>\
+K,) and عَلَيهِ, (TA,) aor.<br>\
+نَقِمَ<br>\
+; (Msb, K;) and<br>\
+نَقِمْتُ. (K.) ―<br>\
+-b2-  See نِقْمَةٌ.<br>\
+نِقْمَةٌ<br>\
+[and ↓ اِنْتِقَامٌ] Vengeance; or penal<br>\
+retribution. (JK.)<br>\
+' } );

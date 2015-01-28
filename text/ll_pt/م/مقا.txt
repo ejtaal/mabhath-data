@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مقا</em>            1                  مقا<br>\
+<b>مَاقِيٌ</b>               1     <br>\
+                     مَاقِيٌ<br>\
+                     ذ<br>\
+                   and مُوقِيٌ The <i>posterior,</i> or, as some say, <i>anterior, part</i> of the eye: (K:) or the <i>inner angle</i> of the eye, <i>next the nose.</i> (K, &amp;amp;c., art. ماق.) Mentioned by most of the lexicographers in art. ماق, q. v. (TA.)   </entryFree> <br>\
+' } );

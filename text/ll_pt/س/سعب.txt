@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>سعب</em>            1                  سعب<br>\
+<b>تسعّب</b>               1     <br>\
+                     تسعّب<br>\
+                     ذ<br>\
+                  <i>It</i> (a thing, TA, [such as saliva, and any thick liquid,]) <i>roped;</i> i. e. <i>drew out, with a viscous, glutinous, cohesive, sticky, ropy,</i> or <i>slimy, continuity of parts;</i> or <i>was,</i> or <i>became, viscous, glutinous, cohesive, sticky, ropy,</i> or <i>slimy;</i> syn. تَمَطَّطَ. (K.)    </entryFree> <br>\
+<b>انسعب</b>               1     <br>\
+                     انسعب<br>\
+                     ذ<br>\
+                  <i>It</i> (water [&amp;amp;c.]) <i>flowed;</i> (K;) [or <i>flowed in a continuous stream;</i>] like انثعب (TA) [and انذعب].    </entryFree> <br>\
+<b>سَعْبٌ</b>               1     <br>\
+                     سَعْبٌ<br>\
+                     ذ<br>\
+                   Any kind of wine, or beverage, &amp;amp;c., <i>that ropes;</i> i. e. <i>that draws out, with a viscous, glutinous, cohesive, sticky, ropy,</i> or <i>slimy, continuity of parts;</i> or <i>that is viscous, glutinous,</i> &amp;amp;c. (K.)    </entryFree> <br>\
+<b>سُعْبُوبٌ</b>               1     <br>\
+                     سُعْبُوبٌ<br>\
+                     ذ<br>\
+                   and سُعْبُوبَةٌ: see the next paragraph.    </entryFree> <br>\
+<b>سَعَابِيبُ</b>               1     <br>\
+                     سَعَابِيبُ<br>\
+                     ذ<br>\
+                  <i>What extend like threads,</i> or <i>strings, from honey</i> (A, * K) <i>and marsh-mallows,</i> (K,) <i>and the like:</i> (A, K:) pl. of ↓ <br>\
+      سُعْبُوبٌ. (TA.) You say, سَالَ فَمُهُ سَعَابِيبَ <br>\
+                  <i>His slaver extended,</i> or <i>stretched out, like threads,</i> or <i>strings.</i> (A, K.) And فُوهُ يَجْرِى سَعَابِيبَ <br>\
+                  <i>His mouth runs with clear water, having an extended</i> [or <i>a ropy</i>] <i>flow;</i> like يجرى ثَعَابِيبَ. (S.) ―         -b2-  And <i>What follow the hand in milking,</i> [<i>stretching out</i>] <i>like phlegm:</i> pl. of ↓ <br>\
+      سُعْبُوبَةٌ. (ISh, TA.)    </entryFree> <br>\
+<b>هُوَ مُسَعَّبٌ لَهُ كَذَا وَكَذَا</b>               1     <br>\
+                     هُوَ مُسَعَّبٌ لَهُ كَذَا وَكَذَا<br>\
+                     ذ<br>\
+                  <i>To him are allowed,</i> or <i>permitted, such and such things:</i> (K:) like مُسَغَّبٌ and مُرَغَّبٌ. (TA.)   </entryFree> <br>\
+' } );

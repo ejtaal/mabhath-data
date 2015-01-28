@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وذم</em>            1                  وذم<br>\
+<b>اَوْذَمَ حَجًّا</b>               1     <br>\
+                     اَوْذَمَ حَجًّا<br>\
+                     ذ<br>\
+                  : see an ex. voce دَسِمٌ.    </entryFree> <br>\
+<b>وذم</b>               1     <br>\
+                     وذم<br>\
+                     ذ<br>\
+                   [app. وَذَمٌ] The <i>villosity</i> of a tripe. (TA, art. ترب.)   </entryFree> <br>\
+' } );

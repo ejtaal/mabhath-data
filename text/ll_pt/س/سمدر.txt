@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>سمدر</em>            1                  سمدر<br>\
+                     <i>Q. 4</i>        <br>\
+                     اـِسْمَدَرَّ<br>\
+                   accord. to the M and K, اِسْمَدَرَّ: and    </entryFree> <br>\
+<b>سُمْدُورٌ</b>               1     <br>\
+                     سُمْدُورٌ<br>\
+                     ذ<br>\
+                   and سَمَادِيرٌ: and    </entryFree> <br>\
+<b>مُسْمَدِرٌّ</b>               1     <br>\
+                     مُسْمَدِرٌّ<br>\
+                     ذ<br>\
+                  : see art. سدر.   </entryFree> <br>\
+' } );

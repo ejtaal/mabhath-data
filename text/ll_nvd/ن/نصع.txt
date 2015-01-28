@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'نصع1<br>\
+نَصَعَ<br>\
+He, or it, purified. (L.)<br>\
+أَبْيَضُ نَاصِعٌ<br>\
+Intensely white.<br>\
+' } );

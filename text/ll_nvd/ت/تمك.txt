@@ -1,0 +1,32 @@
+load_data( { book: 'll_nvd', text: 'تمك1<br>\
+تَمَكَ, aor.<br>\
+تَمُكَ (S, K) and<br>\
+تَمِكَ, (K,) inf. n. تَمُكٌ<br>\
+(S, K) and تُمُوكٌ, (K,) It (a camel&#39;s hump) was,<br>\
+or became, tall, or long and high: (S, K:) it was,<br>\
+or became, juicy, and compact, (O, K,) and<br>\
+plump. (M, TA.) ―<br>\
+-b2-  [Hence,] تَمَكَ فِيهِ الحُسْنُ<br>\
+[app. (assumed tropical:)  Beauty became fully developed, or consummate, in him]. (TA.)<br>\
+4<br>\
+اتمك سَنَامَهُ [It made his (a camel&#39;s) hump<br>\
+to become tall, or long and high, or juicy and<br>\
+compact, and plump]; said of the [herbage called]<br>\
+رَبِيع. (A, TA.) And اتمك النَّاقَةَ It (herbage)<br>\
+made the she-camel fat. (IDrd, K.)<br>\
+تَامِكٌ, applied to a camel&#39;s hump, Tall, or<br>\
+long and high: (S, TA:) or high: or juicy,<br>\
+and compact, and plump: (TA:) or a camel&#39;s<br>\
+hump, in whatever state it be. (M, K.) ―<br>\
+-b2-  A<br>\
+she-camel having a large hump: (ISd, K:) pl.<br>\
+تَوَامِكُ. (TA.) ―<br>\
+-b3-  A high, or lofty, building.<br>\
+(TA.) ―<br>\
+-b4-  You say also, إِنَّهُ لَتَامِكُ الجَمَالِ [app.<br>\
+meaning (assumed tropical:)  Verily he is a person of fully-developed,<br>\
+or consummate, beauty]. (TA.) ―<br>\
+-b5-  And شَرَفُكَ<br>\
+تَامِكٌ وَإِقْبَالُكَ سَامِكٌ (tropical:)  [Thy nobility is lofty, and<br>\
+thy good fortune is high]. (A, TA.)<br>\
+' } );

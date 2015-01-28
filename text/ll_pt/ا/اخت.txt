@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>اخت</em>            1                  اخت<br>\
+<b>اُخْتٌ</b>               1     <br>\
+                     اُخْتٌ<br>\
+                     ذ<br>\
+                   fem. of اَخٌ, q. v. in art. اخو.   </entryFree> <br>\
+' } );

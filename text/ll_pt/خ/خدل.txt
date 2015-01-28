@@ -1,0 +1,59 @@
+load_data( { book: 'll_pt', text: '<em>خدل</em>            1                  خدل<br>\
+<b>خَدُلَ</b>               1     <br>\
+                     خَدُلَ<br>\
+                     خدل<br>\
+                  , inf. n. خَدَالَةٌ [and app. خُدُولَة also], <i>He was,</i> or <i>became, large, and full</i> [or <i>plump</i>], <i>in the shank and fore arm.</i> (TA.) [And in like manner, خَدُلَتْ; or خَدِلَتْ, inf. n. خَدَلٌ [q. v.]; <i>She</i> (a woman) <i>was,</i> or <i>became, full,</i> or <i>plump, in the shanks and fore arms.</i>] And خَدُلَتْ, inf. n. خَدَالَةٌ [and خُدُولَةٌ]; (JK;) or خَدِلَتْ, [inf. n. خَدَلٌ;] (K;) said of the shank (السَّاق, JK, K), <i>It was,</i> or <i>became, round:</i> (JK:) or <i>full</i> [or <i>plump</i>]. (K.)    </entryFree> <br>\
+<b>خَدْلٌ</b>               1     <br>\
+                     خَدْلٌ<br>\
+                     خدل<br>\
+                  <i>Full</i> [or <i>plump</i>]: and <i>large, big,</i> or <i>bulky:</i> (K:) or <i>large, and full</i> [or <i>plump</i>], <i>in the shank and fore arm:</i> or, as some say, <i>large, big,</i> or <i>bulky.</i> TA.) You say اِمْرَاَةٌ خَدْلَةٌ and ↓ <br>\
+      خَدِلَةٌ (K, TA, [in the CK, by an omission, the latter is made to be خِدْلَةٌ,]) <i>A woman thick and round in the shank:</i> pl. خِدَالٌ: [in the CK, erroneously, اَخْدَالٌ:] or <i>full of flesh in the limbs, with slenderness of the bones;</i> as also ↓ <br>\
+      خَدْلَا=ءُ and ↓ <br>\
+      خِدْلِمٌ: (K:) or these two, in the latter of which the م is augmentative, a woman <i>full</i> [or <i>plump</i>] <i>in the shanks and fore arms.</i> (S.) And خَدْلَةٌ السَّاقِ A woman <i>round in the shank.</i> (JK.) And مَخَلْخَلُهَا خَدْلٌ <br>\
+                  <i>Her place of the anklet</i> [i. e. <i>her ankle</i>] <i>is large,</i> or <i>big.</i> (S.) And سَاقٌ خَدْلَةٌ <br>\
+                  <i>A full</i> [or <i>plump</i>] <i>shank:</i> (K:) or <i>a round shank:</i> pl. خِدَالٌ. (JK.)    </entryFree> <br>\
+<b>خَدَلٌ</b>               1     <br>\
+                     خَدَلٌ<br>\
+                     خدل<br>\
+                   (S, K) and ↓ <br>\
+      خَدَالَةٌ (JK, S, K) and ↓ <br>\
+      خُدُولَةٌ (K) <i>Fulness</i> [or <i>plumpness</i>], (S, K,) or <i>roundness,</i> (JK,) of the shank, (JK, K,) or of the shanks and fore arms. (S.) [All are properly inf. ns.: see 1.]    </entryFree> <br>\
+<b>خَدْلَةٌ</b>               1     <br>\
+                     خَدْلَةٌ<br>\
+                     خدل<br>\
+                     خدله<br>\
+                     خدلة<br>\
+                   fem. of خَدْلٌ [q. v.]. (JK, K.) ―         -b2-  Also <i>A grape that is small and worthless by reason of blight,</i> or <i>the like, and want of moisture.</i> (AHát, K * TA.) ―         -b3-  And The <i>stem of the tree called</i> <br>\
+                  صَاب, (M, K,) which is a sort of bitter tree; (TA;) as also ↓ <br>\
+      خُدْلَةٌ. (M, K.)    </entryFree> <br>\
+<b>خُدْلَةٌ</b>               1     <br>\
+                     خُدْلَةٌ<br>\
+                     خدل<br>\
+                     خدله<br>\
+                     خدلة<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>خَدِلَةٌ</b>               1     <br>\
+                     خَدِلَةٌ<br>\
+                     خدل<br>\
+                     خدله<br>\
+                     خدلة<br>\
+                  : see خَدْلٌ.    </entryFree> <br>\
+<b>خَدْلَا=ءُ</b>               1     <br>\
+                     خَدْلَا=ءُ<br>\
+                     خدلا=ء<br>\
+                  : see خَدْلٌ.    </entryFree> <br>\
+<b>خِدْلِمٌ</b>               1     <br>\
+                     خِدْلِمٌ<br>\
+                     خدلم<br>\
+                  : see خَدْلٌ.    </entryFree> <br>\
+<b>خَدَالَةٌ</b>               1     <br>\
+                     خَدَالَةٌ<br>\
+                     خداله<br>\
+                     خدالة<br>\
+                  : see خَدَلٌ.    </entryFree> <br>\
+<b>خُدُولَةٌ</b>               1     <br>\
+                     خُدُولَةٌ<br>\
+                     خدوله<br>\
+                     خدولة<br>\
+                  : see خَدَلٌ.   </entryFree> <br>\
+' } );

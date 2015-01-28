@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قضف</em>            1                  قضف<br>\
+<b>قَضِيفٌ</b>               1     <br>\
+                     قَضِيفٌ<br>\
+                     ذ<br>\
+                  <i>Lean,</i> or <i>light of flesh.</i> (TA in art. شلو.)   </entryFree> <br>\
+' } );

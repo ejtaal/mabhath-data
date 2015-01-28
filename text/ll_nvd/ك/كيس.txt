@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'كيسكَيَِّسٌ<br>\
+Intelligent; ingenious, clever. (S, Msb,<br>\
+K.) [Plur. كُوسَى:] also أَكْيَاسٌ. (Msb.)<br>\
+أُمُّ كَيْسَانَ<br>\
+a metonymical name of The knee,<br>\
+in the dial. of El-Azd. (TA, art. ركب)<br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>بصع</em>            1                  بصع<br>\
+<b>بَصَعَ</b>               1     <br>\
+                     بَصَعَ<br>\
+                     بصع<br>\
+                  , aor.      <br>\
+                     بَصَعَ<br>\
+                  , (K,) inf. n. بَصْعٌ, (S,) <i>He collected:</i> (K:) [J says,] I have heard from certain of the grammarians that البَصْعُ is syn. with الجَمْعُ, but I know not what is the truth of the matter. (S.) Hence what here follows. (TA.)    </entryFree> <br>\
+<b>اَبْصَعُ</b>               1     <br>\
+                     اَبْصَعُ<br>\
+                     ذ<br>\
+                   is a word used as a corroborative, and is pronounced by some with the pointed ض, but this is not of high authority: you say, اَخَذْتُ حَقِّى <br>\
+                  اَجْمَعَ اَبْصَعَ [<i>I took my right,</i> or <i>due, altogether</i>]: and [the pl. is اَبْصَعُونَ:] you say, جَا=ءَ القَوْمُ <br>\
+                  اَجْمَعُونَ اَبْصَعُونَ [<i>The people,</i> or <i>company of men, came all together</i>]: and the fem. is بَصْعَا=ءُ: you say, جَمْعَا=ءَ بَصْعَا=ءَ: and [the pl. of بَصْعَا=ءُ is بُصَعُ: you say,] رَاَيْتُ النِّسْوَةَ جُمَعَ بُصَعَ [<i>I saw the women all together</i>]: it is a corroborative occurring in a particular order, never before اجمع. (S.) [See اَبْتَعُ.]   </entryFree> <br>\
+' } );

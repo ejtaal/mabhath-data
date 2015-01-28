@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>توتيا</em>            1                  توتيا<br>\
+<b>تُوتِيَا=ءٌ</b>               1     <br>\
+                     تُوتِيَا=ءٌ<br>\
+                     توتيا=ء<br>\
+                  : see the art. next preceding.   </entryFree> <br>\
+' } );

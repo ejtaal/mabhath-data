@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>اجص</em>            1                  اجص<br>\
+<b>اـِجَّاصٌ</b>               1     <br>\
+                     اـِجَّاصٌ<br>\
+                     اـجاص<br>\
+                     اـجاصة<br>\
+                     اجاص<br>\
+                   [The <i>plum;</i>] <i>a certain fruit,</i> (K, TA,) <i>of the description termed</i> <br>\
+                  فَاكِهَة, (TA,) <i>well known;</i> (Msb, K;) <i>cold and moist; or, as some say, of moderate temperature;</i> (TA;) <i>which facilitates the flow of the yellow bile;</i> (K;) i. e., <i>its juice,</i> or <i>water, does so, when drunk with sugar-candy</i> (طَبَرْزَذ) <i>and manna</i> (تَرَنْجُبِين) <i>added to it;</i> (TA;) <i>and allays thirst, and heat of the heart;</i> (K;) <i>but it relaxes the stomach, and does not agree with it; and it generates a watery mixture; and its injurious effect is repelled by the drinking of sugary</i> <br>\
+                  سِكَنْجُبِين [or <i>oxymel</i>]: <i>it is of several kinds:</i> (TA:) [<i>the most common is the Damasc,</i> or <i>Damascene, plum:</i>] <i>the best is</i> (K, TA) <i>the Armenian,</i> (TA,) <i>that which is sweet and large:</i> (K, TA:) <i>the sour,</i> or <i>acid, is less laxative, and more cold:</i> (TA:) the n. un. is with ة: (S, Msb, K:) you should not say اـِنْجَاصٌ; (Yaakoob, S, K;) or this is a word of weak authority, (K, TA,) and you say اـِجَّاصٌ and اـِنجَاصٌ like as one says اـِجَّارٌ and اـِنْجَارٌ: (TA:) in the dial. of the Syrians, the اـِجَّاصٌ [or اـِنْجَاص or اـِنجَاس accord. to common modern usage among them] is the [<i>pear</i> which they formerly called] مِشْمِش and [which others call] كُمَّثْرَي: (K:) <i>it is of the growth of the country of the Arabs:</i> (AHn:) اجّاص is an adventitious word, (S, K,) or arabicized, (Msb,) because ج and ص do not both occur in any Arabic word: (S, Msb, K:) or, accord. to Az, they do so occur; as, for instance, in حَصَّصَ, and in صَجٌّ. (TA.)   </entryFree> <br>\
+' } );

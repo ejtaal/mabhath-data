@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>طنجر</em>            1                  طنجر<br>\
+<b>طِنْجِرَةٌ</b>               1     <br>\
+                     طِنْجِرَةٌ<br>\
+                     ذ<br>\
+                  : see the following paragraph.    </entryFree> <br>\
+<b>طِنْجِرٌ</b>               1     <br>\
+                     طِنْجِرٌ<br>\
+                     ذ<br>\
+                  <i>A certain vessel</i> (O, Msb) <i>of copper</i> or <i>brass,</i> (Msb,) <i>in which one cooks,</i> (O, Msb,) <i>nearly resembling a</i> <br>\
+                  طَبَق, (Msb,) <i>without a cover;</i> (O;) also called ↓ <br>\
+      طِنْجِرَةٌ [vulgarly pronounced طَنْجَرَة and تَنْجَرَة, and now applied to <i>a saucepan</i>]: (TA:) خَبِيص [q. v.] is made in it: (K in art. خبص:) an arabicized word; in Pers. پَاتِيلَهْ: (K: [in some copies of the K, and in the O, بَاتِيلَهْ:]) pl. of the former طَنَاجِيرُ (Msb) [and of the latter طَنَاجِرُ. Accord. to the Msb, it is of the measure فِنْعِيلٌ: but accord. to the O and K, the ن is a radical letter.] ―         -b2-  It is also used by the Arabs of our time as a metonymical appellalation of (tropical:)  <i>A coward:</i> or <i>a low, vile,</i> or <i>mean, person:</i> as though they meant thereby a townsman, or villager, who constantly eats in cookingpots and bowls of copper; differing from the people of the desert. (TA.)   </entryFree> <br>\
+' } );

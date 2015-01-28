@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'حيج1<br>\
+حَاجَ, aor. يَحِيجُ, (Kr, K,) inf. n. حَيْجٌ,<br>\
+(TA,) i. q. حَاجَ, aor. يَحُوجُ: (Kr, K:) extr.,<br>\
+because the ا of حَاجَةٌ [which is its logical root]<br>\
+is [originally] و. (TA.)<br>\
+4<br>\
+أَحْيَجَتِ الأَرْضُ, (K,) irregular, like أَحُوَجَ,<br>\
+(TA,) and أَحَاجَت, The land produced the thorny<br>\
+plants, or trees, called حَاجٌ: (K:) or abounded<br>\
+therewith. (TA.)<br>\
+حَاجٌ, a coll. gen. n., n. un. with ة, (TA,) A<br>\
+certain kind of thorny plant, or tree; (S, K;) a<br>\
+plant of the sour kind (مِنَ الحَمْضِ): accord. to<br>\
+ISd, a kind of thorny plant or tree, i. q. كَبُرٌ<br>\
+[or caper]: or a certain plant different from<br>\
+that just named: or a certain kind of tree: accord. to AHn, an evergreen, of which the roots<br>\
+extend far into the ground; which, cooked, is<br>\
+used as a medicine; having slender and long<br>\
+leaves, seeming as numerous as the thorns: (TA:)<br>\
+[asparago sylvestri similis: (Golius, from Ibn-Beytár:) this name, and عَاقُول, are now applied<br>\
+by the Arabs to the plant called by European<br>\
+botanists hedysarum alhagi: see عَاقُولٌ and<br>\
+تَرَنْجُبِينٌ:] dim. ↓ حُيَيْجٌ; therefore its medial<br>\
+radical letter is ى; (K;) and ↓ حِيَيْجٌ is a chaste<br>\
+dial. var. of this dim., agreeably with a usage<br>\
+observed in similar cases [when the medial radical<br>\
+letter is ى]. (TA.)<br>\
+حُيَيْجٌ and حِيَيْجٌ: see what next precedes.<br>\
+' } );

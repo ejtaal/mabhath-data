@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'اوسآسٌ [The myrtle;] a certain kind of tree,<br>\
+(S, Msb, K,) well known, (S, K,) fragrant,<br>\
+(IDrd, M, Msb,) and evergreen, abundant in the<br>\
+land of the Arabs, growing in the plains and<br>\
+mountains, and increasing so as to become a great<br>\
+tree: (AHn, M, TA:) n. un. with ة: (AHn,<br>\
+M, Msb, K:) IDrd says, I think it an adventitious<br>\
+word, although used by the Arabs, and occurring<br>\
+in chaste poetry. (M, TA.)<br>\
+' } );

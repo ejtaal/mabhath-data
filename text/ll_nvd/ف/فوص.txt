@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'فوص3<br>\
+المُفَاوَصَةُ signifies The being clear, or perspicuous, syn. البَيَانُ, (S, O, K,) in talk or discourse (فِى الحَدِيثِ). (S. [In the O, and K,<br>\
+مِنَ الحَدِيثِ; and hence it is said in the TK that<br>\
+فَاوَصَ الحَدِيثَ signifies بَيَّنَهُ He made the talk, or<br>\
+discourse, clear, or perspicuous: but for this I do<br>\
+not find any authority.]) Some say المُفَايَصَةُ.<br>\
+(IB, TA in art. فيص.) [See also 4 in art. فيص.]<br>\
+4<br>\
+مَا أَفَاصَ بِكَلِمَةِ: see art. فيص. [It seems to<br>\
+be indicated in the S that this is from المُفَاوَصَةُ,<br>\
+expl. above: and the like of this is app. said by<br>\
+IB.]<br>\
+6<br>\
+التَّفَاوُصُ signifies التَّبَايُنُ [The being, or becoming, separated, one from another]; from البَيْنُ,<br>\
+not from البَيَانُ: (O, K:) originally التَّفَايُصُ;<br>\
+mentioned also [in a different sense] in art. فيص.<br>\
+(TA.) See the latter art.<br>\
+' } );

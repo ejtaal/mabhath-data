@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>علند</em>            1                  علند<br>\
+<b>عَلَنْدٌ</b>               1     <br>\
+                     عَلَنْدٌ<br>\
+                     ذ<br>\
+                   and عَلَنْدَدٌ and عَلَنْدًى &amp;amp;c.: see arts. علد and عند.   </entryFree> <br>\
+' } );

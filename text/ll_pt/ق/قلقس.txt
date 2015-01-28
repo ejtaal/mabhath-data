@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قلقس</em>            1                  قلقس<br>\
+<b>قُلْقَاسٌ</b>               1     <br>\
+                     قُلْقَاسٌ<br>\
+                     ذ<br>\
+                   [The <i>colocasia;</i> or <i>arum. colocasia</i> of Linnæus: or <i>its root:</i>] the <i>root of a certain plant, which is eaten cooked,</i> (AHn, K,) <i>and used medicinally:</i> (AHn:) <i>the decoction thereof increases the venereal faculty, and fattens; but the taking it constantly engenders black bile.</i> (AHn, K.) [See De Sacy&#39;s “ Relation de l&#39;Egypte par Abd-allatif, ” pp. 94 — 98.]   </entryFree> <br>\
+            <div2 n=&quot;qlm qlw qlY qm~&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قلم قلو قلى قمّ<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

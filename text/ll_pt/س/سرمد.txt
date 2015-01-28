@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>سرمد</em>            1                  سرمد<br>\
+<b>سَرْمَدٌ</b>               1     <br>\
+                     سَرْمَدٌ<br>\
+                     ذ<br>\
+                   [signifies, or implies,] <i>Continuance,</i> or <i>incessant continuance,</i> (دَوَام, Kh, M, L, and اِتِّصَال, Kh, L,) of time, (Kh, M, L,) either of night or of day. (Kh, L.) [I have said “ or implies ” because I have not found it used otherwise than as an epithet, in the following senses.] ―         -b2-  <i>Continuing;</i> or <i>continuing incessantly,</i> or <i>endlessly;</i> syn. دَايِمٌ; (Zj, S, L, K;) or دَايِمٌ لَا <br>\
+                  يَنْقَطِعُ. (Nh, L.) It is applied in this sense to night (Nh, L) [and also to day: to each in the Kur xxviii. 71 and 72]: and to night as meaning <i>Long.</i> (L, K.) ―         -b3-  Accord. to El-Fakhr Er-Rázee, it is derived from السَّرْدُ, which denotes consecutiveness and uninterruptedness, and the م is added to give intensiveness to the signification: if so, its proper place is in art. سرد; its measure being فَعْمَلٌ: (MF:) [thus] its م is augmentative like the م in دُلَامِصٌ. (Bd in xxviii. 71.) ―         -b4-  One says also, هُوَ لَكَ سَرْمَدًا <br>\
+                  <i>He,</i> or <i>it, is thine ever,</i> or <i>for ever.</i> (Mgh in art. سمد.)    </entryFree> <br>\
+<b>سَرْمَدِىٌّ</b>               1     <br>\
+                     سَرْمَدِىٌّ<br>\
+                     ذ<br>\
+                  <i>Having neither beginning nor end.</i> (KT.)   </entryFree> <br>\
+' } );

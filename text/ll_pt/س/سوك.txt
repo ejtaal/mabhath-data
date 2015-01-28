@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>سوك</em>            1                  سوك<br>\
+<b>سَاكَ الشَّىْءَ</b>               1     <br>\
+                     سَاكَ الشَّىْءَ<br>\
+                     ذ<br>\
+                  , (IDrd, O, Msb, K,) aor. يَسُوكُ, inf. n. سُوْكٌ, (IDrd, O, Msb,) <i>He rubbed the thing,</i> or <i>rubbed it well.</i> (IDrd, O, Msb, K.) ―         -b2-  See also 2.       -A2-  And see 6.    </entryFree> <br>\
+<b>سوّك فَاهُ</b>               1     <br>\
+                     سوّك فَاهُ<br>\
+                     ذ<br>\
+                  , (S, O, Msb,) or سوّك فَمَهُ بِالعُودِ, (K,) inf. n. تَسْوِيكٌ; (S, O, Msb, K;) and ↓ <br>\
+      سَاكَهُ, (O, K,) aor. and inf. n. as in the first paragraph, (O,) or inf. n. سِوَاكٌ; (Msb; [there said to be an inf. n., as well as a subst. syn. with مِسْوَاكٌ, but without the mention of its verb;]) and ↓ <br>\
+      استاك and ↓ <br>\
+      تسوَك, these two used without the mention of the mouth (S, O, Msb, K) or the stick; (K;) [<i>He rubbed and cleaned his teeth with the</i> <br>\
+                  سِوَاك, or مِسْوَاك.]    </entryFree> <br>\
+                     تَسَوَّكَ<br>\
+                   see the next preceding paragraph.    </entryFree> <br>\
+<b>٦</b>               1     <br>\
+                     تَسَاوُكٌ<br>\
+                     ذ and        <br>\
+      سِوَاكٌ<br>\
+                   [each an inf. n., the verb of the latter, if it have one, being app. ↓ <br>\
+      سَاكَ,] <i>A weak manner of going:</i> or <i>a bad manner of going, resulting from slowness or emaciation:</i> (K, TA:) so says ISk. (TA.) One says, جَا=ءَتِ <br>\
+                  الاـِبِلُ تَسَاوَكُ, [for تَتَسَاوَكُ,] i. e. <i>The camels came inclining from side to side, in consequence of weakness, in their going along.</i> (S, O.) [Or] تساوكت الاـِبِلُ means <i>The camels had an agitation of their necks in consequence of leanness.</i> (IF, Msb.) In the M it is said that جَا=ءَت الغَنَمُ <br>\
+                  مَاتَسَاوَكُ means <i>The sheep,</i> or <i>goats, came, not moving their heads, in consequence of weakness.</i> (TA.)    </entryFree> <br>\
+                     اـِسْتَوَكَ<br>\
+                   see 2.    </entryFree> <br>\
+<b>سِوَاكٌ</b>               1     <br>\
+                     سِوَاكٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      مِسْوَاكٌ signify the same; (S, Mgh, O, Msb, K;) i. e. <i>A tooth-stick; a piece of stick with which the teeth are rubbed</i> [<i>and cleaned, the end being made like a brush by beating or chewing it so as to separate the fibres</i>]; (K, * TA;) [commonly] <i>a piece of stick of the</i> [<i>kind of tree called</i>] اَرَاك: (Msb:) accord. to IDrd, derived from سُكْتُ الشَّىْءَ meaning “ I rubbed, or rubbed well, the thing; ” (O, Msb;) accord. to IF, from تساوكت الاـِبِلُ [expl. above]: (Msb:) accord. to Lth, (T, TA,) سِوَاكٌ is masc. and fem., (IDrd, T, M, O, K,) though it is the more approvable way to make it masc.; (O;) but Az holds this to be a mistake, and the word to be masc. [only]; and Hr says that this assertion of Lth is one of his foul mistakes: (TA:) its pl. is سُوُكٌ (S, O, Msb, K) and سُوْكٌ (Az, TA) and سُوُكٌ, (AHn, TA,) and [of pauc.] اَسْوِكَةٌ; and the pl. of ↓ <br>\
+      مِسْوَاكٌ is مَسَاوِيكُ. (TA.) In the saying, in a trad., خَيْرُ <br>\
+                  خِلَالِ الصَّايِمِ السِّوَاكُ, a prefixed n. is [said to be] suppressed [so that the meaning is <i>The best of the habits,</i> or <i>customs, of the faster is</i> the use of <i>the tooth-stick:</i> but see 2, where سِوَاكٌ is said, on the authority of the Msb, to be also an inf. n.].    </entryFree> <br>\
+<b>مِسْوَاكٌ</b>               1     <br>\
+                     مِسْوَاكٌ<br>\
+                     ذ<br>\
+                  : see سِوَاكٌ, in two places.   </entryFree> <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>دعى</em>            1                  دعى<br>\
+<b>دَعَيْتُ</b>               1     <br>\
+                     دَعَيْتُ<br>\
+                     دعا<br>\
+                     دعيت<br>\
+                  , aor. اَدْعِى, inf. n. دُعَا=ءٌ: see 1 in art. دعو.    </entryFree> <br>\
+<b>دَعِىٌّ</b>               1     <br>\
+                     دَعِىٌّ<br>\
+                     دعا<br>\
+                     دعى<br>\
+                     دعي<br>\
+                     ودع<br>\
+                  : &amp;amp;c.: see art. دعو.   </entryFree> <br>\
+' } );

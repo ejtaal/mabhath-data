@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'توح1<br>\
+تَاحَ, aor. يَتُوحُ, inf. n. تَوْحٌ: see تَاحَ in art.<br>\
+تيح.<br>\
+' } );

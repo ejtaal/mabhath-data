@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'جلىSome words are mentioned in the K under this<br>\
+head belonging to art. جلو, q. v.<br>\
+' } );

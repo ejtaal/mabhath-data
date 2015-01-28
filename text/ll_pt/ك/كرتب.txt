@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>كرتب</em>            1                  كرتب<br>\
+<b>تكرتب عَلَيْنَا</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تكرتب عَلَيْنَا<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  تقلّب (<i>He turned over upon us</i> or <i>turned against us:</i>) accord. to the K: but accord. to the L and other lexicons, <i>i. q.</i> <br>\
+                  تغلّب (<i>He got possession of us,</i> or <i>obtained the mastery over us, by force</i>). (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'معت1<br>\
+مَعَتَ, aor.<br>\
+مَعَتَ, (inf. n. مَعْتٌ, TA,) He rubbed<br>\
+(K) a skin, or hide. (TA.)<br>\
+' } );

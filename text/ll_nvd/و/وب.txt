@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'وب1<br>\
+وَبَّ (originally أَبَّ, the أ being changed<br>\
+into و, Az,) inf. n. وَبٌّ; and ↓ وَبَوبَ, inf. n. وَبْوَبَةٌ;<br>\
+He prepared to charge, or make an assault, in<br>\
+battle. (K.) See art. أب.<br>\
+R. Q. 1<br>\
+وَبْوَبَ: see 1.<br>\
+' } );

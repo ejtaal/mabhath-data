@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'هذى1<br>\
+هَذَى<br>\
+He talked nonsense; he raved, or<br>\
+talked irrationally, foolishly, or deliriously;<br>\
+(JK, K;) by reason of disease or some other<br>\
+cause. (K.) ―<br>\
+-b2-  هَذَىبِهِ<br>\
+He talked irrationally,<br>\
+&amp;c., with him. (TA.) ―<br>\
+-b3-  And He mentioned<br>\
+him, or it, in his irrational, &amp;c., talk. (TA.)<br>\
+3<br>\
+غَعَدَ يُهَاذِىأَصْحَابَهُ<br>\
+[He sat talking irrationally, &amp;c., with his companions]. (TA.) ―<br>\
+-b2-<br>\
+سَمِعْتُهُمْ يَتَهَاذُونَ [I heard them talking together<br>\
+irrationally, &amp;c.] (TA.)<br>\
+شَرَابٌ هَاذٍ<br>\
+(tropical:)  [Beverage causing delirious, or<br>\
+irrational, talk.] (TA.)<br>\
+' } );

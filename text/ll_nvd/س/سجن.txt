@@ -1,0 +1,80 @@
+load_data( { book: 'll_nvd', text: 'سجن1<br>\
+سَجَنَهُ, (S, Msb, K,) aor.<br>\
+سَجُنَ, inf. n. سَجْنٌ,<br>\
+(S, Msb,) He imprisoned him. (S, Msb, K.) ―<br>\
+-b2-<br>\
+[Hence,] it is said in a trad., مَا شَىْءٌ أَحَقَّ بِطُولِ<br>\
+السَّجْنِ مِنْ لِسَانٍ (assumed tropical:)  [There is not anything more<br>\
+deserving of long restraint than a tongue]. (L.)<br>\
+―<br>\
+-b3-  And سَجَنَ الهَمَّ (tropical:)  He secreted anxiety; did not<br>\
+reveal it. (L, K.) A poet says,<br>\
+وَ لَا تَسْجُنَنَّ الهَمَّ إِنَّ لِسَجْنِهِ<br>\
+عَنَآءً وَ حَمِّلْهُ المَهَارَى النَّوَاجِيَا<br>\
+(tropical:)  [And by no means secrete thou anxiety: verily<br>\
+to the secreting thereof pertains embarrassment:<br>\
+but load with it fleet camels of Mahreh]. (L.)<br>\
+2<br>\
+سجّنهُ, inf. n. تَسْجِينٌ, i. q. شَقَّقَهُ [He cut it,<br>\
+or divided it, lengthwise; clave it; split it; &amp;c.].<br>\
+(K.) ―<br>\
+-b2-  And سجّن النَّخْلَ He made the palmtrees to be such as are termed سِلْتِين [or سِجِّين;<br>\
+i. e. he dug at their feet trenches to conduct the<br>\
+water to them when it did not reach to them]. (K.)<br>\
+سِجْنٌ A prison; (S, L, Msb, K;) as also<br>\
+↓ سِجِّينٌ: (L:) pl. of the former سُجُونٌ. (Mgh,<br>\
+Msb.)<br>\
+سَجِينٌ is syn. with ↓ مَسْجُونٌ [Imprisoned];<br>\
+pl. سُجَنَآءُ and سَجْنَى: and is applied to a female<br>\
+likewise, as also سَجِينَةٌ; pl. سَجْنَى and سَجَائِنُ.<br>\
+(K.)<br>\
+سَجَّانٌ The keeper of a prison. (K.)<br>\
+سِجِّينٌ: see سِجْنٌ. ―<br>\
+-b2-  [In the Kur lxxxiii. 7,]<br>\
+A certain place in which is the record [of the<br>\
+deeds] of the wicked; (S, L, K;) or, as I &#39;Ab<br>\
+says, in which are their registers: AO says, it is<br>\
+of the measure فِعِّيلٌ from السِّجْنُ, like الفِسِّيقُ<br>\
+from الفِسْقُ: (S, L:) or a certain valley in Hell:<br>\
+or a certain stone, [or rock,] (L, K,) beneath,<br>\
+(L,) or in, (K,) the seventh earth: (L, K:)<br>\
+[these explanations are given by those who hold<br>\
+that مَا سِجِّينٌ in the next verse is for مَا كِتَابُ<br>\
+سِجِّينٍ:] or it there means a register comprising<br>\
+the deeds of the wicked, (Bd, Jel, *) of the jinn,<br>\
+or genii, and of mankind, (Bd,) or of the devils<br>\
+and the unbelievers: (Jel:) or ما سجّين in the<br>\
+next verse is for ما كتاب سجّين, and the meaning is the place, (Bd, Jel,) which is beneath the<br>\
+seventh earth, the abode of Iblees and his forces:<br>\
+(Jel:) IAth says, it occurs in a trad. with the<br>\
+article ال; and without that article it is a proper<br>\
+name for the fire [of Hell], and hence the mention of it in the Kur lxxxiii. 7. (L.) [See also<br>\
+سِجِّيلٌ.]<br>\
+-A2-  Also Anything hard: (L:) and hard,<br>\
+vehement, or severe; (S, L, K;) applied to a<br>\
+beating. (S, L.) ―<br>\
+-b2-  And Continuing, lasting, or<br>\
+everlasting; syn. دَائِمٌ; (L, K;) as also سِجِّيلٌ:<br>\
+so accord. to El-Muärrij. (L. [See, again,<br>\
+سِجِّيلٌ.])<br>\
+-A3-  And i. q. عَلَانِيَة: (L, K:) so in the<br>\
+saying, عَمِلَ ذٰلِكَ سِجِّينًا [He did that openly,<br>\
+or publicly]. (L.)<br>\
+-A4-  Also Palm-trees (نَخْل)<br>\
+such as are termed سِلْتِين (As, L, K) in the dial.<br>\
+of the people of El-Bahreyn; (As, L;) [app.<br>\
+meaning that the latter word is of that dial.; for<br>\
+it is said that] the Arabs [app. the Arabs in<br>\
+general] say سِجِّين in the place of سِلْتِين, which<br>\
+is not Arabic: (L:) the palm-trees thus termed<br>\
+are such as have trenches dug at their feet to<br>\
+conduct the water to them when it has not reached<br>\
+to them. (L, and K in art. سلتن.)<br>\
+سَاجُونٌ Iron such as is termed أَنِيث [i. e.<br>\
+female, meaning soft]. (L.)<br>\
+[<br>\
+مَسْجَنَةٌ, accord. to Freytag, The act of imprisoning: but it seems rather to be a word of the<br>\
+class of مَبْخَلَةٌ and مَجْبَنَةٌ &amp;c., and to signify a<br>\
+cause of imprisonment.]<br>\
+مَسْجُونٌ: see سَجِينٌ.<br>\
+' } );

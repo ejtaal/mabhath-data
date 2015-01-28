@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>هرل</em>            1                  هرل<br>\
+<b>هَرْوَلَ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     هَرْوَلَ<br>\
+                     ذ<br>\
+                  <i>He walked quickly:</i> (Msb:) [<i>he went a kind of trotting pace between a walk and a run;</i> see رَمَلَ;) هَرْوَلَةٌ is <i>not so quick as</i> <br>\
+                  خَبَبٌ [<i>an amble</i>]; (Msb;) and is <i>between</i> <br>\
+                  مَشْىٌ [<i>a walk</i>] <i>and</i> <br>\
+                  عَدْوٌ [<i>a run</i>]: (S, Msb, K:) it is <i>a kind of</i> <br>\
+                  عَدْوٌ: (S:) or <i>quicker than</i> <br>\
+                  عَنَقٌ: or <i>a quick walk.</i> (K.)   </entryFree> <br>\
+' } );

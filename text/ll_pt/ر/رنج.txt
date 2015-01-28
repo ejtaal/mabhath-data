@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>رنج</em>            1                  رنج<br>\
+<b>رَانِجٌ</b>               1     <br>\
+                     رَانِجٌ<br>\
+                     ذ<br>\
+                  , (El-Fárábee, S, A, Mgh, Msb, K,) or رَانَجٌ, (Msb,) The <i>Indian nut,</i> or <i>cocoa-nut:</i> (AHn, S, A, Mgh, Msb, K, TA:) thought by AHn to be an arabicized word: (TA:) [J says,] “ I do not think it to be Arabic: ” (S:) pl. رَوَانِجُ. (Msb.) ―         -b2-  Also <i>A kind of smooth date,</i> (Msb, K,) so some say, (Mgh,) <i>like that called</i> <br>\
+                  تَعْضُوض: [a coll. gen. n.:] n. un. with ة. (K.) ―         -b3-  وَلَدُ <br>\
+                  الرَّانِجِ is a name given by the children of Mekkeh to The مُقْل [or <i>fruit of the</i> <br>\
+                  دَوْم, i. e. <i>cucifera Thebaïca,</i> or <i>Theban palm</i>]. (A.)   </entryFree> <br>\
+' } );

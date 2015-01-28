@@ -1,0 +1,78 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;هتا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  هتا<br>\
+&lt;entryFree id=&quot;n40867&quot; key=&quot;هَتَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     هَتَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَتَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. هَتْءٌ, (TA,) &lt;i&gt;He beat&lt;/i&gt; a person (K) with a staff or stick. (TA.) ―         -b2-  هَتِيَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَتَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He was bent,&lt;/i&gt; or &lt;i&gt;crooked.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40868&quot; key=&quot;تهتّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تهتّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a garment) &lt;i&gt;became ragged, and worn out.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40869&quot; key=&quot;مَضَى مِنَ اللَّيْلِ هَتْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَضَى مِنَ اللَّيْلِ هَتْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and ↓ <br>\
+      هِتْءٌ, (ISk, K,) and ↓ <br>\
+      هَتِىْءٌ, (Lh, K,) and ↓ <br>\
+      هَتِىٌّ, (Lh,) and ↓ <br>\
+      هِتَاءٌ, and ↓ <br>\
+      هِيتِيٌ (same measure as زِبْرِجٌ, as in the TA), or ↓ <br>\
+      هِتْيَا=ءٌ, (as in the CK and a MS. copy) and ↓ <br>\
+      هِيتَا=ءٌ, (K,) and ↓ <br>\
+      هَتْاَةٌ, (AHeyth, K,) &lt;i&gt;A portion of the night elapsed&lt;/i&gt; (K, &amp;amp;c.) ―         -b2-  مَا بَقِىَ مِنْ غَنَمِهِمْ اـِلَّا هِتْءٌ <br>\
+                  &lt;i&gt;There remained not, of their sheep,&lt;/i&gt; or &lt;i&gt;goats, save a part, less than the part that had gone away.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40870&quot; key=&quot;هِتْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِتْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40871&quot; key=&quot;هَتَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَتَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      هُتُوْءٌ <br>\
+                  &lt;i&gt;A rent.&lt;/i&gt; (K.) ―         -b2-  &lt;i&gt;A swelling:&lt;/i&gt; syn. نُتُوٌّ, (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40872&quot; key=&quot;هَتْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَتْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40873&quot; key=&quot;هِتَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِتَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40874&quot; key=&quot;هَتِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَتِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40875&quot; key=&quot;هَتِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَتِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40876&quot; key=&quot;هُتُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُتُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتَاٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40877&quot; key=&quot;هِتْيَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِتْيَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40878&quot; key=&quot;هِيتَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِيتَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40879&quot; key=&quot;هِيتِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هِيتِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَتْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40880&quot; key=&quot;اَهْتَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَهْتَاُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Humpbacked.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

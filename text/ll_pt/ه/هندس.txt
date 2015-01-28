@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>هندس</em>            1                  هندس<br>\
+<b>هَنْدَسَةٌ</b>               1     <br>\
+                     هَنْدَسَةٌ<br>\
+                     ذ<br>\
+                   [The <i>art of determining the measures and proportions of subterranean channels for water:</i> and hence, the <i>art of architecture:</i> and the <i>practice,</i> and <i>science, of geometry:</i>] a subst. from مُهَنْدِسٌ, q. v. (S, K.)    </entryFree> <br>\
+<b>مُهَنْدِسٌ</b>               1     <br>\
+                     مُهَنْدِسٌ<br>\
+                     ذ<br>\
+                  <i>One who determines the measures and proportions of subterranean channels for water:</i> [and hence, <i>an architect:</i> and <i>a geometrician:</i> derived from هِنْدَازٌ, (S, K,) which is Persian [in origin], (S,) arabicized from ا=بْ <br>\
+                  اَنْدَازْ; (K;) انداز signifying “ the act of measuring, ” and ا=ب signifying “ water; ” (TA;) the ز being changed into س because there is not in the [genuine] language of the Arabs a ز after د. (S, K.)   </entryFree> <br>\
+' } );

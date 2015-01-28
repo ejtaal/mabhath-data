@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'ذيبذَيْبٌ, (K,) like ذَابٌ, mentioned in art. ذوب,<br>\
+[and ذَيْمٌ] and ذَامٌ, (TA,) A vice, fault, defect, or<br>\
+the like. (K.)<br>\
+ذِيبٌ: see ذِئْبٌ, in art. ذأب.<br>\
+ذِيبَانٌ: see ذُوبَانٌ, in art. ذوب.<br>\
+أَذَيْبُ, [like أَزَيْبُ,] Much water. (K.) ―<br>\
+-b2-<br>\
+Fright, or fear. (K.) As mentions the saying,<br>\
+مَرَّ فُلَانٌ وَ لَهُ أَذَيْبُ [as though meaning Such a one<br>\
+passed having fright, or fear]: and he says, I<br>\
+think that one says أَزَيْبُ, with زاى having the<br>\
+meaning here following. (TA.) ―<br>\
+-b3-  Briskness,<br>\
+liveliness, sprightliness, or agility. (K.)<br>\
+أَرْضٌ مَذْيَبَةٌ: see مَذْأَبَةٌ, in art. ذأب.<br>\
+مَذْيُوبٌ: see مَذْؤُوبٌ, in art. ذأب.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'لأتSee art. ألت.<br>\
+لاًش<br>\
+See art. لوش.<br>\
+لأط لأظ لأف<br>\
+See Supplement<br>\
+' } );

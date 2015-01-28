@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'شalphabetical letter<br>\
+ش<br>\
+The thirteenth letter of the alphabet: called<br>\
+شِينٌ. It is one of the letters termed مَهْمُوسَة [or<br>\
+non-vocal, i. e. pronounced with the breath only,<br>\
+without the voice]; and of the letters termed<br>\
+شَجْرِيَّة, (TA,) from الشَّجْرُ, which means “ the<br>\
+place of the opening of the mouth. ” (TA on the<br>\
+letter ج. See also شِيْنٌ in art. شين.) It is sometimes substituted for the affixed pronoun of the<br>\
+second pers. fem., كِ; as in رَأَيْتُشِ for رَأَيْتُكِ, and<br>\
+as in the following verse,<br>\
+فَعَيْنَاشِ عَيْنَاهَا وَجِيدُشِ جِيدُهَا<br>\
+وَلٰكِنَّ السَّاقِ مِنْشِ رَقِيقُ<br>\
+[And thy two eyes are her two eyes, and thy neck<br>\
+is her neck; but the bone of thy shank is slender];<br>\
+i. e. عَيْنَاكَ and جِيْدُكِ and مِنْكِ: this substitution<br>\
+for the affixed pronoun of the second pers. fem.<br>\
+is of dial. of Benoo-&#39;Amr and Temeem; and<br>\
+is not restricted to cases of pausation, as is shown<br>\
+by the verse above cited, though some assert it to<br>\
+be so: it is also substituted for the ك of دِيك,<br>\
+when with kesr, so that they said دِيشٍ: also for<br>\
+جٍ, as in مُدَمَّشٌ[or مُدْمَشٌ], for مُدَمَّجٌ [or<br>\
+مُدْمَجٌ]: and for س, as in جَعْشُوشٌ, for جَعْسُوسٌ.<br>\
+(MF. [See also De Sacy&#39;s Chrest, Arabe, sec.<br>\
+ed., iii. 530-31.])<br>\
+-A2-  [As a numeral, it denotes<br>\
+Three hundred.]<br>\
+' } );

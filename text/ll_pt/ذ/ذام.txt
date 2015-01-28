@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>ذام</em>            1                  ذام<br>\
+<b>ذَاَمَهُ</b>               1     <br>\
+                     ذَاَمَهُ<br>\
+                     ذ<br>\
+                  , (T, S, M, Msb, K,) aor.      <br>\
+                     ذَاََ<br>\
+                  , (S, M, Msb, K,) inf. n. ذَاْمٌ, (S, * M,) <i>He blamed,</i> or <i>found fault with, him,</i> or <i>it;</i> (T, S, Msb;) namely, a man, (T, [in which it is said that ذَاَمْتُهُ in the sense of عِبْتُهُ is more common than ذَمَمْتُهُ, ” though the contr. seems to be manifestly the case,]) or a commodity; (Msb;) and <i>he despised him;</i> like ذَاَبَهُ: (S:) and <i>he despised him and beat him:</i> (T:) and <i>he despised him and blamed him:</i> (T, M, K:) or <i>he despised him and drove him away;</i> like ذَاَبَهُ: (M:) and simply <i>he drove him away:</i> (M, K:) or <i>he drove him away and beat him;</i> like ذَاَبَهُ: (M and TA in art. ذاب:) and <i>he repaid him,</i> or <i>requited him;</i> syn. جَزَاهُ: (T and M:) or <i>he overcame him in abasing;</i> syn. خَزَاهُ. (K and TA. [So in my MS. copy of the K and in the CK: but I doubt not that جَزَاهُ is the right reading.])    </entryFree> <br>\
+<b>اذامهُ</b>               1     <br>\
+                     اذامهُ<br>\
+                     ذ<br>\
+                  , (TA,) inf. n. اـِذْا=مٌ, (K, TA,) <i>He frightened him,</i> or <i>terrified him;</i> syn. of the inf. n. رُعْبٌ. (K, TA.) ―         -b2-  اَذْاَمْتَنِى عَلَى كَذَا <br>\
+                  <i>Thou compelledst me against my will to do such a thing.</i> (Fr, S.)    </entryFree> <br>\
+<b>ذَاْمٌ</b>               1     <br>\
+                     ذَاْمٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  عَيْبٌ [as a subst., meaning <i>A vice, fault, defect,</i> or <i>the like;</i> like ذَامٌ, without ء, and ذَيْمٌ; as well as an inf. n. of 1, q. v.]: with and without ء (S.)    </entryFree> <br>\
+<b>ذَاْمَةٌ</b>               1     <br>\
+                     ذَاْمَةٌ<br>\
+                     ذ<br>\
+                  <i>A word:</i> so in the saying, مَا سَمِعْتُ لَهُ ذَاْمَةً [<i>I heard not a word that he had</i> to utter]. (K.)    </entryFree> <br>\
+<b>مَذْوُومٌ</b>               1     <br>\
+                     مَذْوُومٌ<br>\
+                     ذ<br>\
+                   pass. part. n. of 1. (S, Msb.) مَذْوُومًا in the Kur [vii. 17] means <i>Blamed:</i> (TA:) or <i>driven away:</i> (M, TA:) or, accord. to Lh and Mujáhid, <i>banished.</i> (T, TA. *)   </entryFree> <br>\
+' } );

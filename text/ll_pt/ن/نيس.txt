@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نيس</em>            1                  نيس<br>\
+<b>نَيْسَانُ</b>               1     <br>\
+                     نَيْسَانُ<br>\
+                     ذ<br>\
+                   [vulg. نِيسَان] <i>The seventh of the Greek</i> [or <i>Syrian</i>] <i>months;</i> (K;) [<i>corresponding to April, O. S.</i>] It is [said to be] a property of the water of its rain, that dough kneaded with it ferments without other treatment. (TA.)   </entryFree> <br>\
+' } );

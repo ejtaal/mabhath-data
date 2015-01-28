@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ريحFor several words mentioned under this head<br>\
+in some of the Lexicons, see art. روح.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'نفأنُفْأَةٌ One of several parts, or portions, of<br>\
+scattered herbage: or one of several adjacent<br>\
+meadows (رِيَاض), separated from, and rising<br>\
+above, the greater part of the pasture. pl. نُفًا<br>\
+(K.)<br>\
+' } );

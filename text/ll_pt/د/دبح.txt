@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>دبح</em>            1                  دبح<br>\
+<b>دبّح</b>               1     <br>\
+                     دبّح<br>\
+                     دبح<br>\
+                  , inf. n. تَدْبِيحٌ, (S, Msb, K, &amp;amp;c.,). said of a man, (S, Msb, &amp;amp;c.,) <i>He stretched out his back, and lowered his head,</i> (As, S, Msb, * K,) <i>so that his head was lower than his posteriors;</i> (As, S, Msb; *) as also ↓ <br>\
+      اندبح; (K;) and so دبّخ, [q. v.,] with خ: (Msb:) the doing thus in inclining the body in prayer, like as the ass does [when he is mounted], is forbidden in a trad.: (S, Msb:) i. e. <i>he lowered his head</i> in inclining his body in prayer <i>so that it was lower than his back:</i> (A&#39;Obeyd, Msb:) or <i>he lowered his head, and raised his posteriors,</i> in prayer: (TA:) or [simply] <i>he lowered his head;</i> (IAar, T, TA;) as also دبّخ [q. v.]: (T, TA:) or <i>he did so</i> in walking: (TA:) or <i>he bent his back;</i> (Lh, T, Msb, TA;) as also دبّخ; with which As says that دنّخ, with ن and خ, is syn.: (Msb:) and دبّح ظَهْرَهُ signifies <i>he</i> (a man) <i>bent his back, raising the middle of it as though it were a camel&#39;s hump:</i> erroneously related by Lth with ذ. (T, TA.) ―         -b2-  Also <i>He</i> (a boy, in play,) <i>lowered his back in order that another might come running from a distance and mount upon him.</i> (Aboo- &#39;Adnán, TA.) And one says, دَبِّحْ لِى حَتَّى اَرْكَبَكَ, meaning <i>Stoop for me in order that I may mount upon thee.</i> (TA.) ―         -b3-  Also, said of an ass having a sore back, <i>He relaxed his legs, and lowered his back and rump,</i> by reason of pain, on being mounted. (L.) ―         -b4-  And <i>He was,</i> or <i>became, low, base, abject,</i> or <i>ignominious.</i> (IAar, K.) [And so دَنَّحَ and دَنَّحَ.] ―         -b5-  دبّحت الكَمْاَةُ [<i>The truffles pushed up the ground above them,</i> or] <i>the ground swelled up from the truffles, without their appearing</i> (K) <i>as yet.</i> (TA.) ―         -b6-  دبّح فِى بَيْتِهِ <br>\
+                  <i>He kept in his house,</i> or <i>tent; not going forth.</i> (K.)    </entryFree> <br>\
+                     اـِنْدَبَحَ<br>\
+                   see 1, first sentence.    </entryFree> <br>\
+<b>مَا بِالدَّارِ دِبِّيحٌ</b>               1     <br>\
+                     مَا بِالدَّارِ دِبِّيحٌ<br>\
+                     ما بالدار دبيح<br>\
+                  <i>There is not in the house any one,</i> (A&#39;Obeyd, K;) as also دِبِّيجٌ [q. v.]; but the former is the more chaste. (TA.)    </entryFree> <br>\
+<b>رَمْلَةٌ مُدَبِّحَةٌ</b>               1     <br>\
+                     رَمْلَةٌ مُدَبِّحَةٌ<br>\
+                     رملة مدبحه<br>\
+                     رملة مدبحة<br>\
+                  <i>A gibbous tract of sand:</i> pl. مَدَابِحُ: (ISh, K:) you say رِمَالٌ مَدَابِحُ. (TA.)   </entryFree> <br>\
+' } );

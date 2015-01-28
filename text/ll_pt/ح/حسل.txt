@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>حسل</em>            1                  حسل<br>\
+<b>احتسل</b>               1     <br>\
+                     احتسل<br>\
+                     احتسل<br>\
+                  <i>He hunted, caught, snared,</i> or <i>entrapped, the [young lizards termed]</i> <br>\
+                  حُسُول, pl. of حِسْلٌ. (O, K. *)    </entryFree> <br>\
+<b>حِسْلٌ</b>               1     <br>\
+                     حِسْلٌ<br>\
+                     حسل<br>\
+                   The <i>young one of the</i> [kind of lizard called] ضَبّ, (AZ, S, Mgh, K,) <i>when it first comes forth from its egg:</i> (AZ, S, K:) it is next called غَيْدَاقٌ; then, مُطَبِّخٌ; then, خُضَرِمٌ; and then, ضَبٌّ: (S and L voce مُطَبِّخٌ: [but see this word:]) pl. [of pauc.] اَحْسَالٌ (K) and [of mult.] حُسُولٌ (S, K) and حِسْلَانٌ, with kesr, and حِسَلَةٌ, (K, TA,) with kesr and then fet-h. (TA. [In the CK حَسِلَةٌ.]) [Hence,] اَبُو الحِسْلِ, (S,) or اَبُو <br>\
+                  حِسْلٍ, and ↓ <br>\
+      اَبُو حُسَيْلٍ, (K,) <i>The [lizard called]</i> <br>\
+                  ضَبّ. (S, K.) [Hence also,] لَا ا=تِيكَ سِنَّ الحِسْلِ, i. e. <i>I will not come to thee ever,</i> (S, K,) <i>until thy death:</i> (S:) because the tooth of the حسل does not fall out: (S, K:) a prov. (S.)    </entryFree> <br>\
+<b>حُسَيْلٌ</b>               1     <br>\
+                     حُسَيْلٌ<br>\
+                     حسيل<br>\
+                  : see حِسْلٌ [of which it is the dim.].   </entryFree> <br>\
+' } );

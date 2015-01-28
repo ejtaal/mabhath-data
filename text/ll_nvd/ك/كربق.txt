@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كربقكُرْبَقٌ The shop of a vintner: syn. حَانُوت.<br>\
+As, in TA, voce خص.)<br>\
+' } );

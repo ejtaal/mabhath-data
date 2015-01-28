@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يهت</em>            1                  يهت<br>\
+<b>ايهت</b>               1     <br>\
+                     ايهت<br>\
+                     ذ<br>\
+                   (as also اوهت, TA) <i>It</i> (flesh-meat, K, or a wound, TA) <i>became stinking.</i> (AZ, K.)   </entryFree> <br>\
+' } );

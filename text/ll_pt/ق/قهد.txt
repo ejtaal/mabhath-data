@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قهد</em>            1                  قهد<br>\
+<b>قَهْدٌ</b>               1     <br>\
+                     قَهْدٌ<br>\
+                     ذ<br>\
+                  <i>Clear in colour.</i> (L, K.) ―         -b2-  <i>White;</i> as also قَهْبٌ: (A &#39;Obeyd, L:) by some specially applied to the young of antelopes and cows: (L:) or <i>of a dingy, or dusky, white;</i> as also قَهْبٌ. (S, L.)   </entryFree> <br>\
+' } );

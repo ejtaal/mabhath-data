@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>وطح</em>            1                  وطح<br>\
+<b>وَطَحَهُ</b>               1     <br>\
+                     وَطَحَهُ<br>\
+                     ذ<br>\
+                  , aor. يَطِحُ, (inf. n. طِحَةٌ, TA,) <i>He pushed him,</i> or <i>thrust him, with his hands, ungently, harshly,</i> or <i>violently.</i> (K.)    </entryFree> <br>\
+<b>تواطح القَوْمُ</b>               1     <br>\
+                     تواطح القَوْمُ<br>\
+                     ذ<br>\
+                  <i>The people did evil,</i> or <i>mischief, one to another, by turns:</i> or <i>fought together.</i> (El-Umawee, S, K.) ―         -b2-  تواطحت <br>\
+                  الاـِبِلُ عَلَى الحَوْضِ, (TA,) or تواطحت الحَوْضَ, (K,) <i>The camels crowded,</i> or <i>pressed together, to the tank</i> or <i>cistern.</i> (K.)    </entryFree> <br>\
+<b>وَطَحٌ</b>               1     <br>\
+                     وَطَحٌ<br>\
+                     ذ<br>\
+                   [so in the S] and so written by Aboo-Sahl, but in the copies of the K وَطْحٌ, (TA,) <i>Dung</i> (عَرَّة) or <i>mud that adheres to cloven hoofs, and to the claws,</i> or <i>talons of birds:</i> (S, K:) n. un. with ة. (TA.)   </entryFree> <br>\
+' } );

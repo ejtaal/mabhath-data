@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ششبشَوْشَبٌ, mentioned in the K under this head<br>\
+and in art. شب: see the latter art.<br>\
+' } );

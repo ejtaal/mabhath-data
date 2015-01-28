@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>قلخ</em>            1                  قلخ<br>\
+<b>قَلَخَ</b>               1     <br>\
+                     قَلَخَ<br>\
+                     ذ<br>\
+                  , (S, L, K,) aor.      <br>\
+                     قَلَخَ<br>\
+                  , (K,) inf. n. قَلْخٌ (S, K) and قُلَاخٌ (L) and قَلِيخٌ, (Sb, S, K,) <i>He</i> (a stallion-camel) <i>brayed:</i> (S, L, K:) or <i>began to bray:</i> or <i>brayed vehemently, as though he pulled out the sound from his chest.</i> (L.) ―         -b2-  And قَلَخَ <br>\
+                  الشَّجَرَةَ <br>\
+                  <i>He pulled out,</i> or <i>up, the tree:</i> (K, TA:) the خ being substituted for ع. (TA.)       -A2-  And قَلَخَ <br>\
+                  <i>He struck a dry thing upon,</i> or <i>against, a dry thing.</i> (K.)    </entryFree> <br>\
+<b>قلّخهُ بِالسَّوْطِ</b>               1     <br>\
+                     قلّخهُ بِالسَّوْطِ<br>\
+                     ذ<br>\
+                  , inf. n. تَقْلِيخٌ, <i>He struck him a most vehement stroke with the whip.</i> (K.)       -A2-  And قلّخ النَّبْتُ <br>\
+                  <i>The plant,</i> or <i>herbage, became strong.</i> (K.)    </entryFree> <br>\
+<b>قَلْخٌ</b>               1     <br>\
+                     قَلْخٌ<br>\
+                     ذ<br>\
+                   A stallion-camel <i>excited by lust,</i> (K, TA,) <i>when he is</i> [<i>braying vehemently, as though</i>] <i>pulling out the sound of braying</i> [<i>from his chest:</i> see 1]. (TA.) ―         -b2-  And <i>An ass</i> [app. <i>a wild ass</i>] <i>advanced in age:</i> (K, TA:) and so قَلْحٌ; with ح as well as with خ. (TA; and K in art. قلح.) ―         -b3-  Also, [or perhaps قَصَبٌ قَلْخٌ,] <i>Hollow reeds</i> or <i>canes.</i> (K.)    </entryFree> <br>\
+<b>قَلَخْ قَلَخْ</b>               1     <br>\
+                     قَلَخْ قَلَخْ<br>\
+                     ذ<br>\
+                  , (K, TA,) with the final letter quiescent, (TA,) <i>An expression uttered to the stallion-camel on the occasion of covering.</i> (K.)    </entryFree> <br>\
+<b>قُلَاخٌ</b>               1     <br>\
+                     قُلَاخٌ<br>\
+                     ذ<br>\
+                  : see قَلَّاخٌ. ―         -b2-  Also <i>Large in the</i> <br>\
+                  هَامَة [or <i>head;</i> or <i>crown,</i> or <i>upper part, of the head</i>]: and hence used as a proper name, with the article ال, of the poet El-&#39;Amberee, and of others. (TA.)    </entryFree> <br>\
+<b>قَلَّاخٌ</b>               1     <br>\
+                     قَلَّاخٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      قُلَاخٌ A <i>braying</i> stallion-camel: or one <i>that brays vehemently.</i> (L.)   </entryFree> <br>\
+' } );

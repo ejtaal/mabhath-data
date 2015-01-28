@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>اُولَى</em>            1                  اُولَى<br>\
+<b>اَوَّلُ</b>               1     <br>\
+                     اَوَّلُ<br>\
+                     ذ<br>\
+                   fem. of اَوَّلُ: see the latter in art. وال.       -A2-   <br>\
+                  اُولَى as a pl., and its var. اُولَا=ءَ; and اُولٰيِكَ, or اُولَا=يِكَ; &amp;amp;c.: see اُلَى, in art. الى.   </entryFree> <br>\
+' } );

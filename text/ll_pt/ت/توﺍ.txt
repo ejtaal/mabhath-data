@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;توا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  توا<br>\
+&lt;entryFree id=&quot;n4170&quot; key=&quot;تَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَا=ءٌ<br>\
+                     تا=ء<br>\
+                  &lt;i&gt;The name of the letter&lt;/i&gt; <br>\
+                  ت, q. v.; as also تَا: pl. [of the former تَا=ءَاتٌ; and of the latter] اَتْوَا=ءٌ. (TA in باب الالف اللّينة.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4171&quot; key=&quot;تَايِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَايِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and تَاوِىٌّ rel. ns. of تَا=ءٌ and تَا the names of the letter ت; as also تَيَوِىٌّ: (TA ubi suprà:) whence قَصِيدَةٌ تَايِيَّةٌ and تَاوِيَّةٌ and تَيَوِيَّةٌ (T, K, TA, ubi suprà, [the last written in the CK تَيْوِيَّةٌ,] and the second is also mentioned in the S) &lt;i&gt;A&lt;/i&gt; <br>\
+                  قصيدة <br>\
+                  &lt;i&gt;of which the&lt;/i&gt; <br>\
+                  رَوِىّ. &lt;i&gt;is&lt;/i&gt; <br>\
+                  ت (TA ibid.)   &lt;/entryFree&gt; <br>\
+' } );

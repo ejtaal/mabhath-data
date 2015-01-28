@@ -1,0 +1,52 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كشا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كشا<br>\
+&lt;entryFree id=&quot;n36987&quot; key=&quot;كَشَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     كَشَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَشَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He ate&lt;/i&gt; cucumber. (S.) ―         -b2-  كَشَاَ, (S, K.) inf. n. كَشْءٌ, (S,) &lt;i&gt;He ate&lt;/i&gt; food: (TA:) or &lt;i&gt;he ate&lt;/i&gt; food &lt;i&gt;in the same manner as one eats cucumbers;&lt;/i&gt; (AZ, S, K;) &lt;i&gt;chewing with the extreme grinders,&lt;/i&gt; or &lt;i&gt;filling the mouth,&lt;/i&gt; (خَضْمًا,) &lt;i&gt;as in eating cucumbers and the like.&lt;/i&gt; (TA.) ―         -b3-  كَشَاَ and ↓ <br>\
+      كشّا, &lt;i&gt;He ate&lt;/i&gt; flesh-meat: [the latter] only used with reference to flesh-meat. (TA.) ―         -b4-  كَشَاَ <br>\
+                  &lt;i&gt;He ate&lt;/i&gt; a piece of كَشِىْء. (TA.) [See also 4 and 5.] ―         -b5-  كَشِيَ مِنَ الطَّعَامِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَشَاَ<br>\
+                  &lt;/form&gt;, inf. n. كَشْءٌ and كَشَا=ءٌ (K) and, accord. to some, كَشَاٌ; (TA;) and ↓ <br>\
+      تكشّا; (K;) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, filled with food.&lt;/i&gt; (K.)       -A2-  كَشَاَ, (S, K,) inf. n. كَشْءٌ; (S;) and ↓ <br>\
+      اكشا; (El-Umawee, S, K:) &lt;i&gt;He roasted&lt;/i&gt; meat &lt;i&gt;until it became dry.&lt;/i&gt; (AA, S, K.) ―         -b2-  كَشِيَ <br>\
+                  &lt;i&gt;It&lt;/i&gt; (a skin for water &amp;amp;c.) &lt;i&gt;had its inner skin appearing through its outer;&lt;/i&gt; (K;) as happens when a skin has been long folded, and has dried and broken in that state. (TA) ―         -b3-  كَشِيَتْ يَدُهُ <br>\
+                  &lt;i&gt;His hand chapped;&lt;/i&gt; or &lt;i&gt;its skin became rough and corrugated.&lt;/i&gt; (K.)       -A3-  كَشَاَ <br>\
+                  &lt;i&gt;He peeled&lt;/i&gt; a thing: (Fr, K:) used with reference to a hide. (TA.)       -A4-  كَشَاَ وَسَطَهُ <br>\
+                  &lt;i&gt;He smote and cut his,&lt;/i&gt; or &lt;i&gt;its, middle&lt;/i&gt; with a sword. (K, TA.)       -A5-  كَشَاَ <br>\
+                  &lt;i&gt;Inivit&lt;/i&gt; feminam. (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     كَشَّاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36988&quot; key=&quot;اكشا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اكشا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He ate.&lt;/i&gt; <br>\
+                  كَشِىْء. (TA.)       -A2-  And see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36989&quot; key=&quot;تكشّا اللَّحْمَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تكشّا اللَّحْمَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He ate dry meat&lt;/i&gt; [see كَشِىء], (S,) &lt;i&gt;and was filled with it.&lt;/i&gt; (TA.) See 1.       -A2-  تكشّا <br>\
+                  &lt;i&gt;It became peeled.&lt;/i&gt; (K.) ―         -b2-  تكشّا الاَدِيمُ <br>\
+                  &lt;i&gt;The hide became peeled:&lt;/i&gt; [i. e., its outer layer of skin, or scarf-skin, was shaven, or scraped off]. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36990&quot; key=&quot;كَشْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَشْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of 1, q. v. ―         -b2-  &lt;i&gt;Roughness and corrugation&lt;/i&gt; [or &lt;i&gt;chapping&lt;/i&gt;] in the skin of the hand. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36991&quot; key=&quot;كَشِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَشِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and كَشِىْءٌ <br>\
+                  &lt;i&gt;Filled with food.&lt;/i&gt; (K.)       -A2-  كَشِىْءٌ Meat &lt;i&gt;roasted until it becomes dry.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36992&quot; key=&quot;كُشْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كُشْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A vice, fault, defect, blemish,&lt;/i&gt; or &lt;i&gt;something amiss.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

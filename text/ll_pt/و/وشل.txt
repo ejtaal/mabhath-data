@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وشل</em>            1                  وشل<br>\
+<b>وَشَلٌ</b>               1     <br>\
+                     وَشَلٌ<br>\
+                     ذ<br>\
+                  : applied to water: see an ex. voce سَجَعَ; and another in a verse cited voce دَقَلٌ; and another voce رَاشِحٌ.    </entryFree> <br>\
+<b>وَشُولٌ</b>               1     <br>\
+                     وَشُولٌ<br>\
+                     ذ<br>\
+                   A she-camel <i>whose milk lasts throughout the year.</i> (IAar., in TA, art. شكر.)   </entryFree> <br>\
+' } );

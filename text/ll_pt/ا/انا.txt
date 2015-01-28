@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>انا</em>            1                  انا<br>\
+<b>اَنَا</b>               1     <br>\
+                     اَنَا<br>\
+                     ذ<br>\
+                   (pronoun of the first person sing.): see art. ان.   </entryFree> <br>\
+' } );

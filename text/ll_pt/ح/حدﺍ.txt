@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حدا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حدا<br>\
+&lt;entryFree id=&quot;n7294&quot; key=&quot;حَدَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَدَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see حَدَاَةٌ:       -A2-  and see also حِدَاَةٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n7295&quot; key=&quot;حِدَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حِدَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see حِدَاَةٌ, in three places:       -A2-  and see also what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n7296&quot; key=&quot;حَدَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَدَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (As, S, K) and ↓ <br>\
+      حِدَاَةٌ, but the former is the more chaste, (TA,) &lt;i&gt;A double-headed&lt;/i&gt; <br>\
+                  فَاْس [i. e. &lt;i&gt;hoe,&lt;/i&gt; or &lt;i&gt;adz,&lt;/i&gt; or &lt;i&gt;axe&lt;/i&gt;]: (As, S, K:) [a kind of فَاْس used in the present day is a hoe with two heads, one at each end of the handle:] or the &lt;i&gt;head of a&lt;/i&gt; <br>\
+                  فَاْس: and the &lt;i&gt;head of an arrow:&lt;/i&gt; (K:) pl. of the former ↓ <br>\
+      حَدَاٌ (As, S, K) [or rather this is a coll. gen. n.] and حِدَا=ءٌ, (K, TA, [in the CK حَداءٌ,]) mentioned by AO and As and A &#39;Obeyd; (TA;) and the pl. of حِدَاَةٌ is ↓ <br>\
+      حِدَاٌ (TA) [or rather this, like حَدَاٌ, is a coll. gen. n.].       -A2-  See also the next paragraph, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n7297&quot; key=&quot;حِدَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حِدَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Msb, K,) or ↓ <br>\
+      حِدَاٌ, [but see what follows,] sometimes pronounced ↓ <br>\
+      حَدَاٌ, (Mgh,) [The &lt;i&gt;kite;&lt;/i&gt; vulgarly called حِدَايَة;] &lt;i&gt;a certain bird,&lt;/i&gt; (S, Mgh, K,) &lt;i&gt;well known;&lt;/i&gt; (S, K;) &lt;i&gt;a certain noxious bird;&lt;/i&gt; (Msb;) &lt;i&gt;surnamed&lt;/i&gt; <br>\
+                  اَبُوالخَطَّافِ <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  ابو الصَّلْتِ; (TA;) &lt;i&gt;that preys upon large field-rats&lt;/i&gt; (جِرْذَان): (Mgh, TA:) J and Sgh say that the word should not be pronounced ↓ <br>\
+      حَدَاَةٌ; but AHei mentions this pronunciation on the authority of [some of] the Arabs; and accord. to IAar and IAmb, the فَاْس [see above] and this bird were sometimes called alike ↓ <br>\
+      حَدَاَةٌ and ↓ <br>\
+      حَدَاٌ: the more approved pronunciation of the name of the bird, however, is with kesr [i. e. حِدَاَةٌ]: the pl. is ↓ <br>\
+      حِدَاٌ (S, Msb, K) and حِدَا=ءٌ, (K,) both extr., (TA,) [or rather the former is a coll. gen. n.,] and حِدْا=نٌ: (Msb, K:) and the following are variations of the name of this bird: حُدَّى, and حُدَيَّا, (TA,) the latter said by AHát to be an erroneous form of the word, used by the people of El-Hijáz, (Mgh, TA,) and ↓ <br>\
+      حُدَيْيِيَةٌ, app. a dim., for ↓ <br>\
+      حُدَيْيَةٌ, also pronounced حُدَيَّةٌ, (TS, TA,) and حُدُوٌّ, occurring in a trad. in conjunction with اُفْعُوٌّ [for اَفْعًى], (Mgh, TA,) of the dial. of the people of Mekkeh. (TA in art. حدو.) &lt;pb n=&quot;527&quot; TEIform=&quot;pb&quot;/&gt; Hence the saying, وَرَا=ءَكِ بُنْدُقَة ↓ <br>\
+      حِدَاَ حِدَاَ, (S, K, TA,) for which the vulgar say, حَدَا حَدَا, (S,) [accord. to some, meaning &lt;i&gt;O kite, O kite, a bullet is behind thee:&lt;/i&gt; accord. to others, &lt;i&gt;O Hidà, O Hidà, Bundukah is behind thee:&lt;/i&gt;] Esh-Sharkee (Ibn-El-Kutámee, TA) says, (S,) حِدَاٌ and بُنْدُقَةُ were two tribes, descendants of حِدَاُ بْنُ نَمِرَةَ and بُنْدُقَةُ بْنُ مَظَّةَ, (S, K, *) and both of سَعْدُ العَشِيرَةِ; (S, TA;) the former in El-Koofeh, and the latter in El-Yemen: the former attacked the latter, and obtained spoil from them; and then the latter attacked the former, and destroyed them: (TA:) and hence this saying: (S, K, TA:) or حِدَاَ is here an apocopated form of حِدَاَة: (S, K:) so says ISk: (S:) and AO says that by it is here meant the bird [i. e. the kite]; and by بندقة, the thing with which one shoots [from a cross-bow, namely, a bullet]; and the prov. is used to caution a person: accord. to Ibn-El-Kelbee, it is applied to him who esteems himself cunning in an affair, and is outwitted therein by another: accord. to the A, to him who is threatened with an evil near at hand. (TA.)       -A2-  حِدَاَةٌ also signifies The سَالِفَة (meaning the &lt;i&gt;fore part,&lt;/i&gt; TA, [or the &lt;i&gt;fore part from beneath the ear to the middle of the collarbone,&lt;/i&gt;]) &lt;i&gt;of the neck of a horse:&lt;/i&gt; (As, K:) pl. حِدَا=ء/ق. (As, TA.)       -A3-  See also حَدَاَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n7298&quot; key=&quot;حُدَيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حُدَيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and حُدَيْيِيَةٌ: see the next preceding paragraph.   &lt;/entryFree&gt; <br>\
+' } );

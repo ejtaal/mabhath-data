@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قوه</em>            1                  قوه<br>\
+<b>قُوهَةٌ</b>               1     <br>\
+                     قُوهَةٌ<br>\
+                     ذ<br>\
+                  : see فُوَّهَةٌ, last sentence.   </entryFree> <br>\
+' } );

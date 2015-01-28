@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'ذيم1<br>\
+ذَامَهُ, (T, M, Msb, K,) first pers. ذِمْتُهُ, (S,)<br>\
+aor. يَذِيمُ, (T, &amp;c.,) inf. n. ذَيْمٌ and ذَامٌ, (S, M,<br>\
+Msb, K,) He blamed, or found fault with, him,<br>\
+or it, (T, S, M, Msb, K,) namely, a commodity;<br>\
+like ذَأَمَهُ: (Msb:) accord. to Akh, ذِمْتُهُ and<br>\
+ذَأَمْتُهُ and ذَمَمْتُهُ all signify the same. (S.)<br>\
+ذَامٌ: see what next follows, in two places.<br>\
+ذَيْمٌ and ↓ ذَامٌ are inf. ns., (S, M, Msb, K,) and<br>\
+are syn. with عَيْبٌ [as such, and also as meaning<br>\
+A vice, fault, defect, or the like; in the latter<br>\
+sense syn. with ذَامٌّ, which belongs to art. ذم]:<br>\
+(T, S, M, Msb, * K:) or, as some say, syn. with<br>\
+ذَمٌّ [blame, &amp;c.]. (M.) It is said in a prov.,<br>\
+↓ لَاتَعْدَمُ الحَسْنَآءُ ذَامًا [The beautiful female is not<br>\
+without a defect]. (S.)<br>\
+مَذِيمٌ Blamed, or found fault with; (S, Msb,<br>\
+K;) as also ↓ مَذْيُومٌ: (S, K:) the former defective,<br>\
+and the latter complete: (S:) applied [app. to a<br>\
+man; (see the dial. var. مَذْؤُومٌ, as used in the<br>\
+Kur vii. 17;) and] to a commodity. (Msb.)<br>\
+مَذْيُومٌ: see what next precedes.<br>\
+' } );

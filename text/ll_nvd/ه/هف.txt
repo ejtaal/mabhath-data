@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هفهِفٌّ<br>\
+Certain small fish, which are dried: see<br>\
+سُمَيْكَآءُ.<br>\
+' } );

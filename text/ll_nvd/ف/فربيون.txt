@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'فربيونفَرْبَيُونٌ, (K, TA, [in several copies of the K<br>\
+فَرْفَيُون,]) also called ↓ أَفَرْبَيُونٌ, (TA,) [Euphorbium; an inspissated sap of a certain African<br>\
+plant;] i. q. لُبَانَةٌ مَغْرِبِيَّةٌ; the best of which is<br>\
+that which dissolves quickly in water; (TA;) an<br>\
+attenuant medicine, beneficial as a remedy for<br>\
+sciatica, and for cold of the kidneys, and for colic,<br>\
+and for the sting, or bite, of venomous or noxious<br>\
+reptiles or the like, and for the bite of the mad dog,<br>\
+and it causes abortion, and attenuates viscous<br>\
+phlegm. (K.)<br>\
+أَفَر ْبَيُونٌ: see the preceding paragraph.<br>\
+' } );

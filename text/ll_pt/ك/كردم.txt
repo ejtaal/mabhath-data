@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>كردم</em>            1                  كردم<br>\
+               <entryFree>See arts. كربح and كردح and كرمح and Supplement.   </entryFree> <br>\
+' } );

@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'درهرهدَرَهْرَهَةٌ: see the next preceding article.<br>\
+' } );

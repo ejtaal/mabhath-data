@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>نمى</em>            1                  نمى<br>\
+<b>نَمَى</b>               1     <br>\
+                     نَمَى<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَمِىَ<br>\
+                  , inf. n. نَمَا=ءٌ, <i>It increased;</i> (M, K, Mgh, TA;) <i>multiplied; became plentiful,</i> or <i>abundant;</i> (Msb, TA;) said of a thing, (Msb,) of cattle, or wealth, (S, Mgh, TA,) &amp;amp;c. (TA.) ―         -b2-  نَمَتِ الاَرْضُ <br>\
+                  <i>The land throve,</i> or <i>yielded increase.</i>    <br>\
+<b>اَنْمَى الصَّيْدَ</b>               1     <br>\
+                     اَنْمَى الصَّيْدَ<br>\
+                     ذ<br>\
+                  <i>The quarry died out of sight</i> of the sportsman: see اَصْمَى.    </entryFree> <br>\
+<b>اِنْتَمَى اـِلَيْهِ</b>               1     <br>\
+                     اِنْتَمَى اـِلَيْهِ<br>\
+                     ذ<br>\
+                  <i>He asserted his</i> [own] <i>relationship</i> [<i>of son</i>] <i>to him;</i> (S, Msb, K;) like اِعْتَزَى. (S and Msb in art. عزو.)    </entryFree> <br>\
+<b>نَامِيَةٌ</b>               1     <br>\
+                     نَامِيَةٌ<br>\
+                     ذ<br>\
+                  , of a grape-vine, The <i>shoot upon which are the bunches of grapes:</i> (M, K:) or the <i>eye,</i> or <i>bud, that breaks open so as to disclose its leaves and its berries:</i> (M:) or <i>its branches:</i> pl. نَوَامٍ. (T.)   </entryFree> <br>\
+' } );

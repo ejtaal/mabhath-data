@@ -1,0 +1,37 @@
+load_data( { book: 'll_nvd', text: 'شخر1<br>\
+شَخَرَ, aor.<br>\
+شَخِرَ, inf. n. شَخِيرٌ (S, K) and شَخْرٌ,<br>\
+(K,) He raised his voice, with snorting; said of<br>\
+an ass: (S:) he uttered a sound from the fauces:<br>\
+or from the nose: (K:) or from the mouth, without the nose: (TA:) he (a horse) neighed: (K:)<br>\
+or uttered a sound after neighing: (TA:) or<br>\
+uttered a sound from his mouth, (K, TA,) without<br>\
+the nose: (TA:) As says that among the sounds<br>\
+made by horses are those termed شَخِيرٌ and نَخِيرٌ<br>\
+and كَرِيرٌ; the first of which is from the mouth;<br>\
+the second, from the nostrils; and the third, from<br>\
+the chest: some say that شَخَرَ is like نَخَرَ [he<br>\
+snorted]. (TA.)<br>\
+شَخْرٌ The first period or stage of youth; (K,<br>\
+TA;) and the sharpness thereof; like شَرْخٌ. (TA.)<br>\
+―<br>\
+-b2-  The part, of a رَحْل [or camel&#39;s saddle], that<br>\
+is between the قَادِمَة and the آخِرَة, (O, K, TA,)<br>\
+which are the كَرَّانِ: (TA:) [said to be] also<br>\
+called the شَرْخ, [which is an evident mistake,<br>\
+perhaps originating from its having been said that<br>\
+شَخْرٌ and شَرْخٌ are syn., meaning in another sense,<br>\
+mentioned above,] (O, TA,) and the شَجْر [q. v.]:<br>\
+(TA:) or the space between the upper part of the<br>\
+two extremities [at the fore part and hind part]<br>\
+of the [saddle called] قَتَب. (JK.) ―<br>\
+-b3-  And The<br>\
+chink of the buttocks. (JK, O. [In the K, for<br>\
+وَشَخْرُ الاِسْتِ شَقُّهَا, the reading in the JK and O,<br>\
+is put وَشَخَرَ الاِسْتَ شَقَّهَا.])<br>\
+شِخِّيرٌ That utters much, or often, the sound<br>\
+termed نَخِير: (K:) or, as in some copies of the<br>\
+K [and in the O], شَخِير: (TA:) [see نَخَرَ and<br>\
+شَخَرَ:] applied to an ass in this sense, (O,) or as<br>\
+signifying vociferous. (TA.)<br>\
+' } );

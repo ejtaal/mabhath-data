@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هدن</em>            1                  هدن<br>\
+<b>هُدْنَةٌ عَلَى دَخْنٍ</b>               1     <br>\
+                     هُدْنَةٌ عَلَى دَخْنٍ<br>\
+                     ذ<br>\
+                  <i>An illusory truce:</i> see دُخَانٌ.   </entryFree> <br>\
+' } );

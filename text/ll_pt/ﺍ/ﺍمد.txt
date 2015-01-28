@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;امد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  امد<br>\
+&lt;entryFree id=&quot;n1200&quot; key=&quot;اَمِدَ عَلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَمِدَ عَلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمَدَ<br>\
+                  &lt;/form&gt;, inf. n. اَمَدٌ, &lt;i&gt;He was angry with him:&lt;/i&gt; (S, M, Msb, * K:) like اَبِدَ (S) and وَمَد and وَبِدَ and عَبِدَ. (T in art. ابد.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1201&quot; key=&quot;امّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     امّد<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْمِيدٌ, &lt;i&gt;He declared the time, considered with regard to its end;&lt;/i&gt; or &lt;i&gt;the utmost,&lt;/i&gt; or &lt;i&gt;extreme, extent, term, limit, point,&lt;/i&gt; or &lt;i&gt;reach;&lt;/i&gt; expl. by بَيَّنَ الاَمَدَ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1202&quot; key=&quot;اَمَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Time, considered with regard to its end:&lt;/i&gt; <br>\
+                  زَمَانٌ being time considered with regard to its end and its beginning: (Er-Rághib:) [but sometimes it is interchangeable with زَمَانٌ, as will be seen in what follows:] or the &lt;i&gt;utmost,&lt;/i&gt; or &lt;i&gt;extreme, extent, term, limit, point,&lt;/i&gt; or &lt;i&gt;reach.&lt;/i&gt; (S, M, A, Msb, K.) You say, بَلَغَ اَمَدَهُ <br>\
+                  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, reached,&lt;/i&gt; or &lt;i&gt;attained, his,&lt;/i&gt; or &lt;i&gt;its, utmost,&lt;/i&gt; or &lt;i&gt;extreme, extent, term,&lt;/i&gt; &amp;amp;c. (Msb.) And ضَرَبَ لَهُ اَمَدًا [&lt;i&gt;He assigned,&lt;/i&gt; or &lt;i&gt;appointed, for him,&lt;/i&gt; or &lt;i&gt;it, a term,&lt;/i&gt; or &lt;i&gt;limit&lt;/i&gt;]. (A.) And هُوَ بَعِيدُ الا=مَادِ [&lt;i&gt;He is one whose limits are remote:&lt;/i&gt; <br>\
+                  ا=مَادٌ being the pl.]. (A.) ―         -b2-  The &lt;i&gt;period of life which one has reached;&lt;/i&gt; as in the saying, مَا اَمَدُكَ <br>\
+                  &lt;i&gt;What is thy period of life which thou hast reached?&lt;/i&gt; (S.) ―         -b3-  &lt;i&gt;Each of the two terms of the life&lt;/i&gt; of a man; i. e. the &lt;i&gt;time of&lt;/i&gt; his &lt;i&gt;birth,&lt;/i&gt; and the &lt;i&gt;time of&lt;/i&gt; his &lt;i&gt;death.&lt;/i&gt; (Sh, T.) El-Hasan [El-Basree], being asked by El-Hajjáj, مَا اَمَدُكَ, meaning &lt;i&gt;What was the time of thy birth?&lt;/i&gt; answered by saying that it was two years before the expiration of &#39;Omar&#39;s reign as Khaleefeh. (T, L, from a trad.) ―         -b4-  The &lt;i&gt;startingplace,&lt;/i&gt; and the &lt;i&gt;goal,&lt;/i&gt; of horses in a race. (Sh, T, L.) ―         -b5-  (tropical:)  &lt;i&gt;Any space of time:&lt;/i&gt; (Er-Rághib:) &lt;i&gt;a space of time of unknown limit.&lt;/i&gt; (Kull pp. 9 and 10.) ―         -b6-  Sometimes, (assumed tropical:)  &lt;i&gt;A particular time;&lt;/i&gt; as in the phrase اَمَدُ كَذَا <br>\
+                  &lt;i&gt;The time of such a thing;&lt;/i&gt; like زَمَانُ اَمَدٌ. (Kull p. 10.) ―         -b7-  [It is also used for ذو اَمَدٌ, and (applied to a fem. n.) ذَات اَمَدٍ, &lt;i&gt;Having a term,&lt;/i&gt; or &lt;i&gt;limit; limited in duration;&lt;/i&gt; as in the saying,] الدُّنْيَا اَمَدٌ والا=خِرةُ اَبَدٌ [&lt;i&gt;The present state of existence is limited in duration, but the final state of existence is everlasting&lt;/i&gt;]. (Obeyd Ibn-&#39;Omeyr, L in art. ابد.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1203&quot; key=&quot;اُمْدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُمْدَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A remainder,&lt;/i&gt; or &lt;i&gt;what remains,&lt;/i&gt; (K,) of anything. (TA)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1204&quot; key=&quot;سِقَا=ءٍ مُوَمَّدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سِقَا=ءٍ مُوَمَّدٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A skin&lt;/i&gt; [&lt;i&gt;exhausted;&lt;/i&gt;] &lt;i&gt;in which there remains not a gulp,&lt;/i&gt; or &lt;i&gt;as much as is swallowed at once, of water.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1205&quot; key=&quot;اَمَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَرَهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;An extreme term, limit,&lt;/i&gt; or &lt;i&gt;point, reached,&lt;/i&gt; or &lt;i&gt;attained.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

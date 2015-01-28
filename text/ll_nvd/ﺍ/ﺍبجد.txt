@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'ابجدأَبْجَدْ The first of a series of eight words comprising the letters of the Arabic alphabet [in the<br>\
+order in which they were originally disposed,<br>\
+agreeing with that of the Hebrew and Aramaic,<br>\
+but with six additional letters: they are variously<br>\
+written and pronounced; generally as follows:<br>\
+أَبْجَدَ هَوَّزْ حُطِّى كَلَمَنْ سَعْفَصْ قَرَشَتْ ثَخَذْ ضَظَغْ:<br>\
+but the Arabs of Western Africa write the latter<br>\
+four thus: صعفض قرست ثخذ ظغش]: (K and<br>\
+TA in art. بجد: [in both of which are related<br>\
+several fables concerning the origin of these<br>\
+words:]) accord. to the general opinion, the word<br>\
+ابجد is of foreign origin, [like each of the words<br>\
+following it,] and therefore its first letter [as well<br>\
+as each of the others] is a radical. (TA.) [Hence,<br>\
+الأَبْجَدُ signifies The alphabet. You say حُرُوفُ<br>\
+الأَبْجَدِ The letters of the alphabet. ―<br>\
+-b2-  It is probable (as De Sacy has observed in his Ar. Gram.,<br>\
+2nd ed., i. 8,) that the Arabic alphabet originally<br>\
+consisted of only twenty-two letters: for some of<br>\
+the ancient Arabs called Saturday ابجد, Sunday<br>\
+هوزّ, and so on to قرشت inclusive; calling Friday<br>\
+عَرُوبَةُ. ―<br>\
+-b3-  In the lexicon entitled “El-&#39;Eyn,” the<br>\
+letters of the alphabet are arranged nearly according to their places of utterance; as follows:<br>\
+ع, ح, ه, خ, غ, ق, ك, ج, ش, ض, ص, س, ز, ط,<br>\
+د, ت, ظ, ذ, ث, ر, ل, ن, ف, ب, م, و, ا, ى:<br>\
+and this order has been followed in the Tahdheeb<br>\
+and Mohkam and some other lexicons.]<br>\
+' } );

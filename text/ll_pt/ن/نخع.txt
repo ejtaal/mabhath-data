@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>نخع</em>            1                  نخع<br>\
+<b>نُخَاعٌ</b>               1     <br>\
+                     نُخَاعٌ<br>\
+                     ذ<br>\
+                   The <i>spinal cord,</i> or <i>spinal marrow;</i> (S, K, &amp;amp;c.;) <i>what extends from the</i> <br>\
+                  هَامَة <br>\
+                  <i>through</i> (فِى) <i>the vertebræ to the end of the</i> <br>\
+                  ذَنَب, <i>like a cord of marrow.</i> (Zj in his “ Khalk el-Insán. ”) See also شَلِيلٌ and البِخَاعُ.    </entryFree> <br>\
+<b>اَنْخَعٌ</b>               1     <br>\
+                     اَنْخَعٌ<br>\
+                     ذ<br>\
+                  : see اَخْنَعُ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'قهقبقَهْقَبٌ<br>\
+Big, bulky, or large in body; as also<br>\
+قَهْقَمٌ: (Seer, L:) or the same as an epithet<br>\
+applied to a camel: (TA:) or big, bulky, or<br>\
+large in body, and advanced in years; as also<br>\
+قَهْقَبٌّ, (K,) and قَرْهَبٌ. (TA.) ―<br>\
+-b2-  Tall, or long,<br>\
+and having a capacious belly. (K.) ―<br>\
+-b3-  Hard,<br>\
+and strong, or robust. (M.) ―<br>\
+-b4-  I. q.<br>\
+بَاذِ نْجَانٌ;<br>\
+(IAar, K:) as also كَهْكَبٌ. (TA.)<br>\
+' } );

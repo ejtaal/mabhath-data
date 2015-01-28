@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'خزفخَزَفٌ Pottery; jars; or earthern vessels; syn.<br>\
+جَرٌّ; (Lth, S, K; [and so in the present day;])<br>\
+and anything made of clay, and baked, so that<br>\
+it becomes فَخَّار: (IDrd, K:) or clay made into<br>\
+vessels, before it is baked; i. q. صَلْصَالٌ: when<br>\
+baked, it is called فَخَّار. (Msb.) [See an ex. in a<br>\
+verse cited voce إِنْ, p. 107.]<br>\
+خَزَفِىٌّ [Of, or relating to, pottery, or jars,<br>\
+&amp;c.;] rel. n. of خَزَفٌ. (TA.) ―<br>\
+-b2-  See also what<br>\
+follows.<br>\
+خَزَّافٌ and ↓ خَزَفِىٌّ A seller [or maker] of خَزَف<br>\
+[or pottery, jars, &amp;c.]. (TA.)<br>\
+' } );

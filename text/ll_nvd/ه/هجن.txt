@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'هجن1<br>\
+نَكَحَ فِى بَنِى فُلاَنٍ وَهَجَّنَ أَوْلَادَهُمْ<br>\
+[He<br>\
+married among the sons of such a one, and<br>\
+made their children to be base-born, or ignoble].<br>\
+(TA in art. بغل.)<br>\
+هُجْنَةٌ<br>\
+[Meanness of race, in a horse]. (K, voce<br>\
+إِعْراَبٌ.)<br>\
+هَجِينٌ<br>\
+One whose father is free, or an Arab,<br>\
+and whose mother is a slave. (S, K.) ―<br>\
+-b2-  A<br>\
+horse [half-blooded] got by a stallion of generous<br>\
+race out of a mare not of such race: (S:) or got<br>\
+by an Arabian stallion out of a mare not of<br>\
+Arabian birth: (Msb:) or not of generous birth;<br>\
+a jade. (K.)<br>\
+هَاجِنٌ<br>\
+A girl not arrived at puberty, or a<br>\
+beast not yet fit to be covered: see an ex. voce<br>\
+جَلَّ.<br>\
+' } );

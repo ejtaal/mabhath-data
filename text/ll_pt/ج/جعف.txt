@@ -1,0 +1,42 @@
+load_data( { book: 'll_pt', text: '<em>جعف</em>            1                  جعف<br>\
+<b>جَعَفَهُ</b>               1     <br>\
+                     جَعَفَهُ<br>\
+                     جعفه<br>\
+                     جعفة<br>\
+                  , (S, K,) aor.      <br>\
+                     جَعَفَ<br>\
+                  , (K,) inf. n. جَعْفٌ, (TA,) <i>He prostrated him; threw him down upon the ground;</i> (S, K;) <i>cast him upon the gronnd;</i> like جَعَبَهُ; (TA;) namely, a man; (S;) as also ↓ <br>\
+      اجعفهُ. (Ibn-&#39;Abbád, K.) ―         -b2-  <i>He pulled it,</i> or <i>plucked it, out,</i> or <i>up;</i> (S, K;) namely, a thing, (S,) or a tree; (K, TA;) <i>and turned it over,</i> or <i>upside down;</i> (TA;) as also ↓ <br>\
+      اجتعفهُ. (K, TA.)    </entryFree> <br>\
+                     اَجْعَفَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>انجعف</b>               1     <br>\
+                     انجعف<br>\
+                     انجعف<br>\
+                   [<i>He became prostrated, thrown down upon the ground,</i> or <i>cast upon the ground:</i> see its part. n., below]. ―         -b2-  <i>It</i> (a thing, S, or a tree, K) <i>became pulled,</i> or <i>pluckt, out,</i> or <i>up.</i> (S, K.)    </entryFree> <br>\
+                     اـِجْتَعَفَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>جُعَافٌ</b>               1     <br>\
+                     جُعَافٌ<br>\
+                     جعاف<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>جَاعِفٌ</b>               1     <br>\
+                     جَاعِفٌ<br>\
+                     جاعف<br>\
+                  , applied to a torrent, <i>i. q.</i> <br>\
+                  جُحَافٌ [<i>That carries away everything</i>]; as also ↓ <br>\
+      جُعَافٌ: (K:) and <i>that overturns everything upon which it comes.</i> (TA.)    </entryFree> <br>\
+<b>مَجْعَفٌ</b>               1     <br>\
+                     مَجْعَفٌ<br>\
+                     مجعف<br>\
+                  <i>A place where one is prostrated,</i> or <i>thrown down upon the ground.</i> (TA.)    </entryFree> <br>\
+<b>مَجْعُوفٌ</b>               1     <br>\
+                     مَجْعُوفٌ<br>\
+                     مجعوف<br>\
+                  <i>Prostrated,</i> or <i>thrown down upon the ground;</i> as also ↓ <br>\
+      مُنْجَعِفٌ. (TA.)    </entryFree> <br>\
+<b>مُنْجَعِفٌ</b>               1     <br>\
+                     مُنْجَعِفٌ<br>\
+                     منجعف<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

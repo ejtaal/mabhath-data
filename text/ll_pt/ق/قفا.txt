@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>قفا</em>            1                  قفا<br>\
+<b>قَفِيَتِ الاَرْضُ</b>               1     <br>\
+                     قَفِيَتِ الاَرْضُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَفَاَ<br>\
+                  , inf. n. قَفْءٌ, <i>The land was rained upon, and its herbage became altered and spoiled thereby:</i> (K:) or قَفْءٌ [the inf. n.] signifies the <i>falling of dust upon the herbs,</i> or <i>leguminous plants,</i> (AHn, K, TA,) <i>in consequence of which they are spoiled if the dust be not washed off.</i> (AHn, TA.) [See فَقَاَت as said of the بُهْمَى.]    </entryFree> <br>\
+<b>اقتفا الخَرْزَ</b>               1     <br>\
+                     اقتفا الخَرْزَ<br>\
+                     ذ<br>\
+                   is said in the K to be syn. with افتقاهُ, [q. v.,] and is expl. by Lh as meaning <i>He repeated the</i> [<i>kind of sewing termed</i>] خَرْز [i. e. the sewing of skins and the like by means of an awl], <i>and added, between the two kulbehs, another kulbeh,</i> as is done with reed-mats when they are re-sewed. (TA.) [The kulbeh (كُلْبَة, q. v.) is here described as a thong, or a strand (طَاقَة) of [the membranous fibres that grow at the base of the branches of the palm-tree and are called] لِيف, used in the same manner as the shoemaker&#39;s awl, &amp;amp;c., as in art. كلب, q. v.; but what is here meant by this word is evidently, I think, a thong, or the like, with which a skin is sewed, agreeably with another explanation of it in art. كلب.]   </entryFree> <br>\
+' } );

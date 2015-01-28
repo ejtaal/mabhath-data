@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نئف1<br>\
+نَئِفَ<br>\
+He disliked, disapproved, or hated.<br>\
+(IAar, art. انف.)<br>\
+' } );

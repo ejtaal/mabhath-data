@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>مذى</em>            1                  مذى<br>\
+<b>اَمْذَى</b>               1     <br>\
+                     اَمْذَى<br>\
+                     ذ<br>\
+                  <i>Humorem tenuem e pene emisit</i> vir <i>propter lusum amatorium rel osculum.</i> (Msb, &amp;amp;c.)    </entryFree> <br>\
+<b>مَذْىٌ</b>               1     <br>\
+                     مَذْىٌ<br>\
+                     ذ<br>\
+                  <i>Humor tenuis qui propter lusum amatorium vel osculum e pene virili effluit: a discharge of a thin humour from the</i> <br>\
+                  ذَكَر, <i>occasioned by amorous toying</i> or <i>by kissing:</i> [app the <i>prostatic fluid, a discharge from the prostate gland.</i>] (S, Msb, &amp;amp;c.)    </entryFree> <br>\
+<b>مَذَّاءٌ</b>               1     <br>\
+                     مَذَّاءٌ<br>\
+                     ذ<br>\
+                   app., Is <i>qui multum passus est seminis effluxum ex contactu feminæ aut osculo.</i> See مَزْكُوتٌ. See also اَمْذَى.    </entryFree> <br>\
+<b>مَاذِىٌّ</b>               1     <br>\
+                     مَاذِىٌّ<br>\
+                     ذ<br>\
+                  <i>Honey:</i> (K:) or <i>white honey:</i> (S, M:) or <i>fine, or thin, white honey.</i> (AA, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'ودقوَدْقٌ<br>\
+Rain, (S, K, TA,) whether violent or<br>\
+gentle: (TA:) or violent rain. (MF in art.<br>\
+قهب.)<br>\
+وَدِيقٌ<br>\
+: see 10 in art. قرأ.<br>\
+مُتَوَدِّقٌ<br>\
+: occurring in the TA, art. قهب; from<br>\
+الوَدْقُ, meaning Violent rain. (MF.)<br>\
+' } );

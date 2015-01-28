@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>ولح</em>            1                  ولح<br>\
+<b>وَلِيحَةٌ</b>               1     <br>\
+                     وَلِيحَةٌ<br>\
+                     ذ<br>\
+                  <i>A</i> [<i>sack of the kind called</i>] غِرَارَة: (S, L, K:) or <i>such as is called a</i> <br>\
+                  جُوَالِق: or <i>a large and wide</i> <br>\
+                  جوالق: (L:) and <i>a date-basket of palm-leaves;</i> syn. جُلَّةٌ: (S, L, K:) and <i>a sack</i> or <i>the like forming one half of a beast&#39;s load, in which are carried perfumes and clothes</i> (بَزّ) <i>and the like:</i> (L:) n. un. of وَلِيجٌ, pl. وَلَايِحُ. (S, L, K.)   </entryFree> <br>\
+' } );

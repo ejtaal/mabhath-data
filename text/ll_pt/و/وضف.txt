@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>وضف</em>            1                  وضف<br>\
+<b>اَوْضَفَ النَّاقَةَ</b>               1     <br>\
+                     اَوْضَفَ النَّاقَةَ<br>\
+                     ذ<br>\
+                  <i>He made the she-camel to go the pace termed</i> <br>\
+                  خَبَب; like اَوْفَضَهَا. (Khaleefeh El-Hoseynee, in TA, art. وفض.)   </entryFree> <br>\
+' } );

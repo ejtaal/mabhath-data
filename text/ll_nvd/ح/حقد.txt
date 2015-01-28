@@ -1,0 +1,79 @@
+load_data( { book: 'll_nvd', text: 'حقد1<br>\
+حَقَدَ عَلَيْهِ, (S, A, L, Msb, K,) aor.<br>\
+حَقِدَ; and<br>\
+حَقِدَ عليه, aor. حِقْدٌ; inf. n. (of the former, S, or of<br>\
+both, L, TA) حِقْدٌ, (S, L, Msb, * K,) or this is a<br>\
+simple subst., (L,) and (of the former, L, or of<br>\
+both, TA) حَقْدٌ (L, K) and (of the latter, S, L)<br>\
+حَقَدٌ (S, L, K) and [app. of both, or perhaps this<br>\
+is a simple subst.,] حَقِيدَةٌ; (K;) and ↓ تحقّد;<br>\
+(L, K;) [and ↓ احتقد; (see حَاقِدٌ;)] He bore<br>\
+rancour, malevolence, malice, or spite, (ضِغْن,)<br>\
+against him; (S, L;) he hid enmity, and violent<br>\
+hatred, against him in his heart; (Msb;) he retained, or held fast, enmity against him in his<br>\
+heart, watching for an opportunity to indulge it or<br>\
+exercise it (A, L, K) speedily. (A.) [Accord. to<br>\
+the A, this signification is from the one here next<br>\
+following.] ―<br>\
+-b2-  حَقَدَ, (IAar, A, L,) or حَقِدَ, (K,)<br>\
+inf. n. حَقَدٌ; (L;) and ↓ احقد, (IAar, A, L,) and<br>\
+↓ احتقد, (K,) or both these augmented forms;<br>\
+(TA;) It (a mine) ceased to yield anything;<br>\
+(IAar, L, K;) or yielded nothing: (A:) and<br>\
+it (rain) withheld itself. (IAar, L, K.) ―<br>\
+-b3-  حَقِدَتْ,<br>\
+(K, TA,) inf. n. حَقَدٌ; (TA;) or حَقَدَتْ; (CK;)<br>\
+or ↓ احقدت; (so in a MS. copy of the K;) She<br>\
+(a camel) became full of fat. (K.)<br>\
+4<br>\
+احقدهُ He, (a person, S, L,) or it, (a thing,<br>\
+L,) caused him to bear rancour, malevolence, malice, or spite, (ضِغْن,) [against another;] (S, L;)<br>\
+[caused him to hide enmity, and violent hatred,<br>\
+in his heart; (see 1;)] caused him to retain, or<br>\
+hold fast, enmity in his heart, watching for an<br>\
+opportunity to indulge it or exercise it [speedily].<br>\
+(L, K.)<br>\
+-A2-  احقد, intrans.: see 1, in two places.<br>\
+―<br>\
+-b2-  احقدوا They sought to obtain something from<br>\
+a mine and found it not. (S, K: copied by J from<br>\
+a book, but not heard by him.)<br>\
+5<br>\
+تَحَقَّدَ see 1.<br>\
+6<br>\
+تحاقدوا [They bore mutual rancour, malevolence, malice, or spite; they hid mutual enmity, and violent hatred, in their hearts; (see 1;)]<br>\
+they retained, or held fast, mutual enmity in their<br>\
+hearts, watching for opportunities to indulge it or<br>\
+exercise it speedily. (A.)<br>\
+8<br>\
+إِحْتَقَدَ see 1, in two places.<br>\
+حِقْدٌ (S, A, L, Msb, K) and ↓ حَقِيدَةٌ (L, K)<br>\
+Rancour, malevolence, malice, or spite; syn.<br>\
+ضِغْنٌ; (S, A, L;) concealment of enmity, and<br>\
+violent hatred, in the heart; (Msb;) retention of<br>\
+enmity in the heart, with watchfulness for an opportunity to indulge it or exercise it [speedily:<br>\
+see 1]: (L, K:) pl. of the former أَحْقَادٌ [a pl. of<br>\
+pauc.] (S, A, L, Msb, K) and حقُوُدٌ (A, L, K)<br>\
+and (of the latter, L) حَقَائِدُ. (L, K.)<br>\
+حَقِدُ: see حَاقِدٌ.<br>\
+حَقُودٌ (S, A, L, K) A man [very rancorous,<br>\
+malevolent, malicious, or spiteful; wont to hide<br>\
+enmity, and violent hatred, in his heart;] wont<br>\
+often, or to a great degree, to retain, or hold fast,<br>\
+enmity in his heart, watching for opportunities to<br>\
+indulge it or exercise it [speedily]. (L, K.)<br>\
+حَقِيدَةٌ: see حِقْدٌ.<br>\
+حَاقِدٌ (A, L) and ↓ حَقِدٌ (Ham p. 516) [Bearing rancour, malevolence, malice, or spite; hiding<br>\
+enmity, and violent hatred, in the heart;] retaining, or holding fast, enmity in the heart, and<br>\
+watching for an opportunity to indulge it or exercise it [speedily]; applied to a man; (L;) and in<br>\
+like manner to a heart, as also ↓ مُحْتَقِدٌ. (A.)<br>\
+مَحْقِدٌ Origin; syn. أَصْلٌ; (IAar;) i. q. مَحْتِدٌ<br>\
+(K) and مَحْفِدٌ and مَحْكِدٌ. (TA.)<br>\
+مَحْقُودٌ عَلَيْهِ A man [against whom rancour,<br>\
+malevolence, malice, or spite, is borne; against<br>\
+whom enmity, and violent hatred, are hidden in<br>\
+the heart;] against whom enmity is retained in<br>\
+the heart, or hearts, with watchfulness for an opportunity to indulge it or exercise it speedily.<br>\
+(A.)<br>\
+مُحْتَقِدٌ: see حَاقِدٌ.<br>\
+' } );

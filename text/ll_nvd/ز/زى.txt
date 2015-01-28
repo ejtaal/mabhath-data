@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'زى1<br>\
+زُىَّ, or زِىَّ: see art. زو.<br>\
+2<br>\
+زَيَّيْتُ: see 2 in art. زوى, in two places.<br>\
+5<br>\
+تَزَيَّا: see 5 in art. زوى.<br>\
+زَىْ: see زَاىٌ, in art. زوى.<br>\
+زِى زِى an onomatopoeia significant of The sound<br>\
+of the jinn, or genii. (TA.) [See also زِيزَمٌ and<br>\
+زِيزِيمٌ, in art. زم.]<br>\
+زَىٌّ: see زَاىٌ, in art. زوى.<br>\
+زِىٌّ: see art. زوى.<br>\
+زُيَيَّةٌ: see art. زوى.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ماى</em>            1                  ماى<br>\
+<b>مَاَى</b>               1     <br>\
+                     مَاَى<br>\
+                     ذ<br>\
+                   (like مَاءَ) <i>It</i> (a cat) <i>mewed.</i> (TA, voce مَاءَ, art. موا.)   </entryFree> <br>\
+' } );

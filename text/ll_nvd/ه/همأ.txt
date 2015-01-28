@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'همأ1<br>\
+هَمَأَ, aor.<br>\
+هَمَاَ, (K,) inf. n. هَمْءٌ; (TA;) and<br>\
+↓ اهمأ; (K;) He rent, (K,) i. e., pulled so that<br>\
+it tore, (TA,) a garment: (K:) he wore out, or<br>\
+rendered threadbare, [and ragged]. (K.)<br>\
+4<br>\
+أَهْمَاَ see 1.<br>\
+5<br>\
+تَهَمَّاَ see 7.<br>\
+7<br>\
+انهمأ (K) and ↓ تهمّأ (S, K) It (a garment)<br>\
+became rent: (TA:) became worn-out, or threadbare, (S, K,) and ragged. (S.)<br>\
+هِمْءٌ A worn-out, threadbare, or ragged, garment: pl. أَهْمَاءٌ. (K.)<br>\
+' } );

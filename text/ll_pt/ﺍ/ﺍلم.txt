@@ -1,0 +1,70 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;الم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  الم<br>\
+&lt;entryFree id=&quot;n1098&quot; key=&quot;اَلِمَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَلِمَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلَمَ<br>\
+                  &lt;/form&gt;, inf. n. اَلَمٌ, &lt;i&gt;It,&lt;/i&gt; (as, for instance, the belly, T, S, or the head, Msb,) or &lt;i&gt;he,&lt;/i&gt; (a man, T, S, Msb,) &lt;i&gt;was in pain; had,&lt;/i&gt; or &lt;i&gt;suffered, pain; ached.&lt;/i&gt; (T, S, M, Msb, K.) اَلِمَ بَطْنَهُ [&lt;i&gt;He was in pain,&lt;/i&gt; or &lt;i&gt;had pain, in his belly&lt;/i&gt;] (M) and اَلِمْتَ بَطْنَكَ [&lt;i&gt;thou wast in pain,&lt;/i&gt; or &lt;i&gt;hadst pain, in thy belly&lt;/i&gt;] (T, S) or رَاْسَكَ [&lt;i&gt;in thy head&lt;/i&gt;] (Msb) are like سَفِهَ رَاْيَهُ (M) and رَشِدْتَ اَمْرَكَ (S, T) and وَجِعْتَ رَاْسَكَ; (Msb;) the noun being in the accus. case accord. to Ks as an explicative, though explicatives are [by rule] indeterminate, as in قَرِرْتُ بِهِ عَيْنًا and ضَقْتُ بِهِ ذَرْعًا; (T;) the regular form being [اَلِمَ بَطْنُهُ and] اَلِمَ بَطْنُكَ, (T, S,) as the verb is intrans. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1099&quot; key=&quot;ا=لَمْتُهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=لَمْتُهُ<br>\
+                     ا=لمته<br>\
+                     ا=لمتة<br>\
+                  &lt;/form&gt;, (S, M, Msb, K,) inf. n. اـِيلَامٌ, (S, Msb,) &lt;i&gt;I caused him pain&lt;/i&gt; or &lt;i&gt;aching.&lt;/i&gt; (S, * M, Msb, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1100&quot; key=&quot;تالّم&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تالّم<br>\
+                     ذ<br>\
+                  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, pained:&lt;/i&gt; (M, * Msb, K: *) or &lt;i&gt;he expressed pain, grief,&lt;/i&gt; or &lt;i&gt;sorrow; lamented; complained; made lamentation&lt;/i&gt; or &lt;i&gt;complaint; moaned;&lt;/i&gt; syn. تَوَجَّعَ, (T, S,) and شَكَى. (T.) You say, تَاَلَّمَ فُلَانٌ مِنْ فُلَانٍ [&lt;i&gt;Such a one expressed pain,&lt;/i&gt; &amp;amp;c., &lt;i&gt;on account of&lt;/i&gt; the conduct or the like of &lt;i&gt;such a one; complained of such a one&lt;/i&gt;]: (T:) and لِاَزْمَةِ الزَّمَانِ [&lt;i&gt;on account of the hardness of the time&lt;/i&gt;]. (TA in art. ازم.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1101&quot; key=&quot;اَلَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلَمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see لَمْ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1102&quot; key=&quot;اَلَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلَمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Pain; ache;&lt;/i&gt; (T, S, M, K;) as also ↓ <br>\
+      اَيْلَمَةٌ: (T, M, K:) pl. (of the former, T, M) ا=لَامٌ. (T, M, K.) You say, وَلَا اَلَمًا ↓ <br>\
+      مَا اَجِدُ اَيْلَمَةً <br>\
+                  &lt;i&gt;I do not find pain nor ache;&lt;/i&gt; i. e. وَجَعًا: so says AZ: and IAar says, ↓ <br>\
+      اَيْلَمَةً وَلَا اَلَمَةً as meaning the same. (T.) And the Arabs say, لَاُبِيتَنَّكَ عَلَى ↓ <br>\
+      اَيْلَمَةٍ, meaning &lt;i&gt;I will assuredly bring upon thee&lt;/i&gt; [lit. &lt;i&gt;make thee to pass the night in&lt;/i&gt;] &lt;i&gt;distress,&lt;/i&gt; or &lt;i&gt;difficulty.&lt;/i&gt; (Sh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1103&quot; key=&quot;اَلِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلِمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Being in pain; having,&lt;/i&gt; or &lt;i&gt;suffering, pain; aching.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1104&quot; key=&quot;اَلَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلَمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1105&quot; key=&quot;اـِلَامَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِلَامَ<br>\
+                     الام<br>\
+                     الم<br>\
+                     ام<br>\
+                     الام<br>\
+                     الام<br>\
+                     آلام<br>\
+                  &lt;/form&gt; a contraction of اـلَى مَا: see اـِلَى, last sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1106&quot; key=&quot;اَلِيمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلِيمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Causing pain&lt;/i&gt; or &lt;i&gt;aching; painful;&lt;/i&gt; (S, K;) &lt;i&gt;i. q.&lt;/i&gt; ↓ <br>\
+      مُوْلِمٌ; (T, M, Msb;) like سَمِيعٌ as syn. with مُسْمِعٌ: (S:) so when applied to punishment [or torment or torture]: (T, Msb:) or, thus applied, &lt;i&gt;painful,&lt;/i&gt; or &lt;i&gt;causing pain&lt;/i&gt; or &lt;i&gt;aching, in the utmost degree.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1107&quot; key=&quot;اَلُومَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلُومَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Lowness, ignobleness, baseness, vileness,&lt;/i&gt; or &lt;i&gt;meanness.&lt;/i&gt; (O, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1108&quot; key=&quot;اَيْلَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْلَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلَمٌ, in three places. ―         -b2-  Accord. to IAar, (T,) &lt;i&gt;A sound,&lt;/i&gt; or &lt;i&gt;voice.&lt;/i&gt; (T, K.) You say, مَا سَمِعْتُ لَهُ اَيْلَمَةٌ <br>\
+                  &lt;i&gt;I heard not any sound,&lt;/i&gt; or &lt;i&gt;voice, of,&lt;/i&gt; or &lt;i&gt;belonging to, him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (IAar, T.) ―         -b3-  Accord. to AA, (T,) &lt;i&gt;Motion.&lt;/i&gt; (T, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1109&quot; key=&quot;مُوْلِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْلِمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلِيمٌ.   &lt;/entryFree&gt; <br>\
+' } );

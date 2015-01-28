@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>خبص</em>            1                  خبص<br>\
+<b>خَبَصَهُ</b>               1     <br>\
+                     خَبَصَهُ<br>\
+                     خبص<br>\
+                     خبصه<br>\
+                     خبصة<br>\
+                  , aor.      <br>\
+                     خَبِصَ<br>\
+                  , (A, Msb, K,) inf. n. خَبْصٌ, (Msb,) <i>He mixed it.</i> (A, Msb, K.) ―         -b2-  خَبَصَ, aor.      <br>\
+                     خَبِصَ<br>\
+                  ; and ↓ <br>\
+      خبّص, inf. n. تَخْبِيصٌ; <i>He turned over and mixed and made</i> [خَبِيص, q. v.]: and ↓ <br>\
+      تخبّص * (K) and ↓ <br>\
+      اختبص (A, K) <i>he made,</i> or <i>prepared, for himself</i> <br>\
+                  خَبِيص. (K, * TA.)    </entryFree> <br>\
+                     خَبَّصَ<br>\
+                   see 1.    </entryFree> <br>\
+                     تَخَبَّصَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اـِخْتَبَصَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>استخبص ضَيْفُهُمْ</b>               1     <br>\
+                     استخبص ضَيْفُهُمْ<br>\
+                     استخبص ضيفهم<br>\
+                  <i>Their guest asked for,</i> or <i>demanded, a mess of</i> <br>\
+                  خَبِيص [q. v.]. (A, TA.)    </entryFree> <br>\
+<b>خَبِيصٌ</b>               1     <br>\
+                     خَبِيصٌ<br>\
+                     خبيص<br>\
+                  <i>Mixed;</i> syn. مَخْبُوصٌ. (TA.) ―         -b2-  <i>A kind of food,</i> (Msb, TA,) <i>sweet,</i> (TA,) <i>well known,</i> (S, Msb, TA,) <i>made of dates and clarified butter,</i> (A, K, TA,) <i>mixed together:</i> (TA:) [Golius adds, on the authority of Ibn-Maaroof, “ aut amylo et defruto; ” app. meaning, or <i>of starch and of new wine of which half or a third part has been boiled away:</i> and one kind, called خَبِيصٌ مُرَمَّلٌ, was made <i>with coarse flour:</i> (see جَرِيشٌ:)] of the measure فَعِيلٌ in the sense of the measure مَفْعُولٌ: (Msb:) خَبِيصَةٌ is a more particular term [signifying <i>a mess of</i> <br>\
+                  خَبِيص]. (S.)    </entryFree> <br>\
+<b>مِخْبَصَةٌ</b>               1     <br>\
+                     مِخْبَصَةٌ<br>\
+                     مخبصه<br>\
+                     مخبصة<br>\
+                  <i>A spoon,</i> or <i>thing like a spoon, with which</i> <br>\
+                  خَبِيص <br>\
+                  <i>is made;</i> (S, as in two different copies;) <i>a spoon with which</i> <br>\
+                  خبيص <br>\
+                  <i>is stirred about,</i> or <i>turned over,</i> (A, L, K,) <i>in the</i> [<i>vessel called</i>] طِنْجِير: (K:) or the <i>thing in which</i> <br>\
+                  خبيص <br>\
+                  <i>is stirred about,</i> or <i>turned over.</i> (L, TA.)   </entryFree> <br>\
+' } );

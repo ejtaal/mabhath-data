@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>دملص</em>            1                  دملص<br>\
+<b>دَمْلَصَ</b>               1     <br>\
+                     دَمْلَصَ<br>\
+                     دملص<br>\
+                  : and دُمَلِصٌ: and دُمَالِصٌ: see art. دلص.   </entryFree> <br>\
+' } );

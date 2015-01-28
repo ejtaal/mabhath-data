@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;احن&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  احن<br>\
+&lt;entryFree id=&quot;n341&quot; key=&quot;اَحِنَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَحِنَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, Msb, K) عَلَيْهِ, (S, TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَحَنَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. اَحَنٌ, (Msb,) or اَحْنٌ, and اـِحْنَةٌ, (TA,) or this last is a simple subst.; (Msb;) and اَحَنَ عَلَيْهِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَحَنَ<br>\
+                  &lt;/form&gt;, inf. n. اَحْنٌ; (Kr, TA;) &lt;i&gt;He retained enmity against him in his bosom, watching for an opportunity to indulge it,&lt;/i&gt; or &lt;i&gt;exercise it;&lt;/i&gt; or &lt;i&gt;hid enmity against him in his bosom;&lt;/i&gt; or &lt;i&gt;bore rancour, malevolence, malice,&lt;/i&gt; or &lt;i&gt;spite, against him:&lt;/i&gt; (S, Msb, K: *) and &lt;i&gt;he was affected with anger&lt;/i&gt; (K, TA) &lt;i&gt;against him, such as came upon him suddenly from the retention&lt;/i&gt; or &lt;i&gt;hiding of enmity in the bosom,&lt;/i&gt; or &lt;i&gt;from rancour, malevolence, malice,&lt;/i&gt; or &lt;i&gt;spite.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n342&quot; key=&quot;ا=حَنَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=حَنَهُ<br>\
+                     ا=حنه<br>\
+                     ا=حنة<br>\
+                  &lt;/form&gt;, (TA,) inf. n. مُوَاحَنَةٌ, (S, K,) &lt;i&gt;He treated him,&lt;/i&gt; or &lt;i&gt;regarded him, with enmity,&lt;/i&gt; or &lt;i&gt;hostility.&lt;/i&gt; (S, * K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n343&quot; key=&quot;اـِحْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِحْنَةٌ<br>\
+                     احنه<br>\
+                     احنة<br>\
+                     احنه<br>\
+                     حان<br>\
+                  &lt;i&gt;Retention of enmity in the bosom, with watchfulness for an opportunity to indulge it,&lt;/i&gt; or &lt;i&gt;exercise it;&lt;/i&gt; or &lt;i&gt;concealment of enmity in the bosom;&lt;/i&gt; or &lt;i&gt;rancour, malevolence, malice,&lt;/i&gt; or &lt;i&gt;spite:&lt;/i&gt; (S, Msb, K:) and &lt;i&gt;anger&lt;/i&gt; (K, TA) &lt;i&gt;coming upon one suddenly therefrom:&lt;/i&gt; (TA:) pl. اـِحَنٌ. (S, Msb, K.) It is said in the S that one should not say حِنَةٌ; and this is disallowed by As and Fr and Ibn-El-Faraj: in the T it is said that it is not of the language of the Arabs; and As is related to have disapproved of Et-Tirimmáh for using its pl. in poetry: but it is said in a trad., مَا بَيْنِى وبَيْنَ العَرَبِ حِنَةٌ [&lt;i&gt;There is not between me and the Arabs retention of enmity in the bosom,&lt;/i&gt; &amp;amp;c.]; and it occurs in another trad., in a similar phrase; and the pl., in a third trad.; therefore we say that it is a dial. var. of rare occurrence. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

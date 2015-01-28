@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>سملق</em>            1                  سملق<br>\
+<b>سَمْلَقٌ</b>               1     <br>\
+                     سَمْلَقٌ<br>\
+                     ذ<br>\
+                  <i>An even plain;</i> (K, TA;) like سَلَقٌ; mentioned by J in art. سلق; or <i>a desert in which is no herbage:</i> or <i>an even tract of land destitute of herbage:</i> and [the pl.] سَمَالِقُ signifies [<i>deserts such as are termed</i>] صَحَارَى: or, accord. to ElWáhidee, <i>far-extending, long land.</i> (TA.) [See an ex. in a verse cited voce اَرْقَلَ: and another voce رِيَاغٌ, in art. ريغ.] ―         -b2-  [Hence,] (assumed tropical:)  A woman <i>that bears no offspring:</i> likened to land that does not give growth to anything. (TA.) ―         -b3-  (assumed tropical:)  <i>A</i> woman <i>bad in sexual intercourse;</i> as also with ة. (TA.) And the latter, (assumed tropical:)  A woman <i>that has no</i> <br>\
+                  اـِسْكَتَانِ [or <i>labia majora of the vulva</i>]: (TA:) [or] a woman <i>having no buttocks.</i> (ISk, TA in art. رقع.) ―         -b4-  And (assumed tropical:)  A <i>clamorous</i> old woman: or, accord. to AA, one <i>of evil disposition.</i> (TA.)    </entryFree> <br>\
+<b>كَذِبٌ سَمَلَّقٌ</b>               1     <br>\
+                     كَذِبٌ سَمَلَّقٌ<br>\
+                     ذ<br>\
+                   [like سُمَاقٌ] <i>A sheer, unmixed, lie.</i> (TA.)   </entryFree> <br>\
+' } );

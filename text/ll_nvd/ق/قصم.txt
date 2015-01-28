@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قصمقَيْصُومٌ<br>\
+Artemisia abrotanum, or southern-wood;<br>\
+also called قَيْصُومٌ ذَكَرٌ: and قَيْصُومٌ أُنْثَى is<br>\
+applied to santolina.<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نخو</em>            1                  نخو<br>\
+<b>نُخِىَ بِكَذَا</b>               1     <br>\
+                     نُخِىَ بِكَذَا<br>\
+                     ذ<br>\
+                  : <i>He boasted of such a thing:</i> see زُهِىَ بِكَذَا.    </entryFree> <br>\
+<b>نَخْوَةٌ</b>               1     <br>\
+                     نَخْوَةٌ<br>\
+                     ذ<br>\
+                  <i>Pride; self-magnification; haughtiness.</i> (S, Msb, K.)   </entryFree> <br>\
+' } );

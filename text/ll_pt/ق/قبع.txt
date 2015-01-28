@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قبع</em>            1                  قبع<br>\
+<b>قَبَعَ السِّقَاءَ</b>               1     <br>\
+                     قَبَعَ السِّقَاءَ<br>\
+                     ذ<br>\
+                  : see خَنَثَ.    </entryFree> <br>\
+<b>قَبِيعَةٌ</b>               1     <br>\
+                     قَبِيعَةٌ<br>\
+                     ذ<br>\
+                   [The <i>pommel</i> of a sword;] <i>the thing of silver</i> or <i>iron at the extremity of the hilt of a sword.</i> (S, K.)   </entryFree> <br>\
+' } );

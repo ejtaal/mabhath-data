@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>عدف</em>            1                  عدف<br>\
+<b>عَدَفَ</b>               1     <br>\
+                     عَدَفَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     عَدِفَ<br>\
+                  , inf. n. عَدْفٌ, <i>He ate.</i> (S, O, K.) In the dial. of Rabee&#39;ah with ذ. (S, O, K, * in art. عذف.)    </entryFree> <br>\
+<b>مَا تَعَدَّفْتُ اليَوْمَ</b>               1     <br>\
+                     مَا تَعَدَّفْتُ اليَوْمَ<br>\
+                     ذ<br>\
+                  <i>I have not tasted a little today, far less much.</i> (El-&#39;Ozeyzee, O, K.) [See also 5 in art. عذف.]    </entryFree> <br>\
+<b>عَدْفٌ</b>               1     <br>\
+                     عَدْفٌ<br>\
+                     ذ<br>\
+                  : see عَدُوفٌ. ―         -b2-  Also <i>A small quantity of fodder,</i> or <i>provender.</i> (L, K.) ―         -b3-  And <i>A small gift.</i> (IF, O, K.) One says, اَصَبْنَا مِنْ مَالِهِ عَدْفًا [in the TA فى ماله] i. e. [<i>We obtained from his property</i>] <i>a small gift.</i> (IF, O.)    </entryFree> <br>\
+<b>عَدَفٌ</b>               1     <br>\
+                     عَدَفٌ<br>\
+                     ذ<br>\
+                  : see the paragraph here following.    </entryFree> <br>\
+<b>عُدَافٌ</b>               1     <br>\
+                     عُدَافٌ<br>\
+                     ذ<br>\
+                  : see the paragraph here following.    </entryFree> <br>\
+<b>عَدُوفٌ</b>               1     <br>\
+                     عَدُوفٌ<br>\
+                     ذ<br>\
+                  <i>Anything that is tasted:</i> (S, O, K:) or the <i>least of what is eaten</i> and <i>of what is drunk:</i> (Ham p. 448:) pl. عُدْفٌ. (K, TA.) One says, مَا ذُقْتُ عَدُوفًا, (S, O,) or ما دُقْنَا عَدُوفًا, (K,) i. e. [<i>I,</i> or <i>we, have not tasted,</i> or <i>did not taste,</i>] <i>anything;</i> (S, O, K;) as also ↓ <br>\
+      عَدُوفَةً, (O, K,) and ↓ <br>\
+      عُدَافًا, and ↓ <br>\
+      عَدْفًا, (S, O, K,) and ↓ <br>\
+      عَدَفًا. (K.) And بَاتَتِ الدَّابَّةُ عَلَى غَيْرِ عَدُوفٍ i. e. [<i>The beast passed the night</i>] <i>without fodder,</i> or <i>provender.</i> (S, O, K. *) Of the dial. of Mudar: (S:) or pronounced by Rabee&#39;ah with ذ; and by the rest of the Arabs with د. (AA, O.)    </entryFree> <br>\
+<b>عَدُوفَةٌ</b>               1     <br>\
+                     عَدُوفَةٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.   </entryFree> <br>\
+' } );

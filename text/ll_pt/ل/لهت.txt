@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لهت</em>            1                  لهت<br>\
+<b>لَاهُوتٌ</b>               1     <br>\
+                     لَاهُوتٌ<br>\
+                     ذ<br>\
+                  <i>Divinity; divine nature.</i> Mentioned here agreeably with the assertion of some, that the ت is a radical letter: but this is a point that requires consideration. (TA.)   </entryFree> <br>\
+' } );

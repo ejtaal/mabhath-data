@@ -1,0 +1,125 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;افق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  افق<br>\
+&lt;entryFree id=&quot;n937&quot; key=&quot;اَفَقَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَفَقَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (JK, S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِقَ<br>\
+                  &lt;/form&gt;, (JK, K,) inf. n. اَفْقٌ, (TK,) &lt;i&gt;He went his own way, at random,&lt;/i&gt; or &lt;i&gt;heedlessly,&lt;/i&gt; (رَكِبَ رَاْسَهُ,) &lt;i&gt;and went away in the&lt;/i&gt; <br>\
+                  ا=فَاق [or &lt;i&gt;regions,&lt;/i&gt; &amp;amp;c., &lt;i&gt;of the land&lt;/i&gt;]: (Lth, JK, K:) or &lt;i&gt;he went away in,&lt;/i&gt; or &lt;i&gt;into, the land,&lt;/i&gt; or &lt;i&gt;country:&lt;/i&gt; (S:) and &lt;i&gt;he took his way into the&lt;/i&gt; <br>\
+                  ا=فاق [or &lt;i&gt;regions,&lt;/i&gt; &amp;amp;c.,] &lt;i&gt;of the land.&lt;/i&gt; (JK.) ―         -b2-  [Hence, app.,] اَفَقَ, aor. as above; thus, says IB, accord. to Kz, and thus it is given on the authority of Kr; (TA;) [see ا=فِقٌ;] or اَفِقَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفَقَ<br>\
+                  &lt;/form&gt;, (S, O, K,) inf. n. اَفَقٌ; (S;) &lt;i&gt;He attained the utmost degree,&lt;/i&gt; [as though he reached the اُفُق (or horizon, or furthest point of view,)] &lt;i&gt;in generosity;&lt;/i&gt; (S, O, K;) or &lt;i&gt;in knowledge,&lt;/i&gt; or &lt;i&gt;science;&lt;/i&gt; or &lt;i&gt;in chasteness of speech,&lt;/i&gt; or &lt;i&gt;eloquence, and in the combination of excellent qualities.&lt;/i&gt; (K.) ―         -b3-  Also, اَفَقَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِقَ<br>\
+                  &lt;/form&gt;, (Kr, Ibn-&#39;Abbád, JK, K,) inf. n. اَفْقٌ, (JK, TA,) &lt;i&gt;He overcame,&lt;/i&gt; or &lt;i&gt;surpassed.&lt;/i&gt; (Kr, Ibn-&#39;Abbád, JK, K.) ―         -b4-  And, inf. n, اُفُوقٌ, &lt;i&gt;He was goodly,&lt;/i&gt; or &lt;i&gt;beautiful; he possessed the quality of exciting admiration and approval by his beauty and the pleasingness of his aspect;&lt;/i&gt; said of a camel, and of a horse. (JK.) ―         -b5-  اَفَقَ عَلَيْهِ (JK, TA) &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;excelled him;&lt;/i&gt; namely, another man: (JK:) or &lt;i&gt;he preceded him in excellence;&lt;/i&gt; or &lt;i&gt;outwent him therein;&lt;/i&gt; as also اَفَقَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِقَ<br>\
+                  &lt;/form&gt;. (TA.) [It is like فَاقَهُ.] ―         -b6-  اَفَقَ فِى العَطَا=ءِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِقَ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. اَفْقٌ, (TA,) &lt;i&gt;He gave to some more than to others.&lt;/i&gt; (S, K.) So in the saying of El-Aashà, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                        وَلَا المَلِكَ النُّعْمَانُ يَوْمَ لَقِيتُهُ<br>\
+                        بِغِبْطَتِهِ يُعْطِى القُطُوطَ وَ يَاْفِقُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Nor the King En-Noamán, on the day that I met him, in his goodly,&lt;/i&gt; or &lt;i&gt;happy, condition, giving gifts,&lt;/i&gt; or &lt;i&gt;stipends,&lt;/i&gt; or &lt;i&gt;written obligations conferring gifts, and giving to some more than to others&lt;/i&gt;]: (S:) or the meaning is, &lt;i&gt;writing&lt;/i&gt; [&lt;i&gt;writs of&lt;/i&gt;] &lt;i&gt;gifts, and sealing&lt;/i&gt; them: or, as some say, &lt;i&gt;taking his way into the&lt;/i&gt; <br>\
+                  ا=فاق [or &lt;i&gt;regions,&lt;/i&gt; &amp;amp;c.,] &lt;i&gt;of the land.&lt;/i&gt; (JK.)       -A2-  اَفَقَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِقَ<br>\
+                  &lt;/form&gt;, (S, Msb, K,) inf. n. اَفْقٌ, (S, Msb,) &lt;i&gt;He tanned it&lt;/i&gt; (namely a hide) &lt;i&gt;until it became what is termed&lt;/i&gt; <br>\
+                  اَفِيق. (S, Msb, * K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n938&quot; key=&quot;تافّق بِنَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تافّق بِنَا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He&lt;/i&gt; (a man, As, TA) &lt;i&gt;came to us&lt;/i&gt; <br>\
+                  مِنْ اُفُقٍ [&lt;i&gt;from a region,&lt;/i&gt; &amp;amp;c., &lt;i&gt;of the land&lt;/i&gt;]: (As, K:) or &lt;i&gt;came to us, and alighted at our abode as a guest:&lt;/i&gt; and in the Nawádir el-Aaráb, تافّق بِهِ is said to signify &lt;i&gt;he reached him,&lt;/i&gt; or &lt;i&gt;overtook him;&lt;/i&gt; as also تلّفق به (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n939&quot; key=&quot;اُفْقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُفْقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُفُقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n940&quot; key=&quot;اَفَقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفَقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;main and middle part&lt;/i&gt; (سَنَن) of a road; (K;) the &lt;i&gt;face,&lt;/i&gt; or &lt;i&gt;surface,&lt;/i&gt; thereof: (IAar, K:) pl. ا=فَاقٌ. (K.) Hence the saying, قَعَدَ <br>\
+                  فُلَانٌ عَلَى اَفَقِ الطَّرِيقِ [&lt;i&gt;Such a one sat upon the main and middle part,&lt;/i&gt; or &lt;i&gt;face,&lt;/i&gt; or &lt;i&gt;surface, of the road&lt;/i&gt;]. (TA.) ―         -b2-  The &lt;i&gt;flanks,&lt;/i&gt; or &lt;i&gt;ilia:&lt;/i&gt; or, as some say, &lt;i&gt;skins;&lt;/i&gt; or &lt;i&gt;skin;&lt;/i&gt; as in the saying, شَرِبْتُ حَتَّى مَلَاْتُ اَفَقِي <br>\
+                  &lt;i&gt;I drank until I filled my skin:&lt;/i&gt; (JK:) pl. [or rather coll. gen. n.] of ↓ <br>\
+      اَفَقَةٌ; (IAar;) which signifies the &lt;i&gt;flank;&lt;/i&gt; (IAar, K;) as does also ↓ <br>\
+      ا=فِقَةٌ. (Th, K.) ―         -b3-  Also pl., (S, K,) or [rather] quasi-pl. n., (M, K,) of اَفِيقٌ, q. v. (S, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n941&quot; key=&quot;اَفِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفِقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَفِيقٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n942&quot; key=&quot;اُفُقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُفُقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (JK, S, Mgh, Msb, K, &amp;amp;c.) and ↓ <br>\
+      اُفْقٌ (S, K) &lt;i&gt;A side;&lt;/i&gt; meaning &lt;i&gt;a lateral,&lt;/i&gt; or &lt;i&gt;an outward&lt;/i&gt; or &lt;i&gt;adjacent, part&lt;/i&gt; or &lt;i&gt;portion;&lt;/i&gt; or &lt;i&gt;a part, region, quarter,&lt;/i&gt; or &lt;i&gt;tract, considered with respect to its collocation&lt;/i&gt; or &lt;i&gt;juxtaposition&lt;/i&gt; or &lt;i&gt;direction,&lt;/i&gt; or &lt;i&gt;considered as belonging to a whole;&lt;/i&gt; or &lt;i&gt;a remote side;&lt;/i&gt; syn. نَاحِيَةٌ; (JK, S, Mgh, Msb, K;) and &lt;i&gt;a border,&lt;/i&gt; or &lt;i&gt;an extremity;&lt;/i&gt; (JK;) of a land, or of the earth; and of the sky, or heavens: (JK, Mgh, Msb:) [or the &lt;i&gt;horizon,&lt;/i&gt; or &lt;i&gt;part next to the horizon, of the sky&lt;/i&gt; and &lt;i&gt;of the earth;&lt;/i&gt;] or &lt;i&gt;what appears of the sides&lt;/i&gt; (النَّوَاحِى) &lt;i&gt;of the celestial sphere,&lt;/i&gt; (K, TA,) and &lt;i&gt;of the borders,&lt;/i&gt; or &lt;i&gt;extremities, of the earth:&lt;/i&gt; (TA:) or the &lt;i&gt;place whence blows the south wind,&lt;/i&gt; and &lt;i&gt;the north wind,&lt;/i&gt; and &lt;i&gt;the west wind,&lt;/i&gt; and &lt;i&gt;the east wind:&lt;/i&gt; (K, * TA:) pl. ا=فَاقٌ: (JK, S, Mgh, Msb, K:) and the sing. also is used as a pl.; like فُلْكٌ, as is said in &lt;pb n=&quot;69&quot; TEIform=&quot;pb&quot;/&gt; the Nh: (MF:) thus in the verse of El-&#39;Abbás, in praise of the Prophet: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                        اَنْتَ لَمَّ وُلِدْتَ اَشْرَقَتِ الاَرْ<br>\
+                        ضُوَضَا=ءَ تْ بِنُورِكَ الاُفُقُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;When thou wast born, the earth became bright, and the tracts of the horizon,&lt;/i&gt; or &lt;i&gt;the regions, shone with thy light&lt;/i&gt;]: or, as some say, الافق is made fem. by him as meaning النَّاحِيَةُ. (TA.) The phrase حِينَ يَغِيبُ الاُفُقُ means &lt;i&gt;When the redness,&lt;/i&gt; or &lt;i&gt;whiteness, in the&lt;/i&gt; <br>\
+                  اُفُق [or &lt;i&gt;horizon&lt;/i&gt;] &lt;i&gt;disappears.&lt;/i&gt; (Mgh.) ―         -b2-  Also, in like manner, The &lt;i&gt;side,&lt;/i&gt; or &lt;i&gt;lateral part,&lt;/i&gt; of a tent: (JK:) or the &lt;i&gt;part between the&lt;/i&gt; [&lt;i&gt;two&lt;/i&gt;] &lt;i&gt;anterior&lt;/i&gt; [&lt;i&gt;pieces of wood called the&lt;/i&gt;] زِرَّانِ, &lt;i&gt;in the&lt;/i&gt; [&lt;i&gt;fore part called the&lt;/i&gt;] رِوَاق, of a tent: (K:) and the &lt;i&gt;sides,&lt;/i&gt; or &lt;i&gt;lateral parts,&lt;/i&gt; of a tent of the kind belonging to the Arabs of the desert. (TA.)       -A2-  اُفُقٌ is also said to be a pl. of اَفِيقٌ; but this is disallowed by Lh. (TA.)       -A3-  See also ا=فِقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n943&quot; key=&quot;اَفَقَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفَقَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَفَقٌ.       -A2-  Also &lt;i&gt;A burying of a skin,&lt;/i&gt; or &lt;i&gt;hide, in the earth, so that its hair may be removed, and it may become ready for tanning.&lt;/i&gt; (Lth, K,* TA.) [See اَفِيقٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n944&quot; key=&quot;اَفَقِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفَقِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (ISk, JK, T, S, Mgh, Msb, K,) contr. to rule, (T, Msb,) and ↓ <br>\
+      اُفُقِىٌّ, (As, ISk, S, Mgh, Msb, K,) agreeably with rule, (S,) being a rel. n. from اُفُقٌ, (Msb,) and some (namely the lawyers, in relation to pilgrimage and the like, MF) say ↓ <br>\
+      ا=فَاقِىٌّ, (Mgh, MF,) which is incorrect, (Mgh, Msb,) or whether it be correct, after the manner of اَنْصَارِىٌّ and the like, requires consideration, (MF,) an epthet applied to a man, (ISk, S, Msb,) meaning One &lt;i&gt;who is from the&lt;/i&gt; <br>\
+                  ا=فَاق [or &lt;i&gt;lateral parts,&lt;/i&gt; or &lt;i&gt;regions,&lt;/i&gt;] &lt;i&gt;of the land;&lt;/i&gt; (ISk,* S, Msb;*) mentioned by Aboo-Nasr: (S, referring to the first form of the word:) or one &lt;i&gt;who goes about in the&lt;/i&gt; <br>\
+                  ا=فَاق: (JK:) or one &lt;i&gt;who goes through the&lt;/i&gt; <br>\
+                  ا=فاق <br>\
+                  &lt;i&gt;of the land in search of sustenance:&lt;/i&gt; (K,* TA:) as also ↓ <br>\
+      اَفَّاقٌ. (K, TA.) اُفُقِىُّ مَكَّةَ or اَفَقِىُّ مكّة means &lt;i&gt;He who is without the places where the pilgrims coming to Mekkeh enter upon the state of&lt;/i&gt; <br>\
+                  اـِحْرَام. (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n945&quot; key=&quot;اُفُقِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُفُقِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَفَقِىٌّ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n946&quot; key=&quot;اَفِيقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفِيقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=فِقٌ. ―         -b2-  Applied also to a bucket (دَلْو), meaning &lt;i&gt;Excelling other buckets.&lt;/i&gt; (AA, K.)       -A2-  Also, (As, Th, JK, S, Mgh, Msb, K,) and ↓ <br>\
+      اَفِيقَةٌ, (K,) or the latter is a more particular term than the former, like as جِلْدَةٌ is more so than جِلْدٌ, (Mgh,) and ↓ <br>\
+      اَفِقٌ, (K, [but see what follows,]) The &lt;i&gt;skin,&lt;/i&gt; or &lt;i&gt;hide, that is not completely tanned,&lt;/i&gt; (S, Mgh, Msb, K,) &lt;i&gt;so that it is unsubstantial, not firm,&lt;/i&gt; or &lt;i&gt;strong,&lt;/i&gt; or &lt;i&gt;tough:&lt;/i&gt; (Mgh:) when its tanning is complete, and it becomes red, it is termed اَدِيم: therefore اَفِيقٌ is of the measure فَعِيلٌ in the sense of the measure مَفْعُولٌ: (Msb:) or &lt;i&gt;in the second stage of its tanning;&lt;/i&gt; for in the first stage it is termed مَنِيْيَة; then, افيق; and then, اديم: (TA:) or &lt;i&gt;that is tanned, but before it is sewed:&lt;/i&gt; (As, S, K:) or &lt;i&gt;before it is cut,&lt;/i&gt; or &lt;i&gt;slit:&lt;/i&gt; (K:) or &lt;i&gt;when it comes forth from the tan, its tanning being finished,&lt;/i&gt; (JK, TA,) &lt;i&gt;its&lt;/i&gt; [&lt;i&gt;original&lt;/i&gt;] &lt;i&gt;odour being&lt;/i&gt; [&lt;i&gt;still&lt;/i&gt;] &lt;i&gt;in it:&lt;/i&gt; (TA:) or &lt;i&gt;after it is tanned:&lt;/i&gt; (Msb:) or &lt;i&gt;not tanned:&lt;/i&gt; (Th, TA:) or &lt;i&gt;that is tanned without&lt;/i&gt; <br>\
+                  قَرَظ <br>\
+                  &lt;i&gt;or&lt;/i&gt; <br>\
+                  اَرْطَى <br>\
+                  &lt;i&gt;or any of the tans of the people of Nejd:&lt;/i&gt; (TA:) ISd says, I think that Th has mentioned ↓ <br>\
+      اَفِقٌ as syn. with اَفِيقٌ, and explained it as signifying the &lt;i&gt;skin,&lt;/i&gt; or &lt;i&gt;hide, that is not tanned;&lt;/i&gt; but I am not sure of it: (TA:) the pl. is اَفَقٌ, (Lh, JK, S, Msb, K,) like as اَدَمٌ is pl. of اَدِيمٌ, (S,) or this is a quasi-pl. n., (M, K,) and اُفُقٌ (JK, K) is allowable, (JK,) or, accord. to Lh, it is not allowable, (TA,) and [pl. of pauc.] ا=فِقَةٌ, (As, S, K,) like as ا=دمَةٌ and اَرْغِفَةٌ are pls. of اَدِيمٌ and رَغِيفٌ. (As, S.) ↓ <br>\
+      اَفِيقَةٌ signifies also &lt;i&gt;A&lt;/i&gt; <br>\
+                  سِقَا=ء [or &lt;i&gt;skin for water or milk&lt;/i&gt; &amp;amp;c.] &lt;i&gt;made of a hide of the kind termed&lt;/i&gt; <br>\
+                  اَفِيق. (Mgh.) And اَفِيقٌ also signifies The &lt;i&gt;skin&lt;/i&gt; of a man, and of any beast. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n947&quot; key=&quot;اَفِيقَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفِيقَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَفِيقٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n948&quot; key=&quot;اَفَّاقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفَّاقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَفَقِىٌّ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n949&quot; key=&quot;ا=فِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=فِقٌ<br>\
+                     ا=فق<br>\
+                  &lt;/form&gt;, (S, K, &amp;amp;c.,) of the measure فَاعِلٌ, (S, Kz, TA, [in the CK اَفِقٌ, and in like manner in a copy of the JK,]) from اَفِقَ, (S, K,) or, as IB says, accord. to Kz, from اَفَقَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَفِقَ<br>\
+                  &lt;/form&gt;, and so accord. to Kr, and shown to be of the measure فَاعِلٌ by several verses in which it occurs, (TA,) One &lt;i&gt;who has attained the utmost degree in generosity;&lt;/i&gt; (S, K;) or &lt;i&gt;in knowledge,&lt;/i&gt; or &lt;i&gt;science;&lt;/i&gt; or &lt;i&gt;in chasteness of speech,&lt;/i&gt; or &lt;i&gt;eloquence, and in the combination of excellent qualities;&lt;/i&gt; (K;) as also ↓ <br>\
+      اَفِيقٌ: (K:) fem. with ة. (IF, K.) Also applied to a horse, &lt;i&gt;Generous with respect to both parents:&lt;/i&gt; fem. with ة. (S.) And applied to a camel, &lt;i&gt;That excites admiration and approval by his generousness, excellence, high blood,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; (JK;) and so ↓ <br>\
+      اُفُقٌ, (JK, S, K,) applied to a horse, (S, K,) and a mare, (JK, S, K,) and a she-camel. (JK.).    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n950&quot; key=&quot;ا=فِقَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=فِقَةٌ<br>\
+                     ا=فقه<br>\
+                     ا=فقة<br>\
+                  &lt;/form&gt;: see اَفَقٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n951&quot; key=&quot;ا=فَاقِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=فَاقِىٌّ<br>\
+                     ا=فاقى<br>\
+                     ا=فاقي<br>\
+                  &lt;/form&gt;: see اَفَقِىٌّ.   &lt;/entryFree&gt; <br>\
+' } );

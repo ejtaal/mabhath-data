@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>فغفور</em>            1                  فغفور<br>\
+<b>فَغْفُورِىٌّ</b>               1     <br>\
+                     فَغْفُورِىٌّ<br>\
+                     ذ<br>\
+                   [<i>China-ware,</i> or <i>porcelain,</i>] the [<i>sort of</i>] خَزَف <br>\
+                  <i>that is brought from China;</i> so called from فَغْفُور, [the title of] the king of China: vulgarly فَرْفُورِى. (TA in art. فر.)   </entryFree> <br>\
+' } );

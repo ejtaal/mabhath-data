@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لطا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لطا<br>\
+&lt;entryFree id=&quot;n37748&quot; key=&quot;لَطَاَ بِالاَرْضِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     لَطَاَ بِالاَرْضِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     لَطَاَ<br>\
+                  &lt;/form&gt;, inf. n. لَطْءٌ; and لَطِيَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     لَطَاَ<br>\
+                  &lt;/form&gt;, inf. n. لُطُوْءٌ; &lt;i&gt;He clave to the ground.&lt;/i&gt; (S, K.) Also, the former, without ء: اـِلْطَهْ occurs in a trad. for اـِلْطَاْ [imper. of لَطِيَ] &lt;i&gt;Cleave to the ground.&lt;/i&gt; (TA.) ―         -b2-  لَطِيَ لِسَانِى <br>\
+                  &lt;i&gt;My tongue became stiff, so that I could not move it to speak.&lt;/i&gt; From a trad. (TA.) ―         -b3-  لَطَاَ, (K,) inf. n. لَطْءٌ, (TA,) &lt;i&gt;He beat&lt;/i&gt; a person with a staff or stick: or &lt;i&gt;he beat on the back&lt;/i&gt; only. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37749&quot; key=&quot;لَطَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَطَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;wolf:&lt;/i&gt; [because it crouches, or crawls, upon the ground]. (TA.) ―         -b2-  &lt;i&gt;A hunter,&lt;/i&gt; or &lt;i&gt;sportsman:&lt;/i&gt; [for the same reason]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37750&quot; key=&quot;رَاَيْتُ الذِّيْبَ لَاطِيًا لِلسَّرِقَةِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَاَيْتُ الذِّيْبَ لَاطِيًا لِلسَّرِقَةِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;I saw the wolf crouching to steal&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37751&quot; key=&quot;لَا طِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَا طِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A wound on the head, such as is termed&lt;/i&gt; <br>\
+                  سِمْحَاقٌ: (K:) also termed ↓ <br>\
+      مِلْطَاٌ and ↓ <br>\
+      مِلْطَاَةٌ [q. v. infra]. (TA.) ―         -b2-  Also, &lt;i&gt;A pustule&lt;/i&gt; (K) &lt;i&gt;that comes forth upon a man, scarcely curable;&lt;/i&gt; (TA;) &lt;i&gt;said to be from the sting,&lt;/i&gt; or &lt;i&gt;bite, of the&lt;/i&gt; <br>\
+                  ثُطْاَة. So in the L; but in the K, incorrectly, or &lt;i&gt;it is from the sting,&lt;/i&gt; or &lt;i&gt;bite, of the&lt;/i&gt; <br>\
+                  ثطاة. (TA.) ―         -b3-  Also, &lt;i&gt;A small kind of&lt;/i&gt; <br>\
+                  قَلَنْسُوَة, &lt;i&gt;that cleaves to the head.&lt;/i&gt; (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37752&quot; key=&quot;مِلْطَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِلْطَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مِلْطَاَة: see لَاطِيَةٌ, and also arts. لطى and لط. ―         -b2-  The former is also explained as signifying The &lt;i&gt;pericranium&lt;/i&gt; itself; &lt;i&gt;a thin cuticle,&lt;/i&gt; or &lt;i&gt;membrane, between the bone of the scull and its flesh:&lt;/i&gt; accord. to IAth and the L. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'نقز1<br>\
+نَقَزَ, (S, A,) aor.<br>\
+نَقُزَ, (S, TA,) and<br>\
+نَقِزَ, (TA,)<br>\
+inf. n. نَقْزٌ and نَقَزَانٌ (S, K,) and نُقَازٌ, (TA,)<br>\
+He (an antelope, S and A) leaped, jumped, sprang,<br>\
+or bounded, (S, A, K,) as also ↓ نقّز, (M, TA,)<br>\
+in his running, (S,) or on his نَوَاقِز, i. e., his<br>\
+legs: (A:) or he (generally referring to a raven<br>\
+or crow, or a sparrow, or locust, or the like,)<br>\
+leaped, jumped, sprang, or bounded, upwards;<br>\
+he hopped: (TA:) or he put his legs together<br>\
+in leaping, jumping, springing, or bounding:<br>\
+when the legs are spread, the action is termed<br>\
+نَفْزٌ. (IDrd, TA.)<br>\
+2<br>\
+نَقَّزَ see 1.<br>\
+-A2-  Also, inf. n. تَنْقِيزٌ, He made to leap,<br>\
+jump, spring, or bound: (S:) and نقّزت she (a<br>\
+woman) danced, or dandled, her child; (K, *<br>\
+TA;) as also نفّزت. (S, &amp;c., art. نفز.)<br>\
+نَوَاقِزُ, [pl. of نَاقِزَةٌ,] The legs of an antelope,<br>\
+(A,) or of a beast of carriage. (K.) See also نَافِزَةٌ.<br>\
+' } );

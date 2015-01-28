@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>عذف</em>            1                  عذف<br>\
+<b>عَذَفَ</b>               1     <br>\
+                     عَذَفَ<br>\
+                     ذ<br>\
+                  , (S, K) aor.      <br>\
+                     عَذِفَ<br>\
+                  , (K,) inf. n. عَذْفٌ, (IDrd, S, O,) <i>He ate:</i> (S, O, K:) as also with  <br>\
+                  د: (IDrd, O:) the former of the dial. of Rabee&#39;ah. (S, O.)    </entryFree> <br>\
+                     تَعَذَّفَ<br>\
+                   ↓ <br>\
+      تَعَذَّفْتُ عَذُوفَةً <br>\
+                  <i>I tasted a portion the least in quantity of what is eaten</i> and <i>of what is drunk.</i> (Ham p. 448.) [See also 5 in art. عدف.]    </entryFree> <br>\
+<b>عَذْفٌ</b>               1     <br>\
+                     عَذْفٌ<br>\
+                     ذ<br>\
+                  : see عَذُوفٌ.    </entryFree> <br>\
+<b>سَمٌّ عُذَافٌ</b>               1     <br>\
+                     سَمٌّ عُذَافٌ<br>\
+                     ذ<br>\
+                  <i>Deadly poison:</i> (O, K:) formed by transposition from ذُعَافٌ: (O:) mentioned by Yaakoob and Lh. (TA.)    </entryFree> <br>\
+<b>عَذُوفٌ</b>               1     <br>\
+                     عَذُوفٌ<br>\
+                     ذ<br>\
+                   and عَدُوفٌ are syn.; (IDrd, O, K;) signifying <i>Food of man</i> and <i>of beast;</i> (IDrd, O;) [or <i>food</i> and <i>drink;</i> (see عدوف;)] and in like manner the dial. vars.: with ذ in the dial. of Rabee&#39;ah, and with د in the dials. of the rest of the Arabs. (K.) One says, مَا ذُقْتُ عَذُوفًا and ↓ <br>\
+      عَذْفًا [&amp;amp;c.] i. e. [<i>I have not tasted,</i> or <i>did not taste,</i>] <i>anything.</i> (S, O.) And بَاتَتِ الدَّابَّةُ <br>\
+                  عَلَى غَيْرِ عَذُوفٍ [like عَدُوفٍ, q. v.]. (S, O.)    </entryFree> <br>\
+<b>عَذُوفَةٌ</b>               1     <br>\
+                     عَذُوفَةٌ<br>\
+                     ذ<br>\
+                   [<i>i. q.</i> <br>\
+                  عَدُوفَةٌ &amp;amp;c.]: see 5 [and see also عَذُوفٌ and عَدُوفٌ].    </entryFree> <br>\
+<b>عَاذِفٌ</b>               1     <br>\
+                     عَاذِفٌ<br>\
+                     ذ<br>\
+                   [as act. part. n. of عَذَفَ should signify <i>Eating:</i> but see what here follows]. Ibn-&#39;Abbád says, (O,) مَا زِلْتُ عَاذِفًا مُنْذُ اليَوْمِ means <i>I have not tasted anything</i> [<i>to-day</i>]. (O, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'وشبوَشْبٌ [app. meaning Fleshy] is from the expression تَمْرَةٌ وَشْبَةٌ, (in one copy of the K, وَشْبَاءُ,<br>\
+TA,) A date having a thick لِحَآء [i. e. pulp, or<br>\
+flesh]. (K.) Of the dial. of El-Yemen. (TA.)<br>\
+وِشْبٌ sing. of أَوْشَابٌ, (K,) which is the same<br>\
+as أَوْبَاشٌ (S, K) and أَشْوَابٌ, (TA,) [but see this<br>\
+last word, in art. شوب,] and signifies, A medley,<br>\
+or mixed multitude; (K;) or sundry, or separate<br>\
+sorts of people; (S;) and young men of the<br>\
+baser sort. (TA.) A term of dispraise only.<br>\
+(Marg. note in a copy of the S.)<br>\
+' } );

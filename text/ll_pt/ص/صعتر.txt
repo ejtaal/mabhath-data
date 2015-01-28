@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>صعتر</em>            1                  صعتر<br>\
+<b>صَعْتَرٌ</b>               1     <br>\
+                     صَعْتَرٌ<br>\
+                     ذ<br>\
+                  <i>I. q.</i> <br>\
+                  سَعْتَرٌ [q. v.]: (K, and S and Msb in art. سعتر:) <i>it grows in the country of the Arabs, and is of two kinds,</i> <br>\
+                  سُهْلِىٌّ [i. e. <i>of the plain</i>] <i>and</i> <br>\
+                  جَبَلِىٌّ [i. e. <i>of the mountain</i>]: (AHn, TA:) <i>when strewn in a place, it drives away venomous</i> or <i>noxious reptiles and the like,</i> (K,) <i>such as serpents and scorpions.</i> (TA.)   </entryFree> <br>\
+' } );

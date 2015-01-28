@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>بعثر</em>            1                  بعثر<br>\
+<b>بَعْثَرَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     بَعْثَرَ<br>\
+                     بعثر<br>\
+                  , [inf. n. بَعْثَرَةٌ,] <i>He took, drew,</i> or <i>pulled,</i> a thing <i>out,</i> or <i>forth, and uncovered</i> it, <i>laid</i> it <i>open,</i> or <i>exposed</i> it; (S, K;) as also بَحْثَرَ: (S:) <i>he raised</i> what was in a thing, (S, K,) <i>and caused</i> it <i>to come forth.</i> (S.) Hence, in the Kur [c. 9], اـِذَا بُعْثِرَ مَا فِى اْلْقُبُورِ <br>\
+                  <i>When that which is in the graves is raised, and caused to come forth:</i> (AO, S:) [see also بَحْثَرَ:] or the meaning is, <i>when the dust,</i> or <i>earth, in the graves is turned over, and the dead in them are raised:</i> (Zj:) or <i>when what is in the graves,</i> of gold and silver, <i>comes forth;</i> after which the dead are to come forth. (Fr.) ―         -b2-  Also <i>He examined; he searched.</i> (K.) ―         -b3-  <i>He searched for,</i> or <i>after,</i> or <i>into,</i> news, or tidings. (TA.) ―         -b4-  <i>He scattered,</i> or <i>dispersed,</i> a thing, <i>and turned</i> it <i>over, one part upon another:</i> (K:) <i>he scattered,</i> or <i>dispersed,</i> his household goods, or his commodities, (Fr, S,) <i>and turned</i> them <i>over, one upon another;</i> (Fr, Zj, S;) as also بَحْثَرَ, (Fr, S,) and بَغْثَرَ. (Yaakoob.) ―         -b5-  <i>He demolished</i> a watering-trough or tank, <i>and turned</i> it <i>upside-down.</i> (AO, S, K.)   </entryFree> <br>\
+' } );

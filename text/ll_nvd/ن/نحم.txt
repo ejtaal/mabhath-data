@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'نحم1<br>\
+نَحَمَ<br>\
+, said of a horse, seems to be best<br>\
+rendered He breathed pantingly, or hard, with a<br>\
+sound from the chest. See 1 in art. ضبح.<br>\
+نَحِيمٌ<br>\
+signifies A sound (صَوْت) from the chest<br>\
+of the horse. (TA.)<br>\
+' } );

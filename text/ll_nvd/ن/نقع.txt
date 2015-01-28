@@ -1,0 +1,55 @@
+load_data( { book: 'll_nvd', text: 'نقع1<br>\
+نَقَعَ<br>\
+and ↓ اِسْتَنْقَعَ<br>\
+It (water) remained, or<br>\
+stagnated, or collected, in a hollow, or cavity:<br>\
+(Mgh:) or remained long, and became altered:<br>\
+(Msb:) or the former [and latter] collected in a<br>\
+مَنْقَع: (S:) or the latter [and former] became<br>\
+yellow and altered. (K.) ―<br>\
+-b2-  نَقَعَ and ↓ أَنْقَعَ<br>\
+[He macerated, steeped, or soaked, a medicine,<br>\
+in water,] he left it in water until its colour<br>\
+became changed. (Msb.)<br>\
+4<br>\
+أَنْقَعَ<br>\
+see 1.<br>\
+10<br>\
+إِسْتَنْقَعَ<br>\
+see 1.<br>\
+نَقِيعٌ<br>\
+An infusion; meaning, a beverage made<br>\
+by steeping something in water: (Msb:) and a<br>\
+mash.<br>\
+سَمٌّ نَاقِعٌ<br>\
+Poison that takes effect; (S, K;)<br>\
+that kills: (TA:) that remains fixed, (Abu-nNasr, K, TA,) and collects. (Abu-Nasr, TA.)<br>\
+أَنْقَعُ<br>\
+More, or most, thirst-quenching: see<br>\
+an ex. under الحَاذُ, in art. حوذ; and another<br>\
+voce رَشَفَ.<br>\
+أَنْقُوعَةٌ<br>\
+The hollow, or depression, of<br>\
+ثَرِيد,<br>\
+(S, A, K,) in which the gravy collects. (A, K. *)<br>\
+مَنْقَعُ مَآءِ<br>\
+, and مَآءٍ ↓ مَسْتَنْقَعُ, A place where<br>\
+water remains and collects; where it collects and<br>\
+stagnates; or where it remains long, and becomes<br>\
+altered. See نَقَعَ.<br>\
+مَنْقَعُ البُرْمِ<br>\
+Untwisted old thread which a<br>\
+woman spins a second time, and puts into the<br>\
+stone cooking-pots, because she has nothing but<br>\
+these [in which to deposit it]. (Sgh, K, TA.<br>\
+[From the K it would seem to be مُنْقعٌ alone:<br>\
+and in the CK, البُرام is erroneously put for<br>\
+البِرام: Golius found it written البَرَام; and has<br>\
+wrongly explained it in his Appendix.]) ―<br>\
+-b2-<br>\
+سَمٌّ مُنْقَعٌ<br>\
+Poison made into a confection. (S, K,<br>\
+TA.)<br>\
+مَسْتَنْقَعٌ<br>\
+: see مَنْقَعٌ.<br>\
+' } );

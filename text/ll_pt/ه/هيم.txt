@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>هيم</em>            1                  هيم<br>\
+<b>هَيَّمَهُ</b>               1     <br>\
+                     هَيَّمَهُ<br>\
+                     ذ<br>\
+                  : see هُيُومٌ.    </entryFree> <br>\
+<b>هَيَامٌ</b>               1     <br>\
+                     هَيَامٌ<br>\
+                     ذ<br>\
+                  : see an ex. in a verse of Lebeed, voce اَصْلٌ.    </entryFree> <br>\
+<b>هُيَامٌ</b>               1     <br>\
+                     هُيَامٌ<br>\
+                     ذ<br>\
+                  : see هُبٌّ.    </entryFree> <br>\
+<b>هُيُومٌ</b>               1     <br>\
+                     هُيُومٌ<br>\
+                     ذ<br>\
+                   [The <i>being bewildered,</i> or <i>distracted, by amorous desire;</i>] the <i>pursuing a heedless,</i> or <i>an inconsiderate course,</i> or <i>going at random, heedlessly,</i> or <i>without consideration,</i> or <i>certain aim, by reason of amorous desire:</i> and تَهْيَامٌ the [<i>being so,</i> or] <i>doing so, much.</i> (TA.) You say, of love [or amorous desire], ↓ <br>\
+      هَيَّمَهُ, inf. n. تَهْيِيمٌ. (TA.) ―         -b2-  <i>An affection like insanity arising from amorous desire:</i> (JK:) <i>bewilderment,</i> or <i>distraction, by amorous desire.</i> (KL.)    </entryFree> <br>\
+<b>هَيْمَانُ</b>               1     <br>\
+                     هَيْمَانُ<br>\
+                     ذ<br>\
+                   A man <i>loving intensely,</i> or <i>very passionately</i> or <i>fondly:</i> (TA:) and so applied to a heart: see شَنِقٌ. ―         -b2-  هَيْمَانُ <br>\
+                  <i>A thirsty</i> camel: fem. هَيْمَى: pl. هِيمٌ. (Jel, lvi. 55.)    </entryFree> <br>\
+<b>مَهْيُومٌ</b>               1     <br>\
+                     مَهْيُومٌ<br>\
+                     ذ<br>\
+                  : see voce قَتَّ.   </entryFree> <br>\
+' } );

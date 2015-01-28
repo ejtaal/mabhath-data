@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>محو</em>            1                  محو<br>\
+<b>مَحَاهُ</b>               1     <br>\
+                     مَحَاهُ<br>\
+                     ذ<br>\
+                  <i>He effaced, erased, rased, obliterated,</i> or <i>cancelled, it; removed,</i> or <i>did away with, its impression</i> or <i>trace.</i> (K.) ―         -b2-  مَحَتِ الرِّيحُ <br>\
+                  عَنْهُ الاَسْقَامَ وَالدُّنُوبَ <br>\
+                  <i>The wind made to pass away,</i> or <i>dispelled, the clouds.</i> (TA.) ―         -b3-  مَحَا الصُّبْحُ اللَّيْلَ <br>\
+                  <i>Daybreak dispelled the night.</i> (TA.) ―         -b4-  مَحَااْللّٰهُ <br>\
+                  عَنْهُ الاَسْقَامَ وَالدُّنُوبَ [<i>God removed from him diseases and sins;</i> as though He cancelled them]. (Msb in art. عفو.) ―         -b5-  الاـِحْسَانُ يَمْحُو الاـِسَا=ءَةَ <br>\
+                  <i>Beneficence effaces, obliterates,</i> or <i>cancels, evil conduct.</i> (TA)   </entryFree> <br>\
+' } );

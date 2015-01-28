@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>هيل</em>            1                  هيل<br>\
+<b>اِنْهَالَ</b>               1     <br>\
+                     اِنْهَالَ<br>\
+                     ذ<br>\
+                  <i>It</i> (sand, &amp;amp;c.) <i>poured down.</i> (S, K.) ―         -b2-  اِنْهَدَمَ الجِدَارُ وَا=نْهَالَ [<i>The wall fell in ruins,</i> or <i>to pieces,</i> or <i>became a ruin, and broke,</i> or <i>crumbled down</i>]. (K in art. قيض.) So rendered voce اِنْقَاضَ, art. فيض.    </entryFree> <br>\
+<b>هَيْلٌ</b>               1     <br>\
+                     هَيْلٌ<br>\
+                     ذ<br>\
+                   inf. n. of هَالَ: see حَثَا. ―         -b2-  هَيْلٌ and ↓ <br>\
+      هَايِلٌ Sand <i>that will not remain steady in its place, but falls down.</i> (JK.)    </entryFree> <br>\
+<b>هَيُولُى</b>               1     <br>\
+                     هَيُولُى<br>\
+                     ذ<br>\
+                   and هَيُّولَى: wrongly mentioned in art. هول. See مَادَّةٌ.    </entryFree> <br>\
+<b>مَهِيلٌ</b>               1     <br>\
+                     مَهِيلٌ<br>\
+                     ذ<br>\
+                  : see كَثِيبٌ.   </entryFree> <br>\
+' } );

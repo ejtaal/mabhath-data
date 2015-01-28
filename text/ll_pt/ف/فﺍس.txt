@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فاس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فاس<br>\
+&lt;entryFree id=&quot;n32832&quot; key=&quot;فَاَسَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     فَاَسَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, O, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَاََ<br>\
+                  &lt;/form&gt;, inf. n. فَاَسٌ, (M, K,) &lt;i&gt;He struck&lt;/i&gt; (AHn, S, O, Msb, K) him, or it, (S, O,) or a tree, (AHn, M,) &lt;i&gt;with a&lt;/i&gt; <br>\
+                  فَاْس: (AHn, S, M, O, K:) &lt;i&gt;he cut&lt;/i&gt; him, or it, (M,) or a tree, (TA,) &lt;i&gt;therewith:&lt;/i&gt; (M:) &lt;i&gt;he clave,&lt;/i&gt; (M, O, K,) or &lt;i&gt;split,&lt;/i&gt; (T, O,) a piece of wood, (M,) or one&#39;s head, (O,) &lt;i&gt;therewith.&lt;/i&gt; (M, K.) ―         -b2-  &lt;i&gt;He hit&lt;/i&gt; (S, K) a man (S) &lt;i&gt;in the&lt;/i&gt; <br>\
+                  فَاْس <br>\
+                  &lt;i&gt;of the head.&lt;/i&gt; (S, K.)       -A2-  &lt;i&gt;He ate&lt;/i&gt; wheat, or other food. (O, K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32833&quot; key=&quot;فَاْسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَاْسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain implement of iron,&lt;/i&gt; (M,) &lt;i&gt;with which one digs;&lt;/i&gt; [i. e., &lt;i&gt;a kind of hoe;&lt;/i&gt; thus called in the present day; &lt;i&gt;generally having a blade more long than wide, and a short handle; altogether resembling an adz:&lt;/i&gt;] (Kr, M:) and &lt;i&gt;with which one cuts;&lt;/i&gt; [i. e., &lt;i&gt;an adz;&lt;/i&gt; and &lt;i&gt;an axe;&lt;/i&gt; both also thus called in the present day; more commonly the former; &lt;i&gt;used for cutting, cleaving, and splitting, trees and wood,&lt;/i&gt; (see فَاَسَ,) &lt;i&gt;and for hewing, forming,&lt;/i&gt; or &lt;i&gt;fashioning, wood &amp;amp;c.:&lt;/i&gt; (see also قَدُومٌ:)] (M:) &lt;i&gt;a thing well known:&lt;/i&gt; (A, K:) [applied also to &lt;i&gt;a pickaxe:&lt;/i&gt; (see صَاقُورٌ:)] the ء in this word may be suppressed: (Msb:) it is of the fem. gender: (M, Msb, K:) the pl. (of pauc., O) is اَفْوُسٌ (M, O, Msb, K) and (of mult., O) فُوُوسٌ, (S, M, O, Msb, K,) and, accord. to some, فُوْسٌ. (TA.) ―         -b2-  فَاْسُ اللِّجَامِ [&lt;i&gt;A certain part of the bit;&lt;/i&gt; namely,] &lt;i&gt;the&lt;/i&gt; [&lt;i&gt;tongue of&lt;/i&gt;] &lt;i&gt;iron that stands up towards&lt;/i&gt; [so I render here the particle فِى] &lt;i&gt;the&lt;/i&gt; <br>\
+                  حَنَك [here meaning the &lt;i&gt;palate,&lt;/i&gt; against which it is made to press when the rein is drawn hard for the purpose of checking the horse]; (IDrd in his book on the Saddle and Bridle, [in one part of which he likens to it the tongue of a buckle,] S, M, A, O, K;) &lt;i&gt;the iron that stands up in the&lt;/i&gt; <br>\
+                  شَكِيمَة; (T;) or, as some say, &lt;i&gt;that which is in the middle of the&lt;/i&gt; <br>\
+                  شكيمة, &lt;i&gt;between the&lt;/i&gt; <br>\
+                  مِسْحَلَانِ: (ISh:) the شكيمة is the iron that lies across in the mouth, [i. e., the bit-mouth, or mouth-piece of the bit,] and the مِسْحَل is an iron [i. e. a ring of iron, one of a pair of rings which are inserted each into the other, in the place of our curbchain,] beneath the حَنَك [here meaning the part between the two sides of the lower jaw]: (IDrd:) or, as some say, [and among them Kr.] &lt;i&gt;the transverse iron in the bit;&lt;/i&gt; (M;) but this assertion requires consideration. (TA.) You say, فُلَانٌ يَلُوكُ <br>\
+                  لِسَانَهُ فِى الكَلَامِ كَمَا يَعْلِكُ الفَرَسُ فَاْسَ اللِّجَامِ [&lt;i&gt;Such a one mumbles his tongue in speaking like as the horse moves about in his mouth the&lt;/i&gt; <br>\
+                  فاس <br>\
+                  &lt;i&gt;of the bit&lt;/i&gt;]. (A.) ―         -b3-  فَاْسُ الرَّاْسِ, (S, O, K,) or فَاْسُ <br>\
+                  القَفَا, (M,) &lt;i&gt;The edge of the&lt;/i&gt; <br>\
+                  قَمَحْدُوَة [or &lt;i&gt;hinder part of the back of the head&lt;/i&gt;], &lt;i&gt;that projects above the back of the neck;&lt;/i&gt; [i. e., &lt;i&gt;the small protuberance above the back of the neck:&lt;/i&gt;] (S, O, K:) or &lt;i&gt;the hinder part of the&lt;/i&gt; <br>\
+                  قمحدوة. (M.) ―         -b4-  فَاْسُ الرَّحَى <br>\
+                  &lt;i&gt;The&lt;/i&gt; [&lt;i&gt;protuberant&lt;/i&gt;] &lt;i&gt;part of the&lt;/i&gt; [&lt;i&gt;nether,&lt;/i&gt; or &lt;i&gt;lower,&lt;/i&gt;] &lt;i&gt;mill-stone, in the middle of which is&lt;/i&gt; [&lt;i&gt;fixed&lt;/i&gt;] &lt;i&gt;the axis.&lt;/i&gt; (Kzw, description of Ursa Minor.) ―         -b5-  And hence, الفَاْسُ <br>\
+                  &lt;i&gt;The Constellation of Ursa Minor.&lt;/i&gt; (Idem, same place.) ―         -b6-  فَاْسُ الفَمِ <br>\
+                  &lt;i&gt;The extremity of the mouth, in which are the teeth.&lt;/i&gt; (M.) ―         -b7-  اِجْعَلْ هٰذَا الاَمْرَ فَاْسًا وَاحِدًا means &lt;i&gt;Make thou this affair to be&lt;/i&gt; [&lt;i&gt;uniform,&lt;/i&gt; or] &lt;i&gt;of one way&lt;/i&gt; or &lt;i&gt;mode&lt;/i&gt; or &lt;i&gt;manner.&lt;/i&gt; (ISk, TA in art. باج.)   &lt;/entryFree&gt; <br>\
+' } );

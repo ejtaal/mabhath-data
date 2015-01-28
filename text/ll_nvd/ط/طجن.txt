@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'طجن1<br>\
+طَجْنٌ The act of frying: (K:) an adventitious word in the Arabic language. (TA.)<br>\
+You say, طَجَنَ الشَّىْءَ, aor.<br>\
+طَجُنَ, inf. n. طَجْنٌ, He<br>\
+fried the thing. (TK.)<br>\
+طَاجَنٌ, (S,) or طَاجِنٌ, (T,) or both, (Msb,<br>\
+TA, and in a copy of the S written طَاجَنٌ,) and<br>\
+↓ طَيْجَنٌ, (S, Msb, K,) A frying-pan; syn.<br>\
+مِقْلًى; (Msb;) a طَابَق upon which one fries:<br>\
+(S, K:) arabicized words, (S, Msb, K,) because<br>\
+ط and ج do not occur in the original language<br>\
+of the Arabs: (S, TA:) [app. from the Greek<br>\
+τήγανον:] the pl. of طاجن is طَوَاجِنُ; (Msb,<br>\
+TA;) and that of ↓ طيجن is طَيَاجِنُ, (Msb,) or<br>\
+طَيَاجِينُ. (MA, TA.)<br>\
+طَيْجَنٌ: see the next preceding paragraph, in<br>\
+two places.<br>\
+مُطَجَّنٌ Fried in a طَاجِن. (K.)<br>\
+' } );

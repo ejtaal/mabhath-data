@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كذبن</em>            1                  كذبن<br>\
+<b>كَذْبَانُونَةٌ</b>               1     <br>\
+                     كَذْبَانُونَةٌ<br>\
+                     ذ<br>\
+                   [Pers. كَدْبَانو] <i>An intelligent housewife, who is a good manager.</i> (K, art. هلج; but omitted in some copies.)   </entryFree> <br>\
+' } );

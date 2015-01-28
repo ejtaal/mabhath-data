@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'نتخ1<br>\
+نَتَخَ, (S, L, K,) aor.<br>\
+نَتِخَ, (K, JK,) or<br>\
+نَتَخَ,<br>\
+(L, JK,) inf. n. نَتْخٌ, (S, L,) He pulled a thing<br>\
+out, or up, or off; removed it from its place;<br>\
+displaced it. (S, L, K.) He extracted, or<br>\
+pulled out, a tooth: (S, L:) and, a thorn from his<br>\
+foot (S, L) with an instrument called مِنْتَاخٌ, or<br>\
+مِنْتَاخَانِ: (L:) or he extracted in a general<br>\
+sense. (L.) It (a hawk, or falcon, L, K, and<br>\
+a vulture, L,) pulled off, or tore off, or snatched<br>\
+away, flesh (S, L, K) with its bill: (S, L:) and<br>\
+a raven, or crow, in like manner, a sore upon<br>\
+the back of a camel. (L.) ―<br>\
+-b2-  نُتِخَ مِنْ أَصْحَابهِ<br>\
+(tropical:)  He was removed, or taken away, from his companions. (A.) نَتَخَتْهُ المَنِيَّةُ مِنْ بَيْنَ قَوْمِهِ<br>\
+(tropical:)  Death removed him from among his people.<br>\
+(A.) ―<br>\
+-b3-  See also نَخَتَ.<br>\
+مِنْتَاخٌ An instrument with which thorns are<br>\
+extracted from the foot; syn. مِنْقَاشٌ: (S,<br>\
+L, K:) مِنْتَاخَانِ the same, having two extremities. (Az, L.) See مِنَتْاشٌ.<br>\
+' } );

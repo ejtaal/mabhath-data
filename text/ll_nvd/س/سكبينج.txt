@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'سكبينجسَكْبِينَجٌ an arabicized word [from the Pers.<br>\
+سَكْبِينَهٌ]; (O;) [Sagapenum;] a certain medicine,<br>\
+(O, K,) well-known; (K;) the gum of a certain<br>\
+tree (O, TA) in Persia, (TA,) [supposed to be<br>\
+the ferula Persica,] in which is no useful property, but only in its gum: some say that there<br>\
+is a sort of قِنَّة [or galbanum] that changes from<br>\
+its original state and becomes سكبينج. (O.)<br>\
+' } );

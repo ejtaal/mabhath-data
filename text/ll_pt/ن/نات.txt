@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>نات</em>            1                  نات<br>\
+<b>نَاَتَ</b>               1     <br>\
+                     نَاَتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَاَِ<br>\
+                  , (S, K,) contr. to analogy, like يَرْجِع, (TA,) and      <br>\
+                     نَاََ<br>\
+                  , (K,) agreeably with analogy, (TA,) inf. n. نَيِيتٌ, (S, K,) of the measure فَعِيلٌ, because it signifies a sound, like اَنِينٌ, (TA,) and نَاْتٌ, (K,) contr. to analogy, because the verb is intrans., (TA,) <i>He</i> (a man, S) <i>moaned;</i> or <i>breathed violently,</i> or <i>with moaning;</i> or <i>uttered his voice</i> or <i>breath with moaning;</i> syn. اَنَّ, (S, TA) and نَهَتَ: (S, K:) or it signifies <i>he uttered a louder sound than such as is termed</i> <br>\
+                  اَنِينٌ. (K.)       -A2-  نَاَتَهُ <br>\
+                  <i>He envied him;</i> (K;) [as also نَاَدَهُ].       -A3-  نَاَتَ, inf. n. نَاْتٌ, <i>He walked,</i> or <i>went, at a slow pace.</i> (L.)    </entryFree> <br>\
+<b>نَاّ=تٌ</b>               1     <br>\
+                     نَاّ=تٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  نَهَّاتٌ: (S:) النَّاّ=تُ <br>\
+                  <i>The lion.</i> (K.)   </entryFree> <br>\
+' } );

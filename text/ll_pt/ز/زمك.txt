@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>زمك</em>            1                  زمك<br>\
+<b>زِمِكٌّ</b>               1     <br>\
+                     زِمِكٌّ<br>\
+                     ذ<br>\
+                  : see the following paragraph.    </entryFree> <br>\
+<b>زِمِكَّى</b>               1     <br>\
+                     زِمِكَّى<br>\
+                     ذ<br>\
+                  , (Fr, S, K,) with kesr to the ز and م, (K,) like زِمِجَّى [in measure and in meaning, app. from the Pers. زِمْجِى], (S,) [in the O erroneously written زِمَكَّى,] and ↓ <br>\
+      زِمِكٌّ, (Fr, K, TA,) like فِلِزٌّ, (TA,) [in the O erroneously written زِمَكّ, and in the CK زَمَك,] and ↓ <br>\
+      زِمِكّا=ءُ, (TA,) The <i>place of the growth of the tail of a bird:</i> (Fr, S, K:) or the <i>root of the tail of a bird:</i> (M, K:) or the <i>whole tail of a bird:</i> (K:) or sometimes, accord. to Lth, the <i>tail itself</i> is called زمكّى <br>\
+                  <i>when it is short</i> (اـِذَا قَصُرَ), (O, TA, *) or, as in some copies [of his book, meaning the &#39;Eyn], <i>when it is clipped</i> (اذا قُصَّ). (TA.)    </entryFree> <br>\
+<b>زِمِكَّا=ءُ</b>               1     <br>\
+                     زِمِكَّا=ءُ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.   </entryFree> <br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>نوت</em>            1                  نوت<br>\
+<b>نَاتَ</b>               1     <br>\
+                     نَاتَ<br>\
+                     ذ<br>\
+                  , aor. يَنُوتُ, inf. n. نَوْتٌ, <i>He</i> (a man) <i>moved from side to side in walking;</i> as also نَاتَ, aor. يَنِيتُ: (L:) or <i>he so moved by reason of weakness,</i> or <i>infirmity:</i> (K:) or, <i>by reason of drowsiness,</i> like as the sailor turns the vessel from side to side. (L.)    </entryFree> <br>\
+<b>نَاتٌ</b>               1     <br>\
+                     نَاتٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  نَاسٌ <br>\
+                  <i>Mankind;</i> or <i>men:</i> (S, K:) like اَكْيَاتٌ for اَكْيَاسٌ; the س being changed into ت [see art. س], accord. to the dial. of certain of the Arabs; as related by Az. (S.)    </entryFree> <br>\
+<b>نُوتِىٌّ</b>               1     <br>\
+                     نُوتِىٌّ<br>\
+                     ذ<br>\
+                   [and ↓ <br>\
+      نَوَّاتٌ] <i>A sailor upon the sea,</i> (S, K,) <i>who turns about the ship in the sea:</i> (TA:) pl. of the former نَوَاتِىُّ, (S, K,) [and of the latter] نَوَّاتُونَ. (TA.) Accord. to J, from the language of the people of Syria: accord. to others, an arabicized word [from the Greek <G>nau/ths</G>]. (TA.)    </entryFree> <br>\
+<b>نَوَّاتٌ</b>               1     <br>\
+                     نَوَّاتٌ<br>\
+                     ذ<br>\
+                  : see نُوتِىٌّ.   </entryFree> <br>\
+' } );

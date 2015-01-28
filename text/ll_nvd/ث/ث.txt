@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'ثalphabetical letter<br>\
+ث<br>\
+The fourth letter of the alphabet: called ثَآءٌ and<br>\
+ثَا [respecting which latter see the letter ب]: the<br>\
+pl. [of the former] is ثَآءَاتٌ; and [of the latter,]<br>\
+أَثْوَآءٌ and أَثْيَآءٌ. (TA in باب الالف اللّينة.) It is<br>\
+one of the letters termed مَهْمُوسَة [or non-vocal,<br>\
+i. e. pronounced with the breath only, without<br>\
+the voice], and of those termed لِثَوِيَّة [or gingival],<br>\
+which are ث and ذ and ظ. (TA at the commencement of ف.) ―<br>\
+-b2-  It is sometimes substituted for ف as in the instance of حُثَالَةٌ and<br>\
+حُفَالَةٌ; and for س as in the instance of جُثْمَانٌ<br>\
+and جُسْمَانٌ; and for other letters. (TA in the<br>\
+latter place.)<br>\
+-A2-  [As a numeral, it denotes Five<br>\
+hundred.]<br>\
+' } );

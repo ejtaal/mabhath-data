@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'كتل2<br>\
+كَتَّلَهُ<br>\
+, inf. n. تَكْتِيلٌ, He made it (أَقِط [&amp;c.])<br>\
+into lumps, or compact pieces or portions. (TA.)<br>\
+―<br>\
+-b2-  And He, or it, fattened him. (Kr, TA.)<br>\
+5<br>\
+تَكَتَّلَ<br>\
+It became compacted together in a<br>\
+mass; it became lumpy. See قِيدَ, art. قود.<br>\
+كُتْلَةٌ<br>\
+A lump, or compact piece or portion,<br>\
+(S, M, * Msb, K,) of a thing, (Msb,) or of gum,<br>\
+&amp;c., (S,) or of dates, and of clay, &amp;c.: (M, K:)<br>\
+a piece, or portion, of dates packed together in a<br>\
+receptacle: (Mgh:) and a piece of flesh-meat.<br>\
+(K.)<br>\
+' } );

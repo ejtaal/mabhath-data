@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>طرش</em>            1                  طرش<br>\
+<b>طَرِشَ</b>               1     <br>\
+                     طَرِشَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     طَرَشَ<br>\
+                  , (Mgh, Msb, K,) inf. n. طَرَشٌ, (S, A, Mgh, Msb, K,) <i>He was,</i> or <i>became, deaf:</i> or <i>affected with something less than</i> <br>\
+                  صَمَمٌ [or <i>deafness</i>]: (Msb:) or <i>like deafness:</i> (Mgh:) [meaning, <i>heaviness,</i> or <i>dulness, of hearing:</i> (see اَطْرَشُ:)] or طَرَشٌ is <i>the slightest deafness:</i> (S, A, K: [in the CK it is erroneously written طَرْش:]) but some say that it is not pure Arabic: (Msb:) and some say that it is post-classical: (S, Msb, K:) so says IDrd: (O:) AHát disallows the root and its derivatives, and says that they have not been content with the barbarousness of saying طَرَشٌ, but have formed from it a verb, namely, طَرِشَ: (O, TA:) ElMa&#39;arree says that the verb has been formed by the vulgar from اُطْرُوشٌ, which is an Arabic word. (TA.)    </entryFree> <br>\
+<b>تطرّش</b>               1     <br>\
+                     تطرّش<br>\
+                     ذ<br>\
+                  <i>He stood and sat;</i> said of one who is convalescent: (O:) or <i>he became convalescent, and nearly recovered, and arose and walked;</i> syn. اِبْرَغَشَّ. (K.) ―         -b2-  تطرّش بِالبَهْمِ <br>\
+                  <i>i. q.</i> <br>\
+                  اِخْتَلَفَ بِهَا [i. e. <i>He went to and fro, repeatedly, with the young lambs</i> or <i>kids:</i> strangely expl. in the TK as said of a camel, and as meaning <i>he became mixed,</i> or <i>confounded, among the beasts</i>]. (O, K.)    </entryFree> <br>\
+<b>تطارش</b>               1     <br>\
+                     تطارش<br>\
+                     ذ<br>\
+                  <i>He feigned himself deaf:</i> (O, K:) or <i>heavy,</i> or <i>dull, of hearing.</i> (Mgh.)    </entryFree> <br>\
+<b>بِهِ طُرْشَةٌ</b>               1     <br>\
+                     بِهِ طُرْشَةٌ<br>\
+                     ذ<br>\
+                  <i>In him is the slightest deafness.</i> (Ibn- &#39;Abbád, O, K.)    </entryFree> <br>\
+<b>اَطْرَشُ</b>               1     <br>\
+                     اَطْرَشُ<br>\
+                     ذ<br>\
+                  , (Msb,) or ↓ <br>\
+      اُطْرُوشٌ, (Az, A, Mgh, O, Msb, K,) of which Az says, I know not whether it be Arabic or adventitious, (Msb,) and IDrd says that it is not genuine Arabic, (Mgh,) and AHát disallows it, but El-Ma&#39;arree says that it is Arabic, though the verb is a barbarism, (TA,) <i>Deaf;</i> (Msb, K;) and in some of the copies of [the work of] Yaakoob, ↓ <br>\
+      اُطْرُشٌ is found, thus expl.: (TA:) or <i>heavy,</i> or <i>dull, of hearing:</i> (Mgh:) or <i>affected with something less than deafness:</i> (Msb:) or <i>with the slightest deafness:</i> (A:) the fem. of اَطْرَشُ is طَرْشَا=ءُ: (Msb:) and the pl. is طُرْشٌ. (Mgh, O, Msb, K. *)       -A2-  Accord. to Z, [in the A,] اَطْرَشُ, applied to a man, signifies <i>Having thin eyebrows.</i> (TA. [But I think that this is a mistranscription for اَطْرَطُ.])    </entryFree> <br>\
+<b>اُطْرُشٌ</b>               1     <br>\
+                     اُطْرُشٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>اُطْرُوشٌ</b>               1     <br>\
+                     اُطْرُوشٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.   </entryFree> <br>\
+' } );

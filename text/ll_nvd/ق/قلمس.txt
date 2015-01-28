@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قلمسقَلَمَّسٌ<br>\
+: see نَاسِئٌ.<br>\
+قلو and قلى<br>\
+1<br>\
+قَلَا and<br>\
+' } );

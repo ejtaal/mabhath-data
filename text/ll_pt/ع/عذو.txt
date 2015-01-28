@@ -1,0 +1,46 @@
+load_data( { book: 'll_pt', text: '<em>عذو</em>            1                  عذو<br>\
+<b>عَذَا البَلَدُ</b>               1     <br>\
+                     عَذَا البَلَدُ<br>\
+                     ذ<br>\
+                  , aor. يَعْذُو, <i>The country,</i> or <i>town, was good,</i> or <i>pleasant, in respect of its air.</i> (IAar, K, TA.) ―         -b2-  And you say, عَذُوَتِ الاَرْضُ (AZ, K, TA) and عَذِيَت (K) اَحْسَنَ العَذَاةِ or العَذَا=ءَةِ. (So accord. to different copies of the K [in which what immediately precedes app. indicates that the meaning is, <i>The land was such as is termed</i> <br>\
+                  عَذَاة, <i>in the best degree;</i> so that العَذَاة or العَذَا=ءَة, the former of which is the reading in the T, is the inf. n.: but accord. to the TK, عَذُوَتِ الاَرْضُ, having for its inf. n. عَذَاوَةٌ, and عَذِيَت, having for its inf. n. عَذًى, mean, without any addition, كَانَتْ اَحْسَنَ العَذَاةِ i. e. <i>the land was the best of what is termed</i> <br>\
+                  عَذَاة].)    </entryFree> <br>\
+<b>اِسْتَعْذَيْتُ المَكَانَ</b>               1     <br>\
+                     اِسْتَعْذَيْتُ المَكَانَ<br>\
+                     ذ<br>\
+                   [<i>I found that</i>] <i>the place was suitable to me</i> (K, TA) <i>in its air,</i> (TA,) <i>and I deemed it good,</i> or <i>pleasant.</i> (K, TA. [Mentioned in art. عذى; but more properly belonging to the present art.; though both of these arts. are intimately connected, each with the other.])    </entryFree> <br>\
+<b>عَذًى</b>               1     <br>\
+                     عَذًى<br>\
+                     ذ<br>\
+                   [or عَذًا]: see the next paragraph.    </entryFree> <br>\
+<b>عَذَاةٌ</b>               1     <br>\
+                     عَذَاةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      عَذِيَةٌ, (S, K, TA,) the latter written in [some copies of] the K, erroneously, عَذِيَّة, (TA,) Land <i>good</i> (S, K) <i>in its soil,</i> (S,) <i>remote from water and from tainted air:</i> (K:) or land <i>good in its soil, and fertile:</i> or <i>remote from men:</i> or <i>remote from water and from tainted air and from pestilence:</i> or <i>remote from the</i> [<i>sunken waters,</i> or <i>the watery beds of sand</i> or <i>earth, called</i>] اَحْسَا=ء, <i>and from the waters that ooze from the ground:</i> or <i>not having in it</i> [<i>plants of the kind called</i>] حَمْض, <i>nor near to a region thereof:</i> (TA: [see also عِذْىٌ, in art. عذى:]) pl. of the former عَذَوَاتٌ (S, K) and [coll. gen. n. of the same, app. when used as a subst., which may generally be the case,] ↓ <br>\
+      عَذًى [or عَذًا]. (TA.) [See also عِذْىٌ, again, in art. عذى.] ―         -b2-  And عَذَاةٌ signifies also <i>A</i> <br>\
+                  خَامَة [or <i>portion that grows forth upon a single stalk,</i> or <i>fresh</i> or <i>juicy bunch</i> or <i>plant,</i> &amp;amp;c., (see art. خيم,)] <i>of seedproduce.</i> (TA in art. عذى.)    </entryFree> <br>\
+<b>عَذِيَةٌ</b>               1     <br>\
+                     عَذِيَةٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>عَذَوَانٌ</b>               1     <br>\
+                     عَذَوَانٌ<br>\
+                     ذ<br>\
+                  <i>Brisk, lively,</i> or <i>sprightly; light,</i> or <i>active; not having great forbearance nor</i> <br>\
+                  اَصَالَة [app. as meaning <i>firmness,</i> or <i>soundness, of judgment</i>]: fem. with ة: or, as some say, it is with غ. (TA.)    </entryFree> <br>\
+<b>عَذَوِيَّةٌ</b>               1     <br>\
+                     عَذَوِيَّةٌ<br>\
+                     ذ<br>\
+                  : see عَاذِيَةٌ, below.    </entryFree> <br>\
+<b>عَذَا=ءٌ</b>               1     <br>\
+                     عَذَا=ءٌ<br>\
+                     ذ<br>\
+                   the subst. from عَذَاةٌ [app. signifying The <i>quality,</i> or <i>condition, of land that is termed</i> <br>\
+                  عَذَاة]. (TA in art. عذى.)    </entryFree> <br>\
+<b>عَاذِيَةٌ</b>               1     <br>\
+                     عَاذِيَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      عَذَوِيَّةٌ, and عَوَاذٍ [the pl. of the first], applied to camels, <i>Being in a place of pasture that has not in it</i> [<i>plants of the kind called</i>] حَمْض. (K and TA in art. عذى.) [See also عَادِيَةٌ, voce عُدْوِىٌّ, in art. عدو.]   </entryFree> <br>\
+' } );

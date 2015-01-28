@@ -1,0 +1,33 @@
+load_data( { book: 'll_nvd', text: 'يقن1<br>\
+يَقِنَهُ<br>\
+, (S, Msb, K,) and يَقِنَ بِهِ; (Msb;)<br>\
+and ↓ أَيْقَنَهُ, (S, K,) and بِهِ ↓ ايقن; (K;) and<br>\
+↓ تَيَقَّنَهُ; and ↓ اِسْتَيْقَنَهُ, (S, Msb, K,) and ↓ استيقن<br>\
+بِهِ; (K;) all signify the same; (S;) He knew<br>\
+it; he was, or became, certain, or sure, or he<br>\
+made sure, of it; syn. عَلِمَهُ; (Msb, K;)<br>\
+intuitively, and inferentially; (Msb;) [see 1 in<br>\
+art. علم;] and تَحَقَقَّهُ. (K.)<br>\
+4<br>\
+أَيْقَنَ<br>\
+see 1.<br>\
+5<br>\
+تَيَقَّنَ<br>\
+see 1.<br>\
+10<br>\
+إِسْتَيْقَنَ<br>\
+see 1.<br>\
+يَقِينٌ<br>\
+is of the measure فَعِيلٌ in the sense of<br>\
+the measure فَاعِلٌ, signifying Sure, or certain,<br>\
+and manifest. (Msb.) ―<br>\
+-b2-  And knowledge, or<br>\
+certainty; [see ظَنٌّ;] instinctive and inferential. (Msb.) ―<br>\
+-b3-  عَيْنُ اليَقِينِ: see عَيْنٌ (latter<br>\
+part). ―<br>\
+-b4-  الحقُّ اليَقِينُ and حَقُّ اليَقِينِ: see جَامِعٌ;<br>\
+where the two words are said to have the same<br>\
+meaning: and Bd and Jel in lvi. 95; in the<br>\
+latter of which, اليقين in حَقُّ اليَقِينِ is expressly<br>\
+said to be an epithet: see also Ham, p. 335.<br>\
+' } );

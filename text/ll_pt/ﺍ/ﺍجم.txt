@@ -1,0 +1,75 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اجم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اجم<br>\
+&lt;entryFree id=&quot;n309&quot; key=&quot;اَجِمَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَجِمَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, with kesr, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجَمَ<br>\
+                  &lt;/form&gt;,] (AZ, S, O,) inf. n. اَجَمٌ; (KL, PS;) or اَجَمَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجِمَ<br>\
+                  &lt;/form&gt;, (so in the K,) inf. n. اَجْمٌ; (TK;) [but اَجِمَ is the form commonly known; and if it were incorrect, the author of the K would probably, accord. to his usual custom, have charged J with error respecting it;] &lt;i&gt;He loathed it; disliked it; was,&lt;/i&gt; or &lt;i&gt;became, disgusted with it;&lt;/i&gt; namely, food; (AZ, S, O, K;) &amp;amp;c.; (K;) &lt;i&gt;from constantly keeping to it;&lt;/i&gt; (AZ, S, O;) or &lt;i&gt;because of its not agreeing with him:&lt;/i&gt; (TA:) &lt;i&gt;he reckoned it bad:&lt;/i&gt; (KL:) and ↓ <br>\
+      تاجّمهُ also signifies &lt;i&gt;he disliked, disapproved,&lt;/i&gt; or &lt;i&gt;hated, it;&lt;/i&gt; or &lt;i&gt;he expressed,&lt;/i&gt; or &lt;i&gt;showed, dislike, disapprobation,&lt;/i&gt; or &lt;i&gt;hatred, of it;&lt;/i&gt; syn. تَكَرَّهَهُ. (TA.)       -A2-  اَجَمَ فَلَانَّا, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَجِمَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَجْمٌ, (TK,) &lt;i&gt;He incited,&lt;/i&gt; or &lt;i&gt;urged, such a one to do that which he disliked, disapproved,&lt;/i&gt; or &lt;i&gt;hated.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَجَّمَ<br>\
+                  &lt;/form&gt; see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n310&quot; key=&quot;يُوْجِمُ النَّاسَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     يُوْجِمُ النَّاسَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, or النَّاسَ ↓ <br>\
+      يُوَجِّمُ, [accord. to different copies of the K, the former being the reading in the TA,] &lt;i&gt;He makes men&#39;s own selves to be objects of dislike, disapprobation,&lt;/i&gt; or &lt;i&gt;hatred, to them.&lt;/i&gt; (K voce اَجُومٌ.) [Accord. to the TK, you say, ا=جَمَهُ مِنْهُ, inf. n. اـِيجَامٌ, meaning &lt;i&gt;He made him to be an object of dislike, disapprobation,&lt;/i&gt; or &lt;i&gt;hatred, to him.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n311&quot; key=&quot;تاجّم&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاجّم<br>\
+                     ذ<br>\
+                  &lt;i&gt;He&lt;/i&gt; (a lion) &lt;i&gt;entered his&lt;/i&gt; <br>\
+                  اَجَمَة [or &lt;i&gt;thicket&lt;/i&gt;]. (K.)       -A2-  تاجّمهُ: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n312&quot; key=&quot;اَجْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجْمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Any square, roofed, house:&lt;/i&gt; (K:) mentioned by ISd as on the authority of Yaakoob: but see اُجُمٌ as explained by J [in the S] on the same authority. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n313&quot; key=&quot;اُجْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُجْمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُجُمٌ.       -A2-  It is also a pl. of اَجَمَةٌ. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n314&quot; key=&quot;اَجَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجَمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَجَمَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n315&quot; key=&quot;اُجُمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُجُمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A fortress;&lt;/i&gt; (Mgh, Msb, K;) like اُطُمٌ: (Mgh:) pl. ا=جَامٌ. (Mgh, Msb, K.) الاُجُمُ [is the name of] &lt;i&gt;A fortress&lt;/i&gt; (S, K) &lt;i&gt;in El-Medeeneh,&lt;/i&gt; (K,) &lt;i&gt;built of stones by the people of that city:&lt;/i&gt; and Yaakoob says that اُجُمٌ signifies &lt;i&gt;any square, roofed, house.&lt;/i&gt; (S, Sgh.) Imra-el-Keys says, [describing a vehement rain,] &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَتَيْمَا=ءَ لَمْ يَتْرُكْ بِهَا جِذْعَ نَخْلَةٍ<br>\
+                     &lt;L&gt;<br>\
+                        وَلَا اُجُمَّا اـِلَّا مَشِيدًا بِجَنْدَلِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And Teymà,&lt;/i&gt; (a town so called,) &lt;i&gt;it left not therein a trunk of a palm-tree, nor a square, roofed, house, unless raised high with stones:&lt;/i&gt; but in the Calc. ed. of the Mo&#39; allakát, (p. 54,) for اُجُمَّا, we find اُطُمَّا, which has the same meaning]. (S, Sgh.) See also اَجْمٌ. (TA.) Accord. to As, it is also pronounced ↓ <br>\
+      اُجْمٌ. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n316&quot; key=&quot;اَجَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A thicket, wood,&lt;/i&gt; or &lt;i&gt;forest; a collection,&lt;/i&gt; (Mgh, Msb,) or &lt;i&gt;an abundant collection,&lt;/i&gt; (K,) &lt;i&gt;of tangled, confused,&lt;/i&gt; or &lt;i&gt;dense, trees,&lt;/i&gt; or &lt;i&gt;shrubs:&lt;/i&gt; (Mgh, Msb, K:) or it is &lt;i&gt;of reeds,&lt;/i&gt; or &lt;i&gt;canes:&lt;/i&gt; (S:) or &lt;i&gt;a&lt;/i&gt; [&lt;i&gt;place such as is termed&lt;/i&gt;] مَغِيض <br>\
+                  &lt;i&gt;of water collected together, in which, in consequence thereof, trees grow:&lt;/i&gt; (S in art. غيض:) [or] it signifies also &lt;i&gt;a bed,&lt;/i&gt; or &lt;i&gt;place of growth, of canes&lt;/i&gt; or &lt;i&gt;reeds:&lt;/i&gt; (Mgh:) the pl. is اَجَمَاتٌ and اُجُمٌ (S, M, K) and اُجْمٌ (M, K) and ↓ <br>\
+      اَجَمٌ, (S, M, Mgh, Msb, K,) [or rather this last is a coll. gen. n., of which اَجَمَةٌ is the n. un.,] and اـِجَامٌ (S, M, K) and [pl. of pauc.] ا=جَامٌ, (S, M, Mgh, K,) or the last but one is pl. of اَجَمٌ, (M,) and so is the last. (Lh, M, Msb.) And hence, The &lt;i&gt;haunt of a lion.&lt;/i&gt; (TA in art. حرب.) ―         -b2-  ا=جَامٌ [in the CK اَجام] also signifies &lt;i&gt;Frogs.&lt;/i&gt; (Sgh, K.) [App. because frogs are generally found in beds of canes or reeds.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n317&quot; key=&quot;اَجُومٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَجُومٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; signifies مَنْ يُوْجِمُ النَّاسَ, or يُوَجِّمُ النَّاسَ; [accord. to different copies of the K; see 4;] i. e. One &lt;i&gt;who makes men&#39;s own selves to be objects of dislike, disapprobation,&lt;/i&gt; or &lt;i&gt;hatred, to them.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n318&quot; key=&quot;ا=جِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=جِمٌ<br>\
+                     ا=جم<br>\
+                  &lt;i&gt;Loathing, disliking,&lt;/i&gt; or &lt;i&gt;regarding with disgust.&lt;/i&gt; (S, TA.)       -A2-  مَا=ءٌ ا=جِمٌ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; ↓ <br>\
+      مَاْجُومٌ [&lt;i&gt;Water that is loathed, disliked,&lt;/i&gt; or &lt;i&gt;regarded with disgust&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n319&quot; key=&quot;مَاْجُومٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْجُومٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=جِمٌ.   &lt;/entryFree&gt; <br>\
+' } );

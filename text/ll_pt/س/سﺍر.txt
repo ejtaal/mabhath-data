@@ -1,0 +1,65 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;سار&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  سار<br>\
+&lt;entryFree id=&quot;n18568&quot; key=&quot;سَاَرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     سَاَرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 4, in two places.       -A2-  سَيِرَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     سَاََ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. سُوْرٌ, (Msb,) &lt;i&gt;It remained; became left, as a residue.&lt;/i&gt; (Msb, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18569&quot; key=&quot;اسار&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اسار<br>\
+                     ذ<br>\
+                  &lt;i&gt;He left a remainder,&lt;/i&gt; or &lt;i&gt;somewhat remaining;&lt;/i&gt; (IAar, M, K;) as also ↓ <br>\
+      سَاَرَ, (IAar, K,) or سَاَرَ سُوْرًا, (A,) inf. n. سَاْرٌ: (TK:) or &lt;i&gt;he left somewhat of the beverage in the bottom of the vessel from which he had drunk;&lt;/i&gt; (S, TA;) as also اسار فِى الاـِنَا=ءِ سُوْرًا: (A:) the doing of which is prescribed in a trad. (TA.) You say also اسارهُ <br>\
+                  &lt;i&gt;He left it remaining.&lt;/i&gt; (Msb.) And اسار سُوْرًا and سُوْرَةً <br>\
+                  &lt;i&gt;He left a remainder,&lt;/i&gt; or &lt;i&gt;residue.&lt;/i&gt; (T, TA.) And اسار مِنْهُ شَيْيًا <br>\
+                  &lt;i&gt;He left somewhat of it remaining.&lt;/i&gt; (M.) And اَسْاَرَتِ الاـِبِلُ فِى الحَوْضِ; and سُوْرًا ↓ <br>\
+      سَاَرَتْ; &lt;i&gt;The camels left some water remaining in the trough,&lt;/i&gt; or &lt;i&gt;tank.&lt;/i&gt; (A.) Also اسار <br>\
+                  مِنَ الطَّعَامِ سُوْرَةً (tropical:)  &lt;i&gt;He left somewhat remaining of the food.&lt;/i&gt; (A.) And اسار مِنْ حِسَابِهِ (tropical:)  &lt;i&gt;He left somewhat of his calculation unreckoned.&lt;/i&gt; (M, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18570&quot; key=&quot;تساّر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تساّر<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (so in the Tekmileh and M and CK, and in a MS. copy of the K; but in some copies of the K, and in a copy of the A, ↓ <br>\
+      تَسَا=ءَرَ;) &lt;i&gt;He drank the remains:&lt;/i&gt; (A:) or &lt;i&gt;the remainder of the&lt;/i&gt; <br>\
+                  نَبِيذ; (K;) or so تساّر النَّبِيذَ. (Lh, M.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَسَاََّ<br>\
+                  &lt;/form&gt; see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18571&quot; key=&quot;سُوْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوْرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A remainder,&lt;/i&gt; or &lt;i&gt;residue;&lt;/i&gt; (T, M, Msb, K;) of a thing, (M,) or of anything; (TA;) as also ↓ <br>\
+      سُوْرَةٌ: (T:) or &lt;i&gt;a remainder of beverage in the bottom of a vessel after one has drunk;&lt;/i&gt; (S, * A;) &lt;i&gt;such as is left by a rat or mouse &amp;amp;c. after drinking:&lt;/i&gt; (S:) properly applied to &lt;i&gt;a remainder of water left by the drinker in a vessel or wateringtrough:&lt;/i&gt; and tropically to (tropical:)  &lt;i&gt;a remainder of food, &amp;amp;c.:&lt;/i&gt; (Mgh:) and ↓ <br>\
+      سُوْرَةٌ signifies likewise (tropical:)  &lt;i&gt;a remainder&lt;/i&gt; of food: (A:) pl. of the former اَسْا=رٌ, (S, M, Mgh, Msb,) and, by transposition, ا=سَارٌ, like ا=بَارٌ and ا=رَامٌ, pls. of بِيْرٌ and رِيْمٌ. (M.) [See also سَايِرٌ, below.] ―         -b2-  الصَّقْرِ ↓ <br>\
+      سُوْرَةُ means (tropical:)  &lt;i&gt;What remains of the portion of the flesh of the game that is given to the hawk which has captured it.&lt;/i&gt; (A.) ―         -b3-  &lt;i&gt;And&lt;/i&gt; ↓ <br>\
+      سُوْرَةٌ also signifies (tropical:)  &lt;i&gt;A remainder of youthful vigour&lt;/i&gt; in a man, (M, K,) or in a woman who has passed the prime of youth, (Lth,) or in a woman who has passed the period of youth but not been rendered decrepit by old age. (A.) [See also سُوْدَةٌ.] ―         -b4-  And (assumed tropical:)  &lt;i&gt;What is good,&lt;/i&gt; or &lt;i&gt;excellent,&lt;/i&gt; of property, or of camels or the like: pl. سُوَرٌ. (L.) [App. because such is left when one has parted with the bad.] ―         -b5-  ↓ <br>\
+      سُوْرَةٌ <br>\
+                  مِنَ القُرْا=نِ (tropical:)  [means &lt;i&gt;A chapter of the Kur-án;&lt;/i&gt;] so called because it is a portion, (A,) or a remainder: (TA:) or it may be from the signification immediately preceding: (L:) or it is a dial. var. of سُورَةٌ: (K:) pl. سُوَرٌ. (A, TA.) ―         -b6-  فُلَانٌ <br>\
+                  سُوْرُ شَرٍّ means &lt;i&gt;Such a one is very evil&lt;/i&gt; or &lt;i&gt;mischievous.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18572&quot; key=&quot;سُوْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سُوْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph, in five places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18573&quot; key=&quot;سَاّ=رٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَاّ=رٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;who leaves a remainder,&lt;/i&gt; or &lt;i&gt;residue,&lt;/i&gt; (S, M, K,) &lt;i&gt;of beverage in the bottom of the vessel from which he has drunk:&lt;/i&gt; (S, M:) [and (tropical:)  &lt;i&gt;of food in a dish; &amp;amp;c.:&lt;/i&gt;] deviating from rule, (S, M,) like جَبَّارٌ from اَجْبَرَ: (S:) [see دَرَّاكٌ, which is said to be the only other instance of the kind:] by rule it should be ↓ <br>\
+      مُسْيِرٌ; (S, K;) which is [said to be] also allowable: (K:) but MF denies this; (TA;) or it may be [regular] from سَاَرَ or [irregular] from اَسْاَرَ. (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18574&quot; key=&quot;سَايِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     سَايِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;rest,&lt;/i&gt; or &lt;i&gt;remainder,&lt;/i&gt; (T, and M in art. سير, and Msb and K,) of a thing, (Z, M, Msb,) whether little or much; (T, Msb;) and of men, or people: (Sgh; Msb:) not the &lt;i&gt;whole,&lt;/i&gt; or &lt;i&gt;all,&lt;/i&gt; as many imagine it to mean, (Sgh, Msb, K,) though people use it in this latter sense, (IAth,) which Sgh asserts to be a vulgar error: (Msb:) it occurs repeatedly in trads., and always in the former sense: (IAth:) or it is sometimes used [in chaste Arabic] in the latter sense: (K:) and is correctly so used accord. to AAF and J and IJ and ElJawáleekee and IB, the last of whom confirms this signification by many examples and evident proofs: but whether, in this sense, it is derived from السَّيْر, as AAF and J and others hold, or from سُورٌ the “ wall which surrounds a town or city, ” as others hold, is disputed: (TA:) and سَارُ الشَّىْءِ is a dial. var. of سَايِرُهُ. (S in art. سير.) ―         -b2-  An Arab of the desert became the guest of a party, and they ordered the female slave to perfume him; whereupon he said, بَطْنِى عَطِّرِى <br>\
+                  وَسَايِرِى ذَرِى [&lt;i&gt;My belly perfume thou, and the rest of me leave thou&lt;/i&gt;]: (K:) but in other lexicons than the K, we find اَعْطِرِى. (TA in art. عطر.) This saying is a well-known prov. (TA.) [In the TA it is added that سايري here signifies &lt;i&gt;the whole of me,&lt;/i&gt; or &lt;i&gt;all of me:&lt;/i&gt; but this is an evident mistake.] You say this to a man who gives you what you do not want, and refuses you what you want. (Sgh, TA in art. عطر.) ―         -b3-  It is related, also, that a hostile attack was made upon a people, and they cried out for aid to the sons of their uncle; but these held back from them until they had been made captives and taken away; then they came inquiring respecting them; and the person asked replied, اَسَايِرَ اليَوْمِ وَقَدْ زَالَ الظُّهْرُ [&lt;i&gt;What, all the day, when the noon has passed?&lt;/i&gt;] (K:) i. e., Dost thou covet what is remote, (مَا بَعُدَ, (S, K, TA, in a copy of the S and in one of the K and in the CK مَا بَعْدُ,) when [reason for] despair hath become manifest to thee: for when one wants the whole day, and the noon has passed, he must despair like as he despairs of accomplishing his want at sunset. (S in art. سير, and K.) This saying is a prov.; (S, A;) and is used with reference to a thing which one hopes to attain when its time has passed. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18575&quot; key=&quot;اَسَايِرُ&quot; type=&quot;main&quot;&gt;               1[     <br>\
+                     اَسَايِرُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; expl. by Golius as a pl. meaning “ Partes reliquæ ” is an evident mistake, app. caused by a misunderstanding of the latter prov. mentioned above.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n18576&quot; key=&quot;مُسْيِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْيِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see سَاّ=رٌ.   &lt;/entryFree&gt; <br>\
+' } );

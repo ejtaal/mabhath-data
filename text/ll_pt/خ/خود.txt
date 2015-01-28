@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>خود</em>            1                  خود<br>\
+<b>خوّد</b>               1     <br>\
+                     خوّد<br>\
+                     خود<br>\
+                  , (L,) inf. n. تَخْوِيدٌ, (S, L, K,) <i>He</i> (a camel, L) <i>went quickly;</i> or <i>was quick in his pace</i> or <i>going:</i> (S, L, K:) <i>he went quickly, and threw out his legs:</i> or, as some say, <i>he shook, as though he were convulsed:</i> and in like manner, a male ostrich: and sometimes it is said of a man, signifying as first explained above. (L.) ―         -b2-  خَوَّدَ رَاْلُهُ: see art. رال.       -A2-  <i>He sent</i> the stallion, فِىالاـِبِلِ <br>\
+                  <i>among the camels.</i> (L, K.)       -A3-  <i>He obtained</i> somewhat of food. (K.)    </entryFree> <br>\
+<b>تخوّد</b>               1     <br>\
+                     تخوّد<br>\
+                     تخود<br>\
+                  <i>He</i> (a camel) <i>shook</i> in going, <i>by reason of briskness, liveliness,</i> or <i>sprightliness.</i> (A.) ―         -b2-  <i>It</i> (a branch) <i>inclined,</i> (A, TA,) or <i>bent.</i> (K.)    </entryFree> <br>\
+<b>خَوْدٌ</b>               1     <br>\
+                     خَوْدٌ<br>\
+                     خود<br>\
+                  , applied to a girl, (S,) or young woman, (L,) or a female, (A, K,) <i>Soft,</i> or <i>tender,</i> (S, A, L, K,) <i>and youthful:</i> (A:) or <i>goodly,</i> or <i>beautiful, in make, and youthful,</i> (L, K,) <i>not yet of middle age:</i> (L:) pl. خَوْدَاتٌ (L, K) and خُودٌ; (S, L, K;) the latter like لُدْنٌ as pl. of لَدْنٌ, an epithet applied to a spear. (S, L.)   </entryFree> <br>\
+' } );

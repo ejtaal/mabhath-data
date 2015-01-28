@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'همرجQ. 1<br>\
+هَمْرَجَ عَلَيْهِ الخَبَرَ, (inf. n. هَمْرَجَةٌ, L, K,)<br>\
+He rendered the news, tidings, or information,<br>\
+confused to him. (S, L, K. *)<br>\
+هَمْرَجَةٌ Confusion; (K, L;) as also هَمْرَجٌ,<br>\
+and ↓ هَمَرَّجٌ, and هَمَرَّجَةٌ: ex. of the last وَقَعَ<br>\
+القَوْمُ فِى هَمَرَّجَةٍ The people fell into a state of<br>\
+confusion: (L:) and the third (L) and fourth<br>\
+(TA) signify also civil war, or conflict and<br>\
+faction, or discord, or dissension; syn. فِتْنَةٌ.<br>\
+(L, TA.) ―<br>\
+-b2-  A confused manner, or state, in<br>\
+walking. (S.) ―<br>\
+-b3-  A confused noise, or mixture<br>\
+of voices, or unintelligible sounds, of men; as<br>\
+also ↓ هُمْرُجَانٌ. (K.) ―<br>\
+-b4-  Lightness, or agility, and<br>\
+quickness. (K.) ―<br>\
+-b5-  What is rain, or false;<br>\
+syn. بَاطِلٌ. (K.) ―<br>\
+-b6-  الغُولُ هَمْرَجَةٌ مِنَ الجِنِّ<br>\
+The Ghool are a mixture of the Jinn. (L.)<br>\
+هَمَرَّجٌ: see هَمْرَجَةٌ. ―<br>\
+-b2-  Penetrating (مَاضٍ) in<br>\
+affairs. (K.)<br>\
+هُمْرُجَانٌ: see هَمْرَجَةٌ.<br>\
+' } );

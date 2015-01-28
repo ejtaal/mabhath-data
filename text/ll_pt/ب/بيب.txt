@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>بيب</em>            1                  بيب<br>\
+<b>البِيَبْ</b>               1     <br>\
+                     البِيَبْ<br>\
+                     البيب<br>\
+                     بيانو<br>\
+                   see اَبٌ, in art. ابو.   </entryFree> <br>\
+' } );

@@ -1,0 +1,35 @@
+load_data( { book: 'll_nvd', text: 'طستطَسْتٌ (S, M, K, &amp;c.) A kind of vessel of صُفْر<br>\
+[or brass]: (M, TA:) [generally pronounced in<br>\
+the present day طِشْت and طَشْت: and mostly<br>\
+applied to a kind of basin of tinned copper, or<br>\
+of brass, or of silver, used for washing the hands<br>\
+&amp;c., figured and described in my work on the<br>\
+Modern Egyptians:] i. q. طَسٌّ, [q. v.,] (IKt, S,<br>\
+Mgh, Msb, K,) which is [said to be] arabicized<br>\
+from طَسْت, the latter being a foreign word;<br>\
+(Mgh;) [but it is from the Pers., طَشْت;] it is<br>\
+of the dial. of Teiyi; (S;) and [said to be]<br>\
+formed from طَسٌّ, one of the two س being<br>\
+changed into ت, (IKt, S, Msb, K,) because they<br>\
+are deemed difficult of pronunciation; (IKt, S,<br>\
+Msb;) but in forming the pl. and the dim., the<br>\
+second س is restored, because separated from the<br>\
+former; (S;) for (IKt, S, Msb) the pl. is طِسَاسٌ<br>\
+(S, Mgh, Msb) and طُسُوسٌ, though it has also for<br>\
+its pl. طُسُوتٌ, (IKt, Mgh, Msb,) or, accord. to<br>\
+Zj, طِسَاتٌ; (Msb;) and the dim. is طُسَيْسٌ, (S,)<br>\
+or طُسَيْسَةٌ: (IKt, Msb:) it is also pronounced<br>\
+طِسْتٌ; (MF;) and طَشْتٌ also has been mentioned; (K;) but some say that this is a mistake;<br>\
+and others, that طَشْت is the original word from<br>\
+which طَسْتٌ is arabicized: (TA:) Zj says that,<br>\
+with most of the Arabs, (Msb,) it is fem.: (Mgh,<br>\
+Msb:) sometimes it is masc.: (Lh, M:) IAmb<br>\
+says, on the authority of Fr, that the word used<br>\
+by the Arabs was طَسَّةٌ, save that some said طَسٌّ,<br>\
+without ة; and that the tribe of Teiyi said طَسْتٌ,<br>\
+like as they said لِصْتٌ for لِصٌّ: Es-Sijistánee says<br>\
+that it is a foreign word arabicized: and Az, that<br>\
+it is a word adopted into the Arabic language,<br>\
+because ط and ت do not both occur in an<br>\
+Arabic word. (Msb.)<br>\
+' } );

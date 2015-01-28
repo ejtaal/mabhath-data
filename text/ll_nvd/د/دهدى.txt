@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'دهدىQ. 1<br>\
+دَهْدَى, inf. n. دَهْدَاةٌ: see R. Q. 1 in<br>\
+art. ده.<br>\
+Q. 2<br>\
+تَدَهْدَى: see R. Q. 2 in art. ده.<br>\
+دَهْدَآءٌ: see دَهْدَاهٌ, in art. ده.<br>\
+دُهْدُوَّةٌ [app. originally دُهْدُوْيَةٌ, like as قُوَّةٌ is<br>\
+held by some to be originally قُوْيَةٌ,] and دُهْدِيَّةٌ<br>\
+[likewise originally دُهْدُوْيَةٌ], and the latter also<br>\
+without teshdeed [for alleviation of the utterance]:<br>\
+see دُهْدُوهٌ, in art. ده.<br>\
+' } );

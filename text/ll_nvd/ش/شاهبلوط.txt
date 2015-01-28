@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'شاهبلوطشَاهْبَلُّوط [a Pers. word, and also used by the<br>\
+Arabs in the present day, applied to The chestnut]:<br>\
+also written شَاهْ بَلُّوط. (TA voce بَلُّوطٌ and voce<br>\
+جَمَلٌ.)<br>\
+' } );

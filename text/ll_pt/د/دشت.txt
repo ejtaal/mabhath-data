@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>دشت</em>            1                  دشت<br>\
+<b>دَشْتٌ</b>               1     <br>\
+                     دَشْتٌ<br>\
+                     ذ<br>\
+                  <i>A</i> [<i>desert,</i> or <i>such as is termed</i>] صَحْرَا=ء; (S, K;) as also دَسْتٌ: (Msb and K in art.  <br>\
+                  دست:) a Persian word [arabicized]; or an instance of agreement between the two languages [of Arabia and Persia]. (S.)       -A2-  دَشْتٌ مِنَ الثِّيَابِ, and مِنَ الوَرَقِ, <i>i. q.</i> <br>\
+                  دَسْتٌ. (TA.)   </entryFree> <br>\
+' } );

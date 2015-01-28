@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>بصم</em>            1                  بصم<br>\
+<b>بُصْمٌ</b>               1     <br>\
+                     بُصْمٌ<br>\
+                     اصم<br>\
+                     بصم<br>\
+                   The <i>space that is between the extremity of the little finger and that of the third finger</i> [<i>when they are extended apart</i>]: (S, M, * K:) mentioned on the authority of AO, (S,) or on that of Aboo-Málik alone. (M.) The عَتَب is the space between the third finger and the middle finger; the رَتَب, that between the middle finger and the first finger; [but see these two words;] the فِتْر, that between the first finger and the thumb; the شِبْر, that between the thumb and the little finger; and the فَوْت, that between every two fingers, in length. (S.) ―         -b2-  ذُو بُصْمٍ <br>\
+                  <i>Thick,</i> or <i>coarse;</i> applied to a man, (M, K,) or a garment, or piece of cloth: (K:) or you say ثَوْبٌ لَهُ بُصْمٌ, meaning <i>a garment,</i> or <i>piece of cloth, that is dense,</i> or <i>compact; close in texture.</i> (M.)   </entryFree> <br>\
+' } );

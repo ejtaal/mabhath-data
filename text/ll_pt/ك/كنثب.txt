@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كنثب</em>            1                  كنثب<br>\
+<b>كَنْثَبٌ</b>               1     <br>\
+                     كَنْثَبٌ<br>\
+                     ذ<br>\
+                   and كُنْثُبٌ and كُنَاثِبٌ <br>\
+                  <i>Hard and strong:</i> (K:) but the ث in this case is corrupted from ت: see كُنْتُبٌ in art. كنب. (TA.)    </entryFree> <br>\
+<b>كِنْثَابٌ</b>               1     <br>\
+                     كِنْثَابٌ<br>\
+                     ذ<br>\
+                   [in the TA written كنابث] <i>Sand pouring down.</i> (IAar, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قعف</em>            1                  قعف<br>\
+<b>انقعف</b>               1     <br>\
+                     انقعف<br>\
+                     ذ<br>\
+                  : see انقعث; <i>He died.</i> (TA, art. قعص.)   </entryFree> <br>\
+' } );

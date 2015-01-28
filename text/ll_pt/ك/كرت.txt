@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كرت</em>            1                  كرت<br>\
+<b>سَنَةٌ كَرِيتٌ</b>               1     <br>\
+                     سَنَةٌ كَرِيتٌ<br>\
+                     ذ<br>\
+                  <i>A complete year.</i> (S, K.) And so a day, and a month. (TA.)   </entryFree> <br>\
+' } );

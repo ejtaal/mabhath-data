@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مهممَهْمَةٌ<br>\
+A far-extending<br>\
+مَفَازَة [or desert, &amp;c.].<br>\
+(S, K.) See إِصْمِت.<br>\
+' } );

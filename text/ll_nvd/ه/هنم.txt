@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'هنمQ. Q. 1<br>\
+هَيْنَمَ<br>\
+He concealed, or kept secret, a<br>\
+story; syn. أَسَرَّ. (A, art. جهر.)<br>\
+' } );

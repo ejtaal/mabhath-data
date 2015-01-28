@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;يا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  يا<br>\
+&lt;entryFree id=&quot;n42420&quot; key=&quot;يَاْيَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     يَاْيَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. يَاْيَاَهٌ and يَاْيَا=ءٌ, [respecting the form of which latter see ظَاْظَاَ,] &lt;i&gt;He made a show of kindness, benignity,&lt;/i&gt; or &lt;i&gt;favour to him.&lt;/i&gt; (K.) ―         -b2-  اـِنَّمَا هُوَ يَاْيَا=ءٌ [&lt;i&gt;It is only making a show of kindness, &amp;amp;c.:&lt;/i&gt; or, perhaps, &lt;i&gt;He is only one who makes a show of kindness, &amp;amp;c,&lt;/i&gt;]. (L.)       -A2-  يَاْيَاَ بِالقَوْمِ <br>\
+                  &lt;i&gt;He called the people:&lt;/i&gt; (K: so too in the L, and this is the correct meaning: TA:) or &lt;i&gt;he said to the people&lt;/i&gt; <br>\
+                  يَاَّيَاَّ, &lt;i&gt;in order that they should assemble,&lt;/i&gt; or &lt;i&gt;collect together.&lt;/i&gt; (K) ―         -b2-  يَاْيَاَ بِالاـِبِلِ <br>\
+                  &lt;i&gt;He called to the camels by the cry&lt;/i&gt; <br>\
+                  اَىْ, (whence the verb is formed by transposition, TA,) &lt;i&gt;to quiet them.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42421&quot; key=&quot;يَاْيَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَاْيَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;cry,&lt;/i&gt; or &lt;i&gt;crying, of the bird called&lt;/i&gt; <br>\
+                  يُوْيُو. (K.) ―         -b2-  [See also the verb.] ―         -b3-  See art. اَيَا.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n42422&quot; key=&quot;يُوْيُوٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يُوْيُوٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain bird&lt;/i&gt; (S, K) &lt;i&gt;of prey,&lt;/i&gt; (S,) &lt;i&gt;resembling the&lt;/i&gt; [&lt;i&gt;kind of hawk called&lt;/i&gt;] بَاشَق: (S, K:) it is &lt;i&gt;of the birds called&lt;/i&gt; <br>\
+                  صُقُور, [pl. of صَقْرٌ,] as are also the بَازِى and the شَاهِين and the زُرَّق and the بَاشَق: (AHát in TA, in art. بشق:) accord. to Dmr, it is &lt;i&gt;a small bird, short-tailed, the temperament of which is, in comparison with that of the&lt;/i&gt; <br>\
+                  باشق, &lt;i&gt;cold and moist; for it is more patient,&lt;/i&gt; or &lt;i&gt;enduring, and heavier in motion:&lt;/i&gt; the people of Egypt and Syria, he adds, call it جَلَمٌ, on account of the lightness and swiftness of its wings: (TA:) pl. يَا=يِىُ, and, in a verse, يَا=يِىْ. (S.) ―         -b2-  Also, accord. to AA, The &lt;i&gt;head,&lt;/i&gt; or &lt;i&gt;uppermost part, of a vessel in which&lt;/i&gt; <br>\
+                  كُحْل (&lt;i&gt;collyrium&lt;/i&gt;) &lt;i&gt;is kept:&lt;/i&gt; mentioned before as called بُوْبُوٌ, which is perhaps a mistake for يويو. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

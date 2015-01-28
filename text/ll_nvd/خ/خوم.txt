@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'خوم4<br>\
+اخام: see art. خيم.<br>\
+خَامٌ: see art. خيم.<br>\
+خَامَةٌ: see art. خيم.<br>\
+' } );

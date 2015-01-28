@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'تموزتَمُّوزُ [sometimes written تَمُوزُ, without tesh-deed,] The [Syrian] month [sacred, in ancient<br>\
+times, to the god of that name, (mentioned in<br>\
+Ezek. viii. 14,) corresponding to July, O. S.,]<br>\
+after حَزِيرانُ. (S in art. حزر.)<br>\
+' } );

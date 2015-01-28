@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لعو</em>            1                  لعو<br>\
+<b>لَعًا</b>               1     <br>\
+                     لَعًا<br>\
+                     ذ<br>\
+                  , said to a camel when it stumbles: see تَعْسًا, voce تَعَسَ: and see the first paragraph of art. عول, last sentence but one.    </entryFree> <br>\
+<b>لَعْوَةٌ</b>               1     <br>\
+                     لَعْوَةٌ<br>\
+                     ذ<br>\
+                  <i>A hunting bitch.</i> (L, art. عقد.)   </entryFree> <br>\
+' } );

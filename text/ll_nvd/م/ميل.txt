@@ -1,0 +1,90 @@
+load_data( { book: 'll_nvd', text: 'ميل1<br>\
+مَالَ<br>\
+[He, or it, inclined, leant, bent, propended, tended, declined, deviated, or deflected.]<br>\
+―<br>\
+-b2-  مَالَ مَعَهُ and ↓ مَايَلَهُ<br>\
+He conformed with, and<br>\
+assisted, or aided, him. (TA.) ―<br>\
+-b3-  مَالَ إِلَيْهِ<br>\
+He<br>\
+loved him. (TA.) ―<br>\
+-b4-  He wronged him.<br>\
+(TA.) He was, or became, inimical to him. ―<br>\
+-b5-<br>\
+مَالَتِ الدَّابَّةُ مِنْ رِجْلِهَا (K, art. غمز,) i. q.<br>\
+ظَلَعَتْ<br>\
+[It limped]. (TA.)<br>\
+2<br>\
+مَيَّلَ بَيْنَ شَيْئَيْنِ<br>\
+He wavered, or vacillated,<br>\
+between two things. (S, MA.) See 10.<br>\
+3<br>\
+مَايَلَهُ<br>\
+He inclined towards him reciprocally:<br>\
+and مَايَلَا<br>\
+they two inclined each towards the<br>\
+other. (TK, art. هود.) See also مَالَ مَعَهُ in 1.<br>\
+5<br>\
+تَمَيَّلَ<br>\
+See 6. ―<br>\
+-b2-  تَمَيَّلَ بِالقَوْلِ<br>\
+He vacillated in the<br>\
+saying: see تَرَجَّحَ.<br>\
+6<br>\
+تَمَايَلَ فِى مِشْيَتِهِ<br>\
+[He affected an inclining<br>\
+of his body, or a bending, or he inclined his body,<br>\
+or bent, from side to side, in his gait; a meaning<br>\
+well known, and still common]; (S;) syn. تَثَنَّى.<br>\
+(Har, p. 269.) ―<br>\
+-b2-  See تَزَايُغٌ. ―<br>\
+-b3-  تَمَايَلَتْ فِى<br>\
+مِشْيَتِهَا and ↓ تَمَيَّلَتْ signify the same. (TA.)<br>\
+―<br>\
+-b4-  تَمَايَلَ إِلَى الشَّىْءِ; and عَنْ طَرِيقِهِ: i. q.<br>\
+تَجَانَفَ<br>\
+[He affected a deviation, or purposely deviated<br>\
+from his course, &amp;c.] (TA in art. جنف.)<br>\
+10<br>\
+استمالهُ<br>\
+, and استمال بِقَلْبِهِ, (S, K,) He inclined him, and his heart. (K.) ―<br>\
+-b2-  اِسْتَمَالَهُ<br>\
+He attracted him to himself; or sought to make<br>\
+him incline. (MA.) ―<br>\
+-b3-  استمال is a quasi-pass.<br>\
+of ↓ مَيَّلَهُ. (K, * TA.)<br>\
+مِيلٌ<br>\
+as used by the Arabs, [A mile:] The distance to which the eye reaches along land: accord.<br>\
+to the ancient astronomers, three thousand cubits:<br>\
+accord to the moderns, four thousand cubits: but<br>\
+the difference is merely verbal; for they agree<br>\
+that its extent is ninety-six thousand digits;<br>\
+[about 5166 English feet;] each digit being the<br>\
+measure of six barley-corns, each placed with its<br>\
+belly next to another; but the ancients say that<br>\
+the cubit is thirty-two digits; which makes the<br>\
+mile three thousand cubits. (Msb, which see<br>\
+for more.) See also مُطْلِبٌ ―<br>\
+-b2-  ميِلٌ<br>\
+i. q.<br>\
+مُلْمُولٌ,<br>\
+[A style]. (K.)<br>\
+مَيْلٌ<br>\
+Inclination; leaning; bent; propensity;<br>\
+tendency.<br>\
+مَيَلٌ<br>\
+A natural wryness. (S.)<br>\
+مِيلَانِ<br>\
+(?) of a مَحَالَة of a well: see ثِنَايَةٌ.<br>\
+مَيَّالٌ<br>\
+[i. q.<br>\
+مُتَمَايِلٌ, Inclining much]. (A, art.<br>\
+فيد.) See سَيَّالٌ.<br>\
+أَمْيَلُ<br>\
+Swaying on horseback: see an ex. of its<br>\
+pl. مِيلٌ in a verse cited voce أَشْعَلَ. ―<br>\
+-b2-  عِمَّةٌ مَيْلَآءُ:<br>\
+see قَفْدَآءُ.<br>\
+امالةُ الأَلِفِ<br>\
+The inclining of the sound of<br>\
+' } );

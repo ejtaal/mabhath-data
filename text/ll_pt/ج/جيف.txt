@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>جيف</em>            1                  جيف<br>\
+<b>جَافَتِ الجِيفَةُ</b>               1     <br>\
+                     جَافَتِ الجِيفَةُ<br>\
+                     جافت الجيفه<br>\
+                     جافت الجيفة<br>\
+                  , aor. تَجِيفُ; (K;) and ↓ <br>\
+      جيّفت, (S, * K,) inf. n. تَجْيِيفٌ; (S;) and ↓ <br>\
+      اجتافت, (K,) [and ↓ <br>\
+      تجيّفت, Golius, as from the K, but not found by me in any copy thereof,] and ↓ <br>\
+      انجافت; (TA;) <i>The dead body stank,</i> or <i>became stinking.</i> (S, * K, TA.)    </entryFree> <br>\
+<b>جيّف</b>               1     <br>\
+                     جيّف<br>\
+                     جيف<br>\
+                     جيفة<br>\
+                  <i>He became a stinking dead body.</i> (Mgh, KL.) ―         -b2-  See also 1.    </entryFree> <br>\
+                     تَجَيَّفَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اـِنْجَيَفَ<br>\
+                   see 1.    </entryFree> <br>\
+                     اـِجْتَيَفَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>جِيفَةٌ</b>               1     <br>\
+                     جِيفَةٌ<br>\
+                     جيفه<br>\
+                     جيفة<br>\
+                   [<i>A carcass,</i> or <i>corpse,</i> i. e.] <i>a dead body</i> [of a beast or a man], <i>that has become stinking;</i> (S, Mgh, K;) or, as some say, <i>in a general sense;</i> [<i>whether stinking</i> or <i>not:</i>] (TA:) or, of beasts and cattle, <i>an animal that has died a natural death,</i> or <i>been killed otherwise than in the manner prescribed by the law, and has become stinking:</i> (Msb:) [and the <i>corpse of a man:</i> (see جَيَّافٌ:)] pl. [of mult.] جِيَفٌ (S, Mgh, Msb, K) and [of pauc.] اَجْيَافٌ. (S K.) [Hence,] جِيفَةُ لَيْلٍ قُطْرُبُ نَهَارٍ <br>\
+                  <i>One who sleeps all the night, and labours all the day.</i> (TA from a trad. [See also art. قطرب.]) IDrd mentions this word in art. جوف, holding the ى to be originally و. (TA.)    </entryFree> <br>\
+<b>جَيَّافٌ</b>               1     <br>\
+                     جَيَّافٌ<br>\
+                     جياف<br>\
+                  <i>A rifler,</i> or <i>ransacker, of graves;</i> (K, TA;) because he removes the [grave-] clothes from the corpses, and takes them; or, as some say, because of the stinking nature of his act. (TA.)   </entryFree> <br>\
+' } );

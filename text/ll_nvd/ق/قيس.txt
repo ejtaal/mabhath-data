@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قيسقَيَّاسٌ<br>\
+: see قَوَّاسٌ.<br>\
+مَقِيسٌ<br>\
+(not مُقَيَّسٌ) Consistent with analogy.<br>\
+' } );

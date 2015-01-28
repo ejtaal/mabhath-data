@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>كنى</em>            1                  كنى<br>\
+<b>كَنَى</b>               1     <br>\
+                     كَنَى<br>\
+                     ذ<br>\
+                  <i>He affixed a</i> <br>\
+                  كِنَايَة, meaning, with the Koofees, <i>a pronoun,</i> to a verb [&amp;amp;c.]: (TA in art. ريب:) but accord. to the usage of the verb in two instances in the M and K, voce رَابَ in art. ريب, it clearly means <i>he spoke allusively.</i> ―         -b2-  كَنَىَ بِهِ عَنْ كَدَم, <i>He used it metonymically for such a word</i> or <i>phrase; he alluded thereby to such a thing.</i>    <br>\
+<b>كُنْيَةٌ</b>               1     <br>\
+                     كُنْيَةٌ<br>\
+                     ذ<br>\
+                  <i>A surname of relationship.</i>    <br>\
+<b>كِنَايَةٌ</b>               1     <br>\
+                     كِنَايَةٌ<br>\
+                     ذ<br>\
+                  <i>A metonymy:</i> see تَعْرِيضٌ; where the difference between these two words is explained. ―         -b2-  Also, <i>An allusion.</i> (TA.) ―         -b3-  Also, and ↓ <br>\
+      مُكَنًّى, accord. to De Sacy, in his Ar. Gr. i. 455, or ↓ <br>\
+      مُكَنٍّ, for I find its plural written in a copy of the S مُكَنِّيَات, <i>A pronoun;</i> see كَنَى.    </entryFree> <br>\
+<b>مُكَنٍّ</b>               1     <br>\
+                     مُكَنٍّ<br>\
+                     ذ<br>\
+                   and مُكَنَّى:see كِنَايَةٌ.   </entryFree> <br>\
+' } );

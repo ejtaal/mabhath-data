@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'فجن4<br>\
+افجن He (a man, TA) kept constantly to<br>\
+the eating of فَيْجَن [i. e. rue]. (K, TA.)<br>\
+فَيْجَنٌ [*ph/ganon; i. e. rue;] i. q. سَذَابٌ; (S, K;)<br>\
+as also ↓ فيجين: (T in art. خفت, and TA in art.<br>\
+ختف:) and so فَيْجَلٌ: (TA:) IDrd [rightly]<br>\
+says, “I do not think it to be a genuine Arabic<br>\
+word. ” (TA.)<br>\
+فيجين: see the next preceding paragraph.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>اسفيداج</em>            1                  اسفيداج<br>\
+<b>اـِسْفِيدَاجٌ</b>               1     <br>\
+                     اـِسْفِيدَاجٌ<br>\
+                     اسفيداج<br>\
+                   [<i>Ceruse; or white lead;</i>] <i>ashes of lead</i> (رَمَادُ الرَّصَاصِ والا=نُكِ, K, which last word is as though it were added to explain that immediately preceding, TA): when subjected to a fierce heat, it becomes what is termed اـِسْرَنْجٌ: [so in the CK: more probably اـِسْرِنْجٌ:] it has clearing and mitigating properties, (K,) and other useful qualities: (TA:) an arabicized word [from the Persian اسفيداج isfédáj]. (K.)   </entryFree> <br>\
+' } );

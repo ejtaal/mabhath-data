@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'قفأ1<br>\
+قَفِئَتِ الأَرْضُ, aor.<br>\
+قَفَاَ, inf. n. قَفْءٌ, The land<br>\
+was rained upon, and its herbage became altered<br>\
+and spoiled thereby: (K:) or قَفْءٌ [the inf. n.]<br>\
+signifies the falling of dust upon the herbs, or<br>\
+leguminous plants, (AHn, K, TA,) in consequence<br>\
+of which they are spoiled if the dust be not washed<br>\
+off. (AHn, TA.) [See فَقَأَت as said of the<br>\
+بُهْمَى.]<br>\
+8<br>\
+اقتفأ الخَرْزَ is said in the K to be syn. with<br>\
+افتقأهُ, [q. v.,] and is expl. by Lh as meaning He<br>\
+repeated the [kind of sewing termed] خَرْز [i. e. the<br>\
+sewing of skins and the like by means of an awl],<br>\
+and added, between the two kulbehs, another<br>\
+kulbeh, as is done with reed-mats when they are<br>\
+re-sewed. (TA.) [The kulbeh (كُلْبَة, q. v.) is<br>\
+here described as a thong, or a strand (طَاقَة) of<br>\
+[the membranous fibres that grow at the base of<br>\
+the branches of the palm-tree and are called]<br>\
+لِيف, used in the same manner as the shoemaker&#39;s<br>\
+awl, &amp;c., as in art. كلب, q. v.; but what is here<br>\
+meant by this word is evidently, I think, a thong,<br>\
+or the like, with which a skin is sewed, agreeably<br>\
+with another explanation of it in art. كلب.]<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>دفتر</em>            1                  دفتر<br>\
+<b>دَفْتَرٌ</b>               1     <br>\
+                     دَفْتَرٌ<br>\
+                     دفتر<br>\
+                   (S, Msb, K, &amp;amp;c.) and دِفْتَرٌ, (Lh, Fr, Msb, K,) like دِرْهَمٌ, (TA,) [<i>A register;</i>] <i>a number of leaves put,</i> or <i>joined, together:</i> (S, M, K:) or <i>an account-book;</i> syn. جَرِيدَةٌ حِسَابٍ: (Msb:) or <i>a written book:</i> and it may be met. applied to <i>a blank book,</i> like دَفْتَرٌ اَبْيَضُ: (Mgh:) [it is a Persian word, arabicized; though asserted to be] an Arabic word, but, as IDrd says, of unknown derivation; and by some of the Arabs, [namely, the Benoo-Asad, (Fr, TA in art. تفتر,)] pronounced  <br>\
+                  تَفْتَرٌ: (Msb:) pl. دَفَاتِرُ: (S, Mgh:) of which the dim. is دُفَيْتِرَاتٌ. (Mgh.)    </entryFree> <br>\
+<b>دُفَيْتِرَاتٌ</b>               1     <br>\
+                     دُفَيْتِرَاتٌ<br>\
+                     دفيترات<br>\
+                  : see above.   </entryFree> <br>\
+' } );

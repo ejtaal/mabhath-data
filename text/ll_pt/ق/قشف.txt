@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قشف</em>            1                  قشف<br>\
+<b>قَشِفَ</b>               1     <br>\
+                     قَشِفَ<br>\
+                     ذ<br>\
+                  , inf. n. قَشَفَ, <i>He was coarse in his</i> <br>\
+                  <i>living:</i> this is the original signification: <i>he was neglectful of cleanliness:</i> (Msb:) <i>he was neglectful of washing and cleanliness; unfrequent in paying attention thereto; slovenly with respect to his person:</i> (M, Msb:) and ↓ <br>\
+      تَقَشَّفَ signifies the like. (Msb.) ―         -b2-  قَشِفَ, inf. n. قَشَفٌ, <i>He became sunburnt.</i> (M.)    </entryFree> <br>\
+                     تَقَشَّفَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

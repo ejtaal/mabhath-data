@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اط&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اط<br>\
+&lt;entryFree id=&quot;n896&quot; key=&quot;اَطَّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَطَّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَطِ٣َ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَطِيطٌ (S, K) and اَطٌّ, (TA,) &lt;i&gt;It produced, made, gave, emitted,&lt;/i&gt; or &lt;i&gt;uttered, a sound, noise, voice,&lt;/i&gt; or &lt;i&gt;cry;&lt;/i&gt; (S, K;) [and particularly, &lt;i&gt;it creaked;&lt;/i&gt; and &lt;i&gt;it moaned;&lt;/i&gt;] said of a camel&#39;s saddle, (S, * K, [in the CK, الرَّجُلُ is put by mistake for الرَّحْلُ ]) [and particularly of a new camel&#39;s saddle,] and the like, (K,) such as a [plaited or woven girth called] نِسْع and of everything of which the sound resembles that of a new camel&#39;s saddle, (TA,) and of a palm-trunk, and of a tree of the kind called سِدْر, (S TA,) or of the kind called سَرْح, (TA,) and of a cane or reed on the occasion of its being straightened, [in which instance it is said to be tropical, but if so it is tropical in several other instances,] and of a bow, (TA,) and of the belly by reason of emptiness, (S,* TA,) and, in a trad. of Aboo-Dharr, (tropical:)  of heaven, or the sky, notwithstanding there being [really] no اَطِيط in this instance, for it is meant to denote [the presence of] multitude, and confirmation of the majesty of God. (TA.) [It is also said of other things, as will be shown by phrases here following, and by explanations of اَطِيطٌ below.] You also say, اَطَّتِ <br>\
+                  الاـِبِلُ, (K,) aor. as above, inf. n. اَطِيطٌ, (TA,) &lt;i&gt;The camels moaned by reason of fatigue,&lt;/i&gt; or &lt;i&gt;uttering their yearning cry to their young,&lt;/i&gt; (K, TA,) and sometimes &lt;i&gt;by reason of fulness of their udders with milk.&lt;/i&gt; (TA.) And لَا ا=تِيكَ مَا اَطَّتِ الاـِبِلُ <br>\
+                  &lt;i&gt;I will not come to thee as long as camels utter cries&lt;/i&gt; [or &lt;i&gt;moan&lt;/i&gt;] &lt;i&gt;by reason of the heaviness of their loads.&lt;/i&gt; (S.) And لَا اَفْعَلُ ذٰلِكَ مَا اَطَّتِ الاـِبِلُ, meaning &lt;i&gt;I will not do that ever.&lt;/i&gt; (TA.) And مَا لَنَا بَعِيرٌ يَيِطُّ <br>\
+                  &lt;i&gt;We have not a camel that moans,&lt;/i&gt; or &lt;i&gt;cries;&lt;/i&gt; meaning &lt;i&gt;we have not any camel;&lt;/i&gt; for the camel cannot but do so. (TA, from a trad.) [See also اَطِيطٌ, below.] And اَطَّتْ لَهُ رَحِمِى (tropical:)  [&lt;i&gt;My feeling of relationship,&lt;/i&gt; or &lt;i&gt;sympathy of blood,&lt;/i&gt;] &lt;i&gt;became affected with tenderness,&lt;/i&gt; or &lt;i&gt;compassion,&lt;/i&gt; and &lt;i&gt;became moved,&lt;/i&gt; [or rather &lt;i&gt;pleaded,&lt;/i&gt;] &lt;i&gt;for him&lt;/i&gt; [or &lt;i&gt;in his favour&lt;/i&gt;]: (K, TA:) and hence ↓التَّاَطُّطُ [inf. n. of the verb in the syn. phrase تَاَطَّطَتْ لَهُ رَحِمِى]. (Sgh, TA.) And اَطَّتْ بِكَ الرَّحِمُ [&lt;i&gt;The feeling of relationship,&lt;/i&gt; or &lt;i&gt;sympathy of blood, pleaded,&lt;/i&gt; or &lt;i&gt;hath pleaded, in thee;&lt;/i&gt;] i. e., &lt;i&gt;inclined thee to favour.&lt;/i&gt; (Ham p. 765.) [See another ex. voce حَاسَّةٌ.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَطَّ٣َ<br>\
+                  &lt;/form&gt; see 1, near the end.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n897&quot; key=&quot;اَطٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَطٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَطِيطٌ, below.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n898&quot; key=&quot;نُسُوعٌ اُطَّطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نُسُوعٌ اُطَّطٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [pl. of ا=طٌّ, part. n. of 1,] &lt;i&gt;Creaking&lt;/i&gt; [&lt;i&gt;plaited,&lt;/i&gt; or &lt;i&gt;woven, thongs&lt;/i&gt;]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n899&quot; key=&quot;اَطِيطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَطِيطٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [as explained in what here follows seems to be properly an inf. n., though, like all inf. ns., it may be used as a subst.:] The &lt;i&gt;sounding,&lt;/i&gt; or &lt;i&gt;the like,&lt;/i&gt; or the &lt;i&gt;sound,&lt;/i&gt; or &lt;i&gt;the like,&lt;/i&gt; [and particularly the &lt;i&gt;creaking,&lt;/i&gt; or &lt;i&gt;creaking sound,&lt;/i&gt; and the &lt;i&gt;moaning,&lt;/i&gt; or &lt;i&gt;moaning sound,&lt;/i&gt;] of a camel&#39;s saddle (S, K, TA) when new; (TA;) and so ↓اَطٌّ of the litters and saddles of camels when the riders are heavy thereon; and the former, also, of a door; said, in a trad., of the gate of paradise, by reason of its being crowded; (TA;) and of a plaited or woven thong when stretching; (Ez-Zejjájee, TA;) and of the back [when strained]; (K;) and of the bowels, (TA,) and of the belly, or inside, by reason of hunger, (K,) or by reason of vehement hunger; (TA;) and of camels, (S, K,) by reason of their burdens, (K,) or by reason of the heaviness of their burdens; (S;) and the &lt;i&gt;prolonging of the cries&lt;/i&gt; of camels: (TA:) but &#39;Alee Ibn- Hamzeh says that the cry of camels is termed رُغَا=ءٌ, and that اَطِيطٌ signifies the &lt;i&gt;sounding,&lt;/i&gt; or &lt;i&gt;sound,&lt;/i&gt; of their bellies, or insides, &lt;i&gt;by reason of repletion from drinking.&lt;/i&gt; (IB, TA.) اَهْلٌ صَهِيلٍ <br>\
+                  وَاَطِيطٍ, occurring in a trad., means (assumed tropical:)  &lt;i&gt;Possessors of horses and of camels.&lt;/i&gt; (TA.) ―         -b2-  Also (assumed tropical:) &lt;i&gt;Hunger,&lt;/i&gt; (K, TA,) itself, as well as the sound of the bowels or belly by reason thereof: from EzZejjájee. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n900&quot; key=&quot;اَطَّاطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَطَّاطٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Sounding much; noisy;&lt;/i&gt; (K, TA;) &lt;i&gt;having a sound:&lt;/i&gt; applied [to any of the things mentioned above in the explanations of اَطَّ and اَطِيطٌ; and] to a hide; and to a camel repleted with drink; and to a road: fem. with ة: which, applied to a woman, signifies one &lt;i&gt;whose&lt;/i&gt; <br>\
+                  فَرْج <br>\
+                  &lt;i&gt;has a sound&lt;/i&gt; <br>\
+                  اـِذَا جُومِعَتْ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

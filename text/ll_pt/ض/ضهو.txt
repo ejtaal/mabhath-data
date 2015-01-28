@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>ضهو</em>            1                  ضهو<br>\
+<b>ضَهْوَةٌ</b>               1     <br>\
+                     ضَهْوَةٌ<br>\
+                     ذ<br>\
+                  <i>A</i> <br>\
+                  بِرْكَة <br>\
+                  <i>of water;</i> [i. e. <i>a wateringtrough,</i> or <i>tank,</i> or <i>the like, of water;</i> or <i>a basin, pool, pond,</i> or <i>lake, of water;</i> or <i>a place where water remains and collects,</i> or <i>collects and stagnates;</i>] (M, K;) as though formed by transposition from وَهْضَةٌ, which signifies <i>a depressed piece of ground:</i> (TA:) pl. اَضْهَا=ءٌ. (M, K.)    </entryFree> <br>\
+<b>ضَهْوَا=ءُ</b>               1     <br>\
+                     ضَهْوَا=ءُ<br>\
+                     ذ<br>\
+                   A woman <i>whose breasts have not become prominent,</i> or <i>protuberant.</i> (Lth, K.) [See also ضَهْيَا=ءُ, in the next art.]   </entryFree> <br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'اسب4<br>\
+آسبت الأَرْضُ The land produced [herbage<br>\
+such as is termed] عُشْب; syn. أَعْشَبَت. (K.)<br>\
+إِسْبٌ The hair of the pubes: (M, K:) or of<br>\
+the pudendum: (Th, M, K:) or of the podex:<br>\
+(S, K:) it may be, (S,) or is said to be, (M,)<br>\
+from وِسْبٌ, (S, M,) which signifies “ herbage,”<br>\
+or “ plants,” (S,) or “ abundance of herbage: ”<br>\
+(M:) the و being changed into ء, as in the case<br>\
+of إِرْتق and وِرْثٌ: (S:) pl. أُسُوبٌ, and, accord. to<br>\
+IJ, آسَابٌ. (M.)<br>\
+مُؤَسَّبٌ A ram having much wool. (M, K.)<br>\
+' } );

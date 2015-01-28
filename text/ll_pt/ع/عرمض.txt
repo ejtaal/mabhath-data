@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>عرمض</em>            1                  عرمض<br>\
+<b>عَرْمَضَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     عَرْمَضَ<br>\
+                     ذ<br>\
+                  , inf. n. عَرْمَضَةٌ and عِرْمَاضٌ, (Lh, O, K,) <i>It</i> (water) <i>became overspread with</i> <br>\
+                  عَرْمَض [q. v.]; (Lh, O;) <i>i. q.</i> <br>\
+                  طَحْلَبَ. (K.)    </entryFree> <br>\
+<b>عَرْمَضٌ</b>               1     <br>\
+                     عَرْمَضٌ<br>\
+                     ذ<br>\
+                   (Lth, S, O, K) and ↓ <br>\
+      عِرْمَاضٌ (IDrd, K, TA, written in the O عَرْمَاض) <i>i. q.</i> <br>\
+                  طُحْلُبٌ; (S, O, K;) i. e. The <i>green substance that comes forth from the bottom of water, so as to overspread it;</i> (S, O, L;) <i>also called</i> <br>\
+                  ثَوْرُ المَا=ءِ; [O; in the L, and in one copy of the S, ثَوْبُ المَا=ءِ, which is a mistake;] accord. to AZ; (S, O;) the <i>green substance like</i> <br>\
+                  خِطْمِىّ [or <i>marsh-mallow</i>], <i>which is upon water;</i> (Lh;) <i>a soft green substance, like loosened and separated wool, upon stale water;</i> so says Lth, and he adds his opinion that it is vegetative: (TA:) n. un. with ة. (K.) ―         -b2-  Also the former, (O, K,) and ↓ <br>\
+      عِرْمِضٌ, (El-Hejeree, K,) <i>A sort of trees, of those called</i> <br>\
+                  عِضَاه, (Lth, O, K,) <i>having thorns like the beaks of birds; the hardest thereof in the wood:</i> (Lth, O:) or the former, (O, K,) as some assert, (AHn, O,) the <i>small of the</i> <br>\
+                  اَرَاك (AHn, O, K) <i>and of the</i> <br>\
+                  سِدْر <br>\
+                  <i>and of all trees that never become great:</i> (K:) or <i>small trees of those called</i> <br>\
+                  سِدْر, <i>that do not become large nor tall, of which the thorns are like the beaks of birds; the hardest thereof in the wood, and the best for bows:</i> (IAar, O:) or <i>certain small trees:</i> or the <i>small of the</i> <br>\
+                  عِضَاه: or the <i>small of all trees:</i> n. un. with ة. (O.)    </entryFree> <br>\
+<b>عِرْمِضٌ</b>               1     <br>\
+                     عِرْمِضٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>عِرْمَاضٌ</b>               1     <br>\
+                     عِرْمَاضٌ<br>\
+                     ذ<br>\
+                   inf. n. of 1: ―         -b2-  and <i>i. q.</i> <br>\
+                  عَرْمَضٌ, q. v.    </entryFree> <br>\
+<b>مَا=ءٌ مُعَرْمِضٌ</b>               1     <br>\
+                     مَا=ءٌ مُعَرْمِضٌ<br>\
+                     ذ<br>\
+                   [so in the TA, agreeably with the verb; but in my two copies of the S, مُعَرْمَضٌ;] <i>Water overspread,</i> or <i>becoming overspread, with</i> <br>\
+                  عَرْمَض. (S, TA.)   </entryFree> <br>\
+' } );

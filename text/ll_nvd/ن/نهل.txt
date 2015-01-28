@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'نهلنَهَلٌ<br>\
+A fir t drinking: see عَلَلٌ.<br>\
+مَنْهَلٌ<br>\
+A watering-place; i. e., a spring to which<br>\
+camels come to water. (S, Msb.)<br>\
+' } );

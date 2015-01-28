@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'لخىأَلْخَى Distorted in the mouth. (CK; L, art.<br>\
+لخ, but written الخآء.)<br>\
+' } );

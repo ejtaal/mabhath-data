@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'ثلط1<br>\
+ثَلَطَ, aor.<br>\
+ثَلِطَ, (Az, S, K.) inf.n. ثَلْطٌ, (Az, S,)<br>\
+He (a camel, S, IAth, K, and a bull, IAth, K,<br>\
+and an elephant, mostly said of these three animals,<br>\
+IAth, and a man, Az, and a child, K) voided his<br>\
+dung in a thin state. (Az, S, K.) It is said in a<br>\
+trad., (S, TA,) of &#39;Alee, (TA,) كَانُوا يَبْعَرُونَ بَعْرًا<br>\
+وَأَنْتُمْ تَثْلِطُونَ ثَلْطًا, (S, TA,) meaning that the<br>\
+former ate little, and that the latter ate much and<br>\
+of various kinds. (TA.)<br>\
+-A2-  ثَلَطَ فُلَانًا He threw<br>\
+ثَلْط, (K, TA,) i. e. thin dung, (TA,) at such a<br>\
+one: (K, TA:) and he befouled him, or smeared<br>\
+him, therewith. (K, TA.)<br>\
+ثَلْطٌ Thin dung of an elephant and the like,<br>\
+(Lth, K,) and of anything, when it is thin. (TA.)<br>\
+مَثْلَطٌ, (K, TA, [but by rule it should be مَثْلِطٌ,])<br>\
+or مَثْلَطَةٌ, (CK,) The place of exit of ثَلْط. (K.)<br>\
+' } );

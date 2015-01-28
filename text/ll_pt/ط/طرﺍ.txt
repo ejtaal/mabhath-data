@@ -1,0 +1,58 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;طرا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  طرا<br>\
+&lt;entryFree id=&quot;n26493&quot; key=&quot;طَرَاَ عَلَيْهِمْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     طَرَاَ عَلَيْهِمْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     طَرَاَ<br>\
+                  &lt;/form&gt;, inf. n. طُرُوْءٌ (S, Mgh, Msb, K) and طَرْءٌ, (S, K,) &lt;i&gt;He came to them from a place;&lt;/i&gt; (K;) or &lt;i&gt;from a distant place, unexpectedly:&lt;/i&gt; (Mgh:) or &lt;i&gt;he came forth upon them&lt;/i&gt; (S, Msb, K) &lt;i&gt;from a place,&lt;/i&gt; (K,) or &lt;i&gt;from a distant place,&lt;/i&gt; (TA,) &lt;i&gt;unexpectedly,&lt;/i&gt; (K, TA,) or &lt;i&gt;from another country,&lt;/i&gt; or &lt;i&gt;territory,&lt;/i&gt; or &lt;i&gt;town,&lt;/i&gt; or &lt;i&gt;the like:&lt;/i&gt; (S:) or &lt;i&gt;he came to them without their knowledge:&lt;/i&gt; or &lt;i&gt;he came forth upon them from an opening,&lt;/i&gt; or &lt;i&gt;a wide, open tract:&lt;/i&gt; the original word is [said to be] دَرَاَ [q. v.: see also طَرَا, in art. طرو]. (TA.) And طَرَاَ, (Msb, TA,) said of a thing, (Msb,) aor. as above, (Msb, TA,) inf. n. طران [app. طَرَا=نٌ], (Msb,) &lt;i&gt;It came,&lt;/i&gt; (Msb, TA,) &lt;i&gt;came to pass, happened,&lt;/i&gt; or &lt;i&gt;occurred,&lt;/i&gt; (Msb,) &lt;i&gt;unexpectedly.&lt;/i&gt; (Msb, TA.) It is said in a trad., طَرَاَ عَلَىَّ <br>\
+                  مِنَ القُرْا=نِ, as though meaning &lt;i&gt;A portion of the recitation of the Kur-án came to my turn at an unexpected time.&lt;/i&gt; (TA.)       -A2-  طَرُوَ, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     طَرُاَ<br>\
+                  &lt;/form&gt;,] (Mgh, Msb, K,) inf. n. طَرَا=ءَةٌ (Mgh, K) and طَرَا=ءٌ, (K,) in some of the copies of the K طَرْاَةٌ and طَرَا=ءَةٌ, (TA,) &lt;i&gt;It&lt;/i&gt; (a thing, Msb) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, fresh, juicy,&lt;/i&gt; or &lt;i&gt;moist;&lt;/i&gt; (Msb;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  ذَوَى; (K;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  طَرُوَ, inf. n. طَرَاوَةٌ, (Mgh, Msb,) of which it is a dial. var., (Msb,) and which is the more common. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26494&quot; key=&quot;طرّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     طرّاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَطْرِيَةٌ, &lt;i&gt;He rendered it fresh, juicy,&lt;/i&gt; or &lt;i&gt;moist.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26495&quot; key=&quot;اطراهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اطراهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He praised him:&lt;/i&gt; (TA:) or &lt;i&gt;he praised him greatly,&lt;/i&gt; or &lt;i&gt;extravagantly;&lt;/i&gt; or &lt;i&gt;exceeded the just,&lt;/i&gt; or &lt;i&gt;usual, bounds, in praising him:&lt;/i&gt; (K, TA:) accord. to Es-Sarakustee, اَطْرَاْتُهُ signifies &lt;i&gt;I praised him:&lt;/i&gt; and اَطْرَيْتُهُ, [in like manner,] &lt;i&gt;I eulogized,&lt;/i&gt; or &lt;i&gt;commended, him.&lt;/i&gt; (Msb.) [See also the latter verb in art. طرو.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26496&quot; key=&quot;طُرْاَةُ السَّيْلِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     طُرْاَةُ السَّيْلِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  دُفْعَتُهُ [i. e. &lt;i&gt;The tide,&lt;/i&gt; or &lt;i&gt;what pours forth at once, of the torrent&lt;/i&gt;]: (K:) from طَرَاَ “ he came forth ” from a land. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26497&quot; key=&quot;طُرْا=نٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     طُرْا=نٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (O, K,) or ↓ <br>\
+      طُرْا=نِىٌّ, occurring in the poetry of El-&#39;Ajjáj, (TA,) A road, or way, and an affair, or event, &lt;i&gt;unknown,&lt;/i&gt; or &lt;i&gt;disapproved,&lt;/i&gt; or &lt;i&gt;deemed strange&lt;/i&gt; or &lt;i&gt;extraordinary:&lt;/i&gt; (O, K:) [or an affair, or event,] &lt;i&gt;unknown,&lt;/i&gt; &amp;amp;c., and &lt;i&gt;wonderful.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26498&quot; key=&quot;طُرْا=نِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     طُرْا=نِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, an epithet applied to a pigeon, (O, K,) and to an event, (K,) &lt;i&gt;Of which one knows not whence it has come:&lt;/i&gt; (K:) an irregular rel. n. from طَرَاَ عَلْيَنَا فُلَانٌ “ Such a one came forth upon us without our knowing him: ” (TA:) [or] طُرْا=ن is the name of a certain mountain in which are many pigeons; (O, K;) and hence the epithet above mentioned as applied to a pigeon: (O, TA:) Aboo-&#39;Obeyd El-Bekree writes this name, in the Moajam, with damm to the first letter and teshdeed to the second: the vulgar say حَمَام <br>\
+                  طُورَانِىّ, which is a mistake. (TA.) ―         -b2-  See also طُرْا=نٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26499&quot; key=&quot;طَرِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     طَرِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Fresh, juicy,&lt;/i&gt; or &lt;i&gt;moist;&lt;/i&gt; (A, * Mgh, * Msb, TA;) a dial. var. of طَرِىٌّ. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26500&quot; key=&quot;طَارِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     طَارِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; part. n. of طَرَاَ, applied to a man, and to a thing: (Msb:) the pl. is طُرَّا=ءٌ, (K, TA,) like زُهَّادٌ, (TA,) and طُرَا=ءُ, (K, TA,) like عُلَمَا=ءُ, and MF mentions, as from the M, طَرَاٌ, like خَدَمٌ, [but this is properly termed a quasi-pl. n.,] and طَرَاَةٌ, like كَتَبَةٌ, and in some copies طُرَاةٌ, like قُضَاةٌ: (TA:) and طُرَّا is applied to strangers, for طُرَّا=ءٌ, meaning Persons &lt;i&gt;coming from a distant place.&lt;/i&gt; (L, TA.) One says, هُوَ مَنَ الطُّرَّا=ءِ لَا مِنَ التُّنَّا=ءِ [&lt;i&gt;He is of those who come from another place,&lt;/i&gt; or &lt;i&gt;country; not of the settled residents&lt;/i&gt;]. (A, TA.) ―         -b2-  [It is also applied to a signification, as meaning (assumed tropical:)  &lt;i&gt;Adventitious.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26501&quot; key=&quot;طَارِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     طَارِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;A calamity,&lt;/i&gt; or &lt;i&gt;misfortune,&lt;/i&gt; (O, K, TA,) &lt;i&gt;of which one knows not whence it has come.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26502&quot; key=&quot;مطري&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مطري<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [thus written, without any syll. signs, in the TA, and there said to be the subst. (اِسْم) from اَطْرَاَهُ: but I think that it is evidently مُطْرِيٌ; and not the subst., but the act. part. n. (اِسْمُ الفَاعِلِ), of اَطْرَاَهُ].   &lt;/entryFree&gt; <br>\
+' } );

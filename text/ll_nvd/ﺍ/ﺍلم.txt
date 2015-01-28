@@ -1,0 +1,62 @@
+load_data( { book: 'll_nvd', text: 'الم1<br>\
+أَلِمَ, aor.<br>\
+اَلَمَ, inf. n. أَلَمٌ, It, (as, for instance,<br>\
+the belly, T, S, or the head, Msb,) or he, (a<br>\
+man, T, S, Msb,) was in pain; had, or suffered,<br>\
+pain; ached. (T, S, M, Msb, K.) أَلِمَ بَطْنَهُ [He<br>\
+was in pain, or had pain, in his belly] (M) and<br>\
+أَلِمْتَ بَطْنَكَ [thou wast in pain, or hadst pain,<br>\
+in thy belly] (T, S) or رَأْسَكَ [in thy head] (Msb)<br>\
+are like سَفِهَ رَأْيَهُ (M) and رَشِدْتَ أَمْرَكَ (S, T) and<br>\
+وَجِعْتَ رَأْسَكَ; (Msb;) the noun being in the accus.<br>\
+case accord. to Ks as an explicative, though<br>\
+explicatives are [by rule] indeterminate, as in<br>\
+قَرِرْتُ بِهِ عَيْنًا and ضَقْتُ بِهِ ذَرْعًا; (T;) the regular<br>\
+form being [أَلِمَ بَطْنُهُ and] أَلِمَ بَطْنُكَ, (T, S,)<br>\
+as the verb is intrans. (T.)<br>\
+4<br>\
+آلَمْتُهُ, (S, M, Msb, K,) inf. n. إِيلَامٌ, (S,<br>\
+Msb,) I caused him pain or aching. (S, * M,<br>\
+Msb, K.)<br>\
+5<br>\
+تألّم He was, or became, pained: (M, * Msb,<br>\
+K: *) or he expressed pain, grief, or sorrow;<br>\
+lamented; complained; made lamentation or<br>\
+complaint; moaned; syn. تَوَجَّعَ, (T, S,) and<br>\
+شَكَى. (T.) You say, تَأَلَّمَ فُلَانٌ مِنْ فُلَانٍ [Such<br>\
+a one expressed pain, &amp;c., on account of the<br>\
+conduct or the like of such a one; complained<br>\
+of such a one]: (T:) and لِأَزْمَةِ الزَّمَانِ [on account<br>\
+of the hardness of the time]. (TA in art. ازم.)<br>\
+أَلَمٌ: see لَمْ.<br>\
+أَلَمٌ Pain; ache; (T, S, M, K;) as also ↓ أَيْلَمَةٌ:<br>\
+(T, M, K:) pl. (of the former, T, M) آلَامٌ. (T,<br>\
+M, K.) You say, وَلَا أَلَمًا ↓ مَا أَجِدُ أَيْلَمَةً I do<br>\
+not find pain nor ache; i. e. وَجَعًا: so says AZ:<br>\
+and IAar says, ↓ أَيْلَمَةً وَلَا أَلَمَةً as meaning the<br>\
+same. (T.) And the Arabs say, لَأُبِيتَنَّكَ عَلَى<br>\
+↓ أَيْلَمَةٍ, meaning I will assuredly bring upon<br>\
+thee [lit. make thee to pass the night in] distress,<br>\
+or difficulty. (Sh.)<br>\
+أَلِمٌ Being in pain; having, or suffering, pain;<br>\
+aching. (M, K.)<br>\
+أَلَمَةٌ: see أَلَمٌ.<br>\
+إِلَامَ a contraction of إلَى مَا: see إِلَى, last<br>\
+sentence.<br>\
+أَلِيمٌ Causing pain or aching; painful; (S, K;)<br>\
+i. q. ↓ مُؤْلِمٌ; (T, M, Msb;) like سَمِيعٌ as syn. with<br>\
+مُسْمِعٌ: (S:) so when applied to punishment [or<br>\
+torment or torture]: (T, Msb:) or, thus applied,<br>\
+painful, or causing pain or aching, in the utmost<br>\
+degree. (M, K.)<br>\
+أَلُومَةٌ Lowness, ignobleness, baseness, vileness, or<br>\
+meanness. (O, K.)<br>\
+أَيْلَمَةٌ: see أَلَمٌ, in three places. ―<br>\
+-b2-  Accord. to<br>\
+IAar, (T,) A sound, or voice. (T, K.) You say,<br>\
+مَا سَمِعْتُ لَهُ أَيْلَمَةٌ I heard not any sound, or<br>\
+voice, of, or belonging to, him, or it. (IAar, T.)<br>\
+―<br>\
+-b3-  Accord. to AA, (T,) Motion. (T, K.)<br>\
+مُؤْلِمٌ: see أَلِيمٌ.<br>\
+' } );

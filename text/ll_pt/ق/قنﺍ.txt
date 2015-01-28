@@ -1,0 +1,56 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;قنا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  قنا<br>\
+&lt;entryFree id=&quot;n36248&quot; key=&quot;قَنَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     قَنَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     قَنَاَ<br>\
+                  &lt;/form&gt;, inf. n. قُنُوْءٌ, &lt;i&gt;It&lt;/i&gt; (a thing, TA) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, intensely red:&lt;/i&gt; (K:) and قَنَا, without ء, is a dial. var. thereof, (TA in this art.,) aor. يَقْنُو, inf. n. قُنُوٌّ. (TA in art. قنو.) You say, قَنَاَتْ لِحْيَتُهُ, aor. and inf. n. as above, &lt;i&gt;His beard was,&lt;/i&gt; or &lt;i&gt;became, intensely red&lt;/i&gt; from the dye: (S, O:) or, &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, black&lt;/i&gt; with the dye. (TA.) And قَنَاَتْ اَطْرَافُ الجَارِيَةِ بِالحِنَّا=ءِ <br>\
+                  &lt;i&gt;The extremities of the girl,&lt;/i&gt; or &lt;i&gt;young woman, were,&lt;/i&gt; or &lt;i&gt;became, black,&lt;/i&gt; or, accord. to the T, &lt;i&gt;intensely red, with the hinnà&lt;/i&gt; (TA.) And قَنَاَتِ البُسْرَةُ <br>\
+                  &lt;i&gt;The full-grown unripe date began to have its redness intermixed with blackness.&lt;/i&gt; (M in art. نثر.) ―         -b2-  See also 2.       -A2-  قَنَاَهُ <br>\
+                  &lt;i&gt;He mixed it,&lt;/i&gt; i. e. milk (O, K, TA) &lt;i&gt;with water.&lt;/i&gt; (TA.)       -A3-  And, (O, K, TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     قَنَاَ<br>\
+                  &lt;/form&gt;, (TA,) inf. n. قَنْءٌ, (O, TA,) &lt;i&gt;He killed him:&lt;/i&gt; (O, K, TA:) or &lt;i&gt;he incited him,&lt;/i&gt; or &lt;i&gt;induced him, to kill him;&lt;/i&gt; as also ↓ <br>\
+      اقناهُ, (K, TA,) inf. n. اـِقْنَا=ءٌ: (TA:) [but this is a strange rendering of a verb with a single objective complement; and it appears that اقناهُ should be followed by عَلَيْهِ, to give this sense; and so should قَنَاَهُ, if used in the same sense; for, accord. to Sgh,] عَلَيْهِ ↓ <br>\
+      اَقْنَاْتُهُ signifies &lt;i&gt;I incited him,&lt;/i&gt; or &lt;i&gt;induced him, to kill him.&lt;/i&gt; (O.)       -A4-  قَنَاَ الجِلْدُ, (AHn, K, TA,) [if not a mistranscription, for قُنِيَ, as seems to be probably the case from what follows,] inf. n. قُنُوْءٌ, (AHn, TA,) &lt;i&gt;The skin was thrown into the tan,&lt;/i&gt; (AHn, K, TA,) &lt;i&gt;after the removal of its hair and dirt:&lt;/i&gt; and قَنَاَهُ صَاحِبُهُ [&lt;i&gt;Its owner threw it into the tan,&lt;/i&gt; &amp;amp;c.]. (AHn, TA.)       -A5-  قَنِيَ, (O, K, TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     قَنَاَ<br>\
+                  &lt;/form&gt;, inf. n. قُنُوْءٌ, (TA,) &lt;i&gt;He died.&lt;/i&gt; (O, K.) One says, ضَرَبْتُهُ حَتَّى قَنِيَ <br>\
+                  &lt;i&gt;I beat him until he died.&lt;/i&gt; (TA.) ―         -b2-  And قَنِيَ said of a hide, &lt;i&gt;It became spoiled,&lt;/i&gt; or &lt;i&gt;rendered unsound.&lt;/i&gt; (O, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36249&quot; key=&quot;قنّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     قنّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, O, K,) inf. n. تَقْنِيَةٌ, (S, O,) or تَقْنِىْءٌ, (K,) &lt;i&gt;He rendered&lt;/i&gt; (S, O, K) a thing, (K,) or his beard, (S, O,) &lt;i&gt;intensely red&lt;/i&gt; (S, O, * K) with dye. (S, O.) And &lt;i&gt;He dyed his beard black;&lt;/i&gt; as also ↓ <br>\
+      قَنَاَ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36250&quot; key=&quot;مَا قَانَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     مَا قَانَاَهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;did not suit him; i. q.&lt;/i&gt; <br>\
+                  ما قَامَاَهُ. (TA in art. قما.) [See also قَانَى, in art. قنى.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36251&quot; key=&quot;اقنا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اقنا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He spoiled&lt;/i&gt; a hide, or &lt;i&gt;rendered&lt;/i&gt; it &lt;i&gt;unsound.&lt;/i&gt; (O, K.)       -A2-  اَقْنَاَنِى الشَّىْءُ <br>\
+                  &lt;i&gt;The thing became possible to me,&lt;/i&gt; or &lt;i&gt;within my power,&lt;/i&gt; (K, TA,) and &lt;i&gt;near to me.&lt;/i&gt; (TA.)       -A3-  See also 1, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36252&quot; key=&quot;قُنْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قُنْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [or قَنْاَةٌ]: see مَقْنَاَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36253&quot; key=&quot;شَىْءٌ اَحْمَرُ قَانِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     شَىْءٌ اَحْمَرُ قَانِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A thing intensely red.&lt;/i&gt; (S, O.) See an ex. of the fem. قَانِيَةٌ, applied to the sun, by a poet who was drinking, or watering, with a party, and was prevented by them from taking his share of the water until the sun became red. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36254&quot; key=&quot;مَقْنَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَقْنَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَقْنُوَةٌ (S, K) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَقْمَاَةٌ [and مَقْمُوَةٌ], (K,) &lt;i&gt;A place on which the sun does not come;&lt;/i&gt; (AA, S, TA;) as also ↓ <br>\
+      قُنْاَةٌ [perhaps a mistranscription for قَنْاَةٌ like its syn. قَمْاَةٌ]: (TA:) some say that مَقْنَاةٌ and مَقْنُوَةٌ, [thus] without ء, signify the &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  مَضْحَاةٌ [which means a place from which the sun is hardly ever, or never, absent]. (S, TA.)   &lt;/entryFree&gt; <br>\
+' } );

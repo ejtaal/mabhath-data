@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'ولس3<br>\
+وَالَسَ<br>\
+He acted perfidiously, or practised<br>\
+fraud: see دَالَسَ.<br>\
+وَلْسٌ<br>\
+Treachery: see دَلَّسَ.<br>\
+' } );

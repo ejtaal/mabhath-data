@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>غوج</em>            1                  غوج<br>\
+<b>غَاجَ</b>               1     <br>\
+                     غَاجَ<br>\
+                     ذ<br>\
+                  , (S, O, K,) aor. يَغُوجُ, (S, O,) said of a man; (TA;) and ↓ <br>\
+      تغوّج, (O, K,) likewise, (TA,) or this is said of a horse; (O;) <i>He affected a bending of his body,</i> syn. تَثَنَّى and تَعَطَّفَ, (S, O, K, TA,) and <i>inclined from side to side,</i> in his gait. (TA.) Aboo-Dhu-eyb says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        عَشِيَّةَ قَامَتْ بِالفِنَا=ءِ كَاَنَّهَا<br>\
+                     <L><br>\
+                        عَقِيلَةُ نَهْبٍ تُصْطَفَى وَتَغُوجُ<br>\
+                  </quote> [<i>In the evening when she arose, in the yard of the dwelling, as though she were the most excellent portion of booty, to be selected</i> therefrom, <i>and affecting a bending of her body, and inclining from side to side</i>]: i. e. displaying herself to the chief of the army, in order that he might take her for himself. (S, O.)    </entryFree> <br>\
+                     تَغَوَّجَ<br>\
+                   see the preceding paragraph.    </entryFree> <br>\
+<b>غَوْجٌ</b>               1     <br>\
+                     غَوْجٌ<br>\
+                     ذ<br>\
+                  , applied to a horse, <i>Pliant, pliable, limber,</i> or <i>lithe;</i> syn. لَيِّنُ الاَعْطَافِ: pl. غُوجٌ. (En-Nadr, TA.) ―         -b2-  And A man <i>relaxed by reason of drowsiness.</i> (TA.) ―         -b3-  And A <i>broad-breasted</i> camel. (TA.) ―         -b4-  And غَوْجُ اللَّبَانِ A horse <i>ample in the skin of the breast,</i> (S, O, K,) but not unless he be سَهْلُ المَعْطِفِ [i. e. <i>pliant, pliable, limber,</i> or <i>lithe</i>]: (S, O, TA:) or a horse <i>long in the</i> <br>\
+                  قَصَب [or <i>bones of the legs</i>]: or <i>that bends, going and coming.</i> (TA.) ―         -b5-  And غَوْجٌ مَوْجٌ, the latter word being an imitative sequent, A horse <i>fleet,</i> or <i>swift; excellent in running;</i> or <i>that outstrips others.</i> (TA.)    </entryFree> <br>\
+<b>غَوَّاجٌ</b>               1     <br>\
+                     غَوَّاجٌ<br>\
+                     ذ<br>\
+                  <i>That goes with energy:</i> an epithet applied by Aboo-Wejzeh to a camel. (O.)   </entryFree> <br>\
+' } );

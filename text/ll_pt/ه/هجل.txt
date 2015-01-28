@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هجل</em>            1                  هجل<br>\
+<b>هَوْجَلٌ</b>               1     <br>\
+                     هَوْجَلٌ<br>\
+                     ذ<br>\
+                  , of a ship or boat, is smaller than the اَنْجَر. (O, TA, voce مَعَابِيرُ.) ―         -b2-  See De Sacy, Chrest. Arab., ii. 359.    </entryFree> <br>\
+<b>هَجُولٌ</b>               1     <br>\
+                     هَجُولٌ<br>\
+                     ذ<br>\
+                  <i>A fornicatress,</i> or <i>an adulteress:</i> pl. هَجَايِلُ. (JK.)   </entryFree> <br>\
+' } );

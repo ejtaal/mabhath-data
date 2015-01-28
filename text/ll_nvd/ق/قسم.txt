@@ -1,0 +1,53 @@
+load_data( { book: 'll_nvd', text: 'قسم1<br>\
+قَسَمَ<br>\
+and ↓ قَسَّمَ<br>\
+He divided; parted; divided<br>\
+in parts or shares; distributed. ―<br>\
+-b2-  قَسَمَ أَمْرَهُ, or<br>\
+↓ قَسَّمَهُ: see 3 in art. عدل.<br>\
+2<br>\
+قَسَّمَ<br>\
+see 1.<br>\
+3<br>\
+قَاسَمَهُ الشَّىْءَ<br>\
+He divided with him the thing,<br>\
+each of them allotting to himself his share, or<br>\
+portion. ―<br>\
+-b2-  قَاسَمَهُ بِاللّٰهِ<br>\
+He swore to him by God.<br>\
+4<br>\
+أَقْسَمَ عَلَيْهِ<br>\
+He conjured him; he said<br>\
+بِحَقِّكَ.<br>\
+(Mgh, art. طمر.)<br>\
+5<br>\
+تَقَسَّمَ<br>\
+It (a thing) was, or became, divided,<br>\
+or distributed. (MA.) See an ex. in a verse,<br>\
+voce شَتَّانَ.<br>\
+7<br>\
+اِنْقَسَمَ الَى أَقْسَامٍ كَثِيرَةٍ<br>\
+It was divided into<br>\
+many parts.<br>\
+10<br>\
+اِسْتَقْسَمَ<br>\
+He sought to know what was<br>\
+allotted to him, by means of the أَزْلَام, (S, * Mgh,<br>\
+and Har, p. 465,) and what was not allotted to<br>\
+him. (Mgh, Har.)<br>\
+قِسْمٌ<br>\
+A division: (Msb:) and particularly (Msb)<br>\
+a portion, or share. (S, Msb, K.) Pl. أَقْسَامٌ.<br>\
+―<br>\
+-b2-  لَيْسَ مِنْ أَقْساَمِ كَذَا<br>\
+It is not a part of such<br>\
+a thing; it does not belong, or appertain, to such<br>\
+a thing; it is independent of such a thing.<br>\
+قَسَمٌ<br>\
+A conjurement. See أَقْسَمَ عَلَيْهِ. ―<br>\
+-b2-  An<br>\
+oath (S, Msb, K) by God [&amp;c.]. (Msb, K.) An<br>\
+asseveration. ―<br>\
+-b3-  وَاوُ القَسَمِ<br>\
+The<br>\
+' } );

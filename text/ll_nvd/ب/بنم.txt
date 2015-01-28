@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'بنماِبْنُمٌ or اِبْنَمٌ, and ابْنُمٌ or ابْنَمٌ; and ابْنِيمَا for<br>\
+ابْنِمَا: see اِبْنٌ, in art. بنى.<br>\
+' } );

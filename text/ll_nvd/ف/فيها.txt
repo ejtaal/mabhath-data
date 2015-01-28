@@ -1,0 +1,33 @@
+load_data( { book: 'll_nvd', text: 'فيها↓ تقحمّ and<br>\
+↓ اقتحم<br>\
+He entered into affairs without consideration. (A.)<br>\
+5<br>\
+تَقَحَّمَ<br>\
+He experienced dearth, drought, or<br>\
+sterility. See an ex. voce تَبِعَةٌ. ―<br>\
+-b2-  تَقَحَّمَ فِى<br>\
+الأَمْرِ بِلاَ رَوِيَّةٍ [He plunged, or rushed, into the<br>\
+affair without consideration]. (K, * TA in art.<br>\
+علط.) See 1. ―<br>\
+-b3-  تَقَحَّمَ: see تَدَلَّثَ.<br>\
+8<br>\
+إِقْتَحَمَ<br>\
+. See 1. ―<br>\
+-b2-  Said of a young camel:<br>\
+see voce بُلَعٌ. ―<br>\
+-b3-  اِقْتَحَمَ الغَمَراَتِ: see 1 in art.<br>\
+خوض. And اقتحم العَقَبَةَ: see عَقَبَةٌ.<br>\
+قَحْمَةٌ<br>\
+, like قَحْبَةٌ, An old woman. See قَحْبٌ.<br>\
+مُقْحَمٌ<br>\
+Redundant; pleonastic; foisted in:<br>\
+applied to a word and to a letter. ―<br>\
+-b2-  حَرْفٌ<br>\
+مَقْحَمَةٌ<br>\
+A letter inserted without reason.<br>\
+مُقْحَمَةٌ<br>\
+is also applied in like manner to a word. [In a<br>\
+copy of the S, in art. بهت, I find it written<br>\
+مُقْحِمَةٌ]: i. q.<br>\
+زَائِدَةٌ. (TA in art. بهت.)<br>\
+' } );

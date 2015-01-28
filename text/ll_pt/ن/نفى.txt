@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>نفى</em>            1                  نفى<br>\
+<b>نَفَاهُ</b>               1     <br>\
+                     نَفَاهُ<br>\
+                     ذ<br>\
+                  <i>He drove away, expelled, or banished, him, or it.</i> (T, in TT.)    </entryFree> <br>\
+<b>هٰذَا يُنَافِىهٰذَا</b>               1     <br>\
+                     هٰذَا يُنَافِىهٰذَا<br>\
+                     ذ<br>\
+                  <i>This precludes the co-existence of this therewith; is inconsistent,</i> or <i>incompatible, with this.</i>    <br>\
+<b>تَنَافَيَا</b>               1     <br>\
+                     تَنَافَيَا<br>\
+                     ذ<br>\
+                  <i>They two were incompatible.</i>    <br>\
+<b>اِنْتَفَى</b>               1     <br>\
+                     اِنْتَفَى<br>\
+                     ذ<br>\
+                  <i>It was negative:</i> contr. of ثَبَتَ and and وَجَبَ. (IbrD.) ―         -b2-  اِنْتَفَى مِنْ شَىْءٍ <br>\
+                  <i>He denied a thing;</i> meaning an accusation or the like: syn. تَنَضَّحَ.    </entryFree> <br>\
+<b>نُفَايَةٌ</b>               1     <br>\
+                     نُفَايَةٌ<br>\
+                     ذ<br>\
+                  <i>Refuse;</i> i. e. <i>what one rejects,</i> of a thing, <i>because of its badness:</i> (S:) or <i>refuse little in quantity:</i> (T:) or the <i>remains, and bad portion,</i> <br>\
+                   of a thing: (M, K:) or, accord. to IAar, <i>what is bad of wheat</i> or <i>food.</i> (M.)    </entryFree> <br>\
+<b>فِعْلٌ مَنْفِىٌّ</b>               1     <br>\
+                     فِعْلٌ مَنْفِىٌّ<br>\
+                     ذ<br>\
+                  <i>A verb rendered negative</i> by its being preceded by مَا or the like; <i>contr. of</i> <br>\
+                  مُثْبَتٌ and مُوجَبٌ. ―         -b2-  كَلاَمٌ مَنْفِىٌّ <br>\
+                  <i>A denied sentence; contr. of</i> <br>\
+                  مُثْبَتٌ and مُوجَبٌ; virtually the same as كَلاَمٌ نَافٍ <br>\
+                  <i>a denying,</i> or <i>negative, sentence.</i>   <br>\
+' } );

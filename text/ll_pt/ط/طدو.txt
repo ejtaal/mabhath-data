@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>طدو</em>            1                  طدو<br>\
+<b>دِينٌ</b>               1     <br>\
+                     دِينٌ<br>\
+                     دان<br>\
+                     دين<br>\
+                  , (S, TA,) the latter word formed by transposition from وَاطِدٌ; (M, TA;) and عَادَةٌ <br>\
+                  طَادِيَةٌ, (S, K,) the latter word said to be formed by transposition from وَاطِدَةٌ, (S,) <i>A custom,</i> or <i>habit, that is constant, settled,</i> or <i>established; old,</i> or <i>inveterate.</i> (S, K.) طَادٍ and وَاطِدٌ are also expl. as meaning <i>Continuous;</i> or <i>constant and uninterrupted.</i> (TA in art. وطد.)   </entryFree> <br>\
+' } );

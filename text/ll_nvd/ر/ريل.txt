@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'ريل1<br>\
+رَالَ, aor. يَرِيلُ, He (a child) slavered. (Ibn-<br>\
+&#39;Abbád, O, K.) [See also art. رول.]<br>\
+رِيَالٌ Slaver; (Ibn-&#39;Abbád, K;) [like رُوَالٌ;]<br>\
+without ء. (TA.)<br>\
+' } );

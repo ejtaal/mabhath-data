@@ -1,0 +1,40 @@
+load_data( { book: 'll_nvd', text: 'قطن1<br>\
+قَطَنَ بِالمَكَانِ<br>\
+He resided in the place.<br>\
+(Msb.)<br>\
+قَطْنُ<br>\
+syn. with قَطْ: see the latter.<br>\
+قُطْنُ البَرْدِىِّ<br>\
+: see بَرْدِىٌّ.<br>\
+قَطَنٌ<br>\
+The part between the two hips, or haunches;<br>\
+(S, K;) or the downward [or lower] and even part<br>\
+of the back of a man; (Msb;) the lower portion<br>\
+of the loins.<br>\
+قَطِنَةٌ<br>\
+i. q.<br>\
+حَفِثٌ, as its description plainly<br>\
+shows; i. e., the third stomach, commonly called<br>\
+the manyplies, and by some the millet, of a ruminant animal. See رُمَّانَةٌ.<br>\
+قِطْنِيَّةٌ<br>\
+and قُطْنِيَّةٌ [Any kind of pulse, or seed<br>\
+of a leguminous plant that is cooked; this is the<br>\
+general meaning, and includes almost all the particular definitions of the word]: pl. قَطَانِىُّ, (S,<br>\
+Mgh, Msb, K,) in the CK erroneously written<br>\
+with the article القَطَانِىُ.<br>\
+قَاطِنٌ<br>\
+A resident. (Msb.)<br>\
+قَيْطُونٌ<br>\
+A closet; syn. مَخْدَعٌ; i. e., a [small]<br>\
+chamber within a [large] chamber. (L in art.<br>\
+سن.)<br>\
+يَقْطِينٌ<br>\
+A plant (S, K) and the like (K) that<br>\
+has no<br>\
+سَاق [or standing stem]; (S, K;) as the<br>\
+gourd-plant and the like: (S:) any tree [or plant]<br>\
+that spreads [or creeps] upon the ground, not<br>\
+rising upon a stem; such, for instance, as the<br>\
+colocynth; but conventionally applied especially<br>\
+to the gourd. (Msb.) See سُطَّاحٌ.<br>\
+' } );

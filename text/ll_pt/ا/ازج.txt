@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>ازج</em>            1                  ازج<br>\
+<b>ازّج</b>               1     <br>\
+                     ازّج<br>\
+                     ذ<br>\
+                  , inf. n. تَاْزِيجٌ, (Msb, K,) <i>He built</i> a structure of the kind called اَزَجٌ, <i>and made</i> it <i>long:</i> (K:) or <i>he built</i> a house, or chamber, <i>in the form of what is so called.</i> (Msb.)    </entryFree> <br>\
+<b>اَزَجٌ</b>               1     <br>\
+                     اَزَجٌ<br>\
+                     ذ<br>\
+                  <i>A certain kind of structure;</i> (S, K;) or <i>a house,</i> or <i>chamber, built in a long,</i> or <i>an oblong, form;</i> (Mgh, L, Msb;) <i>called in Persian</i> <br>\
+                  اُوِسْتَانٌ, (Mgh, L,) <i>and also, in the same language,</i> <br>\
+                  سَغْ, <i>and</i> <br>\
+                  كَمَرْ: (Mgh:) [i. e. <i>an oblong, arched,</i> or <i>vaulted, structure</i> or <i>edifice;</i> (<i>such as a bridge;</i> see قَنْطَرَةٌ;) <i>a portico, gallery,</i> or <i>piazza;</i> accord. to Golius and Freytag, <i>ædificii genus oblongum et fornicatum, porticus instar;</i> to which Freytag adds, <i>portæ arcus superior:</i>] or, accord. to some, <i>a roof:</i> (Msb:) pl. [of pauc.] ا=زَاجٌ (S, Msb, K) and ا=زُجٌ (S, K) and [of mult.] اـِزَجَةٌ. (K.)   </entryFree> <br>\
+' } );

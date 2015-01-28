@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>سيد</em>            1                  سيد<br>\
+<b>سَيْدٌ</b>               1     <br>\
+                     سَيْدٌ<br>\
+                     ذ<br>\
+                   a contraction of سَيِّدٌ, q. v. in art. سود.    </entryFree> <br>\
+<b>سِيدٌ</b>               1     <br>\
+                     سِيدٌ<br>\
+                     ذ<br>\
+                  <i>A wolf:</i> (S, M, A, K: mentioned in the K in art. سود; and in the S, at the close of that art.:) accord. to Sb, its medial radical letter is ى; its dim. being ↓ <br>\
+      سُيَيْدٌ: not like رِيحٌ [of which the dim. is رُوَيْحَةٌ], nor like دِيمَةٌ: (M:) and ↓ <br>\
+      سِيدَانَةٌ signifies the same: (K:) or so ↓ <br>\
+      سِيدَانٌ; (M;) which is the pl. (S, M, A) also: (M:) and ↓ <br>\
+      سِيدَانَةٌ signifies <i>a she-wolf;</i> (M, A, and Ham p. 274;) [and] so ↓ <br>\
+      سِيدَةٌ; (Ks, S;) or this is not allowable. (Ham ubi suprà.) One says سِيدُ رَمْلٍ [<i>A wolf of sands;</i> i. e., that frequents the sands; meaning <i>a savage wolf</i>]. (S.) Hence, ↓ <br>\
+      اِمْرَاَةٌ سِيدَانَةٌ (tropical:)  <i>A bold woman,</i> (M, A,) <i>like the she-wolf.</i> (A.) ―         -b2-  And <i>A lion</i> (S, M, K) is sometimes thus called, (S,) in the dial. of Hudheyl. (M.) The former is the primary signification accord. to J and others; though the contr. seems to be indicated in the K. (TA.)    </entryFree> <br>\
+<b>سِيدَةٌ</b>               1     <br>\
+                     سِيدَةٌ<br>\
+                     ذ<br>\
+                   fem. of سِيدٌ, q. v., accord. to Ks: (S:) but said to be not allowable. (Ham p. 274.)    </entryFree> <br>\
+<b>سِيدَانٌ</b>               1     <br>\
+                     سِيدَانٌ<br>\
+                     ذ<br>\
+                  : see سِيدٌ.    </entryFree> <br>\
+<b>سِيدَانَةٌ</b>               1     <br>\
+                     سِيدَانَةٌ<br>\
+                     ذ<br>\
+                  : see سِيدٌ, in three places.    </entryFree> <br>\
+<b>سُيَيْدٌ</b>               1     <br>\
+                     سُيَيْدٌ<br>\
+                     ذ<br>\
+                   dim. of سِيدٌ, q. v. (Sb, M.)    </entryFree> <br>\
+<b>سَيِّدٌ</b>               1     <br>\
+                     سَيِّدٌ<br>\
+                     ذ<br>\
+                  : and سِيَّدٌ: see art. سود.    </entryFree> <br>\
+<b>مَسْيِدٌ</b>               1     <br>\
+                     مَسْيِدٌ<br>\
+                     ذ<br>\
+                   mentioned by Ez-Zarkeshee as a dial. var. of مَسْجِدٌ [q. v.]: though by MF to be postclassical: and in the [classical] language of the Arabs <i>i. q.</i> <br>\
+                  مَكْتَبٌ [<i>A place where the art of writing is taught</i>]. (TA.)   </entryFree> <br>\
+' } );

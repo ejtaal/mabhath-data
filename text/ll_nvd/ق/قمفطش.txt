@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قمفطشكَمَا فِيْطُوس<br>\
+[<br>\
+χαμαίπιτυ�, the ground-pine]: see<br>\
+عَرْصَفٌ.<br>\
+' } );

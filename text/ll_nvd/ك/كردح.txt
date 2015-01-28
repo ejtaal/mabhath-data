@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'كردحQ. 1<br>\
+كَرْدَحَ, inf. n. كَرْدَحَةٌ, He (a short man)<br>\
+ran with short steps, and quickly; as also<br>\
+كَرْتَحَ and كَرْمَحَ. (S.) ―<br>\
+-b2-  He (an ass) ran<br>\
+leaning on one side; as also كَرْدَمَ. (L.) ―<br>\
+-b3-<br>\
+He went slowly. (IAar.)<br>\
+Q. 2<br>\
+تَكَرْدَحَ He went quickly in his walk; i. q.<br>\
+تَكَرْتَحَ. (K.) ―<br>\
+-b2-  He, or it, rolled. (S, K.) Ex.<br>\
+سَقَطَ مِنَ السَّطْحِ فَتَكَرْدَحَ He fell from the<br>\
+flat top, or roof, of the house, and rolled.<br>\
+(As, S.)<br>\
+كَرْدَحَةٌ A quick run, (K,) with short steps.<br>\
+(TA.) [See also Q. 1.]<br>\
+كَرْدَحَآءُ, which accord. to analogy should be<br>\
+كَرْدَحًى, A kind of walk, (K,) with short steps,<br>\
+and quick. (TA.)<br>\
+كِرْدَاحٌ Running quickly; or a quick runner;<br>\
+(K;) with short steps. (TA.)<br>\
+' } );

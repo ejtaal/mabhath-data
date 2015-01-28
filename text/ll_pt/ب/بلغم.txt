@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>بلغم</em>            1                  بلغم<br>\
+<b>بَلْغَمٌ</b>               1     <br>\
+                     بَلْغَمٌ<br>\
+                     بلغم<br>\
+                     لغم<br>\
+                   [<i>Phlegm;] one of the four [natural constituents termed</i>] طَبَايِع; (S;) [i. e.] <i>one of the humours</i> (اَخْلَاط) <i>of the body.</i> (K.) ―         -b2-  And hence, (tropical:)  <i>A heavy,</i> or <i>sluggish, person, who is a great talker,</i> or <i>babbler.</i> (TA.)    </entryFree> <br>\
+<b>بَلْغَمِىٌّ</b>               1[     <br>\
+                     بَلْغَمِىٌّ<br>\
+                     ١<br>\
+                  <i>Of,</i> or <i>relating to, phlegm; phlegmatic.</i>]    <br>\
+' } );

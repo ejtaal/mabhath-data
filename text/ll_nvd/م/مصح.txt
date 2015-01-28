@@ -1,0 +1,43 @@
+load_data( { book: 'll_nvd', text: 'مصح1<br>\
+مَصَحَ, aor.<br>\
+مَصَحَ, inf. n. مُصُوحٌ (and مَصْحٌ,<br>\
+TA), He, or it, (a thing, S,) went away;<br>\
+passed away; departed. (S, K.) ―<br>\
+-b2-  It finished;<br>\
+came to an end; ceased. (S, K.) ―<br>\
+-b3-  It (a<br>\
+garment) became old and worn-out. (S, K.) ―<br>\
+-b4-<br>\
+It (a plant) became faded in its blossoms.<br>\
+(S, K.) ―<br>\
+-b5-  Also, inf. n. مُصُوحٌ, It (a blossom)<br>\
+faded; or lost its colour. (AHn.) ―<br>\
+-b6-  مَصَحَ,<br>\
+(inf. n. مُصُوحٌ, TA,) It (the shade) became short.<br>\
+(S, K.) ―<br>\
+-b7-  مَصَحَ, inf. n. مُصُوحٌ, It (an udder)<br>\
+ceased to have milk. (TA.) ―<br>\
+-b8-  It (the milk<br>\
+of a camel) ceased; passed away. (S, K.)<br>\
+―<br>\
+-b9-  مَصِحَ, aor.<br>\
+مَصَحَ, It (shade) became deficient<br>\
+and thin. So accord. to the K; but in other<br>\
+lexicons, the verb, with reference to shade, is<br>\
+مَصَحَ. (TA.) ―<br>\
+-b10-  مَصَحَ, inf. n. مُصُوحٌ, It (a<br>\
+writing) became obliterated, or nearly so. (TA.)<br>\
+―<br>\
+-b11-  It (a dwelling) became obliterated; or its vestiges became effaced. (TA.) ―<br>\
+-b12-  مَصَحَ بِهِ, (S, K,)<br>\
+and ↓ أَمْصَحَهُ, (IB,) He took away, carried off,<br>\
+or went away with, it; or caused it to go,<br>\
+go away, or pass away. (S, IB, K.) ―<br>\
+-b13-<br>\
+مَصَحَ فِى الأَرْضِ, inf. n. مَصْحٌ, He set forth<br>\
+journeying through the land, or earth: as also<br>\
+مَسَحَ. (ISd.)<br>\
+4<br>\
+أَمْصَحَ see 1.<br>\
+أَمْصَحُ Deficient and thin shade. (K.)<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كلحب</em>            1                  كلحب<br>\
+<b>كَلْحَبَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     كَلْحَبَهُ<br>\
+                     ذ<br>\
+                  <i>He struck him</i> with a sword. (K.)    </entryFree> <br>\
+<b>كَلْحَبَةٌ</b>               1     <br>\
+                     كَلْحَبَةٌ<br>\
+                     ذ<br>\
+                  : of this word, Az says, It is not known what it is: but it is related, on the authority of IAar, that it signifies The <i>sound, and flame,</i> of fire; or its <i>sounding, and flaming:</i> (as explained in the K:) or, accord. to the RA, it signifies its <i>sound,</i> or <i>sounding, in what is slender,</i> or <i>small, as a lamp and the like.</i> (TA.) [See also حَدْمٌ.]   </entryFree> <br>\
+' } );

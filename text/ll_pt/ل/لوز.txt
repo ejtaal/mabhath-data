@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>لوز</em>            1                  لوز<br>\
+<b>لَوْزٌ</b>               1     <br>\
+                     لَوْزٌ<br>\
+                     ذ<br>\
+                   [The <i>almond;</i> or <i>almonds;</i>] the <i>fruit of a certain tree;</i> (Msb, TA;) <i>well known;</i> (A, Msb, K;) <i>abundant in the countries of the Arabs;</i> said by some to be <i>a species of</i> <br>\
+                  مِزْج, which is <i>that whereof the edible part is not attained save by breaking;</i> by others said to be <i>bruised,</i> or <i>brayed,</i> <br>\
+                  مِزْج; and also called قُمْرُوصٌ: it is <i>of two kinds, sweet</i> and <i>bitter:</i> (TA:) <i>the sweet is of moderate temperature, beneficial to the chest and the lungs and the bladder,</i> (<i>by reason of its soft nature,</i> TA,) <i>and the eating thereof, shelled, with sugar, augments the marrow and brain, and fattens: the bitter is hot in the third degree, opens stoppages of the nose, clears away</i> [<i>the spots in the skin called</i>] نَمَش, <i>and stills pain,</i> (K [but omitted in the CK] and TA,) <i>when it</i> [app. meaning <i>its oil</i>] <i>is drunk, and when dropped into the ear;</i> (TA;) <i>and it relaxes the bowels, and causes sleep,</i> (K, TA,) <i>when the soles of the feet are anointed with it, and when it is introduced into the nose;</i> (TA;) <i>and it is diuretic:</i> (K, TA:) it is an Arabic word: (Msb, TA:) a coll. gen. n.: (TA:) n. un. with ة. (S, Msb, K.)       -A2-  [Hence,] اللَّوْزَتَانِ (tropical:)  [<i>The amygdalæ of the fauces;</i> also called <i>the tonsils;</i>] <i>two pieces of flesh in the two sides of the fauces.</i> (A, TA.) ―         -b2-  (tropical:)  <i>The two sockets of the hips, where the heads of the thigh-bones are inserted.</i> (A, TS, TA.)    </entryFree> <br>\
+<b>لَوَّازٌ</b>               1     <br>\
+                     لَوَّازٌ<br>\
+                     ذ<br>\
+                   A <i>seller of</i> <br>\
+                  لَوْز [or <i>almonds</i>]. (K.)    </entryFree> <br>\
+<b>اَرْضٌ مَلَازَةٌ</b>               1     <br>\
+                     اَرْضٌ مَلَازَةٌ<br>\
+                     ذ<br>\
+                  <i>Land containing,</i> (S, M,) or <i>abounding with,</i> (A, K,) <i>trees of the</i> <br>\
+                  لَوْز [or <i>almond</i>]. (S, M, A, K.)    </entryFree> <br>\
+<b>تَمْرٌ مُلَوَّزٌ</b>               1     <br>\
+                     تَمْرٌ مُلَوَّزٌ<br>\
+                     ذ<br>\
+                  <i>Dates stuffed with</i> <br>\
+                  لَوْز [or <i>almonds</i>]; (Sgh, K;) <i>the stones being taken out</i> and لَوْز <br>\
+                  <i>put in their place.</i> (TA.)   </entryFree> <br>\
+' } );

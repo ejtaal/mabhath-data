@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'بوزبَازٌ i. q. بَازٍ; [see art. بزو;] (S, K;) a dial. var.<br>\
+of the latter; (S;) as also بَأْزٌ: (IJ, TA:) dual.<br>\
+بَازَانِ: (K:) pl. [of pauc.] أَبْوَازٌ and [of mult.]<br>\
+بِيزَانٌ: (S, K:) the dual of بَازٍ is بَازِيَانِ; (K;)<br>\
+and the pl. is بُزَاةٌ (S, K) and بَوَازٍ. (K.)<br>\
+' } );

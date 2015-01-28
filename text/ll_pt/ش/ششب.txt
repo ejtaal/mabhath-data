@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ششب</em>            1                  ششب<br>\
+<b>شَوْشَبٌ</b>               1     <br>\
+                     شَوْشَبٌ<br>\
+                     ذ<br>\
+                  , mentioned in the K under this head and in art. شب: see the latter art.   </entryFree> <br>\
+' } );

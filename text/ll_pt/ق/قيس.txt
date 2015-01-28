@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قيس</em>            1                  قيس<br>\
+<b>قَيَّاسٌ</b>               1     <br>\
+                     قَيَّاسٌ<br>\
+                     ذ<br>\
+                  : see قَوَّاسٌ.    </entryFree> <br>\
+<b>مَقِيسٌ</b>               1     <br>\
+                     مَقِيسٌ<br>\
+                     ذ<br>\
+                   (not مُقَيَّسٌ) <i>Consistent with analogy.</i>   <br>\
+' } );

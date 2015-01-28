@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'سدغسُدْغٌ a dial. var. of صُدْغٌ, (K,) which is the<br>\
+more common. (TA. [See the latter.])<br>\
+مِسْدَغٌ: see what follows.<br>\
+مِسْدَغَةٌ a dial. var. of مِصْدَغَةٌ [q. v.]; (TA;)<br>\
+as also مِزْدَغَةٌ; (L and TA in art. زدغ;) and<br>\
+↓ مِسْدَغٌ and مِزْدَغٌ signify the same [as dial. vars.<br>\
+of مِصْدَغٌ]. (TA.)<br>\
+' } );

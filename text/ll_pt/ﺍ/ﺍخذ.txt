@@ -1,0 +1,208 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اخذ&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اخذ<br>\
+&lt;entryFree id=&quot;n346&quot; key=&quot;اخَذَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اخَذَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, A, L, &amp;amp;c.,) in the first pers. of which, اَخَذْتُ, [and the like,] the ذ is generally changed into ت, and incorporated into the [augmentative] ت, [but in pronunciation only, for one writes اَخَذتُّ and the like,] aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَخُذَ<br>\
+                  &lt;/form&gt;, imperative خُذْ, originally اْوْخُذْ, (S, L,) which latter form sometimes occurs, [but with و in the place of وْ when the ا is pronounced with damm,] (TA,) inf. n. اَخْذٌ (S, L, Msb, K, &amp;amp;c.) and تَاْخَاذٌ, (S, L, K,) the latter having an intensive signification; (MF;) and وَخَذَ is a dial. var., as mentioned by Ibn-Umm-Kásim and others on the authority of AHei; (MF in art. تخذ;) &lt;i&gt;He took; he took with his hand; he took hold of;&lt;/i&gt; (S, A, L, Msb, K;) a thing. (S, L.) You say, خُذِ الخِطَامَ and خُذْ بِالخِطَامَ <br>\
+                  &lt;i&gt;Take thou,&lt;/i&gt; or &lt;i&gt;take thou with thy hand,&lt;/i&gt; or &lt;i&gt;take thou hold of, the nose-rein&lt;/i&gt; of the camel: (S, L, Msb:) the ب in the latter phrase being redundant. (Msb.) [And اَخَذَ بِيَدِهِ, lit. &lt;i&gt;He took his hand,&lt;/i&gt; or &lt;i&gt;arm;&lt;/i&gt; meaning (assumed tropical:)  &lt;i&gt;he aided,&lt;/i&gt; or &lt;i&gt;assisted, him:&lt;/i&gt; a phrase of frequent occurrence.] And اَخَذَ عَلَىيَدِ فُلَانٍ (assumed tropical:)  &lt;i&gt;He prevented, restrained,&lt;/i&gt; or &lt;i&gt;withheld, such a one from doing that which he desired; as though he laid hold upon his hand,&lt;/i&gt; or &lt;i&gt;arm:&lt;/i&gt; (L:) and اَخَذَ عَلَى يَدِهِ دُونَ مَا يُرِيُدهُ [signifies the same]. (K in art. لغد.) ―         -b2-  Also, inf. n. اَخْذٌ, &lt;i&gt;He took,&lt;/i&gt; or &lt;i&gt;received; contr. of&lt;/i&gt; <br>\
+                  اَعْطَي. (L.) [Hence,] اَخَذَ عَنْهُ, (assumed tropical:)  &lt;i&gt;He received from him traditions,&lt;/i&gt; and &lt;i&gt;the like.&lt;/i&gt; (TA passim.) ―         -b3-  (assumed tropical:)  [&lt;i&gt;He took,&lt;/i&gt; or &lt;i&gt;derived,&lt;/i&gt; or &lt;i&gt;deduced,&lt;/i&gt; a word, a phrase, and a meaning.] ―         -b4-  (tropical:)  &lt;i&gt;He took, received,&lt;/i&gt; or &lt;i&gt;admitted, willingly,&lt;/i&gt; or &lt;i&gt;with approbation; he accepted.&lt;/i&gt; (B, MF.) So in the Kur [vii. 198], خُذِ العَفْوَ (tropical:)  [&lt;i&gt;Take thou willingly,&lt;/i&gt; or &lt;i&gt;accept thou, superfluous property,&lt;/i&gt; or &lt;i&gt;such as is easily spared&lt;/i&gt; by others]. (MF.) So too in the same [iii. 75], وَ اَخَذتُّمْ عَلَي ذٰلِكُمْ اـِصْرِى (tropical:)  [&lt;i&gt;And do ye accept my covenant to that effect?&lt;/i&gt;]. (B.) [And in the phrases, اَخَذْنَا مِيثَاقَكُمْ بِالعَمَلِ بِمَا فِي التَّوْارَاةِ, (Jel ii. 60,) and عَلَي العَمّلِ بما في التوارة, (Idem ii. 87,) (assumed tropical:)  &lt;i&gt;We accepted your covenant to do according to what is in the Book of the Law revealed to Moses.&lt;/i&gt;] خُذْ عَنْكَ [is elliptical, and] means خُذْ مَا اَقُولُ وَدَع عَنْكَ الشَّكَ والمِرا=ءَ (assumed tropical:)  [&lt;i&gt;Accept thou what I say, and dismiss from thee doubt and obstinate disputation&lt;/i&gt;]. (S, L.) ―         -b5-  &lt;i&gt;He took&lt;/i&gt; a thing &lt;i&gt;to,&lt;/i&gt; or &lt;i&gt;for, himself; took possession of&lt;/i&gt; it; &lt;i&gt;got,&lt;/i&gt; or &lt;i&gt;acquired,&lt;/i&gt; it; syn. حَازَ; (Z, Er-Rághib, B;) which, accord. to Z and Er-Rághib and others, is the primary signification; (MF;) and حَصَّلَ. (B.) [See also 8.] ―         -b6-  [&lt;i&gt;He took and kept;&lt;/i&gt;] &lt;i&gt;he retained; he detained:&lt;/i&gt; as in the Kur [xii. 78], فَخُذْ اَحَدَنَا مَكَانَهُ [&lt;i&gt;Therefore retain thou one of us in his stead&lt;/i&gt;]. (B.) ―         -b7-  [&lt;i&gt;He took,&lt;/i&gt; as meaning &lt;i&gt;he took away.&lt;/i&gt; Hence,] اَخَذَ مِنْهُ السَّيْرُ <br>\
+                  &lt;i&gt;Journeying,&lt;/i&gt; or &lt;i&gt;travel, took from him strength;&lt;/i&gt; (القُوَّةَ being understood;) &lt;i&gt;weakened him.&lt;/i&gt; (Har p. 529.) And اَخَذَ مِنَ الشَّارِبِ, (Mgh,) and مِنَ الشَّعَرِ, (Msb,) &lt;i&gt;He clipped,&lt;/i&gt; or &lt;i&gt;cut off from,&lt;/i&gt; (Mgh, Msb,) &lt;i&gt;the mustache,&lt;/i&gt; (Mgh,) and &lt;i&gt;the hair.&lt;/i&gt; (Msb.) ―         -b8-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, took by force;&lt;/i&gt; or &lt;i&gt;seized:&lt;/i&gt; (B:) (assumed tropical:)  &lt;i&gt;he,&lt;/i&gt; or &lt;i&gt;it, overcame, overpowered,&lt;/i&gt; or &lt;i&gt;subdued:&lt;/i&gt; said by some to be the primary signification. (MF.) [See also اَخَذَهُ عَلْوَّا, &amp;amp;c., in art. علو: and اَخَذَهُ مِنْ فَوْقُ, &amp;amp;c., in art. فوق.] It is said in the Kur [ii. 256], لَا تَاْخُذُهُ سِنَةِ وَ لَا نَوْمٌ (assumed tropical:)  &lt;i&gt;Neither drowsiness nor sleep shall seize&lt;/i&gt; [or &lt;i&gt;overcome&lt;/i&gt;] &lt;i&gt;Him.&lt;/i&gt; (B.) [And you say, اَخَذَتْهُ رِعْدَةٌ (assumed tropical:)  &lt;i&gt;A tremour seized, took, affected,&lt;/i&gt; or &lt;i&gt;influenced, him.&lt;/i&gt; And اَخَذَهُ بَطْنُهُ (assumed tropical:)  &lt;i&gt;His belly affected him with a desire to evacuate it.&lt;/i&gt;] You say also, اَخَذَ فِيهِ الشَّرَابُ (assumed tropical:)  &lt;i&gt;The wine affected him,&lt;/i&gt; or &lt;i&gt;influenced him, so that he became intoxicated.&lt;/i&gt; (TA in art. ثمل.) And اَخَذَ الرَّاْسَ (Msb in art. سور, &amp;amp;c.) and اَخَذَ بِالرَّاْسِ (K in art. حمى, &amp;amp;c.) (assumed tropical:)  [&lt;i&gt;It had an overpowering influence upon the head&lt;/i&gt;]; meaning wine. (Msb, K.) And اَخَذَ بِالحَلْقِ [&lt;i&gt;It&lt;/i&gt; (food, &amp;amp;c.) &lt;i&gt;choked&lt;/i&gt;]. (IAar in art. نشب in the TA, and S in art. بشع, &amp;amp;c.) And لَا يَاْخُذُ فِيهِ قَوْلُ قَايِلٍ (assumed tropical:)  [&lt;i&gt;Nothing that any one may say will have any power,&lt;/i&gt; or &lt;i&gt;effect,&lt;/i&gt; or &lt;i&gt;influence, upon him&lt;/i&gt;]; meaning that he obeyeth no one. (L in art. ليت.) ―         -b9-  &lt;i&gt;He took captive.&lt;/i&gt; (L, Msb, B.) So in the Kur [ix. 5], فَاْقْتُلُوا اْلمُشْرِكِينَ <br>\
+                  حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ [&lt;i&gt;Then slay ye the believers in a plurality of gods wherever,&lt;/i&gt; or &lt;i&gt;whenever, ye find them, and take them captives&lt;/i&gt;]. (Bd, L, B.) ―         -b10-  See also 2, in three places. ―         -b11-  &lt;i&gt;He gained the mastery over&lt;/i&gt; a person, &lt;i&gt;and killed,&lt;/i&gt; or &lt;i&gt;slew,&lt;/i&gt; him; (Zj, L;) as also ↓ <br>\
+      ا=خَذَ: (L:) or simply, (assumed tropical:)  &lt;i&gt;he killed,&lt;/i&gt; or &lt;i&gt;slew.&lt;/i&gt; (B.) It is said in the Kur [xl. 5], وَهَمَّتْ كُّلُ اُمَّةٍ بِرَسُولِهِمْ لِيَاْخُذُوهُ, meaning [&lt;i&gt;And every nation hath purposed against their apostle&lt;/i&gt;] &lt;i&gt;that they might gain the mastery over him, and slay him;&lt;/i&gt; (Zj, L;) or (assumed tropical:)  &lt;i&gt;that they might slay him.&lt;/i&gt; (B.) ―         -b12-  (assumed tropical:)  &lt;i&gt;He&lt;/i&gt; (God, Msb) &lt;i&gt;destroyed&lt;/i&gt; a person: (Msb, MF:) and (assumed tropical:)  &lt;i&gt;extirpated,&lt;/i&gt; or &lt;i&gt;exterminated.&lt;/i&gt; (MF.) فَاَخَذَهُمُ اْللّٰهُ بِذُنُوبِهِمْ [in the Kur iii. 9 and xl. 22] means &lt;i&gt;But God destroyed them for their sins.&lt;/i&gt; (Jel.) ―         -b13-  (tropical:)  &lt;i&gt;He punished,&lt;/i&gt; or &lt;i&gt;chastised;&lt;/i&gt; (L, Msb, B, K, MF;) as also ↓ <br>\
+      ا=خَذَ: (L, Msb, MF:) as in the phrases, اَخَذَهُ بِذَنْبِهِ <br>\
+                  &lt;pb n=&quot;29&quot; TEIform=&quot;pb&quot;/&gt; (Msb, K *) and بِهِ ↓ <br>\
+      ا=خَذَهُ, inf. n. of the latter مُوَاخَذَةٌ, (S, L, Msb, K,) (tropical:)  &lt;i&gt;he punished,&lt;/i&gt; or &lt;i&gt;chastised, him for his sin,&lt;/i&gt; or &lt;i&gt;offence:&lt;/i&gt; (Msb:) and اُخِذَ بِذَنْبِهِ means (assumed tropical:)  &lt;i&gt;he was restrained and requited and punished for his sin,&lt;/i&gt; or &lt;i&gt;offence:&lt;/i&gt; (L:) or, accord. to some, اَخَذَ signifies &lt;i&gt;he extirpated,&lt;/i&gt; or &lt;i&gt;exterminated;&lt;/i&gt; and ↓ <br>\
+      ا=خذ <br>\
+                  &lt;i&gt;he punished,&lt;/i&gt; or &lt;i&gt;chastised, without extirpating,&lt;/i&gt; or &lt;i&gt;exterminating.&lt;/i&gt; (MF.) [For ↓ <br>\
+      ا=خذ,] some say وَاخَذَ, (S, L,) which is not allowable, (K,) accord. to some; but accord. to others, it is a chaste form; (MF;) of the dial. of El-Yemen, and used by certain of the seven readers [of the Kur-án] in the instance of لَا يُوَاخِذُكُمُ اْللّٰهُ [ii. 225 and v. 91]; and the inf. N. in that dial. Is مُوَاخَذَةٌ, and the imperative is وَاخِذْ. (Msb.) ―         -b14-  (tropical:)  &lt;i&gt;He made a violent assault upon&lt;/i&gt; a person, &lt;i&gt;and wounded&lt;/i&gt; him &lt;i&gt;much.&lt;/i&gt; (K, TA.) [You say also, اَخَذَهُ بِلِسَانِهِ, meaning (assumed tropical:)  &lt;i&gt;He assailed him with his tongue; vituperated him; spoke against him.&lt;/i&gt;] ―         -b15-  [&lt;i&gt;He took, took to,&lt;/i&gt; or &lt;i&gt;adopted.&lt;/i&gt;] You say, اَخَذَ اَخَذَهُمْ and اـِخْذَهُمْ &amp;amp;c.: see اَخْذٌ, below. And اَخَذَ فِى طَرِيقِ كَذَا [&lt;i&gt;He took such a road&lt;/i&gt;]: and اَخَذَ عَنْ يَمِينِهِ اَوْ يَسَارِهِ [&lt;i&gt;he took the way by,&lt;/i&gt; or &lt;i&gt;on, the right of him,&lt;/i&gt; or &lt;i&gt;it, or the left of him,&lt;/i&gt; or &lt;i&gt;it&lt;/i&gt;]. (S in art. نظر.) [And اَخَذَ بِالحَزْمِ, and فِي الحَزْمِ, (the former the more common, the latter occurring in art. حوط in the K,) (assumed tropical:)  &lt;i&gt;He took the course prescribed by prudence, discretion, precaution,&lt;/i&gt; or &lt;i&gt;good judgment; he used precaution:&lt;/i&gt; and, like اَخَذَ بِالثِّقَهِ, (assumed tropical:)  &lt;i&gt;he took the sure course&lt;/i&gt; in his affair.] And اَخَذَ حِذْرَهُ (assumed tropical:)  &lt;i&gt;He took care; became cautious,&lt;/i&gt; or &lt;i&gt;vigilant.&lt;/i&gt; (Bd in iv. 73 and 103.) [And اَخَذَ <br>\
+                  بِمَا قَالَ فُلَانٌ (assumed tropical:)  &lt;i&gt;He took to,&lt;/i&gt; or &lt;i&gt;adopted and followed,&lt;/i&gt; or &lt;i&gt;adhered to, what such a one said:&lt;/i&gt; see Har p. 367; where it is said that اخذ when thus used is made trans. by means of ب because it implies the meaning of تَشَبَّثَ.] ―         -b16-  &lt;i&gt;He took to, set about, began,&lt;/i&gt; or &lt;i&gt;commenced;&lt;/i&gt; as in the saying, اَخَذَ يَفْعَلُ <br>\
+                  كَذَا <br>\
+                  &lt;i&gt;He took to, set about, began,&lt;/i&gt; or &lt;i&gt;commenced, doing such a thing;&lt;/i&gt; in which case, accord. to Sb, اخذ is one of those verbs which do not admit of one&#39;s putting the act. part. n. in the place of the verb which is its enunciative: [i. e., one may not say فَاعِلًا in the place of يفعل in the phrase above:] and as in اَخَذَ فِى كَذَا <br>\
+                  &lt;i&gt;He began, commenced,&lt;/i&gt; or &lt;i&gt;entered upon, such a thing.&lt;/i&gt; (L.) ―         -b17-  [It is used in a variety of other phrases, in which the primary meaning is more or less apparent; and several of these will be found explained with other words occurring therein. The following instances may be here added.] ―         -b18-  طَرِيقٌ يَاْخُذُ فِى رَمْلَةٍ [&lt;i&gt;A road leading into,&lt;/i&gt; or &lt;i&gt;through, a tract of sand&lt;/i&gt;]. (K in art. فرز.) And اَخَذَ بِهِمُ الطَّرِيقُ فِى غَيْرِ المَحَجَّةِ [&lt;i&gt;The road lead them otherwise than in the beaten track&lt;/i&gt;]. (T * and A in art. بهرج.) ―         -b19-  مَا اَخَذَتْكَ <br>\
+                  عَيْنِى مُنْذُ حِينٍ (assumed tropical:)  &lt;i&gt;My eye hath not seen thee for some time;&lt;/i&gt; like مَاظَفِرَتْكَ. (T in art. ظفر.) And مَا فِي الحَىِّ اَحَدٌ تَاْخُذُهُ عَيْنِي [explained to me by Ibr D as meaning (assumed tropical:)  &lt;i&gt;There is not in the tribe any one whom my eye regards as worthy of notice&lt;/i&gt; or &lt;i&gt;respect&lt;/i&gt; by reason of his greatness therein]. (TA in art. جهر.) ―         -b20-  اَخَذْتُ عِنْدَهُ يَدَى, and مَعْروفاً: see 8.       -A2-  اَخِذَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَخَذَ<br>\
+                  &lt;/form&gt;, inf. n. اَخَذٌ, (S, L, K,) &lt;i&gt;He&lt;/i&gt; (a young camel) &lt;i&gt;suffered heaviness of the stomach, and indigestion, from the milk:&lt;/i&gt; (S:) or &lt;i&gt;became disordered in his belly, and affected with heaviness of the stomach, and indigestion, from taking much milk.&lt;/i&gt; (L.) ―         -b2-  &lt;i&gt;He&lt;/i&gt; (a camel, L, K, or a sheep or goat, L) &lt;i&gt;became affected by madness,&lt;/i&gt; or &lt;i&gt;demoniacal possession;&lt;/i&gt; (K;) or &lt;i&gt;by what resembled that.&lt;/i&gt; (L.) ―         -b3-  اَخِذَتْ عَيْنُهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَخَذَ<br>\
+                  &lt;/form&gt;, inf. n. اَخَذٌ, &lt;i&gt;His eye became affected by inflammation, pain, and swelling,&lt;/i&gt; or &lt;i&gt;ophthalmia.&lt;/i&gt; (Ibn-Es-Seed, L, K. *)       -A3-  اَخُذَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَخُذَ<br>\
+                  &lt;/form&gt;, inf. n. اُخُوذَةٌ, &lt;i&gt;It&lt;/i&gt; (milk) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, sour.&lt;/i&gt; (K.) [See ا=خِذٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n347&quot; key=&quot;اَخَّذَتْهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَخَّذَتْهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, L, K, *) inf. n. تَاْخِيذٌ, (S, L,) &lt;i&gt;She captivated,&lt;/i&gt; or &lt;i&gt;fascinated, him,&lt;/i&gt; (namely, her husband,) &lt;i&gt;and restrained him, by a kind of enchantment,&lt;/i&gt; or &lt;i&gt;charm,&lt;/i&gt; and especially &lt;i&gt;so as to withhold him from carnal conversation with other women;&lt;/i&gt; (S, * L, K, * TA;) as also ↓ <br>\
+      اَخَذَتْهُ; and ↓ <br>\
+      ا=خَذَتْهُ [of which the inf. n. is app. اـِيخَاذٌ]. (L, TA.) A woman says, اُوَخِّذُ جَمَلِى <br>\
+                  &lt;i&gt;I captivate,&lt;/i&gt; or &lt;i&gt;fascinate, my husband, by a kind of enchantment,&lt;/i&gt; or &lt;i&gt;charm, and withhold him from other women.&lt;/i&gt; (L, from a trad.) And one says, of a man, يُوَخِّذُ عَنِ اْمْرَاَتِهِ <br>\
+                  &lt;i&gt;He withholds others&lt;/i&gt; [&lt;i&gt;by a kind of enchantment,&lt;/i&gt; or &lt;i&gt;charm,&lt;/i&gt;] &lt;i&gt;from carnal conversation with his wife.&lt;/i&gt; (Msb.) The sister of Subh El-&#39;Ádee said, in bewailing him, when he had been killed by a man pushed towards him upon a couch-frame, or raised couch, ↓ <br>\
+      اَخَذتُّ <br>\
+                  عَنْكَ الرَّاكِبَ وَالسَّاعِىَ وَالمَاشِىَ والقَاعِدَ وَالقَايِمَ وَلَمْ <br>\
+                  ا=خُذْ عَنْكَ النَّايِمَ [&lt;i&gt;I withheld from thee by enchantment the rider and the runner and the walker and the sitter and the stander, and did not so withhold from thee the prostrate&lt;/i&gt;]. (L.) And one says of a beautiful garment, القُلُوبَ مَاْخَذَهُ ↓ <br>\
+      اَخَذَ [&lt;i&gt;It captivated hearts in a manner peculiar to it&lt;/i&gt;]: (K in art. حصر: [in the CK, incorrectly, اَخَذَت and القُلُوبُ:]) and اخذ بِقَلْبِهِ [&lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, captivated his heart;&lt;/i&gt; or] &lt;i&gt;he&lt;/i&gt; [or &lt;i&gt;it&lt;/i&gt;] &lt;i&gt;pleased him,&lt;/i&gt; or &lt;i&gt;excited his admiration.&lt;/i&gt; (TA in art. اله.)       -A2-  اخّذ اللَّبَنَ, inf. n. as above, &lt;i&gt;He made the milk sour.&lt;/i&gt; (K.) [See ا=خِذٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n348&quot; key=&quot;ا=خذ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=خذ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. مُوَاخَذَةٌ: see 1, in the middle portion of the paragraph, in five places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n349&quot; key=&quot;ا=خذ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=خذ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n., app., اـِيخَاذٌ: see 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n350&quot; key=&quot;ايتخذ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ايتخذ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [written with the disjunctive alif اِيتَخَذَ] occurs in its original form; and is changed into اْتَّخَذَ [with the disjunctive alif اِتَّخَذَ]; this being of the measure افتعل from اَخْذُ, the [radical] ء being softened, and changed into ت, and incorporated [into the augmentative ت]: hence, when it had come to be much used in the form of افتعل [thus changed], they imagined the [former] ت to be a radical letter [unchanged], and formed from it a verb of the measure فَعِلَ, aor. يَفْعَلُ; saying, تَخِذَ, aor. يَتْخَذُ, (S, L, Msb, *) inf. n. تَخَذٌ and تَخْذٌ: (Msb:) and ↓ <br>\
+      اْسْتَخَذَ [written with the disjunctive alif اِسْتَخَذَ], of which exs. will be found below, is also used for اتّخذ; one of the two تs being changed into س, like as س is changed into ت in سِتٌّ [for سِدْسٌ]: or استخذ may be of the measure استفعل from تَخِذَ; one of the two تs being suppressed; after the manner of those who say ظَلْتُ for ظَلِلْتُ: (S, L:) and IAth says that اتّخذ, in like manner, is of the measure افتعل from تَخِذَ; not from اَخَذَ: (L and K in art. تخذ:) but IAth is not one who should contradict J, whose opinion on this point is corroborated by the fact that they say اْتَّزَرَ from اـِزَارٌ, and اْتَّمَنَ from اَمْنٌ, and اْتَّهَلَ from اَهْلٌ; and there are other instances of the same kind: or, accord. to some, اتّخذ is from وَخَذَ, a dial. var. of اَخَذَ, and is originally اِوْتَخَذَ. (MF.) [The various significations of اتّخذ and تَخِذَ and استخذ will be here given under one head.] ―         -b2-  You say, اـِيْتَخَذُوا فِى القِتَالِ, (S, L, K, *) and فى الحَرْبِ, (Msb,) with two hemzehs, (S, L, K,) or, correctly, اـِيتَخَذُوا, with one hemzeh, [or اِيتَخَذُوا,] as two hemzehs cannot occur together in one word, (marginal note in a copy of the S,) [but in a case of wasl, the first hemzeh being suppressed, the second remains unchanged,] &lt;i&gt;They took,&lt;/i&gt; or &lt;i&gt;seized,&lt;/i&gt; (اَخَذُوا,) &lt;i&gt;one another&lt;/i&gt; (S, L, Msb, K) &lt;i&gt;in fight,&lt;/i&gt; (S, L,) and &lt;i&gt;in war;&lt;/i&gt; (Msb;) and so اِتَّخَذُوا. (Msb.) And اِيتَخَذَ القَوْمُ <br>\
+                  &lt;i&gt;The people,&lt;/i&gt; of &lt;i&gt;company of men, wrestled together, each taking hold in some manner upon him who wrestled with him, to throw him down.&lt;/i&gt; (L, TA.) ―         -b3-  [اتّخذ, as also ↓ <br>\
+      استخذ, and] تَخِذَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَخَذَ<br>\
+                  &lt;/form&gt;, (K in art. تخذ,) inf. n. تَخَذَ and تَخْذٌ, (TA in art. تخذ,) likewise signifies &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَخَذَ, (K in art. تخذ, and B and TA in the present art.,) as meaning &lt;i&gt;He took&lt;/i&gt; a thing &lt;i&gt;to,&lt;/i&gt; or &lt;i&gt;for, himself; took possession of&lt;/i&gt; it; &lt;i&gt;got,&lt;/i&gt; or &lt;i&gt;acquired,&lt;/i&gt; it; syn. حَازَ and حَصَّلَ. (B, TA.) Some read, [in the Kur, xviii. 76,] لَتَخِذْتَ عَلَيْهِ اَجْراً [&lt;i&gt;Thou mightest assuredly have taken for thyself a recompense for it&lt;/i&gt;]: (S, L, K in art. تخذ, and TA in the present art.:) this is the reading of Mujáhid, (Fr, TA,) and is authorized by I&#39;Ab, and is that of Aboo-&#39;Amr Ibn-El-&#39;Alà and AZ, and so it is written in the model-copy of the Kur, and so the readers [in general] read: (AM, L, TA:) so read Ibn-Ketheer and the Basrees; he and Yaakoob and Hafs pronouncing the ذ; the others incorporating it [into the ت]: (Bd:) some read لااْتَّخَذتَّ; (L and K in art. تخذ;) but these read at variance with the scripture. (AM, L, TA.) اَرْضاً ↓ <br>\
+      استخذ is a phrase mentioned by Mbr as used by some of the Arabs, (S, L,) and signifies &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اِتَّخَذَهَا [&lt;i&gt;He took for himself a piece of land&lt;/i&gt;]. (S, L, K.) And اتّخذ وَلَدَّا [in the Kur, ii. 110, &amp;amp;c.,] signifies &lt;i&gt;He got a son,&lt;/i&gt; or &lt;i&gt;offspring.&lt;/i&gt; (Bd &amp;amp;c. See also below.) And تَخِذَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَخَذَ<br>\
+                  &lt;/form&gt;, inf. n. تَخَذٌ and تَخْذٌ, also signifies &lt;i&gt;He gained, acquired,&lt;/i&gt; or &lt;i&gt;earned,&lt;/i&gt; wealth, (L, and Msb in arts. اخذ and تخذ,) or a thing. (Msb.) ―         -b4-  عَلَيْهِمْ يَدًا ↓ <br>\
+      استخذ and عِنْدَهُمْ signify alike, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اتّخذ [&lt;i&gt;He did to them a benefit,&lt;/i&gt; or &lt;i&gt;favour;&lt;/i&gt; as though he earned one for himself in prospect, making it to be incumbent on them as a debt to him]: (ISh:) and اِتَّخَذْتُ عِنْدَهُ مَعْروفًا means [in like manner, as also عنده معروفا ↓ <br>\
+      اَخَذْتُ, and يَدَّا, (and اِتَّخَذَ <br>\
+                  فِيهِ حُسْناً has a similar meaning; see Kur xviii. &lt;pb n=&quot;30&quot; TEIform=&quot;pb&quot;/&gt; 85;)] &lt;i&gt;I did to him a benefit,&lt;/i&gt; or &lt;i&gt;favour;&lt;/i&gt; syn. اَسْدَيْتُهُ اـِلَيْهِ. (Msb in art. سدي.) ―         -b5-  اتّخذ also signifies &lt;i&gt;He made&lt;/i&gt; a thing; syn. عَمِلَ; like تَخِذَ, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَخَذَ<br>\
+                  &lt;/form&gt;,] inf. n. تَخَذٌ and تَخْذٌ: (L:) &lt;i&gt;he made,&lt;/i&gt; or &lt;i&gt;manufactured,&lt;/i&gt; a bow, a water-skin, &amp;amp;c., مِنْ كَذَا <br>\
+                  &lt;i&gt;of such a thing: he made,&lt;/i&gt; or &lt;i&gt;prepared,&lt;/i&gt; a dish of food, a medicine, &amp;amp;c.: either absolutely or &lt;i&gt;for himself.&lt;/i&gt; (The Lexicons passim.) ―         -b6-  Also &lt;i&gt;He made,&lt;/i&gt; or &lt;i&gt;constituted,&lt;/i&gt; or &lt;i&gt;appointed;&lt;/i&gt; syn. جَعَلَ; doubly trans.; (B, Msb;) and so تَخِذَ. (Msb in art. تخذ.) You say, اتّخذهُ صَدِيقًا <br>\
+                  &lt;i&gt;He made him&lt;/i&gt; [or &lt;i&gt;took him as&lt;/i&gt;] &lt;i&gt;a friend;&lt;/i&gt; (Msb in the present art.;) and so تَخِذَهُ. (Idem in art. تخذ.) And اتّخذهُ هُزُوًا [in the Kur ii. 63 and 231, &amp;amp;c.,] means &lt;i&gt;He made him,&lt;/i&gt; or &lt;i&gt;it, a subject of derision.&lt;/i&gt; (Bd, Jel.) And اتّخذهُ وَلَدًا [in the same, xii. 21 and xxviii. 8,] &lt;i&gt;He made him,&lt;/i&gt; or &lt;i&gt;took&lt;/i&gt; or &lt;i&gt;adopted him as, a son.&lt;/i&gt; (Bd. See also above.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n351&quot; key=&quot;اْسْتَخَذَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اْسْتَخَذَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, written with the disjunctive alif اِسْتَخَذَ: see 8, in four places. [Other meanings may be inferred from explanations of مُسْتَاْخِذٌ, q. v. infrà.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n352&quot; key=&quot;اَخْذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَخْذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of اَخَذَ, q. v. ―         -b2-  (assumed tropical:)  &lt;i&gt;A way,&lt;/i&gt; or &lt;i&gt;manner, of life;&lt;/i&gt; as also ↓ <br>\
+      اـِخْذٌ. (S, L, K.) You say, ذَهَبَ بَنُو فُلَانٍ وَمَنْ اَخَذَ اَخْذَهُمْ, (S, L, K, *) and ↓ <br>\
+      اـِخْذَهُمْ, (L, K,) the former of the dial. of Temeem, and the latter of the dial. of El-Hijáz, (TA,) meaning (assumed tropical:)  &lt;i&gt;The sons of such a one went away,&lt;/i&gt; or &lt;i&gt;passed away, and those who took to their way of life,&lt;/i&gt; (S, L, K,) &lt;i&gt;and adopted their manners,&lt;/i&gt; or &lt;i&gt;dispositions:&lt;/i&gt; (K:) and مَنْ اَخَذَ اَخْذُهُمْ and ↓ <br>\
+      اـِخْذُهُمْ, and مَنْ اَخَذَ اَخْذُهُمْ [in the CK اَخْذُهُمْ] and ↓ <br>\
+      اـِخْذُهُمْ, signify [virtually] the same: (K:) or مَنْ اَخَذَهُ اَخْذُهُمْ and ↓ <br>\
+      اـِخْذُهُمْ signify [properly] مَنْ اَخَذَهُ اَخْذُهُمْ وَسِيرَتُهُمْ [&lt;i&gt;those whom their way of life took,&lt;/i&gt; or &lt;i&gt;influenced&lt;/i&gt;]. (ISk, S L.) One says also, اْسْتُعْمِلَ فُلَانٌ عَلَ الشَّامِ ↓ <br>\
+      وَمَا اَخَذَ اـِخْذَهُ, with kesr, meaning (assumed tropical:)  [&lt;i&gt;Such a one was appointed prefect over Syria,&lt;/i&gt;] &lt;i&gt;and he did not take to that good way of life which it was incumbent on him to adopt:&lt;/i&gt; you should not say اَخْذَهُ: (AA, S, L:) or it means &lt;i&gt;and what was adjacent to it:&lt;/i&gt; (Fr, L:) or, accord. to the Wá&#39;ee, one says, in this case, ↓ <br>\
+      وَمَا اَخَذَ اـِخْذَهُ and اَخْذُهُ and ↓ <br>\
+      اُخْذُهُ, with kesr and fet-h and damm [to the hemzeh, and with the ذ marfooah, as in instances before]. (Et-Tedmuree, MF.) One also says, ↓ <br>\
+      لَوْ كُنْتَ مِنَّا لَاَخَذتَّ بِاـخْذِنَا, (S, L,) with kesr to the ا, (L,) [in a copy of the S بِاَخْذِنَا, which seems to be also allowable, accord. to the dial. of Temeem,] meaning &lt;i&gt;Wert thou of us, then thou hadst taken to,&lt;/i&gt; or &lt;i&gt;wouldst take to, our manners,&lt;/i&gt; or &lt;i&gt;dispositions, and fashion,&lt;/i&gt; (S, L,) &lt;i&gt;and garb, and way of life.&lt;/i&gt; (L.) The words of the poet, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَلَوْ كُنْتُمْ مُنَّا اَخَذْنَا بِاـِخْذِكُمْ<br>\
+                  &lt;/quote&gt; IAar explains as meaning &lt;i&gt;And were ye of us, we had caught and restored to you your camels:&lt;/i&gt; but no other says so. (L.) ―         -b3-  نُجُومُ الاَخْذِ <br>\
+                  &lt;i&gt;The Mansions of the Moon;&lt;/i&gt; (S, L, K;) also called نُجُومُ <br>\
+                  الاَنْوَا=ءٌ; (L; [see art. نوء;]) called by the former appellation because the moon every night enters (يَاْخُذُ فِى) one of those mansions: (S, L:) or &lt;i&gt;the stars which are cast at those&lt;/i&gt; [&lt;i&gt;devils&lt;/i&gt;] &lt;i&gt;who listen by stealth&lt;/i&gt; [&lt;i&gt;to the conversations of the angels&lt;/i&gt;]: (L, K:) but the former explanation is the more correct. (L.) ―         -b4-  See also اـِخَاذْ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n353&quot; key=&quot;اُخْذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُخْذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, whence مَا اَخَذَ اُخْذُهُ: see اَخْذٌ. ―         -b2-  It is also a pl. of اـِخَاذٌ; (S, L;) and of اـِخْذٌ or اـِخْذَةٌ, explained below with اـِخَاذٌ. (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n354&quot; key=&quot;اـِخْذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِخْذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [The &lt;i&gt;act of taking, taking with the hand,&lt;/i&gt; &amp;amp;c.], a subst. from اَخَذَ. (S, L, Msb.) ―         -b2-  See also اَخْذٌ, in nine places. ―         -b3-  And see اـِخَاذٌ. ―         -b4-  Also &lt;i&gt;A mark made with a hot iron upon a camel&#39;s side when a disease therein is feared.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n355&quot; key=&quot;اَخَذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَخَذٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Heaviness of the stomach, and indigestion,&lt;/i&gt; of a young camel, &lt;i&gt;from the milk.&lt;/i&gt; (K.) [See اَخِذَ.] ―         -b2-  See also اُخُذٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n356&quot; key=&quot;اَخِذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَخِذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A young camel &lt;i&gt;disordered in his belly, and affected with heaviness of the stomach, and indigestion, from taking much milk.&lt;/i&gt; (AZ, Fr, L.) [See also صَبْحَانُ.] ―         -b2-  A camel, or a young camel, or a sheep or goat, &lt;i&gt;affected by what resembles madness,&lt;/i&gt; or &lt;i&gt;demoniacal possession.&lt;/i&gt; (L.) ―         -b3-  A man &lt;i&gt;affected with inflammation of the eye; with pain and swelling of the eye; with ophthalmia;&lt;/i&gt; (S, L;) as also ↓ <br>\
+      مُسْتَاْخِذٌ. (L.) See also this latter. ―         -b4-  See also ا=خِذٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n357&quot; key=&quot;اُخُذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُخُذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, L, K) and ↓ <br>\
+      اَخَذٌ, (Ibn-Es-Seed, L, K,) which latter is the regular form, (L,) &lt;i&gt;Inflammation of the eye; pain and swelling of the eye; ophthalmia.&lt;/i&gt; (S, L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n358&quot; key=&quot;اَخْذَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَخْذَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [inf. n. un. of اَخَذَ, &lt;i&gt;An act of taking,&lt;/i&gt; &amp;amp;c.: &lt;i&gt;an act of punishment,&lt;/i&gt; or &lt;i&gt;chastisement,&lt;/i&gt; or &lt;i&gt;the like;&lt;/i&gt; as in the Kur lxix. 10: pl. اَخَذَاتٌ]. ―         -b2-  اَخَذُوا اَخَذَاتِهِمْ <br>\
+                  &lt;i&gt;They took their places of abode.&lt;/i&gt; (IAth and L, from a trad.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n359&quot; key=&quot;اُخْذَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُخْذَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A manner of taking,&lt;/i&gt; or &lt;i&gt;seizing,&lt;/i&gt; of a man with whom one is wrestling: pl. اُخَذٌ. (L.) ―         -b2-  &lt;i&gt;A kind of enchantment,&lt;/i&gt; or &lt;i&gt;fascination, like&lt;/i&gt; <br>\
+                  سِحْر, (S, L, Msb, * K,) &lt;i&gt;which captivates the eye and the like,&lt;/i&gt; (L,) &lt;i&gt;and by which enchantresses withhold their husbands from other women;&lt;/i&gt; called by the vulgar رِبَاطٌ and عَقْدٌ; and practised by the women in the time of ignorance: (TA:) or &lt;i&gt;a kind of bead&lt;/i&gt; (خَزَرَةٌ, S, L, K) &lt;i&gt;with which one captivates,&lt;/i&gt; or &lt;i&gt;fascinates,&lt;/i&gt; or &lt;i&gt;restrains;&lt;/i&gt; (K;) &lt;i&gt;with which women captivate,&lt;/i&gt; or &lt;i&gt;fascinate,&lt;/i&gt; or &lt;i&gt;restrain, men,&lt;/i&gt; (S, L,) &lt;i&gt;and withhold them from other women:&lt;/i&gt; (L:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  رُقْيَةٌ. (A.) ―         -b3-  &lt;i&gt;A pitfall dug for catching a lion.&lt;/i&gt; (A, TA.) ―         -b4-  بَادِرْ بِزَنْدِكَ اُخْذَةَ النَّارِ [&lt;i&gt;Strive thou to be before the time called&lt;/i&gt; (that of) اخذة النار <br>\
+                  &lt;i&gt;with thy wooden instrument for producing fire;&lt;/i&gt; i. e. &lt;i&gt;haste thou to use it before that time;&lt;/i&gt;] means &lt;i&gt;the time a little after the prayer of sunset;&lt;/i&gt; asserted to be the worst time in which to strike fire. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n360&quot; key=&quot;اـِخْذَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِخْذَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِخَاذٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n361&quot; key=&quot;اـِخَاذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِخَاذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اـِخَاذَةٌ <br>\
+                  &lt;i&gt;A pool of water left by a torrent:&lt;/i&gt; pl. اُخُذٌ: (AO, K:) both signify the same: (L:) or ↓ <br>\
+      اـِخَاذَةٌ signifies &lt;i&gt;a thing like a pool of water left by a torrent;&lt;/i&gt; and اـِخَاذٌ is its pl. [or a coll. gen. n.]; and the pl. of this latter is اُخُذٌ, like as كُتُبٌ is pl. of كِتَابٌ, and sometimes it is contracted into اُخْذٌ: (S, L:) the like of this is said by Aboo-&#39;Adnán: (L:) and اـِخَاذَاتٌ is also a pl. of اـِخاذَةٌ, occurring in a trad., and signifying &lt;i&gt;pools which receive the rain-water, and retain it for drinkers:&lt;/i&gt; (IAth, L:) or the correct word is اـِخَاذٌ, without ة, and it signifies &lt;i&gt;a place where beasts assemble at a pool of water left by a torrent;&lt;/i&gt; and its pl. is اُخُذٌ (AA, A&#39;Obeyd, L) and ا=خَاذٌ, which latter is extr.: (L:) but as to ↓ <br>\
+      اـِخَاذَةٌ, it has a different signification, which will be found below; i. e. land of which a man takes possession for himself, &amp;amp;c.: (AA, L:) or اـِخَاذٌ is a coll. gen. n., and ↓ <br>\
+      اـِخَاذَةٌ is its n. un., and signifies &lt;i&gt;a receptacle made for water to collect therein:&lt;/i&gt; and ↓ <br>\
+      اَخْذٌ signifies &lt;i&gt;a thing that one digs for himself, in the form of a watering-trough, which retains water for some days;&lt;/i&gt; and its pl. is اُخْذَانٌ: (L:) and ↓ <br>\
+      اـِخْذٌ and ↓ <br>\
+      اـِخْذَةٌ also signify &lt;i&gt;a thing that one digs in the form of a wateringtrough;&lt;/i&gt; and the pl. is اُخْذٌ and اـِخَاذٌ. (L.) In a trad. of Mesrook Ibn-El-Ajda&#39;, اـِخَاذ are likened to the Companions of Mohammad; and it is added, that one ↓ <br>\
+      اـِخَاذَة suffices for a rider; and one, for two riders; and one, for a company of men: (S, L:) meaning that among them were the young and the old, and the possessor of knowledge and the possessor of more knowledge. (L.) ―         -b2-  See also اـِخَاذَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n362&quot; key=&quot;اَخِيذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَخِيذٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; ↓ <br>\
+      مَاْخُوذٌ [&lt;i&gt;Taken; taken with the hand;&lt;/i&gt; &amp;amp;c.]. (Msb.) ―         -b2-  &lt;i&gt;A captive:&lt;/i&gt; (S, L, Msb, K:) fem. with ة. (S, L.) Hence the saying, اَكْذَبُ مِنْ اَخِيذِ الجَيشِ <br>\
+                  &lt;i&gt;More lying than the captive of the army:&lt;/i&gt; meaning him whom his enemies have taken captive, and whom they desire to conduct them to his people, and who lies to them to his utmost. (Fr, L.) [See another ex. voce صَبْحَانُ.] ―         -b3-  &lt;i&gt;A strange,&lt;/i&gt; or &lt;i&gt;foreign, old man.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n363&quot; key=&quot;اـِخَاذَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِخَاذَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Land which a man,&lt;/i&gt; (S, L, K,) &lt;i&gt;or a Sul- tán,&lt;/i&gt; (S, L,) &lt;i&gt;takes for himself;&lt;/i&gt; as also ↓ <br>\
+      اـِخَاذٌ: (S, L, K:) or &lt;i&gt;land which a man takes for himself, and brings into a state of cultivation after its having been waste:&lt;/i&gt; (AA, Mgh, L:) or &lt;i&gt;waste land which the owner gives to him who shall cultivate it:&lt;/i&gt; (Mgh:) and &lt;i&gt;land which the Imám gives to one, not being property,&lt;/i&gt; (K,) or &lt;i&gt;not being the property of another.&lt;/i&gt; (TA, as from the K.) ―         -b2-  See also اـِخَاذٌ, in five places. ―         -b3-  Also The &lt;i&gt;handle&lt;/i&gt; of a [shield of the kind called] حَجَفَة; (K; [in the L written جحْفة, with the ج before the ح;]) also called its ثقاف. (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n364&quot; key=&quot;اَخِيذَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَخِيذَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A thing that is taken by force.&lt;/i&gt; (L.) [See also اَخِيذٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n365&quot; key=&quot;اَخَّاذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَخَّاذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;who takes eagerly,&lt;/i&gt; or &lt;i&gt;greedily:&lt;/i&gt; whence the saying, مَا اَنْتَ اـِلَّا اَخَّاذٌ نَبَّاذٌ <br>\
+                  &lt;i&gt;Thou art none other than one who taketh a thing eagerly,&lt;/i&gt; or &lt;i&gt;greedily, and then throweth it away quickly.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n366&quot; key=&quot;ا=خِذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=خِذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (as in some copies of the K, in both of &lt;pb n=&quot;31&quot; TEIform=&quot;pb&quot;/&gt; the senses here explained,) or ↓ <br>\
+      اَخِذْ (as in other copies of the K, and in the L and TA, [but the former is the more agreeable with the form of the pl.,]) A camel &lt;i&gt;beginning to become fat;&lt;/i&gt; (L, K;) or &lt;i&gt;to become aged:&lt;/i&gt; (K:) pl. اَوَاخِذُ (L.)       -A2-  Milk &lt;i&gt;that bites the tongue;&lt;/i&gt; syn. قَارِصٌ. (K.) [See اَخُذَ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n367&quot; key=&quot;مَاْخَذْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْخَذْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;A place where,&lt;/i&gt; or &lt;i&gt;whence, a thing is taken:&lt;/i&gt; pl. مَا=خِذُ.] [Hence,] مَا=خِذُ الطَّيْرِ <br>\
+                  &lt;i&gt;The places whence birds are taken.&lt;/i&gt; (K, TA.) ―         -b2-  [&lt;i&gt;The source of derivation&lt;/i&gt; of a word or phrase or meaning.] ―         -b3-  &lt;i&gt;A way [which one takes];&lt;/i&gt; as in the phrase, المَاْخَذَ الاَقْرَبَ سَلَكَ <br>\
+                  &lt;i&gt;He went the nearest way.&lt;/i&gt; (Msb. in art. خصر.) ―         -b4-  [See also 2, last sentence but one.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n368&quot; key=&quot;مَاْخُوذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْخُوذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَخِيذٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n369&quot; key=&quot;رَجُلٌ مُوَخَّذٌ عَنِ النِّسَا=ءِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَجُلٌ مُوَخَّذٌ عَنِ النِّسَا=ءِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A man withheld [by a kind of enchantment&lt;/i&gt; or &lt;i&gt;charm&lt;/i&gt; (see 2)] &lt;i&gt;from women.&lt;/i&gt; (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n370&quot; key=&quot;مُوْتَخِذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْتَخِذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n371&quot; key=&quot;مُسْتَاْخِذٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَاْخِذٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Requiring to be clipped;&lt;/i&gt; i. e.] &lt;i&gt;long;&lt;/i&gt; applied to hair. (K.)       -A2-  &lt;i&gt;Lowering his head,&lt;/i&gt; or &lt;i&gt;stooping,&lt;/i&gt; (As, S, L, K,) &lt;i&gt;by reason of inflammation of the eyes,&lt;/i&gt; or &lt;i&gt;ophthalmia,&lt;/i&gt; (As, S, L,) or &lt;i&gt;by reason of pain,&lt;/i&gt; (As, S, L, K,) or &lt;i&gt;from some other cause;&lt;/i&gt; (L;) as also ↓ <br>\
+      اَخِذٌ, q. v. (TA.) &lt;i&gt;Lowly,&lt;/i&gt; or &lt;i&gt;submissive,&lt;/i&gt; (AA, L, K,) by reason of disease; as also ↓ <br>\
+      مُوْتَخِذٌ. (AA, L.)   &lt;/entryFree&gt; <br>\
+' } );

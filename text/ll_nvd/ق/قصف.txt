@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'قصفنَبَاتٌ قَصِيفٌ رَيّانُ<br>\
+[A weak, or fragile, sappy<br>\
+plant]. (TA, in art. خرع.)<br>\
+' } );

@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;خسا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  خسا<br>\
+&lt;entryFree id=&quot;n10586&quot; key=&quot;خَسَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     خَسَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     خَسَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. خَسْءٌ (S, K) and خُسُوْءٌ, (K,) &lt;i&gt;He drove away&lt;/i&gt; a dog: (S, K:) &lt;i&gt;he chid&lt;/i&gt; him. (Lth.)       -A2-  It is also intrans., (S,) and signifies &lt;i&gt;He&lt;/i&gt; (a dog) &lt;i&gt;went away, to a distance;&lt;/i&gt; (S, * K;) [&lt;i&gt;being driven away,&lt;/i&gt; or &lt;i&gt;chidden;&lt;/i&gt;] as also خَسِيَ, (K,) and ↓ <br>\
+      انخسا. (S, K.) ―         -b2-  [Hence,] tropically, said to a man, اِخْسَاْ اـِلَيْكَ, meaning اِخْسَاْ عَنِّى (tropical:)  [&lt;i&gt;Go thou away:&lt;/i&gt; or &lt;i&gt;go thou away from me&lt;/i&gt;]. (TA.) اِخْسَوُوا فِيهَا وَ لَا تُكَلِّمُونِ, in the Kur [xxiii. 110], is expressive of removal to a distance with anger; [meaning (assumed tropical:)  &lt;i&gt;Go ye away into it,&lt;/i&gt; (i. e. the fire of Hell,) &lt;i&gt;and speak not unto Me.&lt;/i&gt;] (Zj.) ―         -b3-  [And hence, (assumed tropical:)  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, vile and despised and hated:&lt;/i&gt; so says Golius, as on the authority of the KL; but this meaning is not in my copy of that work: it agrees, however, with a signification of the part. n. خَاسِيٌ, q. v.]       -A3-  Also, inf. n. خَسْءٌ and خُسُوْءٌ [as above], said of the sight, (AZ, S, K,) (tropical:)  &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, dazzled,&lt;/i&gt; or &lt;i&gt;confused,&lt;/i&gt; (AZ, S, TA,) and &lt;i&gt;dim.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10587&quot; key=&quot;خَاسَوُوا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     خَاسَوُوا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) inf. n. مُخَاسَاَةٌ, (S,) (tropical:)  &lt;i&gt;They threw stones, one at another;&lt;/i&gt; (S, K;) as also ↓ <br>\
+      تخاسووا, (K,) or تخاسووا بِالحِجَارَةِ. (S.) And كَانَتْ بَيْنَهُمْ مُخَاسَاَةٌ (tropical:)  [&lt;i&gt;There was between them a contending in throwing,&lt;/i&gt; or &lt;i&gt;throwing of stones&lt;/i&gt;]. (S, TA.) [See also art. خسى.] ―         -b2-  And هُوَ يُخَاسِيُ means يُقَامِرُ [&lt;i&gt;He contends in a game of hazard&lt;/i&gt;]. (IB, TA in art. خسو.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَخَاْسَاَ<br>\
+                  &lt;/form&gt; see 3.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;7&lt;/itype&gt;        <br>\
+                     اـِنْخَسَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10588&quot; key=&quot;خَسِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَسِىْءٌ<br>\
+                     خسىء<br>\
+                     خسيء<br>\
+                     خسي<br>\
+                  &lt;i&gt;Bad&lt;/i&gt; wool. (O, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n10589&quot; key=&quot;خَاسِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     خَاسِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, applied to a dog, and to a swine, (K,) and to a devil, (TA,) &lt;i&gt;Driven away, repelled, and not suffered to come near to men.&lt;/i&gt; (K, TA.) ―         -b2-  And [hence,] (assumed tropical:)  &lt;i&gt;Contemptible, despicable, vile,&lt;/i&gt; or &lt;i&gt;abject.&lt;/i&gt; (TA.) ―         -b3-  Applied to the sight, (tropical:)  &lt;i&gt;Dazzled,&lt;/i&gt; or &lt;i&gt;confused,&lt;/i&gt; (S, TA,) and &lt;i&gt;dim.&lt;/i&gt; (TA.) So in the words of the Kur [lxvii. 4], يَنْقَلِبُ اـِلَيْكَ البَصَرُ <br>\
+                  خَاسِيًا (tropical:)  [&lt;i&gt;The sight will recoil to thee dazzled,&lt;/i&gt; or &lt;i&gt;confused,&lt;/i&gt; or &lt;i&gt;dim&lt;/i&gt;]: (S, TA:) or the meaning here is (assumed tropical:)  &lt;i&gt;contemptible:&lt;/i&gt; or &lt;i&gt;withdrawing far away:&lt;/i&gt; or it is of the measure فَاعِلٌ in the sense of the measure مَفْعُولٌ, [meaning &lt;i&gt;repelled far away,&lt;/i&gt;] like عِيشَةٍ رَاضِيَةٍ, in the Kur [lxix. 21 and ci. 5], for مَرْضِيَّةٍ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

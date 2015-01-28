@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>سرجن</em>            1                  سرجن<br>\
+<b>سَرْجَنَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     سَرْجَنَ<br>\
+                     ذ<br>\
+                  : see art. سرج.    </entryFree> <br>\
+<b>سَرْجِينٌ</b>               1     <br>\
+                     سَرْجِينٌ<br>\
+                     ذ<br>\
+                  : see art. سرج.   </entryFree> <br>\
+' } );

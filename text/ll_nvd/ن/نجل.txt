@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'نجلطَعْنَةٌ نَجْلَآءُ<br>\
+A wide wound with a spear or the<br>\
+like. (TA.) See an ex. in a verse cited voce<br>\
+رُبَّ. ―<br>\
+-b2-  عَيْنٌ نَجْلَآءُ<br>\
+A wide eye; pl. عُيُونٌ نُجْلٌ.<br>\
+(TA.) See a verse in art. فرغ (conj. 4).<br>\
+مِنْجَلٌ<br>\
+A reaping-hook. (Mgh; and S, K,<br>\
+voce مِحْصَدٌ.) It has a toothed, or serrated,<br>\
+edge: (A, art. حز; and K, art. اشر:) and is<br>\
+sometimes plain. (K, voce مِحَشٌّ, and M and<br>\
+L, voce سِنٌّ.) See مِخْلَبٌ and دَرَهْرَهَةٌ. ―<br>\
+-b2-  [A<br>\
+reaping-hook: or a pruning-hook: sometimes signifying the latter:] an iron implement, having<br>\
+teeth, with which seed-produce is cut: or one<br>\
+with which the wood, or branch, is cut off from<br>\
+the tree, and cast down, or away. (TA.)<br>\
+نَجيلٌ<br>\
+: see طَحْمَآءُ.<br>\
+' } );

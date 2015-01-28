@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;زابق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  زابق<br>\
+&lt;entryFree id=&quot;n17320&quot; key=&quot;زَاْبَقَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;Q&quot;&gt;       <br>\
+                     &lt;itype&gt;Q. 1&lt;/itype&gt;        <br>\
+                     زَاْبَقَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He did over&lt;/i&gt; dirhems, or pieces of money, &lt;i&gt;with&lt;/i&gt; <br>\
+                  زِيْبِق [i. e. &lt;i&gt;quicksilver&lt;/i&gt;]. (Mgh.) [It is said that] the verb [from زيبق, or rather its inf. n.,] is التَّزْبِيقُ: (TA:) [but see مَزَاْبَقٌ, below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17321&quot; key=&quot;زِيْبِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     زِيْبِقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Mgh, Msb, K,) thus pronounced by some, (S,) and this is the form preferred by ElMeydánee, and that which is in the Fs and its Expositions, (TA,) rendered quasi-coordinate to زِيْبِرٌ and ضِيْبِلٌ, (S, in which it is mentioned in art. زبق,) also pronounced زِيْبَقٌ, (S, K, [in both of which it is implied that this is the more common form, and such is the case now,]) and it is allowable to pronounce it زِيبِقٌ, (Msb,) an arabicized word, (S, K,) of well-known meaning, [i. e. &lt;i&gt;Quicksilver,&lt;/i&gt;] (Msb, K,) originally Pers. [Cِيوَهْ and زِيبَقْ or زِيبِقْ]; (S;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  زَاوُوقٌ: (Mgh, TA:) &lt;i&gt;some of it is drawn in a fluid state from its mine, and some is extracted from stones of the mine by means of fire: its smoke,&lt;/i&gt; or &lt;i&gt;vapour, puts to flight serpents and scorpions from the house, or kills such of them as remain&lt;/i&gt; [&lt;i&gt;therein&lt;/i&gt;]. (K.) ―         -b2-  Hence, as being likened thereto, (TA,) زِيْبِقٌ and زِيْبَقٌ signify also (tropical:)  A man who is &lt;i&gt;light, inconstant, unsteady, irresolute,&lt;/i&gt; or &lt;i&gt;fickle.&lt;/i&gt; (Ibn- &#39;Abbád, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17322&quot; key=&quot;زِيْبَقِىٌّ&quot; type=&quot;main&quot;&gt;               1[     <br>\
+                     زِيْبَقِىٌّ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Of,&lt;/i&gt; or &lt;i&gt;relating to, quicksilver.&lt;/i&gt; ―         -b2-  And &lt;i&gt;A seller of quicksilver.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17323&quot; key=&quot;دِرْهَمٌ مُزَاْبَقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     دِرْهَمٌ مُزَاْبَقٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Lth, S, Mgh, TA,) said by Th to be correctly مَزَاْبِقٌ, with kesr to the ب, (TA in art. زبق, [but this is app. a mistake,]) or مُزَيْبَقٌ, with fet-h to the ب, (Msb,) &lt;i&gt;A dirhem,&lt;/i&gt; or &lt;i&gt;piece of money, done over with&lt;/i&gt; <br>\
+                  زيبق [i. e. &lt;i&gt;quicksilver&lt;/i&gt;]: (Lth, Mgh, Msb, TA:) the vulgar say مُزَبَّقٌ. (S, Mgh.)   &lt;/entryFree&gt; <br>\
+' } );

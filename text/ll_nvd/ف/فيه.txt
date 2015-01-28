@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'فيه1<br>\
+فَاهَ, aor. يَفِيهُ: see فَاهَ, aor. يَفُوهُ, in art. فوه.<br>\
+' } );

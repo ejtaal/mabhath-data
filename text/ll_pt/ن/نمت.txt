@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نمت</em>            1                  نمت<br>\
+<b>نَمْتٌ</b>               1     <br>\
+                     نَمْتٌ<br>\
+                     ذ<br>\
+                  <i>A certain plant, having a fruit that is eaten.</i> (L, K.) The only explanation given by several lexicographers. (TA.)   </entryFree> <br>\
+' } );

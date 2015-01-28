@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نوحالغُرَابُ النُّوحِىُّ<br>\
+[The Noachian crow;] an appel-lation applied in Egypt to the زاغ (or rook). (TA,<br>\
+art. زيغ.)<br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>عنكب</em>            1                  عنكب<br>\
+<b>عَنْكَبٌ</b>               1     <br>\
+                     عَنْكَبٌ<br>\
+                     ذ<br>\
+                  : see عَنْكَبُوتٌ, in two places.    </entryFree> <br>\
+<b>عَنْكَبَاةٌ</b>               1     <br>\
+                     عَنْكَبَاةٌ<br>\
+                     ذ<br>\
+                   and عَنْكَبَا=ءُ: see the next paragraph.    </entryFree> <br>\
+<b>عَنْكَبُوتٌ</b>               1     <br>\
+                     عَنْكَبُوتٌ<br>\
+                     ذ<br>\
+                  ; (S, O, K;) generally fem., (S, O,) but sometimes masc.; (O, K;) also, fem., عَكْنَبَاةٌ, (S, O, K,) in the dial. of El-Yemen, with the ك put before the ن; (TA;) and ↓ <br>\
+      عَنْكَبَاةٌ and عَنْكَبُوهٌ (so in the O and TA, but in the CK and a MS. copy of the K عَنْكَبُوةٌ); and ↓ <br>\
+      عَنْكَبَاءُ; (O, K;) the last mentioned by Sb as shewing the ت in عنكبوت to be an augmentative letter; but it is doubtful whether this be a sing., or a quasi-pl. n.: (TA:) also, masc., ↓ <br>\
+      عَنْكَبٌ; (IAar, O, K;) fem., عَنْكَبَةٌ: (IAar, K:) or the former of these two words is a coll. gen. n. [and the latter, its n. un.]: (TA:) [The <i>spider;</i>] the <i>thing that weaves;</i> (S, O;) <i>an insect that weaves a delicate web in the air and upon the upper part of a well:</i> (TA:) pl. عَنَاكِبُ (S, O, K) and عَنْكَبُوتَاتٌ (K) and عَنَاكِيبُ (Lh, TA) and عَنَاكبِيتُ, (As, Ktr, TA,) which last is anomalous, in its having four letters together after its ا: dim. ↓ <br>\
+      عُنَيْكِبٌ and ↓ <br>\
+      عُنَيْكِيبٌ and ↓ <br>\
+      عُنَيْكِبِيتٌ; but this last is not approved: (TA:) quasi-pl. nouns عِكَابٌ and عُكُبٌ and اَعْكُبٌ [in the CK اَعْكَبٌ]. (K.) بَيْتُ العنكبوت [<i>The spider&#39;s web</i>] is also called عَكْدَبَةٌ. (Fr, TA.) ―         -b2-  Sá&#39;ideh-Ibn-Ju-eiyeh says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        مَقَتُّ نِسَا=ءً بِالْحِجَازِ صَوَالِحًا<br>\
+                     <L>↓ <br>\
+      وَاـِنَّا مَقَتْنَا كُلَّ سَوْدَا=ءَ عَنْكَبِ<br>\
+                  </quote> [meaning <i>I hated virtuous women in El-Hijáz; and verily we hated every black, short</i> woman: for] here عنكب signifies <i>short:</i> (Skr, L:) or it may be syn. with عَنْكَبُوتٌ, but be used as an epithet, though a subst., because it implies blackness and shortness. (IJ, L.) ―         -b3-  زَهْرُ العَنْكَبُوتِ: see رُتَيْلَا=ءُ. ―         -b4-  عنكبوت also signifies <i>A worm,</i> or <i>maggot, that is engendered in the honeycomb, and spoils the honey.</i> (AHn, L.) ―         -b5-  عنكبوت is mentioned in this art. agreeably with the rule of Sb;  when ن occupies the second place in a word, it is not to be pronounced augmentative without proof: but J and some others consider the ن augmentative, and mention the word in art. عكب. (TA.)    </entryFree> <br>\
+<b>عُنَيْكِبٌ</b>               1     <br>\
+                     عُنَيْكِبٌ<br>\
+                     ذ<br>\
+                   and عُنَيْكِيبٌ and عُنَيْكِبِيتٌ: see the next preceding paragraph.    </entryFree> <br>\
+<b>مُعَنْكَبُ القَرْنِ</b>               1     <br>\
+                     مُعَنْكَبُ القَرْنِ<br>\
+                     ذ<br>\
+                   A he-goat <i>having a horn curved so as to resemble a ring.</i> (Az, TA.)   </entryFree> <br>\
+' } );

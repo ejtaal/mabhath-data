@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>طيع</em>            1                  طيع<br>\
+<b>طَاعَ</b>               1     <br>\
+                     طَاعَ<br>\
+                     ذ<br>\
+                  , aor. يَطِيعُ, inf. n. طَيْعٌ: see 1 in art. طوع.   </entryFree> <br>\
+' } );

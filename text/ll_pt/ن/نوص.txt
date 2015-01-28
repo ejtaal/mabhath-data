@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>نوص</em>            1                  نوص<br>\
+<b>نَاصَ</b>               1     <br>\
+                     نَاصَ<br>\
+                     ذ<br>\
+                  , (M, K,) aor. يَنُوصُ, (M,) inf. n. نَوْصٌ <br>\
+                   and مَنَاصٌ (M, K) and مَنِيصٌ (M) and نَوِيصٌ (K) and نِيَاصٌ, (K, accord. to the TA,) or نِيَاصَةٌ, (accord. to a MS. copy of the K, and accord. to to the CK,) and نَوَصَانٌ, (K,) <i>He put himself in motion:</i> (K:) or <i>he put himself in motion and went away.</i> (M, TA.) You say, مَا يَنُوصُ فُلَانٌ <br>\
+                  لِحَاجَتِى <br>\
+                  <i>Such a one does not put himself in motion for</i> [the accomplishment of] <i>my want.</i> (TA.) And مَا بِهِ نَوِيصٌ <br>\
+                  <i>There is not in him strength</i> (S, M) <i>and motion</i> (or <i>activity</i>], (S, TA.) ―         -b2-  نَاصَ لِلْحَرَكَةِ, inf. n. نَوْصٌ and مَنَاصٌ, <i>He prepared himself for motion.</i> (M, TA.) ―         -b3-  نَاصَ الفَرَسُ, (Lth, M,) inf. n. نَوْصٌ, (Lth, TA,) <i>The horse,</i> having his bridle pulled in, and being put in motion, <i>raised his head;</i> as also ↓ <br>\
+      استناص: (Lth, M:) or ↓ <br>\
+      اـِسْتِنَاصَةٌ signifies a horse&#39;s <i>putting himself in motion to run.</i> (K.) ―         -b4-  نَاصَ اـِلَيْهِ, (K,) inf. n. نَوْصٌ, (TA,) <i>He rose to him.</i> (K.) ―         -b5-  نَاصَ, aor. يَنُوصُ, inf. n. نَوْصٌ, <i>He turned aside,</i> or <i>away:</i> (M, TA:) <i>he drew back, receded, retreated,</i> or <i>retired;</i> (S, K *;) as also ↓ <br>\
+      استناص: (S:) <i>he fled;</i> or <i>turned away and fled:</i> (TA:) <i>he escaped, and outwent:</i> (Msb:) and, inf. n. مَنِيصٌ and مَنَاصٌ, <i>he escaped;</i> or <i>became safe,</i> or <i>secure:</i> (M:) and accord. to IB, نُوصٌ, with, damm, [app. as an inf. n.,] also signifies the act of <i>fleeing.</i> (TA.) You say, نَاصَ عَنِ الاَمْرِ <br>\
+                  <i>He turned aside,</i> or <i>away, from the thing,</i> or <i>affair; he declined from it; he avoided it;</i> as also لَاصَ. (Aboo-Turáb, TA.) And نَاصَ عَنْهُ, inf. n. نَوْصٌ, <i>He removed, withdrew,</i> or <i>retired to a distance, and separated himself, from him,</i> or <i>it.</i> (Ibn-&#39;Abbád, K.) And نَاصَ عَنْ قِرْنِهِ, (S, A,) aor. يَنُوصُ, inf. n. نَوْصٌ and مَنَاصٌ, (S,) <i>He fled,</i> or <i>turned away and fled, from his opponent,</i> or <i>adversary,</i> (S, A,) <i>and eluded him,</i> (S,) or <i>removed, withdrew,</i> or <i>retired to a distance, from him.</i> (A) And it is said in the Kur, [xxxviii. 2,] وَلَاتَ <br>\
+                  حِينَ مَنَاصٍ, meaning, <i>When it was not a time of fleeing:</i> (Az, TA:) or <i>when it was not a time of drawing back and fleeing:</i> (S, TA:) or <i>when it was not a time of seeking,</i> or <i>petitioning, and of being aided,</i> or <i>succoured.</i> (M, TA.)    </entryFree> <br>\
+                     نَاْوَصَ<br>\
+                   see جُرَّةٌ.    </entryFree> <br>\
+                     اـِسْتَنْوَصَ<br>\
+                   see 1, in three places.    </entryFree> <br>\
+<b>نَوْصٌ</b>               1     <br>\
+                     نَوْصٌ<br>\
+                     ذ<br>\
+                  <i>A wild ass;</i> (S, M, K;) because he ceases not to raise his head, going to and fro, like one running away at random. (Lth, K. *)    </entryFree> <br>\
+<b>نَايِصٌ</b>               1     <br>\
+                     نَايِصٌ<br>\
+                     ذ<br>\
+                  <i>Raising his head, and running away at random:</i> (M:) or a wild ass <i>raising his head, and going to and fro, like one running away at random:</i> (Lth, K *:) and ↓ <br>\
+      مَنِيصٌ a horse <i>raising his head.</i> (TA.)    </entryFree> <br>\
+<b>مَنَاصٌ</b>               1     <br>\
+                     مَنَاصٌ<br>\
+                     ذ<br>\
+                  <i>A place to which one has recourse for refuge, protection, preservation,</i> or <i>concealment: a place of refuge:</i> (S, Msb, K:) <i>a place to which one flees;</i> (S;) <i>a place of safety</i> or <i>security.</i> (A.)       -A2-  See also 1, throughout.    </entryFree> <br>\
+<b>مَنِيصٌ</b>               1     <br>\
+                     مَنِيصٌ<br>\
+                     ذ<br>\
+                  : see نَايِصٌ.   </entryFree> <br>\
+' } );

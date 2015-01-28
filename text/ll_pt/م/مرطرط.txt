@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>مرطرط</em>            1                  مرطرط<br>\
+<b>مِرِطْرَاطٌ</b>               1     <br>\
+                     مِرِطْرَاطٌ<br>\
+                     ذ<br>\
+                   [<i>A sweet food:</i>] <i>i. q.</i> <br>\
+                  فَالُوذٌ; as also سِرِطْرَاطٌ. (TA in art. زع.)   </entryFree> <br>\
+' } );

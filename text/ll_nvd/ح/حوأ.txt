@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'حوأحَآءٌ The name of the letter ح, q. v.; as also<br>\
+حَا: (S and K and TA in باب الالف اللّينة:)<br>\
+it is called حا in a case of pause, and حَآءٌ when<br>\
+made a noun: and when it is not called a letter,<br>\
+[i. e. when one does not prefix to it the word<br>\
+حَرْف,] it is [properly] fem.: its dim. is حُيَيَّةٌ,<br>\
+meaning a ح written small, or indistinct: (Lth,<br>\
+TA ubi suprà:) and its pl. is أَحْوَآءٌ and أَحْيَآءٌ<br>\
+and حَاآتٌ. (TA ubi suprà.)<br>\
+حَائِىٌّ and حَاوِىٌّ and حَوِىٌّ [a mistranscription<br>\
+for حَيَوِىٌّ, like بَيَوِىٌّ and تَيَوِىٌّ,] rel. ns. of حَآءٌ<br>\
+and حَا the names of the letter ح. (B, TA ubi<br>\
+suprà.)<br>\
+' } );

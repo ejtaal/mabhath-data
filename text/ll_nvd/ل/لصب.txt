@@ -1,0 +1,45 @@
+load_data( { book: 'll_nvd', text: 'لصب1<br>\
+لَصِبَ السَّيْفُ فِى الغِمْدِ, aor.<br>\
+لَصَبَ, (inf. n. لَصْبٌ,<br>\
+as in a copy of the S, perhaps a mistake for<br>\
+لَصَبٌ,) The sword stuck in the scabbard, (S, K,)<br>\
+and would not come forth. (S.) See also لَسِبَ<br>\
+and لَزَبَ. ―<br>\
+-b2-  لَصِبَ الجِلْدُ بِاللَّحْمِ (K) or simply<br>\
+لصب الجلد, (S,) The skin stuck to the flesh, by<br>\
+reason of emaciation. (S, K.) ―<br>\
+-b3-  لَصِبَ الخَاتَمُ<br>\
+فِى الإِصْبَعِ The ring stuck fast upon the finger:<br>\
+contr. of قَلِقَ. (S, K.)<br>\
+8<br>\
+التصب It became narrow. (TA.)<br>\
+لِصْبٌ A small ravine, or gap, (شِعْبٌ صَغِيرٌ,)<br>\
+in a mountain, (S, K,) narrower than a لِهْب,<br>\
+and wider than a شِعْب: (K:) or a cleft (شَقٌّ)<br>\
+in a mountain, narrower than a لهب, and wider<br>\
+than a شعب: (Es-Sukkaree:) or the narrow<br>\
+part of a valley: (K:) and any narrow place<br>\
+in a mountain: (S:) pl. لِصَابٌ and لُصُوبٌ. (K.)<br>\
+[In two copies of the S, these two pls., app. by<br>\
+the careless omission of the word الجَمْعُ, are<br>\
+made syn. with لِصْبٌ in the last of the senses<br>\
+explained above.]<br>\
+لَصِبٌ Skin sticking to the flesh, by reason of<br>\
+emaciation. (TA.) ―<br>\
+-b2-  A species of [the kind of<br>\
+barley called] سُلْت, (K,) difficult to clear [from<br>\
+the husks]: some of it is trodden, and the rest<br>\
+requires [machines, such as are called] مَنَاجِينُ<br>\
+[pl. of مَنْجَنُونٌ]. (TA.) ―<br>\
+-b3-  Avaricious, tenacious<br>\
+or niggardly, and of difficult disposition. (K.)<br>\
+―<br>\
+-b4-  فُلَانٌ لَحِزٌ لَصِبٌ Such a one [is a niggard,<br>\
+who] hardly gives anything. (S)<br>\
+لَوَاصِبُ [pl.], (in the poetry of Kutheiyir, S,)<br>\
+Narrow and deep wells. (S, K.)<br>\
+مِلْصَابٌ A sword that sticks much in the<br>\
+scabbard; (K;) scarcely coming out from it.<br>\
+(TA.)<br>\
+مُلْتَصِبٌ A narrow road. (K)<br>\
+' } );

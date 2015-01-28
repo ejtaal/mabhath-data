@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>حذفر</em>            1                  حذفر<br>\
+<b>حِذْفَارٌ</b>               1     <br>\
+                     حِذْفَارٌ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      حُذْفُورٌ (K) <i>A side;</i> or <i>a lateral,</i> or <i>an adjacent, part;</i> (S, K, TA;) of a thing: and the <i>upper,</i> or <i>uppermost, part</i> of a thing: (S:) pl. حَذَافِيرُ. (S, K.) You say, اَخَذَهُ ↓ <br>\
+      بِحُذْفُورِهِ and بِحِذْفَارِهِ and بِحَذَافِيرِهِ <br>\
+                  <i>He took it altogether:</i> (K, TA:) or <i>with its lateral parts:</i> or <i>with its higher,</i> or <i>highest, parts.</i> (TA.) And اَعْطَاهُ الدُّنْيَا بِحَذَافِيرِهَا <br>\
+                  <i>He gave him the world,</i> or <i>worldly goods, altogether:</i> (S, TA:) or <i>with the lateral parts thereof:</i> or <i>with the higher,</i> or <i>highest, parts thereof.</i> (TA.) And جَاوُوا بِحَذَافِيرِهِمْ <br>\
+                  <i>They came altogether.</i> (TA.)    </entryFree> <br>\
+<b>حُذْفُورٌ</b>               1     <br>\
+                     حُذْفُورٌ<br>\
+                     ذ<br>\
+                  : see above, in two places. ―         -b2-  Also <i>A numerous congregation</i> or <i>assemblage.</i> (K.) ―         -b3-  And <i>An eminent, an elevated,</i> or <i>a noble, man:</i> (K, TA:) pl. as above. (TA.) ―         -b4-  And the pl., (as some say, TA,) <i>Persons prepared for war.</i> (K.) Whence the phrase, اُشْدُدْ حَذَا فِيرَكَ <br>\
+                  <i>Prepare thyself</i> (K, TA) <i>for war, &amp;amp;c.</i> (TA.)   </entryFree> <br>\
+' } );

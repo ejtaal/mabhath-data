@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'مأقمَأْقٌ<br>\
+and مُؤْقٌ and مَأْقٍ: see مَأوًى.<br>\
+مَأَقَةٌ<br>\
+A sobbing; i. e. an affection like what is<br>\
+termed<br>\
+فُوَاق, as though it were breath heaved<br>\
+from the chest, on an occasion of weeping, and<br>\
+of being choked with weeping. (S, K.)<br>\
+' } );

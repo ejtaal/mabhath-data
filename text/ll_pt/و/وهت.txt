@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>وهت</em>            1                  وهت<br>\
+<b>وَهَتَهُ</b>               1     <br>\
+                     وَهَتَهُ<br>\
+                     ذ<br>\
+                  , aor. يَهِتُ, inf. n. وَهْتٌ, <i>He trod,</i> or <i>stamped upon it vehemently.</i> (L.) ―         -b2-  <i>He pressed, compressed,</i> or <i>pressed against, him;</i> or <i>it;</i> syn. ضَغَطَهُ. (L, K.)    </entryFree> <br>\
+<b>اوهت</b>               1     <br>\
+                     اوهت<br>\
+                     ذ<br>\
+                  <i>It</i> (flesh-meat) <i>became stinking:</i> (S, K:) dial. form of ايهت. (TA.)    </entryFree> <br>\
+<b>وَهْتَةٌ</b>               1     <br>\
+                     وَهْتَةٌ<br>\
+                     ذ<br>\
+                  <i>A depressed,</i> or <i>low, piece of ground:</i> (K:) pl. [or rather coll. gen. n. of which it is the n. un.] وَهْتٌ. (TA.)    <br>\
+' } );

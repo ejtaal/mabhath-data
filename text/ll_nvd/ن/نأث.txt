@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'نأث1<br>\
+نَأَثَ عَنْهُ<br>\
+, aor.<br>\
+نَاَ^َ<br>\
+, (inf. n. نَأْثْ, TA,) He<br>\
+became distant, or far removed, from him, or<br>\
+it. (K.) ―<br>\
+-b2-  نَأَثَ, aor.<br>\
+نَاَ^َ<br>\
+, inf. n. نَأْثٌ<br>\
+He was<br>\
+slow, or tardy. (TA.) ―<br>\
+-b3-  Also, inf. n. نَأْثٌ and<br>\
+مَنْأَثٌ, He walked, or went, syn. سَعَى, (K,) at a<br>\
+slow pace. (TA.)<br>\
+4<br>\
+انأثهُ<br>\
+, inf. n. إِنْآثٌ, He removed him, or it,<br>\
+far off; put him, or it, at a distance. (TA.)<br>\
+سَيْرٌ مَنْأثٌ<br>\
+[so accord. to a marginal note in the<br>\
+L, in the handwriting of SM] A slow pace, or<br>\
+going, or journeying. (TA.)<br>\
+' } );

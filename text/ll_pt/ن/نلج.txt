@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>نلج</em>            1                  نلج<br>\
+<b>نِيلَجٌ</b>               1     <br>\
+                     نِيلَجٌ<br>\
+                     ذ<br>\
+                   and نِيلَنْجٌ <br>\
+                  <i>Indigo-pigment:</i> see نُوُورٌ, art. نور.   </entryFree> <br>\
+' } );

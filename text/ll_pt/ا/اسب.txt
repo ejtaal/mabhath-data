@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>اسب</em>            1                  اسب<br>\
+<b>ا=سبت الاَرْضُ</b>               1     <br>\
+                     ا=سبت الاَرْضُ<br>\
+                     ذ<br>\
+                  <i>The land produced</i> [<i>herbage such as is termed</i>] عُشْب; syn. اَعْشَبَت. (K.)    </entryFree> <br>\
+<b>اـِسْبٌ</b>               1     <br>\
+                     اـِسْبٌ<br>\
+                     اسب<br>\
+                     اسب<br>\
+                     ساب<br>\
+                     سب<br>\
+                     سبى<br>\
+                   The <i>hair of the pubes:</i> (M, K:) or <i>of the pudendum:</i> (Th, M, K:) or <i>of the podex:</i> (S, K:) it may be, (S,) or is said to be, (M,) from وِسْبٌ, (S, M,) which signifies “ herbage, ” or “ plants, ” (S,) or “ abundance of herbage: ” (M:) the و being changed into ء, as in the case of اـِرْتق and وِرْثٌ: (S:) pl. اُسُوبٌ, and, accord. to IJ, ا=سَابٌ. (M.)    </entryFree> <br>\
+<b>مُوَسَّبٌ</b>               1     <br>\
+                     مُوَسَّبٌ<br>\
+                     ذ<br>\
+                   A ram <i>having much wool.</i> (M, K.)   </entryFree> <br>\
+' } );

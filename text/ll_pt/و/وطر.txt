@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>وطر</em>            1                  وطر<br>\
+<b>وَطَرٌ</b>               1     <br>\
+                     وَطَرٌ<br>\
+                     ذ<br>\
+                  <i>A want; an object of want</i> or <i>need:</i> (Zj, S, A, Msb, K:) or one <i>which one purposes to accomplish:</i> (Lth:) or <i>for which one is anxious,</i> (A, K,) or <i>desirous:</i> (Msb:) pl. اَوْطَارٌ. (S, A, Msb, K.) It has no verb. (Kh, S, Msb.) You say, قَضَيْتُ وَطَرِى <br>\
+                  <i>I accomplished,</i> or <i>obtained, my want,</i> &amp;amp;c. (A, Msb, K.) And قَضَيْتُ مِنْ <br>\
+                  كَذَا وَطَرِى <br>\
+                  <i>I accomplished my want of such a thing</i> [so as to have no further need of it: see Kur, xxxiii. 37, in two places]. (Lth.)   </entryFree> <br>\
+' } );

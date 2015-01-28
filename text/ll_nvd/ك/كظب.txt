@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كظب1<br>\
+كَظَبَ, aor.<br>\
+كَظُبَ, inf. n. كُظُوبٌ, He became<br>\
+full of fat: (IAar, K:) like حَظَبَ. (TA.)<br>\
+' } );

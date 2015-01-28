@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اَمَتْ&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اَمَتْ<br>\
+&lt;entryFree id=&quot;n1284&quot; key=&quot;ا=مَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ا=مَتْ<br>\
+                     ا=مت<br>\
+                  &lt;/form&gt;, (S, * M, K, [in the CK, erroneously, ا=مَتْ,]) second pers. اَمَوْتِ; (S;) and اَمِيَتْ, (M, K,) like سَمِعَتْ; (K;) and اَمُوَتْ, (Lh, M, K,) like كَرُمَتٌ; (K;) inf. n. اُمُوَّةٌ; (S, M, K;) &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;became a slave;&lt;/i&gt; (S, * M, K;) as also ↓ <br>\
+      تَاَمَّتْ. (Msb.)       -A2-  اَمَتِ السِّنَّوْرُ, aor. تَاْمُو, inf. n. اُمَا=ءٌ, &lt;i&gt;The cat&lt;/i&gt; [&lt;i&gt;mewed,&lt;/i&gt; or] &lt;i&gt;uttered a cry;&lt;/i&gt; (S, K;) like مَا=ءَ تْ, aor. تَمُوْءُ, inf. n. مُوَا=ءٌ. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1285&quot; key=&quot;اَمَّاهَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَمَّاهَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. تَاْمِيَةٌ, (K,) &lt;i&gt;He made her a slave.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1286&quot; key=&quot;تَاَمَّتُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَمَّتُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1.       -A2-  تامّى اَمَةً <br>\
+                  &lt;i&gt;He took for himself a female slave;&lt;/i&gt; (S, M, Msb, K;) as also ↓ <br>\
+      اِسْتَاْمَاهَا. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1287&quot; key=&quot;هُوَيَاْتَمِى بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     هُوَيَاْتَمِى بِهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He follows his&lt;/i&gt; (another person&#39;s) &lt;i&gt;example; imitates him; i. q.&lt;/i&gt; <br>\
+                  يَاْتَمُّ بِهِ (TA in the present art.) And ايتمى بِالشَّىْءِ [written with the disjunctive alif اِيتَمَى] is used for ايتَمَّ بِهِ [&lt;i&gt;He made the thing to be a rule of life&lt;/i&gt; or &lt;i&gt;conduct&lt;/i&gt;], by substitution [of ى for م], (M and K in art. ام,) the doubling [of the م] being disapproved. (M in that art.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَاَََْ<br>\
+                  &lt;/form&gt; see 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1288&quot; key=&quot;اَمَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, originally اموة, (Msb,) [but whether اَمَوَةٌ or اَمْوَةٌ is disputed, as will be seen in what follows,] &lt;i&gt;A female slave;&lt;/i&gt; (M, K;) &lt;i&gt;a woman whose condition is that of slavery;&lt;/i&gt; (T;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  حُرَّةٌ: (S:) [in relation to God, best rendered &lt;i&gt;a handmaid:&lt;/i&gt;] dual اَمَتَانِ: (Msb:) pl. ا=مٍ, (Lth, T, S, M, Msb, K, &amp;amp;c.,) like قِاضٍ, (Msb,) a pl. of pauc. [respecting which see what follows after the other pls.], (Lth, T,) and اـِمَا=ءٌ [the most common form] (T, S, M, Mgh, Msb, K) and اـِمْوَانٌ (T, S, M, Msb, K) and اُمْوَانٌ (K, and so in some copies of the M) and اَمْوَانٌ (K, and so in some copies of the M) [the last, or last but one, accord. to different copies of the M, on the authority of Lh,] and اَمَوَاتٌ, (M, Msb, K,) for which one may say اَمَاتٌ. (Ibn-Keysán, TA.) Accord. to Sb (M) and Mbr (TA) it is originally اَمَوَةٌ, (S, M, K,) because it has for a pl. ا=مٍ, (S, M,) which is [originally اَاْمُوٌ,] of the measure اَفْعُلٌ, (Lth, T, S,) like ا=كُمٌ, pl. of اَكَمَةٌ, (Sb, M,) and like اَيْنُقٌ, [pl. of نَاقةٌ, which is originally نَوَقةٌ,] for a sing. of the measure فَعْلَةٌ has not a pl. of this form; (S;) and Mbr says that there is no noun of two letters but a letter has been dropped from it, which it indicates by its pl. or dual, or by a verb if it is derived therefrom: (TA:) or it is originally فَعْلَةٌ: (AHeyth, T, K:) AHeyth says that they suppressed its final radical letter, and, forming a pl. from it after the manner of نَخْلَةٌ and نَخْلٌ, instead of saying اَمٌ, which they disliked as being of only two letters, they transposed the suppressed و, changing it into ا, and placing it between the ا and م. (T: [in which this opinion, though it does not account for the termination of the pl. ا=مٍ, is said to be preferable.]) One says, جَا=ءَ تْنِىً اَمَةُ اللّٰهِ [&lt;i&gt;The handmaid of God came to me&lt;/i&gt;]: and in the dual, جَا=ءَ تْنِى امَتَا اللّٰهِ: and in the pl., جَا=ءَ نِى اـِمَا=ءُ اللّٰهِ and اـِمْوَانُ اللّٰهِ and اَمَوَاتُ اللّٰهِ; and one may also say, اَمَاتُ اللّٰه. (Ibn-Keysán, TA.) [ISd says,] وَمَاهُ اللّٰهُ مِنْ كُلِّ <br>\
+                  اَمَةٍ بحَجَرٍ is mentioned by IAar as said in imprecating evil on a man; but I think it is من كلّ <br>\
+                  اَمْتِ [&lt;i&gt;May God cast a stone at him from every elevated place,&lt;/i&gt; or the like]. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1289&quot; key=&quot;اَمَوِىُّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَوِىُّ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Of,&lt;/i&gt; or &lt;i&gt;relating&lt;/i&gt; or &lt;i&gt;belonging to, a female slave.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1290&quot; key=&quot;اُمَيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُمَيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; dim. of اَمَةٌ; (S, Msb;) originally اُمَيْوَةٌ. (Msb.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>سندس</em>            1                  سندس<br>\
+<b>سُنْدُسٌ</b>               1     <br>\
+                     سُنْدُسٌ<br>\
+                     ذ<br>\
+                  <i>Thin,</i> or <i>fine,</i> <br>\
+                  دِيبَاج [or <i>silk brocade</i>]: (Th, M, Bd and Jel in xviii. 30, Jel in xliv. 53, Msb, K, TA:) or <i>thin,</i> or <i>fine,</i> <br>\
+                  حَرِير [q. v.]: (Bd in xliv.:) opposed to اـِسْتَبْرَقٌ: (TA:) or <i>i. q.</i> <br>\
+                  بِزْيَوْنٌ [expl. by IB as meaning <i>thin,</i> or <i>fine,</i> <br>\
+                  ديباج: so in the TA in art. بزن]: (S:) or <i>a kind of</i> <br>\
+                  بزيون; (Lth, K, TA;) <i>made of</i> [<i>the kind of down called</i>] مِرْعِزَّى: (Lth, TA:) or <i>a kind of</i> <br>\
+                  بُرُود [pl. of بُرْدٌ, q. v.]: (M, K:) [accord. to Golius, <i>præstans et subtile panni serici genus;</i> as on the authority of Ibn-Maaroof: and <i>Attalicus pannus, aurum argentumve intextum habens;</i> as on the authority of J, who, however, explains it only by the word بِزْيَوْنٌ: it is mentioned in the S and Msb in art. سدس; and in the latter, is said to be of the measure فُنْعُلٌ; but accord. to the K, the ن is a radical letter:] it is [said to be] an arabicized word, without contradiction, (Lth, K,) as well as اـِسْتَبْرَقٌ: (Lth:) but both these words occur in the Kur-án, and Esh-Sháfi&#39;ee and others deny that any arabicized word occurs therein: [though they are opposed by Bd (xvii. 37) and others:] some say that they are instances of the agreement of different languages. (MF.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'خمع1<br>\
+خَمَعَ, (Lth, S, K,) aor.<br>\
+خَمَعَ, inf. n. خَمْعٌ (Lth,<br>\
+IDrd, K) and خُمُوعٌ (Lth, K) and خَمَعَانٌ, (Az,<br>\
+K,) said of a hyena, (K,) &amp;c., (TA,) He limped,<br>\
+or had a slight lameness, (IDrd, S,) in his gait,<br>\
+or manner of going; (S;) he went as though he<br>\
+had a lameness. (K, TA.)<br>\
+خِمْعٌ A wolf: (S, K:) pl. أَخْمَاعٌ. (TA.) ―<br>\
+-b2-<br>\
+And hence, (TA,) (assumed tropical:)  A thief. (S, K.)<br>\
+خُمَاعٌ A limping, or slight lameness (IDrd,<br>\
+S;) a manner of going as though with a lameness; a subst. from the above-mentioned verb.<br>\
+(K.) You say, بِهِ خُمَاعٌ [He has a limping,<br>\
+&amp;c.]. (S.)<br>\
+خَمُوعٌ, applied to a woman, Vitious, or immoral; an adulteress, or a fornicatress; as also<br>\
+↓ خَيْمَعٌ. (Ibn-&#39;Abbád, K.)<br>\
+خَامِعٌ [Limping, or having a slight lameness;]<br>\
+going as though having a lameness. (TA.) ―<br>\
+-b2-<br>\
+And hence, (TA,) خَامِعَةٌ A hyena, or a female<br>\
+hyena: (S, K:) pl. خَوَامِعُ. (K.)<br>\
+خَيْمَعٌ: see خَمُوعٌ.<br>\
+' } );

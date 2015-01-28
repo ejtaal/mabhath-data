@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>برهن</em>            1                  برهن<br>\
+<b>بَرْهَنَ</b>               1Q., or, as some say, Q. Q., 1.      <br>\
+                     <i>Q. 1</i>        <br>\
+                     بَرْهَنَ<br>\
+                     بر<br>\
+                     برهن<br>\
+                     برهنن<br>\
+                     رهن<br>\
+                  <i>He adduced,</i> (T, Z, Msb,) or <i>established,</i> (S, K, and Ham p. 7,) <i>the</i> <br>\
+                  بُرْهَان, (T, Z, Msb, K,) i. e. the <i>evidence</i> or <i>proof</i> [&amp;amp;c.]; (T, S, Msb, &amp;amp;c.;) or <i>he adduced his evidence</i> or <i>proof</i> [&amp;amp;c.]; (T, Msb;) عَلَيْهِ [<i>against him,</i> or <i>it,</i> or (as in اِسْتَدَلَّ عَلَيْهِ) <i>of it</i>], (S, K, and Ham p. 7,) and لَهُ [<i>to him,</i> or <i>for him</i>]: (Ham ubi suprà:) but this verb is said by Az and Z, on the authority of IAar, to be post-classical; the correct word, they say, being اَبْرَهَ: (Msb:) this they assert on the ground of the opinion that بُرْهَانٌ [q. v.] is of the measure فُعْلَانٌ; but J holds the ن to be a radical. (TA.)    </entryFree> <br>\
+<b>بُرْهَانٌ</b>               1     <br>\
+                     بُرْهَانٌ<br>\
+                     برهان<br>\
+                     رهان<br>\
+                  <i>An evidence,</i> or a <i>proof:</i> (T, S, Msb, K, and Ham p. 7:) and a <i>demonstration;</i> i. e. the <i>manifestation of an evidence</i> or <i>proof:</i> (Msb:) or <i>a decisive and manifest evidence</i> or <i>proof:</i> (TA:) or the <i>firmest, strongest,</i> or <i>most valid, evidence</i> or <i>proof;</i> which is <i>such as ever necessarily implies truth,</i> or <i>veracity, as its consequence,</i> or <i>concomitant;</i> for evidences, or proofs, are of five sorts; whereof this is one; another is that which ever necessarily implies falsity, or falsehood, as its consequence, or concomitant; another, that which is nearer to truth, or veracity; another, that which is nearer to falsity, or falsehood; and another, that which is intermediate between these two: (Er-Rághib, TA:) [pl. بَرَاهِينُ:] some say that the ن in this word is augmentative; (Msb, and Ham p. 7;) that it is of the measure فُعْلَانٌ, from البره [app. البَرْهُ] signifying the “act of cutting:” (Ham ubi suprà:) others, that it is radical: Az mentions both of these opinions: J confines  himself to the latter opinion: Z, to the former, saying, on the authority of IAar, that the word is derived from بَرَهْرَهَةٌ, meaning “white,” [or “fair in complexion,”] applied to a girl: (Msb:) Abu-l-Fet-h [i. e. IJ] says that he holds it to be of the measure فُعْلَالٌ, like قُرْطَاسٌ and قُرْنَاسٌ, the ن not being augmentative, as is shown by the verb above mentioned: (Ham ubi suprà:) but [it has been stated above that] this verb is said, on the authority of IAar, to be post-classical. (Msb, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'لصق3<br>\
+لَاصَقَهُ He associated with him.<br>\
+لَصِيقٌ An associate; an adherent.<br>\
+مُلْصَقٌ i. q. دَعِىٌّ (TA;) as also ↓ مُلَصَّقٌ (TA in<br>\
+art. لسق) and مُلَسَّقٌ: (K, and TA in that art.:)<br>\
+or [a consociated alien;] one residing among a<br>\
+tribe of which he is not a member by lineage.<br>\
+(TA.)<br>\
+مُلَصَّقٌ: see مُلْصَقٌ.<br>\
+' } );

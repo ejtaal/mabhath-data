@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>شرسف</em>            1                  شرسف<br>\
+<b>شَرْسَفَةٌ</b>               1     <br>\
+                     شَرْسَفَةٌ<br>\
+                     ذ<br>\
+                  <i>Badness of natural disposition; illnature.</i> (Ibn-&#39;Abbád, O, K.)    </entryFree> <br>\
+<b>شُرْسُوفٌ</b>               1     <br>\
+                     شُرْسُوفٌ<br>\
+                     ذ<br>\
+                   The غُضْرُوف [or <i>cartilage</i>] <i>attached to each rib;</i> (S, O, K;) <i>like the</i> <br>\
+                  غُضْرُوف <br>\
+                  <i>of the scapula:</i> (S, O:) or the <i>extremity of the rib, projecting over the belly:</i> (S, O, K:) or the <i>head of the rib, next the belly:</i> (IAar, O:) or <i>a rib having a</i> <br>\
+                  غُضْرُوف [or <i>cartilage</i>] <i>at its extremity:</i> (ISd, TA:) pl. شَرَاسِيفُ. (S, O.)       -A2-  A camel <i>shackled.</i> (IAar, O, K.) ―         -b2-  And A camel <i>hocked,</i> or <i>hamstrung, in one of his legs.</i> (IAar, O, K.) ―         -b3-  And A captive <i>having his arms bound behind his back.</i> (IAar, O.)       -A3-  <i>Calamity,</i> or <i>misfortune:</i> and the <i>commencement of hardship.</i> (K.) One says, اَصَابَتِ النَّاسَ الشَّرَاسِيفُ <br>\
+                  <i>The commencements of hardships befell the people.</i> (IF, O.)    </entryFree> <br>\
+<b>شَاةٌ مُشَرْسَفَةٌ</b>               1     <br>\
+                     شَاةٌ مُشَرْسَفَةٌ<br>\
+                     ذ<br>\
+                  <i>A sheep,</i> or <i>goat, having in its sides a whiteness covering the</i> <br>\
+                  شَرَاسِيف [pl. of شُرْسُوفٌ, q. v.,] (Lth, O, K) <i>and the</i> <br>\
+                  شَوَاكِل [pl. of شَاكِلَةٌ, q. v.]. (Lth, O.)   </entryFree> <br>\
+' } );

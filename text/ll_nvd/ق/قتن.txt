@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قتن1<br>\
+قَتُنَ<br>\
+: see قَنُتَ.<br>\
+قَتِينٌ<br>\
+: see قَنِيتٌ.<br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كوتكُوتِىٌّ Short: (K:) or a short and deformed<br>\
+or ill-shapen man. (So in a marginal note in<br>\
+two copies of the S.)<br>\
+' } );

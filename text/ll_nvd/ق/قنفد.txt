@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'قنفدقُنْفُدٌ i. q. قُنْفُذٌ. (Ktr, Kr, K.)<br>\
+قنفذ, or, accord. to some, قفذ<br>\
+قُنْفُذٌ and قُنْفَذٌ [The male hedge-hog;] (S, L,<br>\
+Msb, K;) i. q. شَيْهَمٌ: (M, L, K:) or the male and<br>\
+female: (Msb:) or the fem. is with ة, (S, L,<br>\
+Msb, K,) sometimes; and the male is called<br>\
+شَيْهَمٌ and دُلْدُلٌ: (Msb:) pl. قَنَافِذُ. (S.) Some<br>\
+hold that the ن is an augmentative letter:<br>\
+others, that it is a radical. (TA.)<br>\
+' } );

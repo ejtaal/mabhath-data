@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كنفث</em>            1                  كنفث<br>\
+<b>كُنْفُثٌ</b>               1     <br>\
+                     كُنْفُثٌ<br>\
+                     ذ<br>\
+                   and كُنَافِثٌ <br>\
+                  <i>Short.</i> (K.)   </entryFree> <br>\
+            <div2 n=&quot;knh knY kh&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كنه كنى كه<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>قهق</em>            1                  قهق<br>\
+<b>قَهْقَهَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     قَهْقَهَ<br>\
+                     ذ<br>\
+                  <i>He uttered a reiterated</i> (K, TA) <i>and prolonged,</i> (TA,) or <i>a vehement, laughter:</i> (K:) or <i>he laughed, reiterating the sound of</i> <br>\
+                  قَهْ. (S, Msb, K.)    </entryFree> <br>\
+<b>قَهْقَاهٌ</b>               1     <br>\
+                     قَهْقَاهٌ<br>\
+                     ذ<br>\
+                  : see حَقْحَاقٌ.   </entryFree> <br>\
+' } );

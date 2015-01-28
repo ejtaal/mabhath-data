@@ -1,0 +1,73 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اثف&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اثف<br>\
+&lt;entryFree id=&quot;n214&quot; key=&quot;اَثَفَ القِدْرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَثَفَ القِدْرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 2.       -A2-  اَثَفَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثِفَ<br>\
+                  &lt;/form&gt;, (T, S, M, K,) inf. n. اَثْفٌ, (T, M,) &lt;i&gt;He followed him.&lt;/i&gt; (Ks, T, S, M, K.) ―         -b2-  &lt;i&gt;He drove away,&lt;/i&gt; or &lt;i&gt;drove away and pursued closely,&lt;/i&gt; or &lt;i&gt;hunted, him;&lt;/i&gt; syn. طَرَدَهُ. (Ibn-&#39;Abbád, K.) ―         -b3-  &lt;i&gt;He sought,&lt;/i&gt; or &lt;i&gt;sought after,&lt;/i&gt; or &lt;i&gt;pursued after, him,&lt;/i&gt; or &lt;i&gt;it:&lt;/i&gt; in which sense the aor. is اثّف القِدٌرَ, (AA, K) and تَاْثِيفٌalso. (So in some copies of the K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n215&quot; key=&quot;اثّف القِدْرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اثّف القِدْرَ<br>\
+                     اثف القدر<br>\
+                  &lt;/form&gt;, (T, S, M, K,) inf. n. تَاْثِيفٌ, (S, K,) &lt;i&gt;He put the cooking-pot upon the&lt;/i&gt; <br>\
+                  اَثَافِى[pl. of اُثْفِيَّةٌ, q. v.]; (T,* S, M,* K;) as also ↓ <br>\
+      اَثَفَهَا, (M, TA,) inf. n. اَثْفٌ; (TA;) or ↓ <br>\
+      ا=ثَفَهَا, (so in some copies of the K in art. ثفى,) inf. n. اـِيثَافٌ; (TA in that art.;) the first of which is a dial. var. of ثَفَّاهَا, inf. n. تَثْفِيَةٌ; (S;) and ↓ <br>\
+      اَثْفَاهَا, whence قِدْرٌ مُوَثْفَاةٌ. (M.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=ثَفَ<br>\
+                  &lt;/form&gt; see 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n216&quot; key=&quot;تَاَثًّفَتِ القِدْرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَثًّفَتِ القِدْرُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;The cooking-pot was put upon the&lt;/i&gt; <br>\
+                  اَثَافِى. (TA.)       -A2-  تَاَثَّفُوهُ<br>\
+                  &lt;i&gt;They surrounded him,&lt;/i&gt; or &lt;i&gt;it:&lt;/i&gt; (S, K: *) &lt;i&gt;they became around him,&lt;/i&gt; or &lt;i&gt;it, like the&lt;/i&gt; <br>\
+                  اُثْفِيَّة[or rather &lt;i&gt;like the&lt;/i&gt; <br>\
+                  اَثَافِى]: (M:) &lt;i&gt;they collected themselves together around him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (A, TA.) ―         -b2- تاثّف المَكَانَ, (T, S, K,) or بِالمَكَانِ, (M,) &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;kept to the place;&lt;/i&gt; (T, K;) &lt;i&gt;remained in it;&lt;/i&gt; (M;) &lt;i&gt;did not quit it.&lt;/i&gt; (AZ, T, S, M.) ―         -b3-  تاثّفهُalso signifies &lt;i&gt;He followed after him, and pressed&lt;/i&gt; or &lt;i&gt;importuned him, and ceased not to incite him.&lt;/i&gt; (T, K.) In my opinion, [says Az,] this is not in any way derived from الاُثْفِيَّةُ; but from اَثَفْتُ الرَّجُلَ, meaning “ I followed the man.” (T.) ―         -b4-  And تاثّفوا عَلَى الاَمْرِ<br>\
+                  &lt;i&gt;They aided,&lt;/i&gt; or &lt;i&gt;assisted, one another to do,&lt;/i&gt; or &lt;i&gt;accomplish, the thing,&lt;/i&gt; or &lt;i&gt;affair.&lt;/i&gt; (M, L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n217&quot; key=&quot;اَثْفَى القِدْرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;Q Q&quot;&gt;       <br>\
+                     &lt;itype&gt;Q. Q. 1&lt;/itype&gt;        <br>\
+                     اَثْفَى القِدْرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 2. [But accord. to Az, in the T, يُوَثْفِى, as aor. of اَثْفَى, is يُثْفِىreduced to its original form; and the like is said in the S and M in art. ثفى. If this be the case, مُوَثْفَاةٌ, q. v., may be مُثْفَاةٌreduced in the same manner, i. e., to its original form.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n218&quot; key=&quot;اَثِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثِفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;[probably a mistake for ↓ا=ثِفٌ] &lt;i&gt;Continuing, permanent, constant, firm,&lt;/i&gt; or &lt;i&gt;established:&lt;/i&gt; (K, TA:) so in the Moheet. (TA.) ―         -b2-  Also, (K, and so in a copy of the S,) or ↓ <br>\
+      ا=ثِفٌ, [agreeably with analogy, and therefore more probably the correct form,] (so in other copies of the S and in the T,) &lt;i&gt;Following.&lt;/i&gt; (Ks, T, S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n219&quot; key=&quot;اُثْفِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُثْفِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;and اـِثْفِيَّةٌ[the former of which is the more common, and this only I find in copies of the T,] The &lt;i&gt;stone&lt;/i&gt; [&lt;i&gt;which is one of the three&lt;/i&gt;] &lt;i&gt;whereon the cooking-pot is placed:&lt;/i&gt; (A&#39;Obeyd, M, K:) it is, with the Arabs, &lt;i&gt;a stone like the head of a man:&lt;/i&gt; (T:) the pl. is اَثَافِيُّand اَثَافٍ; (T, S, [in which latter it is written differently in different copies, with the article prefixed, الاَثَافِيُّand الاَثَافِي, but in both manners in art. ثفى,] M, K;) the latter being allowable; (T,) or, accord. to Akh, the latter only is used by the Arabs; (M;) applied to the &lt;i&gt;three stones mentioned above:&lt;/i&gt; (TA in art. سفع; &amp;amp;c.:) upon these the cooking-pot is set up; but what is of iron, having three legs, is not called اثفيّة, but مِنْصَبٌ; (T;) [and this is what is meant by اَثْفِيَّةٌ مِنْ حَدِيدٍin art. سفعin the K;] i. e. an iron trivet upon which a cooking-pot is set up. (TA in art. نصب.) اُثْفيَّةٌmay be of the measure فُعْلُويَةٌ[from اثف], and it may be of the measure اُفْعُولَةٌ[from ثفى; in either case originally اُثْفُويَةٌ]. (A, L.) ثَالِثَةُ الاَثَافِىsignifies &lt;i&gt;The part, not detached, of a mountain; by the side of which, two pieces are put&lt;/i&gt; [&lt;i&gt;for the cookingpot to be set thereon&lt;/i&gt;]. (A&#39;Obeyd, T, K.) And hence the saying, (A&#39;Obeyd, T,) رَمَاهُ اللّٰهُ بثَالِثَةِ, الاَثَافِي(A&#39;Obeyd, T, K) &lt;i&gt;May God smite him with the mountain; meaning, with a calamity;&lt;/i&gt; (Th, TA, K in art. ثفى;) &lt;i&gt;with a calamity like the mountain&lt;/i&gt; [&lt;i&gt;in greatness&lt;/i&gt;]; (Th, M;) for when they do not find the third of the اثافى, they rest the cooking-pot [partly] upon the &lt;i&gt;mountain:&lt;/i&gt; (M, K, in art. ثفى:) or, &lt;i&gt;with difficulties,&lt;/i&gt; or &lt;i&gt;troubles,&lt;/i&gt; or &lt;i&gt;calamities:&lt;/i&gt; (As, T:) or, &lt;i&gt;with all evil;&lt;/i&gt; evils being likened to one اثفيّةafter another, and the third being the last: (T, K:) so says Aboo-Sa&#39;eed: (T:) or, &lt;i&gt;with the last of evil;&lt;/i&gt; and &lt;i&gt;the last of everything hateful:&lt;/i&gt; (AO in Har p. 84:) &lt;i&gt;or, with a great calamity.&lt;/i&gt; (Har ib.) One says also, الاَثَافِى فُلَانٌ ثَالِثَةُ, meaning (tropical:)  &lt;i&gt;Such a one is the heaviest, most burdensome,&lt;/i&gt; or &lt;i&gt;most troublesome, of the people.&lt;/i&gt; (Har ubi suprà.) ―         -b2-  [Hence also,] الاَثَافِىis a name applied to (assumed tropical:)  &lt;i&gt;certain stars&lt;/i&gt; [accord. to Ideler, as mentioned by Freytag in his Lex., &lt;i&gt;the stars&lt;/i&gt; <br>\
+                  &lt;G&gt;σ&lt;/G&gt;<br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  &lt;G&gt;τ&lt;/G&gt;<br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  &lt;G&gt;υ&lt;/G&gt;<br>\
+                  &lt;i&gt;Draconis&lt;/i&gt;] &lt;i&gt;over against the head of the&lt;/i&gt; <br>\
+                  قِدْر; which is the name of certain stars disposed in a round form. (AHát, K.) [Also] a name given by the vulgar to (assumed tropical:)  [&lt;i&gt;The three chief stars in the constellation called&lt;/i&gt;] الشَّلْيَاقُ[i. e. &lt;i&gt;Lyra&lt;/i&gt;]. (Kzw.) ―         -b3-  The sing., (K,) i. e. each of the two forms thereof, but written in the copies of the S with damm [only], (TA in art. ثفى,) or [only] the latter, with kesr, (M, and so in the K in art. ثفى,) also signifies (assumed tropical:)  &lt;i&gt;A number,&lt;/i&gt; (M,) or &lt;i&gt;a great number,&lt;/i&gt; (K, and so in the S in art. ثفى,) and &lt;i&gt;a company,&lt;/i&gt; or &lt;i&gt;congregated body, of men:&lt;/i&gt; (M, K:) pl. as above. (M.) You say, هُمْ عَلَيْهِ <br>\
+                  اُثْفِيَّةٌ وَاحِدَةٌ(assumed tropical:)  [&lt;i&gt;They are against him one band&lt;/i&gt;]. (TA.) And بَقِيَتْ مِنْ بَنِى فُلَانٍ اُثْفِيَّةٌ خَشْنَا=ءُ <br>\
+                  &lt;i&gt;There remained of the sons of such a one a great number.&lt;/i&gt; (S in art. ثفى.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n220&quot; key=&quot;ا=ثفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=ثفٌ<br>\
+                     ا=ثف<br>\
+                  &lt;/form&gt;: see اَثفٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n221&quot; key=&quot;مُوَثَّفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَثَّفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;(assumed tropical:)  &lt;i&gt;Short, broad, plump, and fleshy.&lt;/i&gt; (K.) ―         -b2-  And, with ة, (tropical:)  A woman &lt;i&gt;whose husband has two wives beside her; she being the third of them:&lt;/i&gt; they being likened to the اَثَافِىof the cookingpot. (M.) [See also مُثَفَّاةٌ, in art. ثفى.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n222&quot; key=&quot;قِدْرٌ مُوَثْفَاةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قِدْرٌ مُوَثْفَاةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;A cooking-pot put upon the&lt;/i&gt; <br>\
+                  اَثَافِى <br>\
+                  &lt;pb n=&quot;21&quot; TEIform=&quot;pb&quot;/&gt; [pl. of اُثْفِيَّةٌ, q. v.]. (M, and K in art. ثفى: in some copies of the latter, موْثَفَاةٌ.) [See Q. Q. 1.]   &lt;/entryFree&gt; <br>\
+' } );

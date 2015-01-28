@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هرشب</em>            1                  هرشب<br>\
+<b>هِرْشَبَّةٌ</b>               1     <br>\
+                     هِرْشَبَّةٌ<br>\
+                     ذ<br>\
+                  <i>An old woman far advanced in years:</i> (K:) <i>a worn-out old woman;</i> as also هِرْشَفَّةٌ. (T.)   </entryFree> <br>\
+' } );

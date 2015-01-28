@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>ربت</em>            1                  ربت<br>\
+<b>رَبَتَ</b>               1     <br>\
+                     رَبَتَ<br>\
+                     ذ<br>\
+                  : see 2.       -A2-  رَبِتَ, aor.      <br>\
+                     رَبَتَ<br>\
+                  , (TK,) inf. n. رَبَتٌ, (K,) <i>It</i> (a thing, TK) <i>was,</i> or <i>became, closed;</i> syn. اِسْتَغْلَقَ. (K, TK.)    </entryFree> <br>\
+<b>ربّت</b>               1     <br>\
+                     ربّت<br>\
+                     ذ<br>\
+                  , (T, S, M,) inf. n. تَرْبِيتٌ, (T, S, K,) <i>He fed, nourished, reared,</i> or <i>brought up,</i> (T, S, M, K,) a child; (T, * S, M;) syn. رَبَّى; (T, S, M, K;) as also ↓ <br>\
+      رَبَتَ, (M,) aor.      <br>\
+                     رَبِتَ<br>\
+                  , (TK,) inf. n. رَبْتٌ; (K;) and ↓ <br>\
+      تربّت. (TA, and Ham p. 633.) ―         -b2-  And ربّت, (TK,) inf. n. as above, (K,) <i>He patted</i> a child (K, TA, TK) <i>repeatedly</i> (TA) <i>on the side in order that it might sleep.</i> (K, TA, TK.) [See رَبَّتِ المَرْاَةُ صَبِيَّهَا, in art. رب.]    </entryFree> <br>\
+                     تَرَبَّتَ<br>\
+                   see 2.    </entryFree> <br>\
+<b>رُبَتَ</b>               1     <br>\
+                     رُبَتَ<br>\
+                     ذ<br>\
+                   &amp;amp;c.: see رُبَّ, in art. رب.    </entryFree> <br>\
+<b>رُبَّتَ</b>               1     <br>\
+                     رُبَّتَ<br>\
+                     ذ<br>\
+                   &amp;amp;c.: see رُبَّ, in art. رب.   </entryFree> <br>\
+' } );

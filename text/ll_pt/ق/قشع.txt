@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>قشع</em>            1                  قشع<br>\
+<b>قَشَعَتِ الرِّيحُ السَّحَابَ</b>               1     <br>\
+                     قَشَعَتِ الرِّيحُ السَّحَابَ<br>\
+                     ذ<br>\
+                  <i>The wind removed,</i> or <i>cleared off, the clouds;</i> (S, K;) as also ↓ <br>\
+      اَقْشَعَتْهُ. (K.)    </entryFree> <br>\
+<b>اَقْشَعَ</b>               1     <br>\
+                     اَقْشَعَ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      اِنْقَشَعَ and ↓ <br>\
+      تقشّع <br>\
+                  <i>It</i> (a cloud) <i>became removed,</i> or <i>cleared off.</i> (S, K.) See 1.    </entryFree> <br>\
+                     تَقَشَّعَ<br>\
+                   see 4.    </entryFree> <br>\
+                     اـِنْقَشَعَ<br>\
+                   see 4.   </entryFree> <br>\
+' } );

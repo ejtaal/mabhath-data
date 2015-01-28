@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>جردبيل</em>            1                  جردبيل<br>\
+<b>جَرْدَبِيلٌ</b>               1     <br>\
+                     جَرْدَبِيلٌ<br>\
+                     جردبيل<br>\
+                  : <i>i. q.</i> <br>\
+                  جَرْدَبَانٌ, explained in art. جردب.   </entryFree> <br>\
+            <div2 n=&quot;jrdq and jr*q&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  جردق and جرذق<br>\
+<b>جَرْدَقٌ</b>               1     <br>\
+                     جَرْدَقٌ<br>\
+                     جردق<br>\
+                   and جَرْذَقٌ, (T, JK, TA,) or جَرْدَقَةٌ (S, K) and جَرْذَقَةٌ, (IAar, K,) the last asserted by IAar to have been heard by him from a man of chaste speech, (TA,) <i>A cake of bread:</i> (JK, S, K:) arabicized words, (T, JK, S, K,) from گِرْدَهْ, (K, TA,) which is Persian, meaning “ round: ” (TA:) pl. جَرَادِقُ and جَرَاذِقُ. (JK.)   </entryFree> <br>\
+' } );

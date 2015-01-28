@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'حرقفQ. 1<br>\
+حَرْقَفَ الأَتَانَ He (an ass) took hold upon<br>\
+the حَرَاقِف [pl. of حَرْقَفَة] of the she-ass [with<br>\
+his fore legs]. (Ibn-&#39;Abbád, Sgh, K.)<br>\
+حَرْقَفَةٌ The bone of the حَجَبَة, which is the<br>\
+head [or crest] of the hip or haunch: (S, K:)<br>\
+or the head of the upper part of the hip or<br>\
+haunch: (TA in art. اكم:) or [the dual]<br>\
+حَرْقَفَتَانِ signifies the place where the head of<br>\
+each thigh unites with, or meets, the hip or<br>\
+haunch, (Zj in his “ Khalk el-Insán,” and TA, *)<br>\
+externally: (TA:) [see an explanation of حَجَبَةٌ,<br>\
+in which a distinction is made between this latter<br>\
+term and حَرْقَفَةٌ: a distinction is also made between<br>\
+them by Zj in his work cited above, as a reference<br>\
+to حجبة will show:] pl. حَرَاقِفُ (S, K) and<br>\
+حَرَاقِيفُ. (TA.) One says, المَرِيضُ إِذَا طَالَتْ<br>\
+ضَجْعَتُهُ دَبِرَتْ حَرَاقِفُهُ [The sick man, when his<br>\
+lying on the side is of long continuance, his حراقف<br>\
+became galled; i. e. the exterior prominent regions<br>\
+of his hip-joints]. (S.)<br>\
+حُرْقُوفٌ An emaciated beast, or horse or the<br>\
+like; (S, K, TA;) i. e., whose حَرَاقِيف are apparent. (TA.)<br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>قلف</em>            1                  قلف<br>\
+                     قَلَّفَ<br>\
+                   see 8.    </entryFree> <br>\
+<b>اقْتَلَفَ الظُّفْرَ</b>               1     <br>\
+                     اقْتَلَفَ الظُّفْرَ<br>\
+                     ذ<br>\
+                  <i>He pulled out the finger-nail by the root:</i> (Lth, TA:) and so ↓ <br>\
+      قَلَّفَهُ, accord. to a usage of its pass. part. n. in the T, art. ظفر.    </entryFree> <br>\
+<b>قُلْفَةٌ</b>               1     <br>\
+                     قُلْفَةٌ<br>\
+                     ذ<br>\
+                   [also The <i>prepuce of the clitoris</i> of a woman;] <i>a piece of flesh between the</i> <br>\
+                  شُفْرَانِ of a woman, <i>which is cut off in circumcision.</i> (Msb,) voce بَظْرٌ.)    </entryFree> <br>\
+<b>اَقْلَفُ</b>               1     <br>\
+                     اَقْلَفُ<br>\
+                     ذ<br>\
+                   has also for pl. قُلْفَانٌ: see اَعْرَمُ.   </entryFree> <br>\
+' } );

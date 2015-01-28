@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'يثمإِيثَمُ<br>\
+and تِيثَمُ [for آثَمُ and تَأْثَمُ]: see أَثِمَ.<br>\
+' } );

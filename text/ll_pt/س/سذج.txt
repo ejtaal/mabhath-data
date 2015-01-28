@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سذج</em>            1                  سذج<br>\
+<b>سَاذَجٌ</b>               1     <br>\
+                     سَاذَجٌ<br>\
+                     ذ<br>\
+                   and سَاذِجٌ, mentioned under this head in the O and K: see art. ساذج.   </entryFree> <br>\
+' } );

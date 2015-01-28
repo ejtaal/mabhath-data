@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كنعدكَنْعَدٌ A kind of sea-fish; (S, L, K;) as also<br>\
+كَنْعَتٌ, in which the ت seems to be a substitute<br>\
+for the د. (L.)<br>\
+' } );

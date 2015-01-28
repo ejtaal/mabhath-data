@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>وفض</em>            1                  وفض<br>\
+<b>وَفَّضَ الرَّحَى</b>               1     <br>\
+                     وَفَّضَ الرَّحَى<br>\
+                     ذ<br>\
+                  <i>He put a</i> <br>\
+                  وِفَاض [or <i>skin</i>] <i>beneath the</i> [<i>hand-</i>] <i>mill.</i> (M, in art. ثفل.)    </entryFree> <br>\
+<b>اَوْفَضَ</b>               1     <br>\
+                     اَوْفَضَ<br>\
+                     ذ<br>\
+                  : see اَوْضَفَ.    </entryFree> <br>\
+<b>وِفَاضٌ</b>               1     <br>\
+                     وِفَاضٌ<br>\
+                     ذ<br>\
+                  : see 2, and ثِفَالٌ.   </entryFree> <br>\
+' } );

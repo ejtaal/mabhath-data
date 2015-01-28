@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نزف</em>            1                  نزف<br>\
+<b>نَزَفَ</b>               1     <br>\
+                     نَزَفَ<br>\
+                     ذ<br>\
+                  <i>He entirely exhausted</i> (S, Msb, K) a well, (Msb,) or the water of a well. (S, K.)    </entryFree> <br>\
+<b>مَنْزُوفٌ</b>               1     <br>\
+                     مَنْزُوفٌ<br>\
+                     ذ<br>\
+                  <i>Exhausted:</i> see an ex. voce ضَرَطَ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'خنو1<br>\
+خَنَا, aor. يَخْنُو, inf. n. خَنْوٌ and خَنًا: see خَنِىَ,<br>\
+in the art. here following.<br>\
+' } );

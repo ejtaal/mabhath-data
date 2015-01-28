@@ -1,0 +1,75 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ناج&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ناج<br>\
+&lt;entryFree id=&quot;n39116&quot; key=&quot;نَاَجَ فِى الاَرْضِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَاَجَ فِى الاَرْضِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاََ<br>\
+                  &lt;/form&gt;, inf. n. نُوُوجٌ, &lt;i&gt;He went, went away, departed,&lt;/i&gt; or &lt;i&gt;set forth journeying, through the land,&lt;/i&gt; or &lt;i&gt;earth.&lt;/i&gt; (S, K.) ―         -b2-  نَاَجَ الخَبَرُ <br>\
+                  &lt;i&gt;The news, tidings,&lt;/i&gt; or &lt;i&gt;information, went,&lt;/i&gt; or &lt;i&gt;went away, through the land.&lt;/i&gt; (T.) ―         -b3-  نَاَجَتِ الرِّيحُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاََ<br>\
+                  &lt;/form&gt;, inf. n. نَيِيجٌ, &lt;i&gt;The wind became in a state of commotion: blew with a swift course, and with a sound.&lt;/i&gt; (S, K.) ―         -b4-  نَاَجَتِ الرِّيحُ المَوْضِعَ <br>\
+                  &lt;i&gt;The wind passed swiftly over the place.&lt;/i&gt; (TA.) ―         -b5-  نُيِجَ القَوْمُ (like عُنِىَ [pass. in form but neut. in signification] TA) &lt;i&gt;The people experienced,&lt;/i&gt; or &lt;i&gt;suffered, a swift and sounding wind.&lt;/i&gt; (S, K.) [See an ex. voce مَنْاَجٌ.] ―         -b6-  نَاَجَتِ الاـِبِلُ فِى سَيْرِهَا [&lt;i&gt;The camels were swift in their pace&lt;/i&gt;]. (TA.) ―         -b7-  نَاَجَتِ الرَّايِحَةُ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  عَجَّت, [app., &lt;i&gt;The odour diffused itself strongly&lt;/i&gt; or &lt;i&gt;powerfully&lt;/i&gt;]. (TA.)       -A2-  نَاَجَ, (aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاََ<br>\
+                  &lt;/form&gt;, inf. n. نَاْجٌ, TA,) &lt;i&gt;It&lt;/i&gt; (an owl) &lt;i&gt;uttered a moaning cry;&lt;/i&gt; or &lt;i&gt;hooted;&lt;/i&gt; syn. نَاَمَ: (K:) and in like manner a man. (TA.) ―         -b2-  نَاَجَ, (aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاََ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاَِ<br>\
+                  &lt;/form&gt;, inf. n. نَاْجٌ and نُوَاجٌ, TA,) &lt;i&gt;He&lt;/i&gt; (a bull) &lt;i&gt;lowed.&lt;/i&gt; (K.) ―         -b3-  نَاَجَ اـِلَى اللّٰهِ, (aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَاََ<br>\
+                  &lt;/form&gt;, TA,) &lt;i&gt;He humbled,&lt;/i&gt; or &lt;i&gt;abased, himself, with earnestness,&lt;/i&gt; in supplication, &lt;i&gt;to God.&lt;/i&gt; (S, K.)       -A3-  نَيِجَ <br>\
+                  &lt;i&gt;He ate weakly,&lt;/i&gt; or &lt;i&gt;feebly.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39117&quot; key=&quot;رِيحٌ نَوُوجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِيحٌ نَوُوجٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Wind in a state of commotion:&lt;/i&gt; (S, K:) &lt;i&gt;swift in its course, and making a sound:&lt;/i&gt; pl. نَوَايِجُ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39118&quot; key=&quot;نَاّ=جٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاّ=جٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Quick; swift.&lt;/i&gt; (TA.) ―         -b2-  النَّاّ=جُ <br>\
+                  &lt;i&gt;The lion:&lt;/i&gt; (K:) so called because of his quick leaping, or springing. (TA.)       -A2-  نَاّ=جٌ A bull &lt;i&gt;that lows much.&lt;/i&gt; (TA.) ―         -b2-  A man &lt;i&gt;having a high voice.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39119&quot; key=&quot;نَايِجَاتٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَايِجَاتٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [Birds of the kind called] هَام <br>\
+                  &lt;i&gt;uttering cries.&lt;/i&gt; (S, L, K.) [In the CK, for هام is put هَوَامّ. See an ex. voce مَنْاَجٌ.] ―         -b2-  Also, Winds &lt;i&gt;blowing violently:&lt;/i&gt; (TA:) pl. نَوَايِجُ. (A.)    &lt;/entryFree&gt; <br>\
+               &lt;entryFree id=&quot;n39120&quot; key=&quot;AudoEu rab~aka biAanoAaji maA taqodiru Ealayohi&quot;<br>\
+                          type=&quot;main&quot;&gt;     <br>\
+                     اُدْعُ رَبَّكَ بِاَنْاَجِ مَا تَقْدِرُ عَلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Supplicate thy Lord with the utmost humility,&lt;/i&gt; or &lt;i&gt;abasement, and earnestness, of which thou art capable.&lt;/i&gt; (TA, from a trad.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39121&quot; key=&quot;مَنْاَجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَنْاَجٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;A place where a wind blows with a swift course and with a sound&lt;/i&gt;]. Ex. &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَتُنْاَجُ الرُّكْبَانُ كُلَّ مَنْاَجِ<br>\
+                     &lt;L&gt;<br>\
+                        بِهِ نَيِيجُ كُلِّ رِيحٍ سَيْهَجِ<br>\
+                  &lt;/quote&gt; (S.) ―         -b2-  [&lt;i&gt;A place where birds of the kind called&lt;/i&gt; <br>\
+                  هَام <br>\
+                  &lt;i&gt;utter their cries&lt;/i&gt;]. Ex. &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        مَنْاَجَا ↓ <br>\
+      وَاْتَّخَذَتْهُ النَّايِجَاتُ<br>\
+                  &lt;/quote&gt; (TA [but quoted in the S as an ex. of مناج in the former sense].)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39122&quot; key=&quot;حَدِيثٌ مَنْوُوجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَدِيثٌ مَنْوُوجٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَعْطُوفٌ [app. &lt;i&gt;A distorted story&lt;/i&gt;]: (K:) so explained by ISk, as occurring in the following verse: &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        قَدْ عَلِمَ الاَحْمَا=ءُ وَالاَزَاوِيجْ<br>\
+                     &lt;L&gt;<br>\
+                        اَنْ لَيْسَ عَنْهُنَّ حَدِيثٌ مَنْوُوجْ<br>\
+                  &lt;/quote&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

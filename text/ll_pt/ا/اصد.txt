@@ -1,0 +1,49 @@
+load_data( { book: 'll_pt', text: '<em>اصد</em>            1                  اصد<br>\
+<b>اصّدهُ</b>               1     <br>\
+                     اصّدهُ<br>\
+                     ذ<br>\
+                  , inf. n. تَاْصِيدٌ, is from اُصْدَةٌ: (S, K:) [app. meaning <i>He made it an</i> <br>\
+                  اُصْدَة: or <i>he wore it as an</i> <br>\
+                  اُصْدَة: and hence مُوَصَّدٌ or مُوَصَّدَةٌ as explained below: or] <i>he clad him with an</i> <br>\
+                  اُصْدَة. (TK.)    </entryFree> <br>\
+<b>ا=صد</b>               1     <br>\
+                     ا=صد<br>\
+                     ا=صد<br>\
+                   [in some copies of the K اَصَدَ, which is a mistake, (see the pass. part. n. مُوْصَدٌ, below,)] <i>He closed</i> (اَغْلَقَ, S, A, K, and so in the M in art. وصد, or اَطْبَقَ, as in the M in the present art.) a door, or an entrance; as also اوصد; (S, M, A, K;) of which it is a dial. var. (S.) And <i>He covered,</i> or <i>covered over,</i> a cooking-pot. (M.)    </entryFree> <br>\
+<b>اُصْدَةٌ</b>               1     <br>\
+                     اُصْدَةٌ<br>\
+                     ذ<br>\
+                   (S, M, K, and Ham p. 223) and ↓ <br>\
+      اَصِيدَةٌ (M, K) and ↓ <br>\
+      مُوَصَّدٌ (S* M,) or ↓ <br>\
+      مُوَصَّدَةٌ, (K,) <i>A garment of the kind called صِدَار worn by a young girl:</i> when a girl attains to the age of puberty, she is clad with a دِرْع: (M:) or <i>a small shirt for a little girl:</i> or <i>worn beneath the</i> <br>\
+                  ثَوْب; (K:) or the اُصْدَة is <i>a garment without sleeves, worn by a bride and by a little girl:</i> (M:) or <i>a small shirt</i> or <i>shift, worn beneath the</i> <br>\
+                  ثوب; and <i>also worn by little girls:</i> (S:) or <i>a garment of which the sewing is not complete:</i> or <i>i. q.</i> <br>\
+                  بَقِيرَةٌ: or <i>i. q.</i> <br>\
+                  صُدْرَةٌ. (Ham ubi suprà.) Kutheiyir says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L>↓ <br>\
+      وَقَدْ دَرَّعُوهَا وَهْىَ ذَاتُ مُوَصَّدٍ<br>\
+                     <L><br>\
+                        مَجُوبٍ وَ لَمَّا يَلْبَسِ الدِّرْعَ رِيدُهَا<br>\
+                  </quote> [<hi rend=&quot;ital&quot; TEIform=&quot;hi&quot;>They clad her with a دِرْع when she wore a مُوَصَّد with an opening cut out at the neck and bosom, when her equal in age had not yet worn the درع<br>\
+                  </hi>]. (S, M.)    </entryFree> <br>\
+<b>اًصِيدٌ</b>               1     <br>\
+                     اًصِيدٌ<br>\
+                     ذ<br>\
+                  <i>A court;</i> or <i>an open or a wide space in front of a house, or extending from its sides;</i> (S, M, K;) a dial. var. of وَصِيدٌ, (S,) which is the more common form: (M:) or the <i>extreme</i> <br>\
+                  <i>and exterior part of a house:</i> (Mirkát el-Loghah, and Meyd, as rendered by Golius:) or <i>an intermediate place between the threshold or door and the house; a place which looks neither upon the public nor upon the interior parts, whether it be an area or a vestibule.</i> (Ibn-Maaroof, as rendered by Golius.)    </entryFree> <br>\
+<b>اَصِيدَةٌ</b>               1     <br>\
+                     اَصِيدَةٌ<br>\
+                     ذ<br>\
+                  : see اُصْدَةُ       -A2-  <i>A [hind of enclosure for the protection of camels, sheep,</i> or <i>goats, such as is called</i>] حَظِيرَةٌ: (M, K:) or <i>like a </i> <br>\
+                  حظيرة, (S, and Ham p.223,) <i>[but made] of rocks, or great masses of stone:</i> (Ham:) a dial. var. of وَصِيدَةٌ [q. v.]: (S:) pl. اـِصَادٌ (Ham.)    </entryFree> <br>\
+<b>مُوْصَدٌ</b>               1     <br>\
+                     مُوْصَدٌ<br>\
+                     ذ<br>\
+                  <i>Closed; closed over,</i> or <i>covered:</i> occurring in the Kur [xc. 20 and] civ. 8; (L;) in which AA reads مُوْصَدَةٌ [with hemz; others reading this word without hemz]. (S, L.) You say بَابٌ مُوْصَدٌ [<i>A closed door</i>]. (A.) And قِدْرٌ مُوْصَدَةٌ <br>\
+                  <i>A covered cooking-pot.</i> (A.) And بَابُ العَفْوِ عَنْهُ مُوْصَدٌ (assumed tropical:)  [<i>The door of forgiveness is closed from him; i. e., against him</i>]. (A.)    </entryFree> <br>\
+<b>مُوَصَّدٌ</b>               1     <br>\
+                     مُوَصَّدٌ<br>\
+                     ذ<br>\
+                  , or مُوَصَّدَةٌ: see اُصْدَةٌ, in three places.   </entryFree> <br>\
+' } );

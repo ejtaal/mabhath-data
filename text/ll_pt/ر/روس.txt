@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>روس</em>            1                  روس<br>\
+<b>رَوَّسَ</b>               1     <br>\
+                     رَوَّسَ<br>\
+                     ذ<br>\
+                  : see رَاَّسَ.    </entryFree> <br>\
+<b>يَرْتَاسُ</b>               1     <br>\
+                     يَرْتَاسُ<br>\
+                     ذ<br>\
+                  : see يَرْتَيِسُ.    </entryFree> <br>\
+<b>رَوَّاسٌ</b>               1     <br>\
+                     رَوَّاسٌ<br>\
+                     ذ<br>\
+                   and رَوَّاسِىٌّ: for both, see رَاّ=سٌ: and for the latter, see also اَرْاَسُ.   </entryFree> <br>\
+' } );

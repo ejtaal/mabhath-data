@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'كنه4<br>\
+أَكْنَهَ<br>\
+: see an ex. in a verse cited voce مَعَسٌّ.<br>\
+كُنْهٌ<br>\
+: see فَصٌّ. ―<br>\
+-b2-  كُنْهٌ may often be rendered<br>\
+Entity.<br>\
+' } );

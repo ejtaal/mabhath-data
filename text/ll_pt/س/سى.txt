@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>سى</em>            1                  سى<br>\
+<b>سَىْ</b>               1     <br>\
+                     سَىْ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  سَوْفَ, q. v.    </entryFree> <br>\
+<b>سَىٌّ</b>               1     <br>\
+                     سَىٌّ<br>\
+                     ذ<br>\
+                   and سِىٌّ: see art, سوى; and see the latter in art. سيو.   </entryFree> <br>\
+' } );

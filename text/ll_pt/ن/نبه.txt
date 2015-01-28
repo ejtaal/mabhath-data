@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>نبه</em>            1                  نبه<br>\
+<b>مَا نَبِهَ لَهُ</b>               1     <br>\
+                     مَا نَبِهَ لَهُ<br>\
+                     ذ<br>\
+                  <i>He did not know it;</i> or <i>know,</i> or <i>have knowledge, of it; was not cognizant of it;</i> or <i>did not understand it.</i> (K.) ―         -b2-  نَبِهَ لِلاَمْرِ <br>\
+                  <i>His attention became roused to the thing,</i> or <i>affair, after he had forgotten it.</i> (AZ, S.) ―         -b3-  مَا نَبِهْتُ لَهُ: see مَا اَبِهْتُ لَهُ. ―         -b4-  نَبَهَ عَلَيْهِمْ: see نَبَاَ عَلَيهم. ―         -b5-  نَبُهَ <br>\
+                  <i>He was,</i> or <i>became, eminent, celebrated, or well known.</i> (S, K, * TA.)    </entryFree> <br>\
+<b>نَبَّهَهُ عَلَى الشَّىْءِ</b>               1     <br>\
+                     نَبَّهَهُ عَلَى الشَّىْءِ<br>\
+                     ذ<br>\
+                  <i>He made him acquainted with the thing; informed him of it; gave him notice of it; notified it to him.</i> (S.) ―         -b2-  نَبَّهَهُ <br>\
+                  لِلْاَمْرِ (tropical:)  [<i>He roused his attention to the thing,</i> or <i>affair</i>]. (TA in art. يقظ.) ―         -b3-  نَبَّهَهُ (tropical:)  [<i>He roused him</i> from heedlessness or inadvertence: <i>he roused his attention.</i> (TA.)    </entryFree> <br>\
+<b>تَنَبَّهَ عَلَى الشَّىْءِ</b>               1     <br>\
+                     تَنَبَّهَ عَلَى الشَّىْءِ<br>\
+                     ذ<br>\
+                  <i>He became acquainted with the thing; became informed of it; had notice of it.</i> (S.) ―         -b2-  تَنَبَّهَ لَِلْاَمْرِ (tropical:)  [<i>His attention became roused,</i> or <i>he had his attention roused, to the thing,</i> or <i>affair</i>]. (Msb and TA in art. يقظ.) ―         -b3-  تَنَبَّهَ (tropical:)  <i>He became vigilant, wary,</i> or <i>cautious.</i> (Msb, TA.) ―         -b4-  تَنَبَّهَ and ↓ <br>\
+      اِنْتَبَهَ (tropical:)  <i>He became roused</i> from heedlessness or inadvertence; <i>his attention became roused;</i> or <i>he had his attention roused.</i> (TA.)    </entryFree> <br>\
+                     اـِنْتَبَهَ<br>\
+                   see 5.     <br>\
+<b>نَبِيهٌ</b>               1     <br>\
+                     نَبِيهٌ<br>\
+                     ذ<br>\
+                  <i>Eminent, celebrated,</i> or <i>well known;</i> (S, K, * TA;) <i>contr. of</i> <br>\
+                  خَامِلٌ. (S, TA.)    </entryFree> <br>\
+<b>كَلِمَةُ تَنْبِيهٍ</b>               1     <br>\
+                     كَلِمَةُ تَنْبِيهٍ<br>\
+                     ذ<br>\
+                  <i>A word used to give notice,</i> to a person addressed, of something about to be said to him. (TA, voce هَا.) See also هَا termed تَنْبِيهٌ. It may generally be rendered <i>Now.</i>   <br>\
+' } );

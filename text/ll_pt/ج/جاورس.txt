@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>جاورس</em>            1                  جاورس<br>\
+<b>جَاوَرْسٌ</b>               1     <br>\
+                     جَاوَرْسٌ<br>\
+                     جاورس<br>\
+                  : see art. جرس.   </entryFree> <br>\
+            <div2 n=&quot;Quasi jAy&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi جاي<br>\
+<b>جَاا=نِى</b>               1     <br>\
+                     جَاا=نِى<br>\
+                     جاا=نى<br>\
+                     جاا=ني<br>\
+                  : see 3 in art. جيا.   </entryFree> <br>\
+' } );

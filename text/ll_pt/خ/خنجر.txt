@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>خنجر</em>            1                  خنجر<br>\
+<b>خَنْجَرٌ</b>               1     <br>\
+                     خَنْجَرٌ<br>\
+                     خنجر<br>\
+                   (S, Mgh, Msb, K) and خِنْجِرٌ (Msb) and خِنْجَرٌ, (K,) the last of a rare form, like دِرْهَمٌ, (TA,) <i>A knife:</i> or <i>a great knife:</i> (K:) or <i>a kind of large knife</i> [or <i>dagger, generally curved, and double-edged</i>], (S, Mgh, Msb,) <i>called in Persian</i> <br>\
+                  دَشْنَهْ: (Mgh:) pl. خَنَاجِرُ. (Msb.) Some say, [as, for instance, the author of the Msb,] that the ن is augmentative, the measure being فنعل. (TA.)       -A2-  Also the first, (K,) and ↓ <br>\
+      خُنْجُورٌ, (As, S, TA,) or ↓ <br>\
+      خُنْجُورَةٌ, and ↓ <br>\
+      خَنْجَرَةٌ, (K,) A she-camel <i>abounding with milk:</i> (As, S, K:) pl. خَنَاجِرُ. (S.) And ↓ <br>\
+      خُنْجُورَةٌ A <i>bulky</i> she-camel. (K.)    </entryFree> <br>\
+<b>خَنْجَرَةٌ</b>               1     <br>\
+                     خَنْجَرَةٌ<br>\
+                     خنجر<br>\
+                     خنجره<br>\
+                     خنجرة<br>\
+                  : see above.    </entryFree> <br>\
+<b>خُنْجُورٌ</b>               1     <br>\
+                     خُنْجُورٌ<br>\
+                     خنجور<br>\
+                   and خُنْجُورَةٌ: see خَنْجَرٌ, in three places.   </entryFree> <br>\
+' } );

@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'غalphabetical letter<br>\
+غ<br>\
+The nineteenth letter of the alphabet: called غَيْنٌ.<br>\
+It is one of the letters termed حَلْقِيَّة [or faucial],<br>\
+(L, TA,) its place of utterance being the upper<br>\
+part of the fauces, near to that of ح, (TA in art.<br>\
+غين,) the same place as that of خ, (L, TA,)<br>\
+[from which it differs in being pronounced with<br>\
+the voice, for] it is of the letters termed مَجْهُورَة<br>\
+[or vocal], (L, TA, and K in art. غين,) and of<br>\
+those that are termed مُسْتَعْلِيَة [q. v.]; one should<br>\
+not reiterate the voice in uttering it, so as to exceed what is right, nor neglect exactness in respect<br>\
+of its place of utterance, so as to render it obscure,<br>\
+but should make it thoroughly distinct, and clear:<br>\
+it is not an augmentative letter: and [it is said<br>\
+that] it is not substituted [for another letter]:<br>\
+(K in art. غين:) [but this is a mistake; for] it<br>\
+is substituted for two letters; for خ, in غَطَرَ بِيَدِهِ,<br>\
+aor. يَغْطِرُ, meaning خَطَرَ, aor. يَخْطِرُ, mentioned<br>\
+by IJ and several others, (MF, TA,) and in<br>\
+غَطَرَ بِذَنَبِهِ for خَطَرَ; (TA in art. خطر;) and for<br>\
+ع, in لَغَنَّ for لَعَنَّ, mentioned by Ibn-Umm-<br>\
+Kásim and others, (MF, TA,) [and in نَشُوغٌ for<br>\
+نَشُوغٌ,] and in اِرْمَغَلَّ for اِرْمَعَلَّ, and also in الغَيْنُ<br>\
+as signifying “ thirst ” and “ the clouds. ” (TA<br>\
+in art. غين.)<br>\
+-A2-  [As a numeral, it denotes A<br>\
+thousand.]<br>\
+' } );

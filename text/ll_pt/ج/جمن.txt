@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>جمن</em>            1                  جمن<br>\
+<b>جُمَانٌ</b>               1     <br>\
+                     جُمَانٌ<br>\
+                     جم<br>\
+                     جمان<br>\
+                  <i>Beads made of silver, like pearls;</i> (S;) <i>things in the form of pearls, of silver;</i> (K;) one of which is called جُمَانَةٌ, (S, K,) pl. جُمَانَاتٌ: (Har p. 181:) or <i>pearls</i> (K, TA) themselves: (TA:) or the first is the proper meaning, and this is metaphorical: (EM p. 161:) [said to be] a Persian word, arabicized. (TA.) Also <i>A kind of belt</i> (سَفِيفَة) <i>woven of leather, in which are beads of every colour, worn by a woman as a</i> <br>\
+                  وِشَاح [q. v.]: or <i>silvered beads.</i> (K.)   </entryFree> <br>\
+' } );

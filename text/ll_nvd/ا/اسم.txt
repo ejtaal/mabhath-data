@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'اسم1<br>\
+أَسَمَهُ a dial. var. of وَسَمَهُ, q. v. (TA.)<br>\
+اِسْمٌ: see art. سمو.<br>\
+أُسَامَةُ, determinate, (S, M, K,) and imperfectly<br>\
+decl., (M, Msb,) as a proper name, (Msb, K,)<br>\
+The lion; (S, M, Msb, K;) as also الأُسَامَةُ.<br>\
+(Sgh, K.)<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>ضير</em>            1                  ضير<br>\
+<b>ضَارَهُ</b>               1     <br>\
+                     ضَارَهُ<br>\
+                     ذ<br>\
+                  , aor. يَضِيرُ, inf. n. ضَيْرٌ; (S, M, A, Msb, K;) as also ضَارَهُ, aor. يَضُورُ, inf. n. ضَوْرٌ; (S, M, K;) <i>It</i> (a thing, M, K) <i>harmed, injured, hurt, mischiefed,</i> or <i>damaged, him; i. q.</i> <br>\
+                  ضَرَّهُ, (S, M, K,) or اَضَرَّ بِهِ. (Msb.) You say, هٰذَا مِمَّا لَا <br>\
+                  يَضِيرُكَ [<i>This is of the things that will not harm thee</i>]: and لَوْ فَعَلْتَهُ لَمْ يَضِرْكَ [<i>Hadst thou done it, it had not harmed thee</i>]: and لَا ضَيْرَ عَلَيْكَ [<i>No harm shall befall thee</i>]. (A.) And مَا يَضِيرُكَ <br>\
+                  عَلَى الضَّبِّ صِيْدٌ <br>\
+                  <i>i. q.</i> <br>\
+                  مَا يَضُرُّكَ q. v. (A in art. ضر.) And Ks says that he had heard (from one of the people of El-&#39; Áliyeh. TA) the phrase لَا يَنْفَعُنِى ذٰلِكَ وَلَا يَضُورُنِى [<i>That will not benefit me, nor will it harm me</i>]. (S, TA.) See also a reading of a phrase in a trad. cited in art. ضر. conj. 3.   </entryFree> <br>\
+' } );

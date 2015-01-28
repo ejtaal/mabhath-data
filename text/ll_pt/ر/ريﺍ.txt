@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ريا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ريا<br>\
+&lt;entryFree id=&quot;n17206&quot; key=&quot;رَا=ءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     رَا=ءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (like خَافَ, TA, [app. indicating that its aor. is يَرَا=ءُ, like يَخَافُ,]) a dial. var. of رَاَى [&lt;i&gt;He saw;&lt;/i&gt; &amp;amp;c.]. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17207&quot; key=&quot;ريّا فِى الاَمْرِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ريّا فِى الاَمْرِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  رَوَّاَ [q. v.]. (T, * K.)       -A2-  ريّاهُ, inf. n. تَرْيِيَةٌ, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  فَسَحَ عَنْهُ مِنْ خِنَاقِهِ [app. meaning &lt;i&gt;He relaxed the compression of his throat:&lt;/i&gt; or &lt;i&gt;he relaxed the cord by which he was being throttled&lt;/i&gt;]: (M:) or فَسَحَ عَنْ خُنَاقِهِ [which app. has the former meaning: or perhaps means &lt;i&gt;he,&lt;/i&gt; or &lt;i&gt;it, relieved his quinsy, so that he had room,&lt;/i&gt; or &lt;i&gt;freedom, to breathe&lt;/i&gt;]. (K.)       -A3-  ريّا رَا=ءًا <br>\
+                  &lt;i&gt;He wrote a&lt;/i&gt; <br>\
+                  ر. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17208&quot; key=&quot;رايا فُلَانًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     رايا فُلَانًا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, K, *) said to be formed by transposition, [i. e. from رَا=ءَى,] inf. n. مُرَايَاَةٌ, (TA,) &lt;i&gt;He feared,&lt;/i&gt; or &lt;i&gt;was on his guard against, such a one.&lt;/i&gt; (M, K. *) ―         -b2-  See also 3 in art. راى.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17209&quot; key=&quot;رِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a subst. from رَا=ءَ mentioned above: (M, K:) [i. e., it signifies &lt;i&gt;Sight;&lt;/i&gt; &amp;amp;c.; like رُوْيَةٌ:] and رَا=ءٌ is said by MF to be like it; but this is a mistake, occasioned by his finding الرَّا=ء, in a verse, miswritten for الدَّا=ء. (TA.) ―         -b2-  [See also رِيْى.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n17210&quot; key=&quot;قَصِيدَةٌ رَايِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قَصِيدَةٌ رَايِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. روا.   &lt;/entryFree&gt; <br>\
+' } );

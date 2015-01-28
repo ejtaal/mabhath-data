@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'كسو1<br>\
+كَسَوْتُهُ سَيْفًا<br>\
+[I invested him with a sword].<br>\
+(TA in art. غشو.)<br>\
+5<br>\
+' } );

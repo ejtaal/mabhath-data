@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>فرطح</em>            1                  فرطح<br>\
+<b>فَرْطَحَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     فَرْطَحَ<br>\
+                     ذ<br>\
+                  <i>He made broad,</i> or <i>wide,</i> (K,) or <i>he spread out,</i> or <i>expanded,</i> anything: and so فَلْطَحَ. (L.) Hence, فُرْطِحَ said of a round cake of bread, <i>It was made broad,</i> or <i>wide:</i> (S, L:) said by IB to be correctly فُلْطِحَ, and to be thus in a verse as related by El-Ámidee. (TA. [But see the pass. part. n., below.])    </entryFree> <br>\
+<b>فِرْطَاحٌ</b>               1     <br>\
+                     فِرْطَاحٌ<br>\
+                     ذ<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>رَاْسٌ مُفَرْطَحٌ</b>               1     <br>\
+                     رَاْسٌ مُفَرْطَحٌ<br>\
+                     ذ<br>\
+                  <i>A broad,</i> or <i>wide, head;</i> (S, K;) as also ↓ <br>\
+      فِرْطَاحٌ: the former is thus accord. to J; but it is [said to be] correctly مُفَلْطَحٌ, with ل: (K:) [or] both are correct; ر being a letter which replaces ل. (MF.)   </entryFree> <br>\
+' } );

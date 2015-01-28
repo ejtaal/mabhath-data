@@ -1,0 +1,70 @@
+load_data( { book: 'll_nvd', text: 'جذر1<br>\
+جَذَرَ, (A, TA,) aor.<br>\
+جَذُرَ, (TK,) inf. n. جَذْرٌ,<br>\
+(A, K,) He cut, or cut off, or severed, (K, TA,)<br>\
+a thing: (TA:) and (K) he extirpated, or cut<br>\
+off entirely, (A, K,) a thing; (A;) as also ↓ جذّر;<br>\
+(S;) and ↓ اجذر, inf. n. إِجْذَارٌ. (AZ, K.)<br>\
+2<br>\
+جَذَّرَ see 1.<br>\
+4<br>\
+أَجْذَرَ see 1.<br>\
+7<br>\
+انجذر It became cut, or cut off, or severed.<br>\
+(K, TA.)<br>\
+جَذْرٌ (As, IAar, S, A, Msb, K) and ↓ جِذْرٌ (AA,<br>\
+S, K) The root, or lower part, (As, S, A, Msb, K,)<br>\
+of anything: (As, S, A:) or (so in the K, but in<br>\
+other lexicons “ and ”) particularly, of the tongue:<br>\
+(Sh, A, Msb, K:) and of the penis: (Sh, K:)<br>\
+and of a horn (S, * A) of a cow (S) or of a bull;<br>\
+(A;) or the horn [itself] of a cow: (TA:) and<br>\
+the latter word, the root, or foot, or lowest part,<br>\
+of a tree: (TA:) and the former word, the base<br>\
+of the neck: (El-Hejeree, K:) pl. جُذُورٌ. (K.)<br>\
+Hence, نَزَلَتِ المَحَبَّةُ فِى جَذْرِ قَلْبِهِ Love took up<br>\
+its abode in the bottom (أَصْل) of his heart. (A.)<br>\
+And [hence] it is said in a trad., إِنَّ الأَمَانَةَ نَزَلَتْ<br>\
+فِى جَذْرِ قُلُوبِ الرِّجَالِ [app. meaning, Verily<br>\
+reason, or intellect, or rather conscience, each of<br>\
+which is a trust committed by God to man, and a<br>\
+faculty which renders him responsible for his<br>\
+faith and works, (see, in art. امن, an explanation<br>\
+of أَمَانَةٌ as used in the Kur xxxiii. 72,) hath taken<br>\
+up its abode in the bottom of the hearts of men].<br>\
+(S.) ―<br>\
+-b2-  Also, both words, The origin, or stock,<br>\
+from which one springs. (TA.) ―<br>\
+-b3-  And the former, (S, A, Mgh, Msb, K,) and the latter, or the<br>\
+latter only, (K,) or the former only, (IAar, TA,)<br>\
+A root of a number; (A;) an arithmetical root;<br>\
+(Mgh, K;) [a square root;] a number that is<br>\
+multiplied by itself; (Msb;) as when you say<br>\
+that ten multiplied by ten is a hundred; (Mgh,<br>\
+Msb;) and three multiplied by three is nine;<br>\
+(A;) in the former of which cases, ten is the<br>\
+جذر, (Mgh, Msb,) i. e., the جذر of a hundred;<br>\
+(Mgh;) and in the latter, three; (A;) and in<br>\
+each case, the [square or] product of the multiplication is called the مَال, (Msb,) or the جُذَآء, (A,)<br>\
+or the ↓ مَجذُور: (Mgh:) [pl. of pauc. أجْذَارٌ,<br>\
+and of mult. جُذُورٌ.] It is of two kinds, نَاطِقٌ<br>\
+[i. e. rational], and أَصَمُّ [i. e. surd, or irrational]:<br>\
+the latter known only to God, accord. to a saying<br>\
+of &#39;Áïsheh. (Mgh.)<br>\
+جِذْرٌ: see جَذْرٌ.<br>\
+جُؤْذَرٌ and جُؤْذُرٌ (S, K) and جُوذَرٌ and جَوْذَرٌ and<br>\
+جَؤْذَرٌ and ↓ جِيذَرٌ, (K, TA,) the last of which is<br>\
+written in some copies of the K [and in the CK]<br>\
+جَيْذَرٌ, (TA,) The young one of a wild cow: (S,<br>\
+K:) pl. of the first and second, جَآذِرُ. (S.) ISd<br>\
+thinks that جَوْدَرٌ and جِيذَرٌ are Arabic, and that<br>\
+جُؤْذَرٌ and جُؤْذُرٌ are Persian. (TA.) See also<br>\
+مُجْذِرٌ.<br>\
+جِيذَرٌ or جَيْذَرٌ: see what next precedes.<br>\
+مُجْذِرٌ A wild cow having a young one. (ISd,<br>\
+K.) Hence we decide that the ء in ↓ جؤذر is<br>\
+augmentative; and because it often occurs as an<br>\
+augmentative in the second place. (ISd, TA.)<br>\
+[In the S it is regarded as a radical.]<br>\
+مَجْذُورٌ: see حَذْرٌ.<br>\
+' } );

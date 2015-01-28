@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;طنا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  طنا<br>\
+&lt;entryFree id=&quot;n27151&quot; key=&quot;طَنِيَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     طَنِيَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     طَنَاَ<br>\
+                  &lt;/form&gt;, said of a camel, &lt;i&gt;He had his spleen adhering to his side.&lt;/i&gt; (K.) And, said of a man, &lt;i&gt;He had a tertian fever, and his spleen in consequence became enlarged.&lt;/i&gt; (Lh, TA.) Thus pronounced by some with ء [for طَنِىَ, q. v.]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27152&quot; key=&quot;اَطْنَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَطْنَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;He suffered not to retain the last remains of life&lt;/i&gt;]. One says, هٰذِهِ حَيَّةٌ لَا تُطْنِيُ <br>\
+                  &lt;i&gt;This is a serpent that will not suffer one to survive;&lt;/i&gt; (S, O, K; *) &lt;i&gt;that hills instantly:&lt;/i&gt; also without ء, but originally with ء; from طِنْءٌ in the first of the senses assigned to it below. (S, O.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27153&quot; key=&quot;طِنْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     طِنْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The [&lt;i&gt;last&lt;/i&gt;] &lt;i&gt;remains of the vital spirit.&lt;/i&gt; (S, O, K.) One says, تَرَكْتُهُ بِطِنْيِهِ <br>\
+                  &lt;i&gt;I left him with the&lt;/i&gt; [&lt;i&gt;last&lt;/i&gt;] &lt;i&gt;remains of life.&lt;/i&gt; (S, O.) ―         -b2-  And The &lt;i&gt;remains of water in a watering-trough,&lt;/i&gt; or &lt;i&gt;tank.&lt;/i&gt; (O, K, TA.) And it is said that رَوْضَةٌ, by which it is also expl. in the K [and in the O], has this meaning [as well as that of &lt;i&gt;A meadow,&lt;/i&gt; &amp;amp;c.]; and therefore this explanation without the former is given in the L. (TA.) ―         -b3-  And &lt;i&gt;Ashes in a state of extinction:&lt;/i&gt; (O, K:) and so طَنًى. (K and TA in art. طنى.) ―         -b4-  [And app. &lt;i&gt;A bier;&lt;/i&gt; for this is a meaning assigned to نَيْطٌ; and] one says, رُمِىَ فُلَانٌ فِى طِنْيِهِ [and فى طِنْيِهِ] and فى <br>\
+                  نَيْطِهِ [&lt;i&gt;Such a one was cast into his bier&lt;/i&gt;]; meaning, when he died. (AZ, TA.) ―         -b5-  And &lt;i&gt;A disease,&lt;/i&gt; or &lt;i&gt;malady.&lt;/i&gt; (K.)       -A2-  And &lt;i&gt;Doubt,&lt;/i&gt; or &lt;i&gt;suspicion,&lt;/i&gt; or &lt;i&gt;evil opinion;&lt;/i&gt; or &lt;i&gt;a thing that occasions doubt&lt;/i&gt; or &lt;i&gt;suspicion&lt;/i&gt; or &lt;i&gt;evil opinion;&lt;/i&gt; syn. رِيبَةٌ; (S, O, K, TA; in the CK رُبْيَة;) and تُهَمَةٌ: (TA:) and so طِنْىً. (TA in art. طنى.) Fr. cites, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        كَاَنَّ عَلَى الطِّنْءِ عَيْنًا بَصِيرَةً<br>\
+                  &lt;/quote&gt; meaning, عَلَى ذِى الرِّيبَةِ [i. e. &lt;i&gt;As though there were a discerning eye upon him in whom is that which occasions doubt,&lt;/i&gt; &amp;amp;c.]. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

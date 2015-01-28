@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>طى</em>            1                  طى<br>\
+<b>طَيَّيْتُ طَا=ءً</b>               1     <br>\
+                     طَيَّيْتُ طَا=ءً<br>\
+                     ذ<br>\
+                  <i>I wrote a</i> <br>\
+                  ط. (TA.)    </entryFree> <br>\
+<b>طَا=ءٌ</b>               1     <br>\
+                     طَا=ءٌ<br>\
+                     ذ<br>\
+                  , also pronounced طَا, <i>One of the letters of the alphabet</i> [i. e. <i>the letter</i> <br>\
+                  ط]: masc. and fem.: Kh says that its ا is originally ى. (TA.) [See art. ط.]       -A2-  It is also an epithet applied to a man, meaning <i>Multum coiens.</i> (KL, TA.)    </entryFree> <br>\
+<b>طَىَّ</b>               1     <br>\
+                     طَىَّ<br>\
+                     ذ<br>\
+                  : and طِىٌّ: and طَيَّةٌ: and طِيَّةٌ (also pronounced طِيَةٌ): and طَيَّانُ, fem. طَيَّا or طَيَّا=ءٌ: see in art. طوى.   </entryFree> <br>\
+' } );

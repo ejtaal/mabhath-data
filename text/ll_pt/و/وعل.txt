@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وعل</em>            1                  وعل<br>\
+<b>وَعِْلٌ</b>               1     <br>\
+                     وَعِْلٌ<br>\
+                     ذ<br>\
+                  <i>A mountain-goat:</i> (K, &amp;amp;c.:) see ثَيَنَلٌ; also اَلْبٌ; and اَرْوِيَّةٌ and شَهْرٌ.    </entryFree> <br>\
+<b>وُعُولٌ</b>               1     <br>\
+                     وُعُولٌ<br>\
+                     ذ<br>\
+                   as meaning <i>Noble</i> persons: and <i>strong</i> men: see two exs. voce تَحْت.   </entryFree> <br>\
+' } );

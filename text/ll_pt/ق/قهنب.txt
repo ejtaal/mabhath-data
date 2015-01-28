@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>قهنب</em>            1                  قهنب<br>\
+<b>قَهْنَبَانٌ</b>               1     <br>\
+                     قَهْنَبَانٌ<br>\
+                     ذ<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>قَهَنَّبٌ</b>               1     <br>\
+                     قَهَنَّبٌ<br>\
+                     ذ<br>\
+                  <i>Tall, and having a curving back, the upper part bending forward over the breast,</i> or <i>a bent and humped back,</i> or <i>a projecting breast and hollow back;</i> accord. to the different explanations of اَجْنَاُ: or <i>tall;</i> (K;) i. e., in an absolute sense; (TA;) as also ↓ <br>\
+      قَهْنَبَانٌ. (K.) But AHei and others assert that the ن is augmentative. (MF.)    </entryFree> <br>\
+<b>مُقَهْنِبٌ</b>               1     <br>\
+                     مُقَهْنِبٌ<br>\
+                     ذ<br>\
+                  <i>Always remaining at the water.</i> (K.)   </entryFree> <br>\
+            <div2 n=&quot;qw: see qwY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قو: see قوى<br>\
+' } );

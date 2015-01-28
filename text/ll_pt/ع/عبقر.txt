@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>عبقر</em>            1                  عبقر<br>\
+<b>عَبْقَرٌ</b>               1     <br>\
+                     عَبْقَرٌ<br>\
+                     ذ<br>\
+                  : see the following paragraph, in two places.    </entryFree> <br>\
+<b>عَبْقَرِىٌّ</b>               1     <br>\
+                     عَبْقَرِىٌّ<br>\
+                     ذ<br>\
+                   a rel. n. from ↓ <br>\
+      عَبْقَرٌ, a place which the Arabs assert to be of the lands of the Jinn, or Genii: (S, O, Msb:) or a certain place, (K,) in the desert, (TA,) abounding with Jinn: (K:) AO says, We have not found any one who knows where this country is, or when it existed. (TA.) Hence it is applied as an epithet to anything wondered at, or admired, for the skilfulness which it exhibits, or the excellence of its manufacture, and its strength: (S, O:) or to any work great in estimation, and fine, and delicate: (Msb:) it is both sing. and pl.; and the fem. is عَبْقَرِيَّةٌ: you say, ثِيَابٌ عَبْقَرِيَّةٌ [<i>Cloths,</i> or <i>garments, of admirable manufacture</i>]: (S, O:) [or such are so called in relation to a certain town; for] ↓ <br>\
+      عَبْقَرٌ is also a town (M, K) in El-Yemen, (M,) or, accord. to the Moajam, in El-Jezeereh, in which cloths or garments, and carpets, are variegated, or figured, (TA,) and of which the cloths or garments are of the utmost beauty. (K.) ―         -b2-  And <i>A kind of carpets,</i> (S, O, K,) <i>variously dyed and figured:</i> upon such the Prophet used to prostrate himself when he prayed: (S, O:) as also ↓ <br>\
+      عَبَاقِرِىٌّ: (K:) and some read عَبَاقِرِىّ in the Kur lv. 76: (S, O:) as pl. of عَبْقَرِىٌّ: (TA:) but this is a mistake; for a rel. n. has no such pl; (S;) unless it be from a sing. n. of a pl. form, like حَضَاجِرِىٌّ from  <br>\
+                  حَضَاجِرُ, and so be a rel. n. from عَبَاقِرُ: so say the skilful grammarians, Kh and Sb and Ks: Az mentions the reading ↓ <br>\
+      عَبَاقَرِىّ, with fet-h to the ق; as though it were a rel. n. from عَبَاقَرٌ: Fr says that عَبْقَرِىٌّ signifies <i>thick</i> [<i>carpets of the kind called</i>] طَنَافِسَ: and also <i>silk brocade;</i> syn. دِيبَاجٌ: Kt, that it signifies <i>what are called</i> <br>\
+                  زَرَابِىّ: Sa&#39;eed Ibn-Jubeyr, that it signifies <i>excellent</i> <br>\
+                  زرابىّ: (TA:) the n. un. is عَبْقَرِيَّةٌ. (Fr, TA.) ―         -b3-  Also <i>Good,</i> or <i>excellent;</i> applied to an animal, and to a jewel. (TA.) ―         -b4-  <i>Perfect,</i> or <i>complete;</i> applied to anything. (K.) ―         -b5-  A <i>pure, unmixed,</i> lie; (O, K, * TA;) <i>that has no truth mixed with it.</i> (O, TA.) ―         -b6-  <i>A lord,</i> or <i>chief,</i> (O, K,) of men: (TA:) or (TA, in the K, “ and ”) <i>one who has none above him:</i> and <i>strong.</i> (K.) You say of a strong man, هٰذَا عَبْقَرِىُّ قَوْمٍ: (S, O:) or this means <i>This is a chief,</i> or <i>lord, of a people:</i> (As, on the authority of &#39;Amr Ibn-El-&#39;Alà:) and in a trad. it is said that the Prophet related a dream, mentioning &#39;Omar, and said, فَلَمْ اَرَ عَبْقَرِيًّا يَفْرِى فَرِيَّهُ [<i>And I have not seen a chief of a people do his wonderful deeds</i>]. (S, * O, TA.) ―         -b7-  It is also applied as an epithet denoting superlativeness [of any quality]. (TA.) They even said ظُلْمٌ عَبْقَرِىٌّ [<i>Excessive,</i> or <i>extreme, wrongdoing</i>]. (S, O.)    </entryFree> <br>\
+<b>عَبَاقِرِىٌّ</b>               1     <br>\
+                     عَبَاقِرِىٌّ<br>\
+                     ذ<br>\
+                   and عَبَاقَرِىٌّ: see the preceding paragraph.   </entryFree> <br>\
+' } );

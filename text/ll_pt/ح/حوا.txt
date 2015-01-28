@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>حوا</em>            1                  حوا<br>\
+<b>حَا=ءٌ</b>               1     <br>\
+                     حَا=ءٌ<br>\
+                     حذا=ء<br>\
+                  <i>The name of the letter</i> <br>\
+                  ح, q. v.; as also حَا: (S and K and TA in باب الالف اللّينة:) it is called حا in a case of pause, and حَا=ءٌ when made a noun: and when it is not called a letter, [i. e. when one does not prefix to it the word حَرْف,] it is [properly] fem.: its dim. is حُيَيَّةٌ, meaning <i>a</i> <br>\
+                  ح <br>\
+                  <i>written small,</i> or <i>indistinct:</i> (Lth, TA ubi suprà:) and its pl. is اَحْوَا=ءٌ and اَحْيَا=ءٌ and حَاا=تٌ. (TA ubi suprà.)    </entryFree> <br>\
+<b>حَايِىٌّ</b>               1     <br>\
+                     حَايِىٌّ<br>\
+                     ذ<br>\
+                   and حَاوِىٌّ and حَوِىٌّ [a mistranscription for حَيَوِىٌّ, like بَيَوِىٌّ and تَيَوِىٌّ,] rel. ns. of حَا=ءٌ and حَا the names of the letter ح. (B, TA ubi suprà.)   </entryFree> <br>\
+' } );

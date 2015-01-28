@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>نسل</em>            1                  نسل<br>\
+<b>اِنْتَسَلَ</b>               1     <br>\
+                     اِنْتَسَلَ<br>\
+                     ذ<br>\
+                   said of camels&#39; fur: see عَصِيمٌ.    </entryFree> <br>\
+<b>نَسْلًَا وَاَسْلًا</b>               1     <br>\
+                     نَسْلًَا وَاَسْلًا<br>\
+                     ذ<br>\
+                   is a form of imprecation against a man, like تَعْسًا وَنَكْسًا. (M, in art. اسل.)    </entryFree> <br>\
+<b>نَسْلٌ</b>               1     <br>\
+                     نَسْلٌ<br>\
+                     ذ<br>\
+                  <i>Progeny,</i> whether of man or beast. (The Lexicons passim.)   </entryFree> <br>\
+' } );

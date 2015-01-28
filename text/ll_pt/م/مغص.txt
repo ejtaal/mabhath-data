@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>مغص</em>            1                  مغص<br>\
+                     مَغڤصَ<br>\
+                   [مَغَصَهُ, inf. n. مَغْصٌ, <i>He pierced him</i> with a spear or the like: for] مَغْصٌ is syn. with طَعْنٌ; as also مَغْسٌ. (TA.)       -A2-  [Hence, perhaps,] مُغِصَ, (ISk, S, Msb, K,) [of which مَغْصٌ, which see below, is app. the inf. n.] and مَغِصَ, (A, Msb, [in a copy of the former of which, instead of the former verb, I find مَغُصَ, but this is probably a mistranscription,]) inf. n. مَغَصٌ; (Msb;) <i>He</i> (a man, S, Msb,) <i>had what is termed</i> <br>\
+                  مَغْصٌ <br>\
+                  <i>as explained below;</i> (ISk, S, A, Msb, K;) as also مُغِسَ and مَغِسَ: (IKoot, Msb:) and مَعِصَ: (TA:) [it is most commonly with غ and ص; but Z says, that] the original word is with س, from مَغَسَهُ signifying طَعَنَهُ. (A.)    </entryFree> <br>\
+<b>تمغّص بَطْنِى</b>               1     <br>\
+                     تمغّص بَطْنِى<br>\
+                     ذ<br>\
+                  , and تَمَغَّصَنِى, <i>My belly pained me;</i> as also تمغّس, with س. (TA.) [In the CK, we find تمغّص بَطْنَهُ, explained by اَوْجَعَهُ, as though signifying <i>It pained his belly:</i> but بَطْنَهُ is doubtless a mistake for بَطْنُهُ. In MS. copies of the K, I do not find this verb.] ―         -b2-  And [hence,] تَمَغَّصَنِى الشَّىْءُ (assumed tropical:)  <i>The thing hurt me:</i> and in like manner, تَمَغَّصْتُ مِنْهُ (assumed tropical:)  [<i>I was hurt by it</i>]. (TA.)    </entryFree> <br>\
+<b>مَغْصٌ</b>               1     <br>\
+                     مَغْصٌ<br>\
+                     ذ<br>\
+                   (ISk, S, A, Msb, K) and مَغَصٌ; (IDr, A, K;) but the former is the chaste word; (A;) or the latter, accord. to ISk, is vulgar, (S,) and Az pronounces him right in saying so, (Msb,) and Yaakoob disallows the latter word. wherefore the author of the K is wrong in imputing error, in this matter, [if error it be,] to J; (TA;) [<i>Colic;</i> or] <i>pain in the belly,</i> (A, K,) <i>and griping</i> (تَقْطِيعٌ) <i>in the bowels;</i> (A;) or <i>griping</i> (تقطيع) <i>in the bowels, and pain</i> [<i>therein</i>]; (S;) or <i>pain in the bowels, and contortion</i> [<i>therein</i>]; (Msb;) as also مَغْسٌ. (Yaakoob, TA.)    </entryFree> <br>\
+<b>مَمْغُوصٌ</b>               1     <br>\
+                     مَمْغُوصٌ<br>\
+                     ذ<br>\
+                   A man (S, Msb) <i>having what is termed</i> <br>\
+                  مَغْصٌ <br>\
+                  <i>as explained above.</i> (S, Msb, K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'وبخ2<br>\
+وبّخهُ, inf. n. تَوْبِيخٌ, He reproved him, or<br>\
+lamed him, (L, Msb, K,) بِسُوْءِ فِعْلِهِ for his evil<br>\
+action or conduct: (L:) reproved or blamed<br>\
+him, or did so severely, or with the utmost<br>\
+severity; and threatened him: (S, L, K:) reproached or upbraided him. (El-Fárábee, Msb.)<br>\
+ابّخهُ is a dial. form of the same: (IAar:) or<br>\
+its hemzeh is a substitute for the و. (ISd.)<br>\
+وَبْخَةٌ A burning reproof: (L:) as also ومْخَةٌ;<br>\
+(IAar;) in which the ب is changed into م<br>\
+because of the nearness of their places of utterance. (AM.)<br>\
+' } );

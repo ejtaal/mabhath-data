@@ -1,0 +1,153 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ارض&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ارض<br>\
+&lt;entryFree id=&quot;n575&quot; key=&quot;اَرُضَتِ الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرُضَتِ الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K, [in two copies of the S اُرِضَت, but this is evidently a mistake,]) with damm, (S,) like كَرُمَت, (K,) inf. n. اَرَاضَةٌ, (S, M, K,) &lt;i&gt;The land became thriving,&lt;/i&gt; or &lt;i&gt;productive;&lt;/i&gt; (S, K;) as also ↓ <br>\
+      استارضت; (TA;) &lt;i&gt;it became pleasing to the eye, and disposed by nature to yield good produce;&lt;/i&gt; (K, TA;) &lt;i&gt;it became fruitful, and in good condition;&lt;/i&gt; (M;) &lt;i&gt;it collected moisture, and became luxuriant with herbage; it became soft to tread upon, pleasant to sit upon, productive, and good in its herbage&lt;/i&gt; or &lt;i&gt;vegetation:&lt;/i&gt; (AHn:) and اَرَضَتِ الاَرْضُ, (K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرُضَ<br>\
+                  &lt;/form&gt;, (TA,) &lt;i&gt;the land became abundant in herbage,&lt;/i&gt; or &lt;i&gt;pasture.&lt;/i&gt; (K.) ―         -b2-  اَرُضَ, inf. n. اَرَاضَةٌ, is also said of a man, meaning (assumed tropical:)  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, lowly,&lt;/i&gt; or &lt;i&gt;submissive, and naturally disposed to good,&lt;/i&gt; or &lt;i&gt;to do good.&lt;/i&gt; (L, TA,)       -A2-  اَرَضَ الاَرْضَ <br>\
+                  &lt;i&gt;He found the land to be abundant in herbage,&lt;/i&gt; or &lt;i&gt;pasture.&lt;/i&gt; (K.)       -A3-  اُرِضَتِ الخَشَبَةُ, (S, A, Msb, TA,) in the pass. form, (Msb,) like عُنِى, (TA,) aor. تُوْرَضُ, (S, TA,) inf. n. اَرْضٌ, (S, A, TA,) with sukoon [to the ر]; (S, TA;) and some add اَرِضَت, aor. تَاْرَضُ, inf. n. as above; (TA; [and so in a copy of the S in the place of what here precedes;]) &lt;i&gt;The piece of wood was,&lt;/i&gt; or &lt;i&gt;became, eaten by the&lt;/i&gt; <br>\
+                  اَرَضَة, q. v. (S, A, Msb, TA.)       -A4-  اَرِضَتِ القَرْحَةٌ, (S, M. K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرَضَ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. اَرَضٌ, (S, M,) &lt;i&gt;The ulcer,&lt;/i&gt; or &lt;i&gt;sore, became blistered,&lt;/i&gt; (S, M, K,) &lt;i&gt;and wide,&lt;/i&gt; (M,) &lt;i&gt;and corrupt&lt;/i&gt; (S, M, K) &lt;i&gt;by reason of thick purulent matter,&lt;/i&gt; (S,) &lt;i&gt;and dissundered;&lt;/i&gt; (M;) so says As; (TA;) as also ↓ <br>\
+      استارضت. (Sgh, K.)       -A5-  اُرِضَ, like عُنِىَ, (K,) inf. n. اَرْضٌ; (TA;) or اَرِضَ, like سَمِعَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرَضَ<br>\
+                  &lt;/form&gt;, inf. n. اَرْضٌ; (L;) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, affected with&lt;/i&gt; <br>\
+                  زُكَام [or &lt;i&gt;rheum&lt;/i&gt;]. (L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n576&quot; key=&quot;ارّض&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ارّض<br>\
+                     ارض<br>\
+                     ارضى<br>\
+                     ارض<br>\
+                     راض<br>\
+                     رض<br>\
+                     رضى<br>\
+                     رضي<br>\
+                  &lt;/form&gt;, (TK,) inf. n. تَاْرِيضٌ, (K,) &lt;i&gt;He depastured the herbage of the earth,&lt;/i&gt; or &lt;i&gt;land:&lt;/i&gt; and &lt;i&gt;he sought after it:&lt;/i&gt; (K:) or, accord. to some, تَاْرِيضٌ denotes this latter signification with respect to a place of alighting, or abiding: (TA:) and you say [also], المَنْزِلَ ↓ <br>\
+      تارّض <br>\
+                  &lt;i&gt;he sought after, and chose, the place for alighting,&lt;/i&gt; or &lt;i&gt;abiding:&lt;/i&gt; (M, TA:) and لِلْمَنْزِلِ ↓ <br>\
+      تَرَكْتُ الحَىَّ يَتَاَرَّضُونَ <br>\
+                  &lt;i&gt;I left the tribe seeking after a tract of country in which to alight,&lt;/i&gt; or &lt;i&gt;abide.&lt;/i&gt; (TA.)       -A2-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, rendered heavy;&lt;/i&gt; [app. meaning &lt;i&gt;slow,&lt;/i&gt; or &lt;i&gt;sluggish;&lt;/i&gt; see 5;] syn. ثَقَّلَ. (Ibn-&#39;Abbád, K.) ―         -b2-  &lt;i&gt;He made to tarry; to tarry and wait,&lt;/i&gt; or &lt;i&gt;expect;&lt;/i&gt; or &lt;i&gt;to be patient, and tarry, and wait,&lt;/i&gt; or &lt;i&gt;expect.&lt;/i&gt; (Ibn- &#39;Abbád, K.) &lt;pb n=&quot;48&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n577&quot; key=&quot;ا=رض&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=رض<br>\
+                     ا=رض<br>\
+                  &lt;/form&gt;, inf. n. اـِيْرَاضٌ: see 5.       -A2-  مَا ا=رَضُ هذَا <br>\
+                  المَكَانَ <br>\
+                  &lt;i&gt;How abundant is the herbage&lt;/i&gt; (عُشْب) &lt;i&gt;of this place!&lt;/i&gt; or, as some say, مَا ا=رَضَ هذِهِ الاَرْضَ <br>\
+                  &lt;i&gt;How level,&lt;/i&gt; or &lt;i&gt;soft, and productive, and good, is this land!&lt;/i&gt; (Lh, AHn.)       -A3-  ا=رَضَهُ, (S, K, [in the CK, incorrectly, اَرَضَهُ,]) inf. n. as above, (S,) &lt;i&gt;He&lt;/i&gt; (God) &lt;i&gt;caused him to be affected with&lt;/i&gt; <br>\
+                  زُكَام [or &lt;i&gt;rheum&lt;/i&gt;]. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n578&quot; key=&quot;تارّض&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تارّض<br>\
+                     تارض<br>\
+                  &lt;i&gt;It&lt;/i&gt; (herbage) &lt;i&gt;became in such a state that it might be cut.&lt;/i&gt; (S, K.)       -A2-  &lt;i&gt;He clave,&lt;/i&gt; or &lt;i&gt;kept, to the ground, not quitting it:&lt;/i&gt; (A:) and ↓ <br>\
+      ا=رض, inf. n. اـِيرَاضٌ, &lt;i&gt;he remained upon the ground:&lt;/i&gt; and تارّض بِالمَكَانِ <br>\
+                  &lt;i&gt;he remained fixed in the place, not quitting it:&lt;/i&gt; or &lt;i&gt;he waited,&lt;/i&gt; or &lt;i&gt;expected, and stood upon the ground:&lt;/i&gt; and, as also بالمكان ↓ <br>\
+      استارض, &lt;i&gt;he remained, and tarried,&lt;/i&gt; or &lt;i&gt;tarried in expectation, in the place:&lt;/i&gt; or &lt;i&gt;he remained fixed therein:&lt;/i&gt; (TA:) and تارّض alone, &lt;i&gt;he tarried, loitered, stayed, waited,&lt;/i&gt; or &lt;i&gt;paused in expectation:&lt;/i&gt; (S, TA:) and &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, heavy, slow,&lt;/i&gt; or &lt;i&gt;sluggish, inclining,&lt;/i&gt; or &lt;i&gt;propending, to the ground;&lt;/i&gt; (S, K;) [as also ↓ <br>\
+      استارض, accord. to IB&#39;s explanation of its act. part. n.] You say, فُلَانٌ اـِنْ رَاَى <br>\
+                  مَطْعَمًا تَاَرَّضَ وَاـِنْ اَصَابَ مَطْعَمًا اَعْرَضَ [&lt;i&gt;Such a one, if he see food, cleaves,&lt;/i&gt; or &lt;i&gt;keeps, to the ground, not quitting it; and if he obtain food, turns away:&lt;/i&gt; or تارّض may here be rendered agreeably with the explanation next following]. (A, TA.) ―         -b2-  جَا=ءِ فُلَانٌ يَتَاَرَّضُ لِى (S, K, * TA) &lt;i&gt;Such a one came asking,&lt;/i&gt; or &lt;i&gt;petitioning, for a thing that he wanted, to me;&lt;/i&gt; syn. يَتَصَدَّى, and يَتَعَرَّضُ; (S, K, TA;) and تَضَرَّعَ is also a syn. of تَاَرَّضَ, used in this manner. (TA.)       -A3-  See also 2, in two places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَاْرَضَ<br>\
+                  &lt;/form&gt; see 5, in two places. ―         -b2-  استارض السَّحَابُ <br>\
+                  &lt;i&gt;The clouds expanded,&lt;/i&gt; or &lt;i&gt;spread:&lt;/i&gt; or, as some say, &lt;i&gt;became fixed,&lt;/i&gt; or &lt;i&gt;stationary.&lt;/i&gt; (M, TA.)       -A2-  See also 1, first signification:       -A3-  and see 1 again, last signification but one.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n579&quot; key=&quot;الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;The earth;&lt;/i&gt;] &lt;i&gt;that whereon are mankind:&lt;/i&gt; (TA:) [and &lt;i&gt;earth, as opposed to heaven:&lt;/i&gt; and &lt;i&gt;the ground,&lt;/i&gt; as meaning &lt;i&gt;the surface of the earth, on which we tread and sit and lie;&lt;/i&gt; and &lt;i&gt;the floor:&lt;/i&gt; without ال signifying &lt;i&gt;a land,&lt;/i&gt; or &lt;i&gt;country:&lt;/i&gt; and &lt;i&gt;a piece of land&lt;/i&gt; or &lt;i&gt;ground:&lt;/i&gt; and &lt;i&gt;land,&lt;/i&gt; or &lt;i&gt;soil,&lt;/i&gt; or &lt;i&gt;ground, considered in relation to its quality:&lt;/i&gt;] it is fem.: (S, A, Msb, K:) and is a coll. gen. n.; (S, A, K;) of which the n. un. should be اَرْضَةٌ, but this they did not say: (S:) or a pl. having no sing.; (A, K;) for اَرْضَةٌ has not been heard: (K:) its pl. is اَرَضَاتٌ, (S, K,) in [some of] the copies of the K اَرْضَاتٌ, (TA,) for they sometimes form the pl. of a word which has not the fem. ة with ا and ت, as in the instance of عُرُسَاتٌ; (S;) and اَرَضُونَ, [which is more common,] (AZ, AHn, S, Mgh, Msb, K,) with fet-h to the ر, (AZ, AHn, Mgh, Msb,) and with و and ن, though a fem. has not its pl. formed [regularly] with و and ن unless it is of the defective kind, like ثُبَةٌ and ظُبَةٌ, but they have made the و and ن [in this instance] a substitute for the ا and ت which they have elided [from اَرَضَاتٌ], and have left the fet-hah of the ر as it was; (S;) but they also said اَرْضُونَ, (AZ, AHn, S,) sometimes, making the ر quiescent; (S;) and اُرُوضٌ (AZ, AHn, Msb, K) is sometimes used as a pl., as in the saying مَا اَكْثَرَ اُرُوضَ بَنِى <br>\
+                  فُلَانٍ [&lt;i&gt;How many are the lands of the sons of such a one!&lt;/i&gt;]; (TA;) and another [and very common] pl. is [اَرَاضٍ, with the article written] الاَرَاضِى, contr. to rule, (S, Msb, K,) as though they had formed a pl. from ا=رُضٌ; (S;) thus written in all the copies of the S; [accord. to SM; but in one copy of the S, I find كَاَنَّهُمْ جَمَعُوا ااراضًا; and in another, ارضًا;] and in one copy [is added], “ thus it is found in his [J&#39;s] handwriting; ” but IB says that correctly he should have said اَرْضَى, like اَرْطَى; for as to ا=رُضٌ, its regular pl. would be اَوَارِضُ; and [SM says] I have found it observed in a marginal note to the S that the pl. of ا=رُضٌ would be اَا=رِضُ, like as اَكَالِبُ is pl. of اَكْلُبٌ; and wherefore did he not say that الاراضى is a pl. of an unused sing., like لَيَالٍ and اَهَالٍ, so that it is as though it were pl. of اَرْضَاةٌ, like as لَيَالٍ is pl. of لَيْلَاةٌ? yet if any one should propose the plea that it may be formed by transposition from اَا=رِضُ, he would not say what is improbable; its measure being in this case اَعَالِفُ; the word being اَرَاضِيُ, and the ء being changed into ى: (TA:) accord. to Abu-l-Khattáb, (S,) ا=رَاضٌ is also a pl. of اَرْضٌ, (S, K,) like as ا=هَالٌ is a pl. of اَهْلٌ; (S;) but IB says that, in the opinion of the critics, the truth with respect to what is related on the authority of Abu-l-Khattáb is, that from اَرْضٌ and اَهْلٌ are formed اَرَاضٍ and اَهَالٍ, as though they were pls. of اَرْضَاةٌ and اَهْلَاةٌ; like as they said لَيْلَةٌ and لَيَال, as though this were pl. of لَيْلَاةٌ. (TA.) It is said in proverbs, اَجْمَعُ مِنَ <br>\
+                  الاَرْضِ [&lt;i&gt;More comprehensive than the earth&lt;/i&gt;]: (TA:) and ا=مَنُ مِنَ الاَرْضِ [&lt;i&gt;More trustworthy than the earth,&lt;/i&gt; in which treasures are securely buried]: and اَشَدُّ مِنَ الاَرْضِ [&lt;i&gt;Harder than the earth,&lt;/i&gt; or &lt;i&gt;ground&lt;/i&gt;]: (A, TA:) and اَذَلُّ مِنَ الاَرْضِ [&lt;i&gt;More vile,&lt;/i&gt; or &lt;i&gt;more submissive, than the earth,&lt;/i&gt; or &lt;i&gt;ground&lt;/i&gt;]. (TA.) And you say, مَنْ اَطَاعَنِى كُنْتُ <br>\
+                  لَهُ اَرْضَا (tropical:)  [&lt;i&gt;Whoso obeyeth me, I will be to him&lt;/i&gt; as &lt;i&gt;ground&lt;/i&gt; whereon one treads]; denoting submissiveness. (A, TA.) And فُلَانٌ اـِنٌ ضُرِبَ فَاَرْضٌ (tropical:)  [&lt;i&gt;Such one, if he be beaten, is&lt;/i&gt; like &lt;i&gt;ground&lt;/i&gt;]; i. e. he cares not for beating. (A, TA.) One says also, لَا اَرْضَ <br>\
+                  لَكَ [&lt;i&gt;Mayest thou have no land,&lt;/i&gt; or &lt;i&gt;country!&lt;/i&gt; or &lt;i&gt;thou hast no land,&lt;/i&gt; or &lt;i&gt;country&lt;/i&gt;]; like as one says, لَا اُمَّ لَكَ. (S, K,) ―         -b2-  [And hence,] هُوَ ابْنُ اَرْضٍ <br>\
+                  &lt;i&gt;He is a stranger,&lt;/i&gt; (A, K, TA,) &lt;i&gt;of whom neither father nor mother is known.&lt;/i&gt; (TA.) ―         -b3-  اِبْنُ الاَرْضِ [with the art. ال prefixed to the latter word] is &lt;i&gt;A certain plant,&lt;/i&gt; (AHn, K,) &lt;i&gt;which comes forth upon the summits of the&lt;/i&gt; [&lt;i&gt;hills called&lt;/i&gt;] ا=كَام, &lt;i&gt;having a stem&lt;/i&gt; (اَصْل), &lt;i&gt;but not growing tall,&lt;/i&gt; (AHn,) &lt;i&gt;which resembles hair, and is eaten,&lt;/i&gt; (AHn, K,) &lt;i&gt;and quickly dries up;&lt;/i&gt; (AHn;) &lt;i&gt;a species of&lt;/i&gt; <br>\
+                  بَقْل, as also بِنْتُ الاَرْضِ: (S in art. بنى:) and بَنَاتُ الاَرْضِ <br>\
+                  &lt;i&gt;plants:&lt;/i&gt; (M in art. بسر:) and &lt;i&gt;the places which are concealed from the pastor.&lt;/i&gt; (S in that art.) Also &lt;i&gt;The pool that is left by a torrent:&lt;/i&gt; (T in art. بنى:) and بَنَاتُ الاَرْضِ <br>\
+                  &lt;i&gt;pools in which are remains of water:&lt;/i&gt; (IAar in TA art. بسر:) and &lt;i&gt;rivulets.&lt;/i&gt; (T in art. بنى.) ―         -b4-  اَرْضٌ is also used to signify (assumed tropical:)  &lt;i&gt;A carpet;&lt;/i&gt; or &lt;i&gt;anything that is spread:&lt;/i&gt; and in this sense, in poetry, it is sometimes made masc. (Msb.) ―         -b5-  And (assumed tropical:)  &lt;i&gt;Anything that is low.&lt;/i&gt; (S, K.) And (tropical:)  The &lt;i&gt;lower,&lt;/i&gt; or &lt;i&gt;lowest, part of the legs&lt;/i&gt; of a horse or the like: (S, K:) or the &lt;i&gt;legs&lt;/i&gt; of a camel or of a horse or the like: and the &lt;i&gt;part that is next to the ground thereof.&lt;/i&gt; (TA.) You say بَعِيرٌ شَدِيدُ الاَرْضِ (tropical:)  &lt;i&gt;A camel strong in the legs.&lt;/i&gt; (TA.) And فَرَسٌ بَعِيدٌ مَا بَيْمَ اَرْضِهِ وَسَمَايِهِ (tropical:)  &lt;i&gt;A horse that is large and tall.&lt;/i&gt; (A, TA.) ―         -b6-  Also, of a man, (tropical:)  The &lt;i&gt;knees and what is beneath,&lt;/i&gt; or &lt;i&gt;below,&lt;/i&gt; (lit. &lt;i&gt;after,&lt;/i&gt;) &lt;i&gt;them.&lt;/i&gt; (TA.) ―         -b7-  And of a sandal, (assumed tropical:)  [The &lt;i&gt;lower surface of the sole;&lt;/i&gt;] the &lt;i&gt;part that touches the ground.&lt;/i&gt; (TA.)       -A2-  &lt;i&gt;A febrile shivering; a tremor:&lt;/i&gt; (S, K:) or &lt;i&gt;vertigo:&lt;/i&gt; or it signifies also &lt;i&gt;vertigo arising from a relaxed state, and occasioning a defluxion from the nose and eyes.&lt;/i&gt; (TA.) I&#39;Ab is related to have said, on the occasion of an earthquake, اَزُلْزِلَتِ الاَرْضُ اَمْ بِى اَرْضٌ, (S,) i. e. [&lt;i&gt;Hath the earth been made to quake, or is there in me&lt;/i&gt;] &lt;i&gt;a tremor?&lt;/i&gt; or &lt;i&gt;a vertigo?&lt;/i&gt; (TA.) [اَهْلُ الاَرْضِ signifies &lt;i&gt;A certain class of the jinn,&lt;/i&gt; or &lt;i&gt;genii;&lt;/i&gt; by whom human beings are believed to be possessed, and affected by an involuntary tremor; whence it seems that this appellation may perhaps be from اَرْضٌ as signifying “ a tremor. ” See مَاْرُوضٌ: and see خَبَلٌ, as explained in the S.] ―         -b2-  Also &lt;i&gt;Rheum;&lt;/i&gt; syn. زُكَامٌ: (S, K:) in this sense masc.; or, accord. to Kr, fem., on the authority of Ibn-Ahmar. (TA.)       -A3-  See also مَاْرُوضٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n580&quot; key=&quot;اَرَضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرَضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرَضَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n581&quot; key=&quot;اُرْضَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُرْضَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n582&quot; key=&quot;اـِرْضَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرْضَةٌ<br>\
+                     ارض<br>\
+                     ارضى<br>\
+                     ارضه<br>\
+                     ارضة<br>\
+                     ارضه<br>\
+                     ارضة<br>\
+                     راض<br>\
+                     رض<br>\
+                     رضى<br>\
+                     رضي<br>\
+                  &lt;/form&gt; of herbage, &lt;i&gt;What suffices the camels,&lt;/i&gt; or &lt;i&gt;other pasturing animals, for a year:&lt;/i&gt; (IAar, AHn, M:) or &lt;i&gt;abundant herbage&lt;/i&gt; or &lt;i&gt;pasture;&lt;/i&gt; as also ↓ <br>\
+      اُرْضَةٌ and ↓ <br>\
+      اـِرَضَةٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n583&quot; key=&quot;اَرَضَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرَضَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [The &lt;i&gt;wood-fretter;&lt;/i&gt;] &lt;i&gt;a certain insect that eats wood,&lt;/i&gt; (S A, Msb, K,) &lt;i&gt;well known;&lt;/i&gt; (A, K;) it is &lt;i&gt;a white worm, resembling the ant, appearing in the days of the&lt;/i&gt; [&lt;i&gt;season called&lt;/i&gt;] رَبِيع: (TA:) there are two kinds: &lt;i&gt;one kind is small, like the large of the&lt;/i&gt; <br>\
+                  ذَرّ [or &lt;i&gt;grubs of ants&lt;/i&gt;]; &lt;i&gt;and this is the bane of wood in particular:&lt;/i&gt; (AHn, TA:) or &lt;i&gt;this kind is the bane of wood and of other things, and is a white worm with a black head, not having wings, and it penetrates into the earth, and builds for itself a habitation of clay,&lt;/i&gt; or &lt;i&gt;soil; and this is said to be that which ate the staff of Solomon&lt;/i&gt; [as is related in the Kur xxxiv. 13, where it is called دَابَّةُ الاَرْضِ, as is said in the A]: (TA:) the other kind [&lt;i&gt;is the termite,&lt;/i&gt; or &lt;i&gt;white ant; termes&lt;/i&gt; <br>\
+                  &lt;i&gt;fatale&lt;/i&gt; of Linn.; called by Forskål (in his Descr. Animalium &amp;amp;c., p. 96,) &lt;i&gt;termes arda, destructor; and this&lt;/i&gt;] &lt;i&gt;is like a large common ant, having wings; it is the bane of everything that is of wood, and of plants; except that it does not attack what is moist, or succulent; and it has legs:&lt;/i&gt; (AHn, TA:) &lt;pb n=&quot;49&quot; TEIform=&quot;pb&quot;/&gt; the pl. is ↓ <br>\
+      اَرَضٌ (AHn, Msb, TA) and اَرَضَاتٌ; (Msb;) or, as some [more properly] say, اَرَضٌ is a quasi-pl. [or coll. gen.] n. (AHn, TA.) It is said in a prov., ا=كَلُ مِنَ الاَرَضَةِ [&lt;i&gt;More consuming than the wood-fretter,&lt;/i&gt; or &lt;i&gt;the termite&lt;/i&gt;]. (TA.) And in another, اَفْسَدُ مِنَ الاَرَضَةِ [&lt;i&gt;More marring,&lt;/i&gt; or &lt;i&gt;injuring,&lt;/i&gt; or &lt;i&gt;destructive, than the wood-fretter,&lt;/i&gt; or &lt;i&gt;the termite.&lt;/i&gt;] (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n584&quot; key=&quot;اَرِضَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِضَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرِيضٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n585&quot; key=&quot;اـِرَضَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرَضَةٌ<br>\
+                     ارض<br>\
+                     ارضى<br>\
+                     ارضه<br>\
+                     ارضة<br>\
+                     ارضه<br>\
+                     ارضة<br>\
+                     راض<br>\
+                     رض<br>\
+                     رضى<br>\
+                     رضي<br>\
+                  &lt;/form&gt;: see اـِرْضَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n586&quot; key=&quot;اَرُوضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرُوضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَريضٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n587&quot; key=&quot;اَرِيضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِيضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; part. n. of اَرُضَ. ―         -b2-  You say اَرْضٌ اَرِيضَةٌ (S, A, K) and ↓ <br>\
+      اَرِضَةٌ (TA) &lt;i&gt;Land that is thriving,&lt;/i&gt; or &lt;i&gt;productive;&lt;/i&gt; (S, A, K;) &lt;i&gt;pleasing to the eye;&lt;/i&gt; (AA, S, A, K;) &lt;i&gt;and disposed by nature to yield good produce:&lt;/i&gt; (A, K, TA:) or &lt;i&gt;fruitful; increasing in plants&lt;/i&gt; or &lt;i&gt;herbage:&lt;/i&gt; (IAar:) or &lt;i&gt;level,&lt;/i&gt; or &lt;i&gt;soft:&lt;/i&gt; (ISh:) or &lt;i&gt;that collects moisture, and becomes luxuriant with herbage; that is soft to tread upon, pleasant to sit upon, productive, and good in its herbage&lt;/i&gt; or &lt;i&gt;vegetation:&lt;/i&gt; (AHn:) it also signifies &lt;i&gt;a wide land;&lt;/i&gt; syn. عَرِيضَةٌ: (TA:) and اـِرَاضٌٍ [as pl. of اَرِيضٌ] is syn. with عِرَاضٌ and وِسَاع; (AA, K, TA;) as though the ء were a substitute for the ع. (TA.) ―         -b3-  اَرِيضٌ is also an imitative sequent to عَرِيضٌ; (S, K;) as in the phrase اَرِيضٌ شَىْءٌ عَرِيضٌ [&lt;i&gt;A very wide thing&lt;/i&gt;]: (S:) or it signifies &lt;i&gt;fat,&lt;/i&gt; as an epithet: (K:) some use it in this sense without عرِيض, applied to a kid. (S.) And you say, اِمْرَاَةٌ عَرِيضَةٌ اَرِيضَةٌ [&lt;i&gt;A very wide,&lt;/i&gt; or &lt;i&gt;wide and fat, woman;&lt;/i&gt; or, as seems to be indicated in the TA in art. عرَض, &lt;i&gt;prolific and perfect&lt;/i&gt;]; and in like manner, ↓ <br>\
+      مُوْرِضَةٌ. (TA.) You say also رَجُلٌ اَرِيضٌ, (S,) and لِلْخَيْرِ ↓ <br>\
+      اَرُوضٌ, (A,) &lt;i&gt;A man lowly,&lt;/i&gt; or &lt;i&gt;submissive;&lt;/i&gt; (S;) &lt;i&gt;naturally disposed to good,&lt;/i&gt; or &lt;i&gt;to do good.&lt;/i&gt; (S, A.) And نَفْسٌ وَاسِعٌ اَرِيضٌ: see رَابِطٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n588&quot; key=&quot;هُوَا=رَضُهُمْ بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُوَا=رَضُهُمْ بِهِ<br>\
+                     هوا=رضهم به<br>\
+                     هوا=رضهم بة<br>\
+                  &lt;i&gt;He is the most adapted, meet, suited, fitted,&lt;/i&gt; or &lt;i&gt;fit, of them, for it;&lt;/i&gt; or &lt;i&gt;most worthy of them of it.&lt;/i&gt; (K.) And هُوَا=رَضُهُمْ اَنْ <br>\
+                  يَفْعَلَ ذلِكَ <br>\
+                  &lt;i&gt;He is the most adapted,&lt;/i&gt; &amp;amp;c., or &lt;i&gt;most worthy, of them to do that.&lt;/i&gt; (As, S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n589&quot; key=&quot;مُوْرِضَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْرِضَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرِيضٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n590&quot; key=&quot;مَاْرُوضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْرُوضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Wood &lt;i&gt;eaten by the&lt;/i&gt; <br>\
+                  اَرَضَة [or &lt;i&gt;woodfretter,&lt;/i&gt; or &lt;i&gt;termite,&lt;/i&gt; but generally meaning the former]; (S, A, Msb, K;) as also ↓ <br>\
+      اَرْضٌ. (TA.)       -A2-  A person &lt;i&gt;affected with&lt;/i&gt; <br>\
+                  خَبَل [q. v.] &lt;i&gt;from the jinn,&lt;/i&gt; or &lt;i&gt;genii, and&lt;/i&gt; [&lt;i&gt;what are called&lt;/i&gt;] اَهْلُ الاَرْضِ, (S, K,) i. e. (so accord. to the S and TA, but in the K “ and ”) &lt;i&gt;he who moves about his head and body involuntarily.&lt;/i&gt; (S, K.) ―         -b2-  A person &lt;i&gt;affected with&lt;/i&gt; <br>\
+                  زُكَام [or &lt;i&gt;rheum&lt;/i&gt;]: (S, K:) accord. to Sgh, [who seems, like J, not to have known اُرِضَ,] from ا=رَضَهُ; (Sgh, TA;) whereas by rule, [if from ا=رِضَهُ,] it should be مُوْرَضٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n591&quot; key=&quot;فَسِيلٌ مُسْتَاْرِضٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَسِيلٌ مُسْتَاْرِضٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and وَدِيَّةٌ مُسْتَاْرِضَةٌ, &lt;i&gt;A young palm-tree,&lt;/i&gt; and &lt;i&gt;a small young palm-tree, having a root in the ground:&lt;/i&gt; such as grows forth from the trunk of the mother-tree is called رَاكِبٌ. (S, K.) ―         -b2-  مُسْتَاْرِضٌ also signifies &lt;i&gt;Heavy, slow,&lt;/i&gt; or &lt;i&gt;sluggish, inclining,&lt;/i&gt; or &lt;i&gt;propending, to the ground.&lt;/i&gt; (IB.)   &lt;/entryFree&gt; <br>\
+' } );

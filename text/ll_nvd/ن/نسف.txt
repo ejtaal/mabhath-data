@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'نسف1<br>\
+نَسَفَتْهُ الرِّيحُ<br>\
+, (Mgh, Msb, TA,) aor.<br>\
+نَسِفَ<br>\
+, (TA,)<br>\
+inf. n. نَسْفٌ; (Msb, TA;) and ↓ اِنْتَسَفَتْهُ, (TA,)<br>\
+The wind carried it away; (TA;) i. q.<br>\
+ذَرَتْهُ<br>\
+[q. v.]; (Mgh;) namely, dust. (Mgh, Msb.)<br>\
+8<br>\
+إِنْتَسَفَ<br>\
+see 1.<br>\
+مِنْسَفٌ<br>\
+A vessel (وِعَآء) in which dates [and<br>\
+grain are shaken to remove the dust, &amp;c. (TA<br>\
+in art. نفض.)<br>\
+' } );

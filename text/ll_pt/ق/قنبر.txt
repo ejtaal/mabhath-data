@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>قنبر</em>            1                  قنبر<br>\
+<b>قُنَّابِرَى</b>               1     <br>\
+                     قُنَّابِرَى<br>\
+                     ذ<br>\
+                  <i>A certain herb,</i> or <i>leguminous plant,</i> (بَقْلَةٌ,) <i>growing forth in the beginning of the</i> <br>\
+                  رَبِيع; a Nabathæan word; <i>called in Arabic</i> <br>\
+                  تَمْلُول [correctly تُمْلُول] <i>and</i> <br>\
+                  غُمْلُول; <i>eaten by men; and called in Pers.</i> <br>\
+                  بَرْغَشْت [correctly بَرْعَسْت]; <i>called by the people of Ghazneh</i> <br>\
+                  ثِرِيْد: (O:) correctly with teshdeed to the ن, though in most of the copies of the K without teshdeed; and with kesr to the ب, as in the Tekmileh. (TA.) See غُمْلُولٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'موىمَاهَةٌ<br>\
+Small-pox: see آهَةٌ in art. اوه.<br>\
+مَاوِيَّةٌ<br>\
+A mirror; so called in relation to water,<br>\
+because of its clearness, and because images are<br>\
+seen in it as they are in clear water: the م is a<br>\
+radical letter. (T in art. اوى.)<br>\
+' } );

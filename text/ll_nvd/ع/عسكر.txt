@@ -1,0 +1,46 @@
+load_data( { book: 'll_nvd', text: 'عسكرQ.1<br>\
+عَسْكَرَ الرَّجُلُ [The man collected an army].<br>\
+(S.) ―<br>\
+-b2-  عَسْكَرْتُ الشَّىْءَ I collected the thing. (Msb.)<br>\
+―<br>\
+-b3-  عَسْكَرَ القَوْمُ The people collected themselves together, (K,) بِالْمَكَانِ in the place: (TA:) or the<br>\
+people fell into difficulty, distress, or adversity:<br>\
+(K:) or into dearth, scarcity, or drought. (TA.)<br>\
+―<br>\
+-b4-  عَسْكَرَ اللَّيْلُ The night became densely dark.<br>\
+(O, K.)<br>\
+عَسْكَرٌ, a Pers. word arabicized, (Ibn-El-Jawá-<br>\
+leekee, Mgh, Msb, K, *) from لَشْكَرٌ, (Mgh, TA,)<br>\
+An army: (S, A, O, Msb:) pl. عَسَاكِرُ. (A, O.)<br>\
+You say, العَسْكَرُ مُقْبِلٌ, and مُقْبِلُونَ, The army is<br>\
+coming, and are coming. (Th, TA.) ―<br>\
+-b2-  A collection. (A, K.) ―<br>\
+-b3-  A large number, or quantity,<br>\
+of anything: (A, K:) as, of men, and of camels<br>\
+or other property, and of horses, and of dogs.<br>\
+(TA.) ―<br>\
+-b4-  The camels or sheep or goats of a man,<br>\
+collectively. (Az, O, TA.) You say, إِنَّهُ لَقَلِيلُ<br>\
+العَسْكَرِ Verily he has few beasts. (TS, O, TA.)<br>\
+―<br>\
+-b5-  (assumed tropical:)  The darkness of night. (TA.) ―<br>\
+-b6-  عَسَاكِرُ<br>\
+الهَمِّ (assumed tropical:)  Anxieties, coming one upon another, consecutively. (O, TA.) ―<br>\
+-b7-  See also مُعَسْكَرٌ. ―<br>\
+-b8-<br>\
+[Hence,] العَسْكَرَانِ &#39;Arafeh and Minè (عَرَفَةُ وَمِنًى):<br>\
+(S, A, O, Msb, K:) because places of assembling.<br>\
+(Msb.)<br>\
+عَسْكَرَةٌ Difficulty, distress, or adversity: (S, O,<br>\
+K:) and dearth, scarcity, or drought. (K.)<br>\
+Tarafeh says,<br>\
+ظَلَّ فِى عَسْكَرَةٍ مِنْ حُبِّهَا<br>\
+i. e., He became in a state of difficulty, or distress,<br>\
+by reason of love of her. (S, O.)<br>\
+مُعَسْكَرٌ Collected together. (Msb.)<br>\
+-A2-  And The<br>\
+place where an army collects itself; (S, * Msb;) as<br>\
+also ↓ عَسْكَرٌ. (TA.)<br>\
+مُعَسْكِرٌ Collecting an army; or a collector of an<br>\
+army. (S, * Msb.)<br>\
+' } );

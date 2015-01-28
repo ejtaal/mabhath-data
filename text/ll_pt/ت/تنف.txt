@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>تنف</em>            1                  تنف<br>\
+<b>تُنَّفٌ</b>               1     <br>\
+                     تُنَّفٌ<br>\
+                     اناف<br>\
+                     ناف<br>\
+                     نف<br>\
+                     نفا<br>\
+                     نفى<br>\
+                     تنف<br>\
+                  , [a pl. of which the sing. is not mentioned,] applied to [deserts such as are termed] تَنَايِف, [pl. of تَنُوفَة,] meaning <i>Of which the extremities are far apart;</i> (Ibn-&#39;Abbád, K;) <i>wide,</i> or <i>spacious.</i> (Ibn- &#39;Abbád.)    </entryFree> <br>\
+<b>تَنُوفَةٌ</b>               1     <br>\
+                     تَنُوفَةٌ<br>\
+                     ناف<br>\
+                     تنوفه<br>\
+                     تنوفة<br>\
+                   (T, S, M, K, &amp;amp;c.) and ↓ <br>\
+      تَتُوفِيَّةٌ, (S, K,) like دَوٌّ and دَوِّيَّةٌ, the latter a rel. n. from the former, (S,) <i>A</i> [<i>desert such as is termed</i>] مَفَازَة: (T, S, K:) or <i>a land such as is termed</i> <br>\
+                  قَفْر [i. e. <i>vacant,</i> or <i>void,</i> or <i>desert, destitute of vegetable produce and of water;</i> or <i>destitute of human beings, but sometimes containing a little herbage</i> or <i>pasturage</i>]: (M:) or <i>a wide,</i> or <i>spacious, land, of which the extremities are far apart:</i> (ElMuärrij, K:) or <i>a desert</i> (فَلَاة) <i>in which is no water nor any person to cheer one by his company, though it may have,</i> or <i>produce, herbage;</i> (ElMuärrij, T;) so says ISh: (TA:) or <i>a farextending desert, in which is a collection of herbage, but such as cannot be depastured because of its remoteness:</i> (Aboo-Kheyreh, T:) pl. تَنَايِفُ. (T, M.)    </entryFree> <br>\
+<b>تَنُوفِيَّةٌ</b>               1     <br>\
+                     تَنُوفِيَّةٌ<br>\
+                     ناف<br>\
+                     تنوفيه<br>\
+                     تنوفية<br>\
+                  : see تَنُوفَةٌ: and see an ex. voce نَذْرٌ.   </entryFree> <br>\
+' } );

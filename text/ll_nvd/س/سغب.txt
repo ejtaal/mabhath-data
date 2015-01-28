@@ -1,0 +1,39 @@
+load_data( { book: 'll_nvd', text: 'سغب1<br>\
+سَغِبَ, aor.<br>\
+سَغَبَ; (S A, Msb, K;) and سَغَبَ,<br>\
+aor.<br>\
+سَغُبَ; (A, K;) inf. n. سَغَبٌ, (S, A, * Msb, K,)<br>\
+which is of the former, (Sudot;, Msb, TA,) and سَغْبٌ,<br>\
+(K,) which is of the latter, (TA,) and سُغُوبٌ (K)<br>\
+and سَغَابَةٌ and مَسْغَبَةٌ, (A, * K,) the last syn. with<br>\
+مَجَاعَةٌ; (S, Msb;) He was, or became, hungry:<br>\
+(S, A, Msb, K:) or suffered hunger together with<br>\
+fatigue. (A, Msb, K.) You say, بِهِ سَغَبٌ and<br>\
+مَسْغَبَةٌ and سَغَابَةٌ, [using these ns. as simple<br>\
+substs.,] In him is hunger: or hunger together<br>\
+with fatigue. (A.) And يَتِيمٌ ذُو مَسْغَبَةٍ [An<br>\
+orphan] having hunger. (S.) And فِى يَوْمٍ ذِى<br>\
+مَسْغَبَةٍ, in the Kur [xc. 14], means In a day of<br>\
+hunger. (TA.) [See also سَغْبَةٌ and سَغَبٌ below.]<br>\
+4<br>\
+اسغب He (a man, TA) entered upon a<br>\
+state of hunger. (K.)<br>\
+سَغَبٌ an inf. n. of سَغِبَ [q. v.]. (S, &amp;c.) ―<br>\
+-b2-<br>\
+It also signifies Thirst: but is unused: (K:) [or]<br>\
+thirst is sometimes thus termed. (Msb.)<br>\
+سَغِبٌ: see سَاغِبٌ.<br>\
+سَغْبَةٌ Hunger: or hunger combined with fatigue. (TA.) [See also 1.]<br>\
+سَغْبَانُ; and its fem., سَغْبَى: see the next paragraph, in three places.<br>\
+سَاغِبٌ and ↓ سَغْبَانُ (S, A, Msb, K) and ↓ سَغِبٌ<br>\
+(K) Hungry: (S, A, Msb, K, TA:) or suffering<br>\
+hunger together with fatigue: (A, Msb, K:) or<br>\
+thirsty: (TA:) fem. [of the second] ↓ سَغْبَى, (S,<br>\
+K,) pl. سِغَابٌ. (K.) You say also, هُوَ سَاغِبٌ<br>\
+لَاغِبٌ (A, TA) and لَغْبَانُ ↓ سَغْبَانُ (TA) [He is<br>\
+hungry and fatigued, or fatigued in the utmost<br>\
+degree]. And it is said in a trad., دَخَلَ خَيْبَرَ وَهُمْ<br>\
+↓ مُسْغِبُونَ, expl. as meaning [He entered Kheyber] they being hungry. (TA.)<br>\
+مُسْغِبٌ: see its pl. in what next precedes.<br>\
+هُوَ مُسَغَّبٌ لَهُ كَذَا and مَسَعَّبٌ [the latter written in the CK مُسْغَبٌ] To him is allowed, or permitted, such a thing. (K, TA.)<br>\
+' } );

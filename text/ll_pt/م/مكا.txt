@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>مكا</em>            1                  مكا<br>\
+<b>مَكْءٌ</b>               1     <br>\
+                     مَكْءٌ<br>\
+                     ذ<br>\
+                   The <i>hole of a fox,</i> or <i>of a hare,</i> or <i>rabbit:</i> or, accord. to Th, the <i>hole of the kind of lizard called</i> <br>\
+                  ضَبّ. (L.)    <br>\
+' } );

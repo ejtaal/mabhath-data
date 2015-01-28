@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'ميت1<br>\
+مَاتَ, aor. يَمِيتُ: see art. موت.<br>\
+دارى بِمِيتَاءِ دَارِهِ, [as also بِمِيدَاءِ,] My house is<br>\
+opposite to his house. (L, not in the TA.) [See<br>\
+also art. اتى.] ―<br>\
+-b2-  مِيتَاءُ طَرِيقٍ The measure of<br>\
+the two sides, and the distance, of a road; as<br>\
+also مِيدَاء. (L, not in the TA.) [See also<br>\
+art أتى.]<br>\
+' } );

@@ -1,0 +1,38 @@
+load_data( { book: 'll_nvd', text: 'بthat<br>\
+renders a verb trans.; as in ذَهَبَ بِهِ. (Mughnee<br>\
+in art. بِ.) ―<br>\
+-b3-  التَّآءُ لِلنَّقْلِ or الهَآءُ لِلنَّقْلِ means<br>\
+لِلنَّقْلِ مِنَ الوَصْفِيَّةِ إِلَى الاِسْمِيَّةِ, i. e. The<br>\
+ة that<br>\
+is added for the transference of a word from the<br>\
+category of epithets to that of substantives; as<br>\
+in خَلِيفَةٌ, accord. to some, and دَائِرَةٌ.<br>\
+نُقْلٌ<br>\
+Dried and other fruits (such as nuts,<br>\
+almonds, raisins, dried figs, dried dates, &amp;c.),<br>\
+[and comfits:] the fruit [that is an accompaniment] of wine; (MA in explanation of نُقْلٌ<br>\
+[which is more common than نَقْلٌ];) fruit that<br>\
+is eaten with wine. (KL in explanation of<br>\
+نُِقْلٌ.)<br>\
+نَقَلٌ<br>\
+Stones with trees. (AZ and IKtt in TA,<br>\
+voce غَدَرٌ.)<br>\
+مَنْقَلَةٌ<br>\
+i. q.<br>\
+مَرْحَلَةٌ (JK, Msb) مِنْ مَراَحِلِ السَّفَرِ.<br>\
+(JK.)<br>\
+مِنْقَلَةٌ<br>\
+A thing upon which bricks are carried<br>\
+from place to place. (O, voce شَبَحَةٌ.)<br>\
+مُنَقِّلَةٌ<br>\
+: A wound in the head, by which bone<br>\
+is removed: see شَجَّةٌ.<br>\
+المَنْقُولُ<br>\
+[Discerned knowledge; opposed to<br>\
+مَعْقُولُ]: under this term are comprised the<br>\
+sciences of أُصُولُ الدِّينِ (also called عِلْمُ الكام).<br>\
+الحَدِيثُ, and الفِقْهُ: all the other sciences are<br>\
+comprised under the term المَعْقُولُ; (IbrD;) i. e.<br>\
+intellectual, or perceived by the intellect; and<br>\
+excogitated.<br>\
+' } );

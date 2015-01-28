@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'فسفِسْفِسَةٌ i. q. فِصْفِصَةٌ, i. e. رَطْبَةٌ: (K:) the second<br>\
+of these is more known than the first; both of<br>\
+which are arabicized, from the Persian إِسْپِسْت<br>\
+[or إِسْفِسْت]. (TA.)<br>\
+' } );

@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كندثكُنْدُثٌ and كُنَادِثٌ Hard and strong: (K, L:)<br>\
+[as also كُنْبُثٌ and كُنْتُبٌ, &amp;c.].<br>\
+' } );

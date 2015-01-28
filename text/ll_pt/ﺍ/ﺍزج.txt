@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ازج&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ازج<br>\
+&lt;entryFree id=&quot;n652&quot; key=&quot;ازّج&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ازّج<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْزِيجٌ, (Msb, K,) &lt;i&gt;He built&lt;/i&gt; a structure of the kind called اَزَجٌ, &lt;i&gt;and made&lt;/i&gt; it &lt;i&gt;long:&lt;/i&gt; (K:) or &lt;i&gt;he built&lt;/i&gt; a house, or chamber, &lt;i&gt;in the form of what is so called.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n653&quot; key=&quot;اَزَجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَزَجٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain kind of structure;&lt;/i&gt; (S, K;) or &lt;i&gt;a house,&lt;/i&gt; or &lt;i&gt;chamber, built in a long,&lt;/i&gt; or &lt;i&gt;an oblong, form;&lt;/i&gt; (Mgh, L, Msb;) &lt;i&gt;called in Persian&lt;/i&gt; <br>\
+                  اُوِسْتَانٌ, (Mgh, L,) &lt;i&gt;and also, in the same language,&lt;/i&gt; <br>\
+                  سَغْ, &lt;i&gt;and&lt;/i&gt; <br>\
+                  كَمَرْ: (Mgh:) [i. e. &lt;i&gt;an oblong, arched,&lt;/i&gt; or &lt;i&gt;vaulted, structure&lt;/i&gt; or &lt;i&gt;edifice;&lt;/i&gt; (&lt;i&gt;such as a bridge;&lt;/i&gt; see قَنْطَرَةٌ;) &lt;i&gt;a portico, gallery,&lt;/i&gt; or &lt;i&gt;piazza;&lt;/i&gt; accord. to Golius and Freytag, &lt;i&gt;ædificii genus oblongum et fornicatum, porticus instar;&lt;/i&gt; to which Freytag adds, &lt;i&gt;portæ arcus superior:&lt;/i&gt;] or, accord. to some, &lt;i&gt;a roof:&lt;/i&gt; (Msb:) pl. [of pauc.] ا=زَاجٌ (S, Msb, K) and ا=زُجٌ (S, K) and [of mult.] اـِزَجَةٌ. (K.)   &lt;/entryFree&gt; <br>\
+' } );

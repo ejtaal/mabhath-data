@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>تنر</em>            1                  تنر<br>\
+<b>تَنَّارٌ</b>               1     <br>\
+                     تَنَّارٌ<br>\
+                     انار<br>\
+                     تنار<br>\
+                   [and ↓ <br>\
+      تَنُّورِىٌّ] <i>A maker of ovens of the kind called</i> <br>\
+                  تَنُّور. (M, K.)    </entryFree> <br>\
+<b>تَنُّورٌ</b>               1     <br>\
+                     تَنُّورٌ<br>\
+                     انور<br>\
+                     نور<br>\
+                     تنور<br>\
+                  <i>A sort of</i> <br>\
+                  كَانُون [or <i>fire-place</i>]; (M;) the <i>thing,</i> (S, Msb,) or كانون, (K,) <i>in which bread is baked;</i> (S, Msb, K;) <i>but different from the</i> <br>\
+                  فُرْن: (S in art. فرن:) [it is <i>a kind of oven, open at the top, in the bottom of which a fire is lighted, and in which the bread, in the form of flat cakes, is generally stuck against the sides; either portable, and made of baked clay, wide at the bottom, and narrow at the top, where it is open; and if so, the bread is sometimes stuck upon the outside, to bake; or fixed, and in this case made of baked clay likewise, or constructed of bricks; or it is a hole made in the ground, and lined with bricks or tiles or the like, against which the bread is stuck, to bake; and sometimes flesh-meat, cut into small pieces, is roasted in it, or upon it, on skewers:</i>] such, accord. to some, is the meaning in the Kur xi. 42 and xxiii. 27; (T;) and the word is said to have the same meaning in every language; (Lth, T, M;) but this is not correct: (Ham p. 793:) it is an arabicized word; (T, M;) not genuine Arabic; (AHát, Msb;) originally Persian: (M:) [in Hebrew        <br>\
+      <orth lang=&quot;he&quot;>XXX</orth>:] Ahmad Ibn-Yahyà [i. e. Th, as is stated in Ham, ubi suprà,] says that it is of the measure تَفْعُولٌ from النَّار, (M, and Ham ubi suprà,) or from النُّور; originally تَنْوُورٌ; (Ham;) but this is wrong: (M:) the pl. is تَنَانِيرُ. (M, Msb.) Mo- hammad is related to have said to a man wearing a garment dyed with bastard-saffron, “ If thy garment were in the تنّور of thy family, or beneath  their cooking-pot, it were better: ” whereupon he went away, and burned it: but he meant, “ Wert thou to spend its price for flour to make bread, or for fire-wood with which to cook, it were better for thee: ” as though he disliked a garment so dyed. (IAth.) ―         -b2-  The <i>surface of the ground:</i> (T, S, M, K:) so in the Kur ubi suprà, (T, S,) accord. to &#39;Alee (S) and I&#39;Ab. (TA.) ―         -b3-  The <i>highest part of the earth</i> or <i>ground:</i> so in the same passages of the Kur accord. to Katádeh. (TA.) ―         -b4-  <i>Any place from which water pours forth.</i> (M, K.) ―         -b5-  <i>A place where the water of a valley collects.</i> (M, K.) ―         -b6-  The <i>shining of the dawn:</i> so accord. to some in the Kur ubi suprà: (T:) and &#39;Alee is related to have said that وَفَارَ التَّنُّورُ means <i>and daybreak rose</i> or <i>rises:</i> (TA:) or it relates to the welling forth of water from the place of the mosque of El-Koofeh: (T:) or التّنّور here signifies a well-known spring of water: (Hr, TA:) or a certain mountain near El-Maseesah; (I&#39;Ab, K, TA;) i. e., (TA,) &#39;Eyn-el-Ward, in El-Jezeereh; (I&#39;Ab, T, TA;) or &#39;Eyn-Wardeh. (Bd in xi. 42.)    </entryFree> <br>\
+<b>تَنُّورِىٌّ</b>               1     <br>\
+                     تَنُّورِىٌّ<br>\
+                     انور<br>\
+                     نور<br>\
+                     تنور<br>\
+                     تنورى<br>\
+                     تنوري<br>\
+                  : see تَنَّارٌ.   </entryFree> <br>\
+' } );

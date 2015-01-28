@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'نزف1<br>\
+نَزَفَ<br>\
+He entirely exhausted (S, Msb, K) a<br>\
+well, (Msb,) or the water of a well. (S, K.)<br>\
+مَنْزُوفٌ<br>\
+Exhausted: see an ex. voce ضَرَطَ.<br>\
+' } );

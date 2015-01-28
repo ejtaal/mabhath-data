@@ -1,0 +1,51 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;هوا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  هوا<br>\
+&lt;entryFree id=&quot;n41376&quot; key=&quot;هَا=ءَ بِنَفْسِهِ اـِلى المَعَالِى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     هَا=ءَ بِنَفْسِهِ اـِلى المَعَالِى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor. يَهُوْءُ, (S,) inf. n. هَوْءٌ, (TA,) &lt;i&gt;He raised his mind to high things,&lt;/i&gt; or &lt;i&gt;objects; purposed,&lt;/i&gt; or &lt;i&gt;aspired to, high things.&lt;/i&gt; (S, K, TA.) The vulgar say, يَهْوِى <br>\
+                  بِنَفْسِهِ. (S.) ―         -b2-  مَا هُوْتُ هَوْءَهُ <br>\
+                  &lt;i&gt;I did not know it, nor desire,&lt;/i&gt; or &lt;i&gt;mean,&lt;/i&gt; [&lt;i&gt;to do it;&lt;/i&gt; i. e., &lt;i&gt;I did it not knowingly, nor intentionally&lt;/i&gt;]. (TA.) ―         -b3-  هُوْتُ <br>\
+                  بِهِ خَيْرًا, (Az, S, K) and شَرًّا, (K,) and حُوْتُهُ بِخَيْرٍ, and بِشَرٍّ, (Lh,) inf. n. هَوْءٌ, (TA,) &lt;i&gt;I thought him to be possessed of good,&lt;/i&gt; (Az, S, K,) and, &lt;i&gt;of evil.&lt;/i&gt; (K, TA.) ―         -b4-  هُوْتُهُ بِمَالٍ كَثِيزٍ <br>\
+                  &lt;i&gt;I thought him to be possessed of much wealth.&lt;/i&gt; (TA.) ―         -b5-  اـِنِّى لَاَهُوْءُ <br>\
+                  بِكَ عَنْ هٰذَا الاَمْرِ <br>\
+                  &lt;i&gt;Verily I exalt thee above this thing; I hold thee above it&lt;/i&gt;]. (Lh.) ―         -b6-  هُوْتُ بِهِ <br>\
+                  &lt;i&gt;I rejoiced in him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (AA, K.) ―         -b7-  هَوِيَ اـِلَيْهِ, aor. يَهْوَاُ, &lt;i&gt;He purposed,&lt;/i&gt; or &lt;i&gt;intended, it.&lt;/i&gt; (K.)       -A2-  هَا=ءِ and هَا=ءَ and هَاْ, in imperative senses, and the forms into which they are inflected, see below.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41377&quot; key=&quot;هاواهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     هاواهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He contended with him for superior glory:&lt;/i&gt; like هَاوَاهُ. (IAar.) [See also art. هوى.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41378&quot; key=&quot;هَا=ءِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَا=ءِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, هَا=ءَ, هَاْ, &amp;amp;c. ―         -b2-  هَاءِ, with kesr, is syn. with هَاتِ, &lt;i&gt;Give;&lt;/i&gt; [or changed from this verb;] and is thus inflected: sing. masc. هَا=ءِ, fem. هايِى; dual. masc. and fem. هَايِيَا; pl. masc. هَاوُوا, fem. هَايِينَ: (S, K: like هَاتُوا؛ هَاتِيَا؛ هَاتِى، هَاتِ, هَاتِينَ: ء holding the place of ت: S.) ―         -b3-  But هَا=ءَ, with fet-h, is syn. with هَاكَ, &lt;i&gt;Take;&lt;/i&gt; [or changed from this word;] and is thus inflected: sing. masc. هَا=ءَ, fem. هَا=ءِ, without ى; dual masc. and fem. هَاوُمَا; pl. masc. هَاوُمُ, [so in the K, and so I find it in one copy of the S: in another copy of the latter, هَاوُمُ, as it is pronounced before a conjunctive ا; for instance, in the Kur, lxix, 19:] fem. هَاوُنَّ, (S, K:) or هَاوُمْنَ: (L:) [which last does not exactly correspond with the model هَاكُنَّ: but I think it most probable that هَاكُنَّ is changed by idghám from هَاكُمْنَ; and in like manner, that هَاوُنَّ is changed from هَاوُمْنَ:] (like هَاكَ, هَاكِ; هَاكُمَا; هَاكُمْ, هَاكُنَّ:      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَوُاَ<br>\
+                  &lt;/form&gt; holding the place of ك: S:) also, sing. masc. هَاْ (originally هَا=ءُ, S), fem. هَايِى; dual masc. (S) and fem. (S, K) هَاا=; (S, K;) pl. masc. هَاوُوا, (S,) fem. هَاْنَ: (S, K:) also, sing. masc. and fem. هَاْ; dual. masc. هَاا=, fem. هَايِيَا; pl. masc. هَاوُوا, fem. هَاوُنَّ. (TA.) ―         -b4-  [See a saying of &#39;Omar cited voce رَمَا=ءٌ, in art. رمى.] ―         -b5-  When it is said to thee هَا=ءَ <br>\
+                  &lt;i&gt;Take,&lt;/i&gt; thou sayest مَا اَهَا=ءُ <br>\
+                  &lt;i&gt;What shall I take?&lt;/i&gt; syn. مَا ا=خُذُ; and مَا اُهَا=ءُ, in the pass. form, &lt;i&gt;What shall I receive,&lt;/i&gt; or &lt;i&gt;be given?&lt;/i&gt; syn. مَا اُعْطَى. (S.) [Also, in the TA, it seems to be said that اَهَا=ءَ signifies اَعْطَى <br>\
+                  &lt;i&gt;He gave,&lt;/i&gt; or &lt;i&gt;made to take:&lt;/i&gt; but this is uncertain; as the former verb is there written اهاءَ, and the latter is without the syll. points]. ―         -b6-  هَا=ءَ is also syn. with لبَّيْكَ <br>\
+                  &lt;i&gt;At thy service! &amp;amp;c..&lt;/i&gt; (K, TA.)       -A2-  لَا هَا=ءَ اْللّٰهِ ذَا, or, more chastely, لَا هَا اْللّٰهِ ذَا, or the former is a barbarism; originally لَا وَاْللّٰهِ هٰذَا: ها and ذا are separated, and the name of God is introduced between them; (K;) and the meaning is &lt;i&gt;No, by God,&lt;/i&gt; (&lt;i&gt;I did not&lt;/i&gt;) &lt;i&gt;this!&lt;/i&gt; (S, art. ها, q. v.) or &lt;i&gt;No, by God, this&lt;/i&gt; (&lt;i&gt;is what I swear by&lt;/i&gt;)! (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41379&quot; key=&quot;هَوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَوْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Mind; purpose; aspiration; desire; ambition.&lt;/i&gt; (S, K, TA.) Ex. بَعِيذُ الهَوْءِ A person &lt;i&gt;of far-reaching aspiration,&lt;/i&gt; or &lt;i&gt;ambition.&lt;/i&gt; (S, TA.) ―         -b2-  هَوْءٌ <br>\
+                  &lt;i&gt;Penetrating judgment.&lt;/i&gt; (K.) ―         -b3-  وَقَعَ فى هَوْيِى, and ↓ <br>\
+      هُويِى, &lt;i&gt;It occurred to my mind,&lt;/i&gt; or &lt;i&gt;imagination.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41380&quot; key=&quot;هُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: See preceding sentence. &lt;pb n=&quot;2905&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n41381&quot; key=&quot;مُهْوَاَنٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُهْوَاَنٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, K) and ↓ <br>\
+      مَهْوَيِنٌّ (K) &lt;i&gt;A wide desert,&lt;/i&gt; or &lt;i&gt;wide tract of the kind called&lt;/i&gt; <br>\
+                  صَحْرَا=ء. (S. K.) ―         -b2-  &lt;i&gt;Custom:&lt;/i&gt; syn. عَادَةٌ. (K.) ―         -b3-  &lt;i&gt;A part of the night.&lt;/i&gt; (K.) ―         -b4-  The mention of مهوانّ in this art., by J, says IB, and F after him, is wrong; for its measure is مفوعّل; the و being an augmentative letter. [But if so, F has himself done wrong, in mentioning it, not only here, but also in art. هون, (where, if the و be augmentative, it is equally inappropriate,) as though it were a quasi-quadriliteral-radical word, of the measure مفعاُلّ.] ISd gives it as formed by transposition from the root هنا, and explains it as signifying &lt;i&gt;a wide place.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41382&quot; key=&quot;مُهْوَيِنٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُهْوَيِنٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُهْوَاَنٌّ.   &lt;/entryFree&gt; <br>\
+' } );

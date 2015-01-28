@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>حيط</em>            1                  حيط<br>\
+<b>احتاط</b>               1     <br>\
+                     احتاط<br>\
+                     حاوط فلانا<br>\
+                  : see art. حوط.    </entryFree> <br>\
+<b>حَيْطَةٌ</b>               1     <br>\
+                     حَيْطَةٌ<br>\
+                     حيطه<br>\
+                     حيطة<br>\
+                  : see art. حوط.    </entryFree> <br>\
+<b>تَحِيطُ</b>               1     <br>\
+                     تَحِيطُ<br>\
+                     احاط<br>\
+                     تحيط<br>\
+                   and تِحِيطُ and التَّحِيطُ: see art. حوط.    </entryFree> <br>\
+<b>يَحِيطُ</b>               1     <br>\
+                     يَحِيطُ<br>\
+                     احاط<br>\
+                     يحيط<br>\
+                  : see art. حوط.   </entryFree> <br>\
+' } );

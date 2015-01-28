@@ -1,0 +1,35 @@
+load_data( { book: 'll_nvd', text: 'نم1<br>\
+نَمَّ<br>\
+He [uttered calumny: or] excited discord, or dissension, and made known discourse<br>\
+in a mischievous manner; or embellished speech<br>\
+with falsehood. (M, K.) You say, نَمَّ بِهِ and<br>\
+عَلَيْهِ, inf. n. نَمٌّ and نَمِيمَةٌ and نَمِيمٌ, or this last<br>\
+is pl. of نَمِيمَةٌ, (M,) meaning, He calumniated<br>\
+him; or misrepresented him. ―<br>\
+-b2-  نَمَّ الحَدِيثَ<br>\
+He<br>\
+made known, divulged, or told, conversation, in<br>\
+a malicious or mischievous manner, so as to<br>\
+occasion discord, dissension, or the like. (TA,<br>\
+art. قت; and Msb. *)<br>\
+R. Q. 1<br>\
+نَمْنَمَ<br>\
+He variegated a thing: he<br>\
+decorated or embellished it. (S, K.)<br>\
+نَمِيمَةٌ<br>\
+The sound of the bow-string. (Kr.) ―<br>\
+-b2-<br>\
+نَمِيمَةٌ<br>\
+Malicious and mischievous misrepresentation; calumny; slander; (S, K;) the embel-lishment of speech with falsehood. (Kr.)<br>\
+نَمَانِمُ<br>\
+The sutures of the skull; as resembling lines of writing; see شَأْنٌ.<br>\
+نَمَّامٌ<br>\
+now commonly applied to Wild thyme,<br>\
+thymus serpyllum: see شَبَهَانٌ.<br>\
+نَامَّةٌ<br>\
+The artery in the head: see أَبْهَرُ.<br>\
+مُنَمْنَمٌ<br>\
+A garment, or piece of cloth, figured<br>\
+with marks resembling writing, or otherwise.<br>\
+See مَذَبَّرٌ.<br>\
+' } );

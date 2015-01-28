@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'قشع1<br>\
+قَشَعَتِ الرِّيحُ السَّحَابَ<br>\
+The wind removed, or<br>\
+cleared off, the clouds; (S, K;) as also ↓ أَقْشَعَتْهُ.<br>\
+(K.)<br>\
+4<br>\
+أَقْشَعَ<br>\
+and ↓ اِنْقَشَعَ and ↓ تقشّع<br>\
+It (a cloud)<br>\
+became removed, or cleared off. (S, K.) See 1.<br>\
+5<br>\
+تَقَشَّعَ<br>\
+see 4.<br>\
+7<br>\
+إِنْقَشَعَ<br>\
+see 4.<br>\
+' } );

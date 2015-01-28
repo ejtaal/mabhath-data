@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'كسل2<br>\
+كَسَّلَهُ<br>\
+, inf. n. تَكْسِيلٌ, said of satiety, It rendered him heavy, sluggish, lazy, indolent, or torpid. (TA.)<br>\
+4<br>\
+أَكْسَلَ عَنْهَا<br>\
+signifies أَوْلَجَ وَلَمْ يُنْزِلْ; [Inivit<br>\
+sed non emisit;] (IAar, in TA, art. فهر;) [i. e.,<br>\
+أَوْلَجَ ثُمَّ تَرَكَهَا وَلَمْ يُنْزِلْ].<br>\
+كَسْلَانٌ<br>\
+Heavy, sluggish, lazy, indolent, torpid. (K.)<br>\
+مَكْسَلَةٌ<br>\
+: see an ex. voce كِطَّةٌ.<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'مأج1<br>\
+مَؤُجَ, aor.<br>\
+مَاُ^َ (or مَأَجَ, aor,<br>\
+مَاَ^َ, M), inf. n.<br>\
+مُؤُوجَةٌ, It (water) was, or became, what is termed<br>\
+أُجَاج, (S, K,) i. e., salt, (TA,) [or bitter, or<br>\
+salt and bitter, &amp;c.].<br>\
+مَآءٌ مَأْجٌ, (and, as occurring in a verse of Ibn-Harmeh, مَاجٌ, without ء, IB,) Water such as is<br>\
+termed أُجَاج, (S, K,) i. e., salt, (TA,) [or bitter,<br>\
+or salt and bitter, &amp;c.]<br>\
+' } );

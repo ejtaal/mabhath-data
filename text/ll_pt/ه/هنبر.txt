@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هنبر</em>            1                  هنبر<br>\
+<b>هِنْبِرٌ</b>               1     <br>\
+                     هِنْبِرٌ<br>\
+                     ذ<br>\
+                   A <i>light,</i> or an <i>active,</i> ass. (IAar, in TA, voce يَعْفُورٌ.)   </entryFree> <br>\
+' } );

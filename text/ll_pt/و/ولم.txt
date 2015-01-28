@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ولم</em>            1                  ولم<br>\
+<b>وَلِيمَةٌ</b>               1     <br>\
+                     وَلِيمَةٌ<br>\
+                     ذ<br>\
+                  <i>A repast prepared on the occasion of a wedding:</i> (T, S, M, Mgh, Msb, K:) or, <i>on any occasion.</i> (M, Mgh, K.)   </entryFree> <br>\
+' } );

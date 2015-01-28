@@ -1,0 +1,50 @@
+load_data( { book: 'll_pt', text: '<em>ضَعٌّ</em>            1                  ضَعٌّ<br>\
+<b>ضَعَّ</b>               1     <br>\
+                     ضَعَّ<br>\
+                     ذ<br>\
+                  , (S, O, K,) an inf. n. of which the verb is ضَعَّ, aor.      <br>\
+                     ضََُعَ<br>\
+                  , (TK,) The <i>breaking,</i> or <i>training,</i> (S,) or <i>training well,</i> (IAar, O, K,) a he-camel, (IAar, S, O, K,) and a she-camel, not previously trained: (IAar, O, K:) or the <i>saying</i> to a camel ↓ <br>\
+      ضَعْ <br>\
+                  <i>in order that he may become well trained.</i> (Th, S, O, K.)    </entryFree> <br>\
+<b>ضَعْضَعَهُ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     ضَعْضَعَهُ<br>\
+                     ذ<br>\
+                  , (inf. n. ضَعْضَعَةٌ, TK,) <i>He threw it down,</i> or <i>pulled it down,</i> [or <i>rased it,</i>] <i>to the ground;</i> (S, O, K;) namely, a building. (S, O.) ―         -b2-  And ضَعْضَعَهُ الدَّهْرُ <br>\
+                  <i>Time,</i> or <i>fortune, lowered, humbled,</i> or <i>abased him;</i> (S, O;) and so بِهِ الدَّهْرُ ↓ <br>\
+      تَضَعْضَعَ. (TA.) [See also ضَعْضَعَةٌ below.]    </entryFree> <br>\
+<b>تَضَعْضَعَتْ اَرْكَانُهُ</b>               1     <br>\
+                     <i>R. Q. 2</i>        <br>\
+                     تَضَعْضَعَتْ اَرْكَانُهُ<br>\
+                     ذ<br>\
+                  , referring to a building, <i>i. q.</i> <br>\
+                  اِتَّضَعَتْ, (S,) i. e. [<i>Its angles,</i> or <i>corners,</i> or <i>its sides,</i>] <i>sank down;</i> and <i>became in a state of ruin.</i> (PS.) ―         -b2-  And تضعضع said of a man, (S, O,) <i>He was,</i> or <i>became, lowly, humble, submissive,</i> or <i>abased;</i> (S, O, K;) [or <i>he lowered, humbled,</i> or <i>abased, himself;</i>] لِا=خَرَ [<i>to another</i>], (S,) or لِغَنِىٍّ [<i>to a rich person</i>]. (O.) Hence, (S,) Aboo-Dhu-eyb says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَتَجَلُّدِى لِلشَّامِتِينَ اُرِيهُمُ<br>\
+                     <L><br>\
+                        اَنِّى لِرَيْبِ الدَّهْرِ لَا اَتَضَعْضَعُ<br>\
+                  </quote> [<i>And my constraining myself to behave with hardiness to those who rejoice at my misfortune: I show them that I will not humble myself to the evil accidents of time</i>]. (S, * O.) ―         -b3-  And <i>He became poor:</i> (O, K:) as though from ضَعَّ: (O:) and تصعصع is a dial. var. thereof, on the authority of Aboo-Sa&#39;eed. (TA.) ―         -b4-  And <i>He became weak, and light in his body, by reason of disease,</i> or <i>of grief.</i> (TA.) ―         -b5-  And تضعضع مَالُهُ <br>\
+                  <i>His property became little.</i> (TA.) ―         -b6-  See also R. Q. 1.    </entryFree> <br>\
+<b>ضَعْ</b>               1     <br>\
+                     ضَعْ<br>\
+                     ذ<br>\
+                  : see the first paragraph above.    </entryFree> <br>\
+<b>ضَعْضَعٌ</b>               1     <br>\
+                     ضَعْضَعٌ<br>\
+                     ذ<br>\
+                  : see ضَعْضَاعٌ.    </entryFree> <br>\
+<b>ضَعْضَعَةٌ</b>               1     <br>\
+                     ضَعْضَعَةٌ<br>\
+                     ذ<br>\
+                   inf. n. of ضَعْضَعَهُ [q. v.]. (TK.) ―         -b2-  And [as though inf. n. of ضُعْضِعَ] <i>Lowliness, humility,</i> or <i>submissiveness:</i> (TA, and Ham p. 369:) [as used in the present day, <i>a state of depression; languor; weakness;</i> and <i>poverty:</i>] and <i>hardship,</i> or <i>adversity.</i> (TA.)    </entryFree> <br>\
+<b>ضَعْضَاعٌ</b>               1     <br>\
+                     ضَعْضَاعٌ<br>\
+                     ذ<br>\
+                  <i>Weak:</i> applied in this sense to anything. (S, O, K.) ―         -b2-  And A man <i>without judgment,</i> (S, O, K,) <i>and without prudence,</i> or <i>precaution,</i> or <i>discretion;</i> (O, K;) and ↓ <br>\
+      ضَعْضَعٌ signifies the same, (S, O, K,) being a contraction of the former word. (S, O.)    </entryFree> <br>\
+<b>مُتَضَعْضِعٌ</b>               1     <br>\
+                     مُتَضَعْضِعٌ<br>\
+                     ذ<br>\
+                   [the part. n. of R. Q. 2, q. v.,] is used by the Arabs as meaning A <i>poor</i> man. (O.)   </entryFree> <br>\
+' } );

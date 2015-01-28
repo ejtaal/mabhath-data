@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>بسمل</em>            1                  بسمل<br>\
+<b>بَسْمَلَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     بَسْمَلَ<br>\
+                     بسمل<br>\
+                     سمل<br>\
+                  , (T, S, &amp;amp;c.,) inf. n. بَسْمَلَةٌ, (S, Msb,) <i>He said,</i> (S, Msb, K, KL,) or <i>wrote,</i> (T, Msb,) بِسْمِ اْللّٰهِ [<i>In,</i> or <i>with, the name of God</i> I recite, or read, or I begin, &amp;amp;c.]: (T, S, Msb, K, KL:) or بِسْمِ اْللّٰهِ الرَّحْمَانِ الرَّحِيمِ [<i>In,</i> or <i>with, the name of God, the Compassionate, the Merciful</i>]: (KL:) a verb of the kind termed مَنْحُوت i. e. compounded of two [or more] words; like حَمْدَلَ and حَوْقَلَ and حَسْبَلَ &amp;amp;c.: (Msb, TA:) said by some to be post-classical, not heard from the chaste Arabs; but authorized by many of the leading lexicologists, as ISk and Mtr; and occurring in the poetry of &#39;Omar Ibn-Abee-Rabee&#39;ah [who is said to have been born in the year of the Flight 23]. (TA.)    </entryFree> <br>\
+<b>مُبَسْمَلٌ</b>               1     <br>\
+                     مُبَسْمَلٌ<br>\
+                     مبسمل<br>\
+                   Discourse, (TA,) or amorous behaviour, and coquettish boldness, (Msb,) <i>accompanied by the saying</i> <br>\
+                  بِسْمِ اْللّٰهِ: (Msb, TA:) occurring in a verse of &#39;Omar Ibn-Abee-Rabee&#39;ah [referred to above]. (TA.)   </entryFree> <br>\
+' } );

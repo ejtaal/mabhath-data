@@ -1,0 +1,58 @@
+load_data( { book: 'll_nvd', text: 'همر1<br>\
+هَمَرَهُ, (S, A, K,) aor.<br>\
+هَمُرَ (S, K) and<br>\
+هَمِرَ, (K,)<br>\
+inf. n. هَمْرٌ, (S,) He, or it, poured it;<br>\
+out or forth; (S, A, K;) namely, water, (S,<br>\
+TA,) and tears, and rain, and the like. (TA.)<br>\
+―<br>\
+-b2-  هَمَرَ مَا فِى الضَّرْعِ He drew forth all the milk<br>\
+that was in the udder. (S, K.) ―<br>\
+-b3-  هَمَرَ لَهُ مِنْ مَالِهِ<br>\
+(assumed tropical:)  He gave to him of his property. (S, K.) ―<br>\
+-b4-<br>\
+هَمَرَ الكَلَامَ, (K,) or فى كَلَامِهِ, (A,) aor.<br>\
+هَمُرَ,<br>\
+inf. n. هَمْرٌ: (TA;) and بِالكَلَامِ ↓ إِنْهَمَرَ; (S;)<br>\
+(tropical:)  He talked much. (K.)<br>\
+-A2-  هَمَرَ, intrans.: see<br>\
+7. in two places.<br>\
+7<br>\
+انهمر It poured; poured out or forth; (K;)<br>\
+said of rain, and of tears; (TA;) as also ↓ هَمَرَ,<br>\
+(K,) aor.<br>\
+هَمِرَ, inf. n. هُمُورٌ; (TA;) [and so, app.,<br>\
+↓ اهتمر, q. v.:] it flowed; said of water, (S, K,)<br>\
+of rain, and of tears; like انهمل: (TA:) and<br>\
+in like manner, عَيْنُهُ بِالدَّمْعِ ↓ هَمَرَتْ His eye<br>\
+flowed with tears; as also هَمَلَتْ. (A.) ―<br>\
+-b2-<br>\
+انهمر بالكلام: see 1.<br>\
+8<br>\
+اهتمر: see 7. ―<br>\
+-b2-  (tropical:)  He (a horse) ran (S,<br>\
+K, TA) like a torrent. (TA.)<br>\
+هَمِرٌ Much sand; as also ↓ يَهْمُورٌ. (K.)<br>\
+هَمْرَةٌ A fall of rain. (K.) ―<br>\
+-b2-  (tropical:)  Angry speech.<br>\
+(Sgh, L, K.)<br>\
+هَمَرَى: see هَمَّارٌ.<br>\
+هَمَّارٌ A cloud pouring forth much rain; as<br>\
+also ↓ هَامِرٌ. (K.) ―<br>\
+-b2-  Applied to a man, (S,)<br>\
+(tropical:)  Loquacious, garrulous; babbling; a great<br>\
+talker; a babbler; or nonsensical, irrational,<br>\
+foolish, or delirious, in his talk; as also ↓ مِهْمَرٌ<br>\
+and ↓ مِهْمَارٌ (S, K) and ↓ يَهْمُورٌ. (Sgh, K.) And<br>\
+مِهْمَرٌ ↓ خَطِيبٌ (tropical:)  An orator copious in speech.<br>\
+(A, TA) And ↓ هَمَرَى, applied to a woman,<br>\
+(tropical:)  Clamorous; (K, TA:) abounding in talk or<br>\
+speech, like a pouring torrent. (TA.)<br>\
+هَامِرٌ Pouring rain, and tears; as also ↓ مُنْهَمِرٌ.<br>\
+(TA.) See also هَمَّارٌ.<br>\
+مِهْمَرٌ: see هَمَّارٌ; the former, in two places.<br>\
+مِهْمَارٌ: see هَمَّارٌ; the former, in two places.<br>\
+مُنْهَمِرٌ: see هَامِرٌ.<br>\
+يَهْمُورٌ: see هَمِرٌ:<br>\
+-A2-  and see also هَمَّارٌ.<br>\
+' } );

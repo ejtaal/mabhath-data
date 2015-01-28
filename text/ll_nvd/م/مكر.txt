@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'مكر1<br>\
+مَكَرَ بِهِ<br>\
+i. q.<br>\
+خَدَعَهُ, (Msb, &amp;c.,) see كَادَهُ.<br>\
+مَكْرٌ<br>\
+[Artifice; machination; stratagem; fraud;<br>\
+fraudulence; guile].<br>\
+' } );

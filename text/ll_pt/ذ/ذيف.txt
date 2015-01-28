@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ذيف</em>            1                  ذيف<br>\
+<b>ذِيفَانٌ</b>               1     <br>\
+                     ذِيفَانٌ<br>\
+                     ذ<br>\
+                   and ذَيْفَانٌ (S, M, K) and ذَيَفَانٌ (M, K) <i>Deadly poison:</i> (S, M, K:) or <i>poison that takes effect;</i> or <i>that remains fixed, and collects:</i> (M:) a dial. var. of ذِيْفَانٌ &amp;amp;c., (K,) and ذُوفَانٌ. (M.) And the second of these words, <i>Death:</i> so in the saying, سَقَاهُ اْللّٰهُ كَاْسَ الذَّيْفَانِ [<i>May God give him to drink the cup of death</i>]; as mentioned by Lh. (M.)   </entryFree> <br>\
+' } );

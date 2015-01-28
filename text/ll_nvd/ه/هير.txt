@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'هير2<br>\
+هيّرهُ: see هوّرهُ.<br>\
+5<br>\
+تهيّر: see تهوّر.<br>\
+' } );

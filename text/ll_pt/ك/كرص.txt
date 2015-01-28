@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>كرص</em>            1                  كرص<br>\
+<b>كَرِيصٌ</b>               1     <br>\
+                     كَرِيصٌ<br>\
+                     ذ<br>\
+                  <i>A kind of</i> <br>\
+                  اَقِط: see كَثْءٌ.    </entryFree> <br>\
+<b>مِكْرَصٌ</b>               1     <br>\
+                     مِكْرَصٌ<br>\
+                     ذ<br>\
+                  : <i>i. q.</i> <br>\
+                  مِضْرَب, q. v.   </entryFree> <br>\
+' } );

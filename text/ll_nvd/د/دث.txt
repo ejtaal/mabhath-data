@@ -1,0 +1,26 @@
+load_data( { book: 'll_nvd', text: 'دث1<br>\
+دَثَّ السَّمَآءُ, (L,) or دَثَّت, (TA,) aor.<br>\
+دَثِ3َ, inf.<br>\
+n. دَثٌّ, The sky sent down rain such as is termed<br>\
+دَثّ; i. e. weak rain; or the weakest and lightest<br>\
+of rain. (L, TA.)<br>\
+-A2-  دَثَّهُمُ السَّمَآءُ, (L,) or دَثَّتْهُمُ,<br>\
+(TA,) aor.<br>\
+دَثُ3َ, inf. n. as above, The sky rained<br>\
+upon them rain such as is termed دَثّ. (L, TA.)<br>\
+―<br>\
+-b2-  دُثَّتِ الأَرْضُ, inf. n. as above, The land was<br>\
+watered by rain such as is termed دَثّ. (L.)<br>\
+دَثٌّ Weak rain; as also ↓ دِثَاثٌ; (S, K;) the<br>\
+latter [in the CK دَثاث, but it is] with kesr: or<br>\
+the weakest and lightest of rain; and the pl. is<br>\
+دِثَاثٌ: or, accord. to IAar, i. q. رَكٌّ: (TA:) or<br>\
+رَكٌّ signifies rain exceeding what is termed دَثٌّ.<br>\
+(K in art. رك.)<br>\
+سَمَآءٌ دَثَّةٌ A sky sending down rain such as is<br>\
+termed دَثّ. (L, TA.)<br>\
+دِثَاثٌ: see دَثٌّ; of which it is said to be a syn.<br>\
+and a pl.<br>\
+أَرْضٌ مَدْثُوثَةٌ Land watered by rain such as is<br>\
+termed دَثّ. (L.)<br>\
+' } );

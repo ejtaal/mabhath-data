@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>شير</em>            1                  شير<br>\
+<b>تشاير</b>               1     <br>\
+                     تشاير<br>\
+                     ذ<br>\
+                  : see 6 in art. شور.    </entryFree> <br>\
+<b>شِيَرٌ</b>               1     <br>\
+                     شِيَرٌ<br>\
+                     ذ<br>\
+                  : n. un. with ة: pl. of the latter شِيَرَاتٌ: and dim. شُيَيْرَةٌ and شِيَيْرَةٌ: see شَجَرٌ.    </entryFree> <br>\
+<b>شِيَارٌ</b>               1     <br>\
+                     شِيَارٌ<br>\
+                     ذ<br>\
+                  : see art. شور.    </entryFree> <br>\
+<b>شَيِّرٌ</b>               1     <br>\
+                     شَيِّرٌ<br>\
+                     ذ<br>\
+                  : see art. شور.   </entryFree> <br>\
+' } );

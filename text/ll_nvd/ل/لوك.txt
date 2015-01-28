@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'لوك1<br>\
+لَاكَ He chewed a morsel: (S, K, Msb:) or<br>\
+chewed in the gentlest manner: or chewed something hard; (K;) rolling it about, or turning<br>\
+it round, in his mouth: (TA:) [he (a child)<br>\
+mumbled, or bit softly, his finger]: (S, art.<br>\
+مرث:) he (a horse) champed, (Msb,) or chewed,<br>\
+the bit. (Lth in TA, art. الك.)<br>\
+4<br>\
+أَلِكْنِى إِلَيْهِ; and أَلَكْتُهُ; as though from<br>\
+أَلَاكَهُ: see art. الك.<br>\
+5<br>\
+مَا تَلَوَّكْتُ بِأَلُوكٍ: see أَلُوكْ.<br>\
+' } );

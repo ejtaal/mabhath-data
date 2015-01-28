@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'رجى1<br>\
+رَجَيْتُهُ: see 1 (first sentence) in art. رجو.<br>\
+' } );

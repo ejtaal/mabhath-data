@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>نرج</em>            1                  نرج<br>\
+<b>نَرَجَ</b>               1     <br>\
+                     نَرَجَ<br>\
+                     ذ<br>\
+                  <i>He thrashed</i> wheat, or corn, <i>with a</i> <br>\
+                  نَوْرَج. (TA.)    </entryFree> <br>\
+<b>نَوْرَجٌ</b>               1     <br>\
+                     نَوْرَجٌ<br>\
+                     ذ<br>\
+                   (L, K) and ↓ <br>\
+      نَيْرَجٌ and ↓ <br>\
+      نُورَجٌ, the last of the dial. of El-Yemen, and a word of which there is not the like in Arabic, (L,) <i>A thrashinginstrument,</i> or <i>that with which heaps of wheat,</i> or <i>corn, are thrashed, whether of wood</i> or <i>of iron;</i> (L, K;) or, <i>of iron and wood;</i> (Sifr es-Sa&#39;ádeh;) [<i>a kind of drag, used, in Egypt and Arabia and some other countries of Western Asia, for the purpose of separating the grain of wheat and barley &amp;amp;c. and cutting the straw, which serves as fodder;</i> it is <i>a machine in the form of a chair fixed upon a sledge, which moves upon small iron wheels,</i> or <i>thin circular plates, generally eleven, fixed to three thick axle-trees, four to the foremost, the same number to the hindmost, and three to the intermediate axle-tree: this machine is drawn, in a circle, by a pair of cows</i> or <i>bulls, their driver being seated upon it, over the corn:</i> pl. [of the first and last words] نَوَارِجُ. (TA.) ―         -b2-  Also, the first and second, <i>A ploughshare.</i> (K.)    </entryFree> <br>\
+<b>نُورَجٌ</b>               1     <br>\
+                     نُورَجٌ<br>\
+                     ذ<br>\
+                   and نَيْرَجٌ: see نَوْرَجٌ    <br>\
+<b>نَارَنْجٌ</b>               1     <br>\
+                     نَارَنْجٌ<br>\
+                     ذ<br>\
+                  <i>A well-known fruit;</i> [the <i>orange; citrus aurantium; of which there are two species common in the gardens of the East, one sweet, and the other bitter:</i>] and arabicized word, from [the Persian] نَارَنْكْ [also called نَارِنْج]. (K.)   </entryFree> <br>\
+' } );

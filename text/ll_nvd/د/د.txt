@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'دalphabetical letter<br>\
+د<br>\
+The eighth letter of the alphabet: called دَالٌ. It<br>\
+is one of the letters termed مَجْهُورَة [or vocal, i. e.<br>\
+pronounced with the voice, not with the breath<br>\
+only]; and of the letters termed نِطَعِيَّة [pronounced by pressing the tip of the tongue against<br>\
+the upper gums and suddenly withdrawing it],<br>\
+like ط and ت. (TA.) It is substituted, agreeably with general usage, for the ت of the form<br>\
+اِفْتَعَلَ and its variations, when the first radical<br>\
+letter is ز, as in اِزْدَادَ [for اِزْتَادَ]; or ذ, as in اِدَّكَرَ<br>\
+[for اِذْدَكَرَ, originally اِذْتَكَرَ]; or د, as in اِدَّرَأَ<br>\
+[for اِدْدَرَأَ, originally اِدْتَرَأَ]: and sometimes after<br>\
+ج, as in اِجْدَمَعُوا, a dial. var. of اِجْتَمَعُوا: also,<br>\
+sometimes, for the pronominal affix ت after د,<br>\
+as in جَلَدُّ for جَلَدْتُ; and after ز, as in جُزْدُ for<br>\
+جُزْتُ: it is also substituted for the ت of تَوْلَجٌ,<br>\
+contr. to analogy: and it occurs substituted for<br>\
+ط, contr. to general usage, as in مَرَدَى for مَرَطَى.<br>\
+(MF.)<br>\
+-A2-  [As a numeral, it denotes Four.]<br>\
+' } );

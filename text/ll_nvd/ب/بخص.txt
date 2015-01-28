@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'بخص1<br>\
+بَخَصَ عَيْنَهُ, (S, A, Mgh, Msb, K, &amp;c.,) aor.<br>\
+بَخَصَ,<br>\
+(S, Mgh, K,) inf. n. بَخْصٌ, (S, Mgh,) He put out<br>\
+his eye; syn. فَقَأَهَا, (Mgh,) and عَوَّرَهَا: (A, Mgh:)<br>\
+or he pulled out his eye [altogether, i. e.,] with its<br>\
+bulb: (S, K: [in the former, مَعض شَحْمَتِهَا: in the<br>\
+latter, not so well, بِشَحْمِهَا:]) or he put his finger<br>\
+into his eye: (Msb:) Yaakoob says that you<br>\
+should not say بَخَسَ; (S;) and so says ISk:<br>\
+(TA in art. بخس:) but accord. to As, as related<br>\
+by Aboo-Turáb, you say بَخَصَ عَيْنَهُ and بَخَزَهَا<br>\
+and بَخَسَهَا, all as meaning he put out his eye;<br>\
+syn. فَقَأَهَا: (TA:) and IAar says that بَخَسَهَا and<br>\
+بَخَصَهَا signify alike: (Msb:) the former of these<br>\
+two is a dial. var. of the latter; (TA in art. بخس;)<br>\
+and signifies he put it out (فَقَأَهَا) with his finger<br>\
+or some other thing: (Lth, As, and K in art.<br>\
+بخس:) but بَخَصَ is the better word. (Lh, IAar,<br>\
+Msb.)<br>\
+' } );

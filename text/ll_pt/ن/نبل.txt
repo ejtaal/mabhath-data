@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>نبل</em>            1                  نبل<br>\
+<b>نَبْلٌ</b>               1     <br>\
+                     نَبْلٌ<br>\
+                     ذ<br>\
+                  <i>Arrows:</i> (M:) or <i>Arabian arrows:</i> (T, S, Mgh, Msb, K:) for the sing. they say سَهْمٌ. (T.)    </entryFree> <br>\
+<b>نُبْلٌ</b>               1     <br>\
+                     نُبْلٌ<br>\
+                     ذ<br>\
+                  <i>Sharpness, acuteness,</i> or <i>sagacity;</i> syn. ذَكَا=ءٌ: and <i>generosity,</i> or <i>nobility;</i> syn. نَجَابَةٌ. (K.) ―         -b2-  نُبْلٌ <br>\
+                  <i>Excellence;</i> (T, M;) syn. نَجَابَةٌ; and also ذَكَا=ءٌ. (M.) [Ex.], <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        كَفَى المَرْءَ نُبَلًا اَنْ تُعَدَّ مَعَايِبُهْ<br>\
+                  </quote> (MF, art. حبر.)   </entryFree> <br>\
+' } );

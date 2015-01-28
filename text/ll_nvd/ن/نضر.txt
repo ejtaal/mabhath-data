@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نضرنُضَارٌ<br>\
+A tree of which yellow cups (أَقْدَاح) are<br>\
+made. (T, in TA, voce غَرَبٌ.) See وَرْسِىٌّ.<br>\
+' } );

@@ -1,0 +1,60 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اشب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اشب<br>\
+&lt;entryFree id=&quot;n815&quot; key=&quot;اَشَبَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَشَبَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَشِبَ<br>\
+                  &lt;/form&gt; (M, K,) inf. n. اَشْبٌ, (M, TA,) &lt;i&gt;He mixed it.&lt;/i&gt; (M, K.) And اَشَبْتُ القَوْمَ; (S;) or ↓ <br>\
+      اَشَّبْتُهُمْ, inf. n. تَاْشِيبٌ; (TA;) &lt;i&gt;I mixed the peogle together.&lt;/i&gt; (S, TA.) ―         -b2-  Also, aor. as above, (S, K,) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَشُبَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. as above, (S,) (assumed tropical:)  &lt;i&gt;He charged him with a vice, fault,&lt;/i&gt; or &lt;i&gt;the like; blamed, censured,&lt;/i&gt; or &lt;i&gt;reprehended, him:&lt;/i&gt; (S, K:) or &lt;i&gt;he aspersed, reviled,&lt;/i&gt; or &lt;i&gt;reproached, him, and mixed up falsehood in his aspersion of him.&lt;/i&gt; (TA.) You say also, اَشَبَهُ بِشرٍّ [i. e. بِشَرٍّ or بِشُرٍّ] (assumed tropical:)  &lt;i&gt;He cast upon him a stigma,&lt;/i&gt; or &lt;i&gt;mark of dishonour, by which he became known:&lt;/i&gt; (Lh, TA:) or &lt;i&gt;he cast a censure,&lt;/i&gt; or &lt;i&gt;reproach, upon him, and involved him in it.&lt;/i&gt; (TA.)       -A2-  اَشِبَ الشَّجَرُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَشَبَ<br>\
+                  &lt;/form&gt;, (A, K,) inf. n. اَشَبٌ; (TA;) and ↓ <br>\
+      تاشّب; (K;) or اَشِبَتِ <br>\
+                  الغَيْضَةُ; (S;) &lt;i&gt;The collection of trees,&lt;/i&gt; or &lt;i&gt;the thicket, was,&lt;/i&gt; or &lt;i&gt;became, dense, tangled, confused, intertwined,&lt;/i&gt; or &lt;i&gt;complicated:&lt;/i&gt; (S, K:) or &lt;i&gt;very dense,&lt;/i&gt; or &lt;i&gt;much tangled&lt;/i&gt; or &lt;i&gt;confused, so as to be impassable.&lt;/i&gt; (AHn, A.) ―         -b2-  [Hence,] اَشِبَ الكَلَامُ بَيْنَهُمْ (assumed tropical:)  &lt;i&gt;Their speech, one with another, became confused,&lt;/i&gt; or &lt;i&gt;intricate.&lt;/i&gt; (TA.) ―         -b3-  And اَشِبَ الشَّرُّ لِلَّيِيمِ <br>\
+                  &lt;i&gt;Evil clave to the ignoble.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n816&quot; key=&quot;اشّبهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اشّبهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْشِيبٌ, &lt;i&gt;He rendered it&lt;/i&gt; (a collection of trees) &lt;i&gt;dense, tangled, confused, intertwined,&lt;/i&gt; or &lt;i&gt;complicated.&lt;/i&gt; (K.) ―         -b2-  اَشَبْتُ القَومَ: see 1. ―         -b3-  اشّب الكَلَامَ بَيْنَهُمْ (assumed tropical:)  &lt;i&gt;He made their speech, one with another, confused,&lt;/i&gt; or &lt;i&gt;intricate.&lt;/i&gt; (TA.) ―         -b4-  اشّب الشَّرَّ بَيْنَهُمْ (assumed tropical:)  &lt;i&gt;He occasioned confusion, discord,&lt;/i&gt; or &lt;i&gt;mischief, between them.&lt;/i&gt; (Lth.) And hence, (TA,) تَاْشِيبٌ signifies also The &lt;i&gt;exciting discord, dissension, disorder, strife, quarrelling,&lt;/i&gt; or &lt;i&gt;animosity,&lt;/i&gt; (S, K, TA,) بَيْنَ قَومٍ <br>\
+                  &lt;i&gt;between,&lt;/i&gt; or &lt;i&gt;among, a people.&lt;/i&gt; (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n817&quot; key=&quot;تاشّب&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاشّب<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1. ―         -b2-  تاشّبوا (assumed tropical:)  &lt;i&gt;They were,&lt;/i&gt; or &lt;i&gt;became, mixed,&lt;/i&gt; or &lt;i&gt;confounded together;&lt;/i&gt; as also ↓ <br>\
+      ايتشبوا [written with the disjunctive alif اِيتَشَبُوا]. (S, K.) ―         -b3-  (tropical:)  &lt;i&gt;They assembled,&lt;/i&gt; or &lt;i&gt;congregated, themselves&lt;/i&gt; (A, K) &lt;i&gt;from different parts;&lt;/i&gt; (TA;) as also ↓ <br>\
+      ايتشبوا (K.) And تاشّبوا اـِلَيْهِ (assumed tropical:)  &lt;i&gt;They drew themselves together to him,&lt;/i&gt; (K, TA,) &lt;i&gt;and crowded densely upon him;&lt;/i&gt; or &lt;i&gt;collected themselves together to him, and surrounded him.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَشَبَ<br>\
+                  &lt;/form&gt; see 5, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n818&quot; key=&quot;اَشَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَشَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of اَشِبَ. (TA.) ―         -b2-  [Hence,] &lt;i&gt;Confusedness; dubiousness:&lt;/i&gt; so in the saying, ضَرَبَتْ <br>\
+                  فِيهِ فُلَانَةُ بِعِرْقٍ ذِى اَشَبٍ i. e. ذِى اْلْتِبَاسٍ. (S.) See art. ضرب ―         -b3-  Also &lt;i&gt;An abundance of trees.&lt;/i&gt; (TA.) In a trad. of Ibn-Umm-Mektoom, اـِنِّى <br>\
+                  رَجُلٌ ضَرِيرٌ بَيْنِى وَ بَيْنَكَ اَشَبٌ فَرَخِّصْ لِى فِي العِشَا=ءِ <br>\
+                  وَالفَجْرِ means &lt;i&gt;Verily I am a blind man,&lt;/i&gt; [and] &lt;i&gt;between me and thee are palm-trees confusedly disposed; therefore grant thou me indulgence with respect to&lt;/i&gt; [coming to thee to perform the prayers of] &lt;i&gt;the nightfall and the daybreak.&lt;/i&gt; (K, * MF, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n819&quot; key=&quot;اَشِبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَشِبٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Dense, tangled, confused, intertwined,&lt;/i&gt; or &lt;i&gt;complicated;&lt;/i&gt; applied to a collection of trees: (S, TA:) or &lt;i&gt;so dense,&lt;/i&gt; or &lt;i&gt;so much tangled&lt;/i&gt; or &lt;i&gt;confused, as to be impassable;&lt;/i&gt; applied to a thicket: (A:) and a place &lt;i&gt;abounding with trees:&lt;/i&gt; (TA:) applied also to (tropical:)  a collection of clouds, meaning &lt;i&gt;commingled:&lt;/i&gt; (A:) and to (assumed tropical:)  a number, meaning &lt;i&gt;intricate,&lt;/i&gt; or &lt;i&gt;confused.&lt;/i&gt; (S, TA.) It is said in a prov., عِيصُكَ مَنْكَ وَ اـِنْ كَانَ اَشِبًا (A,) meaning (tropical:)  [&lt;i&gt;Thy stock is an appertenance of thine] although it be thorny and intricate&lt;/i&gt; or &lt;i&gt;confused.&lt;/i&gt; (TA. [See art. عيص])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n820&quot; key=&quot;اُشَابَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُشَابَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;A medley,&lt;/i&gt; or &lt;i&gt;mixed&lt;/i&gt; or &lt;i&gt;promiscuous multitude&lt;/i&gt; or &lt;i&gt;assemblage,&lt;/i&gt; of men, or people; (S, A, L, K) &lt;i&gt;congregated from every quarter:&lt;/i&gt; (L:) pl. اَشَايِبُ. (S, K. *) You say, هٰوُلَا=ءِ اُشَابَةٌ (tropical:)  &lt;i&gt;These are a collection&lt;/i&gt; [of people] &lt;i&gt;from different places.&lt;/i&gt; (TA.) ―         -b2-  Also (tropical:)  &lt;i&gt;Mixtures of unlawful and lawful kinds&lt;/i&gt; of property: (A:) or &lt;i&gt;what is mixed with that which has been unlawfully acquired;&lt;/i&gt; (K, TA;) &lt;i&gt;that in which is no good;&lt;/i&gt; (TA;) of gains: pl. as above. (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n821&quot; key=&quot;مَاْشُوبٌ الحَسَبِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْشُوبٌ الحَسَبِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;Not pure in his grounds of pretension to respect.&lt;/i&gt; (ISd, TA.) [See also what follows.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n822&quot; key=&quot;جَمْعٌ مُوْتَشَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَمْعٌ مُوْتَشَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مُوْتَشِبٌ (tropical:)  [&lt;i&gt;A mixed collection of people&lt;/i&gt;]. (A.) ―         -b2-  فُلَانٌ مُوْتَشَبٌ, (S, K, *) with fet-h [to the ش], (K,) in one copy of the K, مُوَشَّبٌ, (TA,) (assumed tropical:)  &lt;i&gt;Such a one is of mixed, not of pure, race,&lt;/i&gt; or &lt;i&gt;lineage.&lt;/i&gt; (S, K.)   &lt;/entryFree&gt; <br>\
+' } );

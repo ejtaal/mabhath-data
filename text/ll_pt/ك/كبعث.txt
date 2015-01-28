@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كبعث</em>            1                  كبعث<br>\
+<b>كَبَعْثَاةٌ</b>               1     <br>\
+                     كَبَعْثَاةٌ<br>\
+                     ذ<br>\
+                   The [<i>thing termed</i>] عَفَلٌ of a woman: (K:) a dial. form of قَبَعْثَاةٌ. (TA.)   </entryFree> <br>\
+' } );

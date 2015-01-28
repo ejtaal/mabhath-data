@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '<em>صفد</em>            1                  صفد<br>\
+<b>صَفَدَهُ</b>               1     <br>\
+                     صَفَدَهُ<br>\
+                     ذ<br>\
+                  , (S, M, A, Mgh, K,) aor.      <br>\
+                     صَفِدَ<br>\
+                  , (S, M, Mgh, K,) inf. n. صَفْدٌ (S, M, Mgh) and صُفُودٌ; (M;) <i>He bound him, bound him fast</i> or <i>made him fast,</i> (S, M, A, Mgh, K,) <i>shackled him,</i> or <i>fettered him, in iron</i> &amp;amp;c., (M,) or <i>with iron,</i> (A,) or <i>with a</i> [<i>collar of iron put upon the neck</i> or <i>around the neck and hands together, such as is called</i>] غُلّ; (L;) and ↓ <br>\
+      صفّدهُ, (M, K,) inf. n. تَصْفِيدٌ, (S,) signifies the same; (S, M, K;) and so ↓ <br>\
+      اصفدهُ, (K,) or this last has a different signification from the two other verbs mentioned above, as expl. below. (L.)    </entryFree> <br>\
+                     صَفَّدَ<br>\
+                   see above. ―         -b2-  [Hence,] one says, صَفَّدْتُهُ, بِكَلَامِى, inf. n. تَصْفِيدٌ <br>\
+                  <i>I overcame him by my speech.</i> (A, TA.)    </entryFree> <br>\
+<b>اصفدهُ</b>               1     <br>\
+                     اصفدهُ<br>\
+                     ذ<br>\
+                  , (S, M, A, L,) inf. n. اـِصْفَادٌ, (S,) <i>He gave him;</i> (S, M, A, L;) <i>gave him freely,</i> or <i>gratuitously;</i> (L;) property, or a slave: (S:) it is doubly trans. (M.) One says, اـِنْ اَفَدْتَنِى حَرْفًا <br>\
+                  فَقَدْ اَصْفَدْتَنِى اَلْفًا [<i>If thou teach me a word, verily thou givest me</i> what is worth <i>a thousand</i> dirhems]. (A, TA.)       -A2-  See also 1.    </entryFree> <br>\
+<b>صَفْدٌ</b>               1     <br>\
+                     صَفْدٌ<br>\
+                     ذ<br>\
+                  : see the next paragraph, in three places.     <br>\
+<b>صَفَدٌ</b>               1     <br>\
+                     صَفَدٌ<br>\
+                     ذ<br>\
+                  <i>A bond;</i> (S, K, TA;) as also ↓ <br>\
+      صَفْدٌ: (TA:) or, (M, A,) as also ↓ <br>\
+      صَفْدٌ, (M,) <i>i. q.</i> ↓ <br>\
+      صِفَادٌ, (M, A,) which signifies <i>a rope,</i> (M,) or <i>a thong,</i> (S, K,) or <i>a shackle,</i> or <i>fetter,</i> (S, A, K,) or <i>a</i> [<i>collar of iron which is put upon the neck</i> or <i>around the neck and hands together, such as is called</i>] غُلّ, (S, M, A,) <i>with which one is made fast,</i> (M,) or <i>with which a captive is made fast:</i> (S, A, K:) pl. اَصْفَادٌ, [expl. in the S and A and K as signifying <i>shackles,</i> or <i>fetters,</i>] the only known pl., though of the form of a pl. of pauc. (M.) ―         -b2-  Also <i>A gift;</i> (S, M, A, K;) [said to be] so called because he upon whom it is conferred is bound thereby; (Ksh and Bd in xxxviii. 37;) and so ↓ <br>\
+      صَفْدٌ: (M:) pl. as above. (L.) One says, الصَّفَدُ صَفَدٌ <br>\
+                  <i>The gift is a shackle,</i> or <i>fetter.</i> (A.) ―         -b3-  And <i>i. q.</i> <br>\
+                  ثَنَا=ءٌ [which generally means <i>Praise, eulogy,</i> or <i>commendation;</i> but is said by some to mean also <i>the contr.</i>]. (M.)    </entryFree> <br>\
+<b>صِفَادٌ</b>               1     <br>\
+                     صِفَادٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>نَهِىَ عَنْ صَلَاةِ الصَّافِدِ</b>               1     <br>\
+                     نَهِىَ عَنْ صَلَاةِ الصَّافِدِ<br>\
+                     ذ<br>\
+                  <i>The praying of him who puts his feet together as though they were fettered is forbidden.</i> (L, from a trad.)    </entryFree> <br>\
+<b>اـِصْفِدٌ</b>               1     <br>\
+                     اـِصْفِدٌ<br>\
+                     ذ<br>\
+                   is used by a poet for اـِصْفِنْطٌ [q. v.]. (M.)   </entryFree> <br>\
+' } );

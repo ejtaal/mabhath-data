@@ -1,0 +1,51 @@
+load_data( { book: 'll_nvd', text: 'هوج1<br>\
+هَوِجَ, aor.<br>\
+هَوَجَ, inf. n. هَوَجٌ; (L;) and ↓ تهوّج;<br>\
+(A, TA;) He (a man) was characterized by<br>\
+what is termed هَوَجٌ, (L, A,) which is similar to<br>\
+هَوَكٌ; (L;) i. e., stupidity, foolishness, or paucity<br>\
+of sense: (JK, L:) tallness, combined with hastiness, and stupidity or foolishness or paucity<br>\
+of sense: (S:) or tallness, with stupidity or<br>\
+foolishness or paucity of sense and levity or<br>\
+fickleness or unsteadiness, and hastiness: (K:)<br>\
+or tallness, with levity or fickleness or unsteadiness, and hastiness: (TA:) or tallness,<br>\
+(A,) or excessive tallness, (L,) with stupidity<br>\
+or foolishness or paucity of sense. (L.)<br>\
+4<br>\
+اهوجهُ He found him to be such a man as<br>\
+is termed أَهْوَجُ. (L.)<br>\
+5<br>\
+تَهَوَّجَ see 1.<br>\
+هَوَجٌ: see 1. ―<br>\
+-b2-  فى فُلَانٍ عَوَجٌ, and هَوَجٌ, are<br>\
+syn., [meaning In such a one is a deviation from<br>\
+rectitude]. (AA, L.)<br>\
+هَاجَةٌ a dial. form of حَاجَةٌ; but of weak<br>\
+authority. (L, from a trad.)<br>\
+أَهْوَجُ A man characterized by what is termed<br>\
+هَوَجٌ; (S, L, &amp;c.;) stupid, foolish, or having<br>\
+little sense: (JK, L:) or tall, with hastiness,<br>\
+and stupidity or foolishness or paucity of sense,<br>\
+&amp;c.: (S, &amp;c.:) fem. هَوْجَآءُ: (A:) [pl. هُوجٌ.] ―<br>\
+-b2-<br>\
+أَهْوَجُ الطُّولِ (tropical:)  A man exceedingly, or excessively,<br>\
+tall. (A.) ―<br>\
+-b3-  Also أَهْوَجُ (tropical:)  A courageous man,<br>\
+who throws himself into a scene of war. (A.) ―<br>\
+-b4-<br>\
+أَهْوَجُ (tropical:)  A he-camel that goes quickly, as though<br>\
+characterized by what is termed هَوَجٌ: fem.<br>\
+هَوْجَآءُ: [pl. هُوجٌ:] or the fem. epithet only is<br>\
+used, applied to a camel; and you say نَاقَةٌ هَوْجَآءُ;<br>\
+(TA;) i. e., a she-camel that goes quickly, &amp;c.,<br>\
+as explained above; (S, K;) and that does not<br>\
+always care where she puts her feet on the<br>\
+ground. (A.) ―<br>\
+-b5-  رِيحٌ هَوْجَآءُ (tropical:)  Any wind that<br>\
+blows violently: (IAar:) or a wind of which the<br>\
+blasts are closely consecutive, as though characterized by what is termed هَوَجٌ: or a wind that<br>\
+carries away the dust, and makes a trace upon<br>\
+the ground like that made by dragging the skirt:<br>\
+(TA:) or a wind that tears up the tents: (S,<br>\
+K:) pl. هُوجٌ. (S.)<br>\
+' } );

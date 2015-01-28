@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'نكف1<br>\
+نَكِفَ مِنَالشَّىْءِ<br>\
+, aor.<br>\
+نَكَفَ<br>\
+; inf. n. نَكَفٌ; and<br>\
+نَكَفَ, aor.<br>\
+نَكُفَ<br>\
+; and ↓ استنكف; He abstained from,<br>\
+or refused to do, the thing, from disdain and<br>\
+pride. (Msb.)<br>\
+5<br>\
+تَنَكَّفَ بِمَوْضِعِ كَذَا<br>\
+[He waited, &amp;c.,] i. q.<br>\
+تَلَيَّثَ. (TA in art. صقر, from the “ Nawádir. ”)<br>\
+10<br>\
+اِسْتَنْكَفَ مِنْهُ<br>\
+(KL, * MA) He disdained, or<br>\
+scorned, it; was ashamed of it. (KL, MA.) See 1.<br>\
+نَكَفَةٌ<br>\
+: see غُنْدُبَةٌ, and لُغْدٌ.<br>\
+' } );

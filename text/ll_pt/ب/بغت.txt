@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>بغت</em>            1                  بغت<br>\
+<b>بَغَتَهُ</b>               1     <br>\
+                     بَغَتَهُ<br>\
+                     بغى<br>\
+                     بغت<br>\
+                     بغته<br>\
+                     بغتة<br>\
+                     بغتته<br>\
+                     غت<br>\
+                  , (S, A, &amp;amp;c.,) aor.      <br>\
+                     بَغَتَ<br>\
+                  , (A, Msb, K,) inf. n. بَغْتٌ and بَغْتَةٌ (S, A, Msb, K) and بَغَتٌ (MF) and بَغَتَةٌ (K) and بَغَتَّةٌ, with teshdeed to the ت, of the same measure as جَرَبَّةٌ, accord. to AA&#39;s  reading of the Kur in a passage which will be found below, without a parallel among inf. ns., (Z,) [and said by some to have an intensive signification,] <i>He,</i> or <i>it, came upon him,</i> or <i>happened to him, suddenly, unexpectedly, without his being aware of it,</i> or <i>without any previous cause; surprised him; took him by surprise,</i> or <i>unawares;</i> (S, A, Msb, K;) as also ↓ <br>\
+      باغتهُ, (A, Msb,) inf. n. مُبَاغَتَةٌ (S, K) and بِغَاتٌ. (TA.) It is said in the Kur vi. 31, accord. to the reading mentioned above, اـِذَا جَا=ءَتْهُمُ اْلسَّاعَةُ بَغَتَّةً [<i>When the hour</i> of the resurrection <i>shall come upon them suddenly, unexpectedly,</i> &amp;amp;c.]. (Z.) And you say, جَا=ءَهُ بَغْتَةً <br>\
+                  <i>He,</i> or <i>it, came to him suddenly,</i> &amp;amp;c. (A, Msb.) And لَقِيَهُ بَغْتَةً <br>\
+                  <i>He met,</i> or <i>found, him,</i> or <i>it, suddenly,</i> &amp;amp;c. (S.) And لَسْتُ ا=مَنُ بَغَتَاتِ العَدُوِّ <br>\
+                  <i>I am not secure from,</i> or <i>free from fear of, the enemy&#39;s comings</i> [<i>upon me</i>] <i>unawares.</i> (S.)    </entryFree> <br>\
+                     بَاْغَتَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>البَاغُوتُ</b>               1     <br>\
+                     البَاغُوتُ<br>\
+                     الباغوت<br>\
+                  <i>The festival,</i> (A,) or <i>a certain festival,</i> (IAth, K,) <i>of the Christians;</i> (A, IAth, K;) [namely, <i>Easter;</i>] thus called accord. to some; but accord. to others, الباعوث [q. v.], with the unpointed ع and the three-pointed ث. (IAth.)    </entryFree> <br>\
+<b>مَبْغُوتٌ</b>               1     <br>\
+                     مَبْغُوتٌ<br>\
+                     مبغوت<br>\
+                  <i>i. q.</i> <br>\
+                  مَبْهُوتٌ [<i>Confounded,</i> or <i>perplexed, and unable to see his right course</i>]: so in the saying, لَا رَاْىَ لِمَبْغُوتٍ [<i>There is no judgment to one who is confounded,</i> &amp;amp;c.]. (A.)   </entryFree> <br>\
+' } );

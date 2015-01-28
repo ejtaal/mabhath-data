@@ -1,0 +1,84 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اسف&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اسف<br>\
+&lt;entryFree id=&quot;n756&quot; key=&quot;اَسِفَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَسِفَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسَفَ<br>\
+                  &lt;/form&gt;, inf. n. اَسَفٌ, (M, Msb, K,) &lt;i&gt;He grieved, lamented,&lt;/i&gt; or &lt;i&gt;regretted:&lt;/i&gt; and &lt;i&gt;he was angry:&lt;/i&gt; (Msb:) or &lt;i&gt;he grieved exceedingly:&lt;/i&gt; and &lt;i&gt;he was exceedingly angry:&lt;/i&gt; (M:) or &lt;i&gt;he grieved most intensely:&lt;/i&gt; (K:) some say that اَسَفٌ signifies the &lt;i&gt;grieving&lt;/i&gt; for a thing that has escaped; not in an absolute sense: (MF:) or it properly signifies the &lt;i&gt;rising,&lt;/i&gt; or &lt;i&gt;swelling,&lt;/i&gt; or &lt;i&gt;mantling, of the blood of the heart,&lt;/i&gt; from desire of vengeance; and when this is against an inferior, it is &lt;i&gt;anger;&lt;/i&gt; but when against a superior, it is &lt;i&gt;grief.&lt;/i&gt; (Er-Rághib.) Mo- hammad, being asked respecting sudden death, answered, saying, رَاحَةٌ لِلْمُوْمِنِ وَاَخْذَةُ اَسَفٍ لِلْكَافِرِ, or accord. to one recital, ↓ <br>\
+      اَسِفٍ, i. e. [&lt;i&gt;Rest,&lt;/i&gt; or &lt;i&gt;ease, to the believer, and an act of punishment&lt;/i&gt;] &lt;i&gt;of anger&lt;/i&gt; [&lt;i&gt;to the unbeliever&lt;/i&gt;], or &lt;i&gt;of one who is angry.&lt;/i&gt; (K.) You say, اَسِفَ عَلَى مَا فَاتَهُ, inf. n. as above; (S;) and ↓ <br>\
+      تاسّف; (S, M, * K; *) &lt;i&gt;He grieved,&lt;/i&gt; or &lt;i&gt;lamented, for,&lt;/i&gt; or &lt;i&gt;at,&lt;/i&gt; or &lt;i&gt;regretted, most intensely, what had escaped him:&lt;/i&gt; (S, M, * K:) and اَسِفَ عَلَيْهِ, (S, K,) inf. n. as above, (S,) &lt;i&gt;he was angry with him,&lt;/i&gt; or &lt;i&gt;at it:&lt;/i&gt; (S, K:) or اَسِفَ فُلَانٌ عَلَى كَذَا <br>\
+                  وَكَذَا and ↓ <br>\
+      تاسّف, signify, accord. to some, &lt;i&gt;such a one grieved,&lt;/i&gt; or &lt;i&gt;lamented, for,&lt;/i&gt; or &lt;i&gt;at, such and such things&lt;/i&gt; which had escaped him: or, accord. to others, &lt;i&gt;grieved,&lt;/i&gt; or &lt;i&gt;lamented, most intensely.&lt;/i&gt; (IAmb.) اَسَفًا in the Kur xviii. 5 means, accord. to Ed-Dahhák, جَزَعًا [i.e. &lt;i&gt;In grief,&lt;/i&gt; or &lt;i&gt;in most violent grief,&lt;/i&gt; &amp;amp;c.]: or, accord. to Katádeh, &lt;i&gt;in anger.&lt;/i&gt; (TA.) And يَا اَسَفَا عَلَى يُوسُفِ, in the Kur [xii. 84], means يَا جَزَعَاهُ [&lt;i&gt;O my grief for Joseph:&lt;/i&gt; or &lt;i&gt;O my most violent grief&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n757&quot; key=&quot;ا=سفهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=سفهُ<br>\
+                     ا=سفه<br>\
+                     ا=سفة<br>\
+                  &lt;/form&gt; (in [some of] the copies of the K, erroneously, اَسَفَهُ, TA) &lt;i&gt;He angered him; made&lt;/i&gt; <br>\
+                  &lt;i&gt;him angry:&lt;/i&gt; (S, M, * O, L, Msb, K:) and &lt;i&gt;he grieved him; made him to grieve,&lt;/i&gt; or &lt;i&gt;lament.&lt;/i&gt; (M,* TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَسَّفَ<br>\
+                  &lt;/form&gt; see 1, in two places. ―         -b2-  تَاَسَّفَتْ يَدَهُ (tropical:)  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تَشَعَّثَتْ [app. meaning &lt;i&gt;His hand became bruised,&lt;/i&gt; or &lt;i&gt;mangled;&lt;/i&gt; or &lt;i&gt;became cracked,&lt;/i&gt; or &lt;i&gt;chapped&lt;/i&gt;]. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n758&quot; key=&quot;اَسَفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of 1, which see throughout. [Used as a subst., &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَسَافةٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n759&quot; key=&quot;اَسِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (M, Mgh, Msb) and ↓ <br>\
+      اسِفٌ and ↓ <br>\
+      اَسْفَانُ and ↓ <br>\
+      اَسِيفٌ (M, TA) and ↓ <br>\
+      اَسُوفٌ (M) &lt;i&gt;Angry:&lt;/i&gt; (Mgh, Msb, TA:) or &lt;i&gt;exceedingly angry.&lt;/i&gt; (M.) For an ex. of the first, see 1. See also اَسِيفٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n760&quot; key=&quot;اَسْفَانُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسْفَانُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَسِفٌ: and اَسِيفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n761&quot; key=&quot;اـِسَافٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِسَافٌ<br>\
+                     اساف<br>\
+                  &lt;/form&gt; (S, M, Sgh, &amp;amp;c.) and اَسَافٌ (IAth, K) &lt;i&gt;A certain idol,&lt;/i&gt; (S, M, K,) &lt;i&gt;belonging to Kureysh,&lt;/i&gt; (S, M,) &lt;i&gt;as was also&lt;/i&gt; <br>\
+                  نَايِلَةُ; (S;) &lt;i&gt;the former of which was placed, by &#39;Amr Ibn-Loheí, upon Es-Safà, and the latter upon El-Marweh; and he used to sacrifice to them, in front of the Kaabeh:&lt;/i&gt; (S, K:) or, (S, M, K,) as some assert, (S,) &lt;i&gt;these two were two persons of Jurhum,&lt;/i&gt; (S, K,) &lt;i&gt;a man and a woman,&lt;/i&gt; (M,) اساف <br>\
+                  &lt;i&gt;the son of &#39;Amr, and&lt;/i&gt; <br>\
+                  نايلة <br>\
+                  &lt;i&gt;the daughter of Sahl,&lt;/i&gt; (S, K,) &lt;i&gt;who committed fornication in the Kaabeh, and were therefore changed into two stones,&lt;/i&gt; (S, M, K,) &lt;i&gt;which Kureysh afterwards worshipped.&lt;/i&gt; (S, K.) [Other accounts of them are also given, slightly differing from the latter above.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n762&quot; key=&quot;اَسُوفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسُوفٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَسِيفٌ, in two places: and see اَسِفٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n763&quot; key=&quot;اَسِيفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِيفٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Grieving, lamenting,&lt;/i&gt; or &lt;i&gt;regretting,&lt;/i&gt; (K, * TA,) &lt;i&gt;most intensely, on account of a thing that has escaped:&lt;/i&gt; (M, TA:) and &lt;i&gt;quickly affected with grief,&lt;/i&gt; (S, Mgh, K,) &lt;i&gt;and tender-hearted;&lt;/i&gt; as also ↓ <br>\
+      اَسُوفٌ: (S, K:) or, as also ↓ <br>\
+      اَسُوفٌ (M) and ↓ <br>\
+      اَسْفَانُ and ↓ <br>\
+      ا=سِفٌ (M, TA) and ↓ <br>\
+      اَسِفٌ , (M,) &lt;i&gt;grieving exceedingly:&lt;/i&gt; (M:) or &lt;i&gt;grieved:&lt;/i&gt; (TA:) and sometimes the first signifies &lt;i&gt;angry, and at the same time grieving,&lt;/i&gt; or &lt;i&gt;lamenting:&lt;/i&gt; (S:) pl. اُسَفَا=ءُ. (M.) See also اَسِفٌ. ―         -b2-  &lt;i&gt;A slave:&lt;/i&gt; (ISk, S, M, K:) and &lt;i&gt;a hired man:&lt;/i&gt; (ISk, M, K:) because of their state of abasement and subjection: fem. with ة: (M:) and pl. as above. (S, M.) ―         -b3-  &lt;i&gt;A captive.&lt;/i&gt; (TA.) ―         -b4-  &lt;i&gt;A very old man:&lt;/i&gt; (K:) pl. as above: so in a trad., in which the slaying of such is forbidden. (TA.) ―         -b5-  One &lt;i&gt;who scarcely,&lt;/i&gt; or &lt;i&gt;never, becomes fat.&lt;/i&gt; (K.) ―         -b6-  (assumed tropical:)  &lt;i&gt;A region,&lt;/i&gt; or &lt;i&gt;country, that does not give growth to anything,&lt;/i&gt; or &lt;i&gt;produce any vegetation;&lt;/i&gt; as also اَسِيفَةٌ and ↓ <br>\
+      اُسَافَةٌ and ↓ <br>\
+      اَسَافَةٌ: (M:) and ↓ <br>\
+      اَسَافَةٌ also signifies (assumed tropical:)  &lt;i&gt;thin,&lt;/i&gt; or &lt;i&gt;shallow, earth:&lt;/i&gt; (AHn, M:) and اَرْضٌ اَسِيفَةٌ, (tropical:)  &lt;i&gt;thin,&lt;/i&gt; or &lt;i&gt;shallow, earth, which scarcely,&lt;/i&gt; or &lt;i&gt;never, gives growth to anything,&lt;/i&gt; or &lt;i&gt;produces any vegetation:&lt;/i&gt; (S:) or &lt;i&gt;which is not commended for its vegetation:&lt;/i&gt; (A, TA:) or, as also ↓ <br>\
+      اُسَافَةٌ and ↓ <br>\
+      اَسَافَةٌ, (assumed tropical:)  &lt;i&gt;thin,&lt;/i&gt; or &lt;i&gt;shallow, earth:&lt;/i&gt; or &lt;i&gt;such as does&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;59&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;not produce vegetation:&lt;/i&gt; and ↓ (assumed tropical:) اَرْضٌ اَسِفَةٌ <br>\
+                  &lt;i&gt;land which scarcely,&lt;/i&gt; or &lt;i&gt;never, produces vegetation.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n764&quot; key=&quot;اَسَافَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَافَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Grief, lamentation,&lt;/i&gt; or &lt;i&gt;regret:&lt;/i&gt; and &lt;i&gt;anger:&lt;/i&gt; (see 1:) or] &lt;i&gt;excessive grief:&lt;/i&gt; and &lt;i&gt;excessive anger:&lt;/i&gt; (M:) or &lt;i&gt;most intense grief:&lt;/i&gt; (K:) a subst. from اَسِفَ. (M, K.) ―         -b2-  The &lt;i&gt;state,&lt;/i&gt; or &lt;i&gt;condition, of a slave:&lt;/i&gt; (M, K:) and, &lt;i&gt;of a hired man.&lt;/i&gt; (M.) ―         -b3-  (tropical:)  The &lt;i&gt;state,&lt;/i&gt; or &lt;i&gt;condition, of land which scarcely,&lt;/i&gt; or &lt;i&gt;never, produces vegetation.&lt;/i&gt; (K, TA.)       -A2-  See اَسِيفٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n765&quot; key=&quot;اَسَافَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسَافَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَسِيفٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n766&quot; key=&quot;ا=سِفٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=سِفٌ<br>\
+                     ا=سف<br>\
+                  &lt;/form&gt;: see اَسِيفٌ: and اَسِفٌ.   &lt;/entryFree&gt; <br>\
+' } );

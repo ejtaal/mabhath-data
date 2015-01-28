@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هوس</em>            1                  هوس<br>\
+<b>هَوَسٌ</b>               1     <br>\
+                     هَوَسٌ<br>\
+                     ذ<br>\
+                  <i>Somewhat of madness,</i> or <i>insanity,</i> or <i>diabolical possession,</i> (S, A, K,) <i>in the head:</i> (A:) or <i>a vertigo,</i> or <i>giddiness, and confused noise, in the head.</i> (A, TA.) ―         -b2-  Hence used by the vulgar to signify <i>Hope.</i> (TA.)    </entryFree> <br>\
+<b>مَهَوَّسٌ</b>               1     <br>\
+                     مَهَوَّسٌ<br>\
+                     ذ<br>\
+                  <i>Affected with somewhat of madness,</i> or <i>insanity,</i> or <i>diabolical possession.</i> (Ibn-&#39;Abbád, K.) ―         -b2-  A man <i>who talks to himself.</i> (A.) ―         -b3-  Sometimes, One <i>who is affected with melancholy, and with vain,</i> or <i>unprofitable, suggestions.</i> (TA.) ―         -b4-  And One <i>who occupies himself with the science of alchemy.</i> (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>نس</em>            1                  نس<br>\
+<b>نَسَّ</b>               1     <br>\
+                     نَسَّ<br>\
+                     ذ<br>\
+                  , aor. يُنُسُّ, <i>He went at a gentle pace.</i> (TA, art. خبز.)    </entryFree> <br>\
+<b>نَسْنَسَتِ الرِّيحُ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     نَسْنَسَتِ الرِّيحُ<br>\
+                     ذ<br>\
+                  <i>The wind blew coldly:</i> see R. Q. 1 in art. سن.    </entryFree> <br>\
+<b>رِيحٌ نَسْنَاسَةٌ</b>               1     <br>\
+                     رِيحٌ نَسْنَاسَةٌ<br>\
+                     ذ<br>\
+                  <i>A cold wind:</i> see سَنْسَانَةٌ.   </entryFree> <br>\
+' } );

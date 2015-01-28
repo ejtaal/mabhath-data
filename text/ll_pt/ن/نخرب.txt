@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>نخرب</em>            1                  نخرب<br>\
+<b>نَخْرَبَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     نَخْرَبَ<br>\
+                     اخرب<br>\
+                     نخرب<br>\
+                     خرب<br>\
+                  <i>It</i> (a canker-worm) <i>pierced holes in,</i> or <i>eroded,</i> a tree. (K.) IJ derives this verb from خَرَابٌ, (TA,) q. v.    </entryFree> <br>\
+<b>نُخْرُوبٌ</b>               1     <br>\
+                     نُخْرُوبٌ<br>\
+                     نخروب<br>\
+                  ; (S, K;) mentioned in the K without description of its measure because there is no Arabic word of the measure فَعْلُولْ; but some prefer it being written نَخْرُوبٌ, [as it is in the CK,] asserting its ن to be augmentative, so that its measure is نَفْعُولٌ, as IAar holds, asserting it to be derived from خَرَابٌ; (TA;) <i>A fissure,</i> or <i>cleft,</i> in a stone. (S, K.) ―         -b2-  Also, [so in the TA: in the CK and a MS. copy, or,] <i>A hole, perforation,</i> or <i>bore,</i> in anything. (K.) Pl. نَخَارِيبُ. (S.) ―         -b3-  Also, the pl., The <i>holes,</i> or <i>cells, prepared with wax for the bees to deposit their honey therein:</i> (K:) <i>holes like the cells of wasps.</i> (L.)    </entryFree> <br>\
+<b>نَخْرَبُوتٌ</b>               1     <br>\
+                     نَخْرَبُوتٌ<br>\
+                     ذ<br>\
+                   [<i>i. q.</i> <br>\
+                  تَخْرَبُوتٌ] An <i>excellent, nimble,</i> or <i>agile,</i> she-camel. Some say that its ن is augmentative, and its radical letters are خرب; but its derivation from خَرَابٌ is not apparent; therefore its ن should be considered as radical. (AHei.)    </entryFree> <br>\
+<b>شَجَرَةٌ مُنَخْرِبَةٌ</b>               1     <br>\
+                     شَجَرَةٌ مُنَخْرِبَةٌ<br>\
+                     ذ<br>\
+                  , and مُنَخْرَبَةٌ, <i>A tree that is old and pierced with holes.</i> (K.)   </entryFree> <br>\
+' } );

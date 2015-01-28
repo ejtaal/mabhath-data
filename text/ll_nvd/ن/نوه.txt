@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'نوه1<br>\
+نَاهَ بِهِ<br>\
+(Msb) and بِهِ ↓ نَوَّهَ (S, Mgh, Msb, K)<br>\
+He rendered famous (S, Mgh, Msb, K *) and<br>\
+magnified; (Msb;) and rendered notorious;<br>\
+(Mgh;) it, (S, Msb,) namely a person&#39;s name,<br>\
+(S,) or a thing, (Msb,) or him. (Mgh.)<br>\
+2<br>\
+نَوَّهَ<br>\
+see 1.<br>\
+' } );

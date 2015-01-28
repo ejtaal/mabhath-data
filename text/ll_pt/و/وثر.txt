@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>وثر</em>            1                  وثر<br>\
+<b>التَّوَاثِيرُ</b>               1     <br>\
+                     التَّوَاثِيرُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَعْوَانُ الرَّجُلِ. (TA, in art. امل.)   </entryFree> <br>\
+' } );

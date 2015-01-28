@@ -1,0 +1,62 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;عبا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  عبا<br>\
+&lt;entryFree id=&quot;n27770&quot; key=&quot;عَبَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     عَبَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     عَبَاَ<br>\
+                  &lt;/form&gt;, inf. n. عَبْءٌ, &lt;i&gt;He packed up&lt;/i&gt; goods, or utensils; &lt;i&gt;put&lt;/i&gt; them &lt;i&gt;one upon another:&lt;/i&gt; (TA:) you say, عَبَاْتُ الشَّىْءَ فِى الوِعَا=ءِ [&lt;i&gt;I packed the thing in the repository&lt;/i&gt;], aor. as above: and some allow also عَبَّيْتُ with teshdeed and ى [which is commonly used in the present day]: (Msb:) [and عَبَوْتُ also, inf. n. عَبْوٌ:] or عَبَاَ, (S, O, K,) aor. as above, (K,) and so the inf. n.; (S, O;) and ↓ <br>\
+      عبّا, inf. n. تَعْبِيَةٌ and تَعْبِىْءٌ; (S, O, K;) &lt;i&gt;he prepared, set in order, disposed,&lt;/i&gt; or &lt;i&gt;arranged,&lt;/i&gt; goods, or utensils: (S, O, K:) and each, (K,) or the former, (Msb,) or the latter, (S, O,) and عبّى, with teshdeed and ى, (Msb,) [agreeably with the authority of Yoo, for] Yoo used to say تَعْبِيَةُ الجَيْشِ, without ء, (S, O,) &lt;i&gt;he fitted out with the requisite equipage &amp;amp;c.,&lt;/i&gt; (K,) or &lt;i&gt;prepared,&lt;/i&gt; (O,) or &lt;i&gt;set in order, disposed,&lt;/i&gt; or &lt;i&gt;arranged,&lt;/i&gt; (O, Msb,) or &lt;i&gt;set in order, disposed,&lt;/i&gt; or &lt;i&gt;arranged, in their places, and prepared for war&lt;/i&gt; or &lt;i&gt;fight,&lt;/i&gt; (TA,) the horsemen, (S, O,) or the army. (Msb, K, TA.) And عَبَاْتُ لَهُ شَرًّا <br>\
+                  &lt;i&gt;I prepared for him evil,&lt;/i&gt; or &lt;i&gt;mischief.&lt;/i&gt; (TA.) ―         -b2-  عَبَاَ, (AZ, S, O, K,) aor. as above, (TA,) and so the inf. n., (AZ, S, O,) also signifies &lt;i&gt;He made,&lt;/i&gt; (K,) or &lt;i&gt;prepared and made,&lt;/i&gt; (AZ, S, O,) and &lt;i&gt;mixed,&lt;/i&gt; perfume; (AZ, S, O, K;) and so ↓ <br>\
+      عبّا, inf. n. تَعْبِيَةٌ and تَعْبِىْءٌ; and عبّى. (TA.) [And accord. to an explanation of the inf. n. in the KL, it seems that عَبَاَ signifies &lt;i&gt;He excited a good,&lt;/i&gt; or &lt;i&gt;pleasant, odour;&lt;/i&gt; as rendered by Golius: but this I think doubtful.] ―         -b3-  مَا اَعْبَاُ بِهِ means &lt;i&gt;What shall I do with it?&lt;/i&gt; (T, K, TA,) namely, the affair. (T, TA.) مَا يَعْبَاُ بِكُمْ رَبِّى, in the Kur [xxv. last verse], is said by Mujáhid to mean &lt;i&gt;What will my Lord do with you?&lt;/i&gt; but see another explanation of this in what follows. (TA.) ―         -b4-  And it signifies also &lt;i&gt;I do not care for, mind, heed,&lt;/i&gt; or &lt;i&gt;regard, him:&lt;/i&gt; (S, O, Msb, K:) or &lt;i&gt;I do not receive with approbation anything from him, nor anything of his discourse:&lt;/i&gt; (Aboo-&#39;Adnán, TA:) or, accord. to Aboo-Is-hák [i. e. Zj], &lt;i&gt;I do not hold him to be of any weight or worth; do not esteem him:&lt;/i&gt; and he says that مَا يَعْبَاُ بِكُمْ رَبِّى, of which an explanation has been given above, means &lt;i&gt;What weight have ye in the estimation of my Lord?&lt;/i&gt; (TA.) One says also, مَا عَبَاْتُ بِهِ <br>\
+                  شَيْيًا, meaning &lt;i&gt;I did not reckon him as anything;&lt;/i&gt; or &lt;i&gt;did not esteem him at all.&lt;/i&gt; (Aboo-&#39;Abd-Er-Rahmán, TA.) And مَا عَبَاْتُ لَهُ شَيْيًا <br>\
+                  &lt;i&gt;I did not care for, mind, heed,&lt;/i&gt; or &lt;i&gt;regard, him:&lt;/i&gt; (T, TA:) or so مَا عَبَاْتُ بِهِ. (Msb.) And قَدْ عَبَاَ اْللّٰهُ عَنْهُ <br>\
+                  &lt;i&gt;God has received with approbation everything from him.&lt;/i&gt; (Aboo-&#39;Adnán, TA.) ―         -b5-  And عَبَاَ لَهُ <br>\
+                  &lt;i&gt;He thought it,&lt;/i&gt; or &lt;i&gt;opined it, and held it,&lt;/i&gt; or &lt;i&gt;took to it as a tenet.&lt;/i&gt; (O, TA.)       -A2-  عَبَاَ وَجْهُهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     عَبَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;His face shone:&lt;/i&gt; (IAar, TA:) and so عَبَا, aor. يَعْبُو. (K in art. عبو.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     عَبَّاَ<br>\
+                  &lt;/form&gt; see 1, former half, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27771&quot; key=&quot;الاِعْتِبَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     الاِعْتِبَا=ءُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  الاِحْتِشَا=ءُ: (S, K, TA:) one says, of a woman, اعتبات بِاْلْمِعْبَاَةِ [or اعتبات alone, as indicated in the S and K, meaning &lt;i&gt;She stuffed her vulva with the&lt;/i&gt; <br>\
+                  مِعْبَاَة, q. v.]. (TA.) ―         -b2-  And [اعتبا app. signifies &lt;i&gt;He put together for himself;&lt;/i&gt; or &lt;i&gt;grasped;&lt;/i&gt; or &lt;i&gt;got,&lt;/i&gt; or &lt;i&gt;gained, possession of;&lt;/i&gt; property,] one says, اِحْتَوَيْتُ مَا عِنْدَهُ وَاْمْتَخَرْتُهُ <br>\
+                  وَاْعْتَبَاْتُهُ وَاْزْدَلَعْتُهُ. (Ibn-Buzurj, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27772&quot; key=&quot;عَبْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     عَبْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph.       -A2-  Also The &lt;i&gt;light&lt;/i&gt; of the sun: (IAar, O, K:) and so عَبٌ, (IAar, O, K, &amp;amp;c.,) of the former of which IAar says that it is not known whether it be a dial. var. of the latter or the original thereof; and he says also that عَبْوَةٌ signifies the same; (TA;) or so عَبْوٌ; (TA in art. عبو;) the pl. of which is عِبًى: (TA in that art. and in the present also:) so too does عَبٌّ, (K in art. عب,) accord. to some. (TA in that art.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27773&quot; key=&quot;عِبْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     عِبْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A load,&lt;/i&gt; or &lt;i&gt;burden,&lt;/i&gt; (S, O, Msb, * K, TA,) of goods, or merchandise, &amp;amp;c.; (TA;) or &lt;i&gt;such as a debt,&lt;/i&gt; or &lt;i&gt;some other reponsibility that one takes upon himself:&lt;/i&gt; (Lth, TA:) &lt;i&gt;a weight,&lt;/i&gt; (Msb, K,) &lt;i&gt;of debt, &amp;amp;c.,&lt;/i&gt; (Msb.) or &lt;i&gt;of anything:&lt;/i&gt; (K:) pl. اَعْبَا=ءٌ. (S, O, Msb.) One says, حَمَلْتُ اَعْبَا=ءَ القَوْمِ i. e. [&lt;i&gt;I bore&lt;/i&gt;] &lt;i&gt;the weights,&lt;/i&gt; or &lt;i&gt;burdens, of debt, &amp;amp;c., of the people,&lt;/i&gt; or &lt;i&gt;party.&lt;/i&gt; (Msb.) ―         -b2-  And &lt;i&gt;A half-load;&lt;/i&gt; or &lt;i&gt;burden borne on one side of a beast, equiponderant to another on the other side;&lt;/i&gt; syn. عِدْلٌ; (S, O, K;) &lt;i&gt;of goods&lt;/i&gt; [&lt;i&gt;&amp;amp;c.&lt;/i&gt;]: &lt;i&gt;each of what are termed&lt;/i&gt; <br>\
+                  عِبْا=نِ: pl. as above. (S, O.) ―         -b3-  And [hence] &lt;i&gt;A like;&lt;/i&gt; as also ↓ <br>\
+      عَبْءٌ: (S, O, K:) pl. as above. (TA.) One says, هٰذَا عَبْءُ هٰذَا <br>\
+                  &lt;i&gt;This is the like of this.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27774&quot; key=&quot;عَبَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     عَبَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph.       -A2-  Also, (K, TA,) applied to a man, (TA,) &lt;i&gt;Stupid, dull,&lt;/i&gt; or &lt;i&gt;heavy:&lt;/i&gt; (K, TA:) like عَبَامٌ. (TA.) [But see عَبًا, in art. عبى.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27775&quot; key=&quot;عَبَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     عَبَا=ءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Msb, K, TA,) as also عَبَايَةٌ, (Msb, TA,) a dial. var., with ى in the place of the ء, (Msb,) or the ء is a substitute for ى, (TA,) and ↓ <br>\
+      عَبَا=ءٌ, (K,) or this is a pl., like عَبَاا=تٌ, (Msb,) [or rather the former of these two is a coll. gen. n. of which عَبَا=ءَةٌ is the n. un.,] &lt;i&gt;A well-known&lt;/i&gt; [&lt;i&gt;sort of woollen garment of the kind called&lt;/i&gt;] كِسَا=ء, (L, K, TA,) &lt;i&gt;in which are&lt;/i&gt; [&lt;i&gt;generally&lt;/i&gt;] &lt;i&gt;stripes;&lt;/i&gt; and said to be &lt;i&gt;a&lt;/i&gt; <br>\
+                  جُبَّة [q. v.] &lt;i&gt;of wool.&lt;/i&gt; (TA.) [See also art. عبى: and for a description and representation of the عباية now most commonly worn in Egypt and Arabia and Syria, see my “ Modern Egyptians. ”]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27776&quot; key=&quot;مَعْبَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَعْبَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَذْهَبٌ [as meaning &lt;i&gt;A way of thinking to which one takes as a tenet&lt;/i&gt;]: (O, K:) from عَبَاَ لَهُ “ he thought it, ” &amp;amp;c. (O.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27777&quot; key=&quot;مِعْبَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِعْبَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;piece of rag used by a woman menstruating.&lt;/i&gt; (IAar, O, K. [See 8.])   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>كعنب</em>            1                  كعنب<br>\
+<b>كَعْنَبٌ</b>               1     <br>\
+                     كَعْنَبٌ<br>\
+                     ذ<br>\
+                  <i>Short:</i> (K:) an epithet applied to a man. (Az.)       -A2-  الكَعْنَبُ and الكُعَانِبُ <br>\
+                  <i>The lion.</i> (K.)       -A3-  كَعَانِبُ <br>\
+                  <i>Knobs,</i> or <i>protuberances,</i> (عُجَرٌ,) of the head. (K.) كَعْنَبٌ A man <i>having knobs,</i> or <i>protuberances,</i> (عُجَرٌ,) <i>on his head.</i> (K.)    </entryFree> <br>\
+<b>تَيْسٌ مُكَعْنَبُ القَرْنِ</b>               1     <br>\
+                     تَيْسٌ مُكَعْنَبُ القَرْنِ<br>\
+                     ذ<br>\
+                  <i>A he-goat having the horn curved so as to resemble a ring:</i> (K:) like مُشَعْنَب, q. v. (TA.)   </entryFree> <br>\
+' } );

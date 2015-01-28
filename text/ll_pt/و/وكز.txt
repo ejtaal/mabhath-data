@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>وكز</em>            1                  وكز<br>\
+<b>وَكَزَهُ</b>               1     <br>\
+                     وَكَزَهُ<br>\
+                     ذ<br>\
+                  , (S, Msb,) aor. يَكِزُهُ, (Msb,) inf. n. وَكْزٌ, (Msb, K,) <i>He struck,</i> or <i>beat him,</i> (S, Msb,) [with anything,] as, for ex., with a staff, or stick: (TA:) or it signifies, (Msb,) or signifies also (S) <i>he struck,</i> or <i>beat, him with his fist upon his chin:</i> (S, Msb:) or, accord. to Ks, <i>i. q.</i> <br>\
+                  لَكَمَهُ; (Msb;) [i. e.] <i>he struck,</i> or <i>beat, him with his fist.</i> (A, K.) ―         -b2-  <i>He pushed,</i> or <i>impelled,</i> or <i>repelled, him.</i> (S, Msb, K.) ―         -b3-  <i>He pierced him</i> (Ks, K, * TK) with a spear. (TK.) ―         -b4-  <i>He goaded him.</i> (TA.) ―         -b5-  <i>He broke</i> his nose. (T, TA.)    </entryFree> <br>\
+<b>وَكْزَةٌ</b>               1     <br>\
+                     وَكْزَةٌ<br>\
+                     ذ<br>\
+                  <i>A blow with the fist.</i> (A.)    </entryFree> <br>\
+<b>وَكَّازٌ</b>               1     <br>\
+                     وَكَّازٌ<br>\
+                     ذ<br>\
+                   One <i>who strikes,</i> or <i>beats, much with his fist.</i> (A.)    </entryFree> <br>\
+<b>مُتَوَكِّزٌ باَمْرٍ</b>               1     <br>\
+                     مُتَوَكِّزٌ باَمْرٍ<br>\
+                     ذ<br>\
+                  <i>Standing ready,</i> or <i>prepared,</i> for a thing, or an affair. (L, art. وكد.)   </entryFree> <br>\
+' } );

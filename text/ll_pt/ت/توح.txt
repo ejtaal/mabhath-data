@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>توح</em>            1                  توح<br>\
+<b>تَاحَ</b>               1     <br>\
+                     تَاحَ<br>\
+                     تاح<br>\
+                  , aor. يَتُوحُ, inf. n. تَوْحٌ: see تَاحَ in art. تيح.   </entryFree> <br>\
+' } );

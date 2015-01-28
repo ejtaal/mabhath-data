@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>ربى</em>            1                  ربى<br>\
+<b>رَبَيْتُ</b>               1     <br>\
+                     رَبَيْتُ<br>\
+                     ذ<br>\
+                  , in the copies of the K, in art. ربو, is a mistake for رَبِيتُ. (TA in that art., q. v.)    </entryFree> <br>\
+<b>لَا وَرَبِيكَ</b>               1     <br>\
+                     لَا وَرَبِيكَ<br>\
+                     ذ<br>\
+                   for لَا وَرَبِّكَ [as though رَبٍ were a dial. var. of رَبٌّ]: see رَبٌّ (last sentence), in art. رب.    </entryFree> <br>\
+<b>رِبَيَانِ</b>               1     <br>\
+                     رِبَيَانِ<br>\
+                     ذ<br>\
+                   a dual of رِبًا, mentioned in art. ربو.    </entryFree> <br>\
+<b>رُبْيَةٌ</b>               1     <br>\
+                     رُبْيَةٌ<br>\
+                     ذ<br>\
+                  <i>A species. of the</i> [<i>small animals called</i>] حَشَرَات [q. v.]: (AHát, S and K * in art. ربو:) pl. رُبًى: (AHát, S:) accord. to IAar, the <i>rat,</i> or <i>mouse:</i> pl. as above: (T:) [or] <i>a certain small beast,</i> or <i>reptile, between the rat,</i> or <i>mouse, and</i> [<i>what is called</i>] اُمُّ حُبَيْنٍ [q. v.]. (M.) And The <i>cat.</i> (K in art. ربو.)       -A2-  See also رِبًا (last sentence), in art. ربو.    </entryFree> <br>\
+<b>رُبَيَّةٌ</b>               1     <br>\
+                     رُبَيَّةٌ<br>\
+                     ذ<br>\
+                  : see رِبًا (last sentence), in art. ربو.    </entryFree> <br>\
+<b>رُبِّيَّةٌ</b>               1     <br>\
+                     رُبِّيَّةٌ<br>\
+                     ذ<br>\
+                  : see رِبًا (last sentence), in art. ربو.    </entryFree> <br>\
+<b>اُرْبِيَّةٌ</b>               1     <br>\
+                     اُرْبِيَّةٌ<br>\
+                     ذ<br>\
+                  : see art. ربو.    </entryFree> <br>\
+<b>اـِرْبِيَانٌ</b>               1     <br>\
+                     اـِرْبِيَانٌ<br>\
+                     ذ<br>\
+                  <i>A species of fish,</i> (S and K in art. ربو, and M in the present art.,) <i>white,</i> (S,) <i>resembling worms,</i> (S, K,) <i>found at El-Basrah.</i> (S.) ―         -b2-  Accord. to Seer, <i>A certain plant.</i> (M.)   </entryFree> <br>\
+' } );

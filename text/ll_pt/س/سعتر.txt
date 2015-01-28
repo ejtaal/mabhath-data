@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>سعتر</em>            1                  سعتر<br>\
+<b>سَعْتَرٌ</b>               1     <br>\
+                     سَعْتَرٌ<br>\
+                     ذ<br>\
+                  <i>A certain plant,</i> (S, Msb, K,) <i>of the kind called</i> <br>\
+                  بُقُول, (Mgh,) <i>well known;</i> (Msb, K;) and applied also to the <i>grain,</i> or <i>seed, thereof:</i> (Mgh:) [<i>a species of origanum,</i> or <i>majoram:</i> so in the present day; and so says Golius, as on the authority of Ibn-Beytár, “ <i>origani species,</i> sc. consonante voce, <i>satureia,</i> Hisp. <i>axedrea:</i> ” accord. to Forskål, (Flora Aeg. Arab. p. cxiv.,) “ <i>thymus serpyllum:</i> ”] some write the word in books of medicine with ص, in order that [when written without the diacritical points] it may not be confounded with شَعِيرٌ: (S, Mgh:) in the T, it is with ص, on the authority of AA, only; and thus in the book of Lth: in the Jámi&#39; of ElGhooree, with س and ص: (Mgh:) or the س is changed into ص in the dial. of Bel&#39;ambar [or Benu-l-&#39;Ambar]; and some pronounced it only with ص: (Msb:) accord. to Abu-l-&#39;Alà, the vulgar pronounce it with س, and the approved word is with ص. (Ham p. 462.) [In the present day, it is also written with ز.]    </entryFree> <br>\
+<b>سَعْتَرِىٌّ</b>               1     <br>\
+                     سَعْتَرِىٌّ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  شَاطِرٌ [q. v.], (K,) in the dial. of the people of El-&#39;Irák. (TA.) ―         -b2-  And <i>Generous, noble,</i> or <i>high-born, and courageous, brave,</i> or <i>strong-hearted.</i> (K.) The pronunciation with ص is of higher authority. (K. [This remark is probably there meant to relate to both of the words of this art.])   </entryFree> <br>\
+' } );

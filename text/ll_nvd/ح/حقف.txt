@@ -1,0 +1,44 @@
+load_data( { book: 'll_nvd', text: 'حقف1<br>\
+حَقَفَ, aor.<br>\
+حَقُفَ, inf.n. حُقُوفٌ, It (a thing)<br>\
+was, or became, curved, bent, or winding. (Msb.)<br>\
+حُقُوفٌ also signifies A gazelle&#39;s being in the<br>\
+condition denoted by [the part. n.] حَاقِفٌ in the<br>\
+phrase ظَبْىٌ حَاقِفٌ, which see below. (Ibn-<br>\
+&#39;Abbád, K.)<br>\
+12<br>\
+احقوقف, said of sand, and of the هِلَال [or<br>\
+moon when, being near the sun, it shows a<br>\
+narrow rim of light], (S, K,) and of the back,<br>\
+(K,) or of anything, such as the back of a camel,<br>\
+(L,) It was curved, bent, or winding, (S, L, K,)<br>\
+and long. (L, K.)<br>\
+حِقْفٌ A curving, or winding, tract of sand:<br>\
+(S, Mgh, Msb, K:) pl. [of pauc.] أَحْقَافٌ (S,<br>\
+Msb, K) and [of mult.] حِقَافٌ (S, K) and حُقُوفٌ,<br>\
+(O, L, K,) and pl. pl. حَقَائِفُ and حِقَفَةٌ, (K,)<br>\
+the former of these two being pl. of أَحْقَافٌ or<br>\
+of حِقَافٌ, (L, TA,) but the latter of them, accord.<br>\
+to the O, is a pl., not a pl. pl. : (TA:) or a heap,<br>\
+or hill, of sand, that has assumed a bowed<br>\
+form: (IDrd, TA:) or a curving, or winding,<br>\
+thin tract of sand: (Har p. 51:) or a great,<br>\
+round tract of sand: (Ibn-&#39; Arafeh, K:) or an<br>\
+oblong, elevated tract of sand: (Fr, K:) or<br>\
+الأَحْقَافُ applies [particularly] to certain oblong<br>\
+tracts of sand in the region of Esh-Shihr: (K, *<br>\
+TA:) accord. to J, [in the S,] to the country of<br>\
+&#39;Ád. (TA.) ―<br>\
+-b2-  Also The lower, or lowest, part<br>\
+of a tract of sand, and of a mountain, and of a<br>\
+wall. (O, L, K.)<br>\
+حَاقِفٌ A gazelle [lying] bent together, or<br>\
+curled, (A &#39;Obeyd, S, Mgh, Msb, K,) like a<br>\
+حِقْف of sand, (Az, Sgh, K,) in his sleep,<br>\
+(A&#39;Obeyd, S, K,) or in consequence of a wound<br>\
+&amp;c.: (Msb:) or lying upon his breast on a<br>\
+حِقْف of sand: (IAar, K:) or, as some say,<br>\
+upon, or at, the lower, or lowest, part of a حِقْف.<br>\
+(Mgh.)<br>\
+أَحْقَفُ A camel lank in the belly. (ISh, K.)<br>\
+' } );

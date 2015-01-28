@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'خنسرخَنْسَرٌ: and خِنْسِرٌ: and خَنْسَرِىٌّ: and خِنْسِيرٌ:<br>\
+and خَنَاسِرُ: and خَنَاسِيرُ: see art. خسر.<br>\
+' } );

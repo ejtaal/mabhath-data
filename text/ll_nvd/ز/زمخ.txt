@@ -1,0 +1,30 @@
+load_data( { book: 'll_nvd', text: 'زمخ1<br>\
+زَمَخَ, (S, K,) or زَمَخَ بِأَنْفِهِ, (L,) aor.<br>\
+زَمَخَ, (K,)<br>\
+inf. n. زَمْخٌ, (L,) He exalted, or magnified, himself; was proud; (S, L, K;) behaved proudly,<br>\
+haughtily, or vainly; (S, L;) elevated his nose,<br>\
+from pride; (L;) i. q. شَمَخَ, or شَمَخَ بِأَنْفِهِ. (TA.)<br>\
+زَمَخٌ: see زَمُوخٌ, in two places.<br>\
+زِمْخٌ or زِمَخٌ The tree called سُمَّاق; as also<br>\
+ظِمْخٌ or ظِمَخٌ. (TA in art. ظمخ; but there<br>\
+written without any syll. signs.)<br>\
+عُقْبَةٌ زَمُوخٌ [in the CK عَقَبَةٌ] (JK, A, K) and<br>\
+↓ زَمَخٌ (K) (tropical:)  [A stage of a journey] far-extending,<br>\
+(K,) hard, or difficult. (AZ, IAar, JK, K.) One<br>\
+says, سَارَ عُقْبَةً زَمُوخًا (tropical:)  [He journeyed a long and<br>\
+hard stage]. (A.) ―<br>\
+-b2-  And نِيَّةٌ زَمُوخٌ (A, and L in<br>\
+art. شمخ) and ↓ زَمَخٌ, like شَمُوخٌ and شَمَخٌ, (L<br>\
+in that art.,) (tropical:)  A distant, far-reaching, or faraiming, intention, purpose, or design. (A, and L<br>\
+ubi suprà.)<br>\
+زَامِخٌ i. q. شَامِخٌ [Proud, &amp;c.]; (S, K;) or<br>\
+شَامِخٌ بِأَنْفِهِ [elevating his nose, from pride]: (A,<br>\
+L:) [pl. زُمَّخٌ.] ―<br>\
+-b2-  أُنُوفٌ زُمَّخٌ i. q. شُمَّخٌ [Noses<br>\
+elevated, from pride]. (S, A.) ―<br>\
+-b3-  [Hence,] جِبَالٌ<br>\
+لَهَا أُنُوفٌ زُمَّخٌ, (A, TA,) i. e. طِوَالٌ (tropical:)  [Mountains<br>\
+having tall, or long, prominences]. (TA.) ―<br>\
+-b4-  And<br>\
+كَيْلٌ زَامِخٌ (tropical:)  Full measure. (JK, A, K.)<br>\
+' } );

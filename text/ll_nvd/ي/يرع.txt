@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'يرعيَرَاعٌ<br>\
+A firefly: see حُبَاحِبٌ.<br>\
+' } );

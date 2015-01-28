@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>زبرجد</em>            1                  زبرجد<br>\
+<b>زَبَرْجَدٌ</b>               1     <br>\
+                     زَبَرْجَدٌ<br>\
+                     ذ<br>\
+                   [The <i>chrysolite; a certain green diaphonous gem;</i>] <i>a well-known gem;</i> (S, Msb, K;) as also زَبَرْدَجٌ; (TA;) <i>i. q.</i> <br>\
+                  زُمُرُّذٌ; (S and K in art. زمرذ;) or said to be so; (Msb;) [but this appears to be a mistake;] or it is <i>a kind of</i> <br>\
+                  زُمُرُّذ: (TA:) the mine in which it receives its being is in the mine of the زمرّذ, with which it is found; but it is very rare, more so than the زمرّذ: at the present period, the year 640 [of the Flight], none whatever of it is found in the mine: <i>some species of it are of a dark green colour; some, light green; and some, of a middling hue of green, of a good water, and very transparent, and these are the best and the most costly species thereof.</i> (ElTeyfáshee, in De Sacy&#39;s Chrest. Arabe, 2nd ed., i. 267, q. v.)   </entryFree> <br>\
+' } );

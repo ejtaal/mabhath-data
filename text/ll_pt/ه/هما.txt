@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>هما</em>            1                  هما<br>\
+<b>هَمَاَ</b>               1     <br>\
+                     هَمَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     هَمَاَ<br>\
+                  , (K,) inf. n. هَمْءٌ; (TA;) and ↓ <br>\
+      اهما; (K;) <i>He rent,</i> (K,) i. e., <i>pulled so that it tore,</i> (TA,) a garment: (K:) <i>he wore out,</i> or <i>rendered threadbare,</i> [<i>and ragged</i>]. (K.)    </entryFree> <br>\
+                     اَهْمَاَ<br>\
+                   see 1.    </entryFree> <br>\
+                     تَهَمَّاَ<br>\
+                   see 7.    </entryFree> <br>\
+<b>انهما</b>               1     <br>\
+                     انهما<br>\
+                     ذ<br>\
+                   (K) and ↓ <br>\
+      تهمّا (S, K) <i>It</i> (a garment) <i>became rent:</i> (TA:) <i>became worn-out,</i> or <i>threadbare,</i> (S, K,) <i>and ragged.</i> (S.)    </entryFree> <br>\
+<b>هِمْءٌ</b>               1     <br>\
+                     هِمْءٌ<br>\
+                     ذ<br>\
+                  <i>A worn-out, threadbare,</i> or <i>ragged, garment:</i> pl. اَهْمَاءٌ. (K.)   </entryFree> <br>\
+' } );

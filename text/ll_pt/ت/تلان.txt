@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>تلان</em>            1                  تلان<br>\
+<b>تَلَانَ</b>               1     <br>\
+                     تَلَانَ<br>\
+                     الان<br>\
+                     تل<br>\
+                     تلان<br>\
+                  <i>i. q.</i> <br>\
+                  اْلْا=نَ [<i>At the present time; now</i>]: (As, K:) the ت is added, as in تَحِينَ. (A&#39;Obeyd &amp;amp;c.) See art. اين.   </entryFree> <br>\
+' } );

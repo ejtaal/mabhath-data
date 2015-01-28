@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'صيغ2<br>\
+صيّغ طَعَامَهُ, (ISh, O, K,) inf. n. تَصْيِيغٌ (K,)<br>\
+He soaked his food in sauce, or seasoning: (ISh,<br>\
+O, K:) and صيّغهُ بِالسَّمْنِ He soaked it with<br>\
+clarified butter. (ISh, O.) [صَبَغَهُ has a similar<br>\
+meaning, and is better known.]<br>\
+صِيغَةٌ and other words in which ى is substituted<br>\
+for و, see in art. صوغ.<br>\
+' } );

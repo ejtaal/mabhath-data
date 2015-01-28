@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;ط&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>T</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;ط&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>ط</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     ط<br>\
+                     ذ<br>\
+                  <i>The sixteenth letter of the alphabet; called</i> <br>\
+                  طَا=ءٌ [and طَا]; the ا of which is reduced to ى [as its radical letter]: when you spell it, you make its final letter quiescent; but when you apply an epithet to it, and make it a noun, you decline it as a noun, saying, [for instance,] هٰذِهِ طَا=ءٌ طَوِيلَةٌ [<i>This is a tall</i> <br>\
+                  ط]: it is one of the letters termed مَجْهُورَة [or vocal, i. e. pronounced with the voice, and not with the breath only]; and of the letters termed نِطْعِيَّة, like ت and د, because originating from the نِطْع [q. v.] of the roof of the mouth. (TA.) It is substituted for the ت in the measure اِفْتَعَلَ and the forms inflected therefrom, and [sometimes] for the pronominal ت, when immediately following any of the palatal letters [ص and ض and ط and ظ]; (MF, TA;) as in [اِصْطَبَرَ and اِضْطَرَبَ and اِطَّبَعَ and اِظْطَلَمَ, for اِصْتَبَرَ and اِضْتَرَبَ and اـِطْتَبَعَ and اِظْتَلَمَ; and in] فَحَصْطُ and حِضْطُ and خَبَطُّ and حَفِظْطُ, for فَحَصْتُ and حِضْتُ and خَبَطْتُ and حَفِظْتُ; but some of the grammarians say that this [latter] substitution is not to be made invariably; [nor is it common;] and it is said to be a dialectal peculiarity of some of the Benoo-Temeem. (TA.) It is also substituted for د: thus Yaakoob mentions, on the authority of As, مَطَّ الحُرُوفَ, for مَدَّ الحُرُوفَ: and AO, المَبْطَاُ, for المَبْدَاُ: and Aboo-&#39;Amr Ez-Záhid, in the Yawákeet, مَا اَبْعَدَ <br>\
+                  طَارَكَ, for مَا اَبْعَدَ دَارَكَ. (TA.)       -A2-  [As a numeral, it denotes <i>Nine.</i>]   </entryFree> <br>\
+' } );

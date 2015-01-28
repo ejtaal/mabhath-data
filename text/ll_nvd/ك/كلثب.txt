@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كلثبكَلْثَبٌ and كُلَاثِبٌ Contracted [in hand or<br>\
+mind]: avaricious: (K:) dissembling, or using<br>\
+craft, or deceit, in affairs: app. a dial. syn. of<br>\
+كَلْتَبٌ. (TA.) See also كَلْبَثٌ.<br>\
+' } );

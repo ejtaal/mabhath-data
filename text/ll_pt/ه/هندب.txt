@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هندب</em>            1                  هندب<br>\
+<b>هِنْدَبٌ</b>               1     <br>\
+                     هِنْدَبٌ<br>\
+                     ذ<br>\
+                   and هِنْدَبَاءٌ &amp;amp;c.: see art. هدب.   </entryFree> <br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'هبر1<br>\
+هَبَرَ, &amp;c.: see Supplement.]<br>\
+ضَرْبٌ هَبْرٌ: see سَعْرٌ.<br>\
+هِبْرِيَةٌ (S, K) and ↓ هُبَارِيَةٌ (TA) [Scurf on the<br>\
+head;] what is in the hair of the head, resembling<br>\
+bran; (S;) the dirt of the head, that clings to<br>\
+the lower part of the hair, resembling bran; (K;)<br>\
+as also إِبْرِيَةٌ (TA) and تِبْرِيَةٌ. (AO, S, K, in art.<br>\
+تبر.) ―<br>\
+-b2-  Also, [both ↓ words,] What flies about, of,<br>\
+or from, feathers, (K, TA,) and the like: (TA:)<br>\
+and the former, what flies about, of, or from, the<br>\
+down of cotton: (K:) or the fine down that flies<br>\
+about from cotton: (L:) and what becomes scattered about, and compacted, of, or from, canes,<br>\
+or reeds, and the بَرْدِىّ [or papyrus]: (Yaakoob:)<br>\
+pl. of the former, هِبْرِيَاتٌ. (TA.)<br>\
+هُبَارِيَةٌ: see above, in two places.<br>\
+هَبُّورٌ Barley growing, or growing forth; in the<br>\
+Nabathaean language. (Sa&#39;eed ibn Jubeyr, TA,<br>\
+art. عصف.)<br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كتا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كتا<br>\
+&lt;entryFree id=&quot;n36623&quot; key=&quot;كَنْتَاَتِ اللِّحْيَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;Q Q&quot;&gt;       <br>\
+                     &lt;itype&gt;Q. Q. 1&lt;/itype&gt;        <br>\
+                     كَنْتَاَتِ اللِّحْيَةُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see كَثَاَت.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36624&quot; key=&quot;كَتْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَتْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A plant resembling the&lt;/i&gt; <br>\
+                  جِرْجِيرٌ, [or &lt;i&gt;rocket&lt;/i&gt;], (K,) &lt;i&gt;which is cooked and eaten.&lt;/i&gt; (TA.) But AM says it is كَثْاَةٌ, with ث; and it is also called نَهْقٌ, accord. to Aboo-Málik and others. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36625&quot; key=&quot;كِنْتَاْوُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كِنْتَاْوُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (but accord. to some, this is from كنت) A &lt;i&gt;strong&lt;/i&gt; rope. (K.) [But see art. كدا.] ―         -b2-  Also, A man &lt;i&gt;having a large and thick,&lt;/i&gt; or &lt;i&gt;a handsome, beard.&lt;/i&gt; (K.) Said to be a dial. form of كِنْثَاْوٌ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

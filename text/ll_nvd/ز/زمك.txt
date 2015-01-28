@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'زمكزِمِكٌّ: see the following paragraph.<br>\
+زِمِكَّى, (Fr, S, K,) with kesr to the ز and م,<br>\
+(K,) like زِمِجَّى [in measure and in meaning,<br>\
+app. from the Pers. زِمْجِى], (S,) [in the O<br>\
+erroneously written زِمَكَّى,] and ↓ زِمِكٌّ, (Fr, K,<br>\
+TA,) like فِلِزٌّ, (TA,) [in the O erroneously written زِمَكّ, and in the CK زَمَك,] and ↓ زِمِكّآءُ, (TA,)<br>\
+The place of the growth of the tail of a bird:<br>\
+(Fr, S, K:) or the root of the tail of a bird:<br>\
+(M, K:) or the whole tail of a bird: (K:) or<br>\
+sometimes, accord. to Lth, the tail itself is called<br>\
+زمكّى when it is short (إِذَا قَصُرَ), (O, TA, *) or, as<br>\
+in some copies [of his book, meaning the &#39;Eyn],<br>\
+when it is clipped (اذا قُصَّ). (TA.)<br>\
+زِمِكَّآءُ: see the preceding paragraph.<br>\
+' } );

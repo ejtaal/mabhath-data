@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'صهرجQ. 1<br>\
+صَهْرَجُوا صِهْرِيجًا They plastered a صِهْرِيج<br>\
+with صَارُوج [or plaster of quick lime]. (L.)<br>\
+Q. 2<br>\
+تَصَهْرَجُوا صِهْرِيًّا [They made for themselves<br>\
+a صِهْرِىّ, i. e. a صِهْرِيج]. (T and TA in art.<br>\
+صهر.)<br>\
+صِهْرِيجٌ (S, A, Msb, K) and صَهْرِيجٌ, but this<br>\
+latter is of weak authority, (Msb,) and ↓ صُهَارِجٌ,<br>\
+(S, K,) as also صِهْرِىٌّ, by a change of the last<br>\
+letter, (ISd, TA,) A حَوْض [i. e. watering-trough,<br>\
+or tank], (K,) or a thing like a حَوْض, (S, A,) in<br>\
+which water collects; (S, A, K;) a tank, or cistern, for rain-water: (ISd, TA:) arabicized:<br>\
+(Msb:) originally Pers.: pl. صَهَارِيجُ. (S.) [See<br>\
+also صِهْرِىٌّ, in art. صهر.]<br>\
+صُهَارِجٌ: see the next preceding paragraph: ―<br>\
+-b2-<br>\
+and also that here following.<br>\
+مُصَهْرَجٌ Made with صَارُوج, (K,) i. e. نُورَة [or<br>\
+plaster of quick lime]. (TA.) One says بِرْكَةٌ<br>\
+مُصَهْرَجَةٌ [A tank, or the like,] made with صَارُوج.<br>\
+(S.) And in like manner, ↓ حَوْضٌ صُهَارِجٌ [A<br>\
+watering-trough, or tank,] plastered with صاروج.<br>\
+(L.)<br>\
+' } );

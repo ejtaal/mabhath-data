@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نأدلنِئْدُِلٌ<br>\
+Calamity; incubus; nightmare: see<br>\
+ضِئْبُِلٌ.<br>\
+' } );

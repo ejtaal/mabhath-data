@@ -1,0 +1,80 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;تام&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  تام<br>\
+&lt;entryFree id=&quot;n3693&quot; key=&quot;تَا=ءَمَ اَخَاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     تَا=ءَمَ اَخَاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K, TA, [in the TT, as from the M, written تَاَمَ, and so by Golius,]) inf. n. مُتَا=ءَمَةٌ, (TA,) &lt;i&gt;He was twinborn with his brother.&lt;/i&gt; (M, K, TA.) ―         -b2-  تا=ءم, (S,) or تا=ءم ثَوْبًا, (M, K, TA, [in the TT, again, written تَاَمَ,]) inf. n. as above, (S, TA,) (assumed tropical:)  &lt;i&gt;He wove a piece of cloth of threads two and two together&lt;/i&gt; (S, M, K) &lt;i&gt;in its warp and its woof.&lt;/i&gt; (K.) [See مِتْا=مٌ, and see also نِيرٌ.] ―         -b3-  تا=ءم الفَرَسُ, (K, [written by Golius تَاَمَ,]) inf. n. as above, (TA,) (assumed tropical:)  &lt;i&gt;The horse fetched run after run.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3694&quot; key=&quot;اَتْاَمَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَتْاَمَتْ<br>\
+                     ذ<br>\
+                  &lt;i&gt;She&lt;/i&gt; (a mother, K, or a woman, S, M, Msb, and any pregnant animal, M) &lt;i&gt;twinned,&lt;/i&gt; or &lt;i&gt;brought forth two at one birth.&lt;/i&gt; (T, S, M, Msb, K.)       -A2-  اَتْاَمَهَا <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَفْضَاهَا [like ا=تَمَهَا, q. v. in art. اتم]. (S, K.) [Golius and Freytag have rendered it as though it meant اَفْضَى اـِلَيْهَا.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3695&quot; key=&quot;تِيْمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تِيْمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, whence هُوَ تِيْمُهُ: see تَوْءَمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3696&quot; key=&quot;تَيِيمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَيِيمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, whence هُوَ تَيِيمُهُ: see تَوْءَمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3697&quot; key=&quot;تُوَامِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُوَامِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A pearl;&lt;/i&gt; (M, K;) so called in relation to تُوَامٌ, (TA,) which is a town twenty leagues from the metropolis of &#39;Omán, (K, TA,) in the tract next the sea, (TA,) a city of &#39;Omán whence pearls are purchased, (M,) erroneously called by J تَوْءَمٌ, [but in one copy of the S I find it written تُوام,] and said by him to be the metropolis of &#39;Omán; (K;) as also ↓ <br>\
+      تَوْءَمِيَّةٌ, (TA, [and thus it is written in copies of the S, but in one copy I find it written تُوامِيَّة,]) thought by En-Nejeeremee to be thus called in relation to the oyster-shell, because this is always what is termed تَوْءَمٌ, q. v. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3698&quot; key=&quot;تَوْءَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَوْءَمٌ<br>\
+                     تم<br>\
+                     توءم<br>\
+                     توام<br>\
+                  &lt;i&gt;A twin; one of two young,&lt;/i&gt; (S, M, Mgh, Msb, K,) and &lt;i&gt;of more,&lt;/i&gt; (M, K,) &lt;i&gt;brought forth at one birth,&lt;/i&gt; (S, M, Mgh, Msb, K,) &lt;i&gt;of any animals; whether a male or a female, or a male&lt;/i&gt; [&lt;i&gt;brought forth&lt;/i&gt;] &lt;i&gt;with a female;&lt;/i&gt; (M, K;) and تَوْءَمَةٌ is [also] applied to &lt;i&gt;a female:&lt;/i&gt; (S, M, Mgh, Msb, K:) it occurs in poetry contracted into تَوَمٌ: (M:) the pl. is تَوَايِمُ and تُوَامٌ, (S, M, Msb, K,) the latter of which is of a rare form, not without parallels, (M,) said by some to be a quasi-pl. n., and by some to be originally [تِيَامٌ,] with kesr, but the assertion of these last is condemned by AHei; (MF;) and تَوْءَمُونَ is allowable as applied to human beings: (S, TA:) you say, هُوَ تَوْءَمُهُ [in the TA, erroneously, تُوْمُهُ, with damm,] and ↓ <br>\
+      تِيْمُهُ and ↓ <br>\
+      تَيِيمُهُ [in the CK تَيْيمُهُ] (AZ, M, K) [meaning &lt;i&gt;He is his twin-brother&lt;/i&gt;]: and هُمَا <br>\
+                  تَوْءَمَانِ (S, * M, Mgh, Msb * K) and تَوْءَمٌ (M, K) [&lt;i&gt;They two are twin-brothers&lt;/i&gt;]: or تَوْءَمٌ applies only to one of the two; (Msb;) it is a mistake to say هُمَا تَوْءَمٌ and هُمَا زَوْجٌ: (Mgh:) [but see زَوْجٌ:] Lth says that تَوْءَمٌ applies to &lt;i&gt;two sons,&lt;/i&gt; or &lt;i&gt;young ones,&lt;/i&gt; [&lt;i&gt;born&lt;/i&gt;] &lt;i&gt;together;&lt;/i&gt; and that one should not say هُمَا تَوْءَمَانِ, but هُمَا تَوْءَمٌ: this, however, is a mistake: correctly, as ISk and Fr say, تَوْءَمٌ applies to one, and تَوْءَمَانِ to two. (T, TA.) &lt;i&gt;It&lt;/i&gt; is of the measure فَوْعَلٌ, (Kh, S, IB, Msb,) in the opinion of some, (IB,) and originally وَوْءَمٌ, (Kh, T, S, IB,) like as تَوْلَجٌ is originally وَوْلَجٌ; (Kh, T, S;) from الوِيَامُ, (T, IB,) “ the being mutually near, ” (T,) “ mutually agreeing, ” (T, IB,) “ being mutually conformable; ” (IB;) so that it means &lt;i&gt;one that agrees with,&lt;/i&gt; or &lt;i&gt;matches, another,&lt;/i&gt; (IB.) ―         -b2-  It is metaphorically used in relation to all things resembling one another [so that it means (tropical:)  &lt;i&gt;One of a pair&lt;/i&gt;]. (M.) A poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        قَالَتْ لَنَا وَدَمْعُهَا تُوَامُ<br>\
+                     &lt;L&gt;<br>\
+                        كَاْلدُّرِّ اـِذْ اَسْلَمَهُ اْلنِّظَامُ<br>\
+                     &lt;L&gt;<br>\
+                        عَلَى اْلَّذِينَ اْرْتَحَلُوا اْلسَّلَامُ<br>\
+                  &lt;/quote&gt; (assumed tropical:)  [&lt;i&gt;She said to us, while her tears fell in pairs,&lt;/i&gt; or &lt;i&gt;in close succession, like large pearls when the string lets them drop off, Upon those who have departed be peace&lt;/i&gt;]. (S.) [This citation, and what immediately follows it in the S, mentioning the pl. تَوْءَمُونَ, not تُوَامُونَ, have been misunderstood by Golius; and Freytag has followed him in this case.] ―         -b3-  التَّوْءَمُ is also [a name of] (assumed tropical:)  &lt;i&gt;A certain Mansion&lt;/i&gt; [&lt;i&gt;of the Moon;&lt;/i&gt; namely, &lt;i&gt;the Sixth; more commonly called&lt;/i&gt; <br>\
+                  الهَنْعَةُ;] &lt;i&gt;pertaining to&lt;/i&gt; <br>\
+                  الجَوْزَا=ء [here meaning &lt;i&gt;Gemini&lt;/i&gt;]; (M, K;) &lt;i&gt;one of two&lt;/i&gt; [&lt;i&gt;asterisms&lt;/i&gt;] &lt;i&gt;called&lt;/i&gt; <br>\
+                  تَوْءَمَانِ: (M:) التَّوْءَمَانِ is (assumed tropical:)  &lt;i&gt;The Sign of Gemini.&lt;/i&gt; (Kzw.) ―         -b4-  [The pl.] تَوَايِمُ also signifies (assumed tropical:)  &lt;i&gt;Clusters,&lt;/i&gt; or &lt;i&gt;what are clustered together,&lt;/i&gt; (مَا تَشَابَكَ,) of stars, and of pearls. (M, K.) ―         -b5-  And تَوْءَمَانِ, (assumed tropical:)  &lt;i&gt;A pair of pearls,&lt;/i&gt; or &lt;i&gt;large pearls, for the ear:&lt;/i&gt; each of them is termed a تَوْءَمَة to the other. (TA.) ―         -b6-  التَّوْءَمَانِ, [in the CK التَّوْءَمانُ,] (assumed tropical:)  &lt;i&gt;A certain small herb,&lt;/i&gt; (AHn, M, K,) &lt;i&gt;having a fruit like cumin-seed,&lt;/i&gt; (AHn, M, and K in art. وام,) &lt;i&gt;and many leaves, growing in the plains, spreading long and wide, and having a yellow flower.&lt;/i&gt; (AHn, TA.) ―         -b7-  التَّوْءَمُ also signifies (assumed tropical:)  &lt;i&gt;The arrow of the kind used in the game called&lt;/i&gt; <br>\
+                  المَيْسِر: (M:) or &lt;i&gt;a certain arrow of those used in that game:&lt;/i&gt; (K:) or &lt;i&gt;the second of those arrows;&lt;/i&gt; (S, M, K;) &lt;i&gt;said by&lt;/i&gt; Lh &lt;i&gt;to have two notches, and to entitle to two portions&lt;/i&gt; [&lt;i&gt;of the slaughtered camel&lt;/i&gt;] &lt;i&gt;if successful, and to subject to the payment for two portions if unsuccessful.&lt;/i&gt; (M.) ―         -b8-  And تَوْءَمَاتٌ, (assumed tropical:)  &lt;i&gt;A kind of women&#39;s vehicles&lt;/i&gt; [&lt;i&gt;borne by camels&lt;/i&gt;], (T, K,) &lt;i&gt;like the&lt;/i&gt; <br>\
+                  مَشَاجِر, (T, TA,) erroneously said in the copies of the K to be like the مَشَاجِب, (TA,) &lt;i&gt;having no coverings,&lt;/i&gt; or &lt;i&gt;canopies:&lt;/i&gt; the sing. is تَوْءَمَةٌ. (T, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3699&quot; key=&quot;تَوْءَمِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَوْءَمِيَّةٌ<br>\
+                     تميه<br>\
+                     تمية<br>\
+                     توءميه<br>\
+                     توءمية<br>\
+                     توام<br>\
+                  &lt;/form&gt;: see تُوَامِيَّةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3700&quot; key=&quot;مُتْيِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتْيِمٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Twinning,&lt;/i&gt; or &lt;i&gt;bringing forth two at one birth;&lt;/i&gt; (S, M, Msb, K;) applied to a mother, (K,) or a woman, (S, M, Msb,) and to any pregnant animal; (M;) without ة. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3701&quot; key=&quot;مِتْا=مٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِتْا=مٌ<br>\
+                     متا=م<br>\
+                  &lt;i&gt;Accustomed to twin, or bring forth two at one birth;&lt;/i&gt; (S, M, K;) applied to a mother, (K,) or a woman, (S, M,) and to any pregnant animal: (M:) pl. مَتَايِيمُ. (Har p. 613.) ―         -b2-  Hence, (Har ubi suprà,) ثَوْبٌ مِتْا=مٌ, (S, Har,) or ↓ <br>\
+      مُتَا=ءَمٌ, (TA, PS,) [both app. correct,] (assumed tropical:)  &lt;i&gt;A piece of cloth woven of threads two and two together in its warp and its woof.&lt;/i&gt; (S, Har, TA.) ―         -b3-  Hence, also, اَبْيَاتٌ مَتَايِيمُ (tropical:)  &lt;i&gt;Verses consisting of words in pairs whereof each member resembles the other in writing.&lt;/i&gt; (Har ubi suprà.) [See also مُتَوْءَمٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3702&quot; key=&quot;مُتَا=ءَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَا=ءَمٌ<br>\
+                     متا=ءم<br>\
+                  &lt;/form&gt;: see مِتْا=مٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3703&quot; key=&quot;فَرَسٌ مُتَايِمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَرَسٌ مُتَايِمٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;A horse fetching,&lt;/i&gt; or &lt;i&gt;that fetches, run after run.&lt;/i&gt; (S, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3704&quot; key=&quot;تَجْنِيسٌ مُتَوْءَمٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَجْنِيسٌ مُتَوْءَمٌ<br>\
+                     تجنيس متم<br>\
+                     تجنيس متوءم<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;The using two words resembling each other in writing but not in expression;&lt;/i&gt; as &lt;pb n=&quot;293&quot; TEIform=&quot;pb&quot;/&gt; in the saying, غَرَّكَ عِزُّكَ فَصَارَ قُصَارُ ذٰلِكَ ذُلَّكَ فَاْخْشَ <br>\
+                  فَاحِشَ فِعْلِكَ فَعَلَّكَ تُهْدَا بِهٰذَا [&lt;i&gt;Thy might,&lt;/i&gt; or &lt;i&gt;elevated rank, hath deceived thee, and the end of that has become thine ignominy: fear then thine exorbitant deed, and may-be thou wilt be made to follow a right course by this&lt;/i&gt;]. (Har p. 269.)   &lt;/entryFree&gt; <br>\
+' } );

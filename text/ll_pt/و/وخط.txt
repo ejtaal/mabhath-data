@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>وخط</em>            1                  وخط<br>\
+<b>وَخَطَهُ</b>               1     <br>\
+                     وَخَطَهُ<br>\
+                     ذ<br>\
+                  , aor. يَخِطُ, (TA,) inf. n. وَخْطٌ, (As, S, K,) <i>He pierced him through:</i> (S, K, TA:) or <i>he pierced him slightly;</i> (K, TA;) <i>not through:</i> (TA:) or <i>he pierced him so as to penetrate into his inside; not piercing him through;</i> (As, TA;) بَالرُّمْحِ <br>\
+                  <i>with the spear;</i> as also وَخَضَهُ. (TA.) [See also وَخَزَهُ.] ―         -b2-  [And hence,] وَخَطَهُ الشَّيْبُ, (S, K,) aor. as above, (K,) and so the inf. n., (TA,) (tropical:)  <i>Hoariness,</i> or <i>whiteness, became intermixed in his hair;</i> (S, K, TA;) as also وَخَضَهُ: (TA:) or <i>appeared</i> or <i>spread upon him:</i> or <i>his blackness and whiteness</i> [<i>of hair</i>] <i>became equal:</i> (K:) and you say of the man, وُخِطَ: (K, * TA:) or this signifies <i>his head became hoary,</i> or <i>white.</i> (TA.)    </entryFree> <br>\
+<b>توخّط</b>               1     <br>\
+                     توخّط<br>\
+                     ذ<br>\
+                  : see 2, in art. خيط.    </entryFree> <br>\
+<b>وَخْطٌ</b>               1     <br>\
+                     وَخْطٌ<br>\
+                     ذ<br>\
+                   [originally an inf. n. (see above)] is said to signify (tropical:)  <i>A little, somewhat,</i> or <i>a small degree,</i> of hoariness, or whiteness of the hair. (TA.) ―         -b2-  You say also, بَهَا وَخْطٌ مِنْ وَحْشٍ (tropical:)  <i>In it</i> [meaning a land (اَرْض)] <i>is a small number of wild animals.</i> (TA.)    </entryFree> <br>\
+<b>طَعْنٌ وَخَّاطٌ</b>               1     <br>\
+                     طَعْنٌ وَخَّاطٌ<br>\
+                     ذ<br>\
+                   [<i>A piercing, of one</i> or <i>another of the kinds described above, that is much,</i> or <i>frequent</i>]: and in like manner رُمْحٌ وَخَّاطٌ [<i>a spear so piercing, much,</i> or <i>frequently</i>]. (TA.)    </entryFree> <br>\
+<b>مَوْخُوطٌ</b>               1     <br>\
+                     مَوْخُوطٌ<br>\
+                     ذ<br>\
+                   A man (TA) <i>having hoariness,</i> or <i>whiteness, intermixed in his hair:</i> or <i>upon whom hoariness,</i> or <i>whiteness, has appeared and spread:</i> or <i>whose blackness and whiteness</i> [<i>of hair</i>] <i>have become equal:</i> (K:) or <i>whose head has become hoary,</i> or <i>white.</i> (TA.)   </entryFree> <br>\
+            <div2 n=&quot;waxafa, &amp;amp;c&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  وَخَفَ, &amp;amp;c</head>    <br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

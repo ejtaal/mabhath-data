@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'كوف5<br>\
+تَكَوَّفَ<br>\
+: see تَشَأَّمَ.<br>\
+كَافٌ<br>\
+Same as<br>\
+كُسٌّ (because it is the name<br>\
+of the incipient letter of this word: 1001 Nights<br>\
+ii. 304).<br>\
+كُوفِيَّةٌ<br>\
+A thing that is worn upon the head; so<br>\
+called because of its roundness, or its bring round.<br>\
+(TA.)<br>\
+' } );

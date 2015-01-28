@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ترنج</em>            1                  ترنج<br>\
+<b>تُرُنْجٌ</b>               1     <br>\
+                     تُرُنْجٌ<br>\
+                     ترنج<br>\
+                   and تُرُنْجَةٌ: see art. ترج.    </entryFree> <br>\
+<b>اُتْرُنْجٌ</b>               1     <br>\
+                     اُتْرُنْجٌ<br>\
+                     ذ<br>\
+                   and اُتْرُنْجَةٌ: see art. ترج.   </entryFree> <br>\
+' } );

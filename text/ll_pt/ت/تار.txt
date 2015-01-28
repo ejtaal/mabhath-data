@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>تار</em>            1                  تار<br>\
+<b>اَتْاَرْتُ اـِلَيْهِ النَّظَرَ</b>               1     <br>\
+                     اَتْاَرْتُ اـِلَيْهِ النَّظَرَ<br>\
+                     ذ<br>\
+                  <i>I continued to look at him time after time</i> (تَارَةً بَعْدَ تَارَةٍ): (T, TA:) or <i>I looked at him sharply,</i> or <i>intently.</i> (Fr, T, M, K.) And اَتْاَرْتُهُ بَصَرِى, (T, S, M, K,) and اَتْاَرْتُ اـِلَيْهِ <br>\
+                  البَصَرَ, (K,) <i>I followed him with my eye; made my eye to follow him.</i> (S, M, K.) [See also art. تور.]    </entryFree> <br>\
+<b>تَارَةٌ</b>               1     <br>\
+                     تَارَةٌ<br>\
+                     تاره<br>\
+                     تارة<br>\
+                  , without ء on account of frequent usage, (IAar, T, Msb in art. تور, and K,) <i>A time; one time;</i> [in the sense of the French <i>fois;</i>] syn.    </entryFree> <br>\
+<b>مَرَّةٌ</b>               1     <br>\
+                     مَرَّةٌ<br>\
+                     مر<br>\
+                     مره<br>\
+                     مرة<br>\
+                  : (Msb, K:) or <i>a time, whether long or short;</i> syn. حِينٌ: (IAar:) sometimes, however, it is pronounced تَاْرَةٌ: (Msb:) pl. تِيَرٌ (T, Msb, K) and تِيَارٌ: (Msb:) these are pls. of تَاْرَةٌ; but the pl. of تَارَةٌ without ء is تَارَاتٌ (Msb) and تِيَرٌ (S in art. تير, and K and K in art. تور,) and تِيَارٌ. (S in art. تير.) [See also art. تور.]    </entryFree> <br>\
+<b>مُتَارٌ</b>               1     <br>\
+                     مُتَارٌ<br>\
+                     متار<br>\
+                   in the saying <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَصِرْتُ كَاَنَّنِى فَرَاٌ مُتَارُ<br>\
+                  </quote> is [said by ISd to be] for مُتْاَرٌ [pass. part. n. of اَتْاَرَ; so that the meaning is, <i>And I became as though I were a wild ass looked at sharply</i> or <i>intently,</i> or <i>followed by the eye,</i> in order to be captured or shot]. (M, TA. [But see art. تور.])   </entryFree> <br>\
+' } );

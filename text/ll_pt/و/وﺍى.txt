@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;واى&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  واى<br>\
+&lt;entryFree id=&quot;n44420&quot; key=&quot;وَاَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَاَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt; as syn. with وَعَدَ; imperative اـِه. with the ه of silence added; fem. corroborated form of the imperative اـِنَّ; of which last, see a curious ex. in the end of article حَرْفٌ الاَلِفِ, in the Mughnee.   &lt;/entryFree&gt; <br>\
+' } );

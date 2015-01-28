@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>صرط</em>            1                  صرط<br>\
+<b>صُرَاطٌ</b>               1     <br>\
+                     صُرَاطٌ<br>\
+                     ذ<br>\
+                  <i>A long sword:</i> a dial. var. of سُرَاطٌ [q. v.]. (K.)    </entryFree> <br>\
+<b>صِرَاطٌ</b>               1     <br>\
+                     صِرَاطٌ<br>\
+                     ذ<br>\
+                  <i>A road,</i> or <i>way;</i> as also سِرَاطٌ, (S, K,) which is the original; (TA;) and زِرَاطٌ: (S:) [see the second of these three words:] Akh says that the people of El-Hijáz make it fem., and Temeem make it masc. (S and Msb voce زُقَاقٌ, q. v.) ―         -b2-  الصِّرَاطُ, also written with س, is likewise [<i>The name of</i>] <i>a bridge extended over the midst of Hell,</i> (K, TA,) <i>sharper than a sword, and thinner than a hair, over which the creatures will pass, the people of Paradise passing over it with their works, some like the blinding lightning, and some like the wind sent forth, and some like coursers, and some running, and some walking, and some dragging themselves along; and a crier will cry, from the lower parts of the empyrean,</i> “ <i>Lower your eyes until Fátimeh, the daughter of Mohammad,</i> (<i>may God bless and save him, and may God be well pleased with her and her two sons,</i>) <i>pass over;</i> ” <i>and the fire will say to the believer,</i> “ <i>Pass thou over, O believer, for thy light hath extinguished my flame;</i> ” <i>and thereupon, the feet of the people of the fire will slip.</i> (TA.)    </entryFree> <br>\
+<b>مَصْرَطٌ</b>               1     <br>\
+                     مَصْرَطٌ<br>\
+                     ذ<br>\
+                   and مِصْرَطٌ: see مَسْرَطٌ.   </entryFree> <br>\
+' } );

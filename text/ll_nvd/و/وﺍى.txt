@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'وأى1<br>\
+وَأَى<br>\
+as syn. with وَعَدَ; imperative إِه. with<br>\
+the ه of silence added; fem. corroborated form<br>\
+of the imperative إِنَّ; of which last, see a curious<br>\
+ex. in the end of article حَرْفٌ الأَلِفِ, in the<br>\
+Mughnee.<br>\
+' } );

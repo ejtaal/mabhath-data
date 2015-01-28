@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'قرم1<br>\
+قَرَمَ<br>\
+It gnawed: see عُثَيْثَةٌ.<br>\
+قَرْمٌ<br>\
+: see مُصْعَبٌ.<br>\
+قُرْمٌ<br>\
+: see شَوْرَى.<br>\
+قُرْمَةٌ<br>\
+: see فُقْرَةٌ.<br>\
+قرّام<br>\
+? A kid. (IAar; in TA, art. عت.) ―<br>\
+-b2-  See<br>\
+مِقْرَمَةٌ.<br>\
+مِقْرَمٌ<br>\
+: see مِقْرَمَةٌ.<br>\
+مِقْرَمَةٌ<br>\
+A coverlet of a bed; (Mgh, in arts. قرم<br>\
+and حبس;) also called مِحْبَسٌ: (Id, in art. حبس:)<br>\
+or a thin curtain, accord. to some, figured; as<br>\
+also ↓ مِقْرَمٌ and ↓ قِرَامٌ: (Msb:) or this last, a<br>\
+figured curtain. (Msb.)<br>\
+' } );

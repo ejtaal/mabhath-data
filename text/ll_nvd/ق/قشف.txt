@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'قشف1<br>\
+قَشِفَ<br>\
+, inf. n. قَشَفَ, He was coarse in his<br>\
+living: this is the original signification: he was<br>\
+neglectful of cleanliness: (Msb:) he was neglectful of washing and cleanliness; unfrequent in<br>\
+paying attention thereto; slovenly with respect to<br>\
+his person: (M, Msb:) and ↓ تَقَشَّفَ signifies the<br>\
+like. (Msb.) ―<br>\
+-b2-  قَشِفَ, inf. n. قَشَفٌ, He became<br>\
+sunburnt. (M.)<br>\
+5<br>\
+تَقَشَّفَ<br>\
+see 1.<br>\
+' } );

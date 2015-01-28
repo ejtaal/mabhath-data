@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>غبس</em>            1                  غبس<br>\
+<b>غَبَسَ</b>               1     <br>\
+                     غَبَسَ<br>\
+                     ذ<br>\
+                  , (K,) aor.      <br>\
+                     غَبُسَ<br>\
+                  , (TK,) inf. n. غَبْسٌ; (TA;) and غَبِسَ, aor.      <br>\
+                     غَبَسَ<br>\
+                  , inf. n. غَبَسٌ and غُبْسَةٌ; (IKtt,  TA;) and ↓ <br>\
+      اَغْبَسَ, (K,) in some copies of the K, erroneously, اِغْبَسَّ; (TA;) and ↓ <br>\
+      اِغْبَاسَّ; (As, K;) <i>It</i> (the night, TA) <i>was,</i> or <i>became, dark.</i> (K.) [See also غَبِشَ.]       -A2-  غَبَسَ وَجْهَهُ <br>\
+                  <i>He blackened his face.</i> (TA.)    </entryFree> <br>\
+                     اَغْبَسَ<br>\
+                   see 1. ―         -b2-  اغبس الذِّيْبُ, inf. n. اـِغْبَاسٌ, [<i>The wolf was,</i> or <i>became, of the colour termed</i> <br>\
+                  غَبَس, <i>and</i> <br>\
+                  غُبْسَة.] (TA.)    </entryFree> <br>\
+                     اـِغْبَاْسَّ<br>\
+                   see the first paragraph.    </entryFree> <br>\
+<b>غَبَسٌ</b>               1     <br>\
+                     غَبَسٌ<br>\
+                     ذ<br>\
+                   The <i>darkness of the end,</i> or <i>last part, of the night;</i> as also غَبَشٌ: (Lth:) or the <i>darkness of the beginning,</i> or <i>first part,</i> of the night; and غبش, that of the end, or last part, thereof: (TA:) or the former has the first of the abovementioned significations; as also غَلَسٌ; and غبش, the second of those significations. (ElKhattábee, MF.) [See also غَبَشٌ.] And <i>Darkness</i> [absolutely]; as also ↓ <br>\
+      غُبْسَةٌ: or ↓ both signify <i>whiteness in which is a duskiness</i> or <i>dinginess:</i> (K:) or the former, (S,) and ↓ the latter, (A,) <i>a colour like that of ashes;</i> (S, A;) i. e., <i>whiteness in which is a duskiness</i> or <i>dinginess:</i> (S:) or ↓ the latter, <i>a hue between dust-colour inclining to black and dust-colour properly so called:</i> (IDrd:) or <i>a colour between black and yellow.</i> (TA.) [See also غَلَسٌ.]    </entryFree> <br>\
+<b>غُبْسَةٌ</b>               1     <br>\
+                     غُبْسَةٌ<br>\
+                     ذ<br>\
+                  : see غَبَسٌ, in four places.    </entryFree> <br>\
+<b>لَا ا=تِيكَ مَا غَبَا غُبَيْسٌ</b>               1     <br>\
+                     لَا ا=تِيكَ مَا غَبَا غُبَيْسٌ<br>\
+                     ذ<br>\
+                   means <i>I will not come to thee ever:</i> (S, K:) but the origin of this saying is unknown: (K:) IAar said that he knew it not: (S:) or, accord. to him, it means, <i>while time lasts:</i> it seems that he did not know it at first, and then thus explained it: (T, TA:) accord. to some, غُبَيْسٌ is an abbreviated dim. of اَغْبَسُ, and means <i>the wolf;</i> (S, K; *) and غَبَا is originally غَبَّ, the ا being substituted for one of the letters of duplication, as in تَقَضَّى for تَقَضَّضَ; (S;) and the saying means <i>I will not come to thee as long as the wolf comes now and then</i> (يَاْتِى غِبًّا) <i>to the sheep</i> or <i>goats.</i> (S, K. *)    </entryFree> <br>\
+<b>اَغْبَسُ</b>               1     <br>\
+                     اَغْبَسُ<br>\
+                     ذ<br>\
+                  <i>Ash-coloured;</i> (Mgh;) <i>of a colour like that of ashes;</i> (S;) <i>of a dingy,</i> or <i>dusky, white;</i> applied to a wolf: (S, K:) or it is an epithet applied to any wolf: or, applied to a wolf, <i>light,</i> or <i>active, and greedy:</i> fem. غَبْسَا=ءُ: (TA:) pl. غُبْسٌ. (K.) ―         -b2-  Applied to an ass, <i>Black.</i> (TA.) ―         -b3-  وَرْدٌ اَغْبَسُ, applied to a horse, [app., <i>Of a dusky bay colour;</i>] <i>i. q.</i> <br>\
+                  سَمَنْد; (Mgh, K;) <i>what the Persians call by the latter term:</i> (S, TA:) it is [a colour] desired by them. (TA.)   </entryFree> <br>\
+' } );

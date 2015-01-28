@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'ضأز1<br>\
+ضَأَزَ, aor.<br>\
+ضَاَ^َ, inf. n. ضَأْزٌ and ضَأَزٌ, He deviated<br>\
+from the right course; or acted unjustly, wrongfully, injuriously, or tyrannically; (K;) like<br>\
+ضَازَ, aor. يَضُوزُ and يَضِيزُ. (TA.) ―<br>\
+-b2-  ضَأَزَهُ حَقَّهُ,<br>\
+(K,) aor.<br>\
+ضَاَ^َ, inf. n. ضَأْزٌ and ضَآزٌ, (TA,) [but the<br>\
+latter is probably a mistake for ضَأَزٌ,] He deprived<br>\
+him, or defrauded him, of a part, or the whole, of<br>\
+his right, or due: (K:) he refused it to him; or<br>\
+withheld it from him: (TA:) like ضَازَهُ إِيَّاهُ, aor.<br>\
+يَضِيزُهُ (S * and K * and TA in art. ضيز) and يَضُوزُهُ.<br>\
+(K * and TA in art. ضوز.)<br>\
+ضَأْزَى: see what here follows.<br>\
+ضُؤْزَى: see what here follows.<br>\
+قِسْمَةٌ ضِئْزَى, and ↓ ضُؤْزَى, and ↓ ضَأْزَى, (K,)<br>\
+the first mentioned by AZ (S in art. ضيز) and<br>\
+IAar, (TA,) and the second by Fr (S ubi suprà)<br>\
+and IAar, (TA,) and the third by Fr, (S ubi<br>\
+suprà,) A defective, (K,) or an unjust, (TA,)<br>\
+division: (K, TA:) as also ضِيزَى (IAar, K) and<br>\
+ضُوزَى. (IAar, TA.)<br>\
+' } );

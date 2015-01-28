@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'وسطوَسُوطٌ<br>\
+A middle-sized tent of goats hair: see<br>\
+مِظَلَّةٌ.<br>\
+' } );

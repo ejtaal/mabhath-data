@@ -1,0 +1,31 @@
+load_data( { book: 'll_nvd', text: 'هذأ1<br>\
+هَذَأَ, aor.<br>\
+هَذَاَ, inf. n. هَذْءٌ, He cut a thing<br>\
+(As. S, K) [quickly], with a sword, &amp;c. (TA.)<br>\
+It signifies a quicker act than does هَذَّ. (K.) ―<br>\
+-b2-<br>\
+هَذَأَ He destroyed the enemy. (K, TA.) ―<br>\
+-b3-<br>\
+هَذَأهُ بِلِسَانِهِ, (K, * TA,) inf. n. هَذْءٌ, (TA,) He<br>\
+hurt, or offended, [or cut,] him with his tongue;<br>\
+(TA;) made him to hear what he disliked. (K.)<br>\
+―<br>\
+-b4-  هَذَأَتِ الإِبِلُ The camels fell down, [and, app.,<br>\
+died,] one after another: syn. تَسَاقَطَتْ. (K.)<br>\
+―<br>\
+-b5-  هَذِئَ مِنَ البَرْدِ, [aor. ??,] He perished of cold.<br>\
+(K.) ―<br>\
+-b6-  هَذَأَ الكَلَامَ He was loquacious, with<br>\
+error. (TA.)<br>\
+5<br>\
+تهذّأ It (a wound, or an ulcer.) became<br>\
+putrid, or rotten, and dissundered, or ragged.<br>\
+(S, K.)<br>\
+هَذْأَةٌ i. q. مِسْحَاةٌ [q. v., in arts. سحى and<br>\
+سحو.] (K.)<br>\
+هَذَّأٌ and ↓ هَذَّآءٌ A sharp sword, (TA [but the<br>\
+orthography is not quite clear].) [See also<br>\
+art. هذى.]<br>\
+هَذَّآءٌ: see هَذَّأٌ.<br>\
+هٰذَا: see art. ذا.<br>\
+' } );

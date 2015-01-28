@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>فنزج</em>            1                  فنزج<br>\
+<b>فَنْزَجٌ</b>               1     <br>\
+                     فَنْزَجٌ<br>\
+                     ذ<br>\
+                  <i>A leaping, jumping, springing,</i> or <i>bounding;</i> and so ↓ <br>\
+      فَنْزَجَةٌ: (L:) or the <i>game,</i> or <i>sport, called</i> <br>\
+                  دَسْتَبَنْد, [or دَسُتْبَنْد, a Pers. word,] meaning the <i>dance of the Magians,</i> (Lth, O, L,) or <i>a dance of the Persians</i> (العَجَم), (S, K,) <i>in which the performers hold one another by the hand;</i> (Lth, S, O, K;) arabicized from [the Pers.] پَنْجَهْ [app. as meaning “ a gripe with the hand ”]: (S, K:) or <i>a game,</i> or <i>sport, of the Nabathæans, 1. called in Pers.</i> <br>\
+                  پَنْجَگَانْ [app. from پَنْجَهْ and گَانْ, from the joining of hands]; (ISk, O;) <i>a game,</i> or <i>sport, played by the Nabathæans in joyous exultation:</i> (IAar, O:) occurring in a saying of El-&#39;Ajjáj cited in art. عكف. (TA. See 1 in that art.) ―         -b2-  And, as some say, The <i>five embolismal,</i> or <i>supplementary days, which are added at the end of the twelfth month of the Persians</i> [<i>and called by them</i> <br>\
+                  پَنْجَهءِ دُزْدِيدَهْ]. (IDrd, O, L.)    </entryFree> <br>\
+<b>فَنْزَجَةٌ</b>               1     <br>\
+                     فَنْزَجَةٌ<br>\
+                     ذ<br>\
+                  : see the preceding paragraph.   </entryFree> <br>\
+' } );

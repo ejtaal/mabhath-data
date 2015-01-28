@@ -1,0 +1,49 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فثا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فثا<br>\
+&lt;entryFree id=&quot;n33006&quot; key=&quot;فَثَاَ القِدْرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     فَثَاَ القِدْرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَثَاَ<br>\
+                  &lt;/form&gt;, (T, S, M, O, K,) inf. n. فَثْءٌ (T, M, K) and فُثُوْءٌ, (M, K,) both inf. ns. from Lh, (M,) &lt;i&gt;He stilled,&lt;/i&gt; or &lt;i&gt;allayed, the boiling of the pot,&lt;/i&gt; (T, S, M, O, K,) &lt;i&gt;with water,&lt;/i&gt; (S, O,) i. e. &lt;i&gt;with cold water,&lt;/i&gt; or &lt;i&gt;by lading out with the ladle:&lt;/i&gt; (T:) and ثَفَاَهَا signifies the same. (M.) ―         -b2-  [Hence] one says, اَطْفَاَ فُلَانٌ النَّايِرَةَ وَفَثَاَ القُدُورَ <br>\
+                  الفَايِرَةَ (tropical:)  [&lt;i&gt;Such a one extinguished the discord,&lt;/i&gt; or &lt;i&gt;rancour,&lt;/i&gt; or &lt;i&gt;enmity, and stilled the boiling passions&lt;/i&gt;]. (A, TA.) ―         -b3-  And فَثَاَ غَضَبَهُ, (M, K, *) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَثَاَ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. فَثْءٌ, (M,) (tropical:)  &lt;i&gt;He stilled,&lt;/i&gt; or &lt;i&gt;quieted,&lt;/i&gt; or &lt;i&gt;abated, his anger,&lt;/i&gt; (M, K, * TA, *) &lt;i&gt;by words,&lt;/i&gt; or &lt;i&gt;otherwise.&lt;/i&gt; (TA.) اـِنَّ الرَّثِيْيَةَ تَفْثَاُ الغَضَبَ (assumed tropical:)  [&lt;i&gt;Verily what is termed&lt;/i&gt; <br>\
+                  رثيية <br>\
+                  &lt;i&gt;stills,&lt;/i&gt; or &lt;i&gt;appeases, anger&lt;/i&gt;] is one of their provs., (S, O, TA,) expl. in art. رثا. (TA.) ―         -b4-  And فَثَاْتُ الرَّجُلَ, (S, O,) or فَثَاْتُهُ عَنِّى, (T, TA,) (assumed tropical:)  &lt;i&gt;I averted,&lt;/i&gt; or &lt;i&gt;turned back, the man from me, by words,&lt;/i&gt; or &lt;i&gt;otherwise.&lt;/i&gt; (T, S, O, TA.) And فَثَاَ الشَّىْءَ عَنْهُ, (M, K,) inf. n. فَثْءٌ, (M,) (assumed tropical:)  &lt;i&gt;He averted the thing from him.&lt;/i&gt; (M, K, TA.) And مَا فَثَاَكَ عَنَّا (assumed tropical:)  &lt;i&gt;What withheld,&lt;/i&gt; or &lt;i&gt;has withheld, thee from us?&lt;/i&gt; (Har p. 180.) ―         -b5-  Also فَثَاَ <br>\
+                  الشَّىْءَ, (M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَثَاَ<br>\
+                  &lt;/form&gt;, inf. n. فَثْءٌ and فُثُوْءٌ, (TA,) &lt;i&gt;He allayed the cold of the thing by heating.&lt;/i&gt; (M, K, TA.) And فَثَاَتِ الشَّمْسُ المَا=ءَ <br>\
+                  &lt;i&gt;The sun abated,&lt;/i&gt; or &lt;i&gt;allayed, the cold of the water.&lt;/i&gt; (M.) And فَثَاَهُ, inf. n. فَثْءٌ, &lt;i&gt;He heated it;&lt;/i&gt; namely, water, (AZ, T, O,) &amp;amp;c. (T.) And accord. to MF, the phrase فَثَاَ اللَّبَنَ is allowable [as meaning &lt;i&gt;He boiled the milk so that it frothed up and became curdled,&lt;/i&gt; or &lt;i&gt;clotted,&lt;/i&gt; or &lt;i&gt;dissundered:&lt;/i&gt; see what next follows]. (TA.)       -A2-  فَثَاَ اللَّبَنُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَثَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;The milk was boiled so that it frothed up and became curdled,&lt;/i&gt; or &lt;i&gt;clotted,&lt;/i&gt; or &lt;i&gt;dissundered:&lt;/i&gt; (AHát, M, O, K:) when this is the case, the milk is termed ↓ <br>\
+      فَاثِيٌ. (AHát, O.)       -A3-  فَثِيَتِ القِدْرُ <br>\
+                  &lt;i&gt;The cookingpot ceased to boil.&lt;/i&gt; (O.) ―         -b2-  And فَثِيَ [or فَثِيَ <br>\
+                  غَضَبُهُ] (assumed tropical:)  &lt;i&gt;His anger was,&lt;/i&gt; or &lt;i&gt;became, abated;&lt;/i&gt; (TA;) [and] so غَضَبُهُ ↓ <br>\
+      انفثا. (Har p. 232.) ―         -b3-  And مَا <br>\
+                  تَفْثَاُ تَفْعَلُ (assumed tropical:)  &lt;i&gt;Thou dost not cease doing&lt;/i&gt; [such a thing]; like ما تَفْتَاُ. (A, TA.)       -A4-  فَثَاَ بِسَلْحِهِ: see فَطَاَ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33007&quot; key=&quot;افثا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     افثا<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;It&lt;/i&gt; (the heat) &lt;i&gt;became allayed,&lt;/i&gt; or &lt;i&gt;assuaged;&lt;/i&gt; and &lt;i&gt;remitted,&lt;/i&gt; or &lt;i&gt;abated.&lt;/i&gt; (S, O.) ―         -b2-  And اَطْبَقَتِ السَّمَا=ءُ ثُمَّ اَفْثَاَتْ (assumed tropical:)  [&lt;i&gt;The sky became overcast, and then cleared&lt;/i&gt;]. (A, TA.) ―         -b3-  افثا <br>\
+                  بِالمَكَانِ (assumed tropical:)  &lt;i&gt;He remained, stayed, dwelt,&lt;/i&gt; or &lt;i&gt;abode, in the place.&lt;/i&gt; (O, K. *) ―         -b4-  عَدَا حَتَّى اَفْثَاَ (assumed tropical:)  &lt;i&gt;He&lt;/i&gt; (a man, M) &lt;i&gt;ran until he became tired,&lt;/i&gt; (S, M, O, K, *) &lt;i&gt;and out of breath,&lt;/i&gt; (S, O,) or &lt;i&gt;and languid.&lt;/i&gt; (M, K.) In the saying of El-Khansà, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اَلَا مَنْ لِعَيْنٍ لَا تَجِفُّ دُمُوعُهَا<br>\
+                     &lt;L&gt;<br>\
+                        اـِذَا قُلْتَ اَفْثَتْ تَسْتَهِلُّ فَتَحْفِلُ<br>\
+                  &lt;/quote&gt; (assumed tropical:)  [&lt;i&gt;Now who will be&lt;/i&gt; as a helper &lt;i&gt;for an eye of which the tears will not dry up? when thou sayest,&lt;/i&gt; “ &lt;i&gt;They have become tired&lt;/i&gt; of flowing, ” &lt;i&gt;they pour, and become copious&lt;/i&gt;], she means اَفْثَاَتْ. (M.)       -A2-  اَفْثَوُوا لَهُ <br>\
+                  &lt;i&gt;They heated stones for him&lt;/i&gt; (i. e. a sick man), &lt;i&gt;and sprinkled water upon them, and he lay prostrate upon them, in order that he might sweat:&lt;/i&gt; (O, K:) this they did when they were unable to procure a hot bath. (O.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;7&lt;/itype&gt;        <br>\
+                     اـِنْفَثَاَ<br>\
+                  &lt;/form&gt; see 1, last sentence but two.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33008&quot; key=&quot;فَاثِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَاثِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; as an epithet applied to milk: see 1, near the end.   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'سينسِينٌ One of the letters of the alphabet: (S, M,<br>\
+L, K:) [i. e., the name of that letter: (see art.<br>\
+س:)] of the masc. gender as being supposed to<br>\
+be a حَرْف [or letter], and fem. as being supposed<br>\
+to be a كَلِمَة [or word]. (L.) The saying فُلَانٌ<br>\
+لَا يَحْسِنُ سِنَهُ means Such a one will not form<br>\
+well one of the three شُعَب [i. e. teeth, or cusps,]<br>\
+of his س. (S, L.)<br>\
+سِينَآءُ Certain stones, (M, L, K,) so says Zj,<br>\
+(M, L,) well-known: (K:) whence the name of<br>\
+a certain mountain in Syria. (M, L.)<br>\
+سِينِيَّةٌ A certain tree; (M, L, K;) mentioned<br>\
+by AHn on the authority of Akh: (M, L:) pl.<br>\
+سِينِينٌ. (M, L, K.)<br>\
+' } );

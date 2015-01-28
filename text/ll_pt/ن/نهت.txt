@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>نهت</em>            1                  نهت<br>\
+<b>نَهَتَ</b>               1     <br>\
+                     نَهَتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَهِتَ<br>\
+                  , [cont? to analogy,] inf. n. نَهِيتٌ (S, K) and نُهَاتٌ (K) <i>He cried out,</i> or <i>uttered a cry:</i> (TA:) [see اـِنْهَتِى عَلَيْهَا voce بَهَتَ:] <i>he uttered the kind of sound termed</i> <br>\
+                  زَيِير; [i. e., <i>he</i> (a lion, TA) <i>uttered a sound from his chest;</i> or <i>roared:</i>] (K:) or <i>he uttered a sound lower than that which is termed</i> <br>\
+                  زيير: (S:) or <i>he breathed hard;</i> or <i>emitted the voice,</i> or <i>the breath, with a moaning; i. q.</i> <br>\
+                  زَحَرَ, (K,) <i>and</i> <br>\
+                  طَحَرَ: (TA:) or <i>he uttered a sound from his chest on an occasion of distress.</i> (TA.)    </entryFree> <br>\
+<b>النَّهَّاتُ</b>               1     <br>\
+                     النَّهَّاتُ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      المِنْهَتُ and ↓ <br>\
+      المُنْهِتُ (thus the last is written accord. to the K, but it occurs in a verse written ↓ <br>\
+      المُنَهِّتُ, TA, and in this latter manner it is written in the L,) <i>The lion.</i> (K.) ―         -b2-  اَسَدٌ نَهَّاتٌ, (S, L,) and ↓ <br>\
+      مُنَهِّتٌ, (L,) [<i>A lion uttering frequently a low growl</i>]. (S, L.) ―         -b3-  حِمَارٌ نَهَّاتٌ (tropical:)  <i>An ass that brays much,</i> or <i>frequently.</i> (S, K.) ―         -b4-  رَجُلٌ نَهَّاتٌ (tropical:)  <i>A man that breathes hard;</i> or <i>emits the voice,</i> or <i>the breath, with a moaning.</i> (S, K, *) See مُطَلِّحٌ.    </entryFree> <br>\
+<b>النَّاهِتُ</b>               1     <br>\
+                     النَّاهِتُ<br>\
+                     ذ<br>\
+                  <i>The throat; the guttur:</i> (K:) so called because the sound termed نَهِيت proceeds from it. (TA.)    </entryFree> <br>\
+<b>المِنْهَتُ</b>               1     <br>\
+                     المِنْهَتُ<br>\
+                     ذ<br>\
+                  , and المُنْهِتُ, and المُنَهِّتُ: see النَهَّاتُ.   </entryFree> <br>\
+' } );

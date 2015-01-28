@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'نمذجنَمُوذَجٌ (K, Msb &amp;c.) and أَنْمُوذَجٌ; which latter<br>\
+is said to be a corruption in the TS and the K;<br>\
+but this is denied by El-Khafájee and by Mtr;<br>\
+and learned men, in early and in late times, have<br>\
+constantly used the word انموذج without any<br>\
+expression of disapproval; Z and El-Hasan Ibn-Rasheek El-Keyrawánee, two leading lexicologists, having even named thereby books written<br>\
+by them; (MF;) vulgo نَمُونَه [which is a Persian<br>\
+word]; (TA;) A model, an exemplar, a pattern,<br>\
+or a likeness of a thing, after the similitude of<br>\
+which a thing is made: (Msb:) a model, or likeness, of a thing; (K;) i. e., a thing that is made<br>\
+in the form, or after the fashion, of another thing,<br>\
+that the mode of the latter may be known thereby:<br>\
+(TA:) a thing which shows the mode, or quality,<br>\
+or qualities, of another thing: (Msb:) an arabicized word, (K,) from [the Persian] نَمُودَهْ.<br>\
+' } );

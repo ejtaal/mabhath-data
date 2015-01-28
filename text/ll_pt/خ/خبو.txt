@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>خبو</em>            1                  خبو<br>\
+<b>خَبَتِ النَّارُ</b>               1     <br>\
+                     خَبَتِ النَّارُ<br>\
+                     خبت النار<br>\
+                  , aor. تَخْبُو, inf. n. خُبُوٌّ (JK, S, Msb, K) and خَبْوٌ, (K,) <i>The fire became allayed; subsided;</i> (K;) <i>became extinguished;</i> (S, K;) <i>the flaming,</i> or <i>blazing, of the fire ceased,</i> or <i>became allayed</i> or <i>extinguished.</i> (JK, Msb.) [The verb is used, in this sense, of Hell, in the Kur xvii. 99.] ―         -b2-  [Hence,] خَبَتِ الحَرْبُ (tropical:)  <i>The war became allayed, assuaged,</i> or <i>appeased;</i> (JK, K, TA;) <i>became extinguished.</i> (K, TA.) And خَبَتْ حِدَّةُ النَّاقَةِ (tropical:)  <i>The sharpness,</i> or <i>irascibility, of the she-camel became allayed, assuaged,</i> or <i>appeased.</i> (JK, K, * TA.) And خَبَا لَهَبُهُ (tropical:)  <i>The heat,</i> or <i>vehemence, of his anger became allayed, assuaged,</i> or <i>appeased.</i> (TA.)    </entryFree> <br>\
+<b>اخبى النَّارَ</b>               1     <br>\
+                     اخبى النَّارَ<br>\
+                     اخبي النار<br>\
+                  <i>He extinguished the fire;</i> (S, K;) <i>he allayed,</i> or <i>extinguished, the flaming,</i> or <i>blazing, of the fire.</i> (JK, Msb.) ―         -b2-  And [hence,] اخبى الحَرْبَ (tropical:)  <i>He extinguished</i> [or <i>allayed</i>] <i>the fire of the war.</i> (K, TA.) And اخبى حِدَّةَ النَّاقَهِ (tropical:)  <i>He extinguished</i> [or <i>allayed</i>] <i>the sharpness,</i> or <i>irascibility, of the she-camel.</i> (K, * TA.)    </entryFree> <br>\
+<b>خِبَا=ءٌ</b>               1     <br>\
+                     خِبَا=ءٌ<br>\
+                     خبا=ء<br>\
+                   accord. to some belongs to this art. (TA in art. خبا.) See arts. خبا and خبى.   </entryFree> <br>\
+' } );

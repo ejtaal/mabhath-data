@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>خبعثن</em>            1                  خبعثن<br>\
+<b>خَبَعْثَنٌ</b>               1     <br>\
+                     خَبَعْثَنٌ<br>\
+                     خبعثن<br>\
+                  : see خَبَعْثِنَةٌ.    </entryFree> <br>\
+<b>خُبَعْثِنٌ</b>               1     <br>\
+                     خُبَعْثِنٌ<br>\
+                     خبعثن<br>\
+                  : see خُبَعْثِنَةٌ. ―         -b2-  Also <i>Plump in body;</i> or <i>fat, soft, thin-skinned, and plump, in body;</i> applied to any thing [i. e. to any animal]. (K.)    </entryFree> <br>\
+<b>خُبَعْثِنَةٌ</b>               1     <br>\
+                     خُبَعْثِنَةٌ<br>\
+                     خبعثنه<br>\
+                     خبعثنة<br>\
+                  , like قُذَعْمِلَةٌ, <i>Big and strong;</i> (AO, S, K;) applied to a man; and (in like manner, TA) a lion; (K;) and so ↓ <br>\
+      خُبَعْثِنٌ, (S, K,) as in the phrase خُبَعْثِنُ الخَلْقِ [<i>big and strong of make</i>]; (AA, S;) and ↓ <br>\
+      خَبَعْثَنٌ: (K:) the first is applied as an epithet to a lion by Aboo-Zubeyd Et-Tá-ee: and [the pl.] خُبَعْثِنَاتٌ, by El-Farezdak, to camels. (S.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>زمرذ</em>            1                  زمرذ<br>\
+<b>زُمُرُّذٌ</b>               1     <br>\
+                     زُمُرُّذٌ<br>\
+                     ذ<br>\
+                   (T, S, Mgh, L, Msb, K) and زُمُرَّذٌ, (Az, TA,) and accord. to some زُمُرُّدٌ, with the unpointed د (TA,) or, accord. to IKt, this is a mistranscription, and As says that it is correctly written with the pointed ذ (Msb,) [The <i>emerald:</i> accord. to some] <i>i. q.</i> <br>\
+                  زَبَرْجَدٌ; (Sudot;, L, Msb, K;) but Et-Teyfáshee [rightly] says that the زبرجد is a different kind of stone: [see this word:] and Ibn-Sá&#39;id El-Ansáree says that the mine of the زبرجد is said to be near to that of the زمّرذ: (TA:) several authors say that <i>the</i> <br>\
+                  زمّرذ <br>\
+                  <i>differs from the</i> <br>\
+                  زبرجد <br>\
+                  <i>in being more green:</i> (MF, TA:) it is an arabicized word [from the Pers. زُمْرُدْ]: (S, L, Msb, K:) [a coll. gen. n.:] n. un. with ة. (Msb.)   </entryFree> <br>\
+' } );

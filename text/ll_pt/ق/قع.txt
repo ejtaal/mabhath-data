@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>قع</em>            1                  قع<br>\
+<b>اَقَعَّ المَا=ءَ</b>               1     <br>\
+                     اَقَعَّ المَا=ءَ<br>\
+                     ذ<br>\
+                  : see اَعَقَّ.    </entryFree> <br>\
+<b>قَعْقَعَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     قَعْقَعَ<br>\
+                     ذ<br>\
+                  : see an ex. voce شَنٌّ.    </entryFree> <br>\
+<b>تَقَعْقَعَ</b>               1     <br>\
+                     <i>R. Q. 2</i>        <br>\
+                     تَقَعْقَعَ<br>\
+                     ذ<br>\
+                  <i>It made a sound,</i> or <i>noise; a</i> “ <i>crepitus;</i> ” <i>a succession of sharp,</i> or <i>harsh, sounds,</i> or <i>noises; a creaking, creaking, rustling, clattering, clashing, rattling,</i> &amp;amp;c.: see an ex. voce صَلَّ.    </entryFree> <br>\
+<b>قعْقَعَةُ السِّلَاحِ</b>               1     <br>\
+                     قعْقَعَةُ السِّلَاحِ<br>\
+                     ذ<br>\
+                  <i>The clash of arms.</i> ―         -b2-  See عَقْعَقَ. ―         -b3-  قَعْقَعَةٌ <br>\
+                  <i>A gnashing of the teeth.</i>    <br>\
+<b>مَا=ءٌ قُعٌّ</b>               1     <br>\
+                     مَا=ءٌ قُعٌّ<br>\
+                     ذ<br>\
+                   or قَعٌّ: see عُقٌّ.    </entryFree> <br>\
+<b>مَا=ءٌ قُعَاعٌ</b>               1     <br>\
+                     مَا=ءٌ قُعَاعٌ<br>\
+                     ذ<br>\
+                  : see حُرَاقٌ and عُقٌّ.    </entryFree> <br>\
+<b>خِمْسٌ قَعْقَاعٌ</b>               1     <br>\
+                     خِمْسٌ قَعْقَاعٌ<br>\
+                     ذ<br>\
+                  : see خِمْسٌ and خَثِيثٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>لفح</em>            1                  لفح<br>\
+<b>لَفَحَتْهُ النَّارُ</b>               1     <br>\
+                     لَفَحَتْهُ النَّارُ<br>\
+                     ذ<br>\
+                  , (S, M, K,) aor.      <br>\
+                     لَفَحَ<br>\
+                  , (M,) inf. n. لَفْحٌ and لَفَحَانٌ, (M, K,) <i>The fire smote,</i> or <i>hurt, his face;</i> as also لفحت وَجْهَهُ: (M, O:) <i>the fire burned him;</i> (TA;) as also نفحته النار بِحَرِّهَا; (S, K;) and in like manner the hot wind called سَمُوم: (S:) لَفَحَتْ and نَفَحَتْ are syn., except that the effect of النَّفْح is greater than that of اللَّفْح: (Zj:) or لَفْحٌ relates to a hot wind; and نَفْحٌ, to a cold, or cool, wind: (As, S:) you also say لفحته السَّمُوم meaning <i>the</i> <br>\
+                  سموم <br>\
+                  <i>blew in his face.</i> (L.) ―         -b2-  Also لَفَحَهُ, aor.      <br>\
+                     لَفَحَ<br>\
+                  , <i>He smote,</i> or <i>struck, him,</i> with a sword, (S, K,) <i>lightly,</i> or <i>slightly:</i> you say لَفَحْتُهُ بِالسَّيْفِ لَفْحَةً <br>\
+                  <i>I struck him with the sword a light,</i> or <i>slight, blow.</i> (S.)    </entryFree> <br>\
+<b>اَصَابَهَ لفْحٌ مِنْ حَرُورٍ وَسَمُومٍ</b>               1     <br>\
+                     اَصَابَهَ لفْحٌ مِنْ حَرُورٍ وَسَمُومٍ<br>\
+                     ذ<br>\
+                  <i>A burning gust of hot night-wind, and of hot day-wind, smote him.</i> (L.) ―         -b2-  اَصَابَهُ مِنَ الحَرِّ لَفْحٌ وَمِنَ البَرْدِ نَفْحٌ [<i>A blast of heat smote him, and a blast of cold</i>]. (A.) ―         -b3-  You say also لَوَافِحُ السَّمُوِم [pl. of ↓ <br>\
+      لَافِحَةٌ, and meaning <i>Burning blasts of the</i> <br>\
+                  سموم]. (S, K in art. سفع.)    </entryFree> <br>\
+<b>لَفْحَةٌ</b>               1     <br>\
+                     لَفْحَةٌ<br>\
+                     ذ<br>\
+                  <i>A light,</i> or <i>slight, blow</i> with a sword. (S.)    </entryFree> <br>\
+<b>لُقَّاحٌ</b>               1     <br>\
+                     لُقَّاحٌ<br>\
+                     ذ<br>\
+                  <i>A certain well known plant,</i> (K,) <i>of the kind termed</i> <br>\
+                  يَقْطِينِىٌّ, (L,) <i>which people smell,</i> (S.) <i>yellow, and of sweet odour,</i> (A, L,) <i>resembling the</i> <br>\
+                  بَاذِنْجَان (S, A, K,) <i>when it becomes yellow;</i> (S, A;) [accord. to Golius, app. on the authority of Ibn-Beytár, <i>the same which the Syrians and Egyptians call</i> <br>\
+                  شَمَّامٌ, q. v.]. ―         -b2-  Also, The <i>fruit,</i> or <i>produce,</i> (ثَمَرَة,) <i>of the</i> <br>\
+                  يَبْرُوح [or <i>mandrake,</i> which is called by this name (يبروح) in the present day]; (K;) thus correctly written, with the ى before the ب [not ببروح, as in the CK and some MS. copies]. (TA.) [It seems that the application of the term لفّاح to both the mandrake and the شمّام has led to confusion, and occasioned Linnæus to call the latter “ cucumis dudaim. ” See also يَبْرُوحٌ, and مَغْدٌ.]    </entryFree> <br>\
+<b>لَافِحَةٌ</b>               1     <br>\
+                     لَافِحَةٌ<br>\
+                     ذ<br>\
+                  : see لَفْحٌ.   </entryFree> <br>\
+' } );

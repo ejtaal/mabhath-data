@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'كحب1<br>\
+كَحَبَهُ, aor.<br>\
+كَحَبَ, He struck him on his podex.<br>\
+(K.)<br>\
+2<br>\
+كحّب الكَرْمُ, inf. n. تَكْحِيبٌ, The vine put<br>\
+forth its unripe, or sour, grapes: (K:) or its<br>\
+bunches thereof: this is a correct explanation,<br>\
+given on the authority of IAar: (Az:) or it<br>\
+became abundant in grapes: (K:) or its grapes<br>\
+became pleasant in flavour. (TA.)<br>\
+كَحْبٌ T he podex: (K:) of the dial. of ElYemen. (TA.)<br>\
+-A2-  As coll. gen. n. Unripe, or<br>\
+sour, grapes: n. un. with ة: (K:) as also كَحْمٌ:<br>\
+a word of the dial. of El-Yemen. (TA.)<br>\
+كَاحِبَةٌ, Many, or much. (K.) دَرَاهِمْ كَاحِبَةٌ<br>\
+Many dirhems; or much money. (Fr.) ―<br>\
+-b2-  نَارٌ<br>\
+كَاحِبَةٌ Fire of which the flame rises high. (K.)<br>\
+' } );

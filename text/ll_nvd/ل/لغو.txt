@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'لغو3<br>\
+لَاغَاهُ He jested, or joked, with him; inf. n.<br>\
+مُلَاغَاةٌ. (A, TA.) You say, لَاغَاهُ فِى البَيْعِ. (A,<br>\
+TA, art. كيس.)<br>\
+لَغْوٌ, applied to speech, &amp;c., Nought; of no<br>\
+account; (M, K;) unprofitable. (M.) ―<br>\
+-b2-  اليَمِينُ<br>\
+اللَّغْوُ: see KT, voce يَمِينٌ.<br>\
+اللُّغَةُ The genuine language of the Arabs; which<br>\
+is the classical language.<br>\
+لُغَوِىٌّ Of, or relating to, the genuine language<br>\
+of the Arabs. مَعْنًى لُغَوِىٌّ A genuine lexicological meaning.<br>\
+لُغَيَّةٌ A word of weak authority. (TA, voce<br>\
+جِرَاب, et passim.)<br>\
+لَاغٍ: see مَائِرٌ.<br>\
+' } );

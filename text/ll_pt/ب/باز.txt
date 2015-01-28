@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>باز</em>            1                  باز<br>\
+<b>بَاْزٌ</b>               1     <br>\
+                     بَاْزٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  بَازٍ [which see in art. بزو; and بَازٌ]: pl. [of pauc.] اَبْوُزٌ, and [of mult.] بُوُوزٌ and بِيْزَانٌ. (K.) IJ holds that the ا is substituted for ا, and that it remains in ابوز and بيزان like as is the case in اَعْيَادٌ [in which the ى is substituted for و <br>\
+                   and remains in the pl. because it is substituted for و in the sing. عِيدٌ]. (TA.)   </entryFree> <br>\
+' } );

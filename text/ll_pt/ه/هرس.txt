@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>هرس</em>            1                  هرس<br>\
+<b>هَراَسٌ</b>               1     <br>\
+                     هَراَسٌ<br>\
+                     ذ<br>\
+                  <i>A certain thorny</i> or <i>prickly tree,</i> (S, K, TA,) <i>the thorns or prickles of which are like the</i> <br>\
+                  حَسَك, (TA,) <i>and its fruit is like the</i> <br>\
+                  نَبِق: n. un. with ة. (K, TA.) See قُطْبٌ.   </entryFree> <br>\
+' } );

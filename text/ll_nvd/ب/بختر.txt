@@ -1,0 +1,33 @@
+load_data( { book: 'll_nvd', text: 'بخترQ. 1<br>\
+بَخْتَرَ: see what next follows.<br>\
+Q. 2<br>\
+تَبَخْتَرَ, (L,) inf. n. تَبَخْتُرٌ; (JK, S, L,<br>\
+K;) and ↓ بَخْتَرَ, (L,) inf. n. بَخْتَرَةٌ; (L, K;) He<br>\
+walked in a certain manner; (S;) with an elegant<br>\
+gait; (JK, K;) with an elegant and a proud and<br>\
+self-conceited gait, (L, TA, TK,) with an affected<br>\
+inclining of the body from side to side; (TK;) or<br>\
+with a twisting of the back, (Fr, in TA, voce<br>\
+تَمَطَّطَ, and Bd in lxxv. 33,) and with extended<br>\
+steps. (Bd ibid.) You say also, فُلَانٌ يَتَبَخْتَرُ فِى<br>\
+مِشْيَتِهِ and يَتَبَخْتَى [Such a one carries himself in<br>\
+an elegant and a proud and self-conceited manner,<br>\
+with an affected inclining of his body from side<br>\
+to side, in his gait; or with a twisting of his back,<br>\
+and with extended steps]. (L.)<br>\
+بَخْتَرِىٌّ and ↓ بِخْتِيرٌ Elegant, or beautiful, in<br>\
+gait and in body; (L, K: in [some of] the copies<br>\
+of the K, instead of وَالجِسْمِ, is erroneously put<br>\
+وَالجَسِيمُ: TA:) applied to a man: (L:) or (so<br>\
+accord. to the L and TA, but in the K “ and ”)<br>\
+proud and self-conceited: (L, K:) or who walks<br>\
+in the manner termed تَبَخْتُرٌ [see Q. 2.]: (JK, L:)<br>\
+the former epithet is also applied to a camel: (L:)<br>\
+the fem. of the former is with ة. (JK, L.)<br>\
+بُخْتُرِىٌّ a subst. signifying The gait denoted by<br>\
+التَّبَخْتُرُ [inf. n. of Q. 2]: (JK:) [and so ↓ بَخْتَرِيَّةٌ:<br>\
+whence the phrase] فُلَانٌ يَمْشِى البَخْتَرِيَّةٌ Such a<br>\
+one walks in the manner termed تَبَخْتُرٌ. (S, L.)<br>\
+بَخْتَرِيَّةٌ: see what next precedes.<br>\
+بِخْتِيرٌ: see بَخْتَرِىٌّ.<br>\
+' } );

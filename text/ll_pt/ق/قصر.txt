@@ -1,0 +1,358 @@
+load_data( { book: 'll_pt', text: '<em>قصر</em>            1                  قصر<br>\
+<b>قَصُرَ</b>               1     <br>\
+                     قَصُرَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَصُرَ<br>\
+                  , inf. n. قِصَرٌ (S, M, Msb, K, &amp;amp;c.) and قَصْرٌ (IAar, M, K) and قَصَارَةٌ, (Lh, M, K,) <i>It</i> (a thing, S, Msb, i. e. anything, M) <i>was,</i> or <i>became, short; contr. of</i> <br>\
+                  طَالَ. (S, M, Msb, K.) ―         -b2-  [And <i>It was,</i> or <i>became, too short.</i> And قَصُرَ عَنْهُ <br>\
+                  <i>It was,</i> or <i>became, too short for him,</i> or  <br>\
+                  <i>it.</i> ―         -b3-  Hence, قَصُرَتْ يَدُهُ, and قَصُرَ بَاعُهُ, (tropical:)  <i>He had little,</i> or <i>no, power:</i> and <i>he was,</i> or <i>became, niggardly.</i>]       -A2-  And قَصَرَ السَّهْمُ عَنِ الهَدَفِ, (S, M, Msb,) aor.      <br>\
+                     قَصُرَ<br>\
+                  , (Msb,) inf. n. قُصُورٌ, (M, Msb,) <i>The arrow fell short of the butt; did not reach it;</i> (S, Msb;) <i>fell upon the ground without reaching the butt:</i> (M:) and قَصَرَ عَنْ مَنْزِلِهِ [<i>he fell short of his place of alighting</i> or <i>abode; did not reach it</i>]. (TA.) ―         -b2-  [Hence,] قَصَرَ عَنِ الاَمْرِ, (S, Msb, K,) [and قَصَرَ دُونَهُ,] aor.      <br>\
+                     قَصُرَ<br>\
+                  , (Msb, TA,) inf. n. قُصُورٌ; (S, Msb, K;) and ↓ <br>\
+      اقصر, (K,) inf. n. اـِقَصَارٌ; (TA;) and ↓ <br>\
+      قصّر, (K,) inf. n. تَقْصِيرٌ; (TA;) and ↓ <br>\
+      تقاصر; (K;) [<i>He fell,</i> or <i>stopped,</i> or <i>came, short of doing the thing,</i> or <i>affair; he failed of doing,</i> or <i>accomplishing, it;</i>] <i>he lacked power,</i> or <i>ability, to do,</i> or <i>accomplish, the thing,</i> or <i>affair;</i> (S, Msb, K;) <i>he could not attain to it:</i> (S:) or the first has this signification; (ISk, S, Msb;) and [in like manner] عَنْهُ ↓ <br>\
+      قصّر, (M, K,) inf. n. تَقْصِيرٌ, (TA,) <i>he left</i> or <i>relinquished it,</i> or <i>abstained from it, being unable to do</i> or <i>accomplish it:</i> (M, K:) but عَنْهُ ↓ <br>\
+      اقصر, <i>he desisted</i> or <i>abstained from it, being able to do</i> or <i>accomplish it:</i> (ISk, S, M, Msb:) such, at least, is generally the case, though both sometimes occur in one and the same sense, that which اقصر عنه generally bears: (TA:) and فِى الاَمْرِ ↓ <br>\
+      قصّر [<i>he fell,</i> or <i>stopped,</i> or <i>came, short in the affair:</i> it signifies nearly the same as اقصر عنه, i. e., <i>he fell short of accomplishing the affair; he fell short of doing what was requisite,</i> or <i>due,</i> or <i>what he ought to have done,</i> (عَمَّا كَانَ يَنْبَغِى, or the like, being understood,) <i>in,</i> or <i>with respect to, the affair:</i> a meaning very common, and implied, though not expressed, in the M: and] <i>he flagged,</i> or <i>was remiss, in the affair;</i> syn. تَوَانَى: (S, TA:) or ↓ <br>\
+      قصّر signifies <i>he left, desisted from, neglected,</i> or <i>left undone, a thing,</i> or <i>part thereof, from inability:</i> but ↓ <br>\
+      اقصر, <i>he left it,</i> &amp;amp;c., or <i>part thereof, with ability to do it.</i> (Kull p. 128.) [And ↓ <br>\
+      قصّر <br>\
+                  دُونَهُ <br>\
+                  <i>He fell short of reaching,</i> or <i>attaining, it:</i> see an ex. voce يَعْقُوبٌ.] [Hence also,] قَصَرَتْ <br>\
+                  بِنَا النَّفَقَةُ <br>\
+                  <i>The money for expenses</i> [<i>fell short of what we required;</i>] <i>did not enable us to attain our object;</i> (Msb;) meaning, that they were unable to pay the expenses: (Mgh:) and بِهِ ↓ <br>\
+      قَصَّرَ <br>\
+                  اَمَلُهُ [<i>his hope fell short of what he required</i>]: &#39;Antarah says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَاْلْيَوْمَ قَصَّرَ عَنْ تِلْقَايِكَ الاَمَلُ<br>\
+                  </quote> [<i>but to-day, hope hath fallen short of extending to the meeting with thee</i>]. (TA.) [And hence, app.,] بِكَذَا نَفْسُكَ ↓ <br>\
+      قَصَّرَتْ [<i>Thy mind,</i> or <i>wish, fell short of what was requisite with respect to such a thing</i>], said to him who has sought, or desired, little, and a mean share or lot. (TA.) And, بِفُلَانٍ ↓ <br>\
+      قَصَّرَ [<i>He fell short of what was required by such a one,</i> or <i>due to him;</i> or] <i>he acted meanly,</i> and <i>sparingly, with such a one, in a gift.</i> [&amp;amp;c.] (JK [see مُقَصِّرٌ: and see two exs. of قَصَّرَ <br>\
+                  بِهِ voce اَزْرَى in art. زرى.] ―         -b3-  [Also, قَصَرَ عَنِ <br>\
+                  الاَمْرِ, (M, K,) aor.      <br>\
+                     قَصُرَ<br>\
+                  , (M,) inf. n. قُصُورٌ; and ↓ <br>\
+      اقصر; and ↓ <br>\
+      قصّر and ↓ <br>\
+      تقاصر; (M, K;) <i>He refrained, abstained,</i> or <i>desisted, from the thing,</i> or <i>affair.</i> (M, K.) A poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اـِذَا غَمَّ خِرْشَا=ءُ الثُّمَالَةِ اَنْفَهُ<br>\
+                     <L><br>\
+                        مِنْهَا لِلصَّرِيحِ فَاَقْنَعَا ↓ <br>\
+      تَقَاصَرَ<br>\
+                  </quote> [<i>When the froth of the water remaining in the drinking-trough covers his nose, he refrains from it,</i> turning <i>to the clear, and raises his head</i>]: or منها ↓ <br>\
+      تقاصر here signifies <i>he contracts his neck from it:</i> and it is said that عنه ↓ <br>\
+      قصّر signifies as explained above, <i>he left</i> or <i>relinquished it,</i> &amp;amp;c. (M.) قَصَرَ عَنِّى الوَجَعُ, and الغَضَبُ, (M, K,) aor.      <br>\
+                     قَصُرَ<br>\
+                  , inf. n. قُصُورٌ, (M,) <i>The pain,</i> and <i>anger, ceased from me; quitted me;</i> (M, K;) as also قَصِرَ; (M, TA;) which latter is erroneously written in the copies of the K, قَصَّرَ: (TA:) and قَصَرْتُ اَنَا عَنْهُ [<i>I ceased from it</i>]. (M.) And اْلْمَطَرُ ↓ <br>\
+      اَقْصَرَ <br>\
+                  <i>The rain left off.</i> (TA.)       -A3-  قَدْ قَصَرَ <br>\
+                  العَشِىُّ, aor.      <br>\
+                     قَصُرَ<br>\
+                  , inf. n. قُصُورٌ, [<i>The afternoon,</i> or <i>evening, has come,</i>] is said when you enter upon the مَسَا=ء [i. e. afternoon, or evening]: (S:) or it means <i>has almost drawn near to night.</i> (TA.) [See also قَصْرٌ, below.] ―         -b2-  Hence, (S,) قَصَرْنَا and ↓ <br>\
+      اَقْصَرْنَا <br>\
+                  <i>We entered upon the</i> <br>\
+                  عَشِىّ [i. e. <i>afternoon,</i> or <i>evening</i>]; (M, K;) the former signifies اَمْسَيْنَا; and the latter, دَخَلْنَا فِى قَصْرِ العَشِىِّ, like as you say اَمْسَيْنَا from المَسَا=ءُ: (S:) or the former, <i>we came to be in the last part of the day;</i> and the latter, <i>we entered upon the last part of the day.</i> (IKtt.)       -A4-  قَصَرَهُ, (Msb, K,) aor.      <br>\
+                     قَصُرَ<br>\
+                  , (Msb,) or      <br>\
+                     قَصِرَ<br>\
+                  , (K,) inf. n. قَصْرٌ; (TA;) and ↓ <br>\
+      قصّرهُ, (M, Msb, TA;) inf. n. تَقْصِيرٌ; (TA;) and ↓ <br>\
+      اقصرهُ; (Msb;) <i>He made it short;</i> (M, K, TA;) <i>he shortened it; took from its length.</i> (Msb.) You say قَصَرَ <br>\
+                  الشَّعَرَ, (M, Msb, K,) and قَصَرَ مِنَ الشَّعَرِ, (S,) aor.      <br>\
+                     قَصُرَ<br>\
+                  , (Msb,) or      <br>\
+                     قَصِرَ<br>\
+                  ; (K;) and ↓ <br>\
+      قصّره, (Mgh, Msb, TA,) and مِنْهُ ↓ <br>\
+      قصّر; (S;) and ↓ <br>\
+      اقصرهُ; (Msb;) <i>He shortened the hair;</i> (M, K, * TA;) <i>took from its length;</i> (Msb;) <i>cut its ends;</i> (Mgh;) <i>clipped,</i> or <i>shore, it.</i> (TA.) And قَصَرَ الصَّلَاةَ, (M, Msb, TA,) and قَصَرَ مِنَ الصَّلَاةِ, (S, M, Msb,) aor.      <br>\
+                     قَصُرَ<br>\
+                  , inf. n. قَصْرٌ; (S, M, Msb, TA;) and ↓ <br>\
+      قصّرها, (M, Msb, TA,) and ↓ <br>\
+      قصّر منها, (S, M,) inf. n. تَقْصِيرٌ; (S;) and ↓ <br>\
+      اقصرها, (Msb, TA,) and ↓ <br>\
+      اقصر منها; (S;) but اقصرها is extr.; (TA;) <i>He curtailed</i> [or <i>contracted</i>] <i>the prayer;</i> (M;) <i>he performed a prayer of four rek&#39;ahs</i> (رَكَعَات) <i>making it of two;</i> (Mgh;) in a journey. (Mgh, TA.) And الخُطْبَةَ ↓ <br>\
+      اقصر <br>\
+                  <i>He made the</i> [<i>form of words called</i>] خطبة [<i>delivered from the pulpit</i>] <i>short,</i> or <i>concise:</i> (Mgh, TA: *) the doing so being commanded. (Mgh.) قَصْرٌ also signifies the contr. of مَدٌّ; (M, K;) and the verb is قَصَرَ [<i>He contracted,</i> or <i>straitened</i>]. (M.) You say قَصَرْتُ <br>\
+                  قَيْدَ البَعِيرِ; (Msb;) and قَصَرْتُ لَهُ مِنْ قَيْدِهِ; (M;) aor.      <br>\
+                     قَصُرَ<br>\
+                  , inf. n. قَصْرٌ; (M, Msb;) <i>I contracted the shackles of the camel;</i> syn. صَيَّقُتُهُ; (Msb;) and <i>I contracted his shackles;</i> syn. قَارَبْتُ. (M.) [And in like manner, العَطِيَّةَ ↓ <br>\
+      قَصَّرَ, inf. n. تَقْصِيرٌ, <i>He made the gift scanty,</i> or <i>mean:</i> or, accord. to the TK, قصّر فِى العَطِيَّةِ, which properly signifies <i>he fell short of what he ought to have done with respect to the gift:</i> but, though each of these phrases is doubtless correct, the former expression I hold to be that which is indicated when it is said that] التَّقْصِيرُ signifies اـِخْسَاسُ <br>\
+                  العَطِيَّةِ. (M, K.)       -A5-  قَصَرَهُ, (S, M, Msb,) aor.      <br>\
+                     قَصُرَ<br>\
+                  , (S, M,) inf. n. قَصْرٌ, (S, M, Msb, K,) <i>He confined, restricted, limited, kept within certain bounds</i> or <i>limits, restrained, withheld, hindered</i> or <i>prevented, him,</i> or <i>it;</i> syn. حَبَسَهُ. (S, M, Msb, K. *) It is said in a trad. of Mo&#39;ádh, لَهُ مَا قَصَرَ فِى بَيْتِهِ <br>\
+                  <i>To him belongeth what he hath held confined in,</i> or <i>kept within, his house</i> or <i>tent:</i> (TA:) or <i>what he hath held in possession</i> &amp;amp;c. (Az, TA in art. خمر: see 10 in that art.) You say also قَصَرْتُ الدَّارَ, inf. n. as above, <i>I</i> [<i>confined and so</i>] <i>defended the house by walls.</i> (TA.) And قَصَرَ الجَارِيَةَ بِاْلْحِجَابِ <br>\
+                  <i>He</i> [<i>confined and so</i>] <i>kept safe the girl by means of the veil,</i> or <i>covering,</i> or <i>the like:</i> and in like manner you say of a horse. (TA.) And in a trad. of &#39;Omar it is said, قَصَرَ بِهِمُ اللَّيْلُ, (TA,) or ↓ <br>\
+      قَصَّرَ, (L,) <i>The night withheld them;</i> namely a company of riders upon camels on other beasts. (L, TA.) You also say قَصَرَ الرَّجُلَ عَنِ الاَمْرِ [and قَصَرَ بِهِ and به ↓ <br>\
+      قصّر] <i>He withheld the man from the thing,</i> or <i>affair,</i> that he desired to do. (TA.) [See an ex. in a verse cited voce طَلَّاع.] And قَصَرْتُ نَفَسِى عَنْ <br>\
+                  شَىْءٍ <br>\
+                  <i>I withheld,</i> or <i>restrained, myself from a thing:</i> (JK, TA: *) and <i>I restrained myself from inordinate desire of a thing.</i> (TA.) Lebeed says <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَلَسْتُ وَاـِنْ اَقْصَرْتُ عَنْهُ بِمُقْصِرِ<br>\
+                  </quote> meaning, <i>But although</i> thou blame in order that <i>I</i> may <i>be restrained, I do not refrain</i> from that which I desire to do. (El-Mázinee, L.) Also, قَصَرْتُ طَرْفِى [<i>I restrained my eye,</i> or <i>eyes;</i>] <i>I did not raise my eye,</i> or <i>eyes, towards that at which I ought not to look.</i> (TA.) And قَصَرَ البَصَرَ <br>\
+                  <i>He turned away the eye.</i> (TA.) It is also said in a trad. of I&#39;Ab, قُصِرَ الرِّجَالُ عَلَى اَرْبَعٍ مِنْ اَجْلِ <br>\
+                  اَمْوَالِ اليَتَامَى <br>\
+                  <i>Men were restricted to</i> marrying no more than <i>four</i> [<i>because of the property of the orphans</i> which they might leave]. (TA.) And one says قَصَرْتُ نَفْسِى عَلَى الشَّىْءِ <br>\
+                  <i>I confined,</i> or <i>restricted, myself to the thing, and obliged myself to do it.</i> (TA.) [See also 8.] Hence what is said of Thumámeh, in a trad., فاَبَى اَنْ يُسْلِمَ قَصْرًا <br>\
+                  <i>But he refused to become a Muslim by constraint and compulsion:</i> or <i>by force,</i> as some say, from القَسُرُ; the س being changed into ص, as is done in many other cases. (TA.) You say also  <br>\
+                  قَصَرْتُ الشَّىْءَ عَلَى كَذَا <br>\
+                  <i>I restricted the thing to such a thing.</i> (S, TA.) And قَصَرَهُ عَلَى الاَمْرِ, meaning, رَدَّهُ اـِلَيْهِ, (M, K,) i. e., [<i>He reduced him, to the thing,</i> or <i>affair;</i> or] <i>he appropriated him</i> [or <i>it, restrictively,</i>] <i>to the thing,</i> or <i>affair.</i> (TK.) [Hence,] قَصَرْتُ اللِّقْحَةَ عَلَى فَرَسِى <br>\
+                  <i>I appropriated</i> the milk of <i>the milch-camel</i> [<i>restrictively</i>] <i>to my horse.</i> (S, TA.) [And hence,] قَصَرْتُ عَلَى نَفْسِى نَاقَةً <br>\
+                  <i>I retained for myself</i> [<i>restrictively</i>] <i>a she-camel,</i> that I might drink her milk. (Msb.) Aboo-Du-ád says, describing a horse, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَقُصِرْنَ الشِّتَا=ءَ بَعْدُ عَلَيْهِ<br>\
+                     <L><br>\
+                        وَهُوَ لِلذَّوْدِ اَنْ يُقَسَّمْنَ جَارٌ<br>\
+                  </quote> meaning, <i>So they were restricted to him,</i> that he might drink their milk, <i>during</i> the severity of <i>the winter, afterwards; and he is a protector to the few she-camels from their being</i> suddenly attacked and <i>divided in shares;</i> <br>\
+                  مِنْ being understood before اَنْ. (M.)       -A6-  قَصَرَ الثَّوْبَ, (S, M, Msb,) aor.      <br>\
+                     قَصُرَ<br>\
+                  , (S,) inf. n. قَصْرٌ (S, Mgh, Msb) and قِصَارَةٌ; (Sb, M, TA;) and ↓ <br>\
+      قصّرهُ, (S, M,) inf. n. تَقْصِيرٌ; (S;) <i>He beat,</i> (S, TA,) <i>washed,</i> (Mgh,) <i>and whitened,</i> (M, Msb, TA,) <i>the cloth,</i> or <i>garment.</i> (S, M, &amp;amp;c.)    </entryFree> <br>\
+                     قَصَّرَ<br>\
+                   see 1, throughout.    </entryFree> <br>\
+                     اَقْصَرَ<br>\
+                   see 1, throughout.       -A2-  اَقْصَرَتْ <br>\
+                  <i>She brought forth short children:</i> hence the saying, اـِنَّ الطَّوِيلَةَ قَدْ تُقْصِرُ وَاـِنَّ القَصِيرَةَ قَدْ تُطِيلُ [<i>Verily the tall woman sometimes brings forth short children, and verily the short woman sometimes brings forth tall children</i>]. (S, K. *) J is in error in saying that this is in a trad. (Sgh, K.) But IAth also asserts it to be a trad. (MF in art. طول.)    </entryFree> <br>\
+<b>تقاصر</b>               1     <br>\
+                     تقاصر<br>\
+                     ذ<br>\
+                  <i>He feigned,</i> or <i>pretended,</i> (اَظْهَرَ,) <i>shortness;</i> (M, Sgh, K;) as also ↓ <br>\
+      تَقَوْصَرَ: (Sgh, K:) or, accord. to some, these two verbs have different significations: see the latter below. (TA.) ―         -b2-  [And <i>He contracted himself,</i> or <i>drew himself together.</i> (See R. Q. 1 in art. فذ.)] ―         -b3-  تقاصرت نَفْسُهُ (assumed tropical:)  <i>He</i> (lit. his spirit, or soul,) <i>became abject, mean, contemptible,</i> or <i>despicable;</i> syn. تَضَا=ءَلَتْ. (M.) ―         -b4-  تقاصر الظِّلُّ (tropical:)  <i>The shade became contracted.</i> (M, TA.) ―         -b5-  See also 1, in two places.    </entryFree> <br>\
+<b>اقتصر عَلَى الاَمْرِ</b>               1     <br>\
+                     اقتصر عَلَى الاَمْرِ<br>\
+                     ذ<br>\
+                  <i>He confined, restricted,</i> or <i>limited, himself to the thing,</i> or <i>affair; did not exceed it.</i> (M, K. *) ―         -b2-  اقتصر عَلَى الشَّىْءِ, (S,) or على كَذَا, (Msb,) [and بِكَذَا,] <i>He was satisfied,</i> or <i>content,</i> (S, Msb,) <i>with the thing,</i> (S,) or <i>with such a thing.</i> (Msb.) ―         -b3-  اقتصر عَلَى اَمْرِى <br>\
+                  <i>He obeyed my command.</i> (JK.)    </entryFree> <br>\
+<b>استقصرهُ</b>               1     <br>\
+                     استقصرهُ<br>\
+                     ذ<br>\
+                  <i>He reckoned,</i> or <i>held, him,</i> or <i>it, to be short.</i> (S.) ―         -b2-  <i>He reckoned him,</i> or <i>held him, to fall short of doing what he ought to do:</i> or <i>to flagg,</i> or <i>be remiss:</i> <br>\
+                  عَدَّهُ مُقَصِّرًا. (S.)    </entryFree> <br>\
+<b>تَقَوْصَرَ</b>               1     <br>\
+                     <i>Q. Q. 2</i>        <br>\
+                     تَقَوْصَرَ<br>\
+                     ذ<br>\
+                  , said of a man, (M,) <i>He became contracted;</i> lit., <i>one part of him entered into another part;</i> (M, K;) <i>as though he became like a</i> <br>\
+                  قَوْصَرَّة, from which word the verb is derived. (Z, TA.) ―         -b2-  See also 6.    </entryFree> <br>\
+<b>قَصْرٌ</b>               1     <br>\
+                     قَصْرٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      قَصَرٌ and ↓ <br>\
+      قُصْرَةٌ [like the inf. n. قُصُورٌ] The <i>falling,</i> or <i>stopping,</i> or <i>coming, short of accomplishing an affair;</i> or <i>of doing what one ought,</i> or <i>is commanded, to do;</i> or <i>flagging,</i> or <i>remissness:</i> you say to a man whom you have sent to accomplish some needful affair, and who has fallen short of doing what you commanded him to do, on account of heat or some other cause, مَا مَنَعَكَ اَنْ تَبْلُغَ المَكَانَ الَّذِى اَمَرْتُكَ بِهِ اـِلَّا <br>\
+                  اَنَّكَ اَحْبَبْتَ القَصْرَ, and القَصَرَ, and القُصْرَةَ, i. e. اَنْ <br>\
+                  تُقَصِّرَ [<i>Nothing prevented thy reaching the place to which I commanded thee to go but thy loving to fall short</i> &amp;amp;c.; or <i>to flag,</i> or <i>be remiss</i>]. (M, K *.) And ↓ <br>\
+      قَصَرَةٌ, (K,) or ↓ <br>\
+      قَصَرٌ, without ة, accord. to the Nawádir of IAar, as cited in the L, and so in the handwriting of Sgh, (TA,) and ↓ <br>\
+      قَصَارٌ, (K,) signify <i>Laziness; slothfulness.</i> (IAar, Sgh, K.) An Arab of the desert is related to have said ↓ <br>\
+      اَرَدْتُ اَنْ ا=تِيَكَ فَمَنَعَنِى القَصَارُ [<i>I desired to come to thee, but laziness prevented me</i>]. (TA.)       -A2-  قَصْرُكَ اَنْ تَفْعَلَ كَذَا and ↓ <br>\
+      قَصَارُكَ, (S, M, K,) and ↓ <br>\
+      قُصَارُكَ, (M, K,) and ↓ <br>\
+      قُصَارَاكَ, (S, M, K,) and ↓ <br>\
+      قُصَيْرَاكَ, (M, K,) <i>Thine utmost,</i> or <i>the utmost of thy power</i> or <i>of thine ability</i> or <i>of thy deed,</i> (جُهْدُكَ, M, K, [or app., جَهْدُكَ, (see art. جهد,)] and غَايَتُكَ, S, M, K,) and <i>the end of thy case,</i> and <i>that to which thou hast confined</i> or <i>restricted</i> or <i>limited thyself,</i> (S, TA,) [or <i>that to which thou art confined</i> or <i>restricted</i> or <i>limited,</i>] <i>is,</i> or <i>will be, thy doing such a thing.</i> (S, M, K.) It is from قَصْرٌ signifying the “ act of confining, restricting, limiting, ” &amp;amp;c. (TA.) And ↓ <br>\
+      قُصْرَى also signifies the <i>end</i> of an affair. (Sgh, TA.) A poet says <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        اـِنَّمَا اَنْفُسُنَا عَارِيَّةٌ<br>\
+                     <L><br>\
+                        وَاْلْعَوَارِىُّ قَصَارٌ اَنْ تُرَدْ<br>\
+                  </quote> [<i>Our souls are only a loan: and the end of loans is their being given back;</i> <br>\
+                  تُرَدْ being for تُرَدَّ]. (S, TA.) You also say, كُلِّ بَلَا=ءٍ وَشِدَّةٍ ↓ <br>\
+      المَوْتُ قُصَارِى [<i>Death is the end of every trial and distress</i>]. (TA, art. حما.)       -A3-  قَصْرٌ (S, M) and ↓ <br>\
+      مَقْصَرٌ (K) and ↓ <br>\
+      مَقْصَرَةٌ and ↓ <br>\
+      مَقْصِرٌ (M, K) The <i>afternoon:</i> or <i>evening:</i> syn. عَشِىٌّ: (S, M, K:) or the first signifies the <i>last part of the day:</i> (IKtt:) or the <i>time before the sun becomes yellow:</i> (JK:) or the first and second signify the <i>time of the approach of the</i> <br>\
+                  عَشِىّ, <i>a little before the</i> <br>\
+                  عَصْر: (A, TA:) and the first (S, K) and second (A&#39;Obeyd, TA) and third, (A&#39;Obeyd, S, TA,) [the <i>time of</i>] the <i>mixing</i> of the darkness: (A&#39;Obeyd, S, K, TA:) pl. of the second (TA) and third (S, M) and fourth, (M,) مَقَاصِرُ (S, M) and مَقَاصِيرُ, which latter is extr.; (M;) in the first sense, as signifying عَشَايَا; (M;) or in the last sense; (S;) not signifying, as it is said to do in the K, العِشَا=ءُ <br>\
+                  الا=خِرَةُ; for this is a great mistake, app. occasioned by F&#39;s seeing the passage [in the T] of Az, [or in the M, in which I find it,] وَالمَقَاصِرُ <br>\
+                  وَالمَقَاصِيرُ العَشَايَا الاَخِيرَةُ نَادِرَةٌ, and not properly considering it. (TA.) Sb says, that قَصْرٌ has no dim.; the Arabs being content to use in its stead the dim. of مَسَا=ءٌ. (M.) You say اَتَيْتُهُ قَصْرًا <br>\
+                  <i>I came to him in the afternoon,</i> or <i>evening;</i> syn. عَشِيًّا. (S.) And جِيْتُ قَصْرًا, and ↓ <br>\
+      مَقْصَرًا, <i>I came at the approach of the</i> <br>\
+                  عَشِىّ, <i>a little before the</i> <br>\
+                  عَصْر. (A, TA.) And العِشَا=ءِ ↓ <br>\
+      اَقْبَلَتْ مَقَاصِيرُ [<i>The times of the mixing of the darkness of nightfall came,</i> or <i>advanced</i>]. (A, TA.)       -A4-  قَصْرٌ [<i>A palace: a pavilion,</i> or <i>kind of building wholly or for the most part isolated, sometimes on the top of a larger building,</i> i. e., <i>a belvedere,</i> and <i>sometimes projecting from a larger building,</i> and <i>generally consisting of one room if forming a part of a larger building or connected with another building; the same as the Turkish</i> <br>\
+                  كوشك: to such buildings we find the appellation to have been applied from very early times to the present day:] <i>a well-known kind of edifice:</i> (M:) <i>a mansion,</i> or <i>house;</i> syn. مَنْزِلٌ: (Lh, M, K:) or <i>any house</i> or <i>chamber</i> (بَيْت) <i>of stone;</i> (M, K;) of the dial. of Kureysh: (M:) so called because a man&#39;s wives and the like are confined in it: (M:) pl. قُصُورٌ. (S, M, Msb.) قَصْرُ اْلْمَلِكِ [<i>The palace,</i> or <i>pavilion, of the king</i>]. (Msb.)       -A5-  Also قَصْرٌ <br>\
+                  <i>Large and dry,</i> or <i>large and thick,</i> or <i>dry, fire-wood;</i> <br>\
+                  حَطَبٌ جَزْلٌ. (M, K.) So in the Kur, lxxvii. 32, accord. to El-Hasan, as related by Lh. (M.)    </entryFree> <br>\
+<b>قَصَرٌ</b>               1     <br>\
+                     قَصَرٌ<br>\
+                     ذ<br>\
+                  : see قَصْرٌ, in two places.       -A2-  The <i>necks</i> of men, and of camels: (M, K:) a pl. [or rather coll. gen. n.], of which the sing. [or n. un.] is قَصَرَةٌ: (M:) [see an ex. in the first paragraph of art. سندر:] or [so accord. to the M, but in the K and] ↓ <br>\
+      قَصَرَةٌ signifies the <i>base of the neck;</i> (S, M, K;) the <i>base of the neck at the place where it is set upon the upper part of the back:</i> (Nuseyr, TA:) or the <i>base of the neck when thick;</i> not otherwise: (Lh, M:) pl. [or coll. gen. n.] قَصَرٌ, and pl. pl. [or pl. of قَصَرٌ] اَقْصَارٌ: (M:) or this latter is pl. of قَصَرَةٌ, (M, K,) accord. to Kr, but this is extr., unless the augmentative letter in the sing. be disregarded in its formation. (M.) I&#39;Ab reads كَاْلْقَصَرِ, in the Kur, lxxvii. 32, (S, M, * TA,) and explains it as meaning <i>Like the thick bases of necks,</i> (M, * TA,) or as meaning كَقَصَرِ <br>\
+                  النَّخْلِ, i. e. الاَعْنَاق. (S.) [See the next signification.] You say ذَلَّتْ قَصَرَتُهُ [<i>His neck</i> or] <i>the base of his neck became in a state of subjection.</i> (TA.) And اـِنَّهُ لَنَامُّ القَصَرَةِ <br>\
+                  <i>Verily he has a large,</i> or <i>thick, neck.</i> (Aboo-Mo&#39;ádh the Grammarian.) ―         -b2-  And hence, (Aboo-Mo&#39;ádh,) (tropical:)  The <i>trunks,</i> or <i>lower-parts,</i> (اُصُول, M, K, or اَعْنَاق,  I&#39;Ab, S,) of palm-trees: (S, M, K:) so explained in the Kur, ubi supra, (S, M,) by I&#39;Ab: (S:) sing. [or n. un.] ↓ <br>\
+      قَصَرَةٌ: the palm-tree is cut into pieces of the length of a cubit, to make fires therewith in the winter: (Aboo-Mo&#39;ádh:) and [in the TA or] so of other trees: (M, K:) or of large trees: (Ed-Dahhák:) or [accord. to the M, but in the K and] the <i>remains</i> of trees. (M, K.)    </entryFree> <br>\
+<b>قَصْرَةٌ</b>               1     <br>\
+                     قَصْرَةٌ<br>\
+                     ذ<br>\
+                  : see قُصْرَةٌ.    </entryFree> <br>\
+<b>قُصْرَةٌ</b>               1     <br>\
+                     قُصْرَةٌ<br>\
+                     ذ<br>\
+                  : see قَصْرٌ.       -A2-  هُوَ اْبْنُ عَمِّهِ قُصْرَةً, (S, M, K,) and ↓ <br>\
+      قَصْرَةً, (K,) and ↓ <br>\
+      مَقْصُورَةً, (S, M, K,) and ↓ <br>\
+      قَصِيرَةً, (K,) [<i>He is his cousin on the father&#39;s side,</i>] <i>nearly related;</i> (S, M, K;) <i>i. q.</i> <br>\
+                  دِنْيًا (S, TA) and دُنْيًا: (TA:) and in like manner you say of the ابن العَمَّة and ابن الخَالَة and ابن <br>\
+                  الخَال. (Lh, M.)    </entryFree> <br>\
+<b>قُصْرَى</b>               1     <br>\
+                     قُصْرَى<br>\
+                     ذ<br>\
+                  : see قَصْرٌ.       -A2-  القُصْرَى (Az, S) and ↓ <br>\
+      القُصَيْرَى (A&#39;Obeyd, Az, S) <i>The rib that is next to the</i> <br>\
+                  شَاكِلَة [or <i>flank</i>], (A&#39;Obeyd, Az, S,) <i>also called</i> <br>\
+                  الوَاهِنَةُ, (S,) <i>and</i> <br>\
+                  ضِلَعُ الخِلْفِ, (A&#39;Obeyd,) <i>at the bottom of the ribs,</i> (S,) <i>between the side and the belly:</i> (Az:) or the former is <i>the lowest of the ribs,</i> and the latter is <i>the highest of the ribs:</i> (AHeyth:) or the latter is <i>the lowest of the ribs:</i> or <i>the last rib in the side:</i> or the قُصْرَيَانِ and ↓ <br>\
+      قُصَيْرَيَانِ are <i>the two ribs that are next to the</i> <br>\
+                  طَفْطَفَة [or <i>flank</i>]: or <i>that are next to the two collar-bones.</i> (M, K.)    </entryFree> <br>\
+<b>قَصَرَةٌ</b>               1     <br>\
+                     قَصَرَةٌ<br>\
+                     ذ<br>\
+                  : see قَصْرٌ:       -A2-  and قَصَرٌ, in two places:       -A3-  and مِقْصَرَةٌ.    </entryFree> <br>\
+<b>قَصَارٌ</b>               1     <br>\
+                     قَصَارٌ<br>\
+                     ذ<br>\
+                  : and قَصَارُكَ and قُصَارُكَ: see قَصْرٌ.    </entryFree> <br>\
+<b>قِصَارٌ</b>               1     <br>\
+                     قِصَارٌ<br>\
+                     ذ<br>\
+                  , a subst., The <i>shortening</i> [or <i>clipping</i>] of the hair. (Th, M, K. *) Fr says, An Arab of the desert said to me in Minè, القِصَارُ اَحَبُّ اـِلَيْكَ <br>\
+                  اَمِ الحَلْقُ, meaning, <i>Is the shortening</i> [or <i>clipping</i>] <i>more pleasing to thee, or the shaving</i> of the head? (M.)    </entryFree> <br>\
+<b>قَصِيرٌ</b>               1     <br>\
+                     قَصِيرٌ<br>\
+                     ذ<br>\
+                  <i>Short;</i> and <i>low,</i> i. e. <i>having little height; contr. of</i> <br>\
+                  طَوِيلٌ; (S, M, Msb, K;) and so ↓ <br>\
+      قَاصِرٌ, app. a kind of rel. or possessive n., not a verbal epithet: (M:) fem. of the former [and of the latter] with ة: (M, K:) pl. of the former, masc., (S, M, Msb, K,) and fem., (M, K,) قِصَارٌ, (S, M, &amp;amp;c.,) and pl. masc. [applied to rational beings,] قُصَرَا=ءُ, (M, K,) and pl. fem. قِصَارَةٌ; (K;) ة being added by the Arabs to any pl. of the measure فِعَالٌ, as in جِمَالَةٌ and حِبَالَةٌ and ذِكَارَةٌ and حِجَارَةٌ; (Fr;) or قِصَارَةٌ is syn. with قَصِيرَةٌ, and is extr. (Sgh, K.) ―         -b2-  قَصِيرَةٌ مِنْ طَوِيلَةٍ [lit. <i>A short</i> thing <i>from a tall</i> thing; meaning,] <i>a date from a palm-tree:</i> a proverb; alluding to the abridgment of speech or language. (K.) ―         -b3-  هُوَ قَصِيرُ اليَدِ, [and البَاعٍ, (tropical:)  <i>He has little,</i> or <i>no, power:</i> or <i>is niggardly:</i>] and لَهُمْ اَيْدٍ قِصَارٌ [<i>they have little,</i> or <i>no, power:</i> or <i>are niggardly</i>]. (TA.) ―         -b4-  قَصِيرُ الهِمَّةِ [<i>Having little ambition</i>]. (O in art. بجل.) ―         -b5-  اـِنَّهُ لَقَصِيرُ العِلْمِ (tropical:)  [<i>Verily he has little knowledge</i>]. (M.) ―         -b6-  قَصِيرُ النَّسَبِ [<i>Having a short pedigree;</i>] <i>whose father is well known, so that when the son mentions him it is sufficient for him, without his extending his lineage to his grandfather.</i> (K.) [See also a verse below, in this paragraph.] ―         -b7-  حَدِيثٌ قَصِيرٌ, and ↓ <br>\
+      مُقْتَصَرٌ, <i>A</i> [<i>concise,</i> or] <i>comprehensive, and profitable, story,</i> or <i>narration.</i> (TA.)       -A2-  [<i>I. q.</i> ↓ <br>\
+      مَقْصُورٌ and ↓ <br>\
+      مَقْصُورَةٌ, <i>Shortened; contracted:</i> and <i>confined; restricted; limited;</i> &amp;amp;c.] ―         -b2-  اـِمْرَاَةٌ <br>\
+                  قَصِيرُ الخُطَى, and الخَطْوِ ↓ <br>\
+      مَقْصُورَةُ, [<i>A woman whose steps are shortened,</i> or <i>contracted;</i>] likened to one who is shackled, whose steps are shortened, or contracted, by the shackles. (Fr.) ―         -b3-  فَرَسٌ <br>\
+                  قَصِيرٌ <br>\
+                  <i>A mare that is brought near</i> [<i>to the tent or dwelling</i>], <i>and treated generously, and not left to seek for pasture, because she is precious:</i> (S, K:) and <i>a mare that is kept confined.</i> (TA.) ―         -b4-  قَصِيرَةٌ, [which is extr., for by rule it should be without ة,] and ↓ <br>\
+      قَصُورَةٌ, (Az, S, M, K,) and ↓ <br>\
+      مَقْصُورَةٌ, (K,) A woman <i>confined in the house,</i> or <i>tent, not suffered to go forth:</i> (S, M, K:) a woman <i>kept behind,</i> or <i>within, the curtain:</i> (TA, in explanation of the last of these three epithets:) a girl <i>kept with care, that does not go out:</i> (Az:) the pl. of قصورة is قَصَايِرُ:] [and so, app., of قصيرة:] when you mean short in stature, you say قَصِيرَةٌ [only], and the pl. is قِصَارٌ. (TA.) Kutheiyir says <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَاَنْتِ الَّتِى حَبَّبْتِ كُلَّ قَصِيرَةٍ<br>\
+                     <L><br>\
+                        اـِلَىَّ وَمَا تَدْرِى بِذَاكَ القَصَايِرُ<br>\
+                     <L><br>\
+                        عَنَيْتُ قَصِيرَاتِ الحِجَالِ وَلَمْ اُرِدْ<br>\
+                     <L><br>\
+                        قِصَارَ الخُطَى شَرُّ النِّسَا=ءِ البَحَاتِرُ<br>\
+                  </quote> (S, M) or, as Fr relates it, كُلَّ قَصُورَةً (S) [<i>And thou art the person who hath made every female confined within the house to be an object of love to me, while the females confined within the house know not that: I mean those confined within the curtained canopies: I do not mean the short in step: the worst of women are the short and compressed</i>]. And a poet says <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَاَهْوَى مِنَ النِّسوَانِ كُلَّ قَصِيرَةٍ<br>\
+                     <L><br>\
+                        لَهَا نَسَبٌ فِى الصَّالِحِينَ قَصِيرُ<br>\
+                  </quote> [<i>And I love, of women, every one that is confined within the house, that has a short pedigree, among the good</i>]; i. e., every ↓ <br>\
+      مَقْصُورَة, of whom it suffices to mention her descent from her father, because of his being well known. (M.) Hence, in the Kur, [lv. 72,] حُورٌ مَقْصُورَاتٌ فِى <br>\
+                  الخِيَامِ [<i>Damsels having eyes whereof the white is intensely white and the black intensely black,</i>] <i>confined in the pavilions,</i> (Az, Msb,) which are of pearls, for their husbands; (Az;) <i>concealed by curtains:</i> (Az, Bd:) or <i>confined to their husbands, and not raising their eyes to others:</i> (Fr:) or <i>having their eyes restricted to their husbands.</i> (Bd.) And ↓ <br>\
+      نَاقَةٌ مَقْصُورَةٌ, (TA,) or مَقْصُورَةٌ عَلَى العِيَالِ, (Msb,) <i>A she-camel retained</i> [<i>restrictively</i>] <i>for the household, that they</i> [<i>alone</i>] <i>may drink her milk.</i> (Msb, TA. *) ―         -b5-  See also قُصْرَةٌ.    </entryFree> <br>\
+<b>قُصَارَةٌ</b>               1     <br>\
+                     قُصَارَةٌ<br>\
+                     ذ<br>\
+                  : see مَقْصُورَةٌ.    </entryFree> <br>\
+<b>قِصَارَةٌ</b>               1     <br>\
+                     قِصَارَةٌ<br>\
+                     ذ<br>\
+                   The <i>art of</i> [<i>beating and</i>] <i>washing</i> (Mgh) <i>and whitening</i> (M, Msb) <i>clothes.</i> (M, Mgh, Msb.)    </entryFree> <br>\
+<b>قَصُورَةٌ</b>               1     <br>\
+                     قَصُورَةٌ<br>\
+                     ذ<br>\
+                  : see مَقْصُورَةٌ: and قَصِيرٌ.    </entryFree> <br>\
+<b>قُصَارَى</b>               1     <br>\
+                     قُصَارَى<br>\
+                     ذ<br>\
+                  . ―         -b2-  قُصَارَاكَ: see قَصْرٌ.    </entryFree> <br>\
+<b>قُصَيْرَى</b>               1     <br>\
+                     قُصَيْرَى<br>\
+                     ذ<br>\
+                  . ―         -b2-  قُصَيْرَاكَ: see قَصْرٌ.       -A2-  See also قُصْرَى.    </entryFree> <br>\
+<b>قَصَّارٌ</b>               1     <br>\
+                     قَصَّارٌ<br>\
+                     ذ<br>\
+                  <i>One who beats</i> (S) <i>and washes</i> (Mgh) <i>and whitens</i> (M, Msb, K) <i>clothes;</i> (S, M, &amp;amp;c.;) as also ↓ <br>\
+      مُقَصِّرٌ. (M, K.)    </entryFree> <br>\
+<b>قَاصِرٌ</b>               1     <br>\
+                     قَاصِرٌ<br>\
+                     ذ<br>\
+                  : see قَصِيرٌ, first signification.       -A2-  اـِمْراَةٌ <br>\
+                  قَاصِرَةُ الطَّرْفِ <br>\
+                  <i>A woman restraining her eyes from looking at any but her husband.</i> (S, K.) ―         -b2-  ظِلٌّ قَاصِرٌ (tropical:)  <i>Contracting shade.</i> (TA.)    </entryFree> <br>\
+<b>قَوْصَرَّةٌ</b>               1     <br>\
+                     قَوْصَرَّةٌ<br>\
+                     ذ<br>\
+                  , and (sometimes, S,) قَوْصَرَةٌ, without teshdeed, <i>A receptacle for dates,</i> or <i>for dried dates,</i> (S, M, Mgh, Msb, K,) <i>in which they are stored, made of mats,</i> (S,) <i>of reeds:</i> (M, Mgh, Msb, K:) in common conventional language only so called as long as it contains dates: otherwise it is called زَبِيلٌ: (Mgh:) thought by IDrd to be not Arabic; (M;) and he doubts respecting the authenticity of a verse in which it is mentioned, ascribed to &#39;Alee: (TA:) pl. قَوَاصِرُ: (K, art. كنز; &amp;amp;c.:) the dim. is قُوَيْصِرَّةٌ and قُوَيْصِرَةٌ. (TA.) ―         -b2-  (tropical:)  <i>A woman,</i> or <i>wife;</i> (IAar, K;) as also قَارُورَةٌ [q. v.]. (IAar, TA.)    </entryFree> <br>\
+<b>اَقْصُرُ</b>               1     <br>\
+                     اَقْصُرُ<br>\
+                     ذ<br>\
+                  <i>More,</i> and <i>most, short:</i> fem. قُصْرَى: (Mgh:) the pl. of اَقْصَرُ is اَقَاصِرُ. (S, K.)    </entryFree> <br>\
+<b>تِقْصَارٌ</b>               1     <br>\
+                     تِقْصَارٌ<br>\
+                     ذ<br>\
+                   (S, M, K) and تِقْصَارَةٌ (S, K) <i>A necklace,</i> or <i>collar,</i> or <i>the like,</i> syn. قِلَادَةٌ, (S, M, K,) <i>resembling a</i> <br>\
+                  مِخْنَقَة: (S:) so called because it cleaves to the قَصَرَة [or base] of the neck: (M:) or <i>a</i> <br>\
+                  مِخْنَقَة <br>\
+                  <i>proportioned to the</i> <br>\
+                  قَصَرَة [or <i>base of the neck</i>]: (A, TA:) pl. تَقَاصِيرُ. (S, K.)    </entryFree> <br>\
+<b>رَضِىَ بِمَقْصَرٍ مِنَ الاَمْرِ</b>               1     <br>\
+                     رَضِىَ بِمَقْصَرٍ مِنَ الاَمْرِ<br>\
+                     ذ<br>\
+                  , and مِنْهُ ↓ <br>\
+      بِمَقْصِرٍ, <i>He was content with less than he was seeking, of the thing.</i> (TA.) And مِمَّا كَانَ يُحَاوِلُ ↓ <br>\
+      رَضِىَ بِمُقْصِرٍ with kesr to the ص, (S,) or بِمَقْصَرٍ مِنْهُ, (as in a copy of the M,) <i>He was content with less than he was seeking.</i> (S, M.) And رَضِيتُ مِنْ فُلَانٍ <br>\
+                  بِمَقْصَرٍ, and ↓ <br>\
+      بِمَقْصِرٍ, <i>I was content with an inferior thing from such a one.</i> (M.)       -A2-  See also قَصْرٌ.    </entryFree> <br>\
+<b>مَقْصِرٌ</b>               1     <br>\
+                     مَقْصِرٌ<br>\
+                     ذ<br>\
+                  : see مَقْصَرٌ:       -A2-  and قَصْرٌ.    </entryFree> <br>\
+<b>جَا=ءَ فُلَانٌ مُقْصِرًا</b>               1     <br>\
+                     جَا=ءَ فُلَانٌ مُقْصِرًا<br>\
+                     ذ<br>\
+                  <i>Such a one came when the</i> <br>\
+                  <i>afternoon,</i> or <i>evening, was almost drawing near to night.</i> (TA.)    </entryFree> <br>\
+<b>مَقْصَرَةٌ</b>               1     <br>\
+                     مَقْصَرَةٌ<br>\
+                     ذ<br>\
+                  : see قَصْرٌ.    </entryFree> <br>\
+<b>مِقْصَرَةٌ</b>               1     <br>\
+                     مِقْصَرَةٌ<br>\
+                     ذ<br>\
+                   (M, K) and ↓ <br>\
+      قَصَرَةٌ (M, TA) The <i>wooden implement of the</i> <br>\
+                  قَصَّار, (M, K,) <i>with which he beats clothes:</i> (M:) and the ↓ latter, <i>a piece of wood,</i> (M, K,) <i>of any kind;</i> or <i>of the jujube-tree,</i> specially. (TA.)    </entryFree> <br>\
+<b>مُقَصِّرٌ</b>               1     <br>\
+                     مُقَصِّرٌ<br>\
+                     ذ<br>\
+                   act. part. n. of 2, q. v. and see قَصَّارٌ. ―         -b2-  [<i>Deficient in liberality</i> or <i>bounty:</i>] one <i>who makes a gift scanty,</i> or <i>mean.</i> (TA.) A poet says <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَقُلْتُ لَهُ قَدْ كُنْتَ فِيهَا مُقَصِّرًا<br>\
+                  </quote> [<i>And I said to him Thou hast been deficient in liberality with respect to them;</i> app. meaning she-camels or the like;] i. e., thou hast not given of them nor given to drink from them [of their milk]. (M.)    </entryFree> <br>\
+<b>مَقْصُورٌ</b>               1     <br>\
+                     مَقْصُورٌ<br>\
+                     ذ<br>\
+                   and مَقْصُورَةٌ: see قَصِيرٌ, in five places. ―         -b2-  See also قُصْرَةٌ. ―         -b3-  مَقْصُورَةٌ <br>\
+                  <i>An ample</i> or <i>a spacious</i> [<i>house</i> or <i>mansion such as is called a</i>] دار, <i>which is defended by walls:</i> (M, * K, * TA:) or it is <i>less than a</i> <br>\
+                  دار; (M, K;) as also ↓ <br>\
+      قُصَارَةٌ; <i>and is not entered by any but the owner:</i> (K:) such a part of a house is called the مقصورة of a دار, and the قصارة thereof: (Useyd, TA:) <i>any apartment</i> (نَاحِيَةٌ), <i>by itself, of a</i> <br>\
+                  دار, <i>when the latter is ample,</i> or <i>spacious, and defended by walls:</i> (Lth, TA:) <i>a</i> [<i>chamber such as is called a</i>] حُجْرَة, of a house: (Mgh, Msb:) pl. مَقَاصِيرُ and مَقَاصِرُ. See an ex. voce مُصْمَتٌ. (Lth, TA.) And المَقْصُورَةٌ, (Lth,) and مَقْصُورَةُ مَسْجِدٍ, (Mgh, Msb,) and مَقْصُورَةُ جامِعٍ, (S,) <i>The part which is the station of the Imám</i> [or <i>Khaleefeh</i>] <i>in a mosque:</i> (Lth, Mgh:) so called because confined [by a railing or screen]: (S:) or, accord. to some, مقصورة, thus applied, is changed from its original form, which is قَاصِرَةٌ, an act. part. n.: (Msb:) [and, as used in the present day, <i>that part of a mosque which is the principal place of prayer, when it is partitioned off from the rest of the building:</i> and <i>the railing,</i> or <i>screen, which surrounds the oblong monument of stone or brick or wood over a grave in a mosque; sometimes enclosing a kind of baldachin over the monument.</i> <br>\
+                  مَقْصُورَةٌ also signifies The <i>chancel</i> of a church: see مَذْبَحٌ.] And مَقْصُورَةٌ and ↓ <br>\
+      قَصُورَةٌ <br>\
+                  <i>A</i> <br>\
+                  حَجَلَة [or <i>kind of curtained canopy</i> or <i>baldachin, such as is prepared for a bride</i>]. (Lh, M, K.) And the former word, <i>A piece of ground which none but the owner thereof is allowed to tread.</i> (TA.)    </entryFree> <br>\
+<b>مَقْصُورَةٌ</b>               1     <br>\
+                     مَقْصُورَةٌ<br>\
+                     ذ<br>\
+                  : see مَقْصُورٌ.    </entryFree> <br>\
+<b>حَدِيثٌ مُقْتَصَرٌ</b>               1     <br>\
+                     حَدِيثٌ مُقْتَصَرٌ<br>\
+                     ذ<br>\
+                  : see قَصِيرٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,50 @@
+load_data( { book: 'll_pt', text: '<em>هث</em>            1                  هث<br>\
+<b>هَثَّ</b>               1     <br>\
+                     هَثَّ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     هَثُ٣َ<br>\
+                  , inf. n. هَثٌّ, <i>He mixed</i> a thing, <i>one part with another.</i> (M.) ―         -b2-  هَثَّ, [aor.      <br>\
+                     هَثِ٣َ<br>\
+                  ,] inf. n. هَثٌّ, <i>He lied.</i> (IAar, K.)    </entryFree> <br>\
+<b>هَثْهَثَ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     هَثْهَثَ<br>\
+                     ذ<br>\
+                  , inf. n. هَثْهَثَةٌ, <i>He mixed,</i> or <i>confounded;</i> like مَثْمَثَ. (TA.) هثهث اَمْرَهُ <br>\
+                  <i>He confounded his affair.</i> (TA.) ―         -b2-  هَثْهَثَ, inf. n. هَثْهَثَةٌ, <i>It was mixed,</i> or <i>confounded.</i> (S, K.) ―         -b3-  هَثْهَثَ, (inf. n. هَثْهَثَةٌ, K,) <i>He</i> (a magistrate, S) <i>acted unjustly, injuriously,</i> or <i>tyrannically.</i> (S, K.) ―         -b4-  هثهث النَّاسَ <br>\
+                  <i>He</i> (a magistrate) <i>acted unjustly, injuriously,</i> or <i>tyrannically, towards the people.</i> (TA.)       -A2-  هَثْهَثَ, inf. n. هَثْهَثَةٌ, <i>It sent forth quickly:</i> (K:) [ex.] هَثْهَثَتِ السَّحَابَةُ بِقُطْرِهَا <br>\
+                  وَثَلْجِهَا <br>\
+                  <i>The cloud sent forth quickly its rain and its snow.</i> (S.)       -A3-  هَثْهَثَ, inf. n. هَثْهَثَةٌ (and هثهاث, TA) <i>He trod,</i> or <i>trampled, vehemently.</i> (K.) ―         -b2-  <i>It</i> (a pasturing herd or flock) <i>trod</i> the fresh green pasture <i>until it was destroyed,</i> <br>\
+                  حتى <br>\
+                  يوتى [So in the L, app. حَتَّى يُوُتِىَ].)    </entryFree> <br>\
+<b>هَثٌّ</b>               1     <br>\
+                     هَثٌّ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      هَثْهَثَةٌ and ↓ <br>\
+      هثهاث <br>\
+                  <i>A confusion of sounds, noises,</i> or <i>voices, in war</i> or <i>a raising of a loud cry,</i> or <i>clamour,</i> or <i>confused noise</i> (M,) [App. inf. n., of which the verbs are هَثَّ and هَثْهَثَ]    </entryFree> <br>\
+<b>هَثْهَثَةٌ</b>               1     <br>\
+                     هَثْهَثَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      هَثْهَاثٌ <br>\
+                  <i>A word imitative of somewhat of the speech of how who has the (??) kind of pronunciation (??)</i> <br>\
+                  لُثْغَة (TA.) See هَثٌّ    <br>\
+<b>هَثْهَاثٌ</b>               1     <br>\
+                     هَثْهَاثٌ<br>\
+                     ذ<br>\
+                  <i>Quick</i> (K) rain (TA.) ―         -b2-  هَثْهَاثٌ <br>\
+                  <i>Confused, confounded:</i> (K,) an epithet applied to a man. (TA.) ―         -b3-  See هَثٌّ ―         -b4-  And see هَثَّاثٌ and هَثْهَثَةٌ ―         -b5-  هَثْهَاثٌ A town, or district, <i>abounding with dust.</i> (K)    </entryFree> <br>\
+<b>هِثْهَاثٌ</b>               1     <br>\
+                     هِثْهَاثٌ<br>\
+                     ذ<br>\
+                  : see هَثٌّ.    </entryFree> <br>\
+<b>هَثَّاثٌ</b>               1     <br>\
+                     هَثَّاثٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      هَثْهَاثٌ <br>\
+                  <i>A liar,</i> (K.) ―         -b2-  Also, the latter, A man <i>who tells unmixed lies.</i> (TA.)   </entryFree> <br>\
+' } );

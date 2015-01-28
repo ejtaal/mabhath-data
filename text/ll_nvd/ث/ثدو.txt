@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'ثدو1<br>\
+ثَدَاهُ, aor.<br>\
+ثَدُوَ: see art. ثدى.<br>\
+' } );

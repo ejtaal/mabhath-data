@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نغثنَغْثٌ Lasting and vehement evil. (IAar, K.)<br>\
+―<br>\
+-b2-  وَقَعْنَا فِى نَغْثٍ We fell into lasting and vehement evil. (L.)<br>\
+' } );

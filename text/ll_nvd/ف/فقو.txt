@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'فقو1<br>\
+فَقَوْتُ أَثَرَهُ or إِثْرَهُ I followed his track, or<br>\
+footsteps; i. q. قَفَوْتُهُ; (K, TA;) mentioned by<br>\
+Yaakoob among the words formed by transposition: so in the M. (TA.)<br>\
+فَقْوٌ: see its syn. فَقْءٌ, in art. فقأ.<br>\
+فُقْوَةٌ The فُوق [or notch] of the arrow; (S, K,<br>\
+TA;) i. e. the part which is the place of the bowstring: (TA:) [also called فُوقَةٌ, from which it is<br>\
+app. formed by transposition, like the other words<br>\
+mentioned in this art.:] pl. فُقًى, (S, K,) also<br>\
+written فُقًا. (TA.) An ex. of the pl. occurs in<br>\
+a verse cited in art. عرقب, voce عُرْقُوبٌ. (S.)<br>\
+' } );

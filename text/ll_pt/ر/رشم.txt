@@ -1,0 +1,49 @@
+load_data( { book: 'll_pt', text: '<em>رشم</em>            1                  رشم<br>\
+<b>رَشَمَ</b>               1     <br>\
+                     رَشَمَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     رَشُمَ<br>\
+                  , inf. n. رَشْمٌ, (S,) <i>He stamped,</i> or <i>sealed,</i> wheat. (S, K. [See رَوْشَمٌ.]) ―         -b2-  And <i>He wrote;</i> (K, TA;) عَلَيْهِ [<i>upon it</i>], and اـِلَيْهِ [<i>to him</i>]: accord. to the copies of the K, like ↓ <br>\
+      رشَم; but this is a mistake for رَسَمَ, with the unpointed س [and without teshdeed]. (TA.)    </entryFree> <br>\
+                     رَشَّمَ<br>\
+                   see above.    </entryFree> <br>\
+                     اَرْشَمَ<br>\
+                   see the next paragraph.       -A2-  ارشمت <br>\
+                  <i>It</i> (land) <i>showed its herbage.</i> (TA.) ―         -b2-  And <i>She</i> (a wild cow) <i>saw and depastured the</i> <br>\
+                  رَشَم, (K, TA,) i. e. the <i>first that appeared of the herbage:</i> the epithet applied to her is ↓ <br>\
+      مُرْشِمٌ [without ة]. (TA.)    </entryFree> <br>\
+<b>ارتشم</b>               1     <br>\
+                     ارتشم<br>\
+                     ذ<br>\
+                  , in the copies of the K erroneously written ↓ <br>\
+      اَرْشَمَ, [is expl. as meaning] <i>He stamped,</i> or <i>sealed, his vessel with the</i> <br>\
+                  رَوْشَم: thus in the saying of El-Aashà, as some relate it, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَصَلَّى عَلَى دَنِّهَا وَاْرْتَشَمْ<br>\
+                  </quote> but accord. to others, وَاْرْتَسَمْ. (TA. [See art. رسم.])    </entryFree> <br>\
+<b>رَشْمٌ</b>               1     <br>\
+                     رَشْمٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>رَشَمٌ</b>               1     <br>\
+                     رَشَمٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَثَرٌ [<i>A mark, an impression,</i> &amp;amp;c.]; (Aboo-Turáb, K, TA; [in the CK المَطَرُ is erroneously put for الاَثَرُ;]) as also ↓ <br>\
+      رَشْمٌ; (K, TA;) like رَسَمٌ (Aboo-Turáb, TA) and رَسْمٌ [q. v.]. (S, Msb, K, all in art. رسم.) ―         -b2-  And [particularly] The <i>mark,</i> or <i>impression,</i> &amp;amp;c., (اَثَر,) <i>of rain, upon the ground.</i> (K.) ―         -b3-  And The <i>first that appears of herbage;</i> (ISk, S, K;) as also ↓ <br>\
+      رَوْشَمٌ. (TA.)    </entryFree> <br>\
+<b>رَوْشَمٌ</b>               1     <br>\
+                     رَوْشَمٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  رَوْسَمٌ (S, K, TA) as meaning The [<i>small engraved</i>] <i>tablet,</i> (S, TA,) or the <i>stamp,</i> or <i>seal,</i> (K, TA,) <i>with which collections of wheat or corn</i> [<i>in their repositories</i>] <i>are stamped,</i> or <i>sealed;</i> (S, TA;) as also ↓ <br>\
+      رَاشُومٌ. (AA, K.) And The <i>thing with which</i> [<i>the mouth of</i>] <i>a vessel is stamped,</i> or <i>sealed;</i> (K;) and ↓ <br>\
+      رَاشُومٌ signifies [the same; or] <i>a stamp,</i> or <i>seal, with which the head</i> [or <i>mouth</i>] <i>of a</i> [<i>large jar such as is called</i>] خَابِيَة <br>\
+                  <i>is stamped,</i> or <i>sealed:</i> (TA in art. رسم:) as also رَوْسَمٌ (M and K in that art.) and رَاسُومٌ: (K in that art.:) or <i>a stamp,</i> or <i>seal, in a general</i> <br>\
+                  <i>sense;</i> as also رَوْسَمٌ. (M in that art.)       -A2-  See also رَشَمٌ.    </entryFree> <br>\
+<b>رَاشُومٌ</b>               1     <br>\
+                     رَاشُومٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, in two places. مُرْشِمٌ, an epithet applied to a wild cow: see 4.   </entryFree> <br>\
+' } );

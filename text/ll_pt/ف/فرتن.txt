@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>فرتن</em>            1                  فرتن<br>\
+<b>فَرْتَنَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     فَرْتَنَ<br>\
+                     ذ<br>\
+                  , (T, K, TA,) inf. n. فَرْتَنَةٌ, (T, TA,) signifies شَقَّقَ كَلَامَهُ وَاْهْتَمَشَ فِيهِ [app. meaning <i>He uttered,</i> or <i>endeavoured with repeated efforts to utter, his speech in the best manner, and proceeded slowly therein</i>]: (T, K, * TA:) in the copies of the K, اهتمس, with the unpointed س, is put for اهتمش, which is the right reading. (TA.) ―         -b2-  And <i>He went along with short steps.</i> (K.)       -A2-  And <i>He</i> (a man) <i>became angry, and in a state of excitement:</i> from what here follows [and therefore, app., post-classical]. (TA.)    </entryFree> <br>\
+<b>فُرْتُنَةٌ</b>               1     <br>\
+                     فُرْتُنَةٌ<br>\
+                     ذ<br>\
+                  , with damm, [meaning with two dammehs,] <i>A state of commotion of the sea arising from the violence of the winds:</i> app. post-classical. (TA.)    </entryFree> <br>\
+<b>فَرْتَنَا</b>               1     <br>\
+                     فَرْتَنَا<br>\
+                     ذ<br>\
+                  , in which the ن is held by some to be radical, and by others to be augmentative, see in art. فرت.   </entryFree> <br>\
+' } );

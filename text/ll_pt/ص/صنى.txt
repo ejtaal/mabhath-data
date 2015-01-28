@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>صنى</em>            1                  صنى<br>\
+<b>صِنْىٌ</b>               1     <br>\
+                     صِنْىٌ<br>\
+                     ذ<br>\
+                   and صُنْىٌ and صَنْىٌ: see صِنْوٌ, in art. صنو.    </entryFree> <br>\
+<b>صُنَىٌّ</b>               1     <br>\
+                     صُنَىٌّ<br>\
+                     ذ<br>\
+                  : dim. of صِنْوٌ: see art. صنو.    </entryFree> <br>\
+<b>اَخَذَهُ بِصِنَايَتِهِ</b>               1     <br>\
+                     اَخَذَهُ بِصِنَايَتِهِ<br>\
+                     ذ<br>\
+                  <i>He took it</i> (a thing, S) <i>wholly:</i> (Fr, S, M, K:) and so بِسِنَايَتِهِ. (M.)   </entryFree> <br>\
+' } );

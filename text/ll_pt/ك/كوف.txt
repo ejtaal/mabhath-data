@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>كوف</em>            1                  كوف<br>\
+<b>تَكَوَّفَ</b>               1     <br>\
+                     تَكَوَّفَ<br>\
+                     ذ<br>\
+                  : see تَشَاَّمَ.    </entryFree> <br>\
+<b>كَافٌ</b>               1     <br>\
+                     كَافٌ<br>\
+                     ذ<br>\
+                  <i>Same as</i> <br>\
+                  كُسٌّ (<i>because it is the name of the incipient letter of this word:</i> 1001 Nights ii. 304).    </entryFree> <br>\
+<b>كُوفِيَّةٌ</b>               1     <br>\
+                     كُوفِيَّةٌ<br>\
+                     ذ<br>\
+                  <i>A thing that is worn upon the head; so</i> called because of its roundness, or its bring round. (TA.)   </entryFree> <br>\
+' } );

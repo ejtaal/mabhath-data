@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'وكح10<br>\
+استوكحت الفِرَاخُ The young birds became<br>\
+big, bulky, or coarse. (S, K.)<br>\
+وُكُحٌ Big, bulky, or coarse, young birds:<br>\
+(K:) after the manner of a rel. n., as though<br>\
+pl. of وَاكِحٌ, or وَكُوحٌ, since it cannot be pl.<br>\
+of مُسْتَوْكِحٌ. (TA.)<br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'هبث1<br>\
+هبث مَالَهُ, aor.<br>\
+هَبُثَ, inf. n. هَبْثٌ, He scattered,<br>\
+or squandered, his property. (L.)<br>\
+Q. Q. 1<br>\
+هَنْبَثَ: see هَنْبَثَةٌ.<br>\
+هَنْبَثَةٌ A severe, difficult, or afflictive, affair:<br>\
+(S, K:) pl. هَنَابِثُ: the ن is an augmentative<br>\
+letter. (TA.) The pl. also signifies calamities:<br>\
+and confused affairs and news. (TA.) ―<br>\
+-b2-  Also,<br>\
+Confusion in speech, or, in what is said: (S,<br>\
+K:) [probably an inf. n, of which the verb is<br>\
+هَنْبَثَ].<br>\
+' } );

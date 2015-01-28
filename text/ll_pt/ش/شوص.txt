@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>شوص</em>            1                  شوص<br>\
+<b>شَاصَ</b>               1     <br>\
+                     شَاصَ<br>\
+                     ذ<br>\
+                  , aor. يَشُوصُ (S, A, Mgh, Msb, K) and يَشَاصُ, in all its senses, (O, K,) inf. n. شَوْصٌ, (S, Mgh, Msb, K,) <i>He set up</i> a thing <i>with his hand:</i> (Msb, K:) or <i>he put</i> it <i>into a state of commotion:</i> (Msb:) or it signifies also <i>he moved it violently from its place.</i> (IDrd, K.) ―         -b2-  <i>He rubbed</i> a thing <i>with his hand.</i> (IAar, K.) ―         -b3-  <i>He washed</i> (A&#39;Obeyd, S, Mgh, Msb, K) a thing, (Msb,) or anything: (A&#39;Obeyd:) <i>he cleansed</i> (AO, S, K) a thing: (AO:) as, for instance, his mouth, with the سِوَاك [or toot-stick]: (S:) <i>he rubbed and cleansed</i> the teeth and the side of the mouth. (IAar.) You say شَاصَ فَاهُ <br>\
+                  <i>He cleansed and washed his teeth,</i> (Mgh,) بِالسِّوَاكِ [<i>with the tooth-stick</i>]. (Msb.) And شَاصَ اَسْنَانَهُ, (A,) or فَاهُ, (TA,) [or app., شَاصَ alone, accord. to the K,] <i>He cleansed his teeth with the</i> <br>\
+                  سِوَاك: (AA, K, TA:) or <i>he did so by passing it across his teeth:</i> (A, TA:) or <i>from below upwards:</i> (K, TA:) or <i>by thrusting it into them,</i> or <i>between them:</i> (TA:) and in like manner you say, فَاهُ ↓ <br>\
+      اشاص, (TA,) inf. n. اـِشَاصَةٌ; (Fr, K, TA;) and فاه ↓ <br>\
+      شوّص, (TA,) inf. n. تَشْوِيصٌ. (K, TA.) ―         -b4-  Also <i>He chewed</i> a سِوَاك [app. to separate the fibres at the end and so make it like a brush, to prepare it for cleaning his teeth with it]. (K, * TA.)    </entryFree> <br>\
+                     شَوَّصَ<br>\
+                   see 1, near the end of the paragraph.    </entryFree> <br>\
+                     اَشْوَصَ<br>\
+                   see 1, near the end of the paragraph.    </entryFree> <br>\
+<b>شَوْصُ السِّوَاكِ</b>               1     <br>\
+                     شَوْصُ السِّوَاكِ<br>\
+                     ذ<br>\
+                  <i>The washings</i> (غُسَالَة) <i>of the toothstick:</i> or <i>what remains from the tooth-stick when one cleans his teeth with it:</i> each of these meanings is assigned to it in explanations of a trad.: اِسْتَغْنُوا عَنِ النَّاسِ وَلَوْ بِشَوْصِ السِّوَاكِ [<i>Be ye independent of</i> other <i>men, if it be only by means of</i> possessing <i>the washings,</i> &amp;amp;c., <i>of the tooth-stick:</i> i. e., as long ye possess anything]. (TA.)   </entryFree> <br>\
+' } );

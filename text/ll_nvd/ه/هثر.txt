@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'هثرهَثَارَهُ<br>\
+, for أَنَارَهُ: see ثور.<br>\
+' } );

@@ -1,0 +1,49 @@
+load_data( { book: 'll_nvd', text: 'همل1<br>\
+هَمَلَ<br>\
+, aor.<br>\
+هَمُلَ<br>\
+, inf. n. هَمَلاَنٌ; and ↓ اِنْهَمَلَ;<br>\
+It (water) overflowed, and poured forth. (Mgh.)<br>\
+―<br>\
+-b2-  تُهْمَلُ عَلَى رُؤُوسِهَا وَظَهُورِهَا; so in a copy of<br>\
+the K, voce وَسُوطٌ: in other copies of the K,<br>\
+تُحْمَلُ or يُحْمَلُ: if the first be correct, the<br>\
+meaning is probably Camels left without rein<br>\
+and without burden; and this is agreeable with<br>\
+the context.<br>\
+4<br>\
+أَهْمَلَ المَاشِيَةَ<br>\
+He sent [or left] the cattle to<br>\
+pasture [by themselves,] without a pastor, by<br>\
+night and by day. (Msb.) ―<br>\
+-b2-  أَهْمَلَهُ<br>\
+He left it,<br>\
+let it alone, or neglected it, intentionally or from<br>\
+forgetting: (Msb:) or he left it, or let it alone,<br>\
+expl. by خَلَّى بَيْنَهُ وَبَيْنَ نَفْسِهِ: (S, O, K:) or<br>\
+he left it, or neglected it, and did not make use<br>\
+of it. (K.) ―<br>\
+-b3-  أَهْمَلَ عَبْدَهُ (S, K, in art. سبع)<br>\
+He left his slave without work, or occupation:<br>\
+(PS:) he left him to himself, uncontrolled.<br>\
+7<br>\
+اِنْهَمَلَكَ فِى الأَمْرِ<br>\
+He exerted himself, strove,<br>\
+or laboured, in the affair, (S, Msb,) and persisted, or persevered, in it. (S, Msb, K.) ―<br>\
+-b2-<br>\
+اِنْهَمَلَكَ فِى البَاطِلِ<br>\
+He obstinately persevered in<br>\
+vain or false affairs.<br>\
+هَمَّالَةٌ<br>\
+Applied to the eye or eyes, Flowing<br>\
+abundantly with tears: see a verse cited voce<br>\
+عَلَفَ.<br>\
+مُحْمَلٌ<br>\
+Having no government. (TA, art. on<br>\
+the particle فَ.) ―<br>\
+-b2-  لَفْظٌ مُحْمَلٌ<br>\
+A word that<br>\
+has no grammatical government; contr. of<br>\
+عَامِلٌ.<br>\
+(IbrD.)<br>\
+' } );

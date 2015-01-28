@@ -1,0 +1,28 @@
+load_data( { book: 'll_nvd', text: 'اسن1<br>\
+أَسَنَ, aor.<br>\
+اَسُنَ (S, M, Mgh, Msb, K) and<br>\
+اَسِنَ,<br>\
+(S, M, K,) inf. n. أُسُونٌ (S, M, Msb) and أَسْنٌ;<br>\
+(M;) and أَسِنَ, aor.<br>\
+اَسَنَ, (S, M, &amp;c.,) inf. n. أَسَنٌ;<br>\
+(S, M, Msb;) said of water, i. q. أَجَنَ and أَجِنَ;<br>\
+(S, K;) [i. e.] It became altered for the worse<br>\
+(M, Mgh, Msb) in odour, (M,) [or in taste and<br>\
+colour, from some such cause as long standing,<br>\
+(see أَجَنَ,)] but was drinkable; (M;) or so as not<br>\
+to be drunk, (Msb, TA,) thus differing from أَجَنَ<br>\
+and أَجِنَ. (TA.) [See also أَصِلَ.]<br>\
+أَسِنٌ: see what follows.<br>\
+آسِنٌ (S, Mgh, Msb, K) and ↓ أَسِنٌ, (S, Mgh,<br>\
+Msb,) applied to water, (S, Mgh, &amp;c.,) i. q. آجِنٌ<br>\
+[and أَجِنٌ]; (S, K;) [i. e.] Altered for the worse<br>\
+(Mgh, Msb) in odour, (Mgh,) [or in taste and<br>\
+colour, from some such cause as long standing<br>\
+but drinkable; (see above, and see آجِنٌ;)] or<br>\
+so as not to be drunk, (Msb, TA,) thus differing<br>\
+from آجِنٌ and أَجِنٌ: (TA:) pl. [of the former]<br>\
+آسَانٌ [like as أَطْهَارٌ is pl. of طَاهِرٌ, or perhaps it<br>\
+may have for its sing. أَسْنٌ, like أَجْنٌ]. (M, TA.)<br>\
+مَنْ مَآءٍ غَيْرِ آسِنٍ, in the Kur [xlvii. 16], is explained by Fr as meaning Of water not altered<br>\
+for the worse; not آجِن. (TA.)<br>\
+' } );

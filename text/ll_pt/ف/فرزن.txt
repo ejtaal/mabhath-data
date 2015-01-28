@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>فرزن</em>            1                  فرزن<br>\
+<b>تَفَرْزَنَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَفَرْزَنَ<br>\
+                     ذ<br>\
+                  , said of a بَيْذَق [or pawn] in the game of شِطْرَنْج [or chess], <i>It became a</i> <br>\
+                  فِرْزَان. (TA.) [See an ex. voce دَسْتٌ.]    </entryFree> <br>\
+<b>فِرْزَانُ الشِطْرَنْجِ</b>               1     <br>\
+                     فِرْزَانُ الشِطْرَنْجِ<br>\
+                     ذ<br>\
+                   (K, TA) [<i>The queen of the game of chess;</i> or, as some say,] <i>what occupies the place of the wezeer to the sultán</i> [<i>in that game</i>]: (TA:) the former of these words is arabicized, from [the Pers.] فَرْزِين. (O and K in art. فرز, and K in the present art.)   </entryFree> <br>\
+' } );

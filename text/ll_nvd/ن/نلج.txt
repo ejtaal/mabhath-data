@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نلجنِيلَجٌ<br>\
+and نِيلَنْجٌ<br>\
+Indigo-pigment: see نُوُورٌ,<br>\
+art. نور.<br>\
+' } );

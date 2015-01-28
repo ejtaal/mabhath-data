@@ -1,0 +1,68 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;الك&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  الك<br>\
+&lt;entryFree id=&quot;n1088&quot; key=&quot;اَلَكَ الِلّجَامَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَلَكَ الِلّجَامَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (ISd, K,) [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلُكَ<br>\
+                  &lt;/form&gt; or      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِكَ<br>\
+                  &lt;/form&gt;,] inf. n. اَلْكٌ, (ISd, TA,) &lt;i&gt;He&lt;/i&gt; (a horse) &lt;i&gt;chewed,&lt;/i&gt; or &lt;i&gt;champed, the bit;&lt;/i&gt; syn. عَلَكَهُ. (ISd, K.) One says, of a horse, يالكُ اللُّجُمَ <br>\
+                  &lt;i&gt;He chews,&lt;/i&gt; or &lt;i&gt;champs, the bits:&lt;/i&gt; but the verb commonly known is يَلُوكَ, or يَعْلُكُ. (Lth.) ―         -b2-  [Hence, accord. to some, (see اَلُوكٌ,)] اَلَكَ بَيْنَ القَوْمِ, (Msb, TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِكَ<br>\
+                  &lt;/form&gt;, inf. n. اَلْكٌ and اُلُوكٌ, (Msb,) &lt;i&gt;He acted as a messenger&lt;/i&gt; (تَرَسَّلَ) &lt;i&gt;between the people.&lt;/i&gt; (Msb, TA.) ―         -b3-  And اَلَكَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِكَ<br>\
+                  &lt;/form&gt;, inf. n. اَلْكٌ, &lt;i&gt;He conveyed,&lt;/i&gt; or &lt;i&gt;communicated, to him a message.&lt;/i&gt; (Kr.) ―         -b4-  And اَلَكَ <br>\
+                  &lt;i&gt;He sent.&lt;/i&gt; (IB in art. لوك.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1089&quot; key=&quot;اَلِكْنِى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَلِكْنِى<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is from اَلَكَ signifying “he sent;” and is originally اَاْلِكْنِى; the [second] hemzeh being transposed and placed after the ل, it becomes اَلْيِكْنِى; then the hemzeh has its vowel transferred to the ل and is thrown out; as is done in the case of مَلَكٌ, which is originally مَاْلَكٌ, then مَلْاَكٌ, and then مَلَكٌ: (IB in art. لوك:) it means &lt;i&gt;Be thou my messenger;&lt;/i&gt; and &lt;i&gt;bear thou my message;&lt;/i&gt; and is often used by the poets. (S in art. لوك.) Accord. to IAmb, one says, اَلِكْنِى اـِلَى فُلَانٍ, meaning &lt;i&gt;send thou me to such a one:&lt;/i&gt; [but I do not know any instance in which this meaning is applicable:] and the original form is اَلْيِكْنِى; or, if from الاَلُوكُ, the original form is اَاْلِكْنِى: and he also says that it means &lt;i&gt;be thou my messenger to such a one.&lt;/i&gt; (TA.) One says also, اَلِكْنِى اـِلَيْهَا بِرِسَالَةٍ, which should properly mean &lt;i&gt;Send thou me to her with a message:&lt;/i&gt; but it is an inverted phrase; since the meaning is, &lt;i&gt;be thou my messenger to her with this message&lt;/i&gt; [or &lt;i&gt;rather with a message&lt;/i&gt;]: and اَلِكْنِى اـِلَيْهَا بِالسَّلَامِ i. e. &lt;i&gt;convey thou,&lt;/i&gt; or &lt;i&gt;communicate thou, to her my salutation;&lt;/i&gt; or &lt;i&gt;be thou my messenger to her&lt;/i&gt; [&lt;i&gt;with salutation&lt;/i&gt;]: and sometimes this [prep.] ب is suppressed, so that one says, اَلِكْنِى اـِلَيْهَا السَّلَامَ: sometimes, also, the person sent is he to whom the message is sent; as in the saying, اَلِكْنِى اـِلَيْكَ السَّلَامَ [virtually meaning &lt;i&gt;receive thou my salutation;&lt;/i&gt; but literally] &lt;i&gt;be thou my messenger to thyself with salutation.&lt;/i&gt; (TA.) Lh mentions the phrase اَلَكْتُهُ اـِلَيْهِ, with respect to a message, aor. اُلِيكُهُ, inf. n. اـِلَاكَهٌ; in which case, the hemzeh [in the aor. and inf. n.] is converted into a letter of prolongation. (TA in art. لاك.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَلَّكَ<br>\
+                  &lt;/form&gt; see اَلُوكٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1090&quot; key=&quot;استالك مَاْلُكَتَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استالك مَاْلُكَتَهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He bore,&lt;/i&gt; or &lt;i&gt;conveyed, his message;&lt;/i&gt; (K;) as also استلاك. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1091&quot; key=&quot;اَلُوكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلُوكٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A thing that is eaten&lt;/i&gt; [or rather &lt;i&gt;chewed,&lt;/i&gt; as will be seen below]: so in the phrases, هذَا اَلُوكُ صِدْقٍ like عَلُوجُ صِدْقٍ and عَلُوكُ صِدْقٍ [&lt;i&gt;This is an excellent thing that is chewed&lt;/i&gt;], and مَا تَلَوَّكْتُ بِاَلُوكٍ  [or بِاَلُوكٍ ↓ <br>\
+      مَا تَاَلَّكْتُ (K in art.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1092&quot; key=&quot;علج&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     علج<br>\
+                     علج<br>\
+                  &lt;/form&gt;)] like مَا تَعَلَّجْتُ بِعَلُوجٍ [app. meaning &lt;i&gt;I have not occupied myself in chewing with anything that is chewed&lt;/i&gt;]. (TA.) ―         -b2-  [And hence, accord. to some,] &lt;i&gt;A message,&lt;/i&gt; or &lt;i&gt;communication sent from one person or party to another;&lt;/i&gt; (Lth, S, M, K, &amp;amp;c.; [in the CK, after الرِّسالَةُ, by which الاَلُوكُ is explained in the K &amp;amp;c., we find قِبَلَ المَلِكِ مُشْتَقٌّ منهُ, in which the first two words should be قِيلَ المَلَكُ, as in other copies of the K and in the TA; and الاُلُوكُ is erroneously put, in the CK, for الاَلُوكُ;]) said by Lth and ISd to be so called because it is [as it were] chewed in the mouth; (TA;) as also ↓ <br>\
+      اَلُوكَهٌ (ISd, Sgh, K) and ↓ <br>\
+      مَاْلُكَةٌ (Lth, S, Msb, K, &amp;amp;c.) and ↓ <br>\
+      مَاْلَكَةٌ (Msb, K) and ↓ <br>\
+      مَاْلُكٌ: (S, M, Msb. K, &amp;amp;c.:) accord. to Kr, (TA,) this last is the only word of the measure مَفْعُلٌ: (K, TA:) but accord. to Sb and Akh, there is no word of this measure: (TA:) [i. e. there is none originally &lt;pb n=&quot;82&quot; TEIform=&quot;pb&quot;/&gt; of this measure:] other instances have been mentioned; namely, مَكْرُمٌ and مَعُونٌ [originally مَعْوُنٌ] and مَقْبُرٌ and مَهْلُكٌ and مَيْسُرٌ, which last occurs in the Kur [ii. 280], accord. to one reading, in the words فَنَظِرَةٌ اـِلَى مَيْسُرِهِ; but it is said that each of these, and مَاْلُكٌ also, may be regarded as originally with ة; or, accord. to AHei, each is [virtually, though not in the language of the grammarians,] a pl. of the same with ة; (MF, TA;) and Akh says the same with respect to مَكْرُمٌ and مَعُونٌ: (TA:) Seer says that each is curtailed of ة by poetic licence; but this assertion will not apply to مَيْسُرٌ, as it occurs in the Kur. (MF, TA.) ―         -b3-  اَلُوكٌ also signifies &lt;i&gt;A messenger.&lt;/i&gt; (Ibn-&#39;Abbád, K. [In the CK here follows, والماْلُوْكُ والمَاْلُقُ: but the right reading is وَالمَاْلُوكُ المَاْلُوقُ, as in other copies and in the TA.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1093&quot; key=&quot;اَلُوكَهٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلُوكَهٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلُوكٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1094&quot; key=&quot;مَاْلَكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْلَكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is said to be the original form of مَلَكٌ [&lt;i&gt;An angel;&lt;/i&gt; so called because he conveys, or communicates, the message from God; (K, * TA, in art. لاك;)] derived from اَلُوكٌ; (Msb, K, TA; [but in the CK is a mistake here, pointed out above, voce اَلُوكٌ;]) so that the measure of مَلَكٌ is مَعَلٌ: (Msb:) مَلَكٌ is both sing. and pl.: Ks says that it is originally مَاْلَكٌ, from اَلُوكٌ signifying “a message;” then, by transposition, مَلْاَكٌ, a form also in use; and then, in consequence of frequency of usage, the hemzeh is suppressed, so that it becomes مَلَكٌ; but in forming the pl., they restore it to مَلْاَكٌ, saying مَلَايِكَةٌ, and مَلَايِكُ also: (S in art. ملك:) or, accord. to some, it is from لَاَكَ “he sent;” so that the measure of مَلَكٌ is مَفَلٌ: and there are other opinions respecting it: (Msb:) some say that its م is a radical: see art. ملك. (TA in art. لاك.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1095&quot; key=&quot;مَاْلُكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْلُكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلُوكٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1096&quot; key=&quot;مَاْلَكَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْلَكَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلُوكٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1097&quot; key=&quot;مَاْلَكَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْلَكَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلُوكٌ.   &lt;/entryFree&gt; <br>\
+' } );

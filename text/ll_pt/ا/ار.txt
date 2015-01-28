@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>ار</em>            1                  ار<br>\
+<b>اَرَّهَا</b>               1     <br>\
+                     اَرَّهَا<br>\
+                     ذ<br>\
+                  , aor. يَوُرُّ (S,) inf. n. اَرٌّ, (S, K,) <i>Inivit eam; he compressed her.</i> (S, K.)    </entryFree> <br>\
+<b>اَرَّ اـِرَّ</b>               1     <br>\
+                     اَرَّ اـِرَّ<br>\
+                     ذ<br>\
+                  , (M, TT, L, [and so in the present day,]) or اَرْ اَرْ, (K,) <i>A cry by which sheep or goats are called.</i> (M, L, K.)    </entryFree> <br>\
+<b>مِيْرٌّ</b>               1     <br>\
+                     مِيْرٌّ<br>\
+                     ذ<br>\
+                   A man (S,) <i>much addicted to venery:</i> (S, K:) so accord. to A&#39;Obeyd, as related by Sh and El-Iyádee, but thought by Az to be مَيِيرٌ, of the same measure as مَعِيرٌ, i. e., مَفْعِلٌ, [originally مَاْيِرٌ,] from ا=رَهَا. (T.)   </entryFree> <br>\
+' } );

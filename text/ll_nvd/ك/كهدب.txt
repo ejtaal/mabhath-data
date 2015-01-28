@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كهدبكَهْدَبٌ A heavy, or dull, man: syn. ثَقِيلٌ وَخْمٌ.<br>\
+(K.)<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>رفى</em>            1                  رفى<br>\
+<b>رَفَبْتُ الثَّوْبَ</b>               1     <br>\
+                     رَفَبْتُ الثَّوْبَ<br>\
+                     ذ<br>\
+                  : see 1 in art. رفو.    </entryFree> <br>\
+<b>اُرْفِىٌّ</b>               1     <br>\
+                     اُرْفِىٌّ<br>\
+                     ذ<br>\
+                  <i>Pure milk:</i> (IAar, TA:) or <i>milk of a gazelle:</i> or <i>pure and good milk:</i> (M, K:) ISd says, it may be of the measure اُفْعُولٌ, or فُعْلِىٌّ; or it may belong to art. رفو, because one says رَفَوْتُ, but not [to his knowledge] رَفَيْتُ. (TA.)   </entryFree> <br>\
+' } );

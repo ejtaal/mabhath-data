@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جام</em>            1                  جام<br>\
+<b>جَامٌ</b>               1     <br>\
+                     جَامٌ<br>\
+                     جام<br>\
+                  : see art. جوم.   </entryFree> <br>\
+' } );

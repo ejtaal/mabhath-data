@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>وشك</em>            1                  وشك<br>\
+<b>يُوشِكُ اَنْ يَكُونَ</b>               1     <br>\
+                     يُوشِكُ اَنْ يَكُونَ<br>\
+                     ذ<br>\
+                  <i>It will soon be:</i> (S, Msb, K, TA:) or <i>it is near to being.</i> (Msb, TA.)    </entryFree> <br>\
+<b>وَشْكَانٌ</b>               1     <br>\
+                     وَشْكَانٌ<br>\
+                     ذ<br>\
+                   an anomalous inf. n., or perhaps a simple subst.: see 1 in art. شنا.    </entryFree> <br>\
+<b>وَشِيكًا</b>               1     <br>\
+                     وَشِيكًا<br>\
+                     ذ<br>\
+                  <i>Quickly,</i> or <i>speedily.</i> (IB, TA.) See an ex. in a verse cited voce تَارَةٌ.   </entryFree> <br>\
+' } );

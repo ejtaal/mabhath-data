@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'وطح1<br>\
+وَطَحَهُ, aor. يَطِحُ, (inf. n. طِحَةٌ, TA,) He<br>\
+pushed him, or thrust him, with his hands, ungently, harshly, or violently. (K.)<br>\
+6<br>\
+تواطح القَوْمُ The people did evil, or mischief, one to another, by turns: or fought<br>\
+together. (El-Umawee, S, K.) ―<br>\
+-b2-  تواطحت<br>\
+الإِبِلُ عَلَى الحَوْضِ, (TA,) or تواطحت الحَوْضَ,<br>\
+(K,) The camels crowded, or pressed together, to<br>\
+the tank or cistern. (K.)<br>\
+وَطَحٌ [so in the S] and so written by Aboo-Sahl, but in the copies of the K وَطْحٌ, (TA,)<br>\
+Dung (عَرَّة) or mud that adheres to cloven hoofs,<br>\
+and to the claws, or talons of birds: (S, K:)<br>\
+n. un. with ة. (TA.)<br>\
+' } );

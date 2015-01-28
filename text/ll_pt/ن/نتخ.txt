@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>نتخ</em>            1                  نتخ<br>\
+<b>نَتَخَ</b>               1     <br>\
+                     نَتَخَ<br>\
+                     ذ<br>\
+                  , (S, L, K,) aor.      <br>\
+                     نَتِخَ<br>\
+                  , (K, JK,) or      <br>\
+                     نَتَخَ<br>\
+                  , (L, JK,) inf. n. نَتْخٌ, (S, L,) <i>He pulled</i> a thing <i>out,</i> or <i>up,</i> or <i>off; removed</i> it <i>from its place; displaced</i> it. (S, L, K.) <i>He extracted,</i> or <i>pulled out,</i> a tooth: (S, L:) and, a thorn from his foot (S, L) with an instrument called مِنْتَاخٌ, or مِنْتَاخَانِ: (L:) or <i>he extracted</i> in a general sense. (L.) <i>It</i> (a hawk, or falcon, L, K, and a vulture, L,) <i>pulled off,</i> or <i>tore off,</i> or <i>snatched away,</i> flesh (S, L, K) with its bill: (S, L:) and a raven, or crow, in like manner, a sore upon the back of a camel. (L.) ―         -b2-  نُتِخَ مِنْ اَصْحَابهِ (tropical:)  <i>He was removed,</i> or <i>taken away, from his companions.</i> (A.) نَتَخَتْهُ المَنِيَّةُ مِنْ بَيْنَ قَوْمِهِ (tropical:)  <i>Death removed him from among his people.</i> (A.) ―         -b3-  See also نَخَتَ.    </entryFree> <br>\
+<b>مِنْتَاخٌ</b>               1     <br>\
+                     مِنْتَاخٌ<br>\
+                     ذ<br>\
+                  <i>An instrument with which thorns are extracted from the foot;</i> syn. مِنْقَاشٌ: (S, L, K:) مِنْتَاخَانِ the <i>same, having two extremities.</i> (Az, L.) See مِنَتْاشٌ.   </entryFree> <br>\
+' } );

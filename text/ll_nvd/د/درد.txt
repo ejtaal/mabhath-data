@@ -1,0 +1,54 @@
+load_data( { book: 'll_nvd', text: 'درد1<br>\
+دَرِدَ, (M, Mgh, L,) aor.<br>\
+دَرَدَ, (S,) inf. n. دَرَدٌ,<br>\
+(S, * M, Mgh, L, K, *) He was, or became, toothless; (S, L;) he lost his teeth. (M, Mgh, L, K.)<br>\
+It is said in a trad., أُمِرْتُ بِالسِّوَاكِ حَتَّى خِفْتُ<br>\
+لَأَدْرَدَنَّ (S, Mgh *) I was commanded to make use<br>\
+of the tooth-stick until I feared, meaning I<br>\
+thought, or opined, that I should assuredly become<br>\
+toothless: for the Arabs use ظَنَّ in the same<br>\
+manner as a verb signifying an oath, and give it<br>\
+the same kind of complement, saying, ظَنَنْتُ لَعَبْدُ<br>\
+اللّٰهُ خَيْرٌ مِنْكَ: (S:) or, accord. to one relation,<br>\
+the words of this trad. are لَزِمْتُ السِّوَاكَ حَتَّى<br>\
+خَشِيتُ أَنْ يَدْرَدَنِى [a mistranscription for ↓ يُدْرِدَنِى,<br>\
+from أَدْرَدَ, i. e. I kept to the use of the toothstick until I feared that it would deprive me of<br>\
+my teeth, or render me toothless]: (L:) or,<br>\
+accord. to another relation, ↓ خَشِيتُ أَنْ أُدْرِدَ<br>\
+أَسْنَانِى [I feared that I should make my teeth to<br>\
+fall out]; but this [verb, Mtr says,] I have not<br>\
+heard. (Mgh.)<br>\
+4<br>\
+أَدْرَدَ see above, in two places.<br>\
+دَرَدٌ inf. n. of دَرِدَ. (S, * M, &amp;c.) ―<br>\
+-b2-  And I. q.<br>\
+حَرَدٌ [but in what sense is not said: see what<br>\
+next follows]. (M, TA.)<br>\
+دَرِدٌ, as an epithet applied to a man, I. q. حَرِدٌ<br>\
+[but in what sense is not said]. (M, TA.)<br>\
+دِرْدِمٌ: see أَدْرَدُ, in two places.<br>\
+دُرْدِىٌّ The dregs, feces, lees, or sediment, or<br>\
+what remains at the bottom, of olive-oil, (S, K,)<br>\
+and of other things, (S,) or of [the beverage<br>\
+called] نَبِيذ, (A,) and of any fluid, such as beverages, or wines, and oils. (L.) ―<br>\
+-b2-  Also A ferment<br>\
+that is put into, and left in, expressed juice and<br>\
+[the beverage called] نَبِيذ, in order that it may<br>\
+ferment. (L.) [See خَمِيرٌ.]<br>\
+دُرَيْدٌ an abbreviated dim. of أَدْرَدُ. (S, K.)<br>\
+أَدْرَدُ A toothless man; (S, M, A, Mgh;) as also<br>\
+↓ دِرْدِمٌ, with an augmentative م: (M:) fem. of<br>\
+the former دَرْدَآءٌ: (S, M:) and pl. دُرْدٌ. (A.)<br>\
+―<br>\
+-b2-  نَاقَةٌ دَرْدَآءُ, (S, M, K,) and ↓ دِرْدِمٌ, with an<br>\
+augmentative م, (S, K,) as in the instance of<br>\
+دِلْقِمٌ syn. with دَلْقَآءُ, and of دِقْعِمٌ syn. with دَقْعَآءٌ,<br>\
+(S,) A she-camel advanced in years: (S, K:) or<br>\
+having her teeth [worn, or consumed,] down to<br>\
+the sockets, (M, K,) by reason of old age. (M,<br>\
+TA.)<br>\
+-A2-  الدَّرْدَآءُ the name of A certain corps, or<br>\
+troop of horse, (كَتِيبَة, [in some copies of the S<br>\
+and K كَثِيبَة,]) that belonged to the Arabs.<br>\
+(A &#39;Obeyd, S, K, TA.)<br>\
+' } );

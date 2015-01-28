@@ -1,0 +1,48 @@
+load_data( { book: 'll_pt', text: '<em>سوخ</em>            1                  سوخ<br>\
+<b>سَاخَتْ قَوَايِمُهُ</b>               1     <br>\
+                     سَاخَتْ قَوَايِمُهُ<br>\
+                     ذ<br>\
+                  , (S, Msb, K,) or قَوَايِمُ الدَّابَّةِ, (A,) فِى الاَرْضِ, (S, Msb,) or بِالاَرْضِ, (A,) aor. تَسُوخُ, (S, A, Msb,) inf. n. سَوْخٌ (L, Msb) and سُوُوخٌ and سَوَخَانٌ, (L,) <i>His legs,</i> or <i>the legs of the beast, sank into the ground:</i> (Msb, * TA:) or <i>sank, and became concealed, in the ground</i> or <i>earth:</i> (S, Msb, * TA:) and so سَاخَتْ, aor. تَسِيخُ, (S, Msb, TA,) inf. n. سَيْخٌ (Msb) [and سَيَخَانٌ: see art. سيخ]: and in like manner one says of the feet: (A, TA:) like ثَاخَتْ. (S, K.) ―         -b2-  And سَاخَ, (L, K,) aor. يَسُوخُ, (L,) <i>It</i> (a thing) <i>sank</i> [in water &amp;amp;c.], or <i>subsided;</i> syn. رَسَبَ. (L, K.) ―         -b3-  And سَاخَتْ بِهِمُ الاَرْضُ, (A, L, Msb, K,) aor. تَسُوخُ, (L, Msb,) inf. n. سَوْخٌ (L, Msb, K) and سُوُوخٌ and سَوَخَانٌ, (L, K,) <i>The ground,</i> or <i>earth, sank with them;</i> or <i>sank with them and swallowed them up</i> or <i>enclosed them;</i> syn. اِنْخَسَفَتْ, (L, K,) or خَسَفَتْ: and so سَاخَتْ, aor. تَسِيخُ, inf. n. سَيْخٌ. (Msb.)    </entryFree> <br>\
+<b>اساخهُ</b>               1     <br>\
+                     اساخهُ<br>\
+                     ذ<br>\
+                  <i>He</i> (God) <i>made him,</i> or <i>it, to sink into,</i> or <i>to sink and become concealed in, the ground</i> or <i>earth.</i> (Msb.)    </entryFree> <br>\
+<b>تسوّخ</b>               1     <br>\
+                     تسوّخ<br>\
+                     ذ<br>\
+                  <i>He fell into a place rendered very slimy by rain;</i> (L, K;) or <i>into mud rendered very watery by rain;</i> as also تزوّخ. (L.)    </entryFree> <br>\
+<b>صَارَتِ الاَرْضُ سُوَاخًا</b>               1     <br>\
+                     صَارَتِ الاَرْضُ سُوَاخًا<br>\
+                     ذ<br>\
+                   (L, K) and ↓ <br>\
+      سُوَّاخًا (L) and ↓ <br>\
+      سُوَّاخَى, (L, K,) or ↓ <br>\
+      سَوَاخَى, of the measure فَعَالَى, (S,) said in the K to be a mistake, but the S is not the only lexicon in which it is thus written, (TA,) <i>The earth became very slimy by reason of rain.</i> (S, L, K.)    </entryFree> <br>\
+<b>سَوَاخَى</b>               1     <br>\
+                     سَوَاخَى<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>فِيهِ سَوَاخِيَةٌ</b>               1     <br>\
+                     فِيهِ سَوَاخِيَةٌ<br>\
+                     ذ<br>\
+                  <i>In it is much mud.</i> (K.)    </entryFree> <br>\
+<b>صَارَتِ الاَرْضُ سُوَّاخًا</b>               1     <br>\
+                     صَارَتِ الاَرْضُ سُوَّاخًا<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  سُوَاخًا, q. v. (L.)    </entryFree> <br>\
+<b>سُوَّاخَى</b>               1     <br>\
+                     سُوَّاخَى<br>\
+                     ذ<br>\
+                  <i>Mud rendered very watery by rain.</i> (L.) See صَارَتِ الاَرْضُ سُوَاخًا, above. ―         -b2-  Also, and ↓ <br>\
+      مَسْوَخَةٌ, <i>Tumid earth that breaks in pieces when trodden upon.</i> (L voce رَخَّا=ءُ.) ―         -b3-  بَطْحَا=ءُ <br>\
+                  سُوَّاخَى [<i>A wide water-course,</i> or <i>channel of a torrent, containing fine,</i> or <i>minute,</i> or <i>broken, pebbles,</i> &amp;amp;c.,] <i>into which the feet sink,</i> or <i>in which the feet sink and become concealed.</i> (L.)    </entryFree> <br>\
+<b>سُوَيْوِخَةٌ</b>               1     <br>\
+                     سُوَيْوِخَةٌ<br>\
+                     ذ<br>\
+                   dim. of سُوَّاخَى. (L, K.)    </entryFree> <br>\
+<b>مَسْوَخَةٌ</b>               1     <br>\
+                     مَسْوَخَةٌ<br>\
+                     ذ<br>\
+                  : see سُوَّاخَى.   </entryFree> <br>\
+' } );

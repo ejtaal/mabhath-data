@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<div1 part=&quot;N&quot; n=&quot;و&quot;         1 org=&quot;uniform&quot; sample=&quot;complete&quot; type=&quot;alphabetical letter&quot;               TEIform=&quot;div1&quot;> <br>\
+            <head lang=&quot;ar&quot; TEIform=&quot;head&quot;>w</head>   <br>\
+<div2 type=&quot;root&quot; part=&quot;N&quot; n=&quot;و&quot; org=&quot;uniform&quot;            1 sample=&quot;complete&quot; TEIform=&quot;div2&quot;>      <br>\
+<b>و</b>               1          <br>\
+                     <i>alphabetical letter</i>       <br>\
+                     و<br>\
+                     ذ<br>\
+<b>وَ</b>               1     <br>\
+                     وَ<br>\
+                     ذ<br>\
+                  : you say, سَارَ زَيْدٌ وَعْمْرٌو, using و as a conjunction; rather than وَعَمْرًا: and سِرْتُ وَزَيْدًا, using و as [a prep.] denoting concomitance; rather than وَزَيْدٌ. (I&#39;Ak, p. 161.) ―         -b2-  مَا اُمِّى وَاُمُّهُ; and مَا اَنَا وَطَلَبُ الوَحْشِ: see اُمٌّ: and see another ex. in a verse cited voce حَلِمَ. In the Kur, ii. 121 some read وَاـِسْمٰعِيلُ; and others واـِسْمٰعِيلَ. In مَا لَكَ وَزَيْدًا, the و denotes concomitance; <i>What hast thou in common,</i> or <i>to do, with Zeyd?</i> or it is for مَا لَكَ وَِلزَيٍْد. ―         -b3-  وَ in وهُوَ لَكَ: see حَمْدٌ. ―         -b4-  الوَاوُ لِمُطْلَقِ الجَمْعِ [<i>The</i> <br>\
+                  و <br>\
+                  <i>denoting unrestricted conjunction,</i> not necessarily implying simultaneousness nor relative order]. (I&#39;Ak, p. 254.)    </entryFree> <br>\
+<b>وَا</b>               1     <br>\
+                     وَا<br>\
+                     ذ<br>\
+                   generally means <i>Alas!</i> see وَا حَرَبَا, and the last verse voce حَتَّى. ―         -b2-  وَا زَيْدَاهَ <br>\
+                  <i>Alas, Zeyd!</i> ―         -b3-  وَا دَفْرَاهْ, and وَانِتْنَاهْ, <i>Alas, stench!</i> meaning <i>Alas, what an abominable thing!</i> See دَفْرٌ; and اَبٌ.   </entryFree> <br>\
+' } );

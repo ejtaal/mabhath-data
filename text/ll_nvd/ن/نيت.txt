@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'نيت1<br>\
+نَاتَ, aor. يَنِيتُ, inf. n. نَيْتٌ; as also نَاتَ,<br>\
+aor. يَنُوتُ, inf. n. نَوْتٌ; (L, K;) He (a man)<br>\
+moved from side to side in walking (L, art<br>\
+نوت:) or he so moved by reason of weakness,<br>\
+or infirmity: (K:) or, by reason of drowsiness.<br>\
+(L, art. نوت, q. v.)<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وغل</em>            1                  وغل<br>\
+<b>اَوْغَلْتُهَا</b>               1     <br>\
+                     اَوْغَلْتُهَا<br>\
+                     ذ<br>\
+                  , for اَوْغَلْتُ فِيهَا: see a verse cited voce غَمٌّ.    </entryFree> <br>\
+<b>وَاغِلٌ</b>               1     <br>\
+                     وَاغِلٌ<br>\
+                     ذ<br>\
+                  : see وَارِشٌ, and شَطَنَ, and طَفَا.   </entryFree> <br>\
+' } );

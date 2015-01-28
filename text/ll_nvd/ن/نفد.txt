@@ -1,0 +1,76 @@
+load_data( { book: 'll_nvd', text: 'نفد1<br>\
+نَفِدَ, aor.<br>\
+نَفَدَ, inf. n. نَفَادٌ (S, A, L, Msb, K)<br>\
+and نَفَدٌ, (L, K,) It (a thing, S, &amp;c.) passed<br>\
+away and came to an end; became spent, exhausted, or consumed; failed entirely; ceased;<br>\
+syn. فَنِى (S, A, L, Msb, K) and ذَهَبَ (S, L,<br>\
+K) and اِنْقَطَعَ. (L, Msb.)<br>\
+4<br>\
+انقدهُ (S, A, L, Msb, K) and ↓ استنفدهُ<br>\
+(A, L, K) and ↓ انتفده (K) He caused it to pass<br>\
+away or come to an end; spent, exhausted, or<br>\
+consumed, it; caused it to fail entirely; caused<br>\
+it to cease; made an end of it. (S, A, L, Msb,<br>\
+K.) ―<br>\
+-b2-  انفدوا مَا عِنْدَهُمْ, and ↓ استنفدوهُ, They<br>\
+spent, exhausted, or consumed, what they had.<br>\
+(A, L.) ―<br>\
+-b3-  وُسْعَهُ ↓ استنفد He spent, exhausted,<br>\
+or exerted, to the utmost his ability or power<br>\
+(S, L, Msb.) ―<br>\
+-b4-  انفد الَقْوُم The people came to<br>\
+that state that their travelling-provisions were<br>\
+exhausted, or had come to an end: (S, A, L, K:)<br>\
+or, (in the K, and,) their property had passed<br>\
+away and come to an end. (S, L, K.) ―<br>\
+-b5-<br>\
+انفدت الرَّكِيَّةُ The well lost its water. (L, K.)<br>\
+3<br>\
+نافدهُ, (inf. n. مُنَافَدَةٌ, L,) [He exerted his<br>\
+whole power, or ability, in contention, dispute, or<br>\
+litigation, with him: see مُنَافِدٌ:] he contended<br>\
+with him in arguments, pleas, or allegations, so<br>\
+as to put an end to his argument, and overcome<br>\
+him: (L:) or he contended with him before a<br>\
+judge; (IAth, L, K;) contended, disputed, or<br>\
+litigated with him. (K.) It is said in a trad.,<br>\
+إِنْ نَافَدْتَهُمْ نَافَدُوك (S, L) If thou contend with<br>\
+them before a judge, they will so contend with<br>\
+thee: or if thou allege to them, they will allege<br>\
+to thee: (IAth, L;) but accord. to one relation,<br>\
+the verb is with ق (S, L.) and accord. to<br>\
+another, the latter verb is with ذ, نافذوك. (L.)<br>\
+6<br>\
+تنافدوا They contended, disputed, or litigated, together. (A.) See 3, and see also تنافذوا,<br>\
+with ذ.]<br>\
+8<br>\
+انتفدهُ: see 4, ―<br>\
+-b2-  He exacted, took, or<br>\
+received, it fully, or wholly (K) ―<br>\
+-b3-  انتفد مِنْ<br>\
+عَدْوِهِ He exacted the full, or utmost, rate of<br>\
+his running. Said with reference to a horse.<br>\
+(M, L.) ―<br>\
+-b4-  انتفد اللَّبَنَ He drew forth the<br>\
+milk. (K.)<br>\
+10<br>\
+إِسْتَنْفَدَ see 4.<br>\
+مُنَافِدٌ A man who exerts his whole power, or<br>\
+ability, in contention, dispute, or litigation, (S,<br>\
+L,) and who does so well, so as to put an end to<br>\
+the arguments, pleas, or allegations, of his adversary, and overcome him: (L:) who contends<br>\
+with his adversary in arguments, pleas, or allegations, so as to put an end to his argument.<br>\
+(A, L.) One says, لَيْشَ لَهُ رَافِدٌ وَلَا مُنَافِدٌ He<br>\
+has not an aider, or assistant, nor one who contends &amp;c. (A, TA.)<br>\
+فِيهِ مُنْتَفَدٌ عَنْ غَيْرِهِ In him is that which<br>\
+renders thee in no need of any other. (Aboo-Sa&#39;eed, T, L, K. *) ―<br>\
+-b2-  إِنَّ فِى مَالِهِ لَمُنْتَفَدٌ Verily<br>\
+in his wealth is ample provision. (AZ, T, L, K *)<br>\
+―<br>\
+-b3-  تَجَدُ فِى البِلَادِ مُنْتَفَدًا (in the TK مُتَنَفَّدًا)<br>\
+Thou wilt find in the countries, or towns, a place<br>\
+to which to flee and in which to seek gain; syn.<br>\
+مُرَاغَمًا وَمُضْطَرَبًا (K.) See also مُنْتَفَذٌ.<br>\
+قَعَدَ مُنْتَفِدًا He set aside, or apart. (IAar.<br>\
+L, K.)<br>\
+' } );

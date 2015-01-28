@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'جوهرجَوْهَرٌ: see art. جهر.<br>\
+جَوْهَرِىٌّ: see art. جهر.<br>\
+' } );

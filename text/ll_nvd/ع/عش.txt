@@ -1,0 +1,72 @@
+load_data( { book: 'll_nvd', text: 'عش1<br>\
+عَشَّ, (TK,) inf. n. عَشٌّ, (K,) He (a bird)<br>\
+kept to his عُشّ [or nest in a tree]. (K, TK.)<br>\
+2<br>\
+عشّش, inf. n. تَعْشِيشٌ, He (a bird) made for<br>\
+himself a nest in a tree; (S, O, K;) as also ↓ اعتشّ,<br>\
+(A, K,) or اعتشّ عُشَّهُ, (O,) inf. n. اِعْتِشَاشٌ. (TA.)<br>\
+―<br>\
+-b2-  It is said in a trad., (A, K,) in the story of<br>\
+Umm-Zara, (O, TA,) لَا تَمْلَأُ بَيْتَنَا تَعْشِيشًا, meaning<br>\
+She will not be unfaithful with respect to our food,<br>\
+or wheat, by hiding somewhat in every corner, (A,<br>\
+O, K,) like birds that make their nests in sundry<br>\
+place, (O,) so that it becomes like the nest of the<br>\
+bird in a tree, (A, O,) or so that it becomes like<br>\
+the place where the birds make their nests in a tree.<br>\
+(K.) [See another reading in the first paragraph<br>\
+of art. غش.] ―<br>\
+-b3-  You say also, of a person greatly<br>\
+erring, and obstinately persevering in evil, عشّش<br>\
+الشَّيْطَانُ فِى قَلْبِهِ (assumed tropical:)  [The devil hath made a nest in<br>\
+his heart]. (TA in art. فحص.)<br>\
+-A2-  عشّش الخُبْزُ<br>\
+The bread became mouldy, or spoiled and overspread with greenness, (S, A, O, K,) and dried<br>\
+up. (S.)<br>\
+-A3-  عشّش الخُبْزَ He left the bread until<br>\
+it became mouldy, or spoiled and overspread with<br>\
+greenness [and dried up]. (A.)<br>\
+8<br>\
+إِعْتَشَ3َ see the next preceding paragraph.<br>\
+عَشٌّ: see the paragraph here following.<br>\
+عُشٌّ The nest of a bird, formed of what it collects together, (S, A, Mgh, O, Msb, K,) of slender<br>\
+pieces of sticks, (S, A, O, K,) &amp;c., (S, O,) or of<br>\
+fragments of sticks, (Mgh, Msb,) in which it lays<br>\
+its eggs, (Mgh,) in a tree, (S, A, Mgh, O, Msb,<br>\
+K,) in the branches thereof; (S, A, O, K;) as<br>\
+also ↓ عَشٌّ: (A, K:) but if in a mountain, (S, O,<br>\
+Msb,) or a building, (Msb,) or a wall or the like,<br>\
+(S, O,) it is called وَكْرٌ, and وَكْنٌ; and if in the<br>\
+ground, أُفْحُوصٌ, (S, O, Msb,) and أُدْحِىٌّ: (S, O:)<br>\
+or the nest of a raven or other bird, upon a tree,<br>\
+when it is dense, or compact, and large: (Lth, T:)<br>\
+pl. [of pauc.] أَعْشَاشٌ (S, Msb) and [of mult.]<br>\
+عِشَاشٌ and عِشَشَةٌ (S, Mgh, Msb) and عُشُوشٌ.<br>\
+(TA.) [See also عُشْعُشٌ.] It is said in a prov.,<br>\
+quoted in a خُطْبَة of El-Hajjáj, (O, TA,) لَيْسَ هٰذَا<br>\
+بِعُشِّكِ فَادْرُجِى [(assumed tropical:)  This is not thy nest, or] thou hast<br>\
+no right in this; therefore go thy way: (A, O,<br>\
+K: *) addressed to him who alights in a place of<br>\
+abode not befitting him: (A, TA:) or to him<br>\
+who raises himself above his rank: and to him<br>\
+who applies himself to a thing not of his business<br>\
+to do: and to him who is at case in an improper<br>\
+time; wherefore he is thus ordered to be diligent<br>\
+and in motion. (TA.) And in another prov.,<br>\
+(TA,) تَلَمَّسْ أَعْشَاشَكَ (assumed tropical:)  Seek thou, or seek thou<br>\
+repeatedly, after pretexts, and [causes for] false<br>\
+accusation, in thy family (O, L, K, TA) and<br>\
+those belonging to thee: (TA:) [not in others:<br>\
+(see Freytag&#39;s Arab. Prov., i. 235:)] nearly like<br>\
+the former proverb. (TA.) [In the CK, تَلَمَّسَ<br>\
+is erroneously put for تَلَمَّسْ.]<br>\
+عُشَيْشَةٌ and عُشَيْشِيَةٌ: see art. عشو<br>\
+عُشَيْشَانٌ and عُشَيْشِيَانٌ: see art. عشو.<br>\
+عُشْعُشٌ, (IAar, S,) or عَشْعَشٌ, as written by Sgh,<br>\
+(TA,) or both, (O, K,) A nest such as is called<br>\
+عُشّ, when heaped up, one part upon another.<br>\
+(IAar, S, O, K.)<br>\
+مَوْضِعُ كَذَا مُعَشَّشُ الطُّيُورِ [Such a place is the<br>\
+place where the birds make their nests in the<br>\
+branches of trees]. (S, O, K. *)<br>\
+' } );

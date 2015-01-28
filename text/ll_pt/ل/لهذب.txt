@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>لهذب</em>            1                  لهذب<br>\
+<b>اَلْزَمَهُ لَهْذَبًا وَاحِدًا</b>               1     <br>\
+                     اَلْزَمَهُ لَهْذَبًا وَاحِدًا<br>\
+                     ذ<br>\
+                  , i. e. لِزَازًا وَلِزَامًا; in the CK, لَزَازًا; (Kr, K;) [app. meaning <i>He made him to adhere with one adhesion</i>].   </entryFree> <br>\
+            <div2 n=&quot;lhz lhs lhT lhE lhf lhq&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot;<br>\
+                  part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لهز لهس لهط لهع لهف لهق<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

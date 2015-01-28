@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>عتك</em>            1                  عتك<br>\
+<b>عَتَكَ بِهِ الطِّيبُ</b>               1     <br>\
+                     عَتَكَ بِهِ الطِّيبُ<br>\
+                     ذ<br>\
+                  , (S, O,) aor.      <br>\
+                     عَتِكَ<br>\
+                  , inf. n. عَتْكٌ, (O,) <i>The perfume stuck to him,</i> or <i>it.</i> (S, O.) ―         -b2-  And عَتَكَ البَوْلُ عَلَى فَخِذِ النَّاقَةِ <br>\
+                  <i>The urine dried upon the thigh of the she-camel:</i> (S, O, K:) but as some relate a verse cited as an ex. of the verb in this sense, it is عَبَكَ. (O.) ―         -b3-  And عَتَكَ بِهِ, inf. n. as above, <i>He,</i> or <i>it, clave to him,</i> or <i>it.</i> (TA.) ―         -b4-  عَتَكَتْ بِالطِّيبِ <br>\
+                  <i>She</i> (a woman) <i>daubed,</i> or <i>smeared, herself with perfume.</i> (IDrd, O.) ―         -b5-  عَتَكَتِ القَوْسُ, aor.      <br>\
+                     عَتِكَ<br>\
+                  , inf. n. عَتْكٌ and عُتُوكٌ, <i>The bow became red</i> (IDrd, O, K) <i>in its wood</i> (IDrd, O) <i>by reason of oldness.</i> (IDrd, O, K.) ―         -b6-  عَتَكَتْ said of a woman, <i>She was,</i> or <i>became, high,</i> or <i>exalted, in rank, condition,</i> or <i>estimation; high-born,</i> or <i>noble.</i> (Ibn-&#39;Abbád, O, K.)    </entryFree> <br>\
+<b>قَطِيفَةٌ عَتِكَةٌ</b>               1     <br>\
+                     قَطِيفَةٌ عَتِكَةٌ<br>\
+                     ذ<br>\
+                   [<i>A nappy,</i> or <i>villous, cloth</i> or <i>outer garment,</i>] <i>coherent</i> [<i>in its nap</i>], or <i>matted</i> [<i>therein</i>]: and in like manner, نَعْجَةٌ عَتِكَةُ الصُّوفِ [<i>A ewe having the wool coherent,</i> or <i>matted</i>]. (Ibn-&#39;Abbád, O.)    </entryFree> <br>\
+<b>عَاتِكٌ</b>               1     <br>\
+                     عَاتِكٌ<br>\
+                     ذ<br>\
+                  , (K,) or عَاتِكَةٌ, (S,) or both, (IDrd, O,) applied to a bow (قَوْس), <i>Red</i> (IDrd, S, O, K) <i>in its wood</i> (IDrd, O) <i>by reason of oldness:</i> (IDrd, S, O, K:) as also عَاتِقٌ (K in art. عتق) and عَاتِقَةٌ: (S and O and K in that art.:) [or] عَاتِكَةٌ, so applied, signifies <i>of a pure,</i> or <i>clear, yellow colour.</i> (Skr, TA.) اَحْمَرُ عَاتِكٌ signifies <i>Intensely red.</i> (Lh, O, TA.) And عَاتِكٌ, alone, <i>Yellow.</i> (TA. [App. applied therein, in this sense, to a vein or a root (عرق, thus without any vowel-sign)].) And <i>Pure,</i> or <i>unmixed;</i> applied to a colour (K, TA) of any kind, and to a thing of any kind. (TA.) And <i>Clear;</i> applied to [the beverage called] نَبِيذ: (IDrd, O, K, TA:) or, so applied, <i>old;</i> accord. to Lth with ن, but correctly with ت. (TA in art. عنك.) And <i>i. q.</i> <br>\
+                  كَرِيمٌ [as meaning <i>Highly esteemed,</i> or <i>excellent,</i> or the like]; (K, TA;) applied to anything. (TA.) ―         -b2-  عَاتِكَةٌ applied to a woman means <i>Being,</i> or <i>becoming, red</i> (مُحْمَرَّة [in the CK مُخَمَّرَة]) <i>by reason of perfume;</i> (K, TA;) from عَتَكَتِ القَوْسُ [expl. above]: (IKt, TA:) or <i>having a stain of perfume:</i> (TA:) or <i>being,</i> or <i>becoming, yellow from saffron:</i> (R, TA:) or <i>having clearness and redness:</i> or, accord. to Ibn-Saad, <i>lean,</i> or <i>light of flesh; slender and lean;</i> or <i>lean, and lank in the belly:</i> (TA:) or <i>high,</i> or <i>exalted, in rank, condition,</i> or <i>estimation; high-born,</i> or <i>noble:</i> (O, TA:) or, accord. to IAar, from عَتَكَتْ عَلَى بَعْلِهَا, [said of a woman,] meaning نَشَزَتْ; but this is said by Th to be correctly عَنَكَت, the ت being a mistranscription. (TA.)    </entryFree> <br>\
+<b>عَاتِكِىٌّ</b>               1     <br>\
+                     عَاتِكِىٌّ<br>\
+                     ذ<br>\
+                  <i>A certain kind of cloth</i> or <i>garment, red</i> and <i>yellow, brought from Syria:</i> a rel. n. from [a place called] مَشْهَدُ عَاتِكَةَ. (TA.)   </entryFree> <br>\
+' } );

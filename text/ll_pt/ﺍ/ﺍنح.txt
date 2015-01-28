@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انح&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انح<br>\
+&lt;entryFree id=&quot;n1323&quot; key=&quot;اَنَحَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَنَحَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنِحَ<br>\
+                  &lt;/form&gt;, inf. n. اَنْحٌ and اَنِيحٌ and اَنُوحٌ, &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;breathed hard,&lt;/i&gt; or &lt;i&gt;violently, in consequence of heaviness,&lt;/i&gt; or &lt;i&gt;oppression, experienced by him as an effect of disease,&lt;/i&gt; or &lt;i&gt;of being out of breath,&lt;/i&gt; (S, K, TA,) &lt;i&gt;as though he made a reiterated hemming in his throat,&lt;/i&gt; (كَاَنَّهُ يَتَنَحْنَحُ,) &lt;i&gt;and did not speak clearly,&lt;/i&gt; or &lt;i&gt;plainly:&lt;/i&gt; (S, TA:) or &lt;i&gt;he made a reiterated hemming in his throat&lt;/i&gt; (تَنَحْنَحَ), when asked for a thing, &lt;i&gt;by reason of niggardliness:&lt;/i&gt; (L:) or &lt;i&gt;he uttered a long,&lt;/i&gt; or &lt;i&gt;vehement, sigh,&lt;/i&gt; or &lt;i&gt;a kind of groaning sound,&lt;/i&gt; (زَفَرَ,) when asked for a thing. (A.) You say, يَاْنِحُ <br>\
+                  عَلَى مَالِهِ <br>\
+                  &lt;i&gt;He utters a long,&lt;/i&gt; or &lt;i&gt;vehement, sigh,&lt;/i&gt; or &lt;i&gt;a kind of groaning sound, over his property&lt;/i&gt; [from unwillingness to part with it]. (A.) ―         -b2-  It is said in a trad. of Ibn-&#39;Omar, رَاَى رَجُلًا يَاْنِحُ بِبَطْنِهِ, meaning, [it is asserted, though this seems doubtful, &lt;i&gt;He saw a man&lt;/i&gt;] &lt;i&gt;raising,&lt;/i&gt; or &lt;i&gt;lifting, his belly with an effort, oppressed by its weight:&lt;/i&gt; from اُنُوحٌ in the last of the senses assigned to it below. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1324&quot; key=&quot;اُنَّحٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُنَّحٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=نِحٌ, with which it is syn., and of which it is also pl.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1325&quot; key=&quot;اَنُوحٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنُوحٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=نِحٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1326&quot; key=&quot;اُنُوحٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُنُوحٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: [see 1:] it is also explained as signifying &lt;i&gt;A sound like that which is termed&lt;/i&gt; <br>\
+                  زَفِيرٌ, &lt;i&gt;arising from grief,&lt;/i&gt; or &lt;i&gt;anger,&lt;/i&gt; or &lt;i&gt;repletion of the belly,&lt;/i&gt; or &lt;i&gt;jealousy:&lt;/i&gt; (L:) &lt;i&gt;a sound accompanied by a reiterated hemming in the throat&lt;/i&gt; (صَوْتٌ مَعَ تَنَحْنُحٍ): (As:) and &lt;i&gt;a sound that is heard from a man&#39;s inside, with breathing, and a shortness of breath,&lt;/i&gt; or &lt;i&gt;panting for breath, which affects fat men;&lt;/i&gt; as also ↓ <br>\
+      اَنِيحٌ. (L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1327&quot; key=&quot;اَنِيحٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنِيحٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُنُوحٌ. [See also 1.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1328&quot; key=&quot;اَنَّاحٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَّاحٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=نِحٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1329&quot; key=&quot;ا=نِحٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=نِحٌ<br>\
+                     ا=نح<br>\
+                  &lt;/form&gt; act. part. n. of 1; A man &lt;i&gt;breathing hard,&lt;/i&gt; or &lt;i&gt;violently,&lt;/i&gt; &amp;amp;c.: and a man &lt;i&gt;who, when he is asked for a thing, makes a reiterated hemming in his throat&lt;/i&gt; (يَتَنَحْنحُ), &lt;i&gt;by reason of niggardliness;&lt;/i&gt; as &lt;pb n=&quot;113&quot; TEIform=&quot;pb&quot;/&gt; also ↓ <br>\
+      اَنُوحٌ, and ↓ <br>\
+      اُنَّحٌ, (S, K,) and ↓ <br>\
+      اَنَّاحٌ: (Lh:) or ↓ <br>\
+      اَنُوحٌ signifies a man &lt;i&gt;who hangs back from,&lt;/i&gt; or &lt;i&gt;falls short of, doing generous deeds;&lt;/i&gt; as also اَزُوحٌ: (El-Ghanawee and S in art. ازح, and TA in the present art.:) and is also applied to a horse, meaning &lt;i&gt;that runs, and makes a kind of groaning noise;&lt;/i&gt; <br>\
+                  اـِذَا جَرَى فَزَفَرَ: this is the right reading in the K: in some copies اذا جرى قَرْقَرَ [&lt;i&gt;that makes a rumbling sound in his belly when he runs&lt;/i&gt;]: (TA:) the pl. of ا=نِحٌ is اُنَّحٌ. (S, K.) ―         -b2-  ا=نِحَةٌ, applied to a female, signifies &lt;i&gt;Short.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

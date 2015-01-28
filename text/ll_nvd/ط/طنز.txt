@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'طنز1<br>\
+طَنَزَ بِهِ, (S, * A, MA, K,) aor.<br>\
+طَنَزَ, (S, A,<br>\
+TA,) inf. n. طَنْزٌ, (S, * MA, K, *) He mocked at,<br>\
+scoffed at, laughed at, derided, or ridiculed, him.<br>\
+(S, A, MA, K.) [See also طَنْزٌ below.]<br>\
+3<br>\
+طانزهُ, (A, TA,) inf. n. مُطَانَزَةٌ, (TA,) [He<br>\
+mocked at, scoffed at, laughed at, derided, or<br>\
+ridiculed, him, being mocked at, &amp;c., by him.]<br>\
+6<br>\
+تطانزوا [They mocked at, scoffed at, laughed<br>\
+at, derided, or ridiculed, one another]. (A, TA.)<br>\
+طَنْزٌ Mockery, scoff, derision, or ridicule: (S,<br>\
+K:) [J says,] I think it to be post-classical or<br>\
+arabicized. (S.) [Golius says, it is termed in<br>\
+Armenian “ dnâs. ”]<br>\
+-A2-  Also A species of fish.<br>\
+(K.)<br>\
+طَنَّازٌ A mocker, scoffer, or derider. (S, K.)<br>\
+هُمْ مَطْنَزَةٌ They are [such as occasion mockery,<br>\
+scoff, derision, or ridicule; or] persons in whom<br>\
+is no good; held in light, or mean, estimation [by<br>\
+others or] by themselves. (K.)<br>\
+' } );

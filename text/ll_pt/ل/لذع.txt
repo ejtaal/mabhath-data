@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لذع</em>            1                  لذع<br>\
+<b>لَذَعَ اللِّسَانَ</b>               1     <br>\
+                     لَذَعَ اللِّسَانَ<br>\
+                     ذ<br>\
+                   [<i>It burned the tongue; was acrid</i>]. (S, Msb, art. حرف; &amp;amp;c.)    </entryFree> <br>\
+<b>لَذْعُ البَرْدِ</b>               1     <br>\
+                     لَذْعُ البَرْدِ<br>\
+                     ذ<br>\
+                   [<i>The hurting,</i> or <i>paining, of cold</i>]. (S, O, K, voce شَفِيفٌ.)   </entryFree> <br>\
+' } );

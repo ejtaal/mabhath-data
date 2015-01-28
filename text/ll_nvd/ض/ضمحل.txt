@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'ضمحلQ. 4<br>\
+إِضْمَحَلَّ accord. to some, but Q. Q. accord. to<br>\
+most. اِضْمَحَلَّ: see art. ضحل.<br>\
+' } );

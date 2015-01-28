@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>دير</em>            1                  دير<br>\
+<b>تديّر</b>               1     <br>\
+                     تديّر<br>\
+                     ادار<br>\
+                     تدير<br>\
+                  : see art. دور.    </entryFree> <br>\
+<b>دَيْرٌ</b>               1     <br>\
+                     دَيْرٌ<br>\
+                     دير<br>\
+                  : see art. دور.    </entryFree> <br>\
+<b>دَيْرَانِىٌّ</b>               1     <br>\
+                     دَيْرَانِىٌّ<br>\
+                     ديرانى<br>\
+                     ديراني<br>\
+                  : see art. دور.    </entryFree> <br>\
+<b>دَيِّرٌ</b>               1     <br>\
+                     دَيِّرٌ<br>\
+                     دير<br>\
+                  : see art. دور.    </entryFree> <br>\
+<b>دَيِّرَةٌ</b>               1     <br>\
+                     دَيِّرَةٌ<br>\
+                     دار<br>\
+                     دير<br>\
+                     ديره<br>\
+                     ديرة<br>\
+                  : see art. دور.    </entryFree> <br>\
+<b>دَيَّارٌ</b>               1     <br>\
+                     دَيَّارٌ<br>\
+                     دار<br>\
+                     ديار<br>\
+                  : see art. دور.    </entryFree> <br>\
+<b>دَيُّورٌ</b>               1     <br>\
+                     دَيُّورٌ<br>\
+                     ديور<br>\
+                  : see art. دور.   </entryFree> <br>\
+' } );

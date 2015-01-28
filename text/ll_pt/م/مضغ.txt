@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مضغ</em>            1                  مضغ<br>\
+<b>مُضْغَةٌ</b>               1     <br>\
+                     مُضْغَةٌ<br>\
+                     ذ<br>\
+                  <i>A piece,</i> or <i>bit, of flesh</i> (T, S, K), &amp;amp;c.: (T, K:) or <i>a morsel,</i> or <i>gobbet, of flesh,</i> i. e. <i>a piece of flesh such as a man puts into his mouth:</i> (Khálid Ibn-Jembeh, TA:) or <i>as much as is chewed</i> [<i>at once</i>]: (Msb:) and <i>such as the heart, and the tongue, of a man:</i> (TA:) and <i>a fœtus when it has become like a lump of flesh:</i> see Kur. xxii. 5; and see خَلِيقٌ.   </entryFree> <br>\
+' } );

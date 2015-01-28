@@ -1,0 +1,31 @@
+load_data( { book: 'll_nvd', text: 'مرق8<br>\
+اِمْتَرَقَ<br>\
+He drew a sword from its scabbard.<br>\
+(TA, voce اِهْتَلَبَ; and voce اِعْتَقَّ.)<br>\
+مَرْقُ الإِهَابِ<br>\
+The burying of the skin, or hide,<br>\
+in the earth, so that its hair may be removed, and<br>\
+it may become ready for tanning. (K, * TA in<br>\
+art. افق.) See also فَلَقَ.<br>\
+مَرَقٌ<br>\
+in grapes: see سُكَّرٌ. ―<br>\
+-b2-  مَرَقٌ<br>\
+Broth;<br>\
+gravy-soup; and any decoction.<br>\
+سَهْمٌ مَارِقٌ<br>\
+An arrow of which the whole has<br>\
+passed through the animal at which it is shot.<br>\
+(A, art. مرد.) See صَارِدٌ, and مُغْتَلِمُ.<br>\
+مُرِّيقٌ<br>\
+: see دُرِّىْءٌ. ―<br>\
+-b2-  مُرَّيْق in the K is a<br>\
+mistake for مُرِّيق. (TA.) See also عُِلِّيَّهٌ, in<br>\
+art. علو, in which مُرِّيقَةٌ is mentioned as the<br>\
+n. un.<br>\
+مَمْرَقٌ<br>\
+A kind of small lantern in the roof of<br>\
+a chamber, for the admission of air, generally<br>\
+octagonal, the sides of wooden lattice-work, and<br>\
+the top a cupola; a sky-light; any kind of<br>\
+window or aperture in a roof.<br>\
+' } );

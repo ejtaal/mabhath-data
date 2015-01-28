@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'دوج1<br>\
+دَاجَ, (IAar, K,) aor. يَدُوجُ, (IAar,) inf. n.<br>\
+دَوْجٌ, He (a man, IAar) served, or did service.<br>\
+(IAar, K.)<br>\
+دَاجَةٌ. [as pl. of دَائِجٌ, agreeably with analogy,]<br>\
+The followers of an army. (K.)<br>\
+-A2-  Also A small<br>\
+want: (K:) or a want [absolutely]; i. q. حَاجَةٌ,<br>\
+as some say: (TA:) or it is an imitative sequent<br>\
+to حَاجَةٌ. (K, and S in art. دج. [See دَاجٌّ in<br>\
+that art.]) It is said in a trad., مَا تَرَكْتُ مِنْ<br>\
+حَاجَةٍ وَ لَا دَاجَةٍ [I left not a want nor a small<br>\
+want: or a want of any kind: or] this means<br>\
+I left not any act of disobedience to which I was<br>\
+enticed. (TA voce حَاجَةٌ.)<br>\
+' } );

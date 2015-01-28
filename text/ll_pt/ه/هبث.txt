@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>هبث</em>            1                  هبث<br>\
+<b>هبث مَالَهُ</b>               1     <br>\
+                     هبث مَالَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     هَبُثَ<br>\
+                  , inf. n. هَبْثٌ, <i>He scattered,</i> or <i>squandered, his property.</i> (L.)    </entryFree> <br>\
+<b>هَنْبَثَ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     هَنْبَثَ<br>\
+                     ذ<br>\
+                  : see هَنْبَثَةٌ.    </entryFree> <br>\
+<b>هَنْبَثَةٌ</b>               1     <br>\
+                     هَنْبَثَةٌ<br>\
+                     ذ<br>\
+                  <i>A severe, difficult,</i> or <i>afflictive, affair:</i> (S, K:) pl. هَنَابِثُ: the ن is an augmentative letter. (TA.) The pl. also signifies <i>calamities:</i> and <i>confused affairs and news.</i> (TA.) ―         -b2-  Also, <i>Confusion in speech,</i> or, <i>in what is said:</i> (S, K:) [probably an inf. n, of which the verb is هَنْبَثَ].   </entryFree> <br>\
+' } );

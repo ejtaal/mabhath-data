@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>است</em>            1                  است<br>\
+<b>اِسْتٌ</b>               1     <br>\
+                     اِسْتٌ<br>\
+                     اسا<br>\
+                     اسى<br>\
+                     است<br>\
+                     است<br>\
+                     ٱست<br>\
+                     آسى<br>\
+                     آست<br>\
+                  , signifying The <i>podex,</i> or the <i>anus,</i> (K,) or signifying the former, and sometimes used as meaning the latter, (S in art. سته,) is with a conjunctive hemzeh, [written اْسْتٌ, when not immediately preceded by a quiescence,] and its final radical letter is clided; for the original form is سَتَهٌ; (Msb;) and it is mentioned in art. سته. (K.) [It is of the fem. gender.] It is said in a prov., applied to him who fails of attaining the object that he seeks, اَخْطَاَتِ اْسْتُهُ الحُفْرَةَ [<i>His anus missed the hole in the ground</i>]. (Meyd.) — [Hence,] اِسْتُ الدَّهْرِ (tropical:)  <i>The first,</i> or <i>beginning, of time;</i> (A;) <i>old,</i> or <i>ancient, time.</i> (IB, A, * K. *) One says, مَا زَالَ عَلَى اْسْتِ الدَّهْرِ مَجْنُونًا (tropical:)  [<i>He ceased not,</i> or <i>has not ceased, from the beginning of time,</i> or <i>from old time, to be insane,</i> or <i>mad;</i> or] <i>he always was,</i> or <i>always has been, known as being insane,</i> or <i>mad:</i> like as one says, عَلَى اـِسِّ <br>\
+                  الدَّهْرِ. (AZ, S.) And Aboo-Nukheyleh says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        مَا زَالَ مُذْ كَانَ عَلَى اْ سْتِ الدَّهْرِ<br>\
+                     <L><br>\
+                        ذَا حُمُقٍ يَنْمِى وَعَقْلٍ يَحْرشى<br>\
+                  </quote> (tropical:)  [<i>He ceased not,</i> or <i>has not ceased, to be, since he was in the beginning of time,</i> or <i>in old time,</i> i. e., <i>from the first of his existence, a person of increasing foolishness, and of decreasing intellect</i>]. (AZ, S.) IB says, J has erred in mentioning است in this section [of the S]; its proper place being in art. سته, where he has also mentioned it; for its hemzeh is conjunctive, by common consent; and if conjunctive, it is augmentative: also, his saying that they have changed the [final] س in اـِسٌّ into ت, like as they have changed the [final] س of طَسٌّ into ت, making this word طَسْتٌ, is a mistake; for, were it so, the hemzeh of است would be disjunctive [in every case; whereas it is always conjunctive except after a pause, when it is pronounced with kesr]: moreover, he has attributed this assertion to AZ, who never made it, but only mentioned است الدهر with اسّ الدهر because of their agreement in meaning. (TA.) ―         -b2-  [Hence also,] اِسْتُ الكَلْبَةِ (assumed tropical:)  <i>Calamity,</i> or <i>misfortune:</i> (K:) <i>adversity; difficulty; distress; affliction:</i> (TA:) <i>what is hated, disliked, disapproved, foul, abominable,</i> or <i>evil.</i> (K.) ―         -b3-  And اِسْتُ المَتْنِ (assumed tropical:)  <i>The desert:</i> (K:) or <i>the wide desert.</i> (TA.) ―         -b4-  See also art. سته.    </entryFree> <br>\
+<b>اُسْتِىٌّ</b>               1     <br>\
+                     اُسْتِىٌّ<br>\
+                     ذ<br>\
+                   The <i>warp</i> of cloth; (K;) as also اُسْدِىٌّ and اُزْدِىٌّ: (TA:) but it is improperly mentioned in this art.; for it is [originally اُسْتُوىٌ,] of the measure اُفْعُولٌ. (K.)    </entryFree> <br>\
+<b>اِسْتِىٌّ</b>               1     <br>\
+                     اِسْتِىٌّ<br>\
+                     استى<br>\
+                     استي<br>\
+                     ٱست<br>\
+                     ٱستي<br>\
+                     ٱستيي<br>\
+                  <i>Of,</i> or <i>relating to, the</i> <br>\
+                  اِسْت. (TA in art. سته.)   </entryFree> <br>\
+' } );

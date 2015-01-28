@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'عرطبعَرْطَبَةٌ The lute: (S, O, * K: *) or the [kind of<br>\
+mandoline called] طُنْبُور: (O, K:) or the [Persian<br>\
+lute, called] بَرْبَط: (O:) or the drum: (S, K:) or<br>\
+the drum that is contracted in the middle: (O:)<br>\
+or the Abyssinian drum: (K:) also pronounced<br>\
+with damm [i. e. عُرْطُبَةٌ] (K, TA) in the first<br>\
+two senses. (TA.)<br>\
+' } );

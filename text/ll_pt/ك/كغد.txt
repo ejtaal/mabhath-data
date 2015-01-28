@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>كغد</em>            1                  كغد<br>\
+<b>كَاغَدٌ</b>               1     <br>\
+                     كَاغَدٌ<br>\
+                     ذ<br>\
+                  , (Msb, K,) and كَاغِدٌ, (L, TA,) <i>Paper;</i> syn. قِرْطَاسٌ [which seems to be properly <i>paper made of the papyrus</i>]: (K:) a Persian word, (L,) arabicized. (L, K.) The د is sometimes changed into ذ, (Msb, TA,) and into ط. (TA.)    </entryFree> <br>\
+<b>كَاغَِدِىٌّ</b>               1[     <br>\
+                     كَاغَِدِىٌّ<br>\
+                     ذ<br>\
+                  <i>A maker,</i> or <i>seller, of paper.</i>]   </entryFree> <br>\
+' } );

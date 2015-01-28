@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سرند</em>            1                  سرند<br>\
+<b>اِسْرَنْدَاهُ</b>               1     <br>\
+                     اِسْرَنْدَاهُ<br>\
+                     ذ<br>\
+                  : and سَرَنْدًى: and مُسْرَنْدٍ: see art. سرد.   </entryFree> <br>\
+' } );

@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>غمط</em>            1                  غمط<br>\
+<b>غَمِطَ</b>               1     <br>\
+                     غَمِطَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     غَمَطَ<br>\
+                  ; and غَمَطَ, aor.      <br>\
+                     غَمِطَ<br>\
+                  ; inf. n. غَمْطٌ, (S, K,) of both; (S;) <i>He despised</i> men; <i>held</i> them <i>in contempt;</i> (S, K;) <i>accounted</i> them <i>little,</i> or <i>vile.</i> (TA.) It is said in a trad., اـِنَّمَا ذٰلِكَ <br>\
+                  مَنْ سَفِهَ الحَقَّ وَغَمَِطَ النَّاسَ <br>\
+                  <i>That</i> (S, TA,) meaning transgression, iniquity, or injustice, (TA,) <i>is only</i> (S, TA) the action of (TA) <i>such as regards the truth,</i> or <i>right, as foolishness,</i> or <i>ignorance, and despises men:</i> (S, TA:) Sgh says that accord. to one relation, it is غَمَصَ: and Az relates it thus; الكِبْرُ اَنْ تَسْفَهَ الحَقَّ وَتَغْمِطَ النَّاسَ [<i>Pride is thy regarding the truth,</i> or <i>right, as foolishness,</i> or <i>ignorance, and thy despising men</i>]. (TA.) ―         -b2-  Also the former, (TA,) or both, (K,) <i>He was ungrateful for</i> health, and safety, (K, TA,) and a favour, or benefit, or blessing: (S, * TA:) and both, (S, K,) <i>he held in light estimation, was ungrateful for, and despised,</i> (S, K,) a favour, or benefit, or blessing, (K, TA,) and his life. (S, TA.) ―         -b3-  And the former, <i>He denied,</i> or <i>disacknowledged,</i> a right, or due. (TA.)    </entryFree> <br>\
+<b>اغمط</b>               1     <br>\
+                     اغمط<br>\
+                     ذ<br>\
+                  <i>It continued; it kept,</i> or <i>clave;</i> (K;) like اغبط. (TA.) Hence, (TA,) اَغْمَطَتْ عَلَيْهِ <br>\
+                  الحُمَّى, a dial. var. of اغبطت, q. v. (S, TA.)    </entryFree> <br>\
+<b>اغتمطهُ بَالكَلَامِ</b>               1     <br>\
+                     اغتمطهُ بَالكَلَامِ<br>\
+                     ذ<br>\
+                  <i>He treated him contemptuously with speech:</i> (O:) and (O) <i>he overcame,</i> and <i>subdued, him therewith;</i> (O, L, K;) and so اِغْتَطَّةُ. (O, L.) ―         -b2-  And اغتمطهُ <br>\
+                  <i>He vied,</i> or <i>contended, in running with him, and outstripped him, after he had been outstripped</i> (O, K) <i>by him;</i> mentioned by Ibn-&#39;Abbád; (O;) and so اِغْتَطَّهُ; (TA;) and اَغْمَضَهُ. (Ibn-&#39;Abbád and O in art. غمض.    </entryFree> <br>\
+<b>سَمَا=ءٌ غَمَطَى</b>               1     <br>\
+                     سَمَا=ءٌ غَمَطَى<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  غَبَطَى, q. v. (IDrd, K.)    </entryFree> <br>\
+<b>سَيْرٌ مُغْمَطٌ</b>               1     <br>\
+                     سَيْرٌ مُغْمَطٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مُغْبَطٌ, q. v. (ISh.)   </entryFree> <br>\
+' } );

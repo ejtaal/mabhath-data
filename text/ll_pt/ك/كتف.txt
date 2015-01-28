@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>كتف</em>            1                  كتف<br>\
+<b>كَتِفٌ</b>               1     <br>\
+                     كَتِفٌ<br>\
+                     ذ<br>\
+                   [The <i>shoulder-blade;</i>] <i>a wide bone behind the shoulder-joint.</i> (Mgh.) ―         -b2-  [Hence, The <i>shoulder</i> itself.] See طُرَّةٌ and مُوُرَّبٌ.    </entryFree> <br>\
+<b>كُِتْفاَنٌ</b>               1     <br>\
+                     كُِتْفاَنٌ<br>\
+                     ذ<br>\
+                  , as an epithet applied to the locust, see in TA, voce مُسَيَّحٌ. See also جَرَادٌ.    </entryFree> <br>\
+<b>كِتَافٌ</b>               1     <br>\
+                     كِتَافٌ<br>\
+                     ذ<br>\
+                   of a زَبِيل: see حَتِىٌّ.    </entryFree> <br>\
+<b>كَتِيفَةٌ</b>               1     <br>\
+                     كَتِيفَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  ضَبَّةٌ <br>\
+                  <i>A broad piece of iron.</i> A poet speaks of a wooden vessel of which a fracture is mended with a كتيفة. (S.)   </entryFree> <br>\
+' } );

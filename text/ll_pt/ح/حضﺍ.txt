@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حضا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حضا<br>\
+&lt;entryFree id=&quot;n8300&quot; key=&quot;حَضَاَ النَّارَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     حَضَاَ النَّارَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَضَاَ<br>\
+                  &lt;/form&gt;, (K,) &lt;i&gt;He lighted,&lt;/i&gt; or &lt;i&gt;kindled, the fire;&lt;/i&gt; or &lt;i&gt;made it to burn, burn up, burn brightly&lt;/i&gt; or &lt;i&gt;fiercely, blaze,&lt;/i&gt; or &lt;i&gt;flame:&lt;/i&gt; (S, K:) or &lt;i&gt;he opened it,&lt;/i&gt; (K,) i. e. &lt;i&gt;stirred it,&lt;/i&gt; (TA,) &lt;i&gt;in order that it might blaze,&lt;/i&gt; or &lt;i&gt;flame;&lt;/i&gt; as also ↓ <br>\
+      احتضاها. (K.) It is also without ء. (S. [See art. حضو.])       -A2-  حَضَاَتِ النَّارُ <br>\
+                  &lt;i&gt;The fire became lighted&lt;/i&gt; or &lt;i&gt;kindled;&lt;/i&gt; or &lt;i&gt;it burned, burned up,&lt;/i&gt; &amp;amp;c. (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِحْتَضَاَ<br>\
+                  &lt;/form&gt; see above.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8301&quot; key=&quot;اَبْيَضُ حَضِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبْيَضُ حَضِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) so accord. to the correct copies of the K, but in some copies حَضِىٌّ, (TA,) &lt;i&gt;Very white.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8302&quot; key=&quot;مِحْضَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِحْضَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A stick,&lt;/i&gt; or &lt;i&gt;piece of wood, with which a fire is stirred;&lt;/i&gt; as also مَحْضَا=ءٌ; (S, K;) the latter accord. to those who pronounce the verb without ء. (S.)   &lt;/entryFree&gt; <br>\
+' } );

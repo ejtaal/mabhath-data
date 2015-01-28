@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'ضنو1<br>\
+ضَنَتِ المَرْأَةُ, inf. n. ضَنَآءٌ (S, M, K) and ضَنًا,<br>\
+(M, K,) The woman had many children; (S, M,<br>\
+K;) as also ضَنِيَت: (K:) and so with ء. (S.) ―<br>\
+-b2-<br>\
+And ضَنَا نَصِيبُهُ His share, or portion, became<br>\
+redundant; it increased, or augmented. (Sgh, K.)<br>\
+ضَنْوٌ and ضِنْوٌ Children, or offspring; (AA, S,<br>\
+K;) like ضَنْءٌ and ضِنْءٌ; as also ↓ ضُنًا, accord.<br>\
+to IAar. (TA.)<br>\
+ضُنًا: see what next precedes.<br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قمهد</em>            1                  قمهد<br>\
+<b>اـِقْمَهَدَّ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اـِقْمَهَدَّ<br>\
+                     ذ<br>\
+                  <i>He</i> (a man, L, and a camel, S, L,) <i>raised his head.</i> (S, L, K.) Mentioned by J in art. قمد, q. v.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نوف</em>            1                  نوف<br>\
+<b>مُنِيفٌ</b>               1     <br>\
+                     مُنِيفٌ<br>\
+                     ذ<br>\
+                  <i>High; lofty;</i> applied to a mountain, and a building. (T.) You say also عِزٌّ مُنِيفٌ [<i>High nobility</i>]. (K in art. عيط.)   </entryFree> <br>\
+' } );

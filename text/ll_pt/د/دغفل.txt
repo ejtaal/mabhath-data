@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>دغفل</em>            1                  دغفل<br>\
+<b>دَغْفَلٌ</b>               1     <br>\
+                     دَغْفَلٌ<br>\
+                     دغفل<br>\
+                   The <i>young one of an elephant:</i> (S, K:) or <i>of a wolf.</i> (K.)       -A2-  عَيْشٌ دَغْفَلٌ <br>\
+                  <i>An ample,</i> or <i>easy, and a plentiful, life;</i> (As, S, K;) [as also ↓ <br>\
+      دَغْفَلِىٌّ.] A poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L>↓ <br>\
+      وَفَارَقَ مِنْهَاعِيشَةٌ دَغْفَلِيَّةٌ<br>\
+                     <L><br>\
+                        وَلَمْ تَخْشَ يَوْمًا يَزُولَ سَرِيرُهاَ<br>\
+                  </quote> [<i>And an ample,</i> or <i>a plentiful, state of life, that was hers, passed away: and she feared not one day that her ease,</i> or <i>affluence, would depart</i>]. (S in art. سر.) ―         -b2-  You say also عَامٌ دَغْفَلٌ <br>\
+                  <i>A plentiful,</i> or <i>fruitful, year:</i> so says IAar: and he cites the saying of El-&#39; Ajjáj, <quote TEIform=&quot;quote&quot;><br>\
+                     <L>↓ <br>\
+      وَاـِذْ زَمَانُ النَّاسِ دَغْفَلِىٌّ<br>\
+                  </quote> [<i>And when the time of men,</i> or <i>of the people, is,</i> or <i>was, plentiful,</i> or <i>fruitful</i>]. (S.) ―         -b3-  And رِيشٌ <br>\
+                  دَغْفَلٌ <br>\
+                  <i>Abundant feathers</i> or <i>plumage.</i> (K.)    </entryFree> <br>\
+<b>دَغْفَلِىٌّ</b>               1     <br>\
+                     دَغْفَلِىٌّ<br>\
+                     دغفلى<br>\
+                     دغفلي<br>\
+                  ; and its fem., with ة: see above, in three places.   </entryFree> <br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'ديخ2<br>\
+ديّخ, inf. n. تَدْيِيخٌ: see 2 in art. دوخ, in<br>\
+two places.<br>\
+' } );

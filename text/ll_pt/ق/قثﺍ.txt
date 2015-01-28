@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;قثا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  قثا<br>\
+&lt;entryFree id=&quot;n35178&quot; key=&quot;اقثات الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اقثات الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (AZ, S, O,) or اقثا المَكَانُ, (K,) &lt;i&gt;The land,&lt;/i&gt; or &lt;i&gt;the place, abounded with the&lt;/i&gt; [&lt;i&gt;species of cucumber called&lt;/i&gt;] قِثّا=ء. (AZ, S, O, K.) And اقثا القَوْمُ <br>\
+                  &lt;i&gt;The people had abundance of&lt;/i&gt; <br>\
+                  قثّا=ء. (S, O, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n35179&quot; key=&quot;قِثَّا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قِثَّا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, O, Msb, K) and قُثَّا=ءٌ, (O, Msb, K,) the former of which, with kesr, in the more common, (Msb, TA,) [&lt;i&gt;A certain vegetable,&lt;/i&gt;] &lt;i&gt;well-known:&lt;/i&gt; (K, TA:) [&lt;hi rend=&quot;ital&quot; TEIform=&quot;hi&quot;&gt;a species of cucumber; cucumis sativus        <br>\
+      &lt;orth lang=&quot;gr&quot;&gt;β&lt;/orth&gt; fructu flavo majore:&lt;/hi&gt; (Delile&#39;s Floræ Ægypt. Illustr., no. 928:]) or the [&lt;i&gt;cucumber called&lt;/i&gt;] خِيَار [q. v.]: (S, O, K:) or &lt;i&gt;a general name for the&lt;/i&gt; <br>\
+                  خِيَار, &lt;i&gt;the&lt;/i&gt; <br>\
+                  عَجُور [q. v.], &lt;i&gt;and the&lt;/i&gt; <br>\
+                  فَقُّوس [or فَقُّوص q. v.]: but some apply the name to &lt;i&gt;a species resembling the&lt;/i&gt; <br>\
+                  خيار: (Msb, TA:) and it is said that it is &lt;i&gt;lighter&lt;/i&gt; (اَخَفُّ) &lt;i&gt;than the&lt;/i&gt; <br>\
+                  خيار: also that عَجُور signifies large قِثّا=ء: (TA:) the n. un. is قثّا=ءة. (S, O, Msb.) ―         -b2-  قِثَّا=ءُ الحِمَارِ see voce عَلْقَمٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n35180&quot; key=&quot;مَقْثَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَقْثَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَقْثُوَةٌ, (S, O, K, TA,) or اَرْضٌ مَقْثَاَةٌ and مَقْثُوَةٌ, (Msb,) &lt;i&gt;A place,&lt;/i&gt; or &lt;i&gt;land, of&lt;/i&gt; <br>\
+                  قثّا=ء, (S, Msb, K,) &lt;i&gt;where&lt;/i&gt; <br>\
+                  قثّا=ء <br>\
+                  &lt;i&gt;are sown and grow.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

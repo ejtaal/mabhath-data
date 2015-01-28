@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'خانقاهخَانَقَاهٌ and خَانَقَاهِىٌّ: see art. خنق.<br>\
+' } );

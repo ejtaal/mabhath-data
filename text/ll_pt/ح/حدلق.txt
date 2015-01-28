@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>حدلق</em>            1                  حدلق<br>\
+               </head> For several words mentioned under this head in some of the Lexicons, see art. حدق.   </div2> <br>\
+' } );

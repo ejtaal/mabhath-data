@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'نصلنَصْلٌ<br>\
+The iron head or blade (Mgh, K) of an<br>\
+arrow, (S, Mgh, K,) and of a spear, (S, K,) and<br>\
+of a sword, (S, Mgh, Msb, K,) and of a knife,<br>\
+(S, Msb,) and the like. (Msb.) ―<br>\
+-b2-  نَصْلٌ The spun<br>\
+thread of the spindle: (K:) see سُرْسُورٌ.<br>\
+لِحْيَةٌ نَاصِلٌ<br>\
+A very white beard. (See العَنْقَاءُ<br>\
+المُغْرِبُ, art. غرب.) ―<br>\
+-b2-  مَا بَلِلْتُ مِنْ فُلاَنٍ بِأَفْوَقَ<br>\
+نَاصِلٍ: see بَلَّ and أَفْوَقَ in two places.<br>\
+' } );

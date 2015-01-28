@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'ثجر1<br>\
+ثَجَرَ, aor.<br>\
+ثَجُرَ, He mixed the ثَجِير of dates [i. e.<br>\
+the dregs of pressed dates] with other [dates] in the<br>\
+beverage called نَبِيذ: (S:) or he mixed the dregs<br>\
+of pressed unripe dates with dried dates in making<br>\
+نبيذ: (Mgh:) or ثَجَرَ التَّمْرَ he mixed the dried<br>\
+dates with the dregs of pressed unripe dates. (K.)<br>\
+The doing so is forbidden in a trad. (S, Mgh.)<br>\
+ثَجِيرٌ, an arabicized word, (Msb,) pronounced<br>\
+by the vulgar with ت, (S, Msb,) The dregs of<br>\
+anything that is pressed; (S, A, Mgh, Msb;) as<br>\
+of pressed unripe dates: (K:) or the dregs of<br>\
+pressed unripe dates, which are mixed with dried<br>\
+dates in making the beverage called نَبِيذ: (TA:)<br>\
+or the expressed juice of dates; or the dregs of<br>\
+pressed dates: (As, Msb:) or pressed grapes from<br>\
+which the juice has run, and of which the dregs<br>\
+remain. (Lth, TA.)<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وسط</em>            1                  وسط<br>\
+<b>وَسُوطٌ</b>               1     <br>\
+                     وَسُوطٌ<br>\
+                     ذ<br>\
+                  <i>A middle-sized tent of goats hair:</i> see مِظَلَّةٌ.   </entryFree> <br>\
+' } );

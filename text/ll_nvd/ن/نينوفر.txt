@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نينوفرنَيْنُوفَرٌ, or نَيْنَوْفَرٌ: see art. نيلوفر.<br>\
+-------------------------------------------------<br>\
+ن (Supplement)<br>\
+alphabetical letter<br>\
+' } );

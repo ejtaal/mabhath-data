@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>شلياق</em>            1                  شلياق<br>\
+<b>الشَّلْيَاقُ</b>               1     <br>\
+                     الشَّلْيَاقُ<br>\
+                     ذ<br>\
+                  <i>A certain northern constellation,</i> [namely, <i>Lyra,</i>] <i>consisting of ten stars, the bright star</i> [alpha] <i>of which is called</i> <br>\
+                  النَّسْرُ الوَاقِعُ: <i>the Arabs liken it to a vulture</i> (نَسْر) <i>which has contracted its wings to itself, as though it had alighted upon a thing: the vulgar call</i> [<i>the three chief stars in</i>] <i>it</i> <br>\
+                  الاَثَافِى: <i>and before the bright star is a dim star which the Arabs call</i> <br>\
+                  الاَظْفَار [i. e. <i>the talons</i>]. (Kzw. [Not in any of my Lexicons.])   </entryFree> <br>\
+' } );

@@ -1,0 +1,73 @@
+load_data( { book: 'll_nvd', text: 'رهم1<br>\
+رُهِمَتِ الأَرْضُ The land was rained upon<br>\
+[with such rain as is termed رِهْمَة]. (Z, TA.)<br>\
+4<br>\
+ارهمت السَّمَآءُ, (JK, K,) or السَّحَابَةُ, (S,)<br>\
+The sky, or the cloud, shed the sort of rain, or<br>\
+rains, termed رِهْمة, or رِهَام. (JK, S, K.)<br>\
+رِهْمَةٌ A drizzling and lasting rain; i. e. a<br>\
+lasting, or continuous, rain, consisting of small<br>\
+drops: (JK:) or weak and lasting rain, (S, K,)<br>\
+said by AZ to be such as falls with more force,<br>\
+and passes away more quickly, than that which is<br>\
+termed دِيمَةٌ: (S:) pl. رِهَمٌ and رِهَامٌ: (JK, S, K:)<br>\
+El-Ámidee seems to have held that رِهَامٌ is pl. of<br>\
+رَهَمَةٌ; for he likens these two words to إِكَامٌ and<br>\
+أَكَمَةٌ; but this is at variance with what is held<br>\
+by the leading lexicologists. (TA.) [See an ex.<br>\
+of the pl. رِهَامٌ in a verse of Lebeed cited in the<br>\
+first paragraph of art. رزق.]<br>\
+أَرْضٌ رَهْمَآءُ Land upon which rains such as are<br>\
+termed رِهَام have fallen: (Ham p. 99:) and<br>\
+↓ رَوْضَةٌ مَرْهُومَةٌ, [from رُهِمَت, Meadows] watered<br>\
+by the rain termed رِهْمَةٌ: (JK, S, K:) one should<br>\
+not say مُرْهَمَةٌ. (K.)<br>\
+رَهْمَانُ: see رَهُومٌ.<br>\
+رَهَمَانٌ, in the going of camels, A bearing, and<br>\
+leaning, on one side, or sideways. (JK, * K. [In<br>\
+the former, it is implied that the word is رَهْمَان,<br>\
+which is at variance with an express statement in<br>\
+the K.])<br>\
+رَهَامٌ (assumed tropical:)  A sheep, or goat, [شَاةٌ,] lean, or ema<br>\
+ciated; (JK, K; [in the former written رُهَام, but<br>\
+said in the latter to be like سَحَابٌ;]) and so<br>\
+↓ رَهُومٌ: (TA:) [i. e.] you say also شَاةٌ رَهُومٌ, (JK,<br>\
+K, TA,) meaning (assumed tropical:)  a sheep, or goat, lean, or<br>\
+emaciated: (TA:) from [رَهُومٌ, or perhaps رَهَامٌ,<br>\
+or both, as meaning] clouds (سَحَابٌ) that have<br>\
+discharged their water. (JK.)<br>\
+رُهَامٌ, applied to a bird, That does not prey:<br>\
+(K:) or the bird called غُرْنُوق. (JK.)<br>\
+-A2-  Also A<br>\
+large number. (JK, K.)<br>\
+رَهُومٌ: see رَهَامٌ. ―<br>\
+-b2-  Also (assumed tropical:)  A man weak in seek<br>\
+ing, or searching, [to find what is best to be done;]<br>\
+who follows mere opinion; as also ↓ رَهْمَانُ.<br>\
+(JK, K.)<br>\
+أَرْهَمُ More [and most] fruitful, or plentiful, or<br>\
+abundant in herbage or in the goods or conveniences or comforts of life: [as though meaning<br>\
+more, and most, watered by rain such as is termed<br>\
+رِهْمَة:] so in the saying, نَزَلْنَا بِفُلَانٍ فَكُنَّا فِى أَرْهَمِ<br>\
+جَانِبَيْهِ [We alighted at the dwelling of such a one,<br>\
+and we were in the more fruitful, &amp;c., of the two<br>\
+sides of his place of abode; meaning, and we<br>\
+were entertained by him in the best, or most<br>\
+bountiful, manner]. (S.)<br>\
+مَرْهَمٌ [A place upon which has fallen rain such<br>\
+as is termed رِهْمَةٌ: pl. مَرَاهِمُ: see an ex. in what<br>\
+follows. ―<br>\
+-b2-  Also] A certain application for<br>\
+wounds; (S;) a soft plaster or dressing, (K, TA,)<br>\
+the softest of medicaments, (TA,) [i. e. an unguent,<br>\
+or the like,] with which a wound is plastered,<br>\
+dressed, overspread, or anointed: (K, TA:) [pl.<br>\
+as above:] it is an arabicized word [from the<br>\
+Pers. مَرْهَمْ]: (S:) or derived from الرِّهْمَةُ, [as<br>\
+some say,] because of its softness. (K.) You say,<br>\
+مَرَاهِمُ الغَوَادِى مَرَاهِمُ البَوَادِى [The places watered<br>\
+by the drizzling and lasting rains of the early<br>\
+morning-clouds are the soft plasters, or unguents,<br>\
+of the deserts]. (A, TA.)<br>\
+رَوْضَةٌ مَرْهُومَةٌ: see أَرْضٌ رَهْمَآءُ, above.<br>\
+' } );

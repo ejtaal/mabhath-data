@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>خظى</em>            1                  خظى<br>\
+<b>خَظِىَ لَحْمُهُ</b>               1     <br>\
+                     خَظِىَ لَحْمُهُ<br>\
+                     خظي لحمه<br>\
+                     خظي لحمة<br>\
+                  : see 1 in art. خظو.    </entryFree> <br>\
+                     اَخْظَىَ<br>\
+                   see 4 in art. خظو.    </entryFree> <br>\
+<b>خَظٍ بَظٍ</b>               1     <br>\
+                     خَظٍ بَظٍ<br>\
+                     خظ بظ<br>\
+                  , and خَظِيَةٌ بَظِيَةٌ: see خَاظٍ, in art. خظو.   </entryFree> <br>\
+' } );

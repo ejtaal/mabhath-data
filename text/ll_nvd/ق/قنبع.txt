@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'قنبع1<br>\
+قَنْبَعَ<br>\
+, said of seed-produce or corn: see<br>\
+أَحْنَقَ.<br>\
+قُنْبُعٌ<br>\
+: see رُكْبَانُ السُّنْبُلِ, voce رَاكِبٌ.<br>\
+' } );

@@ -1,0 +1,26 @@
+load_data( { book: 'll_nvd', text: 'لسب1<br>\
+لَسَبَهُ, aor.<br>\
+لَسِبَ, (S, K,) and<br>\
+لَسَبَ, (K,) inf. n.<br>\
+لَسْبٌ, (S,) It (a scorpion, S, or a serpent or<br>\
+other thing, K, as a scorpion, and wasp, but<br>\
+generally said of a scorpion, TA,) stung him, or<br>\
+bit him. (S, K.) ―<br>\
+-b2-  لَسَبَهُ أَسْوَاطًا He flogged him<br>\
+with whips. (S.) لَسَبَهُ بِالسَّوْطِ He flogged him<br>\
+with the whip. (K.) ―<br>\
+-b3-  لَسِبَ, aor.<br>\
+لَسَبَ, (S, K,)<br>\
+inf. n. لَسْبٌ, (S,) He licked honey, (S, K,) or<br>\
+the like, (K,) as clarified butter. (TA.)<br>\
+-A2-<br>\
+لَسِبَ بِهِ, aor.<br>\
+لَسَبَ, It adhered, clave, or stuck, to it,<br>\
+or in it: (S, K:) like لَصِبَ. (S.)<br>\
+لَسْبَةٌ, like لَعْقَةٌ, A single lick of honey or the<br>\
+like. (TA.)<br>\
+مَا تَرَكَ لَسُوبًا, and ↓ لَسُّوبًا, He left not anything:<br>\
+[lit., what might be licked off]. (K.) [See also<br>\
+كَسُوبٌ.]<br>\
+لَسُّوبًا: see لَسُوبًا.<br>\
+' } );

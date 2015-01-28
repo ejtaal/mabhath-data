@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;بابونج&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  بابونج<br>\
+&lt;entryFree id=&quot;n1655&quot; key=&quot;بَابُونَجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَابُونَجٌ<br>\
+                     بابونج<br>\
+                  &lt;/form&gt; [from the Persian بَابُونَهْ <br>\
+                  &lt;i&gt;Chamomile;&lt;/i&gt; or &lt;i&gt;chamomile-flowers:&lt;/i&gt; both called by these names in the present day]: &lt;i&gt;a certain herb, of several different colours; yellow-flowered,&lt;/i&gt; and &lt;i&gt;whiteflowered,&lt;/i&gt; and &lt;i&gt;purple-flowered:&lt;/i&gt; (Avicenna [Ibn-Seenà] i. 139:) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اُقْحُوَانٌ: (S, Msb, K, all in art قحو:) i. e. the اقحوان is the بابونج with the Persians: (Msb in that art.:) or the &lt;i&gt;flower of the&lt;/i&gt; <br>\
+                  اقحوان: (S in art. قرص:) or &lt;i&gt;of the yellow&lt;/i&gt; <br>\
+                  اقحوان, (TA in art. قرص,) &lt;i&gt;when it has become dry:&lt;/i&gt; (S, TA, both in art. قرص:) &lt;i&gt;a well-known flower, of great utility,&lt;/i&gt; (K, TA,) or &lt;i&gt;of which the oil is of great utility:&lt;/i&gt; (CK:) &lt;i&gt;commonly known in El-Yemen by the name of&lt;/i&gt; <br>\
+                  مونس [app. مُوْنِسٌ, because of its pleasant odour, or its medical properties]. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

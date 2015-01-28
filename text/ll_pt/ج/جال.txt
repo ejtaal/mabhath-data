@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>جال</em>            1                  جال<br>\
+<b>جَيْاَلُ</b>               1     <br>\
+                     جَيْاَلُ<br>\
+                     ذ<br>\
+                  <i>The</i> <br>\
+                  ضَبُع [or <i>female hyena</i>]; (S, K;) a name thereof, of the measure فَيْعَلُ, determinate without ال (S,) imperfectly decl.; (K;) as also ↓ <br>\
+      جَيْاَلَةُ, (S, K,) accord. to Ks; (S;) and جَيَلُ, without ء, (S, K,) the ى not being changed into ا as in نَابٌ and the like because the ء, though literally suppressed, is considered as though meant to be retained, and because the ى is considered as though meant to be quiescent; (Aboo-&#39;Alee the grammarian, S, TA;) and الجَيْاَلُ, (K,) like the first, but with ال. (TA.) ―         -b2-  Also, الجَيْاَلُ, accord. to Ibn-Es-Seed, <i>The wolf:</i> but MF deems this strange. (TA.)    </entryFree> <br>\
+<b>جَيْاَلَةُ</b>               1     <br>\
+                     جَيْاَلَةُ<br>\
+                     ذ<br>\
+                  : see above.   </entryFree> <br>\
+' } );

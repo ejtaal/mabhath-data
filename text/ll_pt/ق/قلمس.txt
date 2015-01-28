@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>قلمس</em>            1                  قلمس<br>\
+<b>قَلَمَّسٌ</b>               1     <br>\
+                     قَلَمَّسٌ<br>\
+                     ذ<br>\
+                  : see نَاسِيٌ.   </entryFree> <br>\
+            <div2 n=&quot;qlw and qlY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قلو and قلى<br>\
+<b>١</b>               1     <br>\
+                     قَلَا<br>\
+                     ذ and        <br>\
+      قلى<br>\
+                  <i>He fried</i> wheat; i. e. <i>roasted</i> it <i>in a</i> <br>\
+                  مَقْلَى [or <i>frying-pan</i> or <i>roasting-pan</i>]. (Mgh.) ―         -b2-  قَلَى with يَقْلَى for its aor.: see اَبَى. ―         -b3-  هُوَ يَقْلُو البُرَّ: see بَرَى. ―         -b4-  قَلَى <br>\
+                  <i>He roasted in a frying-pan</i> (MA, KL) flesh-meat (MA) or anything: (KL:) and شَوَى signifies the same. (MA.) قَلَى البُرَّ بِالمِقْلَى and المِقْلاَةِ means شَوَاهُ [i. e. <i>he parched,</i> or <i>roasted, the wheat with the</i> <br>\
+                  مقلى]. (Mgh.) The aor. is يَقْلِى and يَقْلُو, and the inf. n. قَلْىٌ (MA, Mgh) and قَلْوٌ. (Mgh.)    </entryFree> <br>\
+<b>قَلْىٌ</b>               1     <br>\
+                     قَلْىٌ<br>\
+                     ذ<br>\
+                  <i>Potash;</i> as is shown by the explanations in the S, K, and TA. Hence our term “ alkali. ” See حُرْضٌ.    </entryFree> <br>\
+<b>مِقْلًى</b>               1     <br>\
+                     مِقْلًى<br>\
+                     ذ<br>\
+                  <i>A frying-pan; i. q.</i> <br>\
+                  طاَجَِنٌ. (Msb in art. طجن.)   </entryFree> <br>\
+' } );

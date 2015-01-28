@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ار&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ار<br>\
+&lt;entryFree id=&quot;n514&quot; key=&quot;اَرَّهَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرَّهَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَوُرُّ (S,) inf. n. اَرٌّ, (S, K,) &lt;i&gt;Inivit eam; he compressed her.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n515&quot; key=&quot;اَرَّ اـِرَّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرَّ اـِرَّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (M, TT, L, [and so in the present day,]) or اَرْ اَرْ, (K,) &lt;i&gt;A cry by which sheep or goats are called.&lt;/i&gt; (M, L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n516&quot; key=&quot;مِيْرٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْرٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A man (S,) &lt;i&gt;much addicted to venery:&lt;/i&gt; (S, K:) so accord. to A&#39;Obeyd, as related by Sh and El-Iyádee, but thought by Az to be مَيِيرٌ, of the same measure as مَعِيرٌ, i. e., مَفْعِلٌ, [originally مَاْيِرٌ,] from ا=رَهَا. (T.)   &lt;/entryFree&gt; <br>\
+' } );

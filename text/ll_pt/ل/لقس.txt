@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>لقس</em>            1                  لقس<br>\
+<b>لَقِسَتْ نَفْسُهُ</b>               1     <br>\
+                     لَقِسَتْ نَفْسُهُ<br>\
+                     ذ<br>\
+                  , (S, A, K,) aor.      <br>\
+                     لَقَسَ<br>\
+                  , (S, K,) inf. n. لَقَسٌ, (S, TA,) <i>His soul</i> [or <i>stomach</i>] <i>heaved;</i> or <i>became agitated by a tendency to vomit;</i> or <i>became heavy;</i> syn. غَثَتْ, [q. v.,] (S, A, K,) and خَبُثَتْ; (S, K;) مِنَ الشَّىْءِ <br>\
+                  <i>in consequence of the thing.</i> (S, K.) Mohammad desired his followers to use this expression instead of خَبُثَتْ <br>\
+                  نَفْسُهُ, which he disliked. (K, TA.) ―         -b2-  With اـِلى الشَّىْءِ following it, <i>His soul strove with him to incline him to the thing,</i> (K,) <i>and became greedy for it.</i> (TA.) [But Az seems to disapprove of this explanation.]    </entryFree> <br>\
+<b>لَقِسَةٌ</b>               1     <br>\
+                     لَقِسَةٌ<br>\
+                     ذ<br>\
+                  , as an epithet applied to نَفْسٌ, is the part. n. of لَقِسَتْ in the [first and] second of the senses explained above. (TA.)   </entryFree> <br>\
+' } );

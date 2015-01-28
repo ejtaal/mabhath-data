@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قحز</em>            1                  قحز<br>\
+<b>قَحَزَ</b>               1     <br>\
+                     قَحَزَ<br>\
+                     ذ<br>\
+                  <i>It</i> (an arrow) rose in the sky. (JSh, in TA, art. شخص.)   </entryFree> <br>\
+' } );

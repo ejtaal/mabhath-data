@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'وهث1<br>\
+وَهَثَ فِى شَىْءٍ, aor. يَهِثُ, inf. n. وَهْثٌ, He<br>\
+was persevering, or assiduous, in the thing. (K.)<br>\
+―<br>\
+-b2-  وَهَثَ شَيْئًا, aor. يَهِثُ, inf. n. وَهْثٌ, He trod,<br>\
+or trampled, vehemently upon a thing. (K.)<br>\
+5<br>\
+توهّث فِى الأَمْرِ He went, or penetrated,<br>\
+far into the affair. (M, K.)<br>\
+وَاهِثٌ One throwing himself into destruction.<br>\
+(TA.)<br>\
+' } );

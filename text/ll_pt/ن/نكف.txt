@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>نكف</em>            1                  نكف<br>\
+<b>نَكِفَ مِنَالشَّىْءِ</b>               1     <br>\
+                     نَكِفَ مِنَالشَّىْءِ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَكَفَ<br>\
+                  ; inf. n. نَكَفٌ; and نَكَفَ, aor.      <br>\
+                     نَكُفَ<br>\
+                  ; and ↓ <br>\
+      استنكف; <i>He abstained from, or refused to do, the thing, from disdain and pride.</i> (Msb.)    </entryFree> <br>\
+<b>تَنَكَّفَ بِمَوْضِعِ كَذَا</b>               1     <br>\
+                     تَنَكَّفَ بِمَوْضِعِ كَذَا<br>\
+                     ذ<br>\
+                   [<i>He waited,</i> &amp;amp;c.,] <i>i. q.</i> <br>\
+                  تَلَيَّثَ. (TA in art. صقر, from the “ Nawádir. ”)    </entryFree> <br>\
+<b>اِسْتَنْكَفَ مِنْهُ</b>               1     <br>\
+                     اِسْتَنْكَفَ مِنْهُ<br>\
+                     ذ<br>\
+                   (KL, * MA) <i>He disdained,</i> or <i>scorned, it; was ashamed of it.</i> (KL, MA.) See 1.    </entryFree> <br>\
+<b>نَكَفَةٌ</b>               1     <br>\
+                     نَكَفَةٌ<br>\
+                     ذ<br>\
+                  : see غُنْدُبَةٌ, and لُغْدٌ.   </entryFree> <br>\
+' } );

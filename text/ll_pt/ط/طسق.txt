@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>طسق</em>            1                  طسق<br>\
+<b>طَسْقٌ</b>               1     <br>\
+                     طَسْقٌ<br>\
+                     ذ<br>\
+                  , incorrectly pronounced by the people of Baghdád طِسْقٌ, (O, K,) <i>A certain measure of capacity,</i> (Lth, M, O, K,) <i>well known:</i> (M:) and (Lth, M, O, in the K “ or ”) the <i>portion of the</i> [<i>tax called</i>] خَرَاج <br>\
+                  <i>that is levied on the</i> [<i>quantities of land termed</i>] جُرْبَان, (Lth, M, O, K,) pl. of جَرِيبٌ: (TA:) <i>an assessed rate</i> (وَظِيفَةٌ) <i>of the land-tax:</i> (S:) it is <i>like the</i> <br>\
+                  خَرَاج, <i>having a certain amount:</i> (Az, TA:) or it is <i>like an impost of a certain amount:</i> (O, K:) not a pure Arabic word: (Az, O:) app. post-classical: (K:) or (K) a Pers. word (S) arabicized: (S, K:) from the Pers. تَشَه [or تَشَّهْ] originally signifying “ an oil-measure: ” (TK:) it occurs in a letter of &#39;Omar to &#39;Othmán. (S, O, K.)   </entryFree> <br>\
+' } );

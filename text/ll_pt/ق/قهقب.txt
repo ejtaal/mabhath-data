@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قهقب</em>            1                  قهقب<br>\
+<b>قَهْقَبٌ</b>               1     <br>\
+                     قَهْقَبٌ<br>\
+                     ذ<br>\
+                  <i>Big, bulky,</i> or <i>large in body;</i> as also قَهْقَمٌ: (Seer, L:) or the same as an epithet applied to a camel: (TA:) or <i>big, bulky,</i> or <i>large in body, and advanced in years;</i> as also قَهْقَبٌّ, (K,) and قَرْهَبٌ. (TA.) ―         -b2-  <i>Tall,</i> or <i>long, and having a capacious belly.</i> (K.) ―         -b3-  <i>Hard, and strong,</i> or <i>robust.</i> (M.) ―         -b4-  <i>I. q.</i> <br>\
+                  بَاذِ نْجَانٌ; (IAar, K:) as also كَهْكَبٌ. (TA.)   </entryFree> <br>\
+' } );

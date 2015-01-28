@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>برعم</em>            1                  برعم<br>\
+<b>بَرْعَمَتِ الشَّجَرَةُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     بَرْعَمَتِ الشَّجَرَةُ<br>\
+                     ذ<br>\
+                  <i>The tree put forth its</i> <br>\
+                  بَرَاعِيم [pl. of بُرْعُومٌ], (S,) or <i>its</i> <br>\
+                  بُرْعُمَة. (M, K.)    </entryFree> <br>\
+<b>بُرْعُمٌ</b>               1     <br>\
+                     بُرْعُمٌ<br>\
+                     برعم<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>بُرْعُمَةٌ</b>               1     <br>\
+                     بُرْعُمَةٌ<br>\
+                     برعم<br>\
+                     برعمه<br>\
+                     برعمة<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>بُرْعُومٌ</b>               1     <br>\
+                     بُرْعُومٌ<br>\
+                     برعوم<br>\
+                     رعوم<br>\
+                   and ↓ <br>\
+      بُرْعُمٌ (S, K) and ↓ <br>\
+      بُرْعُومَةٌ and ↓ <br>\
+      بُرْعُمَةٌ (K) The <i>calyx of the fruit,</i> or <i>produce, of a tree:</i> (K:) and <i>blossoms,</i> or <i>white blossoms,</i> syn. نَوْرٌ, (K TA,) <i>before they open:</i> (TA:) or <i>flowers,</i> (S, and Msb in explanation of the first word in art. زهر,) or the <i>flower of a tree,</i> (K,) <i>before the opening thereof:</i> (S, Msb ubi suprà, K:) pl. بَرَاعِيمُ. (S, TA.) ―         -b2-  بَرَاعِيمُ also signifies The <i>heads,</i> or <i>tops;</i> or <i>round, high, slender tops;</i> or <i>peaks;</i> (شَمَارِيخ;) of mountains: (AZ, K:) sing. ↓ <br>\
+      بُرْعُومَةٌ. (AZ, TA.)    </entryFree> <br>\
+<b>بُرْعُومَةٌ</b>               1     <br>\
+                     بُرْعُومَةٌ<br>\
+                     برعوم<br>\
+                     برعومه<br>\
+                     برعومة<br>\
+                     رعوم<br>\
+                  : see بُرْعُومٌ, in two places.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>فيه</em>            1                  فيه<br>\
+<b>فَاهَ</b>               1     <br>\
+                     فَاهَ<br>\
+                     ذ<br>\
+                  , aor. يَفِيهُ: see فَاهَ, aor. يَفُوهُ, in art. فوه.   </entryFree> <br>\
+' } );

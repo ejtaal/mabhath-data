@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'نتب1<br>\
+نَتَبَ, aor.<br>\
+نَتُبَ, inf. n. نُتُوبٌ, It swelled forth;<br>\
+became prominent, or protuberant. (S, K.) Said<br>\
+of a girl&#39;s breast. (S.)<br>\
+' } );

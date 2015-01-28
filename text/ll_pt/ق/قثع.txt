@@ -1,0 +1,4 @@
+load_data( { book: 'll_pt', text: '<em>قثع</em>            1                  قثع<br>\
+               قثم    <br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

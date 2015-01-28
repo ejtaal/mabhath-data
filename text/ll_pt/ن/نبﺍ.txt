@@ -1,0 +1,86 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نبا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نبا<br>\
+&lt;entryFree id=&quot;n39140&quot; key=&quot;نَبَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَبَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;. (K,) inf. n. نَبْءٌ, (TA,) &lt;i&gt;He uttered a low voice,&lt;/i&gt; or &lt;i&gt;sound:&lt;/i&gt; or &lt;i&gt;he&lt;/i&gt; (a dog) &lt;i&gt;cried,&lt;/i&gt; or &lt;i&gt;barked.&lt;/i&gt; (K.) [See نَبَحَ.]       -A2-  نَبَاَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَبَاَ<br>\
+                  &lt;/form&gt;, inf. n. نَبْءٌ and نُبُوْءٌ, &lt;i&gt;He was exalted,&lt;/i&gt; or &lt;i&gt;elevated.&lt;/i&gt;       -A3-  نَبَاَ عَلَيْهِمْ, (K,) inf. n. نَبْءٌ and نُبُوْءٌ, (S,) &lt;i&gt;He assaulted them;&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;2753&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;came forth upon them:&lt;/i&gt; (K:) like نَبَعَ and نَبَهَ: &lt;i&gt;he came upon them.&lt;/i&gt; (AZ, S.) [See also نَابِيٌ.] ―         -b2-  نَبَاَ <br>\
+                  &lt;i&gt;He went forth&lt;/i&gt; from a land to another land. (S, K.) [See نَابِيٌ.] ―         -b3-  نَبَاَتْ بِهِ الاَرْضُ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  جَا=ءَتْ به, &lt;i&gt;The land brought,&lt;/i&gt; or &lt;i&gt;led him:&lt;/i&gt; (S, L:) [accord. to Golius, &lt;i&gt;The land brought,&lt;/i&gt; or &lt;i&gt;produced, it:&lt;/i&gt; but it is a phrase well known to the learned among the Arabs in the present day, as similar to نَادَاهُ <br>\
+                  تُرَابُهُ “ his dust, or earth, (i. e. the place of his burial,) called him: ” and the explanation which I have given is confirmed by the citation, in the S, of the following verse, of Hanash Ibn-Málik, immediately after نبات به in the sense of جاءت به:] &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَنَفْسَكَ اَحْرِزْ فَاـِنَّ الحُتُو<br>\
+                     &lt;L&gt;<br>\
+                        فَ يَنْبَاْنَ بِالمَرْءِ فِى كُلِّ وَادْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Then take good care of thyself; for deaths&lt;/i&gt; (of various kinds) &lt;i&gt;bring&lt;/i&gt; (or &lt;i&gt;lead&lt;/i&gt;) &lt;i&gt;a man into every valley&lt;/i&gt; (or &lt;i&gt;place&lt;/i&gt;): i. e., fate brings him to the place where he is destined to be buried, whereever it be]. (S.) ―         -b4-  نَبَاَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَبَاَ<br>\
+                  &lt;/form&gt;: see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39141&quot; key=&quot;نبّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     نبّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39142&quot; key=&quot;ناباهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ناباهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He acquainted&lt;/i&gt; or &lt;i&gt;informed him, and the latter did the same.&lt;/i&gt; (K.) ―         -b2-  Also, simply, &lt;i&gt;He acquainted&lt;/i&gt; or &lt;i&gt;informed him.&lt;/i&gt; (TA.) ―         -b3-  نَابَاَهُمْ <br>\
+                  &lt;i&gt;He quitted their neighbourhood; withdrew to a distance from them.&lt;/i&gt; (K.) [See also art. نبو.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39143&quot; key=&quot;انباهُ اـِيَّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     انباهُ اـِيَّاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and بِهِ, (and عَنْهُ, S, K, art. كود;) and ↓ <br>\
+      نبّاهُ (S, * K) and ↓ <br>\
+      نَبَاَهُ, (S, * TA,) each followed by ايّاه or به; (TA;) &lt;i&gt;He informed him,&lt;/i&gt; or &lt;i&gt;told him, of it:&lt;/i&gt; (K:) or these verbs, followed by ايّاه, signify &lt;i&gt;he made him to know it;&lt;/i&gt; and followed by به, &lt;i&gt;he informed him,&lt;/i&gt; or &lt;i&gt;told him, of it.&lt;/i&gt; (TA.) ―         -b2-  Es-Semeen says, that انبا and نبّا and اخبر and خبّر, when they convey the meaning of knowledge, are triply transitive, or may govern three objective complements, the greatest number that any verb can govern: (TA:) [ex. اَنْبَاْتُ زَيْدًا عَمْرًا قَايِمًا <br>\
+                  &lt;i&gt;I acquainted Zeyd that &#39;Amr was standing&lt;/i&gt;]. ―         -b3-  It is also said, that ↓ <br>\
+      نبّا has a more intensive signification than انبا: ex. مَنْ اَنْبَاَكَ هٰذَا قَالَ نَبَّاَنِى العَلِيمُ الخَبِيرُ [&lt;i&gt;Who hath acquainted thee with this? He said, The Knowing, the Intelligent&lt;/i&gt; (&lt;i&gt;God&lt;/i&gt;), &lt;i&gt;hath apprized me:&lt;/i&gt; Kur, lxvi. 3]. (TA.) ―         -b4-  Sb has mentioned اَنَا <br>\
+                  اَنَبُوُكَ [for انا اَنْبَوُكَ] as used for the sake of conformity in sound with a preceding word. (M, TA.) [See art. جوا.]       -A2-  رَمَى فَاَنْبَاَ <br>\
+                  &lt;i&gt;He cast,&lt;/i&gt; or &lt;i&gt;shot, but did not split,&lt;/i&gt; or &lt;i&gt;cleave,&lt;/i&gt; or &lt;i&gt;make a slight cut,&lt;/i&gt; or &lt;i&gt;scratch:&lt;/i&gt; (S, K:) or, &lt;i&gt;did not penetrate.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39144&quot; key=&quot;تنبّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تنبّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) said to have been pronounced with ء universally; (Sb, S;) but in the L, تنبّى; (TA;) &lt;i&gt;He arrogated to himself the gift of prophecy,&lt;/i&gt; or &lt;i&gt;office of a prophet.&lt;/i&gt; (L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39145&quot; key=&quot;استنبا النَّبَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استنبا النَّبَاَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He sought,&lt;/i&gt; or &lt;i&gt;searched after, information,&lt;/i&gt; or &lt;i&gt;news.&lt;/i&gt; (K.) ―         -b2-  وَيَسْتَنْبِيُونَكَ اَحَقٌّ هُوَ (in the Kur, x. 54) means &lt;i&gt;And they will ask thee to inform them,&lt;/i&gt; [saying,] &lt;i&gt;Is it true?&lt;/i&gt; (Bd.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39146&quot; key=&quot;نَبَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَبَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Information; a piece of information; intelligence; an announcement; news; tidings; a piece of news; an account; a narrative,&lt;/i&gt; or &lt;i&gt;narration; a story:&lt;/i&gt; or &lt;i&gt;what is related from another&lt;/i&gt; or &lt;i&gt;others:&lt;/i&gt; syn. خَبَرٌ: (S, Msb, K:) it is generally held to be syn. with خَبَرٌ; but accord. to Er-Rághib, signifies &lt;i&gt;an announcement of great utility, from which results either knowledge&lt;/i&gt; or &lt;i&gt;a predominance of opinion, and true:&lt;/i&gt; (TA:) pl. اَنْبَا=ءُ. (K.) ―         -b2-  النَّبَاُ العَظِيمُ [Kur, lxxviii. 2,] accord. to some, &lt;i&gt;The Kur-án:&lt;/i&gt; others say, &lt;i&gt;the resurrection:&lt;/i&gt; and others, &lt;i&gt;the case of the Prophet.&lt;/i&gt; (TA.) ―         -b3-  الاَنْبَا=ءُ, in the Kur, xxviii. 66, (فَعَمِيَتْ عَلَيْهِمُ الاَنْبَا=ءُ) signifies &lt;i&gt;The allegations, pleas,&lt;/i&gt; or &lt;i&gt;excuses.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39147&quot; key=&quot;نَبْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَبْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;An eminence,&lt;/i&gt; or &lt;i&gt;protuberance, in the earth,&lt;/i&gt; or &lt;i&gt;ground.&lt;/i&gt; (TA.) ―         -b2-  نَبْاَةٌ <br>\
+                  &lt;i&gt;A low voice,&lt;/i&gt; or &lt;i&gt;sound:&lt;/i&gt; (S, K:) or the &lt;i&gt;cry,&lt;/i&gt; or &lt;i&gt;barking, of dogs.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39148&quot; key=&quot;نَبِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَبِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) pronounced with ء in the dial. of the people of Mekkeh, (S,) whose pronunciation of it is disapproved by Sb on account of its uncommonness; (TA;) by others, نَبِىٌّ, without ء; (S, K, TA;) &lt;i&gt;A prophet:&lt;/i&gt; (TA:) of the measure فَعِيلٌ used in the sense of the measure مُفْعل [i. e. مُفْعِلٌ or مَفْعَلٌ] (IB) or فَاعِلٌ (S, Es-Sunoosee) or مَفْعُولٌ; (Es-Sunoosee) i. e., &lt;i&gt;who acquaints&lt;/i&gt; or &lt;i&gt;informs mankind,&lt;/i&gt; (S, K, TA,) or &lt;i&gt;who is acquainted&lt;/i&gt; or &lt;i&gt;informed, respecting God and things unseen:&lt;/i&gt; or accord. to some, it is derived from نَبْوَةٌ and نَبَاوَةٌ signifying “ elevation; ” (see art. نبو;) in which case it is originally without ء: or, accord. to others, from نَبِىْءٌ in a sense given below; that of “ a conspicuous way. ” (TA.) It is a less special word than رَسُولٌ [when thereby is meant an apostle of God]; for every رسول is a نبىّ, but not every نبىّ is a رسول. (TA.) Pl. اَنْبِيَا=ءُ (S, K, without ء, because the ء is changed into ى in the sing., S,) and نُبَا=ءُ (S, K, like كُرَمَا=ءُ [pl. of كَرِيمٌ] TA,) and اَنْبَا=ءٌ [K, these two preserving the original radical ء] and نَبِيُّونَ, (K,) without ء: (TA:) but some pronounced the first and last of these pls., in the Kur-án, with ء; though the more approved pronunciation is without ء. (TA.) The dim. is نُبَيّيٌ, (S, K,) with those who make the pl. نُبَا=ءٌ [or اَنْبَا=ءٌ]; but with those who make the pl. اَنْبِيَا=ء, it is نُبَىٌّ. (K.) ―         -b2-  An Arab of the desert said to Mohammad, يَا نَبِىْءَ اللّٰهِ, and the latter disapproved of his pronouncing نبىء in this case with ء, because, as it signifies &lt;i&gt;An emigrant,&lt;/i&gt; he meant thereby to call him an emigrant from Mekkeh to El-Medeeneh. (S, K, TA.) ―         -b3-  نَبِىْءٌ <br>\
+                  &lt;i&gt;A conspicuous, an evident,&lt;/i&gt; or &lt;i&gt;a clear, way.&lt;/i&gt; (K.) Hence, accord. to some, the apostle [or rather prophet] is so called, because he is the conspicuous, evident, way, that conducts to God. (MF.) ―         -b4-  نَبِىْءٌ and ↓ <br>\
+      نَابِيٌ <br>\
+                  &lt;i&gt;An elevated,&lt;/i&gt; or &lt;i&gt;a protuberant,&lt;/i&gt; or &lt;i&gt;gibbous, place.&lt;/i&gt; (K.) ―         -b5-  Hence it is said in a trad., لَا تُصَلُّوا عَلَى النَّبِىْءِ [&lt;i&gt;Pray not upon the place that is elevated,&lt;/i&gt; or &lt;i&gt;protuberant&lt;/i&gt;]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39149&quot; key=&quot;نُبُوْءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نُبُوْءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K, in the CK نُبُوَّة) in which the ء is sometimes softened in pronunciation, and sometimes [or rather generally] changed into و which is incorporated into the preceding و so that the word is written and pronounced نُبُوَّةٌ, (TA,) &lt;i&gt;Prophecy;&lt;/i&gt; the &lt;i&gt;gift of prophecy;&lt;/i&gt; the &lt;i&gt;office,&lt;/i&gt; or &lt;i&gt;function, of a prophet.&lt;/i&gt; (MA, K.) Dim. نُبَيِّيَةٌ. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39150&quot; key=&quot;نَابِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَابِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; act. part. n. of نَبَاَ. ―         -b2-  A bull [app. a ثَوْرٌ وَحْشِىٌّ] &lt;i&gt;that goes forth from one land&lt;/i&gt; or &lt;i&gt;country to another.&lt;/i&gt; (TA.) ―         -b3-  A torrent &lt;i&gt;that comes forth from another land&lt;/i&gt; or &lt;i&gt;tract.&lt;/i&gt; (S.) ―         -b4-  A man &lt;i&gt;coming forth unexpectedly from an unknown quarter.&lt;/i&gt; (S, A.) ―         -b5-  [See also نَبِىْءٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39151&quot; key=&quot;هَلْ عِنْدَكُمْ نَابِيَةُ خَبَرٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَلْ عِنْدَكُمْ نَابِيَةُ خَبَرٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  جَايِبَةُ خَبَرٍ, [&lt;i&gt;Have ye any current news?&lt;/i&gt; or — &lt;i&gt;news from a distant place?&lt;/i&gt; &amp;amp;c.: see جايبة]. (A.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'صرج2<br>\
+صرّج, inf. n. تَصْرِيجٌ, He plastered with<br>\
+صَارُوج a watering-trough or tank (K, * TA) &amp;c.:<br>\
+and sometimes they said شرّق. (TA.)<br>\
+صَارُوجٌ Quick lime (نُورَة), and the mixtures<br>\
+thereof; (T, S, M, Mgh, Msb, K;) with which<br>\
+are plastered watering-troughs, or tanks, and<br>\
+baths, &amp;c.: (M, TA:) a Pers. word, (S, TA,)<br>\
+originally چَارُو, (TA,) arabicized, (S, M, Msb,<br>\
+K,) as is every word in which occur both ص and<br>\
+ج, (S, Msb,) or صَمَجٌ is an exception to this rule:<br>\
+(TA in art. صوبج:) sometimes it is called شَارُوقٌ.<br>\
+(TA.)<br>\
+' } );

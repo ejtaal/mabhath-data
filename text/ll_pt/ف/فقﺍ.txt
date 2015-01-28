@@ -1,0 +1,101 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فقا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فقا<br>\
+&lt;entryFree id=&quot;n34258&quot; key=&quot;فَقاَ العَيْنَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     فَقاَ العَيْنَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Mgh, O, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَقَاَ<br>\
+                  &lt;/form&gt;, (Msb, K,) inf. n. فَقْءٌ, (S, Mgh, O,) &lt;i&gt;He put out the eye;&lt;/i&gt; or &lt;i&gt;blinded it;&lt;/i&gt; or &lt;i&gt;made it to sink in its socket;&lt;/i&gt; syn. بَخَقَهَا; (Lh, S, O, K;) as also ↓ <br>\
+      فقّاها, (S, O, K,) inf. n. تَفْقِيَةٌ: (S, O:) or, accord. to the Msb, بَخَصَهَا; which is said by Es-Sarakustee to mean &lt;i&gt;he put his finger into the eye and pulled it out;&lt;/i&gt; and by IKtt to mean &lt;i&gt;he extinguished its light;&lt;/i&gt; and by some to mean &lt;i&gt;he slit it,&lt;/i&gt; or &lt;i&gt;rent it:&lt;/i&gt; (TA:) or &lt;i&gt;he slit,&lt;/i&gt; or &lt;i&gt;rent, the portion of the eye that is surrounded by the white thereof:&lt;/i&gt; (Mgh:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  قَلَهَا; (K, TA;) i. e. [&lt;i&gt;he pulled out the eye;&lt;/i&gt; or], as some say, &lt;i&gt;he pulled out the portion of the eye which is surrounded by the white, and with which one sees:&lt;/i&gt; (TA: [and the like is said in the Mgh in explanation of القَلْعُ, but this is there said to differ from الفَقْءُ:]) or, as some say, &lt;i&gt;he put his finger into the eye and so slit,&lt;/i&gt; or &lt;i&gt;rent, it:&lt;/i&gt; (TA:) or &lt;i&gt;he broke,&lt;/i&gt; or &lt;i&gt;ruptured, the eye;&lt;/i&gt; syn. كَسَرَهَا; and so البَثْرَةَ [&lt;i&gt;the pimple,&lt;/i&gt; or &lt;i&gt;the small,&lt;/i&gt; or &lt;i&gt;purulent, pustule&lt;/i&gt;]; and the like of these: (K: [and to all of these the two other explanations mentioned above as from the K are likewise there, improperly, made to relate:]) this last explanation, in the K, is said by MF to be unknown; but it is mentioned in the A and L, and by more than one of the leading lexicologists: (TA:) [accord. to Mtr,] فَقَاْتُ البَثْرَةَ means &lt;i&gt;I slit the pimple,&lt;/i&gt; &amp;amp;c., or &lt;i&gt;rent it&lt;/i&gt; [&lt;i&gt;open&lt;/i&gt;]. (Mgh, Msb.) Among the Arabs in the Time of Ignorance, when a man&#39;s camels amounted to a thousand, he put out (فَقَاَ) an eye of one of them (a بَعِير), and set it free to pasture where it would, and made no use of it. (TA.) ―         -b2-  فَقَاَ اْللّٰهُ عَنْكَ عَيْنَ الكَمَالِ is a tropical saying [app. meaning &lt;i&gt;May God prevent from seeing thee the fatal eye:&lt;/i&gt; the term عين <br>\
+                  الكمال being applied to an eye believed to have the power of killing by its glance]. (A, TA.) ―         -b3-  And فَقَاَ نَاظِرَيْهِ, (O, K,) likewise said to be a tropical phrase, (TA,) means (tropical:)  &lt;i&gt;He dispelled his anger.&lt;/i&gt; (O, K.) ―         -b4-  And فَقَاعَيْنَهُ also means [sometimes] (tropical:)  &lt;i&gt;He struck him;&lt;/i&gt; or &lt;i&gt;struck him vehemently with a broad thing,&lt;/i&gt; or &lt;i&gt;with anything;&lt;/i&gt; or &lt;i&gt;slapped him with his hand:&lt;/i&gt; or &lt;i&gt;he was rough, rude,&lt;/i&gt; or &lt;i&gt;ungentle, to him in speech.&lt;/i&gt; (TA in art. عين.) ―         -b5-  And فَقَاَتِ البُهْمَى, inf. n. فُقُوْءٌ, (O, K, TA,) or, accord. to the L, فَقْءٌ, (TA,) &lt;i&gt;The&lt;/i&gt; [&lt;i&gt;barleygrass termed&lt;/i&gt;] بهمى <br>\
+                  &lt;i&gt;was rendered dusty by rain,&lt;/i&gt; or &lt;i&gt;by a torrent, so that the cattle would not eat it until it became clean:&lt;/i&gt; (O, K, TA:) and in like manner one says of any plant. (O, TA.) [See also 1 in art. فقا.] ―         -b6-  And, as some say, (TA,) or ↓ <br>\
+      تفقّات, (S, O, TA,) (tropical:)  &lt;i&gt;The envelopes&lt;/i&gt; [or &lt;i&gt;glumes&lt;/i&gt;] &lt;i&gt;of the&lt;/i&gt; <br>\
+                  بُهْمَى <br>\
+                  &lt;i&gt;burst open so as to disclose&lt;/i&gt; (S, O, TA) &lt;i&gt;its fruit&lt;/i&gt; [or &lt;i&gt;seeds&lt;/i&gt;], (S, O,) or &lt;i&gt;its flower.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     فَقَّاَ<br>\
+                  &lt;/form&gt; see 1, first sentence. ―         -b2-  لَا يُفَقِّيُ البَيْضَ, (IJ, TA,) or البَيْضَ ↓ <br>\
+      لَا يَتَفَقَّاُ, (A, TA,) (assumed tropical:)  [&lt;i&gt;He will not break,&lt;/i&gt; or &lt;i&gt;burst, eggs,&lt;/i&gt; or &lt;i&gt;the eggs,&lt;/i&gt;] is said of a weak and quiet man, (IJ, TA,) or of an impotent man. (A, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34259&quot; key=&quot;افقا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     افقا<br>\
+                     ذ<br>\
+                  &lt;i&gt;His breast,&lt;/i&gt; or &lt;i&gt;chest, became depressed&lt;/i&gt; (اِنْخَسَفَ), &lt;i&gt;in consequence of a malady,&lt;/i&gt; or &lt;i&gt;an accident;&lt;/i&gt; (IAar, O, TA;) said of a man. (IAar, O.) [But see فَقَاٌ and اَفْقَاُ.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَفَقَّاَ<br>\
+                  &lt;/form&gt; see 7, in two places. ―         -b2-  It is also said of the corpse that has lain long upon the field of battle, meaning &lt;i&gt;It rent,&lt;/i&gt; or &lt;i&gt;burst.&lt;/i&gt; (Mgh.) And one says, تَفَقَّاْتُ شَحْمًا (assumed tropical:)  [&lt;i&gt;I&lt;/i&gt; almost &lt;i&gt;burst with fat&lt;/i&gt;]: (S:) [and] تَفَقَّاَتِ الشَّاةُ شَحْمًا [&lt;i&gt;the sheep,&lt;/i&gt; or &lt;i&gt;goat,&lt;/i&gt; almost &lt;i&gt;burst with fat&lt;/i&gt;]: (O:) شحما being in the accus. case as a specificative. (S, O.) And اَكَلَ <br>\
+                  حَتَّى كَادَبَطْنُهُ يَتَفَقَّاُ (assumed tropical:)  &lt;i&gt;He ate until his belly almost burst.&lt;/i&gt; (A, TA.) And ↓ <br>\
+      اَكَلَ حَتَّى كَادَ يَنْفَقِيُ (assumed tropical:)  [&lt;i&gt;He ate until he almost burst&lt;/i&gt;]. (O: in the TA with بَكَى [&lt;i&gt;he wept&lt;/i&gt;] in the place of اكل, and with بَطْنُهُ after ينفقي.) ―         -b3-  And تَفَقَّاَتِ السَّحَابَةُ عَنْ <br>\
+                  مَايِهَا (tropical:)  &lt;i&gt;The cloud burst with its water.&lt;/i&gt; (S, * O, * TA.) ―         -b4-  See also 1, last sentence.       -A2-  And see 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34260&quot; key=&quot;انفِقات العَيْنُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;7&lt;/itype&gt;        <br>\
+                     انفِقات العَيْنُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      تفقّات, quasi-pass. vs., [the former] of فَقَاَ العَيْنَ and [the latter] of فَقَّاَهَا as expl. in the first sentence of this art.; (K, TA;) [thus signifying &lt;i&gt;The eye became put out;&lt;/i&gt; or &lt;i&gt;blinded;&lt;/i&gt; or &lt;i&gt;made to sink in its socket:&lt;/i&gt; &amp;amp;c.: or &lt;i&gt;it broke;&lt;/i&gt; or &lt;i&gt;became broken,&lt;/i&gt; or &lt;i&gt;ruptured:&lt;/i&gt;] and so البَثْرَةُ [&lt;i&gt;the pimple,&lt;/i&gt; or &lt;i&gt;the small,&lt;/i&gt; or &lt;i&gt;purulent, pustule&lt;/i&gt;]: and the like of these: (K, TA:) the former, (Mgh,) or each, (Msb,) said of a بَثْرَة, means &lt;i&gt;it&lt;/i&gt; [&lt;i&gt;broke,&lt;/i&gt; or] &lt;i&gt;rent,&lt;/i&gt; or &lt;i&gt;burst:&lt;/i&gt; (Mgh, Msb:) and thus ↓ <br>\
+      تفقّا said of [a pustule such as is termed] a دُمَّل, (S, Mgh, O,) and of [such as is termed] a قَرْح. (S, O.) ―         -b2-  See also 5.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34261&quot; key=&quot;افتقا الخَرْزَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     افتقا الخَرْزَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is expl. in the K as meaning اَعَادَ <br>\
+                  عَلَيْهِ وَجَعَلَ بَيْنَ الكُلْبَتَيْنِ كُلْبَةً اُخْرَى; [and in like manner in the O, except that the latte has الكُلْيَتَيْنِ and كُلْيَةً; and so have several copies of the K;] but this meaning is assigned by Lh to اقتفا, which see for a fuller explanation. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34262&quot; key=&quot;فَقْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَقْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, O, K) and (O, K) accord. to Ks and Fr (O) ↓ <br>\
+      فُقْاَةٌ [in the CK فُقَاة] and ↓ <br>\
+      فَقَاَةٌ (O, K) and in some copies of the K ↓ <br>\
+      فُقَّا=ءَة (TA) and ↓ <br>\
+      فَاقِيَا=ءُ, (K,) originally فَاقِيَا=ءُ, (TA,) The [&lt;i&gt;membrane called&lt;/i&gt;] سَابِيَا=ء (S, O, K) &lt;i&gt;which comes forth&lt;/i&gt; <br>\
+                  عَلَى رَاْسِ الوَلَدِ [&lt;i&gt;upon the head of the young one,&lt;/i&gt; meaning &lt;i&gt;at the time of bringing forth,&lt;/i&gt;] (S, O,) or &lt;i&gt;which rends open from off the head of the young one&lt;/i&gt; [&lt;i&gt;at the time of bringing forth&lt;/i&gt;]: (K:) pl. [of the first] فُقُوءٌ: (TA:) or &lt;i&gt;a small, thin, piece of skin, which is upon the nose of the young one, and which, if not removed from it,&lt;/i&gt; (O, K,) &lt;i&gt;at the birth,&lt;/i&gt; (O,) &lt;i&gt;causes its death,&lt;/i&gt; (O, K,) is thus termed, (K,) or is termed ↓ <br>\
+      فُقْاَةٌ, by IAar: (O:) or, accord. to As, the &lt;i&gt;water&lt;/i&gt; [or &lt;i&gt;fluid&lt;/i&gt;] &lt;i&gt;that is&lt;/i&gt; <br>\
+                  عَلَى رَاْسِ الوَلَدِ [app. meaning that is &lt;i&gt;discharged at the time of the birth&lt;/i&gt; (see 2 in the arts. ربق and رمد)]: and accord. to IAar, the &lt;i&gt;water&lt;/i&gt; [or &lt;i&gt;fluid&lt;/i&gt;] &lt;i&gt;that is in the&lt;/i&gt; <br>\
+                  مَشِيمَة [or &lt;i&gt;membrane enclosing the fœtus in the womb&lt;/i&gt;] is termed فَقْءٌ and سُخْدٌ and سُخْتٌ and نُخْطٌ: (TA:) it is also said that فَقْوٌ signifies &lt;i&gt;a certain white thing that comes forth from the woman&lt;/i&gt; or &lt;i&gt;the she-camel in parturition, and which is an envelope wherein is much water&lt;/i&gt; or &lt;i&gt;fluid;&lt;/i&gt; mentioned by A &#39;Obeyd as with hemz [i. e. written فَقْءٌ], and said by him to be the سَابِيَا=ء [q. v.]. (TA in art. فقو.) ―         -b2-  And فَقْءٌ signifies also &lt;i&gt;A small hollow,&lt;/i&gt; or &lt;i&gt;cavity, in stone,&lt;/i&gt; or &lt;i&gt;a rugged place, that collects water:&lt;/i&gt; (K:) or it is [&lt;i&gt;a hollow,&lt;/i&gt; or &lt;i&gt;cavity,&lt;/i&gt;] &lt;i&gt;like a&lt;/i&gt; <br>\
+                  خُفْرَة or جُفْرَة, &lt;i&gt;in the midst of a&lt;/i&gt; [&lt;i&gt;stony place such as is termed&lt;/i&gt;] حَرّة, (Sh, O, TA,) or &lt;i&gt;in the midst of a mountain:&lt;/i&gt; (TA:) and ↓ <br>\
+      فَقِىْءٌ signifies the same: (K:) the pl. (of the former, O, or of the latter, TA) is فُقْا=نٌ. (O. TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34263&quot; key=&quot;فَقَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَقَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A protuberance,&lt;/i&gt; or &lt;i&gt;swelling out,&lt;/i&gt; (O, TA,) &lt;i&gt;of the back,&lt;/i&gt; (O,) or &lt;i&gt;of the breast,&lt;/i&gt; or &lt;i&gt;chest.&lt;/i&gt; (TA.) [But see 4, and see also اَفْقَاُ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34264&quot; key=&quot;فُقْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فُقْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see فَقْءٌ, in two places. ―         -b2-  Also (tropical:)  &lt;i&gt;A cloud in which is neither thunder nor lightning, and the rain of which is&lt;/i&gt; <br>\
+                  مُتَقَارِب [app. meaning &lt;i&gt;drawing near:&lt;/i&gt; as though likened to the membrane thus called]. (O, * TA. [In the former written, in this instance, فَقْاَةٌ, which I think to be a mistranscription by the copyist.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34265&quot; key=&quot;فَقَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَقَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see فَقْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34266&quot; key=&quot;فَقْاَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَقْاَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34267&quot; key=&quot;فَقِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَقِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A he-camel &lt;i&gt;affected with a disease termed&lt;/i&gt; <br>\
+                  حَقْوَة [q. v.], &lt;i&gt;in consequence of which he voids not his urine nor his dung;&lt;/i&gt; (O, K; *) &lt;i&gt;and sometimes,&lt;/i&gt; or &lt;i&gt;often, his veins and his flesh become choked with blood, and swollen; and if slaughtered and cooked, the cooking-pot becomes full of blood; and sometimes,&lt;/i&gt; or &lt;i&gt;often, his stomach becomes so much inflated,&lt;/i&gt; or &lt;i&gt;swollen, that it rends,&lt;/i&gt; or &lt;i&gt;bursts:&lt;/i&gt; and it is likewise applied to a she-camel: (O:) and ↓ <br>\
+      فَقْاَى signifies the same applied to a she-camel. (K.) ―         -b2-  Also (i. e. فَقِىْءٌ) The &lt;i&gt;disease above-&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;2424&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;mentioned, itself.&lt;/i&gt; (O, K.)       -A2-  See also فَقْءٌ, latter sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34268&quot; key=&quot;فُقَّا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فُقَّا=ءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see فَقْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34269&quot; key=&quot;فَاقِيا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَاقِيا=ءُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see فَقْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34270&quot; key=&quot;اَفْقَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفْقَاُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Having a protuberant breast,&lt;/i&gt; or &lt;i&gt;chest.&lt;/i&gt; (IAar, TA in art. فسا.) [But see 4, and see also فَقَاٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n34271&quot; key=&quot;مُفَقّيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُفَقّيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Valleys, or water-courses, or torrent-beds, (اَوْدِيَةٌ,) &lt;i&gt;that cleave the earth.&lt;/i&gt; (O, K.)   &lt;/entryFree&gt; <br>\
+' } );

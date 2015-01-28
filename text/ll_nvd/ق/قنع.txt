@@ -1,0 +1,30 @@
+load_data( { book: 'll_nvd', text: 'قنع5<br>\
+تَقَّنَعَ بِشَىْءٍ<br>\
+He was content with a thing.<br>\
+(K, voce تعصّب.)<br>\
+قُنْعَانٌ<br>\
+[not قُنْعَانُ, as in the CK,] With whom<br>\
+one is contented, or satisfied, (S, K,) like ↓ مَقْنَعٌ,<br>\
+(S, K,) in respect of his judicial decision, or<br>\
+his evidence: (K:) used a like as mase. and fem.<br>\
+and sing. and pl. (S, K) and dual. (S.)<br>\
+قِنَاعٌ<br>\
+A woman&#39;s covering worn over the<br>\
+خِمَار<br>\
+[or head-covering]; (Msb;) a woman&#39;s headcovering, wider than the ↓ مَقْنَعَة. (S, K.) ―<br>\
+-b2-  قِنَاعُ<br>\
+القَلْبِ<br>\
+The integument of the heart; the pericardium. (Mgh in art. خلع; and K.)<br>\
+قَانِعٌ<br>\
+, as used in the Kur, xxii. 37, accord. to<br>\
+some, One who asks, or begs. (TA, art. عر.)<br>\
+مَقْنَعٌ<br>\
+: see قُنْعَانٌ ―<br>\
+-b2-  إِنَّ فِى ذٰلِكَ لَمَقْنَعًا [Verily<br>\
+in that is a sufficiency]. (S, M, in art. سود.)<br>\
+مُقْنِعٌ<br>\
+: see صَافِحٌ.<br>\
+مِقْنَعَةٌ<br>\
+[and مِقْنَعٌ, PS] A woman&#39;s head-veil.<br>\
+(MA, PS.)<br>\
+' } );

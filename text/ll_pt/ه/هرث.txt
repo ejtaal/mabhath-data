@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هرث</em>            1                  هرث<br>\
+<b>هِرْثٌ</b>               1     <br>\
+                     هِرْثٌ<br>\
+                     ذ<br>\
+                   An <i>old, (??) garment.</i> (K.) [See also هَوِيثٌ.]   </entryFree> <br>\
+' } );

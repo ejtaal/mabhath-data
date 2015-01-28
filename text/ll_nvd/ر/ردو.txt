@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'ردو1<br>\
+رَدَا aor. يَرْدِو said of a horse: see 1 in art.<br>\
+ردى. ―<br>\
+-b2-  And رَدَاهُ بِحَجَرٍ, aor. يَرْدُوهُ, inf. n. رَدْوٌ:<br>\
+see 1 in art. ردى.<br>\
+3<br>\
+راداهُ, said to be formed by transposition<br>\
+from رَاوَدَهُ, [and therefore it should properly be<br>\
+mentioned in this art.,] is explained in art.<br>\
+ردى.<br>\
+' } );

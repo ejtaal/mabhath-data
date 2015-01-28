@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>ايض</em>            1                  ايض<br>\
+<b>ا=ضَ</b>               1     <br>\
+                     ا=ضَ<br>\
+                     ا=ض<br>\
+                  , aor. يَيِيضُ, inf. n. اَيْضٌ, <i>i. q.</i> <br>\
+                  عَادَ; (ISk, S, M, Msb, * K;) as in the phrase ا=ضَ اـِلَى <br>\
+                  الشَّىْءِ [<i>He returned to the thing,</i> i. e. <i>to the doing of the thing; he did the thing again,</i> or <i>a second time</i>]. (K.) ―         -b2-  And <i>i. q.</i> <br>\
+                  رَجَعَ; (S, M, Msb, K;) as in the phrase ا=ضَ اـِلَى اَهْلِهِ [<i>He returned to his family</i>]. (S, M.) ―         -b3-  In the phrase فَعَلْتُ كَذَا ↓ <br>\
+      اَيْضًا, the last word is the inf. n. of ا=ضَ in the sense of عَادَ, (ISK, IDrd, S, M, Msb, *) and in the sense of رَجَعَ: (IDrd, M:) and the meaning is, [<i>I did such a thing again,</i> or <i>a second time;</i>] <i>I returned to the doing of such a thing:</i> (IDrd, M:) or <i>I did such a thing returning to what had preceded.</i> (Msb, K. *) [It also, and more commonly, signifies <i>I did such a thing also.</i>] When one says, ↓ <br>\
+      فَعَلْتُ ذٰلِكَ اَيْضًا [<i>I did that again,</i> &amp;amp;c.], you say, ↓ <br>\
+      قَدْ اَكْيَرْتَ مِنْ اَيْضٍ [<i>Thou hast made much use of the expression</i> <br>\
+                  اَيْضًا], and ↓ <br>\
+      دَعْنِى مِنْ اَيْضٍ [<i>Let me alone and cease from using the expression</i> <br>\
+                  اَيْضًا]. (ISk, S.) ―         -b4-  اَيْضٌ also signifies (tropical:)  A thing&#39;s <i>becoming another,</i> or <i>a different, thing;</i> and <i>being changed from its state</i> or <i>condition</i> [<i>to another and a different state</i> or <i>condition</i>]: (Lth, K: *) so says Kh. (Ham p. 356.) And ا=ضَ كَذَا (tropical:)  <i>He,</i> or <i>it, became such a thing.</i> (Lth, S, M, * K.) You say, ا=ضَ <br>\
+                  سَوَادُ شَعَرِهِ بَيَاضًا (A, TA) (tropical:)  <i>The blackness of his hair became whiteness.</i> (TA.) And Zuheyr says, speaking of a land which he traversed, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        قَطَعْتُ اـِذَامَاالا=لُ ا=ضَ كَاَنَّهُ<br>\
+                     <L><br>\
+                        سُيُوفٌ تُنَحَّى سَاعَةً ثُمَّ تَلْتَقِى<br>\
+                  </quote> [<i>I traversed, when the mirage,</i> or <i>the mirage of the morning, became as though it were swords which were removed a while, then met</i>]. (S.)    </entryFree> <br>\
+<b>اَيْضٌ</b>               1     <br>\
+                     اَيْضٌ<br>\
+                     ذ<br>\
+                   and اَيْضًا: see above, in four places.   </entryFree> <br>\
+' } );

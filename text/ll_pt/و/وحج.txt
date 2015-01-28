@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وحج</em>            1                  وحج<br>\
+<b>مُوحَجٌ</b>               1     <br>\
+                     مُوحَجٌ<br>\
+                     ذ<br>\
+                  : transp. for مُوجِحٌ.   </entryFree> <br>\
+' } );

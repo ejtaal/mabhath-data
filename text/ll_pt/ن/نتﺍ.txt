@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نتا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نتا<br>\
+&lt;entryFree id=&quot;n39268&quot; key=&quot;نَتَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَتَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَتَاَ<br>\
+                  &lt;/form&gt;, inf. n. نَتْءٌ and نُتُوْءٌ, (S, K,) &lt;i&gt;It swelled; swelled up; rose; grew up.&lt;/i&gt; (K.) Said of a plant, &amp;amp;c. (S.) ―         -b2-  نَتَاَ, (S, K,) inf. n. نُتُوْءٌ, (TA,) &lt;i&gt;It protruded,&lt;/i&gt; or &lt;i&gt;projected, from its place, without becoming separated.&lt;/i&gt; (S, K.) ―         -b3-  نَتَاَ <br>\
+                  &lt;i&gt;It&lt;/i&gt; (an ulcer, or a wound,) &lt;i&gt;swelled.&lt;/i&gt; (S, K.) ―         -b4-  &lt;i&gt;It&lt;/i&gt; (a girl&#39;s breast) &lt;i&gt;swelled forth,&lt;/i&gt; or &lt;i&gt;became prominent,&lt;/i&gt; or &lt;i&gt;protuberant.&lt;/i&gt; (TA.) ―         -b5-  نَتَاَتْ <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a girl) &lt;i&gt;grew up,&lt;/i&gt; (S,) &lt;i&gt;and became marriageable.&lt;/i&gt; (S, K.) ―         -b6-  نَتَاَ عَلَيْهِمْ, inf. n. نَتْءٌ, &lt;i&gt;He rose,&lt;/i&gt; or &lt;i&gt;exalted himself, above them.&lt;/i&gt; (TA.) ―         -b7-  [You say,] تَحْقِرُهُ وَيَنْتَاُ <br>\
+                  &lt;i&gt;Thou despisest him, and he riseth,&lt;/i&gt; or &lt;i&gt;exalteth himself:&lt;/i&gt; (S:) or ―         -b8-  &lt;i&gt;he emulateth thee:&lt;/i&gt; or ―         -b9-  &lt;i&gt;he becometh great.&lt;/i&gt; A proverb, said of him who does not manifest his character or design by outward appearance, but keeps it secret: or of him who advances and exalts himself by his cunning, while thou thinkest him senseless, or negligent. Accord. to some, it is تحقره ويَنْتُو, without ء: see art. نتو. (TA.)       -A2-  نَتَاَ <br>\
+                  &lt;i&gt;He went up&lt;/i&gt; from the country or land to another. (TA.)       -A3-  تَنَاَ عَلَيْهِمْ <br>\
+                  &lt;i&gt;He came upon them;&lt;/i&gt; syn. اـِطَّلَعَ. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39269&quot; key=&quot;انتتا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     انتتا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He rose,&lt;/i&gt; or &lt;i&gt;exalted himself.&lt;/i&gt; (K.) ―         -b2-  انتتا لَهُ <br>\
+                  &lt;i&gt;He encountered him; met him; opposed himself to him.&lt;/i&gt; (K, TA: the verb is explained in the K by اـِنْبَرَى.)   &lt;/entryFree&gt; <br>\
+' } );

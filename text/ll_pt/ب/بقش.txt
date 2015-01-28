@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>بقش</em>            1                  بقش<br>\
+<b>بَقْشٌ</b>               1     <br>\
+                     بَقْشٌ<br>\
+                     ذ<br>\
+                  <i>A certain kind of tree, called in Persian</i> <br>\
+                  خُوشْ سَاىْ, (Sgh, K,) which means “ good in shade; ” [and also is applied to the <i>box-tree;</i>] as has been said before, voce بَقْسٌ, which may be the same: IDrd says that بَقْشٌ is a post-classical word. (TA.)   </entryFree> <br>\
+' } );

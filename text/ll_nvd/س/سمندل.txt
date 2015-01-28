@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'سمندلسَمَنْدَلٌ [The phenix;] a certain bird that is<br>\
+in India; that enters into the fire without having<br>\
+its plumage burned: (Kr, M, K: * [mentioned<br>\
+in the M as a quadriliteral-radical word; the ن<br>\
+being regarded by ISd as augmentative:]) also<br>\
+called سَبَنْدَلٌ, with ب [in the place of م]: it is<br>\
+said that when it becomes extremely aged, and is<br>\
+without offspring, it casts itself into burning coals,<br>\
+and returns to its youthful state. (TA.) [See also<br>\
+سَنْدَلٌ, in art. سدل.]<br>\
+' } );

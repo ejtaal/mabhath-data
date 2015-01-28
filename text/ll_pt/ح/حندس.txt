@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>حندس</em>            1                  حندس<br>\
+<b>حَنْدَسَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     حَنْدَسَ<br>\
+                     حندس<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>تَحَنْدَسَ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَحَنْدَسَ<br>\
+                     تحندس<br>\
+                  <i>It</i> (the night) <i>was,</i> or <i>became, dark:</i> (K:) or <i>intensely dark;</i> (TA;) as also ↓ <br>\
+      حَنْدَسَ. (Ham p. 140.) ―         -b2-  And <i>He</i> (a man) <i>fell down;</i> and <i>was weak:</i> (Sgh, K:) mentioned by Sgh in art. حدس. (TA.)    </entryFree> <br>\
+<b>حِنْدِسٌ</b>               1     <br>\
+                     حِنْدِسٌ<br>\
+                     حندس<br>\
+                  <i>Darkness:</i> (K:) or <i>intense darkness:</i> (Ham p. 140:) pl. حَنَادِسُ. (K.) You say, سَرَوْا <br>\
+                  فِى حِنْدِسِ اللَّيْلِ [<i>They journeyed in the darkness,</i> or <i>intense darkness, of the night</i>]: and فِى حَنَادِسِ <br>\
+                  الظُّلَمِ [<i>in the darkness,</i> or <i>intense darkness, of the nights called</i> <br>\
+                  الظُّلَم, q. v.]. (A, in art. حدس.) Z derives it from الحَدْسُ meaning نَظَرٌ خَافٍ. (TA. [See art. حدس.]) ―         -b2-  Also, as an epithet applied to night, (S, K,) <i>Dark:</i> (K:) or <i>intensely dark;</i> (S;) and so ↓ <br>\
+      مُحَنْدِسٌ. (Ham p. 140.) You say لَيْلٌ حِنْدِسٌ and لَيْلَةٌ حِنْدِسَةٌ. (TA.) ―         -b3-  [Hence,] الحَنَادِسُ <br>\
+                  <i>Three nights</i> (K, TA) <i>of the lunar month,</i> (TA,) <i>next after the</i> <br>\
+                  ظُلَم [q. v.]. (K.) ―         -b4-  [Hence also,] اَسْوَدُ حِنْدِسٌ, a phrase like اَسْوَدُ حَالِكٌ [<i>Intensely black</i>]. (L.)    </entryFree> <br>\
+<b>حَنْدُوسٌ</b>               1     <br>\
+                     حَنْدُوسٌ<br>\
+                     حندوس<br>\
+                   a term applied by the people of the East to <i>Dirhems cut in pieces;</i> which pieces they use for change, and in almsgiving: so explained by Esh-Shereeshee. (Har p. 81.)    </entryFree> <br>\
+<b>مُحَنْدِسٌ</b>               1     <br>\
+                     مُحَنْدِسٌ<br>\
+                     محندس<br>\
+                  : see حِنْدِسٌ.   </entryFree> <br>\
+' } );

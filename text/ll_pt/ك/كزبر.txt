@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كزبر</em>            1                  كزبر<br>\
+<b>كُزْبُرَةٌ</b>               1     <br>\
+                     كُزْبُرَةٌ<br>\
+                     ذ<br>\
+                  , and sometimes, [in the present day commonly,] كُزْبَرَةٌ, (S, K,) Arabic, and well known, (AHn,) [but J says] I think it is arabicized, (S,) [Chald.        <br>\
+      <orth lang=&quot;he&quot;>כּדּסְבָּר</orth>, (Gol.)] <i>One of the kinds of seeds that are used in cooking, for seasoning food;</i> (S, K;) [<i>coriander-seed:</i> or the <i>coriander-plant,</i> accord. to the explanation of كُسْبُرَةٌ (which is said in the TA to be a dial. form of كزبرة) in the K.]   </entryFree> <br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'زalphabetical letter<br>\
+ز<br>\
+The eleventh letter of the alphabet; commonly<br>\
+called زَاىٌ, and sometimes زَآءٌ, [and زًا, and زَا,<br>\
+(see زَاىٌ in art. زوى,)] and زَىٌّ, and زَىْ. (MF.)<br>\
+It is one of the letters termed مَجْهُورَة [or vocal,<br>\
+i. e. pronounced with the voice, and not with the<br>\
+breath only]; and of the letters termed أَسِلَيَّة,<br>\
+because proceeding from the tip of the tongue.<br>\
+(TA.) Az says that it is not conjoined with ص<br>\
+in any Arabic word. (TA.) It is substituted for<br>\
+س and for ص; as in يَزْدِلُ for يَسْدِلُ, and يَزْدُقُ<br>\
+for يَصْدُقُ: and in the Tes-heel it is said that it is<br>\
+sometimes interchanged [with س] after ج, as in<br>\
+جُسْتُ خِلَالَ الدِّيَارِ for جُزْتُ; and after ر, as in<br>\
+رَسَبَ and رَزَبَ: which interchange, accord. to MF,<br>\
+is said to be of the dial. of Kelb; or, as Et-Toosee<br>\
+says, of the dial. of &#39;Odhrah and Kaab and Benul-&#39; Ambar. (TA.)<br>\
+-A2-  [As a numeral, ز denotes<br>\
+Seven.]<br>\
+' } );

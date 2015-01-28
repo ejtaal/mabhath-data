@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>حمدل</em>            1                  حمدل<br>\
+<b>حَمْدَلَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     حَمْدَلَ<br>\
+                     حمدل<br>\
+                  , (Msb and TA in art. بسمل,) inf. n. حَمْدَلَةٌ, (K,) <i>He said</i> <br>\
+                  الحَمْدُ لِلّٰهِ: (K, and Msb and TA ubi suprà:) a word of the kind termed مَنْحُوتٌ. (TA.)   </entryFree> <br>\
+' } );

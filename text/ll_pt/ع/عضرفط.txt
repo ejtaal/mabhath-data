@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>عضرفط</em>            1                  عضرفط<br>\
+<b>عَضْرَفُوطٌ</b>               1     <br>\
+                     عَضْرَفُوطٌ<br>\
+                     ذ<br>\
+                   The عُذْفُوط, (K,) [i. e.] <i>a small creeping thing called</i> <br>\
+                  عِسْوَدّ, <i>white, soft,</i> or <i>smooth, to which the fingers of girls are likened, found in the sands, and called by some</i> <br>\
+                  عُضْفُوطٌ and عُذْفُوطٌ, of which the pls. are عَضَافِيطُ and عَذَافِيطُ: (Lth, O:) or the <i>male of the</i> [<i>species of lizard called</i>] عَظَا=ء; (S, O, K;) <i>and it is</i> (O, K) <i>said to be</i> (O) <i>one of the animals ridden by the jinn,</i> or <i>genii:</i> (O, K:) pl. عَضَارِفُ and عَضْرَفُوطَاتٌ: (Lth, O, K:) dim. عُضَيْرِفٌ and عُضَيْرِيفٌ. (S.)   </entryFree> <br>\
+' } );

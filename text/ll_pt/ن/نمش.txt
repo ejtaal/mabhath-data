@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>نمش</em>            1                  نمش<br>\
+<b>نَمِشَ</b>               1     <br>\
+                     نَمِشَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَمَشَ<br>\
+                  , (K,) inf. n. نَمَشٌ. (TA,) <i>He,</i> or <i>it, was,</i> or <i>became, speckled with white and black:</i> or <i>marked with sports upon the skin differing from it in colour.</i> (K.) See نَمَشٌ below.       -A2-  نَمَشَهُ, inf. n. نَمْشٌ, <i>He variegated it;</i> or <i>decorated,</i> or <i>embellished, it:</i> (TA;) [as also ↓ <br>\
+      نمّشهُ, but app. in an intensive sense, for its inf. n.] تَنْميشٌ is <i>syn. with</i> <br>\
+                  تَدْبِيجٌ. (TA.) ―         -b2-  [And hence, app.,] (assumed tropical:) <i>He mixed,</i> or <i>confounded, it,</i> e. g., good speech with bad; as also the ↓ latter of these two words. (TA.)    </entryFree> <br>\
+                     نَمَّشَ<br>\
+                   see 1, in two places.    </entryFree> <br>\
+<b>نَمْشٌ</b>               1     <br>\
+                     نَمْشٌ<br>\
+                     ذ<br>\
+                  <i>A mark, trace, vestige,</i> or <i>relic.</i> (TA.)    </entryFree> <br>\
+<b>نَمَشٌ</b>               1     <br>\
+                     نَمَشٌ<br>\
+                     ذ<br>\
+                  <i>White and black specks</i> (S, A, Mgh, K) in a colour: (TA:) or <i>spots in the skin differing from it in colour;</i> (IDrd, A, K;) sometimes in horses, and mostly in such as are of a sorrel colour. (TA.) ―         -b2-  <i>Lines,</i> or <i>streaks, of variegations</i> or <i>decorations</i> in variegated or figured cloth, &amp;amp;c. (K.) ―         -b3-  <i>Whiteness in the roots,</i> or <i>lower parts, of the nails, which goes away and returns.</i> (TA.)    </entryFree> <br>\
+<b>نَمِشٌ</b>               1     <br>\
+                     نَمِشٌ<br>\
+                     ذ<br>\
+                  <i>Speckled with white and black;</i> applied to a bull; (TA:) and so ↓ <br>\
+      اَنْمَشُ; (Mgh, TA;) applied to a man. (Mgh.) You say, ثَوْرٌ نَمِشٌ, meaning, <i>A wild bull, which has specks</i> (S, TA) <i>and lines.</i> or <i>streaks.</i> (TA.) And ثَوْرٌ نَمِشٌ <br>\
+                  القَوَايِمِ <br>\
+                  <i>A bull having black lines,</i> or <i>streaks, in the legs.</i> (A.) And ↓ <br>\
+      عَنْزٌ نَمْشَا=ءُ <br>\
+                  <i>A she-goat that is black speckled with white,</i> or <i>white speckled with black.</i> (TA.) ―         -b2-  سَيْفٌ نَمِشٌ (tropical:)  <i>A sword in which are diversified wavy streaks.</i> (A, K, * TA.) ―         -b3-  بَعِيرٌ نَمِشٌ <br>\
+                  <i>A camel having in his foot a mark that becomes distinctly shown upon the ground, without any mark thereon made artificially;</i> (Ibn-&#39;Abbád, K;) and so بعير نَهِشٌ. (Ibn-&#39;Abbàd, TA.)    </entryFree> <br>\
+<b>اَنْمَشُ</b>               1     <br>\
+                     اَنْمَشُ<br>\
+                     ذ<br>\
+                  : fem. نَمْشَا=ءُ: see نَمِشٌ, in two places.   </entryFree> <br>\
+' } );

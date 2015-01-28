@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'وهرتَيْهُورٌ<br>\
+, originally وَيْهُورٌ: see تهر<br>\
+' } );

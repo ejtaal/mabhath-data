@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نرسن</em>            1                  نرسن<br>\
+<b>نِرْسِيَانَةٌ</b>               1     <br>\
+                     نِرْسِيَانَةٌ<br>\
+                     ذ<br>\
+                  <i>A species of dates.</i> (S, in art. رسو.)   </entryFree> <br>\
+' } );

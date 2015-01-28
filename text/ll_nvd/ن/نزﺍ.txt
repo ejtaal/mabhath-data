@@ -1,0 +1,35 @@
+load_data( { book: 'll_nvd', text: 'نزأ1<br>\
+نَزَأَ بَيْنَهُمْ, (S, K,) aor.<br>\
+نَزَاَ, inf. n. نَزْءٌ and<br>\
+نُزُوْءٌ, (S,) He excited discord between them: (AZ,<br>\
+S, K:) like نَزَعَ. (TA.) ―<br>\
+-b2-  نَزَأَهُ عَلَى صَاحِبِهِ<br>\
+He incited, or urged, him against his companion.<br>\
+(K, * TA.) ―<br>\
+-b3-  مَا نَزَأَكَ عَلَى هٰذَا What incited,<br>\
+urged, or induced, thee to this? (Ks, S.) ―<br>\
+-b4-  نَزَأَ<br>\
+عَلَيْهِ, (S, K,) inf. n. نَزْءٌ, (S,) He made an attack,<br>\
+or assault, upon him; syn. حَمَلَ. (Ks, S. K.)<br>\
+―<br>\
+-b5-  نَزَأَهُ عَنْ قَوْلِهِ He turned him back from<br>\
+what he had said. (K, * TA.) ―<br>\
+-b6-  نُزِئَ بِهِ, like<br>\
+عُنِىَ, [i. e., pass. in form, but neut. in signification,] He was addicted, or devoted, to it;<br>\
+desirous of it. (TA.) ―<br>\
+-b7-  إِنَّكَ لَا تَدْرِى عَلَامَ يُنْزَأُ<br>\
+هَرِمُكَ, (S, K,) thus thou sayest, addressing thyself, when a man has been pursuing a good or<br>\
+an evil way, and turned from it to another<br>\
+way, or accord. to some copies of the S, بِمَ<br>\
+instead of عَلَامَ, [which is for عَلَى مَا;] (TA;)<br>\
+Verily thou knowest not to what thing thy mind<br>\
+will become addicted, or devoted: (ISk, S, K:)<br>\
+i. e., to what thy state will come. (K.) In one<br>\
+copy of the K, هَرَمُكَ thine old age, is put instead<br>\
+of هَرِمُكَ. (TA.)<br>\
+نَزِىْء An inciter, instigator, or exciter. (TA.)<br>\
+رَجُلٌ نَزَّآءٌ [A man much addicted, or devoted, to<br>\
+a thing; very desirous of it]. (TA.) [See نَزِئَ.]<br>\
+مَنْزُوْءٌ بِهِ Addicted, or devoted, to it; desirous of<br>\
+it. (S, K.)<br>\
+' } );

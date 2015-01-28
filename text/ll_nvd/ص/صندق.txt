@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'صندقصُنْدُوقٌ, (S and Msb in art. صدق, and K in a<br>\
+separate art.,) thus, with ص, accord. to ISk, (S,)<br>\
+and صَنْدُوقٌ, (K,) or the latter is vulgar, (Msb,)<br>\
+[A chest, coffer, or trunk: strangely expl. in the<br>\
+TA as meaning a جُوَالِق:] and زُنْدُوقٌ and سُنْدُوقٌ<br>\
+are dial. vars. thereof: (K:) pl. صَنَادِيقُ. (S,<br>\
+Msb, K.)<br>\
+صَنَادِيقِىٌّ A maker of صَنَادِيق [or chests, coffers,<br>\
+or trunks]. (TA.)<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>وشب</em>            1                  وشب<br>\
+<b>وَشْبٌ</b>               1     <br>\
+                     وَشْبٌ<br>\
+                     ذ<br>\
+                   [app. meaning <i>Fleshy</i>] is from the expression تَمْرَةٌ وَشْبَةٌ, (in one copy of the K, وَشْبَاءُ, TA,) <i>A date having a thick</i> <br>\
+                  لِحَا=ء [i. e. <i>pulp,</i> or <i>flesh</i>]. (K.) Of the dial. of El-Yemen. (TA.)    </entryFree> <br>\
+<b>وِشْبٌ</b>               1     <br>\
+                     وِشْبٌ<br>\
+                     ذ<br>\
+                   sing. of اَوْشَابٌ, (K,) which is the same as اَوْبَاشٌ (S, K) and اَشْوَابٌ, (TA,) [but see this last word, in art. شوب,] and signifies, <i>A medley,</i> or <i>mixed multitude;</i> (K;) or <i>sundry,</i> or <i>separate sorts</i> of people; (S;) <i>and young men of the baser sort.</i> (TA.) A term of dispraise only. (Marg. note in a copy of the S.)   </entryFree> <br>\
+' } );

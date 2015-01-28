@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'نزقنَزَقٌ<br>\
+Lightness, and unsteadiness, or lightwittedness, (S, Msb, K,) on an occasion of anger; (K;)<br>\
+i. q.<br>\
+سَرْبَخَةٌ; lightness in any work, or action:<br>\
+hastiness, with foolishness or ignorance: (JK,<br>\
+TA:) hastiness, or sharpness, of temper; irascibility; passionateness: a meaning deduced from<br>\
+various examples, and confirmed by present<br>\
+usage.<br>\
+نَزِقٌ<br>\
+Light, and unsteady, or lightwitted.<br>\
+(Msb.) See also نَزَقٌ: and see شُحْذُوذٌ.<br>\
+نَزِقَةٌ<br>\
+and ↓ نِزَاقٌ<br>\
+A refractory she-camel; hard<br>\
+to be managed. (Msb.)<br>\
+نِزَاقٌ<br>\
+: see نَزِقَةٌ.<br>\
+اللَّبُؤَةُ أَنْزَقُ مِنَ الأَسَدِ<br>\
+[The lioness is more impetuous than the lion]. (S, voce سَبُعَةٌ.)<br>\
+' } );

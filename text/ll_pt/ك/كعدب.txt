@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كعدب</em>            1                  كعدب<br>\
+<b>كَعْدَبٌ</b>               1     <br>\
+                     كَعْدَبٌ<br>\
+                     ذ<br>\
+                   and كَعْدَبَةٌ <br>\
+                  <i>A base, unmanly,</i> person. (K.)    </entryFree> <br>\
+<b>كُعْدُبَةٌ</b>               1     <br>\
+                     كُعْدُبَةٌ<br>\
+                     ذ<br>\
+                  <i>Bubbles that float upon the surface of water;</i> (K;) <i>resulting from rain:</i> (TA:) a <i>bubble floating upon the surface of water &amp;amp;c.</i> (TA): or <i>a spider&#39;s web:</i> (AA:) ―         -b2-  Also, <i>Stones.</i> (TA.) ―         -b3-  All these significations are also assigned to جُعْدُبَةٌ. (TA, art. جعدب, q. v.)   </entryFree> <br>\
+' } );

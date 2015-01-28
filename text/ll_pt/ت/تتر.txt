@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>تتر</em>            1                  تتر<br>\
+<b>التَّتَرُ</b>               1     <br>\
+                     التَّتَرُ<br>\
+                     التتر<br>\
+                     تتر<br>\
+                   [and التَّتَارُ and التَاتَارُ] <i>A certain people,</i> or <i>nation,</i> (K,) [called by us <i>the Tartars,</i>] <i>in the furthest countries of the East, in the mountains of</i> <br>\
+                  طغماج, <i>on the confines of China,</i> (TA,) <i>bordering upon the Turks,</i> (K,) <i>more than six months&#39; journey from Má-waráä-n-nahr:</i> so in the Murooj edh-Dhahab. (TA.)    </entryFree> <br>\
+<b>تَتْرَى</b>               1     <br>\
+                     تَتْرَى<br>\
+                     تتر<br>\
+                     تترى<br>\
+                     تتري<br>\
+                     وتر<br>\
+                   and تَتْرًى: see art. وتر.   </entryFree> <br>\
+' } );

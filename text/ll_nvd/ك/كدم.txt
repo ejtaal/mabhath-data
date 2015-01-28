@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'كدم1<br>\
+كَدَمَ<br>\
+He bit with the fore part of the mouth.<br>\
+(S, Msb, K.)<br>\
+6<br>\
+تَكَادُمُ الحُمُرِ<br>\
+[The wild asses&#39; biting one<br>\
+another with the fore part of the mouth]. (TA<br>\
+in art. سحج.) See also تَسَانَّت.<br>\
+' } );

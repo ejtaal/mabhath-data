@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>وتن</em>            1                  وتن<br>\
+<b>الوَتِينُ</b>               1     <br>\
+                     الوَتِينُ<br>\
+                     ذ<br>\
+                   [<i>The aorta:</i> or <i>the aorta descendens:</i>] <i>a certain vein</i> [<i>or artery</i>] <i>adhering to the inner</i> <br>\
+                  <i>side of the backbone all along, which supplies all the</i> [<i>other</i>] <i>veins</i> [<i>or arteries</i>] <i>with blood, and irrigates the flesh, being the river of the body:</i> or <i>a certain thick white vein resembling a cane:</i> [this last is the description given by Zj in his “ Khalk el-Insán: ”] or [<i>the aorta ascendens;</i>] <i>the</i> <br>\
+                  نِيَاط <br>\
+                  <i>of the heart:</i> or <i>a certain white vein within the back of the neck: it is said to draw up</i> [<i>its supply</i>] <i>from the heart, and in it is the blood.</i> ―         -b2-  Also, <i>the</i> <br>\
+                  خِلْب, q. v.: pl. اَوْتِنَةٌ and وُتُنٌ: (M:) <i>i. q.</i> <br>\
+                  نِيَاطُ القَلْبِ. (Bd, and Jel, lxix. 45.) See اَبْهَرُ.   </entryFree> <br>\
+' } );

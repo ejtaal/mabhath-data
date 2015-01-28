@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'نحثنَحِيثٌ dial. form of نَحِيفٌ: (Kr:) ISd thinks<br>\
+the ث to be a substitute for ف. (TA.)<br>\
+' } );

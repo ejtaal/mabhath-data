@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>زا</em>            1                  زا<br>\
+<b>زَا</b>               1     <br>\
+                     زَا<br>\
+                     ذ<br>\
+                   and زًا and زَا=ءٌ: see the letter ز, and زَاىٌ in art. زوى.   </entryFree> <br>\
+' } );

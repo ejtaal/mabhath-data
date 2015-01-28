@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نيا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نيا<br>\
+&lt;entryFree id=&quot;n40770&quot; key=&quot;نَا=ءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَا=ءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَنِىْءُ, (so in the S, Nh, L, Msb; but in some copies of the K, يناءُ, [which appears to be put by mistake for the inf. n. in the acc. case];) inf. n. نَىْءٌ, (S,) and نَىٌّ, without ء, and نَوْءٌ, (Sh,) &lt;i&gt;It&lt;/i&gt; (flesh meat, &amp;amp;c.) &lt;i&gt;was not,&lt;/i&gt; or &lt;i&gt;did not become, sufficiently cooked; it was insufficiently cooked:&lt;/i&gt; (S, K:) (like نَهِيَ:) or &lt;i&gt;it was untouched by fire;&lt;/i&gt; (i. e., &lt;i&gt;raw&lt;/i&gt;]. (L.) ―         -b2-  &lt;i&gt;It&lt;/i&gt; (a thing) &lt;i&gt;was not firmly, not soundly, not thoroughly, done.&lt;/i&gt; [See 4.] (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     نَيَّاَ<br>\
+                  &lt;/form&gt; see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40771&quot; key=&quot;اناء الاَمْرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اناء الاَمْرَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He did the thing not firmly, not soundly, not thoroughly.&lt;/i&gt; <br>\
+                  الامر ↓ <br>\
+      نيّا, accord. to the K, signifies &lt;i&gt;the same:&lt;/i&gt; but this is unknown, and not authorized by transmission [from the Arabs of the classical ages], and therefore not mentioned by IM nor by other leading lexicographers: the correct phrases are [when the verb is intrans.] ناء الامرُ [and اللحمُ], and [when it is trans.] اناء اللحمَ [and الامر]: the forms of the verb being like بَانَ and اَبَانَ. (TA.) ―         -b2-  اناء, (S, incorrectly written in the K اَنْيَاَ, TA,) inf. n. اـِنَا=ءَةٌ, &lt;i&gt;He insufficiently cooked&lt;/i&gt; flesh-meat [&amp;amp;c.]. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40772&quot; key=&quot;نِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Flesh meat &amp;amp;c. &lt;i&gt;insufficiently cooked:&lt;/i&gt; (S, K:) or &lt;i&gt;untouched by fire;&lt;/i&gt; [i. e., &lt;i&gt;raw&lt;/i&gt;]. (L.) It was also pronounced by the Arabs نِىٌّ; but the original word is with ء. (TA.) ―         -b2-  Wine &lt;i&gt;untouched by the fire:&lt;/i&gt; cooked [or mulled] wine being called نَضِيجٌ, (TA [written نِىٌّ, without ء]). ―         -b3-  &lt;i&gt;Pure&lt;/i&gt; [&lt;i&gt;and sweet&lt;/i&gt;] milk: sour milk being called نضيج: or milk &lt;i&gt;just drawn from the udder, before it is put into the skin.&lt;/i&gt; (TA [written نِىٌّ, without ء.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40773&quot; key=&quot;نَىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [for نَىْءٌ] &lt;i&gt;Fat,&lt;/i&gt; as contradistinguished from flesh, [which is app. called نَضِيجٌ]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40774&quot; key=&quot;نُيُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نُيُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and نُيُوْءَةٌ The &lt;i&gt;state of being insufficiently cooked:&lt;/i&gt; (S, K:) or &lt;i&gt;of being untouched by fire;&lt;/i&gt; [i. e., &lt;i&gt;rawness&lt;/i&gt;]. (L.) &lt;pb n=&quot;2870&quot; TEIform=&quot;pb&quot;/&gt;   <br>\
+' } );

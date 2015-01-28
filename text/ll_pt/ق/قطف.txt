@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>قطف</em>            1                  قطف<br>\
+<b>قِطْفٌ</b>               1     <br>\
+                     قِطْفٌ<br>\
+                     ذ<br>\
+                   A <i>bunch</i> of grapes, &amp;amp;c.: pl. قُطُوفٌ: see an ex. voce ذَلَّلَ. ―         -b2-  قِطْفٌ <br>\
+                  <i>i. q.</i> <br>\
+                  مَقْطُوفٌ. (TA in art. بسط.) See بَسِيطٌ.    </entryFree> <br>\
+<b>قَطَفٌ</b>               1     <br>\
+                     قَطَفٌ<br>\
+                     ذ<br>\
+                  : see بَقْلٌ.    </entryFree> <br>\
+<b>قَطَافٌ</b>               1     <br>\
+                     قَطَافٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      قِطَافٌ The <i>time of gathering the crop of grapes:</i> (S, Mgh, K:) or the latter has this meaning; and the former is allowable accord. to Ks: (T, TA:) and the latter is also an inf. n., (Mgh,) or may be so, (Ks, T, TA,) meaning the <i>gathering of the crop of grapes:</i> (Mgh:) [or both have this meaning; for] you say, هٰذَا زَمَانُ <br>\
+                  القَطَافِ and القِطَافِ. (Msb.) See جَدَادٌ.    </entryFree> <br>\
+<b>قَطِيفٌ</b>               1     <br>\
+                     قَطِيفٌ<br>\
+                     ذ<br>\
+                   a coll. gen. n. syn. with قَطَايِفُ, mentioned in the TA voce اُبْلُوجٌ, which see. ―         -b2-  قَطِيفَةٌ <br>\
+                  <i>A villous,</i> or <i>nappy,</i> <br>\
+                  دِثَار [or <i>outer wrapping garment</i>]. (S, Msb, K.) See also راَحُولَاتٌ.    </entryFree> <br>\
+<b>قَطَايِفُ</b>               1     <br>\
+                     قَطَايِفُ<br>\
+                     ذ<br>\
+                  : see my 1001 Nights, note 23 to chap. viii. See also زَلاَبِيَه. In the TA, art. كنف, it is applied to كُنَافَة.    </entryFree> <br>\
+<b>مِقْطَفٌ</b>               1     <br>\
+                     مِقْطَفٌ<br>\
+                     ذ<br>\
+                   (<i>vulg.</i> <br>\
+                  مَقْطَفٌ) [pl. مَقَاطِف] A handbasket, made of palm-leaves: <i>so called because originally used in gathering fruit.</i> (See also قُفَّة and زَنْبِيل.)   </entryFree> <br>\
+' } );

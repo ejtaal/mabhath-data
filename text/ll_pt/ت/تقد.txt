@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>تقد</em>            1                  تقد<br>\
+<b>تِقْدَةٌ</b>               1     <br>\
+                     تِقْدَةٌ<br>\
+                     اقاد<br>\
+                     قاد<br>\
+                     قد<br>\
+                     قدا<br>\
+                     قدي<br>\
+                     تقده<br>\
+                     تقدة<br>\
+                     وقد<br>\
+                   (JK, S, L, K) and تَقْدَةٌ (Hr, L, K) and تَقِدَةٌ (JK, L) <i>Coriander-seed;</i> syn. كُزْبَرَةٌ. (IAar, JK, S, L, K.) ―         -b2-  And <i>Caraway-seed;</i> syn. كَرَوْيَا=ء. (IAar, Th, L, K.)   </entryFree> <br>\
+' } );

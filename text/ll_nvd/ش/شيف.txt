@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'شيف2<br>\
+شيّف الدَّوَآءَ [from شِيَافٌ]: see 2 in art. شوف.<br>\
+شِيفٌ The prickles (شَوْك) that are at the back of<br>\
+the عَسِيب [or leafless portion, next above the<br>\
+lowest and thickest part, of the branch] of the<br>\
+palm-tree: (O, K:) so says AHát: (O:) but<br>\
+Lth says that the word is [سِيفٌ, q. v.,] with the<br>\
+unpointed س. (TA.)<br>\
+شِيَافٌ, originally شِوَافٌ: see art. شوف.<br>\
+شِيِّفَةٌ and شِيِّفَانٌ: see art. شوف.<br>\
+' } );

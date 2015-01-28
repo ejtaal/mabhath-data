@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>قشط</em>            1                  قشط<br>\
+<b>قَشَطَ</b>               1     <br>\
+                     قَشَطَ<br>\
+                     ذ<br>\
+                  , (M, Msb, TA,) aor,      <br>\
+                     قَشِطَ<br>\
+                  , (Msb,) inf. n. قَشْطٌ, (M, Msb, K,) <i>i. q.</i> <br>\
+                  كَشَطَ, (M, K, *) said (M, Msb,) by Yaakoob, (M,) to be a dial. var. of the latter; (M, Msb;) of the dial. of Temeem and Asad; the latter being of the dial. of Keys; the ق not being a substitute for the ك; (M;) <i>He removed, put off, took off,</i> or <i>stripped off,</i> (M, Msb, * K,) a thing; (M, Msb;) as, for instance, the housing, or covering, from (عَنْ) a horse; (M;) and a roof [from a chamber or the like]. (TA.) And قِشَاطٌ, [inf. n. of the pass. form قُشِطَ, <i>It was,</i> or <i>became, removed,</i> &amp;amp;c.,] is <i>syn. with,</i> (K,) being a dial. var. of, (M,) كِشَاطٌ, (M, K,) in the sense of اـِنْكِشَافٌ. (TA.) It is said in the Kur, [lxxxi. 11,] accord. to the reading of &#39;AbdAllah Ibn-Mes&#39;ood, وَاـِذَا السَّمَا=ءُ قُشِطَتْ, with ق, (M,) meaning the same as كُشِطَتْ, i. e. <i>And when the heaven shall be removed from its place, like as a roof is removed from its place.</i> (Zj.) You say also, قَشَطَ الدَّابَّةَ [<i>He removed the housing,</i> or <i>covering, from the beast of carriage</i>]; the verb thus used, also, being a dial. var. of كَشَطَ; and ↓ <br>\
+      قشّطها, inf. n. تَقْشِطٌ, signifies the same. (TA.) And الرَّجُلُ ↓ <br>\
+      قُشِّطَ <br>\
+                  <i>The man was spoiled, despoiled,</i> or <i>plundered.</i> (TA.) ―         -b2-  قَشْطٌ also signifies The act of <i>beating,</i> [app. <i>so as to excoriate,</i>] with a staff, or stick. (Yaakoob, K.)    </entryFree> <br>\
+                     قَشَّطَ<br>\
+                   see 1, in two places.    </entryFree> <br>\
+                     تَقَشَّطَ<br>\
+                   see 7.    </entryFree> <br>\
+<b>انقشطت السَّمَا=ءُ</b>               1     <br>\
+                     انقشطت السَّمَا=ءُ<br>\
+                     ذ<br>\
+                  , and ↓ <br>\
+      تقشّطت, (tropical:)  <i>The sky became clear; became free from clouds</i> or <i>mists.</i> (K, * TA.)    </entryFree> <br>\
+<b>قُشْطٌ</b>               1     <br>\
+                     قُشْطٌ<br>\
+                     ذ<br>\
+                   a dial. var. of قُسْطٌ, q. v. (TA.)    </entryFree> <br>\
+<b>قِشْطَةٌ</b>               1     <br>\
+                     قِشْطَةٌ<br>\
+                     ذ<br>\
+                   a dial. var. of قَنْدَةٌ [app. meaning <i>Sugarcandy</i>]. (TA.) ―         -b2-  [In the present day, applied to <i>Cream.</i>]    </entryFree> <br>\
+<b>قَشَّاطٌ</b>               1     <br>\
+                     قَشَّاطٌ<br>\
+                     ذ<br>\
+                  <i>A great spoiler, despoiler,</i> or <i>plunderer;</i> one <i>who spoils, despoils,</i> or <i>plunders, much,</i> or <i>frequently;</i> syn. سَلَّابٌ. (TA.)    </entryFree> <br>\
+<b>مُقَشَّطٌ</b>               1     <br>\
+                     مُقَشَّطٌ<br>\
+                     ذ<br>\
+                  : see مَقْشُوطٌ, in two places.    </entryFree> <br>\
+<b>دَابَّةٌ مَقْشُوطٌ عَنْهَا</b>               1     <br>\
+                     دَابَّةٌ مَقْشُوطٌ عَنْهَا<br>\
+                     ذ<br>\
+                   [for مَقْشُوط عَنْهَا الجُلُّ] and ↓ <br>\
+      مُقَشَّطٌ [<i>A beast of carriage having its housing,</i> or <i>covering, removed from it</i>]. (TA.) You say also, ↓ <br>\
+      رَجُلٌ مُقَشَّطٌ, meaning <i>A man spoiled, despoiled,</i> or <i>plundered.</i> (TA.)   </entryFree> <br>\
+' } );

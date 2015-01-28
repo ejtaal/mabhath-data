@@ -1,0 +1,30 @@
+load_data( { book: 'll_nvd', text: 'لحن1<br>\
+لَحَنَ He erred in speech; spoke incorrectly.<br>\
+(Msb.) ―<br>\
+-b2-  لَحَنَ لَهُ He said to him something<br>\
+which he (the latter) understood, but which was<br>\
+unintelligible to others: (Az, S, Msb, K:) he intimated to him something which he (the latter)<br>\
+alone understood.<br>\
+3<br>\
+لَاحَنَهُمْ i. q. فَاطَنَهُمْ. (S, K.) See an ex.<br>\
+voce جَامِعٌ; and see my explanations of مُفَاطَنَةٌ.<br>\
+لَحْنٌ The meaning of speech; its intended<br>\
+sense or import: (S, K, TA:) its intent: (TA:)<br>\
+[it is direct: and also indirect:] an indication<br>\
+thereof whereby the person addressed is made<br>\
+to understand one&#39;s intent; so says Az (Msb:<br>\
+[and the like is said in the TA on the authority<br>\
+of AHeyth:]) an oblique, or ambiguous, mode<br>\
+of speech: (Msb:) an inclining of speech to<br>\
+obliqueness, or ambiguity, and equivocal allusion. (Bd, in xlvii. 32.) ―<br>\
+-b2-  A barbarism, an<br>\
+incorrect word. ―<br>\
+-b3-  عَرَفْتُهُ فِى لَحْنِ كَلَامِهِ and<br>\
+فى نَحْوِ كلامه. and فى مِعْرَاضِ كلامه signify<br>\
+the same. (Msb in art. عرض.) See the last of<br>\
+these voce عَرُوضٌ. ―<br>\
+-b4-  لَحْنٌ A modulated sound;<br>\
+expl. as being مِنَ الأَصْوَاتِ المَصُوغَةِ المَوْضُوعَةِ:<br>\
+pl. أَلْحَانٌ and لُحُونٌ. (K.) You say, أَلْحَانُ<br>\
+الأَغَانِى [The modulated sounds of songs]. (Mgh.)<br>\
+' } );

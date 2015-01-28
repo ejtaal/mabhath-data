@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>هوذ</em>            1                  هوذ<br>\
+<b>الهَوْذَةُ</b>               1     <br>\
+                     الهَوْذَةُ<br>\
+                     ذ<br>\
+                  , (L, K,) or هَوْذَةُ, [without the art. ال, as a proper name,] (S, L,) written by Ed-Demeeree with damm, but fault has been found with him for this, (MF,) [<i>The bird called</i>] <i>the</i> <br>\
+                  قَطَاة: (S, L, K:) or, as some say, <i>the female</i> <br>\
+                  قطاة: (L:) or هَوْذَةُ, (as a determinate noun) is <i>the name of a certain bird,</i> (L, K,) <i>different from the above:</i> (L:) pl. هُوَذٌ, (as in the CK and a MS copy of the K) or هَوْذٌ, formed by eliding the augmentative letter: (TA:) [and this seems to be the correct reading; for it occurs in a verse, cited in the TA, in which the measure required it to be of one syllable: it therefore appears that هَوْذٌ is a coll. gen. n., of which the n. un. is with ة.]   </entryFree> <br>\
+' } );

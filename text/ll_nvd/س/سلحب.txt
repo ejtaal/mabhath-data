@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'سلحبQ. 4<br>\
+اِسْلَحَبَّ It was, or became, right, direct,<br>\
+rightly directed, straight, or even. (S, K.) ―<br>\
+-b2-  It<br>\
+(a road) was extended: (S:) or conspicuous and<br>\
+extended. (K.) ―<br>\
+-b3-  [And app. It was, or became,<br>\
+spread out, or expanded: see the part n., below.]<br>\
+سُلْحُوبٌ A woman who cares not for what she<br>\
+does nor for what is said to her. (AA, TA.)<br>\
+مُسْلِحَبٌّ Right, direct, rightly directed,<br>\
+straight, or even: (S, K:) like مُتْلَئِبٌّ. (TA.)<br>\
+―<br>\
+-b2-  Extended: (S:) or conspicuous and extended:<br>\
+(K:) applied to a road: (S, K:) like مُطْلَحِبٌّ.<br>\
+(L.) ―<br>\
+-b3-  I. q. مُنْبَطِحٌ [app. as meaning Spread<br>\
+out, or expanded]. (TA.) ―<br>\
+-b4-  ظَلَّ يَوْمَنَا مُسَْحِبًّا<br>\
+means Our day was, or became, one of protracted<br>\
+journeying. (L, TA.)<br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>درز</em>            1                  درز<br>\
+<b>دَرْزٌ</b>               1     <br>\
+                     دَرْزٌ<br>\
+                     درز<br>\
+                   [<i>A seam,</i> or <i>a raised seam,</i> of a garment or piece of cloth;] the <i>elevation that is occasioned in a garment or piece of cloth when its two edges are put together in the sewing;</i> (Mgh;) <i>one of the</i> <br>\
+                  دُرُوز <br>\
+                  <i>of a garment or piece of cloth,</i> (S, TA,) and <i>the like;</i> (TA;) which are well known: (K:) a Persian word, [originally دَرْزْ,] (S, TA,) arabicized: (S, K:) or, accord. to some, the <i>nap,</i> or <i>villous substance,</i> (زِيْبِر,) and <i>lustre,</i> (مَا=ء,) of a garment, or piece of cloth. (TA.) ―         -b2-  [Hence,] بَنَاتُ الدُّرُوزِ (tropical:)  <i>Lice:</i> and <i>nits;</i> syn. صِيْبَانٌ. (S, K, TA.)   </entryFree> <br>\
+' } );

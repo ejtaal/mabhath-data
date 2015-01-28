@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'ليغ1<br>\
+لَاغَ, aor. يَلَاغُ, inf. n. لَيَغٌ: see an ex. in a<br>\
+verse cited voce تَزَنَّدَ.<br>\
+' } );

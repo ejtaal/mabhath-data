@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>ملز</em>            1                  ملز<br>\
+               <entryFree>See art. ملص and Supplement.   </entryFree> <br>\
+' } );

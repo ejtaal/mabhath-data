@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وثا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وثا<br>\
+&lt;entryFree id=&quot;n41612&quot; key=&quot;وَثَاَتْ يَدُهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَثَاَتْ يَدُهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. تَثَاُ, inf. n. وَثْءٌ; (AZ;) and وَثِيَتْ, (a form disapproved by some, TA,) aor. the same, inf. n. the same and وَثَاْ, (K, TA,) or وَثَا=ءٌ; (CK and a MS. copy) and وَثُوَتْ; and وُثِيَتْ, (S, K,) like عُنِىَ, [i. e., pass. in form, but neut. in signification,] (K,) which is the chaste form of the verb; and to the inf. ns. are added, on the anthority of the Wá&#39;ee, وَثُوْءٌ and وَثْاَةٌ; (TA;) [but it is not said to which form or forms of the verb these belong;] &lt;i&gt;His hand became affected by what is termed&lt;/i&gt; <br>\
+                  وَثْءٌ. (K.) ―         -b2-  وَثَاَ يَدَهُ (S, K) and ↓ <br>\
+      اوثا, (K,) &lt;i&gt;He caused his hand to be affected by what is termed&lt;/i&gt; <br>\
+                  وَثْءٌ. (S, K.) ―         -b3-  اللّٰهُمَّ ثَاَيَدَهُ [&lt;i&gt;O God, bruise his hand! &amp;amp;c.&lt;/i&gt;] is a form of curse used by the Arabs. (IAar.) ―         -b4-  وَثَاَ اللّٰحْمَ <br>\
+                  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt; (i. e. a blow,) &lt;i&gt;deadened the flesh.&lt;/i&gt; (K.) الوَتَدَ ―         -b5-  وَثَاَ (tropical:)  i. q. شَعَّثَ, q. v. (A.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَوْثَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41613&quot; key=&quot;وَثْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَثْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and وَثْاَةٌ <br>\
+                  &lt;i&gt;A breaking of the flesh without separation of the parts,&lt;/i&gt; (وَصْمٌ,) &lt;i&gt;not reaching to the bone,&lt;/i&gt; (K,) &lt;i&gt;producing a swelling:&lt;/i&gt; (TA:) or &lt;i&gt;a pain in the bone, without fracture:&lt;/i&gt; (IKoot, K:) or &lt;i&gt;a dislocation&lt;/i&gt; (K, TA) and &lt;i&gt;concussion of the joints, which affects the hand, without fracture:&lt;/i&gt; (TA:) or [&lt;i&gt;an injury&lt;/i&gt;] &lt;i&gt;resembling dislocation; in the flesh as a fracture in a bone:&lt;/i&gt; (AM:) or &lt;i&gt;a bruising&lt;/i&gt; or &lt;i&gt;breaking of the flesh without breaking the bone:&lt;/i&gt; (IAar.:) or &lt;i&gt;a bruising of the skin and flesh, reaching to the bone, without its breaking:&lt;/i&gt; (TA:) or &lt;i&gt;a bruising of the bone, without breaking:&lt;/i&gt; (Lth, S:) in which last sense, Lth uses also the word وَثَاٌ. (TA.) The      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     وَثُاَ<br>\
+                  &lt;/form&gt; in وَثْءٌ is sometimes omitted, and the word is written وَثٌ, like يَدٌ and وَثْىٌ .دَمٌ is condemned as vulgar. وَثٌ is authorized by As; but وَثْىٌ (which is said by the vulgar, S, [and is disallowed in the K,]) and وَثْوٌ are disallowed by him. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41614&quot; key=&quot;وَثِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَثِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Having a broken hand:&lt;/i&gt; (TA: [but see وَثْءٌ:]). ―         -b2-  يَدٌ وَثِيَةٌ, and ↓ <br>\
+      وَثِيْيَةٌ, (K,) and ↓ <br>\
+      مَوْثُوْءَةٌ, (S, K,) &lt;i&gt;A hand affected by what is termed&lt;/i&gt; <br>\
+                  وَثْءٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41615&quot; key=&quot;وَثِييَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَثِييَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَوْثُوْءَةٌ: see وَثِيٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41616&quot; key=&quot;مِيثَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيثَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A mallet with which pegs,&lt;/i&gt; or &lt;i&gt;stakes,&lt;/i&gt; or &lt;i&gt;tent-pins, are driven.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

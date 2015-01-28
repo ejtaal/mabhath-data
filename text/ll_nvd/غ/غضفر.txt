@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'غضفرQ. 1<br>\
+غَضْفَرَ He (a jade, or hackney, TA) was,<br>\
+or became, heavy, or sluggish. (K, TA.)<br>\
+غَضْفَرٌ: see the next paragraph; the former,<br>\
+in two places.<br>\
+غُضَافِرٌ: see the next paragraph; the former,<br>\
+in two places.<br>\
+غَضَنْفَرٌ Big, thick, or rude, in body or person;<br>\
+(S, K;) as also ↓ غَضْفَرٌ, which is the original<br>\
+form; the ن in the former being augmentative:<br>\
+(Az, TA:) or simply, big, thick, or rude: applied<br>\
+to a man: (Lth, TA:) or rude, or coarse, [in disposition or in make,] and big, or thick: (TA:)<br>\
+as also ↓ غَنَضْفَرٌ and ↓ غَضْفَرٌ; (K;) applied to a<br>\
+man: (TA:) or big, or thick, (AA, TA.) in<br>\
+make, (TA,) and wrinkled; (AA, TA;) applied<br>\
+to a lion. (TA.) You say also أُذُنٌ غَضَنْفَرَةٌ,<br>\
+meaning, A big, or thick, fleshy, ear. (AO, L.)<br>\
+―<br>\
+-b2-  [Hence,] الغَضَنْفَرُ The lion; (Lth, S, K;) as<br>\
+also ↓ الغُضَافِرُ. (TS, K.)<br>\
+غَضَنْفَرٌ: see the next preceding paragraph.<br>\
+' } );

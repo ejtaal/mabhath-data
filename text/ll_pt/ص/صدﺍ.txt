@@ -1,0 +1,53 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;صدا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  صدا<br>\
+&lt;entryFree id=&quot;n23910&quot; key=&quot;صَدِيَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     صَدِيَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, L, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     صَدَاَ<br>\
+                  &lt;/form&gt;, (L,) inf. n. صَدَاٌ, (S, M,) said of a horse, (K, TA,) and of a kid, (S, TA,) [or a goat,] &lt;i&gt;He was of the colour termed&lt;/i&gt; <br>\
+                  صُدْاَة [i. e. &lt;i&gt;sorrel inclining to blackness;&lt;/i&gt; or &lt;i&gt;blackness intermixed,&lt;/i&gt; or &lt;i&gt;tinged over, with redness;&lt;/i&gt; or &lt;i&gt;a colour like that of the rust of iron;&lt;/i&gt; probably from the same verb in the sense next following]; (S, M, L, K, TA;) as also صَدُوَ, (K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     صَدُاَ<br>\
+                  &lt;/form&gt;; (TA; [and it is implied in the K that the latter verb is syn. with the former in all its senses;]) but the former verb is that which is commonly known, and that alone which is required by analogy as a verb denoting a colour, and the latter is not known to have been heard; (MF, TA;) and in the L it is said that the verb in this sense is صَدِيَ and ↓ <br>\
+      اِصَّدَاَ, this latter [formed from اِصْطَدَاَ, originally اِصْتَدَاَ,] of the measure اِفْتَعَلَ. (TA.) ―         -b2-  Also, (M, K,) صَدِيَ, (S, M, Msb, K,) aor. as above, (S, Msb, TA,) and so the inf. n., (S, TA,) said of iron, &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, rusty,&lt;/i&gt; or &lt;i&gt;rusted;&lt;/i&gt; (S, M, Msb, K;) in which sense it is said also of the like of iron. (M.)       -A2-  And صَدِيَ said of a man, &lt;i&gt;He stood erect, and looked.&lt;/i&gt; (K.)       -A3-  صَدَاَ المِرْا=ةَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     صَدَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. صَدْءٌ, (TK,) &lt;i&gt;He polished the mirror,&lt;/i&gt; (K, TA,) i. e., &lt;i&gt;removed from it the rust,&lt;/i&gt; (TA,) &lt;i&gt;in order to use it as a collyrium;&lt;/i&gt; (K, TA;) as also ↓ <br>\
+      صَدَّاَهَا, (K,) inf. n. تَصْدِيَةٌ. (TA.) [Whether the mirrors &lt;pb n=&quot;1660&quot; TEIform=&quot;pb&quot;/&gt; of the Arabs were made of bronze, or of what other metal they were made, is not said. See also 1 in art. حلا.]       -A4-  And, aor. as above, said of an owl, &lt;i&gt;He uttered a cry&lt;/i&gt; or &lt;i&gt;cries.&lt;/i&gt; (Sh, TA. [See also art. صدو.])    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     صَدَّاَ<br>\
+                  &lt;/form&gt; see the preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23911&quot; key=&quot;تصدّا لَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تصدّا لَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) as also تصدّع له, (TA,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تصدّى له, (K, TA,) which is the original, meaning تعرّض له [i. e. &lt;i&gt;He addressed,&lt;/i&gt; or &lt;i&gt;applied,&lt;/i&gt; or &lt;i&gt;directed, himself,&lt;/i&gt; or &lt;i&gt;his regard,&lt;/i&gt; or &lt;i&gt;attention,&lt;/i&gt; or &lt;i&gt;mind, to him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; &amp;amp;c.]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23912&quot; key=&quot;اِصَّدَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِصَّدَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, first sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23913&quot; key=&quot;صَدَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صَدَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; inf. n. of صَدِيَ [q. v.]. (S, M.) ―         -b2-  Also [a subst.] signifying The &lt;i&gt;rust&lt;/i&gt; of iron, (S, M, * TA,) and of copper and the like. (Har p. 481. [But there erroneously written صدا=ء.])       -A2-  Also A man &lt;i&gt;slender in body;&lt;/i&gt; (K, TA;) &lt;i&gt;light,&lt;/i&gt; or &lt;i&gt;active, therein:&lt;/i&gt; its ء is said to be substituted for ع. (TA. [See صَدَعٌ; and see also صَدًى.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23914&quot; key=&quot;صَدِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صَدِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [part. n. of صَدِيَ, q. v.]. ―         -b2-  One says, يَدِى مِنَ الحَدِيدِ صَدِيَةٌ <br>\
+                  &lt;i&gt;My hand is disagreeable in smell&lt;/i&gt; [&lt;i&gt;from the rust of iron&lt;/i&gt;]. (S.) ―         -b3-  And هُوَ صَاغِرٌ صَدِيٌ (assumed tropical:)  &lt;i&gt;He is one to whom disgrace,&lt;/i&gt; or &lt;i&gt;shame, and baseness,&lt;/i&gt; or &lt;i&gt;meanness, attach.&lt;/i&gt; (S, K.) ―         -b4-  See also اَصْدَاُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23915&quot; key=&quot;صُدْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صُدْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) in a horse, (S, K,) and in a goat, or kid, (S,) &lt;i&gt;A sorrel colour&lt;/i&gt; (شُقْرَةٌ) &lt;i&gt;inclining to blackness,&lt;/i&gt; (M, K, TA,) &lt;i&gt;the latter predominating:&lt;/i&gt; (TA:) or &lt;i&gt;blackness intermixed,&lt;/i&gt; or &lt;i&gt;tinged over, with redness&lt;/i&gt; [app. &lt;i&gt;like the rust of iron&lt;/i&gt;]. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23916&quot; key=&quot;اَصْدَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَصْدَاُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) applied to a horse, (K, TA,) or to a kid, (TA,) &lt;i&gt;Of a sorrel colour&lt;/i&gt; (i. e. &lt;i&gt;of the colour termed&lt;/i&gt; <br>\
+                  شُقْرَة) &lt;i&gt;inclining to blackness,&lt;/i&gt; (M, K, TA,) &lt;i&gt;the latter predominating:&lt;/i&gt; (TA:) or, applied to a horse, and to a goat, or kid, (S,) or applied to a kid, (K,) &lt;i&gt;of a black colour intermixed,&lt;/i&gt; or &lt;i&gt;tinged over, with redness&lt;/i&gt; [app. &lt;i&gt;like the rust of iron&lt;/i&gt;]: (S, K:) fem. صَدْا=ءُ (S, M, K,) and ↓ <br>\
+      صَدِيَةٌ. (M, L, TA.) And كُمَيْتٌ اَصْدَاُ [A &lt;i&gt;bay,&lt;/i&gt; or &lt;i&gt;dark bay,&lt;/i&gt; or &lt;i&gt;brown,&lt;/i&gt; horse,] &lt;i&gt;tinged over with dinginess.&lt;/i&gt; (S.) ―         -b2-  Also &lt;i&gt;Rusty,&lt;/i&gt; or &lt;i&gt;rusted;&lt;/i&gt; applied to iron and the like. (M.) ―         -b3-  And [hence] كَتِيبَةٌ صَدْا=ءُ, (M, and so in copies of the K,) or صَدْاًى, (K accord. to the TA,) and the former also, (TA,) [&lt;i&gt;A body of troops having their arms&lt;/i&gt; or &lt;i&gt;armour&lt;/i&gt;] &lt;i&gt;overspread with the rust of iron.&lt;/i&gt; (M, K.) ―         -b4-  And صَدْا=ءُ A land (اَرْضٌ) &lt;i&gt;of which the stones are of a red colour inclining to blackness, and rugged, not even with the ground, these stones having beneath them&lt;/i&gt; [&lt;i&gt;other&lt;/i&gt;] &lt;i&gt;rough stones, or, sometimes, soil and stones.&lt;/i&gt; (Sh, L.)   &lt;/entryFree&gt; <br>\
+' } );

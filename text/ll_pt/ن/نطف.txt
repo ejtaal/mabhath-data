@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>نطف</em>            1                  نطف<br>\
+<b>نَطَفٌ</b>               1     <br>\
+                     نَطَفٌ<br>\
+                     ذ<br>\
+                  <i>Earrings:</i> see a verse cited in art. سجد.    </entryFree> <br>\
+<b>نُطْفَةٌ</b>               1     <br>\
+                     نُطْفَةٌ<br>\
+                     ذ<br>\
+                  <i>Sperma</i> of a man (S, Msb, K) and of a woman. (Msb.)    </entryFree> <br>\
+<b>نَاطِفٌ</b>               1     <br>\
+                     نَاطِفٌ<br>\
+                     ذ<br>\
+                  <i>A kind of sweetmeat;</i> (Msb;) <i>i. q.</i> <br>\
+                  قُبَّيْطَى. (S, Msb.)   </entryFree> <br>\
+' } );

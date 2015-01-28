@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>جلهق</em>            1                  جلهق<br>\
+<b>جُلَاهِقٌ</b>               1     <br>\
+                     جُلَاهِقٌ<br>\
+                     جلاهق<br>\
+                  <i>Bullets,</i> syn. بُنْدُقٌ, (S, Msb, K,) or <i>rounded things,</i> (En-Nadr, TA,) <i>made of clay,</i> (En-Nadr, Msb, TA,) <i>which one shoots</i> [<i>from a cross-bow</i>]: (K:) n. un. with ة: (En-Nadr, Msb, TA:) a Persian word, arabicized; (Msb;) in Persian جُلَهْ, meaning “ a ball of thread; ” pl. جُلَهَا; applied also to “ a weaver; ” (S K;) i. e., جلها is so applied. (TA.) Hence, قَوْسُ <br>\
+                  الجُلَاهِقِ [<i>The cross-bow for shooting bullets</i>]. (S, Msb.)   </entryFree> <br>\
+            <div2 n=&quot;Quasi jlhm&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi جلهم<br>\
+<b>جَلْهَمَةٌ</b>               1     <br>\
+                     جَلْهَمَةٌ<br>\
+                     جلهمه<br>\
+                     جلهمة<br>\
+                  : see art. جله.   </entryFree> <br>\
+' } );

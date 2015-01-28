@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كثنب</em>            1                  كثنب<br>\
+<b>كَثْنَبٌ</b>               1     <br>\
+                     كَثْنَبٌ<br>\
+                     ذ<br>\
+                  , as also كَنْثَبٌ, <i>Hard, and strong,</i> or <i>robust:</i> (K:) but most of the writers on inflexion consider its ن augmentative. (TA.)   </entryFree> <br>\
+' } );

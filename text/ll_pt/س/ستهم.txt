@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>ستهم</em>            1                  ستهم<br>\
+<b>سُتْهُمٌ</b>               1     <br>\
+                     سُتْهُمٌ<br>\
+                     ذ<br>\
+                  <i>Large in the posteriors:</i> (K:) accord. to the S, <i>syn. with</i> <br>\
+                  اَسْتَهُ; [see this latter, in art. سته, in three places;] and the م is augmentative: (TA:) some explain it as <i>syn. with</i> <br>\
+                  اِسْتٌ: the author of the K [a mistake for the S], in art. سته, as meaning <i>large in the</i> <br>\
+                  اِسْت. (MF, TA.)   </entryFree> <br>\
+' } );

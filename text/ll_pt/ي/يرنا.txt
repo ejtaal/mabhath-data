@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>يرنا</em>            1                  يرنا<br>\
+<b>يَرْنَاَ لِحْيَتَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     يَرْنَاَ لِحْيَتَهُ<br>\
+                     ذ<br>\
+                   (K, TA; in the CK, [erroneously,] تَرَنَّاَ;) <i>He dyed his beard with</i> <br>\
+                  يرنّا. (K.) A strange verb as to its form, (K,) which [except in its final vowel] is that of an aorist, though it is a preterite. (TA.) Mentioned in the L in art. رنا (q. v.), on the authority of IJ; and there also by ISd; and AHei and others assert the ى to be augmentative. [If so, the verb is a quasi-quadriliteral-radical word.] F follows Sgh, in mentioning it here. (TA.)    </entryFree> <br>\
+<b>يُرَنَّاٌ</b>               1     <br>\
+                     يُرَنَّاٌ<br>\
+                     ذ<br>\
+                   (S, K) and يَرَنَّاٌ and يُرَنَّا=ءٌ (K) and يُرَنَّا (without ء) and (accord. to [the Bári&#39;, as mentioned in] the TA, art. رنا,) يَرْنَاٌ and يُرْنَاٌ and (accord. to MF, who omits the two forms here immediately preceding,) يَرَنَّاءٌ and يَرَنَّا, without ء, (TA,) <i>i. q.</i> <br>\
+                  حِنَّاءٌ (S, K) [The <i>plant Lawsonia inermis</i>]. See also art. رنا, where the word is written [erroneously in my opinion] يَرُنَّاٌ. Accord. to IB (not IJ [as in the CK]), the may only be omitted when the word is pronounced with dammeh to the ى. (TA.)   </entryFree> <br>\
+' } );

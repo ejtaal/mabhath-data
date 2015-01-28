@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>وشى</em>            1                  وشى<br>\
+<b>وَشَى</b>               1     <br>\
+                     وَشَى<br>\
+                     ذ<br>\
+                  , inf. n. وَشْىٌ, <i>He variegated,</i> or <i>figured,</i> a piece of cloth, or a garment; (Mgh, Msb, * K;) and <i>embellished it.</i> (K.) ―         -b2-  وَشَى <br>\
+                  بِهِ اـِلَى السُّلْطَانِ, (S, K,) or عِنْدَ السُّلْطَانِ, (Msb,) <i>He calumniated,</i> or <i>misrepresented, him to the Sultán.</i> (S, Msb, K.)    </entryFree> <br>\
+<b>شِيَةٌ</b>               1     <br>\
+                     شِيَةٌ<br>\
+                     ذ<br>\
+                  <i>Any colour differing from the main colour</i> of a horse, &amp;amp;c.; <i>a colour differing from the rest,</i> (S,) or <i>from that which generally pervades a thing.</i> ―         -b2-  لَا شِيَةَ فِيهِ <br>\
+                  <i>It is of one generally pervading colour, in which is no other colour.</i> ―         -b3-  شِيَةٌ [also] <i>A mark, sign, symptom,</i> or <i>token, by which a thing is known;</i> syn. عَلَامَةٌ; (Msb;) and مَخِيلَةٌ, which see.    </entryFree> <br>\
+<b>وَشْىٌ</b>               1     <br>\
+                     وَشْىٌ<br>\
+                     ذ<br>\
+                  , originally an inf. n., <i>A kind of variegated, or figured, cloth, or garment.</i> (Mgh, Msb. *) ―         -b2-  وَشْىٌ The <i>variegation, figured work, or figuring,</i> of a garment; <i>making</i> it <i>partycoloured.</i> ―         -b3-  وَشى sometimes signifies <i>A natural diversity of colours:</i> see رُمْلَةٌ. ―         -b4-  وَشْىٌ of a sword: see فِرِنْدٌ.    </entryFree> <br>\
+<b>شِيَوِىٌّ</b>               1     <br>\
+                     شِيَوِىٌّ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>وَشَوِىٌّ</b>               1     <br>\
+                     وَشَوِىٌّ<br>\
+                     ذ<br>\
+                   rel. n. of شِيَةٌ, the rad. و being restored; (S in the present art.;) and so ↓ <br>\
+      شِيَوِىٌّ, like عِدَوِىٌّ [of عِدَةٌ]. (S in art. وعد.)    </entryFree> <br>\
+<b>قَوْلٌ مَوْشِىٌّ بِهِ</b>               1     <br>\
+                     قَوْلٌ مَوْشِىٌّ بِهِ<br>\
+                     ذ<br>\
+                   [<i>A saying misrepresented</i>]. (TA in art. قت, in an explanation of قَوْلٌ مَقْتُوتٌ.) ―         -b2-  مَوْشِىٌّ is used by Aboo-Dhu-eyb to signify <i>A musical reed-pipe.</i> (TA, art. نوب.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>كمل</em>            1                  كمل<br>\
+<b>كَمَلَ</b>               1     <br>\
+                     كَمَلَ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, was,</i> or <i>became, perfect;</i> and sometimes, <i>it was,</i> or <i>became, complete, entire, whole,</i> or <i>full;</i> which latter signification is more properly expressed by تَمَّ, which see.    </entryFree> <br>\
+<b>كَاملٌ</b>               1     <br>\
+                     كَاملٌ<br>\
+                     ذ<br>\
+                  <i>Complete</i> with respect to bodily vigour, having attained the usual term thereof. See لَيْثُ عِفِرِّينَ, art. عفر. Also <i>Consummate, perfect.</i>    <br>\
+<b>عَيْنُ الكَمَالِ</b>               1     <br>\
+                     عَيْنُ الكَمَالِ<br>\
+                     ذ<br>\
+                  : see فَقَاَ.    </entryFree> <br>\
+<b>مُكَمِّلَاتُ</b>               1     <br>\
+                     مُكَمِّلَاتُ<br>\
+                     ذ<br>\
+                  <i>Supererogatory acts of religious service.</i>   <br>\
+' } );

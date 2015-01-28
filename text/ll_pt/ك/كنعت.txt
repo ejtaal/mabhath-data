@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كنعت</em>            1                  كنعت<br>\
+<b>كَنْعَتٌ</b>               1     <br>\
+                     كَنْعَتٌ<br>\
+                     ذ<br>\
+                  . <i>A species of fish;</i> (AO, TS, L, K;) as also كَنْعَدٌ; from which it appears to be formed by the substitution of ت for د. (TS, L.)   </entryFree> <br>\
+' } );

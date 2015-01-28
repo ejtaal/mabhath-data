@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>ذاف</em>            1                  ذاف<br>\
+<b>ذَاَفَ</b>               1     <br>\
+                     ذَاَفَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     ذَاََ<br>\
+                  , inf. n. ذَاَفَانٌ, [in the CK ذَاْفان,] <i>He died:</i> (Moheet, K, TA:) [or <i>he died quickly:</i> see ذَاْفٌ, which is app. an inf. n, as also, perhaps, ذُوَافٌ.]       -A2-  ذَاْفَهُ, and ذَاَفَ عَلَيْهِ, inf. n. ذَاْفٌ and ذَاَفٌ, <i>He despatched him;</i> namely, a wounded man; or <i>hastened and completed his slaughter.</i> (M.) ―         -b2-  And يَذْاَفُ is also said of poison [app. as meaning <i>It kills quickly</i>]. (Lth, T.) ―         -b3-  مَرَّ <br>\
+                  يَذْاَفُهُمْ <br>\
+                  <i>He passed by driving them away,</i> or <i>pursuing them,</i> or <i>destroying them.</i> (M.)    </entryFree> <br>\
+<b>انذاف</b>               1     <br>\
+                     انذاف<br>\
+                     ذ<br>\
+                  <i>His heart broke</i> (اِنْقَطَعَ فُوَادُهُ). (K.) [See its syn. انذعف.]    </entryFree> <br>\
+<b>ذَاْفٌ</b>               1     <br>\
+                     ذَاْفٌ<br>\
+                     ذ<br>\
+                  <i>Quickness of death;</i> (Lth, T, M, K;) as also ↓ <br>\
+      ذُوَافٌ. (K.) [See 1, first sentence.] ―         -b2-  Also an inf. n. of ذَاَفَهُ. (M.)    </entryFree> <br>\
+<b>ذَاْفَانٌ</b>               1     <br>\
+                     ذَاْفَانٌ<br>\
+                     ذ<br>\
+                  : see ذِيْفَانٌ. ―         -b2-  Accord. to the K, it signifies also <i>Death:</i> but the correct word seems to be ذَاَفَانٌ, [see 1, first sentence,] as in the Tekmileh. (TA.)    </entryFree> <br>\
+<b>ذُوْفَانٌ</b>               1     <br>\
+                     ذُوْفَانٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>ذِيْفَانٌ</b>               1     <br>\
+                     ذِيْفَانٌ<br>\
+                     ذ<br>\
+                   (Lth, T, M, K) <i>Poison that kills quickly</i> (يَذْاَفُ): (Lth, T:) or simply <i>poison;</i> (M, K;) as also ↓ <br>\
+      ذُوْفَانٌ and ↓ <br>\
+      ذَاْفَانٌ, (K, TA,) all with ء (TA,) and ذِيفَانٌ (A &#39;Obeyd, T, M, K) and ذَيْفَانٌ (A &#39;Obeyd, T, K) and ذَيَفَانٌ and ذُوفَانٌ, (IDrd, K,) and ↓ <br>\
+      ذُوَافٌ. (T, K: the last, in the TA, without ء.)    </entryFree> <br>\
+<b>ذُوَافٌ</b>               1     <br>\
+                     ذُوَافٌ<br>\
+                     ذ<br>\
+                   Death <i>that despatches quickly;</i> (T, M, K;) as also ذُعَافٌ; thought by Yaakoob to be an instance of permutation. (M.) ―         -b2-  See also ذِيْفَانٌ.       -A2-  And see ذَاْفٌ.   </entryFree> <br>\
+' } );

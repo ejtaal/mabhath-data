@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'انقعف: see انقعث; He died. (TA, art.<br>\
+قعص.)<br>\
+' } );

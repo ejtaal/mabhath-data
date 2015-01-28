@@ -1,0 +1,90 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وبا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وبا<br>\
+&lt;entryFree id=&quot;n41544&quot; key=&quot;وَبِيَتِ الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَبِيَتِ الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor. تِيبَاُ, (K, TA,) or تَيْبَاُ, (CK,) and تَوْبَاُ, (accord. to the K: in the (S and) L and other lexicons, only this last aor. is mentioned; but it is asserted on the authority of AZ, who says that this form of the pret. is of the dial. of the Kusheyrees, that the aor. is تِيبَا, with kesr to the ت, [contr. to analogy,] TA,) inf. n. وَبَاٌ; (K;) or وَبَا=ءَةٌ; (S;) and وَبِيَت, aor. تَيْبَا and تَوْبَا; (Moo&#39;ab and Jámi&#39;) and وَبُوَت, inf. n. وَبَا=ءٌ and وَبَا=ءَةٌ and اَبَا= and اَبَا=ةٌ (K, the و being changed into ا in the latter two); and with و without      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     وَبُاَ<br>\
+                  &lt;/form&gt;, [i. e., وَبُوَت]; (Moo&#39;ab and Jámi&#39;] and وُبِيَت, (S, K,) like عُنِىَ, [i. e., pass. in form, but neut. in signification,] (K,) aor. تِيبَاُ, (L and other lexicons,) in which, the و being changed into ى, the vowel of the first letter necessarily becomes kesr, (TA,) or تُوبَاُ, (S,) inf. n. وَبْءٌ, (K, TA: in the CK وَبَاٌ,) or وَبَا=ءٌ; (S, L, &amp;amp;c.;) and ↓ <br>\
+      اَوْبَاَت, (S, K,) inf. n. اـِيبَا=ءٌ; (TA;) &lt;i&gt;The land was,&lt;/i&gt; or &lt;i&gt;became, afflicted with&lt;/i&gt; <br>\
+                  وَبَا: (K:) or, &lt;i&gt;much afflicted with disease.&lt;/i&gt; (S.)       -A2-  وَبَاَ, aor. يَوْبَاُ; (K; contr. to rule, which requires that the aor. should be يَبَا; MF;) and ↓ <br>\
+      وبّا; &lt;i&gt;He put&lt;/i&gt; the utensils, or goods, &lt;i&gt;one upon another;&lt;/i&gt; or &lt;i&gt;packed&lt;/i&gt; them &lt;i&gt;up:&lt;/i&gt; or &lt;i&gt;he prepared, set in order,&lt;/i&gt; or &lt;i&gt;arranged,&lt;/i&gt; them; syn. عَبَاَ. (K.)       -A3-  وَبَاَ اـِلَيْهِ; (S, K: Ibn-El-Mukarram says, I think that Th has mentioned وَبَاْتُ, without tesh-deed; but I am not confident of it; TA;) and ↓ <br>\
+      اوبا, inf. n. اـِيْبَا=ءٌ; (S, K;) dial. vars. of وَمَاَ and اَوْمَاَ; (S;) &lt;i&gt;He made a sign to him:&lt;/i&gt; (S, K:) or اوبا اليه signifies &lt;i&gt;he made a sign to him with his fingers, forwards, that he should approach;&lt;/i&gt; and اوما اليه “ he made a sign to him with his fingers, backwards, that he should retire, or remain behind. ” So accord. to the K; but this is at variance with what the leading lexicographers have transmitted. In the L it is said, وبا اليه and اوبا are dial. syns. of وما and اوما he made a sign to him: or, accord. to some, اوما <br>\
+                  اليه signifies “ he made a sign with his hand to him, (i. e., to a person before him,) turning his fingers towards the palm of his hand, in order that he should approach him; ” [in doing which, the palm of the hand is held towards the person beckoned;] and ↓ <br>\
+      اوبا اليه <br>\
+                  &lt;i&gt;he made a sign to him;&lt;/i&gt; (i. e., to a person behind him,) &lt;i&gt;opening his fingers&lt;/i&gt; [&lt;i&gt;from the palm&lt;/i&gt;] &lt;i&gt;towards the back of the hand, in order that he should retire,&lt;/i&gt; or &lt;i&gt;remain behind;&lt;/i&gt; [in doing which, the palm of his hand is towards himself]. El-Ferezdak says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        تَرَى النَّاسَ اـِنْ سِرْنَا يَسِيرُونَ خَلْفَنَا<br>\
+                     &lt;L&gt;<br>\
+                        النَّاسِ وَقَّفُوا ↓ <br>\
+      وَاـِنْ نَحْنُ وَبَّاْنَا اـِلَى<br>\
+                  &lt;/quote&gt; [&lt;i&gt;If we journey on, thou seest the people journey on behind us; and if we make a sign to the people to remain behind, they stop, one after another&lt;/i&gt;]. ↓ <br>\
+      اَوْبَاْنَا is also read in this verse for وَبَّاْنَا. Ibn-Buzruj says, that اوما signifies “ he made a sign with the eyebrows, and the eyes; ” and ↓ <br>\
+      وبّا, &lt;i&gt;he made a sign with the hands, and a garment, and the head.&lt;/i&gt; (TA.) ―         -b2-  وَبَاَتْ اـِلَيْهِ, aor. تَبَاُ, &lt;i&gt;She&lt;/i&gt; (a camel) &lt;i&gt;yearned towards it&lt;/i&gt; [i. e., towards her young one]; or &lt;i&gt;uttered to it the cry produced by yearning:&lt;/i&gt; syn. حَنَّتْ. (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     وَبَّاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41545&quot; key=&quot;اوبا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اوبا<br>\
+                     ذ<br>\
+                  &lt;i&gt;It became unwholesome:&lt;/i&gt; syn. صَارَ وَبِيْاً. (TA.)       -A2-  See 1.       -A3-  اُوبِيَ <br>\
+                  &lt;i&gt;He&lt;/i&gt; (a young weaned camel) &lt;i&gt;suffered in the stomach from indigestion, in consequence of repletion.&lt;/i&gt; (K, TA.)       -A4-  مَاءٌ لَا <br>\
+                  يُوبِيُ, like يُوبِى, &lt;i&gt;Water that does not fail,&lt;/i&gt; or &lt;i&gt;stop.&lt;/i&gt; The like is said of pasture. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَوَبَّاَ<br>\
+                  &lt;/form&gt; see 10.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41546&quot; key=&quot;استوبا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استوبا<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, K,) and ↓ <br>\
+      توبّا (TA) &lt;i&gt;He found,&lt;/i&gt; or &lt;i&gt;deemed,&lt;/i&gt; a country, (S, K,) or water, (TA,) &lt;i&gt;unhealthy,&lt;/i&gt; or &lt;i&gt;unwholesome:&lt;/i&gt; (K, TA:) [see وَبَاٌ:] or, &lt;i&gt;much afflicted with disease.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41547&quot; key=&quot;وَبَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَبَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      وَبَا=ءٌ, (S, K,) and also without      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     وَبُاَ<br>\
+                  &lt;/form&gt;, [وَبًا,] (TA,) &lt;i&gt;Plague,&lt;/i&gt; or &lt;i&gt;pestilence;&lt;/i&gt; syn. طَاعُونٌ: (K:) or &lt;i&gt;a common,&lt;/i&gt; or &lt;i&gt;general,&lt;/i&gt; [or &lt;i&gt;an epidemic,&lt;/i&gt;] &lt;i&gt;disease:&lt;/i&gt; (S:) or &lt;i&gt;any such disease:&lt;/i&gt; (K:) or &lt;i&gt;a quickness, and commonness, of death among men.&lt;/i&gt; (TA.) Accord. to Ibn-En-Nefees, it is &lt;i&gt;a corruption happening to the substance of the air, by reason of causes in the heavens&lt;/i&gt; or &lt;i&gt;the earth; as stinking water, and carcases, such as are the result of bloody battles.&lt;/i&gt; Accord. to the hakeem Dá-ood, it is &lt;i&gt;a change effected in the air by events in the higher regions, as the conjunction of beaming stars; and by events in the lower regions, as bloody battles, and the opening of graves, and the ascending of putrid exhalations; with which causes conspire the changes of the seasons and elements, and the revolutions of the universe.&lt;/i&gt; They mention also its signs; among which are fever, small-pox, defluxions, itch or scab, tumours, &amp;amp;c. What is said in the Nuzheh necessarily implies that the طاعون is one of the different kinds of وبا; as the physicians hold to be the case: but the opinion which the &lt;pb n=&quot;2915&quot; TEIform=&quot;pb&quot;/&gt; critics among the professors of practical law and the relaters of traditions hold is, that these two diseases are distinct, the one from the other; the وبا being &lt;i&gt;an unwholesomeness in the air, in consequence of which diseases become common among men;&lt;/i&gt; and the طاعون being that kind [of disease] with which men are smitten by the jinn, or genii: an opinion which they corroborate by the words in a trad. اـِنَّهُ وَحْزُ اَعْدَايِكُمْ مِنَ الجِنِّ [Verily it is the unpenetrating thrusting of your enemies among the jinn]. (TA.) The pl. of وَبَاٌ is اَوْبَا=ءُ; and of ↓ <br>\
+      اَوْبِيَةٌ، وَبَا=ءٌ (S, K, TA) or اَوْبِيَةٌ. (CK.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41548&quot; key=&quot;بِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;state of&lt;/i&gt; a land &lt;i&gt;being afflicted with&lt;/i&gt; <br>\
+                  وَبَا. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41549&quot; key=&quot;اَرْضٌ وَبِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْضٌ وَبِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and ↓ <br>\
+      وَبِيْيَةٌ, (S, K,) and ↓ <br>\
+      مَوْبُوْءَةٌ, (S, L,) and مُوبِيَةٌ, (S, K,) &lt;i&gt;a land much,&lt;/i&gt; or &lt;i&gt;often, afflicted with&lt;/i&gt; <br>\
+                  وَبَا: (K:) or, &lt;i&gt;much afflicted with disease.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41550&quot; key=&quot;وَبَاْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَبَاْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see وَبَاٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41551&quot; key=&quot;وَبِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَبِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Sick; unwell;&lt;/i&gt; (IAar:) See ارْضٌ وَبِيَةٌ. ―         -b2-  وَبِىْءٌ <br>\
+                  &lt;i&gt;Unwholesome&lt;/i&gt; water. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41552&quot; key=&quot;مُوبِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوبِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Engendering&lt;/i&gt; <br>\
+                  وَبَا. (TA.) ―         -b2-  جُرْعَةَ شَرُوبٍ <br>\
+                  اَنْفَعُ مِنْ عَذْبٍ مُوبٍ <br>\
+                  &lt;i&gt;A draught of brackish water is more profitable than sweet water that engenders&lt;/i&gt; <br>\
+                  وَبَا. (A trad.) Here the      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     وَبُاَ<br>\
+                  &lt;/form&gt; is omitted in the last word to assimilate it to شروب. It is a proverb, applied to two men; one, superior in station, and more slim; the other, inferior in station, but more useful. (TA.) ―         -b3-  See اَرْضٌ وَبِيَةٌ. ―         -b4-  مُوبِيٌ Water &lt;i&gt;that is little in quantity; and failing,&lt;/i&gt; or &lt;i&gt;stopping.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41553&quot; key=&quot;مَوْبُوْءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَوْبُوْءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرُضٌ وَبِيَهٌ.   &lt;/entryFree&gt; <br>\
+' } );

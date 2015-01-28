@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'نطشنَطْشَانُ an imitative sequent to عَطْشَانُ; (S,<br>\
+K;) not used alone. (S, art. عطش.)<br>\
+نطع &amp;c.<br>\
+See Supplement<br>\
+' } );

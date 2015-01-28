@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>فس</em>            1                  فس<br>\
+<b>فِسْفِسَةٌ</b>               1     <br>\
+                     فِسْفِسَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  فِصْفِصَةٌ, i. e. رَطْبَةٌ: (K:) the second of these is more known than the first; both of which are arabicized, from the Persian اـِسْپِسْت [or اـِسْفِسْت]. (TA.)   </entryFree> <br>\
+' } );

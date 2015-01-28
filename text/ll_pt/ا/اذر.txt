@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>اذر</em>            1                  اذر<br>\
+<b>ا=ذَارُ</b>               1     <br>\
+                     ا=ذَارُ<br>\
+                     ذ<br>\
+                  <i>The sixth of the Greek</i> [or <i>Syrian] months [corresponding to March O. S.</i>]. (K.) [This is not to be confounded with ا=ذَرْ or ا=ذُرْ, which is the ninth month of the Persian calendar.]   </entryFree> <br>\
+' } );

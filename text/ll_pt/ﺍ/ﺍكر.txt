@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اَكَرَ&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اَكَرَ<br>\
+&lt;entryFree id=&quot;n983&quot; key=&quot;اَكَرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَكَرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَََِ<br>\
+                  &lt;/form&gt;, inf. n. اَكْرٌ, &lt;i&gt;He tilled&lt;/i&gt; the ground; &lt;i&gt;ploughed&lt;/i&gt; it &lt;i&gt;up for sowing.&lt;/i&gt; (Msb.) ―         -b2-  &lt;i&gt;He dug&lt;/i&gt; the ground. (TA.) ―         -b3-  &lt;i&gt;He cut,&lt;/i&gt; or &lt;i&gt;dug,&lt;/i&gt; a river, or canal, or rivulet. (Msb.) ―         -b4-  And اَكَرَ, aor      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَََُ<br>\
+                  &lt;/form&gt;, (TA,) inf. n. as above; (K;) and ↓ <br>\
+      تاكّر; (K;) &lt;i&gt;He dug a hollow,&lt;/i&gt; or &lt;i&gt;cavity, in the ground, for water to collect therein and to be baled out therefrom clear:&lt;/i&gt; (K, TA:) or اُكَرَّا ↓ <br>\
+      تاكّر signifies &lt;i&gt;he dug hollows,&lt;/i&gt; or &lt;i&gt;cavities, in the ground.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n984&quot; key=&quot;ا=كرهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=كرهُ<br>\
+                     ا=كره<br>\
+                     ا=كرة<br>\
+                  &lt;/form&gt;, (TK.) inf. n. مُوَاكَرَةٌ, (S, K,) &lt;i&gt;He made a contract,&lt;/i&gt; or &lt;i&gt;bargain, with him to till and sow and cultivate land for a share of its produce;&lt;/i&gt; syn. of the inf. n. مُخَابَرَةٌ. (S, K, TA.) The doing of this is forbidden. (TA.) &lt;pb n=&quot;71&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاََََّ<br>\
+                  &lt;/form&gt; see 1, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n985&quot; key=&quot;اُكْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُكْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;A hollow,&lt;/i&gt; or &lt;i&gt;cavity, dug in the ground,&lt;/i&gt; (S, Msb, K,) &lt;i&gt;in which water collects, and from which it is baled out clear:&lt;/i&gt; (K:) pl. اُكَرٌ. (S, Msb.)       -A2-  Also a dial. var. of كُرَةٌ, (K,) [&lt;i&gt;A ball&lt;/i&gt;] &lt;i&gt;with which one plays:&lt;/i&gt; (TA:) [and &lt;i&gt;a sphere,&lt;/i&gt; or &lt;i&gt;globe:&lt;/i&gt;] but it is of weak authority. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n986&quot; key=&quot;اـِكَارَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِكَارَةٌ<br>\
+                     اكار<br>\
+                     اكاره<br>\
+                     اكارة<br>\
+                     اـكارة<br>\
+                     اكاره<br>\
+                     اكارة<br>\
+                     كارى<br>\
+                  &lt;/form&gt;, as used in practical law, &lt;i&gt;Land which is given by its owners to men who sow and cultivate it&lt;/i&gt; [app. &lt;i&gt;for a certain share of its produce:&lt;/i&gt; see 3]. (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n987&quot; key=&quot;اَكَّارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَكَّارٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A tiller,&lt;/i&gt; or &lt;i&gt;cultivator, of land:&lt;/i&gt; (Msb, K:) pl. اَكَرَةٌ; as though it were pl. of ا=كِرٌ, (S, Msb, K,) like as كَفَرَةٌ is pl. of كَافِرٌ. (Msb.)   &lt;/entryFree&gt; <br>\
+' } );

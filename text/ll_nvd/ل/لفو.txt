@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'لفو6<br>\
+تَلَافَاهُ i. q. تَدَارَكَهُ [He repaired it; a meaning well known]; (S, Msb, K, TA;) namely, a<br>\
+short-coming; or failing, or falling short, of what<br>\
+was requisite, or due; and an inconsistent act.<br>\
+(TA.) You say, هٰذَا أَمْرٌ لَا يُتَلَافَى [This is an<br>\
+affair that will not be repaired]. (TA.) And<br>\
+تَلَافَى أَمْرَهُمْ بِالصُّلْحِ [He repaired their condition<br>\
+by peace, or reconciliation]. (EM, p. 117.) See<br>\
+دَقَّهُ<br>\
+لَفَاةٌ: see لفَاتٌ.<br>\
+' } );

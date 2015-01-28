@@ -1,0 +1,53 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ذار&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ذار<br>\
+&lt;entryFree id=&quot;n13618&quot; key=&quot;ذَيِرَ عَلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ذَيِرَ عَلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, * K, * TA,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ذَاََ<br>\
+                  &lt;/form&gt;, (K,) inf. n. ذَاَرٌ, (M,) &lt;i&gt;He was angry with him:&lt;/i&gt; (M, * K, * TA:) &lt;i&gt;he was enraged against him,&lt;/i&gt; namely his enemy, &lt;i&gt;and prepared to spring upon him.&lt;/i&gt; (Lth.) ―         -b2-  &lt;i&gt;He became emboldened against him.&lt;/i&gt; (S * K, * TA.) ―         -b3-  ذَيِرَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ذَاََ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He became contracted in his bosom, and evil in his disposition.&lt;/i&gt; (Ibn-Es-Seed.) ―         -b4-  &lt;i&gt;He was frightened,&lt;/i&gt; or &lt;i&gt;terrified; he feared,&lt;/i&gt; or &lt;i&gt;was afraid.&lt;/i&gt; (M, K.) ―         -b5-  &lt;i&gt;He was disdainful,&lt;/i&gt; or &lt;i&gt;averse&lt;/i&gt; [from a person or thing]; or &lt;i&gt;he disdained,&lt;/i&gt; or &lt;i&gt;scorned:&lt;/i&gt; (K:) &lt;i&gt;he became affected with aversion and disapprobation:&lt;/i&gt; &#39;Obeyd Ibn-El-Abras says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        ذَيِرُوا لِقَتْلَى عَامِرٍ وَتَغَضَّبُوا<br>\
+                  &lt;/quote&gt; meaning &lt;i&gt;They became affected with aversion and disapprobation on account of the slain of &#39;Ámir&lt;/i&gt; [&lt;i&gt;and became angry&lt;/i&gt;]: (T, S:) or, as some say, &lt;i&gt;were disdainful,&lt;/i&gt; or &lt;i&gt;averse, thereat.&lt;/i&gt; (T.) ―         -b6-  ذَيِرَهُ, (aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ذَاََ<br>\
+                  &lt;/form&gt;, TA,) &lt;i&gt;He disliked,&lt;/i&gt; or &lt;i&gt;hated, it, and turned away,&lt;/i&gt; or &lt;i&gt;back, from it.&lt;/i&gt; (S, K.) ―         -b7-  ذَيِرَتْ عَلَىزَوْجِهَا, (As, S, K,) and ↓ <br>\
+      ذَا=ءَرَتْ, (K,) contracted by El-Hoteiäh into ذَارَتْ, (TA,) [see also art. ذر,] &lt;i&gt;She was disobedient to her husband, and hated him;&lt;/i&gt; (As, S, K;) &lt;i&gt;was averse from him; and became emboldened against him.&lt;/i&gt; (As, S.) ―         -b8-  ذَيِرَ بِالشَّىْءِ <br>\
+                  &lt;i&gt;He became accustomed,&lt;/i&gt; or &lt;i&gt;habituated, to the thing.&lt;/i&gt; (S, K.)       -A2-  ذاَرَ النَّاقَةَ <br>\
+                  &lt;i&gt;He smeared the she-camels&#39; teats with&lt;/i&gt; <br>\
+                  ذِيَار, &lt;i&gt;that her young one might not such her.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13619&quot; key=&quot;ذَا=ءَرَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ذَا=ءَرَتْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1. ―         -b2-  Also &lt;i&gt;She&lt;/i&gt; (a camel) &lt;i&gt;was averse from her young one when she brought it forth.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13620&quot; key=&quot;اَذْاَرَهُ عَلَيْهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَذْاَرَهُ عَلَيْهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He made him angry with him.&lt;/i&gt; (M, K. *) A &#39;Obeyd has transposed, and then changed, one of its letters, saying اَذْرَانِى, which is a mistake. (M.) ―         -b2-  اذارهُ, (inf. n. اـِذْا=رٌ, AZ, S,) &lt;i&gt;He excited him to animosity;&lt;/i&gt; (AZ, T, S;) &lt;i&gt;incited him;&lt;/i&gt; (AZ, S, M, K;) &lt;i&gt;emboldened him;&lt;/i&gt; (K;) بِصَاحِبِهِ [&lt;i&gt;against his companion&lt;/i&gt;]. (AZ, S, M.) ―         -b3-  اذارهُ اـِلَى شَىْءٍ, (M, K, *) and اذارهُ شَيْيًا, (TA,) &lt;i&gt;He constrained&lt;/i&gt; or &lt;i&gt;compelled&lt;/i&gt; or &lt;i&gt;necessitated him to have recourse to,&lt;/i&gt; or &lt;i&gt;to do, a thing.&lt;/i&gt; (M, K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13621&quot; key=&quot;ذَيِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَيِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ذَايِرٌ, in two places. ―         -b2-  اـِنَّ شُوُونَكَ لَذَيِرَةٌ (S, K *) &lt;i&gt;Verily thy tears are accompanied by a breathing,&lt;/i&gt; or &lt;i&gt;sighing,&lt;/i&gt; (تَنَفُّس,) &lt;i&gt;like that of the angry.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13622&quot; key=&quot;ذِيَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذِيَارٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Fresh camels&#39; or similar dung,&lt;/i&gt; (بَعَر,) &lt;i&gt;mixed with dust,&lt;/i&gt; or &lt;i&gt;earth, with which a she-camel&#39;s teats are smeared, that she may not be sucked.&lt;/i&gt; (M, * K, * TA.) [See also art. ذير.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13623&quot; key=&quot;ذَايِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَايِرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Angry;&lt;/i&gt; (IAar, T, K;) as also ↓ <br>\
+      ذَيِرٌ. (K.) ―         -b2-  &lt;i&gt;Contracted in the bosom, and evil in disposition.&lt;/i&gt; (Ibn-Es-Seed.) ―         -b3-  &lt;i&gt;Disdaining,&lt;/i&gt; or &lt;i&gt;averse&lt;/i&gt; [from a person or thing]: &lt;i&gt;disdainful; scornful.&lt;/i&gt; (IAar, T.) ―         -b4-  A woman &lt;i&gt;disobedient to her husband, and hating him;&lt;/i&gt; (S, K;) &lt;i&gt;averse from him; and emboldened against him;&lt;/i&gt; (S;) as also ↓ <br>\
+      ذَيِرٌ, and ↓ <br>\
+      مُذَايِرٌ: (K:) [all without ذَايِرٌ:] and in a similar sense ذَايِرٌ is applied to a man. (S, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n13624&quot; key=&quot;مُذَايِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُذَايِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ذَايِرٌ. ―         -b2-  Also, [without ة,] A she-camel &lt;i&gt;averse from her young one when she has just brought it forth:&lt;/i&gt; (A &#39;Obeyd, S, K:) or &lt;i&gt;that makes a show of affection with her nose&lt;/i&gt; [&lt;i&gt;by smelling her young one&lt;/i&gt;] (تَرْاَمُ بِاَنْفِهَا), &lt;i&gt;and has not true love:&lt;/i&gt; (S, M, K:) or &lt;i&gt;evil in disposition.&lt;/i&gt; (M.)   &lt;/entryFree&gt; <br>\
+' } );

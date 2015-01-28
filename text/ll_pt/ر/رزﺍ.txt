@@ -1,0 +1,59 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;رزا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  رزا<br>\
+&lt;entryFree id=&quot;n15358&quot; key=&quot;رَزَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     رَزَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَزَاَ<br>\
+                  &lt;/form&gt;, inf. n. رُزْءٌ and مَرْزِيَةٌ, &lt;i&gt;He got,&lt;/i&gt; or &lt;i&gt;obtained, from him&lt;/i&gt; good (S, K) of any kind. (S.) And رَزَاَ فُلَانٌ فُلَانًا <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  برّه; [a mistake, through an oversight, for قَبِلَ بِرَّهُ; i. e. &lt;i&gt;Such a one accepted the bounty of such a one;&lt;/i&gt;] as also رَزَاهُ, without ء: the former said by AM to be the original. (TA.) And رَزَاَ الشَّىْءَ <br>\
+                  &lt;i&gt;He took from the thing, diminished it, lessened it,&lt;/i&gt; or &lt;i&gt;impaired it;&lt;/i&gt; (K;) and ↓ <br>\
+      ترازاهُ signifies the same; or &lt;i&gt;he took from it, diminished it,&lt;/i&gt; &amp;amp;c., &lt;i&gt;by little and little.&lt;/i&gt; (JM.) You say, رَزَاَهُ مَالَهُ, and رَزِيَهُ مَالَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَزَاَ<br>\
+                  &lt;/form&gt;, inf. n. رُزْءٌ, &lt;i&gt;He got,&lt;/i&gt; or &lt;i&gt;obtained, somewhat of his property;&lt;/i&gt; as also مَالَهُ ↓ <br>\
+      ارتزاهُ. (K.) And مَا رَزَاْتُهُ مَالَهُ, (S,) and مَا رَزِيْتُهُ مَالَهُ, (S, K, *) &lt;i&gt;I did not take from him of his property;&lt;/i&gt; or &lt;i&gt;did not diminish to him his property.&lt;/i&gt; (S, K. *) And مَا رَزِيْتُهُ شَيْيًا <br>\
+                  &lt;i&gt;I did not take from him,&lt;/i&gt; or &lt;i&gt;it, aught.&lt;/i&gt; (Mgh.) And مَا رَزَاَ فُلَانًا شَيْيًا <br>\
+                  &lt;i&gt;He did not get,&lt;/i&gt; or &lt;i&gt;obtain, from such a one aught of his property;&lt;/i&gt; and &lt;i&gt;did not take from him aught thereof.&lt;/i&gt; (TA.) And مَا رَزَاْتُهُ زِبَالًا <br>\
+                  &lt;i&gt;I did not take from him,&lt;/i&gt; or &lt;i&gt;it, as much as an ant would carry with its mouth:&lt;/i&gt; (Har p. 197:) or thus originally, but meaning, &lt;i&gt;anything.&lt;/i&gt; (S in art. زبل.) And مَا رَزَاْنَا مِنْ مَايِكَ شَيْيًا <br>\
+                  &lt;i&gt;We took not of,&lt;/i&gt; or &lt;i&gt;from, thy water, anything:&lt;/i&gt; occurring in a trad. (TA.) In another trad., as some relate it, رَزِينَا occurs for رَزِيْنَا, which is the original. (IAth.) Accord. to AZ, [however,] one says, رُزِيْتُهُ, meaning [&lt;i&gt;I had it taken,&lt;/i&gt; or &lt;i&gt;received, from me;&lt;/i&gt; or, &lt;i&gt;virtually,&lt;/i&gt;] &lt;i&gt;it was taken,&lt;/i&gt; or &lt;i&gt;received, from me;&lt;/i&gt; but not رُزِيتُهُ. (TA.) [Hence, when relating to a moral attribute, or the like, it virtually means (assumed tropical:)  &lt;i&gt;It was experienced from me:&lt;/i&gt; see a verse cited voce مُتْلَدٌ, in art. تلد.] You say also, هُوَ يُرْزَاُ, [virtually] meaning &lt;i&gt;He is a bountiful person; one whose gratuitous gifts people obtain.&lt;/i&gt; (Ham p. 722.) And اـِنَّهُ لَقَليِلُ الرُّزْءِ مِنَ الطَّعَامِ <br>\
+                  &lt;i&gt;Verily he is one who gets little of the food.&lt;/i&gt; (TA.) ―         -b2-  رَزَاْتُهُ also signifies &lt;i&gt;I afflicted him with an affliction, a misfortune,&lt;/i&gt; or &lt;i&gt;a calamity.&lt;/i&gt; (Msb.) And رَزَاَتْهُ <br>\
+                  رَزِيْيَةٌ <br>\
+                  &lt;i&gt;An affliction, a misfortune,&lt;/i&gt; or &lt;i&gt;a calamity, befell him.&lt;/i&gt; (S, Msb.) It is said in a trad., respecting a woman who came asking for her son, اـِنْ اُرْزَاِ اْبْنِى فَلَمْ اُرْزَاْ اَحْبَابِى, meaning &lt;i&gt;If I be afflicted by the loss of my son, I have not been afflicted by the loss of my friends.&lt;/i&gt; (TA.) &lt;pb n=&quot;1075&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n15359&quot; key=&quot;ارزا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ارزا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ارزى, in art. رزى.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تَرَاْزَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِرْتَزَاَ<br>\
+                  &lt;/form&gt; see 1.       -A2-  ارتزا also signifies &lt;i&gt;It&lt;/i&gt; (a thing, S) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, diminished, lessened,&lt;/i&gt; or &lt;i&gt;impaired.&lt;/i&gt; (S, K.) A poet says, (namely, Ibn Mukbil, describing a stallion, S in art. زبل,) &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَلَمْ يَرْتَزِىءْ بِرُكُوبٍ زِبَالَا<br>\
+                  &lt;/quote&gt; (S, TA) &lt;i&gt;And he had not been lessened&lt;/i&gt; [&lt;i&gt;by riding,&lt;/i&gt; so as to lose] &lt;i&gt;as much as the gnat will carry:&lt;/i&gt; (TA:) or &lt;i&gt;as much as the ant will carry with its mouth;&lt;/i&gt; meaning, &lt;i&gt;anything:&lt;/i&gt; (S in art. زبل:) but some read ترتزىء; [and some, يُرْتَزَاْ, as in copies of the S in art. زبل;] and some, بِرُكُونٍ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15360&quot; key=&quot;رُزْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رُزْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Mgh, K,) [originally an inf. n., and] a subst. from رَزَاَتْهُ رَزِيْيَةٌ, (Msb,) and ↓ <br>\
+      رَزِيْيَةٌ, (S, Mgh, Msb, K,) also pronounced رَزِيَّةٌ, originally with ء, (Msb,) and ↓ <br>\
+      مَرْزِيَةٌ, (S, K,) &lt;i&gt;An affliction, a misfortune,&lt;/i&gt; or &lt;i&gt;a calamity,&lt;/i&gt; (S, Msb, K, TA,) &lt;i&gt;by the loss of things dear to one:&lt;/i&gt; (TA:) or &lt;i&gt;a great affliction&lt;/i&gt; or &lt;i&gt;calamity&lt;/i&gt; or &lt;i&gt;misfortune:&lt;/i&gt; (Mgh:) pl. (of the first, S, TA) اَرْزَا=ءٌ (S, K, TA) and (of the second, S, Msb, TA) رَزَايَا. (S, Msb, K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15361&quot; key=&quot;رَزِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَزِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15362&quot; key=&quot;مَرْزِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَرْزِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n15363&quot; key=&quot;مُرَزَّاـٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُرَزَّاـٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;; (so in some copies of the S; in others مُرْزَاٌ, which is said in the K to be a mistranscription;) pl. مُرَزَّوُونَ: (K:) A &lt;i&gt;generous&lt;/i&gt; man, (S, K, * [in the latter of which only the pl. is explained,] and TA,) &lt;i&gt;whose good things men get,&lt;/i&gt; or &lt;i&gt;obtain,&lt;/i&gt; (S,) or &lt;i&gt;from whom much is gotten,&lt;/i&gt; or &lt;i&gt;obtained.&lt;/i&gt; (TA.) One says, in praising, فُلَانٌ <br>\
+                  مُرَزَّاٌ فِى مَالِهِ [&lt;i&gt;Such a one is a person from whom much of his property has been obtained&lt;/i&gt;]: and in expressing pity and grief, فُلَانٌ مُرَزَّاٌ فِى اَهْلِهِ [&lt;i&gt;Such a one is a person who has had some one,&lt;/i&gt; or &lt;i&gt;more, of his family taken from him&lt;/i&gt;]. (Ham p. 176.) And the pl., mentioned above, also signifies Persons &lt;i&gt;of whom the best have died:&lt;/i&gt; (K:) or persons &lt;i&gt;of whom death befalls the best.&lt;/i&gt; (L.)   &lt;/entryFree&gt; <br>\
+' } );

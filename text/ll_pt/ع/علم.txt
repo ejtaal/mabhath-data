@@ -1,0 +1,275 @@
+load_data( { book: 'll_pt', text: '<em>علم</em>            1                  علم<br>\
+<b>عَلِمَهُ</b>               1     <br>\
+                     عَلِمَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     عَلَمَ<br>\
+                  , inf. n. عِلْمٌ, <i>He knew it;</i> or <i>he was,</i> or <i>became, acquainted with it;</i> syn. عَرَفَهُ: (S, K:) or <i>he knew it</i> (عَرَفَهُ) <i>truly,</i> or <i>certainly:</i> (B, TA:) by what is said above, and by what is afterwards said in the K, العِلْمُ and المَعْرِفَةُ and الشُّعُورُ are made to have one meaning; and this is nearly what is said by most of the lexicologists: but most of the critics discriminate every one of these from the others; and العِلْمُ, accord. to them, denotes the highest quality, because it is that which they allow to be an attribute of God; whereas they did not say [that He is] عَارِفٌ, in the most correct language, nor شَاعِرٌ: (TA:) [respecting other differences between العِلْم and المَعْرِفَة, the former of which is more general in signification than the latter, see the first paragraph of art. عرف: much might be added to what is there stated on that subject, and in explanation of العِلْم, from the TA, but not without controversy:] or عَلِمَ signifies تَيَقَّنَ [i. e. <i>he knew</i> a thing, <i>intuitively,</i> and <i>inferentially,</i> as expl. in the Msb in art. يقن]; العِلْمُ being syn. with اليَقِينُ; but it occurs with the meaning of الَمَعْرِفَةُ, like as المَعْرِفَةُ occurs with the meaning of العلْمُ, each being made to import the meaning of the other because each is preceded by ignorance [when not attributed to God]: Zuheyr says, [in his Mo&#39;allakah,] <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَاَعْلَمُ عِلْمَ اليَوْمِ وَاْلْاَمْسِ قَبْلَهُ<br>\
+                     <L><br>\
+                        وَلٰكِنِّنِى عَنْ عِلْمِ مَا فِى غَدٍ عَمِ<br>\
+                  </quote> meaning وَاَعْرِفُ [i. e. <i>And I know the knowledge of the present day, and of yesterday before it; but to the knowledge of what will be to-morrow I am blind</i>]: and it is said in the Kur [viii. 62], لَا تَعْلَمُونَهُمْ اَللّٰهُ يَعْلَمُهُمْ, meaning لَا تَعْرِفُونَهُمْ اَللّٰهُ <br>\
+                  يَعْرِفُهُمْ [i. e. <i>Ye know them not,</i> but <i>God knoweth them</i>]; المَعْرِفَة being attributed to God because it is one of the two kinds of عِلْم, [the intuitive and the inferential,] and the discrimination between them is conventional, on account of their different dependencies, though He is declared to be free from the imputation of antecedent ignorance and from acquisition [of knowledge], for He knows what has been and what will be and how that which will not be would be if it were, his عِلْم being an eternal and essential attribute: when عَلِمَ denotes اليَقِين, it [sometimes] has two objective complements; but as syn. with عَرَفَ, it has a single objective complement: (Msb:) it has two objective complements in the saying, in the Kur [lx. 10], فَاـِنْ عَلِمْتُمُوهُنَّ مُوْمِنَاتٍ [<i>And</i> <br>\
+                  <i>if ye know them to be believers</i>]; and [in like manner] they allowed one&#39;s saying عَلِمْتُنِى [meaning <i>I knew myself to be</i>], like as they said رَاَيْتُنِى and حَسِبْتُنِى &amp;amp;c.: (TA:) and sometimes it imports the meaning of شَعَرَ, and is therefore followed by بِ: (Msb:) [thus] عَلِمَ بِهِ signifies شَعَرَ or شَعُرَ (accord. to different copies of the K) [i. e. <i>He knew it;</i> as meaning <i>he knew,</i> or <i>had knowledge, of it; was cognizant of it;</i> or <i>understood it:</i> or <i>he knew the minute particulars of it:</i> or <i>he perceived it by means of any of the senses:</i> and sometimes this means <i>he became informed,</i> or <i>apprised, of it:</i> and sometimes, <i>he was,</i> or <i>became, knowing in it</i>]: or in this case, [as meaning شَعَرْتُ بِهِ,] you say, عَلِمْتُهُ and عَلِمْتُ بِهِ [<i>I knew it;</i> &amp;amp;c.]: (Msb:) and one says, مَا عَلِمْتُ <br>\
+                  بِخَبَرِ قُدُومِهِ, meaning مَا شَعَرْتُ [<i>I knew not,</i> &amp;amp;c., <i>the tidings of his coming,</i> or <i>arrival</i>]. (TA.) ↓ <br>\
+      اعتلمهُ, also, signifies عَلِمَهُ [<i>He knew it;</i> &amp;amp;c.]. (K.) And one says ↓ <br>\
+      تَعَلَّمْ in the place of اِعْلَمْ [<i>Know thou;</i> &amp;amp;c.]: ISk says, تَعَلَّمْتُ اَنَّ فُلَانًا <br>\
+                  خَارِجٌ is a phrase used in the place of عَلِمْتُ [as meaning <i>I knew,</i> or, emphatically, <i>I know, that such a one was,</i> or <i>is, going forth</i>]; adding, [however,] when it is said to thee, اِعْلَمْ اَنَّ زَيْدًا خَارِجٌ [<i>Know thou that Zeyd is going forth</i>], thou sayest قَدْ عَلِمْتُ [lit. <i>I have known,</i> meaning <i>I do know</i>]; but when it is said, تَعَلَّمْ اَنَّ زَيْدًا خَارِجٌ, thou dost not say, قَدْ تَعَلَّمْتُ; (S:) accord. to IB, these two verbs are not used as syn. except in the imperative forms: (TA:) [or] عَلِمَ الاَمْرَ and ↓ <br>\
+      تَعَلَّمَهُ are syn. as signifying اَتْقَنَهُ [app. meaning <i>he knew,</i> or <i>learned, the case,</i> or <i>affair, soundly, thoroughly,</i> or <i>well:</i> see art. تقن: but I think it not improbable, though I do not find it in any copy of the K, that the right reading may be اَيْقَنَهُ, which is syn. with تَيَقَّنَهُ; an explanation of عَلِمَ in the Msb, as mentioned above, being تَيَقَّنَ]. (K, TA.) And الجَمِيعُ ↓ <br>\
+      تعالمهُ means عَلِمُوهُ [i. e. <i>All knew him;</i> &amp;amp;c.]. (S, K.) ―         -b2-  عَلِمْتُ عِلْمَهُ [lit. <i>I knew his knowledge,</i> or <i>what he knew,</i> app. meaning <i>I tried, proved,</i> or <i>tested, him, and so knew what he knew;</i> and hence <i>I knew his case</i> or <i>state</i> or <i>condition,</i> or <i>his qualities;</i>] is a phrase mentioned by Fr in explanation of رَبَاْتُ فِيهِ. (TA voce رَبَاَ, q. v. See also the explanation of لَاَ خْبُرَنَّ خَبَرَكَ, in the first paragraph of art. خبر: and see غَبَنُوا خَبَرَهَا, in art. غبن.) ―         -b3-  عَلِمْتُ is also used in the manner of a verb signifying swearing, or asseveration, so as to have a similar complement; as in the saying, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَلَقَدْ عَلِمْتُ لَتَاْتِيَنَّ عَشِيَّةً<br>\
+                  </quote> [<i>And I certainly knew that thou wouldst,</i> or <i>that she would, assuredly come in the evening</i>]. (TA in art. شهد.) And يَعْلَمُ اْللّٰهُ [<i>God knoweth</i>] is a form of asseveration. (IAth, TA voce قَيْرَوَانٌ: see an ex. in art. قير.)       -A2-  عَلُمَ, agreeably with what is said in the M, which is عَلُمَ هُوَ نَفْسُهُ, accord. to the K عَلِمَ هُوَ فِى نَفْسِهِ, but the verb in this case is correctly like كَرُمَ, (TA,) <i>He was,</i> or <i>became, such as is termed</i> <br>\
+                  عَالِم <br>\
+                  <i>and</i> <br>\
+                  عَلِيم; (M, * K, * TA;) meaning <i>he possessed knowledge</i> (العِلْم) <i>as a faculty firmly rooted in his mind:</i> (IJ, * TA:) accord. to IB, <i>i. q.</i> ↓ <br>\
+      تعلّم [q. v., as intrans.]: and <i>he was,</i> or <i>became, equal to the</i> <br>\
+                  عُلَمَا=ء [pl. of عَالِمٌ and of عَلِيمٌ]. (TA.)       -A3-  عَالَمَهُ فَعَلَمَهُ, aor.      <br>\
+                     عَلُمَ<br>\
+                  : see 3.       -A4-  عَلَمَهُ, aor.      <br>\
+                     عَلُمَ<br>\
+                   and      <br>\
+                     عَلِمَ<br>\
+                  , (K,) inf. n. عَلْمٌ, (TA.) signifies <i>He marked it;</i> syn. وَسَمَهُ. (K.) And one says, عَلَمْتُ عِمَّتِى, meaning <i>I wound my turban upon my head with a mark whereby its mode should be known.</i> (TA.) [See also 4.]       -A5-  عَلَمَ شَفَتَهُ, aor.      <br>\
+                     عَلِمَ<br>\
+                  , (S, K,) inf. n. عَلْمٌ, (S,) <i>He slit his</i> [upper] <i>lip.</i> (S, K.)       -A6-  عَلِمَ, aor.      <br>\
+                     عَلَمَ<br>\
+                  , (S, Msb, K,) inf. n. عَلَمٌ, (S, Msb,) <i>He</i> (a man, S) <i>had a fissure in his upper lip:</i> (S, Msb, K:) or <i>in one of its two sides.</i> (K.)    </entryFree> <br>\
+<b>علّمهُ</b>               1     <br>\
+                     علّمهُ<br>\
+                     ذ<br>\
+                   [<i>He,</i> or <i>it, made him to be such as is termed</i> <br>\
+                  عَالِم <br>\
+                  <i>and</i> <br>\
+                  عَلِيم; i. e., <i>made him to possess knowledge</i> (العِلْم) <i>as a faculty firmly rooted in his mind:</i> and hence, <i>he taught him.</i> And it generally has a second objective complement]. You say, عَلَّمْتُهُ الشَّىْءَ [<i>I made him to know,</i> or <i>taught him, the thing</i>], in which case the teshdeed is [said to be] not for the purpose of denoting muchness [of the action; but see what follows]; (S;) and عَلَّمْتُهُ الفَاتِحَةَ [<i>I taught him the Opening Chapter of the Kur-án</i>], and الصَّنْعَةَ [<i>the art,</i> or <i>craft</i>], &amp;amp;c.; inf. n. تَعْلِيمٌ; (Msb;) and علّمهُ <br>\
+                  العِلْمَ, inf. n. تَعْلِيمٌ and عِلَّامٌ, the latter like كِذَّابٌ; and اـِيَّاهُ ↓ <br>\
+      اعلمهُ; (K;) both, accord. to the K, signifying the same [i. e. <i>he taught him knowledge,</i> or <i>science</i>]; but Sb makes a distinction between them, saying that عَلَّمْتُ is like اَذَّنْتُ, and that ↓ <br>\
+      اَعْلَمْتُ is like ا=ذَنْتُ; and Er-Rághib says that ↓ <br>\
+      الاـِعْلَامُ is particularly applied to quick information; and التَّعْلِيمُ is particularly applied to that which is repeated and much, so that an impression is produced thereby upon the mind of the مُتَعَلِّم: and some say that the latter is <i>the exciting the attention of the mind to the conception of meanings;</i> and sometimes it is used in the sense of الاـِعْلَام when there is in it muchness: (TA:) you say, الخَبَرَ ↓ <br>\
+      اَعْلَمْتُهُ and بِالخْبَرِ [meaning <i>I made known,</i> or <i>notified,</i> or <i>announced, to him,</i> or <i>I told him,</i> or <i>I made him to know,</i> or <i>have knowledge of, the news,</i> or <i>piece of information; I acquainted him with it; told, informed, apprised, advertised,</i> or <i>certified, him of it; gave him information, intelligence, notice,</i> or <i>advice, of it</i>]: (Msb:) see also 10: [hence the inf. n. ↓ <br>\
+      اـِعْلَامٌ is often used, as a simple subst., to signify <i>a notification, a notice, an announcement,</i> or <i>an advertisement:</i>] and sometimes ↓ <br>\
+      اعلم has three objective complements, like اَرَى; as in the saying, اَعْلَمْتُ زَيْدًا عَمْرًا مُنْطَلِقًا [<i>I made known,</i> &amp;amp;c., <i>to Zeyd that &#39;Amr was going away</i>]. (I&#39;Ak p. 117.) ―         -b2-  See also 4, in three places.    </entryFree> <br>\
+                     عَاْلَمَ<br>\
+                   ↓ <br>\
+      عَالَمَهُ فَعَلَمَهُ, aor. of the latter      <br>\
+                     عَلُمَ<br>\
+                  , means [<i>I contended with him,</i> or <i>strove to surpass him, in</i> <br>\
+                  عِلْم,] <i>and I surpassed him in</i> <br>\
+                  عِلْم [i. e. <i>knowledge,</i> &amp;amp;c.]: (S, K:) [the measure يَفْعَلُ,] and in like manner the measure يَفْعِلُ, in every case of this kind, is changed into يَفْعُلُ: so says Az: [but see 3 in art. خصم:] and Lh mentions the phrase, مَا كُنْتُ اَرَانِى اَنْ اَعْلُمَهُ [<i>I did not think,</i> or <i>know, that I should surpass him in knowledge</i>]. (TA.)    </entryFree> <br>\
+                     اَعْلَمَ<br>\
+                   see 2, in six places. ―         -b2-  One says also, اعلم <br>\
+                  الثَّوْبَ (S, Mgh, TA) <i>He</i> (i. e. a beater and washer and whitener of clothes, S, Mgh) <i>made the garment,</i> or <i>piece of cloth, to have a mark;</i> (Mgh;) or <i>he made upon it,</i> or <i>in it, a mark.</i> (TA.) [And, said of a weaver, or an embroiderer,] <i>He made to the garment,</i> or <i>piece of cloth, a border,</i> or <i>borders, of figured,</i> or <i>variegated,</i> or <i>embroidered, work,</i> or <i>the like.</i> (Msb.) ―         -b3-  And اعلم عَلَيْهِ <br>\
+                  <i>He made,</i> or <i>put,</i> or <i>set, a mark upon it;</i> namely, a writing, or book, &amp;amp;c.: (Msb:) [or] اعلم عَلَى مَوْضِعِ كَذَا مِنَ الكِتَابِ عَلَامَةً [<i>He made,</i> &amp;amp;c., <i>a mark upon such a place of the writing,</i> or <i>book</i>]. (TA.) ―         -b4-  اعلم الفَرَسَ <br>\
+                  <i>He suspended upon the horse some coloured wool,</i> (K, TA,) <i>red,</i> or <i>white,</i> (TA,) <i>in war,</i> or <i>battle.</i> (K, TA.) And اعلم نَفْسَهُ <br>\
+                  <i>He marked himself with the mark, sign, token,</i> or <i>badge, of war;</i> as also ↓ <br>\
+      عَلَّمَهَا. (K.) [Or] اعلم الفَارِسُ <br>\
+                  <i>The horseman made,</i> or <i>appointed, for himself,</i> [or <i>distinguished himself by,</i>] <i>the mark, sign, token,</i> or <i>badge, of the men of courage.</i> (S.) And لَهُ عَلَامَةً ↓ <br>\
+      عَلَّمْتُ <br>\
+                  <i>I appointed to him</i> (وَضَعْتُ لَهُ) <i>a mark, sign,</i> or <i>token, which he would,</i> or <i>should, know.</i> (Msb.) ―         -b5-  And القَبْرَ ↓ <br>\
+      علّم (K in art. رجم) <i>He put a tombstone</i> [<i>as a mark</i>] <i>to the grave.</i> (TK in that art.)       -A2-  اعلم said of a well-sinker, <i>He found the well that he was digging to be one having much water.</i> (TA.)    </entryFree> <br>\
+<b>تعلّم</b>               1     <br>\
+                     تعلّم<br>\
+                     ذ<br>\
+                   is quasi-pass. of 2 [i. e. it signifies <i>He was,</i> or <i>became, made to know,</i> or <i>taught;</i> or <i>he learned:</i> and is trans. and intrans.]. (S, Msb, K, * TA.) You say, تعلّم العِلْمَ (MA, K) <i>He learned</i> [<i>knowledge,</i> or <i>science</i>]. (MA.) See also 1, latter half, in three places. [In the last of those places, تعلّم app. signifies, as it often does, <i>He possessed knowledge as a faculty firmly rooted in his mind.</i>] Accord. to some, التَّعَلُّمُ signifies <i>The mind&#39;s having its attention excited to the conception of meanings,</i> or <i>ideas.</i> (TA.)    </entryFree> <br>\
+<b>تعالمهُ الجَمِيعُ</b>               1     <br>\
+                     تعالمهُ الجَمِيعُ<br>\
+                     ذ<br>\
+                  : see 1, latter half.    </entryFree> <br>\
+<b>اعتلمهُ</b>               1     <br>\
+                     اعتلمهُ<br>\
+                     ذ<br>\
+                  : see 1, latter half.       -A2-  اعتلم said of water, <i>It flowed</i> (K, TA) <i>upon the ground.</i> (TA.) ―         -b2-  And said of lightning it means لَمَعَ فى <br>\
+                  العلم [app. فِى العَلَمِ, and, if so, meaning <i>It shone, shone brightly,</i> or <i>gleamed, in,</i> or <i>upon, the long mountain</i>]: a poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        بَلْ بُرَيْقًا بِتُّ اَرْقُبُهُ<br>\
+                     <L><br>\
+                        لَا يُرَى اـِلَّا اـِذَا اْعْتَلَمَا<br>\
+                  </quote> [<i>But a little lightning, in watching which I passed</i> <br>\
+                  <i>the night, not to be seen save when it shone,</i> &amp;amp;c.]. (TA.)    </entryFree> <br>\
+<b>استعلمهُ</b>               1     <br>\
+                     استعلمهُ<br>\
+                     ذ<br>\
+                  <i>He asked,</i> or <i>desired, him to tell him</i> [a thing; or <i>to make</i> it <i>known to him</i>]. (MA, KL. *) You say, ↓ <br>\
+      اِسْتَعْلَمَنِى الخَبَرَ فَاَعْلَمْتُهُ <br>\
+                  اـِيَّاهُ [<i>He asked,</i> or <i>desired, me to tell him,</i> or <i>make known to him, the news,</i> or <i>piece of information, and I told him it,</i> or <i>made it known to him</i>]. (S.)    </entryFree> <br>\
+<b>عَلْمٌ</b>               1     <br>\
+                     عَلْمٌ<br>\
+                     ذ<br>\
+                  : see مَعْلَمٌ, in two places.    </entryFree> <br>\
+<b>عِلْمٌ</b>               1     <br>\
+                     عِلْمٌ<br>\
+                     ذ<br>\
+                   is an inf. n., (S, K, &amp;amp;c.,) and [as such] has no pl. [in the classical language]. (Sb, TA voce فِكْرٌ.) [As a post-classical term, used as a simple subst., its pl. is عُلُومٌ, signifying The <i>sciences,</i> or <i>several species of knowledge.</i>] ―         -b2-  Sometimes it is applied to <i>Predominant opinion;</i> [i. e. <i>preponderant belief;</i>] because it stands in stead of that which is عِلْم properly so termed. (Ham p. 632.) ―         -b3-  And sometimes it is used in the sense of عَمَلٌ [<i>A doing,</i> &amp;amp;c.], as mentioned by Az, on the authority of Ibn-&#39;Oyeyneh, agreeably with an explanation of عَالِمٌ as signifying one “ who does according to his knowledge; ” and it has been expl. as having this meaning in the Kur xii. 68 [where the primary meaning seems to be much more apposite]. (TA.) ―         -b4-  لَقِيتُهُ اَدْنَى عِلْمٍ means [<i>I met him the first thing,</i> like لقيته اَدْنَى <br>\
+                  دَنِّىِ and اَدْنَى دَنًا; or] <i>before everything</i> [<i>else</i>]. (TA.)    </entryFree> <br>\
+<b>عَلَمٌ</b>               1     <br>\
+                     عَلَمٌ<br>\
+                     ذ<br>\
+                  : see عَلَامَةٌ. ―         -b2-  Also <i>An impression,</i> or <i>impress;</i> or <i>a footstep,</i> or <i>track,</i> or <i>trace.</i> (TA.) ―         -b3-  And The عَلَم of a garment, or piece of cloth; (S;) [i. e. the <i>ornamental,</i> or <i>figured,</i> or <i>variegated, border</i> or <i>borders</i> thereof;] the <i>figured,</i> or <i>variegated,</i> or <i>embroidered, work</i> or <i>decoration,</i> (Msb, K, TA,) <i>in the borders,</i> (TA,) thereof: (Msb, K, TA:) pl. اَعْلَامٌ. (Msb.) ―         -b4-  And [<i>A way-mark;</i> i. e.] <i>a thing set up,</i> or <i>erected, in the way,</i> (K, TA,) or, as in the M, <i>in the deserts,</i> or <i>waterless deserts,</i> (TA,) <i>for guidance,</i> (K, TA,) in the M, <i>for the guidance of those going astray;</i> (TA;) as also ↓ <br>\
+      عَلَامَةٌ: (K:) the former is also applied to <i>a building raised in the beaten track of the road, of such as are places of alighting for travellers, whereby one is guided to the land</i> [<i>that is the object of a journey</i>]: pl. اَعْلَامٌ: and عَلَمٌ also signifies <i>a</i> <br>\
+                  مَنَارَة [app. a mistranscription for مَنَار, without ة: see these two words]. (TA. [See also مَعْلَمٌ.]) [Hence, اَعْلَامُ الكَوَاكِبِ <br>\
+                  <i>The stars,</i> or <i>asterisms, that are signs of the way to travellers:</i> see مِصْبَاحٌ.] ―         -b5-  And <i>A separation between two lands;</i> [like مَنَارٌ;] as also ↓ <br>\
+      عَلَامَةٌ. (K.) [Hence,] اَعْلَامُ الحَرَمِ <br>\
+                  <i>The limits that are set to the Sacred Territory.</i> (TA.) ―         -b6-  And <i>A mountain;</i> (S, K;) as a general term: or <i>a long mountain:</i> (K:) [app. as forming a separation: or as being a known sign of the way:] pl. اَعْلَامٌ and عِلَامٌ: (K:) the former pl. occurring in the Kur [xlii. 31 and] lv. 24. (TA.) ―         -b7-  And <i>A banner,</i> or <i>standard,</i> syn. رَايَةٌ, (S, K, TA,) <i>to which the soldiers congregate:</i> (TA:) and, (K,) some say, (TA,) the <i>thing</i> [i. e. <i>flag,</i> or <i>strip of cloth,</i>] <i>that is tied upon the spear:</i> (K, TA:) it occurs in a verse of Aboo-Sakhr El-Hudhalee with the second fet-hah lengthened by an alif after it [so that it becomes ↓ <br>\
+      عَلَام]. (IJ, TA.) ―         -b8-  And (tropical:)  The <i>chief of a people</i> or <i>party:</i> (K, TA:) from the same word as signifying “ a mountain ” or “ a banner: ” (TA:) pl. اَعْلَامٌ. (K.) ―         -b9-  [In grammar, it signifies <i>A proper name</i> of a person or place &amp;amp;c. ―         -b10-  And the pl. اَعْلَامٌ is applied to <i>Things pertaining to rites and ceremonies</i> of the pilgrimage or the like, <i>as being signs</i> thereof; such as the <i>places where such rites and ceremonies are performed,</i> the <i>beasts destined for sacrifice,</i> and the <i>various practices performed during the pilgrimage &amp;amp;c.;</i> as also مَعَالِمُ, pl. of ↓ <br>\
+      مَعْلَمٌ: the former word is applied to such places in the Ksh and Bd and the Jel in ii. 153; and the latter, in the Ksh and Bd in ii. 194: the former is also applied to the beasts destined for sacrifice in the Ksh and Bd and the Jel in xxii. 37; and the latter, in the Ksh and Bd in xxii. 33: and both are applied to the practices above mentioned, the former in the TA and the latter in the K, in art. شعر: see شِعَارٌ.]       -A2-  See also what next follows.    </entryFree> <br>\
+<b>عُلْمَةٌ</b>               1     <br>\
+                     عُلْمَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      عَلَمَةٌ and ↓ <br>\
+      عَلَمٌ [the last of which is originally an inf. n., see 1, last sentence,] <i>A fissure in the upper lip,</i> or <i>in one of its two sides.</i> (K.)    </entryFree> <br>\
+<b>عَلَمَةٌ</b>               1     <br>\
+                     عَلَمَةٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>عَلْمَا=ءُ</b>               1     <br>\
+                     عَلْمَا=ءُ<br>\
+                     ذ<br>\
+                   fem. of اَعْلَمُ [q. v.].    </entryFree> <br>\
+<b>عَلْمَا=ءِ</b>               1     <br>\
+                     عَلْمَا=ءِ<br>\
+                     ذ<br>\
+                   in the saying عَلْمَا=ءِ بَنُو فُلَانٍ [meaning <i>At the water are the sons of such a one</i>] is a contraction of عَلَى المَا=ءِ. (S.)    </entryFree> <br>\
+<b>عِلْمِىٌّ</b>               1[     <br>\
+                     عِلْمِىٌّ<br>\
+                     ذ<br>\
+                  <i>Of,</i> or <i>relating to, knowledge</i> or <i>science; scientific; theoretical;</i> opposed to عَمَلِىٌّ.]    </entryFree> <br>\
+<b>عَلَمِيَّةٌ</b>               1[     <br>\
+                     عَلَمِيَّةٌ<br>\
+                     ذ<br>\
+                  , in grammar, The <i>quality of a proper name.</i>]    </entryFree> <br>\
+<b>عَلَامٌ</b>               1     <br>\
+                     عَلَامٌ<br>\
+                     ذ<br>\
+                  : see عَلَامَةٌ: ―         -b2-  and see also عَلَمٌ.       -A2-  [عَلَامَ is for عَلَى مَ.]    </entryFree> <br>\
+<b>عُلَامٌ</b>               1     <br>\
+                     عُلَامٌ<br>\
+                     ذ<br>\
+                  : see عُلَّامٌ.       -A2-  Also <i>i. q.</i> <br>\
+                  غُلَامٌ [q. v.]: an instance of the substitution of ع for غ. (MF and TA on the letter ع.)    </entryFree> <br>\
+<b>عَلِيمٌ</b>               1     <br>\
+                     عَلِيمٌ<br>\
+                     ذ<br>\
+                  : see عَالِمٌ. ―         -b2-  العَلِيمُ and ↓ <br>\
+      العَالِمُ and ↓ <br>\
+      العَلَّامُ, as epithets applied to God, signify [<i>The Omniscient;</i>] <i>He who knows what has been and what will be; who ever has known, and ever will know, what has been and what will be; from whom nothing is concealed in the earth nor in the heaven; whose knowledge comprehends all things, the covert thereof and the overt, the small thereof and the great, in the most complete manner.</i> (TA.)    </entryFree> <br>\
+<b>عَلَامَةٌ</b>               1     <br>\
+                     عَلَامَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  سِمَةٌ [<i>A mark, sign,</i> or <i>token, by which a person</i> or <i>thing is known; a cognizance,</i> or <i>badge; a characteristic; an indication; a symptom</i>]; (K; [see also مَعْلَمٌ;]) and ↓ <br>\
+      عَلَمٌ is syn. therewith [as meaning thus]; (S, Msb, TA;) and so ↓ <br>\
+      اُعْلُومَةٌ, (Abu-l-&#39;Omeythil ElAarábee, TA,) as in the saying ↓ <br>\
+      بَيْنَ القَوْمِ اُعْلُومَةٌ [<i>Among the people,</i> or <i>party, is a mark, sign,</i> or <i>token</i>]; and the pl. of this last is اَعَالِيمُ: (TA:) the pl. of عَلَامَةٌ is عَلَامَاتٌ (Msb) and [the coll. gen. n.] ↓ <br>\
+      عَلَامٌ, (K, TA,) differing from عَلَامَةٌ only by the apocopating of the ة. (TA.) ―         -b2-  See also عَلَمٌ, in two places.    </entryFree> <br>\
+<b>عُلَامِىٌّ</b>               1     <br>\
+                     عُلَامِىٌّ<br>\
+                     ذ<br>\
+                  <i>Light,</i> or <i>active; and sharp,</i> or <i>acute, in mind;</i> (K, TA;) applied to a man: it is without teshdeed, and with the relative ى; from عُلَامٌ [signifying “ a hawk ”]. (TA.)    </entryFree> <br>\
+<b>عَلَّامٌ</b>               1     <br>\
+                     عَلَّامٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      عُلَّامٌ, (K, TA,) both mentioned by ISd, the latter [which is less used] from Lh, (TA,) and ↓ <br>\
+      عَلَّامَةٌ (S, K) and ↓ <br>\
+      تِعْلِمَةٌ and ↓ <br>\
+      تِعْلَامَةٌ, (K,) <i>Very knowing</i> or <i>scientific</i> or <i>learned:</i> (S, K:) the ة in ↓ <br>\
+      عَلَّامَةٌ is added to denote intensiveness; (S;) or [rather] to denote that the person to whom it is applied has attained the utmost degree of the quality signified thereby; [so that it means <i>knowing</i> &amp;amp;c. <i>in the utmost degree;</i> or it may be rendered <i>very very,</i> or <i>singularly, knowing</i> or <i>scientific</i> or <i>learned;</i>] and this epithet is applied also to a woman: (IJ, TA:) [↓ <br>\
+      تِعْلَامَةٌ, likewise, is doubly intensive; and so, app., is ↓ <br>\
+      تِعْلِمَةٌ:] the pl. of عَلَّامٌ is عَلَّامُونَ; and that of ↓ <br>\
+      عُلَّامٌ is عُلَّامُونَ. (TA.) See also, for the first, عَلِيمٌ. ―         -b2-  Also the same epithets, (K,) or عَلَّامٌ and ↓ <br>\
+      عَلَّامَةٌ, (TA,) <i>i. q.</i> <br>\
+                  نَسَّابَةٌ; (K, TA;) [or rather عَلَّامٌ signifies نَسَّابٌ, i. e. <i>very skilful in genealogies,</i> or <i>a great genealogist;</i> and ↓ <br>\
+      عَلَّامَةٌ signifies نَسَّابَةٌ, i. e. <i>possessing the utmost knowledge in genealogies,</i> or <i>a most skilful genealogist;</i>] from العِلْمُ. (TA.)    </entryFree> <br>\
+<b>عُلَّامٌ</b>               1     <br>\
+                     عُلَّامٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, in two places. ―         -b2-  Also, and ↓ <br>\
+      عُلَامٌ, The صَقْر [or <i>hawk</i>]; (K;) the latter on the authority of IAar: (TA:) and [particularly] the بَاشَق [i. e. the <i>musket,</i> or <i>sparrow-hawk</i>]; (K;) as some say: (TA:) or so the former word, (T, * S, TA,) or the latter word accord. to Kr and IB. (TA.) ―         -b3-  And the former word, The [<i>plant called</i>] حِنَّا=ء [i. e. <i>Lawsonia inermis</i>]: (IAar, S, K, TA:) thus correctly, but mentioned by Kr as without tesh-deed. (TA.) ―         -b4-  And the same, i. e. with tesh-deed, The <i>kernel of the stone of the</i> <br>\
+                  نَبِق [or <i>fruit,</i> i. e. <i>drupe, of the lote-tree called</i> <br>\
+                  سِدْر]. (TA.)    </entryFree> <br>\
+<b>عَلَّامَةٌ</b>               1     <br>\
+                     عَلَّامَةٌ<br>\
+                     ذ<br>\
+                  : see عَلَّامٌ, in four places.    </entryFree> <br>\
+<b>عُلَّامَةٌ</b>               1     <br>\
+                     عُلَّامَةٌ<br>\
+                     ذ<br>\
+                  : see مَعْلَمٌ.    </entryFree> <br>\
+<b>العَالَمُ</b>               1     <br>\
+                     العَالَمُ<br>\
+                     ذ<br>\
+                  , (S, Msb, K, &amp;amp;c.,) said by some to be also pronounced ↓ <br>\
+      العَالِمُ, (MF, TA,) and pronounced by El-Hajjáj with hemz [i. e. العَاْلَمُ], is primarily a name for <i>That by means of which one knows</i> [a thing]; like as الخَاتَمُ is a name for “ that by means of which one seals ” [a thing]: accord. to some of the expositors of the Kur-án, its predominant application is to <i>that by means of which the Creator is known:</i> then to <i>the intelligent beings of mankind and of the jinn</i> or <i>genii:</i> or <i>to mankind and the jinn and the angels:</i> and <i>mankind</i> [alone]: Es-Seyyid Esh-Shereef [El-  Jurjánee] adopts the opinion that it is applied to <i>every kind</i> [of these, so that one says عَالَمُ الاـِنْسِ (which may be rendered <i>the world of mankind</i>) and عَالَمُ الجِنِّ (<i>the world of the jinn</i> or <i>genii</i>) and عَالَمُ المَلَايِكَةِ (<i>the world of the angels</i>), all of which phrases are of frequent occurrence], and to <i>the kinds</i> [thereof] <i>collectively:</i> (TA:) or it signifies الخَلْقُ [i. e. <i>the creation,</i> as meaning <i>the beings,</i> or <i>things, that are created</i>], (S, Msb, K,) <i>altogether</i> [i. e. <i>all the created beings</i> or <i>things,</i> or <i>all creatures</i>]: (K:) or, as some say, peculiarly, <i>the intelligent creatures:</i> (Msb:) or <i>what the cavity</i> (lit. <i>belly</i>) <i>of the celestial sphere comprises,</i> (K, TA,) <i>of substances and accidents:</i> (TA:) [it may often be rendered <i>the world,</i> as meaning <i>the universe;</i> and as meaning <i>the earth with all its inhabitants and other appertenances;</i> and in more restricted senses, as instanced above: and one says عَالَمُ الحَيَوَانِ meaning <i>the animal kingdom,</i> and عَالَمُ النَّبَات <br>\
+                  <i>the vegetable kingdom,</i> and عَالَمُ المَعَادِنِ <br>\
+                  <i>the mineral kingdom:</i>] Jaafar Es-Sádik says that the عَالَم is twofold: namely, العَالَمُ الكَبِيرُ, which is <i>the celestial sphere with what is within it;</i> and العَالَمُ الصَّغِيرُ, which is <i>man, as being</i> [<i>a microcosm,</i> i. e.] <i>an epitome of all that is in the</i> <br>\
+                  كَبِير: and Zj says that العَالَمُ has no literal sing., because it is [significant of] a plurality [of classes] of diverse things; and if made a sing. of one of them, it is [significant of] a plurality of congruous things: (TA:) the pl. is العَالَمُونَ (S, M, Msb, K, &amp;amp;c.) and العَوَالِمُ: (S, TA:) and the sing. is [said to be] the only instance of a word of the measure فَاعَلٌ having a pl. formed with و and ن, (ISd, K, TA,) except يَاسَمٌ: (K, TA:) [but see this latter word:] العَالَمُونَ signifies <i>the</i> [<i>several</i>] <i>sorts of created beings</i> or <i>things:</i> (S:) [or <i>all the sorts thereof:</i> or <i>the beings of the universe,</i> or <i>of the whole world:</i>] it has this form because it includes mankind: or because it denotes particularly <i>the sorts of created beings consisting of the angels and the jinn and mankind, exclusively of others:</i> I&#39;Ab is related to have explained رَبُّ العَالَمِينَ as meaning <i>the Lord of the jinn,</i> or <i>genii, and of mankind:</i> Katádeh says, <i>the Lord of all the created beings:</i> but accord. to Az, the correctness of the explanation of I&#39;Ab is shown by the saying in the beginning of ch. xxv. of the Kur-án that the Prophet was to be a نَذِير [or warner] لِلْعَالَمِينَ; and he was not a نذير to the beasts, nor to the angels, though all of them are the creatures of God; but only to the jinn, or genii, and mankind. (TA.) ―         -b2-  عَالَمٌ is also <i>syn. with</i> <br>\
+                  قَرْنٌ [as meaning <i>A generation of mankind;</i> or the <i>people of one time</i>]. (O, voce طَبَقٌ, q. v.)    </entryFree> <br>\
+<b>عَالِمٌ</b>               1     <br>\
+                     عَالِمٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      عَلِيمٌ signify the same, (IJ, Msb, K, *) as epithets applied to a man; (K;) i. e. <i>Possessing the attribute of</i> <br>\
+                  عِلْم (IJ, Msb, TA) <i>as a faculty firmly rooted in the mind;</i> [or <i>learned;</i> or <i>versed in science and literature;</i>] the former being used in [what is more properly] the sense of the latter; (IJ, TA;) which is an intensive epithet: (TA:) the pl. is عُلَمَا=ءُ and عُلَّامٌ, (K,) the latter of which is pl. of عَالِمٌ; (IB, TA;) the former being [properly] pl. of عَلِيمٌ; and عَالِمُونَ is [a] pl. of عَالِمٌ; (Msb;) [but] عُلَمَا=ءُ is used as a pl. of both, (IJ, TA,) and by him who says only عَالِمٌ [as the sing.], (Sb, TA;) because عَالِمٌ is used in the sense of عَلِيمٌ: to him who is entering upon the study of العِلْم, the epithet ↓ <br>\
+      مُتَعَلِّمٌ [which may generally be rendered <i>learning,</i> or <i>a learner,</i>] is applied; not عَالِمٌ. (IJ, TA.) عَالِمٌ is also expl. as signifying One <i>who does according to his knowledge.</i> (TA.) ―         -b2-  See also عَلِيمٌ: and اَعْلَمُ.       -A2-  And see العَالَمُ.    </entryFree> <br>\
+<b>عَيْلَمٌ</b>               1     <br>\
+                     عَيْلَمٌ<br>\
+                     ذ<br>\
+                  <i>A well having much water:</i> (S, K:) or <i>of which the water is salt:</i> (K:) and <i>a wide well:</i> and sometimes a man was reviled by the saying, يَا اْبْنَ العَيْلَمِ, referring to the width of his mother [in respect of the فَرْج]: (TA:) pl. عَيَالِمُ or عَيَالِيمُ. (S, accord. to different copies: in the TA, in this instance, the latter.) ―         -b2-  And The <i>sea:</i> (S, K:) pl. عَيَالِمُ. (TA.) ―         -b3-  And The <i>water upon which is the earth:</i> (S, K:) or <i>water concealed,</i> or <i>covered, in the earth;</i> or <i>beneath layers,</i> or <i>strata, of earth;</i> mentioned by Kr: (TA:) [عَيْلَمُ <br>\
+                  المَا=ءِ occurs in the JK and TA in art. خسف, and is there plainly shown to mean <i>the water that is beneath a mountain,</i> or <i>stratum of rock:</i> (see also غَيِّثٌ: and see غَيْلَمٌ:) and it is said that] المَاءُ <br>\
+                  العَيْلَمُ means <i>copious water.</i> (Ham p. 750.) ―         -b4-  And <i>A large cooking-pot.</i> (T, TA voce هِلْجَابٌ.)       -A2-  Also <i>Plump,</i> and <i>soft, tender,</i> or <i>delicate.</i> (S, K.)       -A3-  And The <i>frog.</i> (AAF, K. [This meaning is also assigned to غَيْلَمٌ.]) ―         -b2-  And <i>i. q.</i> ↓ <br>\
+      عَيْلَامٌ; (K;) which signifies <i>A male hyena;</i> (S, K;) occurring in a trad. (خَبَر) respecting Abraham, relating that he will take up his father to pass with him the [bridge called] صِرَاط, and will look at him, and lo, he will be عَيْلَامٌ اَمْدَرُ [<i>a male hyena inflated in the sides, big in the belly,</i> or <i>having his sides defiled with earth</i> or <i>dust</i>]. (TA.)    </entryFree> <br>\
+<b>عَيْلَامٌ</b>               1     <br>\
+                     عَيْلَامٌ<br>\
+                     ذ<br>\
+                  : see the next preceding sentence.    </entryFree> <br>\
+<b>اَعْلَمُ</b>               1     <br>\
+                     اَعْلَمُ<br>\
+                     ذ<br>\
+                   [<i>More,</i> and <i>most, knowing</i> or <i>learned</i>]. Applied to God, [it may often be rendered <i>Supreme in knowledge:</i> or <i>omniscient:</i> but often, in this case,] it means [simply] ↓ <br>\
+      عَالِمٌ [in the sense of <i>knowing,</i> or <i>cognizant</i>]. (Jel in iii. 31, and I&#39;Ak p. 240.) [Therefore اَللّٰهُ اَعْلَمُ virtually means, sometimes, <i>God knows best;</i> or <i>knows all things:</i> and sometimes, simply, <i>God knows.</i>]       -A2-  Also [<i>Harelipped;</i> i. e.] <i>having a fissure in his upper lip:</i> (S, Mgh, Msb, K:) or <i>in one of its two sides:</i> (K:) the camel is said to be اعلم because of the fissure in his upper lip: when the fissure is in the lower lip, the epithet اَفْلَحُ is used: and اَشْرَمُ is used in both of these, and also in other, similar, senses: (TA:) the fem. of اَعْلَمُ is عَلْمَا=ءُ: (S, Msb, TA:) which is likewise applied to a lip (شَفَةٌ). (TA.) ―         -b2-  العَلْمَا=ءُ signifies also <i>The coat of mail:</i> (K:) mentioned by Sh, in the book entitled كِتَابُ السِّلَاحِ; but as not heard by him except in a verse of Zuheyr Ibn-Khabbáb [?]. (TA.)    </entryFree> <br>\
+<b>اُعْلُومَةٌ</b>               1     <br>\
+                     اُعْلُومَةٌ<br>\
+                     ذ<br>\
+                  : see عَلَامَةٌ, in two places.    </entryFree> <br>\
+<b>تِعْلِمَةٌ</b>               1     <br>\
+                     تِعْلِمَةٌ<br>\
+                     ذ<br>\
+                   and تِعْلَامَةٌ: see عَلَّامٌ; each in two places.    </entryFree> <br>\
+<b>مَعْلَمٌ</b>               1     <br>\
+                     مَعْلَمٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مَظِنَّةٌ; مَعْلَمُ الشَّىْءِ signifying مَظِنَّتُهُ; (K, TA;) as meaning <i>The place in which is known the existence of the thing:</i> (Msb in art. ظن:) pl. مَعَالِمُ; (TA;) which is the <i>contr. of</i> <br>\
+                  مَجَاهِلُ, pl. of مَجْهَلٌ [q. v.] as applied to a land; meaning <i>in which are signs of the way.</i> (TA in art. جهل.) And hence, [<i>A person in whom is known the existence</i> of a quality &amp;amp;c.:] one says, هُوَ مَعْلَمٌ لِلْخَيْرِ [<i>He is one in whom good,</i> or <i>goodness, is known to be</i>]. (TA.) ―         -b2-  Also <i>A thing,</i> (K,) or <i>a mark, trace,</i> or <i>track,</i> (S, TA,) <i>by which one guides himself,</i> or <i>is guided,</i> (S, K, TA,) <i>to the road,</i> or <i>way;</i> (S, TA;) as also ↓ <br>\
+      عُلَّامَةٌ and ↓ <br>\
+      عَلْمٌ: (K: [in several copies of which, in all as far as I know, وَالعَلْمُ is here put in the place of والعَلْمِ; whereby العَلْمُ is made to be syn. with العَالَمُ: but accord. to SM, it is syn. with المَعْلَمُ, as is shown by what here follows:]) and hence a reading in the Kur [xliii. 61], ↓ <br>\
+      وَاـِنَّهُ لَعَلْمٌ <br>\
+                  لِلسَّاعَةِ, meaning <i>And verily he,</i> i. e. Jesus, by his appearing, and descending to the earth, shall be <i>a sign</i> of the approach <i>of the hour</i> [of resurrection]: it is also said, in a trad., that on the day of resurrection there shall not be a مَعْلَم for any one: and the pl. is مَعَالِمُ. (TA.) And مَعْلَمُ الطِّرِيقِ signifies <i>The indication,</i> or <i>indicator, of the road,</i> or <i>way.</i> (TA.) ―         -b3-  [And hence it signifies likewise <i>An indication,</i> or <i>a symptom,</i> of anything; like عَلَامَةٌ.] ―         -b4-  See also عَلَمٌ, last quarter.    </entryFree> <br>\
+<b>مُعْلَمٌ</b>               1     <br>\
+                     مُعْلَمٌ<br>\
+                     ذ<br>\
+                   pass. part. n. of اَعْلَمَ [q. v.] in the phrase اعلم الثَّوْبَ, and thus applied as an epithet to a garment, or piece of cloth: (S:) [and also in other senses: thus in a verse of &#39;Antarah cited voce مَشُوفٌ:] and applied to a قِدْح [or gamingarrow] as meaning <i>Having a mark</i> [<i>made</i>] <i>upon it.</i> (TA.) ―         -b2-  [See also a verse of &#39;Antarah cited voce مِشَكٌّ.]    </entryFree> <br>\
+<b>مُعْلِمٌ</b>               1     <br>\
+                     مُعْلِمٌ<br>\
+                     ذ<br>\
+                   act. part. n. of اَعْلَمَ [q. v.] in the phrase اعلم الثَّوْبَ: [and in other senses:] ―         -b2-  thus also of the same verb in the phrase اعلم الفَارِسُ. (S.)    </entryFree> <br>\
+<b>مُعَلَّمٌ</b>               1     <br>\
+                     مُعَلَّمٌ<br>\
+                     ذ<br>\
+                   [pass. part. n. of 2, in all its senses: ―         -b2-  and hence particularly signifying] <i>Directed by inspiration to that which is right and good.</i> (TA.)    </entryFree> <br>\
+<b>مُعَلِّمٌ</b>               1     <br>\
+                     مُعَلِّمٌ<br>\
+                     ذ<br>\
+                   [act. part. n. of 2, in all its senses: and generally meaning] <i>A teacher.</i> (KL.) ―         -b2-  [It is now also a common title of address to a Christian and to a Jew.]    </entryFree> <br>\
+<b>مَعْلُومٌ</b>               1     <br>\
+                     مَعْلُومٌ<br>\
+                     ذ<br>\
+                   [<i>Known;</i> &amp;amp;c.]. الوَقْتُ المَعْلُومُ [mentioned in the Kur xv. 38 and xxxviii. 82] means [<i>The time of</i>] <i>the resurrection.</i> (TA.) And الاَيَّامُ <br>\
+                  المَعْلُومَاتُ [mentioned in the Kur xxii. 29] means  [<i>The first</i>] <i>ten days of Dhu-l-Hijjeh,</i> (S, Mgh, Msb, K,) <i>the last of which is the day of the sacrifice.</i> (TA.) ―         -b2-  [In grammar, The <i>active voice.</i>]    </entryFree> <br>\
+<b>مُتَعَلِّمٌ</b>               1     <br>\
+                     مُتَعَلِّمٌ<br>\
+                     ذ<br>\
+                  : see عَالِمٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>نصى</em>            1                  نصى<br>\
+<b>تَنَصَّى بَنِى فُلاَنٍ</b>               1     <br>\
+                     تَنَصَّى بَنِى فُلاَنٍ<br>\
+                     ذ<br>\
+                  : see تَذَرَّى.    </entryFree> <br>\
+<b>نَصِىٌّ</b>               1     <br>\
+                     نَصِىٌّ<br>\
+                     ذ<br>\
+                  <i>A certain plant:</i> (S, TA:) Golius says, <i>a species of thistle;</i> but this seems to be inconsistent with the description of it: see رَيِّجَةٌ. ―         -b2-  خَصِىٌّ نَصِيٌّ <br>\
+                  <i>Gelded, castrated.</i> The second word is an imitative sequent.    </entryFree> <br>\
+<b>نَاصِيَةٌ</b>               1     <br>\
+                     نَاصِيَةٌ<br>\
+                     ذ<br>\
+                   properly, in the language of the [classical] Arabs, The <i>place where the hair grows in the fore part of the head:</i> and hence, the <i>hair of that part;</i> the <i>hair over the forehead;</i> (Az, TA;) [and this is the general meaning;) <i>i. q.</i> <br>\
+                  قُصَّةٌ and طُرَّةٌ. (Msb, art. قص.) The <i>forelock</i> of a horse. ―         -b2-  نَاصِيَةُ بَنِى فُلاَنٍ: see تَذَرَّى and ذِرْوَةٌ.   </entryFree> <br>\
+' } );

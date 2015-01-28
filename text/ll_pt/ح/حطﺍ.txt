@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حطا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حطا<br>\
+&lt;entryFree id=&quot;n8368&quot; key=&quot;حَطَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     حَطَاَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He cast,&lt;/i&gt; or &lt;i&gt;threw;&lt;/i&gt; syn. رَمَى [and, like this, trans. by means of بِ]. (K.) [Hence,] حَطَاَ بِهِ الاَرْضَ, (AZ, S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَطَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. حَطْءٌ, (S,) &lt;i&gt;He cast him,&lt;/i&gt; or &lt;i&gt;threw him, down prostrate upon the ground:&lt;/i&gt; (AZ, S, K:) or, &lt;i&gt;with violence:&lt;/i&gt; one says, اِحْتَمَلَهُ فَحَطَاَ بِهِ الاَرْضَ [&lt;i&gt;He raised him upon his back, and threw him down violently upon the ground&lt;/i&gt;]. (Lth, TA.) And حَطَاَتْ بِوَلَدِهَا <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;cast forth her child from her womb.&lt;/i&gt; (TA in art. زكب.) And حَطَاَتِ القِدْرُ بِزَبَدِهَا <br>\
+                  &lt;i&gt;The cooking-pot cast forth its froth,&lt;/i&gt; or &lt;i&gt;scum,&lt;/i&gt; (S, TA,) in boiling. (TA.) And حَطَاَ بِسَلْحِهِ <br>\
+                  &lt;i&gt;He cast forth his excrement,&lt;/i&gt; or &lt;i&gt;ordure.&lt;/i&gt; (S.) And حَطَاَ [alone], aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَطَاَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَطِاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He cast forth his excrement,&lt;/i&gt; or &lt;i&gt;ordure, at once,&lt;/i&gt; (K, TA,) &lt;i&gt;quietly,&lt;/i&gt; or &lt;i&gt;gently.&lt;/i&gt; (TA.) And حَطَاَ, (K,) or حَطَاَ بِهَا, (S,) &lt;i&gt;He broke wind, with a sound.&lt;/i&gt; (S, K.) ―         -b2-  حَطَاَ بِهِ عَنْ رَاْيِهِ <br>\
+                  &lt;i&gt;He turned him back from the opinion,&lt;/i&gt; or &lt;i&gt;judgment, that he had formed.&lt;/i&gt; (IAth, K.) ―         -b3-  حَطَاَهُ <br>\
+                  &lt;i&gt;He struck him,&lt;/i&gt; or &lt;i&gt;slapped him, on the back with his open hand:&lt;/i&gt; (S, K:) or &lt;i&gt;struck him gently on the back with the palm of his hand:&lt;/i&gt; (S in art. لطح:) or &lt;i&gt;slapped him on the back,&lt;/i&gt; or &lt;i&gt;between the shoulders,&lt;/i&gt; or &lt;i&gt;on the upper part of the side,&lt;/i&gt; or &lt;i&gt;on the chest;&lt;/i&gt; (Khálid Ibn-Jembeh, TA;) or &lt;i&gt;on the back of the head:&lt;/i&gt; (AZ, TA:) and &lt;i&gt;he struck him,&lt;/i&gt; or &lt;i&gt;beat him,&lt;/i&gt; (Sh, K, *) &lt;i&gt;with his hand;&lt;/i&gt; (Sh, TA;) but it is said that the meaning is, &lt;i&gt;he struck him on the back of the neck:&lt;/i&gt; (TA:) it also occurs without ء. (TA.) ―         -b4-  حَطَاَهَا <br>\
+                  &lt;i&gt;He lay with her.&lt;/i&gt; (S, K. *)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8369&quot; key=&quot;حَطْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَطْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A slap on the back&lt;/i&gt; [&amp;amp;c. (see the verb)] &lt;i&gt;with the open hand.&lt;/i&gt; (S, TA.) It also occurs without ء, written حَطْوَةٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8370&quot; key=&quot;حَطِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَطِىْءٌ<br>\
+                     حطىء<br>\
+                     حطيء<br>\
+                     حطي<br>\
+                  &lt;/form&gt;, applied to a man, &lt;i&gt;Low, ignoble, mean,&lt;/i&gt; or &lt;i&gt;sordid.&lt;/i&gt; (AZ, S, K.) You say also حَطِىْءٌ بَطِىْءٌ, using the latter word as an imitative sequent. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n8371&quot; key=&quot;حُطَيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حُطَيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, applied to a man, &lt;i&gt;Ugly;&lt;/i&gt; or &lt;i&gt;contemptible;&lt;/i&gt; or &lt;i&gt;ugly in aspect and small in body:&lt;/i&gt; (Th, S, K:) or &lt;i&gt;short.&lt;/i&gt; (S, K.)   &lt;/entryFree&gt; <br>\
+' } );

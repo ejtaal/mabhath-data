@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>لطث</em>            1                  لطث<br>\
+<b>لَطَثَهُ</b>               1     <br>\
+                     لَطَثَهُ<br>\
+                     ذ<br>\
+                  , (aor.      <br>\
+                     لَطِثَ<br>\
+                  , inf. n. لَطْثٌ, L,) <i>He struck him with the flat of the hand;</i> or, <i>with a broad piece of wood:</i> (IAar, K:) <i>he slapped him with his open hand;</i> syn. صَكَّهُ; (K;) like لَطَمَهُ. (TA.) [See also لَطَسَهُ.] ―         -b2-  لَطَثَهُ بِحَجَرٍ <br>\
+                  <i>He threw a stone at him;</i> (K;) as also لَطَسَهُ. (TA.)       -A2-  لَطَثَهُ <br>\
+                  <i>He collected it together.</i> (K.)       -A3-  لَطَثَهُ الاَمْرُ, (aor.      <br>\
+                     لَطِثَ<br>\
+                  , inf. n. لَطْثٌ,) <i>The affair was difficult,</i> or <i>troublesome, to him.</i> (K.) ―         -b2-  لَطَثَهُ, aor.      <br>\
+                     لَطِثَ<br>\
+                  , inf. n. لَطْثٌ, <i>It</i> (a load, or an affair,) <i>was heavy</i> or <i>burdensome, and hard,</i> or <i>grievous to him.</i> (L.) ―         -b3-  لَطَثٌ, [aor.      <br>\
+                     لَطُثَ<br>\
+                  ,] inf. n. لَطْثٌ, <i>It became corrupt.</i> (IAar, K.)    </entryFree> <br>\
+<b>تَلَاطَثَ المَوْجُ</b>               1     <br>\
+                     تَلَاطَثَ المَوْجُ<br>\
+                     ذ<br>\
+                  <i>The waves dashed together,</i> or <i>against each other.</i> (K) ―         -b2-  تلاطت القَوْمُ <br>\
+                  <i>The people struck each other with their hands:</i> (K:) or, <i>with swords.</i> (TA.)     <br>\
+<b>مَلَاطِتُ</b>               1     <br>\
+                     مَلَاطِتُ<br>\
+                     ذ<br>\
+                  <i>Places that are struck</i> (تُلْطَثُ) <i>by a load,</i> or <i>burden,</i> or <i>by beating:</i> (K:) a quasi-pl. n., or a pl. without a sing., or having a pl. respecting which the lexicologists do not agree. (MF.)    </entryFree> <br>\
+<b>مُلَاطِثٌ</b>               1     <br>\
+                     مُلَاطِثٌ<br>\
+                     ذ<br>\
+                  <i>Collecting;</i> or <i>a collector;</i> syn. جَامِعٌ: (K:) <i>selling;</i> or <i>a seller;</i> or <i>buying;</i> or <i>a buyer;</i> syn. بَايِعٌ. (AA.)   </entryFree> <br>\
+' } );

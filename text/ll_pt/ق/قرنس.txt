@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قرنس</em>            1                  قرنس<br>\
+<b>قَرْنَسَ</b>               1     <br>\
+                     قَرْنَسَ<br>\
+                     ذ<br>\
+                  : see قرنص.   </entryFree> <br>\
+' } );

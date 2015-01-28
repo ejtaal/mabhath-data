@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قنس</em>            1                  قنس<br>\
+<b>قَنَسٌ</b>               1     <br>\
+                     قَنَسٌ<br>\
+                     ذ<br>\
+                  : see رَاسَنٌ.    </entryFree> <br>\
+<b>قُوْنَسٌ</b>               1     <br>\
+                     قُوْنَسٌ<br>\
+                     ذ<br>\
+                   The [<i>tapering</i>] <i>top of an iron helmet.</i> (K.) See دَنٌّ.   </entryFree> <br>\
+' } );

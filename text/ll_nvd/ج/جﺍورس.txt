@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'جاورسجَاوَرْسٌ: see art. جرس.<br>\
+Quasi جأي<br>\
+3<br>\
+جَاآنِى: see 3 in art. جيأ.<br>\
+' } );

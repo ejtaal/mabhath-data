@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>نيا</em>            1                  نيا<br>\
+<b>نَا=ءَ</b>               1     <br>\
+                     نَا=ءَ<br>\
+                     ذ<br>\
+                  , aor. يَنِىْءُ, (so in the S, Nh, L, Msb; but in some copies of the K, يناءُ, [which appears to be put by mistake for the inf. n. in the acc. case];) inf. n. نَىْءٌ, (S,) and نَىٌّ, without ء, and نَوْءٌ, (Sh,) <i>It</i> (flesh meat, &amp;amp;c.) <i>was not,</i> or <i>did not become, sufficiently cooked; it was insufficiently cooked:</i> (S, K:) (like نَهِيَ:) or <i>it was untouched by fire;</i> (i. e., <i>raw</i>]. (L.) ―         -b2-  <i>It</i> (a thing) <i>was not firmly, not soundly, not thoroughly, done.</i> [See 4.] (TA.)    </entryFree> <br>\
+                     نَيَّاَ<br>\
+                   see 4.    </entryFree> <br>\
+<b>اناء الاَمْرَ</b>               1     <br>\
+                     اناء الاَمْرَ<br>\
+                     ذ<br>\
+                  <i>He did the thing not firmly, not soundly, not thoroughly.</i> <br>\
+                  الامر ↓ <br>\
+      نيّا, accord. to the K, signifies <i>the same:</i> but this is unknown, and not authorized by transmission [from the Arabs of the classical ages], and therefore not mentioned by IM nor by other leading lexicographers: the correct phrases are [when the verb is intrans.] ناء الامرُ [and اللحمُ], and [when it is trans.] اناء اللحمَ [and الامر]: the forms of the verb being like بَانَ and اَبَانَ. (TA.) ―         -b2-  اناء, (S, incorrectly written in the K اَنْيَاَ, TA,) inf. n. اـِنَا=ءَةٌ, <i>He insufficiently cooked</i> flesh-meat [&amp;amp;c.]. (S, K.)    </entryFree> <br>\
+<b>نِىْءٌ</b>               1     <br>\
+                     نِىْءٌ<br>\
+                     ذ<br>\
+                   Flesh meat &amp;amp;c. <i>insufficiently cooked:</i> (S, K:) or <i>untouched by fire;</i> [i. e., <i>raw</i>]. (L.) It was also pronounced by the Arabs نِىٌّ; but the original word is with ء. (TA.) ―         -b2-  Wine <i>untouched by the fire:</i> cooked [or mulled] wine being called نَضِيجٌ, (TA [written نِىٌّ, without ء]). ―         -b3-  <i>Pure</i> [<i>and sweet</i>] milk: sour milk being called نضيج: or milk <i>just drawn from the udder, before it is put into the skin.</i> (TA [written نِىٌّ, without ء.])    </entryFree> <br>\
+<b>نَىٌّ</b>               1     <br>\
+                     نَىٌّ<br>\
+                     ذ<br>\
+                   [for نَىْءٌ] <i>Fat,</i> as contradistinguished from flesh, [which is app. called نَضِيجٌ]. (TA.)    </entryFree> <br>\
+<b>نُيُوْءٌ</b>               1     <br>\
+                     نُيُوْءٌ<br>\
+                     ذ<br>\
+                   and نُيُوْءَةٌ The <i>state of being insufficiently cooked:</i> (S, K:) or <i>of being untouched by fire;</i> [i. e., <i>rawness</i>]. (L.)    <br>\
+' } );

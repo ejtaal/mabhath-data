@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انم&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انم<br>\
+&lt;entryFree id=&quot;n1398&quot; key=&quot;الاَنَامُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الاَنَامُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, M, Msb, K) and ↓ <br>\
+      الا=نَامُ (K) and ↓ <br>\
+      الاَنِيمُ, (M, K,) the last allowable in poetry, (M,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  الخَلْقُ; (M, K, and Bd and Jel in lv. 9;) i. e. [&lt;i&gt;Mankind;&lt;/i&gt; for such is the general meaning of الخَلْقُ, or] &lt;i&gt;mankind and the jinn&lt;/i&gt; (or &lt;i&gt;genii&lt;/i&gt;) &lt;i&gt;and others:&lt;/i&gt; (Jel ubi suprà:) or &lt;i&gt;the jinn and mankind:&lt;/i&gt; (T, Msb, K:) or &lt;i&gt;what are on the face of the earth of all that are termed&lt;/i&gt; <br>\
+                  الخَلْق [or &lt;i&gt;created beings&lt;/i&gt;]: (Lth, T, Msb:) or &lt;i&gt;all that is on the face of the earth:&lt;/i&gt; (K:) or &lt;i&gt;everything having a&lt;/i&gt; <br>\
+                  رُوح [i. e. &lt;i&gt;soul,&lt;/i&gt; or &lt;i&gt;spirit&lt;/i&gt;]: (Bd ubi suprà:) or &lt;i&gt;every one who is subject to sleep.&lt;/i&gt; (TA [as though it were derived from النَّوْمُ.]) الانام is not mentioned by J, though occurring in the Kur-án. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1399&quot; key=&quot;الاَنِيمُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الاَنِيمُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see above.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1400&quot; key=&quot;الا=نَامُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الا=نَامُ<br>\
+                     الا=نام<br>\
+                  &lt;/form&gt;: see above.   &lt;/entryFree&gt; <br>\
+' } );

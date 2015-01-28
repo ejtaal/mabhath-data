@@ -1,0 +1,77 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;الب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  الب<br>\
+&lt;entryFree id=&quot;n1046&quot; key=&quot;اَلَبَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَلَبَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Th, M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِبَ<br>\
+                  &lt;/form&gt;, and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلُبَ<br>\
+                  &lt;/form&gt;, inf. n. اَلْبٌ, (M,) &lt;i&gt;It&lt;/i&gt; (a thing, Th, M) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, collected;&lt;/i&gt; or &lt;i&gt;compact;&lt;/i&gt; syn. اِجْتَمَعَ; (Th, K;) or تَجَمَّعَ. (M.) ―         -b2-  اَلَبَ اـِلَيْهِ القَوْمُ <br>\
+                  &lt;i&gt;The people came to him from every direction:&lt;/i&gt; (M, K:) or اَلَبَ القَوْمُ [signifies &lt;i&gt;the people multiplied themselves, and hastened;&lt;/i&gt; for it] denotes الاـِكْثَارُ and الاـِسْرَاع: (T in art. ضهب:) and اَلَبَ, (T, K,) aor. as above, (T,) signifies &lt;i&gt;he hastened,&lt;/i&gt; or &lt;i&gt;went quickly.&lt;/i&gt; (T, K.) ―         -b3-  اَلَبَتِ الاـِبِلُ <br>\
+                  &lt;i&gt;The camels obeyed the driver, and collected themselves together.&lt;/i&gt; (M, K.) [See also 5.] ―         -b4-  اَلَبَ اـِلَيْهِ <br>\
+                  &lt;i&gt;He returned to him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (K, * TA.) ―         -b5-  اَلَبَتِ السَّمَا=ءُ, (M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِبَ<br>\
+                  &lt;/form&gt;, (M,) &lt;i&gt;The sky rained with long continuance.&lt;/i&gt; (M, K.)       -A2-  اَلَبَ, (S Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِبَ<br>\
+                  &lt;/form&gt;, inf. n. اَلْبٌ, (Msb,) &lt;i&gt;He collected&lt;/i&gt; (S Msb, K) an army, (S,) or a people; (Msb;) as also ↓ <br>\
+      الّب, (M,) inf. n. تَاْلِيبٌ: (TA:) and camels also: (TA:) or اَلَبَ الاـِبِلَ aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلِبَ<br>\
+                  &lt;/form&gt; (T, * S, M, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَلُبَ<br>\
+                  &lt;/form&gt;, (S, M, K,) inf. n. اَلْبٌ, (T, S,) signifies &lt;i&gt;he collected the camels, and drove them&lt;/i&gt; (S, TA) &lt;i&gt;vehemently:&lt;/i&gt; (TA:) or &lt;i&gt;he drove them:&lt;/i&gt; (T, * K:) or &lt;i&gt;he drove them vehemently.&lt;/i&gt; (M.) ―         -b2-  اَلَبَ, (TA,) inf. n. as above, (K, TA,) also signifies &lt;i&gt;He drove, pursued, chased,&lt;/i&gt; or &lt;i&gt;hunted, with vehemence:&lt;/i&gt; (K, TA:) and &lt;i&gt;he drove away&lt;/i&gt; a people. (Msb.) You say, اَلَبَ الحِمَارُ طَرِيدَتَهُ <br>\
+                  &lt;i&gt;The&lt;/i&gt; [wild] &lt;i&gt;ass chased,&lt;/i&gt; or &lt;i&gt;pursued, the object of his chase&lt;/i&gt; [i. e. his female, as is shown by MF,] &lt;i&gt;with vehemence;&lt;/i&gt; (M, K;) as also ↓ <br>\
+      اَلَّبَهَا (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَلَّبَ<br>\
+                  &lt;/form&gt; see 1, in two places. ―         -b2-  تَاْلِيبٌ also signifies The act of &lt;i&gt;exciting, instigating;&lt;/i&gt; or &lt;i&gt;rousing to ardour:&lt;/i&gt; (S, K:) and the &lt;i&gt;exciting of discord,&lt;/i&gt; or &lt;i&gt;strife,&lt;/i&gt; or the &lt;i&gt;making of mischief.&lt;/i&gt; (K.) you say, الّب بَيْنَهُمْ <br>\
+                  &lt;i&gt;He excited discord&lt;/i&gt; or &lt;i&gt;strife,&lt;/i&gt; or &lt;i&gt;made mischief, between them.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1047&quot; key=&quot;تالّبوا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تالّبوا<br>\
+                     ذ<br>\
+                  &lt;i&gt;They collected themselves together.&lt;/i&gt; (S, A, Msb.) [See also 1.] You say also, تالّبوا عَلَيْهِ <br>\
+                  &lt;i&gt;They leagued together,&lt;/i&gt; or &lt;i&gt;collected themselves. together, and aided one another, against him.&lt;/i&gt; (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1048&quot; key=&quot;اَلْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلْبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, S, Msb) and ↓ <br>\
+      اـِلْبٌ (S, Msb) &lt;i&gt;Persons, or people, collected together;&lt;/i&gt; (S;) &lt;i&gt;an assembly; a collected body:&lt;/i&gt; (Msb:) or &lt;i&gt;a collection of many people:&lt;/i&gt; (T:) and ↓ <br>\
+      اَلْبٌ اَلُوبٌ a &lt;i&gt;great assembly&lt;/i&gt; or &lt;i&gt;congregation.&lt;/i&gt; (M.) ―         -b2-  Also &lt;i&gt;A people,&lt;/i&gt; or &lt;i&gt;company of men, combining in hostility&lt;/i&gt; against a man. (TA, from a trad.) You say, هُمْ عَلَيْهِ <br>\
+                  اَلْبٌ وَاحِدٌ, and ↓ <br>\
+      اـِلْبٌ, (but the former is the better known, M,) &lt;i&gt;They are [one body of men] assembled against him with injustice and enmity&lt;/i&gt; or &lt;i&gt;hostility:&lt;/i&gt; (Lth, T, M, K:) like وَعْلٌ وَاحِدٌ and صَدْعٌ وَاحِدٌ and ضِلَعٌ وَاحِدٌ. (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1049&quot; key=&quot;اـِلْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِلْبٌ<br>\
+                     الب<br>\
+                     الب<br>\
+                     لاب<br>\
+                     لب<br>\
+                     لبى<br>\
+                  &lt;/form&gt;: see اَلْبٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1050&quot; key=&quot;اَلَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a dial. var. of يَلَبٌ; (M;) &lt;i&gt;Helmets of camels&#39; shins:&lt;/i&gt; or, as some say, it signifies &lt;i&gt;steel:&lt;/i&gt; (T:) اَلَبَةٌ is [its n. un., being] a dial. var. of يَلَبَةٌ. (K, * TA.) [See also يَلَبٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1051&quot; key=&quot;اَلُوبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَلُوبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلْبٌ. ―         -b2-  Also One &lt;i&gt;who hastens,&lt;/i&gt; or &lt;i&gt;is quick;&lt;/i&gt; (T;) and ↓ <br>\
+      مِيْلَبٌ likewise signifies [the same; or] &lt;i&gt;quick,&lt;/i&gt; or &lt;i&gt;swift:&lt;/i&gt; (Ibn-Buzurj, T, K:) or the former signifies &lt;i&gt;quick in drawing forth the bucket:&lt;/i&gt; (IAar, M, K:) or &lt;i&gt;brisk, lively, sprightly, active, agile,&lt;/i&gt; or &lt;i&gt;prompt, and quick;&lt;/i&gt; (K, TA;) &lt;pb n=&quot;79&quot; TEIform=&quot;pb&quot;/&gt; applied to a man. (TA.) ―         -b3-  رِيْحٌ اَلُوبٌ <br>\
+                  &lt;i&gt;A cold wind,&lt;/i&gt; (M,) &lt;i&gt;that raises and scatters the dust.&lt;/i&gt; (M, K.) ―         -b4-  سَمَا=ءٌ اَلُوبٌ <br>\
+                  &lt;i&gt;A sky raining with long continuance.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1052&quot; key=&quot;مِيْلَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْلَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَلُوبٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1053&quot; key=&quot;حَسُودٌ مُوَلِّبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَسُودٌ مُوَلِّبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [An &lt;i&gt;envious&lt;/i&gt; man,] &lt;i&gt;who excites discord&lt;/i&gt; or &lt;i&gt;strife,&lt;/i&gt; or &lt;i&gt;makes mischief.&lt;/i&gt; (S, * TA.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كج</em>            1                  كج<br>\
+<b>كُجَّةٌ</b>               1     <br>\
+                     كُجَّةٌ<br>\
+                     ذ<br>\
+                  , see بُكْسَةٌ in the K and TA.   </entryFree> <br>\
+' } );

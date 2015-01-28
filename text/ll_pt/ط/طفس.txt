@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>طفس</em>            1                  طفس<br>\
+<b>طِنْفِسَةٌ</b>               1     <br>\
+                     طِنْفِسَةٌ<br>\
+                     ذ<br>\
+                   and its variations: see art طنفس.   </entryFree> <br>\
+' } );

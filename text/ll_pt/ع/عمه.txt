@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>عمه</em>            1                  عمه<br>\
+<b>عَمِهَ</b>               1     <br>\
+                     عَمِهَ<br>\
+                     ذ<br>\
+                  , (S, Msb, K,) and عَمَهَ, aor. of each      <br>\
+                     عَمَهَ<br>\
+                  , (K,) inf. n. عَمَهٌ (S, Msb, K, TA, [عَمْهًا in the CK being a mistake for عَمَهًا,]) and عُمُوهٌ and عُمُوهَةٌ and عَمَهَانٌ, (K, TA,) [the first of the former verb, and the rest, app., of the latter verb,] <i>He was,</i> or <i>became, confounded,</i> or <i>perplexed, and unable to see his right course;</i> and <i>went repeatedly to and fro</i>: (S:) or <i>he went repeatedly to and fro-</i> (Msb, K,) <i>in confusion,</i> or <i>perplexity,</i> (Msb,) or <i>in error, and confusion,</i> or <i>perplexity,</i> (K,) <i>unable to see his right course,</i> (Msb, K,) in contending, disputing, or litigating; or in a way, or road: (K:) or <i>he knew not the</i> [<i>right</i>] <i>argument,</i> or <i>plea,</i> or <i>allegation:</i> (Th, K, TA:) and ↓ <br>\
+      تعامه <br>\
+                  <i>signifies the same:</i> (Z, K, TA:) all are said when one turns aside, or away, from that which is right, or true: (TA:) or العَمَهُ is <i>the looking repeatedly, not knowing whither to go:</i> (Lh, TA:) or it is in the mental perception; and العَمَى is in the sight, or is common to both of these. (TA.) [Accord. to the Msb, عَمِهَ is from عَمْهَا=ء as an epithet applied to land, expl. below: but this requires consideration, as appears from what here follows.] ―         -b2-  One says also, عَمِهَتِ الاَرْضُ (tropical:)  <i>The land was destitute of signs of the way:</i> (K, TA:) a tropical phrase. (TA.)    </entryFree> <br>\
+<b>عَمَّهْتَ فِى ظُلْمِهِ</b>               1     <br>\
+                     عَمَّهْتَ فِى ظُلْمِهِ<br>\
+                     ذ<br>\
+                  , inf. n. تَعْمِيهٌ, <i>Thou wrongedst him,</i> or <i>hast wronged him, without sure information.</i> (A, K.)    </entryFree> <br>\
+                     تَعَاْمَهَ<br>\
+                   see the first paragraph.    </entryFree> <br>\
+<b>عَمِهٌ</b>               1     <br>\
+                     عَمِهٌ<br>\
+                     ذ<br>\
+                   (S, Msb, K) and ↓ <br>\
+      عَامِهٌ (S, K) and ↓ <br>\
+      اَعْمَهُ (Msb) <i>In a state of confusion,</i> or <i>perplexity, and unable to see his right course;</i> and <i>going repeatedly to and fro:</i> (S:) or <i>going repeatedly to and fro,</i> (Msb, K,) <i>in confusion,</i> or <i>perplexity,</i> (Msb,) or <i>in error, and confusion,</i> or <i>perplexity,</i> (K,) <i>unable to see his right course:</i> (Msb, K:) or <i>not knowing the</i> [<i>right</i>] <i>argument,</i> or <i>plea,</i> or <i>allegation:</i> (K:) [see 1:] pl. [of the first] عمِهُونَ (K) and [of the second] عُمَّهٌ (S, K) [and of the third عُمْهٌ].    </entryFree> <br>\
+<b>ذَهَبَتْ اـِبِلُهُ العُمَّهَى</b>               1     <br>\
+                     ذَهَبَتْ اـِبِلُهُ العُمَّهَى<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      العُمَّيْهَى <br>\
+                  <i>His camels went away, whither none knew.</i> (S, K.)    </entryFree> <br>\
+<b>العُمَّيْهَى</b>               1     <br>\
+                     العُمَّيْهَى<br>\
+                     ذ<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>عَامِهٌ</b>               1     <br>\
+                     عَامِهٌ<br>\
+                     ذ<br>\
+                  : see عَمِهٌ.    </entryFree> <br>\
+<b>اَعْمَهُ</b>               1     <br>\
+                     اَعْمَهُ<br>\
+                     ذ<br>\
+                  : see عَمِهٌ. ―         -b2-  [Its fem.] عَمْهَا=ءُ, applied to a land (اَرْضٌ), signifies <i>Having in it no signs of the way</i> (S, Msb, K) <i>to guide to safety.</i> (Msb.) [Hence, accord. to the Msb, the verb عَمِهَ expl. above: but some hold it to be tropical: see 1, last sentence.]   </entryFree> <br>\
+' } );

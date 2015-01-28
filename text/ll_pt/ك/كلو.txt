@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>كلو</em>            1                  كلو<br>\
+<b>كَلَا</b>               1     <br>\
+                     كَلَا<br>\
+                     ذ<br>\
+                  , first pers. كَلَاتُ, aor. يَكْلُو; and كَلَا, first pers. كَلَيْتُ, aor. يَكْلَا; inf. n., كِلَايَةٌ; see كَلَاَ.    </entryFree> <br>\
+<b>الكُلَى</b>               1     <br>\
+                     الكُلَى<br>\
+                     ذ<br>\
+                  : <i>the feathers</i> so called: see مَنَاكِبُ and اَبْهَرُ.    </entryFree> <br>\
+<b>الكُلْيَتَانِ</b>               1     <br>\
+                     الكُلْيَتَانِ<br>\
+                     ذ<br>\
+                  <i>A name of two stars on the ear of Taurus.</i> (See الكَلْبَانِ.)   </entryFree> <br>\
+' } );

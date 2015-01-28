@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>فهرس</em>            1                  فهرس<br>\
+<b>فَهْرَسَ الكُتُبَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     فَهْرَسَ الكُتُبَ<br>\
+                     ذ<br>\
+                   [<i>He made,</i> or <i>wrote, a catalogue of the books</i> or <i>writings</i>], (O,) or فَهْرَسَ كِتَابَهُ [<i>he made an index,</i> or <i>a table of contents, to his book</i> or <i>writing</i>], (K,) inf. n. فَهْرَسَةٌ. (TA.) See what follows.    </entryFree> <br>\
+<b>فِهْرِسٌ</b>               1     <br>\
+                     فِهْرِسٌ<br>\
+                     ذ<br>\
+                  <i>A book,</i> or <i>writing, in which</i> [<i>the names</i> or <i>titles</i> or <i>descriptions</i>] <i>of</i> [<i>other</i>] <i>books,</i> or <i>writings, are collected;</i> [i. e. <i>a catalogue of books</i> or <i>writings:</i> but more commonly, accord. to modern usage, the <i>index,</i> or <i>table of contents,</i> of a book or writing; in an Arabic book, generally placed at the beginning:] an arabicized word; (Lth, O, K;) from [the Pers.] فِهْرِسْت: (O, K:) pl. فَهَارِسُ. (TA.)   </entryFree> <br>\
+' } );

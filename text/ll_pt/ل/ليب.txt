@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ليب</em>            1                  ليب<br>\
+<b>لَيَابٌ</b>               1     <br>\
+                     لَيَابٌ<br>\
+                     ذ<br>\
+                  <i>A quantity of food less than what fills the mouth:</i> (IAar, K:) or <i>a spoonful, that is chewed,</i> or <i>to be chewed.</i> (K, and said to be on the authority of IAar.) Mentioned by IM in art. لوب, and again in the present art. (TA.)   </entryFree> <br>\
+' } );

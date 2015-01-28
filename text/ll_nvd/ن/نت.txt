@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'نت1<br>\
+نَتَّ, [aor.<br>\
+نَتِ3َ,] inf. n. نَثِيتٌ, i. q. كَتّ, inf. n.<br>\
+كَتِيتٌ; (K;) and نَفَتَ, inf. n. نَفِيتٌ: (L, K:) [It<br>\
+(a cooking-pot) boiled: &amp;c.] ―<br>\
+-b2-  نَتَّ مَنْخِرُهُ غَضَبًا<br>\
+His nostril became inflated, or swollen, by reason<br>\
+of anger. (K.)<br>\
+2<br>\
+نتّت He explained news, tidings, or a<br>\
+report. (K.)<br>\
+5<br>\
+تَنَتَّ3َ See R. Q. 1.<br>\
+R. Q.1<br>\
+نَتْنَتَ (in a MS. copy of the K ↓ تَنَتَّتَ,<br>\
+[and so in the CK,] but the former is the more<br>\
+correct, TA) He (a man, L) became dirty (تقذّر)<br>\
+after having been clean. (IAar, L, K.)<br>\
+نُتَّةٌ A small hollow, or cavity, in [stones of the<br>\
+kind called] صَفْوَانٌ, (K,) in which the rain-water<br>\
+collects. (TA.)<br>\
+' } );

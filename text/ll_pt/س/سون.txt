@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سون</em>            1                  سون<br>\
+<b>تَسَوُّونٌ</b>               1     <br>\
+                     تَسَوُّونٌ<br>\
+                     ذ<br>\
+                  : see 1 in art. سول, last sentence.   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>رمو</em>            1                  رمو<br>\
+<b>رِمًا</b>               1     <br>\
+                     رِمًا<br>\
+                     ذ<br>\
+                  , mentioned under this head in the M, see the art. here following.   </entryFree> <br>\
+' } );

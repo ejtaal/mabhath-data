@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>صوج</em>            1                  صوج<br>\
+<b>صَوَّجَانٌ</b>               1     <br>\
+                     صَوَّجَانٌ<br>\
+                     ذ<br>\
+                  : see صَوْلَجَانٌ, in art. صولج.   </entryFree> <br>\
+' } );

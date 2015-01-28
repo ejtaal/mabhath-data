@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'كباكَبَا<br>\
+: said of a horse: see above, art. حَنَذَ,<br>\
+p. 656 b. ―<br>\
+-b2-  See also a phrase voce سَلَّةٌ. ―<br>\
+-b3-  كَبَا<br>\
+He fell upon his face: (K, TA:) or so كَبَا لِوَجْهِهِ:<br>\
+S, TA:) and كَباَ also signifies عَثَرَ [he stumbled,<br>\
+or tripped]. (TA.)<br>\
+' } );

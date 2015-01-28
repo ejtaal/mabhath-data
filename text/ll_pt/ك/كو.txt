@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كو</em>            1                  كو<br>\
+<b>كُوَّةٌ</b>               1     <br>\
+                     كُوَّةٌ<br>\
+                     ذ<br>\
+                   and كَوَّةٌ (S, Msb, K) and كَوٌّ (K) <i>A hole, or perforation. or an aperture,</i> (S, Mgh, Msb, K,) <i>in a wall</i> (Msb, K) or <i>chamber;</i> (S, Mgh;] [<i>a mural aperture;</i>] or the first and second, <i>a small one;</i> and the third, <i>a large one</i> (K.) See also مِشْكَاةٌ.   </entryFree> <br>\
+' } );

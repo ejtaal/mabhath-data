@@ -1,0 +1,72 @@
+load_data( { book: 'll_nvd', text: 'نزح1<br>\
+نَزَحَ, aor.<br>\
+نَزَحَ and<br>\
+نَزِحَ, inf. n. نَزْحٌ and نُزُوحٌ; (K;)<br>\
+and ↓ انتزح; (TA;) He, or it, (a thing, TA,)<br>\
+became distant, or remote. (K.) ―<br>\
+-b2-  نَزَحَتِ الدَّارُ,<br>\
+inf. n. نُزُوحٌ, The house, or dwelling, became distant,<br>\
+or remote. (S.) ―<br>\
+-b3-  نُزِحَ بِفُلَانٍ, (S, K,) a verb<br>\
+like عُنِىَ, [pass. in form, but neut. in signification,] (K,) Such a one became far removed from<br>\
+his dwelling-place. (S, K.)<br>\
+-A2-  نَزَحَ البِئْرَ, (S, Msb,<br>\
+K,) aor.<br>\
+نَزَحَ (Msb) and<br>\
+نَزِحَ, (TA,) inf. n. نَزْحٌ (S,<br>\
+Msb) and نُزُوحٌ; (Msb;) and ↓ أَنْزَحَهَا; (K;)<br>\
+He drew forth all the water of the well; exhausted<br>\
+it entirely: (S, Msb, K:) or he drew from it<br>\
+until little water remained in it; nearly exhausted<br>\
+it. (K.) ―<br>\
+-b2-  نَزَحَتِ البِئْرُ, (A, Msb, K,) aor.<br>\
+نَزَحَ,<br>\
+(TA,) inf. n. نَزَحٌ (K) and نُزُوحٌ, (TA,) The well<br>\
+became entirely exhausted: (A, Msb, K:) or, became nearly exhausted. (K.) See 4. ―<br>\
+-b3-  قَدْ نَزَحْتَنِى<br>\
+(assumed tropical:)  Thou hast exhausted me of what I had, or possessed. (L, from a trad.)<br>\
+4<br>\
+أَنْزَحَ القَوْمُ, (L, and so in some copies of the<br>\
+K, [agreeable with analogy,]) or ↓ نَزَحَ, (so in other<br>\
+copies of the K,) The people had the water of their<br>\
+wells entirely, or nearly, exhausted. (L, K.)<br>\
+See 1.<br>\
+8<br>\
+إِنْتَزَحَ see 1.<br>\
+شَرُّكَ سَرْحٌ وَخَيْرُكَ نَزْحٌ (tropical:)  [Thy wickedness ranges<br>\
+abroad unrestrained, and] thy goodness is little.<br>\
+(A.)<br>\
+نَزَحٌ: see نَازِحٌ. ―<br>\
+-b2-  Also, Turbid water. (K.)<br>\
+نُزُحٌ and نَزُوحٌ and نَزِيحٌ: see نَازِحٌ.<br>\
+نَازِحٌ and ↓ نُزُحٌ and ↓ نَزُوحٌ and ↓ نَزِيحٌ A thing,<br>\
+(K,) or dwelling, (TA,) distant, or remote. (K.)<br>\
+بَلَدٌ نَازِحٌ A distant, or remote, town, or country:<br>\
+(S:) and دَارٌ نَازِحَةٌ a distant, or remote, house, or<br>\
+dwelling. (Msb.) ―<br>\
+-b2-  ↓ قَوْمٌ مَنَازِيحُ A distant, or<br>\
+remote, people. (S, K.) And إِيِلٌ منازيح Camels<br>\
+from distant regions. (A.) ISd says, that it is<br>\
+pl. of ↓ مِنْزَاحٌ, meaning That comes to the water<br>\
+from a distant place. (L.)<br>\
+-A2-  نَازِحٌ and ↓ نُزُحٌ<br>\
+and ↓ نَزُوحٌ A well entirely exhausted: or nearly<br>\
+exhausted: (K:) or ↓ بِئْرٌ نَزُوحٌ signifies a well<br>\
+containing little water: pl. نُزُحٌ: (S:) and بِئْرٌ<br>\
+↓ نَزَحٌ, نَزَحٌ being of the measure فَعَلٌ in the sense<br>\
+of the measure مَفْعُولٌ, a well containing no water;<br>\
+and it is allowable to say مَنْزُوحَةٌ: (Msb:) or a<br>\
+well of which the water has been exhausted: (so<br>\
+in some copies of the S, and the like in the Nh:)<br>\
+or a well of which most of the water has been<br>\
+drawn forth. (So in other copies of the S, and<br>\
+in the K.) See an ex., voce مُدَارَةٌ, art. دور.<br>\
+مِنْزَحَةٌ A bucket (K) with which water is drawn;<br>\
+(TA;) and the like thereof. (K.)<br>\
+مِنْزَاحٌ and مَنَازِيحُ: see نَازِحٌ.<br>\
+انت بِمُنْتَزَحٍ مِنْ كَذَا (tropical:)  Thou art far removed<br>\
+from such a thing; (S, K *;) and, by poetic<br>\
+licence, بِمُنْتَزَاحٍ, with أَلِف إِشْبَاع. (S.) Ex.<br>\
+أَنْتَ مِنَ الدَّمِّ بِمُنْتَزَحٍ (tropical:)  Thou art far removed from<br>\
+blame. (A.)<br>\
+' } );

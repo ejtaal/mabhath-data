@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'فدح1<br>\
+فَدَحَهُ, (S, A, K,) aor.<br>\
+فَدَحَ, (K,) inf. n. فَدْحٌ,<br>\
+(TA,) It (a debt, S, A, K, and an affair, and a<br>\
+load, TA) burdened him, burdened him heavily,<br>\
+oppressed him, or overburdened him: (S, A, K:)<br>\
+↓ افدحةُ [in this sense], said of debt, has not been<br>\
+heard from any one in the correctness of whose<br>\
+Arabic speech confidence is placed. (S.)<br>\
+4<br>\
+أَفْدَحَ see the preceding paragraph: ―<br>\
+-b2-  and that<br>\
+here following.<br>\
+10<br>\
+استفدحةُ He deemed it (i. e. an affair [&amp;c.])<br>\
+burdensome, heavily burdening, oppressive, or overburdening: (A, TA:) or he found it to be so; as<br>\
+also ↓ افدحة. (K.)<br>\
+افدحهُ A debt, (A,) or an affair, (S, K,) [or a<br>\
+load, (see 1,)] burdening, burdening heavily, oppressing, or overburdening. (S, A, K.)<br>\
+فاَدِحَةٌ A misfortune, an affliction, or a calamity: [pl. فَوَادِحُ:] فَوَادِحُ الدَّهْرِ signifies the<br>\
+afflictions, or calamities, of fortune. (K, * TA.)<br>\
+مُفْدَحٌ: see the following paragraph.<br>\
+مَفْدُوحٌ A man burdened, heavily burdened,<br>\
+oppressed, or overburdened, by debt, or by an<br>\
+affair, or by a load: (S, * L, TA:) ↓ مُفْدَحٌ in<br>\
+this sense is not allowable. (L.)<br>\
+' } );

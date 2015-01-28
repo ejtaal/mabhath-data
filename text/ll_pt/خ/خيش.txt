@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>خيش</em>            1                  خيش<br>\
+<b>خَيْشٌ</b>               1     <br>\
+                     خَيْشٌ<br>\
+                     ذ<br>\
+                  <i>Garments,</i> or <i>pieces of cloth, of the worst of flax:</i> (S:) or <i>garments,</i> or <i>pieces of cloth, of thin texture, and of coarse threads, made of the hards,</i> or <i>hurds, of flax,</i> (K, * TA,) <i>and of the worst thereof:</i> (TA:) or <i>of the coarsest of</i> [<i>the stuff called</i>] عصب [i. e. عَصْب, q. v., in the copies of the K in my hands incorrectly written عَصَب]: (Lth, K:) or <i>coarse flax:</i> (Mgh:) or <i>a cloth of coarse flax.</i> (Har p. 544.) ―         -b2-  [Hence,] (assumed tropical:)  <i>A low, vile,</i> or <i>mean, man.</i> (K.)    </entryFree> <br>\
+<b>خَيْشِىٌّ</b>               1     <br>\
+                     خَيْشِىٌّ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      خَيَّاشٌ [<i>A weaver,</i> or <i>seller, of</i> <br>\
+                  خَيْش.The former mentioned in the K, and the latter in the TA, as surnames of men.]    </entryFree> <br>\
+<b>خَيَّاشٌ</b>               1     <br>\
+                     خَيَّاشٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

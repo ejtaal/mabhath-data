@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>فجن</em>            1                  فجن<br>\
+<b>افجن</b>               1     <br>\
+                     افجن<br>\
+                     ذ<br>\
+                  <i>He</i> (a man, TA) <i>kept constantly to the eating of</i> <br>\
+                  فَيْجَن [i. e. <i>rue</i>]. (K, TA.)    </entryFree> <br>\
+<b>فَيْجَنٌ</b>               1     <br>\
+                     فَيْجَنٌ<br>\
+                     ذ<br>\
+                   [<G>*ph/ganon</G>; i. e. <i>rue;</i>] <i>i. q.</i> <br>\
+                  سَذَابٌ; (S, K;) as also ↓ <br>\
+      فيجين: (T in art. خفت, and TA in art. ختف:) and so فَيْجَلٌ: (TA:) IDrd [rightly] says, “ I do not think it to be a genuine Arabic word. ” (TA.)    </entryFree> <br>\
+<b>فيجين</b>               1     <br>\
+                     فيجين<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.   </entryFree> <br>\
+' } );

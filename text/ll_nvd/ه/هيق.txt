@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'هيقهَيْقَةٌ<br>\
+A female ostrich. (A, art. زمر.)<br>\
+' } );

@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '<em>توج</em>            1                  توج<br>\
+<b>توّجهُ</b>               1     <br>\
+                     توّجهُ<br>\
+                     توج<br>\
+                     توجه<br>\
+                     توجة<br>\
+                     وجه<br>\
+                  <i>He crowned him; invested him with the crown.</i> (S, A, Msb, * K.) ―         -b2-  <i>He made him a prince, lord,</i> or <i>chief.</i> (Msb, * TA.) ―         -b3-  (assumed tropical:)  <i>He turbaned him; invested him with the turban.</i> (TA.)    </entryFree> <br>\
+<b>تتوّج</b>               1     <br>\
+                     تتوّج<br>\
+                     تتوج<br>\
+                     توج<br>\
+                  <i>He was,</i> or <i>became, crowned,</i> or <i>invested with the crown.</i> (S, A, K.) [For the verb تَاجَ, in this or a similar sense, mentioned in the Lexicons of Golius and Freytag, in the former as from the K, I find no authority: on the contrary, it is said in the TA that no verb answering to تَايِجٌ has been heard.] ―         -b2-  <i>He was made,</i> or <i>became, a prince, lord,</i> or <i>chief.</i> (TA.) ―         -b3-  (assumed tropical:)  <i>He was,</i> or <i>became, turbaned,</i> or <i>invested with the turban.</i> (TA.)    </entryFree> <br>\
+<b>تَاجٌ</b>               1     <br>\
+                     تَاجٌ<br>\
+                     تاج<br>\
+                  <i>A crown;</i> (S, A, K, TA;) i. e. <i>a thing that is made for kings, of gold and jewels;</i> (TA;) <i>peculiar to the</i> <br>\
+                  عَجَم [or <i>Persians and other foreigners</i>]: (Msb:) [a Persian word:] pl. [of mult.] تِيجَانٌ (S, A, Mgh, Msb, K) and [of pauc.] اَتْوَاجٌ. (TA.) ―         -b2-  (assumed tropical:)  <i>A turban;</i> as being likened to a crown. (TA.) It is said in a trad., (TA,) العَمَايِمُ تِيجَانُ العَرَبِ [<i>Turbans are the crowns of the Arabs</i>]; (S, TA;) i. e. turbans are to the Arabs as crowns to the kings; for the Arabs in the deserts are [or were] mostly bare-headed or wearing قَلَانِس [pl. of قَلَنْسُوَةٌ, q. v.]; turbans among them being few. (TA.) ―         -b3-  Also <i>Silver.</i> (TA.) [See what next follows.]    </entryFree> <br>\
+<b>تَاجَةٌ</b>               1     <br>\
+                     تَاجَةٌ<br>\
+                     تاج<br>\
+                     تاجه<br>\
+                     تاجة<br>\
+                  <i>An ingot of purified silver:</i> originally تَازَهْ, a Persian word, applied to a dirhem recently coined. (TA.)    </entryFree> <br>\
+<b>تَايِجٌ</b>               1     <br>\
+                     تَايِجٌ<br>\
+                     ذ<br>\
+                  <i>Having a</i> <br>\
+                  تَاج [i. e. <i>crown,</i> or (assumed tropical:)  <i>turban</i>]; an epithet applied to an اـِمَام: (K:) it is a possessive epithet, like دَارِعٌ, for we have not heard any verb answering to it. (TA.)    </entryFree> <br>\
+<b>مُتَوَّجٌ</b>               1     <br>\
+                     مُتَوَّجٌ<br>\
+                     متوج<br>\
+                  <i>Crowned;</i> applied to a king: (A, TA:) (assumed tropical:)  <i>made a prince, lord,</i> or <i>chief:</i> (assumed tropical:)  <i>turbaned.</i> (TA.)    </entryFree> <br>\
+<b>مَتَاوِجُ</b>               1     <br>\
+                     مَتَاوِجُ<br>\
+                     متاوج<br>\
+                   [a pl. of which the sing. is not mentioned,] occurring in the saying of Jendel Er-Rá&#39;ee, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَهُنَّ يَعْمِينَ مِنَ المَلَامِجِ<br>\
+                     <L><br>\
+                        بِقَرِدٍ مُخْرَنْطِمِ المَتَاوِجِ<br>\
+                  </quote> signifies [properly The <i>parts of the head</i>] <i>where one is crowned</i> (حَيْثُ يُتَتَوَّجُ) <i>with the turban:</i> (K,* TA:) [but it is evidently here used in a tropical manner; the poet is speaking of she-camels:] the ملامج are the mouths; [or the parts around the mouths;] and the قَرِد, a word like كَتِف, is the accumulated foam which the camel casts forth from his mouth. (TA.) [It seems that the poet means, <i>And they cast forth, from the parts around the mouth, accumulated foam, elongated in the extremities:</i> <br>\
+                  مُخْرَنْطِم being app. syn. with مُخَرْطَم, as meaning “ elongated like a خُرْطُوم, ” or “ snout. ”]   </entryFree> <br>\
+' } );

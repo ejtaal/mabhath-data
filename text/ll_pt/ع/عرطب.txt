@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>عرطب</em>            1                  عرطب<br>\
+<b>عَرْطَبَةٌ</b>               1     <br>\
+                     عَرْطَبَةٌ<br>\
+                     ذ<br>\
+                   The <i>lute:</i> (S, O, * K: *) or the [<i>kind of mandoline called</i>] طُنْبُور: (O, K:) or the [<i>Persian lute, called</i>] بَرْبَط: (O:) or the <i>drum:</i> (S, K:) or the <i>drum that is contracted in the middle:</i> (O:) or the <i>Abyssinian drum:</i> (K:) also pronounced with damm [i. e. عُرْطُبَةٌ] (K, TA) in the first two senses. (TA.)   </entryFree> <br>\
+' } );

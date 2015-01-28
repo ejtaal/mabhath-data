@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>قدو</em>            1                  قدو<br>\
+<b>قُدْوَةٌ</b>               1     <br>\
+                     قُدْوَةٌ<br>\
+                     ذ<br>\
+                   and قِدْوَةٌ (S, Msb, K,) and قَدْوَةٌ (K,) <i>A pattern; an exemplar; an example; an object of imitation; one who is,</i> or <i>is to be, imitated.</i> (S, Msb, K, TA.) See اـِسْوَةٌ.    </entryFree> <br>\
+<b>قِدْيَهٌ</b>               1     <br>\
+                     قِدْيَهٌ<br>\
+                     ذ<br>\
+                  : see فِدْيَهٌ.    </entryFree> <br>\
+<b>قَادِيَةٌ</b>               1     <br>\
+                     قَادِيَةٌ<br>\
+                     ذ<br>\
+                   The <i>first that come to one,</i> or <i>come upon one, of a company of men.</i> (TA in art. طحم.)   </entryFree> <br>\
+' } );

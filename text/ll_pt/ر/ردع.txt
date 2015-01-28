@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>ردع</em>            1                  ردع<br>\
+<b>رَدَعَهُ</b>               1     <br>\
+                     رَدَعَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     رَدَعَ<br>\
+                  , inf. n. رَدْعٌ, <i>He restrained, withheld, prevented,</i> or <i>hindered, him; made him to restrain himself, withhold himself, refrain, forbear,</i> or <i>abstain;</i> (S, Msb, K;) <i>turned him back, repelled him,</i> or <i>averted him;</i> (K;) عَنِ <br>\
+                  الشَّىْءِ <br>\
+                  <i>from the thing.</i> (S, Msb, K. *) ―         -b2-  [Hence, app.,] رَدَعَ جَيْبَهُ عَنْهُ (assumed tropical:)  <i>He cleared his bosom,</i> or <i>heart, of it;</i> syn. فَرَجَهُ, or فَرَّجَهُ; (accord. to different copies of the K;) [as though he withheld his mind from it;] meaning, grief, and perturbation; جيب being used to signify the “ bosom, ” and the “ heart: ” (TK:) mentioned by Sgh. (TA.)    </entryFree> <br>\
+<b>ترادع القَوْمُ</b>               1     <br>\
+                     ترادع القَوْمُ<br>\
+                     ذ<br>\
+                  <i>The people,</i> or <i>company of men, restrained, withheld, prevented,</i> or <i>hindered, one another; made one another to restrain himself, withhold himself, refrain, forbear,</i> or <i>abstain; turned back, repelled,</i> or <i>averted, one another.</i> (TA.)    </entryFree> <br>\
+<b>ارتدع</b>               1     <br>\
+                     ارتدع<br>\
+                     ذ<br>\
+                  <i>He became restrained, withheld, prevented,</i> or <i>hindered; was made to restrain himself, withhold himself, refrain, forbear,</i> or <i>abstain;</i> or <i>he restrained himself, withheld himself, refrained, forbore,</i> or <i>abstained;</i> (S, Msb, K, TA;) <i>he became turned back, repelled,</i> or <i>averted;</i> or <i>he turned back,</i> or <i>reverted.</i> (K.) You say, ارتدع بِرَوَادِعِ القُرْا=نِ [<i>He became restrained by the restrictions of the Kur-án</i>]. (Msb.)    </entryFree> <br>\
+<b>رَادِعَةٌ</b>               1[     <br>\
+                     رَادِعَةٌ<br>\
+                     ذ<br>\
+                  , app. for ا=يَةٌ رَادِعَةٌ <br>\
+                  <i>A restraining verse</i> of the Kur-án, seems to be the sing. of رَوَادِعُ, of which an ex. occurs above: see 8.]   </entryFree> <br>\
+' } );

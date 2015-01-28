@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>وجذ</em>            1                  وجذ<br>\
+<b>وَجْذٌ</b>               1     <br>\
+                     وَجْذٌ<br>\
+                     ذ<br>\
+                  <i>A small,</i> or <i>round, hollow,</i> or <i>cavity, in a mountain,</i> (S, L, K,) <i>in which water collects,</i> (S,) or <i>which retains water,</i> (L, K,) <i>and in which it stagnates:</i> (L:) or <i>a pool:</i> (L:) and (some say, TA) <i>a tank,</i> or <i>cistern:</i> (K:) pl. وِجَاذٌ (S, L, K) and وِجْذَانٌ. (L, K.)    </entryFree> <br>\
+<b>مَكَانٌ وَجِذٌ</b>               1     <br>\
+                     مَكَانٌ وَجِذٌ<br>\
+                     ذ<br>\
+                  <i>A place abounding with</i> <br>\
+                  وِجَاذ, pl. of وَجْذٌ. (K.)   </entryFree> <br>\
+' } );

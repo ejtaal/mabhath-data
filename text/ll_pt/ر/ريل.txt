@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ريل</em>            1                  ريل<br>\
+<b>رَالَ</b>               1     <br>\
+                     رَالَ<br>\
+                     ذ<br>\
+                  , aor. يَرِيلُ, <i>He</i> (a child) <i>slavered.</i> (Ibn- &#39;Abbád, O, K.) [See also art. رول.]    </entryFree> <br>\
+<b>رِيَالٌ</b>               1     <br>\
+                     رِيَالٌ<br>\
+                     ذ<br>\
+                  <i>Slaver;</i> (Ibn-&#39;Abbád, K;) [like رُوَالٌ;] without ء. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'عalphabetical letter<br>\
+ع<br>\
+The eighteenth letter of the alphabet: called عَيْنٌ.<br>\
+It is [one of the letters termed مَجْهُورَة, or vocal,<br>\
+i. e. pronounced with the voice, not with the<br>\
+breath only; and] of the letters termed حَلْقِيَّة<br>\
+[or faucial]; these being ع and ح and ه and خ<br>\
+and غ [and أ]; the lowest of which in its place<br>\
+of utterance is ع; wherefore Kh [in the composition of his lexicon entitled “ Kitáb el-&#39;Eyn ”] and<br>\
+several other lexicographers [after him] began<br>\
+their books with [words having] this letter [in<br>\
+their roots], giving the next place to ح, the next<br>\
+to ه, the next to خ, and the next to غ. (L, TA.)<br>\
+It is substituted for ء [in what is termed the عَنْعَنَة<br>\
+of Temeem]; as in عَنْ for أَنْ: and for ح; as<br>\
+in عَتَّى for حَتَّى, and صُبْعٌ for صُبْحٌ: and for غ;<br>\
+as in عُلَامٌ for غُلَامٌ. (MF, TA.) It is never<br>\
+consociated with ح in any word of which the<br>\
+letters are all radicals; unless it be a word compounded of two words, as حَيْعَلَ from حَىَّ عَلَى.<br>\
+(Kh, TA.)<br>\
+-A2-  [As a numeral, it denotes Seventy.]<br>\
+' } );

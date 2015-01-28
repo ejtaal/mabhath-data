@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'قهقمقَهْقَمٌ<br>\
+i. q.<br>\
+قَهْقَبٌ<br>\
+Big; bulky; large in body.<br>\
+(L.)<br>\
+' } );

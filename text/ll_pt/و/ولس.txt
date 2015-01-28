@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ولس</em>            1                  ولس<br>\
+<b>وَالَسَ</b>               1     <br>\
+                     وَالَسَ<br>\
+                     ذ<br>\
+                  <i>He acted perfidiously,</i> or <i>practised fraud:</i> see دَالَسَ.     <br>\
+<b>وَلْسٌ</b>               1     <br>\
+                     وَلْسٌ<br>\
+                     ذ<br>\
+                  <i>Treachery:</i> see دَلَّسَ.   </entryFree> <br>\
+' } );

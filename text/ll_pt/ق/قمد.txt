@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>قمد</em>            1                  قمد<br>\
+<b>قَمِدَ</b>               1     <br>\
+                     قَمِدَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَمَدَ<br>\
+                  , (TA,) inf. n. قَمَدٌ, (K,) <i>He,</i> or <i>it, was,</i> or <i>became, tall,</i> or <i>long:</i> or <i>he was,</i> or <i>became, large and long in the neck.</i> (K, TA.)    </entryFree> <br>\
+<b>اـِقْمَهَدَّ</b>               1     <br>\
+                     <i>Q. Q. 4</i>        <br>\
+                     اـِقْمَهَدَّ<br>\
+                     ذ<br>\
+                   [in which the ه is an augmentative letter accord. to J, is said by F to be improperly assigned by J to this art.] see art. قمهد.    </entryFree> <br>\
+<b>قُمُدٌّ</b>               1     <br>\
+                     قُمُدٌّ<br>\
+                     ذ<br>\
+                   (Lth, S, L, K) and قُمُدٌ (K) or قُمْدٌ (L) and قُمْدُدٌ (Lth, L) and قُمْدُودٌ and قُمَادٌ and قُمَادِىٌّ (K) and قُمُدَّانٌ and قُمُدَّانِىٌّ (L, K) <i>Strong:</i> (Lth, S, K:) or <i>strong and hard</i> or <i>hardy:</i> (L:) or <i>gross, thick, coarse,</i> or <i>rude,</i> (K,) <i>and hard,</i> or <i>hardy:</i> (TA:) applied to a man: (L, K:) fem. قُمُدَّةٌ (S) and قُمُدَّانَةٌ and قُمُدَّانِيَّةٌ. (L.) ―         -b2-  اـِنَّهُ لَقُمُدٌّ قُمْدُدٌ <br>\
+                  <i>Verily he is very strong.</i> (Lth, L.) ―         -b3-  ذَكَرٌ قُمُدٌّ <br>\
+                  <i>Penis vehementer se erigens,</i> (L, K,) or القُمُدُّ is a name of <i>the penis.</i> (L.) ―         -b4-  See also اَقْمَدُ.    </entryFree> <br>\
+<b>اَقْمَدُ</b>               1     <br>\
+                     اَقْمَدُ<br>\
+                     ذ<br>\
+                  , fem. قَمْدَا=ءُ, (L, K,) and ↓ <br>\
+      قُمُدٌّ and [fem.? see قُمُدُّ above] قُمُدَّةٌ and قُمُدَّانِيَّةٌ, (K,) <i>Large and long in the neck:</i> or <i>tall,</i> (L, K,) <i>in a general sense:</i> applied to a human being. (L.) ―         -b2-  نَحْنُ <br>\
+                  قُمْدُ الاَقْمَادِ <br>\
+                  <i>We are thick-necked.</i> (L.) ―         -b3-  See also قُمُدٌّ.   </entryFree> <br>\
+' } );

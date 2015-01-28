@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'كغدكَاغَدٌ, (Msb, K,) and كَاغِدٌ, (L, TA,) Paper;<br>\
+syn. قِرْطَاسٌ [which seems to be properly paper<br>\
+made of the papyrus]: (K:) a Persian word,<br>\
+(L,) arabicized. (L, K.) The د is sometimes<br>\
+changed into ذ, (Msb, TA,) and into ط. (TA.)<br>\
+[<br>\
+كَاغَِدِىٌّ A maker, or seller, of paper.]<br>\
+' } );

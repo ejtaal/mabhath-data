@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>شنو</em>            1                  شنو<br>\
+<b>مَشْنُوٌّ</b>               1     <br>\
+                     مَشْنُوٌّ<br>\
+                     ذ<br>\
+                   and مَشْنِىٌّ: see مَشْنُوْءٌ, in art. شنا.    </entryFree> <br>\
+<b>مَشْنِيَّةٌ</b>               1     <br>\
+                     مَشْنِيَّةٌ<br>\
+                     ذ<br>\
+                  : see مَشْنِيْيَةٌ, in art. شنا.   </entryFree> <br>\
+' } );

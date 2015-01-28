@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>خندرس</em>            1                  خندرس<br>\
+<b>خَنْدَرِيسٌ</b>               1     <br>\
+                     خَنْدَرِيسٌ<br>\
+                     خندريس<br>\
+                  <i>Wine;</i> (S, K;) so called because of its oldness: (S:) or <i>old wine:</i> (TA:) [accord. to some,] derived from خَدْرَسَةٌ, a word not explained: (K:) by some said to be of the measure فَنْعَلِيسٌ, so that its radical letters are خدر; because wine is مُخَدِّر [i. e. a cause of torpor or languor]: by some said to be from خَرْسٌ; but to this it is objected that د is not augmentative: the truth is, that it is of the measure فَعْلَلِيلٌ, as Sb says: (MF:) by the author of the L and others, it is mentioned after art. خنس: (TA:) or it is a Greek word, arabicized: (K:) [but I know not how this is, unless, as an epithet applied to wheat, (see what follows,) it be supposed to be from        <br>\
+      <orth lang=&quot;gr&quot;>χόνδρος</orth>:] IDrd thought it to be an arabicized word: it may be an arabicized word from the Persian خَنْدَهْ رِيشْ, meaning “ having a laughing beard,” [or rather “one whose beard is laughed at,” i. e., “a laughing-stock,”] because he who makes use of it [namely of wine] has his beard laughed at. (TA.) ―         -b2-  You also say, حِنْطَة خَنْدَرِيسٌ <br>\
+                  <i>Old wheat:</i> (IDrd, S, K:) and تَمْرٌ خَنْدَرِيسٌ <br>\
+                  <i>old dates.</i> (TA.)   </entryFree> <br>\
+' } );

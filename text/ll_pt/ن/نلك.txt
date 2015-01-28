@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نلك</em>            1                  نلك<br>\
+<b>نُلْكٌ</b>               1     <br>\
+                     نُلْكٌ<br>\
+                     ذ<br>\
+                   A kind of medlar-tree, <i>Mespilus aronia.</i> See رُوبَةٌ.   </entryFree> <br>\
+' } );

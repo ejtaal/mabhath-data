@@ -1,0 +1,32 @@
+load_data( { book: 'll_nvd', text: 'وزن1<br>\
+وَزَنَ<br>\
+It (a thing) was heavy: (Msb:) or<br>\
+outweighed, or preponderated; syn. وَجَحَ. (TA.)<br>\
+3<br>\
+هٰذَا يُوَازِنُ هٰذَا<br>\
+This is equiponderant to<br>\
+this. (S.)<br>\
+8<br>\
+اِتَّزَنَهُ<br>\
+He took it, or received it, by weight.<br>\
+(S, * Mgh, Msb, K. *) See an ex. voce سَنْجَةٌ.<br>\
+الوَزْنُ<br>\
+A certain star in the left fore leg of<br>\
+Centaurus. (Kzw.) See حَضَارِ.<br>\
+زِنِىٌّ<br>\
+, rel. n. of زِنَةٌ. (S, art. وعد, q. v., voce<br>\
+عِدَةٌ.)<br>\
+وَازِنٌ<br>\
+: see رَاجِحٌ: heavy: (Msb:) or of full<br>\
+weight: (KL:) pl. وُزَّنٌ: see زَالٌّ. You say,<br>\
+دِرْهَمٌ وَازِنٌ (S) A full, or complete, dirhem: (so<br>\
+in a copy of the S:) [a dirhem of full weight:<br>\
+a heavy dirhem. (PS.)<br>\
+وَزَّانٌ<br>\
+A weigher. (TA, in art. قسط.)<br>\
+مِيزَانٌ<br>\
+A weighing-instrument; (TA:) a<br>\
+balance; a pair of scales. ―<br>\
+-b2-  The weight of a<br>\
+thing. (K, &amp;c.) See مِثْقَالٌ.<br>\
+' } );

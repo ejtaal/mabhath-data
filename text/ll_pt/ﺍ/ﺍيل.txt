@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ايل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ايل<br>\
+&lt;entryFree id=&quot;n1610&quot; key=&quot;اـِيلُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيلُ<br>\
+                     ايل<br>\
+                     اـيل<br>\
+                     ايل<br>\
+                     آيل<br>\
+                  &lt;/form&gt; a name of &lt;i&gt;God;&lt;/i&gt; (Lth, T, S, M, K;) a Hebrew word; (Lth, S;) or Syriac: (S:) it is a dial. var. of اـِلُّ [q. v.]: or the latter may be an arabicized form of the former: (Az, TA:) Ibn-El-Kelbee says that جَبْرَيِيلُ and مِيكَايِيلُ and the like are similar to عَبْدُ اْللّٰهِ and عَبْدَ الرَّحْمَانِ; (M;) [and J says,] they are like عَبْدُ اْللّٰهِ and تَيْمُ اْللّٰهِ: (S:) so that جَبْر signifies “ servant, ” and is prefixed to ايل, governing it in the gen. case: (M:) but this is not a valid assertion; for were it so, such names would be perfectly decl.: (M in art. ال:) Suh says, in the R, that جِبرييل is Syriac, and means عَبْدُ الرَّحْمَانِ, or عَبْدُ العزِيزِ, as is related on the anthority of I&#39;Ab: that most persons hold ايل in this case to be a name of God: but that some hold names of this kind to be constructed inversely, after the manner of the language of the &#39;Ajam; ايل meaning &lt;i&gt;servant.&lt;/i&gt; (TA. [See what is said of اـِلُّ.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1611&quot; key=&quot;اـِيلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيلَةٌ<br>\
+                     ايل<br>\
+                     ايله<br>\
+                     ايلة<br>\
+                     ايله<br>\
+                     ايلة<br>\
+                     آيل<br>\
+                     آيله<br>\
+                     آيلة<br>\
+                  &lt;/form&gt;: see art. اول.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1612&quot; key=&quot;اَيْلُولُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْلُولُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [written by some اـِيلُولُ] &lt;i&gt;One of the Greek&lt;/i&gt; [or &lt;i&gt;Syrian&lt;/i&gt;] &lt;i&gt;months;&lt;/i&gt; (T, * M, Kzw;) &lt;i&gt;the last thereof&lt;/i&gt; [&lt;i&gt;corresponding with September, O. S.&lt;/i&gt;]. (Kzw.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1613&quot; key=&quot;اـِيَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيَالٌ<br>\
+                     ايال<br>\
+                  &lt;/form&gt;: see art. اـِيَالَةٌ.   &lt;/entryFree&gt; <br>\
+' } );

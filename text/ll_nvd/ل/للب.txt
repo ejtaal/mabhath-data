@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'للبلَوْلَبٌ: see art. لب.<br>\
+مُلَوْلَبٌ i. q. مِرْوَدٌ (S, K) and the like. (S.) Of<br>\
+the measure مُفَوْعَلٌ: (S, K:) or, accord. to some,<br>\
+فَعَوْعَلٌ. (TA.)<br>\
+' } );

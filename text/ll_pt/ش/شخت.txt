@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>شخت</em>            1                  شخت<br>\
+<b>شَخُتَ</b>               1     <br>\
+                     شَخُتَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     شَخُتَ<br>\
+                  , inf. n. شُخُوتَةٌ, (K,) said of a man, (S,) [and app., in like manner, of anything,] <i>He</i> [or <i>it</i>] <i>was,</i> or <i>became, thin,</i> or <i>slender,</i> (S, L, K,) <i>lean, and lank in the belly, not in consequence of emaciation.</i> (L, K.)    </entryFree> <br>\
+<b>تَشْخِيتٌ</b>               1     <br>\
+                     تَشْخِيتٌ<br>\
+                     ذ<br>\
+                   The <i>bringing, conveying,</i> or <i>causing to come;</i> syn. اـِبْلَاغٌ. (K.) One says, شخّتهُ اـِلَيْهِ <br>\
+                  <i>He brought it,</i> &amp;amp;c., <i>to him.</i> (TK.)    </entryFree> <br>\
+<b>شَخْتٌ</b>               1     <br>\
+                     شَخْتٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      شَخِيتٌ, (S, A, K,) the former also pronounced ↓ <br>\
+      شَخَتٌ, (K, TA,) by some, (TA,) applied to a man, (S,) <i>Thin,</i> or <i>slender,</i> (S, A, L, K,) <i>lean, and lank in the belly, not in consequence of emaciation:</i> (A, L, K:) <i>slender in the body:</i> fem. of the first with ة: (TA:) pl. شِخَاتٌ: (S, A, K:) or شَخْتٌ signifies <i>thin,</i> or <i>slender,</i> as applied to anything: thus it is applied to him who is thin, or slender, in the neck, and in the legs: one says, [of a beast,] اـِنَّه لَشَخْتُ الجُزَارَةِ <br>\
+                  <i>Verily he is thin,</i> or <i>slender, in the legs:</i> (TA:) and قَوَايِمُهُ شِخَاتٌ <br>\
+                  <i>His legs are thin,</i> or <i>slender:</i> (A:) and حَطَبٌ شَخْتٌ <br>\
+                  <i>Slender firewood.</i> (TA.) ―         -b2-  [Hence,] اـِنَّهُ لَشَخْتُ العَطَا=ءِ (assumed tropical:)  <i>Verily he is one who gives little.</i> (TA.) And زَيْدٌ شَخْتُ الخُلُقِ (tropical:)  <i>Zeyd is low, ignoble,</i> or <i>mean, in natural disposition.</i> (A, TA.) ―         -b3-  Some say that it is arabicized, from the Pers. سَخْت. (TA.)    </entryFree> <br>\
+<b>شَخَتٌ</b>               1     <br>\
+                     شَخَتٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>شَخِيتٌ</b>               1     <br>\
+                     شَخِيتٌ<br>\
+                     ذ<br>\
+                  : see شَخْتٌ: ―         -b2-  and also what here follows.    </entryFree> <br>\
+<b>شِخِّيتٌ</b>               1     <br>\
+                     شِخِّيتٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      شَخيتٌ and شِخْتِيتٌ Dust (غُبَارٌ) <i>rising,</i> or <i>spreading,</i> or <i>diffusing itself.</i> (K.)    </entryFree> <br>\
+<b>شِخْتِيتٌ</b>               1     <br>\
+                     شِخْتِيتٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

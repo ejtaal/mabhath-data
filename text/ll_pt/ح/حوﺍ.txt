@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حوا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حوا<br>\
+&lt;entryFree id=&quot;n9396&quot; key=&quot;حَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَا=ءٌ<br>\
+                     حذا=ء<br>\
+                  &lt;i&gt;The name of the letter&lt;/i&gt; <br>\
+                  ح, q. v.; as also حَا: (S and K and TA in باب الالف اللّينة:) it is called حا in a case of pause, and حَا=ءٌ when made a noun: and when it is not called a letter, [i. e. when one does not prefix to it the word حَرْف,] it is [properly] fem.: its dim. is حُيَيَّةٌ, meaning &lt;i&gt;a&lt;/i&gt; <br>\
+                  ح <br>\
+                  &lt;i&gt;written small,&lt;/i&gt; or &lt;i&gt;indistinct:&lt;/i&gt; (Lth, TA ubi suprà:) and its pl. is اَحْوَا=ءٌ and اَحْيَا=ءٌ and حَاا=تٌ. (TA ubi suprà.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9397&quot; key=&quot;حَايِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَايِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and حَاوِىٌّ and حَوِىٌّ [a mistranscription for حَيَوِىٌّ, like بَيَوِىٌّ and تَيَوِىٌّ,] rel. ns. of حَا=ءٌ and حَا the names of the letter ح. (B, TA ubi suprà.)   &lt;/entryFree&gt; <br>\
+' } );

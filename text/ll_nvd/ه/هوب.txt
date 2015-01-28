@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'هوب1<br>\
+هُوبَ: see art. هيب.<br>\
+هَوْبٌ Distance; remoteness. (S, K.) ―<br>\
+-b2-  تَرَكْتُهُ<br>\
+فِى هَوْبٍ دَابرٍ, and دَابِرٍ ↓ هُوبٍ, (S, K,) or, accord.<br>\
+to some, as stated in a marginal note in a copy<br>\
+of the S, in the handwriting of Aboo-Zekereeya,<br>\
+فى هوبِ دابرٍ, with هوب as a prefixed n., (TA,)<br>\
+I left him in such a place that it was not known<br>\
+where he was: (S, K:) هوب داير being the<br>\
+name of a land over which the Jinn, or genii,<br>\
+have obtained ascendancy: (TA:) or the correct<br>\
+reading is [هوت] with ت. (K.)<br>\
+-A2-  هَوْبٌ A stupid, or foolish, and loquacious, man: (A&#39;Obeyd,<br>\
+S, K:) pl. أَهْوَابٌ. (TA.)<br>\
+-A3-  هَوْبٌ The heat,<br>\
+or burning, of fire; (S, K;) and its flaming, or<br>\
+blazing; of the dial. of El-Yemen: also, the<br>\
+heat, or burning of the sun: also of the dial. of<br>\
+El-Yemen. (TA.)<br>\
+هُوبٌ: see هَوْبٌ.<br>\
+مَهُوبٌ: see art. هيب.<br>\
+' } );

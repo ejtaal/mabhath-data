@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>غبث</em>            1                  غبث<br>\
+<b>غَبَثَ</b>               1     <br>\
+                     غَبَثَ<br>\
+                     ذ<br>\
+                  , (S, O,) aor.      <br>\
+                     غَبَثَ<br>\
+                  , (TK,) inf. n. غَبْثٌ, (S, O, K,) <i>He moistened, and beat up,</i> or <i>mingled,</i> [the preparation of curd called] اَقِط <br>\
+                  <i>with clarified butter.</i> (Fr, S, O, K.) [See also عَبَثَ, of which it is a dial. var.; and عَبَثَتِ المَرْاَةُ, and عَبَثَ <br>\
+                  الاَقِطَ.]    </entryFree> <br>\
+<b>اغبثّ</b>               1     <br>\
+                     اغبثّ<br>\
+                     ذ<br>\
+                  , inf. n. اِغْبِثَاثٌ, <i>He,</i> or <i>it, was,</i> or <i>became,</i> <br>\
+                  اَغْبَث, (S, O, K,) i. e., <i>of a colour inclining to that of dust,</i> (S,) or <i>dust-coloured.</i> (O.)    </entryFree> <br>\
+<b>غُبْثَةٌ</b>               1     <br>\
+                     غُبْثَةٌ<br>\
+                     ذ<br>\
+                   [formed by transposition from بُغْثَةٌ] <i>A colour inclining to that of dust:</i> (TA:) or <i>dustcolour.</i> (O.)    </entryFree> <br>\
+<b>غَبِيثَةٌ</b>               1     <br>\
+                     غَبِيثَةٌ<br>\
+                     ذ<br>\
+                   [The <i>preparation of curd called</i>] اَقِْط <br>\
+                  <i>moistened, and beaten up,</i> or <i>mingled, with clarified butter.</i> (Fr, S, O, K.) [See also غَبِيثَةٌ, of which it is a dial. var.] ―         -b2-  And <i>I. q.</i> <br>\
+                  غَبِيثَةٌ in its [other] meanings. (O, * K.)    </entryFree> <br>\
+<b>اَغْبَثُ</b>               1     <br>\
+                     اَغْبَثُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَبْغَثُ, (S, O, K,) from which it is formed by transposition, (S, O,) <i>Of a colour inclining to that of dust:</i> (TA:) or <i>dust-coloured.</i> (O.)    <br>\
+' } );

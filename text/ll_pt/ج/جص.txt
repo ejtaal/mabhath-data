@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>جص</em>            1                  جص<br>\
+<b>جصّص</b>               1     <br>\
+                     جصّص<br>\
+                     جصص<br>\
+                  <i>He plastered</i> a building <i>with</i> <br>\
+                  جِصّ [or <i>gypsum</i>]: (Mgh, K:) or <i>he made</i> a house <i>therewith:</i> (Msb:) <i>i. q.</i> <br>\
+                  قَصَّصَ, (S, TA,) which is of the dial. of El-Hijáz. (TA.)    </entryFree> <br>\
+<b>جِصٌّ</b>               1     <br>\
+                     جِصٌّ<br>\
+                     جص<br>\
+                   (S, Mgh, Msb, K) and جَصٌّ (S, Mgh, K,) but the former is the more chaste: (TA, from an Expos. of the Fs:) the latter is disapproved by IDrd, and disallowed by ISk; (TA;) and it is said in the Bári&#39;, on the authority of AHát, that the latter is the form used by the vulgar, and the former is that which is correct: (Msb:) [<i>Gypsum; a certain substance</i>] <i>with which one builds,</i> (S,) or <i>plasters;</i> (Mgh;) <i>well known:</i> (Msb, K:) arabicized; (S, Mgh, Msb, K;) because ج and ص do not occur in any Arabic word; (Msb;) or, accord. to AZ, there are some [Arabic] words in which they both occur, as has been mentioned in art. اجص: from كَجْ (Mgh, K, [in the CK كَچْ]) or, as some say, گَچْ; which are Persian: (TA:) in the dial. of the people of El-Hijáz, قصّ [i. e.قِصٌّ or قَصٌّ]. (Lth, TA.) [The n. un. is with ة: see art. قص.]    </entryFree> <br>\
+<b>جَصَّاصٌ</b>               1     <br>\
+                     جَصَّاصٌ<br>\
+                     جصاص<br>\
+                  <i>A preparer of</i> <br>\
+                  جِصّ [or <i>gypsum</i>]. (S, K.)    </entryFree> <br>\
+<b>جَصَّاصَاتٌ</b>               1     <br>\
+                     جَصَّاصَاتٌ<br>\
+                     جصاص<br>\
+                     جصاصات<br>\
+                   [pl. of جَصَّاصَةٌ] <i>Places in which</i> <br>\
+                  جِصّ [or <i>gypsum</i>] <i>is made.</i> (K.)   </entryFree> <br>\
+' } );

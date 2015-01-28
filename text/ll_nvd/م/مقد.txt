@@ -1,0 +1,31 @@
+load_data( { book: 'll_nvd', text: 'مقدمَقَدِىٌّ A certain kind of beverage, prepared<br>\
+from honey, (S, L, K,) which the Khaleefehs of<br>\
+the sons of Umeyyeh used to drink: (L:) so<br>\
+called in relation to a town in Syria, (S, L,) called<br>\
+مَقَدٌ; or in relation to a town in Syria in the<br>\
+province of El-Urdunn: (L:) or this is a mistake;<br>\
+for the name of the town is with teshdeed [مَقَدٌّ]:<br>\
+IB says, that the orthography of the word as best<br>\
+known to the lexicologists is مَقَدِىٌّ, without<br>\
+teshdeed; but that A &#39;Obeyd and others write it<br>\
+with teshdeed; and that IAmb cites in confirmation of its being thus a verse of &#39;Amr Ibn-Maadeekerib, at the end of which occurs the expression<br>\
+شَغَلُوهُ عَنْ شَرْبِ المَقَدِّ; without ى; [app. for<br>\
+مَقَدِّى;] adding, that it is thus called in relation<br>\
+to مَقَدٌّ, a town of Damascus, in the mountain<br>\
+overlooking El-Ghór: (L:) A &#39;Obeyd says, I<br>\
+hold it to be correctly مَقَدِّىٌّ; and I heard Rejà<br>\
+Ibn-Selemeh explain this as signifying “ wine<br>\
+diminished to half its quantity by boiling; ” as<br>\
+though it were divided (قُدَّ) in halves: (Sh, L:)<br>\
+IB adds, that Aboo-t-Teyyib the lexicologist says,<br>\
+that the word in question is with د without<br>\
+teshdeed; from مَقَدٌ; and is only written with<br>\
+teshdeed by poetic licence: and in confirmation<br>\
+of this assertion, IB cites verses in which the<br>\
+name of the town and that of the beverage are<br>\
+written without teshdeed. (L.) ―<br>\
+-b2-  ثَوْبٌ مَقَدِىٌّ<br>\
+A certain well-known kind of cloth, or garment:<br>\
+(L, TA:) you say ثِيَابٌ مَقَدِيَّةٌ. (K. [In the CK,<br>\
+erroneously, مَقَدِّيَّةٌ.])<br>\
+' } );

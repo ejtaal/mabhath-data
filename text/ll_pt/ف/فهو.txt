@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>فهو</em>            1                  فهو<br>\
+<b>فَهَوْتُ عَنْهُ</b>               1     <br>\
+                     فَهَوْتُ عَنْهُ<br>\
+                     ذ<br>\
+                  , (JK, K,) aor. اَفْهُو, inf. n. فُهُوٌّ, (JK,) <i>I was unmindful, forgetful,</i> or <i>neglectful, of it.</i> (JK, K.) ―         -b2-  ISd says, فَهَا فُوَادُهُ is like هَفَا, [which, said of the heart, accord. to explanations in the TA in art. هفو, means <i>It fluttered,</i> or <i>palpitated:</i> and <i>it was flurried</i> by reason of grief or of beating:] and no inf. n. of it has been heard, therefore I think it to be formed by transposition. (TA.) ―         -b3-  And فَهَا signifies also <i>He spoke clearly,</i> or <i>distinctly, after doing the contrary thereof.</i> (TA.)    </entryFree> <br>\
+<b>فاهاهُ</b>               1     <br>\
+                     فاهاهُ<br>\
+                     ذ<br>\
+                  , inf. n. مُفَاهَاةٌ; <i>i. q.</i> <br>\
+                  فاوههُ, inf. n. مُفَاوَهَةٌ; i. e. <i>He talked,</i> or <i>discoursed, with him:</i> and <i>he contended with him for superiority in glory,</i> or <i>excellence.</i> (TA in art. فوه.)    </entryFree> <br>\
+<b>افهى</b>               1     <br>\
+                     افهى<br>\
+                     ذ<br>\
+                  <i>He was weak,</i> or <i>erroneous, in his judgment,</i> or <i>opinion.</i> (IAar, K, TA.)    </entryFree> <br>\
+<b>فَاهٍ</b>               1     <br>\
+                     فَاهٍ<br>\
+                     ذ<br>\
+                  , formed by transposition from فَايِهٌ, A man <i>who reveals,</i> or <i>discloses, everything that is in his mind;</i> like فَاوُوهَةٌ; (Fr, in S and TA, art. فوه;) and so فَاهٌ: (Fr, in TA ibid.:) and فَاهٍ بِجُوعِهِ one <i>who reveals his hunger.</i> (TA ibid.)    </entryFree> <br>\
+<b>الافهيانِ</b>               1[     <br>\
+                     الافهيانِ<br>\
+                     ذ<br>\
+                  , said by Freytag to signify <i>The elephant and the buffalo,</i> is a mistranscription for الاَقْهَبَانِ.]    </entryFree> <br>\
+<b>اَفْهَا=ءٌ</b>               1     <br>\
+                     اَفْهَا=ءٌ<br>\
+                     ذ<br>\
+                   [a pl. of which the sing. is not mentioned] <i>i. q.</i> <br>\
+                  بُلْهٌ [pl. of اَبْلَهُ; signifying <i>Heedless;</i> or <i>heedless of evil by reason of their goodness;</i> &amp;amp;c.]. (IAar, TA.)   </entryFree> <br>\
+' } );

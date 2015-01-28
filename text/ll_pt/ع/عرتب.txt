@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>عرتب</em>            1                  عرتب<br>\
+<b>العَرْتَبَةُ</b>               1     <br>\
+                     العَرْتَبَةُ<br>\
+                     ذ<br>\
+                   a dial. var. of العَرْتَمَةُ; (S, O;) <i>The nose:</i> or <i>the soft,</i> or <i>pliable, part thereof:</i> or <i>the</i> [<i>depression termed</i>] دَايِرَة <br>\
+                  <i>beneath the nose, in</i> [or <i>above</i>] <i>the middle of the lip,</i> (K, TA,) i. e., <i>of the upper lip, next the nose:</i> (TA:) or <i>the extremity of the partition between the nostrils:</i> (K:) [J says,] I asked an Arab of the desert, of the tribe of Asad, whereupon he put his finger upon the extremity of the partition between his nostrils. (S.)   </entryFree> <br>\
+' } );

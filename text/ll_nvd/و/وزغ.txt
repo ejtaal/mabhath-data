@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'وزغ4<br>\
+أَوْزَغَتِ الطَّعْنَةُ بِالدَّمِ<br>\
+: see أَزْغَلَت.<br>\
+وَزَغَةٌ<br>\
+A certain reptile (دُوَببَّةٌ); (S;) i. q.<br>\
+بُرْصٌ<br>\
+[a lizard of the species called gecko, of a leprous<br>\
+hue, as its name برص indicates]; (TA, art. برص;)<br>\
+and i. q.<br>\
+سَامُّ أَبْرَص: (JK, M, K:) or سامّ ابرص<br>\
+is a name of the large<br>\
+وَزَغ; (A and Msb, both<br>\
+in art. برص;) or is of the large<br>\
+وَزَغ. (S and K.<br>\
+both in art. برص.)<br>\
+' } );

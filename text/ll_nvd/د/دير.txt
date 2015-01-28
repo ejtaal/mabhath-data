@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'دير5<br>\
+تديّر: see art. دور.<br>\
+دَيْرٌ: see art. دور.<br>\
+دَيْرَانِىٌّ: see art. دور.<br>\
+دَيِّرٌ: see art. دور.<br>\
+دَيِّرَةٌ: see art. دور.<br>\
+دَيَّارٌ: see art. دور.<br>\
+دَيُّورٌ: see art. دور.<br>\
+' } );

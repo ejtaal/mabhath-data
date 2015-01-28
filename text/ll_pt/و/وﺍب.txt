@@ -1,0 +1,63 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;واب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  واب<br>\
+&lt;entryFree id=&quot;n41524&quot; key=&quot;وَاَبَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَاَبَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَيِبُ, inf. n. وَاْبَةٌ [app. a mistake for وَاْبٌ and اـِبَةٌ], &lt;i&gt;It&lt;/i&gt; (a hoof) &lt;i&gt;was contracted in its edges,&lt;/i&gt; or &lt;i&gt;in its fore edges.&lt;/i&gt; (Az.) See وَاْبٌ. ―         -b2-  وَاَبَ, aor. يَيِبُ, (S, K,) inf. n. وَاْبٌ (S) and اـِبَةٌ (S, K) &lt;i&gt;He contracted himself,&lt;/i&gt; or &lt;i&gt;drew himself together,&lt;/i&gt; or &lt;i&gt;shrank; and was ashamed.&lt;/i&gt; (S, K.) ―         -b3-  وَاَبَ (TA) and ↓ <br>\
+      اٰتَّاَبَ (S, K) &lt;i&gt;He was ashamed,&lt;/i&gt; (S, K,) مِنْ شَىْءٍ <br>\
+                  &lt;i&gt;of a thing.&lt;/i&gt; (TA.) ―         -b4-  وَاَبَ, aor. يَيِبُ, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  انف [app. meaning &lt;i&gt;He was disdainful&lt;/i&gt;]. (TA.) ―         -b5-  وَيِبَ, [aor. يَوْءَبُ: see وَطِيَ:] &lt;i&gt;He was angry.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41525&quot; key=&quot;اَوْءَبَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَوْءَبَهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He did to him an action of which one should be ashamed:&lt;/i&gt; (S, K:) or &lt;i&gt;he made him angry:&lt;/i&gt; [mentioned twice in the K: once as though there were no difference of opinion respecting it:] or &lt;i&gt;he turned him,&lt;/i&gt; or &lt;i&gt;drove him, back with ignominy, from his affair,&lt;/i&gt; or &lt;i&gt;from the object of his want:&lt;/i&gt; (so in the copies of the K; but in an old copy, relied upon as correct, of the Tahdheeb el-Af&#39;ál, &lt;i&gt;from his companion,&lt;/i&gt; <br>\
+                  عن <br>\
+                  صاحبه: TA:) as also ↓ <br>\
+      اِتَّاَبَهُ; (K;) meaning &lt;i&gt;he turned him,&lt;/i&gt; or &lt;i&gt;drove him, back with ignominy:&lt;/i&gt; (TA:) or اوءبه also signifies &lt;i&gt;he turned him,&lt;/i&gt; or &lt;i&gt;drove him, back from his affair,&lt;/i&gt; or &lt;i&gt;from the object of his want.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41526&quot; key=&quot;اِتَّاَبَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اِتَّاَبَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1 and 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41527&quot; key=&quot;وَاْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَاْبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, as an epithet applied to a solid hoof, &lt;i&gt;Strong, contracted in the edges,&lt;/i&gt; or &lt;i&gt;in the fore edges, and light:&lt;/i&gt; (K:) or simply &lt;i&gt;strong:&lt;/i&gt; (L, art. رضح:) or &lt;i&gt;round like a cup&lt;/i&gt; (&lt;i&gt;such as is called&lt;/i&gt; <br>\
+                  قَعْبٌ); &lt;i&gt;cup-shaped;&lt;/i&gt; (S, K;) &lt;i&gt;and that takes&lt;/i&gt; [app. meaning &lt;i&gt;occupies&lt;/i&gt;] &lt;i&gt;much of the ground:&lt;/i&gt; [(see also تَنَاهَبَ:) accord. to Freytag, &lt;i&gt;hollowed within, so that it takes up&lt;/i&gt; (tollat) &lt;i&gt;much earth:&lt;/i&gt;] (K:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  حفيظ: (Az, as cited in the TA:) [but this I incline to think a mistake for خَفِيفٌ <br>\
+                  &lt;i&gt;light:&lt;/i&gt;] or &lt;i&gt;of excellent size:&lt;/i&gt; (K:) or &lt;i&gt;of moderate size; not wide, nor contracted.&lt;/i&gt; (T.) ―         -b2-  وَاْبُ <br>\
+                  الحَوَافِرِ <br>\
+                  &lt;i&gt;Having hoofs contracted in the edges,&lt;/i&gt; or &lt;i&gt;in the fore edges.&lt;/i&gt; (Az.) See also وَاْبٌ above. ―         -b3-  وَاْبٌ A &lt;i&gt;large,&lt;/i&gt; or &lt;i&gt;big, and wide,&lt;/i&gt; arrow: (K:) [but I think that, for مِنَ القِدَاحِ, in the K, we should read من الاقْدَاحِ; and that واب is therefore an epithet applied to a cup, such as is called قَدَحٌ; as Golius and Freytag have understood it; and not to a قِدْح: see what follows]. اـِنَاءٌ وَاْبٌ <br>\
+                  &lt;i&gt;A large,&lt;/i&gt; or &lt;i&gt;big, and wide, vessel: a wide vessel:&lt;/i&gt; pl. اَوْا=بٌ. قدحٌ وابٌ <br>\
+                  &lt;i&gt;A large,&lt;/i&gt; or &lt;i&gt;big, deep, and wide,&lt;/i&gt; [&lt;i&gt;cup&lt;/i&gt;]. (TA.) ―         -b4-  قِدْرٌ وَاْبَةٌ <br>\
+                  &lt;i&gt;A wide,&lt;/i&gt; or &lt;i&gt;ample, cooking-pot.&lt;/i&gt; (TA.) ―         -b5-  See also وَثِيبٌ. ―         -b6-  وَاْبٌ <br>\
+                  &lt;i&gt;A great&lt;/i&gt; camel: (S, K:) accord. to some. (S.) ―         -b7-  وَاْبَةٌ A &lt;i&gt;short and broad&lt;/i&gt; she-camel, or woman. (TA.) ―         -b8-  A female &lt;i&gt;of middling make, between good and bad,&lt;/i&gt; or &lt;i&gt;handsome and ugly.&lt;/i&gt; (TA.) ―         -b9-  &lt;i&gt;A small hollow,&lt;/i&gt; or &lt;i&gt;cavity, in a rock, that retains water.&lt;/i&gt; (S, K.) ―         -b10-  بِيْرٌ وَاْبَةٌ <br>\
+                  &lt;i&gt;A wide and deep well:&lt;/i&gt; (K:) or &lt;i&gt;a deep well.&lt;/i&gt; (L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41528&quot; key=&quot;وَيِيبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَيِيبٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Wide,&lt;/i&gt; or &lt;i&gt;ample:&lt;/i&gt; syn. رَغِيبٌ. (TA.) ―         -b2-  قِدْرٌ وَيِيبَهٌ <br>\
+                  &lt;i&gt;A deep cooking-pot.&lt;/i&gt; (T, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41529&quot; key=&quot;اـِبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) in which the ة is a substitute for the [incipient radical] و, (S,) and ↓ <br>\
+      تُوَبَةٌ, (S, K,) in which the ت is originally و, (S,) and ↓ <br>\
+      مَوْثِبَةٌ, (K,) &lt;i&gt;A disgrace; a shame; a thing of which one should be ashamed: disgrace,&lt;/i&gt; or &lt;i&gt;ignominy:&lt;/i&gt; (S, K:) &lt;i&gt;shame;&lt;/i&gt; (K;) &lt;i&gt;and a contracting of one&#39;s self,&lt;/i&gt; or &lt;i&gt;shrugging:&lt;/i&gt; (TA:) &lt;i&gt;a vice; fault;&lt;/i&gt; or &lt;i&gt;the like.&lt;/i&gt; (Aboo-&#39;Amr Esh-Sheybánee.) ―         -b2-  Ex. نَكَحَ فُلَانٌ فِى اـِبَةٍ [&lt;i&gt;Such a one married in a manner that was disgraceful;&lt;/i&gt; or, &lt;i&gt;of which one should be ashamed:&lt;/i&gt; i. e., &lt;i&gt;married a woman of low origin,&lt;/i&gt; or &lt;i&gt;the like&lt;/i&gt;]. (S.) ―         -b3-  Dhu-r-Rummeh says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اـِذَا المَرَيِىُّ شَبَّ لَهُ بَنَات<br>\
+                     &lt;L&gt;<br>\
+                        عَصَبْنَ بِرَاْسِهِ اـِبَةً وَعَارَا<br>\
+                  &lt;/quote&gt; [&lt;i&gt;When the Maraee has daughters that have attained to puberty, they bind upon his head disgrace and ignominy&lt;/i&gt;]. (S.) ―         -b4-  ↓ <br>\
+      طَعَامُ تُوَبَةٍ (or طَعَامٌ ذُو تُوَبَةٍ, as in the TA,) &lt;i&gt;Food of which one should be ashamed to eat.&lt;/i&gt; Mentioned by AA on the authority of an eloquent Arab of the desert. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41530&quot; key=&quot;تُوَبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تُوَبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَوْيِبَةٌ: see اـِبَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41531&quot; key=&quot;مُويِبَاتٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُويِبَاتٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Foul,&lt;/i&gt; or &lt;i&gt;disgraceful, qualities,&lt;/i&gt; or &lt;i&gt;dispositions.&lt;/i&gt; (S, K.)   &lt;/entryFree&gt; <br>\
+' } );

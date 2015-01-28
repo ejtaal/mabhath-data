@@ -1,0 +1,1 @@
+load_data( { book: 'ta_nvd', text: '&lt;برندس&gt;' } );

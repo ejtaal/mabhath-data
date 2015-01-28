@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'وهفخُذْ مَا أَوْهَفَ<br>\
+Take what is easily attainable;<br>\
+what offers itself without difficulty. (AA, in<br>\
+TA, voce انتدب.)<br>\
+' } );

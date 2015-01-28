@@ -1,0 +1,76 @@
+load_data( { book: 'll_nvd', text: 'نعج1<br>\
+نَعَجَ, aor.<br>\
+نَعُجَ, inf. n. نَعَجٌ (S, K) and نُعُوجٌ,<br>\
+(K,) a verb similar to طَلَبٌ, (S, K,) aor.<br>\
+نَعُجَ, inf. n.<br>\
+طَلَبٌ; (S;) so in the handwriting of J; (IB;) or,<br>\
+with reference to a colour, نَعِجَ, aor.<br>\
+نَعَجَ, inf. n.<br>\
+نَعَجٌ, a verb like صَخِبَ, aor.<br>\
+نَعَجَ, inf. n. صَخَبٌ:<br>\
+(accord-to an insertion in a copy of the S read<br>\
+to IB, TA, [and so in one of M. Fresnel&#39;s copies<br>\
+of the S, and in a copy in my possession, and so<br>\
+in the L, in which both forms of the verb are<br>\
+given,]) He, or it, [a colour,] was of a clear, or<br>\
+pure white. (S, L, K.)<br>\
+-A2-  نَعِجَ, aor.<br>\
+نَعَجَ, inf. n.<br>\
+نَعَجٌ, He (a man, Az, or a camel, S) became<br>\
+fat: (T, S, K:) said by AA to occur in a poem<br>\
+of Dhu-r-Rummeh, but not found in his poetry<br>\
+by Sh, who deems it strange: Az, however,<br>\
+confirms it by the authority of an Arab of the<br>\
+desert; and adds, that it signifies he (a man)<br>\
+became fat and in good condition: and he increased, and became swollen, or inflated: and<br>\
+نَهِجَ is said to signify the same. (TA.) ―<br>\
+-b2-  نَعِجَ,<br>\
+aor.<br>\
+نَعَجَ, inf. n. نَعَجٌ, He (a man, S) became<br>\
+heavy in the stomach (القَلْب) from eating<br>\
+mutton. (S, K.)<br>\
+-A3-  نَعَجَتْ فِى سَيْرِهَا, (inf. n.<br>\
+نَعْجٌ, L.) She (a camel) was quick, or swift, in<br>\
+her pace: (S, L:) she went with a certain pace:<br>\
+(L:) a dial. form of مَعَجَتْ. (S.)<br>\
+4<br>\
+أَنْعَجَ القَوْمُ The people&#39;s camels became fat.<br>\
+(S, K.)<br>\
+نَعِجٌ [and ↓ أَنْعَجُ] Of a pure white colour:<br>\
+(L:) [pl. of the latter نُعْجٌ]. ―<br>\
+-b2-  نِسَآءٌ نُعْجُ<br>\
+المَحَاجِرِ دُعْجُ النَّوَاظِرِ [Women of a clear white<br>\
+colour in the parts around the eyes; intensely<br>\
+black and wide, in the eyes]. (A.)<br>\
+-A2-  نَعِجٌ A<br>\
+man heavy in the stomach (القَلْب) from eating<br>\
+mutton: pl. نَعِجُونَ. (S, TA.)<br>\
+نَعْجَةٌ, (S, K,) and ↓ نِعْجَةٌ, accord. to a<br>\
+reading of El-Hasan, وَلِى نِعْجَةٌ وَاحِدَةٌ, [Kur,<br>\
+xxxviii. 22,] (TA,) A ewe; the female of the<br>\
+sheep: (L, K:) also, the female of the wild<br>\
+bull: and, of the gazelle: and, of the wild<br>\
+sheep: (TA:) [but see below:] pl. نِعَاجٌ and<br>\
+نَعَجَاتٌ. (S, K.) ―<br>\
+-b2-  نَعْجَةُ الرَّمْلِ The [wild] cow:<br>\
+pl. نِعَاجُ الرَّمْلِ: no other wild animal but the<br>\
+cow (accord. to A &#39;Obeyd, S,) is thus called:<br>\
+(S, K:) [but see above]. The Arabs speak of<br>\
+gazelles as though they were goats, terming the<br>\
+male تَيْسٌ; and of wild bulls or cows as though<br>\
+they were sheep, terming the female نَعْجَةٌ.<br>\
+(AAF.) ―<br>\
+-b3-  Also نَعْجَةٌ (tropical:)  A woman; as likewise شَاةٌ. (TA.)<br>\
+نِعْجَةٌ: see نَعْجَةٌ.<br>\
+نَاعِجٌ A camel of beautiful colour, and highly<br>\
+esteemed. (TA.) نَاعِجَةٌ A she-camel of beautiful colour: (TA:) or a white she-camel, (S,<br>\
+K,) of generous race: (TA:) a swift she-camel:<br>\
+a she-camel upon which one hunts wild cows:<br>\
+(S, K:) such is of the kind called مَهْرِيَّةٌ: (IJ:)<br>\
+or one that is light, or active: (TA:) pl. نَوَاعِجُ.<br>\
+(S.) ―<br>\
+-b2-  نَاعِجَةٌ also A woman of beautiful complexion, or colour. (TA.)<br>\
+-A2-  أَرْضٌ نَاعِجَةٌ<br>\
+Plain, or even, land, (S, K,) fertile, and producing the kind of tree called رِمْث. (Aboo-Kheyreh.)<br>\
+أَنْعَجُ: see نَعِجٌ.<br>\
+' } );

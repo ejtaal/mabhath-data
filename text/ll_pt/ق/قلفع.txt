@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قلفع</em>            1                  قلفع<br>\
+<b>تَقَلْفَعَتْ عَنِ الكَمْءِ اَنْقَاضُهُ</b>               1     <br>\
+                     <i>Q. 2</i>        <br>\
+                     تَقَلْفَعَتْ عَنِ الكَمْءِ اَنْقَاضُهُ<br>\
+                     ذ<br>\
+                   [<i>The crusts of earth broke up from over the truffle</i>]. (M, art. نقض.)   </entryFree> <br>\
+' } );

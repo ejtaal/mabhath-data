@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>كين</em>            1                  كين<br>\
+<b>اِسْتَكَانَ</b>               1     <br>\
+                     اِسْتَكَانَ<br>\
+                     ذ<br>\
+                  : see اِسْتَكَنَ in art. سكن: and see art. كون.    </entryFree> <br>\
+<b>كَيْنٌ</b>               1     <br>\
+                     كَيْنٌ<br>\
+                     ذ<br>\
+                   (also written كَيْنَةٌ, K, voce زَرْنَبٌ): see بَظْرٌ.   </entryFree> <br>\
+' } );

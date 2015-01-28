@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>هوت</em>            1                  هوت<br>\
+<b>هوّت بِهِ</b>               1     <br>\
+                     هوّت بِهِ<br>\
+                     ذ<br>\
+                  , inf. n. تَهْوِيتٌ, <i>He called out to him;</i> (K;) saying حَوْتَ حَوْتَ: (TA, art. حيت:) <i>he cried out to him, and called him.</i> (S.) A dial. form of هيّت. (TA.) [See هَيَّتَ.]    </entryFree> <br>\
+<b>هَوْتَةٌ</b>               1     <br>\
+                     هَوْتَةٌ<br>\
+                     ذ<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>هُوتَةٌ</b>               1     <br>\
+                     هُوتَةٌ<br>\
+                     ذ<br>\
+                   (K) and ↓ <br>\
+      هَوْتَةٌ (S, K) <i>A low,</i> or <i>depressed, tract,</i> or <i>piece, of land:</i> (S, K:) or <i>a deep place:</i> (IAth:) or the <i>space between two mountains:</i> (IAar:) pl. هُوَتٌ (as in the CK) or هُوت (as in the TA.) It may be said that هُوتٌ and هُوَتٌ are coll. gen. ns. [of each of which the n. un. is with ة]. (TA.) ―         -b2-  Also هُوتَةٌ <br>\
+                  <i>A road,</i> or <i>way, descending to water.</i> (IAar.) ―         -b3-  صَبَّ اللّٰهُ عَلَيْهِ <br>\
+                  وَمْوَتَةً ↓ <br>\
+      هَوْتَةَ an imprecation, respecting which ISd says, I know not what is هوتة here. [It probably signifies <i>A cry,</i> such as destroyed the tribe of Thamood: see هَوَّتَ.] (TA.)    </entryFree> <br>\
+<b>مَضَى هِيتَاءٌ مِنَ اللَّيْلِ</b>               1     <br>\
+                     مَضَى هِيتَاءٌ مِنَ اللَّيْلِ<br>\
+                     ذ<br>\
+                  <i>A certain time,</i> or <i>portion, of the night passed.</i> Accord. to Aboo- &#39;Alee, هيتاء is of the measure فِعْلَاءٌ, and quasicoordinate to سِرْدَاحٌ, and belonging to this art. (TA.)    </entryFree> <br>\
+<b>هِيتَاه هِيتَاه</b>               1     <br>\
+                     هِيتَاه هِيتَاه<br>\
+                     ذ<br>\
+                  <i>A cry by which the Arabs urge on a dog against the game which they are pursuing.</i> (TA.) [In the L written هَيْتَاء, and mentioned in art. هيت.]   </entryFree> <br>\
+' } );

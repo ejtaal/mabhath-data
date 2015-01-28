@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'اشك1<br>\
+أَشُكَ ذَا خُرُوجًا i. q. وَشُكَ, q. v. (TA.)<br>\
+' } );

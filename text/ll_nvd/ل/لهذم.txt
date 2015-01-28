@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'لهذملَهْذَمٌ A sharp spear-head: see an ex. in a<br>\
+verse of Zuheyr, cited voce زُجٌّ.<br>\
+' } );

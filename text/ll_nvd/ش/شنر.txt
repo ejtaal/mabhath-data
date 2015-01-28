@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'شنر2<br>\
+شنّر عَلَيْهِ, inf. n. تَشْنِيرٌ, He blamed him;<br>\
+found fault with him; attributed or imputed to<br>\
+him, or accused him of, a vice, or fault: (K:)<br>\
+or the same, (K,) or شنّر بِهِ, (O,) or شنّرهُ, (TA,)<br>\
+he rendered him infamous; exposed his vices,<br>\
+faults, or evil qualities or actions; disgraced him;<br>\
+or put him to shame. (O, K, TA.)<br>\
+شَنْرَةٌ The gait, or manner of walking, of a<br>\
+righteous man. (O, K.) [See also شِمْرَةٌ.]<br>\
+شَنَارٌ A vice, or fault: (S, O:) or the foulest<br>\
+vice or fault: (K:) and a disgrace, or shame, or<br>\
+thing that occasions one&#39;s being reviled: (S, O,<br>\
+K:) or a disgraceful vice or fault: seldom used<br>\
+unless conjointly with عَارٌ: (TA:) accord. to Sh,<br>\
+(O,) a thing, or an affair, notorious for badness<br>\
+or foulness: (O, K:) pl. شَنَائِرُ. (TA.)<br>\
+شُنَارَى one of the names of The cat. (O, K. *)<br>\
+شُنَّارٌ A certain white bird, found in water: of<br>\
+the dial. of Syria. (TA.)<br>\
+شِنِّيرٌ and ↓ شِنِّيرَةٌ, (O, K,) [the latter having an<br>\
+intensive meaning,] applied to a man, (O,)<br>\
+Abounding in evil or mischief, and in vices, or<br>\
+faults; bad in disposition. (O, K.)<br>\
+شِنِّيرَةٌ: see what next precedes.<br>\
+مَشْنُورَةٌ A liberal, bountiful, or generous,<br>\
+woman: as also مَنْشُورَةٌ. (IAar, T in art. نشر,<br>\
+TA.)<br>\
+' } );

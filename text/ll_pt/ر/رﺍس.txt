@@ -1,0 +1,170 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;راس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  راس<br>\
+&lt;entryFree id=&quot;n14272&quot; key=&quot;رَاَسَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     رَاَسَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَاََ<br>\
+                  &lt;/form&gt;, (K, TA, [in a copy of the M      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَاَُ<br>\
+                  &lt;/form&gt;,]) inf. n. رَاْسٌ, (M, TA,) &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;hit,&lt;/i&gt; or &lt;i&gt;hurt, his head.&lt;/i&gt; (S, M, K.) ―         -b2-  رَاَسْتُهُ بِالعَصَى <br>\
+                  &lt;i&gt;I struck his head with the staff,&lt;/i&gt; or &lt;i&gt;stick.&lt;/i&gt; (A.) ―         -b3-  رَاَسَهُ البِرْسَامُ <br>\
+                  &lt;i&gt;The disease called&lt;/i&gt; <br>\
+                  برسام <br>\
+                  &lt;i&gt;affected,&lt;/i&gt; or &lt;i&gt;overcame,&lt;/i&gt; (اَخَذَ,) &lt;i&gt;his head.&lt;/i&gt; (A.) [And hence,] رُيِسَ, (M, A,) inf. n. رَاْسٌ, (M,) &lt;i&gt;His&lt;/i&gt; (a man&#39;s) &lt;i&gt;head was,&lt;/i&gt; or &lt;i&gt;became, affected,&lt;/i&gt; or &lt;i&gt;overcome, by the disease called&lt;/i&gt; <br>\
+                  برسام, or &lt;i&gt;otherwise:&lt;/i&gt; (A:) or &lt;i&gt;he had a complaint of his head.&lt;/i&gt; (M, TA.)       -A2-  رَاَسَ القَوْمَ, (S, M, A,) and رَاَسَ عَلَيْهِمْ, (M,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَاََ<br>\
+                  &lt;/form&gt;, (S, M,) inf. n. رِيَاسَةٌ, (S, M, A,) (tropical:)  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, head, chief, commander, governor, ruler, lord, master, prince,&lt;/i&gt; or &lt;i&gt;king, of,&lt;/i&gt; or &lt;i&gt;over, the people; he headed them;&lt;/i&gt; (M, A; *) &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, their superior,&lt;/i&gt; (M.) [See also 5.] ―         -b2-  Also رَاَسَ, alone, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     رَاََ<br>\
+                  &lt;/form&gt;, inf. n. رِيَاسَةٌ, (tropical:)  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, high in rank&lt;/i&gt; or &lt;i&gt;condition.&lt;/i&gt; (Msb.) ―         -b3-  And, with the same aor. and inf. n., (tropical:)  &lt;i&gt;He strove for&lt;/i&gt; <br>\
+                  رِيَاسَة [or &lt;i&gt;headship,&lt;/i&gt; or &lt;i&gt;command,&lt;/i&gt;] (زَاحَمَ عَلَيْهَا,) &lt;i&gt;and desired it.&lt;/i&gt; (IAar, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14273&quot; key=&quot;راّس الضَّبُّ الاَفْعَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     راّس الضَّبُّ الاَفْعَى<br>\
+                     ذ<br>\
+                  &lt;i&gt;The&lt;/i&gt; [&lt;i&gt;lizard called&lt;/i&gt;] ضبّ <br>\
+                  &lt;i&gt;turned his head towards the viper,&lt;/i&gt; or &lt;i&gt;met the viper head-foremast,&lt;/i&gt; in coming forth from his hole: for the viper comes to the hole of the ضبّ, and hunts after it, and sometimes the latter comes forth with its head towards the former, and is said to be مَرَيِّس: and sometimes a man hunts after the ضبّ, and puts a stick into the mouth of its hole, and it imagines it to be a viper, and comes forth head-foremost or tail-foremost, i. e., مُرَيِّسًا اَوْ مُذَنِّبًا. (TA.)       -A2-  [The verb is also used intransitively, as meaning &lt;i&gt;It&lt;/i&gt; (a ضَبّ) &lt;i&gt;put its head foremost&lt;/i&gt; in coming forth from its hole: &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  ذَنَّبَ.]       -A3-  رَاَّسْتُهُ, inf. n. تَرْيِيسٌ, (tropical:)  &lt;i&gt;I made,&lt;/i&gt; or &lt;i&gt;appointed, him&lt;/i&gt; <br>\
+                  رَيِيس [i. e. &lt;i&gt;head, chief, commander, governor, ruler, lord, master, prince,&lt;/i&gt; or &lt;i&gt;king&lt;/i&gt;], (S, K,) عَلَى القَوْمِ <br>\
+                  &lt;i&gt;over the people.&lt;/i&gt; (S, TA.) And رَاَّسُوهُ عَلَىاَنْفُسِهِمْ, (M, A,) seen by Az, in the book of Lth, written رَوَّسُوهُ, but the former is the regular form, (TA,) (tropical:)  &lt;i&gt;They made him head, chief, commander,&lt;/i&gt; &amp;amp;c., &lt;i&gt;over themselves.&lt;/i&gt; (M, A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14274&quot; key=&quot;تراّس عَلَىالقَوْمِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تراّس عَلَىالقَوْمِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;He became made,&lt;/i&gt; or &lt;i&gt;appointed, head, chief, commander, governor, ruler, lord, master, prince,&lt;/i&gt; or &lt;i&gt;king, over the people;&lt;/i&gt; (S, M, A;) as also عَلَيْهِمْ ↓ <br>\
+      ارتاس: (S:) or both signify [like رَاَسَ على القوم,] &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; <br>\
+                  رَيِيس [i. e. &lt;i&gt;head, chief,&lt;/i&gt; &amp;amp;c.] (K, TA) &lt;i&gt;over the people.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14275&quot; key=&quot;ارتاس الشَّىْءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ارتاس الشَّىْءَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, became mounted,&lt;/i&gt; or &lt;i&gt;fixed, upon the head of the thing.&lt;/i&gt; (M, TA. *) In the saying, يَرْتَاسُ السِّنَانَ فَيُقْتَلُ [&lt;i&gt;He becomes fixed upon the point of the spear-head, and is slain&lt;/i&gt;], in a verse cited by Th, يَرْتَاسُ is for يَرْتَيِسُ. (M.)       -A2-  See also 5.       -A3-  ارتاس زَيْدًا <br>\
+                  &lt;i&gt;He took Zeyd by the neck, and lowered it to,&lt;/i&gt; or &lt;i&gt;towards, the ground.&lt;/i&gt; (K, from the “ Nawádir el-Aaráb. ”) ―         -b2-  Hence, (assumed tropical:)  &lt;i&gt;He occupied Zeyd so as to divert his attention:&lt;/i&gt; (K, from the same:) and اِكْتَاسَهُ and اِرْتَكَسَهُ and اِعْتَكَسَهُ also signify the same [app. in the former sense, or perhaps in both senses.] (TA, from the same.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14276&quot; key=&quot;رَاْسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَاْسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, A, Msb, K,) generally with ء, except in the dial. of Benoo-Temeem, who constantly suppress the ء, (Msb,) [The &lt;i&gt;head&lt;/i&gt; of a man and of any animal;] &lt;i&gt;a certain part of an animal,&lt;/i&gt; (Msb,) &lt;i&gt;well known:&lt;/i&gt; (Msb, K:) masc., (Msb, TA,) by common consent: (TA:) and (K) the &lt;i&gt;highest&lt;/i&gt; or &lt;i&gt;uppermost part,&lt;/i&gt; or &lt;i&gt;top,&lt;/i&gt; or &lt;i&gt;summit,&lt;/i&gt; (M, A, K,) of a thing, (M,) or of anything; (A, K;) as, for instance, of a mountain, &amp;amp;c.; (the Lexicons, passim;) and the &lt;i&gt;upper,&lt;/i&gt; or &lt;i&gt;uppermost, part&lt;/i&gt; of a valley: (TA: see رَايِسٌ:) pl. (of pauc., S, TA) اَرْوُسٌ, (S, M, Msb, K,) and, by transposition, ا=رُسٌ, (M, TA, * [originally اَاْرُسٌ, in the L, erroneously, ا=اراس,]) and (of mult., S, TA) رُوُوسُ, (S, M, Msb, K, [by some carelessly written رُوُسٌ, and by some, allowably, رُوُ=سٌ,]) which is not transposed, and رُوْسٌ, which is elliptical. (M, TA.) A poet uses the pl. for the dual, saying, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        رُوُوسُ كَبِيرَيْهِنَّ يَنْتَطِحَانِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;The heads of the two great ones,&lt;/i&gt; or &lt;i&gt;old ones, of them, smite each other with their horns&lt;/i&gt;]. (M.) ―         -b2-  اُمُّ الرَّاْسِ: see اُمٌّ. ―         -b3-  يَوْمُ الرُّوُوسِ [&lt;i&gt;The day of the heads&lt;/i&gt;] is applied by the people of Mekkeh to &lt;i&gt;the day called&lt;/i&gt; <br>\
+                  يَوْمُ القَرِّ, because then they eat the heads of the animals sacrificed. (A, TA.) ―         -b4-  اَصَابَ رَاْسَهُ (tropical:)  &lt;i&gt;He kissed his head:&lt;/i&gt; a metonymical phrase. (TA.) ―         -b5-  رُمِىَ فُلَانٌ مِنْهُ فِى الرَّاْسِ [lit., &lt;i&gt;Such a one was shot by him in the head;&lt;/i&gt; meaning,] (assumed tropical:)  &lt;i&gt;he turned away from him, and did not look towards him nor pay any regard or attention to him, and deemed him troublesome.&lt;/i&gt; (S, TA.) You say also, رُمِيتُ مِنْكَ فِى الرَّاْسِ, meaning, (assumed tropical:)  &lt;i&gt;Thou hast an evil opinion of me&lt;/i&gt; (S, K) &lt;i&gt;so that thou canst not look towards me.&lt;/i&gt; (S.) ―         -b6-  رَكِبَ رَاْسَهُ: see art. ركب. ―         -b7-  وَلَدَتْ وَلَدَهَا <br>\
+                  عَلَى رَاْسٍ وَاحِدٍ (assumed tropical:)  &lt;i&gt;She brought forth her children one after,&lt;/i&gt; or &lt;i&gt;near after, another.&lt;/i&gt; (IAar, M.) In like manner you say, وُلِدَ لَهُ ثَلَاثَةُ اَوْلَادٍ رَاْسًا <br>\
+                  عَلَى اـِثْرِ رَاْسٍ, (M,) or رَاْسًا عَلَى رَاْسٍ, (TA,) (assumed tropical:)  &lt;i&gt;He had three children born to him one after,&lt;/i&gt; or &lt;i&gt;near after, another.&lt;/i&gt; (M, TA.) And اِجْعَلْ <br>\
+                  هٰذَا الشَّىْءَ رَاْسًا وَاحِدًا (assumed tropical:)  &lt;i&gt;Make thou this thing to be&lt;/i&gt; [&lt;i&gt;uniform,&lt;/i&gt; or] &lt;i&gt;of one way,&lt;/i&gt; or &lt;i&gt;mode,&lt;/i&gt; or &lt;i&gt;manner.&lt;/i&gt; (ISK, TA in art. باج.) ―         -b8-  عِنْدِى رَاْسُ مِنَ الغَنَمِ (tropical:)  [&lt;i&gt;I have one head of sheep&lt;/i&gt; or &lt;i&gt;goats&lt;/i&gt;]: and عِدَّةٌ مِنْ <br>\
+                  اَرْوُسٍ (tropical:)  [&lt;i&gt;a number of head&lt;/i&gt; thereof]. (A, TA.) It is said in a trad. of&#39; Omar, وَاْجْعَلُوا الرَّاْسَ رَاْسَيْنِ (tropical:)  &lt;i&gt;And make ye the one head two head,&lt;/i&gt; by buying two animals with the price of one, that, when one dies, the second may remain. (Mgh in art. فرق.) And you say, فُلَانٌ يَرْتَبِطُ كَذَا رَاْسًا مِنَ الدَّوَابِّ [&lt;i&gt;Such a one ties so many head of beasts&lt;/i&gt;]. (S in art. ربط.) ―         -b9-  اَعْطِنِى رَاْسًا مِنْ ثُومٍ وَ سِنًّا مِنْهُ (tropical:)  [&lt;i&gt;Give thou to me a head of garlic, and a clove thereof&lt;/i&gt;]: and كَمْ فِى رَاْسِكَ مِنْ سِنِّ (tropical:)  [&lt;i&gt;How many cloves are there in thy head&lt;/i&gt; of garlic?]. (A, TA.) ―         -b10-  رَاْسٌ also signifies The &lt;i&gt;extremity&lt;/i&gt; of a thing: or, as some say, &lt;i&gt;the end,&lt;/i&gt; or &lt;i&gt;last,&lt;/i&gt; thereof. (MF. TA.) ―         -b11-  [&lt;i&gt;A head, head-land, cape,&lt;/i&gt; or &lt;i&gt;promontory.&lt;/i&gt;] ―         -b12-  The &lt;i&gt;hilt&lt;/i&gt; of a sword; (A;) and so ↓ <br>\
+      رِيَاسٌ; (S, M, K; [in a copy of the A رِيَاسَةٌ;]) or this signifies its &lt;i&gt;pommel,&lt;/i&gt; (Sgh, K,) more correctly; (Sgh;) and is also written رِيَاسٌ, but whether for رِيَاسٌ or originally with ى is doubtful. (M.) [From the first of the above-mentioned significations arise several others, which are tropical. ―         -b13-  Hence, الرَّاْسُ وَالذَّنَبُ (assumed tropical:)  &lt;i&gt;The two nodes&lt;/i&gt; of a planet: see تِنِّينٌ. ―         -b14-  Hence likewise,] رَاْسٌ is also (tropical:)  &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  رَيِيسٌ, q. v. infrà. (M, K.) You say, مَا اُرِيدُهُ رَاْسًا (tropical:)  [&lt;i&gt;I do not desire him as a&lt;/i&gt; <br>\
+                  رييس, i. e. &lt;i&gt;head, chief,&lt;/i&gt; &amp;amp;c.]. (A.) And it is said in a trad., رَاْسُ الكُفْرِ <br>\
+                  مِنْ قِبَلِ المَشْرِقِ (tropical:)  [&lt;i&gt;The head,&lt;/i&gt; or &lt;i&gt;leader, of infidelity is from the direction of the place of sunrise&lt;/i&gt;]: indicating that Ed-Dejjál or some other of the heads of error will come forth in the east. (TA.) ―         -b15-  رَاْسُ المَالِ (tropical:)  &lt;i&gt;The capital,&lt;/i&gt; or &lt;i&gt;principal, of property.&lt;/i&gt; (Msb, K.) [Hence the saying,] اَقْرَضَتْنِى عَشَرَةً بِرَوُوسِهَا (tropical:)  &lt;i&gt;She lent me ten&lt;/i&gt; [pieces of money] &lt;i&gt;as a loan whereof the principal was to be repaid without interest.&lt;/i&gt; (Mgh, TA. *) ―         -b16-  القَافِيَةُ الراْسُ البَيْتِ (assumed tropical:)  [&lt;i&gt;The rhyme is the principal,&lt;/i&gt; or &lt;i&gt;most essential, part of the verse&lt;/i&gt;]: said by one of the tribe of&#39; Okeyl, to IJ. (M.) ―         -b17-  رَاْسُ الدِّينِ <br>\
+                  الخَشْيَةُ (tropical:)  [&lt;i&gt;The principal part,&lt;/i&gt; or &lt;i&gt;the beginning, of religion is fear&lt;/i&gt; of God]. (A, TA.) ―         -b18-  رَاْسُ الشَّهْرِ (assumed tropical:)  &lt;i&gt;The beginning of the month.&lt;/i&gt; (Msb.) [And in like manner, رَاْسُ السَّنَةِ (assumed tropical:)  &lt;i&gt;The beginning,&lt;/i&gt; or &lt;i&gt;first day, of the year.&lt;/i&gt;] ―         -b19-  رَاْسُ الاَمْرِ, (K, TA,) or ↓ <br>\
+      رِيَاس, (so in the CK,) [both correct, as will be seen from what follows,] (tropical:)  &lt;i&gt;The beginning of the affair; the first thereof.&lt;/i&gt; (K, TA.) ―         -b20-  اَعِدْ عَلَىَّ <br>\
+                  كَلَامَكَ مِنْ رَاْسٍ, (S, M,) and مِنَ الرَّاْسِ, but this is less common, (M,) or is a vulgar phrase, not allowable, (S,) (tropical:)  [&lt;i&gt;Repeat thou to me thy speech&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;996&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;from the beginning:&lt;/i&gt;] said by a person to one talking to him. (TA.) One also says to a person talking to him, خُذْهُ مِنْ رَاْسٍ (tropical:)  [&lt;i&gt;Take thou it from the beginning&lt;/i&gt;]. (A.) ―         -b21-  اَنْتَ عَلَىرَاْسِ اَمْرِكَ, and ↓ <br>\
+      على رِيَاسِهِ (assumed tropical:)  &lt;i&gt;Thou art on the point of accomplishing thine affair:&lt;/i&gt; (M, TA:) or اَنْتَ عَلَى <br>\
+                  اَمْرِكَ ↓ <br>\
+      رِيَاسِ signifies (assumed tropical:)  &lt;i&gt;thou art at the beginning of thine affair;&lt;/i&gt; and the vulgar say, عَلَى رَاْسِ اَمْرِكَ (S, TA.) ―         -b22-  اَضْرَعَتْ عَلَى رَاْسِ الوَلَدِ: see art. ضرع. ―         -b23-  كَانَ ذٰلِكَ عَلَى رَاْسِ فُلَانٍ (tropical:)  &lt;i&gt;That was in the time of such a one; in his life-time:&lt;/i&gt; like the phrase عَلَى رِجْلِ فُلَانٍ. (TA in art. رجل.) ―         -b24-  رَاْسٌ also signifies (tropical:)  &lt;i&gt;A numerous and strong company of people.&lt;/i&gt; (As, S, M, K.) You say, هُمْ رَاْسٌ (tropical:)  &lt;i&gt;They are a numerous and strong company of people.&lt;/i&gt; (S.) And هُمْ رَاْسٌ عَظِيمٌ (tropical:)  &lt;i&gt;They are an army by themselves, not needing any aid.&lt;/i&gt; (A, TA.) &#39;Amr Ibn-Kulthoom says, (S,) &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        بِرَاْسٍ مِنْ بَنِى جُشَمِ بْنِ بِكْرٍ<br>\
+                     &lt;L&gt;<br>\
+                        نَدُقُّ بِهِ السُّهُولَةَ وَالحُزُونَا<br>\
+                  &lt;/quote&gt; [as though meaning, &lt;i&gt;With a numerous and strong company of Benoo-Jusham-Ibn-Bekr, with which we beat the plains and the rugged tracts&lt;/i&gt;]: (S, M:) but [J says,] I think that he means رَيِيس, [i. e. &lt;i&gt;head, chief,&lt;/i&gt; &amp;amp;c.,] because he says ندقّ بِهِ, not بِهِمْ (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14277&quot; key=&quot;رُوَاسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رُوَاسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرْاَسُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14278&quot; key=&quot;رِيَاسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِيَاسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see رَاْسٌ, in the middle of the paragraph: and again, in three places, in the latter part thereof.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14279&quot; key=&quot;رَوُوسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَوُوسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see رَايِسٌ. ―         -b2-  Also A camel &lt;i&gt;having no fatness&lt;/i&gt; (طِرْق) &lt;i&gt;remaining except in the head;&lt;/i&gt; (S, K;) and so ↓ <br>\
+      مُرَايِسٌ, (S, TA,) incorrectly said in the K to be ↓ <br>\
+      مُرَاَّسٌ, like مُعَظَّمٌ; (TA;) mentioned by A&#39; Obeyd, from Fr.; (S;) so too ↓ <br>\
+      مِرْا=سٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14280&quot; key=&quot;رَيِيسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَيِيسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Hit,&lt;/i&gt; or &lt;i&gt;hurt, in the head;&lt;/i&gt; as also ↓ <br>\
+      مَرْوُوسٌ. (S.) Hence, شَاةٌ رَيِيسٌ <br>\
+                  &lt;i&gt;A sheep&lt;/i&gt; or &lt;i&gt;goat,&lt;/i&gt; or &lt;i&gt;a ewe&lt;/i&gt; or &lt;i&gt;she-goat, hit,&lt;/i&gt; or &lt;i&gt;hurt, in her head:&lt;/i&gt; pl. رَا=سَى: (S, M, K:) you say غَنَمٌ رَا=سَى. (S, K.) ―         -b2-  &lt;i&gt;Having his head broken, its skin being cleft.&lt;/i&gt; (TA.) ―         -b3-  &lt;i&gt;Having his head affected,&lt;/i&gt; or &lt;i&gt;overcome, by the disease called&lt;/i&gt; <br>\
+                  بِرْسَام; as also ↓ <br>\
+      مَرْوُوسٌ: (A:) or ↓ the latter, a man &lt;i&gt;afflicted with that disease:&lt;/i&gt; (M, TA:*) and ↓ the same, also, a man &lt;i&gt;having a complaint of his head.&lt;/i&gt; (TA.)       -A2-  (tropical:)  The &lt;i&gt;head,&lt;/i&gt; or &lt;i&gt;headman, chief, commander, governor, ruler, lord, master, prince,&lt;/i&gt; or &lt;i&gt;king, of a people; a person of authority;&lt;/i&gt; (S, M, A, * K;) as also ↓ <br>\
+      رَيِّسٌ (S, K) and ↓ <br>\
+      رَاْسٌ [q. v.]; (M, A, K;) and [in like manner] ↓ <br>\
+      رَايِسٌ, syn. of this last, وَالٍ: (K:) or رَيِيسٌ signifies, [or rather signifies also,] a person &lt;i&gt;high in rank&lt;/i&gt; or &lt;i&gt;condition:&lt;/i&gt; (Msb:) its pl. is رُوَسَا=هُ, (M, Msb,) pronounced by the vulgar رُوَسَا=ء: (TA:) in El-Yemen, ↓رَيِّسٌ is applied to &lt;i&gt;one who shaves the head.&lt;/i&gt; (TA in art. ريس.) ―         -b2-  رَيِيسُ الكِلَابِ (S, M, A,) and ↓ <br>\
+      رَايِسُهَا, (M, TA,) (tropical:)  [&lt;i&gt;The chief,&lt;/i&gt; or &lt;i&gt;leader, of the dogs;&lt;/i&gt;] &lt;i&gt;the dog that is&#39; among the other dogs, as the&lt;/i&gt; <br>\
+                  رَيِيس <br>\
+                  &lt;i&gt;among a people:&lt;/i&gt; (S:) &lt;i&gt;the chief of the dogs, that is not preceded by them in the chase.&lt;/i&gt; (M, TA.) ―         -b3-  الاَعْضَا=ءُ الرَّيِيسَةُ (tropical:)  [&lt;i&gt;The capital parts of an animal&lt;/i&gt;] are, with physicians, four; (Mgh, TA;) namely, &lt;i&gt;the heart, the brain, the liver,&lt;/i&gt; and &lt;i&gt;the testicles:&lt;/i&gt; (Mgh, K, TA:) the first three, because without every one of them the person cannot exist; and the last, because privation thereof is a privation of نَوْع [properly species]: the assertion that they are &lt;i&gt;the nose, and the tongue, and the penis,&lt;/i&gt; is erroneous. (Mgh, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14281&quot; key=&quot;رُوَاسِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رُوَاسِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرْاَسُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14282&quot; key=&quot;رُوُوسٌ رُوَّسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رُوُوسٌ رُوَّسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مِرْاَسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14283&quot; key=&quot;رَاّ=سٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَاّ=سٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A seller of heads:&lt;/i&gt; (S, M, Mgh, Msb, K:) رَوَّاسٌ, (S, Mgh, Msb,) or رَوَّاسِىٌّ, (K, TA,) with و and with the relative ى, (TA,) is vulgar, (S,) or incorrect, (Mgh, K,) or post-classical. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14284&quot; key=&quot;رِيِّيسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِيِّيسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;who is often made&lt;/i&gt; or &lt;i&gt;appointed,&lt;/i&gt; or &lt;i&gt;who often becomes,&lt;/i&gt; <br>\
+                  رَيِيس [i. e. &lt;i&gt;head, chief,&lt;/i&gt; &amp;amp;c.]. (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14285&quot; key=&quot;رَايِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَايِسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [act. part. n. of 1.] ―         -b2-  كَلْبَةٌ رَايِسٌ, (M,) or رَايِسَةٌ, (TA,) &lt;i&gt;A bitch that takes the object of the chase by the head.&lt;/i&gt; (M, TA.) And [in like manner] ↓ <br>\
+      كَلْبَةٌ رَوُوسٌ <br>\
+                  &lt;i&gt;A bitch that springs upon the head of the object of the chase.&lt;/i&gt; (TA.)       -A2-  رَايِسٌ also signifies Anything &lt;i&gt;elevated,&lt;/i&gt; or &lt;i&gt;rising above the part or parts adjacent to it.&lt;/i&gt; (M, TA.) The &lt;i&gt;head&lt;/i&gt; (↓ <br>\
+      رَاْس) &lt;i&gt;of a valley:&lt;/i&gt; (M, TA:) pl. رَوَايِسُ, (TA,) which signifies the &lt;i&gt;upper,&lt;/i&gt; or &lt;i&gt;uppermost, parts of valleys.&lt;/i&gt; (K, TA.)       -A3-  سَحَابَةٌ رَايِسٌ, (M,) or رَايِسَةٌ, (TA,) and ↓ <br>\
+      مُرَايِسٌ, (M,) (assumed tropical:)  &lt;i&gt;A cloud preceding the other clouds:&lt;/i&gt; (M: [but perhaps سَحَابَةٌ in the copy of the M from which this is taken is a mistake for سَحَابٌ, i. e. &lt;i&gt;clouds:&lt;/i&gt;]) pl. رَوَايِسُ. (K, * TA.) ―         -b2-  See also رَيِيسٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14286&quot; key=&quot;رَيِّسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَيِّسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see رَيِيسٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14287&quot; key=&quot;اَرْاَسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْاَسٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Having a large head;&lt;/i&gt; (S, M, A, Mgh, K; *) applied to a man, (S, A, Mgh,) and to a sheep or goat, (S, TA,) and to a stallion; (TA; [but فحل, there, is perhaps a mistake for رَجُلٌ;]) as also ↓ <br>\
+      رُوَاسِىٌّ; (S, M, A, K;) which is likewise applied to a man, (S, A,) and to a stallion, (TA,) but not to a sheep or goat; (ISk, S;) and رَوَّاسِىٌّ; (TA in art. روس;) and ↓ <br>\
+      رُوَاسٌ; (M, TA;) applied to a stallion; (TA;) and ↓ <br>\
+      مَرْوُوسٌ: (K, * TA:) fem. of the first, رَاْسَا=ءُ. (M.) ―         -b2-  Also رَاْسَا=ءُ A ewe, (S, M, K,) or she-goat, (M,) &lt;i&gt;having a black head&lt;/i&gt; (A&#39;Obeyd, S, M, K) &lt;i&gt;and face,&lt;/i&gt; (S, M, K,) &lt;i&gt;the rest of her being white.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14288&quot; key=&quot;رَاْسٌ مِرْاَسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَاْسٌ مِرْاَسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, incorrectly written in the K مَرْاَسٌ, like مَقْعَدٌ, (TA,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مِصَكٌّ لِلرُّوُوسِ [app. meaning &lt;i&gt;A head strong to butt,&lt;/i&gt; or &lt;i&gt;knock, against other heads&lt;/i&gt;]: pl. رُوُوسٌ مَرَايِيسُ, (K, TA,) or مَرَايِسُ; (CK;) and ↓ <br>\
+      رُوُوسٌ رُوَّسٌ [signifies the same]. (K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14289&quot; key=&quot;مُرَاَّسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُرَاَّسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see رَوُوسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14290&quot; key=&quot;مُرَيِّسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُرَيِّسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A [lizard of the kind called] ضبّ coming forth from his hole &lt;i&gt;having his head foremost:&lt;/i&gt; opposed to مُذَنِّبٌ. (TA.) ―         -b2-  المُرَيِّسُ <br>\
+                  &lt;i&gt;The lion.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14291&quot; key=&quot;مِرْا=سٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِرْا=سٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A horse &lt;i&gt;that bites the heads of other horses when running with them in a race:&lt;/i&gt; (M, K: *) or [so in some copies of the K, but in others “ and, ”] &lt;i&gt;that takes precedence of the other horses in a race.&lt;/i&gt; (K, * TA.) ―         -b2-  See also رَوُوسٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14292&quot; key=&quot;مَرْوُوسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَرْوُوسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see رَيِيسٌ, in four places: ―         -b2-  and see اَرْاَسُ. ―         -b3-  Also One &lt;i&gt;whose desire&lt;/i&gt; (شَهْوَة) &lt;i&gt;is in his head only.&lt;/i&gt; (Fr, Sgh, K.)       -A2-  (tropical:)  &lt;i&gt;Subjects&lt;/i&gt; [&lt;i&gt;of a&lt;/i&gt; <br>\
+                  رَيِيس]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14293&quot; key=&quot;مُرَايِسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُرَايِسٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see رَايِسٌ: ―         -b2-  and رَوُوسٌ.       -A2-  Also One &lt;i&gt;holding back&lt;/i&gt; (Sgh, K) &lt;i&gt;from the party&lt;/i&gt; [&lt;i&gt;to which he belongs&lt;/i&gt;] (Sgh, TA) &lt;i&gt;in fight,&lt;/i&gt; or &lt;i&gt;battle.&lt;/i&gt; (Sgh, K.)   &lt;/entryFree&gt; <br>\
+' } );

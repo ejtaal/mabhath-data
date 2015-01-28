@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>عفن</em>            1                  عفن<br>\
+<b>عَفِنَ</b>               1     <br>\
+                     عَفِنَ<br>\
+                     ذ<br>\
+                  , aor      <br>\
+                     عَفَنَ<br>\
+                  , inf. n. عَفَنٌ (S, Mgh, Msb, K, TA, in the CK [erroneously] عَفْن,) and عُفُونَةٌ, (K,) <i>It</i> (a thing) <i>was,</i> or <i>became, putrid,</i> or <i>rotten;</i> i. e. <i>it became decayed,</i> (Mgh,) or <i>in a corrupt,</i> or <i>an unsound, state,</i> (Msb,) <i>by the effect of moisture upon it,</i> (Mgh, * Msb,) <i>so as to become dissundered when felt:</i> (Msb;) said of a rope, (S, K.) <i>it became decayed</i> (S,) or <i>in a corrupt,</i> or <i>an unsound, state,</i> (K,) <i>from the effect of water,</i> (S,) or <i>from moisture,</i> or <i>some other cause,</i> (TA,) <i>so as to crumble on its being felt;</i> as also ↓ <br>\
+      تعفّن. (K.) And عَفِنَ اللَّحْمُ <br>\
+                  <i>The flesh,</i> or <i>flesh-meat, became</i> [<i>stinking,</i> or] <i>altered</i> [<i>for the worse</i>] <i>in odour;</i> and so ↓ <br>\
+      تعقّن. (Msb.)       -A2-  عَفَنَ اللَّحْمَ, (Msb, K,) aor.      <br>\
+                     عَفِنَ<br>\
+                  , (Msb,) inf. n. عَفْنٌ, (TA,) <i>He made the flesh,</i> or <i>flesh-meat, to become</i> [<i>stinking,</i> or] <i>altered</i> [<i>for the worse</i>] (Msb, K) <i>in odour;</i> (Msb;) and ↓ <br>\
+      عفّنهُ signifies the same (K.)       -A3-  عَفَنَ فِى الجَبَلِ, (Kr, K.) inf. n. عَفْنٌ, (TA,) <i>He ascended the mountain;</i> (Kr, K;) as also عَثَنَ. (Kr, TA.)    </entryFree> <br>\
+                     عَفَّنَ<br>\
+                   see the preceding paragraph.    </entryFree> <br>\
+<b>اعفن</b>               1     <br>\
+                     اعفن<br>\
+                     ذ<br>\
+                  <i>He</i> (a man) <i>had his skin,</i> or <i>hide,</i> or <i>tanned skin</i> or <i>hide pierced with holes.</i> (K.) ―         -b2-  And ؟؟ <br>\
+                  <i>He found the flesh,</i> or <i>flesh-meat, to be</i> [<i>stinking,</i> or] <i>altered</i> [<i>for the worse</i>] <i>in odour.</i> (Msb.)    </entryFree> <br>\
+                     تَعَفَّنَ<br>\
+                   see the first paragraph, in two places.    </entryFree> <br>\
+<b>عَفِنٌ</b>               1     <br>\
+                     عَفِنٌ<br>\
+                     ذ<br>\
+                   A thing, (Az, S,) or a rope, (K,) <i>putrid,</i> or <i>rotten;</i> i. e. <i>decayed,</i> (S,) or <i>in a corrupt,</i> or <i>an unsound, state,</i> (Az, K,) <i>from moisture,</i> (Az. S, * TA,) or <i>some other cause,</i> (TA,) <i>and from being kept in a close place,</i> (Az, TA,) <i>so as to crumble on its being felt.</i> (K.) And Flesh, or flesh-meat, (Msb, K,) [<i>stinking,</i> or] <i>altered</i> [<i>for the worse</i>] <i>in odour;</i> (Msb;) or <i>rendered so;</i> as also ↓ <br>\
+      مَعْفُونٌ. (K.)    </entryFree> <br>\
+<b>عُفُونَةٌ</b>               1     <br>\
+                     عُفُونَةٌ<br>\
+                     ذ<br>\
+                   [mentioned above (see 1) as an inf. n.] <i>Putridity,</i> or <i>rottenness;</i> i. e. <i>a state of decay from moisture</i> &amp;amp;c. (S.) And [<i>A stinking,</i> or] <i>alteration</i> [<i>for the worse</i>] <i>in odour,</i> of flesh, <i>or</i> flesh-meat. (Msb.)    </entryFree> <br>\
+<b>مَعْفُونٌ</b>               1     <br>\
+                     مَعْفُونٌ<br>\
+                     ذ<br>\
+                  : see عَفِنٌ.   </entryFree> <br>\
+' } );

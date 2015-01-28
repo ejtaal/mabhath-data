@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>فجس</em>            1                  فجس<br>\
+<b>فَجَسَ</b>               1     <br>\
+                     فَجَسَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     فَجُسَ<br>\
+                  , (S, TA,) inf. n. فَجْسٌ, (S, O, K, TA,) <i>He behaved proudly,</i> or <i>magnified himself;</i> (S, O, K, TA;) as also ↓ <br>\
+      تفجّس; (S, * K;) or this latter signifies <i>he magnified,</i> or <i>exalted, himself,</i> (O, TA,) and <i>boasted:</i> (O, * TA:) and فَجْزٌ signifies the same as فَجْسٌ, i. e. the “ behaving proudly, or magnifying oneself. ” (TA.) ―         -b2-  And <i>He overcame,</i> or <i>subdued,</i> or <i>oppressed.</i> (Ibn-&#39;Abbád, O, K: but only the inf. n. of the verb in this and the following sense is mentioned.) ―         -b3-  <i>He did an unprecedented act,</i> and only <i>one of an evil kind.</i> (Ibn-&#39;Abbád, O, K, TA.)    </entryFree> <br>\
+<b>افجس</b>               1     <br>\
+                     افجس<br>\
+                     ذ<br>\
+                  <i>He</i> (a man) <i>boasted vainly,</i> or <i>falsely.</i> (IAar, O, K.)    </entryFree> <br>\
+                     تَفَجَّسَ<br>\
+                   see 1, first sentence. تفجّس السَّحَابُ بِالمَطَرِ <br>\
+                  <i>The clouds burst with rain:</i> (L, TA:) [app. a dial. var. of تبجّس.]   </entryFree> <br>\
+' } );

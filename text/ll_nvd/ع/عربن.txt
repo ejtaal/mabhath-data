@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'عربنQ. 1<br>\
+عَرْبَنَهُ He gave him what is termed an<br>\
+عَرَبُون or عُرْبُون &amp;c. [i. e. an earnest, or earnestmoney]. (S, TA: mentioned as a quadriliteralradical word, and also in art. عرب, q. v.)<br>\
+عُرْبَانٌ and عُرُبَّانٌ: see art. عرب.<br>\
+عَرَبُونٌ and عَُرْبُونٌ: see art. عرب.<br>\
+' } );

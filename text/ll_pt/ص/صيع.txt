@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>صيع</em>            1                  صيع<br>\
+<b>صِعْتُ</b>               1     <br>\
+                     صِعْتُ<br>\
+                     ذ<br>\
+                  , aor. اَصِيعُ, inf. n. صَيْعٌ: see 1 in art. صوع, in three places.    </entryFree> <br>\
+<b>اصاع الغَنَمَ</b>               1     <br>\
+                     اصاع الغَنَمَ<br>\
+                     ذ<br>\
+                  : see 1, in art. صوع, latter half.    </entryFree> <br>\
+<b>تصيّع</b>               1     <br>\
+                     تصيّع<br>\
+                     ذ<br>\
+                  : see 5 in art. صوع, last sentence. ―         -b2-  Also, said of water, <i>It was,</i> or <i>became, in a state of commotion upon the surface of the ground:</i> (IDrd, O, K, * TA:) but تسيّع is more approved [in this sense, or as meaning “ it ran upon the surface of the ground, ” as expl. in art. سيع]. (TA.)    </entryFree> <br>\
+<b>انصاع</b>               1     <br>\
+                     انصاع<br>\
+                     ذ<br>\
+                  : see art. صوع. It belongs to this art. and to art. صوع. (K.)    </entryFree> <br>\
+<b>اَصْيَعُ</b>               1     <br>\
+                     اَصْيَعُ<br>\
+                     ذ<br>\
+                   [an epithet mentioned, but not expl., in the O and TA: it seems to be from صِعْتُهُ “ I dispersed it, or scattered it; ” and hence to be <i>syn. with</i> <br>\
+                  اَسْيَعُ, signifying <i>In a state of commotion,</i> or <i>of exceeding commotion</i>]. Rubeh says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        فَظَلَّ يَكْسُوهَا الغُبَارَ الاَصْيَعَا<br>\
+                  </quote> [app. meaning <i>And he passed the day enveloping her,</i> or <i>it,</i> or <i>them, in the dust in a state of commotion,</i> or <i>of exceeding commotion</i>]. (O, TA.)   </entryFree> <br>\
+' } );

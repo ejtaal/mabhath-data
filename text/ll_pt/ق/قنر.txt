@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قنر</em>            1                  قنر<br>\
+<b>قنورّ</b>               1     <br>\
+                     قنورّ<br>\
+                     ذ<br>\
+                   A <i>large, long-bodied</i> man. (Az, in TA, voce هِرْدَبَّةٌ.   </entryFree> <br>\
+' } );

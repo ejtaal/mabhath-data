@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'نتعنُتُوعٌ<br>\
+The gums of trees; correctly نُتُوحٌ.<br>\
+' } );

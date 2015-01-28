@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>وز</em>            1                  وز<br>\
+<b>وَزٌّ</b>               1     <br>\
+                     وَزٌّ<br>\
+                     ذ<br>\
+                   a dial. var. of اـِوَزٌّ, (S, K,) <i>A kind of water-fowl;</i> (S;) [the <i>goose,</i> or <i>geese;</i> and the <i>duck,</i> or <i>ducks;</i> but generally the former of these birds;] as also ↓ <br>\
+      وَزِّينٌ: (K:) n. un. of the former, وَزَّةٌ; (Msb, art. وز;) and of the latter, وَزِّينَةٌ. (Sgh, TA.) See كُرْكىّ.    </entryFree> <br>\
+<b>وَزِّينٌ</b>               1     <br>\
+                     وَزِّينٌ<br>\
+                     ذ<br>\
+                   and وَزِّينَةٌ: see وَزٌّ.    </entryFree> <br>\
+<b>اَرْضٌ مَوَزَّةٌ</b>               1     <br>\
+                     اَرْضٌ مَوَزَّةٌ<br>\
+                     ذ<br>\
+                  <i>A land abounding with the birds called</i> <br>\
+                  وَزّ; (K;) like مَاْوَزَةٌ from اـِوَزٌّ. (TA.)   </entryFree> <br>\
+' } );

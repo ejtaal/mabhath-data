@@ -1,0 +1,32 @@
+load_data( { book: 'll_pt', text: '<em>دجر</em>            1                  دجر<br>\
+<b>دَجِرَ</b>               1     <br>\
+                     دَجِرَ<br>\
+                     دجر<br>\
+                  , (S, K,) aor.      <br>\
+                     دَجَرَ<br>\
+                  , (K,) inf. n. دَجَرٌ, (S, K,) <i>He was,</i> or <i>became, brisk, lively,</i> or <i>sprightly, and at the same time exulted,</i> or <i>exulted greatly, and behaved insolently and ungratefully:</i> (S:) or <i>he became confounded,</i> or <i>perplexed, and unable to see his right course:</i> (S, K:) or <i>he became in a state like that of one who is confounded,</i> or <i>perplexed, and unable to see his right course:</i> (T:) <i>he became in a state of confusion and disturbance:</i> (T, K:) or [so accord. to the TA, but in the K “ and, ”] <i>he became intoxicated.</i> (K, TA.)    </entryFree> <br>\
+<b>دَجِرٌ</b>               1     <br>\
+                     دَجِرٌ<br>\
+                     دجر<br>\
+                   (TA) and ↓ <br>\
+      دَجْرَانٌ (S, TA) <i>Brisk, lively,</i> or <i>sprightly, and at the same time exulting,</i> or <i>exulting greatly, and behaving insolently and ungratefully:</i> (S, TA:) or, both words, (K,) <i>in a state of confusion,</i> or <i>perplexity, and unable to see his right course:</i> (S, K:) <i>in a state of confusion and disturbance: in a state of intoxication:</i> <br>\
+                   (K:) and the former, <i>stupid; foolish; possessing little sense; who pursues a wrong course:</i> (AZ:) pl. (of the former, S) دَجَارَى (S, K) and دَجْرَى. (K.)    </entryFree> <br>\
+<b>دَجْرَانُ</b>               1     <br>\
+                     دَجْرَانُ<br>\
+                     دجران<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>دَيْجُورٌ</b>               1     <br>\
+                     دَيْجُورٌ<br>\
+                     ديجور<br>\
+                  <i>Darkness:</i> (S, A, K:) pl. دَيَاجِيرُ (TA) and دَيَاجِرُ. (A, TA.) You say, خُضْتُ اـِلَيْكَ <br>\
+                  دَيْجُورًا كَاَنِّى خُضْتُ بَحْرًا مَسْجُورًا [<i>I waded to thee through darkness as though I waded through a full sea</i>]. (A.) And, in a saying of &#39;Alee, تَغْرِيَدَ ذَوَاتِ المَنْطِقِ فِى دَيَاجِيرِ الَوْكَارِ [<i>Like the warbling of singing birds in the dark recesses of the nests</i>]. (TA.) ―         -b2-  It is also used as an epithet: you say لَيْلٌ دَيْجُورٌ <br>\
+                  <i>Dark night:</i> (TA:) and لَيْلَةٌ <br>\
+                  دَيْجُورٌ <br>\
+                  <i>a dark night:</i> (S, A, TA:) and دِيمَةٌ <br>\
+                  دَيْجُورٌ <br>\
+                  <i>a dark lasting and still rain.</i> (AHn.) ―         -b3-  Also, applied to dry herbage, <i>Dark and abundant;</i> (Sh, K;) because of its blackness: (Sh:) or <i>abundant and piled up:</i> (IAth:) or, applied to herbage, <i>abundant.</i> (ISh.) ―         -b4-  Also, applied to dust, or earth, (TA,) <i>Of a dusty colour, inclining to black,</i> (K,) <i>like the colour of ashes.</i> (TA.) ―         -b5-  Also <i>Dust,</i> or <i>earth,</i> (Sh, K,) <i>itself:</i> (Sh:) pl. دَيَاجِيرُ. TA.)    </entryFree> <br>\
+<b>اَسْوَدُ دَيْجُورِىٌّ</b>               1     <br>\
+                     اَسْوَدُ دَيْجُورِىٌّ<br>\
+                     ذ<br>\
+                   [<i>Of a deep black colour</i>]. (A.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,3 @@
+load_data( { book: 'll_pt', text: '<em>ريح</em>            1                  ريح<br>\
+               </head> For several words mentioned under this head in some of the Lexicons, see art. روح.   </div2> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ونب</em>            1                  ونب<br>\
+<b>ونّبه</b>               1     <br>\
+                     ونّبه<br>\
+                     ذ<br>\
+                  , inf. n. تَوْنِيبٌ, <i>He reprehended, reproved, blamed, chid,</i> or <i>reproached, him severely; &amp;amp;c.:</i> (K:) a dial. form of اَنَّبَهُ. (TA.)   </entryFree> <br>\
+' } );

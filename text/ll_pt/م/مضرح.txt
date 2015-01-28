@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مضرح</em>            1                  مضرح<br>\
+<b>مَضْرَحٌ</b>               1     <br>\
+                     مَضْرَحٌ<br>\
+                     ذ<br>\
+                   and مَضْرَحِىٌّ: see art. ضرح.   </entryFree> <br>\
+' } );

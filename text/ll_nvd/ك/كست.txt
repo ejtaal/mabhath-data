@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كستكُسْتٌ i. q. قُسْطٌ (K) and كُسْطٌ, [i. e. Costus,]<br>\
+with which one fumigates. (Kr.)<br>\
+' } );

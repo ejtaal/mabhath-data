@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;تار&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  تار<br>\
+&lt;entryFree id=&quot;n3689&quot; key=&quot;اَتْاَرْتُ اـِلَيْهِ النَّظَرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَتْاَرْتُ اـِلَيْهِ النَّظَرَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;I continued to look at him time after time&lt;/i&gt; (تَارَةً بَعْدَ تَارَةٍ): (T, TA:) or &lt;i&gt;I looked at him sharply,&lt;/i&gt; or &lt;i&gt;intently.&lt;/i&gt; (Fr, T, M, K.) And اَتْاَرْتُهُ بَصَرِى, (T, S, M, K,) and اَتْاَرْتُ اـِلَيْهِ <br>\
+                  البَصَرَ, (K,) &lt;i&gt;I followed him with my eye; made my eye to follow him.&lt;/i&gt; (S, M, K.) [See also art. تور.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3690&quot; key=&quot;تَارَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَارَةٌ<br>\
+                     تاره<br>\
+                     تارة<br>\
+                  &lt;/form&gt;, without ء on account of frequent usage, (IAar, T, Msb in art. تور, and K,) &lt;i&gt;A time; one time;&lt;/i&gt; [in the sense of the French &lt;i&gt;fois;&lt;/i&gt;] syn.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3691&quot; key=&quot;مَرَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَرَّةٌ<br>\
+                     مر<br>\
+                     مره<br>\
+                     مرة<br>\
+                  &lt;/form&gt;: (Msb, K:) or &lt;i&gt;a time, whether long or short;&lt;/i&gt; syn. حِينٌ: (IAar:) sometimes, however, it is pronounced تَاْرَةٌ: (Msb:) pl. تِيَرٌ (T, Msb, K) and تِيَارٌ: (Msb:) these are pls. of تَاْرَةٌ; but the pl. of تَارَةٌ without ء is تَارَاتٌ (Msb) and تِيَرٌ (S in art. تير, and K and K in art. تور,) and تِيَارٌ. (S in art. تير.) [See also art. تور.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n3692&quot; key=&quot;مُتَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَارٌ<br>\
+                     متار<br>\
+                  &lt;/form&gt; in the saying &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَصِرْتُ كَاَنَّنِى فَرَاٌ مُتَارُ<br>\
+                  &lt;/quote&gt; is [said by ISd to be] for مُتْاَرٌ [pass. part. n. of اَتْاَرَ; so that the meaning is, &lt;i&gt;And I became as though I were a wild ass looked at sharply&lt;/i&gt; or &lt;i&gt;intently,&lt;/i&gt; or &lt;i&gt;followed by the eye,&lt;/i&gt; in order to be captured or shot]. (M, TA. [But see art. تور.])   &lt;/entryFree&gt; <br>\
+' } );

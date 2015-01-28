@@ -1,0 +1,54 @@
+load_data( { book: 'll_nvd', text: 'وط1<br>\
+وَطٌّ, [an inf. n., of which the verb is وَطَّ,<br>\
+aor., accord. to rule,<br>\
+وَطِ3َ, but accord. to the TK,<br>\
+وَطُ3َ,] The crying of the وَطْوَاط. (Sgh, K.) ―<br>\
+-b2-  The<br>\
+creaking of the [kind of vehicle called] مَحْمِل.<br>\
+(Sgh, K.)<br>\
+R. Q. 1<br>\
+وَطْوَطَةٌ, [inf. n. of وَطْوَطَ,] The<br>\
+uttering speech, or words rapidly, or near together. (K.) [See وَطْوَاطٌ.] ―<br>\
+-b2-  (assumed tropical:)  The being<br>\
+weak. (K.)<br>\
+R. Q. 2<br>\
+تَوَطْوَطَ He (a child) cried out. (Ibn<br>\
+&#39;Abbád, Sgh, K.)<br>\
+وُطُطٌ: see the last sentence of the next paragraph.<br>\
+وَطْوَاطٌ The bat; syn. خُفَّاشٌ: (As, S, K:) or<br>\
+the large خُفَّاش: (Msb:) or the swallow; syn.<br>\
+خُطَّافٌ; (S, Msb;) this is thought by A&#39;Obeyd<br>\
+to be, more probably than the first, the correct<br>\
+meaning; (S;) or the last may be right, but the<br>\
+first is that which is commonly known: (IB:)<br>\
+or it has the first signification, and also signifies<br>\
+a species of the swallows (خَطَاطِيف) of the<br>\
+mountains, (K, TA,) black and likened to a<br>\
+species of the خَشَاشِيف [or bats], because of its<br>\
+[frequent] receding and turning aside [in its<br>\
+flight]: (TA:) [Golius says, as on the authority<br>\
+of the K, “pec. genus montanum et. vocale, quod<br>\
+a&gt;/pous dicitur; i. e. the swift:] pl. وَطَاوِيطُ, (Msb,)<br>\
+or وَطَاوِطُ, (S,) or both, (Kr, K,) but the latter,<br>\
+which is irreg., only allowable in poetry, in<br>\
+cases of necessity. (Kr.) It is used in the first<br>\
+of these senses in the proverb, أَبْصَرُ فِى اللَّيْلِ<br>\
+مِنَ الوَطْوَاطِ [More clear-sighted in the night<br>\
+than the bat]. (S, Msb.) ―<br>\
+-b2-  Clamorous; (Lh,<br>\
+K;) applied to a man: (Lh:) and one who<br>\
+utters his speech, or words, rapidly, or near<br>\
+together; (Lh, K;) as though his voice were<br>\
+the voice of bats: so they assert it to mean:<br>\
+(Lh:) fem. with ة: (K:) and [in like manner]<br>\
+↓ وَطْوَاطِىٌّ signifies loquacious; a great talker;<br>\
+a babbler. (K *, TA.) ―<br>\
+-b3-  (assumed tropical:)  A man weak in intellect and judgment: (ISh:) or weak and<br>\
+cowardly; (A &#39;Obeyd, S K;) in the opinion of<br>\
+A&#39;Obeyd, as being likened to the flying thing so<br>\
+called; (S;) as also ↓ وَطْوَاطِىٌّ: (K:) and ↓ وُطُطٌ,<br>\
+(IAar, K,) of which وَطْوَاطٌ is the sing., (TA,)<br>\
+men (IAar) weak in intellects and bodies.<br>\
+(IAar, K.)<br>\
+وَطْوَاطِىٌّ: see وَطْوَاطٌ, in two places.<br>\
+' } );

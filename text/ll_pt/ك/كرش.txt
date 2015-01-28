@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كرش</em>            1                  كرش<br>\
+<b>كَرشٌ</b>               1     <br>\
+                     كَرشٌ<br>\
+                     ذ<br>\
+                   or كِرْشٌ <br>\
+                  <i>The plant so named:</i> see رَقَمَةٌ.   </entryFree> <br>\
+' } );

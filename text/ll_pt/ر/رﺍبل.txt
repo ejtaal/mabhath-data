@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;رابل&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  رابل<br>\
+&lt;entryFree id=&quot;n14255&quot; key=&quot;رَاْبَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;Q&quot;&gt;       <br>\
+                     &lt;itype&gt;Q. 1&lt;/itype&gt;        <br>\
+                     رَاْبَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;. inf. n. رَاْبَلَةٌ, &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, wicked, crafty,&lt;/i&gt; or &lt;i&gt;cunning;&lt;/i&gt; as also ↓ <br>\
+      تَرَاْبَلَ. (T in art. ربل.)       -A2-  رَاْبَلَةٌ (M, K) inf. n. of رَاْبَلَ, said of a man; (T, K;) [also signifies] The &lt;i&gt;walking&lt;/i&gt; (M, K) of a man (M) &lt;i&gt;inclining&lt;/i&gt; (M, K) &lt;i&gt;to either side,&lt;/i&gt; (M,) or &lt;i&gt;to one side,&lt;/i&gt; (K,) &lt;i&gt;as though having the feet attenuated, and chafed,&lt;/i&gt; or &lt;i&gt;abraded.&lt;/i&gt; (M, K. [يَتَوَخَّى in the CK is a mistake for يَتَوَجَّى, which is expressly said in the TA to be with جيم.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14256&quot; key=&quot;تَرَاْبَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;Q&quot;&gt;       <br>\
+                     &lt;itype&gt;Q. 2&lt;/itype&gt;        <br>\
+                     تَرَاْبَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see above. ―         -b2-  Also &lt;i&gt;He made a raid,&lt;/i&gt; or &lt;i&gt;a sudden attack, upon people, and acted like the lion:&lt;/i&gt; (S and TA in art. ربل:) and so, accord. to Fr, تَرَيْبَلَ. (TA in that art.) And تَرَاْبَلُوا <br>\
+                  &lt;i&gt;They practised theft,&lt;/i&gt; (M, K, TA,) &lt;i&gt;and made raids,&lt;/i&gt; or &lt;i&gt;sudden attacks, upon people, and acted like the lion.&lt;/i&gt; (TA.) And (so in the M, but in the K “ or, ”) &lt;i&gt;They went on a hostile,&lt;/i&gt; or &lt;i&gt;hostile and plundering, expedition, upon their feet, and alone, without any commander over them.&lt;/i&gt; (M, K. [See رَبِيلٌ and رِيبَالٌ, in art. ربل.]) ―         -b3-  [ترابل, said of a lion, occurs in the “ Deewán el-Hudhaleeyeen, ” accord. to Freytag, as meaning &lt;i&gt;He had perfect teeth.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14257&quot; key=&quot;رَاْبَلَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَاْبَلَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Wickedness, craftiness,&lt;/i&gt; or &lt;i&gt;cunning,&lt;/i&gt; (M, * K, TA,) and &lt;i&gt;boldness,&lt;/i&gt; and &lt;i&gt;insidiousness for the purpose of doing evil,&lt;/i&gt; or &lt;i&gt;mischief.&lt;/i&gt; (TA.) So in the saying, فَعَلَ ذٰلِكَ مِنْ رَاْبَلَتِهِ <br>\
+                  &lt;i&gt;He did that by reason of his wickedness,&lt;/i&gt; &amp;amp;c. (M, K, TA.) It is the inf. n. of Q. 1 [q. v.]. (T, TK.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14258&quot; key=&quot;رِيْبَالٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِيْبَالٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, a quadriliteral word [as to its root], (M, K,) of the measure فِعْلَالٌ, as is shown by their saying تَرَاْبَلُوا; (M;) and also without ء, (M, K,) sometimes, (K,) the ء being suppressed, and ى substituted for it; (M;) The &lt;i&gt;lion:&lt;/i&gt; (S in art. ربل, and M and K:) and the &lt;i&gt;wolf:&lt;/i&gt; (M, K:) or &lt;i&gt;a malignant, guileful,&lt;/i&gt; or &lt;i&gt;crafty, wolf:&lt;/i&gt; and accord. to Skr, &lt;i&gt;a fleshy and young beast of prey:&lt;/i&gt; (TA:) and applied as an epithet to a thief, because of his boldness: (M:) and also, (K,) as some say, (M,) &lt;i&gt;one who is the only offspring of his mother:&lt;/i&gt; (M, K:) pl. رَا=بِيلُ (S in art. ربل, and K) and رَا=بِلُ, (K,) [the latter, probably, contracted by poetic license,] and رَا=بِلَةٌ (TA.) [See also رِيْبَالٌ, in art. ربل.]   &lt;/entryFree&gt; <br>\
+' } );

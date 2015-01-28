@@ -1,0 +1,89 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ابن&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ابن<br>\
+&lt;entryFree id=&quot;n98&quot; key=&quot;اَبَنَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَبَنَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبُنَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبِنَ<br>\
+                  &lt;/form&gt;, inf. n. اَبْنٌ, &lt;i&gt;He made him an object of imputation,&lt;/i&gt; or &lt;i&gt;suspected him:&lt;/i&gt; and &lt;i&gt;he found fault with him,&lt;/i&gt; or &lt;i&gt;blamed him:&lt;/i&gt; (M:) or &lt;i&gt;he cast a foul,&lt;/i&gt; or &lt;i&gt;an evil, imputation upon him.&lt;/i&gt; (IAar, T.) You say, اَبَنَهُ بِشَىْءٍ, (S, K,) or بِشَّرٍ (as in one copy of the S,) or بِخَيْرٍوَشَّرٍ, (Lh, M,) aor. as above, (Lh, S, M, K,) and so the inf. n., (Lh, M,) &lt;i&gt;He made him an object of imputation,&lt;/i&gt; or &lt;i&gt;suspected him,&lt;/i&gt; (Lh, S, M, K,) &lt;i&gt;of a thing,&lt;/i&gt; (S, K,) or &lt;i&gt;of evil,&lt;/i&gt; (S, accord. to one copy,) or &lt;i&gt;of good, and evil:&lt;/i&gt; (Lh, M:) and ↓ <br>\
+      ابّنهُ signifies the same. (M.) And بِخَيْرٍ ↓ <br>\
+      فُلَانٌ يُوَبَّنُ, or بِشَّرٍ, &lt;i&gt;Such a one is made an object of imputation,&lt;/i&gt; or &lt;i&gt;suspected, of good,&lt;/i&gt; or &lt;i&gt;of evil:&lt;/i&gt; (AA, * Lh, T [as in the TT; but perhaps يُوَبَّنُ is a mistranscription for يُوْبَنُ; for it is immediately added, فَهُوَ مَاْبُونٌ:]) when, however, you say يوبن [i. e. يُوْبَنُ or ↓ <br>\
+      يُوَبَّنٌ] alone, it relates to evil only. (AA, T. [But see 2.]) And فُلَانٌ يَوَبَنُ بِكَذَا, or ↓ <br>\
+      يُوَبَّنُ, &lt;i&gt;Such a one is evil spoken of by the imputation of such a thing.&lt;/i&gt; (S, accord. to different copies.) And it is said respecting the assembly of the Prophet, فِيهِ الحُرَمُ, ↓ <br>\
+      لَا تُوَبَّنُ, (T, and so in a copy of the S,) or لا تُوْبَنُ, (so in some copies of the S,) i. e. &lt;i&gt;Women&lt;/i&gt; (T) &lt;i&gt;shall not be mentioned in an evil manner therein:&lt;/i&gt; (T, S:) or &lt;i&gt;shall not have evil imputations cast upon them, nor be found fault with, nor shall that which is foul be said of them, nor that which ought not, of things whereof one should be ashamed.&lt;/i&gt; (IAar, T.) ―         -b2-  Also, and ↓ <br>\
+      ابّنهُ, (M, K,) inf. n. تَاْبِينٌ, (K,) &lt;i&gt;He found fault with him,&lt;/i&gt; or &lt;i&gt;blamed him, to his face;&lt;/i&gt; (M, K;) and &lt;i&gt;he upbraided him,&lt;/i&gt; or &lt;i&gt;reproached him.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n99&quot; key=&quot;ابّن الشَّىْءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ابّن الشَّىْءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (AZ, S,) inf. n. تَاْبِينٌ, (K,) &lt;i&gt;He watched,&lt;/i&gt; or &lt;i&gt;observed, the thing; or he expected it,&lt;/i&gt; or &lt;i&gt;waited for it.&lt;/i&gt; (AZ, S, K.) ―         -b2-  ابّن الاَثَرَ, (M,) inf. n. as above, (As, T, S, K,) &lt;i&gt;He followed the traces,&lt;/i&gt; or &lt;i&gt;footprints,&lt;/i&gt; or &lt;i&gt;footsteps,&lt;/i&gt; (As, T, S, M, K,) of a thing; (As, S, K;) as also ↓ <br>\
+      تابّن. (K.) And hence the next signification. (As, T.)       -A2-  ابّن الرَّجُلَ, (S, M,) inf. n. as above, (Sh, T, S, K,) &lt;i&gt;He praised the man,&lt;/i&gt; or &lt;i&gt;spoke well of him,&lt;/i&gt; (Sh, Th, T, S, M, K,) &lt;i&gt;after his death,&lt;/i&gt; (Th, S, M, K,) or &lt;i&gt;in death&lt;/i&gt; and &lt;i&gt;in life,&lt;/i&gt; (Sh, T,) used in poetry to signify praise of the living; (M;) and &lt;i&gt;wept for him:&lt;/i&gt; (S:) &lt;i&gt;he praised him; and enumerated,&lt;/i&gt; or &lt;i&gt;recounted, his good qualities&lt;/i&gt; or &lt;i&gt;actions:&lt;/i&gt; you say, لَمْ يَزَلَ يُقَرِّظُ اَحْيَاكُمْ وَيُوَبِّنُ <br>\
+                  مَوْتَاكُمْ [&lt;i&gt;He ceased not to eulogize your living and to praise your dead&lt;/i&gt;]: (Z, TA:) for he who praises the dead traces his [good] deeds. (As, T.) ―         -b2-  See also 1, in six places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَبَّنَ<br>\
+                  &lt;/form&gt; see 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n100&quot; key=&quot;اِبْنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اِبْنٌ<br>\
+                     ابان<br>\
+                     ابن<br>\
+                     ابنن<br>\
+                     ابن<br>\
+                     بان<br>\
+                     بنى<br>\
+                     ٱبن<br>\
+                     آب<br>\
+                  &lt;/form&gt;: see art. بني.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n101&quot; key=&quot;اُبْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُبْنَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A knot in wood,&lt;/i&gt; or &lt;i&gt;in a branch;&lt;/i&gt; (S, M, K;) or &lt;i&gt;in a staff,&lt;/i&gt; or &lt;i&gt;stick;&lt;/i&gt; (T;) and &lt;i&gt;in a bow,&lt;/i&gt; (TA,) [i. e.] the &lt;i&gt;place of the shooting forth of a branch in a bow,&lt;/i&gt; (M,) which is a fault therein; (TA;) and &lt;i&gt;in a rope, or cord:&lt;/i&gt; (M in art. اثل:) &lt;pb n=&quot;10&quot; TEIform=&quot;pb&quot;/&gt; pl. اُبَنٌ. (T, S.) ―         -b2-  Hence, (M,) (tropical:)  &lt;i&gt;A fault, defect,&lt;/i&gt; or &lt;i&gt;blemish,&lt;/i&gt; (T, M, K, TA,) in one&#39;s grounds of pretension to respect, (T, TA,) and in speech, or language. (M, TA.) ―         -b3-  (assumed tropical:)  Particularly The &lt;i&gt;enormity that is committed with one who is termed&lt;/i&gt; <br>\
+                  مَاْبُون. (TA.) ―         -b4-  And (tropical:)  &lt;i&gt;Rancour, malevolence, malice,&lt;/i&gt; or &lt;i&gt;spite:&lt;/i&gt; (K, TA:) and &lt;i&gt;enmity:&lt;/i&gt; pl. as above. (TA.) You say, بَيْنَهُمْ اُبَنٌ (tropical:)  (S, TA) &lt;i&gt;Between them are enmities.&lt;/i&gt; (S.) ―         -b5-  Also The [&lt;i&gt;part called&lt;/i&gt;] غَلْصَمَة [meaning the &lt;i&gt;epiglottis&lt;/i&gt;] of a camel. (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n102&quot; key=&quot;اِبْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اِبْنَةٌ<br>\
+                     ابان<br>\
+                     ابن<br>\
+                     ابنه<br>\
+                     ابننه<br>\
+                     ابنه<br>\
+                     ابنة<br>\
+                     بنى<br>\
+                     ٱبن<br>\
+                     ٱبنه<br>\
+                     ٱبنة<br>\
+                     آب<br>\
+                  &lt;/form&gt;: see art. بنى    <br>\
+&lt;entryFree id=&quot;n103&quot; key=&quot;اـِبَّانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبَّانٌ<br>\
+                     ابان<br>\
+                     اـبان<br>\
+                     ابان<br>\
+                  &lt;/form&gt; The &lt;i&gt;time&lt;/i&gt; of a thing; (T, S, M, K, and Msb in art. اب;) the &lt;i&gt;season&lt;/i&gt; of a thing; (Msb in that art.;) the &lt;i&gt;time of the preparing,&lt;/i&gt; or &lt;i&gt;making ready,&lt;/i&gt; of a thing; (Mgh in that art.;) as, for instance, of fruit, (S, Mgh, Msb,) of the fresh ripe dates, and of the gathering of fruits, and of heat or cold: (T.:) or the &lt;i&gt;first&lt;/i&gt; of a thing. (M, K.) You say, اَخَذَ الشَّىْءَ بِاـِبَّانِهِ <br>\
+                  &lt;i&gt;He took the thing in its time:&lt;/i&gt; or &lt;i&gt;in,&lt;/i&gt; or &lt;i&gt;with, the first thereof.&lt;/i&gt; (M.) The ن is radical, so that it is of the measure فِعَّالٌ; or, as some say, augmentative, so that it is of the measure فِعْلَانٌ. (TA.) [See art. اب.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n104&quot; key=&quot;مُوَبَّنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَبَّنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; occurs as meaning &lt;i&gt;Dead,&lt;/i&gt; or &lt;i&gt;dying;&lt;/i&gt; i. e., [properly,] &lt;i&gt;wept for.&lt;/i&gt; (S.) [See 2.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n105&quot; key=&quot;مُوَبِّنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَبِّنٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A praiser of the dead;&lt;/i&gt; because he traces his [good] deeds. (As, T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n106&quot; key=&quot;مَاْبُونٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْبُونٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Made an object of imputation,&lt;/i&gt; or &lt;i&gt;suspected, of evil:&lt;/i&gt; thus when used alone: otherwise you add بِخَيْرٍ [of good], and بِشَّرٍ [of evil]. (M, K.) ―         -b2-  Hence, [&lt;i&gt;A catamite;] one with whom enormous wickedness is committed;&lt;/i&gt; (TA;) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مُخَنَّثٌ. (Idem, voce دُعْبُوثٌ.) ―         -b3-  Also One who is &lt;i&gt;imprisoned;&lt;/i&gt; because suspected of a foul fault, or crime. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n107&quot; key=&quot;ابنس&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ابنس<br>\
+                     ابنس<br>\
+                  &lt;/form&gt;, accord. to the Msb; or بنس, accord. to the TA.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n108&quot; key=&quot;ا=بِنُوسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=بِنُوسٌ<br>\
+                     ا=بنوس<br>\
+                  &lt;/form&gt;, with medd to the ا and kesr to the ب, (TA,) or with damm to the ب, [i. e. ا=بُنُوسٌ, and by some written ا=بَنُوسٌ,] or with the بquiescent, [i. e. اَبْنُوسٌ,] and without و, [app. اَبْنُسٌ,] (Msb,) [&lt;i&gt;Ebony;] a thing well known, which is brought from India:&lt;/i&gt; an arabicized word: (Msb [in which is added the proper Arabic appellation; but the word in my copy of that work is imperfectly written; app. جعفر; which, however, does not seem to be the word intended:]) some say that it is the &lt;i&gt;same as&lt;/i&gt; <br>\
+                  سَاسَم: others, that it is &lt;i&gt;different therefrom:&lt;/i&gt; and respecting the measure of the word, authors differ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

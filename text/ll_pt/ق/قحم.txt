@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>قحم</em>            1                  قحم<br>\
+<b>١</b>               1     <br>\
+                     قحم نَفْسَهُ فِى الاُمُورِ<br>\
+                     ذ and        <br>\
+      فيها<br>\
+                   ↓ <br>\
+      تقحمّ and ↓ <br>\
+      اقتحم <br>\
+                  <i>He entered into affairs without consideration.</i> (A.)    </entryFree> <br>\
+<b>تَقَحَّمَ</b>               1     <br>\
+                     تَقَحَّمَ<br>\
+                     ذ<br>\
+                  <i>He experienced dearth, drought,</i> or <i>sterility.</i> See an ex. voce تَبِعَةٌ. ―         -b2-  تَقَحَّمَ فِى <br>\
+                  الاَمْرِ بِلاَ رَوِيَّةٍ [<i>He plunged,</i> or <i>rushed, into the affair without consideration</i>]. (K, * TA in art. علط.) See 1. ―         -b3-  تَقَحَّمَ: see تَدَلَّثَ.    </entryFree> <br>\
+<b>اـِقْتَحَمَ</b>               1     <br>\
+                     اـِقْتَحَمَ<br>\
+                     ذ<br>\
+                  . See 1. ―         -b2-  Said of a young camel: see voce بُلَعٌ. ―         -b3-  اِقْتَحَمَ الغَمَراَتِ: see 1 in art. خوض. And اقتحم العَقَبَةَ: see عَقَبَةٌ.    </entryFree> <br>\
+<b>قَحْمَةٌ</b>               1     <br>\
+                     قَحْمَةٌ<br>\
+                     ذ<br>\
+                  , like قَحْبَةٌ, <i>An old woman.</i> See قَحْبٌ.    </entryFree> <br>\
+<b>مُقْحَمٌ</b>               1     <br>\
+                     مُقْحَمٌ<br>\
+                     ذ<br>\
+                  <i>Redundant; pleonastic; foisted in:</i> applied to a word and to a letter. ―         -b2-  حَرْفٌ <br>\
+                  مَقْحَمَةٌ <br>\
+                  <i>A letter inserted without reason.</i> <br>\
+                  مُقْحَمَةٌ is also applied in like manner to a word. [In a copy of the S, in art. بهت, I find it written مُقْحِمَةٌ]: <i>i. q.</i> <br>\
+                  زَايِدَةٌ. (TA in art. بهت.)   </entryFree> <br>\
+' } );

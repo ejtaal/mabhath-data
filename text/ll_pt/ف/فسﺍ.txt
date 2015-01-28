@@ -1,0 +1,63 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فسا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فسا<br>\
+&lt;entryFree id=&quot;n33815&quot; key=&quot;فَسَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     فَسَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 2. ―         -b2-  Also, (M, K,) or فَسَاَهُ بِالعَصَا, (AZ, O,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَسَاَ<br>\
+                  &lt;/form&gt;, inf. n. فَسْءٌ, (M,) &lt;i&gt;He struck,&lt;/i&gt; or &lt;i&gt;beat,&lt;/i&gt; (AZ, M, O, K,) &lt;i&gt;him,&lt;/i&gt; (O,) or &lt;i&gt;his back,&lt;/i&gt; (AZ, M, K,) &lt;i&gt;with the staff,&lt;/i&gt; or &lt;i&gt;stick;&lt;/i&gt; (AZ, M, O, K;) as also ↓ <br>\
+      تفسّاهُ, (K,) or تفسّاهُ بالعصا. (O.) ―         -b3-  And فَسَاَ فُلَانًا عَنْهُ <br>\
+                  &lt;i&gt;He restrained, withheld,&lt;/i&gt; or &lt;i&gt;debarred, such a one from him.&lt;/i&gt; (O, * K.)       -A2-  فَسِيَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَسَاَ<br>\
+                  &lt;/form&gt;, [inf. n., app., فَسَاٌ, q. v. infrà,] &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, such as is termed&lt;/i&gt; <br>\
+                  اَفْسَاُ [q. v.]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33816&quot; key=&quot;فسّاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     فسّاهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, namely, a garment, or piece of cloth, (S, M, O, K,) inf. n. تَفْسِيَةٌ (S, O) and تَفْسِىْءٌ, (S,) &lt;i&gt;He stretched it so that it rent,&lt;/i&gt; or &lt;i&gt;became ragged,&lt;/i&gt; or &lt;i&gt;dissundered:&lt;/i&gt; (S, O:) or &lt;i&gt;he rent it;&lt;/i&gt; as also ↓ <br>\
+      فَسَاَهُ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَسَاَ<br>\
+                  &lt;/form&gt;, (M, K,) inf. n. فَسْءٌ (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33817&quot; key=&quot;تفسّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تفسّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, said of a garment, or piece of cloth, (S, M, O, K,) &lt;i&gt;It became ragged,&lt;/i&gt; or &lt;i&gt;dissundered,&lt;/i&gt; (S, O,) &lt;i&gt;and worn out:&lt;/i&gt; (S:) like تقضّا, or تفصّا: (accord. to different copies of the S: the latter in the L:) or &lt;i&gt;it became rent.&lt;/i&gt; (M, O.) ―         -b2-  تفسّا فِيهِمْ, (K,) or بِهِمْ, (O,) said of a disease, &lt;i&gt;It spread among them,&lt;/i&gt; (O, K,) and &lt;i&gt;became common among them:&lt;/i&gt; (TA:) like تفشّا. (O, K.)       -A2-  تفسّا: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33818&quot; key=&quot;تفاسا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تفاسا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and تفاسى, (M, O, TA,) &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;protruded&lt;/i&gt; (M, O, TA) &lt;i&gt;his posteriors,&lt;/i&gt; (M,) or &lt;i&gt;his back,&lt;/i&gt; (O,) or &lt;i&gt;both.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33819&quot; key=&quot;فَسَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَسَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; a subst. signifying The &lt;i&gt;state of such as is termed&lt;/i&gt; <br>\
+                  اَفْسَاُ [q. v.]: (M, TA:) or &lt;i&gt;a hollowness,&lt;/i&gt; or &lt;i&gt;incurvity, of the spine.&lt;/i&gt; (TA in art. فقا.) [See also 1, last sentence.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33820&quot; key=&quot;اَفْسَاُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَفْسَاُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَبْزَخُ [i. e. &lt;i&gt;Having a protuberant breast,&lt;/i&gt; or &lt;i&gt;chest, and hollow back;&lt;/i&gt; &amp;amp;c.]: or &lt;i&gt;having a protuberant breast,&lt;/i&gt; or &lt;i&gt;chest, and the lower part of the belly prominent:&lt;/i&gt; (M, K:) fem. فَسَا=ءُ: (M:) and (M, in the K “ or ”) he &lt;i&gt;who, when he walks, is as though his posteriors were in pain&lt;/i&gt; (in the M تَوْجَعُ; in some copies of the K تَوَجَّعُ [as though for تَتَوَجَّعُ], and in some يرجع); as also ↓ <br>\
+      مَفْسُوْءٌ: (M, K:) or he &lt;i&gt;who, when he sits, cannot rise but with an effort:&lt;/i&gt; (O, K:) or &lt;i&gt;whose spine enters into&lt;/i&gt; [or &lt;i&gt;turns inwards between&lt;/i&gt;] &lt;i&gt;his haunches.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33821&quot; key=&quot;مَفْسُوْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَفْسُوْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph. &lt;pb n=&quot;2395&quot; TEIform=&quot;pb&quot;/&gt;   <br>\
+            &lt;div2 n=&quot;fst and fstT&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;&gt;<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فست and فستط<br>\
+&lt;entryFree id=&quot;n33822&quot; key=&quot;فُسْتَاتٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فُسْتَاتٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, also written فِسْتَاتٌ: see فُسْطَاطٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33823&quot; key=&quot;فُسْتَاطٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فُسْتَاطٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, also written فِسْتَاطٌ: see فُسْطَاطٌ, in art. فسط, to which it belongs; for the ت is a substitute for the [former] ط in فسطاط, or for the [latter] س in فِسَّاطٌ. (M and TA in art. فسط.)   &lt;/entryFree&gt; <br>\
+' } );

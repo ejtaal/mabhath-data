@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ليا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ليا<br>\
+&lt;entryFree id=&quot;n38149&quot; key=&quot;اليات النَّاقَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اليات النَّاقَةُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The she-camel was slow.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38150&quot; key=&quot;لِيَا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لِيَا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A kind of white grain, resembling the&lt;/i&gt; <br>\
+                  حِمِّص [or &lt;i&gt;cicer arietinum&lt;/i&gt;], (K,) &lt;i&gt;intensely white, which is eaten.&lt;/i&gt; (AHn says, I know not whether it [the plant] have, or have not, قطنيّة [q. v.]. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

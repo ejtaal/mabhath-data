@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'كأن1<br>\
+كَأَنَ فِى خَلْقِهِ He, (a man) was strong in<br>\
+his make (IAar, in TA, voce كَنَتَ.)<br>\
+كَأْنِىٌّ A man strong in his make. (IAar, in<br>\
+TA, voce كَنَتَ.)<br>\
+كَأٍ and كاءٍ: see كَأَىٍّ or كَأَيِّنْ in art. أَىٌّ<br>\
+(p. 134 a.)<br>\
+' } );

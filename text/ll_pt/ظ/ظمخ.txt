@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>ظمخ</em>            1                  ظمخ<br>\
+<b>ظِمَخٌ</b>               1     <br>\
+                     ظِمَخٌ<br>\
+                     ذ<br>\
+                  , (K,) or ظِمْخٌ, (AA, TA,) <i>A tree having the form of the</i> <br>\
+                  دُلْب [or <i>plane-tree</i>], (AA, T, K,) <i>from which is cut the wood of the beaters and washers and whiteners of clothes, which is buried,</i> [<i>and is used for tanning,</i>] <i>and which is also called</i> <br>\
+                  عِرْنٌ, n. un. عِرْنَةٌ, <i>and the spathe,</i> or <i>spadix,</i> (طَلْع,) <i>whereof is called</i> <br>\
+                  سَفْعٌ: (AA, T:) and in the dial. of Teiyi, the <i>fig-tree;</i> n. un. with ة: or the sing. is ظِمْخَةٌ, and the pl. is ظِمَخٌ, sometimes contracted into ظِمْخٌ: (K:) and some say that it is the <i>tree called</i> <br>\
+                  سُمَّاق: (TA, and so in one of my copies of the S, in which it is written ظِمَخ:) it is also called ظنخ and زمخ and طمخ. (TA.)   </entryFree> <br>\
+' } );

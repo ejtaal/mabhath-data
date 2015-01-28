@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'خسق1<br>\
+خَسَقَ, aor.<br>\
+خَسِقَ, (Msb, K,) inf. n. خَسْقٌ and<br>\
+خُسُوقٌ, (Msb, TA,) It (an arrow) hit the target:<br>\
+(K:) or passed through the object at which it<br>\
+was shot; or penetrated into its inside, and its<br>\
+extremity went forth from the other side, the rest.<br>\
+remaining therein: (IKtt, Msb:) or stuck fast<br>\
+therein: (IF, Msb:) or خَسَقَ الهَدَفَ (Msb, TA)<br>\
+it hit the object at which it was shot, and passed<br>\
+through, or its extremity passed through; like<br>\
+خَزَقَ: (TA:) or passed through, or pierced so<br>\
+that its extremity passed through, not with vehemence. (Msb.) And رَمَى فَخَسَقَ He shot, or<br>\
+cast, and clave the skin. (Az, TA.) IF says that<br>\
+it is not a primitive; that the س is substituted<br>\
+for ز; and that the word is altered because of the<br>\
+alteration of the meaning. (TA.)<br>\
+خَسُوقٌ, applied to a she-camel, i. q. حَزُوقٌ;<br>\
+(K;) or Evil in disposition; that pierces the<br>\
+ground with her toes, as she goes; (JK, TA;)<br>\
+furrowing the ground with her toe turned up.<br>\
+(TA.)<br>\
+خَاسِقٌ i. q. خَازِقٌ [q. v.]. (S.)<br>\
+' } );

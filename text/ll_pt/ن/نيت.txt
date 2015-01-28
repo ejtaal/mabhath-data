@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نيت</em>            1                  نيت<br>\
+<b>نَاتَ</b>               1     <br>\
+                     نَاتَ<br>\
+                     ذ<br>\
+                  , aor. يَنِيتُ, inf. n. نَيْتٌ; as also نَاتَ, aor. يَنُوتُ, inf. n. نَوْتٌ; (L, K;) <i>He</i> (a man) <i>moved from side to side in walking</i> (L, art نوت:) or <i>he so moved by reason of weakness,</i> or <i>infirmity:</i> (K:) or, <i>by reason of drowsiness.</i> (L, art. نوت, q. v.)   </entryFree> <br>\
+' } );

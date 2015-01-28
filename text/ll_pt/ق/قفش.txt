@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قفش</em>            1                  قفش<br>\
+<b>قَفْشٌ</b>               1     <br>\
+                     قَفْشٌ<br>\
+                     ذ<br>\
+                  <i>A boot:</i> (M:) or <i>a short boot:</i> (IAar, K, TA:) or <i>such as is cut, and not well made.</i> (Az, TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>جسا</em>            1                  جسا<br>\
+<b>جَسَاَ</b>               1     <br>\
+                     جَسَاَ<br>\
+                     ذ<br>\
+                  , aor     <br>\
+                     جَسَاَ<br>\
+                   inf. n. جُسُوْءٌ and جُسْاَةٌ, (K,) thus in the corrected copies of the K, but in some copies the latter inf. n. is written جُسَا=ءَةٌ, (TA,) <i>It</i> (a thing, TA) <i>was,</i> or <i>became, hard, tough, rigid,</i> or <i>stiff;</i> (K, TA;) as also جَسَا, aor     <br>\
+                     جَسُاَ<br>\
+                   (Msb and K in art. جسو.) ―         -b2- جَسَاَتْ يَدُهُ, aor      <br>\
+                     جَسَاَ<br>\
+                   inf. n. جَسْءٌ, <i>His hand became hard, tough, callous,</i> (S, TA,) <i>coarse,</i> or <i>rough,</i> (TA,) from work. (S, TA.)―         -b3-  جَسَاَتْ مَفَاصِلُهُ <br>\
+                  <i>His joints became rigid,</i> or <i>stiff.</i> (TA.)       -A2- جُسِيَتِ الاَرْضُ <br>\
+                  <i>The ground became hard,</i> or <i>hard and level, and rough:</i> from جَسْءٌ, explained below. (Ks, K.)    </entryFree> <br>\
+<b>حَسْءٌ</b>               1     <br>\
+                     حَسْءٌ<br>\
+                     حسء<br>\
+                  <i>Hard,</i> or <i>hard and level, and rough, ground,</i> (جَلَدٌ خَشِنٌ, Ks, K, TA,) <i>resembling small pebbles.</i> (TA.) [Accord. to some copies of the K, <i>Rough skin</i> (جِلْدٌ خَشِنٌ).] ―         -b2-  <i>Frozen water,</i> (K, TA,) <i>resembling hail [strewed on the ground],</i> (TA.)    </entryFree> <br>\
+<b>جُسْاَةٌ</b>               1     <br>\
+                     جُسْاَةٌ<br>\
+                     ذ<br>\
+                  <i>Hardness, toughness, callousness, [coarseness, or roughness,]</i> of the hand, from work. (S.) ―         -b2-  <i>Rigidity,</i> or <i>stiffness, of the neck,</i> (S, K, TA,) in a horse or the like. (S, TA.)    </entryFree> <br>\
+<b>يَدٌ جَسْا=ءٌ</b>               1     <br>\
+                     يَدٌ جَسْا=ءٌ<br>\
+                     يد جسا=ء<br>\
+                  <i>A hard, tough, callous, coarse,</i> or <i>rough, hand.</i> (K, TA.)    </entryFree> <br>\
+<b>جَاسِيٌ</b>               1     <br>\
+                     جَاسِيٌ<br>\
+                     ذ<br>\
+                   [<i>Hard, tough, rigid,</i> or <i>stiff:</i> see 1]. You say جَبَلٌ جَاسِيٌ [<i>A hard,</i> or <i>hard and rugged, mountain</i>]. (TA.) And صخُورٌ جَاسِيَةٌ [<i>Hard,</i> or <i>hard and rugged, rocks</i>]. (TA.) And نَبْتٌ جَاسِيٌ <br>\
+                  <i>A rigid,</i> or <i>tough, plant.</i> (TA.) And اَرْضٌ جَاسِيَةٌ <br>\
+                  <i>Hard,</i> or <i>hard and level, and rough, ground;</i> (TA;) as also ↓مَجْسُوْءَةٌ. (Ks, K.) And مَكَانٌ جَاسِيٌ <br>\
+                  <i>A rugged place;</i> as also شَاسِيٌ. (TA.) And دَابَّةٌ جَاسِيَةٌ القَوَايِمِ <br>\
+                  <i>A beast,</i> or <i>horse or the like, having rigid,</i> or <i>stiff, legs, that will hardly bend.</i> (TA.)    </entryFree> <br>\
+<b>جَاسِيَا=ءُ</b>               1     <br>\
+                     جَاسِيَا=ءُ<br>\
+                     ذ<br>\
+                   [in the CKجا سِياء] <i>Hardness, toughness, rigidness,</i> or <i>stiffness;</i> and <i>ruggedness,</i> or <i>roughness.</i> (K,* TA.)    </entryFree> <br>\
+<b>مَجْسُوْءَةٌ</b>               1     <br>\
+                     مَجْسُوْءَةٌ<br>\
+                     مجسه<br>\
+                     مجسة<br>\
+                     مجسوءه<br>\
+                     مجسوءة<br>\
+                  : see جَاسِيٌ   <br>\
+' } );

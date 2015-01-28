@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>محن</em>            1                  محن<br>\
+<b>مِحْنَةٌ</b>               1     <br>\
+                     مِحْنَةٌ<br>\
+                     ذ<br>\
+                  <i>A trial,</i> (S, Msb, K,) or <i>trying affliction:</i> (S:) pl. مِحَنٌ. (Msb.)    </entryFree> <br>\
+<b>مَحُونَةٌ</b>               1     <br>\
+                     مَحُونَةٌ<br>\
+                     محا<br>\
+                     محونه<br>\
+                     محونة<br>\
+                   (not مُحُونَةٌ): see art. حين.   </entryFree> <br>\
+' } );

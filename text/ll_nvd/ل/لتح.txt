@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'لتح1<br>\
+لَتِحَ, aor.<br>\
+لَتَحَ, (inf. n. لَتَحٌ, S,) He hungered;<br>\
+was hungry. (S. K.)<br>\
+لَتْحَانُ Hungry: fem. لَتْحَى. (S, K.)<br>\
+لتد لتز لتم لتن<br>\
+See Supplement<br>\
+' } );

@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>كحب</em>            1                  كحب<br>\
+<b>كَحَبَهُ</b>               1     <br>\
+                     كَحَبَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَحَبَ<br>\
+                  , <i>He struck him on his podex.</i> (K.)    </entryFree> <br>\
+<b>كحّب الكَرْمُ</b>               1     <br>\
+                     كحّب الكَرْمُ<br>\
+                     ذ<br>\
+                  , inf. n. تَكْحِيبٌ, <i>The vine put forth its unripe,</i> or <i>sour, grapes:</i> (K:) or <i>its bunches thereof:</i> this is a correct explanation, given on the authority of IAar: (Az:) or <i>it became abundant in grapes:</i> (K:) or <i>its grapes became pleasant in flavour.</i> (TA.)    </entryFree> <br>\
+<b>كَحْبٌ</b>               1     <br>\
+                     كَحْبٌ<br>\
+                     ذ<br>\
+                   T he <i>podex:</i> (K:) of the dial. of ElYemen. (TA.)       -A2-  As coll. gen. n. <i>Unripe,</i> or <i>sour, grapes:</i> n. un. with ة: (K:) as also كَحْمٌ: a word of the dial. of El-Yemen. (TA.)    </entryFree> <br>\
+<b>كَاحِبَةٌ</b>               1     <br>\
+                     كَاحِبَةٌ<br>\
+                     ذ<br>\
+                  , <i>Many,</i> or <i>much.</i> (K.) دَرَاهِمْ كَاحِبَةٌ <br>\
+                  <i>Many dirhems;</i> or <i>much money.</i> (Fr.) ―         -b2-  نَارٌ <br>\
+                  كَاحِبَةٌ <br>\
+                  <i>Fire of which the flame rises high.</i> (K.)   </entryFree> <br>\
+' } );

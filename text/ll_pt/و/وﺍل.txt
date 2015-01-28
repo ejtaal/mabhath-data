@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وال&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وال<br>\
+&lt;entryFree id=&quot;n44416&quot; key=&quot;وَاَلَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَاَلَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=لَ, in art. اول, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44417&quot; key=&quot;اَوَّلُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوَّلُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;First,&lt;/i&gt; and &lt;i&gt;former; preceding all others, and preceding another.&lt;/i&gt; See art. اول ―         -b2-  اَوَايِلُ السُّوَرِ The &lt;i&gt;first parts,&lt;/i&gt; or &lt;i&gt;beginnings, of the chapters of the Kur-án.&lt;/i&gt; ―         -b3-  جَا=ءَ فِى اَوَايِلِ القَوْمِ <br>\
+                  &lt;i&gt;He came among the first comers of the people.&lt;/i&gt; (Msb.) ―         -b4-  And الاَوَايِلُ <br>\
+                  &lt;i&gt;The people of former ages;&lt;/i&gt; as also الاَوَّلُونَ. ―         -b5-  لَقِيتُهُ عَامًا اَوَّلَ means &lt;i&gt;I met him&lt;/i&gt; [&lt;i&gt;in a former year.&lt;/i&gt;] &lt;i&gt;before this year, though by several years.&lt;/i&gt; (Alee El-Kári, in his Expos. of the K, from Seer; cited in the margin of a copy of the K; art. اول.) See عَامٌ.   &lt;/entryFree&gt; <br>\
+' } );

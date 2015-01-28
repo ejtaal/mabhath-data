@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مستوتى, or مُسْتَوْتٍ<br>\
+A mare desirous of the<br>\
+stallion: see مُسْتَأْتٍ in art. اتى.<br>\
+' } );

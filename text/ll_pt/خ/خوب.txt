@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>خوب</em>            1                  خوب<br>\
+<b>خَابَ</b>               1     <br>\
+                     خَابَ<br>\
+                     خاب<br>\
+                  , aor. يَخُوبُ, inf. n. خَوْبٌ, <i>He was,</i> or <i>became, poor, needy,</i> or <i>indigent.</i> (IAar, K.) ―         -b2-  See also خَابَ in art. خيب.    </entryFree> <br>\
+<b>خَوْبَةٌ</b>               1     <br>\
+                     خَوْبَةٌ<br>\
+                     خوبه<br>\
+                     خوبة<br>\
+                  <i>A state of utter destitution, in which nothing remains in possession:</i> so in the saying, اَصَابَتْهُمْ خَوْبَةٌ [<i>A state of utter destitution befell them</i>]. (A&#39;Obeyd, T.) ―         -b2-  <i>Hunger:</i> (AA, T, S, A, K:) pl. خَوْبَاتٌ. (TA.) So in the phrase, اَصَابَتْهُ خَوْبَةٌ [<i>Hunger befell him</i>]. (AA, S.) Sh knew not this word, and thought it to be a mistake for حَوْبَةٌ; (T;) which latter signifies “ want. ” (S.) [See the latter word.]       -A2-  <i>A tract of land upon which rain has not fallen, between two tracts of land watered by rain.</i> (AA, S, K.) ―         -b2-  <i>Land that is bad,</i> (S,) <i>in which is no pasture</i> (S, K) <i>nor water.</i> (TA.) So in the saying, نَزَلْنَا بِخَوْبَةٍ مِنَ الاَرْضِ [<i>We alighted in bad land, without pasture or water</i>]. (S.) [See also حُوبَةٌ.]    <br>\
+' } );

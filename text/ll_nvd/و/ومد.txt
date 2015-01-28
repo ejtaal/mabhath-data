@@ -1,0 +1,39 @@
+load_data( { book: 'll_nvd', text: 'ومد1<br>\
+وَمِدَتِ اللَّيْلَةُ, (S, L, K.) aor. تَوْمَدُ, inf. n.<br>\
+وَمَدٌ, (L,) The night was, or became, one of وَمَد,<br>\
+i. e., intense heat, &amp;c., as explained below. (S,<br>\
+L, K. *) One also says وَمِدَ اليَوْمُ: but the<br>\
+former is more common. (M, L.) ―<br>\
+-b2-  وَمِدَ عَلَيْهِ,<br>\
+(S, * M, A, L, K *,) aor. يَوْمَدُ, (K,) inf. n. وَمَدٌ,<br>\
+(M, L, K;) (tropical:)  He was angry with him; (S, M,<br>\
+A, L, K;) was incensed against him; i. q. وَبِدَ,<br>\
+(S, L,) of which it is a dial. form. (S.)<br>\
+وَمَدٌ Intenseness of the heat of night; as also<br>\
+↓ وَمَدَةٌ: (S, L, K:) or intense heat: (CK:)<br>\
+or sultriness; i. e., intense heat with stillness of the<br>\
+wind: (Ks, T, L, K:) or heat of whatever kind<br>\
+with stillness of the wind: (M, L:) or dew, or<br>\
+moisture, that comes during the greatest heat,<br>\
+(M, A, L, K,) from the direction of the sea,<br>\
+(M, L, K,) with stillness of the wind: (M, L:)<br>\
+or a dew, or moisture, that comes from the<br>\
+direction of the sea, when its vapour rises and is<br>\
+blown by the east wind, so that it falls upon the<br>\
+bordering regions like the dew of heaven, very<br>\
+noxious to men by reason of its offensive smell:<br>\
+(T, L:) and وَمَدَةٌ a dew, or moisture, from the<br>\
+sea, falling upon men in the intenseness of heat,<br>\
+when the wind is still: (L:) it comes during the<br>\
+greatest heat, from the direction of the sea, and<br>\
+falls upon men in the night; (Lth, T, L;) and<br>\
+sometimes in the days of autumn also. (T, L.)<br>\
+لَيْلَةٌ وَمِدٌ: (L, K:) and ↓ وَمِدَةٌ, (T, M, A, L,<br>\
+K,) which latter is the more common, (TA,)<br>\
+A night of وَمَد, i. e., intense heat, &amp;c., as explained above. (T, M, A, L, K.) One also<br>\
+says يَوْمٌ وَمِدٌ: but not so commonly. (M, L.)<br>\
+―<br>\
+-b2-  هُوَ عَلَيْهِ وَمِدٌ (tropical:)  He is angry with him. (A.)<br>\
+وَمَدَةٌ: see وَمَدٌ.<br>\
+وَمِدَةٌ: see وَمِدٌ.<br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>ديف</em>            1                  ديف<br>\
+<b>دَافَهُ</b>               1     <br>\
+                     دَافَهُ<br>\
+                     داف<br>\
+                     دافه<br>\
+                     دافة<br>\
+                  , aor. يَدِيفُهُ, inf. n. دَيْفٌ: see 1 in art. دوف.   </entryFree> <br>\
+' } );

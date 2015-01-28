@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'دعى1<br>\
+دَعَيْتُ, aor. أَدْعِى, inf. n. دُعَآءٌ: see 1 in<br>\
+art. دعو.<br>\
+دَعِىٌّ: &amp;c.: see art. دعو.<br>\
+' } );

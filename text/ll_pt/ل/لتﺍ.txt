@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لتا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لتا<br>\
+&lt;entryFree id=&quot;n37527&quot; key=&quot;لَتَاَه فِى صَدْرِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     لَتَاَه فِى صَدْرِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     لَتَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. لَتْءٌ, (TA,) &lt;i&gt;He thrust him on his breast.&lt;/i&gt; (K.) ―         -b2-  لَتَاَ <br>\
+                  &lt;i&gt;He hit, struck,&lt;/i&gt; or &lt;i&gt;hurt;&lt;/i&gt; syn. اَصَابَ. (TA.) ―         -b3-  لَتَاَ بِسَهْمٍ <br>\
+                  &lt;i&gt;He shot an arrow.&lt;/i&gt; (K, * TA.) ―         -b4-  لَتَاَهُ بِحَجَرٍ <br>\
+                  &lt;i&gt;He cast a stone at him.&lt;/i&gt; (S, K. *) ―         -b5-  لَتَاَتْ بِهِ (tropical:)  &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;brought him forth.&lt;/i&gt; (S, K. *) ―         -b6-  لَعَنَ اللّٰهُ اُمًّا لَتَاَتْ بِهِ, and لَكَاَتْ به, (S,) (tropical:)  &lt;i&gt;God curse the mother that cast him forth&lt;/i&gt; (&lt;i&gt;from her womb&lt;/i&gt;) ! a tropical expression, from casting a stone, or shooting an arrow. (TA.) ―         -b7-  لَتَاَ, (S, K,) inf. n. لَتْءٌ, (TA,) &lt;i&gt;Inivit&lt;/i&gt; feminam. (S, K.)       -A2-  لَتَاَ <br>\
+                  &lt;i&gt;He lessened,&lt;/i&gt; or &lt;i&gt;diminished;&lt;/i&gt; syn. نَقَصَ. (K.) ―         -b2-  &lt;i&gt;Pepedit.&lt;/i&gt; (K.) ―         -b3-  &lt;i&gt;Excrevit merdam.&lt;/i&gt; (K.) ―         -b4-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, passed,&lt;/i&gt; or &lt;i&gt;went away;&lt;/i&gt; syn. مَضَى. (CK.)       -A3-  لَتَاَ بِعَيْنِهِ, (TA,) or لتا alone, (K,) inf. n. لَتْءٌ, (TA,) &lt;i&gt;He looked intently.&lt;/i&gt; (K.) ―         -b2-  لَتَاَهُ بِعَيْنِهِ <br>\
+                  &lt;i&gt;He looked intently at him.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37528&quot; key=&quot;لَتِىءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَتِىءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Remaining fixed,&lt;/i&gt; or &lt;i&gt;keeping, to his place:&lt;/i&gt; (K:) or &lt;i&gt;thrown down,&lt;/i&gt; or &lt;i&gt;hit,&lt;/i&gt; or &lt;i&gt;struck, and remaining fixed,&lt;/i&gt; or &lt;i&gt;keeping, to his place.&lt;/i&gt; (TA.) [In the TA, one of the words by which it is explained is ↓ <br>\
+      مَلْتِىٌّ; which is for مَلْتُوءٌ; like مَقْرِىٌّ for مَقْرُوءٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37529&quot; key=&quot;مَلْتِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَلْتِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see لَتِىءٌ.   &lt;/entryFree&gt; <br>\
+' } );

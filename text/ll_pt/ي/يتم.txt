@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يتم</em>            1                  يتم<br>\
+<b>اَيْتَمَهُ</b>               1     <br>\
+                     اَيْتَمَهُ<br>\
+                     ذ<br>\
+                   [<i>He made him fatherless</i>]. (TA in art. ايم.) See an ex. in art. ايم, conj. 2.   </entryFree> <br>\
+' } );

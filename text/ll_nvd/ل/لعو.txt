@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'لعولَعًا, said to a camel when it stumbles: see تَعْسًا,<br>\
+voce تَعَسَ: and see the first paragraph of art.<br>\
+عول, last sentence but one.<br>\
+لَعْوَةٌ A hunting bitch. (L, art. عقد.)<br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;عندا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  عندا<br>\
+&lt;entryFree id=&quot;n30740&quot; key=&quot;عِنْدَاْوٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     عِنْدَاْوٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Bold,&lt;/i&gt; or &lt;i&gt;daring,&lt;/i&gt; (IDrd, O, K,) &lt;i&gt;to attempt,&lt;/i&gt; or &lt;i&gt;undertake, things;&lt;/i&gt; applied to a man; (IDrd, O;) as also ↓ <br>\
+      عِنْدَاْوَةٌ: (K:) which latter is [also] applied to a she-camel, as meaning &lt;i&gt;bold,&lt;/i&gt; or &lt;i&gt;fearless.&lt;/i&gt; (IAar, Sh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n30741&quot; key=&quot;عِنْدَاْوَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     عِنْدَاْوَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Difficulty,&lt;/i&gt; and &lt;i&gt;perverseness,&lt;/i&gt; (Z, K, TA,) in a man: (Z, TA:) and &lt;i&gt;roughness,&lt;/i&gt; or &lt;i&gt;hardness, of behaviour:&lt;/i&gt; (K:) and &lt;i&gt;opposition,&lt;/i&gt; and &lt;i&gt;wrongdoing:&lt;/i&gt; (L, TA:) and &lt;i&gt;deceit,&lt;/i&gt; or &lt;i&gt;guile:&lt;/i&gt; (K, TA:) and pronounced by some without ء. (TA.) One says, تَحْتَ طِرِّيقَتِكَ لَعِنْدَاْوَةٌ <br>\
+                  &lt;i&gt;Beneath thy silence is deceit,&lt;/i&gt; or &lt;i&gt;guile:&lt;/i&gt; (K:) or &lt;i&gt;difficulty,&lt;/i&gt; and &lt;i&gt;perverseness:&lt;/i&gt; (Z, TA:) or &lt;i&gt;opposition,&lt;/i&gt; and &lt;i&gt;wrongdoing.&lt;/i&gt; (L, TA.) [See also طِرِّيقَةٌ.] ―         -b2-  And (accord. to Lh, TA) العِنْدَاْوَةُ signifies اَدْهَى الدَّوَاهِى [app. meaning &lt;i&gt;The greatest of calamities&lt;/i&gt;]. (K, TA.)       -A2-  See also the former paragraph. [Accord. to some, the radical letters of عِنْدَاْوٌ and عِنْدَاَوَةٌ are عدا: accord. to some, عدو: and accord. to some, عندا.]   &lt;/entryFree&gt; <br>\
+' } );

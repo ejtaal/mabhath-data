@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>ثعد</em>            1                  ثعد<br>\
+<b>ثَعْدٌ</b>               1     <br>\
+                     ثَعْدٌ<br>\
+                     ثعد<br>\
+                  , as an epithet applied to a leguminous plant, or to an herb, <i>Fresh, juicy,</i> or <i>sappy;</i> (S, A, K;) <i>soft,</i> or <i>tender.</i> (S, A.) You say ثَعْدٌ مَعْدٌ in this sense; (S, A;) the latter word being an imitative sequent, not [generally] used alone; but some use it alone: (S:) and it is said to be syn. with the former. (TA.) You say also رُطَبَةٌ <br>\
+                  ثَعْدَةٌ مَعْدَةٌ, meaning <i>A fresh, juicy, ripe date.</i> (IAar, TA.) And ثَرًى ثَعْدٌ <br>\
+                  <i>Soft, moist earth;</i> (S, K;) as also جَعْدٌ. (Sudot;.) ―         -b2-  [As a coll. gen. n.,] <i>Fresh ripe dates:</i> or <i>dates for the most part in a state of ripeness:</i> (K:) or <i>ripening dates when they have become soft:</i> n. un. with ة: (As, S:) that which is ripening, but as yet hard and indigestible, is termed جُمْسَةٌ. (As, TA.) [See بُسْرٌ.] ―         -b3-  <i>Fresh butter:</i> so accord. to Is-hák Ibn-Ibrá- heem El-Kurashee, in a trad. related by him. (IAth, TA.) ―         -b4-  مَا لَهُ ثَعْدٌ وَلَا مَعْدٌ <br>\
+                  <i>He possesses not little nor much.</i> (K.) [Here, again,] the last word is an imitative sequent. (TA.)   </entryFree> <br>\
+' } );

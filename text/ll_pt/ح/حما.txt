@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>حما</em>            1                  حما<br>\
+<b>حَمَاَ البِيْرَ</b>               1     <br>\
+                     حَمَاَ البِيْرَ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.     <br>\
+                     حَمَاَ<br>\
+                  , (K,) inf. n. حَمْءٌ, (S,) <i>He cleansed the well of its</i> <br>\
+                  حَمْاَة [or <i>black, fetid mud</i>]. (S, K.) In the T, this signification is assigned to البير ↓ <br>\
+      احما; and the signification assigned below to the latter is given to حما: but As says that he does not find this authorized by usage. (TA.)       -A2-  حَمِيَ, aor.      <br>\
+                     حَمَاَ<br>\
+                  , inf. n. حَمْءٌ and حَمَاٌ, <i>It</i> (water) <i>was,</i> or <i>became, mixed with black, fetid mud, and so rendered turbid,</i> (K, TA,) <i>and altered in odour.</i> (TA.) And حَمِيَتِ البِيْرُ, inf. n. حَمَاٌ, <i>The well had in it black</i> [<i>fetid</i>] <i>mud</i> (S, Msb) <i>in abundance:</i> (S:) and the like is also said of a spring. (TA.)       -A3-  حَمِيَ عَلَيْهِ <br>\
+                  <i>He was angry with him;</i> (El-Umawee, S, K;) as also حَمِىَ. (Lh, TA.)    </entryFree> <br>\
+<b>احما البِيْرَ</b>               1     <br>\
+                     احما البِيْرَ<br>\
+                     ذ<br>\
+                  , (ISk, S, K,) inf. n. اـِحْمَا=ءٌ, (ISk, S,) <i>He threw</i> <br>\
+                  حَمْاَة [or <i>black, fetid mud</i>] <i>into the well.</i> (ISk, S, K.) ―         -b2-  See also 1.    </entryFree> <br>\
+<b>حَمْءٌ</b>               1     <br>\
+                     حَمْءٌ<br>\
+                     حمء<br>\
+                   and حَمٌ and حَمُو [only used as a prefixed n. governing the gen. case (see حَمٌ in art. حمو)] and حَمًا (S, Msb, K) and ↓ <br>\
+      حَمَاٌ (K) A woman&#39;s <i>husband&#39;s father;</i> (IF, Msb, K;) and a man&#39;s <i>wife&#39;s father:</i> (IF, Msb:) or a man&#39;s <i>wife&#39;s father</i> or <i>wife&#39;s brother</i> or <i>wife&#39;s paternal uncle:</i> (M, Msb:) or <i>any one of</i> a woman&#39;s <i>husband&#39;s</i> [<i>male</i>] <i>relations,</i> (S, O, K,) as the <i>brother</i> and the <i>father</i> (S, O) and the <i>paternal uncle;</i> (O, TA;) and <i>of</i> a man&#39;s <i>wife&#39;s relations:</i> (K:) pl. اَحْمَا=ءٌ: (S, K:) the fem. is حَمَاْةٌ. (TA.)       -A2-  See also حَمْاَةٌ.    </entryFree> <br>\
+<b>حَمَاٌ</b>               1     <br>\
+                     حَمَاٌ<br>\
+                     ذ<br>\
+                  : see حَمْءٌ:       -A2-  and see also what next follows.    </entryFree> <br>\
+<b>حَمْاَةٌ</b>               1     <br>\
+                     حَمْاَةٌ<br>\
+                     ذ<br>\
+                   (S, Msb, K) and ↓ <br>\
+      حَمَاٌ, (S, K,) but accord. to some, the latter is the pl. [or rather quasipl. n.] of the former; and sometimes, by poetic license, it is written ↓ <br>\
+      حَمْءٌ; (TA;) <i>Black mud:</i> (S, Msb:) or <i>black fetid mud.</i> (K.)       -A2-  Also, the former, <i>A certain plant,</i> (K,) <i>that grows in Nejd, in the sands, and in plain,</i> or <i>soft, land.</i> (TA.)    </entryFree> <br>\
+<b>حَمِيُ العَيْنِ</b>               1     <br>\
+                     حَمِيُ العَيْنِ<br>\
+                     ذ<br>\
+                   A man <i>of an evil eye,</i> (Fr, K,) <i>who injures with his eye him whom he sees and admires:</i> no verb belonging to it has been heard. (Fr, TA.)       -A2-  حَمِيَةٌ A well (بِيْر) or a spring (عَيْن) <i>foul with black, fetid mud.</i> (TA.)   </entryFree> <br>\
+' } );

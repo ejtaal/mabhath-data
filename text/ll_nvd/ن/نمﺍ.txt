@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'نمأنَمَأٌ and نَمْءٌ Little live. (Kr, K.) [See also<br>\
+نِمَّةٌ.]<br>\
+' } );

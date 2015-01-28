@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'هرلQ. Q. 1<br>\
+هَرْوَلَ<br>\
+He walked quickly: (Msb:) [he<br>\
+went a kind of trotting pace between a walk and<br>\
+a run; see رَمَلَ;) هَرْوَلَةٌ is not so quick as<br>\
+خَبَبٌ<br>\
+[an amble]; (Msb;) and is between<br>\
+مَشْىٌ [a walk]<br>\
+and<br>\
+عَدْوٌ [a run]: (S, Msb, K:) it is a kind<br>\
+of<br>\
+عَدْوٌ: (S:) or quicker than<br>\
+عَنَقٌ: or a quick<br>\
+walk. (K.)<br>\
+' } );

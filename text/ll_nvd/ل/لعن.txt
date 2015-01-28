@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'لعنلُعْنَةٌ A man who is much cursed. (TA in art.<br>\
+خدع.)<br>\
+لَعِينٌ The base, or lower part, of a raceme of<br>\
+a palm-tree. (TA in art. عهن.)<br>\
+' } );

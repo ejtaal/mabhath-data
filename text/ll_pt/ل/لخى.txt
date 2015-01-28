@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لخى</em>            1                  لخى<br>\
+<b>اَلْخَى</b>               1     <br>\
+                     اَلْخَى<br>\
+                     ذ<br>\
+                  <i>Distorted in the mouth.</i> (CK; L, art. لخ, but written الخا=ء.)   </entryFree> <br>\
+' } );

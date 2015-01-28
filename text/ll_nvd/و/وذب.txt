@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'وذبوِذَابٌ The stomach of a ruminant beast, (or,<br>\
+as in some lexicons, the stomachs of such beasts,<br>\
+TA,) with the intestines, or guts, into which milk<br>\
+is put, and which are then cut in pieces, [and<br>\
+eaten]: a pl. which has no sing. (ISd, K.) ―<br>\
+-b2-<br>\
+Also The perforations, or punctures, made in<br>\
+sewing, or the loops, (the word in the original is<br>\
+خُرَبٌ, pl. of خُرَبْةٌ: in some of the lexicons, خُرَزٌ:<br>\
+but both these words relate to the same things:<br>\
+TA: [whence it appears that, accord. to the<br>\
+author of the TA, &amp;c., the former of the above<br>\
+two meanings is the one intended:]) of a<br>\
+مَزَادَة. (K.)<br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>كهر</em>            1                  كهر<br>\
+<b>كَهَرَهُ</b>               1     <br>\
+                     كَهَرَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَهَرَ<br>\
+                  , inf. n. كَهْرٌ, <i>He chid him with rough speech,</i> (S, Mgh, K,) <i>to show him contempt.</i> (TA.) ―         -b2-  <i>He reviled him.</i> (Az, TA.) ―         -b3-  <i>He encountered him with a frowning face,</i> (K,) <i>to show him contempt:</i> (TA:) or <i>he frowned at him.</i> (TA.) ―         -b4-  <i>He oppressed him; i. q.</i> <br>\
+                  قَهَرَهُ. (S, K.) So in the Kur, [xciii. 9,] فَاَمَّا اْلْيَتِيمَ فَلَا <br>\
+                  تكْهَرْ [<i>Therefore, as to the orphan, thou shalt not oppress</i> him]; accord. to the reading of Ibn-Mes&#39;ood. (Ks, S.) Yaakoob says, that the ك in كَهَرَهُ is a substitute for the ق in قَهَرَهُ. (TA.)   </entryFree> <br>\
+' } );

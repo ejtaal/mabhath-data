@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>ضبنط</em>            1                  ضبنط<br>\
+<b>ضَبَنْطًى</b>               1     <br>\
+                     ضَبَنْطًى<br>\
+                     ذ<br>\
+                  : see art. ضبط. It is mentioned in the K and by Sgh both here and in art. ضبط.   </entryFree> <br>\
+            <div2 n=&quot;Dbw or DbY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  ضبو or ضبى<br>\
+<b>ضَبَتْهُ النَّارُ</b>               1     <br>\
+                     ضَبَتْهُ النَّارُ<br>\
+                     ذ<br>\
+                  , (S, M, K,) and الشَّمْسُ, (M,) aor.      <br>\
+                     ١َ٢ُ٣َ<br>\
+                  , [or      <br>\
+                     ١َ٢ِ٣َ<br>\
+                  ,] inf. n. ضَبْوٌ, (S, K,) or ضَبْىٌ, (M,) or both, (IKtt, TA,) <i>The fire,</i> (S, M, K,) and <i>the sun,</i> (M,) <i>altered</i> [<i>in colour</i>], and <i>roasted, broiled,</i> or <i>fried, him,</i> or <i>it:</i> (S, K:) or <i>burned,</i> or <i>scorched, him,</i> or <i>it.</i> (M.)       -A2-  ضَبَا اـِلَيْهِ <br>\
+                  <i>He had recourse,</i> or <i>betook himself, to him,</i> or <i>it, for refuge, protection,</i> or <i>covert:</i> (K:) a dial. var. of ضَبَاَ. (TA.)    </entryFree> <br>\
+<b>اضبى</b>               1     <br>\
+                     اضبى<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَمْسَكَ: (M, K:) so in the phrase, اضبى الرَّجُلُ عَلَى مَا فِى يَدَيْهِ [<i>The man grasped,</i> or <i>kept hold of, that which was in his hands</i>]: a dial. var. of اَضْبَاَ: (Lh, M:) like اَضَبَّ. (TA in art. ضبا.) ―         -b2-  And اضبى عَليْهِ <br>\
+                  <i>He was,</i> or <i>became, at the point of gaining possession of it;</i> (Ks, T, S, K;) namely, a thing. (Ks, S.) ―         -b3-  And <i>He concealed it, and was silent respecting it.</i> (IKtt, TA. [App. a dial. var. of اَضْبَاَ.])       -A2-  And <i>i. q.</i> <br>\
+                  رَفَعَ [<i>He raised;</i> &amp;amp;c.]: so in the K: but in the Tekmileh وَقَعَ [<i>he,</i> or <i>it, fell;</i> &amp;amp;c.]. (TA.)       -A3-  And <i>i. q.</i> <br>\
+                  اَضْوَى [but in what sense is not shown]. (K.)       -A4-  اضبى بِهِمُ السَّفَرُ <br>\
+                  <i>The journey failed of fulfilling its promise to them in respect of what they hoped to obtain in it, of gain, and profit,</i> or <i>advantage.</i> (El-Hejeree, M, K. *)    </entryFree> <br>\
+<b>ضَابٍ</b>               1     <br>\
+                     ضَابٍ<br>\
+                     ذ<br>\
+                  <i>Ashes.</i> (S, K.)    </entryFree> <br>\
+<b>مَضْبَاةٌ</b>               1     <br>\
+                     مَضْبَاةٌ<br>\
+                     ذ<br>\
+                  , (M, and thus in a copy of the S,) or مِضْبَاةٌ, (thus in a copy of the S, [and Freytag states it to be thus accord. to IDrd, but accord. to the S to be ضَبَاوَة, which is evidently a mistake,]) or مُضْبَاةٌ, with damm, (K, and said in the TA to be thus written in copies of the S,) <i>A cake of bread baked in hot ashes:</i> (S, M, K:) thus called by some of the people of El-Yemen: but [ISd says, respecting مَضْبَاةٌ as thus expl.,] I know not how this is unless the thing be named by the name of the place. (M.)    </entryFree> <br>\
+<b>مَضَابٍ</b>               1     <br>\
+                     مَضَابٍ<br>\
+                     ذ<br>\
+                   [a pl. of which the sing. is most probably مِضْبًى] <i>Frying-pans:</i> like مَضَابِحُ. (AHn, TA in art. ضبح.)   </entryFree> <br>\
+' } );

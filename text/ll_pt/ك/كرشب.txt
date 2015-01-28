@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>كرشب</em>            1                  كرشب<br>\
+<b>كِرْشَبٌّ</b>               1     <br>\
+                     كِرْشَبٌّ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  قِرْشَبٌّ: (K:) or the former signifies <i>Advanced in years, and hard, gross,</i> or <i>coarse:</i> and the latter, <i>a great eater,</i> or <i>voracious.</i> (T.) The ك is said to be substituted for ق, or viciously pronounced for the latter letter. (MF.)   </entryFree> <br>\
+            <div2 n=&quot;krS krD krT krE krf&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  كرص كرض كرط كرع كرف<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

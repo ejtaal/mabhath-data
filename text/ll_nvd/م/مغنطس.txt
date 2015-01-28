@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'مغنطسSee Supplement<br>\
+مغنطس<br>\
+مَغْنَطِيسٌ, (S, K,) or مَغْنِيطِسٌ, (as in some<br>\
+copies of the K and in the TA,) and مَغْنِيطِيسٌ<br>\
+(CK) and مَغْنَاطِيسٌ (K) [The magnet;] a certain<br>\
+stone that attracts iron: arabicized [from the<br>\
+Greek<br>\
+μαγν�(assumed tropical:) τι�]. (S, K.) [Mentioned in S,<br>\
+L, K, in art. غطس; but, as observed in the<br>\
+TA, it should have a separate place.]<br>\
+' } );

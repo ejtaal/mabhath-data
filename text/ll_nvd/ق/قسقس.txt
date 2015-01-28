@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'قسقسقَسْقَاسٌ<br>\
+I. q.<br>\
+طُفَيْلِىٌّ. (IKh, TA, art. طفل.)<br>\
+' } );

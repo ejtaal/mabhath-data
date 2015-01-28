@@ -1,0 +1,73 @@
+load_data( { book: 'll_nvd', text: 'غلى1<br>\
+غَلَتِ القِدْرُ, aor. تَغْلِى, inf. n. غَلْىٌ and غَلَيَانٌ,<br>\
+(S, MA, Msb, K,) The cooking-pot boiled; (MA,<br>\
+&amp;c.;) and غَلِيَت, aor. تَغْلَى, is an unusual dial.<br>\
+var. thereof, the former being the more chaste;<br>\
+(Msb;) or غَلِيَت is not allowable. (S.) ―<br>\
+-b2-<br>\
+[Hence غَلَى said of a liquor, It estuated: it<br>\
+effervesced: it fermented: see نَبِيذٌ ―<br>\
+-b3-  And<br>\
+hence] يَغْلِى دَمُهُ [as though meaning (assumed tropical:)  His blood<br>\
+is fit to be shed] is a phrase like رَابَ دَمُهُ, [q. v.],<br>\
+said of one who has exposed himself to slaughter:<br>\
+his blood being likened to milk that has become<br>\
+thick, and fit to be churned. (A in art. روب.)<br>\
+―<br>\
+-b4-  And غَلِىَ الرَّجُلُ, like رَضِىَ in measure [but<br>\
+see what has been said of this form of the verb<br>\
+above], (tropical:)  The man became vehemently angry.<br>\
+(IKtt, TA.)<br>\
+2<br>\
+غَلَّىَ see 4, in two places.<br>\
+-A2-  غلّى الرَّجُلَ, inf. n.<br>\
+تَغْلِيَةٌ, He rubbed the man over, or perfumed him,<br>\
+with غَالِيَة. (TA.) And غلّى لِحْيَتَهُ (Mgh, O,)<br>\
+Msb, all in art. غلف) بِالغَالِيَةِ (O, ibid.) He<br>\
+daubed, or smeared, his beard with غَالِيَة; as also<br>\
+غَلَّلَهَا. (Mgh, O, Msb, ibid. [See 1 in art. غلف.])<br>\
+-A3-  And تَغْلِيَةٌ signifies also The saluting from<br>\
+afar, and making a sign. (K.)<br>\
+4<br>\
+اغلى القِدْرَ, (S, MA, K,) and ↓ غلّاهَا, (K,)<br>\
+He made the cooking-pot to boil. (S, * MA, K. *)<br>\
+IDrd mentions, among some of the sayings of<br>\
+the people of former ages, ↓ أُنَّ مَآءً وَغَلِّهِ [Pour<br>\
+thou out water, and make it to boil]. (TA.)<br>\
+And one says, أَغْلَيْتُ الزَّيْتَ وَنَحْوَهُ [I made the<br>\
+olive-oil and the like to boil], inf. n. إِغْلَآءٌ. (Msb.)<br>\
+5<br>\
+تغلّى (S, Msb, K) بِالغَالِيَةِ (S, Msb) He (a<br>\
+man, S, Msb) perfumed himself, (S, * Msb, K,)<br>\
+or rubbed himself over, (K,) with غَالِيَة; (S, Msb,<br>\
+K;) and ↓ اغتلى signifies the same; (IDrd, O<br>\
+in art. غلف;) as also تَغَلَّلَ, (Msb, and O in art.<br>\
+غلف,) and اِغْتَلَّ. (O in that art.)<br>\
+6<br>\
+تَغَاْلَىَ in all its sense, belongs to art. غلو, q. v.<br>\
+8<br>\
+إِغْتَلَىَ see 5.<br>\
+غَلَانِيَةٌ, mentioned in the K in this art., belongs<br>\
+to art. غلو, being an inf. n. of the verb in the<br>\
+phrase غَلَا فِى الأَمْرِ. (TA.)<br>\
+غَلَّايَةٌ A vessel of copper [or brass], in which<br>\
+water is heated; thus called by the people of<br>\
+Syria; the same that is called مِحَمٌّ [q. v.] and<br>\
+قُمْقُمٌ and قُمْقُمَةٌ. (Msb voce قُمْقُمٌ.)<br>\
+غَالِيَةٌ [Galia moschata,] a sort of perfume, (S,<br>\
+K,) well known; (K;) a certain compound of<br>\
+perfumes; (Msb;) musk mixed or boiled [with<br>\
+other perfumes]; (MA;) or a perfume composed<br>\
+of musk and ambergris and camphor and oil of<br>\
+ben: (KL:) it is said that the first who called it<br>\
+thus was Suleymán Ibn-&#39;Abd-El-Melik; (S, TA;)<br>\
+and he did so because it is a compound boiled<br>\
+together upon the fire: or it was thus named by<br>\
+Mo&#39;áwiyeh; the case being, that &#39;Abd-Allah Ibn-Jaafar went in to him, and the odour of perfume<br>\
+was diffusing itself from him; so he said, “What<br>\
+is thy perfume, O &#39;Abd-Allah? ” and he answered,<br>\
+“ musk and ambergris combined with oil of ben; ”<br>\
+whereupon Mo&#39;áwiyeh said, غَالِيَةٌ, meaning highpriced: (TA:) [hence some hold the word to<br>\
+belong to art. غلو; and their opinion is strengthened by the fact that] غَلْوَى signifies the same.<br>\
+(K in art. غلو.)<br>\
+' } );

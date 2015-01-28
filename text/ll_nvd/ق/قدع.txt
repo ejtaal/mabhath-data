@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'قدع1<br>\
+قَدَعَ فَرَسَهُ<br>\
+He pulled in his horse by the<br>\
+bridle and bit, to stop him; (S, K;) he curbed,<br>\
+or restrained, him. (S.) ―<br>\
+-b2-  هُوَ الفَحْلُ لَا يُقْدَعُ<br>\
+أَنْفُهُ: see أَنْفٌ; and see قرع.<br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>مهد</em>            1                  مهد<br>\
+<b>اَمْهَدَتْ بِوَلَدِهَا</b>               1     <br>\
+                     اَمْهَدَتْ بِوَلَدِهَا<br>\
+                     ذ<br>\
+                  <i>She</i> (a woman) <i>brought forth, or cast forth, her child with a single impulse.</i> (IAar, in L, art. خفد.) ―         -b2-  اَمْهَدَتْ بِالوَلَدِ is <i>syn. with</i> <br>\
+                  اَسْهَدَتْ بِهِ; (IAar, O, TA in art. سهد;) and زَكَبْت بِهِ, &amp;amp;c. (IAar, L, in art. خفد.)   </entryFree> <br>\
+' } );

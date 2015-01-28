@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>زلعب</em>            1                  زلعب<br>\
+<b>اِزْلَعَبَّ</b>               1     <br>\
+                     <i>Q. 4</i>        <br>\
+                     اِزْلَعَبَّ<br>\
+                     ذ<br>\
+                  , (K,) inf. n. اِزْلِعْبَابٌ, (S in art. زعب,) said of a torrent, <i>It was,</i> or <i>became, copious, and impelled in its several parts,</i> or <i>portions, by the impetus of one part,</i> or <i>portion, acting upon another.</i> (S, K.) Accord. to the S, and AHei, the ل is augmentative; [as it is said with equal reason to be in اِزْلَغَبَّ;] but accord. to the K, it is radical, and therefore this is its proper place, not art. زعب. (TA.) ―         -b2-  Also <i>i. q.</i> <br>\
+                  اِزْلَغَبَّ, [q. v.,] said of hair. (TA in art. زلغب.) ―         -b3-  And ازلعبّ السَّحَابُ <br>\
+                  <i>The clouds were,</i> or <i>became, dense,</i> or <i>thick.</i> (K.)    </entryFree> <br>\
+<b>مُزْلَعِبٌّ</b>               1     <br>\
+                     مُزْلَعِبٌّ<br>\
+                     ذ<br>\
+                   A torrent <i>that is copious, and impelled in its several parts,</i> or <i>portions, by the impetus of</i> <br>\
+                  <i>one part,</i> or <i>portion, acting upon another,</i> (S in art. زعب, and K, and TA,) <i>having much rubbish</i> or <i>many small particles or fragments</i> [<i>borne on its surface</i>]. (TA.) [See also زَاعِبٌ.] ―         -b2-  Also a dial. var. of مُزْلَغِبٌّ, [q. v.,] applied to a young bird. (TA.)   </entryFree> <br>\
+' } );

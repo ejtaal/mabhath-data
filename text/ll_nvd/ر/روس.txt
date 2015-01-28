@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'روس2<br>\
+رَوَّسَ: see رَأَّسَ.<br>\
+8<br>\
+يَرْتَاسُ: see يَرْتَئِسُ.<br>\
+رَوَّاسٌ and رَوَّاسِىٌّ: for both, see رَأّسٌ: and for<br>\
+the latter, see also أَرْأَسُ.<br>\
+' } );

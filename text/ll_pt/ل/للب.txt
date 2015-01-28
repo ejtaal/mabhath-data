@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>للب</em>            1                  للب<br>\
+<b>لَوْلَبٌ</b>               1     <br>\
+                     لَوْلَبٌ<br>\
+                     ذ<br>\
+                  : see art. لب.    </entryFree> <br>\
+<b>مُلَوْلَبٌ</b>               1     <br>\
+                     مُلَوْلَبٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مِرْوَدٌ (S, K) and the like. (S.) Of the measure مُفَوْعَلٌ: (S, K:) or, accord. to some, فَعَوْعَلٌ. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;صاك&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  صاك<br>\
+&lt;entryFree id=&quot;n23593&quot; key=&quot;صَيِكَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     صَيِكَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     صَاََ<br>\
+                  &lt;/form&gt;, (AZ, S, O, K,) inf. n. صَاَكٌ, (AZ, S, O,) &lt;i&gt;He&lt;/i&gt; (a man, AZ, S, O) &lt;i&gt;sweated so that there arose from him a fetid odour,&lt;/i&gt; (AZ, S, O, K,) &lt;i&gt;from&lt;/i&gt; <br>\
+                  ذَفَر [app. as meaning &lt;i&gt;stench of the arm-pit&lt;/i&gt;], or &lt;i&gt;otherwise.&lt;/i&gt; (AZ, S, O.) ―         -b2-  And, said of blood, &lt;i&gt;It congealed.&lt;/i&gt; (O, K.) ―         -b3-  And صَيِكَ بِهِ <br>\
+                  &lt;i&gt;It&lt;/i&gt; (a thing, TA) &lt;i&gt;stuck,&lt;/i&gt; or &lt;i&gt;clave, to him.&lt;/i&gt; (K, TA.) Hence, accord. to the &#39;Eyn, صَاكَ, used in this sense in a verse of El-Aashà: (TA:) or this belongs to art. صيك, (S and O in that art.,) agreeably with the opinion of ISd. (TA in that art.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23594&quot; key=&quot;ظَلَّ يُصَايِكُنِى مُنْذُ اليَوْمِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ظَلَّ يُصَايِكُنِى مُنْذُ اليَوْمِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He has continued vying with me,&lt;/i&gt; or &lt;i&gt;contending with me for superiority,&lt;/i&gt; or &lt;i&gt;striving to surpass me, in strength,&lt;/i&gt; or &lt;i&gt;power,&lt;/i&gt; or &lt;i&gt;force,&lt;/i&gt; (يُشَادُّنِى,) &lt;i&gt;all this day.&lt;/i&gt; (O, K, * TA.) [And so يُصَايِكُنِى, mentioned in the TA in art. صوك; but app. belonging to art. صيك.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23595&quot; key=&quot;صَيِكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صَيِكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A &lt;i&gt;strong&lt;/i&gt; man. (O, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23596&quot; key=&quot;صَاْكَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صَاْكَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;odour,&lt;/i&gt; (K, TA,) i. e. &lt;i&gt;altered odour,&lt;/i&gt; (TA,) &lt;i&gt;of a piece of wood when it has become moist.&lt;/i&gt; (K, TA.) [And probably The &lt;i&gt;altered colour and odour&lt;/i&gt; of rain-water trickling from trees: see what follows.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n23597&quot; key=&quot;صَايِكٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     صَايِكٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, applied to rain trickling from trees, [app. a possessive epithet, meaning ذُو صَاْكَةٍ,] &lt;i&gt;Altered in colour and odour.&lt;/i&gt; (TA in art. حلب.)   &lt;/entryFree&gt; <br>\
+' } );

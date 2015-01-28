@@ -1,0 +1,61 @@
+load_data( { book: 'll_nvd', text: 'جرش1<br>\
+جَرَشَهُ, (S, A, K,) aor.<br>\
+جَرُشَ (MS, K) and<br>\
+جَرِشَ,<br>\
+(K,) inf. n. جَرْشٌ, (A, TA,) He bruised, brayed,<br>\
+or pounded, it, (S, A, K,) and he ground it,<br>\
+namely, salt, and grain, (A,) coarsely, not finely.<br>\
+(S, A, K.) ―<br>\
+-b2-  He stripped off, scraped off, rubbed<br>\
+off, abraded, or otherwise removed, its superficial<br>\
+part; syn. قَشَرَهُ. (K.) ―<br>\
+-b3-  He scratched, scraped,<br>\
+rubbed, grated, chafed, or fretted, it; syn. حَكَّهُ;<br>\
+(K, TA;) like as the viper does its fangs; when<br>\
+its folds rub, or grate, together, causing a sound<br>\
+to be head. (TA.) ―<br>\
+-b4-  He scratched it (حَكَّهُ,<br>\
+namely, his head,) with a comb, (S, A, K,) so as<br>\
+to raise its scurf; (S, K;) as also ↓ جَرَّشَهُ. (TA.)<br>\
+―<br>\
+-b5-  He rubbed and pressed it (namely, the skin,)<br>\
+with the hand, in order that it might become<br>\
+smooth (K, TA) and soft. (TA.)<br>\
+2<br>\
+جَرَّشَ see 1, last signification but one.<br>\
+جَرْشٌ The sound of a viper&#39;s coming forth form<br>\
+the skin [or slough] when the former rubs, or<br>\
+grates, one part against another. (K.) ―<br>\
+-b2-  And<br>\
+The sound of a viper&#39;s fangs, when they rub, or<br>\
+grate [together]. (TA.) ―<br>\
+-b3-  And The sound arising<br>\
+from eating a rough thing: or this is with س.<br>\
+(TA.)<br>\
+جَرِيشٌ A thing, (S, K,) such as salt, (A,)<br>\
+bruised, brayed, or pounded, (S, A, K,) and<br>\
+ground, (A,) coarsely, not finely: (S, A, K:) or,<br>\
+applied to salt, it signifies مَالَمْ يُطَيَّبْ [app. meaning such as has not been purified], (S, K, TA,)<br>\
+that crumbles; as though one part thereof were<br>\
+rubbed against another. (TA.) ―<br>\
+-b2-  Also Coarse<br>\
+flour, such as is fit for [making the kind of food<br>\
+called] خَبِيص مُرَمَّل. (TA.)<br>\
+جُرَاشَةُ شَىْءٍ What falls, of, or from, a thing<br>\
+coarsely bruised or brayed or pounded, when<br>\
+what is bruised &amp;c. thereof is taken. (S.) ―<br>\
+-b2-<br>\
+جُرَاشَةٌ also signifies What falls from the head<br>\
+when it is combed: (A, TA:) and what falls and<br>\
+becomes scattered from wood: (A:) or cuttings,<br>\
+chips, parings, and the like. (TA.)<br>\
+جَوَارِشٌ [from the Persian گُوَارِشْ, A digestive<br>\
+stomachic;] a thing that causes food to digest;<br>\
+as also هَاضُومٌ. (S in art. هضم.)<br>\
+مَجْرُوشٌ A thing having its superficial part<br>\
+stripped off, scraped off, rubbed off, abraded, or<br>\
+otherwise removed. (TA.) ―<br>\
+-b2-  Skin rubbed and<br>\
+pressed with the hand in order that it may become<br>\
+smooth and soft. (TA.)<br>\
+' } );

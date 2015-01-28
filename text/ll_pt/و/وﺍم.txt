@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وام&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وام<br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     وَاََّ<br>\
+                  &lt;/form&gt; See art. وما.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44418&quot; key=&quot;وِيَامٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وِيَامٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;being mutually near; mutually agreeing.&lt;/i&gt; (T, voce تَوْءَمٌ.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n44419&quot; key=&quot;التَّوْءَمَانِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     التَّوْءَمَانِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, &lt;i&gt;The herb so called:&lt;/i&gt; see art. تام.   &lt;/entryFree&gt; <br>\
+' } );

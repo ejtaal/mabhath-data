@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لطس</em>            1                  لطس<br>\
+<b>مِلْطَاسٌ</b>               1     <br>\
+                     مِلْطَاسٌ<br>\
+                     ذ<br>\
+                  <i>A pickaxe.</i> (TA.)   </entryFree> <br>\
+' } );

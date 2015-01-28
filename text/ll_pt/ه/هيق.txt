@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هيق</em>            1                  هيق<br>\
+<b>هَيْقَةٌ</b>               1     <br>\
+                     هَيْقَةٌ<br>\
+                     ذ<br>\
+                  <i>A female ostrich.</i> (A, art. زمر.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,51 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;هزا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  هزا<br>\
+&lt;entryFree id=&quot;n41161&quot; key=&quot;هَزَاَ مِنْهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     هَزَاَ مِنْهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) and بِهِ; (S, K;) and هَزِيَ (S, K) followed by منه and به; (Akh, S;) but accord. to Yoo, we should say هزي به only; not منه; (TA;) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَزَاَ<br>\
+                  &lt;/form&gt;, inf. n. هُزْءٌ and هُزُوٌ (S, K) and هُزُوْءٌ (TA) and مَهْزَاَةٌ; (S, K;) and به ↓ <br>\
+      تهزّا, (AZ, S, K,) and به ↓ <br>\
+      استهزا; (S, K;) &lt;i&gt;He mocked at, scoffed at, laughed at, derided,&lt;/i&gt; or &lt;i&gt;ridiculed, him.&lt;/i&gt; (S, K.) ―         -b2-  The most approved reading of ↓ <br>\
+      مُسْتَهْزِيُونَ in the Kur, ii. 13, is with the ء fully pronounced: some alleviate it: and some read مُسْتَهْزِيُرنَ: and some مُسْتَهْزُونَ; (but this pronunciation is of weak authority;) and say اـِسْتَهْزَيْتُ for اـِسْتَهْزَاْتُ. (Zj.) ―         -b3-  السَّرَابُ يَهْزَاُ <br>\
+                  بِالرَّكْبِ (tropical:)  [&lt;i&gt;The mirage mocks the company of riders&lt;/i&gt;]. (A.)       -A2-  هَزَاَ, (K,) inf. n. هَزْءٌ, (TA,) &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, broke&lt;/i&gt; a thing. (K.) ―         -b2-  A poet says, describing a coat of mail, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        لَهَا عُكَنْ تَرُدُّ النَّبْلَ خَنْسًا<br>\
+                     &lt;L&gt;<br>\
+                        وَتَهْزَاُ بِالْمَعَابِلِ وَالقِطَاعِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;It has creases that repel the arrows, making them to recede, and break the broad and long arrow-heads, and those which are small and broad&lt;/i&gt;]. The ب in بالمعابل is redundant. This is the opinion of the lexicologists, except ISd, who thinks that this is an error, and that تهزا here means “ mocks. ” (TA.)       -A3-  هَزَاَ اـِبِلَهُ (K; but it is thought that this may be a mistake for هَرَاَ, TA,) inf. n. هَزْءٌ; (TA;) and ↓ <br>\
+      اهزا ها; (K;) &lt;i&gt;He killed his camels with cold.&lt;/i&gt; IAar says, that اهزاهُ البَرْدُ and اهراهُ both signify &lt;i&gt;The cold killed him.&lt;/i&gt; (TA.)       -A4-  هَزَاَ <br>\
+                  &lt;i&gt;He put in motion,&lt;/i&gt; [or &lt;i&gt;excited,&lt;/i&gt;) the beast on which he rode. (As, K.)       -A5-  هَزَاَ and هَزِيَ <br>\
+                  &lt;i&gt;He died&lt;/i&gt; (K) &lt;i&gt;in his place,&lt;/i&gt; or &lt;i&gt;on the spot;&lt;/i&gt; i. e. &lt;i&gt;unexpectedly,&lt;/i&gt; or &lt;i&gt;suddenly:&lt;/i&gt; (Z:) improperly objected against by Ibn-Es-Sáïgh. (&#39;Ináyeh, MF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41162&quot; key=&quot;اهزا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اهزا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He entered upon the time of severe cold.&lt;/i&gt; (K.) See also اهرا, which is the word commonly known. (TA.) ―         -b2-  See 1.       -A2-  اهزاتْ بِهِ نَاقَتُهُ <br>\
+                  &lt;i&gt;His she-camel hastened with him.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَهَزَّاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَهْزَاَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41163&quot; key=&quot;هُزْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُزْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;who is mocked at, scoffed at, laughed at, derided;&lt;/i&gt; a &lt;i&gt;ridiculous&lt;/i&gt; person. (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41164&quot; key=&quot;هُزَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُزَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; One &lt;i&gt;who mocks at, scoffs at, laughs at, derides,&lt;/i&gt; or &lt;i&gt;ridicules, others.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41165&quot; key=&quot;غَدَاةٌ هَازِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     غَدَاةٌ هَازِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;A morning intensely cold:&lt;/i&gt; as though mocking men when they shrug and shiver. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41166&quot; key=&quot;مَفَازَةٌ هَازِيَةٌ بِالرَّكْبِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَفَازَةٌ هَازِيَةٌ بِالرَّكْبِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, and with هُزَاَةٌ for هازية, (tropical:)  [&lt;i&gt;A desert that mocks the company of riders&lt;/i&gt;]. (A.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>صوبج</em>            1                  صوبج<br>\
+<b>صَوْبَجٌ</b>               1     <br>\
+                     صَوْبَجٌ<br>\
+                     ذ<br>\
+                   and صُوبَجٌ, (K,) the latter the only word of its measure except سُوسَنٌ (AHei, TA) and كُوسَجٌ, (TA,) <i>A thing with which bread is made;</i> (K;) <i>a wooden implement with which the makers of bread expand the cake of bread;</i> (AHei, TA;) the مِحْوَر <br>\
+                  <i>of the maker of bread, with which the dough,</i> or <i>bread, is expanded:</i> (TA in art. لط:) an arabicized word, (K, TA,) form the Pers. چُوپَهْ [or چُوبَهْ]. (TA.) [See what is said in art. صرج respecting words in which both ص and ج occur.]   </entryFree> <br>\
+' } );

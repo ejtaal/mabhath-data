@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'ونب2<br>\
+ونّبه, inf. n. تَوْنِيبٌ, He reprehended, reproved, blamed, chid, or reproached, him severely;<br>\
+&amp;c.: (K:) a dial. form of أَنَّبَهُ. (TA.)<br>\
+ونى &amp;c.<br>\
+See Supplement<br>\
+' } );

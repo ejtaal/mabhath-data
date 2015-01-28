@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>وهث</em>            1                  وهث<br>\
+<b>وَهَثَ فِى شَىْءٍ</b>               1     <br>\
+                     وَهَثَ فِى شَىْءٍ<br>\
+                     ذ<br>\
+                  , aor. يَهِثُ, inf. n. وَهْثٌ, <i>He was persevering,</i> or <i>assiduous, in the thing.</i> (K.) ―         -b2-  وَهَثَ شَيْيًا, aor. يَهِثُ, inf. n. وَهْثٌ, <i>He trod,</i> or <i>trampled, vehemently upon a thing.</i> (K.)    </entryFree> <br>\
+<b>توهّث فِى الاَمْرِ</b>               1     <br>\
+                     توهّث فِى الاَمْرِ<br>\
+                     ذ<br>\
+                  <i>He went,</i> or <i>penetrated, far into the affair.</i> (M, K.)    </entryFree> <br>\
+<b>وَاهِثٌ</b>               1     <br>\
+                     وَاهِثٌ<br>\
+                     ذ<br>\
+                   One <i>throwing himself into destruction.</i> (TA.)   </entryFree> <br>\
+' } );

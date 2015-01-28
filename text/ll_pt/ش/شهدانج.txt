@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>شهدانج</em>            1                  شهدانج<br>\
+<b>شَهْدَانِجٌ</b>               1     <br>\
+                     شَهْدَانِجٌ<br>\
+                     ذ<br>\
+                  , (K accord. to the TA,) with fet-h to the ش and kesr to the ن, (TA,) and شَاهْدَانِجٌ, (K accord. to the TA,) or شَهْدَانَجٌ, (Mgh, Msb, and so in the CK, except that it is there written as though imperfectly decl.,) with fet-h to the ن, (Msb,) and شَاهْدَانَج, (CK,) arabicized from [the Pers.] شَاهْ دَانَهْ, which means “ king of grains, ”  (Ibn-El-Kutbee, TA,) The <i>seed of the</i> <br>\
+                  قِنَّب [or <i>hemp</i>]: (Mgh, Msb, K:) it is useful as a remedy for the quartan fever, (K,) prepared as a beverage, (TA,) and for the [kinds of leprosy called] بَهَق and بَرَص, (K,) applied as a liniment, (TA,) and it kills what are called حَبُّ القَرْعِ, (K,) which are worms in the belly, [tape-worms,] (TA,) when eaten, and also when applied to the belly externally. (K.)   </entryFree> <br>\
+' } );

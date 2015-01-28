@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هنتبQ. 1<br>\
+هَنْتَبَ فِى أَمْرِهِ He was remiss in his affair.<br>\
+(K.) See also هَنْبَتَ.<br>\
+' } );

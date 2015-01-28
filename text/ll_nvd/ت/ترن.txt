@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'ترنتُرْنَى an appellation applied to A female slave;<br>\
+(T, K) and to a fornicatress, an adulteress, or<br>\
+a prostitute; (M, K;) as also فَرْتَنَى: (T, K:)<br>\
+and اِبْنُ تُرْنَى means the son of a fornicatress or<br>\
+an adulteress or a prostitute; (T, K;) as also<br>\
+ابن فَرْتَنَى: (T:) or one that is base-born: (S in<br>\
+art. رنو:) but it is said that تُرْنَى is of the measure<br>\
+تُفعَلُ, from الرُّنُوُّ: (M:) it may be from رُنِيَتْ<br>\
+meaning “ she was looked at continuously. ”<br>\
+(T, K.)<br>\
+' } );

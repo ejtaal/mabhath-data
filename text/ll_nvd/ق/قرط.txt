@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'قرطقُرْطٌ<br>\
+: see قِرَاطٌ.<br>\
+قِرَاطٌ<br>\
+A lamp, or its lighted wick: syn. مِصْبَاحٌ<br>\
+or شُعْلَتُهُ: (K:) the lighted wick (شُعْلَة) of a<br>\
+lamp; (S;) and so ↓ قُرْطٌ. (L, art. صبح.)<br>\
+' } );

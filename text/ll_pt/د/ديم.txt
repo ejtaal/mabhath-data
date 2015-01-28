@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>ديم</em>            1                  ديم<br>\
+<b>دَامَتِ السَّمَا=ءُ</b>               1     <br>\
+                     دَامَتِ السَّمَا=ءُ<br>\
+                     دامت السما=ء<br>\
+                  , aor. تَدِيمُ, inf. n. دَيْمٌ: see 1 in art. دوم.    </entryFree> <br>\
+<b>دَيَّمَتِ السَّمَا=ءُ</b>               1     <br>\
+                     دَيَّمَتِ السَّمَا=ءُ<br>\
+                     ديمت السما=ء<br>\
+                  : and دَيَّمُوا said of horses: see 1 in art. دوم, in the latter half of the paragraph, in three places.    </entryFree> <br>\
+<b>مَا زَالَتِ السَّمَا=ءُ دَيْمًا دَيْمًا</b>               1     <br>\
+                     مَا زَالَتِ السَّمَا=ءُ دَيْمًا دَيْمًا<br>\
+                     ما زالت السما=ء ديما ديما<br>\
+                  : see دَوْمٌ, in art. دوم.    </entryFree> <br>\
+<b>دِيمٌ</b>               1     <br>\
+                     دِيمٌ<br>\
+                     ديم<br>\
+                     ديمة<br>\
+                  : see دِيمَةٌ.    </entryFree> <br>\
+<b>دِيمَةٌ</b>               1     <br>\
+                     دِيمَةٌ<br>\
+                     ديمه<br>\
+                     ديمة<br>\
+                  : see art. دوم.    </entryFree> <br>\
+<b>دَيْمُومٌ</b>               1     <br>\
+                     دَيْمُومٌ<br>\
+                     ديموم<br>\
+                   and دَيْمُومَةٌ: see arts. دم and دوم.    </entryFree> <br>\
+<b>دَيَّومٌ</b>               1     <br>\
+                     دَيَّومٌ<br>\
+                     ديوم<br>\
+                  : see دَايِمٌ, in art. دوم.    </entryFree> <br>\
+<b>اَرْضٌ مَدِيمَةٌ</b>               1     <br>\
+                     اَرْضٌ مَدِيمَةٌ<br>\
+                     ذ<br>\
+                   and مُدَيَّمَةٌ: see art. دوم.   </entryFree> <br>\
+' } );

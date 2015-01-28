@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>خا</em>            1                  خا<br>\
+<b>خَا</b>               1     <br>\
+                     خَا<br>\
+                     خا<br>\
+                   and خَا=ءٌ: see the letter خ, and arts. خوا and خى.   </entryFree> <br>\
+' } );

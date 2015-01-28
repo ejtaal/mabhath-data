@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>جنث</em>            1                  جنث<br>\
+<b>جِنْثٌ</b>               1     <br>\
+                     جِنْثٌ<br>\
+                     جنث<br>\
+                  <i>i. q.</i> <br>\
+                  اَصْلٌ [as meaning The <i>stock,</i> or <i>stem,</i> or the <i>root,</i> or <i>base,</i> or <i>lowest part,</i> of a tree or plant: and the <i>stock,</i> or <i>origin,</i> of a man]; (S, K;) a dial. var. of جِنْسٌ, or a word mispronounced: (S:) or, as some say, <i>a root</i> (of a tree) <i>of which the</i> <br>\
+                  اَرُومَة [i. e. <i>root-stock</i>] <i>is erect in the ground:</i> or the <i>part of the</i> <br>\
+                  سَاق [i. e. <i>stock,</i> or <i>stem,</i>] of a tree <i>that is in the ground, above the</i> <br>\
+                  عُرُوق [or <i>roots properly so called</i>]: (L, TA:) pl. [of pauc.] اَجْنَاثٌ and [of mult.] جُنُوثٌ. (TA.) One says, فُلَانٌ مِنْ جِنْثِكَ and جِنْسِكَ, meaning من اَصْلِكَ [i. e. <i>Such a one is of thy stock</i>]. (S.) And اـِنَّهُ لَيَرْجِعُ اـِلَى جِنْثِ صِدْقٍ [<i>Verily he traces back his lineage to an excellent stock,</i> or <i>origin</i>]. (TA.)   </entryFree> <br>\
+' } );

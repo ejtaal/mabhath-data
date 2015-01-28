@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>فتكر</em>            1                  فتكر<br>\
+<b>فِتْكِرٌ</b>               1     <br>\
+                     فِتْكِرٌ<br>\
+                     ذ<br>\
+                   and فِتَكْرٌ: see what follows.    </entryFree> <br>\
+<b>فِتَكْرِين</b>               1     <br>\
+                     فِتَكْرِين<br>\
+                     ذ<br>\
+                   and فُتَكْرِين (S, O, K) and فَتَكْرِين and فِتْكَرِين and ↓ <br>\
+      فِتْكِرٌ (O, K) and ↓ <br>\
+      فِتَكْرٌ (K) <i>A calamity,</i> or <i>misfortune;</i> (O, K;) and [in the CK “ or ”] <i>a wonderful,</i> and <i>great,</i> or <i>formidable, affair,</i> or <i>event:</i> (K:) or the ن is the characteristic of the pl.; and one says, لَقِيتُ مِنْهُ الفِتَكْرِينَ and الفُتَكْرِينَ, meaning [<i>I experienced from him,</i> or <i>it,</i>] <i>difficulties,</i> or <i>distresses,</i> and <i>calamities,</i> or <i>misfortunes.</i> (S.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>حشك</em>            1                  حشك<br>\
+<b>حَشَكَتِ الدِّرَّةُ</b>               1     <br>\
+                     حَشَكَتِ الدِّرَّةُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     حَشِكَ<br>\
+                  , inf. n. حَشْكٌ and حُشُوكٌ; for the former of which, حَشَكٌ is used by poetic license: (S:) or حَشِكَت, aor.      <br>\
+                     حَشَكَ<br>\
+                  , (TA,) inf. n. حَشَكٌ (K, TA) and حُشُوكٌ: (TA:) <i>The flow of milk became full:</i> (S:) or <i>became vehement in the udder:</i> or <i>collected quickly therein:</i> (K, TA:) but accord. to Lth, حَشْكٌ and ↓ <br>\
+      حَشَكٌ are like نَفْضٌ and نَفَضٌ, and نَقْضٌ and نَقَضٌ; the former being an inf. n., and the latter a subst. [in the proper sense of the term, app. signifying <i>milk collected,</i> or <i>collected quickly, in the udder</i>]. (TA.) ―         -b2-  [Hence,] حَشَكَتِ السَّحَابَةُ, (K,) aor.      <br>\
+                     حَشِكَ<br>\
+                  , inf. n. حَشْكٌ, (TA,) (tropical:)  <i>The cloud had much water.</i> (K, TA.) And حَشَكَتِ السَّمَا=ءُ, aor.      <br>\
+                     حَشِكَ<br>\
+                  , inf. n. حَشْكٌ, (assumed tropical:)  <i>The sky let fall a rain such as is termed</i> <br>\
+                  حَشْكَةٌ. (AZ, S.) And حَشَكَ الوَادِى, (assumed tropical:)  <i>The valley poured</i> (دَفَعَ) <i>with water.</i> (TA.) ―         -b3-  And حَشَكَتِ النَّخْلَةُ (tropical:)  <i>The palm-tree bore much fruit.</i> (Yaakoob, S, K, TA.) ―         -b4-  And حَشَكَ القَوْمُ, (S, K,) inf. n. حَشْكٌ, or, accord. to Th, حَشَكٌ, (TA,) (assumed tropical:)  <i>The people collected themselves together,</i> or <i>assembled.</i> (Th, S, K.)       -A2-  حَشَكَتْ لَبَنَهَا, inf. n. حَشْكٌ and حُشُوكٌ, <i>She</i> (a camel) <i>collected her milk.</i> (K.) ―         -b2-  حَشَكَ النَّاقَةَ, (S, K,) aor.      <br>\
+                     حَشِكَ<br>\
+                  , (K,) inf. n. حَشْكٌ, (TA,) <i>He left milking the she-camel until her milk collected</i> (S, K, TA) <i>in her udder.</i> (TA.)    </entryFree> <br>\
+<b>حَشَكٌ</b>               1     <br>\
+                     حَشَكٌ<br>\
+                     ذ<br>\
+                  : see 1.    </entryFree> <br>\
+<b>حَشَكَةٌ</b>               1     <br>\
+                     حَشَكَةٌ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>A rain exceeding such as is termed</i> <br>\
+                  بَغْشَةٌ; like حَفْشَةٌ and غَبْيَةٌ. (S).    </entryFree> <br>\
+<b>جَاوُوا بِحَشَكَتِهِمْ</b>               1     <br>\
+                     جَاوُوا بِحَشَكَتِهِمْ<br>\
+                     ذ<br>\
+                  , (K,) or, as in the Moheet, جَا=ءَ فُلَانٌ بِحَشَكَتِهِمْ, (TA,) means (assumed tropical:)  [<i>They came,</i> or <i>such a one came,</i>] <i>with their company.</i> (K, TA.)    </entryFree> <br>\
+<b>حِشَاكٌ</b>               1     <br>\
+                     حِشَاكٌ<br>\
+                     ذ<br>\
+                  , (IDrd, S, Sgh,) thus correctly written, like كِتَابٌ, but in [most of] the copies of the K like سَحَابٌ, (TA, [in the CK like سَحَابَةٌ,]) <i>A piece of wood which is put in the mouth of a kid,</i> (S, K,) <i>across,</i> (S,) <i>and tied</i> (S, K) <i>at the back of his neck,</i> (S,) <i>to prevent him from sucking:</i> (S, K:) also called شِبَامٌ. (IDrd, S.)    </entryFree> <br>\
+<b>حَشُوكٌ</b>               1     <br>\
+                     حَشُوكٌ<br>\
+                     ذ<br>\
+                   A she-camel <i>collecting milk in her udder</i> (S, K) <i>quickly.</i> (S.)    </entryFree> <br>\
+<b>حَاشِكٌ</b>               1     <br>\
+                     حَاشِكٌ<br>\
+                     ذ<br>\
+                   [act. part. n. of حَشَكَ]. You say شَاةٌ <br>\
+                  حَاشِكَةٌ <br>\
+                  <i>A sheep,</i> or <i>goat, abounding with milk.</i> (TA in art. لجب.) [And hence,] نَخْلَةٌ حَاشِكٌ (tropical:)  <i>A palm-tree bearing much fruit.</i> (Yaakoob, S, K.) ―         -b2-  Also (assumed tropical:)  <i>Consecutive,</i> or <i>uninterrupted.</i> (Ibn- &#39;Abbád, K.)   </entryFree> <br>\
+' } );

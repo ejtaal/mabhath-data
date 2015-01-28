@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'ليكلَيْكَا, [i. e. لَيْكَ with an adjunct alif for the sake<br>\
+of the rhyme,] for إِلَيْكَ: see art. إِلَى, near the<br>\
+end.<br>\
+' } );

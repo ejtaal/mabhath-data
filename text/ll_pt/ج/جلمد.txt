@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>جلمد</em>            1                  جلمد<br>\
+<b>جَلْمَدٌ</b>               1     <br>\
+                     جَلْمَدٌ<br>\
+                     جلمد<br>\
+                   and ↓ <br>\
+      جُلْمُودٌ <br>\
+                  <i>Rock:</i> (S, K:) or <i>a rock;</i> or <i>mass,</i> or <i>piece, of rock:</i> (M:) or <i>a round stone:</i> (Mgh, Msb:) or [<i>a stone</i>] <i>smaller than what is termed</i> <br>\
+                  جَنْدَل, <i>of such a size as that which is thrown with a ballista:</i> (L:) or <i>a great stone:</i> (Har p. 95:) or the latter word, [<i>a stone</i>] <i>like the head of a kid;</i> or <i>less, such as may be carried in the hand by grasping its side but over which the two hands will not meet, with which date-stones &amp;amp;c. are bruised,</i> or <i>brayed:</i> (ISh:) [pl. of the former, جَلَامِدَ; and of the latter, جَلَامِيدُ. Accord. to the Mgh and Msb, the م is an augmentative letter; but most of the lexicographers regard it as radical.] ―         -b2-  [Hence,] رَشَحَ <br>\
+                  جَلْمَدُهُ, said of one known to be a niggard, meaning, (assumed tropical:)  <i>He gave something.</i> (Har p. 95.) ―         -b3-  And اَلْقَى عَلَيْهِ جَلَامِيدَهُ (assumed tropical:)  <i>He threw his weight</i> (ثِقَلَهُ)  <br>\
+                  <i>upon him.</i> (K. [See القى عليه مَثَاقِيلَهُ, voce مِثْقَالٌ.]) ―         -b4-  Also جَلْمَدٌ, (L,) or ↓ <br>\
+      جِلْمِدٌ, (K,) <i>A mass of rock rising out of shallow water.</i> (IAar, L, K.) ―         -b5-  And the former, (assumed tropical:)  A <i>strong</i> man; and so ↓ <br>\
+      جَلْمَدَةٌ: (K:) or a man <i>having a strong voice;</i> and so ↓ <br>\
+      جُلْمُدٌ. (L.)       -A2-  Also, جَلْمَدٌ, <i>Many</i> camels: (S:) or camels <i>composing a large herd:</i> or camels <i>advanced in years;</i> as also ↓ <br>\
+      جُلْمُودٌ: (K:) and sheep <i>exceeding in number a hundred:</i> (L, K:) you say ضَاْنٌ جَلْمَدٌ. (L.) ―         -b2-  And <i>Oxen,</i> or <i>cows:</i> (L:) and the same word, (K,) or ↓ <br>\
+      جَلْمَدَةٌ, (AA, L,) <i>a single ox</i> or <i>cow.</i> (AA, L, K.)    </entryFree> <br>\
+<b>جُلْمَدٌ</b>               1     <br>\
+                     جُلْمَدٌ<br>\
+                     جلمد<br>\
+                  : see above.    </entryFree> <br>\
+<b>جِلْمِدٌ</b>               1     <br>\
+                     جِلْمِدٌ<br>\
+                     جلمد<br>\
+                  : see above.    </entryFree> <br>\
+<b>جَلْمَدَةٌ</b>               1     <br>\
+                     جَلْمَدَةٌ<br>\
+                     جلمد<br>\
+                     جلمده<br>\
+                     جلمدة<br>\
+                   applied to land (اَرْضٌ) <i>Stony:</i> (K:) and جَلَامِدُ is [its pl.,] like جَرَاوِلُ. (TA.) ―         -b2-  See also جَلْمَدٌ, in two places.    </entryFree> <br>\
+<b>جُلْمُودٌ</b>               1     <br>\
+                     جُلْمُودٌ<br>\
+                     جلمود<br>\
+                  : see جَلْمَدٌ, in two places.   </entryFree> <br>\
+' } );

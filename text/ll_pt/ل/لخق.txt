@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لخق</em>            1                  لخق<br>\
+<b>لُخْقُوقٌ</b>               1     <br>\
+                     لُخْقُوقٌ<br>\
+                     ذ<br>\
+                   [<i>A sort of trench,</i> or <i>channel, made by water, which has worn and undermined its sides;</i>] <i>a place in which water flows, having sides worn and undermined thereby, and hollowed in the form of the river,</i> or <i>river-bed:</i> pl. لَخَاقِيقُ. (ISh, TA.)   </entryFree> <br>\
+' } );

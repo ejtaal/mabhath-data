@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>برذع</em>            1                  برذع<br>\
+<b>بَرْذَعٌ</b>               1     <br>\
+                     بَرْذَعٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>بَرْذَعَةٌ</b>               1     <br>\
+                     بَرْذَعَةٌ<br>\
+                     ذ<br>\
+                   (S, Mgh, Msb, K) and بَرْدَعَةٌ (Msb, K) <i>A</i> [<i>cloth of the kind called</i>] حِلْس <br>\
+                  <i>which is put beneath the</i> [<i>saddle called</i>] رَحْل (S, Mgh, Msb, K) <i>of the camel:</i> (Mgh:) pl. بَرَاذِعُ (Mgh, Msb) and بَرَادِعُ (Msb.) Ru-beh says, [using the sing. without the ة as a coll. gen. n.,] <quote TEIform=&quot;quote&quot;><br>\
+                     <L>↓ <br>\
+      وَ تَحْتَ اَحْنَا=ءِ الرِّحَالِ البَرْذَعُ<br>\
+                  </quote> [<i>And beneath the curved pieces of wood of the camels&#39; saddles are the bardha&#39;ahs</i>]. (TA.) ―         -b2-  This is the primary signification: but in the conventional language of our time, it is applied to <i>An ass&#39;s saddle; the thing upon which one rides on an ass, like the</i> <br>\
+                  سَرْج <br>\
+                  <i>to the horse;</i> (Msb;) [i. e. <i>a pad,</i> or <i>stuffed saddle; generally stuffed with straw; and used for a mule as well as for an ass;</i>] or an ass&#39;s برذعة is <i>a saddle like the</i> <br>\
+                  رَحْل <br>\
+                  <i>and</i> <br>\
+                  قَتَب. (TA voce اـِكَافٌ, q. v.)       -A2-  بَرْذَعَةٌ also signifies <i>Land which is neither hard nor soft:</i> (K:) pl. as above. (TA.)    </entryFree> <br>\
+<b>بَرَاذِعِىٌّ</b>               1     <br>\
+                     بَرَاذِعِىٌّ<br>\
+                     ذ<br>\
+                  <i>A maker of</i> <br>\
+                  بَرَاذِعُ, pl. of بَرْذَعَةٌ: a rel. n. similar to اَنْمَاطِىٌّ. (TA.)   </entryFree> <br>\
+' } );

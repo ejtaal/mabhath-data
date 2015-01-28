@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نزا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نزا<br>\
+&lt;entryFree id=&quot;n39650&quot; key=&quot;نَزَاَ بَيْنَهُمْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَزَاَ بَيْنَهُمْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَزَاَ<br>\
+                  &lt;/form&gt;, inf. n. نَزْءٌ and نُزُوْءٌ, (S,) &lt;i&gt;He excited discord between them:&lt;/i&gt; (AZ, S, K:) like نَزَعَ. (TA.) ―         -b2-  نَزَاَهُ عَلَى صَاحِبِهِ <br>\
+                  &lt;i&gt;He incited,&lt;/i&gt; or &lt;i&gt;urged, him against his companion.&lt;/i&gt; (K, * TA.) ―         -b3-  مَا نَزَاَكَ عَلَى هٰذَا <br>\
+                  &lt;i&gt;What incited, urged,&lt;/i&gt; or &lt;i&gt;induced, thee to this?&lt;/i&gt; (Ks, S.) ―         -b4-  نَزَاَ <br>\
+                  عَلَيْهِ, (S, K,) inf. n. نَزْءٌ, (S,) &lt;i&gt;He made an attack,&lt;/i&gt; or &lt;i&gt;assault, upon him;&lt;/i&gt; syn. حَمَلَ. (Ks, S. K.) ―         -b5-  نَزَاَهُ عَنْ قَوْلِهِ <br>\
+                  &lt;i&gt;He turned him back from what he had said.&lt;/i&gt; (K, * TA.) ―         -b6-  نُزِيَ بِهِ, like عُنِىَ, [i. e., pass. in form, but neut. in signification,] &lt;i&gt;He was addicted,&lt;/i&gt; or &lt;i&gt;devoted, to it; desirous of it.&lt;/i&gt; (TA.) ―         -b7-  اـِنَّكَ لَا تَدْرِى عَلَامَ يُنْزَاُ <br>\
+                  هَرِمُكَ, (S, K,) thus thou sayest, addressing thyself, when a man has been pursuing a good or an evil way, and turned from it to another way, or accord. to some copies of the S, بِمَ instead of عَلَامَ, [which is for عَلَى مَا;] (TA;) &lt;i&gt;Verily thou knowest not to what thing thy mind will become addicted,&lt;/i&gt; or &lt;i&gt;devoted:&lt;/i&gt; (ISk, S, K:) i. e., to what thy state will come. (K.) In one copy of the K, هَرَمُكَ <br>\
+                  &lt;i&gt;thine old age,&lt;/i&gt; is put instead of هَرِمُكَ. (TA.) &lt;pb n=&quot;2784&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n39651&quot; key=&quot;نَزِىْء&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَزِىْء<br>\
+                     ذ<br>\
+                  &lt;i&gt;An inciter, instigator,&lt;/i&gt; or &lt;i&gt;exciter.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39652&quot; key=&quot;رَجُلٌ نَزَّا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رَجُلٌ نَزَّا=ءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;A man much addicted,&lt;/i&gt; or &lt;i&gt;devoted,&lt;/i&gt; to a thing; &lt;i&gt;very desirous&lt;/i&gt; of it]. (TA.) [See نَزِيَ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39653&quot; key=&quot;مَنْزُوْءٌ بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَنْزُوْءٌ بِهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Addicted,&lt;/i&gt; or &lt;i&gt;devoted, to it; desirous of it.&lt;/i&gt; (S, K.)   &lt;/entryFree&gt; <br>\
+' } );

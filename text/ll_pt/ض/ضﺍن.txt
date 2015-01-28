@@ -1,0 +1,61 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ضان&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ضان<br>\
+&lt;entryFree id=&quot;n25414&quot; key=&quot;ضَاَنْتُ الضَّاْنَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ضَاَنْتُ الضَّاْنَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;I set apart the sheep&lt;/i&gt; [&lt;i&gt;from&lt;/i&gt; the goats]. (Az, TA, and K in art. معز.) One says, اِضْاَنْ ضَاْنَكَ وَاْمْعَزْ مَعْزَكَ <br>\
+                  &lt;i&gt;Set apart thy sheep from the goats, and set apart thy goats from the sheep.&lt;/i&gt; (Az, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25415&quot; key=&quot;اضان&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اضان<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, K,) said of a man, (S,) or of a party of men, (M,) &lt;i&gt;His,&lt;/i&gt; or &lt;i&gt;their,&lt;/i&gt; <br>\
+                  ضَاْن [or &lt;i&gt;sheep&lt;/i&gt;] &lt;i&gt;became numerous.&lt;/i&gt; (S, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25416&quot; key=&quot;ضَاْنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَاْنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, M, Msb, K) and ↓ <br>\
+      ضَاَنٌ (S, M, K) and ↓ <br>\
+      ضَيِينٌ, (S, M, Msb, K,) which is also pronounced ↓ <br>\
+      ضِيِينٌ, with kesr to the first letter because of the kesr following, agreeably with a general rule applying to a word [of the measure فَعِيلٌ] having any faucial letter [for its second radical], and ↓ <br>\
+      ضِينٌ and ↓ <br>\
+      ضَيْنٌ, which are mentioned by IAar, without ء, and therefore extr., (M,) [&lt;i&gt;Sheep;&lt;/i&gt;] &lt;i&gt;such as have wool, of what are termed&lt;/i&gt; <br>\
+                  غَنَم; one of which is called ↓ <br>\
+      ضَايِنٌ; (Msb;) [i. e.] they are pls., (S, K,) or [rather] quasi-pl. ns., (M,) of ↓ <br>\
+      ضَايِنٌ, (S, M, K,) which signifies &lt;i&gt;one that has wool,&lt;/i&gt; (M,) or the &lt;i&gt;opposite of&lt;/i&gt; <br>\
+                  مَاعِزٌ, (S, K,) &lt;i&gt;of what are termed&lt;/i&gt; <br>\
+                  غَنَم: (M, K:) ضَاْنٌ is of the fem. gender; (IAmb, Msb;) and has for its pl. اَضْوُنٌ [properly a pl. of pauc.] (IAmb, M, Msb) and ا=ضُنٌ, which occurs in poetry, and is formed by transposition from اَضْوُنٌ: (M:) the fem. of ↓ <br>\
+      ضَايِنٌ is ضَايِنَةٌ; (S, M, Msb, K;) the pl. of which is ضَوَايِنُ. (S, M, K.) ―         -b2-  ضَاْنٌ also signifies &lt;i&gt;A certain species of&lt;/i&gt; [&lt;i&gt;the lizards called&lt;/i&gt;] ضِبَاب [pl. of ضَبٌّ]; opposed to the مَاعِز. (TA.) And &lt;i&gt;A certain species of jerboas, also called&lt;/i&gt; <br>\
+                  شُفَارِىٌّ; (T voce تَدْمُرِىٌّ, q. v.; and TA in art. شفر;) &lt;i&gt;differing from the&lt;/i&gt; <br>\
+                  مَاعِز thereof. (T and TA in art. دمر.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25417&quot; key=&quot;ضَاَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَاَنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25418&quot; key=&quot;ضَيْنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَيْنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ضِينٌ: see ضَاْنٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25419&quot; key=&quot;ضَاْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَاْنَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A&lt;/i&gt; [&lt;i&gt;ring for the nose of a camel, such as is termed&lt;/i&gt;] خِزَامَة, &lt;i&gt;when made of sinew.&lt;/i&gt; (Sh, K.) [But see ضَانَةٌ, in art. ضون.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25420&quot; key=&quot;ضِيْنِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضِيْنِىٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is an extr., distorted, rel. n. [from ضَاْنٌ]. (M.) You say مِعْزًى ضِيْنِيَّةٌ <br>\
+                  &lt;i&gt;Goats that keep to the&lt;/i&gt; <br>\
+                  ضَاْن [or &lt;i&gt;sheep&lt;/i&gt;]. (M.) And سِقَا=ءٌ ضِيْنِىٌّ <br>\
+                  &lt;i&gt;A wide,&lt;/i&gt; (M,) or &lt;i&gt;large,&lt;/i&gt; (K,) &lt;i&gt;skin, of the hide of a sheep,&lt;/i&gt; (M, K,) &lt;i&gt;in which&lt;/i&gt; [&lt;i&gt;milk such as is termed&lt;/i&gt;] رَايِب <br>\
+                  &lt;i&gt;is churned.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25421&quot; key=&quot;ضَيِينٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَيِينٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ضِيِينٌ: see ضَاْنٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n25422&quot; key=&quot;ضَايِنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ضَايِنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ضَاْنٌ, in three places. ―         -b2-  It is also used as an epithet: one says كَبْشٌ ضَايِنٌ [app. meaning &lt;i&gt;A ram:&lt;/i&gt; <br>\
+                  كَبْشٌ alone having several meanings]. (M.) ―         -b3-  And it signifies also (tropical:)  &lt;i&gt;Weak:&lt;/i&gt; (K, TA:) [opposed to مَاعِزٌ:] or a &lt;i&gt;soft&lt;/i&gt; man, as though he were a ewe: (M, TA:) or one &lt;i&gt;who ceases not to be goodly in body while a scanty eater:&lt;/i&gt; (M, K: *) or &lt;i&gt;soft and flaccid in the belly.&lt;/i&gt; (M, K. *) ―         -b4-  And (assumed tropical:)  &lt;i&gt;Such as is white and broad,&lt;/i&gt; of sands. (K, TA.)   &lt;/entryFree&gt; <br>\
+' } );

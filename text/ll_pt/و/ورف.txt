@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ورف</em>            1                  ورف<br>\
+<b>وَرِفَ</b>               1     <br>\
+                     وَرِفَ<br>\
+                     ذ<br>\
+                  , and its inf. n. وَرِيفٌ: see رَفَّ, in two places.   </entryFree> <br>\
+' } );

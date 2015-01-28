@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>معل</em>            1                  معل<br>\
+<b>مَعْلٌ</b>               1     <br>\
+                     مَعْلٌ<br>\
+                     ذ<br>\
+                   [not مَعِلٌ] <i>An agile, acute, clever,</i> man: see شَعْلٌ.   </entryFree> <br>\
+' } );

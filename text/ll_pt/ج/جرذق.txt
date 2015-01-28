@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جرذق</em>            1                  جرذق<br>\
+<b>جَرْذَقٌ</b>               1     <br>\
+                     جَرْذَقٌ<br>\
+                     ذ<br>\
+                   and جَرْذَقَةٌ: see جردق.   </entryFree> <br>\
+' } );

@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'فشأ1<br>\
+فَشَأَ, (O, K,) aor.<br>\
+فَشَاَ, (K,) [inf. n. فَشْءٌ;] as<br>\
+also ↓ افشأ; He magnified himself; or behaved<br>\
+proudly, or haughtily: (O, K:) [or he gloried,<br>\
+or boasted: for] الفَشْءُ is from الفَخْرُ, (Ibn-Buzurj,<br>\
+O,) [or] syn. with الفَخْرُ. (K.)<br>\
+4<br>\
+أَفْشَاَ see what here precedes.<br>\
+5<br>\
+تفشّأ It (a thing) spread. (S, O.) One says<br>\
+of a disease, تفشّأبِهِمْ, (AZ, S, O,) or فِيهِمْ, (K,)<br>\
+[and تفشّى, and تفسّأ,] It spread among them:<br>\
+(AZ, S, O, K:) and تفشّأهم it became common,<br>\
+or general, or universal, among them. (O.)<br>\
+-A2-<br>\
+تفشّأ بِهِ He mocked at him, or derided him.<br>\
+(O, K.)<br>\
+' } );

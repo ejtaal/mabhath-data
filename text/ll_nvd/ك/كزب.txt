@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'كزبكُزْبٌ i. q. كُسْبٌ. (K.) ―<br>\
+-b2-  [Coll. gen. n., A<br>\
+kind of] hard trees. (K.)<br>\
+كَزَبٌ Smallness and contraction of the مُشْط<br>\
+(or metatarsal bones) of the foot; which is a<br>\
+defect. (K.)<br>\
+كَوْزَبٌ Avaricious, or niggardly, and narrowminded. (K.)<br>\
+مَكْزُوبَةٌ i. q. خِلَاسِيَّة in colour; i. e., between<br>\
+black and white. (K.)<br>\
+' } );

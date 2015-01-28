@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'نبع1<br>\
+نَبَعَ<br>\
+It (water) welled, or issued forth. ―<br>\
+-b2-<br>\
+نَبَعَ عَلَيْهِمْ: see نَبَأَ عليهم.<br>\
+4<br>\
+أَنْبَعَ<br>\
+He (God) made, or caused, water to<br>\
+issue. (Msb.)<br>\
+نَبْعٌ<br>\
+The tree so-called: see an ex. of its n.<br>\
+un. in a verse cited voce تَحَوَّفَ and تَخَوَّفَ. ―<br>\
+-b2-<br>\
+نَبْعٌ: see شَوْحَطٌ and شِرْيَانٌ and فَتْحٌ. ―<br>\
+-b3-  نَبْعَانِ<br>\
+The two shafts of a cart: so called because<br>\
+they were commonly made of wood of the tree<br>\
+called نَبْع: see رَادَّةٌ.<br>\
+انْبَعُ<br>\
+, irregularly formed from the augmented<br>\
+verb أَنْبَعَ: see an ex. in a couplet cited voce<br>\
+سَقَى.<br>\
+' } );

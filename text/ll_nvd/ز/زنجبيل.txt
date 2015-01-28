@@ -1,0 +1,50 @@
+load_data( { book: 'll_nvd', text: 'زنجبيلزَنْجَبِيلٌ [Ginger; amomum zinziber;] a certain<br>\
+plant growing in the country of the Arabs, in the<br>\
+land of &#39;Omán, (AHn, TA,) and in El-Yemen<br>\
+also; (TA;) well known: (S:) [or the root<br>\
+thereof;] a certain root, or roots, (accord. to different copies of the K,) creeping beneath the<br>\
+ground; (K, TA;) burning, or biting, to the<br>\
+tongue; (TA;) growing like the stalks of the<br>\
+papyrus, (K, TA,) and the رَاسَن [mentioned<br>\
+below]: there is no wild sort of it; nor is it a<br>\
+tree that is eaten fresh like as herbs, or leguminous<br>\
+plants, are eaten; but it is used in a dry state;<br>\
+and its conserve is the best of conserves; and the<br>\
+best thereof is what is brought from the country<br>\
+of the Zinj and China: (TA:) it has a property<br>\
+that is heating, or warming, digestive, lenitive in<br>\
+a small degree, strengthening to the venereal<br>\
+faculty, (K, TA,) clearing to the phlegm, (TA,)<br>\
+sharpening to the intellect, (K * TA,) and exhilarating: (TA:) if mixed with the moisture<br>\
+of the liver of the goat, and dried, and pulverized,<br>\
+and used as a collyrium, it removes the film [upon<br>\
+the eye], and obscurity of the sight. (K, TA.) ―<br>\
+-b2-<br>\
+It is mentioned in the Kur, where it is said,<br>\
+[lxxvi. 17 and 18,] كَانَ مِزَاجُهَا زَنْجَبِيلًا عَيْنًا فِيهَا<br>\
+تُسَمَّى سَلْسَبِيلًا [The admixture whereof shall be<br>\
+زنجبيل, a fountain therein named Selsebeel]:<br>\
+i. e. it shall have the flavour of زنجبيل [or ginger],<br>\
+which the Arabs esteem very pleasant: it may<br>\
+mean that زنجبيل is [essentially] in the wine of<br>\
+Paradise: or that it is the admixture thereof: or<br>\
+that it is a name for the fountain whence this<br>\
+wine is taken, and which is named Selsebeel also.<br>\
+(Az, O, TA.) As some assert, (ISd, TA,) it<br>\
+means also Wine [absolutely]. (S, ISd, K.) ―<br>\
+-b3-<br>\
+زَنْجَبِيلُ الكِلَابِ A certain herb, or leguminous<br>\
+plant, the leaves of which are like [those of] the<br>\
+خِلَاف [or salix Aegyptia], and the twigs are<br>\
+red: it clears the [discoloration of the face termed]<br>\
+كَلَف, and the [spots in the skin termed] نَمَش;<br>\
+and it kills dogs; (K;) wherefore it is named in<br>\
+relation to them. (TA.) ―<br>\
+-b4-  زَنْجَبِيلُ العَجَمِ i. q.<br>\
+الأُشْتُرْغَازُ [a word of Persian origin, now applied<br>\
+by Arabs to A species of carline thistle]. (K.)<br>\
+[Accord. to Freytag, Horminum, or salvia silvestris: but this, I believe, is what is called in<br>\
+Pers. أُشْتُرْغَان.] ―<br>\
+-b5-  زَنْجَبِيلُ الشَّامِ i. q. الرَّاسَنُ [Inula<br>\
+helenium, common inula, or elecampane]. (K.)<br>\
+' } );

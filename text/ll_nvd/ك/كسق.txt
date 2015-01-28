@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كسقكَوْسَقٌ<br>\
+i. q.<br>\
+كَوْسَجٌ. (M.)<br>\
+' } );

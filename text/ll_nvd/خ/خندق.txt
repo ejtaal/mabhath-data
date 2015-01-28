@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'خندقQ. 1<br>\
+خَنْدَقَهُ (K) and خَنْدَقَ حَوْلَهُ (TA) He<br>\
+dug a خَنْدَق, i. e. fosse, or moat, around it. (K, *<br>\
+TA.) [In the CK the words of this art. are with<br>\
+ذ in the place of د.]<br>\
+خَنْدَقٌ A fosse, or moat, [such as is] dug around<br>\
+the walls of cities: arabicized, from كَنْدَهْ, (IDrd,<br>\
+K,) which is Persian: (IDrd:) pl. خَنَادِقُ. (TA.)<br>\
+―<br>\
+-b2-  And A valley. (TA.)<br>\
+مُخَنْدِقٌ One who makes a خَنْدَق [i. e. fosse, or<br>\
+moat]. (JK.)<br>\
+خَنْدَقُوقٌ Tall. (TA. [But perhaps this is a<br>\
+mistranscription for حَنْدَقُوقٌ, q. v.])<br>\
+' } );

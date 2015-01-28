@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>تع</em>            1                  تع<br>\
+<b>تَعْتَعَ فِى الكَلَامِ</b>               1     <br>\
+                     <i>R. Q. 1</i>        <br>\
+                     تَعْتَعَ فِى الكَلَامِ<br>\
+                     تعتع في الكلام<br>\
+                  , (Mgh, K,) inf. n. تَعْتَعَةٌ, (S, Mgh,) <i>He reiterated in speech, by reason of an impediment,</i> or <i>inability to say what he would;</i> (S, Mgh, K;) as also ↓ <br>\
+      تَتَعْتَعَ: (K:) and <i>he was unable to say what he would,</i> or <i>to find words to express what he would say:</i> (ElGhooree, Mgh:) تَعْتَعَةٌ is the <i>speech of him who is termed</i> <br>\
+                  اَلْثَغ. (TA.) And تعتع فِى القُرْا=نِ <br>\
+                  <i>He reiterated in reciting the Kur-án, and his tongue stuck fast in his doing so.</i> (TA.) ―         -b2-  تَعْتَعَتِ الدَّابَّةُ, (K,) inf. n. as above, (S,) <i>The beast stuck fast</i> in the sand, (S, K,) or soft soil, (S,) or mire: (TA:) sometimes the verb is thus used. (S.) And تعتع said of a camel &amp;amp;c. signifies <i>His feet sank</i> into the soft soil, or soft sands. (TA.)       -A2-  تَعْتَعَهُ <br>\
+                  <i>He dragged him</i> (namely another man) <i>roughly,</i> or <i>vehemently, and agitated him:</i> (S:) or <i>he shook him,</i> or <i>shook him vehemently,</i> (AA, K,) <i>backwards and forwards, and treated him roughly:</i> (AA:) <i>he shook him roughly:</i> (IDrd, K:) or <i>he compelled him against his will, in an affair, so that he became disquieted, or agitated.</i> (IF, K.) ―         -b2-  تُعْتِعَ فُلَانٌ <br>\
+                  <i>Such a one had his saying rebutted, rejected,</i> or <i>repudiated, as wrong,</i> or <i>erroneous.</i> (TA.)    </entryFree> <br>\
+<b>تَتَعْتَعَ</b>               1     <br>\
+                     <i>R. Q. 2</i>        <br>\
+                     تَتَعْتَعَ<br>\
+                     تعتع<br>\
+                     تتعتع<br>\
+                  : see R. Q. 1, first signification.    </entryFree> <br>\
+<b>تَعْتَعٌ</b>               1     <br>\
+                     تَعْتَعٌ<br>\
+                     تعتع<br>\
+                  <i>i. q.</i> <br>\
+                  فَاْفَا=ءٌ or فَاْفَاٌ [accord. to different MSS., as meaning One <i>who reiterates his words much in speaking</i>]. (AA, K.)    </entryFree> <br>\
+<b>وَقَعُوا فِى تَعَاتِعَ</b>               1     <br>\
+                     وَقَعُوا فِى تَعَاتِعَ<br>\
+                     وقعوا في تعاتع<br>\
+                  , [app. pl. of the inf. n. تَعْتَعَةٌ,] <i>They fell into convulsing perplexities, arising from evil and discordant and false rumours or the like,</i> (فى اَرَاجِيفَ, q. v.,) <i>and confusion.</i> (AA, S, K.)    </entryFree> <br>\
+<b>مُتَعْتَعٌ</b>               1     <br>\
+                     مُتَعْتَعٌ<br>\
+                     متعتع<br>\
+                  <i>Afflicted by an injury which disquiets</i> or <i>agitates.</i> (TA, from a trad.)   </entryFree> <br>\
+' } );

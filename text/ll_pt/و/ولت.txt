@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>ولت</em>            1                  ولت<br>\
+<b>وَلَتَهُ حَقَهُ</b>               1     <br>\
+                     وَلَتَهُ حَقَهُ<br>\
+                     ذ<br>\
+                  , aor. يَلِتُ, inf. n. وَلْتٌ; and ↓ <br>\
+      اولتهُ; <i>He diminished unto him his due,</i> or <i>right;</i> [or <i>defrauded him of part thereof</i>]: (K:) as also لَاتَهُ, and اَلَتَهُ, or اَلِتَهُ. (TA.)    </entryFree> <br>\
+                     اَوْلَتَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

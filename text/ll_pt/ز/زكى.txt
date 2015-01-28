@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>زكى</em>            1                  زكى<br>\
+<b>زَكِىَ</b>               1     <br>\
+                     زَكِىَ<br>\
+                     ذ<br>\
+                  , (K,) aor. يَزْكَى, inf. n. زَكَاةٌ, <i>i. q.</i> <br>\
+                  زَكَا, aor. يَزْكُو, as meaning <i>It increased,</i> or <i>augmented;</i> (Lh, ISd, K, * TA;) and <i>produced fruit:</i> (TA:) and ↓ <br>\
+      تزكّى signifies the same. (K.)       -A2-  Also <i>He thirsted.</i> (Th, K.)    </entryFree> <br>\
+                     تَزَكَّىَ<br>\
+                   see above; and see art. زكو.    </entryFree> <br>\
+<b>زَكِىٌّ</b>               1     <br>\
+                     زَكِىٌّ<br>\
+                     ذ<br>\
+                  : see art. زكو.   </entryFree> <br>\
+' } );

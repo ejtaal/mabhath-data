@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ثفاً&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ثفاً<br>\
+&lt;entryFree id=&quot;n4479&quot; key=&quot;ثُفَّا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ثُفَّا=ءٌ<br>\
+                     ثفا=ء<br>\
+                  &lt;/form&gt;, (T, Jm, S, M, K,) of the measure فُعَّالٌ, (S,) or ثُفَا=ءٌ, (Mgh, Msb,) of the measure of غُرَابٌ, (Msb,) [a coll. gen. n.,] i &lt;i&gt;q.&lt;/i&gt; <br>\
+                  خَرْدَلٌ [i. e. &lt;i&gt;Mustard&lt;/i&gt;]; (S, M, K;) in the dial. of the people of El-Ghowr: (M:) or خَرْدَل <br>\
+                  &lt;i&gt;worked together,&lt;/i&gt; or &lt;i&gt;mixed up,&lt;/i&gt; or &lt;i&gt;compounded,&lt;/i&gt; (مُعَالَجٌ), &lt;i&gt;with&lt;/i&gt; <br>\
+                  صِبَاغ [i. e. &lt;i&gt;sauce,&lt;/i&gt; or &lt;i&gt;fluid seasoning&lt;/i&gt;]: (M, Mgh:) or &lt;i&gt;what is called&lt;/i&gt; <br>\
+                  حُرْفٌ (S, M, K, TA) &lt;i&gt;in the dial. of the people of El-Ghowr,&lt;/i&gt; (TA,) or, (M,) which is the same thing, (TA,) &lt;i&gt;what is called&lt;/i&gt; <br>\
+                  حَبُّ الرَّشَادِ (M, Mgh, Msb, TA) &lt;i&gt;in the dial of the people of El-&#39;Irák,&lt;/i&gt; (TA,) &lt;i&gt;which is eaten in case of necessity:&lt;/i&gt; (Msb: [see art. رشد:]) n. un. with ة: (S, M, K:) the ء may be original, or it may be substituted for ى or و: (M:) Sgh says, in the O, that he thinks the latter to be the case. (TA.) It is said in a trad., مَا ذَا فِى الاَمَرَّيْنِ مِنَ الشِّفَا=ءِ الصَّبِرِ وَالثُّفَّا=ءَ [&lt;i&gt;What remedy is there in the two most bitter things, aloes and the&lt;/i&gt; <br>\
+                  ثفّا=ء?]. (T, Mgh: but in the latter, the last word is without teshdeed to the ف.)   &lt;/entryFree&gt; <br>\
+' } );

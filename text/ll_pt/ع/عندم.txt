@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>عندم</em>            1                  عندم<br>\
+<b>عَنْدَمٌ</b>               1     <br>\
+                     عَنْدَمٌ<br>\
+                     ذ<br>\
+                  <i>Brazil-wood;</i> syn. بَقَّمٌ: or [the <i>red, resinous, inspissated juice called</i>] دَمُ الاَخَوَيْنِ: (S, K, the former in art. عدم:) mentioned in a verse cited voce اَعَزُّ: (S, TA:) and said to be <i>i. q.</i> <br>\
+                  اَيْدَعٌ [to which are assigned both of the meanings mentioned above, and others also]: or دَمُ الغَزَالِ [said to be the same as دَمُ الاخَوَيْنِ, and said to be <i>a plant resembling the tarragon,</i>] <i>with bark of the</i> [<i>tree called</i>] اَرْطَى, <i>cooked together until the whole becomes thick, and then the girls,</i> or <i>young women, dye their hands with it:</i> As says that it is <i>a certain dye, with which, accord. to the assertion of the people of El-Bahreyn, their girls,</i> or <i>young women, tinge their hands:</i> AA says that it is <i>a species of red trees.</i> (TA.)   </entryFree> <br>\
+' } );

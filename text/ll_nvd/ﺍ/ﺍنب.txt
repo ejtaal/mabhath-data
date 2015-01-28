@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'انب2<br>\
+أنّبهُ, inf. n. تَأْنِيبٌ, He blamed, reproved,<br>\
+reprehended, chid, or reproached, him: (S, M,<br>\
+A, K:) or he did so severely, or angrily: (ISk,<br>\
+T, S, M, A, K:) or, with the utmost severity or<br>\
+harshness: (T, M, TA:) or he repulsed him,<br>\
+meaning a person who asked something of him,<br>\
+in the most abominable manner. (M, * K, * TA.)<br>\
+أُنْبُوبٌ An internodal portion, or the portion<br>\
+between any two joints, or knots, of a cane, or<br>\
+reed, and of a spear-shaft: (T:) [and] a spear,<br>\
+or lance: pl. أَنَابِيبُ: mentioned in this art. [in<br>\
+the T, and] by Ibn-El-Mukarram [in the L].<br>\
+(TA.) [See also art. نب.]<br>\
+' } );

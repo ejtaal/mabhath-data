@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>هوم</em>            1                  هوم<br>\
+<b>هَوَّمَ</b>               1     <br>\
+                     هَوَّمَ<br>\
+                     ذ<br>\
+                  <i>He slept.</i> (TA, voce نَامَ.)    </entryFree> <br>\
+<b>هَامَهٌ</b>               1     <br>\
+                     هَامَهٌ<br>\
+                     ذ<br>\
+                   The <i>head:</i> (S, K:) or the <i>part between the two edges of the head:</i> or the <i>middle,</i> and <i>main part, of the head,</i> [see قَرْنٌ, and صَدًى, in several places,] of anything: (TA:) or the <i>upper part of the head, in which are the</i> <br>\
+                  نَاصِيَة <br>\
+                  <i>and the</i> <br>\
+                  قُصَّه, <i>which mean the fore part of the hair of the forehead; in it is the</i> <br>\
+                  مفرق, <i>which is the</i> <br>\
+                  فرق <br>\
+                  <i>of the head, between the two sides, extending to the</i> <br>\
+                  دَايَرَة. (AZ, TA.) See also two explanations voce جُمْجَمَةٌ. ―         -b2-  هَامَةٌ The <i>crown, or top, of the head.</i> See قَمَحْدُوَةٌ, and اِعْتَجَرَ. ―         -b3-  هَامٌ meaning <i>Headmen,</i> or <i>chiefs:</i> see a verse cited in art. غلصم. ―         -b4-  بَنَاتُ الهَامِ <br>\
+                  <i>The marrow of the brain.</i> (TA.) ―         -b5-  اُمُّ الهَامِ (K in art. دمغ) app. <i>i. q.</i> <br>\
+                  اُمُّ الرَّاْسِ and اْمُّ الدِّمَاغِ: see اُمٌّ and دِماَغٌ. ―         -b6-  هَامَةٌ <br>\
+                  <i>An owl: a certain night-bird,</i> (S, K,) <i>that frequents the burial-places, of small size,</i> (TA,) <i>i. q.</i> <br>\
+                  صَدًى: (S, K:) or <i>i. q.</i> <br>\
+                  بُومَةٌ: (TA:) pl. [or coll. gen. n.] هَامٌ. (S.) See بُومٌ; and see also اَحَرَّ.   </entryFree> <br>\
+' } );

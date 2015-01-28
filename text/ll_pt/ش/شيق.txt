@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>شيق</em>            1                  شيق<br>\
+<b>شِقْتُ الطُّنُبَ اـِلَى الوَتِدِ</b>               1     <br>\
+                     شِقْتُ الطُّنُبَ اـِلَى الوَتِدِ<br>\
+                     ذ<br>\
+                  , (S,) inf. n. شَيْقٌ, (TA,) is like نُطْتُهُ. (S.) [See 1 (last sentence but one) in art. شوق.]     <br>\
+<b>شِيقٌ</b>               1     <br>\
+                     شِيقٌ<br>\
+                     ذ<br>\
+                  <i>A mountain:</i> (IAar, S:) or the <i>highest part of a mountain:</i> (Skr, O, K:) or <i>a part that is even,</i> (Lth, O, K,) <i>and small in breadth, in the face of a mountain, resembling a wall,</i> (فِى <br>\
+                  لِهْبِ جَبَلٍ,) (Lth, O,) <i>that cannot be ascended:</i> (Lth, O, K: *) or the <i>most difficult place in a mountain.</i> (S, O, K.) A poet says, cited as using it in the last sense, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        شَغْوَا=ءُ تَوطِنُ بَيْنَ الشِّيقِ وَالنِّيقِ<br>\
+                  </quote> [<i>An eagle dwelling between the most difficult place in a mountain and the highest part thereof</i>]. (S, O.) See also a verse of Aboo-Dhu-eyb cited voce خَافَةٌ, in art. خوف. ―         -b2-  <i>A long,</i> or <i>tall, mountain;</i> (جَبَلٌ طَوِيلٌ;) (K;) thus accord. to some in the verse of Aboo-Dhu-eyb. (TA.) ―         -b3-  And accord. to some, it signifies in that verse (TA) <i>A narrow cleft in a mountain:</i> or <i>in the head thereof:</i> or <i>a cleft between two rocks.</i> (K, TA.) ―         -b4-  <i>A side;</i> syn. جَانِبٌ. (Skr, O, K.) One says, اِمْتَلاَ مِنَ الشِّيقِ اـِلَى الشِّيقِ <br>\
+                  <i>It became filled from side to side.</i> (TA.)       -A2-  The <i>head</i> [or <i>glans</i>] <i>of the penis.</i> (IAar, O, K.)       -A3-  The <i>hair of a horse&#39;s tail:</i> n. un. with ة. (IAar, O, K.)       -A4-  <i>A species of fish.</i> (IAar, O, K.) ―         -b2-  The <i>aquatic bird</i> [or rather <i>birds</i>] <i>called</i> <br>\
+                  بُرَك [pl. of بُرْكَةٌ, q. v.]: (K:) n. un. with ة. (TA. [In the K, شِيقَةٌ is mentioned in another place as meaning <i>a certain aquatic bird:</i> and in the O as meaning <i>a species of aquatic birds.</i>])       -A5-  And accord. to Ibn- &#39;Abbád, <i>i. q.</i> <br>\
+                  كِتَابٌ [<i>A writing,</i> or <i>book,</i> &amp;amp;c.]. (O.)       -A6-  See also art. شوق.    </entryFree> <br>\
+<b>شِيَاقٌ</b>               1     <br>\
+                     شِيَاقٌ<br>\
+                     ذ<br>\
+                  : see art. شوق.    </entryFree> <br>\
+<b>شَيِّقٌ</b>               1     <br>\
+                     شَيِّقٌ<br>\
+                     ذ<br>\
+                  : see art. شوق.   </entryFree> <br>\
+' } );

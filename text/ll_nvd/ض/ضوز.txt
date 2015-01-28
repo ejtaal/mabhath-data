@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'ضوز1<br>\
+ضَازَهُ حَقَّهُ, aor. يَضُوزُهُ, i. q. ضَازَهُ, aor. يَضِيزُهُ:<br>\
+see art. ضيز. (K.) You say also ضَازَنِى, aor.<br>\
+يَضُوزُنِى, meaning نَقَصَنِى [He made me to suffer<br>\
+loss]. (Kr, M, TA.)<br>\
+-A2-  And ضَازَ, aor. يَضُوزُ is<br>\
+also [intrans.] like ضَأَزَ, q. v. (TA in art. ضأز.)<br>\
+قِسْمَةٌ ضُوزَى i. q. ضِيزَى: see art. ضيز. (M,<br>\
+TA. *)<br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>جيم</em>            1                  جيم<br>\
+<b>جيّم جِيمًا</b>               1     <br>\
+                     جيّم جِيمًا<br>\
+                     جيم جيما<br>\
+                  <i>He wrote a</i> <br>\
+                  ج. (K.)    </entryFree> <br>\
+<b>جِيمٌ</b>               1     <br>\
+                     جِيمٌ<br>\
+                     جيم<br>\
+                   The <i>letter</i> <br>\
+                  ج: masc. and fem.: (T, K, * TA:) pl. اَجْيَامٌ and جِيمَاتٌ. (TA.) Quasi   </entryFree> <br>\
+' } );

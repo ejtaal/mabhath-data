@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>نفل</em>            1                  نفل<br>\
+<b>نَفَّلَهُ</b>               1     <br>\
+                     نَفَّلَهُ<br>\
+                     ذ<br>\
+                  , inf. n. تَنْفِيلٌ, <i>He gave him spoil,</i> (S, Msb, * K,) and <i>a free and disinterested gift.</i> (Msb, K.) And it is doubly trans.: see 2 in art. غنم.    </entryFree> <br>\
+<b>نَفَلٌ</b>               1     <br>\
+                     نَفَلٌ<br>\
+                     ذ<br>\
+                  <i>Trifolium melilatus indica</i> of Linn.: and <i>medicago intertexta</i> of Linn. (Delile, nos. 706, 730.) ―         -b2-  نَفَلٌ: see غَنِيَمَةٌ.    </entryFree> <br>\
+<b>نُفَلٌ</b>               1     <br>\
+                     نُفَلٌ<br>\
+                     ذ<br>\
+                  : see تُسَعٌ.    </entryFree> <br>\
+<b>نَافِلَةٌ</b>               1     <br>\
+                     نَافِلَةٌ<br>\
+                     ذ<br>\
+                  : the pl. نَوَافِلُ, is explained in the TA, art. حرز, by زَوَايِدُ [<i>Accessions,</i> or <i>additions</i>]. ―         -b2-  <i>What accedes to,</i> or <i>exceeds, the original.</i> (T.) <i>A voluntary gift, by way of alms,</i> or <i>as a good work:</i> (T:) <i>a gift:</i> (K:) or <i>a gift</i> <br>\
+                  عَنْ يَدٍ: (M:) <i>a deed beyond what is incumbent,</i> or <i>obligatory.</i> (M, K.) ―         -b3-  نَافِلَةٌ <br>\
+                  <i>Supererogatory prayer.</i> (S, Msb.) See تَطَوَّعَ.   </entryFree> <br>\
+' } );

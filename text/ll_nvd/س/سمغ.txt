@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'سمغالسَّامِغَانِ The two sides of the mouth, beneath<br>\
+the two extremities of the mustache, on the right<br>\
+and left; a dial. var. of الصَّامِغَانِ [q. v.].<br>\
+(IDrd, K.)<br>\
+' } );

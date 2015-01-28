@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'وعلوَعِْلٌ<br>\
+A mountain-goat: (K, &amp;c.:) see ثَيَنَلٌ;<br>\
+also أَلْبٌ; and أَرْوِيَّةٌ and شَهْرٌ.<br>\
+وُعُولٌ<br>\
+as meaning Noble persons: and strong<br>\
+men: see two exs. voce تَحْت.<br>\
+' } );

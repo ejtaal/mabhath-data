@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'هذلمQ. 1<br>\
+هَذْلَمَ, inf. n. هَذْلَمَةٌ, He was light, or<br>\
+active, and quick. (K.) But IDrd and others<br>\
+assert it to be a word mispronounced for هَذْرَم.<br>\
+(MF.)<br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_nvd', text: 'لذب1<br>\
+لَذَبَ, aor.<br>\
+لَذُبَ, inf. n. لُذُوبٌ; and ↓ لَاذَبَ; He<br>\
+remained, stayed, abode, or dwelt, in a place:<br>\
+(K:) or correctly written with د, unpointed:<br>\
+but IDrd doubts whether correctly with ذ or<br>\
+with د. (TA.) See also لَزَبَ.<br>\
+3<br>\
+لَاْذَبَ see 1.<br>\
+لذع لذم لذى<br>\
+See Supplement<br>\
+' } );

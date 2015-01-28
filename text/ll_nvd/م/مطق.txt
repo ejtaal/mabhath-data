@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'مطق5<br>\
+تَمَطَّقَ<br>\
+He tasted repeatedly, or smacked<br>\
+his lips: see two explanations of this verb voce<br>\
+لَمَظَ.<br>\
+' } );

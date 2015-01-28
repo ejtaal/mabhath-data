@@ -1,0 +1,55 @@
+load_data( { book: 'll_pt', text: '<em>صيب</em>            1                  صيب<br>\
+<b>صَابَ</b>               1     <br>\
+                     صَابَ<br>\
+                     ذ<br>\
+                   aor. يَصِيبُ, (S, M, Msb, K,) inf. n. صَيْبٌ, (S, Msb, K,) said of an arrow, (S, M, Msb,) <i>i. q.</i> <br>\
+                  اَصَابَ [expl. in art. صوب]; (S, * M, Msb, K;) like صاب having for its aor. يَصُوبُ. (S, M, Msb.)    </entryFree> <br>\
+<b>صَيْبَانٌ</b>               1     <br>\
+                     صَيْبَانٌ<br>\
+                     ذ<br>\
+                  : see صَوْبٌ, in art. صوب.    </entryFree> <br>\
+<b>صُيَابٌ</b>               1     <br>\
+                     صُيَابٌ<br>\
+                     ذ<br>\
+                  : see صُيَّابَةٌ.    </entryFree> <br>\
+<b>صَيُوبٌ</b>               1     <br>\
+                     صَيُوبٌ<br>\
+                     ذ<br>\
+                   An arrow <i>going right,</i> or <i>hitting the mark:</i> pl. صُيُبٌ (M, K) and صِيَابٌ, (MF, TA,) or the latter is pl. of صَايِبٌ, which signifies the same. (M, in art. صوب.)    </entryFree> <br>\
+<b>صُيَابَةٌ</b>               1     <br>\
+                     صُيَابَةٌ<br>\
+                     ذ<br>\
+                  : see صُيَّابَةٌ.    </entryFree> <br>\
+<b>صَيِّبٌ</b>               1     <br>\
+                     صَيِّبٌ<br>\
+                     ذ<br>\
+                  : see art. صوب.    </entryFree> <br>\
+<b>صُيَّابٌ</b>               1     <br>\
+                     صُيَّابٌ<br>\
+                     ذ<br>\
+                  : see صُيَّابَةٌ, in four places.    </entryFree> <br>\
+<b>صَيُّوبٌ</b>               1     <br>\
+                     صَيُّوبٌ<br>\
+                     ذ<br>\
+                  : see art. صوب.    </entryFree> <br>\
+<b>صُبَّابَةٌ</b>               1     <br>\
+                     صُبَّابَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      صُيَّابٌ (M, A, K) and ↓ <br>\
+      صُبَابَةٌ and ↓ <br>\
+      صُيَابٌ (A, K) The اَصْل (M, A, K) [as meaning the <i>original stock</i>] of a people, (M,) or [as meaning the <i>original,</i> or the <i>principal,</i> or <i>most essential, part,</i>] of a thing: (A, K:) and the <i>purest,</i> or <i>choice,</i> or <i>best, part</i> or <i>portion,</i> (M, *  A, K,) of a thing (M, K) of any kind, (M,) or of a people. (A.) One says, هُوَ فِى صُيَّابَةِ قَوْمِهِ and ↓ <br>\
+      صُيَّابِهِمْ <br>\
+                  <i>He is of the</i> <br>\
+                  اَصْل [or <i>original stock</i>] <i>of his people:</i> (Fr, TA:) and مِنْ صُيَّابَةِ قَوْمِهِ and صُوَّابَةِ قومه (TA) and ↓ <br>\
+      مِنْ صُيَّابِهِمْ (A) <i>of the purest in race of his people.</i> (A, * TA.) And ↓ <br>\
+      قَوْمٌ صُيَّابٌ <br>\
+                  <i>A choice,</i> or <i>an excellent, people.</i> (TA.) ―         -b2-  Also the first, The <i>collective body</i> of a people; (Kr, M;) and so صُوَّابَةٌ. (M in art. صوب.) ―         -b3-  And <i>A lord, master,</i> or <i>chief.</i> (M, K.)   </entryFree> <br>\
+            <div2 n=&quot;Quasi Syt&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi صيت<br>\
+<b>صِيتٌ</b>               1     <br>\
+                     صِيتٌ<br>\
+                     ذ<br>\
+                   and صِيتَةٌ: and صَيِّتٌ: see art. صوت.   </entryFree> <br>\
+' } );

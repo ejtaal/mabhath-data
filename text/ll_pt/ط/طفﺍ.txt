@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;طفا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  طفا<br>\
+&lt;entryFree id=&quot;n26805&quot; key=&quot;طَفِيَتِ النَّارُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     طَفِيَتِ النَّارُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     طَفَاَ<br>\
+                  &lt;/form&gt;, inf. n. طُفُوْءٌ (S, Msb, K) and طَفَاٌ; (TA;) and ↓ <br>\
+      انطفات; (S, K;) &lt;i&gt;The fire became extinguished,&lt;/i&gt; or &lt;i&gt;quenched:&lt;/i&gt; (Msb:) or &lt;i&gt;ceased to flame:&lt;/i&gt; (K, TA:) [or rather, &lt;i&gt;ceased to flame and its live coals became cool;&lt;/i&gt; for] when the flame of the fire has become allayed but its coals still burn, it is said to be خَامِدَة; and when its flame is extinct and its coals have become cool, it is said to be هَامِدَة and ↓ <br>\
+      طَافِيَة. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26806&quot; key=&quot;اطفا النَّارَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اطفا النَّارَ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He extinguished,&lt;/i&gt; or &lt;i&gt;quenched, the fire.&lt;/i&gt; (S, * Msb, K, * TA.) Hence, اطفا الحَرْبَ (tropical:)  &lt;i&gt;He extinguished the fire of the war.&lt;/i&gt; (TA.) And اَطْفَاْتُ الفِتْنَةَ (tropical:)  &lt;i&gt;I allayed the sedition,&lt;/i&gt; or &lt;i&gt;conflict and faction,&lt;/i&gt; or &lt;i&gt;the like.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;7&lt;/itype&gt;        <br>\
+                     اـِنْطَفَاَ<br>\
+                  &lt;/form&gt; see the first paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26807&quot; key=&quot;نَارٌ طَافِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَارٌ طَافِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Fire becoming,&lt;/i&gt; or &lt;i&gt;become, extinguished&lt;/i&gt;]: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26808&quot; key=&quot;مُطْفِيُ الجَمْرِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُطْفِيُ الجَمْرِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;The extinguisher of the live coals;&lt;/i&gt;] &lt;i&gt;one of the&lt;/i&gt; [&lt;i&gt;seven&lt;/i&gt;] &lt;i&gt;days called&lt;/i&gt; <br>\
+                  اَيَّامُ العَجُوزِ; (S, O;) &lt;i&gt;the fifth of those days;&lt;/i&gt; (K;) so in the M &amp;amp;c.: (TA:) or &lt;i&gt;the fourth thereof:&lt;/i&gt; (O, K:) or &lt;i&gt;the last thereof.&lt;/i&gt; (Har p. 295.) [Accord. to modern Egyptian almanacs, it is the fourth of those days on which the last of the three جَمَرَات becomes extinct: see جَمْرَةٌ: and see also عَجُوزٌ] ―         -b2-  مُطْفِيَةُ الرَّضْفِ (so in the M and O and L and in some copies of the K, in other copies of the K مُطْفِيُ, TA) &lt;i&gt;A piece of fat which, when it falls upon the&lt;/i&gt; <br>\
+                  رَضْف [or &lt;i&gt;heated stones&lt;/i&gt;], &lt;i&gt;melts, and quenches them.&lt;/i&gt; (Lth, O, K.) And in the M and L, it is said to signify &lt;i&gt;A lean sheep&lt;/i&gt; or &lt;i&gt;goat:&lt;/i&gt; the Arabs, as is related by Lh, used to say, حَدَسَ لَهُمْ <br>\
+                  بِمُطْفِيَةِ الرَّضْفِ (TA) i. e. &lt;i&gt;He slaughtered for them a lean sheep&lt;/i&gt; or &lt;i&gt;goat, which extinguished the fire and did not become thoroughly cooked:&lt;/i&gt; (M and L and K in art. حدس:) or &lt;i&gt;a fat sheep&lt;/i&gt; or &lt;i&gt;goat,&lt;/i&gt; (AO &lt;pb n=&quot;1859&quot; TEIform=&quot;pb&quot;/&gt; and T, TA in that art.,) &lt;i&gt;which quenched the&lt;/i&gt; <br>\
+                  رَضْف <br>\
+                  &lt;i&gt;by its fat.&lt;/i&gt; (T, TA ibid. [See also دَمَغَ.]) ―         -b3-  Also &lt;i&gt;A serpent, the poison of which, as it passes by the&lt;/i&gt; <br>\
+                  رَضْف, &lt;i&gt;extinguishes their fire:&lt;/i&gt; (O, K:) in a verse of El-Kumeyt, [for the sake of the metre,] the former word is [altered to] ↓ <br>\
+      مُطَفِّيَة. (O.) ―         -b4-  And (tropical:)  &lt;i&gt;A calamity,&lt;/i&gt; or &lt;i&gt;misfortune:&lt;/i&gt; (O, K, TA:) said by AO to mean originally &lt;i&gt;such as has made one to forget that which was before it, and extinguished its heat.&lt;/i&gt; (O, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n26809&quot; key=&quot;مُطَفِّيَةُ الرَّضْفِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُطَفِّيَةُ الرَّضْفِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.   &lt;/entryFree&gt; <br>\
+' } );

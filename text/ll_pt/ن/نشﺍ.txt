@@ -1,0 +1,122 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نشا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نشا<br>\
+&lt;entryFree id=&quot;n39758&quot; key=&quot;نَشَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَشَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَشَاَ<br>\
+                  &lt;/form&gt;; and نَشُوَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَشُاَ<br>\
+                  &lt;/form&gt;; inf. n. نَشْءٌ and نُشُوْءٌ and نَشَا=ءٌ and نَشْاَةٌ and نَشَا=ءَةٌ; &lt;i&gt;He lived;&lt;/i&gt; (K;) &lt;i&gt;and&lt;/i&gt; (accord. to Sh) &lt;i&gt;he rose,&lt;/i&gt; or &lt;i&gt;became elevated,&lt;/i&gt; or &lt;i&gt;high.&lt;/i&gt; (TA.) ―         -b2-  [&lt;i&gt;It rose.&lt;/i&gt;] ―         -b3-  النَّشْاَةُ <br>\
+                  الاُخْرَى, or النَّشَا=ءَةُ, [Kur, liii. 48,] &lt;i&gt;The resurrection:&lt;/i&gt; [lit., &lt;i&gt;the other life&lt;/i&gt;]. (TA.) ―         -b4-  النَّشْاَةُ <br>\
+                  الا=خِرَةُ, or النَّشَا=ءَةُ, [Kur, xxix. 19, &lt;i&gt;the same:&lt;/i&gt; lit., &lt;i&gt;the latter life&lt;/i&gt;]. (TA.) [See also نَشْاَةٌ below.] ―         -b5-  نَشَاَ, (S, K,) inf. n. نَشْءٌ and نَشَا=ءٌ (TA) and نُشُوْءٌ; (S;) &lt;i&gt;He grew up,&lt;/i&gt; (K,) and &lt;i&gt;became a youth,&lt;/i&gt; or &lt;i&gt;young man.&lt;/i&gt; (S, K.) [See نَاشِيٌ.] ―         -b6-  نَشَاْتُ فِى بَنِى <br>\
+                  فُلَانٍ, (S,) and مَنْشَيِى فى بنى فلان, (TA.) &lt;i&gt;I grew up, and became a young man, among the sons of such a one.&lt;/i&gt; (S, TA.) ―         -b7-  نَشَاَ, (S, K,) inf. n. نَشْءٌ and نُشُوْءٌ, (TA,) &lt;i&gt;It&lt;/i&gt; (a cloud) &lt;i&gt;rose,&lt;/i&gt; (S, K,) &lt;i&gt;and appeared:&lt;/i&gt; said of its first begin- &lt;pb n=&quot;2791&quot; TEIform=&quot;pb&quot;/&gt; ning. (TA.) ―         -b8-  نَشَاَ <br>\
+                  &lt;i&gt;He arose.&lt;/i&gt; (TA.) ―         -b9-  [&lt;i&gt;It became produced; it originated;&lt;/i&gt; <br>\
+                  عَنْ <br>\
+                  &lt;i&gt;from&lt;/i&gt; another thing. See 4.] ―         -b10-  &lt;i&gt;It happened, occurred,&lt;/i&gt; or &lt;i&gt;came to pass.&lt;/i&gt; (TA.) ―         -b11-  نَشَاَ لَهُ رَاْىٌ [&lt;i&gt;An opinion occurred to him,&lt;/i&gt; or &lt;i&gt;arose in his mind&lt;/i&gt;]. (S, K, art. بدو.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39759&quot; key=&quot;نُشِّيَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     نُشِّيَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اُنْشِيَ are syn., (S, K,) [signifying &lt;i&gt;He was reared, made to grow,&lt;/i&gt; or &lt;i&gt;grow up, and to become a young man.&lt;/i&gt;] See 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39760&quot; key=&quot;انشا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     انشا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He&lt;/i&gt; (i. e. God) &lt;i&gt;raised&lt;/i&gt; the clouds. (S, K.) ―         -b2-  انشا عَلَمًا <br>\
+                  &lt;i&gt;He set up a beacon,&lt;/i&gt; or &lt;i&gt;sign of the way,&lt;/i&gt; in a desert or highway: (TA:) and so عَلَمًا ↓ <br>\
+      استنشا <br>\
+                  &lt;i&gt;He set up a beacon,&lt;/i&gt; or &lt;i&gt;sign of the way.&lt;/i&gt; (A.) ―         -b3-  انشاهُ, inf. n. اـِنْشَا=ءٌ, &lt;i&gt;He&lt;/i&gt; (i. e. God) &lt;i&gt;caused him to attain the age of manhood,&lt;/i&gt; or &lt;i&gt;nearly that age.&lt;/i&gt; (TA.) See 2. ―         -b4-  انشا and ↓ <br>\
+      نشا [so TA: app. نشّا:] &lt;i&gt;He&lt;/i&gt; (i. e. God) &lt;i&gt;created; produced; originated.&lt;/i&gt; (S.) انشا اللّٰهُ <br>\
+                  الخَلْقَ <br>\
+                  &lt;i&gt;God originated the creation.&lt;/i&gt; (TA.) ―         -b5-  اَنْشَاْتُهُ <br>\
+                  &lt;i&gt;I originated it; brought it into being&lt;/i&gt; or &lt;i&gt;existence; made it,&lt;/i&gt; or &lt;i&gt;produced it, for the first time, it not having been before.&lt;/i&gt; (Msb.) ―         -b6-  انشا <br>\
+                  &lt;i&gt;He founded&lt;/i&gt; or &lt;i&gt;began to build,&lt;/i&gt; a house [&amp;amp;c.]. (K.) ―         -b7-  &lt;i&gt;He framed&lt;/i&gt; or &lt;i&gt;constructed,&lt;/i&gt; a proverb, or phrase. (TA.) ―         -b8-  &lt;i&gt;He composed&lt;/i&gt; language [such as an ode or the like]. (TA.) ―         -b9-  &lt;i&gt;He recited&lt;/i&gt; poetry, or a خُطْبَة, &lt;i&gt;well.&lt;/i&gt; (IAar.) ―         -b10-  &lt;i&gt;He forged a tradition,&lt;/i&gt; (S, K,) &lt;i&gt;and attributed&lt;/i&gt; it [to the Prophet]. (Lth) ―         -b11-  انشا, followed by an aor., &lt;i&gt;He began&lt;/i&gt; (S, K) to relate, (K,) or say, (TA,) or do. (S.)       -A2-  انشا مِنْهُ <br>\
+                  &lt;i&gt;He went forth from it.&lt;/i&gt; (K.) Ex. مِنْ اَيْنَ اَنْشَاْتَ, &lt;i&gt;Whence hast thou come forth?&lt;/i&gt; (TA.)       -A3-  انشات النَّاقَةُ <br>\
+                  &lt;i&gt;The she-camel conceived:&lt;/i&gt; (K:) of the dial. of Hudheyl. (TA.)       -A4-  انشا عَلَيْهِ <br>\
+                  &lt;i&gt;He came to, advanced to,&lt;/i&gt; or &lt;i&gt;approached him&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39761&quot; key=&quot;تنشّا لِحَاجَتِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تنشّا لِحَاجَتِهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He rose and went to accomplish his affair,&lt;/i&gt; or &lt;i&gt;business.&lt;/i&gt; (AA, K.) ―         -b2-  تنشّا <br>\
+                  عَادِيًا <br>\
+                  &lt;i&gt;He arose and went running to accomplish his affair.&lt;/i&gt; (AA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَنْشَاَ<br>\
+                  &lt;/form&gt; see 4.       -A2-  يَسْتَنْشِيُ الرِّيحَ <br>\
+                  &lt;i&gt;He scents the wind:&lt;/i&gt; said of a wolf: (ISk, S:) and استنشا <br>\
+                  الاَخْبَارَ <br>\
+                  &lt;i&gt;He sought,&lt;/i&gt; or &lt;i&gt;searched after, news:&lt;/i&gt; (K, TA:) in both instances, with and without ء; (S, * L;) being derived from نَشِيتُ الرِّيحَ (S, L) and رَجُلٌ نَشْيَانُ لِلْخَبَرِ: [see also مُسْتَنْشِيَة.] (L.)       -A3-  اـِسْتَنْشَاْتُهُ قَصِيدَةً [&lt;i&gt;I requested him to compose,&lt;/i&gt; or, perhaps, &lt;i&gt;to recite an ode,&lt;/i&gt; or &lt;i&gt;the like&lt;/i&gt;]. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39762&quot; key=&quot;نَشْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَشْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      نَشِىْءٌ <br>\
+                  &lt;i&gt;Risen clouds:&lt;/i&gt; (K:) or the &lt;i&gt;first that rises of them:&lt;/i&gt; (S, K:) or their &lt;i&gt;first appearance:&lt;/i&gt; (ex. لِهٰذَا السَّحَابِ نَشْءٌ حَسَنٌ <br>\
+                  &lt;i&gt;These clouds have a good first appearance:&lt;/i&gt;) or &lt;i&gt;clouds when they appear like a piece of drapery&lt;/i&gt; (مُلَا=ءَة) &lt;i&gt;spread out.&lt;/i&gt; (TA.) ―         -b2-  نَشْءٌ The &lt;i&gt;exhalation,&lt;/i&gt; or &lt;i&gt;odour, of wine.&lt;/i&gt; (IAar.) [See 10.] ―         -b3-  See نَاشِيٌ. ―         -b4-  Also, The &lt;i&gt;young ones of camels:&lt;/i&gt; (Kr, K:) pl. [or rather quasi-pl. n.] نَشَاٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39763&quot; key=&quot;نَشْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَشْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      نَشَا=ءَةٌ <br>\
+                  &lt;i&gt;A creation; an original production.&lt;/i&gt; (Aboo-&#39;Amr Ibn-El-&#39;Ala, S) [See also 1.] ―         -b2-  See نَشِيْيَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39764&quot; key=&quot;نَشَا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَشَا=ءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39765&quot; key=&quot;نَشِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَشِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see نَشْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39766&quot; key=&quot;نَشِيْيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَشِيْيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;first part that is made of a tank,&lt;/i&gt; or &lt;i&gt;cistern.&lt;/i&gt; (ISk, S, K.) ―         -b2-  بَادِى النّشيْية A tank, or cistern, &lt;i&gt;of which the water is dried up, and the bottom apparent.&lt;/i&gt; (S.) ―         -b3-  Also, نشيية The &lt;i&gt;stone that is placed in the bottom of a tank,&lt;/i&gt; or &lt;i&gt;cistern.&lt;/i&gt; (A&#39;Obeyd, S, K.) ―         -b4-  The &lt;i&gt;earth that is behind the&lt;/i&gt; <br>\
+                  نَصَايِب, (K,) &lt;i&gt;which are the stones that are set up around the tank, the interstices between which stones are filled up with kneaded clay:&lt;/i&gt; (TA:) or it is said to signify &lt;i&gt;what is constructed round the tank;&lt;/i&gt; also called اَعْضَادٌ. (TA.) ―         -b5-  نشييةُ البِيْرِ <br>\
+                  &lt;i&gt;The earth that is taken forth from the well.&lt;/i&gt; (TA.) ―         -b6-  نَشِيْيَةٌ <br>\
+                  &lt;i&gt;What is fresh and green of the plant which is called, when dry,&lt;/i&gt; <br>\
+                  طَرِيفَةٌ. (K, * TA.) ―         -b7-  And (which is nearly as above, L,) The &lt;i&gt;plants&lt;/i&gt; <br>\
+                  نَصِىّ <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  صِلِّيَان: (L, K:) or accord. to AHn, the &lt;i&gt;plant called&lt;/i&gt; <br>\
+                  تَفِرَة, &lt;i&gt;when it has become a little thick, and high, and is yet fresh and green:&lt;/i&gt; (TA:) or, (as he says on another occasion, TA,) &lt;i&gt;what has sprung,&lt;/i&gt; or &lt;i&gt;sprouted up, of any plant, and not yet become thick;&lt;/i&gt; as also ↓ <br>\
+      نَشْاَةٌ. (K.) See نَاشِيٌ, at the end.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39767&quot; key=&quot;نَاشِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاشِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A young person past the age of puberty:&lt;/i&gt; (TA:) or &lt;i&gt;a boy&lt;/i&gt; or &lt;i&gt;girl past the age of childhood:&lt;/i&gt; (S, K:) or &lt;i&gt;a comely young man:&lt;/i&gt; (IAar:) or &lt;i&gt;a youth who has attained the stature of a man:&lt;/i&gt; (AHeyth:) a girl, as well as a boy, is called thus; (TA;) and they also say, جَارِيَةٌ نَاشِيَةٌ. (AA.) Pl. نَشْءٌ and نَشَاٌ (S, K [or these two are rather quasi-pl. ns.,] or the ↓ former is an inf. n. used as an epithet, Aboo-Moosa,) and نَاشِيُونَ (AHeyth) and نَواشِيُ: (TA:) or the last is a pl. of ناشي as applied to a girl. (MF.) Lth says that ↓ <br>\
+      نَشْءٌ signifies &lt;i&gt;Young people;&lt;/i&gt; or &lt;i&gt;youths;&lt;/i&gt; and is used in the sing. also: ex. هُوَ نَشْءُ سَوْءٍ <br>\
+                  &lt;i&gt;He is a bad youth:&lt;/i&gt; and he says that he had never heard ناشي used as an epithet for a girl. Fr says that the ء of the pl. نَشْءٌ is sometimes suppressed, and they say, in the nom. نَشُو صدْقٍ [&lt;i&gt;Excellent youths&lt;/i&gt;]; acc., نَشَا صدق; gen. نَشِى <br>\
+                  صدق. (TA.) ―         -b2-  نَاشِيٌ <br>\
+                  &lt;i&gt;Clouds not completely collected together.&lt;/i&gt; Hence, it is said, is derived the expression نَشَاَ الصَّبِىُّ; which is therefore tropical. (TA.) ―         -b3-  نَاشِيٌ <br>\
+                  &lt;i&gt;Whatever happens&lt;/i&gt; (&lt;i&gt;and,&lt;/i&gt; perhaps, &lt;i&gt;appears&lt;/i&gt; TA,) &lt;i&gt;in the night:&lt;/i&gt; pl. نَاشِيَةٌ; (K;) a strange form of pl. of a word of the measure قَاعِلٌ: (M, F:) or نَاشِيَةٌ [see Kur, lxxiii. 6,] is an inf. n. (K) in the sense of قِيَامٌ: (TA:) AM says, that ناشيةُ اللَّيْلِ signifies قيام <br>\
+                  الليل the &lt;i&gt;rising in the night:&lt;/i&gt; (TA:) or ناشية signifies the &lt;i&gt;first part&lt;/i&gt; of the night, and of the day: or the &lt;i&gt;first of the hours&lt;/i&gt; of the night: (S, K:) or &lt;i&gt;a pious act&lt;/i&gt; of the night; i. e., performed in the night: (S:) or every &lt;i&gt;hour&lt;/i&gt; of the night &lt;i&gt;in which one rises:&lt;/i&gt; (K:) or every &lt;i&gt;hour&lt;/i&gt; of the night: (Zj:) or &lt;i&gt;a rising after a sleeping,&lt;/i&gt; (K,) &lt;i&gt;in the first part&lt;/i&gt; of the night; (TA;) as also ↓ <br>\
+      نَشِيْيَةٌ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39768&quot; key=&quot;مَنْشَاٌ&quot; type=&quot;main&quot;&gt;               1[     <br>\
+                     مَنْشَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;place of origination&lt;/i&gt; of anything, properly and tropically; its &lt;i&gt;source.&lt;/i&gt;]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39769&quot; key=&quot;مُنْشَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُنْشَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مُسْتَنْشَاٌ A beacon, or sign of the way, &lt;i&gt;raised and pointed.&lt;/i&gt; (K.) [See the verbs.] ―         -b2-  Also, the former, An &lt;i&gt;elevated&lt;/i&gt; hill. ―         -b3-  الجَوَارِى المسْشَا=تُ [Kur, lv. 24,] &lt;i&gt;The ships with elevated sails:&lt;/i&gt; (Mujáhid, S, K:) or, accord. to one reading, ↓ <br>\
+      المُنْشِيَاتُ, &lt;i&gt;The ships elevating their sails:&lt;/i&gt; (TA:) or, &lt;i&gt;advancing and retiring;&lt;/i&gt; or &lt;i&gt;coming and going:&lt;/i&gt; (Fr:) or, &lt;i&gt;commencing their courses.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39770&quot; key=&quot;نَاقَةٌ مُنْشِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاقَةٌ مُنْشِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A she-camel that has conceived:&lt;/i&gt; (K:) of the dial. of Hudheyl. (TA.) ―         -b2-  See مُنْشَاٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39771&quot; key=&quot;مُسْتَنْشَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَنْشَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُنْشَاٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39772&quot; key=&quot;مُسْتَنْشِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَنْشِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) also without ء, (TA,) A &lt;i&gt;female diviner:&lt;/i&gt; (K:) so called because she seeks, or searches after, news: see the verb: or from انشا “ he originated: ” (TA:) or مُسْتَنْشِيَةُ, without tenween, is &lt;i&gt;the proper name of a certain female diviner,&lt;/i&gt; (T,) &lt;i&gt;one of the Muwelledehs&lt;/i&gt; (مُوَلَّدَات) &lt;i&gt;of Kureysh, in the time of Mohammad.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

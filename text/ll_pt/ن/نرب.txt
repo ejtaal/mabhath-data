@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>نرب</em>            1                  نرب<br>\
+<b>الرِّيحُ تُنَيْرِبُ التُّرَابَ فَوْقَهُ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     الرِّيحُ تُنَيْرِبُ التُّرَابَ فَوْقَهُ<br>\
+                     ذ<br>\
+                  , or عَلَى <br>\
+                  الاَرْضِ, (TA,) inf. n. نَيْرَبَةٌ, (TA,) <i>The wind lays the dust upon it,</i> or <i>upon the ground, in cross, wavy lines:</i> syn. تَنْسِجُهُ. (K.) Hence نَيْرَبَ الكَلَام. (TA.) ―         -b2-  It has been asserted that ن and ر do not come together in any [pure] Arabic word; and F has said the same in art. نرش; [or rather he has there said that ر does not occur in an Arabic word with ن before it;  (meaning a radical ن;)] yet he has here mentioned this word as though it were pure Arabic. So says MF. To this it may be replied, that ى is inserted to separate the ن and ر, as remarked in the L. (TA.) ―         -b3-  نَيْرَبَ <br>\
+                  <i>He forged</i> [speech, or language]: syn. نَسَجَ. (K.) You say هُوَ يُنَيْرِبُ <br>\
+                  القَوْلَ. (TA.) ―         -b4-  نَيْرَبَ <br>\
+                  <i>He mixed,</i> or <i>confounded, speech,</i> [<i>introducing what was false with that which was true</i>]. (K.) ―         -b5-  نَيْرَبَ <br>\
+                  <i>He uttered a malicious and mischievous misrepresentation, a calumny,</i> or <i>slander.</i> (K.)    </entryFree> <br>\
+<b>نَيْرَبٌ</b>               1     <br>\
+                     نَيْرَبٌ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      نَيْرَبَةٌ (as in several copies of the K, [and I am inclined to think that this is the correct reading, as it may certainly be correctly used in the sense here given, being properly an inf. n., agreeably with analogy,] or ↓ <br>\
+      مَنْرَبَةٌ (as in others, which is said in the TA to be the correct word, and to be given on the authority of AA, [but it exhibits an incongruity of letters: see 1:]) <i>Mischief; malicious and mischievous misrepresentation, calumny,</i> or <i>slander.</i> (S, K.) ―         -b2-  نَيْرَبٌ, fem. with ة; and ذُو نَيْرَبٍ; A <i>mischievous</i> man; (K;) one <i>who utters malicious and mischievous misrepresentations, calumnies,</i> or <i>slanders.</i> (TA.) ―         -b3-  نَيْرَبٌ A <i>strong man.</i> (K.)    </entryFree> <br>\
+<b>نَيْرَبَى</b>               1     <br>\
+                     نَيْرَبَى<br>\
+                     ذ<br>\
+                  <i>A calamity; a misfortune.</i> (K.)    </entryFree> <br>\
+<b>نَيْرَبَةٌ</b>               1     <br>\
+                     نَيْرَبَةٌ<br>\
+                     ذ<br>\
+                   and مَنْرَبَةٌ: see نَيْرَبٌ.   </entryFree> <br>\
+' } );

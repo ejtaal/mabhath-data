@@ -1,0 +1,31 @@
+load_data( { book: 'll_nvd', text: 'ورخ1<br>\
+وَرِخٌ, aor. يَوْرَخُ, (S, L, K,) inf. n. وَرَخٌ;<br>\
+(S, L;) and ↓ تورّخ; (L;) It (dough) was, or<br>\
+became, thin, or flaccid, (S, L, K,) by reason of<br>\
+the abundance of water in it. (S, L.)<br>\
+2<br>\
+ورّخ الكِتَابَ بِيَوْمِ كَذَا He inscribed the<br>\
+writing, or letter, with the date of such a day;<br>\
+i. q. أَرَّخَهُ; (S, K *;) of which it is a dial. form.<br>\
+(Yaakoob.)<br>\
+4<br>\
+اورخ He made dough thin, or flaccid, (S,<br>\
+L, K,) by putting much water to it. (L.)<br>\
+5<br>\
+تَوَرَّخَ see 1: ―<br>\
+-b2-  and 10.<br>\
+10<br>\
+استورخت الأَرْضُ, and ↓ تورّخت, The land,<br>\
+or ground, became wet, or moist. (K.)<br>\
+وَرْخٌ A kind of tree resembling the مَرْخ in its<br>\
+growth, (L, K,) except that it is dust-coloured,<br>\
+having slender leaves, like the leaves of the<br>\
+طَرْخُون, or larger. (L.)<br>\
+أَرْضٌ وَرِخَةٌ Land having tangled and luxuriant<br>\
+herbage. (K.)<br>\
+وَرِيخَةٌ Dough that is thin, or flaccid, (S, K,)<br>\
+by reason of the abundance of water in it. (S.)<br>\
+―<br>\
+-b2-  Wet, or moist, land, or ground. (K.)<br>\
+تَوَارِيخُ, pl. of تَوْرِيخٌ: see تَأْرِيخٌ.<br>\
+' } );

@@ -1,0 +1,44 @@
+load_data( { book: 'll_pt', text: '<em>نام</em>            1                  نام<br>\
+<b>نَامَتْ رِجْلُهُ</b>               1     <br>\
+                     نَامَتْ رِجْلُهُ<br>\
+                     ذ<br>\
+                   (assumed tropical:)  <i>I. q.</i> <br>\
+                  خَدِرَتْ [<i>His leg,</i> or <i>foot, became benumbed,</i> or <i>torpid</i>]. (TA in art. بسر.) ―         -b2-  نَامَ (assumed tropical:)  <i>It</i> (a woman&#39;s anklet) <i>ceased to sound,</i> by reason of the fulness of the leg: like as one says [in the contr. case], استيقظ. (TA in art. يقظ.) ―         -b3-  نَامَ has for its inf. ns. نَوْمٌ and مَنَامٌ. (Msb.) ―         -b4-  نَامَ الثَّوْبُ <br>\
+                  <i>i. q.</i> <br>\
+                  رَقَدَ [q. v.] (A, art. رقد.) ―         -b5-  نَامَتِ السُّوقُ <br>\
+                  <i>i. q.</i> <br>\
+                  رَقَدَت [q. v.] (Th, in TA, art. رقد.) ―         -b6-  نَامَ (tropical:)  <i>He lay; as opposed to he sat and he stood.</i> See نَايِمٌ. ―         -b7-  نَامَ عَنْ حَاجَتِهِ <br>\
+                  <i>He cared not for the object of his want, neglected it.</i> (Msb.)    </entryFree> <br>\
+<b>نَوَّمَ</b>               1     <br>\
+                     نَوَّمَ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      اَنَامَ (assumed tropical:)  <i>It benumbed,</i> or <i>torpified:</i> see نَامَتْ رِجْلُهُ.    </entryFree> <br>\
+<b>نَاوَمْتُهُ فِى شِعَارٍ وَاحِدٍ</b>               1     <br>\
+                     نَاوَمْتُهُ فِى شِعَارٍ وَاحِدٍ<br>\
+                     ذ<br>\
+                   [<i>I slept with him in one under-garment</i>]. (S, art. شعر.)    </entryFree> <br>\
+                     اَنْاَمَ<br>\
+                   see 2.    </entryFree> <br>\
+<b>اِسْتَنَامَ اـِليْهِ</b>               1     <br>\
+                     اِسْتَنَامَ اـِليْهِ<br>\
+                     ذ<br>\
+                  <i>He trusted to him, and became quiet, or easy, in mind; relied upon him.</i> (S, K.)    </entryFree> <br>\
+<b>اِمْرَاَةٌ نَوُومُ الضُّحَى</b>               1     <br>\
+                     اِمْرَاَةٌ نَوُومُ الضُّحَى<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  رَقُودُ الضحى [which see]. (A, art. رقد.)    </entryFree> <br>\
+<b>نَايِمٌ</b>               1     <br>\
+                     نَايِمٌ<br>\
+                     ذ<br>\
+                   (tropical:)  <i>Lying; as opposed to sitting and standing.</i> (Mgh.)    </entryFree> <br>\
+<b>اَنْوَمُ</b>               1     <br>\
+                     اَنْوَمُ<br>\
+                     ذ<br>\
+                   [<i>More, or most, prone to sleep</i>]. (A, art. فهد.)    </entryFree> <br>\
+<b>مَنَامٌ</b>               1     <br>\
+                     مَنَامٌ<br>\
+                     ذ<br>\
+                  <i>Time of sleep.</i> (Jel, xxxix. 43.) See also 1.   </entryFree> <br>\
+' } );

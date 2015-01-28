@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>سخبر</em>            1                  سخبر<br>\
+<b>سَخْبَرٌ</b>               1     <br>\
+                     سَخْبَرٌ<br>\
+                     ذ<br>\
+                  <i>A certain kind of trees,</i> (S, K,) <i>the heads of which, when it grows tall, bend and hang down;</i> [a coll. gen. n.;] n. un. with ة: (TA:) <i>it resembles the</i> <br>\
+                  اـِذْخِر; (K;) or <i>it is like the</i> <br>\
+                  ثُمَام [or <i>panic grass</i>], <i>and has a</i> [<i>root such as is termed</i>] جُرْثُومَة; <i>its branches,</i> or <i>twigs, are, in abundance, like the</i> <br>\
+                  كراث [app. كَرَاث, a certain large tree, growing on the mountains]; <i>and its fruits resemble brooms of reeds, or are more slender:</i> (AHn:) <i>serpents make their abodes at its roots.</i> (TA.) It is related in a trad. of Ibn-Ez-Zubeyr, that he said to Mo&#39;áwiyeh, لَا تُطْرِقْ اـِطْرَاقَ الاُفْعُوَانِ <br>\
+                  فِى اُصُولِ السَّخْبَرِ [<i>Do not thou look down upon the ground like as does the male viper at the roots of the sakhbar</i>]; meaning (assumed tropical:)  <i>do not thou affect heedlessness of the state in which we are,</i> or <i>of the affair in which we are engaged.</i> (TA.) One says also, رَكِبَ فُلَانٌ السَّخْبَرَ, meaning, (assumed tropical:)  <i>Such a one acted perfidiously, treacherously,</i> or <i>unfaithfully.</i> (S.) And a poet says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَالغَدْرُ يَنْبُتُ فِى اُصُولِ السَّخْبَرِ<br>\
+                  </quote> (assumed tropical:)  [<i>And perfidy grows at the roots of the sakhbar</i>]: (S:) [because the viper lives there: or] the poet means, that the people of whom he speaks dwelt in places where the sakhbar grew; and they are thought to have been of the tribe of Hudheyl: IB says that he likens the perfidious to this tree because, when it is full-grown, its head hangs down, not remaining erect; and that he means, ye do not remain faithful, like as this tree does not remain in one state. (TA.)   </entryFree> <br>\
+' } );

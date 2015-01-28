@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'ببغبَبْغَآءُ (Msb, K) and بَبَّغَآءُ (K, Kzw) [in modern<br>\
+vulgar Arabic بَبَغَان, The parrot;] a certain<br>\
+well-known bird; (Msb;) a certain green bird,<br>\
+(Sgh, K, TA,) well known; (TA;) the bird<br>\
+called in Persian طُوطِي, beautiful in colour and<br>\
+form, mostly green, but in some instances red,<br>\
+and yellow, and white; having a thick bill and<br>\
+tongue: it hears the speech of men and repeats<br>\
+it, without knowing its meaning; and utters<br>\
+letters rightly: when they desire to teach it,<br>\
+they put a mirror in its cage, so that it sees<br>\
+therein its own form, and they speak to it from<br>\
+behind the mirror, and when it hears, it repeats,<br>\
+desiring to do as its like; and thus it learns<br>\
+quickly: one of the wonders relating to it is<br>\
+[said to be this], that it never drinks water; for<br>\
+if it drank, it would die: (Kzw:) the affix renders<br>\
+fem. the word, but not the thing named thereby,<br>\
+like the ة in حَمَامَةٌ and نَعَامَةٌ; for the word<br>\
+applies to the male and the female, so that<br>\
+one says, بَبْغَآءُ ذَكَرٌ [a male parrot] and بَبْغَآءُ أُنْثَى<br>\
+[a female parrot]: and the pl. is بَبْغَاوَاتٌ [or<br>\
+بَبَّغَاوَاتٌ], like as صَحْرَاوَتٌ is pl. of صَحْرَآءُ.<br>\
+(Msb.)<br>\
+' } );

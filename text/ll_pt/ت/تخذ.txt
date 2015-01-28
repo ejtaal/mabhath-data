@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>تخذ</em>            1                  تخذ<br>\
+<b>تَخِذَ</b>               1     <br>\
+                     تَخِذَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     تَخَذَ<br>\
+                  , inf. n. تَخَذٌ and تَخْذٌ: see 8 in art. اخذ.    </entryFree> <br>\
+<b>اتّخذ</b>               1     <br>\
+                     اتّخذ<br>\
+                     ذ<br>\
+                  : see 8 in art. اخذ.    </entryFree> <br>\
+<b>اِسْتَخَذَ</b>               1     <br>\
+                     اِسْتَخَذَ<br>\
+                     ذ<br>\
+                  , an irregularly formed verb: see 8 in art. اخذ.    <br>\
+' } );

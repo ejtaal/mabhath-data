@@ -1,0 +1,83 @@
+load_data( { book: 'll_nvd', text: 'جنس2<br>\
+جنّسهُ بِهِ, (TK,) inf. n. تَجْنِيسٌ, from الجِنْسُ,<br>\
+(S, K,) [He made it homogeneous, or congenial,<br>\
+with it; or similar, or conformable, to it: expl.<br>\
+in the TK, not well, by شاكله; but the inf. n.,<br>\
+with tolerable correctness, by ايكى شيئى برى<br>\
+برينه مشاكل قلمق. The usage of the term<br>\
+تَجْنِيسٌ in rhetoric, to signify the use of two or<br>\
+more words completely or partly conformable, is<br>\
+post-classical, like جِنَاسٌ, an inf. n. of جَانَسَ.]<br>\
+3<br>\
+جانسهُ, [inf. n. مُجَانَسَةٌ and جِنَاسٌ,] It was,<br>\
+or became, homogeneous, or congenial, with it; or<br>\
+similar, or conformable, to it; syn. شَاكَلَهُ:<br>\
+(Mgh, Msb:) المُجَانَسَةُ is from الجِنْسُ. (S, TA.)<br>\
+You say, هٰذَا يُجَانِسُ هٰذَا This is homogeneous<br>\
+with this; syn. يُشَاكِلُهُ: (Mgh, Msb:) so says<br>\
+Kh. (Msb.) And كَيْفَ يُؤَانِسُكَ مَنْ لَا يُجَانِسُكَ<br>\
+[How will he be sociable with thee who will not<br>\
+be congenial with thee?]. (A.) And of a man<br>\
+who has not discrimination nor intelligence, one<br>\
+says, فُلَانٌ يُجَانِسُ البَهَائِمَ وَلَا يُجَانِسُ النَّاسَ [Such<br>\
+a one resembles the beasts, and does not resemble<br>\
+men]: (Mgh, Msb, * TA:) so says Kh. (Mgh.)<br>\
+But As says that this usage, (Mgh, Msb,) in the<br>\
+first and last of the above-mentioned phrases,<br>\
+(Msb,) is post-classical. (Mgh, Msb.) The usage<br>\
+of the term جِنَاسٌ by rhetoricians [to signify the<br>\
+complete or partial conformity of two or more<br>\
+words] is post-classical [like تَجْنِيسٌ]. (TA.)<br>\
+6<br>\
+تجانس الشَّيْآنِ [The two things were, or became homogeneous, congenial, similar, or conformable,] is a phrase of the scholastic theologians, not<br>\
+[classical] Arabic. (TA.)<br>\
+جِنْسٌ [A genus, kind, or generical class, comprising under it several species, or sorts; or<br>\
+comprised under a superior genus, in relation to<br>\
+which it is a species, or sort;] a ضَرةب of a thing;<br>\
+(S;) or of anything; (Mgh, Msb;) any ضَرْب of<br>\
+a thing; (A, K;) [as] of men, and of birds, and<br>\
+of the definitions of grammar and of the art of<br>\
+versification, and of things collectively; so accord.<br>\
+to the lexicologists; (ISd, TA;) a term of more<br>\
+common import than نَوْع [which is a species, or<br>\
+sort]: (S, A, Mgh, Msb, K:) thus animal is a<br>\
+جنس and man is a نوع, (Mgh, Msb,) because the<br>\
+latter is of more particular import than the former,<br>\
+though it is a جنس in relation to what is under<br>\
+it; but the scholastic theologians reverse the<br>\
+case, (Mgh,) for with them جنس is of more particular import than نوع: (Kull p. 139:) thus also<br>\
+camels are a جنس of beasts: (A, K:) pl. أَجْنَاسٌ<br>\
+[properly a pl. of pauc. but used also as one of<br>\
+mult.] (Mgh, Msb, K) and جُنُوسٌ. (IDrd, K.)<br>\
+You say, النَّاسُ أَجْنَاسٌ وَأَكْثَرُهُمْ أَنْجَاسٌ [Men are<br>\
+of several kinds, and most of them are impure].<br>\
+(A, TA.) And فُلَانٌ مِنْ جِنْسِكَ, meaning أَصْلِكَ<br>\
+[i. e. Such a one is of thy stock]. (S in art. جنث.)<br>\
+―<br>\
+-b2-  [Hence, اِسْمُ جِنْسٍ A generic noun: and<br>\
+اِسْمُ جِنْسٍ جَمْعِىٌّ a collective generic noun.] ―<br>\
+-b3-<br>\
+أَوْصَى لِجِنْسِهِ signifies He left by will, of his<br>\
+property, to the children of his father, [or his<br>\
+kindred by the father&#39;s side,] exclusively of all<br>\
+relations of the mother: and so, لِأَهْلِ بَيْتِهِ.<br>\
+(Mgh.) ―<br>\
+-b4-  The assertion, in the K, that J&#39;s<br>\
+saying, on the authority of IDrd, that As used<br>\
+to say الجِنْسُ as meaning المُجَانَسَةُ is a vulgarism,<br>\
+is erroneous, is a matter for consideration; for<br>\
+As said not this, but [what has been cited above,<br>\
+voce جَانَسَهُ, or] what will be found below, voce<br>\
+مُجَانِسٌ. (TA.)<br>\
+[<br>\
+جِنْسِىٌّ Generic; generical.]<br>\
+[<br>\
+جِنْسِيَّةٌ Generical quality.]<br>\
+[<br>\
+مُجَانِسٌ Homogeneous; congenial; similar;<br>\
+conformable; syn. مُشَاكِلٌ. (K.) But IDrd<br>\
+asserts that As used to reject the saying of the<br>\
+vulgar, هٰذَا مُجَانِسُ لِهٰذَا [This is homogeneous<br>\
+with this, &amp;c.], and to say, It is post-classical.<br>\
+(S.) [See also 3.]<br>\
+' } );

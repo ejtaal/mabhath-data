@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>هدل</em>            1                  هدل<br>\
+<b>هَدَلَ</b>               1     <br>\
+                     هَدَلَ<br>\
+                     ذ<br>\
+                  <i>He uttered a cry:</i> see هَدَرَ, in two places.    </entryFree> <br>\
+<b>تَهَدَّلَ</b>               1     <br>\
+                     تَهَدَّلَ<br>\
+                     ذ<br>\
+                  <i>It hung down;</i> [<i>it dangled;</i>] said of a branch of a tree, (S, TA,) and of fruit; <i>it hung loosely;</i> said of the former. (TA.)    </entryFree> <br>\
+<b>مِشْفَرٌ اَهْدَلُ</b>               1     <br>\
+                     مِشْفَرٌ اَهْدَلُ<br>\
+                     ذ<br>\
+                   [<i>A camel&#39;s lip</i>] <i>flaccid,</i> or <i>pendulous.</i> (K, TA.)   </entryFree> <br>\
+' } );

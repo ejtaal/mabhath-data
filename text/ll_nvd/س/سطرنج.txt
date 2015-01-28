@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'سطرنجسِطْرَنْجٌ [commonly pronounced سَطْرَنْج] a dial.<br>\
+var. of شِطْرَنْجٌ. (K in art. شطرنج, q. v.)<br>\
+' } );

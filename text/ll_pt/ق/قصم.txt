@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قصم</em>            1                  قصم<br>\
+<b>قَيْصُومٌ</b>               1     <br>\
+                     قَيْصُومٌ<br>\
+                     ذ<br>\
+                  <i>Artemisia abrotanum,</i> or <i>southern-wood;</i> also called قَيْصُومٌ ذَكَرٌ: and قَيْصُومٌ اُنْثَى is applied to <i>santolina.</i>   <br>\
+' } );

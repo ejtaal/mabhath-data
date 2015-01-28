@@ -1,0 +1,49 @@
+load_data( { book: 'll_nvd', text: 'سنج1<br>\
+سَنَجَ He smeared anything with a colour<br>\
+different from its own colour. (O, K.)<br>\
+سُنُجٌ The عُنَّاب [or jujube]. (IAar, K.)<br>\
+سَنْجَةٌ, as also صَنْجَةٌ, but the former is the<br>\
+more chaste, (T, O, Msb, K,) accord to Fr, (O,)<br>\
+because ص and ج do not both occur in any<br>\
+[genuine] Arabic word, (Msb,) or the former<br>\
+only is allowable accord. to Fr, (T, Msb,) or,<br>\
+accord. to ISk, (T, O, Msb, and S in art. صنج,)<br>\
+and IKt, (T, Msb,) the latter only is allowable;<br>\
+(T, O, Msb, and S and O in art. صنج;) an arabicized word, (O, Msb, and S and A and K in art.<br>\
+صنج,) from [the Pers.] سنك [or سَنْگْ, as meaning “ a weight ”]; (O;) [or rather from the<br>\
+Pers. سَنْجَهْ meaning “ a balance ” and “ a<br>\
+weight; ”] i. q. مِيزَانٌ [A balance]: (A in art.<br>\
+صنج:) [in the present day, applied to a steel-yard: and also, more commonly, (agreeably with<br>\
+the explanation of صَنْجَةٌ in the MA,) to a weight<br>\
+of a balance; which last seems to be intended in<br>\
+the S and O and Msb and K &amp;c. by the expressions سَنْجَةُ المِيزَانِ and صَنْجَتُهُ, unless these<br>\
+expressions be instances of what is termed إِضَافَةُ<br>\
+الشَّىْءِ إِلَى نَفْسِهِ (i. e. the prefixing a noun, governing the gen. case, to another noun signifying the<br>\
+same thing), which I think unlikely:] pl. سِنَجٌ<br>\
+(A, Msb) and سَنَجَاتٌ. (Msb.) One says, اِتَّزَنَ<br>\
+منّى بِالسَّنْجَة الرَّاجِحَةِ [He received by weight<br>\
+from me with the inclining balance, or with the<br>\
+preponderating weight], and بِالسِّنَجِ الوَافِيَةِ [with<br>\
+the full weights]. (A.) And a rájiz says,<br>\
+كَأَنَّهَا سَنْجَةُ أَلْفٍ رَاجِحَهْ<br>\
+[As though it, or she, were the weight of a thousand, preponderating]: or, as some relate it,<br>\
+صَنْجَةٌ. (O.)<br>\
+سُنْجَةٌ i. q. رُقْطَةٌ [i. e. Blackness mixed with<br>\
+speckles of white: or the reverse: or speckles of<br>\
+white, and of black, and of red, and of yellow, in<br>\
+an animal]: (AA, O, K:) pl. سُنَجٌ, (O, K, TA,<br>\
+in the CK سُنْجٌ,) like حُجَرٌ (K, TA, in the CK<br>\
+like حُجْرٌ,) as pl. of حُجْرَةٌ. (TA.)<br>\
+سِنَاجٌ The mark, or effect, of the سِرَاج [i. e.<br>\
+lamp, or its lighted wick], (A, O, K,) upon the<br>\
+wall. (O, K, TA.) One says, لَابُدَّ لِلسِّرَاجِ مِنَ<br>\
+السِّنَاجِ [The lamp, or its lighted wick, cannot but<br>\
+have the mark, or effect, thereof upon the wall].<br>\
+(A.) ―<br>\
+-b2-  Also The سِرَاج [itself; i. e. a lamp, or<br>\
+its lighted wick]: (ISd, K:) as also ↓ سَنِيجٌ. (K.)<br>\
+سَنِيجٌ: see what next precedes.<br>\
+بُرْدٌ مُسَنَّجٌ A [garment of the kind called] بُرْد<br>\
+striped. (O, K.) [SM thinks that it may be a<br>\
+mistranscription for مُسَبَّجٌ, meaning “ wide,” applied to a كِسَآء: but this I think improbable.]<br>\
+' } );

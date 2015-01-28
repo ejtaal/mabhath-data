@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>ترن</em>            1                  ترن<br>\
+<b>تُرْنَى</b>               1     <br>\
+                     تُرْنَى<br>\
+                     ارنى<br>\
+                     راى<br>\
+                     رن<br>\
+                     رنا<br>\
+                     رنى<br>\
+                     ترنى<br>\
+                     ترني<br>\
+                     ورى<br>\
+                   an appellation applied to <i>A female slave;</i> (T, K) and to <i>a fornicatress, an adulteress,</i> or <i>a prostitute;</i> (M, K;) as also فَرْتَنَى: (T, K:) and اِبْنُ تُرْنَى means <i>the son of a fornicatress</i> or <i>an adulteress</i> or <i>a prostitute;</i> (T, K;) as also ابن فَرْتَنَى: (T:) or <i>one that is base-born:</i> (S in art. رنو:) but it is said that تُرْنَى is of the measure تُفعَلُ, from الرُّنُوُّ: (M:) it may be from رُنِيَتْ meaning “ she was looked at continuously. ” (T, K.)   </entryFree> <br>\
+' } );

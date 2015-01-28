@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'نوع5<br>\
+تَنَوَّعَ<br>\
+, said of a branch of a tree: see تَنَوَّسَ.<br>\
+―<br>\
+-b2-  تَنَوَّعَ<br>\
+It became of various sorts, or species.<br>\
+(Msb.)<br>\
+نُوَّاعَةٌ<br>\
+A child&#39;s swing, of rope. See رُجَّاحَةٌ.<br>\
+' } );

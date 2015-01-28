@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كسفكَاسِفُ البَالِ<br>\
+: see بَالٌ.<br>\
+' } );

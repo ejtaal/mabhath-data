@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>هذا</em>            1                  هذا<br>\
+<b>هَذَاَ</b>               1     <br>\
+                     هَذَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     هَذَاَ<br>\
+                  , inf. n. هَذْءٌ, <i>He cut</i> a thing (As. S, K) [<i>quickly</i>], with a sword, &amp;amp;c. (TA.) It signifies a quicker act than does هَذَّ. (K.) ―         -b2-  هَذَاَ <br>\
+                  <i>He destroyed</i> the enemy. (K, TA.) ―         -b3-  هَذَاهُ بِلِسَانِهِ, (K, * TA,) inf. n. هَذْءٌ, (TA,) <i>He hurt,</i> or <i>offended,</i> [or <i>cut,</i>] <i>him with his tongue;</i> (TA;) <i>made him to hear what he disliked.</i> (K.) ―         -b4-  هَذَاَتِ الاـِبِلُ <br>\
+                  <i>The camels fell down,</i> [<i>and,</i> app., <i>died,</i>] <i>one after another:</i> syn. تَسَاقَطَتْ. (K.) ―         -b5-  هَذِيَ مِنَ البَرْدِ, [aor. ؟؟,] <i>He perished of cold.</i> (K.) ―         -b6-  هَذَاَ الكَلَامَ <br>\
+                  <i>He was loquacious, with error.</i> (TA.)    </entryFree> <br>\
+<b>تهذّا</b>               1     <br>\
+                     تهذّا<br>\
+                     ذ<br>\
+                  <i>It</i> (a wound, or an ulcer.) <i>became putrid,</i> or <i>rotten, and dissundered,</i> or <i>ragged.</i> (S, K.)    </entryFree> <br>\
+<b>هَذْاَةٌ</b>               1     <br>\
+                     هَذْاَةٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مِسْحَاةٌ [q. v., in arts. سحى and سحو.] (K.)    </entryFree> <br>\
+<b>هَذَّاٌ</b>               1     <br>\
+                     هَذَّاٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      هَذَّا=ءٌ A <i>sharp</i> sword, (TA [but the orthography is not quite clear].) [See also art. هذى.]    </entryFree> <br>\
+<b>هَذَّا=ءٌ</b>               1     <br>\
+                     هَذَّا=ءٌ<br>\
+                     ذ<br>\
+                  : see هَذَّاٌ.    </entryFree> <br>\
+<b>هٰذَا</b>               1     <br>\
+                     هٰذَا<br>\
+                     ذ<br>\
+                  : see art. ذا.   </entryFree> <br>\
+' } );

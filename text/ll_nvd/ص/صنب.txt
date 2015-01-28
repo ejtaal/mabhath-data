@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'صنبصِنَابٌ A sauce made of mustard (S, M, A, K)<br>\
+and raisins. (S, A, K.)<br>\
+-A2-  And Long in the back<br>\
+and belly; as also ↓ صِنَابَةٌ: (IAar, O, K:) and so<br>\
+each with س. (IAar, O.)<br>\
+صِنَابَةٌ: see what immediately precedes.<br>\
+صِنَابِىٌّ, applied to a horse (M, A, TA) or<br>\
+similar beast, (M, TA,) or to a hackney, (TA,)<br>\
+and to a camel, (M, TA,) Of a colour between<br>\
+redness and yellowness, (M, A, K, TA,) with<br>\
+abundance of hair, and of fur: (TA:) or of a<br>\
+bay, or dark bay, or brown, colour; syn. كُمَيْتٌ:<br>\
+(S, O, K:) or of a sorrel colour; syn. أَشْقَرُ:<br>\
+(K:) or of this last colour having some white<br>\
+hairs intermixed therewith: (S, O, TA:) so<br>\
+called because his colour resembles the sauce<br>\
+termed صِنَاب: (TA:) صِنَابِىٌّ being a rel. noun<br>\
+from صِنَابٌ. (S, O, TA.)<br>\
+مِصْنَبٌ Addicted to, or fond of, eating the<br>\
+sauce termed صِنَاب. (IAar, O, K.)<br>\
+' } );

@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'مرن1<br>\
+مَرَنَ<br>\
+It was, or became smooth, (S, M, K,)<br>\
+with a degree of hardness. (M, K.) Said of a<br>\
+camel&#39;s foot: see أَسْحَقَ. ―<br>\
+-b2-  مَرَنَ عَلَى شَىْءٍ<br>\
+He<br>\
+became accustomed, habituated, or inured, to a<br>\
+thing. (K.)<br>\
+2<br>\
+مَرَّنَهُ<br>\
+He made it soft, or smooth,<br>\
+لَيِّن.<br>\
+(Msb.)<br>\
+مَارِنٌ<br>\
+The [soft, or cartilagenous] part of the<br>\
+nose, beneath, or exclusive of, the bone. (Zj, in<br>\
+his “ Khalk el-Insán: ” and the like is said in<br>\
+the S and Msb, and partially in the K.)<br>\
+' } );

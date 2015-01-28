@@ -1,0 +1,70 @@
+load_data( { book: 'll_nvd', text: 'غيم1<br>\
+غَامَتِ السَّمَآءُ, (S, Msb, K,) aor. تَغِيمُ, inf. n.<br>\
+غَيْمٌ; (Msb;) and ↓ تغيّمت; and ↓ غَيَّمَت, (S,<br>\
+Msb, K,) inf. n. تَغْيِيمٌ; (K;) and ↓ أَغَامَت (S,<br>\
+Msb, K) and أَغْيَمَت; (S, K;) all signify the<br>\
+same; (S;) The sky was, or became, clouded, or<br>\
+covered with clouds. (S, * Msb, K. *)<br>\
+-A2-  غَامَ, aor.<br>\
+يَغِيمُ, (S, K,) inf. n. غَيْمٌ, (KL,) He was, or<br>\
+became, thirsty, (S, K, KL, * [like عَامَ,]) and<br>\
+affected with internal heat. (S, K) ―<br>\
+-b2-  And غام<br>\
+إِلَى المَآءِ, aor. as above, inf. n. غَيْمَةٌ and غَيَمَانٌ<br>\
+and مَغْيَمٌ, is mentioned by IAar [as signifying<br>\
+He thirsted for water, or the water: or he<br>\
+thirsted for it vehemently, accord. to an explanation of غَيْمَةٌ given below]. (TA.)<br>\
+2<br>\
+غَيَّمَ see 1. ―<br>\
+-b2-  [Hence,] غيّم اللَّيْلُ, (K,) inf. n.<br>\
+تَغْيِيمٌ, (TA,) (tropical:)  The night became like the غَيْم [or<br>\
+clouds]; (K;) became dark, and came like the<br>\
+clouds. (TA.) ―<br>\
+-b3-  And غيّم الطَّائِرُ (assumed tropical:)  The bird<br>\
+fluttered over one&#39;s head, not going to a distance;<br>\
+on the authority of Th: mentioned by IAar as<br>\
+with غين and تاء [evidently mistranscriptions for<br>\
+عين and ثاء: see عَيَّثَ]. (TA.)<br>\
+4<br>\
+أَغَامَتِ السَّمَآءُ and<br>\
+أَغْيَمَت: see 1. ―<br>\
+-b2-  أَغْيَمَ القَوْمُ<br>\
+[The people, or party, had a clouded sky;] clouds<br>\
+came upon the people, or party. (S, K.) ―<br>\
+-b3-  And<br>\
+أَغْيَمَ He (a man, TA) became stationary (K, TA)<br>\
+like the clouds. (TA.)<br>\
+5<br>\
+تَغَيَّمَ see the first paragraph.<br>\
+غَيْمٌ, originally an inf. n., from غَامَتِ السَّمَآءُ<br>\
+[q. v.], (Msb,) Clouds; (S, Msb, K, TA;) n. un.<br>\
+with ة: (Msb:) or [an expanse of clouds covering<br>\
+the sky,] when one sees not a sun (Kr, TA) by<br>\
+reason of much covering of the sky: (TA:) [and<br>\
+often meaning mist:] pl. غُيُومٌ and غِيَامٌ. (TA.)<br>\
+-A2-  Also Thirst: and internal heat. (AA, S, K.)<br>\
+[See also غَيْمَةٌ.] ―<br>\
+-b2-  And Anger, wrath, or rage,<br>\
+(K, TA,) which is from internal heat. (TA.) ―<br>\
+-b3-<br>\
+And a certain disease in camels, like that called<br>\
+قُلَاب [q. v.], except that it does not kill: (K,<br>\
+TA:) it is said that the asterism of the Pleiades<br>\
+(الثُّرَيَّا, q. v.,) does not rise nor set aurorally without there being sickness, mostly in the camels,<br>\
+which are then affected with the disease thus<br>\
+called. (Az, TA.)<br>\
+-A3-  شَجَرٌ غَيْمٌ Dense, or tangled,<br>\
+trees: like غَيْنٌ [which is a dial. var. of غَيْمٌ in<br>\
+other senses]. (TA.)<br>\
+غَيْمَة Thirst; so says A &#39;Obeyd: or vehemence<br>\
+of thirst: thus in the trad. cited under عَيْمَةٌ<br>\
+[q. v.]. (TA.) [See also غَيْمٌ.]<br>\
+غَيْمان Thirsty: and affected with internal<br>\
+heat: fem. غَيْمَى: (S, K:) the latter applied to<br>\
+a woman. (S.)<br>\
+يَوْمٌ غَيُوم [A cloudy day;] a day having غَيْم<br>\
+[or clouds, or clouds covering the sky]. (Th, TA.)<br>\
+مَغْيُومٌ A camel affected with the disease termed<br>\
+غَيْم: (Az, K, TA:) such scarcely ever, or never,<br>\
+dies. (Az, TA.)<br>\
+' } );

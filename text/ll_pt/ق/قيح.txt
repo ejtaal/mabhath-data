@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>قيح</em>            1                  قيح<br>\
+<b>قَاحَ</b>               1     <br>\
+                     قَاحَ<br>\
+                     ذ<br>\
+                  , said of a wound, (S, A, Msb, K, &amp;amp;c.,) aor. يَقِيحُ, (S, Msb,) inf. n. قَيْحٌ; (Msb, K;) like قَاحَ, aor. يَقُوحُ; (K;) and ↓ <br>\
+      قيّح, (S, A, Msb, K,) inf. n. تَقْيِيحٌ; (A;) and ↓ <br>\
+      اقاح; (A, Msb, K;) and ↓ <br>\
+      تقيّح; (S, A, Msb, K;) and تقّوح; (Msb, K;) [<i>It suppurated;</i>] <i>it became in the state of containing</i> [or <i>generating</i>] <i>matter, such as is termed</i> <br>\
+                  قَيْح [meaning as expl. below]: (S, * A, * K in art. قوعح, and Msb in explanation of قَيَّحَ:) or <i>its</i> <br>\
+                  قَيْح <br>\
+                  <i>ran,</i> or <i>flowed:</i> or <i>became in a state of readiness</i> [<i>to do so</i>]. (Msb in explanation of قَاحَ and اقاح and تقوّح.)    </entryFree> <br>\
+                     قَيَّحَ<br>\
+                  and 4 and 5: see the preceding paragraph.    </entryFree> <br>\
+<b>قَيْحٌ</b>               1     <br>\
+                     قَيْحٌ<br>\
+                     ذ<br>\
+                  <i>Thick purulent matter</i> (مِدَّةٌ) <i>unmixed with blood;</i> (S, A, L, K;) <i>white, thick</i> [<i>matter</i>], <i>unmixed with blood:</i> (Msb:) or, as some say, [contr. to the generality of the lexicographers,] <i>thin matter</i> (صَدِيد) <i>like water, in which is a</i> <br>\
+                  شُكْلَة [ or <i>small admixture,</i> or <i>tinge of the red and white hue,</i>] <i>of blood.</i> (L.)    </entryFree> <br>\
+<b>قَاحَةٌ</b>               1     <br>\
+                     قَاحَةٌ<br>\
+                     ذ<br>\
+                  , mentioned in this art. in the S, see in art. قوح.   </entryFree> <br>\
+' } );

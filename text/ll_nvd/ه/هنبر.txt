@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هنبرهِنْبِرٌ<br>\
+A light, or an active, ass. (IAar, in TA,<br>\
+voce يَعْفُورٌ.)<br>\
+' } );

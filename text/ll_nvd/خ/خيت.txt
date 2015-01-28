@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'خيت1<br>\
+خَاتَ, aor. يَخِيتُ, (IAar,) inf. n. خَيْتٌ and<br>\
+خُيُوتٌ, (IAar, K,) and inf. n. of un. خَيْتَةٌ, (IAar,)<br>\
+He made a sound, syn. صَوَّتَ; (IAar, K;*) [app.<br>\
+with his wings, in pouncing down, or making a<br>\
+stoop; see 1 in art. خوت;] said of a bird. (IAar.)<br>\
+-A2-  خَاتَهُ مَالَهُ, aor. يَخِيتُهُ: see 1 in art. خوت.<br>\
+' } );

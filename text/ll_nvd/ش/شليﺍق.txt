@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'شلياقالشَّلْيَاقُ A certain northern constellation, [namely,<br>\
+Lyra,] consisting of ten stars, the bright star<br>\
+[alpha] of which is called النَّسْرُ الوَاقِعُ: the Arabs<br>\
+liken it to a vulture (نَسْر) which has contracted<br>\
+its wings to itself, as though it had alighted upon<br>\
+a thing: the vulgar call [the three chief stars in]<br>\
+it الأَثَافِى: and before the bright star is a dim<br>\
+star which the Arabs call الأَظْفَار [i. e. the talons].<br>\
+(Kzw. [Not in any of my Lexicons.])<br>\
+' } );

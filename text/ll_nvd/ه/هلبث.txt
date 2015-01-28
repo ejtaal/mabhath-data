@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'هلبثهِلْبَاثٌ A kind of dates. Said to be the only<br>\
+kind brought form El-Basrah to the Sultán.<br>\
+(AHn.)<br>\
+هِلْبَوْثٌ Stupid; foolish; of little sense: or dull<br>\
+of speech and understanding; doltish; heavy;<br>\
+syn. فَدْمٌ. (S, and some copies of the K.)<br>\
+' } );

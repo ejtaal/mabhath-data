@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'نطفنَطَفٌ<br>\
+Earrings: see a verse cited in art. سجد.<br>\
+نُطْفَةٌ<br>\
+Sperma of a man (S, Msb, K) and of a<br>\
+woman. (Msb.)<br>\
+نَاطِفٌ<br>\
+A kind of sweetmeat; (Msb;) i. q.<br>\
+قُبَّيْطَى. (S, Msb.)<br>\
+' } );

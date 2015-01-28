@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>سنبل</em>            1                  سنبل<br>\
+<b>سَنْبَلَ الزَّرْعُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     سَنْبَلَ الزَّرْعُ<br>\
+                     ذ<br>\
+                  <i>The seed-produce put forth its</i> <br>\
+                  سُنْبُل [or <i>ears</i>]; (M, K;) as also اَسْبَلَ [q. v.]: the former of the dial. of Temeem, and the latter of that of El-Hijáz. (TA.)       -A2-  سَنْبَلَ ثَوْبَهُ, (K,) inf. n. سَنْبَلَةٌ, (TA,) <i>He</i> (a man) <i>dragged a shirt of his garment behind him;</i> so says Khálid Ibn-Jembeh: (TA:) or <i>he dragged his garment behind him</i> or <i>before him.</i> (K.)    </entryFree> <br>\
+<b>سُنْبُلٌ</b>               1     <br>\
+                     سُنْبُلٌ<br>\
+                     ذ<br>\
+                   [<i>Ears</i> of corn: n. un. with ة: pl. سَنَابِلُ and سُنْبُلَاتٌ, the latter pl. occurring in the Kur xii. 43 and 46: it is said in the M, in art. سنبل, that سُنْبُلَةٌ signifies <i>one of the</i> <br>\
+                  سُنْبُل <br>\
+                  <i>of</i> <br>\
+                  زَرْع; in the K, in this art., that it signifies <i>one of the</i> <br>\
+                  سَنَابِل <br>\
+                  <i>of</i> <br>\
+                  زَرْع: see سَبَلٌ]. السُّنْبُلَةُ is also the name of <i>A certain sign of the Zodiac</i> [i.e. <i>Virgo</i>]; (K, TA;) <i>the sixth sign; the third of the summer signs:</i> (TA:) [or <i>Spica Virginis;</i>] <i>a certain star in Virgo.</i> (Kzw.) [See, again, سَبَلٌ.] ―         -b2-  Also <i>A certain perfume;</i> (M;) <i>a certain plant of sweet odour, also called</i> <br>\
+                  سُنْبُلُ العَصَافِيرِ, (K,) <i>and</i> <br>\
+                  الرّيْحَانُ <br>\
+                  الهِنْدِىُّ; (TA;) [<i>spikenard,</i> called in the present day السُّنْبُلُ الهِنْدِىُّ;] <i>the best whereof is the</i> <br>\
+                  سُورِىّ, (K,) <i>what is brought from</i> <br>\
+                  سُور [or سُورَى?], <i>a town,</i> or <i>district, of El-&#39;Irák;</i> (TA;) <i>and the weakest is the</i> <br>\
+                  هِنْدِىّ: <i>it is an aperient; a discutient of flatulences;</i> (K, * TA;) <i>strengthening to the brain and the spleen and the kidneys and the bowels; and diuretic; and has the property of arresting the excessive flow of blood from the womb.</i> (K, TA. [Mentioned also voce سَبَلٌ, as called سُنْبُلُ الطِّيبِ.]) السُّنْبُلُ الرُّمِىُّ [also signifies <i>Spikenard,</i> or perhaps <i>a variety thereof;</i>] <i>i. q.</i> <br>\
+                  النَّارِدِينُ.(K.)    </entryFree> <br>\
+<b>سَنْبَلَةٌ</b>               1     <br>\
+                     سَنْبَلَةٌ<br>\
+                     ذ<br>\
+                   The [<i>kind of trees called</i>] عِضَاه [q. v.]. (Fr, K.) [It is said in the TA that the ن in this word is augmentative: but the same is held by some to be the case in other words mentioned in this art.]    </entryFree> <br>\
+<b>قَمِيصٌ سُنْبُلَانِىٌّ</b>               1     <br>\
+                     قَمِيصٌ سُنْبُلَانِىٌّ<br>\
+                     ذ<br>\
+                  <i>A shirt ample in length,</i> or <i>reaching to,</i> or <i>towards, the ground:</i> or so called in relation to a town, or district, in the Greek Empire. (&#39;Abd-El-Wahháb El-Ghana wee, K, TA.)   </entryFree> <br>\
+' } );

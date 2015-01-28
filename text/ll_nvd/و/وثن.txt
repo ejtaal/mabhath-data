@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'وثنوَثَنٌ<br>\
+An idol: see صَنَمٌ and عَثَنٌ and عَنَنٌ.<br>\
+' } );

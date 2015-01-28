@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ملبمَلَابٌ: see art. لوب, in which, as well as here,<br>\
+it is mentioned in the K.<br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'ديف1<br>\
+دَافَهُ, aor. يَدِيفُهُ, inf. n. دَيْفٌ: see 1 in art.<br>\
+دوف.<br>\
+' } );

@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '<em>كدح</em>            1                  كدح<br>\
+<b>كَدَحَ</b>               1     <br>\
+                     كَدَحَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَدَحَ<br>\
+                  , (inf. n. كَدْحٌ, S,) <i>He worked</i> or <i>wrought; laboured; employed himself actively;</i> syn. سَعَى; (S, K;) and عَمِلَ: (S:) <i>he wrought for himself good</i> or <i>evil:</i> (K:) <i>he was eager, and strove, laboured,</i> or <i>exerted himself, and wearied himself, in work, in the affairs relating to the present world and in those relating to the world to come:</i> (Zj:) <i>he toiled,</i> or <i>laboured hard.</i> <br>\
+                   (S, K.) هُوَ يَكْدَحُ فِى كَذَا <br>\
+                  <i>He toils,</i> or <i>labours hard, in such a thing,</i> or <i>affair.</i> (S.) ―         -b2-  كَدَحَ <br>\
+                  لِعِيَالِهِ, and ↓ <br>\
+      اكتدح, <i>He sought, sought after,</i> or <i>sought to gain, sustenance;</i> or <i>he gained, acquired,</i> or <i>earned; for his family,</i> or <i>household;</i> syn. كَسَبَ, (S, K,) or اكتسب. (L.)       -A2-  كَدَحَ <br>\
+                  وَجْهَهُ <br>\
+                  <i>It</i> (a thing, S) <i>scratched,</i> or <i>lacerated, his face:</i> (S, K:) or <i>did to his face that which disfigured it,</i> or <i>rendered it ugly</i> or <i>unseemly:</i> as also ↓ <br>\
+      كدّحهُ, (K,) inf. n. تَكْدِيحٌ: (TA:) or كدّح, inf. n. تكديح, signifies <i>it scratched,</i> or <i>lacerated, much,</i> or <i>many times,</i> or <i>in many places:</i> (S:) also [so in the L; but in the K, or] كَدَحَ in the phrase كَدَحَ وَجْهَهُ signifies اَفْسَدَ; (K;) you say كَدَحَ وَجْهَ اَمْرِهِ, meaning <i>he marred his affair.</i> (L.) ―         -b2-  كَدَحَ رَاْسَهُ <br>\
+                  <i>He separated his hair</i> with a comb. (K.)    </entryFree> <br>\
+                     كَدَّحَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>تكدّح</b>               1     <br>\
+                     تكدّح<br>\
+                     ذ<br>\
+                  <i>It</i> (the skin) <i>became scratched,</i> or <i>lacerated, much,</i> or <i>many times,</i> or <i>in many places.</i> (S, K.) ―         -b2-  وَقَعَ مِنَ السَّطْحِ فَتَكَدَّحَ <br>\
+                  <i>He fell from the flat top,</i> or <i>roof,</i> of the house, <i>and became much broken</i> [<i>in his skin</i>]. (L.)    </entryFree> <br>\
+<b>كَدْحٌ</b>               1     <br>\
+                     كَدْحٌ<br>\
+                     ذ<br>\
+                  <i>A scratch,</i> or <i>laceration, of the skin; i. q.</i> <br>\
+                  خَدْشٌ: (S, K:) or a كَدْح is <i>more</i> (or <i>larger,</i> L) <i>than a</i> <br>\
+                  خَدْش: (S:) <i>any mark made by scratching</i> or <i>biting:</i> (IAth:) pl. كُدُوحٌ. (S, K.) Ex. بِهِ كَدْحٌ, (S, K,) and كُدُوحٌ, (S,) <i>He has upon him a scratch, &amp;amp;c.</i> (S, K.)    </entryFree> <br>\
+<b>اـِنَّكَ كَادِحٌ اـِلَى رَبِّكَ</b>               1     <br>\
+                     اـِنَّكَ كَادِحٌ اـِلَى رَبِّكَ<br>\
+                     ذ<br>\
+                  , [Kur lxxxiv. 6,] <i>Verily thou workest,</i> or <i>labourest,</i> (S,) or, <i>workest for thyself good</i> or <i>evil,</i> (TA,) or, <i>strivest,</i> or <i>labourest, in thy work until</i> the meeting of <i>thy Lord,</i> i. e., until death. (Jel.)    </entryFree> <br>\
+<b>حِمَارٌ مُكَدَّحٌ</b>               1     <br>\
+                     حِمَارٌ مُكَدَّحٌ<br>\
+                     ذ<br>\
+                  <i>An ass much lacerated by the bites of other asses.</i> (S, K.) A wild ass is termed مكدّح because he is lacerated by the bites of other asses. (A&#39;Obeyd.)   </entryFree> <br>\
+' } );

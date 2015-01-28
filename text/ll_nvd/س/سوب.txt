@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'سوبسُوبَةٌ A long, or far, journey; like سُبْأَةٌ;<br>\
+(K, TA;) of which it is a dial. var.: a short<br>\
+journey is termed سُرْبَةٌ. (TA.)<br>\
+سُوبِيَةٌ A well-known [beverage of the kind<br>\
+called] نَبِيذ, prepared from wheat, and much<br>\
+drunk by the people of Egypt, (L, TA,) at their<br>\
+festivals: (TA:) and also prepared from rice:<br>\
+(MF, TA:) [also from the pips of a species<br>\
+of melon, called in Egypt عَبْدَلَّاوِىّ; (see art.<br>\
+عبد; and see also White&#39;s “ Abdollatiphi Hist.<br>\
+Aegypti Compendium,” pp. 52-3; or De Sacy&#39;s<br>\
+transl., pp. 34-5;) moistened and pounded, and<br>\
+steeped in water, which is then strained, and<br>\
+sweetened with sugar:] it is mentioned in a trad.<br>\
+and by several writers. (TA.)<br>\
+' } );

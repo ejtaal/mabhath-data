@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'لفط3<br>\
+لَافَطَهُ: see فَارَطَهُ.<br>\
+' } );

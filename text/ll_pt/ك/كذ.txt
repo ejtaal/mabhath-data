@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>كذ</em>            1                  كذ<br>\
+<b>كَذَّ</b>               1     <br>\
+                     كَذَّ<br>\
+                     ذ<br>\
+                  , [aor.      <br>\
+                     كَذِ٣َ<br>\
+                  ,] (K,) inf. n. كَذٌّ, (TA,) <i>It</i> (a thing, TA) <i>was,</i> or <i>became, rough,</i> (K,) <i>and hard.</i> (TA.)    </entryFree> <br>\
+<b>اكذّوا</b>               1     <br>\
+                     اكذّوا<br>\
+                     ذ<br>\
+                  <i>They,</i> (a people, Msb,) <i>became among stones such as are termed</i> <br>\
+                  كَذَّان. (L, Msb, K.)    </entryFree> <br>\
+<b>كَذَّانٌ</b>               1     <br>\
+                     كَذَّانٌ<br>\
+                     ذ<br>\
+                  <i>Soft stones,</i> (AA, S, M, L, Msb, K,) as also جَذَّانٌ, (As, L in art. جذ,) <i>like dry pieces of clay,</i> (S, L, Msb, K,) <i>and foraminous,</i> or <i>pierced with holes,</i> (M, L,) or <i>sometimes pierced with holes:</i> n. un. with ة. (L, Msb.) Some say, that the ن is a radical letter; (L, Msb;) but the form of the verb اَكَذَّ is against their assertion; for if the ن were so, it would appear in the verb. (Msb.)    </entryFree> <br>\
+<b>كَذْكَذَةٌ</b>               1     <br>\
+                     كَذْكَذَةٌ<br>\
+                     ذ<br>\
+                  <i>Intense redness.</i> (K.)   </entryFree> <br>\
+' } );

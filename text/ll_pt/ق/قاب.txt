@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>قاب</em>            1                  قاب<br>\
+<b>قَاَبَ الطَّعَامَ</b>               1     <br>\
+                     قَاَبَ الطَّعَامَ<br>\
+                     ذ<br>\
+                  , (As, S, O, K,) aor.      <br>\
+                     قَاََ<br>\
+                  , inf. n. قَاْبٌ, (K,) <i>He ate the food.</i> (As, S, O, K.) ―         -b2-  And قَاَبَ المَا=ءَ <br>\
+                  <i>He drank the water;</i> as also قَيِبَهُ: (K:) or <i>he drank all the water that was in the vessel.</i> (As, S, O, K.) ―         -b3-  And قَيِبَ مِنَ الشَّرَابِ, aor.      <br>\
+                     قَاََ<br>\
+                  , inf. n. قَاْبٌ and قَاَبٌ, (K, TA,) the latter thus (مُحَرَّكَة), agreeably with analogy, (TA, [but in the CK قَا=ب,]) <i>He became filled with the beverage;</i> (Lth, K;) as also قَاَبَ مِنْهُ: (Lth:) or <i>he drank the beverage:</i> (TA:) and, or simply قَيِبَ, like صَيِبَ, (S,) <i>he drank much water.</i> (S, TA.)    </entryFree> <br>\
+<b>قَوُوبٌ</b>               1     <br>\
+                     قَوُوبٌ<br>\
+                     ذ<br>\
+                  : see مِقْاَبٌ.    </entryFree> <br>\
+<b>اـِنَا=ءٌ قَوْاَبٌ</b>               1     <br>\
+                     اـِنَا=ءٌ قَوْاَبٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      قَوْاَبِىٌّ <br>\
+                  <i>A vessel that takes,</i> or <i>receives, much water:</i> (O, K:) the latter epithet expl. by Lth as signifying <i>taking,</i> or <i>receiving, much.</i> (L.)    </entryFree> <br>\
+<b>قَوْاَبِىٌّ</b>               1     <br>\
+                     قَوْاَبِىٌّ<br>\
+                     ذ<br>\
+                  : see what next precedes.    </entryFree> <br>\
+<b>مِقْاَبٌ</b>               1     <br>\
+                     مِقْاَبٌ<br>\
+                     ذ<br>\
+                   (S, O, K) and ↓ <br>\
+      قَوُوبٌ (K) One <i>who drinks much water:</i> (S, O:) or one <i>who drinks much.</i> (K.)   </entryFree> <br>\
+' } );

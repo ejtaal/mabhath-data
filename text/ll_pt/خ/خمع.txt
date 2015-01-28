@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>خمع</em>            1                  خمع<br>\
+<b>خَمَعَ</b>               1     <br>\
+                     خَمَعَ<br>\
+                     خمع<br>\
+                  , (Lth, S, K,) aor.      <br>\
+                     خَمَعَ<br>\
+                  , inf. n. خَمْعٌ (Lth, IDrd, K) and خُمُوعٌ (Lth, K) and خَمَعَانٌ, (Az, K,) said of a hyena, (K,) &amp;amp;c., (TA,) <i>He limped,</i> or <i>had a slight lameness,</i> (IDrd, S,) in his gait, or manner of going; (S;) <i>he went as though he had a lameness.</i> (K, TA.)    </entryFree> <br>\
+<b>خِمْعٌ</b>               1     <br>\
+                     خِمْعٌ<br>\
+                     خمع<br>\
+                  <i>A wolf:</i> (S, K:) pl. اَخْمَاعٌ. (TA.) ―         -b2-  And hence, (TA,) (assumed tropical:)  <i>A thief.</i> (S, K.)    </entryFree> <br>\
+<b>خُمَاعٌ</b>               1     <br>\
+                     خُمَاعٌ<br>\
+                     خماع<br>\
+                  <i>A limping,</i> or <i>slight lameness</i> (IDrd, S;) <i>a manner of going as though with a lameness;</i> a subst. from the above-mentioned verb. (K.) You say, بِهِ خُمَاعٌ [<i>He has a limping,</i> &amp;amp;c.]. (S.)    </entryFree> <br>\
+<b>خَمُوعٌ</b>               1     <br>\
+                     خَمُوعٌ<br>\
+                     خموع<br>\
+                  , applied to a woman, <i>Vitious,</i> or <i>immoral; an adulteress,</i> or <i>a fornicatress;</i> as also ↓ <br>\
+      خَيْمَعٌ. (Ibn-&#39;Abbád, K.)    </entryFree> <br>\
+<b>خَامِعٌ</b>               1     <br>\
+                     خَامِعٌ<br>\
+                     خامع<br>\
+                   [<i>Limping,</i> or <i>having a slight lameness;</i>] <i>going as though having a lameness.</i> (TA.) ―         -b2-  And hence, (TA,) خَامِعَةٌ <br>\
+                  <i>A hyena,</i> or <i>a female hyena:</i> (S, K:) pl. خَوَامِعُ. (K.)    </entryFree> <br>\
+<b>خَيْمَعٌ</b>               1     <br>\
+                     خَيْمَعٌ<br>\
+                     خيمع<br>\
+                  : see خَمُوعٌ.   </entryFree> <br>\
+' } );

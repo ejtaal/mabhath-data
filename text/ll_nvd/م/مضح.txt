@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'مضح1<br>\
+مَضَحَ عِرْضَهُ, aor.<br>\
+مَضَحَ, (inf. n. مَضْحٌ; TA;)<br>\
+and ↓ أَمْضَحَهُ, (inf. n. إِمْضَاحٌ; TA;) He disgraced, or dishonoured, him; blasted his reputation; (El-Umawee, S, K;) imputed to him,<br>\
+or accused him of, a vice, or fault, or the like.<br>\
+(TA.)<br>\
+4<br>\
+أَمْضَحَ see 1.<br>\
+' } );

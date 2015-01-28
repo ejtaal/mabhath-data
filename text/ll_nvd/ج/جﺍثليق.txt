@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'جاثليقجَاثَلِيقٌ [an arabicized word, from the Greek<br>\
+� degreesαθολι� degreesὸ�, The catholicos; i. e.] the primate of the<br>\
+Christians in the country of El- Islám, [residing]<br>\
+in the [chief] city of El-Islám: under him is<br>\
+the بِطْرِيق [or بِطْرِيك, or بَطْرَك, i. e. patriarch]<br>\
+of Antioch: then, under him, is the مَطْرَان [or<br>\
+metropolitan]; under whom is the أُسْقُفّ [or<br>\
+bishop], in every province: then, the قِسِّيس [or<br>\
+priest]: then, the شَمَّاس [or deacon]: (K:)<br>\
+accord. to Sgh, a judge, or ruler: in the Tekmileh,<br>\
+a wise man, or sage. (TA.) ج and ق do not<br>\
+occur in any one word, unless it is arabicized<br>\
+or a word imitative of a sound: (S and K * at<br>\
+the beginning of the section in which this word<br>\
+is mentioned:) accord. to El-Jawáleekee, they<br>\
+do not occur in any Arabic word unless separated,<br>\
+as in جَلَوْبَقٌ and جَرَنْدَقٌ: accord. to Lth, they<br>\
+occur in many words, most of which are arabicized. (TA ib.)<br>\
+' } );

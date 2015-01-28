@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>سكبج</em>            1                  سكبج<br>\
+<b>سَكْبَجَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     سَكْبَجَ<br>\
+                     ذ<br>\
+                  <i>He prepared</i> <br>\
+                  سِكْبَاج. (TA.)    </entryFree> <br>\
+<b>سِكْبَاجٌ</b>               1     <br>\
+                     سِكْبَاجٌ<br>\
+                     ذ<br>\
+                   an arabicized word, (O, Msb, K,) with kesr (Msb, K) to the س, not with fet-h, because there is no word of the measure فَعْلَالٌ except of the reduplicate class [like زَلْزَالٌ &amp;amp;c.], (Msb,) from سِكْ, meaning “vinegar,” in Pers., and بَاج, [arabicized from the Pers. بَاهَا,] i. e. لَوْنٌ [as meaning “a sort,” or “species,” of food or viands]; (O; [in which it is erroneously said that بَاج is in Pers. بَاوَا;]) or from [the Pers.] سِرْكَهْ پَاچَهْ; [سِرْكَهْ meaning “vinegar;” and پَاچَهْ “sheeps&#39; feet,” or “trotters;”] (TA;) [but the former derivation is evidently the more probable;] <i>A well-known kind of food;</i> (Msb;) <i>flesh-meat cooked with vinegar:</i> this is the best that is said [in explanation of the word]: (TA:) [in the present day, applied to <i>a sort of food composed of flesh-meat, wheat-flour, and vinegar;</i> and sometimes to other varieties of food, but vinegar, I believe, enters into the composition of them all: also called سِكْبَا; from the Pers. سِكْ “vinegar,” and بَا “spoon-meat:” accord. to Golius, on the authority of the Loghat NiametAllah Khaleel Soofee, <i>a sort of food composed of flesh-meat cut in pieces,</i> (<i>to which are afterwards added raisins, a few figs, and some vetches,</i>) <i>with vinegar and honey,</i> or <i>acid syrop:</i> and سِكْبَاجُ البَقَرِ is a name given to <i>such food prepared with beef:</i>] سِكْبَاجٌ اَصْفَرُ is <i>a well-known sort of broth</i> [or <i>soup</i>] <i>in which is saffron,</i> wherefore it is termed اصفر. (Mgh.)   </entryFree> <br>\
+' } );

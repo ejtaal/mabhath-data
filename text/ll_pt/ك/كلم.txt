@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>كلم</em>            1                  كلم<br>\
+<b>كَالَمَهُ</b>               1     <br>\
+                     كَالَمَهُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  نَاطَقَهُ. (TA in art. نطق.)    </entryFree> <br>\
+<b>تَكَلَّمَ غَنْهُ</b>               1     <br>\
+                     تَكَلَّمَ غَنْهُ<br>\
+                     ذ<br>\
+                  <i>He spoke for him;</i> syn. عَبَّرَ. (S, Msb, art. عبر.)    </entryFree> <br>\
+<b>تَكَالَمَا</b>               1     <br>\
+                     تَكَالَمَا<br>\
+                     ذ<br>\
+                  <i>They spoke, talked,</i> or <i>discoursed, each with the other.</i> (S, * M.)    </entryFree> <br>\
+<b>كَلِمَةٌ</b>               1     <br>\
+                     كَلِمَةٌ<br>\
+                     ذ<br>\
+                  <i>A word:</i> (Kull, 301:) <i>an expression:</i> (K:) <i>a proposition: a sentence:</i> [<i>a saying:</i>] <i>an argument.</i> (Kull.) <i>An assertion: an expression of opinion.</i>    <br>\
+<b>كَلَامٌ</b>               1     <br>\
+                     كَلَامٌ<br>\
+                     ذ<br>\
+                   is a gen. n., applying to little and to much, or to few or many; (S, TA;) to what is a sing. and to what is a pl. (TA.) It may therefore be rendered <i>A saying, &amp;amp;c.;</i> and <i>sayings,</i> or <i>words:</i> see an ex. voce اَفْكَلُ, in art. فكل. ―         -b2-  كَلَامٌ <br>\
+                  <i>Speech; something spoken;</i> [<i>diction; language;</i>] <i>parlance; talk; discourse:</i> (Msb, &amp;amp;c.:) <i>a saying: a say: something said:</i> in grammar, <i>a sentence.</i> <br>\
+                  الكَلِمُ الطَّيِّبُ: see طَيِّتٌ. ―         -b3-  كَلَامٌ: also, a quasi-inf. n. for تكليم, sometimes governing as a verb, [like the inf. n.,] accord. to some of the grammarians; as in the following ex.: <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        قالوا كلامك هنداً وهى مصغية<br>\
+                     <L><br>\
+                        يشفيك قلت صحيح ذاك لو كانا<br>\
+                  </quote> (Sharh Shudhoor edh-Dhahab.) See اـِسْمُ مَصْدَرٍ. ―         -b4-  عِلْمُ الكَلَامِ [<i>The theology of the Muslims;</i>] <i>a science in which one investigates the being and attributes of God, and the conditions of possible things with respect to creation and restitution, according to the rule of El-Islám;</i> which last restriction is for the exclusion of the theology of the philosophers. (KT.)    </entryFree> <br>\
+<b>رَجُلٌ كِلِّيمٌ</b>               1     <br>\
+                     رَجُلٌ كِلِّيمٌ<br>\
+                     ذ<br>\
+                  , like سِكِّيتّ [and حِدِّيثٌ] <i>i. q.</i> <br>\
+                  مِنْطِيقٌ. (Ibn-&#39;Abbád, Z, TA.)    </entryFree> <br>\
+<b>كُلْيَةٌ</b>               1     <br>\
+                     كُلْيَةٌ<br>\
+                     ذ<br>\
+                   of a bow: see اَبْهَرُ ―         -b2-  of a مَزَادَة: see خُرْبَةٌ.    </entryFree> <br>\
+<b>مُتَكَلِّمٌ</b>               1     <br>\
+                     مُتَكَلِّمٌ<br>\
+                     ذ<br>\
+                  <i>A Muslim theologian.</i> See عِلْمُ الكَلَامِ.   </entryFree> <br>\
+' } );

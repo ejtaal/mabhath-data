@@ -1,0 +1,36 @@
+load_data( { book: 'll_nvd', text: 'نفز1<br>\
+نَفَزَ, (S, A, Msb, K,) aor.<br>\
+نَفِزَ, (S, Msb, K,)<br>\
+inf. n. نَفَزَانٌ (S, K) and نَفْزٌ (Msb, TA) and نُفُوزٌ,<br>\
+(TA,) He (an antelope) leaped, jumped, sprang,<br>\
+or bounded; (S, A, K;) as also ↓ نفّز: (A:) or<br>\
+did so in his running: (As, TA:) or did so and<br>\
+alighted with his legs spread: when he alights<br>\
+with his legs together, the action is termed قَفْزٌ:<br>\
+(TA:) or did so after putting his legs together:<br>\
+(AZ, TA:) or leaped upwards with all his legs at<br>\
+once and put them down without separating them:<br>\
+(Msb:) or raised his legs together and put them<br>\
+down together: or ran at the utmost vehement<br>\
+rate of the running termed إِحْضَار. (TA.)<br>\
+2<br>\
+نَفَّزَ see 1.<br>\
+-A2-  نفّزهُ, (K,) or نفّزتهُ, (S, A,) He,<br>\
+or she, danced, or dandled, him, (S, A, K,)<br>\
+namely, a child; (S, A;) as also نقّزته. (TA,<br>\
+art. نقز.)<br>\
+6<br>\
+تنافزوا They (children) contended together in<br>\
+leaping, jumping, springing, or bounding, in play.<br>\
+(A, K.)<br>\
+نَفْزَةٌ An antelope&#39;s running by reason of fright.<br>\
+(AA, TA.)<br>\
+نَفُوزٌ (S) and ↓ يَنْفُوزٌ (K) An antelope that leaps,<br>\
+jumps, springs, or bounds, (S, K,) [in one or<br>\
+other of the manners described above,] much, or<br>\
+vehemently. (TA.)<br>\
+نَافِزَةٌ, sing. of نَوَافِزُ, (TA,) which signifies The<br>\
+legs of a beast of carriage: (K, TA:) but the<br>\
+word commonly known is نَوَاقِزُ, with ق. (TA.)<br>\
+يَنْفُوزٌ: see نفوز.<br>\
+' } );

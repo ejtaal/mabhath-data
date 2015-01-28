@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'كرس7<br>\
+اِنْكَرَسَ فِى الشَّىْءِ<br>\
+He entered into the thing<br>\
+and concealed himself. (IKtt, in TA, art. نمس.)<br>\
+كُرْسِىُّ الخَاتَمِ<br>\
+(T, K, art. بظر) The bezel of the<br>\
+ring. (TK.)<br>\
+كِرْسَنَّةٌ<br>\
+, thus written: (TA:) [Bitter vetch:]<br>\
+see خَانِقٌ.<br>\
+كِرْسِنِىٌّ<br>\
+[or كَرْسَنِىٌّ] A sort of<br>\
+حِمَّص. (The<br>\
+Minháj, in TA, art. حمص.)<br>\
+' } );

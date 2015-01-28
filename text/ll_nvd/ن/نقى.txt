@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'نقى2<br>\
+نَقَّاهُ<br>\
+He cleansed it; cleared it; picked it;<br>\
+purified it; removing from it what was bad.<br>\
+(Msb, &amp;c.)<br>\
+10<br>\
+اِسْتَنْقَى<br>\
+He took extraordinary pains, or<br>\
+the utmost pains, in cleansing his body. (Mgh.)<br>\
+You say also, اِسْتَنْقَى الذَّكَرَ مِنَ البَوْلِ (K, art.<br>\
+برأ,) [He took extraordinary pains in cleansing<br>\
+the<br>\
+ذَكَر<br>\
+from urine: or] he cleansed the<br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'وكظوَاكِظٌ عَلَى كَذَا<br>\
+and مُوَاكِظٌ<br>\
+i. q.<br>\
+وَاظِبٌ and<br>\
+مُوَاظِبٌ: Attending assiduously to such a thing;<br>\
+intent upon it. (Lh, in TA, art. وظب.)<br>\
+' } );

@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;نكا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  نكا<br>\
+&lt;entryFree id=&quot;n40445&quot; key=&quot;نَكَاَ القَرْحَةَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَكَاَ القَرْحَةَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;. (S, K,) inf. n. نَكْءٌ, (S,) &lt;i&gt;He peeled off the scab from the sore&lt;/i&gt; (S, K,) &lt;i&gt;before it was healed, and it became moist in consequence.&lt;/i&gt; (K.) [See also نَكَى.]       -A2-  نَكَاَ العَدُوَّ, and فِى <br>\
+                  العَدُوِّ, dial. form of نَكَى [q. v.] (K.) By some rejected. (TA)       -A3-  نَكَاَهُ حَقَّهُ (like رَكَاهُ, TA), inf. n. نَكْءٌ, &lt;i&gt;He paid him his due.&lt;/i&gt; (K.) ―         -b2-  هُنِّيتَ وَلَا تُنْكاْ, (S,) and تُنْكَ, (TA,) and تُنْكهُ (S, for تُنْكَ or تُنْكاْ, TA), &lt;i&gt;Mayest thou be made to have enjoyment&lt;/i&gt; in that which thou hast received, &lt;i&gt;and not experience pain!&lt;/i&gt; (S) &lt;i&gt;Mayest thou gain what is good, and may harm not befall thee!&lt;/i&gt; (T:) or, with the latter of the two verbs without      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     نَكُاَ<br>\
+                  &lt;/form&gt; (تنك), &lt;i&gt;may God not make thee discomfited&lt;/i&gt; (AHeyth, L.) [Accord. to AHeyth. as mentioned in the TA, the latter verb in this proverb is written تَنْكَهْ and تُنْكَهْ; but the right reading is doubtless تُنْكَ and تُنْكَهْ: this is shown by the explanation there following.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40446&quot; key=&quot;انتكات القَرْحَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     انتكات القَرْحَةُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The scab peeled off from the sore before it was healed, and it became moist in consequence.&lt;/i&gt; (A, TA.)       -A2-  انتكا مِنْهُ حَقَّهُ (like ازدكا, TA) &lt;i&gt;He received from him his due.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40447&quot; key=&quot;نُكَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نُكَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and زُكَاَةٌ <br>\
+                  &lt;i&gt;One who pays his debts, and does not put off.&lt;/i&gt; (K.)       -A2-  نَكَاَةُ الطُّرْثُوثِ, and نُكَاَةُ, dial. form of نَكَعَة [q. v.]. (K.)   &lt;/entryFree&gt; <br>\
+' } );

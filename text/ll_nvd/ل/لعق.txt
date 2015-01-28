@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'لعق1<br>\
+لَعِقَ He licked (S, K, TA) his fingers: (TA:)<br>\
+he ate a thing with his finger [by taking it up<br>\
+therewith]. (Msb.)<br>\
+لَعُوقٌ A linctus.<br>\
+مِلْعَقَةٌ [A spoon; vulgo مَعْلَقَة;] a well-known<br>\
+instrument. (Msb.)<br>\
+' } );

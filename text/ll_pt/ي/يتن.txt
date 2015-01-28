@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يتن</em>            1                  يتن<br>\
+<b>وَلَدَتْهُ يَتْنا</b>               1     <br>\
+                     وَلَدَتْهُ يَتْنا<br>\
+                     ذ<br>\
+                  <i>She brought him forth feet foremost.</i> (M.) In Fresnel&#39;s three copies of the Aghánee, (see his “ Seconde lettre sur l&#39;Histoire des Arabes avant l&#39;Islamisme, ” Journal Asiatique, 3rd Series, no. 16,) erroneously written نينا.   </entryFree> <br>\
+' } );

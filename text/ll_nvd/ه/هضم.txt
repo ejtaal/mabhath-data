@@ -1,0 +1,42 @@
+load_data( { book: 'll_nvd', text: 'هضم1<br>\
+هضَمَهُ and<br>\
+اِهْتَضَمَهُ<br>\
+: see تَخَوَّفَهُ. ―<br>\
+-b2-  هَضَمَ لَهُ<br>\
+مِنْ مَالِهِ: see خَضَمَ.<br>\
+5<br>\
+تَهَضَّمَ<br>\
+see 7.<br>\
+7<br>\
+اِنْهَضَمَ<br>\
+It (a thing) melted, or dissolved, after<br>\
+being congealed. (JK.) ―<br>\
+-b2-  اِنْهَضَمَتِ الثَّمَرَةُ, and<br>\
+↓ تَهَضَّمَت, The fruit broke; or became broken,<br>\
+or crushed; syn. تَشَدَّخَتْ; (TA;) and became<br>\
+mellow, so as to be easy of digestion. See also<br>\
+بَوْعٌ ―<br>\
+-b3-  اِنْهَضَمَ, said of food, (MA), It was, or<br>\
+became, digestible, or easy of digestion. (MA,<br>\
+KL.) ―<br>\
+-b4-  اِنْهضَامٌ of the زَوْر [app. Depression].<br>\
+(K in art. جنف. [There coupled with دُخُولٌ.])<br>\
+See also صَقَلٌ.<br>\
+8<br>\
+إِهْتَضَمَ<br>\
+see 1. ―<br>\
+-b2-  اِهْتَضَمَ الشَّجَزَ مِنْ أَعَلاَهُ (K voce<br>\
+شَعَبَ) He cropped the tops of the shrubs: see<br>\
+شَعَبَ.<br>\
+هَضَمٌ<br>\
+Contraction of the sides, (S, K,) and<br>\
+lankness of the belly, and smallness of the flank:<br>\
+(K:) in a horse it is a fault. (S.)<br>\
+هَضُومٌ<br>\
+: see هَاضُومٌ.<br>\
+هَاضُومٌ<br>\
+Any medicine [or other thing (see<br>\
+حَاطُومٌ)] that is a digestive of food; as also<br>\
+↓ هَضُومٌ; (K;) i. q.<br>\
+جَوَارِشٌ. (S.)<br>\
+' } );

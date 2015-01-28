@@ -1,0 +1,42 @@
+load_data( { book: 'll_pt', text: '<em>قرث</em>            1                  قرث<br>\
+<b>قَرِثَ</b>               1     <br>\
+                     قَرِثَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَرَثَ<br>\
+                  , (O, K,) inf. n. قَرَثٌ, (TA,) <i>He toiled;</i> and <i>gained</i> or <i>earned,</i> or <i>sought gain</i> or <i>sustenance.</i> (O, K.)       -A2-  قَرَثَهُ الاَمْرُ <br>\
+                  <i>i. q.</i> <br>\
+                  كَرَثَهُ. (K.) You say, قَرَثَنِى الاَمْرُ and كَرَثَنِى, meaning <i>The affair,</i> or <i>event, grieved me;</i> and <i>burdened me heavily,</i> or <i>overburdened me.</i> (As, O.)    </entryFree> <br>\
+<b>اِقْتَرَثَتِ البُسْرَتَانِ</b>               1     <br>\
+                     اِقْتَرَثَتِ البُسْرَتَانِ<br>\
+                     ذ<br>\
+                  , and الثَّلَاثُ, <i>The two unripe dates,</i> and <i>the three, grew together, intermingling.</i> (&#39;Eesà Ibn-&#39;Omar, O and TA in art. سخل.)    </entryFree> <br>\
+<b>قَرْثٌ</b>               1     <br>\
+                     قَرْثٌ<br>\
+                     ذ<br>\
+                  <i>A small</i> [<i>leathern vessel for water, of the kind called</i>] رَكْوَة: (O, K:) mentioned by Th, on the authority of IAar: (O:) فَرْثٌ is a dial. var. thereof; (TA;) [or] this latter, mentioned by Az, in art. فرث, is a mistranscription. (O.)    </entryFree> <br>\
+<b>قَرِيثَى</b>               1     <br>\
+                     قَرِيثَى<br>\
+                     ذ<br>\
+                  : see قَرِيثَا=ءُ.    </entryFree> <br>\
+<b>قَرَاثَا=ءُ</b>               1     <br>\
+                     قَرَاثَا=ءُ<br>\
+                     ذ<br>\
+                  : see what next follows, in four places.    </entryFree> <br>\
+<b>بُسْرٌ قَرِيثَا=ءُ</b>               1     <br>\
+                     بُسْرٌ قَرِيثَا=ءُ<br>\
+                     ذ<br>\
+                  , (Ks, S, O, K,) with the lengthened alif and without tenween, (Ks, S, O,) and ↓ <br>\
+      قَرَاثَا=ءُ; (O, K;) and تَمْرٌ قَرِيثَا=ءُ and ↓ <br>\
+      قَرَاثَا=ءُ: (Lh, K:) and نَخْلٌ قَرِيثَا=ءُ (Ks, S, O, K) and ↓ <br>\
+      قَرَاثَا=ءُ: (K:) قَرِيثَا=ء is [thus] used as an epithet, and it is also used as the complement of a prefixed noun; [so that one says also بُسْرُ قَرِيثَا=ءَ, and app. ↓ <br>\
+      قَرَاثَا=ءَ likewise, and each in like manner with تَمْرُ and with نَخْلُ prefixed;] and it is dualized and is pluralized; and there is no word like it in form, except كَرِيثَا=ء, in which the ك is app. a substitute [for ق]; (ISd, L;) and which is said by AZ to be syn. with قَرِيثَا=ء as applied to بُسْر: (L:) [but كَثِيرَا=ءُ should be added as a word of the same form; and perhaps there are other instances:] and accord. to Abu-l-Jarráh, one says ↓ <br>\
+      تَمْرٌ قَرِيثَى, (S, O,) not with the lengthened alif, (S,) i. e. with the shortened alif: (O:) the meaning is, <i>A species of dates,</i> (S, K,) <i>of</i> (K) <i>the sweetest,</i> or <i>best, thereof, in the state in which they are termed</i> <br>\
+                  بُسْر; (S, O, * K;) <i>a species of dates, which are black, and of which the skin quickly falls off from the</i> <br>\
+                  لِحَا=ء [or <i>flesh</i>] <i>thereof when they become ripe;</i> as AHn says, they are <i>the best of dates in the state in which they are termed</i> <br>\
+                  بُسْر; and he adds, <i>the dried thereof are black:</i> (L, TA:) [and <i>palm trees that produce such dates:</i>] some say that the word [قريثا=ء] is اَعْجَمِىّ [i. e. foreign or Pers.]. (TA.)    </entryFree> <br>\
+<b>قِرِّيثٌ</b>               1     <br>\
+                     قِرِّيثٌ<br>\
+                     ذ<br>\
+                  <i>A certain species of fish;</i> (S;) a dial. var. of جِرِّيثٌ [q. v.]. (S, K. *)   </entryFree> <br>\
+' } );

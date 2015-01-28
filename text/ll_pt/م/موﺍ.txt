@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;موا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  موا<br>\
+&lt;entryFree id=&quot;n43762&quot; key=&quot;ما=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ما=ءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Water.&lt;/i&gt; ―         -b2-  مَا=ءُ الظَّهْرِ [&lt;i&gt;The seminal fluid&lt;/i&gt;]. (K, voce اِنْبَتَّ.) See Kur, lxxxvi. 6, 7, and see 4 in art. روق. ―         -b3-  مَا=ءٌ <br>\
+                  &lt;i&gt;Lustre&lt;/i&gt; [likened to water, and running water,] of the teeth, (IbrD,) &amp;amp;c: see ظَلْمٌ and دَرْزٌ and غَرْبٌ. ―         -b4-  مَا=ءٌ The &lt;i&gt;water&lt;/i&gt; of a sword: see فِرِنْدٌ and رَوْنَقٌ: also its &lt;i&gt;lustre.&lt;/i&gt; ―         -b5-  سَيْفٌ كَثِيرُ المَا=ءِ [&lt;i&gt;A sword much diversified with wavy marks&lt;/i&gt; or &lt;i&gt;streaks in its grain;&lt;/i&gt; as are the swords of Damascus &amp;amp;c.] (TA voce اـِبْرِيقٌ.) ―         -b6-  بَنَاتُ المَا=ءِ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  الغَرَانِيقُ. [&lt;i&gt;storks&lt;/i&gt; or &lt;i&gt;cranes&lt;/i&gt;]. (L, art. وضر.) See عِرْسٌ. ―         -b7-  اِبْنُ المَا=ءِ is (tropical:)  &lt;i&gt;A kind of bird;&lt;/i&gt; pl. بَنَاتُ المَا=ءِ; (Mgh in art. بنى:) &lt;i&gt;the aquatic bird; the bird of the water.&lt;/i&gt; (Msb in art. بنو.) ―         -b8-  مَا=ءُ الشَّبَابِ: see شَبَابٌ. ―         -b9-  مَا=ءُ الوَجْهِ: see حَقَنَ and تَشَهَّلَ. ―         -b10-  مَا=ءُ الذَّهَبِ <br>\
+                  &lt;i&gt;Gold-wash&lt;/i&gt; for gilding: and مَا=ءُ الفِضَّةِ <br>\
+                  &lt;i&gt;Silverwash&lt;/i&gt; for silvering: you say, طَلَاهُ بِمَا=ءِ الذَّهَبِ, and الفِضَّةِ <br>\
+                  &lt;i&gt;He washed it over with gold,&lt;/i&gt; and &lt;i&gt;silver.&lt;/i&gt; ―         -b11-  مَا=ءٌ is used as a coll. gen. n., of which the n. un. is مَاءَةٌ; and therefore is sometimes made, as a pl., to have a pl. epithet: ex. مَاءٌ <br>\
+                  عِذَابٌ. (See عَذْبٌ). مَا=ءَةٌ signifies &lt;i&gt;A water; or some water.&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;3026&quot; TEIform=&quot;pb&quot;/&gt;   <br>\
+' } );

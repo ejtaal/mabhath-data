@@ -1,0 +1,36 @@
+load_data( { book: 'll_nvd', text: 'شخت1<br>\
+شَخُتَ, (S, K,) aor.<br>\
+شَخُتَ, inf. n. شُخُوتَةٌ, (K,)<br>\
+said of a man, (S,) [and app., in like manner, of<br>\
+anything,] He [or it] was, or became, thin, or<br>\
+slender, (S, L, K,) lean, and lank in the belly, not<br>\
+in consequence of emaciation. (L, K.)<br>\
+2<br>\
+تَشْخِيتٌ The bringing, conveying, or causing<br>\
+to come; syn. إِبْلَاغٌ. (K.) One says, شخّتهُ إِلَيْهِ<br>\
+He brought it, &amp;c., to him. (TK.)<br>\
+شَخْتٌ and ↓ شَخِيتٌ, (S, A, K,) the former also<br>\
+pronounced ↓ شَخَتٌ, (K, TA,) by some, (TA,)<br>\
+applied to a man, (S,) Thin, or slender, (S, A, L,<br>\
+K,) lean, and lank in the belly, not in consequence<br>\
+of emaciation: (A, L, K:) slender in the body:<br>\
+fem. of the first with ة: (TA:) pl. شِخَاتٌ: (S,<br>\
+A, K:) or شَخْتٌ signifies thin, or slender, as applied to anything: thus it is applied to him who<br>\
+is thin, or slender, in the neck, and in the legs:<br>\
+one says, [of a beast,] إِنَّه لَشَخْتُ الجُزَارَةِ Verily<br>\
+he is thin, or slender, in the legs: (TA:) and<br>\
+قَوَائِمُهُ شِخَاتٌ His legs are thin, or slender: (A:)<br>\
+and حَطَبٌ شَخْتٌ Slender firewood. (TA.) ―<br>\
+-b2-<br>\
+[Hence,] إِنَّهُ لَشَخْتُ العَطَآءِ (assumed tropical:)  Verily he is one who<br>\
+gives little. (TA.) And زَيْدٌ شَخْتُ الخُلُقِ<br>\
+(tropical:)  Zeyd is low, ignoble, or mean, in natural disposition. (A, TA.) ―<br>\
+-b3-  Some say that it is arabicized, from the Pers. سَخْت. (TA.)<br>\
+شَخَتٌ: see the next preceding paragraph.<br>\
+شَخِيتٌ: see شَخْتٌ: ―<br>\
+-b2-  and also what here<br>\
+follows.<br>\
+شِخِّيتٌ and ↓ شَخيتٌ and شِخْتِيتٌ Dust (غُبَارٌ)<br>\
+rising, or spreading, or diffusing itself. (K.)<br>\
+شِخْتِيتٌ: see what next precedes.<br>\
+' } );

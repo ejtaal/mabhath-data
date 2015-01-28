@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>مزح</em>            1                  مزح<br>\
+<b>مَزَحَ</b>               1     <br>\
+                     مَزَحَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     مَزَحَ<br>\
+                  , inf. n. مَزْحٌ, (S, K,) and quasiinf. n. مُزَاحٌ and مُزاحَةٌ, (K,) [the latter like its syn. دُعَابَةٌ,] but Fei says that this last is مَزَاحَةٌ, (TA,) [and he mentions it as an inf. n.,] <i>He jested</i> or <i>joked;</i> (S, Msb, K;) <i>contr. of</i> <br>\
+                  جَدَّ [which signifies “ he was serious, or in earnest ” ”]: (M:) or <i>he talked</i> or <i>behaved in a free and easy manner, with the view of blandishing and conciliating, without annoying;</i> so that it excludes the meaning of mocking or ridiculing or deriding. (MF.)    </entryFree> <br>\
+<b>مازحهُ</b>               1     <br>\
+                     مازحهُ<br>\
+                     ذ<br>\
+                  , inf. n. مِزَاحٌ (S, K) and مُمَازَحَةٌ, (K,) <i>He jested,</i> or <i>joked, with him.</i> (S, K.)    </entryFree> <br>\
+<b>تَمَازَحَا</b>               1     <br>\
+                     تَمَازَحَا<br>\
+                     ذ<br>\
+                  <i>They two jested,</i> or <i>joked, one with the other.</i> (S, K.)    </entryFree> <br>\
+<b>مَزْحَةٌ</b>               1     <br>\
+                     مَزْحَةٌ<br>\
+                     ذ<br>\
+                  <i>A jest,</i> or <i>joke; a single act of jesting,</i> or <i>joking.</i> (Msb.)    </entryFree> <br>\
+<b>مُزَاحٌ</b>               1     <br>\
+                     مُزَاحٌ<br>\
+                     ذ<br>\
+                   and مُزَاحَةٌ, substs., <i>A jesting,</i> or <i>joking.</i> (S, K.) [See 1.]    </entryFree> <br>\
+<b>رَجُلٌ مَزَّاحٌ</b>               1     <br>\
+                     رَجُلٌ مَزَّاحٌ<br>\
+                     ذ<br>\
+                  <i>A man who is a great jester,</i> or <i>joker.</i> (A.)   </entryFree> <br>\
+' } );

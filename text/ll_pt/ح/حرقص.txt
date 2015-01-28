@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>حرقص</em>            1                  حرقص<br>\
+<b>حُرْقُوصٌ</b>               1     <br>\
+                     حُرْقُوصٌ<br>\
+                     حرقوص<br>\
+                  <i>A certain insect, resembling the flea,</i> (S, A, K,) <i>to which, sometimes, there grow two</i> <br>\
+                  <i>wings, and then it flies;</i> (S;) or, as some say, <i>larger than the flea;</i> (TA;) or <i>like the tick;</i> (A;) accord. to Lth, <i>a certain variegated insect</i> (دُوَيْبَّةٌ مُجَزَّعَةٌ); (TA;) <i>the</i> <br>\
+                  حُمَة [i. e. <i>venom,</i> or <i>sting,</i>] <i>of which is like that of the hornet;</i> (A, K;) <i>which sticks to men, and bites,</i> or <i>stings;</i> (تَلْدَغُ;) <i>and to which the extremities of whips are likened;</i> (A;) or, accord. to Az, <i>it has no</i> <br>\
+                  حُمَة <br>\
+                  <i>when it bites; but its bite occasions much pain,</i> [<i>though</i>] <i>it has no venom</i> (سُمّ) <i>like that of hornets:</i> (TA:) or (K) <i>a certain small insect,</i> (IDrd, TA,) <i>resembling the tick, that sticks to men:</i> (IDrd, K, TA:) or it is <i>smaller than the</i> [<i>black beetle called</i>] جُعَل; (ISk, TA;) or, accord. to the M, <i>a thing like a small pebble, speckled a little with red or yellow, but its prevailing colour is black; which collects, and enters beneath men, and in their groins,</i> or <i>armpits,</i> or <i>the like, and bites them; and rends the skins in which water or milk is kept;</i> or, as in the T, <i>a certain small insect,</i> (TA,) <i>which makes holes in the skins wherein water or milk is kept, and</i> (as Az heard the Arabs of the desert to assert, TA) <i>enters into the pudenda of girls;</i> (K, TA;) <i>and is of the same kind as</i> <br>\
+                  جِعْلَان [pl. of جُعَلٌ], <i>but smaller; black, speckled with white:</i> (TA:) because of its entering into the فَرْج of the virgin girl, it is called عَاشِقُ الاَبْكَارِ: (IB, TA:) pl. حَرَاقِيصُ. (K.) ―         -b2-  Also The <i>stone of a green unripe date.</i> (AA, K.)   </entryFree> <br>\
+' } );

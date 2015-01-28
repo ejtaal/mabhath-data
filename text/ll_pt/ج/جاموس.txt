@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جاموس</em>            1                  جاموس<br>\
+<b>جَامُوسٌ</b>               1     <br>\
+                     جَامُوسٌ<br>\
+                     جاموس<br>\
+                  : see art. جيس.   </entryFree> <br>\
+' } );

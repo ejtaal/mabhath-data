@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>جرث</em>            1                  جرث<br>\
+<b>جِرِّيثٌ</b>               1     <br>\
+                     جِرِّيثٌ<br>\
+                     جريث<br>\
+                  <i>A kind of fish,</i> (S, Mgh, K,) <i>well known,</i> (TA,) <i>also called</i> <br>\
+                  جِرِّىٌّ and صِلَّوْرٌ, (Mgh, TA,) <i>resembling a serpent, called</i> in <i>Persian</i> <br>\
+                  مَارْ مَاهِى [<i>snake-fish,</i> or <i>eel</i>]; <i>forbidden to be eaten by the Jews:</i> whether it be lawful to the Muslims is disputed: (TA:) قِرِّيثٌ is a dial. var. (S in art. قرث.)   </entryFree> <br>\
+' } );

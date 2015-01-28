@@ -1,0 +1,50 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جسا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جسا<br>\
+&lt;entryFree id=&quot;n5775&quot; key=&quot;جَسَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     جَسَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor     <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَسَاَ<br>\
+                  &lt;/form&gt; inf. n. جُسُوْءٌ and جُسْاَةٌ, (K,) thus in the corrected copies of the K, but in some copies the latter inf. n. is written جُسَا=ءَةٌ, (TA,) &lt;i&gt;It&lt;/i&gt; (a thing, TA) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, hard, tough, rigid,&lt;/i&gt; or &lt;i&gt;stiff;&lt;/i&gt; (K, TA;) as also جَسَا, aor     <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَسُاَ<br>\
+                  &lt;/form&gt; (Msb and K in art. جسو.) ―         -b2- جَسَاَتْ يَدُهُ, aor      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَسَاَ<br>\
+                  &lt;/form&gt; inf. n. جَسْءٌ, &lt;i&gt;His hand became hard, tough, callous,&lt;/i&gt; (S, TA,) &lt;i&gt;coarse,&lt;/i&gt; or &lt;i&gt;rough,&lt;/i&gt; (TA,) from work. (S, TA.)―         -b3-  جَسَاَتْ مَفَاصِلُهُ <br>\
+                  &lt;i&gt;His joints became rigid,&lt;/i&gt; or &lt;i&gt;stiff.&lt;/i&gt; (TA.)       -A2- جُسِيَتِ الاَرْضُ <br>\
+                  &lt;i&gt;The ground became hard,&lt;/i&gt; or &lt;i&gt;hard and level, and rough:&lt;/i&gt; from جَسْءٌ, explained below. (Ks, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5776&quot; key=&quot;حَسْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حَسْءٌ<br>\
+                     حسء<br>\
+                  &lt;i&gt;Hard,&lt;/i&gt; or &lt;i&gt;hard and level, and rough, ground,&lt;/i&gt; (جَلَدٌ خَشِنٌ, Ks, K, TA,) &lt;i&gt;resembling small pebbles.&lt;/i&gt; (TA.) [Accord. to some copies of the K, &lt;i&gt;Rough skin&lt;/i&gt; (جِلْدٌ خَشِنٌ).] ―         -b2-  &lt;i&gt;Frozen water,&lt;/i&gt; (K, TA,) &lt;i&gt;resembling hail [strewed on the ground],&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5777&quot; key=&quot;جُسْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُسْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Hardness, toughness, callousness, [coarseness, or roughness,]&lt;/i&gt; of the hand, from work. (S.) ―         -b2-  &lt;i&gt;Rigidity,&lt;/i&gt; or &lt;i&gt;stiffness, of the neck,&lt;/i&gt; (S, K, TA,) in a horse or the like. (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5778&quot; key=&quot;يَدٌ جَسْا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَدٌ جَسْا=ءٌ<br>\
+                     يد جسا=ء<br>\
+                  &lt;i&gt;A hard, tough, callous, coarse,&lt;/i&gt; or &lt;i&gt;rough, hand.&lt;/i&gt; (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5779&quot; key=&quot;جَاسِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَاسِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;Hard, tough, rigid,&lt;/i&gt; or &lt;i&gt;stiff:&lt;/i&gt; see 1]. You say جَبَلٌ جَاسِيٌ [&lt;i&gt;A hard,&lt;/i&gt; or &lt;i&gt;hard and rugged, mountain&lt;/i&gt;]. (TA.) And صخُورٌ جَاسِيَةٌ [&lt;i&gt;Hard,&lt;/i&gt; or &lt;i&gt;hard and rugged, rocks&lt;/i&gt;]. (TA.) And نَبْتٌ جَاسِيٌ <br>\
+                  &lt;i&gt;A rigid,&lt;/i&gt; or &lt;i&gt;tough, plant.&lt;/i&gt; (TA.) And اَرْضٌ جَاسِيَةٌ <br>\
+                  &lt;i&gt;Hard,&lt;/i&gt; or &lt;i&gt;hard and level, and rough, ground;&lt;/i&gt; (TA;) as also ↓مَجْسُوْءَةٌ. (Ks, K.) And مَكَانٌ جَاسِيٌ <br>\
+                  &lt;i&gt;A rugged place;&lt;/i&gt; as also شَاسِيٌ. (TA.) And دَابَّةٌ جَاسِيَةٌ القَوَايِمِ <br>\
+                  &lt;i&gt;A beast,&lt;/i&gt; or &lt;i&gt;horse or the like, having rigid,&lt;/i&gt; or &lt;i&gt;stiff, legs, that will hardly bend.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5780&quot; key=&quot;جَاسِيَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَاسِيَا=ءُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [in the CKجا سِياء] &lt;i&gt;Hardness, toughness, rigidness,&lt;/i&gt; or &lt;i&gt;stiffness;&lt;/i&gt; and &lt;i&gt;ruggedness,&lt;/i&gt; or &lt;i&gt;roughness.&lt;/i&gt; (K,* TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n5781&quot; key=&quot;مَجْسُوْءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَجْسُوْءَةٌ<br>\
+                     مجسه<br>\
+                     مجسة<br>\
+                     مجسوءه<br>\
+                     مجسوءة<br>\
+                  &lt;/form&gt;: see جَاسِيٌ   <br>\
+' } );

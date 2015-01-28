@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>لكز</em>            1                  لكز<br>\
+<b>لَكْزٌ</b>               1     <br>\
+                     لَكْزٌ<br>\
+                     ذ<br>\
+                   [inf. n. of لَكَزَهُ] <i>i. q.</i> <br>\
+                  طَعْنٌ, like لَزٌّ. (TA, art. لز.)   </entryFree> <br>\
+' } );

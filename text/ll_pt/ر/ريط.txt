@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>ريط</em>            1                  ريط<br>\
+<b>رَيْطٌ</b>               1     <br>\
+                     رَيْطٌ<br>\
+                     ذ<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>رَيْطَةٌ</b>               1     <br>\
+                     رَيْطَةٌ<br>\
+                     ذ<br>\
+                  <i>Any</i> [<i>covering for the body such as is called</i>] مُلَا=ءَة <br>\
+                  <i>not of two pieces</i> (S, Mgh, Msb, K) <i>joined together</i> (Mgh, TA) <i>by sewing or the like,</i> (TA,) <i>but a single piece,</i> (S, K,) <i>all one web:</i> (K:) it is said by Az to be, without exception, <i>white:</i> (TA:) or it signifies, (Mgh, K,) or signifies also, sometimes, (Msb,) <i>any garment,</i> or <i>piece of cloth, that is thin</i> (Mgh, Msb, K) <i>and soft;</i> (Mgh, K;) so says ISk, on the authority of certain of the Arabs of the desert; (TA;) as also ↓ <br>\
+      رَايِطَةٌ: (K:) and <i>a napkin with which the hands are wiped after food:</i> (TA, from a trad., expl. by Sufyán:) [in Har p. 294, q. v., it seems to be applied to <i>a kind of woollen cloth used as a turban:</i>] pl. ↓ <br>\
+      رَيْطٌ [or this is rather a coll. gen. n. of which رَيْطَةٌ is the n. un.] and رِيَاطٌ. (S, Msb, K.) ―         -b2-  You say, خَرَجَ مُشْتَمِلًا بِرَيْطَةِ الظَّلْمَا=ءِ (tropical:)  [<i>He went forth enveloped with the mantle of darkness</i>]. (TA.) And هُوَ يَجُرُّ رِيَاطَ الحَمْدِ (tropical:)  [app. meaning <i>He is prolix in praise</i>]. (TA.) ―         -b3-  The pl. رِيَاطٌ  <br>\
+                   also signifies (assumed tropical:)  <i>Something resembling the</i> <br>\
+                  سَرَاب [or <i>mirage</i>] <i>in the desert.</i> (TA.)    </entryFree> <br>\
+<b>رَايِطَةٌ</b>               1     <br>\
+                     رَايِطَةٌ<br>\
+                     ذ<br>\
+                  : see above.   </entryFree> <br>\
+' } );

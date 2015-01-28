@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نحث</em>            1                  نحث<br>\
+<b>نَحِيثٌ</b>               1     <br>\
+                     نَحِيثٌ<br>\
+                     ذ<br>\
+                   dial. form of نَحِيفٌ: (Kr:) ISd thinks the ث to be a substitute for ف. (TA.)   </entryFree> <br>\
+' } );

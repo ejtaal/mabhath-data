@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وحب</em>            1                  وحب<br>\
+<b>وُحَابٌ</b>               1     <br>\
+                     وُحَابٌ<br>\
+                     ذ<br>\
+                  <i>A disease that attacks camels.</i> (K, TA.) By some written وَجَابٌ; [and so in the CK;] but the correctness of this is improbable. (TA.)   </entryFree> <br>\
+' } );

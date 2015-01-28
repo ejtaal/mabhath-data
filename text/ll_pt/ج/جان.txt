@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>جان</em>            1                  جان<br>\
+<b>جُوْنَةٌ</b>               1     <br>\
+                     جُوْنَةٌ<br>\
+                     ذ<br>\
+                  <i>A receptacle of the kind termed</i> <br>\
+                  سَفَط, <i>covered with skin, for the perfumes of the seller of perfumes;</i> as also جُونَةٌ: originally with ء: pl. like صُرَدٌ [i. e. جُوَنٌ: thus in the TA, without ء]. (K.) See also art. جون.   </entryFree> <br>\
+' } );

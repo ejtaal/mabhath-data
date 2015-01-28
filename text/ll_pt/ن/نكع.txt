@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نكع</em>            1                  نكع<br>\
+<b>نِكْعَةٌ</b>               1     <br>\
+                     نِكْعَةٌ<br>\
+                     ذ<br>\
+                  , so written for نَكَعَةٌ or نُكَعَةٌ in the O and K, voce سُوقَةٌ, q. v., [The <i>head</i> of a plant.]   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كذنق</em>            1                  كذنق<br>\
+<b>كُذِينَقٌ</b>               1     <br>\
+                     كُذِينَقٌ<br>\
+                     ذ<br>\
+                  : see مِدَقٌّ, in art. دقّ.   </entryFree> <br>\
+' } );

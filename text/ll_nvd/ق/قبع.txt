@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'قبع1<br>\
+قَبَعَ السِّقَاءَ<br>\
+: see خَنَثَ.<br>\
+قَبِيعَةٌ<br>\
+[The pommel of a sword;] the thing of<br>\
+silver or iron at the extremity of the hilt of a<br>\
+sword. (S, K.)<br>\
+' } );

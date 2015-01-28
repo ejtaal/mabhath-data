@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>نيط</em>            1                  نيط<br>\
+<b>نَاطَ</b>               1     <br>\
+                     نَاطَ<br>\
+                     ذ<br>\
+                  , aor. يَنِيطُ, inf. n. نَيْطٌ, <i>It was,</i> or <i>became, distant,</i> or <i>remote,</i> or <i>far-extending;</i> as also ↓ <br>\
+      انتاط. (K.) [See the latter in art. نوط.]    </entryFree> <br>\
+                     اـِنْتَيَطَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>نَيْطٌ</b>               1     <br>\
+                     نَيْطٌ<br>\
+                     ذ<br>\
+                  : see نِيَاطٌ, in art. نوط, in two places. ―         -b2-  <i>Death:</i> or <i>a bier:</i> or the <i>term of existence:</i> (K:) or the <i>death which God connects</i> (يَنُوطُهُ) [<i>with one</i>]: (IAar:) and if so, the ى is interchangeable with و, (IAth, TA,) the word being originally نَيْوِطٌ, then نَيِّطٌ, and then نَيْطٌ: (TA:) if a contraction, it is like هَيْنٌ and هَيِّنٌ, and لَيْنٌ and لَيِّنٌ. (Az, TA.) You say, رَمَاهُ اْللّٰهُ بِالنَّيْطِ, meaning [<i>God smote him,</i> or <i>may God smite him,</i>] <i>with death:</i> (S, in art. نوط, and TA:) or [<i>may God smite him</i>] <i>with the death which He connects</i> [<i>with him</i>]; as also رَمَاهُ اْللّٰهُ بِنَيْطِهِ. (IAar.) And اَتَاهُ نَيْطُهُ <br>\
+                  <i>His term of existence came to him.</i> (TA.) And رُمِىَ فُلَانٌ فِى نَيْطِهِ <br>\
+                  <i>Such a one was cast into his bier;</i> meaning, when he died. (TA.) See طِنْءٌ.    </entryFree> <br>\
+<b>نِيَاطٌ</b>               1     <br>\
+                     نِيَاطٌ<br>\
+                     ذ<br>\
+                  : see art. نوط.    </entryFree> <br>\
+<b>نَايِطٌ</b>               1     <br>\
+                     نَايِطٌ<br>\
+                     ذ<br>\
+                  : see art. نوط.   </entryFree> <br>\
+' } );

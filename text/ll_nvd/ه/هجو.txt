@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'هجو1<br>\
+هَجَاهُ<br>\
+He censured, dispraised, reviled, or<br>\
+satirized him, (S, Msb, K,) in verse. (Msb, K)<br>\
+―<br>\
+-b2-  مَا هَجَوْتُ مِنْهُ شَيْئًا: see 1 in art. حجو.<br>\
+3<br>\
+هَاجَاهُ<br>\
+, inf. n. مُهَاجَاةٌ, He contended with<br>\
+him in satirizing. See 4 in art. فحم.<br>\
+أُمْجُوَّةٌ<br>\
+, Dispraise, is like أُسْبُوبَةٌ, contr. of<br>\
+أُمْدُوحَةٌ.<br>\
+' } );

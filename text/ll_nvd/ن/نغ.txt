@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'نغنُغْنُغَةٌ<br>\
+: see غُنْدُبَة, and لُغْدٌ.<br>\
+النَّغَانِعُ<br>\
+Certain portions of flesh by the uvula.<br>\
+(O in art. علق.)<br>\
+' } );

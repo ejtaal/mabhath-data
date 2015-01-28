@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'قمل1<br>\
+قَمِلَ<br>\
+: see تِينٌ.<br>\
+4<br>\
+أَقْمَلَ<br>\
+, said of the رِمْث: see حَنَطَ.<br>\
+قُمَّلٌ<br>\
+i. q.<br>\
+سُوسٌ: or a kind of<br>\
+قُرَاد. (Jel, vii. 130.)<br>\
+See سَاسَ.<br>\
+مُقْمِلٌ<br>\
+: see تِينٌ.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>شمرذل</em>            1                  شمرذل<br>\
+<b>شَمَرْذَلٌ</b>               1     <br>\
+                     شَمَرْذَلٌ<br>\
+                     ذ<br>\
+                   a dial. var. of شَمَرْدَلٌ [q. v.]. (Lth, O, K.)   </entryFree> <br>\
+' } );

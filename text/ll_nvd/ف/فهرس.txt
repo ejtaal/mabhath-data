@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'فهرسQ. 1<br>\
+فَهْرَسَ الكُتُبَ [He made, or wrote, a catalogue of the books or writings], (O,) or فَهْرَسَ كِتَابَهُ<br>\
+[he made an index, or a table of contents, to his<br>\
+book or writing], (K,) inf. n. فَهْرَسَةٌ. (TA.) See<br>\
+what follows.<br>\
+فِهْرِسٌ A book, or writing, in which [the names<br>\
+or titles or descriptions] of [other] books, or<br>\
+writings, are collected; [i. e. a catalogue of books<br>\
+or writings: but more commonly, accord. to<br>\
+modern usage, the index, or table of contents, of<br>\
+a book or writing; in an Arabic book, generally<br>\
+placed at the beginning:] an arabicized word;<br>\
+(Lth, O, K;) from [the Pers.] فِهْرِسْت: (O, K:)<br>\
+pl. فَهَارِسُ. (TA.)<br>\
+' } );

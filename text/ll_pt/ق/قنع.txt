@@ -1,0 +1,35 @@
+load_data( { book: 'll_pt', text: '<em>قنع</em>            1                  قنع<br>\
+<b>تَقَّنَعَ بِشَىْءٍ</b>               1     <br>\
+                     تَقَّنَعَ بِشَىْءٍ<br>\
+                     ذ<br>\
+                  <i>He was content with a thing.</i> (K, voce تعصّب.)    </entryFree> <br>\
+<b>قُنْعَانٌ</b>               1     <br>\
+                     قُنْعَانٌ<br>\
+                     ذ<br>\
+                   [not قُنْعَانُ, as in the CK,] <i>With whom one is contented,</i> or <i>satisfied,</i> (S, K,) like ↓ <br>\
+      مَقْنَعٌ, (S, K,) in respect of his judicial decision, or his evidence: (K:) used a like as mase. and fem. and sing. and pl. (S, K) and dual. (S.)    </entryFree> <br>\
+<b>قِنَاعٌ</b>               1     <br>\
+                     قِنَاعٌ<br>\
+                     ذ<br>\
+                  <i>A woman&#39;s covering worn over the</i> <br>\
+                  خِمَار [or <i>head-covering</i>]; (Msb;) <i>a woman&#39;s headcovering, wider than the</i> ↓ <br>\
+      مَقْنَعَة. (S, K.) ―         -b2-  قِنَاعُ <br>\
+                  القَلْبِ <br>\
+                  <i>The integument of the heart; the pericardium.</i> (Mgh in art. خلع; and K.)    </entryFree> <br>\
+<b>قَانِعٌ</b>               1     <br>\
+                     قَانِعٌ<br>\
+                     ذ<br>\
+                  , as used in the Kur, xxii. 37, accord. to some, One <i>who asks,</i> or <i>begs.</i> (TA, art. عر.)    </entryFree> <br>\
+<b>مَقْنَعٌ</b>               1     <br>\
+                     مَقْنَعٌ<br>\
+                     ذ<br>\
+                  : see قُنْعَانٌ ―         -b2-  اـِنَّ فِى ذٰلِكَ لَمَقْنَعًا [<i>Verily in that is a sufficiency</i>]. (S, M, in art. سود.)    </entryFree> <br>\
+<b>مُقْنِعٌ</b>               1     <br>\
+                     مُقْنِعٌ<br>\
+                     ذ<br>\
+                  : see صَافِحٌ.    </entryFree> <br>\
+<b>مِقْنَعَةٌ</b>               1     <br>\
+                     مِقْنَعَةٌ<br>\
+                     ذ<br>\
+                   [and مِقْنَعٌ, PS] <i>A woman&#39;s head-veil.</i> (MA, PS.)   </entryFree> <br>\
+' } );

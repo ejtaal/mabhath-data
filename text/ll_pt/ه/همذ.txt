@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>همذ</em>            1                  همذ<br>\
+<b>هَمَاذِىٌّ</b>               1     <br>\
+                     هَمَاذِىٌّ<br>\
+                     ذ<br>\
+                  , (S, L,) or هُمَاذِىٌّ, (L, in all its senses,) <i>Quickness</i> (L, K) in running: (L:) or <i>exertion,</i> or <i>haste,</i> in pace, or in going. (Sh, L.) ―         -b2-  <i>Violence,</i> of rain: (A &#39;Obeyd, S, L, K:) and [so in the L: in the TA, as some say,] <i>violent occasions</i> of rain, and of mutual reviling, and of running; which are sometimes violent, and at other times remit: (L:) and <i>violence</i> of heat; (IAar, L, K;) as also حُمَاذِىٌّ. (IAar, L.) You say, يَوْمٌ ذُوهُمَاذِىٍّ, and حُمَاذِىٍّ, <i>A day of violent heat.</i> (IAar, L.) ―         -b3-  <i>Quick,</i> or <i>swift;</i> (A &#39;Obeyd, S, L, K;) applied to a she-camel, (A &#39;Obeyd, S, L, K,) and to a he-camel, (A &#39;Obeyd, S, L.)   </entryFree> <br>\
+' } );

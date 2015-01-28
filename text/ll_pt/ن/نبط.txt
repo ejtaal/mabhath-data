@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نبط</em>            1                  نبط<br>\
+<b>اِسْتَنْبَطَ</b>               1     <br>\
+                     اِسْتَنْبَطَ<br>\
+                     ذ<br>\
+                  <i>He drew forth, elicited, extracted, extorted:</i> see 4 in art. خرج. See also Bd, and Jel, iv. 85. It may sometimes be rendered <i>He excogitated.</i>   <br>\
+' } );

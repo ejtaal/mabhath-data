@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وهر</em>            1                  وهر<br>\
+<b>تَيْهُورٌ</b>               1     <br>\
+                     تَيْهُورٌ<br>\
+                     تيهور<br>\
+                  , originally وَيْهُورٌ: see تهر   <br>\
+' } );

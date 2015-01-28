@@ -1,0 +1,24 @@
+load_data( { book: 'll_nvd', text: 'وحR. Q. 1<br>\
+وَحْوَحَ, inf. n. وَحْوَحَةٌ, He uttered a<br>\
+sound accompanied by a hoarseness, roughness,<br>\
+harshness, or gruffness, of the voice: (S, K:)<br>\
+he made his breath to reciprocate in his throat,<br>\
+so as to be audible, by reason of cold; (TA:)<br>\
+he blew upon his hand by reason of intense cold.<br>\
+(S, K.)<br>\
+وَحْوَحٌ A strong man, (L, K,) who breathes<br>\
+hard at his work by reason of his briskness and<br>\
+vigour; (L;) as also ↓ وَحْوَاحٌ. (K.) ―<br>\
+-b2-  Also<br>\
+the former, (L, K,) and the latter, (L,) A quick,<br>\
+or prompt, and sharp-spirited, man. (L, K.) ―<br>\
+-b3-<br>\
+Also the former, (S, K,) and the latter, (S,) A<br>\
+light, or an active, or agile, man. (As, S, K.)<br>\
+―<br>\
+-b4-  Also both words, A lord, or chief: pl.<br>\
+وَحَاوِحُ and وَحَاوِحَةٌ. (L.) ―<br>\
+-b5-  Also both words,<br>\
+A barking, or howling, dog. (L, K.)<br>\
+وَحْوَاحٌ: see what precedes.<br>\
+' } );

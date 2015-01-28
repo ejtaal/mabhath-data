@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'نضو1<br>\
+نَضَا الخَيْلَ<br>\
+He outstripped the other horses:<br>\
+see تَجَرَّدَ.<br>\
+نِضْوٌ<br>\
+A lean, or emaciated, camel: fem. with<br>\
+ة. (S, Msb, K.) نِصْوُ سَفَرٍ [Lean, or emaciated<br>\
+by journeying]; applied to a beast. (TA, in<br>\
+رجع.)<br>\
+' } );

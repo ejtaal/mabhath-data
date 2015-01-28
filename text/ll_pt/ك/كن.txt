@@ -1,0 +1,26 @@
+load_data( { book: 'll_pt', text: '<em>كن</em>            1                  كن<br>\
+<b>كِنٌّ</b>               1     <br>\
+                     كِنٌّ<br>\
+                     ذ<br>\
+                  <i>A place of retreat</i> or <i>concealment;</i> such as a cave, and an excavated house or chamber: (Beyd, xvi. 83:) see بَرٌّ. ―         -b2-  كِنٌّ The <i>shelter</i> of a wall: see دِفْءٌ. ―         -b3-  <i>A thing that serves for veiling, covering,</i> or <i>protecting.</i> (S, * Msb, * K.) See ظِلٌّ, where I have thus rendered it.    </entryFree> <br>\
+<b>كُنَّةٌ</b>               1     <br>\
+                     كُنَّةٌ<br>\
+                     ذ<br>\
+                  : see طَنَفٌ.    </entryFree> <br>\
+<b>كِنَانَةٌ</b>               1     <br>\
+                     كِنَانَةٌ<br>\
+                     ذ<br>\
+                  : see جَعْبَةٌ.     <br>\
+<b>كَانُونٌ</b>               1     <br>\
+                     كَانُونٌ<br>\
+                     ذ<br>\
+                  <i>A fire-place; a place in which fire is lighted.</i> (S, K.)    </entryFree> <br>\
+<b>مَكْنُونُ الفَايِلِ</b>               1     <br>\
+                     مَكْنُونُ الفَايِلِ<br>\
+                     ذ<br>\
+                  : see a verse of El-Aashà in art. فيل.    </entryFree> <br>\
+<b>فاعل مُسْتَكِنٌّ</b>               1     <br>\
+                     فاعل مُسْتَكِنٌّ<br>\
+                     ذ<br>\
+                  : see مُسْتَقِنٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>صدو</em>            1                  صدو<br>\
+<b>صَدْوٌ</b>               1     <br>\
+                     صَدْوٌ<br>\
+                     ذ<br>\
+                   as an inf. n. of which the verb is صَدَا: see 2 in art. صدى, in two places.    </entryFree> <br>\
+<b>صَدْوٌ</b>               1     <br>\
+                     صَدْوٌ<br>\
+                     ذ<br>\
+                   as a subst. <i>A certain liquid poison which is applied upon arrow-heads,</i> or <i>spear-heads,</i> or <i>the like, resembling the blood of the</i> [<i>serpent called</i>] اَسْوَد. (M, TA.)   </entryFree> <br>\
+' } );

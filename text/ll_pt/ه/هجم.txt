@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>هجم</em>            1                  هجم<br>\
+<b>هَجَمُ عَلَيْهِ</b>               1     <br>\
+                     هَجَمُ عَلَيْهِ<br>\
+                     ذ<br>\
+                  <i>He came upon him suddenly,</i> or <i>at unawares,</i> (Mgh, Msb, K,) or <i>came in to him without permission,</i> (K,) or <i>without asking permission:</i> (Mgh:) <i>he invaded, assaulted, assailed, attacked, attempted, or ventured upon, him or it: he pounced upon him or it.</i>    <br>\
+<b>هَجْمَةٌ</b>               1     <br>\
+                     هَجْمَةٌ<br>\
+                     ذ<br>\
+                  , or, accord. to Kz, هَزِيعٌ, <i>The third of the five divisions of the night.</i> (TA.) See خُدْرَةٌ, and يَعْفُورٌ. ―         -b2-  As applied to camels, see عَايِضٌ and زِياَدَةٌ.   </entryFree> <br>\
+' } );

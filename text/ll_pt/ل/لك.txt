@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لك</em>            1                  لك<br>\
+<b>لكَّهُ</b>               1     <br>\
+                     لكَّهُ<br>\
+                     ذ<br>\
+                  <i>He pushed him,</i> or <i>thrust him;</i> like دَكَّهُ and صَكَّهُ. (As, TA in art. دك.)    </entryFree> <br>\
+<b>لِكَاكٌ</b>               1     <br>\
+                     لِكَاكٌ<br>\
+                     ذ<br>\
+                  <i>A pressing,</i> or <i>crowding:</i> see an ex. voce عَكَّهٌ.   </entryFree> <br>\
+' } );

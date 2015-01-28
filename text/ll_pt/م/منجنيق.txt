@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>منجنيق</em>            1                  منجنيق<br>\
+<b>مَنْجَنِيقٌ</b>               1[     <br>\
+                     مَنْجَنِيقٌ<br>\
+                     منجنيق<br>\
+                  , as described in art. جنق (q. v.), seems to be <i>the engine called by the Romans Onager:</i> see Kitto&#39;s Pict. Bible, ii. 499: but was probably applied also to <i>the balista.</i>]   </entryFree> <br>\
+' } );

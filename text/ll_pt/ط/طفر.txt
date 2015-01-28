@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>طفر</em>            1                  طفر<br>\
+<b>طَفَرَ</b>               1     <br>\
+                     طَفَرَ<br>\
+                     ذ<br>\
+                  , (S, A, Mgh, Msb,) aor.      <br>\
+                     طَفِرَ<br>\
+                  , (S, Mgh, Msb,) inf. n. طُفُورٌ (S, A, Mgh, Msb, K) and طَفْرٌ, (S, A, Mgh, Msb,) or طَفْرَةٌ, (K,) [but] this has a more particular signification than طَفْرٌ, (Msb,) [being an inf. n. un.,] <i>He leaped:</i> (S:) or <i>he leaped upwards,</i> (Lth, T, A, Mgh, Msb, K,) <i>as when one leaps over a wall to what is behind it.</i> (Lth, T, Mgh, Msb.) One says, طَفَرَ الحَايِطَ, (TA,) or طَفَرَ الحَايِطَ اـِلَى مَا وَرَا=ءَهُ, (A,) <i>He leaped over the wall to what was behind it.</i> (TA.) And طَفَرَ الفَرَسُ النَّهْرَ [<i>The horse leaped over the river,</i> or <i>rivulet</i>]. (A, TA.)    </entryFree> <br>\
+<b>طفّر الفَرَسَ النَّهْرَ</b>               1     <br>\
+                     طفّر الفَرَسَ النَّهْرَ<br>\
+                     ذ<br>\
+                  <i>He made the horse to leap over the river,</i> or <i>rivulet.</i> (A, TA.)    </entryFree> <br>\
+<b>اِطَّفَرَ فَرَسَهُ</b>               1     <br>\
+                     اِطَّفَرَ فَرَسَهُ<br>\
+                     ذ<br>\
+                  , inf. n. اِطِّفَارٌ; (O, TA;) accord. to the K, اَطْفَرَ, inf. n. اـِطْفَارٌ, but the former is the right; (TA;) <i>He thrust his feet into the groins of his horse:</i> the doing of which is a fault in the rider. (O, K, TA.) And in like manner one says of a man when he makes his camel to run: (O, TA:) i. e. اِطَّفَرَ بَعِيرَهُ, inf. n. اِطِّفَارٌ, <i>He thrust his feet into the groins of his camel.</i> (L.) [It seems to be tropical, from what here follows.] ―         -b2-  اِطَّفَرَ الرَّجُلُ, meaning <i>He stuck his nails</i> [into a thing] is originally اِظَّفَرَ; (TA; [in which it is said to be tropical; but for this I see no reason;]) as also اِطَّفَرَهُ <br>\
+                  <i>he stuck his nail into it.</i> (TA in art. ظفر.)    </entryFree> <br>\
+<b>طَفْرَةٌ</b>               1     <br>\
+                     طَفْرَةٌ<br>\
+                     ذ<br>\
+                  <i>A leap:</i> (S:) or <i>a leap upwards,</i> (T, A, * Mgh, Msb, K, *) <i>as when one leaps over a wall;</i> (T, Mgh, Msb;) said to be thus distinguished from وَثْبَةٌ, which is downwards. (Mgh, Msb.) Hence طَفْرَةُ النِّظَامِ [app. meaning <i>An overleaping the right order,</i> or <i>method:</i> I have not found any explanation of it]. (A.)    </entryFree> <br>\
+<b>هُوَ طَفَّارُ الاَنْهَارِ</b>               1     <br>\
+                     هُوَ طَفَّارُ الاَنْهَارِ<br>\
+                     ذ<br>\
+                   [<i>He is the leaper over rivers,</i> or <i>rivulets</i>]. (A.)   </entryFree> <br>\
+' } );

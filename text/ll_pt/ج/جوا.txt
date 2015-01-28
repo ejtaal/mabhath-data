@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>جوا</em>            1                  جوا<br>\
+<b>يَجُوْءُ</b>               1     <br>\
+                     يَجُوْءُ<br>\
+                     يج<br>\
+                     يجوء<br>\
+                   is a dial. var. of يَجِىْءُ [aor. of جَا=ءَ and meaning <i>He comes,</i> or <i>will come</i>]: (K:) mentioned by Sb, who gives as an ex. اَنَا اَجُوْوُكَ وَاَنْبُوُكَ [for انا اَجِيْوُكَ واَنْبَوُكَ, <i>I will come to thee and inform thee</i>]. (TA.)   </entryFree> <br>\
+' } );

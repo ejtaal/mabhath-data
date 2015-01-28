@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>ثفاً</em>            1                  ثفاً<br>\
+<b>ثُفَّا=ءٌ</b>               1     <br>\
+                     ثُفَّا=ءٌ<br>\
+                     ثفا=ء<br>\
+                  , (T, Jm, S, M, K,) of the measure فُعَّالٌ, (S,) or ثُفَا=ءٌ, (Mgh, Msb,) of the measure of غُرَابٌ, (Msb,) [a coll. gen. n.,] i <i>q.</i> <br>\
+                  خَرْدَلٌ [i. e. <i>Mustard</i>]; (S, M, K;) in the dial. of the people of El-Ghowr: (M:) or خَرْدَل <br>\
+                  <i>worked together,</i> or <i>mixed up,</i> or <i>compounded,</i> (مُعَالَجٌ), <i>with</i> <br>\
+                  صِبَاغ [i. e. <i>sauce,</i> or <i>fluid seasoning</i>]: (M, Mgh:) or <i>what is called</i> <br>\
+                  حُرْفٌ (S, M, K, TA) <i>in the dial. of the people of El-Ghowr,</i> (TA,) or, (M,) which is the same thing, (TA,) <i>what is called</i> <br>\
+                  حَبُّ الرَّشَادِ (M, Mgh, Msb, TA) <i>in the dial of the people of El-&#39;Irák,</i> (TA,) <i>which is eaten in case of necessity:</i> (Msb: [see art. رشد:]) n. un. with ة: (S, M, K:) the ء may be original, or it may be substituted for ى or و: (M:) Sgh says, in the O, that he thinks the latter to be the case. (TA.) It is said in a trad., مَا ذَا فِى الاَمَرَّيْنِ مِنَ الشِّفَا=ءِ الصَّبِرِ وَالثُّفَّا=ءَ [<i>What remedy is there in the two most bitter things, aloes and the</i> <br>\
+                  ثفّا=ء?]. (T, Mgh: but in the latter, the last word is without teshdeed to the ف.)   </entryFree> <br>\
+' } );

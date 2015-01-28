@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وكن</em>            1                  وكن<br>\
+<b>وُكْنَةٌ</b>               1     <br>\
+                     وُكْنَةٌ<br>\
+                     ذ<br>\
+                   certainly means, sometimes, A bird&#39;s <i>nest,</i> wherever it be: see an ex. in the first paragraph of art. غدو.   </entryFree> <br>\
+' } );

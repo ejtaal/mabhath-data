@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'ذول2<br>\
+ذَوَّلْتُ ذَالًا I wrote a ذ; (Az, Sgh, K;) or<br>\
+ذَالًا حَسَنَةٌ [a beautiful ذ]. (B, TA.) [See also 2<br>\
+in art. ذيل.]<br>\
+ذَالٌ A certain letter of the alphabet, (Lth,<br>\
+ISd, K,) [ذ,] pronounced with the voice, [not<br>\
+with the breath only,] and always a radical, not<br>\
+a substitute for another letter, nor augmentative;<br>\
+(ISd, TA;) its place of utterance is at the roots<br>\
+of the teeth, near the place of utterance of ت [or<br>\
+ث]; and it may be masc. and fem.; (B, TA;)<br>\
+[but generally it is fem.; and therefore] the dim.<br>\
+is ↓ ذُوَيْلَةٌ: (K:) the pl. is أَذْوَالٌ and ذَالَاتٌ.<br>\
+(TA.)<br>\
+-A2-  Also The comb of a cock. (Kh, TA.)<br>\
+ذَوِيلٌ, explained by IDrd as signifying What<br>\
+is dry, of plants &amp;c., and so in the K, is said by<br>\
+ISd to be correctly دَوِيلٌ [q. v.]. (TA.)<br>\
+ذُوَيْلَةٌ: see ذَالٌ, above.<br>\
+' } );

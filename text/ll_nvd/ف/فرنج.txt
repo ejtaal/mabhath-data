@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'فرنجالفِرَنْجُ, n. un. فِرَنْجِىٌّ: see what follows.<br>\
+الإِفْرَنْجَةُ (O, K) [and الإِفْرَنْجُ, which is the<br>\
+more common,] and ↓ الفِرَنْجُ, (MF, TA, [but in<br>\
+the Commentary of MF written without any of<br>\
+the syll. signs,]) in which last manner it is correctly written accord. to the sheykhs of El-Andalus, who are the nearest to, and the best acquainted<br>\
+with, the country of the people thus called, and<br>\
+so written by Suh, (MF,) A certain people; [the<br>\
+Franks; an appellation given originally, by the<br>\
+Arabs, to the French; and afterwards to all<br>\
+Europeans except those of the Turkish Empire:]<br>\
+an arabicized word from إِفْرَنْك, (K,) or افرنگ,<br>\
+(O,) or from فرنك [or فِرَنْگ]: (Suh, MF:) accord.<br>\
+to general analogy, it should be الإِفْرِنْجَةُ, with<br>\
+kesr to the ر: (O, K:) so called because the seat<br>\
+of their dominion is [named] فرنجة or فرانسة [i. e.<br>\
+France]; and their king is called الفرنسپس, [more<br>\
+properly الفَرَنْسِيْسِىُّ,] which is likewise an arabicized word. (Suh, as cited by MF.) [The n. un.,<br>\
+or appellation given to a single person of this<br>\
+people, is إِفْرَنْجِىٌّ and فِرَنْجِىٌّ.]<br>\
+' } );

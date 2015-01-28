@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كنسكَنِيسٌ<br>\
+[a kind of roast flesh-meat]: see<br>\
+مَرْمُوضٌ.<br>\
+' } );

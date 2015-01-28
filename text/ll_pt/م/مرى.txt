@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>مرى</em>            1                  مرى<br>\
+<b>الرِّيحُ تَمْرِى السَّحَابَ</b>               1     <br>\
+                     الرِّيحُ تَمْرِى السَّحَابَ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      تَمْتَرِيهِ <br>\
+                  <i>The wind draws forth the clouds.</i> (M, TA.) See an ex. in a verse cited voce عَزْلَا=ءُ.    </entryFree> <br>\
+<b>مَارَاهُ</b>               1     <br>\
+                     مَارَاهُ<br>\
+                     ذ<br>\
+                  , inf. n. مُمَارَاةٌ and مِرَا=ءٌ, <i>i. q.</i> <br>\
+                  جَادَلَهُ; (S, K; *) <i>He disputed with him,</i> or <i>did so obstinately,</i> &amp;amp;c.: (TA:) it is only <i>in opposing</i> [what has been said; not in commencing a disputation]. (Msb.)    </entryFree> <br>\
+<b>التَّمَارِى</b>               1     <br>\
+                     التَّمَارِى<br>\
+                     ذ<br>\
+                  <i>The disputing,</i> or <i>contending, together.</i> (TA.) You say, هُمَا يَتَمَارَيَانِ بِالشِّعْرِ [<i>They two dispute,</i> or <i>contend, together, with verses</i> or <i>poetry</i>]. (TA in art. بده.)    </entryFree> <br>\
+<b>اِمْترَى</b>               1     <br>\
+                     اِمْترَى<br>\
+                     ذ<br>\
+                  <i>He doubted,</i> <br>\
+                  به <br>\
+                  <i>of it.</i> (Kur, xliii. 61.) ―         -b2-  See 1.    </entryFree> <br>\
+<b>اِسْتَمْرَتِ الاـِبِلُ المحَمْضَ</b>               1     <br>\
+                     اِسْتَمْرَتِ الاـِبِلُ المحَمْضَ<br>\
+                     ذ<br>\
+                   for اِسْتَمْرَاَتْهُ: see 1 in art. عدن.    </entryFree> <br>\
+<b>مَرْوٌ</b>               1     <br>\
+                     مَرْوٌ<br>\
+                     ذ<br>\
+                  <i>A certain plant:</i> see خَافُورٌ, and حَبَقٌ, and فَاخُورٌ.   </entryFree> <br>\
+' } );

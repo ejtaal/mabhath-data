@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>لصت</em>            1                  لصت<br>\
+<b>لَصْتٌ</b>               1     <br>\
+                     لَصْتٌ<br>\
+                     ذ<br>\
+                   (S, K) and لِصْتٌ and لُصْتٌ (K) <i>i. q.</i> <br>\
+                  لِصٌّ, <i>A thief; a robber:</i> (S, K:) in the dial. of the tribe of Teiyi, (Fr, S,) who say, for طَصٌّ, طَصْتٌ: (S:) pl. لُصُوتٌ. (S, K.) See art. لص.   </entryFree> <br>\
+            <div2 n=&quot;lSf lSq lT&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لصف لصق لط<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

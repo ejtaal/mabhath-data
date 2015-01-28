@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جشن</em>            1                  جشن<br>\
+<b>جَوْشَنٌ</b>               1     <br>\
+                     جَوْشَنٌ<br>\
+                     ذ<br>\
+                   and جَوْشَنِىٌّ: see art. جوشن   <br>\
+' } );

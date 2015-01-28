@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'كردمSee arts. كربح and كردح and كرمح and<br>\
+Supplement.<br>\
+' } );

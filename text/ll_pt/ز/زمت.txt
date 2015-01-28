@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>زمت</em>            1                  زمت<br>\
+<b>زَمُتَ</b>               1     <br>\
+                     زَمُتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     زَمُتَ<br>\
+                  , inf. n. زَمَاتَهُ, <i>He was,</i> or <i>became, grave, staid, steady, sedate,</i> or <i>calm.</i> (A, K.)    </entryFree> <br>\
+<b>تزمّت</b>               1     <br>\
+                     تزمّت<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  تَوَقَّرَ [<i>He showed, exhibited,</i> or <i>manifested, gravity, staidness, steadiness, sedateness,</i> or <i>calmness;</i> or <i>he endeavoured,</i> or <i>constrained himself, to be grave, staid,</i> &amp;amp;c.]. (A.) One says, مَا اَشَدَّ تَزَمُّتَهُ [<i>How great is his show of gravity,</i> &amp;amp;c.! or <i>his endeavour,</i> or <i>constraint of himself, to be grave,</i> &amp;amp;c.!]. (Fr, S.)    </entryFree> <br>\
+<b>زَمِيتٌ</b>               1     <br>\
+                     زَمِيتٌ<br>\
+                     ذ<br>\
+                  <i>Grave, staid, steady, sedate,</i> or <i>calm,</i> (IAar, S, A, K, TA,) <i>in his sitting-place:</i> (IAar, TA:) pl. رُمَتَا=ءُ, (A,) or زمت [app. زُمْتٌ or زُمُتٌ, if not a mistranscription for زُمَتَا=ءُ, which I rather think it to be]. (TA.)    </entryFree> <br>\
+<b>زِمِّيتٌ</b>               1     <br>\
+                     زِمِّيتٌ<br>\
+                     ذ<br>\
+                  <i>Very grave, staid, steady, sedate,</i> or <i>calm:</i> (S, K, TA:) <i>forbearing,</i> or <i>clement; quiet; of few words;</i> like صِمِّيتٌ: or, as some say, <i>silent.</i> (TA.)    </entryFree> <br>\
+<b>فُلَانٌ اَزْمَتُ النَّاسِ</b>               1     <br>\
+                     فُلَانٌ اَزْمَتُ النَّاسِ<br>\
+                     ذ<br>\
+                  <i>Such a one is the most grave, staid, steady, sedate,</i> or <i>calm, of men.</i> (S.)   </entryFree> <br>\
+' } );

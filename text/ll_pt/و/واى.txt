@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>واى</em>            1                  واى<br>\
+<b>وَاَى</b>               1     <br>\
+                     وَاَى<br>\
+                     ذ<br>\
+                   as syn. with وَعَدَ; imperative اـِه. with the ه of silence added; fem. corroborated form of the imperative اـِنَّ; of which last, see a curious ex. in the end of article حَرْفٌ الاَلِفِ, in the Mughnee.   </entryFree> <br>\
+' } );

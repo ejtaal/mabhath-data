@@ -1,0 +1,70 @@
+load_data( { book: 'll_nvd', text: 'دبغ1<br>\
+دَبَغَ الإِهَابَ, (S, K,) or الجِلْدَ, (S, Mgh,<br>\
+Msb,) aor.<br>\
+دَبُغَ and<br>\
+دَبَغَ (S, Mgh, Msb, K) and دَبْغٌ,<br>\
+(Mgh, Msb, K,) inf. n. دَبْغٌ (S, Mgh, Msb, K)<br>\
+and دِبَاغٌ (S, Mgh, K) and دِبَاغَةٌ, (S, K,) or the<br>\
+last is a subst. sometimes used as an inf. n.,<br>\
+(Msb,) He tanned the hide, or skin; i. e., prepared it, or made it fit for use, and softened it,<br>\
+or made it pliable, with قَرَظ [q. v.] and the like.<br>\
+(TA.) It is said in a trad., دِبَاغُهَا طَهُورُهَا [The<br>\
+tanning thereof is the means of purification<br>\
+thereof]. (S, TA.) ―<br>\
+-b2-  See also دَبُوغٌ.<br>\
+7<br>\
+اندبغ It (a hide, or skin,) was, or became,<br>\
+tanned; i. e., prepared, &amp;c., with قَرَظ and the<br>\
+like; (TA;) quasi-pass. of 1. (S, Msb, K, TA.)<br>\
+جِلْدُ الخِنْزِيرِ لَا يَنْدَبِغُ [The skin of the pig will<br>\
+not become tanned] is a prov., said of him whom<br>\
+good advice will not profit. (TA.)<br>\
+دِبْغٌ: see دِبَاغٌ.<br>\
+دَبْغَةٌ [in one of my copies of the S written دَبْغ]<br>\
+A single act of tanning. (S, * TA.)<br>\
+دِبْغَةٌ: see what next follows.<br>\
+دِبَاغٌ Tan; [tanning-liquor, or ooze;] that with<br>\
+which one tans, (S, * Mgh, * Msb, * K, * TA,) i. e.,<br>\
+prepares, or makes fit for use, and softens, or<br>\
+makes pliable, a hide, or skin, consisting of قَرَظ<br>\
+[q. v.] and the like; (TA;) as also ↓ دِبْغٌ (S,<br>\
+Msb, K) and ↓ دِبْغَةٌ (S, K) and ↓ دِبَاغَةٌ. (AHn,<br>\
+TA.) One says, الجِلْدُ فِى الدِّبَاغِ [The skin is<br>\
+in the tan, or tanning-liquor]. (S.) And نَقَعَهُ<br>\
+فِى الدِّبَاغِ [He soaked it in the tanning-liquor].<br>\
+(K in art. منأ.) ―<br>\
+-b2-  [Hence,] دِبَاغٌ لِلْمَعِدَةِ [app.<br>\
+A stomachic]. (Lth and M and Msb voce<br>\
+طُرْثُوثٌ, q. v.)<br>\
+-A2-  Also an inf. n. of 1. (S,<br>\
+Mgh, K.)<br>\
+دَبُوغٌ (tropical:)  Rain that puts the earth into a good<br>\
+state, and softens it, (الأَرْضَ ↓ يَدْبُغُ,) by its water.<br>\
+(IDrd, K, TA.)<br>\
+دَبِيغٌ, applied to a hide, i. q. ↓ مَدْبُوغٌ [i. e.<br>\
+Tanned]. (K.)<br>\
+دِبَاغَةٌ The craft of the دَبَّاغ [or tanner]. (Msb,<br>\
+K, TA.) ―<br>\
+-b2-  Also an inf. n. of 1, (S, K,) or a<br>\
+subst. sometimes used as an inf. n. of 1. (Msb.)<br>\
+-A2-  See also دِبَاغٌ.<br>\
+دَبَّاغٌ A tanner. (Msb, * K, * TA.)<br>\
+دَابُوغٌ Anguria, or water-melon; in Pers.<br>\
+هِنْدُوَانَهْ (KL.)<br>\
+مَدْبَغَةٌ and مَدْبُغَةٌ A place where hides, or<br>\
+skins, are tanned. (T, * Msb, * K, * TA.) [Hence,]<br>\
+one says, هٰذَا البَلَدُ مَدْبَغَةُ الرِّجَالِ (tropical:)  [This country<br>\
+is the place where men are tanned by the sun].<br>\
+(TA.) ―<br>\
+-b2-  Also, the former, Skins put into the<br>\
+دِبَاغ [or tanning-liquor]: (Sgh, K:) or of which<br>\
+the tanning has been commenced: (Az, TA:) as<br>\
+though made a pl., (Sgh, TA,) like مَشْيَخَةٌ as<br>\
+syn. with مَشَائِخُ. (Sgh, K.)<br>\
+أُدُمٌ مُدَّبَغَةٌ [app. Hides, or skins, much tanned].<br>\
+(TA.)<br>\
+مَدْبُوغٌ: see دَبِيغٌ. ―<br>\
+-b2-  [Hence,] هٰذَا كَلَامٌ غَيْرُ<br>\
+مَدْبُوغٍ (tropical:)  This is speech in which nothing is meant.<br>\
+(TA.)<br>\
+' } );

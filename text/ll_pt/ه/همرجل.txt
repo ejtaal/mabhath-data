@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>همرجل</em>            1                  همرجل<br>\
+<b>هَمَرْجَلٌ</b>               1     <br>\
+                     هَمَرْجَلٌ<br>\
+                     ذ<br>\
+                   A <i>bulky</i> she-camel. (IAar, TA, voce شَمَرْدَلٌ.)   </entryFree> <br>\
+' } );

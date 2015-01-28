@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>اثكل</em>            1                  اثكل<br>\
+<b>اـِشْكَالٌ</b>               1     <br>\
+                     اـِشْكَالٌ<br>\
+                     ذ<br>\
+                   and اُشْكُولٌ <br>\
+                  <i>i. q.</i> <br>\
+                  شِمْرَاخٌ [<i>A fruit-stalk of the raceme of a palm-tree, upon which are the dates</i>]; like عِثْكَالٌ and عُثْكُولٌ: the hemzeh in each is a substitute for ع; but by J [and others] it is held to be augmentative, and the words are mentioned in art. شكل, q. v. (TA.)   </entryFree> <br>\
+' } );

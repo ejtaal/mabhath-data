@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>سمذ</em>            1                  سمذ<br>\
+<b>سَمِيذٌ</b>               1     <br>\
+                     سَمِيذٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  سَمِيدٌ [q. v.]; (K:) [said to be] more chaste than the latter: (K in art. سمد:) [but] accord. to Kr, it is with the unpointed د. (M in that art.)   </entryFree> <br>\
+' } );

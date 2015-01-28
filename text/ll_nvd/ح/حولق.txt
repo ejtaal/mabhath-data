@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'حولقQ. Q. 1<br>\
+حَوْلَقَ, inf. n. حَوْلَقَةٌ: see Q. Q. 1 in<br>\
+art. حلق.<br>\
+' } );

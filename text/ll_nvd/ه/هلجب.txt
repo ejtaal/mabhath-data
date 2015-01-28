@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'هلجبهِلْجَابٌ A large cooking-pot. (K.)<br>\
+هلد &amp;c.<br>\
+See Supplement<br>\
+' } );

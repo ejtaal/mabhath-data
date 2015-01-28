@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'دشتدَشْتٌ A [desert, or such as is termed] صَحْرَآء;<br>\
+(S, K;) as also دَسْتٌ: (Msb and K in art.<br>\
+دست:) a Persian word [arabicized]; or an<br>\
+instance of agreement between the two languages<br>\
+[of Arabia and Persia]. (S.)<br>\
+-A2-  دَشْتٌ مِنَ الثِّيَابِ,<br>\
+and مِنَ الوَرَقِ, i. q. دَسْتٌ. (TA.)<br>\
+' } );

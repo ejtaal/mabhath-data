@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'وشظوَشِيظٌ<br>\
+[thus without ة]: see صَمِيمٌ.<br>\
+' } );

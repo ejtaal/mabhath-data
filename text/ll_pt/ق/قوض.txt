@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>قوض</em>            1                  قوض<br>\
+                     قَوڤضَ<br>\
+                   see 2: and see also 1 in art. قيض.    </entryFree> <br>\
+<b>قوّضهُ</b>               1     <br>\
+                     قوّضهُ<br>\
+                     ذ<br>\
+                  , (S, A, Msb, K,) inf. n. تَقْوِيضٌ, (Msb, K,) <i>He demolished it; destroyed it; threw it down;</i> namely a building; as also ↓ <br>\
+      قَاضَهُ, (K,) aor. يَقُوضُ, inf. n. قَوْضٌ: (TA:) or <i>he took it to pieces, without demolishing</i> or <i>destroying</i> or <i>throwing down;</i> (S, A, Msb, K;) namely a building, (S, A, Msb,) and a tent. (A:) or <i>he pulled up,</i> or <i>out, its poles,</i> or <i>pieces of wood, and its tentropes:</i> (IDrd, K:) or <i>he pulled it up, and removed it;</i> namely a tent. (TA.) ―         -b2-  [Hence,] قوّض الصُّفُوفَ, and المَجَالِسَ, (A, TA,) (tropical:)  <i>He separated,</i> or <i>dispersed, the ranks,</i> and <i>the assemblies.</i> (TA.) ―         -b3-  [Hence also,] بَنَى فُلَانٌ ثُمَّ قَوَّضَ [lit. <i>Such a one built, then demolished,</i> or <i>took to pieces</i>]; i. e. (tropical:)  <i>did well, then did ill.</i> (A, TA.)    </entryFree> <br>\
+<b>تقوّض</b>               1     <br>\
+                     تقوّض<br>\
+                     ذ<br>\
+                  <i>It</i> (a house, and a tent, TA) <i>became demolished, destroyed,</i> or <i>thrown down;</i> (S * in art. قيض; and K;) and in like manner تقوّز; (TA;) as also ↓ <br>\
+      انقاض [which see also in art. قيض]: (K; and in a copy of the S in art. قيض:) or <i>it was,</i> or <i>became, taken to pieces, without being demolished</i> or <i>destroyed</i> or <i>thrown down:</i> (A, TA:) and ↓ <br>\
+      انقاضت, said of a well (بيْر), <i>it fell; fell in ruins,</i> or <i>to pieces;</i> or <i>collapsed.</i> (Msb: see also art. قيض.) ―         -b2-  [Hence,] تقوّض المَجْلِسُ, (A,) and تقوّضت الحِلَقُ, (S, TA,) and الصَّفُوفُ, (S, Msb, TA,) (tropical:)  [<i>The assembly,</i> and] <i>the rings of men,</i> (S, TA,) and <i>the ranks, became separated,</i> or <i>dispersed.</i> (S, Msb, * TA.) ―         -b3-  Also, (assumed tropical:)  <i>He</i> (a man, K, and a bird, Az, TA) <i>came and went,</i> (Az, K, TA,) <i>and would not be still,</i> or <i>remain at rest.</i> (Az, TA.)    </entryFree> <br>\
+                     اـِنْقَوَضَ<br>\
+                   see 5, in two places.    </entryFree> <br>\
+<b>هٰذَا بِذَا قَوْضًا بِقَوْضٍ</b>               1     <br>\
+                     هٰذَا بِذَا قَوْضًا بِقَوْضٍ<br>\
+                     ذ<br>\
+                  <i>This is for that, as a substitute for a substitute.</i> (K.) And هُمَا قَوْضَانِ [<i>They two are substitutes, each for the other</i>]: mentioned by Sgh: but Z says, هما قَيْضَانِ [q. v. in art. قيض]: (TA:) or both signify <i>they are exchangers, each with the other.</i> (JK.)    </entryFree> <br>\
+<b>مُقَوَّضٌ</b>               1     <br>\
+                     مُقَوَّضٌ<br>\
+                     ذ<br>\
+                   Anything <i>demolished, destroyed,</i> or <i>thrown down:</i> [&amp;amp;c.: see 2.] (TA.)   </entryFree> <br>\
+            <div2 n=&quot;qwE qwf qwl qwm qwY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قوع قوف قول قوم قوى<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

@@ -1,0 +1,48 @@
+load_data( { book: 'll_nvd', text: 'طرس1<br>\
+طَرَسَهُ, inf. n. طَرْسٌ, He wrote it; namely,<br>\
+a writing or book; as also سَطَرَهُ. (TA.) ―<br>\
+-b2-  See<br>\
+also 2.<br>\
+-A2-  طَرِسَ, a verb like فَرِحَ, He (a man)<br>\
+became worn out in body, and aged. (Sgh, TA.)<br>\
+2<br>\
+طرّسهُ, (M, A,) so written by El-Urmawee,<br>\
+(TA,) inf. n. تَطْرِيسٌ; (A;) or ↓ طَرَسَهُ, aor.<br>\
+طَرِسَ;<br>\
+(K;) He obliterated it, or effaced it; (K, TA;<br>\
+[compare دَرَسَهُ;]) and (TA) he marred, or<br>\
+spoiled, it: (M, TA:) or he obliterated it, or effaced<br>\
+it, well. (A.)<br>\
+-A2-  Also, the former, (M,) inf. n. as<br>\
+above, (K,) He blackened it; namely, a door.<br>\
+(M, K.)<br>\
+-A3-  And طرّس, (TK,) inf. n. as above,<br>\
+(Lth, K,) He restored the writing upon a thing<br>\
+whereon the writing had been obliterated, or effaced.<br>\
+(Lth, K. *)<br>\
+5<br>\
+تطّرس He ate not, nor drank, aught save<br>\
+what was good; (K, TA;) like تنطّس: so says<br>\
+IF. (TA.) ―<br>\
+-b2-  تطرّس عَنْهُ He shunned it; kept<br>\
+aloof, or preserved himself, from it; (Sgh, K,<br>\
+TA;) and held himself above the commission of it.<br>\
+(Sgh, TA.)<br>\
+طِرْسٌ A written paper or the like; syn. صَحِيفَةٌ,<br>\
+(S, A, Msb, K;) or صَحِيفَةٌ إِذَا كُتِبَتْ; as also<br>\
+طِلْسٌ: (Sh, TA:) or one of which the writing has<br>\
+been obliterated, or effaced, and which has then<br>\
+been written upon [again]; (S, A, Msb, K;) [a<br>\
+palimpsest;] as also طِلْسٌ: (S:) or one of which<br>\
+the writing has been obliterated, or effaced, well:<br>\
+(Az, in TA, art. طلس:) or a writing that has<br>\
+been obliterated, or effaced, and then written<br>\
+[again]; as also طِرْصٌ: (M:) or an obliterated,<br>\
+or effaced, writing upon which one is able to<br>\
+renew the writing: (Lth, TA:) pl. [of pauc.]<br>\
+أَطْرَاسٌ (S, M, Msb, K) and [of mult.] طُرُوسٌ.<br>\
+(M, A, Msb, K.)<br>\
+مُتَطَرِّسٌ One who seeks, pursues, or desires, the<br>\
+most pleasing of things; who picks, or chooses.<br>\
+(T, K, TA.)<br>\
+' } );

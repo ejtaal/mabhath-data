@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>هذى</em>            1                  هذى<br>\
+<b>هَذَى</b>               1     <br>\
+                     هَذَى<br>\
+                     ذ<br>\
+                  <i>He talked nonsense; he raved,</i> or <i>talked irrationally, foolishly,</i> or <i>deliriously;</i> (JK, K;) <i>by reason of disease or some other cause.</i> (K.) ―         -b2-  هَذَىبِهِ <br>\
+                  <i>He talked irrationally,</i> &amp;amp;c., <i>with him.</i> (TA.) ―         -b3-  And <i>He mentioned him,</i> or <i>it, in his irrational,</i> &amp;amp;c., <i>talk.</i> (TA.)    </entryFree> <br>\
+<b>غَعَدَ يُهَاذِىاَصْحَابَهُ</b>               1     <br>\
+                     غَعَدَ يُهَاذِىاَصْحَابَهُ<br>\
+                     ذ<br>\
+                   [<i>He sat talking irrationally,</i> &amp;amp;c., <i>with his companions</i>]. (TA.) ―         -b2-  سَمِعْتُهُمْ يَتَهَاذُونَ [<i>I heard them talking together irrationally,</i> &amp;amp;c.] (TA.)    </entryFree> <br>\
+<b>شَرَابٌ هَاذٍ</b>               1     <br>\
+                     شَرَابٌ هَاذٍ<br>\
+                     ذ<br>\
+                   (tropical:)  [<i>Beverage causing delirious,</i> or <i>irrational, talk.</i>] (TA.)   </entryFree> <br>\
+' } );

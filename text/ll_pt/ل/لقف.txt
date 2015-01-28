@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>لقف</em>            1                  لقف<br>\
+<b>لَقِفَهُ</b>               1     <br>\
+                     لَقِفَهُ<br>\
+                     ذ<br>\
+                  <i>He seized it,</i> or <i>took it quickly;</i> (S, M, K;) namely, a thing thrown to him with the hand, or said to him. (M, TA.) See also last sentence of 1 in art. حنك.    </entryFree> <br>\
+<b>تَلَقَّفَهُ مِنْ فَمِهِ</b>               1     <br>\
+                     تَلَقَّفَهُ مِنْ فَمِهِ<br>\
+                     ذ<br>\
+                  <i>He caught it and retained it quickly,</i> [i. e., what he said,] <i>from his mouth.</i> (TA.)   </entryFree> <br>\
+' } );

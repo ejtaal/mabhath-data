@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قرنبط</em>            1                  قرنبط<br>\
+<b>قَرْنَبِيطٌ</b>               1     <br>\
+                     قَرْنَبِيطٌ<br>\
+                     ذ<br>\
+                  : see قُنَّبِيطٌ, in art. قنبط.   </entryFree> <br>\
+' } );

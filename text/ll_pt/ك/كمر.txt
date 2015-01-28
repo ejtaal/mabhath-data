@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كمر</em>            1                  كمر<br>\
+<b>كَمَرٌ</b>               1     <br>\
+                     كَمَرٌ<br>\
+                     ذ<br>\
+                  <i>A kind of belt with a receptacle for money.</i>   <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'هلمهَلُمَّ<br>\
+i. q.<br>\
+نَعَالَ<br>\
+Come. (S, K, &amp;c.) ―<br>\
+-b2-  It is<br>\
+intrans.; as in هَلُمَّ إِلَيْنَا<br>\
+Come to us. And tran<br>\
+also; as in هَلُمَّ شُهَدَآءَ كُمْ<br>\
+Cause your witnesses<br>\
+to come; bring your witnesses. (Msb.) ―<br>\
+-b3-  هَلُمَّ<br>\
+جَرًّا<br>\
+At thine ease: see 1 in art. جر.<br>\
+' } );

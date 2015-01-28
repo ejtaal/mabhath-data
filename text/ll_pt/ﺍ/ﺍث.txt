@@ -1,0 +1,56 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اث&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اث<br>\
+&lt;entryFree id=&quot;n182&quot; key=&quot;اَثَّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَثَّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثِ٣َ<br>\
+                  &lt;/form&gt;(T, S, M, L, K) and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثُ٣َ<br>\
+                  &lt;/form&gt;and َ, (M, L, K,) inf. n. اَثَاثَةٌ(T, S, M, L, K) and اَثَاثٌ(M, L, K) and اُثُوثَةٌ, (M,) or اُثُوُثٌ, (L, K,) &lt;i&gt;It&lt;/i&gt; (anything) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, much in quantity, abundant,&lt;/i&gt; or &lt;i&gt;numerous:&lt;/i&gt; and &lt;i&gt;great,&lt;/i&gt; or &lt;i&gt;large:&lt;/i&gt; (M, L:) &lt;i&gt;it&lt;/i&gt; (herbage, or a herb,) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, abundant,&lt;/i&gt; or &lt;i&gt;plenteous, and tangled,&lt;/i&gt; or &lt;i&gt;luxuriant;&lt;/i&gt; (T, S, K;) or &lt;i&gt;abundant and tall:&lt;/i&gt; (M:) &lt;i&gt;it&lt;/i&gt; (hair) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, abundant and long.&lt;/i&gt; (M, TA.) ―         -b2-  اَثَّتْ, (M, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَثُ٣َ<br>\
+                  &lt;/form&gt;, inf. n. اَثٌّ, (M,) said of a woman, &lt;i&gt;She was,&lt;/i&gt; or &lt;i&gt;became, large in the hinder parts.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n183&quot; key=&quot;اثّثهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اثّثهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;He made it plain, level, smooth, soft,&lt;/i&gt; or &lt;i&gt;easy to lie&lt;/i&gt; or &lt;i&gt;ride&lt;/i&gt; or &lt;i&gt;walk upon.&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n184&quot; key=&quot;تاثّث&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاثّث<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;He obtained,&lt;/i&gt; or &lt;i&gt;acquired, goods, household-goods,&lt;/i&gt; or &lt;i&gt;furniture and utensils and the like;&lt;/i&gt; or &lt;i&gt;abundance of the goods, conveniences,&lt;/i&gt; or &lt;i&gt;comforts, of life;&lt;/i&gt; (S;) or &lt;i&gt;property;&lt;/i&gt; (S, M;) or &lt;i&gt;wealth;&lt;/i&gt; or &lt;i&gt;what was good.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n185&quot; key=&quot;اَثٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثٌّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, fem. with ة: see اَثِيثٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n186&quot; key=&quot;اَثَاثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَاثٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;Goods;&lt;/i&gt; or &lt;i&gt;utensils and furniture of a house or tent; household-goods;&lt;/i&gt; syn. مَتَاعٌ; (T, M;) or مَتَاعُ بَيْت; (S, Msb, K;) &lt;i&gt;of whatever kind; consisting of clothes, and stuffing for mattresses or the like, or outer garments&lt;/i&gt; [&lt;i&gt;&amp;amp;c.&lt;/i&gt;]: (M, TA:) or (so accord. to the M and K, but in the T “also,”) &lt;i&gt;all property,&lt;/i&gt; (AZ, T, S, M, K,) [&lt;i&gt;consisting of&lt;/i&gt;] &lt;i&gt;camels, and sheep or goats, and slaves, and utensils and furniture or householdgoods:&lt;/i&gt; (AZ, T, S:) or &lt;i&gt;abundant property:&lt;/i&gt; or &lt;i&gt;abundance of property:&lt;/i&gt; (M, TA:) [in which last sense it is an inf. n. used as simple subst.:] or &lt;i&gt;what is made,&lt;/i&gt; or &lt;i&gt;taken, for use,&lt;/i&gt; and &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَتَاعٌ; &lt;i&gt;not what is for merchandise:&lt;/i&gt; or &lt;i&gt;what is new, of the utensils and furniture of a house or tent; not what is old and worn out:&lt;/i&gt; (TA:) [it is a coll. &lt;pb n=&quot;18&quot; TEIform=&quot;pb&quot;/&gt; gen. n., and] the n. un. is with اثر: (AZ, T, S, M, Msb, K:) or it has no n. un.: (Fr, T, S, Msb, K:) if you form a pl. from اثاث, you say, ثَلَاثَةُ <br>\
+                  ا=ثَّةٍ, [originally اَاْثِثَة, like اَطْعِمَة, pl. of طَعَام,] and اُثُثٌ كَثِيرَةٌ. (Fr, T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n187&quot; key=&quot;اَثِيثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثِيثٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;Much in quantity, abundant,&lt;/i&gt; or &lt;i&gt;numerous:&lt;/i&gt; and &lt;i&gt;great,&lt;/i&gt; or &lt;i&gt;large:&lt;/i&gt; as also ↓ <br>\
+      اَثٌّ; (M, K;) which is, in my opinion, [says ISd, originally اَثِثٌ,] of the measure فَعِلٌ: (M:) the fem. is اَثِيثَةٌ: and the pl. is اـِثَاثٌand اَثَايِثُ; (M, K; *) both being pls. of the masc. and of the fem.; (K;) or the latter is pl. of the fem. only; (M, * MF;) but the former is [pl. of the masc.,] like كِرَامٌas pl. of كَرِيمٌ, (TA,) and is pl. of the fem. also. (M.) You say, نَبَاتٌ اَثِيثٌ<br>\
+                  &lt;i&gt;Herbage,&lt;/i&gt; or &lt;i&gt;a herb, that is abundant,&lt;/i&gt; or &lt;i&gt;plenteous, and tangled,&lt;/i&gt; or &lt;i&gt;luxuriant:&lt;/i&gt; (T, S:) or &lt;i&gt;abundant and tall.&lt;/i&gt; (M.) And شَعَرٌ اَثِيثٌ<br>\
+                  &lt;i&gt;Hair that is abundant, and tangled,&lt;/i&gt; or &lt;i&gt;luxuriant:&lt;/i&gt; (S:) or &lt;i&gt;abundant&lt;/i&gt; (T, M) &lt;i&gt;and long.&lt;/i&gt; (M.) And لِحْيَةٌ اَثِيثَةٌ, and ↓ <br>\
+      اَثَّةٌ, &lt;i&gt;A thick beard.&lt;/i&gt; (M, TA.) And اِمْرَاَةٌ اَثِيثَةٌ<br>\
+                  &lt;i&gt;A fleshy woman:&lt;/i&gt; (M, TA:) pl. اَثَايِثُ, (M,) signifying &lt;i&gt;fleshy&lt;/i&gt; women; (S, M, K;) as also اـِثَاثٌ: (M:) or the former of these pls. signifies &lt;i&gt;tall, full-grown,&lt;/i&gt; women. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n188&quot; key=&quot;اَثَاثِىُّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَثَاثِىُّ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَثَافِىُّ, (K,) i. e. The [&lt;i&gt;three&lt;/i&gt;] &lt;i&gt;stones which are set up and upon which the cooking-pot is placed:&lt;/i&gt; the [second] ثis said to be a substitute for ف, and some hold the hemzeh to be augmentative. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

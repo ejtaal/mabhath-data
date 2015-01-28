@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>لتح</em>            1                  لتح<br>\
+<b>لَتِحَ</b>               1     <br>\
+                     لَتِحَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَتَحَ<br>\
+                  , (inf. n. لَتَحٌ, S,) <i>He hungered; was hungry.</i> (S. K.)    </entryFree> <br>\
+<b>لَتْحَانُ</b>               1     <br>\
+                     لَتْحَانُ<br>\
+                     ذ<br>\
+                  <i>Hungry:</i> fem. لَتْحَى. (S, K.)   </entryFree> <br>\
+            <div2 n=&quot;ltd ltz ltm ltn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لتد لتز لتم لتن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

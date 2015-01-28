@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>مجن</em>            1                  مجن<br>\
+<b>مَجَنَ</b>               1     <br>\
+                     مَجَنَ<br>\
+                     ذ<br>\
+                  <i>He cared not for what he did</i> (S. Mgh, K *) <i>nor for what was said to him.</i> (Mgh, K. *) The epithet is مَاجِنٌ. (S, Mgh, K.)    </entryFree> <br>\
+<b>عُقْبَةٌ مَجُونٌ</b>               1     <br>\
+                     عُقْبَةٌ مَجُونٌ<br>\
+                     ذ<br>\
+                   [<i>A stage of a journey,</i> or <i>a march</i> or <i>journey from one halting-place to another,</i>] <i>that is far,</i> or <i>distant,</i> or <i>long.</i> (ISk in TA, voce بَاسِطَةٌ: but it is not quite clear in my copy of the TA whether it be مَجُونٌ or هَجُونٌ.)    </entryFree> <br>\
+<b>مَجَّانٌ</b>               1     <br>\
+                     مَجَّانٌ<br>\
+                     ذ<br>\
+                   The <i>gift of a thing without price.</i> (IF, Msb.) ―         -b2-  فَعَلْتُهُ مَجَّانًا <br>\
+                  <i>I did it without compensation.</i> (Msb.) هٰذَا الشَّىْءُ لَهُ مَجَّانًا <br>\
+                  <i>This thing is for him without an equivalent.</i> (El-Farábee, Msb.)    </entryFree> <br>\
+<b>مَاجِنٌ</b>               1     <br>\
+                     مَاجِنٌ<br>\
+                     ذ<br>\
+                  : see 1.   </entryFree> <br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كحط4<br>\
+أَكْحَطَ<br>\
+: see أَقْحَطَ, in two places.<br>\
+' } );

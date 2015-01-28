@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جوذاب</em>            1                  جوذاب<br>\
+<b>جُوذَابٌ</b>               1     <br>\
+                     جُوذَابٌ<br>\
+                     ذ<br>\
+                  : see art. جذب.   </entryFree> <br>\
+' } );

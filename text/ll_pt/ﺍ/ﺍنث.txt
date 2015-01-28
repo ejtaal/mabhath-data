@@ -1,0 +1,77 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;انث&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  انث<br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَنڤثَ<br>\
+                  &lt;/form&gt; [اَنُثَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَنُثَ<br>\
+                  &lt;/form&gt;, inf. n. اَنَاثَةٌ and اُنُوثَةٌ, (see the former of these two ns. below,) &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, female, feminine,&lt;/i&gt; or &lt;i&gt;of the feminine gender.&lt;/i&gt; ―         -b2-  And hence, اَنُثَتْ, said of land (اَرْض), (tropical:)  &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, such as is termed&lt;/i&gt; <br>\
+                  اَنِيثَة. ―         -b3-  Hence also,] اَنُثَ, said of iron, (tropical:)  &lt;i&gt;It was,&lt;/i&gt; or &lt;i&gt;became, soft.&lt;/i&gt; (Golius, from the larger of two editions of the lexicon entitled مرقاة اللغة.) Accord. to IAar, softness is the primary signification. (M.) [But accord. to the A, the second and third of the meanings given above are tropical: (see اَنِيثٌ:) and the verb in the first of the senses here assigned to it, if not proper, is certainly what is termed حَقِيقَة عُرْفِيَّة, i. e., conventionally regarded as proper.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1312&quot; key=&quot;انّثهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     انّثهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْنِيثٌ, &lt;i&gt;He made it&lt;/i&gt; (namely, a noun [&amp;amp;c.], S and Msb) &lt;i&gt;feminine;&lt;/i&gt; (S, M, L, Msb;) &lt;i&gt;he attached to it,&lt;/i&gt; or &lt;i&gt;to that which was syntactically dependent upon it, the sign of the feminine gender.&lt;/i&gt; (Msb.) ―         -b2-  (assumed tropical:)  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, rendered him effeminate.&lt;/i&gt; (KL.) [See the pass. part. n., below.]       -A2-  انّث لَهُ, inf. n. as above, (tropical:)  &lt;i&gt;He acted gently,&lt;/i&gt; [or &lt;i&gt;effeminately&lt;/i&gt;] &lt;i&gt;towards him;&lt;/i&gt; as also له ↓ <br>\
+      تانّث. (K, TA.) And انّث فِى اَمْرِهِ, inf. n. as above, (T, A,) (tropical:)  &lt;i&gt;He acted gently in his affair:&lt;/i&gt; (A:) or &lt;i&gt;he applied himself gently to his affair:&lt;/i&gt; (T:) and some say, فى امره ↓ <br>\
+      تانّث, meaning &lt;i&gt;he acted effeminately in his affair.&lt;/i&gt; (T, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1313&quot; key=&quot;ا=نَثَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=نَثَتْ<br>\
+                     ا=نثت<br>\
+                  &lt;/form&gt;, (S, M, A, K,) inf. n. اـِينَاثٌ, (K,) &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;brought forth a female,&lt;/i&gt; (S, A, K,) or &lt;i&gt;females.&lt;/i&gt; (M.) ―         -b2-  [And hence,] (assumed tropical:)  &lt;i&gt;It&lt;/i&gt; (land, اَرْض,) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, such as is termed&lt;/i&gt; <br>\
+                  مِيْنَاث. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1314&quot; key=&quot;تانث&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تانث<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a noun [&amp;amp;c.]) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; or &lt;i&gt;was made, feminine.&lt;/i&gt; (S, L.) ―         -b2-  See also 2, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1315&quot; key=&quot;اُنْثَي&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُنْثَي<br>\
+                     ذ<br>\
+                  &lt;i&gt;Female; feminine; of the female,&lt;/i&gt; or &lt;i&gt;feminine, sex,&lt;/i&gt; or &lt;i&gt;gender; contr.&lt;/i&gt; ?? ذَكَرٌ: (T, S, M:) an epithet applied to anything of that sex or gender: (T:) IAar asserts, that a woman is termed انثي from the phrase بَلَدٌ اَنِيثٌ, q. v, because of her softness; she being more soft than a man: (M, L:) [but see the observation at the end of the first paragraph of this art.:] the pl. is اـِنَاثٌ; (T, S, M, A, Msb, K;) and sometimes one says اُنُثٌ, as though it were pl. of اـِنَاثٌ; (S;) or it is [truly] pl. of اـِنَاثٌ, like as نُمُرٌ is of نِمَارٌ; (T;) and اَنَاثَى, (T, A, Msb, K,) which last occurs in poetry. (T.) You say, هٰذَا طَايِرٌ وَ اُنْثَاهُ [&lt;i&gt;This is a&lt;/i&gt; (&lt;i&gt;male&lt;/i&gt;) &lt;i&gt;bird and his female&lt;/i&gt;]: not اُنْثَاتُهُ. (ISk, T.) In the Kur iv. 117, I&#39;Ab reads اُثُنًا [in the place of اُنُثًا or اـِنَاثًا]; and Fr says that it is pl. of وَثَنٌ, the و in وُثُنٌ being changed into ا as in اُقِّتَتٌ [for وُقِّتَتٌ]. (T, L.) ―         -b2-  اِمْرَاَةٌ اَنْثَى (tropical:)  [&lt;i&gt;A feminine woman,&lt;/i&gt;] means &lt;i&gt;a perfect woman;&lt;/i&gt; (T, A, K;) a woman being thus termed in praise; like as a man is termed رَجُلٌ ذَكَرٌ. (T, A.) ―         -b3-  [The pl.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1316&quot; key=&quot;اـِنَاثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِنَاثٌ<br>\
+                     انثى<br>\
+                     اـناث<br>\
+                     اناث<br>\
+                  &lt;/form&gt; also signifies (assumed tropical:)  &lt;i&gt;Inanimate things;&lt;/i&gt; (Lh, T, M, K;) as trees and stones (T, K) and wood. (T.) In the passage of the Kur mentioned above, اـِنَاثًا is said to have this meaning: (T, M:) [or it there means &lt;i&gt;females;&lt;/i&gt; for] Fr says that El-Lát and El-&#39;Ozzà and the like were said by the Arabs to be feminine divinities. (T, TA.) ―         -b2-  Also (assumed tropical:)  &lt;i&gt;Small stars.&lt;/i&gt; (K.) ―         -b3-  And [the dual] الاُنْثَيَانِ (tropical:)  &lt;i&gt;The two testicles;&lt;/i&gt; syn. الخُصْيَتَانِ; (S, K;) or الخُصْيَانِ [which is said by some to mean &lt;i&gt;the scrotum;&lt;/i&gt; but the former is generally, though app. not always, meant by الانثيان]. (M, Mgh, Msb.) ―         -b4-  And &lt;i&gt;The two ears:&lt;/i&gt; (As, T, S, M, A, Mgh, K:) because they are of the fem. gender. (TA.) ―         -b5-  And (assumed tropical:)  &lt;i&gt;The two tribes of Bejeeleh and Kudá&#39;ah.&lt;/i&gt; (K) ―         -b6-  And اُنْثَيَا الفَرَسِ (assumed tropical:)  &lt;i&gt;The inner parts&lt;/i&gt; (الرَّبَلَتَانِ) &lt;i&gt;of the thighs of the horse.&lt;/i&gt; (M, L.) ―         -b7-  And الاُنْثَي is also used to signify (assumed tropical:)  &lt;i&gt;The&lt;/i&gt; [&lt;i&gt;engine of war called&lt;/i&gt;] مَنْجَنِيق; because the latter word is [generally] of the feminine gender. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1317&quot; key=&quot;اَنِيثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنِيثٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُوَنَّثٌ. ―         -b2-  اَرْضٌ اَنِيثَةٌ, (AA, * IAar, T, S, M, K,) and ↓ <br>\
+      مِيْنَاثٌ, (ISh, T, M, K,) (tropical:)  &lt;i&gt;Plain, even,&lt;/i&gt; or &lt;i&gt;soft, land,&lt;/i&gt; or &lt;i&gt;ground,&lt;/i&gt; (ISh, IAar, T, M, K,) &lt;i&gt;that produces many plants,&lt;/i&gt; or &lt;i&gt;much herbage;&lt;/i&gt; (AA, T, M, K;) or &lt;i&gt;that produces herbs,&lt;/i&gt; or &lt;i&gt;leguminous plants, and is plain, even,&lt;/i&gt; or &lt;i&gt;soft;&lt;/i&gt; (El-Kilábee, S;) or &lt;i&gt;fitted for producing plants,&lt;/i&gt; or &lt;i&gt;herbage; not rugged.&lt;/i&gt; (ISh, T, L.) And مَكَانٌ اَنِيثٌ <br>\
+                  &lt;i&gt;A place in which the herbage grows quickly, and becomes abundant.&lt;/i&gt; (T, L.) And بَلَدٌ اَنِيثٌ (assumed tropical:)  &lt;i&gt;A country,&lt;/i&gt; or &lt;i&gt;district, of which the soil is soft, and plain,&lt;/i&gt; or &lt;i&gt;even.&lt;/i&gt; (IAar, M, L.) ―         -b3-  حَدِيدٌ اَنِيثٌ (tropical:)  &lt;i&gt;Female iron; that which is not what is termed&lt;/i&gt; <br>\
+                  ذَكَرٌ: (S, M, L, K:) &lt;i&gt;soft iron.&lt;/i&gt; (T and K in art. انف.) And سَيْفٌ اَنِيثٌ (tropical:)  &lt;i&gt;A sword of female iron:&lt;/i&gt; (M, L:) or &lt;i&gt;a sword that is not sharp,&lt;/i&gt; or &lt;i&gt;cutting; a blunt sword:&lt;/i&gt; (T, M, * L:) and ↓ <br>\
+      سَيْفٌ مِيْنَاثٌ, and ↓ <br>\
+      مِيْنَاثَةٌ, (T, M, L, K,) mentioned by Lh, (T, L,) &lt;i&gt;a blunt sword;&lt;/i&gt; (K;) as also ↓ <br>\
+      مُوَنَّثٌ: (TA:) or &lt;i&gt;a sword of soft iron.&lt;/i&gt; (T, L.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1318&quot; key=&quot;اَنَاثَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَنَاثَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [inf. n. of اَنُثَ, q. v.:] The &lt;i&gt;female,&lt;/i&gt; or &lt;i&gt;feminine, nature,&lt;/i&gt; or &lt;i&gt;quality,&lt;/i&gt; or &lt;i&gt;gender;&lt;/i&gt; (M;) as also ↓ <br>\
+      اُنُوثَةٌ. (A.) ―         -b2-  (tropical:)  The &lt;i&gt;quality of land which is termed&lt;/i&gt; <br>\
+                  اَنِيثَةٌ. (A.) ―         -b3-  [(tropical:)  &lt;i&gt;Softness&lt;/i&gt; of iron: see اَنيثٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1319&quot; key=&quot;اُنُوثَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُنُوثَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the paragraph next preceding.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1320&quot; key=&quot;مُوْنِثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْنِثٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A woman &lt;i&gt;bringing forth,&lt;/i&gt; or &lt;i&gt;who brings forth, a female,&lt;/i&gt; (S, K,) or &lt;i&gt;females.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1321&quot; key=&quot;مِيْنَاثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْنَاثٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A woman &lt;i&gt;who usually brings forth females:&lt;/i&gt; (S, M, K:) and a man &lt;i&gt;who usually begets female children;&lt;/i&gt; for the measure مِفْعَالٌ applies equally to both sexes: (S:) the contr. epithet is مِذْكَارٌ. (TA.) ―         -b2-  See also مُوَنَّثٌ, in two places. ―         -b3-  اَرْضٌ مِيْنَاثٌ: see اَنِيثٌ. ―         -b4-  سَيْفٌ مِيْنَاثٌ, and مِيْنَاثَةٌ: see اَنِيثٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1322&quot; key=&quot;مُوَنَّثٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَنَّثٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [A &lt;i&gt;feminine&lt;/i&gt; word; a word &lt;i&gt;made feminine.&lt;/i&gt; ―         -b2-  Also,] (T, A, K,) and ↓ <br>\
+      اَنِيثٌ, (AA, T,) and ↓ <br>\
+      مِيْنَاثٌ, (K,) and ↓ <br>\
+      مِيْنَاثَةٌ, (TA,) (tropical:)  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مُخَنَّثٌ, (AA, T, A, K,) i. e. An &lt;i&gt;effeminate&lt;/i&gt; man; one &lt;i&gt;who resembles a woman&lt;/i&gt; (AA, T, TA) &lt;i&gt;in gentleness, and in softness of speech, and in an affectation of languor of the limbs:&lt;/i&gt; (TA:) or a man &lt;i&gt;in the form,&lt;/i&gt; or &lt;i&gt;make, of a female.&lt;/i&gt; (T.) ―         -b3-  سَيْفٌ مُوَنَّثٌ: see اَنِيثٌ. ―         -b4-  طِيبٌ مُوَنَّثٌ (tropical:)  &lt;i&gt;Perfume that is used by women; such as&lt;/i&gt; <br>\
+                  خَلُوق <br>\
+                  &lt;i&gt;and&lt;/i&gt; <br>\
+                  زَعْفَران, (Sh, T, L,) &lt;i&gt;and what colours the clothes:&lt;/i&gt; (L:) ذُكُورَةُ الطِّيبِ being such perfumes as have no colour; such as غَالِيَة and كَافُور and مِسْك and عُود and عَنْبَر and the like, which leave no mark. (T, L.)   &lt;/entryFree&gt; <br>\
+' } );

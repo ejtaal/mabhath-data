@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;قفا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  قفا<br>\
+&lt;entryFree id=&quot;n36019&quot; key=&quot;قَفِيَتِ الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     قَفِيَتِ الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     قَفَاَ<br>\
+                  &lt;/form&gt;, inf. n. قَفْءٌ, &lt;i&gt;The land was rained upon, and its herbage became altered and spoiled thereby:&lt;/i&gt; (K:) or قَفْءٌ [the inf. n.] signifies the &lt;i&gt;falling of dust upon the herbs,&lt;/i&gt; or &lt;i&gt;leguminous plants,&lt;/i&gt; (AHn, K, TA,) &lt;i&gt;in consequence of which they are spoiled if the dust be not washed off.&lt;/i&gt; (AHn, TA.) [See فَقَاَت as said of the بُهْمَى.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36020&quot; key=&quot;اقتفا الخَرْزَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اقتفا الخَرْزَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; is said in the K to be syn. with افتقاهُ, [q. v.,] and is expl. by Lh as meaning &lt;i&gt;He repeated the&lt;/i&gt; [&lt;i&gt;kind of sewing termed&lt;/i&gt;] خَرْز [i. e. the sewing of skins and the like by means of an awl], &lt;i&gt;and added, between the two kulbehs, another kulbeh,&lt;/i&gt; as is done with reed-mats when they are re-sewed. (TA.) [The kulbeh (كُلْبَة, q. v.) is here described as a thong, or a strand (طَاقَة) of [the membranous fibres that grow at the base of the branches of the palm-tree and are called] لِيف, used in the same manner as the shoemaker&#39;s awl, &amp;amp;c., as in art. كلب, q. v.; but what is here meant by this word is evidently, I think, a thong, or the like, with which a skin is sewed, agreeably with another explanation of it in art. كلب.]   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لوا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لوا<br>\
+&lt;entryFree id=&quot;n38062&quot; key=&quot;لَا=ءَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     لَا=ءَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَلُوْءُ, inf. n. لَوْءَةٌ, app., &lt;i&gt;He was foul, ugly,&lt;/i&gt; or &lt;i&gt;deformed, in countenance.&lt;/i&gt;] لَوْءَةٌ, accord. to the K, is the same as سَوْءَةٌ; but this is probably a mistake for شَوْءَةٌ, The &lt;i&gt;being foul, ugly,&lt;/i&gt; or &lt;i&gt;deformed, in countenance;&lt;/i&gt; [which is the signification of لَوَّةٌ]. (TA.) [See art. لوى.] ―         -b2-  هٰذَا <br>\
+                  وَاللّٰهِ الشَّوْءَةُ وَاللَّوْءَةُ, and اللَّوَّةُ, [app., &lt;i&gt;This, by Allah, is foulness and ugliness!&lt;/i&gt;] (TA [app. from the T.])    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38063&quot; key=&quot;لوّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     لوّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He looked malignantly&lt;/i&gt; with his eyes or countenance. (TA: app. from the T.) ―         -b2-  لوّا اللّٰهُ <br>\
+                  بِكَ <br>\
+                  &lt;i&gt;May God render thee foul,&lt;/i&gt; or &lt;i&gt;ugly!&lt;/i&gt; (T.)   &lt;/entryFree&gt; <br>\
+' } );

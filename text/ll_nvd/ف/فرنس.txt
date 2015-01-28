@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'فرنسFor words mentioned in some of the lexicons<br>\
+under this head, see art. فرس.<br>\
+' } );

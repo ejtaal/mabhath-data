@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سكرج</em>            1                  سكرج<br>\
+<b>سُكُرُّجَةٌ</b>               1     <br>\
+                     سُكُرُّجَةٌ<br>\
+                     ذ<br>\
+                  , or سُكُرَّجَةٌ, accord. to different authorities, (TA,) or both, (MF,) not an Arabic word, but occurring in a trad.; [arabicized from the Pers. سُكْرَچَهٌ, meaning <i>A saucer;</i>] <i>a sort of small bowl-shaped vessel, in</i> [or <i>out of</i>] <i>which one eats:</i> it is <i>of two sizes; the larger holding six ounces; and the smaller, three ounces,</i> or <i>four mithkáls,</i> or <i>between two thirds of an ounce</i> [<i>and some other quantity more or less</i> (for there is an omission in this place in my original)]: <i>in such vessels, placed upon the tables, around the meats, the Arabs used to put sauces and the like to excite the appetite and to aid digestion:</i> expl. by Ed-Dáwoodee as <i>a small, varnished, bowlshaped vessel.</i> (TA.)   </entryFree> <br>\
+' } );

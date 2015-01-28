@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>سيج</em>            1                  سيج<br>\
+<b>سيّج</b>               1     <br>\
+                     سيّج<br>\
+                     ذ<br>\
+                  : see art. سوج.    </entryFree> <br>\
+<b>سِيَاجٌ</b>               1     <br>\
+                     سِيَاجٌ<br>\
+                     ذ<br>\
+                  : see art. سوج.   </entryFree> <br>\
+' } );

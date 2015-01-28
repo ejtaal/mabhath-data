@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>صنط</em>            1                  صنط<br>\
+<b>صَنْطٌ</b>               1     <br>\
+                     صَنْطٌ<br>\
+                     ذ<br>\
+                  , thus pronounced by the people of Egypt, (TA,) a dial. var. of سَنْطٌ, q. v. (K.)   </entryFree> <br>\
+' } );

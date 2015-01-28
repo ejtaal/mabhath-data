@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'ثى2<br>\
+ثَيَّيْتُ ثَآءٌ حَسَنَةً and<br>\
+حَسَنًا [I made, or wrote,<br>\
+a beautiful ث]. (TA in باب الالف الليّنة.)<br>\
+ثِيَّةٌ The lodging-place, or nightly resting-place,<br>\
+of sheep or goats [when they have gone away to a<br>\
+distance in the pasture, or around the tents or<br>\
+houses]; (IB, K;) a dial. var. of ثَايَةٌ [q. v. in<br>\
+art. ثوى]. (IB, TA.)<br>\
+ثَاىٌ: see art ثوى.<br>\
+ثَاىٌ: see art ثوى.<br>\
+ثَيَوِىٌّ: see ثَائِىٌّ, in art. ثوأ.<br>\
+' } );

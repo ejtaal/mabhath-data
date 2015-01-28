@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نغ</em>            1                  نغ<br>\
+<b>نُغْنُغَةٌ</b>               1     <br>\
+                     نُغْنُغَةٌ<br>\
+                     ذ<br>\
+                  : see غُنْدُبَة, and لُغْدٌ.    </entryFree> <br>\
+<b>النَّغَانِعُ</b>               1     <br>\
+                     النَّغَانِعُ<br>\
+                     ذ<br>\
+                  <i>Certain portions of flesh by the uvula.</i> (O in art. علق.)   </entryFree> <br>\
+' } );

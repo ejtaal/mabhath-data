@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>رسدق</em>            1                  رسدق<br>\
+<b>رُسْدَاقٌ</b>               1     <br>\
+                     رُسْدَاقٌ<br>\
+                     ذ<br>\
+                  : see رُزْدَاقٌ, in art. رزدق.   </entryFree> <br>\
+' } );

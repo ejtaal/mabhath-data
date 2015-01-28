@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>موذ</em>            1                  موذ<br>\
+<b>مَاذَ</b>               1     <br>\
+                     مَاذَ<br>\
+                     ذ<br>\
+                  , [aor. يَمُوذُ,] <i>He lied.</i> (L.)    </entryFree> <br>\
+<b>مَاذٌ</b>               1     <br>\
+                     مَاذٌ<br>\
+                     ذ<br>\
+                  <i>Good in natural disposition, happy in spirits, cheerful in mind, merry, jocose,</i> (L, K,) <i>and pleasant in speech.</i> (L.) See طَابٌ.    </entryFree> <br>\
+<b>مَاذِىٌّ</b>               1     <br>\
+                     مَاذِىٌّ<br>\
+                     ذ<br>\
+                   (K) and مَاذِيَّةٌ (S, L, Msb, K) <i>A soft coat of mail, easy to the wearer;</i> (S, L, Msb, K;) and [so] the former, <i>any weapon:</i> (K:) or the latter, <i>a white coat of mail.</i> (Msb.) ―         -b2-  Hence, (Msb,) the latter, <i>White honey:</i> (S, L, Msb, K:) or [in the CK and] <i>new honey:</i> or <i>pure honey:</i> or <i>excellent honey.</i> (K.) ―         -b3-  Also, the latter, <i>Wine.</i> (S, L, K.)   </entryFree> <br>\
+' } );

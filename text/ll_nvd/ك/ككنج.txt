@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'ككنجكَاكَنَجٌ<br>\
+or كَاكَنْجٌ [Pers. كَاكْنَجْ]: see عُبَبٌ.<br>\
+' } );

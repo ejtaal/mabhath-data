@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ازق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ازق<br>\
+&lt;entryFree id=&quot;n676&quot; key=&quot;اَزَقَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَزَقَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزِقَ<br>\
+                  &lt;/form&gt;; (K;) and اَزِقَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَزَقَ<br>\
+                  &lt;/form&gt;; (IDrd, K;) inf. n. (of the former, TA) اَزْقٌ, (S, O, K,) and (of the latter, TA) اَزَقٌ, (IDrd, K,) or the latter is used by poetic licence for the former; (As, Sgh;) &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it,&lt;/i&gt; (said of a man, MF, or of a man&#39;s bosom or mind, K,) &lt;i&gt;became strait,&lt;/i&gt; or &lt;i&gt;straitened;&lt;/i&gt; (IDrd, S,* O,* K, MF;) اَزْقٌ being thus &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  اَزْلٌ: (S, O:) or &lt;i&gt;it&lt;/i&gt; (a man&#39;s bosom or mind) &lt;i&gt;became straitened in war&lt;/i&gt; or &lt;i&gt;fight;&lt;/i&gt; (K;) or &lt;i&gt;he&lt;/i&gt; (a man) &lt;i&gt;became straitened in his bosom&lt;/i&gt; or &lt;i&gt;mind, in war&lt;/i&gt; or &lt;i&gt;fight:&lt;/i&gt; (TA:) as also ↓ <br>\
+      تازّق, with respect to both these significations; (K;) or this signifies &lt;i&gt;it&lt;/i&gt; (a man&#39;s bosom or mind) &lt;i&gt;became strait,&lt;/i&gt; or &lt;i&gt;straitened;&lt;/i&gt; like تازّل; (Fr, S;) and ↓ <br>\
+      تا=زق signifies the same as تازّق. (Z, in Golius.) [See also 10.]       -A2-  اَزَقَهُ, inf. n. اَزْقٌ, &lt;i&gt;He straitened him:&lt;/i&gt; the verb being trans. and intrans. (MF.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَزَّقَ<br>\
+                  &lt;/form&gt;and 6: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n677&quot; key=&quot;اُسْتُوْزِقَ عَلَى فُلَانٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اُسْتُوْزِقَ عَلَى فُلَانٍ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The place became strait to such a one,&lt;/i&gt; (K, TA,) &lt;i&gt;so that he was unable to go forth&lt;/i&gt; [&lt;i&gt;into it, to war&lt;/i&gt; or &lt;i&gt;fight&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n678&quot; key=&quot;مَاْزِقٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْزِقٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place of straitness,&lt;/i&gt; or &lt;i&gt;a strait place,&lt;/i&gt; (S, K, TA,) &lt;i&gt;in which people fight.&lt;/i&gt; (TA.) And hence, &lt;i&gt;A place of war&lt;/i&gt; or &lt;i&gt;fight.&lt;/i&gt; (S.) And مَاْزِقُ العَيْشِ <br>\
+                  &lt;i&gt;The place of straitness of life,&lt;/i&gt; or &lt;i&gt;living.&lt;/i&gt; (Lh.) Pl. مَا=زِقُ. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

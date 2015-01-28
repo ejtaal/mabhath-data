@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'هين1<br>\
+هَانَ لَهُ<br>\
+, aor. يَهِينُ, He treated him with<br>\
+gentleness, or blandishment; syn. دَارَاهُ. (Aboo-Is-hák, in TA, art. عن; but only the imp.,<br>\
+هِنْ لَهُ, is there mentioned, said to be with<br>\
+kesr.) See عَزَّ, near the end, p. 2031, and the<br>\
+distinction there made between هِنْ and هُنْ.<br>\
+' } );

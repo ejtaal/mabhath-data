@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '<em>متن</em>            1                  متن<br>\
+<b>مَتَّنَهُ</b>               1     <br>\
+                     مَتَّنَهُ<br>\
+                     ذ<br>\
+                  , inf. n. تَمُتِينٌ, <i>He made it,</i> or <i>rendered it, strong, stout, form,</i> or <i>hard.</i> (TA.) ―         -b2-  مَتَّنَ <br>\
+                  <i>He seasoned</i> a skin <i>with rob, or inspissated juice</i> (رُبّ). (K.)    </entryFree> <br>\
+<b>مَتْنُ الظَّهْرِ</b>               1     <br>\
+                     مَتْنُ الظَّهْرِ<br>\
+                     ذ<br>\
+                   is <i>The erector spinæ muscle, which consists of the sacro-lumbalis and longissimus dorsi and spinalis dorsi.</i> The مَتْنٌ is The <i>back:</i> (M, Msb:) or, as also ↓ <br>\
+      مَتْنَةٌ, (M,) or مَتْنَانِ, (T,) <i>two portions of firmly-bound flesh between which is the back-bone,</i> [or <i>that confine the back-bone,</i>] <i>rendered firm by being tied</i> (مَعْلُوبَتَانِ) <i>with,</i> or <i>by,</i> <br>\
+                  عَقَب [or <i>sinews,</i>] (T, M,) or the مَتْنَتَانِ are the <i>two sides of the back.</i> (M.) ―         -b2-  مَتْنَا الظَهْرِ <br>\
+                  <i>The two portions of flesh and sinew next the back-bone, on each side.</i> (S.) ―         -b3-  مَتْنٌ [The <i>broad side,</i> or the <i>middle of the broad side, of the blade,</i> of a sword;] <i>the part in the middle of which is the</i> [<i>ridge called</i>] عَمُود, (En-Nadr, in L, voce عَمُودٌ,) or the <i>part in which is the</i> [<i>ridge called</i>] شُطْبَة, (K, voce سَفْسَقَةٌ,) and شَطِيبَة, and عَمُود: (K, voce عَمُودٌ:) or the <i>ridge</i> [<i>itself</i>] (عَيْر) <i>rising in the middle of a sword.</i> (T.) ―         -b4-  مَتْنٌ The <i>hard and outer</i> or <i>apparent part</i> of anything: pl. مُتُونٌ and مِتَانٌ. (M.) ―         -b5-  مَتْنٌ The <i>middle</i> of a bow, and of a spear. (Munjid of Kr.) ―         -b6-  مَتْنُ اُذُنِ الفَرَسِ: see عَيْرٌ. ―         -b7-  مَتْنٌ The <i>part between two poles</i> of a بَيْت, or tent. (AZ in TA, art. ربع.) ―         -b8-  مَتْنٌ <br>\
+                  <i>Elevated, and level, or plain, ground:</i> (M:) or <i>hard and elevated ground.</i> (S, Msb, K.) ―         -b9-  مَتْنُ الفَرَسِ <br>\
+                  <i>One of the four bright stars in Pegasus, that</i> (<i>a</i>) <i>at the extremity of the neck:</i> see الفَرْغُ. ―         -b10-  مَتْنٌ <br>\
+                  <i>i. q.</i> <br>\
+                  حَدِيثٌ and خَبَرٌ and اَثَرٌ, <i>A tradition of Mohammad, or of another, namely a companion of Mohammad, &amp;amp;c.</i> (IbrD.)    </entryFree> <br>\
+<b>مَتْنَةٌ</b>               1     <br>\
+                     مَتْنَةٌ<br>\
+                     ذ<br>\
+                  : see مَتْنٌ.    </entryFree> <br>\
+<b>مَتِينٌ</b>               1     <br>\
+                     مَتِينٌ<br>\
+                     ذ<br>\
+                  <i>Strong; stout; firm; hard.</i> (S, K, Msb.) [<i>Well seasoned. Possessing any quality in a strong degree.</i>]    </entryFree> <br>\
+<b>اَمْتَنُ حَلَاوَةً</b>               1     <br>\
+                     اَمْتَنُ حَلَاوَةً<br>\
+                     ذ<br>\
+                  , <i>i. q.</i> <br>\
+                  اَشَدُّ حَلَاوَةً, <i>More sweet.</i> (TA, voce حَمْتٌ.)    </entryFree> <br>\
+<b>تِمْتَانٌ</b>               1     <br>\
+                     تِمْتَانٌ<br>\
+                     ذ<br>\
+                  : see تَمْتِينٌ.    </entryFree> <br>\
+<b>تَمْتِينٌ</b>               1     <br>\
+                     تَمْتِينٌ<br>\
+                     ذ<br>\
+                   (a subst., properly speaking, like تَلْبِيبٌ, q. v.) and ↓ <br>\
+      تِمْتَانٌ The <i>threads, or strings, of tents.</i> (K.)   </entryFree> <br>\
+' } );

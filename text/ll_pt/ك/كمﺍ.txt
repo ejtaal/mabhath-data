@@ -1,0 +1,55 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كما&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كما<br>\
+&lt;entryFree id=&quot;n37207&quot; key=&quot;كَمَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     كَمَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَمَاَ<br>\
+                  &lt;/form&gt;, inf. n. كَمْءٌ; (S, K;) and ↓ <br>\
+      اكما; (K;) &lt;i&gt;He fed&lt;/i&gt; people &lt;i&gt;with&lt;/i&gt; [&lt;i&gt;the truffles called&lt;/i&gt;] كَمْء. (S, K.)       -A2-  كَمِيَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَمَاَ<br>\
+                  &lt;/form&gt;, inf. n. كَمَاٌ, &lt;i&gt;He walked barefoot, and had no shoes,&lt;/i&gt; or &lt;i&gt;sandals;&lt;/i&gt; <br>\
+                  حَفِىَ وَلَمْ تَكُنْ عَلَيْهِ نَعْلٌ: (accord. to some copies of the S, on the authority of Ks, and so in the L: or, accord. to the K, and an excellent copy of the S, حَفِىَ وَعَلَيْهِ نَعْلٌ, which may signify &lt;i&gt;He became thin in the feet,&lt;/i&gt; from much walking, &lt;i&gt;though wearing shoes,&lt;/i&gt; or &lt;i&gt;sandals:&lt;/i&gt;]) كَمَاٌ in the foot is the same as قَسَطٌ; [i. e., the &lt;i&gt;being naturally stiff in the tendons&lt;/i&gt;]. (TA.)       -A3-  كَمِيَتْ (tropical:)  &lt;i&gt;It&lt;/i&gt; (his foot, S, A, K, or hand, A) &lt;i&gt;became much cracked&lt;/i&gt; (Th, S, K) &lt;i&gt;by reason of cold.&lt;/i&gt; (A.) Also written in a copy of the A كمات; app. by a mistake of the transcriber. (TA.)       -A4-  كَمِيَ عَنِ الاَخْبَارِ (K) inf. n. كَمْءٌ, (TA,) &lt;i&gt;He was ignorant of, and understood not,&lt;/i&gt; or &lt;i&gt;minded not, the news.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37208&quot; key=&quot;اكما&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اكما<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a place) &lt;i&gt;abounded with&lt;/i&gt; [&lt;i&gt;the truffles called&lt;/i&gt;] كَمْء. (S, K.) ―         -b2-  See 1.       -A2-  اَكْمَاَتْهُ <br>\
+                  السِّنُّ <br>\
+                  &lt;i&gt;Age rendered him a&lt;/i&gt; <br>\
+                  شَيْخ, or &lt;i&gt;an old man.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37209&quot; key=&quot;تكمّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تكمّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He gathered&lt;/i&gt; [&lt;i&gt;the truffles called&lt;/i&gt;] كَمْء. (S.)       -A2-  تكمّا عَلَيْهِ الاَرْضُ <br>\
+                  &lt;i&gt;The earth hid him&lt;/i&gt; [as in a grave]. (K.)       -A3-  تكمّاهُ <br>\
+                  &lt;i&gt;He detested him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; syn. تَكَرَّهَهُ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37210&quot; key=&quot;تكامانا فى اَرْضِهِمْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;6&lt;/itype&gt;        <br>\
+                     تكامانا فى اَرْضِهِمْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;We, together, gathered the truffles called&lt;/i&gt; <br>\
+                  كَمْء <br>\
+                  &lt;i&gt;in their land&lt;/i&gt;]. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37211&quot; key=&quot;كَمْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَمْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A well-known vegetable,&lt;/i&gt; (K,) [the &lt;i&gt;truffle,&lt;/i&gt;] &lt;i&gt;which comes forth from the earth like the&lt;/i&gt; <br>\
+                  فُطْر: or &lt;i&gt;what is called&lt;/i&gt; <br>\
+                  شَحْمُ الاَرْضِ [the &lt;i&gt;fat of the earth&lt;/i&gt;]; and the Arabs also call it جُدَرِىُّ الاَرْضِ [the &lt;i&gt;small-pox of the earth&lt;/i&gt;]: it is also said that the name of كَمْاَةٌ is given to those [&lt;i&gt;truffles&lt;/i&gt;] &lt;i&gt;that incline to dust-colour and&lt;/i&gt; <br>\
+                  &lt;i&gt;black;&lt;/i&gt; and جباة (q. v.) to those that incline to red: كُحْل and تُوتِيَا are compounded with the juice of this vegetable [to apply to the eye]: Th also mentions كَمَاةٌ [as used for كَمْاَةٌ]. (TA.) The dual of كَمْءٌ is كَمْا=نِ; (S;) the pl. (of pauc., S) اَكْمُوٌ; (S, K;) and [pl. of mult.] كَمْاَةٌ: (K:) this last is not a pl. of كمء, but a quasi-pl. n.: (Sb, K:) [or كَمْاَةٌ is rather a coll. gen. n. of which the n. un. is without the ة, contr. to analogy: (see جَبْءٌ:)] in speaking of many, you say كَمْاَةٌ, contr. to analogy: (S:) or كَمْاَةٌ is the sing., and كَمْءٌ pl.: or [accord. to some,] كَمْاَةٌ is both sing. and pl.: (K:) AHn mentions كَمْاَةٌ as sing., and كَمْاَتَانِ as dual, and كَمْا=تٌ as pl.: but the right opinion is that of Sb. (TA.) [كَمْاَةٌ also signifies &lt;i&gt;Any kind of fungus, such as the mushroom, and toadstool.&lt;/i&gt; See فُطْرٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37212&quot; key=&quot;كَمَّاءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَمَّاءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;One who sells, and who gathers for sale,&lt;/i&gt; [&lt;i&gt;the truffles called&lt;/i&gt;] كَمْء. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37213&quot; key=&quot;مَكْمَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَكْمَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَكْمُوَةٌ <br>\
+                  &lt;i&gt;A place in which&lt;/i&gt; [&lt;i&gt;the truffles called&lt;/i&gt;] كَمْء <br>\
+                  &lt;i&gt;grow.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

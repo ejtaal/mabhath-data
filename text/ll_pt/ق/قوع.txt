@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قوع</em>            1                  قوع<br>\
+<b>قَاعٌ</b>               1     <br>\
+                     قَاعٌ<br>\
+                     ذ<br>\
+                  <i>An even place;</i> (S, voce مَقَدٌّ;) <i>plain,</i> or <i>level, land,</i> (S, Msb,) <i>that produces nothing;</i> (IF, Msb;) <i>plain,</i> or <i>soft, land,</i> (اَرْضٌ سَهْلَةٌ,) <i>low, and free from mountains.</i> (K.) See also رَوْضَةٌ. Respecting its pls., see جَارٌ.   </entryFree> <br>\
+' } );

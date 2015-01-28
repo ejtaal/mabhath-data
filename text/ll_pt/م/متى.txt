@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>متى</em>            1                  متى<br>\
+<b>مَتَى</b>               1     <br>\
+                     مَتَى<br>\
+                     ذ<br>\
+                   signifies <i>When?</i> and <i>when</i> used to denote a condition: see اَنَّى and اَيْنَ. ―         -b2-  حَتَّى مَتَى <br>\
+                  <i>Until when? how long?</i> and also <i>until the time when.</i> See Freytag&#39;s Arab. Prov. i. 382.   </entryFree> <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>هيف</em>            1                  هيف<br>\
+<b>تَهَيَّفَ</b>               1     <br>\
+                     تَهَيَّفَ<br>\
+                     ذ<br>\
+                  , (S, K,) said of a man, (S,) is from الهَيْفُ [the hot south-west wind], like تَسَتَّى from الشِتَّا=ءُ. (S, K.) See an ex. voce مَصْقُولٌ.    </entryFree> <br>\
+<b>الهَيْفُ</b>               1     <br>\
+                     الهَيْفُ<br>\
+                     ذ<br>\
+                  : respecting the wind thus called, see نَكْبَاءُ.    </entryFree> <br>\
+<b>رِيحٌ مِهْياَفٌ</b>               1     <br>\
+                     رِيحٌ مِهْياَفٌ<br>\
+                     ذ<br>\
+                   [<i>A very thirsty wind</i>]. (TA, voce نَكْباَءُ.)    <br>\
+' } );

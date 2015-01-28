@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'نذل1<br>\
+نَذُلَ, inf. n. نَذَالَةٌ, He was, or became, low,<br>\
+base, vile, ignoble, mean, sordid, or contemptible,<br>\
+(S, K,) in all his circumstances. (K.)<br>\
+نَذْلٌ A man vile, or mean, and despised in all<br>\
+his circumstances. (K.)<br>\
+' } );

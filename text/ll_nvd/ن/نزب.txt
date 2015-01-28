@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'نزب1<br>\
+نَزَبَ, aor.<br>\
+نَزِبَ, inf. n. نَزِيبٌ (S, K) and نَزْبٌ and<br>\
+نُزَابٌ (K) He (an antelope) uttered a cry, or<br>\
+sound, (S, K,) at rutting-time. (S.) Used with<br>\
+reference to the buck and the doe; (K;) or the<br>\
+buck only. (S, K.)<br>\
+6<br>\
+تنازبوا i. q. تنابزوا. (K.) Accord. to IHsh<br>\
+and others, this verb has not been heard [from<br>\
+the Arabs of the classical ages], but only the<br>\
+subst. نَزَبٌ, which is therefore decided to be a<br>\
+transp. form of نَبَزٌ. (TA.)<br>\
+نَزَبٌ A surname; a nickname; a name of reproach; an opprobrious appellation: syn. لَقَبَ:<br>\
+(K:) i. q. نَبَزٌ. (TA.) See 6.<br>\
+نَيْزَبٌ A buck-antelope; and a bull. (K.) [By<br>\
+the latter is probably meant the kind of antelope<br>\
+called بَقَرُ الوَحْشِ.]<br>\
+' } );

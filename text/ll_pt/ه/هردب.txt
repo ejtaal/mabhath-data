@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>هردب</em>            1                  هردب<br>\
+<b>هَرْدَبَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     هَرْدَبَ<br>\
+                     ذ<br>\
+                  , inf. n. هَرْدَبَةٌ, (and هردب, TA, [a strange form: perhaps a mistake for هَرْدَابٌ or هِرْدَابٌ:]) <i>He ran heavily.</i> (IKtt &amp;amp;c., and K.)    </entryFree> <br>\
+<b>هِرْدَبَّةٌ</b>               1     <br>\
+                     هِرْدَبَّةٌ<br>\
+                     ذ<br>\
+                   (and هِرْدَبٌّ, TA) <i>An old woman.</i> (S, K.) ―         -b2-  Also, (as some say, TA,) <i>Having a swollen belly, and cowardly:</i> (S, K:) or <i>cowardly, bulky, of little sense, swollen in the belly, and having no heart.</i> (TA.) ―         -b3-  Accord. to Az, in the T, A <i>large, long-bodied</i> man is called هِرْدَبَّةٌ. (TA.)   </entryFree> <br>\
+' } );

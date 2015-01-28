@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'كوكُوَّةٌ<br>\
+and كَوَّةٌ (S, Msb, K) and كَوٌّ (K) A<br>\
+hole, or perforation. or an aperture, (S, Mgh,<br>\
+Msb, K,) in a wall (Msb, K) or chamber; (S,<br>\
+Mgh;] [a mural aperture;] or the first and<br>\
+second, a small one; and the third, a large one<br>\
+(K.) See also مِشْكَاةٌ.<br>\
+' } );

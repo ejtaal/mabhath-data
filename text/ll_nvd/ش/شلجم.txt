@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'شلجمشَلْجَمٌ A well-known plant; (S;) [colza: see<br>\
+سَلْجَمٌ:] mentioned by the author of the L, and<br>\
+other leading lexicologists, following J. (TA.)<br>\
+' } );

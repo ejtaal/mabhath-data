@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'يهمتاليَهْمُوتُ A name of the fish upon which is the<br>\
+earth: erroneously written with ب [البهموت]:<br>\
+so says Esh-Shiháb in the &#39;Imáyeh. (MF, TA.)<br>\
+[See my translation of the 1001 Nights, note<br>\
+to the Introduction.]<br>\
+' } );

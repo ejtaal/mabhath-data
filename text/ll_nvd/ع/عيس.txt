@@ -1,0 +1,26 @@
+load_data( { book: 'll_nvd', text: 'عيس5<br>\
+تَعَيَّسَتِ الإِبِلُ The camels were, or became,<br>\
+[of the colour termed عَيَسٌ or] white inclining to<br>\
+black. (O, K.)<br>\
+عَيَسٌ (S, TA) and ↓ عِيسَةٌ, the latter of the<br>\
+measure فُعْلَةٌ, [originally عُيْسَةٌ.] like صُهْبَةٌ and<br>\
+كُمْتَةٌ, (Lth, O, TA,) Whiteness in a camel, mixed<br>\
+with somewhat of] the red hue termed] شُقْرَة; (S,<br>\
+TA;) [i. e., a reddish whiteness:] or [a dingy<br>\
+whiteness;] whiteness in which is a mixture of<br>\
+clearness with slight darkness: (TA:) [or a yel-lowish whiteness see أَعْيَسُ.]<br>\
+عِيسَةٌ: see the next preceding paragraph.<br>\
+أَعْيَسُ A camel of a white colour mixed with<br>\
+somewhat of [the red hue termed] شُقْرَة; (S, O,<br>\
+K; *) [i. e., reddish white] or [dingy white;]<br>\
+white with a slight darkness (Msb:) or inclining<br>\
+to yellow: [i. e., yellowish white:] (I Aar:) fem.<br>\
+عَيْسَآءُ: pl. عِيسٌ: (S, O, Msb, K:) the camels thus<br>\
+termed are said to be of good breed. (S, O,) Also<br>\
+A gazelle, or an antelope, and a bull, [app. meaning a wild bull,] in which is [a hue such as is<br>\
+termed] أَدْمَة. (TA.) And you say رَجُلٌ أَعْيَسُ<br>\
+الشَّعَرِ A man having white hair. (TA.) And<br>\
+رَسْمٌ أَعْيَسُ A white mark, trace, relic, or remain.<br>\
+(TA.) ―<br>\
+-b2-  العَيْسَآءُ The female locust. (S, O, K.)<br>\
+' } );

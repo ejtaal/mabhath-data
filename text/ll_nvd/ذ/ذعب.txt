@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'ذعب5<br>\
+تَذَعَّبَتْهُ الجِنُّ, (K,) as also تَذَأَّبَتْهُ, (TA,) The<br>\
+jinn frightened him, or terrified him. (K.)<br>\
+7<br>\
+انذعب, (K,) as also انثعب, the latter thought<br>\
+by Az to be the original word, (TA,) It (water)<br>\
+flowed, ran, streamed, or poured: it flowed in a<br>\
+continuous stream. (K.)<br>\
+ذُعْبَانٌ A young wolf. (K.)<br>\
+رَأَيْتُهُمْ مُذْعَابِّينَ كَأَنَّهُمْ عُرْفُ ضِبْعَانٍ, (K,) and<br>\
+مُثْعَابِّينَ, (TA,) I saw them following one another<br>\
+as though they were the mane of a male hyena.<br>\
+(As, K.)<br>\
+' } );

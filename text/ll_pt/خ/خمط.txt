@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>خمط</em>            1                  خمط<br>\
+<b>خَمْطٌ</b>               1     <br>\
+                     خَمْطٌ<br>\
+                     خمط<br>\
+                   The [<i>kind of tree called</i>] اَرَاك: (Bd in xxxiv. 15:) or <i>a species of the</i> <br>\
+                  اراك, <i>having a fruit which is eaten:</i> (Lth, S:) or the <i>fruit of the</i> <br>\
+                  اراك: (IB, K:) or <i>any trees having no thorns:</i> (IDrd, Bd, K:) or <i>trees having thorns;</i> cited from Fr; and by Z, in the Ksh, on the authority of A &#39;Obeyd: (TA:) or <i>certain trees like the</i> <br>\
+                  سِدْر, (K, TA,) <i>the fruit of which is like the mulberry:</i> (TA:) or <i>certain deadly trees:</i> (K:) or <i>deadly poison:</i> (TA:) or <i>any plant that has acquired a taste of bitterness,</i> (Zj, Bd, K,) <i>so that it cannot be eaten:</i> (Zj, TA:) or <i>scanty fruit of any trees:</i> (AHn, K:) or the <i>fruit of what is called</i> <br>\
+                  فَسْوَةُ الضَّبُعِ: (K:) or <i>a certain fruit called</i> <br>\
+                  فَسْوَةُ الضَّبُعِ, <i>having the form of the poppy, friable, and of no use:</i> (IAar:) or it signifies, in the Kur xxxiv. 15, <i>fruit that is disagreeable in taste, and choking:</i> (Bd:) or, [as an epithet,] <i>bitter, and disagreeable in taste, and choking:</i> (Jel:) or <i>bitter;</i> applied to anything: or <i>acid.</i> (K.) In the Kur, ubi suprà, some read, ذَوَاتَىْ اَكُلِ <br>\
+                  خَمْطٍ: (S, IB, Jel:) this is the right reading accord. to him who makes خمط to mean the اراك: but accord. to him who makes it to mean the fruit of the اراك, the right reading of اكل is with tenween, and خمط is a substitute for that word. (IB.) [The pl. is خِمَاطٌ: see an ex. voce خَلٌّ.]   </entryFree> <br>\
+' } );

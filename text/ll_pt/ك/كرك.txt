@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>كرك</em>            1                  كرك<br>\
+<b>كُرْكِىٌّ</b>               1     <br>\
+                     كُرْكِىٌّ<br>\
+                     ذ<br>\
+                   The <i>Numidian crane; ardea virgo:</i> also called اـِوَزٌّ عِراَقِىٌّ, and وَزٌّ عِرَاقِىٌّ. See اَبُو <br>\
+                  العَيْزَارِ and غُرْنَيْقٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'لبك1<br>\
+لَبَكَهُ is like رَبَكَهُ.<br>\
+لَبَكَةٌ: see عَبَكَةٌ.<br>\
+' } );

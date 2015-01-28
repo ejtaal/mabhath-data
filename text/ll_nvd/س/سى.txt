@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'سىسَىْ i. q. سَوْفَ, q. v.<br>\
+سَىٌّ and سِىٌّ: see art, سوى; and see the latter<br>\
+in art. سيو.<br>\
+' } );

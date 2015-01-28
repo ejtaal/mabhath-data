@@ -1,0 +1,26 @@
+load_data( { book: 'll_nvd', text: 'عذط1<br>\
+عَذِطَ: see what here follows.<br>\
+Q. Q. 1<br>\
+عَذْيَطَ, (O, Msb, K,) inf. n. عَذْيَطَةٌ,<br>\
+(S, Msb,) Alvum ejecit, ventumve per anum emisit, in coïtu: (S, O, Msb, K:) or semen emisit<br>\
+ante congressum: (K:) or semen in coïtu non<br>\
+emisit: (TA:) and ↓ عَذِطَ, aor.<br>\
+عَذَطَ, inf. n. عَذَطٌ,<br>\
+signifies the same: (Msb:) or there is no verb<br>\
+derived from عِذْيَوْطٌ, because it denotes a natural<br>\
+quality: (O, K:) so says El-Mufaddal Ibn-Selemeh, in his book on the errors in the &#39;Eyn: but<br>\
+the rule is only one which applies in most instances, of which this is not one; for the former<br>\
+of these words is of established authority, mentioned by Ibn-Málik and others of the leading<br>\
+lexicologists. (TA.)<br>\
+عَذْطٌ the subst. [or abstract n.] from عَذْيَطَ.<br>\
+(Lth, K.)<br>\
+عِذْوَطٌ: see what follows.<br>\
+عِذْيَوْطٌ (S, O, Msb, K) and عُذْيُوطٌ (Th, L, K)<br>\
+and ↓ عِذْوَطٌ (Ibn-&#39;Abbád, O, K) Qui alvum ejicit,<br>\
+ventumve per anum emittit, in coïtu: (S, O, Msb,<br>\
+K:) or qui semen emittit ante congressum: (K:)<br>\
+or qui semen in coïtu non emittit: (TA:) and so<br>\
+with ة applied to a woman: (S, O, Msb:) pl.<br>\
+عِذْيَوْطُونَ [masc.] and عَذَايِيطُ and عَذَاوِيطُ; (Lth,<br>\
+O, K;) the last contr. to rule. (TA.)<br>\
+' } );

@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'نرسننِرْسِيَانَةٌ<br>\
+A species of dates. (S, in art. رسو.)<br>\
+' } );

@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>قهقم</em>            1                  قهقم<br>\
+<b>قَهْقَمٌ</b>               1     <br>\
+                     قَهْقَمٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  قَهْقَبٌ <br>\
+                  <i>Big; bulky; large in body.</i> (L.)   </entryFree> <br>\
+' } );

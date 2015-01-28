@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>حمن</em>            1                  حمن<br>\
+<b>حَمْنٌ</b>               1     <br>\
+                     حَمْنٌ<br>\
+                     حام<br>\
+                     حمن<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>حَمْنَانٌ</b>               1     <br>\
+                     حَمْنَانٌ<br>\
+                     حمنان<br>\
+                  <i>Small</i> <br>\
+                  قِرْدَان [or <i>ticks</i>]; as also ↓ <br>\
+      حَمْنٌ: n. un. with ة: (K:) accord. to As, the first of the قُرَاد is termed قَمْقَامَةٌ, when very small; then it is termed حَمْنَانَةٌ; then, قُرَادٌ; then, حَلَمَةٌ; then, عَلٌّ; and then, طِلْحٌ. (S.) ―         -b2-  Also <i>A sort of grapes of Et-Táïf,</i> (K,) <i>black inclining to redness,</i> (TA,) <i>of which the berries are small</i> (K) <i>and few:</i> (TA:) or the <i>small berries that are between the large berries,</i> (K,) so in the M, (TA,) <i>among the grapes.</i> (K.)    </entryFree> <br>\
+<b>اَرْضٌ مَحْمَنَةٌ</b>               1     <br>\
+                     اَرْضٌ مَحْمَنَةٌ<br>\
+                     ذ<br>\
+                   and مُحْمِنَةٌ <br>\
+                  <i>A land abounding with the small</i> <br>\
+                  قِرْدَان <br>\
+                  <i>termed</i> <br>\
+                  حَمْنَان. (K.)   </entryFree> <br>\
+' } );

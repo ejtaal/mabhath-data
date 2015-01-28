@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;كثا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  كثا<br>\
+&lt;entryFree id=&quot;n36659&quot; key=&quot;كَثَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     كَثَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     كَثَاَ<br>\
+                  &lt;/form&gt;, (AZ, S, K,) inf. n. كَثْءٌ; (S;) (as also كَثَعَ; TA;) and ↓ <br>\
+      كثّا, inf. n. تَكْثِيَةٌ; (S, L, K;) &lt;i&gt;It&lt;/i&gt; (the milk) &lt;i&gt;rose above the water, and the latter became clear beneath it:&lt;/i&gt; (AZ, S, K;) &lt;i&gt;it&lt;/i&gt; (the milk) &lt;i&gt;became thick,&lt;/i&gt; or &lt;i&gt;coagulated, and its oily matter floated upon its surface.&lt;/i&gt; (TA.) ―         -b2-  كَثَاَتِ القِدْرُ, (S, K,) inf. n. كَثْءٌ, (S,) &lt;i&gt;The pot frothed,&lt;/i&gt; or &lt;i&gt;raised a scum, in boiling.&lt;/i&gt; (AZ, S, K.) ―         -b3-  كَثَاَ القِدْرَ <br>\
+                  &lt;i&gt;He skimmed the pot.&lt;/i&gt; (K.)       -A2-  كَثَاَ, (K,) inf. n. كَثْءٌ; (TA;) and ↓ <br>\
+      كثّا, inf. n. تَكْثِيَةٌ; (K;) &lt;i&gt;It&lt;/i&gt; (a plant, S, K, and the soft kind of hair called وَبَر, S) &lt;i&gt;grew forth,&lt;/i&gt; or &lt;i&gt;became dense and thick and long:&lt;/i&gt; (K:) &lt;i&gt;it&lt;/i&gt; (standing corn, &amp;amp;c.) &lt;i&gt;became thick and tangled.&lt;/i&gt; (TA.) ―         -b2-  كَثَاَتِ اللِّحْيَةُ, and ↓ <br>\
+      كثّات, and ↓ <br>\
+      كَنْثَاَت, (K,) or, accord. to some, كنتات, (TA,) &lt;i&gt;The beard became long and large&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36660&quot; key=&quot;كثّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     كثّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَكْثِىْءٌ, &lt;i&gt;He ate what is called&lt;/i&gt; <br>\
+                  كَثْاَة, (K,) i. e. what is on the top of milk. (S, TA.) ―         -b2-  And see 1 in three places.    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;Q. Q. 1&lt;/itype&gt;        <br>\
+                     &lt;orth lang=&quot;ar&quot;/&gt;<br>\
+                  &lt;/form&gt; see 1, last sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36661&quot; key=&quot;كَثْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَثْءٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A kind of&lt;/i&gt; <br>\
+                  اَقِط; &lt;i&gt;what rises&lt;/i&gt; (&lt;i&gt;from the milk&lt;/i&gt;) &lt;i&gt;above the water, the latter becoming clear beneath it;&lt;/i&gt; or &lt;i&gt;what becomes thick,&lt;/i&gt; or &lt;i&gt;coagulated, its oily matter floating upon the surface,&lt;/i&gt; (يَكْثَاُ,) &lt;i&gt;in the pot, and is poured out; the upper part whereof is gross,&lt;/i&gt; or &lt;i&gt;thick.&lt;/i&gt; So says AHát; and he adds, What is termed مصرع [evidently, I think, a mistranscription for مُضَرِّعٌ,] is what becomes thick, or coagulated, and almost thoroughly cooked: عاقد is that of which the water has gone, and which is thoroughly cooked: كَرِيص is that which is cooked with نَهْق or حَمَصِيص: مَصْل is a kind of اقط cooked again: and ثَوْر is a great piece of it. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36662&quot; key=&quot;كَثْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كَثْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and كَثْاَةٌ (like كثعة, TA) &lt;i&gt;Oily scum,&lt;/i&gt; or &lt;i&gt;floating curd,&lt;/i&gt; of milk; or &lt;i&gt;what floats above the water:&lt;/i&gt; (S, K, TA:) &lt;i&gt;scum&lt;/i&gt; of a pot, &lt;i&gt;after boiling.&lt;/i&gt; (TA.) ―         -b2-  خُذْ كَثاةَ قِدْرِكَ <br>\
+                  &lt;i&gt;Take the scum of thy pot.&lt;/i&gt; (S.) [See 2.]       -A2-  كَثْاَةٌ and كَثَاةٌ (K) The &lt;i&gt;leek,&lt;/i&gt; syn. كُرَّاث: or, as some say, the &lt;i&gt;wild carrot,&lt;/i&gt; syn. حِنْزَاب: (TA:) or the &lt;i&gt;rocket,&lt;/i&gt; syn. جِرْجِير: (K:) or, accord. to AM, the &lt;i&gt;seed of that plant:&lt;/i&gt; (TA:) or &lt;i&gt;wild rocket,&lt;/i&gt; syn. جِرْجِير بَرِّىّ; (K;) &lt;i&gt;not that which is cultivated in gardens.&lt;/i&gt; (TA.) Aboo-Málik says, that it is also called نَهْق. (TA.) [See also كَتْاَة.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36663&quot; key=&quot;لِحْيَةٌ كَنْثَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لِحْيَةٌ كَنْثَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A long and large beard.&lt;/i&gt; (TA.) ―         -b2-  كَنْثَاُ اللِّحْيَةِ <br>\
+                  &lt;i&gt;Having a long and large beard.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n36664&quot; key=&quot;كِنْثَاْوٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     كِنْثَاْوٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  كِنْتَاْوٌ, [q. v. in art. كتا]. (K.)   &lt;/entryFree&gt; <br>\
+' } );

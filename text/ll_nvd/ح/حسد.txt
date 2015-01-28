@@ -1,0 +1,54 @@
+load_data( { book: 'll_nvd', text: 'حسد1<br>\
+حَسَدَهُ عَلَى الشَّىْءِ and<br>\
+حَسَدَهُ الشَّىْءَ, (S, A,<br>\
+Msb, K,) aor.<br>\
+حَسُدَ and<br>\
+حَسِدَ, (S, K,) the latter form<br>\
+of aor. used by some, (Akh, S,) the former being<br>\
+that which commonly obtains, (TA,) inf. n. حَسَدٌ<br>\
+(Akh, S, A, Msb, K [in the CK حَسْد]) and حَسْدٌ,<br>\
+but the former is more common, (Msb,) and<br>\
+حُسُودٌ and حَسَادَةٌ (S, K) and حَسِيدَةٌ; (CK;) and<br>\
+↓ حسّدهُ, [which probably has an intensive signification,] (K,) inf. n. تَحْسِيدٌ; (TA;) He envied<br>\
+him for the thing, or envied him the thing, meaning a blessing, or a cause of happiness; i. e. he<br>\
+disliked that he should possess it, and wished that<br>\
+it might depart from him [and be transferred to<br>\
+himself]: (Msb:) or he wished, or regarded him<br>\
+with a wish, that the thing, meaning as above,<br>\
+might depart from him: (A:) or he wished that<br>\
+he might be deprived of the thing, meaning as<br>\
+above, or an excellence: (K: [in the CK, for<br>\
+يُسْلَبَهُمَا, is put يَسْلُبَهُمَا:]) or he wished that the thing,<br>\
+meaning a blessing, or a cause of happiness, (S, K,)<br>\
+or an excellence, (K,) might become transferred<br>\
+from him (another) to himself. (S, K.) ―<br>\
+-b2-  And<br>\
+حَسَدَهُ عَلَى شَجَاعَتِهِ وَ نَحْوِهَا He wished that he<br>\
+possessed such as his (another&#39;s) courage, and the<br>\
+like, without wishing that the other should be deprived of it; the verb in this case being syn. with<br>\
+غَبَطَ; and implying admiration. (Msb) ―<br>\
+-b3-  حَسَدَنِى<br>\
+اللّٰهُ إِنْ كُنْتُ أَحْسُدُكَ (M, K) is a saying of the<br>\
+Arabs, mentioned by Lh, strange and abominable,<br>\
+(M,) meaning May God punish me for my envy<br>\
+if I envy thee. (M, K.)<br>\
+2<br>\
+حَسَّدَ see 1.<br>\
+4<br>\
+صَحِبْتُهُ فَأَحْسَدْتُهُ I associated with him and<br>\
+found him to be envious. (A.)<br>\
+6<br>\
+تحاسدوا They envied (حَسَدُوا) one another.<br>\
+(S, A, * K.)<br>\
+حَسَدٌ Envy; or the wishing that a blessing, or<br>\
+a cause of happiness, may depart from its possessor (S, A) and become transferred to oneself.<br>\
+(S.) [See 1.]<br>\
+حَسُودٌ Envious: (Msb, K:) used also as a fem.<br>\
+epithet without ة: (TA:) pl. حُسُدٌ. (K.)<br>\
+حَاسِدٌ Envying: (S, Msb, K:) pl. حَسَدَةٌ (S,<br>\
+A, Msb, K) and حُسَّادٌ (Msb, A, K) and حُسَّدٌ.<br>\
+(A, K.)<br>\
+المَحْسَدَةُ مَفْسَدَةٌ [That which is a cause of envy<br>\
+is a cause of corruption, or evil]. (A.)<br>\
+مَحْسُودٌ Envied. (S, A, Msb.)<br>\
+' } );

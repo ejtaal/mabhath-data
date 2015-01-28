@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نصع</em>            1                  نصع<br>\
+<b>نَصَعَ</b>               1     <br>\
+                     نَصَعَ<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, purified.</i> (L.)    </entryFree> <br>\
+<b>اَبْيَضُ نَاصِعٌ</b>               1     <br>\
+                     اَبْيَضُ نَاصِعٌ<br>\
+                     ذ<br>\
+                  <i>Intensely white.</i>   <br>\
+' } );

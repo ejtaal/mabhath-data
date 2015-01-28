@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>رجا</em>            1                  رجا<br>\
+<b>ارجا</b>               1     <br>\
+                     ارجا<br>\
+                     ذ<br>\
+                  <i>He postponed, put off, deferred,</i> or <i>delayed,</i> (ISk, S, Mgh, Msb, K,) an affair, (ISk, S, Mgh, K,) and a person; (TA;) as also ارجى: (ISk, S, Mgh, Msb, K:) but the former is the better: the inf. n. is اـِرْجَا=ءٌ. (TA.) It is said in the Kur [xxxiii. 51], accord. to different readings, تُرْجِىءُ مَنْ تَشَا=ءُ مِنْهُنَّ or تُرْجِى, meaning <i>Thou mayest put off whom thou wilt of them:</i> addressed peculiarly to the Prophet, exclusively of others of his people. (Zj, TA.) [See also an ex. in the Kur vii. 108 and xxvi. 35; and the various readings mentioned by Bd in the former instance.]       -A2-  اَرْجَاَتْ <br>\
+                  <i>She</i> (a camel, S, K, and in like manner a pregnant female [of any kind], TA) <i>was,</i> or <i>became, near to bringing forth;</i> as also اَرْجَتْ: (S, K:) AA says the former. (S.)       -A3-  And ارجا <br>\
+                  <i>He</i> (a hunter or sportsman) <i>was unsuccessful, getting no game;</i> as also ارجى: (K, TA:) or you say, ارجا الصَّيْدَ, (TA in art. رجو,) and ارجى <br>\
+                  الصَّيْدَ. (K in that art.)    </entryFree> <br>\
+<b>مُرْجَاٌ</b>               1     <br>\
+                     مُرْجَاٌ<br>\
+                     ذ<br>\
+                   [pass. part. n. of 4]. It is said in the Kur [ix. 107], (S, K,) as some read, (S,) وَا=خَرُونَ, مُرْجَوُونَ لِاَمْرِ اْللّٰهِ, (S, K,) or, as others read, مُرْجَوْنَ, (S,) meaning [<i>And others are</i>] <i>delayed</i> [<i>for</i> the execution of <i>the decree of God,</i>] until God shall cause to betide them what He willeth. (S, K.)    </entryFree> <br>\
+<b>مُرْجِىءٌ</b>               1     <br>\
+                     مُرْجِىءٌ<br>\
+                     ذ<br>\
+                   [act. part. n. of اَرْجَاَ], (S, K,) and مُرْجٍ [act. part. n. of اَرْجَى], (S, [in which, however, it is not clearly shown whether the author means that this corresponds to مُرْجِىءٌ or that it is a rel. n. corresponding to مُرْجِيِىٌّ, the former being certainly the case,]) or not thus, but مُرْجِىٌّ, (K,) so some say, (TA,) but this is a rel. n. like مرْجِيِىٌّ, (IB, TA,) A man who is <i>one of</i> [<i>the sect called</i>] ↓ <br>\
+      المُرْجِيَةُ (S, K) and المُرْجِيَةُ, without teshdeed to the ى (K,) accord. to J, المُرْجِيَّةُ, with teshdeed, (IB,) but this is incorrect, unless as meaning <i>those who are called in relation to the</i> <br>\
+                  مُرْجِيَة, for otherwise it is not allowable. (IB, TA.) The sect called the ↓ <br>\
+      مُرْجِيَة [and مُرْجِيَة] are [<i>A sect of Muslim antinomians;</i>] <i>a sect of Muslims who assert that faith</i> (الاـِيمَان) <i>consists in words without works;</i> as though they postponed works to words; <i>asserting that if they do not pray nor fast, their faith will save them:</i> (TA:) <i>a sect who assert that disobedience, with faith, does not injure; and that obedience, with disbelief, does not profit:</i> (KT:) or <i>a sect who do not pronounce judgment upon any one for aught in the present life, but defer judgment to the day of resurrection:</i> (Msb:) <i>those who decide not, against the committers of great sins, aught as to pardon or punishment; deferring the judgment respecting such sins to the day of resurrection.</i> (Mgh in art. جهم.) ―         -b2-  مُرْجِىءٌ is also applied to a she-camel, and a pregnant female [of any kind], as meaning <i>Near to bringing forth;</i> and so مُرْجِيَةٌ. (TA.)    </entryFree> <br>\
+<b>المُرْجِيَةُ</b>               1     <br>\
+                     المُرْجِيَةُ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph, in two places.    </entryFree> <br>\
+<b>رَجُلٌ مُرْجِيِىٌّ</b>               1     <br>\
+                     رَجُلٌ مُرْجِيِىٌّ<br>\
+                     ذ<br>\
+                   (S, IB) and مُرْجِىٌّ (IB) <i>A man called in relation to the</i> <br>\
+                  مُرْجِيَة (S, IB) or مُرْجِيَة (IB.)   </entryFree> <br>\
+' } );

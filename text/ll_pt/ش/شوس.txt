@@ -1,0 +1,25 @@
+load_data( { book: 'll_pt', text: '<em>شوس</em>            1                  شوس<br>\
+<b>شَوِسَ</b>               1     <br>\
+                     شَوِسَ<br>\
+                     ذ<br>\
+                  , (K,) aor. يَشْوَسُ, (TA,) inf. n. شَوَشٌ; (S, A, K, TA;) and شَاسَ, aor. يَشَاسُ, (Lth, K, TA,) or يَشُوسُ; (Ham p. 68;) <i>He looked from the outer angle of his eye, by reason of pride,</i> or <i>of anger,</i> or <i>rage:</i> (S, A, K:) or, as in the M, <i>he looked with one of his eyes, inclining his face towards the side of that eye; doing so naturally,</i> or <i>by reason of pride and self-conceit and anger:</i> or <i>he raised his head in pride:</i> (TA:) or <i>he made the eye small, contracting the lids, to look:</i> and ↓ <br>\
+      تشاوس has the first of the meanings above mentioned; (A, K;) or the last: (A:) or one says, تشاوس فِى نَظَرِهِ, meaning <i>he looked with the look of the haughty,</i> or <i>proud:</i> (TA:) or تشاوس اـِلَيْهِ <br>\
+                  <i>he looked at him from the outer angle of his eye, inclining his face towards the side of the eye with which he looked:</i> (AA, S, TA: [see also 3:]) or تشاوس signifies <i>he looked towards the sky with one of his eyes:</i> or it means <i>he showed,</i> or <i>manifested, pride and self-conceit, and haughtiness;</i> agreeably with the general analogy of verbs of this measure: and شَوَسٌ is in the natural disposition. (TA.) ―         -b2-  Also <i>He was such as is termed</i> <br>\
+                  اَشْوَس meaning <i>bold,</i> or <i>daring, to engage in fight, and strong.</i> (TA.)       -A2-  شَوْسٌ [inf. n. of شَاسَ] in relation to the سِوَاك [or toothstick] is a dial. var. of شَوْصٌ: (IAar, K, TA:) one says, شَاسَ فَاهُ بِالسِّوَاكِ, like شَاصَهُ [q. v.]. (Fr, TA.)    </entryFree> <br>\
+<b>شَاوَسَهُ</b>               1     <br>\
+                     شَاوَسَهُ<br>\
+                     ذ<br>\
+                   [<i>He looked at him in the manner of him who is termed</i> <br>\
+                  اَشْوَس; like تشاوس اـِلَيْهِ: see مُشَاوِسٌ].    </entryFree> <br>\
+                     تَشَاْوَسَ<br>\
+                   see the first paragraph.    </entryFree> <br>\
+<b>اَشْوَسُ</b>               1     <br>\
+                     اَشْوَسُ<br>\
+                     ذ<br>\
+                  , applied to a man, (S, A,) <i>Who looks in the manner expl. above, in the first sentence of this art.:</i> (S, A, K:) or <i>in whose look is known anger;</i> or <i>rancour, malevolence, malice,</i> or <i>spite;</i> and <i>pride:</i> (TA:) or <i>raising his head by reason of pride:</i> (AA, TA:) fem. شَوْسَا=ءُ: (A, TA:) and pl. شُوسٌ. (S, A, K.) [Hence the saying,] بُلِىَ <br>\
+                  فُلَانٌ بِشُوسِ الخُطُوبِ (tropical:)  [<i>Such a one was tried with terrifying,</i> or <i>severe, calamities</i> or <i>afflictions</i>]. (A, TA.) ―         -b2-  Also <i>Bold,</i> or <i>daring, to engage in fight, and strong.</i> (TA. [See also شُوشٌ: and see اَشْرَسُ.])    </entryFree> <br>\
+<b>مُشَاوِسٌ</b>               1     <br>\
+                     مُشَاوِسٌ<br>\
+                     ذ<br>\
+                   (tropical:)  Water <i>hardly to be seen, by reason of its paucity, and the depth to which it has sunk;</i> (A, * K;) as though it looked at him who came to it in the manner of him who is termed اَشْوَس (كَاَنَّهُ يُشَاوِسُ الوَارِدَ). (A, TA.)   </entryFree> <br>\
+' } );

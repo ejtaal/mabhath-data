@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وا<br>\
+&lt;entryFree id=&quot;n41523&quot; key=&quot;وَاْوَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;R Q&quot;&gt;       <br>\
+                     &lt;itype&gt;R. Q. 1&lt;/itype&gt;        <br>\
+                     وَاْوَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. وَاْوَاَهٌ, &lt;i&gt;He&lt;/i&gt; (a dog) &lt;i&gt;barked.&lt;/i&gt; (A.) ―         -b2-  Also inf. n. وَاْوَا=ءٌ ([respecting the form of which see ظَاْظَاَ] in the CK and a MS. copy, وَاْوَاٌ) &lt;i&gt;He&lt;/i&gt; (a jackal, اِبْنُ ا=وَى,) &lt;i&gt;cried,&lt;/i&gt; or &lt;i&gt;barked.&lt;/i&gt; (K.) ―         -b3-  [See also وَعْوَعَ.]   &lt;/entryFree&gt; <br>\
+' } );

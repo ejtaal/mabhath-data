@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>شده</em>            1                  شده<br>\
+<b>شُدِهَ</b>               1     <br>\
+                     شُدِهَ<br>\
+                     ذ<br>\
+                  , (JK, S, K,) inf. n. شَدْهٌ, (S,) <i>He</i> (a man, JK, S) <i>became confounded,</i> or <i>perplexed, and unable to see his right course;</i> or <i>became bereft of his reason</i> or <i>intellect; i. q.</i> <br>\
+                  دُهِشَ: (JK, S, K:) and also, (K,) or, accord. to AZ, only, (S,) <i>he was,</i> or <i>became, busied, occupied,</i> or <i>employed;</i> or <i>busied,</i> &amp;amp;c., <i>so as to be diverted</i> from something; or <i>diverted</i> from a thing <i>by being busied;</i> syn. شُغِلَ: (S, K:) and <i>he was caused to become confounded,</i> or <i>perplexed, and unable to see his right course;</i> (K;) as also ↓ <br>\
+      انشده, or ↓ <br>\
+      اشتده, (K, accord. to different copies: the former accord. to the TA.) Accord. to Az, شَدْهٌ is not from الدَّهَشُ, as it is thought to be by some [and as is implied by what here follows]. (TA.) ―         -b2-  شَدَهَهُ <br>\
+                  <i>He confounded,</i> or <i>perplexed, him, so that he was unable to see his right course;</i> or <i>bereft him of his reason</i> or <i>intellect;</i> syn. اَدْهَشَهُ; (K;) as also ↓ <br>\
+      اشدههُ: (A &#39;Obeyd, K:) or the former verb, in the act. form, has not been heard: (Har p. 64:) and [it is asserted that] one does not say ↓ <br>\
+      اشدههُ. (JK.)       -A2-  شَدَهَ رَاْسَهُ <br>\
+                  <i>i. q.</i> <br>\
+                  شَدَخَهُ [i. e. <i>He broke his head</i>]. (K.)    </entryFree> <br>\
+                     اَشْدَهَ<br>\
+                   see the preceding paragraph, in two places.    </entryFree> <br>\
+                     اـِنْشَدَهَ<br>\
+                  and 8: see 1, first sentence.    </entryFree> <br>\
+<b>شَدْهٌ</b>               1     <br>\
+                     شَدْهٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>شُدْهٌ</b>               1     <br>\
+                     شُدْهٌ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      شَدَهٌ (S, and so in some copies of the K and in the TA) and ↓ <br>\
+      شَدْهٌ (so in some copies of the K in the place of the second, and in others together with the second, and in the TA) [app. <i>A state of confusion,</i> or <i>perplexity, so that one is unable to see his right course;</i> or <i>a state of alienation of mind;</i>] substs. from شُدِهَ: (S: [but in the K they are mentioned after شَدَهَهُ and اَشْدَهَهُ meaning اَدْهَشَهُ, and مَشَادِهُ meaning مَشَاغِلُ, as being the substs.; so that they may signify as above, and also <i>business, occupation,</i> or <i>employment,</i> &amp;amp;c.; agreeably with renderings in the TK:]) and ↓ <br>\
+      شُدَاهٌ is a subst. from شُدِهَ [app. in the former, or in both, of these senses]. (K.)    </entryFree> <br>\
+<b>شَدَهٌ</b>               1     <br>\
+                     شَدَهٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>شُدَاهٌ</b>               1     <br>\
+                     شُدَاهٌ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>مَشْدُوهٌ</b>               1     <br>\
+                     مَشْدُوهٌ<br>\
+                     ذ<br>\
+                   A man <i>confounded,</i> or <i>perplexed, and unable to see his right course;</i> or <i>bereft of his reason</i> or <i>intellect.</i> (S, TA. [But accord. to AZ, it seems to signify only مَشْغُولٌ, i. e. <i>Busied, occupied,</i> or <i>employed,</i> &amp;amp;c.: see 1, first sentence.])    </entryFree> <br>\
+<b>مَشَادِهُ</b>               1     <br>\
+                     مَشَادِهُ<br>\
+                     ذ<br>\
+                   [a pl. of which the sing. is app. مَشْدَهَةٌ] <i>Things that cause one to be busied, occupied,</i> or <i>employed;</i> or <i>busied,</i> &amp;amp;c., <i>so as to be diverted</i> from something; or <i>diverted</i> from a thing <i>by being busied;</i> syn. مَشَاغِلُ [pl. of مَشْغَلَةٌ]. (Z, K.)   </entryFree> <br>\
+' } );

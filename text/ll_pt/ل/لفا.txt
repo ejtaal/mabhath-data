@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>لفا</em>            1                  لفا<br>\
+<b>لَفَاَ</b>               1     <br>\
+                     لَفَاَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَفَاَ<br>\
+                  , inf. n. لَفْءٌ and لَفَا=ءٌ; and ↓ <br>\
+      التفا; <i>He stripped off,</i> or <i>peeled off,</i> (K,) meat from a bone. (AZ, S.) ―         -b2-  لَفَاَتِ الرِّيحُ السَّحَابَ عَنْ وَجْهِ <br>\
+                  السَّمَا=ءِ (assumed tropical:)  [<i>The wind stripped off the clouds from the face of the sky</i>]. (S.) ―         -b3-  لَفَاَ, inf. n. لَفْءٌ, <i>He peeled</i> a bone (TA) or a stick. (S.) ―         -b4-  لَفَاَ <br>\
+                  <i>He beat</i> (S, K) with a staff or stick. (S.) ―         -b5-  <i>He turned</i> a person <i>back,</i> or <i>away, from his purpose.</i> (K.) ―         -b6-  لَفَاَ <br>\
+                  <i>i. q.</i> <br>\
+                  اـِغْتَابَ; (assumed tropical:)  <i>He traduced</i> a person <i>behind his back,</i> or <i>in his absence, but saying of him what was true.</i> (K.) Thought to be tropical, from the same verb signifying “ he peeled. ” (TA.)       -A2-  لَفِىءَ, aor.      <br>\
+                     لَفَاَ<br>\
+                  , <i>He,</i> or <i>it remained,</i> or <i>endured.</i> (K.)       -A3-  لَفَاَهُ حَقَّهُ <br>\
+                  <i>He gave him the whole of what was due to him:</i> (like لَكَاَهُ: T:) or لفاه signifies <i>he gave him less than his due.</i> (K.) Accord. to Aboo-Turab, the verb is used in these two contr. senses. (TA.)    </entryFree> <br>\
+<b>الفا</b>               1     <br>\
+                     الفا<br>\
+                     ذ<br>\
+                  <i>He caused to remain,</i> or <i>endure.</i> (K.)    </entryFree> <br>\
+                     اـِلْتَفَاَ<br>\
+                   see 1.    </entryFree> <br>\
+<b>لَفَا=ءٌ</b>               1     <br>\
+                     لَفَا=ءٌ<br>\
+                     ذ<br>\
+                  <i>Deficiency:</i> (IAth:) رَضِيتُ مِنَ الوَفَا=ءِ <br>\
+                  بِاللَّفَا=ءِ [<i>I was content with a deficiency instead of full payment</i>]: from a trad. (TA.) ―         -b2-  <i>Less than what is just,</i> or <i>right.</i> (K.) ―         -b3-  <i>A little thing; a little.</i> (K.) ―         -b4-  <i>Dust; earth.</i> (K.) ―         -b5-  <i>Small bits of rubbish on the ground.</i> (TA.)    </entryFree> <br>\
+<b>لَفِيْيَةٌ</b>               1     <br>\
+                     لَفِيْيَةٌ<br>\
+                     ذ<br>\
+                  <i>A piece of meat stripped off,</i> or <i>peeled off, from a bone:</i> (TA:) <i>a piece of meat in which is no bone:</i> (S:) pl. لَفِىْءٌ [but this is rather a coll. gen. n., or it is doubtful] and لَفَايَا. (TA.)   </entryFree> <br>\
+' } );

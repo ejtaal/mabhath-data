@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'موممُومٌ<br>\
+[Pleurisy]: see بِرْسَامٌ and حُمَامٌ.<br>\
+مَوَامِى<br>\
+Lands wherein is nothing: see بَلُّوقَةٌ.<br>\
+' } );

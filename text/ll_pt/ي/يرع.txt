@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>يرع</em>            1                  يرع<br>\
+<b>يَرَاعٌ</b>               1     <br>\
+                     يَرَاعٌ<br>\
+                     ذ<br>\
+                  <i>A firefly:</i> see حُبَاحِبٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>صمخ</em>            1                  صمخ<br>\
+<b>صَمَخَهُ</b>               1     <br>\
+                     صَمَخَهُ<br>\
+                     ذ<br>\
+                  , (S, A, L, K,) aor.      <br>\
+                     صَمُخَ<br>\
+                  , inf. n. صَمْخٌ, (L,) <i>He hit,</i> or <i>hurt, his</i> <br>\
+                  صِمَاخ [i. e. his <i>ear-hole,</i> or his <i>ear</i>]: (S, A, L, K:) and, accord. to Sh, صَمَخَتْهُ الشَّمْسُ <br>\
+                  <i>The sun smote,</i> or <i>hurt, his</i> <br>\
+                  صِمَاخ. (TA.) ―         -b2-  صَمَخَتِ الشَّمْسُ وَجْهَهُ <br>\
+                  <i>The sun smote,</i> or <i>hurt, his face:</i> or [in the CK “ and ”] <i>fell vehemently upon it.</i> (A &#39;Obeyd, K.) ―         -b3-  صَمَخَ عَيْنَهُ, (ISk, K,) aor. and inf. n. as above, (ISk,) <i>He struck his eye with his fist:</i> (ISk, K:) in some of the lexicons, <i>with his hand.</i> (TA.) ―         -b4-  And صَمَخَ اَنْفَهُ <br>\
+                  <i>He crushed,</i> or <i>bruised, his nose.</i> (Lh, TA.) [See also what next follows.]    </entryFree> <br>\
+<b>صَمْخٌ</b>               1     <br>\
+                     صَمْخٌ<br>\
+                     ذ<br>\
+                   inf. n. of 1 [q. v.]. (L.) ―         -b2-  Also <i>Any blow that leaves a mark;</i> accord. to AZ, <i>upon the face.</i> (TA.)    </entryFree> <br>\
+<b>صِمَاخٌ</b>               1     <br>\
+                     صِمَاخٌ<br>\
+                     ذ<br>\
+                   The <i>ear-hole:</i> (S, A, Mgh, K:) the <i>hole,</i> (Msb,) or <i>inner hole,</i> (L,) of the ear, <i>that penetrates to</i> [<i>the interior of</i>] <i>the head:</i> (L, Msb:) and ↓ <br>\
+      اُصْمُوخٌ signifies the same: (L, K:) of the dial. of Temeem: (L:) and سِمَاخٌ is a dial. var., (S, L,) as also اُسْمُوخٌ: (L:) and, (S, L, Msb, K,) as some say, (S, L, Msb,) the <i>ear</i> itself: (S, L, Msb, K:) pl. اَصْمِخَةٌ, (L, Msb,) a pl. of pauc., (L,) and اَصْمَاخٌ, (A,) [also a pl. of pauc.,] and صُمُخٌ and صَمَايِخُ. (L.) One says, ضَرَبَ اْللّٰهُ عَلَى <br>\
+                  صِمَاخِهِ, and عَلَى اَصْمِخَتِهِمْ, meaning <i>God made him,</i> and <i>them, to sleep:</i> phrases similar to ضَرَبْنَا عَلَى ا=ذَانِهِمْ, in the Kur [xviii. 10: see art. ضرب]. (L.) And هٰذَا كَلَامٌ يُوْلِمُ اَصْمَاخِى [<i>This is speech that pains my ears</i>]. (A.)    </entryFree> <br>\
+<b>صَمُوخٌ</b>               1     <br>\
+                     صَمُوخٌ<br>\
+                     ذ<br>\
+                   [<i>Having merely an ear-hole;</i> as distinguished from اَذُونٌ, meaning “ having an ear, ” i. e. “ having an external ear ”]. (Msb in art. بيض.)    </entryFree> <br>\
+<b>اُصْمُوخٌ</b>               1     <br>\
+                     اُصْمُوخٌ<br>\
+                     ذ<br>\
+                  : see صِمَاخٌ.   </entryFree> <br>\
+' } );

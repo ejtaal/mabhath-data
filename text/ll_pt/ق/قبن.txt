@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قبن</em>            1                  قبن<br>\
+<b>قَبَّانٌ</b>               1     <br>\
+                     قَبَّانٌ<br>\
+                     ذ<br>\
+                  <i>A steelyard:</i> see عَمُودُ المِيزَانِ.   </entryFree> <br>\
+' } );

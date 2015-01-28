@@ -1,0 +1,71 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لبا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لبا<br>\
+&lt;entryFree id=&quot;n37446&quot; key=&quot;لَبَاَهَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     لَبَاَهَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     لَبَاَ<br>\
+                  &lt;/form&gt;, inf. n. لَبْءٌ; (S;) and ↓ <br>\
+      التباها; (TA;) &lt;i&gt;He milked her;&lt;/i&gt; (K;) i. e., a ewe: (TA:) or &lt;i&gt;he milked the biestings from her.&lt;/i&gt; (S, L.) ―         -b2-  لَبَاَ اللِّبَاَ, inf. n. لَبْءٌ, &lt;i&gt;He milked the biestings.&lt;/i&gt; (TA.) ―         -b3-  لَبَاَتْ (in some copies of the K, erroneously, لبّات, TA,) and ↓ <br>\
+      البات, &lt;i&gt;She&lt;/i&gt; (a ewe, S,) &lt;i&gt;suckled&lt;/i&gt; her young one &lt;i&gt;with her biestings:&lt;/i&gt; (S, K:) or &lt;i&gt;she&lt;/i&gt; (a ewe) &lt;i&gt;stood up to suckle&lt;/i&gt; her young one &lt;i&gt;with her biestings.&lt;/i&gt; (AHát.) ―         -b4-  لَبَاَ, (S, K,) inf. n. لَبْءٌ; and ↓ <br>\
+      لبّا (TA) and ↓ <br>\
+      البا; (K;) &lt;i&gt;He fed&lt;/i&gt; people &amp;amp;c. &lt;i&gt;with biestings.&lt;/i&gt; (S, K.) ―         -b5-  The first verb is used by Dhu-r-Rummeh in a similar sense, tropically, with reference to the first of truffles. (TA.) ―         -b6-  Also, لَبَاَهُمْ <br>\
+                  &lt;i&gt;He prepared biestings for them.&lt;/i&gt; (TA.) ―         -b7-  لَبَاَ اللّبَاَ, (K,) inf. n. لَبْءٌ; (TA;) and ↓ <br>\
+      البا; (K;) &lt;i&gt;He prepared&lt;/i&gt; (TA) &lt;i&gt;and cooked&lt;/i&gt; (K) &lt;i&gt;biestings.&lt;/i&gt; (K, TA.) ―         -b8-  لَبَاَ, (TA,) inf. n. لَبْءٌ, (K,) (tropical:)  &lt;i&gt;He watered&lt;/i&gt; (K) a young palm-tree (TA) &lt;i&gt;for the first time&lt;/i&gt; (K) &lt;i&gt;after planting it.&lt;/i&gt; (TA.) It is said to be lawful to finish doing this even if the Resurrection take place at the time. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37447&quot; key=&quot;لبّات&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     لبّات<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) inf. n. تَلْبِىءٌ, (TA,) &lt;i&gt;She&lt;/i&gt; (a camel, TA) &lt;i&gt;had biestings in her udder.&lt;/i&gt; (K.) ―         -b2-  See 1. ―         -b3-  لبا فُلَانٌ مِنْ هٰذَا الطَّعَامِ, inf. n. تَلْبِىْءٌ, &lt;i&gt;Such a one took much of this food.&lt;/i&gt; (ISh.)       -A2-  لبّا بِالحَجِّ, (S, K,) inf. n. تَلْبِيَةٌ, (S,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  لَبَّى. (S, K.) The latter is the original word: (S:) the former thought to be used, agreeably with several cases, as more elegant. (Fr, S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37448&quot; key=&quot;البات&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     البات<br>\
+                     ذ<br>\
+                  &lt;i&gt;She&lt;/i&gt; (a ewe, or goat, M, TA,) &lt;i&gt;excerned,&lt;/i&gt; or &lt;i&gt;yielded,&lt;/i&gt; or &lt;i&gt;emitted&lt;/i&gt; [either &lt;i&gt;into,&lt;/i&gt; or &lt;i&gt;from, her udder&lt;/i&gt;] &lt;i&gt;her biestings.&lt;/i&gt; (M, K.) ―         -b2-  اَلْبَوُوا <br>\
+                  &lt;i&gt;Their biestings became abundant.&lt;/i&gt; (S.) ―         -b3-  See 1, in two places. ―         -b4-  البا <br>\
+                  &lt;i&gt;He supplied&lt;/i&gt; a person &lt;i&gt;with biestings as a travelling-provision.&lt;/i&gt; (K.) ―         -b5-  البا, inf. n. اـِلْبَاءٌ, &lt;i&gt;He bound,&lt;/i&gt; (K,) or &lt;i&gt;directed,&lt;/i&gt; (S,) a kid, (AZ, S,) or a young camel, (K,) &lt;i&gt;to the extremity of the mother&#39;s teat, that it might suck the biestings.&lt;/i&gt; (AZ, S, K.) ―         -b6-  الباهُ <br>\
+                  بِرِيقِهِ (in a trad. respecting the birth of El-Hasan the son of &#39;Alee) (assumed tropical:)  &lt;i&gt;He poured his saliva into his mouth,&lt;/i&gt; as the first milk is poured into the mouth of an infant. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37449&quot; key=&quot;التباٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     التباٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      استلبا <br>\
+                  &lt;i&gt;It&lt;/i&gt; (a young one) &lt;i&gt;sucked&lt;/i&gt; its mother. (S, K.) The latter is said of a kid when it sucks of its own accord. (S.) ―         -b2-  التبا <br>\
+                  &lt;i&gt;He drank biestings.&lt;/i&gt; (TA.) ―         -b3-  بنَوُ فُلَانٍ <br>\
+                  لَا يَلْتَبِيُونَ فَتَاهُمْ وَلَا يَتَغَبَّرُونَ شَيْخَهُمْ (assumed tropical:)  &lt;i&gt;The sons&lt;/i&gt; (or &lt;i&gt;tribe&lt;/i&gt;) &lt;i&gt;of such a one do not marry their youth when young, nor their sheykh when old,&lt;/i&gt; from desire of offspring. (TA.) [See also art. غبر.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37450&quot; key=&quot;لِبَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لِبَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Biestings;&lt;/i&gt; or &lt;i&gt;the first milk&lt;/i&gt; (S, K) &lt;i&gt;at the time of bringing forth young;&lt;/i&gt; (Lth, S;) &lt;i&gt;before it becomes thin:&lt;/i&gt; (IHsh) what issues after this being called فِصْحٌ: (TA:) it is &lt;i&gt;at most three milkings, and at least one milking.&lt;/i&gt; (AZ.) [See also اـِنفَحَةٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37451&quot; key=&quot;لَبْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَبْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and لُبَاَةٌ and other forms, see لَبُوَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37452&quot; key=&quot;لَبُوٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَبُوٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A lion:&lt;/i&gt; (L:) but almost obsolete, or rarely used. (L, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37453&quot; key=&quot;لَبُوَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَبُوَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (Th, S, K, the most approved form, Yoo,) and ↓ <br>\
+      لَبْاَةٌ and ↓ <br>\
+      لَبَاءَةٌ and ↓ <br>\
+      لُبَاَةٌ (K) and لَبْوَةٌ (ISk, S, K, in the dial. of El-Hijáz, TA,) and لِبْوَةٌ and لَبَةٌ and لَبُوَةٌ and لَبَاةٌ (K) &lt;i&gt;A lioness.&lt;/i&gt; (K.) Accord. to Fei., it has no masc. of the same root; but this is at variance with the authority of the L. (TA.) Pl. (of لَبُوَةٌ, TA,) لَبُوٌ [or this is a quasi-pl. n., or a coll. gen. n.] and (of [لَبْاَةٌ and] لَبَاةٌ, (TA,) لَبْا=تٌ [or, app., accord. to the L, (a passage from which, quoted in the TA, seems to have been there corrupted by the copyist,) if لَبَاةٌ be a word of a particular dial., not formed by alleviation of hemzeh from لَبْاَةٌ, its pl. is لَبَا=تٌ,] and (of لُبَاَةٌ, TA,) لُبَاٌ and (of لَبْوَةٌ, TA,) لَبُوَاتٌ (K, accord. to the TA, but accord. to MF لَبْوَاتٌ). [These plurals, with their corresponding singulars, are thus given in the TA &amp;amp;c. In the CK, the pls. are given as follows: لَبْا=تٌ and لُبُوْءٌ and لُبُوٌ and لَبُوَاتٌ.] Each of the singulars may have a perfect, or sound, pl., ending with ات. (MF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37454&quot; key=&quot;نَاقَةٌ مُلَبِّيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاقَةٌ مُلَبِّيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A camel&lt;/i&gt; (TA) &lt;i&gt;having biestings in her udder.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37455&quot; key=&quot;عِشَارٌ مَلَايِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     عِشَارٌ مَلَايِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (in the CK مُلَابِيٌ) &lt;i&gt;Camels near to bringing forth.&lt;/i&gt; (S, K.) [See عُشَرَا=ءُ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37456&quot; key=&quot;بَيْنَهُمُ المُلْتَبِيَةُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بَيْنَهُمُ المُلْتَبِيَةُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;There is fellowship and confidence between them;&lt;/i&gt; one not concealing from another. (El-Ahmar.)   &lt;/entryFree&gt; <br>\
+' } );

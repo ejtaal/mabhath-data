@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '<em>فتش</em>            1                  فتش<br>\
+<b>فَتَشَ الشَّىْءَ</b>               1     <br>\
+                     فَتَشَ الشَّىْءَ<br>\
+                     ذ<br>\
+                  , (S, O, Msb,) aor.      <br>\
+                     فَتِشَ<br>\
+                  , (Msb,) inf. n. فَتْشٌ; (S, O, Msb;) and ↓ <br>\
+      فتّشهُ, (S, O, Msb,) inf. n. تَفْتِيشٌ; (S, O;) both signify the same; (S, O, Msb;) <i>He examined, looked into, scrutinized,</i> or <i>investigated, the thing;</i> but the latter verb is that which is commonly used. (Msb.) And فَتَشَ عَنْهُ, and ↓ <br>\
+      فتّش, <i>He inquired respecting it, and searched to the utmost after it.</i> (Msb.) فَتْشٌ and ↓ <br>\
+      تَفْتِيشٌ signify <i>The seeking with inquiry</i> or <i>examination</i> or <i>scrutiny</i> or <i>investigation.</i> (Lth, IF, A, O, K.) You say, وَلَا ↓ <br>\
+      فَتِّشْ <br>\
+                  تُفَنِّشْ <br>\
+                  <i>Seek thou with inquiry</i> &amp;amp;c., <i>and be not thou lax,</i> or <i>remiss.</i> (A, TA.)    </entryFree> <br>\
+                     فَتَّشَ<br>\
+                   see above, in four places.    </entryFree> <br>\
+<b>فاتشهُ</b>               1     <br>\
+                     فاتشهُ<br>\
+                     ذ<br>\
+                  , inf. n. مُفَاتَشَةٌ, [<i>He inquired of him,</i> or <i>examined him, diligently.</i>] (Sh, TA in art. ثور.)    </entryFree> <br>\
+<b>فَتَّاشٌ</b>               1[     <br>\
+                     فَتَّاشٌ<br>\
+                     ذ<br>\
+                   One <i>who examines things, looks into them, scrutinizes them,</i> or <i>investigates them, much,</i> or <i>diligently; who inquires much,</i> or <i>diligently, and searches to the utmost; who seeks much,</i> or <i>diligently, with inquiry, examination, scrutiny,</i> or <i>investigation.</i>]   </entryFree> <br>\
+' } );

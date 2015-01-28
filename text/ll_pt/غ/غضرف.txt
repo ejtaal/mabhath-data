@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>غضرف</em>            1                  غضرف<br>\
+<b>غُضْرُوفٌ</b>               1     <br>\
+                     غُضْرُوفٌ<br>\
+                     ذ<br>\
+                   is <i>syn. with</i> <br>\
+                  غُرْضُوفٌ, (S and K &amp;amp;c. in art. غرضف, q. v.,) in [all of] its meanings: (K:) pl. غَضَارِيفُ. (O and TA in art. غرضف.)   </entryFree> <br>\
+' } );

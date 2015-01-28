@@ -1,0 +1,22 @@
+load_data( { book: 'll_pt', text: '<em>تمك</em>            1                  تمك<br>\
+<b>تَمَكَ</b>               1     <br>\
+                     تَمَكَ<br>\
+                     تمك<br>\
+                  , aor.      <br>\
+                     تَمُكَ<br>\
+                   (S, K) and      <br>\
+                     تَمِكَ<br>\
+                  , (K,) inf. n. تَمُكٌ (S, K) and تُمُوكٌ, (K,) <i>It</i> (a camel&#39;s hump) <i>was,</i> or <i>became, tall,</i> or <i>long and high:</i> (S, K:) <i>it was,</i> or <i>became, juicy, and compact,</i> (O, K,) <i>and plump.</i> (M, TA.) ―         -b2-  [Hence,] تَمَكَ فِيهِ الحُسْنُ [app. (assumed tropical:)  <i>Beauty became fully developed,</i> or <i>consummate, in him</i>]. (TA.)    </entryFree> <br>\
+<b>اتمك سَنَامَهُ</b>               1     <br>\
+                     اتمك سَنَامَهُ<br>\
+                     اتمك سنامه<br>\
+                     اتمك سنامة<br>\
+                   [<i>It made his</i> (a camel&#39;s) <i>hump to become tall,</i> or <i>long and high,</i> or <i>juicy and compact, and plump</i>]; said of the [herbage called] رَبِيع. (A, TA.) And اتمك النَّاقَةَ <br>\
+                  <i>It</i> (herbage) <i>made the she-camel fat.</i> (IDrd, K.)    </entryFree> <br>\
+<b>تَامِكٌ</b>               1     <br>\
+                     تَامِكٌ<br>\
+                     تام<br>\
+                     تامك<br>\
+                  , applied to a camel&#39;s hump, <i>Tall,</i> or <i>long and high:</i> (S, TA:) or <i>high:</i> or <i>juicy, and compact, and plump:</i> (TA:) or <i>a camel&#39;s hump, in whatever state it be.</i> (M, K.) ―         -b2-  A she-camel <i>having a large hump:</i> (ISd, K:) pl. تَوَامِكُ. (TA.) ―         -b3-  A <i>high,</i> or <i>lofty,</i> building. (TA.) ―         -b4-  You say also, اـِنَّهُ لَتَامِكُ الجَمَالِ [app. meaning (assumed tropical:)  <i>Verily he is a person of fully-developed,</i> or <i>consummate, beauty</i>]. (TA.) ―         -b5-  And شَرَفُكَ <br>\
+                  تَامِكٌ وَاـِقْبَالُكَ سَامِكٌ (tropical:)  [<i>Thy nobility is lofty, and thy good fortune is high</i>]. (A, TA.)    <br>\
+' } );

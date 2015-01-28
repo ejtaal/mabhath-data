@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>لطم</em>            1                  لطم<br>\
+<b>لَطَّمَ</b>               1     <br>\
+                     لَطَّمَ<br>\
+                     ذ<br>\
+                  <i>He slapped much, or violently.</i> See طَلَّمَ, and see K, voce مُلَخَّبٌ.    </entryFree> <br>\
+<b>لَطْمَةٌ</b>               1     <br>\
+                     لَطْمَةٌ<br>\
+                     ذ<br>\
+                  : see نَطِيحٌ.    </entryFree> <br>\
+<b>لَطِيمٌ</b>               1     <br>\
+                     لَطِيمٌ<br>\
+                     ذ<br>\
+                  : see نَطِيحٌ. ―         -b2-  لَطِيمٌ A <i>small</i> camel. (TA, voce عَسْجَدٌ.) ―         -b3-  لَطِيمَةٌ see زَوْمَلَةٌ. ―         -b4-  <i>Small</i> weaned camels. (TA in art. عسجد.)   </entryFree> <br>\
+' } );

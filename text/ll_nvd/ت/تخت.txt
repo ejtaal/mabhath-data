@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'تختتَخْتٌ A repository in which clothes are kept;<br>\
+(K;) [a chest for clothes; a wardrobe: pl.<br>\
+تُخُوتٌ:] a Persian word sometimes used by the<br>\
+Arabs. (IDrd.) ―<br>\
+-b2-  [The following significations<br>\
+of the word seem to be post-classical. ―<br>\
+-b3-  A throne:<br>\
+a seat: a seat of government: a moveable wooden<br>\
+bench, or sofa: all which are Persian. Hence,<br>\
+تَخْتَرَوَانٌ, from the Persian, A kind of covered<br>\
+litter, like a palanquin, borne by two camels or<br>\
+horses, one before and the other behind, or by two<br>\
+or four mules. ―<br>\
+-b4-  So too تَخْتَةٌ A board, or plank:<br>\
+likewise of Persian origin. Hence the verb تَخَّتَ<br>\
+He boarded, or planked.]<br>\
+' } );

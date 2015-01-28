@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>عربن</em>            1                  عربن<br>\
+<b>عَرْبَنَهُ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     عَرْبَنَهُ<br>\
+                     ذ<br>\
+                  <i>He gave him what is termed an</i> <br>\
+                  عَرَبُون or عُرْبُون &amp;amp;c. [i. e. an <i>earnest,</i> or <i>earnestmoney</i>]. (S, TA: mentioned as a quadriliteralradical word, and also in art. عرب, q. v.)    </entryFree> <br>\
+<b>عُرْبَانٌ</b>               1     <br>\
+                     عُرْبَانٌ<br>\
+                     ذ<br>\
+                   and عُرُبَّانٌ: see art. عرب.    </entryFree> <br>\
+<b>عَرَبُونٌ</b>               1     <br>\
+                     عَرَبُونٌ<br>\
+                     ذ<br>\
+                   and عَُرْبُونٌ: see art. عرب.   </entryFree> <br>\
+' } );

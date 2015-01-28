@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'غيقغَاقٌ A certain aquatic bird; as also ↓ غَاقَةٌ.<br>\
+(Lth, O, K.) ―<br>\
+-b2-  And The crow, or raven:<br>\
+(ISd, K:) so sometimes called because of his<br>\
+cry. (ISd, TA.)<br>\
+-A2-  غَاقِ is a word imitative of<br>\
+The cry [i. e. caw] of the crow, or raven: when<br>\
+indeterminate, [meaning a caw,] it is with tenween, (IJ, S, O, K,) i. e. غَاقٍ. (IJ, TA.)<br>\
+غَاقَةٌ: see the preceding paragraph.<br>\
+' } );

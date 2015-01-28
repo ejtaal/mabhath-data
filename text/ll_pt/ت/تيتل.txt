@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>تيتل</em>            1                  تيتل<br>\
+<b>تَيْتَلٌ</b>               1     <br>\
+                     تَيْتَلٌ<br>\
+                     تيتل<br>\
+                   a dial. var., or a mispronunciation, of ثَيْتَلٌ. (TA.)   </entryFree> <br>\
+' } );

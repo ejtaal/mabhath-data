@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نطش</em>            1                  نطش<br>\
+<b>نَطْشَانُ</b>               1     <br>\
+                     نَطْشَانُ<br>\
+                     ذ<br>\
+                   an imitative sequent to عَطْشَانُ; (S, K;) not used alone. (S, art. عطش.)   </entryFree> <br>\
+' } );

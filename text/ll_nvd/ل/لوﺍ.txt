@@ -1,0 +1,16 @@
+load_data( { book: 'll_nvd', text: 'لوأ1<br>\
+لَآءَ, aor. يَلُوْءُ, inf. n. لَوْءَةٌ, app., He was<br>\
+foul, ugly, or deformed, in countenance.] لَوْءَةٌ,<br>\
+accord. to the K, is the same as سَوْءَةٌ; but this is<br>\
+probably a mistake for شَوْءَةٌ, The being foul, ugly,<br>\
+or deformed, in countenance; [which is the signification of لَوَّةٌ]. (TA.) [See art. لوى.] ―<br>\
+-b2-  هٰذَا<br>\
+وَاللّٰهِ الشَّوْءَةُ وَاللَّوْءَةُ, and اللَّوَّةُ, [app., This, by<br>\
+Allah, is foulness and ugliness!] (TA [app. from<br>\
+the T.])<br>\
+2<br>\
+لوّأ He looked malignantly with his eyes or<br>\
+countenance. (TA: app. from the T.) ―<br>\
+-b2-  لوّأ اللّٰهُ<br>\
+بِكَ May God render thee foul, or ugly! (T.)<br>\
+' } );

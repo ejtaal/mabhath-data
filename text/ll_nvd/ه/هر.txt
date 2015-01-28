@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'هر1<br>\
+هَرَّ<br>\
+, inf. n. هِرٌّ, He drove sheep or goats:<br>\
+(IAar, in S, K, voce بِر:) or he called them.<br>\
+(Yoo, in TA, ibid.)<br>\
+' } );

@@ -1,0 +1,24 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ناى&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ناى<br>\
+&lt;entryFree id=&quot;n43797&quot; key=&quot;نَاَى بِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     نَاَى بِهِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;He, or it, removed him; put or placed him at a distance, away, or far away.&lt;/i&gt;] (S, art. طرح.) ―         -b2-  نَاَى <br>\
+                  &lt;i&gt;He shrank&lt;/i&gt; from a thing: see an ex. in a verse cited voce دَفٌّ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43798&quot; key=&quot;اَنْا=هُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَنْا=هُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=نَاهُ in art. انى.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43799&quot; key=&quot;اِسْتَنْاَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اِسْتَنْاَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اِسْتَنَاءَ q. v. in art. نوا.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43800&quot; key=&quot;نُوْىٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نُوْىٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A trench dug round a tent,&lt;/i&gt; (S, K,) or &lt;i&gt;a barrier&lt;/i&gt; [&lt;i&gt;raised&lt;/i&gt;] &lt;i&gt;around it,&lt;/i&gt; (T, IB, TA,) &lt;i&gt;to prevent the rain-water from entering it,&lt;/i&gt; (S,) or &lt;i&gt;keep off a torrent.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>نخج</em>            1                  نخج<br>\
+<b>نَخَجَ الدَّلْوَ</b>               1     <br>\
+                     نَخَجَ الدَّلْوَ<br>\
+                     ذ<br>\
+                  , (S, K,) and نَخَجَ بِهَا, (TA,) aor.      <br>\
+                     نَخَجَ<br>\
+                  , inf. n. نَخْجٌ, (K,) <i>He agitated,</i> or <i>moved about, the bucket;</i> (S, K;) a dial. form of مَخَجَ; (S;) or, accord. to Yaakoob, its ن is substituted for م: <i>he moved about the bucket</i> in the well <i>in order that it might fill.</i> (TA.) ―         -b2-  نَخَجَ, (S, K,) aor.      <br>\
+                     نَخَجَ<br>\
+                   (K) and      <br>\
+                     نَخُجَ<br>\
+                  , (L,) inf. n. نَخْجٌ, (K,) <i>Inivit</i> feminam. (S, K.)     <br>\
+<b>نَخِيجَةٌ</b>               1     <br>\
+                     نَخِيجَةٌ<br>\
+                     ذ<br>\
+                  , (ISk, S, K,) or, accord. to some, نَجِيجٌ, without ة, (TA,) or, as some say, نَجِيخَةٌ, and (says J) I know not which is right, (S,) <i>Thin butter which comes forth from the skin when it is carried on a camel, after the first butter has been taken forth.</i> (S, K.)   </entryFree> <br>\
+' } );

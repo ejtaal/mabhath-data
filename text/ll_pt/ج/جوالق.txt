@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جوالق</em>            1                  جوالق<br>\
+<b>جُوَالِقٌ</b>               1     <br>\
+                     جُوَالِقٌ<br>\
+                     جوالق<br>\
+                   and جُوَالَقٌ and جِوَالِقٌ: see art. جلق.   </entryFree> <br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'مقطمَاقِطٌ<br>\
+A player with the ball. (O in art. صوع.)<br>\
+See صَاعٌ, last sentence.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>وهف</em>            1                  وهف<br>\
+<b>خُذْ مَا اَوْهَفَ</b>               1     <br>\
+                     خُذْ مَا اَوْهَفَ<br>\
+                     ذ<br>\
+                  <i>Take what is easily attainable; what offers itself without difficulty.</i> (AA, in TA, voce انتدب.)   </entryFree> <br>\
+' } );

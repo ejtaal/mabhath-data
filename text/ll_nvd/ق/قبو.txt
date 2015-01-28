@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'قبوقَبَآءٌ<br>\
+[A kind of tunic, resembling the<br>\
+قَفْتَانٌ,<br>\
+generally reaching to the middle of the shank,<br>\
+divided down the front, and made to overlap<br>\
+over the chest. So in the present day. See also<br>\
+Dozy, Dict. des noms de vêtements, pp. 352-62.]<br>\
+' } );

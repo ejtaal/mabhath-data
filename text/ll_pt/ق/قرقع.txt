@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قرقع</em>            1                  قرقع<br>\
+<b>قُرقُعَةٌ</b>               1     <br>\
+                     قُرقُعَةٌ<br>\
+                     ذ<br>\
+                   (TA, art. نقض): properly فُرْقُعَةٌ, q. v.   </entryFree> <br>\
+' } );

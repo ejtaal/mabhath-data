@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'هفا, said of the heart, It fluttered, or palpitated; and, as Z says, was flurried by reason<br>\
+of grief, or of beating. (TA.) See 1, in art. فهو.<br>\
+هَفْوَةٌ<br>\
+A slip, lapse, fault, or fall into wrongdoing; pl. هَفَوَاتٌ. (TA.)<br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>رهل</em>            1                  رهل<br>\
+<b>رَهِلَ لَحْمُهُ</b>               1     <br>\
+                     رَهِلَ لَحْمُهُ<br>\
+                     ذ<br>\
+                  , (S, K,) [aor.      <br>\
+                     رَهَلَ<br>\
+                  ,] inf. n. رَهَلٌ, (JK, TA,) <i>His flesh was,</i> or <i>became, quivering, and flaccid,</i> or <i>flabby:</i> (S, K:) and (some say, TA) <i>his flesh was,</i> or <i>became, inflated,</i> or <i>puffy,</i> or <i>swollen,</i> (K, TA,) <i>in any part:</i> (TA:) or <i>it was,</i> or <i>became, swollen without disease;</i> (JK, K, TA;) <i>he being flaccid by reason of fatness,</i> (JK, TA,) <i>and inclining to weakness.</i> (TA.) [See also 5.]    </entryFree> <br>\
+<b>رهّلهُ</b>               1     <br>\
+                     رهّلهُ<br>\
+                     ذ<br>\
+                  , inf. n. تَرْهِيلٌ, <i>It</i> (flesh-meat) <i>rendered it</i> (i. e. his flesh) <i>quivering, and flaccid,</i> or <i>flabby:</i> (S, K:) or <i>inflated,</i> or <i>swollen:</i> or <i>swollen without disease:</i> (K: [see 1:]) or <i>it</i> (much sleep) <i>rendered his face swollen, and the parts below,</i> or <i>around, his eyes puffy.</i> (TA.)    </entryFree> <br>\
+<b>ترهّل</b>               1     <br>\
+                     ترهّل<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became, soft in the flesh:</i> and <i>it</i> (the flesh of a limb or member) <i>was,</i> or <i>became, soft.</i> (KL.) [See also 1.]    </entryFree> <br>\
+<b>رِهْلٌ</b>               1     <br>\
+                     رِهْلٌ<br>\
+                     ذ<br>\
+                   [in the Lexicons of Golius and Freytag رِهَلٌ] <i>Thin clouds, resembling</i> [<i>falling</i>] <i>dew,</i> (K, TA,) <i>in the sky.</i> (TA.)    </entryFree> <br>\
+<b>رَهَلٌ</b>               1     <br>\
+                     رَهَلٌ<br>\
+                     ذ<br>\
+                  <i>Yellow water</i> [or <i>fluid</i>] <i>in the</i> <br>\
+                  سُخْد [app. here meaning the <i>membrane that encloses the fœtus of a beast</i>]. (IDrd, K.)    </entryFree> <br>\
+<b>رَهِلٌ</b>               1     <br>\
+                     رَهِلٌ<br>\
+                     ذ<br>\
+                  <i>Quivering, and flaccid,</i> or <i>flabby,</i> flesh. (TA.) And رَهِلٌ الصَّدْرِ A horse <i>quivering, and flaccid,</i> or <i>flabby, in the breast.</i> (S, TA.)    </entryFree> <br>\
+<b>اَصْبَحَ مُرَهَّلًا</b>               1     <br>\
+                     اَصْبَحَ مُرَهَّلًا<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became, in the morning, swollen</i> (K, TA) <i>in his face, by reason of much sleep.</i> (TA. [See 2. In some copies of the K, تَهَيَّجَ is erroneously put, in this explanation, for تَهَبَّجَ.])   </entryFree> <br>\
+' } );

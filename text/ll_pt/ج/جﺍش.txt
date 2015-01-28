@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جاش&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جاش<br>\
+&lt;entryFree id=&quot;n4886&quot; key=&quot;جَاَشَتْ نَفْسُهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     جَاَشَتْ نَفْسُهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَاََ<br>\
+                  &lt;/form&gt;, &lt;i&gt;His soul rose,&lt;/i&gt; or &lt;i&gt;heaved, by reason of grief&lt;/i&gt; or &lt;i&gt;fear;&lt;/i&gt; (As, K;) a dial. var. of جَاشَتْ, aor. تَجِيشُ. (TA.) ―         -b2-  Also, both of these, &lt;i&gt;His&lt;/i&gt; (a coward&#39;s) &lt;i&gt;soul purposed flight:&lt;/i&gt; or &lt;i&gt;was frightened.&lt;/i&gt; (TA in art. جيش.) ―         -b3-  جَاَشَ <br>\
+                  اـِلَيْهِ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَاََ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He came, came forward,&lt;/i&gt; or &lt;i&gt;advanced, towards him.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4887&quot; key=&quot;جَاْشْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَاْشْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;return to its place,&lt;/i&gt; (رُوَاع, Lth, S, K,) or the &lt;i&gt;fright,&lt;/i&gt; (رَوْع, as in a copy of the A, [which latter is agreeable with explanations of the verb given above,]) &lt;i&gt;of the heart, when in a state of commotion on an occasion of fright.&lt;/i&gt; (Lth, S, A, K.)       -A2-  The &lt;i&gt;soul&lt;/i&gt; (نَفْس) of a man: (IDrd, A, K:) or his &lt;i&gt;heart:&lt;/i&gt; or &lt;i&gt;firmness,&lt;/i&gt; or &lt;i&gt;constancy, of heart:&lt;/i&gt; or &lt;i&gt;strength of heart when one hears a thing and knows not what it is:&lt;/i&gt; (TA:) sometimes, [جَاشٌ,] without ء: (K:) pl. جُوُوشٌ (K) and جِيَاشٌ. (TA.) You say, فُلَانٌ رَابِطُ <br>\
+                  الجَاْشِ <br>\
+                  &lt;i&gt;Such a one restrains his soul,&lt;/i&gt; or &lt;i&gt;himself, from flight, by reason of his courage;&lt;/i&gt; (S A; *) &lt;i&gt;is strong in heart;&lt;/i&gt; as also رَبِيطُ الجَاْشِ: (S in art. ربط:) or both signify &lt;i&gt;is courageous.&lt;/i&gt; (K in art. ربط, q. v.) And وَاهِى الجَاْشِ [&lt;i&gt;Infirm,&lt;/i&gt; or &lt;i&gt;weak, in soul,&lt;/i&gt; or &lt;i&gt;heart&lt;/i&gt;]. (A, TA.) And رَبَطَ <br>\
+                  لِذٰلِكَ الاَمْرِ جَاْشًا, (A,) or جَاشًا only, [without ء,] (ISk, TA,) see art. ربط. And رَبَطَ جَاْشُهُ <br>\
+                  &lt;i&gt;His heart became strong.&lt;/i&gt; (K in art. ربط q. v.) ―         -b2-  See also جُوْشُوشٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4888&quot; key=&quot;جُوْشٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُوْشٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4889&quot; key=&quot;جُوْشُوشٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُوْشُوشٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;breast,&lt;/i&gt; or &lt;i&gt;chest;&lt;/i&gt; (S, A, K;) as also ↓ <br>\
+      جَاْشٌ and ↓ <br>\
+      جُوْشٌ: (A:) or &lt;i&gt;its&lt;/i&gt; <br>\
+                  حَيْزُوم, q. v. (Ibn-&#39;Abbád, K.) ―         -b2-  The &lt;i&gt;forepart&lt;/i&gt; (صَدْر) of the night; accord. to which explanation it is tropical: or &lt;i&gt;what is between the beginning and the third&lt;/i&gt; thereof: or &lt;i&gt;a while&lt;/i&gt; thereof: (TA:) or &lt;i&gt;a portion&lt;/i&gt; thereof; (Lh, K;) and of people. (K.)       -A2-  Also A &lt;i&gt;thick,&lt;/i&gt; or &lt;i&gt;gross,&lt;/i&gt; or &lt;i&gt;coarse,&lt;/i&gt; man. (Ibn- &#39;Abbád, K.)   &lt;/entryFree&gt; <br>\
+' } );

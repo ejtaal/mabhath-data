@@ -1,0 +1,29 @@
+load_data( { book: 'll_nvd', text: 'هزل1<br>\
+هَزْلٌ<br>\
+is contr. of<br>\
+جِدٌّ. (S, Mgh, K.) You<br>\
+say, هَزَلَ, aor.<br>\
+هَزِلَ<br>\
+, inf. n. هَزْلٌ; (S, Msb, K;)<br>\
+and هَزِلَ, aor.<br>\
+هَزَلَ<br>\
+, (K,) inf. n. as above; (TA;)<br>\
+and ↓ هَازَلَ; (K;) He jested, or joked; (Msb;)<br>\
+or was not serious, or in earnest; (TA;) فِى كَلاَمِهِ<br>\
+in his speech; (Msb, TA;) and فِى الأَمْرِ<br>\
+in the<br>\
+affair. (TA.)<br>\
+3<br>\
+هَازَلَ<br>\
+He jested, or joked. (K.) See 1.<br>\
+هُزاَلٌ<br>\
+Leanness, meagreness, emaciation: contr.<br>\
+of fatness. (S, K.)<br>\
+هَزْلَى<br>\
+, pl. of هَزِيلٌ<br>\
+Lean, meagre, emaciated.<br>\
+(K, voce خَشَبٌ.)<br>\
+مَهْزُولٌ<br>\
+: see two exs. in a verse cited voce<br>\
+عِرْضٌ.<br>\
+' } );

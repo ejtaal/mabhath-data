@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'حكو1<br>\
+حَكَوْتُهُ, (S, Msb, K,) aor.<br>\
+حَكُوَ, (Msb, K,) i. q.<br>\
+حَكَيْتُهُ; (S, Msb, K;) mentioned by AO. (S.)<br>\
+See art. حكى.<br>\
+رَجُلٌ حَكَوِىٌّ A man who relates stories, or<br>\
+tales, and extraordinary things: but this is a<br>\
+vulgar word. (TA.)<br>\
+' } );

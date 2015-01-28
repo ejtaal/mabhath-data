@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'هزربQ. 1<br>\
+هَزْرَبَ, inf. n. هَزْرَبَةٌ, He was light, or<br>\
+active, and quick, or swift. (IKtt, K.) A dial.<br>\
+form. of هَذْرَبَ. (TA.)<br>\
+هزع, &amp;c<br>\
+See Supplement<br>\
+' } );

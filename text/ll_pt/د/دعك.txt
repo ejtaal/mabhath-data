@@ -1,0 +1,36 @@
+load_data( { book: 'll_pt', text: '<em>دعك</em>            1                  دعك<br>\
+<b>دَعَكَهُ</b>               1     <br>\
+                     دَعَكَهُ<br>\
+                     دعك<br>\
+                     دعكه<br>\
+                     دعكة<br>\
+                  , (S, K,) aor.      <br>\
+                     دَعَكَ<br>\
+                  , (K,) inf. n. دَعْكٌ, (S,) <i>He rubbed it,</i> or <i>rubbed and pressed it,</i> (S, * K, TA,) or <i>did so well,</i> (KL,) <i>and softened it;</i> (TA;) namely, a skin, or hide. (S, K, TA.) ―         -b2-  <i>He softened its</i> (i. e. a garment&#39;s) <i>roughness</i> by wearing it. (K.) ―         -b3-  <i>He softened him,</i> (S, K,) <i>and subdued him,</i> or <i>rendered him submissive;</i> (TA;) namely, an adversary, or antagonist; (S, K;) and so مَعَكَهُ, inf. n. مَعْكٌ. (TA.) ―         -b4-  دَعَكَهُ فِى التُّرَابِ <br>\
+                  <i>He rolled him,</i> or <i>turned him over, in the dust.</i> (K.) ―         -b5-  دَعَكْتُ الرَّجُلَ بِالقَوْلِ <br>\
+                  <i>I pained the man by speech.</i> (IDrd.)    </entryFree> <br>\
+<b>مُدَاعَكَةٌ</b>               1     <br>\
+                     مُدَاعَكَةٌ<br>\
+                     مداعكه<br>\
+                     مداعكة<br>\
+                   [app. The act of <i>contending, disputing,</i> or <i>litigating, vehemently:</i> (see مُدَاعِكٌ, below; and see also 6:) accord. to Golius, (who names no authority,) the act of <i>conflicting,</i> or <i>contending;</i> as though <i>rubbing against another.</i> ―         -b2-  Also] The <i>delaying with another, deferring with him,</i> or <i>putting him off, by repeated promises.</i> (Z, TA.) You say, داعك الغَرِيمَ <br>\
+                  <i>He delayed,</i> or <i>deferred, with the creditor,</i> or <i>put him off, promising him payment time after time;</i> like دَالَكَهُ. (TA in art. دلك.)    </entryFree> <br>\
+<b>تداعكوا</b>               1     <br>\
+                     تداعكوا<br>\
+                     تداعكوا<br>\
+                  <i>They contended, disputed,</i> or <i>litigated, one with another, vehemently.</i> (IDrd, K.) ―         -b2-  Also, (K,) or تداعكا, said of two men, (S,) <i>They contended together, smiting one another;</i> syn. تَمَرَّسُوا, (K,) or تَمَرَّسَا; (S;) <i>contended,</i> or <i>conflicted;</i> (IF, TA;) فِى الحَرْبِ [<i>in war, battle,</i> or <i>fight</i>]. (IF, S, K.)    </entryFree> <br>\
+<b>دَعِكٌ</b>               1     <br>\
+                     دَعِكٌ<br>\
+                     دع<br>\
+                     دعك<br>\
+                  <i>Very pertinacious in contention</i> or <i>the like; very contentious;</i> or <i>a great wrangler.</i> (S, * K.)    </entryFree> <br>\
+<b>مِدْعَكٌ</b>               1     <br>\
+                     مِدْعَكٌ<br>\
+                     مدعك<br>\
+                  : see the following paragraph. [For اَلَدُّ in the K, Golius seems to have found in his copy of that Lexicon ا=لَةُ; for he has explained مِدْعَكٌ, as on the authority of the K, by “ Instrumentum quo quid defricatur aut levigatur; ” a meaning which it may possibly have, as agreeable with analogy, but for which I find no authority.]    </entryFree> <br>\
+<b>خَصْمٌ مُدَاعِكٌ</b>               1     <br>\
+                     خَصْمٌ مُدَاعِكٌ<br>\
+                     خصم مداعك<br>\
+                   (K) and ↓ <br>\
+      مِدْعَكٌ (IDrd, K) <i>An adversary,</i> or <i>antagonist, vehement in contention, dispute,</i> or <i>litigation.</i> (IDrd, K, TA.)   </entryFree> <br>\
+' } );

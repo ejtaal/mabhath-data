@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>نخت</em>            1                  نخت<br>\
+<b>نَخَتَ</b>               1     <br>\
+                     نَخَتَ<br>\
+                     ذ<br>\
+                  , inf. n. نَخْتٌ, <i>He pecked,</i> or <i>picked up, and pulled off,</i> or <i>tore off, and snatched away, with his beak;</i> syn. نَقَرَ and نَتَخَ, (K,) formed by transposition. (TA.) ―         -b2-  نَخَتَ, [aor.      <br>\
+                     نَخُتَ<br>\
+                  ,] inf. n. نَخْتٌ, <i>He took a date,</i> or <i>two dates, from a bag</i> or <i>other receptacle for travelling-provisions &amp;amp;c.</i> (K.) ―         -b3-  نَخَتَ, [aor.      <br>\
+                     نَخُتَ<br>\
+                  ,] inf. n. نَخْتٌ, <i>He plucked out;</i> syn. نَتَفَ. (IAth, L.)       -A2-  See 2.    </entryFree> <br>\
+<b>نِخّت لِفُلَانٍ</b>               1     <br>\
+                     نِخّت لِفُلَانٍ<br>\
+                     ذ<br>\
+                  , as also سخّت لَهُ, <i>He went to the utmost length</i> (استقصى) <i>in speaking to such a one.</i> So in the Nawádir. (Az, L.) [Accord. to the K, ↓ <br>\
+      نَخَتَ, inf. n. نَخْتٌ.]    </entryFree> <br>\
+<b>نَخْتَةٌ نَمْلَةٍ</b>               1     <br>\
+                     نَخْتَةٌ نَمْلَةٍ<br>\
+                     ذ<br>\
+                  <i>A bite of an ant.</i> So in a trad., accord. to one reading: accord. to another reading, it is نَجْبَةُ [q. v.]. (L.)   </entryFree> <br>\
+' } );

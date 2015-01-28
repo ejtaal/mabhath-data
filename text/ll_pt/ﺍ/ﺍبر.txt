@@ -1,0 +1,123 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ابر&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ابر<br>\
+&lt;entryFree id=&quot;n26&quot; key=&quot;اَبَرَ الكَلْبِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَبَرَ الكَلْبِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبِرَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبُرَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. اَبْرٌ, (TA,) &lt;i&gt;He gave the dog, to eat, a needle in bread:&lt;/i&gt; (S, K:) and [app., in like manner, اَبَرَ <br>\
+                  الشَّاةَ <br>\
+                  &lt;i&gt;he gave the sheep,&lt;/i&gt; or &lt;i&gt;goat, to eat, a needle in its fodder:&lt;/i&gt; for you say,] اُبِرَتِ الشَّاة <br>\
+                  &lt;i&gt;the sheep,&lt;/i&gt; or &lt;i&gt;goat, ate a needle in the fodder.&lt;/i&gt; (A.) ―         -b2-  اَبَرَتْهُ <br>\
+                  العَقْرَبُ (tropical:)  &lt;i&gt;The scorpion stung him with the extremity of its tail.&lt;/i&gt; (S, M, A, K.) ―         -b3-  اَبَرَهُ (tropical:)  &lt;i&gt;He spoke evil of him behind his back,&lt;/i&gt; or &lt;i&gt;in his absence,&lt;/i&gt; or &lt;i&gt;otherwise, with truth,&lt;/i&gt; or &lt;i&gt;though it might be with truth;&lt;/i&gt; or &lt;i&gt;defamed him;&lt;/i&gt; (IAar, T, A, K;) and &lt;i&gt;annoyed him,&lt;/i&gt; or &lt;i&gt;hurt him.&lt;/i&gt; (IAar, T, A.)       -A2-  اَبَرَ, (T, S, A, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبِرَ<br>\
+                  &lt;/form&gt; and      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبُرَ<br>\
+                  &lt;/form&gt;, inf. n. اَبْرٌ (M, Msb, K) and اـِبَارٌ and اـِبَارَةٌ, (M, K,) &lt;i&gt;He fecundated&lt;/i&gt; a palm-tree [by means of the spadix of the male tree, which is bruised, or brayed, and sprinkled upon the spadix of the female; or by inserting a stalk of a raceme of the male tree into the spathe of the female, after shaking off the pollen of the former upon the spadix of the female (see اَلْقَحَ)]; (T, S, A, Msb;) as also ↓ <br>\
+      ابّر, (S, A,) inf. n. تَاْبِيرٌ: (S:) or the latter has an intensive and frequentative signification [meaning the doing so much, or frequently, or to many palmtrees]: (Msb:) and the former (S, M, A, K) and ↓ latter, (M, A, K,) &lt;i&gt;he dressed,&lt;/i&gt; or &lt;i&gt;put into a good&lt;/i&gt; or &lt;i&gt;right&lt;/i&gt; or &lt;i&gt;proper state,&lt;/i&gt; a palm-tree, (S, M, A, K,) and seed-produce, (M, K,) or any thing, as, for instance, a snare for catching game. (A Hn, M.) You say also, اُبِرَتِ النَّخْلَةُ, and ↓ <br>\
+      اُبِّرَت, and وُبِرَت, &lt;i&gt;The palm-tree was fecundated.&lt;/i&gt; (Aboo- &#39;Amr Ibn-El-&#39;Alà, L.)       -A3-  اَبِرَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَبَرَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He,&lt;/i&gt; (a man, TA,) or &lt;i&gt;it, was,&lt;/i&gt; or &lt;i&gt;became, in a good&lt;/i&gt; or &lt;i&gt;right&lt;/i&gt; or &lt;i&gt;proper state.&lt;/i&gt; (T, K.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَبَّرَ<br>\
+                  &lt;/form&gt; see 1, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n27&quot; key=&quot;تابّر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تابّر<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (a palm-tree, A and Msb, or a young palm-tree, S) &lt;i&gt;admitted,&lt;/i&gt; or &lt;i&gt;received, fecundation:&lt;/i&gt; (S, A, Msb:) &lt;i&gt;it became fecundated of itself.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n28&quot; key=&quot;اْيْتَبَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اْيْتَبَرَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [written with the disjunctive alif اِيْتَبَرَهُ] &lt;i&gt;He asked him to fecundate,&lt;/i&gt; or &lt;i&gt;to dress,&lt;/i&gt; or &lt;i&gt;put into a good&lt;/i&gt; or &lt;i&gt;right&lt;/i&gt; or &lt;i&gt;proper state, his palmtrees,&lt;/i&gt; or &lt;i&gt;his seed-produce.&lt;/i&gt; (T, S, M, * K.)       -A2-  See also بَاَرَ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n29&quot; key=&quot;اـِبْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبْرَةٌ<br>\
+                     ابار<br>\
+                     ابر<br>\
+                     ابره<br>\
+                     اـبره<br>\
+                     اـبرة<br>\
+                     ابره<br>\
+                     ابرة<br>\
+                     برى<br>\
+                  &lt;i&gt;A needle;&lt;/i&gt; (T, Msb;) &lt;i&gt;an iron&lt;/i&gt; <br>\
+                  مِسَلَّة: (M, &lt;pb n=&quot;6&quot; TEIform=&quot;pb&quot;/&gt; K:) pl. اـِبَرٌ (T, S, M, Msb, K) and اـِبَارٌ. (M, K.) ―         -b2-  (tropical:) The &lt;i&gt;sting,&lt;/i&gt; or &lt;i&gt;extremity of the tail,&lt;/i&gt; of a scorpion; (S, * M, A, K;) as also ↓ <br>\
+      مِيْبَرٌ; of which latter the pl. is مَا=بِرُ: (A:) and of a bee. (A.) ―         -b3-  (tropical:)  The &lt;i&gt;extremity&lt;/i&gt; of a horn. (A.) ―         -b4-  (tropical:)  The [&lt;i&gt;privy&lt;/i&gt;] &lt;i&gt;member&lt;/i&gt; of a man. (TA.) ―         -b5-  اـِبْرَةٌ الذِّرَاعِ (tropical:)  &lt;i&gt;The extremity of the elbow;&lt;/i&gt; (Zj in his Khalk el-Insán; and A;) &lt;i&gt;the extremity of the&lt;/i&gt; <br>\
+                  ذِرَاع [here meaning the &lt;i&gt;ulna&lt;/i&gt;] &lt;i&gt;of the arm,&lt;/i&gt; (K,) &lt;i&gt;from which the measurer by the cubit measures;&lt;/i&gt; (TA;) [this being always done from the extremity of the elbow;] &lt;i&gt;the extremity of the bone from which the measurer by the cubit measures:&lt;/i&gt; the extremity of the os humeri which is next to the elbow is called the قَبِيح; and the زُجّ of the elbow is between the قبيح and the ابرة الذراع: (T:) or &lt;i&gt;a small bone, the head of which is large, and the rest slender, compactly joined to the&lt;/i&gt; <br>\
+                  قبيح: (TA voce قبيح:) or &lt;i&gt;the slender part of the&lt;/i&gt; <br>\
+                  ذراع: (S, M: or &lt;i&gt;a bone,&lt;/i&gt; (as in some copies of the K,) or &lt;i&gt;small bone,&lt;/i&gt; (as in other copies of the K and in the M,) which latter is the right reading, (TA,) &lt;i&gt;even with the extremity of the&lt;/i&gt; <br>\
+                  زَنْد [which is applied to the &lt;i&gt;ulna&lt;/i&gt; and to the &lt;i&gt;radius&lt;/i&gt;] &lt;i&gt;of,&lt;/i&gt; or &lt;i&gt;from,&lt;/i&gt; (من,) &lt;i&gt;the&lt;/i&gt; <br>\
+                  ذراع [or &lt;i&gt;fore arm&lt;/i&gt;] &lt;i&gt;to the extremity of the finger.&lt;/i&gt; (M, K.) ―         -b6-  الاـبْرَةُ also signifies (tropical:)  &lt;i&gt;The bone of what is termed&lt;/i&gt; <br>\
+                  وَتَرَةُ [i. e. &lt;i&gt;of the heel-tendon&lt;/i&gt; of a man, or &lt;i&gt;of the hock&lt;/i&gt; of a beast], (M, K,) &lt;i&gt;which is a small bone adhering to the&lt;/i&gt; <br>\
+                  كَعْب [i. e. to the &lt;i&gt;ankle&lt;/i&gt; or to the &lt;i&gt;hock&lt;/i&gt;]: (M, TA:) and [app. more correctly “or”] &lt;i&gt;the slender part of the&lt;/i&gt; <br>\
+                  عرقوب [or &lt;i&gt;hock&lt;/i&gt;] &lt;i&gt;of the horse:&lt;/i&gt; (M, * K, * TA:) in the عرقوبان [or two hocks] are [what are termed] اـِبْرَتَانِ, which are &lt;i&gt;the external extremity of each hock.&lt;/i&gt; (S.) ―         -b7-  See also مِيْبَرَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n30&quot; key=&quot;اـِبْرِيٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبْرِيٌّ<br>\
+                     ابرى<br>\
+                     ابري<br>\
+                     اـبرة<br>\
+                     اـبري<br>\
+                     ابرى<br>\
+                     ابري<br>\
+                     برى<br>\
+                  &lt;/form&gt;: see اَبَّارٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n31&quot; key=&quot;اـِبَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِبَارٌ<br>\
+                     ابار<br>\
+                     ابار<br>\
+                     بارى<br>\
+                     بير<br>\
+                     آبار<br>\
+                  &lt;/form&gt; a subst. [signifying The &lt;i&gt;fecundation&lt;/i&gt; of a palm-tree]: (S:) or it is an inf. n.: [see 1:] or it signifies &lt;i&gt;a palm-tree whereof the spadix is used for the purpose of fecundation.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32&quot; key=&quot;اَبُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مِيْبَرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n33&quot; key=&quot;اَبَّارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَبَّارٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A maker of needles:&lt;/i&gt; (T, M, K:) and &lt;i&gt;a seller thereof:&lt;/i&gt; or the latter is called ↓ <br>\
+      اـِبْرِىٌّ of which اـِبَرِىٌّ is a corruption. (K.) ―         -b2-  (assumed tropical:) The &lt;i&gt;flea.&lt;/i&gt; (K.)       -A2-  See also بَاّرٌ, in art. بار    <br>\
+&lt;entryFree id=&quot;n34&quot; key=&quot;ا=بِرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=بِرُ<br>\
+                     ا=بر<br>\
+                  &lt;/form&gt; One &lt;i&gt;who fecundates&lt;/i&gt; a palm-tree, or palmtrees: &lt;i&gt;who dresses,&lt;/i&gt; or &lt;i&gt;puts into a good&lt;/i&gt; or &lt;i&gt;right&lt;/i&gt; or &lt;i&gt;proper state,&lt;/i&gt; a palm-tree, or palm-trees, or seedproduce; (T, TA;) or any work of art; and hence applied to the fecundater of the palm-tree. (Aboo-&#39;Abd-Er-Rahmán, TA.) ―         -b2-  مَا بِهَا ا=بِرٌ (assumed tropical:)  &lt;i&gt;There is not in it&lt;/i&gt; [namely the house (الدار)] &lt;i&gt;any one.&lt;/i&gt; (TA from the Expositions of the Fs.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n35&quot; key=&quot;مَاْبِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْبِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مِيْبَرٌ    <br>\
+&lt;entryFree id=&quot;n36&quot; key=&quot;مِيْبَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْبَرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;place&lt;/i&gt; [or &lt;i&gt;case&lt;/i&gt;] &lt;i&gt;of the needle.&lt;/i&gt; (K.) ―         -b2-  (assumed tropical:)  The &lt;i&gt;tongue.&lt;/i&gt; (L.) ―         -b3-  See also اـِبْرَةٌ ―         -b4-  and مِيْبَرَةٌ       -A2-  Also, (T, L, K,) and ↓ <br>\
+      مَاْبِرٌ, (T, L,) and ↓ <br>\
+      اَبُورٌ, (Msb,) &lt;i&gt;That.&lt;/i&gt; (Msb, K,) [namely] &lt;i&gt;what is called&lt;/i&gt; <br>\
+                  جُشر, (T, TT,) or جُشّ, (so in a copy of the T,) [in the L and TA it is said to be “ like (what is termed) الحش, ” thus written with the unpointed ح, and without any syll. signs, perhaps a mistranscription for حُشْر, and doubtless meaning the &lt;i&gt;anthers,&lt;/i&gt; or the &lt;i&gt;pollen&lt;/i&gt;,] &lt;i&gt;with which palm-trees are fecundated.&lt;/i&gt; (T, L, Msb, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n37&quot; key=&quot;مِيْبَرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْبَرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (Lh, S, M, K) and ↓ <br>\
+      مِيْبَرٌ and ↓ <br>\
+      اـِبْرَةٌ (M, K) (tropical:)  &lt;i&gt;Malicious and mischievous misrepresentation; calumny;&lt;/i&gt; or &lt;i&gt;slander;&lt;/i&gt; (Lh, S, M, K;) and the (assumed tropical:)  &lt;i&gt;marring,&lt;/i&gt; or &lt;i&gt;disturbance, of the state of union&lt;/i&gt; or &lt;i&gt;concord&lt;/i&gt; or &lt;i&gt;friendship&lt;/i&gt; or &lt;i&gt;love between a people&lt;/i&gt; or &lt;i&gt;between two parties:&lt;/i&gt; (Lh, S, K, TA:) pl. مَا=بِرٌ. (S, M.) You say, خَبُثَتْ مِنْهُمُ المَخَابِرْ <br>\
+                  فَمَشَتْ بَيْنَهُمُ المَا=بِرْ (tropical:)  [&lt;i&gt;Their internal states,&lt;/i&gt; or &lt;i&gt;qualities, became bad,&lt;/i&gt; or &lt;i&gt;evil,&lt;/i&gt; or &lt;i&gt;corrupt, and in consequence calumnies became current among them&lt;/i&gt;]. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n38&quot; key=&quot;مُوَبَّرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَبَّرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n39&quot; key=&quot;مَاْبُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْبُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A dog &lt;i&gt;that has had a needle given him, to eat, in bread:&lt;/i&gt; (S:) and, with ة, applied to a sheep or goat (شاة) &lt;i&gt;that has eaten a needle in its fodder, and in whose inside it has stuck fast;&lt;/i&gt; in consequence of which the animal eats nothing, or, if it eat, the eating does it no good. (TA.) It is said in a trad., المُوْمِنُ كَاْلْكَلْبِ المَاْبُورِ <br>\
+                  &lt;i&gt;The believer is like the dog that has had a needle given to him, to eat, in bread.&lt;/i&gt; (S.) [Accord. to Ibr D, the meaning is, that he is generous and incautious, so that he is easily deceived.]       -A2-  Also, (T, S, A,) and ↓ <br>\
+      مُوَبَّرٌ, (S,) A palm-tree &lt;i&gt;fecundated:&lt;/i&gt; (T, S, A:) and the same, and seed-produce, &lt;i&gt;dressed,&lt;/i&gt; or &lt;i&gt;put into a good&lt;/i&gt; or &lt;i&gt;right&lt;/i&gt; or &lt;i&gt;proper state.&lt;/i&gt; (T, TA.) The former is the meaning in the phrase سِكَّةٌ <br>\
+                  مَاْبُورَةٌ, (T, S,) occurring in a trad., [q. v. voce مَاْمُورٌ,] i. e. &lt;i&gt;A row of palm-trees&lt;/i&gt; [or perhaps &lt;i&gt;a tall palm-tree&lt;/i&gt;] &lt;i&gt;fecundated:&lt;/i&gt; or, as some say, this phrase means &lt;i&gt;a ploughshare properly prepared for ploughing.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,14 @@
+load_data( { book: 'll_nvd', text: 'استاذأُسْتَاذٌ a foreign word, pronounced to be such<br>\
+because س and ذ do not occur in any one Arabic<br>\
+word, (Msb,) not found in the poetry of the pagan<br>\
+times, (Ibn-Dihyeh in TA art. ستذ,) nor in the<br>\
+language of those times, (Shifá el-Ghaleel, ibid.,)<br>\
+[arabicized from the Persian أُسْتَادْ,] A master:<br>\
+(MF:) a skilful man, who is held in high estimation: (Msb:) a preceptor; a tutor; a teacher:<br>\
+a craftmaster: (Ibn-Dihyeh; and Golius on the<br>\
+authority of Meyd:) [and so in the present day;<br>\
+as also أُسْتَا and أُسْطَا:] also applied by the vulgar<br>\
+to a eunuch; because he generally tutors children:<br>\
+(Shifá el-Ghaleel, and Ibn-Dihyeh:) pl. أُسْتَاذُونَ<br>\
+(Har p. 377) [and أَسَاتِيذُ and أَسَاتِذَةٌ; and vulgarly, in the present day, أُسْتَوَاتٌ and أُسْطَوَاتٌ].<br>\
+' } );

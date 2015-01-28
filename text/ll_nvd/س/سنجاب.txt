@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'سنجابسِنْجَابٌ [a Pers. word, arabicized; in the pre<br>\
+sent day applied to The squirrel; and particularly<br>\
+the gray squirrel: and the minever:] a certain<br>\
+animal, of the length of the jerboa, larger than<br>\
+the فَأْر [or rat], the fur of which is of the utmost<br>\
+softness: furred garments are made with its<br>\
+skin; and the best skins of this animal are the<br>\
+smooth and gray. (Dmr, TA.)<br>\
+[<br>\
+سِنْجَابِىٌّ Gray; of the colour of the سِنْجَاب.]<br>\
+' } );

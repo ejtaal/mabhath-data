@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نحفنَحِيفٌ<br>\
+Slender, slim, thin, spare, lean, or light<br>\
+of flesh.<br>\
+' } );

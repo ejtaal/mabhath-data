@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كوعكُوعٌ<br>\
+The extremity of the radius, or bone of<br>\
+the fore-arm, next the thumb: (S, Msb, K:) or<br>\
+the protuberance formed thereby.<br>\
+' } );

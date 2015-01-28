@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هبع</em>            1                  هبع<br>\
+<b>هُبَعٌ</b>               1     <br>\
+                     هُبَعٌ<br>\
+                     ذ<br>\
+                  , applied to a young camel: <i>a young camel brought forth in the end of the breedingtime.</i> (K, voce رُبَعٌ, q. v.) See بُلَعٌ.   </entryFree> <br>\
+' } );

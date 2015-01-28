@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'هنهَنٌ<br>\
+and هَنٌّ<br>\
+A thing: and a penis: and the<br>\
+vulva of a woman: (KL:) or the former is<br>\
+pl. [or coll. gen. n.] of ↓ هَنَةٌ, which signifies a<br>\
+small, or little, thing: (MA:) or this last signifies a thing, (KL,) as does هَنٌ: (K, KL:)<br>\
+[but the former meaning I have found to be very<br>\
+common, and I think it the more approvable.<br>\
+↓ هَنَةٌ may be rendered something, somewhat:]<br>\
+it denotes anything. (TA.)<br>\
+هَنَةٌ<br>\
+: see هَنٌ.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كوت</em>            1                  كوت<br>\
+<b>كُوتِىٌّ</b>               1     <br>\
+                     كُوتِىٌّ<br>\
+                     ذ<br>\
+                  <i>Short:</i> (K:) or a <i>short and deformed</i> or <i>ill-shapen</i> man. (So in a marginal note in two copies of the S.)   </entryFree> <br>\
+' } );

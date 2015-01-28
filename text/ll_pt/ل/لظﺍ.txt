@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;لظا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  لظا<br>\
+&lt;entryFree id=&quot;n37778&quot; key=&quot;لَظَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     لَظَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A little&lt;/i&gt; (&lt;i&gt;and mean,&lt;/i&gt; or &lt;i&gt;contemptible,&lt;/i&gt; TA) &lt;i&gt;thing; a little.&lt;/i&gt; (K.)   &lt;/entryFree&gt; <br>\
+' } );

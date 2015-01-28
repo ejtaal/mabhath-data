@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>كبت</em>            1                  كبت<br>\
+<b>كَبَتَهُ</b>               1     <br>\
+                     كَبَتَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     كَبِتَ<br>\
+                  , (inf. n. كَبْتٌ, TA,) <i>He threw him down prostrate;</i> (K;) as also كَبَتَهُ لِوَجْهِهِ: (S:) <i>he threw him,</i> or <i>it, down upon his,</i> or <i>its face;</i> like كَبَّهُ: this is the primary signification. (TA.) ―         -b2-  كَبَتَهُ اللّٰهُ لِوَجْهِهِ <br>\
+                  <i>May God prostrate him, so that he may not succeed in his enterprise,</i> or <i>may not gain the victory!</i> (TA.) ―         -b3-  كَبَتَ <br>\
+                  الكَافِرَ <br>\
+                  <i>He</i> (God) <i>prostrated the unbeliever, and denied him what he desired,</i> or <i>disappointed him,</i> or <i>caused him to fail of attaining his desire.</i> (TA, from a trad.) ―         -b4-  كَبَتَهُ <br>\
+                  <i>He repelled him</i> (i. e. an enemy) <i>in his rage,</i> or <i>wrath.</i> (K.) ―         -b5-  <i>I. q.</i> <br>\
+                  كَسَرَهُ [here app. signifying <i>He routed him;</i> or <i>put him to flight.</i>] (K.) ―         -b6-  كَبَتَهُ, (inf. n. كَبْتٌ, S,) <i>He turned away,</i> or <i>averted, him:</i> (S, K:) <i>and abased him; debased him; rendered him vile, despicable,</i> or <i>ignominious.</i> (S, K.) Syn. اَذَلَّهُ and اَخْزَاهُ (K) Ex. كَبَتَ اللّٰهُ العَدُوَّ <br>\
+                  <i>God averted and abased the enemy.</i> (S.) ―         -b7-  كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ, in the Kur, [lviii, 6,] signifies, <i>They</i> [who oppose God and his Apostle] <i>have been abased, and punished, by their being overcome, like as those who were before them,</i> of such as opposed God, <i>were abased, &amp;amp;c.:</i> (Zj:) or <i>they have been enraged, and grieved,</i> on the occasion of the war of the Moat, <i>like as those who were before them,</i> who fought with the prophets, <i>were enraged and grieved:</i> (Fr:) in favour of which latter interpretation it has been argued, that الكبت is formed from الكبد, the liver, by the substitution of ت for د, and that the liver is the source of rage and malevolence. (Az.)       -A2-  كَبَتَهُ <br>\
+                  <i>i. q.</i> <br>\
+                  كَبَدَهُ, <i>He smote,</i> or <i>hurt, his liver.</i> (TA.) ―         -b2-  كَبَتَ غَيْظَهُ فِى جَوْفِهِ (tropical:)  <i>He restrained his rage in his inside</i> [or <i>bosom</i>]. You say, مَنْ كَبَتَ غَيْظَهُ فِى جَوْفِهِ كَبَتَ اللّٰهُ <br>\
+                  عَدُوَّهُ مِنْ خَوْفِهِ [<i>Whoso restraineth his rage in his bosom, God will avert and abase his enemy, through fear of him</i>]. (A.)    </entryFree> <br>\
+<b>انكبت</b>               1     <br>\
+                     انكبت<br>\
+                     ذ<br>\
+                  <i>He was thrown down,</i> or <i>fell down, prostrate;</i> or, <i>upon his face.</i> (TA.)    </entryFree> <br>\
+<b>كبت</b>               1     <br>\
+                     كبت<br>\
+                     ذ<br>\
+                   [app. كَبْتٌ or كِبْتٌ or كَبِتٌ] <i>i. q.</i> <br>\
+                  كَبِدٌ The <i>liver.</i> Ex. بَرُدَ كبتُهُ [<i>His liver became cool:</i> i. e., <i>his rage became assuaged</i>]. (&#39;Ináyeh.)    </entryFree> <br>\
+<b>كَبْتٌ</b>               1     <br>\
+                     كَبْتٌ<br>\
+                     ذ<br>\
+                  <i>Rage</i> or <i>wrath; and grief,</i> or <i>sorrow.</i> (&#39;Ináyeh.)    </entryFree> <br>\
+<b>مَكْبُوتٌ</b>               1     <br>\
+                     مَكْبُوتٌ<br>\
+                     ذ<br>\
+                   pass. part. n. of 1, q. v. ―         -b2-  Also, <i>Affected with violent grief,</i> or <i>sorrow:</i> originally مَكْبُودٌ: i. e., <i>having his liver affected by grief,</i> or <i>sorrow.</i> (TA, from a trad.)    </entryFree> <br>\
+<b>مُكْتَبِتٌ</b>               1     <br>\
+                     مُكْتَبِتٌ<br>\
+                     ذ<br>\
+                  <i>Filled with grief,</i> or <i>sorrow;</i> (K;) or <i>with rage,</i> or <i>wrath.</i> (TA.)   </entryFree> <br>\
+' } );

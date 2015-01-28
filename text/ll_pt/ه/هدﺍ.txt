@@ -1,0 +1,107 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;هدا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  هدا<br>\
+&lt;entryFree id=&quot;n40978&quot; key=&quot;هَدَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     هَدَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَدَاَ<br>\
+                  &lt;/form&gt;, inf. n. هَدْءٌ and هُدُوْءٌ, &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, was quiet,&lt;/i&gt; or &lt;i&gt;still, calm,&lt;/i&gt; or &lt;i&gt;unruffled;&lt;/i&gt; (S, K;) &lt;i&gt;was motionless; was silent:&lt;/i&gt; (TA:) [and so, app., ↓ <br>\
+      اهدا: see مُهْدِيٌ.] ―         -b2-  تَهْدَى and هَادٍ occur for تَهْدَاُ and هَادِيٍ. (TA.) ―         -b3-  هَدَاَ عَنْهُ <br>\
+                  &lt;i&gt;It&lt;/i&gt; [pain or the like] &lt;i&gt;became appeased, and quitted him.&lt;/i&gt; (TA.) ―         -b4-  See 4. ―         -b5-  اَتَانَا وَقَدْ هَدَاَتِ الرِّجْلُ (tropical:)  &lt;i&gt;He came to us when the foot&lt;/i&gt; (&lt;i&gt;of the passenger by night&lt;/i&gt;) &lt;i&gt;had become still.&lt;/i&gt; (S.) ―         -b6-  اتانا بَعْدَ مَا هَدَاَتِ الرِّجْلُ <br>\
+                  والعَيْنُ (tropical:)  &lt;i&gt;He came to us after the foot&lt;/i&gt; (&lt;i&gt;of the passenger by night&lt;/i&gt;), &lt;i&gt;and the eye, were at rest.&lt;/i&gt; (S, TA.) ―         -b7-  هَدَاَ بِالمَكَانِ (tropical:)  &lt;i&gt;He stayed, abode,&lt;/i&gt; or &lt;i&gt;dwelt, in the place.&lt;/i&gt; (K.) ―         -b8-  هَدَاَ, (inf. n. هُدُوْءٌ, TA,) (tropical:)  &lt;i&gt;He died.&lt;/i&gt; (K.)       -A2-  هَدِيَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     هَدَاَ<br>\
+                  &lt;/form&gt;, (K,) inf. n. هَدَاٌ, (TA,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  جَنِيَ, &lt;i&gt;He had a curving back, &amp;amp;c.:&lt;/i&gt; (K:) or &lt;i&gt;he had depressed and even shoulders, inclining towards the breast; not erect,&lt;/i&gt; or &lt;i&gt;elevated:&lt;/i&gt; (Lth, and others:) or &lt;i&gt;he was humpbacked.&lt;/i&gt; (S, TA.) ―         -b2-  هَدِيَ <br>\
+                  &lt;i&gt;It&lt;/i&gt; (a camel&#39;s hump) &lt;i&gt;was bent by much lading,&lt;/i&gt; (K,) &lt;i&gt;and had its soft hair&lt;/i&gt; (وَبَر) &lt;i&gt;sticking upon it, without its being wounded.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40979&quot; key=&quot;اهدا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اهدا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He rendered quiet, still, motionless, silent.&lt;/i&gt; (K, TA.) ―         -b2-  لَا اَهْدَاَهُ اللّٰهُ <br>\
+                  &lt;i&gt;May God not give him rest from his labour,&lt;/i&gt; or &lt;i&gt;fatigue!&lt;/i&gt; (K.) ―         -b3-  الصَّبِىَّ ↓ <br>\
+      هَدَاَ, and اهداهُ, [the latter only I find mentioned in one copy of the S: but both are mentioned in another, as well as in the TA:] &lt;i&gt;He patted the child with his hand, and quieted him, that he might sleep:&lt;/i&gt; (S, TA:) or, accord. to Az, اهداتْ صَبِيَّهَا signifies &lt;i&gt;She spoke soothingly to her child, and quieted him, that he might sleep:&lt;/i&gt; and مُهْدَاٌ is a child &lt;i&gt;thus soothed.&lt;/i&gt; (TA.) ―         -b4-  Accord. to IAar, مهدا in the following verse of &#39;Adee Ibn-Zeyd, [quoted in the S,] &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        شَيِزٌ جَنْبِى كَاَنِّى مُهْدَاٌ<br>\
+                     &lt;L&gt;<br>\
+                        جَعَلَ القَيْنُ عَلَىالدَّفِّ اـِبَرْ<br>\
+                  &lt;/quote&gt; signifies a child &lt;i&gt;soothed in order that he may go to sleep.&lt;/i&gt; Others read it as an inf. n. (TA.)       -A2-  اهدا (tropical:)  &lt;i&gt;He wore out&lt;/i&gt; a garment. (A.) ―         -b2-  اهداهُ اللّٰهُ <br>\
+                  &lt;i&gt;God made it&lt;/i&gt; (a shoulder) &lt;i&gt;to be in the state described in the explanation of the word&lt;/i&gt; <br>\
+                  اَهْدَاُ. (K.) ―         -b3-  اهداهُ <br>\
+                  &lt;i&gt;It&lt;/i&gt; (old age, K, or beating, TA) &lt;i&gt;rendered him what is termed&lt;/i&gt; <br>\
+                  اَهْدَاُ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40980&quot; key=&quot;هَدْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَدْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1. ―         -b2-  اَتَانَا بَعْدَ هَدْءٍ مِنَ اللَّيْلِ, (S, K,) and ↓ <br>\
+      هُدْءٍ, (K,) and ↓ <br>\
+      هَدْاَةٍ, (S, K,) and ↓ <br>\
+      مَهْدَاـٍ, and ↓ <br>\
+      هَدِىْءٍ, and ↓ <br>\
+      هُدُوْءٍ, (K; the last is also an inf. n. and pl.; TA,) (tropical:)  &lt;i&gt;He came to us after a period,&lt;/i&gt; or &lt;i&gt;portion, of the night;&lt;/i&gt; (S, TA;) or &lt;i&gt;after about a third&lt;/i&gt; or &lt;i&gt;fourth part of the night had elapsed,&lt;/i&gt; (S, TA,) &lt;i&gt;when men were asleep,&lt;/i&gt; (S,) or &lt;i&gt;at rest, and the night, and the foot of the passenger, were still:&lt;/i&gt; (Sb, K:) or هَدْءٌ is the &lt;i&gt;first third part&lt;/i&gt; of the night; &lt;i&gt;from the commencement to the third,&lt;/i&gt; (K,) &lt;i&gt;when it begins to be still.&lt;/i&gt; (TA.)       -A2-  هَدْءٌ and هَدْىٌ (in which the ى is said to be substituted for ء, TA.) &lt;i&gt;Way,&lt;/i&gt; or &lt;i&gt;manner, of life.&lt;/i&gt; (AHeyth, K.)       -A3-  مَرَرْتُ بِرَجُلٍ هَدْيِكَ مِن رَّجُلٍ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  هَدِّكَ: (see art. هد:) the latter is that which is commonly known and approved. (Ez-Zejjájee.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40981&quot; key=&quot;هُدْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُدْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَدْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40982&quot; key=&quot;هَدَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَدَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Smallness of a camel&#39;s hump, occasioned by his being much laden.&lt;/i&gt; (K.) It is less than what is termed حنب [a word app. incorrectly written, but which I am unable to correct]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40983&quot; key=&quot;هَدْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَدْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Quiet; stillness; rest from motion; silence.&lt;/i&gt; (Lh.)       -A2-  See هَدْءٌ, and اَهْدَاُ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40984&quot; key=&quot;مَا لَهُ هِدْاَةُ لَيْلَةٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَا لَهُ هِدْاَةُ لَيْلَةٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (K,) mentioned by Lh, but not explained by him: thought by ISd to mean &lt;i&gt;He has not a night&#39;s food:&lt;/i&gt; (and so accord. to the K:) i. e., what may quiet his hunger or sleeplessness or anxiety. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40985&quot; key=&quot;هَدَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَدَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A kind of run.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40986&quot; key=&quot;اَتَانَا هُدُوْءًا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَتَانَا هُدُوْءًا<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;He came to us after a sleep:&lt;/i&gt; (S:) &lt;i&gt;after men were at rest, and sleeping.&lt;/i&gt; (TA.)       -A2-  See هَدْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40987&quot; key=&quot;هَدِىْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هَدِىْءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَدْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40988&quot; key=&quot;هُدَّا=ءَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُدَّا=ءَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A &lt;i&gt;slender&lt;/i&gt; horse: (K:) generally said to be a term peculiarly applied to the male only: but said by some to be common to the male and the female. (MF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40989&quot; key=&quot;هُوَ اَهْدَاُ مِمَّا كَانَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     هُوَ اَهْدَاُ مِمَّا كَانَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (tropical:)  &lt;i&gt;He is more quiet,&lt;/i&gt; or &lt;i&gt;more at rest, than he was:&lt;/i&gt; i. e., &lt;i&gt;he is dead.&lt;/i&gt; From a trad. Said by Umm-Suleym to Aboo-Talhah, respecting her son, to comfort the heart of his father. (TA.)       -A2-  اَهْدَاُ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَجْنَاُ, &lt;i&gt;Having a curving back, &amp;amp;c.:&lt;/i&gt; (K:) &lt;i&gt;humpbacked:&lt;/i&gt; (S:) or a person &lt;i&gt;having the shoulders depressed, and even, and inclining towards the breast; not erect&lt;/i&gt; or &lt;i&gt;elevated:&lt;/i&gt; fem. هَدْا=ءُ: you also say مَنْكِبٌ اَهْدَاُ <br>\
+                  &lt;i&gt;a shoulder such as is described immediately above:&lt;/i&gt; and اَهْدَاُ a &lt;i&gt;crooked&lt;/i&gt; man: (Lth, and others:) also a shoulder &lt;i&gt;of which the upper part is swollen,&lt;/i&gt; or &lt;i&gt;filled with fat and flesh, and its strength relaxed.&lt;/i&gt; (K: in some copies of which we read استرخى <br>\
+                  حيله: in others, حمله: [the former is the reading that I adopt].) ―         -b2-  هَدْا=ءُ (so in the CK and a MS. copy: in the TA, ↓ <br>\
+      هَدْاَةٌ, [which seems to be an error];) A she-camel &lt;i&gt;having her hump bent by much lading,&lt;/i&gt; (K,) &lt;i&gt;and the soft hair&lt;/i&gt; (وَبَر) &lt;i&gt;sticking upon it, without its being wounded.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40990&quot; key=&quot;مَهْدَاءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَهْدَاءٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see هَدْءٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40991&quot; key=&quot;مُهْدَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُهْدَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 4.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40992&quot; key=&quot;مُهْدِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُهْدِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Still; motionless.&lt;/i&gt; (TA, in art. خمد.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40993&quot; key=&quot;مَهْدَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَهْدَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;State,&lt;/i&gt; or &lt;i&gt;condition.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n40994&quot; key=&quot;تَرَكْتُهُ عَلَى مُهَيْدِيَتِهِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَرَكْتُهُ عَلَى مُهَيْدِيَتِهِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;I left him in the state,&lt;/i&gt; or &lt;i&gt;condition, wherein he was:&lt;/i&gt; (As, S, K:) dim. of مَهْدَاَةٌ. (S.)   &lt;/entryFree&gt; <br>\
+' } );

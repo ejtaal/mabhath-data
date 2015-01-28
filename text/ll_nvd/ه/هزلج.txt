@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'هزلجQ. 1<br>\
+هَزْلَجَ, inf. n. هَزْلَجَةٌ, He (an ostrich, or<br>\
+anything,) was quick, or swift. (TA.)<br>\
+هَزْلَجَةٌ: see 1; and art. هزج.<br>\
+هَزَلَّجٌ A quick, or swift, he-ostrich. (K.)<br>\
+هِزْلَاجٌ Quick, or swift: (TA:) a light, or an<br>\
+agile, (and swift, or quick, TA,) wolf: (S, K:)<br>\
+pl. هَزَالِجُ and هَزَالِيجُ. (TA.) Accord. to Kr,<br>\
+it is derived from الهَزَجُ. (TA.) [See هزْمَجَةٌ in<br>\
+art. هزج.]<br>\
+' } );

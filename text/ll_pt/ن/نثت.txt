@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>نثت</em>            1                  نثت<br>\
+<b>نَثِتَ</b>               1     <br>\
+                     نَثِتَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَثَتَ<br>\
+                  , [inf. n. نَثَتٌ,] <i>It</i> (flesh-meat) <i>became changed,</i> or <i>altered, and stank:</i> formed by transposition from ثَنِتَ: (K:) and so a wound. (TA.)    </entryFree> <br>\
+<b>لِثَةٌ نَثِتَةٌ</b>               1     <br>\
+                     لِثَةٌ نَثِتَةٌ<br>\
+                     ذ<br>\
+                  <i>A gum that is flabby and bleeding:</i> and in like manner شَفَةٌ, <i>a lip:</i> (TA:) [as also ثَنِتَةٌ].   </entryFree> <br>\
+' } );

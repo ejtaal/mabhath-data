@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'قضفقَضِيفٌ<br>\
+Lean, or light of flesh. (TA in art.<br>\
+شلو.)<br>\
+' } );

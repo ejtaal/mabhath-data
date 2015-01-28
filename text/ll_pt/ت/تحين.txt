@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>تحين</em>            1                  تحين<br>\
+<b>تَحِينَ</b>               1     <br>\
+                     تَحِينَ<br>\
+                     حان<br>\
+                     تحين<br>\
+                     تحينن<br>\
+                     وحى<br>\
+                  : see arts. حين and ليت.   </entryFree> <br>\
+' } );

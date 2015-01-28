@@ -1,0 +1,39 @@
+load_data( { book: 'll_pt', text: '<em>حشب</em>            1                  حشب<br>\
+<b>احشبهُ</b>               1     <br>\
+                     احشبهُ<br>\
+                     ذ<br>\
+                  <i>He angered him.</i> (K.)    </entryFree> <br>\
+<b>احتشبوا</b>               1     <br>\
+                     احتشبوا<br>\
+                     ذ<br>\
+                  <i>They collected themselves together; congregated.</i> (El-Muarrij, K.)    </entryFree> <br>\
+<b>حِشْبٌ</b>               1     <br>\
+                     حِشْبٌ<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>حَشِيبٌ</b>               1     <br>\
+                     حَشِيبٌ<br>\
+                     ذ<br>\
+                  <i>A thick, coarse,</i> or <i>rough, garment</i> or <i>piece of cloth;</i> (Aboo- Semeyda&#39; El-Aarábee, K;) as also حِشِيبٌ and ↓ <br>\
+      حِشْبٌ. (TA.)       -A2-  See also حَوْشَبٌ.    </entryFree> <br>\
+<b>حشيبى</b>               1     <br>\
+                     حشيبى<br>\
+                     ذ<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>حَوْشَبٌ</b>               1     <br>\
+                     حَوْشَبٌ<br>\
+                     ذ<br>\
+                   The <i>fetlock-joint</i> (مَوْصِلُ الوَظِيفِ) <i>in the pastern</i> (رُسْغ) <i>of a beast:</i> (S, K:) or, (K,) as also ↓ <br>\
+      حشيب and ↓ <br>\
+      حشيبى, (so in the TA,) <i>a bone in the inside of the hoof, between the tendons</i> (عَصَب) <i>and the</i> <br>\
+                  وَظِيف [or <i>shank;</i> app. the <i>lower pastern-bone</i>]: (K:) or the <i>contents</i> (حَشْو) <i>of the hoof:</i> (AA, TA:) or <i>a small bone, like a</i> <br>\
+                  سُلَامَى [or <i>finger-bone,</i> a description aptly applying to either of the pastern-bones, the upper of which seems to be here meant], <i>at the extremity of the</i> <br>\
+                  وَظِيف, <i>between the head thereof and the place where the hoof is set on,</i> (As, S, K,) <i>entering into the</i> <br>\
+                  جُبَّة: (As, S: [see this last word (جبّة), to which various significations are assigned; here said in the TA to be that which contains the حوشب and دَخِيس (both of which words seem to be syn.), between, or amid, the flesh and the tendons:]) or the <i>bone of the</i> <br>\
+                  رُسْغ [or <i>pastern</i>]: (T, K:) or a name applied to <i>each of the two bones of the pastern</i> (رسغ) <i>of a horse.</i> (TA.)       -A2-  <i>Lean, and lank in the belly.</i> (K.) ―         -b2-  And <i>Bigbellied:</i> or <i>big in the sides:</i> (TA:) or <i>swollen,</i> or <i>inflated, in the sides:</i> (S, K:) or <i>swollen in the belly, and short:</i> (Skr p. 57: [see an ex. in a verse cited voce مُجْرٍ in art. جرو:]) bearing two contr. significations: (K:) fem. with ة: (TA:) pl. حَوَاشِبُ. (Skr, S.)       -A3-  The <i>male hare:</i> (K, * TA:) and [so in the K; but accord. to the TA, “ or ”] the <i>calf.</i> (K.) Also, accord. to the K, the “ male fox: ” but this is a mistake, occasioned by the occurrence of the words حَوْشَب and قَعْنَب together in a verse: the latter of these two signifies the “ male fox. ” (TA.)       -A4-  <i>A company of men;</i> as also ↓ <br>\
+      حَوْشَبَةٌ: (El-Muarrij, K: *) <i>a large number of men collected together.</i> (TA.)    </entryFree> <br>\
+<b>حَوْشَبَةٌ</b>               1     <br>\
+                     حَوْشَبَةٌ<br>\
+                     ذ<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>سرطم</em>            1                  سرطم<br>\
+<b>سَرْطَمَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     سَرْطَمَ<br>\
+                     ذ<br>\
+                  <i>He</i> (a man) <i>was,</i> or <i>became, silent.</i> (Sh, TA in art. رطم.) ―         -b2-  [From what follows, it would seem to signify also <i>He was perspicuous in speech,</i> or <i>eloquent.</i>]    </entryFree> <br>\
+<b>سَرْطَمٌ</b>               1     <br>\
+                     سَرْطَمٌ<br>\
+                     ذ<br>\
+                  <i>Long,</i> or <i>tall;</i> (S, K;) as also ↓ <br>\
+      سِرْطِمٌ: (K:) in the latter sense, the former epithet is applied to a man; as also ↓ <br>\
+      سِرْطُومٌ and ↓ <br>\
+      سُرَاطِمٌ: (M:) and a poet (namely &#39;Adee Ibn-Zeyd, TA) uses the phrase سَرْطَمُ اللَّحْيَيْنِ [<i>long in the two jaw-bones</i>]. (S.) ―         -b2-  And The <i>gullet;</i> because of its width. (M.) ―         -b3-  And, as also ↓ <br>\
+      سِرْطِمٌ, <i>Wide in the fauces, quick in swallowing,</i> (M, K,) or <i>that swallows much,</i> (TA,) <i>with</i> [<i>largeness of</i>] <i>body and make:</i> (M, K:) or <i>that swallows everything:</i> held by Kh to be of the triliteral-radical class; (M, TA;) and mentioned in art. سرط. (TA. [See سُرَاطِىٌّ.]) ―         -b4-  And hence ↓ the latter, (assumed tropical:)  <i>An eloquent speaker:</i> (M in art. سرط and in the present art., and K * in the former:) or <i>perspicuous in speech;</i> (M and K in the present art.;) as also سَرْطَمٌ. (K.) ―         -b5-  سَرْطَمٌ is also expl. as meaning الذى <br>\
+                  يستوعب الزمام [which may be rendered <i>That takes the whole of the nose-rein,</i> or <i>leading-rope;</i> but the exact meaning must be determined from the context]; and so ↓ <br>\
+      سُرْطُمَانٌ. (Freytag, from the Deewán of Jereer.)    </entryFree> <br>\
+<b>سِرْطِمٌ</b>               1     <br>\
+                     سِرْطِمٌ<br>\
+                     ذ<br>\
+                  : see سَرْطَمٌ, in three places.    </entryFree> <br>\
+<b>سُرْطُمَانٌ</b>               1     <br>\
+                     سُرْطُمَانٌ<br>\
+                     ذ<br>\
+                  : see سَرْطَمٌ, last sentence.    </entryFree> <br>\
+<b>سُرْطُومٌ</b>               1     <br>\
+                     سُرْطُومٌ<br>\
+                     ذ<br>\
+                  : see سَرْطَمٌ, first sentence.    </entryFree> <br>\
+<b>سُرَاطِمٌ</b>               1     <br>\
+                     سُرَاطِمٌ<br>\
+                     ذ<br>\
+                  : see سَرْطَمٌ, first sentence.   </entryFree> <br>\
+' } );

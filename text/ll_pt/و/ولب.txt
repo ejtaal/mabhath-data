@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>ولب</em>            1                  ولب<br>\
+<b>وَلَبَ</b>               1     <br>\
+                     وَلَبَ<br>\
+                     ذ<br>\
+                  , aor. يَلِبُ, inf. n. وُلُوبٌ, <i>He entered</i> (K) into a house or tent, or into a tract, or quarter, or the like. (TA.) ―         -b2-  وَلَبَ <br>\
+                  <i>He hastened</i> (K) in entering. (TA.) ―         -b3-  وَلَبَ اـِلَيْكَ الشَّىْءُ, aor. يَلِبُ, inf. n. وُلُوبٌ, <i>The thing,</i> of whatever kind it was, <i>came to thee,</i> or <i>reached thee.</i> (A&#39;Obeyd, S.) In the copies of the K, وَلَبَ <br>\
+                  الشَّىْءَ واـِلَيْكَ; accord. to which, the verb, in the sense of وَصَلَ, there assigned to it, is trans. both immediately and by means of اـِلَى: but the correct reading is ولب اليكالشىء, as above. In an old, and generally correct, copy of the Tahdheeb el-Af&#39;ál of IKtt, it is said that ولب اليك الشَّرُّ signifies <i>The evil reached thee:</i> <br>\
+                   syn. تَوَصَّلَ. (TA.) ―         -b4-  وَلَبَ, inf. n. وُلُوبٌ and وَلْبٌ, <i>It</i> (corn or the like) <i>germinated in offsets around the older plants.</i> (IKtt.) ―         -b5-  وَلَبَ بنو <br>\
+                  فُلَانٍ <br>\
+                  <i>The sons of such a one multiplied,</i> or <i>increased.</i> (IKtt.)    </entryFree> <br>\
+<b>وَالِبٌ</b>               1     <br>\
+                     وَالِبٌ<br>\
+                     ذ<br>\
+                  , <i>Going into a thing; entering into it.</i> (Esh-Sheybánee, S.)    </entryFree> <br>\
+<b>وَالِبَةٌ</b>               1     <br>\
+                     وَالِبَةٌ<br>\
+                     ذ<br>\
+                   The <i>offsets of the corn and the like:</i> (K:) so called because they enter into the roots of the parent-plants: (TA:) or <i>corn</i> or <i>the like growing from the roots of that which has preceded it:</i> (S:) pl. اَوَالِبُ. (TA.) ―         -b2-  وَالِبَةٌ The <i>offspring</i> of camels, (IAar, S,) and of sheep or goats, (IAar, K,) and of cows, (K,) and of a people. (IAar.)    </entryFree> <br>\
+<b>تَوْلَبُ</b>               1     <br>\
+                     تَوْلَبُ<br>\
+                     ذ<br>\
+                  : see art. تلب. Accord. to Suh, the ت is substituted for و, and the word is derived from والية, the “ offsets of corn and the like: ” and Ibn-&#39;Osfoor and IKtt assert the same. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'لقلَقٌّ A fissure in a rock. (AA, in TA, voce<br>\
+ثَتٌّ.) ―<br>\
+-b2-  لَقٌّ بَقٌّ and لَقْلَاقٌ بَقْبَاقٌ: see بَقَاقٌ.<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'قدوقُدْوَةٌ<br>\
+and قِدْوَةٌ (S, Msb, K,) and قَدْوَةٌ (K,)<br>\
+A pattern; an exemplar; an example; an object<br>\
+of imitation; one who is, or is to be, imitated.<br>\
+(S, Msb, K, TA.) See إِسْوَةٌ.<br>\
+قِدْيَهٌ<br>\
+: see فِدْيَهٌ.<br>\
+قَادِيَةٌ<br>\
+The first that come to one, or come upon<br>\
+one, of a company of men. (TA in art. طحم.)<br>\
+' } );

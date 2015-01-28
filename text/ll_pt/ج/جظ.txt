@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>جظ</em>            1                  جظ<br>\
+<b>جَظَّ</b>               1     <br>\
+                     جَظَّ<br>\
+                     جظ<br>\
+                  , [aor., accord. to rule,      <br>\
+                     جَظِ٣َ<br>\
+                  , and inf. n., probably, جَظٌّ,] <i>He was short and fat.</i> (IAar, K.)    </entryFree> <br>\
+<b>اجظّ</b>               1     <br>\
+                     اجظّ<br>\
+                     اجظ<br>\
+                  <i>He was,</i> or <i>became, proud;</i> or <i>excessively proud, corrupt, unbelieving,</i> or <i>disobedient.</i> (Sgh, K.)    </entryFree> <br>\
+<b>جَظٌّ</b>               1     <br>\
+                     جَظٌّ<br>\
+                     جظ<br>\
+                   [probably an inf. n. used as an epithet,] applied to a man, (S,) <i>Large; big; bulky;</i> or <i>large in body, corpulent, and fleshy:</i> (S, K, TA:) or <i>tall, large in body, a great eater and drinker, who exults, and behaves insolently and ungratefully to God:</i> (Fr, TA:) occurring in a trad. describing the people of Hell. (S.)   </entryFree> <br>\
+' } );

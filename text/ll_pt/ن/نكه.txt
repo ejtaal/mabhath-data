@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نكه</em>            1                  نكه<br>\
+<b>نَكْهَةٌ</b>               1     <br>\
+                     نَكْهَةٌ<br>\
+                     ذ<br>\
+                   The <i>odour of the mouth.</i> (S, TA.)   </entryFree> <br>\
+' } );

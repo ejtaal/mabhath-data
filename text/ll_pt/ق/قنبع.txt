@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>قنبع</em>            1                  قنبع<br>\
+<b>قَنْبَعَ</b>               1     <br>\
+                     قَنْبَعَ<br>\
+                     ذ<br>\
+                  , said of seed-produce or corn: see اَحْنَقَ.    </entryFree> <br>\
+<b>قُنْبُعٌ</b>               1     <br>\
+                     قُنْبُعٌ<br>\
+                     ذ<br>\
+                  : see رُكْبَانُ السُّنْبُلِ, voce رَاكِبٌ.   </entryFree> <br>\
+' } );

@@ -1,0 +1,2 @@
+load_data( { book: 'll_nvd', text: 'جندبجُنْدَبٌ and جُنْدُبٌ and جَنْدَبٌ: see art. جدب.<br>\
+' } );

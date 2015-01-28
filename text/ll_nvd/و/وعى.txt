@@ -1,0 +1,32 @@
+load_data( { book: 'll_nvd', text: 'وعى1<br>\
+وَعَاهُ<br>\
+He kept it in mind, and considered it.<br>\
+(Msb.) ―<br>\
+-b2-  وَعَى الحَدِيثَ<br>\
+He kept, or retained,<br>\
+the narration in his mind, or memory; or knew<br>\
+it, or learned it, by heart; and studied it until<br>\
+he knew it. (Msb.) ―<br>\
+-b3-  وَعَى, aor.<br>\
+وَعِىَ<br>\
+, He heeded;<br>\
+paid attention to.<br>\
+4<br>\
+أَوْعَاهُ الحَدِيثَ<br>\
+He made him to retain the<br>\
+narration in his memory; or to know it, or learn<br>\
+it, by heart. (TA, in art. زكت.)<br>\
+وِعَآءٌ<br>\
+A [bag, or wallet, or] receptacle, for<br>\
+travelling-provisions, and for goods or utensils,<br>\
+&amp;c.: (S, MA:) a vessel (?). ―<br>\
+-b2-  وِعَآءُ القَلْبِ [The<br>\
+pericardium]. (TA, voce فُؤَادٌ.) ―<br>\
+-b3-  بَتَثْتُ لَهُ<br>\
+مَا فِى وِعَائِى (assumed tropical:)  I showed him what was in my<br>\
+heart. (Er-Rághib, TA, in art. شكو and شكى.) ―<br>\
+-b4-<br>\
+حَرْفُ الوِعَآءِ [The adverbial particle<br>\
+فِى]. (IB,<br>\
+in TA, art. وسط.)<br>\
+' } );

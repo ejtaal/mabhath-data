@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مجنق</em>            1                  مجنق<br>\
+<b>مَجْنَقُوا</b>               1     <br>\
+                     مَجْنَقُوا<br>\
+                     مجنقوا<br>\
+                  : see art. جنق.   </entryFree> <br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>فول</em>            1                  فول<br>\
+<b>فُولٌ</b>               1     <br>\
+                     فُولٌ<br>\
+                     ذ<br>\
+                   [<i>Beans;</i> or the <i>bean; faba sativa</i> of Jussieu; <i>vicia faba</i> of Linnæus; i. e.] <i>i. q.</i> <br>\
+                  بَاقِلًّى [q. v.]: (T, IF, S, Msb:) or <i>i. q.</i> <br>\
+                  حِمَّص [i. e. <i>chick-peas;</i> or the <i>chick-pea</i>]: (so in one of my copies of the S: [in most of the copies of the S, this word is mentioned at the end of art. فيل; but in the older of my copies, before that art.:]) or <i>a certain grain,</i> or <i>seed,</i> (حَبّ,) <i>like the</i> <br>\
+                  حِمَّص: but with the people of Syria [and of Egypt], <i>i. q.</i> <br>\
+                  بَاقِلًّى: or (as some say, M) specially the <i>dry</i> [<i>thereof</i>]: n. un. with ة: (M, K:) mentioned by Sb. (M.)    </entryFree> <br>\
+<b>فَوَّالٌ</b>               1     <br>\
+                     فَوَّالٌ<br>\
+                     ذ<br>\
+                  <i>A seller of</i> <br>\
+                  فُول. (TA.)   </entryFree> <br>\
+' } );

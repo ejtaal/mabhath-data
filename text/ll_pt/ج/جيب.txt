@@ -1,0 +1,31 @@
+load_data( { book: 'll_pt', text: '<em>جيب</em>            1                  جيب<br>\
+<b>جَابَ</b>               1     <br>\
+                     جَابَ<br>\
+                     جاب<br>\
+                     جابي<br>\
+                  , aor. يَجِيبُ: see 1 in art. جوب, in two places.    </entryFree> <br>\
+<b>جيّب</b>               1     <br>\
+                     جيّب<br>\
+                     جيب<br>\
+                  , inf. n. تَجْيِيبٌ: see 1 in art. جوب.    </entryFree> <br>\
+<b>جَيْبٌ</b>               1     <br>\
+                     جَيْبٌ<br>\
+                     جيب<br>\
+                   The طَوْق [or <i>opening at the neck and bosom</i>] (K) of a shirt (S, K) and the like; (K;) as, for instance, of a coat of mail: (TA:) or the <i>opening</i> of a shirt <i>at the uppermost part of the breast:</i> (Msb, MF:) or the <i>opening</i> in a garment <i>for the head to be put through:</i> or <i>such an opening as a sleeve and a</i> <br>\
+                  طَوْق: (MF:) pl. [of mult.] جُيُوبٌ, (Msb, K,) also pronounced جِيُوبٌ, (TA,) [like بِيُوتٌ for بُيُوتٌ,] and [of pauc.] اَجْيَابٌ: (Msb:) this is said to be its proper art., (K, TA,) not جوب, because its pl. is جُيُوبٌ. (TA.) [The Arabs often carry things within the bosom of the shirt &amp;amp;c.; and hence the word is now applied by them to <i>A pocket.</i>] ―         -b2-  (assumed tropical:)  The <i>heart;</i> the <i>bosom.</i> (K.) So in the saying, هُوَ نَاصِحُ الجَيْبِ (assumed tropical:)  [<i>He is pure,</i> or <i>sincere, of heart</i> or <i>bosom</i>]: (K:) or <i>trusty, trustworthy,</i> or <i>faithful.</i> (S. [See also art. نصح.]) A poet says,  <br>\
+                  <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَخَشَّنْتَ صَدْرًا جَيْبُهُ لَكَ نَاصِحُ<br>\
+                  </quote> (assumed tropical:)  [<i>And thou hast exasperated a bosom the heart of which was faithful to thee</i>]. (TA.) You say also, هُوَ دَنِسُ الجَيْبِ (assumed tropical:)  [<i>He is a person of foul heart</i>]. (A in art. دنس.) And رَدَعَ جَيْبَهُ عَنْهُ (assumed tropical:)  <i>He cleared his heart,</i> or <i>bosom, of it.</i> (K in art. ردع q. v.) ―         -b3-  جَيْبُ الاَرْضِ (assumed tropical:)  <i>The place of entrance of the land,</i> or <i>country:</i> (K:) pl. جُيُوبٌ. (TA.)    </entryFree> <br>\
+<b>جِيبَةٌ</b>               1     <br>\
+                     جِيبَةٌ<br>\
+                     جيب<br>\
+                     جيبه<br>\
+                     جيبة<br>\
+                  : see art. جوب.    </entryFree> <br>\
+<b>يَاقُوتٌ مُجَيَّبٌ</b>               1     <br>\
+                     يَاقُوتٌ مُجَيَّبٌ<br>\
+                     ياقوت مجيب<br>\
+                  <i>Hollowed</i> [<i>sapphires</i>]: occurring in a trad. describing the banks of the river of Paradise: but accord. to one reading, it is لُوْلُوٌ <br>\
+                  مُجَوَّبٌ; accord. to another, مُجَيَّبٌ or مَجَوَّفٌ; and accord. to another, مُجَيَّبٌ or مُجَوَّبٌ. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,65 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ازى&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ازى<br>\
+&lt;entryFree id=&quot;n708&quot; key=&quot;ازّى الحَوْضَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ازّى الحَوْضَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْزِيَةٌ (S, K) and تَاْزِىْءٌ, or تَوْزِىْءٌ, (accord. to different copies of the S, [the latter irregular,]) or both, (accord. to the TA,) &lt;i&gt;He put,&lt;/i&gt; or &lt;i&gt;made, an&lt;/i&gt; <br>\
+                  اـِزَا=ء [q. v.], &lt;i&gt;to the watering-trough&lt;/i&gt; or &lt;i&gt;tank;&lt;/i&gt; (S, K;) i. e. &lt;i&gt;he put upon its mouth a stone,&lt;/i&gt; or &lt;i&gt;a&lt;/i&gt; <br>\
+                  جُلَّة [explained below, voce اـِزَا=ء], or &lt;i&gt;the like;&lt;/i&gt; (TA;) as also ↓ <br>\
+      ا=زاهُ, inf. n. اـِيزَا=ءٌ; (S, TA;) or ↓ <br>\
+      تازّاهُ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n709&quot; key=&quot;ا=زاهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=زاهُ<br>\
+                     ا=زاه<br>\
+                     ا=زاة<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. مُوَازَاةٌ, (Msb in art. حذو, and TA in art. وزى, &amp;amp;c., [though it would seem from the K to be اـِيزَا=ءٌ,]) &lt;i&gt;He&lt;/i&gt; (a man, S) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, over against it,&lt;/i&gt; or &lt;i&gt;opposite to it; he faced,&lt;/i&gt; or &lt;i&gt;fronted, him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (S, * K, * TA in art. وزى.) Accord. to the S, one should not say, وَازَاهُ: but it is said in a trad. respecting the prayer of fear, فَوَازَيْنَا العَدُوَّ, i. e. &lt;i&gt;And we faced,&lt;/i&gt; or &lt;i&gt;fronted, the enemy:&lt;/i&gt; (TA:) and the inf. n. is مُوَازَاةٌ. (TA in art. وزى.) [Its syn. حَاذَاهُ is more common.]       -A2-  [Hence مُوَازَاْق signifying &lt;i&gt;A conformity, a mutual resemblance,&lt;/i&gt; or &lt;i&gt;a correspondence, with regard to sound, of two words occurring near together;&lt;/i&gt; like اِزْدِوَاجٌ &amp;amp;c.: see art. زوج.]       -A3-  [Hence, likewise,] ا=زِاهُ also signifies &lt;i&gt;He contended with him,&lt;/i&gt; syn. جَارَاهُ; (K, TA;) and &lt;i&gt;opposed,&lt;/i&gt; or &lt;i&gt;withstood, him,&lt;/i&gt; syn. قَاوَمَهُ. (TA.) Whence the saying in a trad., وَفِرْقَةٌ ا=زَتِ اْلْمُلُوكَ <br>\
+                  فَقَاتَلَتْهُمْ عَلَى دِينِ اْللّٰهِ [&lt;i&gt;And a party contended with, and opposed,&lt;/i&gt; or &lt;i&gt;withstood, the kings, and fought with them for the religion of God&lt;/i&gt;]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n710&quot; key=&quot;ا=زى الحَوْضَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=زى الحَوْضَ<br>\
+                     ا=زي الحوض<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اَزَّاهُ, q. v. (S, TA.) ―         -b2-  And &lt;i&gt;He repaired,&lt;/i&gt; or &lt;i&gt;put into a right&lt;/i&gt; or &lt;i&gt;proper state, the&lt;/i&gt; <br>\
+                  اـِزَا=ء [q. v.] &lt;i&gt;of the watering-trough&lt;/i&gt; or &lt;i&gt;tank.&lt;/i&gt; (IAar, TA.) ―         -b3-  And &lt;i&gt;He poured forth the water from its&lt;/i&gt; <br>\
+                  اـِزَا=ء. (TA.) ―         -b4-  And ا=زى فِيهِ <br>\
+                  &lt;i&gt;He poured forth upon its&lt;/i&gt; <br>\
+                  اـِزَاء. (TA.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تَاَزَّىَ<br>\
+                  &lt;/form&gt; see 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n711&quot; key=&quot;نَاقَةٌ اَزِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاقَةٌ اَزِيَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (accord. to some copies of the S,) or ↓ <br>\
+      ا=زِيَةٌ, (accord. to other copies of the S,) or both, (IAar, TA,) each after the manner of a relative noun, [having no verb,] (TA,) &lt;i&gt;A she-camel that drinks from the&lt;/i&gt; <br>\
+                  اـِزَا=ء [q. v.]: (TA:) or &lt;i&gt;that will not drink save from the&lt;/i&gt; <br>\
+                  اـِزَا=ء <br>\
+                  &lt;i&gt;of the trough&lt;/i&gt; or &lt;i&gt;tank;&lt;/i&gt; and عَقِرَةٌ signifies one “that will not drink save from the عُقْر [thereof]:” (S, TA, and IAar in art. عقر in the TA:) or, accord. to IAar, &lt;i&gt;that will not come to the watering-trough&lt;/i&gt; or &lt;i&gt;tank, to drink, until they leave it unoccupied for her;&lt;/i&gt; as also قَذُورٌ. (TA in the present art.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n712&quot; key=&quot;الاـِزَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الاـِزَا=ءُ<br>\
+                     الازا=ء<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  الحِذَا=ءُ [&lt;i&gt;The front,&lt;/i&gt; as meaning the &lt;i&gt;part, place,&lt;/i&gt; or &lt;i&gt;location, that is over against, opposite, facing, fronting,&lt;/i&gt; or &lt;i&gt;in front&lt;/i&gt;]. (Msb, and K &amp;amp;c. in art. حذو.) You say, هُوَبِاـِزَايِهِ <br>\
+                  &lt;i&gt;He is over against, opposite to, facing, fronting,&lt;/i&gt; or &lt;i&gt;in front of, him;&lt;/i&gt; syn. بِحِذَايِهِ, (S,) or مُحَاذِيهِ. (Msb.) ―         -b2-  [Hence, بِاـِزَا=يِهِ signifies also &lt;i&gt;Corresponding to it;&lt;/i&gt; as when one says,] الاَبْجَلُ عِرْقٌ مِنَ <br>\
+                  الفَرَسِ وَ البَعِيرِ بِاـِزَا=ءِ الاَكْحَلِ مِنَ الاـِنْسَانِ [&lt;i&gt;The&lt;/i&gt; <br>\
+                  ابجل <br>\
+                  &lt;i&gt;is a vein of the horse and the camel, corresponding to the&lt;/i&gt; <br>\
+                  اكحل <br>\
+                  &lt;i&gt;of man&lt;/i&gt;]. (TA in art. بجل.) [You say also, وَضَعَ لَفْظًا بِاـِزَا=ءِ مَعْنَّى <br>\
+                  &lt;i&gt;He applied a word,&lt;/i&gt; or &lt;i&gt;phrase, as correspondent to an idea,&lt;/i&gt; or &lt;i&gt;a meaning.&lt;/i&gt;]       -A2-  اـِزَا=ءٌ is also applied to a man, and to a woman, and to a number of persons, in senses here following. (TA.) You say, هُوَ اـِزَا=ءُ الاَمْرِ <br>\
+                  &lt;i&gt;He is the manager, conductor, orderer, regulator,&lt;/i&gt; or &lt;i&gt;superintendent, of the affair.&lt;/i&gt; (S, Msb, TA.) And in the same sense the word is used by Homeyd, in the phrase اـِزَا=ءُ مَعَاشٍ [&lt;i&gt;The manager,&lt;/i&gt; or &lt;i&gt;orderer, of the means of subsistence&lt;/i&gt;], applied to a woman. (TA.) And in an instance in which a poet likens the اـِزَا=ء of a watering-trough or tank to the [stinking animal called] ظَرِبَان: (S, TA:) in this case it means The &lt;i&gt;water-drawer&lt;/i&gt; [of the trough or tank]. (As, IB, TA.) [But in relation to a watering-trough or tank, it generally has another meaning, which see below.] You say also, فُلَانٌ <br>\
+                  اـِزَا=ءٌ مَالٍ (S) [&lt;i&gt;Such a one is&lt;/i&gt;] &lt;i&gt;a manager, tender,&lt;/i&gt; or &lt;i&gt;superintendent, of cattle,&lt;/i&gt; or &lt;i&gt;camels&lt;/i&gt; &amp;amp;c.; (K, * TA;) &lt;i&gt;a good pastor thereof.&lt;/i&gt; (TA.) And اـِزَا=ءُ <br>\
+                  الحَرْبِ <br>\
+                  &lt;i&gt;The vigorous wager,&lt;/i&gt; or &lt;i&gt;prosecutor, of war.&lt;/i&gt; (K.) And فُلَانٌ اـِزَا=ءُ فُلَانٍ <br>\
+                  &lt;i&gt;Such a one is the fellow and assistant of such a one.&lt;/i&gt; (TA.) And هُمْ اـِزَاوُهُمْ <br>\
+                  &lt;i&gt;They are their fellows,&lt;/i&gt; (K, TA,) &lt;i&gt;who assist them, and order,&lt;/i&gt; or &lt;i&gt;set in order, their affairs:&lt;/i&gt; (TA:) or &lt;i&gt;they are those who order,&lt;/i&gt; or &lt;i&gt;set in order, their affairs.&lt;/i&gt; (Msb.) And اـِنَّهُ لَاـِ زَا=ءُ خَيْرٍ, and شَّرٍ, &lt;i&gt;Verily he is a possessor of goodness,&lt;/i&gt; and &lt;i&gt;of evilness.&lt;/i&gt; (TA.) ―         -b2-  Also, الاـِزَا=ءُ, (K,) or اـِزَا=ءُ العيش, (TK,) &lt;i&gt;The means of sustenance:&lt;/i&gt; or &lt;i&gt;what has been caused,&lt;/i&gt; or &lt;i&gt;occasioned, of plentifulness and easiness, and of superabundance, of sustenance.&lt;/i&gt; (K.)       -A3-  Also The &lt;i&gt;place where the water is poured into the wateringtrough&lt;/i&gt; or &lt;i&gt;tank;&lt;/i&gt; (As, S, K;) i. e. &lt;i&gt;its fore part;&lt;/i&gt; [the &lt;i&gt;part next to the well or other source whence it is filled;&lt;/i&gt;] the hinder part, where the camels stand when they come to water, being called the عُقْر: (S in art. عقر:) or, accord. to AZ, &lt;i&gt;a mass of stone, and what is put for protection&lt;/i&gt; [&lt;i&gt;of the brink of the trough&lt;/i&gt; or &lt;i&gt;tank&lt;/i&gt; (as it is generally constructed of stones cemented and plastered with &lt;pb n=&quot;56&quot; TEIform=&quot;pb&quot;/&gt; mud)] &lt;i&gt;upon the place where the water is poured when the bucket is emptied:&lt;/i&gt; (S in the present art.:) or the &lt;i&gt;whole&lt;/i&gt; (جَمِيع [said in the TA to be a mistake for جمع, but this I think extremely improbable,]) &lt;i&gt;of what is between the wateringtrough&lt;/i&gt; or &lt;i&gt;tank and the cavity of the well,&lt;/i&gt; [namely,] &lt;i&gt;of the&lt;/i&gt; [&lt;i&gt;casing of stones,&lt;/i&gt; or &lt;i&gt;bricks, called&lt;/i&gt;] طَّى: (K:) or &lt;i&gt;a stone,&lt;/i&gt; or &lt;i&gt;skin,&lt;/i&gt; or جُلَّة [i. e. a &lt;i&gt;thing made of palm-leaves woven together,&lt;/i&gt; generally used as a receptacle for dates], &lt;i&gt;put&lt;/i&gt; [&lt;i&gt;for protection&lt;/i&gt;] &lt;i&gt;upon the mouth&lt;/i&gt; [or &lt;i&gt;part of the border where the water is poured in&lt;/i&gt;] &lt;i&gt;of the wateringtrough&lt;/i&gt; or &lt;i&gt;tank:&lt;/i&gt; (K, * TA:) in the K, يُوضَعُ عَلَيْهَا <br>\
+                  الحَوْضُ is erroneously put for يوضع عَلَى فَمِ <br>\
+                  الحَوْضِ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n713&quot; key=&quot;نَاقَةٌ ا=زِيَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     نَاقَةٌ ا=زِيَةٌ<br>\
+                     ناقة ا=زيه<br>\
+                     ناقة ا=زية<br>\
+                  &lt;/form&gt;: see اَزِيَةٌ.   &lt;/entryFree&gt; <br>\
+' } );

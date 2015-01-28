@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مجر1<br>\
+مَجَرَ<br>\
+, app. an imitative sequent to فَجَرَ. See<br>\
+دَعِرَ.<br>\
+' } );

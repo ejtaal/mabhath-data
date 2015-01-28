@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'مسلمَسَلٌ<br>\
+: see مَسِيلٌ, in art. سيل.<br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>عكب</em>            1                  عكب<br>\
+<b>عُكُبٌ</b>               1     <br>\
+                     عُكُبٌ<br>\
+                     ذ<br>\
+                   and عِكَابٌ and اَعْكُبٌ quasi-pl. ns. of عَنْكَبُوتٌ, which is mentioned under this head by J and IM and others. (TA.) See art. عنكب.   </entryFree> <br>\
+' } );

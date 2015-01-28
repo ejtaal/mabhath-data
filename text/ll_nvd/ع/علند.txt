@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'علندعَلَنْدٌ and عَلَنْدَدٌ and عَلَنْدًى &amp;c.: see arts. علد<br>\
+and عند.<br>\
+' } );

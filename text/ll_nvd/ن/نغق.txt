@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'نغقنُغَاقٌ<br>\
+and نُعَاقٌ, of a crow, signify the<br>\
+same. (Lh in O, art. عوق.)<br>\
+' } );

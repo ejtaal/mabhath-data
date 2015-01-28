@@ -1,0 +1,74 @@
+load_data( { book: 'll_nvd', text: 'عيث1<br>\
+عَاثَ, aor. يَعِيثُ, inf. n. عَيْثٌ (S, O, K) and<br>\
+عُيُوثٌ and عَيَثَانٌ, (TA,) He acted corruptly; or<br>\
+made, or did, mischief; syn. أَفْسَدَ: (S, O, K:)<br>\
+or, accord. to Az, he hastened, or was hasty or<br>\
+quick, in so acting: (TA:) accord. to Er-Rághib,<br>\
+عَيْثٌ and عُثِىٌّ, or عِثِىٌّ, and عُثُوٌّ are nearly alike;<br>\
+but عَيْثٌ is mostly used in relation to that which<br>\
+is perceived by sense; and عثىّ and عثوّ, in relation to that which is perceived by the [mind or]<br>\
+judgment: some say that عثوّ is the “ acting corruptly in the utmost degree: ” and some, that it<br>\
+is the “ acting wrongfully, injuriously, or unjustly; ” and sometimes does not involve the acting corruptly: (MF, TA:) Lh says that عَثِىَ is<br>\
+of the dial. of El-Hijáz, and is the [more] approved<br>\
+form; and عاث is of the dial. of the BenooTemeem, who say, لَا تَعِيثُوا فِى الأَرْضِ [Act not<br>\
+ye corruptly, or do not ye mischief, in the earth].<br>\
+(TA.) Hence one says, عاث الذِّئْبُ فِى الغَنَمِ<br>\
+The wolf made, or did, mischief among the sheep<br>\
+or goats; syn. أَفْسَدَ. (S, A, O.) And عِيثِى جَعَارِ<br>\
+[Do mischief, O she-hyena]: a prov. used in<br>\
+declaring a thing to be vain, or false. (K in art.<br>\
+جعر.) And عاث فِى مَالِهِ He dissipated his property; or squandered, and wasted, or ruined, it:<br>\
+and he expended it quickly. (TA.) ―<br>\
+-b2-  عاث, aor.<br>\
+and inf. ns. as above, also signifies He took without gentleness. (L.) ―<br>\
+-b3-  And عاث, inf. n. عَيْثٌ,<br>\
+He ventured upon an affair not caring what he<br>\
+fell upon. (AA.)<br>\
+2<br>\
+عيّث, (S, O, K,) inf. n. تَعْيِيثٌ, (S, O,) He<br>\
+searched [or groped] for a thing with the hand,<br>\
+without his seeing it: (S, O, K:) or, said of a<br>\
+blind man, he searched [or groped] for a thing:<br>\
+and, said of a man possessing sight, he searched<br>\
+[or groped] for a thing in the dark: written by<br>\
+Kr with غ. (L.) [It is said in the TA, in<br>\
+art. غيث, that ISd thought عيّث, with the unpointed ع, to be a mistranscription; but that it is<br>\
+correct.] ―<br>\
+-b2-  And hence, عيّث فِى الكِنَانَةِ He put<br>\
+his hand into the quiver to search for an arrow:<br>\
+(TA:) or he turned about his hand in the quiver<br>\
+to search for the arrow. (A.) ―<br>\
+-b3-  عيّث يَفْعَلُ كَذَا<br>\
+He set about, began, or commenced, doing such a<br>\
+thing. (O, K.) ―<br>\
+-b4-  عَيَّثَتْ طَيْرُهُ [lit.] His birds<br>\
+[from which he augured] became confused to him;<br>\
+[meaning (assumed tropical:)  his affairs, or case, became confused<br>\
+and perplexing to him]; syn. اِخْتَلَطَتْ عَلَيْهِ. (O,<br>\
+K.) [See also غَيَّمَ.] ―<br>\
+-b5-  عيّث فِى السَّنَامِ He made<br>\
+a mark, or an impression, upon the camel&#39;s hump<br>\
+with a knife. (TA.)<br>\
+5<br>\
+تعيّثتِ الإِبِلُ The camels drank less than<br>\
+what would satisfy their thirst. (O, K.)<br>\
+عَيْثَةٌ A plain, or soft, tract of land, (O, K,)<br>\
+not consisting of sand nor of dust nor of clay. (O.)<br>\
+عَيْثَى is like عَجَبًا: (K, TA: [in the O, like<br>\
+عَجَبَى:]) a word expressive of wonder: one says<br>\
+عَيْثَى لَهُ, meaning عَجَبًا لَهُ, for أَعْجَبُ عَجَبًا لَهُ [I<br>\
+wonder greatly, lit. with wondering, at him, or it]:<br>\
+(TK: [but a verse cited in the O indicates that<br>\
+one says عَيْثَى بِهِ:]) in one copy of the K, عَيْثًا.<br>\
+(TA.)<br>\
+رَجُلٌ عَيْثَانُ A man who acts corruptly; or who<br>\
+makes, or does, mischief: [or rather, who does so<br>\
+much, or often:] fem., applied to a woman, عَيْثَى.<br>\
+(Seer, TA.)<br>\
+العَيُوثُ: see what next follows.<br>\
+العَيَّاثُ The lion; (A, O, K;) as also ↓ العَيُوثُ<br>\
+and ↓ العَائِثُ. (O, K.)<br>\
+العَائِثُ: see what next precedes.<br>\
+أَعْيَثُ مِنْ جَعَارِ [More mischievous than the she-hyena]: is a prov. (Meyd, and A and TA in<br>\
+art. جعر.)<br>\
+' } );

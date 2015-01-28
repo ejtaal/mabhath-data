@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>كوث</em>            1                  كوث<br>\
+<b>كوّث</b>               1     <br>\
+                     كوّث<br>\
+                     ذ<br>\
+                  , inf. n. تَكْوِيثٌ, <i>It</i> (growing corn or the like) <i>became composed of four leaves, and of five.</i> (En-Nadr, K.)       -A2-  كوّث بِغَايِطِهِ, inf. n. تَكْوِيثٌ, <i>He voided his excrement</i> [<i>in form</i>] <i>resembling the heads of hares,</i> or <i>rabbits.</i> (K.)    </entryFree> <br>\
+<b>كَاثٌ</b>               1     <br>\
+                     كَاثٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  كَاثٌّ, [q. v. in art. كث]. (K.)    </entryFree> <br>\
+<b>كَوْثٌ</b>               1     <br>\
+                     كَوْثٌ<br>\
+                     ذ<br>\
+                  <i>A</i> <br>\
+                  قَفْش, or <i>kind of short boot:</i> (AM, K:) app. an arabicized word. (AM, L.)    </entryFree> <br>\
+<b>كَوْثَةٌ</b>               1     <br>\
+                     كَوْثَةٌ<br>\
+                     ذ<br>\
+                  <i>What is composed of four leaves, and of five:</i> referring to growing corn and the like: n. un. of كَوْثٌ. (TA.)       -A2-  كَوْثَةٌ, or ↓ <br>\
+      كُوثَةٌ, [as in different copies of the K, the latter being the reading in the TA, which mentions كويثة as another reading,] <i>Abundance of herbage,</i> or <i>of the goods, conveniences,</i> or <i>comforts, of life; plenty; fruitfulness.</i> (K.)    </entryFree> <br>\
+<b>كُوْثَةٌ</b>               1     <br>\
+                     كُوْثَةٌ<br>\
+                     ذ<br>\
+                  : see كَوْثَةٌ.    </entryFree> <br>\
+<b>كُوِثِىٌّ</b>               1     <br>\
+                     كُوِثِىٌّ<br>\
+                     ذ<br>\
+                  <i>Short:</i> like كُوتِىٌّ [q. v.]. (T.)   </entryFree> <br>\
+' } );

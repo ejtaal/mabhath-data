@@ -1,0 +1,8 @@
+load_data( { book: 'll_nvd', text: 'محث1<br>\
+مَحَثَ شَيْئًا i. q. حَثَمَهُ. (L.)<br>\
+مَحْثٌ One who mixes with people, and eats<br>\
+and converses with them. (MF, from the<br>\
+Námoos of [the Mulla &#39;Alee] El-Káree: [but<br>\
+SM expresses some doubt of its correctness, or<br>\
+whether it be correctly مخث].<br>\
+' } );

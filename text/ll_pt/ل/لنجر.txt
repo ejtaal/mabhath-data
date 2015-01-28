@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لنجر</em>            1                  لنجر<br>\
+<b>لَنْجَرٌ</b>               1     <br>\
+                     لَنْجَرٌ<br>\
+                     ذ<br>\
+                  <i>An anchoring-place, a harbour,</i> or <i>a port,</i> (مَرْسًى,) <i>for ships.</i> (TA.) Occurring in the K art. رسو. (TA.)   </entryFree> <br>\
+' } );

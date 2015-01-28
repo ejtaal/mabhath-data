@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>وزع</em>            1                  وزع<br>\
+<b>الوَزَعَةُ</b>               1     <br>\
+                     الوَزَعَةُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اَعْوَانُ الرَّجُلِ. (TA in art. امل.) وازِعٌ: see فَارِعٌ.   </entryFree> <br>\
+' } );

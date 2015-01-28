@@ -1,0 +1,64 @@
+load_data( { book: 'll_nvd', text: 'طش1<br>\
+طَشَّتِ السَّمَآءُ, (S, A, O, K,) aor.<br>\
+طَشِ3َ and<br>\
+طَشُ3َ,<br>\
+(O, K,) inf. n. طَشٌّ, (TK,) The sky let fall rain<br>\
+such as is called طَشّ [q. v.]; as also ↓ اطشّت.<br>\
+(S, A, O, K.) ―<br>\
+-b2-  [Hence,] طَشَّ [as meaning<br>\
+(assumed tropical:)  He sprinkled the moisture from his nose like<br>\
+fine rain] is said of one affected with the malady<br>\
+termed طُشَّة, when he blows his nose. (O.) ―<br>\
+-b3-<br>\
+And طُشَّ, (O, K,) with damm, (K,) He (a man)<br>\
+was, or became, affected with the malady termed<br>\
+طُشَّة: (O, K:) but Az says that the [better]<br>\
+known word is طُشِئَ. (TA.)<br>\
+4<br>\
+أَطْشَ3َ see the preceding paragraph.<br>\
+طَشٌّ and ↓ طَشِيشٌ Weak [or fine] rain, (S, A,<br>\
+O, K,) but exceeding what is termed رَذَاذٌ: (S, O,<br>\
+K:) or the former is less than رَذَاذ: (El-Khattábee,<br>\
+and Suh in TA art. رذ:) or rain exceeding what<br>\
+is termed رَِكٌّ, but less than what is termed قِطْقِطٌ:<br>\
+(TA:) or the first of rain; (L, TA;) next to<br>\
+which is what is termed رَشٌّ: (L:) [but see these<br>\
+other terms for rain: طِشَاشٌ and طُشُوشٌ are pls.<br>\
+of طَشٌّ; both mentioned in the O, though not<br>\
+there said to be pls. of طَشٌّ:] one says, أَصَابَنَا<br>\
+طِشَاشٌ وَرِشَاشٌ [Rains such as are termed طشاش<br>\
+and رشاش fell upon us]. (O.)<br>\
+طُشَّةٌ and ↓ طُشَاشٌ, both with damm, A malady<br>\
+like the [rheum termed] زُكَام, (O, K,) incident to<br>\
+human beings: said by El-Kutabee to be termed طُشَّة<br>\
+because when he who is affected with it blows his<br>\
+nose he sprinkles the moisture from it like fine<br>\
+rain (إِذَا اسْتَنْثَرَ طَشَّ): but the [better] known<br>\
+word is طُشْأَةٌ (O.) [See also the next paragraph.]<br>\
+طِشَّة is said in the K to signify A young child;<br>\
+its author having app. understood a young child<br>\
+to be meant thereby in a trad. respecting the<br>\
+[plant called] حَزَاة, in which it is said, يَشْتَرِيهَا<br>\
+أَكَايِيسُ الصِّبْيَانِ لِلطِّشَّةِ [evidently meaning, Intelligent children purchase it for the malady<br>\
+termed طِشَّة, this word being doubtless either a<br>\
+dial. var. of طُشَّة, or a mistranscription]: that<br>\
+طشّة here denotes children is refuted by another<br>\
+relation of the trad., يَشْرَبُهَا أَكَايِيسُ النِّسَآءِ لِلطُشَّةِ<br>\
+[i. e. intelligent women drink a preparation of it<br>\
+for the طُشَّة]. (TA.)<br>\
+طَشَاشٌ i. q. رَشَاشٌ [i. e. Such as is sprinkled, or<br>\
+scattered,] (K, TA) of rain: or such as is weak.<br>\
+(TA.) [Not to be mistaken for the pls. طِشَاشٌ<br>\
+and رِشَاشٌ: see طَشٌّ.] ―<br>\
+-b2-  And hence, app., and,<br>\
+if so, tropical, Weakness of sight: whence the<br>\
+prov., الطَّشَاشُ وَلَا العَمَى [Weakness of sight, and<br>\
+not blindness]. (TA.)<br>\
+طُشَاشٌ: see طُشَّةٌ.<br>\
+طَشِيشٌ: see طَشٌّ.<br>\
+أَرْضٌ مطْشُوشَةٌ Land upon which has fallen rain<br>\
+such as is termed طَشٌّ. (S, A, O.) ―<br>\
+-b2-  And رَجُلٌ<br>\
+مَطْشُوشٌ A man affected with the malady termed<br>\
+طُشَّة. (TA.)<br>\
+' } );

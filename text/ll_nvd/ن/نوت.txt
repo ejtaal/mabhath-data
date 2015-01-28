@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'نوت1<br>\
+نَاتَ, aor. يَنُوتُ, inf. n. نَوْتٌ, He (a man)<br>\
+moved from side to side in walking; as also نَاتَ,<br>\
+aor. يَنِيتُ: (L:) or he so moved by reason of<br>\
+weakness, or infirmity: (K:) or, by reason of<br>\
+drowsiness, like as the sailor turns the vessel from<br>\
+side to side. (L.)<br>\
+نَاتٌ i. q. نَاسٌ Mankind; or men: (S, K:) like<br>\
+أَكْيَاتٌ for أَكْيَاسٌ; the س being changed into ت<br>\
+[see art. س], accord. to the dial. of certain of the<br>\
+Arabs; as related by Az. (S.)<br>\
+نُوتِىٌّ [and ↓ نَوَّاتٌ] A sailor upon the sea, (S,<br>\
+K,) who turns about the ship in the sea: (TA:)<br>\
+pl. of the former نَوَاتِىُّ, (S, K,) [and of the latter]<br>\
+نَوَّاتُونَ. (TA.) Accord. to J, from the language<br>\
+of the people of Syria: accord. to others, an<br>\
+arabicized word [from the Greek nau/ths]. (TA.)<br>\
+نَوَّاتٌ: see نُوتِىٌّ.<br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>يطب</em>            1                  يطب<br>\
+<b>مَا اَيْطَبَهُ</b>               1     <br>\
+                     مَا اَيْطَبَهُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  مَا اَطْيَبَهُ: (K:) a dial. form of the latter, or formed from it by transposition: (TA:) and in like manner اَيْطِبْ بِهِ, <i>i. q.</i> <br>\
+                  اَطْيِبْ بِهِ: [both signifying <i>How good, sweet, delicious,</i> or <i>pleasant, is he,</i> or <i>it</i>]. (TA, art. طيب.)    </entryFree> <br>\
+<b>اَيْطَبُ</b>               1     <br>\
+                     اَيْطَبُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  اطْيَبُ [<i>More,</i> or <i>most, good, sweet, delicious,</i> or <i>pleasant: and pure</i>]: a correct and chaste dial. form of the latter word. (Ex., from a trad., عَلَيْكُمْ بِالاَسْوَدِ مِنْهُ فَاـِنَّهُ اَيْطَبُهُ <br>\
+                  <i>Keep ye to the black thereof;</i> (i. e., of the fruit of the ارَاك;) <i>for it is the best of it.</i> But some deny its being a dial. form, [holding it to be formed by transposition]. (TA.) ―         -b2-  اَقْبَلَتِ الشَّاةُ فِى <br>\
+                  اَيْطَبَتِهَا, and اَيْطَبَّتِهَا, (the latter form from AZ, TA,) <i>The sheep,</i> or <i>goat, came in the vehemence of her lust for the male.</i> (K.) See also art. طيب.   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>قعط</em>            1                  قعط<br>\
+<b>اِقْتَعَطَ</b>               1     <br>\
+                     اِقْتَعَطَ<br>\
+                     ذ<br>\
+                  : see اِعْتَجَرَ. ―         -b2-  الاِقْطِعَاطُ and العِمَّةُ <br>\
+                  الطَّابِقِيَّةُ signify the same. (O, K, in art. طبق.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'خظى1<br>\
+خَظِىَ لَحْمُهُ: see 1 in art. خظو.<br>\
+4<br>\
+أَخْظَىَ see 4 in art. خظو.<br>\
+خَظٍ بَظٍ, and خَظِيَةٌ بَظِيَةٌ: see خَاظٍ, in art.<br>\
+خظو.<br>\
+' } );

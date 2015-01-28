@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>قضم</em>            1                  قضم<br>\
+<b>قَضِمَ</b>               1     <br>\
+                     قَضِمَ<br>\
+                     ذ<br>\
+                  <i>He crunched, nibbled</i> or <i>gnawed?</i> See خَضِمَ: and see also Freytag&#39;s Arab. Prov. ii. 245.    </entryFree> <br>\
+<b>قَضَامٌ</b>               1     <br>\
+                     قَضَامٌ<br>\
+                     ذ<br>\
+                  : see خُضَامَةٌ.    </entryFree> <br>\
+<b>مَقْضَمٌ</b>               1     <br>\
+                     مَقْضَمٌ<br>\
+                     ذ<br>\
+                  : see خُضَامَةٌ.    </entryFree> <br>\
+<b>قَضِيمٌ</b>               1     <br>\
+                     قَضِيمٌ<br>\
+                     ذ<br>\
+                   as meaning <i>A skin</i> &amp;amp;c. has for pl. اَقْضِمَةٌ [a pl. of pauc.] and قُضُمٌ, and قُضْمٌ, accord. to Sb, is a quasi-pl. n., (TA,) and قَضَمٌ is a pl. [or quasi-pl. n.] thereof as meaning <i>a white skin upon which one writes.</i> (S, K.) See an ex. of قُضُمٌ voce عَسِيبٌ.   </entryFree> <br>\
+' } );

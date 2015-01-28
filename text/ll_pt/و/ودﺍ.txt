@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ودا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ودا<br>\
+&lt;entryFree id=&quot;n41797&quot; key=&quot;وَدَاَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَدَاَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَدَاُ, &lt;i&gt;He made it even&lt;/i&gt; or &lt;i&gt;plain.&lt;/i&gt; (K.)       -A2-  See 5.       -A3-  ودا (aor. يَدَاُ, T) &lt;i&gt;Veretrum exseruit&lt;/i&gt; equus: (T, K:) but AHeyth says that this is an error, and that the correct word is without ء: [i. e., وَدَى, q.v.]. (TA.)       -A4-  دَاْنِى [imp.], &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  دَعْنِى, &lt;i&gt;Let me&lt;/i&gt; &amp;amp;c. (K.) Said by some to be of weak authority. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41798&quot; key=&quot;ودّا عليه الاَرْضَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ودّا عليه الاَرْضَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَوْدِىْءٌ, &lt;i&gt;He made the earth even,&lt;/i&gt; or &lt;i&gt;plain, over him.&lt;/i&gt; (AZ, S, K.) ―         -b2-  وَدَّاَتْهُ الاَرْضُ <br>\
+                  &lt;i&gt;The earth,&lt;/i&gt; or &lt;i&gt;the land, hid,&lt;/i&gt; or &lt;i&gt;concealed, him.&lt;/i&gt; (TA.) [See also 5.] ―         -b3-  ودّا, &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, buried.&lt;/i&gt; (IAar.) ―         -b4-  ودّا بِهِمْ, inf. n. تَوْدِيَةٌ; (S, L;) accord. to the K, وَدَاَ; but this is incorrect; (TA;) &lt;i&gt;He covered,&lt;/i&gt; or &lt;i&gt;overwhelmed, them with evil,&lt;/i&gt; or &lt;i&gt;with ill treatment.&lt;/i&gt; (L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41799&quot; key=&quot;تودّاتُ عَلَيْهِ الاَرْضُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تودّاتُ عَلَيْهِ الاَرْضُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;The earth became even,&lt;/i&gt; or &lt;i&gt;plain, over him,&lt;/i&gt; (K,) as over a dead body in the grave: (TA:) or &lt;i&gt;enclosed him:&lt;/i&gt; or &lt;i&gt;was overturned over him:&lt;/i&gt; or &lt;i&gt;was broken in pieces over him.&lt;/i&gt; (K.) ―         -b2-  &lt;i&gt;The earth,&lt;/i&gt; or &lt;i&gt;the land, hid,&lt;/i&gt; or &lt;i&gt;concealed, him.&lt;/i&gt; (TA.) [See also 2.] This phrase is used when a person has gone away to the more distant parts of the earth, or land, so that it is not known what he has done: also, when a man has died; even if among his family. (ISh.) ―         -b3-  تودّات عَنْهُ الاَخْبَارُ <br>\
+                  &lt;i&gt;News,&lt;/i&gt; or &lt;i&gt;tidings, of him were cut off,&lt;/i&gt; or &lt;i&gt;ceased to come;&lt;/i&gt; like ↓ <br>\
+      وَدِيَتْ, &lt;i&gt;and were hid.&lt;/i&gt; (K.) [In the K we read, عنه الاخبارُ انقطعت [تودّات] عليه و [تودّات] و <br>\
+                  الخ: whence it seems that تودّات عليه الاخبار also has the above signification. But in the TA, after عليه, in the passage above quoted from the K, is inserted الارض. This word, however, has, I think, been inserted through inadvertence: if not, تودّات عليه الارضُ signifies &lt;i&gt;The land was interrupted to him, and hid:&lt;/i&gt; as also ↓ <br>\
+      وَدِيَت.] ―         -b4-  تودّا عَلَى مَالِهِ <br>\
+                  &lt;i&gt;He took his property&lt;/i&gt; or &lt;i&gt;wealth, and kept it carefully.&lt;/i&gt; (K.)       -A2-  تودّا عَلَيْهِ <br>\
+                  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, destroyed him.&lt;/i&gt; (S, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41800&quot; key=&quot;وَدَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     وَدَاٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Perdition; destruction.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41801&quot; key=&quot;مُوَدَّاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَدَّاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [Earth &lt;i&gt;made even,&lt;/i&gt; or &lt;i&gt;plain,&lt;/i&gt; over a person: or earth &lt;i&gt;hiding,&lt;/i&gt; or &lt;i&gt;concealing,&lt;/i&gt; him;] like مُحْصَنٌ for مُحْصِنٌ, &amp;amp;c. (TA.) ―         -b2-  &lt;i&gt;A grave.&lt;/i&gt; (See below.) ―         -b3-  Zuheyr Ibn-Mes-ood Ed-Dabbee says, in an elegy on his brother Ubeí, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اَ اُبَىُّ اـِنْ تُصْبِحْ رَهِينَ مُوَدَّاٍ<br>\
+                     &lt;L&gt;<br>\
+                        زَلْجِ الجَوَانِبِ قَعْرُهُ مَلْحُودُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;O Ubeí ! if thou become a deposit in a place over which the earth is made even,&lt;/i&gt; or &lt;i&gt;plain,&lt;/i&gt; (or &lt;i&gt;in a place that hideth thee,&lt;/i&gt; or &lt;i&gt;in a grave,&lt;/i&gt;) &lt;i&gt;with smooth,&lt;/i&gt; or &lt;i&gt;slippery, sides, and having its bottom hollowed out laterally,&lt;/i&gt; ―         -b4- ] (S, TA. See Ham, p. 466.) ―         -b5-  مُوَدَّاَةٌ <br>\
+                  &lt;i&gt;A place of destruction,&lt;/i&gt; or &lt;i&gt;perdition;&lt;/i&gt; or &lt;i&gt;a desert in which is no water.&lt;/i&gt; (AA, S, K.) ―         -b6-  Also, accord. to IAar, or without ة, as in an example which he quotes, &lt;i&gt;A grave.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

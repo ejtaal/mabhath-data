@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>جيل</em>            1                  جيل<br>\
+<b>جِيلٌ</b>               1     <br>\
+                     جِيلٌ<br>\
+                     جيل<br>\
+                  <i>A nation, people, race, tribe,</i> or <i>family of mankind;</i> (S, Msb, K;) <i>such as the Turks, and the Greeks,</i> (S. TA,) <i>and the Chinese:</i> (TA:) pl. اَجْيَالٌ (M, Msb, TA) and جِيلَانٌ. (M, TA.) ―         -b2-  And <i>A generation of men.</i> (TA.)       -A2-  See also جُولٌ.    </entryFree> <br>\
+<b>جَيَلُ</b>               1     <br>\
+                     جَيَلُ<br>\
+                     جيل<br>\
+                  : see جَيْاَلُ, in art. جال.    </entryFree> <br>\
+<b>جَيْلَانُ الحَصَى</b>               1     <br>\
+                     جَيْلَانُ الحَصَى<br>\
+                     جيلان الحصى<br>\
+                     جيلان الحصي<br>\
+                  <i>Small pebbles which the wind makes to turn about</i> or <i>round about, to circle,</i> or <i>to revolve:</i> (S, K:) but this belongs to art. جول. (TA.)       -A2-  يَوْمٌ جَيْلَانُ: see اَجْوَلُ, in art. جول.    </entryFree> <br>\
+<b>يَوْمٌ جَيْلَانِىٌّ</b>               1     <br>\
+                     يَوْمٌ جَيْلَانِىٌّ<br>\
+                     يوم جيلانى<br>\
+                     يوم جيلاني<br>\
+                  : see اَجْوَلُ, in art. جول.   </entryFree> <br>\
+' } );

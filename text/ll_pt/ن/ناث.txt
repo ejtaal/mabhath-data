@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>ناث</em>            1                  ناث<br>\
+<b>نَاَثَ عَنْهُ</b>               1     <br>\
+                     نَاَثَ عَنْهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     نَاََ<br>\
+                  , (inf. n. نَاْثْ, TA,) <i>He became distant, or far removed, from him, or it.</i> (K.) ―         -b2-  نَاَثَ, aor.      <br>\
+                     نَاََ<br>\
+                  , inf. n. نَاْثٌ <br>\
+                  <i>He was slow, or tardy.</i> (TA.) ―         -b3-  Also, inf. n. نَاْثٌ and مَنْاَثٌ, <i>He walked, or went,</i> syn. سَعَى, (K,) <i>at a slow pace.</i> (TA.)    </entryFree> <br>\
+<b>اناثهُ</b>               1     <br>\
+                     اناثهُ<br>\
+                     ذ<br>\
+                  , inf. n. اـِنْا=ثٌ, <i>He removed him, or it, far off; put him, or it, at a distance.</i> (TA.)    </entryFree> <br>\
+<b>سَيْرٌ مَنْاثٌ</b>               1     <br>\
+                     سَيْرٌ مَنْاثٌ<br>\
+                     ذ<br>\
+                   [so accord. to a marginal note in the L, in the handwriting of SM] <i>A slow pace, or going, or journeying.</i> (TA.)   </entryFree> <br>\
+' } );

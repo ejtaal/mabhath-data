@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>نغث</em>            1                  نغث<br>\
+<b>نَغْثٌ</b>               1     <br>\
+                     نَغْثٌ<br>\
+                     ذ<br>\
+                  <i>Lasting and vehement evil.</i> (IAar, K.) ―         -b2-  وَقَعْنَا فِى نَغْثٍ <br>\
+                  <i>We fell into lasting and vehement evil.</i> (L.)   </entryFree> <br>\
+' } );

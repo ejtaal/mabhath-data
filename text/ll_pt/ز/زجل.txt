@@ -1,0 +1,41 @@
+load_data( { book: 'll_pt', text: '<em>زجل</em>            1                  زجل<br>\
+<b>زَجِلَ</b>               1     <br>\
+                     زَجِلَ<br>\
+                     ذ<br>\
+                  , (MA, K,) aor.      <br>\
+                     زَجَلَ<br>\
+                  , (K,) inf. n. زَجَلٌ, (MA, K, KL, and Har p. 240,) <i>He uttered his voice,</i> or <i>a cry;</i> or <i>made a sound,</i> or <i>cry:</i> (MA, KL:) or <i>he raised his voice,</i> (K, Har,) <i>to evince emotion.</i> (Har.) ―         -b2-  [It seems to be indicated in the K that it signifies also <i>He played,</i> or <i>sported:</i> and <i>He,</i> or <i>it</i> (i. e. a company of men), <i>raised cries, shouts, noises, a clamour,</i> or <i>confused cries</i> or <i>shouts</i> or <i>noises:</i> and <i>He trilled,</i> or <i>quavered, and prolonged his voice;</i> or <i>prolonged it, and modulated it sweetly.</i> See the next paragraph.]    </entryFree> <br>\
+<b>زَجَلٌ</b>               1     <br>\
+                     زَجَلٌ<br>\
+                     ذ<br>\
+                   inf. n. of زَجِلَ: (MA, K:) [and used as a simple subst:] <i>i. q.</i> <br>\
+                  صَوْتٌ [as an inf. n., meaning The <i>uttering of the voice,</i> or <i>of a sound,</i> or <i>cry:</i> or, as a simple subst., <i>a voice, sound,</i> or <i>cry</i>]: (S:) or <i>a high,</i> or <i>loud, voice:</i> such have the angels when celebrating the praises of God: (TA:) [and] <i>a vehement sound.</i> (Ham p. 627.) [Hence,] سَحَابٌ ذُو زَجَلٍ <br>\
+                  <i>Clouds having a thundering:</i> (TA:) [and] so ↓ <br>\
+      سَحَابٌ زَجِلٌ. (S.) ―         -b2-  <i>A clamour;</i> or <i>a confusion,</i> or <i>mixture, of cries</i> or <i>shouts</i> or <i>noises,</i> or <i>of crying</i> or <i>shouting</i> or <i>noise.</i> (K.) ―         -b3-  [<i>A low,</i> or <i>faint, sound:</i> hence,] زَجَلُ <br>\
+                  الجِنِّ means عَزِيفُهَا [i. e. <i>The low,</i> or <i>faint, sound of the jinn,</i> or <i>genii, that is heard by night in the deserts;</i> and said to be <i>a sound like drumming:</i> or <i>the sound of the winds in the atmosphere, imagined by the people of the desert to be the sound of the jinn</i>]. (TA.) ―         -b4-  <i>A trilling,</i> or <i>quavering, and prolonging of the voice;</i> or <i>a prolonging of the voice, and modulating it sweetly.</i> (K.) A poet likens it to the voice of one urging on camels by singing to them, and to the playing on a reedpipe. (Sb, TA.) ―         -b5-  Also <i>Play,</i> or <i>sport.</i> (K.) ―         -b6-  And <i>A species of verse, well known;</i> [<i>a vulgar sort of unmeasured song</i> or <i>balled;</i>] in this sense post-classical. (TA.)    </entryFree> <br>\
+<b>زَجِلٌ</b>               1     <br>\
+                     زَجِلٌ<br>\
+                     ذ<br>\
+                  <i>Raising his voice;</i> as also ↓ <br>\
+      زَاجِلٌ. (K.) ―         -b2-  [Hence,] سَحَابٌ زَجِلٌ: see زَجَلٌ And غَيْثٌ <br>\
+                  زَجِلٌ <br>\
+                  <i>Rain accompanied by the sound of thunder.</i> (TA.) And نَبْتٌ زَجِلٌ <br>\
+                  <i>A plant,</i> or <i>herbage, in which,</i> or <i>among which, the wind makes a sound.</i> (K.)    </entryFree> <br>\
+<b>زَجْلَةٌ</b>               1     <br>\
+                     زَجْلَةٌ<br>\
+                     ذ<br>\
+                  : see the next paragraph, in two places.    </entryFree> <br>\
+<b>زُجْلَةٌ</b>               1     <br>\
+                     زُجْلَةٌ<br>\
+                     ذ<br>\
+                   The <i>sound,</i> or <i>voice,</i> or <i>noise,</i> of men; as also ↓ <br>\
+      زَجْلَةٌ. (K.) ―         -b2-  And <i>A company, a collection,</i> or <i>an assemblage:</i> (K:) or <i>a party,</i> or <i>company, of men,</i> (S, K,) peculiarly: (TA:) as also ↓ <br>\
+      زَجْلَةٌ: (K:) pl. of the former زُجَلٌ. (S.)    </entryFree> <br>\
+<b>زَاجِلٌ</b>               1     <br>\
+                     زَاجِلٌ<br>\
+                     ذ<br>\
+                  : see زَجِلٌ. ―         -b2-  It is also applied to a song, or singing, [meaning <i>Loud,</i>] in the saying, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَهُوَ يُغَنِّيهَا غِنَا=ءً زَاجِلَا<br>\
+                  </quote> [<i>And he sings to her,</i> or <i>to them</i> (probably referring to camels), <i>with a loud song</i> or <i>singing</i>]. (TA.)   </entryFree> <br>\
+' } );

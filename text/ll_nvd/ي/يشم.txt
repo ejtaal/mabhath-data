@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'يشم4<br>\
+مَا أَيْشَمَهُ<br>\
+How unlucky! a vulgarism: see<br>\
+4 in art. شأم.<br>\
+' } );

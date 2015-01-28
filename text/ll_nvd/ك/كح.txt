@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'كحكُحٌّ Anything pure, mere, unadulterated, or<br>\
+genuine; (L;) i. q. قُحٌّ, (L, K,) of which it is a<br>\
+dial. form: (S:) [but see what follows, and<br>\
+قُحٌّ]. عَرَبِىٌّ كُحٌّ A pure, or genuine, Arab:<br>\
+fem. عَرَبِيَّةٌ كُحَّةٌ: (S, K:) pl. أَكْحَاحٌ: you say<br>\
+أَعْرَابٌ اكحاحٌ: (L:) [or this is not said: see<br>\
+قُحٌّ:] Yaakoob asserts, that the ك in كُحٌّ is<br>\
+substituted for the ق in قُحٌّ: (L:) [and if so,<br>\
+the former is not a dial. form of the latter].<br>\
+عَبْدٌ كُحٌّ A mere, or genuine, slave; of purely<br>\
+servile race. (L.)<br>\
+كُحْكُحٌ and كِحْكِحٌ A decrepit old woman:<br>\
+(S, K:) a she-camel far advanced in age: (K:)<br>\
+or old and weak: (S:) or far advanced in age,<br>\
+and having lost her teeth: (T:) a she-camel, and<br>\
+cow, and ewe, or she-goat, old and weak, and<br>\
+unable to retain her slaver: or whose teeth are<br>\
+consumed. (L.)<br>\
+أَكَحُّ Toothless. (L.)<br>\
+كُحُحٌ Decrepit old women. (K.)<br>\
+' } );

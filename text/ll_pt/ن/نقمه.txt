@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نقمه</em>            1                  نقمه<br>\
+<b>نَقَهَ</b>               1     <br>\
+                     نَقَهَ<br>\
+                     ذ<br>\
+                  <i>He recovered, but not completely, his health and strength:</i> (TA:) or <i>he became convalescent;</i> or <i>sound,</i> or <i>healthy; at the close of his disease:</i> (S:) or <i>sound,</i> or <i>healthy, but was yet weak.</i> (K.) See بَرِيَ.    </entryFree> <br>\
+<b>نَقاَهَةٌ</b>               1     <br>\
+                     نَقاَهَةٌ<br>\
+                     ذ<br>\
+                   [<i>Convalescence;</i>] the <i>slight degree of health that immediately succeeds sickness.</i> (TA, art. برا.)   </entryFree> <br>\
+' } );

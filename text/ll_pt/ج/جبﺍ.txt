@@ -1,0 +1,76 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جبا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جبا<br>\
+&lt;entryFree id=&quot;n4923&quot; key=&quot;١&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     جَبَاَ<br>\
+                     ذ and        <br>\
+      جَبِيَ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَبَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;He restrained,&lt;/i&gt; or &lt;i&gt;withheld, himself; refrained, forbore,&lt;/i&gt; or &lt;i&gt;abstained;&lt;/i&gt; or &lt;i&gt;turned back,&lt;/i&gt; or &lt;i&gt;reverted.&lt;/i&gt; (K, TA.) You say, جَبَاَ عَنْهُ, and جَبِيَ, meaning &lt;i&gt;He restrained,&lt;/i&gt; or &lt;i&gt;withheld, himself,&lt;/i&gt; &amp;amp;c., &lt;i&gt;from him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; and &lt;i&gt;regarded him,&lt;/i&gt; or &lt;i&gt;it, with reverence, veneration, dread, awe,&lt;/i&gt; or &lt;i&gt;fear:&lt;/i&gt; (TA:) [or,] accord. to AZ, جَبَاْتُ عَنِ الرَّجُلِ, inf. n. جَبْءٌ and جُبُوْءٌ, [to which Golius adds جُبُوٌ and جِبَا=ءٌ, but, I suspect, from incorrect MSS.,] means &lt;i&gt;I drew,&lt;/i&gt; or &lt;i&gt;held,&lt;/i&gt; or &lt;i&gt;hung, back from the man;&lt;/i&gt; or &lt;i&gt;remained behind him;&lt;/i&gt; or &lt;i&gt;shrank from him;&lt;/i&gt; or &lt;i&gt;shrank from him and hid myself:&lt;/i&gt; and he cites (from Nuseyb Ibn-Mihjen, TA) &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَهَلْ اَنَ اـِلَّ مِثْلُ سَيِّقَةِ العِدَى<br>\
+                     &lt;L&gt;<br>\
+                        اـِنِ اْسْتَقْدَمَتْ نَحْرٌ وَاـِنْ جَبَاَتْ عَقْرٌ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And am I otherwise than like the beasts driven away by the enemy? If they go before, slaughter&lt;/i&gt; befalls them; &lt;i&gt;and if they remain behind, hocking&lt;/i&gt;]. (S, TA.) You say also, مَا جَبَاَ عَنْ شَتْمِى <br>\
+                  &lt;i&gt;He did not draw back from reviling me; did not desist,&lt;/i&gt; or &lt;i&gt;abstain, therefrom.&lt;/i&gt; (TA.) ―         -b2-  &lt;i&gt;It&lt;/i&gt; (a sword) &lt;i&gt;recoiled,&lt;/i&gt; or &lt;i&gt;reverted, without penetrating,&lt;/i&gt; or &lt;i&gt;without effect:&lt;/i&gt; (K:) or so the former verb [only]. (TA.) ―         -b3-  &lt;i&gt;It&lt;/i&gt; (the sight, or the eye,) &lt;i&gt;recoiled,&lt;/i&gt; or &lt;i&gt;reverted:&lt;/i&gt; (K:) or so the former verb [only]; &lt;i&gt;and disliked,&lt;/i&gt; or &lt;i&gt;disapproved,&lt;/i&gt; or &lt;i&gt;hated, the thing&lt;/i&gt; [&lt;i&gt;that was before it&lt;/i&gt;]. (TA.) You say, جَبَاَتْ عَيْنِى عَنِ  الشَّىْءِ <br>\
+                  &lt;i&gt;My eye recoiled,&lt;/i&gt; or &lt;i&gt;reverted, from the thing.&lt;/i&gt; (S.) And of a woman of displeasing aspect you say, اـِنَّ العَيْنِ لَتَجْبَاُ عَنْهَا [&lt;i&gt;Verily the eye recoils from her with dislike&lt;/i&gt;]. (As, TA.) ―         -b4-  &lt;i&gt;He disliked, disapproved,&lt;/i&gt; or &lt;i&gt;hated:&lt;/i&gt; (K:) or so the former verb [only]. (TA.) You say, جَبَاَ الشَّىْءَ <br>\
+                  &lt;i&gt;He disliked,&lt;/i&gt; &amp;amp;c., &lt;i&gt;the thing.&lt;/i&gt; (TA.) ―         -b5-  &lt;i&gt;He inclined&lt;/i&gt; his neck: (K:) or so the former verb [only]. (TA.) ―         -b6-  &lt;i&gt;He hid himself;&lt;/i&gt; (K, TA;) [app. &lt;i&gt;from fear;&lt;/i&gt;] as, for instance, a ضَبّ [q. v.] in its hole. (TA.) ―         -b7-  &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, came,&lt;/i&gt; or &lt;i&gt;went, forth,&lt;/i&gt; or &lt;i&gt;out:&lt;/i&gt; (K:) [or so the former verb only.] You say of a serpent, جَبَاَ عَلَيْهِ <br>\
+                  &lt;i&gt;It came forth upon him from its hole&lt;/i&gt; (S, TA) &lt;i&gt;so as to frighten him;&lt;/i&gt; and in like manner one says of a hyena, and a ضَبّ, and a jerboa. (TA.) And جَبَاَ عَلَى <br>\
+                  القَوْمِ <br>\
+                  &lt;i&gt;He came forth unexpectedly upon the people,&lt;/i&gt; or &lt;i&gt;company of men.&lt;/i&gt; (TA.) And جَبَاَ الجَرَادُ <br>\
+                  &lt;i&gt;The locusts invaded,&lt;/i&gt; or &lt;i&gt;came suddenly upon, the country.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4924&quot; key=&quot;اَجْبَاَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَجْبَاَتْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; said of a land, (S,) or اجبا said of a place, (K,) &lt;i&gt;It abounded with&lt;/i&gt; [&lt;i&gt;the kind of truffles called&lt;/i&gt;] كَمْاَة, (S,) or كَمْء, (so in some copies of the K,) or [rather] جِبَاَة [a pl. or quasi-pl. n. of جَبْء. (So in other copies of the K.)       -A2-  اجبا <br>\
+                  &lt;i&gt;He hid&lt;/i&gt; a thing. (K.) And hence, &lt;i&gt;He hid&lt;/i&gt; his camels &lt;i&gt;from the collector of the poor-rate.&lt;/i&gt; (IAar, TA.) ―         -b2-  &lt;i&gt;He sold&lt;/i&gt; seed-produce &lt;i&gt;before it showed itself to be in a good state,&lt;/i&gt; (S, K, TA,) or &lt;i&gt;before it came to maturity.&lt;/i&gt; (TA.) Hence, in a trad., مَنْ اَجْبَى فَقَدْ اَرْبَى [&lt;i&gt;He who sells&lt;/i&gt; seed-produce &lt;i&gt;before it shows itself to be in a good state,&lt;/i&gt; or &lt;i&gt;before it has come to maturity, practices&lt;/i&gt; the like of &lt;i&gt;usury&lt;/i&gt;]: (S, TA:) originally with ء, (S,) which is suppressed for the purpose of assimilation [to اربى]. (TA. [See 4 in art. جبو and جبى.]       -A3-  اجبا عَلَى القَوْمِ <br>\
+                  &lt;i&gt;He overlooked the people,&lt;/i&gt; or &lt;i&gt;company of men;&lt;/i&gt; or &lt;i&gt;commanded,&lt;/i&gt; or &lt;i&gt;had, a view of them;&lt;/i&gt; or &lt;i&gt;came in sight of them;&lt;/i&gt; syn. اَشْرَفَ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4925&quot; key=&quot;جَبْءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَبْءٌ<br>\
+                     جبء<br>\
+                  &lt;/form&gt; sing. of جِبَاَةٌ, like as فَقْعٌ is of فِقَعَةٌ, and غَرْدٌ of غِرَدَةٌ: (S:) or &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  كَمْاَةٌ: (K:) or n. un. of ↓ <br>\
+      جَبْاَةٌ, which is a coll. gen. n., like كَمْاَةٌ: (MF and TA, voce قَعْبٌ:) [J says,] جِبَاَةٌ signifies &lt;i&gt;Red&lt;/i&gt; <br>\
+                  كَمْاَة [or &lt;i&gt;truffles&lt;/i&gt;]: or, accord. to El-Ahmar, &lt;i&gt;those&lt;/i&gt; [&lt;i&gt;truffles&lt;/i&gt;] &lt;i&gt;that incline to redness;&lt;/i&gt; <br>\
+                  كَمْاَةٌ signifying those that incline to dust-colour and blackness; and فِقَعَةٌ, the white; and بَنَاتُ اَوْبَرَ, the small: (S:) accord. to AHn, ↓ <br>\
+      جَبْاَةٌ signifies &lt;i&gt;a white thing resembling a&lt;/i&gt; <br>\
+                  كَمْء, &lt;i&gt;of which no use is made:&lt;/i&gt; but accord. to IAar, the &lt;i&gt;black&lt;/i&gt; <br>\
+                  كَمْاَة; which, he says, are the &lt;i&gt;best of&lt;/i&gt; <br>\
+                  كماة: (TA:) the pl. of جَبْءٌ is اَجْبُوٌ, (S, K,) a pl. of pauc., (S,) and جِبَاَةٌ, [as mentioned above,] or, accord. to Sb, this is a quasi-pl. n., (TA,) and ↓ <br>\
+      جَبَاٌ, (K,) or this also is a quasi-pl. n. (TA.) ―         -b2-  &lt;i&gt;I. q.&lt;/i&gt; <br>\
+                  اَكَمَةٌ [q. v., i. e. &lt;i&gt;A hill,&lt;/i&gt; or &lt;i&gt;mound,&lt;/i&gt; &amp;amp;c.]: pls. as above. (K.) ―         -b3-  &lt;i&gt;A hollow,&lt;/i&gt; or &lt;i&gt;cavity,&lt;/i&gt; (T, K,) &lt;i&gt;in a mountain,&lt;/i&gt; (TA,) &lt;i&gt;in which the water&lt;/i&gt; (T, K) &lt;i&gt;of the rain&lt;/i&gt; (TA) &lt;i&gt;stagnates,&lt;/i&gt; (T,) or &lt;i&gt;collects:&lt;/i&gt; (K:) pl. as above. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4926&quot; key=&quot;جَبَاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَبَاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4927&quot; key=&quot;جَبْاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَبْاَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see جَبْءٌ, in two places.       -A2-  Also &lt;i&gt;A shoemaker&#39;s board,&lt;/i&gt; (S, K,) &lt;i&gt;on which he cuts his leather;&lt;/i&gt; also called قُرْزُومٌ. (S.)       -A3-  And The &lt;i&gt;place where the false ribs of the camel end, and thence as far as the navel and udder.&lt;/i&gt; (K.) ―         -b2-  And The &lt;i&gt;part&lt;/i&gt; of the belly &lt;i&gt;called the&lt;/i&gt; <br>\
+                  مَاْنَةٌ thereof; as also جَاْبَةٌ; (Ibn-Buzurj, TA;) i. e. the &lt;i&gt;part between the navel and the pubes.&lt;/i&gt; (TA in art. جاب.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4928&quot; key=&quot;جُبَّاٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُبَّاٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, K) and ↓ <br>\
+      جُبَّاءٌ؟ (Sb, K) &lt;i&gt;Fearful,&lt;/i&gt; or &lt;i&gt;cowardly:&lt;/i&gt; (S, K:) fem. with ة: and therefore the pl. is formed by the addition of و and ن. &lt;pb n=&quot;373&quot; TEIform=&quot;pb&quot;/&gt; (Sb, TA.) Mafrook Ibn-&#39; Amr Esh-Sheybánee says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        فَمَا اَنَ مِنْ رَيْبِ المَنُونِ بِجُبَّاٍ<br>\
+                     &lt;L&gt;<br>\
+                        وَلَا اَنَا مِنْ سَيْبِ الاـِلٰهِ بِا=يِسِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;But I am not fearful of the vicissitudes of fortune, nor despairing of the favour of God&lt;/i&gt;]. (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4929&quot; key=&quot;جُبَّا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُبَّا=ءٌ<br>\
+                     جبا=ء<br>\
+                  &lt;/form&gt;: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4930&quot; key=&quot;جَابِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَابِيٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;locust,&lt;/i&gt; or &lt;i&gt;locusts:&lt;/i&gt; (S, K:) so called because of the coming forth thereof [suddenly or unexpectedly: see 1, last two sentences]: (S, TA:) as also جَابٍ [q. v.]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4931&quot; key=&quot;اَرْضٌ مَجْبَاَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْضٌ مَجْبَاَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A land abounding with&lt;/i&gt; [&lt;i&gt;the truffles called&lt;/i&gt;] جِبَاَة. (S.)   &lt;/entryFree&gt; <br>\
+' } );

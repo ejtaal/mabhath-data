@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نكز</em>            1                  نكز<br>\
+<b>اَنْكَزَ</b>               1     <br>\
+                     اَنْكَزَ<br>\
+                     ذ<br>\
+                  : see مُنْكِدٌ and ذَمَّةٌ.    </entryFree> <br>\
+<b>مَنْكِزٌ</b>               1     <br>\
+                     مَنْكِزٌ<br>\
+                     ذ<br>\
+                  : see مُنْكِدٌ.   </entryFree> <br>\
+' } );

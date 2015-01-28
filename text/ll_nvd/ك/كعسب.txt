@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'كعسبQ. 1<br>\
+كَعْسَبَ He ran (K) vehemently: like<br>\
+كَعْظَلَ: (TA:) and fled: (K:) like كَعْسَمَ:<br>\
+(TA:) or he ran slowly: or he walked quickly:<br>\
+or he walked in the manner of a drunken man.<br>\
+(K.)<br>\
+' } );

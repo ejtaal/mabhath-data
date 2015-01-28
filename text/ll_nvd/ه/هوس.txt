@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'هوسهَوَسٌ Somewhat of madness, or insanity, or<br>\
+diabolical possession, (S, A, K,) in the head:<br>\
+(A:) or a vertigo, or giddiness, and confused<br>\
+noise, in the head. (A, TA.) ―<br>\
+-b2-  Hence used by<br>\
+the vulgar to signify Hope. (TA.)<br>\
+مَهَوَّسٌ Affected with somewhat of madness, or<br>\
+insanity, or diabolical possession. (Ibn-&#39;Abbád,<br>\
+K.) ―<br>\
+-b2-  A man who talks to himself. (A.) ―<br>\
+-b3-<br>\
+Sometimes, One who is affected with melancholy,<br>\
+and with vain, or unprofitable, suggestions. (TA.)<br>\
+―<br>\
+-b4-  And One who occupies himself with the science<br>\
+of alchemy. (TA.)<br>\
+' } );

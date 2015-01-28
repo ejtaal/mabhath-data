@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>نقز</em>            1                  نقز<br>\
+<b>نَقَزَ</b>               1     <br>\
+                     نَقَزَ<br>\
+                     ذ<br>\
+                  , (S, A,) aor.      <br>\
+                     نَقُزَ<br>\
+                  , (S, TA,) and      <br>\
+                     نَقِزَ<br>\
+                  , (TA,) inf. n. نَقْزٌ and نَقَزَانٌ (S, K,) and نُقَازٌ, (TA,) <i>He</i> (an antelope, S and A) <i>leaped, jumped, sprang,</i> or <i>bounded,</i> (S, A, K,) as also ↓ <br>\
+      نقّز, (M, TA,) in his running, (S,) or <i>on his</i> <br>\
+                  نَوَاقِز, i. e., his <i>legs:</i> (A:) or <i>he</i> (generally referring to a raven or crow, or a sparrow, or locust, or the like,) <i>leaped, jumped, sprang,</i> or <i>bounded, upwards; he hopped:</i> (TA:) or <i>he put his legs together in leaping, jumping, springing,</i> or <i>bounding:</i> when the legs are spread, the action is termed نَفْزٌ. (IDrd, TA.)    </entryFree> <br>\
+                     نَقَّزَ<br>\
+                   see 1.       -A2-  Also, inf. n. تَنْقِيزٌ, <i>He made to leap, jump, spring,</i> or <i>bound:</i> (S:) and نقّزت <br>\
+                  <i>she</i> (a woman) <i>danced,</i> or <i>dandled,</i> her child; (K, * TA;) as also نفّزت. (S, &amp;amp;c., art. نفز.)    </entryFree> <br>\
+<b>نَوَاقِزُ</b>               1     <br>\
+                     نَوَاقِزُ<br>\
+                     ذ<br>\
+                  , [pl. of نَاقِزَةٌ,] The <i>legs</i> of an antelope, (A,) or of a beast of carriage. (K.) See also نَافِزَةٌ.   </entryFree> <br>\
+' } );

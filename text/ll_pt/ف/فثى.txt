@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>فثى</em>            1                  فثى<br>\
+<b>افثى</b>               1     <br>\
+                     افثى<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became, tired,</i> (K, TA,) and <i>languid;</i> from running [&amp;amp;c.]. (TA. [But this is for اَفْثَاَ: see an ex. in a verse cited in art. فثا.])   </entryFree> <br>\
+' } );

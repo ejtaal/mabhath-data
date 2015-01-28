@@ -1,0 +1,45 @@
+load_data( { book: 'll_pt', text: '<em>بار</em>            1                  بار<br>\
+<b>بَاَرَ</b>               1     <br>\
+                     بَاَرَ<br>\
+                     ذ<br>\
+                  , (S, M, K,) aor.      <br>\
+                     بَاََ<br>\
+                  , (M, K,) <i>He sunk,</i> or <i>dug,</i> (S, M, K,) a well; (S, M;) as also ↓ <br>\
+      ابتار. (M, K.) ―         -b2-  Also, aor. as above, inf. n. بَاْرٌ, <i>He dug a</i> [<i>hollow such as is termed</i>] بُوْرَة, (AZ, S, M,) <i>in which to cook.</i> (AZ, S.) ―         -b3-  Also, (T, S, M, K,) aor. as above, (M, K,) and so the inf. n.; (M;) and ↓ <br>\
+      ابتار; (T, S, M, K;) <i>He hid,</i> or <i>concealed,</i> a thing: (T, M, K:) and <i>he stored</i> it, or <i>laid</i> it <i>up, for a time of need.</i> (T, S, K.) Hence a hollow dug in the ground is termed بُوْرَةٌ. (T.) ―         -b4-  You say also, خَيْرًا ↓ <br>\
+      ابتار, (T, M, K,) and بَاَرَهُ, (M, K,) <i>He did good beforehand:</i> (T, M, K:) or, accord. to some, <i>he, as it were, did good beforehand for himself, having laid it up,</i> or <i>concealed it, for himself:</i> (T, TA:) so says El-Umawee: or <i>he laid up for himself in store concealed good:</i> (TA:) or <i>he did good concealedly:</i> (M, K:) and ايتبر signifies the same. (T, TA.)    </entryFree> <br>\
+<b>ابار فُلَانًا</b>               1     <br>\
+                     ابار فُلَانًا<br>\
+                     ذ<br>\
+                  <i>He made,</i> or <i>he assigned,</i> or <i>appointed,</i> (جَعَلَ,) <i>for such a one, a well.</i> (K.)    </entryFree> <br>\
+                     اـِبْتَاََ<br>\
+                   see 1, in three places.    </entryFree> <br>\
+<b>بِيْرٌ</b>               1     <br>\
+                     بِيْرٌ<br>\
+                     ذ<br>\
+                   (T, S, M, &amp;amp;c.) and بِيرٌ, (Msb,) of the fem. gender, (S, M, Msb, K,) and ↓ <br>\
+      بِيْرَةٌ, (M,) <i>A well:</i> (M, TA:) pl. (of pauc., S, Msb) اَبْوُرٌ (S, M, Msb, K) and (by transposition, Fr, Msb) ا=بُرٌ (Fr, Msb, K) and اَبْا=رٌ and (by transposition, Yaakoob, T, S, M) ا=بَارٌ and (of mult., S, Msb) بِيَارٌ; (T, S, M, Msb, K;) and pl. of pauc. [of بِيرٌ] اَبْيَارٌ. (Msb.) The dim. is ↓ <br>\
+      بُوَيْرَةٌ. (Msb.)    </entryFree> <br>\
+<b>بُوْرَةٌ</b>               1     <br>\
+                     بُوْرَةٌ<br>\
+                     ذ<br>\
+                  <i>A hollow,</i> or <i>hole, dug in the ground,</i> (AZ, S, M, K,) <i>in which to cook;</i> also called اـِرَةٌ: (AZ, S:) or (M) <i>a place in which fire is lighted.</i> (M, K.) [See 1.]       -A2-  See also بَيِيرَةٌ.    </entryFree> <br>\
+<b>بِيْرةٌ</b>               1     <br>\
+                     بِيْرةٌ<br>\
+                     ذ<br>\
+                  : see بيْرٌ:       -A2-  and see بَيِيرَةٌ.    </entryFree> <br>\
+<b>بُوَيْرَةٌ</b>               1     <br>\
+                     بُوَيْرَةٌ<br>\
+                     ذ<br>\
+                  : see بِيْرٌ.    </entryFree> <br>\
+<b>بَيِيرَةٌ</b>               1     <br>\
+                     بَيِيرَةٌ<br>\
+                     ذ<br>\
+                   (T, S, M, K) and ↓ <br>\
+      بِيْرَةٌ and ↓ <br>\
+      بُوْرَةٌ (M, K) <i>A thing stored,</i> or <i>laid up, for a time of need.</i> (T, S, M, K.)    </entryFree> <br>\
+<b>بَاّ==رٌ</b>               1     <br>\
+                     بَاّ==رٌ<br>\
+                     ذ<br>\
+                  , (T, TA, and so in some copies of the K,) or اَبَّارٌ, (as in other copies of the K and so in the CK,) the latter formed by transposition, and the former [said to have been] not heard, (M,) <i>A well-sinker,</i> or <i>well-digger.</i> (T, M, K.)   </entryFree> <br>\
+' } );

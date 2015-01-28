@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>لقث</em>            1                  لقث<br>\
+<b>لَقَثَ</b>               1     <br>\
+                     لَقَثَ<br>\
+                     ذ<br>\
+                  , [aor.      <br>\
+                     لَقُثَ<br>\
+                  ,] inf. n. لَقْثٌ; and ↓ <br>\
+      لقّث, inf. n. تَلْقِيثٌ; <i>He mixed</i> [a thing]. (K.) [The former verb is as above accord. to the TK: but it seems to be implied in the K that it is لَقِثَ, aor. لَقِثَ, as well in the above sense as in that here following.] ―         -b2-  لَقِثَ, aor.      <br>\
+                     لَقِثَ<br>\
+                  , inf. n. لَقْثٌ, <i>He took</i> [a thing] <i>quickly, and altogether.</i> (K.) But this is not of established authority. (TA.)    </entryFree> <br>\
+                     لَقَّثَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

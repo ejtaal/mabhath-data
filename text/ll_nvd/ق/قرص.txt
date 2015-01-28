@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'قرصقُرْصٌ<br>\
+A round convex ornament worn on the<br>\
+crown of the tarboosh. (See Modern Egypt.<br>\
+Appendix A.)<br>\
+' } );

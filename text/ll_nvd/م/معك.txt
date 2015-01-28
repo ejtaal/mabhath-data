@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'معكمُتَمَعَّكُ الفَرَسِ<br>\
+(T, art. ردى) or الحِمَارِ (S, M,<br>\
+art. ردى) The horses&#39; or asses&#39; place of rolling<br>\
+upon the ground. See ردى.<br>\
+' } );

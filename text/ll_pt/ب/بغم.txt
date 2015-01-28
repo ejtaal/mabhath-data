@@ -1,0 +1,47 @@
+load_data( { book: 'll_pt', text: '<em>بغم</em>            1                  بغم<br>\
+<b>بَغَمَتْ</b>               1     <br>\
+                     بَغَمَتْ<br>\
+                     بغمت<br>\
+                  , aor.      <br>\
+                     بَغِمَ<br>\
+                   (S, K) and      <br>\
+                     بَغَمَ<br>\
+                   and      <br>\
+                     بَغُمَ<br>\
+                  , (K,) inf. n. بُغَامٌ (JK, S, K) and بُغُومٌ; (JK, K;) and ↓ <br>\
+      تبغّمت; (K;) <i>She</i> (a gazelle) <i>uttered a cry:</i> (S:) or <i>uttered her softest,</i> or <i>gentlest, cry</i> (JK, K) <i>to her young one:</i> (K:) and sometimes it is said of a [wild] cow: (TA:) so too بَغَمَ said of a male gazelle: and the verb is also used transitively, said of a female gazelle uttering this cry to her young one. (JK.) Also, (S, K,) ↓ both verbs, (K,) <i>She</i> (a camel) <i>uttered a cry without clearness:</i> (S:) or <i>uttered a broken,</i> or <i>an interrupted, not a prolonged, yearning cry, to,</i> or <i>for,</i> <br>\
+                  <i>her young one:</i> (K:) or <i>uttered a weak cry, below that</i> [<i>grumbling cry</i>] <i>which is termed</i> <br>\
+                  رُغَا=ء. (Ham p. 233.) [See an ex. in a verse of Dhu-rRummeh cited voce اـِلَّا.] And بَغَمَ and ↓ <br>\
+      تبغّم said of the ثَيْتَل and اـِيَّل and وَعِل, [all of which words are said to signify the mountain goat,] <i>He uttered a cry.</i> (K.) ―         -b2-  بَغَمَهُ, (S, K,) and بَغَمَ لَهُ, (TA,) (assumed tropical:)  <i>He spoke to him obscurely, not expressing clearly to him the meaning of his speech to him;</i> (S, K;) taken from the بُغَام of the she-camel; because it is a cry not uttered clearly. (TA.)    </entryFree> <br>\
+                     بَاْغَمَ<br>\
+                  باغمهُ, (K,) inf. n. مُبَاغَمَةٌ, (S,) (tropical:)  <i>He talked with him with a soft,</i> or <i>gentle, voice:</i> (S, K, TA:) or المُبَاغَمَةٌ is like المُنَاغَمَةُ, and means <i>the speaking</i> [<i>with another</i>] <i>faintly;</i> taken from the بُغَام [see 1] of the gazelle and the she-camel: (Ham p. 233:) or <i>the holding amatory and enticing talk,</i> or <i>conversation, with another, with a soft,</i> or <i>gentle, voice.</i> (TA.)    </entryFree> <br>\
+                     تَبَغَّمَ<br>\
+                   see 1, in three places.    </entryFree> <br>\
+                     تَبَاْغَمَ<br>\
+                   [تَبَاغَمَتْ <br>\
+                  <i>They</i> (gazelles) <i>uttered cries,</i> or <i>their softest</i> or <i>gentlest cries, one to another.</i>] One says, مَرَرْتُ بِرَوْضَةٍ تَتَبَاغَمُ فِيهَا الظِّبَا=ءُ [<i>I passed by a meadow in which the gazelles were uttering cries,</i> &amp;amp;c., <i>one to another</i>]: and بِغِزْلَانٍ يَتَبَاغَمْنَ [<i>by gazelles uttering cries,</i> &amp;amp;c., <i>one to another</i>]. (TA.)    </entryFree> <br>\
+<b>بُغْمَةٌ</b>               1     <br>\
+                     بُغْمَةٌ<br>\
+                     بغمه<br>\
+                     بغمة<br>\
+                     غم<br>\
+                     غمة<br>\
+                  <i>A thing like the</i> <br>\
+                  قِلَادَة, [<i>a necklace,</i>] <i>with which women ornament themselves.</i> (TA.) [But this is apparently post-classical, from the Turkish بُوغْمَقْ. In the present day, it is applied to <i>A necklace of pearls.</i>]    </entryFree> <br>\
+<b>بُغَامٌ</b>               1     <br>\
+                     بُغَامٌ<br>\
+                     بغام<br>\
+                     غام<br>\
+                   The <i>crying,</i> or <i>cry, of the female gazelle,</i> and <i>of the she-camel, as explained above:</i> see 1. (S.)    </entryFree> <br>\
+<b>بَغُومٌ</b>               1     <br>\
+                     بَغُومٌ<br>\
+                     بغوم<br>\
+                   A female gazelle <i>uttering,</i> or <i>that utters, the cry termed</i> <br>\
+                  بُغَام. (S, K.) ―         -b2-  (assumed tropical:) A woman <i>having a soft,</i> or <i>gentle, voice.</i> (JK, TA.)    </entryFree> <br>\
+<b>مَبْغُومٌ</b>               1     <br>\
+                     مَبْغُومٌ<br>\
+                     مبغوم<br>\
+                   A young gazelle, and a young camel, <i>to which the cry termed</i> <br>\
+                  بُغَام <br>\
+                  <i>is addressed by its mother.</i> (JK.) ―         -b2-  One says, also, بُغَامٌ مَبْغُومٌ [<i>A cry</i> &amp;amp;c. <i>uttered</i>]; like as one says, قَوْلٌ مَقُولٌ. (TA.)   </entryFree> <br>\
+' } );

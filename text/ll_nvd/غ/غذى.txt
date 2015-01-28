@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'غذى1<br>\
+غَذَيْتُهُ: see 1 (first sentence) in art. غذو.<br>\
+' } );

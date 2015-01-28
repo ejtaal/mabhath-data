@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>خلا</em>            1                  خلا<br>\
+<b>خَلَاَتْ</b>               1     <br>\
+                     خَلَاَتْ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     خَلَاَ<br>\
+                  , (K,) inf. n. خَلْءٌ, (S, K,) in an expos. of the Mo&#39;allakát written خِلْءٌ, (TA,) and خِلَا=ءٌ, (S, K,) with kesr and medd, (S,) so accord. to IKoot and IKtt and &#39;Iyád and IAth and Z and Hr, but in some copies of the K خَلَا=ءٌ, and so many assert it to be, (TA,) and خُلُوْءٌ, (K,) said of a she-camel, (S, K,) <i>She lay down,</i> or <i>kneeled and lay down, upon her breast:</i> (Lh, K:) or <i>she was,</i> or <i>became, refractory,</i> or <i>stopped and was refractory,</i> (S, K,) <i>and lay down,</i> or <i>kneeled and lay down, upon her breast, without disease or other like cause,</i> (S,) <i>and would not move from her place:</i> (Lh, K:) like اَلَحَّ said of a he-camel, and حَرَنَ said of a horse: (S:) the epithet applied to her that does thus is ↓ <br>\
+      خَالِيٌ, (Lh, K,) without ة; (Lh;) and [app. to her that does so much, or often,] ↓ <br>\
+      خَلُوْءٌ. (K.) And in like manner خَلَاَ is said of a he-camel; (K;) accord. to ISh, only of a he-camel: (TA:) or the verb is used only in speaking of a female [when relating to a camel]: (K:) one should not say of a he-camel خَلَاَ: (Az, S, Z, Sgh:) but it is also said of a man, (K,) tropically, (TA,) inf. n. خُلُوْءٌ, meaning (tropical:)  <i>He moved not from his place.</i> (K, TA.) ―         -b2-  [See also what next follows.]    </entryFree> <br>\
+<b>خالا القَوْمُ</b>               1     <br>\
+                     خالا القَوْمُ<br>\
+                     ذ<br>\
+                   [in the CK خَلَاَ] <i>The people,</i> or <i>party,</i> or <i>company of men, left one thing, and betook themselves to another.</i> (Th, K, TA.) [خَالَى (see 3 in art. خلو) has a similar meaning.]    </entryFree> <br>\
+<b>خَلُوْءٌ</b>               1     <br>\
+                     خَلُوْءٌ<br>\
+                     خل<br>\
+                     خلوء<br>\
+                  : see 1.    </entryFree> <br>\
+<b>خَالِيٌ</b>               1     <br>\
+                     خَالِيٌ<br>\
+                     ذ<br>\
+                  : see 1.   </entryFree> <br>\
+' } );

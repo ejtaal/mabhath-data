@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>صلط</em>            1                  صلط<br>\
+<b>صَلَّطَهُ اْللّٰهُ عَلَيْهِ</b>               1     <br>\
+                     صَلَّطَهُ اْللّٰهُ عَلَيْهِ<br>\
+                     ذ<br>\
+                  , inf. n. تَصْلِيطٌ, a dial. var. of سَلَّطَهُ, q. v. (Ibn-&#39; Abbád, K.)   </entryFree> <br>\
+' } );

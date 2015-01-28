@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>لال</em>            1                  لال<br>\
+<b>لَاّلٌ</b>               1     <br>\
+                     لَاّلٌ<br>\
+                     ذ<br>\
+                  : see art. لا.    </entryFree> <br>\
+<b>لِيَالَةٌ</b>               1     <br>\
+                     لِيَالَةٌ<br>\
+                     ذ<br>\
+                  : see art. لا.    </entryFree> <br>\
+<b>لِيَلَّا</b>               1     <br>\
+                     لِيَلَّا<br>\
+                     ذ<br>\
+                  <i>Lest; in order that not.</i>   <br>\
+' } );

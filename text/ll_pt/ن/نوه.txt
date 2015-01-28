@@ -1,0 +1,9 @@
+load_data( { book: 'll_pt', text: '<em>نوه</em>            1                  نوه<br>\
+<b>نَاهَ بِهِ</b>               1     <br>\
+                     نَاهَ بِهِ<br>\
+                     ذ<br>\
+                   (Msb) and بِهِ ↓ <br>\
+      نَوَّهَ (S, Mgh, Msb, K) <i>He rendered famous</i> (S, Mgh, Msb, K *) and <i>magnified;</i> (Msb;) and <i>rendered notorious;</i> (Mgh;) <i>it,</i> (S, Msb,) namely a person&#39;s name, (S,) or a thing, (Msb,) or <i>him.</i> (Mgh.)    </entryFree> <br>\
+                     نَوَّهَ<br>\
+                   see 1.   </entryFree> <br>\
+' } );

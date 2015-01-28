@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>جلسد</em>            1                  جلسد<br>\
+<b>جَلْسَدٌ</b>               1     <br>\
+                     جَلْسَدٌ<br>\
+                     جلسد<br>\
+                   and الجَلْسَدُ: see art. جسد   <br>\
+' } );

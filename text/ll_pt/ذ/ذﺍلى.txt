@@ -1,0 +1,37 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ذالى&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ذالى<br>\
+&lt;entryFree id=&quot;n14006&quot; key=&quot;ذَلَىالرُّطَبَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ذَلَىالرُّطَبَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, like سَعَى, (K,) [i. e.,] aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     ذَاَلَ<br>\
+                  &lt;/form&gt;, inf. n. ذَلْىٌ, (TA,) &lt;i&gt;He gathered the fresh ripe dates:&lt;/i&gt; (K:) so in the copies of the K; in which is added, فَاْنْذَلَى مَعَهُ: but what we find in the Tekmileh is this: ظلّ يذلى الرطب اى يجنيه <br>\
+                  فينذلى معه: and يذلى is written as [the aor. of] a quadriliteral [i. e. as the aor. of اذلى, for it is without a sheddeh]: (TA:) [here, however, فينذلى is evidently, in my opinion, a mistranscription for فَيَتَدَلَّى; and the right reading and rendering I therefore hold to be as follows: الرُّطَبَ ↓ <br>\
+      ظَلَّ يُذْلِى, or perhaps يَذْلَى, means &lt;i&gt;He continued gathering the fresh ripe dates, they hanging down with him:&lt;/i&gt; for the gatherer laying hold upon the raceme, it hangs down with his weight. In the TK, this passage in the TA has been misunderstood and misrepresented, as though it meant that اَذْلَى مَعَهُ signifies “ he gathered with him. ”]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     اَذْاَلَ<br>\
+                  &lt;/form&gt; see the preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14007&quot; key=&quot;تذلّى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تذلّى<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تذلّل [&lt;i&gt;He became lowly, humble,&lt;/i&gt; or &lt;i&gt;submissive;&lt;/i&gt; or &lt;i&gt;he lowered, humbled,&lt;/i&gt; or &lt;i&gt;submitted, himself&lt;/i&gt;]: (T, K:) the latter verb is the original: the former being like تظنّى, originally تظنّن. (T.) [See also the next paragraph.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14008&quot; key=&quot;اِذْلَوْلَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;12&lt;/itype&gt;        <br>\
+                     اِذْلَوْلَى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, K,) inf. n. اِذْلِيلَا=ءٌ, (S,) &lt;i&gt;He went away hiding himself; stole away secretly.&lt;/i&gt; (T, S, M, K.) ―         -b2-  &lt;i&gt;He hastened, made haste, sped,&lt;/i&gt; or &lt;i&gt;went quickly;&lt;/i&gt; (TA;) [like ادلولى;] and (TA) &lt;i&gt;he did so in fear lest a thing should escape him.&lt;/i&gt; (T, TA.) And اذلولى فَذَهَبَ <br>\
+                  &lt;i&gt;He went back,&lt;/i&gt; or &lt;i&gt;away, running quickly.&lt;/i&gt; (T.) ―         -b3-  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, easy, tractable, submissive,&lt;/i&gt; or &lt;i&gt;manageable.&lt;/i&gt; (M, K.) [See also 5.] ―         -b4-  &lt;i&gt;He&lt;/i&gt; (a man) &lt;i&gt;was,&lt;/i&gt; or &lt;i&gt;became, broken-hearted.&lt;/i&gt; (T, K.) ―         -b5-  &lt;i&gt;It&lt;/i&gt; (the ذَكَر) &lt;i&gt;stood in a lax state.&lt;/i&gt; (T, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14009&quot; key=&quot;ذَلَوْلًى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ذَلَوْلًى<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, [in copies of the K ذَلَولَى,] applied to a man, &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مُذْلَوْلٍ [part. n. of 12, q. v.]: (K, TA: [in some copies of the K مَذْلُولٌ:]) of the measure فَعَوْعَلٌ; or, as some say, فَعَلْعَلٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n14010&quot; key=&quot;رِشَا=ءٌ مُذْلَوْلٍ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِشَا=ءٌ مُذْلَوْلٍ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;A well-rope&lt;/i&gt;] &lt;i&gt;unsteady;&lt;/i&gt; or &lt;i&gt;moving about,&lt;/i&gt; or &lt;i&gt;to and fro,&lt;/i&gt; or &lt;i&gt;from side to side.&lt;/i&gt; (T.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,32 @@
+load_data( { book: 'll_nvd', text: 'جيد1<br>\
+جَيِدَ, (Lh, L,) or جَادَ, of the same class<br>\
+as تَعِبَ, aor. يَجَادُ, (Msb,) inf. n. جَيَدٌ, (Lh, S,<br>\
+A, L, Msb, K,) He had a long neck: (A, Msb,<br>\
+K:) or a long and beautiful neck: (S, L:) or a<br>\
+slender and long neck. (L, K.)<br>\
+جِيدٌ, of the measure فِعْلٌ, (Sb, Akh,) or it may<br>\
+be originally of the measure فُعْلٌ, (Sb, TA,) The<br>\
+neck: (S, L, Msb, K:) said by Sh to be used<br>\
+only in praise; and عُنُقٌ, in dispraise; the use of<br>\
+the former in the Kur exi. being ironical; (TA;)<br>\
+but accord. to Esh-Shiháb, the contr. is often the<br>\
+case: (MF:) generally applied to that of a<br>\
+woman: (L:) or the part of the neck upon which<br>\
+the necklace lies: or its fore part: (L, K:) pl.<br>\
+[of pauc.] أَجْيَادٌ (S, L, Msb, K) and [of mult.]<br>\
+جُيُودٌ. (L, K.) لَيِّنَةُ الأَجْيَادِ means A female soft<br>\
+in respect of the neck; as though the term جِيدٌ<br>\
+applied to each distinct part of the neck, and the<br>\
+pl. denoted the whole neck. (L.)<br>\
+جَيْدَانَةٌ: see أَجْيَدُ.<br>\
+جَيِّدٌ: see art. جود.<br>\
+أَجْيَدُ Having a long neck: (A, Msb, K:) or<br>\
+having a long and beautiful neck: (S, L:) or<br>\
+having a slender and long neck: (L, K:) or it is<br>\
+not applied to a man: (T, TA:) fem. جَيْدَآءُ, (S,<br>\
+L, Msb, K,) with which ↓ جَيْدَانَةٌ is syn.; (K;)<br>\
+or this signifies having a beautiful neck: (L:)<br>\
+pl. جُودٌ [originally جُيْدٌ]. (S, A, K.) And عُنُقٌ<br>\
+أَجْيَدُ A long and beautiful, or slender and long,<br>\
+neck. (L.)<br>\
+' } );

@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>ماق</em>            1                  ماق<br>\
+<b>مَاْقٌ</b>               1     <br>\
+                     مَاْقٌ<br>\
+                     ذ<br>\
+                   and مُوْقٌ and مَاْقٍ: see مَاوًى.    </entryFree> <br>\
+<b>مَاَقَةٌ</b>               1     <br>\
+                     مَاَقَةٌ<br>\
+                     ذ<br>\
+                  <i>A sobbing;</i> i. e. <i>an affection like what is termed</i> <br>\
+                  فُوَاق, <i>as though it were breath heaved from the chest, on an occasion of weeping,</i> and <i>of being choked with weeping.</i> (S, K.)   </entryFree> <br>\
+' } );

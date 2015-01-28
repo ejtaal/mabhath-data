@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>هيه</em>            1                  هيه<br>\
+<b>هِيهَ</b>               1     <br>\
+                     هِيهَ<br>\
+                     ذ<br>\
+                   and هِيهِ and هِيهٍ: see اـِيهَ and ايهِ and اـِيهٍ    <br>\
+<b>هَيْهَاتَ كَذَا</b>               1     <br>\
+                     هَيْهَاتَ كَذَا<br>\
+                     ذ<br>\
+                  <i>Far, or far from being believed</i> or <i>from the truth, is such a thing;</i> as also هَيْهَاتَ <br>\
+                  لِكَذَا: or the latter means <i>remoteness,</i> or <i>remoteness from being believed</i> or <i>from the truth, is to be attributed to such a thing:</i> <br>\
+                  هَيْهَاتَ followed by لِ means بَعُدَ, (Jel, in xxiii. 38,) or بَعُدَ <br>\
+                  التَّصْدِيقُ or الصِّحَّةُ: (Bd, ibid:) or البُعْدُ: (Bd, ibid, TA:) and without لِ after it, it denotes the pronouncing [a thing] remote. (TA.) See اَيْهَاتَ. ―         -b2-  هَيْهَات denotes one&#39;s deeming a thing remote, or improbable, and despairing of it; and means بَعُدَ جِدًّا [<i>Very far,</i> &amp;amp;c.], or ما اَبْعَدَ [<i>How far,</i> &amp;amp;c.]; implying more than بَعُدَ though we render it by this word. (Kull, p. 382.)   </entryFree> <br>\
+' } );

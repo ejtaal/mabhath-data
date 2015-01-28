@@ -1,0 +1,18 @@
+load_data( { book: 'll_nvd', text: 'كمسكَيْمُوسٌ [Chyme; from the Greek<br>\
+χυμό�;]<br>\
+a term applied by the physicians to the food<br>\
+when it is digested in the stomach before it departs<br>\
+thence and becomes blood; also called كَيْلُوسٌ:<br>\
+(L, TA:) [but the latter word more properly<br>\
+signifies “ chyle, ” and in this sense is used by<br>\
+modern physicians:] a certain mixture or humour<br>\
+(خِلْطٌ): a Syriac word: (K:) [or Greek, as<br>\
+mentioned above:] Az says, that كَيْمُوسَاتٌ, as<br>\
+used by the physicians, signifies the four<br>\
+humours; and is not Arabic, but ancient Greek.<br>\
+(TA.)<br>\
+كَيْمُوسِيَّةٌ Want, or requirement, of food, or<br>\
+nourishment. Occurring in a trad. of Kuss,<br>\
+where it is said to be not an attribute of God.<br>\
+(ISd, TA.)<br>\
+' } );

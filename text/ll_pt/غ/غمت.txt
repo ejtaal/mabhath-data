@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>غمت</em>            1                  غمت<br>\
+<b>غَمَتَهُ</b>               1     <br>\
+                     غَمَتَهُ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     غَمِتَ<br>\
+                  , (S, O, K,) inf. n. غَمْتٌ, (S, O,) <i>It</i> (i. e. food) <i>was,</i> or <i>became, heavy upon his heart</i> [or <i>stomach</i>], (Ks, S, O, K,) <i>he having eaten much thereof so that it caused him to suffer indigestion,</i> (Ks, O,) <i>and it rendered him like one intoxicated:</i> (K:) or, accord. to Sh, <i>it</i> (i. e. grease) <i>rendered him like one intoxicated,</i> (O, TA,) <i>in consequence of indigestion.</i> (TA.) ―         -b2-  And <i>He covered it;</i> (O, K;) namely, a thing. (K.) ―         -b3-  And غَمَتَهُ فِى المَا=ءِ <br>\
+                  <i>i. q.</i> <br>\
+                  غَطَّهُ [i. e. <i>He immersed,</i> or <i>plunged, him,</i> or <i>it, into the water;</i> like غَتَّهُ]. (IDrd, O, K.) ―         -b4-  And غَمَتَ نَفَسًا <br>\
+                  <i>He made a sign,</i> or <i>motion, with&#39; his head,</i> (O,) or <i>he raised his head,</i> (K,) [<i>for the purpose of taking breath,</i>] <i>in drinking.</i> (O, K.)       -A2-  غَمِتَ <br>\
+                  <i>He became like one intoxicated, by grease</i> [<i>in his stomach</i>]: (Sh, O:) or <i>he suffered from the heaviness of food upon his heart</i> [or <i>stomach</i>] <i>so that he became like one intoxicated.</i> (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>غذى</em>            1                  غذى<br>\
+<b>غَذَيْتُهُ</b>               1     <br>\
+                     غَذَيْتُهُ<br>\
+                     ذ<br>\
+                  : see 1 (first sentence) in art. غذو.   </entryFree> <br>\
+' } );

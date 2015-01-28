@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>دغص</em>            1                  دغص<br>\
+<b>دَاغِصَةٌ</b>               1     <br>\
+                     دَاغِصَةٌ<br>\
+                     داغصه<br>\
+                     داغصة<br>\
+                   [The <i>patella,</i> or <i>knee-pan;</i>] the <i>round bone which moves about in the head of the knee;</i> (S, K;) or <i>which turns aside and moves about above the</i> <br>\
+                  رَضْف <br>\
+                  <i>of the knee</i> [which are said to be certain bones in the knee, like fingers put together, holding together one another]: (TA:) or the <i>bone in the inside of the knee, on the right and left of which are the ligaments</i> (العَصَب [app. meaning the internal and external lateral ligaments of the knee-joint, between which is the patella]): (IDrd, TA:) or <i>a bone having at its extremity</i> (فِى طَرَفِهِ [perhaps a mistake for فِى <br>\
+                  طَرَفَيْهِ <br>\
+                  <i>at its two extremities</i>]) <i>two ligaments</i> (عَصَبَتَانِ [app. the tendon of the extensor muscles of the leg and the ligamentum patellæ]), <i>at the head of the</i> <br>\
+                  وَابِلَة [a bone in the knee-joint]: (TA:) it is a subst., like كَاهِلٌ and غَارِبٌ: (TA:) also [explained as signifying] the <i>piece,</i> or <i>portion, of fat beneath the skin that is above the knee:</i> or, as some say, the <i>ligament</i> (عَصَبَة) [<i>in that part</i>]. (TA.) ―         -b2-  Also <i>Compact flesh:</i> pl. دَوَاغِصُ. (TA.) You say of a man whose flesh is compact, كَاَنَّهُ دَاغِصَةٌ [<i>As though he were a</i> <br>\
+                  داغصة]. (TA.)       -A2-  Also <i>Clear, shallow, water:</i> (IDrd, K:) pl. as above. (K.)   </entryFree> <br>\
+' } );

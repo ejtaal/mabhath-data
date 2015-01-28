@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>كسو</em>            1                  كسو<br>\
+<b>كَسَوْتُهُ سَيْفًا</b>               1     <br>\
+                     كَسَوْتُهُ سَيْفًا<br>\
+                     ذ<br>\
+                   [<i>I invested him with a sword</i>]. (TA in art. غشو.)    </entryFree> <br>\
+<b>تكسى</b>               1     <br>\
+                     تكسى<br>\
+                     ذ<br>\
+                  : see تقى.    </entryFree> <br>\
+<b>كِسَا=ءٌ</b>               1     <br>\
+                     كِسَا=ءٌ<br>\
+                     ذ<br>\
+                   [<i>A garment</i>]. See عَبَا=ءٌ, and حِلْسٌ and مُسَيَّحٌ. ―         -b2-  ذُو كِسَا=ءٍ, as opposed to ذُوبُرْدٍ, (assumed tropical:)  <i>A poor man.</i> (S, art. عج.) [The كساء was evidently a simple oblong piece of cloth; for الكِسَايِى is said to have been thus named because he wore a كساء while in the state of اـِحْرَام; as is mentioned in the TA, art. كسو; but it seems to have been sometimes sewed in the manner of the عَبَا=ء, which see; and see also مُسَيَّحٌ, and بُرْدٌ.] It is [properly] not one of the garments which are cut and sewed [but is a single piece]: (Mgh, art. قطع:) [<i>a wrapper,</i> or <i>wrapping garment, of a single piece</i>]. ―         -b3-  رَكِبَ كِسَا=ءَهُ <br>\
+                  <i>He fell upon the back of his neck.</i> (IAar, in TA, art. ردع.)    </entryFree> <br>\
+<b>كَاسٍ</b>               1     <br>\
+                     كَاسٍ<br>\
+                     ذ<br>\
+                  <i>Having clothing:</i> see an ex. voce رُبَّ.    </entryFree> <br>\
+<b>اَكْسَى</b>               1     <br>\
+                     اَكْسَى<br>\
+                     ذ<br>\
+                  : see بَصَلٌ.   </entryFree> <br>\
+' } );

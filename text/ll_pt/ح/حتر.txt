@@ -1,0 +1,15 @@
+load_data( { book: 'll_pt', text: '<em>حتر</em>            1                  حتر<br>\
+<b>حِتَارٌ</b>               1     <br>\
+                     حِتَارٌ<br>\
+                     حتار<br>\
+                   The <i>circuit, rim,</i> or <i>surrounding edge,</i> of a thing; <i>what surrounds</i> [<i>the whole</i> of] a thing: (S, K:) pl. حُتُرٌ. (S.) ―         -b2-  The <i>hoop</i> of a sieve [and the like]. (TA.) ―         -b3-  The <i>anus;</i> syn. حَلْقَةُ الدُّبُرِ; (K;) or such is the meaning حِتَارُ <br>\
+                  الدُّبُرِ, and شَرَجُهُ: (Mgh in art. شرج:) and the <i>extremities of its skin;</i> i. e. the <i>place where the external skin and the extremities of the</i> <br>\
+                  خَوْرَان [or <i>rectum</i>] <i>meet:</i> or the <i>edges of the</i> <br>\
+                  دُبُر [or <i>anus</i>]: (TA:) or the <i>part between the anus and the anterior pudendum:</i> or the <i>line between the two testicles.</i> (K.) ―         -b4-  حِتَارُ الاُذُنِ <br>\
+                  <i>The circuit of the edges of the gristles of the ear.</i> (TA.) ―         -b5-  حِتَارُ العَيْنِ <br>\
+                  <i>The edges of the eyelids, which meet when the eye is closed:</i> (TA:) or <i>the</i> <br>\
+                  زِيق <br>\
+                  <i>of the eyelid,</i> (K accord. to some copies, [and this is the right reading, meaning <i>its edge,</i> <br>\
+                  زيق being here used tropically, its proper signification being the “ part ” of a shirt “ that surrounds the neck, ”] as is said in the TA,) <i>internally:</i> in most copies of the K رَيْقُ الجَفْنِ, [in the CK رِيقُ الجُفْنِ,] with راء [not زاى]. (TA.) ―         -b6-  حِتَارُ الظُّفُرِ <br>\
+                  <i>The part of the flesh which is around the nail.</i> (TA.)   </entryFree> <br>\
+' } );

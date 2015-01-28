@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;شلياق&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  شلياق<br>\
+&lt;entryFree id=&quot;n22931&quot; key=&quot;الشَّلْيَاقُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     الشَّلْيَاقُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain northern constellation,&lt;/i&gt; [namely, &lt;i&gt;Lyra,&lt;/i&gt;] &lt;i&gt;consisting of ten stars, the bright star&lt;/i&gt; [alpha] &lt;i&gt;of which is called&lt;/i&gt; <br>\
+                  النَّسْرُ الوَاقِعُ: &lt;i&gt;the Arabs liken it to a vulture&lt;/i&gt; (نَسْر) &lt;i&gt;which has contracted its wings to itself, as though it had alighted upon a thing: the vulgar call&lt;/i&gt; [&lt;i&gt;the three chief stars in&lt;/i&gt;] &lt;i&gt;it&lt;/i&gt; <br>\
+                  الاَثَافِى: &lt;i&gt;and before the bright star is a dim star which the Arabs call&lt;/i&gt; <br>\
+                  الاَظْفَار [i. e. &lt;i&gt;the talons&lt;/i&gt;]. (Kzw. [Not in any of my Lexicons.])   &lt;/entryFree&gt; <br>\
+' } );

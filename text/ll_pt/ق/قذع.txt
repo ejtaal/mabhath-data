@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قذع</em>            1                  قذع<br>\
+<b>قَاذَعَهُ</b>               1     <br>\
+                     قَاذَعَهُ<br>\
+                     ذ<br>\
+                  <i>He reviled him, being reviled by him;</i> and <i>vied with him in foul,</i> or <i>unseemly, speech</i> or <i>language.</i> (A, K.) See 3 in art. قدح.   </entryFree> <br>\
+' } );

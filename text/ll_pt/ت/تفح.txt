@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>تفح</em>            1                  تفح<br>\
+<b>اتفحهُ</b>               1     <br>\
+                     اتفحهُ<br>\
+                     اتفحه<br>\
+                     اتفحة<br>\
+                   [<i>He gave him an apple</i>]. You say, اَتْحَفَكَ مَنْ اَتْفَحَكَ [<i>He makes a present to thee who gives thee an apple</i>]. (A: there immediately following the saying, فُلَانٌ تُحْفَتُهُ تُفَّاحَةٌ.)    </entryFree> <br>\
+<b>تَفْحَةٌ</b>               1     <br>\
+                     تَفْحَةٌ<br>\
+                     فح<br>\
+                     تفحه<br>\
+                     تفحة<br>\
+                  <i>A sweet odour.</i> (Abu-l-Khattáb, L.)    </entryFree> <br>\
+<b>تُفَّاحٌ</b>               1     <br>\
+                     تُفَّاحٌ<br>\
+                     تفاح<br>\
+                  , of the measure فُعَّالٌ; an Arabic word; [not arabicized;] (Msb;) [The <i>apple,</i> or <i>apples;</i>] <i>a certain fruit,</i> (L, Msb,) <i>well known,</i> (S, L, Msb, K,) <i>plentiful in</i> [<i>the cooler parts of</i>] <i>the land of the Arabs:</i> (AHn, TA:) the word is said by Abu-l-Khattáb to be derived from تَفْحَةٌ “ a sweet odour: ” (L:) the n. un. is with ة: (S, L, Msb:) the pl. is تَفَافِيحُ: (T:) and the dim. of the n. un. is ↓ <br>\
+      تُفَيْفيحَةٌ. (L.) You say, فُلَانٌ تُحْفَتُهُ تُفَّاحَةٌ [<i>Such a one, his present is an apple</i>]. (A.) ―         -b2-  تُفَّاحُ الحُبِّ and تُفَّاحٌ ذَهَبِىٌّ: see بَاذَنْجَانٌ. ―         -b3-  تُفَّاحُ <br>\
+                  البَرِّ: see يَبْرُوحٌ, in art. برح. ―         -b4-  التُّفَّاحَةُ also signifies (tropical:)  <i>The head of the thigh-bone, which is in the haunch-bone.</i> (Kr, A, K.) ―         -b5-  لَطَمْنَ بِالعُنَّابِ التُّفَّاحَ [lit. <i>They</i> (women) <i>slapped, with the jujubes, the apples</i>] means, (tropical:)  <i>with the fingers,</i> or <i>the ends of the fingers, the cheeks.</i> (A.)    </entryFree> <br>\
+<b>تُفَيْفِيحَةٌ</b>               1     <br>\
+                     تُفَيْفِيحَةٌ<br>\
+                     تفيفيحه<br>\
+                     تفيفيحة<br>\
+                  : see تُفَّاحٌ.    </entryFree> <br>\
+<b>مَتْفَحَةٌ</b>               1     <br>\
+                     مَتْفَحَةٌ<br>\
+                     متفحه<br>\
+                     متفحة<br>\
+                  <i>A place where apples grow</i> (L, K) <i>in abundance.</i> (L.)   </entryFree> <br>\
+' } );

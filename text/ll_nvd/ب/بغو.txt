@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'بغو1<br>\
+بَغَا الشَّىْءَ, inf. n. بَغْوٌ, He looked at the<br>\
+thing [to see] how it was; (K;) as also بَغَى, (K<br>\
+in art. بغى,) inf. n. بَغْىٌ. (TA in that art.)<br>\
+' } );

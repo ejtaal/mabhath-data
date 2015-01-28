@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'حيز1<br>\
+حَازَهُ, aor. يَحِيزُهُ, inf. n. حَيْزٌ: see 1 in art.<br>\
+حوز, in three places.<br>\
+Quasi 5. تحيّز: see 5, and 7, and Q. Q. 2, in<br>\
+art. حوز; the first in six places.<br>\
+حَيِّزٌ and حَيْزٌ: see art. حوز.<br>\
+' } );

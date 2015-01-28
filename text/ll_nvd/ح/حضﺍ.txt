@@ -1,0 +1,21 @@
+load_data( { book: 'll_nvd', text: 'حضأ1<br>\
+حَضَأَ النَّارَ, (S, K,) aor.<br>\
+حَضَاَ, (K,) He lighted,<br>\
+or kindled, the fire; or made it to burn, burn up,<br>\
+burn brightly or fiercely, blaze, or flame: (S, K:)<br>\
+or he opened it, (K,) i. e. stirred it, (TA,) in<br>\
+order that it might blaze, or flame; as also<br>\
+↓ احتضأها. (K.) It is also without ء. (S. [See<br>\
+art. حضو.])<br>\
+-A2-  حَضَأَتِ النَّارُ The fire became lighted<br>\
+or kindled; or it burned, burned up, &amp;c. (K.)<br>\
+8<br>\
+إِحْتَضَاَ see above.<br>\
+أَبْيَضُ حَضِىْءٌ, (K,) so accord. to the correct<br>\
+copies of the K, but in some copies حَضِىٌّ, (TA,)<br>\
+Very white. (K.)<br>\
+مِحْضَأٌ A stick, or piece of wood, with which a<br>\
+fire is stirred; as also مَحْضَآءٌ; (S, K;) the latter<br>\
+accord. to those who pronounce the verb without ء.<br>\
+(S.)<br>\
+' } );

@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'كيل8<br>\
+اِكْتَالَ عَلَيْهِ and<br>\
+مِنْهُ<br>\
+: see عَلَى in the sense<br>\
+of مِنْ.<br>\
+كَيْلٌ<br>\
+: see مِكْيَالٌ.<br>\
+كَيَّالٌ<br>\
+[A measurer of corn and the like]. (A,<br>\
+art. بخس.)<br>\
+مِكْيَالٌ<br>\
+A measure with which corn is measured;<br>\
+(S, Msb, K;) as also ↓ كَيْلٌ; (Msb;) a measure<br>\
+of capacity.<br>\
+' } );

@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>فقص</em>            1                  فقص<br>\
+<b>فَقَصَ</b>               1     <br>\
+                     فَقَصَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     فَقِصَ<br>\
+                  , (Lth, Lh, M, O, K,) inf. n. فَقْصٌ; (Lth, Lh, IDrd, M, O;) <i>He broke;</i> (Lth, Lh, M, O, K;) or <i>crushed;</i> (Lh, O, K;) an egg, (Lh, IDrd, M, O, K,) and the like thereof, (IDrd, O,) and any hollow thing; (Lth, M, O;) as also ↓ <br>\
+      فقّص, inf. n. تَفْقِيصٌ: (M, TA:) and <i>he</i> (a bird) <i>broke asunder</i> an egg from over the young bird: (A and TA in explanation of the former verb:) and فَقَسَ, aor.      <br>\
+                     فَقِصَ<br>\
+                  , inf. n. فَقْسٌ, signifies the same as فَقَصَ. (Lh, O.) ―         -b2-  فَقَصَ فُلَانٌ بَيْضَ الفِتْنَةِ [lit. <i>Such a one broke asunder the eggs of sedition,</i> or <i>the like,</i>] is a tropical phrase [meaning (tropical:)  <i>such a one originated sedition,</i> &amp;amp;c.]. (A, TA.) ―         -b3-  [Golius has assigned to فَقَصَ, constr. with an accus., another signification (“ <i>assecutus fuit</i> rem ”), as on the authority of the K; app. from a mistranscription in the explanation of المِفْقَاص, in a copy of that lexicon.]    </entryFree> <br>\
+                     فَقَّصَ<br>\
+                   see the preceding paragraph.    </entryFree> <br>\
+                     تَفَقَّصَ<br>\
+                   see what next follows.    </entryFree> <br>\
+<b>انفقصت البَيْضَةُ</b>               1     <br>\
+                     انفقصت البَيْضَةُ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      تفقّصت <br>\
+                  <i>The egg broke</i> [or <i>broke asunder</i>] عَنِ الفَرْخِ [<i>from over the young bird</i>].    </entryFree> <br>\
+<b>بَيْضَةٌ فَقْصَةٌ</b>               1     <br>\
+                     بَيْضَةٌ فَقْصَةٌ<br>\
+                     ذ<br>\
+                  : see مَفْقُوصَةٌ.    </entryFree> <br>\
+<b>فَقِيصٌ</b>               1     <br>\
+                     فَقِيصٌ<br>\
+                     ذ<br>\
+                   as an epithet: see its fem. voce مَفْقُوصَةٌ.       -A2-  Also <i>An iron thing like a ring, among the apparatus of the tiller of land,</i> (Lth, O, K,) <i>which clasps together</i> [app. <i>at the upper parts, so as to form a support like a trevet, for his provisions &amp;amp;c.,</i>] <i>several separate sticks,</i> or <i>pieces of wood, set over against one another.</i> (Lth, O.)    </entryFree> <br>\
+<b>فَقُّوصٌ</b>               1     <br>\
+                     فَقُّوصٌ<br>\
+                     ذ<br>\
+                  , (Lth, O, K,) or فَقُّوصَةٌ, (M,) [the former a coll. gen. n., and the latter its n. un.,] <i>A melon</i> (بِطِيخةٌ) <i>before it has become ripe:</i> (Lth, M, O, K:) a word of the dial. of Egypt: (Lth, O, K:) [but now applied in Egypt to the <i>cucumis sativus</i> (or <i>common cucumber</i>); (Forskål&#39;s Flora Aegypt. Arab., pp. lxxvi., 169;) or, particularly, <i>cucumis sativus fructu albo:</i> (Delile&#39;s Floræ Aegypt. Illustr., no. 929:)] also mentioned as with س for the last letter. (TA.)    </entryFree> <br>\
+<b>مِفْقَاصٌ</b>               1     <br>\
+                     مِفْقَاصٌ<br>\
+                     ذ<br>\
+                   [<i>A kind of mace;</i>] <i>a thing like a pomegranate, at the end of an iron rod, that breaks,</i> or <i>crushes, everything that it reaches.</i> (Ibn- &#39;Abbád, O, K.)    </entryFree> <br>\
+<b>بَيْضَةٌ مَفْقُوصَةٌ</b>               1     <br>\
+                     بَيْضَةٌ مَفْقُوصَةٌ<br>\
+                     ذ<br>\
+                   and ↓ <br>\
+      فَقِيصَهٌ (IDrd, O, K) and ↓ <br>\
+      فَقْصَةٌ (CK [but not found by me elsewhere]) <i>An egg broken,</i> or <i>crushed.</i> (IDrd, O, K.)   </entryFree> <br>\
+' } );

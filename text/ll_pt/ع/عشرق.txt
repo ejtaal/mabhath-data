@@ -1,0 +1,30 @@
+load_data( { book: 'll_pt', text: '<em>عشرق</em>            1                  عشرق<br>\
+<b>عَشْرَقَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     عَشْرَقَ<br>\
+                     ذ<br>\
+                  , said of a plant, or of herbage, and [عَشْرَقَت] said of land, <i>It became green.</i> (Ibn- &#39;Abbád, O, K.)    </entryFree> <br>\
+<b>عِشْرِقٌ</b>               1     <br>\
+                     عِشْرِقٌ<br>\
+                     ذ<br>\
+                  <i>A certain plant,</i> (S, K,) <i>of the</i> [<i>kind of plants called</i>] اَغْلَاث, <i>the grain of which is good for the piles, and for generating milk, and blackens the hair,</i> (K,) or <i>the leaves whereof, which are like those of the</i> <br>\
+                  عِظْلِم, <i>intensely green, blacken the hair when it is dressed therewith, and cause it to grow:</i> (TA:) n. un. with ة: (K:) Aboo-Ziyád says, it is <i>of the</i> [<i>kind of plants called</i>] اَغْلَاث, and is <i>a tree</i> [or <i>plant</i>] <i>that spreads upon the ground, having thick</i> [in the TA <i>wide</i>] <i>leaves, and not having thorns, and is scarcely,</i> or <i>never, eaten by anything but the goats, which take some little thereof, except its grain, for this is eaten: some of the Arabs call it</i> <br>\
+                  فَنًا; <i>and when a grain thereof falls upon the ground and dries, it becomes red as though it were a bit of red wool: sometimes,</i> he says, <i>the women use its leaves in combing and dressing their hair, which it blackens, and causes to grow:</i> he says also, an Arab of the desert, of Rabee&#39;ah, informed me that <i>the</i> <br>\
+                  عِشْرِقَة <br>\
+                  <i>rises upon a short stem, then spreads into many branches, and bears numerous fruits, which are long, broad pods, in every one of which pods are two rows of grains exactly like the stones of raisins, and these are eaten while fresh, and are cooked, and are pleasant in taste; and when the wind blows, those pods become in a state of commotion, being suspended by slender stalks, so that they make a rustling sound, and you hear, in the valley in which they are found, a low and confused sound, which frightens the camels; and the serpents do not make their abode in that valley, fleeing from the sound: its leaves are like those of the</i> <br>\
+                  عِظْلِم, <i>intensely green; and its grain is white, pleasant to the taste, easily broken, unctuous, and hot; good for the piles:</i> Aboo-Ziyád also says that <i>the</i> <br>\
+                  عِشْرِق <br>\
+                  <i>and</i> <br>\
+                  سَنًا [i. e. <i>senna</i>] <i>are like each other, except that the leaves of the latter are thin;</i> also, that an Arab of the desert, of the Benoo-Asad,  told him that <i>the blossom of the</i> <br>\
+                  عِشْرِق <br>\
+                  <i>inclines to whiteness;</i> and that <i>the places of its growth were said by some to be the rugged tracts:</i> (O:) Az says that it is <i>a herb of which the leaves and produce are like those of the</i> <br>\
+                  غَار [or <i>bay</i>], <i>except in being larger:</i> IAar, that it is <i>a red plant, of sweet odour, used by the brides:</i> and IB, from As, that it is <i>a cubit in height, having small grains, and, when dry, producing a sound by reason of the passage of the wind:</i> (TA:) [Forskål (in his Flora Aegypt. Arab. pp. cxi. and 86) mentions it as <i>a species of cassia:</i>] عَشَارِقُ is pl. of عِشْرِقَةٌ, or of the gen. n. عِشْرِقٌ. (TA.)   </entryFree> <br>\
+            <div2 n=&quot;Quasi E$rn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi عشرن<br>\
+<b>عَشْرَنَهُ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     عَشْرَنَهُ<br>\
+                     ذ<br>\
+                  : see art. عشر.   </entryFree> <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>لعث</em>            1                  لعث<br>\
+<b>لَعِثٌ</b>               1     <br>\
+                     لَعِثٌ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَعَثَ<br>\
+                  , (inf. n. لَعَثٌ, TA,) <i>He</i> (a man, TA) <i>was heavy and slow.</i> (K.)    </entryFree> <br>\
+<b>اَلْعَثُ</b>               1     <br>\
+                     اَلْعَثُ<br>\
+                     ذ<br>\
+                   A man (TA) <i>heavy and slow.</i> (K)   </entryFree> <br>\
+' } );

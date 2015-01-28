@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>جوم</em>            1                  جوم<br>\
+<b>جَامٌ</b>               1     <br>\
+                     جَامٌ<br>\
+                     جام<br>\
+                  <i>A vessel,</i> (K,) or فَاثُور [i. e. <i>a basin,</i> or <i>a table,</i> or <i>a tray used as a table</i>], (IAar, TA,) <i>of silver:</i> (IAar, K, TA:) or <i>a white dish</i> or <i>tray, of glass</i> or <i>of silver:</i> (Mgh:) or <i>a vessel</i> (ظَرْف) <i>of glass:</i> (Har p. 200:) [a Persian word, i. e. جَامْ, arabicized; or] a genuine Arabic word: (TA:) pl. [of pauc.] اَجْوُمٌ, with ء, (IAar, K,) and اَجْوَامٌ, and (as some say, IAar, TA, [of mult.,]) جُومٌ, (K,) with damm, (TA, in the CK جَوْمٌ,) and [of pauc. or mult.] جَامَاتٌ: (IAar, K:) but IB says that جَامٌ is pl. of ↓ <br>\
+      جَامَةٌ, as is also جَامَاتٌ: [instead of which he should rather have said that جام is a coll. gen. n. of which the n. un. is جامة, (though this requires consideration, as the former is commonly used as a sing.,) and that the pl. of the latter is جامات:] that its dim. is ↓ <br>\
+      جُوَيْمَةٌ: and that it, i. e. جام, is of the fem. gender. (TA.)    </entryFree> <br>\
+<b>جَامَةٌ</b>               1     <br>\
+                     جَامَةٌ<br>\
+                     جذام<br>\
+                     جذامه<br>\
+                     جذامة<br>\
+                  : see above.    </entryFree> <br>\
+<b>جُوَيْمَةٌ</b>               1     <br>\
+                     جُوَيْمَةٌ<br>\
+                     جويمه<br>\
+                     جويمة<br>\
+                  : see above.   </entryFree> <br>\
+' } );

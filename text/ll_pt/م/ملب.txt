@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ملب</em>            1                  ملب<br>\
+<b>مَلَابٌ</b>               1     <br>\
+                     مَلَابٌ<br>\
+                     ذ<br>\
+                  : see art. لوب, in which, as well as here, it is mentioned in the K.   </entryFree> <br>\
+' } );

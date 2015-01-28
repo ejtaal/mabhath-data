@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'هنبتQ. 1<br>\
+هَنْبَتَ, inf. n. هَنْبَتَةٌ, He was languid<br>\
+and sluggish. (IKtt, K.) It may be said that<br>\
+the ن is augmentative, and that the word<br>\
+is derived from هَبْتَةٌ, signifying “ weakness. ”<br>\
+(TA.)<br>\
+' } );

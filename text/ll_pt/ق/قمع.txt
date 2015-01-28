@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>قمع</em>            1                  قمع<br>\
+<b>قَمَعَهُ</b>               1     <br>\
+                     قَمَعَهُ<br>\
+                     ذ<br>\
+                  : see قَمَاَهُ.    </entryFree> <br>\
+<b>قَمِعُ البُسْرِ</b>               1     <br>\
+                     قَمِعُ البُسْرِ<br>\
+                     ذ<br>\
+                  <i>What sticks to the date, around its stalk:</i> (Mgh:) <i>the base of the date.</i> (Mgh, art. ذنب.) See ثُفْرُوقٌ. ―         -b2-  See also a use of the pl. اَقْمَاع, voce دَرْدَار. ―         -b3-  قِمَعُ الاُذُونِ <br>\
+                  <i>The meatus of the ear:</i> see جُلْجُلاَنٌ.   </entryFree> <br>\
+' } );

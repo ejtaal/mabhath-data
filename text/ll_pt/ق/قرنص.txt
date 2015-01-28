@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>قرنص</em>            1                  قرنص<br>\
+<b>قَرْنَصَ البَازِىَ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     قَرْنَصَ البَازِىَ<br>\
+                     ذ<br>\
+                  <i>He acquired for himself, permanently, for the chase, the hawk,</i> or <i>falcon,</i> (S, K, TA,) <i>by tying it up in order that its feathers might drop off.</i> (TA.)       -A2-  قَرْنَصَ البَازِى <br>\
+                  <i>The hawk,</i> or <i>falcon, became a permanent acquisition for the chase:</i> the verb being intrans. as well as trans. (K.) Lth mentions it as being written with س [i. e. قَرْنَسَ]. (TA.)    </entryFree> <br>\
+<b>بَازٌ مُقَرْنَصٌ</b>               1     <br>\
+                     بَازٌ مُقَرْنَصٌ<br>\
+                     ذ<br>\
+                  <i>A hawk,</i> or <i>falcon, permanently acquired for the chase,</i> (S, TA,) <i>by the means mentioned above.</i> (TA.)   </entryFree> <br>\
+            <div2 n=&quot;qrw and qrY&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  قرو and قرى<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

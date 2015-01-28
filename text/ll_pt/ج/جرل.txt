@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>جرل</em>            1                  جرل<br>\
+<b>جِرْيَالٌ</b>               1     <br>\
+                     جِرْيَالٌ<br>\
+                     جريال<br>\
+                  <i>A certain red dye.</i> (As, S, K.) ―         -b2-  The <i>redness</i> of gold. (S, K.) ―         -b3-  <i>Pure;</i> applied to red and other colours. (K.) ―         -b4-  Also, (S, K,) and ↓ <br>\
+      جِرْيَالَةٌ, (K,) <i>Wine;</i> (S, K;) <i>inferior in goodness to such as is termed</i> <br>\
+                  سُلَافٌ: (S:) or the <i>colour</i> of wine. (S, K.) The phrase سَلَبْتُهَا جِرْيَالَهَا, used by El-Aashà, [lit. <i>I deprived it,</i> namely, wine, <i>of its colour,</i>] means <i>I drank it red, and discharged it in urine white.</i> (S.)    </entryFree> <br>\
+<b>جِرْيَالَةٌ</b>               1     <br>\
+                     جِرْيَالَةٌ<br>\
+                     جرياله<br>\
+                     جريالة<br>\
+                  : see above.   </entryFree> <br>\
+' } );

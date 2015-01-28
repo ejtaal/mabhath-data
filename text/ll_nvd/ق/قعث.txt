@@ -1,0 +1,79 @@
+load_data( { book: 'll_nvd', text: 'قعث1<br>\
+قَعَثْتُ لَهُ قَعْثَةً, (S, O, K, * TA, *) [accord. to<br>\
+which last, ↓ قَعْثَةٌ is an inf. n., as also قَعْثٌ, but,<br>\
+if an inf. n., it is app. an inf. n. un.,] aor.<br>\
+قَعُثَ,<br>\
+(accord. to the TK, [but I think it is more probably<br>\
+قَعَثَ, agreeably with a general rule, like the<br>\
+aor. of the same verb in the next sentence,])<br>\
+means حَفَنْتُ لَهُ حَفُنَةٌ, (S, O,) i. e. I gave to him<br>\
+a small quantity, (S, O, K, *) مِنَ الشَّىْءِ [of the<br>\
+thing]. (TA.)<br>\
+-A2-  قَعَثَ الشَّىْءَ, aor.<br>\
+قَعَثَ, inf. n. قَعْثٌ,<br>\
+He (a man) eradicated, or uprooted, the thing;<br>\
+(IDrd, O, L;) and (O) so ↓ قعّثهُ, inf. n. تَقْعِيثٌ.<br>\
+(O, K.)<br>\
+2<br>\
+قَعَّثَ see what immediately precedes.<br>\
+4<br>\
+اقعث فِى مَالِهِ He acted extravagantly in<br>\
+respect of his property. (ISk, S, O, K. *) ―<br>\
+-b2-<br>\
+And اقعث لَهُ العَطِيَّةَ He made the gift to him<br>\
+large; (S, O, K, TA;) and so ↓ اِقْتَعَثَهَا, and اقعثهُ<br>\
+[i. e. اقعثهُ العَطِيَّةَ]. (TA. See the verse cited<br>\
+voce مُقْعَثٌ; and the remark of As respecting it.)<br>\
+7<br>\
+انقعث It was, or became, pulled out, or up,<br>\
+(As, S, O, TA,) from the foundation, or utterly;<br>\
+(As, S, TA;) it was, or became, eradicated, or<br>\
+uprooted. (K.) One says, ضَرَبَهُ فَانْقَعَثَ He<br>\
+struck it, and it became pulled out, or up, (As, S,<br>\
+O, TA,) from the foundation, or utterly. (As,<br>\
+S, TA.) ―<br>\
+-b2-  And It (a wall) fell down from its<br>\
+foundation: like انقعف. (As, S, O.)<br>\
+8<br>\
+اقتعث He (a digger) took forth much earth<br>\
+from a well. (O, K.) ―<br>\
+-b2-  See also 4.<br>\
+قَعَثٌ Muchness, or abundance. (TA. [See<br>\
+قَعِيثٌ.])<br>\
+قَعْثَةٌ: see the first sentence of this art.<br>\
+قُعَاثٌ A certain disorder in the noses of sheep,<br>\
+or goats: (O, K:) thus expl. by Aboo-Turáb.<br>\
+(O.)<br>\
+قَعِيثٌ, (O, K,) as expl. by As, (O,) Paltry,<br>\
+or little in quantity; syn. هَيِّنٌ and يَسِيرٌ. (O, K.<br>\
+[See also مُقْعَثٌ.]) ―<br>\
+-b2-  And Abundant, or copious;<br>\
+applied to rain: (S, O, K:) and to a benefit, or<br>\
+benefaction, &amp;c.: (TA:) and to a gift (سَيْب):<br>\
+(O, TA:) and, (S, K, TA,) or as some say,<br>\
+(O,) to a torrent (سَيْل), (S, O, K,) as meaning<br>\
+thus, (S, O,) or as meaning great: (K:) whence,<br>\
+in a verse of Ru-beh,<br>\
+↓ مَا شَآءَ مِنْ أَبْوَابِ كَسْبٍ مِقْعَثِ<br>\
+[What he will of the means of the attainment of<br>\
+abundant gain]; مِقْعَثٌ being of the measure<br>\
+مِفْعَلٌ from قَعِيثٌ as applied to rain &amp;c. (O.<br>\
+[The word كسب, of which the right reading is<br>\
+certainly as above, is there imperfectly written,<br>\
+more like كُسْب than كَسْب.])<br>\
+مُقْعَثٌ [pass. part. n. of 4]. Ru-beh says,<br>\
+أَقْعَثَنِى مِنْهُ بِسَيْبٍ مُقْعَثِ<br>\
+لَيْسَ بِمَنْزُورٍ وَلَا بِرَيِّثِ<br>\
+[He gave me liberally thereof, or from him, a<br>\
+large gift, (lit., accord. to the explanation of the<br>\
+verb, a gift made large,) not such as was small,<br>\
+or not such as was obtained by importunity, nor<br>\
+such as was slow in coming]: (S, * TA:) but As<br>\
+says that Ru-beh has done ill in using the phrase<br>\
+بسيب مقعث; for مُقْعَث, he says, means paltry,<br>\
+or little in quantity; syn. هَيِّنٌ and يَسِيرٌ [like<br>\
+قَعِيثٌ, which is said to have this meaning and<br>\
+also the contr. thereof]. (TA. [Perhaps the right<br>\
+reading in the verse cited above is ↓ مِقْعَث.]<br>\
+مِقْعَثٌ: see قَعِيثٌ. [See also what here immediately precedes.]<br>\
+' } );

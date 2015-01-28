@@ -1,0 +1,88 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اسر&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اسر<br>\
+&lt;entryFree id=&quot;n742&quot; key=&quot;اَسَرَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَسَرَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, M, A,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَسِرَ<br>\
+                  &lt;/form&gt;, inf. n. اَسْرٌ (S, M, K) and اـِسَارٌ, (M, TA,) &lt;i&gt;He bound, braced,&lt;/i&gt; or &lt;i&gt;tied, him,&lt;/i&gt; [namely, his captive,] or &lt;i&gt;it,&lt;/i&gt; (S, M, A, K,) namely, his قَتَب [or camel&#39;s saddle], (S, A,) or his horse&#39;s saddle, (A,) &lt;i&gt;with an&lt;/i&gt; <br>\
+                  اـِسَار, i. e. &lt;i&gt;a thong of untanned hide,&lt;/i&gt; (S, A,) &lt;i&gt;by tying the two extremities of the&lt;/i&gt; <br>\
+                  عَرْقُوْتَانِ <br>\
+                  &lt;i&gt;of the camel&#39;s saddle, or of the curved pieces of wood of the horse&#39;s saddle.&lt;/i&gt; (A.) ―         -b2-  Also, aor. as above, and so the inf. n., i. e. اَسْرٌ (S, Msb) and اـِسَارٌ, (Lth, S,) &lt;i&gt;He made him a captive; captived him;&lt;/i&gt; or &lt;i&gt;took him a prisoner; whether he bound him with an&lt;/i&gt; <br>\
+                  اـِسَار or &lt;i&gt;did not;&lt;/i&gt; (S;) as also ↓ <br>\
+      ا=سرهُ, of the same form as اَكْرَمَ; (Msb;) and ↓ <br>\
+      استاسرهُ, accord. to a trad., in which it occurs thus used, transitively: (Mgh:) and &lt;i&gt;he imprisoned him.&lt;/i&gt; (TA, from a trad.) ―         -b3-  Also, (S, Msb,) inf. n. اَسْرٌ, (Msb,) (assumed tropical:)  &lt;i&gt;He&lt;/i&gt; (God) &lt;i&gt;created him,&lt;/i&gt; or &lt;i&gt;formed him,&lt;/i&gt; (S, Msb,) &lt;i&gt;in a goodly manner.&lt;/i&gt; (Msb.) You say, اَسَرَهُ اْللّٰهُ اَحْسَنَ الاَسْرِ<br>\
+                  &lt;i&gt;God created him,&lt;/i&gt; or &lt;i&gt;formed him, in the best manner.&lt;/i&gt; (Fr, TA.) ―         -b4-  اُسِرَ, (S, A,) aor. يُوْسَرُ; (S;) or اَسِرَ, aor. يَاْسَرُ; (IKtt;) or اُسِرَ بَوْلُهُ; (M;) inf. n. اَسْرٌ, (M, and so in a copy of the S,) or the latter is a simple subst.; (M, IKtt;) &lt;i&gt;He&lt;/i&gt; (a man, S, A) &lt;i&gt;suffered suppression of his urine.&lt;/i&gt; (S, M, IKtt, A.) [See اُسْرٌ, below.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n743&quot; key=&quot;اسّر&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اسّر<br>\
+                     ذ<br>\
+                  &lt;/form&gt;<br>\
+                  &lt;i&gt;He bound,&lt;/i&gt; or &lt;i&gt;tied, tight, fast,&lt;/i&gt; or &lt;i&gt;firmly.&lt;/i&gt; (So accord. to Golius; but for this he names no authority.)]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=سَرَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n744&quot; key=&quot;تاسّر عَلَيْهِ فُلَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاسّر عَلَيْهِ فُلَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  &lt;i&gt;Such a one excused himself to him, and was slow,&lt;/i&gt; or &lt;i&gt;tardy:&lt;/i&gt; (AZ, T, K:*) thus as related by Ibn-Hánee from AZ: as A&#39;Obeyd relates it from him, تاسن; but this is a mistake: it is correctly with ر. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n745&quot; key=&quot;يَاْتَسِرُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     يَاْتَسِرُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. اْيْتِسَارٌ [written with the disjunctive alif اِيتِسَارٌ]; for يَتَّسِرُ, inf. N. اْتِّسَارٌ: see art. يسر.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n746&quot; key=&quot;استاسر لِلْعَدُوِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استاسر لِلْعَدُوِ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He submitted himself as a captive to the enemy.&lt;/i&gt; (Mgh.) You say, اِسْتَاْسِرْ, meaning &lt;i&gt;Be thou a captive to me.&lt;/i&gt; (S,)       -A2-  See also 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n747&quot; key=&quot;اَسْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسْرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اـِسَارٌ, q. v. (S.) Hence the saying, هٰذَا الشَّىْءُ لَكَ بِاَسْرِهِ <br>\
+                  &lt;i&gt;This thing is for thee,&lt;/i&gt; or &lt;i&gt;is thine,&lt;/i&gt;[lit.] &lt;i&gt;with its thong of untanned hide&lt;/i&gt; [wherewith it is bound]; meaning, &lt;i&gt;altogether;&lt;/i&gt; like as one says, بِرُمَّتِهِ. (S.) And خُذْهُ بِاَسْرِهِ <br>\
+                  &lt;i&gt;Take thou it all,&lt;/i&gt; or &lt;i&gt;altogether.&lt;/i&gt; (Msb.) And جَا=ءَ القَوْمُ بِاَسْرِهِمْ <br>\
+                  &lt;i&gt;The people came altogether.&lt;/i&gt; (Aboo-Bekr.) ―         -b2-  &lt;i&gt;Strength of make,&lt;/i&gt; or &lt;i&gt;form.&lt;/i&gt; (M, K.) [Accord. to the copies of the K in my hands, it also signifies &lt;i&gt;Strength of natural disposition;&lt;/i&gt; but instead of وَالخُلُق, in those copies, &lt;pb n=&quot;58&quot; TEIform=&quot;pb&quot;/&gt; we should read وَالخَلْقُ, agreeably with other lexicons, as is implied in the TA: see 1.] You say, فُلَانٌ شَدِيدٌ اَسْرٍ الخَلْقِ (tropical:)  &lt;i&gt;Such a one is of strong, firm,&lt;/i&gt; or &lt;i&gt;compact, make,&lt;/i&gt; or &lt;i&gt;form.&lt;/i&gt; (TA.) ―         -b3-  شَدَدْنَا اَسْرَهُمْ, in the Kur [lxxvi. 28], means (tropical:)  &lt;i&gt;We have strengthened their make,&lt;/i&gt; or &lt;i&gt;form:&lt;/i&gt; (S, A, Msb:) or, &lt;i&gt;their joints:&lt;/i&gt; or, &lt;i&gt;their two sphincters which serve as repressers of the urine and feces&lt;/i&gt; (مَصَرَّتَىِ البَوْلِ وَ الغَايِطِ), which contract when the excrement has passed forth; or the meaning is, that these two things do not become relaxed before one desires. (IAar, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n748&quot; key=&quot;اُسْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُسْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, M, IKtt, A,) a subst., (M, IKtt,) as also ↓ <br>\
+      اُسُرٌ, (M, Lb,) meaning &lt;i&gt;Suppression of the urine:&lt;/i&gt; (S, M, &amp;amp;c.:) suppression of the feces is termed حُصْرٌ: (S:) or &lt;i&gt;a dribbling of the urine, with a cutting pain in the bladder, and pangs like those of a female in the time of parturition.&lt;/i&gt; (IAar.) You say, اَخَذَهُ الاَسْرُ [&lt;i&gt;Suppression of urine,&lt;/i&gt; &amp;amp;c., &lt;i&gt;took him,&lt;/i&gt; or &lt;i&gt;affected him&lt;/i&gt;]. (A.) And اَنَالَهُ اْللّٰهُ اُسْراً [&lt;i&gt;May God give him a suppression of urine,&lt;/i&gt; &amp;amp;c.]: a form of imprecation. (A.) ―         -b2-  Hence, (M,) عُودُ اُسْرٍ (IAar, S, M, A, K) and عُودٌ اُسْرٌ and عُودُ الاُسْرِ (Expositions of the Fs) and عُودُ يُسْرِ, (IAar, K,) or this is a corruption, (K,) or a vulgar mistake, (A,) and should not be said, (Fr, S, A,) unless meant to be used as ominous of good, (A,) &lt;i&gt;A stick,&lt;/i&gt; or &lt;i&gt;piece of wood, which is put upon the belly of a man affected by a suppression of his urine,&lt;/i&gt; (S, A, K, &amp;amp;c.,) &lt;i&gt;and which cures him.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n749&quot; key=&quot;اُسُرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُسُرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اُسْرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n750&quot; key=&quot;اُسْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُسْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (assumed tropical:)  A man&#39;s &lt;i&gt;kinsmen that are more,&lt;/i&gt; or &lt;i&gt; most, nearly related to him;&lt;/i&gt; his &lt;i&gt;near kinsmen:&lt;/i&gt; (S, * M, A, * Msb, * K:) or a man&#39;s &lt;i&gt;nearer,&lt;/i&gt; or &lt;i&gt;nearest, relations on his father&#39;s side:&lt;/i&gt; (Aboo-Jaafar En-Nahhás:) so called because he is strengthened by them. (S, A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n751&quot; key=&quot;اـِسَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِسَارٌ<br>\
+                     اسار<br>\
+                     اسار<br>\
+                     سار<br>\
+                  &lt;i&gt;A thing with which one binds;&lt;/i&gt; (M, K;) &lt;i&gt;a thong of untanned hide,&lt;/i&gt; (S, A, Msb,) &lt;i&gt;with which one binds a camel&#39;s saddle,&lt;/i&gt; (As, S,) [as also اـِصَارٌ,] &lt;i&gt;and a captive;&lt;/i&gt; and so اَسْرٌ, q. v.: (S:) and &lt;i&gt;a rope,&lt;/i&gt; or &lt;i&gt;cord, with which a captive is bound:&lt;/i&gt; and &lt;i&gt;a pair of shackles:&lt;/i&gt; (TA:) pl. اُسُرٌ. (M, K.) [See also 1.] You say, حَلَّ اـِسَارَهُ <br>\
+                  فَاَطْلَقَهُ <br>\
+                  &lt;i&gt;He untied his thong of untanned hide wherewith he was bound, and released him.&lt;/i&gt; (A.)       -A2-  See also اَسِيرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n752&quot; key=&quot;اَسِيرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَسِيرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; ↓ <br>\
+      مَاْسُورٌ; (S, TA;) &lt;i&gt;Bound with an&lt;/i&gt; <br>\
+                  اـِسَار: (M, TA:) &lt;i&gt;shackled:&lt;/i&gt; (K:) &lt;i&gt;imprisoned:&lt;/i&gt; (Mujáhid, M, K:) &lt;i&gt;captived,&lt;/i&gt; or &lt;i&gt;a captive;&lt;/i&gt; (S, M, K;) &lt;i&gt;absolutely,&lt;/i&gt; (TA,) &lt;i&gt;although not bound with an&lt;/i&gt; <br>\
+                  اسار: (S:) and ↓ <br>\
+      اـِسَارٌ is sometimes used in the same sense. (Msb.) اسير is also applied as an epithet to a woman, (Mgh, Msb,) when the woman is mentioned; but otherwise اَسِيرَةٌ is used as the fem.: you say, قَتَلْتُ الاَسِيرَةَ [&lt;i&gt;I slew the female captive&lt;/i&gt;], like as you say, رَاَيْتُ القَتِيلَةَ. (Msb.) The pl. is اَسْرَى (S, M, Msb, K) and اَسَرَا=ءُ (M, K) and (accord. to several authors, pls. of اَسْرَى, TA) اُسَارَى (S, M, Msb, K) and اَسَارَى: (M, K:) the first of these forms of pl. is proper to epithets applied to those who are hurt or afflicted in their bodies or their intellects: (Aboo-Is-hák:) it is used in this instance because a captive is like one wounded or stung. (Th, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n753&quot; key=&quot;تَا=سِيرُ السَّرْجِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَا=سِيرُ السَّرْجِ<br>\
+                     تا=سير السرج<br>\
+                  &lt;/form&gt; [in the CK, erroneously, تَاْسِير] &lt;i&gt;The thongs of the horse&#39;s saddle, whereby it is bound:&lt;/i&gt; (K:) accord. to the more correct opinion, a pl. without a sing. (MF.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n754&quot; key=&quot;مَاْسُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْسُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَسِيرٌ. A camel&#39;s saddle &lt;i&gt;bound with an&lt;/i&gt; <br>\
+                  اـِسَار: pl. مَا=سِيرُ. (TA.) ―         -b2-  (assumed tropical:)  A man, and a beast, &lt;i&gt;having strongly-knit joints.&lt;/i&gt; (M.) ―         -b3-  A man &lt;i&gt;suffering suppression of his urine.&lt;/i&gt; (S.)   &lt;/entryFree&gt; <br>\
+' } );

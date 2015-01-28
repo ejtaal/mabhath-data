@@ -1,0 +1,15 @@
+load_data( { book: 'll_nvd', text: 'جنثجِنْثٌ i. q. أَصْلٌ [as meaning The stock, or<br>\
+stem, or the root, or base, or lowest part, of a<br>\
+tree or plant: and the stock, or origin, of a man];<br>\
+(S, K;) a dial. var. of جِنْسٌ, or a word mispronounced: (S:) or, as some say, a root (of a tree)<br>\
+of which the أَرُومَة [i. e. root-stock] is erect in the<br>\
+ground: or the part of the سَاق [i. e. stock, or<br>\
+stem,] of a tree that is in the ground, above the<br>\
+عُرُوق [or roots properly so called]: (L, TA:) pl.<br>\
+[of pauc.] أَجْنَاثٌ and [of mult.] جُنُوثٌ. (TA.)<br>\
+One says, فُلَانٌ مِنْ جِنْثِكَ and جِنْسِكَ, meaning<br>\
+من أَصْلِكَ [i. e. Such a one is of thy stock]. (S.)<br>\
+And إِنَّهُ لَيَرْجِعُ إِلَى جِنْثِ صِدْقٍ [Verily he traces<br>\
+back his lineage to an excellent stock, or origin].<br>\
+(TA.)<br>\
+' } );

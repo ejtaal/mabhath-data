@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'لهتلَاهُوتٌ Divinity; divine nature. Mentioned<br>\
+here agreeably with the assertion of some, that<br>\
+the ت is a radical letter: but this is a point that<br>\
+requires consideration. (TA.)<br>\
+' } );

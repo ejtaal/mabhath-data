@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'مشتمُشْتٌ [The fist; the hand clinched: a Persian<br>\
+word arabicized]. (Mgh, in art. نشر.) [See an<br>\
+ex. voce تَوٌّ, where it has a redundant ن affixed<br>\
+to it.]<br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'كنعتكَنْعَتٌ. A species of fish; (AO, TS, L, K;) as<br>\
+also كَنْعَدٌ; from which it appears to be formed<br>\
+by the substitution of ت for د. (TS, L.)<br>\
+' } );

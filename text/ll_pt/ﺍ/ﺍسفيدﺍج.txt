@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اسفيداج&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اسفيداج<br>\
+&lt;entryFree id=&quot;n767&quot; key=&quot;اـِسْفِيدَاجٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِسْفِيدَاجٌ<br>\
+                     اسفيداج<br>\
+                  &lt;/form&gt; [&lt;i&gt;Ceruse; or white lead;&lt;/i&gt;] &lt;i&gt;ashes of lead&lt;/i&gt; (رَمَادُ الرَّصَاصِ والا=نُكِ, K, which last word is as though it were added to explain that immediately preceding, TA): when subjected to a fierce heat, it becomes what is termed اـِسْرَنْجٌ: [so in the CK: more probably اـِسْرِنْجٌ:] it has clearing and mitigating properties, (K,) and other useful qualities: (TA:) an arabicized word [from the Persian اسفيداج isfédáj]. (K.)   &lt;/entryFree&gt; <br>\
+' } );

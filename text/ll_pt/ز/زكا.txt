@@ -1,0 +1,38 @@
+load_data( { book: 'll_pt', text: '<em>زكا</em>            1                  زكا<br>\
+<b>زَكَاَهُ</b>               1     <br>\
+                     زَكَاَهُ<br>\
+                     ذ<br>\
+                  , (S, K,) aor.      <br>\
+                     زَكَاَ<br>\
+                  , (K,) inf. n. زَكْءٌ, (S,) <i>He paid it in ready money, quickly,</i> or <i>promptly;</i> or <i>was quick,</i> or <i>prompt, in doing so.</i> (ISk, S.) [The verb is doubly trans. in this sense:) you say, زَكَاَهُ اَلْفًا <br>\
+                  <i>He paid him a thousand</i> (meaning a thousand dirhems, TA) <i>in ready money, quickly,</i> or <i>promptly.</i> (K, TA.) And زَكَاْتُهُ حَقَّهُ, inf. n. as above, <i>I paid him his due;</i> as also نَكَاْتُهُ حقّه, inf. n. نَكْءٌ. (ISh, TA) ―         -b2-  And زَكَاَتِ النَّاقَةُ بِوَلَدِهَا, (S, K,) aor. and inf. n. as above, (S,) <i>The she-camel cast forth her young one at her hind legs,</i> or <i>hind feet,</i> (S, and so in some copies of the K,) or <i>at her hind leg,</i> or <i>hind foot:</i> (so in other copies of the K:) or, <i>in labour, cast forth her young one.</i> (T, TA.) And one says also, قَبَحَ <br>\
+                  اْللّٰهُ اُمًّا زَكَاَتْ بِهِ, and لَكَاْتُ به, i. e. [<i>May God remove from good,</i> or <i>prosperity, a mother that cast him forth from her womb,</i> or] <i>that brought him forth.</i> (TA.) ―         -b3-  And زَكَاَهُ, aor. as above, (K,) and so the inf. n., (TA,) <i>He beat him,</i> or <i>struck him.</i> (K.) So in the phrase زَكَاَهُ مِايَةَ سَوْطٍ; [<i>He beat him,</i> or <i>struck him, with a hundred stripes of the whip</i>]. (TA.) ―         -b4-  And زَكَاَ جَارِيَتَهُ; <i>He compressed his young woman,</i> or <i>female slave.</i> (K.)       -A2-  زَكَاَ اـِلَيْهِ <br>\
+                  <i>He had recourse to him,</i> or <i>it, for refuge, protection, preservation, concealment, covert,</i> or <i>lodging; he leaned,</i> or <i>stayed himself, upon him,</i> or <i>it.</i> (AZ, K.)    </entryFree> <br>\
+<b>اِزْدَكَاَ مِنْهُ حَقَّهُ</b>               1     <br>\
+                     اِزْدَكَاَ مِنْهُ حَقَّهُ<br>\
+                     ذ<br>\
+                  <i>He took,</i> or <i>received, from him his due;</i> (K;) as also انتكا. (TA.)    </entryFree> <br>\
+<b>زُكَاٌ</b>               1     <br>\
+                     زُكَاٌ<br>\
+                     ذ<br>\
+                  : see what next follows, in two places.    </entryFree> <br>\
+<b>زَجُلٌ زُكَاَةٌ</b>               1     <br>\
+                     زَجُلٌ زُكَاَةٌ<br>\
+                     ذ<br>\
+                   (S, K) and ↓ <br>\
+      زُكَاٌ, (K,) and مَلِىْءٌ <br>\
+                  زُكَاَةٌ (S) and ↓ <br>\
+      زُكَاٌ, (TA,) and النَّقْدِ ↓ <br>\
+      زُكَا=ءُ, (S, K,) <i>A wealthy man, quick,</i> or <i>prompt, in paying:</i> (S, * K:) [or rather this is the meaning when you combine the two epithets ملىء and زكاة or زكا: otherwise the meaning is only <i>a man quick,</i> or <i>prompt, in paying:</i> for] you say, لَتَجِدَنَّهُ زُكَاَةً نُكَاَةً meaning <i>Thou wilt assuredly find him to be one who pays what he owes</i> (TA) <i>without putting off.</i> (K in art. نكا.)    </entryFree> <br>\
+<b>زُكَا=ءُ النَّقْدِ</b>               1     <br>\
+                     زُكَا=ءُ النَّقْدِ<br>\
+                     ذ<br>\
+                  : see the next preceding paragraph.    </entryFree> <br>\
+<b>مَزْكَاٌ</b>               1     <br>\
+                     مَزْكَاٌ<br>\
+                     ذ<br>\
+                  <i>A refuge; an asylum; a place to which one has recourse for refuge, protection, preservation, concealment, covert,</i> or <i>lodging:</i> [and applied to a man:] a poet says, speaking of Bishr Ibn-Marwán, <quote TEIform=&quot;quote&quot;><br>\
+                     <L><br>\
+                        وَنِعْمَ مَزْكَاُ مَنْ ضَاقَتْ مَذَاهِبُهُ<br>\
+                  </quote> [<i>And excellent,</i> or <i>most excellent, is the refuge of him whose ways have become strait</i>]. (TA.)   </entryFree> <br>\
+' } );

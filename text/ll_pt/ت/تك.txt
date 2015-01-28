@@ -1,0 +1,46 @@
+load_data( { book: 'll_pt', text: '<em>تك</em>            1                  تك<br>\
+<b>استتكّ التِّكَّةَ</b>               1     <br>\
+                     استتكّ التِّكَّةَ<br>\
+                     استتك التكه<br>\
+                     استتك التكة<br>\
+                  , (IDrd, K,) or بِالتِّكَّةِ, (Msb,) <i>He inserted the</i> <br>\
+                  تِكَّة <br>\
+                  <i>in</i> [<i>the double upper border of</i>] <i>the drawers,</i> or <i>trousers.</i> (IDrd, Msb, K.) You say also, هُوَ يَسْتَتِكُ بِالحَرِيرِ <br>\
+                  <i>He makes use of a</i> <br>\
+                  تِكَّة <br>\
+                  <i>of silk.</i> (A.)    </entryFree> <br>\
+<b>تِكَّةٌ</b>               1     <br>\
+                     تِكَّةٌ<br>\
+                     تك<br>\
+                     تكه<br>\
+                     تكة<br>\
+                     وكى<br>\
+                   The <i>band</i> [<i>that is inserted in the double upper border</i>] <i>of the drawers,</i> or <i>trousers;</i> (IDrd, K;) [<i>generally, a strip of cotton, which is often embroidered at each end; sometimes, of net-work; and</i>] <i>sometimes, of silk:</i> (A:) IDrd thinks it to be an adventitious word, though used in ancient times; (TA;) and IAmb says, I think it to be arabicized: (Msb:) pl. تِكَكٌ. (S, Msb, K.)    </entryFree> <br>\
+<b>مِتَكُّ</b>               1     <br>\
+                     مِتَكُّ<br>\
+                     مات<br>\
+                     متك<br>\
+                     متتك<br>\
+                   The <i>thing by means of which the</i> <br>\
+                  تِكَّة <br>\
+                  <i>is inserted in</i> [<i>the double upper border of</i>] <i>the drawers,</i> or <i>trousers.</i> (TA.) [It is generally <i>a slender piece of wood, having at one end a loop through which a portion of the</i> <br>\
+                  تكّة <br>\
+                  <i>is passed.</i>]   </entryFree> <br>\
+            <div2 n=&quot;Quasi tkA&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi تكا<br>\
+<b>تَكِيَ</b>               1     <br>\
+                     تَكِيَ<br>\
+                     ذ<br>\
+                   &amp;amp;c.: see art. وكا.   </entryFree> <br>\
+            <div2 n=&quot;Quasi tkl&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi تكل<br>\
+<b>تَكِلَ عَلَيْهِ</b>               1     <br>\
+                     تَكِلَ عَلَيْهِ<br>\
+                     تكل عليه<br>\
+                     تكل علية<br>\
+                  , aor.      <br>\
+                     ١َ٢َ٣َ<br>\
+                  , a dial. var. of اِتَّكَلَ. (Ibn- &#39;Abbád, K) See art. وكل; where, also, see تُكَلَةٌ, &amp;amp;c.   </entryFree> <br>\
+' } );

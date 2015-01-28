@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '<em>قثد</em>            1                  قثد<br>\
+<b>قَثَدَ</b>               1     <br>\
+                     قَثَدَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     قَثِدَ<br>\
+                  , (TK,) inf. n. قَثْدٌ, (K,) <i>He ate the</i> [<i>plant, or vegetable, called</i>] قَثَدٌ. (K.)    </entryFree> <br>\
+<b>اقتثد</b>               1     <br>\
+                     اقتثد<br>\
+                     ذ<br>\
+                  <i>He cut</i> (L, K) <i>as one cuts the</i> <br>\
+                  قثد. (L.)    </entryFree> <br>\
+<b>قَثَدٌ</b>               1     <br>\
+                     قَثَدٌ<br>\
+                     ذ<br>\
+                   [a coll. gen. n.] <i>A certain plant resembling the</i> <br>\
+                  قِثَّا=ء [<i>a kind of cucumber</i>]: (S, L, K:) or <i>a species of the</i> <br>\
+                  قثّا=ء: (L, K:) or the <i>round</i> <br>\
+                  قثّا=ء: (IDrd, L:) or the خِيار: (L, K:) or the خيار <br>\
+                  باذرنق [Persian بَادْ رَنْكْ]: (T, L:) n. un. with ة. (L, K.)   </entryFree> <br>\
+' } );

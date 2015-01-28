@@ -1,0 +1,25 @@
+load_data( { book: 'll_nvd', text: 'نجأ1<br>\
+نَجَأَهُ, aor.<br>\
+نَجَاَ, (S, K,) inf. n. نَجْءٌ (so in the<br>\
+S: in the TA, نَجْأَةٌ: [but this I think a mistake:]); and ↓ انتجأه (Lh, K) and ↓ تنجّأه; (S,<br>\
+K;) He affected him, or it, by an evil, or a<br>\
+malignant, eye. (S, K.)<br>\
+5<br>\
+تَنَجَّاَand 8: see 1.<br>\
+نَجُؤُ العَيْنِ, and نَجُوْءُ العين, and العين ↓ نَجِئُ,<br>\
+and نَجِىْءُ العين, Having an evil, or a malignant,<br>\
+eye; (Fr, S, K;) and powerfully affecting therewith. (K.)<br>\
+نَجِئٌ and نَجِىٌءٌ; and نَجُوْءٌ: see نَجُؤُ العَيْنِ.<br>\
+نَجْأَةٌ An affecting with an evil, or a malignant,<br>\
+eye: (Ks:) force, or eagerness, of look: (Ks,<br>\
+IAth, S:) lust, or desire, or a hankering after a<br>\
+thing. (Ks, K.) Ex. رُدُّوا نَجْأَةَ السَّائِلِ بِاللُّقْمَةِ<br>\
+(S) Avert the beggar&#39;s evil eye; (Ks;) or the<br>\
+force, or eagerness, of his look at thy food, or at<br>\
+thee; (S;) or his lust; or accomplish his desire,<br>\
+and avert his eye from thy food, in compassion for<br>\
+him; (TA;) do this by giving him a morsel.<br>\
+(S.) ―<br>\
+-b2-  رُدَّ عَنْكَ نَجْأَةَ هٰذَا الشَّىْءِ Avert from thee<br>\
+the desire of this thing. (TA.)<br>\
+' } );

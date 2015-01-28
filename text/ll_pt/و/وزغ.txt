@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>وزغ</em>            1                  وزغ<br>\
+<b>اَوْزَغَتِ الطَّعْنَةُ بِالدَّمِ</b>               1     <br>\
+                     اَوْزَغَتِ الطَّعْنَةُ بِالدَّمِ<br>\
+                     ذ<br>\
+                  : see اَزْغَلَت.    </entryFree> <br>\
+<b>وَزَغَةٌ</b>               1     <br>\
+                     وَزَغَةٌ<br>\
+                     ذ<br>\
+                  <i>A certain reptile</i> (دُوَببَّةٌ); (S;) <i>i. q.</i> <br>\
+                  بُرْصٌ [<i>a lizard of the species called gecko, of a leprous hue,</i> as its name برص indicates]; (TA, art. برص;) and <i>i. q.</i> <br>\
+                  سَامُّ اَبْرَص: (JK, M, K:) or سامّ ابرص is a name of <i>the large</i> <br>\
+                  وَزَغ; (A and Msb, both in art. برص;) or is <i>of the large</i> <br>\
+                  وَزَغ. (S and K. both in art. برص.)   </entryFree> <br>\
+' } );

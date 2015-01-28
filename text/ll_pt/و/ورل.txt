@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>ورل</em>            1                  ورل<br>\
+<b>وَرَلٌ</b>               1     <br>\
+                     وَرَلٌ<br>\
+                     ذ<br>\
+                  : see ضَبٌّ: there are two species: وَرَلُ <br>\
+                  البَحْرِ <br>\
+                  <i>the</i> <br>\
+                  ورل <br>\
+                  <i>of the river; the monitor of the Nile; lacerta Nilotica:</i> (see Forskål, Descr. Animalium, p. 13:) and وَرَلُ الاَرْضِ <br>\
+                  <i>the</i> <br>\
+                  ورل <br>\
+                  <i>of the land; the land monitor; lacerta scincus:</i> vulg. pronounced وَرَن.   </entryFree> <br>\
+' } );

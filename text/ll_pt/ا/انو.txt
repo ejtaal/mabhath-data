@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>انو</em>            1                  انو<br>\
+<b>اـِنْوٌ</b>               1     <br>\
+                     اـِنْوٌ<br>\
+                     انو<br>\
+                     انو<br>\
+                     نوى<br>\
+                  : see اـِنْىٌ, in two places.   </entryFree> <br>\
+' } );

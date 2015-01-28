@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'زرنيخزِرْنِيخٌ [Arsenic;] a well-known kind of stone<br>\
+[or mineral, for it is a metal]; of which there are<br>\
+several species; one species is white [i. e. white<br>\
+arsenic]; and another is red [i. e. realgar, or red<br>\
+arsenic, also called sandarac]; and another is<br>\
+yellow [i. e. orpiment, or yellow arsenic]: (K,<br>\
+TA:) it is an arabicized word from the Pers.<br>\
+[زَرْنِيخْ or زَرْنِيقْ or زَرْنِىْ or زَرْنَهْ]. (Msb.)<br>\
+' } );

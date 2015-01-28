@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>ولع</em>            1                  ولع<br>\
+<b>وَلَّعَهُ بِهِ</b>               1     <br>\
+                     وَلَّعَهُ بِهِ<br>\
+                     ذ<br>\
+                   [<i>i. q.</i> <br>\
+                  اَوْلَعَهُ بِهِ]: (K, art. غرو:) <i>He made him to be desirous,</i> or <i>fond, of it.</i> See اَغْرَاهُ بِهِ.    </entryFree> <br>\
+<b>اَوْلَعَهُ بِكَذَا</b>               1     <br>\
+                     اَوْلَعَهُ بِكَذَا<br>\
+                     ذ<br>\
+                  <i>He,</i> or <i>it, rendered him eagerly desirous of such a thing;</i> or <i>fond of it.</i> (MA.) ―         -b2-  اَوْلَعَهُ بِهِ <br>\
+                  <i>i. q.</i> <br>\
+                  اَغْرَاهُ بِهِ. (K.) ―         -b3-  اَولِعَ بِهِ <br>\
+                  <i>He became attached to it,</i> or <i>fond of it;</i> [<i>was devoted,</i> or <i>addicted, to it; was eagerly desirous of it;</i>] <i>he adhered, clung,</i> or <i>clave, to it;</i> or <i>loved it;</i> (Msb;) <i>i. q.</i> <br>\
+                  اُغْرِىَ به. (S.) See this last, and اُغْرِمَ بِهِ.    </entryFree> <br>\
+<b>وَلْعٌ</b>               1     <br>\
+                     وَلْعٌ<br>\
+                     ذ<br>\
+                  <i>Lying:</i> see شَهْلٌ.    </entryFree> <br>\
+<b>وُلُوعٌ</b>               1     <br>\
+                     وُلُوعٌ<br>\
+                     ذ<br>\
+                  <i>Eager desire</i> [بِشَىْءٍ <br>\
+                  <i>for a thing</i>]; syn. حِرْصٌ: (Har, p. 607:) <i>fondness</i> [for it]; <i>attachment</i> [to it]: (L, Msb, TA:) <i>i. q.</i> <br>\
+                  غَرَامٌ. (S, K, in art. غرم.)    </entryFree> <br>\
+<b>وَلِيع</b>               1     <br>\
+                     وَلِيع<br>\
+                     ذ<br>\
+                   and وَلِيعَة of the طَلْع: see ضَحْكٌ.    </entryFree> <br>\
+<b>مُوَلَّعٌ</b>               1     <br>\
+                     مُوَلَّعٌ<br>\
+                     ذ<br>\
+                  <i>Marked, in oblong shapes, with black and white:</i> (S:) or, <i>with other colours.</i> (As, S.) See also مُلَمَّعٌ.   </entryFree> <br>\
+' } );

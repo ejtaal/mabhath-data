@@ -1,0 +1,23 @@
+load_data( { book: 'll_pt', text: '<em>يفخ</em>            1                  يفخ<br>\
+<b>يَفَخَهُ</b>               1     <br>\
+                     يَفَخَهُ<br>\
+                     ذ<br>\
+                  , (K,) aor.      <br>\
+                     يَفَخَ<br>\
+                  , because of the guttural letter, or      <br>\
+                     يَفُخَ<br>\
+                  , accord. to the common rule observed in the K, or      <br>\
+                     يَفِخَ<br>\
+                  , as though it were of the same class as وَعَدَ, (TA,) [the last is probably the most correct form, as يَاْفِخُهُ is the aor. of اَفَخَهُ, of which يَفَخَهُ is a dial. form,] <i>He,</i> or <i>it, hit him,</i> or <i>hurt him, on the part of his head called the</i> <br>\
+                  يَافُوخ. (K.)    </entryFree> <br>\
+<b>يَافُوخٌ</b>               1     <br>\
+                     يَافُوخٌ<br>\
+                     ذ<br>\
+                   [The <i>top of the head;</i>] the <i>part where the anterior and posterior bones of the head meet:</i> [see يَاْفُوخٌ, of which it is a dial. form:] pl. يَوَافِيخُ. (TA.) ISd regards this form of pl. as an indication that the ى is a radical letter, and therefore mentions it in this art.; (TA;) [and F says the same in art. افخ: but see that art.]. ―         -b2-  مَسَّ بِيَافُوخِهِ السِّمَاكَ (assumed tropical:)  [<i>He touched Spica Virginis,</i> or <i>Arcturus, with the top of his head</i>]. (A.) ―         -b3-  وَطِيَ فُلَانٌ يَوَافِيخَ القُرُومِ (assumed tropical:)  <i>Such a one had lordship and eminence given to him.</i> (A.) ―         -b4-  صَدَعُوا يَافُوخَ اللَّيْلِ (tropical:)  <i>i. q.</i> <br>\
+                  اَدْلَجُوا [<i>They journeyed in the night; &amp;amp;c.</i>] (A.) [See also art. افخ.]     <br>\
+<b>مَيْفُوخٌ</b>               1     <br>\
+                     مَيْفُوخٌ<br>\
+                     ذ<br>\
+                  <i>Hit,</i> or <i>hurt, on the part of his head called the</i> <br>\
+                  يَافُوخ. (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>وخز</em>            1                  وخز<br>\
+<b>وَخَزَهُ</b>               1     <br>\
+                     وَخَزَهُ<br>\
+                     ذ<br>\
+                  , (S, A, Msb,) aor. يَخِزْهُ, (Msb,) inf. n. وَخْزٌ (S, A, Msb, K) <i>He pierced, stabbed,</i> or <i>pricked him,</i> with a spear, (S, A, Msb, K,) or other thing, (K,) or with the like of a spear, as a dagger, (S,) and a needle, (A, Msb,) &amp;amp;c., (Msb,) <i>not making the instrument to pass through:</i> (S, A, Msb, K:) or, as some say, <i>he did so making the instrument to pass through:</i> in a trad., the plague (الطَّاعُون) is said to be a وَخْز inflicted by jinn, or genii; and the word in this instance is explained by some agreeably with the former rendering, and by some agreeably with the latter: or وَخْزٌ signifies <i>a slight piercing,</i> and is <i>like a goading:</i> so accord. to Khálid Ibn-Jembeh, who uses the expression وَخَزَ فِى <br>\
+                  سَنَامِهَا بِمِبْضَعِهِ [<i>He made a slight stab in her hump with his scarifier</i>]. (TA.) وَخْزٌ also signifies The <i>act of scarifying;</i> syn. تَبْزِيغٌ. (K. [So in a MS copy of the K, and this is the right reading: in the TA, تَبْزِيع, written with ع, unpointed: in the CK, تَنْزِيع, with ن and ع instead of ب and غ.]) You say of a farrier, وَخَزَهُ بِمِبْضَعٍ وَخْزًا خَفِيفًا لَا يَبْلُغُ العَصَبَ [<i>He scarified it with a scarifier slightly, not penetrating to the sinews</i>]; the pronoun referring to the hoof of a horse or the like, and the place of the operation being the part called the اَشَاعِر. (Aboo- &#39;Adnán, TA.)    </entryFree> <br>\
+<b>وَخْزٌ</b>               1     <br>\
+                     وَخْزٌ<br>\
+                     ذ<br>\
+                   The <i>plague;</i> syn. طَاعُونٌ. (TA.) See above. ―         -b2-  <i>Pain:</i> [or, app., <i>a piercing,</i> or <i>pricking, pain:</i>] as in the following ex.: اـِنِّى لَاَجِدُ <br>\
+                  فِى يَدِى وخْزًا [<i>Verily I feel, in my arm,</i> or <i>hand, a pain,</i> or <i>a piercing,</i> or <i>pricking, pain</i>]. (IAar, TA.)   </entryFree> <br>\
+' } );

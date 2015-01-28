@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هلقب</em>            1                  هلقب<br>\
+<b>جُوعٌ هِلَّقْبٌ</b>               1     <br>\
+                     جُوعٌ هِلَّقْبٌ<br>\
+                     ذ<br>\
+                  <i>Vehement hunger.</i> (AA, T, L.) See also هِلَّقْتٌ.   </entryFree> <br>\
+' } );

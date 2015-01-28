@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>كفن</em>            1                  كفن<br>\
+<b>تَكَفَّنُوا باَنْطَاعٍ</b>               1     <br>\
+                     تَكَفَّنُوا باَنْطَاعٍ<br>\
+                     ذ<br>\
+                   [<i>They wrapped themselves with</i> <br>\
+                  انطاع <br>\
+                  <i>for grave-clothing</i>]. (TA, art. حنط.)    <br>\
+' } );

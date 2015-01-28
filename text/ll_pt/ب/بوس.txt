@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>بوس</em>            1                  بوس<br>\
+<b>بَاسَهُ</b>               1     <br>\
+                     بَاسَهُ<br>\
+                     اس<br>\
+                     باسه<br>\
+                     باس<br>\
+                     باسه<br>\
+                     باسة<br>\
+                     بآسه<br>\
+                     آس<br>\
+                  , aor. يَبُوسُهُ, (S,) inf. n. بَوْسٌ, a Persian word, arabicized, (S, A, K,) <i>He kissed him.</i> (S, A, K.) You say also, بَاسَ لَهُ الاَرْضَ <br>\
+                  <i>He kissed the ground to him.</i> (A, TA.)    </entryFree> <br>\
+<b>مَبُوسٌ</b>               1     <br>\
+                     مَبُوسٌ<br>\
+                     مبوس<br>\
+                  <i>Kissed:</i> you say, اليَوْمَ بِسَاطُكَ مَبُوسٌ وَ غَدًا <br>\
+                  اَنْتَ مَحْبُوسٌ [<i>To-day thy carpet is kissed, and to-morrow thou art imprisoned</i>]. (A.)   </entryFree> <br>\
+' } );

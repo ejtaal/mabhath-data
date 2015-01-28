@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>لوش</em>            1                  لوش<br>\
+<b>لَاشَ</b>               1     <br>\
+                     لَاشَ<br>\
+                     ذ<br>\
+                   an abbreviation of لَاشَىْءَ [<i>Nothing</i>]. It is generally used coupled, or connected, with a word of similar form; as in the saying المَاشُ خَيْرٌ مِنْ لَاشَ, which see in art. موش. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>فنجان</em>            1                  فنجان<br>\
+<b>فِنْجَان</b>               1     <br>\
+                     فِنْجَان<br>\
+                     ذ<br>\
+                   and فِنْجَانَة: see فِلْجَانٌ, in art. فلج.   </entryFree> <br>\
+' } );

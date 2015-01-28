@@ -1,0 +1,23 @@
+load_data( { book: 'll_nvd', text: 'قيح1<br>\
+قَاحَ, said of a wound, (S, A, Msb, K, &amp;c.,)<br>\
+aor. يَقِيحُ, (S, Msb,) inf. n. قَيْحٌ; (Msb, K;) like<br>\
+قَاحَ, aor. يَقُوحُ; (K;) and ↓ قيّح, (S, A, Msb,<br>\
+K,) inf. n. تَقْيِيحٌ; (A;) and ↓ اقاح; (A, Msb,<br>\
+K;) and ↓ تقيّح; (S, A, Msb, K;) and تقّوح;<br>\
+(Msb, K;) [It suppurated;] it became in the<br>\
+state of containing [or generating] matter, such as<br>\
+is termed قَيْح [meaning as expl. below]: (S, *<br>\
+A, * K in art. قوعح, and Msb in explanation of<br>\
+قَيَّحَ:) or its قَيْح ran, or flowed: or became in a<br>\
+state of readiness [to do so]. (Msb in explanation of قَاحَ and اقاح and تقوّح.)<br>\
+2<br>\
+قَيَّحَand 4 and 5: see the preceding paragraph.<br>\
+قَيْحٌ Thick purulent matter (مِدَّةٌ) unmixed with<br>\
+blood; (S, A, L, K;) white, thick [matter], unmixed with blood: (Msb:) or, as some say,<br>\
+[contr. to the generality of the lexicographers,]<br>\
+thin matter (صَدِيد) like water, in which is a شُكْلَة<br>\
+[ or small admixture, or tinge of the red and white<br>\
+hue,] of blood. (L.)<br>\
+قَاحَةٌ, mentioned in this art. in the S, see in<br>\
+art. قوح.<br>\
+' } );

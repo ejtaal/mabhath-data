@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>محر</em>            1                  محر<br>\
+<b>مَحَارَةٌ</b>               1     <br>\
+                     مَحَارَةٌ<br>\
+                     محار<br>\
+                     محاره<br>\
+                     محارة<br>\
+                  : see art. حور, to which it belongs accord. to As and others: Lth mentions it in art. محر. (TA.)   </entryFree> <br>\
+' } );

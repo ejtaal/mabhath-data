@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '<em>جيع</em>            1                  جيع<br>\
+<b>جَيَاعَى</b>               1     <br>\
+                     جَيَاعَى<br>\
+                     جوعان<br>\
+                     جياعى<br>\
+                     جياعي<br>\
+                   and جُيَّعٌ: see جَايِعٌ, in art. جوع.   </entryFree> <br>\
+' } );

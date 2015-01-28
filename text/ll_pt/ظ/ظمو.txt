@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>ظمو</em>            1                  ظمو<br>\
+<b>ظِمْوٌ</b>               1     <br>\
+                     ظِمْوٌ<br>\
+                     ذ<br>\
+                  , relating to the اَظْمَا=ء of camels, is a dial. var. of ظِمْءٌ, (M,) signifying The <i>interval between two drinkings in the coming of camels to water.</i> (T.) [See art. ظما.]   </entryFree> <br>\
+' } );

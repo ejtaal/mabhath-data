@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>ذون</em>            1                  ذون<br>\
+<b>تذوّن</b>               1     <br>\
+                     تذوّن<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became, in a state of richness, wealth,</i> or <i>competence, and ease and plenty.</i> (IAar, K. [In the CK, النّعْمَةُ is here, as in many other instances, erroneously put for النَّعْمَةُ.]) [See also تدوّن. Perhaps both are correct, as dial. vars.]    </entryFree> <br>\
+<b>ذَانٌ</b>               1     <br>\
+                     ذَانٌ<br>\
+                     ذ<br>\
+                   (S, K) and ذَيْنٌ, (TA,) [the latter belonging to art. ذين,] <i>A vice, fault, defect,</i> or <i>the like;</i> (S, K;) syn. with ذَابٌ [and ذَيْبٌ] and ذَامٌ and ذَيْمٌ; (S, TA;) as heard by ISk from AA. (S.)    </entryFree> <br>\
+<b>ذُونُونٌ</b>               1     <br>\
+                     ذُونُونٌ<br>\
+                     ذ<br>\
+                  <i>A certain plant:</i> a dial. var. of ذُوْنُونٌ, with ء: [see the latter in art. ذان:] pl. ذَوَانِينُ: mentioned by Az, on the authority of Ks. (TA.)   </entryFree> <br>\
+' } );

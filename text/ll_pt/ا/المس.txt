@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>المس</em>            1                  المس<br>\
+<b>اَلْمَاسٌ</b>               1     <br>\
+                     اَلْمَاسٌ<br>\
+                     ذ<br>\
+                  , or الْمَاسُ: see art. موس.   </entryFree> <br>\
+' } );

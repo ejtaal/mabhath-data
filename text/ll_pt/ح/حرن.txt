@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '<em>حرن</em>            1                  حرن<br>\
+<b>حَرَنَ</b>               1     <br>\
+                     حَرَنَ<br>\
+                     حار<br>\
+                     حرن<br>\
+                     حرنن<br>\
+                   aor.      <br>\
+                     حَرُنَ<br>\
+                  ; (S, Mgh, Msb, K;) and حَرُنَ; (S, Msb, K;) inf. n. حِرَانٌ (Mgh, Msb, K) and حُرُونٌ, (Mgh, Msb,) or the former is a simple subst., and the latter is the inf. n., (S,) and حُرَانٌ; (K;) said of a horse (S, Mgh, Msb, K) or similar beast, (Msb, K,) <i>He was, or became, restive, or refractory, and, when vehemently running, stopped:</i> (S:) or <i>stopped, and was restive, or refractory:</i> (Mgh:) or <i>stopped when one desired to call into action his power of running:</i> said peculiarly of a solid-hoofed animal: (M, K:) or, accord. to Lh, one says also حرنت النَّاقَةُ, meaning <i>the she-camel stood still, and would not move from her place:</i> and حِرَانٌ is used by AO in relation to a she-camel. (TA.) And حَرَنَ, inf. n. حُرُونٌ <br>\
+                  <i>i. q.</i> <br>\
+                  تَاَخَّرَ [<i>He went back</i> or <i>backwards, drew back, receded,</i> &amp;amp;c.]. (As, TA.) ―         -b2-  حَرَنَ بِالمَكَانِ, inf. n. حُرُوُنَةٌ, [perhaps a mistranscription for حُرُونٌ,] <i>He kept,</i> or <i>clave, to the place, and did not quit it.</i> (TA.) ―         -b3-  حَرَنَ فِى البَيْعِ (tropical:)  <i>He did not exceed nor fall short in selling.</i> (S, K, TA.)       -A2-  حَرَنَ <br>\
+                  القُطْنَ <br>\
+                  <i>He separated and loosened the cotton</i> [<i>by means of a bow and a kind of wooden mallet, by striking the string of the bow with the mallet</i>]; syn. نَدَفَهُ. (K.)    </entryFree> <br>\
+<b>حِرَانٌ</b>               1     <br>\
+                     حِرَانٌ<br>\
+                     حر<br>\
+                     حران<br>\
+                   a subst. from حَرَنَ said of a horse [or similar beast; i. e. <i>Restiveness, or refractoriness,</i> &amp;amp;c.]: (S:) or an inf. n. (Mgh, Msb, K.)    </entryFree> <br>\
+<b>حَرُونٌ</b>               1     <br>\
+                     حَرُونٌ<br>\
+                     حرون<br>\
+                   an epithet applied to a horse (S, Mgh, Msb, K) or <i>similar beast,</i> (Msb, K,) [<i>meaning Restive, or refractory,</i> &amp;amp;c.,] from حَرَنَ (S, Mgh, Msb, K) or حَرُنَ: (S, Msb, K:) pl. حُرُنٌ, with two dammehs. (TA.) ―         -b2-  Also An animal of the chase <i>that does not quit the higher, or highest, part of the mountain.</i> (S, K.)    </entryFree> <br>\
+<b>مِحْرَنٌ</b>               1     <br>\
+                     مِحْرَنٌ<br>\
+                     محرن<br>\
+                   The <i>wooden implement</i> (<i>a kind of mallet</i>) <i>with which, together with a bow, by striking with the former the string of the latter, cotton is sepa rated and loosened;</i> syn. مِنْدَفٌ. (K.)    </entryFree> <br>\
+<b>مِحْرَانٌ</b>               1     <br>\
+                     مِحْرَانٌ<br>\
+                     محر<br>\
+                     محران<br>\
+                  <i>Honey:</i> (K:) pl. مَحَارِينُ. (So in the TA, as from the K.) ―         -b2-  See also the pl. below.    </entryFree> <br>\
+<b>مَحَارِنُ</b>               1     <br>\
+                     مَحَارِنُ<br>\
+                     محارن<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>مَحَارِينُ</b>               1     <br>\
+                     مَحَارِينُ<br>\
+                     محارين<br>\
+                   (S, K) and ↓ <br>\
+      مَحَارِنُ (S [in which the latter occupies the first place, the former occurring in an ex.,]) (tropical:)  The <i>bees that stick to the honey, and are extracted with the</i> <br>\
+                  مَحَابِض, (S, K, TA,) or <i>wooden implements with which the honey itself is extracted:</i> (TA:) or the <i>bees that stick in the hive, and are with difficulty extracted:</i> or the <i>bees that die in the honey:</i> (T, TA:) sing. ↓ <br>\
+      مِحْرَانٌ (K.) ―         -b2-  And The <i>pods of cotton.</i> (K.)   </entryFree> <br>\
+' } );

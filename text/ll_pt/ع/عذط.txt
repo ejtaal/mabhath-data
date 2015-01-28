@@ -1,0 +1,27 @@
+load_data( { book: 'll_pt', text: '<em>عذط</em>            1                  عذط<br>\
+<b>عَذِطَ</b>               1     <br>\
+                     عَذِطَ<br>\
+                     ذ<br>\
+                  : see what here follows.    </entryFree> <br>\
+<b>عَذْيَطَ</b>               1     <br>\
+                     <i>Q. Q. 1</i>        <br>\
+                     عَذْيَطَ<br>\
+                     ذ<br>\
+                  , (O, Msb, K,) inf. n. عَذْيَطَةٌ, (S, Msb,) <i>Alvum ejecit, ventumve per anum emisit, in coïtu:</i> (S, O, Msb, K:) or <i>semen emisit ante congressum:</i> (K:) or <i>semen in coïtu non emisit:</i> (TA:) and ↓ <br>\
+      عَذِطَ, aor.      <br>\
+                     عَذَطَ<br>\
+                  , inf. n. عَذَطٌ, signifies the same: (Msb:) or there is no verb derived from عِذْيَوْطٌ, because it denotes a natural quality: (O, K:) so says El-Mufaddal Ibn-Selemeh, in his book on the errors in the &#39;Eyn: but the rule is only one which applies in most instances, of which this is not one; for the former of these words is of established authority, mentioned by Ibn-Málik and others of the leading lexicologists. (TA.)    </entryFree> <br>\
+<b>عَذْطٌ</b>               1     <br>\
+                     عَذْطٌ<br>\
+                     ذ<br>\
+                   the subst. [or abstract n.] from عَذْيَطَ. (Lth, K.)    </entryFree> <br>\
+<b>عِذْوَطٌ</b>               1     <br>\
+                     عِذْوَطٌ<br>\
+                     ذ<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>عِذْيَوْطٌ</b>               1     <br>\
+                     عِذْيَوْطٌ<br>\
+                     ذ<br>\
+                   (S, O, Msb, K) and عُذْيُوطٌ (Th, L, K) and ↓ <br>\
+      عِذْوَطٌ (Ibn-&#39;Abbád, O, K) <i>Qui alvum ejicit, ventumve per anum emittit, in coïtu:</i> (S, O, Msb, K:) or <i>qui semen emittit ante congressum:</i> (K:) or <i>qui semen in coïtu non emittit:</i> (TA:) and so with ة applied to a woman: (S, O, Msb:) pl. عِذْيَوْطُونَ [masc.] and عَذَايِيطُ and عَذَاوِيطُ; (Lth, O, K;) the last contr. to rule. (TA.)   </entryFree> <br>\
+' } );

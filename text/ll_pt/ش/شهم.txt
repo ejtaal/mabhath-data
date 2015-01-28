@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '<em>شهم</em>            1                  شهم<br>\
+<b>شَهُمَ</b>               1     <br>\
+                     شَهُمَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     شَهُمَ<br>\
+                  , (S, K,) inf. n. شَهَامَةٌ (S, TA) and شُهُومَةٌ, (TA,) <i>He</i> (a man) <i>was,</i> or <i>became, hardy, strong, sturdy, enduring,</i> or <i>patient;</i> (S;) [or] <i>acute of mind</i> or <i>intellect;</i> (S, K;) <i>clever, ingenious, sharp,</i> or <i>penetrating.</i> (K.) ―         -b2-  And (tropical:)  <i>He</i> (a horse) <i>was,</i> or <i>became, swift; brisk, lively, sprightly,</i> or <i>agile; and strong.</i> (K, TA.) ―         -b3-  [And app. <i>It was,</i> or <i>became, rough, harsh,</i> or <i>coarse:</i> for] شَهَامَةٌ signifies خُشُونَةٌ. (Ham p. 699.)       -A2-  شَهَمَهُ, (S, K,) aor.      <br>\
+                     شَهَمَ<br>\
+                   and      <br>\
+                     شَهُمَ<br>\
+                  , inf. n. شَهْمٌ and شُهُومٌ, (K,) <i>He frightened him,</i> or <i>made him afraid;</i> (S, K;) namely, a man. (K.) ―         -b2-  And شَهَمَ الفَرَسَ, aor.      <br>\
+                     شَهَمَ<br>\
+                  , (K,) inf. n. شَهْمٌ, (TA,) <i>He chid the horse;</i> (K;) or <i>incited him to quickness.</i> (JK, K, and Ham p. 699.)    </entryFree> <br>\
+<b>شَهْمٌ</b>               1     <br>\
+                     شَهْمٌ<br>\
+                     ذ<br>\
+                  , applied to a man, <i>Hardy, strong, sturdy, enduring,</i> or <i>patient;</i> (S;) <i>acute of mind</i> or <i>intellect;</i> (S, K;) <i>clever, ingenious, sharp,</i> or <i>penetrating;</i> and ↓ <br>\
+      مَشْهُومٌ signifies the same: pl. of the former شِهَامٌ (K) [and app. شُهُمٌ also: see سُهُمٌ, and see what here follows]. ―         -b2-  <i>A chief whose judgment,</i> or <i>judicial decision,</i> or <i>exercise of authority, is effectual in affairs;</i> (K, * TA;) <i>courageous;</i> or <i>sharp,</i> or <i>vigorous and effective, in affairs which others are unable to accomplish:</i> or, accord. to Fr, <i>forbearing,</i> or <i>clement; who performs well that which is imposed upon him; whom one finds not otherwise than forbearing,</i> or <i>clement, and pleased,</i> or <i>content, with that which</i> <br>\
+                  <i>is imposed upon him:</i> and in like manner applied to other than a man: (TA:) pl. شُهُومٌ (K) [and app. شُهُمٌ]: see سُهُمٌ, with which شُهُمٌ is syn. (TA in art. سهم.) ―         -b3-  And, applied to a horse, (tropical:)  <i>Swift; brisk, lively, sprightly,</i> or <i>agile; and strong.</i> (K, TA.)       -A2-  Also <i>A stone which is placed at the entrance of a trap</i> (مَصْيَدَة or مَصِيدَة in different copies of the K) <i>for a lion, and which falls upon it when he enters:</i> as also سَهْمٌ: (K, * TA:) the latter is the word [better] known to the leading lexicologists. (TA.)    </entryFree> <br>\
+<b>شَهَامٌ</b>               1     <br>\
+                     شَهَامٌ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  سِعْلَاةٌ [app. meaning The <i>kind of goblin,</i> or <i>demon, thus called</i>]. (As, S, K.)    </entryFree> <br>\
+<b>شَيْهَمٌ</b>               1     <br>\
+                     شَيْهَمٌ<br>\
+                     ذ<br>\
+                   The دُلْدُل [q. v., i. e. <i>hedge-hog;</i> or <i>a certain species of hedge-hog;</i> &amp;amp;c.]: (K:) [see also the last sentence of this paragraph:] and, (K,) or accord. to AZ, (TA,) the <i>male hedge-hog:</i> (S, K, TA:) or <i>such as has large prickles</i> or <i>spines, of male hedge-hogs,</i> (K, TA,) and <i>the like.</i> (TA.) عَلَى ظَهْرِ شَيْهَمٍ, occurring in a verse of El-Aashà, is said by AO to mean (assumed tropical:)  <i>In a state of fright,</i> or <i>fear.</i> (TA.) ―         -b2-  شَيْهَمَةٌ <br>\
+                  <i>An old woman:</i> (K:) or, accord. to IAar, <i>a hedge-hog.</i> (TA.)    </entryFree> <br>\
+<b>مَشْهُومٌ</b>               1     <br>\
+                     مَشْهُومٌ<br>\
+                     ذ<br>\
+                  : see شَهْمٌ.       -A2-  Also <i>Frightened,</i> or <i>made afraid.</i> (S, TA.) ―         -b2-  And, applied to a horse, <i>Chidden;</i> or <i>incited to quickness.</i> (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '<em>بقس</em>            1                  بقس<br>\
+<b>بَقْسٌ</b>               1     <br>\
+                     بَقْسٌ<br>\
+                     بقس<br>\
+                     قس<br>\
+                   and ↓ <br>\
+      بَقْسِيسٌ, (K,) the latter written, in some copies of the K, بقبيس, (TA,) [The <i>boxtree;</i> Greek        <br>\
+      <orth lang=&quot;gr&quot;>πυξος</orth>;] <i>a certain kind of tree, resembling the</i> <br>\
+                  ا=س [or <i>myrtle</i>] <i>in leaves and berries:</i> or <i>i. q.</i> <br>\
+                  شَمْشَاد [a Persian word, also applied to the <i>box-tree</i>]: (K:) <i>it grows in the country of the Greeks; and spoons and doors are made of it, because of its hardness:</i> and it may be with ش [بَقْشٌ, which is explained by Sgh and in the K as  a kind of tree called in Persion خُوشْ سَاىْ; and this, also, is a name of the <i>box-tree</i>]: (TA:) it is astringent, having the property of drying up the moisture of the intestines; and its saw-dust, kneaded with honey, strengthens the hair, and makes it abundant, and is good for (or prevents, as in the CK,) the headache, and with the white of the egg is good for what is termed وَثْىٌ, (K,) i. e., a fracture [of the flesh]. (TA.)    </entryFree> <br>\
+<b>بَقْسِيسٌ</b>               1     <br>\
+                     بَقْسِيسٌ<br>\
+                     بقسيس<br>\
+                     قسيس<br>\
+                  : see بَقْسٌ, above.   </entryFree> <br>\
+' } );

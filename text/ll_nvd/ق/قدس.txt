@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'قدسقَادُوسٌ<br>\
+(pl. قَوَادِيسُ) An earthen or wooden pot<br>\
+of a water-wheel. (PU.)<br>\
+' } );

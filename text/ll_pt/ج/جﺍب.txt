@@ -1,0 +1,40 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جاب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جاب<br>\
+&lt;entryFree id=&quot;n4874&quot; key=&quot;جَاَبَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     جَاَبَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     جَاََ<br>\
+                  &lt;/form&gt;, (S, K,) inf. n. جَاْبٌ, (S,) &lt;i&gt;He gained, earned,&lt;/i&gt; or &lt;i&gt;acquired,&lt;/i&gt; (S, K,) &lt;i&gt;wealth,&lt;/i&gt; or &lt;i&gt;property:&lt;/i&gt; (K:) but [SM says,] I have not seen that any of the leading lexicologists has mentioned this addition of wealth, or property. (TA. [See, however, جَاّ=بٌ, below.]) The rájiz (Ru-beh Ibn-El-&#39;Ajjáj, TA) says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَاْللّٰهُ رَاعِى عَمَلِى وَجَاْبِى<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And God is mindful of my work and my earning&lt;/i&gt;]. (S, TA.)       -A2-  Also &lt;i&gt;He sold&lt;/i&gt; <br>\
+                  جَاْبِ, i. e. مَغْرَة [&lt;i&gt;red ochre&lt;/i&gt;]; (IAar, K;) and so جَبَاَ. (IAar, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4875&quot; key=&quot;جَاْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَاْبٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Thick, gross, big,&lt;/i&gt; or &lt;i&gt;bulky:&lt;/i&gt; (S, K:) or &lt;i&gt;strong:&lt;/i&gt; (A:) applied to an ass, (A, K,) or to a wild ass: (S, K:) as also جَابٌ, without ء: (S:) pl. جُوُوبٌ. (TA.) Accord. to the K [and the A], it signifies also Whatever is &lt;i&gt;rude,&lt;/i&gt; or &lt;i&gt;coarse; thick, gross, big,&lt;/i&gt; or &lt;i&gt;bulky:&lt;/i&gt; (كُلُّ جَافٍ غَلِيظٍ:) but in the L, we find كَاهِلٌ جَاْبٌ غَلِيظٌ [meaning that جَاْبٌ applied to the part of the back termed كاهل signifies &lt;i&gt;thick,&lt;/i&gt; or &lt;i&gt;big&lt;/i&gt;]: and خَلْقٌ جَاْبٌ as meaning &lt;i&gt;a thick, gross, big,&lt;/i&gt; or &lt;i&gt;bulky, make.&lt;/i&gt; (TA.) ―         -b2-  [Hence,] الجَاْبُ <br>\
+                  &lt;i&gt;The lion.&lt;/i&gt; (A, Sgh, K.) ―         -b3-  And جَاْبَةُ المِدْرَى, (S, A, K,) or, accord. to AO (S) and the Mj (TA) and Sh, (TA in art. جوب q. v.,) without ء, (S, TA,) A doe-gazelle &lt;i&gt;having her horn just come forth;&lt;/i&gt; because the horn when it first comes forth is thick, and afterwards becomes slender; (S, K;) thus showing her to be young: (S:) or a doe-gazelle, and a cow, &lt;i&gt;strong in the horn.&lt;/i&gt; (A.) [See also art. جوب.] ―         -b4-  You say also, فُلَانٌ شَخْتُ الا=لِ جَاْبُ <br>\
+                  الصَّبْرِ (assumed tropical:)  &lt;i&gt;Such a one is slender in body,&lt;/i&gt; or &lt;i&gt;person,&lt;/i&gt; [but] &lt;i&gt;great in patience.&lt;/i&gt; (S.)       -A2-  The &lt;i&gt;navel.&lt;/i&gt; (K.)       -A3-  &lt;i&gt;Red ochre;&lt;/i&gt; syn. مَغْرَة [read by Golius معزة]; (Mj, K;) with and without ء, (Mj, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4876&quot; key=&quot;جَاْبَةُ البَطْنِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَاْبَةُ البَطْنِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (Ibn-Buzurj, K,) as also جَبْاَةُ <br>\
+                  البَطْنِ, (Ibn-Buzurj, TA,) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  مَاْنَةُ البَطْنِ, (K,) i. e. &lt;i&gt;The part of the belly that is between the navel and the pubes.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4877&quot; key=&quot;جُوْبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُوْبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4878&quot; key=&quot;جُوُوبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُوُوبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (K) and ↓ <br>\
+      جُوْبَةٌ (K accord. to some copies, but not in others nor in the TA) &lt;i&gt;A grinning, and frowning,&lt;/i&gt; or &lt;i&gt;contracting, of the face;&lt;/i&gt; or &lt;i&gt;looking sternly, austerely,&lt;/i&gt; or &lt;i&gt;morosely.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n4879&quot; key=&quot;جَاّ=بٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَاّ=بٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A gainer, an earner,&lt;/i&gt; or &lt;i&gt;an acquirer, of wealth,&lt;/i&gt; or &lt;i&gt;property.&lt;/i&gt; (TA voce جَوَّابٌ.)   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,19 @@
+load_data( { book: 'll_nvd', text: 'صعو1<br>\
+صَعَا, aor.<br>\
+صَعَوَ, He, or it, was slender; and<br>\
+was small: (IAar, K:) from صَعْوٌ, here following.<br>\
+(TA.)<br>\
+صَعْوٌ A small عُصْفُور [or bird of the sparrowkind], (K, TA,) red in the head; (TA;) fem.<br>\
+with ة: (K:) or small عَصَافِير [or birds of the<br>\
+sparrow-kind], the heads of which are red; n. un.<br>\
+with ة: (Msb:) or صَعْوَةٌ signifies a certain bird;<br>\
+and its pl. is صَعْوٌ and صِعَآءٌ: (S:) or the pl. (of<br>\
+صَعْوَةٌ, Msb) is صِعَآءٌ (Msb, K) and صَعَوَاتٌ, (K, in<br>\
+the CK صعْواتٌ,) and the pl. of صَعْوٌ is أَصْعَآءٌ:<br>\
+some say that صَعْوٌ is originally وَصْعٌ. (TA.) ―<br>\
+-b2-<br>\
+Hence, (TA,) نَاقَةٌ صَعْوَةٌ A she-camel small in the<br>\
+head. (K.)<br>\
+-A2-  And the pl. أَصْعَآءٌ signifies أُصُولٌ<br>\
+[pl. of أَصْلٌ, q. v.]. (TA.)<br>\
+' } );

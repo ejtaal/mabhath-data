@@ -1,0 +1,130 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اشر&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اشر<br>\
+&lt;entryFree id=&quot;n823&quot; key=&quot;اَشَرَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَشَرَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (S, Msb, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَشِرَ<br>\
+                  &lt;/form&gt; (ISk, MS,) or      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَشَرَ<br>\
+                  &lt;/form&gt; (Msb,) inf. n. اَشْرٌ, (Msb,) &lt;i&gt;He divided&lt;/i&gt; [or &lt;i&gt;sawed&lt;/i&gt;] a piece of wood (ISk, Msb, K) with the مِيْشَار; (S, Msb, K;) as also وَشَرَ and نَشَرَ. (Msb, TA.) ―         -b2-  اَشَرَتْ اَسْنَانَهَا, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَشِرَ<br>\
+                  &lt;/form&gt; [or, accord. to the Msb, it seems to be      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَشُرَ<br>\
+                  &lt;/form&gt;,] inf. n. اَشْرٌ; (K;) and ↓ <br>\
+      اَشَّرَتْهَا (K,) inf. n. تَاْشِيرٌ; (S;) &lt;i&gt;She&lt;/i&gt; (a woman, TA) &lt;i&gt;made her teeth serrated,&lt;/i&gt; (S, K,) &lt;i&gt;and sharpened their extremities,&lt;/i&gt; (S,) to render them like those of a young person: but a curse is denounced in a trad. against her who does this. (TA.) [See also art. وشر]       -A2- , اَشِرَ aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَشَرَ<br>\
+                  &lt;/form&gt;, (S, Msb, K,) inf. n. اَشَرٌ (S, A, Msb,) &lt;i&gt;He exulted,&lt;/i&gt; or &lt;i&gt;exulted greatly,&lt;/i&gt; or &lt;i&gt;excessively; and behaved insolently and unthankfully,&lt;/i&gt; or &lt;i&gt;ungratefully:&lt;/i&gt; (S,* A,* Msb, K,* TA:) or &lt;i&gt;he exulted by reason of wealth, and behaved with pride, and self-conceitedness, and boastfulness, and want of thankfulness:&lt;/i&gt; or &lt;i&gt;he behaved with the utmost exultation, &amp;amp;c.: or he rejoiced, and rested his mind upon things agreeable with natural desire.&lt;/i&gt; (TA.) [See بَطِرَ]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اَشَّرَ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n824&quot; key=&quot;اْيْتَشَرَتْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اْيْتَشَرَتْ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, written with the disjunctive alif ايتَشَرَتْ <br>\
+                  &lt;i&gt;She invited another to make her teeth&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;62&quot; TEIform=&quot;pb&quot;/&gt; <br>\
+                  &lt;i&gt;serrated and to sharpen their extremities;&lt;/i&gt; as also ↓ <br>\
+      استاشرت See the act. part. ns. below: and see also استوشرت]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     اـِسْتَاْشَرَ<br>\
+                  &lt;/form&gt; see 8.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n825&quot; key=&quot;اَشْرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَشْرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; see اَشِرٌ    <br>\
+&lt;entryFree id=&quot;n826&quot; key=&quot;اَشَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَشَرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; see اَشِرٌ    <br>\
+&lt;entryFree id=&quot;n827&quot; key=&quot;اَشُرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَشُرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; see اَشِرٌ    <br>\
+&lt;entryFree id=&quot;n828&quot; key=&quot;اَشِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَشِرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, A, Msb, K) and ↓ <br>\
+      اَشُرٌ and ↓ <br>\
+      اَشْرٌ and ↓ <br>\
+      اَشَرٌ (K) and ↓ <br>\
+      اَشْرَانُ (S, K) &lt;i&gt;Exulting,&lt;/i&gt; or &lt;i&gt;exulting greatly,&lt;/i&gt; or &lt;i&gt;excessively; and behaving insolently and unthankfully,&lt;/i&gt; or &lt;i&gt;ungratefully:&lt;/i&gt; (S,* A, * Msb, K,* TA:) or &lt;i&gt;exulting by reason of wealth, and behaving with pride, and self-conceitedness, and boastfulness, and want of thankfulness:&lt;/i&gt; or &lt;i&gt;behaving with the utmost exultation, &amp;amp;c.:&lt;/i&gt; or &lt;i&gt;rejoicing, and resting the mind upon things agreeable with natural desire:&lt;/i&gt; (TA:) pl. [of the first] اَشِرُونَ and [of the second] اَشُرُونَ (L, K) and [of the first four] اُشُرٌ (K [accord. to the TA, but not in the copies of the K in my hands,]) and (of اَشْرَانُ TA) اَشْرَى (K) and اُشَارَى (S, K) and اَشَارَى (K.) One says, اَشِرٌ اَفِرٌ and ↓ <br>\
+      اَشْرَانُ <br>\
+                  اَفْرَانُ, using the latter word in each instance as an imitative sequent. (TA.) ―         -b2-  بَرْقٌ اَشِرٌ (tropical:)  &lt;i&gt;Lightning flashing repeatedly to and fro.&lt;/i&gt; (A.) ―         -b3-  نَبْتٌ اَشِرٌ (tropical:)  &lt;i&gt;A plant,&lt;/i&gt; or &lt;i&gt;herbage, extending beyond its proper bounds.&lt;/i&gt; (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n829&quot; key=&quot;اُشَرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُشَرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n830&quot; key=&quot;بِاَسْنَانِهِ اُشُرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     بِاَسْنَانِهِ اُشُرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اُشَرٌ and ↓ <br>\
+      اُشُورٌ (S, K,) which last is a pl., (K,) &lt;i&gt;In his teeth is a serration,&lt;/i&gt; (S, K,) &lt;i&gt;and a sharpness of the extremities&lt;/i&gt; [such as is seen in the teeth of young persons]; (S;) which is sometimes natural and sometimes artificial; (K;) and [naturally] only in the teeth of young persons. (TA.) Hence the prov., اَعْيَيْتَنِى <br>\
+                  بِاُشُرِ فَكَيْفَ بِدُرْدُرٍ. (S.) [See art. در] ―         -b2-  اُشُرُ <br>\
+                  المِنْجَلِ (tropical:)  &lt;i&gt;The teeth of the reaping-hook,&lt;/i&gt; or &lt;i&gt;sickle.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n831&quot; key=&quot;اُشْرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُشْرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and its dual: see ا=شِرٌ    <br>\
+&lt;entryFree id=&quot;n832&quot; key=&quot;اُمْنِيَّةٌ اَشْرَا=ءُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُمْنِيَّةٌ اَشْرَا=ءُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A very exulting wish:&lt;/i&gt; occurring in the Mo&#39;allakah of El-Hárith Ibn-Hillizeh. (EM p. 272.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n833&quot; key=&quot;اَشْرَانُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَشْرَانُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَشِرٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n834&quot; key=&quot;اُشُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُشُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; see اُشُرٌ    <br>\
+&lt;entryFree id=&quot;n835&quot; key=&quot;ا=شِرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=شِرٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Dividing&lt;/i&gt; [or &lt;i&gt;sawing&lt;/i&gt;], or one &lt;i&gt;who divides&lt;/i&gt; [or &lt;i&gt;saws&lt;/i&gt;], wood, with the مِيْشَار (Msb.) ―         -b2-  [Hence,] The &lt;i&gt;prickles&lt;/i&gt; [or &lt;i&gt;serrated parts&lt;/i&gt;] of the shanks of the locust; (K;) as also ↓ <br>\
+      تَا=شِيرُ (TA.) ―         -b3-  Also, and ↓ <br>\
+      اُشْرَةٌ and ↓ <br>\
+      عُقْدَةٌ) &lt;i&gt;at the extremity of the tail of the locust, like two claws;&lt;/i&gt; (K;) which two things are also called ↓ <br>\
+      اُشْرَتَانِ and ↓ <br>\
+      مِيْشَارَانِ (TA.) ―         -b4-  ا=شِرَةٌ A woman &lt;i&gt;who sharpens the extremities of her teeth [and makes them serrated:&lt;/i&gt; see 1]. (Msb.)       -A2-  يَدٌ ا=شِرَةٌ <br>\
+                  &lt;i&gt;An arm,&lt;/i&gt; or &lt;i&gt;a hand, sawn off; i. q.&lt;/i&gt; ↓ <br>\
+      مَاْشُورَةٌ: (ISk, S, Msb, K:*) like عِيشَةٌ رَاضِيَةٌ in the sense of مَرْضِيَةٌ. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n836&quot; key=&quot;تَاْشِيرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَاْشِيرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; or تَاْشِيرَةٌ, as in different Lexicons, (TA,) [the former in the K,] The &lt;i&gt;thing with which the locust bites:&lt;/i&gt; pl. تَا=شِيرُ (K.) ―         -b2-  See also the pl. voce ا=شِرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n837&quot; key=&quot;مُوَشَّرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَشَّرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Anything (TA) &lt;i&gt;made thin [and serrated].&lt;/i&gt; (K.) [Hence,] ثَغْرٌ مُوَشَّرٌ <br>\
+                  &lt;i&gt;A front tooth serrated and sharpened at the extremity.&lt;/i&gt; (TA.) And hence, (TA,) مُوَشَّرُ العَضُدَيْنِ is applied to the beetle [as meaning &lt;i&gt;Having the fore shanks formed thin, and serrated&lt;/i&gt;]. (S, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n838&quot; key=&quot;مِيْشَارٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْشَارٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, Msb, K, &amp;amp;c.) [&lt;i&gt;A saw;] an instrument with which wood is divided;&lt;/i&gt; (Msb, K) as also مِيشَارٌ, from وَشَرَ; (Msb, TA;) and مِنْشَارٌ: (TA:) pl. مَا=شِيرُ. (ISk, Msb, TA.) ―         -b2-  See also this word and its dual voce ا=شِرٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n839&quot; key=&quot;مَاْشُورٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْشُورٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; Wood &lt;i&gt;divided&lt;/i&gt; [or &lt;i&gt;sawn&lt;/i&gt;] with the مِيْشَار (Msb.) See also ا=شِرٌ ―         -b2-  مَاْشُورَةٌ A woman &lt;i&gt;who has the extremities of her teeth sharpened [and serrated artificially:&lt;/i&gt; see 1]. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n840&quot; key=&quot;مِيْشِيرٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْشِيرٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, applied alike to the male and the female, (S,) to a she-camel and a courser, (S, K,) and a man and a woman, (TA,) &lt;i&gt;Brisk; lively; sprightly.&lt;/i&gt; (S,* K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n841&quot; key=&quot;مُوْتَشِرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْتَشِرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      مُسْتَاْشِرَةٌ A woman &lt;i&gt;who invites [another] to make her teeth serrated [and to sharpen their extremities:&lt;/i&gt; see 1]. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n842&quot; key=&quot;مُسْتَاْشِرَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُسْتَاْشِرَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next precedes.   &lt;/entryFree&gt; <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>هنتب</em>            1                  هنتب<br>\
+<b>هَنْتَبَ فِى اَمْرِهِ</b>               1     <br>\
+                     <i>Q. 1</i>        <br>\
+                     هَنْتَبَ فِى اَمْرِهِ<br>\
+                     ذ<br>\
+                  <i>He was remiss in his affair.</i> (K.) See also هَنْبَتَ.   </entryFree> <br>\
+' } );

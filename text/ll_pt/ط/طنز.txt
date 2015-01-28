@@ -1,0 +1,28 @@
+load_data( { book: 'll_pt', text: '<em>طنز</em>            1                  طنز<br>\
+<b>طَنَزَ بِهِ</b>               1     <br>\
+                     طَنَزَ بِهِ<br>\
+                     ذ<br>\
+                  , (S, * A, MA, K,) aor.      <br>\
+                     طَنَزَ<br>\
+                  , (S, A, TA,) inf. n. طَنْزٌ, (S, * MA, K, *) <i>He mocked at, scoffed at, laughed at, derided,</i> or <i>ridiculed, him.</i> (S, A, MA, K.) [See also طَنْزٌ below.]    </entryFree> <br>\
+<b>طانزهُ</b>               1     <br>\
+                     طانزهُ<br>\
+                     ذ<br>\
+                  , (A, TA,) inf. n. مُطَانَزَةٌ, (TA,) [<i>He mocked at, scoffed at, laughed at, derided,</i> or <i>ridiculed, him, being mocked at,</i> &amp;amp;c., <i>by him.</i>]    </entryFree> <br>\
+<b>تطانزوا</b>               1     <br>\
+                     تطانزوا<br>\
+                     ذ<br>\
+                   [<i>They mocked at, scoffed at, laughed at, derided,</i> or <i>ridiculed, one another</i>]. (A, TA.)    </entryFree> <br>\
+<b>طَنْزٌ</b>               1     <br>\
+                     طَنْزٌ<br>\
+                     ذ<br>\
+                  <i>Mockery, scoff, derision,</i> or <i>ridicule:</i> (S, K:) [J says,] I think it to be post-classical or arabicized. (S.) [Golius says, it is termed in Armenian “ dnâs. ”]       -A2-  Also <i>A species of fish.</i> (K.)    </entryFree> <br>\
+<b>طَنَّازٌ</b>               1     <br>\
+                     طَنَّازٌ<br>\
+                     ذ<br>\
+                  <i>A mocker, scoffer,</i> or <i>derider.</i> (S, K.)    </entryFree> <br>\
+<b>هُمْ مَطْنَزَةٌ</b>               1     <br>\
+                     هُمْ مَطْنَزَةٌ<br>\
+                     ذ<br>\
+                  <i>They are</i> [<i>such as occasion mockery, scoff, derision,</i> or <i>ridicule;</i> or] <i>persons in whom is no good; held in light,</i> or <i>mean, estimation</i> [<i>by others</i> or] <i>by themselves.</i> (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,56 @@
+load_data( { book: 'll_nvd', text: 'ارخ1<br>\
+أَرَخَ الكِتَابَ: see 2.<br>\
+2<br>\
+أَرَّخَ الكِتَابَ, (S, Mgh, Msb, K,) inf. n.<br>\
+تَأْرِيخٌ; (S, Mgh;) and ↓ أَرَخَهُ, (IKtt, Msb, K,)<br>\
+inf. n. أَرْخٌ; (TA;) but the former is the more<br>\
+common, (Msb,) and the latter is by some rejected, though correct accord. to IKtt and others;<br>\
+(MF;) and ↓ آرخهُ, (K,) inf. n. مُؤَارَخَةٌ; (TA;)<br>\
+as also وَرَّخَهُ, inf. n. تَوْرِيخٌ; (S, Mgh, * Msb;) in<br>\
+which the و is a substitute for the ء; (Yaakoob,<br>\
+Msb;) a form seldom used; (Msb;) He dated<br>\
+the writing, or letter; inscribed it with a date, or<br>\
+note of the time when it was written. (S, Mgh,<br>\
+Msb, K.) You say also, أَرَّخَ الكِتَابَ بِيَوْمِ كَذَا<br>\
+He inscribed the writing, or letter, with the date<br>\
+of such a day. (S, L.) And أَرَّخَ البَيِّنَةَ He dated,<br>\
+or mentioned the date of, the evidence, proof, or<br>\
+voucher: in the contr. case saying, أَطْلَقَ. (Msb.)<br>\
+Some say that تأريخ is an arabicized word, (L,<br>\
+Msb,) borrowed by the Muslims from the people<br>\
+of the Bible: [i. e., from the Jews or Christians;<br>\
+app. from the Hebr.<br>\
+יָרֵחַ the “moon,” or<br>\
+יֶרַח “a<br>\
+month;“ or from the Chald.<br>\
+יְרַח “a month;”<br>\
+as observed by Golius:] (L:) others say that it<br>\
+is [pure] Arabic: (Msb, TA:) some, that it is<br>\
+formed by transposition from تَأْخِيرٌ. (TA.)<br>\
+3<br>\
+اَاْرَخَ see 2.<br>\
+أُرْخَةٌ: see what next follows.<br>\
+تَأْرِيخٌ inf. n. of 2. ―<br>\
+-b2-  Also, [as a subst., generally pronounced without ء,] A date; an era; an<br>\
+epoch; (Msb;) and ↓ أُرْخَةٌ is a subst. [signifying<br>\
+the same,] from أَرَخَ. (K.) تَأْرِيخُ الهِجْرَةِ is The<br>\
+era, or epoch, of the Emigration [or Flight (for<br>\
+such it really was)] of Mohammad [from Mekkeh<br>\
+to El-Medeeneh], (L, Msb,) which his companions, in the time of &#39;Omar, agreed to make<br>\
+their era, commencing the year from the first<br>\
+appearance of the new moon of [the month] ElMoharram, [two months before the Flight itself,]<br>\
+and making the day to commence from sunset:<br>\
+(Msb:) it is also called تَأْرِيخَ المُسْلِمِينَ the era,<br>\
+or epoch, of the Muslims. (L.) ―<br>\
+-b3-  Also The<br>\
+utmost limit, term, or time, of anything: whence<br>\
+the saying, فُلَانٌ تَأْرِيخُ قُوْمِهِ Such a one is the<br>\
+person from whom date the nobility, or eminence,<br>\
+and dominion, or authority, of his people. (Es-<br>\
+Soolee, Mgh, TA.) ―<br>\
+-b4-  [Also, A chronicle; a book<br>\
+of annals; a history: pl. تَوَارِيخُ, from تَوْرِيخٌ.]<br>\
+[<br>\
+مُؤَرِّخٌ A chronicler; a writer of annals; a<br>\
+historian..]<br>\
+' } );

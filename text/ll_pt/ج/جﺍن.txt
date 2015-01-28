@@ -1,0 +1,8 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جان&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جان<br>\
+&lt;entryFree id=&quot;n4894&quot; key=&quot;جُوْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جُوْنَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A receptacle of the kind termed&lt;/i&gt; <br>\
+                  سَفَط, &lt;i&gt;covered with skin, for the perfumes of the seller of perfumes;&lt;/i&gt; as also جُونَةٌ: originally with ء: pl. like صُرَدٌ [i. e. جُوَنٌ: thus in the TA, without ء]. (K.) See also art. جون.   &lt;/entryFree&gt; <br>\
+' } );

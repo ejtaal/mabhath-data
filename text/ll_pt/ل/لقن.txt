@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>لقن</em>            1                  لقن<br>\
+<b>لَاقَنَهُ</b>               1     <br>\
+                     لَاقَنَهُ<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  ضَايَقَهُ. (TA voce ذَاقَنَهُ.)    </entryFree> <br>\
+<b>لَقَنٌ</b>               1     <br>\
+                     لَقَنٌ<br>\
+                     ذ<br>\
+                  , arabicised from [the Persian] لَقَنْ [also written لَكَنْ]. <i>A thing</i> [or <i>basin</i>] <i>resembling a</i> <br>\
+                  طَسْت, <i>of</i> <br>\
+                  صُفْر [or <i>brass</i>]. (TA.) See اـِجَّانَهٌ.   </entryFree> <br>\
+' } );

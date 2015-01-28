@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هر</em>            1                  هر<br>\
+<b>هَرَّ</b>               1     <br>\
+                     هَرَّ<br>\
+                     ذ<br>\
+                  , inf. n. هِرٌّ, <i>He drove</i> sheep or goats:  (IAar, in S, K, voce بِر:) or <i>he called</i> them. (Yoo, in TA, ibid.)   </entryFree> <br>\
+' } );

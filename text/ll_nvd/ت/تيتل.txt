@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'تيتلتَيْتَلٌ a dial. var., or a mispronunciation, of<br>\
+ثَيْتَلٌ. (TA.)<br>\
+' } );

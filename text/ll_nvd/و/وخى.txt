@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'وخى3<br>\
+وَاخَاهُ<br>\
+: see آخَاهُ.<br>\
+5<br>\
+تَوَخَّاهُ<br>\
+He sought it, aimed at it, or purposed it: (S, Mgh, Msb, K:) and he sought it,<br>\
+&amp;c., exclusively of, or in preference to, any<br>\
+other thing. (Mgh.)<br>\
+' } );

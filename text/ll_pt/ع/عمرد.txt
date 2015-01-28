@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>عمرد</em>            1                  عمرد<br>\
+<b>عَمَرَّدٌ</b>               1     <br>\
+                     عَمَرَّدٌ<br>\
+                     ذ<br>\
+                  <i>Long;</i> (S, O, K;) as also ↓ <br>\
+      عُمْرُودٌ; (K;) applied to a road, (S, O,) as meaning <i>far extending,</i> (O,) and to a desert without water or herbage, (S, O,) and a limit, term, reach, or goal, or a heat, or single run to a goal or limit, (شَاْو,) (AA, S, O,) and a horse, (S, O,) or anything. (K.) ―         -b2-  <i>Evil in disposition and very perverse, and strong;</i> (O, L, K;) applied to a horse. (L.) <i>Malignant,</i> or <i>noxious;</i> applied to a wolf. (L, K.) <i>Malignant,</i> or <i>noxious, and very cunning;</i> (O, * K;) and so عَمَرَّطٌ; applied to a wolf; and the latter sometimes applied in this sense to a man: pls. عَمَارِدُ and عَمَارِطُ. (O.) ―         -b3-  An <i>excel-lent</i> camel, <i>used for riding.</i> (O, L, K. *) ―         -b4-  A <i>quick, vehement</i> pace. (L.)    </entryFree> <br>\
+<b>عُمْرُودٌ</b>               1     <br>\
+                     عُمْرُودٌ<br>\
+                     ذ<br>\
+                  : see above, first sentence.   </entryFree> <br>\
+' } );

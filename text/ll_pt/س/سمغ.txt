@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>سمغ</em>            1                  سمغ<br>\
+<b>السَّامِغَانِ</b>               1     <br>\
+                     السَّامِغَانِ<br>\
+                     ذ<br>\
+                  <i>The two sides of the mouth, beneath the two extremities of the mustache, on the right and left;</i> a dial. var. of الصَّامِغَانِ [q. v.]. (IDrd, K.)   </entryFree> <br>\
+' } );

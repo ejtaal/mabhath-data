@@ -1,0 +1,75 @@
+load_data( { book: 'll_nvd', text: 'كدس1<br>\
+كَدَسَهُ, (A, Msb, TA,) aor.<br>\
+كَدِسَ, (Msb,) inf. n.<br>\
+كَدْسٌ, (Msb, TA,) He collected it together;<br>\
+(A, TA;) made it into a كُدْس, accumulated,<br>\
+heaped, or piled up, one part upon another;<br>\
+(Msb;) namely, wheat, (A,) or reaped grain;<br>\
+(Msb, TA;) [and in like manner, (tropical:)  money, and<br>\
+clothes, &amp;c.: and so ↓ كدّس, inf. n. تَكْدِيسٌ;<br>\
+but this has an intensive signification, or applies<br>\
+to many objects: see مُكَدَّسٌ, below.]<br>\
+-A2-<br>\
+كَدَسَتِ الخَيْلُ, (A, Msb,) [aor.<br>\
+كَدِسَ,] inf. n. كَدْسٌ,<br>\
+(Msb,) (tropical:)  The horses followed closely one upon<br>\
+another: (Msb:) or collected themselves together,<br>\
+and followed closely one upon another; as also<br>\
+↓ تكدّست: (A:) or كَدْسٌ signifies the going<br>\
+quickly of one who is heavily laden: (S, K:)<br>\
+and كَدَسَتِ الخَيْلُ the horses went quickly, being<br>\
+heavily laden: (S:) and كَدَسَتِ الإِبِلُ the camels<br>\
+went quickly, with heaviness, and followed closely<br>\
+one upon another: (TA:) or [simply] went<br>\
+quickly: (Fr:) ↓ تَكَدُّسٌ also signifies the walking,<br>\
+or going, quickly: (IAar, K:) and الفَرَسُ ↓ تكدّس<br>\
+the horse went as though he were heavily laden:<br>\
+(S:) or ↓ تَكَدُّسٌ signifies the walking, or going,<br>\
+like him who is short and thick: (TA:) and the<br>\
+moving about the shoulder-joints, and erecting the<br>\
+part between the paps, (but instead of وَيَنْصِبَ مَا<br>\
+بَيْنَ ثَدْيَيْهِ, we find in some copies وَيَنْصَبُّ إِلَى مَا<br>\
+بَيْنَ يَدَيْهِ [and descending towards the place<br>\
+before him], TA,) when walking, or going along,<br>\
+(K, TA,) as though one were going away at<br>\
+random; and thus the mountain-goats go: so<br>\
+accord. to IAar: (TA:) and الإِنْسَانُ ↓ تكدّس<br>\
+the man was pushed from behind, and fell<br>\
+down. (TA.)<br>\
+2<br>\
+كَدَّسَ see 1, first part.<br>\
+5<br>\
+تكدّس It (wheat, A, or reaped grain, TA,<br>\
+[&amp;c.,]) became collected together. (A, TA.)<br>\
+-A2-<br>\
+See also 1, in five places.<br>\
+كُدْسٌ Reaped grain collected together; [a<br>\
+heap thereof;] (A, K;) as also ↓ كُدَّاسٌ, like<br>\
+رُمَّانٌ: (Ibn-&#39;Abbád and A, Sgh, K:) or what is<br>\
+collected together, of wheat, (S, * Msb,) in the<br>\
+place where it is trodden out: (Msb:) when<br>\
+trodden out and thrashed, it is called عَرَمَةٌ and<br>\
+صُبْرَةٌ: or, as Az says, in one place in the T, on<br>\
+the authority of IAar, كُدْسٌ and بَيْدَرٌ and عَرَمَةٌ<br>\
+and شَغْلَةٌ are all one: and in another place he<br>\
+says, that كُدْسٌ signifies a collection of wheat:<br>\
+and in like manner, (assumed tropical:)  what is collected [or heaped]<br>\
+together, of money, and of other things: (Msb:)<br>\
+or (assumed tropical:)  of dates, (TA,) and (tropical:)  of money, (A, TA,) and<br>\
+the like, (TA,) and (tropical:)  of clothes: (A, TA:) also,<br>\
+(assumed tropical:)  a large heap of sand, of which one part does<br>\
+not separate from another: (En-Nadr:) and<br>\
+↓ كُدَاسٌ, like غُرَابٌ, what is collected together,<br>\
+or heaped up, of snow: and ↓ كُدَاسَةٌ, what is<br>\
+collected together, and heaped up, one part upon<br>\
+another: (K:) the pl. of كُدْسٌ is أَكْدَاسٌ.<br>\
+(S, A, Msb.)<br>\
+كُدَاسٌ and كُدَاسَةٌ: see كُدْسٌ<br>\
+كُدَّاسٌ: see كُدْسٌ<br>\
+كُدْسٌ مُكَدَّسٌ [What is collected together, of<br>\
+wheat, &amp;c., heaped up much]. (Msb.) You say<br>\
+also عِنْدَهُ مِنْ دَرَاهِمَ وَثِيَابٍ كُدْسٌ مُكَدَّسٌ (tropical:)  [He<br>\
+has, of money, and of clothes, a collection heaped<br>\
+up much]: and أَكْدَاسٌ مُكَدَّسَةٌ (tropical:)  [collections<br>\
+heaped up]. (A, TA.)<br>\
+' } );

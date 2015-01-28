@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>حلت</em>            1                  حلت<br>\
+<b>حِلِّيتٌ</b>               1     <br>\
+                     حِلِّيتٌ<br>\
+                     حلى<br>\
+                     حلي<br>\
+                     حليت<br>\
+                  : see what follows.    </entryFree> <br>\
+<b>حِلْتِيتٌ</b>               1     <br>\
+                     حِلْتِيتٌ<br>\
+                     حلتيت<br>\
+                  ; (S, K;) for which you should not say حِلْتِيثٌ, with ث; sometimes written حِلِّتِيتٌ; (S; as in one copy; but in another, and in that from which SM quotes, حِلِّيتٌ;) and ↓ <br>\
+      حِلِّيِتٌ; (K;) [<i>Assa,</i> or <i>asa:</i> of which there are two kinds; حِلْتِيتٌ مُنْتِنٌ, or <i>assa fœtida;</i> and حلتيتٌ طَيّبٌ or <i>assa dulcis:</i>] the <i>gum of the</i> <br>\
+                  اَنْجُذَان: (S K:)  ISd says, حلتيت is an Arabic or an arabicized word: [and is the name of <i>a certain plant:</i>] I have not heard that it grows in Arabia; but <i>it grows between Bust and the country of El-Keekán: it is</i> he says, <i>a plant that lies prone upon the ground, and from the middle of it there comes forth, and rises high, a reed, or cane, at the head whereof is a knob</i> (كُعْبُرَةٌ): it is also, he adds, the name of the <i>gum that comes forth at the roots of the leaves of that reed, or cane: the people of the part above mentioned,</i> he says, <i>cook the plant thus called, and eat it; and it is not a plant that remains during the winter.</i> (TA.) In the T, Az states that حلتيت is said, on the authority of Lth, to be the same as انجرد [app. a mistake for اَنْجُرَة; or for اَنْجِزَد, from the Persian اَنْگِCَدْ, signifying <i>assa fœtida</i>]; but, he adds, the word that I remember to have heard as the same as انجرد is خلتيت, with خ; and I do not think it to be genuine Arabic. (TA, here and in art. خلت.)   </entryFree> <br>\
+' } );

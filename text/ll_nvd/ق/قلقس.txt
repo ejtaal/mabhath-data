@@ -1,0 +1,10 @@
+load_data( { book: 'll_nvd', text: 'قلقسقُلْقَاسٌ [The colocasia; or arum. colocasia of<br>\
+Linnæus: or its root:] the root of a certain<br>\
+plant, which is eaten cooked, (AHn, K,) and used<br>\
+medicinally: (AHn:) the decoction thereof increases the venereal faculty, and fattens; but the<br>\
+taking it constantly engenders black bile. (AHn,<br>\
+K.) [See De Sacy&#39;s “ Relation de l&#39;Egypte par<br>\
+Abd-allatif,” pp. 94 — 98.]<br>\
+قلم قلو قلى قمّ<br>\
+See Supplement<br>\
+' } );

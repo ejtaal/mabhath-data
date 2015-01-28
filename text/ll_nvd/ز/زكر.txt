@@ -1,0 +1,20 @@
+load_data( { book: 'll_nvd', text: 'زكر1<br>\
+زَكَرَ, (A, K,) aor.<br>\
+زَكُرَ, (TK,) inf. n. زَكْرٌ;<br>\
+(TA;) and ↓ زكّر, (K,) inf. n. تَزْكِيرٌ; (TA;)<br>\
+(tropical:)  He filled (A, K) a vessel, (TA,) or a water-skin. (A.)<br>\
+2<br>\
+زَكَّرَ see 1: ―<br>\
+-b2-  and 5.<br>\
+5<br>\
+تزكّر (tropical:)  It (a child&#39;s belly) became large,<br>\
+(K,) or full, (S, A,) so that it was like a زُكْرَة,<br>\
+(A,) and in good condition; (K;) as also ↓ زكّر,<br>\
+inf. n. تَزْكِيرٌ. (K.) ―<br>\
+-b2-  (assumed tropical:)  It (beverage, or wine,)<br>\
+became collected (K) in a زُكْرَة. (TA.)<br>\
+زُكْرَةٌ A certain small receptacle; (Msb;) a<br>\
+receptacle of skin, (A,) or a skin, (K,) or a<br>\
+small skin, (S, Mgh,) for wine, (S, A, Mgh, K,)<br>\
+or for vinegar: (K:) pl. زُكَرٌ. (Msb.)<br>\
+' } );

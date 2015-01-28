@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>وث</em>            1                  وث<br>\
+<b>وَثْوَثَةٌ</b>               1     <br>\
+                     وَثْوَثَةٌ<br>\
+                     ذ<br>\
+                  <i>Weakness; impotence.</i> (L.)    </entryFree> <br>\
+<b>وَثْوَاثٌ</b>               1     <br>\
+                     وَثْوَاثٌ<br>\
+                     ذ<br>\
+                   A <i>weak, impotent,</i> man. (L.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'كتR. Q. 1<br>\
+كَتْكَتَ<br>\
+: see طَحْطَحَ.<br>\
+كُتْكُتٌ<br>\
+The coarse part of silk, and of<br>\
+tow, &amp;c.<br>\
+' } );

@@ -1,0 +1,13 @@
+load_data( { book: 'll_nvd', text: 'ندف1<br>\
+نَدَفَ<br>\
+[He separated and loosened cotton by<br>\
+means of a bow and a kind of wooden mallet, by<br>\
+striking the string of the bow with the mallet:<br>\
+see حَلَجَ; and حَرَنَ] he beat cotton with the<br>\
+↓ مِنْدَف, (S, Msb, * K,) also called ↓ مِنْدَفَة, i. e., his<br>\
+wooden implement with which he strikes the bowstring, that it [the cotton] might become fine.<br>\
+(K.)<br>\
+مِنْدَفٌ<br>\
+and مِنْدَفَةٌ: see 1; and see مِحْرَنٌ<br>\
+and مِنْبَضٌ.<br>\
+' } );

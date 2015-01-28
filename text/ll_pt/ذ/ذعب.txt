@@ -1,0 +1,19 @@
+load_data( { book: 'll_pt', text: '<em>ذعب</em>            1                  ذعب<br>\
+<b>تَذَعَّبَتْهُ الجِنُّ</b>               1     <br>\
+                     تَذَعَّبَتْهُ الجِنُّ<br>\
+                     ذ<br>\
+                  , (K,) as also تَذَاَّبَتْهُ, (TA,) <i>The jinn frightened him,</i> or <i>terrified him.</i> (K.)    </entryFree> <br>\
+<b>انذعب</b>               1     <br>\
+                     انذعب<br>\
+                     ذ<br>\
+                  , (K,) as also انثعب, the latter thought by Az to be the original word, (TA,) <i>It</i> (water) <i>flowed, ran, streamed,</i> or <i>poured: it flowed in a continuous stream.</i> (K.)    </entryFree> <br>\
+<b>ذُعْبَانٌ</b>               1     <br>\
+                     ذُعْبَانٌ<br>\
+                     ذ<br>\
+                  <i>A young wolf.</i> (K.)    </entryFree> <br>\
+               <entryFree id=&quot;n13858&quot; key=&quot;raAayotuhumo mu*oEaAb~iyna kaAan~ahumo Eurofu DiboEaAnK&quot;<br>\
+                          type=&quot;main&quot;>     <br>\
+                     رَاَيْتُهُمْ مُذْعَابِّينَ كَاَنَّهُمْ عُرْفُ ضِبْعَانٍ<br>\
+                     ذ<br>\
+                  , (K,) and مُثْعَابِّينَ, (TA,) <i>I saw them following one another as though they were the mane of a male hyena.</i> (As, K.)   </entryFree> <br>\
+' } );

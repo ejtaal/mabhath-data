@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قور</em>            1                  قور<br>\
+<b>قَارَةٌ</b>               1     <br>\
+                     قَارَةٌ<br>\
+                     ذ<br>\
+                  <i>A she-bear:</i> see an ex. in art. فطن (conj. 2).   </entryFree> <br>\
+' } );

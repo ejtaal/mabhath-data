@@ -1,0 +1,33 @@
+load_data( { book: 'll_pt', text: '<em>طلف</em>            1                  طلف<br>\
+<b>طلّف عَلَيْهِ</b>               1     <br>\
+                     طلّف عَلَيْهِ<br>\
+                     ذ<br>\
+                  , inf. n. تَطْلِيفٌ; (O, K;) and ظلّف is a dial. var. thereof; (TA;) <i>He exceeded it;</i> (O, K;) [meaning a certain number of years; for] it is like ذَرَّفَ and رَمَّثَ and طَلَّثَ. (IAar, TA in art. ظلف.)    </entryFree> <br>\
+<b>اطلف</b>               1     <br>\
+                     اطلف<br>\
+                     ذ<br>\
+                   [<i>He escaped being a victim of his adversary&#39;s blood-revenge;</i> expl. as meaning] <i>the blood-revenge of his adversary was ineffectual,</i> or <i>had not effect.</i> (Ibn-&#39;Abbád, O, K.)       -A2-  اطلفهُ <br>\
+                  <i>He made it</i> [i. e. a man&#39;s blood] <i>to go for nothing</i> <br>\
+                   [i. e. <i>unretaliated,</i> or <i>uncompensated by a mulct</i>]; or <i>to be of no account.</i> (S, O, K.) ―         -b2-  And <i>He gave him</i> (S, O, K) a thing (O) <i>as a free gift.</i> (S, O, K.)    </entryFree> <br>\
+<b>طَلْفٌ</b>               1     <br>\
+                     طَلْفٌ<br>\
+                     ذ<br>\
+                  : see the next paragraph in two places.    </entryFree> <br>\
+<b>طَلَفٌ</b>               1     <br>\
+                     طَلَفٌ<br>\
+                     ذ<br>\
+                  <i>A thing that goes for nothing;</i> [as blood <i>that is unretaliated,</i> or <i>uncompensated by a mulct;</i>] <i>that is of no account, ineffectual,</i> or <i>null;</i> syn. هَدَرٌ; (S, O, K;) [and so ↓ <br>\
+      طَلْفٌ, as shown by what follows;] as also ↓ <br>\
+      طَلِيفٌ. (O, K.) You say, ذَهَبَ دَمُهُ طَلَفًا, (AA, S, O, K,) and ↓ <br>\
+      طَلْفًا, (AA, O, K,) and ظَلَفًا and ظَلْفًا, (AA, O,) <i>His blood went for nothing; as a thing of no account; ineffectually;</i> or <i>in vain; unretaliated,</i> or <i>uncompensated by a mulct;</i> syn. هَدَرًا, (AA, S, O, K, TA,) and بَاطِلًا: and in like manner, مَالُهُ [<i>his property</i>]. (TA. [See also تَلَفٌ.]) And Ru-beh says, <quote TEIform=&quot;quote&quot;><br>\
+                     <L>↓ <br>\
+      كَمْ مِنْ عِدًى اَمْوَالُهُمْ طَلِيفُ<br>\
+                  </quote> [<i>How many enemies are there whose possessions are things that have gone for nought !</i>]. (O, as an ex. of the last word in the sense of هَدَر.) ―         -b2-  And (S, O, K) hence (O) <i>A gift;</i> (S, O, K;) <i>a gift freely bestowed, not for any compensation.</i> (S, TA.) ―         -b3-  And <i>A thing that is easy;</i> or <i>of light estimation, paltry,</i> or <i>despicable;</i> [as also ظَلَفٌ;] syn. هَيِّنٌ. (IF, O, K.) ―         -b4-  And <i>A redundant portion of a thing:</i> (IF, O, K:) if this be not what is meant by the saying that طَلَفٌ is <i>syn. with</i> <br>\
+                  فَضْلٌ, this saying is of no account. (IF, O.)    </entryFree> <br>\
+<b>طَلِيفٌ</b>               1     <br>\
+                     طَلِيفٌ<br>\
+                     ذ<br>\
+                  : see طَلَفٌ, in two places. ―         -b2-  Also <i>A thing that is taken.</i> (O, K. *) [And hence, perhaps, the saying of Ru-beh cited above.] ―         -b3-  One says also, ذَهَبَ فُلَانٌ بِالمَالِ طَلِيفًا and ظَلِيفًا i. e. <i>Such a one went away with the property without compensation.</i> (Yoo, O.) ―         -b4-  And اَكَلَ <br>\
+                  مَالَهُ فِى طَلِيف <br>\
+                  <i>He devoured his property in a vain,</i> or <i>an ineffectual, procedure.</i> (O.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,226 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;امن&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  امن<br>\
+&lt;entryFree id=&quot;n1255&quot; key=&quot;اَمِنَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَمِنَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, &amp;amp;c.,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمَنَ<br>\
+                  &lt;/form&gt;, (T, Msb, K,) inf. n. اَمْنٌ (T, S, M, Msb, K) and اـِمْنٌ (Zj, M, K) and اَمَنٌ (M, K) and اَمَنَةٌ (T, S, M, K) and اـِمْنَةٌ (T) and اَمَانٌ (M, K) [and app. اَمَانَةٌ, for it is said in the S that this is syn. with اَمَانٌ,] and ا=منٌ, an instance of an inf. n. of the measure فَاعِلٌ, which is strange, (MF,) or this is a subst. like فَالِجٌ, (M,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; or &lt;i&gt;felt, secure, safe,&lt;/i&gt; or &lt;i&gt;in a state of security&lt;/i&gt; or &lt;i&gt;safety;&lt;/i&gt; originally, &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, quiet,&lt;/i&gt; or &lt;i&gt;tranquil, in heart,&lt;/i&gt; or &lt;i&gt;mind;&lt;/i&gt; (Msb;) &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, secure,&lt;/i&gt; or &lt;i&gt;free from fear;&lt;/i&gt; <br>\
+                  اَمْنٌ signifying the &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  خَوْفٌ, (S, M, K,) and so اَمَنَةٌ (S) and ا=مِنٌ [&amp;amp;c.]: (M, K:) &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; or &lt;i&gt;felt, free from expectation of evil,&lt;/i&gt; or &lt;i&gt;of an object of dislike&lt;/i&gt; or &lt;i&gt;hatred, in the coming time;&lt;/i&gt; originally, &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, easy in mind, and free from fear.&lt;/i&gt; (El-Munáwee, TA.) [See اَمْنٌ, below.] You say also, يَاـْمَنُ عَلَى نَفْسِهِ [&lt;i&gt;He is secure,&lt;/i&gt; or &lt;i&gt;safe,&lt;/i&gt; or &lt;i&gt;free from fear, for himself&lt;/i&gt;]. (M.) And اَمِنَ البَلَدُ, meaning &lt;i&gt;The inhabitants of the country&lt;/i&gt; or &lt;i&gt;district,&lt;/i&gt; or &lt;i&gt;town, were in a state of security,&lt;/i&gt; or &lt;i&gt;confidence, therein.&lt;/i&gt; (Msb.) The verb is trans. by itself, and by means of the particle مِنْ; as in اَمَنَ زَيْدٌ الاَسَدَ and اَمِنَ مِنَ <br>\
+                  الاَسَدِ, meaning &lt;i&gt;Zeyd was,&lt;/i&gt; or &lt;i&gt;became,&lt;/i&gt; or &lt;i&gt;felt, secure from, safe from,&lt;/i&gt; [or &lt;i&gt;free from fear of,&lt;/i&gt;] &lt;i&gt;the lion.&lt;/i&gt; (Msb.) You say also, اَمِنَ كَذِبَ مَنْ <br>\
+                  اَخْبَرَهُ [&lt;i&gt;He was secure from,&lt;/i&gt; or &lt;i&gt;free from fear of, the lying of him who informed him&lt;/i&gt;]. (M.) And لَا ا=نَنُ اَنْ يَكُونَ كَذلِكَ [&lt;i&gt;I am not free from fear of its being so; I am not sure but that it may be so&lt;/i&gt;]. (Mgh in art. نبذ; and other lexicons passim.) And, of a strong-made she camel, اَمِنَتْ <br>\
+                  اَنْ تَكُونَ ضَعَيفَةً [&lt;i&gt;She was secure from,&lt;/i&gt; or &lt;i&gt;free from fear of, being weak&lt;/i&gt;]: (M: [in a copy of the S اُمِنَتْ:]) and اَمِنَتِ العِثَارَ وَالاـَعْيَا=ءٍ [&lt;i&gt;She was secure from,&lt;/i&gt; or &lt;i&gt;free from fear of, stumbling, and becoming jaded&lt;/i&gt;]: (M:) and اُمِنَ عِثَارُهَا [&lt;i&gt;Her stumbling was not feared&lt;/i&gt;]. (So in a copy of the S.) And, of a highly-prized camel, اُمِنَ اَنْ يُنْحَرَ [&lt;i&gt;It was not feared that he would be slaughtered;&lt;/i&gt; or &lt;i&gt;his being slaughtered was not feared&lt;/i&gt;]. (M.) [اَمنَهُ sometimes means &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, free from fear, though having cause for fear, of him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; i. e. &lt;i&gt;he thought himself secure,&lt;/i&gt; or &lt;i&gt;safe, from him&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (See Kur vii. 97.)] ―         -b2-  امِنَهُ (inf. n. اَمْنٌ TK) [and accord. to some copies of the K ↓ <br>\
+      ا=مَنَهُ] and ↓ <br>\
+      امّنهُ (inf. n. تَاْمِينٌ K) and ↓ <br>\
+      ايتمنهُ ([written with the disjunctive alif اِيتَمَنَهُ, and] also written اِتَّمَنَهُ, on the authority of Th, which is extr., like اِتَّهَلَ [&amp;amp;c.], M) and ↓ <br>\
+      استامنهُ all signify the same (M, K, TA) [&lt;i&gt;He trusted,&lt;/i&gt; or &lt;i&gt;confided, in him;&lt;/i&gt; (as also ا=من بِهِ, q. v.;) &lt;i&gt;he intrusted him with,&lt;/i&gt; or &lt;i&gt;confided to him, power, authority, control,&lt;/i&gt; or &lt;i&gt;a charge; he gave him charge&lt;/i&gt; over a thing or person: these meanings are vaguely indicated in the M and K and TA.]. You say, يَاْمَنُهُ النَّاسُ وَلَا يَخَافُونَ غَايِلَتَهُ [&lt;i&gt;Men,&lt;/i&gt; or &lt;i&gt;people, trust,&lt;/i&gt; or &lt;i&gt;confide, in him, and do not fear his malevolence,&lt;/i&gt; or &lt;i&gt;mischievousness&lt;/i&gt;]. (T, M.) And اَمِنَهُ عَلَى كَذَا (S, Mgh, * Msb *) and ↓ <br>\
+      ايتمنهُ <br>\
+                  عَلَيْهِ, (S, Msb, K,) [&lt;i&gt;He trusted,&lt;/i&gt; or &lt;i&gt;confided, in him with respect to such a thing; he intrusted him with,&lt;/i&gt; or &lt;i&gt;confided to him, power, authority, control,&lt;/i&gt; or &lt;i&gt;a charge, over it; he gave him charge over it;&lt;/i&gt;] &lt;i&gt;he made him,&lt;/i&gt; or &lt;i&gt;took him as,&lt;/i&gt; <br>\
+                  اَمِين <br>\
+                  &lt;i&gt;over such a thing.&lt;/i&gt; (Mgh.) Hence, in a trad., the مُوَذِّن is said to be مُوْتَمَنٌ; i. e. النَّاسُ عَلَ الاَوْقَاتِ الَّتِى يُوَذَّنُ فِيهَا ↓ <br>\
+      يَاْتَمِنُهُ [&lt;i&gt;Men trust,&lt;/i&gt; or &lt;i&gt;confide, in him with respect to the times in which he calls to prayer&lt;/i&gt;], and know, by his calling to prayer, what they are commanded to do, as to praying and fasting and breaking fast. (Mgh.) It is said in the Kur [xii. 11], مَا لَكَ <br>\
+                  لَا تَاْمَنُنَا عَلَى يُوسُفَ and [تَاْمَنَّا] with idghám [i. e. &lt;i&gt;What aileth thee that thou dost not trust,&lt;/i&gt; or &lt;i&gt;confide, in us with respect to Joseph?&lt;/i&gt; or, &lt;i&gt;that thou dost not give us charge over Joseph?&lt;/i&gt;]; (S;) meaning, why dost thou fear us for him? (Bd;) some pronouncing the verb in a manner between those of the former and the latter modes of writing it; but Akh says that the latter is better: (S:) some read تِيمَنَّا. (Bd.) You say also, ↓ <br>\
+      اُوتُمِنَ <br>\
+                  فُلَانٌ [&lt;i&gt;Such a one was trusted,&lt;/i&gt; or &lt;i&gt;confided, in&lt;/i&gt; &amp;amp;c.;] when it begins a sentence, changing the second ء into و; in like manner as you change it into ى when the first is with kesr, as in اِيتَمَنَهُ; and into ا when the first is with fet-h, as in ا=مَنَ. (S.) The phrase اَمَانَةً ↓ <br>\
+      اُوتُمِنَ, in a saying of Mohammad, if it be not correctly عَلَى اَمَانَةٍ, may be explained as implying the meaning of اُسْتُحْفِظَ اَمَانَةً [&lt;i&gt;He was asked to take care of a deposite;&lt;/i&gt; or &lt;i&gt;he was intrusted with it&lt;/i&gt;]. (Mgh.) [You also say, اَمِنَهُ بِكَذَا, meaning &lt;i&gt;He intrusted him with such a thing;&lt;/i&gt; as, for instance, money or other property: see two exs. in the Kur iii. 68.]       -A2-  اَمُنَ, (M, Mgh, K,) or اَمِنَ, (Msb,) inf. n. اَمَانَةٌ, (M, Mgh, Msb,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, trusted in,&lt;/i&gt; or &lt;i&gt;confided in:&lt;/i&gt; (M, K:) or &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, trusty, trustworthy, trustful, confidential,&lt;/i&gt; or &lt;i&gt;faithful:&lt;/i&gt; said of a man. (Mgh.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1256&quot; key=&quot;امّنهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     امّنهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَاْمِينٌ: see 4: ―         -b2-  and see also اَمِنَهُ.       -A2-  امّن, inf. n. as above, also signifies &lt;i&gt;He said&lt;/i&gt; <br>\
+                  ا=مِينَ or اَمِينَ, (T, S, Msb,) after finishing the Fátihah, (T,) or عَلَي الدُّعَا=ءِ <br>\
+                  &lt;i&gt;on the occasion of the prayer,&lt;/i&gt; or &lt;i&gt;supplication.&lt;/i&gt; (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1257&quot; key=&quot;ا=مَنَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=مَنَ<br>\
+                     ا=من<br>\
+                  &lt;/form&gt; is originally اَاْمَنَ; the second ء being softened. (S.) You say, ا=منهُ, [inf. n. اـِيمَانٌ;] (S, M, Msb;) and ↓ <br>\
+      امّنهُ, [inf. n. تَاْمِينٌ;] (M, TA;) meaning &lt;i&gt;He rendered him secure,&lt;/i&gt; or &lt;i&gt;safe;&lt;/i&gt; (Msb;) &lt;i&gt;he rendered him secure,&lt;/i&gt; or &lt;i&gt;free from fear;&lt;/i&gt; (S, M, TA;) &lt;i&gt;contr. of&lt;/i&gt; <br>\
+                  اَخَافهُ: (TA:) so in ا=مَنْتُهُ مِنْهُ <br>\
+                  &lt;i&gt;I rendered him secure,&lt;/i&gt; or &lt;i&gt;safe, from him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (Msb.) And of God you say, ا=مَنَ عِبادَهُ مِنْ اَنْ يَظْلِمَهُمْ [&lt;i&gt;He hath rendered his servants secure from his wronging them&lt;/i&gt;]. (S.) And يُوْمِنُ عِبَادَهُ مِنْ عَذَابِهِ [&lt;i&gt;He rendereth his servants secure from his punishment&lt;/i&gt;]. (M.) You say also, ا=مَنْتُ الاَسِيرَ, meaning &lt;i&gt;I gave,&lt;/i&gt; or &lt;i&gt;granted,&lt;/i&gt; <br>\
+                  الاَمَان [i. e. &lt;i&gt;security&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; or &lt;i&gt;protection&lt;/i&gt; or &lt;i&gt;safeguard,&lt;/i&gt; or &lt;i&gt;the promise&lt;/i&gt; or &lt;i&gt;assurance of security&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; or &lt;i&gt;indemnity,&lt;/i&gt; or &lt;i&gt;quarter,&lt;/i&gt;] &lt;i&gt;to the captive.&lt;/i&gt; (Msb.) And ا=مَنَ فُلَانٌ الَعَدُوَّ [&lt;i&gt;Such a one granted security,&lt;/i&gt; &amp;amp;c., &lt;i&gt;to the enemy&lt;/i&gt;], inf. n. as above. (T.) It is said in the Kur ch. ix. [verse 12], accord. to one reading, لَا اـِيمَانَ لَهُمْ <br>\
+                  &lt;i&gt;They have not the attribute of granting protection;&lt;/i&gt; meaning that when they grant protection, they do not fulfil their engagement to protect. (T.)       -A2-  اـِيمَانٌ also signifies The &lt;i&gt;believing&lt;/i&gt; [a thing, or in a thing, and particularly in God]; syn. تَصْدِيقٌ; (T, S, &amp;amp;c.;) by common consent of the lexicologists and other men of science: (T:) its primary meaning is the &lt;i&gt;becoming true to the trust with respect to which God has confided in one, by a firm believing with the heart; not by profession of belief with the tongue only, without the assent of the heart;&lt;/i&gt; for he who does not firmly believe with his heart is either a hypocrite or an ignorant person. (T, TA.) Its verb is intrans. and trans. (TA, from a Commentary on the Mutowwal.) You say, ا=مَنَ, meaning &lt;i&gt;He believed.&lt;/i&gt; (T.) And it is said to be trans. by itself, like صَدَّقَ; and by means of بِ, considered as meaning اِعْتِرَافٌ [or &lt;i&gt;acknowledgment&lt;/i&gt;]; and by means of لِ, considered as meaning اـِذْعَانٌ [or &lt;i&gt;submission&lt;/i&gt;]. (TA.) [Thus] you say, [ا=منهُ and] ا=من بِهِ, (inf. n. اـِيمَانٌ, T, K,) namely, a thing. (T, M.) And ا=من بِاللّٰهِ <br>\
+                  &lt;i&gt;He believed in God.&lt;/i&gt; (T.) It seems to be meant by what is said in the Ksh [in ii. 2], that ا=من بِهِ [or ا=مَنَهُ] properly signifies ا=مَنَهُ التَّكْذِيبَ [&lt;i&gt;He rendered him secure from being charged with lying,&lt;/i&gt; or &lt;i&gt;falsehood&lt;/i&gt;]; and that the meaning &lt;i&gt;he believed him&lt;/i&gt; or &lt;i&gt;in him,&lt;/i&gt; is tropical; but this is at variance with what its author says in the A; and Es-Saad says that this latter meaning is proper. (TA.)  &lt;pb n=&quot;101&quot; TEIform=&quot;pb&quot;/&gt; The phrase in the Kur [ix. 61], وَيُوْمِنُ لِلْموْمِنِينَ, accord. to Th, means &lt;i&gt;And he believeth the believers; giveth credit to them.&lt;/i&gt; (M.) ―         -b2-  Sometimes it is employed to signify The &lt;i&gt;acknowledging with the tongue&lt;/i&gt; only; and hence, in the Kur [lxiii. 3], ذلِكَ باَنَّهُمْ ا=مَنُوا ثُمَّ كَفَرُوا <br>\
+                  &lt;i&gt;That is because they acknowledged with the tongue, then disacknowledged with the heart.&lt;/i&gt; (TA.) ―         -b3-  Also (assumed tropical:)  The &lt;i&gt;trusting,&lt;/i&gt; or &lt;i&gt;confiding,&lt;/i&gt; or &lt;i&gt;having trust&lt;/i&gt; or &lt;i&gt;confidence.&lt;/i&gt; (M, K.) [You say, ا=من بِهِ, meaning &lt;i&gt;He trusted,&lt;/i&gt; or &lt;i&gt;confided, in him,&lt;/i&gt; or &lt;i&gt;it:&lt;/i&gt; for] the verb of ايمان in this sense is trans. by means of بِ without implication; as Bd says. (TA.) [And it is also trans. by itself: for] you say, مَا ا=مَنَ اَنْ يَجِدَ صَحَابَةً, meaning (tropical:)  &lt;i&gt;He trusted not that he would find companions;&lt;/i&gt; (M, * K, * TA;) said of one who has formed the intention of journeying: or the meaning is مَا كَادَ [i. e. &lt;i&gt;he hardly,&lt;/i&gt; or &lt;i&gt;scarcely, found&lt;/i&gt; &amp;amp;c.; or &lt;i&gt;he was not near to finding&lt;/i&gt; &amp;amp;c.]. (M, K.) See also اَمِنَهُ. ―         -b4-  Also The &lt;i&gt;manifesting humility&lt;/i&gt; or &lt;i&gt;submission, and the accepting the Law,&lt;/i&gt; (Zj, T, * K,) &lt;i&gt;and that which the Prophet has said&lt;/i&gt; or &lt;i&gt;done, and the firm believing thereof with the heart;&lt;/i&gt; (Zj, T, M;) without which firm belief, the manifesting of humility or submission, and the accepting that which the Prophet has said or done, is termed اـِسْلَامٌ, for which one&#39;s blood is to be spared. (T.) [In this sense, it is trans. by means of لِ, accord. to some, as shown above; or by means of بِ, for, accord. to Fei,] you say, ا=مَنْتُ بِاللّٰهِ, inf. n. as above, meaning &lt;i&gt;I submitted,&lt;/i&gt; or &lt;i&gt;resigned, myself to God.&lt;/i&gt; (Msb.) [There are numerous other explanations which it is needless to give, differing according to different persuasions. ―         -b5-  See also اـِيمَان below.]    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     اـِاْتَمَنَ<br>\
+                  &lt;/form&gt; see 1, in five places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1258&quot; key=&quot;استامنهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;10&lt;/itype&gt;        <br>\
+                     استامنهُ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He asked,&lt;/i&gt; or &lt;i&gt;demanded, of him&lt;/i&gt; <br>\
+                  الاَمَان [i. e. &lt;i&gt;security&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; or &lt;i&gt;protection&lt;/i&gt; or &lt;i&gt;safeguard,&lt;/i&gt; or &lt;i&gt;the promise&lt;/i&gt; or &lt;i&gt;assurance of security&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; or &lt;i&gt;indemnity,&lt;/i&gt; or &lt;i&gt;quarter&lt;/i&gt;]. (T, * Msb, TA.) ―         -b2-  See also اَمِنَهُ. ―         -b3-  استامن اـِلَيْهِ <br>\
+                  &lt;i&gt;He entered within the pale of his&lt;/i&gt; <br>\
+                  امَان [or &lt;i&gt;protection,&lt;/i&gt; or &lt;i&gt;safeguard&lt;/i&gt;]. (S, Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1259&quot; key=&quot;اَمْنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمْنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [an inf. n. of اَمِنِ: as a simple subst. it signifies &lt;i&gt;Security,&lt;/i&gt; or &lt;i&gt;safety:&lt;/i&gt; (see اَمِنَ:) or] &lt;i&gt;security&lt;/i&gt; as meaning &lt;i&gt;freedom from fear;&lt;/i&gt; contr. of خَوْفٌ; (S, M, K;) as also ↓ <br>\
+      اـِمْنٌ (Zj, M, K) and ↓ <br>\
+      اَمِنٌ (M, K) and ↓ <br>\
+      اَمَنَهُ (S, M, K) [and ↓ <br>\
+      اـِمْنَةٌ (see اَمِنَ)] and ↓ <br>\
+      اَمَانٌ and ↓ <br>\
+      ا=مِنٌ, (M, K,) which last is an inf. n. of اَمِنَ [like the rest], (MF,) or a subst. like فَالِجٌ; (M;) and ↓ <br>\
+      اَمَانَةٌ is syn. with اَمَانٌ, (S,) both of these signifying &lt;i&gt;security,&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; and &lt;i&gt;freedom from fear:&lt;/i&gt; (PS:) or اَمْنٌ signifies &lt;i&gt;freedom from expectation of evil,&lt;/i&gt; or &lt;i&gt;of an object of dislike&lt;/i&gt; or &lt;i&gt;hatred, in the coming time;&lt;/i&gt; originally, &lt;i&gt;ease of mind, and freedom from fear.&lt;/i&gt; (El-Munáwee, TA.) You say, اَنْتَ فِى اَمْنٍ [&lt;i&gt;Thou art in a state of security&lt;/i&gt;], (T, M,) مِنْ ذَاكَ [&lt;i&gt;from that&lt;/i&gt;]; and ↓ <br>\
+      فى اَمَانٍ signifies the same; (T;) and so ↓ <br>\
+      فى ا=مِنٍ. (M.) And نُعَاسًا ↓ <br>\
+      اَمَنَةً, in the Kur [iii. 148], means &lt;i&gt;Security&lt;/i&gt; (اَمْنًا) [and &lt;i&gt;slumber&lt;/i&gt;]. (S.) ↓ <br>\
+      اَمَانٌ also signifies &lt;i&gt;Protection,&lt;/i&gt; or &lt;i&gt;safeguard:&lt;/i&gt; and [very frequently] &lt;i&gt;a promise,&lt;/i&gt; or &lt;i&gt;an assurance, of security&lt;/i&gt; or &lt;i&gt;safety; indemnity;&lt;/i&gt; or &lt;i&gt;quarter:&lt;/i&gt; in Pers. پَنَاهْ and زِنْهَارٌ: (KL:) syn. اـِلُّ. (K in art. ال.) You say, ↓ <br>\
+      دَخَلَ فِى اَمَانِهِ [&lt;i&gt;He entered within the pale of his protection,&lt;/i&gt; or &lt;i&gt;safeguard&lt;/i&gt;]. (S, Msb.) [And اللّٰهِ ↓ <br>\
+      كُنٌ فِى اَمَانِ <br>\
+                  &lt;i&gt;Be thou in the protection,&lt;/i&gt; or &lt;i&gt;safeguard, of God.&lt;/i&gt;] And ↓ <br>\
+      اَعْطَيْتُهُ الاَمَانَ [&lt;i&gt;I gave,&lt;/i&gt; or &lt;i&gt;granted, to him security&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; or &lt;i&gt;protection&lt;/i&gt; or &lt;i&gt;safeguard,&lt;/i&gt; or &lt;i&gt;the promise&lt;/i&gt; or &lt;i&gt;assurance of security&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; or &lt;i&gt;indemnity,&lt;/i&gt; or &lt;i&gt;quarter&lt;/i&gt;]; namely, a captive. (Msb.) And طَلَبَ ↓ <br>\
+      مِنْهُ الاَمَانَ [&lt;i&gt;He asked,&lt;/i&gt; or &lt;i&gt;demanded, of him security&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; or &lt;i&gt;protection&lt;/i&gt; or &lt;i&gt;safeguard,&lt;/i&gt; &amp;amp;c., as in the next preceding ex.]. (Msb, TA.) ―         -b2-  اَمْنًا in the Kur ii. 119 means ذَا اَمْن [&lt;i&gt;Possessed of security&lt;/i&gt; or &lt;i&gt;safety&lt;/i&gt;]: (Aboo-Is-hák, M:) or مَوْضِعَ اَمْنٍ [&lt;i&gt;a place of security&lt;/i&gt; or &lt;i&gt;safety;&lt;/i&gt; like مَاْمَنًا]. (Bd.) ―         -b3-  See also ا=مِنٌ. ―         -b4-  You say also, مَا اَحْسَنَ اَمْنَكَ, and ↓ <br>\
+      اَمَنَكَ, meaning &lt;i&gt;How good is thy religion!&lt;/i&gt; and &lt;i&gt;thy natural disposition!&lt;/i&gt; (M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1260&quot; key=&quot;اـِمْنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمْنٌ<br>\
+                     امن<br>\
+                     امنن<br>\
+                     امن<br>\
+                     من<br>\
+                     منا<br>\
+                     منى<br>\
+                     آمن<br>\
+                     آمنن<br>\
+                  &lt;/form&gt;: see اَمْنٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1261&quot; key=&quot;اَمَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمْنٌ, first and last sentences.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1262&quot; key=&quot;اَمِنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمِنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see ا=مِنٌ. ―         -b2-  Also, (K, [there said to be like كَتِفٌ,]) or ↓ <br>\
+      ا=مِنٌ, (M, [so written in a copy of that work,)] &lt;i&gt;Asking,&lt;/i&gt; or &lt;i&gt;demanding,&lt;/i&gt; or &lt;i&gt;seeking, protection, in order to be secure,&lt;/i&gt; or &lt;i&gt;safe,&lt;/i&gt; or &lt;i&gt;free from fear, for himself:&lt;/i&gt; (M, K:) so says IAar. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1263&quot; key=&quot;اـِمْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِمْنَةٌ<br>\
+                     امن<br>\
+                     امنه<br>\
+                     امننه<br>\
+                     امنه<br>\
+                     امنة<br>\
+                     من<br>\
+                     منا<br>\
+                     منى<br>\
+                     آمن<br>\
+                     آمنه<br>\
+                     آمننه<br>\
+                     آمنة<br>\
+                  &lt;/form&gt;: see اَمْنٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1264&quot; key=&quot;امَنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     امَنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمْنٌ, in two places: ―         -b2-  and see also اَمَانَةٌ.       -A2-  Also A man &lt;i&gt;who trusts,&lt;/i&gt; or &lt;i&gt;confides, in every one;&lt;/i&gt; (T, S, M;) and so ↓ <br>\
+      اُمَنَةٌ: (S:) and &lt;i&gt;who believes in everything that he hears; who disbelieves in nothing:&lt;/i&gt; (Lh, T:) or &lt;i&gt;in whom men,&lt;/i&gt; or &lt;i&gt;people, trust,&lt;/i&gt; or &lt;i&gt;confide, and whose malevolence,&lt;/i&gt; or &lt;i&gt;mischievousness, they do not fear:&lt;/i&gt; (T, M:) and ↓ <br>\
+      اُمَنَةٌ signifies &lt;i&gt;trusted in,&lt;/i&gt; or &lt;i&gt;confided in;&lt;/i&gt; [like اَمِينٌ;] and by rule should be اُمْنَةٌ, because it has the meaning of a pass. part. n. [like لُعْنَةٌ and ضُحْكَةٌ and لُقْطَلةٌ &amp;amp;c. (see لَقَطٌ)]: (M:) or both signify one &lt;i&gt;in whom every one trusts,&lt;/i&gt; or &lt;i&gt;confides, in,&lt;/i&gt; or &lt;i&gt;with respect to, everything.&lt;/i&gt; (K.) ―         -b2-  See also اَمِينٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1265&quot; key=&quot;اُمَنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُمَنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمَنَةٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1266&quot; key=&quot;اَمَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمْنٌ, in seven places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1267&quot; key=&quot;اَمُونٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمُونٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, applied to a she camel, of the measure فَعُولٌ in the sense of the measure مَفْعُولَةٌ, like عَصُوبٌ and حَلُوبٌ, (tropical:)  &lt;i&gt;Trusted,&lt;/i&gt; or &lt;i&gt;confided, in;&lt;/i&gt; (T;) &lt;i&gt;firmly, compactly,&lt;/i&gt; or &lt;i&gt;strongly, made;&lt;/i&gt; (T, S, M, K;) &lt;i&gt;secure from,&lt;/i&gt; or &lt;i&gt;free from fear of, being weak:&lt;/i&gt; (S, M:) also, that is &lt;i&gt;secure from,&lt;/i&gt; or &lt;i&gt;free from fear of, stumbling, and becoming jaded:&lt;/i&gt; (M:) or &lt;i&gt;strong, so that her becoming languid is not feared:&lt;/i&gt; (A, TA:) pl. اُمُنٌ. (M, K.) [See also what next follows.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1268&quot; key=&quot;اَمينٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمينٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Trusted; trusted in; confided in;&lt;/i&gt; (T, * S, * M, Msb, * K;) as also ↓ <br>\
+      اُمَّانٌ; (S, M, K;) &lt;i&gt;i. q.&lt;/i&gt; ↓ <br>\
+      مَاْمُونٌ (S, M, K) and ↓ <br>\
+      مُوْتَمَنٌ: (ISk, T, K:) [&lt;i&gt;a person in whom one trusts&lt;/i&gt; or &lt;i&gt;confides; a confidant; a person intrusted with,&lt;/i&gt; or &lt;i&gt;to whom is confided, power, authority, control,&lt;/i&gt; or &lt;i&gt;a charge,&lt;/i&gt; <br>\
+                  عَلَى شَىْءٍ <br>\
+                  &lt;i&gt;over a thing; a person intrusted with an affair,&lt;/i&gt; or &lt;i&gt;with affairs,&lt;/i&gt; i. e., &lt;i&gt;with the management,&lt;/i&gt; or &lt;i&gt;disposal, thereof; a confidential agent,&lt;/i&gt; or &lt;i&gt;superintendent; a commissioner; a commissary; a trustee; a depositary;&lt;/i&gt;] &lt;i&gt;a guardian:&lt;/i&gt; (TA:) &lt;i&gt;trusty; trustworthy; trustful; confidential; faithful:&lt;/i&gt; (Mgh, Msb: *) pl. اُمَنَا=ءُ, and, accord. to some, ↓ <br>\
+      اَمَنَةٌ, as in a trad. in which it is said, اَصْحَابِى اَمَنَةٌ لِاُمَّتِى, meaning &lt;i&gt;My companions are guardians to my people:&lt;/i&gt; or, accord. to others, this is pl. of ↓ <br>\
+      ا=مِنٌ [app. in a sense mentioned below in this paragraph, so that the meaning in this trad. is &lt;i&gt;my companions are persons who accord trust,&lt;/i&gt; or &lt;i&gt;confidence, to my people&lt;/i&gt;]. (TA.) Hence, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        اَلَمْ تَعْلَمِى يَا اَسْمَ وَيْحَكِ اَنَّنِى<br>\
+                     &lt;L&gt;<br>\
+                        حَلَفْتُ يَمِينًا لَا اَخُونُ اَمِينِى<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Knowest thou not, O Asmà&lt;/i&gt; (اَسْمَا=ء, curtailed for the sake of the metre), &lt;i&gt;mercy on thee!&lt;/i&gt; or &lt;i&gt;woe to thee! that I have sworn an oath that I will not act treacherously to him in whom I trust?&lt;/i&gt;] i. e. ↓ <br>\
+      مَاْمُونِى: (S:) or the meaning here is, &lt;i&gt;him who trusts,&lt;/i&gt; or &lt;i&gt;confides, in me;&lt;/i&gt; (ISk, T;) [i. e.] it is here &lt;i&gt;syn. with&lt;/i&gt; ↓ <br>\
+      ا=مِنِى. (M.) [Hence also,] الاَمِينُ فِى القِمَارِ, (K voce مُجُمِدٌ, &amp;amp;c.,) or اَمِينُ, القِمَارِ, [&lt;i&gt;The person who is intrusted, as deputy, with the disposal of the arrows in the game called&lt;/i&gt; <br>\
+                  المَيْسِر; or] &lt;i&gt;he who shuffles the arrows;&lt;/i&gt; <br>\
+                  الَّذِى.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1269&quot; key=&quot;يَضْرِبُ بِالقِدَاحِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     يَضْرِبُ بِالقِدَاحِ<br>\
+                     يضرب بالقداح<br>\
+                  &lt;/form&gt;. (EM p. 105.) [Hence also,] الرُّوحُ الاَمِينُ [&lt;i&gt;The Trusted,&lt;/i&gt; or &lt;i&gt;Trusty, Spirit&lt;/i&gt;]; (Kur xxvi. 193;) applied to Gabriel, because he is intrusted with the revelation of God. (Bd.) ↓ <br>\
+      اُمَّانٌ, mentioned above, and occurring in a verse of El-Aashà, applied to a merchant, is said by some to mean &lt;i&gt;Possessed of religion and excellence.&lt;/i&gt; (M.) ↓ <br>\
+      مُوْتَمَنٌ is applied, in a trad., to the مُوَذِّن, as meaning that men trust, or confide, in him with respect to the times in which he calls to prayer, and know by his call what they are commanded to do as to praying and fasting and breaking fast. (Mgh.) المُعَامَلَةِ ↓ <br>\
+      هُوَ مَاْمُونُ means &lt;i&gt;He is&lt;/i&gt; [&lt;i&gt;trusty,&lt;/i&gt; or &lt;i&gt;trustworthy, in dealing with others;&lt;/i&gt; or] &lt;i&gt;free from exorbitance and deceit&lt;/i&gt; or &lt;i&gt;artifice&lt;/i&gt; or &lt;i&gt;craft to be feared.&lt;/i&gt; (Msb.) ―         -b2-  &lt;i&gt;An aid,&lt;/i&gt; or &lt;i&gt;assistant;&lt;/i&gt; syn. عَوْنٌ [here app. meaning, as it often does, &lt;i&gt;an armed attendant,&lt;/i&gt; or &lt;i&gt;a guard&lt;/i&gt;]; because one trusts in his strength, and is without fear of his being weak. (M.) ―         -b3-  (assumed tropical:)  The &lt;i&gt;strong;&lt;/i&gt; syn. قَوِىٌّ. (K, TA: [in the latter of which is given the same reason for this signification as is given in the M for that of عون; for which قوى may be a mistranscription; but see اَمُونٌ.]) ―         -b4-  One &lt;i&gt;who trusts,&lt;/i&gt; or &lt;i&gt;confides, in&lt;/i&gt; another; (ISk, T, K;) [as also ↓ <br>\
+      ا=مِنٌ, of which see an ex. voce حَذِرٌ;] so accord. to ISk in the verse cited above in this paragraph: (T:) thus it bears two contr. significations. (K.) ―         -b5-  See also ا=مِنٌ, in five places.       -A2-  And see ا=مِينَ. &lt;pb n=&quot;102&quot; TEIform=&quot;pb&quot;/&gt;    <br>\
+&lt;entryFree id=&quot;n1270&quot; key=&quot;اَمَانَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَمَانَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمْنٌ, first sentence. ―         -b2-  &lt;i&gt;Trustiness; trustworthiness; trustfulness; faithfulness; fidelity;&lt;/i&gt; (M, Mgh, K;) as also ↓ <br>\
+      اَمَنَةٌ. (M, K.) اَمَانَةُ اللّٰهِ [for اَمَانَةُ اللّٰهِ قَسَمِي or مَا اُقْسِمُ <br>\
+                  &lt;i&gt;The faithfulness of God is my oath&lt;/i&gt; or &lt;i&gt;that by which I swear&lt;/i&gt;] is composed of an inf. n. prefixed to the agent, and the former is in the nom. case as an inchoative; the phrase being like لَعَمْرُ اللّٰهِ, as meaning an oath; and the enunciative being suppressed, and meant to be understood: accord. to some, you say, اَمَانَةَ اللّٰهِ [app. for نَشَدْتُكَ اَمَانَةَ اللّٰهِ <br>\
+                  &lt;i&gt;I adjure thee,&lt;/i&gt; or &lt;i&gt;conjure thee, by the faithfulness of God,&lt;/i&gt; or &lt;i&gt;the like&lt;/i&gt;], making it to be governed in the accus. case by the verb which is to be understood: and some correctly say, وَاَمَانَةِ اللّٰهِ [&lt;i&gt;By the faithfulness of God&lt;/i&gt;], with the و which denotes an oath: (Mgh:) or this last is an oath accord. to Aboo-Haneefeh; but Esh-Sháfi&#39;ee does not reckon it as such: and it is forbidden in a trad. to swear by الاَمَانَة; app. because it is not one of the names of God. (TA.) [Or these phrases may have been used, in the manner of an oath, agreeably with explanations here following.]       -A2-  &lt;i&gt;A thing committed to the trust and care of a person; a trust; a deposite;&lt;/i&gt; (Mgh, Msb;) and &lt;i&gt;the like:&lt;/i&gt; (Msb:) &lt;i&gt;property committed to trust and care:&lt;/i&gt; (TA:) pl. اَمَانَاتٌ. (Mgh, Msb.) It is said in the Kur [viii. 27], وَتَخُونُوا اَمَانَاتِكُمْ [&lt;i&gt;Nor be ye unfaithful to the trusts committed to you&lt;/i&gt;]. (Mgh.) And in the same [xxxiii. 72], اـِنَّا عَرَضْنَاالاَمَانَةَ عَلَى <br>\
+                  السّموَاتِ وَالْاَرْضِوَالْجِبَالِ فَاَبَيْنَ اَنْ يَحْمِلْنَهَا وَاَشْفَقْنَ <br>\
+                  مِنْهَا وَحَمَلَهَا الْاـِنْسَانُ [&lt;i&gt;Verily we proposed,&lt;/i&gt; or &lt;i&gt;offered, the trust&lt;/i&gt; which we have committed to man &lt;i&gt;to the heavens and the earth and the mountains, and&lt;/i&gt; (accord. to explanations of Bd and others) &lt;i&gt;they refused to take it upon themselves,&lt;/i&gt; or &lt;i&gt;to accept it, and they feared it, but man took it upon himself,&lt;/i&gt; or &lt;i&gt;accepted it:&lt;/i&gt; or, (accord. to another explanation of Bd, also given in the T, and in the K in art. حمل, &amp;amp;c.,) &lt;i&gt;they refused to be unfaithful to it, and they feared it, but man was unfaithful to it:&lt;/i&gt; but in explaining what this trust was, authors greatly differ: accord. to some,] الامانة here means &lt;i&gt;obedience;&lt;/i&gt; so called because the rendering thereof is incumbent: or &lt;i&gt;the obedience which includes that which is natural and that which depends upon the will:&lt;/i&gt; [for] it is said that when God created these [celestial and terrestrial] bodies, He created in them understanding: or it may here [and in some other instances] mean &lt;i&gt;reason,&lt;/i&gt; or &lt;i&gt;intellect:&lt;/i&gt; [and &lt;i&gt;the faculty of volition:&lt;/i&gt; and app. &lt;i&gt;conscience:&lt;/i&gt; these being trusts committed to us by God, to be faithfully employed: (see an ex. voce جَذْرٌ:)] and &lt;i&gt;the imposition of a task&lt;/i&gt; or &lt;i&gt;duty&lt;/i&gt; or &lt;i&gt;of tasks&lt;/i&gt; or &lt;i&gt;duties&lt;/i&gt; [app. &lt;i&gt;combined with reason&lt;/i&gt; or &lt;i&gt;intellect, which is necessary for the performance thereof&lt;/i&gt;]: (Bd:) or it here means &lt;i&gt;prayers and other duties for the performance of which there is recompense and for the neglect of which there is punishment:&lt;/i&gt; (Jel:) or, accord. to I&#39;Ab and Sa&#39;eed Ibn-Jubeyr, (T,) &lt;i&gt;the obligatory statutes which God has imposed upon his servants:&lt;/i&gt; (T, K: *) or, (T, K,) accord. to Ibn-&#39;Omar, [&lt;i&gt;the choice between&lt;/i&gt;] &lt;i&gt;obedience and disobedience&lt;/i&gt; was offered to Adam, and he was informed of the recompense of obedience and the punishment of disobedience: but, in my opinion, he says, (T,) it here means &lt;i&gt;the intention which one holds in the heart,&lt;/i&gt; (T, K,) &lt;i&gt;with respect to the belief which he professes with the tongue, and with respect to all the obligatory statutes which he externally fulfils;&lt;/i&gt; (K;) because God has confided to him power over it, and not manifested it to any [other] of his creatures, so that he who conceives in his mind, with respect to the acknowledgment of the unity of God, (T, K,) and with respect to belief [in general], (T,) the like of that which he professes, he fulfils the امانة [or trust], (T, K,) and he who conceives in his mind disbelief while he professes belief with the tongue is unfaithful thereto, and every one who is unfaithful to that which is confided to him is [termed] حَامِلٌ, (T,) or حَامِلُ <br>\
+                  الاَمَانَةِ, and مُحْتَمِلُهَا: (Bd:) and by الاـِنْسَانُ is here meant the doubting disbeliever. (T.) ―         -b2-  Also, [as being a trust committed to him by God, A man&#39;s] &lt;i&gt;family,&lt;/i&gt; or &lt;i&gt;household;&lt;/i&gt; syn. اَهْلٌ. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1271&quot; key=&quot;اُمَّانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُمَّانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمينٌ, in two places.       -A2-  Also One &lt;i&gt;who does not write;&lt;/i&gt; as though he were (كَاَنَّهُ [in the CK لاَنَّهُ because he is]) an اُمِّى. (K, TA.) [But this belongs to art. ام; being of the measure فُعْلَانٌ, like عُرْيَانٌ.] ―         -b2-  And &lt;i&gt;A sower,&lt;/i&gt; or &lt;i&gt;cultivator of land;&lt;/i&gt; [perhaps meaning &lt;i&gt;a clown,&lt;/i&gt; or &lt;i&gt;boor;&lt;/i&gt;] syn. زَرَّاعٌ: (CK:) or &lt;i&gt;sowers,&lt;/i&gt; or &lt;i&gt;cultivators of land;&lt;/i&gt; syn. زُرَّاعٌ: (K, TA:) in one copy of the K زِرَاع. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1272&quot; key=&quot;ا=مِنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=مِنٌ<br>\
+                     ا=من<br>\
+                  &lt;i&gt;Secure, safe,&lt;/i&gt; or &lt;i&gt;free from fear;&lt;/i&gt; as also ↓ <br>\
+      اَمِينٌ (Lh, T, * S, * M, Msb, K) and ↓ <br>\
+      اَمِنٌ. (M, K.) Hence, in the Kur [xcv. 3], ↓ <br>\
+      وَهذَا الْبَلَدِ الْاَمِينِ [&lt;i&gt;And this secure town&lt;/i&gt;]; (Akh, Lh, T, S, M;) meaning Mekkeh. (M.) بَلَدٌ ا=مِنٌ and ↓ <br>\
+      اَمِينٌ means &lt;i&gt;A town,&lt;/i&gt; or &lt;i&gt;country,&lt;/i&gt; or &lt;i&gt;district, of which the inhabitants are in a state of security,&lt;/i&gt; or &lt;i&gt;confidence, therein.&lt;/i&gt; (Msb.) It is also said in the Kur [xliv. 51], ↓ <br>\
+      اـِنَّ الْمُتَّقِينَ فِي مَقَامٍ اَمِينٍ, meaning [&lt;i&gt;Verily the pious&lt;/i&gt; shall be &lt;i&gt;in an abode&lt;/i&gt;] &lt;i&gt;wherein they shall be secure from the accidents,&lt;/i&gt; or &lt;i&gt;casualties, of fortune.&lt;/i&gt; (M.) [And hence,] ↓ <br>\
+      الاَمِينُ is one of the epithets applied to God, (Mgh, K,) on the authority of El-Hasan; (Mgh;) an assertion requiring consideration: it may mean &lt;i&gt;He who is secure with respect to the accidents,&lt;/i&gt; or &lt;i&gt;casualties, of fortune:&lt;/i&gt; but see المُوْمِنُ, which is [well known as] an epithet applied to God. (TA.) ا=مِنُ المَالِ means &lt;i&gt;What is secure from being slaughtered, of the camels, because of its being highly prized;&lt;/i&gt; by المال being meant الاـِبِل: or, as some say, (tropical:)  &lt;i&gt;what is highly esteemed, of property&lt;/i&gt; of any kind; as though, if it had intellect, it would feel secure from being exchanged. (M.) You say, اَعْطَيْتُهُ مِنْ ا=مِنِ مَالِي, (K, TA, [in the CK ا=مَنِ,]) meaning (tropical:)  &lt;i&gt;I gave him of the choice,&lt;/i&gt; or &lt;i&gt;best, of my property; of what was highly esteemed thereof;&lt;/i&gt; (K, TA;) and مَالِى ↓ <br>\
+      مِنْ اَمْنِ which Az explains as meaning &lt;i&gt;of the choice,&lt;/i&gt; or &lt;i&gt;best, of my property.&lt;/i&gt; (TA: [in which is given a verse cited by ISk showing that اَمْن, thus used, is not a mistranscription for ا=مِن.]) And ا=مِنُ الحِلْمِ means &lt;i&gt;Steadfast in forbearance&lt;/i&gt; or &lt;i&gt;clemency; of whose becoming disordered in temper, and free from self-restraint, there is no fear.&lt;/i&gt; (M.) ―         -b2-  See also اَمِينٌ, in three places: ―         -b3-  and see اَمِنٌ.       -A2-  See also اَمِينٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1273&quot; key=&quot;ا=مِينَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=مِينَ<br>\
+                     ا=مين<br>\
+                  &lt;/form&gt; [in the CK, erroneously, ا=مِينُ] and ↓ <br>\
+      اَمِينَ; (Th, T, S, M, Mgh, Msb, K;) both chaste and well known, (TA,) the latter of the dial. of El-Hijáz, (Msb, TA,) as some say, (TA,) [and this, though the less common, is the original form, for] the medd in the former is only to give fulness of sound to the fet-hah of the ا, (Th, M, Msb, TA,) as is shown by the fact that there is no word in the Arabic language of the measure فَاعِيلٌ; (Msb, TA;) and some pronounce the former ا=مِّينَ, (K,) which is said by some of the learned to be a dial. var., (Msb,) but this is a mistake, (S, Msb,) accord. to authorities of good repute, and is one of old date, originating from an assertion of Ahmad Ibn-Yahyà, [i. e. Th,] that ا=مِينَ is like عَاصِينَ, by which he was falsely supposed to mean its having the form of a pl., [and being consequently ا=مِّينَ,] (Msb, [and part of this is said in the M,]) whereas he thereby only meant that the م is without teshdeed, like the ص in عَاصِينَ; (M;) beside that the sense of قَاصِدِينَ [which is that of ا=مِّينَ, from اَمَّ,] would be inconsistent after the last phrase of the first chapter of the Kur [where ا=مينَ is usually added]; (Msb;) and sometimes it is pronounced with imáleh, [i. e. “émeena,”] as is said by ElWáhidee in the Beseet; (K;) but this is unknown in works on lexicology, and is said to be a mispronunciation of some of the Arabs of the desert of El-Yemen: (MF:) each form is indecl., (S,) with fet-h for its termination, like اَيْنَ and كَيْفَ, to prevent the occurrence of two quiescent letters together: (T, S, TA:) it is a word used immediately after a prayer, or supplication: (S, * M:) [it is best expressed, when occurring in a translation, by the familiar Hebrew equivalent &lt;i&gt;Amen:&lt;/i&gt;] El-Fárisee says that it is a compound of a verb and a noun; (M;) meaning &lt;i&gt;answer Thou me;&lt;/i&gt; [i. e. &lt;i&gt;answer Thou my prayer;&lt;/i&gt;] (M, Mgh;*) or &lt;i&gt;O God, answer Thou:&lt;/i&gt; (Zj, T, Msb, K:) or &lt;i&gt;so be it:&lt;/i&gt; (AHát, S, Msb, K:) or &lt;i&gt;so do Thou,&lt;/i&gt; (K, TA,) &lt;i&gt;O Lord:&lt;/i&gt; (TA:) it is strangely asserted by some of the learned, that, after the Fátihah, [or Opening Chapter of the Kur-án,] it is a prayer which implies all that is prayed for in detail in the Fátihah: so in the Towsheeh: (MF:) or it is &lt;i&gt;one of the names of God:&lt;/i&gt; (M, Msb, K:) so says El-Hasan (M, Msb) El-Basree: (Msb:) but the assertion that it is for يَا اَللّٰهُ [&lt;i&gt;O God&lt;/i&gt;], and that اسْتَجِبٌ [&lt;i&gt;answer Thou&lt;/i&gt;] is meant to be understood, is not correct accord. to the lexicologists; for, were it so, it would be with refa, not nasb. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1274&quot; key=&quot;اـِيمَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيمَانٌ<br>\
+                     ايم<br>\
+                     ايمان<br>\
+                     اـيمان<br>\
+                     ايمان<br>\
+                     يمين<br>\
+                  &lt;/form&gt; [inf. n. of 4, q. v. ―         -b2-  Used as a simple subst., &lt;i&gt;Belief;&lt;/i&gt; particularly &lt;i&gt;in God, and in his word and apostles &amp;amp;c.: faith: trust,&lt;/i&gt; or &lt;i&gt;confidence:&lt;/i&gt; &amp;amp;c.] ―         -b3-  Sometimes it means &lt;i&gt;Prayer;&lt;/i&gt; syn. صَلَاةٌ: as in the Kur [ii. 138], where it is said, وَمَا كَانَ اللّٰهُ لِيُضِيعَ اـِيَمانَكُمْ, (Bd, Jel, TA,) i. e. [&lt;i&gt;God will not make to be lost&lt;/i&gt;] &lt;i&gt;your prayer&lt;/i&gt; <br>\
+                  &lt;pb n=&quot;103&quot; TEIform=&quot;pb&quot;/&gt; towards Jerusalem, (Bd, * Jel,) as some explain it. (Bd.) ―         -b4-  Sometimes, also, it is used as meaning &lt;i&gt;The law brought by the Prophet.&lt;/i&gt; (Er-Rághib, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1275&quot; key=&quot;مَاْمَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْمَنٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place of security&lt;/i&gt; or &lt;i&gt;safety&lt;/i&gt; or &lt;i&gt;freedom from fear;&lt;/i&gt; or &lt;i&gt;where one feels secure.&lt;/i&gt; (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1276&quot; key=&quot;مُوْمَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْمَنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; pass. part. n. of ا=مَنَهُ. (T.) It is said in the Kur [iv. 96], accord. to one reading, (T, M,) that of Aboo-Jaafar El-Medenee, (T,) لَسْتَ <br>\
+                  مُوْمَنًا [&lt;i&gt;Thou art not granted security,&lt;/i&gt; or &lt;i&gt;safety,&lt;/i&gt; &amp;amp;c.; or] &lt;i&gt;we will not grant thee security,&lt;/i&gt; &amp;amp;c. (T, M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1277&quot; key=&quot;مُوْمِنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْمِنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [act. part. n. of 4; &lt;i&gt;Rendering secure,&lt;/i&gt; &amp;amp;c.]. المُوْمِنُ is an epithet applied to God; meaning &lt;i&gt;He who rendereth mankind secure from his wronging them:&lt;/i&gt; (T, S:) or &lt;i&gt;He who rendereth his servants secure from his punishment:&lt;/i&gt; (M, IAth:) &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  المُهَيْمِنُ, (M,) which is originally المُوَاْمِنُ; [for the form مُفْعِلٌ is originally مُوَفْعِلٌ;] the second ء being softened, and changed into ى, and the first being changed into ه: (S:) or &lt;i&gt;the Believer of his servants&lt;/i&gt; (Th, M, TA) &lt;i&gt;the Muslims, on the day of resurrection, when the nations shall be interrogated respecting the messages of their apostles:&lt;/i&gt; (TA:) or &lt;i&gt;He who will faithfully perform to his servants what He hath promised them:&lt;/i&gt; (T, TA:) or &lt;i&gt;He who hath declared in his word the truth of his unity.&lt;/i&gt; (T.) ―         -b2-  [Also &lt;i&gt;Believing,&lt;/i&gt; or &lt;i&gt;a believer;&lt;/i&gt; particularly &lt;i&gt;in God, and in his word and apostles &amp;amp;c.: faithful: trusting,&lt;/i&gt; or &lt;i&gt;confiding:&lt;/i&gt; &amp;amp;c.: see 4.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1278&quot; key=&quot;مَاْمُونٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْمُونٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمِينٌ, in three places. ―         -b2-  مَاْمُونَةٌ A woman &lt;i&gt;whose like is sought after and eagerly retained because of her valuable qualities.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1279&quot; key=&quot;مَاْمُونِيَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْمُونِيَّةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A certain kind of food; so called in relation to El-Ma-moon.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1280&quot; key=&quot;مُوْتَمَنٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْتَمَنٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَمِينٌ, in two places.   &lt;/entryFree&gt; <br>\
+' } );

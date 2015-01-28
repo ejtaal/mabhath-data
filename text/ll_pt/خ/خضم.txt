@@ -1,0 +1,46 @@
+load_data( { book: 'll_pt', text: '<em>خضم</em>            1                  خضم<br>\
+<b>خَضِمَ</b>               1     <br>\
+                     خَضِمَ<br>\
+                     خضم<br>\
+                  , aor.      <br>\
+                     خَضَمَ<br>\
+                  ; (S, K;) and خَضَمَ, aor.      <br>\
+                     خَضِمَ<br>\
+                  ; (JK, K;) inf. n. خَضْمٌ; (JK, S, K;) <i>He</i> (a man) <i>ate</i> a thing <i>with the whole of the mouth:</i> (As, S:) or <i>he ate,</i> (K,) in a general sense: (TA:) or <i>he ate with the more remote of the teeth:</i> (K:) قَضْمٌ signifies the “ eating with the nearer of the teeth; ” (TA;) [i. e., “ with the teeth of the fore part of the mouth: ” or the “ eating with the extremities of the teeth: ” see art. قضم:] or [<i>he ate so that</i>] <i>he filled his mouth with that which he ate:</i> or it relates peculiarly to the thing that is moist, or juicy, as the cucumber, (K,) and the like: (TA:) or <i>he ate in the enjoyment of a plentiful and pleasant life:</i> (JK, TA:) or خَضْمٌ referring to a man is like قَضْمٌ referring to a beast. (TA.) ―         -b2-  And خَضَمَهُ, aor.      <br>\
+                     خَضِمَ<br>\
+                  , (JK, K,) inf. n. as above; (TA;) and ↓ <br>\
+      اختضمهُ; (JK, K;) <i>He cut it;</i> or <i>cut it off:</i> (K:) or <i>he cut it in pieces.</i> (JK.) ―         -b3-  خَضَمَ لَهُ <br>\
+                  مِنْ مَالِهِ, (K,) accord. to IAar, (TA,) signifies <i>He gave him of his property;</i> (K;) [as though he cut off for him a portion thereof;] but Th rejects this, and says that it is هَضَمَ. (TA.)    </entryFree> <br>\
+                     اـِخْتَضَمَ<br>\
+                   see 1. ―         -b2-  [Hence,] السَّيْفُ يَخْتَضِمُ جَفْنَهُ <br>\
+                  <i>The sword cuts,</i> and <i>eats, its scabbard,</i> (K,) <i>by reason of its sharpness;</i> mentioned by J as a meaning of يَخْتَضِمُ: [see 8 in art. خصم:] and يَخْتَصِمُ العَظْمَ <br>\
+                  <i>cuts the bone:</i> and الذِّرَاعَ [<i>the fore arm</i>]. (TA.) ―         -b3-  And اختضم الطَّرِيقَ <br>\
+                  <i>He stopped the way, robbing and slaying passengers.</i> (K.)    </entryFree> <br>\
+<b>خُضْمٌ</b>               1     <br>\
+                     خُضْمٌ<br>\
+                     خضم<br>\
+                  : see خُصْمٌ.    </entryFree> <br>\
+<b>خَضْمَةٌ</b>               1     <br>\
+                     خَضْمَةٌ<br>\
+                     خضم<br>\
+                     خضمه<br>\
+                     خضمة<br>\
+                  <i>i. q.</i> <br>\
+                  خَصْمَةٌ, (K,) i. e. <i>A certain bead,</i> or <i>gem,</i> mentioned before. (TA.)    </entryFree> <br>\
+<b>خُضَامٌ</b>               1     <br>\
+                     خُضَامٌ<br>\
+                     خضام<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>خُضَامَةٌ</b>               1     <br>\
+                     خُضَامَةٌ<br>\
+                     خضامه<br>\
+                     خضامة<br>\
+                  <i>A thing that is eaten in the manner termed</i> <br>\
+                  خَضْمٌ; [see 1;] (K;) as also ↓ <br>\
+      خُضَامٌ [expressly said to be like غُرَابٌ, otherwise it would seem to be خَضَامٌ, like قَضَامٌ, to which it is opposed,] (TA,) [and ↓ <br>\
+      مَخْضَمٌ, as is indicated in the K in art. قضم, opposed to مَقْضَمٌ in that art. (q. v.) in the S and K.]    </entryFree> <br>\
+<b>مَخْضَمٌ</b>               1     <br>\
+                     مَخْضَمٌ<br>\
+                     مخضم<br>\
+                  : see what next precedes.   </entryFree> <br>\
+' } );

@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>تبه</em>            1                  تبه<br>\
+<b>تَابُوهٌ</b>               1     <br>\
+                     تَابُوهٌ<br>\
+                     ابى<br>\
+                     تابوه<br>\
+                     تاب<br>\
+                     تابوه<br>\
+                     تابوة<br>\
+                   a dial. var. of  تَابُوتٌ , of the dial. of the Ansár. (S and K in art. توب, q. v.)   </entryFree> <br>\
+' } );

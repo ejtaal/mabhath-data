@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>ينبت</em>            1                  ينبت<br>\
+<b>يَنْبُوتٌ</b>               1     <br>\
+                     يَنْبُوتٌ<br>\
+                     ذ<br>\
+                  <i>A certain thorny kind of tree, not of the kind called</i> <br>\
+                  عِضَاه. Mentioned here by IM. See art. نبت. (TA.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'ولغ1<br>\
+وَلَغَ<br>\
+He (a dog) lapped. (S, Msb, K.)<br>\
+See an ex. voce مَحْسُومٌ.<br>\
+' } );

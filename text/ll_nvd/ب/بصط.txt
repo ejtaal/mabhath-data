@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'بصط1<br>\
+بَصْطٌ, [inf. n. of بَصَطَ,] i. q. بَسْطٌ, in all its<br>\
+meanings: (K:) the س, with ط, is changed into<br>\
+ص because of the nearness of the places of utterance. (L.)<br>\
+' } );

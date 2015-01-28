@@ -1,0 +1,36 @@
+load_data( { book: 'll_nvd', text: 'حيف1<br>\
+حَافَ, aor. يَحِيفُ, (S, Msb,) inf. n. حَيْفٌ,<br>\
+(S, Msb, K,) He (a judge, or any other person,<br>\
+Msb) acted wrongfully, unjustly, injuriously, or<br>\
+tyrannically, (S, Msb, K,) عَلَيْهِ against him:<br>\
+(S:) or, as some say, he inclined [to that which<br>\
+was wrong], or declined [from that which was<br>\
+right], in his judgment. (TA.) حَيْفُ النَّاحِلِ<br>\
+means A man&#39;s giving to certain of his children<br>\
+exclusively of others: he should treat them<br>\
+equally, and not prefer some before others. (T,<br>\
+TA.)<br>\
+2<br>\
+تَحْيِيفٌ The taking a thing, or something,<br>\
+from the side: and diminishing [from the side].<br>\
+(KL.)<br>\
+5<br>\
+تَحَيَّفْتُهُ I took by little and little from its<br>\
+sides; (S, K;) as also تحوّفتهُ. (S.)<br>\
+حِيفَةٌ A side, or lateral part: pl. حِيَفٌ; (K;)<br>\
+which is likewise pl. of حَافَةٌ. (TA.) [See also<br>\
+حَائِفٌ, below.]<br>\
+حَائِفٌ Acting wrongfully, unjustly, injuriously,<br>\
+or tyrannically: (Lth, Msb, K: [in some copies<br>\
+of the K, حَائِرٌ is erroneously put for جَائِرٌ:] pl.<br>\
+حَافَةٌ (Msb, K) and حُيَّفٌ (K, Msb *) and حُيُفٌ.<br>\
+(TA.) ―<br>\
+-b2-  An arrow declining from the right direction. (TA.) ―<br>\
+-b3-  And, as being likened thereto,<br>\
+(tropical:)  An impotent man, who does not attain the object of his want. (TA.)<br>\
+-A2-  The side of a mountain. (K, TA.) [See also حِيفَةٌ.]<br>\
+بَلَدٌ أَحْيَفُ, and أَرْضٌ حَيْقَآءُ, A district or the<br>\
+like, and a land, upon which rain has not fallen:<br>\
+(Ibn-&#39;Abbád, K:) as though the rain treated it<br>\
+wrongfully. (TA.)<br>\
+' } );

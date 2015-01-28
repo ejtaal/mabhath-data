@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'لزوردلَازَوَردٌ [and لَازُوَرْدٌ], an arabicized word, [from<br>\
+the Persian لَاCْورْدْ,] A well-known stone; [lapis<br>\
+lazuli;] used as a material with which to write,<br>\
+and as a medicine. (MF.)<br>\
+[<br>\
+لَا زَُوَرْدِىٌّ Of the colour of lapis lazuli.]<br>\
+' } );

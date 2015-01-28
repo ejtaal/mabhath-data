@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'وشعوَشِيعَةٌ<br>\
+A ball of spun thread. (AA, TA in<br>\
+art. سحل.)<br>\
+' } );

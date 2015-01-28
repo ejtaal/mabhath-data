@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'وغموَغْمٌ<br>\
+, said of food: see فَغْمٌ.<br>\
+' } );

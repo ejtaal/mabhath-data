@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'قوققَاقٌ<br>\
+: see فَاقٌ, in two places. ―<br>\
+-b2-  القَافُ المَقْعُودَةٌ:<br>\
+see art. قعد.<br>\
+قُوقٌ<br>\
+: see فَاقٌ.<br>\
+' } );

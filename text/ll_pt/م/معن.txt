@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>معن</em>            1                  معن<br>\
+<b>اَمْعَنَ</b>               1     <br>\
+                     اَمْعَنَ<br>\
+                     ذ<br>\
+                  <i>He</i> (a horse) <i>went far,</i> (S, Msb, K,) in his run. (S, Msb.) ―         -b2-  Hence, اَمْعَنَ فِى <br>\
+                  الطَّلَبِ <br>\
+                  <i>He went very far in search:</i> (Msb:) or <i>he went far,</i> or <i>to a great</i> or <i>an extraordinary length, therein.</i> (Mgh.) ―         -b3-  امعن فِى الشَّىْءِ, (Ham p. 817,) or فِى الاَمْرِ, (MA, K, Har p. 176,) <i>He went far,</i> (K, Ham, Har,) or <i>deep,</i> or <i>beyond bounds,</i> (MA,) <i>in,</i> or <i>into, the thing,</i> or <i>affair.</i> (Ham, &amp;amp;c.) ―         -b4-  اَمْعَنَ لِى بِحَقِّى: see اَذَعْنَ.    </entryFree> <br>\
+<b>المَعْنُ</b>               1     <br>\
+                     المَعْنُ<br>\
+                     ذ<br>\
+                  <i>The drawing</i> of water.   </entryFree> <br>\
+' } );

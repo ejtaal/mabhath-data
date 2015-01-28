@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>مزر</em>            1                  مزر<br>\
+<b>مَزِيرٌ</b>               1     <br>\
+                     مَزِيرٌ<br>\
+                     ذ<br>\
+                  <i>Strong-hearted.</i> (S.) So I have rendered the fem. (with ة) in explaining بَلْهَا=ءُ: it seems there to mean <i>bold.</i>   <br>\
+' } );

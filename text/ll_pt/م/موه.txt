@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>موه</em>            1                  موه<br>\
+<b>مَوَّهَ</b>               1     <br>\
+                     مَوَّهَ<br>\
+                     ذ<br>\
+                  <i>He silvered</i> or <i>gilded,</i> (S, K,) or <i>washed over with gold</i> or <i>silver,</i> (Msb,) a thing (S, Msb, K, TA) of brass (TA) or copper or iron. (S, K.) ―         -b2-  <i>He</i> [<i>varnished</i> or] <i>embellished</i> falsehood <i>so as to give it the appearance of truth.</i> (TA.) <i>He falsified</i> information, عَلَيْهِ <br>\
+                  <i>to him,</i> in reply to a question. (K.) ―         -b3-  <i>He involved in confusion,</i> or <i>doubt;</i> or <i>practised concealment</i> or <i>disguise:</i> or <i>he concealed</i> or <i>disguised:</i> (S, TA:) and <i>he deceived, deluded, beguiled, circumvented,</i> or <i>outwitted.</i> (TA.) ―         -b4-  <i>He varnished,</i> or <i>embellished with a false colouring.</i>    <br>\
+<b>اَمَاهَ</b>               1     <br>\
+                     اَمَاهَ<br>\
+                     ذ<br>\
+                  <i>He</i> (a digger) <i>produced,</i> or <i>fetched out, water, by his labour</i> or <i>work;</i> syn. اَنْبَطَ المَا=ءَ: (S, K:) or <i>reached the water:</i> (Msb:) or <i>reached much water;</i> as also اَمْهَى. (AA, in TA, art. نبط.) ―         -b2-  اَمَاهُ الرَّكِيَّةَ <br>\
+                  <i>He</i> (a man) <i>produced,</i> or <i>fetched out, by his labour,</i> or <i>work</i> [<i>in digging,</i>] <i>the water of the well;</i> syn. اَنْبَطَ مَا=ءَهَا: (S, K:) <i>He</i> (God) <i>made the water of the well to be much,</i> or <i>abundant.</i> (Msb.)   </entryFree> <br>\
+' } );

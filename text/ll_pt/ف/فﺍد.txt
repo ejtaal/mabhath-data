@@ -1,0 +1,90 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;فاد&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  فاد<br>\
+&lt;entryFree id=&quot;n32809&quot; key=&quot;فَاَدَهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     فَاَدَهُ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (T, S, M, A, L, K,) aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     فَاََ<br>\
+                  &lt;/form&gt;, inf. n. فَاْدٌ, (M, L,) &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, hit, struck, smote, affected,&lt;/i&gt; or &lt;i&gt;hurt, his&lt;/i&gt; (a man&#39;s, K) فُوَاد [or &lt;i&gt;heart,&lt;/i&gt; &amp;amp;c.]: (S, M, L, K:) &lt;i&gt;he hit,&lt;/i&gt; or &lt;i&gt;smote, him,&lt;/i&gt; (AZ, T,) or &lt;i&gt;shot,&lt;/i&gt; or &lt;i&gt;shot at, and hit,&lt;/i&gt; or &lt;i&gt;smote, him,&lt;/i&gt; namely a gazelle, (A,) or an animal of the chase, (AZ, T,) &lt;i&gt;in his&lt;/i&gt; <br>\
+                  فُوَاد. (AZ, T, A.) ―         -b2-  And, said of a disease, (S,) and of fear, (A,) &lt;i&gt;It smote,&lt;/i&gt; or &lt;i&gt;affected, his&lt;/i&gt; <br>\
+                  فُوَاد: (S, A:) or, said of fear, &lt;i&gt;it rendered him cowardly.&lt;/i&gt; (K.) ―         -b3-  And فُيِدَ, (T, M, A, L, K,) inf. n. فَاْدٌ; (M, L;) and فَيِدَ; (K;) &lt;i&gt;He had a disease in his&lt;/i&gt; <br>\
+                  فُوَاد: (T:) or &lt;i&gt;he had a complaint thereof:&lt;/i&gt; (M, L, K:) or &lt;i&gt;he had a pain therein:&lt;/i&gt; (K:) or &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, hit, struck, smitten, affected,&lt;/i&gt; or &lt;i&gt;hurt, therein.&lt;/i&gt; (A.)       -A2-  فَاَدَ الخُبْزَةَ, (T, S, M, L,) or الخُبْزَ, (K,) aor. as above, and so the inf. n., (M, L,) &lt;i&gt;He put the cake of bread,&lt;/i&gt; or &lt;i&gt;lump of dough,&lt;/i&gt; (T, S,) or &lt;i&gt;the bread,&lt;/i&gt; (K,) &lt;i&gt;into the hot ashes;&lt;/i&gt; (T, S, K;) &lt;i&gt;and baked it therein:&lt;/i&gt; (T:) or &lt;i&gt;he toasted&lt;/i&gt; [or &lt;i&gt;baked&lt;/i&gt;] (M, L) &lt;i&gt;the cake of bread,&lt;/i&gt; or &lt;i&gt;lump of dough,&lt;/i&gt; [or &lt;i&gt;the bread,&lt;/i&gt;] &lt;i&gt;in the hot ashes.&lt;/i&gt; (M, * L.) And فَاَدَ اللَّحْمَ (S, M, L, K) فِى النَّارِ, (M, L, K,) aor. and inf. n. as above, (L,) &lt;i&gt;He roasted the flesh-meat&lt;/i&gt; [&lt;i&gt;in the fire&lt;/i&gt;]; as also ↓ <br>\
+      افتادهُ. (S, M, L, K.) ―         -b2-  And فَاَدَ لِلْخُبْزَةِ, (S, L,) aor. and inf. n. as above, (L,) &lt;i&gt;He made for the cake of bread,&lt;/i&gt; or &lt;i&gt;lump of dough, a place in the hot ashes,&lt;/i&gt; or &lt;i&gt;in the fire, to put it therein&lt;/i&gt; [&lt;i&gt;for the purpose of baking it&lt;/i&gt;]. (S, L.)       -A3-  فَاَدَ لِفُلَانٍ <br>\
+                  &lt;i&gt;He acted well,&lt;/i&gt; or &lt;i&gt;kindly, to such a one, in his affair, in absence:&lt;/i&gt; so in the “ Nawádir ” of Lh. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32810&quot; key=&quot;تفاّد&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تفاّد<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تَوَقَّدَ [i. e., when said of fuel, &lt;i&gt;It burned, burned up, burned brightly&lt;/i&gt; or &lt;i&gt;fiercely, blazed,&lt;/i&gt; or &lt;i&gt;flamed&lt;/i&gt;]: (M, L, K:) [and] so when said of the heart [i. e. &lt;i&gt;It became excited with ardour,&lt;/i&gt; or &lt;i&gt;eagerness&lt;/i&gt;]. (M, L, K. *) And &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  تَحَرَّقَ [&lt;i&gt;It burned much,&lt;/i&gt; as a quasi-pass. v.]: (so in copies of the K, in SM&#39;s copy and in my MS. copy and in the CK:) or, as in MF&#39;s copy of the K, تَحَرَّكَ [&lt;i&gt;it was,&lt;/i&gt; or &lt;i&gt;became, in a state of motion,&lt;/i&gt; or &lt;i&gt;commotion&lt;/i&gt;]: (TA:) [See what is said of the derivation of فُوَادٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32811&quot; key=&quot;افتادوا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     افتادوا<br>\
+                     ذ<br>\
+                  &lt;i&gt;They lighted a fire&lt;/i&gt; (M, A, L, K) &lt;i&gt;for the purpose of roasting.&lt;/i&gt; (A)       -A2-  See also 1, latter half.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32812&quot; key=&quot;فَاْدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَاْدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: [see 1, of which it is the inf. n.: and] see the paragraph here following.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32813&quot; key=&quot;فُوَادٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فُوَادٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (S, M, A, Msb, K, &amp;amp;c.) and فَوَادٌ, which is strange, (K,) but said by Esh-Shiháb to be a dial var., and to be without reason disallowed by AHát; (TA;) of the masc. gender only; (Lh, M, L, K, &amp;amp;c.;) The &lt;i&gt;heart;&lt;/i&gt; syn. قَلْبٌ [q. v.]; (S, M, A, L, Msb, K, &amp;amp;c.;) of man, and of an animal other than man: (M, L:) so called because of its تَفَاُّد (T, M, L, K) i. e. تَوَقُّد [or ardour]; (M, L, K;) or because of its pulsation, and commotion; [for which reason also the heart is said to be called القَلْبُ, from التَّقَلُّبُ;] for it is said that the primary meaning of ↓ <br>\
+      فَاْدٌ is “ motion, ” and the “ putting in motion: ” (MF, TA:) or the heart is thus called only when its تَفَاُّد, i. e. its تَوَقُّد, is regarded: and most authors make a distinction between فُوَاد and قَلْبٌ; the latter of which is said to have a more special signification than the former: (TA:) and the former is said to be [the &lt;i&gt;pericardium,&lt;/i&gt;] the غِشَا=ء, &lt;pb n=&quot;2324&quot; TEIform=&quot;pb&quot;/&gt; (L, TA,) or the وِعَا=ء, (TA,) &lt;i&gt;of the&lt;/i&gt; <br>\
+                  قَلْب: (L, TA:) or the &lt;i&gt;middle thereof:&lt;/i&gt; (L:) or the &lt;i&gt;interior thereof:&lt;/i&gt; (TA:) the قَلْب being its حَبَّة [q. v.], (L, TA,) or its سُوَيْدَا=ء: (L:) or فُوَادٌ signifies the &lt;i&gt;appendages of the&lt;/i&gt; <br>\
+                  مَرِىْء [or &lt;i&gt;œsophagus&lt;/i&gt;], &lt;i&gt;consisting of the liver and lungs and&lt;/i&gt; <br>\
+                  قَلْب [or &lt;i&gt;heart&lt;/i&gt;]: (K:) pl. اَفْيِدَةٌ, (S, M, A, Mgh, Msb, K, &amp;amp;c.,) the only pl. thereof known to Sb. (M, L.) ―         -b2-  Also The &lt;i&gt;mind,&lt;/i&gt; or &lt;i&gt;intellect:&lt;/i&gt; and this, it is said, may be the meaning of the phrase [in the Kur liii. 11], مَا كَذَبَ اْلْفُوَادُ مَا رَاَى, (TA,) or ما كَذَّبَ, another reading, i. e. [&lt;i&gt;The mind&lt;/i&gt;] &lt;i&gt;did not disacknowledge,&lt;/i&gt; or &lt;i&gt;deem improbable, what he saw.&lt;/i&gt; (Jel.) [Hence,] حِدَّةُ الفُوَادِ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  ذَكَا=ءٌ [meaning &lt;i&gt;Sharpness,&lt;/i&gt; or &lt;i&gt;acuteness, of mind,&lt;/i&gt; in a man: and &lt;i&gt;sharpness of spirit&lt;/i&gt; in a beast]. (S in art. ذكو.) [And حَدِيدُ الفُوَادِ <br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  ذَكِيٌّ meaning &lt;i&gt;Sharp,&lt;/i&gt; or &lt;i&gt;acute, in mind,&lt;/i&gt; applied to a man: and &lt;i&gt;sharp in spirit,&lt;/i&gt; applied to a beast:] one says فَرَسٌ حَدِيدَةُ <br>\
+                  الفُوَادِ [&lt;i&gt;A mare sharp in spirit&lt;/i&gt;]; and in like manner نَاقَةٌ [&lt;i&gt;a she-camel&lt;/i&gt;]: (S and K in art. روع:) and نَاقَةٌ رُوَاعَةُ الفُوَادِ, and رُوَاعُ الفُوَادِ, &lt;i&gt;a quick, spirited, vigorous, she-camel; sharp in spirit;&lt;/i&gt; syn. شَهْمَةٌ ذَكِيَّةٌ. (K in that art.) [And طَارَ فُوَادُهُ <br>\
+                  &lt;i&gt;His mind&lt;/i&gt; or &lt;i&gt;intellect, fled:&lt;/i&gt; and &lt;i&gt;his courage.&lt;/i&gt; (See شَعَاعٌ: and طَارَ.)]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32814&quot; key=&quot;فَيِيدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     فَيِيدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مَفْوُودٌ, in two places.       -A2-  Also, (T, M, L,) applied to bread [or dough], (M, L,) and so ↓ <br>\
+      مَفْوُودٌ, (M, L, K,) and ↓ <br>\
+      مُفْتَاَدٌ, and ↓ <br>\
+      اُفْوُودٌ, (K,) &lt;i&gt;Baked on the fire:&lt;/i&gt; (T:) or &lt;i&gt;put into hot ashes,&lt;/i&gt; (L, K,) &lt;i&gt;and baked therein:&lt;/i&gt; (L:) or &lt;i&gt;toasted&lt;/i&gt; [or &lt;i&gt;baked&lt;/i&gt;] &lt;i&gt;in hot ashes.&lt;/i&gt; (M, L.) And the first, (T, S, M, &amp;amp;c.,) applied to flesh-meat, (S, M, L,) &lt;i&gt;Roasted,&lt;/i&gt; (T, S, M, L, K,) as also ↓ <br>\
+      مَفْوُودٌ, (M, L, K,) &lt;i&gt;on the fire:&lt;/i&gt; (T:) or &lt;i&gt;roasted upon live coals;&lt;/i&gt; as also ↓ <br>\
+      مُفْاَدٌ [evidently, I think, a mistranscription for ↓ <br>\
+      مُفْتَاَدٌ]. (L.) ―         -b2-  And فَيِيدٌ signifies also &lt;i&gt;Fire&lt;/i&gt; or &lt;i&gt;a fire&lt;/i&gt; [&lt;i&gt;for baking&lt;/i&gt; &amp;amp;c.]. (T, L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32815&quot; key=&quot;اُفْوُودٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُفْوُودٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A place which one makes, for a cake of bread,&lt;/i&gt; or &lt;i&gt;lump of dough, in hot ashes,&lt;/i&gt; or &lt;i&gt;in a fire, to put it therein&lt;/i&gt; [&lt;i&gt;for the purpose of baking it&lt;/i&gt;]: (S, M, * L, K: *) pl. اَفَايِيدُ. (L.) ―         -b2-  See also فَيِيدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32816&quot; key=&quot;مُفْاَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُفْاَدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see فَيِيدٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32817&quot; key=&quot;مِفْاَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِفْاَدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (T, S, M, L, K) and ↓ <br>\
+      مِفْاَدَةٌ (S, L, K) and ↓ <br>\
+      مِفْا=دٌ (T, M, L, K) The [&lt;i&gt;iron instrument, with which flesh-meat is roasted, called&lt;/i&gt;] سَفُّود, (T, S, M, L, K,) [or] &lt;i&gt;with which one roasts and bakes.&lt;/i&gt; (L, TA.) And [in the CK “ or ”] the first, (S, L, K,) and the second and third also, (accord. to the K,) the &lt;i&gt;piece of wood,&lt;/i&gt; or &lt;i&gt;wooden implement, with which the&lt;/i&gt; [&lt;i&gt;fire in the kind of oven called&lt;/i&gt;] تَنُّور <br>\
+                  &lt;i&gt;is stirred:&lt;/i&gt; pl. مَفَايِدُ. (S, L, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32818&quot; key=&quot;مِفْاَدَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِفْاَدَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32819&quot; key=&quot;مِفْا=دٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِفْا=دٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see the next preceding paragraph.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32820&quot; key=&quot;مَفْوُودٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَفْوُودٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Hit, struck, smitten, affected,&lt;/i&gt; or &lt;i&gt;hurt, in his&lt;/i&gt; <br>\
+                  فُوَاد [or &lt;i&gt;heart,&lt;/i&gt; &amp;amp;c.]: (S, A, L:) &lt;i&gt;smitten,&lt;/i&gt; or &lt;i&gt;affected, by a disease therein:&lt;/i&gt; (S, L:) or &lt;i&gt;by pain therein.&lt;/i&gt; (L.) ―         -b2-  A man &lt;i&gt;without a heart; having no heart;&lt;/i&gt; as also ↓ <br>\
+      فَيِيدٌ: (Ks, S, L:) &lt;i&gt;weak-hearted:&lt;/i&gt; (T, L:) &lt;i&gt;a coward;&lt;/i&gt; (T, M, L, K;) and so ↓ <br>\
+      فَيِيدٌ: (T, K:) in this sense it has no verb. (AAF, IJ, M, L.)       -A2-  See also فَيِيدٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n32821&quot; key=&quot;مُفْتَاَدٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُفْتَاَدٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see فَيِيدٌ, in two places. ―         -b2-  Also &lt;i&gt;A place of fuel:&lt;/i&gt; (T, L:) &lt;i&gt;a place in which a fire is lighted for roasting.&lt;/i&gt; (A.)   &lt;/entryFree&gt; <br>\
+' } );

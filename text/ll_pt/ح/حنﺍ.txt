@@ -1,0 +1,43 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;حنا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  حنا<br>\
+&lt;entryFree id=&quot;n9256&quot; key=&quot;حَنَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     حَنَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَنَاَ<br>\
+                  &lt;/form&gt;, &lt;i&gt;It&lt;/i&gt; (a place) &lt;i&gt;became green, and tangled,&lt;/i&gt; or &lt;i&gt;luxuriant,&lt;/i&gt; or &lt;i&gt;abundant and dense, in its herbage,&lt;/i&gt; or &lt;i&gt;plants.&lt;/i&gt; (K.)       -A2-  حَنَاَتْ يَدَهَا: see 2. ―         -b2-  حَنَاَهَا <br>\
+                  &lt;i&gt;He lay with her.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9257&quot; key=&quot;حنّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     حنّا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَحْنِىْءٌ and تَحْنِيَةٌ <br>\
+                  &lt;i&gt;He dyed&lt;/i&gt; (AZ, S, K) his head, (AZ, TA,) or his beard, (S,) &lt;i&gt;with&lt;/i&gt; <br>\
+                  حِنَّا=ء: (AZ, S, K:) and حنّات يَدَهَا <br>\
+                  &lt;i&gt;She&lt;/i&gt; (a woman) &lt;i&gt;dyed her hand therewith;&lt;/i&gt; as also ↓ <br>\
+      حَنَاَتْهَا, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     حَنَاَ<br>\
+                  &lt;/form&gt;. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9258&quot; key=&quot;تحنّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تحنّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;It&lt;/i&gt; (his head, or his beard,) &lt;i&gt;was dyed with&lt;/i&gt; <br>\
+                  حِنَّا=ء (AHn, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9259&quot; key=&quot;حِنَّا=ءٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حِنَّا=ءٌ<br>\
+                     حنا=ء<br>\
+                  &lt;/form&gt; [&lt;i&gt;A certain plant&lt;/i&gt;] &lt;i&gt;well known;&lt;/i&gt; (S, K;) [the &lt;i&gt;Lawsonia inermis,&lt;/i&gt; or &lt;i&gt;Egyptian privet;&lt;/i&gt;] &lt;i&gt;used for dyeing the extremities&lt;/i&gt; [i. e. &lt;i&gt;the hands and feet and head&lt;/i&gt;]: (TA:) [in the present day, the plant itself is called ثَمَرُ الحِنَّا=ءِ, (vulgo تَمَرحِنَّا,) and its leaves, used for dyeing the hands &amp;amp;c., are called حِنَّا=ء:] accord. to some, it is the pl. of حِنَّا=ءَةٌ; [or rather a coll. gen. n., of which حنّا=ءة is the n. un.;] but it is generally asserted that حنّا=ءة is a more special word than حنّا=ء, [as in the S and Msb,] and not the sing. of the latter: (TA:) pl. حُنْا=نٌ. (K.) حُنَّا=نٌ is said to be an anomalous pl. of حنّا=ء; or a dial. var. of the latter, and not a pl.: (TA:) and حِنَّانٌ is a dial. var. of حِنَّا=ءٌ. (Fr, Th, TA in art. حن.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9260&quot; key=&quot;حِنَّايِىٌّ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     حِنَّايِىٌّ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A seller of&lt;/i&gt; <br>\
+                  حِنَّا=ء: pl. حِنَّايِيُّونَ. (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n9261&quot; key=&quot;اَخْضَرُ حَانِيٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَخْضَرُ حَانِيٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Very green; intensely green.&lt;/i&gt; (K, TA.)   &lt;/entryFree&gt; <br>\
+' } );

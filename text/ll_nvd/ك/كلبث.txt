@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كلبثكَلْبَثٌ and كُلَابِثٌ A hard and strong man.<br>\
+(IDrd, L.) ―<br>\
+-b2-  Also, and كُلْبُثٌ and كُلَبِثٌ,<br>\
+Niggardly, or stingy, and contracted [in disposition]. (K.) [See also كُنْبُثٌ.]<br>\
+' } );

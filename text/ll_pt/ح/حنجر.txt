@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>حنجر</em>            1                  حنجر<br>\
+<b>حَنْجَرَهُ</b>               1     <br>\
+                     حَنْجَرَهُ<br>\
+                     حنجر<br>\
+                     حنجره<br>\
+                     حنجرة<br>\
+                  , here mentioned in the K: see art. حجر, in which I have mentioned it as Q. Q., like the two words here following, which are mentioned in the latter art. in the S and K &amp;amp;c.    </entryFree> <br>\
+<b>حَنْجرَةٌ</b>               1     <br>\
+                     حَنْجرَةٌ<br>\
+                     حنجر<br>\
+                     حنجره<br>\
+                     حنجرة<br>\
+                  : see art. حجر.    </entryFree> <br>\
+<b>حُنْجُورٌ</b>               1     <br>\
+                     حُنْجُورٌ<br>\
+                     حنجور<br>\
+                  : see art. حجر.   </entryFree> <br>\
+' } );

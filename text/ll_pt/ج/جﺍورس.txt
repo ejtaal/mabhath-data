@@ -1,0 +1,16 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;جاورس&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  جاورس<br>\
+&lt;entryFree id=&quot;n4896&quot; key=&quot;جَاوَرْسٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     جَاوَرْسٌ<br>\
+                     جاورس<br>\
+                  &lt;/form&gt;: see art. جرس.   &lt;/entryFree&gt; <br>\
+            &lt;div2 n=&quot;Quasi jAy&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;&gt;<br>\
+               &lt;head TEIform=&quot;head&quot;&gt;Quasi جاي<br>\
+&lt;entryFree id=&quot;n4897&quot; key=&quot;جَاا=نِى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     جَاا=نِى<br>\
+                     جاا=نى<br>\
+                     جاا=ني<br>\
+                  &lt;/form&gt;: see 3 in art. جيا.   &lt;/entryFree&gt; <br>\
+' } );

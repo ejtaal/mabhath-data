@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>نهم</em>            1                  نهم<br>\
+<b>نَهِمَ</b>               1     <br>\
+                     نَهِمَ<br>\
+                     ذ<br>\
+                  <i>He had an inordinate desire</i> or <i>appetite</i> (S, Msb, K) <i>for food.</i> (S, K.)    </entryFree> <br>\
+<b>نهَِيمٌ</b>               1     <br>\
+                     نهَِيمٌ<br>\
+                     ذ<br>\
+                  <i>A chiding of camels.</i> (TA.)    </entryFree> <br>\
+<b>طَرِيقٌ نَهَّامٌ</b>               1     <br>\
+                     طَرِيقٌ نَهَّامٌ<br>\
+                     ذ<br>\
+                  <i>A road wherein is</i> [<i>heard</i>] <i>a chiding of camels:</i> (TA:) see حَنَّانٌ.   </entryFree> <br>\
+' } );

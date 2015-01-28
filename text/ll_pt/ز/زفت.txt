@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>زفت</em>            1                  زفت<br>\
+<b>زفّت</b>               1     <br>\
+                     زفّت<br>\
+                     ذ<br>\
+                  <i>He smeared</i> a receptacle [such as a wine-skin and a wine-jar] <i>with</i> <br>\
+                  زِفْت. (Msb.)    </entryFree> <br>\
+<b>زِفْتٌ</b>               1     <br>\
+                     زِفْتٌ<br>\
+                     ذ<br>\
+                   [<i>Pitch:</i> or <i>tar:</i> or <i>a sort of pitch:</i> or <i>crude pitch:</i>] <i>i. q.</i> <br>\
+                  قَارٌ: (A, Mgh, K:) or قِيرٌ: (Msb:) or قَطِرَانٌ: (A, Msb:) or it is <i>like</i> <br>\
+                  قِيرٌ: (S:) it is <i>not the</i> <br>\
+                  قِير <br>\
+                  <i>with which ships are smeared, but</i> [<i>like this inasmuch as</i>] <i>it is also a black substance, with which wine-skins are seasoned; for the</i> <br>\
+                  قير <br>\
+                  <i>of ships dries upon them, whereas the</i> <br>\
+                  زفت <br>\
+                  <i>of skins does not dry:</i> (TA:) or [<i>crude pitch;</i> i. e.] <i>a produce of the pine,</i> or <i>pitch-tree;</i> which is of two sorts, moist and dry; the latter being either cooked, or congealed of itself; <i>such as flows of itself from the trees</i> is called زفت; such as is prepared by cooking, and art, قَطِرَانٌ. (TK.) [See also كُفْرٌ: and see De Sacy&#39;s “ Abd-allatif, ” p. 273.] ―         -b2-  Also, (K, * TA,) i. e. زِفْتٌ, (TA,) [not مُزَفَّتٌ, which Freytag has supposed to be here intended in the K, and not without some reason, for the passage is ambiguous,] <i>A certain medicine;</i> (K, TA;) <i>a thing that comes forth from the earth,</i> [app. <i>a sort of bitumen,</i> perhaps another name for قَفْرٌ يَهُودِىٌّ <br>\
+                  <i>bitumen Judaicum,</i> or <i>Jew&#39;s pitch,</i>] <i>that is an ingredient in medicines:</i> not the زفت commonly known. (TA.)    </entryFree> <br>\
+<b>مُزَفَّتٌ</b>               1     <br>\
+                     مُزَفَّتٌ<br>\
+                     ذ<br>\
+                  <i>Smeared with</i> <br>\
+                  زِفْت; (S, A, * Mgh, K;) applied to a wine-skin, (A,) or a vessel, or receptacle for wine; i. <i>q.</i> <br>\
+                  مُقَيَّرٌ. (TA.) The receptacle thus termed quickly occasions alteration [or fermentation] in the wine [contained in it]. (Mgh.) You say جَرَّةٌ مُزَفَّتَةٌ <br>\
+                  <i>A jar smeared with</i> <br>\
+                  زِفْت. (S.) And it is said in a trad., نَهَى عَنِ المُزَفَّتِ [<i>He forbade</i> the use of <i>that</i> skin, or vessel, <i>which is smeared with</i> <br>\
+                  زفت, for the beverage called نَبِيذ]. (TA.)   </entryFree> <br>\
+' } );

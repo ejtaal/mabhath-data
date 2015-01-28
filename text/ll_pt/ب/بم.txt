@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>بم</em>            1                  بم<br>\
+<b>بَمٌّ</b>               1     <br>\
+                     بَمٌّ<br>\
+                     بم<br>\
+                   [The <i>bass</i> in music; used in this sense in the present day: or particularly the <i>bass notes</i> of the lute: in this sense F seems to have understood the saying of ISd that] the بَمّ of the lute is well known: (M, K: [in the CK, البَمَّ مِنَ <br>\
+                  العُوْدِ او الوَتَرِ الخ is erroneously put for البَمُّ مِنَ <br>\
+                  العُودِ م= اَوِ الوَتَرُ الخ:]) or (so in the K) it is the <i>thick</i> [or <i>bass</i>] <i>chord of the lute:</i> (S, K:) the  word is foreign: (M:) [in Persian بَمْ:] Az says that it is not Arabic. (TA.)    </entryFree> <br>\
+<b>بُمٌّ</b>               1     <br>\
+                     بُمٌّ<br>\
+                     بم<br>\
+                  <i>i. q.</i> <br>\
+                  بُومٌ, q. v. (K.)   </entryFree> <br>\
+' } );

@@ -1,0 +1,17 @@
+load_data( { book: 'll_nvd', text: 'وسج1<br>\
+وَسَجَ, (aor. يَسِجُ, K,) inf. n. وَسِيجٌ (S,<br>\
+K) and وَسْجٌ and وَسَجَانٌ; (L;) He (a camel) went<br>\
+a certain pace; (S, L, K;) [more quick than<br>\
+that called عَسْجٌ: the contr. is said in the TA,<br>\
+app. by a mistranscription: but see نَصَبَ, and<br>\
+ذَمَلَ:] the first pace, accord. to En-Nadr and As,<br>\
+is called الدَّبِيبُ; the next, العَنَقُ; the next,<br>\
+التَّزَيُّدُ; the next, الذَّمِيلُ; the next, العَسْجُ;<br>\
+and the next, الوَسْجُ: or he went quickly, or<br>\
+swiftly. (TA, L.)<br>\
+4<br>\
+اوسج He incited, urged, or made, a camel,<br>\
+to go at the pace called الوَسِيج. (S, K.)<br>\
+جَمَلٌ وَسَّاجٌ عَسَّاجٌ A quick, or swift, camels. (K.)<br>\
+إِبلٌ وَسُوجٌ عَسُوجٌ Quick, or swift, camels. (K.)<br>\
+' } );

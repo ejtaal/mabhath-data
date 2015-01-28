@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>فرسك</em>            1                  فرسك<br>\
+<b>فِرْسِكٌ</b>               1     <br>\
+                     فِرْسِكٌ<br>\
+                     ذ<br>\
+                   (S, O, K) [and فِرْسِقٌ (K in art. فرسق) The <i>peach:</i> or the sort thereof called the <i>nectarine:</i> from the Greek <G>persikh\</G> or <G>persiko\n</G>; the <i>malum Persicum,</i> which is generally applied to the former fruit; or <i>amydalus Persica</i> of Linn., (so in Forskål&#39;s Flora Aegypt. Arab. p. cxiii.,) which is applied to both of the fruits above mentioned: i. e.] the [<i>fruit called</i>] خَوْخ; (K, TA;) of the dial. of El-Yemen: (TA:) or <i>a sort thereof,</i> (K,) <i>i. q.</i> <br>\
+                  فِرْسِقٌ, which is <i>like the</i> <br>\
+                  خَوْخ <br>\
+                  <i>in size,</i> (Lth, O,) اَجْرَدُ [which here means <i>without down,</i> and for which Golius and Freytag appear to have read اَجْوَدُ], <i>smooth, red</i> [accord. to the CK “ or red ”], (Lth, O, K, TA,) <i>and yellow, the flavour of which is like that of the</i> <br>\
+                  خَوْخ: (Lth, O, TA:) or [<i>a cling-stone peach</i> or <i>nectarine;</i> i. e.] <i>a sort of</i> <br>\
+                  خَوْخ <br>\
+                  <i>that does not cleave asunder from its stone:</i> (S, O:) or [<i>a free-stone peach</i> or <i>nectarine;</i> i. e.] <i>such as cleaves asunder from its stone.</i> (K.)   </entryFree> <br>\
+' } );

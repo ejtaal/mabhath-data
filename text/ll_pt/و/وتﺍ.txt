@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;وتا&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  وتا<br>\
+&lt;entryFree id=&quot;n41577&quot; key=&quot;وَتَاَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     وَتَاَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor. يَتَاُ, (K,) inf. n. وَتْءٌ, (TA,) &lt;i&gt;He was heavy and slow&lt;/i&gt; in his gait, &lt;i&gt;by reason of age,&lt;/i&gt; or &lt;i&gt;by nature.&lt;/i&gt; (K.) Not mentioned by J. because esteemed by him not chaste. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n41578&quot; key=&quot;تَيْتَا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     تَيْتَا<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. تا.   &lt;/entryFree&gt; <br>\
+' } );

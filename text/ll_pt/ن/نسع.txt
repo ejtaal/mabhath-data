@@ -1,0 +1,10 @@
+load_data( { book: 'll_pt', text: '<em>نسع</em>            1                  نسع<br>\
+<b>نِسْعٌ</b>               1     <br>\
+                     نِسْعٌ<br>\
+                     ذ<br>\
+                  <i>A plaited thong, serving for the noserein of a camel,</i> &amp;amp;c., and sometimes <i>woven wide,</i> [<i>for a fore-girth,</i>] <i>placed on the breast of a camel.</i> (KL, TA.) See also نِسْعَةٌ.    </entryFree> <br>\
+<b>نِسْعَةٌ</b>               1     <br>\
+                     نِسْعَةٌ<br>\
+                     ذ<br>\
+                  <i>A kind of broad plaited fore-girth for a camel:</i> pl. نِسْعٌ and نِسَعٌ and اَنْسَاعٌ: (S:) or نِسَعٌ and نُسْعٌ and نُسُوعٌ and اَنْسَاعٌ are pls. of نِسْعٌ, [a coll. gen. n.,] of which نِسْعَةٌ is the n. un. (K.) See عَظْمُ الرَّحْلِ, in art. عظم. ―         -b2-  اَنْسَاعُ الطَّرِيقِ (assumed tropical:)  <i>The furrows of the road, made by the beasts with their legs</i> [or <i>feet</i>] <i>in its surface.</i> (TA, voce شَرَكٌ.)   </entryFree> <br>\
+' } );

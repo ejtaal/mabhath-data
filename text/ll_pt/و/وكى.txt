@@ -1,0 +1,7 @@
+load_data( { book: 'll_pt', text: '<em>وكى</em>            1                  وكى<br>\
+<b>وِكَا=ءٌ</b>               1     <br>\
+                     وِكَا=ءٌ<br>\
+                     ذ<br>\
+                  <i>A tie:</i> see an ex. voce اِسْتٌ, in art. سته. ―         -b2-  The <i>tie,</i> (S, Mgh, Msb, K,) which is a cord, (Msb,) <i>of the head</i> (S, Msb) <i>of the</i> <br>\
+                  قِرْبة, (S, Mgh, Msb, K,) <i>&amp;amp;c.</i> (K.)   </entryFree> <br>\
+' } );

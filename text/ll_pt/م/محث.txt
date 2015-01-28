@@ -1,0 +1,11 @@
+load_data( { book: 'll_pt', text: '<em>محث</em>            1                  محث<br>\
+<b>مَحَثَ شَيْيًا</b>               1     <br>\
+                     مَحَثَ شَيْيًا<br>\
+                     ذ<br>\
+                  <i>i. q.</i> <br>\
+                  حَثَمَهُ. (L.)    </entryFree> <br>\
+<b>مَحْثٌ</b>               1     <br>\
+                     مَحْثٌ<br>\
+                     ذ<br>\
+                  <i>One who mixes with people, and eats and converses with them.</i> (MF, from the Námoos of [the Mulla &#39;Alee] El-Káree: [but SM expresses some doubt of its correctness, or whether it be correctly مخث].   </entryFree> <br>\
+' } );

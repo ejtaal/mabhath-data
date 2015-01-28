@@ -1,0 +1,27 @@
+load_data( { book: 'll_nvd', text: 'نمى1<br>\
+نَمَى<br>\
+, aor.<br>\
+نَمِىَ<br>\
+, inf. n. نَمَآءٌ, It increased; (M,<br>\
+K, Mgh, TA;) multiplied; became plentiful, or<br>\
+abundant; (Msb, TA;) said of a thing, (Msb,)<br>\
+of cattle, or wealth, (S, Mgh, TA,) &amp;c. (TA.)<br>\
+―<br>\
+-b2-  نَمَتِ الأَرْضُ<br>\
+The land throve, or yielded<br>\
+increase.<br>\
+4<br>\
+أَنْمَى الصَّيْدَ<br>\
+The quarry died out of sight<br>\
+of the sportsman: see أَصْمَى.<br>\
+8<br>\
+اِنْتَمَى إِلَيْهِ<br>\
+He asserted his [own] relationship [of son] to him; (S, Msb, K;) like اِعْتَزَى.<br>\
+(S and Msb in art. عزو.)<br>\
+نَامِيَةٌ<br>\
+, of a grape-vine, The shoot upon which<br>\
+are the bunches of grapes: (M, K:) or the eye,<br>\
+or bud, that breaks open so as to disclose its<br>\
+leaves and its berries: (M:) or its branches:<br>\
+pl. نَوَامٍ. (T.)<br>\
+' } );

@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>خى</em>            1                  خى<br>\
+<b>خَيَّيْتُ خَا=ءً</b>               1     <br>\
+                     خَيَّيْتُ خَا=ءً<br>\
+                     خييت خا=ء<br>\
+                  <i>I wrote a</i> <br>\
+                  خ. (JK, TA.)    </entryFree> <br>\
+<b>خُيَيَّةٌ</b>               1[     <br>\
+                     خُيَيَّةٌ<br>\
+                     خييه<br>\
+                     خيية<br>\
+                  . dim. of خَا=ءٌ, q. v. in art. خوا.]   </entryFree> <br>\
+' } );

@@ -1,0 +1,168 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;ارب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  ارب<br>\
+&lt;entryFree id=&quot;n517&quot; key=&quot;اَرُبَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَرُبَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرُبَ<br>\
+                  &lt;/form&gt;, (T, S, M, K,) inf. n. اَرَابَةٌ (AZ, T, S, M, K) and اـِرَبٌ, like صِغَرٌ, (S, K,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, cunning, characterized by intelligence with craft and forecast,&lt;/i&gt; or simply &lt;i&gt;intelligent, excellent in judgment, sagacious,&lt;/i&gt; (T, [in which it is said that As is related to have assigned this signification to اَرِبَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرَبَ<br>\
+                  &lt;/form&gt;, inf. n. اَرَبٌ,] S, M, K,) &lt;i&gt;and knowing in affairs.&lt;/i&gt; (M.) [The TA assigns the former inf. n. to it when it signifies simply intelligence, and the latter when it has the more comprehensive signification of cunning.] ―         -b2-  اَرِبَ بِالشَّىْءِ, [aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرَبَ<br>\
+                  &lt;/form&gt;,] &lt;i&gt;He became expert,&lt;/i&gt; or &lt;i&gt;skilful, in the thing:&lt;/i&gt; (M:) or &lt;i&gt;he became accustomed to,&lt;/i&gt; or &lt;i&gt;practised&lt;/i&gt; or &lt;i&gt;exercised in, the thing,&lt;/i&gt; (S, K, *) &lt;i&gt;and became knowing,&lt;/i&gt; or &lt;i&gt;skilful&lt;/i&gt; [&lt;i&gt;therein&lt;/i&gt;]. (S.) ―         -b3-  اَرِبَ, inf. n. اَرَبٌ, is also &lt;i&gt;syn. with&lt;/i&gt; <br>\
+                  اَنِسَ [app. as meaning &lt;i&gt;He became familiar&lt;/i&gt; with a person or thing]. (M.) ―         -b4-  And اَرِبَ بِالشَّىْءِ also signifies &lt;i&gt;He devoted,&lt;/i&gt; or &lt;i&gt;addicted, himself,&lt;/i&gt; or &lt;i&gt;clave,&lt;/i&gt; or &lt;i&gt;kept, to the thing:&lt;/i&gt; (T, K:) and &lt;i&gt;he was,&lt;/i&gt; or &lt;i&gt;became, niggardly, avaricious,&lt;/i&gt; or &lt;i&gt;tenacious, of the thing.&lt;/i&gt; (T, M, TA.) ―         -b5-  And اَرِبَ فِى الاَمْرِ, and فِيهِ ↓ <br>\
+      تارّب, &lt;i&gt;He exerted,&lt;/i&gt; or &lt;i&gt;employed, his power and ability in the affair, and understood it:&lt;/i&gt; (ISh, T:) or تارّب signifies &lt;i&gt;he exerted his strength, force,&lt;/i&gt; or &lt;i&gt;energy;&lt;/i&gt; or &lt;i&gt;strained himself;&lt;/i&gt; (As, S, M;) فِي الشَّىْءِ [&lt;i&gt;in the thing&lt;/i&gt;]; (As, S;) and فِى حَاجَتِهِ [&lt;i&gt;in his needful affair,&lt;/i&gt; or &lt;i&gt;in the accomplishment of his want&lt;/i&gt;]. (As, S, M.) ―         -b6-  اَرِبَ عَلَيْهِ <br>\
+                  &lt;i&gt;He had,&lt;/i&gt; or &lt;i&gt;obtained, power over him,&lt;/i&gt; or &lt;i&gt;it.&lt;/i&gt; (M.)       -A2-  اَرِبَ, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَرَبَ<br>\
+                  &lt;/form&gt;, (T, S, K,) inf. n. اَرَبٌ, (T, S,) &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, in want,&lt;/i&gt; or &lt;i&gt;need.&lt;/i&gt; (T, S, K.) [See اَرِبْتَ <br>\
+                  عَنْ ذِى يَدَيْكَ, and two other phrases following it, in a later part of this paragraph.] ―         -b2-  اَرِبَ اـِلَيْهِ, (M, Msb,) or بِهِ (T,) aor. and inf. n. as above, &lt;i&gt;He wanted it; was,&lt;/i&gt; or &lt;i&gt;became, in want,&lt;/i&gt; or &lt;i&gt;need, of it;&lt;/i&gt; (T, M, Msb;) and &lt;i&gt;sought it,&lt;/i&gt; or &lt;i&gt;desired it;&lt;/i&gt; (T;) namely, a thing. (T, Msb.) ―         -b3-  اَرِبَ الدَّهْرُ <br>\
+                  &lt;i&gt;Fortune was,&lt;/i&gt; or &lt;i&gt;became, hard,&lt;/i&gt; or &lt;i&gt;adverse:&lt;/i&gt; (T, S, K:) as though it wanted something of us, for which it pressed hard. (M, TA.) And اَرِبَ عَلَيْهِ <br>\
+                  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, hard upon him&lt;/i&gt; in his demand. (TA, from a trad.)       -A3-  اَرَبَهُ, [from اـِرَبٌ,] &lt;i&gt;He struck upon a member,&lt;/i&gt; or &lt;i&gt;limb, belonging to him.&lt;/i&gt; (K, * &lt;pb n=&quot;45&quot; TEIform=&quot;pb&quot;/&gt; TA.) ―         -b2-  اَرِبَ, (T, S, K, TA,) &lt;i&gt;His member,&lt;/i&gt; or &lt;i&gt;limb,&lt;/i&gt; (generally meaning the &lt;i&gt;arm,&lt;/i&gt; or &lt;i&gt;hand,&lt;/i&gt; M,) &lt;i&gt;was cut off:&lt;/i&gt; (M, K:) or &lt;i&gt;dropped off:&lt;/i&gt; (T:) and &lt;i&gt;his members,&lt;/i&gt; or &lt;i&gt;limbs,&lt;/i&gt; (generally relating to [the &lt;i&gt;members,&lt;/i&gt; or &lt;i&gt;fingers, of] the arm,&lt;/i&gt; or &lt;i&gt;hand,&lt;/i&gt; TA,) &lt;i&gt;dropped off, one after another,&lt;/i&gt; (S, K, TA,) &lt;i&gt;in consequence of his being affected by the disease termed&lt;/i&gt; <br>\
+                  جُذَام: (TA:) and &lt;i&gt;it&lt;/i&gt; (said of a member, or limb,) &lt;i&gt;dropped off.&lt;/i&gt; (TA.) The phrase, اَرِبْتَ <br>\
+                  عَنْ ذِى يَدَيْكَ, (T, TA,) or مِنْ ذى يديك, (S, TA, [and said in the latter to be likewise found in the T, but I have consulted two copies of the T and found only عن,]) or فِى ذى يديك, (IAar, as related by Sh,) or مِنْ يَدَيْكَ, (K,) but MF says that من in this phrase is a mistranscription, (TA,) means, &lt;i&gt;May the members&lt;/i&gt; [or &lt;i&gt;fingers] of thy hands,&lt;/i&gt; or &lt;i&gt;arms, drop off:&lt;/i&gt; (S, K, TA:) or it means, &lt;i&gt;may what is in thy hands depart from thee, so that thou shalt be in want:&lt;/i&gt; occurring in a trad. (IAar, T, TA.) And اَرِبَ مَا لَهُ, said by Mohammad on the occasion of a man&#39;s coming to him and asking him to acquaint him with some work that should introduce him into Paradise, means, accord. to Kt, &lt;i&gt;May his members,&lt;/i&gt; or &lt;i&gt;limbs, drop off,&lt;/i&gt; or &lt;i&gt;be cut off: what aileth him?&lt;/i&gt; (TA:) or, accord. to IAar, &lt;i&gt;may he become in want: what aileth him?&lt;/i&gt; (T, TA:) but IAth says that this has been related in three different ways: first, اَرِبَ, signifying an imprecation, [as rendered above,] and used as expressive of wonder: secondly, مَّا لَهُ ↓ <br>\
+      اَرَبٌ; i. e. حَاجَةٌ لَهُ; مَا being [syntactically] redundant, denoting littleness; the meaning being, &lt;i&gt;he has some little want:&lt;/i&gt; or, as some say, &lt;i&gt;a want hath brought him: what aileth him?&lt;/i&gt; thirdly, ↓ <br>\
+      اَرِبٌ; i. e. هُوَ اَرِبٌ; meaning &lt;i&gt;he is intelligent,&lt;/i&gt; or &lt;i&gt;sagacious,&lt;/i&gt; or &lt;i&gt;skilful,&lt;/i&gt; [as is said in the T,] &lt;i&gt;and perfect: what aileth him?&lt;/i&gt; or &lt;i&gt;what is his affair?&lt;/i&gt; the inchoative being suppressed. (TA.) مَا لَهُ اَرِبَتْ يَدُهُ, (M, K, *) another form of imprecation, (M,) means &lt;i&gt;What aileth him? may his arm,&lt;/i&gt; or &lt;i&gt;hand, be cut off:&lt;/i&gt; or, &lt;i&gt;may he become poor, and want what is in the hands of others.&lt;/i&gt; (M, K. *) ―         -b3-  [Hence, perhaps,] اَرِبَتْ مَعِدَتُهُ <br>\
+                  &lt;i&gt;His stomach became vitiated, disordered,&lt;/i&gt; or &lt;i&gt;in an unsound state.&lt;/i&gt; (K.) ―         -b4-  اَرِبَ also signifies &lt;i&gt;He prostrated himself firmly,&lt;/i&gt; or &lt;i&gt;fixedly, upon his [seven] members [mentioned in the explanations of the word&lt;/i&gt; <br>\
+                  اـِرْبٌ]. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n518&quot; key=&quot;ارّب&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     ارّب<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, inf. n. تَارِيبٌ, &lt;i&gt;He,&lt;/i&gt; or &lt;i&gt;it, [made,&lt;/i&gt; or &lt;i&gt;rendered, cunning,&lt;/i&gt; or &lt;i&gt;intelligent, excellent in judgment, sagacious, and knowing in affairs;&lt;/i&gt; (see اَرُبَ;)] &lt;i&gt;made to have knowledge,&lt;/i&gt; or &lt;i&gt;skill;&lt;/i&gt; or &lt;i&gt;made to understand.&lt;/i&gt; (M, TA.)       -A2-  &lt;i&gt;He was,&lt;/i&gt; or &lt;i&gt;became, avaricious; [in a state of vehement want&lt;/i&gt; of a thing;] &lt;i&gt;eagerly desirous.&lt;/i&gt; (A&#39;Obeyd, TA.) [See also 1.]       -A3-  &lt;i&gt;He cut up,&lt;/i&gt; or &lt;i&gt;cut into pieces,&lt;/i&gt; (T, A, Mgh,) a sheep, or goat, (A, Mgh,) &lt;i&gt;limb by limb.&lt;/i&gt; (T, A, Mgh.) ―         -b2-  &lt;i&gt;He cut off&lt;/i&gt; a member, or limb, &lt;i&gt;entire.&lt;/i&gt; (M, TA.) ―         -b3-  &lt;i&gt;He made entire,&lt;/i&gt; or &lt;i&gt;complete,&lt;/i&gt; (T, S, M, K,) a thing, (S,) a lot, or portion, (T, TA,) or anything. (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n519&quot; key=&quot;ا=ربهُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=ربهُ<br>\
+                     ا=ربه<br>\
+                     ا=ربة<br>\
+                  &lt;/form&gt;, (S, A,) inf. n. مُوَارَبَةٌ, (M, A,) &lt;i&gt;He strove,&lt;/i&gt; or &lt;i&gt;endeavoured, to outwit, deceive, beguile,&lt;/i&gt; or &lt;i&gt;circumvent, him;&lt;/i&gt; syn. دَاهَاهُ. (S, M, * A. *) It is said in a trad., (TA,) مُوَارَبَةُ الاَرِيبِ جَهْلٌ وَعَنَا=ءٌ [&lt;i&gt;The striving to outwit the cunning,&lt;/i&gt; or &lt;i&gt;intelligent,&lt;/i&gt; or &lt;i&gt;sagacious, is ignorance, and labour&lt;/i&gt; without profit]: (A, TA:) i. e., the intelligent is not to be outwitted. (TA.) And ا=رب بِهِ signifies &lt;i&gt;He practised an artifice, a stratagem,&lt;/i&gt; or &lt;i&gt;a fraud, upon him.&lt;/i&gt; (TA, from a trad.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n520&quot; key=&quot;ا=رب عَلَيْهِمْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;4&lt;/itype&gt;        <br>\
+                     ا=رب عَلَيْهِمْ<br>\
+                     ا=رب عليهم<br>\
+                  &lt;/form&gt;, (T, S, M, K,) of the measure اَفْعَلَ, (T,) inf. n. اـِيرَابٌ [originally اـِيْرَابٌ], (K,) &lt;i&gt;He was successful against them, and overcame them.&lt;/i&gt; (T, S, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n521&quot; key=&quot;تارّب&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تارّب<br>\
+                     ذ<br>\
+                  &lt;i&gt;He affected,&lt;/i&gt; or &lt;i&gt;endeavoured to acquire,&lt;/i&gt; (تَكَلَّفَ,) &lt;i&gt;cunning,&lt;/i&gt; or &lt;i&gt;intelligence, and excellence of judgment,&lt;/i&gt; (K, TA,) &lt;i&gt;and deceit, guile,&lt;/i&gt; or &lt;i&gt;artifice, and wickedness, mischievousness,&lt;/i&gt; or &lt;i&gt;malignity.&lt;/i&gt; (TA.) [See اـِرْبٌ.] ―         -b2-  تارّب فِي الاَمْرِ: see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n522&quot; key=&quot;اَرْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرْبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see what next follows, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n523&quot; key=&quot;اـِرْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرْبٌ<br>\
+                     اراب<br>\
+                     ارب<br>\
+                     اربى<br>\
+                     اـرب<br>\
+                     ارب<br>\
+                     راب<br>\
+                     رب<br>\
+                     ربا<br>\
+                     ربى<br>\
+                     آرب<br>\
+                  &lt;i&gt;Cunning, intelligence with craft and forecast,&lt;/i&gt; or simply &lt;i&gt;intelligence, excellence of judgment, sagacity,&lt;/i&gt; (T, S, M, L, K,) &lt;i&gt;and knowledge in affairs;&lt;/i&gt; (M, L;) as also ↓ <br>\
+      اـِرْبَةٌ and ↓ <br>\
+      اُرْبَةٌ (M, K) and ↓ <br>\
+      اَرَبٌ, (M, A,) or ↓ <br>\
+      اَرْبٌ. (L.) You say, هُوَ ذُو اـِرْبٍ [&lt;i&gt;He is a possessor of cunning,&lt;/i&gt; or &lt;i&gt;intelligence,&lt;/i&gt; &amp;amp;c.]. (S.) ―         -b2-  &lt;i&gt;Intelligence and religion.&lt;/i&gt; (Th, M, K.) ―         -b3-  &lt;i&gt;Deceit, gv?? artifice,&lt;/i&gt; or &lt;i&gt;fraud;&lt;/i&gt; syn. مَكْرٌ: so in the L and other lexicons: in the K, نُكْرٌ [i. e. “cunning,” &amp;amp;c., as above]: (TA:) and so ↓ <br>\
+      اـِرْبَةٌ; syn. حِيلَةٌ. (K.) ―         -b4-  &lt;i&gt;Wickedness, mischievousness,&lt;/i&gt; or &lt;i&gt;malignity; hidden rancour, malevolence,&lt;/i&gt; or &lt;i&gt;malice.&lt;/i&gt; (K, TA.) [In a trad. it occurs in this sense written, in the TA, ↓ <br>\
+      اَرْب.]       -A2-  See also اَرَبٌ, in four places.       -A3-  Also &lt;i&gt;A member; a distinct and complete part of an animal body; a limb;&lt;/i&gt; (T, S, M, Mgh, Msb, K;) or &lt;i&gt;such as is made complete,&lt;/i&gt; or &lt;i&gt;entire, not wanting anything:&lt;/i&gt; (M:) pl. ا=رَابٌ (S, M, Mgh, Msb) and اَرْا=بٌ; (S, Mgh;) the latter formed by transposition. (Mgh.) You say, قَطَّعْتُهُ اـِرْبًا اـِرْبًا <br>\
+                  &lt;i&gt;I cut him up, member by member,&lt;/i&gt; or &lt;i&gt;limb by limb.&lt;/i&gt; (TA.) And السُّجُودُ عَلَى سَبْعَةِ ا=رَابٍ or اَرْا=بٍ <br>\
+                  &lt;i&gt;Prostration&lt;/i&gt; [in prayer] &lt;i&gt;is&lt;/i&gt; [performed] &lt;i&gt;on seven members;&lt;/i&gt; (S, Mgh;) namely, the. forehead, the hands, the knees, and the feet. (TA.) ―         -b2-  Also The &lt;i&gt;membrum genitale;&lt;/i&gt; the &lt;i&gt;pudendum;&lt;/i&gt; syn. فَرْجٌ: (M, K:) but some say that this signification is not known: [see اَرَبٌ:] in some copies of the K, the explanation is written فَرَحٌ, with the unpointed ح. (TA.) ―         -b3-  ا=رَابٌ [the pl.] also signifies &lt;i&gt;Pieces of flesh,&lt;/i&gt; or &lt;i&gt;of flesh-meat.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n524&quot; key=&quot;اَرَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِرْبٌ.       -A2-  &lt;i&gt;Want,&lt;/i&gt; or &lt;i&gt;need;&lt;/i&gt; (T, S, M, Mgh, Msb, K;) as also ↓ <br>\
+      اـِرْبٌ and ↓ <br>\
+      اـرْبَةٌ (the same, and A) and ↓ <br>\
+      اُرْبَةٌ (K) and ↓ <br>\
+      مَاْرَبَةٌ and ↓ <br>\
+      مَاْرُبَةٌ (T, S, M, A, Msb, K) and ↓ <br>\
+      مَاْرِبَةٌ (K) and ↓ <br>\
+      مَاْرَبٌ: (M, A:) the pl. [of اَرَبٌ or اـِرْبٌ] is ا=رَابٌ, and [of اـِرْبَةٌ, and perhaps of the other sings. commencing with ا] اـِرَبٌ; (M;) and the pl. of ماربة is مَا=رِبُ. (T, Msb.) It is said in a trad., respecting Mo- hammad, كَانَ اَمْلَكَكُمْ لاربه <br>\
+                  &lt;i&gt;He had the most power, of you, over his want, and desire:&lt;/i&gt; (M, * Mgh, * Msb, * TA:) IAth says that the most common reading is لِاَرَبِهِ, meaning لِحَاجَتِهِ: but some read ↓ <br>\
+      لِاْربِهِ, [as in the M and Mgh,] i. e., either the same as above, [and so in the Mgh,] or لِعُضْوِهِ, by which is specially meant the membrum genitale: (TA:) but this is not known. (M.) Respecting the phrase اَرَبَ مَّا لَهُ, see 1. You say also, اِلَي هٰذَا ↓ <br>\
+      مَا اـِرْبُكَ <br>\
+                  &lt;i&gt;What is&lt;/i&gt; [the reason of] &lt;i&gt;thy want of this?&lt;/i&gt; (A.) And مَا لِى ↓ <br>\
+      فِيهِ اـِربٌ <br>\
+                  &lt;i&gt;I have no want of it.&lt;/i&gt; (A.) By غَيْرِ ↓ <br>\
+      اُولِي الاَرْبَةِ, in the Kur [xxiv. 31], are meant &lt;i&gt;Idiots;&lt;/i&gt; or &lt;i&gt;persons deficient in intellect:&lt;/i&gt; [from اـِرْبَةٌ as meaning “intelligence:”] (Sa&#39;eed Ibn-Jubeyr, S:) or &lt;i&gt;not such as have need of women.&lt;/i&gt; (Jel.) لَا حَفَاوَةٌ ↓ <br>\
+      مَاَرَبَةٌ, (S, A,) or لَا حَفَاوَةٌ ↓ <br>\
+      مَاْرَبٌ, (M,) is a proverb, (S, A,) meaning He only honours thee &lt;i&gt;for the sake of something which he wants&lt;/i&gt; of thee; &lt;i&gt;not for love&lt;/i&gt; of thee: (A, Meyd:) or only thy &lt;i&gt;want&lt;/i&gt; brought thee; &lt;i&gt;not&lt;/i&gt; the object of &lt;i&gt;paying extraordinary honour&lt;/i&gt; to me. (M.) [See also Freytag&#39;s Arab. Prov., ii. 690.] You say also, مِنَ الاَرْضِ ↓ <br>\
+      اَلْحِقْ بِمَاْرَبِكَ, meaning, &lt;i&gt;Go thou whither thou wilt [so as to attain thy want&lt;/i&gt;]. (A.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n525&quot; key=&quot;اَرِبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرِيبٌ. ―         -b2-  Also [&lt;i&gt;Expert; skilful:&lt;/i&gt; (see اَرِبَ, of which it is the part. n.:) or] &lt;i&gt;accustomed to,&lt;/i&gt; or &lt;i&gt;practised&lt;/i&gt; or &lt;i&gt;exercised in, a thing, and knowing,&lt;/i&gt; or &lt;i&gt;skilful.&lt;/i&gt; (S, TA.) See also 1, in the latter part of the paragraph.       -A2-  اَرِبٌ بِشَىْ ءٍ, [or اـِلَي شَىْءٍ, (see اَرِبَ,)] or ↓ <br>\
+      ا=رِبٌ, of the measure فَاعِلٌ, (Msb,) &lt;i&gt;Wanting, needing,&lt;/i&gt; or &lt;i&gt;desiring, a thing.&lt;/i&gt; (Msb, * TA in art. مهر, &amp;amp;c.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n526&quot; key=&quot;اُرْبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُرْبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اـِرْبٌ:       -A2-  and اَرَبٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n527&quot; key=&quot;اـِرْبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِرْبَةٌ<br>\
+                     اراب<br>\
+                     ارب<br>\
+                     اربى<br>\
+                     اربه<br>\
+                     اربة<br>\
+                     اـرب<br>\
+                     اـربه<br>\
+                     اربه<br>\
+                     اربة<br>\
+                     راب<br>\
+                     ربا<br>\
+                     ربى<br>\
+                     آرب<br>\
+                     آربه<br>\
+                  &lt;/form&gt;: see اـِرْبٌ, in two places:       -A2-  and اَرَبٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n528&quot; key=&quot;اُرَبَى&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُرَبَى<br>\
+                     ذ<br>\
+                  &lt;i&gt;Calamity; misfortune:&lt;/i&gt; (T, S, M, A, K:) [said to be] the only word of this measure except اُرَمَى and شُعَبَى [names of two places]. (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n529&quot; key=&quot;اُرْبَانٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُرْبَانٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (M, K): dial. vars. of عُرْبَانٌ and عُرْبُونٌ and عَرَبُونٌ. (M, * K, * TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n530&quot; key=&quot;اُرْبُونٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُرْبُونٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (TA): dial. vars. of عُرْبَانٌ and عُرْبُونٌ and عَرَبُونٌ. (M, * K, * TA.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n531&quot; key=&quot;اَرَبُونٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرَبُونٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; (TA): عُرْبَانٌ (TA): dial. vars. of عُرْبُونٌ and عَرَبُونٌ. (M, * K, * TA.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n532&quot; key=&quot;اَرِيبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَرِيبٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Cunning, characterized by intelligence with craft and forecast,&lt;/i&gt; or simply &lt;i&gt;intelligent&lt;/i&gt; [as in the S], &lt;i&gt;excellent in judgment, sagacious,&lt;/i&gt; (T, S, * M, K,) &lt;i&gt;and knowing in affairs;&lt;/i&gt; (M;) as also ↓ <br>\
+      اَرِبٌ: (K:) pl. of the former اَرَبَا=ءُ. (T, M.)       -A2-  ا=رَبُ <br>\
+                  &lt;i&gt;A wide, an ample,&lt;/i&gt; or &lt;i&gt;a capacious, cooking-pot.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n533&quot; key=&quot;قِدْرٌ اَرِيبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     قِدْرٌ اَرِيبَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;More,&lt;/i&gt; or &lt;i&gt;most, cunning,&lt;/i&gt; or &lt;i&gt;intelligent, excellent in judgment,&lt;/i&gt; or &lt;i&gt;sagacious.&lt;/i&gt; (A.) [See اَرِيبٌ.]    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n534&quot; key=&quot;ا=رِبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=رِبٌ<br>\
+                     ا=رب<br>\
+                  &lt;/form&gt;: see اَرِبٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n535&quot; key=&quot;مَاْرَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْرَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَرَبٌ, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n536&quot; key=&quot;مَاْرَبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْرَبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and مَاْرُبَةٌ and مَاْرِبَةٌ: see اَرَبٌ, in four places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n537&quot; key=&quot;مُوَرَّبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوَرَّبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A member, or limb, &lt;i&gt;cut off entire:&lt;/i&gt; (T:) &lt;pb n=&quot;46&quot; TEIform=&quot;pb&quot;/&gt; or an &lt;i&gt;entire, unbroken,&lt;/i&gt; member, or limb: (S:) and anything &lt;i&gt;made entire, complete,&lt;/i&gt; or &lt;i&gt;perfect.&lt;/i&gt; (S, K.) You say, كَتِفٌ مُوَرَّبَةٌ <br>\
+                  &lt;i&gt;A shoulder cut off entire,&lt;/i&gt; (Mgh, TA,) &lt;i&gt;having none of its flesh taken from it,&lt;/i&gt; (Mgh,) &lt;i&gt;without any deficiency.&lt;/i&gt; (TA.)   &lt;/entryFree&gt; <br>\
+' } );

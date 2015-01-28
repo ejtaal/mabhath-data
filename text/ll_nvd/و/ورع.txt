@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'ورع1<br>\
+وَرَعٌ<br>\
+Piety: or pious fear: syn. تَقْوَى:<br>\
+(K:) and abstinence from unlawful things.<br>\
+(TA.) ―<br>\
+-b2-  هُوَ وَرَعٌ ضَرَعٌ: see ضَرَعٌ.<br>\
+' } );

@@ -1,0 +1,21 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;امه&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  امه<br>\
+&lt;entryFree id=&quot;n1281&quot; key=&quot;اَمِهَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     اَمِهَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, aor.      <br>\
+    &lt;form n=&quot;infl&quot;&gt;       <br>\
+                     اَمَهَ<br>\
+                  &lt;/form&gt;, inf. n. اَمَهٌ, &lt;i&gt;He forgot.&lt;/i&gt; (S, K.) Hence the reading of I&#39;Ab, [in the Kur xii. 45,] وَادَّكَرَ بَعْدَ اَمَهٍ [&lt;i&gt;And he remembered,&lt;/i&gt; or &lt;i&gt;became reminded, after forgetting&lt;/i&gt;]. (S.) AHeyth is said to have read بَعْدَ اَمْهٍ; and accord. to AO, اَمْهٌ signifies نِسْيَانٌ [like اَمَهٌ]; but this is not correct. (Az, TA.) ―         -b2-  &lt;i&gt;He confessed,&lt;/i&gt; or &lt;i&gt;acknowledged:&lt;/i&gt; (S, K:) occurring in this sense in a trad. of Ez-Zuhree; but not well known. (S.) The reading of I&#39;Ab, mentioned above, بَعْدَ اَمَهٍ, is explained by A&#39;Obeyd as meaning &lt;i&gt;after confessing,&lt;/i&gt; or &lt;i&gt;acknowledging.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1282&quot; key=&quot;تامّه اُمَّا&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تامّه اُمَّا<br>\
+                     ذ<br>\
+                  &lt;i&gt;He adopted a mother;&lt;/i&gt; (M, K;) as also تَاَمَّمَهَا. (M in art. ام.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1283&quot; key=&quot;اُمَّهَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اُمَّهَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  اُمٌّ [&lt;i&gt;A mother&lt;/i&gt; of a human being and of any animal]: (M, K:) the former is [said by some to be] the original of the latter: (S:) Aboo-Bekr says that the ه in the former is a radical letter: (TA:) or the former applies to a rational creature; and the latter, to [a rational and] an irrational: (K:) or, accord. to Az, the pl. of the former applies to the rational; and that of the latter, to the irrational: (TA:) the former sing. sometimes applies to an irrational creature: (IJ, TA:) [for some further remarks on both of these words and their pls., see the latter of them:] the pl. [of the former] is اُمَّهَاتٌ and [that of the latter is] اُمَّاتٌ: (T, S:) Az says that the امو is added in the former for the purpose of distinguishing between the daughters of Adam [to whom it is generally applied] and other animate beings. (TA.)   &lt;/entryFree&gt; <br>\
+' } );

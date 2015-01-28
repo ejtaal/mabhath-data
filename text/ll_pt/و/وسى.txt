@@ -1,0 +1,14 @@
+load_data( { book: 'll_pt', text: '<em>وسى</em>            1                  وسى<br>\
+<b>وَاسَى</b>               1     <br>\
+                     وَاسَى<br>\
+                     ذ<br>\
+                  : see ا=سَيْتُهُ, throughout.    </entryFree> <br>\
+<b>اَوْسَى</b>               1     <br>\
+                     اَوْسَى<br>\
+                     ذ<br>\
+                  , originally اَسْوَى: see اِسْتَوَى    <br>\
+<b>تَوَاسَوْا</b>               1     <br>\
+                     تَوَاسَوْا<br>\
+                     ذ<br>\
+                  : see its syn. تَا=سَوْا.   </entryFree> <br>\
+' } );

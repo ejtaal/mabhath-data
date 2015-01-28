@@ -1,0 +1,11 @@
+load_data( { book: 'll_nvd', text: 'وفض2<br>\
+وَفَّضَ الرَّحَى<br>\
+He put a<br>\
+وِفَاض [or skin]<br>\
+beneath the [hand-] mill. (M, in art. ثفل.)<br>\
+4<br>\
+أَوْفَضَ<br>\
+: see أَوْضَفَ.<br>\
+وِفَاضٌ<br>\
+: see 2, and ثِفَالٌ.<br>\
+' } );

@@ -1,0 +1,18 @@
+load_data( { book: 'll_pt', text: '<em>هقب</em>            1                  هقب<br>\
+<b>هَقْبٌ</b>               1     <br>\
+                     هَقْبٌ<br>\
+                     ذ<br>\
+                  <i>Width; amplitude; largeness.</i> (K.)    </entryFree> <br>\
+<b>هِقَبْ</b>               1     <br>\
+                     هِقَبْ<br>\
+                     ذ<br>\
+                  <i>A word by which a horse is checked,</i> or <i>urged.</i> (K.    </entryFree> <br>\
+<b>هِقَبٌّ</b>               1     <br>\
+                     هِقَبٌّ<br>\
+                     ذ<br>\
+                  <i>Having a large,</i> or <i>ample, throat,</i> (K,) <i>swallowing everything.</i> (TA.) ―         -b2-  <i>Large, big,</i> or <i>bulky, and tall,</i> or <i>long;</i> an epithet applied to an ostrich, (Lth, K,) and to other things: (K:) or <i>long,</i> or <i>tall,</i> as an epithet applied to other things than the ostrich. (TA.)    </entryFree> <br>\
+<b>هَقَبْقَبٌ</b>               1     <br>\
+                     هَقَبْقَبٌ<br>\
+                     ذ<br>\
+                  <i>Hard,</i> or <i>firm, and strong,</i> or <i>robust.</i> (K.)   </entryFree> <br>\
+' } );

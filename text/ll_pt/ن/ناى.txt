@@ -1,0 +1,20 @@
+load_data( { book: 'll_pt', text: '<em>ناى</em>            1                  ناى<br>\
+<b>نَاَى بِهِ</b>               1     <br>\
+                     نَاَى بِهِ<br>\
+                     ذ<br>\
+                   [<i>He, or it, removed him; put or placed him at a distance, away, or far away.</i>] (S, art. طرح.) ―         -b2-  نَاَى <br>\
+                  <i>He shrank</i> from a thing: see an ex. in a verse cited voce دَفٌّ.    </entryFree> <br>\
+<b>اَنْا=هُ</b>               1     <br>\
+                     اَنْا=هُ<br>\
+                     ذ<br>\
+                  : see ا=نَاهُ in art. انى.    </entryFree> <br>\
+<b>اِسْتَنْاَى</b>               1     <br>\
+                     اِسْتَنْاَى<br>\
+                     ذ<br>\
+                  : <i>i. q.</i> <br>\
+                  اِسْتَنَاءَ q. v. in art. نوا.    </entryFree> <br>\
+<b>نُوْىٌ</b>               1     <br>\
+                     نُوْىٌ<br>\
+                     ذ<br>\
+                  <i>A trench dug round a tent,</i> (S, K,) or <i>a barrier</i> [<i>raised</i>] <i>around it,</i> (T, IB, TA,) <i>to prevent the rain-water from entering it,</i> (S,) or <i>keep off a torrent.</i> (K.)   </entryFree> <br>\
+' } );

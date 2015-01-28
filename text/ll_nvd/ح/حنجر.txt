@@ -1,0 +1,7 @@
+load_data( { book: 'll_nvd', text: 'حنجرحَنْجَرَهُ, here mentioned in the K: see art.<br>\
+حجر, in which I have mentioned it as Q. Q.,<br>\
+like the two words here following, which are<br>\
+mentioned in the latter art. in the S and K &amp;c.<br>\
+حَنْجرَةٌ: see art. حجر.<br>\
+حُنْجُورٌ: see art. حجر.<br>\
+' } );

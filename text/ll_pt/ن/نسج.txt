@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>نسج</em>            1                  نسج<br>\
+<b>نَسِيجَهٌ</b>               1     <br>\
+                     نَسِيجَهٌ<br>\
+                     ذ<br>\
+                  , applied to a wind: see نَيِّحَة, art. نوح.   </entryFree> <br>\
+' } );

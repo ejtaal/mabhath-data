@@ -1,0 +1,9 @@
+load_data( { book: 'll_nvd', text: 'شنبثQ. 1<br>\
+شَنْبَثَ الهَوَى قَلْبَهُ, (S and L in art. شبث,<br>\
+as Q. Q., and K in the present art.,) inf. n. شَنْبَثَةٌ,<br>\
+(S, L,) Love clave to his heart. (S, L, K.)<br>\
+الشَّنْبَثُ The lion; as also ↓ الشُّنَابِثُ. (K.)<br>\
+شُنَابِثٌ Thick, gross, big, bulky, coarse, or<br>\
+rough; syn. غَلِيظٌ. (K.) ―<br>\
+-b2-  See also الشَّنْبَثُ.<br>\
+' } );

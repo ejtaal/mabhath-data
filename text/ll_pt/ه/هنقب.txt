@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>هنقب</em>            1                  هنقب<br>\
+<b>هَنْقَبٌ</b>               1     <br>\
+                     هَنْقَبٌ<br>\
+                     ذ<br>\
+                  , (K) by some written هِنْقَبٌّ, (TA,) <i>Short:</i> (K:) but it is not a word of established authority. (IDrd.)   </entryFree> <br>\
+' } );

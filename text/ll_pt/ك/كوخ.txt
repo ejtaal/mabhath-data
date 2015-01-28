@@ -1,0 +1,12 @@
+load_data( { book: 'll_pt', text: '<em>كوخ</em>            1                  كوخ<br>\
+<b>كَاخٌ</b>               1     <br>\
+                     كَاخٌ<br>\
+                     ذ<br>\
+                  : see كُوخٌ.    </entryFree> <br>\
+<b>كُوخٌ</b>               1     <br>\
+                     كُوخٌ<br>\
+                     ذ<br>\
+                  , (S, L, K,) a Persian word, (L,) and ↓ <br>\
+      كَاخٌ, (K,) <i>A house</i> [or <i>hut</i>] <i>with a gibbous roof:</i> (L, TA:) <i>a house</i> [or <i>hut</i>] <i>of reeds</i> or <i>canes,</i> (<i>with a gibbous roof,</i> K,) <i>without an aperture for the admission of light:</i> (S, L, K:) <i>any place which a husbandman</i> or <i>a gardener prepares in which to guard his growing corn</i> or <i>his garden:</i> and the people of Marw give the name of ↓ <br>\
+      كاخ to <i>a pavilion</i> (قَصْر) <i>made in a garden</i> or <i>other place:</i> (L:) pl. اَكْوَاخٌ (S, K) and كُوخَانٌ and كِيخَانٌ and كِوَخَةٌ: (K, TA:) [the last, in the CK, written كُوَخَةٌ].    <br>\
+' } );

@@ -1,0 +1,22 @@
+load_data( { book: 'll_nvd', text: 'مجن1<br>\
+مَجَنَ<br>\
+He cared not for what he did (S.<br>\
+Mgh, K *) nor for what was said to him. (Mgh,<br>\
+K. *) The epithet is مَاجِنٌ. (S, Mgh, K.)<br>\
+عُقْبَةٌ مَجُونٌ<br>\
+[A stage of a journey, or a march<br>\
+or journey from one halting-place to another,]<br>\
+that is far, or distant, or long. (ISk in TA,<br>\
+voce بَاسِطَةٌ: but it is not quite clear in my copy<br>\
+of the TA whether it be مَجُونٌ or هَجُونٌ.)<br>\
+مَجَّانٌ<br>\
+The gift of a thing without price. (IF,<br>\
+Msb.) ―<br>\
+-b2-  فَعَلْتُهُ مَجَّانًا<br>\
+I did it without compensation. (Msb.) هٰذَا الشَّىْءُ لَهُ مَجَّانًا<br>\
+This thing<br>\
+is for him without an equivalent. (El-Farábee,<br>\
+Msb.)<br>\
+مَاجِنٌ<br>\
+: see 1.<br>\
+' } );

@@ -1,0 +1,4 @@
+load_data( { book: 'll_nvd', text: 'معس8<br>\
+اِمْتَعَسَ<br>\
+: see أَلْوَثَ.<br>\
+' } );

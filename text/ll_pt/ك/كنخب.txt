@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>كنخب</em>            1                  كنخب<br>\
+<b>كَنْخَبَةٌ</b>               1     <br>\
+                     كَنْخَبَةٌ<br>\
+                     ذ<br>\
+                  <i>Confusion of speech, or discourse, by reason of errors, or mistakes.</i> (Yoo, K.) [App. an inf. n. of which the verb is كَنْخَبَ.]   </entryFree> <br>\
+' } );

@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>رغف</em>            1                  رغف<br>\
+<b>رَغَفَ</b>               1     <br>\
+                     رَغَفَ<br>\
+                     ذ<br>\
+                  , (JK, O, Msb,) aor.      <br>\
+                     رَغَفَ<br>\
+                  , (O, Msb,) inf. n. رَغْفٌ, (JK, O, Msb, K,) <i>He collected together</i> (JK, O, Msb, K) clay, (JK, O, K,) or dough, (Msb, O, K,) <i>making it into a compact mass,</i> (JK, O, K,) or <i>making it round</i> (Msb) [<i>and flat, but not thin,</i> or <i>not very thin</i>], <i>with his hand.</i> (Msb, O, K.) ―         -b2-  رَغَفَ البَعِيرٌ, (JK, O, K,) aor. as above, (O, K,) and so the inf. n., (JK, O,) <i>He put into the camel&#39;s mouth, by mouthfuls, seeds</i> (بَزْر), and <i>flour,</i> (JK, O, K,) and <i>the like.</i> (O, K.)    </entryFree> <br>\
+<b>ارغف</b>               1     <br>\
+                     ارغف<br>\
+                     ذ<br>\
+                  <i>He looked sharply,</i> or <i>intently,</i> or <i>attentively;</i> (JK, O, K;) اـِلَيْهِ [<i>at him,</i> or <i>it</i>]; (TK;) said of a man and of a lion. (O.) ―         -b2-  And <i>He hastened, made haste,</i> or <i>sped, in going, journeying,</i> or <i>pace.</i> (K.)    </entryFree> <br>\
+<b>رَغِيفٌ</b>               1     <br>\
+                     رَغِيفٌ<br>\
+                     ذ<br>\
+                  <i>A round cake</i> (MA, KL) <i>of bread,</i> (S, MA, Mgh, KL,) <i>such as is thick,</i> or <i>not thin,</i> (MA,) the <i>contr. of such as is termed</i> <br>\
+                  رَقِيق; (Mgh;) [<i>generally about a span,</i> or <i>less, in width, and from half an inch to an inch in thickness;</i>] of the measure فَعِيلٌ in the sense of the measure مَفْعُولٌ, (Msb,) from رَغَفَ as expl. in the first sentence above: (JK, O, Msb, K:) pl. [of pauc.] اَرْغِفَةٌ (S, O, Msb, K) and [of mult.] رُغْفَانٌ (JK, S, MA, Mgh, Msb, K) and رُغُفٌ (JK, S, O, Msb) and رُغْفٌ and ↓ <br>\
+      تَرَاغِيفُ; (JK, O, K;) the last anomalous, (TK,) mentioned by Ibn-&#39;Abbád. (O.)    </entryFree> <br>\
+<b>تَرَاغِيفُ</b>               1     <br>\
+                     تَرَاغِيفُ<br>\
+                     ذ<br>\
+                  : see what next precedes. [This art. is wanting in the copies of the L and TA to which I have had access.]   </entryFree> <br>\
+            <div2 n=&quot;Quasi rgld&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+               Quasi رغلد<br>\
+<b>اِرْغَلَّدَ</b>               1     <br>\
+                     اِرْغَلَّدَ<br>\
+                     ذ<br>\
+                  : see Q. Q. 3 in art. رغد.   </entryFree> <br>\
+' } );

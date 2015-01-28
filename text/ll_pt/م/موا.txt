@@ -1,0 +1,13 @@
+load_data( { book: 'll_pt', text: '<em>موا</em>            1                  موا<br>\
+<b>ما=ءٌ</b>               1     <br>\
+                     ما=ءٌ<br>\
+                     ذ<br>\
+                  <i>Water.</i> ―         -b2-  مَا=ءُ الظَّهْرِ [<i>The seminal fluid</i>]. (K, voce اِنْبَتَّ.) See Kur, lxxxvi. 6, 7, and see 4 in art. روق. ―         -b3-  مَا=ءٌ <br>\
+                  <i>Lustre</i> [likened to water, and running water,] of the teeth, (IbrD,) &amp;amp;c: see ظَلْمٌ and دَرْزٌ and غَرْبٌ. ―         -b4-  مَا=ءٌ The <i>water</i> of a sword: see فِرِنْدٌ and رَوْنَقٌ: also its <i>lustre.</i> ―         -b5-  سَيْفٌ كَثِيرُ المَا=ءِ [<i>A sword much diversified with wavy marks</i> or <i>streaks in its grain;</i> as are the swords of Damascus &amp;amp;c.] (TA voce اـِبْرِيقٌ.) ―         -b6-  بَنَاتُ المَا=ءِ <br>\
+                  <i>i. q.</i> <br>\
+                  الغَرَانِيقُ. [<i>storks</i> or <i>cranes</i>]. (L, art. وضر.) See عِرْسٌ. ―         -b7-  اِبْنُ المَا=ءِ is (tropical:)  <i>A kind of bird;</i> pl. بَنَاتُ المَا=ءِ; (Mgh in art. بنى:) <i>the aquatic bird; the bird of the water.</i> (Msb in art. بنو.) ―         -b8-  مَا=ءُ الشَّبَابِ: see شَبَابٌ. ―         -b9-  مَا=ءُ الوَجْهِ: see حَقَنَ and تَشَهَّلَ. ―         -b10-  مَا=ءُ الذَّهَبِ <br>\
+                  <i>Gold-wash</i> for gilding: and مَا=ءُ الفِضَّةِ <br>\
+                  <i>Silverwash</i> for silvering: you say, طَلَاهُ بِمَا=ءِ الذَّهَبِ, and الفِضَّةِ <br>\
+                  <i>He washed it over with gold,</i> and <i>silver.</i> ―         -b11-  مَا=ءٌ is used as a coll. gen. n., of which the n. un. is مَاءَةٌ; and therefore is sometimes made, as a pl., to have a pl. epithet: ex. مَاءٌ <br>\
+                  عِذَابٌ. (See عَذْبٌ). مَا=ءَةٌ signifies <i>A water; or some water.</i> <br>\
+' } );

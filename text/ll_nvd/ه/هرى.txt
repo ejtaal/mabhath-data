@@ -1,0 +1,3 @@
+load_data( { book: 'll_nvd', text: 'هرىهُرْىٌ<br>\
+A granary: see نِبْرٌ.<br>\
+' } );

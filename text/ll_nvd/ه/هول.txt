@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'هولمَهُولٌ<br>\
+Terrible. (TA.)<br>\
+نَِارُ المُهَوَّلِ<br>\
+: see نَارٌ.<br>\
+' } );

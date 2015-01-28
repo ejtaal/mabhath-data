@@ -1,0 +1,34 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;مان&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  مان<br>\
+&lt;entryFree id=&quot;n43478&quot; key=&quot;مَاَنَهُمْ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     مَاَنَهُمْ<br>\
+                     ذ<br>\
+                  &lt;i&gt;He sustained them; bore the burden of,&lt;/i&gt; or &lt;i&gt;undertook, their maintenance; he maintained them.&lt;/i&gt; (S, K, arts. مان and مون.) ―         -b2-  مَاَنَ القَوْمَ and ↓ <br>\
+      مَاَّنَهُمْ <br>\
+                  &lt;i&gt;He maintained,&lt;/i&gt; or &lt;i&gt;sustained, the people,&lt;/i&gt; or &lt;i&gt;party.&lt;/i&gt; (M.)    &lt;/entryFree&gt; <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     مَاََّ<br>\
+                  &lt;/form&gt; see 1.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43479&quot; key=&quot;مَاْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَاْنَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; of the belly: see جَاْبَةٌ. ―         -b2-  المَاْنَتَانِ of the hump of a camel: see قَحَدَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43480&quot; key=&quot;مُوْنَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْنَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;i. q.&lt;/i&gt; <br>\
+                  قُوْتٌ [&lt;i&gt;Food,&lt;/i&gt; &amp;amp;c.]; (M;) a dial. var. of ↓ <br>\
+      مَوُونَةٌ (q. v.); as also مُونَةٌ: pl. مُوَنٌ. (Msb.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43481&quot; key=&quot;مَيِنَّةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَيِنَّةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see art. ان, where will be found the explanations of this word given in the S and K in art. مان.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n43482&quot; key=&quot;مَوونَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَوونَةٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;A weight,&lt;/i&gt; or &lt;i&gt;burden.&lt;/i&gt; (Mgh, Msb.) See مِثْقَالٌ. ―         -b2-  &lt;i&gt;Trouble, molestation,&lt;/i&gt; or &lt;i&gt;embarrassment;&lt;/i&gt; as also ↓ <br>\
+      مُوْنَةٌ: pl. of the former مَوُونَاتٌ; and of the latter مُوَنٌ. (MA.) ―         -b3-  The &lt;i&gt;requisite means of subsistence.&lt;/i&gt; (KL.) ―         -b4-  مَوُونَةُ <br>\
+                  الجِمَاعِ: see زَافِنَةٌ: it seems to mean &lt;i&gt;the pudendum muliebre considered as the means of&lt;/i&gt; <br>\
+                  جِمَاع.   &lt;/entryFree&gt; <br>\
+' } );

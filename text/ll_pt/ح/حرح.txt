@@ -1,0 +1,48 @@
+load_data( { book: 'll_pt', text: '<em>حرح</em>            1                  حرح<br>\
+<b>حَرَحَهَا</b>               1     <br>\
+                     حَرَحَهَا<br>\
+                     حرحها<br>\
+                  , aor.      <br>\
+                     حَرَحَ<br>\
+                  , <i>He hit,</i> or <i>hurt, her</i> (a woman&#39;s) حِرْح or حِر [i. e. <i>vulva,</i> or <i>pudendum</i>]. (K.)    </entryFree> <br>\
+<b>حِرٌ</b>               1     <br>\
+                     حِرٌ<br>\
+                     حذر<br>\
+                  , (S, Mgh, Msb, K,) similar in form to يَدٌ and دَمٌ, (Msb,) and حِرٌّ (AHeyth, Az, Msb) and حِرَةٌ; (K;) the first of which is the most common; and the last, strange; (TA;) or the first is sometimes used instead of the second; (Msb;) The <i>vulva,</i> or <i>pudendum, of a woman:</i> originally ↓ <br>\
+      حِرْحٌ, (S, Mgh, Msb, K,) as is shown by the form of its broken pl., (S, Mgh, Msb,) and by that of its dim.; for in the formation of the broken pl. and of the dim., a word is restored to its original state: the final ح in the original is elided, and ر is put in its stead, and incorporated into the medial radical letter; and sometimes the word is used without any letter of compensation: thus are formed حِرٌّ and حِرٌ: (Msb:) the pl. is اَحْرَاحٌ, (S, Mgh, Msb, K,) its only broken pl., (TA,) and حِرُونَ, (S, K,) which latter is like لِدُونَ and مِيُونَ, pls. of defective nouns [لِدَةٌ and مِيَةٌ]: (S:) dim. ↓ <br>\
+      حُرَيْحٌ. (Msb.)    </entryFree> <br>\
+<b>حِرْحٌ</b>               1     <br>\
+                     حِرْحٌ<br>\
+                     حرح<br>\
+                  : see the paragraph next preceding.    </entryFree> <br>\
+<b>حَرِحٌ</b>               1     <br>\
+                     حَرِحٌ<br>\
+                     حرح<br>\
+                   A man <i>loving,</i> (L, TA,) or <i>fond of,</i> (K,) <i>the</i> <br>\
+                  اَحْرَاح [or <i>pudenda</i>] <i>of women:</i> (L, K:) an epithet after the manner of a rel. n. (Sb, TA.) ―         -b2-  See also حِرِىٌّ.    </entryFree> <br>\
+<b>حِرَحِىٌّ</b>               1     <br>\
+                     حِرَحِىٌّ<br>\
+                     حرحى<br>\
+                     حرحي<br>\
+                  : see what next follows.    </entryFree> <br>\
+<b>حِرِىٌّ</b>               1     <br>\
+                     حِرِىٌّ<br>\
+                     حر<br>\
+                     حران<br>\
+                     حرى<br>\
+                     حري<br>\
+                     حريي<br>\
+                  , and (if you will, S) ↓ <br>\
+      حِرَحِىٌّ, (S, K,) in which latter the medial radical letter is with fet-h, as in the rel. ns. formed from يَدُ and غَدٌ, namely, يَدَوِىٌّ and غَدَوِىٌّ; (S;) [<i>Of,</i> or <i>belonging to,</i> or <i>relating to, the vulva,</i> or <i>pudendum, of a woman;</i>] rel. ns. of حِرٌ [and حِرْحٌ]: and (if you will, S) you may say ↓ <br>\
+      حَرِحٌ, like سَتِةٌ. (S, K.)    </entryFree> <br>\
+<b>حُرَيحٌ</b>               1     <br>\
+                     حُرَيحٌ<br>\
+                     حريح<br>\
+                  : see حِرٌ, above.    </entryFree> <br>\
+<b>مَحْرُوحَةٌ</b>               1     <br>\
+                     مَحْرُوحَةٌ<br>\
+                     محروحه<br>\
+                     محروحة<br>\
+                   A woman <i>hit,</i> or <i>hurt, in her</i> <br>\
+                  حِرْح or حِر [i. e. <i>vulva,</i> or <i>pudendum</i>]. (K.)   </entryFree> <br>\
+' } );

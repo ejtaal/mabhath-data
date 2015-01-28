@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قهل</em>            1                  قهل<br>\
+<b>تَقَهَّلَ</b>               1     <br>\
+                     تَقَهَّلَ<br>\
+                     ذ<br>\
+                  <i>He was,</i> or <i>became, unfrequent in washing and cleansing his person; slovenly with respect to his person.</i> (K.)   </entryFree> <br>\
+' } );

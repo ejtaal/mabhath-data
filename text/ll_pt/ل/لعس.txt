@@ -1,0 +1,29 @@
+load_data( { book: 'll_pt', text: '<em>لعس</em>            1                  لعس<br>\
+<b>لَعِسَ</b>               1     <br>\
+                     لَعِسَ<br>\
+                     ذ<br>\
+                  , aor.      <br>\
+                     لَعَسَ<br>\
+                  , (K,) inf. n. لَعَسٌ, (TA,) [<i>He vas,</i> or <i>became, characterized, by what is termed</i> <br>\
+                  لَعَسٌ <br>\
+                  <i>and</i> <br>\
+                  لُعْسَةٌ; (see the former of these words below;)] <i>he had a blackness, deemed beautiful, in the lip.</i> (K.)    </entryFree> <br>\
+<b>لَعَسٌ</b>               1     <br>\
+                     لَعَسٌ<br>\
+                     ذ<br>\
+                   The <i>colour of the lip when it inclines a little to blackness; which is deemed beautiful:</i> (S:) or <i>a blackness, deemed beautiful, in the lip</i> (As, A, K, TA) and <i>in the gum;</i> (As, TA;) as also ↓ <br>\
+      لُعْسَةٌ [which is likewise syn. with the former word in the other senses here explained]: (A:) or <i>blackness</i> [blending] <i>with redness:</i> and, accord. to El-&#39;Ajjáj, ↓ <br>\
+      لُعْسَةٌ is in the whole of the person: Az says, that لَعَسٌ of the complexion is <i>a blackness</i> thereof. (TA.) See also اَلْعَسُ.    </entryFree> <br>\
+<b>لُعْسَةٌ</b>               1     <br>\
+                     لُعْسَةٌ<br>\
+                     ذ<br>\
+                  : see لَعَسٌ.    </entryFree> <br>\
+<b>اَلْعَسُ</b>               1     <br>\
+                     اَلْعَسُ<br>\
+                     ذ<br>\
+                  <i>Having a blackness, deemed beautiful, in the lip:</i> fem. لَعْسَا=ءُ: pl. لُعْسٌ: (K:) the pl., applied to girls and to women, signifies [as above; or] <i>having a blackness in their lips;</i> (TA;) or <i>having lips of a colour inclining a little to blackness, which is deemed beautiful:</i> (S:) the fem. is also applied to a lip, (شَفَة,) signifying <i>of a colour inclining a little to blackness, which is deemed beautiful;</i> (S;) or <i>having a blackness, deemed beautiful;</i> and in like manner the pl. to lips: (A:) and the masc. to the external skin, (بَشَر); so applied by El-&#39;Ajjáj: (TA:) and the fem. to a girl, as signifying <i>having in her complexion the least degree of blackness, and tinged with redness,</i> (A, K, TA,) <i>not of a clear hue:</i> (TA:) and the pl. to girls, as signifying <i>having a blackness in their complexions.</i> (Az, TA.) ―         -b2-  You also say, (S, K,) sometimes, (S,) نَبَاتٌ اَلْعَسُ, meaning <i>Abundant and dense herbage;</i> (S, K;) because such inclines to blackness. (S.)   </entryFree> <br>\
+            <div2 n=&quot;lET lEf lEq lEm lEn&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot;<br>\
+                  TEIform=&quot;div2&quot;><br>\
+                  لعط لعف لعق لعم لعن<br>\
+               <entryFree>See Supplement   </entryFree> <br>\
+' } );

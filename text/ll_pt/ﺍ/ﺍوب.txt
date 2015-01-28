@@ -1,0 +1,164 @@
+load_data( { book: 'll_pt', text: '&lt;div2 n=&quot;اوب&quot; type=&quot;root&quot; org=&quot;uniform&quot; sample=&quot;complete&quot; part=&quot;N&quot; TEIform=&quot;div2&quot;&gt;            1               &lt;head TEIform=&quot;head&quot;&gt;<br>\
+                  اوب<br>\
+&lt;entryFree id=&quot;n1455&quot; key=&quot;ا=بَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;1&lt;/itype&gt;        <br>\
+                     ا=بَ<br>\
+                     ا=ب<br>\
+                  &lt;/form&gt;, aor. يَوُوبُ, (T, S, &amp;amp;c.,) inf. n. اَوْبٌ (S, M, Msb, K) and اـِيَابٌ and اَوْبَةٌ (T, S, M, K) and اَيْبَةٌ, (M, K,) ى taking the place of و, (M,) and اـِيبَةٌ (Lh, M, K) and مَا=بٌ [like مَا=لٌ], (Msb, TA,) &lt;i&gt;He&lt;/i&gt; (an absent person, T) &lt;i&gt;returned&lt;/i&gt; (T, S, M, A, Mgh, Msb, K) to his place, (Sh,) or to a thing, (M,) or from his journey; (Msb;) as also ↓ <br>\
+      اوّب, (M,) inf. n. تَاْوِيبٌ and تَاْيِيبٌ; (K;) and ↓ <br>\
+      تاوّب; (M, K;) and ↓ <br>\
+      ايتاب [written with the disjunctive alif اِيتَابَ]; (S;) and ↓ <br>\
+      اَيَّبَ, [a quasi-quadriliteralradical verb, originally اَيْوَبَ,] of the measure فَيْعَلَ, (M,) inf. n. اـيَّابٌ, (M, K,) originally اـيوَابٌ, of the measure فِيعَالٌ, (M, TA,) or, accord. to Fr, اـِيَّابٌ is incorrect, and the right word is اـِيَابٌ: (TA:) [and if so, اَيَّبَ is perhaps changed from اَوَّبَ, like as اَيْبَةٌ is from اَوْبَةٌ; and تَاْيِيبٌ is perhaps its inf. n., changed from تَاْوِيبٌ:] or, as some say, اـِيَابٌ signifies only the &lt;i&gt;returning&lt;/i&gt; to one&#39;s family &lt;i&gt;at night:&lt;/i&gt; (M, TA:) and اَهْلَهُ ↓ <br>\
+      تاوّب and اهله ↓ <br>\
+      ايتاب [as well as ا=بَ اـِلَى اَهْلِهِ] signify &lt;i&gt;he returned to his family at,&lt;/i&gt; or &lt;i&gt;in, the night:&lt;/i&gt; (T, TA:) or ا=بَ اـِلَيْهِمْ, (S,) [or ا=بَهُمْ, accord. to a copy of the A, where we find اُبْتُ بَنِي فُلَانٍ,] aor. as above; (TA;) and ↓ <br>\
+      تَاَوَّبَهُمْ (S, A, K) and ↓, تَاَيَّبَهُمْ, (K,) ى taking the place of و, (TA,) inf. n. مُتَاَوَّبٌ and مُتَاَيَّبٌ, (M, * [in which the two forms of the verb are also given, but with the sing. pronoun of the third pers. instead of the pl.,] and K,) each in the form of a pass. part. n.; (TA;) &lt;i&gt;he came to them at night:&lt;/i&gt; (S, M, * A, K:) and ا=بَ المَا=ءَ, (M,) inf. n. اَوْبٌ, (K,) signifies &lt;i&gt;he came to the water, to drink, at night;&lt;/i&gt; as also ↓ <br>\
+      ايتابهُ; (M, K;) and ↓ <br>\
+      تاوّبهُ: (M:) or, accord. to AZ, تَاَوَّبتُ signifies &lt;i&gt;I came in the beginning of the night.&lt;/i&gt; (S.) You say also, ا=بَتِ الشَّمْسُ, (T, S, &amp;amp;c.,) aor. تَوُوبُ, (M,) inf. n. مَا=بٌ, (T,) or اـِيَابٌ [in the CK اَياب] and اُيُوبٌ, (M, K,) &lt;i&gt;The sun returned from its place of rising, and set:&lt;/i&gt; (Msb:) or &lt;i&gt;the sun set;&lt;/i&gt; (T, S, M, A, K;) as though it returned to the place whence it commenced its course; (M;) [or] it is a dial. var. of غَابَت. (S.) And ا=بَ اـِلَيْهِ <br>\
+                  &lt;i&gt;People came to him from every direction,&lt;/i&gt; or &lt;i&gt;quarter.&lt;/i&gt; (TA, from a trad.) The poet Sáideh Ibn-El-&#39;Ajlán uses the expression, لَا=بَكَ مُرْهَفٌ, meaning &lt;i&gt;A thin sword would have come to thee;&lt;/i&gt; in which the verb may be trans. by itself, or the prep. اـِلَى may be understood. (M, TA.) ―         -b2-  &lt;i&gt;He returned from disobedience to obedience; he repented.&lt;/i&gt; (TA.) And ا=بَ اـِلَى اْللّٰهِ <br>\
+                  &lt;i&gt;He returned unto God from his sin,&lt;/i&gt; or &lt;i&gt;offence, and repented.&lt;/i&gt; (Msb.) ―         -b3-  ا=بَ بِهِ اـِلَيْهِ <br>\
+                  &lt;i&gt;He made him to return to him,&lt;/i&gt; or &lt;i&gt;it;&lt;/i&gt; as also اـلَيْهِ ↓ <br>\
+      اوّبهُ. (M.) And ا=بَ يَدَهُ اـِلَى سَيْفِهِ, (as in a copy of the T,) or بِيَدِهِ, (as in a copy of the A, [which is probably here the more correct],) &lt;i&gt;He put back his hand to his sword&lt;/i&gt; to draw it: (Lth, T, A:) and الى قَوْسِهِ [&lt;i&gt;to his bow&lt;/i&gt;] to draw it: and الى سَهْمِهِ [&lt;i&gt;to his arrow&lt;/i&gt;] to shoot it. (A.) ―         -b4-  See also 2.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1456&quot; key=&quot;اوّب&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;2&lt;/itype&gt;        <br>\
+                     اوّب<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, first sentence: ―         -b2-  and the same again, near the end. ―         -b3-  &lt;i&gt;He repeated,&lt;/i&gt; or &lt;i&gt;echoed, the praises of God:&lt;/i&gt; thus in the saying [in the Kur xxxiv. 10], يَا جِبَالُ اَوِّبِى مَعَهُ <br>\
+                  &lt;i&gt;0 mountains, repeat ye,&lt;/i&gt; or &lt;i&gt;echo ye, the praises of God with him;&lt;/i&gt; [i. e., with David;] (S, * M, TA;) but some read معه ↓ <br>\
+      اُوبِى, meaning &lt;i&gt;return ye with him in praising as often as he returneth therein:&lt;/i&gt; (M, TA:) or, accord. to the former reading, the meaning is, &lt;i&gt;0 mountains, labour ye with him in praising God all the day, until the night:&lt;/i&gt; (T:) &lt;pb n=&quot;124&quot; TEIform=&quot;pb&quot;/&gt; for ―         -b4-  اوّب, (T, A,) inf. n. تَاْوِيبٌ, (T, A, K) also signifies &lt;i&gt;It&lt;/i&gt; (a company of men) &lt;i&gt;journeyed by day:&lt;/i&gt; (Aboo-Málik, T:) or &lt;i&gt;all the day,&lt;/i&gt; (T, A, K,) &lt;i&gt;to the night,&lt;/i&gt; (T,) &lt;i&gt;without alighting to rest:&lt;/i&gt; (TA:) تاويب being the same kind of day-journeying as اـِسْا=دٌ is of night-journeying: (T, M:) or &lt;i&gt;he journeyed all the day, and alighted at night:&lt;/i&gt; (T, S:) or &lt;i&gt;he journeyed by night:&lt;/i&gt; (Msb:) or تاويب (M, L, K) and ↓ <br>\
+      مُوَاوَبَةٌ (Lth, T, L, K) signify the &lt;i&gt;vying, one with another,&lt;/i&gt; of travellingcamels, &lt;i&gt;in pace,&lt;/i&gt; or &lt;i&gt;going.&lt;/i&gt; (Lth, T, M, L, K.) A poet says, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt; ↓ <br>\
+      تَجِدْهُ مِيْوَبَا ↓ <br>\
+      وَاـِنْ تُوَاوِبْهُ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And if thou,&lt;/i&gt; or &lt;i&gt;they,&lt;/i&gt; (meaning camels,) &lt;i&gt;vie with him in pace,&lt;/i&gt; or &lt;i&gt;going, thou wilt,&lt;/i&gt; or &lt;i&gt;they will, find him to be one that overcomes therein&lt;/i&gt;]: so as related by Lth: but as related by others, تُوَوِّبْهُ. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1457&quot; key=&quot;ا=وب&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;3&lt;/itype&gt;        <br>\
+                     ا=وب<br>\
+                     ٥<br>\
+                  &lt;/form&gt;, inf. n. مُوَاوَبَةٌ: see 2, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1458&quot; key=&quot;٥&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;5&lt;/itype&gt;        <br>\
+                     تاوّب<br>\
+                     ذ and        <br>\
+      تايّب<br>\
+                  &lt;/form&gt;: see 1, in five places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1459&quot; key=&quot;ايتاب&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     &lt;itype&gt;8&lt;/itype&gt;        <br>\
+                     ايتاب<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see 1, in three places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1460&quot; key=&quot;اَيَّبَ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                  &lt;form type=&quot;Q Q&quot;&gt;       <br>\
+                     &lt;itype&gt;Q. Q. 1&lt;/itype&gt;        <br>\
+                     اَيَّبَ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, originally اَيْوَبَ: see 1, first sentence.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1461&quot; key=&quot;ا=بُ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=بُ<br>\
+                     ا=ب<br>\
+                  &lt;i&gt;The name of a [Syrian] month [corresponding to August, O. S.&lt;/i&gt;]: an arabicized word. (IAar, M, K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1462&quot; key=&quot;اَوْبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوْبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; an inf. n. of 1. (S, M, Msb, K.) ―         -b2-  Also The &lt;i&gt;returning of the fore and hind legs&lt;/i&gt; of a beast &lt;i&gt;in going along:&lt;/i&gt; (T, M, A, * K:) or &lt;i&gt;quickness in the changing,&lt;/i&gt; or &lt;i&gt;shifting, of the fore and hind legs in going along:&lt;/i&gt; (S:) and simply &lt;i&gt;quickness,&lt;/i&gt; or &lt;i&gt;swiftness.&lt;/i&gt; (M, K.) One says, مَا اَعْجَبَ اَوْبَ يَدَيْهَا <br>\
+                  &lt;i&gt;How wonderful is the returning&lt;/i&gt; [or &lt;i&gt;quick shifting] of her fore legs!&lt;/i&gt; (A.) And to one going at a quick pace, one says, الاَوْبَ الاَوْبَ [meaning &lt;i&gt;Keep to the quick changing,&lt;/i&gt; or &lt;i&gt;shifting, of the legs;&lt;/i&gt; a verb being understood: or &lt;i&gt;Trot on! Trot on!&lt;/i&gt;]. (A.) ―         -b3-  &lt;i&gt;A right,&lt;/i&gt; or &lt;i&gt;direct, way, course,&lt;/i&gt; or &lt;i&gt;tendency;&lt;/i&gt; syn. قَصْدٌ and اِسْتِقَامَةٌ. (M [in which these two syns. are mentioned together] and K [in which another explanation intervenes between them, namely عادة, as though they were meant to be understood in different senses, which I do not think to be the case].) ―         -b4-  &lt;i&gt;A direction:&lt;/i&gt; as in the saying, رَمَى اَوبًا اَوْ اَوْبَيْنِ [&lt;i&gt;He shot,&lt;/i&gt; or &lt;i&gt;cast, in one direction, or in two directions&lt;/i&gt;]. (M, A.) ―         -b5-  &lt;i&gt;A course, way, mode,&lt;/i&gt; or &lt;i&gt;manner, of acting,&lt;/i&gt; or &lt;i&gt;conduct,&lt;/i&gt; or &lt;i&gt;the like:&lt;/i&gt; (A:) &lt;i&gt;custom.&lt;/i&gt; (Lh, M, A, K.) You say, كُنْتُ عَلَى صَوْبِ فُلَانٍ وَاَوْبِهِ <br>\
+                  &lt;i&gt;I was&lt;/i&gt; [proceeding] &lt;i&gt;in the course, way, mode,&lt;/i&gt; or &lt;i&gt;manner, of acting, &amp;amp;c., of such a one.&lt;/i&gt; (A.) And مَا زَالَ هٰذَا اَوْبَهُ <br>\
+                  &lt;i&gt;This ceased not to be his course, way, mode,&lt;/i&gt; or &lt;i&gt;manner,&lt;/i&gt; &amp;amp;c.: (A:) or &lt;i&gt;his custom.&lt;/i&gt; (Lh, M, A.) ―         -b6-  &lt;i&gt;A way,&lt;/i&gt; or &lt;i&gt;road:&lt;/i&gt; (M, Msb, K:) &lt;i&gt;a quarter:&lt;/i&gt; (&#39;Eyn, M, A, K:) &lt;i&gt;a tract,&lt;/i&gt; or &lt;i&gt;side:&lt;/i&gt; (&#39;Eyn, S:) &lt;i&gt;a place:&lt;/i&gt; (S:) &lt;i&gt;a place to which one returns&lt;/i&gt; [like مَا=بٌ]. (A, Msb.) You say, جَاوُوا <br>\
+                  مِنْ كُلِّ اَوْبٍ <br>\
+                  &lt;i&gt;They came from every way,&lt;/i&gt; or &lt;i&gt;road,&lt;/i&gt; (M, Msb,) or &lt;i&gt;quarter,&lt;/i&gt; (&#39;Eyn, M, A,) or &lt;i&gt;tract,&lt;/i&gt; or &lt;i&gt;side,&lt;/i&gt; (&#39;Eyn, S,) &lt;i&gt;and place,&lt;/i&gt; (S,) or &lt;i&gt;place to which one returns.&lt;/i&gt; (A, Msb.) And اَوْبَا الوَادِى signifies &lt;i&gt;The two sides of the valley.&lt;/i&gt; (A.)       -A2-  &lt;i&gt;Bees:&lt;/i&gt; (M, K:) a quasi-pl. n.: as though the sing. were ا=يِبٌ: AHn says that they are so called because of their returning to the مَبَا=ءَة, i. e. the place where they hive for the night. (M, TA.) See ا=يِبٌ. ―         -b2-  The &lt;i&gt;clouds.&lt;/i&gt; (K.) ―         -b3-  The &lt;i&gt;wind.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1463&quot; key=&quot;اَوْبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوْبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; and ↓ <br>\
+      اَيْبَةٌ <br>\
+                  &lt;i&gt;Return;&lt;/i&gt; (T, A, K;) as also ↓ <br>\
+      اـِيَابَةٌ, a subst. from ا=بَ. (Msb.) You say, لِيَهْنِيْكَ اَوْبَةُ الغَايِبِ [&lt;i&gt;May the return of the absent give thee joy&lt;/i&gt;]. (TA.) And فُلانٌ سَرِيعُ الاَوْبَةِ and ↓ <br>\
+      الاَيْبَةِ <br>\
+                  &lt;i&gt;Such a one is quick in return.&lt;/i&gt; (A &#39;Obeyd, T, S. *) ―         -b2-  &lt;i&gt;Return from disobedience to obedience; repentance.&lt;/i&gt; (TA in art. ايب.) ―         -b3-  كَلَامٌ لَا اَوْبَةَ لَهُ <br>\
+                  &lt;i&gt;Speech,&lt;/i&gt; or &lt;i&gt;language, without profit.&lt;/i&gt; (A.)       -A2-  اَوْبَةٌ is also the sing. of اَوْبَاتٌ, which signifies The &lt;i&gt;legs&lt;/i&gt; of a beast. (K, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1464&quot; key=&quot;اَيْبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَيْبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see اَوْبَةٌ, in two places.       -A2-  Also, (as in some copies of the K,) or ↓ <br>\
+      اـِيبَةٌ, (accord. to the CK,) or ↓ <br>\
+      ا=يِبَةٌ, (accord. to the TK,) &lt;i&gt;A noon-day draught&lt;/i&gt; or &lt;i&gt;drink.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1465&quot; key=&quot;اـِيبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيبَةٌ<br>\
+                     ايبه<br>\
+                     ايبة<br>\
+                     آيب<br>\
+                     آيبه<br>\
+                     آيبة<br>\
+                  &lt;/form&gt;: see what next precedes.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1466&quot; key=&quot;اَوُوبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوُوبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; A she-camel &lt;i&gt;quick in the changing,&lt;/i&gt; or &lt;i&gt;shifting, of her fore and kind legs in going along.&lt;/i&gt; (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1467&quot; key=&quot;اـِيَابَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اـِيَابَةٌ<br>\
+                     اـياب<br>\
+                     اـيابه<br>\
+                     ايابه<br>\
+                     ايابة<br>\
+                  &lt;/form&gt;: see اَوْبَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1468&quot; key=&quot;اَوَّابٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     اَوَّابٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Frequent in returning.&lt;/i&gt; (T.) ―         -b2-  &lt;i&gt;Frequent in returning unto God, from one&#39;s sins;&lt;/i&gt; (M, TA;) &lt;i&gt;wont to repent,&lt;/i&gt; or &lt;i&gt;frequent in repenting:&lt;/i&gt; (Zj, T, A, Mgh, Msb:) or &lt;i&gt;turning from disobedience to obedience:&lt;/i&gt; or (S, L:) or &lt;i&gt;a praiser of God;&lt;/i&gt; (Sa&#39;eed Ibn-Jubeyr, TA;) by which is here meant, in the prayer of the period of the forenoon called الضُّحَى, when the sun is high, and the heat violent; hence termed صَلَاةُ الاَوَّابِينَ; which is performed when the young camels feel the heat of the sun from the parched ground: (TA:) or &lt;i&gt;obedient:&lt;/i&gt; (Katádeh, TA:) or &lt;i&gt;one who reflects upon his sins in solitude, and prays God to forgive them:&lt;/i&gt; (TA:) or one &lt;i&gt;who keeps,&lt;/i&gt; or &lt;i&gt;is mindful of, the ordinances prescribed by God,&lt;/i&gt; (حَفِيظٌ, [which is thus explained by Bd and Jel as occurring in the Kur l. 31,]) &lt;i&gt;and does not rise from his sitting-place until he begs forgiveness of God:&lt;/i&gt; (&#39;Obeyd Ibn-&#39;Omeyr, T, TA: * [but this is evidently meant as an explanation of اَوَّابٌ together with حَفِيظٌ: see the Kur ubi suprà:]) or one &lt;i&gt;who sins, and then returns to obedience, and then sins, and then returns to obedience.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1469&quot; key=&quot;ا=يِبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=يِبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; act. part. n. of ا=بَ; &lt;i&gt;Returning:&lt;/i&gt; [&amp;amp;c.:] (M, Msb:) pl. اُوَّابٌ and اُيَّابٌ and ↓ <br>\
+      اَوْبٌ [q. v.]: (M, K:) or, accord. to some, the last is a quasipl. n. (M, TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1470&quot; key=&quot;ا=يِبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     ا=يِبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; The &lt;i&gt;coming&lt;/i&gt; of camels &lt;i&gt;to water, to drink, every night:&lt;/i&gt; whence the saying, &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        لَا تَرِدَنَّ المَا=ءَ اـِلَّا ا=يِبَهْ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;Do not thou come to the water, to drink, unless coming to it every night&lt;/i&gt;]. (IAar, M.) ―         -b2-  See also اَيْبَةٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1471&quot; key=&quot;مَا=بٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَا=بٌ<br>\
+                     ما=ب<br>\
+                  &lt;i&gt;A place to which one returns:&lt;/i&gt; (T, S, K:) &lt;i&gt;a settled,&lt;/i&gt; or &lt;i&gt;fixed, abode,&lt;/i&gt; or &lt;i&gt;dwelling-place:&lt;/i&gt; (TA:) the &lt;i&gt;place to which one is translated,&lt;/i&gt; or &lt;i&gt;removed, by death:&lt;/i&gt; (K, TA:) the &lt;i&gt;goal to which the course of life ultimately leads one;&lt;/i&gt; or &lt;i&gt;place to which one returns in the ultimate state,&lt;/i&gt; or &lt;i&gt;world to come.&lt;/i&gt; (T, TA.) ―         -b2-  The &lt;i&gt;place where the sun sets.&lt;/i&gt; (TA.) ―         -b3-  [&lt;i&gt;A day-journey:&lt;/i&gt; pl. مَا=وِبُ; as in the saying,] بَيْنَهُمَ ثَلَاثُ مَا=وِبَ <br>\
+                  &lt;i&gt;Between them two are three day-journeys.&lt;/i&gt; (K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1472&quot; key=&quot;مِيْوَبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مِيْوَبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [A camel &lt;i&gt;that overcomes in vying with another,&lt;/i&gt; or &lt;i&gt;others, in pace,&lt;/i&gt; or &lt;i&gt;going&lt;/i&gt;]: see an ex. voce اَوَّبَ. (T.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1473&quot; key=&quot;مَا=بَةُ البِيْرِ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مَا=بَةُ البِيْرِ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; [&lt;i&gt;The place where the water flows again into the well to supply the deficiency occasioned by drawing;&lt;/i&gt;] &lt;i&gt;the مَبَا=ءَة of the well;&lt;/i&gt; i. e. &lt;i&gt;the place where the water collects in the well.&lt;/i&gt; (TA.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1474&quot; key=&quot;رِيحٌ مُوَوِبَةٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     رِيحٌ مُوَوِبَةٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;, (IB, CK,) or مُوَوَّبَةٌ, (as in a copy of the M, and in some copies of the K,) &lt;i&gt;A wind blowing throughout the whole day:&lt;/i&gt; (M, K:) or &lt;i&gt;a wind that comes at night.&lt;/i&gt; (IB.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1475&quot; key=&quot;مُوْتَابٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُوْتَابٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُتَاَوِّبٌ, in two places.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1476&quot; key=&quot;مُتَاَوَّبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَوَّبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt; an inf. n. of 5, q. v.; as also ↓ <br>\
+      مُتَاَيَّبٌ. (M, * K.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1477&quot; key=&quot;مُتَاَوِّبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَوِّبٌ<br>\
+                     ذ<br>\
+                  &lt;i&gt;Returning to one&#39;s family at,&lt;/i&gt; or &lt;i&gt;in, the night;&lt;/i&gt; as also ↓ <br>\
+      مُوْتَابٌ: (TA:) or, as also ↓ <br>\
+      مُتَاَيِبٌ, &lt;i&gt;coming at night:&lt;/i&gt; or &lt;i&gt;coming in the beginning of the night:&lt;/i&gt; (S:) [and so ↓ <br>\
+      مُوْتَابٌ, as in the following ex.:] &lt;quote TEIform=&quot;quote&quot;&gt;<br>\
+                     &lt;L&gt;<br>\
+                        وَمَنْ يَتَّقْ فَاـِنَّ اْللّٰهَ مَعْهُ وَرِزْقُ اْللّٰهِ مُوْتَابٌ وَغَادِ<br>\
+                  &lt;/quote&gt; [&lt;i&gt;And whoso feareth God, verily God is with him; and the supply of God cometh&lt;/i&gt; to him &lt;i&gt;at night,&lt;/i&gt; or &lt;i&gt;in the beginning of the night, and cometh early in the morning:&lt;/i&gt; <br>\
+                  يَتَّقْ being here put for يَتَّقِ, by a necessary poetical licence: see art. وقى]. (S.)    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1478&quot; key=&quot;مُتَاَيَّبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَيَّبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُتَاَوَّبٌ.    &lt;/entryFree&gt; <br>\
+&lt;entryFree id=&quot;n1479&quot; key=&quot;مُتَاَيِبٌ&quot; type=&quot;main&quot;&gt;               1     <br>\
+                     مُتَاَيِبٌ<br>\
+                     ذ<br>\
+                  &lt;/form&gt;: see مُتَاَوِّبٌ.   &lt;/entryFree&gt; <br>\
+' } );

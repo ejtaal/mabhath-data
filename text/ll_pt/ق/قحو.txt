@@ -1,0 +1,6 @@
+load_data( { book: 'll_pt', text: '<em>قحو</em>            1                  قحو<br>\
+<b>اُقْحُوَانٌ</b>               1     <br>\
+                     اُقْحُوَانٌ<br>\
+                     ذ<br>\
+                  : see بَابُونَجٌ. See also a verse cited voce تَنُّومٌ.   </entryFree> <br>\
+' } );

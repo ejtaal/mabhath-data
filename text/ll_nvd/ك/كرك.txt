@@ -1,0 +1,5 @@
+load_data( { book: 'll_nvd', text: 'كرككُرْكِىٌّ<br>\
+The Numidian crane; ardea virgo:<br>\
+also called إِوَزٌّ عِراَقِىٌّ, and وَزٌّ عِرَاقِىٌّ. See أَبُو<br>\
+العَيْزَارِ and غُرْنَيْقٌ.<br>\
+' } );

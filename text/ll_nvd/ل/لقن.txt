@@ -1,0 +1,6 @@
+load_data( { book: 'll_nvd', text: 'لقن3<br>\
+لَاقَنَهُ i. q. ضَايَقَهُ. (TA voce ذَاقَنَهُ.)<br>\
+لَقَنٌ, arabicised from [the Persian] لَقَنْ [also<br>\
+written لَكَنْ]. A thing [or basin] resembling a<br>\
+طَسْت, of صُفْر [or brass]. (TA.) See إِجَّانَهٌ.<br>\
+' } );

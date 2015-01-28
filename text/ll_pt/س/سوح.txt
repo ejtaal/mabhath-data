@@ -1,0 +1,17 @@
+load_data( { book: 'll_pt', text: '<em>سوح</em>            1                  سوح<br>\
+<b>سَاحٌ</b>               1     <br>\
+                     سَاحٌ<br>\
+                     ذ<br>\
+                   [originally سَوَحٌ]: see what follows.    </entryFree> <br>\
+<b>سَاحَةٌ</b>               1     <br>\
+                     سَاحَةٌ<br>\
+                     ذ<br>\
+                   [originally سَوَحَةٌ] The <i>court,</i> or <i>open area,</i> of a house; i. e. <i>a spacious vacant part</i> or <i>portion</i> thereof, <i>in which is no building;</i> (Msb voce عَرْصَةٌ;) <i>a part</i> of a house <i>in which is no building nor roof:</i> (Har p. 33:) its بَاحَة: (S:) or its <i>yard;</i> i. e. <i>a spacious place in front</i> of a house: (Msb in the present art.:) or <i>a wide,</i> or <i>spacious, place, among the dwellings of a tribe:</i> and <i>a side, region, quarter,</i> or <i>tract;</i> or <i>a lateral,</i> or <i>an outward</i> or <i>adjacent, part</i> or <i>portion;</i> syn. نَاحِيَةٌ: (K:) the pl. is ↓ <br>\
+      سَاحٌ [or rather this is a coll. gen. n. of which ساحة is the n. un.] and [the pl. is] سَاحَاتٌ (S, Msb, K) and سُوحٌ; (S, K;) the last like بُدْنٌ pl. of بَدَنَةٌ, and خُشْبٌ pl. of خَشَبَةٌ: (S:) the dim. is ↓ <br>\
+      سُوَيْحَةٌ. (TA.) [See also 7 in art. سيح.] One says, عَمَرَ اْللّٰهُ سَاحَتَكَ [<i>May God people thy court,</i> or <i>yard;</i> or <i>make it to be well stocked with people and the like</i>]. (A.) And in a case of drought you say, اِحْمَرَّ <br>\
+                  اْللُّوحُ وَاْغُبَرَّ اْلسُّوحُ [<i>The air,</i> or <i>atmosphere, has become red, and the courts,</i> or <i>yards, have become very dusty</i>]. (A.) You say also, اـِنَّهُ لَبَرِىْءُ السَّاحَةِ, a phrase like اـِنَّهُ لَبَرِىْءُ العَذِرَةِ [expl. in art. عذر]. (TA in art. عذر.)    </entryFree> <br>\
+<b>سُوَيْحَةٌ</b>               1     <br>\
+                     سُوَيْحَةٌ<br>\
+                     ذ<br>\
+                   dim. of سَاحَةٌ, q. v. (TA.)   </entryFree> <br>\
+' } );
